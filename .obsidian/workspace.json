@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "65da8e287d5ea2c4",
+        "id": "8c8fd626a06c583c",
         "type": "tabs",
         "children": [
           {
-            "id": "ad2f7f9f19191884",
+            "id": "7d74b3e50af64528",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "bases",
+              "state": {
+                "file": "未命名 1.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 1"
             }
           }
         ]
@@ -37,7 +40,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -173,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad2f7f9f19191884",
+  "active": "7d74b3e50af64528",
   "lastOpenFiles": [
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/__专题研究_从单芯作战迈向系统集成_五___软件定义晶上系统_SDSoW_技术.md",
+    "未命名.base",
     "未命名 2.base",
     "未命名 1.base",
-    "未命名.base",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/__专题研究_从单芯作战迈向系统集成_五___软件定义晶上系统_SDSoW_技术.md",
     "02_Papers_论文/A组_CST基础理论/论文计划列表.md",
     "02_Papers_论文/A组_CST基础理论/论文矩阵计划.md",
     "02_Papers_论文/B组_SDI-CC互连体系/[V1]_P-Paradigm_NatureElectronics_综述大纲_Liquid_OODA.md",
