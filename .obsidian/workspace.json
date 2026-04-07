@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "d6501b328950abfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "65da8e287d5ea2c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad2f7f9f19191884",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd949f88af3cf3b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fee050ef16345484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1aac3f53371bad6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9901ddaa3b85a179",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d0d179c54338434e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 492.5
+  },
+  "right": {
+    "id": "d3b3cfd089b5d92b",
+    "type": "split",
+    "children": [
+      {
+        "id": "999eb72260a0822b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69d7f90f5bc85546",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "8717902d3eb40203",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "19a257f429b9c27c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3a7050ffcdf0400d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ad8869e93c966a85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "dd8753ec6979ccd7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ad2f7f9f19191884",
+  "lastOpenFiles": [
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/__专题研究_从单芯作战迈向系统集成_五___软件定义晶上系统_SDSoW_技术.md",
+    "未命名 2.base",
+    "未命名 1.base",
+    "未命名.base",
+    "02_Papers_论文/A组_CST基础理论/论文计划列表.md",
+    "02_Papers_论文/A组_CST基础理论/论文矩阵计划.md",
+    "02_Papers_论文/B组_SDI-CC互连体系/[V1]_P-Paradigm_NatureElectronics_综述大纲_Liquid_OODA.md",
+    "05_Projects_项目/发改委_集成电路_换道超车折子.md",
+    "05_Projects_项目/海河实验室重大专项/海河实验室_项目汇报_Marp演示版.pdf",
+    "05_Projects_项目/海河实验室重大专项/海河实验室_项目申报书_晶上网络中心计算_完整版.md",
+    "02_Papers_论文/B组_SDI-CC互连体系/[V2] 论文框架_P-Mapping_5plus4完备物理拓扑映射.md",
+    "02_Papers_论文/B组_SDI-CC互连体系/P-Mapping_论文全文_IEEE_TPDS.md",
+    "02_Papers_论文/B组_SDI-CC互连体系/论文框架_P-Mapping_六原语物理拓扑映射.md",
+    "01_Ideas_想法/Idea_The_One_of_ComplexNetworks_RG_Engineering.md",
+    "01_Ideas_想法/Idea_Tau_Sigma_Physical_Meaning.md",
+    "01_Ideas_想法/Idea_OODA_卫星智能体_同构定理的战略价值.md",
+    "01_Ideas_想法/Idea_Etched_Corcel_NCC_Comparison.md",
+    "01_Ideas_想法/Idea_ANN突破Gamma_st的理论构想.md"
+  ]
+}
