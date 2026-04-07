@@ -11,13 +11,14 @@
             "id": "7d74b3e50af64528",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "2026-04-07.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "2026-04-07"
             }
           }
         ]
@@ -193,8 +194,9 @@
   },
   "active": "7d74b3e50af64528",
   "lastOpenFiles": [
+    "本地数据库.base",
+    "2026-04-07.md",
     "未命名 2.base",
-    "未命名.base",
     "未命名 1.base",
     "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/__专题研究_从单芯作战迈向系统集成_五___软件定义晶上系统_SDSoW_技术.md",
     "02_Papers_论文/A组_CST基础理论/论文计划列表.md",
