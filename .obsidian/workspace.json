@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "67d63efd32869c56",
+        "id": "abcbd4048c6b1899",
         "type": "tabs",
         "children": [
           {
-            "id": "10802e8f66559da6",
+            "id": "cb37716230c5585a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.base",
-                "viewName": "表格"
+                "file": "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/软件定义晶上系统_SDSoW_未来十年_2026-2035_发展战略规划.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 1"
+              "icon": "lucide-file",
+              "title": "软件定义晶上系统_SDSoW_未来十年_2026-2035_发展战略规划"
             }
           }
         ]
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "项目布局",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,10 +193,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10802e8f66559da6",
+  "active": "cb37716230c5585a",
   "lastOpenFiles": [
-    "未命名.base",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/晶上智能网络基础研究与关键技术项目布局.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/晶上理论_技术_工程与项目.md",
+    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/晶上项目布局.pdf",
+    "00_KnowledgeBase_知识库/00_iNEST_全景知识图谱.md",
+    "05_Projects_项目/00_宽屏目录仪表盘.md",
+    "05_Projects_项目/项目布局_归口整合/[V3] 项目布局_双轨战略框架.md",
+    "02_Papers_论文/00_论文总清单.md",
+    "02_Papers_论文/00_宽屏目录仪表盘.md",
+    "02_Papers_论文/B组_SDI-CC互连体系/[V2] 论文框架_P-Mapping_5plus4完备物理拓扑映射.md",
+    "未命名 2.base",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/NaaS_完整报告.md",
     "未命名 1.base",
+    "未命名.base",
     "05_Projects_项目/海河实验室重大专项/[V1] 海河实验室_项目申报书_NPC_CPC_SDI.md",
     "05_Projects_项目/海河实验室重大专项/Figures/NCC_Comprehensive_Advantages.png",
     "05_Projects_项目/海河实验室重大专项/Figures/Latency_Comparison.png",
@@ -218,17 +231,8 @@
     "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/仿造一个大脑，就可创造智能？.md",
     "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/对话李国杰院士：突破麦肯锡和图灵的框框，人工智能要解决大问题.md",
     "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/第三代神经网络SNN获重大突破_多项成果入选CVPR_TPAMI_Nature顶尖子刊___.md",
-    "00_KnowledgeBase_知识库/00_iNEST_全景知识图谱.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/第一创新.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/第一性原理.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/智能算力.md",
-    "00_KnowledgeBase_知识库/00_宽屏目录仪表盘.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/_AIR综述__物理信息神经网络_PINN_求解偏微分方程.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/_物理学评论__从神经网络中推断高阶交互关系.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/晶上智能网络基础研究与关键技术项目布局.md",
     "upload",
     "00_KnowledgeBase_知识库/01_宏观规划与战略报告/晶上大脑方向规划（天大）.pdf",
-    "未命名 2.base",
     "05_Projects_项目/海河实验室重大专项/海河实验室_项目汇报_Marp演示版.pdf"
   ]
 }
