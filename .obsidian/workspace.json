@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8c8fd626a06c583c",
+        "id": "67d63efd32869c56",
         "type": "tabs",
         "children": [
           {
-            "id": "7d74b3e50af64528",
+            "id": "10802e8f66559da6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "01_Ideas_想法/Idea_Etched_Corcel_NCC_Comparison.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 1.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "Idea_Etched_Corcel_NCC_Comparison"
+              "icon": "lucide-table",
+              "title": "未命名 1"
             }
           }
         ]
@@ -74,12 +73,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 242.5
   },
   "right": {
     "id": "d3b3cfd089b5d92b",
@@ -155,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名 1.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 1 的大纲"
             }
           },
           {
@@ -178,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,40 +191,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9901ddaa3b85a179",
+  "active": "10802e8f66559da6",
   "lastOpenFiles": [
-    "USER.md",
-    "TOOLS.md",
-    "SOUL.md",
-    "IDENTITY.md",
-    "HEARTBEAT.md",
-    "AGENTS.md",
-    "05_Projects_项目/卫星智能体/[V10]_卫星智能体重大专项建议_LiquidOODA版.md",
-    "upload/image.png",
-    "upload",
-    "2026-04-07.md",
-    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/Workflow_Engine_SOP.md",
-    "02_Papers_论文/B组_SDI-CC互连体系/[V1]_P-Paradigm_NatureElectronics_综述大纲_Liquid_OODA.md",
-    "02_Papers_论文/A组_CST基础理论/论文矩阵计划.md",
-    "02_Papers_论文/A组_CST基础理论/论文计划列表.md",
-    "01_Ideas_想法/00_宽屏目录仪表盘.md",
-    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/晶上大脑方向规划（天大）.pdf",
-    "00_KnowledgeBase_知识库/02_CST_核心理论著作/NCC_Core_Concepts.md",
-    "00_KnowledgeBase_知识库/02_CST_核心理论著作/Data_Management_Standard.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/《人民日报》刊发高文主任署名文章《抢抓人工智能发展的历史性机遇——深刻领会习近平总书记关于人工智能的重要论述》.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/【推荐】2021​人工智能的认知神经基础白皮书（110页）附下载.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/2020年中国新基建工业互联网产业链深度分析.md",
-    "00_KnowledgeBase_知识库/00_iNEST_全景知识图谱.md",
-    "Obsidian从压缩包中打开仓库指令与方法.md",
-    "本地数据库.base",
-    "未命名 2.base",
+    "未命名.base",
     "未命名 1.base",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/__专题研究_从单芯作战迈向系统集成_五___软件定义晶上系统_SDSoW_技术.md",
-    "05_Projects_项目/发改委_集成电路_换道超车折子.md",
-    "05_Projects_项目/海河实验室重大专项/海河实验室_项目汇报_Marp演示版.pdf",
-    "05_Projects_项目/海河实验室重大专项/海河实验室_项目申报书_晶上网络中心计算_完整版.md",
-    "02_Papers_论文/B组_SDI-CC互连体系/[V2] 论文框架_P-Mapping_5plus4完备物理拓扑映射.md",
-    "02_Papers_论文/B组_SDI-CC互连体系/P-Mapping_论文全文_IEEE_TPDS.md",
-    "02_Papers_论文/B组_SDI-CC互连体系/论文框架_P-Mapping_六原语物理拓扑映射.md"
+    "05_Projects_项目/海河实验室重大专项/[V1] 海河实验室_项目申报书_NPC_CPC_SDI.md",
+    "05_Projects_项目/海河实验室重大专项/Figures/NCC_Comprehensive_Advantages.png",
+    "05_Projects_项目/海河实验室重大专项/Figures/Latency_Comparison.png",
+    "2026-04-07.md",
+    "Chats/chat-2026-04-08T11-59-43-218Z.md",
+    "ClipperMaster/欢迎使用 ClipperMaster for Obsidian.md",
+    "upload/image.png",
+    "本地数据库.base",
+    "AGENTS.md",
+    "HEARTBEAT.md",
+    "IDENTITY.md",
+    "Obsidian从压缩包中打开仓库指令与方法.md",
+    "SOUL.md",
+    "USER.md",
+    "02_Papers_论文/A组_CST基础理论/论文计划列表.md",
+    "00_KnowledgeBase_知识库/卫星智能体/卫星智能体重大专项指南帽子_v1.md",
+    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/Workflow_Engine_SOP.md",
+    "Chats",
+    "ClipperMaster",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/SDSoW_mesoscale_computing_paradigm_20251011040148.pptx.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/仿造一个大脑，就可创造智能？.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/对话李国杰院士：突破麦肯锡和图灵的框框，人工智能要解决大问题.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/第三代神经网络SNN获重大突破_多项成果入选CVPR_TPAMI_Nature顶尖子刊___.md",
+    "00_KnowledgeBase_知识库/00_iNEST_全景知识图谱.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/第一创新.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/第一性原理.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/智能算力.md",
+    "00_KnowledgeBase_知识库/00_宽屏目录仪表盘.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/_AIR综述__物理信息神经网络_PINN_求解偏微分方程.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/_物理学评论__从神经网络中推断高阶交互关系.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/晶上智能网络基础研究与关键技术项目布局.md",
+    "upload",
+    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/晶上大脑方向规划（天大）.pdf",
+    "未命名 2.base",
+    "05_Projects_项目/海河实验室重大专项/海河实验室_项目汇报_Marp演示版.pdf"
   ]
 }
