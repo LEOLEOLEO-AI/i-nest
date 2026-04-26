@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1c1ee5f5c6a9c346",
+        "id": "26df770d5c834b68",
         "type": "tabs",
         "children": [
           {
-            "id": "564ed89b41fb19bc",
+            "id": "dbfb7197c5e3e4fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_KnowledgeBase_知识库/知识库_网络超线性增益/13_知识框架总图_SDI化合键到临界态涌现.md",
+                "file": "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13_知识框架总图_SDI化合键到临界态涌现"
+              "title": "梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩_1"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "天大 md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,8 +180,8 @@
             "state": {
               "type": "smart-env-status-view",
               "state": {},
-              "icon": "gauge",
-              "title": "Smart Environment Status"
+              "icon": "lucide-ghost",
+              "title": "smart-env-status-view"
             }
           },
           {
@@ -198,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 550.5
+    "width": 550.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,53 +214,54 @@
       "obsidian-git:Open Git source control": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
       "obsidian42-brat:BRAT": false,
       "neural-composer:Open Neural Composer": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "564ed89b41fb19bc",
+  "active": "dbfb7197c5e3e4fd",
   "lastOpenFiles": [
+    "fix_gitee_auth.bat",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/梅宏院士：如何构造人工群体智能？.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_.md",
+    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/晶上任务.md",
+    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/晶上智能网络基础研究与关键技术项目布局-2026年02月22日-来自【Get 笔记】.pdf",
+    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/天津大学微电子学院复杂网络与类脑智能十年规划.pdf",
+    "00_KnowledgeBase_知识库/知识库_网络超线性增益/13_知识框架总图_SDI化合键到临界态涌现.md",
+    "02-指南/天津大学微电子学院复杂网络与类脑智能十年规划.md",
+    "00-索引/术语对照表.md",
+    "00-索引/文档依赖图.md",
+    "00-索引/指标基线表.md",
+    "assets",
+    "04-测试",
+    "03-设计",
+    "02-指南",
+    "01-专利",
+    "00-索引",
     "init_vault.bat",
     "00_KnowledgeBase_知识库/知识库_网络超线性增益/10_SDA物理架构_物理第一性智能涌现.md",
     "00_KnowledgeBase_知识库/专项布局/智驾晶上异构集成_中汽合作_项目指南_v1.md",
     "00_KnowledgeBase_知识库/知识库_网络超线性增益/02_文献综述_大模型涌现能力.md",
     "00_KnowledgeBase_知识库/知识库_网络超线性增益/01_文献综述_临界态与超线性增益.md",
     "00_KnowledgeBase_知识库/01_宏观规划与战略报告/iNEST_Academic_Belief_Core.md",
-    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/天津大学微电子学院复杂网络与类脑智能十年规划.pdf",
     "00_KnowledgeBase_知识库/01_宏观规划与战略报告/晶上大脑方向规划（天大）.pdf",
     "未命名.canvas",
     "2026-04-17.md",
     "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/软件定义晶上系统_SDSoW_未来十年_2026-2035_发展战略规划.md",
     "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/晶上智能网络基础研究与关键技术项目布局.md",
     "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/晶上理论_技术_工程与项目.md",
-    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/晶上项目布局.pdf",
     "00_KnowledgeBase_知识库/00_iNEST_全景知识图谱.md",
     "05_Projects_项目/00_宽屏目录仪表盘.md",
     "05_Projects_项目/项目布局_归口整合/[V3] 项目布局_双轨战略框架.md",
     "02_Papers_论文/00_论文总清单.md",
     "02_Papers_论文/00_宽屏目录仪表盘.md",
     "02_Papers_论文/B组_SDI-CC互连体系/[V2] 论文框架_P-Mapping_5plus4完备物理拓扑映射.md",
-    "未命名 2.base",
     "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/NaaS_完整报告.md",
-    "未命名 1.base",
-    "未命名.base",
     "05_Projects_项目/海河实验室重大专项/[V1] 海河实验室_项目申报书_NPC_CPC_SDI.md",
     "05_Projects_项目/海河实验室重大专项/Figures/NCC_Comprehensive_Advantages.png",
     "05_Projects_项目/海河实验室重大专项/Figures/Latency_Comparison.png",
-    "2026-04-07.md",
-    "Chats/chat-2026-04-08T11-59-43-218Z.md",
-    "ClipperMaster/欢迎使用 ClipperMaster for Obsidian.md",
-    "upload/image.png",
-    "本地数据库.base",
-    "AGENTS.md",
-    "HEARTBEAT.md",
-    "IDENTITY.md",
-    "Obsidian从压缩包中打开仓库指令与方法.md",
-    "SOUL.md",
-    "Chats",
-    "ClipperMaster",
-    "upload"
+    "upload/image.png"
   ]
 }
