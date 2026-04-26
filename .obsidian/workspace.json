@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0fd45bc534308668",
+        "id": "1c1ee5f5c6a9c346",
         "type": "tabs",
         "children": [
           {
-            "id": "40d8e8d7f080b37d",
+            "id": "564ed89b41fb19bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_KnowledgeBase_知识库/知识库_网络超线性增益/13_知识框架总图_SDI化合键到临界态涌现.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "13_知识框架总图_SDI化合键到临界态涌现"
             }
           }
         ]
@@ -70,12 +74,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 433.5
   },
   "right": {
     "id": "d3b3cfd089b5d92b",
@@ -169,13 +172,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8d461d47b9303ebc",
+            "type": "leaf",
+            "state": {
+              "type": "smart-env-status-view",
+              "state": {},
+              "icon": "gauge",
+              "title": "Smart Environment Status"
+            }
+          },
+          {
+            "id": "65e059d88045ba3a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 550.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,11 +209,25 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "obsidian42-brat:BRAT": false,
+      "neural-composer:Open Neural Composer": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "40d8e8d7f080b37d",
+  "active": "564ed89b41fb19bc",
   "lastOpenFiles": [
+    "init_vault.bat",
+    "00_KnowledgeBase_知识库/知识库_网络超线性增益/10_SDA物理架构_物理第一性智能涌现.md",
+    "00_KnowledgeBase_知识库/专项布局/智驾晶上异构集成_中汽合作_项目指南_v1.md",
+    "00_KnowledgeBase_知识库/知识库_网络超线性增益/02_文献综述_大模型涌现能力.md",
+    "00_KnowledgeBase_知识库/知识库_网络超线性增益/01_文献综述_临界态与超线性增益.md",
+    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/iNEST_Academic_Belief_Core.md",
+    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/天津大学微电子学院复杂网络与类脑智能十年规划.pdf",
+    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/晶上大脑方向规划（天大）.pdf",
     "未命名.canvas",
     "2026-04-17.md",
     "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/软件定义晶上系统_SDSoW_未来十年_2026-2035_发展战略规划.md",
@@ -220,15 +257,8 @@
     "IDENTITY.md",
     "Obsidian从压缩包中打开仓库指令与方法.md",
     "SOUL.md",
-    "USER.md",
-    "02_Papers_论文/A组_CST基础理论/论文计划列表.md",
-    "00_KnowledgeBase_知识库/卫星智能体/卫星智能体重大专项指南帽子_v1.md",
-    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/Workflow_Engine_SOP.md",
     "Chats",
     "ClipperMaster",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/SDSoW_mesoscale_computing_paradigm_20251011040148.pptx.md",
-    "upload",
-    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/晶上大脑方向规划（天大）.pdf",
-    "05_Projects_项目/海河实验室重大专项/海河实验室_项目汇报_Marp演示版.pdf"
+    "upload"
   ]
 }
