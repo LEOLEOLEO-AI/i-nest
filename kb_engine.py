@@ -270,38 +270,38 @@ def evernote_fetch_recent(max_notes=30):
     extra += struct.pack('>bh', 8, 3) + wi32(0) # offset=0
     extra += struct.pack('>bh', 8, 4) + wi32(max_notes)
     extra += struct.pack('>bh', 12, 5)          # resultSpec
-    extra += struct.pack('>bh', 2, 1) + struct.pack('>b', 1)   # includeTitle
-    extra += struct.pack('>bh', 2, 5) + struct.pack('>b', 1)   # includeCreated
-    extra += struct.pack('>bh', 2, 6) + struct.pack('>b', 1)   # includeUpdated
-    extra += struct.pack('>bh', 2, 10) + struct.pack('>b', 1)  # includeNotebookGuid
+    for _fid in range(1, 12):                   # includeTitle(1), includeContentLength(2)...
+        extra += struct.pack('>bh', 2, _fid) + struct.pack('>b', 1)
     extra += struct.pack('>b', 0)               # end resultSpec
 
     resp = evernote_thrift_call("findNotesMetadata", extra)
 
-    # 解析笔记元数据（guid + title）
+    # 解析笔记元数据：每条NoteMetadata包含 guid(field1) + title(field2)
     notes = []
     i = 0
-    guids, titles = [], []
+    current_guid = None
     while i < len(resp) - 6:
-        if resp[i] == 11:
+        ftype = resp[i] if i < len(resp) else 0
+        if ftype == 11 and i + 7 <= len(resp):
+            fid  = struct.unpack('>h', resp[i+1:i+3])[0]
             slen = struct.unpack('>i', resp[i+3:i+7])[0]
-            if 0 < slen < 500:
+            if 0 < slen < 500 and i+7+slen <= len(resp):
                 try:
                     s = resp[i+7:i+7+slen].decode('utf-8')
-                    # guid格式检测: 8-4-4-4-12
-                    import re
-                    if re.match(r'^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$', s):
-                        guids.append(s)
-                    elif s.isprintable() and len(s) > 1 and not s.startswith('S='):
-                        titles.append(s)
+                    import re as _re
+                    if fid == 1 and _re.match(r'^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$', s):
+                        current_guid = s
+                    elif fid == 2 and current_guid and s.isprintable():
+                        notes.append({"guid": current_guid, "title": s})
+                        current_guid = None
+                    i += 7 + slen
+                    continue
                 except:
                     pass
         i += 1
-
-    # 配对guid和title
-    for idx, guid in enumerate(guids):
-        title = titles[idx] if idx < len(titles) else f"笔记_{guid[:8]}"
-        notes.append({"guid": guid, "title": title})
+    # 如果最后一个guid没配到title
+    if current_guid:
+        notes.append({"guid": current_guid, "title": f"笔记_{current_guid[:8]}"})
     return notes
 
 def poll_evernote():
