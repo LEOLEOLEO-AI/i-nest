@@ -6,8 +6,6 @@ title Gitee 凭据修复（Obsidian）
 set "GIT_USER=iBrainNest" 
 set "GIT_EMAIL=leo@csivo.com" 
 set "GIT_REPO=i-nest" 
-:: 【注意】密码中的 @ 需要进行 URL 编码写为 %%40，否则在拼接到 URL 时会导致解析错误！
-set "NEW_PASS_OR_PAT=Liusansan%%406363" 
 :: ----------------------------------------- 
  
 echo [1/5] 配置全局用户名/邮箱... 
@@ -17,9 +15,8 @@ git config --global user.email "%GIT_EMAIL%"
 echo [2/5] 查看当前远程... 
 git remote -v 
  
-echo [3/5] 更新远程地址（写入密码/PAT）... 
-:: 【注意】移除了原代码中包裹 URL 的反引号 `，因为批处理脚本不支持将其作为字符串定界符
-git remote set-url origin https://%GIT_USER%:%NEW_PASS_OR_PAT%@gitee.com/%GIT_USER%/%GIT_REPO%.git
+echo [3/5] 更新远程地址（不写入密码/PAT）... 
+git remote set-url origin https://gitee.com/%GIT_USER%/%GIT_REPO%.git
  
 echo [4/5] 清除系统旧凭据（避免缓存）... 
 git config --global --unset credential.helper 
