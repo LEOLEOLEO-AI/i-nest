@@ -1,0 +1,10 @@
+﻿{
+    "ok":  true,
+    "task":  "wiki_generate",
+    "started_at":  "2026-04-28 22:00:24",
+    "exit_code":  0,
+    "artifacts":  [
+
+                  ],
+    "message":  "wiki_generate finished"
+}
