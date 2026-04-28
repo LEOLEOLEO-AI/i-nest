@@ -28,13 +28,14 @@ CATEGORY_MAP = {
     "AI研究":   "00_KnowledgeBase_知识库/03_Inbox_文献与碎片",
     "学术论文":  "00_KnowledgeBase_知识库/03_Inbox_文献与碎片",
     "科技资讯":  "Clippings",
-    "个人成长":  "01_Ideas_想法",
-    "工作方法":  "01_Ideas_想法",
-    "项目管理":  "05_Projects_项目",
-    "日记":     "01_Ideas_想法",
-    "会议记录":  "05_Projects_项目",
-    "技术实践":  "04_Code_代码",
-    "default":  "Clippings",
+    "个人成长":  "Journal",
+    "工作方法":  "Journal",
+    "项目管理":  "Projects",
+    "日记":     "Journal/每日总结",
+    "会议记录":  "Journal",
+    "技术实践":  "NCC计算范式/05_关鍵技术",
+    "灵感":     "灵感库",
+    "default":  "Inbox/待分类",
 }
 
 HEADERS = {
@@ -89,6 +90,8 @@ def hermes_classify(note: dict) -> dict:
         category = "日记"
     elif any(k in text_sample for k in ["会议","meeting","讨论","纪要"]):
         category = "会议记录"
+    elif any(k in text_sample for k in ["灵感","idea","想到了","调研发现","假设","猜想","创意","新思路","hypothesis"]):
+        category = "灵感"
     elif any(k in text_sample for k in ["arxiv","paper","论文","doi","nature","science","ieee","neurips","icml"]):
         category = "学术论文"
     elif any(k in text_sample for k in ["cst","ncc","sdi","inest","类脑","memristor","忆阻"]):
