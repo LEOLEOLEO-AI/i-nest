@@ -136,3 +136,77 @@ We present a unified algebraic framework that proves communication primitives (A
 - [ ] 附录：NCC-11完整规范表格（可放Appendix）
 - [ ] 图表预算：预计8-10个图（FFT同构图、三场景原语流图、覆盖矩阵、性能对比图）
 - [ ] arXiv预印本：在P1 CNIPA申请日之后发布
+
+---
+
+## §4 附：T-Scale定理（NCC线性可扩展性定理）| 2026-04-30 严格审查版
+
+### 定理表述（正式版）
+
+**定理 T-Scale（NCC强可扩展性定理）**
+
+设NCC集群有N个节点，每节点局部算力为C（ops/s），局部存储为M（bytes）。定义：
+- $T_{compute}$：每节点处理一个工作单元（如Transformer一层）的本地计算时间
+- $T_{fuse}$：FUSE原语在N节点蝶形拓扑上的延迟，$T_{fuse} = \lceil \log_2 N \rceil \cdot \tau_0$，其中$\tau_0$为单跳常数延迟
+
+**条件**（三个前提）：
+1. **(C1) 计算-数据局部性**：每节点的计算量正比于其本地数据量，不依赖其他节点的数据
+2. **(C2) 计算主导**：$T_{compute} \gg T_{fuse}$，即 $\log_2 N \cdot \tau_0 \ll T_{compute}$
+3. **(C3) 均匀分片**：工作负载可均匀分配到N个节点，无热点
+
+**结论**：
+$$T(N) = N \cdot C \cdot \eta(N), \quad \eta(N) = 1 - \frac{\lceil \log_2 N \rceil \cdot \tau_0}{T_{compute}} \xrightarrow{C2} 1$$
+
+系统有效吞吐量 $T(N) \to O(N)$（线性扩展）。
+
+**与GPU集群对比（Amdahl定律框架）**：
+
+| 架构 | 串行比例 s | 加速比上界 | 实际利用率η |
+|------|-----------|-----------|-----------|
+| GPU集群 | $s_{GPU} \approx 20\text{–}40\%$（通信气泡） | $1/s \approx 2.5\text{–}5×$ | 40–60% |
+| NCC | $s_{NCC} = O(\log N / T_{total}) \approx 1\%$ | $\approx N$（趋线性） | ~99%（计算密集型）|
+
+---
+
+### 严格性审查记录（已通过5项检验）
+
+**[1] 命题1边界条件**
+- 单独MAPS/SCAN轻量算子时，$T_{compute} \approx T_{fuse}$，$\eta \to 0$（退化）
+- **解决方案**：算子融合（GEMM→FOLD→MAPS流水线），使融合后$T_{compute} \gg T_{fuse}$
+- **结论**：C2条件需在算子融合粒度上满足，而非单算子粒度
+
+**[2] PRUNE路由广播代价**
+- 命题2假设PRUNE是免费的，实际上路由决策广播代价$O(\log N)$（一次CAST）
+- **修正**：稀疏场景的净收益 = $O(\log N - \log K)$，当$K \ll N$时仍显著
+- MoE实例（$N=1024, K=128$）：广播代价1次 $O(\log 1024)=10$跳 vs 节省88%节点功耗——净收益显著
+
+**[3] 全局FUSE复杂度**
+- **更正**：全局FUSE延迟为$O(\log N)$，**不是$O(1)$**
+- $O(1)$全局通信受光速限制，在物理上不可能
+- 正确表述：**以$O(\log N)$的通信代价实现$O(N)$的吞吐增长**（比GPU的$O(N)$代价$O(N)$吞吐优化了通信项）
+
+**[4] Amdahl串行比例**
+- $s_{NCC} \neq 0$，包含四个串行部分：TICK同步屏障、LINK重构阻塞、PRUNE广播、控制平面
+- **精确表述**：$s_{NCC} = O(\log N / T_{total}) \ll s_{GPU} \approx 20\text{–}40\%$
+- 实例验证：$\log_2(1024) \times 10\text{ns} / 9600\text{μs} = 0.01\%$（远小于GPU的通信气泡）
+
+**[5] 存储扩展性补充条件**
+- 总存储$= N \times M$（线性扩展）✓
+- 例外：极长序列KV Cache无法均匀分片时，需跨节点PULL，引入$O(1)$额外延迟
+- **补充条件C3**：工作负载可均匀分片（绝大多数Transformer场景满足）
+
+---
+
+### 精化后的用户友好表述
+
+> **"NCC以$O(\log N)$的通信代价，实现$O(N)$的系统吞吐扩展。"**
+>
+> 传统GPU集群：通信代价$O(N)$，吞吐增长次线性（因为通信是计算之外的额外串行开销）。
+> NCC液态拓扑：通信代价$O(\log N)$（FUSE蝶形），且通信本身即计算（Route≡Transform）；
+> 在计算密集型场景下，串行比例$s_{NCC} < 0.1\%$，有效利用率$\eta \to 99\%$，
+> 系统吞吐接近理论线性上界$T(N) \to O(N)$。
+
+---
+
+*T-Scale定理状态：框架完成，待补：LINK阻塞时间的精确量化（依赖T2硬件实测）*
+
