@@ -110,7 +110,7 @@ Geometric mechanics interpretation. A complementary derivation of the exp(α·Γ
 
 ### 3.2 Cross-system validation
 
-We validated CST on 40 systems: 20 biological neural networks (BNN) spanning 8 taxonomic grades and 20 artificial/neuromorphic systems (ANN/NMH) representing 18 distinct architectural families.
+We validated CST on 40 systems: 20 biological neural networks (BNN) spanning 8 taxonomic grades and 20 artificial/neuromorphic systems (ANN/NMH) representing 18 distinct architectural families. The validation follows the strict **CST Intelligence Emergence Validation and Data Experimental Protocol** (see Supplementary Protocol A1), which mandates a two-phase Discovery-Replication design across 34 core systems and 6 Null models, utilizing the improved HSIC kernel alignment for robust $\Gamma_{st}$ computation.
 
 Clarification on Scaling Laws and ANN Definitions. It is essential to delineate that empirical scaling laws accurately describe the optimization of functional performance and task-specific loss functions under compute bounds. The CST theory does not invalidate these laws in their statistical domain; rather, it demonstrates that functional performance scaling is orthogonal to the phase transitions of emergent intelligence. Scaling laws govern offline statistical fitting; CST bounds the thermodynamic capacity for structural-dynamical self-organization. Furthermore, when evaluating "ANNs" in this study, we specifically refer to the dominant paradigm of static, offline-trained, largely feedforward architectures with frozen topologies, which lack the real-time physical plasticity (high Γst) inherent to BNNs.
 
