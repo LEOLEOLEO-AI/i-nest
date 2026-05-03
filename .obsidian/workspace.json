@@ -11,10 +11,24 @@
             "id": "4dfcc93e1b13ee93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "灵感库/外部用户使用Trae限制.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "外部用户使用Trae限制"
             }
           }
         ]
@@ -255,6 +269,10 @@
   },
   "active": "4dfcc93e1b13ee93",
   "lastOpenFiles": [
+    "灵感库/生命与智能的阈值证明.md",
+    "灵感库/类脑的“物理第一性”逼近.md",
+    "灵感库/关于共振.md",
+    "灵感库/从最小作用量到数据科学：理解世界，为什么需要做减法——科学史与现代数据科学的终极启示.md",
     "00_Inbox/02_网页剪藏/您的一站式 AI 工作空间.md",
     "20_Projects/00_NSFC三层课题包拆解.md",
     "90_System/99_Templates/灵感捕捉模板.md",
@@ -286,16 +304,12 @@
     "00_Inbox/02_网页剪藏",
     "灵感库/类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析.md",
     "灵感库/智能本质新范式：高维几何结构与通用“心智”诞生猜想.md",
-    "灵感库/生命与智能的阈值证明.md",
     "灵感库/护理液为何比90%现代AI理论更高级：从傅里叶热方程看智能的认知升维.md",
-    "灵感库/关于共振.md",
-    "灵感库/无标题.md",
     "灵感库/文献综述神器推荐：提升科研效率的两款工具.md",
     "灵感库/字节AI编程工具Trae详解.md",
     "灵感库/外部用户使用Trae限制.md",
     "灵感库/全球首款大规模类脑脉冲大模型SpikingBrain1.0发布.md",
     "灵感库/2026-04-28_知识库智能体四层架构.md",
-    "灵感库/从最小作用量到数据科学：理解世界，为什么需要做减法——科学史与现代数据科学的终极启示.md",
     "灵感库/三个原语的蝴蝶与ENIAC的30秒.md",
     "灵感库/Landauer原理.md",
     "灵感库/ChemNet：基于化学键合原理的晶上自演化网络框架.md",
