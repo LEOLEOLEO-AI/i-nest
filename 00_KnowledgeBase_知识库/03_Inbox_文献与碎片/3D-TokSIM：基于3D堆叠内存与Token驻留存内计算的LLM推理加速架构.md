@@ -26,7 +26,7 @@ with Token-Stationary Compute-in-Memory for Speculative LLM Inference
 
 ### ****需要做神经形态应用的老师欢迎后台获取联系方式，CNN/储备池/SNN/光谱仪/神经元/树突/轨迹衰减......各类任务均可实现****
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F7d8dc46df4825ce0f3f784a7c0b87ebc?Expires=1780063514&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=jf7BT8bRdjoxtTtN%2BkpudF4G8GI%3D)
+![[99-Attachments/6f441f7476128a2520b16ebff18842b4_MD5.png]]
 
 背景介绍
 
@@ -40,7 +40,7 @@ with Token-Stationary Compute-in-Memory for Speculative LLM Inference
 
 创新点一：3D堆叠设计
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F2e4a1962b08cee559634d71aa7358603?Expires=1780063514&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=%2F3Jn6H9nWY%2B29dlzgjNFDebusyA%3D)
+![[99-Attachments/7a47938a9000d252b999bdad67bc3517_MD5.png]]
 
 Fig. 1 从内存受限到平衡状态  
 
@@ -50,7 +50,7 @@ Fig. 1 从内存受限到平衡状态  
 
 创新点二：推测策略
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F742a31dffeb2e67122a479799dc412fc?Expires=1780063514&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=Kb29r0MImujXxD1qfqQbzdabgJg%3D)
+![[99-Attachments/13c84ba0f6f490ece92254ca3d0acf06_MD5.png]]
 
 Fig. 2  推测解码机制对比
 
@@ -58,7 +58,7 @@ Fig. 2  推测解码机制对比
 
 创新点三：TS存内计算数据流
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2Fb0b10f3273ca86d8a82d1f767635fdd7?Expires=1780063514&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=d7sV%2BDtdm%2Bt1%2BGbvEK1rv%2BuGK1o%3D)
+![[99-Attachments/5725cbc6318b4d2bda6431515fa4fb18_MD5.png]]
 
 Fig. 3  Token驻留数据流逻辑差异
 
@@ -66,7 +66,7 @@ Fig. 3  Token驻留数据流逻辑差异
 WS），即把权重存在SRAM里复用。但在LLM中，权重太大存不下。本文将用户输入的Token（t\_0, t\_1...t\_k）
 锁在CIM阵列里。DRAM源源不断地把权重送入CIM，与驻留在里面的Token进行矩阵乘法。由于3D连接带宽极大且功耗低，这种流权重的方式反而比频繁读写SRAM更省电。
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F222d5b7708e05eec4a7d83656fc0eefd?Expires=1780063514&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=YBmjLlk6tjT1%2Fnu8rdEHyc4TFkk%3D)
+![[99-Attachments/e67fd12667f701fd7611453607578bba_MD5.png]]
 
 Fig. 8 TS与WS数据流能效对比
 

@@ -31,7 +31,8 @@
     },
     {
       "type": "openrouter",
-      "id": "openrouter"
+      "id": "openrouter",
+      "apiKey": "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"
     },
     {
       "type": "ollama",
@@ -278,7 +279,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "claude-sonnet-4.5",
+  "chatModelId": "claude-opus-4.1",
   "applyModelId": "gpt-4.1-mini",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",
@@ -295,7 +296,7 @@
   },
   "chatOptions": {
     "includeCurrentFileContent": true,
-    "enableTools": true,
+    "enableTools": false,
     "maxAutoIterations": 1
   },
   "lightRagUseRemote": true,
@@ -306,7 +307,7 @@
   "lightRagWorkDir": "D:\\Obsidian\\home\\work\\.openclaw\\workspace\\.neural_memory",
   "lightRagSummaryLanguage": "English",
   "lightRagShowCitations": true,
-  "lightRagQueryMode": "mix",
+  "lightRagQueryMode": "hybrid",
   "lightRagRerankBinding": "",
   "lightRagRerankModel": "",
   "lightRagRerankApiKey": "",

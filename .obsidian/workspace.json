@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1e1e4d3cd863a96d",
+        "id": "f0db6ed378bf117f",
         "type": "tabs",
         "children": [
           {
-            "id": "1b1e5e2de03b4790",
+            "id": "08a5af2f4b8f65ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20_Projects/00_NSFC三层课题包拆解.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "00_NSFC三层课题包拆解"
             }
           }
         ]
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/具身智能：人工智能的下一个浪潮（深度）__国君计算机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "具身智能：人工智能的下一个浪潮（深度）__国君计算机 的反向链接列表"
             }
           },
           {
@@ -108,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04_Code_代码/Idea_SDI_Simulator_v22_Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Idea_SDI_Simulator_v22_Strategy 的出链列表"
             }
           },
           {
@@ -150,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.base",
+                "file": "04_Code_代码/Idea_SDI_Simulator_v22_Strategy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 1 的大纲"
+              "title": "Idea_SDI_Simulator_v22_Strategy 的大纲"
             }
           },
           {
@@ -175,8 +191,8 @@
             "state": {
               "type": "smart-env-status-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-env-status-view"
+              "icon": "gauge",
+              "title": "Smart Environment Status"
             }
           },
           {
@@ -188,17 +204,48 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "50ccf5204d05c1c3",
+            "type": "leaf",
+            "state": {
+              "type": "chinese-calendar-view",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "日历"
+            }
+          },
+          {
+            "id": "e067f22d7d41a5b2",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "36f31d9098f6f110",
+            "type": "leaf",
+            "state": {
+              "type": "neuralcmp-chat-view",
+              "state": {},
+              "icon": "brain-circuit",
+              "title": "Neural Composer chat"
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 550.5,
-    "collapsed": true
+    "width": 525.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -214,54 +261,61 @@
       "templater-obsidian:Templater": false,
       "smart-lookup:Smart Lookup: Open lookup view": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-omnivore:Omnivore": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-weread-plugin:打开微信读书书架": false
+      "obsidian-kanban:Create new board": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1b1e5e2de03b4790",
+  "active": "08a5af2f4b8f65ac",
   "lastOpenFiles": [
-    "3b1320e14cdbabbbf072d7f02fe601e4_MD5.webp",
-    "09f9eaf2ac96c4b4895c4879fbeac9aa_MD5.webp",
-    "Clippings/从“备胎”到训练推理“正式分家”：谷歌TPU的十一年.md",
-    "Clippings/物理人工智能 (Physical AI) 深度研究报告.md",
-    "Obsidian从压缩包中打开仓库指令与方法.md",
-    "IDENTITY.md",
-    "HEARTBEAT.md",
-    "AGENTS.md",
-    "未命名 2.base",
-    "未命名 1.base",
-    "未命名.base",
-    "本地数据库.base",
-    "Clippings",
-    "00_KnowledgeBase_知识库/00_iNEST_全景知识图谱.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/Nat._Com.：可穿戴神经形态系统.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/NPU神经处理单元（4.3）-_神经网络之TNN(Transformer).md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/Marvell：通信网络互联芯片领先厂商.md",
-    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/晶上大脑方向规划（天大）.pdf",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩_1.md",
-    "fix_gitee_auth.bat",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/梅宏院士：如何构造人工群体智能？.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_.md",
-    "00_KnowledgeBase_知识库/03_Inbox_文献与碎片/晶上任务.md",
-    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/晶上智能网络基础研究与关键技术项目布局-2026年02月22日-来自【Get 笔记】.pdf",
-    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/天津大学微电子学院复杂网络与类脑智能十年规划.pdf",
-    "00_KnowledgeBase_知识库/知识库_网络超线性增益/13_知识框架总图_SDI化合键到临界态涌现.md",
-    "02-指南/天津大学微电子学院复杂网络与类脑智能十年规划.md",
-    "00-索引/术语对照表.md",
-    "00-索引/文档依赖图.md",
-    "00-索引/指标基线表.md",
-    "assets",
-    "00_KnowledgeBase_知识库/知识库_网络超线性增益/10_SDA物理架构_物理第一性智能涌现.md",
-    "00_KnowledgeBase_知识库/专项布局/智驾晶上异构集成_中汽合作_项目指南_v1.md",
-    "00_KnowledgeBase_知识库/知识库_网络超线性增益/02_文献综述_大模型涌现能力.md",
-    "00_KnowledgeBase_知识库/知识库_网络超线性增益/01_文献综述_临界态与超线性增益.md",
-    "00_KnowledgeBase_知识库/01_宏观规划与战略报告/iNEST_Academic_Belief_Core.md",
-    "未命名.canvas",
-    "2026-04-17.md",
-    "05_Projects_项目/海河实验室重大专项/Figures/NCC_Comprehensive_Advantages.png",
-    "05_Projects_项目/海河实验室重大专项/Figures/Latency_Comparison.png",
-    "upload/image.png"
+    "99-Attachments/5761339c0ffc948c60055940b85c6a57_MD5.png",
+    "99-Attachments/68ba9c7aa6bd1f53798ef5c7dec837a3_MD5.png",
+    "99-Attachments/45cfa75a946f4d5abe5ea97ae9a81868_MD5.png",
+    "99-Attachments/f535b42ff60f4e2daa5eedae371c0fe2_MD5.jpg",
+    "99-Attachments/bad1d06d7dc41d65f62d7e30a6e97526_MD5.jpg",
+    "99-Attachments/00033220f51b6f360c272179be2f0ef8_MD5.jpg",
+    "99-Attachments/70e72d00202685e50cbfe1d955e6d7be_MD5.jpg",
+    "99-Attachments/c91b556e247cb70f50c4d782181d69f9_MD5.jpg",
+    "99-Attachments/e67fd12667f701fd7611453607578bba_MD5.png",
+    "99-Attachments/4226bb927dcb43f0151a4930fbabf5ec_MD5.jpg",
+    "99-Attachments/7a47938a9000d252b999bdad67bc3517_MD5.png",
+    "灵感库/类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析.md",
+    "灵感库/智能本质新范式：高维几何结构与通用“心智”诞生猜想.md",
+    "灵感库/生命与智能的阈值证明.md",
+    "灵感库/护理液为何比90%现代AI理论更高级：从傅里叶热方程看智能的认知升维.md",
+    "灵感库/关于共振.md",
+    "灵感库/无标题.md",
+    "灵感库/文献综述神器推荐：提升科研效率的两款工具.md",
+    "灵感库/字节AI编程工具Trae详解.md",
+    "灵感库/外部用户使用Trae限制.md",
+    "灵感库/全球首款大规模类脑脉冲大模型SpikingBrain1.0发布.md",
+    "灵感库/2026-04-28_知识库智能体四层架构.md",
+    "灵感库/从最小作用量到数据科学：理解世界，为什么需要做减法——科学史与现代数据科学的终极启示.md",
+    "灵感库/三个原语的蝴蝶与ENIAC的30秒.md",
+    "灵感库/Landauer原理.md",
+    "灵感库/ChemNet：基于化学键合原理的晶上自演化网络框架.md",
+    "灵感库/00_灵感库总览.md",
+    "灵感库",
+    "智能涌现范式/03_项目策划/Idea_OODA_卫星智能体_同构定理的战略价值.md",
+    "智能涌现范式/01_论文/论文矩阵计划.md",
+    "智能涌现范式/01_论文/Idea_The_One_of_ComplexNetworks_RG_Engineering.md",
+    "智能涌现范式/01_论文/Idea_Tau_Sigma_Physical_Meaning.md",
+    "智能涌现范式/01_论文/Idea_ANN突破Gamma_st的理论构想.md",
+    "智能涌现范式/01_论文/CST_Intelligence_Emergence_Paper_V22_Engineering_Format_Printable.html",
+    "智能涌现范式/01_论文/CST_Intelligence_Emergence_Paper_V22_Engineering_Format.md",
+    "智能涌现范式/03_项目策划",
+    "智能涌现范式/01_论文",
+    "智能涌现范式",
+    "reorganize.py",
+    "Projects/项目布局汇总.md",
+    "Projects/资源.md",
+    "Projects/脑网络动态结构-功能耦合的区域特异性研究.md",
+    "Projects",
+    "NCC计算范式/05_关键技术/start_reverse_tunnel.ps1",
+    "NCC计算范式/05_关键技术/setup_windows_openssh.ps1",
+    "NCC计算范式/05_关键技术/setup_local_trae_cli.ps1",
+    "Inbox/待分类/未命名.canvas",
+    "未命名.canvas"
   ]
 }

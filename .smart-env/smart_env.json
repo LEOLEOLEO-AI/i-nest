@@ -13,7 +13,7 @@
       }
     },
     "excluded_headings": "",
-    "file_exclusions": "Untitled",
+    "file_exclusions": "Untitled,00_KnowledgeBase_知识库/03_Inbox_文献与碎片/DownloadImports/20250713/Higher-order connectomics of human brain function reveals local topological signatures of task decoding,individual identification,and behavior.md",
     "folder_exclusions": ""
   },
   "language": "en",
@@ -71,7 +71,7 @@
     "native_notice_milestone": true
   },
   "lookup_lists": {
-    "results_collection_key": "smart_blocks",
+    "results_collection_key": "smart_sources",
     "score_algo_key": "similarity",
     "results_limit": 20
   },
