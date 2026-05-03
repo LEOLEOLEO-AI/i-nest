@@ -20,15 +20,15 @@ tags:
 
 ## 正文
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2Fd4df62a22a02b8835348195c770ad944?Expires=1780062815&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=tGs6N2K4vTPX9Yml%2FFj6TjcCul0%3D)
+![[99-Attachments/2b6a81d3c854ad83c673af028fbf78aa_MD5.jpg]]
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2Fb029948c5cae14885bcf6efa8d88affa?Expires=1780062815&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=HurU9ZJEPZtbxf9lB7RyA5rLAZA%3D)
+![[99-Attachments/4226bb927dcb43f0151a4930fbabf5ec_MD5.jpg]]
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F80acd9eae31172550af86f33933fd6d4?Expires=1780062815&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=ronpB%2BK6fsAjsTZ8PkU5NvlLVH8%3D)
+![[99-Attachments/70e72d00202685e50cbfe1d955e6d7be_MD5.jpg]]
 
 在第二章中，我们深入探讨了3DHI技术在国防与民用领域的广泛应用，以及它如何为各行业带来革命性的发展机遇。随着这一技术逐渐成熟，我们不仅看到了它在性能提升和系统集成方面的巨大潜力，还认识到它对产业结构和市场格局的深远影响。然而，尽管3DHI技术蕴含着巨大的机遇，它的实现仍面临一系列技术、成本、人才和市场等方面的挑战。第三章将着重分析这些机遇与挑战，探讨3DHI技术在未来发展中的关键突破点，以及如何通过战略推动和创新举措克服当前的障碍，确保技术的成功实施与持续发展。
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2Faee01b8e3df3d7096da417e4c85ace20?Expires=1780062815&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=f1JoGkDV1oOejkN%2FqjmpLeBwLHU%3D)
+![[99-Attachments/00033220f51b6f360c272179be2f0ef8_MD5.jpg]]
 
 * **发展机遇**
 
@@ -62,7 +62,7 @@ tags:
 
   尽管美国在3DHI领域进行了大规模的战略投资，但其在全球市场依然面临着来自亚洲主要厂商的激烈竞争。台积电、三星等公司在先进封装领域已经积累了深厚的技术和市场优势，并正在积极布局下—代技术。美国企业能否在激烈的市场竞争中脱颖而出，不仅取决于技术的先进性，还取决于其商业化能力和市场策略。
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F6c02f3a65d96c76a50fea38a25082a3e?Expires=1780062815&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=R%2B0QbiqyrDNPXf6CijiWB1dwUJo%3D)
+![[99-Attachments/bad1d06d7dc41d65f62d7e30a6e97526_MD5.jpg]]
 
 * **资金支持与项目引导**
 
@@ -94,11 +94,11 @@ tags:
 
   DARPA通过其开放创新的模式，积极支持初创企业和中小企业的发展。NGMM中心为这些企业提供低成本的、可访问的原型制造服务，帮助它们跨越硬件创新的“死亡之谷”。通过支持这些充满活力的创新者，DARPA旨在培育—个更加多元化和有竞争力的本土微电子生态系统，为美国经济的长期繁荣注入新的动力。
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F0a2d8d573214500db312ac265d7163e7?Expires=1780062815&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=d9XPo1OP6qR%2BDaEV2wbhAmqK0PM%3D)
+![[99-Attachments/c91b556e247cb70f50c4d782181d69f9_MD5.jpg]]
 
 * **未来3-5年（2026-2029年）技术发展里程碑**
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F332167e2dff804a20909d938765de0ef?Expires=1780062815&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=uS7A8h%2BGccttCUsMn1oDayDmppc%3D)
+![[99-Attachments/45cfa75a946f4d5abe5ea97ae9a81868_MD5.png]]
 
 Table2:NGMM项目未来3-5年技术发展里程碑预测
 
@@ -120,7 +120,7 @@ Table2:NGMM项目未来3-5年技术发展里程碑预测
 
   从长远来看，3DHI技术具有重塑整个半导体产业格局的颠覆性潜力。它将推动产业从“制程为王”的时代，迈向“架构为王”的时代。通过系统级的架构创新，而非单纯的晶体管尺寸微缩，来实现性能的持续提升，将成为未来半导体产业发展的主旋律。这种范式的转变，将为后来者提供“弯道超车”的机会，并催生出—批新的产业巨头。同时，3DHI技术也将为构建全新的、受大脑启发的神经形态计算架构，以及受量子力学原理支配的量子计算架构，提供关键的物理实现平台，从而开启—个全新的计算时代。
 
-![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2Fbe780ed12645e709c7bc046121da4280?Expires=1780062815&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=PjpwYXYNPRILRLiRNDCt7m8pybk%3D)
+![[99-Attachments/f535b42ff60f4e2daa5eedae371c0fe2_MD5.jpg]]
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 09:53*

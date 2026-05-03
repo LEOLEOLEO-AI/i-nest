@@ -8,8 +8,15 @@
   "neural-composer",
   "templater-obsidian",
   "smart-lookup",
-  "obsidian-omnivore",
   "obsidian-local-images-plus",
   "obsidian-importer",
-  "obsidian-weread-plugin"
+  "periodic-notes",
+  "obsidian-linter",
+  "obsidian-tasks-plugin",
+  "obsidian-excalidraw-plugin",
+  "chinese-calendar",
+  "quickadd",
+  "obsidian-kanban",
+  "copilot",
+  "omnisearch"
 ]

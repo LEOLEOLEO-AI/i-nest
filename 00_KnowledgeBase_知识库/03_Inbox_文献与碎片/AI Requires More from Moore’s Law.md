@@ -23,7 +23,7 @@ As an enabling technology, photonics has always proved to be capable of supporti
 
 As evidence for this assertion, it is helpful to review how computing power has advanced since the invention of the microprocessor. Figure 1 illustrates Moore’s law, which states that the number of transistors on a microchip doubles about every two years. The figure includes data from 1970 to the present and projects potential future trends through 2040.
 
-![image.png](https://get-notes.umiwi.com/get_notes_prod%2F202509242327%2Fgetnotes_img_1a35037e00005214nr7GvEwi.png?Expires=1780066314&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=2YSVS0Y0jo8Meo3Pkk0T2YeFF5g%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240)
+![[99-Attachments/68ba9c7aa6bd1f53798ef5c7dec837a3_MD5.png]]
 
 Figure 1. The chart shows historic trends in microprocessor transistor density, performance, and architecture from 1970 to the present, and projected through 2040. Courtesy of MKS.
 
@@ -47,7 +47,7 @@ However, heterogeneous computing is only beneficial if all the integrated circui
 
 Figure 2 shows a typical heterogeneous package configuration, such as one that might be used for AI. A logic chip(s), such as a CPU(s) or GPU(s), is at the top, along with a high-bandwidth memory module. The high-bandwidth module consists of multiple stacked dynamic random-access memory dies, connected vertically using copper-filled through-silicon vias to enable high-speed, low-power memory access. All of these components are electrically connected through a silicon interposer.
 
-![image.png](https://get-notes.umiwi.com/get_notes_prod%2F202509242327%2Fgetnotes_img_1a350379400149c06WfzvW7k.png?Expires=1780066314&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=uYioL5%2Bg6ecfgwi%2FBWiD1qHtkiA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240)
+![[99-Attachments/5761339c0ffc948c60055940b85c6a57_MD5.png]]
 
 Figure 2. A simplified schematic of the cross section of advanced packages typical of AI applications. TSV: through-silicon via. Courtesy of MKS.
 
