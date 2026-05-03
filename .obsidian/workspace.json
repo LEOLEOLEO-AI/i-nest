@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f0db6ed378bf117f",
+        "id": "e33a61bbf5b5e588",
         "type": "tabs",
         "children": [
           {
-            "id": "08a5af2f4b8f65ac",
+            "id": "4dfcc93e1b13ee93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Projects/00_NSFC三层课题包拆解.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00_NSFC三层课题包拆解"
+              "title": "新标签页"
             }
           }
         ]
@@ -267,20 +253,37 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "08a5af2f4b8f65ac",
+  "active": "4dfcc93e1b13ee93",
   "lastOpenFiles": [
     "00_Inbox/02_网页剪藏/您的一站式 AI 工作空间.md",
+    "20_Projects/00_NSFC三层课题包拆解.md",
+    "90_System/99_Templates/灵感捕捉模板.md",
+    "90_System/99_Templates/每日总结模板.md",
+    "90_System/99_Templates/每周总结模板.md",
+    "90_System/99_Templates/Weekly - 团队周报.md",
+    "90_System/99_Templates/SSOT - 概念条目.md",
+    "90_System/99_Templates/Inbox - Get 导入.md",
+    "90_System/99_Templates/ADR - 决策记录.md",
+    "90_System/99_Templates",
+    "90_System/99_Attachments/项目图表/NCC_Comprehensive_Advantages.png",
+    "90_System/99_Attachments/项目图表/NCC_Comprehensive_Advantages_2.png",
+    "90_System/99_Attachments/项目图表/Latency_Comparison.png",
+    "90_System/99_Attachments/项目图表/Latency_Comparison_2.png",
+    "90_System/99_Attachments/论文图表/Fig_CST_Manifold_V22_2.png",
+    "90_System/99_Attachments/论文图表/Fig_CST_Manifold_V22.png",
+    "90_System/99_Attachments/论文图表/Fig_CST_Engineering_Format_2.png",
+    "90_System/99_Attachments/论文图表/Fig_CST_Engineering_Format.png",
+    "90_System/99_Attachments/论文图表/Figure_6_Roadmap_V22_2.png",
+    "90_System/99_Attachments/论文图表/Figure_6_Roadmap_V22.png",
+    "90_System/99_Attachments/论文图表/Figure_4_Efficiency_V22.pdf",
+    "90_System/99_Attachments/论文图表/Figure_3_BarChart_V22.pdf",
+    "90_System/99_Attachments/论文图表/Figure_2_ComponentSpace_V22.pdf",
+    "90_System/99_Attachments/论文图表/Figure_1_Hierarchy_V22.pdf",
+    "90_System/99_Attachments/📁 99-Attachments — 统一附件目录.md",
+    "90_System/99_Attachments/项目图表",
+    "90_System/99_Attachments/论文图表",
+    "90_System/99_Attachments",
     "00_Inbox/02_网页剪藏",
-    "99-Attachments/5761339c0ffc948c60055940b85c6a57_MD5.png",
-    "99-Attachments/68ba9c7aa6bd1f53798ef5c7dec837a3_MD5.png",
-    "99-Attachments/45cfa75a946f4d5abe5ea97ae9a81868_MD5.png",
-    "99-Attachments/f535b42ff60f4e2daa5eedae371c0fe2_MD5.jpg",
-    "99-Attachments/bad1d06d7dc41d65f62d7e30a6e97526_MD5.jpg",
-    "99-Attachments/00033220f51b6f360c272179be2f0ef8_MD5.jpg",
-    "99-Attachments/70e72d00202685e50cbfe1d955e6d7be_MD5.jpg",
-    "99-Attachments/c91b556e247cb70f50c4d782181d69f9_MD5.jpg",
-    "99-Attachments/e67fd12667f701fd7611453607578bba_MD5.png",
-    "99-Attachments/4226bb927dcb43f0151a4930fbabf5ec_MD5.jpg",
     "灵感库/类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析.md",
     "灵感库/智能本质新范式：高维几何结构与通用“心智”诞生猜想.md",
     "灵感库/生命与智能的阈值证明.md",
@@ -298,23 +301,6 @@
     "灵感库/ChemNet：基于化学键合原理的晶上自演化网络框架.md",
     "灵感库/00_灵感库总览.md",
     "灵感库",
-    "智能涌现范式/03_项目策划/Idea_OODA_卫星智能体_同构定理的战略价值.md",
-    "智能涌现范式/01_论文/论文矩阵计划.md",
-    "智能涌现范式/01_论文/Idea_The_One_of_ComplexNetworks_RG_Engineering.md",
-    "智能涌现范式/01_论文/Idea_Tau_Sigma_Physical_Meaning.md",
-    "智能涌现范式/01_论文/Idea_ANN突破Gamma_st的理论构想.md",
-    "智能涌现范式/01_论文/CST_Intelligence_Emergence_Paper_V22_Engineering_Format_Printable.html",
-    "智能涌现范式/01_论文/CST_Intelligence_Emergence_Paper_V22_Engineering_Format.md",
-    "智能涌现范式/03_项目策划",
-    "智能涌现范式/01_论文",
-    "智能涌现范式",
-    "reorganize.py",
-    "Projects/项目布局汇总.md",
-    "Projects/资源.md",
-    "Projects/脑网络动态结构-功能耦合的区域特异性研究.md",
-    "Projects",
-    "NCC计算范式/05_关键技术/start_reverse_tunnel.ps1",
-    "NCC计算范式/05_关键技术/setup_windows_openssh.ps1",
     "Inbox/待分类/未命名.canvas",
     "未命名.canvas"
   ]
