@@ -191,8 +191,8 @@
             "state": {
               "type": "smart-env-status-view",
               "state": {},
-              "icon": "gauge",
-              "title": "Smart Environment Status"
+              "icon": "lucide-ghost",
+              "title": "smart-env-status-view"
             }
           },
           {
@@ -269,6 +269,7 @@
   },
   "active": "08a5af2f4b8f65ac",
   "lastOpenFiles": [
+    "00_Inbox/02_网页剪藏",
     "99-Attachments/5761339c0ffc948c60055940b85c6a57_MD5.png",
     "99-Attachments/68ba9c7aa6bd1f53798ef5c7dec837a3_MD5.png",
     "99-Attachments/45cfa75a946f4d5abe5ea97ae9a81868_MD5.png",
@@ -279,7 +280,6 @@
     "99-Attachments/c91b556e247cb70f50c4d782181d69f9_MD5.jpg",
     "99-Attachments/e67fd12667f701fd7611453607578bba_MD5.png",
     "99-Attachments/4226bb927dcb43f0151a4930fbabf5ec_MD5.jpg",
-    "99-Attachments/7a47938a9000d252b999bdad67bc3517_MD5.png",
     "灵感库/类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析.md",
     "灵感库/智能本质新范式：高维几何结构与通用“心智”诞生猜想.md",
     "灵感库/生命与智能的阈值证明.md",
