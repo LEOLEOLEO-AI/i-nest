@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "类脑",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "iNEST",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "SDSoW",
+      "color": {
+        "a": 1,
+        "rgb": 7788124
+      }
+    },
+    {
+      "query": "复杂网络",
+      "color": {
+        "a": 1,
+        "rgb": 6054102
+      }
+    },
+    {
+      "query": "类脑",
+      "color": {
+        "a": 1,
+        "rgb": 10837206
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 2.755675960631075,
+  "close": true
+}
