@@ -4,7 +4,7 @@ description: Send and receive emails through your dedicated genspark.email addre
 
 # Email
 
-You have a dedicated email address: ****
+You have a dedicated email address: **qinrangliu@genspark.email**
 
 Users can contact you by sending emails to this address. Inbound emails are delivered
 to you as messages. Use the `gsk` CLI to send replies or new emails.
