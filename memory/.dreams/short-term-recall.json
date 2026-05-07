@@ -1,0 +1,223 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-03T07:55:16.694Z",
+  "entries": {
+    "memory:memory/2026-04-22.md:30:60": {
+      "key": "memory:memory/2026-04-22.md:30:60",
+      "path": "memory/2026-04-22.md",
+      "startLine": 30,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "- 定理3（完备）：NCC-11在7类目标工作负载100%覆盖 - 定理4（能效）：Route-Transform融合使等效通信量O(N·D)→O(D) **专利框架文件**（`02_Papers_论文/NCC_专利与论文/`）： - P1（核心方法专利）：10条权利要求，含FTO排除分析，目标2026年5月CNIPA - P2（硬件IP核）：计算节点+阵列级权利要求，目标2026年7月 - P3（FFT同构）：目标2026年12月 - P4（SDK编译映射）：目标2027年1月；PCT申请2027年5月 **论文框架文件**： - 论文A（B7）：Route≡Transform，ASPLOS'27 Sep，截止2026年9月9日 - 论文B（B5）：NCC-11系统实现，ASPLOS/MICRO'27 Apr，截止2027年4月15日 - 论文C（B3）：Horowitz Wall→Topology Computing，Nature Electronics，2027年9月 **关键任务优先级**（🔴立即）： - T0-1：精细化P1权利要求书（2026年5月提交） - T1-1：FFT同构矩阵证明（N=8邻接矩阵直接比对） - T2-1：ncc_link SDI控制器RTL设计 --- ### 未完成的上下文任务 - 用户在2026-04-21提出\"对称性破缺对六个自然常数的证明\"（CST阈值 1/√2, 1, φ, e, π, δ的对称性破缺推导） - 该任务因会话压缩而中断，**尚未完成** - 下次会话需优先处理此推导 **六个CST阈值**（来自CST",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36042745411396027,
+      "maxScore": 0.36042745411396027,
+      "firstRecalledAt": "2026-04-30T09:56:15.949Z",
+      "lastRecalledAt": "2026-04-30T09:56:15.949Z",
+      "queryHashes": [
+        "92a03ca3b5ec"
+      ],
+      "recallDays": [
+        "2026-04-30"
+      ],
+      "conceptTags": [
+        "ncc-11在7类目标工作负载100",
+        "route-transform融合使等效通信量o",
+        "02-papers-论文/ncc-专利与论文",
+        "ncc-11系统实现",
+        "asplos/micro",
+        "t0-1",
+        "t1-1",
+        "t2-1"
+      ]
+    },
+    "memory:memory/2026-04-22.md:1:34": {
+      "key": "memory:memory/2026-04-22.md:1:34",
+      "path": "memory/2026-04-22.md",
+      "startLine": 1,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "# Memory: 2026-04-22 ## Session Summary ### NCC-11 Naming System (升级自NCC-8) 完成从NCC-8升级到NCC-11的全库替换。 **NCC-11 原语集最终版**： - 通信×4：FUSE（AllReduce）、PULL（AllGather）、CAST（Broadcast）、SWAP（AlltoAll，从保留字升级） - 计算×4：GEMM、FOLD、MAPS（合并了原LOOK功能）、SCAN（从保留字升级） - 数据×1：MOVE（新增，P2P点对点） - 控制×2：LINK、TICK（新增，Lamport逻辑时钟） **废止**：ncc.LOOK（→ ncc.MAPS(func=lut)）、ncc.SCAT（→ ncc.FUSE(mode=ring)） **权威规范文件**：`00_KnowledgeBase_知识库/02_CST_核心理论著作/NCC_Naming_Convention_v2.md` **Git提交**：91文件变更，commit \"Upgrade: NCC-8 → NCC-11\" --- ### NCC范式主索引与4专利+3论文战略规划 **主索引文件**：`00_KnowledgeBase_知识库/02_CST_核心理论著作/NCC_Paradigm_Master_Index.md` **核心理论**：Route≡Transform定理（4定理体系） - 定理1（分解）：任意分布式计算 C = T_m∘R_m∘…∘T_1∘R_1 - 定理2（同构）：N点FFT",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.35851884484291074,
+      "maxScore": 0.35851884484291074,
+      "firstRecalledAt": "2026-04-30T09:56:15.949Z",
+      "lastRecalledAt": "2026-04-30T09:56:15.949Z",
+      "queryHashes": [
+        "92a03ca3b5ec"
+      ],
+      "recallDays": [
+        "2026-04-30"
+      ],
+      "conceptTags": [
+        "ncc-11",
+        "升级自ncc-8",
+        "完成从ncc-8升级到ncc-11的全库替换",
+        "ncc.look",
+        "ncc.maps",
+        "ncc.scat",
+        "ncc.fuse",
+        "ncc-8"
+      ]
+    },
+    "memory:memory/2026-04-22.md:74:90": {
+      "key": "memory:memory/2026-04-22.md:74:90",
+      "path": "memory/2026-04-22.md",
+      "startLine": 74,
+      "endLine": 90,
+      "source": "memory",
+      "snippet": "- `02_Papers_论文/NCC_专利与论文/P3_拓扑重构FFT专利_框架.md`（新建） - `02_Papers_论文/NCC_专利与论文/P4_SDK编译映射专利_框架.md`（新建） - `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md`（新建） - `02_Papers_论文/NCC_专利与论文/论文B_B5_NCC11系统实现_ASPLOS27.md`（新建） - `02_Papers_论文/NCC_专利与论文/论文C_B3_HorowitzWall_NatureElectronics.md`（新建） --- ### 持续有效的约束 - 严格手动模式：禁止任何自动化任务/cron - β₁/Betti数：不入V24论文，留companion paper - X₄定义：Watts-Strogatz σ + tanh归一化 - UCCP参考Q_rand=0.02，floor ε=0.01 - 文件路径在回复中必须用反引号包裹 - NCC命名：全库只用ncc.*前缀，NCC-11，无NPC/CPC/SDI-Ctrl残留",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36268259584903717,
+      "maxScore": 0.36268259584903717,
+      "firstRecalledAt": "2026-05-02T00:10:59.133Z",
+      "lastRecalledAt": "2026-05-02T00:10:59.133Z",
+      "queryHashes": [
+        "052150247400"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "禁止任何自动化任务/cron",
+        "β1/betti数",
+        "watts-strogatz",
+        "uccp参考q-rand",
+        "0.02",
+        "0.01",
+        "ncc-11",
+        "无npc/cpc/sdi-ctrl残留"
+      ]
+    },
+    "memory:memory/2026-04-25.md:106:125": {
+      "key": "memory:memory/2026-04-25.md:106:125",
+      "path": "memory/2026-04-25.md",
+      "startLine": 106,
+      "endLine": 125,
+      "source": "memory",
+      "snippet": "> 能不能按照网络时空协同复杂度，人脑所具备的，做一个推论？就多少纳米工艺就可以实现类人脑通用智能的时空协同复杂度？在物理世界构建一个这样的介观尺度物理复杂网络。这样用于指导我们只要多少纳米以内就可以实现通用智能，这个是不是更有奠基意义？ **核心问题**：基于CST时空协同复杂度（Sc·Tc·exp(α·Γst)）推算：实现类人脑AGI所需的工艺节点下限（单位：nm） **初步思路（待完善）**： - 人脑参数：~86B神经元，~150T突触，突触间距~0.5μm，信号传导~1-10ms - CST指标估算：Sc~6.2, Tc~6.8, Γst~0.73 → CST≈47（L6级） - 关键约束：突触密度（物理上限）× 时序精度（RC常数）× 能效（Landauer） - 工艺节点推断方向：7nm→3nm→2nm的突触等效密度计算 - **这是论文C（Nature Electronics）中\"奠基意义\"章节的核心数据** --- ### 问题2：LNN + SDI控制机制 + 变分贝叶斯融合架构 **用户原话**： > 在算法与机制上，要与液态神经网络LNN结合起来，让它去指导我们SDI的控制机制，再融合最小变分贝叶斯推断的收敛架构 **核心问题**：LNN（Liquid Neural Network）+ SDI拓扑控制 + 最小变分贝叶斯推断（Minimal VBI）三路融合架构 **初步思路（待完善）**：",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4068830609321594,
+      "maxScore": 0.4068830609321594,
+      "firstRecalledAt": "2026-05-03T07:55:16.694Z",
+      "lastRecalledAt": "2026-05-03T07:55:16.694Z",
+      "queryHashes": [
+        "0dd8464909bb"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "network",
+        "网络",
+        "0.5μm",
+        "1-10ms",
+        "6.2",
+        "6.8",
+        "0.73",
+        "能不能"
+      ]
+    },
+    "memory:memory/2026-04-25.md:21:47": {
+      "key": "memory:memory/2026-04-25.md:21:47",
+      "path": "memory/2026-04-25.md",
+      "startLine": 21,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "- CST指标估算：Sc~6.2, Tc~6.8, Γst~0.73 → CST≈47（L6级） - 关键约束：突触密度（物理上限）× 时序精度（RC常数）× 能效（Landauer） - 工艺节点推断方向：7nm→3nm→2nm的突触等效密度计算 - **这是论文C（Nature Electronics）中\"奠基意义\"章节的核心数据** --- ### 问题2：LNN + SDI控制机制 + 变分贝叶斯融合架构 **用户原话**： > 在算法与机制上，要与液态神经网络LNN结合起来，让它去指导我们SDI的控制机制，再融合最小变分贝叶斯推断的收敛架构 **核心问题**：LNN（Liquid Neural Network）+ SDI拓扑控制 + 最小变分贝叶斯推断（Minimal VBI）三路融合架构 **初步思路（待完善）**： - LNN特性：连续时间RNN（CT-RNN），参数量极小（~19个神经元控制自动驾驶），适合在线自适应控制 - LNN→SDI映射：LNN的液态状态 ≈ SDI拓扑配置向量；LNN动力学方程指导ncc.LINK的切换时序 - 变分贝叶斯收敛：ELBO最大化 ≡ 自由能最小化（与Friston FEP等价），提供收敛保证 - 三路融合方程候选： ``` τ·dx/dt = -x + f(Wx + I_SDI) + β·∇_x(-ELBO) 拓扑切换策略 = argmin_{topo} KL(Q_LNN || P_target) ``` - **可能成为P1专利的第(iii)类技术方案的核心算法**，也是B7论文§8 Discus",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3956777185201645,
+      "maxScore": 0.3956777185201645,
+      "firstRecalledAt": "2026-05-03T07:55:16.694Z",
+      "lastRecalledAt": "2026-05-03T07:55:16.694Z",
+      "queryHashes": [
+        "0dd8464909bb"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "network",
+        "网络",
+        "6.2",
+        "6.8",
+        "0.73",
+        "ct-rnn",
+        "lnn动力学方程指导ncc.link的切换时序",
+        "dx/dt"
+      ]
+    },
+    "memory:memory/2026-04-29.md:252:263": {
+      "key": "memory:memory/2026-04-29.md:252:263",
+      "path": "memory/2026-04-29.md",
+      "startLine": 252,
+      "endLine": 263,
+      "source": "memory",
+      "snippet": "- 图2 CopyBCU架构：`https://www.genspark.ai/api/files/s/0Hzsa20I?cache_control=3600` - 图3 FPGA验证方案：`https://www.genspark.ai/api/files/s/It86yQwP?cache_control=3600` 4. **核心理论数据** - 三大原子原语：P2P, Star, Ring - 五种SDI算子：∪, ∘, ×, ⊗, ⊕ - Γst=1充要条件：T_ALU ≤ T_link，Pipeline深度≥3，双buffer - CopyBCU规格：0.18 mm² @5nm，<10 pJ/op，10 ns延迟 ### 下一步（用户未明确回复） - P1专利§3-§5实施方案：Agent交底书中实施例已就绪，等待用户确认开始撰写",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3756348490715027,
+      "maxScore": 0.3756348490715027,
+      "firstRecalledAt": "2026-05-03T07:55:16.694Z",
+      "lastRecalledAt": "2026-05-03T07:55:16.694Z",
+      "queryHashes": [
+        "0dd8464909bb"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "cache-control",
+        "t-alu",
+        "t-link",
+        "0.18",
+        "pj/op",
+        "copybcu",
+        "架构",
+        "https"
+      ]
+    },
+    "memory:memory/2026-04-25.md:121:145": {
+      "key": "memory:memory/2026-04-25.md:121:145",
+      "path": "memory/2026-04-25.md",
+      "startLine": 121,
+      "endLine": 145,
+      "source": "memory",
+      "snippet": "> 在算法与机制上，要与液态神经网络LNN结合起来，让它去指导我们SDI的控制机制，再融合最小变分贝叶斯推断的收敛架构 **核心问题**：LNN（Liquid Neural Network）+ SDI拓扑控制 + 最小变分贝叶斯推断（Minimal VBI）三路融合架构 **初步思路（待完善）**： - LNN特性：连续时间RNN（CT-RNN），参数量极小（~19个神经元控制自动驾驶），适合在线自适应控制 - LNN→SDI映射：LNN的液态状态 ≈ SDI拓扑配置向量；LNN动力学方程指导ncc.LINK的切换时序 - 变分贝叶斯收敛：ELBO最大化 ≡ 自由能最小化（与Friston FEP等价），提供收敛保证 - 三路融合方程候选： ``` τ·dx/dt = -x + f(Wx + I_SDI) + β·∇_x(-ELBO) 拓扑切换策略 = argmin_{topo} KL(Q_LNN || P_target) ``` - **可能成为P1专利的第(iii)类技术方案的核心算法**，也是B7论文§8 Discussion的延伸 --- ### 问题3：惊讶度（Surprisal）的工程落地 **用户原话**： > 还有一个问题，内部模型与世界模型的惊讶度表征和在线测量，如何文化落地与实现？ **核心问题**：Surprisal（-log P(x)）和Prediction Error在NCC/CST系统中的在线测量与工程实现 **初步思路（待完善）**： - 惊讶度 = -log P(x|model)，在贝叶斯框架中等价于自由能的感知项",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.360553041100502,
+      "maxScore": 0.360553041100502,
+      "firstRecalledAt": "2026-05-03T07:55:16.694Z",
+      "lastRecalledAt": "2026-05-03T07:55:16.694Z",
+      "queryHashes": [
+        "0dd8464909bb"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "network",
+        "网络",
+        "ct-rnn",
+        "lnn动力学方程指导ncc.link的切换时序",
+        "dx/dt",
+        "i-sdi",
+        "q-lnn",
+        "p-target"
+      ]
+    }
+  }
+}
