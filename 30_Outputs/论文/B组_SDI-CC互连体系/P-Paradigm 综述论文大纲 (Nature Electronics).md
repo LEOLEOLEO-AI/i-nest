@@ -1,17 +1,17 @@
 # P-Paradigm 综述论文大纲 (Nature Electronics)
-## Title: Liquid Hardware and the Network-Centric Computing Paradigm: From Isomorphism Laws to Embodied AI
+## Title: Liquid Hardware and the Topology-Centric Computing Paradigm: From Isomorphism Laws to Embodied AI
 **Authors:** Qinrang Liu et al.
 **Target Journal:** *Nature Electronics* (Perspective / Review)
 
 ### Abstract (核心叙事)
-The stagnation of Moore's Law and the rigid Node-Centric (von Neumann) paradigm have led to severe "communication walls" and "dark silicon" effects in modern computing, particularly in SWaP-C constrained Embodied AI and complex systems (e.g., autonomous swarms, LEO satellites). This perspective introduces the **Network-Centric Computing (NCC)** paradigm, enabled by Software-Defined Interconnects (SDI) and governed by fundamental **Isomorphism Laws**. By mathematically proving that diverse computational workflows—from radar signal processing (FFT) to large language model inference (AllReduce/AlltoAll)—share isomorphic topological substrates, we propose a transition from rigid silicon to **"Liquid Hardware."** We demonstrate how such architectures achieve "Silicon Neural Reuse," allowing physical interconnects to dynamically reconfigure at microsecond scales. We highlight the strategic advantage of this paradigm in closing the OODA (Observe-Orient-Decide-Act) loop, fundamentally redefining the substrate of future intelligent systems.
+The stagnation of Moore's Law and the rigid Node-Centric (von Neumann) paradigm have led to severe "communication walls" and "dark silicon" effects in modern computing, particularly in SWaP-C constrained Embodied AI and complex systems (e.g., autonomous swarms, LEO satellites). This perspective introduces the **Topology-Centric Computing (NCC)** paradigm, enabled by Software-Defined Interconnects (SDI) and governed by fundamental **Isomorphism Laws**. By mathematically proving that diverse computational workflows—from radar signal processing (FFT) to large language model inference (AllReduce/AlltoAll)—share isomorphic topological substrates, we propose a transition from rigid silicon to **"Liquid Hardware."** We demonstrate how such architectures achieve "Silicon Neural Reuse," allowing physical interconnects to dynamically reconfigure at microsecond scales. We highlight the strategic advantage of this paradigm in closing the OODA (Observe-Orient-Decide-Act) loop, fundamentally redefining the substrate of future intelligent systems.
 
 ### 1. Introduction: The Crisis of Rigid Silicon
 - The divergence of Signal Processing (FFT, spatial filtering) and Deep Learning (MatMul, AllReduce) architectures.
 - The "Dark Silicon" tragedy in Embodied AI (e.g., satellites carrying redundant, mutually idle FPGA and GPU payloads).
 - The biological inspiration: Neural Reuse (e.g., visual cortex repurposed for tactile processing in the blind).
 
-### 2. The Network-Centric Computing (NCC) Paradigm
+### 2. The Topology-Centric Computing (NCC) Paradigm
 - **Route and Transform Decomposition**: All distributed tensor computations factorize into 5 communication primitives ($\mathcal{R}$) and 4 operator primitives ($\mathcal{T}$).
 - **The Isomorphism Laws (核心理论基石)**:
   - *Theorem 1 (FFT-AllReduce Isomorphism)*: The butterfly compute graph of the Fast Fourier Transform is topologically isomorphic to the optimal communication graph of the AllReduce primitive.
