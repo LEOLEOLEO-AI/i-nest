@@ -21,7 +21,7 @@ title: 'Stage 02: Problem Decompose'
 
 ## Source
 
-**Research Goal Document**: *Route≡Transform: Formal Isomorphism between Communication Primitives and Computation Primitives on Reconfigurable Interconnect Fabrics for Network-Centric Computing — Completeness and Minimality of the NCC-11 Primitive Set*
+**Research Goal Document**: *Route≡Transform: Formal Isomorphism between Communication Primitives and Computation Primitives on Reconfigurable Interconnect Fabrics for Topology-Centric Computing — Completeness and Minimality of the NCC-11 Primitive Set*
 **Project**: iNEST-NCC-Research | **Draft Stage**: Stage 01 (unverified — benchmark names and SOTA claims are LLM-generated estimates pending literature verification)
 **Decomposition Date**: 2025-07-14
 
