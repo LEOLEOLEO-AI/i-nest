@@ -21,7 +21,7 @@ Now I have comprehensive data to construct the definitive NCC Primitive Library 
 
 # NCC 原语库 v1.0 最终版规范
 
-## Network-Centric Computing Primitive Library Specification
+## Topology-Centric Computing Primitive Library Specification
 
 ---
 
@@ -534,7 +534,7 @@ dist.all_to_all_single(output, input)
 
 def NCC_Dialect : Dialect {
   let name = "ncc";
-  let summary = "Network-Centric Computing primitive dialect";
+  let summary = "Topology-Centric Computing primitive dialect";
   let cppNamespace = "::ncc";
 }
 
