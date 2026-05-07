@@ -24,7 +24,7 @@ tags:
 ## 关联条目
 
 - [[10_Knowledge/主题知识/CST_核心理论/NCC_Core_Concepts]]
-- [[00_Inbox/03_研究资料/网络时空协同复杂度涌现智能]]
+- [[00_KnowledgeBase_知识库/03_Inbox_文献与碎片/网络时空协同复杂度涌现智能]]
 - [[30_Outputs/论文/CST_Intelligence_Emergence_Paper_V22_Engineering_Format]]
 
 ## 证据与来源

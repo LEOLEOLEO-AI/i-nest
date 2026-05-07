@@ -19,4 +19,4 @@
 [[TCC-拓扑中心计算]] · [[SDSoW]] · [[元拓扑]] · [[SOC-自组织临界]]
 
 ## 实验
-[[04_Research/SDI-v31/README]]
+[[TCC计算范式/01_论文/README]]

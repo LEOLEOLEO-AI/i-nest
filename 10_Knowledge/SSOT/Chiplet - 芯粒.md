@@ -23,9 +23,9 @@ tags:
 
 ## 关联条目
 
-- [[00_Inbox/03_研究资料/Chiplet最强科普]]
-- [[00_Inbox/03_研究资料/Chiplet的机遇与挑战]]
-- [[00_Inbox/03_研究资料/Chiplet先进封装全球格局]]
+- [[10_Knowledge/99_参考资料/04_会议战略/Chiplet最强科普]]
+- [[10_Knowledge/99_参考资料/04_会议战略/Chiplet的机遇与挑战]]
+- [[10_Knowledge/99_参考资料/04_会议战略/Chiplet先进封装全球格局]]
 
 ## 证据与来源
 

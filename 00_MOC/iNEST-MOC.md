@@ -18,12 +18,12 @@
 
 ### 方向2：C.elegans 神经仿真
 - 目标：302个神经元 × 7000条突触 → 完整行为涌现
-- 当前：[[04_Research/SDI-v31/README]] (5/5 生物指标达标)
+- 当前：[[TCC计算范式/01_论文/README]] (5/5 生物指标达标)
 - 数据：OpenWorm, WormAtlas, WormBase
 
 ### 方向3：Hemibrain 连接组验证
 - 目标：用 FlyEM 果蝇半脑数据验证 TCC 理论
-- 当前：[[04_Research/Hemibrain/README]]
+- 当前：[[TCC计算范式/01_论文/README]]
 - 数据：neuPrint, FlyEM
 
 ### 方向4：SDI 硬件架构
