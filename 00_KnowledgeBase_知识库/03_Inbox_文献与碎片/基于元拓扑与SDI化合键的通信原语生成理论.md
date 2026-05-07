@@ -492,7 +492,7 @@ We have established that three meta-topologies ($P_2$, $K_{1,n}$, $C_n$) under f
 
 **任务5.2** 向OCP/CXL联盟提交SDI化合键互连标准提案。
 
-**任务5.3** 组织国际研讨会"Network-Centric Computing: From Meta-Topology to Embodied Intelligence"。
+**任务5.3** 组织国际研讨会"Topology-Centric Computing: From Meta-Topology to Embodied Intelligence"。
 
 ---
 
