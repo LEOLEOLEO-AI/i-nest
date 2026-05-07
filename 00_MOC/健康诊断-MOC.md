@@ -9,10 +9,10 @@
 
 | 检查项 | 标准 | 当前 | 状态 |
 |---|---|---|---|
-| 总笔记数 | — | 1402 篇 | ℹ️ |
-| 孤岛笔记（无链接） | < 10% | 823 篇 | 🔴 |
+| 总笔记数 | — | 2812 篇 | ℹ️ |
+| 孤岛笔记（无链接） | < 10% | 947 篇 | 🔴 |
 | 空文件 | = 0 | 5 篇 | 🔴 |
-| 断链 | = 0 | 3598 处 | 🟡 |
+| 断链 | = 0 | 5910 处 | 🟡 |
 | arXiv 高分未精读 | 每周清零 | 0 篇 | 🟢 |
 | Fleeting 滞留 >7天 | = 0 | 0 篇 | 🟢 |
 | 核心概念笔记缺失 | = 0 | 0 个 | 🟢 |
@@ -22,6 +22,8 @@
 ## ⚠️ 待处理问题
 
 ### 孤岛笔记（无链接）
+- RULES.md
+- BOOTSTRAP.md
 - Projects/[V3] 项目布局_双轨战略框架.md
 - Projects/项目布局汇总.md
 - Projects/DARPA网络、信息战与通信领域项目深度分析报告（下册）：以体系化创新锻造未来信息战优势_18961842.md
@@ -30,8 +32,6 @@
 - Projects/美国DARPA网络、信息战与通信领域战略布局深度研究报告（上册）.md
 - Projects/休假事项.md
 - Projects/光电混合晶圆级互连系统.md
-- Projects/偏头痛止痛药.md
-- Projects/美国DARPA材料科学与先进制造领域深度研究报告：战略、技术与未来展望.md
 
 ### 空文件或过短笔记
 - Journal/2026-04-17.md
@@ -41,21 +41,21 @@
 - 05_Fleeting/待分类/00-索引/Wiki/ADR.md
 
 ### 断链（目标笔记不存在）
-- 00_MOC/TCC-MOC.md → [[01_Concepts/SOC-自组织临界]]
-- 00_MOC/TCC-MOC.md → [[01_Concepts/TCC-拓扑中心计算]]
-- 00_MOC/TCC-MOC.md → [[01_Concepts/SDI-软件定义互连]]
-- 00_MOC/TCC-MOC.md → [[01_Concepts/SDSoW]]
-- 00_MOC/TCC-MOC.md → [[01_Concepts/小世界网络]]
-- 00_MOC/TCC-MOC.md → [[01_Concepts/神经雪崩]]
-- 00_MOC/TCC-MOC.md → [[01_Concepts/自由能原理]]
-- 00_MOC/TCC-MOC.md → [[01_Concepts/元拓扑]]
-- 00_MOC/TCC-MOC.md → [[03_Projects/TCC计算范式/README]]
-- 00_MOC/TCC-MOC.md → [[03_Projects/iNEST/README]]
-- 00_MOC/TCC-MOC.md → [[03_Projects/TCC计算范式/01_论文/SDI-CC论文框架_拓扑即计算新范式]]
-- 00_MOC/TCC-MOC.md → [[03_Projects/TCC计算范式/01_论文/P-Theory_v2_MetaTopology_SDI_Bond_Draft]]
-- 00_MOC/TCC-MOC.md → [[04_Research/SDI-v31/README]]
-- 00_MOC/TCC-MOC.md → [[04_Research/Hemibrain/README]]
-- 00_MOC/TCC-MOC.md → [[02_Papers/arxiv-auto/]]
+- 20_Projects/00_团队全局进度周报面板.md → [[20_Projects/00_项目策划总览]]
+- 20_Projects/00_团队全局进度周报面板.md → [[20_Projects/00_项目-论文-专利-技术四线映射表]]
+- 20_Projects/00_团队全局进度周报面板.md → [[10_Knowledge/00_导航/Wiki/Home]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/B0_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/B4_Route_IS_Transform_Isomorphism_Draft]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/RISC-V架构下SDI与OneFabric-Memory智算互联系统设计]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/晶圆级SDI交换Mesh与最优扇出高维拓扑]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/P-Theory_v2_MetaTopology_SDI_Bond_Draft]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/[V2]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/专利/P0-5_基于液态拓扑的实时生成式结构计算方法及系统]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[20_Projects/CST仿真平台/CST仿真平台]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/CST_Intelligence_Emergence_Paper_V22_Engineering_Format]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/A组_CST基础理论/论文计划列表]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/A组_CST基础理论/CST智能涌现验证与数据实验协议]]
 
 ---
 

@@ -3,12 +3,12 @@
 Generated: 2026-04-28 22:00:25
 
 ## 导航
-- [[00-索引/Wiki/Tags|Tags]]
-- [[00-索引/Wiki/Recent|Recent]]
-- [[00-索引/Wiki/Files|Files]]
-- [[00-索引/Wiki/SSOT|SSOT]]
-- [[00-索引/Wiki/ADR|ADR]]
-- [[00-索引/Wiki/Stats|Stats]]
+- [[10_Knowledge/00_导航/Wiki/Tags|Tags]]
+- [[10_Knowledge/00_导航/Wiki/Recent|Recent]]
+- [[10_Knowledge/00_导航/Wiki/Files|Files]]
+- [[10_Knowledge/00_导航/Wiki/SSOT|SSOT]]
+- [[10_Knowledge/00_导航/Wiki/ADR|ADR]]
+- [[10_Knowledge/00_导航/Wiki/Stats|Stats]]
 
 ## 概览
 - Notes: 1249

@@ -34,8 +34,8 @@
 
 ## 📁 项目索引
 
-- [[03_Projects/TCC计算范式/README]] — 论文/专利/技术栈
-- [[03_Projects/iNEST/README]] — iNEST 机构项目
+- [[TCC计算范式/01_论文/README]] — 论文/专利/技术栈
+- [[TCC计算范式/01_论文/README]] — iNEST 机构项目
 
 ## 📄 重要论文
 
@@ -44,8 +44,8 @@
 
 ## 🔬 当前实验
 
-- [[04_Research/SDI-v31/README]] — C.elegans 自演化仿真（5/5 生物指标达标）
-- [[04_Research/Hemibrain/README]] — 果蝇半脑连接组验证
+- [[TCC计算范式/01_论文/README]] — C.elegans 自演化仿真（5/5 生物指标达标）
+- [[TCC计算范式/01_论文/README]] — 果蝇半脑连接组验证
 
 ## 📥 最新文献
 

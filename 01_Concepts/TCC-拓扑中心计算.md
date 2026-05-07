@@ -21,4 +21,4 @@
 [[SOC-自组织临界]] · [[SDI-软件定义互连]] · [[元拓扑]] · [[SDSoW]]
 
 ## 项目
-[[03_Projects/TCC计算范式/README]]
+[[TCC计算范式/01_论文/README]]
