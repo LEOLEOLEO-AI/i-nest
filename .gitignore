@@ -25,3 +25,15 @@ Thumbs.db
 
 # 神经记忆缓存
 .neural_memory/
+# nested git repos (treated as plain directories)
+advisor-agent/.git
+claude/.git
+code/.git
+
+# nested git repo directories (each has its own .git, exclude from parent)
+advisor-agent/
+claude/
+code/
+docs/
+theory/
+KB/

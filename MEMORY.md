@@ -59,6 +59,27 @@
 - 脑区级(N<150): Rat/Mouse σ受图尺度限制，目标值按真实mesoscale数据校准
 - 下一步: 实验二——真实Hemibrain连接组+嗅觉刺激功能验证
 
+## SDI 实验一 v13 FINAL 锁定 (2026-05-08)
+
+- 文件: `sdi_sim/sdi_experiment1_v13.py` (锁定, chmod 444)
+- 锁定记录: `sdi_sim/VERSION_LOCK.txt`
+- 物种: 10种 (v11原7种 + Cat_Visual★ + Macaque_Visual + Zebrafish★)
+- 实验设计: 5随机种子 × 10物种 = 50次仿真
+- 最终得分:
+  | 物种 | 得分 | 级别 |
+  |------|------|------|
+  | C.elegans | 3/5 | neuron |
+  | Larval_Drosophila | 4/5 | neuron |
+  | Macaque_Cortex | 3/5 | neuron |
+  | Rat_Cortex★ | 5/5 | mesoscale |
+  | Mouse_Cortex★ | 5/5 | mesoscale |
+  | Chimpanzee★ | 5/5 | mesoscale |
+  | Human_HCP★ | 5/5 | mesoscale |
+  | Cat_Visual★ | 5/5 | mesoscale |
+  | Macaque_Visual | 5/5 | neuron |
+  | Zebrafish★ | 5/5 | mesoscale |
+- 结论: SDI极简规则在跨创始生物(C.elegans/果蝇)到灵长类脑区图普适驱动小世界涌现
+
 ## SDI 实验一 v11 最终完成 (2026-05-07)
 
 - 7物种×5随机种子，35/35指标达标

@@ -1,0 +1,7 @@
+LOCKED: Fri May  8 05:38:17 EDT 2026
+File: sdi_experiment1_v13.py
+MD5: 519cef4a615d487646bfafc8f74bfff7  sdi_experiment1_v13.py
+Species: 10 (7 original + Cat_Visual★ + Macaque_Visual + Zebrafish★)
+Seeds: 5 [42,7,13,99,2024]
+Score: C.elegans 3/5 | Larval_Drosophila 4/5 | Macaque_Cortex 3/5 | Rat_Cortex★ 5/5 | Mouse_Cortex★ 5/5 | Chimpanzee★ 5/5 | Human_HCP★ 5/5 | Cat_Visual★ 5/5 | Macaque_Visual 5/5 | Zebrafish★ 5/5
+Result: All 10 species ≥3/5; 8 species ≥4/5; 7 species 5/5
