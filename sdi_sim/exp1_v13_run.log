@@ -1,0 +1,254 @@
+
+=======================================================
+C.elegans  N=279  [neuron]
+=======================================================
+  [C.elegans] N=279 edges=2232 σ₀=7.63 C₀=0.263 w∈[0.04,0.18]
+  seed=42: σ=7.626 C=0.263 L=3.424 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+  [C.elegans] N=279 edges=2232 σ₀=7.52 C₀=0.273 w∈[0.04,0.18]
+  seed=7: σ=7.516 C=0.273 L=3.621 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+  [C.elegans] N=279 edges=2232 σ₀=7.62 C₀=0.260 w∈[0.04,0.18]
+  seed=13: σ=7.621 C=0.260 L=3.437 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+  [C.elegans] N=279 edges=2232 σ₀=7.32 C₀=0.279 w∈[0.04,0.18]
+  seed=99: σ=7.316 C=0.279 L=3.772 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+  [C.elegans] N=279 edges=2232 σ₀=7.57 C₀=0.273 w∈[0.04,0.18]
+  seed=2024: σ=7.568 C=0.273 L=3.553 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+
+--- C.elegans SUMMARY (5 seeds) ---
+  ✅ sigma : 7.529±0.114  (target ≥4.0)
+  ✅ C     : 0.269±0.007  (target ≥0.25)
+  ❌ L     : 3.562±0.128  (target [2.0,3.5])
+  ❌ alpha : N/A  (target [1.5,2.5])
+  ❌ el    : 0.000±0.000  (target [0.15,0.28])
+  SCORE: 2/5  [neuron]
+
+=======================================================
+Larval_Drosophila  N=321  [neuron]
+=======================================================
+  [Larval_Drosophila] N=321 edges=2568 σ₀=9.06 C₀=0.266 w∈[0.04,0.18]
+  seed=42: σ=9.059 C=0.266 L=3.418 α=N/A EL=0.0% av=0(μ=0.0) (1.1s)
+  [Larval_Drosophila] N=321 edges=2568 σ₀=9.44 C₀=0.265 w∈[0.04,0.18]
+  seed=7: σ=9.436 C=0.265 L=3.388 α=N/A EL=0.0% av=0(μ=0.0) (1.1s)
+  [Larval_Drosophila] N=321 edges=2568 σ₀=9.20 C₀=0.268 w∈[0.04,0.18]
+  seed=13: σ=9.202 C=0.268 L=3.424 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+  [Larval_Drosophila] N=321 edges=2568 σ₀=8.85 C₀=0.276 w∈[0.04,0.18]
+  seed=99: σ=8.850 C=0.276 L=3.632 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+  [Larval_Drosophila] N=321 edges=2568 σ₀=9.25 C₀=0.270 w∈[0.04,0.18]
+  seed=2024: σ=9.249 C=0.270 L=3.461 α=N/A EL=0.0% av=0(μ=0.0) (1.1s)
+
+--- Larval_Drosophila SUMMARY (5 seeds) ---
+  ✅ sigma : 9.159±0.196  (target ≥3.0)
+  ✅ C     : 0.269±0.004  (target ≥0.2)
+  ✅ L     : 3.465±0.087  (target [1.5,3.5])
+  ❌ alpha : N/A  (target [1.5,2.5])
+  ❌ el    : 0.000±0.000  (target [0.15,0.28])
+  SCORE: 3/5  [neuron]
+
+=======================================================
+Macaque_Cortex  N=242  [neuron]
+=======================================================
+  [Macaque_Cortex] N=242 edges=3388 σ₀=3.79 C₀=0.240 w∈[0.04,0.18]
+  seed=42: σ=3.794 C=0.240 L=2.395 α=N/A EL=0.0% av=0(μ=0.0) (1.2s)
+  [Macaque_Cortex] N=242 edges=3388 σ₀=3.91 C₀=0.255 w∈[0.04,0.18]
+  seed=7: σ=3.908 C=0.255 L=2.447 α=N/A EL=0.0% av=0(μ=0.0) (1.1s)
+  [Macaque_Cortex] N=242 edges=3388 σ₀=3.90 C₀=0.250 w∈[0.04,0.18]
+  seed=13: σ=3.903 C=0.250 L=2.420 α=N/A EL=0.0% av=0(μ=0.0) (1.1s)
+  [Macaque_Cortex] N=242 edges=3388 σ₀=3.96 C₀=0.257 w∈[0.04,0.18]
+  seed=99: σ=3.961 C=0.257 L=2.445 α=N/A EL=0.0% av=0(μ=0.0) (1.1s)
+  [Macaque_Cortex] N=242 edges=3388 σ₀=3.94 C₀=0.251 w∈[0.04,0.18]
+  seed=2024: σ=3.940 C=0.251 L=2.420 α=N/A EL=0.0% av=0(μ=0.0) (1.2s)
+
+--- Macaque_Cortex SUMMARY (5 seeds) ---
+  ✅ sigma : 3.901±0.058  (target ≥3.0)
+  ✅ C     : 0.251±0.006  (target ≥0.25)
+  ✅ L     : 2.426±0.019  (target [2.0,3.5])
+  ❌ alpha : N/A  (target [1.5,2.5])
+  ❌ el    : 0.000±0.000  (target [0.15,0.28])
+  SCORE: 3/5  [neuron]
+
+=======================================================
+Rat_Cortex★  N=73  [mesoscale]
+=======================================================
+  [Rat_Cortex★] N=73 edges=876 σ₀=1.23 C₀=0.265 w∈[0.05,0.2]
+  seed=42: σ=1.228 C=0.265 L=2.383 α=N/A EL=0.0% av=0(μ=0.0) (0.8s)
+  [Rat_Cortex★] N=73 edges=876 σ₀=1.27 C₀=0.284 w∈[0.05,0.2]
+  seed=7: σ=1.268 C=0.284 L=2.415 α=N/A EL=0.0% av=0(μ=0.0) (0.8s)
+  [Rat_Cortex★] N=73 edges=876 σ₀=1.21 C₀=0.258 w∈[0.05,0.2]
+  seed=13: σ=1.206 C=0.258 L=2.319 α=N/A EL=0.0% av=0(μ=0.0) (0.8s)
+  [Rat_Cortex★] N=73 edges=876 σ₀=1.22 C₀=0.281 w∈[0.05,0.2]
+  seed=99: σ=1.217 C=0.281 L=2.486 α=N/A EL=0.0% av=0(μ=0.0) (0.8s)
+  [Rat_Cortex★] N=73 edges=876 σ₀=1.27 C₀=0.285 w∈[0.05,0.2]
+  seed=2024: σ=1.275 C=0.285 L=2.433 α=N/A EL=0.0% av=0(μ=0.0) (0.8s)
+
+--- Rat_Cortex★ SUMMARY (5 seeds) ---
+  ✅ sigma : 1.239±0.028  (target ≥1.2)
+  ✅ C     : 0.275±0.011  (target ≥0.25)
+  ✅ L     : 2.407±0.055  (target [1.5,3.0])
+  ❌ alpha : N/A  (target [1.5,2.5])
+  ❌ el    : 0.000±0.000  (target [0.15,0.28])
+  SCORE: 3/5  [mesoscale]
+
+=======================================================
+Mouse_Cortex★  N=112  [mesoscale]
+=======================================================
+  [Mouse_Cortex★] N=112 edges=1344 σ₀=1.72 C₀=0.240 w∈[0.05,0.2]
+  seed=42: σ=1.722 C=0.240 L=2.583 α=N/A EL=0.0% av=0(μ=0.0) (0.9s)
+  [Mouse_Cortex★] N=112 edges=1344 σ₀=1.78 C₀=0.256 w∈[0.05,0.2]
+  seed=7: σ=1.784 C=0.256 L=2.670 α=N/A EL=0.0% av=0(μ=0.0) (0.9s)
+  [Mouse_Cortex★] N=112 edges=1344 σ₀=1.78 C₀=0.250 w∈[0.05,0.2]
+  seed=13: σ=1.784 C=0.250 L=2.597 α=N/A EL=0.0% av=0(μ=0.0) (0.9s)
+  [Mouse_Cortex★] N=112 edges=1344 σ₀=1.78 C₀=0.263 w∈[0.05,0.2]
+  seed=99: σ=1.784 C=0.263 L=2.697 α=N/A EL=0.0% av=0(μ=0.0) (0.9s)
+  [Mouse_Cortex★] N=112 edges=1344 σ₀=1.83 C₀=0.264 w∈[0.05,0.2]
+  seed=2024: σ=1.828 C=0.264 L=2.661 α=N/A EL=0.0% av=0(μ=0.0) (0.9s)
+
+--- Mouse_Cortex★ SUMMARY (5 seeds) ---
+  ✅ sigma : 1.780±0.034  (target ≥1.5)
+  ✅ C     : 0.255±0.009  (target ≥0.22)
+  ✅ L     : 2.642±0.044  (target [1.5,3.0])
+  ❌ alpha : N/A  (target [1.5,2.5])
+  ❌ el    : 0.000±0.000  (target [0.15,0.28])
+  SCORE: 3/5  [mesoscale]
+
+=======================================================
+Chimpanzee★  N=200  [mesoscale]
+=======================================================
+  [Chimpanzee★] N=200 edges=2000 σ₀=4.32 C₀=0.253 w∈[0.04,0.16]
+  seed=42: σ=4.319 C=0.253 L=2.846 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+  [Chimpanzee★] N=200 edges=2000 σ₀=4.38 C₀=0.252 w∈[0.04,0.16]
+  seed=7: σ=4.379 C=0.252 L=2.793 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+  [Chimpanzee★] N=200 edges=2000 σ₀=4.21 C₀=0.249 w∈[0.04,0.16]
+  seed=13: σ=4.213 C=0.249 L=2.875 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+  [Chimpanzee★] N=200 edges=2000 σ₀=4.21 C₀=0.265 w∈[0.04,0.16]
+  seed=99: σ=4.207 C=0.265 L=3.039 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+  [Chimpanzee★] N=200 edges=2000 σ₀=4.32 C₀=0.271 w∈[0.04,0.16]
+  seed=2024: σ=4.324 C=0.271 L=2.990 α=N/A EL=0.0% av=0(μ=0.0) (1.0s)
+
+--- Chimpanzee★ SUMMARY (5 seeds) ---
+  ✅ sigma : 4.288±0.068  (target ≥1.5)
+  ✅ C     : 0.258±0.009  (target ≥0.12)
+  ✅ L     : 2.909±0.092  (target [1.5,3.5])
+  ❌ alpha : N/A  (target [1.5,2.5])
+  ❌ el    : 0.000±0.000  (target [0.15,0.28])
+  SCORE: 3/5  [mesoscale]
+
+=======================================================
+Human_HCP★  N=400  [mesoscale]
+=======================================================
+  [Human_HCP★] N=400 edges=4000 σ₀=10.19 C₀=0.270 w∈[0.03,0.14]
+  seed=42: σ=10.192 C=0.270 L=2.919 α=N/A EL=0.0% av=0(μ=0.0) (1.2s)
+  [Human_HCP★] N=400 edges=4000 σ₀=10.00 C₀=0.264 w∈[0.03,0.14]
+  seed=7: σ=10.003 C=0.264 L=2.921 α=N/A EL=0.0% av=0(μ=0.0) (1.2s)
+  [Human_HCP★] N=400 edges=4000 σ₀=9.94 C₀=0.273 w∈[0.03,0.14]
+  seed=13: σ=9.935 C=0.273 L=3.046 α=N/A EL=0.0% av=0(μ=0.0) (1.2s)
+  [Human_HCP★] N=400 edges=4000 σ₀=10.05 C₀=0.273 w∈[0.03,0.14]
+  seed=99: σ=10.052 C=0.273 L=2.969 α=N/A EL=0.0% av=0(μ=0.0) (1.2s)
+  [Human_HCP★] N=400 edges=4000 σ₀=10.00 C₀=0.277 w∈[0.03,0.14]
+  seed=2024: σ=9.999 C=0.277 L=3.042 α=N/A EL=0.0% av=0(μ=0.0) (1.2s)
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 28082 (\N{CJK UNIFIED IDEOGRAPH-6DB2}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 24577 (\N{CJK UNIFIED IDEOGRAPH-6001}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 25299 (\N{CJK UNIFIED IDEOGRAPH-62D3}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 25169 (\N{CJK UNIFIED IDEOGRAPH-6251}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 31070 (\N{CJK UNIFIED IDEOGRAPH-795E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 32463 (\N{CJK UNIFIED IDEOGRAPH-7ECF}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 20803 (\N{CJK UNIFIED IDEOGRAPH-5143}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 21270 (\N{CJK UNIFIED IDEOGRAPH-5316}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 21512 (\N{CJK UNIFIED IDEOGRAPH-5408}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 38190 (\N{CJK UNIFIED IDEOGRAPH-952E}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 21160 (\N{CJK UNIFIED IDEOGRAPH-52A8}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 26500 (\N{CJK UNIFIED IDEOGRAPH-6784}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 30495 (\N{CJK UNIFIED IDEOGRAPH-771F}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 27491 (\N{CJK UNIFIED IDEOGRAPH-6B63}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 24130 (\N{CJK UNIFIED IDEOGRAPH-5E42}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 24459 (\N{CJK UNIFIED IDEOGRAPH-5F8B}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 38634 (\N{CJK UNIFIED IDEOGRAPH-96EA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:431: UserWarning: Glyph 23849 (\N{CJK UNIFIED IDEOGRAPH-5D29}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 28082 (\N{CJK UNIFIED IDEOGRAPH-6DB2}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 24577 (\N{CJK UNIFIED IDEOGRAPH-6001}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 25299 (\N{CJK UNIFIED IDEOGRAPH-62D3}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 25169 (\N{CJK UNIFIED IDEOGRAPH-6251}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 31070 (\N{CJK UNIFIED IDEOGRAPH-795E}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 32463 (\N{CJK UNIFIED IDEOGRAPH-7ECF}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 20803 (\N{CJK UNIFIED IDEOGRAPH-5143}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 21270 (\N{CJK UNIFIED IDEOGRAPH-5316}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 21512 (\N{CJK UNIFIED IDEOGRAPH-5408}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 38190 (\N{CJK UNIFIED IDEOGRAPH-952E}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 21160 (\N{CJK UNIFIED IDEOGRAPH-52A8}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 37325 (\N{CJK UNIFIED IDEOGRAPH-91CD}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 26500 (\N{CJK UNIFIED IDEOGRAPH-6784}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 30495 (\N{CJK UNIFIED IDEOGRAPH-771F}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 27491 (\N{CJK UNIFIED IDEOGRAPH-6B63}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 24130 (\N{CJK UNIFIED IDEOGRAPH-5E42}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 24459 (\N{CJK UNIFIED IDEOGRAPH-5F8B}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 38634 (\N{CJK UNIFIED IDEOGRAPH-96EA}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v13.py:432: UserWarning: Glyph 23849 (\N{CJK UNIFIED IDEOGRAPH-5D29}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp1_v13_convergence.png',dpi=130,bbox_inches='tight')
+
+--- Human_HCP★ SUMMARY (5 seeds) ---
+  ✅ sigma : 10.036±0.086  (target ≥2.5)
+  ✅ C     : 0.271±0.004  (target ≥0.15)
+  ✅ L     : 2.979±0.056  (target [2.0,4.0])
+  ❌ alpha : N/A  (target [1.5,2.5])
+  ❌ el    : 0.000±0.000  (target [0.15,0.28])
+  SCORE: 3/5  [mesoscale]
+
+============================================================
+ALL DONE 37.8s
+============================================================
+物种                     级别         得分     σ       C      L     α      EL
+---------------------------------------------------------------------------
+C.elegans              neuron     2/5  7.53±0.11  0.269  3.56  N/A  0.0%
+Larval_Drosophila      neuron     3/5  9.16±0.20  0.269  3.46  N/A  0.0%
+Macaque_Cortex         neuron     3/5  3.90±0.06  0.251  2.43  N/A  0.0%
+Rat_Cortex★            ★meso      3/5  1.24±0.03  0.275  2.41  N/A  0.0%
+Mouse_Cortex★          ★meso      3/5  1.78±0.03  0.255  2.64  N/A  0.0%
+Chimpanzee★            ★meso      3/5  4.29±0.07  0.258  2.91  N/A  0.0%
+Human_HCP★             ★meso      3/5  10.04±0.09  0.271  2.98  N/A  0.0%
+
+【LIF+SDI 液态拓扑说明】
+  神经元：标准 LIF（线性突触，参数空间宽）
+  液态拓扑：SDI 化合键动态重构（固化/消除/WS重连）
+    E-L键（固化）权重增益×1.4 → 快响应骨架（对应LNN短τ）
+    E-S键（可塑）正常权重    → 慢适应通道（对应LNN长τ）
+  雪崩：T_bin=4ms，单点刺激，与Beggs&Plenz 2003完全对应
+  STDP：精确spike时刻（0.5ms分辨率）
+Results → exp1_v13_results.json
+Plot → exp1_v13_convergence.png
+DONE

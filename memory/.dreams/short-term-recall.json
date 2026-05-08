@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T09:30:05.986Z",
+  "updatedAt": "2026-05-08T05:30:25.190Z",
   "entries": {
     "memory:memory/2026-04-22.md:30:60": {
       "key": "memory:memory/2026-04-22.md:30:60",
@@ -226,20 +226,24 @@
       "endLine": 62,
       "source": "memory",
       "snippet": "- Hemibrain σ=62.9远高于C.elegans σ=6.8——Drosophila connectome具有极高clustering - Hemibrain的α=128异常高，因为~18K神经元参与cascade，远超幂律适用范围 - Hemibrain的L=1.39极短，说明该网络高度互联 ### 下一步 - 保留plasticity的Hemibrain完整仿真（目前跳过了一些开销大的操作） - Mouse cortex数据获取和仿真 - 写论文/报告时对比三个物种的SDI universality ### 文件列表 - `sdi_network_v30.py` - 多物种SDI仿真器 - `sdi_v30_c_elegans_results.json` - C.elegans结果 - `sdi_v30_hemibrain_results.json` - Hemibrain结果 - `sdi_v30_c_elegans_result.png` - C.elegans图表 - `hemibrain_edges.json` - (可删除，已改用CSV) - `hemibrain_connectome_meta.json` - Hemibrain元数据 ### 已知问题 - Hemibrain的E-L ratio始终为0%（所有bond保持E-S type，因为没有apply_rules） - α值对于大网络不适用（幂律模型设计用于small cascade sizes） - Hemibrain的所有神经元都被标记为interneuron（需要更精细的类型分类）",
-      "recallCount": 3,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.1725519329309462,
+      "totalScore": 2.334529608488083,
       "maxScore": 0.41781046390533444,
       "firstRecalledAt": "2026-05-07T08:20:07.460Z",
-      "lastRecalledAt": "2026-05-07T09:30:05.986Z",
+      "lastRecalledAt": "2026-05-08T05:30:25.190Z",
       "queryHashes": [
         "9fad92cfc3e0",
         "0a13b4260c4c",
-        "5bc0dd1720ca"
+        "5bc0dd1720ca",
+        "273a731c8fea",
+        "2c4db905ab84",
+        "f2e153302e9b"
       ],
       "recallDays": [
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "network",
@@ -353,18 +357,20 @@
       "endLine": 604,
       "source": "memory",
       "snippet": "| 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | sdi_network v30 | `sdi_sim/sdi_network_v30.py` | ✅**5/5 PASS** | 写正式论文/专利素材 | | C.elegans SDI复现 | `sdi_sim/sdi_v30_results.png` | ✅已完成 | — | | v22-v29 历史版本 | `sdi_sim/sdi_network_v{22..29}.py` | ✅归档 | — | | nano-SDIO原型脚本 | `04_Code_代码/nano_SDIO.py` | 📋存在但需验证 | 补充算力对标数据（立项材料用） | #### v30 最终结果（C.elegans SDI, 3000步 MNIST） | 指标 | 结果 | 目标 | 达标 | |------|------|------|------| | σ（平均度） | **4.238** | ≥4.0 | ✅ | | α（度 assortativity） | **2.099** | 1.5–2.5 | ✅ | | C（聚类系数） | **0.328** | ≥0.30 | ✅ | | L（平均路径长度） | **2.398** | 2.0–3.5 | ✅ | | EL（电-化学突触比） | **27.3%** | 15–28% | ✅ | σ轨迹：30/30步全部≥4.0（范围[4.250, 5.061]，均值4.66） **v30核心机制**： - `BOND_CA",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.36997227370738983,
-      "maxScore": 0.36997227370738983,
+      "totalScore": 0.7716976523399353,
+      "maxScore": 0.4017253786325454,
       "firstRecalledAt": "2026-05-07T08:20:09.773Z",
-      "lastRecalledAt": "2026-05-07T08:20:09.773Z",
+      "lastRecalledAt": "2026-05-08T05:30:19.081Z",
       "queryHashes": [
-        "0a13b4260c4c"
+        "0a13b4260c4c",
+        "2c4db905ab84"
       ],
       "recallDays": [
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "network",
@@ -384,18 +390,21 @@
       "endLine": 91,
       "source": "memory",
       "snippet": "**⚠️ 发现变更**：hemibrain_v31_results.json 文件有变化（当前936字节），需关注 v31 验证流程是否正常执行。2026-05-07/03:25 compute_procs: 0 hemibrain_v31_results.json:936 sdi_v31_results.json:2058 CHANGED ## 系统健康检查 (03:35 EDT) | 指标 | 状态 | |------|------| | compute_procs | 0 | | hemibrain_v31_results.json | 936 bytes | | sdi_v31_results.json | 2058 bytes | | 检测结果 | **CHANGED** | **文件时间戳**： - `sdi_v31_results.json`: 05-06 03:14（无变化） - `hemibrain_v31_results.json`: 05-06 23:54（无变化） - `connectome_v8_data.json`: 05-06 03:08（无变化） **结论**：无新增结果文件，JSON 大小较上次检查无变化。Hemibrain v31 验证仍在等待 compute_procs 运行。2026-05-07/03:35 --- ## 03:40 EDT 自动状态雷达 | 进程 | 状态 | |------|------| | compute_procs | 0 (空闲) | ### sdi_sim 文件变更 | 文件 | 大小 |",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.40648938119411465,
+      "totalScore": 1.1425826013088225,
       "maxScore": 0.40648938119411465,
       "firstRecalledAt": "2026-05-07T09:30:05.986Z",
-      "lastRecalledAt": "2026-05-07T09:30:05.986Z",
+      "lastRecalledAt": "2026-05-08T05:30:19.081Z",
       "queryHashes": [
-        "5bc0dd1720ca"
+        "5bc0dd1720ca",
+        "273a731c8fea",
+        "2c4db905ab84"
       ],
       "recallDays": [
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "hemibrain-v31-results.json",
@@ -415,18 +424,20 @@
       "endLine": 358,
       "source": "memory",
       "snippet": "| sdi_v31_results.json | 2058 bytes（May 6 03:14，无变化） | | **变更检测** | **CHANGED** | ### 结论 - hemibrain_v31_results.json 自 04:09 后无大小变化 - sdi_v31_results.json 仍为 May 6 03:14 数据，无新变化 - compute_procs 空闲，v31 验证流程未运行新任务 ### Hemibrain v31 最新结果（参考） - **sigma**: 0.2117（小世界属性） - **alpha**: 3.1698（幂律指数，符合 2<α<4 目标） - **C**: 0.00953，L: 2.133（小世界网络特征） - **神经元**: 6000（活跃 25074/25397） - **化学突触**: 312993，电突触: 15618 ## 05:10 自动状态报告 ``` 2026-05-07/05:10 compute_procs: 0 hemibrain_v31_results.json:936 sdi_v31_results.json:2058 CHANGED ``` 变更: hemibrain_v31_results.json 大小变化（2026-05-07 04:09 更新） ## 05:15 自动状态报告 - compute_procs: 0（无活跃计算） - hemibrain_v31_results.json: 936 bytes（已更新） - sdi_v31_results.json: 20",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.3873794436454773,
-      "maxScore": 0.3873794436454773,
+      "totalScore": 0.7842427283525466,
+      "maxScore": 0.3968632847070694,
       "firstRecalledAt": "2026-05-07T09:30:05.986Z",
-      "lastRecalledAt": "2026-05-07T09:30:05.986Z",
+      "lastRecalledAt": "2026-05-08T05:30:19.081Z",
       "queryHashes": [
-        "5bc0dd1720ca"
+        "5bc0dd1720ca",
+        "2c4db905ab84"
       ],
       "recallDays": [
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "网络",
@@ -468,6 +479,287 @@
         "e-l",
         "19.6",
         "62.918"
+      ]
+    },
+    "memory:memory/2026-05-07.md:449:480": {
+      "key": "memory:memory/2026-05-07.md:449:480",
+      "path": "memory/2026-05-07.md",
+      "startLine": 449,
+      "endLine": 480,
+      "source": "memory",
+      "snippet": "### 🟢 Hemibrain v31 最新结果（05:38 写入，status: COMPLETE） | 指标 | 值 | 生物目标 | 状态 | |------|-----|---------|------| | sigma | 0.0306 | 0.01–0.04 | ✅ | | alpha | 1.119 | 1.0–1.5 | ✅ | | el_ratio | 0.157 | <0.25 | ✅ | | C_clustering | 1.0 | >0.3 | ✅ | | small_world_score | 20.0 | >1 | ✅ | | biological_fidelity_score | **0.3961** | — | ✅ 5/5通过 | - n_neurons=5000, n_synapses=259029, steps=1500, elapsed=0.6s - **状态：COMPLETE**，v31 Hemibrain 验证正式完成 ## 07:10 EDT 自动状态雷达 | 指标 | 状态 | |------|------| | compute_procs | 0（空闲） | | hemibrain_v31_results.json | **841 bytes（mtime: 05:38，无新变化）** | | sdi_v31_results.json | 2058 bytes（May 6 03:14，无变化） | | 变更检测 | **CHANGED**（auto_status.sh 标志位残留） | ### 结论 - hemibra",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.768384575843811,
+      "maxScore": 0.3973769813776016,
+      "firstRecalledAt": "2026-05-08T01:39:49.561Z",
+      "lastRecalledAt": "2026-05-08T05:30:19.081Z",
+      "queryHashes": [
+        "273a731c8fea",
+        "2c4db905ab84"
+      ],
+      "recallDays": [
+        "2026-05-07",
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "0.0306",
+        "0.01",
+        "0.04",
+        "1.119",
+        "1.0",
+        "1.5",
+        "el-ratio",
+        "0.157"
+      ]
+    },
+    "memory:memory/2026-05-07.md:17:56": {
+      "key": "memory:memory/2026-05-07.md:17:56",
+      "path": "memory/2026-05-07.md",
+      "startLine": 17,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "8. **模板目录位置变更**：HEARTBEAT.md 期望 `99-Templates` 在根目录，实际在 `90_System/99_Templates`，路径失配。 **🟢 正常：** - SDI v31 仿真结果存在（T_200/T_150 两组参数轨迹完整） - 知识库结构完整（SSOT/ADR/Wiki/Inbox 齐全） - 54 个 workspace skills 正常 - WeChat 插件已启用（openclaw-weixin v2.4.1） - workspace 根文档完整（AGENTS.md / SOUL.md / USER.md / MEMORY.md / HEARTBEAT.md 等均在） ### 修复计划 1. 立即重建 Copilot data.json 配置 2. 修复「知识库每日同步」cron（排查 WeChat 投递超时原因，考虑增加 timeout 或切换投递渠道） 3. 补全今日 memory 日志（本文件） 4. 调查 HERMES-Brain 无输出原因（可能需要 re-auth） 5. 运行 Hemibrain v31 完整评估 pipeline ## 系统健康检查 (03:20 EDT) | 指标 | 状态 | |------|------| | compute_procs | 0 | | hemibrain_v31_results.json | 936 bytes | | sdi_v31_results.json | 2058 bytes | | 检测结果 | **CHANGED** | **⚠️ 发现变更*",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.39548082649707794,
+      "maxScore": 0.39548082649707794,
+      "firstRecalledAt": "2026-05-08T05:30:19.081Z",
+      "lastRecalledAt": "2026-05-08T05:30:19.081Z",
+      "queryHashes": [
+        "2c4db905ab84"
+      ],
+      "recallDays": [
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "99-templates",
+        "90-system/99-templates",
+        "t-200/t-150",
+        "ssot/adr/wiki/inbox",
+        "openclaw-weixin",
+        "v2.4.1",
+        "agents.md"
+      ]
+    },
+    "memory:memory/2026-05-07.md:176:220": {
+      "key": "memory:memory/2026-05-07.md:176:220",
+      "path": "memory/2026-05-07.md",
+      "startLine": 176,
+      "endLine": 220,
+      "source": "memory",
+      "snippet": "- `sdi_v31_results.json` — 无变化（05-06 03:14） ### 🔴 发现新变更 `hemibrain_v31_results.json` 在 04:09 发生更新，有新数据写入。建议检查 v31 验证 pipeline 是否正在执行。 ## 04:15 自动状态记录 - **compute_procs**: 0（无计算任务运行） - **文件变化**: hemibrain_v31_results.json 已更新（936 bytes, 04:09） - **sdi_v31_results.json**: 2058 bytes（无变化，05-06 03:14） ### Hemibrain v31 最新结果 - **sigma**: 0.2117（小世界属性） - **alpha**: 3.1698（幂律指数，符合 2<α<4 目标） - **C**: 0.00953，L: 2.133（小世界网络特征） - **神经元**: 6000 / 25397（活跃 25074） - **化学突触**: 312366 → 312993（+627） - **电突触**: 15618 - **theta**: 5（稳定） ## 04:20 EDT 自动状态雷达 | 项目 | 状态 | |------|------| | compute_procs | 0（空闲） | | hemibrain_v31_results.json | 936 bytes（May 7 04:09） | | sdi_v31_results.json | 2058 bytes（M",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3903765499591827,
+      "maxScore": 0.3903765499591827,
+      "firstRecalledAt": "2026-05-08T05:30:19.081Z",
+      "lastRecalledAt": "2026-05-08T05:30:19.081Z",
+      "queryHashes": [
+        "2c4db905ab84"
+      ],
+      "recallDays": [
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "网络",
+        "sdi-v31-results.json",
+        "05-06",
+        "hemibrain-v31-results.json",
+        "compute-procs",
+        "0.2117",
+        "3.1698",
+        "0.00953"
+      ]
+    },
+    "memory:memory/2026-05-05.md:891:918": {
+      "key": "memory:memory/2026-05-05.md:891:918",
+      "path": "memory/2026-05-05.md",
+      "startLine": 891,
+      "endLine": 918,
+      "source": "memory",
+      "snippet": "### ⚙️ 主线E：关键技术工程实现''' new = '''> 最后更新：2026-05-05（v30 5/5 PASS ✅） --- ## 🧭 四条主线实时状态 ### 🔬 主线T：理论研究 **负责人**：刘勤让 | **当前阶段**：CST V25论文投稿准备 | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | CST V25 论文 | `02_Papers_论文/CST_Intelligence_Emergence_Paper_V25_FINAL.md` | ✅投稿就绪（V25全量修复完成） | LaTeX打包→arXiv提交 | | CST V25 Word版 | `02_Papers_论文/CST_Theory_V25_FINAL.docx` | ✅已生成 | 同步修复 | | LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启动论文写作 | | B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASP",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3858774274587631,
+      "maxScore": 0.3858774274587631,
+      "firstRecalledAt": "2026-05-08T05:30:19.081Z",
+      "lastRecalledAt": "2026-05-08T05:30:19.081Z",
+      "queryHashes": [
+        "2c4db905ab84"
+      ],
+      "recallDays": [
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "5/5",
+        "02-papers-论文/arxiv-submission",
+        "完成main.tex",
+        "3.2",
+        "p-mapping素材",
+        "关键",
+        "技术",
+        "工程"
+      ]
+    },
+    "memory:memory/2026-05-05.md:1009:1039": {
+      "key": "memory:memory/2026-05-05.md:1009:1039",
+      "path": "memory/2026-05-05.md",
+      "startLine": 1009,
+      "endLine": 1039,
+      "source": "memory",
+      "snippet": "| nano-SDIO原型脚本 | `04_Code_代码/nano_SDIO.py` | 📋存在但需验证 | 补充算力对标数据（立项材料用） | --- ### ⚙️ 主线E：关键技术工程实现''' new = '''> 最后更新：2026-05-05（v30 5/5 PASS ✅） --- ## 🧭 四条主线实时状态 ### 🔬 主线T：理论研究 **负责人**：刘勤让 | **当前阶段**：CST V25论文投稿准备 | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | CST V25 论文 | `02_Papers_论文/CST_Intelligence_Emergence_Paper_V25_FINAL.md` | ✅投稿就绪（V25全量修复完成） | LaTeX打包→arXiv提交 | | CST V25 Word版 | `02_Papers_论文/CST_Theory_V25_FINAL.docx` | ✅已生成 | 同步修复 | | LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.38396205902099606,
+      "maxScore": 0.38396205902099606,
+      "firstRecalledAt": "2026-05-08T05:30:19.081Z",
+      "lastRecalledAt": "2026-05-08T05:30:19.081Z",
+      "queryHashes": [
+        "2c4db905ab84"
+      ],
+      "recallDays": [
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "nano-sdio原型脚本",
+        "04-code-代码/nano-sdio.py",
+        "5/5",
+        "02-papers-论文/arxiv-submission",
+        "完成main.tex",
+        "3.2",
+        "p-mapping素材",
+        "nano"
+      ]
+    },
+    "memory:memory/2026-05-07.md:282:324": {
+      "key": "memory:memory/2026-05-07.md:282:324",
+      "path": "memory/2026-05-07.md",
+      "startLine": 282,
+      "endLine": 324,
+      "source": "memory",
+      "snippet": "| sdi_v31_results.json | 2058 bytes（May 6 03:14，无变化） | | **变更检测** | **CHANGED** | ### 结论 - hemibrain_v31_results.json 在本轮检测到 CHANGED 标记（可能刚更新或被标记） - sdi_v31_results.json 自 May 6 03:14 后无大小变化 - compute_procs 空闲 ## 自动状态雷达 (04:55) - **compute_procs**: 0 - **hemibrain_v31_results.json**: 936 字节 (05-07 04:09 更新) ⚠️ CHANGED - **sdi_v31_results.json**: 2058 字节 ## 05:00 EDT 自动状态雷达 | 项目 | 状态 | |------|------| | 运行时间 | 2026-05-07/05:00 | | compute_procs | 0（空闲） | | hemibrain_v31_results.json | 936 bytes（May 7 04:09，无变化） | | sdi_v31_results.json | 2058 bytes（May 6 03:14，无变化） | | **变更检测** | **CHANGED** | ### 结论 - hemibrain_v31_results.json 检测到 CHANGED 标记（自 04:09 后无大小变化，标记残留） - sdi_v31_results.json",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.37626436948776243,
+      "maxScore": 0.37626436948776243,
+      "firstRecalledAt": "2026-05-08T05:30:19.081Z",
+      "lastRecalledAt": "2026-05-08T05:30:19.081Z",
+      "queryHashes": [
+        "2c4db905ab84"
+      ],
+      "recallDays": [
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "sdi-v31-results.json",
+        "hemibrain-v31-results.json",
+        "compute-procs",
+        "05-07",
+        "2026-05-07/05",
+        "bytes",
+        "may",
+        "变化"
+      ]
+    },
+    "memory:memory/2026-05-05.md:766:785": {
+      "key": "memory:memory/2026-05-05.md:766:785",
+      "path": "memory/2026-05-05.md",
+      "startLine": 766,
+      "endLine": 785,
+      "source": "memory",
+      "snippet": "| LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启动论文写作 | | B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md` | 📋框架完成 | §3理论证明展开 | --- ### ⚗️ 主线S：仿真验证 **负责人**：刘勤让 | **当前阶段**：sdi_network v22仿真，等待双阈值收敛 | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | sdi_network主仿真 | `00_KnowledgeBase_知识库/CST仿真平台/sdi_network_v8.py` | 🟡运行中 | σ≈1 & τ同时收敛目标 | | C.elegans复现 | `00_KnowledgeBase_知识库/CST仿真平台/sdi_v8_real_connectome.png` | ✅已完成 | — | | 40系统UCCP验证数据 | `00_KnowledgeBase_知识库/05_Datase",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36670607328414917,
+      "maxScore": 0.36670607328414917,
+      "firstRecalledAt": "2026-05-08T05:30:25.190Z",
+      "lastRecalledAt": "2026-05-08T05:30:25.190Z",
+      "queryHashes": [
+        "f2e153302e9b"
+      ],
+      "recallDays": [
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "network",
+        "02-papers-论文/arxiv-submission",
+        "完成main.tex",
+        "3.2",
+        "p-mapping素材",
+        "sdi-network",
+        "sdi-network主仿真",
+        "c.elegans复现"
+      ]
+    },
+    "memory:memory/2026-05-05.md:801:819": {
+      "key": "memory:memory/2026-05-05.md:801:819",
+      "path": "memory/2026-05-05.md",
+      "startLine": 801,
+      "endLine": 819,
+      "source": "memory",
+      "snippet": "| LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启动论文写作 | | B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md` | 📋框架完成 | §3理论证明展开 | --- ### ⚗️ 主线S：仿真验证 **负责人**：刘勤让 | **当前阶段**：sdi_network **v30 5/5 PASS ✅**（C.elegans SDI拓扑完全收敛） | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | sdi_network v30 | `sdi_sim/sdi_network_v30.py` | ✅**5/5 PASS** | 写正式论文/专利素材 | | C.elegans SDI复现 | `sdi_sim/sdi_v30_results.png` | ✅已完成 | — | | v22-v29 历史版本 | `sdi_sim/sdi_network_v{22..29}.py` | ✅归档 |",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36643652021884915,
+      "maxScore": 0.36643652021884915,
+      "firstRecalledAt": "2026-05-08T05:30:25.190Z",
+      "lastRecalledAt": "2026-05-08T05:30:25.190Z",
+      "queryHashes": [
+        "f2e153302e9b"
+      ],
+      "recallDays": [
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "network",
+        "02-papers-论文/arxiv-submission",
+        "完成main.tex",
+        "3.2",
+        "p-mapping素材",
+        "sdi-network",
+        "5/5",
+        "c.elegans"
+      ]
+    },
+    "memory:memory/2026-05-05.md:700:717": {
+      "key": "memory:memory/2026-05-05.md:700:717",
+      "path": "memory/2026-05-05.md",
+      "startLine": 700,
+      "endLine": 717,
+      "source": "memory",
+      "snippet": "| CST V25 论文 | `02_Papers_论文/CST_Intelligence_Emergence_Paper_V25_FINAL.md` | ✅投稿就绪（V25全量修复完成） | LaTeX打包→arXiv提交 | | CST V25 Word版 | `02_Papers_论文/CST_Theory_V25_FINAL.docx` | ✅已生成 | 同步修复 | | LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启动论文写作 | | B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md` | 📋框架完成 | §3理论证明展开 | --- ### ⚗️ 主线S：仿真验证 **负责人**：刘勤让 | **当前阶段**：sdi_network **v30 5/5 PASS ✅**（C.elegans SDI拓扑完全收敛） | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | sdi_network",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.35724768340587615,
+      "maxScore": 0.35724768340587615,
+      "firstRecalledAt": "2026-05-08T05:30:25.190Z",
+      "lastRecalledAt": "2026-05-08T05:30:25.190Z",
+      "queryHashes": [
+        "f2e153302e9b"
+      ],
+      "recallDays": [
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "network",
+        "02-papers-论文/arxiv-submission",
+        "完成main.tex",
+        "3.2",
+        "p-mapping素材",
+        "sdi-network",
+        "5/5",
+        "c.elegans"
       ]
     }
   }
