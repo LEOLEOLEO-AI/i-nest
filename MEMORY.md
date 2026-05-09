@@ -257,3 +257,32 @@
 - 文件：sdi_sim/sdi_experiment1_v11.py / exp1_v11_results.json / exp1_v11_convergence.png
 - 物种覆盖：C.elegans、果蝇幼虫、猕猴（神经元级）+ 大鼠、小鼠、黑猩猩★、人类HCP★（脑区级）
 - 数据诚信：多种子统计、脑区级明确标注、目标值文献来源全标注
+
+## SDI 实验五 v7 科学严格版 (2026-05-09)
+
+### 9项修复（相对v6）
+- Fix-1: STD状态连续（学习→校准→记录全程一致）
+- Fix-2: KS检验+似然比检验（幂律 vs 对数正态）
+- Fix-3: τ缩放关系检验（Friedman 2012 PRL）
+- Fix-4: STDP真实时间戳（last_spike记录）
+- Fix-5: 延迟队列（真实时序，非权重衰减）
+- Fix-6: 全雪崩κ校准（Priesemann 2014方法）
+- Fix-7/8/9: 工程优化（预计算/向量化/std报告）
+
+### 关键结果
+| 组 | κ | τ_s | τ_d | scale误差 | PSD |
+|----|---|-----|-----|---------|-----|
+| C.elegans 3-r | 1.055 | 1.30 | 7.08 | 516% | -1.42 |
+| C.elegans 4-r | 1.092 | **1.53** | **1.74** | **37%** | -1.32 |
+| WS_Control 4-r | 1.095 | **1.51** | **1.67** | **33%** | -1.35 |
+
+### 核心发现
+- 4-rules：τ_s≈1.5（生物目标），缩放误差降至33-40%（vs 3-rules 500%+）
+- 3-rules：τ_dur高达7.0，竞争性修剪对τ缩放关系至关重要
+- 似然比（PL vs LN）：150-700（幂律明显更好）
+- p_value≈0：需减小平均雪崩尺寸才能通过KS严格检验
+
+### 文件
+- `sdi_sim/sdi_experiment5_v7.py`
+- `sdi_sim/exp5_v7_avalanche_results.json`
+- `sdi_sim/V6_AUDIT_AND_ROADMAP.md`
