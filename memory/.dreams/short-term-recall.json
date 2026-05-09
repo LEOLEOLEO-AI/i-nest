@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-09T05:30:23.138Z",
+  "updatedAt": "2026-05-09T13:32:01.248Z",
   "entries": {
     "memory:memory/2026-04-22.md:30:60": {
       "key": "memory:memory/2026-04-22.md:30:60",
@@ -226,13 +226,13 @@
       "endLine": 62,
       "source": "memory",
       "snippet": "- Hemibrain σ=62.9远高于C.elegans σ=6.8——Drosophila connectome具有极高clustering - Hemibrain的α=128异常高，因为~18K神经元参与cascade，远超幂律适用范围 - Hemibrain的L=1.39极短，说明该网络高度互联 ### 下一步 - 保留plasticity的Hemibrain完整仿真（目前跳过了一些开销大的操作） - Mouse cortex数据获取和仿真 - 写论文/报告时对比三个物种的SDI universality ### 文件列表 - `sdi_network_v30.py` - 多物种SDI仿真器 - `sdi_v30_c_elegans_results.json` - C.elegans结果 - `sdi_v30_hemibrain_results.json` - Hemibrain结果 - `sdi_v30_c_elegans_result.png` - C.elegans图表 - `hemibrain_edges.json` - (可删除，已改用CSV) - `hemibrain_connectome_meta.json` - Hemibrain元数据 ### 已知问题 - Hemibrain的E-L ratio始终为0%（所有bond保持E-S type，因为没有apply_rules） - α值对于大网络不适用（幂律模型设计用于small cascade sizes） - Hemibrain的所有神经元都被标记为interneuron（需要更精细的类型分类）",
-      "recallCount": 8,
+      "recallCount": 9,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.167359271645546,
+      "totalScore": 3.5375855565071106,
       "maxScore": 0.4624326467514038,
       "firstRecalledAt": "2026-05-07T08:20:07.460Z",
-      "lastRecalledAt": "2026-05-09T05:30:08.069Z",
+      "lastRecalledAt": "2026-05-09T13:32:01.248Z",
       "queryHashes": [
         "9fad92cfc3e0",
         "0a13b4260c4c",
@@ -241,7 +241,8 @@
         "2c4db905ab84",
         "f2e153302e9b",
         "b0f5be30d896",
-        "d480b9cdab96"
+        "d480b9cdab96",
+        "beee5ad08da2"
       ],
       "recallDays": [
         "2026-05-07",
@@ -592,16 +593,17 @@
       "endLine": 918,
       "source": "memory",
       "snippet": "### ⚙️ 主线E：关键技术工程实现''' new = '''> 最后更新：2026-05-05（v30 5/5 PASS ✅） --- ## 🧭 四条主线实时状态 ### 🔬 主线T：理论研究 **负责人**：刘勤让 | **当前阶段**：CST V25论文投稿准备 | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | CST V25 论文 | `02_Papers_论文/CST_Intelligence_Emergence_Paper_V25_FINAL.md` | ✅投稿就绪（V25全量修复完成） | LaTeX打包→arXiv提交 | | CST V25 Word版 | `02_Papers_论文/CST_Theory_V25_FINAL.docx` | ✅已生成 | 同步修复 | | LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启动论文写作 | | B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASP",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7537738233804703,
+      "totalScore": 1.1268705010414124,
       "maxScore": 0.3858774274587631,
       "firstRecalledAt": "2026-05-08T05:30:19.081Z",
-      "lastRecalledAt": "2026-05-09T05:30:08.759Z",
+      "lastRecalledAt": "2026-05-09T13:32:01.248Z",
       "queryHashes": [
         "2c4db905ab84",
-        "e396aebcfe2d"
+        "e396aebcfe2d",
+        "beee5ad08da2"
       ],
       "recallDays": [
         "2026-05-08",
@@ -625,16 +627,17 @@
       "endLine": 1039,
       "source": "memory",
       "snippet": "| nano-SDIO原型脚本 | `04_Code_代码/nano_SDIO.py` | 📋存在但需验证 | 补充算力对标数据（立项材料用） | --- ### ⚙️ 主线E：关键技术工程实现''' new = '''> 最后更新：2026-05-05（v30 5/5 PASS ✅） --- ## 🧭 四条主线实时状态 ### 🔬 主线T：理论研究 **负责人**：刘勤让 | **当前阶段**：CST V25论文投稿准备 | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | CST V25 论文 | `02_Papers_论文/CST_Intelligence_Emergence_Paper_V25_FINAL.md` | ✅投稿就绪（V25全量修复完成） | LaTeX打包→arXiv提交 | | CST V25 Word版 | `02_Papers_论文/CST_Theory_V25_FINAL.docx` | ✅已生成 | 同步修复 | | LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7486382752656936,
+      "totalScore": 1.123852950334549,
       "maxScore": 0.38396205902099606,
       "firstRecalledAt": "2026-05-08T05:30:19.081Z",
-      "lastRecalledAt": "2026-05-09T05:30:08.759Z",
+      "lastRecalledAt": "2026-05-09T13:32:01.248Z",
       "queryHashes": [
         "2c4db905ab84",
-        "e396aebcfe2d"
+        "e396aebcfe2d",
+        "beee5ad08da2"
       ],
       "recallDays": [
         "2026-05-08",
@@ -967,6 +970,68 @@
         "uccp",
         "验证",
         "数据"
+      ]
+    },
+    "memory:memory/2026-05-05.md:665:684": {
+      "key": "memory:memory/2026-05-05.md:665:684",
+      "path": "memory/2026-05-05.md",
+      "startLine": 665,
+      "endLine": 684,
+      "source": "memory",
+      "snippet": "**负责人**：刘勤让 | **当前阶段**：CST V25论文投稿准备 | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | CST V25 论文 | `02_Papers_论文/CST_Intelligence_Emergence_Paper_V25_FINAL.md` | ✅投稿就绪（V25全量修复完成） | LaTeX打包→arXiv提交 | | CST V25 Word版 | `02_Papers_论文/CST_Theory_V25_FINAL.docx` | ✅已生成 | 同步修复 | | LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启动论文写作 | | B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md` | 📋框架完成 | §3理论证明展开 | --- ### ⚗️ 主线S：仿真验证 **负责人**：刘勤让 | **当前阶段**：sdi_network v22仿真，等待双阈值收敛 |",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3840525358915329,
+      "maxScore": 0.3840525358915329,
+      "firstRecalledAt": "2026-05-09T13:32:01.248Z",
+      "lastRecalledAt": "2026-05-09T13:32:01.248Z",
+      "queryHashes": [
+        "beee5ad08da2"
+      ],
+      "recallDays": [
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "network",
+        "02-papers-论文/arxiv-submission",
+        "完成main.tex",
+        "3.2",
+        "p-mapping素材",
+        "sdi-network",
+        "负责",
+        "当前"
+      ]
+    },
+    "memory:memory/2026-05-05.md:913:937": {
+      "key": "memory:memory/2026-05-05.md:913:937",
+      "path": "memory/2026-05-05.md",
+      "startLine": 913,
+      "endLine": 937,
+      "source": "memory",
+      "snippet": "### ⚗️ 主线S：仿真验证 **负责人**：刘勤让 | **当前阶段**：sdi_network **v30 5/5 PASS ✅**（C.elegans SDI拓扑完全收敛） | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | sdi_network v30 | `sdi_sim/sdi_network_v30.py` | ✅**5/5 PASS** | 写正式论文/专利素材 | | C.elegans SDI复现 | `sdi_sim/sdi_v30_results.png` | ✅已完成 | — | | v22-v29 历史版本 | `sdi_sim/sdi_network_v{22..29}.py` | ✅归档 | — | | V25 Figures生成 | `02_Papers_论文/Figures/gen_figures_v25.py` | ✅6张300DPI已生成 | Figure 3是否替换为3轴散点图（待决策） | | nano-SDIO原型脚本 | `04_Code_代码/nano_SDIO.py` | 📋存在但需验证 | 补充算力对标数据（立项材料用） | | 40系统UCCP验证数据 | `00_KnowledgeBase_知识库/05_Datasets_仿真与实验数据/Simulation_Results/` | ✅FINAL冻结 | `cst_16samples_FINAL.json`为基准 | #### v30 最终结果（C.elegans SDI, 3000步 MNIST）",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3693977028131485,
+      "maxScore": 0.3693977028131485,
+      "firstRecalledAt": "2026-05-09T13:32:01.248Z",
+      "lastRecalledAt": "2026-05-09T13:32:01.248Z",
+      "queryHashes": [
+        "beee5ad08da2"
+      ],
+      "recallDays": [
+        "2026-05-09"
+      ],
+      "conceptTags": [
+        "network",
+        "sdi-network",
+        "5/5",
+        "c.elegans",
+        "sdi-sim/sdi-network-v30.py",
+        "写正式论文/专利素材",
+        "sdi-sim/sdi-v30-results.png",
+        "v22-v29"
       ]
     }
   }
