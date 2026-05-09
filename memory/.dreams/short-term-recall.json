@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T05:30:25.190Z",
+  "updatedAt": "2026-05-08T21:55:24.377Z",
   "entries": {
     "memory:memory/2026-04-22.md:30:60": {
       "key": "memory:memory/2026-04-22.md:30:60",
@@ -226,20 +226,21 @@
       "endLine": 62,
       "source": "memory",
       "snippet": "- Hemibrain σ=62.9远高于C.elegans σ=6.8——Drosophila connectome具有极高clustering - Hemibrain的α=128异常高，因为~18K神经元参与cascade，远超幂律适用范围 - Hemibrain的L=1.39极短，说明该网络高度互联 ### 下一步 - 保留plasticity的Hemibrain完整仿真（目前跳过了一些开销大的操作） - Mouse cortex数据获取和仿真 - 写论文/报告时对比三个物种的SDI universality ### 文件列表 - `sdi_network_v30.py` - 多物种SDI仿真器 - `sdi_v30_c_elegans_results.json` - C.elegans结果 - `sdi_v30_hemibrain_results.json` - Hemibrain结果 - `sdi_v30_c_elegans_result.png` - C.elegans图表 - `hemibrain_edges.json` - (可删除，已改用CSV) - `hemibrain_connectome_meta.json` - Hemibrain元数据 ### 已知问题 - Hemibrain的E-L ratio始终为0%（所有bond保持E-S type，因为没有apply_rules） - α值对于大网络不适用（幂律模型设计用于small cascade sizes） - Hemibrain的所有神经元都被标记为interneuron（需要更精细的类型分类）",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.334529608488083,
+      "totalScore": 2.704926624894142,
       "maxScore": 0.41781046390533444,
       "firstRecalledAt": "2026-05-07T08:20:07.460Z",
-      "lastRecalledAt": "2026-05-08T05:30:25.190Z",
+      "lastRecalledAt": "2026-05-08T21:55:24.377Z",
       "queryHashes": [
         "9fad92cfc3e0",
         "0a13b4260c4c",
         "5bc0dd1720ca",
         "273a731c8fea",
         "2c4db905ab84",
-        "f2e153302e9b"
+        "f2e153302e9b",
+        "b0f5be30d896"
       ],
       "recallDays": [
         "2026-05-07",
