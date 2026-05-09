@@ -316,3 +316,24 @@
 ### 文件
 - `sdi_sim/sdi_experiment5_v12.py`
 - `sdi_sim/exp5_v12_avalanche_results.json`
+
+## SDI 实验六 真实C.elegans连接组 (2026-05-09)
+
+### 关键结果
+| 规则 | σ初始 | σ最终 | Δσ | κ | τ_s | τ_d | PSD | decode | 得分 |
+|------|------|------|---|---|-----|-----|-----|--------|------|
+| 3-rules | 8.63 | 2.95 | -5.68 | 1.053 | 1.44 | 1.65 | -1.56 | 0.202 | 5/9 |
+| **4-rules** | 8.63 | **2.19** | -6.44 | 1.075 | **1.55** | **1.73** | **-1.30** | **0.405** | **6/9** |
+
+### 核心发现
+- 真实connectome初始σ=8.63（比WS随机初始σ≈12低，已有小世界特性）
+- SDI演化后σ降至2-3：真实connectome→更强模块化（非更强小世界）
+- τ_size≈1.44-1.55（命中目标1.5！），κ≈1.05-1.07（临界态）
+- PSD≈-1.3~-1.6（1/f噪声全部达标）
+- 4-rules输出解码0.405（vs 3-rules 0.202），证明竞争性修剪提升功能分化
+- 电突触→E-L键初始化起到锚定作用，稳定网络核心结构
+
+### 文件
+- `sdi_sim/sdi_experiment6_real_connectome.py`
+- `sdi_sim/exp6_real_connectome_results.json`
+- 数据来源: `sdi_sim/celegans_sim/connectome_v8_data.json`（Varshney 2011）
