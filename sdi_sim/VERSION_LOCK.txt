@@ -8,3 +8,31 @@ Result: All 10 species ≥3/5; 8 species ≥4/5; 7 species 5/5
 LOCKED v17: Sat May  9 02:31:21 EDT 2026
 Species: 20 (v16 14种 + Octopus★/C_elegans_pharynx/Xenopus★/Platynereis★/Ciona★/Gorilla★)
 Score: 20/20 ≥3/5; 16/20 5/5; Pigeon★3/5 Octopus★3/5 C_elegans_pharynx3/5 Macaque_Cortex4/5
+
+=== FINAL LOCK: sdi_experiment1_v17.py ===
+Locked: Sat May  9 11:48:00 EDT 2026 (正式锁定)
+File: sdi_experiment1_v17.py
+MD5: c459f4ef51615345cbfe2d66a3d8af67
+Permissions: -r--r--r-- (只读，不可修改)
+
+Species: 20种（进化树全覆盖，5亿年跨度）
+  原始动物: C_elegans_pharynx(N=20), Starfish_larva, Ciona★, Platynereis★
+  无脊椎: C.elegans(N=279), Larval_Drosophila, Honeybee★, Octopus★
+  鱼类/两栖: Zebrafish★, Xenopus★
+  鸟类: Pigeon★
+  哺乳类: Rat_Cortex★, Mouse_Cortex★, Cat_Visual★, Macaque_Visual
+  灵长类: Macaque_Cortex, Chimpanzee★, Gorilla★, Marmoset★
+  人类: Human_HCP★
+
+Results:
+  20/20 物种 ≥3/5（100%覆盖率）
+  16/20 物种 5/5 满分
+  Pigeon★ 3/5, Octopus★ 3/5, C_elegans_pharynx 3/5, Macaque_Cortex 4/5
+
+Protocol: BTW慢驱动 + 5随机种子 × 20物种 = 100次仿真
+Key finding: SDI极简规则在跨越5亿年进化的神经网络上普适驱动小世界涌现
+
+Files:
+  sdi_experiment1_v17.py (LOCKED)
+  exp1_v17_results.json
+  exp1_v17_convergence.png
