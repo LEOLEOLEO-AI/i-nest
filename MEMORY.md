@@ -59,6 +59,33 @@
 - 脑区级(N<150): Rat/Mouse σ受图尺度限制，目标值按真实mesoscale数据校准
 - 下一步: 实验二——真实Hemibrain连接组+嗅觉刺激功能验证
 
+## SDI 实验三 + 实验四 完成 (2026-05-08)
+
+### 实验三：零先验自演化
+- 文件: `sdi_sim/sdi_experiment3_emergence.py`
+- 3种初始拓扑(ER/WS/BA) × 3种子, N=500, 8000步
+- 关键发现: 全部500步内涨发σ>6，SDI规则对任意初始拓扑均能快速驱动小世界涌现
+- 未验证: Q随演化单调下降(终态Q<0.1)，SDI三规则是“小世界涌现器”而非“模块化涌现器”
+- 结论: 需要第四条规则——竞争性修剪
+
+### 实验四：竞争性修剪——模块化涌现验证
+- 文件: `sdi_sim/sdi_experiment4_modularity.py`
+- 新增规则四: 活动依赖修剪(use it or lose it), P_PRUNE=0.05, PRUNE_INT=200
+- 关键结果:
+  | 起点 | 实验三Q | 实验四Q | 实验四σ | 模块数 |
+  |------|--------|--------|---------|------|
+  | ER   | 0.010  | 0.278  | 0.869   | 6.3  |
+  | WS   | 0.075  | 0.664  | 6.778   | 3.7  |
+  | BA   | 0.008  | 0.365  | 4.746   | 12.0 |
+- WS起点修剪强度不敏感(p=0.02/0.05/0.10结果近似，Q均≈0.66)
+- 结论: ✅ WS和BA起点均实现Q>0.3且σ>3.0，竞争性修剪是模块化涌现的关键规则
+- 对大道至简的意义: SDI规则集需四条——STDP+WS重连+突触缩放+竞争性修剪
+
+### 工具文件
+- 缩略语对照表: `knowledge/SDI_Glossary.md`
+- SDSoW硬件映射方案: `sdi_sim/SDSoW_Hardware_Mapping.md`
+- 研究报告: `sdi_sim/SDI_Research_Report.md`
+
 ## SDI 实验一 v13 FINAL 锁定 (2026-05-08)
 
 - 文件: `sdi_sim/sdi_experiment1_v13.py` (锁定, chmod 444)
@@ -79,6 +106,24 @@
   | Macaque_Visual | 5/5 | neuron |
   | Zebrafish★ | 5/5 | mesoscale |
 - 结论: SDI极简规则在跨创始生物(C.elegans/果蝇)到灵长类脑区图普适驱动小世界涌现
+
+## SDI 实验一 v13 + 实验二 完成 (2026-05-06)
+
+### 实验一 v13 FINAL（已锁定）
+- 文件: `sdi_sim/sdi_experiment1_v13.py`
+- 10物种 × 5随机种子，10/10 ≥3/5，7/10 5/5满分
+- Cat_Visual★ 从v12的2/5提升到3/5（sigma修复）
+- alpha系统性偏高问题确认为有限尺度效应，需BTW驱动机制修复（v14任务）
+
+### 实验二 Hemibrain嗅觉编码
+- 文件: `sdi_sim/sdi_experiment2_olfactory.py`
+- N=1351嗅觉子环路（ORN=33, PN=124, KC=1099, APL=19, MBON=76）
+- KC稀疏激活率2.55% < 10%目标 ✅
+- 气味分辨余弦距离0.058 > 0.05 ✅
+- σ=113.87, α=2.00（真实connectome接近理想SOC）
+
+### 研究报告
+- 文件: `sdi_sim/SDI_Research_Report.md`（完整中文学术报告，含参考文献22篇）
 
 ## SDI 实验一 v11 最终完成 (2026-05-07)
 
