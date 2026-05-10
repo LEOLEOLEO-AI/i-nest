@@ -309,10 +309,22 @@
 - 总分: 112/162 = 69.1%（vs v12的66.7%）
 - 最高单次: 8/9（4-rules C.elegans seed=7）
 
-### v14 修复（当前运行中）
+### v14 最终结果（已完成）
 - SIZE_TARGET_HI: 80→25（防止大mean_size导致duration双模态）
-- 文件: sdi_experiment5_v14.py
-- 预期改善: 5/9的组→7+/9（去除双模态后τ_dur和PSD都会改善）
+- 文件: sdi_experiment5_v14.py, exp5_v14_avalanche_results.json
+
+| 网络+规则 | s42 | s7 | s13 | 均值 |
+|---------|-----|-----|-----|------|
+| C.elegans 3-rules | **7** | **8** | **8** | **7.7** |
+| Human_HCP 3-rules | **8** | **8** | **7** | **7.7** |
+| WS_Control 3-rules | **7** | **7** | 6 | **6.7** |
+| C.elegans 4-rules | **7** | **8** | 6 | **7.0** |
+| Human_HCP 4-rules | **8** | **8** | **7** | **7.7** |
+| WS_Control 4-rules | **7** | **7** | **7** | **7.0** |
+
+- **总分: 128/162 = 79.0%（历史最佳）**
+- v12: 66.7%, v13: 69.1%, **v14: 79.0%**
+- 最高单次: 8/9（多组达到）
 
 ## LaTeX论文打包完成 (2026-05-10)
 - 目录: /home/work/.openclaw/workspace/sdi_paper/
