@@ -1,0 +1,27 @@
+# Obsidian 插件编译产物（体积大，不需要版本控制）
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/data.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# Smart Env 向量缓存
+.smart-env/
+
+# 临时调试脚本
+.check_key.py
+.check_models.py
+.get_gsk_models.py
+.get_models.py
+.inspect_config.py
+.probe_*.py
+.update_models.py
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.tmp
+
+# 神经记忆缓存
+.neural_memory/
