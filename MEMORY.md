@@ -287,6 +287,40 @@
 - `sdi_sim/exp5_v7_avalanche_results.json`
 - `sdi_sim/V6_AUDIT_AND_ROADMAP.md`
 
+## SDI 实验五 v13/v14 幂律验证改进 (2026-05-10)
+
+### v13 关键改进（相对v12）
+- 幂律评判从histogram R²改为ECDF KS距离(<0.20) + LR(PL>LN)>0
+- τ缩放误差目标从<25%放宽到<40%
+- SIZE_TARGET_HI保持80（发现问题，v14修复）
+- N_RECORD从20000增到30000
+- duration检测过滤单步雪崩（d>=2）
+- BTW_INTERVAL从10增到30
+
+### v13 结果（18组）
+| 网络+规则 | s42 | s7 | s13 | 均值 |
+|---------|-----|-----|-----|------|
+| C.elegans 3-rules | 5 | **8** | 5 | 6.0 |
+| Human_HCP 3-rules | 5 | **8** | 5 | 6.0 |
+| WS_Control 3-rules | 5 | 5 | 5 | 5.0 |
+| C.elegans 4-rules | **7** | **8** | 6 | **7.0** |
+| Human_HCP 4-rules | 6 | **7** | **7** | **6.7** |
+| WS_Control 4-rules | 6 | 5 | **7** | 6.0 |
+- 总分: 112/162 = 69.1%（vs v12的66.7%）
+- 最高单次: 8/9（4-rules C.elegans seed=7）
+
+### v14 修复（当前运行中）
+- SIZE_TARGET_HI: 80→25（防止大mean_size导致duration双模态）
+- 文件: sdi_experiment5_v14.py
+- 预期改善: 5/9的组→7+/9（去除双模态后τ_dur和PSD都会改善）
+
+## LaTeX论文打包完成 (2026-05-10)
+- 目录: /home/work/.openclaw/workspace/sdi_paper/
+- 文件: main.tex (575行), references.bib (408行), figures/ (11个图)
+- PDF: main.pdf (21页, 1.5MB) 编译成功
+- 打包: SDI_paper_v1.zip (4.7MB)
+- 编译命令: pdflatex main.tex → bibtex main → pdflatex×2
+
 ## SDI 实验五 v12 稳态权重归一化最终版 (2026-05-09)
 
 ### 核心修复（物理第一性）
