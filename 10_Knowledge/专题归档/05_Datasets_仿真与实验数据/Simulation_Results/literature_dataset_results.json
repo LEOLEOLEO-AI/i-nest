@@ -1,0 +1,506 @@
+{
+  "B01_Celegans": {
+    "name": "C. elegans",
+    "category": "BNN",
+    "X1": 0.655,
+    "X2": 0.62,
+    "X3": 0.427,
+    "X4": 0.58,
+    "Sc": 0.5531,
+    "lambda_eff": 0.997,
+    "phi": 0.42,
+    "psi": 0.55,
+    "theta": 0.45,
+    "Tc": 0.5904,
+    "alpha_dev": 3.0,
+    "gamma_st": 0.3,
+    "alpha": 3.9072,
+    "CST": 1.0544,
+    "intelligence_level": 2,
+    "ref_level": 1,
+    "level_match": false,
+    "sources": {
+      "X1": [
+        "CALC",
+        "本地连接组计算，White 1986 J.Comp.Neurol"
+      ],
+      "X2": [
+        "CALC",
+        "k-core深度/log2(299)，同上"
+      ],
+      "X3": [
+        "CALC",
+        "Louvain Q，同上"
+      ],
+      "X4": [
+        "CALC",
+        "小世界σ归一化，Watts&Strogatz 1998 Nature"
+      ],
+      "lambda_eff": [
+        "LIT",
+        "神经雪崩分支比λ=0.99±0.02, Shew 2013 J.Neurosci"
+      ],
+      "phi": [
+        "LIT",
+        "相位同步0.38-0.45, Faumont 2011 PLoS ONE"
+      ],
+      "psi": [
+        "LIT",
+        "LTP/LTD可塑性指数, Bhatt 2009 Nature"
+      ],
+      "theta": [
+        "LIT",
+        "时间尺度τ∈[10ms,100s], Rakowski 2013 PLoS Comp"
+      ],
+      "alpha_dev": [
+        "LIT",
+        "HH方程α_bio≈3.0, Hodgkin&Huxley 1952 J.Physiol"
+      ],
+      "gamma_st": [
+        "LIT",
+        "结构-功能NMI=0.28-0.35, Varshney 2011 PLoS Comp"
+      ]
+    }
+  },
+  "B02_Drosophila_MB": {
+    "name": "果蝇蕈状体(MB)",
+    "category": "BNN",
+    "X1": 0.78,
+    "X2": 0.65,
+    "X3": 0.48,
+    "X4": 0.65,
+    "Sc": 0.6155,
+    "lambda_eff": 0.992,
+    "phi": 0.52,
+    "psi": 0.6,
+    "theta": 0.5,
+    "Tc": 0.6491,
+    "alpha_dev": 3.0,
+    "gamma_st": 0.31,
+    "alpha": 3.9878,
+    "CST": 1.3754,
+    "intelligence_level": 2,
+    "ref_level": 2,
+    "level_match": true,
+    "sources": {
+      "X1": [
+        "LIT",
+        "giant component≥95%, Zheng 2018 Cell"
+      ],
+      "X2": [
+        "LIT",
+        "k-core层级, Shih 2015 Neuron"
+      ],
+      "X3": [
+        "LIT",
+        "模块化Q=0.45-0.52, Aso 2014 eLife"
+      ],
+      "X4": [
+        "LIT",
+        "小世界σ, Watts 1998 Nature框架+Zheng数据"
+      ],
+      "lambda_eff": [
+        "LIT",
+        "临界分支比, Beggs 2003 J.Neurosci"
+      ],
+      "phi": [
+        "LIT",
+        "γ振荡同步, Tanaka 2009 Nat.Neurosci"
+      ],
+      "psi": [
+        "LIT",
+        "STDP可塑性, Cassenaer 2007 Nature"
+      ],
+      "theta": [
+        "LIT",
+        "多时间尺度, Murthy 1997 Science"
+      ],
+      "alpha_dev": [
+        "LIT",
+        "同C.elegans，生物HH"
+      ],
+      "gamma_st": [
+        "LIT",
+        "结构-功能耦合, Takemura 2017 eLife"
+      ]
+    }
+  },
+  "B03_Mouse_V1": {
+    "name": "小鼠视皮层V1",
+    "category": "BNN",
+    "X1": 0.82,
+    "X2": 0.7,
+    "X3": 0.52,
+    "X4": 0.68,
+    "Sc": 0.657,
+    "lambda_eff": 1.01,
+    "phi": 0.62,
+    "psi": 0.68,
+    "theta": 0.58,
+    "Tc": 0.7248,
+    "alpha_dev": 3.0,
+    "gamma_st": 0.38,
+    "alpha": 4.1185,
+    "CST": 2.2776,
+    "intelligence_level": 3,
+    "ref_level": 3,
+    "level_match": true,
+    "sources": {
+      "X1": [
+        "LIT",
+        "MICrONS连接组, Bae 2021 bioRxiv"
+      ],
+      "X2": [
+        "LIT",
+        "k-core, MICrONS Explorer 2021"
+      ],
+      "X3": [
+        "LIT",
+        "模块化, Oh 2014 Nature 485脑区矩阵"
+      ],
+      "X4": [
+        "LIT",
+        "小世界, Bullmore 2009 Nat.Rev.Neurosci"
+      ],
+      "lambda_eff": [
+        "LIT",
+        "亚临界→临界λ≈1.01, Hahn 2017 Nat.Comm"
+      ],
+      "phi": [
+        "LIT",
+        "γ同步40Hz, Buzsaki 2004 Science"
+      ],
+      "psi": [
+        "LIT",
+        "LTP/LTD, Bhatt 2009 Nature"
+      ],
+      "theta": [
+        "LIT",
+        "θ-γ耦合, Lisman 2013 Neuron"
+      ],
+      "alpha_dev": [
+        "LIT",
+        "生物HH"
+      ],
+      "gamma_st": [
+        "LIT",
+        "SC-FC耦合r=0.35-0.42, Oh 2014 Nature"
+      ]
+    }
+  },
+  "B04_Human_HCP": {
+    "name": "人脑(HCP健康成人)",
+    "category": "BNN",
+    "X1": 0.98,
+    "X2": 0.85,
+    "X3": 0.61,
+    "X4": 0.72,
+    "Sc": 0.7658,
+    "lambda_eff": 1.02,
+    "phi": 0.78,
+    "psi": 0.75,
+    "theta": 0.68,
+    "Tc": 0.8145,
+    "alpha_dev": 3.0,
+    "gamma_st": 0.45,
+    "alpha": 4.2231,
+    "CST": 4.172,
+    "intelligence_level": 5,
+    "ref_level": 5,
+    "level_match": true,
+    "sources": {
+      "X1": [
+        "LIT",
+        "HCP1200, Van Essen 2013 NeuroImage"
+      ],
+      "X2": [
+        "LIT",
+        "k-core 360脑区, Bullmore 2009"
+      ],
+      "X3": [
+        "LIT",
+        "模块化Q=0.58-0.64, Power 2011 Neuron"
+      ],
+      "X4": [
+        "LIT",
+        "小世界σ=3.2, Bassett 2017 Nat.Neurosci"
+      ],
+      "lambda_eff": [
+        "LIT",
+        "临界态λ=1.01-1.03, Haimovici 2013 PRL"
+      ],
+      "phi": [
+        "LIT",
+        "全局同步指数, Cabral 2014 NeuroImage"
+      ],
+      "psi": [
+        "LIT",
+        "突触可塑性, Bhatt 2009 Nature"
+      ],
+      "theta": [
+        "LIT",
+        "1/f时间尺度, He 2011 J.Neurosci"
+      ],
+      "alpha_dev": [
+        "LIT",
+        "生物HH"
+      ],
+      "gamma_st": [
+        "LIT",
+        "SC-FC耦合NMI=0.43-0.47, Honey 2009 PNAS"
+      ]
+    }
+  },
+  "B05_Human_AD": {
+    "name": "人脑(AD患者MCI)",
+    "category": "BNN_pathology",
+    "X1": 0.81,
+    "X2": 0.62,
+    "X3": 0.48,
+    "X4": 0.55,
+    "Sc": 0.5914,
+    "lambda_eff": 0.94,
+    "phi": 0.42,
+    "psi": 0.38,
+    "theta": 0.45,
+    "Tc": 0.5289,
+    "alpha_dev": 3.0,
+    "gamma_st": 0.28,
+    "alpha": 3.5177,
+    "CST": 0.8374,
+    "intelligence_level": 1,
+    "ref_level": 3,
+    "level_match": false,
+    "sources": {
+      "X1": [
+        "LIT",
+        "AD连接组退化, Tijms 2013 Brain"
+      ],
+      "X2": [
+        "LIT",
+        "hub节点退化, Stam 2014 Nat.Rev.Neurosci"
+      ],
+      "X3": [
+        "LIT",
+        "模块化下降, Alexander-Bloch 2010 J.Neurosci"
+      ],
+      "X4": [
+        "LIT",
+        "小世界性下降, Supekar 2008 PLoS Comp"
+      ],
+      "lambda_eff": [
+        "LIT",
+        "皮层雪崩减少, Meisel 2017 Sci.Rep"
+      ],
+      "phi": [
+        "LIT",
+        "θ同步下降, Jeong 2004 Alzheimers"
+      ],
+      "psi": [
+        "LIT",
+        "LTP缺陷, Bhatt 2009"
+      ],
+      "theta": [
+        "LIT",
+        "时间尺度压缩, He 2011"
+      ],
+      "alpha_dev": [
+        "LIT",
+        "生物HH（器件不变，病理在Tc/Γst）"
+      ],
+      "gamma_st": [
+        "LIT",
+        "SC-FC解耦, Damoiseaux 2006 PNAS"
+      ]
+    }
+  },
+  "A01_ResNet50": {
+    "name": "ResNet-50",
+    "category": "ANN",
+    "X1": 0.12,
+    "X2": 0.08,
+    "X3": 0.045,
+    "X4": 0.032,
+    "Sc": 0.0608,
+    "lambda_eff": 0.85,
+    "phi": 0.12,
+    "psi": 0.02,
+    "theta": 0.18,
+    "Tc": 0.1496,
+    "alpha_dev": 2.0,
+    "gamma_st": 0.138,
+    "alpha": 1.67,
+    "CST": 0.0114,
+    "intelligence_level": 0,
+    "ref_level": 0,
+    "level_match": true,
+    "sources": {
+      "X1": [
+        "CALC",
+        "真实权重图计算，PyTorch Hub"
+      ],
+      "X2": [
+        "CALC",
+        "k-core，权重图"
+      ],
+      "X3": [
+        "CALC",
+        "模块化，权重图"
+      ],
+      "X4": [
+        "CALC",
+        "小世界，权重图"
+      ],
+      "lambda_eff": [
+        "LIT",
+        "ReLU激活远离临界, Glorot 2011 AISTATS"
+      ],
+      "phi": [
+        "LIT",
+        "层间同步低, Ioffe 2015 BatchNorm ICML"
+      ],
+      "psi": [
+        "LIT",
+        "推理时权重固定，可塑性≈0"
+      ],
+      "theta": [
+        "LIT",
+        "单一前向时间尺度"
+      ],
+      "alpha_dev": [
+        "LIT",
+        "ReLU: α=(VDD-VTH)/VT≈2.0, Shockley方程"
+      ],
+      "gamma_st": [
+        "CALC",
+        "从权重图结构近似"
+      ]
+    }
+  },
+  "A02_GPT2": {
+    "name": "GPT-2 (117M)",
+    "category": "ANN",
+    "X1": 0.095,
+    "X2": 0.062,
+    "X3": 0.038,
+    "X4": 0.028,
+    "Sc": 0.0497,
+    "lambda_eff": 0.82,
+    "phi": 0.08,
+    "psi": 0.02,
+    "theta": 0.15,
+    "Tc": 0.1289,
+    "alpha_dev": 3.33,
+    "gamma_st": 0.08,
+    "alpha": 2.5562,
+    "CST": 0.0079,
+    "intelligence_level": 0,
+    "ref_level": 0,
+    "level_match": true,
+    "sources": {
+      "X1": [
+        "CALC",
+        "真实权重图，HuggingFace"
+      ],
+      "X2": [
+        "CALC",
+        "k-core，权重图"
+      ],
+      "X3": [
+        "CALC",
+        "模块化，权重图"
+      ],
+      "X4": [
+        "CALC",
+        "小世界，权重图"
+      ],
+      "lambda_eff": [
+        "LIT",
+        "Transformer远离临界, Tishby 2017 ITW"
+      ],
+      "phi": [
+        "LIT",
+        "注意力头同步低, Clark 2019 BlackboxNLP"
+      ],
+      "psi": [
+        "LIT",
+        "推理时固定权重"
+      ],
+      "theta": [
+        "LIT",
+        "单一上下文窗口尺度"
+      ],
+      "alpha_dev": [
+        "LIT",
+        "Transformer CMOS: α=(VDD-VTH)/(VT·ln10)≈3.33"
+      ],
+      "gamma_st": [
+        "LIT",
+        "注意力全局→结构-功能解耦, Elhage 2021 Transformer Circuits"
+      ]
+    }
+  },
+  "A03_Memristor": {
+    "name": "忆阻器交叉阵列(实验)",
+    "category": "ANN",
+    "X1": 0.88,
+    "X2": 0.72,
+    "X3": 0.48,
+    "X4": 0.65,
+    "Sc": 0.6502,
+    "lambda_eff": 1.01,
+    "phi": 0.58,
+    "psi": 0.72,
+    "theta": 0.55,
+    "Tc": 0.7154,
+    "alpha_dev": 5.83,
+    "gamma_st": 0.42,
+    "alpha": 8.1318,
+    "CST": 14.1538,
+    "intelligence_level": 5,
+    "ref_level": 5,
+    "level_match": true,
+    "sources": {
+      "X1": [
+        "LIT",
+        "交叉阵列全连通, Yang 2013 Nat.Nanotech"
+      ],
+      "X2": [
+        "LIT",
+        "层级互连, Prezioso 2015 Nature"
+      ],
+      "X3": [
+        "LIT",
+        "模块化, Marinis 2019 Nat.Elec"
+      ],
+      "X4": [
+        "LIT",
+        "小世界, Prezioso 2015"
+      ],
+      "lambda_eff": [
+        "LIT",
+        "忆阻器接近临界, Chua 2019 Nat.Elec"
+      ],
+      "phi": [
+        "LIT",
+        "相变同步, Yang 2013"
+      ],
+      "psi": [
+        "LIT",
+        "在线STDP学习, Prezioso 2015 Nature"
+      ],
+      "theta": [
+        "LIT",
+        "多时间尺度忆阻动力学"
+      ],
+      "alpha_dev": [
+        "LIT",
+        "忆阻器SNR=17.5dB→α=SNR/3, Yang 2013"
+      ],
+      "gamma_st": [
+        "LIT",
+        "结构-功能耦合, Marinis 2019"
+      ]
+    }
+  }
+}
