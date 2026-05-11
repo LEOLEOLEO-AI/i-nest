@@ -12,13 +12,29 @@
 import { readFileSync, readdirSync, statSync, unlinkSync } from 'fs'
 import { writeFile, mkdir } from 'fs/promises'
 import { resolve, dirname, join, extname } from 'path'
-import { execFile } from 'child_process'
+import { execFile, execSync } from 'child_process'
 import { promisify } from 'util'
 
 const execFileAsync = promisify(execFile)
 import { fileURLToPath } from 'url'
 import { homedir } from 'os'
 import { randomUUID } from 'crypto'
+import { createRequire } from 'module'
+// Prefer the `ws` npm package over Node.js built-in WebSocket.
+// OpenClaw's gateway calls undici.setGlobalDispatcher() which corrupts
+// the built-in WebSocket (also undici-based) handshake, causing
+// "Received network error or non-101 status code" on every connect.
+// The `ws` package uses Node's native `http` module and is unaffected.
+// Fall back to the built-in WebSocket if ws is not available.
+let WsWebSocket: typeof WebSocket = WebSocket
+try {
+  const _wsRequire = createRequire(
+    execSync('readlink -f $(which openclaw)', { encoding: 'utf-8' }).trim()
+  )
+  WsWebSocket = _wsRequire('ws')
+} catch {
+  // ws not resolvable — fall back to built-in WebSocket
+}
 
 // ---------------------------------------------------------------------------
 // Version — read from package.json, checked by server for upgrade prompts
@@ -862,7 +878,7 @@ function connectWs(opts: {
   const fullUrl = `${opts.wsUrl}?token=${opts.wsToken}`
   opts.log?.info?.(`[genspark-im] WS connecting to ${opts.wsUrl}`)
 
-  const ws = new WebSocket(fullUrl)
+  const ws = new WsWebSocket(fullUrl) as unknown as WebSocket
   let pingTimer: ReturnType<typeof setInterval> | null = null
 
   ws.addEventListener('open', () => {

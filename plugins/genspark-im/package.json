@@ -1,6 +1,6 @@
 {
   "name": "@genspark/genspark-im",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "private": true,
   "description": "OpenClaw channel plugin for Genspark IM",
   "type": "module",

@@ -5,6 +5,16 @@
     "type": "object",
     "additionalProperties": false,
     "properties": {}
+  },
+  "channelConfigs": {
+    "email": {
+      "label": "Email",
+      "description": "Send and receive emails via genspark.email.",
+      "schema": {
+        "type": "object",
+        "additionalProperties": true
+      }
+    }
   }
 }
 

@@ -1,10 +1,11 @@
 {
   "name": "genspark-email",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OpenClaw email channel plugin — delivers agent replies via Genspark backend + MailChannels",
   "type": "module",
+  "main": "src/index.ts",
   "openclaw": {
-    "extensions": ["./index.ts"],
+    "extensions": ["./src/index.ts"],
     "channel": {
       "id": "email",
       "label": "Email",
