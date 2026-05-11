@@ -383,3 +383,10 @@
 - `sdi_sim/sdi_experiment6_real_connectome.py`
 - `sdi_sim/exp6_real_connectome_results.json`
 - 数据来源: `sdi_sim/celegans_sim/connectome_v8_data.json`（Varshney 2011）
+
+## iNEST全称修订 (2026-05-11)
+- **旧名**：Institute for Neuromorphic & Emergent Systems Technology
+- **新名**：Intelligence Emerging from Network Temporal-spatial Synergy
+- **中文**：网络时空协同智能涌现范式
+- **来源**：刘勤让教授 2026-05-11 正式确认
+- 所有文档、Demo、Logo副标题已全部更新

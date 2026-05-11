@@ -1,6 +1,6 @@
 # iNEST 机构 — 全景导航 (Map of Content)
 
-> iNEST = Institute for Neuromorphic & Emergent Systems and Technologies
+> iNEST = Intelligence Emerging from Network Temporal-spatial Synergy
 > PI：刘勤让教授 | Drexel University
 
 ---
