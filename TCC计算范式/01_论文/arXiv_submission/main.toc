@@ -9,9 +9,9 @@
 \contentsline {subsection}{\numberline {3.1}IIL vs.\ TIL: The Two-Layer Intelligence Framework}{14}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}The Hardware Roadmap}{15}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Convergence of AI Architecture toward CST}{17}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Falsifiability and Boundary Conditions}{18}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Limitations}{18}{subsection.3.5}%
-\contentsline {section}{\numberline {4}Methods}{19}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Data Provenance and Quality Grading}{19}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Unified Cross-Species Computation Protocol (UCCP)}{19}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Statistical Analysis}{20}{subsection.4.3}%
+\contentsline {subsection}{\numberline {3.4}Falsifiability and Boundary Conditions}{17}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Limitations}{17}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Methods}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Data Provenance and Quality Grading}{18}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Unified Cross-Species Computation Protocol (UCCP)}{18}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Statistical Analysis}{19}{subsection.4.3}%
