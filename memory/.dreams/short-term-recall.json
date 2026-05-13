@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-13T00:47:57.715Z",
+  "updatedAt": "2026-05-13T01:25:40.302Z",
   "entries": {
     "memory:memory/2026-04-22.md:30:60": {
       "key": "memory:memory/2026-04-22.md:30:60",
@@ -737,24 +737,26 @@
       "endLine": 819,
       "source": "memory",
       "snippet": "| LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启动论文写作 | | B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md` | 📋框架完成 | §3理论证明展开 | --- ### ⚗️ 主线S：仿真验证 **负责人**：刘勤让 | **当前阶段**：sdi_network **v30 5/5 PASS ✅**（C.elegans SDI拓扑完全收敛） | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | sdi_network v30 | `sdi_sim/sdi_network_v30.py` | ✅**5/5 PASS** | 写正式论文/专利素材 | | C.elegans SDI复现 | `sdi_sim/sdi_v30_results.png` | ✅已完成 | — | | v22-v29 历史版本 | `sdi_sim/sdi_network_v{22..29}.py` | ✅归档 |",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.9273100286722182,
-      "maxScore": 0.41511939764022826,
+      "totalScore": 2.3426429867744445,
+      "maxScore": 0.41533295810222626,
       "firstRecalledAt": "2026-05-08T05:30:25.190Z",
-      "lastRecalledAt": "2026-05-11T03:22:32.858Z",
+      "lastRecalledAt": "2026-05-13T01:25:40.302Z",
       "queryHashes": [
         "f2e153302e9b",
         "bbea9e6c6572",
         "4207fbda3fc0",
         "39070fd0d1d8",
-        "b3545c79bce0"
+        "b3545c79bce0",
+        "3787f13844dc"
       ],
       "recallDays": [
         "2026-05-08",
         "2026-05-09",
-        "2026-05-10"
+        "2026-05-10",
+        "2026-05-12"
       ],
       "conceptTags": [
         "network",
@@ -939,18 +941,20 @@
       "endLine": 903,
       "source": "memory",
       "snippet": "| B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md` | 📋框架完成 | §3理论证明展开 | --- ### ⚗️ 主线S：仿真验证 **负责人**：刘勤让 | **当前阶段**：sdi_network v22仿真，等待双阈值收敛 | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | sdi_network主仿真 | `00_KnowledgeBase_知识库/CST仿真平台/sdi_network_v8.py` | 🟡运行中 | σ≈1 & τ同时收敛目标 | | C.elegans复现 | `00_KnowledgeBase_知识库/CST仿真平台/sdi_v8_real_connectome.png` | ✅已完成 | — | | 40系统UCCP验证数据 | `00_KnowledgeBase_知识库/05_Datasets_仿真与实验数据/Simulation_Results/` | ✅FINAL冻结 | `cst_16samples_FINAL.json`为基准 | | V25 Figures生成 | `02_Papers_论文/Figures/gen_figures_v25.py` | ✅6张300DPI已生成 | Figure 3是否替换为3轴散点图（待决策） | | nano-SDIO原型脚本 | `04_Code_代码/nano_SDIO.py` | 📋存在但需验证 | 补充",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.36934930384159087,
-      "maxScore": 0.36934930384159087,
+      "totalScore": 0.7823368310928345,
+      "maxScore": 0.41298752725124355,
       "firstRecalledAt": "2026-05-09T05:30:13.249Z",
-      "lastRecalledAt": "2026-05-09T05:30:13.249Z",
+      "lastRecalledAt": "2026-05-13T01:25:40.302Z",
       "queryHashes": [
-        "bbea9e6c6572"
+        "bbea9e6c6572",
+        "3787f13844dc"
       ],
       "recallDays": [
-        "2026-05-09"
+        "2026-05-09",
+        "2026-05-12"
       ],
       "conceptTags": [
         "network",
