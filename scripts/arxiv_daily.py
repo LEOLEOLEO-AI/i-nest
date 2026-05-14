@@ -196,6 +196,87 @@ def main():
         f.write(report)
 
     print(f'📄 报告: {output_path}')
+
+    # ── PDF 自动下载 ─────────────────────────────────────────
+    pdf_dir = os.path.join(
+        os.path.expanduser('~/obsidian-vault/00_KnowledgeBase_知识库/literature/pdf'),
+        today
+    )
+    os.makedirs(pdf_dir, exist_ok=True)
+
+    download_ok, download_fail = 0, 0
+    dl_lines = [f'\n\n## 📥 PDF下载记录（{today}）\n',
+                f'存储路径：`literature/pdf/{today}/`\n',
+                '| arXiv ID | 文件 | 大小 |\n|----------|------|------|\n']
+
+    for p in all_papers:
+        arxiv_id = p.get('id', '')
+        if not arxiv_id or not arxiv_id.replace('.', '').replace('-', '').isalnum():
+            continue
+
+        # 构造安全文件名
+        safe_title = ''.join(
+            c if c.isalnum() or c in '-_' else '_'
+            for c in p['title'][:50]
+        ).strip('_')
+        filename = f'{arxiv_id}_{safe_title}.pdf'
+        filepath = os.path.join(pdf_dir, filename)
+
+        # 已存在则跳过
+        if os.path.exists(filepath) and os.path.getsize(filepath) > 10000:
+            dl_lines.append(f'| {arxiv_id} | {filename} | {os.path.getsize(filepath)//1024}KB (cached) |\n')
+            download_ok += 1
+            continue
+
+        # 下载 PDF
+        pdf_url = f'https://arxiv.org/pdf/{arxiv_id}.pdf'
+        req = urllib.request.Request(
+            pdf_url,
+            headers={'User-Agent': 'iNEST-Research-Tracker/1.0 (research use)'}
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = resp.read()
+            if len(data) > 10000:  # 有效PDF至少10KB
+                with open(filepath, 'wb') as f_pdf:
+                    f_pdf.write(data)
+                sz_kb = len(data) // 1024
+                dl_lines.append(f'| {arxiv_id} | {filename} | {sz_kb}KB |\n')
+                download_ok += 1
+                print(f'  ✅ PDF {arxiv_id} ({sz_kb}KB)')
+            else:
+                dl_lines.append(f'| {arxiv_id} | — | ❌ 下载失败 |\n')
+                download_fail += 1
+        except Exception as e:
+            dl_lines.append(f'| {arxiv_id} | — | ❌ {str(e)[:30]} |\n')
+            download_fail += 1
+            print(f'  ❌ PDF {arxiv_id}: {e}')
+        time.sleep(2)  # 礼貌间隔，避免被封
+
+    dl_summary = f'\n**✅ {download_ok} 篇下载成功，❌ {download_fail} 篇失败**\n'
+    dl_lines.append(dl_summary)
+
+    # 追加到报告文件
+    with open(output_path, 'a') as f:
+        f.writelines(dl_lines)
+
+    # 同步到 Obsidian Vault git
+    try:
+        import subprocess
+        vault_dir = os.path.expanduser('~/obsidian-vault')
+        subprocess.run(['git', 'add', f'00_KnowledgeBase_知识库/literature/pdf/{today}/'],
+                      cwd=vault_dir, check=True, capture_output=True)
+        subprocess.run(['git', 'commit', '-m', f'lit: {today} arXiv日报{download_ok}篇PDF'],
+                      cwd=vault_dir, capture_output=True)
+        subprocess.run(['git', 'push', 'origin', 'main', '--force-with-lease'],
+                      cwd=vault_dir, capture_output=True)
+        print(f'\n📚 PDF已同步到Obsidian Vault git ({download_ok}篇)')
+    except Exception as e:
+        print(f'  git同步: {e}')
+
+    print(f'\n📥 PDF下载: ✅{download_ok} ❌{download_fail}')
+
+
     print('\n' + report[:3000])
     return report, len(all_papers)
 
