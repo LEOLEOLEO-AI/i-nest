@@ -51,4 +51,3 @@ gsk teams [options]
 ## See Also
 
 - [gsk-shared](../gsk-shared/SKILL.md) — Authentication and global flags
-

@@ -54,4 +54,3 @@ Parameters that accept URLs (`--sharepoint_url`) also accept local file paths. T
 ## See Also
 
 - [gsk-shared](../gsk-shared/SKILL.md) — Authentication and global flags
-

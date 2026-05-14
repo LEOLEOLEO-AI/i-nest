@@ -51,4 +51,3 @@ Parameters that accept URLs (`--video_url`, `--audio_url`, `--file_url`) also ac
 ## See Also
 
 - [gsk-shared](../gsk-shared/SKILL.md) — Authentication and global flags
-
