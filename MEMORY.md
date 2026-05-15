@@ -390,3 +390,21 @@
 - **中文**：网络时空协同智能涌现范式
 - **来源**：刘勤让教授 2026-05-11 正式确认
 - 所有文档、Demo、Logo副标题已全部更新
+
+## West2024 CS理论与CST对接任务 (2026-05-14)
+
+**来源**：Bruce J. West et al., *Scientific Reports* (2024)  
+**核心概念**：复杂度同步 CS — 多分形维数 D(t) 的动态共进化，超越相位/频率同步
+
+**关键发现**：
+- CS 是 Γst 的动态时序版本：Γst_CS(t) = corr[Ds(t), DT(t)]
+- N=10 智能体：MFD互相关 > 0.95，而均值相关 ≈ 0（CS存在的强指纹）
+- 能量最小化 ↔ CS 在标度律层面互为对偶
+
+**高优先级后续任务（新增）**：
+- 证明 ⟨corr[Ds(t), DT(t)]⟩_T = NMI(Ms, MT) 在 ergodic 极限下成立
+- 建立 CS阈值 ↔ CST六阈值体系的映射关系
+- SDI实验七：C.elegans 仿真同时计算静态Γst和动态CS，验证相关性
+- 投稿目标：Nature Physics / PRX
+- 文献分析存储：`literature/West2024_CS_Analysis.md`
+- PDF：`literature/pdf/2026-05-14/West2024_ComplexitySynchronization_EmergentIntelligence.pdf`
