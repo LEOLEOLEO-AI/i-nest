@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.4.28)  12 MAY 2026 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.4.28)  16 MAY 2026 09:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -775,12 +775,17 @@ Underfull \hbox (badness 2126) in paragraph at lines 487--487
  []
 
 [19 <./figures/Figure6_CST_roadmap.png>] [20]
-Overfull \hbox (152.71565pt too wide) in paragraph at lines 515--526
+
+Package natbib Warning: Citation `rao1999' on page 21 undefined on input line 5
+10.
+
+
+Overfull \hbox (152.71565pt too wide) in paragraph at lines 527--538
  [][] 
  []
 
-[21]
-Overfull \hbox (93.54402pt too wide) detected at line 559
+[21] [22]
+Overfull \hbox (93.54402pt too wide) detected at line 571
 [][][][] [] \OML/cmm/m/it/12 ^^[ > \OT1/cmr/m/n/12 3 [] [] [] \OML/cmm/m/it/12 
 Q > \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 6 [] \OML/cmm/m/it/12 ^^
 T \OMS/cmsy/m/n/12 ^^Y \OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07 []
@@ -788,41 +793,49 @@ T \OMS/cmsy/m/n/12 ^^Y \OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07 []
  []
 
 
-Underfull \hbox (badness 7451) in paragraph at lines 568--568
+Underfull \hbox (badness 7451) in paragraph at lines 580--580
 []\OT1/cmr/m/n/12 (+20) Exp. 1 (10
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 568--569
+Underfull \hbox (badness 1303) in paragraph at lines 580--581
 []\OT1/cmr/m/n/12 (+20) 10/10 meet tar-gets; EL ra-tio
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 571--571
+Underfull \hbox (badness 10000) in paragraph at lines 583--583
 []\OT1/cmr/bx/n/12 (+20) Modularity \OT1/cmr/m/n/12 (+20) emer-
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 573--573
+Underfull \hbox (badness 1158) in paragraph at lines 585--585
 []\OT1/cmr/m/n/12 (+20) Exp. 6 (real
  []
 
-[22] (./main.bbl [23] [24]) [25] (./main.aux)
+[23] (./main.bbl [24] [25])
+
+Package natbib Warning: There were undefined citations.
+
+[26] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3AB7721DDE3052B294334C670C111F6B;12657.
  ) 
 Here is how much of TeX's memory you used:
- 15748 strings out of 476106
- 246390 string characters out of 5793933
+ 15756 strings out of 476106
+ 246460 string characters out of 5793933
  1941975 words of memory out of 5000000
  37147 multiletter control sequences out of 15000+600000
- 581862 words of font info for 232 fonts, out of 8000000 for 9000
+ 582139 words of font info for 235 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 75i,13n,79p,1871b,617s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,79p,1871b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/work/.texlive2023/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600p
 k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
@@ -840,10 +853,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (25 pages, 1905727 bytes).
+Output written on main.pdf (26 pages, 1909969 bytes).
 PDF statistics:
- 606 PDF objects out of 1000 (max. 8388607)
- 524 compressed objects within 6 object streams
- 136 named destinations out of 1000 (max. 500000)
+ 611 PDF objects out of 1000 (max. 8388607)
+ 528 compressed objects within 6 object streams
+ 138 named destinations out of 1000 (max. 500000)
  52151 words of extra memory for PDF output out of 61914 (max. 10000000)
 

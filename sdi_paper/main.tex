@@ -506,6 +506,18 @@ We demonstrate that the SDI four-rule system is mathematically equivalent to FEP
 \end{equation}
 where $\xi(t)$ is the exploratory noise term introduced by WS random rewiring (equivalent to the epistemic drive in active inference), and $\eta$ is the learning rate (dynamically regulated by homeostatic scaling). This indicates that \textbf{SDI four-rule joint evolution is stochastic gradient descent (SGLD) on variational free energy}, without requiring explicit gradient or surprisal computation.
 
+\paragraph{SDI as Physical Predictive Coding}
+A deeper structural correspondence exists between SDI rules and predictive coding \citep{rao1999}---the leading biologically plausible alternative to backpropagation. Predictive coding posits that learning proceeds through \emph{local prediction errors} rather than globally coordinated error backpropagation: each neuron compares its actual activity against predictions from higher layers, and synapses update via local Hebbian plasticity $\Delta W \propto \varepsilon \times x_{\text{pre}}$. This maps precisely onto the SDI framework:
+
+\begin{itemize}
+  \item \textbf{E-L bonds} (STDP-fixed strong synapses) function as the \emph{representation pathway}---the top-down prediction channel that encodes stable world models.
+  \item \textbf{E-S bonds} (plastic weak synapses) function as the \emph{error pathway}---the bottom-up channel that propagates prediction residuals.
+  \item \textbf{Rule 1 (STDP)} implements local Hebbian plasticity, updating synaptic weights proportional to the coincidence of pre- and post-synaptic activity---mathematically equivalent to the predictive coding weight update rule.
+  \item \textbf{Rule 3 (Homeostatic Scaling)} minimizes the energy $E = \tfrac{1}{2}\sum_l \|\varepsilon_l\|^2$ by adjusting weights to drive activation rates toward target levels, directly instantiating the energy minimization objective of predictive coding.
+\end{itemize}
+
+Crucially, this correspondence implies that the spatiotemporal coupling term $\Gamma_{st}$ in the CST theorem is \emph{physically maintained} by the SDI dynamics without requiring global computation: local STDP and homeostatic scaling continuously align structural connectivity patterns ($M_s$) with functional activation patterns ($M_T$), realizing $\Gamma_{st}$ through distributed synaptic plasticity. This provides the mechanistic foundation for why Gen1 memristive devices implementing physical STDP can achieve dynamic $\Gamma_{st}$---the core thermodynamic requirement for crossing the L1 intelligence threshold---without explicit coordination.
+
 \subsection{Comparison with Other Neuromorphic Chips}
 
 \begin{table}[H]

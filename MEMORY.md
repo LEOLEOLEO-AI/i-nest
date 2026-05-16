@@ -408,3 +408,26 @@
 - 投稿目标：Nature Physics / PRX
 - 文献分析存储：`literature/West2024_CS_Analysis.md`
 - PDF：`literature/pdf/2026-05-14/West2024_ComplexitySynchronization_EmergentIntelligence.pdf`
+
+## 预测编码与SDI等价关系确立 (2026-05-16)
+
+**来源**：NeuroPrior AI 微信文章（大脑的学习算法并非反向传播）
+**关键洞见**：SDI四规则是预测编码的物理实现
+
+**对应关系（已写入SDI论文Discussion）**：
+- E-L键 = 表征神经元（预测通路）
+- E-S键 = 误差神经元（误差通路）  
+- Rule1 STDP = 局部Hebbian可塑性 ΔW ∝ ε × x_pre
+- Rule3 稳态缩放 = 能量 E = ½Σ‖ε_l‖² 最小化
+
+**已更新内容**：
+- SDI论文 references.bib：新增 rao1999 / friston2018 / whittington2017
+- SDI论文 Discussion：新增"SDI as Physical Predictive Coding"段落
+- A9论文框架：补充FEP↔预测编码↔SDI↔CST完整等价链
+- Demo SDI模块：叙事更新为"持续预测-误差-修正动力学系统"
+- 知识库：PredictiveCoding_BrainLearning_Analysis.md
+
+**SDI实验七扩展方向**：
+- 区分预测通路（E-L为主）和误差通路（E-S为主）
+- 测量二者动态分工随演化自发分化
+- 验证：SDI自发涌现预测编码架构
