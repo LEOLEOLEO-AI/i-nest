@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T05:30:09.580Z",
+  "updatedAt": "2026-05-16T05:30:16.078Z",
   "entries": {
     "memory:memory/2026-04-22.md:30:60": {
       "key": "memory:memory/2026-04-22.md:30:60",
@@ -226,13 +226,13 @@
       "endLine": 62,
       "source": "memory",
       "snippet": "- Hemibrain σ=62.9远高于C.elegans σ=6.8——Drosophila connectome具有极高clustering - Hemibrain的α=128异常高，因为~18K神经元参与cascade，远超幂律适用范围 - Hemibrain的L=1.39极短，说明该网络高度互联 ### 下一步 - 保留plasticity的Hemibrain完整仿真（目前跳过了一些开销大的操作） - Mouse cortex数据获取和仿真 - 写论文/报告时对比三个物种的SDI universality ### 文件列表 - `sdi_network_v30.py` - 多物种SDI仿真器 - `sdi_v30_c_elegans_results.json` - C.elegans结果 - `sdi_v30_hemibrain_results.json` - Hemibrain结果 - `sdi_v30_c_elegans_result.png` - C.elegans图表 - `hemibrain_edges.json` - (可删除，已改用CSV) - `hemibrain_connectome_meta.json` - Hemibrain元数据 ### 已知问题 - Hemibrain的E-L ratio始终为0%（所有bond保持E-S type，因为没有apply_rules） - α值对于大网络不适用（幂律模型设计用于small cascade sizes） - Hemibrain的所有神经元都被标记为interneuron（需要更精细的类型分类）",
-      "recallCount": 10,
+      "recallCount": 11,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.012511312961578,
-      "maxScore": 0.4749257564544677,
+      "totalScore": 4.493468061089516,
+      "maxScore": 0.48095674812793726,
       "firstRecalledAt": "2026-05-07T08:20:07.460Z",
-      "lastRecalledAt": "2026-05-10T05:30:14.217Z",
+      "lastRecalledAt": "2026-05-16T05:30:10.961Z",
       "queryHashes": [
         "9fad92cfc3e0",
         "0a13b4260c4c",
@@ -243,13 +243,15 @@
         "b0f5be30d896",
         "d480b9cdab96",
         "beee5ad08da2",
-        "dc4cefcf705c"
+        "dc4cefcf705c",
+        "aa6e2c670cdd"
       ],
       "recallDays": [
         "2026-05-07",
         "2026-05-08",
         "2026-05-09",
-        "2026-05-10"
+        "2026-05-10",
+        "2026-05-16"
       ],
       "conceptTags": [
         "network",
@@ -300,21 +302,23 @@
       "endLine": 102,
       "source": "memory",
       "snippet": "- Hemibrain: vectorized STDP + skip rebuild for N > 10000 (avoid hanging) - All expensive ops (stdp loop, rebuild, apply_rules) skipped for N > 10000 - Fast sigma formula breaks for large sparse networks ### Files Uploaded to AI Drive - `/SDI/v25/`: sdi_network_v25.py, sdi_v25_results.json, v25.log, sdi_v25_result.png - `/SDI/CST_Paper_V25/`: CST_Theory_V25_FINAL.docx, CST_Intelligence_Emergence_Paper_V25_FINAL.md, cst_v25.bib, figures/ ### Critical Bugs Identified 1. **Sigma overestimation (Hemibrain)**: Fast formula C_est=min(0.6, deg.mean*p*5) invalid for large sparse networks 2. **Alpha instability**: Power-law model designed for small cascades; Hemibrain cascades cover 86% neurons 3.",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.1527134031057358,
+      "totalScore": 1.5400788277387618,
       "maxScore": 0.40061441361904143,
       "firstRecalledAt": "2026-05-07T08:20:09.773Z",
-      "lastRecalledAt": "2026-05-09T05:30:08.069Z",
+      "lastRecalledAt": "2026-05-16T05:30:10.961Z",
       "queryHashes": [
         "0a13b4260c4c",
         "5bc0dd1720ca",
-        "d480b9cdab96"
+        "d480b9cdab96",
+        "aa6e2c670cdd"
       ],
       "recallDays": [
         "2026-05-07",
-        "2026-05-09"
+        "2026-05-09",
+        "2026-05-16"
       ],
       "conceptTags": [
         "network",
@@ -465,20 +469,22 @@
       "endLine": 82,
       "source": "memory",
       "snippet": "- P1 patent (CNIPA) written and delivered via WeChat (qqbot) on May 4, 2026 - Deadline: May 15, 2026 (11 days remaining) - File: `NCC_IP_Portfolio/专利/P1_正交原语集拓扑融合变换/P1_正交原语集拓扑融合变换_送审稿.md` ### SDI Simulations #### C. elegans (302 neurons) - V30 result: σ=6.796, α=3.556, C=0.390, L=2.662 (11.86s) - Full plasticity: E-L ratio=19.6%, STDP enabled, rebuild every 10 steps #### Drosophila Hemibrain (21,739 neurons) - V30 result: σ=62.918, α=128.51, C=0.6, L=1.390 (161.4s, 300 steps) - ⚠️ **CRITICAL ISSUE**: sigma overestimated by ~10x (C_est=0.6 vs realistic ~0.04-0.08) - Root cause: `_compute_sigma_fast()` uses naive formula: C_est = min(0.6, deg.mean * p * 5) - For Hemibrain: deg.mean~14.2,",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7454565435647964,
-      "maxScore": 0.38340853750705717,
+      "totalScore": 1.1333293855190276,
+      "maxScore": 0.3878728419542312,
       "firstRecalledAt": "2026-05-07T09:30:05.986Z",
-      "lastRecalledAt": "2026-05-09T05:30:08.069Z",
+      "lastRecalledAt": "2026-05-16T05:30:10.961Z",
       "queryHashes": [
         "5bc0dd1720ca",
-        "d480b9cdab96"
+        "d480b9cdab96",
+        "aa6e2c670cdd"
       ],
       "recallDays": [
         "2026-05-07",
-        "2026-05-09"
+        "2026-05-09",
+        "2026-05-16"
       ],
       "conceptTags": [
         "6.796",
@@ -704,26 +710,28 @@
       "endLine": 785,
       "source": "memory",
       "snippet": "| LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启动论文写作 | | B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md` | 📋框架完成 | §3理论证明展开 | --- ### ⚗️ 主线S：仿真验证 **负责人**：刘勤让 | **当前阶段**：sdi_network v22仿真，等待双阈值收敛 | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | sdi_network主仿真 | `00_KnowledgeBase_知识库/CST仿真平台/sdi_network_v8.py` | 🟡运行中 | σ≈1 & τ同时收敛目标 | | C.elegans复现 | `00_KnowledgeBase_知识库/CST仿真平台/sdi_v8_real_connectome.png` | ✅已完成 | — | | 40系统UCCP验证数据 | `00_KnowledgeBase_知识库/05_Datase",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.2766166508197783,
+      "totalScore": 2.6568930447101593,
       "maxScore": 0.39855055212974544,
       "firstRecalledAt": "2026-05-08T05:30:25.190Z",
-      "lastRecalledAt": "2026-05-14T05:30:09.580Z",
+      "lastRecalledAt": "2026-05-16T05:30:16.078Z",
       "queryHashes": [
         "f2e153302e9b",
         "bbea9e6c6572",
         "4207fbda3fc0",
         "39070fd0d1d8",
         "b3545c79bce0",
-        "25018584cf19"
+        "25018584cf19",
+        "355101a42b45"
       ],
       "recallDays": [
         "2026-05-08",
         "2026-05-09",
         "2026-05-10",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-16"
       ],
       "conceptTags": [
         "network",
@@ -819,20 +827,22 @@
       "endLine": 35,
       "source": "memory",
       "snippet": "# 2026-05-04 日志 ## SDI v30 多物种仿真器完成 ### 主要成果 1. **P1专利送审稿已完成并提交通知** → commit b7930733 2. **SDI v30 多物种统一仿真器创建完成** - 路径: `~/.openclaw/workspace/sdi_sim/sdi_network_v30.py` - 支持C. elegans和Drosophila Hemibrain两个物种 ### V30 仿真结果 | 指标 | C. elegans (N=279) | Drosophila Hemibrain (N=21,739) | |------|-------------------|-------------------------------| | σ (sigma) | 6.80 | 62.92 | | α (alpha) | 3.56 | 128.51 | | C (clustering) | 0.391 | 0.6 | | L (path length) | 2.66 | 1.39 | | 仿真时间 | 11.9s | 161s | | 输入模式 | MNIST | Poisson | | E-L bonds | 0% (plasticity阶段) | 0% | ### 关键技术决策 - **统一版本优先**: 单个v30.py，通过`--species`参数切换物种 - **Hemibrain优化**: N>10000时跳过apply_rules/sprouting/pruning/stdp(loop)，使用",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.8168817430734634,
+      "totalScore": 1.238654601573944,
       "maxScore": 0.4230695754289627,
       "firstRecalledAt": "2026-05-09T05:30:08.069Z",
-      "lastRecalledAt": "2026-05-10T05:30:14.217Z",
+      "lastRecalledAt": "2026-05-16T05:30:10.961Z",
       "queryHashes": [
         "d480b9cdab96",
-        "dc4cefcf705c"
+        "dc4cefcf705c",
+        "aa6e2c670cdd"
       ],
       "recallDays": [
         "2026-05-09",
-        "2026-05-10"
+        "2026-05-10",
+        "2026-05-16"
       ],
       "conceptTags": [
         "network",
@@ -1052,20 +1062,22 @@
       "endLine": 937,
       "source": "memory",
       "snippet": "### ⚗️ 主线S：仿真验证 **负责人**：刘勤让 | **当前阶段**：sdi_network **v30 5/5 PASS ✅**（C.elegans SDI拓扑完全收敛） | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | sdi_network v30 | `sdi_sim/sdi_network_v30.py` | ✅**5/5 PASS** | 写正式论文/专利素材 | | C.elegans SDI复现 | `sdi_sim/sdi_v30_results.png` | ✅已完成 | — | | v22-v29 历史版本 | `sdi_sim/sdi_network_v{22..29}.py` | ✅归档 | — | | V25 Figures生成 | `02_Papers_论文/Figures/gen_figures_v25.py` | ✅6张300DPI已生成 | Figure 3是否替换为3轴散点图（待决策） | | nano-SDIO原型脚本 | `04_Code_代码/nano_SDIO.py` | 📋存在但需验证 | 补充算力对标数据（立项材料用） | | 40系统UCCP验证数据 | `00_KnowledgeBase_知识库/05_Datasets_仿真与实验数据/Simulation_Results/` | ✅FINAL冻结 | `cst_16samples_FINAL.json`为基准 | #### v30 最终结果（C.elegans SDI, 3000步 MNIST）",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7834522813558578,
+      "totalScore": 1.1802759706974029,
       "maxScore": 0.41405457854270933,
       "firstRecalledAt": "2026-05-09T13:32:01.248Z",
-      "lastRecalledAt": "2026-05-10T05:30:14.217Z",
+      "lastRecalledAt": "2026-05-16T05:30:10.961Z",
       "queryHashes": [
         "beee5ad08da2",
-        "dc4cefcf705c"
+        "dc4cefcf705c",
+        "aa6e2c670cdd"
       ],
       "recallDays": [
         "2026-05-09",
-        "2026-05-10"
+        "2026-05-10",
+        "2026-05-16"
       ],
       "conceptTags": [
         "network",
