@@ -88,3 +88,40 @@
 ---
 *录入时间：2026-05-17 | 分析人：刘勤让（iNEST）*  
 *关联文件：B3_P-Paradigm_NatureElectronics_框架.md · NeuralComputers_CNC_iNEST_Analysis.md*
+
+---
+
+## 第六张图补充（2026-05-17追加）
+
+### 图6：统一AI软件栈 — TileLang路线
+
+**关键信息**：
+- **TileLang**：北京大学2025年1月开源，已被DeepSeek**全面采用**
+- 路线：自底向上（RISC-V AI指令集）+ 自顶向下（Triton/TileLang算子库）
+- TileLang三层：Tile Program（硬件无关）→ Thread Primitives（硬件感知）→ PyCUDA Like（原厂）
+
+### 新战略洞见：编译器层已出现分叉
+
+```
+Triton路线：NVIDIA主导 → 智源做Triton-TLE扩展（图3）
+TileLang路线：北大开源 → DeepSeek全面采用（图6）
+iNEST NCC-11：拓扑原语层，在两条路线之下，兼容两者
+```
+
+### TileLang后端机会
+
+TileLang目前支持 NVIDIA/AMD GPU，NCC-11可作为**拓扑重构型芯片**的第三个后端：
+- DeepSeek模型 → TileLang编译 → NCC后端 → iNEST硬件运行
+- Route≡Transform提供数学保证：语义等价，无需重新训练
+
+### 六张图完整生态地图
+
+```
+应用层：GLM/DeepSeek/具身智能模型
+框架层：FlagScale / vLLM
+编译层A：Triton → Triton-TLE（智源扩展，图3）
+编译层B：TileLang（北大+DeepSeek，图6）
+算子层：FlagGEMs 497个算子（图1-2）
+【拓扑计算层】NCC-11 ← iNEST 的位置（两条编译路线的统一拓扑后端）
+硬件层：RISC-V香山三方案 / 18厂商32款国产芯片（图4-5）
+```
