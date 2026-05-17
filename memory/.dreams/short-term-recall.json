@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-16T05:30:16.078Z",
+  "updatedAt": "2026-05-17T05:30:10.652Z",
   "entries": {
     "memory:memory/2026-04-22.md:30:60": {
       "key": "memory:memory/2026-04-22.md:30:60",
@@ -601,27 +601,29 @@
       "endLine": 918,
       "source": "memory",
       "snippet": "### ⚙️ 主线E：关键技术工程实现''' new = '''> 最后更新：2026-05-05（v30 5/5 PASS ✅） --- ## 🧭 四条主线实时状态 ### 🔬 主线T：理论研究 **负责人**：刘勤让 | **当前阶段**：CST V25论文投稿准备 | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | CST V25 论文 | `02_Papers_论文/CST_Intelligence_Emergence_Paper_V25_FINAL.md` | ✅投稿就绪（V25全量修复完成） | LaTeX打包→arXiv提交 | | CST V25 Word版 | `02_Papers_论文/CST_Theory_V25_FINAL.docx` | ✅已生成 | 同步修复 | | LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启动论文写作 | | B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASP",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.2904793471097946,
+      "totalScore": 2.693018266558647,
       "maxScore": 0.4123819977045059,
       "firstRecalledAt": "2026-05-08T05:30:19.081Z",
-      "lastRecalledAt": "2026-05-14T05:30:09.580Z",
+      "lastRecalledAt": "2026-05-17T05:30:10.652Z",
       "queryHashes": [
         "2c4db905ab84",
         "e396aebcfe2d",
         "beee5ad08da2",
         "dc4cefcf705c",
         "dcc6404d0379",
-        "25018584cf19"
+        "25018584cf19",
+        "fca3c8587e19"
       ],
       "recallDays": [
         "2026-05-08",
         "2026-05-09",
         "2026-05-10",
         "2026-05-11",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-17"
       ],
       "conceptTags": [
         "5/5",
@@ -641,25 +643,27 @@
       "endLine": 1039,
       "source": "memory",
       "snippet": "| nano-SDIO原型脚本 | `04_Code_代码/nano_SDIO.py` | 📋存在但需验证 | 补充算力对标数据（立项材料用） | --- ### ⚙️ 主线E：关键技术工程实现''' new = '''> 最后更新：2026-05-05（v30 5/5 PASS ✅） --- ## 🧭 四条主线实时状态 ### 🔬 主线T：理论研究 **负责人**：刘勤让 | **当前阶段**：CST V25论文投稿准备 | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | CST V25 论文 | `02_Papers_论文/CST_Intelligence_Emergence_Paper_V25_FINAL.md` | ✅投稿就绪（V25全量修复完成） | LaTeX打包→arXiv提交 | | CST V25 Word版 | `02_Papers_论文/CST_Theory_V25_FINAL.docx` | ✅已生成 | 同步修复 | | LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 | | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — | | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.8792598426342009,
-      "maxScore": 0.3854767799377441,
+      "totalScore": 2.2741923004388807,
+      "maxScore": 0.39493245780467984,
       "firstRecalledAt": "2026-05-08T05:30:19.081Z",
-      "lastRecalledAt": "2026-05-14T05:30:09.580Z",
+      "lastRecalledAt": "2026-05-17T05:30:10.652Z",
       "queryHashes": [
         "2c4db905ab84",
         "e396aebcfe2d",
         "beee5ad08da2",
         "dcc6404d0379",
-        "25018584cf19"
+        "25018584cf19",
+        "fca3c8587e19"
       ],
       "recallDays": [
         "2026-05-08",
         "2026-05-09",
         "2026-05-11",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-17"
       ],
       "conceptTags": [
         "nano-sdio原型脚本",
@@ -893,24 +897,26 @@
       "endLine": 1023,
       "source": "memory",
       "snippet": "| B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启动论文写作 | | B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md` | 📋框架完成 | §3理论证明展开 | --- ### ⚗️ 主线S：仿真验证 **负责人**：刘勤让 | **当前阶段**：sdi_network v22仿真，等待双阈值收敛 | 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | sdi_network主仿真 | `00_KnowledgeBase_知识库/CST仿真平台/sdi_network_v8.py` | 🟡运行中 | σ≈1 & τ同时收敛目标 | | C.elegans复现 | `00_KnowledgeBase_知识库/CST仿真平台/sdi_v8_real_connectome.png` | ✅已完成 | — | | 40系统UCCP验证数据 | `00_KnowledgeBase_知识库/05_Datasets_仿真与实验数据/Simulation_Results/` | ✅FINAL冻结 | `cst_16samples_FINAL.json`为基准 | | V25 Figures生成 | `02_Papers_论文/Figures/gen_figures_v25.py` | ✅6张300DPI已",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.5621590226888655,
+      "totalScore": 1.9590127319097517,
       "maxScore": 0.4477611452341079,
       "firstRecalledAt": "2026-05-09T05:30:08.759Z",
-      "lastRecalledAt": "2026-05-14T05:30:09.580Z",
+      "lastRecalledAt": "2026-05-17T05:30:10.652Z",
       "queryHashes": [
         "e396aebcfe2d",
         "dcc6404d0379",
         "b314115a013c",
-        "25018584cf19"
+        "25018584cf19",
+        "fca3c8587e19"
       ],
       "recallDays": [
         "2026-05-09",
         "2026-05-11",
         "2026-05-12",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-17"
       ],
       "conceptTags": [
         "network",
