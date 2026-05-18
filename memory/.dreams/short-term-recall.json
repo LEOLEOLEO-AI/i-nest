@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T05:30:10.652Z",
+  "updatedAt": "2026-05-18T05:30:12.011Z",
   "entries": {
     "memory:memory/2026-04-22.md:30:60": {
       "key": "memory:memory/2026-04-22.md:30:60",
@@ -226,13 +226,13 @@
       "endLine": 62,
       "source": "memory",
       "snippet": "- Hemibrain σ=62.9远高于C.elegans σ=6.8——Drosophila connectome具有极高clustering - Hemibrain的α=128异常高，因为~18K神经元参与cascade，远超幂律适用范围 - Hemibrain的L=1.39极短，说明该网络高度互联 ### 下一步 - 保留plasticity的Hemibrain完整仿真（目前跳过了一些开销大的操作） - Mouse cortex数据获取和仿真 - 写论文/报告时对比三个物种的SDI universality ### 文件列表 - `sdi_network_v30.py` - 多物种SDI仿真器 - `sdi_v30_c_elegans_results.json` - C.elegans结果 - `sdi_v30_hemibrain_results.json` - Hemibrain结果 - `sdi_v30_c_elegans_result.png` - C.elegans图表 - `hemibrain_edges.json` - (可删除，已改用CSV) - `hemibrain_connectome_meta.json` - Hemibrain元数据 ### 已知问题 - Hemibrain的E-L ratio始终为0%（所有bond保持E-S type，因为没有apply_rules） - α值对于大网络不适用（幂律模型设计用于small cascade sizes） - Hemibrain的所有神经元都被标记为interneuron（需要更精细的类型分类）",
-      "recallCount": 11,
+      "recallCount": 12,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.493468061089516,
+      "totalScore": 4.881893715262413,
       "maxScore": 0.48095674812793726,
       "firstRecalledAt": "2026-05-07T08:20:07.460Z",
-      "lastRecalledAt": "2026-05-16T05:30:10.961Z",
+      "lastRecalledAt": "2026-05-18T05:30:12.011Z",
       "queryHashes": [
         "9fad92cfc3e0",
         "0a13b4260c4c",
@@ -244,14 +244,16 @@
         "d480b9cdab96",
         "beee5ad08da2",
         "dc4cefcf705c",
-        "aa6e2c670cdd"
+        "aa6e2c670cdd",
+        "9a0cebd6b140"
       ],
       "recallDays": [
         "2026-05-07",
         "2026-05-08",
         "2026-05-09",
         "2026-05-10",
-        "2026-05-16"
+        "2026-05-16",
+        "2026-05-18"
       ],
       "conceptTags": [
         "network",
@@ -539,18 +541,20 @@
       "endLine": 56,
       "source": "memory",
       "snippet": "8. **模板目录位置变更**：HEARTBEAT.md 期望 `99-Templates` 在根目录，实际在 `90_System/99_Templates`，路径失配。 **🟢 正常：** - SDI v31 仿真结果存在（T_200/T_150 两组参数轨迹完整） - 知识库结构完整（SSOT/ADR/Wiki/Inbox 齐全） - 54 个 workspace skills 正常 - WeChat 插件已启用（openclaw-weixin v2.4.1） - workspace 根文档完整（AGENTS.md / SOUL.md / USER.md / MEMORY.md / HEARTBEAT.md 等均在） ### 修复计划 1. 立即重建 Copilot data.json 配置 2. 修复「知识库每日同步」cron（排查 WeChat 投递超时原因，考虑增加 timeout 或切换投递渠道） 3. 补全今日 memory 日志（本文件） 4. 调查 HERMES-Brain 无输出原因（可能需要 re-auth） 5. 运行 Hemibrain v31 完整评估 pipeline ## 系统健康检查 (03:20 EDT) | 指标 | 状态 | |------|------| | compute_procs | 0 | | hemibrain_v31_results.json | 936 bytes | | sdi_v31_results.json | 2058 bytes | | 检测结果 | **CHANGED** | **⚠️ 发现变更*",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.39548082649707794,
+      "totalScore": 0.7753378599882126,
       "maxScore": 0.39548082649707794,
       "firstRecalledAt": "2026-05-08T05:30:19.081Z",
-      "lastRecalledAt": "2026-05-08T05:30:19.081Z",
+      "lastRecalledAt": "2026-05-18T05:30:12.011Z",
       "queryHashes": [
-        "2c4db905ab84"
+        "2c4db905ab84",
+        "9a0cebd6b140"
       ],
       "recallDays": [
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-18"
       ],
       "conceptTags": [
         "heartbeat.md",
