@@ -114,9 +114,9 @@ From these axioms:
 
 \textbf{Spatial complexity} $\Sc$ quantifies structural integration potential as the geometric mean of four orthogonal, MECE graph-theoretic measures:
 \begin{equation}
-\Sc = (X_1 \cdot X_2 \cdot X_3 \cdot X_4)^{1/4} \tag{2}
+\Sc = (C \cdot H \cdot M \cdot R_{sw})^{1/4} \tag{2}
 \end{equation}
-where $X_1$ = global connectivity (LCC fraction); $X_2$ = hierarchical depth (scale-normalized $k$-core ratio~\cite{seidman1983}); $X_3$ = resolution-corrected modularity $Q'$~\cite{fortunato2007}; $X_4$ = small-world coefficient (tanh-normalized Watts--Strogatz $\sigma$~\cite{watts1998}).
+where $C$ = global connectivity (LCC fraction); $H$ = hierarchical depth (scale-normalized $k$-core ratio~\cite{seidman1983}); $M$ = resolution-corrected modularity $Q'$~\cite{fortunato2007}; $R_{sw}$ = small-world coefficient (tanh-normalized Watts--Strogatz $\sigma$~\cite{watts1998}).
 
 \textbf{Temporal complexity} $\Tc$ quantifies dynamical richness:
 \begin{equation}
@@ -362,12 +362,12 @@ All 40 validation systems are graded by measurement directness:
 
 All $\Sc$ and $\Tc$ components are normalized to $[0, 1]$ using the following unified formulas:
 
-\textbf{Spatial complexity:} $\Sc = (X_1 \cdot X_2 \cdot X_3 \cdot X_4)^{1/4}$, where:
+\textbf{Spatial complexity:} $\Sc = (C \cdot H \cdot M \cdot R_{sw})^{1/4}$, where:
 \begin{itemize}
-\item $X_1 = |LCC|/N$ (global connectivity; bounded $[0,1]$ by construction)
-\item $X_2 = \min[(k_{\max} / k_{\mathrm{null}}) / 6.667,\; 1.0]$; $k_{\mathrm{null}} \approx \ln(N)/\ln(\ln(N))$; anchor: Human HCP ($X_2 = 1.0$)
-\item $X_3 = \max[(Q - 0.02) / (1 - 0.02),\; 0.01]$; $Q$ = Louvain modularity (100 random restarts, $\gamma = 1.0$)
-\item $X_4 = \tanh[(\sigma - 1) / 2]$; $\sigma = (C/C_{\mathrm{rand}})/(L/L_{\mathrm{rand}})$
+\item $C = |LCC|/N$ (global connectivity; bounded $[0,1]$ by construction)
+\item $H = \min[(k_{\max} / k_{\mathrm{null}}) / 6.667,\; 1.0]$; $k_{\mathrm{null}} \approx \ln(N)/\ln(\ln(N))$; anchor: Human HCP ($H = 1.0$)
+\item $M = \max[(Q - 0.02) / (1 - 0.02),\; 0.01]$; $Q$ = Louvain modularity (100 random restarts, $\gamma = 1.0$)
+\item $R_{sw} = \tanh[(\sigma - 1) / 2]$; $\sigma = (C/C_{\mathrm{rand}})/(L/L_{\mathrm{rand}})$
 \end{itemize}
 
 \textbf{Temporal complexity:} $\Tc = (\lambda_{\mathrm{eff}} \cdot \Phi \cdot \Psi \cdot \Theta)^{1/4}$. For BNN: $\lambda_{\mathrm{eff}}$ = avalanche branching ratio; $\Phi$ = mean pairwise PLV; $\Psi$ = std(100 sliding-window FC matrices)/mean$|$FC$|$; $\Theta$ = Shannon entropy of intrinsic timescale distribution. For ANN: activation propagation ratios and CKA~\cite{raghu2021} are used for cross-modal calibration.
