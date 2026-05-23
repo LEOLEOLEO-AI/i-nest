@@ -215,21 +215,49 @@ async function resizeImageIfNeeded(buf: Buffer, mimeType: string, log: any): Pro
 async function downloadAttachments(
   attachments: IncomingAttachment[],
   log: any,
-  channelRuntime?: any
+  channelRuntime?: any,
+  serverUrl?: string,
+  gskToken?: string,
 ): Promise<DownloadedMedia> {
   const result: DownloadedMedia = { mediaPaths: [], mediaTypes: [] }
   if (!attachments.length) return result
 
   const maxBytes = 30 * 1024 * 1024  // 30MB default, matches Feishu
 
+  // The exact path served by the secure media proxy endpoint.
+  const SECURE_MEDIA_PATH = '/api/multiplayer/im/media'
+
   for (const att of attachments) {
     if (!att.url) continue
     try {
-      const resp = await fetch(att.url)
+      // Resolve attachment URL.  Only attach GSK auth header when fetching
+      // from our own secure media endpoint to avoid leaking the token to
+      // third-party domains.
+      let fetchUrl = att.url
+      const fetchOpts: RequestInit = {}
+
+      const isRelativeSecureMedia = att.url.startsWith(SECURE_MEDIA_PATH)
+      const isAbsoluteSecureMedia = serverUrl
+        && att.url.startsWith(serverUrl + SECURE_MEDIA_PATH)
+
+      if (isRelativeSecureMedia && serverUrl) {
+        fetchUrl = `${serverUrl}${att.url}`
+      }
+
+      if ((isRelativeSecureMedia || isAbsoluteSecureMedia) && gskToken) {
+        fetchOpts.headers = { Authorization: `Bearer ${gskToken}` }
+      }
+
+      const resp = await fetch(fetchUrl, fetchOpts)
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`)
 
       const rawBuf = Buffer.from(await resp.arrayBuffer())
-      const mimeType = guessMimeType(att.url, att.type)
+      // Prefer response content-type (accurate for secure media proxy),
+      // fall back to URL-based guess for direct CDN links.
+      const respCT = resp.headers.get('content-type')?.split(';')[0]?.trim()
+      const mimeType = (respCT && respCT !== 'application/octet-stream')
+        ? respCT
+        : guessMimeType(att.url, att.type)
       // Resize images before saving — keeps session transcript base64 lean
       const buf = await resizeImageIfNeeded(rawBuf, mimeType, log)
 
@@ -245,7 +273,12 @@ async function downloadAttachments(
         // Fallback: direct write (no image optimization — use only if core API unavailable)
         await mkdir(INBOUND_MEDIA_DIR, { recursive: true })
         cleanupInboundMedia(log)
-        const ext = guessExtension(att.url, att.type)
+        // Derive extension from MIME type when URL has no useful extension (e.g. proxy URLs)
+        const mimeToExt: Record<string, string> = {
+          'image/jpeg': '.jpg', 'image/png': '.png', 'image/gif': '.gif',
+          'image/webp': '.webp', 'application/pdf': '.pdf',
+        }
+        const ext = mimeToExt[mimeType] || guessExtension(att.url, att.type)
         const fileName = `${randomUUID()}${ext}`
         const filePath = join(INBOUND_MEDIA_DIR, fileName)
         await writeFile(filePath, buf)
@@ -1339,7 +1372,11 @@ async function dispatchToAgent(
   // Feishu plugin uses the same pattern: download → disk → MediaPath only.
   const mediaPayload: Record<string, unknown> = {}
   if (msg.attachments && msg.attachments.length > 0) {
-    const downloaded = await downloadAttachments(msg.attachments, log, channelRuntime)
+    const downloaded = await downloadAttachments(
+      msg.attachments, log, channelRuntime,
+      outboundState.pluginCfg?.serverUrl,
+      outboundState.pluginCfg?.gskToken,
+    )
     if (downloaded.mediaPaths.length > 0) {
       mediaPayload.MediaPath = downloaded.mediaPaths[0]
       mediaPayload.MediaPaths = downloaded.mediaPaths
