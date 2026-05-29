@@ -37,3 +37,7 @@ desktop.ini
 .obsidian/plugins/neural-composer/data.json
 .obsidian/plugins/copilot/data.json
 90_System/scripts/config.yaml
+
+# Legacy subvault (old git repo backup inside vault)
+90_System/legacy_subvault_git/
+90_System/legacy_subvault_obsidian/
