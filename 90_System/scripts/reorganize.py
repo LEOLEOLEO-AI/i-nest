@@ -778,7 +778,7 @@ def _analyze_single_note(note_path, client, config, keyword_mode=False):
     embedding = None
     if not config["processing"].get("skip_embeddings", True) and client:
         try:
-            embedding = get_embedding(client, text[:2000], config.get("llm", config.get("deepseek", {}))["embedding_model"])
+            embedding = get_embedding(client, text[:400], config.get("llm", config.get("deepseek", {}))["embedding_model"])
         except Exception:
             pass
     
@@ -838,7 +838,7 @@ def main():
             post = read_note(note_path)
             if post:
                 text = extract_text_content(post)
-                emb = get_embedding(client, text[:2000], config.get("llm", config.get("deepseek", {}))["embedding_model"])
+                emb = get_embedding(client, text[:400], config.get("llm", config.get("deepseek", {}))["embedding_model"])
                 if emb:
                     embeddings[str(note_path)] = emb
                     notes_metadata[note_path] = dict(post.metadata) if post.metadata else {}

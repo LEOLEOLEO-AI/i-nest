@@ -1,15 +1,31 @@
 ---
-title: "Revolutionizing Datacenter Networks via Reconfigurable Topologies"
-source: "https://cacm.acm.org/research/revolutionizing-datacenter-networks-via-reconfigurable-topologies/"
 author:
-  - "Chen Avin"
-  - "Stefan Schmid"
-published: 2025-05-14
+- Chen Avin
+- Stefan Schmid
+category: Chip-Hardware
 created: 2026-05-04
-description:
+description: null
+entities:
+- RDCN
+- 光学电路交换机
+- 拓扑工程
+- 胖树拓扑
+- 流量矩阵
+processed: '2026-05-29T22:40:36.994588'
+published: 2025-05-14
+source: https://cacm.acm.org/research/revolutionizing-datacenter-networks-via-reconfigurable-topologies/
+source_file: Revolutionizing Datacenter Networks via Reconfigurable Topologies.md
+summary: 介绍可重构数据中心网络如何利用光学技术动态调整拓扑以适应流量结构，提升性能。
 tags:
-  - "clippings"
+- 流量模式
+- 可重构网络
+- 光学开关
+- 数据中心
+- 拓扑工程
+- clippings
+title: Revolutionizing Datacenter Networks via Reconfigurable Topologies
 ---
+
 Datacenter networks have become critical infrastructure for our digital society. Indeed, the performance of many distributed systems and cloud applications—for example, those related to distributed machine learning (ML), batch processing, scale-out databases, or streaming—critically depends on the throughput capacity of the underlying network topology.
 
 Fortunately, thus far, Moore’s law for networking, which states that electrical switches double in bandwidth every two years at the same power and cost, has allowed datacenter operators to scale up their networks across generations. However, this impressive free scaling of switches now lags behind the doubling of cloud traffic, which occurs roughly every year. It is also expected that Moore’s law will slow further in the coming years. Accordingly, significant efforts are being made to improve the throughput of datacenter networks, and leading companies such as Google, Microsoft, and Meta are competing to improve the operations of their networks.<sup>,</sup><sup>,</sup>

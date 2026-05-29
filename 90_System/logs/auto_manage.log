@@ -1,0 +1,16 @@
+======================================== 
+[2026/05/29 ÷‹ŒÂ 22:40:01.89] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 3 inbox notes...
+Inbox:   0%|          | 0/3 [00:00<?, ?it/s]Inbox:  33%|®Ä®Ä®Ä®Ü      | 1/3 [00:16<00:32, 16.47s/it]Inbox:  67%|®Ä®Ä®Ä®Ä®Ä®Ä®É   | 2/3 [00:32<00:15, 15.99s/it]Inbox:  67%|®Ä®Ä®Ä®Ä®Ä®Ä®É   | 2/3 [00:56<00:28, 28.14s/it]
+  [OK] Our eighth generation TPUs two chips for the agentic era.md -> Chip-Hardware/
+  [OK] Revolutionizing Datacenter Networks via Reconfigurable Topologies.md -> Chip-Hardware/
+Traceback (most recent call last):
+  File "D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\reorganize.py", line 868, in <module>
+    main()
+  File "D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\reorganize.py", line 827, in main
+    process_inbox(client, config, dry_run=args.dry_run)
+  File "D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\reorganize.py", line 665, in process_inbox
+    print(f"  [OK] {note_path.name} -> {category}/")
+UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f9e0' in position 36: illegal multibyte sequence
