@@ -63,9 +63,9 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_MetaAI：电磁超材料设计的范式变革——基于电流-扩散模型的OOD性能突破_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_MiroThinker_1_5深度解析：AI从秒回到慢思考的范式转型_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_MiroThinker_1_5：开源搜索增强型推理模型深度解析_md.ajson
-- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_NCC_原语库_v1_0_最终版规范_md.ajson
-- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_NCC能效提升计算_md.ajson
-- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_NCC论证材料_md.ajson
+- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_TCC_原语库_v1_0_最终版规范_md.ajson
+- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_TCC能效提升计算_md.ajson
+- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_TCC论证材料_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_NICE：开启类脑智能新范式——从连接复杂度到智能涌现_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_NVIDIA_2026年AI光学互连技术路线图：共封装硅光子学引领吉瓦级AI工厂_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_Nature_2025综述深度解析：神经形态计算的规模化革命与AlexNet时刻前瞻_md.ajson
@@ -141,7 +141,7 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_光控忆阻器：神经形态视觉系统的传感-记忆-计算协同器件_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_全球首款全光谱可编程光控忆阻器研究突破_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_六类通信原语CST最优拓扑速查图_md.ajson
-- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_关于NCCL通信_md.ajson
+- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_关于TCCL通信_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_关于SENoW的提示词_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_关于介观尺度_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_关于大语言模型CST复杂度推导及物理实现意义_md.ajson
@@ -239,7 +239,7 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_生成式均衡算子（GEO）：破解神经算子理论-实践鸿沟的新架构_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_生物启发的脉冲神经网络（SNN）设计与研究进展_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_盛科通信收购井芯微电子_md.ajson
-- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_硬件nccl_md.ajson
+- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_硬件tccl_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_神经可塑性与忆阻器：大脑与硅基模拟的对比研究_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_神经形态脉冲大语言模型（NSLLM）：连接AI与神经科学的突破性研究_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_神经形态计算的现状与未来方向：硬件加速瓶颈与颠覆性创新路径_md.ajson
@@ -346,7 +346,7 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 - Not a file: .smart-env/multi/10_Knowledge_99_参考资料_03_研究资料_Loss_才是涌现的关键，而非模型参数_md.ajson
 - Not a file: .smart-env/multi/10_Knowledge_99_参考资料_03_研究资料_MetaNet_多组学网络分析（四）：拓扑性质读懂网络结构，拓扑指标与关键节点识别_md.ajson
 - Not a file: .smart-env/multi/10_Knowledge_99_参考资料_03_研究资料_Milinkovic_B_(2024)：复杂神经系统涌现动力学结构_md.ajson
-- Not a file: .smart-env/multi/10_Knowledge_99_参考资料_03_研究资料_NCCL_系列之深入解析_NCCL_拓扑建模_md.ajson
+- Not a file: .smart-env/multi/10_Knowledge_99_参考资料_03_研究资料_TCCL_系列之深入解析_TCCL_拓扑建模_md.ajson
 - Not a file: .smart-env/multi/10_Knowledge_99_参考资料_03_研究资料_NICE_开启类脑智能新范式__从连接复杂度到智能涌现_md.ajson
 - Not a file: .smart-env/multi/10_Knowledge_99_参考资料_03_研究资料_NPU神经处理单元（4_3）-_神经网络之TNN(Transformer)_md.ajson
 - Not a file: .smart-env/multi/10_Knowledge_99_参考资料_03_研究资料_NaaS_完整报告_md.ajson
@@ -1320,7 +1320,7 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 - Not a file: .smart-env/multi/30_Outputs_专利_00_专利优先级推进面板_md.ajson
 - Not a file: .smart-env/multi/30_Outputs_专利_P0-4_基于正交原语集与拓扑融合变换的网络复杂度计算方法及系统_交底书_md.ajson
 - Not a file: .smart-env/multi/30_Outputs_专利_P0-5_基于液态拓扑的实时生成式结构计算方法及系统_md.ajson
-- Not a file: .smart-env/multi/30_Outputs_专利_P1-1_NCC硬件IP核阵列_专利框架_md.ajson
+- Not a file: .smart-env/multi/30_Outputs_专利_P1-1_TCC硬件IP核阵列_专利框架_md.ajson
 - Not a file: .smart-env/multi/30_Outputs_专利_P1-2_基于查找表的网内二值化神经网络硬件加速装置及方法_交底书框架_md.ajson
 - Not a file: .smart-env/multi/30_Outputs_专利_P1-3_基于CST的神经网络架构自适应演化方法_交底书框架_md.ajson
 - Not a file: .smart-env/multi/30_Outputs_专利_P1-4_基于FEP_STDP的神经形态芯片资源分配方法_交底书框架_md.ajson
@@ -1341,10 +1341,10 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 - Not a file: .smart-env/multi/Inbox_待分类_未命名_2_base.ajson
 - Not a file: .smart-env/multi/Inbox_待分类_未命名_base.ajson
 - Not a file: .smart-env/multi/Inbox_待分类_本地数据库_base.ajson
-- Not a file: .smart-env/multi/NCC计算范式_01_论文_SDI-CC论文框架_拓扑即计算新范式_md.ajson
-- Not a file: .smart-env/multi/NCC计算范式_01_论文_论文计划列表_2_md.ajson
-- Not a file: .smart-env/multi/NCC计算范式_05_关鍵技术_A_Paradigm_Shift_in_Neuromorphic_Engineering_Meta-Topology,__md.ajson
-- Not a file: .smart-env/multi/NCC计算范式_05_关键技术_从晶圆到代码，全开源！Aegis：首个“从硅开始”的开源FPGA来了_md.ajson
+- Not a file: .smart-env/multi/TCC计算范式_01_论文_SDI-CC论文框架_拓扑即计算新范式_md.ajson
+- Not a file: .smart-env/multi/TCC计算范式_01_论文_论文计划列表_2_md.ajson
+- Not a file: .smart-env/multi/TCC计算范式_05_关鍵技术_A_Paradigm_Shift_in_Neuromorphic_Engineering_Meta-Topology,__md.ajson
+- Not a file: .smart-env/multi/TCC计算范式_05_关键技术_从晶圆到代码，全开源！Aegis：首个“从硅开始”的开源FPGA来了_md.ajson
 - Not a file: .smart-env/multi/Projects_[V1]_iNEST_项目指南与论文规划_md.ajson
 - Not a file: .smart-env/multi/Projects_[V2]_iNEST_项目指南与论文规划_md.ajson
 - Not a file: .smart-env/multi/copilot_copilot-conversations_Test_Conversation@20260430_075612_md.ajson
@@ -1374,7 +1374,7 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 - [[纳米线网络模拟大脑推动神经形态计算技术]]
 - [[Inbox/TCC计算范式/All elementary functions from a single operator.pdf]]
 - Inbox/TCC计算范式/为什么说 AI 网络是“同步通信网络”？_ce7e25f7
-- Not a file: NCC计算范式/05_关鍵技术/无标题.md
+- Not a file: TCC计算范式/05_关鍵技术/无标题.md
 
 # Additional Instructions
 I strongly recommend to use "Source mode" for viewing the conflicted files. For simple conflicts, in each file listed above replace every occurrence of the following text blocks with the desired text.
