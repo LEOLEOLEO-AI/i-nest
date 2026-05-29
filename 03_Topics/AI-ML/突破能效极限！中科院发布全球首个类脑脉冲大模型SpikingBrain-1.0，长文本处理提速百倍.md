@@ -121,3 +121,11 @@ SpikingBrain-1.0技术报告：https://arxiv.org/abs/2509.05276
 
 ---
 **Tags:** [[NaaS]] [[StrategicProposal]] [[BrainInspired]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[SpikingBrain-1.0：类脑脉冲大模型的革命性突破 🔬]]
+- [[全球首款大规模类脑脉冲大模型SpikingBrain1.0发布]]
+- [[SpikingBrain-1_0_类脑脉冲大模型的革命性突破__]]
+
+> [!note]- 可能重复: [[SpikingBrain-1.0：类脑脉冲大模型的革命性突破 🔬]] (相似度: 93%)

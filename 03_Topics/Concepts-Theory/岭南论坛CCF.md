@@ -35,3 +35,7 @@ iNEST(Intelligence Emerging from Network Spatiotemporal Synergy Theory)理论构
 
 ---
 *来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 09:36*
+
+---
+## 相关笔记 (AI 自动关联)
+- [[复旦讲座PPT提示词]]

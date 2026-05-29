@@ -54,3 +54,11 @@ https://github.com/BICLab/SpikingBrain-7B
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 10:52*
+
+---
+## 相关笔记 (AI 自动关联)
+- [[全球首款大规模类脑脉冲大模型SpikingBrain1_0发布]]
+- [[SpikingBrain-1_0_类脑脉冲大模型的革命性突破__]]
+- [[SpikingBrain-1.0：类脑脉冲大模型的革命性突破 🔬]]
+
+> [!note]- 可能重复: [[SpikingBrain-1_0_类脑脉冲大模型的革命性突破__]] (相似度: 93%)

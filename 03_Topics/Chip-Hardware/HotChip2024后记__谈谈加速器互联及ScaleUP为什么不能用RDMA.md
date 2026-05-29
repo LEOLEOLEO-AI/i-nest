@@ -230,3 +230,8 @@ BGP-EVPN针对MAC提供了L2 ECMP的路由, 然后的事情就非常简单了...
 
 ---
 **Tags:** [[NaaS]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[HotChip2024-Day2__AI加速器互联和云AI处理器,_Tesla是亮点]]
+- [[HotChip2024-Day2 AI加速器互联和云AI处理器, Tesla是亮点 (2)]]

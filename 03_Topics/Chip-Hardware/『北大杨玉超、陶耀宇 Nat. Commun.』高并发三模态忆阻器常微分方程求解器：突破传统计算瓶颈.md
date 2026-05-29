@@ -31,3 +31,8 @@
 文章信息：
 Yu, L., Zhang, T., Han, Y. et al. High-concurrency tri-mode memristor-based ordinary differential equation solver. Nat Commun (2026). 
 https://doi.org/10.1038/s41467-025-68122-4
+
+---
+## 相关笔记 (AI 自动关联)
+- [[北大团队提出高精度模拟矩阵方程求解方案：突破算力瓶颈，开启6G与类脑计算新路径 🚀]]
+- [[北大团队提出高精度模拟矩阵方程求解方案_突破算力瓶颈_开启6G与类脑计算新路径__]]

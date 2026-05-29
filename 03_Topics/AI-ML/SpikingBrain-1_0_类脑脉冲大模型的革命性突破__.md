@@ -218,3 +218,11 @@ SpikingBrain-1.0代表了人工智能发展的一个新方向，证明在Transfo
 
 ---
 **Tags:** [[NaaS]] [[StrategicProposal]] [[BrainInspired]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[SpikingBrain-1.0：类脑脉冲大模型的革命性突破 🔬]]
+- [[全球首款大规模类脑脉冲大模型SpikingBrain1.0发布]]
+- [[全球首款大规模类脑脉冲大模型SpikingBrain1_0发布]]
+
+> [!note]- 可能重复: [[SpikingBrain-1.0：类脑脉冲大模型的革命性突破 🔬]] (相似度: 94%)

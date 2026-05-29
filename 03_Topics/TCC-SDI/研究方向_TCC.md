@@ -19,3 +19,8 @@ WHERE contains(tags, "tcc")
 SORT imported_at desc
 LIMIT 200
 ```
+
+---
+## 相关笔记 (AI 自动关联)
+- [[海河实验室_项目汇报_Marp]]
+- [[SDI-软件定义互连]]

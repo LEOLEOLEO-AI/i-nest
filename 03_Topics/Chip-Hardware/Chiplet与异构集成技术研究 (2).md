@@ -134,3 +134,9 @@ source: Georgia Tech PRC
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Chiplet技术带来的新“四化”]]
+- [[MIT 异构Chiplet集成构建下一代计算的 超级芯片]]
+- [[Chiplet：将彻底颠覆这一行业]]

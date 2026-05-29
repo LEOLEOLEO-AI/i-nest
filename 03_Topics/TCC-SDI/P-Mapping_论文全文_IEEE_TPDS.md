@@ -551,3 +551,10 @@ These results establish PTM as a foundational component of the Topology-Centric 
 
 ---
 **Tags:** #NaaS #CST #SDI
+
+---
+## 相关笔记 (AI 自动关联)
+- [[[V2] P-Mapping_论文全文_IEEE_TPDS]]
+- [[Complete Physical Topology Mapping for Collective Communication Primitives A CST-Optimal Framework for Network-Centric C]]
+
+> [!note]- 可能重复: [[Complete Physical Topology Mapping for Collective Communication Primitives A CST-Optimal Framework for Network-Centric C]] (相似度: 98%)

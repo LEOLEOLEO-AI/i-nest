@@ -31,3 +31,9 @@
 文章信息：
 Ravichandran, V., Huang, Y., Flannery, B. et al. Memristive cellular neural networks for fast in-pixel computing. Nat Electron (2026). 
 https://doi.org/10.1038/s41928-025-01555-3
+
+---
+## 相关笔记 (AI 自动关联)
+- [[夏强飞一天2篇Nature大子刊_感存算一体_忆阻器阵列模拟计算]]
+- [[Nature_Electronics_忆阻器_视网膜_芯片问世_]]
+- [[基于忆阻器的神经网络应用研究]]

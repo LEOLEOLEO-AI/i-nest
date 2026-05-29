@@ -62,3 +62,7 @@ _K_ eywords Computational Neuroscience, Artificial General Intelligence, Brain-I
 
 ---
 **Tags:** [[BrainInspired]] CST
+
+---
+## 相关笔记 (AI 自动关联)
+- [[神经科学、AGI与神经形态计算的融合：统一研究范式与挑战]]

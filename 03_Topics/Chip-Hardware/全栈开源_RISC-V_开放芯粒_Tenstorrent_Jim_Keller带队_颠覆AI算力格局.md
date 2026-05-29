@@ -148,3 +148,8 @@ Clawd...
 
 ---
 **Tags:** [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[可无限扩展的AI处理器：Tenstorrent虫洞_-_极术社区_-_连接开发者与智能计算生态]]
+- [[Jim_Keller最新采访：谈RISC-V、Chiplet和AI]]

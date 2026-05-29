@@ -106,3 +106,9 @@ EC反映的是一种神经刺激响应。CCEP(cortico-cortical evoked potentials
 https://www.nature.com/articles/s41592-025-02654-x
 **Github代码：**
 https://github.com/tcclab-sustech/NPI
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Nature_methods，南方科技大学，通过人工神经网络构建孪生脑来推断脑网络因果关系]]
+
+> [!note]- 可能重复: [[Nature_methods，南方科技大学，通过人工神经网络构建孪生脑来推断脑网络因果关系]] (相似度: 94%)

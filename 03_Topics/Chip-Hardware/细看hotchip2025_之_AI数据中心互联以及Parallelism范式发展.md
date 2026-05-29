@@ -121,3 +121,7 @@ END
 
 ---
 **Tags:** [[NaaS]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[细看hotchip2025 之 AI数据中心互联以及Parallelism范式发展]]

@@ -157,3 +157,11 @@ https://doi.org/10.1038/s42256-025-01149-w
 
 ---
 **Tags:** [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[基于模拟忆阻器的Actor-Critic网络：类脑奖励学习的硬件实现突破]]
+- [[『苏黎世理工 Nat. Mach. Intell.』类脑奖励学习的忆阻器Actor–Critic网络：实现全硬件在线训练的新路径]]
+- [[『苏黎世理工_Nat._Mach._Intell.』类脑奖励学习的忆阻器Actor–Critic网络：实现全硬件在线训练的新路径]]
+
+> [!note]- 可能重复: [[『苏黎世理工 Nat. Mach. Intell.』类脑奖励学习的忆阻器Actor–Critic网络：实现全硬件在线训练的新路径]] (相似度: 92%)

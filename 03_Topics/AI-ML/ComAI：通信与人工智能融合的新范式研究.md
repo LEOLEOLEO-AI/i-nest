@@ -232,3 +232,7 @@ TABLE II 4SUMMARY OF THE KEY TECHNIQUES OF COMAI
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 10:46*
+
+---
+## 相关笔记 (AI 自动关联)
+- [[院士观点丨ComAI_通信与智能深度融合新范式]]

@@ -22,3 +22,7 @@
 
 ## 项目
 TCC计算范式/01_论文/README
+
+---
+## 相关笔记 (AI 自动关联)
+- [[TCC_Core_Concepts]]

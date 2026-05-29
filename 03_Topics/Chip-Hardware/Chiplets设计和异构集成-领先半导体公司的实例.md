@@ -224,3 +224,9 @@ http://www.latitudeda.com/
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Chiplet技术带来的新“四化”]]
+- [[跑步进入Chiplet时代]]
+- [[Chiplet：将彻底颠覆这一行业]]

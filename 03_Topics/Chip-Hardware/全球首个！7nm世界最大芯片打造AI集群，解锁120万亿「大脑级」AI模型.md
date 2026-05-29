@@ -185,3 +185,8 @@ WSE-2的晶体管数、内核数、内存、内存带宽和结构带宽等性能
 参考资料：
 https://www.wired.com/story/cerebras-chip-cluster-neural-networks-ai/
 https://www.tomshardware.com/news/worlds-largest-chip-unlocks-brain-sized-ai-models-with-163-million-core-cluster
+
+---
+## 相关笔记 (AI 自动关联)
+- [[推出近一年、1.2万亿晶体管、一整片晶圆打造的史上最大芯片战况如何？价格几何？]]
+- [[Cerebras全球最大芯片WSE升级二代：一颗芯片等于一张晶圆]]

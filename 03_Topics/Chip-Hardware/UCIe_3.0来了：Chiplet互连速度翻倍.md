@@ -84,3 +84,9 @@ https://www.nextplatform.com/2025/08/08/uci-express-cranks-up-chiplet-interconne
 
 ---
 **Tags:** [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[UCIe生态正在完善，Chiplet腾飞指日可待]]
+- [[Chiplet电话会议纪要]]
+- [[打破Chiplet的最后一道屏障：全新互联标准UCIe宣告成立]]

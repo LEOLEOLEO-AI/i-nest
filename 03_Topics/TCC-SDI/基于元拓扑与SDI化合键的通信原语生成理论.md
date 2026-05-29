@@ -506,3 +506,7 @@ We have established that three meta-topologies ($P_2$, $K_{1,n}$, $C_n$) under f
 
 ---
 *来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 08:32*
+
+---
+## 相关笔记 (AI 自动关联)
+- [[元拓扑+化合键=六类通信原语]]

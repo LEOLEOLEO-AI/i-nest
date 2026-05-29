@@ -91,3 +91,9 @@ iNEST（网络时空复杂度涌现智能）
 
 ---
 **Tags:** [[NaaS]] [[StrategicProposal]] CST [[SDSoW]] SDI [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[TCC_Core_Concepts]]
+- [[2026年3月1号 复旦会议]]
+- [[晶上理论、技术、工程与项目]]

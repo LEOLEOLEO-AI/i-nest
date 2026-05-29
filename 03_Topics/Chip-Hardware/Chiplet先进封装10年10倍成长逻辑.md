@@ -21,3 +21,9 @@
 
 ---
 **Tags:** [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Chiplet，迈出重要一步！]]
+- [[生成式人工智能（AIGC）芯片与Chiplets]]
+- [[谈谈「Chiplet」]]

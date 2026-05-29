@@ -64,3 +64,9 @@ nTSV + BSPDN
 
 ---
 **Tags:** [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[浅议本土chiplet的发展路线 (2)]]
+- [[先进封装_Chiplet对大陆半导体的战略意义]]
+- [[Chiplet技术分析展望]]

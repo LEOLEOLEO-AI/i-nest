@@ -268,3 +268,7 @@ b）按极小化误差的方法反向传播调整权矩阵。
 
 [](https://wwads.cn/click/bundle?code=HTk3ZtfnljmUleNkioKGP5hROrAAT8)
 [ **API 文档、API 调试、API Mock、API 自动化测试**，一体化协作平台，**免费！**](https://wwads.cn/click/bundle?code=HTk3ZtfnljmUleNkioKGP5hROrAAT8)[万维广告](https://wwads.cn/?utm_source=property-181&utm_medium=footer)
+
+---
+## 相关笔记 (AI 自动关联)
+- [[卷积神经网络（Convolutional_Neural_Network）的重要概念]]
