@@ -32,3 +32,8 @@ desktop.ini
 *.bak
 *.swp
 *~
+
+# Plugin data files that may contain API keys
+.obsidian/plugins/neural-composer/data.json
+.obsidian/plugins/copilot/data.json
+90_System/scripts/config.yaml
