@@ -39,3 +39,7 @@
 
 ---
 **Tags:** #BrainInspired #CST #SDI
+
+---
+## 相关笔记 (AI 自动关联)
+- [[复杂网络理论奠基之作深度解析：《Complex networks Structure and dynamics》]]

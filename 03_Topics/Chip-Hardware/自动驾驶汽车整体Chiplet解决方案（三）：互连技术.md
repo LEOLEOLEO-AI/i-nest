@@ -532,3 +532,7 @@ M1 Ultra的基板由Unimicron提供，采用ABF RDL技术，凸点间距为25μm
 
 ---
 **Tags:** CST [[NaaS]] [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[自动驾驶汽车整体Chiplet解决方案（二）：通信解决方案]]

@@ -200,3 +200,8 @@ model for social influence[J]. Physical Review Letters, 2000, 85(16): 3536.
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 08:50*
+
+---
+## 相关笔记 (AI 自动关联)
+- [[复杂网络理论奠基之作深度解析__Complex_networks__Structure_and_dynamics_]]
+- [[Idea_The_One_of_ComplexNetworks_RG_Engineering]]

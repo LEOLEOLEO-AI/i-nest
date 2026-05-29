@@ -15,3 +15,8 @@ tags:
 
 ---
 *来源：印象笔记 (guid: 37953537) | 类型：evernote | 入库：2026-04-28 13:48*
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Obsidian从入门到精通：基于Notebook Navigator插件的高效知识管理指南]]
+- [[Get笔记×Obsidian 配置与工作流]]

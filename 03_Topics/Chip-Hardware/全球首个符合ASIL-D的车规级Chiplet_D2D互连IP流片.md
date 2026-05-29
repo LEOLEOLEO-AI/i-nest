@@ -278,3 +278,9 @@
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Chiplet行业在2031年有望达到471.9亿美元，Chiplet_D2D解决方案介绍]]
+- [[Chiplet（芯粒）互联：从一团乱麻（BoW）到统一互联标准（UCIe）]]
+- [[Chiplet电话会议纪要]]

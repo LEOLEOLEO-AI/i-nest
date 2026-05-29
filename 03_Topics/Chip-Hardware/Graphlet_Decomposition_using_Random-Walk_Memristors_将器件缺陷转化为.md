@@ -166,3 +166,9 @@ https://doi.org/10.1109/IEDM50854.2024.10873438
 
 ---
 **Tags:** [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为]]
+
+> [!note]- 可能重复: [[Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为]] (相似度: 96%)

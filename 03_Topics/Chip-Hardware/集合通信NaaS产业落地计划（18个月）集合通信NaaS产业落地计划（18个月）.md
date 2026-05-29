@@ -96,3 +96,7 @@ NaaS（Network-as-a-Service）核心模式：
 
 ---
 **Tags:** [[Chiplet]] [[NaaS]] CST SDI
+
+---
+## 相关笔记 (AI 自动关联)
+- [[集合通信硬件化]]

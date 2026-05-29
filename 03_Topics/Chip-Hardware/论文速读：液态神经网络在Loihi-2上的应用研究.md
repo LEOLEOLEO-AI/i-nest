@@ -112,3 +112,7 @@ LNNs 能够根据数据和任务需求动态调整网络行为和结构，实现
 
 ---
 **Tags:** [[BrainInspired]] CST [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[资讯 液态神经网络 (Liquid Neural Nets)]]

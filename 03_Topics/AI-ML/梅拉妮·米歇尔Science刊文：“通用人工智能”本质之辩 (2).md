@@ -186,3 +186,8 @@ It is not clear whether a science of AI would be more like the science of human 
 
 ---
 **Tags:** [[BrainInspired]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[智能是什么？]]
+- [[脑科学启发的持续学习，打造个性化的通用人工智能]]

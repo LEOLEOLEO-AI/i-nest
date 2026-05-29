@@ -213,3 +213,7 @@ Tenstorrent可能仍面临一些挑战：不确定Tenstorrent 编译器能否完
 									[
 										更多
 																			](https://aijishu.com/a/1060000000323545#)
+
+---
+## 相关笔记 (AI 自动关联)
+- [[全栈开源_RISC-V_开放芯粒_Tenstorrent_Jim_Keller带队_颠覆AI算力格局]]

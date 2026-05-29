@@ -280,3 +280,9 @@ TSMC将此项技术命名为“3DSI（3D System Integration）”，也适用于
 
 ---
 **Tags:** [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Chiplet成为半导体的下一个竞争高地]]
+- [[【行业资讯】中国Chiplet的机遇与挑战及芯片接口IP市场展望]]
+- [[浅议本土chiplet的发展路线 (2)]]

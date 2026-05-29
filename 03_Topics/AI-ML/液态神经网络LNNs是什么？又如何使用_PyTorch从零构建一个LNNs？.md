@@ -264,3 +264,7 @@ def train(model, dataset, optimizer, epochs, batch_size):
 
 ---
 **Tags:** [[StrategicProposal]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[液态神经网络（LNNs）：更强拟合能力的核心原因解析 🧠]]

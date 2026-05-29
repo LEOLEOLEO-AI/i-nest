@@ -63,3 +63,7 @@ Exploring Liquid Neural Networks on Loihi-2
 
 ---
 **Tags:** CST
+
+---
+## 相关笔记 (AI 自动关联)
+- [[深度学习新动向！液态神经网络拿下Nature子刊，19个神经元驾驶一辆车！]]

@@ -170,3 +170,9 @@ http://www.latitudeda.com/
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Chiplet与异构集成技术研究 (2)]]
+- [[跑步进入Chiplet时代]]
+- [[Chiplet技术带来的新“四化”]]

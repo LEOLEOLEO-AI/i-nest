@@ -252,3 +252,9 @@ zhaojh@kw.beijing.gov.cn
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[美欧Chiplet技术发展深度研究：从战略布局到技术创新的全景分析]]
+- [[​Chiplet的意义：超越摩尔定律！]]
+- [[Chiplet成为半导体的下一个竞争高地]]

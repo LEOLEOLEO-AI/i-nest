@@ -254,3 +254,9 @@ The Diversity of Cortical Inhibitory Synapses [2016]   Y. KubotaF. KarubeY. Kaw
 
 ---
 **Tags:** CST [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[从复杂神经动力学到智能涌现：基于神经复杂性的类脑人工智能]]
+- [[类脑智能：基于脑启发的智能研究新范式]]
+- [[神经科学与机器学习交叉路线图：从脑结构到类脑智能]]

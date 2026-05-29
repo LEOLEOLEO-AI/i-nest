@@ -147,3 +147,7 @@ AI+Science 是近年兴起的将人工智能和科学相结合的一种趋势。
 
 ---
 **Tags:** CST [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Kolmogorov-Arnold Networks 2.0 (KAN2.0)：科学发现与AI可解释性的融合范式]]

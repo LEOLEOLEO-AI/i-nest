@@ -285,3 +285,7 @@ Dong, X., Liu, L., Musial, K. & Gabrys, B. NATS-Bench: Benchmarking nas algorith
 
 ---
 **Tags:** CST [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Nat. Commun. 速递 网络属性决定神经网络性能]]

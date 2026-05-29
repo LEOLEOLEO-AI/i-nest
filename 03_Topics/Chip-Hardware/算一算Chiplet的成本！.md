@@ -699,3 +699,9 @@ http://group.iiis.tsinghua.edu.cn/~maks/index.html
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[浅议本土chiplet的发展路线 (2)]]
+- [[【行业资讯】中国Chiplet的机遇与挑战及芯片接口IP市场展望]]
+- [[如何利用Chiplet循序渐进发展国产芯片？]]

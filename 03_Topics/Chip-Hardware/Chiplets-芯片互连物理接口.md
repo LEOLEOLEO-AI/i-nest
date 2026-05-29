@@ -86,3 +86,9 @@ HBM(High Bandwidth Memory)专门用于用于存储器件与DIE互联的标准，
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[算一算Chiplet的成本！]]
+- [[Chiplet技术分析展望]]
+- [[浅议本土chiplet的发展路线 (2)]]

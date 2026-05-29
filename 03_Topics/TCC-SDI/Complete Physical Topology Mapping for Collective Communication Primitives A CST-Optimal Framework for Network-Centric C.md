@@ -565,3 +565,8 @@ These results establish PTM as a foundational component of the Network-Centric C
 
 ---
 **Tags:** [[Chiplet]] [[NaaS]] CST SDI
+
+---
+## 相关笔记 (AI 自动关联)
+- [[P-Mapping_论文全文_IEEE_TPDS]]
+- [[[V2] P-Mapping_论文全文_IEEE_TPDS]]

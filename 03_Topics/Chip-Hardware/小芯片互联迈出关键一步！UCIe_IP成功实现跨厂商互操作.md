@@ -246,3 +246,9 @@ UCIe IP通常由以下三部分组成：**控制器，**用于在基于PCIe、CX
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[UCIe_2.0_规范：持续创新，推动开放_Chiplet_生态系统]]
+- [[Chiplet，中国标准]]
+- [[UCIe_3.0来了：Chiplet互连速度翻倍]]

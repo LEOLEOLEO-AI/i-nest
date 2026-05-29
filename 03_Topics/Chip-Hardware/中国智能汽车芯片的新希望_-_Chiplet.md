@@ -137,3 +137,9 @@ MEPTEC_SISS_Jan-Vardaman_220202.pdf
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Chiplet全球标准来了！它对中国半导体产业有何影响？芯原戴伟民专业点评]]
+- [[Chiplet成为半导体的下一个竞争高地]]
+- [[浅议本土chiplet的发展路线 (2)]]

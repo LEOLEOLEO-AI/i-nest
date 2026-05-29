@@ -103,3 +103,11 @@ zhaojh@kw.beijing.gov.cn
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Chiplet电话会议纪要]]
+- [[UCIe生态正在完善，Chiplet腾飞指日可待]]
+- [[Chiplet技术分析展望]]
+
+> [!note]- 可能重复: [[Chiplet电话会议纪要]] (相似度: 86%)

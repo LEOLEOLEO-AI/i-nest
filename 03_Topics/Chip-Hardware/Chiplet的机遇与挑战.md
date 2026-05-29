@@ -281,3 +281,9 @@ zGlue公司专注于中低端chiplet的开发和标准化。由zGlue开发和制
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[UCIe生态正在完善，Chiplet腾飞指日可待]]
+- [[【行业资讯】中国Chiplet的机遇与挑战及芯片接口IP市场展望]]
+- [[中国Chiplet大会干货：7位大咖抛出灵魂问题，接口IP和EDA宏图展开]]

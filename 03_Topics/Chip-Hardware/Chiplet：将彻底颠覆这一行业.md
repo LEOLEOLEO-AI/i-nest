@@ -115,3 +115,9 @@ Lender 指出，创建基于 UCIe 的chiplet设计的成本应该是最低的。
 
 ---
 **Tags:** [[SDSoW]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[UCIe生态正在完善，Chiplet腾飞指日可待]]
+- [[Chiplet-Based Systems and Heterogeneous Integration Enabling]]
+- [[跑步进入Chiplet时代]]

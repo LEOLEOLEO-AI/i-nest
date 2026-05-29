@@ -94,3 +94,9 @@ from A to B
 
 ---
 **Tags:** CST [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[Chiplet的机遇与挑战]]
+- [[Chiplet技术仍处于发展阶段]]
+- [[Chiplet时代来临，Die-to-Die接口成新挑战]]

@@ -380,3 +380,9 @@ Explore content categories
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 08:55*
+
+---
+## 相关笔记 (AI 自动关联)
+- [[美欧Chiplet技术发展深度研究：从战略布局到技术创新的全景分析]]
+- [[Chiplet：将彻底颠覆这一行业]]
+- [[UCIe生态正在完善，Chiplet腾飞指日可待]]

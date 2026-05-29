@@ -157,3 +157,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0370157320302908
 
 ---
 **Tags:** [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[前沿综述：大脑结构网络、功能网络和网络控制中的物理学 (2)]]

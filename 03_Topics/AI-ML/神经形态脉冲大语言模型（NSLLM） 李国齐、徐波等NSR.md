@@ -22,3 +22,8 @@ Neuromorphic spike-based large language modelNational Science Review, nwaf551, 
 
 ---
 **Tags:** [[BrainInspired]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[神经形态脉冲大语言模型（NSLLM）：连接AI与神经科学的突破性研究]]
+- [[神经形态脉冲大语言模型_NSLLM__连接AI与神经科学的突破性研究]]

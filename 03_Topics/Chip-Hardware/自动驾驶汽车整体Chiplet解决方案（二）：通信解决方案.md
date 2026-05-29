@@ -297,3 +297,7 @@ C3：8核+4核
 
 ---
 **Tags:** [[StrategicProposal]] [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[自动驾驶汽车整体Chiplet解决方案（三）：互连技术]]
