@@ -1,14 +1,26 @@
 ---
-title: "Our eighth generation TPUs: two chips for the agentic era"
-source: "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/"
 author:
-  - "Amin Vahdat"
-published: 2026-04-22
+- Amin Vahdat
+category: Chip-Hardware
 created: 2026-05-04
-description: "An overview of Google’s eighth generation TPUs, built for the agentic era."
+description: An overview of Google’s eighth generation TPUs, built for the agentic
+  era.
+entities:
+- TPU 8t
+- TPU 8i
+processed: '2026-05-29T22:40:21.348655'
+published: 2026-04-22
+source: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/
+source_file: Our eighth generation TPUs two chips for the agentic era.md
+summary: 谷歌推出第八代TPU，包括训练专用TPU 8t和推理专用TPU 8i，提供更高性能和效率，支持大规模AI工作负载。
 tags:
-  - "clippings"
+- AI芯片
+- clippings
+- 训练与推理
+- TPU
+title: 'Our eighth generation TPUs: two chips for the agentic era'
 ---
+
 Today at Google Cloud Next, we are introducing the eighth generation of Google's custom Tensor Processor Unit (TPU), coming soon with two distinct, purpose-built architectures for training and inference: TPU 8t and TPU 8i. These two chips are designed to power our custom-built supercomputers, to drive everything from cutting-edge model training and agent development, to massive inference workloads. TPUs have been powering leading foundation models, including Gemini, for years. These 8th generation TPUs together will deliver scale, efficiency and capabilities across training, serving and agentic workloads.
 
 In this age of AI agents, models must reason through problems, execute multi-step workflows and learn from their own actions in continuous loops. This places a new set of demands on infrastructure, and TPU 8t and TPU 8i were designed in partnership with Google DeepMind to take on the most demanding AI workloads and adapt to evolving model architectures at scale.
