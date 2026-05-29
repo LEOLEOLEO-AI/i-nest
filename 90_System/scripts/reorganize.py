@@ -282,8 +282,15 @@ def read_note(filepath):
             post = frontmatter.load(f)
         return post
     except Exception as e:
-        print(f"  Error reading {filepath}: {e}")
-        return None
+        # Fallback: treat whole file as content without frontmatter
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                content = f.read()
+            post = frontmatter.Post(content)
+            return post
+        except Exception:
+            print(f"  Error reading {filepath}: {e}")
+            return None
 
 
 def extract_text_content(post):
@@ -330,9 +337,18 @@ def build_note_metadata(post, analysis, filepath):
             metadata["title"] = analysis["title_cn"]
         if analysis.get("tags"):
             existing_tags = metadata.get("tags", [])
-            if isinstance(existing_tags, str):
-                existing_tags = [t.strip() for t in existing_tags.split(",")]
-            new_tags = list(set(existing_tags + analysis["tags"]))
+            # Normalize existing tags: extract 'name' from dicts, split strings
+            normalized_existing = []
+            for t in (existing_tags if isinstance(existing_tags, list) else [existing_tags]):
+                if isinstance(t, dict):
+                    normalized_existing.append(t.get("name", str(t)))
+                elif isinstance(t, str):
+                    normalized_existing.append(t.strip())
+            # Merge with new tags
+            analysis_tags = analysis["tags"]
+            if isinstance(analysis_tags, list):
+                analysis_tags = [t.get("name", t) if isinstance(t, dict) else str(t) for t in analysis_tags]
+            new_tags = list(set(normalized_existing + analysis_tags))
             metadata["tags"] = new_tags
         if analysis.get("category"):
             metadata["category"] = analysis["category"]
