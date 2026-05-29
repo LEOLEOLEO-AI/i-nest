@@ -138,6 +138,63 @@ NOTE_ANALYSIS_PROMPT = """你是一个知识库管理助手。请分析以下笔
 }}"""
 
 
+
+# ============================================================================
+# Keyword-based Categorization (Fallback mode - no LLM needed)
+# ============================================================================
+
+def keyword_categorize(content, config):
+    """Categorize a note based on keyword matching from config taxonomy."""
+    topics = config.get("topics", {})
+    text_lower = content.lower()
+    
+    scores = {}
+    for category, topic_info in topics.items():
+        keywords = topic_info.get("keywords", [])
+        score = 0
+        matches = []
+        for kw in keywords:
+            count = text_lower.count(kw.lower())
+            if count > 0:
+                score += count
+                matches.append(kw)
+        if score > 0:
+            scores[category] = (score, matches)
+    
+    if not scores:
+        return {
+            "title_cn": "",
+            "title_en": "",
+            "summary": content[:80].replace("\n", " "),
+            "category": "Web-Clips",
+            "tags": ["needs-review"],
+            "quality": "medium",
+            "is_duplicate_likely": False,
+            "key_entities": []
+        }
+    
+    # Pick category with highest score
+    best_cat = max(scores, key=lambda k: scores[k][0])
+    score, matched_kws = scores[best_cat]
+    
+    # Extract title from first heading or first line
+    title_match = re.search(r'^#\s+(.+)', content, re.MULTILINE)
+    title = title_match.group(1).strip()[:30] if title_match else content.strip()[:30]
+    title = re.sub(r'[#*_~`\[\]]', '', title)
+    
+    # Build tags from matched keywords + category
+    tags = list(set(matched_kws[:5] + [best_cat]))
+    
+    return {
+        "title_cn": title,
+        "title_en": "",
+        "summary": content[:100].replace("\n", " ").strip(),
+        "category": best_cat,
+        "tags": tags,
+        "quality": "medium",
+        "is_duplicate_likely": False,
+        "key_entities": matched_kws[:3]
+    }
 def analyze_note(client, content, model="deepseek-reasoner", max_retries=3):
     """Analyze a note using DeepSeek API to extract metadata."""
     # Truncate content if too long (~4000 chars for context)
@@ -598,7 +655,7 @@ def process_inbox(client, config, dry_run=False):
 # Main Reorganization
 # ============================================================================
 
-def reorganize(config, client, dry_run=False, max_notes=0):
+def reorganize(config, client, dry_run=False, max_notes=0, keyword_mode=False):
     """Main reorganization pipeline."""
     vault_root = Path(config["paths"]["vault_root"])
     zettel_dirs = config["paths"]["zettelkasten_dirs"]
@@ -617,7 +674,7 @@ def reorganize(config, client, dry_run=False, max_notes=0):
         return
     
     # Phase 1: Analyze all notes
-    print(f"\n[ANALYZE] Phase 1: Analyzing notes with DeepSeek...")
+    print(f"\n[ANALYZE] Phase 1: Analyzing notes...")
     notes_metadata = {}
     embeddings = {}
     notes_by_category = defaultdict(list)
@@ -630,7 +687,7 @@ def reorganize(config, client, dry_run=False, max_notes=0):
         with ThreadPoolExecutor(max_workers=config["processing"]["max_workers"]) as executor:
             futures = {}
             for note_path in batch:
-                futures[executor.submit(_analyze_single_note, note_path, client, config)] = note_path
+                futures[executor.submit(_analyze_single_note, note_path, client, config, keyword_mode)] = note_path
             
             for future in as_completed(futures):
                 note_path = futures[future]
@@ -684,7 +741,7 @@ def reorganize(config, client, dry_run=False, max_notes=0):
     print(f"   Graph connections: {G.number_of_edges()}")
 
 
-def _analyze_single_note(note_path, client, config):
+def _analyze_single_note(note_path, client, config, keyword_mode=False):
     """Analyze a single note - used by ThreadPoolExecutor."""
     post = read_note(note_path)
     if not post:
@@ -694,13 +751,20 @@ def _analyze_single_note(note_path, client, config):
     if len(text) < 30:
         return None
     
-    # Analyze with DeepSeek
-    analysis = analyze_note(client, text, config.get("llm", config.get("deepseek", {}))["model"])
-    if not analysis:
-        return None
+    if keyword_mode:
+        analysis = keyword_categorize(text, config)
+    else:
+        analysis = analyze_note(client, text, config.get("llm", config.get("deepseek", {}))["model"])
+        if not analysis:
+            return None
     
-    # Get embedding for semantic search
-    embedding = get_embedding(client, text[:2000], config.get("llm", config.get("deepseek", {}))["embedding_model"])
+    # Get embedding for semantic search (skip if configured)
+    embedding = None
+    if not config["processing"].get("skip_embeddings", True) and client:
+        try:
+            embedding = get_embedding(client, text[:2000], config.get("llm", config.get("deepseek", {}))["embedding_model"])
+        except Exception:
+            pass
     
     # Build metadata
     metadata = build_note_metadata(post, analysis, note_path)
@@ -727,6 +791,7 @@ def main():
     parser.add_argument("--config", default="90_System/scripts/config.yaml", help="Path to config file")
     parser.add_argument("--batch-size", type=int, default=10, help="Batch size for API calls")
     parser.add_argument("--max-notes", type=int, default=0, help="Max notes to process (0=all, for testing)")
+    parser.add_argument("--keyword-mode", action="store_true", help="Use keyword-based categorization (no LLM needed)")
     
     args = parser.parse_args()
     
@@ -737,15 +802,11 @@ def main():
     
     # Setup DeepSeek client
     client = setup_llm_client(config)
-    if not client:
-        print("❌ Cannot proceed without DeepSeek API key.")
-        print("   Set DEEPSEEK_API_KEY environment variable or configure in config.yaml")
+    if not client and not args.keyword_mode:
+        print("ERROR: No API key found and --keyword-mode not set.")
+        print("   Use --keyword-mode for offline keyword-based categorization, or")
+        print("   set DEEPSEEK_API_KEY / configure API in config.yaml")
         sys.exit(1)
-    
-    print("=" * 60)
-    print("Obsidian Knowledge Base Reorganizer")
-    print("=" * 60)
-    
     if args.process_inbox:
         process_inbox(client, config, dry_run=args.dry_run)
     elif args.dedup:
@@ -782,13 +843,14 @@ def main():
         update_moc_pages(notes_by_category, config["paths"]["moc_dir"], dry_run=args.dry_run)
     else:
         # Full reorganization
-        reorganize(config, client, dry_run=args.dry_run, max_notes=args.max_notes)
+        reorganize(config, client, dry_run=args.dry_run, max_notes=args.max_notes, keyword_mode=args.keyword_mode)
     
     print("\nDone!")
 
 
 if __name__ == "__main__":
     main()
+
 
 
 
