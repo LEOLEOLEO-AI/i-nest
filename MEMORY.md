@@ -32,7 +32,7 @@
 
 - 学术信仰：大道至简（Complexity comes from Simplicity）
 - 核心“一”：自组织临界机制（Self-Organized Criticality）
-- 计算范式：TCC（拓扑中心计算）← 原 NCC
+- 计算范式：TCC（拓扑中心计算）← 原 TCC
 - 架构：SDI（软件定义互连）+ SDSoW
 - 三位一体：物理第一性 + 生物智能启迪 + 液态拓扑SDI化合键
 - 目标：把极简规则固化进SDI柔性韧带，让硅基网络自主涌现从线虫到超人类的智能

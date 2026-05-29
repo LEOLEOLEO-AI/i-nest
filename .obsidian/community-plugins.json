@@ -1,10 +1,6 @@
 [
   "obsidian-git",
-  "smart-connections",
-  "smart-lookup",
-  "obsidian-local-images-plus",
   "periodic-notes",
-  "obsidian-linter",
   "obsidian42-brat",
   "obsidian-clipper",
   "dataview",
@@ -12,5 +8,15 @@
   "obsidian-kanban",
   "omnisearch",
   "chinese-calendar",
-  "copilot"
+  "copilot",
+  "templater-obsidian",
+  "neural-composer",
+  "folderbridge",
+  "obsidian-importer",
+  "obsidian-linter",
+  "obsidian-local-images-plus",
+  "quickadd",
+  "smart-connections",
+  "smart-lookup",
+  "notebook-navigator"
 ]

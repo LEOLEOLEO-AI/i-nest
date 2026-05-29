@@ -1,27 +1,34 @@
-# Obsidian 插件编译产物（体积大，不需要版本控制）
-.obsidian/plugins/*/main.js
-.obsidian/plugins/*/styles.css
-.obsidian/plugins/*/data.json
+﻿# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Neural memory (contains API keys)
+.neural_memory/.env
+.neural_memory/.env.*
+
+# Neural database (large binary cache)
+.neural_db/chats/
+
+# Obsidian workspace state (volatile)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.obsidian/graph.json
 
-# Smart Env 向量缓存
+# System files
 .smart-env/
+.tasks/
 
-# 临时调试脚本
-.check_key.py
-.check_models.py
-.get_gsk_models.py
-.get_models.py
-.inspect_config.py
-.probe_*.py
-.update_models.py
-
-# 系统文件
+# OS files
 .DS_Store
 Thumbs.db
-*.tmp
+desktop.ini
 
-# 神经记忆缓存
-.neural_memory/
+# Obsidian community plugins cache
+.obsidian/plugins/*/data.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
