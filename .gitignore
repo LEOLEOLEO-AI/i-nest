@@ -41,3 +41,8 @@ desktop.ini
 # Legacy subvault (old git repo backup inside vault)
 90_System/legacy_subvault_git/
 90_System/legacy_subvault_obsidian/
+
+# Large binary files
+*.rar
+*.zip
+*.tar.gz
