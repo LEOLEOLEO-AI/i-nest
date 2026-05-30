@@ -1,5 +1,17 @@
-# TCC 计算范式 — 全景导航 (Map of Content)
-
+---
+title: TCC 计算范式 — 全景导航 (Map of Content)
+tags:
+- brain
+- criticality
+- emergence
+- free-energy-principle
+- neuroscience
+- paper
+- patent
+- project
+- self-organization
+- simulation
+---
 > 学术信仰：**大道至简** — 极简规则 × 自组织临界 → 复杂智能涌现
 > 最后更新：自动维护
 
@@ -56,3 +68,9 @@
 ## 🏥 知识库健康状态
 
 → 00_MOC/健康诊断-MOC
+
+## Related Notes
+
+- [[SDI — 软件定义互连（Software-Defined Interconnect）]]
+- [[晶上任务]]
+- [[iNEST 机构 — 全景导航 (Map of Content)]]

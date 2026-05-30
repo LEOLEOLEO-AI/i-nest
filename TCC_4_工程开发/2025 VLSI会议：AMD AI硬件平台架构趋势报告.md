@@ -205,3 +205,9 @@ AI的发展推动光学互连的应用，预计在计算层面也将很快采用
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 11:21*
+
+## Related Notes
+
+- [[哈密顿神经网络（HNN）深度研究：物理规律驱动的AI范式革命]]
+- [[Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为计算优势]]
+- [[imec在IMAPS会议报告：2.5D/3D器件的封装与组装挑战（技术解析）]]

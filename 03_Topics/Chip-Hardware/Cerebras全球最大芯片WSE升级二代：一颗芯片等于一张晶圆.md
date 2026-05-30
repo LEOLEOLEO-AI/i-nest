@@ -1,5 +1,16 @@
-# Cerebras全球最大芯片WSE升级二代：一颗芯片等于一张晶圆
-
+---
+title: Cerebras全球最大芯片WSE升级二代：一颗芯片等于一张晶圆
+tags:
+- brain
+- chip
+- chip-hardware
+- dynamics
+- neural-networks
+- neuroscience
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2021-04-26  
 

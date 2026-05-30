@@ -1,5 +1,17 @@
-# Tags
-
+---
+title: Tags
+tags:
+- brain
+- chip
+- chiplet
+- complex-networks
+- criticality
+- dynamics
+- embodied-ai
+- emergence
+- free-energy-principle
+- graph-neural-network
+---
 Generated: 2026-04-28 22:00:25
 
 ## #000

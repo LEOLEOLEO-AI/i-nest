@@ -1,5 +1,15 @@
-# 公开反驳！数据科学家直指DeepMind，“强化学习无法实现通用人工智能”
-
+---
+title: 公开反驳！数据科学家直指DeepMind，“强化学习无法实现通用人工智能”
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- neural-networks
+- neuroscience
+- paper
+- project
+---
 > 笔记本: 微信  
 > 创建时间: 2021-07-21  
 

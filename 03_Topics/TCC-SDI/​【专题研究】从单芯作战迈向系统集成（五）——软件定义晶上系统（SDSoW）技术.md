@@ -1,5 +1,17 @@
-# ​【专题研究】从单芯作战迈向系统集成（五）——软件定义晶上系统（SDSoW）技术
-
+---
+title: ​【专题研究】从单芯作战迈向系统集成（五）——软件定义晶上系统（SDSoW）技术
+tags:
+- brain
+- chip
+- chiplet
+- complex-networks
+- deep-learning
+- emergence
+- large-language-model
+- neuron
+- neuroscience
+- paper
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-08 05:23
 

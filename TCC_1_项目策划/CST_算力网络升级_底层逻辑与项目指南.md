@@ -1,5 +1,17 @@
-# CST思想指导下算力网络升级：底层逻辑与项目指南
-
+---
+title: CST思想指导下算力网络升级：底层逻辑与项目指南
+tags:
+- brain
+- chip
+- chiplet
+- criticality
+- dynamics
+- emergence
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+---
 **定位**：为大模型算力网络/数据中心网络引入CST网络时空复杂度思想，在任务级实现能效比、任务多样性、跨任务迁移适应性的系统级超线性提升  
 **版本**：v1.0 | 日期：2026-03-25  
 **受众**：网络领域 / 先进计算领域 / 微纳电子领域 申报决策层
@@ -330,3 +342,9 @@ CST视角（革命性重构）：
 ---
 
 *文件路径：`/home/work/.openclaw/workspace/CST仿真平台/CST_算力网络升级_底层逻辑与项目指南.md`*
+
+## Related Notes
+
+- [[Brain2与SNNGrow的关系？研究类脑智能涌现需要用什么工具？如何开发异步电路实现SNN？]]
+- [[忆阻器网络优化方案]]
+- [[智能算力]]

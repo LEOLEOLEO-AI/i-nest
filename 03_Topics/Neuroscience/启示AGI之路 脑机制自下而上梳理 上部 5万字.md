@@ -1,5 +1,17 @@
-# 启示AGI之路 : 脑机制自下而上梳理 上部 5万字
-
+---
+title: '启示AGI之路 : 脑机制自下而上梳理 上部 5万字'
+tags:
+- brain
+- brain-science
+- chiplet
+- criticality
+- deep-learning
+- dynamics
+- emergence
+- neural-networks
+- neuron
+- neuroscience
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-03-31  
 

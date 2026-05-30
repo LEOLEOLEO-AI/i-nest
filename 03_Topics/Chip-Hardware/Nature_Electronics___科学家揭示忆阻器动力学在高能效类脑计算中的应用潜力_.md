@@ -1,5 +1,17 @@
-# Nature Electronics | 科学家揭示忆阻器动力学在高能效类脑计算中的应用潜力！
-
+---
+title: Nature Electronics | 科学家揭示忆阻器动力学在高能效类脑计算中的应用潜力！
+tags:
+- brain
+- chip
+- chip-hardware
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- plasticity
+- semiconductor
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-15 01:02
 

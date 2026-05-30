@@ -1,3 +1,16 @@
+---
+title: 卷积神经网络之父、图灵奖得主杨立昆：为什么说他改变了AI的走向？
+tags:
+- ai-ml
+- artificial-intelligence
+- deep-learning
+- large-language-model
+- neural-networks
+- neuroscience
+- paper
+- project
+- survey
+---
 点击上方“**图灵人工智能**”，选择“星标”公众号
 
 您想知道的人工智能干货，第一时间送达
@@ -248,3 +261,9 @@ _本文参考：维基百科、百度百科、杨立昆公开演讲_
 9.[图灵奖得主杨立昆：大语言模型缺乏对物理世界的理解和推理能力，无法实现人类水平智能](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247669134&idx=1&sn=7020f248b24d7f0fd3308ad14a32755b&scene=21#wechat_redirect)
 
 10.[刚刚，Claude独立攻克图论猜想，仅用31步！算法祖师爷、图灵奖得主高德纳震惊发文](https://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247675480&idx=1&sn=75f627a1e1a9123856f17d83d4dff864&scene=21#wechat_redirect)
+
+## Related Notes
+
+- [[重庆邮电大学校长高新波教授：人工智能未来发展趋势分析]]
+- [[【深度】清华黄高等人新作：动态神经网络首篇综述]]
+- [[跟我学强化学习之四——神经网络]]

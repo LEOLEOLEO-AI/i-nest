@@ -1,5 +1,12 @@
-# AMD最大的芯片：13个Chiplet，1460亿晶体管
-
+---
+title: AMD最大的芯片：13个Chiplet，1460亿晶体管
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-01-05  
 

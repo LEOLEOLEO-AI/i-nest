@@ -1,5 +1,17 @@
-# Chiplet技术分析展望
-
+---
+title: Chiplet技术分析展望
+tags:
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- paper
+- project
+- semiconductor
+- topology
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-10-06  
 

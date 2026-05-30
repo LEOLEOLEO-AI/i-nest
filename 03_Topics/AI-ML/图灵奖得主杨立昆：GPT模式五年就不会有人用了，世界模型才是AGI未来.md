@@ -1,5 +1,16 @@
-# 图灵奖得主杨立昆：GPT模式五年就不会有人用了，世界模型才是AGI未来
-
+---
+title: 图灵奖得主杨立昆：GPT模式五年就不会有人用了，世界模型才是AGI未来
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- deep-learning
+- large-language-model
+- neural-networks
+- neuroscience
+- paper
+- robotics
+---
 > 笔记本: 微信  
 > 创建时间: 2023-06-09  
 
@@ -99,3 +110,9 @@
 
 
 点击阅读原文，了解更多
+
+## Related Notes
+
+- [[图灵奖得主、卷积神经网络之父Yann LeCun 的强人工智能路线图：自监督，推理，规划]]
+- [[重庆邮电大学校长高新波教授：人工智能未来发展趋势分析]]
+- [[卷积神经网络之父的强人工智能路线图：自监督，推理，规划]]

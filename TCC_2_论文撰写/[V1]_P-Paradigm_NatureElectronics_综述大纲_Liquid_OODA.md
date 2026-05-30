@@ -1,4 +1,10 @@
-# P-Paradigm 综述论文大纲 (Nature Electronics)
+---
+title: P-Paradigm 综述论文大纲 (Nature Electronics)
+tags:
+- large-language-model
+- paper
+- survey
+---
 ## Title: Liquid Hardware and the Topology-Centric Computing Paradigm: From Isomorphism Laws to Embodied AI
 **Authors:** Qinrang Liu et al.
 **Target Journal:** *Nature Electronics* (Perspective / Review)
@@ -35,3 +41,9 @@ The stagnation of Moore's Law and the rigid Node-Centric (von Neumann) paradigm 
 
 ---
 **Tags:** #NaaS #SDI
+
+## Related Notes
+
+- [[AGI通用智能发展的思考：是否存在足够通用的处理器？]]
+- [[Nature重磅：物理神经网络训练革命突破！]]
+- [[从物竞天择到智能进化，首篇自进化智能体综述的ASI之路]]

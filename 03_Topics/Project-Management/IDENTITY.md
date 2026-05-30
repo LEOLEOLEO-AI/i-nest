@@ -1,5 +1,8 @@
-# IDENTITY.md - Who Am I?
-
+---
+title: IDENTITY.md - Who Am I?
+tags:
+- project-management
+---
 _Fill this in during your first conversation. Make it yours._
 
 - **Name:**
@@ -21,3 +24,9 @@ Notes:
 
 - Save this file at the workspace root as `IDENTITY.md`.
 - For avatars, use a workspace-relative path like `avatars/openclaw.png`.
+
+## Related Notes
+
+- [[00_ADR_决策记录]]
+- [[00_Inbox 使用说明]]
+- [[ADR]]

@@ -1,5 +1,17 @@
-# Yann LeCun：发现智能原理是AI的终极问题 | 独家对话
-
+---
+title: Yann LeCun：发现智能原理是AI的终极问题 | 独家对话
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- deep-learning
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- synapse
+---
 > 笔记本: 微信  
 > 创建时间: 2022-01-10  
 

@@ -1,5 +1,16 @@
-# 清华大学硬件级注意力机制：类脑芯片突破AI能效瓶颈
-
+---
+title: 清华大学硬件级注意力机制：类脑芯片突破AI能效瓶颈
+tags:
+- attention-mechanism
+- brain
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- paper
+- robotics
+- semiconductor
+---
 - **类型**: link
 - **时间**: 2025-10-08 05:16:09
 - **标签**: AI链接笔记, 硬件注意力机制, 类脑芯片, 自动驾驶边缘计算

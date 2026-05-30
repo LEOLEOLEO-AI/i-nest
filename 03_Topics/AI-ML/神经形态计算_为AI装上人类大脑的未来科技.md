@@ -1,5 +1,17 @@
-# 神经形态计算：为AI装上人类大脑的未来科技
-
+---
+title: 神经形态计算：为AI装上人类大脑的未来科技
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- chiplet
+- complex-networks
+- neural-networks
+- neuron
+- neuroscience
+- synapse
+---
 - **类型**: link
 - **时间**: 2025-07-09 21:54:25
 - **标签**: AI链接笔记, 神经形态计算, 脉冲神经网络, AI能源危机, 低功耗AI

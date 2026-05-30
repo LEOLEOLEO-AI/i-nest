@@ -1,5 +1,16 @@
-# [Nature子刊]南开团队可重构类脑器件！把浮栅“劈开”一半存权重、一半做激活？
-
+---
+title: '[Nature子刊]南开团队可重构类脑器件！把浮栅“劈开”一半存权重、一半做激活？'
+tags:
+- brain
+- chip-hardware
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- semiconductor
+- synapse
+- wafer
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-09 00:22
 

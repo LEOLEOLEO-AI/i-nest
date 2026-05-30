@@ -1,5 +1,12 @@
-# Science：利用人工智能追溯大脑中基因控制元件的演化过程
-
+---
+title: Science：利用人工智能追溯大脑中基因控制元件的演化过程
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- paper
+- project
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-02-02 10:31
 

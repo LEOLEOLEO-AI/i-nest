@@ -1,5 +1,15 @@
-# 具身智能是通往AGI的必由之路？这七位头部创业者专家是这么说的
-
+---
+title: 具身智能是通往AGI的必由之路？这七位头部创业者专家是这么说的
+tags:
+- ai-ml
+- artificial-intelligence
+- criticality
+- embodied-ai
+- large-language-model
+- project
+- robotics
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-05-07  
 

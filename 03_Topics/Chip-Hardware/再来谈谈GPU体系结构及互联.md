@@ -1,5 +1,16 @@
-# 再来谈谈GPU体系结构及互联
-
+---
+title: 再来谈谈GPU体系结构及互联
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- paper
+- patent
+- semiconductor
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-14  
 

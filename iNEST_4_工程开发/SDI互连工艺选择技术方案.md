@@ -1,4 +1,12 @@
-# SDI互连芯粒工艺选择技术方案
+---
+title: SDI互连芯粒工艺选择技术方案
+tags:
+- chip
+- chiplet
+- patent
+- topology
+- wafer
+---
 ## ——从第一性原理证明28nm是最优工艺节点
 
 **文档版本**：v1.0（2026-03-27）  

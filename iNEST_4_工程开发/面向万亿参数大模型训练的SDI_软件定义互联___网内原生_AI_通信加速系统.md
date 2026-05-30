@@ -1,5 +1,14 @@
-# 面向万亿参数大模型训练的SDI 软件定义互联 + 网内原生 AI 通信加速系统
-
+---
+title: 面向万亿参数大模型训练的SDI 软件定义互联 + 网内原生 AI 通信加速系统
+tags:
+- brain
+- chip
+- large-language-model
+- paper
+- patent
+- project
+- topology
+---
 - **类型**: plain_text
 - **时间**: 2026-03-15 07:59:47
 

@@ -1,5 +1,14 @@
-# 类脑芯片聚力畜牧未来：时识科技（SynSense）携手产业生态共拓动物智能穿戴新蓝海
-
+---
+title: 类脑芯片聚力畜牧未来：时识科技（SynSense）携手产业生态共拓动物智能穿戴新蓝海
+tags:
+- brain
+- chip
+- chip-hardware
+- neural-networks
+- neuroscience
+- robotics
+- semiconductor
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-26 01:08
 

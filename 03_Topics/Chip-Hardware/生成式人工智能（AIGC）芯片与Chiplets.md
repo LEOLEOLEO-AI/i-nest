@@ -1,5 +1,17 @@
-# 生成式人工智能（AIGC）芯片与Chiplets
-
+---
+title: 生成式人工智能（AIGC）芯片与Chiplets
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- emergence
+- neural-networks
+- neuroscience
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-07-31  
 

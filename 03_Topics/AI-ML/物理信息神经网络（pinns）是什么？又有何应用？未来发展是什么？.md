@@ -1,5 +1,14 @@
-# 物理信息神经网络（pinns）是什么？又有何应用？未来发展是什么？
-
+---
+title: 物理信息神经网络（pinns）是什么？又有何应用？未来发展是什么？
+tags:
+- ai-ml
+- artificial-intelligence
+- deep-learning
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-10-24  
 
@@ -234,3 +243,9 @@ PINNs将物理定律与数据驱动洞察相结合的能力，使其在多个领
 **关注小墨**
 
 **获取最新AI技能+最肝AI干货**
+
+## Related Notes
+
+- [[【深度】清华黄高等人新作：动态神经网络首篇综述]]
+- [[八大神经网络，从原理到应用]]
+- [[物理神经网络训练―从物理系统到人工智能]]

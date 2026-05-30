@@ -1,5 +1,16 @@
-# 谈谈「Chiplet」
-
+---
+title: 谈谈「Chiplet」
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- emergence
+- paper
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-11-07  
 

@@ -1,5 +1,11 @@
-# 英伟达下一代GPU，或全面拥抱Chiplet
-
+---
+title: 英伟达下一代GPU，或全面拥抱Chiplet
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2023-09-18  
 

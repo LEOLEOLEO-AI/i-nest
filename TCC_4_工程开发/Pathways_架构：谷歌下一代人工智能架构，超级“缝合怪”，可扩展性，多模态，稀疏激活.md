@@ -1,5 +1,12 @@
-# Pathways 架构：谷歌下一代人工智能架构，超级“缝合怪”，可扩展性，多模态，稀疏激活
-
+---
+title: Pathways 架构：谷歌下一代人工智能架构，超级“缝合怪”，可扩展性，多模态，稀疏激活
+tags:
+- brain
+- neural-networks
+- neuron
+- neuroscience
+- transformer
+---
 > 笔记本: 微信  
 > 创建时间: 2024-06-06  
 
@@ -85,3 +92,9 @@ PolyViT 模型能够执行跨越不同模态的多个任务，并且一次处理
 [[2001.08361] Scaling Laws for Neural Language Models (arxiv.org)](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2001.08361)
 [[2111.12993] PolyViT: Co-training Vision Transformers on Images, Videos and Audio (arxiv.org)](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2111.12993)
 [[2112.06905] GLaM: Efficient Scaling of Language Models with Mixture-of-Experts (arxiv.org)](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2112.06905)
+
+## Related Notes
+
+- [[Anthropic用“AI显微镜”扒开Claude“大脑结构”，揭示语言模型行为背后机制]]
+- [[Nature Machine Intelligence | 卷积网络天生与大脑视觉皮层对齐？约翰霍普金斯大学研究颠覆AI视觉认知]]
+- [[【深度】清华黄高等人新作：动态神经网络首篇综述]]

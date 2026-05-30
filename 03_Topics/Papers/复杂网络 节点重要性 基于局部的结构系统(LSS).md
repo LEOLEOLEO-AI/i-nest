@@ -1,5 +1,12 @@
-# 复杂网络|节点重要性|基于局部的结构系统(LSS)
-
+---
+title: 复杂网络|节点重要性|基于局部的结构系统(LSS)
+tags:
+- complex-networks
+- literature
+- paper
+- simulation
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-11-29  
 
@@ -101,3 +108,9 @@ LSS的伪代码如下：
 
 【文章链接】https://doi.org/10.1016/j.eswa.2023.120326
 【期刊介绍】EXPERT SYSTEMS WITH APPLICATIONS, IF(2024)=7.5, JCR Q1, 中科院1区Top, 年发文量3150
+
+## Related Notes
+
+- [[The Topology of Local Computing in Networks]]
+- [[海河实验室2026年度重大专项项目申报书]]
+- [[海河实验室项目指南（2026年度重大专项）]]

@@ -1,5 +1,17 @@
-# iNEST 全景知识图谱 (Master Index)
-
+---
+title: iNEST 全景知识图谱 (Master Index)
+tags:
+- brain
+- chip
+- chiplet
+- complex-networks
+- criticality
+- deep-learning
+- dynamics
+- embodied-ai
+- emergence
+- free-energy-principle
+---
 > **生成时间**: 2026-04-06
 > **架构标准**: Karpathy-style Flat Structure + Obsidian Wiki-links (`[[ ]]`)
 

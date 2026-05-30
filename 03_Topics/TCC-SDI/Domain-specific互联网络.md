@@ -1,5 +1,11 @@
-# Domain-specific互联网络
-
+---
+title: Domain-specific互联网络
+tags:
+- large-language-model
+- software-defined
+- tcc-sdi
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-09-05  
 

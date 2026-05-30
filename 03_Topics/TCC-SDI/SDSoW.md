@@ -1,5 +1,10 @@
-# SDSoW — 软件定义系统网络（Software-Defined System on Web）
-
+---
+title: SDSoW — 软件定义系统网络（Software-Defined System on Web）
+tags:
+- software-defined
+- tcc-sdi
+- topology
+---
 > SDI 的物理实现层
 
 ## 定义

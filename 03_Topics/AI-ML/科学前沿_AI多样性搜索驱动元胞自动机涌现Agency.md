@@ -1,5 +1,16 @@
-# 科学前沿：AI多样性搜索驱动元胞自动机涌现Agency
-
+---
+title: 科学前沿：AI多样性搜索驱动元胞自动机涌现Agency
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- dynamics
+- embodied-ai
+- emergence
+- large-language-model
+- paper
+- self-organization
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-26 21:49
 
@@ -61,3 +72,9 @@
 
 ---
 **Tags:** CST
+
+## Related Notes
+
+- [[具身人工智能全面综述]]
+- [[《人民日报》刊发高文主任署名文章《抢抓人工智能发展的历史性机遇——深刻领会习近平总书记关于人工智能的重要论述》]]
+- [[300″ | 将世界压缩入模型：自动驾驶大战决赛缩圈，谁能吃下万亿具身智能蛋糕？]]

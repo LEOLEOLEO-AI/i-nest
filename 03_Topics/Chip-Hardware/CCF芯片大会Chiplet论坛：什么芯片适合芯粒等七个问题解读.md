@@ -1,5 +1,11 @@
-# CCF芯片大会Chiplet论坛：什么芯片适合芯粒等七个问题解读
-
+---
+title: CCF芯片大会Chiplet论坛：什么芯片适合芯粒等七个问题解读
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2022-08-23  
 

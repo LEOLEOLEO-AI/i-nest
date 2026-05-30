@@ -1,5 +1,17 @@
-# 荷兰科学家长文综述！MM丨脉冲神经形态计算：从生物启发到硬件架构与学习机制的全面综述
-
+---
+title: 荷兰科学家长文综述！MM丨脉冲神经形态计算：从生物启发到硬件架构与学习机制的全面综述
+tags:
+- brain
+- chip
+- deep-learning
+- dynamics
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- plasticity
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-14 05:09
 

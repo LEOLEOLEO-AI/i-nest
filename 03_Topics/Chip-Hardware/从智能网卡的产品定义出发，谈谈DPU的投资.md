@@ -1,5 +1,12 @@
-# 从智能网卡的产品定义出发，谈谈DPU的投资
-
+---
+title: 从智能网卡的产品定义出发，谈谈DPU的投资
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2021-08-11  
 

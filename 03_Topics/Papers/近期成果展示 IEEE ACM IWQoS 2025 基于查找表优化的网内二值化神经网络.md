@@ -1,5 +1,13 @@
-# 近期成果展示 | IEEE/ACM IWQoS 2025 | 基于查找表优化的网内二值化神经网络
-
+---
+title: 近期成果展示 | IEEE/ACM IWQoS 2025 | 基于查找表优化的网内二值化神经网络
+tags:
+- chip
+- literature
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-20  
 
@@ -115,3 +123,9 @@
 图文：徐绍伟
 编辑：林为伟
 校对：朱丹红终审：张栋
+
+## Related Notes
+
+- [[2026年Nature子刊重磅：二维材料同质集成光电神经元与铁电突触实现神经形态视觉系统]]
+- [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
+- [[[Nature综述] 神经形态计算的“AlexNet时刻”到了吗？全球顶尖学者联合发布万字路线图，剑指“亿级”类脑互联]]

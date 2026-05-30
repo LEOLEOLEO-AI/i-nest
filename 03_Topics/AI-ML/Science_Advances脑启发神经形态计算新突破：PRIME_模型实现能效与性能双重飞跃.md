@@ -1,5 +1,17 @@
-# Science Advances脑启发神经形态计算新突破：PRIME 模型实现能效与性能双重飞跃
-
+---
+title: Science Advances脑启发神经形态计算新突破：PRIME 模型实现能效与性能双重飞跃
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- chiplet
+- neural-networks
+- neuroscience
+- plasticity
+- project
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-11-25  
 

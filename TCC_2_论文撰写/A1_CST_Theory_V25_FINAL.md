@@ -1,4 +1,11 @@
-
+---
+title: 'From Compute to Complexity: A Physical Theory of Intelligence Emergence and Its Implications for Artificial General Intelligence'
+tags:
+- attention-mechanism
+- chiplet
+- large-language-model
+- transformer
+---
 # From Compute to Complexity: A Physical Theory of Intelligence Emergence and Its Implications for Artificial General Intelligence
 
 Qinrang Liu (刘勤让)¹*
@@ -607,3 +614,9 @@ Tags: #BrainInspired #CST #SDSoW #SDI #Chiplet
 
 
 ## V25 GENERATION COMPLETE
+
+## Related Notes
+
+- [[A Unified Theory of Intelligence Emergence from Spatiotemporal Network Complexity]]
+- [[RISC-V 架构下 SDI 智算互联系统设计：面向 LLM 低延迟推理与训练]]
+- [[英伟达GB200架构解析1: 互联架构和未来演进]]

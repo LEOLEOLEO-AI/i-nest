@@ -1,5 +1,17 @@
-# iNEST 课题组 SDI 演化仿真平台 (SDI Simulator) 推进策略 (v22升级版)
-
+---
+title: iNEST 课题组 SDI 演化仿真平台 (SDI Simulator) 推进策略 (v22升级版)
+tags:
+- brain
+- criticality
+- emergence
+- free-energy-principle
+- large-language-model
+- paper
+- self-organization
+- simulation
+- synapse
+- topology
+---
 > **指挥官（刘老师）定调**：
 > 第一阶段（纯理论）：验证 CST 值与物种智能等级的单调性及阈值相变（已完成并在第一篇论文中确立）。
 > 第二阶段（工程验证/演化机制）：在数字世界中，通过 STDP、最小自由能 (FEP)、最小作用量等物理机制，**让一个初始随机的网络在与外部数据的交互中“自我进化”**。要通过调整 SDI 化合键的物理实现方式，让它能自主涌现出类似线虫、果蝇、甚至灵长类大脑的拓扑特征（即 $\sigma$ 和 $\tau$）。
@@ -46,3 +58,9 @@
    绝不一开始就跑 100k 的果蝇脑。我先用 $N=1000$ 的随机初始化网络，喂入高频泊松脉冲。只调“自适应 $\theta$ 周期函数”这一个模块，看它能否自动稳定在 $\tau \approx 1.5$ 临界态附近。
 3. **每日大模型对数回归**：
    我会记录每次仿真结束的 $(\sigma, \tau)$ 轨迹，自动作图。如果您在图上看到它开始逼近目标物种区域（C.elegans 的区域），我就固化该公式。
+
+## Related Notes
+
+- [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+- [[TCC 计算范式 — 全景导航 (Map of Content)]]
+- [[吴华强团队与iNEST技术互补]]

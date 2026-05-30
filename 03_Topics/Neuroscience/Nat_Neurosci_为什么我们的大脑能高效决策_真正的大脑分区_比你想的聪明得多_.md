@@ -1,5 +1,12 @@
-# Nat Neurosci：为什么我们的大脑能高效决策？真正的大脑分区，比你想的聪明得多！
-
+---
+title: Nat Neurosci：为什么我们的大脑能高效决策？真正的大脑分区，比你想的聪明得多！
+tags:
+- brain
+- brain-science
+- neuron
+- neuroscience
+- self-organization
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-25 04:05
 

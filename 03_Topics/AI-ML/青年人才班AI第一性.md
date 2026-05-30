@@ -1014,3 +1014,9 @@ Gemini 2.5 pro
 
 ---
 *来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 10:22*
+
+## Related Notes
+
+- [[CopyTCC：面向AI与HPC的Γst=1拓扑中心计算架构]]
+- [[OFC2026：AI Scale-Up互连的技术路线与产业化进展]]
+- [[从器件特性到网络动力学演化机理研究]]

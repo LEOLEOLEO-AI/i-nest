@@ -1,5 +1,17 @@
-# 吴华强团队与iNEST技术互补
-
+---
+title: 吴华强团队与iNEST技术互补
+tags:
+- brain
+- chip-hardware
+- complex-networks
+- criticality
+- emergence
+- paper
+- plasticity
+- self-organization
+- semiconductor
+- simulation
+---
 - **类型**: plain_text
 - **时间**: 2026-01-25 18:45:45
 

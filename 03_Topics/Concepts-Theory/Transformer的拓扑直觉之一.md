@@ -1,5 +1,16 @@
-# Transformer的拓扑直觉之一
-
+---
+title: Transformer的拓扑直觉之一
+tags:
+- attention-mechanism
+- concepts-theory
+- criticality
+- dynamics
+- emergence
+- fundamentals
+- large-language-model
+- topology
+- transformer
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-16 10:10
 

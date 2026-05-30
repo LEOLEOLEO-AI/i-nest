@@ -1,5 +1,17 @@
-# 【Nature Communications】机器人也能“长记性”：基于三阶忆阻器的人工感觉神经系统，实现仿生习惯化与敏化
-
+---
+title: 【Nature Communications】机器人也能“长记性”：基于三阶忆阻器的人工感觉神经系统，实现仿生习惯化与敏化
+tags:
+- brain
+- chip-hardware
+- chiplet
+- neuron
+- neuroscience
+- plasticity
+- robotics
+- semiconductor
+- simulation
+- synapse
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2026-01-25  
 

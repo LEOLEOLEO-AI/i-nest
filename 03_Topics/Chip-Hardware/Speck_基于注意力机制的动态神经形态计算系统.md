@@ -1,5 +1,17 @@
-# Speck：基于注意力机制的动态神经形态计算系统
-
+---
+title: Speck：基于注意力机制的动态神经形态计算系统
+tags:
+- brain
+- chip
+- chip-hardware
+- neural-networks
+- neuron
+- neuroscience
+- robotics
+- semiconductor
+- simulation
+- synapse
+---
 - **类型**: link
 - **时间**: 2025-08-23 06:19:05
 - **标签**: AI链接笔记, 神经形态计算, 动态SNN, 注意力机制

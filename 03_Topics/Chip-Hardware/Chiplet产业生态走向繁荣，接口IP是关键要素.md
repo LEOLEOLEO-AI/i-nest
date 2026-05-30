@@ -1,5 +1,12 @@
-# Chiplet产业生态走向繁荣，接口IP是关键要素
-
+---
+title: Chiplet产业生态走向繁荣，接口IP是关键要素
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-08-15  
 

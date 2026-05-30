@@ -1,5 +1,17 @@
-# 基于EthZ的以太网ScaleUP互联方案
-
+---
+title: 基于EthZ的以太网ScaleUP互联方案
+tags:
+- chiplet
+- concepts-theory
+- fundamentals
+- graph-neural-network
+- large-language-model
+- neural-networks
+- neuroscience
+- paper
+- patent
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-09-11  
 

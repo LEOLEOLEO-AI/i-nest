@@ -117,3 +117,9 @@ References (15)
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 08:55*
+
+## Related Notes
+
+- [[Chiplet-Based Systems and Heterogeneous Integration: Enabling AI, HPC, and Post-Moore Computing]]
+- [[AgentEvolver vs AlphaEvolve：AI自我进化的两条核心路线对比 🧠]]
+- [[AI编码代理的质的飞跃：v3.3透明化与v3.4连续性技术解析]]

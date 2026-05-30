@@ -1,5 +1,13 @@
-# Chiplet的首要任务是驾驭互联的复杂性
-
+---
+title: Chiplet的首要任务是驾驭互联的复杂性
+tags:
+- chip
+- chip-hardware
+- chiplet
+- emergence
+- semiconductor
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-02-29  
 

@@ -1,5 +1,14 @@
-# 用于智算场景的Scale-up互联技术分析
-
+---
+title: 用于智算场景的Scale-up互联技术分析
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- paper
+- semiconductor
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-09-10  
 

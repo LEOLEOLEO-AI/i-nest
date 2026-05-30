@@ -1,5 +1,13 @@
-# 最新Nature发文丨台积电联手台湾清华大学Meng-Fan Chang课题组：混合精度忆阻器与SRAM存内计算AI处理器
-
+---
+title: 最新Nature发文丨台积电联手台湾清华大学Meng-Fan Chang课题组：混合精度忆阻器与SRAM存内计算AI处理器
+tags:
+- chip
+- chip-hardware
+- chiplet
+- paper
+- semiconductor
+- survey
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-04-25  
 

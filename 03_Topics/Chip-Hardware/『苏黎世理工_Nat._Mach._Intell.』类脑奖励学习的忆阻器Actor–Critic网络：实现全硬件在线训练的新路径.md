@@ -1,5 +1,13 @@
-# 『苏黎世理工 Nat. Mach. Intell.』类脑奖励学习的忆阻器Actor–Critic网络：实现全硬件在线训练的新路径
-
+---
+title: 『苏黎世理工 Nat. Mach. Intell.』类脑奖励学习的忆阻器Actor–Critic网络：实现全硬件在线训练的新路径
+tags:
+- brain
+- chip-hardware
+- neuroscience
+- robotics
+- semiconductor
+- synapse
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-12-19  
 

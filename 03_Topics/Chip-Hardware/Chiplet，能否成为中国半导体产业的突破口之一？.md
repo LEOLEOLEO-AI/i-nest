@@ -1,5 +1,12 @@
-# Chiplet，能否成为中国半导体产业的突破口之一？
-
+---
+title: Chiplet，能否成为中国半导体产业的突破口之一？
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2022-05-13  
 

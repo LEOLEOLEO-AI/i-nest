@@ -1,5 +1,17 @@
-# OpenAI 重金押注的「类脑」AI 芯片，到底是什么？
-
+---
+title: OpenAI 重金押注的「类脑」AI 芯片，到底是什么？
+tags:
+- brain
+- chip
+- chip-hardware
+- large-language-model
+- neural-networks
+- neuroscience
+- project
+- robotics
+- semiconductor
+- synapse
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-12-06  
 
@@ -433,3 +445,9 @@ OpenAI 重金押注的「类脑」AI 芯片，到底是什么？
  
 
  人划线
+
+## Related Notes
+
+- [[Hala Point：英特尔打造全球最大“类脑”计算系统]]
+- [[Hala Point：英特尔打造全球最大“类脑”计算系统]]
+- [[Speck：基于注意力机制的动态神经形态计算系统]]

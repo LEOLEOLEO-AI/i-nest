@@ -1,5 +1,17 @@
-# Nature 2025综述深度解析：神经形态计算的规模化革命与"AlexNet时刻"前瞻
-
+---
+title: Nature 2025综述深度解析：神经形态计算的规模化革命与"AlexNet时刻"前瞻
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- chiplet
+- criticality
+- deep-learning
+- large-language-model
+- neural-networks
+- neuron
+---
 - **类型**: link
 - **时间**: 2026-01-20 06:31:29
 - **标签**: AI链接笔记, 神经形态计算, 脉冲神经网络(SNN), 大规模扩展

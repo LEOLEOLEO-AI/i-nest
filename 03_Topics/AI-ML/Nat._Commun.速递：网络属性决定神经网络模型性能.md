@@ -1,5 +1,17 @@
-# Nat. Commun.速递：网络属性决定神经网络模型性能
-
+---
+title: Nat. Commun.速递：网络属性决定神经网络模型性能
+tags:
+- ai-ml
+- artificial-intelligence
+- chiplet
+- complex-networks
+- deep-learning
+- dynamics
+- emergence
+- large-language-model
+- neural-networks
+- neuron
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-07-22  
 

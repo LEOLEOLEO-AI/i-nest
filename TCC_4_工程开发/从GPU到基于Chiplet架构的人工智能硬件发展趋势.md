@@ -1,5 +1,11 @@
-# 从GPU到基于Chiplet架构的人工智能硬件发展趋势
-
+---
+title: 从GPU到基于Chiplet架构的人工智能硬件发展趋势
+tags:
+- chip
+- chiplet
+- simulation
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-12-22  
 

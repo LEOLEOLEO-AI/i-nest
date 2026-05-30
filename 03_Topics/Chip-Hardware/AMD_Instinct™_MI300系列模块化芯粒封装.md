@@ -1,5 +1,11 @@
-# AMD Instinct™ MI300系列模块化芯粒封装
-
+---
+title: AMD Instinct™ MI300系列模块化芯粒封装
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-06-10  
 

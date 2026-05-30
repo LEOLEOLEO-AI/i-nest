@@ -1,5 +1,15 @@
-# Nature Machine Intelligence | 卷积网络天生与大脑视觉皮层对齐？约翰霍普金斯大学研究颠覆AI视觉认知
-
+---
+title: Nature Machine Intelligence | 卷积网络天生与大脑视觉皮层对齐？约翰霍普金斯大学研究颠覆AI视觉认知
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- deep-learning
+- neural-networks
+- neuron
+- neuroscience
+- transformer
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-11-16  
 
@@ -300,3 +310,9 @@ LifeNexAI
 
 你可以补充投诉原因（选填）
 确定
+
+## Related Notes
+
+- [[Nature Communications | 人脑启发的脉冲神经网络实现双倍鲁棒性，能耗降低80%]]
+- [[【深度】清华黄高等人新作：动态神经网络首篇综述]]
+- [[美国国家科学院院刊 (PNAS) | 脑启发神经环路演化赋能脉冲神经网络创新]]

@@ -1,5 +1,11 @@
-# Loss 才是涌现的关键，而非模型参数
-
+---
+title: Loss 才是涌现的关键，而非模型参数
+tags:
+- ai-ml
+- artificial-intelligence
+- emergence
+- paper
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-04-19  
 
@@ -67,3 +73,9 @@ BrierScore 是《Are Emergent Abilities of Large Language Models a Mirage?》中
 
 ---
 **Tags:** CST
+
+## Related Notes
+
+- [[大模型：泛化即智能，压缩即一切]]
+- [[具身智能：通向人类智慧的未来之路｜智能渐近线]]
+- [[AGI通用智能发展的思考：是否存在足够通用的处理器？]]

@@ -1,5 +1,13 @@
-# 解读：《GPU卡间互联OISA系统研究》
-
+---
+title: 解读：《GPU卡间互联OISA系统研究》
+tags:
+- chip
+- chip-hardware
+- large-language-model
+- project
+- semiconductor
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-10-13  
 

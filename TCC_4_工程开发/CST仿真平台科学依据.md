@@ -1,5 +1,17 @@
-# CST仿真平台科学依据
-
+---
+title: CST仿真平台科学依据
+tags:
+- brain
+- chip
+- complex-networks
+- criticality
+- dynamics
+- emergence
+- free-energy-principle
+- large-language-model
+- neuron
+- neuroscience
+---
 **文档定位**：CST网络时空协同复杂度仿真平台的基础说明文件与科学依据汇编  
 **版本**：v1.0  
 **日期**：2026-03-25  
@@ -615,3 +627,9 @@ IE三元指标：
 
 *文档路径：`/home/work/.openclaw/workspace/知识库_网络超线性增益/CST仿真平台科学依据.md`*  
 *关联文档：知识库文件01-13，仿真代码sdi_sim/，CST_Papers/论文v19*
+
+## Related Notes
+
+- [[国家重大专项项目布局 · 立项名称重构]]
+- [[TCC与INEST：2026全局论文与专利战略规划清单]]
+- [[NSR专题：人类大脑计算与类脑智能（特邀编辑：冯建峰、Viktor Jirsa）]]

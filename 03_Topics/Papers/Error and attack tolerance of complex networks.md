@@ -36,3 +36,9 @@ Extend the framework to incorporate: 1) Adaptive networks where nodes/links can 
 - The role of network topology beyond degree distribution (e.g., clustering, community structure, spatial embedding) in robustness.
 - Robustness of network functionality beyond simple connectivity (e.g., routing efficiency, dynamical processes on networks).
 - Empirical validation across a wider range of real-world socio-technical and biological systems.
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

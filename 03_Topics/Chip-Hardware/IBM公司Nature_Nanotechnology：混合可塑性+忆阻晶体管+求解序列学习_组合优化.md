@@ -1,5 +1,16 @@
-# IBM公司Nature Nanotechnology：混合可塑性+忆阻晶体管+求解序列学习/组合优化
-
+---
+title: IBM公司Nature Nanotechnology：混合可塑性+忆阻晶体管+求解序列学习/组合优化
+tags:
+- chip-hardware
+- chiplet
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- plasticity
+- semiconductor
+- synapse
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-26  
 

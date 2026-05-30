@@ -1,5 +1,14 @@
-# 晶圆级SDI互联架构与最优扇出高维拓扑：面向大模型的网内计算设计
-
+---
+title: 晶圆级SDI互联架构与最优扇出高维拓扑：面向大模型的网内计算设计
+tags:
+- chiplet
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+- topology
+- wafer
+---
 - **类型**: plain_text
 - **时间**: 2026-03-13 18:59:20
 

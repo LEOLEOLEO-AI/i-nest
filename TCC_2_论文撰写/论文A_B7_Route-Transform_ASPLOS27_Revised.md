@@ -1,5 +1,9 @@
-# Paper A (B7): Route≡Transform: A Unified Algebraic Theory of Communication and Computation Primitives for Topology-Centric Computing
-
+---
+title: 'Paper A (B7): Route≡Transform: A Unified Algebraic Theory of Communication and Computation Primitives for Topology-Centric Computing'
+tags:
+- large-language-model
+- transformer
+---
 # 目标：ASPLOS 2027 September cycle | 截止：2026年9月9日
 
 ---
@@ -67,3 +71,9 @@ Implemented on Xilinx VCK190. Discusses the SDI controller, context switching ($
 
 ## §7 Related Work & §8 Conclusion
 (Omitted for brevity in this draft)
+
+## Related Notes
+
+- [[Anthropic用“AI显微镜”扒开Claude“大脑结构”，揭示语言模型行为背后机制]]
+- [[GNN图神经网络，非结构化数据分析利器！]]
+- [[Nature重磅：物理神经网络训练革命突破！]]

@@ -1,5 +1,14 @@
-# 打破中国半导体“依赖症”，从Chiplet做起
-
+---
+title: 打破中国半导体“依赖症”，从Chiplet做起
+tags:
+- chip
+- chip-hardware
+- chiplet
+- criticality
+- patent
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-04-12  
 

@@ -1,5 +1,15 @@
-# Nature Communications | 如何用连接组拓扑解释皮层动态的复杂频率梯度？
-
+---
+title: Nature Communications | 如何用连接组拓扑解释皮层动态的复杂频率梯度？
+tags:
+- brain
+- brain-science
+- dynamics
+- emergence
+- neuron
+- neuroscience
+- paper
+- topology
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-08 18:50
 
@@ -171,3 +181,9 @@ Fig. 9 | Alpha- and beta-subnetworks match resting-state MEG effective frequency
 
 ---
 **Tags:** CST
+
+## Related Notes
+
+- [[大脑中的吸引子：从混沌到记忆的动力学秘密]]
+- [[神经复杂系统前沿：关于认知大脑的两种观念]]
+- [[自由能原理：统一生命与大脑的功能理论]]

@@ -1,5 +1,17 @@
-# 关于设立"极低轨卫星智能体工程"国家重大科技专项的建议
-
+---
+title: 关于设立"极低轨卫星智能体工程"国家重大科技专项的建议
+tags:
+- chip
+- chiplet
+- complex-networks
+- criticality
+- dynamics
+- emergence
+- large-language-model
+- patent
+- project
+- software-defined
+---
 **呈报：** 有关领导
 **建议人：** 邬江兴院士团队、天津大学 刘勤让
 **日期：** 2026年3月

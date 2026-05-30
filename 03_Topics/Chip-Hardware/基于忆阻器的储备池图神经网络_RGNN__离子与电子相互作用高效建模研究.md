@@ -1,5 +1,17 @@
-# 基于忆阻器的储备池图神经网络（RGNN）：离子与电子相互作用高效建模研究
-
+---
+title: 基于忆阻器的储备池图神经网络（RGNN）：离子与电子相互作用高效建模研究
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- dynamics
+- graph-neural-network
+- neural-networks
+- neuroscience
+- paper
+- semiconductor
+---
 - **类型**: link
 - **时间**: 2026-01-14 16:20:21
 - **标签**: AI链接笔记, 储备池计算(RC), 忆阻器(RRAM), 图神经网络(GNN)

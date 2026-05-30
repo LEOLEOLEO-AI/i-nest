@@ -1,5 +1,10 @@
-# Web-Clips — 全景导航 (Map of Content)
-
+---
+title: Web-Clips — 全景导航 (Map of Content)
+tags:
+- brain
+- neuroscience
+- self-organization
+---
 > 自动生成 | 最后更新: 2026-05-30 00:29
 > 包含 54 条笔记
 

@@ -1,5 +1,13 @@
-# 先进封装/Chiplet对大陆半导体的战略意义
-
+---
+title: 先进封装/Chiplet对大陆半导体的战略意义
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- semiconductor
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-08-04  
 

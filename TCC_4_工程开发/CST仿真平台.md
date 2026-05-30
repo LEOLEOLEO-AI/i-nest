@@ -1,5 +1,17 @@
-# CST仿真平台
-
+---
+title: CST仿真平台
+tags:
+- criticality
+- emergence
+- large-language-model
+- neuron
+- neuroscience
+- paper
+- simulation
+- survey
+- synapse
+- topology
+---
 **CST网络时空协同复杂度仿真平台**  
 iNEST研究团队 · 天津大学微电子学院  
 版本：v1.0 | 日期：2026-03-25
@@ -102,3 +114,9 @@ python3 build_report.py
 核心数据来源请同时引用：
 - Varshney et al. (2011). PLOS Comp Biol. DOI:10.1371/journal.pcbi.1001066
 - Beggs & Plenz (2003). J. Neurosci. DOI:10.1523/JNEUROSCI.23-35-11167.2003
+
+## Related Notes
+
+- [[iNEST 机构 — 全景导航 (Map of Content)]]
+- [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
+- [[你的大脑如何“连线”？科学家在纳米尺度研究神经网络]]

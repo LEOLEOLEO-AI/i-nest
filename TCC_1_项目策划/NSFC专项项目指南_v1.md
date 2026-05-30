@@ -1,4 +1,17 @@
-# 国家自然科学基金（NSFC）专项 · 项目指南
+---
+title: 国家自然科学基金（NSFC）专项 · 项目指南
+tags:
+- brain
+- chip
+- complex-networks
+- criticality
+- dynamics
+- emergence
+- free-energy-principle
+- neural-networks
+- neuroscience
+- paper
+---
 > 方向：基础理论研究 / 重大研究计划 / 重大项目  
 > 申报特点：强调科学问题原创性、数学严谨性、跨学科融合  
 > 版本：2026-03-23
@@ -184,3 +197,9 @@ NSFC与科技部专项的根本区别：
 **总计：约2800万—5000万**
 
 > **关键提示：** 项目一与项目四建议捆绑申报"脑与类脑"重大研究计划集成项目，以"物理复杂网络相变理论（天大）× 忆阻器实验验证（苏州实验室）"的双机构联合模式，显著提升竞争力。
+
+## Related Notes
+
+- [[Concepts-Theory — 全景导航 (Map of Content)]]
+- [[iNEST 论文总清单（唯一主文件）]]
+- [[量子元胞自动机中涌现小世界网络特性]]

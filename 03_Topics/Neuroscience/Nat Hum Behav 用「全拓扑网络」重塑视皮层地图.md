@@ -1,5 +1,16 @@
-# Nat Hum Behav | 用「全拓扑网络」重塑视皮层地图
-
+---
+title: Nat Hum Behav | 用「全拓扑网络」重塑视皮层地图
+tags:
+- brain
+- brain-science
+- dynamics
+- emergence
+- neuroscience
+- paper
+- self-organization
+- synapse
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-10-10  
 
@@ -120,3 +131,9 @@ Tim C. Kietzmann, Machine Learning Group, Institute for Cognitive Science, Osnab
 
 ---
 **Tags:** CST
+
+## Related Notes
+
+- [[基于SDI的物理Synapse与NN]]
+- [[三种信息动力学：如何识别元胞自动机中的涌现？]]
+- [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

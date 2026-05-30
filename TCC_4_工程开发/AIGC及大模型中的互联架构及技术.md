@@ -1,5 +1,10 @@
-# AIGC及大模型中的互联架构及技术
-
+---
+title: AIGC及大模型中的互联架构及技术
+tags:
+- chip
+- large-language-model
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-04-28  
 

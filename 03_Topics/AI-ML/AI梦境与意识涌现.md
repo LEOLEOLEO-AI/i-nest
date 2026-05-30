@@ -1,5 +1,17 @@
-# AI梦境与意识涌现
-
+---
+title: AI梦境与意识涌现
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- emergence
+- neuron
+- neuroscience
+- plasticity
+- synapse
+- topology
+---
 - **类型**: plain_text
 - **时间**: 2025-06-25 19:05:21
 

@@ -1,5 +1,17 @@
-# 在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）
-
+---
+title: 在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）
+tags:
+- brain
+- chip-hardware
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- project
+- semiconductor
+- synapse
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-08 02:38
 

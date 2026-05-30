@@ -1,5 +1,15 @@
-# GNN联合transformer最新突破！！！
-
+---
+title: GNN联合transformer最新突破！！！
+tags:
+- ai-ml
+- artificial-intelligence
+- graph-neural-network
+- neural-networks
+- neuroscience
+- paper
+- topology
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-10-25  
 

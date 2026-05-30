@@ -1,4 +1,13 @@
-# 论文A（B7）：Route≡Transform 理论核心论文
+---
+title: 论文A（B7）：Route≡Transform 理论核心论文
+tags:
+- large-language-model
+- paper
+- patent
+- project
+- topology
+- transformer
+---
 # Paper A (B7): Route≡Transform: A Unified Algebraic Theory
 # 目标：ASPLOS 2027 September cycle | 截止：2026年9月9日
 # 状态：📋 框架完成，T1任务展开中
@@ -244,3 +253,8 @@ $$T(N) = N \cdot C \cdot \eta(N), \quad \eta(N) = 1 - \frac{\lceil \log_2 N \rce
 
 *T-Scale定理状态：框架完成，待补：LINK阻塞时间的精确量化（依赖T2硬件实测）*
 
+## Related Notes
+
+- [[专访清华胡杨：开发晶圆级芯片，降低先进工艺依赖，通过系统重构大幅提升算力]]
+- [[面向万亿参数大模型训练的SDI 软件定义互联 + 网内原生 AI 通信加速系统]]
+- [[海河实验室2026年度重大专项项目指南]]

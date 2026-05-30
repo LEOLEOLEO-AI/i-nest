@@ -1,5 +1,16 @@
-# Nat Commun：大脑与深度神经网络的通用“表征重构”与神经空间适应性“几何拉伸”
-
+---
+title: Nat Commun：大脑与深度神经网络的通用“表征重构”与神经空间适应性“几何拉伸”
+tags:
+- attention-mechanism
+- brain
+- brain-science
+- deep-learning
+- emergence
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-18 18:19
 
@@ -58,3 +69,9 @@ Prefrontal cortex (PFC) is known to modulate the visual system to favor goal-rel
 
 ---
 **Tags:** CST
+
+## Related Notes
+
+- [[从模仿到理解，计算模型可能真的是大脑的归宿｜追问新知]]
+- [[神经网络设计是一种“妥协的艺术”：从MLP到Transformer的演进之路]]
+- [[感存算一体化智能视觉芯片的展望丨Engineering]]

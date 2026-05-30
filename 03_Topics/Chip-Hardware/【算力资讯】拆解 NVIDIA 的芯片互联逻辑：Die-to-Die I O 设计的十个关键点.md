@@ -1,5 +1,13 @@
-# 【算力资讯】拆解 NVIDIA 的芯片互联逻辑：Die-to-Die I/O 设计的十个关键点
-
+---
+title: 【算力资讯】拆解 NVIDIA 的芯片互联逻辑：Die-to-Die I/O 设计的十个关键点
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- topology
+- wafer
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-22 09:24
 

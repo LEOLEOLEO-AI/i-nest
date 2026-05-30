@@ -1,5 +1,12 @@
-# 全新GPU高速互联设计，为大模型训练降本增效！北大/阶跃/曦智提出新一代高带宽域架构
-
+---
+title: 全新GPU高速互联设计，为大模型训练降本增效！北大/阶跃/曦智提出新一代高带宽域架构
+tags:
+- large-language-model
+- paper
+- project
+- simulation
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-19  
 

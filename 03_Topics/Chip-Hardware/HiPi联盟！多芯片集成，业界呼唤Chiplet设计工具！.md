@@ -1,5 +1,16 @@
-# HiPi联盟！多芯片集成，业界呼唤Chiplet设计工具！
-
+---
+title: HiPi联盟！多芯片集成，业界呼唤Chiplet设计工具！
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- paper
+- semiconductor
+- simulation
+- topology
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-04-23  
 

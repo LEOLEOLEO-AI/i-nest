@@ -1,5 +1,12 @@
-# 从CoWoS走向CoPoS，晶圆从圆形变成方形
-
+---
+title: 从CoWoS走向CoPoS，晶圆从圆形变成方形
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-12-13  
 

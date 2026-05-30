@@ -1,5 +1,11 @@
-# PD 分离推理的加速大招，百度智能云网络基础设施和通信组件的优化实践
-
+---
+title: PD 分离推理的加速大招，百度智能云网络基础设施和通信组件的优化实践
+tags:
+- ai-ml
+- artificial-intelligence
+- chip
+- large-language-model
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-25  
 

@@ -1,5 +1,17 @@
-# 打破Transformer霸权！全新液态神经网络刷爆SOTA！
-
+---
+title: 打破Transformer霸权！全新液态神经网络刷爆SOTA！
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- criticality
+- deep-learning
+- emergence
+- neural-networks
+- neuron
+- neuroscience
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-15  
 

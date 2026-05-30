@@ -1,5 +1,17 @@
-# 中国科学院团队研发硅基电容-隧穿结（SCTJ）突破类脑计算瓶颈
-
+---
+title: 中国科学院团队研发硅基电容-隧穿结（SCTJ）突破类脑计算瓶颈
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- plasticity
+---
 - **类型**: link
 - **时间**: 2025-10-12 22:45:34
 - **标签**: AI链接笔记, 类脑计算, 人工突触, 硅基电容-隧穿结（SCTJ）

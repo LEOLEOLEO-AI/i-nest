@@ -1,5 +1,15 @@
-# 『DGIST Nat. Commun.』晶圆级被动忆阻交叉阵列：向类脑规模神经形态计算迈进
-
+---
+title: 『DGIST Nat. Commun.』晶圆级被动忆阻交叉阵列：向类脑规模神经形态计算迈进
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- semiconductor
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-10-03  
 

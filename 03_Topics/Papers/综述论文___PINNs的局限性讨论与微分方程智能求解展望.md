@@ -1,5 +1,13 @@
-# 综述论文 | PINNs的局限性讨论与微分方程智能求解展望
-
+---
+title: 综述论文 | PINNs的局限性讨论与微分方程智能求解展望
+tags:
+- deep-learning
+- literature
+- neural-networks
+- neuroscience
+- paper
+- survey
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-07 19:23
 

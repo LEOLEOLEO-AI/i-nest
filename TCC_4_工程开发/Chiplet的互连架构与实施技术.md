@@ -1,5 +1,11 @@
-# Chiplet的互连架构与实施技术
-
+---
+title: Chiplet的互连架构与实施技术
+tags:
+- chip
+- chiplet
+- simulation
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-12-07  
 

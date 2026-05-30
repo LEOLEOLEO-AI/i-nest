@@ -176,3 +176,9 @@ https://doi.org/10.1016/j.cma.2025.118348
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 11:03*
+
+## Related Notes
+
+- [[FMPINN：基于傅里叶的混合物理信息神经网络求解多尺度椭圆PDEs]]
+- [[Ψ-NN：通过知识蒸馏自动发现物理信息神经网络结构的新方法]]
+- [[AgentEvolver vs AlphaEvolve：AI自我进化的两条核心路线对比 🧠]]

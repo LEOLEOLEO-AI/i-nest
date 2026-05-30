@@ -1,5 +1,14 @@
-# (Nat. Commun. 综述) | 基于忆阻器的人工神经网络硬件实现 (第二期)
-
+---
+title: (Nat. Commun. 综述) | 基于忆阻器的人工神经网络硬件实现 (第二期)
+tags:
+- chip-hardware
+- neural-networks
+- neuron
+- neuroscience
+- semiconductor
+- survey
+- synapse
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-09-24  
 
@@ -133,3 +142,9 @@ Steve Venn，公众号：Neuromorphic Computing +[(Nat. Commun. 综述) | 基于
 
 
 后续内容见下一期
+
+## Related Notes
+
+- [[Advanced Materials 基于机械发光材料的全光突触]]
+- [[Advanced Materials 具有可配置突触可塑性的离子弹性体突触]]
+- [[Science：忆阻器技术：存储/计算/加密/通信，四大领域的跨界颠覆者]]

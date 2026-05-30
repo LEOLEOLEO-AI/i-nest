@@ -1,5 +1,16 @@
-# 北京大学杨玉超Nature Electronics：可重构感存算+卷积/循环/脉冲切换
-
+---
+title: 北京大学杨玉超Nature Electronics：可重构感存算+卷积/循环/脉冲切换
+tags:
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- semiconductor
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-09-13  
 

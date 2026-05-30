@@ -1,5 +1,15 @@
-# iNEST理论实证
-
+---
+title: iNEST理论实证
+tags:
+- brain
+- brain-science
+- chiplet
+- criticality
+- neuron
+- neuroscience
+- small-world-networks
+- topology
+---
 - **类型**: plain_text
 - **时间**: 2026-01-19 00:31:11
 

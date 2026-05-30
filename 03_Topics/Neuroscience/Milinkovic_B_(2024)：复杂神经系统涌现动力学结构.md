@@ -1,5 +1,14 @@
-# Milinkovic B (2024)：复杂神经系统涌现动力学结构
-
+---
+title: Milinkovic B (2024)：复杂神经系统涌现动力学结构
+tags:
+- brain
+- brain-science
+- chiplet
+- dynamics
+- emergence
+- neuroscience
+- paper
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-10-01  
 

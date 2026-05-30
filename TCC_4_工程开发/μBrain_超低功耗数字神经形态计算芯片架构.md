@@ -1,5 +1,13 @@
-# μBrain：超低功耗数字神经形态计算芯片架构
-
+---
+title: μBrain：超低功耗数字神经形态计算芯片架构
+tags:
+- chip
+- chiplet
+- neuron
+- neuroscience
+- synapse
+- topology
+---
 - **类型**: link
 - **时间**: 2025-08-23 06:53:35
 - **标签**: AI链接笔记, 神经形态计算, 边缘AI, 超低功耗芯片

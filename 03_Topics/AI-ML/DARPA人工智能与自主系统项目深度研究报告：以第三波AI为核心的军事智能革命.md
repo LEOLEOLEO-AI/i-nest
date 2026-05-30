@@ -1,4 +1,12 @@
 ---
+tags:
+- darpa
+- third-wave-ai
+- military-artificial-intelligence
+- autonomous-systems
+- research-report
+---
+---
 title: "DARPA人工智能与自主系统项目深度研究报告：以"第三波AI"为核心的军事智能革命"
 source: "https://mp.weixin.qq.com/s/EOO0bW5ABqS0yEvH2ZZ32Q"
 created: 2025-12-17

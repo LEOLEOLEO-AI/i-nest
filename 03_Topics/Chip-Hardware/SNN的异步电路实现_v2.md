@@ -1,5 +1,16 @@
-# SNN的异步电路实现
-
+---
+title: SNN的异步电路实现
+tags:
+- chip
+- chip-hardware
+- deep-learning
+- neural-networks
+- neuron
+- neuroscience
+- semiconductor
+- simulation
+- synapse
+---
 - **类型**: plain_text
 - **时间**: 2025-07-12 10:34:32
 

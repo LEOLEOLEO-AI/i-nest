@@ -1,5 +1,12 @@
-# 从物竞天择到智能进化，首篇自进化智能体综述的ASI之路
-
+---
+title: 从物竞天择到智能进化，首篇自进化智能体综述的ASI之路
+tags:
+- ai-ml
+- artificial-intelligence
+- large-language-model
+- paper
+- survey
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-12  
 
@@ -115,3 +122,9 @@ Where to Evolve?（在何处演化？）
 © THE END 
 转载请联系本公众号获得授权
 投稿或寻求报道：liyazhou@jiqizhixin.com
+
+## Related Notes
+
+- [[【210页PPT】哈工大：大模型时代的具身智能]]
+- [[自我进化Agent综述：通往超级智能的进化之路]]
+- [[具身人工智能全面综述]]

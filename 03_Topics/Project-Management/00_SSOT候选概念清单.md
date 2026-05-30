@@ -1,5 +1,17 @@
-# SSOT 候选概念清单
-
+---
+title: SSOT 候选概念清单
+tags:
+- brain
+- chiplet
+- complex-networks
+- criticality
+- dynamics
+- embodied-ai
+- emergence
+- free-energy-principle
+- information-theory
+- large-language-model
+---
 生成时间：2026-05-03 06:46:43
 
 来源：`00_Inbox/03_研究资料`
@@ -100,3 +112,9 @@
 ### 拓扑映射
 
 - 暂无明显标题命中，建议人工补充。
+
+## Related Notes
+
+- [[SDSoW 与 iNEST 方向项目布局汇总]]
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[复杂网络中的重整化群（RG）方法综述与应用]]

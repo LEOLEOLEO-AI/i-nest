@@ -1,5 +1,14 @@
-# 北京大学叶乐-黄如院士ISSCC：神经形态芯片+时空特征提取+语音检测
-
+---
+title: 北京大学叶乐-黄如院士ISSCC：神经形态芯片+时空特征提取+语音检测
+tags:
+- chip
+- chip-hardware
+- neuron
+- neuroscience
+- paper
+- semiconductor
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-24  
 

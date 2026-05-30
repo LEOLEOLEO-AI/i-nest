@@ -1,5 +1,17 @@
-# Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？
-
+---
+title: Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- plasticity
+- synapse
+- topology
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-09-01  
 

@@ -1,5 +1,17 @@
-# 连接人工智能与神经科学的桥梁：具有内部复杂性的神经网络模型｜Nat. Comput. Sci. 速递
-
+---
+title: 连接人工智能与神经科学的桥梁：具有内部复杂性的神经网络模型｜Nat. Comput. Sci. 速递
+tags:
+- brain
+- complex-networks
+- deep-learning
+- dynamics
+- large-language-model
+- literature
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-01-29  
 
@@ -39,3 +51,9 @@
 图 4. 网络结构，与多任务学习（a,c），深度强化学习（a,b,d,e,f）和鲁棒性（a,g,h,i）实验结果。
 
 [来源：集智俱乐部](https://mp.weixin.qq.com/s/jvd0mDuEDvf_fqC-kwctfQ)
+
+## Related Notes
+
+- [[[Nature综述] 神经形态计算的“AlexNet时刻”到了吗？全球顶尖学者联合发布万字路线图，剑指“亿级”类脑互联]]
+- [[从非完整和含噪声的数据中推理复杂网络动力学]]
+- [[类脑计算有望彻底改变计算领域，甚至超越人脑，丰田合作综述类脑计算的兴起]]

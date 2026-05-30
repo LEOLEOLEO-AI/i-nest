@@ -1,5 +1,17 @@
-# SDI技术路线仿真验证规划
-
+---
+title: SDI技术路线仿真验证规划
+tags:
+- chiplet
+- complex-networks
+- dynamics
+- emergence
+- neuron
+- neuroscience
+- simulation
+- small-world-networks
+- synapse
+- topology
+---
 **目标**：将生物网络仿真的结论迁移到SDI（软件定义互连）物理网络，
 完成"工程系统通过复杂网络拓扑实现超线性增益"的可复现仿真验证。
 
@@ -129,3 +141,9 @@ def generate_sdi_topology(n_chiplets, target_sigma=5.0, k_ports=16):
 | SDI拓扑规则 | 化合键+元拓扑规则集 | 刘老师提供 |
 | Brian2 | 动态神经元仿真库 | 已安装 |
 | 工程参数约束 | 每个芯粒端口数/带宽限制 | 需要具体型号参数 |
+
+## Related Notes
+
+- [[iNEST 机构 — 全景导航 (Map of Content)]]
+- [[陈关荣：探讨复杂网络的高阶拓扑及其应用]]
+- [[大脑为何如此耗能？比较计算与通信的代谢能效]]

@@ -1,4 +1,17 @@
-# 说帖：基于网络时空复杂度的算力互连架构升级
+---
+title: 说帖：基于网络时空复杂度的算力互连架构升级
+tags:
+- brain
+- chip
+- chip-hardware
+- criticality
+- emergence
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+---
 ## ——从次临界连通到临界态涌现，实现系统级超线性增益
 
 **用途**：专家座谈 / 项目论证 / 立项建议  
@@ -105,3 +118,9 @@ Shew等人2009年在《神经科学杂志》发表的研究表明：神经网络
 ---
 
 *说帖文件：`说帖_CST算力网络_专家版.md`*
+
+## Related Notes
+
+- [[智能算力]]
+- [[Brain2与SNNGrow的关系？研究类脑智能涌现需要用什么工具？如何开发异步电路实现SNN？]]
+- [[修订意见沟通素材]]

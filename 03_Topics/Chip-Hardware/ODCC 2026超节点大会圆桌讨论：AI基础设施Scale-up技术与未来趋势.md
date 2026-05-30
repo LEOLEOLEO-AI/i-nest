@@ -240,3 +240,9 @@ http://www.zhihu.com/column/huangliang
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 09:01*
+
+## Related Notes
+
+- [[Ion Stoica：横跨学术与产业的AI基础设施传奇]]
+- [[哈密顿神经网络（HNN）深度研究：物理规律驱动的AI范式革命]]
+- [[Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为计算优势]]

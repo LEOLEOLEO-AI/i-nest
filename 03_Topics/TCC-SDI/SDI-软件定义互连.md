@@ -1,5 +1,16 @@
-# SDI — 软件定义互连（Software-Defined Interconnect）
-
+---
+title: SDI — 软件定义互连（Software-Defined Interconnect）
+tags:
+- brain
+- criticality
+- neuroscience
+- paper
+- self-organization
+- simulation
+- software-defined
+- tcc-sdi
+- topology
+---
 > iNEST 核心架构利器
 
 ## 定义

@@ -1,5 +1,17 @@
-# NICE：开启类脑智能新范式——从连接复杂度到智能涌现
-
+---
+title: NICE：开启类脑智能新范式——从连接复杂度到智能涌现
+tags:
+- brain
+- complex-networks
+- concepts-theory
+- criticality
+- emergence
+- fundamentals
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 - **类型**: link
 - **时间**: 2025-07-12 12:05:18
 - **标签**: AI链接笔记, NICE理论, 类脑智能, 智能涌现, 时空复杂度乘积定理

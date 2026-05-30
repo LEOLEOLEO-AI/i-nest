@@ -1,5 +1,13 @@
-# FINN：FPGA AI 推理新范式 —— 定制化、高性能、量化神经网络编译器框架
-
+---
+title: FINN：FPGA AI 推理新范式 —— 定制化、高性能、量化神经网络编译器框架
+tags:
+- chip-hardware
+- deep-learning
+- neural-networks
+- neuroscience
+- project
+- semiconductor
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-22 01:11
 
@@ -23,3 +31,9 @@ FINN 的核心目标是：👉 从 训练好的量化神经网络（Quantized Ne
 ## 开源地址主页：
 https://xilinx.github.io/finn/Vitis HLS库：
 https://github.com/Xilinx/finn-hlslib
+
+## Related Notes
+
+- [[自动驾驶汽车整体Chiplet解决方案（二）：通信解决方案]]
+- [[Chiplet互连协议思考]]
+- [[Chiplet技术分析展望]]

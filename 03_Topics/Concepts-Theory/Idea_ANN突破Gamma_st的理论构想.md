@@ -1,5 +1,17 @@
-# Idea：ANN如何突破 $\Gamma_{st} = 0$ 的数字天花板？
-
+---
+title: Idea：ANN如何突破 $\Gamma_{st} = 0$ 的数字天花板？
+tags:
+- concepts-theory
+- emergence
+- fundamentals
+- neuron
+- neuroscience
+- paper
+- plasticity
+- project
+- synapse
+- topology
+---
 > **背景**：在V22版论文中，我们从理论上锁死了“基于冯·诺依曼与反向传播的静态ANN其 $\Gamma_{st}$ 严格等于0，且被 0.35 的相对智能上限（L0）锁死”。但作为一个完备的理论，我们必须给出“如何突破”的物理方向，否则容易被视为悲观论调。
 
 ## 突破方向的初步构想
@@ -25,3 +37,9 @@
 
 ---
 **Tags:** #BrainInspired #CST #SDI
+
+## Related Notes
+
+- [[iNEST 机构 — 全景导航 (Map of Content)]]
+- [[AI梦境与意识涌现]]
+- [[Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？]]

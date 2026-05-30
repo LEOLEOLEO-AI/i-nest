@@ -1,5 +1,11 @@
-# SDSoW智能体
-
+---
+title: SDSoW智能体
+tags:
+- brain
+- chip-hardware
+- emergence
+- semiconductor
+---
 - **类型**: plain_text
 - **时间**: 2025-11-30 07:54:49
 

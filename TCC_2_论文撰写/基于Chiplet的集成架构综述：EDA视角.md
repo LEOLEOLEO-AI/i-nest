@@ -1,5 +1,17 @@
-# 基于Chiplet的集成架构综述：EDA视角
-
+---
+title: 基于Chiplet的集成架构综述：EDA视角
+tags:
+- chip
+- chiplet
+- criticality
+- deep-learning
+- graph-neural-network
+- large-language-model
+- neural-networks
+- neuroscience
+- paper
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-02-04  
 

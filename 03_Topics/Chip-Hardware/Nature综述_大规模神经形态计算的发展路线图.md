@@ -1,5 +1,17 @@
-# Nature综述：大规模神经形态计算的发展路线图
-
+---
+title: Nature综述：大规模神经形态计算的发展路线图
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- complex-networks
+- deep-learning
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+---
 - **类型**: link
 - **时间**: 2025-10-09 11:43:34
 - **标签**: AI链接笔记, 神经形态计算, 大规模部署, 硬件软件协同设计

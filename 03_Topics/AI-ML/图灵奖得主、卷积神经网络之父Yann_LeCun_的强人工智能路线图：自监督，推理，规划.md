@@ -1,5 +1,17 @@
-# 图灵奖得主、卷积神经网络之父Yann LeCun 的强人工智能路线图：自监督，推理，规划
-
+---
+title: 图灵奖得主、卷积神经网络之父Yann LeCun 的强人工智能路线图：自监督，推理，规划
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- deep-learning
+- large-language-model
+- neural-networks
+- neuroscience
+- paper
+- robotics
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-04-24  
 

@@ -228,3 +228,9 @@ https://www.youtube.com/watch?v=Kr3Sh2PKA8Y
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 10:58*
+
+## Related Notes
+
+- [[Google DeepMind潜在学习研究：AI记忆系统的认知革命 🔍]]
+- [[大模型本体论：从哲学概念到智能涌现的隐形骨架 🧠]]
+- [[Deepmath：AI驱动的自动化定理证明开源项目解析]]

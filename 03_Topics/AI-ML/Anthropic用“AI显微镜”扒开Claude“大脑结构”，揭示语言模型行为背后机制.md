@@ -1,5 +1,17 @@
-# Anthropic用“AI显微镜”扒开Claude“大脑结构”，揭示语言模型行为背后机制
-
+---
+title: Anthropic用“AI显微镜”扒开Claude“大脑结构”，揭示语言模型行为背后机制
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- deep-learning
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-03-28  
 

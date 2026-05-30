@@ -1,5 +1,17 @@
-# 从PINNs到PIKANs：物理信息神经网络的十年发展与未来展望
-
+---
+title: 从PINNs到PIKANs：物理信息神经网络的十年发展与未来展望
+tags:
+- ai-ml
+- artificial-intelligence
+- chip
+- chiplet
+- deep-learning
+- dynamics
+- information-theory
+- large-language-model
+- neural-networks
+- neuroscience
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-29 07:06
 

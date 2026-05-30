@@ -1,5 +1,15 @@
-# Nature Cities：从复杂网络到智慧城市的经验教训
-
+---
+title: Nature Cities：从复杂网络到智慧城市的经验教训
+tags:
+- complex-networks
+- deep-learning
+- dynamics
+- literature
+- neuroscience
+- paper
+- patent
+- project
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-01-21  
 
@@ -59,3 +69,9 @@ END
 
 
 点个赞+在看你最好看
+
+## Related Notes
+
+- [[Nat. Commun. 速递 | 网络属性决定神经网络性能]]
+- [[对话李国杰院士：突破麦肯锡和图灵的框框，人工智能要解决大问题]]
+- [[深度学习新动向！液态神经网络拿下Nature子刊，19个神经元驾驶一辆车！]]

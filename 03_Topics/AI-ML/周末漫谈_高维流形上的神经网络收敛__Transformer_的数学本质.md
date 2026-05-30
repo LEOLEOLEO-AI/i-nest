@@ -1,5 +1,16 @@
-# 周末漫谈：高维流形上的神经网络收敛——Transformer 的数学本质
-
+---
+title: 周末漫谈：高维流形上的神经网络收敛——Transformer 的数学本质
+tags:
+- ai-ml
+- artificial-intelligence
+- attention-mechanism
+- brain
+- emergence
+- large-language-model
+- neural-networks
+- neuroscience
+- transformer
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-11 07:59
 

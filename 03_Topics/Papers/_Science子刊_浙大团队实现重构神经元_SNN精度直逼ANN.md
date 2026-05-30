@@ -1,5 +1,15 @@
-# [Science子刊]浙大团队实现重构神经元，SNN精度直逼ANN
-
+---
+title: '[Science子刊]浙大团队实现重构神经元，SNN精度直逼ANN'
+tags:
+- brain
+- chip
+- dynamics
+- literature
+- neuron
+- neuroscience
+- paper
+- wafer
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-22 18:14
 

@@ -1,5 +1,14 @@
-# 北极雄芯渐入“Chiplet产品化元年”，打造自主可控供应链
-
+---
+title: 北极雄芯渐入“Chiplet产品化元年”，打造自主可控供应链
+tags:
+- chip
+- chip-hardware
+- chiplet
+- embodied-ai
+- large-language-model
+- semiconductor
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-04-22  
 

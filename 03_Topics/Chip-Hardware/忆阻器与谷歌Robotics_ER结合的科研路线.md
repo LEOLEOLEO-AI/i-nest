@@ -1,5 +1,17 @@
-# 忆阻器与谷歌Robotics ER结合的科研路线
-
+---
+title: 忆阻器与谷歌Robotics ER结合的科研路线
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- criticality
+- dynamics
+- embodied-ai
+- emergence
+- neural-networks
+- neuron
+---
 - **类型**: plain_text
 - **时间**: 2025-12-11 22:08:30
 

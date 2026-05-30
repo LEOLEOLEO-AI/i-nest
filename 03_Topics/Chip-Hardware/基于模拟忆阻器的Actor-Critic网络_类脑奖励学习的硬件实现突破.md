@@ -1,5 +1,15 @@
-# 基于模拟忆阻器的Actor-Critic网络：类脑奖励学习的硬件实现突破
-
+---
+title: 基于模拟忆阻器的Actor-Critic网络：类脑奖励学习的硬件实现突破
+tags:
+- brain
+- chip-hardware
+- chiplet
+- neuroscience
+- paper
+- robotics
+- semiconductor
+- synapse
+---
 - **类型**: link
 - **时间**: 2025-12-21 04:29:42
 - **标签**: AI链接笔记, 类脑计算, 忆阻器, Actor-Critic网络

@@ -1,5 +1,17 @@
-# Chip-Hardware — 全景导航 (Map of Content)
-
+---
+title: Chip-Hardware — 全景导航 (Map of Content)
+tags:
+- brain
+- chip
+- chiplet
+- complex-networks
+- dynamics
+- embodied-ai
+- emergence
+- graph-neural-network
+- large-language-model
+- neural-networks
+---
 > 自动生成 | 最后更新: 2026-05-30 00:29
 > 包含 588 条笔记
 

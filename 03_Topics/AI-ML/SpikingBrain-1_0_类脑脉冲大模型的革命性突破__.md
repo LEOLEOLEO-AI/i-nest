@@ -1,5 +1,17 @@
-# SpikingBrain-1.0：类脑脉冲大模型的革命性突破 🔬
-
+---
+title: SpikingBrain-1.0：类脑脉冲大模型的革命性突破 🔬
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- chiplet
+- dynamics
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+---
 - **类型**: link
 - **时间**: 2025-10-12 22:54:44
 - **标签**: AI链接笔记, 类脑脉冲大模型, SpikingBrain-1.0, 脉冲计算

@@ -1,5 +1,13 @@
-# Chiplet，拯救汽车芯片
-
+---
+title: Chiplet，拯救汽车芯片
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-02-24  
 

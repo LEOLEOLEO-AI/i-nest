@@ -1,5 +1,13 @@
-# AI服务器主流互联技术汇总！
-
+---
+title: AI服务器主流互联技术汇总！
+tags:
+- chip
+- chip-hardware
+- large-language-model
+- neuroscience
+- semiconductor
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-08-29  
 

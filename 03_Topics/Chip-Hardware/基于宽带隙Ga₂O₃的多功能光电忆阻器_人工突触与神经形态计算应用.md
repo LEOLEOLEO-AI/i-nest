@@ -1,5 +1,15 @@
-# 基于宽带隙Ga₂O₃的多功能光电忆阻器：人工突触与神经形态计算应用
-
+---
+title: 基于宽带隙Ga₂O₃的多功能光电忆阻器：人工突触与神经形态计算应用
+tags:
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- plasticity
+- semiconductor
+- simulation
+- synapse
+---
 - **类型**: link
 - **时间**: 2025-09-02 07:29:11
 - **标签**: AI链接笔记, 神经形态计算, 光电忆阻器, Ga₂O₃宽带隙材料

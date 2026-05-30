@@ -1,5 +1,15 @@
-# Nano Energy综述：基于忆阻器的仿生器件
-
+---
+title: Nano Energy综述：基于忆阻器的仿生器件
+tags:
+- literature
+- neural-networks
+- neuroscience
+- paper
+- plasticity
+- robotics
+- survey
+- synapse
+---
 > 笔记本: 来自小程序「印象笔记」  
 > 创建时间: 2025-01-30  
 
@@ -41,3 +51,9 @@ Kun Wang, Mengna Wang, Bai Sun*, Chuan Yang, Zelin Cao, Teng Wu, Kaikai Gao, Hui
 
 
 **欢迎留言，分享观点。****为作者打call，点亮右下角“赞****”和“在看”↓↓↓**
+
+## Related Notes
+
+- [[仿生触觉系统：脉冲编码与神经形态硬件的融合之路]]
+- [[Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？]]
+- [[像生物网络一样「生长」，具备「结构可塑性」的自组织神经网络来了]]

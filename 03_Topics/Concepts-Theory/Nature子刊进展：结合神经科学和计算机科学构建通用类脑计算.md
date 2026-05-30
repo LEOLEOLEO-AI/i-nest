@@ -1,5 +1,17 @@
-# Nature子刊进展：结合神经科学和计算机科学构建通用类脑计算
-
+---
+title: Nature子刊进展：结合神经科学和计算机科学构建通用类脑计算
+tags:
+- brain
+- chip
+- chiplet
+- concepts-theory
+- dynamics
+- emergence
+- fundamentals
+- neural-networks
+- neuron
+- neuroscience
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-01-29  
 

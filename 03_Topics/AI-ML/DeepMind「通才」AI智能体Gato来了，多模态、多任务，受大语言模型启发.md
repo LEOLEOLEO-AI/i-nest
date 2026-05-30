@@ -1,5 +1,17 @@
-# DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发
-
+---
+title: DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发
+tags:
+- ai-ml
+- artificial-intelligence
+- chiplet
+- deep-learning
+- embodied-ai
+- large-language-model
+- neural-networks
+- neuroscience
+- paper
+- robotics
+---
 > 笔记本: 微信  
 > 创建时间: 2022-05-16  
 

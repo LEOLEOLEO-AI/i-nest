@@ -1,5 +1,17 @@
-# SDI化合键体系知识框架总图
-
+---
+title: SDI化合键体系知识框架总图
+tags:
+- brain
+- criticality
+- dynamics
+- emergence
+- free-energy-principle
+- large-language-model
+- paper
+- plasticity
+- self-organization
+- simulation
+---
 **版本**：v1.0  
 **日期**：2026-03-24  
 **定位**：本文档是整个SDI化合键→临界态涌现→智能涌现链条的总纲，各模块细节见对应文档编号。
@@ -171,3 +183,9 @@ SDI节点接口设计（4类型 × N条 + 2路SYN）        → 文档11
 | SDI化合键工程可行 | 文档11:4类型×N条动态扇出 | v5:规则执行验证 |
 
 *存档路径：`/home/work/.openclaw/workspace/知识库_网络超线性增益/13_知识框架总图_SDI化合键到临界态涌现.md`*
+
+## Related Notes
+
+- [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+- [[TCC 计算范式 — 全景导航 (Map of Content)]]
+- [[吴华强团队与iNEST技术互补]]

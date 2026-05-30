@@ -1,5 +1,14 @@
-# 又一组织公布了chiplet互联规范
-
+---
+title: 又一组织公布了chiplet互联规范
+tags:
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-07-22  
 

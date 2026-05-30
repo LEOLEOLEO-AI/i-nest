@@ -1,5 +1,10 @@
-# NaaS — Network as a Service
-
+---
+title: NaaS — Network as a Service
+tags:
+- software-defined
+- tcc-sdi
+- topology
+---
 > 占位笔记
 
 ## 相关内容

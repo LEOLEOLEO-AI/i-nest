@@ -1,5 +1,13 @@
-# Nature Electronics：单脉冲编码忆阻器硬件，能效提升38倍！
-
+---
+title: Nature Electronics：单脉冲编码忆阻器硬件，能效提升38倍！
+tags:
+- chip-hardware
+- neuron
+- neuroscience
+- semiconductor
+- simulation
+- synapse
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-10 20:29
 

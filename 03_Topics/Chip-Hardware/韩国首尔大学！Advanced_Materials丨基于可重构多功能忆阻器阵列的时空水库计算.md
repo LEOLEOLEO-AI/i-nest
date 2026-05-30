@@ -1,5 +1,15 @@
-# 韩国首尔大学！Advanced Materials丨基于可重构多功能忆阻器阵列的时空水库计算
-
+---
+title: 韩国首尔大学！Advanced Materials丨基于可重构多功能忆阻器阵列的时空水库计算
+tags:
+- brain
+- chip-hardware
+- dynamics
+- neuroscience
+- robotics
+- semiconductor
+- simulation
+- synapse
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-10-27  
 

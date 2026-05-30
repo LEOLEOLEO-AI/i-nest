@@ -1,5 +1,13 @@
-# NaaS商业模式设计
-
+---
+title: NaaS商业模式设计
+tags:
+- chip-hardware
+- chiplet
+- patent
+- semiconductor
+- simulation
+- topology
+---
 ## 产品线三层架构
 
 ```

@@ -1,5 +1,12 @@
-# 越来越火的Chiplet
-
+---
+title: 越来越火的Chiplet
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2021-10-21  
 

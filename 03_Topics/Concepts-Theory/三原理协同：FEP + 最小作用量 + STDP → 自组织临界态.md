@@ -1,5 +1,17 @@
-# 三原理协同：FEP + 最小作用量 + STDP → 自组织临界态
-
+---
+title: 三原理协同：FEP + 最小作用量 + STDP → 自组织临界态
+tags:
+- concepts-theory
+- criticality
+- emergence
+- free-energy-principle
+- fundamentals
+- plasticity
+- self-organization
+- simulation
+- small-world-networks
+- synapse
+---
 **版本**：v1.0  
 **日期**：2026-03-24  
 **核心命题**：三条局部规则，无中央控制，必然收敛到临界态（幂律P(S)∝S^(-1.5)）
@@ -207,3 +219,9 @@ E-S太多 → 复杂度代价↑（随机噪声主导）→ F↑
 
 *存档路径：`/home/work/.openclaw/workspace/知识库_网络超线性增益/12_三原理协同_FEP_最小作用量_STDP.md`*  
 *本文档于2026-03-24与刘勤让教授讨论后整理，是SDI化合键体系的物理基础完整表述。*
+
+## Related Notes
+
+- [[SOC — 自组织临界（Self-Organized Criticality）]]
+- [[智能涌现阈值]]
+- [[TCC核心概念与基线理论集 (TCC Core Concepts)]]

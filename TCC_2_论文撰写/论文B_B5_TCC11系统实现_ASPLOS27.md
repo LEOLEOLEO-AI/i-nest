@@ -1,4 +1,16 @@
-# 论文B（B5）：TCC-11系统实现与评测
+---
+title: 论文B（B5）：TCC-11系统实现与评测
+tags:
+- chip
+- chiplet
+- large-language-model
+- paper
+- patent
+- project
+- topology
+- transformer
+- wafer
+---
 # Paper B (B5): TCC-11 Minimal Complete Primitive Library for Liquid Hardware
 # 目标：ASPLOS/MICRO 2027 April cycle | 截止：2027年4月15日
 # 状态：📋 框架完成，依赖T2/T3硬件与SDK完成
@@ -267,3 +279,8 @@ Gen4     2032+    忆阻器CIM      10K芯粒+CIM    存算传真正一体
 > CST理论预测：后者的等效智能效率（η_I = CST/功耗）高于前者。
 > 这是一个具体的、可量化的实验命题，将在Gen1 ASIC上验证。
 
+## Related Notes
+
+- [[专访清华胡杨：开发晶圆级芯片，降低先进工艺依赖，通过系统重构大幅提升算力]]
+- [[海河实验室2026年度重大专项项目指南]]
+- [[RISC-V 架构下 SDI 智算互联系统设计：面向 LLM 低延迟推理与训练]]

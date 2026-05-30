@@ -1,5 +1,11 @@
-# UCIe 2.0 规范：持续创新，推动开放 Chiplet 生态系统
-
+---
+title: UCIe 2.0 规范：持续创新，推动开放 Chiplet 生态系统
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-08-20  
 

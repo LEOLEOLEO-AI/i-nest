@@ -92,3 +92,7 @@ tags:
 - 20_Projects/Projects/基金委_2000万重大项目指南策划
 - 20_Projects/00_项目-论文-专利-技术四线映射表
 
+## Related Notes
+
+- [[ADR - 决策记录]]
+- [[TCC - 网络中心计算]]

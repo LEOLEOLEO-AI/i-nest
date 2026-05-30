@@ -1,5 +1,13 @@
-# From Compute to Complexity: A Physical Theory of Intelligence Emergence and Its Implications for Artificial General Intelligence
-
+---
+title: 'From Compute to Complexity: A Physical Theory of Intelligence Emergence and Its Implications for Artificial General Intelligence'
+tags:
+- attention-mechanism
+- chiplet
+- concepts-theory
+- fundamentals
+- large-language-model
+- transformer
+---
 **Qinrang Liu (刘勤让)**1*
 
 1 School of Microelectronics, Tianjin University, Tianjin 300072, China
@@ -539,3 +547,9 @@ Two-panel layout (no overlap). Left panel: scatter plot of 20 ANN architectures,
 **Tags:** #BrainInspired #CST #SDSoW #SDI #Chiplet
 
 ## V25 GENERATION COMPLETE
+
+## Related Notes
+
+- [[A Unified Theory of Intelligence Emergence from Spatiotemporal Network Complexity]]
+- [[A Paradigm Shift in Neuromorphic Engineering: Meta-Topology, Software-Defined Interconnects, and the Emergence of High-Dimensional Dynamically Plastic Physical Networks]]
+- [[Transformer的拓扑直觉之一]]

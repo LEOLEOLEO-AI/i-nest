@@ -1,5 +1,17 @@
-# 9位院士12位专家联合撰文：智能计算的新进展、挑战与未来 | Science合作期刊
-
+---
+title: 9位院士12位专家联合撰文：智能计算的新进展、挑战与未来 | Science合作期刊
+tags:
+- brain
+- chip
+- chiplet
+- deep-learning
+- dynamics
+- embodied-ai
+- emergence
+- large-language-model
+- literature
+- neural-networks
+---
 > 笔记本: 微信  
 > 创建时间: 2023-01-09  
 

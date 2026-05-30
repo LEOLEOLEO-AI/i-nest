@@ -1,5 +1,13 @@
-# 巨头竞逐Chiplet
-
+---
+title: 巨头竞逐Chiplet
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2021-02-28  
 

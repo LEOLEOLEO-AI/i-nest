@@ -1,5 +1,13 @@
-# 往期精彩|Nature子刊：新发现！大脑如何处理空间和时间信息
-
+---
+title: 往期精彩|Nature子刊：新发现！大脑如何处理空间和时间信息
+tags:
+- brain
+- brain-science
+- chiplet
+- neuron
+- neuroscience
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-11-20  
 

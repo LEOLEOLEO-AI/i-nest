@@ -1,4 +1,17 @@
-# 海河实验室项目指南（2026年度重大专项）
+---
+title: 海河实验室项目指南（2026年度重大专项）
+tags:
+- brain
+- chip
+- emergence
+- large-language-model
+- paper
+- patent
+- project
+- simulation
+- topology
+- wafer
+---
 ## 基于元拓扑-SDI化合键理论的介观尺度网络智能涌现架构与端侧FPGA原型验证
 
 ### 一、 项目定位与建设背景
@@ -53,3 +66,9 @@
 
 ---
 **Tags:** #NaaS #StrategicProposal #CST #SDSoW #SDI
+
+## Related Notes
+
+- [[知识库健康诊断 (Self-Health Dashboard)]]
+- [[“风口浪尖”的Chiplet，有人疯狂涌入，有人划清界限]]
+- [[中国Chiplet大会干货：7位大咖抛出灵魂问题，接口IP和EDA宏图展开]]

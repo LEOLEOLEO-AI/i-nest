@@ -1,5 +1,17 @@
-# Nature子刊：神经形态计算更进一步，科学家实现人工模拟神经元和突触
-
+---
+title: Nature子刊：神经形态计算更进一步，科学家实现人工模拟神经元和突触
+tags:
+- brain
+- chip-hardware
+- chiplet
+- complex-networks
+- deep-learning
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2022-05-25  
 

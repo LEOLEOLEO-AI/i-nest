@@ -1,3 +1,11 @@
+---
+title: 'ADR: 以 TCC + SDI-CC 作为 2026-2027 近期工程主线'
+tags:
+- paper
+- patent
+- project
+- topology
+---
 ﻿﻿---
 type: adr
 status: accepted
@@ -93,3 +101,8 @@ tags:
 - 30_Outputs/论文/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式
 - 20_Projects/00_项目-论文-专利-技术四线映射表
 
+## Related Notes
+
+- [[知识库健康诊断 (Self-Health Dashboard)]]
+- [[面向万亿参数大模型训练的SDI 软件定义互联 + 网内原生 AI 通信加速系统]]
+- [[海河实验室2026年度重大专项项目指南]]

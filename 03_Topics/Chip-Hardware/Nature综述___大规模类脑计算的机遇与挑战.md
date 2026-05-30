@@ -1,5 +1,14 @@
-# Nature综述 | 大规模类脑计算的机遇与挑战
-
+---
+title: Nature综述 | 大规模类脑计算的机遇与挑战
+tags:
+- brain
+- chip
+- chip-hardware
+- neural-networks
+- neuroscience
+- semiconductor
+- survey
+---
 > 笔记本: 来自小程序「印象笔记」  
 > 创建时间: 2025-02-04  
 
@@ -31,3 +40,9 @@ https://www.nature.com/articles/s41586-024-08253-8
 
 阅读原文
 修改于
+
+## Related Notes
+
+- [[基于忆阻器的神经形态芯片]]
+- [[大规模类脑计算的发展、机遇与挑战综述]]
+- [[清华大学吴华强团队类脑计算技术演进与全栈生态构建（2019-2025）]]

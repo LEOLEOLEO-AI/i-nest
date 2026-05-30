@@ -1,5 +1,17 @@
-# iNEST 生态体系：完整项目指南 × 论文矩阵（v2.0 精修版）
-
+---
+title: iNEST 生态体系：完整项目指南 × 论文矩阵（v2.0 精修版）
+tags:
+- brain
+- chip
+- complex-networks
+- criticality
+- dynamics
+- embodied-ai
+- emergence
+- information-theory
+- large-language-model
+- neural-networks
+---
 > 版本 v2.0 | 2026-03-22 | 逆立项策略：论文先行 → 证据链支撑项目申报  
 > 核心方程：**I ∝ CST = (Sc · Tc) · e^(α·Γst)**；**RI = C_ST(system) / E_env(task|system)**
 

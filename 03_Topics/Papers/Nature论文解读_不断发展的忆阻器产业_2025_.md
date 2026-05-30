@@ -1,5 +1,13 @@
-# Nature论文解读：不断发展的忆阻器产业（2025）
-
+---
+title: Nature论文解读：不断发展的忆阻器产业（2025）
+tags:
+- chip
+- chiplet
+- literature
+- neuron
+- neuroscience
+- paper
+---
 - **类型**: link
 - **时间**: 2025-09-22 11:43:17
 - **标签**: AI链接笔记, 忆阻器产业, 存算一体（IMC）, RRAM/PCM/MRAM

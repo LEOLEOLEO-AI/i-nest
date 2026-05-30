@@ -1,5 +1,12 @@
-# 打破Chiplet的最后一道屏障：全新互联标准UCIe宣告成立
-
+---
+title: 打破Chiplet的最后一道屏障：全新互联标准UCIe宣告成立
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- wafer
+---
 > 笔记本: 技术学习  
 > 创建时间: 2022-03-02  
 

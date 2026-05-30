@@ -1,5 +1,16 @@
-# 基于SDI的物理Synapse与NN
-
+---
+title: 基于SDI的物理Synapse与NN
+tags:
+- brain
+- emergence
+- neural-networks
+- neuroscience
+- paper
+- project
+- self-organization
+- synapse
+- topology
+---
 - **类型**: plain_text
 - **时间**: 2026-01-12 05:43:24
 

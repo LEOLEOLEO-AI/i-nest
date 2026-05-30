@@ -1,5 +1,16 @@
-# 研究进展：AI+新材料，5篇类脑智能 | Science-Nature Computational Science
-
+---
+title: 研究进展：AI+新材料，5篇类脑智能 | Science-Nature Computational Science
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- deep-learning
+- dynamics
+- graph-neural-network
+- neural-networks
+- neuroscience
+- patent
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-25 03:52
 
@@ -267,3 +278,9 @@ Science
 ## 确认提交投诉
 你可以补充投诉原因（选填）
 确定
+
+## Related Notes
+
+- [[研究进展：AI+新材料，5篇类脑智能 | Science-Nature Computational Science]]
+- [[美国国家科学院院刊 (PNAS) | 脑启发神经环路演化赋能脉冲神经网络创新]]
+- [[GNN图神经网络，非结构化数据分析利器！]]

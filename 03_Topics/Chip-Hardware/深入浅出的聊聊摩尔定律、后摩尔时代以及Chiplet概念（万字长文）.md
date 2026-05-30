@@ -1,5 +1,14 @@
-# 深入浅出的聊聊摩尔定律、后摩尔时代以及Chiplet概念（万字长文）
-
+---
+title: 深入浅出的聊聊摩尔定律、后摩尔时代以及Chiplet概念（万字长文）
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-11-19  
 

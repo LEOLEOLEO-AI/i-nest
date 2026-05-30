@@ -1,5 +1,13 @@
-# 05 连接模式：什么样的系统更脆弱？ - 得到APP
-
+---
+title: 05 连接模式：什么样的系统更脆弱？ - 得到APP
+tags:
+- complex-networks
+- concepts-theory
+- fundamentals
+- scale-free-networks
+- small-world-networks
+- topology
+---
 > 笔记本: 复杂科学  
 > 创建时间: 2024-06-11  
 
@@ -1288,3 +1296,9 @@
       分享
           
 -
+
+## Related Notes
+
+- [[【科普园地】多智能体控制：从简单规则到复杂行为]]
+- [[复杂网络的基本概念、模型及应用]]
+- [[资料分享 | 复杂网络生成算法（后篇）]]

@@ -1,5 +1,17 @@
-# 黄铁军：沉迷于寻求通用智能理论，将是阻碍 AI 发展的最大障碍 | Yann LeCun 自传《科学之路》序
-
+---
+title: 黄铁军：沉迷于寻求通用智能理论，将是阻碍 AI 发展的最大障碍 | Yann LeCun 自传《科学之路》序
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- deep-learning
+- dynamics
+- embodied-ai
+- neural-networks
+- neuron
+- neuroscience
+---
 > 笔记本: 微信  
 > 创建时间: 2021-09-02  
 
@@ -201,3 +213,9 @@
 
 
 [阅读原文](https://mp.weixin.qq.com/s/bkvhkW7lkc-svbc5u_Hyuw##)
+
+## Related Notes
+
+- [[Yann LeCun：发现智能原理是AI的终极问题 | 独家对话]]
+- [[【深度】清华黄高等人新作：动态神经网络首篇综述]]
+- [[人工智能与人类思维的异同]]

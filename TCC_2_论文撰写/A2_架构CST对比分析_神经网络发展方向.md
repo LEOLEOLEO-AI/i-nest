@@ -1,5 +1,8 @@
-# Why All Deep Learning Architectures Are at Intelligence Level 0: A CST Analysis from CNN to Transformer
-
+---
+title: 'Why All Deep Learning Architectures Are at Intelligence Level 0: A CST Analysis from CNN to Transformer'
+tags:
+- transformer
+---
 ## 1. Title & Target
 **Target:** Nature Electronics / Advanced Materials / Neural Networks
 
@@ -17,3 +20,9 @@
 
 ## 5. The Limit of Current DL
 ...
+
+## Related Notes
+
+- [[Anthropic用“AI显微镜”扒开Claude“大脑结构”，揭示语言模型行为背后机制]]
+- [[GNN-Transformer新突破！全局与局部的完美融合]]
+- [[GNN图神经网络，非结构化数据分析利器！]]

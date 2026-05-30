@@ -1,5 +1,13 @@
-# FOPLP和CoPoS：SpaceX和TSMC将先进封装从晶圆引向面板
-
+---
+title: FOPLP和CoPoS：SpaceX和TSMC将先进封装从晶圆引向面板
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-06  
 

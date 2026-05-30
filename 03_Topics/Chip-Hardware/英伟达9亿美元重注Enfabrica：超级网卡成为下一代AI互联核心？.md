@@ -1,5 +1,13 @@
-# 英伟达9亿美元重注Enfabrica：超级网卡成为下一代AI互联核心？
-
+---
+title: 英伟达9亿美元重注Enfabrica：超级网卡成为下一代AI互联核心？
+tags:
+- chip
+- chip-hardware
+- large-language-model
+- paper
+- semiconductor
+- topology
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-09-30  
 

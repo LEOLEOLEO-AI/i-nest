@@ -1,5 +1,13 @@
-# 一文读懂 GPU 通信互联技术
-
+---
+title: 一文读懂 GPU 通信互联技术
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- simulation
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-03-05  
 

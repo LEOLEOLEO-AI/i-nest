@@ -1,5 +1,17 @@
-# Nature Electronics：一忆阻器、一晶体管、一电阻构建功能全面的脉冲人工神经元
-
+---
+title: Nature Electronics：一忆阻器、一晶体管、一电阻构建功能全面的脉冲人工神经元
+tags:
+- brain
+- chip
+- chip-hardware
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- semiconductor
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-11-07  
 

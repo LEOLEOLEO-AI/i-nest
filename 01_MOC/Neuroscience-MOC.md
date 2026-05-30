@@ -1,5 +1,17 @@
-# Neuroscience — 全景导航 (Map of Content)
-
+---
+title: Neuroscience — 全景导航 (Map of Content)
+tags:
+- brain
+- complex-networks
+- criticality
+- deep-learning
+- dynamics
+- emergence
+- free-energy-principle
+- information-theory
+- neural-networks
+- neuron
+---
 > 自动生成 | 最后更新: 2026-05-30 00:29
 > 包含 119 条笔记
 

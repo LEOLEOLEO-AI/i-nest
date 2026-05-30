@@ -1,5 +1,17 @@
-# 深度学习新动向！液态神经网络拿下Nature子刊，19个神经元驾驶一辆车！
-
+---
+title: 深度学习新动向！液态神经网络拿下Nature子刊，19个神经元驾驶一辆车！
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- deep-learning
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- project
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-11-13  
 

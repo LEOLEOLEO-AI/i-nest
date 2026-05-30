@@ -1,5 +1,17 @@
-# 类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析
-
+---
+title: 类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析
+tags:
+- ai-ml
+- artificial-intelligence
+- attention-mechanism
+- brain
+- chip
+- dynamics
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-31 07:51
 

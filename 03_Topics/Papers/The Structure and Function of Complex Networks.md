@@ -36,3 +36,9 @@ Extend reviewed principles to the active design of physical networks (swarms, sm
 - Design and optimization of networks for specific intelligent functions (learning, adaptation).
 - Integration of network structure with node-level computational or cognitive capabilities.
 - Real-time, adaptive rewiring in physical networks as a form of collective intelligence.
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

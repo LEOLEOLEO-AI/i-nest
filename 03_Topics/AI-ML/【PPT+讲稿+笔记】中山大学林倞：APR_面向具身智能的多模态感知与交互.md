@@ -1,5 +1,17 @@
-# 【PPT+讲稿+笔记】中山大学林倞：APR 面向具身智能的多模态感知与交互
-
+---
+title: 【PPT+讲稿+笔记】中山大学林倞：APR 面向具身智能的多模态感知与交互
+tags:
+- ai-ml
+- artificial-intelligence
+- chiplet
+- embodied-ai
+- large-language-model
+- neural-networks
+- neuroscience
+- paper
+- robotics
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-06-01  
 

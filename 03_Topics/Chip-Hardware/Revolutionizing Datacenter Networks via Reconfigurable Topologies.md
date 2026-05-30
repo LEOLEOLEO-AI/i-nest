@@ -165,3 +165,8 @@ According to Papen, dynamic topologies also introduce novel failure scenarios, f
 ## Acknowledgments
 
 We would like to thank our interviewees Manya, Amin, and George, and all our co-authors and students working with us on self-adjusting networks over the last years. Research supported by the European Research Council (ERC), grant agreement no. 864228 (AdjustNet), as well as by the Israeli Science Foundation, grant ISF 2497/23.
+
+## Related Notes
+
+- [[从“备胎”到训练推理“正式分家”：谷歌TPU的十一年]]
+- [[您的一站式 AI 工作空间]]

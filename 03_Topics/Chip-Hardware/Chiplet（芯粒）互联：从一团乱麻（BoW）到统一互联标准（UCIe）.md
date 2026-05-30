@@ -1,5 +1,14 @@
-# Chiplet（芯粒）互联：从一团乱麻（BoW）到统一互联标准（UCIe）
-
+---
+title: Chiplet（芯粒）互联：从一团乱麻（BoW）到统一互联标准（UCIe）
+tags:
+- chip
+- chip-hardware
+- chiplet
+- patent
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-03-27  
 

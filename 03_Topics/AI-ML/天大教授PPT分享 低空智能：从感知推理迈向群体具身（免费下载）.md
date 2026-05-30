@@ -1,5 +1,14 @@
-# 天大教授PPT分享 | 低空智能：从感知推理迈向群体具身（免费下载）
-
+---
+title: 天大教授PPT分享 | 低空智能：从感知推理迈向群体具身（免费下载）
+tags:
+- ai-ml
+- artificial-intelligence
+- chiplet
+- embodied-ai
+- paper
+- project
+- robotics
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-24 01:35
 

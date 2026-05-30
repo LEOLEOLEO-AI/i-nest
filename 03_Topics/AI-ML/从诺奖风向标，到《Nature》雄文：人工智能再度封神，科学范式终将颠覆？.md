@@ -1,5 +1,17 @@
-# 从诺奖风向标，到《Nature》雄文：人工智能再度封神，科学范式终将颠覆？
-
+---
+title: 从诺奖风向标，到《Nature》雄文：人工智能再度封神，科学范式终将颠覆？
+tags:
+- ai-ml
+- artificial-intelligence
+- chiplet
+- deep-learning
+- emergence
+- large-language-model
+- paper
+- project
+- simulation
+- survey
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2023-10-05  
 

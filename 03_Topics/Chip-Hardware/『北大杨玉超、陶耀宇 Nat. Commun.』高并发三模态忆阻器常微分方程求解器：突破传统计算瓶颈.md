@@ -1,5 +1,12 @@
-# 『北大杨玉超、陶耀宇 Nat. Commun.』高并发三模态忆阻器常微分方程求解器：突破传统计算瓶颈
-
+---
+title: 『北大杨玉超、陶耀宇 Nat. Commun.』高并发三模态忆阻器常微分方程求解器：突破传统计算瓶颈
+tags:
+- brain
+- chip
+- chip-hardware
+- semiconductor
+- simulation
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-13 21:45
 

@@ -1,5 +1,17 @@
-# Nature子刊突破：多突触脉冲神经元（MSF）实现时空动态统一编码
-
+---
+title: Nature子刊突破：多突触脉冲神经元（MSF）实现时空动态统一编码
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- chiplet
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- robotics
+---
 - **类型**: link
 - **时间**: 2026-03-01 13:36:16
 - **标签**: AI链接笔记, 脉冲神经网络（SNN）, 多突触神经元（MSF）, 时空编码

@@ -1,5 +1,16 @@
-# Science：忆阻器技术：存储/计算/加密/通信，四大领域的跨界颠覆者
-
+---
+title: Science：忆阻器技术：存储/计算/加密/通信，四大领域的跨界颠覆者
+tags:
+- chip
+- chip-hardware
+- neural-networks
+- neuroscience
+- paper
+- robotics
+- semiconductor
+- survey
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-11-12  
 

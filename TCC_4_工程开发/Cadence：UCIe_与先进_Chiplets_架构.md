@@ -1,5 +1,11 @@
-# Cadence：UCIe 与先进 Chiplets 架构
-
+---
+title: Cadence：UCIe 与先进 Chiplets 架构
+tags:
+- chip
+- chiplet
+- project
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-12-24  
 

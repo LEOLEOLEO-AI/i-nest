@@ -1,5 +1,17 @@
-# 复杂网络理论奠基之作深度解析：《Complex networks: Structure and dynamics》
-
+---
+title: '复杂网络理论奠基之作深度解析：《Complex networks: Structure and dynamics》'
+tags:
+- brain
+- chiplet
+- complex-networks
+- concepts-theory
+- dynamics
+- fundamentals
+- graph-neural-network
+- neural-networks
+- neuron
+- neuroscience
+---
 - **类型**: link
 - **时间**: 2026-03-11 18:04:40
 - **标签**: AI链接笔记, 复杂网络理论, 无标度网络, 传播动力学

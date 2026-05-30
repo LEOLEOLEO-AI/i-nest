@@ -1,5 +1,17 @@
-# Brain2与SNNGrow的关系？研究类脑智能涌现需要用什么工具？如何开发异步电路实现SNN？
-
+---
+title: Brain2与SNNGrow的关系？研究类脑智能涌现需要用什么工具？如何开发异步电路实现SNN？
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- criticality
+- dynamics
+- emergence
+- neural-networks
+- neuron
+- neuroscience
+---
 - **类型**: plain_text
 - **时间**: 2025-07-05 22:18:53
 

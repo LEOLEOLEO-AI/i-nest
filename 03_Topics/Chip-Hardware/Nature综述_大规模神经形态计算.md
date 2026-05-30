@@ -1,5 +1,17 @@
-# Nature综述：大规模神经形态计算
-
+---
+title: Nature综述：大规模神经形态计算
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- dynamics
+- emergence
+- graph-neural-network
+- large-language-model
+- neural-networks
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-19 18:30
 

@@ -1,5 +1,14 @@
-# 微分方程求解的 “智能进化”：从 PINN 到新一代神经网络方法
-
+---
+title: 微分方程求解的 “智能进化”：从 PINN 到新一代神经网络方法
+tags:
+- ai-ml
+- artificial-intelligence
+- deep-learning
+- neural-networks
+- neuron
+- neuroscience
+- survey
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-20  
 

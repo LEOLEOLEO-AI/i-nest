@@ -1,5 +1,16 @@
-# 「千脑计划」启动，模仿人类大脑皮层，开发全新AI，盖茨资助
-
+---
+title: 「千脑计划」启动，模仿人类大脑皮层，开发全新AI，盖茨资助
+tags:
+- brain
+- chip
+- chiplet
+- neural-networks
+- neuron
+- neuroscience
+- patent
+- project
+- robotics
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-12-18  
 

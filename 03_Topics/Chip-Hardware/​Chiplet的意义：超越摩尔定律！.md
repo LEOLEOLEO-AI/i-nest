@@ -1,5 +1,13 @@
-# ​Chiplet的意义：超越摩尔定律！
-
+---
+title: ​Chiplet的意义：超越摩尔定律！
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2020-07-26  
 

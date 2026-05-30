@@ -1,5 +1,15 @@
-# CST理论 × 集合通信硬件化：理论基础
-
+---
+title: CST理论 × 集合通信硬件化：理论基础
+tags:
+- brain
+- chip-hardware
+- chiplet
+- criticality
+- semiconductor
+- simulation
+- small-world-networks
+- topology
+---
 ## 核心命题
 
 > 集合通信（Allreduce/Alltoall）的效率瓶颈，本质是**网络拓扑复杂度与通信任务复杂度的失配**。

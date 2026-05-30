@@ -1,5 +1,15 @@
-# 全球首个符合ASIL-D的车规级Chiplet D2D互连IP流片
-
+---
+title: 全球首个符合ASIL-D的车规级Chiplet D2D互连IP流片
+tags:
+- chip
+- chip-hardware
+- chiplet
+- patent
+- robotics
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2023-06-12  
 

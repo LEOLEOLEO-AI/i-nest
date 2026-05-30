@@ -1,5 +1,11 @@
-# 独家整理：GPU服务器互联技术分析
-
+---
+title: 独家整理：GPU服务器互联技术分析
+tags:
+- chip
+- chip-hardware
+- semiconductor
+- topology
+---
 > 笔记本: 技术学习  
 > 创建时间: 2024-09-02  
 

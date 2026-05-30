@@ -1,5 +1,13 @@
-# HotChip2024-Day2: AI加速器互联和云AI处理器, Tesla是亮点
-
+---
+title: 'HotChip2024-Day2: AI加速器互联和云AI处理器, Tesla是亮点'
+tags:
+- chip
+- chip-hardware
+- large-language-model
+- semiconductor
+- topology
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-08-28  
 

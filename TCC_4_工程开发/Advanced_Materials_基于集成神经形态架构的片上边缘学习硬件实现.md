@@ -1,5 +1,14 @@
-# Advanced Materials 基于集成神经形态架构的片上边缘学习硬件实现
-
+---
+title: Advanced Materials 基于集成神经形态架构的片上边缘学习硬件实现
+tags:
+- brain
+- chip
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- synapse
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-11  
 
@@ -26,3 +35,9 @@
 标题：Hardware Implementation of On-Chip Hebbian Learning Through Integrated Neuromorphic Architecture
 链接：https://doi.org/10.1002/adma.202506920 （阅读原文直达链接）
 如有任何问题，欢迎留言私信！！
+
+## Related Notes
+
+- [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
+- [[Nat. Com.：可穿戴神经形态系统]]
+- [[Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI]]

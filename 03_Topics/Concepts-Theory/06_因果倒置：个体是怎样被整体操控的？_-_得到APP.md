@@ -1,5 +1,13 @@
-# 06 因果倒置：个体是怎样被整体操控的？ - 得到APP
-
+---
+title: 06 因果倒置：个体是怎样被整体操控的？ - 得到APP
+tags:
+- brain
+- concepts-theory
+- emergence
+- fundamentals
+- neuron
+- neuroscience
+---
 > 笔记本: 复杂科学  
 > 创建时间: 2024-06-15  
 

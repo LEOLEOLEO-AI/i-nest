@@ -385,3 +385,9 @@ if __name__ == "__main__":
 
 ---
 *来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 10:40*
+
+## Related Notes
+
+- [[2028全球智能危机：人工智能引发的经济与制度冲击全景分析]]
+- [[AgentEvolver vs AlphaEvolve：AI自我进化的两条核心路线对比 🧠]]
+- [[AI双引擎的未来之光]]

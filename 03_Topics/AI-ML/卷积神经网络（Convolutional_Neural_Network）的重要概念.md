@@ -1,5 +1,12 @@
-# 卷积神经网络（Convolutional Neural Network）的重要概念
-
+---
+title: 卷积神经网络（Convolutional Neural Network）的重要概念
+tags:
+- ai-ml
+- artificial-intelligence
+- neural-networks
+- neuroscience
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-03-26  
 

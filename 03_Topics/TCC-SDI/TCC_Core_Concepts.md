@@ -1,5 +1,17 @@
-# TCC核心概念与基线理论集 (TCC Core Concepts)
-
+---
+title: TCC核心概念与基线理论集 (TCC Core Concepts)
+tags:
+- brain
+- criticality
+- emergence
+- free-energy-principle
+- large-language-model
+- paper
+- project
+- self-organization
+- simulation
+- small-world-networks
+---
 > **知识库说明**：本文档为iNEST课题组“网络中心计算（TCC）”范式的纯文本高密度知识提取。作为大模型与研究人员共同使用的**系统提示词与概念基线**。所有后续的项目申报、论文写作、代码生成，均需以此文档中的数学定义和学术表述为锚点。
 
 ## 一、 第一性原理：网络中心计算 (Network-Centric Computing, TCC)

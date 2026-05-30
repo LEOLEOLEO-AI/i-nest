@@ -1,5 +1,12 @@
-# 动态神经网络 Nature Machine Intelligence
-
+---
+title: 动态神经网络 Nature Machine Intelligence
+tags:
+- ai-ml
+- artificial-intelligence
+- neural-networks
+- neuroscience
+- paper
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-01 11:52
 
@@ -17,3 +24,9 @@
 本图把 AdaptiveNN 的“省钱”本领一次说透：在 CUB-200-2011、NABirds、Oxford-IIIT Pet、Stanford Dogs、Cars、FGVC-Aircraft 六个细粒度视觉数据集上，它用同一份训练好的权重，在线调节计算量，就能把平均浮点运算数砍掉约 6～8 倍，而精度与 DeiT-T/S 在 224²、288²、384² 三种固定分辨率上重新训练出来的模型几乎齐平；柱子越高代表越省钱，曲线越稳说明精度没掉，证明 AdaptiveNN 无需为不同预算重训网络，现场“勒紧裤腰带”就能按需省算力。
 ## 实验
 该表格实验结果展现出显著的计算-精度权衡规律：随着单样本平均浮点运算量自0.09 GFLOPs递增至3.40 GFLOPs，AdaptiveNN-DeiT-S在五次独立试验中的平均Top-1准确率由75.7%单调提升至82.2%，其标准差始终低于0.25%，表明模型在无需重训练的前提下即可通过在线调节注视次数实现稳定且可重复的连续性能缩放；该线性可预测的计算-精度映射关系验证了自适应视觉感知框架在资源受限与性能需求动态变化场景下的可扩展性与鲁棒性。
+
+## Related Notes
+
+- [[GNN联合transformer最新突破！！！]]
+- [[八大神经网络，从原理到应用]]
+- [[关于脉冲神经网络的数学原理]]

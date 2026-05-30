@@ -1,5 +1,14 @@
-# Google TPU的3D拓扑设计
-
+---
+title: Google TPU的3D拓扑设计
+tags:
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- dynamics
+- semiconductor
+- topology
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-29 06:51
 

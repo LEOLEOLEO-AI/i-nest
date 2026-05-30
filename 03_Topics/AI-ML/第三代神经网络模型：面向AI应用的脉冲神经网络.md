@@ -1,5 +1,17 @@
-# 第三代神经网络模型：面向AI应用的脉冲神经网络
-
+---
+title: 第三代神经网络模型：面向AI应用的脉冲神经网络
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- complex-networks
+- criticality
+- deep-learning
+- dynamics
+- emergence
+- neural-networks
+---
 > 笔记本: 技术学习  
 > 创建时间: 2024-05-09  
 

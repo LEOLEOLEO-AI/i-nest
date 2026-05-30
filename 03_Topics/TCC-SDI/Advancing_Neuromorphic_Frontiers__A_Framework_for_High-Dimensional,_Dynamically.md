@@ -1,5 +1,12 @@
-# Advancing Neuromorphic Frontiers: A Framework for High-Dimensional, Dynamically
-
+---
+title: 'Advancing Neuromorphic Frontiers: A Framework for High-Dimensional, Dynamically'
+tags:
+- attention-mechanism
+- chiplet
+- large-language-model
+- software-defined
+- tcc-sdi
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2026-01-11  
 

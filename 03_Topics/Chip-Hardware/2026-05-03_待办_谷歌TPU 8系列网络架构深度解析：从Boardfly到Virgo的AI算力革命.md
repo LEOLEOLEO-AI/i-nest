@@ -1,14 +1,17 @@
 ---
-title: "谷歌TPU 8系列网络架构深度解析：从Boardfly到Virgo的AI算力革命"
+title: 谷歌TPU 8系列网络架构深度解析：从Boardfly到Virgo的AI算力革命
 date: 2026-05-03
-time: "12:54"
+time: '12:54'
 note_id: 1908881119663733904
 category: 待办
 source: get笔记
-links: ["[[iNEST_Academic_Belief_Core]]"]
-tags: [{"id": "129910998", "name": "AI链接笔记", "type": "system"}, {"id": "527002433", "name": "Boardfly拓扑", "type": "ai"}, {"id": "527002434", "name": "Virgo网络", "type": "ai"}, {"id": "527003438", "name": "谷歌TPU 8系列", "type": "ai"}]
+links:
+- '[[iNEST_Academic_Belief_Core]]'
+tags:
+- boardfly拓扑
+- virgo网络
+- 谷歌tpu-8系列
 ---
-
 > 关联知识：[[iNEST_Academic_Belief_Core]]
 
 ### **🌐 网络架构在解耦式数据中心中的核心地位**

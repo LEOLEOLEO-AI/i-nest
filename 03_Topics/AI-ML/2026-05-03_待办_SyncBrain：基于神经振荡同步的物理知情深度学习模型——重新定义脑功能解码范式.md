@@ -1,14 +1,16 @@
 ---
-title: "SyncBrain：基于神经振荡同步的物理知情深度学习模型——重新定义脑功能解码范式"
+title: SyncBrain：基于神经振荡同步的物理知情深度学习模型——重新定义脑功能解码范式
 date: 2026-05-03
-time: "11:11"
+time: '11:11'
 note_id: 1908874448505781392
 category: 待办
 source: get笔记
 links: []
-tags: [{"id": "129910998", "name": "AI链接笔记", "type": "system"}, {"id": "526975299", "name": "神经振荡同步", "type": "ai"}, {"id": "526975300", "name": "物理知情深度学习", "type": "ai"}, {"id": "526975301", "name": "SyncBrain模型", "type": "ai"}]
+tags:
+- 神经振荡同步
+- 物理知情深度学习
+- syncbrain模型
 ---
-
 ### **🧠 研究背景：从神经同步机制到可解释脑建模的挑战**
 
 #### **(一) 神经科学基础**
@@ -90,3 +92,9 @@ tags: [{"id": "129910998", "name": "AI链接笔记", "type": "system"}, {"id": "
   - **神经振荡同步**：不同脑区神经元集群通过节律性电活动实现相位同步，是大脑信息整合的核心方式。
   - **Kuramoto振子模型**：描述耦合振子系统同步现象的经典物理模型，可模拟从混沌到同步的相变过程。
   - **几何散射变换（GST）**：一种多尺度信号处理方法，能保留数据的拓扑结构和频谱特性。
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

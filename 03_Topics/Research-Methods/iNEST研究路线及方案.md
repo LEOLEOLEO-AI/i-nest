@@ -1,5 +1,17 @@
-# iNEST研究路线及方案
-
+---
+title: iNEST研究路线及方案
+tags:
+- brain
+- criticality
+- dynamics
+- emergence
+- information-theory
+- methodology
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 - **类型**: plain_text
 - **时间**: 2026-01-23 11:25:20
 

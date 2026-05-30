@@ -187,3 +187,9 @@ https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-ai-
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 12:57*
+
+## Related Notes
+
+- [[AutoResearchClaw：全自动端到端AI科研智能体深度解析]]
+- [[DeepSeek：引领全球AI创新的新力量]]
+- [[智能荧光粉的神经形态行为实现全光物理储层计算]]

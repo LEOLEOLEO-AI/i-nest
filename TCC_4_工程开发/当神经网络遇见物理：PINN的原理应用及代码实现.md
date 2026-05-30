@@ -1,5 +1,12 @@
-# 当神经网络遇见物理：PINN的原理应用及代码实现
-
+---
+title: 当神经网络遇见物理：PINN的原理应用及代码实现
+tags:
+- deep-learning
+- neural-networks
+- neuroscience
+- project
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-26  
 
@@ -57,3 +64,9 @@ from torch.optim import Adam, LBFGSmodel_pinn_v2 = Net(indim=2, outdim=1).to(
 def u_model_pinn_v2(xs, ts):    pts = torch.stack([xs, ts], dim=1).to(DEVICE)    return model_pinn_v2(pts)pts = 200ts = torch.linspace(0.2, 0, pts, device=DEVICE)xs = torch.linspace(-5, 5, pts, device=DEVICE)X, T = torch.meshgrid(xs, ts, indexing="ij")X = X.TT = T.Timg = []for x, t in zip(X, T):    img.append(u_model_pinn_v2(x, t).detach().cpu().numpy().tolist())plt.imshow(img)plt.colorbar()
 ****
 **以上内容只是对 PINN 的一个简要介绍。在写作过程中，我参考了许多文献和网络资料，也借助了 AI 工具。如今，AI 已经越来越多地融入人们的日常生活，数值仿真领域也不例外。各大仿真软件公司纷纷加大在 AI 项目的投入和布局，传统数值分析正逐步向 AI 驱动的方向演进，这一趋势已经十分明显。未来几年，AI 很可能会对传统的数值仿真模式产生巨大影响。但这并不意味着传统数值方法会被取代，二者各自都有独特的优势。可以预见，AI 与传统方法的结合将成为数值仿真领域的发展方向。希望我的文章能够对读者有所启发，让大家在学习传统数值方法的同时，也能了解并掌握一些 AI 的知识。**
+
+## Related Notes
+
+- [[神经形态计算开源资源]]
+- [[2021年中国人工智能产业发展趋势]]
+- [[3D图解神经网络]]

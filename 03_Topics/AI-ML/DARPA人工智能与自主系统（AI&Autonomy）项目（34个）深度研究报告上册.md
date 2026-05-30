@@ -1,5 +1,13 @@
-# DARPA人工智能与自主系统（AI&Autonomy）项目（34个）深度研究报告上册
-
+---
+title: DARPA人工智能与自主系统（AI&Autonomy）项目（34个）深度研究报告上册
+tags:
+- ai-ml
+- artificial-intelligence
+- deep-learning
+- neuroscience
+- project
+- robotics
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-12-05  
 

@@ -1,5 +1,11 @@
-# 美国国防高级研究计划局（DARPA）副局长点名“战略混沌引擎”（SCEPTER），称其为AI在军事领域最具代表性的颠覆性应用项目
-
+---
+title: 美国国防高级研究计划局（DARPA）副局长点名“战略混沌引擎”（SCEPTER），称其为AI在军事领域最具代表性的颠覆性应用项目
+tags:
+- chiplet
+- neuroscience
+- project
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-30  
 

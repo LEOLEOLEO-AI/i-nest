@@ -1,5 +1,16 @@
-# 仿真验证：基于真实C. elegans Connectome的复杂网络分析
-
+---
+title: 仿真验证：基于真实C. elegans Connectome的复杂网络分析
+tags:
+- complex-networks
+- criticality
+- neural-networks
+- neuron
+- neuroscience
+- simulation
+- small-world-networks
+- synapse
+- topology
+---
 **仿真日期**：2026-03-24
 **仿真环境**：Python 3.12, NetworkX 3.x, Genspark Claw VM（Azure, West Central US）
 **数据来源**：Varshney et al. 2011，WormAtlas官网公开数据（NeuronConnect.xls）
@@ -115,3 +126,9 @@
 | 连接效率增益仅8% | 超线性幅度偏小 | 加入突触权重（非二值网络） |
 | 未验证并行多任务处理优势 | 需要功能性任务设计 | 下一步：信号分离实验（Brian2） |
 | 未与SDI工程参数对接 | 仍在生物参数空间 | 下一步：工程参数映射（见05文件）|
+
+## Related Notes
+
+- [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
+- [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
+- [[通向复杂大脑的神秘数学之旅]]

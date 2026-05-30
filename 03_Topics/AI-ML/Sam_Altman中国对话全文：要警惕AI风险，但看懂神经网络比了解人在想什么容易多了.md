@@ -1,5 +1,17 @@
-# Sam Altman中国对话全文：要警惕AI风险，但看懂神经网络比了解人在想什么容易多了
-
+---
+title: Sam Altman中国对话全文：要警惕AI风险，但看懂神经网络比了解人在想什么容易多了
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- embodied-ai
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2023-06-10  
 

@@ -1,5 +1,12 @@
-# 一文读懂Dragonfly网络拓扑
-
+---
+title: 一文读懂Dragonfly网络拓扑
+tags:
+- chip-hardware
+- chiplet
+- paper
+- semiconductor
+- topology
+---
 > 笔记本: 微信  
 > 创建时间: 2023-03-20  
 

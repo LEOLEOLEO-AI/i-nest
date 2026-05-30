@@ -1,5 +1,17 @@
-# 生物启发的脉冲神经网络（SNN）设计与研究进展
-
+---
+title: 生物启发的脉冲神经网络（SNN）设计与研究进展
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- complex-networks
+- deep-learning
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+---
 - **类型**: link
 - **时间**: 2025-07-22 19:50:01
 - **标签**: AI链接笔记, 脉冲神经网络(SNN), 类脑人工智能, 神经元模型

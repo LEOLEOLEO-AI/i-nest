@@ -1,3 +1,17 @@
+---
+title: NSFC 三层课题包拆解
+tags:
+- brain
+- complex-networks
+- dynamics
+- emergence
+- neuroscience
+- paper
+- patent
+- plasticity
+- project
+- project-management
+---
 ﻿﻿---
 type: project-package
 tags:
@@ -147,3 +161,8 @@ tags:
 - 20_Projects/00_2026-2027核心项目池
 - 20_Projects/CST仿真平台/CST仿真平台
 
+## Related Notes
+
+- [[Concepts-Theory — 全景导航 (Map of Content)]]
+- [[TCC 计算范式 — 全景导航 (Map of Content)]]
+- [[网络时空复杂度驱动的晶圆级异构集成具身智能涌现]]

@@ -1,4 +1,16 @@
-# 海河实验室项目指南（2026年度重大专项）
+---
+title: 海河实验室项目指南（2026年度重大专项）
+tags:
+- chip
+- chiplet
+- complex-networks
+- emergence
+- paper
+- patent
+- project
+- simulation
+- topology
+---
 ## 基于元拓扑-SDI化合键理论的介观尺度网络智能涌现芯片架构与端侧MVP产品研发
 
 ### 一、 项目定位与建设背景
@@ -68,3 +80,9 @@
 
 ---
 **Tags:** #NaaS #StrategicProposal #CST #SDSoW #SDI #Chiplet
+
+## Related Notes
+
+- [[海河实验室项目指南（2026年度重大专项）]]
+- [[海河实验室2026年度重大专项项目申报书]]
+- [[海河实验室2026年度重大专项项目指南]]

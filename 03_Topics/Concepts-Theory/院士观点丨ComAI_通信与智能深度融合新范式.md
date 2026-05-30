@@ -1,5 +1,17 @@
-# 院士观点丨ComAI:通信与智能深度融合新范式
-
+---
+title: 院士观点丨ComAI:通信与智能深度融合新范式
+tags:
+- chip
+- concepts-theory
+- deep-learning
+- fundamentals
+- information-theory
+- large-language-model
+- neural-networks
+- neuroscience
+- project
+- robotics
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-07-18  
 
@@ -141,3 +153,9 @@
 联系电话：0311-86924962/86924204
 通信地址：河北省石家庄市中山西路589号
 邮编：050081
+
+## Related Notes
+
+- [[理论篇：人工智能的本质是什么]]
+- [[华为智能驾驶芯片深度分析]]
+- [[人工智能的第一性原理是什么？]]

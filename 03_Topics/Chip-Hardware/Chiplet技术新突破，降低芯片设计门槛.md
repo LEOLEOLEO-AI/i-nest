@@ -1,5 +1,15 @@
-# Chiplet技术新突破，降低芯片设计门槛
-
+---
+title: Chiplet技术新突破，降低芯片设计门槛
+tags:
+- chip
+- chip-hardware
+- chiplet
+- paper
+- semiconductor
+- simulation
+- topology
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-11-12  
 

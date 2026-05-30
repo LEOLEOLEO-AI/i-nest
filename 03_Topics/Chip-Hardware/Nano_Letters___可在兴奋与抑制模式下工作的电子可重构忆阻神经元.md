@@ -1,5 +1,13 @@
-# Nano Letters | 可在兴奋与抑制模式下工作的电子可重构忆阻神经元
-
+---
+title: Nano Letters | 可在兴奋与抑制模式下工作的电子可重构忆阻神经元
+tags:
+- brain
+- chip-hardware
+- neuron
+- neuroscience
+- semiconductor
+- synapse
+---
 > 笔记本: 来自小程序「印象笔记」  
 > 创建时间: 2025-01-26  
 
@@ -62,3 +70,9 @@
 
 个人观点，仅供参考
 阅读原文
+
+## Related Notes
+
+- [[Hala Point：英特尔打造全球最大“类脑”计算系统]]
+- [[Hala Point：英特尔打造全球最大“类脑”计算系统]]
+- [[Nat. Com.：可穿戴神经形态系统]]

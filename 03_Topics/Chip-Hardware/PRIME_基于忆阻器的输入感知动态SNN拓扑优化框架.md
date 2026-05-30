@@ -1,5 +1,17 @@
-# PRIME：基于忆阻器的输入感知动态SNN拓扑优化框架
-
+---
+title: PRIME：基于忆阻器的输入感知动态SNN拓扑优化框架
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- plasticity
+- project
+- semiconductor
+- simulation
+---
 - **类型**: link
 - **时间**: 2025-12-04 17:41:31
 - **标签**: AI链接笔记, 忆阻器, 脉冲神经网络(SNN), PRIME框架

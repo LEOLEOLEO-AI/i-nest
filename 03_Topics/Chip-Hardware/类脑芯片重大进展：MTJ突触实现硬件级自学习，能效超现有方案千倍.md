@@ -1,5 +1,16 @@
-# 类脑芯片重大进展：MTJ突触实现硬件级自学习，能效超现有方案千倍
-
+---
+title: 类脑芯片重大进展：MTJ突触实现硬件级自学习，能效超现有方案千倍
+tags:
+- brain
+- chip
+- chip-hardware
+- neuron
+- neuroscience
+- plasticity
+- semiconductor
+- simulation
+- synapse
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-20  
 

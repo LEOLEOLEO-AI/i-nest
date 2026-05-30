@@ -1,5 +1,13 @@
-# Chiplet成为半导体的下一个竞争高地
-
+---
+title: Chiplet成为半导体的下一个竞争高地
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2020-12-23  
 

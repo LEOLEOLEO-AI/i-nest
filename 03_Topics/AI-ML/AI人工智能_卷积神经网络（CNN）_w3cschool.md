@@ -1,5 +1,16 @@
-# AI人工智能 卷积神经网络（CNN）_w3cschool
-
+---
+title: AI人工智能 卷积神经网络（CNN）_w3cschool
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- deep-learning
+- neural-networks
+- neuron
+- neuroscience
+- project
+- topology
+---
 > 笔记本: 微信  
 > 创建时间: 2022-03-12  
 

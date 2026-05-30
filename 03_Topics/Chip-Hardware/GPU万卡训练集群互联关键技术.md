@@ -1,5 +1,13 @@
-# GPU万卡训练集群互联关键技术
-
+---
+title: GPU万卡训练集群互联关键技术
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- semiconductor
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-09-15  
 

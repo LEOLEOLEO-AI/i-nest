@@ -1,5 +1,17 @@
-# SDI节点接口规范与化合键定义
-
+---
+title: SDI节点接口规范与化合键定义
+tags:
+- brain
+- chip
+- criticality
+- neuron
+- neuroscience
+- plasticity
+- self-organization
+- simulation
+- small-world-networks
+- synapse
+---
 **版本**：v1.0  
 **日期**：2026-03-24  
 **状态**：已确认，可用于仿真参数化  
@@ -322,3 +334,9 @@ class Bond:
 
 *存档路径：`/home/work/.openclaw/workspace/知识库_网络超线性增益/11_SDI节点接口规范与化合键定义.md`*  
 *本文档基于2026-03-24与刘勤让教授讨论内容整理，已确认的设计决策见第一至五节，第六节为实现建议，第七节为待决问题。*
+
+## Related Notes
+
+- [[忆阻器网络频谱提取]]
+- [[类脑芯片重大进展：MTJ突触实现硬件级自学习，能效超现有方案千倍]]
+- [[iNEST 机构 — 全景导航 (Map of Content)]]

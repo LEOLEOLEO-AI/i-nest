@@ -1,5 +1,13 @@
-# 全栈开源+RISC-V+开放芯粒！Tenstorrent：Jim Keller带队，颠覆AI算力格局
-
+---
+title: 全栈开源+RISC-V+开放芯粒！Tenstorrent：Jim Keller带队，颠覆AI算力格局
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- semiconductor
+- simulation
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-03-01 03:48
 

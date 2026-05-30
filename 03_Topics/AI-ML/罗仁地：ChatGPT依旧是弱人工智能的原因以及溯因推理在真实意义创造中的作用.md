@@ -1,5 +1,12 @@
-# 罗仁地：ChatGPT依旧是弱人工智能的原因以及溯因推理在真实意义创造中的作用
-
+---
+title: 罗仁地：ChatGPT依旧是弱人工智能的原因以及溯因推理在真实意义创造中的作用
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- transformer
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-07-03  
 

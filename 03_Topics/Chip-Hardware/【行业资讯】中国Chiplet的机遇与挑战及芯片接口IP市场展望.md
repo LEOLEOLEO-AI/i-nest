@@ -1,5 +1,15 @@
-# 【行业资讯】中国Chiplet的机遇与挑战及芯片接口IP市场展望
-
+---
+title: 【行业资讯】中国Chiplet的机遇与挑战及芯片接口IP市场展望
+tags:
+- chip
+- chip-hardware
+- chiplet
+- patent
+- project
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-04-05  
 

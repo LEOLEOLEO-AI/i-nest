@@ -1,5 +1,12 @@
-# 新加坡A*STAR IME：多芯粒(chiplet)异构集成互联技术(2.5D/3D封装、CPO)
-
+---
+title: 新加坡A*STAR IME：多芯粒(chiplet)异构集成互联技术(2.5D/3D封装、CPO)
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-16  
 

@@ -1,5 +1,16 @@
-# Science Advances：片上光互联，忆阻闪烁神经元构建三维脉冲神经网络
-
+---
+title: Science Advances：片上光互联，忆阻闪烁神经元构建三维脉冲神经网络
+tags:
+- brain
+- chip
+- chip-hardware
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- semiconductor
+- synapse
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-20 04:53
 

@@ -1,5 +1,13 @@
-# Cell Reports | 大脑如何用“死”结构算“活”账？神经递质调控揭示人类智力与热力学的新奥秘
-
+---
+title: Cell Reports | 大脑如何用“死”结构算“活”账？神经递质调控揭示人类智力与热力学的新奥秘
+tags:
+- brain
+- brain-science
+- dynamics
+- neuroscience
+- paper
+- synapse
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-08 18:57
 
@@ -163,3 +171,9 @@ Figure 5. Linking brain computability, intelligence, thermodynamic non-equilibri
 
 ## 确认提交投诉
 你可以补充投诉原因（选填）确定
+
+## Related Notes
+
+- [[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]
+- [[Yann LeCun：发现智能原理是AI的终极问题 | 独家对话]]
+- [[[Nature子刊] 北大杨玉超团队实现二维材料“全同质”集成，同一块晶圆实现视觉处理全流程]]

@@ -1,5 +1,16 @@
-# 英伟达研究：NVIDIA智能驾驶战略对比分析
-
+---
+title: 英伟达研究：NVIDIA智能驾驶战略对比分析
+tags:
+- chip
+- chip-hardware
+- deep-learning
+- large-language-model
+- patent
+- robotics
+- semiconductor
+- simulation
+- survey
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-16  
 

@@ -66,3 +66,9 @@ http://quxiedu.com:6230/archives/chong-bang-xiao-xi-yi-xue-lei-mo-ban-ppthuo-qu
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 10:16*
+
+## Related Notes
+
+- [[美国军用无人系统技术（2010-2025）：创新趋势与实战应用研究]]
+- [[DARPA投资3D异构集成（3DHI）先进封装工厂深度研究：重塑美国微电子产业格局]]
+- [[DARPA 3D异构集成（3DHI）战略研究：应用场景、技术突破与创新模式]]

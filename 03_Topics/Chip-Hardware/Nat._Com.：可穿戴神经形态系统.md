@@ -1,5 +1,17 @@
-# Nat. Com.：可穿戴神经形态系统
-
+---
+title: Nat. Com.：可穿戴神经形态系统
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- semiconductor
+- synapse
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-07-20  
 

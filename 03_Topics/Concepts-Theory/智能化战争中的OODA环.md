@@ -1,5 +1,13 @@
-# 智能化战争中的OODA环
-
+---
+title: 智能化战争中的OODA环
+tags:
+- brain
+- chiplet
+- concepts-theory
+- fundamentals
+- neural-networks
+- neuroscience
+---
 > 笔记本: 微信  
 > 创建时间: 2021-06-29  
 

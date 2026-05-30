@@ -1,5 +1,12 @@
-# 挑战Nvlink，华为推出互联技术，即将开源
-
+---
+title: 挑战Nvlink，华为推出互联技术，即将开源
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-28  
 

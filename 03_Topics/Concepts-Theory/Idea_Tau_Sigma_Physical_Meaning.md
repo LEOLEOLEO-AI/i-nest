@@ -1,5 +1,17 @@
-# Idea：为什么只用 $\tau$（雪崩）和 $\sigma$（小世界）表征时空复杂性？
-
+---
+title: Idea：为什么只用 $\tau$（雪崩）和 $\sigma$（小世界）表征时空复杂性？
+tags:
+- brain
+- concepts-theory
+- criticality
+- dynamics
+- emergence
+- free-energy-principle
+- fundamentals
+- information-theory
+- neuron
+- neuroscience
+---
 > **刘教授核心提问**：为什么时间复杂性就用了一个 $\tau$（雪崩），空间复杂性就用了一个 $\sigma$（小世界）来表征？
 
 ## 深度理论演绎与物理第一性解释
@@ -30,3 +42,9 @@
 
 ---
 **Tags:** #BrainInspired #CST
+
+## Related Notes
+
+- [[复杂度的计算]]
+- [[复杂系统研究为什么关注信息论？]]
+- [[涌现动力学如何用来分析复杂系统？ | 新课上线]]

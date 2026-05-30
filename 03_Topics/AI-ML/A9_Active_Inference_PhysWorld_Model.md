@@ -1,5 +1,10 @@
-# Active Inference on Neuromorphic Substrates: A CST-Guided Framework for Physical World Models
-
+---
+title: 'Active Inference on Neuromorphic Substrates: A CST-Guided Framework for Physical World Models'
+tags:
+- ai-ml
+- artificial-intelligence
+- free-energy-principle
+---
 ## 1. Title & Target
 **Target:** Nature Machine Intelligence / PNAS / Science Advances
 
@@ -12,3 +17,9 @@
 
 ## 3. Active Inference Framework
 ...
+
+## Related Notes
+
+- [[Device-Algorithm Decoupling: A Unified Framework for Matching Physical Substrates to Neural Computation]]
+- [[Spatiotemporal Complexity Theory of Intelligence Emergence in Physical Neural Networks]]
+- [[CST-OPT: A Spatiotemporal Complexity-Guided Architecture Integrating Sparse Expertise, Multi-Stream Residuals, and Hybrid State-Space Attention]]

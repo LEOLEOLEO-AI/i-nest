@@ -1,5 +1,16 @@
-# iNEST 机构 — 全景导航 (Map of Content)
-
+---
+title: iNEST 机构 — 全景导航 (Map of Content)
+tags:
+- brain
+- emergence
+- neuron
+- neuroscience
+- paper
+- project
+- simulation
+- small-world-networks
+- synapse
+---
 > iNEST = Institute for Neuromorphic & Emergent Systems and Technologies
 > PI：刘勤让教授 | Drexel University
 
@@ -59,3 +70,9 @@
 - Gitee: https://gitee.com/iBrainNest/i-nest
 - arXiv 追踪：每日 08:00 EDT 自动更新
 - PaperQA2 问答：`python3 ~/workspace/scripts/paperqa_query.py`
+
+## Related Notes
+
+- [[TCC 计算范式 — 全景导航 (Map of Content)]]
+- [[SDI — 软件定义互连（Software-Defined Interconnect）]]
+- [[浙江大学集成电路学院Nano Letters: 可重构神经形态计算，用于多功能神经信息处理]]

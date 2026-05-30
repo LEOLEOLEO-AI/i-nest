@@ -1,5 +1,13 @@
-# Chiplet技术仍处于发展阶段
-
+---
+title: Chiplet技术仍处于发展阶段
+tags:
+- chip
+- chip-hardware
+- chiplet
+- patent
+- semiconductor
+- wafer
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-07-20  
 

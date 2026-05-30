@@ -1,5 +1,14 @@
-# 晶圆级LLM推理系统介绍
-
+---
+title: 晶圆级LLM推理系统介绍
+tags:
+- chip
+- chip-hardware
+- large-language-model
+- semiconductor
+- simulation
+- transformer
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-09  
 

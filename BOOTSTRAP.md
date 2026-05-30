@@ -121,3 +121,8 @@ Pick up on whatever they choose and go deep. This is where the first conversatio
 
 Update HEARTBEAT.md with what was configured. The daily heartbeat handles continuity from here — no further onboarding logic needed.
 
+## Related Notes
+
+- [[IDENTITY.md - Who Am I?]]
+- [[SOUL]]
+- [[TOOLS]]

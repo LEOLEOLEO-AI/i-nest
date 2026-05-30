@@ -1,5 +1,13 @@
-# 新加坡IME: 多芯粒异构集成互连技术
-
+---
+title: '新加坡IME: 多芯粒异构集成互连技术'
+tags:
+- chip
+- chip-hardware
+- chiplet
+- paper
+- semiconductor
+- wafer
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-18 02:15
 

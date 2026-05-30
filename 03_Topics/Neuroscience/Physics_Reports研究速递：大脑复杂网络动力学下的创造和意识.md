@@ -1,5 +1,17 @@
-# Physics Reports研究速递：大脑复杂网络动力学下的创造和意识
-
+---
+title: Physics Reports研究速递：大脑复杂网络动力学下的创造和意识
+tags:
+- brain
+- brain-science
+- chiplet
+- complex-networks
+- dynamics
+- neural-networks
+- neuroscience
+- paper
+- project
+- robotics
+---
 > 笔记本: 微信  
 > 创建时间: 2020-12-03  
 

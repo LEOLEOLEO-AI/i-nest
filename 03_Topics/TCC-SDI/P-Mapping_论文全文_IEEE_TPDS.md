@@ -1,5 +1,12 @@
-# Complete Physical Topology Mapping for Collective Communication Primitives: A CST-Optimal Framework for Topology-Centric Computing
-
+---
+title: 'Complete Physical Topology Mapping for Collective Communication Primitives: A CST-Optimal Framework for Topology-Centric Computing'
+tags:
+- large-language-model
+- paper
+- software-defined
+- tcc-sdi
+- transformer
+---
 **Qinrang Liu**, Senior Member, IEEE, *School of Microelectronics, Tianjin University, Tianjin, China*
 
 *Manuscript received — ; revised — ; accepted —.*  

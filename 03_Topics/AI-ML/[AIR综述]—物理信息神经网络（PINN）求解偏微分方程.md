@@ -1,5 +1,17 @@
-# [AIR综述]—物理信息神经网络（PINN）求解偏微分方程
-
+---
+title: '[AIR综述]—物理信息神经网络（PINN）求解偏微分方程'
+tags:
+- ai-ml
+- artificial-intelligence
+- attention-mechanism
+- deep-learning
+- dynamics
+- emergence
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-02-05 00:10
 

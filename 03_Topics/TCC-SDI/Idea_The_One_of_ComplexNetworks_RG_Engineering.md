@@ -1,5 +1,17 @@
-# Idea：寻找复杂网络工程实现中的第一性“一” (The "One" of Complex Networks)
-
+---
+title: Idea：寻找复杂网络工程实现中的第一性“一” (The "One" of Complex Networks)
+tags:
+- brain
+- complex-networks
+- criticality
+- dynamics
+- emergence
+- free-energy-principle
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+---
 > **刘教授核心洞察**：
 > 如果我们按照物理第一性提出的理论在秀丽线虫（C. elegans）上工程落地，那么后续只需稍许改进，是否就能实现果蝇、小鼠、猕猴甚至人脑等高阶神经网络？
 > 答案是：**必然如此**。

@@ -1,5 +1,17 @@
-# 人类智能如何从大脑中涌现？大脑精细模拟重塑 NeuroAI 范式
-
+---
+title: 人类智能如何从大脑中涌现？大脑精细模拟重塑 NeuroAI 范式
+tags:
+- brain
+- brain-science
+- chip
+- chiplet
+- complex-networks
+- deep-learning
+- dynamics
+- emergence
+- neural-networks
+- neuron
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-01-10  
 

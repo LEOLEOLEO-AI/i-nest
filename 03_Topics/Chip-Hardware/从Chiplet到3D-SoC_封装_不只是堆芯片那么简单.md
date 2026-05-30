@@ -1,5 +1,12 @@
-# 从Chiplet到3D-SoC：封装，不只是堆芯片那么简单
-
+---
+title: 从Chiplet到3D-SoC：封装，不只是堆芯片那么简单
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- topology
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-03 00:43
 

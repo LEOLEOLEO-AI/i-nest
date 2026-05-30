@@ -1,5 +1,13 @@
-# Chiplet技术带来的新“四化”
-
+---
+title: Chiplet技术带来的新“四化”
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- simulation
+---
 > 笔记本: 微信  
 > 创建时间: 2021-05-05  
 

@@ -1,5 +1,17 @@
-# Recent
-
+---
+title: Recent
+tags:
+- brain
+- chip
+- chiplet
+- complex-networks
+- emergence
+- large-language-model
+- neural-networks
+- neuroscience
+- paper
+- project
+---
 Generated: 2026-04-28 22:00:25
 
 - 2026-04-28 21:52 TCC计算范式/01_论文/README

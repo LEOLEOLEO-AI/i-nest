@@ -1,5 +1,15 @@
-# 先进工艺发展受限，Chiplet将是对冲的技术路径？
-
+---
+title: 先进工艺发展受限，Chiplet将是对冲的技术路径？
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- paper
+- patent
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-06-06  
 

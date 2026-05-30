@@ -1,4 +1,12 @@
-
+---
+title: The Topology of Local Computing in Networks
+tags:
+- complex-networks
+- emergence
+- literature
+- paper
+- topology
+---
 ## 论文核心总结与TCC范式价值分析
 
 ### 📄 论文基本信息

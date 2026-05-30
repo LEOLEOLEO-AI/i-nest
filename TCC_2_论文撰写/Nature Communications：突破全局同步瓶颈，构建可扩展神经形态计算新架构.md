@@ -1,5 +1,13 @@
-# Nature Communications：突破全局同步瓶颈，构建可扩展神经形态计算新架构
-
+---
+title: Nature Communications：突破全局同步瓶颈，构建可扩展神经形态计算新架构
+tags:
+- brain
+- neural-networks
+- neuron
+- neuroscience
+- simulation
+- synapse
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-12-06  
 
@@ -65,3 +73,9 @@ Li, C., Imam, N. & Manohar, R. A deterministic neuromorphic architecture with sc
 2.【使用声明】本号内容仅限研究交流，禁止任何商业用途。若涉版权问题，请及时联络说明。
 3.【欢迎分享】 诚邀您转发宣传本文，助力前沿科研成果的传播与交流。
 4.【征稿邀约】《橘子成长》持续提升，诚邀科研工作者投稿，分享成果，共探科学前沿！
+
+## Related Notes
+
+- [[Speck：基于注意力机制的动态神经形态计算系统]]
+- [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
+- [[通向复杂大脑的神秘数学之旅]]

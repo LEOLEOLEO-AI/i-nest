@@ -1,5 +1,17 @@
-# “风口浪尖”的Chiplet，有人疯狂涌入，有人划清界限
-
+---
+title: “风口浪尖”的Chiplet，有人疯狂涌入，有人划清界限
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- paper
+- patent
+- project
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-09-02  
 

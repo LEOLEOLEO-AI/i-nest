@@ -1,5 +1,14 @@
-# SSOT
-
+---
+title: SSOT
+tags:
+- brain
+- chiplet
+- complex-networks
+- concepts-theory
+- emergence
+- fundamentals
+- neuroscience
+---
 Generated: 2026-05-03 10:10:57
 
 - 10_Knowledge/SSOT/00 SSOT 权威条目
@@ -11,3 +20,9 @@ Generated: 2026-05-03 10:10:57
 - 10_Knowledge/SSOT/SDI - 软件定义互连
 - 10_Knowledge/SSOT/忆阻器网络
 - 10_Knowledge/SSOT/类脑与神经形态计算
+
+## Related Notes
+
+- [[涌现的计算方法：从计算力学到层级涌现]]
+- [[陈关荣：探讨复杂网络的高阶拓扑及其应用]]
+- [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]

@@ -1,5 +1,13 @@
-# [Nature大子刊]脑机接口重大突破！清华吴华强团队打造“忆阻器神经形态解码器”，意念控制无人机
-
+---
+title: '[Nature大子刊]脑机接口重大突破！清华吴华强团队打造“忆阻器神经形态解码器”，意念控制无人机'
+tags:
+- brain
+- chip
+- chip-hardware
+- neuroscience
+- paper
+- semiconductor
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-02-05 22:21
 

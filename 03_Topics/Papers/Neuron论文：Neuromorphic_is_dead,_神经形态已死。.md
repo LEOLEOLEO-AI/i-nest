@@ -1,5 +1,17 @@
-# Neuron论文：Neuromorphic is dead, 神经形态已死。
-
+---
+title: Neuron论文：Neuromorphic is dead, 神经形态已死。
+tags:
+- brain
+- chip
+- chiplet
+- dynamics
+- embodied-ai
+- literature
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-10-05  
 

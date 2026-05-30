@@ -1,5 +1,15 @@
-# 狠人神作：一个人，用数学否定一场AI神话！没有符号，LLM的自我改进，只是自我耗散！AI无法靠自我训练走向奇点！RL也实现不了AGI！
-
+---
+title: 狠人神作：一个人，用数学否定一场AI神话！没有符号，LLM的自我改进，只是自我耗散！AI无法靠自我训练走向奇点！RL也实现不了AGI！
+tags:
+- ai-ml
+- artificial-intelligence
+- chiplet
+- dynamics
+- large-language-model
+- neuroscience
+- paper
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2026-01-15  
 

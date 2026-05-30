@@ -61,3 +61,8 @@ AI 引擎，在许多情况下甚至超越了它们。
 
 https://semiwiki.com/ip/361169-beyond-von-neumann-toward-a-unified-deterministic-architecture/
 
+## Related Notes
+
+- [[2028全球智能危机：人工智能引发的经济与制度冲击全景分析]]
+- [[ClearSight：基于人类视觉启发的事件驱动运动去模糊研究]]
+- [[DSPO：传感器位置与深度学习模型的双层可微分联合优化框架]]

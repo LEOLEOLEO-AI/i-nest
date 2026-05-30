@@ -185,3 +185,9 @@ simultaneously encoding spatiotemporal dynamics[J]. Nature Communications, 2025,
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 09:01*
+
+## Related Notes
+
+- [[Nature 子刊！| 多突触放电神经元：让脉冲网络同时理解“强度”与“时间”]]
+- [[Nature子刊突破：多突触脉冲神经元（MSF）实现时空动态统一编码]]
+- [[Nature Communications 2025研究：大脑与深度学习模型中的表征适应性延伸机制]]

@@ -1,4 +1,11 @@
 ---
+tags:
+- darpa-crystal-palace
+- military-microsystems
+- material-science
+- nanoscale-crystal-growth
+---
+---
 title: "DARPA"水晶宫计划"深度研究报告：塑造下一代军用微系统材料变革"
 source: "https://mp.weixin.qq.com/s/JXBXNptPpCMmAz9fZ4qoGA"
 created: 2025-12-30
@@ -338,3 +345,9 @@ DARPA“水晶宫计划”
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 09:36*
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

@@ -1,5 +1,14 @@
-# HotChip2024后记:  谈谈加速器互联及ScaleUP为什么不能用RDMA
-
+---
+title: 'HotChip2024后记: 谈谈加速器互联及ScaleUP为什么不能用RDMA'
+tags:
+- chip
+- chip-hardware
+- chiplet
+- paper
+- semiconductor
+- topology
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-09-22  
 

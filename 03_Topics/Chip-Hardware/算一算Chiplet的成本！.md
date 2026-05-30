@@ -1,5 +1,13 @@
-# 算一算Chiplet的成本！
-
+---
+title: 算一算Chiplet的成本！
+tags:
+- chip
+- chip-hardware
+- chiplet
+- paper
+- semiconductor
+- wafer
+---
 > 笔记本: 技术学习  
 > 创建时间: 2022-03-19  
 

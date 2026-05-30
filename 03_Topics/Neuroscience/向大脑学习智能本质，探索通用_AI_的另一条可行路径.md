@@ -1,5 +1,17 @@
-# 向大脑学习智能本质，探索通用 AI 的另一条可行路径
-
+---
+title: 向大脑学习智能本质，探索通用 AI 的另一条可行路径
+tags:
+- brain
+- brain-science
+- chiplet
+- deep-learning
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+- simulation
+- synapse
+---
 > 笔记本: 微信  
 > 创建时间: 2021-06-08  
 

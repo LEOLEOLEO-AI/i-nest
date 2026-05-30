@@ -1,5 +1,12 @@
-# 【先进封装】混合键合（Hybrid Bonding）：未来3D芯片互联的新星
-
+---
+title: 【先进封装】混合键合（Hybrid Bonding）：未来3D芯片互联的新星
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- wafer
+---
 > 笔记本: 来自小程序「印象笔记」  
 > 创建时间: 2025-01-23  
 

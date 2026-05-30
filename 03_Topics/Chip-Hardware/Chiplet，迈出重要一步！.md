@@ -1,5 +1,13 @@
-# Chiplet，迈出重要一步！
-
+---
+title: Chiplet，迈出重要一步！
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-06-02  
 

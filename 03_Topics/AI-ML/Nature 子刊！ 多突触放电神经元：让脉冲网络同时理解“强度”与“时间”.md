@@ -1,5 +1,17 @@
-# Nature 子刊！|  多突触放电神经元：让脉冲网络同时理解“强度”与“时间”
-
+---
+title: Nature 子刊！| 多突触放电神经元：让脉冲网络同时理解“强度”与“时间”
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- robotics
+- synapse
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-27 19:29
 

@@ -1,5 +1,17 @@
-# 《科学之路》| 图灵奖得主杨立昆人工智能十问：AI会统治人类吗？
-
+---
+title: 《科学之路》| 图灵奖得主杨立昆人工智能十问：AI会统治人类吗？
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- deep-learning
+- neural-networks
+- neuron
+- neuroscience
+- project
+- robotics
+---
 > 笔记本: 微信  
 > 创建时间: 2021-08-25  
 

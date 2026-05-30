@@ -1,5 +1,12 @@
-# CST的计算方法
-
+---
+title: CST的计算方法
+tags:
+- concepts-theory
+- dynamics
+- emergence
+- fundamentals
+- topology
+---
 - **类型**: plain_text
 - **时间**: 2026-03-16 18:03:58
 
@@ -9,3 +16,9 @@
 
 ---
 **Tags:** CST
+
+## Related Notes
+
+- [[Transformer的拓扑直觉之一]]
+- [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+- [[Nature子刊进展：结合神经科学和计算机科学构建通用类脑计算]]

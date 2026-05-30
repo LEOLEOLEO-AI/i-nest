@@ -1,5 +1,14 @@
-# ​软件定义汽车的未来，关键要看chiplet技术？
-
+---
+title: ​软件定义汽车的未来，关键要看chiplet技术？
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- robotics
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-09  
 

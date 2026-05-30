@@ -1,5 +1,11 @@
-# Chiplets 中的UCIe 创新
-
+---
+title: Chiplets 中的UCIe 创新
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-12-24  
 

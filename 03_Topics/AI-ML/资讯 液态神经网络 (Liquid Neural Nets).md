@@ -1,5 +1,14 @@
-# 资讯 | 液态神经网络 (Liquid Neural Nets)
-
+---
+title: 资讯 | 液态神经网络 (Liquid Neural Nets)
+tags:
+- ai-ml
+- artificial-intelligence
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 来自小程序「印象笔记」  
 > 创建时间: 2024-11-13  
 
