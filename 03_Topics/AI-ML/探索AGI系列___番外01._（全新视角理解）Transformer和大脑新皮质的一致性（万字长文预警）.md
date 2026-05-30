@@ -1,5 +1,17 @@
-# 探索AGI系列 | 番外01. （全新视角理解）Transformer和大脑新皮质的一致性（万字长文预警）
-
+---
+title: 探索AGI系列 | 番外01. （全新视角理解）Transformer和大脑新皮质的一致性（万字长文预警）
+tags:
+- ai-ml
+- artificial-intelligence
+- attention-mechanism
+- brain
+- chip
+- chiplet
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-11-10  
 

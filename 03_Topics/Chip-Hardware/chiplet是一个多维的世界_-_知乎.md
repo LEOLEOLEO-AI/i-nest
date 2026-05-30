@@ -1,5 +1,11 @@
-# chiplet是一个多维的世界 - 知乎
-
+---
+title: chiplet是一个多维的世界 - 知乎
+tags:
+- chip-hardware
+- chiplet
+- paper
+- semiconductor
+---
 > 笔记本: 技术学习  
 > 创建时间: 2022-03-22  
 

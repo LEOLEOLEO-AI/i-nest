@@ -1,5 +1,11 @@
-# 01 复杂系统：复杂科学在研究什么？ - 得到APP
-
+---
+title: 01 复杂系统：复杂科学在研究什么？ - 得到APP
+tags:
+- brain
+- concepts-theory
+- emergence
+- fundamentals
+---
 > 笔记本: 复杂科学  
 > 创建时间: 2024-05-25  
 

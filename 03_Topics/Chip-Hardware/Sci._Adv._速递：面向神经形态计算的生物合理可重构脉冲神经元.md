@@ -1,5 +1,17 @@
-# Sci. Adv. 速递：面向神经形态计算的生物合理可重构脉冲神经元
-
+---
+title: Sci. Adv. 速递：面向神经形态计算的生物合理可重构脉冲神经元
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- dynamics
+- emergence
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-04-09  
 

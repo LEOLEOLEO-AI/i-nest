@@ -1,5 +1,17 @@
-# 迈向生物智能理论    Towards a theory of biological intelligence
-
+---
+title: 迈向生物智能理论 Towards a theory of biological intelligence
+tags:
+- brain
+- chip
+- chiplet
+- concepts-theory
+- free-energy-principle
+- fundamentals
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 技术学习  
 > 创建时间: 2025-03-22  
 

@@ -1,5 +1,17 @@
-# 事件驱动神经形态感知系统：基于柔性触觉传感器与忆阻器SoC的低功耗边缘计算突破
-
+---
+title: 事件驱动神经形态感知系统：基于柔性触觉传感器与忆阻器SoC的低功耗边缘计算突破
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- paper
+- robotics
+- semiconductor
+- simulation
+---
 - **类型**: link
 - **时间**: 2026-02-25 11:02:43
 - **标签**: AI链接笔记, 忆阻器, 事件驱动感知, 柔性触觉传感器

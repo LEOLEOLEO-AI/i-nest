@@ -1,5 +1,17 @@
-# 物理学AI新范式 | 人工智能与物理学的结合：一项全面调查
-
+---
+title: 物理学AI新范式 | 人工智能与物理学的结合：一项全面调查
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- complex-networks
+- deep-learning
+- dynamics
+- emergence
+- free-energy-principle
+- graph-neural-network
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-08-21  
 

@@ -1,5 +1,17 @@
-# 终于能把屡屡登上nature的神经网络学透了！
-
+---
+title: 终于能把屡屡登上nature的神经网络学透了！
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- deep-learning
+- graph-neural-network
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- patent
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-05-09  
 

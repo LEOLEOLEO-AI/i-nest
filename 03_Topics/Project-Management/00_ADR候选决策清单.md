@@ -1,5 +1,17 @@
-# ADR 候选决策清单
-
+---
+title: ADR 候选决策清单
+tags:
+- brain
+- chip
+- chiplet
+- dynamics
+- embodied-ai
+- emergence
+- neural-networks
+- neuroscience
+- paper
+- plasticity
+---
 生成时间：2026-05-03 06:46:43
 
 来源：`00_Inbox/04_会议战略`
@@ -71,3 +83,9 @@
 - Nature综述：大规模神经形态计算的发展路线图
 - SDSoW战略规划汇报
 - “车路云一体化智能网联汽车产业生态绿色发展路径研究”项目启动会在津召开
+
+## Related Notes
+
+- [[Sci. Adv. 速递：面向神经形态计算的生物合理可重构脉冲神经元]]
+- [[万字追问：砍掉大脑皮层，小鼠照样打架求偶；皮层之下，才是下一个蓝海]]
+- [[大脑中的吸引子：从混沌到记忆的动力学秘密]]

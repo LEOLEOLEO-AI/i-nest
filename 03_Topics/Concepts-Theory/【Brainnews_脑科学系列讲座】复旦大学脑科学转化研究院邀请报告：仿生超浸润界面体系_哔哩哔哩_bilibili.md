@@ -1,5 +1,15 @@
-# 【Brainnews 脑科学系列讲座】复旦大学脑科学转化研究院邀请报告：仿生超浸润界面体系_哔哩哔哩_bilibili
-
+---
+title: 【Brainnews 脑科学系列讲座】复旦大学脑科学转化研究院邀请报告：仿生超浸润界面体系_哔哩哔哩_bilibili
+tags:
+- brain
+- concepts-theory
+- fundamentals
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- synapse
+---
 > 笔记本: 微信  
 > 创建时间: 2022-06-06  
 
@@ -538,3 +548,9 @@ WILEY科研 | Small 15周年在线会议 | 张华教授报告：Phase Engineerin
 
 下播给榜一点外卖
 饭饭在哪-440](https://live.bilibili.com/24068842?hotRank=0)
+
+## Related Notes
+
+- [[大脑复杂性的演化：一个空间、时间和熵的故事]]
+- [[神经可塑性与忆阻器：大脑与硅基模拟的对比研究]]
+- [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]

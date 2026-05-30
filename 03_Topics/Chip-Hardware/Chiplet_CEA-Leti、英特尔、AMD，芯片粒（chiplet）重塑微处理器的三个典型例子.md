@@ -1,5 +1,11 @@
-# Chiplet|CEA-Leti、英特尔、AMD，芯片粒（chiplet）重塑微处理器的三个典型例子
-
+---
+title: Chiplet|CEA-Leti、英特尔、AMD，芯片粒（chiplet）重塑微处理器的三个典型例子
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2020-05-13  
 

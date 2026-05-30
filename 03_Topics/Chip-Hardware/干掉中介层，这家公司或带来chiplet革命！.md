@@ -1,5 +1,13 @@
-# 干掉中介层，这家公司或带来chiplet革命！
-
+---
+title: 干掉中介层，这家公司或带来chiplet革命！
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-04-08  
 

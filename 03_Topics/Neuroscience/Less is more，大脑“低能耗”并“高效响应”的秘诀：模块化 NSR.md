@@ -1,5 +1,17 @@
-# Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 | NSR
-
+---
+title: Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 | NSR
+tags:
+- brain
+- brain-science
+- chiplet
+- complex-networks
+- criticality
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 微信  
 > 创建时间: 2022-02-11  
 

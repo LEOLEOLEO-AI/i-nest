@@ -1,5 +1,17 @@
-# 天大胡文平院士AM：用于神经形态计算的浮栅晶体管
-
+---
+title: 天大胡文平院士AM：用于神经形态计算的浮栅晶体管
+tags:
+- brain
+- chip-hardware
+- chiplet
+- neuron
+- neuroscience
+- paper
+- plasticity
+- semiconductor
+- survey
+- synapse
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-16 02:47
 

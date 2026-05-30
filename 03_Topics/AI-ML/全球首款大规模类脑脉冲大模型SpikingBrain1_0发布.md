@@ -1,5 +1,15 @@
-# 全球首款大规模类脑脉冲大模型SpikingBrain1.0发布
-
+---
+title: 全球首款大规模类脑脉冲大模型SpikingBrain1.0发布
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- large-language-model
+- neuron
+- neuroscience
+- transformer
+---
 - **类型**: link
 - **时间**: 2025-09-25 06:54:17
 - **标签**: AI链接笔记, 类脑脉冲大模型, SpikingBrain1.0, 混合线性注意力架构

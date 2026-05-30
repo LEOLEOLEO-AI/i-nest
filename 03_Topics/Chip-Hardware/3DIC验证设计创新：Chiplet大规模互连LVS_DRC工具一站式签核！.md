@@ -1,5 +1,12 @@
-# 3DIC验证设计创新：Chiplet大规模互连LVS/DRC工具一站式签核！
-
+---
+title: 3DIC验证设计创新：Chiplet大规模互连LVS/DRC工具一站式签核！
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-21  
 

@@ -1,5 +1,15 @@
-# Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元
-
+---
+title: Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元
+tags:
+- brain
+- brain-science
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- synapse
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-10-19  
 

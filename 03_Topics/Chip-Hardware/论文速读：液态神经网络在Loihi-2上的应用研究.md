@@ -1,5 +1,17 @@
-# 论文速读：液态神经网络在Loihi-2上的应用研究
-
+---
+title: 论文速读：液态神经网络在Loihi-2上的应用研究
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- complex-networks
+- criticality
+- emergence
+- neural-networks
+- neuron
+- neuroscience
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-18  
 

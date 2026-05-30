@@ -1,5 +1,13 @@
-# Cadence 汪晓煜：数智赋能，汽车电子走向智能系统设计时代
-
+---
+title: Cadence 汪晓煜：数智赋能，汽车电子走向智能系统设计时代
+tags:
+- chip
+- chip-hardware
+- chiplet
+- dynamics
+- semiconductor
+- simulation
+---
 > 笔记本: 微信  
 > 创建时间: 2022-11-19  
 

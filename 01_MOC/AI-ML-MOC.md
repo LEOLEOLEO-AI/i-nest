@@ -1,5 +1,17 @@
-# AI-ML — 全景导航 (Map of Content)
-
+---
+title: AI-ML — 全景导航 (Map of Content)
+tags:
+- brain
+- complex-networks
+- criticality
+- deep-learning
+- dynamics
+- embodied-ai
+- emergence
+- free-energy-principle
+- graph-neural-network
+- large-language-model
+---
 > 自动生成 | 最后更新: 2026-05-30 00:29
 > 包含 427 条笔记
 

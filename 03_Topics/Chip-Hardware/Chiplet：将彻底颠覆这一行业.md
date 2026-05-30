@@ -1,5 +1,11 @@
-# Chiplet：将彻底颠覆这一行业
-
+---
+title: Chiplet：将彻底颠覆这一行业
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2022-11-14  
 

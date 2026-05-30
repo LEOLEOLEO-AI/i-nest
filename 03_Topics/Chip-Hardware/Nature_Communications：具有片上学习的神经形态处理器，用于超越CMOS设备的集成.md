@@ -1,5 +1,17 @@
-# Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成
-
+---
+title: Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-09-23  
 

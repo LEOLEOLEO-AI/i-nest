@@ -1,5 +1,16 @@
-# 神经形态脉冲大语言模型（NSLLM）| 李国齐、徐波等NSR
-
+---
+title: 神经形态脉冲大语言模型（NSLLM）| 李国齐、徐波等NSR
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- dynamics
+- large-language-model
+- neuron
+- neuroscience
+- paper
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-22 05:11
 

@@ -1,5 +1,15 @@
-# 如何利用Chiplet循序渐进发展国产芯片？
-
+---
+title: 如何利用Chiplet循序渐进发展国产芯片？
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-03-26  
 

@@ -35,3 +35,9 @@ Integrate experimental topology measurements (e.g., via imaging or dense electro
 - Lack of real-time topological data from experimental preparations to validate models.
 - Role of plasticity and adaptive rewiring in maintaining critical states not addressed.
 - How criticality translates to higher-order cognitive functions or learning.
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]
+- [[Neuroscience — 全景导航 (Map of Content)]]

@@ -1,5 +1,14 @@
-# Chiplet电话会议纪要
-
+---
+title: Chiplet电话会议纪要
+tags:
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- project
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2022-08-09  
 

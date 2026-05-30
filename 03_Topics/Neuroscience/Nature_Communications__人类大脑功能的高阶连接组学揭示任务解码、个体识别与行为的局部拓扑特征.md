@@ -1,5 +1,13 @@
-# Nature Communications: 人类大脑功能的高阶连接组学揭示任务解码、个体识别与行为的局部拓扑特征
-
+---
+title: 'Nature Communications: 人类大脑功能的高阶连接组学揭示任务解码、个体识别与行为的局部拓扑特征'
+tags:
+- brain
+- brain-science
+- neuroscience
+- paper
+- project
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-12-12  
 
@@ -39,3 +47,9 @@
 参考文献：
 Santoro, A., Battiston, F., Lucas, M. *et al.* Higher-order connectomics of human brain function reveals local topological signatures of task decoding, individual identification, and behavior. *Nat Commun*15, 10244 (2024). https://doi.org/10.1038/s41467-024-54472-y
 点击阅读原文可直接跳转论文页面
+
+## Related Notes
+
+- [[Physics Reports研究速递：大脑复杂网络动力学下的创造和意识]]
+- [[大脑需要怎样的神经网络结构来安放意识？]]
+- [[脑网络中的高阶拓扑结构]]

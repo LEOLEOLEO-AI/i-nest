@@ -1,4 +1,12 @@
 ---
+tags:
+- darpa
+- biotechnology
+- human-enhancement
+- military-strategy
+- cognitive-supremacy
+---
+---
 title: "美国DARPA"生物技术与人类增强"领域深度研究报告：从战场医疗到认知决胜的战略布局"
 source: "http://mp.weixin.qq.com/s?__biz=Mzk0NDYzODQ0NQ==&mid=2247489264&idx=1&sn=fd15f2b4e28ea309601ac6924c4941b4&chksm=c28809fb9fddd34fd03f1585ceb928bede8c948cdc511e49ba8bc55831cdef46aeb6e8faa1c0&scene=126&sessionid=1766008007&subscene=7&clicktime=1766008015&enterid=1766008015#rd"
 created: 2025-12-18
@@ -452,3 +460,9 @@ DARPA在“生物技术与人类增强”领域的所有项目，都建立在—
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 09:53*
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

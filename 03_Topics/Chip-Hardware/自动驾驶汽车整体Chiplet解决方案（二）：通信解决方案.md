@@ -1,5 +1,17 @@
-# 自动驾驶汽车整体Chiplet解决方案（二）：通信解决方案
-
+---
+title: 自动驾驶汽车整体Chiplet解决方案（二）：通信解决方案
+tags:
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- neural-networks
+- neuroscience
+- project
+- semiconductor
+- topology
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-04-24  
 

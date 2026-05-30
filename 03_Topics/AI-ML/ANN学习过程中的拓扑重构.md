@@ -91,3 +91,8 @@ tags:
 
 ---
 *来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 08:27*
+
+## Related Notes
+
+- [[权威参考文献]]
+- [[Scaling in Colloidal and Biological Networks.]]

@@ -1,5 +1,11 @@
-# 万卡、十万卡 AI网络拓扑都是什么样的？
-
+---
+title: 万卡、十万卡 AI网络拓扑都是什么样的？
+tags:
+- ai-ml
+- artificial-intelligence
+- large-language-model
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-03-19  
 

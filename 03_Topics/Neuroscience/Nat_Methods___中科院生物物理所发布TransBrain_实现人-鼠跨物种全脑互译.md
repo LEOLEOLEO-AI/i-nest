@@ -1,5 +1,13 @@
-# Nat Methods | 中科院生物物理所发布TransBrain，实现人-鼠跨物种全脑互译
-
+---
+title: Nat Methods | 中科院生物物理所发布TransBrain，实现人-鼠跨物种全脑互译
+tags:
+- brain
+- brain-science
+- deep-learning
+- neural-networks
+- neuroscience
+- paper
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-10 04:04
 
@@ -52,3 +60,9 @@ Fig. 4 | TransBrain quantitatively characterizes conserved and complex cross-spe
 前沿交流 |  欢迎加入认知神经科学前沿交流群！⭐️ [[加群链接](https://mp.weixin.qq.com/s?__biz=MzYyMTE5NTI5OA==&mid=2247484688&idx=3&sn=674dfdbd6497ee923af211ad05a155bc&scene=21#wechat_redirect)]
 
 核心图表、方法细节、统计结果与讨论见原文及其拓展数据。分享人：天天审核：PsyBrain 脑心前沿编辑部
+
+## Related Notes
+
+- [[人工神经网络能否驾驭生物神经元的“浓稠”程度？5到8层可能并非极限]]
+- [[从模仿到理解，计算模型可能真的是大脑的归宿｜追问新知]]
+- [[AGI面临的挑战 : 脑机制自底向顶梳理 下部 5万字]]

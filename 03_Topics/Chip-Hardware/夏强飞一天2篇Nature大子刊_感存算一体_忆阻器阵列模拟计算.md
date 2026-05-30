@@ -1,5 +1,17 @@
-# 夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算
-
+---
+title: 夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算
+tags:
+- chip
+- chip-hardware
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- semiconductor
+- simulation
+- synapse
+- topology
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-02-06 23:27
 

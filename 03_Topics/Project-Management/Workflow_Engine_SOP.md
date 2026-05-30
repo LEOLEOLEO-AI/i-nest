@@ -1,5 +1,11 @@
-# iNEST 课题组全链条推进工作流 (OODA Workflow Engine)
-
+---
+title: iNEST 课题组全链条推进工作流 (OODA Workflow Engine)
+tags:
+- large-language-model
+- paper
+- project-management
+- simulation
+---
 > **目标**：解决“Idea井喷、论文撰写、工程实现、商业化落地”四线并发导致的信息不对齐与顾此失彼问题。建立一套机器自动巡检与对齐的SOP（标准作业程序）。
 
 ## 第一层：日常输入层 (Observe & Orient)
@@ -33,3 +39,9 @@
   2. 本周仿真代码跑出的新性能曲线图（自动嵌入）。
   3. 下游工程与商业落地的新论述（BP更新）。
 - 您只需看这份 PPT，就能掌握四条线齐头并进的状态。发现不对的，一句话让 Agent 修正基线。
+
+## Related Notes
+
+- [[从诺奖风向标，到《Nature》雄文：人工智能再度封神，科学范式终将颠覆？]]
+- [[全球首篇！调研近400篇文献，鹏城实验室&中大深度解析具身智能]]
+- [[类脑计算：清华正在低调开发的下一代人工智能]]

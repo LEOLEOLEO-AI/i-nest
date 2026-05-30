@@ -1,4 +1,11 @@
 ---
+tags:
+- ai-research
+- search-agent
+- slow-thinking
+- paradigm-shift
+---
+---
 title: "MiroThinker 1.5深度解析：AI从"秒回"到"慢思考"的范式转型"
 source: "https://mp.weixin.qq.com/s/lCvA_otmzzieKvcSI4-JNg"
 created: 2026-01-06

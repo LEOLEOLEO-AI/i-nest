@@ -1,11 +1,16 @@
 ---
 name: shopify-store
 version: 1.0.0
-description: "Shopify Section and theme template development, and store data queries (e.g. product count). Use when users mention template/theme/section, or ask about their store (products, orders). Default to single Section unless they say 'entire theme' or 'multiple sections'. Covers sections/*.liquid, templates/*.json, deployment confirmation, and QuickToken for API access."
+description: Shopify Section and theme template development, and store data queries (e.g. product count). Use when users mention template/theme/section, or ask about their store (products, orders). Default
+  to single Section unless they say 'entire theme' or 'multiple sections'. Covers sections/*.liquid, templates/*.json, deployment confirmation, and QuickToken for API access.
 metadata:
   category: general
+tags:
+- shopify-development
+- theme-sections
+- store-data-query
+- deployment-api
 ---
-
 # shopify-store
 
 Use this skill when handling **Shopify** requests in CLAW, including:
@@ -115,3 +120,8 @@ When describing or generating a template, list "what the template includes" by m
 - [Liquid reference](https://shopify.dev/docs/api/liquid)
 - [gsk-aidrive](../gsk-aidrive/SKILL.md) — For uploading generated files to user storage
 
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

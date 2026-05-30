@@ -1,5 +1,10 @@
-# Git 克隆失败速查手册
-
+---
+title: Git 克隆失败速查手册
+tags:
+- brain
+- tools
+- tutorial
+---
 刘老师，如果您在电脑上执行 `git clone https://gitee.com/iBrainNest/i-nest.git` 时遇到了红色的报错，千万别急，通常只有以下 3 种最常见的小问题：
 
 ### ❌ 错误 1：`fatal: Authentication failed` (认证失败 / 密码错了)
@@ -23,3 +28,9 @@
 ### 🎉 如果出现绿色的 `Resolving deltas: 100% (xx/xx), done.`
 **恭喜您，克隆成功！** 您本地现在有了一个带有 `.git` 灵魂的 `i-nest` 文件夹。
 赶快用 Obsidian 打开它，享受双联星空图谱的震撼吧！
+
+## Related Notes
+
+- [[事件相机 (DVS)、类脑计算 (SNN) 与 FPGA 部署]]
+- [[Get笔记×Obsidian 配置与工作流]]
+- [[AI-ML — 全景导航 (Map of Content)]]

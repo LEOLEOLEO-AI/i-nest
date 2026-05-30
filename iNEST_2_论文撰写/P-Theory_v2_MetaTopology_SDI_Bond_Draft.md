@@ -1,5 +1,8 @@
-# Meta-Topology and SDI-Bond: A Variational Framework for Communication Primitive Generation and Fractal Network Evolution under the Principle of Least Action
-
+---
+title: 'Meta-Topology and SDI-Bond: A Variational Framework for Communication Primitive Generation and Fractal Network Evolution under the Principle of Least Action'
+tags:
+- chiplet
+---
 ## Abstract
 All computation and signal processing—including general computing, supercomputing, radar signal processing, and AI distributed training—can be decomposed into six communication primitives (Broadcast, Scatter, Gather, Reduce, AllGather, AllReduce) and five operator primitives. A fundamental yet unanswered question is whether there exists a minimal set of meta-topologies from which all six communication primitives can be generated through well-defined composition operations. This paper proposes a unified theoretical framework addressing this question. We define three meta-topologies—point-to-point edge ($P_2$), star graph ($K_{1,n}$), and ring graph ($C_n$)—and five classes of Software-Defined Interconnect (SDI) bond operations (Cartesian product, Kronecker product, Strong product, Union, and Substitution). We prove that this meta-topology set is complete under SDI-bond operations for generating all six communication primitive topologies, and that these primitives support self-similar fractal scaling to form arbitrary-scale hybrid network architectures. Furthermore, we formulate a variational principle governing the evolution of network topology, showing that optimal topological configurations minimize a network action functional consistent with both the free energy principle and the principle of least action. This framework lays the theoretical foundation for network-centric computing architectures and brain-inspired neural network evolution on wafer-scale and chiplet-based heterogeneous integration platforms.
 

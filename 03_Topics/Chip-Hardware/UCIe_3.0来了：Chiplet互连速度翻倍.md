@@ -1,5 +1,13 @@
-# UCIe 3.0来了：Chiplet互连速度翻倍
-
+---
+title: UCIe 3.0来了：Chiplet互连速度翻倍
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- topology
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-15  
 

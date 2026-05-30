@@ -1,5 +1,15 @@
-# GNN-Transformer新突破！全局与局部的完美融合
-
+---
+title: GNN-Transformer新突破！全局与局部的完美融合
+tags:
+- ai-ml
+- artificial-intelligence
+- graph-neural-network
+- neural-networks
+- neuroscience
+- paper
+- topology
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-03-27  
 

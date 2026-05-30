@@ -1,5 +1,11 @@
-# 生态共建 | 奇异摩尔核心贡献:《OISA全向智感互联IO芯粒技术白皮书》正式发布
-
+---
+title: 生态共建 | 奇异摩尔核心贡献:《OISA全向智感互联IO芯粒技术白皮书》正式发布
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-09-10  
 

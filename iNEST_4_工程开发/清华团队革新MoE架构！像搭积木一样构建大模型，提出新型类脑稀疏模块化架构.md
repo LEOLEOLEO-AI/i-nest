@@ -1,5 +1,14 @@
-# 清华团队革新MoE架构！像搭积木一样构建大模型，提出新型类脑稀疏模块化架构
-
+---
+title: 清华团队革新MoE架构！像搭积木一样构建大模型，提出新型类脑稀疏模块化架构
+tags:
+- brain
+- emergence
+- large-language-model
+- neuron
+- neuroscience
+- paper
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-11-03  
 
@@ -145,3 +154,9 @@ Delta tuning: A comprehensive study of parameter efficient methods for pre-train
 
 ---
 **Tags:** CST
+
+## Related Notes
+
+- [[Anthropic用“AI显微镜”扒开Claude“大脑结构”，揭示语言模型行为背后机制]]
+- [[万物摩尔定律：人工智能技术的快速迭代将使人类万劫不复？]]
+- [[物理类脑项目群]]

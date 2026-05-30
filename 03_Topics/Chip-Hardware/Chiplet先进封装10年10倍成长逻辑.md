@@ -1,5 +1,12 @@
-# Chiplet先进封装10年10倍成长逻辑
-
+---
+title: Chiplet先进封装10年10倍成长逻辑
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-06-28  
 

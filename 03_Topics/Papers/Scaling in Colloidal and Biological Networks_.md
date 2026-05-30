@@ -36,3 +36,9 @@ Develop integrated models that combine the identified scaling principles with sp
 - Gap between descriptive scaling laws and predictive, testable theories of network-based intelligence emergence.
 - Limited exploration of how the *dynamics* on these networks (not just structure) give rise to complex computation.
 - The role of specific physical interactions (beyond pairwise) in shaping network intelligence is not deeply explored.
+
+## Related Notes
+
+- [[刍议复杂网络理论及其军事运用]]
+- [[资料分享 | 复杂网络生成算法（后篇）]]
+- [[iNEST开发流程]]

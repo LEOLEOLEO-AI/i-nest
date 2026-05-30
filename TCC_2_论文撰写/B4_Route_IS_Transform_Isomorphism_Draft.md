@@ -1,4 +1,14 @@
-# Route ≡ Transform: On the Structural Isomorphism of Communication and Computation in Distributed Systems
+---
+title: 'Route ≡ Transform: On the Structural Isomorphism of Communication and Computation in Distributed Systems'
+tags:
+- paper
+- patent
+- project
+- simulation
+- topology
+- transformer
+- wafer
+---
 （中文候选：路由即变换——分布式系统中通信与计算的结构同构性）
 
 ## 1. 定位与投稿策略
@@ -70,3 +80,9 @@ Route-Transform 融合消除了数据搬运能耗的理论下界。
 - **2026.Q4**：完成定理3与定理4（全部理论完成）。
 - **2027.Q1**：结合 FPGA 仿真/初步验证数据完成 Case Study 并投稿 ISCA/ASPLOS。
 - **战略意义**：本文应作为项目启动后**第一个启动的工作项**，因为其定理直接定义了 SDIO-N 标准的 L3/L4 理论基础与专利池护城河。
+
+## Related Notes
+
+- [[知识库健康诊断 (Self-Health Dashboard)]]
+- [[“风口浪尖”的Chiplet，有人疯狂涌入，有人划清界限]]
+- [[专访清华胡杨：开发晶圆级芯片，降低先进工艺依赖，通过系统重构大幅提升算力]]

@@ -1,5 +1,17 @@
-# [Nature大子刊] 3D集成技术如何打破神经形态计算的“互连墙”？
-
+---
+title: '[Nature大子刊] 3D集成技术如何打破神经形态计算的“互连墙”？'
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- semiconductor
+- synapse
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-02-04 06:11
 

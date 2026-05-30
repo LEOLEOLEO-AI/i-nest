@@ -1,5 +1,11 @@
-# 中国科学技术大学的余昊等人提出了一种新型的DeepONet嵌入式物理信息神经网络（DE-PINN）
-
+---
+title: 中国科学技术大学的余昊等人提出了一种新型的DeepONet嵌入式物理信息神经网络（DE-PINN）
+tags:
+- ai-ml
+- artificial-intelligence
+- neural-networks
+- neuroscience
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-07-14  
 
@@ -86,3 +92,9 @@ DeepONet的原理是用两个神经网络解决采样问题和映射问题，主
 复制以下链接即可获取文献原文（.pdf）:
 https://s.caixuan.cc/LtN2uNu7
 **仅用于学术分享，如有侵权，请联系删除。**
+
+## Related Notes
+
+- [[八大神经网络，从原理到应用]]
+- [[GNN联合transformer最新突破！！！]]
+- [[卷积神经网络（Convolutional Neural Network）的重要概念]]

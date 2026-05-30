@@ -1,5 +1,16 @@
-# 复杂网络|节点重要性|GNN-Based
-
+---
+title: 复杂网络|节点重要性|GNN-Based
+tags:
+- ai-ml
+- artificial-intelligence
+- complex-networks
+- graph-neural-network
+- neural-networks
+- neuroscience
+- scale-free-networks
+- small-world-networks
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-12-07  
 
@@ -117,3 +128,9 @@ GNR的主要伪代码如下
 【文章链接】
 https://doi.org/10.1016/j.physa.2023.129339
 【期刊介绍】PHYSICA A, IF(2024)=2.8, JCR Q2, 中科院3区, 年发文量766
+
+## Related Notes
+
+- [[GNN联合transformer最新突破！！！]]
+- [[八大神经网络，从原理到应用]]
+- [[人工智能（XAI）可解释的综述！]]

@@ -1,4 +1,14 @@
-# 论文框架：P-Mapping
+---
+title: 论文框架：P-Mapping
+tags:
+- dynamics
+- information-theory
+- large-language-model
+- paper
+- simulation
+- small-world-networks
+- topology
+---
 # 《六类集合通信原语的物理拓扑完备映射理论与CST最优性证明》
 
 **英文题目（候选）**：

@@ -1,5 +1,13 @@
-# 三大EDA厂商谈Chiplet封装实现难题
-
+---
+title: 三大EDA厂商谈Chiplet封装实现难题
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-02-10  
 

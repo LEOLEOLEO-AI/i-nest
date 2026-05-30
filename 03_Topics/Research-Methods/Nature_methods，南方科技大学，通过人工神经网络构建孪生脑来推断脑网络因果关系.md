@@ -1,5 +1,17 @@
-# Nature methods，南方科技大学，通过人工神经网络构建孪生脑来推断脑网络因果关系
-
+---
+title: Nature methods，南方科技大学，通过人工神经网络构建孪生脑来推断脑网络因果关系
+tags:
+- brain
+- chiplet
+- complex-networks
+- dynamics
+- large-language-model
+- methodology
+- neural-networks
+- neuroscience
+- paper
+- project
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-09-09  
 

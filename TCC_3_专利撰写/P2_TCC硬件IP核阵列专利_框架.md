@@ -1,4 +1,11 @@
-# 专利 P2：面向TCC的可重构原语硬件IP核阵列
+---
+title: 专利 P2：面向TCC的可重构原语硬件IP核阵列
+tags:
+- chip
+- patent
+- topology
+- transformer
+---
 # Patent P2: Reconfigurable Primitive IP Core Array for TCC
 # 状态：📋 框架完成 | 目标提交：2026年7月（CNIPA）
 ---
@@ -158,3 +165,9 @@ FOLD_S(data, mask, op)  → 仅对mask[i]=1的元素执行归约操作op
 - [ ] 补充MAPS引擎多路选择器电路描述
 - [ ] 补充SCAN引擎inclusive/exclusive切换逻辑
 - [ ] 提交CNIPA（目标：2026年7月）
+
+## Related Notes
+
+- [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
+- [[Chiplet的机遇与挑战]]
+- [[HotChip2024-Day2: AI加速器互联和云AI处理器, Tesla是亮点]]

@@ -1,5 +1,16 @@
-# Nat Commun |通用、高效、自动化的脉冲神经网络在线学习系统 [含代码]
-
+---
+title: Nat Commun |通用、高效、自动化的脉冲神经网络在线学习系统 [含代码]
+tags:
+- brain
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- plasticity
+- simulation
+- synapse
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-25 19:04
 

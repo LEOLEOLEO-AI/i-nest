@@ -1,5 +1,11 @@
-# 英伟达GB200：从DIE芯片到3.2万卡的网络高速互联方案
-
+---
+title: 英伟达GB200：从DIE芯片到3.2万卡的网络高速互联方案
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-04-01  
 

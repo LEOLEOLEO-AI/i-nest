@@ -1,5 +1,17 @@
-# 神经形态脉冲大语言模型（NSLLM）：连接AI与神经科学的突破性研究
-
+---
+title: 神经形态脉冲大语言模型（NSLLM）：连接AI与神经科学的突破性研究
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- chiplet
+- dynamics
+- large-language-model
+- neuron
+- neuroscience
+- paper
+---
 - **类型**: link
 - **时间**: 2025-12-18 07:40:41
 - **标签**: AI链接笔记, 神经形态计算, 脉冲大语言模型（NSLLM）, 低功耗AI

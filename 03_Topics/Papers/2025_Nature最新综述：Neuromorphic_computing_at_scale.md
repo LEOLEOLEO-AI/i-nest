@@ -1,5 +1,13 @@
-# 2025 Nature最新综述：Neuromorphic computing at scale
-
+---
+title: 2025 Nature最新综述：Neuromorphic computing at scale
+tags:
+- brain
+- literature
+- neural-networks
+- neuroscience
+- paper
+- survey
+---
 > 笔记本: 来自小程序「印象笔记」  
 > 创建时间: 2025-01-26  
 
@@ -30,3 +38,9 @@
 **
 
 图**** 5****：实现社区准备的考虑因素。******
+
+## Related Notes
+
+- [[类脑计算有望彻底改变计算领域，甚至超越人脑，丰田合作综述类脑计算的兴起]]
+- [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+- [[【深度】清华黄高等人新作：动态神经网络首篇综述]]

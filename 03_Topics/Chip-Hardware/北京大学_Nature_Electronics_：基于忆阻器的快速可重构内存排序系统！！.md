@@ -1,5 +1,12 @@
-# 北京大学 Nature Electronics ：基于忆阻器的快速可重构内存排序系统！！
-
+---
+title: 北京大学 Nature Electronics ：基于忆阻器的快速可重构内存排序系统！！
+tags:
+- chip
+- chip-hardware
+- neural-networks
+- neuroscience
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-06-28  
 

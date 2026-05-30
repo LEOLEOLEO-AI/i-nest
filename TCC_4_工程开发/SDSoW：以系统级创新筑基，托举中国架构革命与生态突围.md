@@ -1,5 +1,13 @@
-# SDSoW：以系统级创新筑基，托举中国架构革命与生态突围
-
+---
+title: SDSoW：以系统级创新筑基，托举中国架构革命与生态突围
+tags:
+- brain
+- chip
+- chiplet
+- dynamics
+- large-language-model
+- wafer
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-02-02  
 

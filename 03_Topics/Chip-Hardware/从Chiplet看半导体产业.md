@@ -1,5 +1,13 @@
-# 从Chiplet看半导体产业
-
+---
+title: 从Chiplet看半导体产业
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-07-09  
 

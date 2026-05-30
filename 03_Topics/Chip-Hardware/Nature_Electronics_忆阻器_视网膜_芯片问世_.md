@@ -1,5 +1,14 @@
-# Nature Electronics：忆阻器“视网膜”芯片问世！
-
+---
+title: Nature Electronics：忆阻器“视网膜”芯片问世！
+tags:
+- chip
+- chip-hardware
+- neural-networks
+- neuroscience
+- semiconductor
+- simulation
+- synapse
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-22 07:12
 

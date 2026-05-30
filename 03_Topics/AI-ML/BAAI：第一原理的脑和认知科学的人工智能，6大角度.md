@@ -1,5 +1,17 @@
-# BAAI：第一原理的脑和认知科学的人工智能，6大角度
-
+---
+title: BAAI：第一原理的脑和认知科学的人工智能，6大角度
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- complex-networks
+- criticality
+- deep-learning
+- dynamics
+- emergence
+- neural-networks
+---
 > 笔记本: 来自小程序「印象笔记」  
 > 创建时间: 2024-12-04  
 

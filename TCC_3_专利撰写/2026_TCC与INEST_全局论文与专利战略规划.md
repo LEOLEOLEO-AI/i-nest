@@ -1,5 +1,17 @@
-# TCC与INEST：2026全局论文与专利战略规划清单
-
+---
+title: TCC与INEST：2026全局论文与专利战略规划清单
+tags:
+- brain
+- chip
+- complex-networks
+- criticality
+- emergence
+- free-energy-principle
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+---
 > **制定日期**: 2026-04-29
 > **核心愿景**: 打通从“底层硬件互连拓扑（TCC）”到“顶层认知智能涌现（INEST）”的断层。将课题组的学术信仰（大道至简、拓扑即计算、时空复杂度自组织临界）转化为具备顶级学术影响力（Nature/Science子刊、CCF-A类系统结构/网络顶会）与极强工业壁垒的核心IP集群。
 

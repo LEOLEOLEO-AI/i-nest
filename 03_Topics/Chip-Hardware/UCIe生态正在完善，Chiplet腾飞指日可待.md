@@ -1,5 +1,13 @@
-# UCIe生态正在完善，Chiplet腾飞指日可待
-
+---
+title: UCIe生态正在完善，Chiplet腾飞指日可待
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-10-20  
 

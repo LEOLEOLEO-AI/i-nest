@@ -1,4 +1,17 @@
-# iNEST 项目布局总清单 + 论文撰写计划
+---
+title: iNEST 项目布局总清单 + 论文撰写计划
+tags:
+- brain
+- chip
+- complex-networks
+- criticality
+- dynamics
+- embodied-ai
+- emergence
+- large-language-model
+- neural-networks
+- neuron
+---
 ## 基于上传素材全面梳理（2026-03-17）
 
 ---

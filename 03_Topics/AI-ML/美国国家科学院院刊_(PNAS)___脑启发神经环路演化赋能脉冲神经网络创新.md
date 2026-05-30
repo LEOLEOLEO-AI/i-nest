@@ -1,5 +1,17 @@
-# 美国国家科学院院刊 (PNAS) | 脑启发神经环路演化赋能脉冲神经网络创新
-
+---
+title: 美国国家科学院院刊 (PNAS) | 脑启发神经环路演化赋能脉冲神经网络创新
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- deep-learning
+- dynamics
+- emergence
+- neural-networks
+- neuron
+- neuroscience
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-02-08  
 

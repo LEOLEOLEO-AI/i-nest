@@ -1,5 +1,13 @@
-# 模块化硬件验证引领Chiplet时代：多Die系统验证的演进与突破
-
+---
+title: 模块化硬件验证引领Chiplet时代：多Die系统验证的演进与突破
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-07-20  
 

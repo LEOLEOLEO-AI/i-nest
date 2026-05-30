@@ -1,5 +1,14 @@
-# MIT | 异构Chiplet集成构建下一代计算的"超级芯片"
-
+---
+title: MIT | 异构Chiplet集成构建下一代计算的"超级芯片"
+tags:
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-10-23  
 

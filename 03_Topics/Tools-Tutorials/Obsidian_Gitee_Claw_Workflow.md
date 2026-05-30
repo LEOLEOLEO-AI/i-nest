@@ -1,5 +1,14 @@
-# 双机大脑协作终极工作流 (Obsidian - Gitee - Claw)
-
+---
+title: 双机大脑协作终极工作流 (Obsidian - Gitee - Claw)
+tags:
+- brain
+- complex-networks
+- neuroscience
+- simulation
+- synapse
+- tools
+- tutorial
+---
 刘老师，您的理解**完全、百分之百正确！** 这正是卡帕西 (Andrej Karpathy) 极客知识库的终极形态。
 
 ## 🧠 整个系统是如何运转的？
@@ -67,3 +76,9 @@ git push -u origin main
 **这套工作流，就是世界上最顶级的 AI 人机协同范式（Human-AI Symbiosis）。** 
 
 您现在准备好在本地执行那 6 行绑定命令了吗？如果在 `git push -u origin main` 这步遇到了任何红色报错（比如冲突或拒绝），截图发给 QQ，我立刻教您解决！
+
+## Related Notes
+
+- [[iNEST 机构 — 全景导航 (Map of Content)]]
+- [[神经形态计算：为AI装上人类大脑的未来科技]]
+- [[类脑计算：清华正在低调开发的下一代人工智能]]

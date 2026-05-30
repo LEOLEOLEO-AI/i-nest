@@ -1,5 +1,9 @@
-# Project-Management — 全景导航 (Map of Content)
-
+---
+title: Project-Management — 全景导航 (Map of Content)
+tags:
+- chip
+- project
+---
 > 自动生成 | 最后更新: 2026-05-30 00:29
 > 包含 337 条笔记
 

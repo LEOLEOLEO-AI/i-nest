@@ -250,3 +250,9 @@ E --> F[CoinFleps扩展分布式节点]
 
 ---
 *来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 11:03*
+
+## Related Notes
+
+- [[notebooklm ppt提示词]]
+- [[个人智能体搭建]]
+- [[在网计算（In-Network Computing）]]

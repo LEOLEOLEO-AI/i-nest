@@ -1,5 +1,15 @@
-# 07 标度对称性：尺度任意缩放，特征保持不变？ - 得到APP
-
+---
+title: 07 标度对称性：尺度任意缩放，特征保持不变？ - 得到APP
+tags:
+- brain
+- concepts-theory
+- criticality
+- emergence
+- fundamentals
+- neuron
+- neuroscience
+- scale-free-networks
+---
 > 笔记本: 复杂科学  
 > 创建时间: 2024-07-05  
 
@@ -797,3 +807,9 @@
 
 ---
 **Tags:** CST
+
+## Related Notes
+
+- [[NICE：开启类脑智能新范式——从连接复杂度到智能涌现]]
+- [[专访四位复杂系统研究者：跨学科研究中的复杂科学]]
+- [[复杂度的计算]]

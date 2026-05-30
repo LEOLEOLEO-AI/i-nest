@@ -1,5 +1,16 @@
-# iNEST 课题组科研数据管理与存取规范 (Data Management Standard)
-
+---
+title: iNEST 课题组科研数据管理与存取规范 (Data Management Standard)
+tags:
+- criticality
+- methodology
+- neural-networks
+- neuroscience
+- paper
+- research-methods
+- simulation
+- topology
+- transformer
+---
 > **知识库说明**：本规范定义了课题组在理论验证、仿真编程、论文撰写过程中，产生的所有核心数据（CSV, JSON, 图表等）的**统一存储、提取与校验规则**。以确保科研数据的可追溯性、版本一致性及跨脚本自动对齐。
 
 ## 一、 核心数据集存放位置 (Single Source of Truth)
@@ -61,3 +72,9 @@ def load_validated_cst_data(target_version="v22"):
 - **智能等级/类型**：`"Level"` (如 "L0", "L1")，`"Type"` (如 "Reaction", "General")
 
 所有新接入的数据，必须通过一个统一的 `data_validator.py` 脚本校验键名规范与数值域（如 $\tau$ 是否在临界域内），校验通过后方可存入 `05_Datasets_仿真与实验数据` 目录。
+
+## Related Notes
+
+- [[iNEST 论文矩阵计划]]
+- [[大模型本体论：智能涌现背后的知识架构之谜]]
+- [[GNN-Transformer新突破！全局与局部的完美融合]]

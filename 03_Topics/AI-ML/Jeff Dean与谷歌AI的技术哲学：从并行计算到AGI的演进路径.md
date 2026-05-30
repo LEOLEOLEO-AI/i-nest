@@ -398,3 +398,9 @@ https://arxiv.org/html/2405.07719v5
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 09:07*
+
+## Related Notes
+
+- [[神经形态脉冲大语言模型（NSLLM）：连接AI与神经科学的突破性研究]]
+- [[谷歌物理智能体的具身智能：Gemini Robotics 1.5 介绍]]
+- [[硅基世界的“缘分”——系统与人工智能携手进化 - Microsoft Research]]

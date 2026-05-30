@@ -1,5 +1,13 @@
-# 硅基世界的“缘分”——系统与人工智能携手进化 - Microsoft Research
-
+---
+title: 硅基世界的“缘分”——系统与人工智能携手进化 - Microsoft Research
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- large-language-model
+- project
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-06-02  
 

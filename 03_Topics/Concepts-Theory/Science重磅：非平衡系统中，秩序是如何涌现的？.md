@@ -1,5 +1,17 @@
-# Science重磅：非平衡系统中，秩序是如何涌现的？
-
+---
+title: Science重磅：非平衡系统中，秩序是如何涌现的？
+tags:
+- chiplet
+- concepts-theory
+- emergence
+- free-energy-principle
+- fundamentals
+- neuroscience
+- paper
+- project
+- robotics
+- self-organization
+---
 > 笔记本: 微信  
 > 创建时间: 2021-01-15  
 

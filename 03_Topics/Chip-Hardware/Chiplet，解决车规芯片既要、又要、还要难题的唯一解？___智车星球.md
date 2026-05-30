@@ -1,5 +1,15 @@
-# Chiplet，解决车规芯片既要、又要、还要难题的唯一解？ | 智车星球
-
+---
+title: Chiplet，解决车规芯片既要、又要、还要难题的唯一解？ | 智车星球
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- patent
+- robotics
+- semiconductor
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-07-26  
 

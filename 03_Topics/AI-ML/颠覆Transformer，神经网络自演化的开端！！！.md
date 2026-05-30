@@ -1,5 +1,16 @@
-# 颠覆Transformer，神经网络自演化的开端！！！
-
+---
+title: 颠覆Transformer，神经网络自演化的开端！！！
+tags:
+- ai-ml
+- artificial-intelligence
+- attention-mechanism
+- brain
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+- transformer
+---
 > 笔记本: 来自小程序「印象笔记」  
 > 创建时间: 2025-01-31  
 

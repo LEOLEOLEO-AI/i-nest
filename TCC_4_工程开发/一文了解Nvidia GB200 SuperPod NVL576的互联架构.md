@@ -1,5 +1,8 @@
-# 一文了解Nvidia GB200 SuperPod NVL576的互联架构
-
+---
+title: 一文了解Nvidia GB200 SuperPod NVL576的互联架构
+tags:
+- chip
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-05  
 
@@ -34,3 +37,9 @@
 关于这一块，大家可以看一下Semianalysis的原文分析，结合我的解读、你的理解，综合佐证一下。
 
 以上，欢迎大家点赞和关注。
+
+## Related Notes
+
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Papers — 全景导航 (Map of Content)]]
+- [[Project-Management — 全景导航 (Map of Content)]]

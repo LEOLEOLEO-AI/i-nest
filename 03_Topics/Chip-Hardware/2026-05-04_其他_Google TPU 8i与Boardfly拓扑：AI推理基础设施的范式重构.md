@@ -1,14 +1,17 @@
 ---
-title: "Google TPU 8i与Boardfly拓扑：AI推理基础设施的范式重构"
+title: Google TPU 8i与Boardfly拓扑：AI推理基础设施的范式重构
 date: 2026-05-04
-time: "05:32"
+time: 05:32
 note_id: 1908945383111900304
 category: 其他
 source: get笔记
-links: ["[[iNEST_Academic_Belief_Core]]"]
-tags: [{"id": "129910998", "name": "AI链接笔记", "type": "system"}, {"id": "527002433", "name": "Boardfly拓扑", "type": "ai"}, {"id": "527191610", "name": "Google TPU 8i", "type": "ai"}, {"id": "527191611", "name": "AI推理基础设施", "type": "ai"}]
+links:
+- '[[iNEST_Academic_Belief_Core]]'
+tags:
+- boardfly拓扑
+- google-tpu-8i
+- ai推理基础设施
 ---
-
 > 关联知识：[[iNEST_Academic_Belief_Core]]
 
 ### **🏗️ 背景与场景：Google为何选择拓扑重构**

@@ -1,5 +1,10 @@
-# Route≡Transform: A Unified Algebraic Theory of Communication and Computation Primitives for Topology-Centric Computing
-
+---
+title: 'Route≡Transform: A Unified Algebraic Theory of Communication and Computation Primitives for Topology-Centric Computing'
+tags:
+- attention-mechanism
+- large-language-model
+- transformer
+---
 **Target Venue:** ASPLOS 2027 (September Cycle)
 **Format:** ACM SIGPLAN Double-Blind (Full Paper)
 
@@ -160,3 +165,9 @@ We proposed the Route≡Transform theory, mathematically proving that communicat
 
 ---
 *Figures referenced in text (Fig 1: FFT Isomorphism, Fig 2: T-Scale Evaluation) are provided separately via vector graphics scripts.*
+
+## Related Notes
+
+- [[NPU神经处理单元（4.3）- 神经网络之TNN(Transformer)]]
+- [[周末漫谈：高维流形上的神经网络收敛——Transformer 的数学本质]]
+- [[颠覆Transformer，神经网络自演化的开端！！！]]

@@ -1,5 +1,15 @@
-# 超异构 x Chiplet：双剑合璧，实现算力指数级提升
-
+---
+title: 超异构 x Chiplet：双剑合璧，实现算力指数级提升
+tags:
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- semiconductor
+- survey
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-07-17  
 

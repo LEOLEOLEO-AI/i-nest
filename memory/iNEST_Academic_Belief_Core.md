@@ -1,5 +1,17 @@
-# iNEST 课题组学术信仰与工程技术路线 (The Core Belief)
-
+---
+title: iNEST 课题组学术信仰与工程技术路线 (The Core Belief)
+tags:
+- brain
+- chip
+- complex-networks
+- criticality
+- dynamics
+- embodied-ai
+- emergence
+- free-energy-principle
+- large-language-model
+- neural-networks
+---
 > **刘勤让 教授 (PI) 核心定调 (2026-04-06)**：
 > “一定要记住，我们的学术信仰就是**大道至简（Complexity comes from simplicity）**。我们要找到 simplicity 里的那个‘一’，让它在硅基中自发演化出各种各样的大脑。这是我们的学术信仰，也是工程技术路线的绝对坚持。”
 

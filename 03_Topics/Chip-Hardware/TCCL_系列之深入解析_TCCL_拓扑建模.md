@@ -1,5 +1,11 @@
-# TCCL 系列之深入解析 TCCL 拓扑建模
-
+---
+title: TCCL 系列之深入解析 TCCL 拓扑建模
+tags:
+- chip
+- chip-hardware
+- semiconductor
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-20  
 

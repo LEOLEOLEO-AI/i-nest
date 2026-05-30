@@ -1,5 +1,11 @@
-# Nature重磅 | 揭秘大脑中的共享神经子空间与几何缩放
-
+---
+title: Nature重磅 | 揭秘大脑中的共享神经子空间与几何缩放
+tags:
+- brain
+- brain-science
+- neuroscience
+- paper
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-13 09:54
 
@@ -56,3 +62,9 @@ Cognition is highly flexible—we perform many different tasks and continually a
 前沿交流 |  欢迎加入认知神经科学前沿交流群！⭐️ [[入群链接](https://mp.weixin.qq.com/s?__biz=MzYyMTE5NTI5OA==&mid=2247484688&idx=3&sn=674dfdbd6497ee923af211ad05a155bc&scene=21#wechat_redirect)]
 
 核心图表、方法细节、统计结果与讨论见原文及其拓展数据。分享人：饭哥审核：PsyBrain 脑心前沿编辑部
+
+## Related Notes
+
+- [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 | NSR]]
+- [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 | NSR]]
+- [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

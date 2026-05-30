@@ -1,5 +1,12 @@
-# 细看hotchip2025 之 AI数据中心互联以及Parallelism范式发展
-
+---
+title: 细看hotchip2025 之 AI数据中心互联以及Parallelism范式发展
+tags:
+- chip-hardware
+- large-language-model
+- paper
+- semiconductor
+- transformer
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-10-22  
 

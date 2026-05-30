@@ -1,5 +1,17 @@
-# 『麻省大学夏强飞 Nat. Electron.』基于忆阻器的细胞神经网络：实现高速像素内计算的新突破
-
+---
+title: 『麻省大学夏强飞 Nat. Electron.』基于忆阻器的细胞神经网络：实现高速像素内计算的新突破
+tags:
+- chip
+- chip-hardware
+- dynamics
+- neural-networks
+- neuroscience
+- robotics
+- semiconductor
+- simulation
+- synapse
+- topology
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-22 06:42
 

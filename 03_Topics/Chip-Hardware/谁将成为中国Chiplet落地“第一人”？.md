@@ -1,5 +1,15 @@
-# 谁将成为中国Chiplet落地“第一人”？
-
+---
+title: 谁将成为中国Chiplet落地“第一人”？
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- semiconductor
+- simulation
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-04-29  
 

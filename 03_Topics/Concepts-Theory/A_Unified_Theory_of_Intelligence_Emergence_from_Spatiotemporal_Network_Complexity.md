@@ -1,5 +1,13 @@
-# A Unified Theory of Intelligence Emergence from Spatiotemporal Network Complexity
-
+---
+title: A Unified Theory of Intelligence Emergence from Spatiotemporal Network Complexity
+tags:
+- attention-mechanism
+- chiplet
+- concepts-theory
+- fundamentals
+- large-language-model
+- transformer
+---
 > 笔记本: 技术学习  
 > 创建时间: 2025-11-23  
 

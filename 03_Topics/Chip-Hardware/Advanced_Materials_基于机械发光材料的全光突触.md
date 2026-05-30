@@ -1,5 +1,15 @@
-# Advanced Materials 基于机械发光材料的全光突触
-
+---
+title: Advanced Materials 基于机械发光材料的全光突触
+tags:
+- brain
+- chip-hardware
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- semiconductor
+- synapse
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-07-20  
 
@@ -36,3 +46,9 @@ ML和TL模式下LNN:Pr3+器件的同源突触可塑性。a)同源突触示意图
 
 ---
 **Tags:** CST
+
+## Related Notes
+
+- [[Nat. Com.：可穿戴神经形态系统]]
+- [[Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI]]
+- [[Nature—神经形态芯片颠覆性突破！科学家发明兼具神经元与突触行为的单晶体管，AI芯片即将迎来新时代？]]

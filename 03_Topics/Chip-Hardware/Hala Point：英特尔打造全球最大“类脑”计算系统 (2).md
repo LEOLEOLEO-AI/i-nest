@@ -1,5 +1,17 @@
-# Hala Point：英特尔打造全球最大“类脑”计算系统
-
+---
+title: Hala Point：英特尔打造全球最大“类脑”计算系统
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuron
+- neuroscience
+- robotics
+- semiconductor
+- synapse
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-07-03  
 

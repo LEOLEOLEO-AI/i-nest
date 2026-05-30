@@ -1,5 +1,14 @@
-# 清微智能获B轮数亿元融资，国开装备基金领投
-
+---
+title: 清微智能获B轮数亿元融资，国开装备基金领投
+tags:
+- chip
+- chip-hardware
+- chiplet
+- patent
+- project
+- robotics
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2022-05-30  
 

@@ -1,5 +1,17 @@
-# iNEST开发流程
-
+---
+title: iNEST开发流程
+tags:
+- chip
+- complex-networks
+- criticality
+- dynamics
+- emergence
+- neural-networks
+- neuroscience
+- plasticity
+- scale-free-networks
+- self-organization
+---
 - **类型**: plain_text
 - **时间**: 2025-11-16 20:36:33
 

@@ -1,4 +1,15 @@
-# 超低轨卫星智能体重大专项建议书（V10 液态硬件版）
+---
+title: 超低轨卫星智能体重大专项建议书（V10 液态硬件版）
+tags:
+- chip
+- embodied-ai
+- large-language-model
+- neuroscience
+- project
+- software-defined
+- tcc-sdi
+- topology
+---
 ## 基于网络中心计算与同构定律的 OODA 闭环液态晶上系统
 
 ### 一、 战略背景与核心痛点（SWaP-C与暗硅灾难）

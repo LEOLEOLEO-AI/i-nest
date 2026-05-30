@@ -1,5 +1,12 @@
-# 小芯片互联迈出关键一步！UCIe IP成功实现跨厂商互操作
-
+---
+title: 小芯片互联迈出关键一步！UCIe IP成功实现跨厂商互操作
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- simulation
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-03-25  
 

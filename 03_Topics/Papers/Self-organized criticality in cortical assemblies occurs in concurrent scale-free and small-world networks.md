@@ -35,3 +35,9 @@ Validate findings in vivo with advanced imaging/recording techniques., Explore d
 - Causal evidence linking topological features directly to functional criticality in vivo.
 - Role of critical states in cognitive functions like memory or decision-making.
 - Generalizability to non-cortical or artificial network architectures.
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

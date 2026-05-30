@@ -1,5 +1,16 @@
-# 全球首个！7nm世界最大芯片打造AI集群，解锁120万亿「大脑级」AI模型
-
+---
+title: 全球首个！7nm世界最大芯片打造AI集群，解锁120万亿「大脑级」AI模型
+tags:
+- brain
+- chip
+- chip-hardware
+- neural-networks
+- neuron
+- neuroscience
+- semiconductor
+- synapse
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2021-08-25  
 

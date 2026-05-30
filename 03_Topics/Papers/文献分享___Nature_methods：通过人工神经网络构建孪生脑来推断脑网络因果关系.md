@@ -1,5 +1,12 @@
-# 文献分享 | Nature methods：通过人工神经网络构建孪生脑来推断脑网络因果关系
-
+---
+title: 文献分享 | Nature methods：通过人工神经网络构建孪生脑来推断脑网络因果关系
+tags:
+- brain
+- literature
+- neural-networks
+- neuroscience
+- paper
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-07-23  
 

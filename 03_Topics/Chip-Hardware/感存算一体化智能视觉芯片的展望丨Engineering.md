@@ -1,5 +1,17 @@
-# 感存算一体化智能视觉芯片的展望丨Engineering
-
+---
+title: 感存算一体化智能视觉芯片的展望丨Engineering
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- emergence
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 微信  
 > 创建时间: 2023-03-28  
 

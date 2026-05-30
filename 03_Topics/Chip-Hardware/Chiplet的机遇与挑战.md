@@ -1,5 +1,15 @@
-# Chiplet的机遇与挑战
-
+---
+title: Chiplet的机遇与挑战
+tags:
+- chip
+- chip-hardware
+- chiplet
+- patent
+- project
+- semiconductor
+- topology
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2020-10-06  
 

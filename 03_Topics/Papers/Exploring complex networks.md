@@ -36,3 +36,9 @@ For the iNEST theme, next steps involve applying this complex network framework 
 - It lacks integration with the physical constraints and embodiments of nodes and links (e.g., in material systems, robotic swarms).
 - Does not explore the role of network plasticity and learning rules in shaping topology for functional goals.
 - The dynamics are treated mostly as processes *on* networks, not as drivers of network evolution *towards* intelligent function.
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

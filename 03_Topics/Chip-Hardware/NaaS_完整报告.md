@@ -1,4 +1,17 @@
-# 集合通信NaaS完整报告
+---
+title: 集合通信NaaS完整报告
+tags:
+- chip
+- chip-hardware
+- chiplet
+- criticality
+- large-language-model
+- neural-networks
+- neuroscience
+- paper
+- patent
+- semiconductor
+---
 ## 基于CST时空协同复杂度理论 × SDI化学键机制
 
 **天津大学iNEST创新中心**  

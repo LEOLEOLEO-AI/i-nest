@@ -1,5 +1,17 @@
-# 脑洞大开！科学家Nature发文：人工智能之后，“智能物质”计算崛起？
-
+---
+title: 脑洞大开！科学家Nature发文：人工智能之后，“智能物质”计算崛起？
+tags:
+- brain
+- chip
+- chiplet
+- concepts-theory
+- fundamentals
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- robotics
+---
 > 笔记本: 微信  
 > 创建时间: 2021-06-22  
 

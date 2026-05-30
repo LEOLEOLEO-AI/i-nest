@@ -1,5 +1,16 @@
-# 达摩院预测后摩尔时代的三驾马车：芯粒、存算一体与CIPU
-
+---
+title: 达摩院预测后摩尔时代的三驾马车：芯粒、存算一体与CIPU
+tags:
+- chip
+- chip-hardware
+- chiplet
+- emergence
+- large-language-model
+- paper
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-01-11  
 

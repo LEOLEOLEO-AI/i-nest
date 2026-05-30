@@ -1,5 +1,14 @@
-# 7nm制程，黑芝麻智能发布武当系列首款芯片，让单SoC「小材大用」
-
+---
+title: 7nm制程，黑芝麻智能发布武当系列首款芯片，让单SoC「小材大用」
+tags:
+- chip
+- chip-hardware
+- neural-networks
+- neuroscience
+- project
+- robotics
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2023-04-08  
 
@@ -131,3 +140,9 @@
 © THE END 
 转载请联系本公众号获得授权
 投稿或寻求报道：content@jiqizhixin.com
+
+## Related Notes
+
+- [[【芯片论文】华为NoC-Chiplets：适用于异构 Chiplet 的应用定义片上网络：实施视角 - 知乎]]
+- [[类脑芯片,机器超越人脑的最后一击-电子发烧友网]]
+- [[Chiplet互连协议思考]]

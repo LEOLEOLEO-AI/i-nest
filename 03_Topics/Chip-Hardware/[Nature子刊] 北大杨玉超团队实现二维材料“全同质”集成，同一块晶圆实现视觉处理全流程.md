@@ -1,5 +1,17 @@
-# [Nature子刊] 北大杨玉超团队实现二维材料“全同质”集成，同一块晶圆实现视觉处理全流程
-
+---
+title: '[Nature子刊] 北大杨玉超团队实现二维材料“全同质”集成，同一块晶圆实现视觉处理全流程'
+tags:
+- brain
+- chip
+- chip-hardware
+- dynamics
+- neuron
+- neuroscience
+- paper
+- semiconductor
+- simulation
+- synapse
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-24 01:36
 

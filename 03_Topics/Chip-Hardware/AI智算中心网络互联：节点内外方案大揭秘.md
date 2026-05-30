@@ -1,5 +1,13 @@
-# AI智算中心网络互联：节点内外方案大揭秘
-
+---
+title: AI智算中心网络互联：节点内外方案大揭秘
+tags:
+- chip
+- chip-hardware
+- large-language-model
+- project
+- semiconductor
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-10-22  
 

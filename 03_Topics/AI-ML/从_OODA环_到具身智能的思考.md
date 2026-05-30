@@ -1,5 +1,17 @@
-# 从“OODA环”到具身智能的思考
-
+---
+title: 从“OODA环”到具身智能的思考
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- dynamics
+- embodied-ai
+- emergence
+- graph-neural-network
+- large-language-model
+- neural-networks
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-10 01:12
 

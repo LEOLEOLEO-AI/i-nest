@@ -1,5 +1,17 @@
-# Nat. Commun. 速递 | 网络属性决定神经网络性能
-
+---
+title: Nat. Commun. 速递 | 网络属性决定神经网络性能
+tags:
+- ai-ml
+- artificial-intelligence
+- complex-networks
+- deep-learning
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- robotics
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-08-24  
 

@@ -124,3 +124,9 @@ DOI: https://doi.org/10.1038/s41592-025-02895-w
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 10:16*
+
+## Related Notes
+
+- [[AutoResearchClaw：全自动端到端AI科研智能体深度解析]]
+- [[ClearSight: 基于事件相机与生物启发的运动去模糊研究]]
+- [[ComAI：通信与人工智能融合的新范式研究]]

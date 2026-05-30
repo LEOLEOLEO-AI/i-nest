@@ -1,5 +1,12 @@
-# Arm发布芯粒系统架构首个公开规范，加速芯片技术演进
-
+---
+title: Arm发布芯粒系统架构首个公开规范，加速芯片技术演进
+tags:
+- chip
+- chiplet
+- large-language-model
+- project
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-01-24  
 

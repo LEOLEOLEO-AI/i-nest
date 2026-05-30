@@ -114,3 +114,9 @@ Stay tuned for one breakthrough paper
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 10:40*
+
+## Related Notes
+
+- [[基于模拟忆阻器的Actor-Critic网络：类脑奖励学习的硬件实现突破]]
+- [[AgentEvolver vs AlphaEvolve：AI自我进化的两条核心路线对比 🧠]]
+- [[AI编码代理的质的飞跃：v3.3透明化与v3.4连续性技术解析]]

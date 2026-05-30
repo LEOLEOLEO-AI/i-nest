@@ -1,5 +1,15 @@
-# 浅议本土chiplet的发展路线
-
+---
+title: 浅议本土chiplet的发展路线
+tags:
+- chip
+- chip-hardware
+- chiplet
+- paper
+- patent
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-01-05  
 

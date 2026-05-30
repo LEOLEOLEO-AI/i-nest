@@ -1,5 +1,9 @@
-# New DARPA-Funded Project Aims to Unravel the Brain's Learning Secrets - USC Viterbi | School of Engineering
-
+---
+title: New DARPA-Funded Project Aims to Unravel the Brain's Learning Secrets - USC Viterbi | School of Engineering
+tags:
+- brain-science
+- neuroscience
+---
 > 笔记本: 微信  
 > 创建时间: 2025-10-10  
 
@@ -53,3 +57,9 @@ The 12-month project will enable foundational knowledge that could impact the fu
 Song added that these biologically realistic learning rules developed by the project could provide critical insights for developing the next generation of artificial intelligence systems that more closely mimic the brain’s efficient learning capabilities. The work could also be instrumental for the [hippocampal memory prostheses](https://viterbischool.usc.edu/news/2024/10/turning-memory-loss-into-a-distant-memory/) that Song and his collaborators have been developing for many years to ultimately restore lost memories in patients with neurological disorders.
 
 “For the prostheses, developing this learning rule can render the whole system time-varying and adaptive. Our previous prostheses cannot change over time. We simply capture the stationary input-output functions from individual patients,” Song said. “But here, if we can identify the learning rule, we can potentially use it to make more intelligent prostheses that form new memories and learning new things just like the brain does.”
+
+## Related Notes
+
+- [[iNEST理论实证]]
+- [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 | NSR]]
+- [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 | NSR]]

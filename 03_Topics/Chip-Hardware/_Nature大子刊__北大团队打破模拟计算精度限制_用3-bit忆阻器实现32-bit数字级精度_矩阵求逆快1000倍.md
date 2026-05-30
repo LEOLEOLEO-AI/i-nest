@@ -1,5 +1,13 @@
-# [Nature大子刊] 北大团队打破模拟计算精度限制！用3-bit忆阻器实现32-bit数字级精度，矩阵求逆快1000倍
-
+---
+title: '[Nature大子刊] 北大团队打破模拟计算精度限制！用3-bit忆阻器实现32-bit数字级精度，矩阵求逆快1000倍'
+tags:
+- brain
+- chip
+- chip-hardware
+- paper
+- semiconductor
+- simulation
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-15 00:02
 

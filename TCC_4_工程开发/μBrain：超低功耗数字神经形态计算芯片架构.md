@@ -523,3 +523,9 @@ The datasets presented in this study can be found in online repositories. The na
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 11:32*
+
+## Related Notes
+
+- [[神经形态计算：为AI装上人类大脑的未来科技]]
+- [[晶圆级忆阻器无源交叉阵列制造技术：脑规模神经形态计算突破 🧠]]
+- [[离子浮栅存储器（IFG）阵列：神经形态计算的高效突触器件解决方案]]

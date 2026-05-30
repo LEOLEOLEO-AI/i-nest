@@ -1,5 +1,17 @@
-# Idea：同构定理在OODA智能体（如超低轨卫星）中的战略价值
-
+---
+title: Idea：同构定理在OODA智能体（如超低轨卫星）中的战略价值
+tags:
+- brain
+- chip
+- embodied-ai
+- emergence
+- large-language-model
+- neuroscience
+- software-defined
+- survey
+- tcc-sdi
+- topology
+---
 > **刘教授核心判断**：同构定理对于在晶圆上实现的计算处理系统具有极高的战略价值。以超低轨卫星智能体为例，OODA（观察-定向-决策-行动）循环需要大量异构算力。如果依据同构定理，用少量的资源实现功能和性能的灵活重构与分配，对于构建具身智能的OODA智能体将是一条至关重要的技术路线。
 >
 > 这种液态硬件的直观作用是：**当系统需要时，所有资源都可以瞬间转化为感知（看得更远、更准）；或者瞬间转化为决策（算得更快、更复杂）**。这种硬件资源随任务和环境的极度灵活分配，代表了智能系统发展的未来方向，重新定义了未来智能系统的底层硬件架构与智能范式。
@@ -44,3 +56,9 @@ OODA（Observe-Orient-Decide-Act）循环是一个闭环，但它的每个阶段
 
 ---
 **Tags:** #NaaS #StrategicProposal #CST #SDSoW #SDI
+
+## Related Notes
+
+- [[超低轨卫星智能体重大专项建议书（V10 液态硬件版）]]
+- [[修订意见沟通素材]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]

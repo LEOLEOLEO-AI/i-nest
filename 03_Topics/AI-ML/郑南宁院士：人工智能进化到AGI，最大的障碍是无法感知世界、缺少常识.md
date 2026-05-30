@@ -1,5 +1,17 @@
-# 郑南宁院士：人工智能进化到AGI，最大的障碍是无法感知世界、缺少常识
-
+---
+title: 郑南宁院士：人工智能进化到AGI，最大的障碍是无法感知世界、缺少常识
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- chiplet
+- deep-learning
+- embodied-ai
+- emergence
+- large-language-model
+- neural-networks
+---
 > 笔记本: 技术学习  
 > 创建时间: 2025-04-27  
 

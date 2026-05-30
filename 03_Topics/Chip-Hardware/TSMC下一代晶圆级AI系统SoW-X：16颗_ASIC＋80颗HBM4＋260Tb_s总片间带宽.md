@@ -1,5 +1,15 @@
-# TSMC下一代晶圆级AI系统SoW-X：16颗 ASIC＋80颗HBM4＋260Tb/s总片间带宽
-
+---
+title: TSMC下一代晶圆级AI系统SoW-X：16颗 ASIC＋80颗HBM4＋260Tb/s总片间带宽
+tags:
+- chip
+- chip-hardware
+- chiplet
+- dynamics
+- large-language-model
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-07-18  
 

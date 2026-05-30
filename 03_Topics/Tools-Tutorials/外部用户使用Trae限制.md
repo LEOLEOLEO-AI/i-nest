@@ -148,3 +148,9 @@ for event in sensor_generator:
 
 ---
 *来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 11:55*
+
+## Related Notes
+
+- [[全球首款大规模类脑脉冲大模型SpikingBrain1.0发布]]
+- [[智能本质新范式：高维几何结构与通用“心智”诞生猜想]]
+- [[类脑的“物理第一性”逼近]]

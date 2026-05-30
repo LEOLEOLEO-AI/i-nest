@@ -1,5 +1,17 @@
-# Nature 长文综述：类脑智能与脉冲神经网络前沿
-
+---
+title: Nature 长文综述：类脑智能与脉冲神经网络前沿
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- chiplet
+- deep-learning
+- dynamics
+- large-language-model
+- neural-networks
+- neuron
+---
 > 笔记本: 微信  
 > 创建时间: 2020-06-21  
 

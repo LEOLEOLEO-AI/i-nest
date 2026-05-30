@@ -1,5 +1,13 @@
-# 事件相机 (DVS)、类脑计算 (SNN) 与 FPGA 部署
-
+---
+title: 事件相机 (DVS)、类脑计算 (SNN) 与 FPGA 部署
+tags:
+- brain
+- neural-networks
+- neuroscience
+- project
+- tools
+- tutorial
+---
 - **类型**: plain_text
 - **时间**: 2025-10-10 22:57:09
 

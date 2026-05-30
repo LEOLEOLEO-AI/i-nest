@@ -36,3 +36,9 @@ Extend models to include adaptive rewiring rules based on local performance or l
 - Integration of network topology with nonlinear dynamics of node states to model true 'intelligence' emergence.
 - The role of network adaptation and rewiring in response to functional demands, not just growth.
 - Empirical validation in truly cognitive, physically embedded systems (like robot swarms or neuromorphic hardware).
+
+## Related Notes
+
+- [[TCC-SDI — 全景导航 (Map of Content)]]
+- [[Tools-Tutorials — 全景导航 (Map of Content)]]
+- [[知识库健康诊断 (Self-Health Dashboard)]]

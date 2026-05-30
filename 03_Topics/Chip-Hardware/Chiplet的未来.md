@@ -1,5 +1,12 @@
-# Chiplet的未来
-
+---
+title: Chiplet的未来
+tags:
+- chip
+- chip-hardware
+- chiplet
+- paper
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2023-08-03  
 

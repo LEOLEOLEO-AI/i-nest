@@ -1,5 +1,17 @@
-# 科研与学术品牌（CREST  →  iNEST）
-
+---
+title: 科研与学术品牌（CREST → iNEST）
+tags:
+- brain
+- chip
+- chiplet
+- complex-networks
+- criticality
+- emergence
+- neural-networks
+- neuroscience
+- plasticity
+- project
+---
 - **类型**: plain_text
 - **时间**: 2025-10-07 10:39:33
 

@@ -1,5 +1,13 @@
-# 揭秘：国内互联网大厂BBAT自研芯片
-
+---
+title: 揭秘：国内互联网大厂BBAT自研芯片
+tags:
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- large-language-model
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-12-24  
 

@@ -1,5 +1,17 @@
-# Chiplet互连协议思考
-
+---
+title: Chiplet互连协议思考
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- project
+- semiconductor
+- topology
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2024-05-26  
 

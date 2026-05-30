@@ -1,5 +1,12 @@
-# DeepMind CEO哈萨比斯 ：自然界不是混沌的，它是被演化压缩的数学结构！
-
+---
+title: DeepMind CEO哈萨比斯 ：自然界不是混沌的，它是被演化压缩的数学结构！
+tags:
+- concepts-theory
+- deep-learning
+- fundamentals
+- neural-networks
+- neuroscience
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-02  
 

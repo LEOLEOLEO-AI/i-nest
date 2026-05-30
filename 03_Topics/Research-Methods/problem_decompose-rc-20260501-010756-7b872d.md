@@ -64,3 +64,9 @@ title: 'Stage 02: Problem Decompose'
 - **Minimality proof strategy**: For each primitive p ∈ TCC-11, attempt to express p as a com
 
 ... (truncated, see full artifact)
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

@@ -1,5 +1,14 @@
-# 智能连接：碳原子与Token
-
+---
+title: 智能连接：碳原子与Token
+tags:
+- brain
+- concepts-theory
+- embodied-ai
+- emergence
+- fundamentals
+- large-language-model
+- neuroscience
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-01-06  
 
@@ -79,3 +88,9 @@
 
 ---
 **Tags:** CST
+
+## Related Notes
+
+- [[关于将“物理相变与涌现智能体系（CST与SDI）”列入国家人工智能重大专项的战略动议]]
+- [[张晓东教授《计算与智能的第一性原理》第一讲：计算与智能的原理视角（综述）]]
+- [[数据科学与计算智能：内涵、范式与机遇]]

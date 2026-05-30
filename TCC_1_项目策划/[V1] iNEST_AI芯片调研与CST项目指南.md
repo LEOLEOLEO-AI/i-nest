@@ -1,5 +1,17 @@
-# AI芯片初创公司网络架构创新调研 × CST项目指南建议
-
+---
+title: AI芯片初创公司网络架构创新调研 × CST项目指南建议
+tags:
+- attention-mechanism
+- brain
+- chip
+- chiplet
+- complex-networks
+- criticality
+- dynamics
+- emergence
+- large-language-model
+- neural-networks
+---
 > 版本 v1.0 | 2026-03-22  
 > 研究范围：Tenstorrent、Groq、SambaNova、Taalas、Etched、Cerebras、及相关架构创新  
 > 目标：从"网"的角度提炼CST可借鉴方向，形成≥5个具体项目指南建议

@@ -1,5 +1,12 @@
-# 『加州大学洛杉矶 Science正刊』合作的神经基础：生物与人工智能系统的共同计算原则
-
+---
+title: 『加州大学洛杉矶 Science正刊』合作的神经基础：生物与人工智能系统的共同计算原则
+tags:
+- brain
+- brain-science
+- neural-networks
+- neuron
+- neuroscience
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-05 00:31
 
@@ -40,3 +47,9 @@
 文章信息：
 Jiang, M., Gu, L., Ma, M. et al.Neural basis of cooperative behavior in biological and artificial intelligence systems. Science (2026). 
 https://doi.org/10.1126/science.adw8151
+
+## Related Notes
+
+- [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 | NSR]]
+- [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 | NSR]]
+- [[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]

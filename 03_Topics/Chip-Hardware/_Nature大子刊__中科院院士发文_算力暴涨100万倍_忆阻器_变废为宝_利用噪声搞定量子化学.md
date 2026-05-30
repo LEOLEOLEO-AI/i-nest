@@ -1,5 +1,16 @@
-# [Nature大子刊] 中科院院士发文，算力暴涨100万倍！忆阻器“变废为宝”利用噪声搞定量子化学
-
+---
+title: '[Nature大子刊] 中科院院士发文，算力暴涨100万倍！忆阻器“变废为宝”利用噪声搞定量子化学'
+tags:
+- brain
+- chip
+- chip-hardware
+- dynamics
+- graph-neural-network
+- neural-networks
+- neuroscience
+- paper
+- semiconductor
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-14 03:21
 

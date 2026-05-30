@@ -35,3 +35,9 @@ Investigate how small-world and scale-free topologies in physical systems (e.g.,
 - Temporal networks: The analysis is largely of static snapshots; the dynamics of network evolution over time is a major subsequent gap identified.
 - Multi-layer & interdependent networks: Real-world 'physical complex network intelligence' often involves multiple overlapping network layers (e.g., power grid + communication network), not addressed here.
 - Quantifying 'intelligence emergence': The paper provides the structural framework but offers no metrics or models for how specific intelligent computations (learning, decision-making) emerge from these topologies.
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

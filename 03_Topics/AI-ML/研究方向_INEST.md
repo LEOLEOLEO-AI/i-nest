@@ -19,3 +19,9 @@ WHERE contains(tags, "inest")
 SORT imported_at desc
 LIMIT 200
 ```
+
+## Related Notes
+
+- [[研究方向_TCC]]
+- [[灵感库总览]]
+- [[Why All Deep Learning Architectures Are at Intelligence Level 0: A CST Analysis from CNN to Transformer]]

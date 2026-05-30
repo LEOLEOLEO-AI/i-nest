@@ -1,5 +1,13 @@
-# 国内首颗chiplet AI芯片，寒武纪发布第三代云端芯片思元370
-
+---
+title: 国内首颗chiplet AI芯片，寒武纪发布第三代云端芯片思元370
+tags:
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- semiconductor
+- transformer
+---
 > 笔记本: 微信  
 > 创建时间: 2021-11-04  
 

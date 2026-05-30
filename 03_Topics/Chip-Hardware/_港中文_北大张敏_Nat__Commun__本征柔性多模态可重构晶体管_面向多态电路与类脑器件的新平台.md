@@ -1,5 +1,16 @@
-# 『港中文；北大张敏 Nat. Commun.』本征柔性多模态可重构晶体管：面向多态电路与类脑器件的新平台
-
+---
+title: 『港中文；北大张敏 Nat. Commun.』本征柔性多模态可重构晶体管：面向多态电路与类脑器件的新平台
+tags:
+- brain
+- chip-hardware
+- neural-networks
+- neuroscience
+- plasticity
+- robotics
+- semiconductor
+- simulation
+- synapse
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-22 03:13
 
@@ -36,3 +47,9 @@
 文章信息：
 Wang, W., Qiu, R., Zhu, J. et al. Intrinsically flexible multimode reconfigurable transistors for polymorphic circuits and neuromorphic devices. Nat Commun (2025). 
 https://doi.org/10.1038/s41467-025-67041-8
+
+## Related Notes
+
+- [[Speck：基于注意力机制的动态神经形态计算系统]]
+- [[【Nature Communications】机器人也能“长记性”：基于三阶忆阻器的人工感觉神经系统，实现仿生习惯化与敏化]]
+- [[【Nature Communications】机器人也能“长记性”：基于三阶忆阻器的人工感觉神经系统，实现仿生习惯化与敏化]]

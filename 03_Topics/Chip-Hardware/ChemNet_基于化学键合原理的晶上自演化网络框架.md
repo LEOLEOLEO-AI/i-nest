@@ -1,5 +1,17 @@
-# ChemNet：基于化学键合原理的晶上自演化网络框架
-
+---
+title: ChemNet：基于化学键合原理的晶上自演化网络框架
+tags:
+- brain
+- chip-hardware
+- dynamics
+- emergence
+- free-energy-principle
+- neuron
+- neuroscience
+- self-organization
+- semiconductor
+- simulation
+---
 - **类型**: link
 - **时间**: 2025-07-12 12:06:54
 - **标签**: AI链接笔记, 晶上自演化网络, ChemNet框架, 软件定义化合键(SDBs), 类脑计算, 神经形态计算
@@ -89,3 +101,9 @@ Log In or Sign Up
 
 ---
 **Tags:** CST SDI
+
+## Related Notes
+
+- [[Nature Electronics：一忆阻器、一晶体管、一电阻构建功能全面的脉冲人工神经元]]
+- [[[Nature子刊] 北大杨玉超团队实现二维材料“全同质”集成，同一块晶圆实现视觉处理全流程]]
+- [[TCC 计算范式 — 全景导航 (Map of Content)]]

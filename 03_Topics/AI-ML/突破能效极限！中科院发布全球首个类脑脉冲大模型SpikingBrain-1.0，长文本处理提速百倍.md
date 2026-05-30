@@ -1,5 +1,17 @@
-# 突破能效极限！中科院发布全球首个类脑脉冲大模型SpikingBrain-1.0，长文本处理提速百倍
-
+---
+title: 突破能效极限！中科院发布全球首个类脑脉冲大模型SpikingBrain-1.0，长文本处理提速百倍
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- dynamics
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-10-12  
 

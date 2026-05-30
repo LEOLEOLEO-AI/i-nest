@@ -1,5 +1,13 @@
-# 美国芯片法案正式签订，倡议建立Chiplet平台
-
+---
+title: 美国芯片法案正式签订，倡议建立Chiplet平台
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-08-09  
 

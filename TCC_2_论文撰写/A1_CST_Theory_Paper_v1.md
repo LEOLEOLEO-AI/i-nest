@@ -1,5 +1,8 @@
-# Spatiotemporal Complexity Theory of Intelligence Emergence in Physical Neural Networks
-
+---
+title: Spatiotemporal Complexity Theory of Intelligence Emergence in Physical Neural Networks
+tags:
+- brain
+---
 ## 1. Title & Abstract
 **Title:** Spatiotemporal Complexity Theory of Intelligence Emergence in Physical Neural Networks
 **Target:** Nature Neuroscience / Nature Machine Intelligence / PNAS
@@ -23,3 +26,9 @@
 
 ## 6. Conclusion
 ...
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

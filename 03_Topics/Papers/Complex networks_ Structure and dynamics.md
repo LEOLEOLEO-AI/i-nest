@@ -37,3 +37,9 @@ Apply network principles to design physical systems for targeted emergent behavi
 - Quantitative metrics for measuring intelligence emergence in network systems
 - Integration of network theory with specific physical implementation constraints
 - Temporal evolution of intelligence in adaptive network structures
+
+## Related Notes
+
+- [[知识库健康诊断 (Self-Health Dashboard)]]
+- [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
+- [[Transformer的拓扑直觉之一]]

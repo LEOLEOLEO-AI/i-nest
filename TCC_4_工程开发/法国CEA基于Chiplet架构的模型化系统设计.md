@@ -1,5 +1,12 @@
-# 法国CEA基于Chiplet架构的模型化系统设计
-
+---
+title: 法国CEA基于Chiplet架构的模型化系统设计
+tags:
+- chip
+- chiplet
+- project
+- simulation
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-06-01  
 

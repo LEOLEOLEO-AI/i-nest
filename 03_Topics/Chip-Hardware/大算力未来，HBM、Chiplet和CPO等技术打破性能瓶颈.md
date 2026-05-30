@@ -1,5 +1,15 @@
-# 大算力未来，HBM、Chiplet和CPO等技术打破性能瓶颈
-
+---
+title: 大算力未来，HBM、Chiplet和CPO等技术打破性能瓶颈
+tags:
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- large-language-model
+- robotics
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-04-17  
 

@@ -1,5 +1,17 @@
-# CST 第一性原理推导：基于重整化群的器件非线性与智能涌现标度律
-
+---
+title: CST 第一性原理推导：基于重整化群的器件非线性与智能涌现标度律
+tags:
+- concepts-theory
+- criticality
+- dynamics
+- emergence
+- fundamentals
+- neuron
+- neuroscience
+- paper
+- scale-free-networks
+- topology
+---
 ## 核心定位：纯理论物理/应用数学路径
 本协议为 Phase 2 论文的核心指导大纲，将 CST 理论从“实验数据验证”（Phase 1）深化为“第一性原理物理推导”（Phase 2）。
 *   **论文目标**：用重整化群（RG）和统计力学证明 $\alpha$ 的物理起源与标度不变性。
@@ -75,3 +87,9 @@ $$ \eta_I^{\text{max}} = \frac{1}{k_B T \ln 2} \cdot \frac{\alpha \cdot \Gamma_{
 *   **IV. NUMERICAL VALIDATION**: Monte Carlo on Synthetic Networks & Meta-Analysis.
 *   **V. DISCUSSION & CONCLUSION**: Thermodynamic Limits & Falsifiable Predictions.
 *   *(20 pages of Appendices for full mathematical derivations)*
+
+## Related Notes
+
+- [[SOC — 自组织临界（Self-Organized Criticality）]]
+- [[NICE：开启类脑智能新范式——从连接复杂度到智能涌现]]
+- [[专访四位复杂系统研究者：跨学科研究中的复杂科学]]

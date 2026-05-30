@@ -1,5 +1,14 @@
-# TCC — 拓扑中心计算（Topology-Centric Computing）
-
+---
+title: TCC — 拓扑中心计算（Topology-Centric Computing）
+tags:
+- criticality
+- paper
+- project
+- self-organization
+- software-defined
+- tcc-sdi
+- topology
+---
 > iNEST 核心计算范式
 
 ## 定义

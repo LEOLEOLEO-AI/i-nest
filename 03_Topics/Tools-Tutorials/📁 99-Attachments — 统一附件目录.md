@@ -1,7 +1,10 @@
 ---
 title: 附件目录说明
+tags:
+- attachment-directory
+- obsidian-setup
+- file-organization
 ---
-
 # 📁 99-Attachments — 统一附件目录
 
 Obsidian 默认新建附件路径已设为此目录。
@@ -16,3 +19,9 @@ Obsidian 默认新建附件路径已设为此目录。
 | `其他/` | 其余附件 |
 
 > 原始论文图片仍保留在 `30_Outputs/论文/Figures/`（保持相对路径引用不变）
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

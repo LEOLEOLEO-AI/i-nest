@@ -1,5 +1,12 @@
-# Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为计算优势
-
+---
+title: Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为计算优势
+tags:
+- chip-hardware
+- chiplet
+- complex-networks
+- scale-free-networks
+- semiconductor
+---
 - **类型**: link
 - **时间**: 2026-01-07 17:34:45
 - **标签**: AI链接笔记, 忆阻器, Graphlet分解, 随机游走

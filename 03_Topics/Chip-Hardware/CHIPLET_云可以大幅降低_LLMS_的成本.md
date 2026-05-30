@@ -1,5 +1,14 @@
-# CHIPLET 云可以大幅降低 LLMS 的成本
-
+---
+title: CHIPLET 云可以大幅降低 LLMS 的成本
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- paper
+- semiconductor
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2023-08-04  
 

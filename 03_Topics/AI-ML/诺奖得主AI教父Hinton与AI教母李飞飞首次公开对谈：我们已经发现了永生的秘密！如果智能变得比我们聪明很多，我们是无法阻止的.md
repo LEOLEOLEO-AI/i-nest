@@ -1,5 +1,17 @@
-# 诺奖得主AI教父Hinton与AI教母李飞飞首次公开对谈：我们已经发现了永生的秘密！如果智能变得比我们聪明很多，我们是无法阻止的
-
+---
+title: 诺奖得主AI教父Hinton与AI教母李飞飞首次公开对谈：我们已经发现了永生的秘密！如果智能变得比我们聪明很多，我们是无法阻止的
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- deep-learning
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-10-16  
 

@@ -170,3 +170,9 @@ Go to the first comment
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 12:01*
+
+## Related Notes
+
+- [[AgentEvolver vs AlphaEvolve：AI自我进化的两条核心路线对比 🧠]]
+- [[AI编码代理的质的飞跃：v3.3透明化与v3.4连续性技术解析]]
+- [[DARPA人工智能与自主系统项目深度研究报告：以“第三波AI”为核心的军事智能革命]]

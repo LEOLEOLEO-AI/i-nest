@@ -1,5 +1,17 @@
-# SDA物理突触-神经元架构：物理第一性智能涌现
-
+---
+title: SDA物理突触-神经元架构：物理第一性智能涌现
+tags:
+- brain
+- chip
+- complex-networks
+- criticality
+- emergence
+- free-energy-principle
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 **文档性质**：核心技术架构文件
 **用途**：论文方法部分、专项申报技术方案、PPT技术架构页
 **版本**：v1.0，2026-03-24
@@ -248,3 +260,9 @@ Layer 3：智能涌现
 
 *关联文件：`07_核心定义_超非线性增益与智能视角.md`，`08_技术路线宣言.md`*
 *存档路径：`/home/work/.openclaw/workspace/知识库_网络超线性增益/10_SDA物理架构_物理第一性智能涌现.md`*
+
+## Related Notes
+
+- [[iNEST工程技术路线宣言：从算力到智力的范式跨越]]
+- [[iNEST 论文总清单（唯一主文件）]]
+- [[TCC与INEST：2026全局论文与专利战略规划清单]]

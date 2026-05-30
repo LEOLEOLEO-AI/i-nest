@@ -1,5 +1,15 @@
-# 基于 FEP/STDP 的神经形态芯片资源分配方法
-
+---
+title: 基于 FEP/STDP 的神经形态芯片资源分配方法
+tags:
+- brain
+- chip
+- free-energy-principle
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- synapse
+---
 ## 1. 发明名称
 基于自由能原理（FEP）与脉冲时序依赖可塑性（STDP）的神经形态芯片资源分配方法及系统
 
@@ -31,3 +41,9 @@
 1. 一种基于 FEP/STDP 的神经形态芯片资源分配方法，其特征在于，利用 STDP 机制监测网络活跃度，并以降低系统自由能为目标，动态迁移片上神经元并更新路由路径。
 2. ...（待补充：硬件 STDP 监测器的具体电路与寄存器设计）
 3. ...（待补充：芯片自由能目标函数的数学表达与硬件近似计算单元）
+
+## Related Notes
+
+- [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
+- [[Nat. Com.：可穿戴神经形态系统]]
+- [[Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI]]

@@ -1,5 +1,12 @@
-# Chiplet时代来临，Die-to-Die接口成新挑战
-
+---
+title: Chiplet时代来临，Die-to-Die接口成新挑战
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2021-10-26  
 

@@ -1,5 +1,13 @@
-# 集合通信NaaS产业落地计划（18个月）
-
+---
+title: 集合通信NaaS产业落地计划（18个月）
+tags:
+- chip
+- chip-hardware
+- chiplet
+- paper
+- patent
+- semiconductor
+---
 ## 第一期：IP诊断服务（0-6个月）
 
 ### 目标

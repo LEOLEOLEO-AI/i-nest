@@ -1,5 +1,17 @@
-# [Nature子刊] 告别GPU暴力计算！神经形态芯片硬解FEM方程，科学计算迎来“脉冲时刻”
-
+---
+title: '[Nature子刊] 告别GPU暴力计算！神经形态芯片硬解FEM方程，科学计算迎来“脉冲时刻”'
+tags:
+- brain
+- chip
+- chip-hardware
+- deep-learning
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- semiconductor
+- simulation
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-21 04:31
 

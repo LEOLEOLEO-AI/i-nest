@@ -1,5 +1,12 @@
-# 国家强化标准话语权，中国Chiplet标准与美国UCIe的“竞与合”
-
+---
+title: 国家强化标准话语权，中国Chiplet标准与美国UCIe的“竞与合”
+tags:
+- chip
+- chip-hardware
+- chiplet
+- patent
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2023-01-24  
 

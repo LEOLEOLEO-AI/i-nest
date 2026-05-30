@@ -1,5 +1,17 @@
-# 临界学习（LaC）：大模型推理能力涌现的物理机制与科学应用
-
+---
+title: 临界学习（LaC）：大模型推理能力涌现的物理机制与科学应用
+tags:
+- ai-ml
+- artificial-intelligence
+- chiplet
+- complex-networks
+- criticality
+- deep-learning
+- dynamics
+- emergence
+- large-language-model
+- paper
+---
 - **类型**: link
 - **时间**: 2026-02-14 12:29:10
 - **标签**: AI链接笔记, 临界学习（LaC）, 大模型推理, 相变现象

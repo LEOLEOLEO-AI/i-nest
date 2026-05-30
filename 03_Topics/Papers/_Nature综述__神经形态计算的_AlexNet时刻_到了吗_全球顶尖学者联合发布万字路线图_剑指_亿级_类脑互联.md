@@ -1,5 +1,17 @@
-# [Nature综述] 神经形态计算的“AlexNet时刻”到了吗？全球顶尖学者联合发布万字路线图，剑指“亿级”类脑互联
-
+---
+title: '[Nature综述] 神经形态计算的“AlexNet时刻”到了吗？全球顶尖学者联合发布万字路线图，剑指“亿级”类脑互联'
+tags:
+- brain
+- chip
+- criticality
+- deep-learning
+- large-language-model
+- literature
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-19 11:21
 

@@ -1,5 +1,14 @@
-# 04 混沌与非线性：规则已知，却不可预测？ - 得到APP
-
+---
+title: 04 混沌与非线性：规则已知，却不可预测？ - 得到APP
+tags:
+- brain
+- concepts-theory
+- deep-learning
+- dynamics
+- emergence
+- fundamentals
+- project
+---
 > 笔记本: 复杂科学  
 > 创建时间: 2024-06-10  
 

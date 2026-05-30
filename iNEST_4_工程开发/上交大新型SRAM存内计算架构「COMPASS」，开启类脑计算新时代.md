@@ -1,5 +1,12 @@
-# 上交大新型SRAM存内计算架构「COMPASS」，开启类脑计算新时代
-
+---
+title: 上交大新型SRAM存内计算架构「COMPASS」，开启类脑计算新时代
+tags:
+- brain
+- neural-networks
+- neuroscience
+- paper
+- robotics
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-08-25  
 

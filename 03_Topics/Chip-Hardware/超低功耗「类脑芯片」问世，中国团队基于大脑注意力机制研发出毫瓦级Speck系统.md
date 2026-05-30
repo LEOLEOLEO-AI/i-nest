@@ -1,5 +1,17 @@
-# 超低功耗「类脑芯片」问世，中国团队基于大脑注意力机制研发出毫瓦级Speck系统
-
+---
+title: 超低功耗「类脑芯片」问世，中国团队基于大脑注意力机制研发出毫瓦级Speck系统
+tags:
+- brain
+- chip
+- chip-hardware
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- plasticity
+- self-organization
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-06-17  
 

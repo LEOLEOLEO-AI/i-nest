@@ -1,5 +1,17 @@
-# AGI面临的挑战 : 脑机制自底向顶梳理 下部 5万字
-
+---
+title: 'AGI面临的挑战 : 脑机制自底向顶梳理 下部 5万字'
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- deep-learning
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-03-31  
 

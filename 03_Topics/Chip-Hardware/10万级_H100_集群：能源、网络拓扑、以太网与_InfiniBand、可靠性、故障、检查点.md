@@ -1,5 +1,14 @@
-# 10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点
-
+---
+title: 10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- project
+- semiconductor
+- topology
+---
 > 笔记本: 技术学习  
 > 创建时间: 2024-08-19  
 

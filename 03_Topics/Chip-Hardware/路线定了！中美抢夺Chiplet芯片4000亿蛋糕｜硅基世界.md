@@ -1,5 +1,13 @@
-# 路线定了！中美抢夺Chiplet芯片4000亿蛋糕｜硅基世界
-
+---
+title: 路线定了！中美抢夺Chiplet芯片4000亿蛋糕｜硅基世界
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2023-08-20  
 

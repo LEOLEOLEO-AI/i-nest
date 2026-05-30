@@ -1,5 +1,15 @@
-# Nat Comm：人脑拓扑结构的 “人生转折点”：0-90 岁大脑网络的非线性格局
-
+---
+title: Nat Comm：人脑拓扑结构的 “人生转折点”：0-90 岁大脑网络的非线性格局
+tags:
+- brain
+- brain-science
+- neuron
+- neuroscience
+- plasticity
+- small-world-networks
+- synapse
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-12-04  
 
@@ -97,3 +107,9 @@
 
 从 0 岁的密集弱连接，到 32 岁的高效整合网络，再到 83 岁的简化核心节点 —— 我们的大脑拓扑结构从未静止，而是沿着四个关键转折点，书写着非对称、非线性的发展剧本。这项研究首次用 “多维、跨生命周期、数据驱动” 的视角，打破了 “大脑发育线性论” 的固有认知，证明人类大脑的成熟与衰老，是一场由拓扑结构质变驱动的复杂旅程。未来，这些转折点或将成为认知增强、衰老干预的精准靶点，帮助我们更好地守护大脑的 “连接密码”。
 Mousley, A., Bethlehem, R.A.I., Yeh, FC. *et al.* Topological turning points across the human lifespan. *Nat Commun*16**, 10055 (2025). https://doi.org/10.1038/s41467-025-65974-8
+
+## Related Notes
+
+- [[AI梦境与意识涌现]]
+- [[Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？]]
+- [[忆阻器网络频谱提取]]

@@ -41,3 +41,9 @@
 - 希望智能体自动执行，不来回确认细节
 - 用中文交流，技术深度要高
 - 对低效和愚蠢的错误零容忍
+
+## Related Notes
+
+- [[SOUL]]
+- [[iNEST 课题组学术信仰与工程技术路线 (The Core Belief)]]
+- [[SDI — 软件定义互连（Software-Defined Interconnect）]]

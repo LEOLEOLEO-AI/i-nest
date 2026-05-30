@@ -1,5 +1,14 @@
-# Nature综述 | 大规模类脑计算的机遇与挑战
-
+---
+title: Nature综述 | 大规模类脑计算的机遇与挑战
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- neural-networks
+- neuroscience
+- survey
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-02-04  
 
@@ -24,3 +33,9 @@
 **原文链接：******
 https://www.nature.com/articles/s41586-024-08253-8
 商务合作：mss@pku.edu.cn   (要求：1. 过审核；2. 标题明确标注)
+
+## Related Notes
+
+- [[Nature综述 | 大规模类脑计算的机遇与挑战]]
+- [[大规模类脑计算的发展、机遇与挑战综述]]
+- [[物理学AI新范式 | 人工智能与物理学的结合：一项全面调查]]

@@ -1,5 +1,17 @@
-# Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI
-
+---
+title: Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI
+tags:
+- brain
+- chip
+- chip-hardware
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- semiconductor
+- synapse
+- wafer
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-11-16  
 

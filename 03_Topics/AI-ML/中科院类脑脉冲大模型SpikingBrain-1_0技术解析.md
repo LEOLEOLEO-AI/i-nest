@@ -1,5 +1,17 @@
-# 中科院类脑脉冲大模型SpikingBrain-1.0技术解析
-
+---
+title: 中科院类脑脉冲大模型SpikingBrain-1.0技术解析
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- dynamics
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+- synapse
+---
 - **类型**: link
 - **时间**: 2025-10-08 05:21:26
 - **标签**: AI链接笔记, 类脑大模型, SpikingBrain, 线性复杂度

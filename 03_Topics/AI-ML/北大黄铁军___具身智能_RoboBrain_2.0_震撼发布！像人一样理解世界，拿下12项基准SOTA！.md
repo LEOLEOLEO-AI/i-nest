@@ -1,5 +1,16 @@
-# 北大黄铁军 | 具身智能 RoboBrain 2.0 震撼发布！像人一样理解世界，拿下12项基准SOTA！
-
+---
+title: 北大黄铁军 | 具身智能 RoboBrain 2.0 震撼发布！像人一样理解世界，拿下12项基准SOTA！
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- embodied-ai
+- large-language-model
+- paper
+- project
+- robotics
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-07-05  
 

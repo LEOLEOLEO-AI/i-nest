@@ -1,5 +1,10 @@
-# The Rise of Neuromorphic Computing: How Brain-Inspired AI is Shaping the Future in 2025
-
+---
+title: 'The Rise of Neuromorphic Computing: How Brain-Inspired AI is Shaping the Future in 2025'
+tags:
+- chip-hardware
+- large-language-model
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2025-10-10  
 

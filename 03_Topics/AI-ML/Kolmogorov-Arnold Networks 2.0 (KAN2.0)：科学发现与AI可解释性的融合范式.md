@@ -197,3 +197,9 @@ KAN2.0
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 08:49*
+
+## Related Notes
+
+- [[神经形态脉冲大语言模型（NSLLM）：连接AI与神经科学的突破性研究]]
+- [[AutoResearchClaw：全自动端到端AI科研智能体深度解析]]
+- [[DeepSeek：引领全球AI创新的新力量]]

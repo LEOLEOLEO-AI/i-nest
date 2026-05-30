@@ -1,5 +1,15 @@
-# 英伟达最新GPU和互联路线图
-
+---
+title: 英伟达最新GPU和互联路线图
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- neural-networks
+- neuroscience
+- project
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-06-02  
 

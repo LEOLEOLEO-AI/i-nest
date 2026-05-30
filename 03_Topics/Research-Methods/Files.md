@@ -1,5 +1,12 @@
-# Files
-
+---
+title: Files
+tags:
+- methodology
+- paper
+- patent
+- project
+- research-methods
+---
 Generated: 2026-04-28 22:00:25
 
 - .openclaw/

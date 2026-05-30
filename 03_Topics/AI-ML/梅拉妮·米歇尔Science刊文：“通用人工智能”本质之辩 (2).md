@@ -1,5 +1,15 @@
-# 梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩
-
+---
+title: 梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- embodied-ai
+- free-energy-principle
+- paper
+- robotics
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-04-28  
 

@@ -1,5 +1,9 @@
-# 交换机内置DPU？思科推出8102-DPU 智能交换机！
-
+---
+title: 交换机内置DPU？思科推出8102-DPU 智能交换机！
+tags:
+- chip-hardware
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-10-14  
 
@@ -33,3 +37,9 @@ https://weibo.com/2455370150/NyjKFcigH
 【活动专栏】
 
 【投稿】：[**SDNLAB原创文章奖励计划**](http://mp.weixin.qq.com/s?__biz=MzAxMDA1NjMwMQ==&mid=2651802677&idx=1&sn=f3c8f1950ed3eb46c50b9e4646050c71&chksm=80adcb37b7da422197eec0562ccf1f1273628dd2454a13b039231ee3ba64a7f1c3336255bfeb&scene=21#wechat_redirect)
+
+## Related Notes
+
+- [[(Nat. Commun. 综述) | 基于忆阻器的人工神经网络硬件实现 (第二期)]]
+- [[(南加州大学，Nat. Electron.) 紧凑三元件人工神经元实现 多种 类脑脉冲发放]]
+- [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]

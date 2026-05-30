@@ -1,5 +1,13 @@
-# Chiplet，还需等等！
-
+---
+title: Chiplet，还需等等！
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- topology
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-12-01  
 

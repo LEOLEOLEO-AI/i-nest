@@ -1,5 +1,15 @@
-# 软件定义晶上系统的PPT要点梳理
-
+---
+title: 软件定义晶上系统的PPT要点梳理
+tags:
+- chip-hardware
+- complex-networks
+- dynamics
+- embodied-ai
+- emergence
+- self-organization
+- semiconductor
+- wafer
+---
 - **类型**: audio
 - **时间**: 2025-12-29 11:20:39
 - **标签**: 录音笔记, 系统架构, 软件定义, 摩尔定律

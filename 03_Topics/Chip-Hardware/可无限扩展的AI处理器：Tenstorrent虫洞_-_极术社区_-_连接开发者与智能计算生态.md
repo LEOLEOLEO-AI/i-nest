@@ -1,5 +1,12 @@
-# 可无限扩展的AI处理器：Tenstorrent虫洞 - 极术社区 - 连接开发者与智能计算生态
-
+---
+title: 可无限扩展的AI处理器：Tenstorrent虫洞 - 极术社区 - 连接开发者与智能计算生态
+tags:
+- chip
+- chip-hardware
+- deep-learning
+- semiconductor
+- topology
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2024-12-18  
 

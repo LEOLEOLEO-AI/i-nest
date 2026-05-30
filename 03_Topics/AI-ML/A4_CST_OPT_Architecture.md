@@ -1,5 +1,10 @@
-# CST-OPT: A Spatiotemporal Complexity-Guided Architecture Integrating Sparse Expertise, Multi-Stream Residuals, and Hybrid State-Space Attention
-
+---
+title: 'CST-OPT: A Spatiotemporal Complexity-Guided Architecture Integrating Sparse Expertise, Multi-Stream Residuals, and Hybrid State-Space Attention'
+tags:
+- ai-ml
+- artificial-intelligence
+- attention-mechanism
+---
 ## 1. Title & Target
 **Target:** NeurIPS 2026 / ICLR 2026
 
@@ -12,3 +17,9 @@
 
 ## 3. CST-OPT Architecture
 ...
+
+## Related Notes
+
+- [[Active Inference on Neuromorphic Substrates: A CST-Guided Framework for Physical World Models]]
+- [[类脑智能：基于脑启发的智能研究新范式]]
+- [[人工智能基础理论与关键技术ppt.pdf]]

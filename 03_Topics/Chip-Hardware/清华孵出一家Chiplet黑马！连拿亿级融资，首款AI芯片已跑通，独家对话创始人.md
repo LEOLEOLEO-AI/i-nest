@@ -1,5 +1,13 @@
-# 清华孵出一家Chiplet黑马！连拿亿级融资，首款AI芯片已跑通，独家对话创始人
-
+---
+title: 清华孵出一家Chiplet黑马！连拿亿级融资，首款AI芯片已跑通，独家对话创始人
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- robotics
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2023-09-01  
 

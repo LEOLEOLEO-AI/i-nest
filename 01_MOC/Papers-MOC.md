@@ -1,5 +1,17 @@
-# Papers — 全景导航 (Map of Content)
-
+---
+title: Papers — 全景导航 (Map of Content)
+tags:
+- brain
+- chip
+- complex-networks
+- dynamics
+- embodied-ai
+- emergence
+- free-energy-principle
+- graph-neural-network
+- neural-networks
+- neuron
+---
 > 自动生成 | 最后更新: 2026-05-30 00:29
 > 包含 56 条笔记
 

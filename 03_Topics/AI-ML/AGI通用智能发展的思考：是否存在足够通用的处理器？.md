@@ -1,5 +1,17 @@
-# AGI通用智能发展的思考：是否存在足够通用的处理器？
-
+---
+title: AGI通用智能发展的思考：是否存在足够通用的处理器？
+tags:
+- ai-ml
+- artificial-intelligence
+- chip
+- chiplet
+- criticality
+- deep-learning
+- emergence
+- large-language-model
+- paper
+- survey
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-06-04  
 

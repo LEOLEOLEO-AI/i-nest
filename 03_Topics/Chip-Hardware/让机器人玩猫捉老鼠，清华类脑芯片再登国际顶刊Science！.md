@@ -1,5 +1,17 @@
-# 让机器人玩猫捉老鼠，清华类脑芯片再登国际顶刊Science！
-
+---
+title: 让机器人玩猫捉老鼠，清华类脑芯片再登国际顶刊Science！
+tags:
+- brain
+- chip
+- chip-hardware
+- deep-learning
+- dynamics
+- emergence
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 微信  
 > 创建时间: 2022-06-16  
 

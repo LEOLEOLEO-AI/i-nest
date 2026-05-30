@@ -1,5 +1,16 @@
-# NPU神经处理单元（4.3）- 神经网络之TNN(Transformer)
-
+---
+title: NPU神经处理单元（4.3）- 神经网络之TNN(Transformer)
+tags:
+- ai-ml
+- artificial-intelligence
+- attention-mechanism
+- chip
+- large-language-model
+- neural-networks
+- neuroscience
+- paper
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-09-09  
 
@@ -362,3 +373,9 @@ l **3.2.4 输出层：****
 输出线性层与Softmax
 
         至此，TNN的encoder-decoder结构和自注意力机制介绍完毕，方便进一步理解LLM结构。
+
+## Related Notes
+
+- [[类脑智能：基于脑启发的智能研究新范式]]
+- [[人工智能基础创新的第二增长曲线]]
+- [[物理神经网络训练―从物理系统到人工智能]]

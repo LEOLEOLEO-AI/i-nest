@@ -1,5 +1,17 @@
-# Chiplet最强科普
-
+---
+title: Chiplet最强科普
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- project
+- semiconductor
+- topology
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2021-11-17  
 

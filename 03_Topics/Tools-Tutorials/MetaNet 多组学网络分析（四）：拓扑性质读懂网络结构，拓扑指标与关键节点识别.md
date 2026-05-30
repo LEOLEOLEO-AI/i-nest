@@ -1,5 +1,12 @@
-# MetaNet | 多组学网络分析（四）：拓扑性质读懂网络结构，拓扑指标与关键节点识别
-
+---
+title: MetaNet | 多组学网络分析（四）：拓扑性质读懂网络结构，拓扑指标与关键节点识别
+tags:
+- scale-free-networks
+- small-world-networks
+- tools
+- topology
+- tutorial
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-19 23:57
 
@@ -119,3 +126,9 @@ library(patchwork)library(ggplot2)p1 <- zp_plot(co_net_modu4, mode = 1)p2 <- 
 
 往期精彩内容
 最详尽的CNS文章空间转录组数据分析教程亲，写的这么辛苦，记得关注、点赞、打赏哟！
+
+## Related Notes
+
+- [[复杂网络|节点重要性|GNN-Based]]
+- [[CST理论 × 集合通信硬件化：理论基础]]
+- [[具有内在可变性的动态忆阻器内的生成式复杂网络]]

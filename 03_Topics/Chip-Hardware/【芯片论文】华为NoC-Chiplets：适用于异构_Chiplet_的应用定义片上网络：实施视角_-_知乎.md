@@ -1,5 +1,17 @@
-# 【芯片论文】华为NoC-Chiplets：适用于异构 Chiplet 的应用定义片上网络：实施视角 - 知乎
-
+---
+title: 【芯片论文】华为NoC-Chiplets：适用于异构 Chiplet 的应用定义片上网络：实施视角 - 知乎
+tags:
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- paper
+- project
+- robotics
+- semiconductor
+- simulation
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2024-12-04  
 

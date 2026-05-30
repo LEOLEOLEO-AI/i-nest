@@ -1,5 +1,11 @@
-# 基于Chiplet的晶圆级处理器架构设计与路径探索
-
+---
+title: 基于Chiplet的晶圆级处理器架构设计与路径探索
+tags:
+- chip
+- chiplet
+- topology
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-03  
 

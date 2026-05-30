@@ -1,5 +1,17 @@
-# Nature Neuroscience | 神经流形：解码大脑与行为的低维密码
-
+---
+title: Nature Neuroscience | 神经流形：解码大脑与行为的低维密码
+tags:
+- brain
+- brain-science
+- dynamics
+- emergence
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- synapse
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-22  
 
@@ -105,3 +117,9 @@ https://www.nature.com/articles/s41593-025-02031-z
 
 ---
 **Tags:** CST
+
+## Related Notes
+
+- [[大脑中的吸引子：从混沌到记忆的动力学秘密]]
+- [[时间之森：赫布集群、突触可塑性与神经振荡]]
+- [[AI梦境与意识涌现]]

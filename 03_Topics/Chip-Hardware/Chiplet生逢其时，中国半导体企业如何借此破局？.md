@@ -1,5 +1,14 @@
-# Chiplet生逢其时，中国半导体企业如何借此破局？
-
+---
+title: Chiplet生逢其时，中国半导体企业如何借此破局？
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-08-09  
 

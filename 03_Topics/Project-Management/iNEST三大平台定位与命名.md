@@ -1,5 +1,16 @@
-# iNEST三大平台定位与命名
-
+---
+title: iNEST三大平台定位与命名
+tags:
+- chip
+- chiplet
+- complex-networks
+- dynamics
+- emergence
+- information-theory
+- project-management
+- topology
+- wafer
+---
 - **类型**: plain_text
 - **时间**: 2025-10-17 08:25:47
 

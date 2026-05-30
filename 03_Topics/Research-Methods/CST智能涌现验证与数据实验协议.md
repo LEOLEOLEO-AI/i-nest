@@ -1,5 +1,17 @@
-# CST 智能涌现验证与数据实验协议
-
+---
+title: CST 智能涌现验证与数据实验协议
+tags:
+- brain
+- criticality
+- emergence
+- large-language-model
+- methodology
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- research-methods
+---
 ## 核心策略确认：分两步走
 *   **Phase 1：完善 CST 理论 + 数据验证（当前论文）**
     *   **核心目标**：使用已发表数据验证 CST 框架；对比 ANN（人工神经网络）和 BNN（生物神经网络）。
@@ -96,3 +108,9 @@
     *   大模型 $\Gamma_{st}$ 的跃升点检测；CST 与准确率的 S 型涌现轨迹；类似相变的机制解释。
 *   **Figure 5：BNN vs ANN 的系统对比**
     *   3D 参数空间散点图（进化优化 vs 工程设计）；雷达图展现 8 个维度的均值差异。
+
+## Related Notes
+
+- [[iNEST研究路线及方案]]
+- [[智能算力]]
+- [[物理类脑项目群]]

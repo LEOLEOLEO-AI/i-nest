@@ -1,5 +1,15 @@
-# Chiplet究竟能否解决我国卡脖子难题？
-
+---
+title: Chiplet究竟能否解决我国卡脖子难题？
+tags:
+- chip
+- chip-hardware
+- chiplet
+- emergence
+- robotics
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2020-10-26  
 

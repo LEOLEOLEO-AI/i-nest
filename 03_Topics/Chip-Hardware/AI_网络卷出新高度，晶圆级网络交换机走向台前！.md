@@ -1,5 +1,12 @@
-# AI 网络卷出新高度，晶圆级网络交换机走向台前！
-
+---
+title: AI 网络卷出新高度，晶圆级网络交换机走向台前！
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-07-03  
 

@@ -1,5 +1,16 @@
-# GNN图神经网络，非结构化数据分析利器！
-
+---
+title: GNN图神经网络，非结构化数据分析利器！
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- deep-learning
+- graph-neural-network
+- large-language-model
+- neural-networks
+- neuroscience
+- transformer
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-06 23:20
 

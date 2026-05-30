@@ -1,5 +1,10 @@
-# Get笔记×Obsidian 配置与工作流
-
+---
+title: Get笔记×Obsidian 配置与工作流
+tags:
+- chiplet
+- tools
+- tutorial
+---
 目标：
 - 手机端用 Get 笔记做入口（别丢）
 - Obsidian 做长期知识底座（能找、能连、可复用）

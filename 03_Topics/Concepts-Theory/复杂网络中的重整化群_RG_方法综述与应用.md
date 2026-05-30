@@ -1,5 +1,17 @@
-# 复杂网络中的重整化群（RG）方法综述与应用
-
+---
+title: 复杂网络中的重整化群（RG）方法综述与应用
+tags:
+- brain
+- chiplet
+- complex-networks
+- concepts-theory
+- criticality
+- dynamics
+- emergence
+- fundamentals
+- information-theory
+- large-language-model
+---
 - **类型**: link
 - **时间**: 2025-11-02 05:36:49
 - **标签**: AI链接笔记, 复杂网络重整化群, 网络粗粒化方法, 多尺度网络分析

@@ -1,5 +1,12 @@
-# RISC-V+NPU+存算一体:多智能体端云协同与物理智能毫秒级响应的新计算架构
-
+---
+title: RISC-V+NPU+存算一体:多智能体端云协同与物理智能毫秒级响应的新计算架构
+tags:
+- chip
+- chiplet
+- embodied-ai
+- large-language-model
+- robotics
+---
 - **笔记本**: 我的剪藏
 - **时间**: 2026-03-15 00:19
 

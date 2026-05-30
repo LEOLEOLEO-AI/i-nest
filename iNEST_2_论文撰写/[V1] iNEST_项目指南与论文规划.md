@@ -1,5 +1,17 @@
-# iNEST 生态体系：科研项目立项指南 × 论文发表规划 × 合作BP
-
+---
+title: iNEST 生态体系：科研项目立项指南 × 论文发表规划 × 合作BP
+tags:
+- brain
+- chip
+- complex-networks
+- criticality
+- dynamics
+- embodied-ai
+- emergence
+- large-language-model
+- neural-networks
+- neuron
+---
 > 版本 v1.0 | 2026-03-22 | 基于 iNEST CST 框架（2025-12-04版）  
 > 策略：**逆立项** — 论文矩阵先行 → 以论文为证据链 → 支撑项目申报 → 论文发表反哺项目验收
 
@@ -414,3 +426,9 @@ R3                             │              写           │  投  审
 
 ---
 **Tags:** #NaaS #StrategicProposal #CST #SDSoW #SDI
+
+## Related Notes
+
+- [[iNEST 项目布局总清单 + 论文撰写计划]]
+- [[iNEST 生态体系：完整项目指南 × 论文矩阵（v2.0 精修版）]]
+- [[iNEST 课题组学术信仰与工程技术路线 (The Core Belief)]]

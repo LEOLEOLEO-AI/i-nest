@@ -1,5 +1,15 @@
-# 知识库健康诊断 (Self-Health Dashboard)
-
+---
+title: 知识库健康诊断 (Self-Health Dashboard)
+tags:
+- emergence
+- paper
+- patent
+- project
+- simulation
+- survey
+- topology
+- wafer
+---
 > 自动维护 | 每周运行 `python3 ~/workspace/scripts/wiki_health.py`
 > 上次诊断：**2026-05-07** | 综合评分：🔴 **50/100**
 
@@ -87,3 +97,9 @@ obsidian-vault/
 
 ---
 *自动生成于 2026-05-07 | iNEST Wiki Health Bot*
+
+## Related Notes
+
+- [[论文导航]]
+- [[ADR: 以 TCC + SDI-CC 作为 2026-2027 近期工程主线]]
+- [[海河实验室项目指南（2026年度重大专项）]]

@@ -1,5 +1,17 @@
-# Nature：类脑计算亟需宏大蓝图
-
+---
+title: Nature：类脑计算亟需宏大蓝图
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 微信  
 > 创建时间: 2022-05-19  
 

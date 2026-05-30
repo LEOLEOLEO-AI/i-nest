@@ -1,5 +1,16 @@
-# Nature—神经形态芯片颠覆性突破！科学家发明兼具神经元与突触行为的单晶体管，AI芯片即将迎来新时代？
-
+---
+title: Nature—神经形态芯片颠覆性突破！科学家发明兼具神经元与突触行为的单晶体管，AI芯片即将迎来新时代？
+tags:
+- brain
+- chip
+- chip-hardware
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- semiconductor
+- synapse
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-03-31  
 

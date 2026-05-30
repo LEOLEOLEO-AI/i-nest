@@ -1,5 +1,17 @@
-# 海河实验室2026年度重大专项项目申报书
-
+---
+title: 海河实验室2026年度重大专项项目申报书
+tags:
+- brain
+- chip
+- chiplet
+- complex-networks
+- dynamics
+- paper
+- patent
+- project
+- simulation
+- topology
+---
 **项目名称：通信-算子原语芯粒与软件定义互连协同的复杂网络计算范式验证平台**
 
 **申报单位：天津大学微电子学院**
@@ -582,3 +594,9 @@ SDI-Ctrl ████████设计            流片██                 
 
 ---
 **Tags:** #NaaS #StrategicProposal #CST #SDSoW #SDI #Chiplet
+
+## Related Notes
+
+- [[海河实验室2026年度重大专项项目申报书]]
+- [[海河实验室项目指南（2026年度重大专项）]]
+- [[“风口浪尖”的Chiplet，有人疯狂涌入，有人划清界限]]

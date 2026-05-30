@@ -1,5 +1,17 @@
-# ​Nat. Commun.长文综述：具身神经形态智能
-
+---
+title: ​Nat. Commun.长文综述：具身神经形态智能
+tags:
+- attention-mechanism
+- brain
+- chip
+- chiplet
+- dynamics
+- embodied-ai
+- information-theory
+- literature
+- neural-networks
+- neuron
+---
 > 笔记本: 微信  
 > 创建时间: 2022-04-27  
 

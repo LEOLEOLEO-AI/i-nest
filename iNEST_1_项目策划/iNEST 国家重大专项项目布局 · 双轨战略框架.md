@@ -1,4 +1,17 @@
-# iNEST 国家重大专项项目布局 · 双轨战略框架
+---
+title: iNEST 国家重大专项项目布局 · 双轨战略框架
+tags:
+- attention-mechanism
+- brain
+- chip
+- chiplet
+- complex-networks
+- criticality
+- dynamics
+- emergence
+- free-energy-principle
+- large-language-model
+---
 > 版本 v3.0 | 2026-03-23  
 > **双轨原则：**  
 > 🔵 **第一类**：当前信息系统与算力网络视角 → 1+1>2 系统协同性能提升  

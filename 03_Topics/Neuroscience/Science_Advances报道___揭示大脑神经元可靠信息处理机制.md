@@ -1,5 +1,14 @@
-# Science Advances报道 | 揭示大脑神经元可靠信息处理机制
-
+---
+title: Science Advances报道 | 揭示大脑神经元可靠信息处理机制
+tags:
+- brain
+- brain-science
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-04-16  
 

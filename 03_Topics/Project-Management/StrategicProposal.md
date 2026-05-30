@@ -1,5 +1,8 @@
-# Strategic Proposal
-
+---
+title: Strategic Proposal
+tags:
+- project-management
+---
 > 占位笔记 | 原文件已迁移
 
 ## 相关内容

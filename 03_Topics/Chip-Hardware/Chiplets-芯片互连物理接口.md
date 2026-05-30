@@ -1,5 +1,14 @@
-# Chiplets-芯片互连物理接口
-
+---
+title: Chiplets-芯片互连物理接口
+tags:
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- topology
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2020-06-21  
 

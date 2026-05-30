@@ -1,5 +1,16 @@
-# CST 核心概念：时空协同指数 ($\Gamma_{st}$) 与 HSIC 核对齐
-
+---
+title: CST 核心概念：时空协同指数 ($\Gamma_{st}$) 与 HSIC 核对齐
+tags:
+- concepts-theory
+- dynamics
+- emergence
+- fundamentals
+- neural-networks
+- neuron
+- neuroscience
+- synapse
+- topology
+---
 在计算生成式结构计算理论 (CST) 的核心公式 $I \propto \exp(\alpha \cdot \Gamma_{st})$ 时，**时空协同指数 ($\Gamma_{st}$)** 是决定智能涌现的最关键变量。它衡量的是网络**物理结构**与**功能动力学**之间的非线性对齐程度。
 
 为了在数学上严密地量化这一对齐程度，我们抛弃了传统的线性相关（如 Pearson 相关系数）或 Mantel 检验，而是采用了基于再生核希尔伯特空间 (RKHS) 的 **HSIC (Hilbert-Schmidt Independence Criterion) 核对齐方法**。
@@ -56,3 +67,9 @@ $$ \text{HSIC} = \frac{1}{(N-1)^2} \text{Tr}(K_S H K_T H) $$
 1. **数学严密性**：它在数学上是严密的，能够回应审稿人（物理学家或计算机科学家）关于“神经网络是高度非线性的，线性工具衡量时空协同是荒谬的”这一质疑。
 2. **捕捉高阶协同**：它能捕捉任意阶的非线性协同，而不仅仅是一阶的直接交互。
 3. **解释硬件塑造数据流**：它极其优雅地量化了“硬件物理拓扑”如何塑造并承载“软件数据流”，为“Route ≡ Transform”以及液态硬件的物理优势提供了最坚实的定量依据。
+
+## Related Notes
+
+- [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+- [[Nature子刊进展：结合神经科学和计算机科学构建通用类脑计算]]
+- [[从生命到星系，新数学揭示大尺度秩序如何涌现]]

@@ -1,5 +1,15 @@
-# SDI-CC 论文框架：物理拓扑即计算——从节点中心到网络中心的范式转变
-
+---
+title: SDI-CC 论文框架：物理拓扑即计算——从节点中心到网络中心的范式转变
+tags:
+- chip
+- complex-networks
+- dynamics
+- emergence
+- large-language-model
+- paper
+- simulation
+- topology
+---
 **课题组：天津大学 iNEST / 刘勤让**  
 **创建日期：2026-03-27**  
 **定位：Nature Electronics / IEEE JSSC / SC / HPCA 级别**
@@ -297,3 +307,9 @@
 
 ---
 **Tags:** #CST #NaaS #SDSoW #SDI
+
+## Related Notes
+
+- [[海河实验室2026年度重大专项项目申报书]]
+- [[海河实验室项目指南（2026年度重大专项）]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]

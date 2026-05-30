@@ -1,5 +1,15 @@
-# 中国智能汽车芯片的新希望 - Chiplet
-
+---
+title: 中国智能汽车芯片的新希望 - Chiplet
+tags:
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- paper
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-04-01  
 

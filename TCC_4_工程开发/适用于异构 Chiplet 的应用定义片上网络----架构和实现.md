@@ -1,5 +1,16 @@
-# 适用于异构 Chiplet 的应用定义片上网络----架构和实现
-
+---
+title: 适用于异构 Chiplet 的应用定义片上网络
+tags:
+- chiplet-noc
+- heterogeneous-computing
+- network-on-chip
+- interconnect-architecture
+---
+-架构和实现
+tags:
+- chip
+- chiplet
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-03-12  
 

@@ -1,5 +1,17 @@
-# 中国Chiplet大会干货：7位大咖抛出灵魂问题，接口IP和EDA宏图展开
-
+---
+title: 中国Chiplet大会干货：7位大咖抛出灵魂问题，接口IP和EDA宏图展开
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- emergence
+- large-language-model
+- project
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-08-10  
 

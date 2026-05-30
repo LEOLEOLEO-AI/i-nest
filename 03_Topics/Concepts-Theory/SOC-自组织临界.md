@@ -1,5 +1,17 @@
-# SOC — 自组织临界（Self-Organized Criticality）
-
+---
+title: SOC — 自组织临界（Self-Organized Criticality）
+tags:
+- concepts-theory
+- criticality
+- dynamics
+- emergence
+- fundamentals
+- neuroscience
+- paper
+- scale-free-networks
+- self-organization
+- small-world-networks
+---
 > iNEST 核心机制 | 极简的"那个一"
 
 ## 定义

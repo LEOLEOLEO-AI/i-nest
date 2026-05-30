@@ -1,5 +1,17 @@
-# (南加州大学，Nat. Electron.) 紧凑三元件人工神经元实现 多种 类脑脉冲发放
-
+---
+title: (南加州大学，Nat. Electron.) 紧凑三元件人工神经元实现 多种 类脑脉冲发放
+tags:
+- brain
+- chip
+- chip-hardware
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- plasticity
+- semiconductor
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-22 02:37
 

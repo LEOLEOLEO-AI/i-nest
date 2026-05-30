@@ -35,3 +35,8 @@ tags:
 ## 4. 自动汇总（导入后自动生效）
 - TCC 方向入口：研究方向_TCC
 - INEST 方向入口：研究方向_INEST
+
+## Related Notes
+
+- [[研究方向_INEST]]
+- [[研究方向_TCC]]

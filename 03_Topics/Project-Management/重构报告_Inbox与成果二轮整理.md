@@ -1,5 +1,17 @@
-# 重构报告：Inbox 与成果二轮整理
-
+---
+title: 重构报告：Inbox 与成果二轮整理
+tags:
+- brain
+- chip
+- chiplet
+- complex-networks
+- criticality
+- deep-learning
+- dynamics
+- embodied-ai
+- emergence
+- free-energy-principle
+---
 生成时间：2026-05-02 22:41:46
 
 ## 已执行动作
@@ -1139,3 +1151,9 @@
 - 生成 `30_Outputs/专利/00_专利导航.md`
 - 生成 `30_Outputs/00_成果总览.md`
 - 生成 `00_Inbox/00_Inbox 使用说明.md`
+
+## Related Notes
+
+- [[iNEST 全景知识图谱 (Master Index)]]
+- [[天津大学微电子学院复杂网络与类脑智能十年规划]]
+- [[网络时空协同复杂度涌现智能]]

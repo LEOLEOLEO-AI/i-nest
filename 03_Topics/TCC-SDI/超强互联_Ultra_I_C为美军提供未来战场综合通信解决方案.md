@@ -1,5 +1,12 @@
-# 超强互联：Ultra I&C为美军提供未来战场综合通信解决方案
-
+---
+title: 超强互联：Ultra I&C为美军提供未来战场综合通信解决方案
+tags:
+- chiplet
+- robotics
+- self-organization
+- software-defined
+- tcc-sdi
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-02-07 18:48
 

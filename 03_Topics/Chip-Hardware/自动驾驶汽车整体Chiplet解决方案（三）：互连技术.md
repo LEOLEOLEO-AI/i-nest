@@ -1,5 +1,14 @@
-# 自动驾驶汽车整体Chiplet解决方案（三）：互连技术
-
+---
+title: 自动驾驶汽车整体Chiplet解决方案（三）：互连技术
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-05-10  
 

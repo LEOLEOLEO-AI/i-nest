@@ -350,3 +350,8 @@ The `--to` parameter specifies the delivery destination and must match the curre
 (e.g. Slack user ID, Telegram chat ID, Discord channel ID).
 For all options, run `openclaw cron add --help` or see: https://docs.openclaw.ai/cli/cron
 
+## Related Notes
+
+- [[SKILL]]
+- [[2026-05-06 Daily Log]]
+- [[TOOLS]]

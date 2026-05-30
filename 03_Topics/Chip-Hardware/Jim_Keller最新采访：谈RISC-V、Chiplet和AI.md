@@ -1,5 +1,16 @@
-# Jim Keller最新采访：谈RISC-V、Chiplet和AI
-
+---
+title: Jim Keller最新采访：谈RISC-V、Chiplet和AI
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- neuron
+- neuroscience
+- paper
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-02-26  
 

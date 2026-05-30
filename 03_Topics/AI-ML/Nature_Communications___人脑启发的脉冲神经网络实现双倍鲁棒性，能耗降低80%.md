@@ -1,5 +1,15 @@
-# Nature Communications | 人脑启发的脉冲神经网络实现双倍鲁棒性，能耗降低80%
-
+---
+title: Nature Communications | 人脑启发的脉冲神经网络实现双倍鲁棒性，能耗降低80%
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- deep-learning
+- neural-networks
+- neuroscience
+- synapse
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-11-23  
 

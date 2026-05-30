@@ -107,3 +107,8 @@ Every major computing transition has required infrastructure breakthroughs, and 
 TPU 8t and TPU 8i are our answer to this challenge: two specialized architectures built to redefine what is possible in AI, from building the most capable AI models, to swarms of agents perfectly orchestrated, to managing the most complex reasoning tasks. Both chips will be generally available later this year, and can be used as part of Google’s AI Hypercomputer, which brings together purpose-built hardware (compute, storage, networking), open software (frameworks, inference engines), and flexible consumption (orchestration, cluster management and delivery models) into a unified stack.
 
 Agentic computing will redefine what is possible. We are thrilled to announce the latest incarnation of our relentless innovation to power this transformation, TPU 8i and 8t. Interested customers can [request more information](https://cloud.google.com/resources/tpu-interest).
+
+## Related Notes
+
+- [[从“备胎”到训练推理“正式分家”：谷歌TPU的十一年]]
+- [[您的一站式 AI 工作空间]]

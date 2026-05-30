@@ -1,5 +1,16 @@
-# Nature Communications | 一个用于同时编码时空动力学的多突触尖峰神经元
-
+---
+title: Nature Communications | 一个用于同时编码时空动力学的多突触尖峰神经元
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chip
+- dynamics
+- neural-networks
+- neuron
+- neuroscience
+- synapse
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-16 04:38
 

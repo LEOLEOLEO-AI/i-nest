@@ -1,5 +1,12 @@
-# 高性能计算互联：集群间/片间/Die间互联技术的演变
-
+---
+title: 高性能计算互联：集群间/片间/Die间互联技术的演变
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2023-10-18  
 

@@ -1,5 +1,15 @@
-# Chiplet全球标准来了！它对中国半导体产业有何影响？芯原戴伟民专业点评
-
+---
+title: Chiplet全球标准来了！它对中国半导体产业有何影响？芯原戴伟民专业点评
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- neural-networks
+- neuroscience
+- semiconductor
+- wafer
+---
 > 笔记本: 技术学习  
 > 创建时间: 2022-03-04  
 

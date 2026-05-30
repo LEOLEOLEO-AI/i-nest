@@ -1,5 +1,12 @@
-# Chiplet对大陆半导体的战略意义
-
+---
+title: Chiplet对大陆半导体的战略意义
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2023-02-02  
 

@@ -1,14 +1,17 @@
 ---
-title: "Google Virgo Network：超大规模AI数据中心网络架构深度解析"
+title: Google Virgo Network：超大规模AI数据中心网络架构深度解析
 date: 2026-05-03
-time: "12:53"
+time: '12:53'
 note_id: 1908881073492889896
 category: 待办
 source: get笔记
-links: ["[[iNEST_Academic_Belief_Core]]"]
-tags: [{"id": "129910998", "name": "AI链接笔记", "type": "system"}, {"id": "527003261", "name": "Google Virgo Network", "type": "ai"}, {"id": "527003262", "name": "超大规模AI网络", "type": "ai"}, {"id": "527003263", "name": "数据中心架构", "type": "ai"}]
+links:
+- '[[iNEST_Academic_Belief_Core]]'
+tags:
+- google-virgo-network
+- 超大规模ai网络
+- 数据中心架构
 ---
-
 > 关联知识：[[iNEST_Academic_Belief_Core]]
 
 ### **🔍 核心概述（背景）**

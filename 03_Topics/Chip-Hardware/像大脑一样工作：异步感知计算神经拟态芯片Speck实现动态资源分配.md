@@ -1,5 +1,14 @@
-# 像大脑一样工作：异步感知计算神经拟态芯片Speck实现动态资源分配
-
+---
+title: 像大脑一样工作：异步感知计算神经拟态芯片Speck实现动态资源分配
+tags:
+- brain
+- chip
+- chip-hardware
+- neural-networks
+- neuron
+- neuroscience
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-11-27  
 

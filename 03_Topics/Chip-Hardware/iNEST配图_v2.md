@@ -1,5 +1,11 @@
-# iNEST配图
-
+---
+title: iNEST配图
+tags:
+- brain
+- chip-hardware
+- chiplet
+- semiconductor
+---
 - **类型**: plain_text
 - **时间**: 2026-02-16 12:53:46
 

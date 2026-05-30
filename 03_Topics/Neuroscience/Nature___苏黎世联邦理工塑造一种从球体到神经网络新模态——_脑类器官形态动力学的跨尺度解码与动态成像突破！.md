@@ -1,5 +1,13 @@
-# Nature | 苏黎世联邦理工塑造一种从球体到神经网络新模态—— 脑类器官形态动力学的跨尺度解码与动态成像突破！
-
+---
+title: Nature | 苏黎世联邦理工塑造一种从球体到神经网络新模态—— 脑类器官形态动力学的跨尺度解码与动态成像突破！
+tags:
+- brain
+- brain-science
+- chiplet
+- dynamics
+- neural-networks
+- neuroscience
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-22  
 

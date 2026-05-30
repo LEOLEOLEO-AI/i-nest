@@ -1,5 +1,14 @@
-# 人工智能根技术 — 美欧 Chiplet 技术发展深度研究；从战略布局到技术创新的全景分析
-
+---
+title: 人工智能根技术 — 美欧 Chiplet 技术发展深度研究；从战略布局到技术创新的全景分析
+tags:
+- chip
+- chip-hardware
+- chiplet
+- deep-learning
+- project
+- semiconductor
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-12-05  
 

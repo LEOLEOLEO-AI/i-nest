@@ -1,5 +1,13 @@
-# 递归 Sigma-Pi-Sigma 神经网络
-
+---
+title: 递归 Sigma-Pi-Sigma 神经网络
+tags:
+- ai-ml
+- artificial-intelligence
+- neural-networks
+- neuron
+- neuroscience
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-04-19  
 

@@ -1,5 +1,15 @@
-# 互联智能（Internet of Intelligence），如何定义下一代网络变革
-
+---
+title: 互联智能（Internet of Intelligence），如何定义下一代网络变革
+tags:
+- concepts-theory
+- deep-learning
+- emergence
+- fundamentals
+- neural-networks
+- neuroscience
+- paper
+- self-organization
+---
 > 笔记本: 微信  
 > 创建时间: 2022-07-26  
 

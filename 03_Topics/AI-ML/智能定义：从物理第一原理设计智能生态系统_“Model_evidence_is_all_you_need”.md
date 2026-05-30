@@ -1,5 +1,17 @@
-# 智能定义：从物理第一原理设计智能生态系统 “Model evidence is all you need”
-
+---
+title: 智能定义：从物理第一原理设计智能生态系统 “Model evidence is all you need”
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- deep-learning
+- dynamics
+- embodied-ai
+- emergence
+- free-energy-principle
+- large-language-model
+- neural-networks
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-02-26  
 

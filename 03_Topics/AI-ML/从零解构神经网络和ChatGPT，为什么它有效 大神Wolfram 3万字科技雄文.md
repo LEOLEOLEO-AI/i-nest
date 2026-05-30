@@ -1,5 +1,17 @@
-# 从零解构神经网络和ChatGPT，为什么它有效? : 大神Wolfram 3万字科技雄文
-
+---
+title: '从零解构神经网络和ChatGPT，为什么它有效? : 大神Wolfram 3万字科技雄文'
+tags:
+- ai-ml
+- artificial-intelligence
+- attention-mechanism
+- brain
+- chiplet
+- deep-learning
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+---
 > 笔记本: 微信  
 > 创建时间: 2023-06-13  
 

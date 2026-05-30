@@ -1,5 +1,15 @@
-# Nature Communications | 重磅揭秘：大脑皮层动力学的“时空密码”——几何结构与网络拓扑的博弈
-
+---
+title: Nature Communications | 重磅揭秘：大脑皮层动力学的“时空密码”——几何结构与网络拓扑的博弈
+tags:
+- brain
+- brain-science
+- complex-networks
+- dynamics
+- neuron
+- neuroscience
+- paper
+- topology
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-18 20:29
 
@@ -53,3 +63,9 @@ Title：Human cortical dynamics reflect graded contributions of local geometry a
 谢谢您看到了这里，您的关注👇，就是我更新的最大动力！
 
 扫码关注我们
+
+## Related Notes
+
+- [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 | NSR]]
+- [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 | NSR]]
+- [[脑网络中的高阶拓扑结构]]

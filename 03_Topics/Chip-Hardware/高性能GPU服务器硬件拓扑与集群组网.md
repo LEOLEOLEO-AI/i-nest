@@ -1,5 +1,14 @@
-# 高性能GPU服务器硬件拓扑与集群组网
-
+---
+title: 高性能GPU服务器硬件拓扑与集群组网
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- patent
+- semiconductor
+- topology
+---
 > 笔记本: 技术学习  
 > 创建时间: 2024-04-16  
 

@@ -1,5 +1,13 @@
-# 《Nature Comm》：热力学启发解释人工智能原理
-
+---
+title: 《Nature Comm》：热力学启发解释人工智能原理
+tags:
+- ai-ml
+- artificial-intelligence
+- dynamics
+- free-energy-principle
+- information-theory
+- transformer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-04-13  
 
@@ -83,3 +91,9 @@ https://www.nature.com/articles/s41467-024-51970-x
 
 撰稿：黄羽帆
 编辑：周弘毅
+
+## Related Notes
+
+- [[人工智能综述：物理学与人工智能的跨界新范式（全文版本）]]
+- [[物理学AI新范式 | 人工智能与物理学的结合：一项全面调查]]
+- [[八大神经网络，从原理到应用]]

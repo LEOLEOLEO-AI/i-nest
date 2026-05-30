@@ -1,5 +1,16 @@
-# SDSoW+DeepSeek的“双子星”
-
+---
+title: SDSoW+DeepSeek的“双子星”
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- project
+- robotics
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-02-02  
 

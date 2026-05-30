@@ -1,5 +1,12 @@
-# A Paradigm Shift in Neuromorphic Engineering: Meta-Topology, Software-Defined Interconnects, and the Emergence of High-Dimensional Dynamically Plastic Physical Networks
-
+---
+title: 'A Paradigm Shift in Neuromorphic Engineering: Meta-Topology, Software-Defined Interconnects, and the Emergence of High-Dimensional Dynamically Plastic Physical Networks'
+tags:
+- chiplet
+- concepts-theory
+- fundamentals
+- large-language-model
+- transformer
+---
 - **类型**: plain_text
 - **时间**: 2026-01-12 11:05:09
 

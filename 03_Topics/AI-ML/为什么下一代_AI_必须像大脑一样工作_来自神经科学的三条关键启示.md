@@ -1,5 +1,17 @@
-# 为什么下一代 AI 必须像大脑一样工作？来自神经科学的三条关键启示
-
+---
+title: 为什么下一代 AI 必须像大脑一样工作？来自神经科学的三条关键启示
+tags:
+- ai-ml
+- artificial-intelligence
+- attention-mechanism
+- brain
+- deep-learning
+- dynamics
+- embodied-ai
+- free-energy-principle
+- large-language-model
+- neural-networks
+---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-11 17:59
 

@@ -1,5 +1,15 @@
-# 03 涌现：整体的能力不能还原回个体？ - 得到APP
-
+---
+title: 03 涌现：整体的能力不能还原回个体？ - 得到APP
+tags:
+- brain
+- concepts-theory
+- emergence
+- fundamentals
+- neural-networks
+- neuron
+- neuroscience
+- synapse
+---
 > 笔记本: 复杂科学  
 > 创建时间: 2024-06-09  
 

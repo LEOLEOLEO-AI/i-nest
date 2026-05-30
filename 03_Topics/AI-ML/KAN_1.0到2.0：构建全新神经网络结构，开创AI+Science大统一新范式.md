@@ -1,5 +1,17 @@
-# KAN 1.0到2.0：构建全新神经网络结构，开创AI+Science大统一新范式
-
+---
+title: KAN 1.0到2.0：构建全新神经网络结构，开创AI+Science大统一新范式
+tags:
+- ai-ml
+- artificial-intelligence
+- chiplet
+- deep-learning
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- synapse
+- topology
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-09-20  
 

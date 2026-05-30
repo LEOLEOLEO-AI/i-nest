@@ -1,5 +1,12 @@
-# Chiplet Summit 资料分享：展望10年后的GPU和HBM
-
+---
+title: Chiplet Summit 资料分享：展望10年后的GPU和HBM
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- semiconductor
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-04-04  
 

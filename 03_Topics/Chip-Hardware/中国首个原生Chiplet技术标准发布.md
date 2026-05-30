@@ -1,5 +1,11 @@
-# 中国首个原生Chiplet技术标准发布
-
+---
+title: 中国首个原生Chiplet技术标准发布
+tags:
+- chip
+- chip-hardware
+- chiplet
+- semiconductor
+---
 > 笔记本: 微信  
 > 创建时间: 2022-12-15  
 

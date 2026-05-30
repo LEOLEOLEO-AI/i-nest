@@ -4,8 +4,11 @@ theme: default
 class: lead
 paginate: true
 backgroundColor: f8f9fa
+tags:
+- network-centric-computing
+- hardware-architecture
+- research-project-proposal
 ---
-
 # 晶上网络中心计算范式架构
 ## 与端侧原型验证
 

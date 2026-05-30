@@ -1,5 +1,15 @@
-# Chiplets设计和异构集成-领先半导体公司的实例
-
+---
+title: Chiplets设计和异构集成-领先半导体公司的实例
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- project
+- semiconductor
+- simulation
+- wafer
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-05-28  
 

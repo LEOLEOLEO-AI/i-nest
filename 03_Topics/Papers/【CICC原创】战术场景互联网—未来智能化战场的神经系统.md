@@ -1,5 +1,13 @@
-# 【CICC原创】战术场景互联网—未来智能化战场的神经系统
-
+---
+title: 【CICC原创】战术场景互联网—未来智能化战场的神经系统
+tags:
+- literature
+- neural-networks
+- neuroscience
+- paper
+- self-organization
+- topology
+---
 > 笔记本: 微信  
 > 创建时间: 2022-01-30  
 
@@ -212,3 +220,9 @@ CICC官方微信公众号
 
 
 一点号
+
+## Related Notes
+
+- [[类脑多尺度脉冲神经网络结构自主演化助力实现高度自适应人工智能]]
+- [[基于SDI的物理Synapse与NN]]
+- [[GNN-Transformer新突破！全局与局部的完美融合]]

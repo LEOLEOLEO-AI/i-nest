@@ -1,5 +1,13 @@
-# 进一步解读英伟达 Blackwell 架构、NVlink及GB200 超级芯片_深度学习_蓝海大脑GPU_InfoQ写作社区
-
+---
+title: 进一步解读英伟达 Blackwell 架构、NVlink及GB200 超级芯片_深度学习_蓝海大脑GPU_InfoQ写作社区
+tags:
+- brain
+- chip
+- chiplet
+- deep-learning
+- large-language-model
+- transformer
+---
 > 笔记本: 技术学习  
 > 创建时间: 2024-06-07  
 

@@ -1,5 +1,17 @@
-# 2026年Nature子刊重磅：二维材料同质集成光电神经元与铁电突触实现神经形态视觉系统
-
+---
+title: 2026年Nature子刊重磅：二维材料同质集成光电神经元与铁电突触实现神经形态视觉系统
+tags:
+- brain
+- chip
+- chiplet
+- dynamics
+- literature
+- neural-networks
+- neuron
+- neuroscience
+- paper
+- simulation
+---
 - **类型**: link
 - **时间**: 2026-02-18 15:13:53
 - **标签**: AI链接笔记, 神经形态视觉, 二维材料集成, 光电神经元

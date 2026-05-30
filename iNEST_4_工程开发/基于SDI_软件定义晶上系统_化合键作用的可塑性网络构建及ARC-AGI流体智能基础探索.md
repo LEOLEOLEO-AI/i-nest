@@ -1,5 +1,17 @@
-# 基于SDI（软件定义晶上系统）化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索
-
+---
+title: 基于SDI（软件定义晶上系统）化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索
+tags:
+- chip
+- chiplet
+- criticality
+- large-language-model
+- neural-networks
+- neuroscience
+- paper
+- patent
+- plasticity
+- project
+---
 - **类型**: plain_text
 - **时间**: 2026-02-20 07:50:24
 

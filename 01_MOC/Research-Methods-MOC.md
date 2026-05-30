@@ -1,5 +1,12 @@
-# Research-Methods — 全景导航 (Map of Content)
-
+---
+title: Research-Methods — 全景导航 (Map of Content)
+tags:
+- brain
+- emergence
+- neural-networks
+- neuroscience
+- paper
+---
 > 自动生成 | 最后更新: 2026-05-30 00:29
 > 包含 38 条笔记
 

@@ -1,5 +1,13 @@
-# 芯片制造绞索下的危与机：以晶上系统工程奠基中国AI自主道路
-
+---
+title: 芯片制造绞索下的危与机：以晶上系统工程奠基中国AI自主道路
+tags:
+- chip
+- chip-hardware
+- chiplet
+- large-language-model
+- semiconductor
+- wafer
+---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-02-02  
 

@@ -1,5 +1,17 @@
-# 人工智能70年：从图灵测试到ChatGPT的进化史
-
+---
+title: 人工智能70年：从图灵测试到ChatGPT的进化史
+tags:
+- ai-ml
+- artificial-intelligence
+- attention-mechanism
+- brain
+- chip
+- chiplet
+- deep-learning
+- emergence
+- large-language-model
+- neural-networks
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-22 21:41
 

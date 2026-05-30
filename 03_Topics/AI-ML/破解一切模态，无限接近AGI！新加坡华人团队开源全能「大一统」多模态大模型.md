@@ -1,5 +1,14 @@
-# 破解一切模态，无限接近AGI！新加坡华人团队开源全能「大一统」多模态大模型
-
+---
+title: 破解一切模态，无限接近AGI！新加坡华人团队开源全能「大一统」多模态大模型
+tags:
+- ai-ml
+- artificial-intelligence
+- brain
+- chiplet
+- large-language-model
+- paper
+- project
+---
 > 笔记本: 技术学习  
 > 创建时间: 2023-09-18  
 

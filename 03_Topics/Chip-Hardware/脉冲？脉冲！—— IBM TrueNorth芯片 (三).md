@@ -1,5 +1,17 @@
-# 脉冲？脉冲！—— IBM TrueNorth芯片 (三)
-
+---
+title: 脉冲？脉冲！—— IBM TrueNorth芯片 (三)
+tags:
+- brain
+- chip
+- chip-hardware
+- dynamics
+- large-language-model
+- neural-networks
+- neuron
+- neuroscience
+- plasticity
+- project
+---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-05-28  
 

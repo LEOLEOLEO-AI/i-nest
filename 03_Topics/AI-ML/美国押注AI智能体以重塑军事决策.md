@@ -1,5 +1,10 @@
-# 美国押注AI智能体以重塑军事决策
-
+---
+title: 美国押注AI智能体以重塑军事决策
+tags:
+- ai-ml
+- artificial-intelligence
+- project
+---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-23 04:01
 

@@ -1,4 +1,12 @@
 ---
+tags:
+- darpa
+- advanced-manufacturing
+- materials-science
+- defense-technology
+- research-report
+---
+---
 title: "美国DARPA"材料科学与先进制造"领域深度研究报告：战略、技术与未来展望"
 source: "https://mp.weixin.qq.com/s/cUT6PEtYaUrMqphPQPLa-w"
 created: 2025-12-18
@@ -210,3 +218,9 @@ DARPA在“材料科学与先进制造”领域的宏伟蓝图，既面临着前
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 09:53*
+
+## Related Notes
+
+- [[AI-ML — 全景导航 (Map of Content)]]
+- [[Chip-Hardware — 全景导航 (Map of Content)]]
+- [[Concepts-Theory — 全景导航 (Map of Content)]]

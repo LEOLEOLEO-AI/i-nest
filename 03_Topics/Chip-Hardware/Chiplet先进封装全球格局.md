@@ -1,5 +1,15 @@
-# Chiplet先进封装全球格局
-
+---
+title: Chiplet先进封装全球格局
+tags:
+- brain
+- chip
+- chip-hardware
+- chiplet
+- paper
+- semiconductor
+- topology
+- wafer
+---
 > 笔记本: 微信  
 > 创建时间: 2022-11-19  
 
