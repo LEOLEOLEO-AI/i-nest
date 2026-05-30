@@ -492,3 +492,20 @@ Done!
 Inbox processing complete.
 
 Done!
+warning: in the working copy of '01_MOC/Neuroscience-MOC.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '90_System/00_技术开发总览.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'TCC_4_工程开发/00_技术开发推进面板.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'TCC_4_工程开发/04_仿真验证_线虫connectome.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'TCC_4_工程开发/CST仿真平台.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_1_项目策划/路线图.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_工程开发/看板.md', LF will be replaced by CRLF the next time Git touches it
+[main 01be414] auto: inbox processing 2026/05/30 周六 14:40:07.64
+ 9 files changed, 67 insertions(+), 627 deletions(-)
+ delete mode 100644 "90_System/\346\235\202\351\241\271/kb_health_check.py"
+ delete mode 100644 "90_System/\350\204\232\346\234\254/fix_gitee_auth.bat"
+ delete mode 100644 "90_System/\350\204\232\346\234\254/init_vault.bat"
+ delete mode 100644 "90_System/\350\204\232\346\234\254/kb_engine.py"
+ create mode 100644 "iNEST \346\234\272\346\236\204 \342\200\224 \345\205\250\346\231\257\345\257\274\350\210\252 (Map of Content).md"
+ create mode 100644 "iNEST_1_\351\241\271\347\233\256\347\255\226\345\210\222/\350\267\257\347\272\277\345\233\276.md"
+ create mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/\347\234\213\346\235\277.md"
+[2026/05/30 ���� 14:40:07.83] Auto-management complete. 
