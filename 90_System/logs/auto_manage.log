@@ -45,3 +45,16 @@ Done!
 Inbox processing complete.
 
 Done!
+[main ab2ef78] auto: inbox processing 2026/05/30 å‘¨å…­  7:19:22.65
+ 1 file changed, 13 insertions(+)
+[2026/05/30 ÖÜÁù  7:19:22.80] Auto-management complete. 
+======================================== 
+[2026/05/30 ÖÜÁù  8:40:02.90] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
