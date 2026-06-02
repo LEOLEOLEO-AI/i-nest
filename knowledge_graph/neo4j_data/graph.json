@@ -1,0 +1,44 @@
+﻿{
+    "last_updated":  "2026-06-02T03:14:34.3397101Z",
+    "edges":  [
+                  {
+                      "target":  "paper_emergence",
+                      "source":  "paper_tee_edge",
+                      "type":  "related_to"
+                  }
+              ],
+    "tag_index":  {
+                      "direction:iNEST":  [
+                                              "paper_emergence"
+                                          ],
+                      "status:new":  [
+                                         "paper_tee_edge",
+                                         "paper_emergence"
+                                     ],
+                      "direction:TCC":  [
+                                            "paper_tee_edge"
+                                        ],
+                      "category:paper":  [
+                                             "paper_tee_edge",
+                                             "paper_emergence"
+                                         ]
+                  },
+    "nodes":  {
+                  "paper_tee_edge":  [
+                                         {
+                                             "date":  "2026-06-01",
+                                             "title":  "Trusted Execution Environments for Edge Computing",
+                                             "direction":  "TCC",
+                                             "type":  "paper"
+                                         }
+                                     ],
+                  "paper_emergence":  [
+                                          {
+                                              "date":  "2026-06-01",
+                                              "title":  "Emergent Intelligence in Scale-Free Networks",
+                                              "direction":  "iNEST",
+                                              "type":  "paper"
+                                          }
+                                      ]
+              }
+}
