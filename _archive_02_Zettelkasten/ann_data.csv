@@ -1,0 +1,15 @@
+architecture,year,params,type,Sc,Tc,Gamma_st,alpha,CST,level
+LeNet-5,1998,60K,CNN,0.52,0.18,0.04,0.69,0.096,L0
+VGG-16,2015,138M,CNN,0.56,0.19,0.05,0.69,0.11,L0
+ResNet-50,2016,25M,CNN+ResConn,0.58,0.19,0.06,0.69,0.115,L0
+BERT-base,2019,110M,Transformer,0.62,0.19,0.07,0.69,0.124,L0
+GPT-2,2019,117M,Transformer,0.63,0.2,0.07,0.69,0.132,L0
+Mamba-130M,2023,130M,SSM,0.6,0.2,0.07,0.69,0.126,L0
+LiquidNet,2022,~19K,LTC-NCP,0.6,0.22,0.1,0.69,0.141,L0
+DreamerV3,2023,~200M,World Model,0.62,0.23,0.12,0.69,0.155,L0
+TrueNorth,2014,4096c,Neuromorphic,0.65,0.22,0.08,0.69,0.151,L0
+Loihi 2,2021,1M,Neuromorphic,0.7,0.26,0.11,2.49,0.239,L0
+SpiNNaker,2014,18c,Neuromorphic,0.68,0.24,0.1,0.69,0.175,L0
+BrainScaleS,2010,200k,Analog Neurom.,0.68,0.28,0.12,4.16,0.314,L0
+Spiking-BERT,2023,110M,SNN-Trans.,0.62,0.22,0.07,0.69,0.143,L0
+HybridCNN-SNN,2020,~25M,Hybrid SNN,0.65,0.24,0.1,0.69,0.167,L0

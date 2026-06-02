@@ -1,0 +1,103 @@
+---
+title: "北京大学ISSCC 2025高抗噪语音活动检测芯片研究"
+source: "https://mp.weixin.qq.com/s/aGklo3JCEo-rwgnMfXKRGA"
+created: 2025-09-17
+note_id: "1887718277124289088"
+tags:
+  - "AI链接笔记"
+  - "神经形态计算"
+  - "语音活动检测芯片"
+  - "超低功耗电路"
+  - "get-笔记"
+  - "学术论文"
+---
+
+# 北京大学ISSCC 2025高抗噪语音活动检测芯片研究
+
+## 摘要
+
+🔬 **核心成果**   北京大学黄如院士-叶乐团队于2025年2月18日在固态电路顶会ISSCC发表论文，提出一款采用信息感知数据压缩（IADC）和神经形态时空特征提取（NSTFE）的语音活动检测芯片，实现0.22mm²面积、161nW超低功耗，在0dB信噪比下检测精度达84%。  📌 **技术架
+
+## 正文
+
+今天我们来学习北京大学黄如院士-叶乐团队于2025年2月18日在固态电路顶会ISSCC上发表的论文：A 0.22mm² 161nW
+Noise-Robust Voice-Activity Detection Using Information-Aware Data Compression
+and Neuromorphic Spatial-Temporal Feature Extraction
+一款采用信息感知数据压缩和神经形态时空特征提取的0.22mm² 161nW高抗噪语音活动检测芯片
+
+### **需要做文章coding复现/神经形态应用的老师欢迎后台联系，本号发的所有推送均可复现**
+
+### 
+
+![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F0b8dee2eefa7f1017457d1393f61da6a?Expires=1780067030&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=mryfDgKdWJE4ohwKoJPdoTMexDc%3D)
+
+ 一句话解释：
+
+   
+通过模拟电路在前端仅提取语音波形的极值点来高效压缩数据，再利用神经形态处理器对这些稀疏的时空脉冲信息进行特征提取和分类，最终在161nW的功耗下实现了0dB信噪比时84%的检测精度
+
+![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F809db984d018896abdae4ebc9c4381e6?Expires=1780067030&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=s9Ifh3ygpjhT2LsWMy3%2F%2Fvna6gg%3D)
+
+图 1: 系统总体架构
+
+上部：两大创新点：信息感知数据压缩器 (IADC) 和神经形态时空特征提取器。
+下部：直接看左下角的波形图，IADC只检测并提取信号中的极值点（红色圆点）。这些拐点已经包含了语音信号最关键的空间信息（幅度）和时间信息（时刻）。
+右下角的两个图表用数据证明了这个方法的有效性。左图显示，仅用极值点重构出的信号与原始语音信号的余弦相似度平均高达97%。右图则显示，这种方法使数据量减少了2.6倍。
+
+![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F1958ce8ec8421b3c0446328e779705b6?Expires=1780067030&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=pRlEsyI9RACKHyD3HvvGBfDIeHs%3D)
+
+图 2: IADC 模块的电路实现  
+
+顶部对比图：如果先用ADC转换再做数字极值点压缩（EPC），那么ADC大部分时间都在对无效数据进行转换。本文采用的模拟域EPC，先判断是不是极值点，只有在极值点出现时才唤醒ADC进行一次转换。
+中部电路图：展示了IADC的详细电路，通过比较当前采样点V[n]和上一个采样点 V[n−1]
+的大小关系来判断信号的走向。底部电路图：展示了两个核心比较器的具体电路设计。
+
+![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F2f3d979192263f15e804ded12d579fb5?Expires=1780067030&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=P7HQQMQC%2FfHmAeZBaCJUN6Z2vyA%3D)
+
+图 3: 后端智能引擎 (NSTFE + ANN) 架构  
+
+底部架构图（硬件资源的高度复用）: 2KB的全局SRAM存储了NSTFE
+(神经形态时空特征提取器)和ANN两种网络共用的4比特权重。96B的Buffer在NSTFE模式下用作神经元膜电位存储器，在ANN模式下则切换为激活值缓存。32个处理单元（PU）是可重构的，在NSTFE模式下，它们只执行累加操作，此时内部的乘法器被完全gated，不消耗任何动态功耗。切换到ANN模式时，乘法器才被激活，执行完整的乘加操作。
+顶部流程与右侧二分法示意图: 异步握手:
+系统采用事件驱动的工作方式。平时整个数字逻辑处于时钟门控状态，只有当IADC发来AER信号和“Valid”请求时，才醒来一次进行处理，处理完立刻返回Ready并再次休眠，最大限度降低时钟功耗。
+二分法AER生成（延迟优化）:
+当NSTFE中的神经元发放脉冲后，系统需要快速找出是哪个神经元。传统方法是逐一轮询，延迟高。这里的创新是采用二分法：先用一个“或”逻辑同时检查一组神经元（如图中前8个）有没有脉冲，如果没有，则直接跳过检查下一组。如果有，再将这组对半切分继续检查，以此类推，最终能将定位延迟从N个周期优化到log(N)个周期（文中实现为1周期）。
+
+![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F0204b8c27eca29188ea8b5eabb0da9b6?Expires=1780067030&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=HIJmq1dcdUNgU00tbebFnNiOraw%3D)
+
+图4：实测性能  
+
+顶部图：数据压缩功能验证。 红色曲线代表无极值点压缩模式，此时IADC等同于一个普通的ADC，连续输出采样点，数据密集。
+绿色曲线代表开启了极值点压缩功能，绿色点依然很好地拟合了原始信号的包络。中部左侧 & 底部左侧图：信号转换质量与动态范围。频谱图 (中部左侧):
+展示了在输入1.943 kHz正弦波、采样率为4 kHz时IADC的输出频谱。测得的 信噪失真比（SNDR）为29.6
+dB，无杂散动态范围（SFDR）为49.3 dB。 底部左侧: 展示了在不同的2位缩放策略码（code 00, 01, 10,
+11）下，SNDR随输入信号幅值的变化曲线，表明IADC不仅仅是一个压缩器，也是一个高质量的信号转换器。中部右侧 & 底部右侧图：功耗分析。 功耗饼图
+(中部右侧): 这是在0.8V电压和4kHz采样频率下测得的IADC总功耗，仅为22.6 nW。功耗 vs. 输入信噪比图 (底部右侧):
+展示了在处理不同信噪比（SNR）的真实语音输入时，IADC的功耗变化。曲线几乎是一条水平直线，表明 IADC的功耗非常稳定，基本不随输入信号的噪声水平而改变。  
+
+![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F70ee1c6512a087588361596523dc39e3?Expires=1780067030&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=ItGUUymHPEJzArCXDYDiLpvFm5k%3D)
+
+图 5: 系统性能
+
+左上角精度-信噪比曲线: 0dB
+SNR下依然高达84%的准确率。右上角混淆矩阵对比: 系统在低SNR下的表现出色。右下角精度-功耗对比:以161nW的功耗实现了94%的准确率。左下角功耗分布。
+
+点评：
+
+   
+核心策略是预处理的前移，这与当前感存算一体领域的器件或者光学预处理思想是一致的，只不过采用的是电路处理方案。前端IADC产生的稀疏事件流，与器件里常提及的仿真神经元产生脉冲处理的思路一致。在一个比较简单的任务里，信息冗余非常多，稀疏处理能够简化设计，降低功耗。
+
+   
+这里的语音检测芯片是一个典型的专用芯片，实现的任务也是比较简单的**二分类问题**（有人说话/没人说话），如果是个复杂任务（比如声纹），类似的处理思路带来的损失就可能会非常大了。
+
+   
+目前的人工智能算法领域，以及忆阻器，芯片设计等领域的一个很普遍的发论文的思想就是找任务，找到一个细分领域的具体任务，通过一些设计（方法不一定有多创新）证明自己有一定的优势，就是一篇好文章
+
+### **需要做文章coding复现/神经形态应用的老师欢迎后台联系，本号发的所有推送均可复现**
+
+---
+*来源：Get笔记 | 类型：link | 入库：2026-04-29 11:03*
+
+---
+## 相关笔记 (AI 自动关联)
+- [[北京大学叶乐-黄如院士ISSCC：神经形态芯片+时空特征提取+语音检测]]

@@ -1,0 +1,511 @@
+======================================== 
+[2026/05/29 ���� 22:40:01.89] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 3 inbox notes...
+Inbox:   0%|          | 0/3 [00:00<?, ?it/s]Inbox:  33%|��������      | 1/3 [00:16<00:32, 16.47s/it]Inbox:  67%|��������������   | 2/3 [00:32<00:15, 15.99s/it]Inbox:  67%|��������������   | 2/3 [00:56<00:28, 28.14s/it]
+  [OK] Our eighth generation TPUs two chips for the agentic era.md -> Chip-Hardware/
+  [OK] Revolutionizing Datacenter Networks via Reconfigurable Topologies.md -> Chip-Hardware/
+Traceback (most recent call last):
+  File "D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\reorganize.py", line 868, in <module>
+    main()
+  File "D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\reorganize.py", line 827, in main
+    process_inbox(client, config, dry_run=args.dry_run)
+  File "D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\reorganize.py", line 665, in process_inbox
+    print(f"  [OK] {note_path.name} -> {category}/")
+UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f9e0' in position 36: illegal multibyte sequence
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+[main f69bfb5] auto: inbox processing 2026/05/29 周五 22:41:01.61
+ 5 files changed, 82 insertions(+), 25 deletions(-)
+ rename "00_Inbox/02_\347\275\221\351\241\265\345\211\252\350\227\217/Our eighth generation TPUs two chips for the agentic era.md" => 03_Topics/Chip-Hardware/Our eighth generation TPUs two chips for the agentic era.md (94%)
+ rename "00_Inbox/02_\347\275\221\351\241\265\345\211\252\350\227\217/Revolutionizing Datacenter Networks via Reconfigurable Topologies.md" => 03_Topics/Chip-Hardware/Revolutionizing Datacenter Networks via Reconfigurable Topologies.md (98%)
+ rename "00_Inbox/02_\347\275\221\351\241\265\345\211\252\350\227\217/\347\245\236\347\273\217\345\217\230\345\274\202\346\200\247\347\232\204\345\261\202\347\272\247\347\273\223\346\236\204\357\274\232\345\276\252\347\216\257\350\277\236\346\216\245\345\246\202\344\275\225\345\271\263\350\241\241\345\244\247\350\204\221\346\204\237\347\237\245\344\270\216\350\256\244\347\237\245\351\234\200\346\261\202 \360\237\247\240.md" => "03_Topics/Neuroscience/\347\245\236\347\273\217\345\217\230\345\274\202\346\200\247\347\232\204\345\261\202\347\272\247\347\273\223\346\236\204\357\274\232\345\276\252\347\216\257\350\277\236\346\216\245\345\246\202\344\275\225\345\271\263\350\241\241\345\244\247\350\204\221\346\204\237\347\237\245\344\270\216\350\256\244\347\237\245\351\234\200\346\261\202 \360\237\247\240.md" (96%)
+ create mode 100644 90_System/logs/auto_manage.log
+[2026/05/29 ���� 22:41:01.76] Auto-management complete. 
+======================================== 
+[2026/05/30 ����  0:40:01.50] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
+[main 3160d9b] auto: inbox processing 2026/05/30 周六  0:40:02.82
+ 1 file changed, 10 insertions(+)
+[2026/05/30 ����  0:40:02.90] Auto-management complete. 
+======================================== 
+[2026/05/30 ����  7:18:52.68] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
+[main ab2ef78] auto: inbox processing 2026/05/30 周六  7:19:22.65
+ 1 file changed, 13 insertions(+)
+[2026/05/30 ����  7:19:22.80] Auto-management complete. 
+======================================== 
+[2026/05/30 ����  8:40:02.90] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
+warning: in the working copy of '.obsidian/plugins/copilot/main.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/copilot/manifest.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/obsidian-git/main.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/obsidian-git/manifest.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/obsidian-git/styles.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/obsidian-importer/main.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/obsidian-importer/manifest.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_MOC/Web-Clips-MOC.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/AI-ML/2026-05-03_待办_液态神经网络：MIT CSAIL的_流体智能_革命——从2万参数无人机导航看AI范式转移.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/AI-ML/2026-05-03_待办_神经计算机：AI驱动的计算范式革命.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/AI-ML/从零解构神经网络和ChatGPT，为什么它有效 大神Wolfram 3万字科技雄文.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/AI-ML/低功耗智能新范式.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/00 SSOT 权威条目.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/00_Inbox 使用说明.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/00_SSOT候选概念清单.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/00_iNEST_全景知识图谱.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/00_团队全局进度周报面板.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/14号工作任务与项目规划笔记.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/2026年4月28号 井芯销售升级专项.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/2026年4月28号 日记.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/DARPA空天、太空与高超音速领域项目深度分析报告.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/优青海报.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/引人名单.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/晶上任务.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/研究建议_TCC×INEST.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/老板汇报PPT提纲.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/近期事项.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/述职会 20260106.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/TCC-SDI/2026年2月28号 复旦会议.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/TCC-SDI/NaaS.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/TCC-SDI/[V2] P-Mapping_论文全文_IEEE_TPDS.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/TCC-SDI/topic_init-rc-20260501-010756-7b872d.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/TCC-SDI/元拓扑.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/TCC-SDI/关于TCCL通信.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/TCC-SDI/研究方向_TCC.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/TCC-SDI/重塑国防制造：DARPA材料科学与先进制造战略深度解析.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Web-Clips/2026年4月19号 日记.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'TCC_1_项目策划/[V1] iNEST_AI芯片调研与CST项目指南.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_工程开发/SDI互连工艺选择技术方案.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_工程开发/SDI仿真设计原则.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_工程开发/iNEST开发流程.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_工程开发/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_工程开发/基于SDI的物理Synapse与NN.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_工程开发/晶圆级SDI互联架构与最优扇出高维拓扑_面向大模型的网内计算设计.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/obsidian-excalidraw-plugin/main.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'copilot/copilot-conversations/删除所有的日记@20260530_083258.md', LF will be replaced by CRLF the next time Git touches it
+[main 8a2fd9c] auto: inbox processing 2026/05/30 周六  8:40:20.37
+ 346 files changed, 1495 insertions(+), 10602 deletions(-)
+ create mode 100644 .obsidian/plugins/obsidian-excalidraw-plugin/main.js
+ create mode 100644 .obsidian/plugins/obsidian-excalidraw-plugin/styles.css
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\26410\346\234\21025\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\26410\346\234\2103\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\26410\346\234\2106\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\26411\346\234\21013\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\26411\346\234\21016\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\26411\346\234\21023\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\26412\346\234\21010\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\26412\346\234\21022\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\26412\346\234\21025\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\26412\346\234\2103\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\26412\346\234\2107\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2642\346\234\2101\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2642\346\234\2102\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2642\346\234\2105\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2642\346\234\2109\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2643\346\234\21012\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2644\346\234\21021\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2645\346\234\21021\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2645\346\234\2103\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2647\346\234\21012\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2647\346\234\21013\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2647\346\234\2101\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2647\346\234\21026\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2648\346\234\21010\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2648\346\234\2101\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2648\346\234\21027\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2648\346\234\21030\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2648\346\234\2107\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2025\345\271\2649\346\234\21010\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2641\346\234\21012\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2641\346\234\21017\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2641\346\234\21018\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2642\346\234\21011\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2642\346\234\21020\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2642\346\234\21022\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2642\346\234\21024\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2642\346\234\21027\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2642\346\234\21028\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2643\346\234\21011\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2643\346\234\21026\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2643\346\234\2104\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2643\346\234\2106\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2643\346\234\2108\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/2026\345\271\2644\346\234\2104\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/AI-ML/\346\234\254\345\234\260AI.md"
+ delete mode 100644 "03_Topics/Project-Management/2020\345\271\2641\346\234\21029\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2020\345\271\2642\346\234\2108\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2020\345\271\2643\346\234\21024\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025 \345\271\264 12 \346\234\210 28 \345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21010\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21012\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21013\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21014\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21016\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21017\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21018\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21019\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\2101\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21020\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21022\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21027\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\21031\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\2104\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\2105\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\2108\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26410\346\234\2109\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\21011\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\21012\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\21014\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\21017\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\21019\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\21020\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\21025\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\21026\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\21028\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\21029\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\2104\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\2105\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26411\346\234\2108\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21011\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21012\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21015\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21016\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21018\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21019\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21020\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21023\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21024\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21026\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21029\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21030\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\21031\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\2104\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\26412\346\234\2109\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21010\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21011\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21013\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21014\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21015\346\227\245\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21016\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21018\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21020\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21021\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21023\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21024\346\227\245\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21025\346\227\245\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\21028\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\2106\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2642\346\234\2107\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21010\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21011\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21013\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21015\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21017\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21018\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21020\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21021\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21023\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21024\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21025\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21026\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21027\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\2102\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21030\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\21031\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\2103\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\2104\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\2105\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\2106\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\2108\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2643\346\234\2109\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21010\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21011\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21012\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21015\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21016\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21017\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21018\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\2101\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21020\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21022\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21024\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21025\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21026\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21027\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21028\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\21029\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\2102\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\2103\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\2104\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\2108\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2644\346\234\2109\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21010\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21012\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21014\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21018\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\2101\345\217\267\346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21020\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21022\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21023\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21024\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21025\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21026\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21027\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21028\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21029\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\2102\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\21030\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\2106\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\2107\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2645\346\234\2108\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21010\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21011\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21012\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21014\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21015\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21016\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21017\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21019\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\2101\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21020\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21021\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21022\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21023\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21024\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21026\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21027\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21029\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\2102\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\21030\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\2103\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\2104\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\2107\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\2108\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2646\346\234\2109\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\21014\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\21016\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\21017\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\21020\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\21021\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\21023\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\21024\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\21025\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\21028\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\21029\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\21031\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\2103\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\2106\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\2108\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2647\346\234\2109\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2648\346\234\21012\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2648\346\234\21014\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2648\346\234\21018\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2648\346\234\21019\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2648\346\234\21025\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2648\346\234\21026\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2648\346\234\21029\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2648\346\234\2105\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2648\346\234\2106\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21011\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21012\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21014\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21015\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21017\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21018\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21020\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21021\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21023\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21024\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21025\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21026\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21027\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21029\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\2102\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\21030\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\2104\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\2649\346\234\2108\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2025\345\271\264\347\232\204\347\233\256\346\240\207\350\247\204\345\210\222.md"
+ delete mode 100644 "03_Topics/Project-Management/2026 \345\271\264 4 \346\234\210 6 \345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026-05-02_\346\227\245\350\256\260_2026\345\271\2645\346\234\2101\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21010\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21011\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21013\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21014\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21015\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\2101\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21020\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21022\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21023\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21024\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21026\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21027\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21028\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\2102\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21030\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\21031\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\2103\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\2105\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2641\346\234\2106\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2642\346\234\21012\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2642\346\234\21013\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2642\346\234\21015\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2642\346\234\21019\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2642\346\234\21023\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2642\346\234\21026\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2642\346\234\2103\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2642\346\234\2104\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2642\346\234\2109\345\217\267 \344\270\211\344\272\272\344\274\232\350\256\256.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2642\346\234\2109\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\21013\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\21014\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\21015\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\21016\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\21019\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\2101\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\21020\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\21020\346\227\245 \345\244\251\345\244\247\347\273\204\344\274\232.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\21029\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\2102\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\2103\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\2105\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\2107\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2643\346\234\2109\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\210 8 \345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\21010\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\21012\345\217\267 \346\227\245\350\256\260_19069701.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\21014\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\21018\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\2101\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\21021\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\21023\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\21027\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\2102\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\2103\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\2109\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/\344\270\212\346\265\267\346\231\266\344\270\212\346\231\272\347\256\227\346\226\271\346\241\210\347\240\224\347\251\266.md"
+ delete mode 100644 "03_Topics/Project-Management/\345\205\263\344\272\216\342\200\234\345\215\216\345\205\273\346\226\255\350\267\257\346\226\231\342\200\235\344\270\216\344\272\247\344\270\232\345\220\210\344\275\234\347\232\204\351\241\271\347\233\256\350\247\204\345\210\222\347\254\224\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/\345\220\221\350\200\201\346\235\277\346\261\207\346\212\245\344\277\241\344\273\266\345\217\212\350\265\204\346\272\220\345\205\263\347\263\273\347\233\270\345\205\263\344\272\213\345\256\234.md"
+ delete mode 100644 "03_Topics/Project-Management/\345\233\275\345\256\266\351\207\215\347\202\271\345\256\236\351\252\214\345\256\244\347\273\204\345\273\272\347\255\224\350\276\251PPT__\344\272\272\345\267\245\346\231\272\350\203\275\351\242\206\345\237\237_\351\231\204PPT\346\272\220\346\226\207\344\273\266_.md"
+ delete mode 100644 "03_Topics/Project-Management/\345\267\245\344\275\234\344\272\213\345\212\241\350\256\260\345\275\225\344\270\216\346\225\260\346\215\256\346\225\264\347\220\206.md"
+ delete mode 100644 "03_Topics/Project-Management/\345\274\200\345\260\201\344\274\232\350\256\256_\357\274\2106\346\234\2106\346\227\245\357\274\211.md"
+ delete mode 100644 "03_Topics/Project-Management/\345\274\240\344\270\200\351\270\243\345\246\202\344\275\225\345\206\263\347\255\226.md"
+ delete mode 100644 "03_Topics/Project-Management/\346\214\207\346\240\207\345\237\272\347\272\277\350\241\250.md"
+ delete mode 100644 "03_Topics/Project-Management/\346\227\240\346\240\207\351\242\230.md"
+ delete mode 100644 "03_Topics/Project-Management/\346\234\210\345\272\246\344\276\213\344\274\232.md"
+ delete mode 100644 "03_Topics/Project-Management/\346\266\246\345\261\205\345\274\200\344\274\232\357\274\21020201217\357\274\211.md"
+ delete mode 100644 "03_Topics/Project-Management/\347\247\221\347\240\224\344\270\216\345\255\246\346\234\257\345\223\201\347\211\214\357\274\210CREST  \342\206\222  iNEST\357\274\211.md"
+ delete mode 100644 "03_Topics/Project-Management/\351\207\215\346\236\204\346\212\245\345\221\212_\347\233\256\345\275\225\344\274\230\345\214\226.md"
+ delete mode 100644 "03_Topics/TCC-SDI/2025\345\271\26412\346\234\21027\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/TCC-SDI/2025\345\271\2643\346\234\21019\346\227\245 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/TCC-SDI/2026\345\271\2643\346\234\21030\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "90_System/99_Templates/\346\257\217\345\221\250\346\200\273\347\273\223\346\250\241\346\235\277.md"
+ delete mode 100644 "90_System/99_Templates/\347\201\265\346\204\237\346\215\225\346\215\211\346\250\241\346\235\277.md"
+ delete mode 100644 "_archive_02_Zettelkasten/2026-05-02_\345\205\266\344\273\226_obsidian\346\234\211\347\224\250\346\217\222\344\273\266.md"
+ delete mode 100644 _archive_02_Zettelkasten/270019dd9a530dfe59ff6906af49d7e4.jpg
+ rename {_archive_10_Zettelkasten => _archive_02_Zettelkasten}/All elementary functions from a single operator.pdf (100%)
+ delete mode 100644 _archive_02_Zettelkasten/image.png
+ delete mode 100644 _archive_02_Zettelkasten/image_1.png
+ delete mode 100644 _archive_02_Zettelkasten/image_10.png
+ delete mode 100644 _archive_02_Zettelkasten/image_11.png
+ delete mode 100644 _archive_02_Zettelkasten/image_2.png
+ delete mode 100644 _archive_02_Zettelkasten/image_3.png
+ delete mode 100644 _archive_02_Zettelkasten/image_4.png
+ delete mode 100644 _archive_02_Zettelkasten/image_5.png
+ delete mode 100644 _archive_02_Zettelkasten/image_6.png
+ delete mode 100644 _archive_02_Zettelkasten/image_7.png
+ delete mode 100644 _archive_02_Zettelkasten/image_8.png
+ delete mode 100644 _archive_02_Zettelkasten/image_9.png
+ delete mode 100644 "_archive_02_Zettelkasten/\346\226\207\346\241\243\344\276\235\350\265\226\345\233\276.md"
+ create mode 100644 "copilot/copilot-conversations/\345\210\240\351\231\244\346\211\200\346\234\211\347\232\204\346\227\245\350\256\260@20260530_083258.md"
+ delete mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/SDI - \350\275\257\344\273\266\345\256\232\344\271\211\344\272\222\350\277\236.md"
+ delete mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/SDI_\345\225\206\344\270\232\346\250\241\345\274\217.md"
+ delete mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/SDI\346\226\271\345\220\221\346\234\272\344\274\232\343\200\201\344\272\247\345\223\201\345\217\212\345\270\202\345\234\272\345\205\263\347\263\273.md"
+[2026/05/30 ����  8:40:20.94] Auto-management complete. 
+======================================== 
+[2026/05/30 ���� 10:55:05.73] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
+warning: in the working copy of '03_Topics/Project-Management/00_会议战略导航.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/00_海河主线年度里程碑表.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/20251209预算与战略规划会议纪要.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/20251222老板见面汇报事项.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/20260409三人会.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Project-Management/20260427 井芯销售体系会议.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Web-Clips/2025年10月21号 日记.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '03_Topics/Web-Clips/2025年10月2号 日记.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'copilot/copilot-conversations/RDCN与NCC的关系.md', LF will be replaced by CRLF the next time Git touches it
+[main cf1d76f] auto: inbox processing 2026/05/30 周六 11:11:29.31
+ 8 files changed, 396 insertions(+), 85 deletions(-)
+ delete mode 100644 "03_Topics/Project-Management/## \350\277\221\346\234\237\344\272\213\351\241\271.md"
+ delete mode 100644 "03_Topics/Project-Management/20201003\351\203\221\345\267\236\344\274\232\350\256\256.md"
+ delete mode 100644 "03_Topics/Project-Management/2026\345\271\2644\346\234\21028\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "03_Topics/Project-Management/2028\345\271\26411\346\234\2103\345\217\267 \346\227\245\350\256\260.md"
+ delete mode 100644 "copilot/copilot-conversations/\345\210\240\351\231\244\346\211\200\346\234\211\347\232\204\346\227\245\350\256\260@20260530_083258.md"
+[2026/05/30 ���� 11:11:29.45] Auto-management complete. 
+======================================== 
+[2026/05/30 ���� 12:40:14.35] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
+[main 078bfd4] auto: inbox processing 2026/05/30 周六 12:40:16.65
+ 1 file changed, 10 insertions(+)
+[2026/05/30 ���� 12:40:16.74] Auto-management complete. 
+======================================== 
+[2026/05/30 ���� 14:40:02.00] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
+warning: in the working copy of '01_MOC/Neuroscience-MOC.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '90_System/00_技术开发总览.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'TCC_4_工程开发/00_技术开发推进面板.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'TCC_4_工程开发/04_仿真验证_线虫connectome.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'TCC_4_工程开发/CST仿真平台.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_1_项目策划/路线图.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_工程开发/看板.md', LF will be replaced by CRLF the next time Git touches it
+[main 01be414] auto: inbox processing 2026/05/30 周六 14:40:07.64
+ 9 files changed, 67 insertions(+), 627 deletions(-)
+ delete mode 100644 "90_System/\346\235\202\351\241\271/kb_health_check.py"
+ delete mode 100644 "90_System/\350\204\232\346\234\254/fix_gitee_auth.bat"
+ delete mode 100644 "90_System/\350\204\232\346\234\254/init_vault.bat"
+ delete mode 100644 "90_System/\350\204\232\346\234\254/kb_engine.py"
+ create mode 100644 "iNEST \346\234\272\346\236\204 \342\200\224 \345\205\250\346\231\257\345\257\274\350\210\252 (Map of Content).md"
+ create mode 100644 "iNEST_1_\351\241\271\347\233\256\347\255\226\345\210\222/\350\267\257\347\272\277\345\233\276.md"
+ create mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/\347\234\213\346\235\277.md"
+[2026/05/30 ���� 14:40:07.83] Auto-management complete. 
