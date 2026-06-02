@@ -1,0 +1,474 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-07T09:30:05.986Z",
+  "entries": {
+    "memory:memory/2026-04-22.md:30:60": {
+      "key": "memory:memory/2026-04-22.md:30:60",
+      "path": "memory/2026-04-22.md",
+      "startLine": 30,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "- 定理3（完备）：NCC-11在7类目标工作负载100%覆盖 - 定理4（能效）：Route-Transform融合使等效通信量O(N·D)→O(D) **专利框架文件**（`02_Papers_论文/NCC_专利与论文/`）： - P1（核心方法专利）：10条权利要求，含FTO排除分析，目标2026年5月CNIPA - P2（硬件IP核）：计算节点+阵列级权利要求，目标2026年7月 - P3（FFT同构）：目标2026年12月 - P4（SDK编译映射）：目标2027年1月；PCT申请2027年5月 **论文框架文件**： - 论文A（B7）：Route≡Transform，ASPLOS'27 Sep，截止2026年9月9日 - 论文B（B5）：NCC-11系统实现，ASPLOS/MICRO'27 Apr，截止2027年4月15日 - 论文C（B3）：Horowitz Wall→Topology Computing，Nature Electronics，2027年9月 **关键任务优先级**（🔴立即）： - T0-1：精细化P1权利要求书（2026年5月提交） - T1-1：FFT同构矩阵证明（N=8邻接矩阵直接比对） - T2-1：ncc_link SDI控制器RTL设计 --- ### 未完成的上下文任务 - 用户在2026-04-21提出\"对称性破缺对六个自然常数的证明\"（CST阈值 1/√2, 1, φ, e, π, δ的对称性破缺推导） - 该任务因会话压缩而中断，**尚未完成** - 下次会话需优先处理此推导 **六个CST阈值**（来自CST",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36042745411396027,
+      "maxScore": 0.36042745411396027,
+      "firstRecalledAt": "2026-04-30T09:56:15.949Z",
+      "lastRecalledAt": "2026-04-30T09:56:15.949Z",
+      "queryHashes": [
+        "92a03ca3b5ec"
+      ],
+      "recallDays": [
+        "2026-04-30"
+      ],
+      "conceptTags": [
+        "ncc-11在7类目标工作负载100",
+        "route-transform融合使等效通信量o",
+        "02-papers-论文/ncc-专利与论文",
+        "ncc-11系统实现",
+        "asplos/micro",
+        "t0-1",
+        "t1-1",
+        "t2-1"
+      ]
+    },
+    "memory:memory/2026-04-22.md:1:34": {
+      "key": "memory:memory/2026-04-22.md:1:34",
+      "path": "memory/2026-04-22.md",
+      "startLine": 1,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "# Memory: 2026-04-22 ## Session Summary ### NCC-11 Naming System (升级自NCC-8) 完成从NCC-8升级到NCC-11的全库替换。 **NCC-11 原语集最终版**： - 通信×4：FUSE（AllReduce）、PULL（AllGather）、CAST（Broadcast）、SWAP（AlltoAll，从保留字升级） - 计算×4：GEMM、FOLD、MAPS（合并了原LOOK功能）、SCAN（从保留字升级） - 数据×1：MOVE（新增，P2P点对点） - 控制×2：LINK、TICK（新增，Lamport逻辑时钟） **废止**：ncc.LOOK（→ ncc.MAPS(func=lut)）、ncc.SCAT（→ ncc.FUSE(mode=ring)） **权威规范文件**：`00_KnowledgeBase_知识库/02_CST_核心理论著作/NCC_Naming_Convention_v2.md` **Git提交**：91文件变更，commit \"Upgrade: NCC-8 → NCC-11\" --- ### NCC范式主索引与4专利+3论文战略规划 **主索引文件**：`00_KnowledgeBase_知识库/02_CST_核心理论著作/NCC_Paradigm_Master_Index.md` **核心理论**：Route≡Transform定理（4定理体系） - 定理1（分解）：任意分布式计算 C = T_m∘R_m∘…∘T_1∘R_1 - 定理2（同构）：N点FFT",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.35851884484291074,
+      "maxScore": 0.35851884484291074,
+      "firstRecalledAt": "2026-04-30T09:56:15.949Z",
+      "lastRecalledAt": "2026-04-30T09:56:15.949Z",
+      "queryHashes": [
+        "92a03ca3b5ec"
+      ],
+      "recallDays": [
+        "2026-04-30"
+      ],
+      "conceptTags": [
+        "ncc-11",
+        "升级自ncc-8",
+        "完成从ncc-8升级到ncc-11的全库替换",
+        "ncc.look",
+        "ncc.maps",
+        "ncc.scat",
+        "ncc.fuse",
+        "ncc-8"
+      ]
+    },
+    "memory:memory/2026-04-22.md:74:90": {
+      "key": "memory:memory/2026-04-22.md:74:90",
+      "path": "memory/2026-04-22.md",
+      "startLine": 74,
+      "endLine": 90,
+      "source": "memory",
+      "snippet": "- `02_Papers_论文/NCC_专利与论文/P3_拓扑重构FFT专利_框架.md`（新建） - `02_Papers_论文/NCC_专利与论文/P4_SDK编译映射专利_框架.md`（新建） - `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md`（新建） - `02_Papers_论文/NCC_专利与论文/论文B_B5_NCC11系统实现_ASPLOS27.md`（新建） - `02_Papers_论文/NCC_专利与论文/论文C_B3_HorowitzWall_NatureElectronics.md`（新建） --- ### 持续有效的约束 - 严格手动模式：禁止任何自动化任务/cron - β₁/Betti数：不入V24论文，留companion paper - X₄定义：Watts-Strogatz σ + tanh归一化 - UCCP参考Q_rand=0.02，floor ε=0.01 - 文件路径在回复中必须用反引号包裹 - NCC命名：全库只用ncc.*前缀，NCC-11，无NPC/CPC/SDI-Ctrl残留",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36268259584903717,
+      "maxScore": 0.36268259584903717,
+      "firstRecalledAt": "2026-05-02T00:10:59.133Z",
+      "lastRecalledAt": "2026-05-02T00:10:59.133Z",
+      "queryHashes": [
+        "052150247400"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "禁止任何自动化任务/cron",
+        "β1/betti数",
+        "watts-strogatz",
+        "uccp参考q-rand",
+        "0.02",
+        "0.01",
+        "ncc-11",
+        "无npc/cpc/sdi-ctrl残留"
+      ]
+    },
+    "memory:memory/2026-04-25.md:106:125": {
+      "key": "memory:memory/2026-04-25.md:106:125",
+      "path": "memory/2026-04-25.md",
+      "startLine": 106,
+      "endLine": 125,
+      "source": "memory",
+      "snippet": "> 能不能按照网络时空协同复杂度，人脑所具备的，做一个推论？就多少纳米工艺就可以实现类人脑通用智能的时空协同复杂度？在物理世界构建一个这样的介观尺度物理复杂网络。这样用于指导我们只要多少纳米以内就可以实现通用智能，这个是不是更有奠基意义？ **核心问题**：基于CST时空协同复杂度（Sc·Tc·exp(α·Γst)）推算：实现类人脑AGI所需的工艺节点下限（单位：nm） **初步思路（待完善）**： - 人脑参数：~86B神经元，~150T突触，突触间距~0.5μm，信号传导~1-10ms - CST指标估算：Sc~6.2, Tc~6.8, Γst~0.73 → CST≈47（L6级） - 关键约束：突触密度（物理上限）× 时序精度（RC常数）× 能效（Landauer） - 工艺节点推断方向：7nm→3nm→2nm的突触等效密度计算 - **这是论文C（Nature Electronics）中\"奠基意义\"章节的核心数据** --- ### 问题2：LNN + SDI控制机制 + 变分贝叶斯融合架构 **用户原话**： > 在算法与机制上，要与液态神经网络LNN结合起来，让它去指导我们SDI的控制机制，再融合最小变分贝叶斯推断的收敛架构 **核心问题**：LNN（Liquid Neural Network）+ SDI拓扑控制 + 最小变分贝叶斯推断（Minimal VBI）三路融合架构 **初步思路（待完善）**：",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4068830609321594,
+      "maxScore": 0.4068830609321594,
+      "firstRecalledAt": "2026-05-03T07:55:16.694Z",
+      "lastRecalledAt": "2026-05-03T07:55:16.694Z",
+      "queryHashes": [
+        "0dd8464909bb"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "network",
+        "网络",
+        "0.5μm",
+        "1-10ms",
+        "6.2",
+        "6.8",
+        "0.73",
+        "能不能"
+      ]
+    },
+    "memory:memory/2026-04-25.md:21:47": {
+      "key": "memory:memory/2026-04-25.md:21:47",
+      "path": "memory/2026-04-25.md",
+      "startLine": 21,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "- CST指标估算：Sc~6.2, Tc~6.8, Γst~0.73 → CST≈47（L6级） - 关键约束：突触密度（物理上限）× 时序精度（RC常数）× 能效（Landauer） - 工艺节点推断方向：7nm→3nm→2nm的突触等效密度计算 - **这是论文C（Nature Electronics）中\"奠基意义\"章节的核心数据** --- ### 问题2：LNN + SDI控制机制 + 变分贝叶斯融合架构 **用户原话**： > 在算法与机制上，要与液态神经网络LNN结合起来，让它去指导我们SDI的控制机制，再融合最小变分贝叶斯推断的收敛架构 **核心问题**：LNN（Liquid Neural Network）+ SDI拓扑控制 + 最小变分贝叶斯推断（Minimal VBI）三路融合架构 **初步思路（待完善）**： - LNN特性：连续时间RNN（CT-RNN），参数量极小（~19个神经元控制自动驾驶），适合在线自适应控制 - LNN→SDI映射：LNN的液态状态 ≈ SDI拓扑配置向量；LNN动力学方程指导ncc.LINK的切换时序 - 变分贝叶斯收敛：ELBO最大化 ≡ 自由能最小化（与Friston FEP等价），提供收敛保证 - 三路融合方程候选： ``` τ·dx/dt = -x + f(Wx + I_SDI) + β·∇_x(-ELBO) 拓扑切换策略 = argmin_{topo} KL(Q_LNN || P_target) ``` - **可能成为P1专利的第(iii)类技术方案的核心算法**，也是B7论文§8 Discus",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3956777185201645,
+      "maxScore": 0.3956777185201645,
+      "firstRecalledAt": "2026-05-03T07:55:16.694Z",
+      "lastRecalledAt": "2026-05-03T07:55:16.694Z",
+      "queryHashes": [
+        "0dd8464909bb"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "network",
+        "网络",
+        "6.2",
+        "6.8",
+        "0.73",
+        "ct-rnn",
+        "lnn动力学方程指导ncc.link的切换时序",
+        "dx/dt"
+      ]
+    },
+    "memory:memory/2026-04-29.md:252:263": {
+      "key": "memory:memory/2026-04-29.md:252:263",
+      "path": "memory/2026-04-29.md",
+      "startLine": 252,
+      "endLine": 263,
+      "source": "memory",
+      "snippet": "- 图2 CopyBCU架构：`https://www.genspark.ai/api/files/s/0Hzsa20I?cache_control=3600` - 图3 FPGA验证方案：`https://www.genspark.ai/api/files/s/It86yQwP?cache_control=3600` 4. **核心理论数据** - 三大原子原语：P2P, Star, Ring - 五种SDI算子：∪, ∘, ×, ⊗, ⊕ - Γst=1充要条件：T_ALU ≤ T_link，Pipeline深度≥3，双buffer - CopyBCU规格：0.18 mm² @5nm，<10 pJ/op，10 ns延迟 ### 下一步（用户未明确回复） - P1专利§3-§5实施方案：Agent交底书中实施例已就绪，等待用户确认开始撰写",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3756348490715027,
+      "maxScore": 0.3756348490715027,
+      "firstRecalledAt": "2026-05-03T07:55:16.694Z",
+      "lastRecalledAt": "2026-05-03T07:55:16.694Z",
+      "queryHashes": [
+        "0dd8464909bb"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "cache-control",
+        "t-alu",
+        "t-link",
+        "0.18",
+        "pj/op",
+        "copybcu",
+        "架构",
+        "https"
+      ]
+    },
+    "memory:memory/2026-04-25.md:121:145": {
+      "key": "memory:memory/2026-04-25.md:121:145",
+      "path": "memory/2026-04-25.md",
+      "startLine": 121,
+      "endLine": 145,
+      "source": "memory",
+      "snippet": "> 在算法与机制上，要与液态神经网络LNN结合起来，让它去指导我们SDI的控制机制，再融合最小变分贝叶斯推断的收敛架构 **核心问题**：LNN（Liquid Neural Network）+ SDI拓扑控制 + 最小变分贝叶斯推断（Minimal VBI）三路融合架构 **初步思路（待完善）**： - LNN特性：连续时间RNN（CT-RNN），参数量极小（~19个神经元控制自动驾驶），适合在线自适应控制 - LNN→SDI映射：LNN的液态状态 ≈ SDI拓扑配置向量；LNN动力学方程指导ncc.LINK的切换时序 - 变分贝叶斯收敛：ELBO最大化 ≡ 自由能最小化（与Friston FEP等价），提供收敛保证 - 三路融合方程候选： ``` τ·dx/dt = -x + f(Wx + I_SDI) + β·∇_x(-ELBO) 拓扑切换策略 = argmin_{topo} KL(Q_LNN || P_target) ``` - **可能成为P1专利的第(iii)类技术方案的核心算法**，也是B7论文§8 Discussion的延伸 --- ### 问题3：惊讶度（Surprisal）的工程落地 **用户原话**： > 还有一个问题，内部模型与世界模型的惊讶度表征和在线测量，如何文化落地与实现？ **核心问题**：Surprisal（-log P(x)）和Prediction Error在NCC/CST系统中的在线测量与工程实现 **初步思路（待完善）**： - 惊讶度 = -log P(x|model)，在贝叶斯框架中等价于自由能的感知项",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.360553041100502,
+      "maxScore": 0.360553041100502,
+      "firstRecalledAt": "2026-05-03T07:55:16.694Z",
+      "lastRecalledAt": "2026-05-03T07:55:16.694Z",
+      "queryHashes": [
+        "0dd8464909bb"
+      ],
+      "recallDays": [
+        "2026-05-03"
+      ],
+      "conceptTags": [
+        "network",
+        "网络",
+        "ct-rnn",
+        "lnn动力学方程指导ncc.link的切换时序",
+        "dx/dt",
+        "i-sdi",
+        "q-lnn",
+        "p-target"
+      ]
+    },
+    "memory:memory/2026-05-04.md:30:62": {
+      "key": "memory:memory/2026-05-04.md:30:62",
+      "path": "memory/2026-05-04.md",
+      "startLine": 30,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "- Hemibrain σ=62.9远高于C.elegans σ=6.8——Drosophila connectome具有极高clustering - Hemibrain的α=128异常高，因为~18K神经元参与cascade，远超幂律适用范围 - Hemibrain的L=1.39极短，说明该网络高度互联 ### 下一步 - 保留plasticity的Hemibrain完整仿真（目前跳过了一些开销大的操作） - Mouse cortex数据获取和仿真 - 写论文/报告时对比三个物种的SDI universality ### 文件列表 - `sdi_network_v30.py` - 多物种SDI仿真器 - `sdi_v30_c_elegans_results.json` - C.elegans结果 - `sdi_v30_hemibrain_results.json` - Hemibrain结果 - `sdi_v30_c_elegans_result.png` - C.elegans图表 - `hemibrain_edges.json` - (可删除，已改用CSV) - `hemibrain_connectome_meta.json` - Hemibrain元数据 ### 已知问题 - Hemibrain的E-L ratio始终为0%（所有bond保持E-S type，因为没有apply_rules） - α值对于大网络不适用（幂律模型设计用于small cascade sizes） - Hemibrain的所有神经元都被标记为interneuron（需要更精细的类型分类）",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.1725519329309462,
+      "maxScore": 0.41781046390533444,
+      "firstRecalledAt": "2026-05-07T08:20:07.460Z",
+      "lastRecalledAt": "2026-05-07T09:30:05.986Z",
+      "queryHashes": [
+        "9fad92cfc3e0",
+        "0a13b4260c4c",
+        "5bc0dd1720ca"
+      ],
+      "recallDays": [
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "network",
+        "网络",
+        "62.9远高于c.elegans",
+        "6.8",
+        "1.39极短",
+        "写论文/报告时对比三个物种的sdi",
+        "sdi-network-v30.py",
+        "sdi-v30-c-elegans-results.json"
+      ]
+    },
+    "memory:memory/2026-05-07.md:17:42": {
+      "key": "memory:memory/2026-05-07.md:17:42",
+      "path": "memory/2026-05-07.md",
+      "startLine": 17,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "8. **模板目录位置变更**：HEARTBEAT.md 期望 `99-Templates` 在根目录，实际在 `90_System/99_Templates`，路径失配。 **🟢 正常：** - SDI v31 仿真结果存在（T_200/T_150 两组参数轨迹完整） - 知识库结构完整（SSOT/ADR/Wiki/Inbox 齐全） - 54 个 workspace skills 正常 - WeChat 插件已启用（openclaw-weixin v2.4.1） - workspace 根文档完整（AGENTS.md / SOUL.md / USER.md / MEMORY.md / HEARTBEAT.md 等均在） ### 修复计划 1. 立即重建 Copilot data.json 配置 2. 修复「知识库每日同步」cron（排查 WeChat 投递超时原因，考虑增加 timeout 或切换投递渠道） 3. 补全今日 memory 日志（本文件） 4. 调查 HERMES-Brain 无输出原因（可能需要 re-auth） 5. 运行 Hemibrain v31 完整评估 pipeline ## 系统健康检查 (03:20 EDT) | 指标 | 状态 | |------|------| | compute_procs | 0 | | hemibrain_v31_results.json | 936 bytes | | sdi_v31_results.json | 2058 bytes | | 检测结果 | **CHANGED** | **⚠️ 发现变更*",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.38942425847053525,
+      "maxScore": 0.38942425847053525,
+      "firstRecalledAt": "2026-05-07T08:20:09.773Z",
+      "lastRecalledAt": "2026-05-07T08:20:09.773Z",
+      "queryHashes": [
+        "0a13b4260c4c"
+      ],
+      "recallDays": [
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "99-templates",
+        "90-system/99-templates",
+        "t-200/t-150",
+        "ssot/adr/wiki/inbox",
+        "openclaw-weixin",
+        "v2.4.1",
+        "agents.md"
+      ]
+    },
+    "memory:memory/2026-05-04.md:77:102": {
+      "key": "memory:memory/2026-05-04.md:77:102",
+      "path": "memory/2026-05-04.md",
+      "startLine": 77,
+      "endLine": 102,
+      "source": "memory",
+      "snippet": "- Hemibrain: vectorized STDP + skip rebuild for N > 10000 (avoid hanging) - All expensive ops (stdp loop, rebuild, apply_rules) skipped for N > 10000 - Fast sigma formula breaks for large sparse networks ### Files Uploaded to AI Drive - `/SDI/v25/`: sdi_network_v25.py, sdi_v25_results.json, v25.log, sdi_v25_result.png - `/SDI/CST_Paper_V25/`: CST_Theory_V25_FINAL.docx, CST_Intelligence_Emergence_Paper_V25_FINAL.md, cst_v25.bib, figures/ ### Critical Bugs Identified 1. **Sigma overestimation (Hemibrain)**: Fast formula C_est=min(0.6, deg.mean*p*5) invalid for large sparse networks 2. **Alpha instability**: Power-law model designed for small cascades; Hemibrain cascades cover 86% neurons 3.",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7852286696434021,
+      "maxScore": 0.40061441361904143,
+      "firstRecalledAt": "2026-05-07T08:20:09.773Z",
+      "lastRecalledAt": "2026-05-07T09:30:05.986Z",
+      "queryHashes": [
+        "0a13b4260c4c",
+        "5bc0dd1720ca"
+      ],
+      "recallDays": [
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "network",
+        "apply-rules",
+        "sdi/v25",
+        "sdi-network-v25.py",
+        "sdi-v25-results.json",
+        "v25.log",
+        "sdi-v25-result.png",
+        "sdi/cst-paper-v25"
+      ]
+    },
+    "memory:memory/2026-05-05.md:537:574": {
+      "key": "memory:memory/2026-05-05.md:537:574",
+      "path": "memory/2026-05-05.md",
+      "startLine": 537,
+      "endLine": 574,
+      "source": "memory",
+      "snippet": "Goal: generate /home/work/.openclaw/workspace/sdi_sim/sdi_v30_results.png Key results (from JSON): - sigma=4.238, alpha=2.099, C=0.328, L=2.398, EL=27.3% - sigma_traj has 30 entries (steps 0-2900, every 100) - alpha_traj has 30 entries - fep_log has 59 entries Exec command ready to run. # DASHBOARD.md update via exec Python Target section: lines 28-40 (SDI simulation table in 主线S) New content: sdi_network v30 5/5 PASS, all metrics converged Also add new section after line 40: v30 final results summary table # DASHBOARD update plan Need to update lines 28-40 (SDI section). Old text: ``` ### ⚗️ 主线S：仿真验证 **负责人**：刘勤让 | **当前阶段**：sdi_network v22仿真，等待双阈值收敛 | 任务 | 文件 | 状态 | 下一步 | |------|----",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3760509967803955,
+      "maxScore": 0.3760509967803955,
+      "firstRecalledAt": "2026-05-07T08:20:09.773Z",
+      "lastRecalledAt": "2026-05-07T08:20:09.773Z",
+      "queryHashes": [
+        "0a13b4260c4c"
+      ],
+      "recallDays": [
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "network",
+        "home/work",
+        "4.238",
+        "2.099",
+        "0.328",
+        "2.398",
+        "27.3",
+        "sigma-traj"
+      ]
+    },
+    "memory:memory/2026-05-05.md:570:604": {
+      "key": "memory:memory/2026-05-05.md:570:604",
+      "path": "memory/2026-05-05.md",
+      "startLine": 570,
+      "endLine": 604,
+      "source": "memory",
+      "snippet": "| 任务 | 文件 | 状态 | 下一步 | |------|------|------|--------| | sdi_network v30 | `sdi_sim/sdi_network_v30.py` | ✅**5/5 PASS** | 写正式论文/专利素材 | | C.elegans SDI复现 | `sdi_sim/sdi_v30_results.png` | ✅已完成 | — | | v22-v29 历史版本 | `sdi_sim/sdi_network_v{22..29}.py` | ✅归档 | — | | nano-SDIO原型脚本 | `04_Code_代码/nano_SDIO.py` | 📋存在但需验证 | 补充算力对标数据（立项材料用） | #### v30 最终结果（C.elegans SDI, 3000步 MNIST） | 指标 | 结果 | 目标 | 达标 | |------|------|------|------| | σ（平均度） | **4.238** | ≥4.0 | ✅ | | α（度 assortativity） | **2.099** | 1.5–2.5 | ✅ | | C（聚类系数） | **0.328** | ≥0.30 | ✅ | | L（平均路径长度） | **2.398** | 2.0–3.5 | ✅ | | EL（电-化学突触比） | **27.3%** | 15–28% | ✅ | σ轨迹：30/30步全部≥4.0（范围[4.250, 5.061]，均值4.66） **v30核心机制**： - `BOND_CA",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.36997227370738983,
+      "maxScore": 0.36997227370738983,
+      "firstRecalledAt": "2026-05-07T08:20:09.773Z",
+      "lastRecalledAt": "2026-05-07T08:20:09.773Z",
+      "queryHashes": [
+        "0a13b4260c4c"
+      ],
+      "recallDays": [
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "network",
+        "sdi-network",
+        "sdi-sim/sdi-network-v30.py",
+        "5/5",
+        "写正式论文/专利素材",
+        "c.elegans",
+        "sdi-sim/sdi-v30-results.png",
+        "v22-v29"
+      ]
+    },
+    "memory:memory/2026-05-07.md:42:91": {
+      "key": "memory:memory/2026-05-07.md:42:91",
+      "path": "memory/2026-05-07.md",
+      "startLine": 42,
+      "endLine": 91,
+      "source": "memory",
+      "snippet": "**⚠️ 发现变更**：hemibrain_v31_results.json 文件有变化（当前936字节），需关注 v31 验证流程是否正常执行。2026-05-07/03:25 compute_procs: 0 hemibrain_v31_results.json:936 sdi_v31_results.json:2058 CHANGED ## 系统健康检查 (03:35 EDT) | 指标 | 状态 | |------|------| | compute_procs | 0 | | hemibrain_v31_results.json | 936 bytes | | sdi_v31_results.json | 2058 bytes | | 检测结果 | **CHANGED** | **文件时间戳**： - `sdi_v31_results.json`: 05-06 03:14（无变化） - `hemibrain_v31_results.json`: 05-06 23:54（无变化） - `connectome_v8_data.json`: 05-06 03:08（无变化） **结论**：无新增结果文件，JSON 大小较上次检查无变化。Hemibrain v31 验证仍在等待 compute_procs 运行。2026-05-07/03:35 --- ## 03:40 EDT 自动状态雷达 | 进程 | 状态 | |------|------| | compute_procs | 0 (空闲) | ### sdi_sim 文件变更 | 文件 | 大小 |",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.40648938119411465,
+      "maxScore": 0.40648938119411465,
+      "firstRecalledAt": "2026-05-07T09:30:05.986Z",
+      "lastRecalledAt": "2026-05-07T09:30:05.986Z",
+      "queryHashes": [
+        "5bc0dd1720ca"
+      ],
+      "recallDays": [
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "hemibrain-v31-results.json",
+        "2026-05-07/03",
+        "compute-procs",
+        "sdi-v31-results.json",
+        "05-06",
+        "connectome-v8-data.json",
+        "sdi-sim",
+        "发现"
+      ]
+    },
+    "memory:memory/2026-05-07.md:317:358": {
+      "key": "memory:memory/2026-05-07.md:317:358",
+      "path": "memory/2026-05-07.md",
+      "startLine": 317,
+      "endLine": 358,
+      "source": "memory",
+      "snippet": "| sdi_v31_results.json | 2058 bytes（May 6 03:14，无变化） | | **变更检测** | **CHANGED** | ### 结论 - hemibrain_v31_results.json 自 04:09 后无大小变化 - sdi_v31_results.json 仍为 May 6 03:14 数据，无新变化 - compute_procs 空闲，v31 验证流程未运行新任务 ### Hemibrain v31 最新结果（参考） - **sigma**: 0.2117（小世界属性） - **alpha**: 3.1698（幂律指数，符合 2<α<4 目标） - **C**: 0.00953，L: 2.133（小世界网络特征） - **神经元**: 6000（活跃 25074/25397） - **化学突触**: 312993，电突触: 15618 ## 05:10 自动状态报告 ``` 2026-05-07/05:10 compute_procs: 0 hemibrain_v31_results.json:936 sdi_v31_results.json:2058 CHANGED ``` 变更: hemibrain_v31_results.json 大小变化（2026-05-07 04:09 更新） ## 05:15 自动状态报告 - compute_procs: 0（无活跃计算） - hemibrain_v31_results.json: 936 bytes（已更新） - sdi_v31_results.json: 20",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3873794436454773,
+      "maxScore": 0.3873794436454773,
+      "firstRecalledAt": "2026-05-07T09:30:05.986Z",
+      "lastRecalledAt": "2026-05-07T09:30:05.986Z",
+      "queryHashes": [
+        "5bc0dd1720ca"
+      ],
+      "recallDays": [
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "网络",
+        "sdi-v31-results.json",
+        "hemibrain-v31-results.json",
+        "compute-procs",
+        "0.2117",
+        "3.1698",
+        "0.00953",
+        "2.133"
+      ]
+    },
+    "memory:memory/2026-05-04.md:56:82": {
+      "key": "memory:memory/2026-05-04.md:56:82",
+      "path": "memory/2026-05-04.md",
+      "startLine": 56,
+      "endLine": 82,
+      "source": "memory",
+      "snippet": "- P1 patent (CNIPA) written and delivered via WeChat (qqbot) on May 4, 2026 - Deadline: May 15, 2026 (11 days remaining) - File: `NCC_IP_Portfolio/专利/P1_正交原语集拓扑融合变换/P1_正交原语集拓扑融合变换_送审稿.md` ### SDI Simulations #### C. elegans (302 neurons) - V30 result: σ=6.796, α=3.556, C=0.390, L=2.662 (11.86s) - Full plasticity: E-L ratio=19.6%, STDP enabled, rebuild every 10 steps #### Drosophila Hemibrain (21,739 neurons) - V30 result: σ=62.918, α=128.51, C=0.6, L=1.390 (161.4s, 300 steps) - ⚠️ **CRITICAL ISSUE**: sigma overestimated by ~10x (C_est=0.6 vs realistic ~0.04-0.08) - Root cause: `_compute_sigma_fast()` uses naive formula: C_est = min(0.6, deg.mean * p * 5) - For Hemibrain: deg.mean~14.2,",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.38340853750705717,
+      "maxScore": 0.38340853750705717,
+      "firstRecalledAt": "2026-05-07T09:30:05.986Z",
+      "lastRecalledAt": "2026-05-07T09:30:05.986Z",
+      "queryHashes": [
+        "5bc0dd1720ca"
+      ],
+      "recallDays": [
+        "2026-05-07"
+      ],
+      "conceptTags": [
+        "6.796",
+        "3.556",
+        "0.390",
+        "2.662",
+        "11.86s",
+        "e-l",
+        "19.6",
+        "62.918"
+      ]
+    }
+  }
+}
