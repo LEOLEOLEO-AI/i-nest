@@ -42,4 +42,3 @@ Parameters that accept URLs (`--video_url`) also accept local file paths. The CL
 ## See Also
 
 - [gsk-shared](../gsk-shared/SKILL.md) — Authentication and global flags
-
