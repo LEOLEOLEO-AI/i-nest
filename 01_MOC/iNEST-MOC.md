@@ -76,3 +76,22 @@ tags:
 - [[TCC 计算范式 — 全景导航 (Map of Content)]]
 - [[SDI — 软件定义互连（Software-Defined Interconnect）]]
 - [[浙江大学集成电路学院Nano Letters: 可重构神经形态计算，用于多功能神经信息处理]]
+
+## 🧪 液态计算化学 (2026-06新增)
+
+- [[液态计算化学_MOC]] — 全景导航
+- [[SDI化合物键_四型架构]] — 核心架构
+- [[STDP-FEP梯度下降统一映射]] — 数学证明
+- [[专利组合总览]] — 8项专利
+- [[关键指标参考手册]] — 仿真速查
+- [[NCL神经计算定律详解]] — CST理论
+- [[paper1_iNEST_core_architecture]] — 核心架构论文
+- [[paper2_liquid_computing_chemistry]] — 液态计算化学 Perspective
+- [[V29仿真推进计划]] — 功能涌现
+- [[missing_content_checklist_june30]] — 缺失清单
+
+## 🚀 仿真版本演进
+
+- [[v28多尺度仿真结果]] — 当前最新，5尺度PASS
+- [[标度律验证]] — bonds∝N^1.02, time∝N^1.22
+- [[五世代路线图]] — Gen1(2027)→Gen5(2035)
