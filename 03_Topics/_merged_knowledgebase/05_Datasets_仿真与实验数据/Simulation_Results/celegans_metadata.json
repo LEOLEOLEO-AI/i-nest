@@ -1,0 +1,13 @@
+{
+  "source": "Watts & Strogatz (1998) Nature 393:440",
+  "nodes": 302,
+  "edges": 2359,
+  "avg_clustering": 0.28,
+  "avg_path_length": 2.65,
+  "random_clustering": 0.05,
+  "random_path_length": 2.25,
+  "small_world_sigma": 5.6,
+  "is_small_world": true,
+  "max_kcore": 15,
+  "intelligence_level_expected": 1
+}

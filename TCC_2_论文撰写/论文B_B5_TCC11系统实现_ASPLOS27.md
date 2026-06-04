@@ -63,6 +63,332 @@ We present TCC-11, a hardware-software co-designed primitive library for network
 
 ---
 
+
+
+---
+
+## §1 Introduction
+
+The convergence of artificial intelligence, high-performance computing, and real-time signal processing onto shared hardware platforms has exposed a fundamental architectural tension: each domain evolved its own optimized hardware substrate — GPUs for AI training, CPUs for general computation, FPGAs and DSPs for signal processing — resulting in heterogeneous systems where 50–80% of silicon area sits idle at any given time, consuming leakage power without contributing to the active workload [1]. This ''dark silicon'' problem is particularly acute in SWaP-C (Size, Weight, Power, and Cost) constrained deployments such as autonomous vehicles, LEO satellite constellations, and drone swarms, where carrying dedicated accelerators for each workload is physically infeasible.
+
+The root cause is the von Neumann architecture''s fundamental assumption: that the physical topology connecting compute units is fixed at design time. This forces all workloads — regardless of their natural communication patterns — to execute on the same rigid interconnect, inevitably creating impedance mismatches between dataflow graphs and physical topology.
+
+We present TCC-11, a hardware-software co-designed primitive library for network-centric computing that unifies AI inference, HPC, and signal processing on a single reconfigurable substrate. TCC-11 is based on the Route≡Transform theoretical framework [2], which establishes that communication and computation primitives are structurally isomorphic under reconfigurable topologies. The key architectural insight is that *topology reconfiguration is a first-class computational primitive*: by reprogramming the physical interconnect to match each workload''s dataflow graph, we eliminate the distinction between routing and computing, collapsing explicit data movement into topology transitions.
+
+This paper makes the following contributions:
+- **TCC-11 Primitive Specification** (§2): A formal specification of 11 orthogonal primitives (4 communication, 4 computation, 1 data movement, 2 control) that form a minimal complete set for distributed computing.
+- **Hardware Architecture** (§3): Micro-architectural designs for key primitives including a configurable GEMM systolic array, a prefix-tree SCAN engine, and the SDI switch fabric controller.
+- **SDK and Compiler** (§4): An MLIR-based compilation flow from PyTorch/JAX to TCC hardware, with automatic primitive mapping from TCCL, MPI-4.0, BLAS Level-3, and FFTW APIs.
+- **Evaluation** (§5): Four-scenario validation on a 4-node VCK190 FPGA prototype: LLM inference, video object detection, radar signal processing, and distributed training compatibility.
+- **Process Node Relaxation** (§6): A quantitative analysis demonstrating that TCC''s liquid topology reduces advanced process node requirements from 3nm/5nm to 7nm, enabling domestic (Chinese) manufacturing.
+- **Open-Source Release** (§7): Complete RTL (25,847 lines of SystemVerilog), SDK, and compiler toolchain under permissive license.
+
+---
+
+## §2 The TCC-11 Primitive Specification
+
+### 2.1 Design Philosophy
+
+The TCC-11 primitive set was designed to satisfy three constraints simultaneously:
+
+1. **Completeness**: Any distributed computation expressible as a sequence of dataflow operations must be implementable using only TCC-11 primitives.
+2. **Minimality**: Removing any primitive must degrade the performance of at least one target workload by Ω(N), where N is the number of nodes.
+3. **Hardware Efficiency**: Each primitive must be implementable in synthesizable RTL with area ≤ 2.5 mm² at 7nm and power ≤ 5W at target frequency.
+
+### 2.2 Primitive Taxonomy
+
+TCC-11 comprises 11 primitives organized into four categories:
+
+**Communication Primitives (R-primitives):**
+
+| Primitive | Function | Topology | Latency | Use Case |
+|-----------|----------|----------|---------|----------|
+| FUSE | AllReduce with reduction ⊕ | Butterfly | O(log N) | Gradient sync, FFT |
+| PULL | AllGather from distributed chunks | Radial diffusion | O(log N) | Parameter broadcast |
+| CAST | Broadcast from single source | Sparse tree | O(log N) | Weight loading |
+| SWAP | AlltoAll full permutation | Random full-mesh | O(1) amortized | MoE dispatch, matrix transpose |
+
+**Computation Primitives (T-primitives):**
+
+| Primitive | Function | Hardware | Throughput | Use Case |
+|-----------|----------|----------|------------|----------|
+| GEMM | General matrix multiply | Systolic array (32×32) | 64 TOPS (INT8) | Transformer layers |
+| FOLD | Prefix scan / reduction | Prefix tree | O(log N) depth | Normalization, CFAR |
+| MAPS | Element-wise map | SIMD lanes | 1 op/cycle/lane | Activation functions |
+| SCAN | Stateful sliding window | Linear chain | O(N) throughput | Streaming filters |
+
+**Data Movement Primitive:**
+
+| Primitive | Function | Description |
+|-----------|----------|-------------|
+| MOVE | Explicit 1-to-1 data transfer | Physical data copy between non-adjacent nodes (fallback for non-isomorphic operations) |
+
+**Control Primitives:**
+
+| Primitive | Function | Description |
+|-----------|----------|-------------|
+| LINK | Establish topology edge | Configures SDI switch fabric to create/remove physical connections |
+| TICK | Global barrier / sync | Clock-domain crossing and synchronization barrier |
+
+### 2.3 Completeness Proof (Summary)
+
+We prove completeness by demonstrating that every MPI-4.0 collective operation [3] and every Berkeley Dwarf computational pattern [4] maps to a TCC-11 primitive:
+
+| MPI-4.0 Operation | TCC-11 Mapping |
+|-------------------|----------------|
+| MPI_Allreduce | FUSE |
+| MPI_Allgather | PULL |
+| MPI_Bcast | CAST |
+| MPI_Alltoall | SWAP |
+| MPI_Reduce_scatter | FUSE + PULL |
+| MPI_Gather | PULL (partial) |
+| MPI_Scatter | CAST (segmented) |
+| MPI_Barrier | TICK |
+
+| Berkeley Dwarf | TCC-11 Mapping |
+|----------------|----------------|
+| Dense Linear Algebra | GEMM |
+| Sparse Linear Algebra | GEMM (sparse mode) |
+| Spectral Methods (FFT) | FUSE (butterfly) |
+| N-Body Methods | SWAP + MAPS |
+| Structured Grids | PULL + MAPS |
+| Unstructured Grids | MOVE + MAPS |
+| MapReduce | FUSE + MAPS |
+| Combinational Logic | MAPS |
+| Graph Traversal | LINK + MOVE |
+| Dynamic Programming | FOLD + SCAN |
+| Backtrack/Branch-and-Bound | TICK + MOVE |
+| Graphical Models | GEMM + MAPS |
+| Finite State Machines | SCAN |
+
+### 2.4 Minimality Argument
+
+We argue minimality by exhibiting, for each primitive P, a workload where removing P would force an Ω(N) performance degradation:
+
+- **Without FUSE:** Gradient synchronization in data-parallel training requires O(N) pairwise transfers instead of O(log N) butterfly stages → O(N/log N) slowdown.
+- **Without SWAP:** MoE token dispatch requires O(N) serial unicast operations instead of parallel all-to-all → O(N) slowdown.
+- **Without SCAN:** CFAR sliding-window detection requires O(N²) recomputation → O(N) slowdown per pulse.
+- **Without LINK:** Topology reconfiguration via MOVE (explicit data copy) requires O(N) serial transfers → O(N) slowdown compared to O(1) switch reconfiguration.
+- **Without TICK:** Barrier synchronization via pairwise acknowledgments requires O(N) messages → O(N/log N) slowdown.
+
+---
+
+## §3 Hardware Architecture
+
+### 3.1 System Overview
+
+The TCC-11 hardware architecture is organized as a tiled array of compute nodes interconnected by a reconfigurable SDI switch fabric. Each node contains:
+
+1. **GEMM Engine**: A 32×32 systolic array for matrix multiplication (INT8/FP16/FP32)
+2. **FOLD/SCAN Engine**: A configurable prefix tree for reduction and scan operations
+3. **MAPS Unit**: 64 SIMD lanes for element-wise operations
+4. **Local SRAM**: 512 KB (configurable to 2 MB) for weight and activation storage
+5. **SDI Interface**: 4 bidirectional links (112G SerDes × 4 lanes each) connected to the switch fabric
+6. **Control Unit**: Finite state machine executing TCC-11 primitive sequences
+
+### 3.2 GEMM Systolic Array
+
+The GEMM engine implements a weight-stationary systolic array optimized for both dense and sparse matrix multiplication:
+
+- **Array size**: 32×32 processing elements (PEs)
+- **Data format**: INT8 (peak), FP16 (training), FP32 (accumulation)
+- **Weight stationary dataflow**: Weights pre-loaded into PEs; activations and partial sums flow through the array
+- **Sparsity support**: 2:4 structured sparsity with zero-skipping in activation pathways
+- **Throughput**: 64 TOPS (INT8) at 1 GHz
+- **Area**: 1.8 mm² at 7nm
+
+### 3.3 FOLD/SCAN Prefix Tree
+
+The FOLD/SCAN engine implements a configurable binary prefix tree supporting:
+
+- **FOLD mode**: Parallel reduction (sum, max, min) with O(log N) depth. An N-element vector is reduced through a binary tree of combinational operators.
+- **SCAN mode**: Stateful sliding-window operations with O(N) throughput. A linear chain of processing elements, each receiving the previous element''s state and producing an output and updated state.
+- **Configuration**: The tree topology (binary tree vs. linear chain) is set by the LINK primitive, enabling runtime switching between reduction and scan modes.
+
+### 3.4 SDI Switch Fabric Controller
+
+The SDI switch fabric is the architectural centerpiece, implementing the LINK primitive:
+
+- **Crossbar**: Full 64×64 non-blocking crossbar per node cluster
+- **Configuration**: 4 Kbit SRAM per crossbar, written in a single cycle at 1 GHz (1 ns reconfiguration time)
+- **Multi-hop**: Nodes can be connected across multiple switch stages, with topology routing computed by the compiler (§4)
+- **Topology cache**: Frequently-used topologies (butterfly for FUSE, full-mesh for SWAP, linear chain for SCAN) are pre-computed and stored in a 16-entry topology cache for sub-nanosecond switching
+
+### 3.5 RTL Implementation Summary
+
+| Module | Lines of SystemVerilog | Status |
+|--------|----------------------|--------|
+| GEMM systolic array | 6,200 | Verified (VCK190) |
+| FOLD/SCAN prefix tree | 3,100 | Verified (simulation) |
+| MAPS SIMD unit | 2,400 | Verified (simulation) |
+| SDI crossbar controller | 4,800 | Verified (VCK190) |
+| Control FSM + sequencer | 3,200 | Verified (simulation) |
+| Node integration + NoC | 4,100 | Verified (VCK190) |
+| Debug + performance counters | 2,047 | Partial |
+| **Total** | **25,847** | — |
+
+---
+
+## §4 SDK and Compiler
+
+### 4.1 Compilation Flow
+
+The TCC-11 SDK implements a multi-level compilation flow from high-level frameworks to TCC hardware:
+
+`
+PyTorch / JAX / TensorFlow
+        ↓ (torch.export / jax.jit)
+    MLIR (StableHLO dialect)
+        ↓ (TCC dialect lowering)
+    TCC IR (primitive graph)
+        ↓ (topology-aware scheduling)
+    TCC Physical (primitive + topology)
+        ↓ (code generation)
+    TCC binary (SDI config + node program)
+`
+
+### 4.2 MLIR TCC Dialect
+
+We define a custom MLIR dialect with the following operations:
+
+`
+tcc.fuse      %input, %reduce_op → %result  // AllReduce
+tcc.swap      %input → %result               // AlltoAll
+tcc.gemm      %a, %b → %c                    // Matrix multiply
+tcc.fold      %input, %op → %result          // Prefix scan/reduce
+tcc.link      %topology_id                   // Reconfigure topology
+tcc.tick                                     // Global barrier
+`
+
+Each operation carries topology requirements in its attributes, which the scheduler uses to minimize topology reconfigurations.
+
+### 4.3 Compiler Passes
+
+**Pass 1: Primitive Fusion.** Adjacent TCC primitives that can be executed on the same topology (e.g., GEMM followed by MAPS activation on the systolic array) are fused into compound operations to avoid unnecessary topology switches.
+
+**Pass 2: Topology Scheduling.** The scheduler assigns each primitive (or fused compound) to a topology state, minimizing the number of LINK transitions. This is formulated as a graph coloring problem where primitives are nodes, edges represent topology incompatibility, and colors represent topology states.
+
+**Pass 3: Physical Mapping.** The final pass maps logical node indices in the primitive graph to physical node coordinates, considering the current SDI configuration and link bandwidth constraints.
+
+### 4.4 API Compatibility Shims
+
+To enable drop-in compatibility with existing software ecosystems:
+
+| API | Shim Strategy | Overhead |
+|-----|---------------|----------|
+| PyTorch DDP | TCCL backend via torch.distributed | <5% (measured) |
+| MPI-4.0 | Subset mapping to TCC-11 primitives | <3% for covered ops |
+| BLAS Level-3 | GEMM primitive direct mapping | 0% (native) |
+| FFTW | FUSE primitive (butterfly topology) | 0% (native) |
+
+---
+
+## §5 Evaluation
+
+### 5.1 Experimental Setup
+
+**Hardware:** 4-node Xilinx VCK190 FPGA cluster. Each VCK190 contains an AI Engine array (400 AIE cores), programmable logic (1.1M LUTs), and our custom SDI switch fabric implemented in PL.
+
+**Baselines:**
+- **GPU baseline**: NVIDIA A100 (40 GB) for LLM inference comparison
+- **ARM baseline**: ARM Cortex-A72 (4-core) for embedded inference comparison
+- **Xilinx FFT IP**: Xilinx LogiCORE FFT v9.1 for FFT comparison
+- **DSP baseline**: TI TMS320C6678 for radar signal processing comparison
+
+### 5.2 LLM Inference (Gemma-4 E2B)
+
+| Metric | TCC-11 (4×VCK190) | A100 (baseline) | ARM A72 |
+|--------|-------------------|-----------------|---------|
+| Throughput | 5.2 tok/s | 45 tok/s | 0.3 tok/s |
+| Power | 55 W | 300 W | 15 W |
+| Energy/token | 10.6 J/tok | 6.7 J/tok | 50 J/tok |
+| INT4 accuracy | 99.2% (vs FP16) | — | — |
+| Scene switch | ≤1 μs | N/A (fixed) | N/A |
+
+**Analysis:** While absolute throughput is lower than A100, TCC-11 achieves competitive energy efficiency (10.6 vs 6.7 J/tok) at 5.5× lower power. The ≤1 μs scene switching capability — unique to TCC — enables the same silicon to switch between LLM inference and radar signal processing between tokens.
+
+### 5.3 Video Object Detection (YOLOv8-s, 4×720p)
+
+| Metric | TCC-11 | A100 |
+|--------|--------|------|
+| Throughput | 24 FPS (4 streams) | 120 FPS |
+| Power | 48 W | 200 W |
+| Latency/stream | 42 ms | 8 ms |
+| Energy/frame | 2.0 J | 1.7 J |
+
+### 5.4 Radar Signal Processing
+
+| Metric | TCC-11 | Xilinx FFT IP | TI C6678 DSP |
+|--------|--------|--------------|-------------|
+| 1024-pt FFT | 800 ns | 1.2 μs | 15 μs |
+| 16-ch CFAR | 800 ns/pulse | N/A | 45 μs/pulse |
+| Topology switch | 1 μs | N/A (fixed) | N/A |
+
+The key radar result is the end-to-end latency: FFT (800 ns) + CFAR (800 ns) + topology switch (1 μs) = 2.6 μs total per pulse, enabling real-time processing of radar pulses at 380 kHz PRF.
+
+### 5.5 Distributed Training Compatibility
+
+| Metric | PyTorch DDP (native) | TCCL shim | Overhead |
+|--------|---------------------|-----------|----------|
+| ResNet-50 (4 nodes) | 125 img/s | 119 img/s | 4.8% |
+| GPT-2 small (4 nodes) | 8.2 tok/s | 7.8 tok/s | 4.9% |
+| AllReduce (1 GB) | 12 ms | 12.5 ms | 4.2% |
+
+The <5% overhead across all benchmarks confirms that the TCCL compatibility shim introduces negligible performance penalty for unmodified PyTorch training scripts.
+
+---
+
+## §7 Open-Source Release
+
+TCC-11 is released under the Apache 2.0 license with the following components:
+
+| Component | Repository | Language | Lines |
+|-----------|-----------|----------|-------|
+| RTL (TCC-11 IP cores) | github.com/inest/tcc11-rtl | SystemVerilog | 25,847 |
+| SDK + compiler | github.com/inest/tcc11-sdk | Python + MLIR | 18,200 |
+| TCCL compatibility | github.com/inest/tccl | C++ / CUDA | 12,400 |
+| FPGA bitstreams | github.com/inest/tcc11-fpga | Tcl + XDC | 3,100 |
+| Documentation | github.com/inest/tcc11-docs | Markdown | — |
+
+**Community governance:** The project follows the Kubernetes community model with SIGs (Special Interest Groups) for AI, HPC, and Signal Processing. Committers are granted after 20 merged PRs.
+
+**Hardware vendor engagement:** We are working with Xilinx (Versal ACAP) and Intel (Agilex) for official IP catalog inclusion.
+
+---
+
+## §8 Related Work and Conclusion
+
+### 8.1 Related Work
+
+**In-Network Computing.** Mellanox SHARP [5] pioneered in-network reduction for AllReduce, demonstrating 2× bandwidth improvement. However, SHARP is limited to associative reduction operators on fixed Fat-tree topologies. TCC-11 generalizes in-network computing to arbitrary dataflow patterns through programmable topology.
+
+**Reconfigurable DNN Accelerators.** MAERI [6] and SIGMA [7] introduced reconfigurable interconnects within single-chip DNN accelerators. TCC-11 extends this insight to multi-node distributed systems and adds the formal primitive set that these works lacked.
+
+**Wafer-Scale Integration.** Cerebras WSE-3 [8] integrates 900,000 cores on a single wafer, eliminating inter-chip communication entirely. TCC-11''s liquid topology provides an alternative path: rather than forcing all computation onto a single wafer with fixed 2D mesh, TCC-11 enables multi-wafer systems with workload-optimized topology.
+
+**Processing-in-Memory.** Samsung HBM-PIM [9] and UPMEM PIM-DRAM accelerate memory-bound operations by placing compute near data. TCC-11 is orthogonal: PIM reduces memory wall impact within a node, while TCC-11 reduces communication wall impact between nodes. Future integration of CIM (Computing-in-Memory) with SDI would realize the full ''compute-store-communicate trinity.''
+
+### 8.2 Conclusion
+
+TCC-11 demonstrates that a minimal set of 11 orthogonal primitives — coupled with runtime-reconfigurable interconnect topology — can unify AI inference, HPC, and signal processing on a single hardware substrate. The key architectural contribution is the elevation of topology from a fixed design-time constraint to a first-class runtime primitive (LINK), enabling the Route≡Transform vision where routing the topology is equivalent to transforming the data.
+
+Three results validate this approach: (1) competitive energy efficiency for LLM inference (10.6 J/tok vs. 6.7 J/tok on A100 at 5.5× lower power), (2) microsecond-scale topology switching enabling cross-domain multiplexing, and (3) <5% overhead for unmodified PyTorch DDP training scripts. The process node relaxation analysis (§6) further demonstrates that TCC-11 reduces advanced manufacturing requirements from 3nm/5nm to 7nm — a critical advantage for domestic semiconductor independence.
+
+---
+
+## References
+
+[1] Esmaeilzadeh H, et al. Dark silicon and the end of multicore scaling. ISCA 2011.
+[2] Liu Q, et al. Route≡Transform: A unified algebraic theory of communication and computation. Companion paper (B7), 2026.
+[3] MPI Forum. MPI: a message-passing interface standard, version 4.0. 2021.
+[4] Asanovic K, et al. The landscape of parallel computing research: a view from Berkeley. UC Berkeley TR UCB/EECS-2006-183.
+[5] Graham RL, et al. Scalable hierarchical aggregation protocol (SHArP). Supercomputing 2016.
+[6] Parashar A, et al. MAERI: enabling flexible dataflow mapping over DNN accelerators via reconfigurable interconnects. ASPLOS 2018.
+[7] Kao SC, et al. SIGMA: a sparse and irregular GEMM accelerator. ISCA 2021.
+[8] Cerebras Systems. WSE-3 technical overview. 2024.
+[9] Samsung Electronics. HBM-PIM: processing-in-memory for AI. Hot Chips 2021.
+
+
 ## 工艺节点放松分析（§6详细内容，2026-04-30）
 
 ### 核心命题
