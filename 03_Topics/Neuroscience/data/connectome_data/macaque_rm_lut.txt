@@ -1,0 +1,83 @@
+label	name	hem	abbrev
+132	primary auditory cortex	left	A1_L
+126	secondary auditory cortex	left	A2_L
+104	amygdala	left	Amyg_L
+129	anterior cingulate cortex	left	CCa_L
+128	posterior cingulate cortex	left	CCp_L
+127	retrosplenial cingulate cortex	left	CCr_L
+118	subgenual cingulate cortex	left	CCs_L
+139	frontal eye field	left	FEF_L
+112	gustatory cortex	left	G_L
+117	hippocampus	left	HC_L
+106	anterior insula	left	Ia_L
+115	posterior insula	left	Ip_L
+133	primary motor cortex	left	M1_L
+134	inferior parietal cortex	left	PCi_L
+137	intraparietal cortex	left	PCip_L
+135	medial parietal cortex	left	PCm_L
+138	superior parietal cortex	left	PCs_L
+125	centrolateral prefrontal cortex	left	PFCcl_L
+140	dorsolateral prefrontal cortex	left	PFCdl_L
+136	dorsomedial prefrontal cortex	left	PFCdm_L
+121	medial prefrontal cortex	left	PFCm_L
+105	orbitoinferior prefrontal cortex	left	PFCoi_L
+109	orbitolateral prefrontal cortex	left	PFCol_L
+107	orbitomedial prefrontal cortex	left	PFCom_L
+116	prefrontal polar cortex	left	PFCpol_L
+119	ventrolateral prefrontal cortex	left	PFCvl_L
+111	parahippocampal cortex	left	PHC_L
+142	dorsolateral premotor cortex	left	PMCdl_L
+141	medial premotor cortex	left	PMCm_L
+113	ventrolateral premotor cortex	left	PMCvl_L
+131	primary somatosensory cortex	left	S1_L
+130	secondary somatosensory cortex	left	S2_L
+108	central temporal cortex	left	TCc_L
+110	inferior temporal cortex	left	TCi_L
+102	temporal polar cortex	left	TCpol_L
+103	superior temporal cortex	left	TCs_L
+122	ventral temporal cortex	left	TCv_L
+124	visual area 1 (primary visual cortex)	left	V1_L
+120	visual area 2 (secondary visual cortex)	left	V2_L
+123	"anterior visual area, dorsal part"	left	VACd_L
+114	"anterior visual area, ventral part"	left	VACv_L
+32	primary auditory cortex	right	A1_R
+26	secondary auditory cortex	right	A2_R
+4	amygdala	right	Amyg_R
+29	anterior cingulate cortex	right	CCa_R
+28	posterior cingulate cortex	right	CCp_R
+27	retrosplenial cingulate cortex	right	CCr_R
+18	subgenual cingulate cortex	right	CCs_R
+39	frontal eye field	right	FEF_R
+12	gustatory cortex	right	G_R
+17	hippocampus	right	HC_R
+6	anterior insula	right	Ia_R
+15	posterior insula	right	Ip_R
+33	primary motor cortex	right	M1_R
+34	inferior parietal cortex	right	PCi_R
+37	intraparietal cortex	right	PCip_R
+35	medial parietal cortex	right	PCm_R
+38	superior parietal cortex	right	PCs_R
+25	centrolateral prefrontal cortex	right	PFCcl_R
+40	dorsolateral prefrontal cortex	right	PFCdl_R
+36	dorsomedial prefrontal cortex	right	PFCdm_R
+21	medial prefrontal cortex	right	PFCm_R
+5	orbitoinferior prefrontal cortex	right	PFCoi_R
+9	orbitolateral prefrontal cortex	right	PFCol_R
+7	orbitomedial prefrontal cortex	right	PFCom_R
+16	prefrontal polar cortex	right	PFCpol_R
+19	ventrolateral prefrontal cortex	right	PFCvl_R
+11	parahippocampal cortex	right	PHC_R
+42	dorsolateral premotor cortex	right	PMCdl_R
+41	medial premotor cortex	right	PMCm_R
+13	ventrolateral premotor cortex	right	PMCvl_R
+31	primary somatosensory cortex	right	S1_R
+30	secondary somatosensory cortex	right	S2_R
+8	central temporal cortex	right	TCc_R
+10	inferior temporal cortex	right	TCi_R
+2	temporal polar cortex	right	TCpol_R
+3	superior temporal cortex	right	TCs_R
+22	ventral temporal cortex	right	TCv_R
+24	visual area 1 (primary visual cortex)	right	V1_R
+20	visual area 2 (secondary visual cortex)	right	V2_R
+23	"anterior visual area, dorsal part"	right	VACd_R
+14	"anterior visual area, ventral part"	right	VACv_R
