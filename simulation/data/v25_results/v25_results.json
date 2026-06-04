@@ -1,0 +1,12 @@
+{
+  "version": "v25",
+  "N": 279,
+  "sigma_final": 5.3543617666614445,
+  "el_final_pct": 31.32726089785296,
+  "F_final": 0.010605046475795925,
+  "FEP_convergence": 0.9982589848079446,
+  "BCM_theta_mean": 7.861926812587101,
+  "consolidate_rate_final": 2.742611845262413e-10,
+  "glia_events": 0,
+  "scaling_events": 0
+}
