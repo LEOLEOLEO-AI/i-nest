@@ -860,3 +860,16 @@ warning: in the working copy of 'TCC_1_椤圭洰绛栧垝/娴锋渤V8_SDI浠跨湡楠岃瘉鏁版
 Inbox processing complete.
 
 Done!
+[main 136f1e6] auto: inbox processing 2026/06/04 鍛ㄥ洓 17:38:09.96
+ 3 files changed, 167 insertions(+), 13 deletions(-)
+[2026/06/04 周四 17:38:10.13] Auto-management complete. 
+======================================== 
+[2026/06/04 周四 18:40:01.94] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
