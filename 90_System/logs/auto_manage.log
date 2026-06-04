@@ -945,3 +945,19 @@ Done!
  3 files changed, 55 insertions(+), 7 deletions(-)
  create mode 100644 papers/TCC/From Compute to Complexity- A Physical Theory of Intelligence Emergence.md
 [2026/06/05 周五  2:40:04.21] Auto-management complete. 
+======================================== 
+[2026/06/05 周五  4:40:02.22] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 6 inbox notes...
+Inbox:   0%|          | 0/6 [00:00<?, ?it/s]Inbox:  17%|█▋        | 1/6 [00:11<00:56, 11.21s/it]Inbox:  50%|█████     | 3/6 [00:18<00:16,  5.54s/it]Inbox:  83%|████████▎ | 5/6 [00:27<00:05,  5.04s/it]Inbox: 100%|██████████| 6/6 [00:38<00:00,  6.78s/it]Inbox: 100%|██████████| 6/6 [00:38<00:00,  6.49s/it]
+  [WARN]  Low quality: new_note_after_cutoff.md -> Neuroscience
+  Skipping short note: old_note_before_cutoff.md
+  [OK] sample_TCC_SDI_test.md -> TCC-SDI/
+  Skipping short note: 今日健身日记.md
+  [OK] 类脑计算最新综述.md -> Chip-Hardware/
+  [OK] 芯片算力网络趋势.md -> Chip-Hardware/
+
+Inbox processing complete.
+
+Done!
