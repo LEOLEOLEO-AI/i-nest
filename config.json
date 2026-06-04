@@ -1,170 +1,67 @@
 ﻿{
-    "version":  "1.0.0",
-    "knowledge_graph":  {
-                            "tag_system":  {
-                                               "priority":  [
-                                                                "high",
-                                                                "medium",
-                                                                "low"
-                                                            ],
-                                               "status":  [
-                                                              "new",
-                                                              "reviewed",
-                                                              "integrated",
-                                                              "obsolete"
-                                                          ],
-                                               "category":  [
-                                                                "paper",
-                                                                "concept",
-                                                                "method",
-                                                                "experiment"
-                                                            ],
-                                               "direction":  [
-                                                                 "TCC",
-                                                                 "iNEST"
-                                                             ]
-                                           },
-                            "edge_types":  [
-                                               "cites",
-                                               "builds_on",
-                                               "contradicts",
-                                               "related_to",
-                                               "inspired_by",
-                                               "applies_to"
-                                           ],
-                            "node_types":  [
-                                               "paper",
-                                               "author",
-                                               "concept",
-                                               "method",
-                                               "dataset",
-                                               "experiment",
-                                               "insight",
-                                               "patent"
-                                           ],
-                            "storage":  "neo4j",
-                            "bidirectional_tags":  true
-                        },
-    "dashboard":  {
-                      "metrics":  [
-                                      "papers_scraped",
-                                      "papers_imported",
-                                      "insights_generated",
-                                      "patents_drafting",
-                                      "papers_writing",
-                                      "code_commits",
-                                      "sync_status",
-                                      "agent_utilization",
-                                      "experiment_results"
-                                  ],
-                      "update_interval":  "hourly"
-                  },
-    "paper_search":  {
-                         "sources":  [
-                                         {
-                                             "categories":  [
-                                                                "cs.NE",
-                                                                "cs.AI",
-                                                                "cs.MA",
-                                                                "cs.SI",
-                                                                "physics.soc-ph",
-                                                                "cs.NI",
-                                                                "cs.DC"
-                                                            ],
-                                             "name":  "arXiv",
-                                             "keywords":  [
-                                                              "emergent intelligence",
-                                                              "complex networks",
-                                                              "small-world",
-                                                              "scale-free"
-                                                          ],
-                                             "enabled":  true
-                                         },
-                                         {
-                                             "name":  "IEEE Xplore",
-                                             "keywords":  [
-                                                              "complex networks",
-                                                              "emergent intelligence",
-                                                              "topology optimization",
-                                                              "intelligent computing networks"
-                                                          ],
-                                             "enabled":  true
-                                         },
-                                         {
-                                             "name":  "ACM Digital Library",
-                                             "keywords":  [
-                                                              "intelligent computing networks",
-                                                              "topology",
-                                                              "flexible computing",
-                                                              "network intelligence"
-                                                          ],
-                                             "enabled":  true
-                                         },
-                                         {
-                                             "name":  "Nature/Science",
-                                             "keywords":  [
-                                                              "emergent intelligence",
-                                                              "complex systems",
-                                                              "network dynamics"
-                                                          ],
-                                             "enabled":  true
-                                         },
-                                         {
-                                             "name":  "CNKI (知网)",
-                                             "keywords":  [
-                                                              "复杂网络涌现智能",
-                                                              "智能算力网络",
-                                                              "拓扑优化",
-                                                              "高效计算",
-                                                              "灵活计算"
-                                                          ],
-                                             "enabled":  true
-                                         }
-                                     ],
-                         "daily_cron":  "09:00"
-                     },
-    "project":  "TCC-iNEST Research Platform",
-    "description":  "综合技术研究、专利撰写、论文撰写和工程代码开发平台",
-    "two_directions":  {
-                           "iNEST":  {
-                                         "tags":  [
-                                                      "edge",
-                                                      "networking",
-                                                      "intelligent",
-                                                      "distributed"
-                                                  ],
-                                         "name":  "iNEST - Intelligent Network Systems for Edge and Edge Computing",
-                                         "focus_areas":  [
-                                                             "Edge Computing",
-                                                             "Network Intelligence",
-                                                             "Distributed AI",
-                                                             "Topology Optimization",
-                                                             "Flexible Computing"
-                                                         ]
-                                     },
-                           "TCC":  {
-                                       "tags":  [
-                                                    "trust",
-                                                    "security",
-                                                    "cloud",
-                                                    "verifiable"
-                                                ],
-                                       "name":  "TCC - Trusted Computing Cloud",
-                                       "focus_areas":  [
-                                                           "Trusted Execution Environments",
-                                                           "Remote Attestation",
-                                                           "Cloud Security",
-                                                           "Hardware-rooted Trust",
-                                                           "Secure Multi-party Computation"
-                                                       ]
-                                   }
-                       },
-    "sync":  {
-                 "obsidian_path":  "D:/obsidian",
-                 "gitee_repo":  "https://gitee.com/iBrainNest/i-nest.git",
-                 "sync_interval_minutes":  30,
-                 "auto_pull_on_start":  true,
-                 "auto_push_on_change":  true,
-                 "gitee_branch":  "main"
-             }
+    "version": "2.0.0",
+    "project": "TCC x iNEST Research Platform",
+    "description": "拓扑中心计算 × 智能涌现网络 — 双轨研究平台",
+
+    "two_directions": {
+        "TCC": {
+            "name": "TCC — 拓扑中心计算 (Topological Center Computing)",
+            "focus_areas": [
+                "网络拓扑中心计算",
+                "集体通信原语生成",
+                "SDI化合键映射",
+                "元拓扑优化",
+                "物理拓扑映射 (PTM)"
+            ],
+            "tags": ["topology", "center-computing", "collective-communication", "network-primitives", "meta-topology", "SDI-bond"]
+        },
+        "iNEST": {
+            "name": "iNEST — 智能涌现网络系统 (Intelligent Network Emergence Systems)",
+            "focus_areas": [
+                "自组织临界态涌现",
+                "FEP-STDP协同机制",
+                "超非线性增益",
+                "类脑脉冲神经网络",
+                "晶上智能互连架构"
+            ],
+            "tags": ["emergence", "self-organization", "criticality", "FEP", "STDP", "neuromorphic", "spiking", "edge"]
+        }
+    },
+
+    "knowledge_graph": {
+        "storage": "neo4j",
+        "bidirectional_tags": true,
+        "tag_system": {
+            "direction": ["TCC", "iNEST"],
+            "category": ["paper", "concept", "method", "experiment"],
+            "priority": ["high", "medium", "low"],
+            "status": ["new", "reviewed", "integrated", "obsolete"]
+        },
+        "node_types": ["paper", "author", "concept", "method", "dataset", "experiment", "insight", "patent"],
+        "edge_types": ["cites", "builds_on", "contradicts", "related_to", "inspired_by", "applies_to"]
+    },
+
+    "dashboard": {
+        "metrics": ["papers_scraped", "papers_imported", "insights_generated", "patents_drafting", "papers_writing", "code_commits", "sync_status", "agent_utilization", "experiment_results"],
+        "update_interval": "hourly"
+    },
+
+    "paper_search": {
+        "daily_cron": "09:00",
+        "sources": [
+            {"name": "arXiv", "categories": ["cs.NE", "cs.AI", "cs.MA", "cs.SI", "physics.soc-ph", "cs.NI", "cs.DC"], "keywords": ["emergent intelligence", "complex networks", "small-world", "scale-free", "topological computing"], "enabled": true},
+            {"name": "IEEE Xplore", "keywords": ["network topology optimization", "collective communication", "emergent computing"], "enabled": true},
+            {"name": "ACM Digital Library", "keywords": ["topology", "flexible computing", "network intelligence", "center computing"], "enabled": true},
+            {"name": "Nature/Science", "keywords": ["emergent intelligence", "complex systems", "network dynamics"], "enabled": true},
+            {"name": "CNKI (知网)", "keywords": ["复杂网络涌现智能", "拓扑优化", "高效计算", "网络中心计算"], "enabled": true}
+        ]
+    },
+
+    "sync": {
+        "gitee_repo": "https://gitee.com/iBrainNest/i-nest.git",
+        "gitee_branch": "main",
+        "sync_interval_minutes": 30,
+        "auto_pull_on_start": true,
+        "auto_push_on_change": true
+    }
 }

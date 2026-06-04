@@ -1,133 +1,63 @@
-﻿# TCC-iNEST Research Platform
+﻿# TCC × iNEST 双轨研究平台
 
-> 综合技术研究、专利撰写、论文撰写和工程代码开发的综合平台
+> **TCC = 拓扑中心计算** (Topological Center Computing)  
+> **iNEST = 智能涌现网络系统** (Intelligent Network Emergence Systems & Topology)  
+> 中央仓库: https://gitee.com/iBrainNest/i-nest
 
-## 概述
+---
 
-本平台围绕 **TCC** (Trusted Computing Cloud) 和 **iNEST** (Intelligent Network Systems for Edge and Edge Computing) 两个研究方向，提供：
+## 两大研究方向
 
-- **论文抓取**: 每天自动从 arXiv、IEEE、ACM、知网等源搜索最新论文
-- **知识图谱**: 基于 Neo4j 的双向标签知识图谱，连接 TCC 和 iNEST 两个方向的研究
-- **灵感引擎**: 基于新导入论文自动生成研究灵感，指导论文、专利和代码开发
-- **看盘系统**: Web 看盘，跟踪每日进度，与 Office 协同工作
-- **双向同步**: Obsidian ↔ Gitee ↔ Genspark 自动同步
-- **技能管理**: Auto Research、Paper Writer、Patent Writer 等智能体技能
-- **自动验证**: 确定想法后自动进行验证、仿真、开发代码
+### TCC — 拓扑中心计算
+以网络拓扑为中心的计算范式。研究复杂网络拓扑结构对计算效率、通信原语和智能涌现的根本性影响。
 
-## 目录结构
+**核心命题**: 拓扑即计算 (Topology is Computation)
+**关键概念**: 元拓扑、SDI化合键、集体通信原语、物理拓扑映射、中心计算
+**标签**: `topology`, `center-computing`, `collective-communication`, `network-primitives`, `meta-topology`, `SDI-bond`
 
-`
-research_platform/
-├── config.json              # 平台配置
-├── main.py                  # 主调度器
-├── setup.py                 # 初始化脚本
-├── install_skills.py        # 技能安装
-├── requirements.txt         # Python 依赖
-├── start.bat               # Windows 启动脚本
-├── README.md               # 本文档
-├── papers/                 # 抓取的论文
-│   ├── TCC/               # TCC 方向论文
-│   └── iNEST/             # iNEST 方向论文
-├── knowledge_graph/        # 知识图谱数据
-│   └── neo4j_data/
-├── inspiration_engine/     # 灵感库
-├── dashboard/              # Web 看盘
-│   ├── index.html          # 主页面
-│   └── data.json           # 数据源
-├── code_generator/         # 代码生成器
-│   └── projects/
-├── auto_verify/            # 自动验证
-├── agent_skills/           # 智能体技能
-│   └── installed/
-├── reports/                # 进度报告
-├── scripts/                # 核心模块
-│   ├── paper_scraper.py
-│   ├── knowledge_graph.py
-│   ├── inspiration_engine.py
-│   ├── sync_manager.py
-│   ├── scheduler.py
-│   ├── progress_report.py
-│   ├── auto_verify.py
-│   ├── code_generator.py
-│   └── agent_skills.py
-└── logs/                   # 日志
-`
+### iNEST — 智能涌现网络系统
+物理复杂网络中的智能涌现机制。研究自组织临界态、FEP-STDP协同、超线性增益的工程实现。
 
-## 快速开始
+**核心命题**: 网络即智能 (Network is Intelligence)
+**关键概念**: 自组织临界态、FEP自由能原理、STDP脉冲时间依赖可塑性、超非线性增益、类脑计算
+**标签**: `emergence`, `self-organization`, `criticality`, `FEP`, `STDP`, `neuromorphic`, `spiking`
 
-### 1. 安装依赖
+---
 
-`ash
-pip install -r requirements.txt
-`
+## 仓库结构
 
-### 2. 初始化平台
+```
+i-nest/
+├── papers/                  # 论文库
+│   ├── iNEST/              # iNEST方向论文 (8篇)
+│   └── TCC/                # TCC方向论文
+├── iNEST_1_项目策划/        # iNEST项目策划
+├── iNEST_2_论文撰写/        # iNEST论文撰写 (13篇)
+├── iNEST_3_专利撰写/        # iNEST专利撰写 (7篇)
+├── iNEST_4_工程开发/        # iNEST工程代码 + FPGA
+├── TCC_1_项目策划/          # TCC项目策划 (海河实验室V8等)
+├── TCC_2_论文撰写/          # TCC论文撰写 (CST理论V27等)
+├── TCC_3_专利撰写/          # TCC专利撰写 (4篇)
+├── TCC_4_工程开发/          # TCC工程架构文档
+├── simulation/              # 仿真数据 (v9-v30)
+├── 03_Topics/               # 主题研究
+│   ├── TCC-SDI/            # TCC+SDI联合研究
+│   ├── Concepts-Theory/    # 理论概念
+│   └── ...
+├── knowledge_graph/         # 知识图谱
+├── scripts/                 # 同步脚本与工具
+└── dashboard/               # 仪表盘
+```
 
-`ash
-python setup.py
-`
+---
 
-### 3. 配置 Gitee
+## 同步协议
 
-编辑 config.json，设置你的 Gitee 仓库地址:
+三平台 (Obsidian / Genspark / Claw Computer) 通过 Gitee 同步：
+- 触发词: **"同步gitee"**
+- 策略: Pull-First → 分类提交 → Push
+- 文档: `scripts/GITEE_SYNC_PROTOCOL.md`
 
-`json
-"sync": {
-    "gitee_repo": "https://gitee.com/your-username/research-platform.git"
-}
-`
-
-### 4. 安装智能体技能
-
-`ash
-python install_skills.py
-`
-
-### 5. 启动看盘
-
-`ash
-start.bat
-# 选择 7. 启动看盘
-`
-
-或直接打开: dashboard/index.html
-
-### 6. 运行论文抓取
-
-`ash
-python main.py --paper-scrape
-`
-
-## 每日工作流
-
-1. **09:00** - 论文自动抓取 (cron)
-2. **10:00** - 灵感自动生成
-3. **每小时** - 知识图谱更新
-4. **每30分钟** - 数据同步
-5. **18:00** - 每日进度报告
-
-## 双向标签系统
-
-平台使用双向标签连接 TCC 和 iNEST 两个方向:
-
-- **TCC 标签**: trust, security, cloud, verifiable, enclave, attestation
-- **iNEST 标签**: edge, networking, intelligent, distributed, topology, scale-free
-
-每篇论文自动分类到对应方向，知识图谱中建立跨方向的连接。
-
-## 同步机制
-
-`
-Obsidian ←→ Gitee ←→ Genspark
-    ↑           ↑
-    └──→ Platform Sync Manager ←──┘
-`
-
-- **Obsidian → Gitee**: Obsidian 笔记自动同步到 Gitee
-- **Gitee → Obsidian**: 每次打开 Obsidian 时拉取最新版本
-- **Platform → Gitee**: 平台生成的论文、灵感、报告自动推送
-- **Gitee → Platform**: 平台启动时拉取最新代码和知识
-
-## License
-
-MIT
+## 版本历史
+- v2 (2026-06-05): 全面清理，TCC定义修正为"拓扑中心计算"
+- v1 (2026-06-03): 初始版本
