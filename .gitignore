@@ -46,3 +46,9 @@ desktop.ini
 *.rar
 *.zip
 *.tar.gz
+
+# Large binary data files
+*.mat
+*.rar
+*.zip
+*.tar.gz
