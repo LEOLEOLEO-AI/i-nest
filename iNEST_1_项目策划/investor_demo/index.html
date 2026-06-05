@@ -18,7 +18,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 .container{max-width:1200px;width:100%;position:relative;z-index:1;margin:0 auto}
 .hero-title{font-size:clamp(44px,7vw,88px);font-weight:800;letter-spacing:0.03em;line-height:1.08;margin-bottom:24px}
 .hero-title .hl{background:linear-gradient(135deg,var(--cyan),var(--violet));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
-.hero-sub{font-size:clamp(16px,2.5vw,24px);color:rgba(232,232,255,0.55);font-weight:300;letter-spacing:0.06em;margin-bottom:48px;max-width:700px;margin-left:auto;margin-right:auto}
+.hero-sub{font-size:clamp(14px,2vw,20px);color:rgba(232,232,255,0.55);font-weight:300;letter-spacing:0.06em;margin-bottom:48px;max-width:700px;margin-left:auto;margin-right:auto}
 .cyan{color:var(--cyan)}.violet{color:var(--violet)}.gold{color:var(--gold)}
 .section-tag{font-size:12px;text-transform:uppercase;letter-spacing:0.25em;color:var(--violet);margin-bottom:20px;font-weight:700;display:inline-block;padding:5px 14px;border:1px solid rgba(124,58,237,0.3);border-radius:20px}
 .section-heading{font-size:clamp(30px,4.5vw,52px);font-weight:700;margin-bottom:20px;line-height:1.15;text-align:left}
@@ -66,7 +66,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 .particle-bg{position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:0;overflow:hidden}
 .dot{position:absolute;border-radius:50%}
 .navbar{position:fixed;top:0;left:0;right:0;z-index:100;padding:20px 60px;display:flex;justify-content:space-between;align-items:center;background:linear-gradient(180deg,rgba(2,8,18,0.98),rgba(2,8,18,0))}
-.nav-logo{font-size:22px;font-weight:800;color:#ffffff;letter-spacing:0.1em;text-decoration:none}
+.nav-logo{display:flex;align-items:center;gap:10px;font-size:24px;font-weight:800;color:#ffffff;letter-spacing:0.1em;text-decoration:none}.logo-img{height:48px;width:auto;filter:drop-shadow(0 0 12px rgba(0,212,255,0.3))}
 .nav-links{display:flex;gap:28px}
 .nav-links a{color:var(--dim);text-decoration:none;font-size:12px;transition:all 0.3s;letter-spacing:0.06em;text-transform:uppercase}
 .nav-links a:hover,.nav-links a.active{color:var(--cyan)}
@@ -144,7 +144,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 <div class="particle-bg" id="particles"></div>
 
 <nav class="navbar">
-  <a href="#" class="nav-logo">iNEST</a>
+  <a href="#" class="nav-logo"><img src="logo.png" alt="iNEST" class="logo-img">iNEST</a>
   <div class="nav-links">
     <a href="#paradigm">范式</a>
     <a href="#theory">理论</a>
@@ -373,8 +373,8 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
         </p>
       </div>
     </div>
-  </div>
-</section>
+  
+
 
 
     <div class="card fade-up" style="margin-bottom:32px">
@@ -404,6 +404,10 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
         </p>
       </div>
     </div>
+    </div>
+  </section>
+
+
 
     
 
