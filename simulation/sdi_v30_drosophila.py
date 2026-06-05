@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """SDI v30 — Drosophila Multi-Region Connectome
 ==================================================
 Full Drosophila hemibrain connectome (~25K neurons) partitioned into

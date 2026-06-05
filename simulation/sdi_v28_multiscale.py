@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """SDI v28 — Full Key Indicators + Physical Meaning
 ======================================================
 Extended v27 to 7x scale (N up to 1953), tracking:

@@ -1,0 +1,12 @@
+{
+  "name": "Drosophila Larval CNS",
+  "N": 2952,
+  "sigma_i": 48.28,
+  "sigma_f": 24.3,
+  "alpha": -4.32,
+  "Cf": 0.1553,
+  "Lf": 2.94,
+  "el_final_pct": 10.0,
+  "time_s": 82.0,
+  "steps": 500
+}

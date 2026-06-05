@@ -1,16 +1,5 @@
-﻿#!/usr/bin/env python3
-"""SDI v25 — Physical First Principles + Biological Mechanisms
-================================================================
-Adds to v24:
-  1. BCM sliding threshold (Bienenstock-Cooper-Munro 1982)
-  2. Graded sigmoid FEP convergence (continuous, not binary)
-  3. Heterosynaptic competition (winner suppresses neighbors)
-  4. Per-neuron energy cap (metabolic constraint)
-  5. Minimum action feedback (dS/dt modulates consolidation rate)
-  6. EL self-stabilization (consolidation rate auto-decays at target)
-Results: sigma=5.35, EL=31.3%, F=0.011, BCM_theta=7.9
-"""
-# Based on: SDI v24
+#!/usr/bin/env python3
+"""SDI v25 — FEP-STDP Deep Fusion
 =================================
 Core innovation: FEP basin convergence signals embedded directly into
 plasticity decision rules (stdp_update + apply_rules), not as side modules.
@@ -29,8 +18,8 @@ warnings.filterwarnings("ignore")
 matplotlib.rcParams["font.family"] = "DejaVu Sans"
 np.random.seed(42)
 
-DATA_PATH = "D:/Obsidian/phase1_workspace/connectome_v8_data.json"
-OUT_DIR   = "v25_results"
+DATA_PATH = "connectome_v8_data.json"
+OUT_DIR = "v25_results"
 os.makedirs(OUT_DIR, exist_ok=True)
 
 # ============ v8 baseline parameters ============
@@ -74,18 +63,15 @@ FEP_RATE_ADAPTIVE = True     # v24.5: adaptive rate based on EL deviation
 FEP_RATE_MIN = 0.02          # Minimum consolidation rate
 FEP_RATE_MAX = 0.20          # Maximum consolidation rate
 FEP_RATE_ADJUST = 0.20       # Adjustment fraction per check
-FEP_CONSOLIDATE_MIN_WEIGHT = 0.05  # Minimum weight to be eligible
-# ============ v25: BCM + Biological mechanisms ============
-BCM_ETA = 0.08          # BCM sliding threshold learning rate
-BCM_THETA_MIN = 5.0     # Minimum BCM theta
-BCM_THETA_MAX = 15.0    # Maximum BCM theta
-BCM_WINDOW = 50         # History window for firing rate
-GRADED_CONV_SIGMA = 2.0 # Sigmoid steepness for graded convergence
-HETERO_SUPPRESS = 0.3   # Heterosynaptic suppression strength
-PER_NEURON_ENERGY = 3.0 # Per-neuron energy cap
-D_MIN_ACTION = 0.01     # Minimum action feedback strength
-EL_SELF_TARGET = 0.28   # Target EL for self-stabilization
-
+FEP_CONSOLIDATE_MIN_WEIGHT = 0.05
+# V25 additions: BCM sliding threshold + biological mechanisms
+BCM_ETA = 0.25
+BCM_THETA_MIN = 5.0
+BCM_THETA_MAX = 15.0
+GRADED_CONV_SIGMA = 2.0
+HETERO_SUPPRESS = 0.3
+PER_NEURON_ENERGY = 3.0
+  # Minimum weight to be eligible
 # Connectivity constraint
 MIN_OUT_DEG = 1            # Minimum out-degree before pruning considered
 

@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """SDI v30 — Drosophila Multi-Region (Extended)
 =================================================
 Extended Drosophila simulation with multi-region coupling

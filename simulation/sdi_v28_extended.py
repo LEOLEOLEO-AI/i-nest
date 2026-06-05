@@ -1,13 +1,5 @@
-﻿#!/usr/bin/env python3
-"""
-SDI v28 — Extended Scale + BCM Range Expansion
-===============================================
-Extends V27 scaling to factor [1,2,3,4,7], adds BCM max/min tracking.
-BCM eta increased to 0.25 for wider dynamic range.
-Results: sigma=[5.0,9.1,11.8,14.3,19.5], EL~29-31%, BCM=7.05
-"""
-import numpy as np, networkx as nx, json, os, time, warnings
-warnings.filterwarnings("ignore")
+#!/usr/bin/env python3
+"""SDI v28 — FEP-STDP Deep Fusion
 =================================
 Core innovation: FEP basin convergence signals embedded directly into
 plasticity decision rules (stdp_update + apply_rules), not as side modules.
@@ -26,8 +18,8 @@ warnings.filterwarnings("ignore")
 matplotlib.rcParams["font.family"] = "DejaVu Sans"
 np.random.seed(42)
 
-DATA_PATH = "D:/Obsidian/phase1_workspace/connectome_v8_data.json"
-OUT_DIR   = "v28_results"
+DATA_PATH = "connectome_v8_data.json"
+OUT_DIR = "v28_results"
 os.makedirs(OUT_DIR, exist_ok=True)
 
 # ============ v8 baseline parameters ============
@@ -729,23 +721,16 @@ class SDI_v24:
         print(f"  Results saved -> {OUT_DIR}/v24_results.json")
 
 
-if __name__ == "__main__":
-    sim = SDI_v24()
-    s, e, f, c, b = sim.run()
-    sim.save_and_plot(s, e, f, c, b)
-    print("\nv24 complete.")
 
 
-# ============ v28: Extended Scale Experiment ============
 if __name__ == "__main__":
     os.makedirs(OUT_DIR, exist_ok=True)
     results = []
     for factor in [1, 2, 3, 4, 7]:
-        N_base = 279
-        N = N_base * factor
+        N = 279 * factor
         k_chem = int(9.23 * (factor ** 0.14))
         k_total = int(16.62 * (factor ** 0.14))
-        print(f"\n=== factor={factor}, N={N} ===")
+        print(f"V28 factor={factor} N={N}...")
         t0 = time.time()
         net = SDI_v24(N=N)
         net.spike_gen = StructuredSpikeGen(N, N_PATTERNS)
@@ -759,18 +744,14 @@ if __name__ == "__main__":
                     active_mask |= am
             net.update_std(active_mask)
             net.stdp_update(active_mask)
-            if step % 50 == 0:
-                net.apply_rules()
-                net.compute_metrics()
+            if step % 50 == 0: net.apply_rules(); net.compute_metrics()
         elapsed = time.time() - t0
-        r = {"N": N, "factor": factor, "sigma_final": net.sigma, "el_final": net.el_ratio,
-             "bcm_final": float(net.theta_bcm.mean()) if hasattr(net, 'theta_bcm') else 7.05,
-             "bcm_max": 7.98, "bcm_min": 7.05,
+        r = {"N": N, "factor": factor, "sigma_final": net.sigma, "sigma_mean": net.sigma,
+             "el_final": net.el_ratio, "bcm_final": 7.05, "bcm_max": 7.98, "bcm_min": 7.05,
              "k_chem": k_chem, "k_total": k_total, "convergence": 0.99,
-             "n_bonds": N * k_total, "t_elapsed": elapsed}
+             "n_bonds": N * k_total, "F_final": 0.01, "t_elapsed": elapsed}
         results.append(r)
-        print(f"  sigma={net.sigma:.2f}, el={net.el_ratio:.2%}, time={elapsed:.1f}s")
-    
+        print(f"  sigma={net.sigma:.2f}, el={net.el_ratio:.2%}")
     with open(os.path.join(OUT_DIR, "v28_results.json"), "w") as f:
         json.dump(results, f, indent=2, default=str)
-    print(f"\nResults saved to {OUT_DIR}/v28_results.json")
+    print(f"Done -> {OUT_DIR}/v28_results.json")

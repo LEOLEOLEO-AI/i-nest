@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """SDI v24 — FEP-STDP Deep Fusion
 =================================
 Core innovation: FEP basin convergence signals embedded directly into
@@ -18,7 +18,7 @@ warnings.filterwarnings("ignore")
 matplotlib.rcParams["font.family"] = "DejaVu Sans"
 np.random.seed(42)
 
-DATA_PATH = "D:/Obsidian/phase1_workspace/connectome_v8_data.json"
+DATA_PATH = "connectome_v8_data.json"
 OUT_DIR   = "D:/Obsidian/phase1_workspace/v24_results"
 os.makedirs(OUT_DIR, exist_ok=True)
 

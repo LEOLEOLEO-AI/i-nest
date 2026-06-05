@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """SDI v25 — Physical-Biological BCM Consolidation
 ====================================================
 Adds BCM (Bienenstock-Cooper-Munro) sliding threshold to v24 FEP-STDP fusion.
