@@ -1,0 +1,61 @@
+{
+  "tasks": {
+    "phototaxis": {
+      "improvement": 0.49376273751388966,
+      "criterion": null,
+      "state": {
+        "mean_sigma": 3.2553497577615746,
+        "mean_el": 0.26365098024580785,
+        "cross_el": 12,
+        "cross_total": 62,
+        "cross_el_ratio": 0.1935483870967742
+      }
+    },
+    "chemotaxis": {
+      "improvement": 0.9841189617488956,
+      "criterion": null,
+      "state": {
+        "mean_sigma": 3.2553497577615746,
+        "mean_el": 0.26941676618400756,
+        "cross_el": 14,
+        "cross_total": 62,
+        "cross_el_ratio": 0.22580645161290322
+      }
+    },
+    "avoidance": {
+      "improvement": 4.295209439536394,
+      "criterion": 23,
+      "state": {
+        "mean_sigma": 3.2553497577615746,
+        "mean_el": 0.2701382669055083,
+        "cross_el": 14,
+        "cross_total": 62,
+        "cross_el_ratio": 0.22580645161290322
+      }
+    }
+  },
+  "meta_learning": {
+    "t1_criterion": null,
+    "t3_criterion": 23,
+    "speedup": 86.95652173913044
+  },
+  "generalization": {
+    "combo_score": 1.8845769099340999,
+    "reached_light": false,
+    "state": {
+      "mean_sigma": 3.2553497577615746,
+      "mean_el": 0.2701382669055083,
+      "cross_el": 14,
+      "cross_total": 62,
+      "cross_el_ratio": 0.22580645161290322
+    }
+  },
+  "judgment": {
+    "l6_all": false,
+    "l6_learning": "True",
+    "l6_meta": true,
+    "l6_generalize": "True",
+    "l6_sigma": false,
+    "l6_el": true
+  }
+}
