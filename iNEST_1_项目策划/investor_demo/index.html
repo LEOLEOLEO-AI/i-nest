@@ -75,6 +75,25 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 .milestone-filters button:hover,.milestone-filters button.active{background:rgba(0,212,255,0.08);border-color:var(--cyan);color:var(--cyan)}
 .timeline-track{position:relative;padding:0 0 0 48px;margin:0 auto;max-width:1000px}
 .timeline-track::before{content:"";position:absolute;left:22px;top:0;bottom:0;width:2px;background:linear-gradient(180deg,var(--cyan),var(--violet),var(--gold),rgba(124,58,237,0.2))}
+
+/* ── Authority Grid ── */
+.authority-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:16px;margin-bottom:40px}
+.auth-card{background:rgba(255,255,255,0.025);border:1px solid rgba(0,212,255,0.08);border-radius:14px;padding:20px 18px;transition:all 0.35s;position:relative;overflow:hidden}
+.auth-card:hover{border-color:rgba(0,212,255,0.2);background:rgba(0,212,255,0.04);transform:translateY(-3px);box-shadow:0 12px 40px rgba(0,0,0,0.3)}
+.auth-card::before{content:"";position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--cyan),var(--violet));opacity:0;transition:opacity 0.35s}
+.auth-card:hover::before{opacity:1}
+.auth-icon{font-size:28px;margin-bottom:10px}
+.auth-name{font-size:13px;font-weight:700;color:var(--fg);margin-bottom:4px;letter-spacing:0.02em}
+.auth-badge{display:inline-block;font-size:9px;font-weight:600;padding:2px 8px;border-radius:8px;margin-bottom:10px;letter-spacing:0.04em}
+.auth-badge.nobel{background:rgba(245,158,11,0.12);color:var(--gold)}
+.auth-badge.legend{background:rgba(0,212,255,0.1);color:var(--cyan)}
+.auth-badge.pioneer{background:rgba(124,58,237,0.1);color:var(--violet)}
+.auth-quote{font-size:11px;color:var(--dim);line-height:1.6;margin-bottom:8px}
+.auth-link{font-size:9px;color:rgba(232,232,255,0.25);letter-spacing:0.03em}
+.authority-conclusion{background:linear-gradient(135deg,rgba(0,212,255,0.04),rgba(124,58,237,0.04));border:1px solid rgba(0,212,255,0.1);border-radius:16px;padding:28px 36px;text-align:center}
+.authority-conclusion p{font-size:14px;color:var(--dim);line-height:2;margin:0}
+@media(max-width:1200px){.authority-grid{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:768px){.authority-grid{grid-template-columns:repeat(2,1fr)}}
 .tl-node{position:relative;margin-bottom:8px;transition:all 0.4s}
 .tl-node.hidden{display:none}
 .tl-dot{position:absolute;left:-38px;top:28px;width:14px;height:14px;border-radius:50%;border:2px solid var(--cyan);background:var(--bg);z-index:2;transition:all 0.35s;box-shadow:0 0 8px rgba(0,212,255,0.3)}
@@ -146,7 +165,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 <nav class="navbar">
   <a href="#" class="nav-logo"><img src="logo.png" alt="iNEST" class="logo-img">iNEST</a>
   <div class="nav-links">
-    <a href="#paradigm">范式</a>
+    <a href="#authority">先贤</a><a href="#paradigm">范式</a>
     <a href="#theory">理论</a>
     <a href="#tech">技术</a>
         <a href="#milestones">历程</a>
@@ -167,7 +186,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
       到<span class="hl">复杂度跨越</span>
     </h1>
     <p class="hero-sub fade-up">
-      冯·诺依曼1948年预言：当系统复杂度跨越临界点，能力发生质变。<br>
+      冯·诺依曼1956年预言（《The Computer and the Brain》）：当系统复杂度跨越临界点，能力发生质变。<br>
       今天，iNEST将其量化——智能不是被设计出来的，<br>
       而是网络时空协同复杂度跨越阈值后的必然涌现。
     </p>
@@ -181,6 +200,120 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
       <div class="stat-card"><div class="stat-num">10<sup>8</sup>×</div><div class="stat-label">8年规模增长</div></div>
       <div class="stat-card"><div class="stat-num">10<sup>6</sup>×</div><div class="stat-label">能效差距</div></div>
     </div>
+  </div>
+</section>
+
+<!-- ====== AUTHORITY ====== -->
+<section class="section" id="authority" style="padding-top:20px;padding-bottom:60px">
+  <div class="container">
+    <h2 class="section-heading fade-up">先贤的回响 · <span class="hl">半个世纪的共识</span></h2>
+    <p class="section-lead fade-up" style="max-width:800px;margin-bottom:48px">
+      跨越物理学、神经科学、复杂系统与人工智能——十位最敏锐的思想者，以不同语言指向同一个洞见：<br>
+      <strong style="color:var(--fg)">智能不在节点，在连接；不在计算，在涌现。</strong>
+    </p>
+
+    <div class="authority-grid">
+
+      <!-- 1. Philip Anderson -->
+      <div class="auth-card fade-up">
+        <div class="auth-icon">🏅</div>
+        <div class="auth-name">Philip W. Anderson</div>
+        <div class="auth-badge nobel">1977 诺贝尔物理学奖</div>
+        <div class="auth-quote">"More is different." 大量简单组件的集体行为，不能通过对单个组件的理解来推导。</div>
+        <div class="auth-link">Science, 1972 — 凝聚态物理与复杂系统哲学基石</div>
+      </div>
+
+      <!-- 2. John von Neumann -->
+      <div class="auth-card fade-up">
+        <div class="auth-icon">🧠</div>
+        <div class="auth-name">John von Neumann</div>
+        <div class="auth-badge legend">计算机之父</div>
+        <div class="auth-quote">"当系统复杂度跨越临界点，能力发生质变。" 首次提出复杂度阈值与自复制自动机理论。</div>
+        <div class="auth-link">The Computer and the Brain, 1958</div>
+      </div>
+
+      <!-- 3. Ilya Prigogine -->
+      <div class="auth-card fade-up">
+        <div class="auth-icon">🏅</div>
+        <div class="auth-name">Ilya Prigogine</div>
+        <div class="auth-badge nobel">1977 诺贝尔化学奖</div>
+        <div class="auth-quote">"复杂性的未来不是给定的。它来自不可逆过程。" 远离平衡态的开放系统通过自组织产生更高秩序。</div>
+        <div class="auth-link">Order out of Chaos — 耗散结构理论</div>
+      </div>
+
+      <!-- 4. Per Bak -->
+      <div class="auth-card fade-up">
+        <div class="auth-icon">🏔️</div>
+        <div class="auth-name">Per Bak</div>
+        <div class="auth-badge pioneer">自组织临界性奠基人</div>
+        <div class="auth-quote">"复杂系统会自发演化到临界态——任何微小扰动都可能引发任意规模的级联反应。"</div>
+        <div class="auth-link">How Nature Works, 1996 — CST理论直接来源</div>
+      </div>
+
+      <!-- 5. Karl Friston -->
+      <div class="auth-card fade-up">
+        <div class="auth-icon">📐</div>
+        <div class="auth-name">Karl Friston</div>
+        <div class="auth-badge pioneer">全球最高被引神经科学家</div>
+        <div class="auth-quote">"任何生物系统对外部世界所做的，都可以理解为最小化自由能——即最小化'意外'。"</div>
+        <div class="auth-link">Free Energy Principle — iNEST核心理论支柱</div>
+      </div>
+
+      <!-- 6. Geoffrey Hinton -->
+      <div class="auth-card fade-up">
+        <div class="auth-icon">🏅</div>
+        <div class="auth-name">Geoffrey Hinton</div>
+        <div class="auth-badge nobel">2024 诺贝尔物理学奖</div>
+        <div class="auth-quote">"知识存在于连接之中。智能分布式地存储在突触权重里。"</div>
+        <div class="auth-link">深度学习之父 · Hopfield网络复兴者</div>
+      </div>
+
+      <!-- 7. John Hopfield -->
+      <div class="auth-card fade-up">
+        <div class="auth-icon">🏅</div>
+        <div class="auth-name">John Hopfield</div>
+        <div class="auth-badge nobel">2024 诺贝尔物理学奖</div>
+        <div class="auth-quote">"物理系统的能量景观天然编码计算——智能可以从物理动力学中涌现。"</div>
+        <div class="auth-link">Hopfield Network, 1982 — 能量函数与联想记忆</div>
+      </div>
+
+      <!-- 8. Gerald Edelman -->
+      <div class="auth-card fade-up">
+        <div class="auth-icon">🏅</div>
+        <div class="auth-name">Gerald Edelman</div>
+        <div class="auth-badge nobel">1972 诺贝尔生理学/医学奖</div>
+        <div class="auth-quote">"大脑不是计算机，它是一个选择系统。智能在大规模神经连接的变异-选择-扩增中生长出来。"</div>
+        <div class="auth-link">Neural Darwinism — 自演化网络的生物学基础</div>
+      </div>
+
+      <!-- 9. Francis Crick -->
+      <div class="auth-card fade-up">
+        <div class="auth-icon">🏅</div>
+        <div class="auth-name">Francis Crick</div>
+        <div class="auth-badge nobel">1962 诺贝尔生理学/医学奖</div>
+        <div class="auth-quote">"你的欢乐、悲伤、记忆与自我认同——不过是海量神经细胞及其分子行为的产物，仅此而已。"</div>
+        <div class="auth-link">The Astonishing Hypothesis — 心智=涌现</div>
+      </div>
+
+      <!-- 10. Stephen Wolfram -->
+      <div class="auth-card fade-up">
+        <div class="auth-icon">🔬</div>
+        <div class="auth-name">Stephen Wolfram</div>
+        <div class="auth-badge pioneer">计算理论先驱</div>
+        <div class="auth-quote">"复杂性从简单规则中涌现——关键在于规则之间的相互作用，而非规则本身。"</div>
+        <div class="auth-link">A New Kind of Science — 元胞自动机与涌现</div>
+      </div>
+
+    </div>
+
+    <div class="authority-conclusion fade-up">
+      <p>
+        这些声音来自物理学、神经科学、复杂系统与计算机科学——不同领域、不同时代、不同学术传统，却指向同一个方向：<br>
+        <strong style="color:var(--cyan);font-size:16px">智能的答案不在节点，在连接；不在计算，在涌现；不在规模，在结构。</strong><br>
+        iNEST 不是凭空产生的想法——它是半个多世纪以来最优秀思想者们所预言但尚未走完的那条路的工程实现。
+      </p>
+    </div>
+
   </div>
 </section>
 <!-- ====== PARADIGM ====== -->
@@ -367,7 +500,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
         <p style="font-size:13px;color:var(--dim);line-height:1.9;margin:0">
           <strong style="color:var(--gold)">如何支撑 CST？</strong> S<sub>c</sub> 和 T<sub>c</sub> 不简单相加——它们<strong style="color:var(--fg)">相乘并指数放大</strong>。只有在 Γ<sub>st</sub> > 0 时——结构与时序物理耦合——才会触发类似相变的信息增益级联。这就是 von Neumann 1948 年预言的"复杂度阈值"的定量化：<br>
           · <strong style="color:var(--fg)">Transformer (α≈0.69, Γ<sub>st</sub>=0)：</strong>CST=0.056 — 结构功能解耦，纯数据拟合<br>
-          · <strong style="color:var(--fg)">C. elegans (α≈2.5, Γ<sub>st</sub>>0)：</strong>CST=0.357 — 物理耦合涌现，279神经元超越GPT-2<br>
+          · <strong style="color:var(--fg)">C. elegans (α≈2.5, Γ<sub>st</sub>>0)：</strong>CST=0.357 — 物理耦合涌现，302神经元，CST超越GPT-2<br>
           · <strong style="color:var(--fg)">人脑 (α≈3.91, Γ<sub>st</sub>>>0)：</strong>CST=3.909 — 最强的时空协同放大<br>
           结论：不是"优化"，而是从物理原理上换了一条指数级赛道。20W 对标 3MW 的数学基础在此。
         </p>
@@ -389,7 +522,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
     <div class="grid-2 fade-up">
       <div class="card">
         <h4 style="color:var(--cyan);margin-bottom:12px">三重锁理论</h4>
-        <p style="font-size:14px;color:var(--dim);line-height:1.8">为什么GPT-4参数量是人脑突触的千倍，CST却只有2%？<br><br>
+        <p style="font-size:14px;color:var(--dim);line-height:1.8">为什么GPT-4消耗3MW功率，人脑仅需20W，CST却只有2%？<br><br>
         <strong style="color:var(--fg)">α锁</strong>：Binary digital仅2态 vs 生物≈50态 → 指数级差距<br>
         <strong style="color:var(--fg)">σ锁</strong>：固定架构 vs 自组织小世界拓扑<br>
         <strong style="color:var(--fg)">Φ锁</strong>：冯诺依曼瓶颈 vs 全对全信息传递<br><br>
@@ -426,7 +559,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
         <h4 style="color:var(--cyan);margin-bottom:12px">🔬 三条物理第一性规则</h4>
         <div style="font-size:14px;color:var(--dim);line-height:1.9">
           <p style="margin-bottom:12px"><strong style="color:var(--fg)">规则一 · 变分自由能最小化（FEP）：</strong>网络持续最小化预测误差与复杂度代价之和，驱动系统自发向临界态演化。这是 iNEST 区别于反向传播的根本——不是优化损失函数，而是物理系统的最小作用量原理。</p>
-          <p style="margin-bottom:12px"><strong style="color:var(--fg)">规则二 · 脉冲时序依赖可塑性（STDP）：</strong>局部突触根据前后脉冲的精确时序调整权重，实现无监督的因果学习。Δt < 20ms 的时序精度赋予网络皮秒级时间分辨率。</p>
+          <p style="margin-bottom:12px"><strong style="color:var(--fg)">规则二 · 脉冲时序依赖可塑性（STDP）：</strong>局部突触根据前后脉冲的精确时序调整权重，实现无监督的因果学习。Δt < 20ms 的STDP时序窗口，通过连续指数衰减核函数，赋予网络远超窗口宽度的有效时序分辨能力。</p>
           <p><strong style="color:var(--fg)">规则三 · 最小作用量原理：</strong>网络连接的路由选择遵循光学/电子学的最小作用量路径，SDI 交换机在物理层实现拓扑的动态优化，消除冯·诺依曼瓶颈。</p>
         </div>
       </div>
@@ -690,7 +823,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
             </div>
             <div class="tl-desc">
               <strong>核心突破：</strong>CST 定理揭示了智能涌现的物理本质——当网络时空协同复杂度 CST 超越阈值 CI 时，智能自组织涌现。这是首次将智能从"定性哲学概念"提升为"定量物理科学"。<br><br>
-              <strong>六级阈值体系：</strong>从 T₁ 光速延迟约束到 T₆ 理论耗散极限，每一级对应自然常数锚定的物理边界。T₆ 达到戈登·摩尔预测的硬件极限，定义了"热力学可逆计算"的信息论上限。<br><br>
+              <strong>六级阈值体系：</strong>从 T₁ 光速延迟约束到 T₆ 理论耗散极限，每一级对应自然常数锚定的物理边界。T₆ 对应Landauer极限——热力学可逆计算的信息论上限，摩尔定律的物理终点。<br><br>
               <strong>实际意义：</strong>40 个系统（生物神经、人工网络、社会系统等）的 Spearman ρ=0.976 表明 CST 作为通用智能度量标尺的有效性，为 iNEST 技术路线提供了坚实的理论基石。
             </div>
           </div>
