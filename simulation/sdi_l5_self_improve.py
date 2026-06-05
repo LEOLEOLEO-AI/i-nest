@@ -23,7 +23,7 @@ import networkx as nx
 TAU_STDP = 20
 ETA_LTP = 0.010; ETA_LTD = 0.008
 Ea_S, Ea_L = 0.15, 0.85
-T_DECAY = 25000; T_ABS = 3; T_REL = 8; REL_SCALE = 0.3
+T_DECAY = 100000; T_ABS = 3; T_REL = 8; REL_SCALE = 0.3  # Extended decay for long runs
 SCALING_THR = 0.35; SCALING_RATE = 0.12; SCALING_INT = 15
 GLIA_THR = 0.45; GLIA_RATE = 0.25; GLIA_INT = 50
 NOISE = 0.02
@@ -39,7 +39,7 @@ T_THETA_MIN, T_THETA_MAX = 5, 50
 class SelfAdaptingBrain:
     """Brain with self-tuning hyperparameters driven by FEP feedback."""
 
-    def __init__(self, name, N=100, p_connect=0.16):
+    def __init__(self, name, N=100, p_connect=0.20):
         self.name = name
         self.N = N
 
@@ -143,10 +143,10 @@ class SelfAdaptingBrain:
         # Structured spontaneous bursts (retinal waves; Meister et al. 1991).
         # Every ~25 steps, a correlated burst activates ~30% of sensory neurons,
         # creating temporally-structured pre-post pairs that drive E-L formation.
-        if step_num % 15 == 0:
+        if step_num % 10 == 0:
             burst_n = max(3, int(self.sensory_N * 0.30))
             burst_neurons = np.random.choice(self.sensory_N, burst_n, replace=False)
-            self.V[burst_neurons] += 2.0  # Strong depolarization for burst
+            self.V[burst_neurons] += 3.0  # Strong burst depolarization
 
         active = self.spike.copy()
         for b in range(self.n_bonds):
@@ -228,8 +228,8 @@ class SelfAdaptingBrain:
         self.theta_bcm += eta * h**2 * (h - self.theta_bcm)
         # Homeostatic plasticity: silent neurons lower threshold (Turrigiano 1998)
         silent = h < 0.005
-        self.theta_bcm[silent] *= 0.95
-        self.theta_bcm = np.clip(self.theta_bcm, 2.0, 15.0)
+        self.theta_bcm[silent] *= 0.92  # Faster homeostatic decay
+        self.theta_bcm = np.clip(self.theta_bcm, 1.5, 15.0)
 
     def _adapt_params(self, step):
         """Self-adapt hyperparameters based on FEP feedback."""

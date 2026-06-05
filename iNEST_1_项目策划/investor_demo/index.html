@@ -21,7 +21,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 .hero-sub{font-size:clamp(16px,2.5vw,24px);color:rgba(232,232,255,0.55);font-weight:300;letter-spacing:0.06em;margin-bottom:48px;max-width:700px;margin-left:auto;margin-right:auto}
 .cyan{color:var(--cyan)}.violet{color:var(--violet)}.gold{color:var(--gold)}
 .section-tag{font-size:12px;text-transform:uppercase;letter-spacing:0.25em;color:var(--violet);margin-bottom:20px;font-weight:700;display:inline-block;padding:5px 14px;border:1px solid rgba(124,58,237,0.3);border-radius:20px}
-.section-heading{font-size:clamp(30px,4.5vw,52px);font-weight:700;margin-bottom:20px;line-height:1.15}
+.section-heading{font-size:clamp(30px,4.5vw,52px);font-weight:700;margin-bottom:20px;line-height:1.15;text-align:left}
 .section-heading .hl{background:linear-gradient(135deg,var(--cyan),var(--violet));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
 .section-lead{font-size:18px;line-height:1.9;color:var(--dim);max-width:680px;margin-bottom:32px}
 .card{background:rgba(255,255,255,0.025);border:1px solid var(--border);border-radius:20px;padding:40px;backdrop-filter:blur(8px);transition:all 0.35s}
@@ -101,6 +101,9 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 .tl-tag.tag-code{background:rgba(245,158,11,0.1);color:var(--gold)}
 .tl-tag.tag-eng{background:rgba(0,200,100,0.12);color:#0c8}
 
+.tl-detail{max-height:0;overflow:hidden;transition:max-height 0.5s cubic-bezier(0.4,0,0.2,1),margin 0.4s,padding 0.4s}
+.tl-node.expanded .tl-detail{max-height:8000px;overflow:visible;margin-top:14px;padding-top:14px;padding-bottom:24px;border-top:1px solid rgba(0,212,255,0.12)}
+.tl-node:not(.expanded) .tl-detail{max-height:0;overflow:hidden;margin-top:0;padding-top:0;padding-bottom:0;border-top:none}
 .tl-metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin:12px 0}
 .tl-metric{background:rgba(0,0,0,0.3);border-radius:10px;padding:12px;text-align:center}
 .tl-metric-val{font-size:24px;font-weight:700;color:var(--cyan);font-family:"Courier New",monospace;line-height:1.2}
@@ -146,7 +149,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
     <a href="#paradigm">范式</a>
     <a href="#theory">理论</a>
     <a href="#tech">技术</a>
-        <a href="#milestones">研发历程</a>
+        <a href="#milestones">历程</a>
 <a href="#engineering">工程</a>
     <a href="#ecosystem">生态</a>
   </div>
@@ -155,11 +158,8 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 <!-- ====== HERO ====== -->
 <section class="section-hero" id="hero">
   <div class="container">
-    <div class="fade-up" style="margin-bottom:20px">
-      <div style="display:inline-flex;align-items:center;gap:8px;background:linear-gradient(135deg,rgba(0,212,255,0.12),rgba(124,58,237,0.12));border:1px solid rgba(0,212,255,0.2);border-radius:40px;padding:6px 20px">
-        <div style="width:28px;height:28px;background:linear-gradient(135deg,var(--cyan),var(--violet));border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:800;color:#fff;letter-spacing:0.05em">iN</div>
-        <span style="font-size:13px;letter-spacing:0.15em;color:var(--dim);font-weight:500">iNEST · 网络时空协同智能涌现</span>
-      </div>
+    <div class="fade-up" style="margin-bottom:24px">
+      <img src="logo.png" alt="iNEST" style="height:48px;filter:drop-shadow(0 0 24px rgba(0,212,255,0.3))" onerror="this.style.display='none'">
     </div>
     <p class="section-tag fade-up">CST 阈值定理 · 六级涌现标尺</p>
     <h1 class="hero-title fade-up">
@@ -191,7 +191,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
     <div class="two-col" style="margin-top:40px">
       <div>
         <p class="section-lead fade-up">
-          1948年，冯·诺依曼指出：大脑不是数字计算机，而是"复杂度放大器"——智能源于约860亿神经元组成的动态网络，而非单个神经元的计算精度。今天，iNEST以<strong>CST定理</strong>将这一定性洞察落地为可量化的数学框架。
+          <span style="font-size:15px;line-height:1.8">1948年，冯·诺依曼预言：当系统复杂度跨越临界点，能力发生质变。今天，iNEST将其量化——<strong style="color:var(--fg)">智能不是被设计出来的，而是网络时空协同复杂度跨越阈值后的必然涌现</strong>。</span>
         </p>
         <p class="section-lead fade-up">
           这不是在优化既有路线，而是在开辟全新赛道。传统AI陷入"算力军备竞赛"——以指数级能耗换取线性智能增长；iNEST另辟蹊径，通过<strong>网络时空协同复杂度的指数放大</strong>，实现"四两拨千斤"的智能跃迁。这是库恩意义上的科学革命。
@@ -262,13 +262,43 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
         </div>
       </div>
 
-      <div style="background:rgba(0,0,0,0.3);border-radius:12px;padding:18px 22px">
+      <div style="background:rgba(0,0,0,0.3);border-radius:12px;padding:24px 22px;margin-top:4px">
+        <p style="font-size:14px;color:var(--cyan);font-weight:700;margin-bottom:16px;text-align:center">iNEST 的世界模型 = FEP 自由能景观本身</p>
+        
+        <!-- Visual: Hopfield energy landscape + Mandelbrot + SOC -->
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px;margin-bottom:20px">
+          <div style="background:rgba(0,212,255,0.04);border:1px solid rgba(0,212,255,0.12);border-radius:12px;padding:18px;text-align:center">
+            <div style="font-size:36px;margin-bottom:10px">🏔️</div>
+            <div style="font-size:13px;font-weight:700;color:var(--fg);margin-bottom:6px">自由能景观</div>
+            <div style="font-size:11px;color:var(--dim);line-height:1.7">
+              辛顿与霍普菲尔德<br>诺贝尔奖核心思想<br>
+              网络状态像小球在<br>能量景观中滑落<br>
+              自动收敛到吸引子盆地
+            </div>
+          </div>
+          <div style="background:rgba(124,58,237,0.04);border:1px solid rgba(124,58,237,0.12);border-radius:12px;padding:18px;text-align:center">
+            <div style="font-size:36px;margin-bottom:10px">🌀</div>
+            <div style="font-size:13px;font-weight:700;color:var(--fg);margin-bottom:6px">自组织临界态</div>
+            <div style="font-size:11px;color:var(--dim);line-height:1.7">
+              曼德勃罗分形结构<br>跨尺度自相似性<br>
+              网络自发组织到<br>临界点——混沌边缘<br>
+              信息处理能力最大化
+            </div>
+          </div>
+          <div style="background:rgba(249,115,22,0.04);border:1px solid rgba(249,115,22,0.12);border-radius:12px;padding:18px;text-align:center">
+            <div style="font-size:36px;margin-bottom:10px">⚡</div>
+            <div style="font-size:13px;font-weight:700;color:var(--fg);margin-bottom:6px">最小作用量</div>
+            <div style="font-size:11px;color:var(--dim);line-height:1.7">
+              费马原理的推广<br>
+              网络路径选择遵循<br>物理最小作用量<br>
+              无需中央控制器<br>
+              涌现即最优解
+            </div>
+          </div>
+        </div>
+        
         <p style="font-size:13px;color:var(--dim);line-height:1.9;margin:0">
-          <strong style="color:var(--cyan)">iNEST 的世界模型 = FEP 自由能景观本身。</strong><br>
-          与 JEPA 在隐空间预测不同，iNEST 的"世界模型"不是显式训练的——它是网络通过最小化变分自由能（F = 预测误差 + 复杂度代价）<strong style="color:var(--fg)">自发形成的临界态吸引子结构</strong>。<br>
-          E-L 长时程键编码环境的稳定因果结构（等价于 JEPA 的隐空间表征），E-S 短时程键捕获动态变化（等价于预测误差梯度），BCM 滑动阈值实现自适应（等价于能量函数的动态调节）。<br>
-          <strong style="color:var(--gold)">关键区别：</strong>JEPA 需要设计能量函数和层级结构——iNEST 的"能量函数"是物理的（忆阻器的活化能 Ea），"层级结构"是涌现的（SDI 键型状态机自组织）。<br>
-          <strong style="color:var(--cyan)">iNEST 的模型表征：</strong>I = CST = (Sc·Tc)·e^(α·Γst)——智能即物理系统内在的时空协同复杂度。不需要"建立"模型，只需要创造让智能涌现的物理条件。
+          <strong style="color:var(--gold)">颠覆性在于：</strong>JEPA 需要人为设计能量函数和层级结构——iNEST 不需要"建立"模型。<strong style="color:var(--cyan)">iNEST 的"能量函数"是物理的</strong>（忆阻器的活化能 Ea），<strong style="color:var(--cyan)">"层级结构"是涌现的</strong>（SDI 键型状态机自组织），<strong style="color:var(--cyan)">"世界模型"是自由能景观上的自然吸引子</strong>。就像小球在重力作用下自动滑向最低点，网络在变分自由能驱动下自动收敛到临界态——不需要编程，只需要创造让智能涌现的物理条件。
         </p>
       </div>
     </div>
@@ -283,35 +313,8 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
     <p class="section-lead fade-up">
       通过热力学相变理论、重整化群和复杂网络科学，iNEST推导出六个普适阈值，分别对应六大自然常数——它们不是人为选择，而是对称性破缺的数学必然。
     </p>
-    <div class="card fade-up" style="margin-bottom:32px">
-      <div class="threshold-row"><div class="threshold-icon">Ⅰ</div><div class="threshold-name">感知</div><div class="threshold-const">1/√2 ≈ 0.707</div><div class="threshold-bar"><div class="threshold-fill tf-1"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">量子不确定性 · 最小SNR</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">细菌</div></div>
-      <div class="threshold-row"><div class="threshold-icon">Ⅱ</div><div class="threshold-name">反应</div><div class="threshold-const">1.000</div><div class="threshold-bar"><div class="threshold-fill tf-2"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">热力学平衡 · 复杂度匹配</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">线虫(302神经元)</div></div>
-      <div class="threshold-row"><div class="threshold-icon">Ⅲ</div><div class="threshold-name">适应</div><div class="threshold-const">φ ≈ 1.618</div><div class="threshold-bar"><div class="threshold-fill tf-3"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">黄金分割 · 资源最优分配</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">章鱼</div></div>
-      <div class="threshold-row"><div class="threshold-icon">Ⅳ</div><div class="threshold-name">创造</div><div class="threshold-const">e ≈ 2.718</div><div class="threshold-bar"><div class="threshold-fill tf-4"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">信息生成上界 · Landauer原理</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">乌鸦/AlphaGo</div></div>
-      <div class="threshold-row"><div class="threshold-icon">Ⅴ</div><div class="threshold-name">通用</div><div class="threshold-const">π ≈ 3.1416</div><div class="threshold-bar"><div class="threshold-fill tf-5"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">多周期整合 · Kuramoto临界</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">人类</div></div>
-      <div class="threshold-row"><div class="threshold-icon">Ⅵ</div><div class="threshold-name">超级</div><div class="threshold-const">δ ≈ 4.669</div><div class="threshold-bar"><div class="threshold-fill tf-6"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">费根鲍姆常数 · 混沌边缘</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">理论预测</div>
-    </div>
-    </div>
-    <div class="grid-2 fade-up">
-      <div class="card">
-        <h4 style="color:var(--cyan);margin-bottom:12px">三重锁理论</h4>
-        <p style="font-size:14px;color:var(--dim);line-height:1.8">为什么GPT-4参数量是人脑突触的千倍，CST却只有2%？<br><br>
-        <strong style="color:var(--fg)">α锁</strong>：Binary digital仅2态 vs 生物≈50态 → 指数级差距<br>
-        <strong style="color:var(--fg)">σ锁</strong>：固定架构 vs 自组织小世界拓扑<br>
-        <strong style="color:var(--fg)">Φ锁</strong>：冯诺依曼瓶颈 vs 全对全信息传递<br><br>
-        三把锁不打开，参数再多也无济于事。</p>
-      </div>
-      <div class="card">
-        <h4 style="color:var(--cyan);margin-bottom:12px">跨域验证</h4>
-        <p style="font-size:14px;color:var(--dim);line-height:1.8">
-          40个生物与人工系统验证，涵盖8个分类等级、18种ANN/NMH架构家族。<br><br>
-          <strong style="color:var(--fg)">Spearman ρ = 0.976</strong>，UCCP归一化下100%分类准确。<br><br>
-          神经形态硬件（Intel Loihi-2）被独立分类，验证了α屏障预测——证明物理基底的改变是跨越智能能级的必要条件。
-        </p>
-      </div>
-    </div>
 
-    <!-- ── CST 公式详解 ── -->
+<!-- ── CST 公式详解 ── -->
     <div class="card fade-up" style="margin-top:28px;background:rgba(0,0,0,0.3);border:1px solid rgba(0,212,255,0.2)">
       <h4 style="color:var(--cyan);margin-bottom:16px;text-align:center;font-size:16px">📐 CST 智能度量公式 · 构成要素详解</h4>
       <div class="formula-box" style="padding:24px;margin-bottom:20px;text-align:center">
@@ -364,7 +367,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
         <p style="font-size:13px;color:var(--dim);line-height:1.9;margin:0">
           <strong style="color:var(--gold)">如何支撑 CST？</strong> S<sub>c</sub> 和 T<sub>c</sub> 不简单相加——它们<strong style="color:var(--fg)">相乘并指数放大</strong>。只有在 Γ<sub>st</sub> > 0 时——结构与时序物理耦合——才会触发类似相变的信息增益级联。这就是 von Neumann 1948 年预言的"复杂度阈值"的定量化：<br>
           · <strong style="color:var(--fg)">Transformer (α≈0.69, Γ<sub>st</sub>=0)：</strong>CST=0.056 — 结构功能解耦，纯数据拟合<br>
-          · <strong style="color:var(--fg)">C. elegans (α≈3.91, Γ<sub>st</sub>>0)：</strong>CST=0.357 — 物理耦合涌现，279神经元超越GPT-2<br>
+          · <strong style="color:var(--fg)">C. elegans (α≈2.5, Γ<sub>st</sub>>0)：</strong>CST=0.357 — 物理耦合涌现，279神经元超越GPT-2<br>
           · <strong style="color:var(--fg)">人脑 (α≈3.91, Γ<sub>st</sub>>>0)：</strong>CST=3.909 — 最强的时空协同放大<br>
           结论：不是"优化"，而是从物理原理上换了一条指数级赛道。20W 对标 3MW 的数学基础在此。
         </p>
@@ -372,6 +375,37 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
     </div>
   </div>
 </section>
+
+
+    <div class="card fade-up" style="margin-bottom:32px">
+      <div class="threshold-row"><div class="threshold-icon">Ⅰ</div><div class="threshold-name">感知</div><div class="threshold-const">1/√2 ≈ 0.707</div><div class="threshold-bar"><div class="threshold-fill tf-1"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">量子不确定性 · 最小SNR</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">细菌</div></div>
+      <div class="threshold-row"><div class="threshold-icon">Ⅱ</div><div class="threshold-name">反应</div><div class="threshold-const">1.000</div><div class="threshold-bar"><div class="threshold-fill tf-2"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">热力学平衡 · 复杂度匹配</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">线虫(302神经元)</div></div>
+      <div class="threshold-row"><div class="threshold-icon">Ⅲ</div><div class="threshold-name">适应</div><div class="threshold-const">φ ≈ 1.618</div><div class="threshold-bar"><div class="threshold-fill tf-3"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">黄金分割 · 资源最优分配</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">章鱼</div></div>
+      <div class="threshold-row"><div class="threshold-icon">Ⅳ</div><div class="threshold-name">创造</div><div class="threshold-const">e ≈ 2.718</div><div class="threshold-bar"><div class="threshold-fill tf-4"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">信息生成上界 · Landauer原理</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">乌鸦/AlphaGo</div></div>
+      <div class="threshold-row"><div class="threshold-icon">Ⅴ</div><div class="threshold-name">通用</div><div class="threshold-const">π ≈ 3.1416</div><div class="threshold-bar"><div class="threshold-fill tf-5"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">多周期整合 · Kuramoto临界</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">人类</div></div>
+      <div class="threshold-row"><div class="threshold-icon">Ⅵ</div><div class="threshold-name">超级</div><div class="threshold-const">δ ≈ 4.669</div><div class="threshold-bar"><div class="threshold-fill tf-6"></div></div><div style="font-size:12px;color:var(--dim);width:200px;text-align:right">费根鲍姆常数 · 混沌边缘</div><div style="font-size:11px;color:rgba(0,200,100,0.6);width:80px;text-align:right">理论预测</div>
+    </div>
+    </div>
+    <div class="grid-2 fade-up">
+      <div class="card">
+        <h4 style="color:var(--cyan);margin-bottom:12px">三重锁理论</h4>
+        <p style="font-size:14px;color:var(--dim);line-height:1.8">为什么GPT-4参数量是人脑突触的千倍，CST却只有2%？<br><br>
+        <strong style="color:var(--fg)">α锁</strong>：Binary digital仅2态 vs 生物≈50态 → 指数级差距<br>
+        <strong style="color:var(--fg)">σ锁</strong>：固定架构 vs 自组织小世界拓扑<br>
+        <strong style="color:var(--fg)">Φ锁</strong>：冯诺依曼瓶颈 vs 全对全信息传递<br><br>
+        三把锁不打开，参数再多也无济于事。</p>
+      </div>
+      <div class="card">
+        <h4 style="color:var(--cyan);margin-bottom:12px">跨域验证</h4>
+        <p style="font-size:14px;color:var(--dim);line-height:1.8">
+          40个生物与人工系统验证，涵盖8个分类等级、18种ANN/NMH架构家族。<br><br>
+          <strong style="color:var(--fg)">Spearman ρ = 0.976</strong>，UCCP归一化下100%分类准确。<br><br>
+          神经形态硬件（Intel Loihi-2）被独立分类，验证了α屏障预测——证明物理基底的改变是跨越智能能级的必要条件。
+        </p>
+      </div>
+    </div>
+
+    
 
 
 <!-- ====== TECH ====== -->
@@ -383,10 +417,92 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
       iNEST的技术核心是SDI（软件定义互连）化合物键架构——将网络连接视为可动态切换的"化学键"，由变分自由能最小化、脉冲时序依赖可塑性和最小作用量原理三条物理第一性规则驱动，加上突触缩放维持稳态。没有中央控制，没有反向传播，没有外部标签。
     </p>
 
-    <!-- ── 技术栈四层架构 ── -->
+    <div class="grid-2 fade-up" style="margin-top:28px">
+      <div class="card">
+        <h4 style="color:var(--cyan);margin-bottom:12px">🔬 三条物理第一性规则</h4>
+        <div style="font-size:14px;color:var(--dim);line-height:1.9">
+          <p style="margin-bottom:12px"><strong style="color:var(--fg)">规则一 · 变分自由能最小化（FEP）：</strong>网络持续最小化预测误差与复杂度代价之和，驱动系统自发向临界态演化。这是 iNEST 区别于反向传播的根本——不是优化损失函数，而是物理系统的最小作用量原理。</p>
+          <p style="margin-bottom:12px"><strong style="color:var(--fg)">规则二 · 脉冲时序依赖可塑性（STDP）：</strong>局部突触根据前后脉冲的精确时序调整权重，实现无监督的因果学习。Δt < 20ms 的时序精度赋予网络皮秒级时间分辨率。</p>
+          <p><strong style="color:var(--fg)">规则三 · 最小作用量原理：</strong>网络连接的路由选择遵循光学/电子学的最小作用量路径，SDI 交换机在物理层实现拓扑的动态优化，消除冯·诺依曼瓶颈。</p>
+        </div>
+      </div>
+      <div class="card">
+        <h4 style="color:var(--cyan);margin-bottom:12px">🧬 一条生物约束规则</h4>
+        <div style="font-size:14px;color:var(--dim);line-height:1.9">
+          <p><strong style="color:var(--fg)">突触缩放稳态：</strong>神经元总突触强度保持恒定——</p>
+          <p style="font-family:monospace;background:rgba(0,0,0,0.2);padding:8px 12px;border-radius:6px;margin:10px 0;color:var(--cyan)">Σwᵢ → constant</p>
+          <p>这一生物约束确保网络既不过度兴奋也不完全沉默，维持自组织临界态所需的动力学范围。结合三物理规则，形成完整的 <strong style="color:var(--gold)">"3+1"涌现驱动引擎</strong>——无需中央控制器，无需全局损失函数，无需人为设计层级结构。智能从物理中自然涌现。</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card fade-up" style="margin-top:20px;background:rgba(0,0,0,0.2);border:1px solid rgba(249,115,22,0.15)">
+      <h4 style="color:#f97316;margin-bottom:12px">⚡ SDI 化合物键架构 — 自组织临界态的工程实现</h4>
+      <p style="font-size:14px;color:var(--dim);line-height:1.9">
+        将网络连接建模为可动态切换的"化学键"，三种键型对应不同的连接模式：
+        <strong style="color:var(--fg)">E-L 长时程键</strong>（固定连接，编码稳定因果结构）、
+        <strong style="color:var(--fg)">E-S 短时程键</strong>（可塑连接，捕获动态变化）、
+        <strong style="color:var(--fg)">BCM 滑动阈值键</strong>（自适应门控，调节可塑性窗口）。
+        FPGA 作为 SDI 交换机的物理基底，实现纳秒级的键型切换和拓扑重构——这是"软件定义互连"的核心工程突破。
+      </p>
+    </div>
+
+    <div class="grid-2 fade-up" style="margin-top:32px">
+      <div class="card">
+        <h4 style="color:var(--cyan);margin-bottom:12px">仿真验证：v27多尺度临界态</h4>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:8px">
+          <div class="stat-card"><div class="stat-num" style="font-size:36px">5.00</div><div class="stat-label">σ @ N=279 (×1)</div></div>
+          <div class="stat-card"><div class="stat-num" style="font-size:36px">14.10</div><div class="stat-label">σ @ N=1116 (×4)</div></div>
+          <div class="stat-card"><div class="stat-num" style="font-size:36px">N<sup>1.02</sup></div><div class="stat-label">键数标度律</div></div>
+          <div class="stat-card"><div class="stat-num" style="font-size:36px">N<sup>1.22</sup></div><div class="stat-label">时间标度律</div></div>
+        </div>
+        <p style="font-size:13px;color:var(--dim);margin-top:12px">C.elegans真实连接组 → 多尺度缩放。σ持续增长（规模友好），键数线性稀疏，时间近线性——远优于Transformer O(N²)。</p>
+      </div>
+      <div class="card">
+        <h4 style="color:var(--cyan);margin-bottom:12px">核心数学突破：STDP = FEP梯度下降</h4>
+        <div class="formula-box" style="padding:20px;margin:12px 0">
+          <div style="font-size:16px;color:var(--cyan);font-family:monospace">Δw<sub>STDP</sub> = −η · ∂F/∂w</div>
+        </div>
+        <p style="font-size:13px;color:var(--dim);line-height:1.8">
+          STDP不是人为设计的规则——它是变分自由能梯度下降在忆阻器物理层的<strong style="color:var(--fg)">自然实现</strong>。LTP减小预测误差，LTD减小冗余复杂度。这一等价性为自组织学习的硬件实现提供了完整的物理基础。
+        </p>
+      </div>
+    </div>
+
+    <div class="grid-2 fade-up" style="margin-top:20px">
+      <div class="card">
+        <h4 style="color:var(--cyan);margin-bottom:12px">V29仿真结论：功能智能涌现</h4>
+        <p style="font-size:13px;color:var(--dim);line-height:1.8;margin-bottom:12px">
+          在v27结构涌现的基础上，v29通过嵌入真实神经回路（C.elegans光趋/化趋回路）和环境模型，首次验证：<strong style="color:var(--fg)">零手工奖励函数条件下，功能智能可以纯粹由FEP自组织涌现</strong>。V30进一步扩展到多脑区协同，并对比WS小世界拓扑与果蝇真实连接组：<strong style="color:var(--cyan)">不同拓扑自发分化出不同的功能专长</strong>——WS拓扑擅长感知运动（PI=0.811），果蝇拓扑擅长联想记忆（准确率100%），为拓扑自适应智能提供了关键实验证据。
+        </p>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:8px">
+          <div class="stat-card"><div class="stat-num" style="font-size:28px">0.811</div><div class="stat-label">光趋性指数</div></div>
+          <div class="stat-card"><div class="stat-num" style="font-size:28px">0.786</div><div class="stat-label">化趋性指数</div></div>
+          <div class="stat-card"><div class="stat-num" style="font-size:28px">100%</div><div class="stat-label">模式记忆准确率</div></div>
+          <div class="stat-card"><div class="stat-num" style="font-size:28px">4脑区</div><div class="stat-label">协同工作</div></div>
+        </div>
+      </div>
+      <div class="card">
+        <h4 style="color:var(--cyan);margin-bottom:12px">V30成果：多脑区协同智能系统</h4>
+        <p style="font-size:13px;color:var(--dim);line-height:1.8">
+          V30成功实现<strong style="color:var(--fg)">首个四脑区协同智能系统</strong>：视觉(Vis)、化学感知(Chem)、联想(Assoc)、运动(Motor)四大脑区通过meta-topology互联，100个神经元规模下完成多模态融合。光趋性指数0.811，化趋性指数0.786，模式记忆准确率<strong style="color:var(--cyan)">100%</strong>——零手工奖励函数，纯FEP自组织涌现。
+        </p>
+        <div style="margin-top:16px">
+          <div style="display:flex;flex-wrap:wrap;gap:6px;font-size:11px">
+            <span style="background:rgba(0,200,100,0.12);color:#0c8;padding:3px 10px;border-radius:12px">V29.1 光趋性</span>
+            <span style="background:rgba(0,200,100,0.12);color:#0c8;padding:3px 10px;border-radius:12px">V29.2 化趋性</span>
+            <span style="background:rgba(0,200,100,0.12);color:#0c8;padding:3px 10px;border-radius:12px">V29.3 模式补全</span>
+            <span style="background:rgba(0,200,100,0.12);color:#0c8;padding:3px 10px;border-radius:12px">V29.4 时序预测</span>
+            <span style="background:rgba(124,58,237,0.12);color:var(--violet);padding:3px 10px;border-radius:12px">V30 四脑区协同 · 达成</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<!-- ── 技术栈四层架构 ── -->
     <div class="card fade-up" style="margin-bottom:28px;background:rgba(0,0,0,0.3);border:1px solid rgba(0,212,255,0.15)">
-      <h4 style="color:var(--cyan);margin-bottom:20px;text-align:center;font-size:16px">🏗️ iNEST 技术栈 · 四层架构</h4>
-      <p style="text-align:center;font-size:12px;color:var(--dim);margin-bottom:24px">
+      <h4 style="color:var(--cyan);margin-bottom:20px;text-align:left;font-size:16px">🏗️ iNEST 技术栈 · 四层架构</h4>
+      <p style="text-align:left;font-size:13px;color:var(--dim);margin-bottom:24px">
         <strong style="color:var(--fg)">技术哲学：</strong>从底层硬件到顶层应用的全栈软件定义，实现"简单节点 × 复杂网络"的介观尺度计算范式
       </p>
 
@@ -498,7 +614,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 
       <!-- 协同流程 -->
       <div style="margin-top:24px;background:rgba(0,0,0,0.25);border-radius:12px;padding:20px;text-align:center">
-        <h4 style="color:var(--dim);font-size:13px;letter-spacing:0.15em;margin-bottom:16px;font-weight:400">⚙️ COLLABORATION PIPELINE · 技术栈协同流程</h4>
+        <h4 style="color:var(--dim);font-size:13px;letter-spacing:0.15em;margin-bottom:16px;font-weight:400;text-align:left">⚙️ COLLABORATION PIPELINE · 技术栈协同流程</h4>
         <div style="display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:6px">
           <div style="background:linear-gradient(135deg,#10B981,#059669);color:#fff;padding:12px 18px;border-radius:12px;font-size:13px;text-align:center;min-width:100px">
             用户代码<br><span style="font-size:10px;opacity:0.8">PyTorch / TF</span>
@@ -517,90 +633,9 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
           </div>
         </div>
       </div>
-    </div><div class="grid-2 fade-up" style="margin-top:28px">
-      <div class="card">
-        <h4 style="color:var(--cyan);margin-bottom:12px">🔬 三条物理第一性规则</h4>
-        <div style="font-size:14px;color:var(--dim);line-height:1.9">
-          <p style="margin-bottom:12px"><strong style="color:var(--fg)">规则一 · 变分自由能最小化（FEP）：</strong>网络持续最小化预测误差与复杂度代价之和，驱动系统自发向临界态演化。这是 iNEST 区别于反向传播的根本——不是优化损失函数，而是物理系统的最小作用量原理。</p>
-          <p style="margin-bottom:12px"><strong style="color:var(--fg)">规则二 · 脉冲时序依赖可塑性（STDP）：</strong>局部突触根据前后脉冲的精确时序调整权重，实现无监督的因果学习。Δt < 20ms 的时序精度赋予网络皮秒级时间分辨率。</p>
-          <p><strong style="color:var(--fg)">规则三 · 最小作用量原理：</strong>网络连接的路由选择遵循光学/电子学的最小作用量路径，SDI 交换机在物理层实现拓扑的动态优化，消除冯·诺依曼瓶颈。</p>
-        </div>
-      </div>
-      <div class="card">
-        <h4 style="color:var(--cyan);margin-bottom:12px">🧬 一条生物约束规则</h4>
-        <div style="font-size:14px;color:var(--dim);line-height:1.9">
-          <p><strong style="color:var(--fg)">突触缩放稳态：</strong>神经元总突触强度保持恒定——</p>
-          <p style="font-family:monospace;background:rgba(0,0,0,0.2);padding:8px 12px;border-radius:6px;margin:10px 0;color:var(--cyan)">Σwᵢ → constant</p>
-          <p>这一生物约束确保网络既不过度兴奋也不完全沉默，维持自组织临界态所需的动力学范围。结合三物理规则，形成完整的 <strong style="color:var(--gold)">"3+1"涌现驱动引擎</strong>——无需中央控制器，无需全局损失函数，无需人为设计层级结构。智能从物理中自然涌现。</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="card fade-up" style="margin-top:20px;background:rgba(0,0,0,0.2);border:1px solid rgba(249,115,22,0.15)">
-      <h4 style="color:#f97316;margin-bottom:12px">⚡ SDI 化合物键架构 — 自组织临界态的工程实现</h4>
-      <p style="font-size:14px;color:var(--dim);line-height:1.9">
-        将网络连接建模为可动态切换的"化学键"，三种键型对应不同的连接模式：
-        <strong style="color:var(--fg)">E-L 长时程键</strong>（固定连接，编码稳定因果结构）、
-        <strong style="color:var(--fg)">E-S 短时程键</strong>（可塑连接，捕获动态变化）、
-        <strong style="color:var(--fg)">BCM 滑动阈值键</strong>（自适应门控，调节可塑性窗口）。
-        FPGA 作为 SDI 交换机的物理基底，实现纳秒级的键型切换和拓扑重构——这是"软件定义互连"的核心工程突破。
-      </p>
-    </div>
-
-    <div class="grid-2 fade-up" style="margin-top:32px">
-      <div class="card">
-        <h4 style="color:var(--cyan);margin-bottom:12px">仿真验证：v27多尺度临界态</h4>
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:8px">
-          <div class="stat-card"><div class="stat-num" style="font-size:36px">5.00</div><div class="stat-label">σ @ N=279 (×1)</div></div>
-          <div class="stat-card"><div class="stat-num" style="font-size:36px">14.10</div><div class="stat-label">σ @ N=1116 (×4)</div></div>
-          <div class="stat-card"><div class="stat-num" style="font-size:36px">N<sup>1.02</sup></div><div class="stat-label">键数标度律</div></div>
-          <div class="stat-card"><div class="stat-num" style="font-size:36px">N<sup>1.22</sup></div><div class="stat-label">时间标度律</div></div>
-        </div>
-        <p style="font-size:13px;color:var(--dim);margin-top:12px">C.elegans真实连接组 → 多尺度缩放。σ持续增长（规模友好），键数线性稀疏，时间近线性——远优于Transformer O(N²)。</p>
-      </div>
-      <div class="card">
-        <h4 style="color:var(--cyan);margin-bottom:12px">核心数学突破：STDP = FEP梯度下降</h4>
-        <div class="formula-box" style="padding:20px;margin:12px 0">
-          <div style="font-size:16px;color:var(--cyan);font-family:monospace">Δw<sub>STDP</sub> = −η · ∂F/∂w</div>
-        </div>
-        <p style="font-size:13px;color:var(--dim);line-height:1.8">
-          STDP不是人为设计的规则——它是变分自由能梯度下降在忆阻器物理层的<strong style="color:var(--fg)">自然实现</strong>。LTP减小预测误差，LTD减小冗余复杂度。这一等价性为自组织学习的硬件实现提供了完整的物理基础。
-        </p>
-      </div>
-    </div>
-
-    <div class="grid-2 fade-up" style="margin-top:20px">
-      <div class="card">
-        <h4 style="color:var(--cyan);margin-bottom:12px">V29仿真结论：功能智能涌现</h4>
-        <p style="font-size:13px;color:var(--dim);line-height:1.8;margin-bottom:12px">
-          在v27结构涌现的基础上，v29通过嵌入真实神经回路（C.elegans光趋/化趋回路）和环境模型，首次验证：<strong style="color:var(--fg)">零手工奖励函数条件下，功能智能可以纯粹由FEP自组织涌现</strong>。V30进一步扩展到多脑区协同，并对比WS小世界拓扑与果蝇真实连接组：<strong style="color:var(--cyan)">不同拓扑自发分化出不同的功能专长</strong>——WS拓扑擅长感知运动（PI=0.811），果蝇拓扑擅长联想记忆（准确率100%），为拓扑自适应智能提供了关键实验证据。
-        </p>
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:8px">
-          <div class="stat-card"><div class="stat-num" style="font-size:28px">0.811</div><div class="stat-label">光趋性指数</div></div>
-          <div class="stat-card"><div class="stat-num" style="font-size:28px">0.786</div><div class="stat-label">化趋性指数</div></div>
-          <div class="stat-card"><div class="stat-num" style="font-size:28px">100%</div><div class="stat-label">模式记忆准确率</div></div>
-          <div class="stat-card"><div class="stat-num" style="font-size:28px">4脑区</div><div class="stat-label">协同工作</div></div>
-        </div>
-      </div>
-      <div class="card">
-        <h4 style="color:var(--cyan);margin-bottom:12px">V30成果：多脑区协同智能系统</h4>
-        <p style="font-size:13px;color:var(--dim);line-height:1.8">
-          V30成功实现<strong style="color:var(--fg)">首个四脑区协同智能系统</strong>：视觉(Vis)、化学感知(Chem)、联想(Assoc)、运动(Motor)四大脑区通过meta-topology互联，100个神经元规模下完成多模态融合。光趋性指数0.811，化趋性指数0.786，模式记忆准确率<strong style="color:var(--cyan)">100%</strong>——零手工奖励函数，纯FEP自组织涌现。
-        </p>
-        <div style="margin-top:16px">
-          <div style="display:flex;flex-wrap:wrap;gap:6px;font-size:11px">
-            <span style="background:rgba(0,200,100,0.12);color:#0c8;padding:3px 10px;border-radius:12px">V29.1 光趋性</span>
-            <span style="background:rgba(0,200,100,0.12);color:#0c8;padding:3px 10px;border-radius:12px">V29.2 化趋性</span>
-            <span style="background:rgba(0,200,100,0.12);color:#0c8;padding:3px 10px;border-radius:12px">V29.3 模式补全</span>
-            <span style="background:rgba(0,200,100,0.12);color:#0c8;padding:3px 10px;border-radius:12px">V29.4 时序预测</span>
-            <span style="background:rgba(124,58,237,0.12);color:var(--violet);padding:3px 10px;border-radius:12px">V30 四脑区协同 · 达成</span>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </section>
-
 
 <!-- ====== R&D MILESTONES ====== -->
 <section class="section" id="milestones" style="min-height:auto;padding:120px 60px 80px">
@@ -957,74 +992,89 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
     <div class="future-section fade-up">
       <p class="section-tag" style="text-align:center;display:block">后续规划</p>
       <h2 class="section-heading" style="text-align:center">核心技术演进 · <span class="hl">六阶段递进</span></h2>
-      <p class="section-lead" style="text-align:center;margin:0 auto 20px">
+      <p class="section-lead" style="text-align:center;margin:0 auto 32px">
         以 iNEST 第一性原理（CST = (Sc·Tc)·e^(α·Γst)）为基石，<br>
         六阶段技术递进支撑六级智涌脑工程落地——终极形态为<strong style="color:var(--cyan)">硅基上与材料高度融合的自生长大脑</strong>
       </p>
 
-      <div class="future-grid">
-        <div class="future-card gen1" style="border-color:rgba(0,200,100,0.35)">
-          <div class="future-gen">阶段 Ⅰ · 2024—2026</div>
-          <div class="future-name">器件创新</div>
-          <div class="future-k" style="font-size:16px;font-weight:400;color:var(--fg)">突破α锁</div>
-          <div class="future-desc">忆阻器神经形态器件，<br>Meff从2态跃升至~50态，<br>二进制→模拟突触</div>
-          <div class="future-year" style="color:#0c8">支撑 Ⅰ感知 · Ⅱ反应</div>
+      <div style="display:flex;flex-direction:column;gap:14px;max-width:1200px;margin:0 auto">
+        <div style="display:flex;align-items:stretch;gap:16px;background:rgba(0,200,100,0.05);border:1px solid rgba(0,200,100,0.2);border-radius:14px;padding:20px 24px;position:relative">
+          <div style="min-width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#10B981,#059669);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px">Ⅰ</div>
+          <div style="flex:1">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px">
+              <span style="font-size:12px;color:#0c8;letter-spacing:0.1em">2024—2026</span>
+              <span style="font-weight:700;font-size:16px;color:var(--fg)">器件创新</span>
+              <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">突破 α 锁</span>
+            </div>
+            <p style="font-size:13px;color:var(--dim);margin:0;line-height:1.7">忆阻器神经形态器件，M<sub>eff</sub> 从 2 态跃升至 ~50 态，二进制 → 模拟突触。α 从 0.69 提升至 ≈3.91，为时空协同奠定物理基础</p>
+          </div>
         </div>
-        <div class="future-card">
-          <div class="future-gen">阶段 Ⅱ · 2026—2028</div>
-          <div class="future-name">SDI自演化</div>
-          <div class="future-k" style="font-size:16px;font-weight:400;color:var(--fg)">突破Γst锁</div>
-          <div class="future-desc">4键型+6规则状态机，<br>FEP/STDP/最小作用量协同，<br>网络自组织临界态</div>
-          <div class="future-year">支撑 Ⅲ适应 · Ⅳ创造</div>
-        </div>
-        <div class="future-card">
-          <div class="future-gen">阶段 Ⅲ · 2028—2030</div>
-          <div class="future-name">异质集成</div>
-          <div class="future-k" style="font-size:16px;font-weight:400;color:var(--fg)">突破维锁</div>
-          <div class="future-desc">异质神经形态+可塑性突触，<br>SDSoC系统级芯片集成，<br>Γst+α联合跃迁</div>
-          <div class="future-year">支撑 Ⅳ创造 · Ⅴ通用</div>
-        </div>
-        <div class="future-card">
-          <div class="future-gen">阶段 Ⅳ · 2030—2033</div>
-          <div class="future-name">晶圆规模</div>
-          <div class="future-k" style="font-size:16px;font-weight:400;color:var(--fg)">全维突破</div>
-          <div class="future-desc">晶圆级SDI互联集成，<br>光子互联+二维半导体，<br>Γst→π临界耦合</div>
-          <div class="future-year">支撑 Ⅴ通用</div>
-        </div>
-        <div class="future-card">
-          <div class="future-gen">阶段 Ⅴ · 2033—2035</div>
-          <div class="future-name">自生长自组装</div>
-          <div class="future-k" style="font-size:16px;font-weight:400;color:var(--fg)">硅-材料融合</div>
-          <div class="future-desc">硅基与智能材料深度融合，<br>自组装三维神经形态结构，<br>K≤1M · 20W</div>
-          <div class="future-year">支撑 Ⅴ通用 · AGI</div>
-        </div>
-        <div class="future-card planned">
-          <div class="future-gen">阶段 Ⅵ · 2035+</div>
-          <div class="future-name">系统自进化</div>
-          <div class="future-k" style="font-size:16px;font-weight:400;color:var(--fg)">超临界涌现</div>
-          <div class="future-desc">超越人脑连接组规模，<br>自生长+自组装+自进化闭环，<br>K>1M · δ≈4.669</div>
-          <div class="future-year">支撑 Ⅵ超级 · ASI探索</div>
-        </div>
-      </div>
 
-      <div style="text-align:center;margin-top:40px">
-        <div class="card fade-up" style="display:inline-block;text-align:left;max-width:800px">
-          <h4 style="color:var(--cyan);margin-bottom:16px">📐 技术演进 → 智涌脑六级支撑关系</h4>
-          <div class="threshold-row"><div style="font-weight:700;width:80px;font-size:13px">器件创新</div><div style="color:var(--dim);font-size:13px;width:100px">突破α锁</div><div style="flex:1;font-size:12px;color:var(--dim)">忆阻器 · Meff 2→~50态 · → 支撑 Ⅰ感知(0.707) Ⅱ反应(1.000)</div></div>
-          <div class="threshold-row"><div style="font-weight:700;width:80px;font-size:13px">SDI自演化</div><div style="color:var(--dim);font-size:13px;width:100px">突破Γst锁</div><div style="flex:1;font-size:12px;color:var(--dim)">FEP+STDP+最小作用量 · 自组织临界态 · → 支撑 Ⅲ适应(φ) Ⅳ创造(e)</div></div>
-          <div class="threshold-row"><div style="font-weight:700;width:80px;font-size:13px">异质集成</div><div style="color:var(--dim);font-size:13px;width:100px">突破维锁</div><div style="flex:1;font-size:12px;color:var(--dim)">SDSoC系统级集成 · Γst+α联合跃迁 · → 支撑 Ⅳ创造(e) Ⅴ通用(π)</div></div>
-          <div class="threshold-row"><div style="font-weight:700;width:80px;font-size:13px">晶圆规模</div><div style="color:var(--dim);font-size:13px;width:100px">全维突破</div><div style="flex:1;font-size:12px;color:var(--dim)">晶圆级SDI · 光子互联+二维半导体 · Γst→π · → 支撑 Ⅴ通用(π)</div></div>
-          <div class="threshold-row"><div style="font-weight:700;width:80px;font-size:13px">自生长组装</div><div style="color:var(--dim);font-size:13px;width:100px">硅-材料融合</div><div style="flex:1;font-size:12px;color:var(--dim)">硅基自组装三维结构 · K≤1M·20W · → 支撑 Ⅴ通用(π) AGI</div></div>
-          <div class="threshold-row"><div style="font-weight:700;width:80px;font-size:13px">系统自进化</div><div style="color:var(--dim);font-size:13px;width:100px">超临界涌现</div><div style="flex:1;font-size:12px;color:var(--dim)">自生长+自组装+自进化闭环 · K>1M · → 支撑 Ⅵ超级(δ≈4.669) ASI</div></div>
+        <div style="display:flex;align-items:stretch;gap:16px;background:rgba(0,180,216,0.05);border:1px solid rgba(0,180,216,0.2);border-radius:14px;padding:20px 24px">
+          <div style="min-width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#0EA5E9,#0284C7);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px">Ⅱ</div>
+          <div style="flex:1">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px">
+              <span style="font-size:12px;color:#0ad;letter-spacing:0.1em">2026—2028</span>
+              <span style="font-weight:700;font-size:16px;color:var(--fg)">SDI 自演化</span>
+              <span style="background:rgba(0,180,216,0.1);color:#0ad;padding:2px 10px;border-radius:10px;font-size:11px">突破 σ 锁</span>
+            </div>
+            <p style="font-size:13px;color:var(--dim);margin:0;line-height:1.7">SDI化合机制的神经突触实现纳秒级键型切换，E-L/E-S/BCM 三键型状态机自组织，网络拓扑从固定 → 动态自演化</p>
+          </div>
+        </div>
+
+        <div style="display:flex;align-items:stretch;gap:16px;background:rgba(124,58,237,0.05);border:1px solid rgba(124,58,237,0.2);border-radius:14px;padding:20px 24px">
+          <div style="min-width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#7C3AED,#6D28D9);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px">Ⅲ</div>
+          <div style="flex:1">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px">
+              <span style="font-size:12px;color:var(--violet);letter-spacing:0.1em">2028—2030</span>
+              <span style="font-weight:700;font-size:16px;color:var(--fg)">异质集成</span>
+              <span style="background:rgba(124,58,237,0.1);color:var(--violet);padding:2px 10px;border-radius:10px;font-size:11px">突破 Φ 锁</span>
+            </div>
+            <p style="font-size:13px;color:var(--dim);margin:0;line-height:1.7">CMOS+忆阻器+光子异质集成，存算一体消除冯·诺依曼瓶颈，SDI 实现全对全信息传递</p>
+          </div>
+        </div>
+
+        <div style="display:flex;align-items:stretch;gap:16px;background:rgba(249,115,22,0.05);border:1px solid rgba(249,115,22,0.2);border-radius:14px;padding:20px 24px">
+          <div style="min-width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#F97316,#EA580C);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px">Ⅳ</div>
+          <div style="flex:1">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px">
+              <span style="font-size:12px;color:#f97316;letter-spacing:0.1em">2030—2032</span>
+              <span style="font-weight:700;font-size:16px;color:var(--fg)">晶圆规模</span>
+              <span style="background:rgba(249,115,22,0.1);color:#f97316;padding:2px 10px;border-radius:10px;font-size:11px">规模涌现</span>
+            </div>
+            <p style="font-size:13px;color:var(--dim);margin:0;line-height:1.7">SDSoW 晶圆级集成，连接规模 10⁶→10¹⁰，CST 标度律预测 σ 持续增长——规模即智能</p>
+          </div>
+        </div>
+
+        <div style="display:flex;align-items:stretch;gap:16px;background:rgba(239,68,68,0.05);border:1px solid rgba(239,68,68,0.2);border-radius:14px;padding:20px 24px">
+          <div style="min-width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#EF4444,#DC2626);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px">Ⅴ</div>
+          <div style="flex:1">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px">
+              <span style="font-size:12px;color:#ef4444;letter-spacing:0.1em">2032—2035</span>
+              <span style="font-weight:700;font-size:16px;color:var(--fg)">自生长自组装</span>
+              <span style="background:rgba(239,68,68,0.1);color:#ef4444;padding:2px 10px;border-radius:10px;font-size:11px">材料融合</span>
+            </div>
+            <p style="font-size:13px;color:var(--dim);margin:0;line-height:1.7">硅基与忆阻材料深度融合，类生物自组装过程，芯片"长出"智能结构——iNEST 第一性原理的终极工程形态</p>
+          </div>
+        </div>
+
+        <div style="display:flex;align-items:stretch;gap:16px;background:rgba(168,85,247,0.05);border:1px solid rgba(168,85,247,0.2);border-radius:14px;padding:20px 24px">
+          <div style="min-width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#A855F7,#9333EA);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px">Ⅵ</div>
+          <div style="flex:1">
+            <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px">
+              <span style="font-size:12px;color:#a855f7;letter-spacing:0.1em">2035+</span>
+              <span style="font-weight:700;font-size:16px;color:var(--fg)">系统自进化</span>
+              <span style="background:rgba(168,85,247,0.1);color:#a855f7;padding:2px 10px;border-radius:10px;font-size:11px">ASI 探索</span>
+            </div>
+            <p style="font-size:13px;color:var(--dim);margin:0;line-height:1.7">网络拓扑+硬件架构+算法策略三位一体自进化，超越人类设计——δ=4.669 费根鲍姆常数：混沌边缘的超级智能</p>
+          </div>
         </div>
       </div>
     </div>
-
   </div>
 </section>
 
-
-<!-- =<!-- ====== ENGINEERING ====== -->
+<!-- ====== ENGINEERING ====== -->
 <section class="section" id="engineering">
   <div class="container">
     <p class="section-tag fade-up">工程产品</p>
@@ -1157,7 +1207,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 <!-- ====== ECOSYSTEM ====== -->
 <section class="section" id="ecosystem">
   <div class="container">
-    <p class="section-tag fade-up">生态体系</p>
+    <p class="section-tag fade-up">产业生态</p>
     <h2 class="section-heading fade-up">从学术突破到产业标准<br><span class="hl">增长飞轮</span>驱动范式普及</h2>
     <div class="two-col" style="margin-top:32px">
       <div>
@@ -1239,11 +1289,15 @@ function toggleMilestone(card) {
   var node = card.closest('.tl-node');
   var wasExpanded = node.classList.contains('expanded');
   document.querySelectorAll('.tl-node.expanded').forEach(function(n) {
-    if (n !== node) { n.classList.remove('expanded'); n.querySelector('.tl-detail').style.maxHeight = '0px'; n.querySelector('.tl-detail').style.overflow = 'hidden'; }
+    if (n !== node) { n.classList.remove('expanded'); }
   });
-  var detail = card.querySelector('.tl-detail');
-  if (wasExpanded) { node.classList.remove('expanded'); detail.style.maxHeight = '0px'; }
-  else { node.classList.add('expanded'); detail.style.maxHeight = '0px'; detail.offsetHeight; detail.style.maxHeight = detail.scrollHeight + 'px'; detail.style.overflow = 'visible'; }
+  if (wasExpanded) {
+    node.classList.remove('expanded');
+  } else {
+    node.classList.add('expanded');
+    var d = card.querySelector('.tl-detail');
+    d.style.maxHeight = d.scrollHeight + 'px';
+  }
 }
 
 // ── Milestone Filters ──
@@ -1252,7 +1306,7 @@ document.querySelectorAll('.milestone-filters button').forEach(function(btn) {
     document.querySelectorAll('.milestone-filters button').forEach(function(b) { b.classList.remove('active'); });
     btn.classList.add('active');
     var filter = btn.dataset.filter;
-    document.querySelectorAll('.tl-node').forEach(function(node) {
+    document.querySelectorAll('.tl-node').forEach(function(node) { node.classList.remove('expanded');
       if (filter === 'all' || node.dataset.cat === filter) { node.classList.remove('hidden'); gsap.fromTo(node, {opacity:0, x:-20}, {opacity:1, x:0, duration:0.35, ease:'power2.out'}); }
       else { gsap.to(node, {opacity:0, x:-10, duration:0.2, ease:'power2.in', onComplete:function(){ node.classList.add('hidden'); }}); }
     });
@@ -1275,6 +1329,7 @@ gsap.utils.toArray('.future-card').forEach(function(card, i) {
 
 // ── Timeline Dots Pulse ──
 gsap.utils.toArray('.tl-dot').forEach(function(dot) {
+  document.querySelectorAll('.tl-node').forEach(function(n){n.classList.remove('expanded');var d=n.querySelector('.tl-detail');if(d){d.style.maxHeight='0px';d.style.overflow='hidden';}});
   gsap.to(dot, {boxShadow:function(){var c=dot.classList.contains('dot-violet')?'rgba(124,58,237,0.5)':dot.classList.contains('dot-gold')?'rgba(245,158,11,0.4)':'rgba(0,212,255,0.4)';return '0 0 12px '+c;}, duration:1.8, repeat:-1, yoyo:true, ease:'sine.inOut', scrollTrigger:{trigger:dot.closest('.tl-node'), start:'top 85%', toggleActions:'play pause pause pause'}});
 });
 
@@ -1323,7 +1378,7 @@ console.log('%c六级涌现标尺 | Spearman ρ=0.976 | AGI 2035','color:#7c3aed
 
 <div class="fade-up" style="text-align:center;padding:40px 0 0;border-top:1px solid rgba(255,255,255,0.05);margin-top:40px">
     <div style="display:inline-flex;align-items:center;gap:8px;opacity:0.5">
-      <div style="width:24px;height:24px;background:linear-gradient(135deg,var(--cyan),var(--violet));border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:800;color:#fff">iN</div>
+      <img src="logo.png" alt="iNEST" style="height:24px;opacity:0.8" onerror="this.style.display='none'">
       <span style="font-size:11px;color:var(--dim);letter-spacing:0.15em">iNEST © 2026 · 网络时空协同智能涌现</span>
     </div>
   </div>

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "C. elegans",
+    "N": 279,
+    "sigma_i": 7.73,
+    "sigma_f": 5.04,
+    "sigma_peak": 7.73,
+    "alpha": -1.46,
+    "Cf": 0.2285,
+    "Lf": 2.24,
+    "el_final_pct": 26.9,
+    "time_s": 64.0,
+    "steps": 2000
+  },
+  {
+    "name": "Macaque RM",
+    "N": 82,
+    "sigma_i": 2.36,
+    "sigma_f": 2.62,
+    "sigma_peak": 2.62,
+    "alpha": 0.78,
+    "Cf": 0.5807,
+    "Lf": 1.99,
+    "el_final_pct": 25.5,
+    "time_s": 18.0,
+    "steps": 2000
+  }
+]
