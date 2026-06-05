@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """SDI v23 — FEP-STDP Parameter Fusion (Transitional)
 ======================================================
 Attempt to fuse FEP signals into STDP parameters directly.

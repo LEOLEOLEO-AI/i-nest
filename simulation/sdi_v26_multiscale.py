@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """SDI v26 — Multi-scale Scaling Laws
 =======================================
 Run v25 BCM+FEP-STDP fusion across multiple network scales (N=100,200,279,500),

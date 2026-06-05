@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """SDI v29 — Functional Emergence: Drosophila Phototaxis/Chemotaxis
 =====================================================================
 Adds embodied behavior: sensory input → motor output through evolved network.

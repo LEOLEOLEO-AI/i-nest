@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """SDI v22 — Adaptive Theta + FEP Homeostasis
 =============================================
 Phase 2 entry point: Self-evolving network with:
