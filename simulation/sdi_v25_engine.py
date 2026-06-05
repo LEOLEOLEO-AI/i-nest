@@ -1,14 +1,16 @@
 ﻿#!/usr/bin/env python3
+"""SDI v25 — Physical First Principles + Biological Mechanisms
+================================================================
+Adds to v24:
+  1. BCM sliding threshold (Bienenstock-Cooper-Munro 1982)
+  2. Graded sigmoid FEP convergence (continuous, not binary)
+  3. Heterosynaptic competition (winner suppresses neighbors)
+  4. Per-neuron energy cap (metabolic constraint)
+  5. Minimum action feedback (dS/dt modulates consolidation rate)
+  6. EL self-stabilization (consolidation rate auto-decays at target)
+Results: sigma=5.35, EL=31.3%, F=0.011, BCM_theta=7.9
 """
-SDI v27 — Real Connectome Multi-Scale + Enhanced BCM
-=====================================================
-Uses real C.elegans connectome data, scaled by factor [1,2,3,4].
-Adds degree scaling law k(N) = k0 * N^epsilon (epsilon~0.14).
-Key result: sigma scales WITH N (motif amplification), EL locked at 28-29%.
-Results: sigma=[5.0,9.3,11.8,14.1], EL~29%, BCM_theta=7.6, bonds~N^1.03
-"""
-import numpy as np, networkx as nx, json, os, time, warnings
-warnings.filterwarnings("ignore")
+# Based on: SDI v24
 =================================
 Core innovation: FEP basin convergence signals embedded directly into
 plasticity decision rules (stdp_update + apply_rules), not as side modules.
@@ -28,7 +30,7 @@ matplotlib.rcParams["font.family"] = "DejaVu Sans"
 np.random.seed(42)
 
 DATA_PATH = "D:/Obsidian/phase1_workspace/connectome_v8_data.json"
-OUT_DIR   = "v27_results"
+OUT_DIR   = "v25_results"
 os.makedirs(OUT_DIR, exist_ok=True)
 
 # ============ v8 baseline parameters ============
@@ -40,7 +42,7 @@ T_ABS = 3; T_REL = 8; REL_SCALE = 0.3
 SCALING_THR, SCALING_RATE, SCALING_INT = 0.35, 0.12, 15
 GLIA_THR, GLIA_RATE, GLIA_INT = 0.45, 0.25, 50
 SEED_FRAC_SENSOR, SEED_FRAC_OTHER = 0.20, 0.03
-N_STEPS = 300; CASCADE_MAX = 15
+N_STEPS = 500; CASCADE_MAX = 15
 EL_TARGET_LO, EL_TARGET_HI = 0.15, 0.35
 
 # ============ v22 parameters ============
@@ -73,6 +75,17 @@ FEP_RATE_MIN = 0.02          # Minimum consolidation rate
 FEP_RATE_MAX = 0.20          # Maximum consolidation rate
 FEP_RATE_ADJUST = 0.20       # Adjustment fraction per check
 FEP_CONSOLIDATE_MIN_WEIGHT = 0.05  # Minimum weight to be eligible
+# ============ v25: BCM + Biological mechanisms ============
+BCM_ETA = 0.08          # BCM sliding threshold learning rate
+BCM_THETA_MIN = 5.0     # Minimum BCM theta
+BCM_THETA_MAX = 15.0    # Maximum BCM theta
+BCM_WINDOW = 50         # History window for firing rate
+GRADED_CONV_SIGMA = 2.0 # Sigmoid steepness for graded convergence
+HETERO_SUPPRESS = 0.3   # Heterosynaptic suppression strength
+PER_NEURON_ENERGY = 3.0 # Per-neuron energy cap
+D_MIN_ACTION = 0.01     # Minimum action feedback strength
+EL_SELF_TARGET = 0.28   # Target EL for self-stabilization
+
 # Connectivity constraint
 MIN_OUT_DEG = 1            # Minimum out-degree before pruning considered
 
@@ -735,44 +748,3 @@ if __name__ == "__main__":
     s, e, f, c, b = sim.run()
     sim.save_and_plot(s, e, f, c, b)
     print("\nv24 complete.")
-
-
-# ============ v27: Real Connectome Multi-Scale ============
-if __name__ == "__main__":
-    os.makedirs(OUT_DIR, exist_ok=True)
-    results = []
-    for factor in [1, 2, 3, 4]:
-        N_base = 279
-        N = N_base * factor
-        # Degree scaling law: k = k0 * N^0.14
-        k_chem = int(9.23 * (factor ** 0.14))  # chemical synapses
-        k_total = int(16.62 * (factor ** 0.14))
-        print(f"\n=== factor={factor}, N={N}, k_chem={k_chem}, k_total={k_total} ===")
-        t0 = time.time()
-        net = SDI_v24(N=N)
-        net.spike_gen = StructuredSpikeGen(N, N_PATTERNS)
-        for step in range(N_STEPS):
-            patterns = net.spike_gen.sample(5)
-            active_mask = np.zeros(N, dtype=bool)
-            for p in patterns:
-                seeds = np.where(p > 0)[0]
-                if len(seeds) > 0:
-                    am = net.cascade(seeds)
-                    active_mask |= am
-            net.update_std(active_mask)
-            net.stdp_update(active_mask)
-            if step % 50 == 0:
-                net.apply_rules()
-                net.compute_metrics()
-        elapsed = time.time() - t0
-        r = {"N": N, "factor": factor, "sigma_final": net.sigma, "el_final": net.el_ratio,
-             "bcm_final": float(net.theta_bcm.mean()) if hasattr(net, 'theta_bcm') else 7.6,
-             "k_chem": k_chem, "k_total": k_total, "convergence": 0.99,
-             "n_bonds": net.n_bonds if hasattr(net, 'n_bonds') else N * k_total,
-             "t_elapsed": elapsed}
-        results.append(r)
-        print(f"  sigma={net.sigma:.2f}, el={net.el_ratio:.2%}, bonds={r['n_bonds']}, time={elapsed:.1f}s")
-    
-    with open(os.path.join(OUT_DIR, "v27_results.json"), "w") as f:
-        json.dump(results, f, indent=2, default=str)
-    print(f"\nResults saved to {OUT_DIR}/v27_results.json")

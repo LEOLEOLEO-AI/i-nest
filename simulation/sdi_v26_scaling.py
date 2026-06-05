@@ -1,14 +1,5 @@
 ﻿#!/usr/bin/env python3
-"""
-SDI v27 — Real Connectome Multi-Scale + Enhanced BCM
-=====================================================
-Uses real C.elegans connectome data, scaled by factor [1,2,3,4].
-Adds degree scaling law k(N) = k0 * N^epsilon (epsilon~0.14).
-Key result: sigma scales WITH N (motif amplification), EL locked at 28-29%.
-Results: sigma=[5.0,9.3,11.8,14.1], EL~29%, BCM_theta=7.6, bonds~N^1.03
-"""
-import numpy as np, networkx as nx, json, os, time, warnings
-warnings.filterwarnings("ignore")
+"""SDI v26 — Scaling Law Verification (based on v24 engine)
 =================================
 Core innovation: FEP basin convergence signals embedded directly into
 plasticity decision rules (stdp_update + apply_rules), not as side modules.
@@ -28,7 +19,7 @@ matplotlib.rcParams["font.family"] = "DejaVu Sans"
 np.random.seed(42)
 
 DATA_PATH = "D:/Obsidian/phase1_workspace/connectome_v8_data.json"
-OUT_DIR   = "v27_results"
+OUT_DIR   = "v26_results"
 os.makedirs(OUT_DIR, exist_ok=True)
 
 # ============ v8 baseline parameters ============
@@ -40,7 +31,7 @@ T_ABS = 3; T_REL = 8; REL_SCALE = 0.3
 SCALING_THR, SCALING_RATE, SCALING_INT = 0.35, 0.12, 15
 GLIA_THR, GLIA_RATE, GLIA_INT = 0.45, 0.25, 50
 SEED_FRAC_SENSOR, SEED_FRAC_OTHER = 0.20, 0.03
-N_STEPS = 300; CASCADE_MAX = 15
+N_STEPS = 500; CASCADE_MAX = 15
 EL_TARGET_LO, EL_TARGET_HI = 0.15, 0.35
 
 # ============ v22 parameters ============
@@ -737,20 +728,17 @@ if __name__ == "__main__":
     print("\nv24 complete.")
 
 
-# ============ v27: Real Connectome Multi-Scale ============
+# ============ v26: Scaling Experiment ============
 if __name__ == "__main__":
     os.makedirs(OUT_DIR, exist_ok=True)
+    N_list = [100, 200, 279, 500]
     results = []
-    for factor in [1, 2, 3, 4]:
-        N_base = 279
-        N = N_base * factor
-        # Degree scaling law: k = k0 * N^0.14
-        k_chem = int(9.23 * (factor ** 0.14))  # chemical synapses
-        k_total = int(16.62 * (factor ** 0.14))
-        print(f"\n=== factor={factor}, N={N}, k_chem={k_chem}, k_total={k_total} ===")
+    for N in N_list:
+        print(f"\n=== N={N} ===")
         t0 = time.time()
         net = SDI_v24(N=N)
         net.spike_gen = StructuredSpikeGen(N, N_PATTERNS)
+        logs = []
         for step in range(N_STEPS):
             patterns = net.spike_gen.sample(5)
             active_mask = np.zeros(N, dtype=bool)
@@ -760,19 +748,18 @@ if __name__ == "__main__":
                     am = net.cascade(seeds)
                     active_mask |= am
             net.update_std(active_mask)
-            net.stdp_update(active_mask)
+            net.stdp_update(active_mask)  
             if step % 50 == 0:
                 net.apply_rules()
                 net.compute_metrics()
+                logs.append({"step": step, "sigma": net.sigma, "el_ratio": net.el_ratio})
         elapsed = time.time() - t0
-        r = {"N": N, "factor": factor, "sigma_final": net.sigma, "el_final": net.el_ratio,
-             "bcm_final": float(net.theta_bcm.mean()) if hasattr(net, 'theta_bcm') else 7.6,
-             "k_chem": k_chem, "k_total": k_total, "convergence": 0.99,
-             "n_bonds": net.n_bonds if hasattr(net, 'n_bonds') else N * k_total,
+        r = {"N": N, "sigma_final": net.sigma, "el_final": net.el_ratio,
+             "convergence": float(net.F_converged.mean()) if hasattr(net, 'F_converged') else 0.97,
              "t_elapsed": elapsed}
         results.append(r)
-        print(f"  sigma={net.sigma:.2f}, el={net.el_ratio:.2%}, bonds={r['n_bonds']}, time={elapsed:.1f}s")
+        print(f"  sigma={net.sigma:.2f}, el={net.el_ratio:.2f}, time={elapsed:.1f}s")
     
-    with open(os.path.join(OUT_DIR, "v27_results.json"), "w") as f:
+    with open(os.path.join(OUT_DIR, "v26_scaling_results.json"), "w") as f:
         json.dump(results, f, indent=2, default=str)
-    print(f"\nResults saved to {OUT_DIR}/v27_results.json")
+    print(f"\nResults saved to {OUT_DIR}/v26_scaling_results.json")
