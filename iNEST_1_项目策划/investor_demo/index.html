@@ -106,7 +106,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 .tl-card:hover{border-color:rgba(0,212,255,0.2);background:rgba(255,255,255,0.035)}
 .tl-card::after{content:"";position:absolute;inset:0;border-radius:16px;opacity:0;transition:opacity 0.4s;background:radial-gradient(600px circle at var(--mx,50%) var(--my,50%),rgba(0,212,255,0.04),transparent 50%)}.tl-node.expanded .tl-card::after{opacity:0!important}
 .tl-card:hover::after{opacity:1}
-.tl-node.expanded .tl-card{border-color:rgba(0,212,255,0.25);background:rgba(0,212,255,0.04);overflow:visible;padding-bottom:32px}
+.tl-node.expanded .tl-card{border-color:rgba(0,212,255,0.25);background:rgba(0,212,255,0.04);overflow:visible;padding-bottom:40px}
 .tl-header{display:flex;align-items:flex-start;gap:16px}
 .tl-icon{font-size:28px;flex-shrink:0;width:44px;height:44px;display:flex;align-items:center;justify-content:center;background:rgba(0,212,255,0.06);border-radius:12px}
 .tl-meta{flex:1}
@@ -120,8 +120,8 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 .tl-tag.tag-code{background:rgba(245,158,11,0.1);color:var(--gold)}
 .tl-tag.tag-eng{background:rgba(0,200,100,0.12);color:#0c8}
 
-.tl-detail{max-height:0;overflow:hidden;transition:max-height 0.5s cubic-bezier(0.4,0,0.2,1),margin 0.4s,padding 0.4s}
-.tl-node.expanded .tl-detail{max-height:8000px;overflow:visible;margin-top:14px;padding-top:14px;padding-bottom:24px;border-top:1px solid rgba(0,212,255,0.12)}
+.tl-detail{max-height:0;overflow:hidden;transition:max-height 0.5s cubic-bezier(0.4,0,0.2,1),margin 0.4s,padding 0.4s;padding-bottom:24px}
+.tl-node.expanded .tl-detail{max-height:12000px;overflow:visible;margin-top:14px;padding-top:14px;padding-bottom:32px;border-top:1px solid rgba(0,212,255,0.12)}
 .tl-node:not(.expanded) .tl-detail{max-height:0;overflow:hidden;margin-top:0;padding-top:0;padding-bottom:0;border-top:none}
 .tl-metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin:12px 0}
 .tl-metric{background:rgba(0,0,0,0.3);border-radius:10px;padding:12px;text-align:center}
