@@ -171,20 +171,37 @@ class SDI_v24:
         self.G.clear()
         self.G.add_nodes_from(range(self.N))
         M = len(self.weight)
-        # Include ALL edges in the structural graph for connectivity
-        # Only filter out truly dead edges (weight near zero)
-        active = self.weight > 1e-8
+        # Target edge count: enough for connectivity but bounded for speed
+        target_edges = min(M, max(5 * self.N, 20000))
+        if M <= target_edges:
+            active = np.ones(M, bool)
+        else:
+            w_thresh = np.partition(self.weight, M - target_edges)[M - target_edges]
+            w_thresh = max(w_thresh, 1e-6)
+            active = self.weight >= w_thresh
         for j in np.where(active)[0]:
             self.G.add_edge(int(self.src[j]), int(self.tgt[j]))
-        # If still disconnected, add strongest remaining edges
+        # Guarantee connectivity (v24.6: component-based, O(N) not O(E^2))
         if self.G.number_of_nodes() > 1 and not nx.is_weakly_connected(self.G):
+            components = list(nx.weakly_connected_components(self.G))
+            node_to_comp = {}
+            for comp_id, comp in enumerate(components):
+                for node in comp:
+                    node_to_comp[node] = comp_id
             inactive = np.where(~active)[0]
             if len(inactive) > 0:
                 sorted_weak = inactive[np.argsort(self.weight[inactive])[::-1]]
                 for j in sorted_weak:
-                    self.G.add_edge(int(self.src[j]), int(self.tgt[j]))
-                    if nx.is_weakly_connected(self.G):
-                        break
+                    s, t = int(self.src[j]), int(self.tgt[j])
+                    if s in node_to_comp and t in node_to_comp and node_to_comp[s] != node_to_comp[t]:
+                        self.G.add_edge(s, t)
+                        old_comp = node_to_comp[t]
+                        new_comp = node_to_comp[s]
+                        for node_key, comp_val in node_to_comp.items():
+                            if comp_val == old_comp:
+                                node_to_comp[node_key] = new_comp
+                        if len(set(node_to_comp.values())) == 1:
+                            break
     # ===== v24: FEP basin tracking =====
     def fep_compute_energy(self):
         for i in range(self.N):
