@@ -35,7 +35,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 .stat-unit{font-size:16px;font-weight:300;color:rgba(0,212,255,0.6)}
 .stat-label{font-size:12px;color:var(--dim);margin-top:8px;text-transform:uppercase;letter-spacing:0.1em}
 .formula-box{background:rgba(0,0,0,0.4);border:1px solid rgba(0,212,255,0.2);border-radius:16px;padding:32px;text-align:center;font-family:'Courier New',monospace;margin:32px 0}
-.formula-main{font-size:clamp(20px,3vw,32px);color:var(--cyan);font-weight:700;letter-spacing:0.03em;line-height:1.6}
+.formula-main{font-size:clamp(16px,2.5vw,25px);color:var(--cyan);font-weight:700;letter-spacing:0.03em;line-height:1.6}
 .formula-sub{font-size:14px;color:var(--dim);margin-top:8px}
 .threshold-row{display:flex;align-items:center;gap:12px;padding:16px 0;border-bottom:1px solid rgba(255,255,255,0.04)}
 .threshold-icon{font-size:24px;width:40px;text-align:center;flex-shrink:0}
@@ -177,9 +177,6 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 <!-- ====== HERO ====== -->
 <section class="section-hero" id="hero">
   <div class="container">
-    <div class="fade-up" style="margin-bottom:24px">
-      <img src="logo.png" alt="iNEST" style="height:48px;filter:drop-shadow(0 0 24px rgba(0,212,255,0.3))" onerror="this.style.display='none'">
-    </div>
     <p class="section-tag fade-up">CST 阈值定理 · 六级涌现标尺</p>
     <h1 class="hero-title fade-up">
       从<span class="hl">算力堆砌</span><br>
@@ -191,7 +188,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
       而是网络时空协同复杂度跨越阈值后的必然涌现。
     </p>
     <div class="formula-box fade-up">
-      <div class="formula-main">CST = (S<sub>c</sub> · T<sub>c</sub>) · e<sup>α·Γ<sub>st</sub></sup> → Intelligence Emerging</div>
+      <div class="formula-main">CST = (S<sub>c</sub> · T<sub>c</sub>) · e<sup>α·Γ<sub>st</sub></sup> → <span style="color:var(--gold)">Intelligence Emerging</span></div>
       <div class="formula-sub">空间复杂度 × 时间复杂度 × 时空协同指数放大 → 智能涌现</div>
     </div>
     <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap" class="fade-up">
@@ -208,8 +205,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
   <div class="container">
     <h2 class="section-heading fade-up">先贤的回响 · <span class="hl">半个世纪的共识</span></h2>
     <p class="section-lead fade-up" style="max-width:800px;margin-bottom:48px">
-      跨越物理学、神经科学、复杂系统与人工智能——十位最敏锐的思想者，以不同语言指向同一个洞见：<br>
-      <strong style="color:var(--fg)">智能不在节点，在连接；不在计算，在涌现。</strong>
+      跨越物理学、神经科学、复杂系统与人工智能——十位最敏锐的思想者，以不同语言指向同一个洞见：<strong style="color:var(--fg)">智能不在节点，在连接；不在计算，在涌现。</strong>
     </p>
 
     <div class="authority-grid">
@@ -458,25 +454,17 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
         <div style="background:rgba(0,212,255,0.05);border-radius:10px;padding:16px">
           <div style="font-size:14px;font-weight:700;color:var(--cyan);margin-bottom:8px">S<sub>c</sub> · 空间网络复杂度</div>
           <p style="font-size:13px;color:var(--dim);line-height:1.8;margin:0">
-            网络结构丰富度的定量度量：<br>
-            · <strong style="color:var(--fg)">小世界系数 σ</strong> — 局部聚类与全局效率的平衡<br>
-            · <strong style="color:var(--fg)">层级模块度 Q</strong> — 多尺度组织<br>
-            · <strong style="color:var(--fg)">度分布熵 H(k)</strong> — 连接多样性<br>
-            S<sub>c</sub> = σ · C/L · log(N)
+            四项正交MECE图论指标的几何平均：<br>            · <strong style="color:var(--fg)">C · 全局连通性</strong> — LCC分数<br>            · <strong style="color:var(--fg)">H · 层级深度</strong> — 标度归一化k-core比<br>            · <strong style="color:var(--fg)">M · 模块度</strong> — 分辨率校正 Q&#8242;<br>            · <strong style="color:var(--fg)">Rsw · 小世界系数</strong> — tanh归一化 σ<br>            S<sub>c</sub> = (C · H · M · R<sub>sw</sub>)<sup>1/4</sup>
           </p>
         </div>
         <div style="background:rgba(124,58,237,0.05);border-radius:10px;padding:16px">
           <div style="font-size:14px;font-weight:700;color:var(--violet);margin-bottom:8px">T<sub>c</sub> · 时间动力学复杂度</div>
           <p style="font-size:13px;color:var(--dim);line-height:1.8;margin:0">
-            网络多时间尺度自发动力学的丰富度：<br>
-            · <strong style="color:var(--fg)">功率谱指数 β</strong> — 1/f 临界性<br>
-            · <strong style="color:var(--fg)">多尺度熵 MSE</strong> — 跨时间尺度信息<br>
-            · <strong style="color:var(--fg)">FEP收敛速率</strong> — 自组织效率<br>
-            T<sub>c</sub> 捕获网络在时间维度上的临界态质量
+            四项动力学生物标志物的几何平均：<br>            · <strong style="color:var(--fg)">λeff · 雪崩分支比</strong> — 神经雪崩临界性<br>            · <strong style="color:var(--fg)">Φ · 相变同步性</strong> — 区域间相位同步<br>            · <strong style="color:var(--fg)">Ψ · 连接时变性</strong> — 功能连接时间变异<br>            · <strong style="color:var(--fg)">Θ · 时间尺度多样性</strong> — 多尺度动力学<br>            T<sub>c</sub> = (λ<sub>eff</sub> · Φ · Ψ · Θ)<sup>1/4</sup>
           </p>
         </div>
         <div style="background:rgba(0,200,100,0.05);border-radius:10px;padding:16px">
-          <div style="font-size:14px;font-weight:700;color:#0c8;margin-bottom:8px">α · 物理基底耦合常数</div>
+          <div style="font-size:14px;font-weight:700;color:#0c8;margin-bottom:8px">α · 物理基底耦合常数 <span style="font-size:10px;font-weight:400;color:var(--dim)">(hardware, not software)</span></div>
           <p style="font-size:13px;color:var(--dim);line-height:1.8;margin:0">
             <strong style="color:var(--fg)">α = ln(M<sub>eff</sub>)</strong>，由器件物理唯一决定：<br>
             · M<sub>eff</sub> = 节点可区分的导态数量<br>
@@ -488,11 +476,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
         <div style="background:rgba(249,115,22,0.05);border-radius:10px;padding:16px">
           <div style="font-size:14px;font-weight:700;color:#f97316;margin-bottom:8px">Γ<sub>st</sub> · 时空协同耦合度</div>
           <p style="font-size:13px;color:var(--dim);line-height:1.8;margin:0">
-            结构与动力学的物理耦合——核心创新：<br>
-            · <strong style="color:var(--fg)">Γ<sub>st</sub> > 0</strong> — 结构与功能相互强化（涌现区）<br>
-            · <strong style="color:var(--fg)">Γ<sub>st</sub> = 0</strong> — 结构功能解耦（传统计算区）<br>
-            · <strong style="color:var(--fg)">SDI 键型状态机</strong>实现物理层的耦合<br>
-            这是 iNEST 区别于所有传统 AI 的数学根源
+            Γ<sub>st</sub> = NMI(M<sub>S</sub>, M<sub>T</sub>) · sign(Mantel(D<sub>A</sub>, D<sub>FC</sub>))<br><br>            <strong style="color:var(--fg)">结构-动力学耦合的定量度量</strong>：空间模块矩阵与时间相关矩阵的归一化互信息 × Mantel方向符号。Γ<sub>st</sub> ∈ [-1, 1]<br><br>            · <strong style="color:var(--fg)">Γ<sub>st</sub> > 0</strong> — 结构与功能相互强化（涌现区）<br>            · <strong style="color:var(--fg)">Γ<sub>st</sub> = 0</strong> — 结构功能解耦（传统计算区）<br>            · <strong style="color:var(--fg)">SDI 键型状态机</strong>在物理层实现耦合<br>            iNEST 区别于所有传统 AI 的数学根源
           </p>
         </div>
       </div>
@@ -1139,7 +1123,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
           <div style="min-width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#10B981,#059669);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px">Ⅰ</div>
           <div style="flex:1">
             <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px">
-              <span style="font-size:12px;color:#0c8;letter-spacing:0.1em">2024—2026</span>
+              <span style="font-size:12px;color:#0c8;letter-spacing:0.1em">2026—2027</span>
               <span style="font-weight:700;font-size:16px;color:var(--fg)">器件创新</span>
               <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">突破 α 锁</span>
             </div>
@@ -1151,7 +1135,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
           <div style="min-width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#0EA5E9,#0284C7);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px">Ⅱ</div>
           <div style="flex:1">
             <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px">
-              <span style="font-size:12px;color:#0ad;letter-spacing:0.1em">2026—2028</span>
+              <span style="font-size:12px;color:#0ad;letter-spacing:0.1em">2027—2029</span>
               <span style="font-weight:700;font-size:16px;color:var(--fg)">SDI 自演化</span>
               <span style="background:rgba(0,180,216,0.1);color:#0ad;padding:2px 10px;border-radius:10px;font-size:11px">突破 σ 锁</span>
             </div>
@@ -1163,7 +1147,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
           <div style="min-width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#7C3AED,#6D28D9);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px">Ⅲ</div>
           <div style="flex:1">
             <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px">
-              <span style="font-size:12px;color:var(--violet);letter-spacing:0.1em">2028—2030</span>
+              <span style="font-size:12px;color:var(--violet);letter-spacing:0.1em">2029—2031</span>
               <span style="font-weight:700;font-size:16px;color:var(--fg)">异质集成</span>
               <span style="background:rgba(124,58,237,0.1);color:var(--violet);padding:2px 10px;border-radius:10px;font-size:11px">突破 Φ 锁</span>
             </div>
@@ -1175,7 +1159,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
           <div style="min-width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#F97316,#EA580C);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px">Ⅳ</div>
           <div style="flex:1">
             <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px">
-              <span style="font-size:12px;color:#f97316;letter-spacing:0.1em">2030—2032</span>
+              <span style="font-size:12px;color:#f97316;letter-spacing:0.1em">2031—2033</span>
               <span style="font-weight:700;font-size:16px;color:var(--fg)">晶圆规模</span>
               <span style="background:rgba(249,115,22,0.1);color:#f97316;padding:2px 10px;border-radius:10px;font-size:11px">规模涌现</span>
             </div>
@@ -1187,7 +1171,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
           <div style="min-width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#EF4444,#DC2626);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px">Ⅴ</div>
           <div style="flex:1">
             <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px">
-              <span style="font-size:12px;color:#ef4444;letter-spacing:0.1em">2032—2035</span>
+              <span style="font-size:12px;color:#ef4444;letter-spacing:0.1em">2033—2035</span>
               <span style="font-weight:700;font-size:16px;color:var(--fg)">自生长自组装</span>
               <span style="background:rgba(239,68,68,0.1);color:#ef4444;padding:2px 10px;border-radius:10px;font-size:11px">材料融合</span>
             </div>
@@ -1217,7 +1201,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
     <p class="section-tag fade-up">工程产品</p>
     <h2 class="section-heading fade-up"><span class="hl">六级智涌脑</span> · 六代产品路线<br>从感知到超级智能 · 自然常数锚定的涌现阶梯</h2>
     <p class="section-lead fade-up">
-      六级智涌脑对应六大自然常数，每一代产品跨越一个 CST 阈值。通用智能（Ⅴ）即 AGI，2035 年目标实现。
+      六级智涌脑对应六大自然常数，每一代产品跨越一个 CST 阈值。通用智能（Ⅴ）即 AGI，2033—2035 年目标实现。
       每代产品的材料支撑独立划分，技术阶段（器件→SDI→集成→晶圆→自生长→自进化）为产品提供工程实现路径。
     </p>
 
@@ -1226,7 +1210,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
       <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
         <div style="font-size:40px;font-weight:800;color:var(--cyan);min-width:60px;text-align:center;line-height:1">Ⅰ</div>
         <div>
-          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">感知级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2024—2026</span></h3>
+          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">感知级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2026—2027</span></h3>
           <div style="display:flex;gap:8px;flex-wrap:wrap">
             <span style="background:rgba(0,212,255,0.12);color:var(--cyan);padding:2px 10px;border-radius:10px;font-size:11px;font-weight:600">CST ≥ 1/√2 ≈ 0.707</span>
             <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">对应：细菌级感知</span>
@@ -1244,7 +1228,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
       <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
         <div style="font-size:40px;font-weight:800;color:var(--cyan);min-width:60px;text-align:center;line-height:1">Ⅱ</div>
         <div>
-          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">反应级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2026—2028</span></h3>
+          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">反应级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2027—2029</span></h3>
           <div style="display:flex;gap:8px;flex-wrap:wrap">
             <span style="background:rgba(0,212,255,0.12);color:var(--cyan);padding:2px 10px;border-radius:10px;font-size:11px;font-weight:600">CST ≥ 1.000</span>
             <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">对应：线虫(302神经元)</span>
@@ -1262,7 +1246,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
       <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
         <div style="font-size:40px;font-weight:800;color:var(--violet);min-width:60px;text-align:center;line-height:1">Ⅲ</div>
         <div>
-          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">适应级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2028—2030</span></h3>
+          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">适应级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2029—2031</span></h3>
           <div style="display:flex;gap:8px;flex-wrap:wrap">
             <span style="background:rgba(124,58,237,0.12);color:var(--violet);padding:2px 10px;border-radius:10px;font-size:11px;font-weight:600">CST ≥ φ ≈ 1.618</span>
             <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">对应：章鱼</span>
@@ -1280,7 +1264,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
       <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
         <div style="font-size:40px;font-weight:800;color:var(--violet);min-width:60px;text-align:center;line-height:1">Ⅳ</div>
         <div>
-          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">创造级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2030—2033</span></h3>
+          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">创造级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2031—2033</span></h3>
           <div style="display:flex;gap:8px;flex-wrap:wrap">
             <span style="background:rgba(124,58,237,0.12);color:var(--violet);padding:2px 10px;border-radius:10px;font-size:11px;font-weight:600">CST ≥ e ≈ 2.718</span>
             <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">对应：乌鸦 / AlphaGo</span>
@@ -1412,8 +1396,8 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 <footer class="footer">
   <p style="font-size:16px;color:var(--cyan);font-weight:700;letter-spacing:0.1em;margin-bottom:8px">iNEST</p>
   <p>Intelligence Emerging from Network Temporal-Spatial Synergy</p>
-  <p style="margin-top:8px">CST = (S<sub>c</sub> · T<sub>c</sub>) · e<sup>α·Γ<sub>st</sub></sup> → Intelligence Emerging &nbsp;|&nbsp; Spearman ρ = 0.976</p>
-  <p style="margin-top:16px">CST 阈值定理 · Ⅰ感知→Ⅵ超级 · AGI 2035 · ASI Exploration 2035+</p>
+  <p style="margin-top:8px">CST = (S<sub>c</sub> · T<sub>c</sub>) · e<sup>α·Γ<sub>st</sub></sup> → <span style="color:var(--gold)">Intelligence Emerging</span> &nbsp;|&nbsp; Spearman ρ = 0.976</p>
+  <p style="margin-top:16px">CST 阈值定理 · Ⅰ感知→Ⅵ超级 · AGI 2035 · ASI Exploration 2038+</p>
   <p style="margin-top:24px;font-size:11px">&copy; 2026 iNEST Project | From Complexity Threshold to Intelligence Emergence</p>
 </footer>
 
@@ -1426,14 +1410,16 @@ function toggleMilestone(card) {
   var node = card.closest('.tl-node');
   var wasExpanded = node.classList.contains('expanded');
   document.querySelectorAll('.tl-node.expanded').forEach(function(n) {
-    if (n !== node) { n.classList.remove('expanded'); }
+    if (n !== node) { n.classList.remove('expanded'); var dd = n.querySelector('.tl-detail'); if (dd) dd.style.maxHeight = '0px'; }
   });
   if (wasExpanded) {
     node.classList.remove('expanded');
+    var d = card.querySelector('.tl-detail');
+    if (d) d.style.maxHeight = '0px';
   } else {
     node.classList.add('expanded');
     var d = card.querySelector('.tl-detail');
-    d.style.maxHeight = d.scrollHeight + 'px';
+    if (d) d.style.maxHeight = d.scrollHeight + 'px';
   }
 }
 
