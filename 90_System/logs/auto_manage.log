@@ -961,3 +961,105 @@ Done!
 Inbox processing complete.
 
 Done!
+warning: in the working copy of 'iNEST_1_È°πÁõÆÁ≠ñÂàí/investor_demo/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_MOC/PROGRESS_TRACKER.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_MOC/Q3_Q4_Roadmap.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_MOC/iNEST-Home_Dashboard.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_MOC/iNEST_45Day_Progress_PPT_Content.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_MOC/iNEST_45Â§©ÂèØÊâßË°åÊñπÊ°à.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '01_MOC/iNEST_ÁªºÂêàËøõÂ∫¶Êä•Âëä_2026-06-03.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_3_‰∏ìÂà©Êí∞ÂÜô/Patent_P1-5_RG_Emergence_Disclosure.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_3_‰∏ìÂà©Êí∞ÂÜô/Patent_P1-6_SDI_Topology_Optimization_Disclosure.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_Â∑•Á®ãÂºÄÂèë/SDIÂÆûÈ™å-2_V31_Â§öËÑëÂçè‰Ωú‰∏éÁæ§‰ΩìÊô∫ËÉΩÊ∂åÁé∞Ë∑ØÁ∫øÂõæ.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_Â∑•Á®ãÂºÄÂèë/check_dvs_raw.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_Â∑•Á®ãÂºÄÂèë/cst_phase_scan.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_Â∑•Á®ãÂºÄÂèë/fix_api_keys.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_Â∑•Á®ãÂºÄÂèë/multiscale.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_Â∑•Á®ãÂºÄÂèë/pyinest_lite.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_Â∑•Á®ãÂºÄÂèë/run_exps.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_4_Â∑•Á®ãÂºÄÂèë/run_rg_flow.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/CST_Axiomatization_Outline.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/CST_RG_Paper_Draft_v0.5.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/DVS_MultiFrame_Report.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/P-Theory_v2_Simulation_Supplement.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/Papers_Integration_Pack_v2.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/Papers_Patents_Update_2026-06-04.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/SDI_Simulation_Report.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/SDI_Simulation_Report_v2.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/Submission_Package_2026-06-04.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/Three_Papers_Gap_Analysis.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/W5_Paper_Submission_Pack.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/sdi_v31_multibrain.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/sdi_v32_agent_bridge.py', LF will be replaced by CRLF the next time Git touches it
+[main 0978b52] auto: inbox processing 2026/06/05 Âë®‰∫î  4:40:46.52
+ 60 files changed, 7785 insertions(+), 105 deletions(-)
+ delete mode 100644 00_Inbox/GetNotes/_processed/sample_TCC_SDI_test.md
+ delete mode 100644 "00_Inbox/GetNotes/_processed/\347\261\273\350\204\221\350\256\241\347\256\227\346\234\200\346\226\260\347\273\274\350\277\260.md"
+ delete mode 100644 "00_Inbox/GetNotes/_processed/\350\212\257\347\211\207\347\256\227\345\212\233\347\275\221\347\273\234\350\266\213\345\212\277.md"
+ create mode 100644 01_MOC/PROGRESS_TRACKER.md
+ create mode 100644 01_MOC/Q3_Q4_Roadmap.md
+ create mode 100644 01_MOC/iNEST-Home_Dashboard.md
+ create mode 100644 01_MOC/iNEST_45Day_Progress_PPT_Content.md
+ create mode 100644 "01_MOC/iNEST_45\345\244\251\345\217\257\346\211\247\350\241\214\346\226\271\346\241\210.md"
+ create mode 100644 "01_MOC/iNEST_\347\273\274\345\220\210\350\277\233\345\272\246\346\212\245\345\221\212_2026-06-03.md"
+ create mode 100644 "03_Topics/Chip-Hardware/\347\261\273\350\204\221\350\256\241\347\256\227\346\234\200\346\226\260\347\273\274\350\277\260.md"
+ create mode 100644 "03_Topics/Chip-Hardware/\350\212\257\347\211\207\347\256\227\345\212\233\347\275\221\347\273\234\350\266\213\345\212\277.md"
+ create mode 100644 03_Topics/TCC-SDI/sample_TCC_SDI_test.md
+ delete mode 100644 "TCC_1_\351\241\271\347\233\256\347\255\226\345\210\222/Git\346\270\205\351\231\244\345\257\206\347\240\201\346\214\207\345\215\227.md"
+ create mode 100644 "iNEST_3_\344\270\223\345\210\251\346\222\260\345\206\231/Patent_P1-5_RG_Emergence_Disclosure.md"
+ create mode 100644 "iNEST_3_\344\270\223\345\210\251\346\222\260\345\206\231/Patent_P1-6_SDI_Topology_Optimization_Disclosure.md"
+ create mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/SDI\345\256\236\351\252\214-2_V31_\345\244\232\350\204\221\345\215\217\344\275\234\344\270\216\347\276\244\344\275\223\346\231\272\350\203\275\346\266\214\347\216\260\350\267\257\347\272\277\345\233\276.md"
+ create mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/check_dvs_raw.py"
+ create mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/cst_phase_scan.py"
+ create mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/fix_api_keys.py"
+ create mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/multiscale.py"
+ create mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/pyinest_lite.py"
+ create mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/run_exps.py"
+ create mode 100644 "iNEST_4_\345\267\245\347\250\213\345\274\200\345\217\221/run_rg_flow.py"
+ create mode 100644 papers/CST_Axiomatization_Outline.md
+ create mode 100644 papers/CST_RG_Paper_Draft_v0.5.md
+ create mode 100644 papers/CST_RG_Paper_v1.0.md
+ create mode 100644 papers/CST_RG_Paper_v1.1_Revised.md
+ create mode 100644 papers/DVS_MultiFrame_Report.md
+ create mode 100644 papers/Experimental_Data_Pack_2026-06-04.md
+ create mode 100644 papers/P-Theory_v2_Simulation_Supplement.md
+ create mode 100644 papers/Papers_Integration_Pack_v2.md
+ create mode 100644 papers/Papers_Patents_Update_2026-06-04.md
+ create mode 100644 papers/SDI_Simulation_Report.md
+ create mode 100644 papers/SDI_Simulation_Report_v2.md
+ create mode 100644 papers/Submission_Package_2026-06-04.md
+ create mode 100644 papers/Three_Papers_Gap_Analysis.md
+ create mode 100644 papers/Three_Papers_Review_2026-06-04.md
+ create mode 100644 papers/W5_Paper_Submission_Pack.md
+ create mode 100644 scripts/daily_kanban_update.py
+ create mode 100644 simulation/c_elegans_2000.json
+ create mode 100644 simulation/c_elegans_500.json
+ create mode 100644 simulation/connectome_v8_data.json
+ create mode 100644 simulation/cst_phase_scan_N1024.json
+ create mode 100644 simulation/data/v31_results/v31_multibrain_results.json
+ create mode 100644 simulation/data/v32_results/v32_hybrid_results.json
+ create mode 100644 simulation/fig_cst_phase_transition.png
+ create mode 100644 simulation/fig_cst_phase_transition_N1024.png
+ create mode 100644 simulation/fig_rg_flow.png
+ create mode 100644 simulation/fig_rg_flow_mc.png
+ create mode 100644 simulation/fig_scale_emergence.png
+ create mode 100644 simulation/fig_sdi_experiments.png
+ create mode 100644 simulation/rg_flow_results.json
+ create mode 100644 simulation/sdi_engine.py
+ create mode 100644 simulation/sdi_experiments_summary.json
+ create mode 100644 simulation/sdi_v31_multibrain.py
+ create mode 100644 simulation/sdi_v32_agent_bridge.py
+[2026/06/05 ÷‹ŒÂ  4:40:46.82] Auto-management complete. 
+======================================== 
+[2026/06/05 ÷‹ŒÂ  9:06:01.62] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 3 inbox notes...
+Inbox:   0%|          | 0/3 [00:00<?, ?it/s]Inbox:  33%|®Ä®Ä®Ä®Ü      | 1/3 [00:19<00:38, 19.49s/it]Inbox: 100%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä| 3/3 [00:19<00:00,  6.52s/it]
+  [OK] new_note_after_cutoff.md -> TCC-SDI/
+  Skipping short note: old_note_before_cutoff.md
+  Skipping short note: ΩÒ»’Ω°…Ì»’º«.md
+
+Inbox processing complete.
+
+Done!
