@@ -27,7 +27,7 @@ TAU_STDP = 20
 ETA_LTP = 0.010
 ETA_LTD = 0.008
 Ea_S, Ea_L = 0.15, 0.85
-THETA_LTP_BASE = 25
+THETA_LTP_BASE = 16  # Lower threshold for young network E-L consolidation
 THETA_LTD = 8
 T_DECAY = 25000
 T_ABS = 3
@@ -40,6 +40,8 @@ GLIA_THR = 0.45
 GLIA_RATE = 0.25
 GLIA_INT = 50
 NOISE_LEVEL = 0.02
+I_SPONT = 0.40          # Spontaneous depolarizing current applied to ALL neurons (leak + background)
+# I_SPONT applied to ALL neurons each step (universal leak/background drive)
 RESOURCE_DECAY = 0.995
 SIGNAL_DECAY = 0.9
 IB_ETA_LTP = 0.008
@@ -62,10 +64,15 @@ class BrainRegion:
         G = nx.watts_strogatz_graph(N, k, 0.3)
         edges = list(G.edges())
         
+        # Directed: each edge gets a random direction — creates inherent
+        # information flow asymmetry essential for STDP differentiation.
+        # (Biological basis: axon→dendrite unidirectionality)
         src_list, tgt_list = [], []
         for u, v in edges:
-            src_list.extend([u, v])
-            tgt_list.extend([v, u])
+            if random.random() < 0.5:
+                src_list.append(u); tgt_list.append(v)
+            else:
+                src_list.append(v); tgt_list.append(u)
         self.src = np.array(src_list, np.int32)
         self.tgt = np.array(tgt_list, np.int32)
         self.n_bonds = len(self.src)
@@ -86,7 +93,7 @@ class BrainRegion:
         self.F_history = np.full((N, 20), 0.1, np.float64)
         self.F_ptr = 0
         self.basin_count = np.zeros(N, np.int32)
-        self.theta_bcm = np.full(N, 8.0, dtype=np.float64)
+        self.theta_bcm = np.full(N, 4.0, dtype=np.float64)  # Lower initial threshold for young network
         self.BCM_ETA = 0.25
         self.R = np.ones(self.n_bonds, dtype=np.float64)
         self.scaling_events = 0
@@ -100,6 +107,16 @@ class BrainRegion:
         in_rel = (step_num - self.last_spike) < (T_ABS + T_REL)
         self.V *= 0.9
         
+        # Spontaneous background drive to ALL neurons (leak channels + tonic
+        # background synaptic bombardment; Destexhe et al. 2003).
+        # Every neuron receives baseline depolarization — this is the physical
+        # basis for resting membrane potential fluctuations.
+        self.V += I_SPONT
+        
+        # Apply external sensory input BEFORE spike detection (causal ordering)
+        if external_input is not None:
+            self.V += external_input
+        
         active = self.spike.copy()
         for b in range(self.n_bonds):
             if active[self.src[b]] and not in_ref[self.tgt[b]]:
@@ -108,8 +125,21 @@ class BrainRegion:
                 rf = REL_SCALE if in_rel[self.tgt[b]] else 1.0
                 self.V[self.tgt[b]] += w * rf
         
+        # Lateral inhibition (cortical winner-take-all): only top-k
+        # neurons fire, creating sparse coding essential for STDP differentiation.
+        # k dynamically scales with network size and activity level.
         threshold = self.theta_bcm
-        new_spikes = (self.V > threshold) & (~in_ref)
+        supra = self.V > threshold
+        supra &= ~in_ref
+        k = max(3, int(N * 0.15))  # Top 15% or at least 3 neurons
+        if supra.sum() > k:
+            # Sort by V, keep only top-k
+            supra_idx = np.where(supra)[0]
+            top_k = supra_idx[np.argsort(self.V[supra_idx])[-k:]]
+            new_spikes = np.zeros(N, dtype=bool)
+            new_spikes[top_k] = True
+        else:
+            new_spikes = supra.copy()
         self.spike = new_spikes
         self.last_spike[new_spikes] = step_num
         self.spike_count[new_spikes] += 1
@@ -127,7 +157,6 @@ class BrainRegion:
         self.spike_history[:, self.hist_ptr] = self.spike.astype(np.float64)
         self.hist_ptr = (self.hist_ptr + 1) % TAU_STDP
         
-        if external_input is not None: self.V += external_input
         if step_num % 50 == 0 and step_num > 0: self._compute_metrics()
 
     def _stdp_update(self, step):
@@ -162,7 +191,10 @@ class BrainRegion:
         s = np.abs(self.F_local - self.F_history.mean(axis=1)) / (self.F_history.std(axis=1) + 1e-8)
         eta = self.BCM_ETA * (1 + 0.8 * np.tanh(s))
         self.theta_bcm += eta * h**2 * (h - self.theta_bcm)
-        self.theta_bcm = np.clip(self.theta_bcm, 5.0, 15.0)
+        # Homeostatic plasticity: silent neurons lower their threshold (Turrigiano 1998)
+        silent = h < 0.005
+        self.theta_bcm[silent] *= 0.95
+        self.theta_bcm = np.clip(self.theta_bcm, 2.0, 15.0)
 
     def _scaling_check(self):
         out_w = np.bincount(self.src, weights=np.abs(self.weight), minlength=self.N)
