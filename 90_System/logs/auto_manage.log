@@ -1126,3 +1126,45 @@ warning: in the working copy of 'simulation/_recover_all.py', LF will be replace
 Inbox processing complete.
 
 Done!
+warning: in the working copy of 'TCC_2_è®ºæ–‡æ’°å†™/00_TCC_INEST_è®ºæ–‡ä¸“åˆ©æ€»è§ˆä¸ŽæŽ¨è¿›è®¡åˆ’_20260606_è¯¦ç»†ç‰ˆ.md', LF will be replaced by CRLF the next time Git touches it
+[main d7394a2] auto: inbox processing 2026/06/06 å‘¨å…­  0:40:04.48
+ 30 files changed, 1781 insertions(+), 16 deletions(-)
+ create mode 100644 03_Topics/Web-Clips/2026-06-06 iNEST Daily Crawl.md
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/00_TCC_INEST_\350\256\272\346\226\207\344\270\223\345\210\251\346\200\273\350\247\210\344\270\216\346\216\250\350\277\233\350\256\241\345\210\222_20260606_\350\257\246\347\273\206\347\211\210.md"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_cross_species_sigma.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_cst_phase_transition_N1024.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_dvs_temporal.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_experiment_overview.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_rg_flow.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_scale_emergence.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_sdi_experiments.png"
+ create mode 100644 "iNEST_2_\350\256\272\346\226\207\346\222\260\345\206\231/P-Theory_v3.tex"
+ create mode 100644 "iNEST_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_cross_species_sigma.png"
+ create mode 100644 "iNEST_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_cst_phase_transition_N1024.png"
+ create mode 100644 "iNEST_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_dvs_temporal.png"
+ create mode 100644 "iNEST_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_experiment_overview.png"
+ create mode 100644 "iNEST_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_rg_flow.png"
+ create mode 100644 "iNEST_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_scale_emergence.png"
+ create mode 100644 "iNEST_2_\350\256\272\346\226\207\346\222\260\345\206\231/fig_sdi_experiments.png"
+ create mode 100644 papers/CST_RG_PRL_Cover_Letter.md
+ create mode 100644 papers/fig_cross_species_sigma.png
+ create mode 100644 papers/fig_cst_phase_transition_N1024.png
+ create mode 100644 papers/fig_dvs_temporal.png
+ create mode 100644 papers/fig_experiment_overview.png
+ create mode 100644 papers/fig_rg_flow.png
+ create mode 100644 papers/fig_scale_emergence.png
+ create mode 100644 papers/fig_sdi_experiments.png
+ create mode 100644 reports/iNEST_CN_Simulation_Report.md
+[2026/06/06 ÖÜÁù  0:40:04.64] Auto-management complete. 
+======================================== 
+[2026/06/06 ÖÜÁù  8:40:01.67] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 2 inbox notes...
+Inbox:   0%|          | 0/2 [00:00<?, ?it/s]Inbox: 100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 2/2 [00:00<00:00, 68.24it/s]
+  Skipping short note: old_note_before_cutoff.md
+  Skipping short note: ½ñÈÕ½¡ÉíÈÕ¼Ç.md
+
+Inbox processing complete.
+
+Done!
