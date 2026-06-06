@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8"><title>Daily Test</title>
+<style>
+body{background:#080c14;color:#e2e8f0;font-family:sans-serif;padding:20px}
+.card{background:#111827;border:1px solid #1e2d4a;padding:16px;margin:10px 0;border-radius:10px}
+h3{color:#38bdf8}.plan-item{padding:8px 12px;margin:4px 0;background:#1a2236;border-radius:6px}
+.tcc{color:#38bdf8}.inest{color:#4ade80}
+</style></head>
+<body>
+<h1>Daily Progress Test</h1>
+<div id="root"></div>
+<script>
+var daily = [{"date": "2026-06-06", "type": "today", "progress": [{"text": "?????????34??????phase1_workspace???simulation????", "dot": "done", "dim": "TCC+iNEST"}, {"text": "?????????BOM???renderDaily???????UTF-8??", "dot": "done", "dim": "TCC+iNEST"}, {"text": "???????????????????", "dot": "done", "dim": "TCC+iNEST"}], "plan": [{"text": "??SDI v31????????", "dot": "plan", "dim": "TCC"}, {"text": "??????????", "dot": "plan", "dim": "iNEST"}, {"text": "???????????", "dot": "plan", "dim": "TCC+iNEST"}]}, {"date": "2026-06-05", "type": "yesterday", "progress": [{"text": "Meta-Topology SDI-Bond论文v3修订完成", "dot": "done", "dim": "TCC"}, {"text": "CST Theory V26定稿", "dot": "done", "dim": "TCC"}, {"text": "SDI v30 多区域拓扑网络（multi-region）架构设计与初始仿真", "dot": "ongoing", "dim": "TCC"}, {"text": "拓扑中心计算范式理论框架进一步细化", "dot": "ongoing", "dim": "TCC"}, {"text": "14篇论文专利按Obsidian知识库规则归档至papers-TCC、papers-iNEST、TCC_3_专利撰写、iNEST_3_专利撰写等目录", "dot": "done", "dim": "TCC+iNEST"}], "plan": [{"text": "SDI v30 多区域跨尺度耦合验证实验", "dot": "plan", "dim": "TCC"}, {"text": "FEP-STDP 收敛性证明数学推导完成", "dot": "plan", "dim": "iNEST"}, {"text": "核心架构论文 Results 章节撰写", "dot": "plan", "dim": "iNEST"}]}, {"date": "2026-06-04", "type": "past", "progress": [{"text": "SDI v30 多区域拓扑仿真框架搭建完成", "dot": "done", "dim": "TCC"}, {"text": "SDI v29 功能性涌现模块集成测试，PASS率 94.2%", "dot": "done", "dim": "iNEST"}, {"text": "iNEST 核心架构论文 Methods 章节定稿", "dot": "done", "dim": "iNEST"}], "plan": [{"text": "SDI v30 多区域耦合验证", "dot": "done", "dim": "TCC"}, {"text": "专利组合文档 v2.1 更新", "dot": "ongoing", "dim": "TCC+iNEST"}]}, {"date": "2026-06-03", "type": "past", "progress": [{"text": "SDI v8-v28 版本批量回归测试与性能对比", "dot": "done", "dim": "iNEST"}, {"text": "FPGA Verilog 代码：sdio_bond_core_v24 模块实现", "dot": "done", "dim": "iNEST"}, {"text": "iNEST 爬虫系统更新，知识采集管线优化", "dot": "done", "dim": "iNEST"}, {"text": "液态计算化学论文 draft-v2 迭代", "dot": "done", "dim": "iNEST"}, {"text": "投资人演示 Demo v3 站点构建与部署", "dot": "done", "dim": "iNEST"}], "plan": []}, {"date": "2026-06-02", "type": "past", "progress": [{"text": "SDI v27->v28 多尺度融合框架实现完成", "dot": "done", "dim": "iNEST"}, {"text": "专利组合详细方案初稿（FEP-STDP/涌现检测/拓扑优化）", "dot": "done", "dim": "TCC+iNEST"}], "plan": []}];
+var WEEKDAYS=["日","一","二","三","四","五","六"];
+
+var html = "";
+daily.forEach(function(d){
+  html += '<div class="card">';
+  html += '<h3>' + d.date + ' (' + d.type + ')</h3>';
+  if(d.progress) d.progress.forEach(function(p){
+    html += '<div class="plan-item">[' + p.dim + '] ' + p.text + '</div>';
+  });
+  if(d.plan) d.plan.forEach(function(p){
+    html += '<div class="plan-item tcc">[Plan] [' + p.dim + '] ' + p.text + '</div>';
+  });
+  html += '</div>';
+});
+document.getElementById("root").innerHTML = html;
+</script>
+</body></html>
