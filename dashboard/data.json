@@ -139,18 +139,13 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 27 commits pushed",
+            "text": "Gitee sync: 28 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
         },
         {
             "text": "New research ideas: 6",
             "dot": "done",
-            "dim": "iNEST"
-        },
-        {
-            "text": "Inbox processing: 10 items to triage",
-            "dot": "ongoing",
             "dim": "iNEST"
         }
     ],
