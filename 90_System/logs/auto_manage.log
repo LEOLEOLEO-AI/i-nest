@@ -1173,3 +1173,113 @@ warning: in the working copy of 'simulation/_verify_constants.py', LF will be re
  3 files changed, 396 insertions(+), 81 deletions(-)
  create mode 100644 simulation/_verify_constants.py
 [2026/06/06 周六  8:40:05.24] Auto-management complete. 
+======================================== 
+[2026/06/06 周六 10:43:38.40] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 102 inbox notes...
+Inbox:   0%|          | 0/102 [00:00<?, ?it/s]Inbox:   1%|          | 1/102 [00:30<51:39, 30.69s/it]Inbox:   2%|▏         | 2/102 [00:40<30:27, 18.27s/it]Inbox:   3%|▎         | 3/102 [01:03<33:43, 20.44s/it]Inbox:   4%|▍         | 4/102 [01:19<30:29, 18.66s/it]Inbox:   5%|▍         | 5/102 [01:28<24:57, 15.44s/it]Inbox:   6%|▌         | 6/102 [01:43<24:16, 15.17s/it]Inbox:   7%|▋         | 7/102 [01:54<21:49, 13.78s/it]======================================== 
+[2026/06/06 周六 12:40:02.39] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 95 inbox notes...
+Inbox:   0%|          | 0/95 [00:00<?, ?it/s]Inbox:   1%|          | 1/95 [00:23<36:13, 23.12s/it]Inbox:   2%|▏         | 2/95 [00:34<24:55, 16.08s/it]Inbox:   3%|▎         | 3/95 [00:44<20:34, 13.42s/it]Inbox:   4%|▍         | 4/95 [00:55<19:09, 12.63s/it]Inbox:   5%|▌         | 5/95 [01:02<15:37, 10.42s/it]Inbox:   6%|▋         | 6/95 [01:16<17:04, 11.51s/it]Inbox:   7%|▋         | 7/95 [01:27<16:59, 11.59s/it]Inbox:   8%|▊         | 8/95 [01:43<18:31, 12.78s/it]Inbox:   9%|▉         | 9/95 [01:52<16:44, 11.68s/it]Inbox:  11%|█         | 10/95 [02:07<18:06, 12.78s/it]Inbox:  12%|█▏        | 11/95 [02:13<15:05, 10.78s/it]Inbox:  13%|█▎        | 12/95 [02:24<14:42, 10.63s/it]Inbox:  14%|█▎        | 13/95 [02:30<12:50,  9.39s/it]Inbox:  15%|█▍        | 14/95 [02:50<16:42, 12.38s/it]Inbox:  16%|█▌        | 15/95 [03:03<16:48, 12.61s/it]Inbox:  17%|█▋        | 16/95 [03:19<17:59, 13.67s/it]Inbox:  18%|█▊        | 17/95 [03:30<16:39, 12.81s/it]Inbox:  19%|█▉        | 18/95 [03:43<16:41, 13.00s/it]Inbox:  20%|██        | 19/95 [04:08<20:57, 16.55s/it]Inbox:  21%|██        | 20/95 [04:29<22:24, 17.93s/it]Inbox:  22%|██▏       | 21/95 [04:42<20:27, 16.59s/it]Inbox:  23%|██▎       | 22/95 [05:11<24:22, 20.04s/it]Inbox:  24%|██▍       | 23/95 [05:33<24:46, 20.65s/it]Inbox:  25%|██▌       | 24/95 [05:47<22:09, 18.73s/it]Inbox:  26%|██▋       | 25/95 [06:04<21:12, 18.18s/it]Inbox:  27%|██▋       | 26/95 [06:29<23:27, 20.39s/it]Inbox:  28%|██▊       | 27/95 [06:39<19:36, 17.30s/it]Inbox:  29%|██▉       | 28/95 [07:01<20:53, 18.71s/it]Inbox:  31%|███       | 29/95 [07:15<18:54, 17.20s/it]Inbox:  32%|███▏      | 30/95 [07:37<20:10, 18.63s/it]Inbox:  33%|███▎      | 31/95 [07:57<20:16, 19.00s/it]Inbox:  34%|███▎      | 32/95 [08:15<19:32, 18.60s/it]Inbox:  35%|███▍      | 33/95 [08:27<17:10, 16.63s/it]Inbox:  36%|███▌      | 34/95 [08:42<16:33, 16.28s/it]Inbox:  37%|███▋      | 35/95 [08:51<14:10, 14.17s/it]Inbox:  38%|███▊      | 36/95 [09:03<13:13, 13.44s/it]Inbox:  39%|███▉      | 37/95 [09:15<12:31, 12.95s/it]Inbox:  40%|████      | 38/95 [09:32<13:35, 14.30s/it]Inbox:  41%|████      | 39/95 [09:46<13:18, 14.26s/it]Inbox:  42%|████▏     | 40/95 [10:02<13:27, 14.67s/it]Inbox:  43%|████▎     | 41/95 [10:15<12:48, 14.24s/it]Inbox:  44%|████▍     | 42/95 [10:32<13:08, 14.89s/it]Inbox:  45%|████▌     | 43/95 [10:42<11:35, 13.38s/it]Inbox:  46%|████▋     | 44/95 [10:52<10:44, 12.63s/it]Inbox:  47%|████▋     | 45/95 [11:06<10:43, 12.87s/it]Inbox:  48%|████▊     | 46/95 [11:25<12:01, 14.73s/it]Inbox:  49%|████▉     | 47/95 [11:32<09:57, 12.46s/it]Inbox:  51%|█████     | 48/95 [11:41<08:50, 11.28s/it]Inbox:  52%|█████▏    | 49/95 [11:55<09:19, 12.15s/it]Inbox:  53%|█████▎    | 50/95 [12:08<09:15, 12.35s/it]Inbox:  54%|█████▎    | 51/95 [12:17<08:22, 11.43s/it]Inbox:  55%|█████▍    | 52/95 [12:35<09:36, 13.40s/it]Inbox:  56%|█████▌    | 53/95 [12:52<10:08, 14.48s/it]Inbox:  57%|█████▋    | 54/95 [13:08<10:18, 15.08s/it]Inbox:  58%|█████▊    | 55/95 [13:20<09:22, 14.07s/it]Inbox:  59%|█████▉    | 56/95 [13:31<08:34, 13.20s/it]Inbox:  60%|██████    | 57/95 [13:38<07:12, 11.37s/it]Inbox:  61%|██████    | 58/95 [13:52<07:25, 12.04s/it]Inbox:  62%|██████▏   | 59/95 [14:04<07:15, 12.11s/it]Inbox:  63%|██████▎   | 60/95 [14:19<07:31, 12.89s/it]Inbox:  64%|██████▍   | 61/95 [14:32<07:19, 12.93s/it]Inbox:  65%|██████▌   | 62/95 [14:45<07:09, 13.01s/it]Inbox:  66%|██████▋   | 63/95 [15:06<08:12, 15.40s/it]Inbox:  67%|██████▋   | 64/95 [15:17<07:17, 14.12s/it]Inbox:  68%|██████▊   | 65/95 [15:23<05:50, 11.67s/it]Inbox:  69%|██████▉   | 66/95 [15:42<06:41, 13.84s/it]Inbox:  71%|███████   | 67/95 [16:04<07:36, 16.29s/it]Inbox:  72%|███████▏  | 68/95 [17:17<14:53, 33.09s/it]Inbox:  73%|███████▎  | 69/95 [17:32<12:01, 27.77s/it]Inbox:  74%|███████▎  | 70/95 [17:57<11:16, 27.04s/it]Inbox:  75%|███████▍  | 71/95 [18:12<09:19, 23.32s/it]Inbox:  76%|███████▌  | 72/95 [18:26<07:49, 20.43s/it]Inbox:  77%|███████▋  | 73/95 [18:44<07:17, 19.87s/it]Inbox:  78%|███████▊  | 74/95 [19:13<07:55, 22.64s/it]Inbox:  79%|███████▉  | 75/95 [19:30<06:58, 20.91s/it]Inbox:  80%|████████  | 76/95 [19:46<06:09, 19.47s/it]Inbox:  81%|████████  | 77/95 [19:59<05:15, 17.55s/it]Inbox:  82%|████████▏ | 78/95 [20:27<05:52, 20.75s/it]Inbox:  83%|████████▎ | 79/95 [20:44<05:09, 19.35s/it]Inbox:  84%|████████▍ | 80/95 [20:54<04:11, 16.79s/it]Inbox:  85%|████████▌ | 81/95 [21:12<03:59, 17.09s/it]Inbox:  86%|████████▋ | 82/95 [21:20<03:07, 14.40s/it]Inbox:  87%|████████▋ | 83/95 [21:50<03:49, 19.09s/it]Inbox:  88%|████████▊ | 84/95 [22:18<03:58, 21.66s/it]Inbox:  89%|████████▉ | 85/95 [22:33<03:17, 19.78s/it]Inbox:  91%|█████████ | 86/95 [22:57<03:07, 20.82s/it]Inbox:  92%|█████████▏| 87/95 [23:06<02:19, 17.48s/it]Inbox:  93%|█████████▎| 88/95 [23:45<02:46, 23.78s/it]Inbox:  94%|█████████▎| 89/95 [23:55<01:58, 19.74s/it]Inbox:  95%|█████████▍| 90/95 [24:12<01:33, 18.75s/it]Inbox:  96%|█████████▌| 91/95 [24:24<01:07, 16.94s/it]Inbox:  97%|█████████▋| 92/95 [24:30<00:40, 13.66s/it]Inbox:  98%|█████████▊| 93/95 [24:44<00:27, 13.68s/it]Inbox: 100%|██████████| 95/95 [24:44<00:00, 15.63s/it]
+  [OK] GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景.md -> TCC-SDI/
+  [OK] GetNote_20260606_100554_getnote_1911927144829824880_Coyote开源FPGA Shell：重塑数据中心加速开发范式的系统级解决方案.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_getnote_1911971101674212952_Nested Learning- 深度学习架构的本质解构与范式创新.md -> AI-ML/
+  [OK] GetNote_20260606_100554_getnote_1911971168244794688_大脑学习的动力学约束：神经流形与脑机接口的范式转变.md -> Neuroscience/
+  [OK] GetNote_20260606_100554_getnote_1912016908572755264_关键 skill.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_Codex-tips_getnote_1912016908572755264_关键 skill.md -> Tools-Tutorials/
+  [OK] GetNote_20260606_100554_kb_computing-network_getnote_1908587280551174072_NCCL深度解析_AI集群通信调度器的核心机制与系统影响.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_computing-network_getnote_1908595351867402552_NVIDIA GTC 2026深度解析_LPU引领异构推理时代_低时延成一级优化目标.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_computing-network_getnote_1908595351867402552_NVIDIA GTC 2026深度解析：LPU引领异构推理时代，低时延成一级优化目标.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896185341292525096_DARPA网络_信息战与通信领域项目深度分析报告_下册__以体系化创新锻造未来信息战优势.md -> Project-Management/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896185459403601448_DARPA深度研究_传感器_电子战与通信领域战略分析报告_上册_.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896185579663210024_DARPA人工智能与自主系统项目深度研究报告_以_第三波AI_为核心的军事智能革命.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896185762199320104_美国DARPA网络_信息战与通信领域战略布局深度研究报告_上册_.md -> Papers/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896185969430922136_DARPA人工智能与自主系统项目深度研究报告_以_第三波AI_为核心的军事智能革命.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896186034929219112_超越摩尔定律_DARPA微电子与半导体战略深度研究报告.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896186054256571944_美国DARPA微电子与半导体领域深度研究报告_超越摩尔定律的范式革命.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896186120829089320_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896186147673664688_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896186213170346176_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896186245382570904_从_摩尔定律_到_功率密度定律__IEEE异构集成_HIR_路线图深度解析.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896236682257315368_美国DARPA_生物技术与人类增强_领域深度研究报告_从战场医疗到认知决胜的战略布局.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896236720912002224_DARPA网络_信息战与通信领域项目深度分析报告_下册__以体系化创新锻造未来信息战优势.md -> Project-Management/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896236747756075200_重塑国防制造_DARPA材料科学与先进制造战略深度解析.md -> Web-Clips/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896236773525351600_美国DARPA_材料科学与先进制造_领域深度研究报告_战略_技术与未来展望.md -> Research-Methods/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896236804663837592_DARPA重塑未来战争形态_空天_太空与高超音速领域战略布局深度分析.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896236821843733680_DARPA空天_太空与高超音速领域项目深度分析报告.md -> Project-Management/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896236861572181168_美国DARPA四大关键项目群深度研究报告_战略布局_技术突破与全球影响.md -> Web-Clips/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896236967872621744_全球集成传感技术在军事领域的发展现状与趋势研究报告.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896237056993193136_美国军用无人系统技术_2010-2025__创新趋势与实战应用研究.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896237091352931504_第三代半导体深度研报_AI_6G_人形机器人与低空科技的关键变量技术.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896237119270218928_IEEE异构集成技术全景报告_从HIR路线图到产业战略布局.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896237177252277424_美国DARPA电子复兴计划2.0_ERI 2.0_深度解析_重塑微电子技术的国家战略.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896237209464535232_美国军事人工智能_2010-2025__从战略创新到战场应用.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896237235234860208_美国DARPA对专业化孵化器建设的启示_组织架构_管理机制与生态构建.md -> Project-Management/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1896237261004667072_DARPA如何塑造军事人工智能的未来与全球战略平衡_静默的革命.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_DARPA-research_getnote_1897375963134821008_DARPA_水晶宫计划_深度研究报告_塑造下一代军用微系统材料变革.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_iNEST-dev_getnote_1893318454917919864_TRAE工具安装与环境配置.md -> Tools-Tutorials/
+  [OK] GetNote_20260606_100554_kb_iNEST-dev_getnote_1893325300021522256_iNEST开发流程.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_iNEST-dev_getnote_1896108620291146576_开源工具.md -> Tools-Tutorials/
+  [OK] GetNote_20260606_100554_kb_iNEST-dev_getnote_1898580019635141728_资源.md -> Project-Management/
+  [OK] GetNote_20260606_100554_kb_iNEST-dev_getnote_1899178146444539232_脑科学开源数据.md -> Neuroscience/
+  [OK] GetNote_20260606_100554_kb_iNEST-dev_getnote_1899598236121992448_iNEST研究路线及方案.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_INEST-papers_getnote_1903519698030699968_晶圆级AI芯片_突破AI算力瓶颈的硬件革命与软件适配.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_INEST-papers_getnote_1903519698030699968_晶圆级AI芯片：突破AI算力瓶颈的硬件革命与软件适配.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_INEST-papers_getnote_1903520066322993704_Chiplet-Based Systems and Heterogeneous Integration- Enablin.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_INEST-papers_getnote_1903520066322993704_Chiplet-Based Systems and Heterogeneous Integration_ Enablin.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_INEST-papers_getnote_1903520191950732616_晶圆级芯片_WSC_技术深度分析_架构_集成与应用前景.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_INEST-papers_getnote_1903520191950732616_晶圆级芯片（WSC）技术深度分析：架构、集成与应用前景.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1866926076304481328_大规模类脑计算的发展_机遇与挑战综述.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1866926076304481328_大规模类脑计算的发展、机遇与挑战综述.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1879960161733466896_脑科学AI启示.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1879960341048341016_意识最小单位之谜.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1879960375408614160_AI双引擎的未来之光.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1880901608901612424_字节AI编程工具Trae详解.md -> Tools-Tutorials/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1882605467524501296_液态神经网络与时空复杂性.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1882616597932313664_深空探测器LNN导航研究.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1885429956130041712_忆阻器网络.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订.md -> Papers/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1887266194235479456_晶上大脑基础研究课题.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1891263863895261872_忆阻器网络优化方案.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1891264606924553592_自由能优化感知行动.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1897778465994716776_16 介观峰值定理对晶上大脑的工程指导.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1898552298842526592_神经网络时空协同智能涌现.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1898553563710340192_晶圆级神经网络能效革命.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1898553581963951200_低功耗智能新范式.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1898554231577754720_忆阻器网络频谱提取.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1898555559796441760_数字孪生大脑工程化路径.md -> TCC-SDI/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1899812152336800288_吴华强团队与iNEST技术互补.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1911707056747462552_iNEST落地计划探讨.md -> AI-ML/
+  [OK] GetNote_20260606_100554_kb_iNEST_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_paper-ideas_getnote_1903941287724843544_Universal Scaling Laws for Intelligence Emergence from Devic.md -> Papers/
+  [OK] GetNote_20260606_100554_kb_paper-ideas_getnote_1904173278235913296_晶圆级SDI互联架构与最优扇出高维拓扑_面向大模型的网内计算设计.md -> TCC-SDI/
+  [OK] GetNote_20260606_100554_kb_paper-ideas_getnote_1904181751133056848_RISC-V 架构下 SDI 智算互联系统设计_面向 LLM 低延迟推理与训练.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_paper-ideas_getnote_1907692362911778320_路由即变换__分布式系统中通信与计算的结构同构性.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_patent_getnote_1907743949763445776_一种基于正交原语集与拓扑融合变换的网络复杂度计算方法及系统.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_project-guide_getnote_1898555723005148256_基于SDI的物理Synapse与NN.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_project-guide_getnote_1901810160385559784_统一内存与网络语义架构_Risc-V结合_.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_project-guide_getnote_1901827763309043264_自动化时空编排编译器.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_project-guide_getnote_1902181985369076264_基于SDI_软件定义晶上系统_化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索.md -> TCC-SDI/
+  [OK] GetNote_20260606_100554_kb_project-guide_getnote_1902185808962683840_神经突触和神经元二合一物理神经网络构建.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_project-guide_getnote_1902403127865913896_晶上智能网络基础研究与关键技术项目布局.md -> Concepts-Theory/
+  [OK] GetNote_20260606_100554_kb_project-guide_getnote_1903675286441698344_天枢工程.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_project-guide_getnote_1904316329637785424_面向万亿参数大模型训练的SDI 软件定义互联 _ 网内原生 AI 通信加速系统.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_project-guide_getnote_1906074590464742600_海河实验室.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查.md -> Chip-Hardware/
+  [OK] GetNote_20260606_100554_kb_WellChip_getnote_1894144808773062456_年度目标_2026年_.md -> Project-Management/
+  [OK] GetNote_20260606_100554_kb_WellChip_getnote_1894144808773062456_年度目标（2026年）.md -> Project-Management/
+  [OK] GetNote_20260606_100554_kb_WellChip_getnote_1908733547809247528_销售文化.md -> Concepts-Theory/
+  Skipping short note: old_note_before_cutoff.md
+  Skipping short note: 今日健身日记.md
+
+Inbox processing complete.
+
+Done!
