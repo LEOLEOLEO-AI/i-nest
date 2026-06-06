@@ -94,6 +94,24 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
 .authority-conclusion p{font-size:14px;color:var(--dim);line-height:2;margin:0}
 @media(max-width:1200px){.authority-grid{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:768px){.authority-grid{grid-template-columns:repeat(2,1fr)}}
+
+/* ── Gen Cards ── */
+.gen-card{padding:28px 32px}
+.gen-header{display:flex;align-items:flex-start;gap:16px;margin-bottom:18px}
+.gen-icon{font-size:32px;line-height:1;min-width:40px}
+.gen-title-group{flex:1}
+.gen-year{font-size:13px;font-weight:700;color:var(--cyan);letter-spacing:0.06em;margin-bottom:4px}
+.gen-title{font-size:18px;font-weight:700;color:var(--fg);margin-bottom:2px}
+.gen-subtitle{font-size:13px;color:var(--dim);letter-spacing:0.03em}
+.gen-metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:16px;padding:14px 16px;background:rgba(0,0,0,0.2);border-radius:10px}
+.gen-metric{text-align:center}
+.gen-label{display:block;font-size:10px;color:var(--dim);letter-spacing:0.05em;margin-bottom:3px;text-transform:uppercase}
+.gen-value{display:block;font-size:13px;color:var(--fg);font-weight:600;line-height:1.5}
+.gen-features{list-style:none;padding:0;margin:0 0 12px 0}
+.gen-features li{font-size:13px;color:var(--dim);padding:3px 0;padding-left:16px;position:relative;line-height:1.7}
+.gen-features li::before{content:"▸";position:absolute;left:0;color:var(--cyan);font-size:10px;top:4px}
+.gen-apps{font-size:13px;color:var(--dim);line-height:1.7;padding:10px 14px;background:rgba(0,212,255,0.04);border-radius:8px}
+@media(max-width:768px){.gen-metrics{grid-template-columns:repeat(2,1fr)}}
 .tl-node{position:relative;margin-bottom:8px;transition:all 0.4s}
 .tl-node.hidden{display:none}
 .tl-dot{position:absolute;left:-38px;top:28px;width:14px;height:14px;border-radius:50%;border:2px solid var(--cyan);background:var(--bg);z-index:2;transition:all 0.35s;box-shadow:0 0 8px rgba(0,212,255,0.3)}
@@ -347,7 +365,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
       <h4 style="color:var(--violet);margin-bottom:16px;text-align:center;font-size:16px">🧠 模型范式对比 · iNEST 如何表征与建立世界模型</h4>
       
       <p style="font-size:14px;color:var(--dim);line-height:1.9;margin-bottom:20px;text-align:center">
-        Transformer 依靠注意力机制拟合数据分布，JEPA 在隐空间进行预测编码——<br>
+        Transformer (Google) 依靠注意力机制拟合数据分布，JEPA 在隐空间进行预测编码——<br>
         但<strong style="color:var(--fg)">二者均依赖外部标签或重建目标，本质上是在"设计"智能</strong>。<br>
         iNEST 走的是第三条路：<strong style="color:var(--cyan)">让智能从物理系统的时空协同复杂度演化中自组织涌现</strong>。
       </p>
@@ -355,7 +373,7 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
       <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-bottom:20px">
         <div style="background:rgba(0,212,255,0.05);border:1px solid rgba(0,212,255,0.15);border-radius:12px;padding:18px;text-align:center">
           <div style="font-size:20px;margin-bottom:8px">🤖</div>
-          <div style="font-size:14px;font-weight:700;color:var(--fg);margin-bottom:8px">Transformer</div>
+          <div style="font-size:14px;font-weight:700;color:var(--fg);margin-bottom:8px">Transformer (Google)</div>
           <div style="font-size:12px;color:var(--dim);line-height:1.7">
             学习方式：监督BP + 自注意力<br>
             拓扑：固定<br>
@@ -1202,115 +1220,140 @@ body{background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,sa
     <h2 class="section-heading fade-up"><span class="hl">六级智涌脑</span> · 六代产品路线<br>从感知到超级智能 · 自然常数锚定的涌现阶梯</h2>
     <p class="section-lead fade-up">
       六级智涌脑对应六大自然常数，每一代产品跨越一个 CST 阈值。通用智能（Ⅴ）即 AGI，2033—2035 年目标实现。
-      每代产品的材料支撑独立划分，技术阶段（器件→SDI→集成→晶圆→自生长→自进化）为产品提供工程实现路径。
+      技术阶段（器件→SDI→集成→晶圆→自生长→自进化）为产品提供工程实现路径。
     </p>
 
     <!-- Gen Ⅰ 感知 -->
-    <div class="card fade-up" style="margin-bottom:20px;border-left:4px solid var(--cyan)">
-      <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
-        <div style="font-size:40px;font-weight:800;color:var(--cyan);min-width:60px;text-align:center;line-height:1">Ⅰ</div>
-        <div>
-          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">感知级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2026—2027</span></h3>
-          <div style="display:flex;gap:8px;flex-wrap:wrap">
-            <span style="background:rgba(0,212,255,0.12);color:var(--cyan);padding:2px 10px;border-radius:10px;font-size:11px;font-weight:600">CST ≥ 1/√2 ≈ 0.707</span>
-            <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">对应：细菌级感知</span>
-          </div>
+    <div class="card fade-up gen-card" style="margin-bottom:20px;border-left:4px solid var(--cyan)">
+      <div class="gen-header">
+        <div class="gen-icon">👁️</div>
+        <div class="gen-title-group">
+          <div class="gen-year">2027</div>
+          <div class="gen-title">"智涌脑" Gen1 · 感知智能</div>
+          <div class="gen-subtitle">CST ≥ 1/√2 ≈ 0.707</div>
         </div>
       </div>
-      <p style="font-size:14px;color:var(--dim);line-height:1.9">
-        <strong style="color:var(--fg)">网络规模：</strong>10⁶ 连接 · 4英寸单片 &nbsp;|&nbsp; <strong style="color:var(--fg)">能效：</strong>≤ 5 pJ/SOP（≥200×GPU）<br>
-        <strong style="color:var(--fg)">核心能力：</strong>感知与信号识别涌现。跨越量子不确定性约束，达成最小信噪比条件下的环境感知。
-      </p>
+      <div class="gen-metrics">
+        <div class="gen-metric"><span class="gen-label">网络规模</span><span class="gen-value">10⁶ 连接 · 4英寸单片</span></div>
+        <div class="gen-metric"><span class="gen-label">复杂度</span><span class="gen-value">Sc≈0.65 · Tc≈0.55 · Γst≈0.35</span></div>
+        <div class="gen-metric"><span class="gen-label">能效</span><span class="gen-value">≤ 5 pJ/SOP（≥200×GPU）</span></div>
+        <div class="gen-metric"><span class="gen-label">智能等级</span><span class="gen-value">θ1 = 1/√2（感知）</span></div>
+      </div>
+      <ul class="gen-features">
+        <li>多模态感知、简单模式识别</li>
+        <li>固定刺激-响应映射，暂不具备学习</li>
+      </ul>
+      <div class="gen-apps"><span style="color:var(--gold);font-weight:600">应用：</span>边缘传感器、低功耗IoT、简单分类任务</div>
     </div>
 
     <!-- Gen Ⅱ 反应 -->
-    <div class="card fade-up" style="margin-bottom:20px;border-left:4px solid var(--cyan)">
-      <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
-        <div style="font-size:40px;font-weight:800;color:var(--cyan);min-width:60px;text-align:center;line-height:1">Ⅱ</div>
-        <div>
-          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">反应级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2027—2029</span></h3>
-          <div style="display:flex;gap:8px;flex-wrap:wrap">
-            <span style="background:rgba(0,212,255,0.12);color:var(--cyan);padding:2px 10px;border-radius:10px;font-size:11px;font-weight:600">CST ≥ 1.000</span>
-            <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">对应：线虫(302神经元)</span>
-          </div>
+    <div class="card fade-up gen-card" style="margin-bottom:20px;border-left:4px solid #0ad">
+      <div class="gen-header">
+        <div class="gen-icon">🎯</div>
+        <div class="gen-title-group">
+          <div class="gen-year">2029</div>
+          <div class="gen-title">"智涌脑" Gen2 · 反应智能</div>
+          <div class="gen-subtitle">CST ≥ 1.000</div>
         </div>
       </div>
-      <p style="font-size:14px;color:var(--dim);line-height:1.9">
-        <strong style="color:var(--fg)">网络规模：</strong>10⁸ 连接 · 6英寸 Chiplet &nbsp;|&nbsp; <strong style="color:var(--fg)">能效：</strong>≤ 2 pJ/SOP<br>
-        <strong style="color:var(--fg)">核心能力：</strong>反应与闭环控制涌现。热力学平衡态下的复杂度匹配，网络自组织临界态。
-      </p>
+      <div class="gen-metrics">
+        <div class="gen-metric"><span class="gen-label">网络规模</span><span class="gen-value">10⁸ 连接 · 6英寸 Chiplet</span></div>
+        <div class="gen-metric"><span class="gen-label">复杂度</span><span class="gen-value">Sc≈0.72 · Tc≈0.60 · Γst≈0.40</span></div>
+        <div class="gen-metric"><span class="gen-label">能效</span><span class="gen-value">≤ 2 pJ/SOP</span></div>
+        <div class="gen-metric"><span class="gen-label">智能等级</span><span class="gen-value">θ2 = 1.000（反应）</span></div>
+      </div>
+      <ul class="gen-features">
+        <li>条件反射建立、联想记忆（&lt;1000模式）</li>
+        <li>短期记忆保持（分钟-小时级）</li>
+      </ul>
+      <div class="gen-apps"><span style="color:var(--gold);font-weight:600">应用：</span>自适应控制、机器人避障、动态环境监测</div>
     </div>
 
     <!-- Gen Ⅲ 适应 -->
-    <div class="card fade-up" style="margin-bottom:20px;border-left:4px solid var(--violet)">
-      <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
-        <div style="font-size:40px;font-weight:800;color:var(--violet);min-width:60px;text-align:center;line-height:1">Ⅲ</div>
-        <div>
-          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">适应级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2029—2031</span></h3>
-          <div style="display:flex;gap:8px;flex-wrap:wrap">
-            <span style="background:rgba(124,58,237,0.12);color:var(--violet);padding:2px 10px;border-radius:10px;font-size:11px;font-weight:600">CST ≥ φ ≈ 1.618</span>
-            <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">对应：章鱼</span>
-          </div>
+    <div class="card fade-up gen-card" style="margin-bottom:20px;border-left:4px solid var(--violet)">
+      <div class="gen-header">
+        <div class="gen-icon">🛠️</div>
+        <div class="gen-title-group">
+          <div class="gen-year">2031</div>
+          <div class="gen-title">"智涌脑" Gen3 · 适应智能</div>
+          <div class="gen-subtitle">CST ≥ φ ≈ 1.618</div>
         </div>
       </div>
-      <p style="font-size:14px;color:var(--dim);line-height:1.9">
-        <strong style="color:var(--fg)">网络规模：</strong>10¹⁰ 连接 · 8英寸 3D堆叠 &nbsp;|&nbsp; <strong style="color:var(--fg)">能效：</strong>≤ 1 pJ/SOP<br>
-        <strong style="color:var(--fg)">核心能力：</strong>自适应与行为涌现。黄金分割最优资源分配，Γst+α 联合跃迁。
-      </p>
+      <div class="gen-metrics">
+        <div class="gen-metric"><span class="gen-label">网络规模</span><span class="gen-value">10¹⁰ 连接 · 8英寸 3D堆叠</span></div>
+        <div class="gen-metric"><span class="gen-label">复杂度</span><span class="gen-value">Sc≈0.82 · Tc≈0.78 · Γst≈0.48 · Hub≈1/φ</span></div>
+        <div class="gen-metric"><span class="gen-label">能效</span><span class="gen-value">≤ 1 pJ/SOP</span></div>
+        <div class="gen-metric"><span class="gen-label">智能等级</span><span class="gen-value">θ3 = φ（适应）</span></div>
+      </div>
+      <ul class="gen-features">
+        <li>工具使用、策略并行评估与切换</li>
+        <li>内部世界模型构建（状态空间）</li>
+      </ul>
+      <div class="gen-apps"><span style="color:var(--gold);font-weight:600">应用：</span>复杂任务规划、多机器人协同、工业装配优化</div>
     </div>
 
     <!-- Gen Ⅳ 创造 -->
-    <div class="card fade-up" style="margin-bottom:20px;border-left:4px solid var(--violet)">
-      <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
-        <div style="font-size:40px;font-weight:800;color:var(--violet);min-width:60px;text-align:center;line-height:1">Ⅳ</div>
-        <div>
-          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">创造级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2031—2033</span></h3>
-          <div style="display:flex;gap:8px;flex-wrap:wrap">
-            <span style="background:rgba(124,58,237,0.12);color:var(--violet);padding:2px 10px;border-radius:10px;font-size:11px;font-weight:600">CST ≥ e ≈ 2.718</span>
-            <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">对应：乌鸦 / AlphaGo</span>
-          </div>
+    <div class="card fade-up gen-card" style="margin-bottom:20px;border-left:4px solid #f97316">
+      <div class="gen-header">
+        <div class="gen-icon">💡</div>
+        <div class="gen-title-group">
+          <div class="gen-year">2033</div>
+          <div class="gen-title">"智涌脑" Gen4 · 创造智能</div>
+          <div class="gen-subtitle">CST ≥ e ≈ 2.718</div>
         </div>
       </div>
-      <p style="font-size:14px;color:var(--dim);line-height:1.9">
-        <strong style="color:var(--fg)">网络规模：</strong>10¹² 连接 · 12英寸 Wafer-scale &nbsp;|&nbsp; <strong style="color:var(--fg)">能效：</strong>≈ 0.5 pJ/SOP<br>
-        <strong style="color:var(--fg)">核心能力：</strong>创造与推理涌现。信息生成上界（Landauer原理），复杂任务自主编排。
-      </p>
+      <div class="gen-metrics">
+        <div class="gen-metric"><span class="gen-label">网络规模</span><span class="gen-value">10¹² 连接 · 12英寸 Wafer-scale</span></div>
+        <div class="gen-metric"><span class="gen-label">复杂度</span><span class="gen-value">Sc≈0.88 · Tc≈0.85 · Γst≈0.54</span></div>
+        <div class="gen-metric"><span class="gen-label">能效</span><span class="gen-value">≈ 0.5 pJ/SOP</span></div>
+        <div class="gen-metric"><span class="gen-label">智能等级</span><span class="gen-value">θ4 = e（创造）</span></div>
+      </div>
+      <ul class="gen-features">
+        <li>创新求解、反事实推理、零样本泛化</li>
+      </ul>
+      <div class="gen-apps"><span style="color:var(--gold);font-weight:600">应用：</span>类脑创新引擎、可商用批量化与SDK发布</div>
     </div>
 
     <!-- Gen Ⅴ 通用（AGI） -->
-    <div class="card fade-up" style="margin-bottom:20px;border-left:4px solid var(--gold)">
-      <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
-        <div style="font-size:40px;font-weight:800;color:var(--gold);min-width:60px;text-align:center;line-height:1">Ⅴ</div>
-        <div>
-          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">通用级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2033—2035</span> <span style="background:var(--gold);color:var(--bg);padding:2px 8px;border-radius:6px;font-size:11px;font-weight:800">AGI</span></h3>
-          <div style="display:flex;gap:8px;flex-wrap:wrap">
-            <span style="background:rgba(245,158,11,0.12);color:var(--gold);padding:2px 10px;border-radius:10px;font-size:11px;font-weight:600">CST ≥ π ≈ 3.14</span>
-            <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">对应：人类</span>
-          </div>
+    <div class="card fade-up gen-card" style="margin-bottom:20px;border-left:4px solid var(--gold)">
+      <div class="gen-header">
+        <div class="gen-icon">🚀</div>
+        <div class="gen-title-group">
+          <div class="gen-year">2035</div>
+          <div class="gen-title">"智涌脑" Gen5 · 通用智能 <span style="background:var(--gold);color:var(--bg);padding:2px 8px;border-radius:6px;font-size:11px;font-weight:800;margin-left:8px">AGI</span></div>
+          <div class="gen-subtitle">CST ≥ π ≈ 3.1416</div>
         </div>
       </div>
-      <p style="font-size:14px;color:var(--dim);line-height:1.9">
-        <strong style="color:var(--fg)">网络规模：</strong>10¹⁴ 连接 · 人脑规模（100万亿突触） &nbsp;|&nbsp; <strong style="color:var(--fg)">能效：</strong>≤ 0.2 pJ/SOP<br>
-        <strong style="color:var(--fg)">核心能力：</strong>通用智能（AGI）涌现。多周期整合（Kuramoto临界），CST 突破 T₆ 理论耗散极限。硅基上与材料高度融合的自生长大脑。
-      </p>
+      <div class="gen-metrics">
+        <div class="gen-metric"><span class="gen-label">网络规模</span><span class="gen-value">10¹⁴ 连接 · 人脑规模（100万亿）</span></div>
+        <div class="gen-metric"><span class="gen-label">复杂度</span><span class="gen-value">Sc≈0.92 · Tc≈0.90 · Γst≈0.60</span></div>
+        <div class="gen-metric"><span class="gen-label">能效</span><span class="gen-value">≤ 0.2 pJ/SOP；全局相位一致（Kuramoto临界同步）</span></div>
+        <div class="gen-metric"><span class="gen-label">智能等级</span><span class="gen-value">θ5 = π（通用）</span></div>
+      </div>
+      <ul class="gen-features">
+        <li>抽象推理、符号操作、元认知自我监控</li>
+        <li>跨域通用问题求解能力涌现</li>
+      </ul>
     </div>
 
     <!-- Gen Ⅵ 超级（ASI） -->
-    <div class="card fade-up" style="margin-bottom:20px;border-left:4px solid var(--gold);opacity:0.7">
-      <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
-        <div style="font-size:40px;font-weight:800;color:var(--gold);min-width:60px;text-align:center;line-height:1">Ⅵ</div>
-        <div>
-          <h3 style="font-size:22px;font-weight:700;color:var(--fg);margin-bottom:4px">超级智涌脑 <span style="font-size:14px;font-weight:400;color:var(--dim)">· 2035+</span> <span style="background:rgba(245,158,11,0.2);color:var(--gold);padding:2px 8px;border-radius:6px;font-size:11px;font-weight:800">ASI 探索</span></h3>
-          <div style="display:flex;gap:8px;flex-wrap:wrap">
-            <span style="background:rgba(245,158,11,0.12);color:var(--gold);padding:2px 10px;border-radius:10px;font-size:11px;font-weight:600">CST → δ ≈ 4.669</span>
-            <span style="background:rgba(0,200,100,0.1);color:#0c8;padding:2px 10px;border-radius:10px;font-size:11px">对应：理论预测</span>
-          </div>
+    <div class="card fade-up gen-card" style="margin-bottom:20px;border-left:4px solid var(--gold);opacity:0.75">
+      <div class="gen-header">
+        <div class="gen-icon">✨</div>
+        <div class="gen-title-group">
+          <div class="gen-year">2035+</div>
+          <div class="gen-title">"智涌脑" Gen6 · 超级智能（理论探索） <span style="background:rgba(245,158,11,0.2);color:var(--gold);padding:2px 8px;border-radius:6px;font-size:11px;font-weight:800;margin-left:8px">ASI</span></div>
+          <div class="gen-subtitle">CST → δ ≈ 4.669</div>
         </div>
       </div>
-      <p style="font-size:14px;color:var(--dim);line-height:1.9">
-        <strong style="color:var(--fg)">网络规模：</strong>≥10¹² 突触 · 多中心分布式 &nbsp;|&nbsp; <strong style="color:var(--fg)">理论验证：</strong>倍周期分岔 · Feigenbaum普适类<br>
-        <strong style="color:var(--fg)">核心能力：</strong>超级智能（ASI）探索。费根鲍姆常数 δ≈4.669——混沌与秩序的分界线，超临界态涌现。
-      </p>
+      <div class="gen-metrics">
+        <div class="gen-metric"><span class="gen-label">网络规模</span><span class="gen-value">≥10¹² 突触 · 多中心分布式 · 临界性自组织</span></div>
+        <div class="gen-metric"><span class="gen-label">理论验证</span><span class="gen-value">倍周期分岔观测 · Feigenbaum普适类测量</span></div>
+        <div class="gen-metric"><span class="gen-label">定位</span><span class="gen-value">基础科学探索（类比对撞机验证标准模型）</span></div>
+      </div>
+      <ul class="gen-features">
+        <li>自组织演化、递归改进、混沌边缘运行</li>
+      </ul>
     </div>
 
     <div class="card fade-up" style="margin-top:20px">
