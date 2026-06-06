@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TCC × iNEST 研发全景看板</title>
+<title>TCC 脳 iNEST 鐮斿彂鍏ㄦ櫙鐪嬫澘</title>
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
 <style>
 /* TCC x iNEST R&D Kanban v2 */
@@ -142,34 +142,34 @@ textarea.form-input{resize:vertical;min-height:60px}
   <div class="header-left">
     <div class="header-logo">NX</div>
     <div>
-      <h1><span class="tcc">TCC</span> × <span class="inest">iNEST</span> 研发全景看板</h1>
-      <div class="header-tagline">计算范式：从<span class="tcc">节点中心</span>到<span class="inest">拓扑中心</span> | 拓扑中心计算 × 复杂网络涌现智能</div>
+      <h1><span class="tcc">TCC</span> 脳 <span class="inest">iNEST</span> 鐮斿彂鍏ㄦ櫙鐪嬫澘</h1>
+      <div class="header-tagline">璁＄畻鑼冨紡锛氫粠<span class="tcc">鑺傜偣涓績</span>鍒?span class="inest">鎷撴墤涓績</span> | 鎷撴墤涓績璁＄畻 脳 澶嶆潅缃戠粶娑岀幇鏅鸿兘</div>
     </div>
   </div>
   <nav class="header-nav">
-    <button class="active" data-view="kanban">📋 看板</button>
-    <button data-view="index">📊 索引表</button>
+    <button class="active" data-view="kanban">馃搵 鐪嬫澘</button>
+    <button data-view="index">馃搳 绱㈠紩琛?/button>
   </nav>
   <div class="header-date" id="header-date"></div>
 </header>
 
 <main class="main">
   <div class="paradigm-banner">
-    🧠 <strong>核心创新</strong>：将计算范式从「以节点为中心」转向「以拓扑为中心」—— 
-    以网络拓扑结构本身作为计算的基本单元，通过 <strong>TCC</strong>（拓扑中心计算）架构与 <em>iNEST</em>（复杂网络涌现智能）框架，
-    实现拓扑原生计算与智能涌现
+    馃 <strong>鏍稿績鍒涙柊</strong>锛氬皢璁＄畻鑼冨紡浠庛€屼互鑺傜偣涓轰腑蹇冦€嶈浆鍚戙€屼互鎷撴墤涓轰腑蹇冦€嶁€斺€?
+    浠ョ綉缁滄嫇鎵戠粨鏋勬湰韬綔涓鸿绠楃殑鍩烘湰鍗曞厓锛岄€氳繃 <strong>TCC</strong>锛堟嫇鎵戜腑蹇冭绠楋級鏋舵瀯涓?<em>iNEST</em>锛堝鏉傜綉缁滄秾鐜版櫤鑳斤級妗嗘灦锛?
+    瀹炵幇鎷撴墤鍘熺敓璁＄畻涓庢櫤鑳芥秾鐜?
   </div>
   <div class="metrics" id="metrics"></div>
-  <div class="section-title">📅 每日进展与明日计划 <span class="badge" id="daily-badge"></span></div>
+  <div class="section-title">馃搮 姣忔棩杩涘睍涓庢槑鏃ヨ鍒?<span class="badge" id="daily-badge"></span></div>
   
   <div class="today-plan-panel" id="today-plan-panel">
     <div class="plan-header">
-      <span class="plan-icon">🎯</span>
-      <h4>今日计划</h4>
+      <span class="plan-icon">馃幆</span>
+      <h4>浠婃棩璁″垝</h4>
       <span class="plan-date" id="plan-date"></span>
     </div>
     <div class="plan-list" id="today-plan-list"></div>
-    <div class="today-plan-empty" id="plan-empty" style="display:none">暂无今日计划，新的一天加油！🚀</div>
+    <div class="today-plan-empty" id="plan-empty" style="display:none">鏆傛棤浠婃棩璁″垝锛屾柊鐨勪竴澶╁姞娌癸紒馃殌</div>
   </div>
 <div class="daily-grid" id="daily-grid"></div>
 
@@ -178,14 +178,14 @@ textarea.form-input{resize:vertical;min-height:60px}
   </div>
 
   <div class="view-panel" id="view-index">
-    <div class="section-title">🔍 成果索引表 <span class="badge" id="index-badge"></span></div>
+    <div class="section-title">馃攳 鎴愭灉绱㈠紩琛?<span class="badge" id="index-badge"></span></div>
     <div class="index-controls" id="index-controls"></div>
     <div class="table-wrap">
       <table class="index-table">
         <thead id="index-thead"></thead>
         <tbody id="index-tbody"></tbody>
       </table>
-      <div class="no-results" id="no-results" style="display:none">🔍 未找到匹配的条目 — 尝试调整筛选条件</div>
+      <div class="no-results" id="no-results" style="display:none">馃攳 鏈壘鍒板尮閰嶇殑鏉＄洰 鈥?灏濊瘯璋冩暣绛涢€夋潯浠?/div>
     </div>
   </div>
 </main>
@@ -194,57 +194,92 @@ textarea.form-input{resize:vertical;min-height:60px}
   <div class="modal" id="modal-content" onclick="event.stopPropagation()"></div>
 </div>
 
-<button class="add-entry-btn" onclick="openAddForm()" title="添加新条目">+</button>
+<button class="add-entry-btn" onclick="openAddForm()" title="娣诲姞鏂版潯鐩?>+</button>
 
+<script src="data.js"></script>
 <script>
-var DEFAULT_DATA = {"daily": [{"date": "2026-06-05", "type": "today", "progress": [{"text": "Meta-Topology SDI-Bond论文v3修订完成","dot":"done","dim":"TCC"},{"text": "CST Theory V26定稿","dot":"done","dim":"TCC"},{"text": "SDI v30 多区域拓扑网络（multi-region）架构设计与初始仿真", "dot": "ongoing", "dim": "TCC"}, {"text": "拓扑中心计算范式理论框架进一步细化", "dot": "ongoing", "dim": "TCC"}, {"text": "14篇论文专利按Obsidian知识库规则归档至papers-TCC、papers-iNEST、TCC_3_专利撰写、iNEST_3_专利撰写等目录", "dot": "done", "dim": "TCC+iNEST"}], "plan": [{"text": "SDI v30 多区域跨尺度耦合验证实验", "dot": "plan", "dim": "TCC"}, {"text": "FEP-STDP 收敛性证明数学推导完成", "dot": "plan", "dim": "iNEST"}, {"text": "核心架构论文 Results 章节撰写", "dot": "plan", "dim": "iNEST"}]}, {"date": "2026-06-04", "type": "yesterday", "progress": [{"text": "SDI v30 多区域拓扑仿真框架搭建完成", "dot": "done", "dim": "TCC"}, {"text": "SDI v29 功能性涌现模块集成测试，PASS率 94.2%", "dot": "done", "dim": "iNEST"}, {"text": "iNEST 核心架构论文 Methods 章节定稿", "dot": "done", "dim": "iNEST"}], "plan": [{"text": "SDI v30 多区域耦合验证", "dot": "done", "dim": "TCC"}, {"text": "专利组合文档 v2.1 更新", "dot": "ongoing", "dim": "TCC+iNEST"}]}, {"date": "2026-06-03", "type": "past", "progress": [{"text": "SDI v8-v28 版本批量回归测试与性能对比", "dot": "done", "dim": "iNEST"}, {"text": "FPGA Verilog 代码：sdio_bond_core_v24 模块实现", "dot": "done", "dim": "iNEST"}, {"text": "iNEST 爬虫系统更新，知识采集管线优化", "dot": "done", "dim": "iNEST"}, {"text": "液态计算化学论文 draft-v2 迭代", "dot": "done", "dim": "iNEST"}, {"text": "投资人演示 Demo v3 站点构建与部署", "dot": "done", "dim": "iNEST"}], "plan": []}, {"date": "2026-06-02", "type": "past", "progress": [{"text": "SDI v27->v28 多尺度融合框架实现完成", "dot": "done", "dim": "iNEST"}, {"text": "专利组合详细方案初稿（FEP-STDP/涌现检测/拓扑优化）", "dot": "done", "dim": "TCC+iNEST"}], "plan": []}], "entries": [{"id": 1, "dim": "TCC", "cat": "灵感", "title": "从节点中心到拓扑中心：计算范式根本转变的理论框架", "ver": "v2.0", "status": "进行中", "date": "2026-06-05", "desc": "提出将计算的基本单元从单个节点提升至网络拓扑结构本身，以拓扑不变量（Betti数、持续同调等）作为计算原语，实现拓扑原生计算", "priority": "高"}, {"id": 2, "dim": "TCC", "cat": "灵感", "title": "多区域网络拓扑的涌现性耦合机制", "ver": "v1.5", "status": "验证中", "date": "2026-06-04", "desc": "探索多个拓扑子区域间的信息流耦合与协同涌现条件，对应SDI v30 multi-region实验", "priority": "高"}, {"id": 3, "dim": "TCC", "cat": "灵感", "title": "拓扑中心视角下的复杂网络路由优化", "ver": "v1.0", "status": "进行中", "date": "2026-05-30", "desc": "以网络全局拓扑结构（非单节点策略）驱动路由决策，融合小世界与无标度特性", "priority": "高"}, {"id": 4, "dim": "TCC", "cat": "论文", "title": "Topology-Centric Computing: A Paradigm Shift from Nodes to Networks", "ver": "draft-v1", "status": "撰写中", "date": "2026-06-05", "desc": "TCC范式宣言论文：论证拓扑中心计算的数学基础、计算模型与相对于节点中心范式的理论优势", "priority": "高"}, {"id": 5, "dim": "TCC", "cat": "论文", "title": "Persistent Homology as a Computational Primitive for Network Intelligence", "ver": "outline", "status": "规划中", "date": "2026-05-28", "desc": "将持续同调理论引入网络计算，以拓扑不变量作为原生计算操作", "priority": "中"}, {"id": 6, "dim": "TCC", "cat": "专利", "title": "一种基于网络拓扑不变量的分布式计算方法", "ver": "构思-v2", "status": "撰写中", "date": "2026-06-04", "desc": "利用拓扑不变量（Betti数、Euler示性数）作为分布式计算原语，突破节点中心范式", "priority": "高"}, {"id": 7, "dim": "TCC", "cat": "专利", "title": "多区域拓扑网络的自适应耦合系统", "ver": "构思-v1", "status": "规划中", "date": "2026-06-01", "desc": "基于SDI v30 multi-region架构的多区域拓扑自适应耦合方法", "priority": "中"}, {"id": 8, "dim": "TCC", "cat": "仿真程序", "title": "SDI v30 多区域拓扑仿真", "ver": "v30", "status": "测试中", "date": "2026-06-04", "desc": "最新版SDI，实现多区域拓扑网络的跨尺度耦合与区域间涌现交互", "priority": "高", "link": "simulation/sdi_v31_multibrain.py"}, {"id": 9, "dim": "TCC", "cat": "仿真程序", "title": "拓扑不变量计算与可视化工具", "ver": "v0.2", "status": "规划中", "date": "2026-05-25", "desc": "基于持续同调的网络拓扑特征提取与可视化工具", "priority": "中"}, {"id": 10, "dim": "TCC", "cat": "产品代码开发", "title": "TCC 拓扑中心计算引擎 (Python)", "ver": "v0.3-dev", "status": "开发中", "date": "2026-06-05", "desc": "拓扑中心计算核心引擎，将网络拓扑结构作为一等计算对象", "priority": "高"}, {"id": 11, "dim": "TCC", "cat": "产品代码开发", "title": "FPGA 拓扑加速模块 (Verilog)", "ver": "v0.1-prototype", "status": "开发中", "date": "2026-06-03", "desc": "SDI关键路径的FPGA硬件加速原型，含sdio_bond_core_v24", "priority": "高", "link": "phase1_workspace/iNEST_4_工程开发/fpga"}, {"id": 12, "dim": "TCC", "cat": "项目指南策划", "title": "TCC 拓扑中心计算技术白皮书", "ver": "大纲-v1", "status": "规划中", "date": "2026-06-04", "desc": "全面阐述拓扑中心计算范式：理论基础、计算模型、工程实现与产业前景", "priority": "高"}, {"id": 13, "dim": "TCC", "cat": "项目指南策划", "title": "拓扑中心计算入门指南", "ver": "v0.1", "status": "规划中", "date": "2026-05-20", "desc": "面向新成员的TCC范式入门：从图论、代数拓扑到SDI框架", "priority": "中"}, {"id": 14, "dim": "iNEST", "cat": "灵感", "title": "FEP自由能原理驱动的网络功能涌现临界条件", "ver": "v2.1", "status": "验证中", "date": "2026-06-04", "desc": "探索FEP自由能最小化与网络临界相变的数学联系，寻找涌现智能的相变边界", "priority": "高"}, {"id": 15, "dim": "iNEST", "cat": "灵感", "title": "SDI框架下的多尺度拓扑自组织机制", "ver": "v1.8", "status": "进行中", "date": "2026-06-03", "desc": "研究微观-介观-宏观三层网络中自组织拓扑的形成与演化规律", "priority": "高"}, {"id": 16, "dim": "iNEST", "cat": "灵感", "title": "忆阻器交叉阵列与SDI拓扑的硬件映射", "ver": "v0.8", "status": "探索中", "date": "2026-05-22", "desc": "将SDI网络拓扑结构映射到忆阻器交叉阵列的可行性研究", "priority": "中"}, {"id": 17, "dim": "iNEST", "cat": "论文", "title": "iNEST: Complex Network Emergent Intelligence via Self-organizing Topology", "ver": "draft-v4", "status": "撰写中", "date": "2026-06-04", "desc": "iNEST核心架构论文，含FEP-STDP融合框架与功能涌现机制", "priority": "高", "link": "phase1_workspace/papers/paper1_iNEST_core_architecture.md"}, {"id": 18, "dim": "iNEST", "cat": "论文", "title": "Liquid Computing Chemistry: FEP-driven Self-organization in Artificial Neural Substrates", "ver": "draft-v2", "status": "撰写中", "date": "2026-06-03", "desc": "液态计算化学：FEP驱动的人工神经基质自组织与涌现", "priority": "高", "link": "phase1_workspace/papers/paper2_liquid_computing_chemistry.md"}, {"id": 19, "dim": "iNEST", "cat": "论文", "title": "类脑计算最新综述与iNEST定位分析", "ver": "outline", "status": "资料整理", "date": "2026-05-22", "desc": "基于Nature Electronics综述，梳理iNEST在类脑计算与涌现智能领域的定位", "priority": "中", "link": "GetNotes_Inbox/_processed/类脑计算最新综述.md"}, {"id": 20, "dim": "iNEST", "cat": "论文", "title": "算力网络拓扑趋势与iNEST架构对比分析", "ver": "notes", "status": "资料整理", "date": "2026-05-28", "desc": "基于CXL 3.0等算力网络趋势，分析iNEST拓扑中心架构的差异化优势", "priority": "中", "link": "GetNotes_Inbox/_processed/芯片算力网络趋势.md"}, {"id": 21, "dim": "iNEST", "cat": "专利", "title": "专利组合详细方案（6项核心专利）", "ver": "v2.1", "status": "撰写中", "date": "2026-06-03", "desc": "含FEP-STDP融合、功能涌现检测、多尺度拓扑优化、多区域耦合等6项核心专利", "priority": "高", "link": "phase1_workspace/patents/patent_portfolio_detailed.md"}, {"id": 22, "dim": "iNEST", "cat": "专利", "title": "一种基于自由能原理的自组织网络拓扑优化方法", "ver": "申请稿-v1", "status": "撰写中", "date": "2026-05-20", "desc": "FEP驱动的网络拓扑自适应优化方法", "priority": "高"}, {"id": 23, "dim": "iNEST", "cat": "专利", "title": "神经网络功能涌现检测与量化方法", "ver": "构思-v1", "status": "规划中", "date": "2026-06-01", "desc": "基于信息论与拓扑指标的神经网络功能涌现自动检测", "priority": "中"}, {"id": 24, "dim": "iNEST", "cat": "仿真程序", "title": "SDI v29 功能性涌现仿真", "ver": "v29", "status": "已完成", "date": "2026-06-04", "desc": "功能性涌现模块集成，含自组织临界检测与涌现度量，PASS率94.2%", "priority": "高", "link": "phase1_workspace/sdi_v29_functional.py"}, {"id": 25, "dim": "iNEST", "cat": "仿真程序", "title": "SDI v28 多尺度融合仿真", "ver": "v28", "status": "已完成", "date": "2026-06-02", "desc": "微观-介观-宏观三层多尺度网络融合框架", "priority": "高", "link": "phase1_workspace/sdi_v28_multiscale.py"}, {"id": 26, "dim": "iNEST", "cat": "仿真程序", "title": "SDI v27 多尺度仿真", "ver": "v27", "status": "已完成", "date": "2026-05-28", "desc": "初版多尺度网络仿真", "priority": "中", "link": "phase1_workspace/sdi_v27_multiscale.py"}, {"id": 27, "dim": "iNEST", "cat": "仿真程序", "title": "SDI v26 多尺度仿真", "ver": "v26", "status": "已完成", "date": "2026-05-20", "desc": "多尺度仿真框架初步实现", "priority": "中", "link": "phase1_workspace/sdi_v26_multiscale.py"}, {"id": 28, "dim": "iNEST", "cat": "仿真程序", "title": "SDI v25 物理-生物融合", "ver": "v25", "status": "已完成", "date": "2026-05-15", "desc": "物理约束与生物启发机制的融合仿真", "priority": "中", "link": "phase1_workspace/sdi_v25_physical_biological.py"}, {"id": 29, "dim": "iNEST", "cat": "仿真程序", "title": "SDI v24 FEP-STDP融合仿真", "ver": "v24", "status": "已完成", "date": "2026-05-10", "desc": "FEP自由能原理与STDP脉冲时间依赖可塑性的首次融合", "priority": "高", "link": "phase1_workspace/sdi_v24_fep_stdp_fusion.py"}, {"id": 30, "dim": "iNEST", "cat": "仿真程序", "title": "SDI v11 FEP进化仿真", "ver": "v11", "status": "已完成", "date": "2026-05-01", "desc": "改进版FEP驱动的网络进化仿真", "priority": "中", "link": "phase1_workspace/sdi_v11_fep_improved.py"}, {"id": 31, "dim": "iNEST", "cat": "仿真程序", "title": "SDI 相变扫描分析", "ver": "v1", "status": "已完成", "date": "2026-05-01", "desc": "网络拓扑相变的参数空间扫描与临界点检测", "priority": "中", "link": "phase1_workspace/sdi_phase_transition_scan.py"}, {"id": 32, "dim": "iNEST", "cat": "产品代码开发", "title": "iNEST 核心网络引擎 (Python)", "ver": "v0.6-dev", "status": "开发中", "date": "2026-06-04", "desc": "SDI核心算法的工程化实现，支持大规模复杂网络的拓扑分析与涌现检测", "priority": "高"}, {"id": 33, "dim": "iNEST", "cat": "产品代码开发", "title": "FPGA 硬件加速模块 (Verilog)", "ver": "v0.1-prototype", "status": "开发中", "date": "2026-06-03", "desc": "SDI关键路径硬件加速：sdio_bond_core_v24 及其测试平台", "priority": "高", "link": "phase1_workspace/iNEST_4_工程开发"}, {"id": 34, "dim": "iNEST", "cat": "产品代码开发", "title": "投资者演示 Demo v3", "ver": "v3.0", "status": "已完成", "date": "2026-06-03", "desc": "面向投资人的交互式产品演示站点", "priority": "高", "link": "phase1_workspace/investor_demo/index.html"}, {"id": 35, "dim": "iNEST", "cat": "产品代码开发", "title": "iNEST 知识采集爬虫", "ver": "v1.2", "status": "已完成", "date": "2026-06-03", "desc": "自动化文献与资讯采集管线，支持论文、专利、技术新闻的多源汇聚", "priority": "中", "link": "scripts/iNEST_crawler.py"}, {"id": 36, "dim": "iNEST", "cat": "项目指南策划", "title": "iNEST 复杂网络涌现智能技术白皮书", "ver": "v1.2", "status": "持续更新", "date": "2026-06-05", "desc": "iNEST整体技术体系：拓扑中心计算范式、FEP-STDP融合、SDI框架、应用场景", "priority": "高"}, {"id": 37, "dim": "iNEST", "cat": "项目指南策划", "title": "iNEST CS团队协作指南", "ver": "v1.0", "status": "已发布", "date": "2026-06-03", "desc": "团队协作规范、开发流程、知识管理与工具链", "priority": "高", "link": "iNEST_CS团队指南.pdf"}, {"id": 38, "dim": "iNEST", "cat": "项目指南策划", "title": "iNEST 对外合作介绍", "ver": "v2.0", "status": "已发布", "date": "2026-06-02", "desc": "面向合作伙伴与投资人的项目介绍与技术能力展示", "priority": "高", "link": "iNEST对外合作介绍材料.html"}, {"id": 39, "dim": "iNEST", "cat": "项目指南策划", "title": "研发路线图与里程碑规划 (Q3-Q4)", "ver": "v1.5", "status": "持续更新", "date": "2026-06-01", "desc": "Q3-Q4研发里程碑、资源分配、风险评估与应对预案", "priority": "高"},
-    {"id": 48, "dim": "TCC", "cat": "论文", "title": "From Compute to Complexity: A Physical Theory of Intelligence Emergence", "ver": "V27", "status": "撰写中", "date": "2026-06-04", "desc": "CST理论核心论文：智能涌现的物理理论及其对AGI的启示", "priority": "高", "link": "papers/TCC/From Compute to Complexity- A Physical Theory of Intelligence Emergence.md"},
-    {"id": 49, "dim": "TCC", "cat": "论文", "title": "5类通信-4类计算拓扑完备映射与PTM算法", "ver": "v2", "status": "撰写中", "date": "2026-06-03", "desc": "B2核心论文：5通信+4计算原语拓扑完备映射，含FFT-AllReduce图同构定理", "priority": "高", "link": "papers/TCC/5类通信-4类计算拓扑完备映射与PTM算法.md"},
-    {"id": 50, "dim": "iNEST", "cat": "论文", "title": "FEP-STDP Deep Fusion: Physics-Grounded Self-Evolving Neural Architecture", "ver": "draft-v1", "status": "撰写中", "date": "2026-06-03", "desc": "FEP-STDP深度融合：面向绿色安全可扩展智能的物理自演化神经架构", "priority": "高", "link": "papers/iNEST/FEP-STDP Deep Fusion- Physics-Grounded Self-Evolving Neural Architecture.md"},
-    {"id": 51, "dim": "TCC", "cat": "专利", "title": "面向网络中心计算的软件定义互连系统架构及调度方法", "ver": "申请稿-v1", "status": "撰写中", "date": "2026-06-04", "desc": "P0优先级：覆盖TCC+SDI系统架构，海河实验室重大专项", "priority": "高", "link": "TCC_3_专利撰写/面向网络中心计算的软件定义互连系统架构及调度方法.md"},
-    {"id": 52, "dim": "TCC", "cat": "专利", "title": "面向晶圆级大模型推理的高维最优扇出互连拓扑结构", "ver": "构思-v1", "status": "规划中", "date": "2026-06-04", "desc": "P0优先级：针对晶圆级高维互连拓扑的关键卡位专利", "priority": "高", "link": "TCC_3_专利撰写/面向晶圆级大模型推理的高维最优扇出互连拓扑结构.md"},
-    {"id": 53, "dim": "TCC", "cat": "专利", "title": "面向万亿参数大模型的网内原语AI梯度归约通信加速系统", "ver": "构思-v1", "status": "规划中", "date": "2026-06-04", "desc": "P0优先级：针对AllReduce等集合通信的直接工程专利", "priority": "高", "link": "TCC_3_专利撰写/面向万亿参数大模型的网内原语AI梯度归约通信加速系统.md"},
-    {"id": 54, "dim": "iNEST", "cat": "项目指南策划", "title": "[专著] 网络时空协同复杂度涌现智能（iNEST）", "ver": "v2.5", "status": "持续撰写", "date": "2026-02-26", "desc": "iNEST核心专著，4章已完成。待确定最终题目与章节结构，目标2026 Q3完成全稿", "priority": "高", "link": "专著/网络时空协同复杂度涌现智能（iNEST）专著.md"},
-    {"id": 55, "dim": "iNEST", "cat": "项目指南策划", "title": "[专著] iMESO理论：介观尺度智能涌现", "ver": "v1.0", "status": "撰写中", "date": "2025-12-25", "desc": "介观尺度智能涌现理论专著，1-4章+5+8+附录完成。需确定与iNEST专著合并策略", "priority": "高", "link": "专著/iMESO理论：介观尺度智能涌现.md"},
-    {"id": 56, "dim": "TCC", "cat": "项目指南策划", "title": "[专著] 晶上大脑：晶圆级类脑计算架构", "ver": "v1.0", "status": "规划中", "date": "2025-11-01", "desc": "晶圆级类脑计算架构专著。需与海河V8 SDI仿真整合后重启，目标2026 Q3", "priority": "高", "link": "专著/晶上大脑：晶圆级类脑计算架构.md"},
-    {"id": 57, "dim": "TCC", "cat": "项目指南策划", "title": "[专著] 基于时空协同复杂度的智能涌现统一理论", "ver": "v1.0", "status": "规划中", "date": "2025-10-29", "desc": "统一理论专著。与CST论文和Meta-Topology论文协调推进，目标2026 Q4", "priority": "高", "link": "专著/基于时空协同复杂度的智能涌现统一理论.md"},
-    {"id": 58, "dim": "iNEST", "cat": "项目指南策划", "title": "[专著] 物理神经网络涌现智能", "ver": "v1.5", "status": "撰写中", "date": "2025-11-12", "desc": "物理第一性原理阐述神经网络智能涌现。与FEP-STDP论文互为支撑，目标2026 Q3", "priority": "高", "link": "专著/物理神经网络涌现智能.md"},
-    {"id": 59, "dim": "iNEST", "cat": "项目指南策划", "title": "[专著] 类脑智能的介观尺度复杂度阈值范式", "ver": "v1.0", "status": "规划中", "date": "2025-10-05", "desc": "介观尺度复杂度阈值范式专著。提出介观尺度为类脑计算关键尺度，目标2026 Q4", "priority": "中", "link": "专著/类脑智能的介观尺度复杂度阈值范式.md"},
-    {"id": 60, "dim": "iNEST", "cat": "项目指南策划", "title": "[专著] iNEST理论迭代过程优化研究", "ver": "v1.0", "status": "已完成", "date": "2026-01-26", "desc": "基于临界性科学的智能涌现框架迭代优化，6步研究全部完成，成果已整合入专著", "priority": "中", "link": "专著/iNEST理论迭代过程优化研究.md"},
-    {"id": 61, "dim": "iNEST", "cat": "项目指南策划", "title": "[专著] iNEST十年规划", "ver": "v1.0", "status": "已规划", "date": "2026-01-06", "desc": "iNEST十年发展路线图：理论验证->芯片流片->系统集成->产业落地", "priority": "中", "link": "专著/iNEST十年规划.md"}]};
+var DEFAULT_DATA = {"daily": [{"date": "2026-06-05", "type": "today", "progress": [{"text": "Meta-Topology SDI-Bond璁烘枃v3淇瀹屾垚","dot":"done","dim":"TCC"},{"text": "CST Theory V26瀹氱","dot":"done","dim":"TCC"},{"text": "SDI v30 澶氬尯鍩熸嫇鎵戠綉缁滐紙multi-region锛夋灦鏋勮璁′笌鍒濆浠跨湡", "dot": "ongoing", "dim": "TCC"}, {"text": "鎷撴墤涓績璁＄畻鑼冨紡鐞嗚妗嗘灦杩涗竴姝ョ粏鍖?, "dot": "ongoing", "dim": "TCC"}, {"text": "14绡囪鏂囦笓鍒╂寜Obsidian鐭ヨ瘑搴撹鍒欏綊妗ｈ嚦papers-TCC銆乸apers-iNEST銆乀CC_3_涓撳埄鎾板啓銆乮NEST_3_涓撳埄鎾板啓绛夌洰褰?, "dot": "done", "dim": "TCC+iNEST"}], "plan": [{"text": "SDI v30 澶氬尯鍩熻法灏哄害鑰﹀悎楠岃瘉瀹為獙", "dot": "plan", "dim": "TCC"}, {"text": "FEP-STDP 鏀舵暃鎬ц瘉鏄庢暟瀛︽帹瀵煎畬鎴?, "dot": "plan", "dim": "iNEST"}, {"text": "鏍稿績鏋舵瀯璁烘枃 Results 绔犺妭鎾板啓", "dot": "plan", "dim": "iNEST"}]}, {"date": "2026-06-04", "type": "yesterday", "progress": [{"text": "SDI v30 澶氬尯鍩熸嫇鎵戜豢鐪熸鏋舵惌寤哄畬鎴?, "dot": "done", "dim": "TCC"}, {"text": "SDI v29 鍔熻兘鎬ф秾鐜版ā鍧楅泦鎴愭祴璇曪紝PASS鐜?94.2%", "dot": "done", "dim": "iNEST"}, {"text": "iNEST 鏍稿績鏋舵瀯璁烘枃 Methods 绔犺妭瀹氱", "dot": "done", "dim": "iNEST"}], "plan": [{"text": "SDI v30 澶氬尯鍩熻€﹀悎楠岃瘉", "dot": "done", "dim": "TCC"}, {"text": "涓撳埄缁勫悎鏂囨。 v2.1 鏇存柊", "dot": "ongoing", "dim": "TCC+iNEST"}]}, {"date": "2026-06-03", "type": "past", "progress": [{"text": "SDI v8-v28 鐗堟湰鎵归噺鍥炲綊娴嬭瘯涓庢€ц兘瀵规瘮", "dot": "done", "dim": "iNEST"}, {"text": "FPGA Verilog 浠ｇ爜锛歴dio_bond_core_v24 妯″潡瀹炵幇", "dot": "done", "dim": "iNEST"}, {"text": "iNEST 鐖櫕绯荤粺鏇存柊锛岀煡璇嗛噰闆嗙绾夸紭鍖?, "dot": "done", "dim": "iNEST"}, {"text": "娑叉€佽绠楀寲瀛﹁鏂?draft-v2 杩唬", "dot": "done", "dim": "iNEST"}, {"text": "鎶曡祫浜烘紨绀?Demo v3 绔欑偣鏋勫缓涓庨儴缃?, "dot": "done", "dim": "iNEST"}], "plan": []}, {"date": "2026-06-02", "type": "past", "progress": [{"text": "SDI v27->v28 澶氬昂搴﹁瀺鍚堟鏋跺疄鐜板畬鎴?, "dot": "done", "dim": "iNEST"}, {"text": "涓撳埄缁勫悎璇︾粏鏂规鍒濈锛團EP-STDP/娑岀幇妫€娴?鎷撴墤浼樺寲锛?, "dot": "done", "dim": "TCC+iNEST"}], "plan": []}], "entries": [{"id": 1, "dim": "TCC", "cat": "鐏垫劅", "title": "浠庤妭鐐逛腑蹇冨埌鎷撴墤涓績锛氳绠楄寖寮忔牴鏈浆鍙樼殑鐞嗚妗嗘灦", "ver": "v2.0", "status": "杩涜涓?, "date": "2026-06-05", "desc": "鎻愬嚭灏嗚绠楃殑鍩烘湰鍗曞厓浠庡崟涓妭鐐规彁鍗囪嚦缃戠粶鎷撴墤缁撴瀯鏈韩锛屼互鎷撴墤涓嶅彉閲忥紙Betti鏁般€佹寔缁悓璋冪瓑锛変綔涓鸿绠楀師璇紝瀹炵幇鎷撴墤鍘熺敓璁＄畻", "priority": "楂?}, {"id": 2, "dim": "TCC", "cat": "鐏垫劅", "title": "澶氬尯鍩熺綉缁滄嫇鎵戠殑娑岀幇鎬ц€﹀悎鏈哄埗", "ver": "v1.5", "status": "楠岃瘉涓?, "date": "2026-06-04", "desc": "鎺㈢储澶氫釜鎷撴墤瀛愬尯鍩熼棿鐨勪俊鎭祦鑰﹀悎涓庡崗鍚屾秾鐜版潯浠讹紝瀵瑰簲SDI v30 multi-region瀹為獙", "priority": "楂?}, {"id": 3, "dim": "TCC", "cat": "鐏垫劅", "title": "鎷撴墤涓績瑙嗚涓嬬殑澶嶆潅缃戠粶璺敱浼樺寲", "ver": "v1.0", "status": "杩涜涓?, "date": "2026-05-30", "desc": "浠ョ綉缁滃叏灞€鎷撴墤缁撴瀯锛堥潪鍗曡妭鐐圭瓥鐣ワ級椹卞姩璺敱鍐崇瓥锛岃瀺鍚堝皬涓栫晫涓庢棤鏍囧害鐗规€?, "priority": "楂?}, {"id": 4, "dim": "TCC", "cat": "璁烘枃", "title": "Topology-Centric Computing: A Paradigm Shift from Nodes to Networks", "ver": "draft-v1", "status": "鎾板啓涓?, "date": "2026-06-05", "desc": "TCC鑼冨紡瀹ｈ█璁烘枃锛氳璇佹嫇鎵戜腑蹇冭绠楃殑鏁板鍩虹銆佽绠楁ā鍨嬩笌鐩稿浜庤妭鐐逛腑蹇冭寖寮忕殑鐞嗚浼樺娍", "priority": "楂?}, {"id": 5, "dim": "TCC", "cat": "璁烘枃", "title": "Persistent Homology as a Computational Primitive for Network Intelligence", "ver": "outline", "status": "瑙勫垝涓?, "date": "2026-05-28", "desc": "灏嗘寔缁悓璋冪悊璁哄紩鍏ョ綉缁滆绠楋紝浠ユ嫇鎵戜笉鍙橀噺浣滀负鍘熺敓璁＄畻鎿嶄綔", "priority": "涓?}, {"id": 6, "dim": "TCC", "cat": "涓撳埄", "title": "涓€绉嶅熀浜庣綉缁滄嫇鎵戜笉鍙橀噺鐨勫垎甯冨紡璁＄畻鏂规硶", "ver": "鏋勬€?v2", "status": "鎾板啓涓?, "date": "2026-06-04", "desc": "鍒╃敤鎷撴墤涓嶅彉閲忥紙Betti鏁般€丒uler绀烘€ф暟锛変綔涓哄垎甯冨紡璁＄畻鍘熻锛岀獊鐮磋妭鐐逛腑蹇冭寖寮?, "priority": "楂?}, {"id": 7, "dim": "TCC", "cat": "涓撳埄", "title": "澶氬尯鍩熸嫇鎵戠綉缁滅殑鑷€傚簲鑰﹀悎绯荤粺", "ver": "鏋勬€?v1", "status": "瑙勫垝涓?, "date": "2026-06-01", "desc": "鍩轰簬SDI v30 multi-region鏋舵瀯鐨勫鍖哄煙鎷撴墤鑷€傚簲鑰﹀悎鏂规硶", "priority": "涓?}, {"id": 8, "dim": "TCC", "cat": "浠跨湡绋嬪簭", "title": "SDI v30 澶氬尯鍩熸嫇鎵戜豢鐪?, "ver": "v30", "status": "娴嬭瘯涓?, "date": "2026-06-04", "desc": "鏈€鏂扮増SDI锛屽疄鐜板鍖哄煙鎷撴墤缃戠粶鐨勮法灏哄害鑰﹀悎涓庡尯鍩熼棿娑岀幇浜や簰", "priority": "楂?, "link": "simulation/sdi_v31_multibrain.py"}, {"id": 9, "dim": "TCC", "cat": "浠跨湡绋嬪簭", "title": "鎷撴墤涓嶅彉閲忚绠椾笌鍙鍖栧伐鍏?, "ver": "v0.2", "status": "瑙勫垝涓?, "date": "2026-05-25", "desc": "鍩轰簬鎸佺画鍚岃皟鐨勭綉缁滄嫇鎵戠壒寰佹彁鍙栦笌鍙鍖栧伐鍏?, "priority": "涓?}, {"id": 10, "dim": "TCC", "cat": "浜у搧浠ｇ爜寮€鍙?, "title": "TCC 鎷撴墤涓績璁＄畻寮曟搸 (Python)", "ver": "v0.3-dev", "status": "寮€鍙戜腑", "date": "2026-06-05", "desc": "鎷撴墤涓績璁＄畻鏍稿績寮曟搸锛屽皢缃戠粶鎷撴墤缁撴瀯浣滀负涓€绛夎绠楀璞?, "priority": "楂?}, {"id": 11, "dim": "TCC", "cat": "浜у搧浠ｇ爜寮€鍙?, "title": "FPGA 鎷撴墤鍔犻€熸ā鍧?(Verilog)", "ver": "v0.1-prototype", "status": "寮€鍙戜腑", "date": "2026-06-03", "desc": "SDI鍏抽敭璺緞鐨凢PGA纭欢鍔犻€熷師鍨嬶紝鍚玸dio_bond_core_v24", "priority": "楂?, "link": "phase1_workspace/iNEST_4_宸ョ▼寮€鍙?fpga"}, {"id": 12, "dim": "TCC", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "TCC 鎷撴墤涓績璁＄畻鎶€鏈櫧鐨功", "ver": "澶х翰-v1", "status": "瑙勫垝涓?, "date": "2026-06-04", "desc": "鍏ㄩ潰闃愯堪鎷撴墤涓績璁＄畻鑼冨紡锛氱悊璁哄熀纭€銆佽绠楁ā鍨嬨€佸伐绋嬪疄鐜颁笌浜т笟鍓嶆櫙", "priority": "楂?}, {"id": 13, "dim": "TCC", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "鎷撴墤涓績璁＄畻鍏ラ棬鎸囧崡", "ver": "v0.1", "status": "瑙勫垝涓?, "date": "2026-05-20", "desc": "闈㈠悜鏂版垚鍛樼殑TCC鑼冨紡鍏ラ棬锛氫粠鍥捐銆佷唬鏁版嫇鎵戝埌SDI妗嗘灦", "priority": "涓?}, {"id": 14, "dim": "iNEST", "cat": "鐏垫劅", "title": "FEP鑷敱鑳藉師鐞嗛┍鍔ㄧ殑缃戠粶鍔熻兘娑岀幇涓寸晫鏉′欢", "ver": "v2.1", "status": "楠岃瘉涓?, "date": "2026-06-04", "desc": "鎺㈢储FEP鑷敱鑳芥渶灏忓寲涓庣綉缁滀复鐣岀浉鍙樼殑鏁板鑱旂郴锛屽鎵炬秾鐜版櫤鑳界殑鐩稿彉杈圭晫", "priority": "楂?}, {"id": 15, "dim": "iNEST", "cat": "鐏垫劅", "title": "SDI妗嗘灦涓嬬殑澶氬昂搴︽嫇鎵戣嚜缁勭粐鏈哄埗", "ver": "v1.8", "status": "杩涜涓?, "date": "2026-06-03", "desc": "鐮旂┒寰-浠嬭-瀹忚涓夊眰缃戠粶涓嚜缁勭粐鎷撴墤鐨勫舰鎴愪笌婕斿寲瑙勫緥", "priority": "楂?}, {"id": 16, "dim": "iNEST", "cat": "鐏垫劅", "title": "蹇嗛樆鍣ㄤ氦鍙夐樀鍒椾笌SDI鎷撴墤鐨勭‖浠舵槧灏?, "ver": "v0.8", "status": "鎺㈢储涓?, "date": "2026-05-22", "desc": "灏哠DI缃戠粶鎷撴墤缁撴瀯鏄犲皠鍒板繂闃诲櫒浜ゅ弶闃靛垪鐨勫彲琛屾€х爺绌?, "priority": "涓?}, {"id": 17, "dim": "iNEST", "cat": "璁烘枃", "title": "iNEST: Complex Network Emergent Intelligence via Self-organizing Topology", "ver": "draft-v4", "status": "鎾板啓涓?, "date": "2026-06-04", "desc": "iNEST鏍稿績鏋舵瀯璁烘枃锛屽惈FEP-STDP铻嶅悎妗嗘灦涓庡姛鑳芥秾鐜版満鍒?, "priority": "楂?, "link": "phase1_workspace/papers/paper1_iNEST_core_architecture.md"}, {"id": 18, "dim": "iNEST", "cat": "璁烘枃", "title": "Liquid Computing Chemistry: FEP-driven Self-organization in Artificial Neural Substrates", "ver": "draft-v2", "status": "鎾板啓涓?, "date": "2026-06-03", "desc": "娑叉€佽绠楀寲瀛︼細FEP椹卞姩鐨勪汉宸ョ缁忓熀璐ㄨ嚜缁勭粐涓庢秾鐜?, "priority": "楂?, "link": "phase1_workspace/papers/paper2_liquid_computing_chemistry.md"}, {"id": 19, "dim": "iNEST", "cat": "璁烘枃", "title": "绫昏剳璁＄畻鏈€鏂扮患杩颁笌iNEST瀹氫綅鍒嗘瀽", "ver": "outline", "status": "璧勬枡鏁寸悊", "date": "2026-05-22", "desc": "鍩轰簬Nature Electronics缁艰堪锛屾⒊鐞唅NEST鍦ㄧ被鑴戣绠椾笌娑岀幇鏅鸿兘棰嗗煙鐨勫畾浣?, "priority": "涓?, "link": "GetNotes_Inbox/_processed/绫昏剳璁＄畻鏈€鏂扮患杩?md"}, {"id": 20, "dim": "iNEST", "cat": "璁烘枃", "title": "绠楀姏缃戠粶鎷撴墤瓒嬪娍涓巌NEST鏋舵瀯瀵规瘮鍒嗘瀽", "ver": "notes", "status": "璧勬枡鏁寸悊", "date": "2026-05-28", "desc": "鍩轰簬CXL 3.0绛夌畻鍔涚綉缁滆秼鍔匡紝鍒嗘瀽iNEST鎷撴墤涓績鏋舵瀯鐨勫樊寮傚寲浼樺娍", "priority": "涓?, "link": "GetNotes_Inbox/_processed/鑺墖绠楀姏缃戠粶瓒嬪娍.md"}, {"id": 21, "dim": "iNEST", "cat": "涓撳埄", "title": "涓撳埄缁勫悎璇︾粏鏂规锛?椤规牳蹇冧笓鍒╋級", "ver": "v2.1", "status": "鎾板啓涓?, "date": "2026-06-03", "desc": "鍚獸EP-STDP铻嶅悎銆佸姛鑳芥秾鐜版娴嬨€佸灏哄害鎷撴墤浼樺寲銆佸鍖哄煙鑰﹀悎绛?椤规牳蹇冧笓鍒?, "priority": "楂?, "link": "phase1_workspace/patents/patent_portfolio_detailed.md"}, {"id": 22, "dim": "iNEST", "cat": "涓撳埄", "title": "涓€绉嶅熀浜庤嚜鐢辫兘鍘熺悊鐨勮嚜缁勭粐缃戠粶鎷撴墤浼樺寲鏂规硶", "ver": "鐢宠绋?v1", "status": "鎾板啓涓?, "date": "2026-05-20", "desc": "FEP椹卞姩鐨勭綉缁滄嫇鎵戣嚜閫傚簲浼樺寲鏂规硶", "priority": "楂?}, {"id": 23, "dim": "iNEST", "cat": "涓撳埄", "title": "绁炵粡缃戠粶鍔熻兘娑岀幇妫€娴嬩笌閲忓寲鏂规硶", "ver": "鏋勬€?v1", "status": "瑙勫垝涓?, "date": "2026-06-01", "desc": "鍩轰簬淇℃伅璁轰笌鎷撴墤鎸囨爣鐨勭缁忕綉缁滃姛鑳芥秾鐜拌嚜鍔ㄦ娴?, "priority": "涓?}, {"id": 24, "dim": "iNEST", "cat": "浠跨湡绋嬪簭", "title": "SDI v29 鍔熻兘鎬ф秾鐜颁豢鐪?, "ver": "v29", "status": "宸插畬鎴?, "date": "2026-06-04", "desc": "鍔熻兘鎬ф秾鐜版ā鍧楅泦鎴愶紝鍚嚜缁勭粐涓寸晫妫€娴嬩笌娑岀幇搴﹂噺锛孭ASS鐜?4.2%", "priority": "楂?, "link": "phase1_workspace/sdi_v29_functional.py"}, {"id": 25, "dim": "iNEST", "cat": "浠跨湡绋嬪簭", "title": "SDI v28 澶氬昂搴﹁瀺鍚堜豢鐪?, "ver": "v28", "status": "宸插畬鎴?, "date": "2026-06-02", "desc": "寰-浠嬭-瀹忚涓夊眰澶氬昂搴︾綉缁滆瀺鍚堟鏋?, "priority": "楂?, "link": "phase1_workspace/sdi_v28_multiscale.py"}, {"id": 26, "dim": "iNEST", "cat": "浠跨湡绋嬪簭", "title": "SDI v27 澶氬昂搴︿豢鐪?, "ver": "v27", "status": "宸插畬鎴?, "date": "2026-05-28", "desc": "鍒濈増澶氬昂搴︾綉缁滀豢鐪?, "priority": "涓?, "link": "phase1_workspace/sdi_v27_multiscale.py"}, {"id": 27, "dim": "iNEST", "cat": "浠跨湡绋嬪簭", "title": "SDI v26 澶氬昂搴︿豢鐪?, "ver": "v26", "status": "宸插畬鎴?, "date": "2026-05-20", "desc": "澶氬昂搴︿豢鐪熸鏋跺垵姝ュ疄鐜?, "priority": "涓?, "link": "phase1_workspace/sdi_v26_multiscale.py"}, {"id": 28, "dim": "iNEST", "cat": "浠跨湡绋嬪簭", "title": "SDI v25 鐗╃悊-鐢熺墿铻嶅悎", "ver": "v25", "status": "宸插畬鎴?, "date": "2026-05-15", "desc": "鐗╃悊绾︽潫涓庣敓鐗╁惎鍙戞満鍒剁殑铻嶅悎浠跨湡", "priority": "涓?, "link": "phase1_workspace/sdi_v25_physical_biological.py"}, {"id": 29, "dim": "iNEST", "cat": "浠跨湡绋嬪簭", "title": "SDI v24 FEP-STDP铻嶅悎浠跨湡", "ver": "v24", "status": "宸插畬鎴?, "date": "2026-05-10", "desc": "FEP鑷敱鑳藉師鐞嗕笌STDP鑴夊啿鏃堕棿渚濊禆鍙鎬х殑棣栨铻嶅悎", "priority": "楂?, "link": "phase1_workspace/sdi_v24_fep_stdp_fusion.py"}, {"id": 30, "dim": "iNEST", "cat": "浠跨湡绋嬪簭", "title": "SDI v11 FEP杩涘寲浠跨湡", "ver": "v11", "status": "宸插畬鎴?, "date": "2026-05-01", "desc": "鏀硅繘鐗團EP椹卞姩鐨勭綉缁滆繘鍖栦豢鐪?, "priority": "涓?, "link": "phase1_workspace/sdi_v11_fep_improved.py"}, {"id": 31, "dim": "iNEST", "cat": "浠跨湡绋嬪簭", "title": "SDI 鐩稿彉鎵弿鍒嗘瀽", "ver": "v1", "status": "宸插畬鎴?, "date": "2026-05-01", "desc": "缃戠粶鎷撴墤鐩稿彉鐨勫弬鏁扮┖闂存壂鎻忎笌涓寸晫鐐规娴?, "priority": "涓?, "link": "phase1_workspace/sdi_phase_transition_scan.py"}, {"id": 32, "dim": "iNEST", "cat": "浜у搧浠ｇ爜寮€鍙?, "title": "iNEST 鏍稿績缃戠粶寮曟搸 (Python)", "ver": "v0.6-dev", "status": "寮€鍙戜腑", "date": "2026-06-04", "desc": "SDI鏍稿績绠楁硶鐨勫伐绋嬪寲瀹炵幇锛屾敮鎸佸ぇ瑙勬ā澶嶆潅缃戠粶鐨勬嫇鎵戝垎鏋愪笌娑岀幇妫€娴?, "priority": "楂?}, {"id": 33, "dim": "iNEST", "cat": "浜у搧浠ｇ爜寮€鍙?, "title": "FPGA 纭欢鍔犻€熸ā鍧?(Verilog)", "ver": "v0.1-prototype", "status": "寮€鍙戜腑", "date": "2026-06-03", "desc": "SDI鍏抽敭璺緞纭欢鍔犻€燂細sdio_bond_core_v24 鍙婂叾娴嬭瘯骞冲彴", "priority": "楂?, "link": "phase1_workspace/iNEST_4_宸ョ▼寮€鍙?}, {"id": 34, "dim": "iNEST", "cat": "浜у搧浠ｇ爜寮€鍙?, "title": "鎶曡祫鑰呮紨绀?Demo v3", "ver": "v3.0", "status": "宸插畬鎴?, "date": "2026-06-03", "desc": "闈㈠悜鎶曡祫浜虹殑浜や簰寮忎骇鍝佹紨绀虹珯鐐?, "priority": "楂?, "link": "phase1_workspace/investor_demo/index.html"}, {"id": 35, "dim": "iNEST", "cat": "浜у搧浠ｇ爜寮€鍙?, "title": "iNEST 鐭ヨ瘑閲囬泦鐖櫕", "ver": "v1.2", "status": "宸插畬鎴?, "date": "2026-06-03", "desc": "鑷姩鍖栨枃鐚笌璧勮閲囬泦绠＄嚎锛屾敮鎸佽鏂囥€佷笓鍒┿€佹妧鏈柊闂荤殑澶氭簮姹囪仛", "priority": "涓?, "link": "scripts/iNEST_crawler.py"}, {"id": 36, "dim": "iNEST", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "iNEST 澶嶆潅缃戠粶娑岀幇鏅鸿兘鎶€鏈櫧鐨功", "ver": "v1.2", "status": "鎸佺画鏇存柊", "date": "2026-06-05", "desc": "iNEST鏁翠綋鎶€鏈綋绯伙細鎷撴墤涓績璁＄畻鑼冨紡銆丗EP-STDP铻嶅悎銆丼DI妗嗘灦銆佸簲鐢ㄥ満鏅?, "priority": "楂?}, {"id": 37, "dim": "iNEST", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "iNEST CS鍥㈤槦鍗忎綔鎸囧崡", "ver": "v1.0", "status": "宸插彂甯?, "date": "2026-06-03", "desc": "鍥㈤槦鍗忎綔瑙勮寖銆佸紑鍙戞祦绋嬨€佺煡璇嗙鐞嗕笌宸ュ叿閾?, "priority": "楂?, "link": "iNEST_CS鍥㈤槦鎸囧崡.pdf"}, {"id": 38, "dim": "iNEST", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "iNEST 瀵瑰鍚堜綔浠嬬粛", "ver": "v2.0", "status": "宸插彂甯?, "date": "2026-06-02", "desc": "闈㈠悜鍚堜綔浼欎即涓庢姇璧勪汉鐨勯」鐩粙缁嶄笌鎶€鏈兘鍔涘睍绀?, "priority": "楂?, "link": "iNEST瀵瑰鍚堜綔浠嬬粛鏉愭枡.html"}, {"id": 39, "dim": "iNEST", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "鐮斿彂璺嚎鍥句笌閲岀▼纰戣鍒?(Q3-Q4)", "ver": "v1.5", "status": "鎸佺画鏇存柊", "date": "2026-06-01", "desc": "Q3-Q4鐮斿彂閲岀▼纰戙€佽祫婧愬垎閰嶃€侀闄╄瘎浼颁笌搴斿棰勬", "priority": "楂?},
+    {"id": 48, "dim": "TCC", "cat": "璁烘枃", "title": "From Compute to Complexity: A Physical Theory of Intelligence Emergence", "ver": "V27", "status": "鎾板啓涓?, "date": "2026-06-04", "desc": "CST鐞嗚鏍稿績璁烘枃锛氭櫤鑳芥秾鐜扮殑鐗╃悊鐞嗚鍙婂叾瀵笰GI鐨勫惎绀?, "priority": "楂?, "link": "papers/TCC/From Compute to Complexity- A Physical Theory of Intelligence Emergence.md"},
+    {"id": 49, "dim": "TCC", "cat": "璁烘枃", "title": "5绫婚€氫俊-4绫昏绠楁嫇鎵戝畬澶囨槧灏勪笌PTM绠楁硶", "ver": "v2", "status": "鎾板啓涓?, "date": "2026-06-03", "desc": "B2鏍稿績璁烘枃锛?閫氫俊+4璁＄畻鍘熻鎷撴墤瀹屽鏄犲皠锛屽惈FFT-AllReduce鍥惧悓鏋勫畾鐞?, "priority": "楂?, "link": "papers/TCC/5绫婚€氫俊-4绫昏绠楁嫇鎵戝畬澶囨槧灏勪笌PTM绠楁硶.md"},
+    {"id": 50, "dim": "iNEST", "cat": "璁烘枃", "title": "FEP-STDP Deep Fusion: Physics-Grounded Self-Evolving Neural Architecture", "ver": "draft-v1", "status": "鎾板啓涓?, "date": "2026-06-03", "desc": "FEP-STDP娣卞害铻嶅悎锛氶潰鍚戠豢鑹插畨鍏ㄥ彲鎵╁睍鏅鸿兘鐨勭墿鐞嗚嚜婕斿寲绁炵粡鏋舵瀯", "priority": "楂?, "link": "papers/iNEST/FEP-STDP Deep Fusion- Physics-Grounded Self-Evolving Neural Architecture.md"},
+    {"id": 51, "dim": "TCC", "cat": "涓撳埄", "title": "闈㈠悜缃戠粶涓績璁＄畻鐨勮蒋浠跺畾涔変簰杩炵郴缁熸灦鏋勫強璋冨害鏂规硶", "ver": "鐢宠绋?v1", "status": "鎾板啓涓?, "date": "2026-06-04", "desc": "P0浼樺厛绾э細瑕嗙洊TCC+SDI绯荤粺鏋舵瀯锛屾捣娌冲疄楠屽閲嶅ぇ涓撻」", "priority": "楂?, "link": "TCC_3_涓撳埄鎾板啓/闈㈠悜缃戠粶涓績璁＄畻鐨勮蒋浠跺畾涔変簰杩炵郴缁熸灦鏋勫強璋冨害鏂规硶.md"},
+    {"id": 52, "dim": "TCC", "cat": "涓撳埄", "title": "闈㈠悜鏅跺渾绾уぇ妯″瀷鎺ㄧ悊鐨勯珮缁存渶浼樻墖鍑轰簰杩炴嫇鎵戠粨鏋?, "ver": "鏋勬€?v1", "status": "瑙勫垝涓?, "date": "2026-06-04", "desc": "P0浼樺厛绾э細閽堝鏅跺渾绾ч珮缁翠簰杩炴嫇鎵戠殑鍏抽敭鍗′綅涓撳埄", "priority": "楂?, "link": "TCC_3_涓撳埄鎾板啓/闈㈠悜鏅跺渾绾уぇ妯″瀷鎺ㄧ悊鐨勯珮缁存渶浼樻墖鍑轰簰杩炴嫇鎵戠粨鏋?md"},
+    {"id": 53, "dim": "TCC", "cat": "涓撳埄", "title": "闈㈠悜涓囦嚎鍙傛暟澶фā鍨嬬殑缃戝唴鍘熻AI姊害褰掔害閫氫俊鍔犻€熺郴缁?, "ver": "鏋勬€?v1", "status": "瑙勫垝涓?, "date": "2026-06-04", "desc": "P0浼樺厛绾э細閽堝AllReduce绛夐泦鍚堥€氫俊鐨勭洿鎺ュ伐绋嬩笓鍒?, "priority": "楂?, "link": "TCC_3_涓撳埄鎾板啓/闈㈠悜涓囦嚎鍙傛暟澶фā鍨嬬殑缃戝唴鍘熻AI姊害褰掔害閫氫俊鍔犻€熺郴缁?md"},
+    {"id": 54, "dim": "iNEST", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "[涓撹憲] 缃戠粶鏃剁┖鍗忓悓澶嶆潅搴︽秾鐜版櫤鑳斤紙iNEST锛?, "ver": "v2.5", "status": "鎸佺画鎾板啓", "date": "2026-02-26", "desc": "iNEST鏍稿績涓撹憲锛?绔犲凡瀹屾垚銆傚緟纭畾鏈€缁堥鐩笌绔犺妭缁撴瀯锛岀洰鏍?026 Q3瀹屾垚鍏ㄧ", "priority": "楂?, "link": "涓撹憲/缃戠粶鏃剁┖鍗忓悓澶嶆潅搴︽秾鐜版櫤鑳斤紙iNEST锛変笓钁?md"},
+    {"id": 55, "dim": "iNEST", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "[涓撹憲] iMESO鐞嗚锛氫粙瑙傚昂搴︽櫤鑳芥秾鐜?, "ver": "v1.0", "status": "鎾板啓涓?, "date": "2025-12-25", "desc": "浠嬭灏哄害鏅鸿兘娑岀幇鐞嗚涓撹憲锛?-4绔?5+8+闄勫綍瀹屾垚銆傞渶纭畾涓巌NEST涓撹憲鍚堝苟绛栫暐", "priority": "楂?, "link": "涓撹憲/iMESO鐞嗚锛氫粙瑙傚昂搴︽櫤鑳芥秾鐜?md"},
+    {"id": 56, "dim": "TCC", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "[涓撹憲] 鏅朵笂澶ц剳锛氭櫠鍦嗙骇绫昏剳璁＄畻鏋舵瀯", "ver": "v1.0", "status": "瑙勫垝涓?, "date": "2025-11-01", "desc": "鏅跺渾绾х被鑴戣绠楁灦鏋勪笓钁椼€傞渶涓庢捣娌砎8 SDI浠跨湡鏁村悎鍚庨噸鍚紝鐩爣2026 Q3", "priority": "楂?, "link": "涓撹憲/鏅朵笂澶ц剳锛氭櫠鍦嗙骇绫昏剳璁＄畻鏋舵瀯.md"},
+    {"id": 57, "dim": "TCC", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "[涓撹憲] 鍩轰簬鏃剁┖鍗忓悓澶嶆潅搴︾殑鏅鸿兘娑岀幇缁熶竴鐞嗚", "ver": "v1.0", "status": "瑙勫垝涓?, "date": "2025-10-29", "desc": "缁熶竴鐞嗚涓撹憲銆備笌CST璁烘枃鍜孧eta-Topology璁烘枃鍗忚皟鎺ㄨ繘锛岀洰鏍?026 Q4", "priority": "楂?, "link": "涓撹憲/鍩轰簬鏃剁┖鍗忓悓澶嶆潅搴︾殑鏅鸿兘娑岀幇缁熶竴鐞嗚.md"},
+    {"id": 58, "dim": "iNEST", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "[涓撹憲] 鐗╃悊绁炵粡缃戠粶娑岀幇鏅鸿兘", "ver": "v1.5", "status": "鎾板啓涓?, "date": "2025-11-12", "desc": "鐗╃悊绗竴鎬у師鐞嗛槓杩扮缁忕綉缁滄櫤鑳芥秾鐜般€備笌FEP-STDP璁烘枃浜掍负鏀拺锛岀洰鏍?026 Q3", "priority": "楂?, "link": "涓撹憲/鐗╃悊绁炵粡缃戠粶娑岀幇鏅鸿兘.md"},
+    {"id": 59, "dim": "iNEST", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "[涓撹憲] 绫昏剳鏅鸿兘鐨勪粙瑙傚昂搴﹀鏉傚害闃堝€艰寖寮?, "ver": "v1.0", "status": "瑙勫垝涓?, "date": "2025-10-05", "desc": "浠嬭灏哄害澶嶆潅搴﹂槇鍊艰寖寮忎笓钁椼€傛彁鍑轰粙瑙傚昂搴︿负绫昏剳璁＄畻鍏抽敭灏哄害锛岀洰鏍?026 Q4", "priority": "涓?, "link": "涓撹憲/绫昏剳鏅鸿兘鐨勪粙瑙傚昂搴﹀鏉傚害闃堝€艰寖寮?md"},
+    {"id": 60, "dim": "iNEST", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "[涓撹憲] iNEST鐞嗚杩唬杩囩▼浼樺寲鐮旂┒", "ver": "v1.0", "status": "宸插畬鎴?, "date": "2026-01-26", "desc": "鍩轰簬涓寸晫鎬х瀛︾殑鏅鸿兘娑岀幇妗嗘灦杩唬浼樺寲锛?姝ョ爺绌跺叏閮ㄥ畬鎴愶紝鎴愭灉宸叉暣鍚堝叆涓撹憲", "priority": "涓?, "link": "涓撹憲/iNEST鐞嗚杩唬杩囩▼浼樺寲鐮旂┒.md"},
+    {"id": 61, "dim": "iNEST", "cat": "椤圭洰鎸囧崡绛栧垝", "title": "[涓撹憲] iNEST鍗佸勾瑙勫垝", "ver": "v1.0", "status": "宸茶鍒?, "date": "2026-01-06", "desc": "iNEST鍗佸勾鍙戝睍璺嚎鍥撅細鐞嗚楠岃瘉->鑺墖娴佺墖->绯荤粺闆嗘垚->浜т笟钀藉湴", "priority": "涓?, "link": "涓撹憲/iNEST鍗佸勾瑙勫垝.md"}]};
 
 
-var CATS=["灵感","论文","专利","仿真程序","产品代码开发","项目指南策划"];
+var CATS=["鐏垫劅","璁烘枃","涓撳埄","浠跨湡绋嬪簭","浜у搧浠ｇ爜寮€鍙?,"椤圭洰鎸囧崡绛栧垝"];
 var DIMS=["TCC","iNEST"];
-var STATUSES=["规划中","进行中","撰写中","开发中","测试中","验证中","探索中","资料整理","已完成","已发布","持续更新"];
+var STATUSES=["瑙勫垝涓?,"杩涜涓?,"鎾板啓涓?,"寮€鍙戜腑","娴嬭瘯涓?,"楠岃瘉涓?,"鎺㈢储涓?,"璧勬枡鏁寸悊","宸插畬鎴?,"宸插彂甯?,"鎸佺画鏇存柊"];
 var appData=JSON.parse(localStorage.getItem("rd_kanban_v2")||"null")||JSON.parse(JSON.stringify(DEFAULT_DATA));
+if(window.DASHBOARD_DATA&&window.DASHBOARD_DATA.today_plan){
+  var todayDate=(new Date()).toISOString().slice(0,10);
+  var todayEntry=appData.daily.find(function(d){return d.type==="today"});
+  if(!todayEntry){
+    appData.daily.unshift({date:todayDate,type:"today",progress:[],plan:window.DASHBOARD_DATA.today_plan});
+    if(appData.daily.length>7)appData.daily=appData.daily.slice(0,7);
+    saveData();
+  }
+}
+if(window.DASHBOARD_DATA&&window.DASHBOARD_DATA.yesterday_progress){
+  var yesterdayDate=(new Date(Date.now()-86400000)).toISOString().slice(0,10);
+  var yesterdayEntry=appData.daily.find(function(d){return d.date===yesterdayDate});
+  if(!yesterdayEntry){
+    appData.daily.push({date:yesterdayDate,type:"yesterday",progress:window.DASHBOARD_DATA.yesterday_progress,plan:[]});
+    appData.daily.sort(function(a,b){return b.date.localeCompare(a.date)});
+    if(appData.daily.length>7)appData.daily=appData.daily.slice(0,7);
+    saveData();
+  }
+}
 function saveData(){localStorage.setItem("rd_kanban_v2",JSON.stringify(appData))}
 
-function catEmoji(c){var m={"灵感":"💡","论文":"📄","专利":"🏷️","仿真程序":"🧪","产品代码开发":"💻","项目指南策划":"📋"};return m[c]||"📌"}
-function statusTag(s){if(["已完成","已发布"].includes(s))return"tag-done";if(["进行中","撰写中","开发中","测试中","验证中"].includes(s))return"tag-ongoing";return"tag-plan"}
+function catEmoji(c){var m={"鐏垫劅":"馃挕","璁烘枃":"馃搫","涓撳埄":"馃彿锔?,"浠跨湡绋嬪簭":"馃И","浜у搧浠ｇ爜寮€鍙?:"馃捇","椤圭洰鎸囧崡绛栧垝":"馃搵"};return m[c]||"馃搶"}
+function statusTag(s){if(["宸插畬鎴?,"宸插彂甯?].includes(s))return"tag-done";if(["杩涜涓?,"鎾板啓涓?,"寮€鍙戜腑","娴嬭瘯涓?,"楠岃瘉涓?].includes(s))return"tag-ongoing";return"tag-plan"}
 function fmtDate(d){return new Date(d).toLocaleDateString("zh-CN",{month:"short",day:"numeric"})}
-var WEEKDAYS=["日","一","二","三","四","五","六"];
+var WEEKDAYS=["鏃?,"涓€","浜?,"涓?,"鍥?,"浜?,"鍏?];
 
-// ─── METRICS ───
+// 鈹€鈹€鈹€ METRICS 鈹€鈹€鈹€
 function renderMetrics(){
+  if(window.DASHBOARD_DATA){
+    var dd=window.DASHBOARD_DATA;
+    var tcc=dd.papers.tcc, inest=dd.papers.inest;
+    var active=appData.entries.filter(function(x){return !["宸插畬鎴?,"宸插彂甯?].includes(x.status)}).length;
+    var done=appData.entries.filter(function(x){return ["宸插畬鎴?,"宸插彂甯?].includes(x.status)}).length;
+    var high=appData.entries.filter(function(x){return x.priority==="楂?&&!["宸插畬鎴?,"宸插彂甯?].includes(x.status)}).length;
+    document.getElementById("metrics").innerHTML=
+      '<div class="metric tcc"><div class="num">'+tcc+'</div><div class="lbl">TCC 鎷撴墤涓�績</div><div class="sub">'+dd.sync.gitee+'</div></div>'+
+      '<div class="metric inest"><div class="num">'+inest+'</div><div class="lbl">iNEST 娑岀幇鏅鸿兘</div><div class="sub">'+dd.sync.obsidian+'</div></div>'+
+      '<div class="metric warn"><div class="num">'+active+'</div><div class="lbl">杩涜�屼腑</div></div>'+
+      '<div class="metric" style="border-color:rgba(74,222,128,0.3)"><div class="num" style="color:var(--inest)">'+done+'</div><div class="lbl">宸插畬鎴?/div></div>'+
+      '<div class="metric purple"><div class="num">'+high+'</div><div class="lbl">楂樹紭寰呭姙</div></div>';
+    return;
+  }
+  var e=appData.entries;
   var e=appData.entries;
   var tcc=e.filter(function(x){return x.dim==="TCC"}).length;
   var inest=e.filter(function(x){return x.dim==="iNEST"}).length;
-  var active=e.filter(function(x){return !["已完成","已发布"].includes(x.status)}).length;
-  var done=e.filter(function(x){return ["已完成","已发布"].includes(x.status)}).length;
-  var high=e.filter(function(x){return x.priority==="高"&&!["已完成","已发布"].includes(x.status)}).length;
+  var active=e.filter(function(x){return !["宸插畬鎴?,"宸插彂甯?].includes(x.status)}).length;
+  var done=e.filter(function(x){return ["宸插畬鎴?,"宸插彂甯?].includes(x.status)}).length;
+  var high=e.filter(function(x){return x.priority==="楂?&&!["宸插畬鎴?,"宸插彂甯?].includes(x.status)}).length;
   document.getElementById("metrics").innerHTML=
-    '<div class="metric tcc"><div class="num">'+tcc+'</div><div class="lbl">TCC 拓扑中心</div></div>'+
-    '<div class="metric inest"><div class="num">'+inest+'</div><div class="lbl">iNEST 涌现智能</div></div>'+
-    '<div class="metric warn"><div class="num">'+active+'</div><div class="lbl">进行中</div></div>'+
-    '<div class="metric" style="border-color:rgba(74,222,128,0.3)"><div class="num" style="color:var(--inest)">'+done+'</div><div class="lbl">已完成</div></div>'+
-    '<div class="metric purple"><div class="num">'+high+'</div><div class="lbl">高优待办</div></div>';
+    '<div class="metric tcc"><div class="num">'+tcc+'</div><div class="lbl">TCC 鎷撴墤涓績</div></div>'+
+    '<div class="metric inest"><div class="num">'+inest+'</div><div class="lbl">iNEST 娑岀幇鏅鸿兘</div></div>'+
+    '<div class="metric warn"><div class="num">'+active+'</div><div class="lbl">杩涜涓?/div></div>'+
+    '<div class="metric" style="border-color:rgba(74,222,128,0.3)"><div class="num" style="color:var(--inest)">'+done+'</div><div class="lbl">宸插畬鎴?/div></div>'+
+    '<div class="metric purple"><div class="num">'+high+'</div><div class="lbl">楂樹紭寰呭姙</div></div>';
 }
 
-// ─── DAILY ───
+// 鈹€鈹€鈹€ DAILY 鈹€鈹€鈹€
 function renderDaily(){
   var days=appData.daily;
-  document.getElementById("daily-badge").textContent="最近 "+days.length+" 天";
+  document.getElementById("daily-badge").textContent="鏈€杩?"+days.length+" 澶?;
   
   var todayEntry=days.find(function(d){return d.type==="today"});
   var planList=document.getElementById("today-plan-list");
@@ -268,16 +303,16 @@ function renderDaily(){
   
   document.getElementById("daily-grid").innerHTML=days.map(function(d){
     var isToday=d.type==="today";
-    var dateLabel=isToday?"今天":d.type==="yesterday"?"昨天":fmtDate(d.date);
+    var dateLabel=isToday?"浠婂ぉ":d.type==="yesterday"?"鏄ㄥぉ":fmtDate(d.date);
     var badgeCls=d.type==="today"?"today":d.type==="yesterday"?"yesterday":"past";
     var html='<div class="daily-card"><div class="daily-card-header"><span class="date">'+d.date+" "+WEEKDAYS[new Date(d.date).getDay()]+'</span><span class="date-badge '+badgeCls+'">'+dateLabel+'</span></div>';
-    if(d.progress.length){html+='<div class="daily-section-label">📝 进展</div>';d.progress.forEach(function(p){html+='<div class="daily-item"><span class="dot '+p.dot+'"></span><span>'+p.text+' <span style="font-size:0.7em;color:var(--text-dim);margin-left:4px">['+p.dim+']</span></span></div>'})}
-    if(!isToday&&d.plan.length){html+='<div class="daily-section-label">🎯 计划</div>';d.plan.forEach(function(p){html+='<div class="daily-item"><span class="dot '+p.dot+'"></span><span>'+p.text+' <span style="font-size:0.7em;color:var(--text-dim);margin-left:4px">['+p.dim+']</span></span></div>'})}
+    if(d.progress.length){html+='<div class="daily-section-label">馃摑 杩涘睍</div>';d.progress.forEach(function(p){html+='<div class="daily-item"><span class="dot '+p.dot+'"></span><span>'+p.text+' <span style="font-size:0.7em;color:var(--text-dim);margin-left:4px">['+p.dim+']</span></span></div>'})}
+    if(!isToday&&d.plan.length){html+='<div class="daily-section-label">馃幆 璁″垝</div>';d.plan.forEach(function(p){html+='<div class="daily-item"><span class="dot '+p.dot+'"></span><span>'+p.text+' <span style="font-size:0.7em;color:var(--text-dim);margin-left:4px">['+p.dim+']</span></span></div>'})}
     html+='</div>';return html;
   }).join("");
 }
 
-// ─── KANBAN ───
+// 鈹€鈹€鈹€ KANBAN 鈹€鈹€鈹€
 function renderKanban(){
   document.getElementById("kanban-dual").innerHTML=DIMS.map(function(dim){
     var dc=dim.toLowerCase();
@@ -285,22 +320,22 @@ function renderKanban(){
       var items=appData.entries.filter(function(e){return e.dim===dim&&e.cat===cat});
       var col='<div class="kanban-col"><div class="kanban-col-header">'+catEmoji(cat)+" "+cat+'<span class="count">'+items.length+'</span></div>';
       items.forEach(function(item){
-        col+='<div class="kanban-card" onclick="openDetail('+item.id+')"><div class="card-title">'+item.title+'</div><div class="card-meta"><span class="card-tag '+statusTag(item.status)+'">'+item.status+'</span><span>v'+item.ver+'</span><span class="card-tag '+(item.priority==="高"?"tag-high":item.priority==="中"?"tag-med":"")+'">'+item.priority+'</span></div>'+(item.link?'<div style="font-size:0.7em;color:var(--tcc);margin-top:4px">📎 '+item.link.split("/").pop()+'</div>':"")+'</div>';
+        col+='<div class="kanban-card" onclick="openDetail('+item.id+')"><div class="card-title">'+item.title+'</div><div class="card-meta"><span class="card-tag '+statusTag(item.status)+'">'+item.status+'</span><span>v'+item.ver+'</span><span class="card-tag '+(item.priority==="楂??"tag-high":item.priority==="涓??"tag-med":"")+'">'+item.priority+'</span></div>'+(item.link?'<div style="font-size:0.7em;color:var(--tcc);margin-top:4px">馃搸 '+item.link.split("/").pop()+'</div>':"")+'</div>';
       });
-      if(!items.length)col+='<div style="font-size:0.75em;color:var(--text-dim);padding:8px;text-align:center">暂无条目</div>';
+      if(!items.length)col+='<div style="font-size:0.75em;color:var(--text-dim);padding:8px;text-align:center">鏆傛棤鏉＄洰</div>';
       col+='</div>';return col;
     }).join("");
-    return '<div class="kanban-column-group '+dc+'"><h3>'+(dim==="TCC"?"🔷 TCC · 拓扑中心计算":"🔶 iNEST · 复杂网络涌现智能")+'</h3><div class="kanban-grid">'+cols+'</div></div>';
+    return '<div class="kanban-column-group '+dc+'"><h3>'+(dim==="TCC"?"馃敺 TCC 路 鎷撴墤涓績璁＄畻":"馃敹 iNEST 路 澶嶆潅缃戠粶娑岀幇鏅鸿兘")+'</h3><div class="kanban-grid">'+cols+'</div></div>';
   }).join("");
 }
 
-// ─── INDEX TABLE ───
+// 鈹€鈹€鈹€ INDEX TABLE 鈹€鈹€鈹€
 var indexSort={field:"date",dir:-1};
 var indexFilters={dim:null,cat:null,status:null,search:""};
 
 function sortArrow(field){
-  if(indexSort.field!==field)return'<span class="sort-arrow">⇅</span>';
-  return indexSort.dir===1?'<span class="sort-arrow">↑</span>':'<span class="sort-arrow">↓</span>';
+  if(indexSort.field!==field)return'<span class="sort-arrow">鈬?/span>';
+  return indexSort.dir===1?'<span class="sort-arrow">鈫?/span>':'<span class="sort-arrow">鈫?/span>';
 }
 
 function toggleSort(field){
@@ -322,21 +357,21 @@ function setIndexFilter(type,val){
 }
 
 function renderIndexControls(){
-  var h='<div class="search-box"><span class="search-icon">🔍</span><input type="text" placeholder="搜索标题、描述、版本..." id="index-search" oninput="setIndexFilter(\"search\")" value="'+indexFilters.search+'"></div>';
+  var h='<div class="search-box"><span class="search-icon">馃攳</span><input type="text" placeholder="鎼滅储鏍囬銆佹弿杩般€佺増鏈?.." id="index-search" oninput="setIndexFilter(\"search\")" value="'+indexFilters.search+'"></div>';
   // Dimension filters
   h+='<div class="filter-group">';
-  h+='<button class="filter-chip '+(indexFilters.dim===null?"active":"")+'" onclick="setIndexFilter(&quot;dim&quot;,null)">全部维度</button>';
+  h+='<button class="filter-chip '+(indexFilters.dim===null?"active":"")+'" onclick="setIndexFilter(&quot;dim&quot;,null)">鍏ㄩ儴缁村害</button>';
   h+='<button class="filter-chip '+(indexFilters.dim==="TCC"?"active":"")+'" onclick="setIndexFilter(&quot;dim&quot;,&quot;TCC&quot;)">TCC</button>';
   h+='<button class="filter-chip '+(indexFilters.dim==="iNEST"?"active inest-chip":"")+'" onclick="setIndexFilter(&quot;dim&quot;,&quot;iNEST&quot;)">iNEST</button>';
   h+='</div>';
   // Category filters
   h+='<div class="filter-group">';
-  h+='<button class="filter-chip '+(indexFilters.cat===null?"active":"")+'" onclick="setIndexFilter(&quot;cat&quot;,null)">全部分类</button>';
+  h+='<button class="filter-chip '+(indexFilters.cat===null?"active":"")+'" onclick="setIndexFilter(&quot;cat&quot;,null)">鍏ㄩ儴鍒嗙被</button>';
   CATS.forEach(function(c){h+='<button class="filter-chip '+(indexFilters.cat===c?"active":"")+'" onclick="setIndexFilter(&quot;cat&quot;,&quot;'+c+'&quot;)">'+c+'</button>'});
   h+='</div>';
   // Status filters
   h+='<div class="filter-group">';
-  h+='<button class="filter-chip '+(indexFilters.status===null?"active":"")+'" onclick="setIndexFilter(&quot;status&quot;,null)">全部状态</button>';
+  h+='<button class="filter-chip '+(indexFilters.status===null?"active":"")+'" onclick="setIndexFilter(&quot;status&quot;,null)">鍏ㄩ儴鐘舵€?/button>';
   STATUSES.slice(0,7).forEach(function(s){h+='<button class="filter-chip '+(indexFilters.status===s?"active":"")+'" onclick="setIndexFilter(&quot;status&quot;,&quot;'+s+'&quot;)">'+s+'</button>'});
   h+='</div>';
   h+='<span class="result-count" id="result-count"></span>';
@@ -354,7 +389,7 @@ function applyIndexFilters(){
   }
 
   var f=indexSort.field,d=indexSort.dir;
-  var prioMap={"高":3,"中":2,"低":1};
+  var prioMap={"楂?:3,"涓?:2,"浣?:1};
   entries.sort(function(a,b){
     var va,vb;
     if(f==="priority"){va=prioMap[a.priority]||0;vb=prioMap[b.priority]||0}
@@ -364,9 +399,9 @@ function applyIndexFilters(){
   });
 
   var rc=document.getElementById("result-count");
-  if(rc)rc.textContent="共 "+entries.length+" 条";
+  if(rc)rc.textContent="鍏?"+entries.length+" 鏉?;
   var ib=document.getElementById("index-badge");
-  if(ib)ib.textContent=entries.length+" 条记录";
+  if(ib)ib.textContent=entries.length+" 鏉¤褰?;
 
   if(!entries.length){
     document.getElementById("index-tbody").innerHTML="";
@@ -380,36 +415,36 @@ function applyIndexFilters(){
     return '<tr>'+
       '<td><span class="dim-badge '+dimCls+'">'+e.dim+'</span></td>'+
       '<td>'+catEmoji(e.cat)+" "+e.cat+'</td>'+
-      '<td><strong style="cursor:pointer" onclick="openDetail('+e.id+')" title="点击查看详情">'+e.title+'</strong></td>'+
+      '<td><strong style="cursor:pointer" onclick="openDetail('+e.id+')" title="鐐瑰嚮鏌ョ湅璇︽儏">'+e.title+'</strong></td>'+
       '<td>'+(e.link?'<span class="ver-link" onclick="openDetail('+e.id+')" title="'+e.link+'">'+e.ver+'</span>':e.ver)+'</td>'+
       '<td><span class="card-tag '+statusTag(e.status)+'">'+e.status+'</span></td>'+
-      '<td><span class="card-tag '+(e.priority==="高"?"tag-high":e.priority==="中"?"tag-med":"")+'">'+e.priority+'</span></td>'+
+      '<td><span class="card-tag '+(e.priority==="楂??"tag-high":e.priority==="涓??"tag-med":"")+'">'+e.priority+'</span></td>'+
       '<td style="white-space:nowrap">'+e.date+'</td>'+
       '<td style="white-space:nowrap">'+
-        '<button class="btn-sm info" onclick="openDetail('+e.id+')">详情</button> '+
-        '<button class="btn-sm edit" onclick="openEditForm('+e.id+')">编辑</button> '+
-        '<button class="btn-sm danger" onclick="deleteEntry('+e.id+')">删除</button>'+
+        '<button class="btn-sm info" onclick="openDetail('+e.id+')">璇︽儏</button> '+
+        '<button class="btn-sm edit" onclick="openEditForm('+e.id+')">缂栬緫</button> '+
+        '<button class="btn-sm danger" onclick="deleteEntry('+e.id+')">鍒犻櫎</button>'+
       '</td></tr>';
   }).join("");
 }
 
 function renderIndex(){
   document.getElementById("index-thead").innerHTML='<tr>'+
-    '<th onclick="toggleSort(&quot;dim&quot;)">维度 '+sortArrow("dim")+'</th>'+
-    '<th onclick="toggleSort(&quot;cat&quot;)">分类 '+sortArrow("cat")+'</th>'+
-    '<th onclick="toggleSort(&quot;title&quot;)">名称 '+sortArrow("title")+'</th>'+
-    '<th onclick="toggleSort(&quot;ver&quot;)">版本 '+sortArrow("ver")+'</th>'+
-    '<th onclick="toggleSort(&quot;status&quot;)">状态 '+sortArrow("status")+'</th>'+
-    '<th onclick="toggleSort(&quot;priority&quot;)">优先级 '+sortArrow("priority")+'</th>'+
-    '<th onclick="toggleSort(&quot;date&quot;)">更新时间 '+sortArrow("date")+'</th>'+
-    '<th>操作</th></tr>';
+    '<th onclick="toggleSort(&quot;dim&quot;)">缁村害 '+sortArrow("dim")+'</th>'+
+    '<th onclick="toggleSort(&quot;cat&quot;)">鍒嗙被 '+sortArrow("cat")+'</th>'+
+    '<th onclick="toggleSort(&quot;title&quot;)">鍚嶇О '+sortArrow("title")+'</th>'+
+    '<th onclick="toggleSort(&quot;ver&quot;)">鐗堟湰 '+sortArrow("ver")+'</th>'+
+    '<th onclick="toggleSort(&quot;status&quot;)">鐘舵€?'+sortArrow("status")+'</th>'+
+    '<th onclick="toggleSort(&quot;priority&quot;)">浼樺厛绾?'+sortArrow("priority")+'</th>'+
+    '<th onclick="toggleSort(&quot;date&quot;)">鏇存柊鏃堕棿 '+sortArrow("date")+'</th>'+
+    '<th>鎿嶄綔</th></tr>';
   renderIndexControls();
   applyIndexFilters();
 }
 
-// ─── DETAIL MODAL (with copyable links) ───
+// 鈹€鈹€鈹€ DETAIL MODAL (with copyable links) 鈹€鈹€鈹€
 function resolvePath(link){
-  var outside=["phase1_workspace/","GetNotes_Inbox/","scripts/","iNEST_CS","iNEST对外","DEMO_SCRIPT"];
+  var outside=["phase1_workspace/","GetNotes_Inbox/","scripts/","iNEST_CS","iNEST瀵瑰","DEMO_SCRIPT"];
   for(var i=0;i<outside.length;i++){
     if(link.indexOf(outside[i])===0)return"file:///D:/Obsidian/"+link;
   }
@@ -420,17 +455,17 @@ function openDetail(id){
   if(!e)return;
   var linkHtml="";
   if(e.link){
-    linkHtml='<div class="modal-field"><label>关联文件</label><div class="val" style="display:flex;align-items:center;gap:8px;flex-wrap:wrap"><a href="'+resolvePath(e.link)+'" style="color:var(--tcc);text-decoration:underline;word-break:break-all" target="_blank">'+e.link+'</a><button class="btn-sm info" onclick="copyPath(\''+e.link.replace(/'/g,"\\'")+'\')">📋 复制路径</button></div></div>';
+    linkHtml='<div class="modal-field"><label>鍏宠仈鏂囦欢</label><div class="val" style="display:flex;align-items:center;gap:8px;flex-wrap:wrap"><a href="'+resolvePath(e.link)+'" style="color:var(--tcc);text-decoration:underline;word-break:break-all" target="_blank">'+e.link+'</a><button class="btn-sm info" onclick="copyPath(\''+e.link.replace(/'/g,"\\'")+'\')">馃搵 澶嶅埗璺緞</button></div></div>';
   }
   document.getElementById("modal-content").innerHTML=
-    '<button class="close-btn" onclick="closeModal()">✕</button>'+
+    '<button class="close-btn" onclick="closeModal()">鉁?/button>'+
     '<h3>'+e.title+'</h3>'+
-    '<span class="modal-dim dim-badge '+e.dim.toLowerCase()+'">'+e.dim+" · "+e.cat+'</span>'+
-    '<div class="modal-field"><label>版本</label><div class="val">'+e.ver+'</div></div>'+
-    '<div class="modal-field"><label>状态</label><div class="val"><span class="card-tag '+statusTag(e.status)+'">'+e.status+'</span></div></div>'+
-    '<div class="modal-field"><label>优先级</label><div class="val"><span class="card-tag '+(e.priority==="高"?"tag-high":e.priority==="中"?"tag-med":"")+'">'+e.priority+'</span></div></div>'+
-    '<div class="modal-field"><label>更新时间</label><div class="val">'+e.date+'</div></div>'+
-    '<div class="modal-field"><label>描述</label><div class="val">'+e.desc+'</div></div>'+
+    '<span class="modal-dim dim-badge '+e.dim.toLowerCase()+'">'+e.dim+" 路 "+e.cat+'</span>'+
+    '<div class="modal-field"><label>鐗堟湰</label><div class="val">'+e.ver+'</div></div>'+
+    '<div class="modal-field"><label>鐘舵€?/label><div class="val"><span class="card-tag '+statusTag(e.status)+'">'+e.status+'</span></div></div>'+
+    '<div class="modal-field"><label>浼樺厛绾?/label><div class="val"><span class="card-tag '+(e.priority==="楂??"tag-high":e.priority==="涓??"tag-med":"")+'">'+e.priority+'</span></div></div>'+
+    '<div class="modal-field"><label>鏇存柊鏃堕棿</label><div class="val">'+e.date+'</div></div>'+
+    '<div class="modal-field"><label>鎻忚堪</label><div class="val">'+e.desc+'</div></div>'+
     linkHtml;
   document.getElementById("modal-overlay").classList.add("show");
 }
@@ -439,7 +474,7 @@ function openDetail(id){
 function copyPath(path){
   if(navigator.clipboard&&navigator.clipboard.writeText){
     navigator.clipboard.writeText(path).then(function(){
-      showToast("已复制: "+path);
+      showToast("宸插鍒? "+path);
     }).catch(function(){fallbackCopy(path)});
   }else{fallbackCopy(path)}
 }
@@ -447,8 +482,8 @@ function fallbackCopy(text){
   var ta=document.createElement("textarea");
   ta.value=text;ta.style.position="fixed";ta.style.left="-9999px";
   document.body.appendChild(ta);ta.select();
-  try{document.execCommand("copy");showToast("已复制: "+text)}
-  catch(e){showToast("复制失败，请手动复制")}
+  try{document.execCommand("copy");showToast("宸插鍒? "+text)}
+  catch(e){showToast("澶嶅埗澶辫触锛岃鎵嬪姩澶嶅埗")}
   document.body.removeChild(ta);
 }
 
@@ -464,25 +499,25 @@ function showToast(msg){
   setTimeout(function(){t.remove();style.remove()},2600);
 }
 
-// ─── EDIT MODAL ───
+// 鈹€鈹€鈹€ EDIT MODAL 鈹€鈹€鈹€
 function openEditForm(id){
   var e=appData.entries.find(function(x){return x.id===id});if(!e)return;
   var catOpts=CATS.map(function(c){return'<option value="'+c+'"'+(c===e.cat?' selected':'')+'>'+c+'</option>'}).join("");
   var statOpts=STATUSES.map(function(s){return'<option value="'+s+'"'+(s===e.status?' selected':'')+'>'+s+'</option>'}).join("");
-  var prioOpts=["高","中","低"].map(function(p){return'<option value="'+p+'"'+(p===e.priority?' selected':'')+'>'+p+'</option>'}).join("");
+  var prioOpts=["楂?,"涓?,"浣?].map(function(p){return'<option value="'+p+'"'+(p===e.priority?' selected':'')+'>'+p+'</option>'}).join("");
   document.getElementById("modal-content").innerHTML=
-    '<button class="close-btn" onclick="closeModal()">✕</button>'+
-    '<h3>✏️ 编辑条目</h3>'+
+    '<button class="close-btn" onclick="closeModal()">鉁?/button>'+
+    '<h3>鉁忥笍 缂栬緫鏉＄洰</h3>'+
     '<form onsubmit="saveEdit(event,'+id+')" style="margin-top:16px">'+
-    '<div class="modal-field"><label>维度</label><select id="edit-dim" class="form-input"><option value="TCC"'+(e.dim==="TCC"?" selected":"")+'>TCC</option><option value="iNEST"'+(e.dim==="iNEST"?" selected":"")+'>iNEST</option></select></div>'+
-    '<div class="modal-field"><label>分类</label><select id="edit-cat" class="form-input">'+catOpts+'</select></div>'+
-    '<div class="modal-field"><label>标题</label><input id="edit-title" class="form-input" value="'+e.title.replace(/"/g,"&quot;")+'" required></div>'+
-    '<div class="modal-field"><label>版本</label><input id="edit-ver" class="form-input" value="'+e.ver+'"></div>'+
-    '<div class="modal-field"><label>状态</label><select id="edit-status" class="form-input">'+statOpts+'</select></div>'+
-    '<div class="modal-field"><label>优先级</label><select id="edit-priority" class="form-input">'+prioOpts+'</select></div>'+
-    '<div class="modal-field"><label>描述</label><textarea id="edit-desc" class="form-input" rows="3">'+e.desc+'</textarea></div>'+
-    '<div class="modal-field"><label>关联文件路径</label><input id="edit-link" class="form-input" value="'+(e.link||"")+'"></div>'+
-    '<button type="submit" style="width:100%;background:linear-gradient(135deg,var(--tcc),var(--inest));border:none;color:#000;padding:10px;border-radius:8px;font-weight:600;cursor:pointer;font-family:inherit;margin-top:8px">保存修改</button></form>';
+    '<div class="modal-field"><label>缁村害</label><select id="edit-dim" class="form-input"><option value="TCC"'+(e.dim==="TCC"?" selected":"")+'>TCC</option><option value="iNEST"'+(e.dim==="iNEST"?" selected":"")+'>iNEST</option></select></div>'+
+    '<div class="modal-field"><label>鍒嗙被</label><select id="edit-cat" class="form-input">'+catOpts+'</select></div>'+
+    '<div class="modal-field"><label>鏍囬</label><input id="edit-title" class="form-input" value="'+e.title.replace(/"/g,"&quot;")+'" required></div>'+
+    '<div class="modal-field"><label>鐗堟湰</label><input id="edit-ver" class="form-input" value="'+e.ver+'"></div>'+
+    '<div class="modal-field"><label>鐘舵€?/label><select id="edit-status" class="form-input">'+statOpts+'</select></div>'+
+    '<div class="modal-field"><label>浼樺厛绾?/label><select id="edit-priority" class="form-input">'+prioOpts+'</select></div>'+
+    '<div class="modal-field"><label>鎻忚堪</label><textarea id="edit-desc" class="form-input" rows="3">'+e.desc+'</textarea></div>'+
+    '<div class="modal-field"><label>鍏宠仈鏂囦欢璺緞</label><input id="edit-link" class="form-input" value="'+(e.link||"")+'"></div>'+
+    '<button type="submit" style="width:100%;background:linear-gradient(135deg,var(--tcc),var(--inest));border:none;color:#000;padding:10px;border-radius:8px;font-weight:600;cursor:pointer;font-family:inherit;margin-top:8px">淇濆瓨淇敼</button></form>';
   document.getElementById("modal-overlay").classList.add("show");
 }
 
@@ -501,26 +536,26 @@ function saveEdit(ev,id){
   saveData();
   document.getElementById("modal-overlay").classList.remove("show");
   refreshAll();
-  showToast("条目已更新");
+  showToast("鏉＄洰宸叉洿鏂?);
 }
 
-// ─── ADD ───
+// 鈹€鈹€鈹€ ADD 鈹€鈹€鈹€
 function openAddForm(){
   var catOpts=CATS.map(function(c){return'<option value="'+c+'">'+c+'</option>'}).join("");
   var statOpts=STATUSES.map(function(s){return'<option value="'+s+'">'+s+'</option>'}).join("");
   document.getElementById("modal-content").innerHTML=
-    '<button class="close-btn" onclick="closeModal()">✕</button>'+
-    '<h3>➕ 添加新条目</h3>'+
+    '<button class="close-btn" onclick="closeModal()">鉁?/button>'+
+    '<h3>鉃?娣诲姞鏂版潯鐩?/h3>'+
     '<form onsubmit="addEntry(event)" style="margin-top:16px">'+
-    '<div class="modal-field"><label>维度</label><select id="add-dim" class="form-input"><option value="TCC">TCC · 拓扑中心计算</option><option value="iNEST">iNEST · 复杂网络涌现智能</option></select></div>'+
-    '<div class="modal-field"><label>分类</label><select id="add-cat" class="form-input">'+catOpts+'</select></div>'+
-    '<div class="modal-field"><label>标题</label><input id="add-title" class="form-input" required></div>'+
-    '<div class="modal-field"><label>版本</label><input id="add-ver" class="form-input" value="v0.1"></div>'+
-    '<div class="modal-field"><label>状态</label><select id="add-status" class="form-input">'+statOpts+'</select></div>'+
-    '<div class="modal-field"><label>优先级</label><select id="add-priority" class="form-input"><option value="高">高</option><option value="中">中</option><option value="低">低</option></select></div>'+
-    '<div class="modal-field"><label>描述</label><textarea id="add-desc" class="form-input" rows="3"></textarea></div>'+
-    '<div class="modal-field"><label>关联文件路径 (可选)</label><input id="add-link" class="form-input" placeholder="如 phase1_workspace/sdi_v30_multiregion.py"></div>'+
-    '<button type="submit" style="width:100%;background:linear-gradient(135deg,var(--tcc),var(--inest));border:none;color:#000;padding:10px;border-radius:8px;font-weight:600;cursor:pointer;font-family:inherit;margin-top:8px">添加条目</button></form>';
+    '<div class="modal-field"><label>缁村害</label><select id="add-dim" class="form-input"><option value="TCC">TCC 路 鎷撴墤涓績璁＄畻</option><option value="iNEST">iNEST 路 澶嶆潅缃戠粶娑岀幇鏅鸿兘</option></select></div>'+
+    '<div class="modal-field"><label>鍒嗙被</label><select id="add-cat" class="form-input">'+catOpts+'</select></div>'+
+    '<div class="modal-field"><label>鏍囬</label><input id="add-title" class="form-input" required></div>'+
+    '<div class="modal-field"><label>鐗堟湰</label><input id="add-ver" class="form-input" value="v0.1"></div>'+
+    '<div class="modal-field"><label>鐘舵€?/label><select id="add-status" class="form-input">'+statOpts+'</select></div>'+
+    '<div class="modal-field"><label>浼樺厛绾?/label><select id="add-priority" class="form-input"><option value="楂?>楂?/option><option value="涓?>涓?/option><option value="浣?>浣?/option></select></div>'+
+    '<div class="modal-field"><label>鎻忚堪</label><textarea id="add-desc" class="form-input" rows="3"></textarea></div>'+
+    '<div class="modal-field"><label>鍏宠仈鏂囦欢璺緞 (鍙€?</label><input id="add-link" class="form-input" placeholder="濡?phase1_workspace/sdi_v30_multiregion.py"></div>'+
+    '<button type="submit" style="width:100%;background:linear-gradient(135deg,var(--tcc),var(--inest));border:none;color:#000;padding:10px;border-radius:8px;font-weight:600;cursor:pointer;font-family:inherit;margin-top:8px">娣诲姞鏉＄洰</button></form>';
   document.getElementById("modal-overlay").classList.add("show");
 }
 
@@ -541,23 +576,23 @@ function addEntry(ev){
   appData.entries.push(entry);saveData();
   document.getElementById("modal-overlay").classList.remove("show");
   refreshAll();
-  showToast("新条目已添加");
+  showToast("鏂版潯鐩凡娣诲姞");
 }
 
 function deleteEntry(id){
-  if(!confirm("确定要删除此条目吗？此操作不可撤销。"))return;
+  if(!confirm("纭畾瑕佸垹闄ゆ鏉＄洰鍚楋紵姝ゆ搷浣滀笉鍙挙閿€銆?))return;
   appData.entries=appData.entries.filter(function(e){return e.id!==id});
   saveData();refreshAll();
-  showToast("条目已删除");
+  showToast("鏉＄洰宸插垹闄?);
 }
 
-// ─── MODAL ───
+// 鈹€鈹€鈹€ MODAL 鈹€鈹€鈹€
 function closeModal(ev){
   if(ev&&ev.target!==document.getElementById("modal-overlay"))return;
   document.getElementById("modal-overlay").classList.remove("show");
 }
 
-// ─── VIEW SWITCH ───
+// 鈹€鈹€鈹€ VIEW SWITCH 鈹€鈹€鈹€
 function switchView(view){
   document.querySelectorAll(".header-nav button").forEach(function(b){b.classList.remove("active")});
   var btn=document.querySelector('[data-view="'+view+'"]');
@@ -568,14 +603,14 @@ function switchView(view){
   if(view==="index")renderIndex();
 }
 
-// ─── REFRESH ALL ───
+// 鈹€鈹€鈹€ REFRESH ALL 鈹€鈹€鈹€
 function refreshAll(){
   renderMetrics();renderDaily();renderKanban();
   var av=document.querySelector(".view-panel.active");
   if(av&&av.id==="view-index")renderIndex();
 }
 
-// ─── GSAP ───
+// 鈹€鈹€鈹€ GSAP 鈹€鈹€鈹€
 function animateIn(){
   gsap.from(".metric",{opacity:0,y:20,duration:0.5,stagger:0.06,ease:"power2.out"});
   gsap.from(".paradigm-banner",{opacity:0,y:10,duration:0.5,ease:"power2.out",delay:0.15});
@@ -583,7 +618,7 @@ function animateIn(){
   gsap.from(".kanban-col",{opacity:0,y:12,duration:0.35,stagger:0.04,ease:"power2.out",delay:0.4});
 }
 
-// ─── INIT ───
+// 鈹€鈹€鈹€ INIT 鈹€鈹€鈹€
 document.addEventListener("DOMContentLoaded",function(){
   document.getElementById("header-date").textContent=new Date().toLocaleDateString("zh-CN",{year:"numeric",month:"long",day:"numeric",weekday:"long"});
   document.querySelectorAll(".header-nav button").forEach(function(b){
