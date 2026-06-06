@@ -109,7 +109,7 @@ def update_kanban(today_str, progress, plan, dry_run=False):
     if dry_run:
         print("[DRY RUN] Would update kanban")
         return True
-    with open(KANBAN_PATH, "w", encoding="utf-8") as f:
+    with open(KANBAN_PATH, "w", encoding="utf-8", newline="") as f:
         f.write(html)
     return True
 
