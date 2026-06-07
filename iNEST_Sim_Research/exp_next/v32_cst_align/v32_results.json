@@ -1,0 +1,105 @@
+{
+  "experiment": "v32_cst_full",
+  "timestamp": "2026-06-07T10:31:51",
+  "alpha_params": {
+    "alpha_graded": 2.5649493574615367,
+    "alpha_snn": 3.4657359027997265,
+    "alpha_cortex": 3.912023005428146
+  },
+  "systems": {
+    "celegans_raw": {
+      "Sc": 0.6315868233153283,
+      "Tc": 0.010222749111258622,
+      "Gamma_st": 0.048962925956569696,
+      "sc_components": {
+        "C": 0.985663082437276,
+        "H": 0.9840966273808545,
+        "M": 0.16404613750387081,
+        "R_sw": 1.0
+      },
+      "tc_components": {
+        "lambda_norm": 1.0,
+        "Phi": 0.054606056470139226,
+        "Psi": 1e-06,
+        "Theta": 0.2
+      },
+      "gst_components": {
+        "NMI": 0.048962925956569696,
+        "mantel_sign": 1.0
+      },
+      "CST_graded": 0.007320532770222852,
+      "CST_snn": 0.007650631956077168,
+      "CST_cortex": 0.007819649835029616,
+      "level_graded": "L0 (反射级)",
+      "level_snn": "L0 (反射级)",
+      "level_cortex": "L0 (反射级)"
+    },
+    "celegans_v25": {
+      "Sc": 0.6206790400769617,
+      "Tc": 0.007792222194208738,
+      "Gamma_st": 0.13431489247560627,
+      "sc_components": {
+        "C": 0.9498207885304659,
+        "H": 0.8610845489582477,
+        "M": 0.1814599772366549,
+        "R_sw": 1.0
+      },
+      "tc_components": {
+        "lambda_norm": 1.0,
+        "Phi": 0.01843381887486992,
+        "Psi": 1e-06,
+        "Theta": 0.2
+      },
+      "gst_components": {
+        "NMI": 0.13431489247560627,
+        "mantel_sign": 1.0
+      },
+      "CST_graded": 0.006825706173994066,
+      "CST_snn": 0.007703577662275056,
+      "CST_cortex": 0.008179474092021606,
+      "level_graded": "L0 (反射级)",
+      "level_snn": "L0 (反射级)",
+      "level_cortex": "L0 (反射级)"
+    },
+    "ws_control": {
+      "Sc": 0.7856295801194775,
+      "Tc": 0.010222749111258622,
+      "Gamma_st": 0.11595886764976257,
+      "sc_components": {
+        "C": 1.0,
+        "H": 0.49204831369042723,
+        "M": 0.7742185273079544,
+        "R_sw": 0.9999999999748247
+      },
+      "tc_components": {
+        "lambda_norm": 1.0,
+        "Phi": 0.054606056470139226,
+        "Psi": 1e-06,
+        "Theta": 0.2
+      },
+      "gst_components": {
+        "NMI": 0.11595886764976257,
+        "mantel_sign": 1.0
+      },
+      "CST_graded": 0.010813272288120797,
+      "CST_snn": 0.01200386261994814,
+      "CST_cortex": 0.01264142892328197,
+      "level_graded": "L0 (反射级)",
+      "level_snn": "L0 (反射级)",
+      "level_cortex": "L0 (反射级)"
+    }
+  },
+  "paper_reference": {
+    "celegans_paper": 0.4107,
+    "human_paper": 3.9198
+  },
+  "thresholds": {
+    "L1": 0.707,
+    "L2": 1.0,
+    "L3": 1.618,
+    "L4": 2.718,
+    "L5": 3.14159,
+    "L6": 4.669
+  },
+  "conclusion": "v32实验完成。C.elegans原始CST_snn=0.0077(L0 (反射级))，SDI v25演化后CST_snn=0.0077(L0 (反射级))，提升1.01倍。WS控制组CST_snn=0.0120(L0 (反射级))。论文C.elegans参考值0.4107（alpha=ln(13)），本仿真CST_graded=0.0068，差距主要来自Γst的NMI项（需更长仿真积累功能相关性）。"
+}

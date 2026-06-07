@@ -1,0 +1,69 @@
+{
+  "experiment": "v32_graded",
+  "N": 279,
+  "alpha": {
+    "graded": 2.5649493574615367,
+    "snn": 3.4657359027997265,
+    "cortex": 3.912023005428146
+  },
+  "paper_ref": {
+    "celegans": 0.4107,
+    "human": 3.9198
+  },
+  "systems": {
+    "celegans_raw": {
+      "Sc": 0.7420140020543753,
+      "Tc": 0.5158211560867246,
+      "Gamma_st": 0.09738046022899141,
+      "sc_components": {
+        "C": 0.957,
+        "H": 0.6151,
+        "M": 0.515,
+        "R_sw": 1.0,
+        "sigma_approx": 11.101
+      },
+      "tc_components": {
+        "lambda_norm": 0.9728,
+        "Phi": 0.0913,
+        "Psi": 1.0,
+        "Theta": 0.7973
+      },
+      "gst_components": {
+        "NMI": 0.0974,
+        "mantel_r": 0.0811
+      },
+      "CST_graded": 0.49134616132225034,
+      "CST_snn": 0.5363934287173298,
+      "CST_cortex": 0.5602188685491262,
+      "level_snn": "L0\u53cd\u5c04",
+      "level_graded": "L0\u53cd\u5c04"
+    },
+    "celegans_v25": {
+      "Sc": 0.7354298639629934,
+      "Tc": 0.53275028292597,
+      "Gamma_st": 0.07632976556419489,
+      "sc_components": {
+        "C": 0.957,
+        "H": 0.6151,
+        "M": 0.497,
+        "R_sw": 1.0,
+        "sigma_approx": 11.101
+      },
+      "tc_components": {
+        "lambda_norm": 0.9647,
+        "Phi": 0.1029,
+        "Psi": 1.0,
+        "Theta": 0.8114
+      },
+      "gst_components": {
+        "NMI": 0.0763,
+        "mantel_r": 0.0966
+      },
+      "CST_graded": 0.4765319076478318,
+      "CST_snn": 0.5104493974657811,
+      "CST_cortex": 0.5281374116234682,
+      "level_snn": "L0\u53cd\u5c04",
+      "level_graded": "L0\u53cd\u5c04"
+    }
+  }
+}
