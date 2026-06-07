@@ -1,16 +1,10 @@
 {
-    "last_updated": "2026-06-06",
+    "last_updated": "2026-06-07",
     "papers": {
         "tcc": 0,
-        "inest": 10,
+        "inest": 6,
         "tcc_list": [],
         "inest_list": [
-            {
-                "date": "2026-05-30",
-                "title": "2020年中国新基建工业互联网产业链深度分析",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
             {
                 "date": "2026-06-03",
                 "title": "2026-06-03 iNEST Daily Crawl",
@@ -20,6 +14,12 @@
             {
                 "date": "2026-06-06",
                 "title": "2026-06-06 iNEST Daily Crawl",
+                "direction": "iNEST",
+                "source": "Crawler"
+            },
+            {
+                "date": "2026-06-07",
+                "title": "2026-06-07 iNEST Daily Crawl",
                 "direction": "iNEST",
                 "source": "Crawler"
             },
@@ -38,30 +38,6 @@
             {
                 "date": "2026-06-06",
                 "title": "GetNote_20260606_100554_kb_DARPA-research_getnote_1896236861572181168_美国DARPA四大关",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
-            {
-                "date": "2026-05-30",
-                "title": "iNEST配图",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
-            {
-                "date": "2026-05-30",
-                "title": "最新政策！滨海新区发布行动方案，脑科学与智能医学等重点发展",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
-            {
-                "date": "2026-05-30",
-                "title": "浙江大学集成电路学院Nano_Letters__可重构神经形态计算，用于多功能神经信息处理",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
-            {
-                "date": "2026-05-30",
-                "title": "美国DARPA生物技术与人类增强领域深度研究报告：从战场医疗到认知决胜的战略布局",
                 "direction": "iNEST",
                 "source": "Crawler"
             }
@@ -139,12 +115,12 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 28 commits pushed",
+            "text": "Gitee sync: 15 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
         },
         {
-            "text": "New research ideas: 6",
+            "text": "New research ideas: 2",
             "dot": "done",
             "dim": "iNEST"
         }
