@@ -1485,3 +1485,18 @@ warning: in the working copy of 'iNEST_ÁÅµÊÑüÊ±†/Idea_The_One_of_ComplexNetworks
  delete mode 100644 submission/_gen_v3_p1.py
  create mode 100644 submission/manuscript_v3.docx
 [2026/06/06 ÷‹¡˘ 22:40:03.84] Auto-management complete. 
+======================================== 
+[2026/06/08 ÷‹“ª 10:40:01.81] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 5 inbox notes...
+Inbox:   0%|          | 0/5 [00:00<?, ?it/s]Inbox:  20%|®Ä®Ä        | 1/5 [01:08<04:35, 68.85s/it]Inbox:  40%|®Ä®Ä®Ä®Ä      | 2/5 [04:46<07:49, 156.41s/it]Inbox:  60%|®Ä®Ä®Ä®Ä®Ä®Ä    | 3/5 [05:32<03:31, 105.92s/it]Inbox: 100%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä| 5/5 [05:32<00:00, 66.48s/it] 
+  [OK] GetNote_20260607_185901_getnote_1912074944318705240_2026 ƒÍ 6 ‘¬ 6 ∫≈ »’º«.md -> Tools-Tutorials/
+  [OK] GetNote_20260607_185901_getnote_1912103951454106728_Õÿ∆À…Òæ≠ø∆—ß_¡¨Ω”…Òæ≠ª∑¬∑”Îπ¶ƒ‹µƒøÁ—ßø∆—–æø.md -> Neuroscience/
+  [OK] GetNote_20260607_185901_getnote_1912105043448991320_Academic-Research-Skills _ARS__Claude_Codexø∆—–»´¡˜≥Ã‘ˆ«øπ§æﬂ…Ó∂»÷∏ƒœ.md -> Tools-Tutorials/
+  Skipping short note: old_note_before_cutoff.md
+  Skipping short note: ΩÒ»’Ω°…Ì»’º«.md
+
+Inbox processing complete.
+
+Done!
