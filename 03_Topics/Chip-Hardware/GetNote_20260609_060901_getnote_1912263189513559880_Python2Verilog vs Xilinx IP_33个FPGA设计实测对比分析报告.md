@@ -1,15 +1,31 @@
 ---
-title: getnote_1912263189513559880_Python2Verilog vs Xilinx IP_33个FPGA设计实测对比分析报告
-tags:
-  - design
-  - research
-  - fpga
-  - paper
-  - architecture
-  - hardware
+category: Chip-Hardware
 date: 2026-06-09 06:09
-source: GetNotes
+entities:
+- Python2Verilog
+- Xilinx IP
+- CIC
+- FIR
+- NCO/DDS
+processed: '2026-06-09T06:41:11.224461'
 score: 9
+source: GetNotes
+source_file: GetNote_20260609_060901_getnote_1912263189513559880_Python2Verilog vs
+  Xilinx IP_33个FPGA设计实测对比分析报告.md
+summary: AI设计框架P2V在33个FPGA设计中超越Xilinx IP，资源与频率显著优化。
+tags:
+- hardware
+- design
+- architecture
+- 设计对比
+- paper
+- 资源优化
+- FPGA
+- Xilinx IP
+- Python2Verilog
+- research
+- fpga
+title: getnote_1912263189513559880_Python2Verilog vs Xilinx IP_33个FPGA设计实测对比分析报告
 ---
 
 ## Original Note
