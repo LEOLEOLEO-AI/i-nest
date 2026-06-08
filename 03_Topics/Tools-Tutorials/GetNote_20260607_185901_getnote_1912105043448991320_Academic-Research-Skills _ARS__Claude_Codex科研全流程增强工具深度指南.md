@@ -1,11 +1,22 @@
 ---
-title: getnote_1912105043448991320_Academic-Research-Skills _ARS__Claude_Codex科研全流程增强工具
-tags:
-  - research
-  - paper
+category: Tools-Tutorials
 date: 2026-06-07 18:59
-source: GetNotes
+entities:
+- ARS工具
+- 科研全流程增强
+processed: '2026-06-08T10:45:37.017037'
 score: 9
+source: GetNotes
+source_file: GetNote_20260607_185901_getnote_1912105043448991320_Academic-Research-Skills
+  _ARS__Claude_Codex科研全流程增强工具深度指南.md
+summary: 介绍ARS科研增强插件的四大核心能力、13条命令及全流程调度，提升学术效率。
+tags:
+- 全流程调度
+- 学术写作
+- 科研工具
+- paper
+- research
+title: getnote_1912105043448991320_Academic-Research-Skills _ARS__Claude_Codex科研全流程增强工具
 ---
 
 ## Original Note
