@@ -6,7 +6,7 @@ source: Google News RSS + arXiv (intersectional abs: phrases)
 
 # 2026-06-09 iNEST Daily Literature Crawl
 
-> Crawl: 2026-06-09 10:38 | New: 2 | Total: 18
+> Crawl: 2026-06-09 11:25 | New: 2 | Total: 18
 > Focus: RG×神经网络 | 神经临界 | 复杂网络相变 | 液态硬件 | 智能涌现第一性
 
 ## New (Yesterday & Today)
