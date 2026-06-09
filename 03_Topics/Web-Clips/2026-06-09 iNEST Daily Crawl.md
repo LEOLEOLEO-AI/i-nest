@@ -6,22 +6,10 @@ source: Google News RSS + arXiv (intersectional abs: phrases)
 
 # 2026-06-09 iNEST Daily Literature Crawl
 
-> Crawl: 2026-06-09 07:28 | New: 0 | Total: 18
+> Crawl: 2026-06-09 08:05 | New: 0 | Total: 15
 > Focus: RG×神经网络 | 神经临界 | 复杂网络相变 | 液态硬件 | 智能涌现第一性
 
 ## All Results
-
-- **[Hierarchical Forecast Reconciliation for Urban Rail Transit Demand Prediction under Operational Disruptions](http://arxiv.org/abs/2606.07044v1)**
-  - arXiv | 2026-06-05
-  - Accurate and coherent passenger demand forecasting is essential for Urban Rail Transit (URT) operations. Passenger demand has a hierarchical structure
-
-- **[A Machine-Learning Based Approach to the Evaluation of the Critical Scaling Behavior of Anisotropic Spin Systems](http://arxiv.org/abs/2606.06925v1)**
-  - arXiv | 2026-06-05
-  - Computational models adequately representing phase transitions and evaluating the critical system parameters are essential for the understanding of th
-
-- **[Interpreting Brain Responses to Language with Sparse Features from Language Models](http://arxiv.org/abs/2606.06857v1)**
-  - arXiv | 2026-06-05
-  - A central goal of cognitive neuroscience is to characterize the features that are represented by human language cortex. Artificial language models (LM
 
 - **[How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](http://arxiv.org/abs/2606.07489v1)**
   - arXiv | 2026-06-05
@@ -43,13 +31,13 @@ source: Google News RSS + arXiv (intersectional abs: phrases)
   - arXiv | 2026-06-05
   - This paper presents a forward-looking vision for integrating the emerging multi-modal multi-task federated foundation models (M3T FedFMs) into vehicul
 
+- **[Interpreting Brain Responses to Language with Sparse Features from Language Models](http://arxiv.org/abs/2606.06857v1)**
+  - arXiv | 2026-06-05
+  - A central goal of cognitive neuroscience is to characterize the features that are represented by human language cortex. Artificial language models (LM
+
 - **[Symmetric Divergence and Normalized Similarity: A Unified Topological Framework for Representation Analysis](http://arxiv.org/abs/2606.06342v1)**
   - arXiv | 2026-06-04
   - Topological Data Analysis (TDA) offers a principled, intrinsic lens for comparing neural representations. However, existing paired topological diverge
-
-- **[PAC-Bayesian Adversarially Robust Generalization for Message Passing Graph Neural Networks: A Sensitivity Analysis](http://arxiv.org/abs/2606.06293v1)**
-  - arXiv | 2026-06-04
-  - Whilst the vulnerability of graph neural networks (GNNs) to adversarial attacks poses a critical threat to graph representation learning, the understa
 
 - **[Early psychosis shows deviations in scaling behaviour within a critical regime](http://arxiv.org/abs/2606.06290v1)**
   - arXiv | 2026-06-04
