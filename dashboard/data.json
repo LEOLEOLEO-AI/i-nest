@@ -127,14 +127,14 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 8 commits pushed",
+            "text": "Gitee sync: 9 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
         }
     ],
     "today_plan": [
         {
-            "text": "Review 2 new papers from daily crawl -- classify TCC vs iNEST, extract key methods",
+            "text": "Review 3 new papers from daily crawl -- classify TCC vs iNEST, extract key methods",
             "dot": "plan",
             "dim": "iNEST"
         },
