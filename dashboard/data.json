@@ -127,19 +127,14 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 5 commits pushed",
+            "text": "Gitee sync: 7 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
-        },
-        {
-            "text": "Inbox processing: 1 items to triage",
-            "dot": "ongoing",
-            "dim": "iNEST"
         }
     ],
     "today_plan": [
         {
-            "text": "Review arXiv alerts + GitHub trending for neuromorphic/emergence breakthroughs",
+            "text": "Review 2 new papers from daily crawl -- classify TCC vs iNEST, extract key methods",
             "dot": "plan",
             "dim": "iNEST"
         },
