@@ -228,7 +228,7 @@ function renderMetrics(){
 }
 
 // ─── DAILY ───
-
+function renderDaily(){
 function renderDaily(data) {
     const container = document.getElementById('daily');
     if (!container) return;
@@ -267,39 +267,6 @@ function renderDaily(data) {
         container.appendChild(card);
     });
 }
-
-function renderDaily() {
-    const container = document.getElementById('daily');
-    if (!container) return;
-    container.innerHTML = '';
-
-    const todayStr = new Date().toISOString().split('T')[0];
-    const yesterdayStr = new Date(Date.now() - 86400000).toISOString().split('T')[0];
-    const past3 = [];
-    for (let i = 1; i <= 3; i++) {
-        past3.push(new Date(Date.now() - i * 86400000).toISOString().split('T')[0]);
-    }
-
-    const todayList = (data[todayStr] || []).slice(0, 5);
-    const pastDays = past3.map(d => ({ date: d, items: (data[d] || []).slice(0, 5) })).filter(d => d.items.length > 0);
-
-    const label = d => d === todayStr ? '今天' : d === yesterdayStr ? '昨天' : d;
-
-    if (todayList.length > 0) {
-        const p = document.createElement('div');
-        p.className = 'daily-panel today-panel';
-        p.innerHTML = '<h3>📋 今日计划 (' + todayStr + ')</h3>' + todayList.map(i => '<div class="daily-item">' + i + '</div>').join('');
-        container.appendChild(p);
-    }
-
-    pastDays.forEach(day => {
-        const card = document.createElement('div');
-        card.className = 'daily-panel past-panel';
-        card.innerHTML = '<h3>📌 ' + label(day.date) + '</h3>' + day.items.map(i => '<div class="daily-item">' + i + '</div>').join('');
-        container.appendChild(card);
-    });
-}
-
 
 function renderKanban(){
   document.getElementById("kanban-dual").innerHTML=DIMS.map(function(dim){

@@ -1541,3 +1541,16 @@ Done!
  rename "00_Inbox/GetNote_20260609_060901_getnote_1912263189513559880_Python2Verilog vs Xilinx IP_33\344\270\252FPGA\350\256\276\350\256\241\345\256\236\346\265\213\345\257\271\346\257\224\345\210\206\346\236\220\346\212\245\345\221\212.md" => "03_Topics/Chip-Hardware/GetNote_20260609_060901_getnote_1912263189513559880_Python2Verilog vs Xilinx IP_33\344\270\252FPGA\350\256\276\350\256\241\345\256\236\346\265\213\345\257\271\346\257\224\345\210\206\346\236\220\346\212\245\345\221\212.md" (94%)
  rename "00_Inbox/GetNote_20260609_060901_getnote_1912262988723965016_2026 \345\271\264 6 \346\234\210 8 \345\217\267 \346\227\245\350\256\260.md" => "03_Topics/Concepts-Theory/GetNote_20260609_060901_getnote_1912262988723965016_2026 \345\271\264 6 \346\234\210 8 \345\217\267 \346\227\245\350\256\260.md" (76%)
 [2026/06/09 周二  6:41:11.50] Auto-management complete. 
+======================================== 
+[2026/06/09 周二  8:40:02.05] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 3 inbox notes...
+Inbox:   0%|          | 0/3 [00:00<?, ?it/s]Inbox:  33%|███▎      | 1/3 [00:22<00:45, 22.75s/it]Inbox: 100%|██████████| 3/3 [00:22<00:00,  7.59s/it]
+  [OK] GetNote_20260609_060901_getnote_1912262766459224680_2026 年 6 月 7 号 日记.md -> Project-Management/
+  Skipping short note: old_note_before_cutoff.md
+  Skipping short note: 今日健身日记.md
+
+Inbox processing complete.
+
+Done!
