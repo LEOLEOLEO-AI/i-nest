@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-06-09",
+    "last_updated": "2026-06-11",
     "papers": {
         "tcc": 0,
-        "inest": 8,
+        "inest": 9,
         "tcc_list": [],
         "inest_list": [
             {
@@ -36,8 +36,14 @@
                 "source": "Crawler"
             },
             {
-                "date": "2026-06-02",
-                "title": "2026年6月2日 iNEST相关最新文章爬取",
+                "date": "2026-06-10",
+                "title": "2026-06-10 iNEST Daily Crawl",
+                "direction": "iNEST",
+                "source": "Crawler"
+            },
+            {
+                "date": "2026-06-11",
+                "title": "2026-06-11 iNEST Daily Crawl",
                 "direction": "iNEST",
                 "source": "Crawler"
             },
@@ -127,14 +133,14 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 9 commits pushed",
+            "text": "Gitee sync: 5 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
         }
     ],
     "today_plan": [
         {
-            "text": "Review 3 new papers from daily crawl -- classify TCC vs iNEST, extract key methods",
+            "text": "Review 8 new papers from daily crawl -- classify TCC vs iNEST, extract key methods",
             "dot": "plan",
             "dim": "iNEST"
         },
