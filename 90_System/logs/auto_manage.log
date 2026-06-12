@@ -1728,3 +1728,15 @@ warning: in the working copy of 'dashboard/fix_cn.py', LF will be replaced by CR
  create mode 100644 03_Topics/Web-Clips/2026-06-12 iNEST Daily Crawl.md
  create mode 100644 dashboard/fix_cn.py
 [2026/06/12 周五 10:40:03.66] Auto-management complete. 
+======================================== 
+[2026/06/12 周五 12:40:02.07] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 2 inbox notes...
+Inbox:   0%|          | 0/2 [00:00<?, ?it/s]Inbox: 100%|██████████| 2/2 [00:00<00:00, 1990.18it/s]
+  Skipping short note: old_note_before_cutoff.md
+  Skipping short note: 今日健身日记.md
+
+Inbox processing complete.
+
+Done!
