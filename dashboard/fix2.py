@@ -1,59 +1,69 @@
-﻿import sys
+import re, base64
 
-html_path = r'D:\Research\research_platform\dashboard\index.html'
+# Read the file
+with open(r"D:\Obsidian\home\work\.openclaw\workspace\dashboard\index.html", "r", encoding="utf-8") as f:
+    c = f.read()
 
-with open(html_path, 'r', encoding='utf-8-sig') as f:
-    content = f.read()
+# Targeted replacements in renderDaily function area (lines 232-274)
+# We need to replace the entire function with a correct version
 
-def replace_between(text, start_marker, end_marker):
-    start = text.find(start_marker)
-    if start < 0:
-        return text, False
-    end = text.find(end_marker, start) + len(end_marker)
-    if end < len(end_marker):
-        return text, False
-    return text[:start] + end_marker.replace(end_marker, '') + text[end:], True
+# Find the start of renderDaily and the start of renderKanban
+fnstart = c.find('function renderDaily(){')
+kanstart = c.find('function renderKanban(){')
 
-# Replace renderPaperList body (between the function def and its closing })
-old_pl = """            el.innerHTML = papers.map(p =>
-                <li>
-                    <div class="paper-title"></div>
-                    <div class="paper-meta">  |  <span class="tag "></span></div>
-                </li>
-            ).join('');"""
+if fnstart >= 0 and kanstart > fnstart:
+    # Replace the entire renderDaily function
+    # Build the correct function with Chinese characters
+    new_fn = """function renderDaily(){
+  try{
+    var days=appData.daily;
+    var today=(new Date()).toISOString().slice(0,10);
+    var y=(new Date(Date.now()-86400000)).toISOString().slice(0,10);
+    var d2=(new Date(Date.now()-172800000)).toISOString().slice(0,10);
+    var d3=(new Date(Date.now()-259200000)).toISOString().slice(0,10);
+    var pastDates=[y,d2,d3];
+    days.forEach(function(d){d._t=d.date===today?'today':d.date===y?'yesterday':'past'});
 
-new_pl = """            el.innerHTML = papers.map(p =>
-                '<li>' +
-                    '<div class="paper-title">' + (p.title || '') + '</div>' +
-                    '<div class="paper-meta">' + (p.authors || 'unknown') + '  |  ' + (p.date || '') + ' | <span class="tag ' + (p.direction || '').toLowerCase().replace(/[^a-z0-9]/g,'') + '">' + (p.source || '') + '</span></div>' +
-                '</li>'
-            ).join('');"""
+    document.getElementById('daily-badge').textContent="\u6700\u8fd1 "+days.length+" \u5929";
 
-# Use regex to replace the body between el.innerHTML = papers.map and ).join('');
-import re
+    var td=days.find(function(d){return d._t==='today'});
+    var pl=document.getElementById('today-plan-list');
+    var pe=document.getElementById('plan-empty');
+    var pd=document.getElementById('plan-date');
+    if(td&&td.plan&&td.plan.length){
+      pd.textContent=td.date;
+      pl.innerHTML=td.plan.map(function(p){
+        var dc=p.dim==='TCC'?'tcc-dot':p.dim==='iNEST'?'inest-dot':'both-dot';
+        return '<div class="plan-item"><span class="plan-dot '+dc+'">'+(p.dim||'?')[0]+'</span><span>'+p.text+' <span style="font-size:0.7em;color:var(--text-dim)">['+(p.dim||'')+']</span></span></div>';
+      }).join('');
+      pe.style.display='none';pl.style.display='';
+    }else{
+      pd.textContent=today;pl.innerHTML='';pl.style.display='none';pe.style.display='';
+    }
 
-# Pattern for renderPaperList
-pl_pattern = r'(el\.innerHTML = papers\.map\(p => )\s*(<li>[\s\S]*?)\s*(\.join\(\'\);\))'
-new_pl_replacement = r'''el.innerHTML = papers.map(p =>
-                '<li>' +
-                    '<div class="paper-title">' + (p.title || '') + '</div>' +
-                    '<div class="paper-meta">' + (p.authors || 'unknown') + '  |  ' + (p.date || '') + ' | <span class="tag ' + (p.direction || '').toLowerCase().replace(/[^a-z0-9]/g,'') + '">' + (p.source || '') + '</span></div>' +
-                '</li>'
-            ).join('');'''
+    var grid=document.getElementById('daily-grid');
+    grid.innerHTML=days.filter(function(d){return pastDates.indexOf(d.date)>=0}).map(function(d){
+      var h='<div class="daily-card"><div class="daily-card-header"><span class="date">'+d.date+'</span><span class="date-badge '+(d._t==='yesterday'?'yesterday':'past')+'">'+(d._t==='yesterday'?"\u6628\u5929":d.date)+'</span></div>';
+      if(d.progress&&d.progress.length){
+        h+='<div class="daily-section-label">[\u8fdb\u5c55]</div>';
+        h+=d.progress.slice(0,5).map(function(p){
+          return '<div class="daily-item"><span class="dot '+p.dot+'"></span><span>'+p.text+' <span style="font-size:0.7em;color:var(--text-dim)">['+p.dim+']</span></span></div>';
+        }).join('');
+      }
+      h+='</div>';return h;
+    }).join('');
+  }catch(e){
+    document.getElementById('daily-grid').innerHTML='<div style="color:#f87171;padding:20px">\u52a0\u8f7d\u5931\u8d25\uff0c\u8bf7\u5230\u65b0</div>';
+    console.error('renderDaily',e);
+  }
+}"""
 
-# Pattern for renderInsights
-in_pattern = r'(el\.innerHTML = insights\.slice\(0, 5\)\.map\(i => )\s*(<div class="insight-item">[\s\S]*?)\s*(\.join\(\'\);\))'
-new_in_replacement = r'''el.innerHTML = insights.slice(0, 5).map(i =>
-            '<div class="insight-item">' +
-                '<h4>' + (i.title || '') + ' <span class="tag ' + (i.priority || '').toLowerCase() + '">' + (i.priority || '') + '</span></h4>' +
-                '<p>' + (i.description || '') + '</p>' +
-            '</div>'
-        ).join('');'''
+    before = c[:fnstart]
+    after = c[kanstart:]
+    c = before + new_fn + "\n\n" + after
 
-content = re.sub(pl_pattern, new_pl_replacement, content)
-content = re.sub(in_pattern, new_in_replacement, content)
-
-with open(html_path, 'w', encoding='utf-8-sig', newline='') as f:
-    f.write(content)
-
-print('Done!')
+    with open(r"D:\Obsidian\home\work\.openclaw\workspace\dashboard\index.html", "w", encoding="utf-8", newline="") as f:
+        f.write(c)
+    print("OK new renderDaily written")
+else:
+    print("FAIL: could not find function boundaries")
