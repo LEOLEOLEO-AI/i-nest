@@ -60,6 +60,63 @@ DEFAULT_CONFIG = {
 }
 
 
+
+
+# ============================================================================
+# Content Filtering: Diary exclusion + TCC/iNEST inclusion
+# ============================================================================
+
+DIARY_KEYWORDS = [
+    "日记", "日志", "周记", "备忘",
+    "todo", "TODO", "购物清单",
+    "今天天气", "今天吃了", "今天去了", "今天买",
+    "健身", "跑步", "游泳", "瑜伽", "锻炼",
+    "做饭", "菜谱", "美食", "餐厅",
+    "旅游", "酒店", "机票", "火车票",
+    "购物", "淘宝", "京东", "拼多多", "快递",
+    "账单", "工资", "理财", "基金", "股票", "保险",
+    "孩子", "家长会", "幼儿园", "学校", "作业",
+    "医院", "挂号", "体检", "看病",
+    "朋友圈", "抖音", "微博", "小红书", "刷手机",
+    "心情", "情绪", "焦虑", "失眠", "冥想",
+]
+
+TCC_INEST_KEYWORDS = [
+    "tcc", "inest", "拓扑", "拓扑中心计算", "cst", "sdi",
+    "sdsow", "metatopology", "sdi-cc",
+    "神经形态", "类脑", "脉冲神经网络", "snn", "stdp",
+    "自由能", "fep", "变分", "bayesian", "主动推理",
+    "忆阻器", "memristor", "异步电路", "aer",
+    "自组织", "临界", "小世界", "连接组", "connectome",
+    "复杂网络", "涌现", "标度律", "幂律",
+    "神经计算", "脑启发", "brain-inspired", "neuromorphic",
+    "晶圆级", "chiplet", "存算一体", "3d堆叠",
+    "c.elegans", "线虫", "drosophila", "斑马鱼",
+    "risc-v", "fpga", "asic",
+    "路由算法", "片上网络", "noc", "network-on-chip",
+    "spike", "event-driven", "事件驱动",
+    "神经", "脑", "海马", "皮层", "突触",
+    "nature", "science", "cell", "论文", "科研",
+    "深度学习", "transformer", "大模型", "gpt",
+    "codex", "claude", "agent",
+    "学习规则", "可塑性", "plasticity",
+    "连接", "环路", "circuit",
+]
+
+def is_diary_content(text: str) -> bool:
+    text_lower = text.lower()
+    for kw in DIARY_KEYWORDS:
+        if kw.lower() in text_lower:
+            return True
+    return False
+
+def is_tcc_inest_content(text: str) -> bool:
+    text_lower = text.lower()
+    for kw in TCC_INEST_KEYWORDS:
+        if kw.lower() in text_lower:
+            return True
+    return False
+
 def load_config(config_path: str = None) -> dict:
     """Load configuration, merging with defaults."""
     config = DEFAULT_CONFIG.copy()
@@ -136,6 +193,14 @@ def _extract_single_note(file_path: Path, config: dict) -> Optional[dict]:
             raw_content = f.read()
     except Exception as e:
         print(f"  ⚠️  Could not read {file_path}: {e}")
+        return None
+    
+    # Skip diary / personal content immediately
+    if is_diary_content(raw_content):
+        return None
+    
+    # Skip content not related to TCC/iNEST
+    if not is_tcc_inest_content(raw_content):
         return None
     
     # Skip empty or very short content
