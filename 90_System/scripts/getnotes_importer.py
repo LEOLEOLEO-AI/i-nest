@@ -93,7 +93,7 @@ def is_diary(text):
         has_tech = any(kw.lower() in t for kw in TECH_KEYWORDS)
         if not has_tech:
             score += 3
-    return score >= 2
+    return score >= 1
 
 def extract_date(filepath, text):
     name = os.path.basename(filepath)
@@ -174,6 +174,34 @@ def generate_wikilinks(text, tags):
     links.extend(['[[iNEST-MOC]]'])
     return list(set(links))
 
+
+def is_tcc_inest(text):
+    """Return True if content is TCC/iNEST related."""
+    t = text.lower()
+    tcc_inest_keywords = [
+        "tcc", "inest", "??", "??????", "cst", "sdi",
+        "sdsow", "metatopology", "sdi-cc",
+        "????", "??", "??????", "snn", "stdp",
+        "???", "fep", "??", "bayesian", "????",
+        "???", "memristor", "????", "aer",
+        "???", "??", "???", "???", "connectome",
+        "????", "??", "???", "??",
+        "????", "???", "brain-inspired", "neuromorphic",
+        "???", "chiplet", "????", "3d??",
+        "c.elegans", "??", "drosophila", "???",
+        "risc-v", "fpga", "asic",
+        "????", "????", "noc", "network-on-chip",
+        "spike", "event-driven", "????",
+        "??", "?", "??", "??", "??",
+        "nature", "science", "cell", "??", "??",
+        "????", "transformer", "???", "gpt",
+        "codex", "claude", "agent",
+        "????", "???", "plasticity",
+        "??", "??", "circuit",
+
+    ]
+    return any(kw in t for kw in tcc_inest_keywords)
+
 def process_note(filepath, cutoff):
     with open(filepath, 'r', encoding='utf-8') as fh:
         text = fh.read()
@@ -181,9 +209,9 @@ def process_note(filepath, cutoff):
         return None, 'before_cutoff'
     if is_diary(text):
         return None, 'diary'
+    if not is_tcc_inest(text):
+        return None, 'not_tcc_inest'
     score = match_score(text)
-    if score < 1:
-        return None, 'no_tech'
     title = re.sub(r'[\r\n]+',' ',os.path.splitext(os.path.basename(filepath))[0])[:80]
     tags = generate_tags(text)
     links = generate_wikilinks(text, tags)
@@ -213,10 +241,11 @@ def main():
         elif status == 'diary': diary += 1
         elif status == 'no_tech': notech += 1
         elif note:
+            note_hash = fh
             on = f"GetNote_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}_{fn}"
-            with open(os.path.join(o, on), 'w', encoding='utf-8') as fh:
-                fh.write(note)
-            state[fh] = on; imported += 1
+            with open(os.path.join(o, on), 'w', encoding='utf-8') as fout:
+                fout.write(note)
+            state[note_hash] = on; imported += 1
         shutil.move(fp, os.path.join(a, fn))
     json.dump(state, open(s, 'w', encoding='utf-8'), indent=2, ensure_ascii=False)
     print(f'v1.3 | in={imported} dup={dup} dskip={dskip} diary={diary} notech={notech}')
