@@ -1720,3 +1720,11 @@ Done!
 Inbox processing complete.
 
 Done!
+warning: in the working copy of 'dashboard/fix2.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'dashboard/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'dashboard/fix_cn.py', LF will be replaced by CRLF the next time Git touches it
+[main dd6215a] auto: inbox processing 2026/06/12 Âë®‰∫î 10:40:03.58
+ 5 files changed, 151 insertions(+), 81 deletions(-)
+ create mode 100644 03_Topics/Web-Clips/2026-06-12 iNEST Daily Crawl.md
+ create mode 100644 dashboard/fix_cn.py
+[2026/06/12 ÷‹ŒÂ 10:40:03.66] Auto-management complete. 
