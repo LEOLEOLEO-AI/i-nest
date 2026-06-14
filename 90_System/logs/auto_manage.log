@@ -1937,3 +1937,18 @@ Done!
 Inbox processing complete.
 
 Done!
+[main df75749] auto: inbox processing 2026/06/13 鍛ㄥ叚 20:40:03.38
+ 1 file changed, 15 insertions(+)
+[2026/06/13 周六 20:40:03.44] Auto-management complete. 
+======================================== 
+[2026/06/14 周日 13:30:48.60] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 2 inbox notes...
+Inbox:   0%|          | 0/2 [00:00<?, ?it/s]Inbox: 100%|██████████| 2/2 [00:00<00:00, 97.43it/s]
+  Skipping short note: old_note_before_cutoff.md
+  Skipping short note: 今日健身日记.md
+
+Inbox processing complete.
+
+Done!
