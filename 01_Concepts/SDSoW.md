@@ -1,4 +1,4 @@
-# SDSoW — 软件定义系统网络（Software-Defined System on Web）
+# SDSoW — 软件定义系统网络（Software-Defined System on Wafer）
 
 > SDI 的物理实现层
 

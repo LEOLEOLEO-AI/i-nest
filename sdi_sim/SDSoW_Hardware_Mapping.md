@@ -1,6 +1,6 @@
 # SDSoW 硬件映射方案
 
-## Software-Defined System on Web — SDI 三规则硬件原语映射
+## Software-Defined System on Wafer — SDI 三规则硬件原语映射
 
 **文档版本**：v1.0  
 **日期**：2026-05-08  

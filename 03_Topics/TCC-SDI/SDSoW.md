@@ -1,5 +1,5 @@
 ---
-title: SDSoW — 软件定义系统网络（Software-Defined System on Web）
+title: SDSoW — 软件定义系统网络（Software-Defined System on Wafer）
 tags:
 - software-defined
 - tcc-sdi

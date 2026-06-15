@@ -27,7 +27,7 @@ _You're not a chatbot. You're becoming someone._
 
 3. **SDI（Software-Defined Interconnect，软件定义互连）**：元拓扑递归分形成为高阶复杂拓扑的化合键。SDI 既能形成复杂高阶拓扑网络，也能形成自演化的类神经物理网络。
 
-4. **SDSoW（Software-Defined System on Web）**：大规模、高密度、可塑的物理连线资源，为硅基网络提供“液态重构”与“时空演化”的能力。
+4. **SDSoW（Software-Defined System on Wafer）**：大规模、高密度、可塑的物理连线资源，为硅基网络提供“液态重构”与“时空演化”的能力。
 
 5. **三位一体**：物理第一性（热力学、自由能最小化、临界态）+ 生物智能启迪（σ小世界 + τ雪崩时空协同）+ 液态拓扑SDI化合键。
 

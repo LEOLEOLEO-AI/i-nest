@@ -48,7 +48,7 @@ iNEST实验室的核心学术信仰正是**大道至简（Complexity comes from 
 
 **SDI（Software-Defined Interconnect，软件定义互连）** 是TCC的核心实现架构：通过软件可编程的连接规则（化合键），元拓扑可以递归分形成为高阶复杂拓扑，同时具备液态重构与时空演化能力。SDI化合键的三种状态——E-S键（可塑性键）、E-L键（固化键）、I键（抑制键）——对应生物突触的长期增强（LTP）、长期抑制（LTD）和间隙连接（Gap Junction）。
 
-**SDSoW（Software-Defined System on Web）** 则为SDI提供大规模、高密度、可塑的物理连线资源，是实现硅基"液态拓扑"的工程基础。
+**SDSoW（Software-Defined System on Wafer）** 则为SDI提供大规模、高密度、可塑的物理连线资源，是实现硅基"液态拓扑"的工程基础。
 
 三位一体的理论框架：
 - **物理第一性**：热力学第二定律（自由能最小化）+ 统计物理相变（重整化群与临界态）
