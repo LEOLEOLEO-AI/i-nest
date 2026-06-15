@@ -1,14 +1,25 @@
 ---
-title: "Science: 全球丛枝菌根真菌网络的密度与生物量图谱"
-source: "https://mp.weixin.qq.com/s/LySbHrH0uwmwuBXRrUEeNA"
 author:
-  - "[[NewEcologist]]"
-published:
+- '[[NewEcologist]]'
+category: Papers
 created: 2026-06-15
-description:
+description: null
+entities:
+- 丛枝菌根真菌
+- 菌丝密度
+processed: '2026-06-15T22:41:17.463668'
+published: null
+source: https://mp.weixin.qq.com/s/LySbHrH0uwmwuBXRrUEeNA
+source_file: Science 全球丛枝菌根真菌网络的密度与生物量图谱.md
+summary: 首次全球空间显式估算AM菌丝密度和生物量，揭示草地为核心储库，农田显著削减菌丝密度。
 tags:
-  - "clippings"
+- 全球碳循环
+- 菌丝密度
+- 丛枝菌根真菌
+- clippings
+title: 'Science: 全球丛枝菌根真菌网络的密度与生物量图谱'
 ---
+
 NewEcologist *2026年6月14日 17:24*
 
 Research Article | Mycorrhizae
