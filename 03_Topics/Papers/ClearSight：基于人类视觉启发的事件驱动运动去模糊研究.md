@@ -1,16 +1,23 @@
 ---
-title: "ClearSight：基于人类视觉启发的事件驱动运动去模糊研究"
-source: "https://mp.weixin.qq.com/s/JoVOn3IwL_o46gEsEfMsuA"
+category: Papers
 created: 2025-09-21
-note_id: "1888116591317561056"
+entities:
+- BDHNet
+- 事件相机运动去模糊
+note_id: '1888116591317561056'
+processed: '2026-06-15T15:37:18.060674'
+source: https://mp.weixin.qq.com/s/JoVOn3IwL_o46gEsEfMsuA
+source_file: ClearSight：基于人类视觉启发的事件驱动运动去模糊研究.md
+summary: 提出受生物启发的双驱动混合网络BDHNet，融合事件相机与RGB图像实现运动去模糊，性能优越。
 tags:
-  - "AI链接笔记"
-  - "运动去模糊"
-  - "事件相机"
-  - "双驱动混合网络"
-  - "get-笔记"
-  - "科技资讯"
-  - "重要"
+- 重要
+- 双驱动混合网络
+- AI链接笔记
+- 事件相机
+- get-笔记
+- 科技资讯
+- 运动去模糊
+title: ClearSight：基于人类视觉启发的事件驱动运动去模糊研究
 ---
 
 # ClearSight：基于人类视觉启发的事件驱动运动去模糊研究

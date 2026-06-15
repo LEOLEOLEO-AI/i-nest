@@ -1,15 +1,32 @@
 ---
-title: "DARPA深度研究：传感器、电子战与通信领域战略分析报告（上册）"
-source: "https://mp.weixin.qq.com/s/Slp__VvVHYC3TX4oR_8oEQ"
+category: Concepts-Theory
 created: 2025-12-17
-note_id: "1896185459403601448"
+entities:
+- DARPA
+- 决策中心战
+- 电磁频谱霸权
+- 分布式作战
+- OODA环
+- 战略技术办公室
+note_id: '1896185459403601448'
+processed: '2026-06-15T15:39:28.547480'
+source: https://mp.weixin.qq.com/s/Slp__VvVHYC3TX4oR_8oEQ
+source_file: DARPA深度研究：传感器、电子战与通信领域战略分析报告（上册）.md
+summary: DARPA推动美军从平台中心战向决策中心战转型，构建分布式智能化作战体系以夺取电磁频谱霸权。
 tags:
-  - "AI链接笔记"
-  - "DARPA战略"
-  - "电磁频谱战"
-  - "量子传感技术"
-  - "get-笔记"
-  - "科技资讯"
+- 电磁频谱霸权
+- 电子战
+- 量子传感技术
+- AI链接笔记
+- 决策中心战
+- 分布式作战
+- 传感器
+- 通信
+- 电磁频谱战
+- get-笔记
+- 科技资讯
+- DARPA战略
+title: DARPA深度研究：传感器、电子战与通信领域战略分析报告（上册）
 ---
 
 # DARPA深度研究：传感器、电子战与通信领域战略分析报告（上册）
