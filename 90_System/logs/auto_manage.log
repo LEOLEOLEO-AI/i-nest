@@ -1970,3 +1970,23 @@ Done!
 [main 4aa4570] auto: inbox processing 2026/06/14 鍛ㄦ棩 14:40:04.03
  1 file changed, 15 insertions(+)
 [2026/06/14 周日 14:40:04.12] Auto-management complete. 
+======================================== 
+[2026/06/15 周一 15:06:03.89] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 49 inbox notes...
+Inbox:   0%|          | 0/49 [00:00<?, ?it/s]Inbox:   2%|▏         | 1/49 [00:34<27:30, 34.39s/it]Inbox:   4%|▍         | 2/49 [29:57<13:43:27, 1051.22s/it]Inbox:   6%|▌         | 3/49 [31:06<7:42:11, 602.87s/it]  Inbox:   8%|▊         | 4/49 [32:05<4:51:01, 388.03s/it]Inbox:  10%|█         | 5/49 [32:39<3:11:00, 260.47s/it]Inbox:  12%|█▏        | 6/49 [33:17<2:12:20, 184.66s/it]Inbox:  12%|█▏        | 6/49 [33:49<4:02:22, 338.21s/it]
+  [OK] 00_Inbox 使用说明.md -> Project-Management/
+  [OK] 2028全球智能危机：人工智能引发的经济与制度冲击全景分析.md -> AI-ML/
+  [OK] ClearSight：基于人类视觉启发的事件驱动运动去模糊研究.md -> Papers/
+  [OK] DARPA 3D异构集成（3DHI）战略研究：应用场景、技术突破与创新模式.md -> Chip-Hardware/
+  [OK] DARPA投资3D异构集成（3DHI）先进封装工厂深度研究：重塑美国微电子产业格局.md -> Chip-Hardware/
+  [OK] DARPA深度研究：传感器、电子战与通信领域战略分析报告（上册）.md -> Concepts-Theory/
+Traceback (most recent call last):
+  File "D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\reorganize.py", line 868, in <module>
+    main()
+  File "D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\reorganize.py", line 827, in main
+    process_inbox(client, config, dry_run=args.dry_run)
+  File "D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\reorganize.py", line 665, in process_inbox
+    print(f"  [OK] {note_path.name} -> {category}/")
+UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f680' in position 39: illegal multibyte sequence

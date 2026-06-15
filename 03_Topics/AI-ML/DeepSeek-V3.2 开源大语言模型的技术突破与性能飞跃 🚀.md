@@ -1,16 +1,30 @@
 ---
-title: "DeepSeek-V3.2: 开源大语言模型的技术突破与性能飞跃 🚀"
-source: "https://mp.weixin.qq.com/s/0utniVQwE0rNtkmzjvcshg"
+category: AI-ML
 created: 2025-12-04
-note_id: "1894983183166942800"
+entities:
+- DeepSeek Sparse Attention (DSA)
+- Scaled RL
+- GRPO
+- Agentic Task Synthesis
+- Lightning Indexer
+note_id: '1894983183166942800'
+processed: '2026-06-15T15:40:00.581700'
+source: https://mp.weixin.qq.com/s/0utniVQwE0rNtkmzjvcshg
+source_file: "DeepSeek-V3.2 开源大语言模型的技术突破与性能飞跃 \U0001F680.md"
+summary: DeepSeek-V3.2通过稀疏注意力与大规模强化学习，大幅提升长上下文效率和复杂推理能力，逼近GPT-5水平。
 tags:
-  - "AI链接笔记"
-  - "DeepSeek-V3.2"
-  - "开源大语言模型"
-  - "稀疏注意力机制"
-  - "get-笔记"
-  - "科技资讯"
-  - "重要"
+- Sparse Attention
+- LLM
+- 重要
+- AI链接笔记
+- 开源大语言模型
+- get-笔记
+- 稀疏注意力机制
+- 科技资讯
+- Reinforcement Learning
+- Open Source
+- DeepSeek-V3.2
+title: "DeepSeek-V3.2: 开源大语言模型的技术突破与性能飞跃 \U0001F680"
 ---
 
 # DeepSeek-V3.2: 开源大语言模型的技术突破与性能飞跃 🚀
