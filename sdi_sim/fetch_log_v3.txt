@@ -1,0 +1,24 @@
+Connected: 1.7.10
+Fetching edges via Cypher (paginated)...
+  skip=0: 100000 rows | total=100000 | 3s
+  skip=100000: 100000 rows | total=200000 | 8s
+  skip=200000: 100000 rows | total=300000 | 14s
+  skip=300000: 100000 rows | total=400000 | 21s
+  skip=400000: 100000 rows | total=500000 | 29s
+  skip=500000: 100000 rows | total=600000 | 38s
+  skip=600000: 100000 rows | total=700000 | 49s
+  skip=700000: 100000 rows | total=800000 | 62s
+  skip=800000: 100000 rows | total=900000 | 75s
+  skip=900000: 100000 rows | total=1000000 | 88s
+  skip=1000000: 100000 rows | total=1100000 | 104s
+  skip=1100000: 100000 rows | total=1200000 | 120s
+  skip=1200000: 100000 rows | total=1300000 | 137s
+  skip=1300000: 100000 rows | total=1400000 | 154s
+  skip=1400000: 100000 rows | total=1500000 | 172s
+  skip=1500000: 100000 rows | total=1600000 | 190s
+  skip=1600000: 40361 rows | total=1640361 | 209s
+
+Total edges: 1640361 in 209.1s
+Unique neurons: 46297
+Saved → /home/work/.openclaw/workspace/sdi_sim/hemibrain_real_connectome_v3.json
+DONE

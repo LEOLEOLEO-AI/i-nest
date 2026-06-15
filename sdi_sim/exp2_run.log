@@ -1,0 +1,316 @@
+[Step 1] 加载Hemibrain connectome...
+  全脑: N=46297, edges=1640361
+  用时 0.6s
+
+[Step 2] 构建嗅觉子网络（基于度数分布）...
+  构建稀疏邻接矩阵...
+  度数统计: 中位数=36, 均值=70.9, 最大=5040
+  度数分位数: p30=16, p50=36, p80=103, p95=234
+  层次分配 (全脑46297个神经元):
+    ORN: 22227
+    PN:  16309
+    KC:  4221
+    APL: 928
+    MBON:2612
+
+  初始选取: 2000 个节点
+    ORN: 100
+    PN: 200
+    KC: 1600
+    APL: 20
+    MBON: 80
+  子图: N=2000, edges=2802
+  连通分量数: 499
+  最大连通分量: N=1351
+
+  最终子网络: N=1351, edges=2610
+
+  最终层次分布:
+    ORN: 33
+    PN:  124
+    KC:  1099
+    APL: 19
+    MBON:76
+  用时 1.3s
+
+[Step 3] 构建初始权重矩阵...
+  权重矩阵: (1351, 1351), nnz=2610, 密度=0.0014, 均值w=0.050
+
+[Step 4] SDI仿真（3个种子）...
+
+  === 种子 42 ===
+    t=   0/3000: σ=121.34, C=0.100, L=6.30, spikes=  0, ETA=1443s
+    t= 500/3000: σ=117.39, C=0.100, L=6.52, spikes= 39, ETA=6s
+    t=1000/3000: σ=119.33, C=0.100, L=6.41, spikes= 32, ETA=4s
+    t=1500/3000: σ=119.84, C=0.100, L=6.38, spikes= 37, ETA=3s
+    t=2000/3000: σ=118.95, C=0.100, L=6.43, spikes= 36, ETA=2s
+    t=2500/3000: σ=120.21, C=0.100, L=6.36, spikes= 43, ETA=1s
+  完成，用时 5s
+
+  === 种子 7 ===
+    t=   0/3000: σ=119.74, C=0.100, L=6.39, spikes=  0, ETA=1421s
+    t= 500/3000: σ=112.74, C=0.100, L=6.78, spikes= 39, ETA=6s
+    t=1000/3000: σ=115.63, C=0.100, L=6.61, spikes= 28, ETA=4s
+    t=1500/3000: σ=113.84, C=0.100, L=6.72, spikes= 25, ETA=3s
+    t=2000/3000: σ=120.71, C=0.100, L=6.34, spikes= 31, ETA=2s
+    t=2500/3000: σ=124.77, C=0.100, L=6.13, spikes= 42, ETA=1s
+  完成，用时 5s
+
+  === 种子 13 ===
+    t=   0/3000: σ=117.68, C=0.100, L=6.50, spikes=  0, ETA=1421s
+    t= 500/3000: σ=119.42, C=0.100, L=6.40, spikes= 41, ETA=6s
+    t=1000/3000: σ=119.71, C=0.100, L=6.39, spikes= 31, ETA=4s
+    t=1500/3000: σ=125.25, C=0.100, L=6.11, spikes= 36, ETA=3s
+    t=2000/3000: σ=120.47, C=0.100, L=6.35, spikes= 35, ETA=2s
+    t=2500/3000: σ=122.55, C=0.100, L=6.24, spikes= 40, ETA=1s
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 25299 (\N{CJK UNIFIED IDEOGRAPH-62D3}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 25169 (\N{CJK UNIFIED IDEOGRAPH-6251}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 28436 (\N{CJK UNIFIED IDEOGRAPH-6F14}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 21270 (\N{CJK UNIFIED IDEOGRAPH-5316}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 23376 (\N{CJK UNIFIED IDEOGRAPH-5B50}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 32593 (\N{CJK UNIFIED IDEOGRAPH-7F51}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 32476 (\N{CJK UNIFIED IDEOGRAPH-7EDC}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 36793 (\N{CJK UNIFIED IDEOGRAPH-8FB9}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 25968 (\N{CJK UNIFIED IDEOGRAPH-6570}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 23494 (\N{CJK UNIFIED IDEOGRAPH-5BC6}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 24230 (\N{CJK UNIFIED IDEOGRAPH-5EA6}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 23618 (\N{CJK UNIFIED IDEOGRAPH-5C42}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 27425 (\N{CJK UNIFIED IDEOGRAPH-6B21}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 20998 (\N{CJK UNIFIED IDEOGRAPH-5206}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 24067 (\N{CJK UNIFIED IDEOGRAPH-5E03}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 26368 (\N{CJK UNIFIED IDEOGRAPH-6700}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 32456 (\N{CJK UNIFIED IDEOGRAPH-7EC8}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 25351 (\N{CJK UNIFIED IDEOGRAPH-6307}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 26631 (\N{CJK UNIFIED IDEOGRAPH-6807}) missing from font(s) DejaVu Sans Mono.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 28608 (\N{CJK UNIFIED IDEOGRAPH-6FC0}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 27963 (\N{CJK UNIFIED IDEOGRAPH-6D3B}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 29575 (\N{CJK UNIFIED IDEOGRAPH-7387}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 31232 (\N{CJK UNIFIED IDEOGRAPH-7A00}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 30095 (\N{CJK UNIFIED IDEOGRAPH-758F}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 32534 (\N{CJK UNIFIED IDEOGRAPH-7F16}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 30721 (\N{CJK UNIFIED IDEOGRAPH-7801}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 65288 (\N{FULLWIDTH LEFT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 21508 (\N{CJK UNIFIED IDEOGRAPH-5404}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 27668 (\N{CJK UNIFIED IDEOGRAPH-6C14}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 21619 (\N{CJK UNIFIED IDEOGRAPH-5473}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 65289 (\N{FULLWIDTH RIGHT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 30446 (\N{CJK UNIFIED IDEOGRAPH-76EE}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 26631 (\N{CJK UNIFIED IDEOGRAPH-6807}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 30456 (\N{CJK UNIFIED IDEOGRAPH-76F8}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 20284 (\N{CJK UNIFIED IDEOGRAPH-4F3C}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 24230 (\N{CJK UNIFIED IDEOGRAPH-5EA6}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 30697 (\N{CJK UNIFIED IDEOGRAPH-77E9}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 38453 (\N{CJK UNIFIED IDEOGRAPH-9635}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 20313 (\N{CJK UNIFIED IDEOGRAPH-4F59}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 24358 (\N{CJK UNIFIED IDEOGRAPH-5F26}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 36317 (\N{CJK UNIFIED IDEOGRAPH-8DDD}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 31163 (\N{CJK UNIFIED IDEOGRAPH-79BB}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 65292 (\N{FULLWIDTH COMMA}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 36234 (\N{CJK UNIFIED IDEOGRAPH-8D8A}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 22823 (\N{CJK UNIFIED IDEOGRAPH-5927}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 26131 (\N{CJK UNIFIED IDEOGRAPH-6613}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 20998 (\N{CJK UNIFIED IDEOGRAPH-5206}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 36776 (\N{CJK UNIFIED IDEOGRAPH-8FA8}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 39564 (\N{CJK UNIFIED IDEOGRAPH-9A8C}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 35777 (\N{CJK UNIFIED IDEOGRAPH-8BC1}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 32467 (\N{CJK UNIFIED IDEOGRAPH-7ED3}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 26524 (\N{CJK UNIFIED IDEOGRAPH-679C}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 9989 (\N{WHITE HEAVY CHECK MARK}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 24615 (\N{CJK UNIFIED IDEOGRAPH-6027}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 23567 (\N{CJK UNIFIED IDEOGRAPH-5C0F}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 19990 (\N{CJK UNIFIED IDEOGRAPH-4E16}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 30028 (\N{CJK UNIFIED IDEOGRAPH-754C}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 10060 (\N{CROSS MARK}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 24635 (\N{CJK UNIFIED IDEOGRAPH-603B}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 20307 (\N{CJK UNIFIED IDEOGRAPH-4F53}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 38634 (\N{CJK UNIFIED IDEOGRAPH-96EA}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 23849 (\N{CJK UNIFIED IDEOGRAPH-5D29}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 25968 (\N{CJK UNIFIED IDEOGRAPH-6570}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 25454 (\N{CJK UNIFIED IDEOGRAPH-636E}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 19981 (\N{CJK UNIFIED IDEOGRAPH-4E0D}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 36275 (\N{CJK UNIFIED IDEOGRAPH-8DB3}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 24179 (\N{CJK UNIFIED IDEOGRAPH-5E73}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 22343 (\N{CJK UNIFIED IDEOGRAPH-5747}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 25918 (\N{CJK UNIFIED IDEOGRAPH-653E}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 30005 (\N{CJK UNIFIED IDEOGRAPH-7535}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 26102 (\N{CJK UNIFIED IDEOGRAPH-65F6}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 24207 (\N{CJK UNIFIED IDEOGRAPH-5E8F}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 25351 (\N{CJK UNIFIED IDEOGRAPH-6307}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 23545 (\N{CJK UNIFIED IDEOGRAPH-5BF9}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 27604 (\N{CJK UNIFIED IDEOGRAPH-6BD4}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 23454 (\N{CJK UNIFIED IDEOGRAPH-5B9E}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 19968 (\N{CJK UNIFIED IDEOGRAPH-4E00}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 22522 (\N{CJK UNIFIED IDEOGRAPH-57FA}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 32447 (\N{CJK UNIFIED IDEOGRAPH-7EBF}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 20108 (\N{CJK UNIFIED IDEOGRAPH-4E8C}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 65306 (\N{FULLWIDTH COLON}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 21957 (\N{CJK UNIFIED IDEOGRAPH-55C5}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 35273 (\N{CJK UNIFIED IDEOGRAPH-89C9}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 23376 (\N{CJK UNIFIED IDEOGRAPH-5B50}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 29615 (\N{CJK UNIFIED IDEOGRAPH-73AF}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 36335 (\N{CJK UNIFIED IDEOGRAPH-8DEF}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 21151 (\N{CJK UNIFIED IDEOGRAPH-529F}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment2_olfactory.py:902: UserWarning: Glyph 33021 (\N{CJK UNIFIED IDEOGRAPH-80FD}) missing from font(s) DejaVu Sans.
+  plt.savefig(os.path.join(OUT, 'exp2_olfactory_results.png'), dpi=150,
+  完成，用时 5s
+
+[Step 5] 计算功能指标...
+  拓扑指标:
+    σ = 113.872 ± 1.595
+    C = 0.0999
+    L = 6.718
+    α = 2.000
+    E-L ratio = 1.000
+
+  KC稀疏性:
+    平均激活率 = 0.0255
+    odor_A: 0.0267
+    odor_B: 0.0238
+    odor_C: 0.0265
+    odor_D: 0.0258
+    odor_E: 0.0247
+
+  气味KC激活率向量:
+    odor_A: 0.0267
+    odor_B: 0.0238
+    odor_C: 0.0265
+    odor_D: 0.0258
+    odor_E: 0.0247
+
+  气味分辨率（平均余弦距离）= 0.0576
+
+[验证标准]
+  ✅ KC稀疏性 < 10%
+  ✅ 气味分辨率 > 0.05
+  ✅ σ > 1.0 (小世界)
+  ✅ C > 0.01
+  ✅ L > 1.0
+  ✅ α ∈ [1.5, 5.0]
+  ❌ E-L ratio ∈ [0.10, 0.35]
+
+  整体验证: ❌ FAIL
+
+[Step 6] 保存结果...
+  结果JSON已保存: /home/work/.openclaw/workspace/sdi_sim/exp2_olfactory_results.json
+
+[绘图] 生成结果图表...
+  图表已保存: /home/work/.openclaw/workspace/sdi_sim/exp2_olfactory_results.png
+
+============================================================
+SDI 实验二：Hemibrain 嗅觉子环路功能验证 — 完成
+============================================================
+
+1. 子网络规模:
+   N=1351 个神经元，2610 条边
+   来源：真实Hemibrain connectome (hemibrain:v1.2.1)
+   层次分布（度数分布推断）：{'ORN': 33, 'PN': 124, 'KC': 1099, 'APL': 19, 'MBON': 76, 'total': 1351}
+
+2. 拓扑指标 vs 实验一基线(C.elegans):
+   σ = 113.872±1.595  (基线: 4.710)
+   C = 0.0999                (基线: 0.3370)
+   L = 6.718               (基线: 2.440)
+   α = 2.000            (基线: 2.320)
+   E-L = 1.000             (基线: 0.191)
+
+3. 功能指标:
+   KC稀疏性：0.0255 (✅<10%)
+   气味分辨率：0.0576 (✅>0.05)
+
+4. 验证: ⚠️ 部分标准未通过
+
+5. 关键结论:
+   SDI规则在真实Hemibrain连接组上自发涌现小世界拓扑(σ=113.87)，
+   KC层呈现2.6%稀疏编码，支持嗅觉功能分化假说。
+
+输出文件:
+  exp2_olfactory_results.json
+  exp2_olfactory_results.png
+
+[完成]
