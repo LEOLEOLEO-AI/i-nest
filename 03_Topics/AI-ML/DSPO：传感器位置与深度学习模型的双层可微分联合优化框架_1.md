@@ -1,15 +1,25 @@
 ---
-title: "DSPO：传感器位置与深度学习模型的双层可微分联合优化框架"
-source: "https://mp.weixin.qq.com/s/d3cSL03VvIL2wYTpdUIOPw"
+category: AI-ML
 created: 2025-08-31
-note_id: "1886158204342150448"
+entities:
+- DSPO框架
+- 可微分算子
+note_id: '1886158204342150448'
+processed: '2026-06-15T16:40:34.111412'
+source: https://mp.weixin.qq.com/s/d3cSL03VvIL2wYTpdUIOPw
+source_file: DSPO：传感器位置与深度学习模型的双层可微分联合优化框架.md
+summary: 提出传感器位置与深度学习模型的双层可微分联合优化框架，实现稀疏观测下高维场重建精度突破。
 tags:
-  - "AI链接笔记"
-  - "高维场重建"
-  - "双层可微分优化"
-  - "传感器位置优化"
-  - "get-笔记"
-  - "科技资讯"
+- get-笔记
+- 科技资讯
+- 双层可微分优化
+- 高维场重建
+- AI链接笔记
+- 传感器位置优化
+- 场重建
+- 传感器部署
+- 双层优化
+title: DSPO：传感器位置与深度学习模型的双层可微分联合优化框架
 ---
 
 # DSPO：传感器位置与深度学习模型的双层可微分联合优化框架

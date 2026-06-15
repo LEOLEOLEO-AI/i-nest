@@ -1,15 +1,28 @@
 ---
-title: "Simplex Micro：突破冯·诺依曼架构的确定性计算革命"
-source: "https://mp.weixin.qq.com/s/3HfqiW5NOqWQz6M8hV_InQ"
+category: Chip-Hardware
 created: 2025-09-09
-note_id: "1886988375349718280"
+entities:
+- 预测执行
+- 时间资源矩阵
+- 幻影寄存器
+- RISC-V矢量处理器
+note_id: '1886988375349718280'
+processed: '2026-06-15T16:53:02.369932'
+source: https://mp.weixin.qq.com/s/3HfqiW5NOqWQz6M8hV_InQ
+source_file: Simplex Micro：突破冯·诺依曼架构的确定性计算革命.md
+summary: Simplex Micro通过预测执行和时间资源矩阵实现统一标量、矢量和矩阵计算的确定性架构，突破传统芯片瓶颈。
 tags:
-  - "AI链接笔记"
-  - "预测执行"
-  - "时间资源矩阵"
-  - "统一计算架构"
-  - "get-笔记"
-  - "科技资讯"
+- get-笔记
+- 科技资讯
+- 时间资源矩阵
+- 预测执行
+- RISC-V
+- 确定性计算
+- AI链接笔记
+- 芯片架构
+- 冯·诺依曼架构
+- 统一计算架构
+title: Simplex Micro：突破冯·诺依曼架构的确定性计算革命
 ---
 
 # Simplex Micro：突破冯·诺依曼架构的确定性计算革命
