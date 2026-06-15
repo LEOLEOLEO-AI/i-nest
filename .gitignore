@@ -52,3 +52,6 @@ desktop.ini
 *.rar
 *.zip
 *.tar.gz
+
+# Diary archive (cleaned Get Notes personal diaries)
+_diary_archive/
