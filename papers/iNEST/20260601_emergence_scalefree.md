@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Emergent Intelligence in Scale-Free Networks: Theory and Applications"
 date: 2026-06-01
 source: Nature Communications

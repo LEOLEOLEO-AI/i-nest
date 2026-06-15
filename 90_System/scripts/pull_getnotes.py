@@ -127,7 +127,9 @@ def save_note(note, kb_name=None):
 
     safe = ''.join(c if c.isalnum() or c in '._- ' else '_' for c in title)[:60]
     prefix = f'kb_{kb_name}_' if kb_name else ''
-    filename = f'{prefix}getnote_{nid}_{safe}.md'
+    # Simple naming: getnote_YYYY-MM-DD_title
+    date_str = created[:10] if created else datetime.now().strftime('%Y-%m-%d')
+    filename = f'getnote_{date_str}_{safe}.md'
 
     md = '---\n'
     md += f'note_id: {nid}\n'
