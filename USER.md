@@ -17,7 +17,7 @@
 
 - **TCC（Topology-Centric Computing，拓扑中心计算）**：新一代计算范式
 - **SDI（Software-Defined Interconnect，软件定义互连）**：元拓扑递归分形成为高阶复杂拓扑的化合键
-- **SDSoW（Software-Defined System on Web）**：大规模、高密度、可塑的物理连线资源
+- **SDSoW（Software-Defined System on Wafer）**：大规模、高密度、可塑的物理连线资源
 - SDI 既能形成复杂高阶拓扑网络，也能形成自演化的类神经物理网络
 - C.elegans 线虫神经网络的计算建模
 - Hemibrain / FlyEM 神经连接组数据验证

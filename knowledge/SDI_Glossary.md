@@ -11,7 +11,7 @@
 |--------|------|------|------|
 | **TCC** | Topology-Centric Computing | 拓扑中心计算 | iNEST新一代计算范式，以网络拓扑的自组织临界态为核心，而非算力堆砌 |
 | **SDI** | Software-Defined Interconnect | 软件定义互连 | 元拓扑递归分形形成高阶复杂拓扑的化合键；既能形成复杂高阶拓扑，也能形成自演化类神经物理网络 |
-| **SDSoW** | Software-Defined System on Web | 软件定义网络系统 | 大规模、高密度、可塑的物理连线资源，为硅基网络提供"液态重构"与"时空演化"能力 |
+| **SDSoW** | Software-Defined System on Wafer | 软件定义网络系统 | 大规模、高密度、可塑的物理连线资源，为硅基网络提供"液态重构"与"时空演化"能力 |
 | **SOC** | Self-Organized Criticality | 自组织临界性 | 复杂系统自发演化到临界态的机制；大道至简的核心"一"；Bak-Tang-Wiesenfeld 1987 |
 
 ---
