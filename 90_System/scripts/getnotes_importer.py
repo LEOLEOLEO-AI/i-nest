@@ -242,7 +242,8 @@ def main():
         elif status == 'no_tech': notech += 1
         elif note:
             note_hash = fh
-            on = f"GetNote_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}_{fn}"
+                        # Simple naming: getnote_date_original_name
+            on = f"getnote_{datetime.datetime.now().strftime('%Y-%m-%d')}_{fn}" 
             with open(os.path.join(o, on), 'w', encoding='utf-8') as fout:
                 fout.write(note)
             state[note_hash] = on; imported += 1

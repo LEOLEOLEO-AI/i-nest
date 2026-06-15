@@ -400,9 +400,7 @@ function renderIndex(){
 
 function resolvePath(link){
   if(!link)return '';
-  var abs = 'D:/Obsidian/home/work/.openclaw/workspace/' + link.replace(/\\/g, '/');
-  return 'obsidian://open?path=' + encodeURIComponent(abs);
-}
+  return 'obsidian://open?file=' + encodeURIComponent(link);
 }
 function openDetail(id){
   var e=appData.entries.find(function(x){return x.id===id});
