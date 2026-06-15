@@ -1,15 +1,24 @@
 ---
-title: "NotebookLM生成PPT的痛点解决方案：Gemini+Google Slides实现可编辑化流程"
-source: "https://mp.weixin.qq.com/s/OF19DkYJNJeduoHwGYH_wA"
+category: Tools-Tutorials
 created: 2026-01-06
-note_id: "1898037895979790000"
+entities:
+- NotebookLM
+- Gemini
+note_id: '1898037895979790000'
+processed: '2026-06-15T16:52:40.831780'
+source: https://mp.weixin.qq.com/s/OF19DkYJNJeduoHwGYH_wA
+source_file: NotebookLM生成PPT的痛点解决方案：Gemini+Google Slides实现可编辑化流程.md
+summary: 通过Gemini将NotebookLM生成的PDF转为YAML设计蓝图，再用Google Slides生成可编辑PPT的三步工作流。
 tags:
-  - "AI链接笔记"
-  - "NotebookLM"
-  - "PPT自动化"
-  - "AI工具协同"
-  - "get-笔记"
-  - "科技资讯"
+- PPT自动化
+- get-笔记
+- 科技资讯
+- AI工具协同
+- NotebookLM
+- AI链接笔记
+- Google Slides
+- Gemini
+title: NotebookLM生成PPT的痛点解决方案：Gemini+Google Slides实现可编辑化流程
 ---
 
 # NotebookLM生成PPT的痛点解决方案：Gemini+Google Slides实现可编辑化流程
