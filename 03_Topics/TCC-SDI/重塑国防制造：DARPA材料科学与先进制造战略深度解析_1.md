@@ -1,16 +1,26 @@
 ---
-title: "重塑国防制造：DARPA材料科学与先进制造战略深度解析"
-source: "https://mp.weixin.qq.com/s/Tb4f__uxRcrb3T0TPh-cEg"
+category: TCC-SDI
 created: 2025-12-18
-note_id: "1896236747756075200"
+entities:
+- 增材制造
+- 分布式制造
+note_id: '1896236747756075200'
+processed: '2026-06-16T14:48:47.250977'
+source: https://mp.weixin.qq.com/s/Tb4f__uxRcrb3T0TPh-cEg
+source_file: 重塑国防制造：DARPA材料科学与先进制造战略深度解析.md
+summary: DARPA通过颠覆性技术创新重塑国防制造，构建敏捷、弹性、分布式供应链，应对大国竞争。
 tags:
-  - "AI链接笔记"
-  - "DARPA战略"
-  - "增材制造"
-  - "特种材料"
-  - "get-笔记"
-  - "科技资讯"
-  - "重要"
+- 科技资讯
+- AI链接笔记
+- 特种材料
+- 先进制造
+- 重要
+- get-笔记
+- DARPA战略
+- 材料科学
+- 增材制造
+- DARPA
+title: 重塑国防制造：DARPA材料科学与先进制造战略深度解析
 ---
 
 # 重塑国防制造：DARPA材料科学与先进制造战略深度解析
