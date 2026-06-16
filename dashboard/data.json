@@ -1,34 +1,10 @@
 {
-    "last_updated": "2026-06-11",
+    "last_updated": "2026-06-16",
     "papers": {
         "tcc": 0,
-        "inest": 9,
+        "inest": 7,
         "tcc_list": [],
         "inest_list": [
-            {
-                "date": "2026-06-03",
-                "title": "2026-06-03 iNEST Daily Crawl",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
-            {
-                "date": "2026-06-06",
-                "title": "2026-06-06 iNEST Daily Crawl",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
-            {
-                "date": "2026-06-07",
-                "title": "2026-06-07 iNEST Daily Crawl",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
-            {
-                "date": "2026-06-08",
-                "title": "2026-06-08 iNEST Daily Crawl",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
             {
                 "date": "2026-06-09",
                 "title": "2026-06-09 iNEST Daily Crawl",
@@ -48,14 +24,26 @@
                 "source": "Crawler"
             },
             {
-                "date": "2026-06-06",
-                "title": "GetNote_20260606_100554_kb_DARPA-research_getnote_1896236747756075200_重塑国防制造_DAR",
+                "date": "2026-06-12",
+                "title": "2026-06-12 iNEST Daily Crawl",
                 "direction": "iNEST",
                 "source": "Crawler"
             },
             {
-                "date": "2026-06-06",
-                "title": "GetNote_20260606_100554_kb_DARPA-research_getnote_1896236861572181168_美国DARPA四大关",
+                "date": "2026-06-13",
+                "title": "2026-06-13 iNEST Daily Crawl",
+                "direction": "iNEST",
+                "source": "Crawler"
+            },
+            {
+                "date": "2026-06-15",
+                "title": "2026-06-15 iNEST Daily Crawl",
+                "direction": "iNEST",
+                "source": "Crawler"
+            },
+            {
+                "date": "2026-06-16",
+                "title": "2026-06-16 iNEST Daily Crawl",
                 "direction": "iNEST",
                 "source": "Crawler"
             }
@@ -133,14 +121,19 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 5 commits pushed",
+            "text": "Gitee sync: 17 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
+        },
+        {
+            "text": "Inbox processing: 2 items to triage",
+            "dot": "ongoing",
+            "dim": "iNEST"
         }
     ],
     "today_plan": [
         {
-            "text": "Review 8 new papers from daily crawl -- classify TCC vs iNEST, extract key methods",
+            "text": "Review 6 new papers from daily crawl -- classify TCC vs iNEST, extract key methods",
             "dot": "plan",
             "dim": "iNEST"
         },
