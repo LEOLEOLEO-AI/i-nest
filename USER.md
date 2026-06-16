@@ -17,10 +17,11 @@
 
 - **TCC（Topology-Centric Computing，拓扑中心计算）**：新一代计算范式
 - **SDI（Software-Defined Interconnect，软件定义互连）**：元拓扑递归分形成为高阶复杂拓扑的化合键
-- **SDSoW（Software-Defined System on Wafer）**：大规模、高密度、可塑的物理连线资源
+- **iNEST(Intelligent Emerging from network  Temporal-spatial Synergy complexity)**：回归智能第一性，智能是涌现而不是算力堆砌出来的，是以网络而非节点为核心的，重点研究网络的时空协同复杂度如何涌现智能。
+  **SDSoW（Software-Defined System on Wafer）**：大规模、高密度、高纬度、动态可塑的物理连线网络，通过SDI支持液态结构计算与复杂网络涌现智能
 - SDI 既能形成复杂高阶拓扑网络，也能形成自演化的类神经物理网络
-- C.elegans 线虫神经网络的计算建模
-- Hemibrain / FlyEM 神经连接组数据验证
+-  以人工智能芯片、大语言模型等围绕网络所做的创新等来进行对比佐证TCC范式的增益
+- 以C.elegans 、Hemibrain / FlyEM 神经连接组数据验证为基础对理论研究和工程机制进行验证与仿真
 - 人工智能自我演化机制
 
 ## 战略三位一体

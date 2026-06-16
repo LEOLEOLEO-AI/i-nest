@@ -1,4 +1,4 @@
-﻿# TCC × iNEST 双轨研究平台
+# TCC × iNEST 双轨研究平台
 
 > **TCC = 拓扑中心计算** (Topological Center Computing)  
 > **iNEST = 智能涌现网络系统** (Intelligent Network Emergence Systems & Topology)  
