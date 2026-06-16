@@ -113,17 +113,37 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 18 commits pushed",
+            "text": "Gitee sync: 20 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
-        },
-        {
-            "text": "Inbox processing: 2 items to triage",
-            "dot": "ongoing",
-            "dim": "iNEST"
         }
     ],
     "today_plan": [
+        {
+            "text": "[资料] 导入参考文献: Graph Neural Networks Trained on Null Signal ",
+            "dot": "plan",
+            "dim": "TCC"
+        },
+        {
+            "text": "[资料] 导入参考文献: Upper Bounds on the Generalization Error of D",
+            "dot": "plan",
+            "dim": "TCC"
+        },
+        {
+            "text": "[资料] 导入参考文献: Upper Bounds on the Generalization Error of D",
+            "dot": "plan",
+            "dim": "iNEST"
+        },
+        {
+            "text": "[资料] 导入参考文献: Continuous Cross-Domain Traffic State Predict",
+            "dot": "plan",
+            "dim": "TCC"
+        },
+        {
+            "text": "[论文] [新方向] 液态计算与连续时间网络: TNODEV: Toolbox for Neural ODE Veri",
+            "dot": "plan",
+            "dim": "iNEST"
+        },
         {
             "text": "[论文] 推进撰写: Topology-Centric Computing: A Paradigm Shift ",
             "dot": "plan",
@@ -143,31 +163,6 @@
             "text": "[专利] 推进撰写: 一种基于网络拓扑不变量的分布式计算方法",
             "dot": "plan",
             "dim": "TCC"
-        },
-        {
-            "text": "[专利] 推进撰写: 专利组合详细方案（6项核心专利）",
-            "dot": "plan",
-            "dim": "iNEST"
-        },
-        {
-            "text": "[专利] 推进撰写: 一种基于自由能原理的自组织网络拓扑优化方法",
-            "dot": "plan",
-            "dim": "iNEST"
-        },
-        {
-            "text": "[白皮书] 持续更新: iNEST 复杂网络涌现智能技术白皮书",
-            "dot": "plan",
-            "dim": "iNEST"
-        },
-        {
-            "text": "[路线图] 持续更新: 研发路线图与里程碑规划 (Q3-Q4)",
-            "dot": "plan",
-            "dim": "iNEST"
-        },
-        {
-            "text": "[指南] 持续推进: [专著] 网络时空协同复杂度涌现智能（iNEST）",
-            "dot": "plan",
-            "dim": "iNEST"
         },
         {
             "text": "[同步] 三条主线进度对齐：论文/专利/指南",
