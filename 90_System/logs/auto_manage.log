@@ -2310,3 +2310,16 @@ warning: in the working copy of 'dashboard/research_intelligence.py', LF will be
 Inbox processing complete.
 
 Done!
+[main 1ae7863] auto: inbox processing 2026/06/17 鍛ㄤ笁  5:08:19.63
+ 1 file changed, 38 insertions(+)
+[2026/06/17 周三  5:08:19.70] Auto-management complete. 
+======================================== 
+[2026/06/17 周三  6:40:01.48] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
