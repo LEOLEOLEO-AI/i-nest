@@ -90,14 +90,6 @@
         {
             "name": "Firecrawl Web",
             "version": "0.3"
-        },
-        {
-            "name": "Better Call Claude",
-            "version": "1.0.0"
-        },
-        {
-            "name": "Karpathy Guidelines",
-            "version": "1.0.0"
         }
     ],
     "sync": {
@@ -121,7 +113,7 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 17 commits pushed",
+            "text": "Gitee sync: 18 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
         },
@@ -133,24 +125,59 @@
     ],
     "today_plan": [
         {
-            "text": "Review 6 new papers from daily crawl -- classify TCC vs iNEST, extract key methods",
+            "text": "[论文] 推进撰写: Topology-Centric Computing: A Paradigm Shift ",
+            "dot": "plan",
+            "dim": "TCC"
+        },
+        {
+            "text": "[论文] 推进撰写: iNEST: Complex Network Emergent Intelligence ",
             "dot": "plan",
             "dim": "iNEST"
         },
         {
-            "text": "Update knowledge graph with new bidirectional wiki links",
+            "text": "[论文] 推进撰写: Liquid Computing Chemistry: FEP-driven Self-o",
             "dot": "plan",
             "dim": "iNEST"
         },
         {
-            "text": "Sync knowledge base to Gitee for Genspark collaboration",
+            "text": "[专利] 推进撰写: 一种基于网络拓扑不变量的分布式计算方法",
+            "dot": "plan",
+            "dim": "TCC"
+        },
+        {
+            "text": "[专利] 推进撰写: 专利组合详细方案（6项核心专利）",
+            "dot": "plan",
+            "dim": "iNEST"
+        },
+        {
+            "text": "[专利] 推进撰写: 一种基于自由能原理的自组织网络拓扑优化方法",
+            "dot": "plan",
+            "dim": "iNEST"
+        },
+        {
+            "text": "[白皮书] 持续更新: iNEST 复杂网络涌现智能技术白皮书",
+            "dot": "plan",
+            "dim": "iNEST"
+        },
+        {
+            "text": "[路线图] 持续更新: 研发路线图与里程碑规划 (Q3-Q4)",
+            "dot": "plan",
+            "dim": "iNEST"
+        },
+        {
+            "text": "[指南] 持续推进: [专著] 网络时空协同复杂度涌现智能（iNEST）",
+            "dot": "plan",
+            "dim": "iNEST"
+        },
+        {
+            "text": "[同步] 三条主线进度对齐：论文/专利/指南",
             "dot": "plan",
             "dim": "TCC+iNEST"
         },
         {
-            "text": "Develop insight: Idea：ANN如何突破 $\\Gamma_{st} = 0$ 的数字天花板？",
+            "text": "[采集] 扫描昨日互联网+Get笔记，提取TCC/iNEST相关新研究",
             "dot": "plan",
-            "dim": "iNEST"
+            "dim": "TCC+iNEST"
         }
     ]
 }
