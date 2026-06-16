@@ -1,18 +1,33 @@
 ---
-title: getnote_2026-06-16_大脑临界性_健康脑功能的统一设定点假说__Neuron观点文章深度解析
-tags:
-  - neural
-  - top-journal
-  - research
-  - paper
-  - neuroscience
-  - physics
-  - first-principles
-  - network
-  - architecture
+category: Neuroscience
 date: 2026-06-16 15:49
-source: GetNotes
+entities:
+- 临界性
+- 近临界
+- 尺度不变性
+- 神经元雪崩
+- 内稳态
+processed: '2026-06-16T16:40:48.007674'
 score: 23
+source: GetNotes
+source_file: getnote_2026-06-16_getnote_2026-06-16_大脑临界性_健康脑功能的统一设定点假说__Neuron观点文章深度解析.md
+summary: 提出健康大脑活动维持在“近临界”状态，兼具稳定、灵活与可塑性的假说。
+tags:
+- architecture
+- 临界性
+- 脑功能
+- network
+- 内稳态
+- neuroscience
+- physics
+- 神经动力学
+- neural
+- research
+- 尺度不变性
+- top-journal
+- paper
+- first-principles
+title: getnote_2026-06-16_大脑临界性_健康脑功能的统一设定点假说__Neuron观点文章深度解析
 ---
 
 ## Original Note
