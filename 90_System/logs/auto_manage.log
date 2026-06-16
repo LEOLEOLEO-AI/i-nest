@@ -2272,3 +2272,41 @@ Done!
 Inbox processing complete.
 
 Done!
+warning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/notebook-navigator/manifest.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/obsidian-git/manifest.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/obsidian42-brat/main.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/obsidian42-brat/manifest.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/omnisearch/manifest.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'papers/TCC/From Compute to Complexity- A Physical Theory of Intelligence Emergence.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '专著/类脑智能的介观尺度复杂度阈值范式.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'dashboard/research_intelligence.py', LF will be replaced by CRLF the next time Git touches it
+[main 0d3dfef] auto: inbox processing 2026/06/17 周三  0:40:03.58
+ 27 files changed, 1651 insertions(+), 82840 deletions(-)
+ delete mode 100644 .obsidian/plugins/folderbridge/main.js
+ delete mode 100644 .obsidian/plugins/folderbridge/manifest.json
+ delete mode 100644 .obsidian/plugins/folderbridge/styles.css
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/00_TCC_INEST_\345\215\217\345\220\214\346\216\250\350\277\233\350\256\241\345\210\222_7\346\234\210\345\272\225\345\206\262\345\210\272_20260616.md"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/A1_CST_Theory_V28_SUBMISSION_READY.md"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/figures_cst/Fig1_CST_Framework.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/figures_cst/Fig2_CST_Validation.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/figures_cst/Fig3_Triple_Lock.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/figures_cst/Fig4_Hardware_Roadmap.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/figures_cst/Fig5_Intelligence_Efficiency.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/figures_cst/Fig6_Architectural_Evolution.png"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/\345\255\246\347\224\2371_\345\267\245\344\275\234\345\214\205_TCC_SDI\350\256\272\346\226\207.md"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/\345\255\246\347\224\2372_\345\267\245\344\275\234\345\214\205_CST_A1\350\256\272\346\226\207.md"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/\345\255\246\347\224\2373_\345\267\245\344\275\234\345\214\205_\344\270\223\345\210\251A_SDI\346\236\266\346\236\204.md"
+ create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/\345\255\246\347\224\2374_\345\267\245\344\275\234\345\214\205_\344\270\223\345\210\251B_\347\275\221\345\206\205\345\275\222\347\272\246.md"
+ create mode 100644 dashboard/research_intelligence.py
+[2026/06/17 ����  0:40:03.73] Auto-management complete. 
+======================================== 
+[2026/06/17 ����  3:15:35.50] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
