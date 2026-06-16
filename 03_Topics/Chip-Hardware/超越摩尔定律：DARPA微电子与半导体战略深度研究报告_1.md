@@ -1,15 +1,24 @@
 ---
-title: "超越摩尔定律：DARPA微电子与半导体战略深度研究报告"
-source: "https://mp.weixin.qq.com/s/bX88454ninIzdKayjtK2jA"
+category: Chip-Hardware
 created: 2025-12-17
-note_id: "1896186034929219112"
+entities:
+- DARPA
+- 3D异构集成
+note_id: '1896186034929219112'
+processed: '2026-06-16T14:48:21.648256'
+source: https://mp.weixin.qq.com/s/bX88454ninIzdKayjtK2jA
+source_file: 超越摩尔定律：DARPA微电子与半导体战略深度研究报告.md
+summary: 系统梳理DARPA微电子战略，聚焦3D异构集成等颠覆性技术重塑美国微电子霸权。
 tags:
-  - "AI链接笔记"
-  - "DARPA微电子战略"
-  - "3D异构集成"
-  - "电子复兴计划2.0"
-  - "get-笔记"
-  - "科技资讯"
+- 科技资讯
+- AI链接笔记
+- 微电子
+- DARPA微电子战略
+- 电子复兴计划2.0
+- get-笔记
+- 3D异构集成
+- DARPA
+title: 超越摩尔定律：DARPA微电子与半导体战略深度研究报告
 ---
 
 # 超越摩尔定律：DARPA微电子与半导体战略深度研究报告
