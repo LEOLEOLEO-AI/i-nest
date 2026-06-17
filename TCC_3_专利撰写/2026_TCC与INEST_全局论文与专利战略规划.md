@@ -27,11 +27,11 @@ tags:
 
 ### 领域一：TCC (拓扑中心计算 & 硬件架构)
 
-| 拟定题目 (Working Title) | 核心创新点 (Key Innovation) | 目标期刊/会议 | 状态/依赖 |
-| :--- | :--- | :--- | :--- |
-| **1. Network-Centric Computing: A Paradigm Shift via Software-Defined Interconnects**<br>*(拓扑中心计算：基于SDI的第三次计算范式迁移)* | **范式奠基论文**：首次提出并证明大模型时代的“通信墙”需通过物理拓扑的重构来解决。将AllReduce等操作分解为网络原语，证明高复杂度网络×极简节点的相对智能指数优势。 | Nature Electronics / IEEE JSSC | 概念框架已成型 `[[SDI-CC论文框架_拓扑即计算新范式]]` |
-| **2. Optimal High-Dimensional Topology for Wafer-Scale LLM Inference: A Switch-Centric Approach**<br>*(面向晶圆级LLM推理的最优高维拓扑：一种交换中心架构)* | **晶圆级拓扑设计**：针对Wafer-Scale（如Sohu、Groq、Tesla Dojo）存在的“互连扩展墙”，提出一种无HBM情况下的高维最优扇出拓扑与路由算法，大幅提升Token生成率。 | ISCA / MICRO (CCF-A) | 需拓扑仿真实验（Traffic Simulation）支撑 |
-| **3. In-Network Binarized Neural Networks via Lookup-Table Optimization on FPGA NICs**<br>*(基于查找表优化的网内二值化神经网络)* | **网内计算落地**：利用FPGA SmartNIC或SDI交换机，将二值化神经网络的乘加操作转化为查找表（LUT）查表，实现极低延迟的网内AI推理加速。 | IEEE/ACM IWQoS (已接收) | **已达成** `近期成果展示_基于查找表优化的网内二值化神经网络` |
+| 拟定题目 (Working Title)                                                                                                                | 核心创新点 (Key Innovation)                                                                             | 目标期刊/会议                        | 状态/依赖                              |
+| :---------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :----------------------------- | :--------------------------------- |
+| **1. Network-Centric Computing: A Paradigm Shift via Software-Defined Interconnects**<br>*(拓扑中心计算：基于SDI的第三次计算范式迁移)*                 | **范式奠基论文**：首次提出并证明大模型时代的“通信墙”需通过物理拓扑的重构来解决。将AllReduce等操作分解为网络原语，证明高复杂度网络×极简节点的相对智能指数优势。            | Nature Electronics / IEEE JSSC | 概念框架已成型 `[[SDI-CC论文框架_拓扑即计算新范式]]`  |
+| **2. Optimal High-Dimensional Topology for Wafer-Scale LLM Inference: A Switch-Centric Approach**<br>*(面向晶圆级LLM推理的最优高维拓扑：一种交换中心架构)* | **晶圆级拓扑设计**：针对Wafer-Scale（如Sohu、Groq、Tesla Dojo）存在的“互连扩展墙”，提出一种无HBM情况下的高维最优扇出拓扑与路由算法，大幅提升Token生成率。 | ISCA / MICRO (CCF-A)           | 需拓扑仿真实验（Traffic Simulation）支撑      |
+| **3. In-Network Binarized Neural Networks via Lookup-Table Optimization on FPGA NICs**<br>*(基于查找表优化的网内二值化神经网络)*                     | **网内计算落地**：利用FPGA SmartNIC或SDI交换机，将二值化神经网络的乘加操作转化为查找表（LUT）查表，实现极低延迟的网内AI推理加速。                      | IEEE/ACM IWQoS (已接收)           | **已达成** `近期成果展示_基于查找表优化的网内二值化神经网络` |
 
 ### 领域二：INEST (复杂网络与智能涌现)
 

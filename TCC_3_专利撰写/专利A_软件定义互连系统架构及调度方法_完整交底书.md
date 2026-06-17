@@ -1,4 +1,4 @@
-﻿---
+---
 type: patent-disclosure
 status: 完整交底书-v2
 priority: P0
