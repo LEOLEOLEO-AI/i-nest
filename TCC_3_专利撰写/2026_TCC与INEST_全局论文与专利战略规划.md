@@ -18,18 +18,18 @@ tags:
 ---
 
 ## 核心理论基座 (The Theoretical Core)
-1. **网络中心计算 (TCC)**：计算不再以端节点（CPU/GPU）为核心，而是通过软件定义互连（SDI）将“线性代数路由操作（Route & Transform）”推向互连拓扑本身。
+1. **拓扑中心计算 (TCC)**：计算不再以端节点（CPU/GPU）为核心，而是通过软件定义互连（SDI）将“线性代数路由操作（Route & Transform）”推向互连拓扑本身。
 2. **复杂网络涌现智能 (INEST)**：智能不是硬编码的参数堆砌，而是系统在能量约束下，通过网络拓扑的空间复杂度（Spatial Complexity）与动态放电的时间复杂度（Temporal Complexity）的协同（CST），在自组织临界态（SOC）附近自然涌现的副产品。
 
 ---
 
 ## 一、 顶刊 / 顶会论文规划列表 (Paper Pipeline)
 
-### 领域一：TCC (网络中心计算 & 硬件架构)
+### 领域一：TCC (拓扑中心计算 & 硬件架构)
 
 | 拟定题目 (Working Title) | 核心创新点 (Key Innovation) | 目标期刊/会议 | 状态/依赖 |
 | :--- | :--- | :--- | :--- |
-| **1. Network-Centric Computing: A Paradigm Shift via Software-Defined Interconnects**<br>*(网络中心计算：基于SDI的第三次计算范式迁移)* | **范式奠基论文**：首次提出并证明大模型时代的“通信墙”需通过物理拓扑的重构来解决。将AllReduce等操作分解为网络原语，证明高复杂度网络×极简节点的相对智能指数优势。 | Nature Electronics / IEEE JSSC | 概念框架已成型 `[[SDI-CC论文框架_拓扑即计算新范式]]` |
+| **1. Network-Centric Computing: A Paradigm Shift via Software-Defined Interconnects**<br>*(拓扑中心计算：基于SDI的第三次计算范式迁移)* | **范式奠基论文**：首次提出并证明大模型时代的“通信墙”需通过物理拓扑的重构来解决。将AllReduce等操作分解为网络原语，证明高复杂度网络×极简节点的相对智能指数优势。 | Nature Electronics / IEEE JSSC | 概念框架已成型 `[[SDI-CC论文框架_拓扑即计算新范式]]` |
 | **2. Optimal High-Dimensional Topology for Wafer-Scale LLM Inference: A Switch-Centric Approach**<br>*(面向晶圆级LLM推理的最优高维拓扑：一种交换中心架构)* | **晶圆级拓扑设计**：针对Wafer-Scale（如Sohu、Groq、Tesla Dojo）存在的“互连扩展墙”，提出一种无HBM情况下的高维最优扇出拓扑与路由算法，大幅提升Token生成率。 | ISCA / MICRO (CCF-A) | 需拓扑仿真实验（Traffic Simulation）支撑 |
 | **3. In-Network Binarized Neural Networks via Lookup-Table Optimization on FPGA NICs**<br>*(基于查找表优化的网内二值化神经网络)* | **网内计算落地**：利用FPGA SmartNIC或SDI交换机，将二值化神经网络的乘加操作转化为查找表（LUT）查表，实现极低延迟的网内AI推理加速。 | IEEE/ACM IWQoS (已接收) | **已达成** `近期成果展示_基于查找表优化的网内二值化神经网络` |
 
@@ -48,7 +48,7 @@ tags:
 针对大模型计算瓶颈、晶圆级互连、神经形态硬件，建立防守与进攻并重的专利池。
 
 ### 1. 架构与拓扑类 (Architecture & Topology)
-- **专利1：一种支持网络中心计算的软件定义互连（SDI）系统架构及调度方法**
+- **专利1：一种支持拓扑中心计算的软件定义互连（SDI）系统架构及调度方法**
   - *核心Claim*：包含纯计算内核、通信原语核及液态重构控制器，在微秒级重组网络拓扑以卸载CPU/GPU集群中集合通信（AllReduce等）的硬件架构。
 - **专利2：面向晶圆级大模型推理的高维最优扇出互连拓扑结构**
   - *核心Claim*：一种无需HBM的大规模SRAM片上/片间互连网络物理布局方法，通过特定维度的跳线设计降低最坏情况下的通信延迟。

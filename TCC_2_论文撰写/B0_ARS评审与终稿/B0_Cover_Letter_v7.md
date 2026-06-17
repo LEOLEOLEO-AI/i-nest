@@ -31,7 +31,7 @@ The special issue calls for research addressing the sustainability of intelligen
 
 ## Author Information
 
-- **Corresponding author:** Qinrang Liu, Tianjin University, qinrangliu@gmail.com
+- **Corresponding author:** Qinrang Liu, Tianjin University, qinrangliu@fudan.edu.cn
 - **Co-authors:** Including [Academician 1] and [Academician 2]
 - **Institution:** TCC iNEST Research Group
 
@@ -47,7 +47,7 @@ Respectfully,
 
 Qinrang Liu (on behalf of all authors)
 School of Microelectronics, Tianjin University
-qinrangliu@gmail.com
+qinrangliu@fudan.edu.cn
 
 ---
 *Submission package: B0_Engineering_v7_FINAL.md + 3 figures + this cover letter*

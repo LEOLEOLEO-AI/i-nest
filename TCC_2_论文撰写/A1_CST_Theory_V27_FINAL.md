@@ -12,7 +12,7 @@ Qinrang Liu (鍒樺嫟璁?鹿*
 
 鹿 
 
-\* Correspondence: qinrangliu@gmail.com
+\* Correspondence: qinrangliu@fudan.edu.cn
 
 Draft Date: March 2026 | v27-FINAL | June 6, 2026 | 40-system validated | + Cross-species SDI sigma scan + DVS temporal validation + Sensorimotor loop | data provenance audited
 

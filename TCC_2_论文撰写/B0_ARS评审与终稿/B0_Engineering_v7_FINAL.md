@@ -13,7 +13,7 @@ Qinrang Liu (刘勤让)<sup>1,*</sup>, [Academician 1]<sup>2</sup>, [Academician
 
 <sup>1</sup> School of Microelectronics, Tianjin University, Tianjin 300072, China  
 <sup>2</sup> [Institution], [Address]  
-<sup>*</sup> Corresponding author. E-mail: qinrangliu@gmail.com
+<sup>*</sup> Corresponding author. E-mail: qinrangliu@fudan.edu.cn
 
 **Version:** v7 (Final Submission) | **Article type:** Review | **Target:** *Engineering* — Special Issue on Sustainable Intelligent Computing — Special Issue on Sustainable Intelligent Computing | **Word budget:** ≤10,000
 
@@ -49,9 +49,9 @@ The paper concludes by situating this migration within the context of sustainabl
 
 冯·诺依曼架构以处理器为中心主导计算近八十年。然而，多源经验证据汇聚于一个不可回避的事实：在现代人工智能工作负载中，计算仅占能耗的约10%，而数据移动消耗了剩余的约90%。随着Dennard缩放定律在2006年前后失效以及DRAM能效改进陷入停滞，这一比例在过去三十年间持续恶化。
 
-本文提出一个第一性原理命题：任何计算过程均可通过弱耦合分解为两类原语——算子与数据移动，而数据移动构成根本瓶颈。通过对通用计算、智能计算、高性能计算和信号处理四大场景的系统分析，本文确立了四项发现。第一，硬件原子算子跨所有场景收敛于不超过十个原语；所有高阶数学可通过Weierstrass逼近和CORDIC方法归约，使得算子优化不再值得继续投入。第二，数据移动模式可通过十一个跨域元原语及代价模型形式化，使移动优化转化为可编译问题。第三，软件定义互连（SDI）提供了一种将路由从设计时固定提升至运行时可编程的机制，并具有可形式化表征的收益阈值条件。第四，液态统一架构将标准化算子、数据移动元原语和SDI结构集成于单一可重构框架，实现了从节点中心到网络中心的范式迁移。
+本文提出一个第一性原理命题：任何计算过程均可通过弱耦合分解为两类原语——算子与数据移动，而数据移动构成根本瓶颈。通过对通用计算、智能计算、高性能计算和信号处理四大场景的系统分析，本文确立了四项发现。第一，硬件原子算子跨所有场景收敛于不超过十个原语；所有高阶数学可通过Weierstrass逼近和CORDIC方法归约，使得算子优化不再值得继续投入。第二，数据移动模式可通过十一个跨域元原语及代价模型形式化，使移动优化转化为可编译问题。第三，软件定义互连（SDI）提供了一种将·由从设计时固定提升至运行时可编程的机制，并具有可形式化表征的收益阈值条件。第四，液态统一架构将标准化算子、数据移动元原语和SDI结构集成于单一可重构框架，实现了从节点中心到网络中心的范式迁移。
 
-本文最后将该迁移置于可持续智能计算的背景下，提出五个可实证检验的研究议程。前进之路不在于更快的处理器，而在于更智能的互连结构——直接攻击90%的瓶颈，而非在10%上继续迭代。
+本文最后将该迁移置于可持续智能计算的背景下，提出五个可实证检验的研究议程。前进之·不在于更快的处理器，而在于更智能的互连结构——直接攻击90%的瓶颈，而非在10%上继续迭代。
 
 ---
 
@@ -140,7 +140,7 @@ For the SPEC CPU 2017 benchmark suite, measured on an Intel Xeon Platinum 8280 (
 
 The categorical lesson is that **data movement through the memory hierarchy** (L1 + L2 + L3 + DRAM) accounts for 60–7% of total energy. The actual arithmetic — what the programmer thinks of as "computation" — is a minority contributor. Furthermore, the L3 cache and ring interconnect, which exist solely to move data between cores and cache slices, themselves rival the execution units in energy consumption.
 
-Prefetching and out-of-order execution, while improving throughput, exacerbate this imbalance: speculative instructions fetch data that may never be used, increasing data movement without corresponding useful arithmetic. As process nodes shrink, wire delays within the cache hierarchy become increasingly dominant relative to gate delays. Quantitatively, the data-movement energy fraction ρ_cpu = 0.73 卤 0.14 (mean 卤 range across SPEC CPU 2017 benchmarks), and the trend over process nodes from 22 nm to 5 nm shows a monotonic increase of approximately 2.5 percentage points per node, suggesting that the fraction of energy spent on movement will continue to rise.
+Prefetching and out-of-order execution, while improving throughput, exacerbate this imbalance: speculative instructions fetch data that may never be used, increasing data movement without corresponding useful arithmetic. As process nodes shrink, wire delays within the cache hierarchy become increasingly dominant relative to gate delays. Quantitatively, the data-movement energy fraction ρ_cpu = 0.73 ± 0.14 (mean ± range across SPEC CPU 2017 benchmarks), and the trend over process nodes from 22 nm to 5 nm shows a monotonic increase of approximately 2.5 percentage points per node, suggesting that the fraction of energy spent on movement will continue to rise.
 
 ### 3.2 Intelligent Computing: The AllReduce Bottleneck
 
@@ -158,7 +158,7 @@ Consider GPT-3-scale training (175B parameters) distributed across 1,024 NVIDIA 
 
 The communication fraction (AllReduce + AllGather + bubbles) is 30–0%, consistent across independent measurements [9,10,11]. Even with NVLink providing 600 GB/s GPU-to-GPU bandwidth and InfiniBand HDR at 200 Gb/s, the sheer volume of gradient data –175B parameters × 2— 2 bytes per parameter (mixed precision) × 2 (forward + backward) ≤11— 2 TB per iteration — saturates available bandwidth.
 
-For inference workloads, the energy profile differs but the communication dominance persists. In a typical serving deployment of Llama 2-70B across 8 GPUs with tensor parallelism, the AllReduce communication for attention head outputs and MLP activations accounts for 25–0% of per-token latency [19]. Quantitatively, for GPT-3-scale training, the communication fraction is ρ_ai_train = 0.40 卤 0.10, and for LLM inference serving is ρ_ai_infer = 0.33 卤 0.08, with both values measured across independent studies [9,10,11,19]. This is why inference serving systems increasingly adopt techniques such as quantization (reducing data volume), speculative decoding (reducing token count), and sequence parallelism (restructuring communication patterns).
+For inference workloads, the energy profile differs but the communication dominance persists. In a typical serving deployment of Llama 2-70B across 8 GPUs with tensor parallelism, the AllReduce communication for attention head outputs and MLP activations accounts for 25–0% of per-token latency [19]. Quantitatively, for GPT-3-scale training, the communication fraction is ρ_ai_train = 0.40 ± 0.10, and for LLM inference serving is ρ_ai_infer = 0.33 ± 0.08, with both values measured across independent studies [9,10,11,19]. This is why inference serving systems increasingly adopt techniques such as quantization (reducing data volume), speculative decoding (reducing token count), and sequence parallelism (restructuring communication patterns).
 
 ### 3.3 High-Performance Computing: The MPI Wall
 
@@ -175,7 +175,7 @@ The DOE Exascale Computing Project profiled communication energy across represen
 | Nekbone (spectral element) | 28–8% |
 | CloverLeaf (hydrodynamics) | 18–5% |
 
-The variation reflects the computation-to-communication ratio of each algorithm, but even the most compute-intensive mini-app (CloverLeaf) spends nearly one-fifth of its energy on data movement. Quantitatively, across the DOE ECP mini-app suite, ρ_hpc = 0.46 卤 0.16 (mean 卤 std dev), with ρ reaching 0.97 for bandwidth-starved workloads such as HPCG. The fundamental issue is that HPC interconnects — InfiniBand, Cray Slingshot, Tofu — were designed for bulk-synchronous bulk transfers (MPI_Send/Recv), whereas modern algorithms increasingly require fine-grained, topology-aware communication that these fabrics cannot efficiently support.
+The variation reflects the computation-to-communication ratio of each algorithm, but even the most compute-intensive mini-app (CloverLeaf) spends nearly one-fifth of its energy on data movement. Quantitatively, across the DOE ECP mini-app suite, ρ_hpc = 0.46 ± 0.16 (mean ± std dev), with ρ reaching 0.97 for bandwidth-starved workloads such as HPCG. The fundamental issue is that HPC interconnects — InfiniBand, Cray Slingshot, Tofu — were designed for bulk-synchronous bulk transfers (MPI_Send/Recv), whereas modern algorithms increasingly require fine-grained, topology-aware communication that these fabrics cannot efficiently support.
 
 ### 3.4 Signal Processing: The Streaming Dataflow Irony
 
@@ -200,7 +200,7 @@ Strikingly, **block RAM accesses and interconnect DMA together consume 64% of fr
 </p>
 <p align="center"><b>Fig. 2.</b> Data movement energy fractions (ρ) across four computing scenarios. Stacked bars show data movement vs. computation energy. The dashed line at ρ = 0.5 demarcates the crossover point beyond which data movement dominates total energy. / 鍥涚璁＄畻鍦烘櫙涓嬬殑鏁版嵁绉诲姩鑳借€楀崰姣斿彲瑙嗗寲</p>
 
-**Summary of Evidence:** Across the four scenarios, the weighted-mean data movement fraction is ρ? = 0.61 卤 0.18 (mean 卤 std dev, n = 4 scenarios, weighted by deployment scale).
+**Summary of Evidence:** Across the four scenarios, the weighted-mean data movement fraction is ρ? = 0.61 ± 0.18 (mean ± std dev, n = 4 scenarios, weighted by deployment scale).
 
 Table 1 summarizes the data-movement energy fraction across all four scenarios, drawing from the empirical evidence presented above.
 
@@ -242,7 +242,7 @@ The theoretical foundation for this convergence is the **Weierstrass approximati
 
 The consequence is that, for any differentiable computational graph, the numerical error ε of approximating an arbitrary operator O by a composition of at most k atomic primitives satisfies:
 
-&epsilon;(k) ≤1C 路 2^(?k/B)
+&epsilon;(k) ≤1C · 2^(?k/B)
 
 where C is a constant depending on the smoothness of O and B is the bit-width of intermediate representation. This exponential convergence means that k is typically small (k ≤18 for FP32 precision) and that increasing k beyond a certain threshold yields sub-ULP (unit in the last place) improvements — improvements invisible at the application level.
 
