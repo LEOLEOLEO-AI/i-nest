@@ -15,7 +15,7 @@ tags:
 > *Complete Physical Topology Mapping for Collective Communication Primitives: A CST-Optimal Framework for Network-Centric Computing*
 
 **中文题目**：
-> 集合通信原语物理拓扑完备映射：面向网络中心计算的CST最优框架
+> 集合通信原语物理拓扑完备映射：面向拓扑中心计算的CST最优框架
 
 **课题组**：天津大学 iNEST / 刘勤让  
 **创建日期**：2026-03-27  
@@ -478,7 +478,7 @@ PTM-Algorithm(primitive_type, N, d, constraints):
 
 ## 十一、结论
 
-本文建立了集合通信六类原语与物理网络拓扑之间的完备解析映射体系，证明了每类原语存在 CST 最优拓扑，提出了 PTM 映射算法，并发现并证明了 FFT-AllReduce 图同构定理。这一工作为 SDI 化合键集合通信（SDI-CC）提供了完整的理论基础，同时揭示了网络中心计算（TCC）范式在 AI 训练、HPC 科学计算和信号处理三大应用域的统一覆盖能力。
+本文建立了集合通信六类原语与物理网络拓扑之间的完备解析映射体系，证明了每类原语存在 CST 最优拓扑，提出了 PTM 映射算法，并发现并证明了 FFT-AllReduce 图同构定理。这一工作为 SDI 化合键集合通信（SDI-CC）提供了完整的理论基础，同时揭示了拓扑中心计算（TCC）范式在 AI 训练、HPC 科学计算和信号处理三大应用域的统一覆盖能力。
 
 ---
 

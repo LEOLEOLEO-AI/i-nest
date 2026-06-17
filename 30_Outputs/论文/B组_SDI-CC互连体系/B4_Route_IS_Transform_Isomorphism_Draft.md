@@ -38,7 +38,7 @@
 ### 定理4（能效定理）
 Route-Transform 融合消除了数据搬运能耗的理论下界。
 - 传统下界：$E_{\text{move}} \geq N_{\text{hops}} \times E_{\text{per-hop}} \times D_{\text{volume}}$
-- NCC 下界（归约因子 $k$）：$E_{\text{NCC}} \leq \frac{E_{\text{move}}}{k} + E_{\text{transform}} \ll E_{\text{move}} + E_{\text{transform}}$
+- TCC 下界（归约因子 $k$）：$E_{\text{TCC}} \leq \frac{E_{\text{move}}}{k} + E_{\text{transform}} \ll E_{\text{move}} + E_{\text{transform}}$
 - **定量估算**：对于 AllReduce，$k = N$，通信量降至 $O(D)$。WSE-3 级别 900K 核理论能效提升约 $10^5$ 倍。
 
 ## 4. 论文结构设计 (~20页)
@@ -50,7 +50,7 @@ Route-Transform 融合消除了数据搬运能耗的理论下界。
 6. **Energy Implications** (2页)：定理4能效分析与 Horowitz 2014 数据对比。
 7. **Hardware Realization: SDI** (2页)：物理重构可行性分析，与 SHARP/WSE 的本质区别。
 8. **Case Studies** (2页)：Gemma 4 E2B 推理、FFT、视频检测 Tree 拓扑映射。
-9. **Discussion & Future Work** (1页)：对体系结构的范式意义，晶圆级 NCC 愿景。
+9. **Discussion & Future Work** (1页)：对体系结构的范式意义，晶圆级 TCC 愿景。
 
 ## 5. 杀手级图表：同构对照表
 

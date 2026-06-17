@@ -28,7 +28,7 @@ date: 2026-06-16
 
 | 文件 | 路径 |
 |------|------|
-| 📄 **主论文** | `TCC_2_论文撰写/TCC_Software_Defined_Interconnect_网络中心计算范式.md` |
+| 📄 **主论文** | `TCC_2_论文撰写/TCC_Software_Defined_Interconnect_拓扑中心计算范式.md` |
 | 🖼️ **配图1** | `TCC_2_论文撰写/figures/Fig1_Energy_Fractions.png` |
 | 🖼️ **配图2** | `TCC_2_论文撰写/figures/Fig2_Operator_Convergence.png` |
 | 🖼️ **配图3** | `TCC_2_论文撰写/figures/Fig3_Liquid_Architecture_v2.png` |
