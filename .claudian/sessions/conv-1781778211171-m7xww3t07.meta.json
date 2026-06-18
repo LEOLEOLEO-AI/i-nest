@@ -4,8 +4,8 @@
   "title": "这个项目的可行性存在什么问题？",
   "titleGenerationStatus": "failed",
   "createdAt": 1781778211171,
-  "updatedAt": 1781778415843,
-  "lastResponseAt": 1781778415843,
+  "updatedAt": 1781782517300,
+  "lastResponseAt": 1781782517300,
   "sessionId": "019eda42-0e98-7171-b50d-6dc370f08be7",
   "providerState": {
     "threadId": "019eda42-0e98-7171-b50d-6dc370f08be7",
@@ -14,13 +14,13 @@
   },
   "currentNote": "iNEST_1_项目策划/[V1] 海河实验室_项目申报书_NPC_CPC_SDI.md",
   "usage": {
-    "inputTokens": 3788,
+    "inputTokens": 560,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 35840,
+    "cacheReadInputTokens": 94208,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 3788,
-    "percentage": 1,
+    "contextTokens": 560,
+    "percentage": 0,
     "model": "deepseek-ai/DeepSeek-V4-Pro"
   }
 }
