@@ -124,7 +124,7 @@
             "dim": "iNEST"
         },
         {
-            "text": "Gitee sync: 16 commits pushed",
+            "text": "Gitee sync: 18 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
         },
@@ -136,11 +136,6 @@
     ],
     "today_plan": [
         {
-            "text": "[资料] 导入参考文献: Algorithm–hardware co-design of neuromorphic ",
-            "dot": "plan",
-            "dim": "TCC"
-        },
-        {
             "text": "[资料] 导入参考文献: SSH-Net: A Deep Neural Network for Predicting",
             "dot": "plan",
             "dim": "TCC"
@@ -151,14 +146,19 @@
             "dim": "iNEST"
         },
         {
+            "text": "[资料] 导入参考文献: Continuous Cross-Domain Traffic State Predict",
+            "dot": "plan",
+            "dim": "TCC"
+        },
+        {
             "text": "[资料] 导入参考文献: Graph Neural Networks Trained on Null Signal ",
             "dot": "plan",
             "dim": "TCC"
         },
         {
-            "text": "[论文] [新方向] 物理神经计算与新型硬件: Algorithm–hardware co-design of neu",
+            "text": "[论文] [新方向] 分布式智能与群体涌现: Formal Verification of Learned Mult",
             "dot": "plan",
-            "dim": "iNEST"
+            "dim": "TCC"
         },
         {
             "text": "[论文] 推进撰写: Topology-Centric Computing: A Paradigm Shift ",
