@@ -1,4 +1,4 @@
-﻿---
+---
 title: 海河实验室2026年度重大专项正式项目申报书（V3·TCC战略版）
 tags:
   - brain
@@ -18,6 +18,7 @@ tags:
   - LiquidHardware
   - StrategicProposal
   - TCC-11
+last_revised: 2026-06-19
 ---
 
 **项目名称：面向拓扑中心计算（TCC）范式的液态硬件FPGA原型验证平台——海河实验室软件定义晶上系统（SDSoW）先导项目**
