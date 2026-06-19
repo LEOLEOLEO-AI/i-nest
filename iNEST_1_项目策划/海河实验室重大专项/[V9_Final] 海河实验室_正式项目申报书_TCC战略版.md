@@ -1,4 +1,4 @@
-﻿
+
 ---
 title: 海河实验室2026年度重大专项正式项目申报书（V9·Final）
 tags:
@@ -123,16 +123,16 @@ $$\mathcal{C} = \mathcal{T}_k \circ \mathcal{R}_k \circ \cdots \circ \mathcal{T}
 
 **"杀手级图表"——8对Route-Transform同构映射**：
 
-| 变换操作 (Transform) | 路由操作 (Route) | 同构类型 | 共享拓扑 |
-|---------------------|-----------------|---------|---------|
-| FFT蝶形运算 | AllReduce（维度有序） | 图同构 $\mathcal{B}_k \cong \mathcal{A}_k$ | Butterfly |
-| 矩阵转置 | AlltoAll | 置换同构 | Crossbar |
-| 前缀和 | Scan（前缀归约） | 操作同构 | Binary Tree |
-| Reduce（树形归约） | Reduce（树形通信） | 恒等映射（完全相同！） | Tree |
-| 卷积滑窗 | Shift + Overlap通信 | 循环同构 | Ring/Torus |
-| 注意力QK^T | AllGather(K) + 本地GEMM | 功能分解 | Star→Local |
-| 排序网络 | Butterfly通信 | 图同构 | Butterfly |
-| 稀疏矩阵×向量 | Scatter/Gather | 邻接同构 | 原始图拓扑 |
+| 变换操作 (Transform) | 路由操作 (Route)          | 同构类型                                    | 共享拓扑        |
+| ---------------- | --------------------- | --------------------------------------- | ----------- |
+| FFT蝶形运算          | AllReduce（维度有序）       | 图同构 $\mathcal{B}_k \cong \mathcal{A}_k$ | Butterfly   |
+| 矩阵转置             | AlltoAll              | 置换同构                                    | Crossbar    |
+| 前缀和              | Scan（前缀归约）            | 操作同构                                    | Binary Tree |
+| Reduce（树形归约）     | Reduce（树形通信）          | 恒等映射（完全相同！）                             | Tree        |
+| 卷积滑窗             | Shift + Overlap通信     | 循环同构                                    | Ring/Torus  |
+| 注意力QK^T          | AllGather(K) + 本地GEMM | 功能分解                                    | Star→Local  |
+| 排序网络             | Butterfly通信           | 图同构                                     | Butterfly   |
+| 稀疏矩阵×向量          | Scatter/Gather        | 邻接同构                                    | 原始图拓扑       |
 
 **这张表的震撼之处**：我们以为截然不同的"计算"与"通信"，在拓扑层面竟然是同一件事。
 
