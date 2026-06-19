@@ -2920,3 +2920,47 @@ warning: in the working copy of 'simulation/v30_scale_emergence.py', LF will be 
 Inbox processing complete.
 
 Done!
+warning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/obsidian-git/obsidian_askpass.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '00_KnowledgeBase_知识库/03_Inbox_文献与碎片/面向芯粒异构集成的SDIO-N轻量化互连协议开源设计与FPGA验证.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Inbox/待分类/00-索引/Wiki/Home.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST-Home.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_1_项目策划/海河实验室重大专项/[V9_Final] 海河实验室_正式项目申报书_TCC战略版.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/homepage/main.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/homepage/manifest.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.obsidian/plugins/homepage/styles.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Home.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Tasks Plugin - Review and check your Statuses 2026-06-19 22-20-47.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'iNEST_RnD_SuperFlow_v3.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/_upd_dash.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/_update_dashboard_data.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/reports/Large_Dataset_Index.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/reports/V31_C.elegans_SC_FC_Coupling.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/reports/V31_C.elegans_SC_FC_Real.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/v31_sc_fc_coupling.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/v31_sc_fc_real.py', LF will be replaced by CRLF the next time Git touches it
+[main 21d5a19] auto: inbox processing 2026/06/19 周五 22:40:13.58
+ 28 files changed, 2153 insertions(+), 792 deletions(-)
+ create mode 100644 .obsidian/plugins/homepage/main.js
+ create mode 100644 .obsidian/plugins/homepage/manifest.json
+ create mode 100644 .obsidian/plugins/homepage/styles.css
+ delete mode 100644 .obsidian/plugins/obsidian-excalidraw-plugin/main.js
+ delete mode 100644 .obsidian/plugins/obsidian-excalidraw-plugin/manifest.json
+ delete mode 100644 .obsidian/plugins/obsidian-excalidraw-plugin/styles.css
+ delete mode 100644 .obsidian/plugins/obsidian-importer/main.js
+ delete mode 100644 .obsidian/plugins/obsidian-importer/manifest.json
+ delete mode 100644 .obsidian/plugins/obsidian-importer/styles.css
+ delete mode 100644 .obsidian/plugins/periodic-notes/manifest.json
+ create mode 100644 "00_Inbox/2026-06-19_Codex + \345\276\256\344\277\241 Skills\357\274\232SKILL \346\230\257 AI \346\227\266\344\273\243\347\232\204\345\256\230\347\275\221.md"
+ create mode 100644 Home.md
+ create mode 100644 Tasks Plugin - Review and check your Statuses 2026-06-19 22-20-47.md
+ create mode 100644 iNEST_RnD_SuperFlow_v3.md
+ create mode 100644 simulation/_upd_dash.py
+ create mode 100644 simulation/_update_dashboard_data.py
+ create mode 100644 simulation/data/v31_results/v31_results.json
+ create mode 100644 simulation/reports/Large_Dataset_Index.md
+ create mode 100644 simulation/reports/V31_C.elegans_SC_FC_Coupling.md
+ create mode 100644 simulation/reports/V31_C.elegans_SC_FC_Real.md
+ create mode 100644 simulation/v31_sc_fc_coupling.py
+ create mode 100644 simulation/v31_sc_fc_real.py
+[2026/06/19 ���� 22:40:14.15] Auto-management complete. 

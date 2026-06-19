@@ -1,4 +1,4 @@
-﻿# B0 Pipeline Run — STATUS
+# B0 Pipeline Run — STATUS
 
 | Stage | Status | Started | Completed |
 |---|---|---|---|
