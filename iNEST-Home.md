@@ -1,106 +1,128 @@
----
-cssclass: dashboard
-tags: [dashboard, home]
-updated: 2026-05-30 14:48
----
+﻿# 🏠 TCC + iNEST 研发中枢
 
-# 🧠 iNEST 研究仪表盘
-
-> 更新: 2026-05-30 14:48 | [[iNEST_灵感池/|灵感池]] | [[iNEST_4_工程开发/看板|工程看板]] | [[iNEST_1_项目策划/路线图|路线图]]
+> 最后更新：2026-06-19 | [研发看板](http://127.0.0.1:8900/home/work/.openclaw/workspace/dashboard/index.html) | [投资演示](http://127.0.0.1:8900/home/work/.openclaw/workspace/dashboard/investor/index.html) | [超级流水线](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_RnD_SuperFlow_v3.md)
 
 ---
 
-## 📚 今日文献 (2026-05-30)
+## ⚡ 快速命令
 
-- 💡 [[iNEST_灵感池/2026-05-30_Self-organized criticality in cortical assemblies occurs in concurrent scale-free and small-world ne.md|Self-organized criticality in cortical assemblies occurs in ]] → **criticality/topology**
-- 💡 [[iNEST_灵感池/2026-05-30_Error and attack tolerance of complex networks.md|Error and attack tolerance of complex networks]] → **复杂网络拓扑与计算**
-- 💡 [[iNEST_灵感池/2026-05-30_Complex networks small-world scale-free and beyond.md|Complex networks: small-world, scale-free and beyond]] → **复杂网络拓扑与计算**
-- 💡 [[iNEST_灵感池/2026-05-30_Complex networks Structure and dynamics.md|Complex networks: Structure and dynamics]] → **复杂网络拓扑与计算**
-- 💡 [[iNEST_灵感池/2026-05-30_Exploring complex networks.md|Exploring complex networks]] → **复杂网络拓扑与计算**
-- 💡 [[iNEST_灵感池/2026-05-30_The Structure and Function of Complex Networks.md|The Structure and Function of Complex Networks]] → **复杂网络拓扑与计算**
-- 💡 [[iNEST_灵感池/2026-05-30_Error and attack tolerance of complex networks.md|Error and attack tolerance of complex networks]] → **复杂网络拓扑与计算**
-
-
----
-
-## 💡 灵感池概览
-
-> 近期 9 条灵感，按线程分布：
-
-- **复杂网络拓扑与计算**: 7 条
-- **criticality/topology**: 2 条
-
+| 命令 | 说明 |
+|---|---|
+| `powershell scripts/startup_sync.ps1` | 🔄 Gitee 版本同步 + 流水线 |
+| `python scripts/update_dashboard.py` | 📊 更新研发看板数据 |
+| `powershell scripts/iNEST_pipeline.ps1` | 🧪 运行 L1-L6 六层流水线 |
+| `python scripts/quality_gate.py` | 🛡️ 质量门控检查 |
+| `python scripts/clip_article.py <url>` | ✂️ 手动剪藏一篇文章 |
 
 ---
 
-## ⚙️ 工程看板
+## 📋 四维看板
 
-> 当前聚焦: **脉冲神经元与突触模型库 (Spiking Neuron & Synapse Model Library)**
+### 📝 论文
 
-进度: 0/6
-- ⬜ 搭建 brian2 LIF 神经元基础仿真
-- ⬜ 实现 Izhikevich 神经元模型
-- ⬜ 实现 STDP 突触可塑性规则
-- ⬜ 跨仿真器接口封装 (brian2/nest/snntorch)
-- ⬜ 编写单元测试
-- ⬜ 输出 API 文档
+| 论文 | 阶段 | 目标期刊 | 下次行动 |
+|---|---|---|---|
+| B0_Engineering | 撰写中 | Nature Electronics | 补充仿真数据 |
+| B1_ARS_投稿版 | 修改中 | IEEE Access | 审稿意见修订 |
 
+### 📜 专利
 
----
+| 专利 | 阶段 | 类型 | 下次行动 |
+|---|---|---|---|
+| CST_涌现智能 | 撰写中 | 发明 | 权利要求书 |
 
-## 🎯 项目路线图
+### 🔧 TCC 工程研发
 
-**Phase 1: 理论验证与原型开发 (2026 Q3)**
+| 模块 | 状态 | 下次行动 |
+|---|---|---|
+| SDI 互联协议 | 设计阶段 | 协议验证 |
+| Chiplet 集成方案 | 研究阶段 | 调研报告 |
 
-核心目标：复杂网络临界态的神经形态实现验证
+### 🧠 iNEST 理论研究
 
----
-
-## 📝 论文线索
+| 方向 | 状态 | 下次行动 |
+|---|---|---|
+| CST 理论仿真 | 进行中 | 参数扫描 |
+| 涌现条件推导 | 进行中 | 数学证明 |
+| 文献综述 | 进行中 | Genspark 搜索 |
 
 
 ---
 
-## 🔒 专利线索
+## 📆 近三日进展与今日计划
 
+| 日期 | 维度 | 进展 |
+|---|---|---|
+| **6.17** | 📝 论文 | CST_RG 论文 v1.1 修订完成 |
+| | 🧠 iNEST | CST 公理化框架定稿 |
+| **6.18** | 🔧 TCC | SDI 仿真实验报告 v2 |
+| | 🤖 系统 | 微信机器人 clawbot 上线 |
+| **6.19** ← | 🤖 系统 | CC-Connect 微信桥接部署 |
+| | ✂️ 工具 | LLM 智能剪藏（DeepSeek 分类+摘要） |
+| | 📊 看板 | 研发主页 Home.md 创建 |
+| | 🔄 同步 | 每日自动 Gitee 同步脚本 |
+| | 🛡️ 守护 | 预览服务器看门狗保活 |
 
----
+### 今日计划
 
-## 🔧 可用工具 (23 项)
-
-- 📦 **ant**
-- 📦 **balsa**
-- 📦 **brian2**
-- 📦 **cross-sim**
-- 📁 **gephi**
-- 📁 **Graphviz**
-- 📦 **jax-md**
-- 📦 **lnn**
-- 📦 **lnn_papers**
-- 📦 **nest-simulator**
-- 📦 **networkx**
-- 📦 **neuro_eng_env**
-- 📦 **PhysX**
-- 📦 **PySpike**
-- 📦 **pytorch_geometric**
-- 📦 **reservoirpy**
-- 📦 **sandia_tools**
-- 📦 **sapientinc_HRM**
-- 📦 **snap**
-- 📦 **snn-tools**
-- 📦 **snngrow**
-- 📦 **snntorch**
-- 📁 **workcraft**
-
+- [ ] CC-Connect 转发文章 → Obsidian 全链路实测
+- [ ] CST 仿真参数扫描启动
+- [ ] 专利 CST_涌现智能 权利要求书初稿
 
 ---
 
-## 🔗 快捷导航
+## 🌐 信息摄入
 
-- [[iNEST_灵感池/|📥 灵感池]]
-- [[iNEST_1_项目策划/路线图|🎯 路线图]]
-- [[iNEST_2_论文撰写/|📝 论文]]
-- [[iNEST_3_专利撰写/|🔒 专利]]
-- [[iNEST_4_工程开发/看板|⚙️ 工程看板]]
-- [[01_MOC/|🗺️ 知识库导航]]
-- [[KB-Optimization-Report|📊 知识库报告]]
+| 来源 | 今日新增 | 快捷入口 |
+|---|---|---|
+| 得到大脑 | 待统计 | [Feishu_Inbox](http://127.0.0.1:8900/Feishu_Inbox/) |
+| Genspark | 待统计 | [Literature](http://127.0.0.1:8900/home/work/.openclaw/workspace/Literature/) |
+| 微信 iNEST | CC-Connect 在线 | 转发文章自动入 00_Inbox |
+
+---
+
+## 🛡️ 系统守护
+
+| 服务 | 保活机制 |
+|---|---|
+| 预览服务器 :8900 | 计划任务每 5 分钟自检重启 |
+| CC-Connect 微信 | daemon 模式 |
+| 剪藏队列 | clip_watcher.py 持续运行 |
+
+---
+
+## 📂 目录索引
+
+```
+work/.openclaw/workspace/
+├── 00_Inbox/          ← 待处理入口
+├── Papers/            ← 论文撰写
+├── Patents/           ← 专利撰写
+├── TCC_1_项目策划/     ← TCC 项目
+├── iNEST_Research/    ← iNEST 研究
+├── Literature/        ← 文献笔记
+├── dashboard/         ← 研发看板
+└── simulation/        ← CST 仿真
+```
+
+---
+
+## 🤖 Codex 任务模板
+
+```
+# 论文撰写
+codex "读取 Papers/B0_Engineering，完成 Methods 章节"
+
+# 专利撰写
+codex "基于 TCC 的 SDI 方案撰写发明专利权利要求书"
+
+# 文献分析
+codex "读取 Literature/ 最新文献，生成研究趋势报告"
+
+# 仿真实验
+codex "运行 simulation/CST_simulation.py，分析涌现临界点"
+```
+
+---
+
+*Codex 中枢 | Obsidian 知识库 | 得到大脑 + Genspark 摄入 | CC-Connect 移动端*

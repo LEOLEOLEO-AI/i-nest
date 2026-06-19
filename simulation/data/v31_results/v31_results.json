@@ -1,0 +1,68 @@
+{
+  "version": "V31-refined",
+  "title": "SC-FC via Biological Neuron Classes",
+  "date": "2026-06-19",
+  "data": "Varshney 2011 + C.elegans naming",
+  "neuron_types": {
+    "interneuron": 128,
+    "motor": 74,
+    "sensory": 77
+  },
+  "sc_fc": {
+    "within_density": 0.0798,
+    "between_density": 0.0345,
+    "enrichment": 2.3,
+    "within_frac": 0.3888,
+    "er_within_frac": 0.3514,
+    "permutation_p": 0.008,
+    "modularity_Q": 0.0573
+  },
+  "category_pairs": {
+    "sen->sen": {
+      "edges": 137,
+      "possible": 2926,
+      "density": 0.0468
+    },
+    "sen->int": {
+      "edges": 586,
+      "possible": 9856,
+      "density": 0.0595
+    },
+    "sen->mot": {
+      "edges": 16,
+      "possible": 5698,
+      "density": 0.0028
+    },
+    "int->sen": {
+      "edges": 586,
+      "possible": 9856,
+      "density": 0.0595
+    },
+    "int->int": {
+      "edges": 776,
+      "possible": 8128,
+      "density": 0.0955
+    },
+    "int->mot": {
+      "edges": 261,
+      "possible": 9472,
+      "density": 0.0276
+    },
+    "mot->sen": {
+      "edges": 16,
+      "possible": 5698,
+      "density": 0.0028
+    },
+    "mot->int": {
+      "edges": 261,
+      "possible": 9472,
+      "density": 0.0276
+    },
+    "mot->mot": {
+      "edges": 185,
+      "possible": 2701,
+      "density": 0.0685
+    }
+  },
+  "conclusion": "SC edges enriched 2x within functional categories. Permutation p=0.0080 **. Q=0.057. Real fraction=0.389 vs ER=0.351."
+}

@@ -2846,3 +2846,77 @@ warning: in the working copy of 'iNEST_ÁÅµÊÑüÊ±†/Idea_OODA_ÂêåÊûÑÂçöÂºà_ÂêåÊ≠•È•
 Inbox processing complete.
 
 Done!
+warning: in the working copy of '.claudian/claudian-settings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.claudian/sessions/conv-1781778211171-m7xww3t07.meta.json', LF will be replaced by CRLF the next time Git touches it
+warning: adding embedded git repository: microns_data
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint:
+hint: 	git submodule add <url> microns_data
+hint:
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint:
+hint: 	git rm --cached microns_data
+hint:
+hint: See "git help submodule" for more information.
+hint: Disable this message with "git config set advice.addEmbeddedRepo false"
+warning: in the working copy of 'sdi_sim/species_data/exported-traced-adjacencies-v1.2/README', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'sdi_sim/species_data/exported-traced-adjacencies-v1.2/traced-neurons.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'sdi_sim/species_data/exported-traced-adjacencies-v1.2/traced-roi-connections.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'sdi_sim/species_data/exported-traced-adjacencies-v1.2/traced-total-connections.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/_gen_reports.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/connectome/microns_mouse_edges.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/data/v26_results/v26_summary.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/reports/TCC_iNEST_‰ªøÁúüÈ™åËØÅÊÄªËÆ°Âàí.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/reports/V26_C.elegansÂÆåÊï¥ÂàÜÊûêÊä•Âëä.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/reports/V27_Drosophila_Larval_FEP_STDPÊä•Âëä.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/v26_celegans_full_analysis.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/v27_larval_fep_stdp.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/v28_add_hemibrain.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/v28_cross_species.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/v29_sdi_params.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'simulation/v30_scale_emergence.py', LF will be replaced by CRLF the next time Git touches it
+[main e13cfb6] auto: inbox processing 2026/06/19 Âë®‰∫î 20:40:26.73
+ 35 files changed, 7844965 insertions(+), 6318 deletions(-)
+ create mode 160000 microns_data
+ create mode 100644 sdi_sim/species_data/exported-traced-adjacencies-v1.2/._README
+ create mode 100644 sdi_sim/species_data/exported-traced-adjacencies-v1.2/README
+ create mode 100644 sdi_sim/species_data/exported-traced-adjacencies-v1.2/traced-neurons.csv
+ create mode 100644 sdi_sim/species_data/exported-traced-adjacencies-v1.2/traced-roi-connections.csv
+ create mode 100644 sdi_sim/species_data/exported-traced-adjacencies-v1.2/traced-total-connections.csv
+ create mode 100644 sdi_sim/species_data/v1.2_exported-traced-adjacencies-v1.2.tar
+ create mode 100644 simulation/_gen_reports.py
+ create mode 100644 simulation/connectome/hemibrain_edges.csv.gz
+ create mode 100644 simulation/connectome/microns_mouse_edges.csv
+ create mode 100644 simulation/data/v26_results/v26_celegans_results.json
+ create mode 100644 simulation/data/v26_results/v26_summary.json
+ create mode 100644 simulation/data/v29_results/v29_results.json
+ create mode 100644 "simulation/reports/TCC_iNEST_\344\273\277\347\234\237\351\252\214\350\257\201\346\200\273\350\256\241\345\210\222.md"
+ create mode 100644 simulation/reports/V26-V30_Master_Summary.md
+ create mode 100644 "simulation/reports/V26_C.elegans\345\256\214\346\225\264\345\210\206\346\236\220\346\212\245\345\221\212.md"
+ create mode 100644 "simulation/reports/V27_Drosophila_Larval_FEP_STDP\346\212\245\345\221\212.md"
+ create mode 100644 simulation/reports/V28_Cross_Species_Phase_Diagram.md
+ create mode 100644 simulation/reports/V29_SDI_Engineering_Parameter_Mapping.md
+ create mode 100644 simulation/reports/V30_Scale_Emergence_Threshold_Scan.md
+ create mode 100644 simulation/v26_celegans_full_analysis.py
+ create mode 100644 simulation/v27_larval_fep_stdp.py
+ create mode 100644 simulation/v28_add_hemibrain.py
+ create mode 100644 simulation/v28_cross_species.py
+ create mode 100644 simulation/v29_sdi_params.py
+ create mode 100644 simulation/v30_scale_emergence.py
+[2026/06/19 ÷‹ŒÂ 20:40:33.03] Auto-management complete. 
+======================================== 
+[2026/06/19 ÷‹ŒÂ 22:40:02.60] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 1 inbox notes...
+Inbox:   0%|          | 0/1 [00:00<?, ?it/s]Inbox: 100%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä| 1/1 [00:05<00:00,  5.25s/it]Inbox: 100%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä| 1/1 [00:05<00:00,  5.25s/it]
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 2026-06-19_Codex + Œ¢–≈ Skills£∫SKILL  « AI  ±¥˙µƒπŸÕ¯.md -> Web-Clips
+
+Inbox processing complete.
+
+Done!
