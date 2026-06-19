@@ -21,3 +21,9 @@ The paper demonstrates that complex network topologies emerge from simple statis
 
 ---
 *来源: openalex (2002)*
+
+
+## G1: 归档
+- 经典基础文献，已纳入引用库
+- 不再独立推进
+- 更新: 2026-06-19
