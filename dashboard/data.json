@@ -2,15 +2,9 @@
     "last_updated": "2026-06-19",
     "papers": {
         "tcc": 0,
-        "inest": 8,
+        "inest": 7,
         "tcc_list": [],
         "inest_list": [
-            {
-                "date": "2026-06-11",
-                "title": "2026-06-11 iNEST Daily Crawl",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
             {
                 "date": "2026-06-12",
                 "title": "2026-06-12 iNEST Daily Crawl",
@@ -55,8 +49,13 @@
             }
         ]
     },
-    "insights": 6,
+    "insights": 8,
     "insights_list": [
+        {
+            "title": "﻿# Idea: ANN 能否突破 Γ_st = 0 的临界天花板？",
+            "description": "﻿# Idea: ANN 能否突破 Γ_st = 0 的临界天花板？",
+            "priority": "medium"
+        },
         {
             "title": "Idea：ANN如何突破 $\\Gamma_{st} = 0$ 的数字天花板？",
             "description": "Idea：ANN如何突破 $\\Gamma_{st} = 0$ 的数字天花板？",
@@ -75,11 +74,6 @@
         {
             "title": "Idea：同构定理在OODA智能体（如超低轨卫星）中的战略价值",
             "description": "Idea：同构定理在OODA智能体（如超低轨卫星）中的战略价值",
-            "priority": "medium"
-        },
-        {
-            "title": "Idea：为什么只用 $\\tau$（雪崩）和 $\\sigma$（小世界）表征时空复杂性？",
-            "description": "Idea：为什么只用 $\\tau$（雪崩）和 $\\sigma$（小世界）表征时空复杂性？",
             "priority": "medium"
         }
     ],
@@ -119,14 +113,9 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 14 commits pushed",
+            "text": "Gitee sync: 16 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
-        },
-        {
-            "text": "Inbox processing: 9 items to triage",
-            "dot": "ongoing",
-            "dim": "iNEST"
         }
     ],
     "today_plan": [

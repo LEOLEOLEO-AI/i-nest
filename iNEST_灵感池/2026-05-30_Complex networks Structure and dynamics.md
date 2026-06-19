@@ -21,3 +21,9 @@ This suggests iNEST should explicitly map how specific topological features (e.g
 
 ---
 *来源: openalex (2006)*
+
+
+## G1: 归档
+- 经典基础文献，已纳入引用库
+- 不再独立推进
+- 更新: 2026-06-19
