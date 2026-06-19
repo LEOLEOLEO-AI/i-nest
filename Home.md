@@ -1,108 +1,187 @@
-﻿# 🏠 TCC + iNEST 研发中枢
+---
+cssclass: dashboard
+---
 
-> 最后更新：2026-06-19
+# 🏠  TCC × iNEST 研发中枢
+
+> **`= date(today).format("YYYY-MM-DD dddd")`**  ·  [📊 研发看板](http://127.0.0.1:8900/home/work/.openclaw/workspace/dashboard/index.html)
 
 ---
 
-```button
-name 📊 研发看板
-type link
-action http://127.0.0.1:8900/home/work/.openclaw/workspace/dashboard/index.html
-color blue
-```
-```button
-name 💰 投资演示
-type link
-action http://127.0.0.1:8900/home/work/.openclaw/workspace/dashboard/investor/index.html
-color purple
-```
-```button
-name 🔄 Gitee 同步
-type command
-action Execute CODE: powershell D:\Obsidian\scripts\startup_sync.ps1
-color green
-```
-```button
-name 📊 更新看板
-type command
-action Execute CODE: python D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\update_dashboard.py
-color yellow
-```
+## 🗺️ 整体概览
+
+| 维度 | 🧠 TCC（拓扑中心计算） | 🔧 iNEST（智能涌现系统） |
+|:---|:---|:---|
+| **理论攻关** | CST 复杂度理论 · 变分自由能 · 标度律 | 涌现条件 · 自组织临界 · 认知架构 |
+| **技术研究** | SDI 互连协议 · Chiplet 集成 · 路由算法 | 神经形态芯片 · 脉冲网络 · 忆阻器 |
+| **工程落地** | SDSoW 晶圆级系统 · FPGA 原型 · 仿真平台 | 智涌脑硬件 · 软件栈 · 部署工具链 |
+| **项目策划** | 海河实验室 · 苏州实验室 · 国家专项 | iNEST 产品路线 · 双轨战略 · 产业合作 |
 
 ---
 
-## ⚡ 快速命令
+## ⚡ 今日行动建议
 
-| 命令 | 说明 |
-|---|---|
-| `powershell D:\Obsidian\scripts\startup_sync.ps1` | 🔄 Gitee 版本同步 + 流水线 |
-| `python 90_System/scripts/update_dashboard.py` | 📊 更新研发看板数据 |
-| `python 90_System/scripts/quality_gate.py` | 🛡️ 质量门控检查 |
+> [!tip]- 🤖 AI 扫视近 7 天动态
+> ```dataviewjs
+const recent = dv.pages('"TCC_1_项目策划" or "iNEST_1_项目策划" or "TCC_2_论文撰写" or "iNEST_2_论文撰写" or "papers" or "00_Inbox"')
+  .where(p => p.file.mtime > dv.date("now") - dv.duration("7 days"))
+  .sort(p => p.file.mtime, "desc")
+  .limit(6);
+if (recent.length === 0) {
+  dv.paragraph("📭 近一周无活跃文档。");
+} else {
+  dv.list(recent.map(p => `**${p.file.link}** — ${p.file.mtime.toFormat("MM-dd HH:mm")}`));
+}
+dv.paragraph("> 💡 优先处理 00_Inbox → 推进论文/专利 → 仿真验证");
+> ```
 
 ---
 
-## 📋 四维看板
+## 📊 四维 × 双轨成果看板
 
 ### 📝 论文
 
-| 论文 | 阶段 | 目标期刊 | 下次行动 |
-|---|---|---|---|
-| B0_Engineering | 撰写中 | Nature Electronics | 补充仿真数据 |
-| B1_ARS_投稿版 | 修改中 | IEEE Access | 审稿意见修订 |
+| 🧠 TCC | 阶段 | 目标 | 🔧 iNEST | 阶段 | 目标 |
+|:---|:---|:---|:---|:---|:---|
+| ```dataview
+TABLE WITHOUT ID
+  file.link AS "标题",
+  phase AS "阶段",
+  journal AS "目标"
+FROM "TCC_2_论文撰写"
+WHERE phase
+SORT file.mtime DESC
+LIMIT 3
+``` | | | ```dataview
+TABLE WITHOUT ID
+  file.link AS "标题",
+  phase AS "阶段",
+  journal AS "目标"
+FROM "iNEST_2_论文撰写"
+WHERE phase
+SORT file.mtime DESC
+LIMIT 3
+``` | | |
 
 ### 📜 专利
 
-| 专利 | 阶段 | 类型 | 下次行动 |
-|---|---|---|---|
-| CST_涌现智能 | 撰写中 | 发明 | 权利要求书 |
+| 🧠 TCC | 阶段 | 类型 | 🔧 iNEST | 阶段 | 类型 |
+|:---|:---|:---|:---|:---|:---|
+| ```dataview
+TABLE WITHOUT ID
+  file.link AS "标题",
+  phase AS "阶段",
+  type AS "类型"
+FROM "TCC_3_专利撰写"
+WHERE phase
+SORT file.mtime DESC
+LIMIT 3
+``` | | | ```dataview
+TABLE WITHOUT ID
+  file.link AS "标题",
+  phase AS "阶段",
+  type AS "类型"
+FROM "iNEST_3_专利撰写"
+WHERE phase
+SORT file.mtime DESC
+LIMIT 3
+``` | | |
 
-### 🔧 TCC 工程研发
+### 🧪 仿真实验
 
-| 模块 | 状态 | 下次行动 |
-|---|---|---|
-| SDI 互联协议 | 设计阶段 | 协议验证 |
-| Chiplet 集成方案 | 研究阶段 | 调研报告 |
+| 🧠 TCC | 更新 | 🔧 iNEST | 更新 |
+|:---|:---|:---|:---|
+| ```dataview
+TABLE WITHOUT ID
+  file.link AS "实验",
+  file.mtime AS "更新"
+FROM "sdi_sim"
+SORT file.mtime DESC
+LIMIT 3
+``` | | ```dataview
+TABLE WITHOUT ID
+  file.link AS "实验",
+  file.mtime AS "更新"
+FROM "simulation"
+SORT file.mtime DESC
+LIMIT 3
+``` | |
 
-### 🧠 iNEST 理论研究
+### 🔧 工程开发
 
-| 方向 | 状态 | 下次行动 |
-|---|---|---|
-| CST 理论仿真 | 进行中 | 参数扫描 |
-| 涌现条件推导 | 进行中 | 数学证明 |
-| 文献综述 | 进行中 | Genspark 搜索 |
+| 🧠 TCC | 状态 | 🔧 iNEST | 状态 |
+|:---|:---|:---|:---|
+| ```dataview
+TABLE WITHOUT ID
+  file.link AS "模块",
+  status AS "状态"
+FROM "TCC_4_工程开发"
+WHERE status
+SORT file.mtime DESC
+LIMIT 3
+``` | | ```dataview
+TABLE WITHOUT ID
+  file.link AS "模块",
+  status AS "状态"
+FROM "iNEST_4_工程开发"
+WHERE status
+SORT file.mtime DESC
+LIMIT 3
+``` | |
+
+### 📋 项目策划
+
+| 🧠 TCC | 阶段 | 截止 | 🔧 iNEST | 阶段 | 截止 |
+|:---|:---|:---|:---|:---|:---|
+| ```dataview
+TABLE WITHOUT ID
+  file.link AS "项目",
+  phase AS "阶段",
+  deadline AS "截止"
+FROM "TCC_1_项目策划"
+WHERE phase
+SORT file.mtime DESC
+LIMIT 3
+``` | | | ```dataview
+TABLE WITHOUT ID
+  file.link AS "项目",
+  phase AS "阶段",
+  deadline AS "截止"
+FROM "iNEST_1_项目策划"
+WHERE phase
+SORT file.mtime DESC
+LIMIT 3
+``` | | |
 
 ---
 
-## 🌐 信息摄入
+## 📥 收件箱（待分类）
 
-| 来源 | 今日新增 | 快捷入口 |
-|---|---|---|
-| 得到大脑 | 待统计 | [00_Inbox](00_Inbox/) |
-| Genspark | 待统计 | [Literature](Literature/) |
-| 微信 iNEST | CC-Connect 在线 | 转发文章自动入 00_Inbox |
+```dataview
+TABLE WITHOUT ID
+  file.link AS "笔记",
+  file.cday AS "导入日期"
+FROM "00_Inbox"
+WHERE file.name != "00_Inbox 使用说明"
+SORT file.cday DESC
+LIMIT 8
+```
 
----
-
-## 🛡️ 系统守护
-
-| 服务 | 保活机制 |
-|---|---|
-| 预览服务器 :8900 | 计划任务每 5 分钟自检重启 |
-| CC-Connect 微信 | daemon 模式 |
+> 处理完移动到 `03_Topics/<分类>/` 并打标签
 
 ---
 
-## 📂 目录索引
+## 🔬 最新文献摄入
 
-- `00_Inbox/` — 待处理入口
-- `Papers/` — 论文撰写
-- `Patents/` — 专利撰写
-- `TCC_1_项目策划/` — TCC 项目
-- `iNEST_Research/` — iNEST 研究
-- `Literature/` — 文献笔记
-- `dashboard/` — 研发看板
-- `simulation/` — CST 仿真
+```dataview
+TABLE WITHOUT ID
+  file.link AS "标题",
+  file.mtime AS "日期"
+FROM "Literature" or "03_Topics/Web-Clips" or "papers"
+SORT file.mtime DESC
+LIMIT 6
+```
 
 ---
 
-*Codex 中枢 | Obsidian 知识库 | 得到大脑 + Genspark 摄入 | CC-Connect 移动端*
+> *TCC × iNEST  ·  理论 → 技术 → 工程 → 项目  ·  `$= date(today).format("YYYY-MM-DD")`*
