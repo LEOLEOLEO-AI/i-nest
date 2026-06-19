@@ -1,5 +1,16 @@
-{
+﻿{
+  "userIgnoreFilters": [
+    "*.pdf",
+    "*.csv",
+    "*.mat",
+    "*.tmp",
+    "*.tar",
+    "*.rar",
+    ".venv/",
+    ".smart-env/",
+    "_diary_archive/",
+    "node_modules/"
+  ],
   "promptDelete": false,
-  "attachmentFolderPath": "90_System/99_Attachments",
   "alwaysUpdateLinks": true
 }

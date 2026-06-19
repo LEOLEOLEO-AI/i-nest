@@ -1,4 +1,4 @@
-﻿# B0 Pipeline Run — GOAL
+# B0 Pipeline Run — GOAL
 
 - **Paper:** B0: From von Neumann to Network-Centric
 - **Target:** Engineering Special Issue on Sustainable Intelligent Computing
