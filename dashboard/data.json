@@ -1,22 +1,10 @@
 {
-    "last_updated": "2026-06-16",
+    "last_updated": "2026-06-19",
     "papers": {
         "tcc": 0,
         "inest": 7,
         "tcc_list": [],
         "inest_list": [
-            {
-                "date": "2026-06-09",
-                "title": "2026-06-09 iNEST Daily Crawl",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
-            {
-                "date": "2026-06-10",
-                "title": "2026-06-10 iNEST Daily Crawl",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
             {
                 "date": "2026-06-11",
                 "title": "2026-06-11 iNEST Daily Crawl",
@@ -42,8 +30,20 @@
                 "source": "Crawler"
             },
             {
-                "date": "2026-06-16",
+                "date": "2026-06-17",
                 "title": "2026-06-16 iNEST Daily Crawl",
+                "direction": "iNEST",
+                "source": "Crawler"
+            },
+            {
+                "date": "2026-06-17",
+                "title": "2026-06-17 iNEST Daily Crawl",
+                "direction": "iNEST",
+                "source": "Crawler"
+            },
+            {
+                "date": "2026-06-18",
+                "title": "2026-06-18 iNEST Daily Crawl",
                 "direction": "iNEST",
                 "source": "Crawler"
             }
@@ -113,34 +113,34 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 20 commits pushed",
+            "text": "Gitee sync: 13 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
         }
     ],
     "today_plan": [
         {
+            "text": "[资料] 导入参考文献: Algorithm–hardware co-design of neuromorphic ",
+            "dot": "plan",
+            "dim": "TCC"
+        },
+        {
+            "text": "[资料] 导入参考文献: Delta-Based Target Reformulation for Short-Te",
+            "dot": "plan",
+            "dim": "TCC"
+        },
+        {
+            "text": "[资料] 导入参考文献: Delta-Based Target Reformulation for Short-Te",
+            "dot": "plan",
+            "dim": "iNEST"
+        },
+        {
             "text": "[资料] 导入参考文献: Graph Neural Networks Trained on Null Signal ",
             "dot": "plan",
             "dim": "TCC"
         },
         {
-            "text": "[资料] 导入参考文献: Upper Bounds on the Generalization Error of D",
-            "dot": "plan",
-            "dim": "TCC"
-        },
-        {
-            "text": "[资料] 导入参考文献: Upper Bounds on the Generalization Error of D",
-            "dot": "plan",
-            "dim": "iNEST"
-        },
-        {
-            "text": "[资料] 导入参考文献: Continuous Cross-Domain Traffic State Predict",
-            "dot": "plan",
-            "dim": "TCC"
-        },
-        {
-            "text": "[论文] [新方向] 液态计算与连续时间网络: TNODEV: Toolbox for Neural ODE Veri",
+            "text": "[论文] [新方向] 物理神经计算与新型硬件: Algorithm–hardware co-design of neu",
             "dot": "plan",
             "dim": "iNEST"
         },

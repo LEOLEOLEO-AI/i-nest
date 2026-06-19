@@ -4,23 +4,22 @@
   "title": "这个项目的可行性存在什么问题？",
   "titleGenerationStatus": "failed",
   "createdAt": 1781778211171,
-  "updatedAt": 1781837578485,
-  "lastResponseAt": 1781837578485,
+  "updatedAt": 1781849208144,
+  "lastResponseAt": 1781849208143,
   "sessionId": "019eda42-0e98-7171-b50d-6dc370f08be7",
   "providerState": {
     "threadId": "019eda42-0e98-7171-b50d-6dc370f08be7",
     "sessionFilePath": "C:\\Users\\LEO\\.codex\\sessions\\2026\\06\\18\\rollout-2026-06-18T18-23-47-019eda42-0e98-7171-b50d-6dc370f08be7.jsonl",
     "transcriptRootPath": "C:\\Users\\LEO\\.codex\\sessions"
   },
-  "currentNote": "iNEST_1_项目策划/[V1] 海河实验室_项目申报书_NPC_CPC_SDI.md",
   "usage": {
-    "inputTokens": 1006,
+    "inputTokens": 3049,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 142848,
+    "cacheReadInputTokens": 207360,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 1006,
-    "percentage": 0,
+    "contextTokens": 3049,
+    "percentage": 1,
     "model": "deepseek-ai/DeepSeek-V4-Pro"
   }
 }
