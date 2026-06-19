@@ -1,11 +1,6 @@
 {
-  "updated": "2026-06-19",
+  "updated": "2026-06-20",
   "clips": [
-    {
-      "file": "2026-06-11 iNEST Daily Crawl.md",
-      "date": "2026-06-11",
-      "preview": "---\ndate: 2026-06-11\ntags: [iNEST, literature-tracking, web-clip, auto-crawl]\nsource: Google News RSS + arXiv (intersectional abs: phrases)\n---\n\n# 2026-06-11 iNEST Daily Literature Crawl\n\n> Crawl: 202"
-    },
     {
       "file": "2026-06-12 iNEST Daily Crawl.md",
       "date": "2026-06-12",
@@ -40,6 +35,11 @@
       "file": "2026-06-19 iNEST Daily Crawl.md",
       "date": "2026-06-19",
       "preview": "---\ndate: 2026-06-19\ntags: [iNEST, literature-tracking, web-clip, auto-crawl]\nsource: Google News RSS + arXiv (intersectional abs: phrases)\n---\n\n# 2026-06-19 iNEST Daily Literature Crawl\n\n> Crawl: 202"
+    },
+    {
+      "file": "2026-06-20 iNEST Daily Crawl.md",
+      "date": "2026-06-20",
+      "preview": "---\ndate: 2026-06-20\ntags: [iNEST, literature-tracking, web-clip, auto-crawl]\nsource: Google News RSS + arXiv (intersectional abs: phrases)\n---\n\n# 2026-06-20 iNEST Daily Literature Crawl\n\n> Crawl: 202"
     }
   ]
 }
