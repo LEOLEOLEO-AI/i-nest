@@ -1,19 +1,22 @@
 ---
-title: getnote_2026-06-19_Simba_基于多芯粒模块的深度学习推理加速器架构研究
-tags:
-  - research
-  - hardware
-  - semiconductor
-  - design
-  - neural
-  - paper
-  - neuroscience
-  - network
-  - chip
-  - architecture
+category: Web-Clips
 date: 2026-06-20 00:32
-source: GetNotes
+quality: low
 score: 20
+source: GetNotes
+tags:
+- research
+- hardware
+- semiconductor
+- design
+- neural
+- paper
+- neuroscience
+- network
+- chip
+- architecture
+- needs-review
+title: getnote_2026-06-19_Simba_基于多芯粒模块的深度学习推理加速器架构研究
 ---
 
 ## Original Note
