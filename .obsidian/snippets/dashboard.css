@@ -1,0 +1,126 @@
+﻿/* ===== Dashboard CSS for HOME.md ===== */
+
+/* Root dashboard styling */
+.dashboard {
+  --accent: #4f8ef7;
+  --accent2: #f76f4f;
+  --bg-card: rgba(255,255,255,0.03);
+  --border-card: rgba(255,255,255,0.08);
+}
+
+.theme-dark .dashboard {
+  --bg-card: rgba(255,255,255,0.03);
+  --border-card: rgba(255,255,255,0.08);
+}
+
+/* Dashboard header */
+.dashboard h1 {
+  font-size: 2em;
+  margin-bottom: 0.2em;
+  background: linear-gradient(135deg, #4f8ef7, #a78bfa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Subtitle bar */
+.dashboard h1 + blockquote {
+  background: var(--bg-card);
+  border-left: 3px solid var(--accent);
+  border-radius: 8px;
+  padding: 12px 18px;
+  font-size: 0.95em;
+}
+
+/* Section headers */
+.dashboard h2 {
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 6px;
+  margin-top: 32px;
+  font-size: 1.3em;
+}
+
+/* Dual-track table - full width, equal columns */
+.dashboard table:first-of-type + table,
+.dashboard h2 + table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 12px;
+}
+.dashboard h2 + table td {
+  width: 50%;
+  vertical-align: top;
+  padding: 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-card);
+  border-radius: 10px;
+}
+.dashboard h2 + table td:first-child {
+  border-left: 3px solid #4f8ef7;
+}
+.dashboard h2 + table td:last-child {
+  border-left: 3px solid #f76f4f;
+}
+
+/* Dataview tables inside cards */
+.dashboard .dataview table,
+.dashboard .block-language-dataview table {
+  width: 100%;
+  font-size: 0.85em;
+  border: none;
+}
+.dashboard .dataview th,
+.dashboard .block-language-dataview th {
+  background: rgba(79,142,247,0.15);
+  font-size: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 6px 8px;
+}
+
+/* Callout styling */
+.dashboard .callout {
+  border-radius: 10px;
+  margin: 16px 0;
+}
+.dashboard .callout[data-callout="tip"] {
+  border-left-color: #a78bfa;
+  background: rgba(167,139,250,0.05);
+}
+
+/* Quick nav bottom table */
+.dashboard hr + table {
+  width: 100%;
+  border: none;
+}
+.dashboard hr + table td {
+  padding: 8px 12px;
+  background: var(--bg-card);
+  border-radius: 6px;
+}
+
+/* Status inline spans */
+.dashboard .dataview.inline-field {
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.8em;
+  font-weight: 600;
+}
+
+/* Footer */
+.dashboard hr + blockquote {
+  text-align: center;
+  color: var(--text-muted);
+  border: none;
+  font-size: 0.85em;
+  padding: 8px 0;
+}
+
+/* Loading state */
+.dashboard .dataview-error,
+.dashboard .block-language-dataviewjs .dataview-error {
+  padding: 8px;
+  background: rgba(255,100,100,0.1);
+  border-radius: 6px;
+  font-size: 0.85em;
+}

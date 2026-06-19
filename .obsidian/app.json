@@ -12,5 +12,9 @@
     "node_modules/"
   ],
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "enabledCssSnippets": ["dashboard"],
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "livePreview": true
 }
