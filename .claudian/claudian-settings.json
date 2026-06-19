@@ -42,7 +42,7 @@
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {},
-      "customModels": "deepseek-ai/DeepSeek-V4-Pro\ndeepseek-ai/DeepSeek-V3.2\nQwen/Qwen3.6-35B-A3B\nQwen/Qwen3.5-397B-A17B\nmoonshotai/Kimi-K2.7-Code\nzai-org/GLM-5.2",
+      "customModels": "deepseek-v4-pro\ndeepseek-v4-flash",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
@@ -79,7 +79,7 @@
   "settingsProvider": "claude",
   "savedProviderModel": {
     "claude": "opus",
-    "codex": "deepseek-ai/DeepSeek-V4-Pro"
+    "codex": "deepseek-v4-pro"
   },
   "savedProviderEffort": {
     "claude": "high",

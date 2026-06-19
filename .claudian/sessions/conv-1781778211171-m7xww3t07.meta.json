@@ -4,8 +4,8 @@
   "title": "这个项目的可行性存在什么问题？",
   "titleGenerationStatus": "failed",
   "createdAt": 1781778211171,
-  "updatedAt": 1781849208144,
-  "lastResponseAt": 1781849208143,
+  "updatedAt": 1781871663542,
+  "lastResponseAt": 1781871663542,
   "sessionId": "019eda42-0e98-7171-b50d-6dc370f08be7",
   "providerState": {
     "threadId": "019eda42-0e98-7171-b50d-6dc370f08be7",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "C:\\Users\\LEO\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 3049,
+    "inputTokens": 143,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 207360,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 3049,
-    "percentage": 1,
-    "model": "deepseek-ai/DeepSeek-V4-Pro"
+    "contextTokens": 143,
+    "percentage": 0,
+    "model": "deepseek-v4-pro"
   }
 }
