@@ -2,7 +2,7 @@
     "last_updated": "2026-06-19",
     "papers": {
         "tcc": 0,
-        "inest": 7,
+        "inest": 8,
         "tcc_list": [],
         "inest_list": [
             {
@@ -44,6 +44,12 @@
             {
                 "date": "2026-06-18",
                 "title": "2026-06-18 iNEST Daily Crawl",
+                "direction": "iNEST",
+                "source": "Crawler"
+            },
+            {
+                "date": "2026-06-19",
+                "title": "2026-06-19 iNEST Daily Crawl",
                 "direction": "iNEST",
                 "source": "Crawler"
             }
@@ -113,26 +119,31 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 13 commits pushed",
+            "text": "Gitee sync: 14 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
+        },
+        {
+            "text": "Inbox processing: 9 items to triage",
+            "dot": "ongoing",
+            "dim": "iNEST"
         }
     ],
     "today_plan": [
         {
+            "text": "[资料] 导入参考文献: Critical Percolation as a Synthetic Data Mode",
+            "dot": "plan",
+            "dim": "TCC"
+        },
+        {
+            "text": "[资料] 导入参考文献: Critical Percolation as a Synthetic Data Mode",
+            "dot": "plan",
+            "dim": "iNEST"
+        },
+        {
             "text": "[资料] 导入参考文献: Algorithm–hardware co-design of neuromorphic ",
             "dot": "plan",
             "dim": "TCC"
-        },
-        {
-            "text": "[资料] 导入参考文献: Delta-Based Target Reformulation for Short-Te",
-            "dot": "plan",
-            "dim": "TCC"
-        },
-        {
-            "text": "[资料] 导入参考文献: Delta-Based Target Reformulation for Short-Te",
-            "dot": "plan",
-            "dim": "iNEST"
         },
         {
             "text": "[资料] 导入参考文献: Graph Neural Networks Trained on Null Signal ",
@@ -140,7 +151,7 @@
             "dim": "TCC"
         },
         {
-            "text": "[论文] [新方向] 物理神经计算与新型硬件: Algorithm–hardware co-design of neu",
+            "text": "[论文] [新方向] 物理神经计算与新型硬件: A Neuromorphic Reinforcement Learni",
             "dot": "plan",
             "dim": "iNEST"
         },

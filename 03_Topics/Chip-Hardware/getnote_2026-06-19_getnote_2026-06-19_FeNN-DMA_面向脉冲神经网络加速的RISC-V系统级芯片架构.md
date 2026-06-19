@@ -1,18 +1,33 @@
 ---
-title: getnote_2026-06-19_FeNN-DMA_面向脉冲神经网络加速的RISC-V系统级芯片架构
-tags:
-  - network
-  - neuroscience
-  - chip
-  - semiconductor
-  - fpga
-  - architecture
-  - design
-  - neural
-  - hardware
+category: Chip-Hardware
 date: 2026-06-19 14:14
-source: GetNotes
+entities:
+- FeNN-DMA
+- SNN
+- RISC-V
+- DMA
+- lane-local memory
+processed: '2026-06-19T14:41:15.685573'
 score: 29
+source: GetNotes
+source_file: getnote_2026-06-19_getnote_2026-06-19_FeNN-DMA_面向脉冲神经网络加速的RISC-V系统级芯片架构.md
+summary: 提出基于RISC-V的SNN加速器，通过向量协处理器、DMA和lane-local内存支持稀疏与延迟连接，单核支持1.6万神经元和2.56亿突触。
+tags:
+- architecture
+- neural
+- SNN加速器
+- FPGA
+- 脉冲神经网络
+- design
+- network
+- 向量处理器
+- neuroscience
+- RISC-V
+- fpga
+- semiconductor
+- hardware
+- chip
+title: getnote_2026-06-19_FeNN-DMA_面向脉冲神经网络加速的RISC-V系统级芯片架构
 ---
 
 ## Original Note

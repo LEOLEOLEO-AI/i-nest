@@ -1,22 +1,32 @@
 ---
-title: getnote_2026-06-18_神经网络架构进化史_从感知机到Transformer的70年突破之路
-tags:
-  - network
-  - infrastructure
-  - neuroscience
-  - first-principles
-  - physics
-  - energy
-  - computing
-  - paper
-  - architecture
-  - research
-  - neural
-  - design
-  - green-ai
+category: AI-ML
 date: 2026-06-19 14:14
-source: GetNotes
+entities:
+- Transformer
+- 自注意力机制
+processed: '2026-06-19T14:40:57.065022'
 score: 22
+source: GetNotes
+source_file: getnote_2026-06-19_getnote_2026-06-18_神经网络架构进化史_从感知机到Transformer的70年突破之路.md
+summary: 梳理了从感知机到Transformer的70年神经网络架构演进，揭示AI能力跃迁的底层逻辑。
+tags:
+- research
+- architecture
+- physics
+- neural
+- design
+- network
+- paper
+- neuroscience
+- first-principles
+- 神经网络架构
+- 深度学习
+- green-ai
+- Transformer
+- energy
+- computing
+- infrastructure
+title: getnote_2026-06-18_神经网络架构进化史_从感知机到Transformer的70年突破之路
 ---
 
 ## Original Note

@@ -1,0 +1,91 @@
+{
+  "V33-A_baseline": {
+    "name": "V33-A_baseline",
+    "N": 60,
+    "n_bonds": 120,
+    "sigma": 0.0,
+    "alpha": 2.286510869375834,
+    "C": 0.24493408827406518,
+    "L": 0.1071213212626529,
+    "el_ratio": 0.008264462809917356,
+    "k_avg": 0.0,
+    "F_mean": 0.696354263197069,
+    "n_ltp_total": 20377,
+    "n_ltd_total": 79908,
+    "scaling_events": 6,
+    "glia_events": 0,
+    "tau_mean": 20.0,
+    "tau_std": 0.0,
+    "surprise_mean": 0.0
+  },
+  "V33-B_adaptive": {
+    "name": "V33-B_adaptive",
+    "N": 60,
+    "n_bonds": 120,
+    "sigma": 0.0,
+    "alpha": 2.286510869375834,
+    "C": 0.24493408827406518,
+    "L": 0.1071213212626529,
+    "el_ratio": 0.008264462809917356,
+    "k_avg": 0.0,
+    "F_mean": 0.696354263197069,
+    "n_ltp_total": 7133,
+    "n_ltd_total": 25794,
+    "scaling_events": 6,
+    "glia_events": 0,
+    "tau_mean": 12.670753486108577,
+    "tau_std": 3.395149533810404,
+    "surprise_mean": 0.7398442858352914
+  },
+  "V33-C_adaptive_BCM": {
+    "name": "V33-C_adaptive_BCM",
+    "N": 60,
+    "n_bonds": 120,
+    "sigma": 0.0,
+    "alpha": 2.286510869375834,
+    "C": 0.24493408827406518,
+    "L": 0.1071213212626529,
+    "el_ratio": 0.008264462809917356,
+    "k_avg": 0.0,
+    "F_mean": 0.7618447206813449,
+    "n_ltp_total": 8165,
+    "n_ltd_total": 28594,
+    "scaling_events": 6,
+    "glia_events": 0,
+    "tau_mean": 14.752546739406363,
+    "tau_std": 4.224656826115125,
+    "surprise_mean": 0.49919932857847266
+  },
+  "V33-D_sweep": {
+    "alpha_0.2": {
+      "sigma": 0.0,
+      "el_ratio": 0.008264462809917356,
+      "tau_mean": 17.882261350902414,
+      "surprise_mean": 0.6569356945068726
+    },
+    "alpha_0.5": {
+      "sigma": 0.0,
+      "el_ratio": 0.008264462809917356,
+      "tau_mean": 15.606300768397135,
+      "surprise_mean": 0.657675631415993
+    },
+    "alpha_1.0": {
+      "sigma": 0.0,
+      "el_ratio": 0.008264462809917356,
+      "tau_mean": 13.167762394984718,
+      "surprise_mean": 0.657675631415993
+    },
+    "alpha_2.0": {
+      "sigma": 0.0,
+      "el_ratio": 0.008264462809917356,
+      "tau_mean": 10.406291533628329,
+      "surprise_mean": 0.657675631415993
+    },
+    "alpha_5.0": {
+      "sigma": 0.0,
+      "el_ratio": 0.008264462809917356,
+      "tau_mean": 7.199782136528313,
+      "surprise_mean": 0.657675631415993
+    }
+  }
+}

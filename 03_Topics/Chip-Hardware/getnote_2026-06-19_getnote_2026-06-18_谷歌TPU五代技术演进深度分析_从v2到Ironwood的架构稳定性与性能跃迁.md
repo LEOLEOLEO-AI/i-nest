@@ -1,16 +1,37 @@
 ---
-title: getnote_2026-06-18_谷歌TPU五代技术演进深度分析_从v2到Ironwood的架构稳定性与性能跃迁
-tags:
-  - chip
-  - semiconductor
-  - paper
-  - architecture
-  - research
-  - hardware
-  - design
+category: Chip-Hardware
 date: 2026-06-19 14:14
-source: GetNotes
+entities:
+- TPU
+- TensorCore
+- OCS
+- SparseCore
+- HBM
+- BF16
+- FP8
+- Ironwood
+- 脉动阵列
+- 碳强度
+processed: '2026-06-19T14:41:07.359993'
 score: 17
+source: GetNotes
+source_file: getnote_2026-06-19_getnote_2026-06-18_谷歌TPU五代技术演进深度分析_从v2到Ironwood的架构稳定性与性能跃迁.md
+summary: 分析谷歌TPU v2至Ironwood五代架构稳定性、性能提升3600倍及能效优化。
+tags:
+- research
+- architecture
+- 弹性
+- 超级计算机
+- 能效
+- 架构演进
+- design
+- TPU
+- AI加速器
+- paper
+- semiconductor
+- hardware
+- chip
+title: getnote_2026-06-18_谷歌TPU五代技术演进深度分析_从v2到Ironwood的架构稳定性与性能跃迁
 ---
 
 ## Original Note

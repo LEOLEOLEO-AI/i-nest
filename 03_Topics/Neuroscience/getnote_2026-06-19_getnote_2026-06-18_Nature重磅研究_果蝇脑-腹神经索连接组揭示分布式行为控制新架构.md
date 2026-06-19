@@ -1,18 +1,28 @@
 ---
-title: getnote_2026-06-18_Nature重磅研究_果蝇脑-腹神经索连接组揭示分布式行为控制新架构
-tags:
-  - neuroscience
-  - network
-  - top-journal
-  - simulation
-  - paper
-  - connectome
-  - architecture
-  - design
-  - neural
+category: Neuroscience
 date: 2026-06-19 14:14
-source: GetNotes
+entities:
+- BANC连接组
+- 分布式控制
+processed: '2026-06-19T14:40:46.403236'
 score: 19
+source: GetNotes
+source_file: getnote_2026-06-19_getnote_2026-06-18_Nature重磅研究_果蝇脑-腹神经索连接组揭示分布式行为控制新架构.md
+summary: 果蝇脑-腹神经索连接组揭示行为控制是分布式架构，包含局部反馈、模块协调和高级脑区监督。
+tags:
+- architecture
+- 果蝇
+- simulation
+- neural
+- 连接组学
+- connectome
+- design
+- network
+- top-journal
+- paper
+- neuroscience
+- 分布式行为控制
+title: getnote_2026-06-18_Nature重磅研究_果蝇脑-腹神经索连接组揭示分布式行为控制新架构
 ---
 
 ## Original Note
