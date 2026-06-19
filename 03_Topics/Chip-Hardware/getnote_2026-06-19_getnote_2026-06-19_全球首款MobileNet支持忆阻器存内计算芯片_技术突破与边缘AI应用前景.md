@@ -1,17 +1,27 @@
 ---
-title: getnote_2026-06-19_全球首款MobileNet支持忆阻器存内计算芯片_技术突破与边缘AI应用前景
-tags:
-  - energy
-  - chip
-  - semiconductor
-  - architecture
-  - design
-  - green-ai
-  - hardware
-  - memristor
+category: Chip-Hardware
 date: 2026-06-19 14:14
-source: GetNotes
+entities:
+- 忆阻器存内计算
+- MobileNet
+processed: '2026-06-19T14:41:34.222812'
 score: 20
+source: GetNotes
+source_file: getnote_2026-06-19_getnote_2026-06-19_全球首款MobileNet支持忆阻器存内计算芯片_技术突破与边缘AI应用前景.md
+summary: 全球首款支持MobileNet深度可分离卷积的忆阻器存内计算芯片，能效比21.3 TOPS/W，精度损失仅1%。
+tags:
+- architecture
+- 边缘AI
+- 忆阻器
+- design
+- memristor
+- green-ai
+- 存内计算
+- semiconductor
+- energy
+- hardware
+- chip
+title: getnote_2026-06-19_全球首款MobileNet支持忆阻器存内计算芯片_技术突破与边缘AI应用前景
 ---
 
 ## Original Note

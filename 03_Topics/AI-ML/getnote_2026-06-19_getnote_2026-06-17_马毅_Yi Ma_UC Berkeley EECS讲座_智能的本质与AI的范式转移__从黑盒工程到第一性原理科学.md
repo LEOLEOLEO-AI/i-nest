@@ -1,25 +1,40 @@
 ---
-title: getnote_2026-06-17_马毅_Yi Ma_UC Berkeley EECS讲座_智能的本质与AI的范式转移__从黑盒工程到第一性原理科学
-tags:
-  - llm
-  - criticality
-  - network
-  - neuroscience
-  - first-principles
-  - emergence
-  - physics
-  - energy
-  - transformer
-  - ai
-  - paper
-  - architecture
-  - research
-  - neural
-  - design
-  - green-ai
+category: AI-ML
 date: 2026-06-19 14:14
-source: GetNotes
+entities:
+- 低维结构
+- 率失真理论
+- 闭环系统
+- 白盒网络
+- ReduNet
+processed: '2026-06-19T14:40:31.589945'
 score: 24
+source: GetNotes
+source_file: getnote_2026-06-19_getnote_2026-06-17_马毅_Yi Ma_UC Berkeley EECS讲座_智能的本质与AI的范式转移__从黑盒工程到第一性原理科学.md
+summary: 马毅提出智能是自我修正机制，压缩等于智能，应从第一性原理推导白盒网络，强调闭环学习。
+tags:
+- architecture
+- emergence
+- paper
+- llm
+- transformer
+- energy
+- neural
+- first-principles
+- ai
+- 智能本质
+- 闭环学习
+- 率失真理论
+- 白盒网络
+- network
+- research
+- physics
+- criticality
+- design
+- neuroscience
+- 第一性原理
+- green-ai
+title: getnote_2026-06-17_马毅_Yi Ma_UC Berkeley EECS讲座_智能的本质与AI的范式转移__从黑盒工程到第一性原理科学
 ---
 
 ## Original Note

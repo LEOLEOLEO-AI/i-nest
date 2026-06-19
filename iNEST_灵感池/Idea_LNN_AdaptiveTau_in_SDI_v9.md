@@ -60,3 +60,10 @@ D:/Obsidian/phase1_workspace/
 ---
 
 > **Ideas 想法 | 2026-06-03**
+
+
+## v33 实现完成
+- 仿真代码: [[sdi_v33_adaptive_tau.py]]
+- tau适应验证: alpha越大tau越小
+- 待优化: 单脑E-L收敛需更强驱动
+- 更新: 2026-06-19 14:29

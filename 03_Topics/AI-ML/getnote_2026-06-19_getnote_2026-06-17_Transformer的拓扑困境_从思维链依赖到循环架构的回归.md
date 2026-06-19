@@ -1,21 +1,31 @@
 ---
-title: getnote_2026-06-17_Transformer的拓扑困境_从思维链依赖到循环架构的回归
-tags:
-  - llm
-  - network
-  - infrastructure
-  - neuroscience
-  - computing
-  - transformer
-  - ai
-  - paper
-  - architecture
-  - research
-  - neural
-  - design
+category: AI-ML
 date: 2026-06-19 14:14
-source: GetNotes
+entities:
+- 状态追踪
+- 状态空间模型
+processed: '2026-06-19T14:40:24.200436'
 score: 17
+source: GetNotes
+source_file: getnote_2026-06-19_getnote_2026-06-17_Transformer的拓扑困境_从思维链依赖到循环架构的回归.md
+summary: 谷歌DeepMind论文指出Transformer因深度限制无法可靠追踪状态，思维链成本高且非根本解，提出回归循环架构以实现稳定长时认知。
+tags:
+- research
+- 思维链
+- 循环架构
+- architecture
+- neural
+- design
+- network
+- paper
+- neuroscience
+- Transformer
+- llm
+- ai
+- transformer
+- computing
+- infrastructure
+title: getnote_2026-06-17_Transformer的拓扑困境_从思维链依赖到循环架构的回归
 ---
 
 ## Original Note

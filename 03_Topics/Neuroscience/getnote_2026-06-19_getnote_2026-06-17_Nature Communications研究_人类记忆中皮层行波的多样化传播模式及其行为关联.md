@@ -1,15 +1,25 @@
 ---
-title: getnote_2026-06-17_Nature Communications研究_人类记忆中皮层行波的多样化传播模式及其行为关联
-tags:
-  - neuroscience
-  - network
-  - top-journal
-  - paper
-  - architecture
-  - neural
+category: Neuroscience
 date: 2026-06-19 14:14
-source: GetNotes
+entities:
+- 皮层行波
+- 复数ICA
+processed: '2026-06-19T14:40:15.625104'
 score: 9
+source: GetNotes
+source_file: getnote_2026-06-19_getnote_2026-06-17_Nature Communications研究_人类记忆中皮层行波的多样化传播模式及其行为关联.md
+summary: 研究揭示人类记忆任务中皮层振荡行波的四类传播模式及其与行为状态的关联。
+tags:
+- architecture
+- neural
+- 皮层行波
+- network
+- top-journal
+- paper
+- neuroscience
+- ECoG
+- 记忆
+title: getnote_2026-06-17_Nature Communications研究_人类记忆中皮层行波的多样化传播模式及其行为关联
 ---
 
 ## Original Note

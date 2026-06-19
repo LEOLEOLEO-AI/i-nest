@@ -2764,3 +2764,22 @@ warning: in the working copy of 'iNEST_1_椤圭洰绛栧垝/娴锋渤瀹為獙瀹ら噸澶т笓椤
  create mode 100644 "03_Topics/Concepts-Theory/\347\220\206\350\247\243\345\244\215\346\235\202\344\270\226\347\225\214\347\232\204\344\270\244\345\244\247\350\204\232\346\211\213\346\236\266\357\274\232\347\263\273\347\273\237\345\212\250\345\212\233\345\255\246\344\270\216\350\264\235\345\217\266\346\226\257\347\275\221\347\273\234.md"
  create mode 100644 "TCC_2_\350\256\272\346\226\207\346\222\260\345\206\231/A1_CST_Theory_V30_SYMBOL_ALIGNED.md"
 [2026/06/19 周五 12:40:30.61] Auto-management complete. 
+======================================== 
+[2026/06/19 周五 14:40:02.64] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 9 inbox notes...
+Inbox:   0%|          | 0/9 [00:00<?, ?it/s]Inbox:  11%|█         | 1/9 [00:10<01:24, 10.58s/it]Inbox:  22%|██▏       | 2/9 [00:19<01:05,  9.41s/it]Inbox:  33%|███▎      | 3/9 [00:26<00:50,  8.48s/it]Inbox:  44%|████▍     | 4/9 [00:41<00:54, 10.98s/it]Inbox:  56%|█████▌    | 5/9 [00:52<00:43, 10.87s/it]Inbox:  67%|██████▋   | 6/9 [01:02<00:32, 10.67s/it]Inbox:  78%|███████▊  | 7/9 [01:10<00:19,  9.91s/it]Inbox:  89%|████████▉ | 8/9 [01:19<00:09,  9.67s/it]Inbox: 100%|██████████| 9/9 [01:29<00:00,  9.58s/it]Inbox: 100%|██████████| 9/9 [01:29<00:00,  9.91s/it]
+  [OK] getnote_2026-06-19_getnote_2026-06-17_Nature Communications研究_人类记忆中皮层行波的多样化传播模式及其行为关联.md -> Neuroscience/
+  [OK] getnote_2026-06-19_getnote_2026-06-17_Transformer的拓扑困境_从思维链依赖到循环架构的回归.md -> AI-ML/
+  [OK] getnote_2026-06-19_getnote_2026-06-17_马毅_Yi Ma_UC Berkeley EECS讲座_智能的本质与AI的范式转移__从黑盒工程到第一性原理科学.md -> AI-ML/
+  [OK] getnote_2026-06-19_getnote_2026-06-18_Nature重磅研究_果蝇脑-腹神经索连接组揭示分布式行为控制新架构.md -> Neuroscience/
+  [OK] getnote_2026-06-19_getnote_2026-06-18_神经网络架构进化史_从感知机到Transformer的70年突破之路.md -> AI-ML/
+  [OK] getnote_2026-06-19_getnote_2026-06-18_谷歌TPU五代技术演进深度分析_从v2到Ironwood的架构稳定性与性能跃迁.md -> Chip-Hardware/
+  [OK] getnote_2026-06-19_getnote_2026-06-19_FeNN-DMA_面向脉冲神经网络加速的RISC-V系统级芯片架构.md -> Chip-Hardware/
+  [OK] getnote_2026-06-19_getnote_2026-06-19_人类连接组拓扑结构指导皮层行波传播与频率梯度形成.md -> Neuroscience/
+  [OK] getnote_2026-06-19_getnote_2026-06-19_全球首款MobileNet支持忆阻器存内计算芯片_技术突破与边缘AI应用前景.md -> Chip-Hardware/
+
+Inbox processing complete.
+
+Done!

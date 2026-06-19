@@ -21,3 +21,9 @@ This suggests for iNEST that the interplay of specific topological features (lik
 
 ---
 *来源: semantic_scholar (2015)*
+
+
+## G1 已通过
+- 深度分析: [[SOC_SF-SW_Concurrent_Criticality]]
+- 三要素协同假说: SF+SW拓扑=SOC涌现前置条件
+- 更新: 2026-06-19 14:29
