@@ -1,0 +1,29 @@
+---
+title: 【210页PPT】哈工大：大模型时代的具身智能
+tags:
+- ai-ml
+- artificial-intelligence
+- embodied-ai
+- large-language-model
+- robotics
+---
+> 笔记本: 我的剪贴板  
+> 创建时间: 2025-05-03  
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s/QbnINn4dC-PVQSfaZwiXNA](https://mp.weixin.qq.com/s/QbnINn4dC-PVQSfaZwiXNA)
+
+
+***文章来源：哈尔滨工业大学社会计算与信息检索研究中心*《*****大模型时代的具身智能********》***
+***封面来源：报告配图***
+
+
+**
+
+
+以上来源：人形机器人洞察研究，如有涉及版权等问题请及时联系我们，著作权解释权属原创者所有，由人工智能行动信息港AI HUB分享阅读
+
+---
+## 相关笔记 (AI 自动关联)
+- [[全球首篇！调研近400篇文献，鹏城实验室&中大深度解析具身智能]]
