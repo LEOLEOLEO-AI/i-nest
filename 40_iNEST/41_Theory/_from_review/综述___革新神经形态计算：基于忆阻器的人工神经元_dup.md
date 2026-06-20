@@ -1,0 +1,113 @@
+# 综述 | 革新神经形态计算：基于忆阻器的人工神经元
+
+> 笔记本: 我的剪贴板  
+> 创建时间: 2025-05-27  
+
+---
+
+原文链接: [https://mp.weixin.qq.com/s/sVCnhEvvuS58FNkXHY4Eqg](https://mp.weixin.qq.com/s/sVCnhEvvuS58FNkXHY4Eqg)
+
+
+**背景与亮点**
+
+
+随着信息技术的飞速发展，传统的冯·诺依曼计算机架构在处理大数据和复杂计算任务时逐渐暴露出诸多局限性。其主要瓶颈在于计算单元与存储单元的分离，导致数据传输过程中延迟增加、能耗上升。为了突破这一瓶颈，研究人员开始探索新型计算范式，其中神经形态计算因其模仿人脑神经网络的高效并行处理能力而备受关注。神经形态计算通过在存储单元中直接进行计算，减少了数据传输需求，同时模拟神经元的功能，展现出在图像识别、语音处理等复杂任务中的巨大潜力。
+然而，当前神经形态计算的发展仍面临诸多挑战。一方面，构建高效、高精度的神经形态计算系统需要性能优异的新兴存储技术，如阻变随机存取存储器、相变存储器等，每种技术都有其独特优势，但也存在各自的局限性。另一方面，如何将这些新兴存储技术与神经形态计算系统有效集成，实现低能耗、高集成度的计算，是当前亟待解决的问题。
+浙江大学集成电路学院高大为教授、张亦舒研究员联合北京智芯微电子技术有限公司、浙江创芯集成电路有限公司以及浙江大学杭州国际科创中心等单位，共同撰写了题为《Revolutionizing Neuromorphic Computing with Memristor-Based Artificial Neurons》的综述论文。该论文聚焦于基于挥发性忆阻器的人工神经元，深入探讨了其在神经形态计算中的最新研究进展、面临的挑战以及未来的发展方向。
+论文详细介绍了多种基于挥发性忆阻器的人工神经元模型，包括漏电积分-发放神经元（LIF）、霍奇金-赫胥黎神经元、光电神经元和时间曲面神经元等。这些神经元模型利用忆阻器独特的动态开关行为、快速切换速度和低能耗等特性，模拟生物神经元的放电行为和神经网络的复杂运算，实现了高效、低功耗的神经形态计算系统。例如，基于Mott绝缘体材料的LIF神经元，通过精确控制氧含量，优化了器件的电学性能，提高了循环稳定性，展现出在神经机器人等领域的应用潜力；而基于扩散型忆阻器的LIF神经元则因其无需额外复位相、可单极性电压操作等优点，简化了电路设计，降低了能耗。
+展示了VO2基Mott绝缘体人工神经元实现多种放电行为以及其类似大脑皮层结构的示意图。这些研究成果不仅为神经形态计算提供了新的硬件实现途径，也为未来智能计算系统的发展提供了重要的理论和技术支持。
+基于挥发性忆阻器的人工神经元在神经形态计算中的应用前景广阔。随着物联网时代的到来，边缘端侧产生的冗余信息不断增加，对计算能力的要求也越来越高。忆阻器基人工神经元能够有效扩展到更高级的认知任务，如语音识别，为构建高效、高密度的神经形态系统提供了可能，有望在智能语音助手、自然语言处理等领域发挥重要作用。
+此外，这些人工神经元还可应用于生物医学工程领域，如模拟生物神经元的信号处理功能，开发新型的神经假体和智能医疗设备。在工业物联网和自动驾驶等领域，基于忆阻器的神经形态计算系统凭借其高密度集成、高可靠性和低能耗等优势，能够满足对硬件性能和可靠性的严格要求，为复杂环境下的智能决策和实时数据处理提供支持。
+然而，要实现这些应用，仍需解决一些关键问题。例如，提高挥发性忆阻器的均匀性和可靠性，优化其物理机制和器件结构，以确保长期稳定运行；开发与CMOS工艺兼容的忆阻器集成技术，实现大规模生产；以及针对忆阻器的特性，设计新的神经网络架构和算法，充分发挥其在时空信息处理方面的优势。未来的研究将围绕这些方向展开，不断推动神经形态计算技术的发展和应用，为智能计算领域带来新的突破和变革。
+
+图1. 用于神经形态应用的基于忆阻器的人工神经元的未来方向和应对挑战的策略。
+该文章以题为“Revolutionizing neuromorphic computing with memristor-based artificial neurons”发表在*Journal of Semiconductors*上。
+**文章信息：******
+**Revolutionizing neuromorphic computing with memristor-based artificial neurons**
+Yanning Chen, Guobin Zhang, Fang Liu, Bo Wu, Yongfeng Deng, Dawei Gao, Yishu Zhang
+J. Semicond. 2025, 46(6), 061301 doi: 10.1088/1674-4926/24110006
+[Full Text](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/24110006)
+
+
+** 作者简介**
+
+
+**第一作者**
+
+
+**陈燕宁**，浙江大学集成电路学院博士生、高级工程师、研发中心主任。
+
+
+于2002年在北京首都师范大学获得计算机科学学士学位，2018年在北京邮电大学获得电子与通信工程硕士学位。目前，她在浙江大学集成电路学院攻读博士学位。她长期从事工业芯片设计和通用技术研发工作。她带领团队研究电力行业芯片的应用环境，制定相关技术标准，并建立工业芯片的质量保证体系。
+
+
+**第一作者**
+
+
+**张国滨**，浙江大学集成电路学院硕士研究生。
+于2019年毕业于哈尔滨工业大学，获得学士学位。目前，他是浙江大学集成电路学院的硕士研究生。他的研究方向集中在基于RRAM的存内计算架构和低功耗神经形态计算。
+
+
+**通讯作者**
+
+
+**高大为**，研究员及博士生导师、浙江大学先进集成电路制造技术研究所所长。
+于1998年毕业于日本九州大学，获得电子工程专业学位。主要研究方向为集成电路制造、逻辑/模拟电路工艺、功率器件以及电源管理。作为浙江大学先进集成电路制造技术研究所所长，他致力于探索这些领域的前沿技术，并推动浙江省集成电路创新平台的发展。
+
+
+**通讯作者**
+
+
+**张亦舒**，浙江大学的科创百人研究员。
+专注于忆阻器、存内计算、神经形态计算以及集成电路工艺开发。他于2019年获得新加坡科技设计大学博士学位。他拥有60多篇学术论文和多项专利，主持国家和省级资助的科研项目，并担任多个国际期刊的青年编委。
+
+
+**专题推荐**
+
+
+[半导体学报(英文)2025年46卷4期——量子点半导体光电材料、器件及表征专题](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650736005&idx=1&sn=8e85c0c23f0a75615b798ee2c136ab06&scene=21#wechat_redirect)
+[半导体学报(英文)2025年46卷2期——光电神经拟态器件专刊](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650735538&idx=1&sn=6facf9c3c2ebdda8bdad02595b610a1a&scene=21#wechat_redirect)
+[半导体学报(英文)2025年45卷1期——面向传感器4.0的柔性及智能电子专刊](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650735089&idx=1&sn=5920735c404f120c0ceb7861516bd23d&scene=21#wechat_redirect)
+[半导体学报(英文)2024年45卷6期——集成电路技术及其应用专题](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650732645&idx=1&sn=33011c96332e0e151cc51e1f801c872e&chksm=881d3dcfbf6ab4d936c7fe05ea2bab6ebf435764d553228cd9655e42dc7416ecf941ae80b8e9&token=267937074&lang=zh_CN&poc_token=HA7tjGajjqe58VVI0aTNdWBdU9i2J-hmmMc8E4-5&scene=21#wechat_redirect)
+[半导体学报(英文)2023年44卷9期——面向未来显示技术的先进光电子和电子器件专刊](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650730192&idx=1&sn=2e77ca2b9447c62be0dbe0101d2e0282&chksm=881d2b7abf6aa26cb67baccab90547c2360dd80b1941ab9ec709ed4a34bd94ec0dffb35dfa70&scene=21#wechat_redirect)
+[半导体学报(英文)2023年44卷7期——超宽禁带氧化镓半导体专刊 (II) ：功率器件和DUV光电器件](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650729736&idx=2&sn=5b33121198f128774faf1cb07f7b4875&chksm=881d28a2bf6aa1b4d2b4fec353cbf73cc30c738fff50be6600c75746ea2f3331475daa134830&scene=21#wechat_redirect)
+[半导体学报(英文)2023年44卷6期——超宽禁带氧化镓半导体专刊（I）：外延生长和功率器件](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650728978&idx=2&sn=e20d738c5b4ea300f09f1cd8c20db54f&chksm=881d2fb8bf6aa6ae8cb5489960ef1748628c6d1f1b9b06d38893fad759124d6e7be0589f7068&scene=21#wechat_redirect)
+[半导体学报(英文)2023年44卷2期——新型半导体生化传感专刊](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650728008&idx=2&sn=5d3e6ad3190d83b9cd420b5fd0505e58&chksm=881d23e2bf6aaaf430bfc889e8edb8f4f78a49039e2de81b492b545a6242e7c9869cb44f8648&scene=21#wechat_redirect)
+[半导体学报(英文)2023年44卷1期——转角范德瓦尔斯异质结专题](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650727806&idx=1&sn=c0ef519e9a53d00d6ba271e393b38e2c&chksm=881d20d4bf6aa9c2e53fc3b6d56dc255b3e75ecae7f8720080518142b3d3d73eab3b74546549&scene=21#wechat_redirect)
+[半导体学报(英文)2022年43卷4期——半导体材料与器件的原位表征专题](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650723852&idx=1&sn=3953cd2d0bae5d4e3d7a4289a0a50936&chksm=881d13a6bf6a9ab0e6dbe61386e4b88ee5a48637c7e2d01e484a74afcfea7b140396ac666b53&scene=21#wechat_redirect)
+[半导体学报(英文)2021年42卷10期——柔性能源器件专刊](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650721853&idx=2&sn=9c8c634e95e7de3f608d285abedaf276&chksm=881d0b97bf6a82811a5f2ee6cef1a750537215121f380f4a77b8abfdd0a7d1d6be20ec6035be&token=946733600&lang=zh_CN&scene=21#wechat_redirect)
+[半导体学报(英文)2021年42卷4期——半导体光电子集成技术专刊](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650720313&idx=1&sn=07355e1ebff802b53ad18da53bb575ca&scene=21#wechat_redirect)
+[半导体学报(英文)2021年42卷2期——后摩尔：三维异质集成专刊](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650720097&idx=2&sn=865b8c6486e2c1f44db0bab17404b20d&chksm=881d02cbbf6a8bddb02b74b425ec81af403ae27364912b6b911a2ef24c6277038fdb49c3a3b7&scene=21#wechat_redirect)
+[半导体学报(英文)2021年42卷1期——后摩尔：新型存储与神经形态计算的阻变器件专刊](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650719852&idx=2&sn=95691160304748d3216140bc7437b312&chksm=881d03c6bf6a8ad057e953ac5aeebd6a6d154453c6b2c91625cb1aff46e517330ef5f0d256b4&scene=21#wechat_redirect)
+[半导体学报(英文)2020年41卷11期——模拟和数模混合集成电路专刊](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650718812&idx=2&sn=377f0d9d087037c1c9ee3730c8734677&chksm=881d07f6bf6a8ee0deefa2a840640a27873ab067b23acd0d312e302afefeb94ad23f2c641968&scene=21#wechat_redirect)
+[半导体学报(英文)2020年41卷9期——能量存储的挑战和可能性专刊](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650718223&idx=2&sn=00378743584a34c6f922f7783e5b1449&chksm=881d05a5bf6a8cb3330660784e7611be4247315edc7fa220d4aa672571338e88dfb5f9a04168&token=1114848158&lang=zh_CN&scene=21#wechat_redirect)
+[半导体学报(英文)2020年41卷8期——单元素二维半导体材料及应用专刊](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650718086&idx=2&sn=f4f2f0db1a4a8ad5160bacad40975425&chksm=881d7a2cbf6af33af37ce8712adf56bc9e27fb9056a94dbc945ef3c533953bc7f9bb1181c3db&token=1114848158&lang=zh_CN&scene=21#wechat_redirect)
+[半导体学报(英文)2020年41卷7期——介观系统量子输运专刊](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650717884&idx=2&sn=1a7f1313398f9d972dbd10664eb88dd5&chksm=881d7b16bf6af200aa2c49ef90ee72977d8f4f7f6fd4e8744e8a5cae367f440b1c0d1b38021d&token=1912964012&lang=zh_CN&scene=21#wechat_redirect)
+[半导体学报(英文)2020年41卷5期——钙钛矿半导体光电材料与器件专刊](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650717478&idx=2&sn=3b0fca08563c30812442004545b06615&chksm=881d788cbf6af19a20eebf4bd096bb45922906ef25e3d04ac3c8b8c7b5da3b0d78ca3a9314f7&token=36310478&lang=zh_CN&scene=21#wechat_redirect)
+[半导体学报(英文)2020年41卷4期——柔性材料与结构专刊](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650717261&idx=2&sn=bccff7137121137ec8a2f64107ee8026&chksm=881d79e7bf6af0f1ef3a3a9d7565e9ee2e4c6fda13e38e1262c0d5e87e1d9ce37adc79eeaca6&token=1536373542&lang=zh_CN&scene=21#wechat_redirect)
+[半导体学报(英文)2020年41卷2期——面向高能效人工智能计算的可重构芯片技术专刊](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650717101&idx=2&sn=cf2b3931922c9d60b5085ae3dc1e0aba&chksm=881d7e07bf6af7114bb89053e4ed35986211ff42897eca1d956b4811a1adba4c3d2e797065b3&token=1536373542&lang=zh_CN&scene=21#wechat_redirect)
+[半导体学报(英文)2020年41卷1期——王占国院士从事科研工作60周年专刊](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650717015&idx=2&sn=b6bb36252b6b2547d29ce18b0e1afe17&chksm=881d7efdbf6af7eb0596deb70deacac4bf4f72f96ea279e5db59f61da877393d9091eec20a69&token=1554466&lang=zh_CN&scene=21#wechat_redirect)
+[半导体学报(英文)2019年40卷12期——深紫外发光材料与器件专题](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650716931&idx=2&sn=22b2a705dbf63151664bed551e1a6065&chksm=881d7ea9bf6af7bfe7c7f24bd3f98e617f9b4333ee7251577fc07eeebd3f3f747f9e5b2d1b15&scene=21#wechat_redirect)
+[半导体学报(英文)2019年40卷11期——机器人技术和健康监测用柔性可穿戴传感器专刊](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650716872&idx=2&sn=5603462176e298f79861bbd86574e4d6&chksm=881d7f62bf6af674e6784b4415e4ba0d583e0e200cf9d38f95b9f7825fb90a50af1e6055df0b&scene=21#wechat_redirect)
+[半导体学报(英文)2019年40卷10期——硅基化合物材料与器件专题](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650716814&idx=2&sn=ee0c45470709790b3e26b8d6c0911186&chksm=881d7f24bf6af632eb7f8a0ad9c061595e0ee02e4f6a545f75a2b93f7c7274826c5e53f5093f&scene=21#wechat_redirect)
+[半导体学报(英文)2019年40卷9期——纪念黄昆先生百年诞辰专刊](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650716747&idx=1&sn=6f7bd2ffae1f7a86338e6b4e7fc0a8ff&chksm=881d7fe1bf6af6f7e76fe8fdd10eb394ab06d19c283bd84ec339dfa37be98dab234527131d9b&scene=21#wechat_redirect)
+[半导体学报(英文)2019年40卷8期——磁性半导体的机遇与挑战专刊](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650716721&idx=2&sn=2deb51494dff9ef572c57a1703b9d528&chksm=881d7f9bbf6af68d9608352b14aa695f7e6e61adbdbd056a7602d93ec04a73f483cfeb533225&scene=21#wechat_redirect)
+[半导体学报(英文)2019年40卷7期——半导体量子光源专刊](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650716686&idx=2&sn=92fddd7caa543a537fd96f45e954866a&chksm=881d7fa4bf6af6b2094dc4868a9985e882b51d5f6917ea6aae7328a6adc82f9007a3c80234d2&scene=21#wechat_redirect)
+[半导体学报(英文)2019年40卷6期——二维材料物理性质与光电器件专刊](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650716559&idx=2&sn=34ee67011f95ba857a51fb2275e1a4cd&chksm=881d7c25bf6af533c50ec81523129e594b5f3a6797e4a1fd8870aaee29e4eed97bbe8b569b8f&scene=21#wechat_redirect)
+[半导体学报(英文)2019年40卷1期——超宽禁带半导体氧化镓材料与器件专刊](http://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650716314&idx=3&sn=adc2596805643b820b7655f6116ff1ad&chksm=881d7d30bf6af426954afb375bda06c083abbe75a2ba3843e12e7dac755d15a0a84a193a4e87&scene=21#wechat_redirect)
+
+
+**《半导体学报(英文)》简介：**
+《半导体学报(英文)》是中国科学院主管、中国电子学会和中国科学院半导体研究所主办的学术刊物，1980年创刊，首任主编是王守武院士，黄昆先生撰写了创刊号首篇论文，2009年改为全英文刊*Journal of Semiconductors*（简称JOS），同年开始与IOPP英国物理学会出版社合作向全球发行。现任主编是李树深院士。连续10年荣获中国最具国际影响力学术期刊。影响因子为4.8，排在凝聚态物理学科22/79，Q2区顶部。
+**“半语-益言”系列讲座**
+借一言半语，聊“核芯”科技，“半语-益言”全五季直播讲座回放链接：
+[https://www.koushare.com/topicReview/byyy/68](https://www.koushare.com/space/328012/home)
+2025年第六季直播讲座将不定期举办，敬请关注。
+**“半导体十大研究进展”推荐与评选工作简介：**
+《半导体学报(英文)》于2020年初启动实施 “半导体年度十大研究进展”的推荐和评选工作，记录我国半导体科学与技术研究领域的标志性成果。以我国科研院所、高校和企业等机构为第一署名单位，本年度公开发表的半导体领域研究成果均可参与评选。请推荐人或自荐人将研究成果的PDF文件发送至《半导体学报(英文)》电子邮箱：jos@semi.ac.cn，并附简要推荐理由。被推荐人须提供500字左右工作简介，阐述研究成果的学术价值和应用前景。年度十大研究进展将由评审专家委员会从候选推荐成果中投票产生，并于下一年度春节前公布。
+**JOSarXiv预发布平台简介：**
+半导体科技发展迅猛，科技论文产出数量逐年增加。JOSarXiv致力于为国内外半导体领域科研人员提供中英文科技论文免费发布和获取的平台，保障优秀科研成果首发权的认定，促进更大范围的学术交流。JOSarXiv由《半导体学报(英文)》主编李树深院士倡导建立，编辑部负责运行和管理，是国内外第一个专属半导体科技领域的论文预发布平台，提供预印本论文存缴、检索、发布和交流共享服务。
+JOSarXiv于2020年1月1日正式上线（[http://arxiv.jos.ac.cn/](http://arxiv.jos.ac.cn/)），通过《半导体学报(英文)》官网（[http://www.jos.ac.cn/](http://www.jos.ac.cn/)）亦可访问。敬请关注和投稿！
+
+---
+**Tags:** #CST #Chiplet
