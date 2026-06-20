@@ -6,10 +6,16 @@ source: Google News RSS + arXiv (intersectional abs: phrases)
 
 # 2026-06-20 iNEST Daily Literature Crawl
 
-> Crawl: 2026-06-20 01:21 | New: 0 | Total: 13
+> Crawl: 2026-06-20 08:02 | New: 0 | Total: 20
 > Focus: RG×神经网络 | 神经临界 | 复杂网络相变 | 液态硬件 | 智能涌现第一性
 
 ## All Results
+
+- **[Algorithm–hardware co-design of neuromorphic networks with dual memory pathways - Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GWnNpdmRBcGJlYVBORnNoVFp6eU9tdTVyV0JXaUgzSXJQSGpOTmZ3c19FLWhZUTZVRW9XWmFJZm5TcjJsS2NFV3JrRGRla1FCaHRpVjNPNkNUQUhSQUx3?oc=5)**
+  - Google News | Tue, 16 Jun 2026 09:49
+
+- **[The Thermodynamics of Capital: Artificial Intelligence, Energy Crisis, and Ecological Crisis - Countercurrents](https://news.google.com/rss/articles/CBMixAFBVV95cUxOdlgxY1g0OG1EWEVtMmNMbk1NUmlKT3M3MmVkbVFWS2xNSlJKeVhpS0ZLalJ2eTJRNlRLdUlqZUNKUTFhUlIydFpaOGhmRGFJYXlmRmQxTl9McHluWi1hY1NoY19Ed2hsSUpyU1ZCcU9pYmZlZXJscXZsd1dLd29KVmVxY01KbGFBRFJPSlpPYnFQT2dmRTktVGl0aXJuWEFMRnhlNkRPcXhWVGVjQ2V4OUFoMU9JUWtqcWRfNTB6S0ttRVB5?oc=5)**
+  - Google News | Thu, 18 Jun 2026 06:35
 
 - **[SSH-Net: A Deep Neural Network for Predicting Failure Time Distribution Functions under Competing Risks with Application to GPU Data](http://arxiv.org/abs/2606.20451v1)**
   - arXiv | 2026-06-18
@@ -30,6 +36,10 @@ source: Google News RSS + arXiv (intersectional abs: phrases)
 - **[Shifting-based Optimizable Linear Relaxations for General Activation Functions](http://arxiv.org/abs/2606.20292v1)**
   - arXiv | 2026-06-18
   - The use of neural networks (NNs) is rapidly increasing, including in safety- and security-critical domains. To provide formal guarantees about NN beha
+
+- **[A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems](http://arxiv.org/abs/2606.20031v1)**
+  - arXiv | 2026-06-18
+  - Dynamic environmental changes, confined workspaces, and stringent real-time constraints make pathfinding in Robotic Mobile Fulfillment Systems (RMFS) 
 
 - **[Human-AI Coevolution Dynamics: A Formal Theory of Social Intelligence Emergence Through Long-Term Interaction](http://arxiv.org/abs/2606.19144v1)**
   - arXiv | 2026-06-17
@@ -62,4 +72,20 @@ source: Google News RSS + arXiv (intersectional abs: phrases)
 - **[Continuous Cross-Domain Traffic State Prediction via Memory-Augmented Graph Liquid Time-Constant Networks](http://arxiv.org/abs/2606.15807v1)**
   - arXiv | 2026-06-14
   - Traffic state prediction is a fundamental task in intelligent transportation systems. In practical applications, some regions suffer from limited traf
+
+- **[Non-frontal face recognition using GANs and memristor-based classifiers](http://arxiv.org/abs/2606.12074v1)**
+  - arXiv | 2026-06-10
+  - Face recognition systems have advanced significantly through deep learning techniques, delivering high performance and robustness in complex scenarios
+
+- **[Integrated magnonic neural circuits based on nonlinear wave neurons](http://arxiv.org/abs/2606.11703v1)**
+  - arXiv | 2026-06-10
+  - Artificial intelligence is driving intense interest in alternative computing hardware capable of neural information processing beyond conventional cha
+
+- **[Improved selector behavior in ultrathin chromium-doped V$_2$O$_3$ films](http://arxiv.org/abs/2606.10397v1)**
+  - arXiv | 2026-06-09
+  - Devices based on the negative differential resistance effect in chromium doped V$_2$O$_3$ are considered to be promising as selector elements for use 
+
+- **[Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2](http://arxiv.org/abs/2606.08584v1)**
+  - arXiv | 2026-06-07
+  - Sparse coding provides a principled framework for signal representation by expressing an input as a linear combination of only a small number of basis
 
