@@ -187,3 +187,46 @@
   font-style: italic;
   padding: 6px 0;
 }
+
+/* ---------- Warn state ---------- */
+.dashboard .stat-card.warn {
+  border: 2px solid var(--inest);
+  background: var(--inest-bg);
+  animation: pulse-warn 2s ease-in-out infinite;
+}
+@keyframes pulse-warn {
+  0%, 100% { border-color: var(--inest); }
+  50% { border-color: rgba(247,111,79,0.3); }
+}
+
+/* ---------- Button plugin styling ---------- */
+.dashboard .block-language-button {
+  display: inline-block;
+  margin: 4px 8px 4px 0;
+}
+.dashboard .block-language-button button {
+  border-radius: 8px;
+  padding: 8px 18px;
+  font-size: 0.9em;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s;
+}
+.dashboard .block-language-button button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* ---------- Terminal command cards ---------- */
+.dashboard .callout[data-callout="tip"] pre {
+  background: #1e293b;
+  color: #e2e8f0;
+  padding: 10px 16px;
+  border-radius: 6px;
+  font-size: 0.82em;
+}
+.dashboard .callout[data-callout="tip"] pre code {
+  background: none;
+  color: #e2e8f0;
+}

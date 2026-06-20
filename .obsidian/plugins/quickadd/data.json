@@ -1,5 +1,24 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "pipeline-daily",
+      "name": "📥 Daily Crawl",
+      "type": "Macro",
+      "macroId": "macro-daily"
+    },
+    {
+      "id": "pipeline-inbox",
+      "name": "🤖 Process Inbox",
+      "type": "Macro",
+      "macroId": "macro-inbox"
+    },
+    {
+      "id": "pipeline-links",
+      "name": "🔗 Build Links",
+      "type": "Macro",
+      "macroId": "macro-links"
+    }
+  ],
   "inputPrompt": "single-line",
   "persistInputPromptDrafts": true,
   "useSelectionAsCaptureValue": true,
@@ -111,5 +130,37 @@
     "backfillFileOpeningDefaults": true,
     "setProviderModelDiscoveryMode": true,
     "migrateProviderApiKeysToSecretStorage": true
+  },
+  "macros": {
+    "macro-daily": {
+      "name": "Run Daily Crawl",
+      "commands": [
+        {
+          "type": "ShellCommand",
+          "command": "D:\\Obsidian\\home\\work\\.openclaw\\workspace\\.venv\\Scripts\\python.exe D:\\Obsidian\\home\\work\\.openclaw\\workspace\\90_System\\scripts\\daily_crawl.py",
+          "cwd": "D:\\Obsidian\\home\\work\\.openclaw\\workspace"
+        }
+      ]
+    },
+    "macro-inbox": {
+      "name": "Process Inbox",
+      "commands": [
+        {
+          "type": "ShellCommand",
+          "command": "D:\\Obsidian\\home\\work\\.openclaw\\workspace\\.venv\\Scripts\\python.exe D:\\Obsidian\\home\\work\\.openclaw\\workspace\\90_System\\scripts\\process_inbox.py --limit 20",
+          "cwd": "D:\\Obsidian\\home\\work\\.openclaw\\workspace"
+        }
+      ]
+    },
+    "macro-links": {
+      "name": "Build Links",
+      "commands": [
+        {
+          "type": "ShellCommand",
+          "command": "D:\\Obsidian\\home\\work\\.openclaw\\workspace\\.venv\\Scripts\\python.exe D:\\Obsidian\\home\\work\\.openclaw\\workspace\\90_System\\scripts\\build_graph.py --auto-fix",
+          "cwd": "D:\\Obsidian\\home\\work\\.openclaw\\workspace"
+        }
+      ]
+    }
   }
 }
