@@ -12,13 +12,13 @@ VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 INBOX = VAULT / "00_Inbox"
 LOG_DIR = VAULT / "logs"
 
-# SiliconFlow API (DeepSeek V4)
-SF_API_KEY = os.environ.get("SF_API_KEY", "sk-ewvmxpqaoqdmzyrizltymazqkbbzhberrgdwhrinpssoauum")
-SF_API_URL = "https://api.siliconflow.cn/v1/chat/completions"
-SF_MODEL = "deepseek-ai/DeepSeek-V4-Pro"
+# DeepSeek Official API (DeepSeek V4)
+DS_API_KEY = os.environ.get("DS_API_KEY", "sk-73d73dedd19548d19d141a0c37cfd196")
+DS_API_URL = "https://api.deepseek.com/v1/chat/completions"
+SF_MODEL = "deepseek-v4-pro"
 
 def call_llm(prompt, max_tokens=300):
-    """Call SiliconFlow DeepSeek V4 API."""
+    """Call DeepSeek Official DeepSeek V4 API."""
     payload = {
         "model": SF_MODEL,
         "messages": [
@@ -29,11 +29,11 @@ def call_llm(prompt, max_tokens=300):
         "temperature": 0.1,
     }
     req = urllib.request.Request(
-        SF_API_URL,
+        DS_API_URL,
         data=json.dumps(payload).encode("utf-8"),
         headers={
             "Content-Type": "application/json",
-            "Authorization": f"Bearer {SF_API_KEY}"
+            "Authorization": f"Bearer {DS_API_KEY}"
         }
     )
     try:
