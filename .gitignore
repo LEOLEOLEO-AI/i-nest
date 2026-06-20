@@ -1,57 +1,40 @@
-﻿# Python virtual environment
+﻿# Python
 .venv/
 __pycache__/
 *.pyc
 *.pyo
 
-# Neural memory (contains API keys)
-.neural_memory/.env
-.neural_memory/.env.*
-
-# Neural database (large binary cache)
-.neural_db/chats/
-
-# Obsidian workspace state (volatile)
+# Obsidian cache
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-
-# System files
+.trash/
+.smart-connections/
 .smart-env/
-.tasks/
+.neural_db/
+.neural_memory/
 
-# OS files
+# Simulation data (large files)
+simulation/data/
+sdi_sim/data/
+*.pkl
+*.h5
+*.mat
+*.npy
+
+# Logs & state
+logs/
+state/
+*.log
+
+# OS
 .DS_Store
 Thumbs.db
-desktop.ini
-
-# Obsidian community plugins cache
-.obsidian/plugins/*/data.json
-
-# Temporary files
 *.tmp
 *.bak
-*.swp
-*~
 
-# Plugin data files that may contain API keys
-.obsidian/plugins/neural-composer/data.json
-.obsidian/plugins/copilot/data.json
-90_System/scripts/config.yaml
-
-# Legacy subvault (old git repo backup inside vault)
-90_System/legacy_subvault_git/
-90_System/legacy_subvault_obsidian/
-
-# Large binary files
-*.rar
-*.zip
-*.tar.gz
-
-# Large binary data files
-*.mat
-*.rar
-*.zip
-*.tar.gz
-
-# Diary archive (cleaned Get Notes personal diaries)
-_diary_archive/
+# Build artifacts
+*.pdf
+*.png
+*.jpg
+*.gif
+node_modules/
