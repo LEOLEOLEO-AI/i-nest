@@ -1,59 +1,168 @@
-﻿# Genspark 同步 Gitee 指令
+﻿---
+title: "Genspark Claw Computer — Obsidian 同步指令"
+date: 2026-06-20
+type: instruction
+target: Genspark Claw Computer Agent
+---
 
-## 触发词
-当对话中出现 **"同步gitee"** / **"sync gitee"** / **"推送到gitee"** 时，执行本协议。
+# Genspark → Obsidian 同步指令
 
-## 仓库信息
-- **地址**: `https://gitee.com/iBrainNest/i-nest.git`
-- **分支**: `main`
-- **本地路径**: `~/i-nest-sync/` （首次使用需 clone）
+> 📋 将此文档全文发送给 Genspark Claw Computer，它可以直接执行每一条命令。
 
-## 同步协议 (Pull-First → 提交 → Push)
+---
 
-### Step 1: 准备
+## 1. 仓库配置（一次性）
+
 ```bash
-cd ~/i-nest-sync
-# 如果还没 clone
-if [ ! -d .git ]; then
-    git clone https://gitee.com/iBrainNest/i-nest.git .
-fi
+# 克隆仓库（如果还没克隆）
+git clone https://iBrainNest:Liusansan%406363@gitee.com/iBrainNest/i-nest.git /workspace/i-nest
+cd /workspace/i-nest
+
+# 配置用户信息
+git config user.name "Genspark"
+git config user.email "genspark@inest.research"
 ```
 
-### Step 2: 拉取远程更新
+---
+
+## 2. 每次同步前（必须先执行）
+
 ```bash
-git fetch origin main
-BEHIND=$(git rev-list --count HEAD..origin/main)
-if [ "$BEHIND" -gt 0 ]; then
-    echo "远程有 $BEHIND 个新提交，拉取中..."
-    git pull origin main --no-rebase
-fi
+cd /workspace/i-nest
+git pull origin main
 ```
 
-### Step 3: 检测变更
-```bash
-git status --porcelain
+---
+
+## 3. 写入内容 — 严格遵守以下规则
+
+### 3.1 文件位置
+
+**所有 Genspark 产出的笔记，只写入 `00_Inbox/_from_genspark/` 目录。**
+
+```
+✅ 正确: 00_Inbox/_from_genspark/2026-06-20_Genspark_突触可塑性最新进展.md
+❌ 错误: 40_iNEST/xxx.md
+❌ 错误: 30_TCC/xxx.md
 ```
 
-### Step 4: 提交并推送
+### 3.2 文件命名
+
+```
+YYYY-MM-DD_Genspark_<简短主题>.md
+```
+
+示例：
+- `2026-06-20_Genspark_忆阻器阵列容错路由算法.md`
+- `2026-06-21_Genspark_自由能原理与主动推理综述.md`
+
+### 3.3 文件格式（Frontmatter 必须包含）
+
+每个文件开头必须有 YAML frontmatter：
+
+```markdown
+---
+title: "文章标题"
+date: 2026-06-20
+source: genspark
+track: TCC   # 或 iNEST — 由 Genspark 初步判断
+tags: [genspark, 具体关键词]
+---
+
+# 文章标题
+
+正文内容...
+```
+
+### 3.4 track 判断标准
+
+| track | 关键词匹配 |
+|:---|:---|
+| `TCC` | 晶圆级集成、chiplet、片上网络、SDSoW、拓扑路由、variational free energy、互连架构 |
+| `iNEST` | 神经形态、脉冲神经网络、忆阻器、自组织临界、涌现、类脑计算、主动推理 |
+
+如果无法判断 → 写 `TCC`（后续 LLM 管道会重新分类）。
+
+---
+
+## 4. 提交与推送
+
 ```bash
-git add -A
-git commit -m "sync: genspark - $(date '+%Y-%m-%d %H:%M')"
+cd /workspace/i-nest
+
+# 只添加 Genspark 目录下的文件
+git add 00_Inbox/_from_genspark/
+
+# 提交
+git commit -m "genspark: $(date +%Y-%m-%d) 自动同步 — <本次主题>"
+
+# 推送
 git push origin main
 ```
 
-### Step 5: 报告
-输出：远程拉取数 + 本地上传文件数 + 提交哈希
+---
 
-## 目录对应关系（Genspark 产出的内容应放在）
-| 内容类型 | Gitee 目录 |
-|---------|-----------|
-| 论文草稿/文献综述 | `papers/iNEST/` |
-| 专利撰写 | `iNEST_3_专利撰写/` |
-| 仿真代码 | `iNEST_4_工程开发/`, `_archive_02_Zettelkasten/` |
-| 仿真结果数据 | `simulation/data/` |
-| 知识库条目 | `03_Topics/`, `knowledge_graph/` |
-| 灵感/创意 | `iNEST_灵感池/`, `00_Inbox/` |
+## 5. 完整单次同步脚本
 
-## 冲突处理
-- 拉取冲突时：保留远程版本，本地修改以 `.genspark_backup` 后缀保存
-- 绝不使用 `--force` 推送
+```bash
+#!/bin/bash
+# genspark_sync.sh — Genspark 单次同步脚本
+
+cd /workspace/i-nest
+git pull origin main
+
+# 在这里执行 Genspark 的内容生成逻辑
+# 将产出的 .md 文件写入 00_Inbox/_from_genspark/
+
+git add 00_Inbox/_from_genspark/
+git commit -m "genspark: $(date +%Y-%m-%dT%H:%M) 自动同步"
+git push origin main
+echo "✅ Genspark sync done."
+```
+
+---
+
+## 6. 冲突处理
+
+如果 push 被拒绝（`rejected`）：
+
+```bash
+git pull --rebase origin main
+git push origin main
+```
+
+---
+
+## 7. 定时执行（可选）
+
+在 Genspark 的 Linux 环境中添加 crontab：
+
+```bash
+# 每天 7:30, 12:30, 18:30 执行同步
+30 7,12,18 * * * /workspace/i-nest/genspark_sync.sh >> /workspace/i-nest/logs/genspark_sync.log 2>&1
+```
+
+---
+
+## 8. 注意事项
+
+1. **绝不**直接编辑 `30_TCC/`、`40_iNEST/`、`50_Output/` 下的文件 — 由本地管道处理
+2. 每次 push 前**必须**先 pull，防止冲突
+3. 文件名**不要**含特殊字符（`/\:*?"<>|`）
+4. 如果 Gitee 推送失败（超限），等待本地 GC 完成后重试
+
+---
+
+## 9. Obsidian 端自动处理
+
+Genspark 推送后，Obsidian 端 `obsidian-git` 插件每 5 分钟自动 pull。
+
+管道定时任务自动执行：
+- **09:00** / **15:00**: `process_inbox.py` — LLM 分类 + 移动到对应目录
+- **每周日 03:00**: 全量重组
+
+Genspark 无需关心后续流程。
+
+---
+
+> 📤 将第 1 节命令执行一遍完成初始化，后续每次使用第 5 节的完整脚本即可。
