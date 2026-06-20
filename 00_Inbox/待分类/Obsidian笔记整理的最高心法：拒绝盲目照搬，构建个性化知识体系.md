@@ -1,4 +1,11 @@
 ---
+category: Web-Clips
+quality: low
+tags:
+- needs-review
+---
+
+---
 title: "Obsidian笔记整理的"最高心法"：拒绝盲目照搬，构建个性化知识体系"
 source: "https://mp.weixin.qq.com/s/RsMDjiOCW1U_xNM8U5DN9g"
 created: 2026-04-28

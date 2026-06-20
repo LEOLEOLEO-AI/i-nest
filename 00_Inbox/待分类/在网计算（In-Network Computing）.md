@@ -1,10 +1,13 @@
 ---
-title: "在网计算（In-Network Computing）"
+category: Web-Clips
 created: 2026-04-29
-note_id: ""
+note_id: ''
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
+- get-笔记
+- default
+- needs-review
+title: 在网计算（In-Network Computing）
 ---
 
 # 在网计算（In-Network Computing）

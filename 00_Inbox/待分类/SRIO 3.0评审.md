@@ -1,12 +1,15 @@
 ---
-title: "SRIO 3.0评审"
+category: Web-Clips
 created: 2025-02-20
-note_id: "1868372351779955456"
+note_id: '1868372351779955456'
+quality: low
 tags:
-  - "系统架构"
-  - "get-笔记"
-  - "default"
-  - "重要"
+- 系统架构
+- get-笔记
+- default
+- 重要
+- needs-review
+title: SRIO 3.0评审
 ---
 
 # SRIO 3.0评审

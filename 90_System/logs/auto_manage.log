@@ -3002,3 +3002,288 @@ Done!
 [main 86c173b] auto: inbox processing 2026/06/20 鍛ㄥ叚  7:56:21.25
  6 files changed, 29 insertions(+), 10 deletions(-)
 [2026/06/20 周六  7:56:21.33] Auto-management complete. 
+======================================== 
+[2026/06/20 周六  8:40:02.64] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 139 inbox notes...
+Inbox:   0%|          | 0/139 [00:00<?, ?it/s]Inbox:   1%|          | 1/139 [00:06<14:04,  6.12s/it]Inbox:   1%|▏         | 2/139 [00:09<10:00,  4.38s/it]Inbox:   2%|▏         | 3/139 [00:12<08:38,  3.81s/it]Inbox:   3%|▎         | 4/139 [00:15<07:57,  3.54s/it]Inbox:   4%|▎         | 5/139 [00:18<07:34,  3.39s/it]Inbox:   4%|▍         | 6/139 [00:21<07:18,  3.30s/it]Inbox:   5%|▌         | 7/139 [00:24<07:07,  3.24s/it]Inbox:   6%|▌         | 8/139 [00:28<06:59,  3.20s/it]Inbox:   6%|▋         | 9/139 [00:31<06:53,  3.18s/it]Inbox:   7%|▋         | 10/139 [00:34<06:48,  3.16s/it]Inbox:   8%|▊         | 11/139 [00:37<06:43,  3.15s/it]Inbox:   9%|▊         | 12/139 [00:40<06:39,  3.14s/it]Inbox:   9%|▉         | 13/139 [00:43<06:35,  3.14s/it]Inbox:  10%|█         | 14/139 [00:46<06:31,  3.13s/it]Inbox:  11%|█         | 15/139 [00:49<06:29,  3.14s/it]Inbox:  12%|█▏        | 16/139 [00:53<06:25,  3.13s/it]Inbox:  12%|█▏        | 17/139 [00:56<06:22,  3.14s/it]Inbox:  13%|█▎        | 18/139 [00:59<06:20,  3.15s/it]Inbox:  14%|█▎        | 19/139 [01:02<06:16,  3.14s/it]Inbox:  14%|█▍        | 20/139 [01:06<06:30,  3.28s/it]Inbox:  15%|█▌        | 21/139 [01:09<06:22,  3.24s/it]Inbox:  16%|█▌        | 22/139 [01:12<06:15,  3.21s/it]Inbox:  17%|█▋        | 23/139 [01:15<06:09,  3.19s/it]Inbox:  17%|█▋        | 24/139 [01:18<06:05,  3.18s/it]Inbox:  18%|█▊        | 25/139 [01:21<06:00,  3.16s/it]Inbox:  19%|█▊        | 26/139 [01:24<05:55,  3.15s/it]Inbox:  19%|█▉        | 27/139 [01:28<05:51,  3.14s/it]Inbox:  20%|██        | 28/139 [01:31<05:48,  3.14s/it]Inbox:  21%|██        | 29/139 [01:34<05:44,  3.13s/it]Inbox:  22%|██▏       | 30/139 [01:37<05:41,  3.13s/it]Inbox:  22%|██▏       | 31/139 [01:40<05:38,  3.13s/it]Inbox:  23%|██▎       | 32/139 [01:43<05:35,  3.13s/it]Inbox:  24%|██▎       | 33/139 [01:46<05:31,  3.13s/it]Inbox:  24%|██▍       | 34/139 [01:50<05:42,  3.27s/it]Inbox:  25%|██▌       | 35/139 [01:53<05:35,  3.23s/it]Inbox:  26%|██▌       | 36/139 [01:56<05:29,  3.20s/it]Inbox:  27%|██▋       | 37/139 [01:59<05:24,  3.18s/it]Inbox:  27%|██▋       | 38/139 [02:02<05:19,  3.16s/it]Inbox:  28%|██▊       | 39/139 [02:06<05:15,  3.16s/it]Inbox:  29%|██▉       | 40/139 [02:09<05:11,  3.15s/it]Inbox:  29%|██▉       | 41/139 [02:12<05:08,  3.15s/it]Inbox:  30%|███       | 42/139 [02:15<05:06,  3.15s/it]Inbox:  31%|███       | 43/139 [02:18<05:03,  3.16s/it]Inbox:  32%|███▏      | 44/139 [02:21<04:59,  3.15s/it]Inbox:  32%|███▏      | 45/139 [02:24<04:55,  3.14s/it]Inbox:  33%|███▎      | 46/139 [02:28<05:12,  3.37s/it]Inbox:  34%|███▍      | 47/139 [02:32<05:08,  3.35s/it]Inbox:  35%|███▍      | 48/139 [02:35<05:00,  3.30s/it]Inbox:  35%|███▌      | 49/139 [02:38<05:01,  3.35s/it]Inbox:  36%|███▌      | 50/139 [02:41<04:52,  3.29s/it]Inbox:  37%|███▋      | 51/139 [02:45<04:45,  3.24s/it]Inbox:  37%|███▋      | 52/139 [02:48<04:39,  3.21s/it]Inbox:  38%|███▊      | 53/139 [02:51<04:33,  3.18s/it]Inbox:  39%|███▉      | 54/139 [02:54<04:29,  3.17s/it]Inbox:  40%|███▉      | 55/139 [02:57<04:24,  3.15s/it]Inbox:  40%|████      | 56/139 [03:00<04:21,  3.15s/it]Inbox:  41%|████      | 57/139 [03:03<04:17,  3.14s/it]Inbox:  42%|████▏     | 58/139 [03:07<04:18,  3.19s/it]Inbox:  42%|████▏     | 59/139 [03:10<04:14,  3.18s/it]Inbox:  43%|████▎     | 60/139 [03:13<04:13,  3.21s/it]Inbox:  44%|████▍     | 61/139 [03:16<04:08,  3.19s/it]Inbox:  45%|████▍     | 62/139 [03:19<04:04,  3.17s/it]Inbox:  45%|████▌     | 63/139 [03:23<04:00,  3.17s/it]Inbox:  46%|████▌     | 64/139 [03:26<03:56,  3.16s/it]Inbox:  47%|████▋     | 65/139 [03:29<03:53,  3.15s/it]Inbox:  47%|████▋     | 66/139 [03:32<03:49,  3.14s/it]Inbox:  48%|████▊     | 67/139 [03:35<03:56,  3.28s/it]Inbox:  49%|████▉     | 68/139 [03:39<03:49,  3.24s/it]Inbox:  50%|████▉     | 69/139 [03:42<03:44,  3.21s/it]Inbox:  50%|█████     | 70/139 [03:45<03:39,  3.18s/it]Inbox:  51%|█████     | 71/139 [03:48<03:35,  3.17s/it]Inbox:  52%|█████▏    | 72/139 [03:51<03:31,  3.16s/it]Inbox:  53%|█████▎    | 73/139 [03:55<03:33,  3.24s/it]Inbox:  53%|█████▎    | 74/139 [03:58<03:28,  3.20s/it]  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 2026-06-20_大脑如何在有限成本下实现高效计算？.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: getnote_2026-06-20_getnote_2026-06-19_Simba_基于多芯粒模块的深度学习推理加速器架构研究.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: getnote_2026-06-20_getnote_2026-06-19_大脑任务切换的神经机制__整洁_框架与_杂乱_现实的整合研究.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 为什么说 AI 网络是“同步通信网络”？.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 为什么说 AI 网络是“同步通信网络”？_b4025ecf.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 为什么说 AI 网络是“同步通信网络”？_ce7e25f7.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 为什么说 AI 网络是“同步通信网络”？_d88c9ba4.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 从DTCO到STCO：芯片不再靠工艺，而是靠系统协同.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 从DTCO到STCO：芯片不再靠工艺，而是靠系统协同_19f5aea7.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 从“备胎”到训练推理“正式分家”：谷歌TPU的十一年.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 全球PNN Liquid AI总结.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 台积电 CoPoS 中试线 6 月全面建成.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 类脑动态可塑物理网络颠覆性研究 体系布局.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 阿里给CPO泼了盆冷水，还顺手“鄙视”了整个产业链.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 集合通信处理器（CCU）技术解读.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 00_宽屏目录仪表盘.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 16 介观峰值定理对晶上大脑的工程指导.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: BNN vs ANN.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: genspark claw的定时任务.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: III IV V族元素.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: NICE读书会选题.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: notebooklm ppt提示词.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: Obsidian从入门到精通：基于Notebook Navigator插件的高效知识管理指南.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: Obsidian从压缩包中打开仓库指令与方法.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: Obsidian笔记整理的最高心法：拒绝盲目照搬，构建个性化知识体系.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: Sandia国家实验室.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: SDSoW“十五五”国家重大工程布局的建议.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: SDSoW赋能“绿色+智能+安全”智能驾驶.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: SKILL.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: SRIO 3.0评审.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: WSE SwarmX 网络架构 优化方案.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: “你好，大脑”科普展引言：致敬这个时代的跨学科创新者.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 与岁月的共勉.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 个人名下资产（汇总）.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 个人智能体搭建.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 个人知识库搭建工具推荐.md -> Web-Clips
+Inbox:  54%|█████▍    | 75/139 [04:01<03:23,  3.18s/it]Inbox:  55%|█████▍    | 76/139 [04:04<03:19,  3.16s/it]Inbox:  55%|█████▌    | 77/139 [04:07<03:15,  3.15s/it]Inbox:  56%|█████▌    | 78/139 [04:10<03:11,  3.15s/it]Inbox:  57%|█████▋    | 79/139 [04:13<03:08,  3.14s/it]Inbox:  58%|█████▊    | 80/139 [04:16<03:04,  3.13s/it]Inbox:  58%|█████▊    | 81/139 [04:20<03:01,  3.13s/it]Inbox:  59%|█████▉    | 82/139 [04:23<02:58,  3.13s/it]Inbox:  60%|█████▉    | 83/139 [04:26<02:55,  3.13s/it]Inbox:  60%|██████    | 84/139 [04:29<02:52,  3.13s/it]Inbox:  61%|██████    | 85/139 [04:32<02:49,  3.14s/it]Inbox:  62%|██████▏   | 86/139 [04:35<02:46,  3.13s/it]Inbox:  63%|██████▎   | 87/139 [04:38<02:42,  3.13s/it]Inbox:  63%|██████▎   | 88/139 [04:41<02:39,  3.13s/it]Inbox:  64%|██████▍   | 89/139 [04:45<02:42,  3.25s/it]Inbox:  65%|██████▍   | 90/139 [04:48<02:37,  3.22s/it]Inbox:  65%|██████▌   | 91/139 [04:51<02:33,  3.19s/it]Inbox:  66%|██████▌   | 92/139 [04:54<02:29,  3.17s/it]Inbox:  67%|██████▋   | 93/139 [04:58<02:25,  3.15s/it]Inbox:  68%|██████▊   | 94/139 [05:01<02:21,  3.15s/it]Inbox:  68%|██████▊   | 95/139 [05:04<02:18,  3.14s/it]Inbox:  69%|██████▉   | 96/139 [05:07<02:14,  3.14s/it]Inbox:  70%|██████▉   | 97/139 [05:10<02:11,  3.13s/it]Inbox:  71%|███████   | 98/139 [05:13<02:08,  3.13s/it]Inbox:  71%|███████   | 99/139 [05:16<02:05,  3.13s/it]Inbox:  72%|███████▏  | 100/139 [05:19<02:01,  3.13s/it]Inbox:  73%|███████▎  | 101/139 [05:23<02:04,  3.27s/it]Inbox:  73%|███████▎  | 102/139 [05:26<01:59,  3.23s/it]Inbox:  74%|███████▍  | 103/139 [05:29<01:55,  3.21s/it]Inbox:  75%|███████▍  | 104/139 [05:32<01:51,  3.19s/it]Inbox:  76%|███████▌  | 105/139 [05:36<01:48,  3.18s/it]Inbox:  76%|███████▋  | 106/139 [05:39<01:44,  3.17s/it]Inbox:  77%|███████▋  | 107/139 [05:42<01:41,  3.16s/it]Inbox:  78%|███████▊  | 108/139 [05:45<01:37,  3.15s/it]Inbox:  78%|███████▊  | 109/139 [05:48<01:34,  3.15s/it]Inbox:  79%|███████▉  | 110/139 [05:51<01:31,  3.14s/it]Inbox:  80%|███████▉  | 111/139 [05:54<01:28,  3.14s/it]Inbox:  81%|████████  | 112/139 [05:58<01:25,  3.16s/it]Inbox:  81%|████████▏ | 113/139 [06:01<01:22,  3.19s/it]Inbox:  82%|████████▏ | 114/139 [06:04<01:19,  3.18s/it]  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 个人网上付费VIP账号.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 中科院重大科学基础设施.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 井芯微战略迭代.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 会谈要点.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 保险.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 光合作用光反应与暗反应方程式记录.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 全网疯传！字节内部使用的Obsidian中文手册，真的很全！.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 关于人才待遇.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 关于学术品牌LOOM.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 关于并购方案的提示词.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 关于购买灵芝孢子油的建议与经验.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 写第一篇文章.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 半角双引号更换成全角双引号.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 卫星智能体指标论证.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 印象笔记 API Key.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 发改委建议.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 发送个人简历用于兼职博导推荐.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 向老板汇报信件及资源关系相关事宜.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 在网计算（In-Network Computing）.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 复杂度的计算.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 复杂性涌现的相变阈值公理.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 大脑的量子纠缠与信息动力学.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 天枢工程.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 天津大学学者公寓交费信息.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 好工具.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 如何在晶圆上实现一个拓扑结构动态可变的生成式网络？.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 工程技术系统发展路线与分类.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 年度目标（2026年）.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 建筑平面图关键信息总结.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 引人名单.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 徐主任.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 微系统丛书任务.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 微系统丛书任务_18963721.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 房子处理策略与依据.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 数字意识体进化.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18646487.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18673027.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+Inbox:  83%|████████▎ | 115/139 [06:07<01:15,  3.16s/it]Inbox:  83%|████████▎ | 116/139 [06:10<01:12,  3.15s/it]Inbox:  84%|████████▍ | 117/139 [06:13<01:09,  3.15s/it]Inbox:  85%|████████▍ | 118/139 [06:17<01:06,  3.15s/it]Inbox:  86%|████████▌ | 119/139 [06:20<01:02,  3.15s/it]Inbox:  86%|████████▋ | 120/139 [06:23<00:59,  3.14s/it]Inbox:  87%|████████▋ | 121/139 [06:26<00:56,  3.14s/it]Inbox:  88%|████████▊ | 122/139 [06:29<00:53,  3.14s/it]Inbox:  88%|████████▊ | 123/139 [06:32<00:50,  3.14s/it]Inbox:  90%|████████▉ | 125/139 [06:35<00:33,  2.41s/it]Inbox:  91%|█████████▏| 127/139 [06:39<00:24,  2.08s/it]Inbox:  92%|█████████▏| 128/139 [06:42<00:25,  2.31s/it]Inbox:  93%|█████████▎| 129/139 [06:45<00:25,  2.51s/it]Inbox:  94%|█████████▍| 131/139 [06:48<00:17,  2.13s/it]Inbox:  95%|█████████▍| 132/139 [06:51<00:16,  2.38s/it]Inbox:  96%|█████████▌| 133/139 [06:54<00:15,  2.59s/it]Inbox:  96%|█████████▋| 134/139 [06:58<00:13,  2.73s/it]Inbox:  97%|█████████▋| 135/139 [07:01<00:11,  2.84s/it]Inbox:  98%|█████████▊| 136/139 [07:04<00:08,  2.92s/it]Inbox:  99%|█████████▊| 137/139 [07:07<00:06,  3.11s/it]Inbox:  99%|█████████▉| 138/139 [07:11<00:03,  3.11s/it]Inbox: 100%|██████████| 139/139 [07:14<00:00,  3.12s/it]Inbox: 100%|██████████| 139/139 [07:14<00:00,  3.12s/it]
+  [WARN]  Low quality: 无标题_18696200.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18700072.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18700176.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18719003.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18734399.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18755463.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18823416.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18840004.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18862295.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18863247.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18866347.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18874434.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题_18897689.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_074acf65.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_1b52e57c.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_1bcdb165.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_317c241f.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_33908877.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_4a579c8a.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_6566db42.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_90d65b90.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_c5467f09.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_d50aaed8.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_d9cf8260.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 无标题笔记_dd7f61bd.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 晶上核心事项.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 晶上网络赋能超非线性增益.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 杰文斯悖论.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 汇报内容.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 海优短信.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 海归人才名单.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 知识库搭建.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 硅芯交流.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 祛瘀偏方.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 秘塔CN结果.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 网络与非线性研究体系.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 网络时空协同复杂度涌现智能.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 网络时空复杂度驱动的晶圆级异构集成具身智能涌现.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 芯擎交流.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 苏州实验室.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 苏州实验室会谈要点材料.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 软件定义晶上系统的PPT要点梳理.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 软件定义晶上系统（SDSoW）未来十年（2026-2035）发展战略规划.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 退休干部政策.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 通过复杂网络连接计算、存储等资源，在系统层面追求1+1＞2的系统最优，如何设计这个复杂网络及评价指标？.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 销售工具升级.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: Get笔记×Obsidian 配置与工作流.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 指标基线表.md -> Web-Clips
+  Skipping short note: 文档依赖图.md
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 术语对照表.md -> Web-Clips
+  Skipping short note: ADR.md
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: Files.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: Home.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: Recent.md -> Web-Clips
+  Skipping short note: SSOT.md
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: Stats.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: Tags.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 天津大学微电子学院复杂网络与类脑智能十年规划.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: AI时代复杂系统科学的机遇与挑战探讨.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 从结构模仿到机制理解：神经信息学与计算神经科学的理论范式变迁.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 海马时空编码的统一框架：单个循环网络同时涌现位置细胞与时间细胞.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 物理人工智能 (Physical AI) 深度研究报告.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 自主系统实验演示与自我认知探讨.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 集智科学节海报内容汇总.md -> Web-Clips
+
+Inbox processing complete.
+
+Done!

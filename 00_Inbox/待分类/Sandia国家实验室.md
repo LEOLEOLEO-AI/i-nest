@@ -1,10 +1,13 @@
 ---
-title: "Sandia国家实验室"
+category: Web-Clips
 created: 2025-09-18
-note_id: "1887799671049586040"
+note_id: '1887799671049586040'
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
+- get-笔记
+- default
+- needs-review
+title: Sandia国家实验室
 ---
 
 # Sandia国家实验室

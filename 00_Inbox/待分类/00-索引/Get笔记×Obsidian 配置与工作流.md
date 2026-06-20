@@ -1,3 +1,10 @@
+---
+category: Web-Clips
+quality: low
+tags:
+- needs-review
+---
+
 # Get笔记×Obsidian 配置与工作流
 
 目标：

@@ -1,10 +1,13 @@
 ---
-title: "SKILL"
+category: Web-Clips
 created: 2026-01-26
-note_id: "1899903523471116952"
+note_id: '1899903523471116952'
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
+- get-笔记
+- default
+- needs-review
+title: SKILL
 ---
 
 # SKILL

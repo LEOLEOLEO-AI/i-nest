@@ -1,15 +1,18 @@
 ---
-title: "Obsidian从入门到精通：基于Notebook Navigator插件的高效知识管理指南"
-source: "https://mp.weixin.qq.com/s/TfjHJX325KMNI9lz88ne9A"
+category: Web-Clips
 created: 2026-04-28
-note_id: "1908448650816801360"
+note_id: '1908448650816801360'
+quality: low
+source: https://mp.weixin.qq.com/s/TfjHJX325KMNI9lz88ne9A
 tags:
-  - "AI链接笔记"
-  - "Obsidian"
-  - "知识管理工具"
-  - "Notebook Navigator"
-  - "get-笔记"
-  - "项目管理"
+- AI链接笔记
+- Obsidian
+- 知识管理工具
+- Notebook Navigator
+- get-笔记
+- 项目管理
+- needs-review
+title: Obsidian从入门到精通：基于Notebook Navigator插件的高效知识管理指南
 ---
 
 # Obsidian从入门到精通：基于Notebook Navigator插件的高效知识管理指南

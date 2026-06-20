@@ -1,11 +1,14 @@
 ---
-title: "III IV V族元素"
+category: Web-Clips
 created: 2025-09-13
-note_id: "1887341898402795296"
+note_id: '1887341898402795296'
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
-  - "重要"
+- get-笔记
+- default
+- 重要
+- needs-review
+title: III IV V族元素
 ---
 
 # III IV V族元素
