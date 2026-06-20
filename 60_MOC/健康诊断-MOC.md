@@ -1,15 +1,5 @@
----
-title: 知识库健康诊断 (Self-Health Dashboard)
-tags:
-- emergence
-- paper
-- patent
-- project
-- simulation
-- survey
-- topology
-- wafer
----
+# 知识库健康诊断 (Self-Health Dashboard)
+
 > 自动维护 | 每周运行 `python3 ~/workspace/scripts/wiki_health.py`
 > 上次诊断：**2026-05-07** | 综合评分：🔴 **50/100**
 
@@ -51,21 +41,21 @@ tags:
 - 05_Fleeting/待分类/00-索引/Wiki/ADR.md
 
 ### 断链（目标笔记不存在）
-- 20_Projects/00_团队全局进度周报面板.md → 20_Projects/00_项目策划总览
-- 20_Projects/00_团队全局进度周报面板.md → 20_Projects/00_项目-论文-专利-技术四线映射表
-- 20_Projects/00_团队全局进度周报面板.md → 10_Knowledge/00_导航/Wiki/Home
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 30_Outputs/论文/B组_SDI-CC互连体系/B0_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 30_Outputs/论文/B组_SDI-CC互连体系/B4_Route_IS_Transform_Isomorphism_Draft
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 30_Outputs/论文/B组_SDI-CC互连体系/RISC-V架构下SDI与OneFabric-Memory智算互联系统设计
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 30_Outputs/论文/B组_SDI-CC互连体系/晶圆级SDI交换Mesh与最优扇出高维拓扑
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 30_Outputs/论文/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 30_Outputs/论文/B组_SDI-CC互连体系/P-Theory_v2_MetaTopology_SDI_Bond_Draft
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 30_Outputs/论文/B组_SDI-CC互连体系/[V2
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 30_Outputs/专利/P0-5_基于液态拓扑的实时生成式结构计算方法及系统
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 20_Projects/CST仿真平台/CST仿真平台
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 30_Outputs/论文/CST_Intelligence_Emergence_Paper_V22_Engineering_Format
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 30_Outputs/论文/A组_CST基础理论/论文计划列表
-- 20_Projects/00_项目-论文-专利-技术四线映射表.md → 30_Outputs/论文/A组_CST基础理论/CST智能涌现验证与数据实验协议
+- 20_Projects/00_团队全局进度周报面板.md → [[20_Projects/00_项目策划总览]]
+- 20_Projects/00_团队全局进度周报面板.md → [[20_Projects/00_项目-论文-专利-技术四线映射表]]
+- 20_Projects/00_团队全局进度周报面板.md → [[10_Knowledge/00_导航/Wiki/Home]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/B0_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/B4_Route_IS_Transform_Isomorphism_Draft]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/RISC-V架构下SDI与OneFabric-Memory智算互联系统设计]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/晶圆级SDI交换Mesh与最优扇出高维拓扑]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/P-Theory_v2_MetaTopology_SDI_Bond_Draft]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/B组_SDI-CC互连体系/[V2]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/专利/P0-5_基于液态拓扑的实时生成式结构计算方法及系统]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[20_Projects/CST仿真平台/CST仿真平台]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/CST_Intelligence_Emergence_Paper_V22_Engineering_Format]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/A组_CST基础理论/论文计划列表]]
+- 20_Projects/00_项目-论文-专利-技术四线映射表.md → [[30_Outputs/论文/A组_CST基础理论/CST智能涌现验证与数据实验协议]]
 
 ---
 
@@ -97,9 +87,3 @@ obsidian-vault/
 
 ---
 *自动生成于 2026-05-07 | iNEST Wiki Health Bot*
-
-## Related Notes
-
-- [[论文导航]]
-- [[ADR: 以 TCC + SDI-CC 作为 2026-2027 近期工程主线]]
-- [[海河实验室项目指南（2026年度重大专项）]]

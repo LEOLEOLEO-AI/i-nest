@@ -1,17 +1,5 @@
----
-title: TCC 计算范式 — 全景导航 (Map of Content)
-tags:
-- brain
-- criticality
-- emergence
-- free-energy-principle
-- neuroscience
-- paper
-- patent
-- project
-- self-organization
-- simulation
----
+# TCC 计算范式 — 全景导航 (Map of Content)
+
 > 学术信仰：**大道至简** — 极简规则 × 自组织临界 → 复杂智能涌现
 > 最后更新：自动维护
 
@@ -19,16 +7,16 @@ tags:
 
 ## 🧭 核心概念（原子笔记）
 
-| 概念                | 文件                     | 状态  |
-| ----------------- | ---------------------- | --- |
-| 自组织临界（SOC）        | 01_Concepts/SOC-自组织临界  | 核心  |
-| 拓扑中心计算（TCC）       | 01_Concepts/TCC-拓扑中心计算 | 核心  |
-| 软件定义互连（SDI）       | 01_Concepts/SDI-软件定义互连 | 核心  |
-| 软件定义系统网络（SDSoW）   | 01_Concepts/SDSoW      | 核心  |
-| 小世界网络（σ）          | 01_Concepts/小世界网络      | 支撑  |
-| 神经雪崩（τ）           | 01_Concepts/神经雪崩       | 支撑  |
-| 自由能原理             | 01_Concepts/自由能原理      | 支撑  |
-| 元拓扑（MetaTopology） | 01_Concepts/元拓扑        | 核心  |
+| 概念 | 文件 | 状态 |
+|---|---|---|
+| 自组织临界（SOC） | [[01_Concepts/SOC-自组织临界]] | 核心 |
+| 拓扑中心计算（TCC） | [[01_Concepts/TCC-拓扑中心计算]] | 核心 |
+| 软件定义互连（SDI） | [[01_Concepts/SDI-软件定义互连]] | 核心 |
+| 软件定义系统网络（SDSoW） | [[01_Concepts/SDSoW]] | 核心 |
+| 小世界网络（σ） | [[01_Concepts/小世界网络]] | 支撑 |
+| 神经雪崩（τ） | [[01_Concepts/神经雪崩]] | 支撑 |
+| 自由能原理 | [[01_Concepts/自由能原理]] | 支撑 |
+| 元拓扑（MetaTopology） | [[01_Concepts/元拓扑]] | 核心 |
 
 ---
 
@@ -46,31 +34,25 @@ tags:
 
 ## 📁 项目索引
 
-- TCC计算范式/01_论文/README — 论文/专利/技术栈
-- TCC计算范式/01_论文/README — iNEST 机构项目
+- [[TCC计算范式/01_论文/README]] — 论文/专利/技术栈
+- [[TCC计算范式/01_论文/README]] — iNEST 机构项目
 
 ## 📄 重要论文
 
-- 03_Projects/TCC计算范式/01_论文/SDI-CC论文框架_拓扑即计算新范式
-- 03_Projects/TCC计算范式/01_论文/P-Theory_v2_MetaTopology_SDI_Bond_Draft
+- [[03_Projects/TCC计算范式/01_论文/SDI-CC论文框架_拓扑即计算新范式]]
+- [[03_Projects/TCC计算范式/01_论文/P-Theory_v2_MetaTopology_SDI_Bond_Draft]]
 
 ## 🔬 当前实验
 
-- TCC计算范式/01_论文/README — C.elegans 自演化仿真（5/5 生物指标达标）
-- TCC计算范式/01_论文/README — 果蝇半脑连接组验证
+- [[TCC计算范式/01_论文/README]] — C.elegans 自演化仿真（5/5 生物指标达标）
+- [[TCC计算范式/01_论文/README]] — 果蝇半脑连接组验证
 
 ## 📥 最新文献
 
-- 02_Papers/arxiv-auto/ — arXiv 每日自动追踪
+- [[02_Papers/arxiv-auto/]] — arXiv 每日自动追踪
 
 ---
 
 ## 🏥 知识库健康状态
 
-→ 00_MOC/健康诊断-MOC
-
-## Related Notes
-
-- [[SDI — 软件定义互连（Software-Defined Interconnect）]]
-- [[晶上任务]]
-- [[iNEST 机构 — 全景导航 (Map of Content)]]
+→ [[00_MOC/健康诊断-MOC]]
