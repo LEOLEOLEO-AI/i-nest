@@ -1,10 +1,13 @@
 ---
-title: "WSE SwarmX 网络架构 优化方案"
+category: Web-Clips
 created: 2026-04-20
-note_id: "1907686592624264208"
+note_id: '1907686592624264208'
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
+- get-笔记
+- default
+- needs-review
+title: WSE SwarmX 网络架构 优化方案
 ---
 
 # WSE SwarmX 网络架构 优化方案

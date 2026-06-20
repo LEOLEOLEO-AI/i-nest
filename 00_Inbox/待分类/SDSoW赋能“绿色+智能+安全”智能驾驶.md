@@ -1,11 +1,14 @@
 ---
-title: "SDSoW赋能“绿色+智能+安全”智能驾驶"
+category: Web-Clips
 created: 2025-10-25
-note_id: "1891243263084626608"
+note_id: '1891243263084626608'
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
-  - "重要"
+- get-笔记
+- default
+- 重要
+- needs-review
+title: SDSoW赋能“绿色+智能+安全”智能驾驶
 ---
 
 # SDSoW赋能“绿色+智能+安全”智能驾驶

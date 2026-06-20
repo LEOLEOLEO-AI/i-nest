@@ -1,10 +1,13 @@
 ---
-title: "为什么说 AI 网络是“同步通信网络”？"
+category: Web-Clips
 created: 2026-04-28
-note_id: ""
+note_id: ''
+quality: low
 tags:
-  - "get-笔记"
-  - "AI研究"
+- get-笔记
+- AI研究
+- needs-review
+title: 为什么说 AI 网络是“同步通信网络”？
 ---
 
 # 为什么说 AI 网络是“同步通信网络”？

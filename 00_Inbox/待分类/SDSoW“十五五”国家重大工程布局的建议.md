@@ -1,10 +1,13 @@
 ---
-title: "SDSoW“十五五”国家重大工程布局的建议"
+category: Web-Clips
 created: 2026-03-30
-note_id: "1905745044065878920"
+note_id: '1905745044065878920'
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
+- get-笔记
+- default
+- needs-review
+title: SDSoW“十五五”国家重大工程布局的建议
 ---
 
 # SDSoW“十五五”国家重大工程布局的建议

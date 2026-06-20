@@ -1,10 +1,13 @@
 ---
-title: "从DTCO到STCO：芯片不再靠工艺，而是靠系统协同"
+category: Web-Clips
 created: 2026-04-28
-note_id: ""
+note_id: ''
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
+- get-笔记
+- default
+- needs-review
+title: 从DTCO到STCO：芯片不再靠工艺，而是靠系统协同
 ---
 
 # 从DTCO到STCO：芯片不再靠工艺，而是靠系统协同

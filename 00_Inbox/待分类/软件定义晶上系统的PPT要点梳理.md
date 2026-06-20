@@ -1,14 +1,17 @@
 ---
-title: "软件定义晶上系统的PPT要点梳理"
+category: Web-Clips
 created: 2025-12-29
-note_id: "1897278824933130792"
+note_id: '1897278824933130792'
+quality: low
 tags:
-  - "录音笔记"
-  - "系统架构"
-  - "软件定义"
-  - "摩尔定律"
-  - "get-笔记"
-  - "default"
+- 录音笔记
+- 系统架构
+- 软件定义
+- 摩尔定律
+- get-笔记
+- default
+- needs-review
+title: 软件定义晶上系统的PPT要点梳理
 ---
 
 # 软件定义晶上系统的PPT要点梳理

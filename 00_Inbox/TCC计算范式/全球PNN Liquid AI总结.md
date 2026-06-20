@@ -1,10 +1,13 @@
 ---
-title: "全球PNN Liquid AI总结"
+category: Web-Clips
 created: 2026-04-24
-note_id: "1908034987487967368"
+note_id: '1908034987487967368'
+quality: low
 tags:
-  - "get-笔记"
-  - "AI研究"
+- get-笔记
+- AI研究
+- needs-review
+title: 全球PNN Liquid AI总结
 ---
 
 # 全球PNN Liquid AI总结

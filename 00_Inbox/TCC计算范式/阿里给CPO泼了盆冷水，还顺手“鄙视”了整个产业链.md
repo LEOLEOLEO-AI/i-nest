@@ -1,10 +1,13 @@
 ---
-title: "阿里给CPO泼了盆冷水，还顺手“鄙视”了整个产业链"
+category: Web-Clips
 created: 2026-04-28
-note_id: ""
+note_id: ''
+quality: low
 tags:
-  - "get-笔记"
-  - "日记"
+- get-笔记
+- 日记
+- needs-review
+title: 阿里给CPO泼了盆冷水，还顺手“鄙视”了整个产业链
 ---
 
 # 阿里给CPO泼了盆冷水，还顺手“鄙视”了整个产业链
