@@ -1,4 +1,4 @@
-﻿# CST RG: Renormalization Group Analysis of Small-World Topology Emergence
+# CST RG: Renormalization Group Analysis of Small-World Topology Emergence
 # =========================================================================
 # Paper #29 — Expanded Draft with Computational Data
 # Status: v0.5 — Structural outline fleshed out, RG flow data inserted
