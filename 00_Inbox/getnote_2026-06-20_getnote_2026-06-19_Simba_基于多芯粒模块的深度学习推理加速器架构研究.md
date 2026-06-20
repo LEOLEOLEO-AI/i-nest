@@ -17,6 +17,7 @@ tags:
 - architecture
 - needs-review
 - needs-review
+- needs-review
 title: getnote_2026-06-19_Simba_基于多芯粒模块的深度学习推理加速器架构研究
 ---
 

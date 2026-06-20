@@ -1,10 +1,13 @@
 ---
-title: "关于学术品牌LOOM"
+category: Web-Clips
 created: 2025-09-13
-note_id: "1887344795358163784"
+note_id: '1887344795358163784'
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
+- get-笔记
+- default
+- needs-review
+title: 关于学术品牌LOOM
 ---
 
 # 关于学术品牌LOOM

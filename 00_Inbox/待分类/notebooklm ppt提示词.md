@@ -1,10 +1,13 @@
 ---
-title: "notebooklm ppt提示词"
+category: Web-Clips
 created: 2025-12-10
-note_id: "1895548938807804464"
+note_id: '1895548938807804464'
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
+- get-笔记
+- default
+- needs-review
+title: notebooklm ppt提示词
 ---
 
 # notebooklm ppt提示词

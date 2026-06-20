@@ -1,10 +1,13 @@
 ---
-title: "印象笔记 API Key "
+category: Web-Clips
 created: 2026-03-13
-note_id: "1904160560837225552"
+note_id: '1904160560837225552'
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
+- get-笔记
+- default
+- needs-review
+title: '印象笔记 API Key '
 ---
 
 # 印象笔记 API Key 

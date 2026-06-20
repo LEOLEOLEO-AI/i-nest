@@ -1,10 +1,13 @@
 ---
-title: "台积电 CoPoS 中试线 6 月全面建成"
+category: Web-Clips
 created: 2026-04-28
-note_id: ""
+note_id: ''
+quality: low
 tags:
-  - "get-笔记"
-  - "AI研究"
+- get-笔记
+- AI研究
+- needs-review
+title: 台积电 CoPoS 中试线 6 月全面建成
 ---
 
 # 台积电 CoPoS 中试线 6 月全面建成

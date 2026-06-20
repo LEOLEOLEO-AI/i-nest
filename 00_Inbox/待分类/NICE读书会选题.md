@@ -1,10 +1,13 @@
 ---
-title: "NICE读书会选题"
+category: Web-Clips
 created: 2025-11-02
-note_id: "1891969164097288000"
+note_id: '1891969164097288000'
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
+- get-笔记
+- default
+- needs-review
+title: NICE读书会选题
 ---
 
 # NICE读书会选题

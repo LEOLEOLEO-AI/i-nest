@@ -1,10 +1,13 @@
 ---
-title: "BNN vs ANN"
+category: Web-Clips
 created: 2025-09-03
-note_id: "1886466851429459384"
+note_id: '1886466851429459384'
+quality: low
 tags:
-  - "get-笔记"
-  - "default"
+- get-笔记
+- default
+- needs-review
+title: BNN vs ANN
 ---
 
 # BNN vs ANN
