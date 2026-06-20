@@ -10,7 +10,7 @@ PROGRESS = VAULT / "60_MOC" / "_review_progress.json"
 
 API_KEY = "sk-73d73dedd19548d19d141a0c37cfd196"
 API_URL = "https://api.deepseek.com/v1/chat/completions"
-MODEL = "deepseek-v4-pro"
+MODEL = "deepseek-chat"
 
 TARGETS = {
     "TCC": "30_TCC/31_Theory/_llm_classified",

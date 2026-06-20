@@ -15,7 +15,7 @@ LOG_DIR = VAULT / "logs"
 # DeepSeek Official API (DeepSeek V4)
 DS_API_KEY = os.environ.get("DS_API_KEY", "sk-73d73dedd19548d19d141a0c37cfd196")
 DS_API_URL = "https://api.deepseek.com/v1/chat/completions"
-SF_MODEL = "deepseek-v4-pro"
+SF_MODEL = "deepseek-chat"
 
 def call_llm(prompt, max_tokens=300):
     """Call DeepSeek Official DeepSeek V4 API."""
