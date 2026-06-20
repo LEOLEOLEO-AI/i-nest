@@ -3347,3 +3347,13 @@ warning: in the working copy of '_archive/00_KnowledgeBase/03_Inbox_æ–‡çŒ®ä¸Žç¢Ž
 [main 1c5f4eb] auto: inbox processing 2026/06/20 å‘¨å…­ 10:40:14.07
  2 files changed, 11 insertions(+), 1 deletion(-)
 [2026/06/20 ÖÜÁù 10:40:14.23] Auto-management complete. 
+======================================== 
+[2026/06/20 ÖÜÁù 12:40:02.43] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
