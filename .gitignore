@@ -38,3 +38,34 @@ Thumbs.db
 *.jpg
 *.gif
 node_modules/
+
+# Large intermediate data (keep on disk, exclude from git)
+*.csv
+*.tar
+*.graphml
+*.rar
+*.zip
+
+# Simulation intermediate outputs
+*_run.log
+fetch_log*.txt
+*_output.log
+*summary.txt
+__pycache__/
+
+# Legacy archives
+_archive_02_Zettelkasten/
+90_System/legacy_subvault_*/
+_archive/00_KnowledgeBase/literature/pdf/
+_archive/*/literature/pdf/
+
+# Species data
+species_data/
+
+# Large PDFs (papers already in .md)
+_archive/**/*.pdf
+03_Topics/**/*.pdf
+
+# Obsidian binary cache
+.obsidian/workspace*.json
+.obsidian/hotkeys.json

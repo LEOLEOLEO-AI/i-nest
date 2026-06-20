@@ -1,0 +1,58 @@
+﻿# LLM API Configuration - SiliconFlow (硅基流动)
+llm:
+  provider: "siliconflow"
+  api_key: "sk-ewvmxpqaoqdmzyrizltymazqkbbzhberrgdwhrinpssoauum"
+  base_url: "https://api.siliconflow.cn/v1"
+  model: "deepseek-ai/DeepSeek-V4-Pro"
+  embedding_model: "BAAI/bge-large-zh-v1.5"
+  embedding_dim: 1024
+
+# Paths (relative to vault root)
+paths:
+  vault_root: "."
+  inbox_dir: "00_Inbox"
+  moc_dir: "01_MOC"
+  zettelkasten_dirs:
+    - "03_Topics"
+  topics_dir: "03_Topics"
+  scripts_dir: "90_System/scripts"
+
+# Topic taxonomy for classification
+topics:
+  AI-ML:
+    keywords: ["机器学习", "深度学习", "神经网络", "transformer", "大模型", "LLM", "GPT", "AI", "人工智能", "MoE", "注意力"]
+  Neuroscience:
+    keywords: ["神经科学", "神经元", "突触", "脉冲神经网络", "SNN", "类脑", "brain", "neuron", "synapse", "神经拟态", "neuromorphic", "C.elegans", "hemibrain", "连接组"]
+  Chip-Hardware:
+    keywords: ["芯片", "chip", "硬件", "架构", "集成电路", "晶体管", "CMOS", "FPGA", "ASIC", "GPU", "TPU", "SoC", "半导体", "晶圆", "chiplet", "封装", "互联", "NVLink"]
+  TCC-SDI:
+    keywords: ["TCC", "SDI", "拓扑", "拓扑中心计算", "CST", "自组织", "临界", "snowflake", "液态拓扑", "自由能", "小世界网络", "SDSoW", "MetaTopology", "SDI-CC", "iNEST"]
+  Research-Methods:
+    keywords: ["研究方法", "论文写作", "实验设计", "统计", "数据分析", "文献综述", "科研方法", "学术", "SCI"]
+  Papers:
+    keywords: ["论文", "paper", "article", "journal", "conference", "Nature", "Science", "IEEE", "arXiv", "DOI", "文献"]
+  Project-Management:
+    keywords: ["项目管理", "计划", "会议", "决策", "milestone", "deadline", "OKR", "目标", "战略", "路线图", "ADR"]
+  Tools-Tutorials:
+    keywords: ["工具", "教程", "tutorial", "howto", "配置", "安装", "使用指南", "软件", "python", "git", "docker", "obsidian"]
+  Concepts-Theory:
+    keywords: ["概念", "理论", "定义", "原理", "framework", "理论框架", "数学", "物理", "热力学"]
+  Web-Clips:
+    keywords: ["网页剪藏", "微信公众号", "剪贴板", "mp.weixin", "zhihu", "转载", "原文链接"]
+
+# Processing settings
+processing:
+  batch_size: 10
+  max_workers: 8
+  dedup_threshold: 0.85
+  max_links_per_note: 3
+  skip_embeddings: false
+
+# MOC update settings
+moc:
+  auto_update: true
+  include_summary: true
+  include_tags: true
+
+
+
