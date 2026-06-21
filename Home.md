@@ -9,10 +9,9 @@ const now = dv.date("now");
 const weekdays = ["星期日","星期一","星期二","星期三","星期四","星期五","星期六"];
 const wk = weekdays[now.weekday];
 const total = dv.pages().length;
-const inbox = dv.pages('"00_Inbox"').where(p => p.file.name != ".gitkeep").length;
+const inbox = dv.pages('"00_Inbox"').length;
 const pipeText = inbox > 0 ? "⏳ 待处理" : "✅ 畅通";
-
-dv.span("📅 **" + now.toFormat("yyyy年MM月dd日") + " " + wk + "** &nbsp;·&nbsp; **" + total + "** 篇笔记 &nbsp;·&nbsp; 收件箱 **" + inbox + "** 篇 &nbsp;·&nbsp; 管道 " + pipeText);
+dv.span("📅 **" + now.toFormat("yyyy年MM月dd日") + " " + wk + "** · **" + total + "** 篇笔记 · 收件箱 **" + inbox + "** 篇 · 管道 " + pipeText);
 ```
 
 ---
@@ -27,24 +26,24 @@ color blue
 ```
 
 ```button
-name 📥 打开收件箱
+name 🔍 全局搜索
 type command
-action switcher:open
-color green
-```
-
-```button
-name 🔍 搜索笔记
-type command
-action search:search-in-all-files
+action omnisearch:show-modal
 color purple
 ```
 
 ```button
-name 📊 今日日记
+name 📅 今日日记
 type command
-action daily-notes:goto-today
+action daily-notes
 color orange
+```
+
+```button
+name 📂 快速切换
+type command
+action switcher:open
+color green
 ```
 
 ---
@@ -54,31 +53,22 @@ color orange
 > **TCC** — 拓扑中心计算 · 理论纵深 · 架构突破  
 > **iNEST** — 类脑神经形态工程 · 系统集成 · 产业落地
 
-```dataviewjs
-const tccPages = dv.pages().where(p => {
-    const fname = p.file.name.toLowerCase();
-    return fname.includes("tcc") || (p.tags && p.tags.some(t => t.toLowerCase().includes("tcc")));
-});
-const inestPages = dv.pages().where(p => {
-    const fname = p.file.name.toLowerCase();
-    return fname.includes("inest") || (p.tags && p.tags.some(t => t.toLowerCase().includes("inest")));
-});
-const tccRecent = tccPages.sort(p => p.file.mtime, "desc").limit(5);
-const inestRecent = inestPages.sort(p => p.file.mtime, "desc").limit(5);
+### 🟦 TCC — 拓扑中心计算
 
-dv.header(3, "🟦 TCC — 拓扑中心计算 (" + tccPages.length + " 篇)");
-if (tccRecent.length) {
-    dv.table(["笔记", "修改日期"], tccRecent.map(p => [p.file.link, p.file.mtime.toFormat("MM-dd HH:mm")]));
-} else {
-    dv.paragraph("暂无 TCC 相关笔记");
-}
+```dataview
+TABLE file.mtime AS "修改日期"
+FROM "30_TCC"
+SORT file.mtime DESC
+LIMIT 5
+```
 
-dv.header(3, "🟩 iNEST — 类脑神经形态 (" + inestPages.length + " 篇)");
-if (inestRecent.length) {
-    dv.table(["笔记", "修改日期"], inestRecent.map(p => [p.file.link, p.file.mtime.toFormat("MM-dd HH:mm")]));
-} else {
-    dv.paragraph("暂无 iNEST 相关笔记");
-}
+### 🟩 iNEST — 类脑神经形态
+
+```dataview
+TABLE file.mtime AS "修改日期"
+FROM "40_iNEST"
+SORT file.mtime DESC
+LIMIT 5
 ```
 
 ---
