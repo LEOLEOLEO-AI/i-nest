@@ -1,0 +1,28 @@
+﻿  Section: Abstract
+  Section: 2.1 The CST Theorem
+  Section: 2.2 Six-Level Intelligence Hierarchy
+  Section: 2.3 Cross-System Validation
+  Section: 2.4 The Triple Lock
+  Section: 3.1 IIL vs. TIL
+  Section: 3.2 The Hardware Roadmap
+  Section: 3.3 Convergence of AI Architecture
+  Section: 3.4 Falsifiability
+  Section: 3.5 Limitations
+  Section: 4.1 Data Provenance
+  Section: 4.2 Unified Cross-Species Protocol
+  Section: 4.3 Statistical Analysis
+  Section: 2.1 The CST Theorem
+  Section: 2.2 Six-Level Intelligence Hierarchy
+  Section: 2.3 Cross-System Validation
+  Section: 2.4 The Triple Lock
+  Section: 3.1 IIL vs. TIL
+  Section: 3.2 The Hardware Roadmap
+  Section: 3.3 Convergence of AI Architecture
+  Section: 3.4 Falsifiability
+  Section: 3.5 Limitations
+  Section: 4.1 Data Provenance
+  Section: 4.2 Unified Cross-Species Protocol
+  Section: 4.3 Statistical Analysis
+  Section: References
+
+Total chars: 30966

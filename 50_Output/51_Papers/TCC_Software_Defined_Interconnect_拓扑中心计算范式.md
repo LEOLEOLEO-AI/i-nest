@@ -14,7 +14,7 @@ word_budget: 8000-10000
 **Qinrang Liu**（刘勤让）<sup>1*</sup>, et al.
 
 <sup>1</sup> TCC iNEST Research Group  
-<sup>*</sup> Corresponding author. E-mail: qinrangliu@gmail.com
+<sup>*</sup> Corresponding author. E-mail: qinrangliu@fudan.edu.cn
 
 ---
 
