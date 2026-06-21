@@ -20,7 +20,7 @@ Qinrang Liu (刘勤让*
 ## Abstract
 
 We propose the Coordination Spatiotemporal Complexity (CST) theorem --
-$CST = (S_c \\cdot T_c) \\cdot e^{α · Γ_{st}}}$ -- a physical framework in which
+$CST = (S_c \\cdot T_c) \\cdot e^{α · Γ_{st}}$ -- a physical framework in which
 structural integration ($S_c$), dynamical richness ($T_c$), and their physical
 coupling ($\\Gamma_{st}$) jointly determine emergent intelligence potential. The
 exponential coupling term is derived from the non-Abelian gauge structure
@@ -80,7 +80,7 @@ $$CST = (S_c · T_c) · e^{α · Γ_{st}} \tag{1}$$
 
 Spatial Complexity Sc quantifies structural integration potential as the geometric mean of four orthogonal, MECE graph-theoretic measures:
 
-$$S_c = (C · H · M · $R_{sw}$)^{1/4} \tag{2}$$
+$$S_c = (C · H · M · R_{sw})^{1/4} \tag{2}$$
 
 C = global connectivity (LCC fraction); H = hierarchical depth (scale-normalized k-core ratio [Dorogovtsev et al. 2006]); M = resolution-corrected modularity Q' (Louvain Q, corrected for random-graph expectation [Fortunato & Barthélemy 2007]); $R_{sw}$ = small-world coefficient (tanh-normalized Watts-Strogatz σ, Erdős— Rényi baseline [8]). All four components are bounded ∈ [0,1] by construction under the Unified Cross-Species Computation Protocol (UCCP; see Methods). Critically, $R_{sw}$ encodes triangular closure through the clustering coefficient C_v = 2·(triangles at v)/(k_v(k_v∈)), capturing pairwise higher-order topology; full simplex-level topology via Betti numbers [54] is discussed in the extension to Higher-Order Networks section. The geometric mean captures the bottleneck structure: deficiency in any single component drives Sc → 0.
 
@@ -100,7 +100,7 @@ The critical coefficient α = ln($M_{eff}$) encodes node-level state diversity. 
 
 Intelligence Efficiency η_I extends CST to a sustainability metric:
 
-$$\$\\eta_I$ = CST / P_{\text{norm}} \tag{5}$$
+$$\\\eta_I = CST / P_{\text{norm}} \tag{5}$$
 
 where $P_{norm}$ = P / 20W (normalizing to the human brain's resting power
 
@@ -516,7 +516,7 @@ Convergent evidence from independent theoretical frameworks. The CST formalism r
 
 extension to higher-order networks. The current Sc operationalizes triangular topology implicitly through the small-world coefficient $R_{sw}$ (Watts-Strogatz clustering coefficient), which directly measures triangular closure probability at the pairwise level. Higher-order network theory [54] demonstrates that genuine three-body interactions— where three nodes participate in a single hyperedge rather than three pairwise edges— constitute an additional, orthogonal dimension of structural Complexity not captured by pairwise graph metrics. An extended Sc incorporating the normalized first Betti number β (measuring independent topological loops not fillable by triangles):
 
-$$S_c^{\text{HO}} = (C · H · M · $R_{sw}$ · \beta_1^{\text{norm}})^{1/5}$$
+$$S_c^{\text{HO}} = (C · H · M · R_{sw} · \beta_1^{\text{norm}})^{1/5}$$
 
 is a natural extension for future validation. Empirical data from human brain simplicial Complexes (β ≈ 40–0) and C. elegans (β ≈ 5–0) suggest direction-consistent ordering, but persistent homology computation and validation across the full 40-system dataset are deferred to a companion paper. The current four-component Sc is theoretically complete within the pairwise-graph framework and requires no modification for v1.0 claims.
 
