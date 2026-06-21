@@ -7,7 +7,7 @@ authors: K. Moldamurat, A.S. Utegen, S. S. Brimzhanova, D. Kalmanova, N. Yryskel
 year: 2021
 url: https://www.semanticscholar.org/paper/3d30f7e513ba8ea9aca47679f7a48c2799611d1a
 citations: 5
-tags: [from-s2, inbox, tcc]
+tags: [satellite swarm, simulator, formation control, femtosatellite, classified]
 ---
 
 # Development of a software simulator for small satellite swarm control

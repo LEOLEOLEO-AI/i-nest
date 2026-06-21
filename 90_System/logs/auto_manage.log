@@ -3495,3 +3495,24 @@ warning: in the working copy of '_archive/03_Projects/TCC计算范式/01_论文/
 Inbox processing complete.
 
 Done!
+[main 835d75c] auto: inbox processing 2026/06/21 周日  8:40:35.34
+ 20 files changed, 566 insertions(+), 4 deletions(-)
+ create mode 100644 00_Inbox/2026-06-21_TCC_S2_Architectural Exploration for Waferscale Switching System.md
+ create mode 100644 00_Inbox/2026-06-21_TCC_S2_Development of a software simulator for small satellite swar.md
+ create mode 100644 00_Inbox/2026-06-21_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La.md
+ create mode 100644 00_Inbox/2026-06-21_TCC_S2_MEIN A Multicast-Efficient Interconnect Network for Multi-Ch.md
+ create mode 100644 00_Inbox/2026-06-21_TCC_arXiv_How Transparent is DiffusionGemma.md
+ create mode 100644 00_Inbox/2026-06-21_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction.md
+ create mode 100644 10_Library/Papers/2026-06-21_TCC_S2_Architectural Exploration for Waferscale Switching System.md
+ create mode 100644 10_Library/Papers/2026-06-21_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La.md
+ create mode 100644 10_Library/Papers/2026-06-21_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi.md
+ rename "00_Inbox/getnote_2026-06-21_getnote_2026-06-20_Nature\351\207\215\347\243\205\347\240\224\347\251\266_\350\275\254\345\275\225\345\233\240\345\255\220\347\273\204\345\220\210\347\274\226\347\240\201\350\260\203\346\216\247\345\244\247\350\204\221\347\245\236\347\273\217\345\205\203\345\244\232\346\240\267\346\200\247\344\270\216\347\250\263\345\256\232\346\200\247\347\232\204\346\226\260\346\234\272\345\210\266.md" => "10_Library/Papers/getnote_2026-06-21_getnote_2026-06-20_Nature\351\207\215\347\243\205\347\240\224\347\251\266_\350\275\254\345\275\225\345\233\240\345\255\220\347\273\204\345\220\210\347\274\226\347\240\201\350\260\203\346\216\247\345\244\247\350\204\221\347\245\236\347\273\217\345\205\203\345\244\232\346\240\267\346\200\247\344\270\216\347\250\263\345\256\232\346\200\247\347\232\204\346\226\260\346\234\272\345\210\266.md" (96%)
+ rename "00_Inbox/getnote_2026-06-21_getnote_2026-06-20_\347\201\265\351\225\277\347\261\273\350\247\206\350\247\211\347\232\256\345\261\202\345\214\272\345\237\237\344\270\223\344\270\232\345\214\226\347\232\204\347\273\206\350\203\236\345\237\272\347\241\200_V1\344\270\216LPFC\347\245\236\347\273\217\345\205\203\345\206\205\345\234\250\347\211\271\346\200\247\345\267\256\345\274\202\347\240\224\347\251\266.md" => "10_Library/Papers/getnote_2026-06-21_getnote_2026-06-20_\347\201\265\351\225\277\347\261\273\350\247\206\350\247\211\347\232\256\345\261\202\345\214\272\345\237\237\344\270\223\344\270\232\345\214\226\347\232\204\347\273\206\350\203\236\345\237\272\347\241\200_V1\344\270\216LPFC\347\245\236\347\273\217\345\205\203\345\206\205\345\234\250\347\211\271\346\200\247\345\267\256\345\274\202\347\240\224\347\251\266.md" (96%)
+ rename "00_Inbox/getnote_2026-06-21_getnote_2026-06-21_\345\244\215\346\235\202\347\263\273\347\273\237\346\266\214\347\216\260\347\232\204\347\273\237\344\270\200\347\220\206\350\256\272_\344\270\211\345\205\203\347\224\237\346\210\220\345\206\205\346\240\270\344\270\216\346\203\257\346\200\247\345\210\266\345\212\250\347\232\204\345\212\250\345\212\233\345\255\246\346\241\206\346\236\266.md" => "10_Library/Papers/getnote_2026-06-21_getnote_2026-06-21_\345\244\215\346\235\202\347\263\273\347\273\237\346\266\214\347\216\260\347\232\204\347\273\237\344\270\200\347\220\206\350\256\272_\344\270\211\345\205\203\347\224\237\346\210\220\345\206\205\346\240\270\344\270\216\346\203\257\346\200\247\345\210\266\345\212\250\347\232\204\345\212\250\345\212\233\345\255\246\346\241\206\346\236\266.md" (98%)
+ create mode 100644 _archive/low_quality/2026-06-21_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider.md
+ create mode 100644 _archive/low_quality/2026-06-21_TCC_S2_ISPI A 2-Wire Improved Serial Peripheral Interface with Auto.md
+ create mode 100644 _archive/low_quality/2026-06-21_TCC_arXiv_JanusMesh Fast and Zero-Shot 3D Visual Illusion Generation v.md
+ create mode 100644 _archive/low_quality/2026-06-21_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me.md
+ create mode 100644 dashboard/data.js
+ create mode 100644 dashboard/data.json
+[2026/06/21 ����  8:40:35.47] Auto-management complete. 
