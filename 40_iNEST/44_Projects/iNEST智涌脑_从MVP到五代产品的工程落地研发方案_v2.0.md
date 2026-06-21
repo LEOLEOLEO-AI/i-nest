@@ -11,7 +11,8 @@ sources:
   - LNN→iNEST→FPGA 四阶段落地路线图
   - SDI化合键工程参数证明 (b=10, g=1.5, D_f=0.176)
   - 元拓扑✖️SDI化合键六种最优拓扑数学证明
-  - 晶上项目布局 (三层18项目)`n  - [V3] 海河实验室_正式项目申报书_TCC战略版（TCC范式、TCC-11原语、TCC-Link标准、Route-Transform理论）
+  - 晶上项目布局 (三层18项目)
+`n  - [V3] 海河实验室_正式项目申报书_TCC战略版（TCC范式、TCC-11原语、TCC-Link标准、Route-Transform理论）
   - CST理论体系 (跨物种524样本验证)
 tags:
   - iNEST
@@ -607,13 +608,13 @@ Gen1-MVP IP                           继承到
 
 ## 附录B：文档链接
 
-- [iNEST战略规划 v1.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST计算范式_从涌现科学验证到工程落地战略规划_v1.0.md)
-- [iNEST四单位分工](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST计算范式_四单位体系化分工规划_v1.0.md)
-- [iNEST技术对标分析](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST技术源对标分析_涌现科学的全球差异定位_v1.0.md)
-- [iNEST MVP产业路径](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST计算范式_MVP到产业的五阶段发展路径_v1.0.md)
-- [LNN→iNEST→FPGA路线图](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/LNN到iNEST到FPGA_持续推进落地路线图.md)
-- [SDI六级智能跃迁](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI实验-3_六级智能跃迁验证体系.md)
-- [SDI多脑协作路线图](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI实验-2_V31_多脑协作与群体智能涌现路线图.md)
-- [SDI化合键工程参数](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI化合键工程参数证明及工程实现方案.md)
-- [元拓扑数学证明](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md)
-- [iNEST工程总体规划](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/00_iNEST工程开发总体规划_v1.0.md)
+- [iNEST战略规划 v1.0]([[40_iNEST/44_Projects/iNEST计算范式_从涌现科学验证到工程落地战略规划_v1.0.md]])
+- [iNEST四单位分工]([[40_iNEST/44_Projects/iNEST计算范式_四单位体系化分工规划_v1.0.md]])
+- [iNEST技术对标分析]([[40_iNEST/44_Projects/iNEST技术源对标分析_涌现科学的全球差异定位_v1.0.md]])
+- [iNEST MVP产业路径]([[40_iNEST/44_Projects/iNEST计算范式_MVP到产业的五阶段发展路径_v1.0.md]])
+- [LNN→iNEST→FPGA路线图]([[50_Output/54_Code/iNEST/LNN到iNEST到FPGA_持续推进落地路线图.md]])
+- [SDI六级智能跃迁]([[50_Output/54_Code/iNEST/SDI实验-3_六级智能跃迁验证体系.md]])
+- [SDI多脑协作路线图]([[50_Output/54_Code/iNEST/SDI实验-2_V31_多脑协作与群体智能涌现路线图.md]])
+- [SDI化合键工程参数]([[50_Output/54_Code/iNEST/SDI化合键工程参数证明及工程实现方案.md]])
+- [元拓扑数学证明]([[50_Output/54_Code/iNEST/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md]])
+- [iNEST工程总体规划]([[50_Output/54_Code/iNEST/00_iNEST工程开发总体规划_v1.0.md]])
