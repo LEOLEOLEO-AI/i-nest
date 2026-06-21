@@ -1,4 +1,4 @@
----
+﻿---
 cssclass: dashboard
 ---
 
@@ -176,6 +176,11 @@ dv.el("div", html);
 > python 90_System/scripts/process_inbox.py --dry-run
 > ```
 
+> [!tip]+ 🧠 Wiki LLM v2.0 全流程
+> ```powershell
+> python 90_System/scripts/wiki_llm_v2.py full
+> ```
+
 > [!tip]+ 🔗 重建双向链接图谱
 > ```powershell
 > python 90_System/scripts/build_graph.py --auto-fix
@@ -234,10 +239,10 @@ graph TB
 
 ### 📌 2026-06-21 重点任务
 
-| # | 任务 | 截止 | 状态 |
-|:---|:---|:---|:---|
-| 🎤 | **超低轨论坛讲座 PPT** | 6/27 | 🟡 制作中（倒计时 6 天） |
-| 📋 | **科技委徐主任会面材料** | 近日 | 🟡 准备中 |
+| #   | 任务              | 截止   | 状态              |
+| :-- | :-------------- | :--- | :-------------- |
+| 🎤  | **超低轨论坛讲座 PPT** | 6/27 | 🟡 制作中（倒计时 6 天） |
+| 📋  | **科技委徐主任会面材料**  | 近日   | 🟡 准备中          |
 
 > 📄 详情：[[99_Journal/2026-06-21_每日计划]]
 
@@ -285,6 +290,39 @@ dv.table(
 ```
 
 ---
+
+
+---
+
+## 🧠 Wiki LLM v2.0
+
+```dataviewjs
+const v2Dir = dv.pages('"60_MOC/_wiki_llm_v2"').where(p => p.file.name != ".gitkeep").sort(p => p.file.mtime, "desc");
+if (v2Dir.length > 0) {
+  let html = '<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;">';
+  for (const p of v2Dir) {
+    const icon = p.file.name.includes("emergence") ? "🔮" : p.file.name.includes("TCC") ? "🧠" : "🐛";
+    html += `<div style="background:var(--background-secondary);border-radius:8px;padding:10px;font-size:0.8em;">
+      ${icon} ${dv.fileLink(p.file.path, false, p.file.name.replace(".md",""))}<br/>
+      <span style="color:var(--text-faint);">${p.file.mtime.toFormat("MM-dd HH:mm")}</span>
+    </div>`;
+  }
+  html += '</div>';
+  dv.el("div", html);
+} else {
+  dv.paragraph("运行 `python 90_System/scripts/wiki_llm_v2.py full` 生成 v2.0 报告");
+}
+```
+
+| 功能 | 命令 | 说明 |
+|:---|:---|:---|
+| 🔮 概念涌现 | `wiki_llm_v2.py emerge` | 检测知识库中的新兴概念集群 |
+| 📋 自动 MOC | `wiki_llm_v2.py moc --track TCC` | LLM 生成全景导航页 |
+| 📝 渐进摘要 | `wiki_llm_v2.py summarize` | 为笔记自动生成分层摘要 |
+| 🔗 智能链接 | `wiki_llm_v2.py links` | LLM 推理推荐双向链接 |
+| ⭐ 质量评分 | `wiki_llm_v2.py score` | 自动评估笔记完整度 |
+| 🚀 全流程 | `wiki_llm_v2.py full` | 一键运行以上所有功能 |
+
 
 ## ⏭️ 后续任务
 

@@ -1,4 +1,4 @@
-﻿# iNEST 智能涌现研究：现状全景与可执行推进方案
+# iNEST 智能涌现研究：现状全景与可执行推进方案
 
 > **编制日期**：2026-06-03
 > **基于资产**：D:\iNEST\Write\Code（代码库） + D:\Agent（Agentic Research工具） + D:\Obsidian（知识库）
