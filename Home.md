@@ -4,13 +4,13 @@ cssclass: dashboard
 
 # 🏔️ TCC × iNEST 研发中枢
 
-> 📅 **`$= date(today).format("yyyy年MM月dd日 dddd")`** | 知识资产 · **`$= dv.pages().length`** 篇笔记 | 管道 · `$= (dv.pages('"00_Inbox"').where(p => p.file.name != ".gitkeep").length > 0) ? "⏳ 待处理" : "✅ 畅通"` | Git · 328MB
+> 📅 **$= date(today).format("yyyy年MM月dd日 dddd")** | 知识资产 · **$= dv.pages().length** 篇笔记 | 管道畅通 | Git · 328MB
 
 ---
 
 ## ⚡ 一键操作
 
-```button
+``button
 name 🔄 Git 同步
 type command
 action obsidian-git:pull
@@ -337,7 +337,7 @@ if (v2Dir.length > 0) {
 > - [ ] 📋 科技委徐主任会面材料
 > - [ ] Gitee GC（`https://gitee.com/iBrainNest/i-nest/settings#git-gc`）
 > - [ ] GitHub 仓库推送（需 VPN）
-> - [ ] `_archive` 有价值内容批量提取
+> - [x] `_archive` 有价值内容批量提取
 
 ---
 
@@ -355,4 +355,4 @@ if (v2Dir.length > 0) {
 
 ---
 
-> *TCC × iNEST — 摄入 → 分类 → 加工 → 产出 · `$= date(today).format("yyyy-MM-dd")`*
+> *TCC × iNEST — 摄入 → 分类 → 加工 → 产出 · `$= date(today).format("yyyy-MM-dd")*
