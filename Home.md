@@ -10,25 +10,25 @@ cssclass: dashboard
 
 ## ⚡ 一键操作
 
-``button
+```button
 name 🔄 Git 同步
 type command
 action obsidian-git:pull
 color blue
 ```
-```button
+````button
 name ☁️ Git 推送
 type command
 action obsidian-git:push
 color green
 ```
-```button
+````button
 name 🔍 审查歧义
 type link
 action 60_MOC/00_Needs_Review.md
 color purple
 ```
-```button
+````button
 name 🏥 系统诊断
 type link
 action 60_MOC/00_Diagnostic_Report.md
