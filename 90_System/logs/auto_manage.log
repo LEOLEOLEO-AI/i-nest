@@ -3516,3 +3516,13 @@ Done!
  create mode 100644 dashboard/data.js
  create mode 100644 dashboard/data.json
 [2026/06/21 周日  8:40:35.47] Auto-management complete. 
+======================================== 
+[2026/06/21 周日 10:40:02.60] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
