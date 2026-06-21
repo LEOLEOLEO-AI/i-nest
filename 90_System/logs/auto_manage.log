@@ -3999,3 +3999,38 @@ warning: in the working copy of '50_Output/51_Papers/å­¦ç”Ÿ4_ä»»åŠ¡åŒ…_R2_å½’çº¦
 Inbox processing complete.
 
 Done!
+warning: in the working copy of '50_Output/51_Papers/A1_ARSè¯„å®¡ä¸Žç»ˆç¨¿/_convert_mathjax.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '50_Output/51_Papers/A1_ARSè¯„å®¡ä¸Žç»ˆç¨¿/_diagnose_v29.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '50_Output/51_Papers/A1_ARSè¯„å®¡ä¸Žç»ˆç¨¿/_fix_v29_comprehensive.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '50_Output/51_Papers/A1_ARSè¯„å®¡ä¸Žç»ˆç¨¿/_fix_v29_math.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '50_Output/51_Papers/ZOTERO_PIPELINE_README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '50_Output/51_Papers/_gen_bib.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '_convert_citations.py', LF will be replaced by CRLF the next time Git touches it
+[main d119733] auto: inbox processing 2026/06/21 å‘¨æ—¥ 18:40:08.67
+ 17 files changed, 4425 insertions(+), 113 deletions(-)
+ create mode 100644 "50_Output/51_Papers/A1_ARS\350\257\204\345\256\241\344\270\216\347\273\210\347\250\277/_convert_mathjax.py"
+ create mode 100644 "50_Output/51_Papers/A1_ARS\350\257\204\345\256\241\344\270\216\347\273\210\347\250\277/_diagnose_v29.py"
+ create mode 100644 "50_Output/51_Papers/A1_ARS\350\257\204\345\256\241\344\270\216\347\273\210\347\250\277/_fix_v29_comprehensive.py"
+ create mode 100644 "50_Output/51_Papers/A1_ARS\350\257\204\345\256\241\344\270\216\347\273\210\347\250\277/_fix_v29_math.py"
+ create mode 100644 50_Output/51_Papers/A1_CST_Theory_V29_FROM_PDF_BROKEN.md
+ create mode 100644 50_Output/51_Papers/A1_CST_Theory_V29_FROM_PDF_diagnosis.txt
+ create mode 100644 50_Output/51_Papers/A1_CST_Theory_V30_CITEKEYS.md
+ create mode 100644 50_Output/51_Papers/A1_CST_Theory_V30_CITEKEYS_FULL.md
+ create mode 100644 50_Output/51_Papers/A1_CST_Theory_V30_draft.docx
+ create mode 100644 50_Output/51_Papers/ZOTERO_PIPELINE_README.md
+ create mode 100644 50_Output/51_Papers/_gen_bib.py
+ create mode 100644 50_Output/51_Papers/cst_references_v29.bib
+ create mode 100644 50_Output/51_Papers/ref_key_map.json
+ create mode 100644 _convert_citations.py
+[2026/06/21 ÖÜÈÕ 18:40:08.82] Auto-management complete. 
+======================================== 
+[2026/06/21 ÖÜÈÕ 20:40:02.67] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 1 inbox notes...
+Inbox:   0%|          | 0/1 [00:00<?, ?it/s]Inbox: 100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 1/1 [00:00<?, ?it/s]
+  Skipping short note: Inbox.md
+
+Inbox processing complete.
+
+Done!
