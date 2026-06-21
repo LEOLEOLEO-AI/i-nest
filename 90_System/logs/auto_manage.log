@@ -4034,3 +4034,22 @@ warning: in the working copy of '_convert_citations.py', LF will be replaced by 
 Inbox processing complete.
 
 Done!
+[main 4ebd3f9] auto: inbox processing 2026/06/21 鍛ㄦ棩 20:40:09.99
+ 7 files changed, 35 insertions(+)
+ create mode 100644 50_Output/51_Papers/A1_CST_Theory_V30_ZOTERO.docx
+ create mode 100644 50_Output/51_Papers/A1_CST_Theory_V30_ZOTERO_FIELD.docx
+ create mode 100644 50_Output/51_Papers/A1_CST_Theory_V30_ZOTERO_FINAL.docx
+ create mode 100644 50_Output/51_Papers/~$_CST_Theory_V30_ZOTERO_FINAL.docx
+ create mode 100644 50_Output/51_Papers/~$_CST_Theory_V30_draft.docx
+[2026/06/21 周日 20:40:10.14] Auto-management complete. 
+======================================== 
+[2026/06/21 周日 22:40:02.23] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 1 inbox notes...
+Inbox:   0%|          | 0/1 [00:00<?, ?it/s]Inbox: 100%|██████████| 1/1 [00:00<00:00, 574.64it/s]
+  Skipping short note: Inbox.md
+
+Inbox processing complete.
+
+Done!
