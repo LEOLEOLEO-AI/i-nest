@@ -3463,3 +3463,35 @@ warning: in the working copy of '_archive/03_Projects/TCC璁＄畻鑼冨紡/01_璁烘枃/
  5 files changed, 23 insertions(+), 10 deletions(-)
  create mode 100644 00_MOC/TCC-MOC.md
 [2026/06/20 周六 22:40:05.32] Auto-management complete. 
+======================================== 
+[2026/06/21 周日  8:40:01.56] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 13 inbox notes...
+Inbox:   0%|          | 0/13 [00:00<?, ?it/s]Inbox:   8%|▊         | 1/13 [00:04<00:54,  4.57s/it]Inbox:  15%|█▌        | 2/13 [00:07<00:41,  3.74s/it]Inbox:  23%|██▎       | 3/13 [00:10<00:34,  3.46s/it]Inbox:  31%|███       | 4/13 [00:13<00:29,  3.33s/it]Inbox:  38%|███▊      | 5/13 [00:17<00:26,  3.26s/it]Inbox:  46%|████▌     | 6/13 [00:20<00:22,  3.21s/it]Inbox:  54%|█████▍    | 7/13 [00:23<00:19,  3.19s/it]Inbox:  62%|██████▏   | 8/13 [00:26<00:15,  3.17s/it]Inbox:  69%|██████▉   | 9/13 [00:29<00:12,  3.15s/it]Inbox: 100%|██████████| 13/13 [00:29<00:00,  2.28s/it]
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 2026-06-21_TCC_arXiv_How Transparent is DiffusionGemma.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 2026-06-21_TCC_arXiv_JanusMesh Fast and Zero-Shot 3D Visual Illusion Generation v.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 2026-06-21_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 2026-06-21_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 2026-06-21_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 2026-06-21_TCC_S2_Architectural Exploration for Waferscale Switching System.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 2026-06-21_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 2026-06-21_TCC_S2_ISPI A 2-Wire Improved Serial Peripheral Interface with Auto.md -> Web-Clips
+  Failed to analyze note after 3 attempts: Error code: 403 - {'code': 30001, 'message': 'Sorry, your account balance is insufficient', 'data': None}
+  [WARN]  Low quality: 2026-06-21_TCC_S2_MEIN A Multicast-Efficient Interconnect Network for Multi-Ch.md -> Web-Clips
+  Error reading 00_Inbox\2026-06-21_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi.md: [Errno 2] No such file or directory: '00_Inbox\\2026-06-21_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi.md'
+  Error reading 00_Inbox\getnote_2026-06-21_getnote_2026-06-20_Nature重磅研究_转录因子组合编码调控大脑神经元多样性与稳定性的新机制.md: [Errno 2] No such file or directory: '00_Inbox\\getnote_2026-06-21_getnote_2026-06-20_Nature重磅研究_转录因子组合编码调控大脑神经元多样性与稳定性的新机制.md'
+  Error reading 00_Inbox\getnote_2026-06-21_getnote_2026-06-20_灵长类视觉皮层区域专业化的细胞基础_V1与LPFC神经元内在特性差异研究.md: [Errno 2] No such file or directory: '00_Inbox\\getnote_2026-06-21_getnote_2026-06-20_灵长类视觉皮层区域专业化的细胞基础_V1与LPFC神经元内在特性差异研究.md'
+  Error reading 00_Inbox\getnote_2026-06-21_getnote_2026-06-21_复杂系统涌现的统一理论_三元生成内核与惯性制动的动力学框架.md: [Errno 2] No such file or directory: '00_Inbox\\getnote_2026-06-21_getnote_2026-06-21_复杂系统涌现的统一理论_三元生成内核与惯性制动的动力学框架.md'
+
+Inbox processing complete.
+
+Done!

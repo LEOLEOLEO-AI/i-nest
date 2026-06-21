@@ -1,0 +1,76 @@
+{
+    "last_updated": "2026-06-21",
+    "papers": {
+        "tcc": 0,
+        "inest": 1,
+        "tcc_list": [],
+        "inest_list": [
+            {
+                "date": "2026-06-21",
+                "title": "2026-06-21 iNEST Daily Crawl",
+                "direction": "iNEST",
+                "source": "Crawler"
+            }
+        ]
+    },
+    "insights": 0,
+    "insights_list": [],
+    "commits": 0,
+    "skills_installed": [
+        {
+            "name": "iNEST Research Crawler",
+            "version": "1.0.0"
+        },
+        {
+            "name": "iNEST Knowledge Sync",
+            "version": "1.0.0"
+        },
+        {
+            "name": "Firecrawl Web",
+            "version": "0.3"
+        }
+    ],
+    "sync": {
+        "obsidian": "ok",
+        "gitee": "ok",
+        "genspark": "pending"
+    },
+    "progress": {
+        "tcc": {
+            "code": 40,
+            "paper": 80,
+            "sim": 25,
+            "patent": 50
+        },
+        "inest": {
+            "code": 40,
+            "paper": 80,
+            "sim": 25,
+            "patent": 50
+        }
+    },
+    "yesterday_progress": [
+        {
+            "text": "Gitee sync: 33 commits pushed",
+            "dot": "done",
+            "dim": "TCC+iNEST"
+        },
+        {
+            "text": "Inbox processing: 3 items to triage",
+            "dot": "ongoing",
+            "dim": "iNEST"
+        }
+    ],
+    "today_plan": [
+        {
+            "text": "Update knowledge graph with new bidirectional wiki links",
+            "dot": "plan",
+            "dim": "iNEST"
+        },
+        {
+            "text": "Sync knowledge base to Gitee for Genspark collaboration",
+            "dot": "plan",
+            "dim": "TCC+iNEST"
+        }
+    ]
+}
