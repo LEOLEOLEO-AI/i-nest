@@ -31,29 +31,8 @@ gap between brains and current AI, and a four-generation hardware roadmap identi
 the physically necessary path from present systems to general intelligence.
 Keywords: intelligence emergence; complexity threshold; von Neumann; spatiotem-
 poral coordination; intelligence efficiency; phase transitions; neuromorphic computing
-2
 
-Contents
-1 Introduction 4
-2 Results 6
-### 2.1 The CST Theorem
-### 2.2 Six-Level Intelligence Hierarchy
-2.2.1 Derivation of Universal Thresholds via Symmetry Breaking . . . . . . 8
-### 2.3 Cross-System Validation
-### 2.4 The Triple Lock
-3 Discussion 14
-### 3.1 IIL vs. TIL
-### 3.2 The Hardware Roadmap
-### 3.3 Convergence of AI Architecture
-### 3.4 Falsifiability
-### 3.5 Limitations
-4 Methods 18
-### 4.1 Data Provenance
-### 4.2 Unified Cross-Species Protocol
-### 4.3 Statistical Analysis
-3
-
-1 Introduction
+## 1 Introduction
 The sustainability crisis of artificial intelligence
 The trajectory of modern AI development is defined by a single operating principle: scale
 compute, and intelligence will follow. Each generation of frontier LLMs has required sub-
@@ -127,7 +106,7 @@ Theory (IIT) proposes Φ as a consciousness measure [16], but computation scales
 limiting it to ∼30 nodes [17]; criticality theory does not predict intelligence levels [4, 5];
 complex network theory lacks a unified metric connecting structure to emergent behavior [9,
 14]. The CST framework provides the unification.
-2 Results
+## 2 Results
 ### 2.1 The CST Theorem
 We formalize the CST theorem on five axioms grounded in thermodynamic information-
 processing constraints (Axioms 1–3), device-physics bounds (Axiom 4), and measurement
@@ -396,7 +375,7 @@ ANN from crossing L1. Outermost ( α-lock): α= 0.69 fixed by binary-digital sub
 Middle (Γ st-lock): Γ stfrozen at training. Innermost (Ψ-lock): inference-time weight freezing
 eliminates Ψ >0. Arrows indicate the Gen1 →Gen2→Gen3 engineering transitions that
 sequentially unlock each barrier.
-3 Discussion
+## 3 Discussion
 ### 3.1 IIL vs. TIL
 While CST quantifies the intrinsic, emergent capability bound of a physical system (Intrinsic
 Intelligence Level, IIL), task execution depends on transient alignment with specific environ-
@@ -491,7 +470,7 @@ multiplex percolation theory await companion paper completion. Future work shoul
 idate CST in deployed neuromorphic hardware, extend ηImeasurements to frontier LLMs
 with disclosed power consumption, empirically test the SDI-based Γ stengineering predic-
 tions, and extend Scto the higher-order (Betti number) formulation.
-4 Methods
+## 4 Methods
 ### 4.1 Data Provenance
 All 40 validation systems are graded by measurement directness:
 [T1] Direct measurement (n= 34): Parameters extracted directly from peer-
@@ -603,7 +582,6 @@ connectivity. Proceedings of the National Academy of Sciences USA , 106:2035–2
 2009.
 [35] S. Kato et al. Global brain dynamics embed the motor command sequence of Caenorhab-
 ditis elegans .Cell, 163:656–669, 2015.
-21
 
 [36] M. Raghu et al. Do vision transformers see like convolutional neural networks? NeurIPS ,
 2021.
