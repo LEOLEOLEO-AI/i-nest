@@ -18,7 +18,22 @@ dv.span("📅 **" + now.toFormat("yyyy年MM月dd日") + " " + wk + "** · **" + 
 
 ## ⚡ 快捷操作
 
-> [🔄 Git 同步](obsidian://obsidian-git:pull) &nbsp;|&nbsp; [🔍 全局搜索](obsidian://omnisearch:show-modal) &nbsp;|&nbsp; [📅 今日日记](obsidian://daily-notes) &nbsp;|&nbsp; [📂 快速切换](obsidian://switcher:open) &nbsp;|&nbsp; [📥 收件箱](00_Inbox/Inbox.md)
+```dataviewjs
+const btns = [
+  ["🔄 Git 同步", "obsidian-git:pull"],
+  ["🔍 全局搜索", "omnisearch:show-modal"],
+  ["📅 今日日记", "daily-notes"],
+  ["📂 快速切换", "switcher:open"],
+];
+const container = dv.el("div", "");
+btns.forEach(([label, cmd]) => {
+  const btn = container.createEl("button", { text: label });
+  btn.style.cssText = "margin:4px 6px;padding:6px 14px;border-radius:6px;border:1px solid var(--interactive-accent);background:var(--interactive-accent);color:white;cursor:pointer;font-size:14px;";
+  btn.onmouseover = () => { btn.style.opacity = "0.85"; };
+  btn.onmouseout = () => { btn.style.opacity = "1"; };
+  btn.onclick = () => app.commands.executeCommandById(cmd);
+});
+```
 
 ---
 
