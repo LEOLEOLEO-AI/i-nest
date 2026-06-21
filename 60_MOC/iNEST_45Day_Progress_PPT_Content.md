@@ -1,4 +1,4 @@
-﻿# iNEST 45天进展汇报 PPT 讲稿
+# iNEST 45天进展汇报 PPT 讲稿
 # ==========================
 # Target: AI2AC.py auto-generate PPT from this content
 # Audience: 决策层 (科技部/工信部/专家组)

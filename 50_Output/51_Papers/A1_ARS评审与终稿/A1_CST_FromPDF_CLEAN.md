@@ -7,7 +7,7 @@ Tianjin 300072, China
 * Correspondence: qinrangliu@gmail.com
 Draft: March 2026 — v25-FINAL — April 25, 2026
 40-system validated — data provenance audited
-## Abstract
+Abstract
 The rapid scaling of large language models has delivered remarkable functional
 capabilities yet produced exponentially growing energy costs with sub-linear returns—a
 thermodynamic trajectory that converges not toward general intelligence but toward an
@@ -36,21 +36,21 @@ poral coordination; intelligence efficiency; phase transitions; neuromorphic com
 Contents
 1 Introduction 4
 2 Results 6
-### 2.1 The CST Theorem
-### 2.2 Six-Level Intelligence Hierarchy
+2.1 The CST Theorem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.2 Six-Level Intelligence Hierarchy . . . . . . . . . . . . . . . . . . . . . . . . . 7
 2.2.1 Derivation of Universal Thresholds via Symmetry Breaking . . . . . . 8
-### 2.3 Cross-System Validation
-### 2.4 The Triple Lock
+2.3 Cross-System Validation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.4 The Triple Lock and the Thermodynamic Asymptote . . . . . . . . . . . . . 13
 3 Discussion 14
-### 3.1 IIL vs. TIL
-### 3.2 The Hardware Roadmap
-### 3.3 Convergence of AI Architecture
-### 3.4 Falsifiability
-### 3.5 Limitations
+3.1 IIL vs. TIL: The Two-Layer Intelligence Framework . . . . . . . . . . . . . . 14
+3.2 The Hardware Roadmap . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+3.3 Convergence of AI Architecture toward CST . . . . . . . . . . . . . . . . . . 17
+3.4 Falsifiability and Boundary Conditions . . . . . . . . . . . . . . . . . . . . . 17
+3.5 Limitations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
 4 Methods 18
-### 4.1 Data Provenance
-### 4.2 Unified Cross-Species Protocol
-### 4.3 Statistical Analysis
+4.1 Data Provenance and Quality Grading . . . . . . . . . . . . . . . . . . . . . 18
+4.2 Unified Cross-Species Computation Protocol (UCCP) . . . . . . . . . . . . . 18
+4.3 Statistical Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
 3
 
 1 Introduction
@@ -128,7 +128,7 @@ limiting it to ∼30 nodes [17]; criticality theory does not predict intelligenc
 complex network theory lacks a unified metric connecting structure to emergent behavior [9,
 14]. The CST framework provides the unification.
 2 Results
-### 2.1 The CST Theorem
+2.1 The CST Theorem
 We formalize the CST theorem on five axioms grounded in thermodynamic information-
 processing constraints (Axioms 1–3), device-physics bounds (Axiom 4), and measurement
 theory (Axiom 5).
@@ -168,7 +168,7 @@ physics). Left panel: component definitions and biological interpretations. Righ
 contribution of each component to the total CST value for human cortex (B08, CST = 3 .92)
 vs. GPT-2 class Transformer (A07, CST = 0 .055). The 71-fold gap arises predominantly
 from the α-determined exponential term ( ×5.8 from αalone, ×12.3 from Γ stcoupling).
-### 2.2 Six-Level Intelligence Hierarchy
+2.2 Six-Level Intelligence Hierarchy
 We propose that intelligence emerges in discrete levels at six fundamental mathematical
 constants (Table 1). Each threshold corresponds to a distinct symmetry-breaking phase
 transition: 1 /√
@@ -241,7 +241,7 @@ the exponential amplification term exp( α·Γst) where α= ln( Meff) = ln(rank 
 The optimal gauge charge q∗≈γ∗
 CST= 0.486, providing a geometric mechanics derivation of
 Theorem 1 (detailed derivation: companion paper [29]).
-### 2.3 Cross-System Validation
+2.3 Cross-System Validation
 We validated CST on 40 systems: 20 biological neural networks (BNN) spanning 8 taxo-
 nomic grades and 20 artificial/neuromorphic systems (ANN/NMH) representing 18 distinct
 architectural families.
@@ -377,7 +377,7 @@ tionT1
 A20 ANN DeepSeek-V3-
 0324671B 0.671 0.124 0.09 0.69 0.0877 Sub-I.
 ReflexiveT1
-### 2.4 The Triple Lock
+2.4 The Triple Lock and the Thermodynamic Asymptote
 Three physical mechanisms constitute the Triple Lock preventing binary-digital ANN from
 crossing the L1 emergence threshold:
 1.Low α(αdigital = 0.69 vs. αcortical = 3.91): Binary digital logic constrains Meff= 2
@@ -397,7 +397,7 @@ Middle (Γ st-lock): Γ stfrozen at training. Innermost (Ψ-lock): inference-tim
 eliminates Ψ >0. Arrows indicate the Gen1 →Gen2→Gen3 engineering transitions that
 sequentially unlock each barrier.
 3 Discussion
-### 3.1 IIL vs. TIL
+3.1 IIL vs. TIL: The Two-Layer Intelligence Framework
 While CST quantifies the intrinsic, emergent capability bound of a physical system (Intrinsic
 Intelligence Level, IIL), task execution depends on transient alignment with specific environ-
 mental constraints. We extend the CST formalism to a two-layer model incorporating Task
@@ -420,7 +420,7 @@ Figure 4: Intelligence Efficiency ( ηI) comparison. Log-scale bar chart. Human 
 LTC/NCP ( ηI= 2.8×10−4); GPT-2 ( ηI= 6.8×10−6); LLaMA-3-70B ( ηI= 7.0×10−6);
 MoE ( ηI= 3.0×10−6); MLP ( ηI= 4.6×10−7). Six-order-of-magnitude gap between
 biological and binary-digital AI visible at a glance.
-### 3.2 The Hardware Roadmap
+3.2 The Hardware Roadmap
 The engineering pathway from the scaling paradigm to emergent intelligence requires crossing
 the Γ stbarrier through materials, not algorithms. The required transitions are concrete and
 15
@@ -465,7 +465,7 @@ Figure 5: Four-generation hardware roadmap. Timeline 2024–2032, y-axis: CST le
 below L1.
 16
 
-### 3.3 Convergence of AI Architecture
+3.3 Convergence of AI Architecture toward CST
 The global AI industry’s architectural evolution from 2017 to 2025 provides independent
 validation of CST theory: every major architectural advance maps onto a specific CST
 component.
@@ -474,14 +474,14 @@ scatter plot of 20 ANN architectures, x-axis = year of publication, y-axis = CST
 Color encodes dominant architectural innovation ( Sc: blue, Tc: green, Γ st: orange). All
 points below L1 dashed line. Right panel: radar charts for 3 representative systems (MLP,
 Loihi-2, LTC/NCP) on 4 axes ( Sc,Tc, Γst,α-normalized).
-### 3.4 Falsifiability
+3.4 Falsifiability and Boundary Conditions
 A robust physical theory must outline the conditions under which it can be falsified. The CST
 framework would be challenged if: (1) threshold values systematically shifted as a function
 of system size; (2) a strictly feedforward, structurally frozen artificial network empirically
 demonstrated true generalized, cross-domain autonomous adaptation without retraining; (3)
 a biological connectome empirically proven to possess high generalized intelligence (Level
 IV+) lacked modular small-worldness or criticality.
-### 3.5 Limitations
+3.5 Limitations
 Γstcomparability across BNN and ANN measurement modalities is validated within ±0.04
 forC. elegans simulations; domain-specific CST funcestimates for modern LLMs are theo-
 retical projections without open weight access; the six threshold formal derivations from
@@ -492,7 +492,7 @@ idate CST in deployed neuromorphic hardware, extend ηImeasurements to frontier 
 with disclosed power consumption, empirically test the SDI-based Γ stengineering predic-
 tions, and extend Scto the higher-order (Betti number) formulation.
 4 Methods
-### 4.1 Data Provenance
+4.1 Data Provenance and Quality Grading
 All 40 validation systems are graded by measurement directness:
 [T1] Direct measurement (n= 34): Parameters extracted directly from peer-
 reviewed connectomic or electrophysiological datasets with zero free parameters. Core
@@ -504,7 +504,7 @@ nectivity Atlas. Human: Van Essen et al. [32], HCP. Branching ratio: Beggs & Ple
 SC-FC coupling: Arnatkeviciute et al. [33]; Honey et al. [34]. C. elegans functional dy-
 namics: Kato et al. [35]; Gordus et al. (2015). C. elegans Γst= 0.17 from Randi et al.
 (arXiv:2412.14498, 2024).
-### 4.2 Unified Cross-Species Protocol
+4.2 Unified Cross-Species Computation Protocol (UCCP)
 AllScandTccomponents are normalized to [0 ,1] using the following unified formulas:
 Spatial complexity: Sc= (C·H·M·Rsw)1/4, where:
 C=|LCC|/N(global connectivity; bounded [0 ,1] by construction)
@@ -528,12 +528,12 @@ BrainScaleS-2.
 Spiking BNN ( α= 3.47–3.91): Zebrafish through Human.
 Γstcomputation: Γst= NMI( Ms, MT)·sign(Mantel( DA, DFC)).
 ηIcomputation: ηI= CST /Pnorm,Pnorm=Psystem/20 W.
-### 4.3 Statistical Analysis
+4.3 Statistical Analysis
 Spearman rank correlations; Fisher exact tests with Bonferroni correction ( αcorrected =
 0.0083); phylogenetic independent contrasts (PIC [23]) via TimeTree 5 [37]. Pre-registration:
 all thresholds specified prior to analysis (v5.1 preprint, August 2025).
 Code availability: https://github.com/iNEST-TJU/CST-theorem
-## References
+References
 [1] J. Kaplan et al. Scaling laws for neural language models. arXiv , 2001.08361, 2020.
 [2] J. von Neumann. Theory of Self-Reproducing Automata . University of Illinois Press,
 Urbana, 1966. Ed. A.W. Burks; based on 1948 lectures.
