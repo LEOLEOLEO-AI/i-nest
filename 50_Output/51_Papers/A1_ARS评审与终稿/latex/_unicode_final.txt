@@ -1,0 +1,44 @@
+U+2020 (DAGGER): x9 first at pos 25716
+  Context: [ure measurement; [T2†] = indirect inference with biological ]
+U+2074 (SUPERSCRIPT FOUR): x1 first at pos 36991
+  Context: [81, $p$_PERM$$ < 10⁻⁴)---the CST $\Gamma$st transition in di]
+U+2075 (SUPERSCRIPT FIVE): x1 first at pos 87461
+  Context: [med at 4.2$\times$10⁵)  3. Fig 2 legend: C. elegans $\Gamma$]
+U+2076 (SUPERSCRIPT SIX): x5 first at pos 15020
+  Context: [$M$_eff$$ = 2$^3$--2⁶ $\approx$ 8--64, geometric mean $\appr]
+U+2077 (SUPERSCRIPT SEVEN): x2 first at pos 80263
+  Context: [ilde{}4.6$\times$10⁻⁷). Six-order-of-magnitude gap between b]
+U+2079 (SUPERSCRIPT NINE): x1 first at pos 47200
+  Context: [ density reaches ~10⁹/cm$^2$. Gen3 (SDI Spatiotemporal Coord]
+U+207B (SUPERSCRIPT MINUS): x9 first at pos 16115
+  Context: [pprox$ 8.8$\times$10⁻⁶. The six-order-of-magnitude gap is no]
+U+207F (SUPERSCRIPT LATIN SMALL LETTER N): x1 first at pos 8302
+  Context: [tation scales as O(2ⁿ), limiting it to \textasciitilde{}30 n]
+U+2081 (SUBSCRIPT ONE): x5 first at pos 17763
+  Context: [nsitions at $\theta$₁ = 1/$\sqrt{2}$ (p = 0.0003), $\theta$₃]
+U+2082 (SUBSCRIPT TWO): x5 first at pos 16392
+  Context: [$\gamma$ $\cdot$ log₂(1 + SN$R$_info$$($\gamma$)) -- $\mu$ $]
+U+2083 (SUBSCRIPT THREE): x2 first at pos 17802
+  Context: [ = 0.0003), $\theta$₃ = $\phi$ (p = 0.0004), and $\theta$₅ =]
+U+2085 (SUBSCRIPT FIVE): x2 first at pos 17839
+  Context: [.0004), and $\theta$₅ = $\pi$ (p = 0.0001), all surviving Bo]
+U+2093 (LATIN SUBSCRIPT SMALL LETTER X): x2 first at pos 55986
+  Context: [VO₂ oscillator / TaOₓ memristor heterogeneous integration [6]
+U+209B (LATIN SUBSCRIPT SMALL LETTER S): x3 first at pos 37087
+  Context: [ommunity partition Mₛ and functional activation partition $M]
+U+211D (DOUBLE-STRUCK CAPITAL R): x7 first at pos 20319
+  Context: [to non-Abelian GL(k,ℝ) (k = $M$_eff$$, as in biological subs]
+U+2194 (LEFT RIGHT ARROW): x1 first at pos 61709
+  Context: [tion for $\Phi$ (PLV↔CKA): Randi et al. 2024 + Raghu et al. ]
+U+221D (PROPORTIONAL TO): x1 first at pos 45830
+  Context: [. We conjecture CST ∝ $\Phi$^(1/3) for modular small-world n]
+U+2245 (APPROXIMATELY EQUAL TO): x4 first at pos 77084
+  Context: [ramework: LayerNorm ≅ radial constraint on GL(k,ℝ), MHA ≅ di]
+U+2713 (CHECK MARK): x4 first at pos 86571
+  Context: [Abstract: 150 words ✓ (limit: 150)  - Main text (Introductio]
+U+5218 (CJK UNIFIED IDEOGRAPH-5218): x1 first at pos 72652
+  Context: [tem{ref52} Liu, Q. (刘勤让). "The dynamic essence of intelligen]
+U+52E4 (CJK UNIFIED IDEOGRAPH-52E4): x1 first at pos 72653
+  Context: [em{ref52} Liu, Q. (刘勤让). "The dynamic essence of intelligenc]
+U+8BA9 (CJK UNIFIED IDEOGRAPH-8BA9): x1 first at pos 72654
+  Context: [m{ref52} Liu, Q. (刘勤让). "The dynamic essence of intelligence]

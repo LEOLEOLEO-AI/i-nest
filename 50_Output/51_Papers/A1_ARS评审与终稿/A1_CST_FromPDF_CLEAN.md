@@ -1,10 +1,10 @@
-From Compute to Complexity: A Physical
+﻿From Compute to Complexity: A Physical
 Theory of Intelligence Emergence and Its
 Implications for Artificial General Intelligence
 Qinrang Liu ()
 School of Microelectronics, Tianjin University
 Tianjin 300072, China
-* Correspondence: qinrangliu@gmail.com
+* Correspondence: qinrangliu@fudan.edu.cn
 Draft: March 2026 — v25-FINAL — April 25, 2026
 40-system validated — data provenance audited
 Abstract
