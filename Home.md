@@ -4,7 +4,7 @@ cssclass: dashboard
 
 # 🏔️ TCC × iNEST 研发中枢
 
-> 📅 **$= date(today).format("yyyy年MM月dd日 dddd")** | 知识资产 · **$= dv.pages().length** 篇笔记 | 管道畅通 | Git · 328MB
+📅 `$= date(today).format("yyyy年MM月dd日 dddd")` · `$= dv.pages().length` 篇笔记 · 管道畅通 · Git 328MB
 
 ---
 
@@ -16,27 +16,24 @@ type command
 action obsidian-git:pull
 color blue
 ```
-````button
+```button
 name ☁️ Git 推送
 type command
 action obsidian-git:push
 color green
 ```
-````button
+```button
 name 🔍 审查歧义
 type link
 action 60_MOC/00_Needs_Review.md
 color purple
 ```
-````button
+```button
 name 🏥 系统诊断
 type link
 action 60_MOC/00_Diagnostic_Report.md
 color purple
 ```
-
----
-
 ## 📊 知识资产总览
 
 ```dataviewjs
