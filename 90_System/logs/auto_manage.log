@@ -4137,3 +4137,28 @@ Done!
 Inbox processing complete.
 
 Done!
+[main 1d6787d] auto: inbox processing 2026/06/22 鍛ㄤ竴  8:41:56.60
+ 13 files changed, 6663 insertions(+), 5802 deletions(-)
+ create mode 100644 03_Topics/AI-ML/2026-06-22_TCC_arXiv_How Transparent is DiffusionGemma.md
+ create mode 100644 03_Topics/AI-ML/2026-06-22_TCC_arXiv_JanusMesh Fast and Zero-Shot 3D Visual Illusion Generation v.md
+ create mode 100644 03_Topics/AI-ML/2026-06-22_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me.md
+ create mode 100644 03_Topics/AI-ML/2026-06-22_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-22_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-22_TCC_S2_Architectural Exploration for Waferscale Switching System.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-22_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-22_TCC_S2_ISPI A 2-Wire Improved Serial Peripheral Interface with Auto.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-22_TCC_S2_MEIN A Multicast-Efficient Interconnect Network for Multi-Ch.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-22_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi.md
+ create mode 100644 03_Topics/Web-Clips/2026-06-22 iNEST Daily Crawl.md
+[2026/06/22 周一  8:41:56.87] Auto-management complete. 
+======================================== 
+[2026/06/22 周一 10:40:02.07] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 1 inbox notes...
+Inbox:   0%|          | 0/1 [00:00<?, ?it/s]Inbox: 100%|██████████| 1/1 [00:00<00:00, 500.45it/s]
+  Skipping short note: Inbox.md
+
+Inbox processing complete.
+
+Done!
