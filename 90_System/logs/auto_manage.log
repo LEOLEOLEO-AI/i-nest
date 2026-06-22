@@ -4113,3 +4113,27 @@ Done!
 Inbox processing complete.
 
 Done!
+[main 2d6060f] auto: inbox processing 2026/06/22 鍛ㄤ竴  6:40:04.04
+ 1 file changed, 14 insertions(+)
+[2026/06/22 周一  6:40:04.43] Auto-management complete. 
+======================================== 
+[2026/06/22 周一  8:40:03.59] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 11 inbox notes...
+Inbox:   0%|          | 0/11 [00:00<?, ?it/s]Inbox:   9%|▉         | 1/11 [00:10<01:47, 10.71s/it]Inbox:  18%|█▊        | 2/11 [00:24<01:52, 12.54s/it]Inbox:  27%|██▋       | 3/11 [00:42<01:59, 14.89s/it]Inbox:  36%|███▋      | 4/11 [00:50<01:26, 12.38s/it]Inbox:  45%|████▌     | 5/11 [00:58<01:05, 10.89s/it]Inbox:  55%|█████▍    | 6/11 [01:07<00:49,  9.96s/it]Inbox:  64%|██████▎   | 7/11 [01:18<00:41, 10.35s/it]Inbox:  73%|███████▎  | 8/11 [01:26<00:29,  9.73s/it]Inbox:  82%|████████▏ | 9/11 [01:37<00:20, 10.20s/it]Inbox:  91%|█████████ | 10/11 [01:47<00:10, 10.16s/it]Inbox: 100%|██████████| 11/11 [01:48<00:00,  9.82s/it]
+  [OK] 2026-06-22_TCC_arXiv_How Transparent is DiffusionGemma.md -> AI-ML/
+  [OK] 2026-06-22_TCC_arXiv_JanusMesh Fast and Zero-Shot 3D Visual Illusion Generation v.md -> AI-ML/
+  [OK] 2026-06-22_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me.md -> AI-ML/
+  [OK] 2026-06-22_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction.md -> AI-ML/
+  [OK] 2026-06-22_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider.md -> Chip-Hardware/
+  [OK] 2026-06-22_TCC_S2_Architectural Exploration for Waferscale Switching System.md -> Chip-Hardware/
+  [OK] 2026-06-22_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La.md -> Chip-Hardware/
+  [OK] 2026-06-22_TCC_S2_ISPI A 2-Wire Improved Serial Peripheral Interface with Auto.md -> Chip-Hardware/
+  [OK] 2026-06-22_TCC_S2_MEIN A Multicast-Efficient Interconnect Network for Multi-Ch.md -> Chip-Hardware/
+  [OK] 2026-06-22_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi.md -> Chip-Hardware/
+  Skipping short note: Inbox.md
+
+Inbox processing complete.
+
+Done!
