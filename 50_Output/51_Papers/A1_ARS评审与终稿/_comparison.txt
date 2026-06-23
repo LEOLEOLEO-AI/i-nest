@@ -1,0 +1,72 @@
+=== V32 MERGED (first 2000) ===
+From Compute to Complexity: A Physical
+Theory of Intelligence Emergence and Its
+Implications for Artificial General Intelligence
+Qinrang Liu ()
+School of Microelectronics, Tianjin University
+Tianjin 300072, China
+* Correspondence: qinrangliu@gmail.com
+Draft: March 2026 — v25-FINAL — April 25, 2026
+40-system validated — data provenance audited
+## Abstract
+The rapid scaling of large language models has delivered remarkable functional
+capabilities yet produced exponentially growing energy costs with sub-linear returns—a
+thermodynamic trajectory that converges not toward general intelligence but toward an
+unsustainable asymptote. We argue that this trajectory is not an engineering deficiency
+but a consequence of pursuing the wrong variable: compute, rather than complexity.
+Von Neumann identified in 1948 that intelligence requires a complexity threshold; here
+we quantify that threshold through a framework grounded in thermodynamic phase
+transitions, renormalization group theory, and complex network science. The result is
+the Coordination Spatiotemporal Complexity theorem:
+CST = ( Sc·Tc)·exp(α·Γst),
+where structural integration, dynamical richness, and their physical coupling jointly de-
+termine emergent intelligence potential. We derive six universal thresholds at natural
+constants {1/√
+2,1, φ, e, π, δ }and validate across 40 biological and artificial systems
+spanning 8 taxonomic grades and 18 distinct ANN/NMH architectural families (Spear-
+manρ= 0.976, 100% accuracy under UCCP normalization). Neuromorphic hardware
+(Intel Loihi-2) is separately classified from binary-digital ANN, confirming the α-barrier
+
+prediction. Intelligence Efficiency ηIreveals an approximately six-order-of-magnitude
+gap between brains and current AI, and a four-generation hardware roadmap identifies
+the physically necessary path from present systems to general intelligence.
+Keywords: intelligence emergence; complexity threshold; von Neumann; spatiotem-
+poral coordination; intelligence efficiency; 
+
+=== FromPDF CLEAN (first 2000) ===
+From Compute to Complexity: A Physical
+Theory of Intelligence Emergence and Its
+Implications for Artificial General Intelligence
+Qinrang Liu ()
+School of Microelectronics, Tianjin University
+Tianjin 300072, China
+* Correspondence: qinrangliu@gmail.com
+Draft: March 2026 — v25-FINAL — April 25, 2026
+40-system validated — data provenance audited
+Abstract
+The rapid scaling of large language models has delivered remarkable functional
+capabilities yet produced exponentially growing energy costs with sub-linear returns—a
+thermodynamic trajectory that converges not toward general intelligence but toward an
+unsustainable asymptote. We argue that this trajectory is not an engineering deficiency
+but a consequence of pursuing the wrong variable: compute, rather than complexity.
+Von Neumann identified in 1948 that intelligence requires a complexity threshold; here
+we quantify that threshold through a framework grounded in thermodynamic phase
+transitions, renormalization group theory, and complex network science. The result is
+the Coordination Spatiotemporal Complexity theorem:
+CST = ( Sc·Tc)·exp(α·Γst),
+where structural integration, dynamical richness, and their physical coupling jointly de-
+termine emergent intelligence potential. We derive six universal thresholds at natural
+constants {1/√
+2,1, φ, e, π, δ }and validate across 40 biological and artificial systems
+spanning 8 taxonomic grades and 18 distinct ANN/NMH architectural families (Spear-
+manρ= 0.976, 100% accuracy under UCCP normalization). Neuromorphic hardware
+(Intel Loihi-2) is separately classified from binary-digital ANN, confirming the α-barrier
+
+prediction. Intelligence Efficiency ηIreveals an approximately six-order-of-magnitude
+gap between brains and current AI, and a four-generation hardware roadmap identifies
+the physically necessary path from present systems to general intelligence.
+Keywords: intelligence emergence; complexity threshold; von Neumann; spatiotem-
+poral coordination; intelligence efficiency; pha
+
+V32 length: 30966
+FromPDF CLEAN length: 31751

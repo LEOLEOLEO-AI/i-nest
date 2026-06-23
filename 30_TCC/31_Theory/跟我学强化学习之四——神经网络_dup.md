@@ -1,0 +1,53 @@
+---
+title: 跟我学强化学习之四——神经网络
+tags:
+- ai-ml
+- artificial-intelligence
+- chiplet
+- graph-neural-network
+- large-language-model
+- neural-networks
+- neuroscience
+- survey
+---
+> 笔记本: 微信  
+> 创建时间: 2022-04-02  
+
+---
+
+#  跟我学强化学习之四——神经网络 
+
+原创 袁莎 白朔天 唐杰  图灵人工智能 **
+
+点击上方“**图灵人工智能**”，选择“星标”公众号
+您想知道的人工智能干货，第一时间送达
+
+
+                         
+
+**导读:**本书系统地介绍了强化学习，内容包括强化学习概述、强化学习预备知识、强化学习基础、表格求解法、近似求解法、实践与前沿六部分，系统、条理，涵盖了强化学习的方方面面。理论与实践结合，偏重实践应用，通过算法原理与实践案例的结合，由浅入深地导入强化学习的概念和方法，达到学以致用。配套资源非常丰富，包括源代码、教学视频和教学大纲等。
+
+
+**版权声明**
+ 版权属于原作者，仅用于学术分享
+
+
+**往期精彩必读文章（单击就可查看）：**
+1.[图灵奖得主Hamming的22年前经典演讲：如何做研究，才能不被历史遗忘](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247496525&idx=1&sn=a2908078ef075ea6cd2e29faff08cf05&chksm=e814d743df635e55d4ee94c3745e1fa585b43e83b6c9c315b21df851e581fb1c3ba09757bacd&scene=21#wechat_redirect)
+2.[当这位70岁的Hinton老人还在努力推翻自己积累了30年的学术成果时，我才知道什么叫做生命力（附Capsule最全解析）](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247497024&idx=1&sn=510f92999b402b54466aff681d429ea1&chksm=e814d14edf635858392a46e15da98f0218f93e13ad8b87e35fb9175d16f1bf080ba231e53736&scene=21#wechat_redirect)
+3.[你为什么获得不了图灵奖，原来本科学的是计算机专业，数据显示历届图灵奖得主当中竟然只有三位在本科时主修计算机专业......](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247525082&idx=1&sn=502ba32b235126ad747bc4ea6938029a&chksm=e81446d4df63cfc2e55f272468773e95b7ea07dc59a5a73ca8e6c078626b6e535daa6523ac67&scene=21#wechat_redirect)
+4.[图灵奖得主Jeff Ullman直言：机器学习不是数据科学的全部！统计学也不是](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247519954&idx=1&sn=232fa465498f261dc4910564e918c822&chksm=e814aadcdf6323ca40aa8a3d95f6a50534ca6398c6de0e6ec5c97cd3a947cad7546103b89a3b&scene=21#wechat_redirect)
+5.[魔幻现实！英国百年名校认为基础数学没用，要裁掉数学系补贴AI研究，图灵听后笑了笑](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247514414&idx=1&sn=5eaf5d2af0ba2e28cce51d7c0ccdd72d&chksm=e8149d20df631436d30f1f26c126526002677a45807c3f87b17874e3181407d0984656607cce&scene=21#wechat_redirect)
+6.[图灵奖得主Yann LeCun的六十年](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247513674&idx=1&sn=c99b4da18ba6859bc616074be8648383&chksm=e8149244df631b520d901a52b20d7496947c10f1062e55d3c667178b0dc495c2098d2aaa2766&scene=21#wechat_redirect)
+7.[图灵奖得主长文报告：是什么开启了计算机架构的新黄金十年？](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247503940&idx=1&sn=b7eecd7334d090995db82074c0c84952&chksm=e814f44adf637d5ceeccb6e5fbda62bea35f55cc1a8638e22f8607dcfdddf92df380b48c12e1&scene=21#wechat_redirect)
+8.[看了 72 位图灵奖得主成就，才发现我对计算机一无所知](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247503836&idx=1&sn=325094a55af8aa3197af82613e1c6775&chksm=e814ebd2df6362c42b8bef822b6fbd46bad9a928db5e4fce85bd288cb498cc264c1a20be372e&scene=21#wechat_redirect)
+9.[重读图灵经典之作，九条反驳意见引人深思](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247501225&idx=1&sn=1aeaa3d76ba159e91dc40fd25154c855&chksm=e814e1a7df6368b1e9828661d1633593fe47d99e8408a5ed4f333a3370b7b4715c5abc8d4abd&scene=21#wechat_redirect)
+10.[从图灵奖看人工智能的历史沉浮](http://mp.weixin.qq.com/s?__biz=MzIyMzk1MDE3Nw==&mid=2247498240&idx=1&sn=2d1e050d88a2600973edd9fbde4edfd5&chksm=e814de0edf635718dd2139ac762980b672eb958074825d1ee8e5960c41b4d30865c3edefaa39&scene=21#wechat_redirect)
+
+---
+**Tags:** [[Chiplet]]
+
+---
+## 相关笔记 (AI 自动关联)
+- [[【综述专栏】图神经网络综述]]
+- [[【推荐】2021​人工智能的认知神经基础白皮书（110页）附下载]]
