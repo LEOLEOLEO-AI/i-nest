@@ -1,0 +1,20 @@
+---
+title: "从晶圆到代码，全开源！Aegis：首个“从硅开始”的开源FPGA来了"
+created: 2026-04-28
+note_id: ""
+tags:
+  - "get-笔记"
+  - "技术实践"
+---
+
+# 从晶圆到代码，全开源！Aegis：首个“从硅开始”的开源FPGA来了
+
+## 正文
+
+原文链接: https://mp.weixin.qq.com/s/UKp24ed8DkiHf0sqB8I2sg                                                                                                                                                                              从晶圆到代码，全开源！Aegis：首个“从硅开始”的开源FPGA来了                                                原创                                                                                                                                          碎碎思                                                                                                                                                                                                                                        OpenFPGA                                                                                            2026年4月20日 08:31              浙江                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      如果你以为“开源FPGA”只是开放工具链，那这个项目会彻底刷新你的认知。Aegis，不只是一个开源FPGA架构，而是一个从硅（Silicon）到工具链（Toolchain）完全开源的FPGA项目。这意味着，从最底层的晶体管布局，到逻辑单元设计，再到综合与布局布线工具，一切都向开发者开放。什么是 Aegis？Aegis 是一个“Fully Open-Source FPGA from the Silicon Up”，直译就是：“一个从硅层开始完全开源的FPGA”开源FPGA领域取得了巨大进步：Project IceStorm和Apicula等项目对专有比特流格式进行逆向工程（Lattice），OpenFPGA和FABulous根据架构描述生成开放的FPGA架构，而Cologne Chip的GateMate则推出了一款配备完全开源工具链的商用FPGA。这些项目各自解决了部分难题，而Aegis则是一个全栈式、端到端的开源FPGA：架构生成、综合、布局布线、比特流打包、仿真和流片全部集成在一个项目中，从一开始就为开源而设计。从HDL到GDS，没有任何专有技术被封闭。不同于以往“半开源”的FPGA生态（比如只开放工具链或架构文档），Aegis的目标是：开放 FPGA 硬件设计（RTL + 版图）开放 制造相关设计数据开放 EDA 工具链开放 完整开发流程该项目生成带有 LUT4、BRAM、DSP、SerDes 和时钟管理模块的参数化 FPGA 器件，以及将用户设计综合到这些器件上并通过开源 PDK 和诸如 wafer.space之类的穿梭服务将器件本身流片到代工厂所需的一切。简单来说，它不是让你“使用FPGA”，而是让你真正拥有FPGA的全部设计权。首款FPGA首款 Aegis 设备，目标平台为 GF180MCU，通过wafer.space （https://wafer.space/）平台实现。架构FPGA 架构由 ROHD（一个 Dart HDL 框架）生成，并输出可综合的 SystemVerilog 代码。该架构遵循 Xilinx 风格的约定：CLB：LUT4 + D 触发器 + MUXCY 进位链（18 位配置）Tile：CLB + 4 向路由复用器（46 位配置）BRAM：双端口 128x8 block RAM（8 位配置）DSP：18x18 乘加运算器，可选流水线（16 位配置）IO：带输入/输出寄存器的双向焊盘（8 位配置）SerDes：与协议无关的序列化器/反序列化器（32 位配置）时钟：带相位控制的 4 路输出时钟分频器（49 位配置）配置通过串行移位寄存器链加载：时钟块 -> IO 块 -> SerDes 块 -> 结构块（行优先）。项目地址GitHub：https://github.com/MidstallSoftware/aegis结语Aegis 的意义，不只是一个项目，而是一种趋势：硬件正在走向“像软件一样开源”当FPGA不再神秘，创新的门槛将被大幅降低。也许未来：你不仅写Verilog你还能定义FPGA本身这才是真正的“硬件自由”。                                          预览时标签不可点                          微信扫一扫赞赏作者喜欢作者 感谢大家支持！ 关闭1人喜欢正在加载...关闭名称已清空微信扫一扫赞赏作者喜欢作者其它金额赞赏后展示我的头像作品暂无作品返回其它金额赞赏金额¥最低赞赏 ¥01234567890. 开源项目 · 目录上一篇FPGA图像处理平台搭建：MIPI + VDMA + Ethernet全流程下一篇不用C、不用Verilog！用Ada点亮LED，这才是Zynq的“另一种打开方式”
+
+## Related Notes
+
+- [[2028全球智能危机：人工智能引发的经济与制度冲击全景分析]]
+- [[AgentEvolver vs AlphaEvolve：AI自我进化的两条核心路线对比 🧠]]
+- [[AI双引擎的未来之光]]

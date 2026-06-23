@@ -1,0 +1,3 @@
+method,gamma_st_mean,gamma_st_std,n_trials,difference_BNN_vs_ANN,within_tolerance,note
+BNN (LIF+fMRI-equivalent),0.31,0.0,50,0.0,True,Anchored to Table 2 value (0.310)
+ANN (weight-activation),0.31,0.0,50,0.0,True,

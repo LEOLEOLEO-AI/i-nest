@@ -1,0 +1,181 @@
+
+==================================================
+MERGE: iNEST_vault\home\work\.openclaw\workspace\00_KnowledgeBase_知识库 (1286 files)
+  -> 03_Topics/_merged_knowledgebase
+  Progress: 50 files
+  Progress: 100 files
+  Progress: 150 files
+  Progress: 200 files
+  Progress: 250 files
+  Progress: 300 files
+  Progress: 350 files
+  Progress: 400 files
+  Progress: 450 files
+  Progress: 500 files
+  Progress: 550 files
+  Progress: 600 files
+  Progress: 650 files
+  Progress: 700 files
+  Progress: 750 files
+  Progress: 800 files
+  Progress: 850 files
+  Progress: 900 files
+  Progress: 950 files
+  Progress: 1000 files
+  Progress: 1050 files
+  Progress: 1100 files
+  Progress: 1150 files
+  Progress: 1200 files
+  Progress: 1250 files
+  Done: 1286 files from iNEST_vault\home\work\.openclaw\workspace\00_KnowledgeBase_知识库
+
+==================================================
+MERGE: iNEST_vault\home\work\.openclaw\workspace\01_Ideas_想法 (7 files)
+  -> iNEST_灵感池
+  Done: 7 files from iNEST_vault\home\work\.openclaw\workspace\01_Ideas_想法
+
+==================================================
+MERGE: iNEST_vault\home\work\.openclaw\workspace\02_Papers_论文 (29 files)
+  -> iNEST_2_论文撰写
+  Progress: 1300 files
+  Done: 29 files from iNEST_vault\home\work\.openclaw\workspace\02_Papers_论文
+
+==================================================
+MERGE: iNEST_vault\home\work\.openclaw\workspace\04_Code_代码 (6 files)
+  -> iNEST_4_工程开发
+  Done: 6 files from iNEST_vault\home\work\.openclaw\workspace\04_Code_代码
+
+==================================================
+MERGE: iNEST_vault\home\work\.openclaw\workspace\05_Projects_项目 (33 files)
+  -> iNEST_1_项目策划
+  Progress: 1350 files
+  Done: 33 files from iNEST_vault\home\work\.openclaw\workspace\05_Projects_项目
+
+==================================================
+MERGE: crystal-brain (10 files)
+  -> crystal-brain
+  Done: 10 files from crystal-brain
+
+==================================================
+MERGE: GetNotes_Inbox (6 files)
+  -> 00_Inbox/GetNotes
+  Done: 6 files from GetNotes_Inbox
+
+==================================================
+MERGE: output (1 files)
+  -> _archive/output
+  Done: 1 files from output
+
+==================================================
+MERGE: tmp (52 files)
+  -> _archive/tmp
+  Progress: 1400 files
+  Done: 52 files from tmp
+
+==================================================
+MERGE: scripts (13 files)
+  -> 90_System/scripts
+  Done: 13 files from scripts
+
+==================================================
+MERGE: phase1_workspace\papers (4 files)
+  -> iNEST_2_论文撰写/_from_phase1
+  Done: 4 files from phase1_workspace\papers
+
+==================================================
+MERGE: phase1_workspace\patents (2 files)
+  -> iNEST_3_专利撰写/_from_phase1
+  Done: 2 files from phase1_workspace\patents
+EMPTY: phase1_workspace\iNEST_4_工程开发
+
+==================================================
+MERGE: phase1_workspace\investor_demo (1 files)
+  -> iNEST_1_项目策划/investor_demo
+  Progress: 1450 files
+  Done: 1 files from phase1_workspace\investor_demo
+
+==================================================
+MERGE: phase1_workspace\collective_comm_naas (2 files)
+  -> 03_Topics/Neuroscience/data/collective_comm_naas
+  Done: 2 files from phase1_workspace\collective_comm_naas
+
+==================================================
+MERGE: phase1_workspace\connectome_data (11 files)
+  -> 03_Topics/Neuroscience/data/connectome_data
+  Done: 11 files from phase1_workspace\connectome_data
+EMPTY: phase1_workspace\larval_cns_connectome
+
+==================================================
+MERGE: phase1_workspace\tmp (9 files)
+  -> _archive/phase1_tmp
+  Done: 9 files from phase1_workspace\tmp
+
+==================================================
+MERGE: phase1_workspace\v10_results (4 files)
+  -> _archive/phase1_results/v10_results
+  Done: 4 files from phase1_workspace\v10_results
+
+==================================================
+MERGE: phase1_workspace\v11_results (3 files)
+  -> _archive/phase1_results/v11_results
+  Done: 3 files from phase1_workspace\v11_results
+EMPTY: phase1_workspace\v22p_results
+
+==================================================
+MERGE: phase1_workspace\v22_results (3 files)
+  -> _archive/phase1_results/v22_results
+  Done: 3 files from phase1_workspace\v22_results
+
+==================================================
+MERGE: phase1_workspace\v23_results (2 files)
+  -> _archive/phase1_results/v23_results
+  Done: 2 files from phase1_workspace\v23_results
+
+==================================================
+MERGE: phase1_workspace\v24_results (2 files)
+  -> _archive/phase1_results/v24_results
+  Done: 2 files from phase1_workspace\v24_results
+
+==================================================
+MERGE: phase1_workspace\v25_results (2 files)
+  -> _archive/phase1_results/v25_results
+  Done: 2 files from phase1_workspace\v25_results
+
+==================================================
+MERGE: phase1_workspace\v26_results (2 files)
+  -> _archive/phase1_results/v26_results
+  Done: 2 files from phase1_workspace\v26_results
+
+==================================================
+MERGE: phase1_workspace\v27_results (2 files)
+  -> _archive/phase1_results/v27_results
+  Done: 2 files from phase1_workspace\v27_results
+
+==================================================
+MERGE: phase1_workspace\v28_results (3 files)
+  -> _archive/phase1_results/v28_results
+  Done: 3 files from phase1_workspace\v28_results
+EMPTY: phase1_workspace\v29_results
+
+==================================================
+MERGE: phase1_workspace\v30_drosophila_results (2 files)
+  -> _archive/phase1_results/v30_drosophila_results
+  Done: 2 files from phase1_workspace\v30_drosophila_results
+
+==================================================
+MERGE: phase1_workspace\v30_results (2 files)
+  -> _archive/phase1_results/v30_results
+  Done: 2 files from phase1_workspace\v30_results
+
+==================================================
+MERGE: phase1_workspace\v9_results (3 files)
+  -> _archive/phase1_results/v9_results
+  Progress: 1500 files
+  Done: 3 files from phase1_workspace\v9_results
+
+==================================================
+SUMMARY:
+  Files to copy: 1502
+  Duplicates skipped: 0
+  Errors: 0
+  Total sources: 32
