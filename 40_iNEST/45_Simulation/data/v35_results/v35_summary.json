@@ -1,0 +1,19 @@
+{
+  "version": "V35",
+  "title": "C.elegans Publication-Ready Package",
+  "date": "2026-06-23",
+  "status": "completed",
+  "figures": {
+    "fig1": "Connectome structure (degree dist + adjacency)",
+    "fig2": "Four-index comparison vs ER/WS/BA",
+    "fig3": "SC-FC coupling by neuron class"
+  },
+  "table1": "Complete statistics with p-values and CIs",
+  "paper_draft": "~3,000 words (Methods + Results + Discussion)",
+  "key_results": {
+    "sigma": 6.976,
+    "sc_fc_enrichment": 2.3,
+    "sc_fc_p": 0.008,
+    "ks_clustering_p": 6.802496629449374e-135
+  }
+}
