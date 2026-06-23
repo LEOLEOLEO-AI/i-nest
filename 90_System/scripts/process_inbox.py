@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Inbox Processor — classify, tag, and link inbox items using LLM.
 Moves processed items from 00_Inbox to 10_Library or 20_Ideas.
