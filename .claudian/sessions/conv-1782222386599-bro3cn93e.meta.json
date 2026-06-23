@@ -1,0 +1,16 @@
+{
+  "id": "conv-1782222386599-bro3cn93e",
+  "providerId": "codex",
+  "title": "你好，测试一下",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782222386599,
+  "updatedAt": 1782222404357,
+  "lastResponseAt": 1782222404357,
+  "sessionId": "019ef4bb-76b5-73f1-8456-d260458fe437",
+  "providerState": {
+    "threadId": "019ef4bb-76b5-73f1-8456-d260458fe437",
+    "sessionFilePath": "C:\\Users\\LEO\\.codex\\sessions\\2026\\06\\23\\rollout-2026-06-23T21-46-31-019ef4bb-76b5-73f1-8456-d260458fe437.jsonl",
+    "transcriptRootPath": "C:\\Users\\LEO\\.codex\\sessions"
+  },
+  "currentNote": "Home.md"
+}

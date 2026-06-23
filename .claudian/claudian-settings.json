@@ -43,7 +43,7 @@
       "cliPath": "",
       "cliPathsByHost": {},
       "customModels": "deepseek-chat\ndeepseek-v4-pro",
-      "reasoningSummary": "detailed",
+      "reasoningSummary": "auto",
       "environmentVariables": "",
       "environmentHash": "",
       "installationMethodsByHost": {
@@ -79,7 +79,7 @@
   "settingsProvider": "claude",
   "savedProviderModel": {
     "claude": "opus",
-    "codex": "deepseek-chat"
+    "codex": "openai-codex/deepseek-v4-pro"
   },
   "savedProviderEffort": {
     "claude": "high",
@@ -95,10 +95,10 @@
   },
   "lastCustomModel": "",
   "maxTabs": 3,
-  "tabBarPosition": "input",
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,
   "expandFileEditsByDefault": true,
   "chatViewPlacement": "right-sidebar",
-  "hiddenProviderCommands": {}
+  "hiddenProviderCommands": {},
+  "tabBarPosition": "input"
 }
