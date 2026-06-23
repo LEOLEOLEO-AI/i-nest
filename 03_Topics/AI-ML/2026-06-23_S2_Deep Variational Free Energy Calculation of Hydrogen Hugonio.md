@@ -1,13 +1,29 @@
 ---
-title: "Deep Variational Free Energy Calculation of Hydrogen Hugoniot"
-date: 2026-06-23
-source: S2
-track: iNEST
 authors: Zihan Li, Hao Xie, Xinyang Dong, Lei Wang
-year: 2025
-url: https://www.semanticscholar.org/paper/2b6af51a937df3579d3ab9d81bef8fdca43a14f4
-tags: [from-s2, auto-crawl, inest]
+category: AI-ML
+date: 2026-06-23
+entities:
+- 变分自由能
+- 深度生成模型
+- 氢Hugoniot
+- 暖稠密物质
+processed: '2026-06-24T00:41:49.726589'
+source: S2
+source_file: 2026-06-23_S2_Deep Variational Free Energy Calculation of Hydrogen Hugonio.md
 status: inbox
+summary: 利用三种深度生成模型联合优化变分自由能，计算氢在暖稠密区的状态方程。
+tags:
+- from-s2
+- 深度生成模型
+- inest
+- 氢状态方程
+- 变分自由能
+- auto-crawl
+- 暖稠密物质
+title: Deep Variational Free Energy Calculation of Hydrogen Hugoniot
+track: iNEST
+url: https://www.semanticscholar.org/paper/2b6af51a937df3579d3ab9d81bef8fdca43a14f4
+year: 2025
 ---
 
 # Deep Variational Free Energy Calculation of Hydrogen Hugoniot

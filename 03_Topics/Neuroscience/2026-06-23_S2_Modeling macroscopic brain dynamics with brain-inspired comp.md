@@ -1,13 +1,27 @@
 ---
-title: "Modeling macroscopic brain dynamics with brain-inspired computing architecture"
-date: 2026-06-23
-source: S2
-track: iNEST
 authors: Zhong Zheng, Jing Wei, Yaru Xu, Chenhua Li, Tianyi Lu
-year: 2025
-url: https://www.semanticscholar.org/paper/11ccb9e9e8805385fbfe355be6a2a62f78f4cbb6
-tags: [from-s2, auto-crawl, inest]
+category: Neuroscience
+date: 2026-06-23
+entities:
+- coarse-grained brain modeling
+- dynamics-aware quantization
+processed: '2026-06-24T00:44:42.225933'
+source: S2
+source_file: 2026-06-23_S2_Modeling macroscopic brain dynamics with brain-inspired
+  comp.md
 status: inbox
+summary: 提出粗粒度脑建模与类脑计算架构的融合流水线，通过动态感知量化实现低精度模拟，提升计算效率。
+tags:
+- from-s2
+- quantization
+- inest
+- auto-crawl
+- brain dynamics
+- neuromorphic computing
+title: Modeling macroscopic brain dynamics with brain-inspired computing architecture
+track: iNEST
+url: https://www.semanticscholar.org/paper/11ccb9e9e8805385fbfe355be6a2a62f78f4cbb6
+year: 2025
 ---
 
 # Modeling macroscopic brain dynamics with brain-inspired computing architecture

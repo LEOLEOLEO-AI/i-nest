@@ -1,13 +1,33 @@
 ---
-title: "Emergence and Causality in Complex Systems: A Survey of Causal Emergence and Related Quantitative Studies"
-date: 2026-06-23
-source: S2
-track: iNEST
 authors: Bing Yuan, Jiang Zhang, Aobo Lyu, Jiayun Wu, Zhipeng Wang
-year: 2024
-url: https://www.semanticscholar.org/paper/2d426e821bc14166f7d3ef7d2a94564468a23614
-tags: [from-s2, auto-crawl, inest]
+category: Concepts-Theory
+date: 2026-06-23
+entities:
+- 涌现
+- 因果
+- 因果涌现
+- 复杂系统
+- 机器学习
+processed: '2026-06-24T00:42:33.901384'
+source: S2
+source_file: 2026-06-23_S2_Emergence and Causality in Complex Systems A Survey of
+  Causa.md
 status: inbox
+summary: 综述因果涌现的量化理论及其在数据中识别的方法，连接涌现与因果两大概念。
+tags:
+- 涌现
+- from-s2
+- 复杂系统
+- 因果涌现
+- 因果
+- inest
+- auto-crawl
+- 机器学习
+title: 'Emergence and Causality in Complex Systems: A Survey of Causal Emergence and
+  Related Quantitative Studies'
+track: iNEST
+url: https://www.semanticscholar.org/paper/2d426e821bc14166f7d3ef7d2a94564468a23614
+year: 2024
 ---
 
 # Emergence and Causality in Complex Systems: A Survey of Causal Emergence and Related Quantitative Studies

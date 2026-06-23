@@ -1,13 +1,31 @@
 ---
-title: "Network structure influences self-organized criticality in neural networks with dynamical synapses"
-date: 2026-06-23
-source: S2
-track: iNEST
 authors: Yoshiki A. Sugimoto, Hiroshi Yadohisa, Masato S. Abe
-year: 2025
-url: https://www.semanticscholar.org/paper/ec0a3083ec861a4429b56946126c372fa81fb4e1
-tags: [from-s2, auto-crawl, inest]
+category: Neuroscience
+date: 2026-06-23
+entities:
+- self-organized criticality
+- dynamical synapses
+- brain criticality hypothesis
+- neural network topology
+processed: '2026-06-24T00:44:57.341075'
+source: S2
+source_file: 2026-06-23_S2_Network structure influences self-organized criticality
+  in n.md
 status: inbox
+summary: 研究网络拓扑如何影响具有动态突触的神经网络中自组织临界性的产生与维持。
+tags:
+- from-s2
+- inest
+- 神经网络
+- 突触可塑性
+- auto-crawl
+- 自组织临界性
+- 脑临界假说
+title: Network structure influences self-organized criticality in neural networks
+  with dynamical synapses
+track: iNEST
+url: https://www.semanticscholar.org/paper/ec0a3083ec861a4429b56946126c372fa81fb4e1
+year: 2025
 ---
 
 # Network structure influences self-organized criticality in neural networks with dynamical synapses

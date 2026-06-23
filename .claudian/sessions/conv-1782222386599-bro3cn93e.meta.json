@@ -4,8 +4,8 @@
   "title": "你好，测试一下",
   "titleGenerationStatus": "failed",
   "createdAt": 1782222386599,
-  "updatedAt": 1782227996853,
-  "lastResponseAt": 1782227996853,
+  "updatedAt": 1782228259566,
+  "lastResponseAt": 1782228259566,
   "sessionId": "019ef4bb-76b5-73f1-8456-d260458fe437",
   "providerState": {
     "threadId": "019ef4bb-76b5-73f1-8456-d260458fe437",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "C:\\Users\\LEO\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 31020,
+    "inputTokens": 349,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "cacheReadInputTokens": 30720,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 31020,
-    "percentage": 12,
+    "contextTokens": 349,
+    "percentage": 0,
     "model": "openai-codex/deepseek-ai/Deepseek-v4-Flash"
   }
 }

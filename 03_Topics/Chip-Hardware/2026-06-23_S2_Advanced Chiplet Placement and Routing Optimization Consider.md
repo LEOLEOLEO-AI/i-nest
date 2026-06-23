@@ -1,13 +1,26 @@
 ---
-title: "Advanced Chiplet Placement and Routing Optimization Considering Signal Integrity"
-date: 2026-06-23
-source: S2
-track: TCC
 authors: Haeyeon Kim, Junghyun Lee, Seonguk Choi, Federico Berto, Taein Shin
-year: 2025
-url: https://www.semanticscholar.org/paper/7e67bda8176814b8b44526e8d5e3e0360c06060b
-tags: [from-s2, auto-crawl, tcc]
+category: Chip-Hardware
+date: 2026-06-23
+entities:
+- chiplet placement
+- signal integrity
+processed: '2026-06-24T00:41:04.865325'
+source: S2
+source_file: 2026-06-23_S2_Advanced Chiplet Placement and Routing Optimization Consider.md
 status: inbox
+summary: 提出信号完整性感知的分层MDP方法，实现芯粒布局布线优化，眼图孔径平均0.869 UI，优于随机搜索和深度RL 44.8%。
+tags:
+- from-s2
+- reinforcement learning
+- auto-crawl
+- chiplet
+- tcc
+- signal integrity
+title: Advanced Chiplet Placement and Routing Optimization Considering Signal Integrity
+track: TCC
+url: https://www.semanticscholar.org/paper/7e67bda8176814b8b44526e8d5e3e0360c06060b
+year: 2025
 ---
 
 # Advanced Chiplet Placement and Routing Optimization Considering Signal Integrity

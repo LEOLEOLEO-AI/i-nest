@@ -1,13 +1,19 @@
 ---
-title: "Defect detection on semiconductor wafer surfaces"
-date: 2026-06-23
-source: S2
-track: TCC
 authors: N. Shankar, Z. Zhong
-year: 2005
-url: https://www.semanticscholar.org/paper/d9281df17aa89b4c67e617c9af618f9b71ef2ac1
-tags: [from-s2, auto-crawl, tcc]
+category: Chip-Hardware
+date: 2026-06-23
+quality: low
+source: S2
 status: inbox
+tags:
+- from-s2
+- auto-crawl
+- tcc
+- needs-review
+title: Defect detection on semiconductor wafer surfaces
+track: TCC
+url: https://www.semanticscholar.org/paper/d9281df17aa89b4c67e617c9af618f9b71ef2ac1
+year: 2005
 ---
 
 # Defect detection on semiconductor wafer surfaces
