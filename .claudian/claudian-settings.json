@@ -1,7 +1,7 @@
 {
   "userName": "iNEST",
   "permissionMode": "normal",
-  "model": "opus",
+  "model": "opus[1m]",
   "thinkingBudget": "off",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -30,10 +30,10 @@
       "loadUserSettings": true,
       "enableChrome": false,
       "enableBangBash": false,
-      "enableOpus1M": false,
-      "enableSonnet1M": false,
+      "enableOpus1M": true,
+      "enableSonnet1M": true,
       "customModels": "",
-      "lastModel": "opus",
+      "lastModel": "opus[1m]",
       "environmentVariables": "",
       "environmentHash": ""
     },
@@ -42,7 +42,7 @@
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {},
-      "customModels": "deepseek-chat\ndeepseek-v4-pro",
+      "customModels": "deepseek-chat",
       "reasoningSummary": "auto",
       "environmentVariables": "",
       "environmentHash": "",
@@ -78,8 +78,8 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "opus",
-    "codex": "openai-codex/deepseek-v4-pro"
+    "claude": "opus[1m]",
+    "codex": "openai-codex/deepseek-chat"
   },
   "savedProviderEffort": {
     "claude": "high",
