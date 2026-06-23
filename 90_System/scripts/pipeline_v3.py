@@ -9,6 +9,9 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from collections import defaultdict
 import urllib.request, urllib.parse, urllib.error
+import sys
+sys.path.insert(0, r"D:\\Obsidian\\scripts")
+from llm_router import llm_call
 import xml.etree.ElementTree as ET
 
 # ── Config ──────────────────────────────────────────────
@@ -18,7 +21,6 @@ LOG_DIR = VAULT / "logs"
 LOG_DIR.mkdir(exist_ok=True)
 
 S2_API_KEY = os.environ.get("S2_API_KEY", "s2k-hUuwuX3sqJjRFbkjC6OZg4aR6yyJxkRzxcHKNJZx")
-DS_API_KEY = os.environ.get("DS_API_KEY", "sk-ef017fea9cc64cbe8185061772998930")
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
 ctx = ssl.create_default_context()
@@ -236,26 +238,17 @@ def crawl_google_news():
 
 # ── Stage 2: Process Inbox (classify with LLM) ─────────
 def call_deepseek(prompt, max_tokens=300):
-    """Call DeepSeek V4 API."""
-    payload = {
-        "model": "deepseek-chat",
-        "messages": [
-            {"role": "system", "content": "You are a research assistant. Output ONLY valid JSON."},
-            {"role": "user", "content": prompt}
-        ],
-        "max_tokens": max_tokens,
-        "temperature": 0.1
-    }
-    req = urllib.request.Request(
-        "https://api.deepseek.com/v1/chat/completions",
-        data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json", "Authorization": f"Bearer {DS_API_KEY}"}
-    )
+    """Call LLM via unified router (auto-fallback)."""
     try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            return json.loads(resp.read())["choices"][0]["message"]["content"]
+        return llm_call(
+            prompt,
+            system="You are a research assistant. Output ONLY valid JSON.",
+            model_tier="default",
+            max_tokens=max_tokens,
+            temperature=0.1
+        )
     except Exception as e:
-        log(f"  LLM: {str(e)[:60]}")
+        log(f"  LLM: {str(e)}")
         return None
 
 def classify_and_move(fp):
@@ -399,6 +392,65 @@ def scan_and_build_graph():
     log(f"[Graph] {len(suggestions)} missing backlinks")
     return len(nodes), len(edges), len(suggestions)
 
+
+
+# -- Stage 4: Generate Genspark Snapshot ---------------------------------
+def generate_genspark_snapshot():
+    """Generate project snapshot for Genspark top-tier model consumption."""
+    log("[Genspark] Generating project snapshot...")
+    now = datetime.now()
+    today = now.strftime("%Y-%m-%d")
+    snapshot_path = VAULT / "99_Meta" / f"genspark_snapshot_{today}.md"
+    snapshot_path.parent.mkdir(parents=True, exist_ok=True)
+
+    lib_papers = len(list((VAULT / "10_Library" / "Papers").glob("*.md")))
+    lib_articles = len(list((VAULT / "10_Library" / "Articles").glob("*.md")))
+    inbox_count = len([f for f in (VAULT / "00_Inbox").glob("*.md") if f.name != ".gitkeep"])
+    genspark_inbox = len(list((VAULT / "00_Inbox" / "_from_genspark").glob("*.md")))
+    papers_out = len(list((VAULT / "50_Output" / "51_Papers").glob("*.md")))
+    patents_out = len(list((VAULT / "50_Output" / "52_Patents").glob("*.md")))
+
+    graph_data = {"nodes": [], "edges": []}
+    graph_path = VAULT / "knowledge_graph" / "graph_data.json"
+    if graph_path.exists():
+        try:
+            with open(graph_path, encoding="utf-8") as f:
+                graph_data = json.load(f)
+        except:
+            pass
+
+    nodes_sorted = sorted(graph_data.get("nodes", []), key=lambda n: n.get("out_degree", 0) + n.get("in_degree", 0), reverse=True)[:10]
+    top_nodes = "\n".join(f"- [[{n['label']}]] (out={n['out_degree']}, in={n['in_degree']})" for n in nodes_sorted if n.get('label'))
+
+    inbox_files = sorted([f for f in (VAULT / "00_Inbox").glob("*.md") if f.name != ".gitkeep"], key=lambda f: f.stat().st_mtime, reverse=True)[:10]
+    recent_inbox = "\n".join(f"- {f.name} [{datetime.fromtimestamp(f.stat().st_mtime).strftime('%m-%d %H:%M')}]" for f in inbox_files) if inbox_files else "(empty)"
+
+    log_files = sorted(LOG_DIR.glob("pipeline_*.json"), reverse=True)[:3]
+    recent_logs = ""
+    for lf in log_files:
+        try:
+            ld = json.loads(open(lf, encoding="utf-8").read())
+            recent_logs += f"- {ld.get('date','')[:10]}: {ld.get('new_papers',0)} papers, {ld.get('classified',0)} classified\n"
+        except:
+            pass
+
+    with open(snapshot_path, "w", encoding="utf-8") as f:
+        f.write(f"---\ntitle: Genspark Project Snapshot - {today}\ndate: {today}\ntype: snapshot\ntarget: genspark\ntags: [genspark, snapshot, project-status]\n---\n\n")
+        f.write(f"# Genspark Project Snapshot - {today}\n\n")
+        f.write("## 1. Vault Overview\n\n| Metric | Count |\n|--------|-------|\n")
+        f.write(f"| Library Papers | {lib_papers} |\n| Library Articles | {lib_articles} |\n| Output Papers | {papers_out} |\n| Output Patents | {patents_out} |\n| Inbox (unprocessed) | {inbox_count} |\n| Genspark Inbox (pending) | {genspark_inbox} |\n| Knowledge Graph Nodes | {len(graph_data.get('nodes', []))} |\n| Knowledge Graph Edges | {len(graph_data.get('edges', []))} |\n\n")
+        f.write(f"## 2. Recent Pipeline Runs\n\n{recent_logs}\n\n")
+        f.write(f"## 3. Recent Inbox Items\n\n{recent_inbox}\n\n")
+        f.write(f"## 4. Top Connected Topics\n\n{top_nodes if top_nodes else '(empty)'}\n\n")
+        f.write("## 5. Current Focus Areas\n\n- **TCC**: Topological Computing - wafer-scale integration, network-on-chip\n- **iNEST**: Intelligent Neural Emergent System Theory - neuromorphic, self-organized criticality, emergence\n\n")
+        f.write(f"## 6. Open Questions\n\n(Review via Genspark)\n---\n*Auto-generated {now.strftime('%Y-%m-%d %H:%M')}*\n")
+
+    latest_path = VAULT / "99_Meta" / "genspark_latest_snapshot.md"
+    with open(latest_path, "w", encoding="utf-8") as f:
+        f.write(open(snapshot_path, encoding="utf-8").read())
+
+    log(f"[Genspark] Snapshot written: {snapshot_path.name}")
+    return str(snapshot_path.relative_to(VAULT))
 # ── Main ────────────────────────────────────────────────
 def main():
     print(f"\n{'='*60}")
@@ -425,7 +477,7 @@ def main():
     print(f"\n{'='*60}")
     print(f"  Pipeline v3.0 Complete")
     print(f"  New: {c1}(S2) + {c2}(arXiv) + {c3}(GN) = {c1+c2+c3}")
-    print(f"  Classified: {processed} | Graph: {nodes}N {edges}E | Missing BL: {missing}")
+    print(f"  Classified: {processed} | Graph: {nodes}N {edges}E | Missing BL: {missing} | Genspark Snapshot: OK")
     print(f"  Time: {elapsed:.0f}s")
     print(f"{'='*60}")
     
@@ -435,7 +487,8 @@ def main():
         "new_papers": c1+c2+c3,
         "classified": processed,
         "graph_nodes": nodes, "graph_edges": edges,
-        "elapsed_s": round(elapsed, 1)
+        "elapsed_s": round(elapsed, 1),
+        "genspark_snapshot": snapshot
     }
     with open(LOG_DIR / f"pipeline_{datetime.now().strftime('%Y%m%d_%H%M')}.json", "w") as f:
         json.dump(log_data, f, indent=2)

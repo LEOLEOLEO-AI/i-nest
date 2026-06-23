@@ -6,40 +6,26 @@ Moves processed items from 00_Inbox to 10_Library or 20_Ideas.
 import os, json, re, time
 from pathlib import Path
 from datetime import datetime
-import urllib.request
+import sys
+sys.path.insert(0, r"D:\Obsidian\scripts")
+from llm_router import llm_call
 
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 INBOX = VAULT / "00_Inbox"
 LOG_DIR = VAULT / "logs"
 
 # DeepSeek Official API (DeepSeek V4)
-DS_API_KEY = os.environ.get("DS_API_KEY", "sk-ef017fea9cc64cbe8185061772998930")
-DS_API_URL = "https://api.deepseek.com/v1/chat/completions"
-SF_MODEL = "deepseek-chat"
 
 def call_llm(prompt, max_tokens=300):
-    """Call DeepSeek Official DeepSeek V4 API."""
-    payload = {
-        "model": SF_MODEL,
-        "messages": [
-            {"role": "system", "content": "You are a research assistant classifying academic papers and notes. Output ONLY valid JSON, no markdown."},
-            {"role": "user", "content": prompt}
-        ],
-        "max_tokens": max_tokens,
-        "temperature": 0.1,
-    }
-    req = urllib.request.Request(
-        DS_API_URL,
-        data=json.dumps(payload).encode("utf-8"),
-        headers={
-            "Content-Type": "application/json",
-            "Authorization": f"Bearer {DS_API_KEY}"
-        }
-    )
+    """Call LLM via unified router (auto-fallback)."""
     try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            data = json.loads(resp.read())
-            return data["choices"][0]["message"]["content"]
+        return llm_call(
+            prompt,
+            system="You are a research assistant classifying academic papers and notes. Output ONLY valid JSON, no markdown.",
+            model_tier="fast",
+            max_tokens=max_tokens,
+            temperature=0.1
+        )
     except Exception as e:
         print(f"  LLM error: {e}")
         return None
