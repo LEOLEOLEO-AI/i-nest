@@ -1,0 +1,63 @@
+{
+  "schema": "acpx.session.v1",
+  "acpx_record_id": "agent:claude:acp:ff0d80fc-b1fb-45ec-98f7-7aee8d796d1e:oneshot:5b5bfbe0-8bf5-419d-89f7-6308f6f9e322",
+  "acp_session_id": "c86b872e-c421-41f1-80c1-4e396ad1f6db",
+  "agent_command": "\"/usr/bin/node\" \"/home/work/.openclaw/acpx/claude-agent-acp-wrapper.mjs\"",
+  "cwd": "/home/work/.openclaw/workspace/claude",
+  "name": "agent:claude:acp:ff0d80fc-b1fb-45ec-98f7-7aee8d796d1e",
+  "created_at": "2026-05-07T16:35:12.444Z",
+  "last_used_at": "2026-05-07T16:35:12.444Z",
+  "last_seq": 0,
+  "event_log": {
+    "active_path": "/home/work/.acpx/sessions/agent%3Aclaude%3Aacp%3Aff0d80fc-b1fb-45ec-98f7-7aee8d796d1e%3Aoneshot%3A5b5bfbe0-8bf5-419d-89f7-6308f6f9e322.stream.ndjson",
+    "segment_count": 5,
+    "max_segment_bytes": 67108864,
+    "max_segments": 5,
+    "last_write_error": null
+  },
+  "closed": true,
+  "closed_at": "2026-05-07T16:35:14.546Z",
+  "pid": 14670,
+  "agent_started_at": "2026-05-07T16:35:12.995Z",
+  "last_agent_exit_code": null,
+  "last_agent_exit_signal": null,
+  "last_agent_exit_at": "2026-05-07T16:35:14.497Z",
+  "last_agent_disconnect_reason": "connection_close",
+  "protocol_version": 1,
+  "agent_capabilities": {
+    "_meta": {
+      "claudeCode": {
+        "promptQueueing": true
+      }
+    },
+    "promptCapabilities": {
+      "image": true,
+      "embeddedContext": true
+    },
+    "mcpCapabilities": {
+      "http": true,
+      "sse": true
+    },
+    "loadSession": true,
+    "sessionCapabilities": {
+      "fork": {},
+      "list": {},
+      "resume": {},
+      "close": {}
+    }
+  },
+  "title": null,
+  "messages": [],
+  "updated_at": "2026-05-07T16:35:12.444Z",
+  "cumulative_token_usage": {},
+  "request_token_usage": {},
+  "acpx": {
+    "current_model_id": "default",
+    "available_models": [
+      "default",
+      "sonnet[1m]",
+      "opus[1m]",
+      "haiku"
+    ]
+  }
+}
