@@ -1,17 +1,9 @@
 [
   "obsidian-git",
-  "obsidian42-brat",
-  "obsidian-clipper",
   "dataview",
   "obsidian-tasks-plugin",
-  "obsidian-kanban",
   "omnisearch",
   "chinese-calendar",
   "templater-obsidian",
-  "obsidian-linter",
-  "obsidian-local-images-plus",
-  "quickadd",
-  "notebook-navigator",
-  "homepage",
-  "buttons"
+  "homepage"
 ]
