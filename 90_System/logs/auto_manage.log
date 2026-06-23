@@ -11901,3 +11901,54 @@ warning: in the working copy of '.claudian/sessions/conv-1782222386599-bro3cn93e
 Inbox processing complete.
 
 Done!
+warning: in the working copy of '.claudian/sessions/conv-1782222386599-bro3cn93e.meta.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '40_iNEST/44_Projects/é¡¹ç›®æŒ‡å—/æ™ºæ¶Œè„‘_Gen2-Gen5ç¡¬ä»¶æ¼”è¿›è·¯çº¿ä¸Žä»£é™…IPç»§æ‰¿ä½“ç³»_v3.0_é‡æ–°ç”Ÿæˆç‰ˆ.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '50_Output/52_Patents/00_é¡¹ç›®-è®ºæ–‡-ä¸“åˆ©-æŠ€æœ¯å››çº¿æ˜ å°„è¡¨.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'dashboard/data.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'dashboard/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'dashboard/research_intelligence.py', LF will be replaced by CRLF the next time Git touches it
+[main 4f713d587] auto: inbox processing 2026/06/24 å‘¨ä¸‰  0:47:22.47
+ 36 files changed, 1124 insertions(+), 299 deletions(-)
+ rename {00_Inbox => 03_Topics/AI-ML}/2026-06-23_S2_A Novel Approach for Solving the Time-Varying Complex-Valued.md (56%)
+ rename {00_Inbox => 03_Topics/AI-ML}/2026-06-23_S2_Deep Variational Free Energy Calculation of Hydrogen Hugonio.md (73%)
+ rename {00_Inbox => 03_Topics/AI-ML}/2026-06-23_S2_Expected Free Energy-based Planning as Variational Inference.md (74%)
+ rename {00_Inbox => 03_Topics/AI-ML}/2026-06-23_S2_Lightweight Real-Time Vehicle Detection and Recognition of U.md (73%)
+ rename {00_Inbox => 03_Topics/AI-ML}/2026-06-23_S2_Position Solve Layerwise Linear Models First to Understand N.md (70%)
+ rename {00_Inbox => 03_Topics/AI-ML}/2026-06-23_S2_Protein engineering using variational free energy approximat.md (75%)
+ rename {00_Inbox => 03_Topics/AI-ML}/2026-06-23_S2_Self-organized Criticality Identification of Power Systems B.md (74%)
+ rename {00_Inbox => 03_Topics/Chip-Hardware}/2026-06-23_S2_A VLSI Majority-Logic Device Based on Spin Transfer Torque M.md (71%)
+ rename {00_Inbox => 03_Topics/Chip-Hardware}/2026-06-23_S2_AI Enabled Lead-free Halide Perovskite Memristor Crossbars A.md (63%)
+ rename {00_Inbox => 03_Topics/Chip-Hardware}/2026-06-23_S2_Advanced Chiplet Placement and Routing Optimization Consider.md (74%)
+ rename {00_Inbox => 03_Topics/Chip-Hardware}/2026-06-23_S2_An Optimization Algorithm to Build Low Congestion Multi-Ring.md (68%)
+ rename 00_Inbox/2026-06-23_S2_Automated Material Handling Systems System of Systems Archit.md => 03_Topics/Chip-Hardware/2026-06-23_S2_Automated Material Handling Systems System of Systems Archit_1.md (69%)
+ rename 00_Inbox/2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore .md => 03_Topics/Chip-Hardware/2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore _1.md (55%)
+ rename {00_Inbox => 03_Topics/Chip-Hardware}/2026-06-23_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with .md (73%)
+ rename 00_Inbox/2026-06-23_S2_HiMap A hierarchical mapping approach for enhancing lifetime.md => 03_Topics/Chip-Hardware/2026-06-23_S2_HiMap A hierarchical mapping approach for enhancing lifetime_1.md (57%)
+ rename {00_Inbox => 03_Topics/Chip-Hardware}/2026-06-23_S2_Large scale integrated IGZO crossbar memristor array based a.md (56%)
+ rename 00_Inbox/2026-06-23_S2_Learning-Based DRM and Energy Optimization for Manycore Dark.md => 03_Topics/Chip-Hardware/2026-06-23_S2_Learning-Based DRM and Energy Optimization for Manycore Dark_1.md (61%)
+ rename 00_Inbox/2026-06-23_S2_NOCTOPUS Network-on-Chip topology optimization and predictio.md => 03_Topics/Chip-Hardware/2026-06-23_S2_NOCTOPUS Network-on-Chip topology optimization and predictio_1.md (58%)
+ rename {00_Inbox => 03_Topics/Chip-Hardware}/2026-06-23_S2_Networks-on-chip topology optimization subject to power, del.md (57%)
+ rename {00_Inbox => 03_Topics/Chip-Hardware}/2026-06-23_S2_Signal Integrity Design and Analysis of Universal Chiplet In.md (74%)
+ rename {00_Inbox => 03_Topics/Chip-Hardware}/2026-06-23_S2_Signal Integrity Simulation and Analysis for 2.5D Advanced P.md (71%)
+ rename {00_Inbox => 03_Topics/Concepts-Theory}/2026-06-23_S2_Emergence and Causality in Complex Systems A Survey of Causa.md (73%)
+ rename {00_Inbox => 03_Topics/Neuroscience}/2026-06-23_S2_Modeling macroscopic brain dynamics with brain-inspired comp.md (73%)
+ rename {00_Inbox => 03_Topics/Neuroscience}/2026-06-23_S2_Network structure influences self-organized criticality in n.md (71%)
+ rename {00_Inbox => 03_Topics/Neuroscience}/2026-06-23_S2_Neuronal avalanche dynamics regulated by spike-timing-depend.md (54%)
+ rename {00_Inbox => 03_Topics/Neuroscience}/2026-06-23_S2_Neuronal avalanches Sandpiles of self-organized criticality .md (70%)
+ rename {00_Inbox => 03_Topics/Neuroscience}/2026-06-23_S2_Self-Organized Criticality from Protected Mean-Field Dynamic.md (69%)
+ rename {00_Inbox => 03_Topics/Neuroscience}/2026-06-23_S2_Universal critical dynamics in high resolution neuronal aval.md (61%)
+ rename 00_Inbox/2026-06-23_S2_Development of a software simulator for small satellite swar.md => 03_Topics/TCC-SDI/2026-06-23_S2_Development of a software simulator for small satellite swar_1.md (76%)
+ create mode 100644 dashboard/research_intelligence.py
+ create mode 100644 "\351\215\251\350\275\260\347\260\254SDI\351\224\233\345\240\243\350\222\213\346\265\240\350\267\272\347\225\276\346\266\224\345\244\213\346\253\240\346\266\223\345\251\204\351\203\264\347\274\201\347\207\202\347\264\232\351\215\226\346\240\247\346\202\216\351\226\277\356\206\273\347\266\224\351\220\242\343\204\247\346\256\221\351\215\231\356\210\232\356\224\226\351\216\254\321\205\347\266\211\347\274\201\346\273\204\347\200\257\345\257\244\345\223\204\345\274\267ARC-AGI\345\250\264\344\275\267\347\266\213\351\217\205\351\270\277\345\205\230\351\215\251\350\231\271\356\224\205\351\216\272\343\210\242\345\202\250.md"
+[2026/06/24 ÖÜÈý  0:47:22.64] Auto-management complete. 
+======================================== 
+[2026/06/24 ÖÜÈý  2:40:02.27] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 1 inbox notes...
+Inbox:   0%|          | 0/1 [00:00<?, ?it/s]Inbox: 100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 1/1 [00:09<00:00,  9.19s/it]Inbox: 100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 1/1 [00:09<00:00,  9.20s/it]
+  [WARN]  Low quality: 2026-06-23_S2_Defect detection on semiconductor wafer surfaces.md -> TCC-SDI
+
+Inbox processing complete.
+
+Done!
