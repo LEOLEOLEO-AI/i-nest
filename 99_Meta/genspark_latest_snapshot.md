@@ -62,3 +62,9 @@ tags: [genspark, snapshot, project-status]
 
 ---
 *Auto-generated 2026-06-23 11:53*
+
+## 7. Genspark Access
+
+- Gitee: https://gitee.com/iBrainNest/i-nest/blob/main/99_Meta/genspark_latest_snapshot.md
+- Genspark workspace: /workspace/i-nest/99_Meta/genspark_latest_snapshot.md
+- Instruction: 请读取 /workspace/i-nest/99_Meta/genspark_latest_snapshot.md，了解当前项目全景后，用顶级模型分析并回答。
