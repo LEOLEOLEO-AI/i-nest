@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>iNEST 投资演示 | 2026-W26</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0d1117;color:#e6edf3;line-height:1.7}
+.hero{background:linear-gradient(135deg,#0d1117 0%,#161b22 50%,#0d1117 100%);border-bottom:1px solid #30363d;padding:60px 20px;text-align:center}
+.hero h1{font-size:36px;color:#58a6ff;margin-bottom:8px}
+.hero .tagline{font-size:18px;color:#8b949e;max-width:600px;margin:0 auto}
+.container{max-width:1100px;margin:0 auto;padding:20px}
+h2{color:#58a6ff;font-size:22px;border-bottom:1px solid #30363d;padding-bottom:8px;margin:32px 0 16px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;margin-bottom:20px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.metric-box{text-align:center;padding:16px;background:#0d1117;border-radius:6px}
+.metric-box .value{font-size:28px;font-weight:700;color:#3fb950}
+.metric-box .label{font-size:12px;color:#8b949e;margin-top:4px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{padding:10px 12px;text-align:left;border-bottom:1px solid #21262d}
+th{color:#8b949e;font-weight:500}
+.version{color:#58a6ff;font-weight:600}
+.phase-title{color:#3fb950;font-weight:600}
+.roadmap{display:flex;gap:8px;margin:20px 0;flex-wrap:wrap}
+.roadmap-item{flex:1;min-width:120px;padding:12px;background:#0d1117;border-radius:6px;text-align:center;border:1px solid #21262d}
+.roadmap-item.done{border-color:#238636;background:#1a3a1a}
+.roadmap-item.ongoing{border-color:#d2991d;background:#3a2a00}
+.roadmap-item .week{font-size:12px;color:#8b949e}
+.roadmap-item .task{font-size:14px;margin-top:4px;font-weight:600}
+.footer{text-align:center;color:#484f58;font-size:12px;margin-top:40px;padding-bottom:20px}
+</style>
+</head>
+<body>
+<div class="hero">
+<h1>iNEST: 智能神经形态计算范式</h1>
+<p class="tagline">从生物连接组到硅基芯片 — 基于真实数据的 SOC 涌现验证</p>
+</div>
+
+<div class="container">
+
+<h2>🎯 核心指标 (2026-W26)</h2>
+<div class="grid3">
+<div class="metric-box"><div class="value">6</div><div class="label">已完成实验版本 (V26-V31)</div></div>
+<div class="metric-box"><div class="value">6</div><div class="label">真实连接组物种</div></div>
+<div class="metric-box"><div class="value">4.0/5</div><div class="label">综合学术评分 → 目标 4.5</div></div>
+<div class="metric-box"><div class="value">σ=6.98</div><div class="label">C.elegans 小世界指数</div></div>
+<div class="metric-box"><div class="value">2.3x</div><div class="label">SC-FC 结构功能耦合</div></div>
+<div class="metric-box"><div class="value">p=0.008</div><div class="label">神经元类别富集显著性</div></div>
+</div>
+
+<h2>📐 实验进展</h2>
+<table>
+<tr><th>版本</th><th>实验</th><th>数据</th><th>节点数</th><th>核心结果</th><th>状态</th></tr>
+<tr><td class="version">V26</td><td>C.elegans 四指标分析</td><td>Varshney 2011</td><td>279</td><td>σ=6.976, KS p=6.8e-135</td><td class="phase-title">✅ 完成</td></tr>
+<tr><td class="version">V27</td><td>Drosophila Larval FEP-STDP</td><td>Winding 2023</td><td>2,952</td><td>σ=9.444, σ(t)涌现</td><td class="phase-title">✅ 完成</td></tr>
+<tr><td class="version">V28</td><td>跨物种相图 (4物种)</td><td>4 connectomes</td><td>82-2,952</td><td>σ~N^0.398, σ·α CV=0.75</td><td class="phase-title">✅ 完成</td></tr>
+<tr><td class="version">V29</td><td>SDI 工程参数映射</td><td>V26-V28 参数</td><td>-</td><td>WS模型误差 <2%</td><td class="phase-title">✅ 完成</td></tr>
+<tr><td class="version">V30</td><td>规模涌现阈值扫描</td><td>SDI 生成器</td><td>16-1,024</td><td>N≥64 涌现, σ~N^0.479, R²=0.995</td><td class="phase-title">✅ 完成</td></tr>
+<tr><td class="version">V31</td><td>SC-FC 结构功能耦合</td><td>Varshney 2011</td><td>279</td><td>2.3x 类内富集, p=0.008**</td><td class="phase-title">✅ 完成</td></tr>
+<tr><td class="version">V35</td><td>发表级报告包</td><td>V26+V31</td><td>-</td><td>图表+统计+论文草稿</td><td>🔄 本周</td></tr>
+<tr><td class="version">V32</td><td>多阈值Avalanche验证</td><td>C.elegans+Larva</td><td>279+2,952</td><td>τ 跨阈值一致性</td><td>🔄 本周</td></tr>
+</table>
+
+<h2>🗺️ 4周路线图</h2>
+<div class="roadmap">
+<div class="roadmap-item done"><div class="week">W1 (6/23-29)</div><div class="task">✅ V35 报告包</div></div>
+<div class="roadmap-item done"><div class="week">W1 (6/23-29)</div><div class="task">✅ V32 雪崩验证</div></div>
+<div class="roadmap-item ongoing"><div class="week">W2 (6/30-7/6)</div><div class="task">🔄 V33 Hemibrain</div></div>
+<div class="roadmap-item"><div class="week">W3 (7/7-13)</div><div class="task">V34 普适性</div></div>
+<div class="roadmap-item"><div class="week">W4 (7/14-20)</div><div class="task">V36 SDI v2</div></div>
+</div>
+
+<h2>🔬 数据资产</h2>
+<table>
+<tr><th>物种</th><th>来源</th><th>节点数</th><th>边数</th><th>用途</th></tr>
+<tr><td>C.elegans</td><td>Varshney 2011</td><td>279</td><td>1,961</td><td>基准验证 + SC-FC 耦合</td></tr>
+<tr><td>Drosophila Larva</td><td>Winding 2023</td><td>2,952</td><td>~30K</td><td>FEP-STDP + Avalanche</td></tr>
+<tr><td>Drosophila Adult</td><td>Hemibrain v1.2</td><td>21,739</td><td>~3.3M</td><td>大尺度全脑验证 (V33)</td></tr>
+<tr><td>Macaque RM</td><td>RM Cortex</td><td>82</td><td>~500</td><td>跨物种相图</td></tr>
+<tr><td>Mouse Allen</td><td>Allen Institute</td><td>2,992 inj</td><td>-</td><td>哺乳动物对标</td></tr>
+<tr><td>MICrONS Mouse</td><td>MICrONS v8</td><td>~200K</td><td>-</td><td>大规模验证 (待下载)</td></tr>
+</table>
+
+<h2>📊 学术诚实声明</h2>
+<div class="card">
+<p>✅ <strong>100% 真实连接组数据</strong> — 所有声称基于真实生物测量</p>
+<p>✅ <strong>完整统计检验</strong> — KS test / permutation / bootstrap CI</p>
+<p>✅ <strong>ER 随机对照</strong> — 每个实验均有同规模随机网络对照</p>
+<p>✅ <strong>明确局限性声明</strong> — 规模-智能映射仍是未验证假设</p>
+</div>
+
+</div>
+<div class="footer">
+iNEST + TCC 研发看板 | 每周更新 | 基于 2026-06-23 全面诊断 v1.0 | <a href="../index.html" style="color:#58a6ff">← 研发看板</a>
+</div>
+</body>
+</html>
