@@ -1,0 +1,12 @@
+{
+  "version": "v24",
+  "N": 279,
+  "sigma_final": 5.044019073490195,
+  "sigma_peak": 7.7263673817686795,
+  "el_final_pct": 0.35853976531942633,
+  "F_final": 0.010715204882673128,
+  "FEP_converged_pct": 100.0,
+  "glia_events": 0,
+  "scaling_events": 0,
+  "theta_final": 16
+}

@@ -1,0 +1,10 @@
+{
+  "v26": {
+    "status": "completed",
+    "date": "2026-06-19",
+    "sigma": 6.976,
+    "N": 279,
+    "ks_p": 6.802496629449374e-135,
+    "conclusion": "sigma=6.98 (lit:5.6,err:24.6%), p<0.001 vs random, confirms small-world"
+  }
+}
