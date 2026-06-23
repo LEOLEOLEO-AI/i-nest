@@ -4302,3 +4302,28 @@ Done!
 Inbox processing complete.
 
 Done!
+[main d6ece9c] auto: inbox processing 2026/06/23 鍛ㄤ簩  6:40:04.12
+ 1 file changed, 14 insertions(+)
+[2026/06/23 周二  6:40:04.22] Auto-management complete. 
+======================================== 
+[2026/06/23 周二  8:40:02.30] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 12 inbox notes...
+Inbox:   0%|          | 0/12 [00:00<?, ?it/s]Inbox:   8%|▊         | 1/12 [00:10<01:54, 10.44s/it]Inbox:  17%|█▋        | 2/12 [00:21<01:50, 11.06s/it]Inbox:  25%|██▌       | 3/12 [00:28<01:21,  9.04s/it]Inbox:  33%|███▎      | 4/12 [00:35<01:07,  8.40s/it]Inbox:  42%|████▏     | 5/12 [00:46<01:04,  9.18s/it]Inbox:  50%|█████     | 6/12 [00:57<00:58,  9.69s/it]Inbox:  58%|█████▊    | 7/12 [01:17<01:05, 13.09s/it]Inbox:  67%|██████▋   | 8/12 [01:31<00:54, 13.51s/it]Inbox:  75%|███████▌  | 9/12 [01:49<00:44, 14.84s/it]Inbox:  83%|████████▎ | 10/12 [02:03<00:29, 14.59s/it]Inbox:  92%|█████████▏| 11/12 [02:14<00:13, 13.38s/it]Inbox: 100%|██████████| 12/12 [02:14<00:00, 11.18s/it]
+  [OK] 2026-06-23_TCC_arXiv_How Transparent is DiffusionGemma.md -> AI-ML/
+  [OK] 2026-06-23_TCC_arXiv_JanusMesh Fast and Zero-Shot 3D Visual Illusion Generation v.md -> AI-ML/
+  [OK] 2026-06-23_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me.md -> AI-ML/
+  [OK] 2026-06-23_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction.md -> AI-ML/
+  [OK] 2026-06-23_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider.md -> Chip-Hardware/
+  [OK] 2026-06-23_TCC_S2_Architectural Exploration for Waferscale Switching System.md -> Chip-Hardware/
+  [OK] 2026-06-23_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La.md -> Chip-Hardware/
+  [OK] 2026-06-23_TCC_S2_ISPI A 2-Wire Improved Serial Peripheral Interface with Auto.md -> Chip-Hardware/
+  [OK] 2026-06-23_TCC_S2_MEIN A Multicast-Efficient Interconnect Network for Multi-Ch.md -> Chip-Hardware/
+  [OK] 2026-06-23_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi.md -> Chip-Hardware/
+  [OK] 2026-06-23_TCC_S2_Wafer-scale fabrication of memristive passive crossbar circu.md -> Chip-Hardware/
+  Skipping short note: Inbox.md
+
+Inbox processing complete.
+
+Done!
