@@ -8,7 +8,7 @@ aliases: [project-snapshot, genspark-snapshot]
 
 # 📡 TCC + iNEST 项目快照
 
-> 🔄 自动生成于 2026-06-23 10:35 · 供 Genspark 顶级模型读取全局状态
+> 🔄 自动生成于 2026-06-23 12:08 · 供 Genspark 顶级模型读取全局状态
 
 ---
 
@@ -27,11 +27,11 @@ aliases: [project-snapshot, genspark-snapshot]
 
 | 指标 | 数值 |
 |------|------|
-| 论文笔记 | 337 篇 |
+| 论文笔记 | 377 篇 |
 | 专利相关 | 35 份 |
-| 待处理收件箱 | 0 篇 |
-| 总笔记数 | 6016 篇 |
+| 待处理收件箱 | 10 篇 |
+| 总笔记数 | 6068 篇 |
 
 ---
 
-> 📌 快照生成时间: 2026-06-23 10:35 | 如需更新请运行: python scripts/generate_snapshot.py
+> 📌 快照生成时间: 2026-06-23 12:08 | 如需更新请运行: python scripts/generate_snapshot.py
