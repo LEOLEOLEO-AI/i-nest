@@ -341,6 +341,6 @@ Spine交换机瓶颈       →    近线性扩展效率
 
 > **编制**：TCC iNEST Research Group | 2026-06-18  
 > **相关文档**：
-> - [TCC战略规划 v1.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/TCC_5_战略规划/TCC计算范式_从智能算力中心到新一代计算平台的工程落地与生态构建战略规划_v1.0.md)
-> - [TCC Core Concepts](http://127.0.0.1:8899/home/work/.openclaw/workspace/03_Topics/TCC-SDI/TCC_Core_Concepts.md)
-> - [TCC 原语库 v1.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/03_Topics/TCC-SDI/TCC%20原语库%20v1.0%20最终版规范.md)
+> - [TCC战略规划 v1.0](http://127.0.0.1:8900/home/work/.openclaw/workspace/TCC_5_战略规划/TCC计算范式_从智能算力中心到新一代计算平台的工程落地与生态构建战略规划_v1.0.md)
+> - [TCC Core Concepts](http://127.0.0.1:8900/home/work/.openclaw/workspace/03_Topics/TCC-SDI/TCC_Core_Concepts.md)
+> - [TCC 原语库 v1.0](http://127.0.0.1:8900/home/work/.openclaw/workspace/03_Topics/TCC-SDI/TCC%20原语库%20v1.0%20最终版规范.md)

@@ -1,6 +1,6 @@
 ﻿# 专利A ARS管道审查报告
 
-> **审查对象：** [专利A_软件定义互连系统架构及调度方法_完整交底书.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/TCC_3_专利撰写/专利A_软件定义互连系统架构及调度方法_完整交底书.md)  
+> **审查对象：** [专利A_软件定义互连系统架构及调度方法_完整交底书.md](http://127.0.0.1:8900/home/work/.openclaw/workspace/TCC_3_专利撰写/专利A_软件定义互连系统架构及调度方法_完整交底书.md)  
 > **审查标准：** ARS academic-paper-reviewer v1.10.0（7-Agent 管道）  
 > **审查日期：** 2026-06-17  
 > **审查人签名：** ARS Pipeline Agent  

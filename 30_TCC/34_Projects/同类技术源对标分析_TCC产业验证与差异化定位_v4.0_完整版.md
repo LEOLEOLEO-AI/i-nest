@@ -222,5 +222,5 @@ SDSoW国家战略（邬江兴院士）
 > **版本**：v4.0 完整版（新增11篇Get笔记文章分析）
 > 
 > **相关文件**：
-> - [v3.0 同业对标分析](http://127.0.0.1:8899/home/work/.openclaw/workspace/TCC_5_战略规划/同类技术源对标分析_TCC计算范式的产业验证与差异化定位_v3.0.md)
-> - [算力网络架构手记价值映射](http://127.0.0.1:8899/home/work/.openclaw/workspace/TCC_5_战略规划/算力网络架构手记_对TCC计算范式的价值映射分析_v1.0.md)
+> - [v3.0 同业对标分析](http://127.0.0.1:8900/home/work/.openclaw/workspace/TCC_5_战略规划/同类技术源对标分析_TCC计算范式的产业验证与差异化定位_v3.0.md)
+> - [算力网络架构手记价值映射](http://127.0.0.1:8900/home/work/.openclaw/workspace/TCC_5_战略规划/算力网络架构手记_对TCC计算范式的价值映射分析_v1.0.md)
