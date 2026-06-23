@@ -1,13 +1,29 @@
 ---
-title: "Self-Organized Criticality from Protected Mean-Field Dynamics: Loop Stability and Internal Renormalization in Reflective Neural Systems"
-date: 2026-06-23
-source: S2
-track: iNEST
 authors: B. Chae
-year: 2026
-url: https://www.semanticscholar.org/paper/dfc9b51971f44e93ce998d2e3eb9adb7e23641ba
-tags: [from-s2, auto-crawl, inest]
+category: Neuroscience
+date: 2026-06-23
+entities:
+- 自组织临界性
+- 平均场动力学
+processed: '2026-06-24T00:46:38.296535'
+source: S2
+source_file: 2026-06-23_S2_Self-Organized Criticality from Protected Mean-Field Dynamic.md
 status: inbox
+summary: 本文证明反射稳态动力学为神经系统的自组织临界性提供最小机制，环路修正被稳态曲率动态正则化，系统无需外部微调即可趋向临界表面。
+tags:
+- from-s2
+- 场论
+- 重正化
+- inest
+- 平均场理论
+- auto-crawl
+- 神经动力学
+- 自组织临界性
+title: 'Self-Organized Criticality from Protected Mean-Field Dynamics: Loop Stability
+  and Internal Renormalization in Reflective Neural Systems'
+track: iNEST
+url: https://www.semanticscholar.org/paper/dfc9b51971f44e93ce998d2e3eb9adb7e23641ba
+year: 2026
 ---
 
 # Self-Organized Criticality from Protected Mean-Field Dynamics: Loop Stability and Internal Renormalization in Reflective Neural Systems

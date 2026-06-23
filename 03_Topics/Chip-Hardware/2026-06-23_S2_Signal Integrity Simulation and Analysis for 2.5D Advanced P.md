@@ -1,13 +1,33 @@
 ---
-title: "Signal Integrity Simulation and Analysis for 2.5D Advanced Package Interconnect Based on Universal Chiplet Interconnect Express (UCIe)"
-date: 2026-06-23
-source: S2
-track: TCC
 authors: Yuxuan Fan, Hanchen Gan, Yunyan Zhou, Bo Lei, Gang Song
-year: 2024
-url: https://www.semanticscholar.org/paper/6ca0ff83cd72effb3575a945b92969a50d11ff46
-tags: [from-s2, auto-crawl, tcc]
+category: Chip-Hardware
+date: 2026-06-23
+entities:
+- UCIe
+- 2.5D advanced packaging
+- signal integrity
+- voltage transfer function
+- 32Gbps transmission
+processed: '2026-06-24T00:47:12.535153'
+source: S2
+source_file: 2026-06-23_S2_Signal Integrity Simulation and Analysis for 2.5D Advanced
+  P.md
 status: inbox
+summary: 本文基于UCIe协议仿真2.5D封装互连，比较多种结构，实现32Gbps传输并优化设计。
+tags:
+- from-s2
+- 2.5D Packaging
+- UCIe
+- Interconnect
+- auto-crawl
+- tcc
+- Simulation
+- Signal Integrity
+title: Signal Integrity Simulation and Analysis for 2.5D Advanced Package Interconnect
+  Based on Universal Chiplet Interconnect Express (UCIe)
+track: TCC
+url: https://www.semanticscholar.org/paper/6ca0ff83cd72effb3575a945b92969a50d11ff46
+year: 2024
 ---
 
 # Signal Integrity Simulation and Analysis for 2.5D Advanced Package Interconnect Based on Universal Chiplet Interconnect Express (UCIe)

@@ -1,13 +1,30 @@
 ---
-title: "An Optimization Algorithm to Build Low Congestion Multi-Ring Topology for Optical Network-on-Chip"
-date: 2026-06-23
-source: S2
-track: TCC
 authors: Lijing Zhu, Kun Wang, Duan Zhou, Liangkai Liu, Huaxi Gu
-year: 2018
-url: https://www.semanticscholar.org/paper/06a68406e5eaebaf2c7fd6d2f129c0f21926d94a
-tags: [from-s2, auto-crawl, tcc]
+category: Chip-Hardware
+date: 2026-06-23
+entities:
+- Optical Network-on-Chip
+- multi-ring topology
+- network congestion factor
+- circuit-switching
+processed: '2026-06-24T00:41:33.241675'
+source: S2
+source_file: 2026-06-23_S2_An Optimization Algorithm to Build Low Congestion Multi-Ring.md
 status: inbox
+summary: 提出一种无需额外波长或调度开销的低拥塞多环光片上网络拓扑构建算法，并建立拥塞模型进行优化。
+tags:
+- from-s2
+- Optical Network-on-Chip
+- auto-crawl
+- Multi-Ring Topology
+- Optimization Algorithm
+- tcc
+- Congestion Control
+title: An Optimization Algorithm to Build Low Congestion Multi-Ring Topology for Optical
+  Network-on-Chip
+track: TCC
+url: https://www.semanticscholar.org/paper/06a68406e5eaebaf2c7fd6d2f129c0f21926d94a
+year: 2018
 ---
 
 # An Optimization Algorithm to Build Low Congestion Multi-Ring Topology for Optical Network-on-Chip

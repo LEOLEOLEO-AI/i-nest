@@ -1,13 +1,31 @@
 ---
-title: "Position: Solve Layerwise Linear Models First to Understand Neural Dynamical Phenomena (Neural Collapse, Emergence, Lazy/Rich Regime, and Grokking)"
-date: 2026-06-23
-source: S2
-track: iNEST
 authors: Yoonsoo Nam, S. Lee, Clémentine Dominé, Yeachan Park, Charles London
-year: 2025
-url: https://www.semanticscholar.org/paper/e9c58f592f51ab92cd2a5225b89920e5b120360c
-tags: [from-s2, auto-crawl, inest]
+category: AI-ML
+date: 2026-06-23
+entities:
+- layerwise linear models
+- neural dynamical phenomena
+processed: '2026-06-24T00:46:01.230652'
+source: S2
+source_file: 2026-06-23_S2_Position Solve Layerwise Linear Models First to Understand
+  N.md
 status: inbox
+summary: 提出用逐层线性模型简化并解释神经网络中的神经坍缩、涌现、惰性/丰富机制和顿悟等动力学现象。
+tags:
+- from-s2
+- deep learning dynamics
+- emergence
+- layerwise linear models
+- inest
+- auto-crawl
+- lazy/rich regime
+- grokking
+- neural collapse
+title: 'Position: Solve Layerwise Linear Models First to Understand Neural Dynamical
+  Phenomena (Neural Collapse, Emergence, Lazy/Rich Regime, and Grokking)'
+track: iNEST
+url: https://www.semanticscholar.org/paper/e9c58f592f51ab92cd2a5225b89920e5b120360c
+year: 2025
 ---
 
 # Position: Solve Layerwise Linear Models First to Understand Neural Dynamical Phenomena (Neural Collapse, Emergence, Lazy/Rich Regime, and Grokking)

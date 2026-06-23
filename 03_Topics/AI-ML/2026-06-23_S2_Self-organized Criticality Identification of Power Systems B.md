@@ -1,13 +1,33 @@
 ---
-title: "Self-organized Criticality Identification of Power Systems Based on Neural Networks"
-date: 2026-06-23
-source: S2
-track: iNEST
 authors: Weidong Zhong, Jicai Liu, Qianyuan Zhong, Ping Hu, Chengping Hu
-year: 2023
-url: https://www.semanticscholar.org/paper/2c9bb1e21eebcc483bf924adb4e218f480098c02
-tags: [from-s2, auto-crawl, inest]
+category: AI-ML
+date: 2026-06-23
+entities:
+- t-SNE
+- BP神经网络
+- 自组织临界性
+- OPA模型
+- 电力系统
+processed: '2026-06-24T00:46:47.294059'
+source: S2
+source_file: 2026-06-23_S2_Self-organized Criticality Identification of Power Systems
+  B.md
 status: inbox
+summary: 提出t-SNE-BP框架，利用OPA模型和神经网络识别电力系统自组织临界性。
+tags:
+- from-s2
+- t-SNE
+- OPA模型
+- inest
+- 神经网络
+- auto-crawl
+- 电力系统
+- 自组织临界性
+title: Self-organized Criticality Identification of Power Systems Based on Neural
+  Networks
+track: iNEST
+url: https://www.semanticscholar.org/paper/2c9bb1e21eebcc483bf924adb4e218f480098c02
+year: 2023
 ---
 
 # Self-organized Criticality Identification of Power Systems Based on Neural Networks
