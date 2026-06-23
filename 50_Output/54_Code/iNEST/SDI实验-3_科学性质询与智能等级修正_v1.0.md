@@ -207,10 +207,10 @@ SDI实验-3文档需要做出以下修正：
 
 ## 附录B：相关文档
 
-- [SDI实验-3_六级智能跃迁验证体系](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI实验-3_六级智能跃迁验证体系.md)
-- [iNEST智涌脑_v2.0](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0.md)
-- [Gen2-Gen5硬件演进](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/智涌脑_Gen2-Gen5硬件演进路线与代际IP继承体系_v1.0.md)
-- [CST跨物种验证](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/Idea_SDI_Simulator_v22_Strategy.md)
+- [SDI实验-3_六级智能跃迁验证体系](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI实验-3_六级智能跃迁验证体系.md)
+- [iNEST智涌脑_v2.0](http://127.0.0.1:8900/home/work/.openclaw/workspace/40_iNEST/44_Projects/iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0.md)
+- [Gen2-Gen5硬件演进](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/智涌脑_Gen2-Gen5硬件演进路线与代际IP继承体系_v1.0.md)
+- [CST跨物种验证](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/Idea_SDI_Simulator_v22_Strategy.md)
 
 ---
 
