@@ -1,25 +1,26 @@
-﻿{
-    "version":  4,
-    "homepages":  {
-                      "Main Homepage":  {
-                                            "value":  "Home",
-                                            "kind":  "File",
-                                            "openOnStartup":  false,
-                                            "openMode":  "Replace all open notes",
-                                            "manualOpenMode":  "Keep open notes",
-                                            "view":  "Default view",
-                                            "revertView":  true,
-                                            "openWhenEmpty":  false,
-                                            "refreshDataview":  false,
-                                            "autoCreate":  false,
-                                            "autoScroll":  false,
-                                            "pin":  false,
-                                            "commands":  [
-
-                                                         ],
-                                            "alwaysApply":  true,
-                                            "hideReleaseNotes":  false
-                                        }
-                  },
-    "separateMobile":  false
+{
+  "version": 4,
+  "homepages": {
+    "Main Homepage": {
+      "value": "Home",
+      "kind": "File",
+      "openOnStartup": false,
+      "openMode": "Replace all open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Default view",
+      "revertView": true,
+      "openWhenEmpty": false,
+      "refreshDataview": false,
+      "autoCreate": false,
+      "autoScroll": false,
+      "pin": false,
+      "commands": [],
+      "alwaysApply": true,
+      "hideReleaseNotes": false
+    }
+  },
+  "separateMobile": false,
+  "defaultNote": "Home.md",
+  "openOnStartup": true,
+  "alwaysOpen": true
 }
