@@ -1,15 +1,14 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 import os, sys, json, re
 sys.stdout.reconfigure(encoding='utf-8')
 from pathlib import Path
 from datetime import datetime, timedelta
-import urllib.request
+import sys
+sys.path.insert(0, r"D:\Obsidian\scripts")
+from llm_router import llm_call
 
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 OUTPUT_DIR = VAULT / "60_MOC" / "_wiki_llm_v2"
-DS_API_KEY = "sk-73d73dedd19548d19d141a0c37cfd196"
-DS_API_URL = "https://api.deepseek.com/v1/chat/completions"
-DS_MODEL = "deepseek-chat"
 
 def call_llm(system_prompt, user_prompt, max_tokens=800):
     payload = {

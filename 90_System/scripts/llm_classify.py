@@ -1,16 +1,15 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """LLM batch classifier for ambiguous review files."""
 import os, json, time, shutil, re
 from pathlib import Path
-import urllib.request
+import sys
+sys.path.insert(0, r"D:\Obsidian\scripts")
+from llm_router import llm_call
 
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 REVIEW = VAULT / "_archive" / "_needs_review"
 PROGRESS = VAULT / "60_MOC" / "_review_progress.json"
 
-API_KEY = "sk-73d73dedd19548d19d141a0c37cfd196"
-API_URL = "https://api.deepseek.com/v1/chat/completions"
-MODEL = "deepseek-chat"
 
 TARGETS = {
     "TCC": "30_TCC/31_Theory/_llm_classified",

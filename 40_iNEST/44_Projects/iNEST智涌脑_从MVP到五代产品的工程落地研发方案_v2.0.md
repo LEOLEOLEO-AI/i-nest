@@ -608,13 +608,13 @@ Gen1-MVP IP                           继承到
 
 ## 附录B：文档链接
 
-- [iNEST战略规划 v1.0]([[40_iNEST/44_Projects/iNEST计算范式_从涌现科学验证到工程落地战略规划_v1.0.md]])
-- [iNEST四单位分工]([[40_iNEST/44_Projects/iNEST计算范式_四单位体系化分工规划_v1.0.md]])
-- [iNEST技术对标分析]([[40_iNEST/44_Projects/iNEST技术源对标分析_涌现科学的全球差异定位_v1.0.md]])
-- [iNEST MVP产业路径]([[40_iNEST/44_Projects/iNEST计算范式_MVP到产业的五阶段发展路径_v1.0.md]])
-- [LNN→iNEST→FPGA路线图]([[50_Output/54_Code/iNEST/LNN到iNEST到FPGA_持续推进落地路线图.md]])
-- [SDI六级智能跃迁]([[50_Output/54_Code/iNEST/SDI实验-3_六级智能跃迁验证体系.md]])
-- [SDI多脑协作路线图]([[50_Output/54_Code/iNEST/SDI实验-2_V31_多脑协作与群体智能涌现路线图.md]])
-- [SDI化合键工程参数]([[50_Output/54_Code/iNEST/SDI化合键工程参数证明及工程实现方案.md]])
-- [元拓扑数学证明]([[50_Output/54_Code/iNEST/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md]])
-- [iNEST工程总体规划]([[50_Output/54_Code/iNEST/00_iNEST工程开发总体规划_v1.0.md]])
+- [iNEST战略规划 v1.0](http://127.0.0.1:8900/home/work/.openclaw/workspace/40_iNEST/44_Projects/iNEST%E8%AE%A1%E7%AE%97%E8%8C%83%E5%BC%8F_%E4%BB%8E%E6%B6%8C%E7%8E%B0%E7%A7%91%E5%AD%A6%E9%AA%8C%E8%AF%81%E5%88%B0%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E6%88%98%E7%95%A5%E8%A7%84%E5%88%92_v1.0.md)
+- [iNEST四单位分工](http://127.0.0.1:8900/home/work/.openclaw/workspace/40_iNEST/44_Projects/iNEST%E8%AE%A1%E7%AE%97%E8%8C%83%E5%BC%8F_%E5%9B%9B%E5%8D%95%E4%BD%8D%E4%BD%93%E7%B3%BB%E5%8C%96%E5%88%86%E5%B7%A5%E8%A7%84%E5%88%92_v1.0.md)
+- [iNEST技术对标分析](http://127.0.0.1:8900/home/work/.openclaw/workspace/40_iNEST/44_Projects/iNEST%E6%8A%80%E6%9C%AF%E6%BA%90%E5%AF%B9%E6%A0%87%E5%88%86%E6%9E%90_%E6%B6%8C%E7%8E%B0%E7%A7%91%E5%AD%A6%E7%9A%84%E5%85%A8%E7%90%83%E5%B7%AE%E5%BC%82%E5%AE%9A%E4%BD%8D_v1.0.md)
+- [iNEST MVP产业路径](http://127.0.0.1:8900/home/work/.openclaw/workspace/40_iNEST/44_Projects/iNEST%E8%AE%A1%E7%AE%97%E8%8C%83%E5%BC%8F_MVP%E5%88%B0%E4%BA%A7%E4%B8%9A%E7%9A%84%E4%BA%94%E9%98%B6%E6%AE%B5%E5%8F%91%E5%B1%95%E8%B7%AF%E5%BE%84_v1.0.md)
+- [LNN→iNEST→FPGA路线图](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/LNN%E5%88%B0iNEST%E5%88%B0FPGA_%E6%8C%81%E7%BB%AD%E6%8E%A8%E8%BF%9B%E8%90%BD%E5%9C%B0%E8%B7%AF%E7%BA%BF%E5%9B%BE.md)
+- [SDI六级智能跃迁](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI%E5%AE%9E%E9%AA%8C-3_%E5%85%AD%E7%BA%A7%E6%99%BA%E8%83%BD%E8%B7%83%E8%BF%81%E9%AA%8C%E8%AF%81%E4%BD%93%E7%B3%BB.md)
+- [SDI多脑协作路线图](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI%E5%AE%9E%E9%AA%8C-2_V31_%E5%A4%9A%E8%84%91%E5%8D%8F%E4%BD%9C%E4%B8%8E%E7%BE%A4%E4%BD%93%E6%99%BA%E8%83%BD%E6%B6%8C%E7%8E%B0%E8%B7%AF%E7%BA%BF%E5%9B%BE.md)
+- [SDI化合键工程参数](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI%E5%8C%96%E5%90%88%E9%94%AE%E5%B7%A5%E7%A8%8B%E5%8F%82%E6%95%B0%E8%AF%81%E6%98%8E%E5%8F%8A%E5%B7%A5%E7%A8%8B%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88.md)
+- [元拓扑数学证明](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/%E5%85%83%E6%8B%93%E6%89%91%E2%9C%96%EF%B8%8FSDI%E5%8C%96%E5%90%88%E9%94%AE%E7%9A%84%E5%85%AD%E7%A7%8D%E6%9C%80%E4%BC%98%E9%80%9A%E4%BF%A1%E6%8B%93%E6%89%91%E6%95%B0%E5%AD%A6%E8%AF%81%E6%98%8E.md)
+- [iNEST工程总体规划](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/00_iNEST%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%8F%91%E6%80%BB%E4%BD%93%E8%A7%84%E5%88%92_v1.0.md)

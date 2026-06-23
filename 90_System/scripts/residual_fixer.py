@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Residual Fixer: Tag + Link remaining notes
 - Untagged real notes -> LLM-generated tags
@@ -9,17 +9,16 @@ import sys, io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 import re, yaml, json, time
+import sys
+sys.path.insert(0, r"D:\Obsidian\scripts")
+from llm_router import llm_call
 from pathlib import Path
 from collections import defaultdict
-from openai import OpenAI
 
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 EXCLUDE = {".venv",".git",".neural_db",".neural_memory",".obsidian",".trash","node_modules","copilot","__pycache__"}
 SKIP_NAMES = {"AGENTS.md","BOOTSTRAP.md","MEMORY.md","RULES.md","SOUL.md","TOOLS.md","USER.md","conflict-files-obsidian-git.md"}
 
-API_KEY = "sk-ewvmxpqaoqdmzyrizltymazqkbbzhberrgdwhrinpssoauum"
-API_BASE = "https://api.siliconflow.cn/v1"
-MODEL = "deepseek-ai/DeepSeek-V3.2"
 
 def parse_fm(text):
     if not text.startswith("---"): return {}, text
@@ -66,7 +65,7 @@ print(f"  Orphans: {len(orphans)}")
 # ── Step 2: LLM-tag untagged notes ─────────────────────────────
 if untagged:
     print(f"\n[2/3] LLM-tagging {len(untagged)} untagged notes...")
-    client = OpenAI(api_key=API_KEY, base_url=API_BASE, timeout=60)
+    pass  # Using llm_router instead of direct OpenAI client
     fixed_tags = 0
 
     for nd in untagged:
@@ -81,8 +80,8 @@ Note title: {nd["title"]}
 Content: {body_snippet}"""
 
         try:
-            r = client.chat.completions.create(
-                model=MODEL,
+            r_text = llm_call(
+                prompt,
                 messages=[{"role":"user","content":prompt}],
                 max_tokens=100, temperature=0.3, timeout=30
             )
