@@ -1,0 +1,10 @@
+[Unit]
+Description=Run local worker queue dispatcher periodically
+
+[Timer]
+OnBootSec=30
+OnUnitActiveSec=60
+Unit=local-worker-queue.service
+
+[Install]
+WantedBy=timers.target

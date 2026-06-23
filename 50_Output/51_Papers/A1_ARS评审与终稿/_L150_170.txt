@@ -1,0 +1,27 @@
+﻿L149: Level VI ($\delta$ - Feigenbaum constant):* The theoretical onset of chaotic synchronization, bounding the maximal rate of period-doubling bifurcation
+L150: 
+L151: 
+L152: These natural constants serve as a priori analytical predictions of phase transitions.
+L153: 
+L154: 
+L155: Geometric mechanics interpretation.
+L156: A complementary derivation of the exp($\alpha$\cdot$\Gamma_{st}$) coupling term emerges from non-Abelian gauge field theory on the network fiber bundl
+L157: When the gauge group of the network's internal state space is Abelian (U(1), as in binary-digital systems), the gauge field commutator [$A_{\mu}$, $A_
+L158: When promoted to non-Abelian $GL(k, \mathbb{R})$ (k = $M_{\text{eff}}$, as in biological substrates), [$A_{\mu}$, $A_{\nu}$] $\neq$ 0 generates the ex
+L159: This provides a first-principles geometric derivation of equation (1): the six thresholds correspond to the six stable fixed points of the GL(k,$\math
+L160: Zhang (JSAI 2026 Oral) [66] independently arrived at this gauge-theoretic interpretation, identifying the optimal gauge charge q $\approx$ $\gamma_{\t
+L161: In the following section, we use the CST formula to compute empirical data from actual biological and artificial networks to verify whether real-world
+L162: 
+L163: 
+L164: 
+L165: \subsection{Cross-system validation}
+L166: 
+L167: We validated CST on 40 systems: 20 biological neural networks (BNN) spanning 8 taxonomic grades and 20 artificial/neuromorphic systems (ANN/NMH) repre
+L168: The validation follows the strict \textbf{CST Intelligence Emergence Validation and Data Experimental Protocol} (see Supplementary Protocol A1), which
+L169: 
+L170: 
+L171: Clarification on Scaling Laws and ANN Definitions.
+L172: It is essential to delineate that empirical scaling laws accurately describe the optimization of functional performance and task-specific loss functio
+L173: The CST theory does not invalidate these laws in their statistical domain; rather, it demonstrates that functional performance scaling is orthogonal t
+L174: Scaling laws govern offline statistical fitting; CST bounds the thermodynamic capacity for structural-dynamical self-organization.
+L175: Furthermore, when evaluating "ANNs" in this study, we specifically refer to the dominant paradigm of static, offline-trained, largely feedforward arch

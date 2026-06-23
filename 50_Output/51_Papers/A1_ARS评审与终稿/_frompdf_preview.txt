@@ -1,0 +1,82 @@
+L0: [38] From Compute to Complexity: A Physical
+L1: [40] Theory of Intelligence Emergence and Its
+L2: [48] Implications for Artificial General Intelligence
+L3: [14] Qinrang Liu ()
+L4: [46] School of Microelectronics, Tianjin University
+L5: [21] Tianjin 300072, China
+L6: [38] * Correspondence: qinrangliu@gmail.com
+L7: [46] Draft: March 2026 — v25-FINAL — April 25, 2026
+L8: [45] 40-system validated — data provenance audited
+L9: [8] Abstract
+L10: [78] The rapid scaling of large language models has delivered remarkable functional
+L11: [86] capabilities yet produced exponentially growing energy costs with sub-linear returns—a
+L12: [85] thermodynamic trajectory that converges not toward general intelligence but toward an
+L13: [87] unsustainable asymptote. We argue that this trajectory is not an engineering deficiency
+L14: [82] but a consequence of pursuing the wrong variable: compute, rather than complexity.
+L15: [86] Von Neumann identified in 1948 that intelligence requires a complexity threshold; here
+L16: [78] we quantify that threshold through a framework grounded in thermodynamic phase
+L17: [85] transitions, renormalization group theory, and complex network science. The result is
+L18: [51] the Coordination Spatiotemporal Complexity theorem:
+L19: [26] CST = ( Sc·Tc)·exp(α·Γst),
+L20: [89] where structural integration, dynamical richness, and their physical coupling jointly de-
+L21: [86] termine emergent intelligence potential. We derive six universal thresholds at natural
+L22: [14] constants {1/√
+L23: [73] 2,1, φ, e, π, δ }and validate across 40 biological and artificial systems
+L24: [82] spanning 8 taxonomic grades and 18 distinct ANN/NMH architectural families (Spear-
+L25: [75] manρ= 0.976, 100% accuracy under UCCP normalization). Neuromorphic hardware
+L26: [90] (Intel Loihi-2) is separately classified from binary-digital ANN, confirming the α-barrier
+L27: [0] 
+L28: [85] prediction. Intelligence Efficiency ηIreveals an approximately six-order-of-magnitude
+L29: [84] gap between brains and current AI, and a four-generation hardware roadmap identifies
+L30: [75] the physically necessary path from present systems to general intelligence.
+L31: [79] Keywords: intelligence emergence; complexity threshold; von Neumann; spatiotem-
+L32: [86] poral coordination; intelligence efficiency; phase transitions; neuromorphic computing
+L33: [1] 2
+L34: [0] 
+L35: [8] Contents
+L36: [16] 1 Introduction 4
+L37: [11] 2 Results 6
+L38: [85] 2.1 The CST Theorem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+L39: [88] 2.2 Six-Level Intelligence Hierarchy . . . . . . . . . . . . . . . . . . . . . . . . . 7
+L40: [76] 2.2.1 Derivation of Universal Thresholds via Symmetry Breaking . . . . . . 8
+L41: [87] 2.3 Cross-System Validation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+L42: [80] 2.4 The Triple Lock and the Thermodynamic Asymptote . . . . . . . . . . . . . 13
+L43: [15] 3 Discussion 14
+L44: [84] 3.1 IIL vs. TIL: The Two-Layer Intelligence Framework . . . . . . . . . . . . . . 14
+L45: [85] 3.2 The Hardware Roadmap . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+L46: [84] 3.3 Convergence of AI Architecture toward CST . . . . . . . . . . . . . . . . . . 17
+L47: [87] 3.4 Falsifiability and Boundary Conditions . . . . . . . . . . . . . . . . . . . . . 17
+L48: [90] 3.5 Limitations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+L49: [12] 4 Methods 18
+L50: [84] 4.1 Data Provenance and Quality Grading . . . . . . . . . . . . . . . . . . . . . 18
+L51: [82] 4.2 Unified Cross-Species Computation Protocol (UCCP) . . . . . . . . . . . . . 18
+L52: [91] 4.3 Statistical Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+L53: [1] 3
+L54: [0] 
+L55: [14] 1 Introduction
+L56: [52] The sustainability crisis of artificial intelligence
+L57: [89] The trajectory of modern AI development is defined by a single operating principle: scale
+L58: [89] compute, and intelligence will follow. Each generation of frontier LLMs has required sub-
+L59: [94] stantially greater training compute than its predecessor, with scaling law analyses projecting
+L60: [90] continued exponential growth [1]. Inference energy has grown proportionally. Yet empirical
+L61: [89] scaling laws now reveal that capability improvements per unit energy expenditure follow a
+L62: [90] sub-linear curve—each successive generation buys less intelligence per joule invested. The
+L63: [84] global AI industry is approaching a thermodynamic asymptote—one enforced not by CMOS
+L64: [93] fabrication technology per se, but by the binary digital logic paradigm: the current paradigm
+L65: [89] can produce ever more capable functional systems, but the energy cost required to sustain
+L66: [87] them grows without bound while the gap between these systems and genuine general intel-
+L67: [23] ligence does not close.
+L68: [82] This is not merely a resource problem. It is a symptom of pursuing the wrong quan-
+L69: [83] tity. The dominant paradigm equates intelligence with compute—more parameters, more
+L70: [81] data, more hardware—and measures progress by benchmark performance. But benchmark
+L71: [87] performance and intelligence emergence are orthogonal dimensions. GPT-class models sur-
+L72: [83] pass most humans on standardized tests in law, medicine, and coding. Yet as we show
+L73: [84] below, GPT-2—a representative large-scale open-weight language model—scores approxi-
+L74: [90] mately 30-fold lower than the human brain on the metric of emergent intelligence potential
+L75: [88] (CST = 0 .056 vs. 3 .909), and even below Caenorhabditis elegans , a 279-neuron nematode
+L76: [91] (CST = 0 .357 under correct graded-potential physics). This is not a contradiction. It is a
+L77: [51] revelation: we have been measuring the wrong thing.
+L78: [55] The von Neumann threshold and the complexity imperative
+L79: [85] The foundations for a different view were laid before modern AI existed. Von Neumann,
+
+...total: 616 lines

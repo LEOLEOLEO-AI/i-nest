@@ -1,0 +1,1159 @@
+---
+title: 重构报告：Inbox 与成果二轮整理
+tags:
+- brain
+- chip
+- chiplet
+- complex-networks
+- criticality
+- deep-learning
+- dynamics
+- embodied-ai
+- emergence
+- free-energy-principle
+---
+生成时间：2026-05-02 22:41:46
+
+## 已执行动作
+
+- 迁移 `00_Inbox\Clippings\Drawing 2026-04-29 18.33.40.excalidraw.md` -> `00_Inbox\02_网页剪藏\Drawing 2026-04-29 18.33.40.excalidraw.md`
+- 迁移 `00_Inbox\Clippings\Obsidian笔记整理的最高心法：拒绝盲目照搬，构建个性化知识体系.md` -> `00_Inbox\02_网页剪藏\Obsidian笔记整理的最高心法：拒绝盲目照搬，构建个性化知识体系.md`
+- 迁移 `00_Inbox\Clippings\“你好，大脑”科普展引言：致敬这个时代的跨学科创新者.md` -> `00_Inbox\02_网页剪藏\“你好，大脑”科普展引言：致敬这个时代的跨学科创新者.md`
+- 迁移 `00_Inbox\Clippings\从“备胎”到训练推理“正式分家”：谷歌TPU的十一年.md` -> `00_Inbox\02_网页剪藏\从“备胎”到训练推理“正式分家”：谷歌TPU的十一年.md`
+- 迁移 `00_Inbox\Clippings\海马时空编码的统一框架：单个循环网络同时涌现位置细胞与时间细胞.md` -> `00_Inbox\02_网页剪藏\海马时空编码的统一框架：单个循环网络同时涌现位置细胞与时间细胞.md`
+- 迁移 `00_Inbox\Clippings\物理人工智能 (Physical AI) 深度研究报告.md` -> `00_Inbox\02_网页剪藏\物理人工智能 (Physical AI) 深度研究报告.md`
+- 迁移 `00_Inbox\Clippings\自主系统实验演示与自我认知探讨.md` -> `00_Inbox\02_网页剪藏\自主系统实验演示与自我认知探讨.md`
+- 迁移 `00_Inbox\Clippings\集合通信处理器（CCU）技术解读.md` -> `00_Inbox\02_网页剪藏\集合通信处理器（CCU）技术解读.md`
+- 迁移 `00_Inbox\Clippings\集智科学节海报内容汇总.md` -> `00_Inbox\02_网页剪藏\集智科学节海报内容汇总.md`
+- 迁移 `00_Inbox\根目录历史导入\## 近期事项.md` -> `00_Inbox\05_历史遗留\## 近期事项.md`
+- 迁移 `00_Inbox\根目录历史导入\Obsidian从压缩包中打开仓库指令与方法.md` -> `00_Inbox\05_历史遗留\Obsidian从压缩包中打开仓库指令与方法.md`
+- 迁移 `00_Inbox\根目录历史导入\前苹果 - 高通 - Nuvia 芯片大神组队创业！定义全新CPU，改写硅芯片规则.md` -> `00_Inbox\05_历史遗留\前苹果 - 高通 - Nuvia 芯片大神组队创业！定义全新CPU，改写硅芯片规则.md`
+- 迁移 `00_Inbox\根目录历史导入\前馈处理是骗局！大脑用时空轨迹编码视觉，AI 学错了几十年.md` -> `00_Inbox\05_历史遗留\前馈处理是骗局！大脑用时空轨迹编码视觉，AI 学错了几十年.md`
+- 迁移 `00_Inbox\根目录历史导入\卷积神经网络之父、图灵奖得主杨立昆：为什么说他改变了AI的走向？.md` -> `00_Inbox\05_历史遗留\卷积神经网络之父、图灵奖得主杨立昆：为什么说他改变了AI的走向？.md`
+- 迁移 `00_Inbox\根目录历史导入\数学的上帝粒子！一个运算符能导出所有基本函数.md` -> `00_Inbox\05_历史遗留\数学的上帝粒子！一个运算符能导出所有基本函数.md`
+- 迁移 `00_Inbox\文献与碎片\Get\Get 导入区.md` -> `00_Inbox\01_导入资料\Get\Get 导入区.md`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20250101` -> `00_Inbox\01_导入资料\DownloadImports\20250101`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20250615` -> `00_Inbox\01_导入资料\DownloadImports\20250615`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20250626` -> `00_Inbox\01_导入资料\DownloadImports\20250626`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20250713` -> `00_Inbox\01_导入资料\DownloadImports\20250713`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20250723` -> `00_Inbox\01_导入资料\DownloadImports\20250723`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20250805` -> `00_Inbox\01_导入资料\DownloadImports\20250805`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20250823` -> `00_Inbox\01_导入资料\DownloadImports\20250823`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20250908` -> `00_Inbox\01_导入资料\DownloadImports\20250908`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20250924` -> `00_Inbox\01_导入资料\DownloadImports\20250924`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20250926` -> `00_Inbox\01_导入资料\DownloadImports\20250926`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20251010` -> `00_Inbox\01_导入资料\DownloadImports\20251010`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\20251020` -> `00_Inbox\01_导入资料\DownloadImports\20251020`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\IMPORT_REPORT.md` -> `00_Inbox\01_导入资料\DownloadImports\IMPORT_REPORT.md`
+- 迁移 `00_Inbox\文献与碎片\DownloadImports\_test_20260403` -> `00_Inbox\01_导入资料\DownloadImports\_test_20260403`
+- 迁移 `00_Inbox\文献与碎片\(Nat. Commun. 综述) 基于忆阻器的人工神经网络硬件实现 (第二期).md` -> `00_Inbox\03_研究资料\(Nat. Commun. 综述) 基于忆阻器的人工神经网络硬件实现 (第二期).md`
+- 迁移 `00_Inbox\文献与碎片\(南加州大学，Nat. Electron.) 紧凑三元件人工神经元实现 多种 类脑脉冲发放.md` -> `00_Inbox\03_研究资料\(南加州大学，Nat. Electron.) 紧凑三元件人工神经元实现 多种 类脑脉冲发放.md`
+- 迁移 `00_Inbox\文献与碎片\01_复杂系统：复杂科学在研究什么？_-_得到APP.md` -> `00_Inbox\03_研究资料\01_复杂系统：复杂科学在研究什么？_-_得到APP.md`
+- 迁移 `00_Inbox\文献与碎片\02_复杂性：什么样的系统是复杂系统？_-_得到APP.md` -> `00_Inbox\03_研究资料\02_复杂性：什么样的系统是复杂系统？_-_得到APP.md`
+- 迁移 `00_Inbox\文献与碎片\03_涌现：整体的能力不能还原回个体？_-_得到APP.md` -> `00_Inbox\03_研究资料\03_涌现：整体的能力不能还原回个体？_-_得到APP.md`
+- 迁移 `00_Inbox\文献与碎片\04_混沌与非线性：规则已知，却不可预测？_-_得到APP.md` -> `00_Inbox\03_研究资料\04_混沌与非线性：规则已知，却不可预测？_-_得到APP.md`
+- 迁移 `00_Inbox\文献与碎片\0529多模态网络技术赋能智能网联汽车应用研究报告（第一版）.pdf.md` -> `00_Inbox\03_研究资料\0529多模态网络技术赋能智能网联汽车应用研究报告（第一版）.pdf.md`
+- 迁移 `00_Inbox\文献与碎片\05_连接模式：什么样的系统更脆弱？_-_得到APP.md` -> `00_Inbox\03_研究资料\05_连接模式：什么样的系统更脆弱？_-_得到APP.md`
+- 迁移 `00_Inbox\文献与碎片\0617多模态网络技术赋能智能网联汽车应用研究报告（第一版）.docx.md` -> `00_Inbox\03_研究资料\0617多模态网络技术赋能智能网联汽车应用研究报告（第一版）.docx.md`
+- 迁移 `00_Inbox\文献与碎片\06_因果倒置：个体是怎样被整体操控的？_-_得到APP.md` -> `00_Inbox\03_研究资料\06_因果倒置：个体是怎样被整体操控的？_-_得到APP.md`
+- 迁移 `00_Inbox\文献与碎片\07_标度对称性：尺度任意缩放，特征保持不变？_-_得到APP.md` -> `00_Inbox\03_研究资料\07_标度对称性：尺度任意缩放，特征保持不变？_-_得到APP.md`
+- 迁移 `00_Inbox\文献与碎片\10_克莱伯定律：摄入能量维持生命的准则_-_得到APP.md` -> `00_Inbox\03_研究资料\10_克莱伯定律：摄入能量维持生命的准则_-_得到APP.md`
+- 迁移 `00_Inbox\文献与碎片\10万级_H100_集群：能源、网络拓扑、以太网与_InfiniBand、可靠性、故障、检查点.md` -> `00_Inbox\03_研究资料\10万级_H100_集群：能源、网络拓扑、以太网与_InfiniBand、可靠性、故障、检查点.md`
+- 迁移 `00_Inbox\文献与碎片\16_介观峰值定理对晶上大脑的工程指导.md` -> `00_Inbox\03_研究资料\16_介观峰值定理对晶上大脑的工程指导.md`
+- 迁移 `00_Inbox\文献与碎片\2019年晶圆在建项目汇总.md` -> `00_Inbox\04_会议战略\2019年晶圆在建项目汇总.md`
+- 迁移 `00_Inbox\文献与碎片\20201003郑州会议.md` -> `00_Inbox\04_会议战略\20201003郑州会议.md`
+- 迁移 `00_Inbox\文献与碎片\2020年中国新基建工业互联网产业链深度分析.md` -> `00_Inbox\04_会议战略\2020年中国新基建工业互联网产业链深度分析.md`
+- 迁移 `00_Inbox\文献与碎片\2021年中国人工智能产业发展趋势.md` -> `00_Inbox\04_会议战略\2021年中国人工智能产业发展趋势.md`
+- 迁移 `00_Inbox\文献与碎片\2024年诺奖解读：统计物理、人工智能与复杂科学.md` -> `00_Inbox\04_会议战略\2024年诺奖解读：统计物理、人工智能与复杂科学.md`
+- 迁移 `00_Inbox\文献与碎片\2025_Nature最新综述：Neuromorphic_computing_at_scale.md` -> `00_Inbox\04_会议战略\2025_Nature最新综述：Neuromorphic_computing_at_scale.md`
+- 迁移 `00_Inbox\文献与碎片\2026年Nature子刊重磅_二维材料同质集成光电神经元与铁电突触实现神经形态视觉系统.md` -> `00_Inbox\03_研究资料\2026年Nature子刊重磅_二维材料同质集成光电神经元与铁电突触实现神经形态视觉系统.md`
+- 迁移 `00_Inbox\文献与碎片\2026新年巨献__追问大模型智能.md` -> `00_Inbox\04_会议战略\2026新年巨献__追问大模型智能.md`
+- 迁移 `00_Inbox\文献与碎片\21世纪创新追问丨科技部副部长李萌：人工智能会否陷入_起-落_循环？.md` -> `00_Inbox\04_会议战略\21世纪创新追问丨科技部副部长李萌：人工智能会否陷入_起-落_循环？.md`
+- 迁移 `00_Inbox\文献与碎片\300″ 将世界压缩入模型：自动驾驶大战决赛缩圈，谁能吃下万亿具身智能蛋糕？.md` -> `00_Inbox\03_研究资料\300″ 将世界压缩入模型：自动驾驶大战决赛缩圈，谁能吃下万亿具身智能蛋糕？.md`
+- 迁移 `00_Inbox\文献与碎片\3_Tech-Trends_brought_about_by_Chiplet.md` -> `00_Inbox\03_研究资料\3_Tech-Trends_brought_about_by_Chiplet.md`
+- 迁移 `00_Inbox\文献与碎片\3DIC_EDA之一___基于Chiplet集成的计算架构.md` -> `00_Inbox\03_研究资料\3DIC_EDA之一___基于Chiplet集成的计算架构.md`
+- 迁移 `00_Inbox\文献与碎片\3DIC验证设计创新：Chiplet大规模互连LVS_DRC工具一站式签核！.md` -> `00_Inbox\04_会议战略\3DIC验证设计创新：Chiplet大规模互连LVS_DRC工具一站式签核！.md`
+- 迁移 `00_Inbox\文献与碎片\3D图解神经网络.md` -> `00_Inbox\04_会议战略\3D图解神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\400篇综述文献_认知神经科学到自主智能体的记忆系统统一综述.md` -> `00_Inbox\04_会议战略\400篇综述文献_认知神经科学到自主智能体的记忆系统统一综述.md`
+- 迁移 `00_Inbox\文献与碎片\6万_辛顿2025年度全景实录深读_真正的智能与硅基智能的非对称演进.md` -> `00_Inbox\03_研究资料\6万_辛顿2025年度全景实录深读_真正的智能与硅基智能的非对称演进.md`
+- 迁移 `00_Inbox\文献与碎片\7nm制程，黑芝麻智能发布武当系列首款芯片，让单SoC「小材大用」.md` -> `00_Inbox\04_会议战略\7nm制程，黑芝麻智能发布武当系列首款芯片，让单SoC「小材大用」.md`
+- 迁移 `00_Inbox\文献与碎片\7月30_曼彻斯特NC：单一器件+首次实现理论预测的全部四类忆阻器.md` -> `00_Inbox\03_研究资料\7月30_曼彻斯特NC：单一器件+首次实现理论预测的全部四类忆阻器.md`
+- 迁移 `00_Inbox\文献与碎片\82岁江泽民在2008年发表论文指出：发展智能化，机器学习将有所作为…….md` -> `00_Inbox\03_研究资料\82岁江泽民在2008年发表论文指出：发展智能化，机器学习将有所作为…….md`
+- 迁移 `00_Inbox\文献与碎片\9位院士12位专家联合撰文：智能计算的新进展、挑战与未来___Science合作期刊.md` -> `00_Inbox\04_会议战略\9位院士12位专家联合撰文：智能计算的新进展、挑战与未来___Science合作期刊.md`
+- 迁移 `00_Inbox\文献与碎片\[AIR综述]—物理信息神经网络（PINN）求解偏微分方程.md` -> `00_Inbox\03_研究资料\[AIR综述]—物理信息神经网络（PINN）求解偏微分方程.md`
+- 迁移 `00_Inbox\文献与碎片\[Nature Commun] 模拟芯片告别“调参地狱”！自适应E I可塑性让硬件自动“愈合”，鲁棒工作记忆实测达成.md` -> `00_Inbox\04_会议战略\[Nature Commun] 模拟芯片告别“调参地狱”！自适应E I可塑性让硬件自动“愈合”，鲁棒工作记忆实测达成.md`
+- 迁移 `00_Inbox\文献与碎片\[Nature大子刊] 3D集成技术如何打破神经形态计算的“互连墙”？.md` -> `00_Inbox\03_研究资料\[Nature大子刊] 3D集成技术如何打破神经形态计算的“互连墙”？.md`
+- 迁移 `00_Inbox\文献与碎片\[Nature子刊] 储备池计算不再是“黑盒”！Intel与加州伯克利联手打造“原则性”神经形态架构.md` -> `00_Inbox\03_研究资料\[Nature子刊] 储备池计算不再是“黑盒”！Intel与加州伯克利联手打造“原则性”神经形态架构.md`
+- 迁移 `00_Inbox\文献与碎片\[Nature子刊] 北大杨玉超团队实现二维材料“全同质”集成，同一块晶圆实现视觉处理全流程.md` -> `00_Inbox\03_研究资料\[Nature子刊] 北大杨玉超团队实现二维材料“全同质”集成，同一块晶圆实现视觉处理全流程.md`
+- 迁移 `00_Inbox\文献与碎片\[Nature子刊]南开团队可重构类脑器件！把浮栅“劈开”一半存权重、一半做激活？.md` -> `00_Inbox\03_研究资料\[Nature子刊]南开团队可重构类脑器件！把浮栅“劈开”一半存权重、一半做激活？.md`
+- 迁移 `00_Inbox\文献与碎片\_Nature_Communications_告别_人工调参__华中科技大学提出具身智能奖励函数自动发现框架_破解稀疏奖.md` -> `00_Inbox\03_研究资料\_Nature_Communications_告别_人工调参__华中科技大学提出具身智能奖励函数自动发现框架_破解稀疏奖.md`
+- 迁移 `00_Inbox\文献与碎片\_Nature_Communications_机器人也能_长记性__基于三阶忆阻器的人工感觉神经系统_实现仿生习惯化与敏.md` -> `00_Inbox\03_研究资料\_Nature_Communications_机器人也能_长记性__基于三阶忆阻器的人工感觉神经系统_实现仿生习惯化与敏.md`
+- 迁移 `00_Inbox\文献与碎片\_Nature大子刊__中科院院士发文_算力暴涨100万倍_忆阻器_变废为宝_利用噪声搞定量子化学.md` -> `00_Inbox\03_研究资料\_Nature大子刊__中科院院士发文_算力暴涨100万倍_忆阻器_变废为宝_利用噪声搞定量子化学.md`
+- 迁移 `00_Inbox\文献与碎片\_Nature大子刊__北大团队打破模拟计算精度限制_用3-bit忆阻器实现32-bit数字级精度_矩阵求逆快1000倍.md` -> `00_Inbox\03_研究资料\_Nature大子刊__北大团队打破模拟计算精度限制_用3-bit忆阻器实现32-bit数字级精度_矩阵求逆快1000倍.md`
+- 迁移 `00_Inbox\文献与碎片\_Nature大子刊_脑机接口重大突破_清华吴华强团队打造_忆阻器神经形态解码器__意念控制无人机.md` -> `00_Inbox\03_研究资料\_Nature大子刊_脑机接口重大突破_清华吴华强团队打造_忆阻器神经形态解码器__意念控制无人机.md`
+- 迁移 `00_Inbox\文献与碎片\_Nature子刊__北大杨玉超团队实现二维材料_全同质_集成_同一块晶圆实现视觉处理全流程.md` -> `00_Inbox\03_研究资料\_Nature子刊__北大杨玉超团队实现二维材料_全同质_集成_同一块晶圆实现视觉处理全流程.md`
+- 迁移 `00_Inbox\文献与碎片\_Nature子刊__告别GPU暴力计算_神经形态芯片硬解FEM方程_科学计算迎来_脉冲时刻_.md` -> `00_Inbox\04_会议战略\_Nature子刊__告别GPU暴力计算_神经形态芯片硬解FEM方程_科学计算迎来_脉冲时刻_.md`
+- 迁移 `00_Inbox\文献与碎片\_Nature综述__神经形态计算的_AlexNet时刻_到了吗_全球顶尖学者联合发布万字路线图_剑指_亿级_类脑互联.md` -> `00_Inbox\03_研究资料\_Nature综述__神经形态计算的_AlexNet时刻_到了吗_全球顶尖学者联合发布万字路线图_剑指_亿级_类脑互联.md`
+- 迁移 `00_Inbox\文献与碎片\_Science子刊_浙大团队实现重构神经元_SNN精度直逼ANN.md` -> `00_Inbox\03_研究资料\_Science子刊_浙大团队实现重构神经元_SNN精度直逼ANN.md`
+- 迁移 `00_Inbox\文献与碎片\_加州大学洛杉矶_Science正刊_合作的神经基础_生物与人工智能系统的共同计算原则.md` -> `00_Inbox\03_研究资料\_加州大学洛杉矶_Science正刊_合作的神经基础_生物与人工智能系统的共同计算原则.md`
+- 迁移 `00_Inbox\文献与碎片\_感存算芯片前沿_InfoMat_2026_北京大学杨玉超团队_一种用于物理实现非线性计算的双铁电栅极可调忆阻器.md` -> `00_Inbox\03_研究资料\_感存算芯片前沿_InfoMat_2026_北京大学杨玉超团队_一种用于物理实现非线性计算的双铁电栅极可调忆阻器.md`
+- 迁移 `00_Inbox\文献与碎片\_港中文_北大张敏_Nat__Commun__本征柔性多模态可重构晶体管_面向多态电路与类脑器件的新平台.md` -> `00_Inbox\03_研究资料\_港中文_北大张敏_Nat__Commun__本征柔性多模态可重构晶体管_面向多态电路与类脑器件的新平台.md`
+- 迁移 `00_Inbox\文献与碎片\_物理学评论__从神经网络中推断高阶交互关系.md` -> `00_Inbox\03_研究资料\_物理学评论__从神经网络中推断高阶交互关系.md`
+- 迁移 `00_Inbox\文献与碎片\_麻省大学夏强飞_Nat__Electron__基于忆阻器的细胞神经网络_实现高速像素内计算的新突破.md` -> `00_Inbox\03_研究资料\_麻省大学夏强飞_Nat__Electron__基于忆阻器的细胞神经网络_实现高速像素内计算的新突破.md`
+- 迁移 `00_Inbox\文献与碎片\_黄铁军教授：人类能够制造出“超级大脑”吗？我们从模拟一只眼睛开始.md` -> `00_Inbox\04_会议战略\_黄铁军教授：人类能够制造出“超级大脑”吗？我们从模拟一只眼睛开始.md`
+- 迁移 `00_Inbox\文献与碎片\A_Low-Latency_Communication_Design_for_Brain_Simulations（20220531-Du）.pdf.md` -> `00_Inbox\03_研究资料\A_Low-Latency_Communication_Design_for_Brain_Simulations（20220531-Du）.pdf.md`
+- 迁移 `00_Inbox\文献与碎片\A_Paradigm_Shift_in_Neuromorphic_Engineering__Meta-Topology_.md` -> `00_Inbox\03_研究资料\A_Paradigm_Shift_in_Neuromorphic_Engineering__Meta-Topology_.md`
+- 迁移 `00_Inbox\文献与碎片\A_Unified_Theory_of_Intelligence_Emergence_from_Spatiotemporal_Network_Complexity.md` -> `00_Inbox\03_研究资料\A_Unified_Theory_of_Intelligence_Emergence_from_Spatiotemporal_Network_Complexity.md`
+- 迁移 `00_Inbox\文献与碎片\Advanced_Materials_具有可配置突触可塑性的离子弹性体突触.md` -> `00_Inbox\03_研究资料\Advanced_Materials_具有可配置突触可塑性的离子弹性体突触.md`
+- 迁移 `00_Inbox\文献与碎片\Advanced_Materials_基于机械发光材料的全光突触.md` -> `00_Inbox\03_研究资料\Advanced_Materials_基于机械发光材料的全光突触.md`
+- 迁移 `00_Inbox\文献与碎片\Advanced_Materials_基于集成神经形态架构的片上边缘学习硬件实现.md` -> `00_Inbox\03_研究资料\Advanced_Materials_基于集成神经形态架构的片上边缘学习硬件实现.md`
+- 迁移 `00_Inbox\文献与碎片\Advancing_Neuromorphic_Frontiers__A_Framework_for_High-Dimen.md` -> `00_Inbox\03_研究资料\Advancing_Neuromorphic_Frontiers__A_Framework_for_High-Dimen.md`
+- 迁移 `00_Inbox\文献与碎片\Advancing_Neuromorphic_Frontiers__A_Framework_for_High-Dimensional,_Dynamically.md` -> `00_Inbox\03_研究资料\Advancing_Neuromorphic_Frontiers__A_Framework_for_High-Dimensional,_Dynamically.md`
+- 迁移 `00_Inbox\文献与碎片\AGI时代算力基础架构解决方案 深度分析 2024.md` -> `00_Inbox\03_研究资料\AGI时代算力基础架构解决方案 深度分析 2024.md`
+- 迁移 `00_Inbox\文献与碎片\AGI通用智能发展的思考：是否存在足够通用的处理器？.md` -> `00_Inbox\04_会议战略\AGI通用智能发展的思考：是否存在足够通用的处理器？.md`
+- 迁移 `00_Inbox\文献与碎片\AGI面临的挑战 脑机制自底向顶梳理 下部 5万字.md` -> `00_Inbox\04_会议战略\AGI面临的挑战 脑机制自底向顶梳理 下部 5万字.md`
+- 迁移 `00_Inbox\文献与碎片\AI4PDE_综述_论文推荐_08_物理信息神经网络在偏微分方程问题中的应用_全面综述.md` -> `00_Inbox\03_研究资料\AI4PDE_综述_论文推荐_08_物理信息神经网络在偏微分方程问题中的应用_全面综述.md`
+- 迁移 `00_Inbox\文献与碎片\AI4PDEs_综述_论文推荐_12_物理信息神经网络在求解复杂偏微分方程及其工程应用中的研究进展_系统性综述.md` -> `00_Inbox\03_研究资料\AI4PDEs_综述_论文推荐_12_物理信息神经网络在求解复杂偏微分方程及其工程应用中的研究进展_系统性综述.md`
+- 迁移 `00_Inbox\文献与碎片\AI_网络卷出新高度，晶圆级网络交换机走向台前！.md` -> `00_Inbox\03_研究资料\AI_网络卷出新高度，晶圆级网络交换机走向台前！.md`
+- 迁移 `00_Inbox\文献与碎片\AIGC及大模型中的互联架构及技术.md` -> `00_Inbox\03_研究资料\AIGC及大模型中的互联架构及技术.md`
+- 迁移 `00_Inbox\文献与碎片\AI人工智能_卷积神经网络（CNN）_w3cschool.md` -> `00_Inbox\03_研究资料\AI人工智能_卷积神经网络（CNN）_w3cschool.md`
+- 迁移 `00_Inbox\文献与碎片\AI已迷失方向？强化学习教父Sutton最新发布OaK架构，挑战当前AI范式，提出超级智能新构想.md` -> `00_Inbox\04_会议战略\AI已迷失方向？强化学习教父Sutton最新发布OaK架构，挑战当前AI范式，提出超级智能新构想.md`
+- 迁移 `00_Inbox\文献与碎片\AI智算中心网络互联：节点内外方案大揭秘.md` -> `00_Inbox\03_研究资料\AI智算中心网络互联：节点内外方案大揭秘.md`
+- 迁移 `00_Inbox\文献与碎片\AI服务器主流互联技术汇总！.md` -> `00_Inbox\03_研究资料\AI服务器主流互联技术汇总！.md`
+- 迁移 `00_Inbox\文献与碎片\AI梦境与意识涌现.md` -> `00_Inbox\04_会议战略\AI梦境与意识涌现.md`
+- 迁移 `00_Inbox\文献与碎片\AMD_Instinct™_MI300系列模块化芯粒封装.md` -> `00_Inbox\03_研究资料\AMD_Instinct™_MI300系列模块化芯粒封装.md`
+- 迁移 `00_Inbox\文献与碎片\AMD最大的芯片：13个Chiplet，1460亿晶体管.md` -> `00_Inbox\04_会议战略\AMD最大的芯片：13个Chiplet，1460亿晶体管.md`
+- 迁移 `00_Inbox\文献与碎片\Anthropic用“AI显微镜”扒开Claude“大脑结构”，揭示语言模型行为背后机制.md` -> `00_Inbox\03_研究资料\Anthropic用“AI显微镜”扒开Claude“大脑结构”，揭示语言模型行为背后机制.md`
+- 迁移 `00_Inbox\文献与碎片\Arm发布芯粒系统架构首个公开规范，加速芯片技术演进.md` -> `00_Inbox\04_会议战略\Arm发布芯粒系统架构首个公开规范，加速芯片技术演进.md`
+- 迁移 `00_Inbox\文献与碎片\AutoGPT_star量破10万，这是首篇系统介绍自主智能体的文章.md` -> `00_Inbox\03_研究资料\AutoGPT_star量破10万，这是首篇系统介绍自主智能体的文章.md`
+- 迁移 `00_Inbox\文献与碎片\BAAI：第一原理的脑和认知科学的人工智能，6大角度 (2).md` -> `00_Inbox\03_研究资料\BAAI：第一原理的脑和认知科学的人工智能，6大角度 (2).md`
+- 迁移 `00_Inbox\文献与碎片\BAAI：第一原理的脑和认知科学的人工智能，6大角度.md` -> `00_Inbox\03_研究资料\BAAI：第一原理的脑和认知科学的人工智能，6大角度.md`
+- 迁移 `00_Inbox\文献与碎片\Brain2与SNNGrow的关系_研究类脑智能涌现需要用什么工具_如何开发异步电路实现SNN_.md` -> `00_Inbox\04_会议战略\Brain2与SNNGrow的关系_研究类脑智能涌现需要用什么工具_如何开发异步电路实现SNN_.md`
+- 迁移 `00_Inbox\文献与碎片\Cadence_汪晓煜：数智赋能，汽车电子走向智能系统设计时代.md` -> `00_Inbox\04_会议战略\Cadence_汪晓煜：数智赋能，汽车电子走向智能系统设计时代.md`
+- 迁移 `00_Inbox\文献与碎片\Cadence：UCIe_与先进_Chiplets_架构.md` -> `00_Inbox\03_研究资料\Cadence：UCIe_与先进_Chiplets_架构.md`
+- 迁移 `00_Inbox\文献与碎片\CCF芯片大会Chiplet论坛：什么芯片适合芯粒等七个问题解读.md` -> `00_Inbox\04_会议战略\CCF芯片大会Chiplet论坛：什么芯片适合芯粒等七个问题解读.md`
+- 迁移 `00_Inbox\文献与碎片\Cell Reports 大脑如何用“死”结构算“活”账？神经递质调控揭示人类智力与热力学的新奥秘.md` -> `00_Inbox\03_研究资料\Cell Reports 大脑如何用“死”结构算“活”账？神经递质调控揭示人类智力与热力学的新奥秘.md`
+- 迁移 `00_Inbox\文献与碎片\Cerebras全球最大芯片WSE升级二代：一颗芯片等于一张晶圆.md` -> `00_Inbox\04_会议战略\Cerebras全球最大芯片WSE升级二代：一颗芯片等于一张晶圆.md`
+- 迁移 `00_Inbox\文献与碎片\ChemNet_基于化学键合原理的晶上自演化网络框架.md` -> `00_Inbox\03_研究资料\ChemNet_基于化学键合原理的晶上自演化网络框架.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet 设计和异构集成封装--3D IC 集成.md` -> `00_Inbox\03_研究资料\Chiplet 设计和异构集成封装--3D IC 集成.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet_CEA-Leti、英特尔、AMD，芯片粒（chiplet）重塑微处理器的三个典型例子.md` -> `00_Inbox\04_会议战略\Chiplet_CEA-Leti、英特尔、AMD，芯片粒（chiplet）重塑微处理器的三个典型例子.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet_Summit_资料分享：展望10年后的GPU和HBM.md` -> `00_Inbox\04_会议战略\Chiplet_Summit_资料分享：展望10年后的GPU和HBM.md`
+- 迁移 `00_Inbox\文献与碎片\CHIPLET_云可以大幅降低_LLMS_的成本.md` -> `00_Inbox\03_研究资料\CHIPLET_云可以大幅降低_LLMS_的成本.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplets-芯片互连物理接口.md` -> `00_Inbox\04_会议战略\Chiplets-芯片互连物理接口.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplets_中的UCIe_创新.md` -> `00_Inbox\04_会议战略\Chiplets_中的UCIe_创新.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplets设计和异构集成-领先半导体公司的实例.md` -> `00_Inbox\04_会议战略\Chiplets设计和异构集成-领先半导体公司的实例.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet与异构集成技术研究 (2).md` -> `00_Inbox\04_会议战略\Chiplet与异构集成技术研究 (2).md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet与异构集成技术研究.md` -> `00_Inbox\04_会议战略\Chiplet与异构集成技术研究.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet互连协议思考.md` -> `00_Inbox\04_会议战略\Chiplet互连协议思考.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet产业生态走向繁荣，接口IP是关键要素.md` -> `00_Inbox\04_会议战略\Chiplet产业生态走向繁荣，接口IP是关键要素.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet先进封装10年10倍成长逻辑.md` -> `00_Inbox\04_会议战略\Chiplet先进封装10年10倍成长逻辑.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet先进封装全球格局.md` -> `00_Inbox\04_会议战略\Chiplet先进封装全球格局.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet全球标准来了！它对中国半导体产业有何影响？芯原戴伟民专业点评.md` -> `00_Inbox\03_研究资料\Chiplet全球标准来了！它对中国半导体产业有何影响？芯原戴伟民专业点评.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet对大陆半导体的战略意义.md` -> `00_Inbox\04_会议战略\Chiplet对大陆半导体的战略意义.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet成为半导体的下一个竞争高地.md` -> `00_Inbox\04_会议战略\Chiplet成为半导体的下一个竞争高地.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet技术仍处于发展阶段.md` -> `00_Inbox\03_研究资料\Chiplet技术仍处于发展阶段.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet技术分析展望.md` -> `00_Inbox\04_会议战略\Chiplet技术分析展望.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet技术带来的新“四化”.md` -> `00_Inbox\04_会议战略\Chiplet技术带来的新“四化”.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet技术新突破，降低芯片设计门槛.md` -> `00_Inbox\04_会议战略\Chiplet技术新突破，降低芯片设计门槛.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet时代来临，Die-to-Die接口成新挑战.md` -> `00_Inbox\04_会议战略\Chiplet时代来临，Die-to-Die接口成新挑战.md`
+- 迁移 `00_Inbox\文献与碎片\chiplet是一个多维的世界_-_知乎.md` -> `00_Inbox\04_会议战略\chiplet是一个多维的世界_-_知乎.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet最强科普.md` -> `00_Inbox\04_会议战略\Chiplet最强科普.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet生逢其时，中国半导体企业如何借此破局？.md` -> `00_Inbox\03_研究资料\Chiplet生逢其时，中国半导体企业如何借此破局？.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet电话会议纪要.md` -> `00_Inbox\04_会议战略\Chiplet电话会议纪要.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet的互连架构与实施技术.md` -> `00_Inbox\03_研究资料\Chiplet的互连架构与实施技术.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet的未来.md` -> `00_Inbox\04_会议战略\Chiplet的未来.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet的机遇与挑战.md` -> `00_Inbox\04_会议战略\Chiplet的机遇与挑战.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet的首要任务是驾驭互联的复杂性.md` -> `00_Inbox\04_会议战略\Chiplet的首要任务是驾驭互联的复杂性.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet研讨会。.md` -> `00_Inbox\03_研究资料\Chiplet研讨会。.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet究竟能否解决我国卡脖子难题？.md` -> `00_Inbox\04_会议战略\Chiplet究竟能否解决我国卡脖子难题？.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet行业在2031年有望达到471.9亿美元，Chiplet_D2D解决方案介绍.md` -> `00_Inbox\04_会议战略\Chiplet行业在2031年有望达到471.9亿美元，Chiplet_D2D解决方案介绍.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet（芯粒）互联：从一团乱麻（BoW）到统一互联标准（UCIe）.md` -> `00_Inbox\04_会议战略\Chiplet（芯粒）互联：从一团乱麻（BoW）到统一互联标准（UCIe）.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet，中国标准.md` -> `00_Inbox\04_会议战略\Chiplet，中国标准.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet，拯救汽车芯片.md` -> `00_Inbox\03_研究资料\Chiplet，拯救汽车芯片.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet，能否成为中国半导体产业的突破口之一？.md` -> `00_Inbox\04_会议战略\Chiplet，能否成为中国半导体产业的突破口之一？.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet，解决车规芯片既要、又要、还要难题的唯一解？___智车星球.md` -> `00_Inbox\04_会议战略\Chiplet，解决车规芯片既要、又要、还要难题的唯一解？___智车星球.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet，迈出重要一步！.md` -> `00_Inbox\04_会议战略\Chiplet，迈出重要一步！.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet，还需等等！.md` -> `00_Inbox\04_会议战略\Chiplet，还需等等！.md`
+- 迁移 `00_Inbox\文献与碎片\Chiplet：将彻底颠覆这一行业.md` -> `00_Inbox\04_会议战略\Chiplet：将彻底颠覆这一行业.md`
+- 迁移 `00_Inbox\文献与碎片\CMOS兼容忆阻器电化学生物传感器换能器_2025_.md` -> `00_Inbox\03_研究资料\CMOS兼容忆阻器电化学生物传感器换能器_2025_.md`
+- 迁移 `00_Inbox\文献与碎片\Coze、Dify、FastGPT：哪款智能体平台最强？深度对比分析！.md` -> `00_Inbox\03_研究资料\Coze、Dify、FastGPT：哪款智能体平台最强？深度对比分析！.md`
+- 迁移 `00_Inbox\文献与碎片\CPU，_GPU，FPGA，_SoC，_谁更适合智能座舱？.md` -> `00_Inbox\03_研究资料\CPU，_GPU，FPGA，_SoC，_谁更适合智能座舱？.md`
+- 迁移 `00_Inbox\文献与碎片\CST_集合通信理论映射.md` -> `00_Inbox\03_研究资料\CST_集合通信理论映射.md`
+- 迁移 `00_Inbox\文献与碎片\CST的计算方法.md` -> `00_Inbox\03_研究资料\CST的计算方法.md`
+- 迁移 `00_Inbox\文献与碎片\DARPA人工智能与自主系统（AI&Autonomy）项目（34个）深度研究报告上册.md` -> `00_Inbox\04_会议战略\DARPA人工智能与自主系统（AI&Autonomy）项目（34个）深度研究报告上册.md`
+- 迁移 `00_Inbox\文献与碎片\DeepMind_CEO哈萨比斯_：自然界不是混沌的，它是被演化压缩的数学结构！.md` -> `00_Inbox\03_研究资料\DeepMind_CEO哈萨比斯_：自然界不是混沌的，它是被演化压缩的数学结构！.md`
+- 迁移 `00_Inbox\文献与碎片\DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发.md` -> `00_Inbox\04_会议战略\DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发.md`
+- 迁移 `00_Inbox\文献与碎片\DeepMind发布的新智能体，正在颠覆科研.md` -> `00_Inbox\03_研究资料\DeepMind发布的新智能体，正在颠覆科研.md`
+- 迁移 `00_Inbox\文献与碎片\Domain-specific互联网络.md` -> `00_Inbox\03_研究资料\Domain-specific互联网络.md`
+- 迁移 `00_Inbox\文献与碎片\EDTM 2025报告合集：内存计算+神经网络，突破传统局限.md` -> `00_Inbox\04_会议战略\EDTM 2025报告合集：内存计算+神经网络，突破传统局限.md`
+- 迁移 `00_Inbox\文献与碎片\EDTM_2025报告合集：内存计算+神经网络，突破传统局限.md` -> `00_Inbox\04_会议战略\EDTM_2025报告合集：内存计算+神经网络，突破传统局限.md`
+- 迁移 `00_Inbox\文献与碎片\FINN：FPGA AI 推理新范式 —— 定制化、高性能、量化神经网络编译器框架.md` -> `00_Inbox\03_研究资料\FINN：FPGA AI 推理新范式 —— 定制化、高性能、量化神经网络编译器框架.md`
+- 迁移 `00_Inbox\文献与碎片\FOPLP和CoPoS：SpaceX和TSMC将先进封装从晶圆引向面板.md` -> `00_Inbox\04_会议战略\FOPLP和CoPoS：SpaceX和TSMC将先进封装从晶圆引向面板.md`
+- 迁移 `00_Inbox\文献与碎片\Git克隆失败速查手册.md` -> `00_Inbox\03_研究资料\Git克隆失败速查手册.md`
+- 迁移 `00_Inbox\文献与碎片\Git清除密码指南.md` -> `00_Inbox\03_研究资料\Git清除密码指南.md`
+- 迁移 `00_Inbox\文献与碎片\GNN-Transformer新突破！全局与局部的完美融合.md` -> `00_Inbox\03_研究资料\GNN-Transformer新突破！全局与局部的完美融合.md`
+- 迁移 `00_Inbox\文献与碎片\GNN图神经网络_非结构化数据分析利器_.md` -> `00_Inbox\03_研究资料\GNN图神经网络_非结构化数据分析利器_.md`
+- 迁移 `00_Inbox\文献与碎片\GNN联合transformer最新突破！！！.md` -> `00_Inbox\03_研究资料\GNN联合transformer最新突破！！！.md`
+- 迁移 `00_Inbox\文献与碎片\Google_DeepMind_联合创始人_首席_AGI_科学家_如何构建一个让_AGI_有助于人类繁荣发展的世界_.md` -> `00_Inbox\04_会议战略\Google_DeepMind_联合创始人_首席_AGI_科学家_如何构建一个让_AGI_有助于人类繁荣发展的世界_.md`
+- 迁移 `00_Inbox\文献与碎片\Google_TPU的3D拓扑设计.md` -> `00_Inbox\03_研究资料\Google_TPU的3D拓扑设计.md`
+- 迁移 `00_Inbox\文献与碎片\GPU万卡训练集群互联关键技术.md` -> `00_Inbox\03_研究资料\GPU万卡训练集群互联关键技术.md`
+- 迁移 `00_Inbox\文献与碎片\Graphlet_Decomposition_using_Random-Walk_Memristors_将器件缺陷转化为.md` -> `00_Inbox\04_会议战略\Graphlet_Decomposition_using_Random-Walk_Memristors_将器件缺陷转化为.md`
+- 迁移 `00_Inbox\文献与碎片\Hala Point：英特尔打造全球最大“类脑”计算系统 (2).md` -> `00_Inbox\03_研究资料\Hala Point：英特尔打造全球最大“类脑”计算系统 (2).md`
+- 迁移 `00_Inbox\文献与碎片\Hala Point：英特尔打造全球最大“类脑”计算系统 (3).md` -> `00_Inbox\03_研究资料\Hala Point：英特尔打造全球最大“类脑”计算系统 (3).md`
+- 迁移 `00_Inbox\文献与碎片\Hala Point：英特尔打造全球最大“类脑”计算系统.md` -> `00_Inbox\03_研究资料\Hala Point：英特尔打造全球最大“类脑”计算系统.md`
+- 迁移 `00_Inbox\文献与碎片\Hala_Point：英特尔打造全球最大“类脑”计算系统.md` -> `00_Inbox\03_研究资料\Hala_Point：英特尔打造全球最大“类脑”计算系统.md`
+- 迁移 `00_Inbox\文献与碎片\Hinton和LeCun再交锋，激辩LLM能否引发智能奇点！LeCun：人类理解能力碾压GPT-4.md` -> `00_Inbox\03_研究资料\Hinton和LeCun再交锋，激辩LLM能否引发智能奇点！LeCun：人类理解能力碾压GPT-4.md`
+- 迁移 `00_Inbox\文献与碎片\HiPi联盟！多芯片集成，业界呼唤Chiplet设计工具！.md` -> `00_Inbox\04_会议战略\HiPi联盟！多芯片集成，业界呼唤Chiplet设计工具！.md`
+- 迁移 `00_Inbox\文献与碎片\HotChip2024-Day2 AI加速器互联和云AI处理器, Tesla是亮点 (2).md` -> `00_Inbox\03_研究资料\HotChip2024-Day2 AI加速器互联和云AI处理器, Tesla是亮点 (2).md`
+- 迁移 `00_Inbox\文献与碎片\HotChip2024-Day2 AI加速器互联和云AI处理器, Tesla是亮点.md` -> `00_Inbox\03_研究资料\HotChip2024-Day2 AI加速器互联和云AI处理器, Tesla是亮点.md`
+- 迁移 `00_Inbox\文献与碎片\HotChip2024-Day2__AI加速器互联和云AI处理器,_Tesla是亮点.md` -> `00_Inbox\03_研究资料\HotChip2024-Day2__AI加速器互联和云AI处理器,_Tesla是亮点.md`
+- 迁移 `00_Inbox\文献与碎片\HotChip2024后记__谈谈加速器互联及ScaleUP为什么不能用RDMA.md` -> `00_Inbox\04_会议战略\HotChip2024后记__谈谈加速器互联及ScaleUP为什么不能用RDMA.md`
+- 迁移 `00_Inbox\文献与碎片\Hotchips_2024：特斯拉DoJo的互联技术.md` -> `00_Inbox\03_研究资料\Hotchips_2024：特斯拉DoJo的互联技术.md`
+- 迁移 `00_Inbox\文献与碎片\IBM公司Nature_Nanotechnology：混合可塑性+忆阻晶体管+求解序列学习_组合优化.md` -> `00_Inbox\03_研究资料\IBM公司Nature_Nanotechnology：混合可塑性+忆阻晶体管+求解序列学习_组合优化.md`
+- 迁移 `00_Inbox\文献与碎片\iNEST三大平台定位与命名.md` -> `00_Inbox\04_会议战略\iNEST三大平台定位与命名.md`
+- 迁移 `00_Inbox\文献与碎片\iNEST开发流程.md` -> `00_Inbox\03_研究资料\iNEST开发流程.md`
+- 迁移 `00_Inbox\文献与碎片\iNEST理论实证.md` -> `00_Inbox\03_研究资料\iNEST理论实证.md`
+- 迁移 `00_Inbox\文献与碎片\iNEST研究路线及方案.md` -> `00_Inbox\03_研究资料\iNEST研究路线及方案.md`
+- 迁移 `00_Inbox\文献与碎片\iNEST配图.md` -> `00_Inbox\03_研究资料\iNEST配图.md`
+- 迁移 `00_Inbox\文献与碎片\Jim_Keller最新采访：谈RISC-V、Chiplet和AI.md` -> `00_Inbox\04_会议战略\Jim_Keller最新采访：谈RISC-V、Chiplet和AI.md`
+- 迁移 `00_Inbox\文献与碎片\KAN_1.0到2.0：构建全新神经网络结构，开创AI+Science大统一新范式.md` -> `00_Inbox\03_研究资料\KAN_1.0到2.0：构建全新神经网络结构，开创AI+Science大统一新范式.md`
+- 迁移 `00_Inbox\文献与碎片\Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 NSR.md` -> `00_Inbox\04_会议战略\Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化 NSR.md`
+- 迁移 `00_Inbox\文献与碎片\Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化___NSR.md` -> `00_Inbox\03_研究资料\Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化___NSR.md`
+- 迁移 `00_Inbox\文献与碎片\light-华中科技大学董建绩教授团队在规模化光学神经网络领域取得重大突破！.md` -> `00_Inbox\03_研究资料\light-华中科技大学董建绩教授团队在规模化光学神经网络领域取得重大突破！.md`
+- 迁移 `00_Inbox\文献与碎片\Loss_才是涌现的关键，而非模型参数.md` -> `00_Inbox\03_研究资料\Loss_才是涌现的关键，而非模型参数.md`
+- 迁移 `00_Inbox\文献与碎片\Marvell：通信网络互联芯片领先厂商.md` -> `00_Inbox\03_研究资料\Marvell：通信网络互联芯片领先厂商.md`
+- 迁移 `00_Inbox\文献与碎片\MetaNet 多组学网络分析（四）：拓扑性质读懂网络结构，拓扑指标与关键节点识别.md` -> `00_Inbox\03_研究资料\MetaNet 多组学网络分析（四）：拓扑性质读懂网络结构，拓扑指标与关键节点识别.md`
+- 迁移 `00_Inbox\文献与碎片\Milinkovic_B_(2024)：复杂神经系统涌现动力学结构.md` -> `00_Inbox\03_研究资料\Milinkovic_B_(2024)：复杂神经系统涌现动力学结构.md`
+- 迁移 `00_Inbox\文献与碎片\MIT 异构Chiplet集成构建下一代计算的 超级芯片.md` -> `00_Inbox\04_会议战略\MIT 异构Chiplet集成构建下一代计算的 超级芯片.md`
+- 迁移 `00_Inbox\文献与碎片\NaaS_完整报告.md` -> `00_Inbox\03_研究资料\NaaS_完整报告.md`
+- 迁移 `00_Inbox\文献与碎片\NaaS定价与服务体系.md` -> `00_Inbox\04_会议战略\NaaS定价与服务体系.md`
+- 迁移 `00_Inbox\文献与碎片\Nano_Energy综述：基于忆阻器的仿生器件.md` -> `00_Inbox\04_会议战略\Nano_Energy综述：基于忆阻器的仿生器件.md`
+- 迁移 `00_Inbox\文献与碎片\Nano_Letters___可在兴奋与抑制模式下工作的电子可重构忆阻神经元.md` -> `00_Inbox\03_研究资料\Nano_Letters___可在兴奋与抑制模式下工作的电子可重构忆阻神经元.md`
+- 迁移 `00_Inbox\文献与碎片\Nat Commun 通用、高效、自动化的脉冲神经网络在线学习系统 [含代码].md` -> `00_Inbox\03_研究资料\Nat Commun 通用、高效、自动化的脉冲神经网络在线学习系统 [含代码].md`
+- 迁移 `00_Inbox\文献与碎片\Nat Hum Behav 用「全拓扑网络」重塑视皮层地图.md` -> `00_Inbox\03_研究资料\Nat Hum Behav 用「全拓扑网络」重塑视皮层地图.md`
+- 迁移 `00_Inbox\文献与碎片\Nat. Commun. 速递 网络属性决定神经网络性能.md` -> `00_Inbox\03_研究资料\Nat. Commun. 速递 网络属性决定神经网络性能.md`
+- 迁移 `00_Inbox\文献与碎片\Nat._Com.：可穿戴神经形态系统.md` -> `00_Inbox\03_研究资料\Nat._Com.：可穿戴神经形态系统.md`
+- 迁移 `00_Inbox\文献与碎片\Nat._Commun.速递：网络属性决定神经网络模型性能.md` -> `00_Inbox\04_会议战略\Nat._Commun.速递：网络属性决定神经网络模型性能.md`
+- 迁移 `00_Inbox\文献与碎片\Nat_Commun_大脑与深度神经网络的通用_表征重构_与神经空间适应性_几何拉伸_.md` -> `00_Inbox\03_研究资料\Nat_Commun_大脑与深度神经网络的通用_表征重构_与神经空间适应性_几何拉伸_.md`
+- 迁移 `00_Inbox\文献与碎片\Nat_Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元.md` -> `00_Inbox\03_研究资料\Nat_Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元.md`
+- 迁移 `00_Inbox\文献与碎片\Nat_Comm：人脑拓扑结构的_“人生转折点”：0-90_岁大脑网络的非线性格局.md` -> `00_Inbox\03_研究资料\Nat_Comm：人脑拓扑结构的_“人生转折点”：0-90_岁大脑网络的非线性格局.md`
+- 迁移 `00_Inbox\文献与碎片\Nat_Methods___中科院生物物理所发布TransBrain_实现人-鼠跨物种全脑互译.md` -> `00_Inbox\03_研究资料\Nat_Methods___中科院生物物理所发布TransBrain_实现人-鼠跨物种全脑互译.md`
+- 迁移 `00_Inbox\文献与碎片\Nat_Neurosci_为什么我们的大脑能高效决策_真正的大脑分区_比你想的聪明得多_.md` -> `00_Inbox\03_研究资料\Nat_Neurosci_为什么我们的大脑能高效决策_真正的大脑分区_比你想的聪明得多_.md`
+- 迁移 `00_Inbox\文献与碎片\Nature Communications：突破全局同步瓶颈，构建可扩展神经形态计算新架构.md` -> `00_Inbox\03_研究资料\Nature Communications：突破全局同步瓶颈，构建可扩展神经形态计算新架构.md`
+- 迁移 `00_Inbox\文献与碎片\Nature Electronics：单脉冲编码忆阻器硬件，能效提升38倍！.md` -> `00_Inbox\03_研究资料\Nature Electronics：单脉冲编码忆阻器硬件，能效提升38倍！.md`
+- 迁移 `00_Inbox\文献与碎片\Nature 子刊！ 多突触放电神经元：让脉冲网络同时理解“强度”与“时间”.md` -> `00_Inbox\03_研究资料\Nature 子刊！ 多突触放电神经元：让脉冲网络同时理解“强度”与“时间”.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_2025综述深度解析_神经形态计算的规模化革命与_AlexNet时刻_前瞻.md` -> `00_Inbox\03_研究资料\Nature_2025综述深度解析_神经形态计算的规模化革命与_AlexNet时刻_前瞻.md`
+- 迁移 `00_Inbox\文献与碎片\Nature___苏黎世联邦理工塑造一种从球体到神经网络新模态——_脑类器官形态动力学的跨尺度解码与动态成像突破！.md` -> `00_Inbox\03_研究资料\Nature___苏黎世联邦理工塑造一种从球体到神经网络新模态——_脑类器官形态动力学的跨尺度解码与动态成像突破！.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Cities：从复杂网络到智慧城市的经验教训.md` -> `00_Inbox\04_会议战略\Nature_Cities：从复杂网络到智慧城市的经验教训.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Communications___一个用于同时编码时空动力学的多突触尖峰神经元.md` -> `00_Inbox\03_研究资料\Nature_Communications___一个用于同时编码时空动力学的多突触尖峰神经元.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Communications___人脑启发的脉冲神经网络实现双倍鲁棒性，能耗降低80%.md` -> `00_Inbox\03_研究资料\Nature_Communications___人脑启发的脉冲神经网络实现双倍鲁棒性，能耗降低80%.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Communications___如何用连接组拓扑解释皮层动态的复杂频率梯度_.md` -> `00_Inbox\03_研究资料\Nature_Communications___如何用连接组拓扑解释皮层动态的复杂频率梯度_.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Communications___重磅揭秘_大脑皮层动力学的_时空密码___几何结构与网络拓扑的博弈.md` -> `00_Inbox\03_研究资料\Nature_Communications___重磅揭秘_大脑皮层动力学的_时空密码___几何结构与网络拓扑的博弈.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Communications__人类大脑功能的高阶连接组学揭示任务解码、个体识别与行为的局部拓扑特征.md` -> `00_Inbox\04_会议战略\Nature_Communications__人类大脑功能的高阶连接组学揭示任务解码、个体识别与行为的局部拓扑特征.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Communications_生物神经网络中突触多样性如何让人工神经网络更强大？.md` -> `00_Inbox\04_会议战略\Nature_Communications_生物神经网络中突触多样性如何让人工神经网络更强大？.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成.md` -> `00_Inbox\03_研究资料\Nature_Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI.md` -> `00_Inbox\03_研究资料\Nature_Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Communications：突破全局同步瓶颈，构建可扩展神经形态计算新架构.md` -> `00_Inbox\03_研究资料\Nature_Communications：突破全局同步瓶颈，构建可扩展神经形态计算新架构.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Computational_Science___用AI发现高维复杂网络的动力学公式.md` -> `00_Inbox\03_研究资料\Nature_Computational_Science___用AI发现高维复杂网络的动力学公式.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Electronics___科学家揭示忆阻器动力学在高能效类脑计算中的应用潜力_.md` -> `00_Inbox\03_研究资料\Nature_Electronics___科学家揭示忆阻器动力学在高能效类脑计算中的应用潜力_.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Electronics_单脉冲编码忆阻器硬件_能效提升38倍_.md` -> `00_Inbox\03_研究资料\Nature_Electronics_单脉冲编码忆阻器硬件_能效提升38倍_.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Electronics_基于忆阻器异质集成架构的傅里叶变换系统.md` -> `00_Inbox\04_会议战略\Nature_Electronics_基于忆阻器异质集成架构的傅里叶变换系统.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Electronics_忆阻器_视网膜_芯片问世_.md` -> `00_Inbox\03_研究资料\Nature_Electronics_忆阻器_视网膜_芯片问世_.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Electronics：一忆阻器、一晶体管、一电阻构建功能全面的脉冲人工神经元.md` -> `00_Inbox\03_研究资料\Nature_Electronics：一忆阻器、一晶体管、一电阻构建功能全面的脉冲人工神经元.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Machine_Intelligence___卷积网络天生与大脑视觉皮层对齐？约翰霍普金斯大学研究颠覆AI视觉认知.md` -> `00_Inbox\03_研究资料\Nature_Machine_Intelligence___卷积网络天生与大脑视觉皮层对齐？约翰霍普金斯大学研究颠覆AI视觉认知.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_methods，南方科技大学，通过人工神经网络构建孪生脑来推断脑网络因果关系.md` -> `00_Inbox\03_研究资料\Nature_methods，南方科技大学，通过人工神经网络构建孪生脑来推断脑网络因果关系.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_Neuroscience___神经流形：解码大脑与行为的低维密码.md` -> `00_Inbox\03_研究资料\Nature_Neuroscience___神经流形：解码大脑与行为的低维密码.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_NPJ人工智能发表_AI物理推理进入新阶段_一个能_自我纠错_的多智能体系统.md` -> `00_Inbox\03_研究资料\Nature_NPJ人工智能发表_AI物理推理进入新阶段_一个能_自我纠错_的多智能体系统.md`
+- 迁移 `00_Inbox\文献与碎片\Nature_长文综述：类脑智能与脉冲神经网络前沿.md` -> `00_Inbox\04_会议战略\Nature_长文综述：类脑智能与脉冲神经网络前沿.md`
+- 迁移 `00_Inbox\文献与碎片\Nature—大脑活动本质原理研究突破：对于大脑神经活动的理解，几何向量模型优于连接组模型吗？.md` -> `00_Inbox\03_研究资料\Nature—大脑活动本质原理研究突破：对于大脑神经活动的理解，几何向量模型优于连接组模型吗？.md`
+- 迁移 `00_Inbox\文献与碎片\Nature—神经形态芯片颠覆性突破！科学家发明兼具神经元与突触行为的单晶体管，AI芯片即将迎来新时代？.md` -> `00_Inbox\03_研究资料\Nature—神经形态芯片颠覆性突破！科学家发明兼具神经元与突触行为的单晶体管，AI芯片即将迎来新时代？.md`
+- 迁移 `00_Inbox\文献与碎片\Nature子刊突破_多突触脉冲神经元_MSF_实现时空动态统一编码.md` -> `00_Inbox\03_研究资料\Nature子刊突破_多突触脉冲神经元_MSF_实现时空动态统一编码.md`
+- 迁移 `00_Inbox\文献与碎片\Nature子刊进展：结合神经科学和计算机科学构建通用类脑计算.md` -> `00_Inbox\03_研究资料\Nature子刊进展：结合神经科学和计算机科学构建通用类脑计算.md`
+- 迁移 `00_Inbox\文献与碎片\Nature子刊：神经形态计算更进一步，科学家实现人工模拟神经元和突触.md` -> `00_Inbox\04_会议战略\Nature子刊：神经形态计算更进一步，科学家实现人工模拟神经元和突触.md`
+- 迁移 `00_Inbox\文献与碎片\Nature物理评论：复杂网络重整化综述.md` -> `00_Inbox\03_研究资料\Nature物理评论：复杂网络重整化综述.md`
+- 迁移 `00_Inbox\文献与碎片\Nature综述 大规模类脑计算的机遇与挑战.md` -> `00_Inbox\03_研究资料\Nature综述 大规模类脑计算的机遇与挑战.md`
+- 迁移 `00_Inbox\文献与碎片\Nature综述___大规模类脑计算的机遇与挑战.md` -> `00_Inbox\03_研究资料\Nature综述___大规模类脑计算的机遇与挑战.md`
+- 迁移 `00_Inbox\文献与碎片\Nature综述_大规模神经形态计算.md` -> `00_Inbox\03_研究资料\Nature综述_大规模神经形态计算.md`
+- 迁移 `00_Inbox\文献与碎片\Nature综述_大规模神经形态计算的发展路线图.md` -> `00_Inbox\04_会议战略\Nature综述_大规模神经形态计算的发展路线图.md`
+- 迁移 `00_Inbox\文献与碎片\Nature综述_打破算力瓶颈_物理神经网络训练或将重塑AI未来.md` -> `00_Inbox\03_研究资料\Nature综述_打破算力瓶颈_物理神经网络训练或将重塑AI未来.md`
+- 迁移 `00_Inbox\文献与碎片\Nature论文解读_不断发展的忆阻器产业_2025_.md` -> `00_Inbox\03_研究资料\Nature论文解读_不断发展的忆阻器产业_2025_.md`
+- 迁移 `00_Inbox\文献与碎片\Nature重磅___揭秘大脑中的共享神经子空间与几何缩放.md` -> `00_Inbox\03_研究资料\Nature重磅___揭秘大脑中的共享神经子空间与几何缩放.md`
+- 迁移 `00_Inbox\文献与碎片\Nature重磅_DNA神经网络登场！突破以往只能依赖计算机模拟的局限，让分子体系实现自主学习！.md` -> `00_Inbox\04_会议战略\Nature重磅_DNA神经网络登场！突破以往只能依赖计算机模拟的局限，让分子体系实现自主学习！.md`
+- 迁移 `00_Inbox\文献与碎片\Nature重磅_物理神经网络训练革命突破_.md` -> `00_Inbox\03_研究资料\Nature重磅_物理神经网络训练革命突破_.md`
+- 迁移 `00_Inbox\文献与碎片\Nature重磅：物理神经网络训练革命突破！ (2).md` -> `00_Inbox\03_研究资料\Nature重磅：物理神经网络训练革命突破！ (2).md`
+- 迁移 `00_Inbox\文献与碎片\Nature重磅：物理神经网络训练革命突破！.md` -> `00_Inbox\03_研究资料\Nature重磅：物理神经网络训练革命突破！.md`
+- 迁移 `00_Inbox\文献与碎片\Nature：类脑计算亟需宏大蓝图.md` -> `00_Inbox\03_研究资料\Nature：类脑计算亟需宏大蓝图.md`
+- 迁移 `00_Inbox\文献与碎片\TCCL_系列之深入解析_TCCL_拓扑建模.md` -> `00_Inbox\03_研究资料\TCCL_系列之深入解析_TCCL_拓扑建模.md`
+- 迁移 `00_Inbox\文献与碎片\Neuron论文：Neuromorphic_is_dead,_神经形态已死。.md` -> `00_Inbox\04_会议战略\Neuron论文：Neuromorphic_is_dead,_神经形态已死。.md`
+- 迁移 `00_Inbox\文献与碎片\New DARPA-Funded Project Aims to Unravel the Brain's Learning Secrets - USC Viterbi School of Engineering.md` -> `00_Inbox\03_研究资料\New DARPA-Funded Project Aims to Unravel the Brain's Learning Secrets - USC Viterbi School of Engineering.md`
+- 迁移 `00_Inbox\文献与碎片\NICE_开启类脑智能新范式__从连接复杂度到智能涌现.md` -> `00_Inbox\03_研究资料\NICE_开启类脑智能新范式__从连接复杂度到智能涌现.md`
+- 迁移 `00_Inbox\文献与碎片\NICE读书会.pptx.md` -> `00_Inbox\03_研究资料\NICE读书会.pptx.md`
+- 迁移 `00_Inbox\文献与碎片\NPU神经处理单元（4.3）-_神经网络之TNN(Transformer).md` -> `00_Inbox\03_研究资料\NPU神经处理单元（4.3）-_神经网络之TNN(Transformer).md`
+- 迁移 `00_Inbox\文献与碎片\NSR专题：人类大脑计算与类脑智能（特邀编辑：冯建峰、Viktor_Jirsa）.md` -> `00_Inbox\04_会议战略\NSR专题：人类大脑计算与类脑智能（特邀编辑：冯建峰、Viktor_Jirsa）.md`
+- 迁移 `00_Inbox\文献与碎片\Obsidian_Gitee_Claw_Workflow.md` -> `00_Inbox\04_会议战略\Obsidian_Gitee_Claw_Workflow.md`
+- 迁移 `00_Inbox\文献与碎片\Obsidian如何同步Gitee指南.md` -> `00_Inbox\04_会议战略\Obsidian如何同步Gitee指南.md`
+- 迁移 `00_Inbox\文献与碎片\OpenAI_重金押注的「类脑」AI_芯片，到底是什么？.md` -> `00_Inbox\04_会议战略\OpenAI_重金押注的「类脑」AI_芯片，到底是什么？.md`
+- 迁移 `00_Inbox\文献与碎片\Pathways_架构：谷歌下一代人工智能架构，超级“缝合怪”，可扩展性，多模态，稀疏激活.md` -> `00_Inbox\03_研究资料\Pathways_架构：谷歌下一代人工智能架构，超级“缝合怪”，可扩展性，多模态，稀疏激活.md`
+- 迁移 `00_Inbox\文献与碎片\PD_分离推理的加速大招，百度智能云网络基础设施和通信组件的优化实践.md` -> `00_Inbox\03_研究资料\PD_分离推理的加速大招，百度智能云网络基础设施和通信组件的优化实践.md`
+- 迁移 `00_Inbox\文献与碎片\Physics_Reports研究速递：大脑复杂网络动力学下的创造和意识.md` -> `00_Inbox\04_会议战略\Physics_Reports研究速递：大脑复杂网络动力学下的创造和意识.md`
+- 迁移 `00_Inbox\文献与碎片\PINN又进化了！15种物理信息神经网络最新改良方案分享（含复现代码）.md` -> `00_Inbox\03_研究资料\PINN又进化了！15种物理信息神经网络最新改良方案分享（含复现代码）.md`
+- 迁移 `00_Inbox\文献与碎片\PNAS_大脑如何一边_预知未来__一边_看清现在__联合群体编码实现时序信息的正交整合.md` -> `00_Inbox\03_研究资料\PNAS_大脑如何一边_预知未来__一边_看清现在__联合群体编码实现时序信息的正交整合.md`
+- 迁移 `00_Inbox\文献与碎片\PPT 新型电力系统需要人工智能.md` -> `00_Inbox\03_研究资料\PPT 新型电力系统需要人工智能.md`
+- 迁移 `00_Inbox\文献与碎片\PPT大模型时代：类脑智能赋能电力应用场景的新模式.md` -> `00_Inbox\03_研究资料\PPT大模型时代：类脑智能赋能电力应用场景的新模式.md`
+- 迁移 `00_Inbox\文献与碎片\PRIME_基于忆阻器的输入感知动态SNN拓扑优化框架.md` -> `00_Inbox\03_研究资料\PRIME_基于忆阻器的输入感知动态SNN拓扑优化框架.md`
+- 迁移 `00_Inbox\文献与碎片\Quanta：Hopfield网络：催生AI的涌现物理学 (2).md` -> `00_Inbox\03_研究资料\Quanta：Hopfield网络：催生AI的涌现物理学 (2).md`
+- 迁移 `00_Inbox\文献与碎片\Quanta：Hopfield网络：催生AI的涌现物理学.md` -> `00_Inbox\03_研究资料\Quanta：Hopfield网络：催生AI的涌现物理学.md`
+- 迁移 `00_Inbox\文献与碎片\RISC-V 架构下 SDI 智算互联系统设计：面向 LLM 低延迟推理与训练.md` -> `00_Inbox\03_研究资料\RISC-V 架构下 SDI 智算互联系统设计：面向 LLM 低延迟推理与训练.md`
+- 迁移 `00_Inbox\文献与碎片\RISC-V_NPU_存算一体_多智能体端云协同与物理智能毫秒级响应的新计算架构.md` -> `00_Inbox\04_会议战略\RISC-V_NPU_存算一体_多智能体端云协同与物理智能毫秒级响应的新计算架构.md`
+- 迁移 `00_Inbox\文献与碎片\Sam_Altman中国对话全文：要警惕AI风险，但看懂神经网络比了解人在想什么容易多了.md` -> `00_Inbox\04_会议战略\Sam_Altman中国对话全文：要警惕AI风险，但看懂神经网络比了解人在想什么容易多了.md`
+- 迁移 `00_Inbox\文献与碎片\Sci._Adv._速递：面向神经形态计算的生物合理可重构脉冲神经元.md` -> `00_Inbox\03_研究资料\Sci._Adv._速递：面向神经形态计算的生物合理可重构脉冲神经元.md`
+- 迁移 `00_Inbox\文献与碎片\Science Advances脑启发神经形态计算新突破：PRIME 模型实现能效与性能双重飞跃.md` -> `00_Inbox\03_研究资料\Science Advances脑启发神经形态计算新突破：PRIME 模型实现能效与性能双重飞跃.md`
+- 迁移 `00_Inbox\文献与碎片\Science_Advances_片上光互联_忆阻闪烁神经元构建三维脉冲神经网络.md` -> `00_Inbox\03_研究资料\Science_Advances_片上光互联_忆阻闪烁神经元构建三维脉冲神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\Science_Advances报道___揭示大脑神经元可靠信息处理机制.md` -> `00_Inbox\03_研究资料\Science_Advances报道___揭示大脑神经元可靠信息处理机制.md`
+- 迁移 `00_Inbox\文献与碎片\Science_Advances脑启发神经形态计算新突破：PRIME_模型实现能效与性能双重飞跃.md` -> `00_Inbox\03_研究资料\Science_Advances脑启发神经形态计算新突破：PRIME_模型实现能效与性能双重飞跃.md`
+- 迁移 `00_Inbox\文献与碎片\Science_人工智能揭示哺乳动物小脑遗传控制元件的进化.md` -> `00_Inbox\03_研究资料\Science_人工智能揭示哺乳动物小脑遗传控制元件的进化.md`
+- 迁移 `00_Inbox\文献与碎片\Science_利用人工智能追溯大脑中基因控制元件的演化过程.md` -> `00_Inbox\03_研究资料\Science_利用人工智能追溯大脑中基因控制元件的演化过程.md`
+- 迁移 `00_Inbox\文献与碎片\Science_物理信息神经网络PINN优势在哪里.md` -> `00_Inbox\03_研究资料\Science_物理信息神经网络PINN优势在哪里.md`
+- 迁移 `00_Inbox\文献与碎片\Science重磅：非平衡系统中，秩序是如何涌现的？.md` -> `00_Inbox\04_会议战略\Science重磅：非平衡系统中，秩序是如何涌现的？.md`
+- 迁移 `00_Inbox\文献与碎片\Science：忆阻器技术：存储_计算_加密_通信，四大领域的跨界颠覆者.md` -> `00_Inbox\03_研究资料\Science：忆阻器技术：存储_计算_加密_通信，四大领域的跨界颠覆者.md`
+- 迁移 `00_Inbox\文献与碎片\Science：物理信息神经网络PINN优势在哪里.md` -> `00_Inbox\03_研究资料\Science：物理信息神经网络PINN优势在哪里.md`
+- 迁移 `00_Inbox\文献与碎片\SDI3210芯火燎原视频脚本-1023.docx.md` -> `00_Inbox\03_研究资料\SDI3210芯火燎原视频脚本-1023.docx.md`
+- 迁移 `00_Inbox\文献与碎片\SDI_商业模式.md` -> `00_Inbox\03_研究资料\SDI_商业模式.md`
+- 迁移 `00_Inbox\文献与碎片\SDI互连工艺选择技术方案.md` -> `00_Inbox\04_会议战略\SDI互连工艺选择技术方案.md`
+- 迁移 `00_Inbox\文献与碎片\SDI仿真设计原则.md` -> `00_Inbox\03_研究资料\SDI仿真设计原则.md`
+- 迁移 `00_Inbox\文献与碎片\SDI方向机会、产品及市场关系.md` -> `00_Inbox\03_研究资料\SDI方向机会、产品及市场关系.md`
+- 迁移 `00_Inbox\文献与碎片\SDI赋能一体化协同作战（晶上联盟SDI论坛）.pptx.md` -> `00_Inbox\04_会议战略\SDI赋能一体化协同作战（晶上联盟SDI论坛）.pptx.md`
+- 迁移 `00_Inbox\文献与碎片\SDSoW mesoscale computing paradigm 20251011040148.pptx.md` -> `00_Inbox\03_研究资料\SDSoW mesoscale computing paradigm 20251011040148.pptx.md`
+- 迁移 `00_Inbox\文献与碎片\SDSoW+DeepSeek的“双子星”.md` -> `00_Inbox\04_会议战略\SDSoW+DeepSeek的“双子星”.md`
+- 迁移 `00_Inbox\文献与碎片\SDSoW_mesoscale_computing_paradigm_20251011040148.pptx.md` -> `00_Inbox\03_研究资料\SDSoW_mesoscale_computing_paradigm_20251011040148.pptx.md`
+- 迁移 `00_Inbox\文献与碎片\SDSoW内涵介绍（发改委）.docx.md` -> `00_Inbox\03_研究资料\SDSoW内涵介绍（发改委）.docx.md`
+- 迁移 `00_Inbox\文献与碎片\SDSoW工作进展事.md` -> `00_Inbox\04_会议战略\SDSoW工作进展事.md`
+- 迁移 `00_Inbox\文献与碎片\SDSoW战略规划汇报.md` -> `00_Inbox\04_会议战略\SDSoW战略规划汇报.md`
+- 迁移 `00_Inbox\文献与碎片\SDSoW智能体.md` -> `00_Inbox\04_会议战略\SDSoW智能体.md`
+- 迁移 `00_Inbox\文献与碎片\SDSoW赋能“绿色+智能+安全”智能驾驶.md` -> `00_Inbox\04_会议战略\SDSoW赋能“绿色+智能+安全”智能驾驶.md`
+- 迁移 `00_Inbox\文献与碎片\SDSoW：以系统级创新筑基，托举中国架构革命与生态突围.md` -> `00_Inbox\04_会议战略\SDSoW：以系统级创新筑基，托举中国架构革命与生态突围.md`
+- 迁移 `00_Inbox\文献与碎片\SNN的异步电路实现.md` -> `00_Inbox\04_会议战略\SNN的异步电路实现.md`
+- 迁移 `00_Inbox\文献与碎片\Speck_基于注意力机制的动态神经形态计算系统.md` -> `00_Inbox\03_研究资料\Speck_基于注意力机制的动态神经形态计算系统.md`
+- 迁移 `00_Inbox\文献与碎片\SpikingBrain-1_0_类脑脉冲大模型的革命性突破__.md` -> `00_Inbox\03_研究资料\SpikingBrain-1_0_类脑脉冲大模型的革命性突破__.md`
+- 迁移 `00_Inbox\文献与碎片\Spirit_V1_5模型_登顶全球的国产具身大脑_改写机器人智能新格局.md` -> `00_Inbox\04_会议战略\Spirit_V1_5模型_登顶全球的国产具身大脑_改写机器人智能新格局.md`
+- 迁移 `00_Inbox\文献与碎片\The Rise of Neuromorphic Computing How Brain-Inspired AI is Shaping the Future in 2025.md` -> `00_Inbox\03_研究资料\The Rise of Neuromorphic Computing How Brain-Inspired AI is Shaping the Future in 2025.md`
+- 迁移 `00_Inbox\文献与碎片\Transformer的拓扑直觉之一.md` -> `00_Inbox\03_研究资料\Transformer的拓扑直觉之一.md`
+- 迁移 `00_Inbox\文献与碎片\TSMC下一代晶圆级AI系统SoW-X：16颗_ASIC＋80颗HBM4＋260Tb_s总片间带宽.md` -> `00_Inbox\04_会议战略\TSMC下一代晶圆级AI系统SoW-X：16颗_ASIC＋80颗HBM4＋260Tb_s总片间带宽.md`
+- 迁移 `00_Inbox\文献与碎片\UCIe_2.0_规范：持续创新，推动开放_Chiplet_生态系统.md` -> `00_Inbox\04_会议战略\UCIe_2.0_规范：持续创新，推动开放_Chiplet_生态系统.md`
+- 迁移 `00_Inbox\文献与碎片\UCIe_3.0来了：Chiplet互连速度翻倍.md` -> `00_Inbox\03_研究资料\UCIe_3.0来了：Chiplet互连速度翻倍.md`
+- 迁移 `00_Inbox\文献与碎片\UCIe生态正在完善，Chiplet腾飞指日可待.md` -> `00_Inbox\04_会议战略\UCIe生态正在完善，Chiplet腾飞指日可待.md`
+- 迁移 `00_Inbox\文献与碎片\VLA统一架构新突破：自回归世界模型引领具身智能.md` -> `00_Inbox\04_会议战略\VLA统一架构新突破：自回归世界模型引领具身智能.md`
+- 迁移 `00_Inbox\文献与碎片\Y11T321__AI_Scale_up互联_如何实现节点内互联.md` -> `00_Inbox\04_会议战略\Y11T321__AI_Scale_up互联_如何实现节点内互联.md`
+- 迁移 `00_Inbox\文献与碎片\Yann_LeCun：发现智能原理是AI的终极问题___独家对话.md` -> `00_Inbox\04_会议战略\Yann_LeCun：发现智能原理是AI的终极问题___独家对话.md`
+- 迁移 `00_Inbox\文献与碎片\μBrain_超低功耗数字神经形态计算芯片架构.md` -> `00_Inbox\03_研究资料\μBrain_超低功耗数字神经形态计算芯片架构.md`
+- 迁移 `00_Inbox\文献与碎片\​Chiplet的意义：超越摩尔定律！.md` -> `00_Inbox\04_会议战略\​Chiplet的意义：超越摩尔定律！.md`
+- 迁移 `00_Inbox\文献与碎片\​Nat._Commun.长文综述：具身神经形态智能.md` -> `00_Inbox\04_会议战略\​Nat._Commun.长文综述：具身神经形态智能.md`
+- 迁移 `00_Inbox\文献与碎片\​【专题研究】从单芯作战迈向系统集成（五）——软件定义晶上系统（SDSoW）技术.md` -> `00_Inbox\03_研究资料\​【专题研究】从单芯作战迈向系统集成（五）——软件定义晶上系统（SDSoW）技术.md`
+- 迁移 `00_Inbox\文献与碎片\​软件定义汽车的未来，关键要看chiplet技术？.md` -> `00_Inbox\04_会议战略\​软件定义汽车的未来，关键要看chiplet技术？.md`
+- 迁移 `00_Inbox\文献与碎片\“因果涌现”理论，能解释人为什么会有意识吗？.md` -> `00_Inbox\04_会议战略\“因果涌现”理论，能解释人为什么会有意识吗？.md`
+- 迁移 `00_Inbox\文献与碎片\“蜂群战术”：智能化战争形态或已呼之欲出.md` -> `00_Inbox\04_会议战略\“蜂群战术”：智能化战争形态或已呼之欲出.md`
+- 迁移 `00_Inbox\文献与碎片\“被互联网抛弃”的上海，却成了中国芯片突围的最大希望.md` -> `00_Inbox\04_会议战略\“被互联网抛弃”的上海，却成了中国芯片突围的最大希望.md`
+- 迁移 `00_Inbox\文献与碎片\“车路云一体化智能网联汽车产业生态绿色发展路径研究”项目启动会在津召开.md` -> `00_Inbox\04_会议战略\“车路云一体化智能网联汽车产业生态绿色发展路径研究”项目启动会在津召开.md`
+- 迁移 `00_Inbox\文献与碎片\“风口浪尖”的Chiplet，有人疯狂涌入，有人划清界限.md` -> `00_Inbox\04_会议战略\“风口浪尖”的Chiplet，有人疯狂涌入，有人划清界限.md`
+- 迁移 `00_Inbox\文献与碎片\《Nature_Comm》：热力学启发解释人工智能原理.md` -> `00_Inbox\03_研究资料\《Nature_Comm》：热力学启发解释人工智能原理.md`
+- 迁移 `00_Inbox\文献与碎片\《中国科学基金》___高文院士、蒋昌俊院士等：智能算网的基础理论与核心技术.md` -> `00_Inbox\04_会议战略\《中国科学基金》___高文院士、蒋昌俊院士等：智能算网的基础理论与核心技术.md`
+- 迁移 `00_Inbox\文献与碎片\《主动推理》：心智、大脑与行为的自由能原理｜赠书福利来袭！.md` -> `00_Inbox\04_会议战略\《主动推理》：心智、大脑与行为的自由能原理｜赠书福利来袭！.md`
+- 迁移 `00_Inbox\文献与碎片\《人工智能》杂志“全脑计算与脑模拟”主题出版！脑科学赋能人工智能协同发展.md` -> `00_Inbox\04_会议战略\《人工智能》杂志“全脑计算与脑模拟”主题出版！脑科学赋能人工智能协同发展.md`
+- 迁移 `00_Inbox\文献与碎片\《人民日报》刊发高文主任署名文章《抢抓人工智能发展的历史性机遇——深刻领会习近平总书记关于人工智能的重要论述》.md` -> `00_Inbox\04_会议战略\《人民日报》刊发高文主任署名文章《抢抓人工智能发展的历史性机遇——深刻领会习近平总书记关于人工智能的重要论述》.md`
+- 迁移 `00_Inbox\文献与碎片\《天津市促进人工智能创新发展行动方案（2025—2027年）》印发.md` -> `00_Inbox\03_研究资料\《天津市促进人工智能创新发展行动方案（2025—2027年）》印发.md`
+- 迁移 `00_Inbox\文献与碎片\《科学之路》__图灵奖得主杨立昆人工智能十问：AI会统治人类吗？.md` -> `00_Inbox\04_会议战略\《科学之路》__图灵奖得主杨立昆人工智能十问：AI会统治人类吗？.md`
+- 迁移 `00_Inbox\文献与碎片\《线性代数：一名合格科研人的筑基课》特别加餐：透视复杂网络的核心——特征值与特征向量初探（上）.md` -> `00_Inbox\04_会议战略\《线性代数：一名合格科研人的筑基课》特别加餐：透视复杂网络的核心——特征值与特征向量初探（上）.md`
+- 迁移 `00_Inbox\文献与碎片\「千脑计划」启动，模仿人类大脑皮层，开发全新AI，盖茨资助.md` -> `00_Inbox\04_会议战略\「千脑计划」启动，模仿人类大脑皮层，开发全新AI，盖茨资助.md`
+- 迁移 `00_Inbox\文献与碎片\『DGIST_Nat._Commun.』晶圆级被动忆阻交叉阵列：向类脑规模神经形态计算迈进.md` -> `00_Inbox\04_会议战略\『DGIST_Nat._Commun.』晶圆级被动忆阻交叉阵列：向类脑规模神经形态计算迈进.md`
+- 迁移 `00_Inbox\文献与碎片\『北大杨玉超、陶耀宇 Nat. Commun.』高并发三模态忆阻器常微分方程求解器：突破传统计算瓶颈.md` -> `00_Inbox\03_研究资料\『北大杨玉超、陶耀宇 Nat. Commun.』高并发三模态忆阻器常微分方程求解器：突破传统计算瓶颈.md`
+- 迁移 `00_Inbox\文献与碎片\『苏黎世理工 Nat. Mach. Intell.』类脑奖励学习的忆阻器Actor–Critic网络：实现全硬件在线训练的新路径.md` -> `00_Inbox\03_研究资料\『苏黎世理工 Nat. Mach. Intell.』类脑奖励学习的忆阻器Actor–Critic网络：实现全硬件在线训练的新路径.md`
+- 迁移 `00_Inbox\文献与碎片\『苏黎世理工_Nat._Mach._Intell.』类脑奖励学习的忆阻器Actor–Critic网络：实现全硬件在线训练的新路径.md` -> `00_Inbox\03_研究资料\『苏黎世理工_Nat._Mach._Intell.』类脑奖励学习的忆阻器Actor–Critic网络：实现全硬件在线训练的新路径.md`
+- 迁移 `00_Inbox\文献与碎片\『麻省大学夏强飞 Nat. Electron.』基于忆阻器的细胞神经网络：实现高速像素内计算的新突破.md` -> `00_Inbox\03_研究资料\『麻省大学夏强飞 Nat. Electron.』基于忆阻器的细胞神经网络：实现高速像素内计算的新突破.md`
+- 迁移 `00_Inbox\文献与碎片\【210页PPT】哈工大：大模型时代的具身智能.md` -> `00_Inbox\03_研究资料\【210页PPT】哈工大：大模型时代的具身智能.md`
+- 迁移 `00_Inbox\文献与碎片\【Brainnews_脑科学系列讲座】复旦大学脑科学转化研究院邀请报告：仿生超浸润界面体系_哔哩哔哩_bilibili.md` -> `00_Inbox\03_研究资料\【Brainnews_脑科学系列讲座】复旦大学脑科学转化研究院邀请报告：仿生超浸润界面体系_哔哩哔哩_bilibili.md`
+- 迁移 `00_Inbox\文献与碎片\【CICC原创】战术场景互联网—未来智能化战场的神经系统 (2).md` -> `00_Inbox\04_会议战略\【CICC原创】战术场景互联网—未来智能化战场的神经系统 (2).md`
+- 迁移 `00_Inbox\文献与碎片\【CICC原创】战术场景互联网—未来智能化战场的神经系统.md` -> `00_Inbox\04_会议战略\【CICC原创】战术场景互联网—未来智能化战场的神经系统.md`
+- 迁移 `00_Inbox\文献与碎片\【Nature_Communications】告别“人工调参”：华中科技大学提出具身智能奖励函数自动发现框架，破解稀疏奖励难题.md` -> `00_Inbox\03_研究资料\【Nature_Communications】告别“人工调参”：华中科技大学提出具身智能奖励函数自动发现框架，破解稀疏奖励难题.md`
+- 迁移 `00_Inbox\文献与碎片\【Nature_Communications】机器人也能“长记性”：基于三阶忆阻器的人工感觉神经系统，实现仿生习惯化与敏化.md` -> `00_Inbox\03_研究资料\【Nature_Communications】机器人也能“长记性”：基于三阶忆阻器的人工感觉神经系统，实现仿生习惯化与敏化.md`
+- 迁移 `00_Inbox\文献与碎片\【PPT+讲稿+笔记】中山大学林倞：APR_面向具身智能的多模态感知与交互.md` -> `00_Inbox\04_会议战略\【PPT+讲稿+笔记】中山大学林倞：APR_面向具身智能的多模态感知与交互.md`
+- 迁移 `00_Inbox\文献与碎片\【专利解密】武汉新芯最新晶圆键合方法.md` -> `00_Inbox\04_会议战略\【专利解密】武汉新芯最新晶圆键合方法.md`
+- 迁移 `00_Inbox\文献与碎片\【人体奥秘】一张图看懂大脑的神奇结构.md` -> `00_Inbox\03_研究资料\【人体奥秘】一张图看懂大脑的神奇结构.md`
+- 迁移 `00_Inbox\文献与碎片\【任正非向习主席汇报发言，发言稿令人耳目一新】《以创新为核心竞争力_为祖国百年科技振兴而奋斗》——任正非从科技的角度来看.md` -> `00_Inbox\04_会议战略\【任正非向习主席汇报发言，发言稿令人耳目一新】《以创新为核心竞争力_为祖国百年科技振兴而奋斗》——任正非从科技的角度来看.md`
+- 迁移 `00_Inbox\文献与碎片\【先进封装】台积电系统级晶圆（SoW）技术详解（一） (2).md` -> `00_Inbox\03_研究资料\【先进封装】台积电系统级晶圆（SoW）技术详解（一） (2).md`
+- 迁移 `00_Inbox\文献与碎片\【先进封装】台积电系统级晶圆（SoW）技术详解（一）.md` -> `00_Inbox\03_研究资料\【先进封装】台积电系统级晶圆（SoW）技术详解（一）.md`
+- 迁移 `00_Inbox\文献与碎片\【先进封装】混合键合（Hybrid_Bonding）：未来3D芯片互联的新星.md` -> `00_Inbox\03_研究资料\【先进封装】混合键合（Hybrid_Bonding）：未来3D芯片互联的新星.md`
+- 迁移 `00_Inbox\文献与碎片\【免费】华为：智能世界2030（123页）.md` -> `00_Inbox\04_会议战略\【免费】华为：智能世界2030（123页）.md`
+- 迁移 `00_Inbox\文献与碎片\【前瞻预告】2022全国信创与人工智能发展博士后学术论坛将于12月10日-11日举行！论坛议程提前知！.md` -> `00_Inbox\04_会议战略\【前瞻预告】2022全国信创与人工智能发展博士后学术论坛将于12月10日-11日举行！论坛议程提前知！.md`
+- 迁移 `00_Inbox\文献与碎片\【后Transformer时代】分层类脑模结构（HRM）的快慢思考机制的解析.md` -> `00_Inbox\04_会议战略\【后Transformer时代】分层类脑模结构（HRM）的快慢思考机制的解析.md`
+- 迁移 `00_Inbox\文献与碎片\【好文推荐】面向作战任务的多域异构网络泛在互联技术.md` -> `00_Inbox\04_会议战略\【好文推荐】面向作战任务的多域异构网络泛在互联技术.md`
+- 迁移 `00_Inbox\文献与碎片\【推荐】2021​人工智能的认知神经基础白皮书（110页）附下载.md` -> `00_Inbox\04_会议战略\【推荐】2021​人工智能的认知神经基础白皮书（110页）附下载.md`
+- 迁移 `00_Inbox\文献与碎片\【推荐】新一代人工智能基础设施白皮书_附下载.md` -> `00_Inbox\04_会议战略\【推荐】新一代人工智能基础设施白皮书_附下载.md`
+- 迁移 `00_Inbox\文献与碎片\【深度】清华黄高等人新作：动态神经网络首篇综述.md` -> `00_Inbox\03_研究资料\【深度】清华黄高等人新作：动态神经网络首篇综述.md`
+- 迁移 `00_Inbox\文献与碎片\【科普园地】多智能体控制：从简单规则到复杂行为.md` -> `00_Inbox\04_会议战略\【科普园地】多智能体控制：从简单规则到复杂行为.md`
+- 迁移 `00_Inbox\文献与碎片\【算力资讯】拆解 NVIDIA 的芯片互联逻辑：Die-to-Die I O 设计的十个关键点.md` -> `00_Inbox\04_会议战略\【算力资讯】拆解 NVIDIA 的芯片互联逻辑：Die-to-Die I O 设计的十个关键点.md`
+- 迁移 `00_Inbox\文献与碎片\【综述专栏】图神经网络综述.md` -> `00_Inbox\04_会议战略\【综述专栏】图神经网络综述.md`
+- 迁移 `00_Inbox\文献与碎片\【芯片论文】华为NoC-Chiplets：适用于异构_Chiplet_的应用定义片上网络：实施视角_-_知乎.md` -> `00_Inbox\04_会议战略\【芯片论文】华为NoC-Chiplets：适用于异构_Chiplet_的应用定义片上网络：实施视角_-_知乎.md`
+- 迁移 `00_Inbox\文献与碎片\【行业资讯】中国Chiplet的机遇与挑战及芯片接口IP市场展望.md` -> `00_Inbox\04_会议战略\【行业资讯】中国Chiplet的机遇与挑战及芯片接口IP市场展望.md`
+- 迁移 `00_Inbox\文献与碎片\【论文推荐】未来智能杀伤网构想_空天防御.md` -> `00_Inbox\04_会议战略\【论文推荐】未来智能杀伤网构想_空天防御.md`
+- 迁移 `00_Inbox\文献与碎片\【论文荐读】复杂网络：复杂网络的自相似性.md` -> `00_Inbox\03_研究资料\【论文荐读】复杂网络：复杂网络的自相似性.md`
+- 迁移 `00_Inbox\文献与碎片\【软件定义电子战】CORVUS：引领未来战场的下一代智能电子战系统.md` -> `00_Inbox\04_会议战略\【软件定义电子战】CORVUS：引领未来战场的下一代智能电子战系统.md`
+- 迁移 `00_Inbox\文献与碎片\一张晶圆仅做一颗芯片，良率100%？史上最大芯片更新至第二代.md` -> `00_Inbox\04_会议战略\一张晶圆仅做一颗芯片，良率100%？史上最大芯片更新至第二代.md`
+- 迁移 `00_Inbox\文献与碎片\一文了解Nvidia GB200 SuperPod NVL576的互联架构.md` -> `00_Inbox\03_研究资料\一文了解Nvidia GB200 SuperPod NVL576的互联架构.md`
+- 迁移 `00_Inbox\文献与碎片\一文了解Nvidia_GB200_SuperPod_NVL576的互联架构.md` -> `00_Inbox\03_研究资料\一文了解Nvidia_GB200_SuperPod_NVL576的互联架构.md`
+- 迁移 `00_Inbox\文献与碎片\一文弄清楚全球智能驾驶芯片竞争格局和各家优劣势.md` -> `00_Inbox\04_会议战略\一文弄清楚全球智能驾驶芯片竞争格局和各家优劣势.md`
+- 迁移 `00_Inbox\文献与碎片\一文讲透_AI_Agent_与_AI_Workflow_的区别和深度解析：从自动化到智能化的演进.md` -> `00_Inbox\04_会议战略\一文讲透_AI_Agent_与_AI_Workflow_的区别和深度解析：从自动化到智能化的演进.md`
+- 迁移 `00_Inbox\文献与碎片\一文读懂_GPU_通信互联技术.md` -> `00_Inbox\03_研究资料\一文读懂_GPU_通信互联技术.md`
+- 迁移 `00_Inbox\文献与碎片\一文读懂Dragonfly网络拓扑.md` -> `00_Inbox\04_会议战略\一文读懂Dragonfly网络拓扑.md`
+- 迁移 `00_Inbox\文献与碎片\一种基于层级时间标记的_LLM_迁移预测框架_以层级时间标记重构人类移动预测.md` -> `00_Inbox\03_研究资料\一种基于层级时间标记的_LLM_迁移预测框架_以层级时间标记重构人类移动预测.md`
+- 迁移 `00_Inbox\文献与碎片\一般来说，三层神经网络可以逼近任何一个非线性函数，为什么还需要深度神经网络？为什么深度学习模型能够自动提取多层次特征？｜.md` -> `00_Inbox\03_研究资料\一般来说，三层神经网络可以逼近任何一个非线性函数，为什么还需要深度神经网络？为什么深度学习模型能够自动提取多层次特征？｜.md`
+- 迁移 `00_Inbox\文献与碎片\一颗忆阻器，三种模式！神经形态计算新范式！.md` -> `00_Inbox\03_研究资料\一颗忆阻器，三种模式！神经形态计算新范式！.md`
+- 迁移 `00_Inbox\文献与碎片\万亿市场起飞！华为智能算力生态深度分析 2024.md` -> `00_Inbox\03_研究资料\万亿市场起飞！华为智能算力生态深度分析 2024.md`
+- 迁移 `00_Inbox\文献与碎片\万卡、十万卡_AI网络拓扑都是什么样的？.md` -> `00_Inbox\04_会议战略\万卡、十万卡_AI网络拓扑都是什么样的？.md`
+- 迁移 `00_Inbox\文献与碎片\万字解析！一文带你了解深度学习中经典神经网络结构--CNN、RNN、LSTM、Transformer！.md` -> `00_Inbox\03_研究资料\万字解析！一文带你了解深度学习中经典神经网络结构--CNN、RNN、LSTM、Transformer！.md`
+- 迁移 `00_Inbox\文献与碎片\万字追问_砍掉大脑皮层_小鼠照样打架求偶_皮层之下_才是下一个蓝海.md` -> `00_Inbox\04_会议战略\万字追问_砍掉大脑皮层_小鼠照样打架求偶_皮层之下_才是下一个蓝海.md`
+- 迁移 `00_Inbox\文献与碎片\万字追问_神经科学第一性原理_支配单个神经元的法则_同样支配整个大脑.md` -> `00_Inbox\03_研究资料\万字追问_神经科学第一性原理_支配单个神经元的法则_同样支配整个大脑.md`
+- 迁移 `00_Inbox\文献与碎片\万物摩尔定律：人工智能技术的快速迭代将使人类万劫不复？.md` -> `00_Inbox\03_研究资料\万物摩尔定律：人工智能技术的快速迭代将使人类万劫不复？.md`
+- 迁移 `00_Inbox\文献与碎片\三大EDA厂商谈Chiplet封装实现难题.md` -> `00_Inbox\04_会议战略\三大EDA厂商谈Chiplet封装实现难题.md`
+- 迁移 `00_Inbox\文献与碎片\三大晶圆厂竞逐3D封装.md` -> `00_Inbox\04_会议战略\三大晶圆厂竞逐3D封装.md`
+- 迁移 `00_Inbox\文献与碎片\三种信息动力学：如何识别元胞自动机中的涌现？.md` -> `00_Inbox\03_研究资料\三种信息动力学：如何识别元胞自动机中的涌现？.md`
+- 迁移 `00_Inbox\文献与碎片\三篇顶刊炸场！清华尹首一团队让中国晶圆级芯片直接封神！取得重大进展！.md` -> `00_Inbox\03_研究资料\三篇顶刊炸场！清华尹首一团队让中国晶圆级芯片直接封神！取得重大进展！.md`
+- 迁移 `00_Inbox\文献与碎片\三维坐标推动人工智能迈向发展新阶段.md` -> `00_Inbox\04_会议战略\三维坐标推动人工智能迈向发展新阶段.md`
+- 迁移 `00_Inbox\文献与碎片\上交大新型SRAM存内计算架构「COMPASS」，开启类脑计算新时代.md` -> `00_Inbox\04_会议战略\上交大新型SRAM存内计算架构「COMPASS」，开启类脑计算新时代.md`
+- 迁移 `00_Inbox\文献与碎片\上海晶上智算方案研究.md` -> `00_Inbox\04_会议战略\上海晶上智算方案研究.md`
+- 迁移 `00_Inbox\文献与碎片\不走Transformer寻常路，「元始智能RWKV」获数千万天使轮融资｜36氪首发.md` -> `00_Inbox\04_会议战略\不走Transformer寻常路，「元始智能RWKV」获数千万天使轮融资｜36氪首发.md`
+- 迁移 `00_Inbox\文献与碎片\专家观点___余山：从脑网络到类脑计算.md` -> `00_Inbox\04_会议战略\专家观点___余山：从脑网络到类脑计算.md`
+- 迁移 `00_Inbox\文献与碎片\专访四位复杂系统研究者：跨学科研究中的复杂科学.md` -> `00_Inbox\03_研究资料\专访四位复杂系统研究者：跨学科研究中的复杂科学.md`
+- 迁移 `00_Inbox\文献与碎片\专访清华胡杨：开发晶圆级芯片，降低先进工艺依赖，通过系统重构大幅提升算力.md` -> `00_Inbox\04_会议战略\专访清华胡杨：开发晶圆级芯片，降低先进工艺依赖，通过系统重构大幅提升算力.md`
+- 迁移 `00_Inbox\文献与碎片\专题封面___光学逻辑计算：可为人工智能大模型带来性能突破.md` -> `00_Inbox\04_会议战略\专题封面___光学逻辑计算：可为人工智能大模型带来性能突破.md`
+- 迁移 `00_Inbox\文献与碎片\世界的本质.md` -> `00_Inbox\03_研究资料\世界的本质.md`
+- 迁移 `00_Inbox\文献与碎片\中国Chiplet大会干货：7位大咖抛出灵魂问题，接口IP和EDA宏图展开.md` -> `00_Inbox\04_会议战略\中国Chiplet大会干货：7位大咖抛出灵魂问题，接口IP和EDA宏图展开.md`
+- 迁移 `00_Inbox\文献与碎片\中国“脑科学与类脑研究”全景速览 (2).md` -> `00_Inbox\04_会议战略\中国“脑科学与类脑研究”全景速览 (2).md`
+- 迁移 `00_Inbox\文献与碎片\中国“脑科学与类脑研究”全景速览.md` -> `00_Inbox\04_会议战略\中国“脑科学与类脑研究”全景速览.md`
+- 迁移 `00_Inbox\文献与碎片\中国发展高层论坛2024丨科技部副部长吴朝晖：瞄准前沿方向_多路径探索通用人工智能发展.md` -> `00_Inbox\04_会议战略\中国发展高层论坛2024丨科技部副部长吴朝晖：瞄准前沿方向_多路径探索通用人工智能发展.md`
+- 迁移 `00_Inbox\文献与碎片\中国大陆晶圆厂的“新挑战”.md` -> `00_Inbox\04_会议战略\中国大陆晶圆厂的“新挑战”.md`
+- 迁移 `00_Inbox\文献与碎片\中国学者一作！类脑计算——构建“人造超级大脑”，再登Science子刊!.md` -> `00_Inbox\03_研究资料\中国学者一作！类脑计算——构建“人造超级大脑”，再登Science子刊!.md`
+- 迁移 `00_Inbox\文献与碎片\中国方案智能网联汽车信息物理系统架构_-_知乎.md` -> `00_Inbox\03_研究资料\中国方案智能网联汽车信息物理系统架构_-_知乎.md`
+- 迁移 `00_Inbox\文献与碎片\中国智能汽车芯片的新希望_-_Chiplet.md` -> `00_Inbox\04_会议战略\中国智能汽车芯片的新希望_-_Chiplet.md`
+- 迁移 `00_Inbox\文献与碎片\中国科学技术大学的余昊等人提出了一种新型的DeepONet嵌入式物理信息神经网络（DE-PINN）.md` -> `00_Inbox\03_研究资料\中国科学技术大学的余昊等人提出了一种新型的DeepONet嵌入式物理信息神经网络（DE-PINN）.md`
+- 迁移 `00_Inbox\文献与碎片\中国科学院团队研发硅基电容-隧穿结_SCTJ_突破类脑计算瓶颈.md` -> `00_Inbox\03_研究资料\中国科学院团队研发硅基电容-隧穿结_SCTJ_突破类脑计算瓶颈.md`
+- 迁移 `00_Inbox\文献与碎片\中国芯粒技术如何发展？院士专家重磅发布！.md` -> `00_Inbox\04_会议战略\中国芯粒技术如何发展？院士专家重磅发布！.md`
+- 迁移 `00_Inbox\文献与碎片\中国首个原生Chiplet技术标准发布.md` -> `00_Inbox\04_会议战略\中国首个原生Chiplet技术标准发布.md`
+- 迁移 `00_Inbox\文献与碎片\中科院原院长白春礼最新演讲：关于我国人工智能发展的思考和建议.md` -> `00_Inbox\04_会议战略\中科院原院长白春礼最新演讲：关于我国人工智能发展的思考和建议.md`
+- 迁移 `00_Inbox\文献与碎片\中科院类脑脉冲大模型SpikingBrain-1_0技术解析.md` -> `00_Inbox\03_研究资料\中科院类脑脉冲大模型SpikingBrain-1_0技术解析.md`
+- 迁移 `00_Inbox\文献与碎片\中美人工智能发展路径思辨.md` -> `00_Inbox\04_会议战略\中美人工智能发展路径思辨.md`
+- 迁移 `00_Inbox\文献与碎片\临界学习_LaC__大模型推理能力涌现的物理机制与科学应用.md` -> `00_Inbox\03_研究资料\临界学习_LaC__大模型推理能力涌现的物理机制与科学应用.md`
+- 迁移 `00_Inbox\文献与碎片\为什么“预测”可能才是智能的发动机，而不是“拟合”？.md` -> `00_Inbox\03_研究资料\为什么“预测”可能才是智能的发动机，而不是“拟合”？.md`
+- 迁移 `00_Inbox\文献与碎片\为什么下一代_AI_必须像大脑一样工作_来自神经科学的三条关键启示.md` -> `00_Inbox\03_研究资料\为什么下一代_AI_必须像大脑一样工作_来自神经科学的三条关键启示.md`
+- 迁移 `00_Inbox\文献与碎片\为何P4“落户”智能网卡？.md` -> `00_Inbox\04_会议战略\为何P4“落户”智能网卡？.md`
+- 迁移 `00_Inbox\文献与碎片\主动内感受推理的层级网络架构.md` -> `00_Inbox\03_研究资料\主动内感受推理的层级网络架构.md`
+- 迁移 `00_Inbox\文献与碎片\事件相机 (DVS)、类脑计算 (SNN) 与 FPGA 部署.md` -> `00_Inbox\03_研究资料\事件相机 (DVS)、类脑计算 (SNN) 与 FPGA 部署.md`
+- 迁移 `00_Inbox\文献与碎片\事件驱动神经形态感知系统_基于柔性触觉传感器与忆阻器SoC的低功耗边缘计算突破.md` -> `00_Inbox\03_研究资料\事件驱动神经形态感知系统_基于柔性触觉传感器与忆阻器SoC的低功耗边缘计算突破.md`
+- 迁移 `00_Inbox\文献与碎片\云科普-智能网联汽车发展现状与对策建议 - 知乎.md` -> `00_Inbox\04_会议战略\云科普-智能网联汽车发展现状与对策建议 - 知乎.md`
+- 迁移 `00_Inbox\文献与碎片\互联智能（Internet_of_Intelligence），如何定义下一代网络变革.md` -> `00_Inbox\03_研究资料\互联智能（Internet_of_Intelligence），如何定义下一代网络变革.md`
+- 迁移 `00_Inbox\文献与碎片\互联网人必须要懂的“梅特卡夫定律”.md` -> `00_Inbox\04_会议战略\互联网人必须要懂的“梅特卡夫定律”.md`
+- 迁移 `00_Inbox\文献与碎片\互联网公司：51.2T新架构下的组网方式.md` -> `00_Inbox\03_研究资料\互联网公司：51.2T新架构下的组网方式.md`
+- 迁移 `00_Inbox\文献与碎片\互联，成为核心技术.md` -> `00_Inbox\03_研究资料\互联，成为核心技术.md`
+- 迁移 `00_Inbox\文献与碎片\互联：高性能计算的“革命之路” (2).md` -> `00_Inbox\03_研究资料\互联：高性能计算的“革命之路” (2).md`
+- 迁移 `00_Inbox\文献与碎片\互联：高性能计算的“革命之路”.md` -> `00_Inbox\03_研究资料\互联：高性能计算的“革命之路”.md`
+- 迁移 `00_Inbox\文献与碎片\交换机内置DPU？思科推出8102-DPU_智能交换机！.md` -> `00_Inbox\03_研究资料\交换机内置DPU？思科推出8102-DPU_智能交换机！.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能70年_从图灵测试到ChatGPT的进化史.md` -> `00_Inbox\04_会议战略\人工智能70年_从图灵测试到ChatGPT的进化史.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能70年：从图灵测试到ChatGPT的进化史.md` -> `00_Inbox\04_会议战略\人工智能70年：从图灵测试到ChatGPT的进化史.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能与人类思维的异同.md` -> `00_Inbox\04_会议战略\人工智能与人类思维的异同.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能与合成生物学的完美结合_一场颠覆性的科技革命.md` -> `00_Inbox\03_研究资料\人工智能与合成生物学的完美结合_一场颠覆性的科技革命.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能助力探索宇宙本源.md` -> `00_Inbox\03_研究资料\人工智能助力探索宇宙本源.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能历史、现状与未来发展战略.md` -> `00_Inbox\04_会议战略\人工智能历史、现状与未来发展战略.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能发展现状与未来思考.md` -> `00_Inbox\04_会议战略\人工智能发展现状与未来思考.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能基础创新的第二增长曲线.md` -> `00_Inbox\03_研究资料\人工智能基础创新的第二增长曲线.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能基础理论与关键技术ppt.pdf.md` -> `00_Inbox\03_研究资料\人工智能基础理论与关键技术ppt.pdf.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能承诺的“应许之地”：人类本能追求的极限_-_知乎.md` -> `00_Inbox\04_会议战略\人工智能承诺的“应许之地”：人类本能追求的极限_-_知乎.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能是不是走错了方向？ (2).md` -> `00_Inbox\04_会议战略\人工智能是不是走错了方向？ (2).md`
+- 迁移 `00_Inbox\文献与碎片\人工智能是不是走错了方向？.md` -> `00_Inbox\04_会议战略\人工智能是不是走错了方向？.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能是新质生产力的引擎：四家党报罕见同日评论人工智能.md` -> `00_Inbox\04_会议战略\人工智能是新质生产力的引擎：四家党报罕见同日评论人工智能.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能本质上是矩阵和向量的计算引擎，在高维空间中找到最佳解.md` -> `00_Inbox\03_研究资料\人工智能本质上是矩阵和向量的计算引擎，在高维空间中找到最佳解.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能根技术_—_美欧_Chiplet_技术发展深度研究；从战略布局到技术创新的全景分析.md` -> `00_Inbox\04_会议战略\人工智能根技术_—_美欧_Chiplet_技术发展深度研究；从战略布局到技术创新的全景分析.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能的本质是什么_.md` -> `00_Inbox\03_研究资料\人工智能的本质是什么_.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能的第一性原理是什么？ (2).md` -> `00_Inbox\04_会议战略\人工智能的第一性原理是什么？ (2).md`
+- 迁移 `00_Inbox\文献与碎片\人工智能的第一性原理是什么？ (3).md` -> `00_Inbox\04_会议战略\人工智能的第一性原理是什么？ (3).md`
+- 迁移 `00_Inbox\文献与碎片\人工智能的第一性原理是什么？.md` -> `00_Inbox\04_会议战略\人工智能的第一性原理是什么？.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能的逻辑极限.md` -> `00_Inbox\04_会议战略\人工智能的逻辑极限.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能相关素材.md` -> `00_Inbox\04_会议战略\人工智能相关素材.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能综述：物理学与人工智能的跨界新范式（全文版本）.md` -> `00_Inbox\04_会议战略\人工智能综述：物理学与人工智能的跨界新范式（全文版本）.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能自主发展出复杂生物大脑特征.md` -> `00_Inbox\03_研究资料\人工智能自主发展出复杂生物大脑特征.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能颠覆战争制胜机理.md` -> `00_Inbox\04_会议战略\人工智能颠覆战争制胜机理.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能（XAI）可解释的综述！.md` -> `00_Inbox\04_会议战略\人工智能（XAI）可解释的综述！.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能：新基建，迎接智能新时代.md` -> `00_Inbox\04_会议战略\人工智能：新基建，迎接智能新时代.md`
+- 迁移 `00_Inbox\文献与碎片\人工智能：科学研究新范式.md` -> `00_Inbox\04_会议战略\人工智能：科学研究新范式.md`
+- 迁移 `00_Inbox\文献与碎片\人工神经网络能否驾驭生物神经元的“浓稠”程度？5到8层可能并非极限.md` -> `00_Inbox\04_会议战略\人工神经网络能否驾驭生物神经元的“浓稠”程度？5到8层可能并非极限.md`
+- 迁移 `00_Inbox\文献与碎片\人物___从“争气机”到晶上革命，他为何成为芯片领域的“破局者”？.md` -> `00_Inbox\04_会议战略\人物___从“争气机”到晶上革命，他为何成为芯片领域的“破局者”？.md`
+- 迁移 `00_Inbox\文献与碎片\人类唯一的出路 变成人工智能 初篇 人类巨灵和大脑结构.md` -> `00_Inbox\04_会议战略\人类唯一的出路 变成人工智能 初篇 人类巨灵和大脑结构.md`
+- 迁移 `00_Inbox\文献与碎片\人类大脑如何工作？五篇计算神经学论文告诉你.md` -> `00_Inbox\03_研究资料\人类大脑如何工作？五篇计算神经学论文告诉你.md`
+- 迁移 `00_Inbox\文献与碎片\人类大脑网络的连接性.md` -> `00_Inbox\03_研究资料\人类大脑网络的连接性.md`
+- 迁移 `00_Inbox\文献与碎片\人类智力超群的重要原因找到了！《科学》研究颠覆对大脑认知.md` -> `00_Inbox\03_研究资料\人类智力超群的重要原因找到了！《科学》研究颠覆对大脑认知.md`
+- 迁移 `00_Inbox\文献与碎片\人类智能如何从大脑中涌现？大脑精细模拟重塑_NeuroAI_范式.md` -> `00_Inbox\03_研究资料\人类智能如何从大脑中涌现？大脑精细模拟重塑_NeuroAI_范式.md`
+- 迁移 `00_Inbox\文献与碎片\人类智能正在迎来第六次突破.md` -> `00_Inbox\04_会议战略\人类智能正在迎来第六次突破.md`
+- 迁移 `00_Inbox\文献与碎片\人类智能：有关推理、逻辑、因果、预测、学习、算法、想法与一切_-_知乎.md` -> `00_Inbox\04_会议战略\人类智能：有关推理、逻辑、因果、预测、学习、算法、想法与一切_-_知乎.md`
+- 迁移 `00_Inbox\文献与碎片\人脑的工作原理__神经网络.md` -> `00_Inbox\03_研究资料\人脑的工作原理__神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\什么是涌现？.md` -> `00_Inbox\04_会议战略\什么是涌现？.md`
+- 迁移 `00_Inbox\文献与碎片\什么是涌现？北师大教授讲清楚了.md` -> `00_Inbox\04_会议战略\什么是涌现？北师大教授讲清楚了.md`
+- 迁移 `00_Inbox\文献与碎片\从_OODA环_到具身智能的思考.md` -> `00_Inbox\04_会议战略\从_OODA环_到具身智能的思考.md`
+- 迁移 `00_Inbox\文献与碎片\从Chiplet到3D-SoC_封装_不只是堆芯片那么简单.md` -> `00_Inbox\04_会议战略\从Chiplet到3D-SoC_封装_不只是堆芯片那么简单.md`
+- 迁移 `00_Inbox\文献与碎片\从Chiplet看半导体产业.md` -> `00_Inbox\03_研究资料\从Chiplet看半导体产业.md`
+- 迁移 `00_Inbox\文献与碎片\从CoWoS走向CoPoS，晶圆从圆形变成方形 (2).md` -> `00_Inbox\04_会议战略\从CoWoS走向CoPoS，晶圆从圆形变成方形 (2).md`
+- 迁移 `00_Inbox\文献与碎片\从CoWoS走向CoPoS，晶圆从圆形变成方形.md` -> `00_Inbox\04_会议战略\从CoWoS走向CoPoS，晶圆从圆形变成方形.md`
+- 迁移 `00_Inbox\文献与碎片\从GPU到基于Chiplet架构的人工智能硬件发展趋势.md` -> `00_Inbox\03_研究资料\从GPU到基于Chiplet架构的人工智能硬件发展趋势.md`
+- 迁移 `00_Inbox\文献与碎片\从GTC25谈谈GPU互联.md` -> `00_Inbox\04_会议战略\从GTC25谈谈GPU互联.md`
+- 迁移 `00_Inbox\文献与碎片\从PINNs到PIKANs_物理信息神经网络的十年发展与未来展望.md` -> `00_Inbox\03_研究资料\从PINNs到PIKANs_物理信息神经网络的十年发展与未来展望.md`
+- 迁移 `00_Inbox\文献与碎片\从因果到涌现：迈向新一代人工智能___陆超超博士访谈.md` -> `00_Inbox\04_会议战略\从因果到涌现：迈向新一代人工智能___陆超超博士访谈.md`
+- 迁移 `00_Inbox\文献与碎片\从复杂神经动力学到智能涌现：基于神经复杂性的类脑人工智能 (2).md` -> `00_Inbox\03_研究资料\从复杂神经动力学到智能涌现：基于神经复杂性的类脑人工智能 (2).md`
+- 迁移 `00_Inbox\文献与碎片\从复杂神经动力学到智能涌现：基于神经复杂性的类脑人工智能.md` -> `00_Inbox\03_研究资料\从复杂神经动力学到智能涌现：基于神经复杂性的类脑人工智能.md`
+- 迁移 `00_Inbox\文献与碎片\从大脑第一性原理的视角看类脑计算 (2).md` -> `00_Inbox\03_研究资料\从大脑第一性原理的视角看类脑计算 (2).md`
+- 迁移 `00_Inbox\文献与碎片\从大脑第一性原理的视角看类脑计算.md` -> `00_Inbox\03_研究资料\从大脑第一性原理的视角看类脑计算.md`
+- 迁移 `00_Inbox\文献与碎片\从微观到宏观：涌现的实质是信息转换？.md` -> `00_Inbox\04_会议战略\从微观到宏观：涌现的实质是信息转换？.md`
+- 迁移 `00_Inbox\文献与碎片\从智能网卡到交换机，网络硬科技投资人踩过的坑_....md` -> `00_Inbox\03_研究资料\从智能网卡到交换机，网络硬科技投资人踩过的坑_....md`
+- 迁移 `00_Inbox\文献与碎片\从智能网卡的产品定义出发，谈谈DPU的投资.md` -> `00_Inbox\04_会议战略\从智能网卡的产品定义出发，谈谈DPU的投资.md`
+- 迁移 `00_Inbox\文献与碎片\从模仿到理解，计算模型可能真的是大脑的归宿｜追问新知.md` -> `00_Inbox\03_研究资料\从模仿到理解，计算模型可能真的是大脑的归宿｜追问新知.md`
+- 迁移 `00_Inbox\文献与碎片\从物竞天择到智能进化，首篇自进化智能体综述的ASI之路.md` -> `00_Inbox\04_会议战略\从物竞天择到智能进化，首篇自进化智能体综述的ASI之路.md`
+- 迁移 `00_Inbox\文献与碎片\从生命到星系，新数学揭示大尺度秩序如何涌现.md` -> `00_Inbox\04_会议战略\从生命到星系，新数学揭示大尺度秩序如何涌现.md`
+- 迁移 `00_Inbox\文献与碎片\从绝望之谷到开悟之坡：中美互联网差距拉大，警惕重大格局性变化.md` -> `00_Inbox\03_研究资料\从绝望之谷到开悟之坡：中美互联网差距拉大，警惕重大格局性变化.md`
+- 迁移 `00_Inbox\文献与碎片\从芯片到数据中心的互联技术大盘点.md` -> `00_Inbox\03_研究资料\从芯片到数据中心的互联技术大盘点.md`
+- 迁移 `00_Inbox\文献与碎片\从计算中心走向算力网络_人工智能悄然“豹变”.md` -> `00_Inbox\04_会议战略\从计算中心走向算力网络_人工智能悄然“豹变”.md`
+- 迁移 `00_Inbox\文献与碎片\从诺奖风向标，到《Nature》雄文：人工智能再度封神，科学范式终将颠覆？.md` -> `00_Inbox\03_研究资料\从诺奖风向标，到《Nature》雄文：人工智能再度封神，科学范式终将颠覆？.md`
+- 迁移 `00_Inbox\文献与碎片\从零解构神经网络和ChatGPT，为什么它有效 大神Wolfram 3万字科技雄文.md` -> `00_Inbox\04_会议战略\从零解构神经网络和ChatGPT，为什么它有效 大神Wolfram 3万字科技雄文.md`
+- 迁移 `00_Inbox\文献与碎片\从零解构神经网络和ChatGPT，为什么它有效____大神Wolfram_3万字科技雄文.md` -> `00_Inbox\04_会议战略\从零解构神经网络和ChatGPT，为什么它有效____大神Wolfram_3万字科技雄文.md`
+- 迁移 `00_Inbox\文献与碎片\从非完整和含噪声的数据中推理复杂网络动力学.md` -> `00_Inbox\03_研究资料\从非完整和含噪声的数据中推理复杂网络动力学.md`
+- 迁移 `00_Inbox\文献与碎片\以智能化为方向推动军队建设高质量发展.md` -> `00_Inbox\04_会议战略\以智能化为方向推动军队建设高质量发展.md`
+- 迁移 `00_Inbox\文献与碎片\仿生触觉系统：脉冲编码与神经形态硬件的融合之路.md` -> `00_Inbox\03_研究资料\仿生触觉系统：脉冲编码与神经形态硬件的融合之路.md`
+- 迁移 `00_Inbox\文献与碎片\仿造一个大脑，就可创造智能？.md` -> `00_Inbox\03_研究资料\仿造一个大脑，就可创造智能？.md`
+- 迁移 `00_Inbox\文献与碎片\伊辛模型：相变是自然界最迷人的现象之一.md` -> `00_Inbox\03_研究资料\伊辛模型：相变是自然界最迷人的现象之一.md`
+- 迁移 `00_Inbox\文献与碎片\你必须要了解的5个神经网络激活函数！.md` -> `00_Inbox\03_研究资料\你必须要了解的5个神经网络激活函数！.md`
+- 迁移 `00_Inbox\文献与碎片\你的大脑如何“连线”？科学家在纳米尺度研究神经网络.md` -> `00_Inbox\03_研究资料\你的大脑如何“连线”？科学家在纳米尺度研究神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\便笺 晶上.md` -> `00_Inbox\03_研究资料\便笺 晶上.md`
+- 迁移 `00_Inbox\文献与碎片\信息转化的涌现：统一理论.md` -> `00_Inbox\03_研究资料\信息转化的涌现：统一理论.md`
+- 迁移 `00_Inbox\文献与碎片\像大脑一样工作：异步感知计算神经拟态芯片Speck实现动态资源分配.md` -> `00_Inbox\03_研究资料\像大脑一样工作：异步感知计算神经拟态芯片Speck实现动态资源分配.md`
+- 迁移 `00_Inbox\文献与碎片\像生物网络一样「生长」，具备「结构可塑性」的自组织神经网络来了.md` -> `00_Inbox\03_研究资料\像生物网络一样「生长」，具备「结构可塑性」的自组织神经网络来了.md`
+- 迁移 `00_Inbox\文献与碎片\先进封装 Chiplet对大陆半导体的战略意义.md` -> `00_Inbox\04_会议战略\先进封装 Chiplet对大陆半导体的战略意义.md`
+- 迁移 `00_Inbox\文献与碎片\先进封装_Chiplet对大陆半导体的战略意义.md` -> `00_Inbox\04_会议战略\先进封装_Chiplet对大陆半导体的战略意义.md`
+- 迁移 `00_Inbox\文献与碎片\先进工艺发展受限，Chiplet将是对冲的技术路径？.md` -> `00_Inbox\04_会议战略\先进工艺发展受限，Chiplet将是对冲的技术路径？.md`
+- 迁移 `00_Inbox\文献与碎片\光学神经网络的最新进展与挑战.md` -> `00_Inbox\04_会议战略\光学神经网络的最新进展与挑战.md`
+- 迁移 `00_Inbox\文献与碎片\光控忆阻器_神经形态视觉系统的传感-记忆-计算协同器件.md` -> `00_Inbox\03_研究资料\光控忆阻器_神经形态视觉系统的传感-记忆-计算协同器件.md`
+- 迁移 `00_Inbox\文献与碎片\光神经网络数字模拟混合矩阵乘法处理器.md` -> `00_Inbox\03_研究资料\光神经网络数字模拟混合矩阵乘法处理器.md`
+- 迁移 `00_Inbox\文献与碎片\全国人大常委会专题讲座：人工智能与智能计算的发展.md` -> `00_Inbox\03_研究资料\全国人大常委会专题讲座：人工智能与智能计算的发展.md`
+- 迁移 `00_Inbox\文献与碎片\全新GPU高速互联设计，为大模型训练降本增效！北大_阶跃_曦智提出新一代高带宽域架构.md` -> `00_Inbox\03_研究资料\全新GPU高速互联设计，为大模型训练降本增效！北大_阶跃_曦智提出新一代高带宽域架构.md`
+- 迁移 `00_Inbox\文献与碎片\全栈开源_RISC-V_开放芯粒_Tenstorrent_Jim_Keller带队_颠覆AI算力格局.md` -> `00_Inbox\04_会议战略\全栈开源_RISC-V_开放芯粒_Tenstorrent_Jim_Keller带队_颠覆AI算力格局.md`
+- 迁移 `00_Inbox\文献与碎片\全球人工智能简史（2024）.md` -> `00_Inbox\04_会议战略\全球人工智能简史（2024）.md`
+- 迁移 `00_Inbox\文献与碎片\全球最大芯片，想用光互联实现4000倍提升.md` -> `00_Inbox\03_研究资料\全球最大芯片，想用光互联实现4000倍提升.md`
+- 迁移 `00_Inbox\文献与碎片\全球首个符合ASIL-D的车规级Chiplet_D2D互连IP流片.md` -> `00_Inbox\04_会议战略\全球首个符合ASIL-D的车规级Chiplet_D2D互连IP流片.md`
+- 迁移 `00_Inbox\文献与碎片\全球首个！7nm世界最大芯片打造AI集群，解锁120万亿「大脑级」AI模型.md` -> `00_Inbox\04_会议战略\全球首个！7nm世界最大芯片打造AI集群，解锁120万亿「大脑级」AI模型.md`
+- 迁移 `00_Inbox\文献与碎片\全球首发！陆兮科技发布760亿参数量级原生类脑AI模型.md` -> `00_Inbox\04_会议战略\全球首发！陆兮科技发布760亿参数量级原生类脑AI模型.md`
+- 迁移 `00_Inbox\文献与碎片\全球首款_类脑智算体“智者一号”发布.md` -> `00_Inbox\03_研究资料\全球首款_类脑智算体“智者一号”发布.md`
+- 迁移 `00_Inbox\文献与碎片\全球首款全光谱可编程光控忆阻器研究突破.md` -> `00_Inbox\03_研究资料\全球首款全光谱可编程光控忆阻器研究突破.md`
+- 迁移 `00_Inbox\文献与碎片\全球首款大规模类脑脉冲大模型SpikingBrain1_0发布.md` -> `00_Inbox\03_研究资料\全球首款大规模类脑脉冲大模型SpikingBrain1_0发布.md`
+- 迁移 `00_Inbox\文献与碎片\全球首篇！调研近400篇文献，鹏城实验室&中大深度解析具身智能.md` -> `00_Inbox\04_会议战略\全球首篇！调研近400篇文献，鹏城实验室&中大深度解析具身智能.md`
+- 迁移 `00_Inbox\文献与碎片\八大神经网络，从原理到应用.md` -> `00_Inbox\03_研究资料\八大神经网络，从原理到应用.md`
+- 迁移 `00_Inbox\文献与碎片\公开反驳！数据科学家直指DeepMind，“强化学习无法实现通用人工智能”.md` -> `00_Inbox\04_会议战略\公开反驳！数据科学家直指DeepMind，“强化学习无法实现通用人工智能”.md`
+- 迁移 `00_Inbox\文献与碎片\共时分享___复杂社会系统中的涌现行为及动力学模式.md` -> `00_Inbox\03_研究资料\共时分享___复杂社会系统中的涌现行为及动力学模式.md`
+- 迁移 `00_Inbox\文献与碎片\关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议 (2).md` -> `00_Inbox\04_会议战略\关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议 (2).md`
+- 迁移 `00_Inbox\文献与碎片\关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议.md` -> `00_Inbox\04_会议战略\关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议.md`
+- 迁移 `00_Inbox\文献与碎片\关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议3.md` -> `00_Inbox\04_会议战略\关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议3.md`
+- 迁移 `00_Inbox\文献与碎片\关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议4.md` -> `00_Inbox\04_会议战略\关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议4.md`
+- 迁移 `00_Inbox\文献与碎片\关于“十五五”布局晶上自主产业链和中试服务平台的_战略性需求与可操作建议.md` -> `00_Inbox\04_会议战略\关于“十五五”布局晶上自主产业链和中试服务平台的_战略性需求与可操作建议.md`
+- 迁移 `00_Inbox\文献与碎片\关于“十五五”超常规布局晶上系统产业场景的战略建议2.md` -> `00_Inbox\04_会议战略\关于“十五五”超常规布局晶上系统产业场景的战略建议2.md`
+- 迁移 `00_Inbox\文献与碎片\关于智能的新思考：我们为什么探索性提出智能三定律？.md` -> `00_Inbox\04_会议战略\关于智能的新思考：我们为什么探索性提出智能三定律？.md`
+- 迁移 `00_Inbox\文献与碎片\关于脉冲神经网络的数学原理 (2).md` -> `00_Inbox\04_会议战略\关于脉冲神经网络的数学原理 (2).md`
+- 迁移 `00_Inbox\文献与碎片\关于脉冲神经网络的数学原理 (3).md` -> `00_Inbox\04_会议战略\关于脉冲神经网络的数学原理 (3).md`
+- 迁移 `00_Inbox\文献与碎片\关于脉冲神经网络的数学原理.md` -> `00_Inbox\04_会议战略\关于脉冲神经网络的数学原理.md`
+- 迁移 `00_Inbox\文献与碎片\具有内在可变性的动态忆阻器内的生成式复杂网络.md` -> `00_Inbox\03_研究资料\具有内在可变性的动态忆阻器内的生成式复杂网络.md`
+- 迁移 `00_Inbox\文献与碎片\具身人工智能全面综述.md` -> `00_Inbox\04_会议战略\具身人工智能全面综述.md`
+- 迁移 `00_Inbox\文献与碎片\具身智能世界模型综述_三轴分类体系与核心挑战__.md` -> `00_Inbox\03_研究资料\具身智能世界模型综述_三轴分类体系与核心挑战__.md`
+- 迁移 `00_Inbox\文献与碎片\具身智能中的世界模型：全面综述.md` -> `00_Inbox\04_会议战略\具身智能中的世界模型：全面综述.md`
+- 迁移 `00_Inbox\文献与碎片\具身智能是通往AGI的必由之路？这七位头部创业者专家是这么说的.md` -> `00_Inbox\04_会议战略\具身智能是通往AGI的必由之路？这七位头部创业者专家是这么说的.md`
+- 迁移 `00_Inbox\文献与碎片\具身智能的基本原理_关键技术_应用场景.md` -> `00_Inbox\04_会议战略\具身智能的基本原理_关键技术_应用场景.md`
+- 迁移 `00_Inbox\文献与碎片\具身智能：人工智能的下一个浪潮（深度）__国君计算机.md` -> `00_Inbox\04_会议战略\具身智能：人工智能的下一个浪潮（深度）__国君计算机.md`
+- 迁移 `00_Inbox\文献与碎片\具身智能：通向人类智慧的未来之路｜智能渐近线.md` -> `00_Inbox\04_会议战略\具身智能：通向人类智慧的未来之路｜智能渐近线.md`
+- 迁移 `00_Inbox\文献与碎片\再来谈谈GPU体系结构及互联.md` -> `00_Inbox\03_研究资料\再来谈谈GPU体系结构及互联.md`
+- 迁移 `00_Inbox\文献与碎片\冗余系统研究：智能汽车的最后安全防线.md` -> `00_Inbox\03_研究资料\冗余系统研究：智能汽车的最后安全防线.md`
+- 迁移 `00_Inbox\文献与碎片\军事智能化的5个主要方向.md` -> `00_Inbox\04_会议战略\军事智能化的5个主要方向.md`
+- 迁移 `00_Inbox\文献与碎片\军事智能化的瓶颈与关键问题研究.md` -> `00_Inbox\04_会议战略\军事智能化的瓶颈与关键问题研究.md`
+- 迁移 `00_Inbox\文献与碎片\分子工程忆阻器_可重构类脑功能的突破性进展.md` -> `00_Inbox\03_研究资料\分子工程忆阻器_可重构类脑功能的突破性进展.md`
+- 迁移 `00_Inbox\文献与碎片\刍议复杂网络理论及其军事运用.md` -> `00_Inbox\03_研究资料\刍议复杂网络理论及其军事运用.md`
+- 迁移 `00_Inbox\文献与碎片\刘云浩老师《具身智能》读书笔记整理.md` -> `00_Inbox\04_会议战略\刘云浩老师《具身智能》读书笔记整理.md`
+- 迁移 `00_Inbox\文献与碎片\刘锋：互联网左右大脑结构与钱学森开放复杂巨系统.md` -> `00_Inbox\04_会议战略\刘锋：互联网左右大脑结构与钱学森开放复杂巨系统.md`
+- 迁移 `00_Inbox\文献与碎片\刘锋：互联网左右大脑结构与钱学森开放复杂巨系统_-_知乎.md` -> `00_Inbox\04_会议战略\刘锋：互联网左右大脑结构与钱学森开放复杂巨系统_-_知乎.md`
+- 迁移 `00_Inbox\文献与碎片\利用宇宙的能力来处理数据！「物理网络」远胜深度神经网络.md` -> `00_Inbox\04_会议战略\利用宇宙的能力来处理数据！「物理网络」远胜深度神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\利用树突特性推进机器学习与类脑计算.md` -> `00_Inbox\03_研究资料\利用树突特性推进机器学习与类脑计算.md`
+- 迁移 `00_Inbox\文献与碎片\前沿综述：大脑结构网络、功能网络和网络控制中的物理学 (2).md` -> `00_Inbox\04_会议战略\前沿综述：大脑结构网络、功能网络和网络控制中的物理学 (2).md`
+- 迁移 `00_Inbox\文献与碎片\前沿综述：大脑结构网络、功能网络和网络控制中的物理学.md` -> `00_Inbox\03_研究资料\前沿综述：大脑结构网络、功能网络和网络控制中的物理学.md`
+- 迁移 `00_Inbox\文献与碎片\加州大学马毅等___论智能起源中的简约与自洽原则.md` -> `00_Inbox\03_研究资料\加州大学马毅等___论智能起源中的简约与自洽原则.md`
+- 迁移 `00_Inbox\文献与碎片\加拿大工程院院士于非：互联——_从质量、能源、信息到智能.md` -> `00_Inbox\04_会议战略\加拿大工程院院士于非：互联——_从质量、能源、信息到智能.md`
+- 迁移 `00_Inbox\文献与碎片\加速器专题----14、嵌入式系统中的神经网络计算.md` -> `00_Inbox\03_研究资料\加速器专题----14、嵌入式系统中的神经网络计算.md`
+- 迁移 `00_Inbox\文献与碎片\加速推进军事智能化_-_中华人民共和国国防部.md` -> `00_Inbox\04_会议战略\加速推进军事智能化_-_中华人民共和国国防部.md`
+- 迁移 `00_Inbox\文献与碎片\动态神经网络_Nature_Machine_Intelligence.md` -> `00_Inbox\03_研究资料\动态神经网络_Nature_Machine_Intelligence.md`
+- 迁移 `00_Inbox\文献与碎片\北京大学_Nature_Electronics_：基于忆阻器的快速可重构内存排序系统！！.md` -> `00_Inbox\04_会议战略\北京大学_Nature_Electronics_：基于忆阻器的快速可重构内存排序系统！！.md`
+- 迁移 `00_Inbox\文献与碎片\北京大学叶乐-黄如院士ISSCC：神经形态芯片+时空特征提取+语音检测.md` -> `00_Inbox\03_研究资料\北京大学叶乐-黄如院士ISSCC：神经形态芯片+时空特征提取+语音检测.md`
+- 迁移 `00_Inbox\文献与碎片\北京大学杨玉超&陶耀宇_Nature_ELectronics_基于忆阻器的快速可重构存内排序系统.md` -> `00_Inbox\03_研究资料\北京大学杨玉超&陶耀宇_Nature_ELectronics_基于忆阻器的快速可重构存内排序系统.md`
+- 迁移 `00_Inbox\文献与碎片\北京大学杨玉超Nature_Electronics：可重构感存算+卷积_循环_脉冲切换.md` -> `00_Inbox\03_研究资料\北京大学杨玉超Nature_Electronics：可重构感存算+卷积_循环_脉冲切换.md`
+- 迁移 `00_Inbox\文献与碎片\北大团队提出高精度模拟矩阵方程求解方案_突破算力瓶颈_开启6G与类脑计算新路径__.md` -> `00_Inbox\03_研究资料\北大团队提出高精度模拟矩阵方程求解方案_突破算力瓶颈_开启6G与类脑计算新路径__.md`
+- 迁移 `00_Inbox\文献与碎片\北大黄铁军___具身智能_RoboBrain_2.0_震撼发布！像人一样理解世界，拿下12项基准SOTA！.md` -> `00_Inbox\04_会议战略\北大黄铁军___具身智能_RoboBrain_2.0_震撼发布！像人一样理解世界，拿下12项基准SOTA！.md`
+- 迁移 `00_Inbox\文献与碎片\北极雄芯渐入“Chiplet产品化元年”，打造自主可控供应链.md` -> `00_Inbox\04_会议战略\北极雄芯渐入“Chiplet产品化元年”，打造自主可控供应链.md`
+- 迁移 `00_Inbox\文献与碎片\华为Fellow廖恒博士Hot_Chips_2025演讲：UB-Mesh超节点互联架构详解（视频+演讲实录）.md` -> `00_Inbox\04_会议战略\华为Fellow廖恒博士Hot_Chips_2025演讲：UB-Mesh超节点互联架构详解（视频+演讲实录）.md`
+- 迁移 `00_Inbox\文献与碎片\华为刘少伟：“IPv6+”智能云网，构建算力时代的联接底座.md` -> `00_Inbox\03_研究资料\华为刘少伟：“IPv6+”智能云网，构建算力时代的联接底座.md`
+- 迁移 `00_Inbox\文献与碎片\华为新架构，并非全光互联.md` -> `00_Inbox\04_会议战略\华为新架构，并非全光互联.md`
+- 迁移 `00_Inbox\文献与碎片\华为智能驾驶芯片深度分析.md` -> `00_Inbox\04_会议战略\华为智能驾驶芯片深度分析.md`
+- 迁移 `00_Inbox\文献与碎片\华为首提“业务驱动基础架构”（SDI）-郭涛的存储世界-51CTO博客.md` -> `00_Inbox\03_研究资料\华为首提“业务驱动基础架构”（SDI）-郭涛的存储世界-51CTO博客.md`
+- 迁移 `00_Inbox\文献与碎片\卷积神经网络之父的强人工智能路线图：自监督，推理，规划.md` -> `00_Inbox\04_会议战略\卷积神经网络之父的强人工智能路线图：自监督，推理，规划.md`
+- 迁移 `00_Inbox\文献与碎片\卷积神经网络（Convolutional_Neural_Network）的重要概念.md` -> `00_Inbox\03_研究资料\卷积神经网络（Convolutional_Neural_Network）的重要概念.md`
+- 迁移 `00_Inbox\文献与碎片\厂商分析与合作策略.md` -> `00_Inbox\04_会议战略\厂商分析与合作策略.md`
+- 迁移 `00_Inbox\文献与碎片\原始人学人工智能——从0开始手算神经网络.md` -> `00_Inbox\04_会议战略\原始人学人工智能——从0开始手算神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\又一组织公布了chiplet互联规范.md` -> `00_Inbox\04_会议战略\又一组织公布了chiplet互联规范.md`
+- 迁移 `00_Inbox\文献与碎片\发改委晶上汇报会议纪要.md` -> `00_Inbox\04_会议战略\发改委晶上汇报会议纪要.md`
+- 迁移 `00_Inbox\文献与碎片\变革性信息技术芯片时代，更多类型的非冯·诺依曼架构芯片涌现.md` -> `00_Inbox\04_会议战略\变革性信息技术芯片时代，更多类型的非冯·诺依曼架构芯片涌现.md`
+- 迁移 `00_Inbox\文献与碎片\可扩展过渡金属二硫族化合物忆阻晶体管阵列_高效人工神经网络的肖特基势垒控制.md` -> `00_Inbox\03_研究资料\可扩展过渡金属二硫族化合物忆阻晶体管阵列_高效人工神经网络的肖特基势垒控制.md`
+- 迁移 `00_Inbox\文献与碎片\可无限扩展的AI处理器：Tenstorrent虫洞_-_极术社区_-_连接开发者与智能计算生态.md` -> `00_Inbox\03_研究资料\可无限扩展的AI处理器：Tenstorrent虫洞_-_极术社区_-_连接开发者与智能计算生态.md`
+- 迁移 `00_Inbox\文献与碎片\台积电先进制程技术路线图揭示人工智能带动半导体产业迈向万亿美元市场.md` -> `00_Inbox\04_会议战略\台积电先进制程技术路线图揭示人工智能带动半导体产业迈向万亿美元市场.md`
+- 迁移 `00_Inbox\文献与碎片\台积电揭秘1.4nm详细规格！功耗暴降30%，秀晶圆级芯片“拼装”神技.md` -> `00_Inbox\04_会议战略\台积电揭秘1.4nm详细规格！功耗暴降30%，秀晶圆级芯片“拼装”神技.md`
+- 迁移 `00_Inbox\文献与碎片\台积电的下一张王牌_晶圆级系统整合_正在重构算力边界.md` -> `00_Inbox\04_会议战略\台积电的下一张王牌_晶圆级系统整合_正在重构算力边界.md`
+- 迁移 `00_Inbox\文献与碎片\台积电的下一张王牌：晶圆级系统整合，正在重构算力边界.md` -> `00_Inbox\04_会议战略\台积电的下一张王牌：晶圆级系统整合，正在重构算力边界.md`
+- 迁移 `00_Inbox\文献与碎片\台积电研究先进芯片封装技术：矩形代替圆形晶圆.md` -> `00_Inbox\04_会议战略\台积电研究先进芯片封装技术：矩形代替圆形晶圆.md`
+- 迁移 `00_Inbox\文献与碎片\台积电详解晶圆级集成：72张图，深度剖析——来自2024_IEDM的分享.md` -> `00_Inbox\04_会议战略\台积电详解晶圆级集成：72张图，深度剖析——来自2024_IEDM的分享.md`
+- 迁移 `00_Inbox\文献与碎片\台积电：Chiplets和3D封装_(47页PPT）.md` -> `00_Inbox\03_研究资料\台积电：Chiplets和3D封装_(47页PPT）.md`
+- 迁移 `00_Inbox\文献与碎片\史上最全类脑软件总结。大脑仿真也好奇：什么时候大模型可以趋近人脑的数量级？.md` -> `00_Inbox\04_会议战略\史上最全类脑软件总结。大脑仿真也好奇：什么时候大模型可以趋近人脑的数量级？.md`
+- 迁移 `00_Inbox\文献与碎片\同济大学 & 耶鲁大学：为物理信息神经网络注入隐藏的物理法则.md` -> `00_Inbox\03_研究资料\同济大学 & 耶鲁大学：为物理信息神经网络注入隐藏的物理法则.md`
+- 迁移 `00_Inbox\文献与碎片\同济大学___耶鲁大学_为物理信息神经网络注入隐藏的物理法则.md` -> `00_Inbox\03_研究资料\同济大学___耶鲁大学_为物理信息神经网络注入隐藏的物理法则.md`
+- 迁移 `00_Inbox\文献与碎片\向大脑学习智能本质，探索通用_AI_的另一条可行路径.md` -> `00_Inbox\04_会议战略\向大脑学习智能本质，探索通用_AI_的另一条可行路径.md`
+- 迁移 `00_Inbox\文献与碎片\启示AGI之路 脑机制自下而上梳理 上部 5万字.md` -> `00_Inbox\03_研究资料\启示AGI之路 脑机制自下而上梳理 上部 5万字.md`
+- 迁移 `00_Inbox\文献与碎片\吴华强团队与iNEST技术互补.md` -> `00_Inbox\03_研究资料\吴华强团队与iNEST技术互补.md`
+- 迁移 `00_Inbox\文献与碎片\周末漫谈_高维流形上的神经网络收敛__Transformer_的数学本质.md` -> `00_Inbox\03_研究资料\周末漫谈_高维流形上的神经网络收敛__Transformer_的数学本质.md`
+- 迁移 `00_Inbox\文献与碎片\因果涌现：用因果量化复杂系统中的涌现｜集智百科.md` -> `00_Inbox\03_研究资料\因果涌现：用因果量化复杂系统中的涌现｜集智百科.md`
+- 迁移 `00_Inbox\文献与碎片\国产智能算力硬件供应，谁在抢跑？.md` -> `00_Inbox\04_会议战略\国产智能算力硬件供应，谁在抢跑？.md`
+- 迁移 `00_Inbox\文献与碎片\国内外研究类脑智能的机构及相关研究内容和成果有哪些？_-_知乎.md` -> `00_Inbox\03_研究资料\国内外研究类脑智能的机构及相关研究内容和成果有哪些？_-_知乎.md`
+- 迁移 `00_Inbox\文献与碎片\国内首个类脑计算芯片标准正式发布！.md` -> `00_Inbox\03_研究资料\国内首个类脑计算芯片标准正式发布！.md`
+- 迁移 `00_Inbox\文献与碎片\国内首颗chiplet_AI芯片，寒武纪发布第三代云端芯片思元370.md` -> `00_Inbox\04_会议战略\国内首颗chiplet_AI芯片，寒武纪发布第三代云端芯片思元370.md`
+- 迁移 `00_Inbox\文献与碎片\国家强化标准话语权，中国Chiplet标准与美国UCIe的“竞与合”.md` -> `00_Inbox\04_会议战略\国家强化标准话语权，中国Chiplet标准与美国UCIe的“竞与合”.md`
+- 迁移 `00_Inbox\文献与碎片\国家电网：人工智能快速发展背景下算力电力协同发展的思考.md` -> `00_Inbox\04_会议战略\国家电网：人工智能快速发展背景下算力电力协同发展的思考.md`
+- 迁移 `00_Inbox\文献与碎片\国家重点实验室组建答辩PPT__人工智能领域_附PPT源文件_.md` -> `00_Inbox\04_会议战略\国家重点实验室组建答辩PPT__人工智能领域_附PPT源文件_.md`
+- 迁移 `00_Inbox\文献与碎片\图灵奖得主、卷积神经网络之父Yann_LeCun_的强人工智能路线图：自监督，推理，规划.md` -> `00_Inbox\04_会议战略\图灵奖得主、卷积神经网络之父Yann_LeCun_的强人工智能路线图：自监督，推理，规划.md`
+- 迁移 `00_Inbox\文献与碎片\图灵奖得主杨立昆：GPT模式五年就不会有人用了，世界模型才是AGI未来.md` -> `00_Inbox\04_会议战略\图灵奖得主杨立昆：GPT模式五年就不会有人用了，世界模型才是AGI未来.md`
+- 迁移 `00_Inbox\文献与碎片\圣塔菲课程：复杂科学简介（七：迭代与非线性）.md` -> `00_Inbox\04_会议战略\圣塔菲课程：复杂科学简介（七：迭代与非线性）.md`
+- 迁移 `00_Inbox\文献与碎片\在_FPGA_上实现并行脉冲神经网络_Spiking_Neural_Net_.md` -> `00_Inbox\03_研究资料\在_FPGA_上实现并行脉冲神经网络_Spiking_Neural_Net_.md`
+- 迁移 `00_Inbox\文献与碎片\在理解通用近似定理之前，你可能都不会理解神经网络.md` -> `00_Inbox\04_会议战略\在理解通用近似定理之前，你可能都不会理解神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\在高速网卡中实现可编程传输协议 - 极术社区 - 连接开发者与智能计算生态.md` -> `00_Inbox\04_会议战略\在高速网卡中实现可编程传输协议 - 极术社区 - 连接开发者与智能计算生态.md`
+- 迁移 `00_Inbox\文献与碎片\基于Chiplet的晶圆级处理器架构设计与路径探索 (2).md` -> `00_Inbox\04_会议战略\基于Chiplet的晶圆级处理器架构设计与路径探索 (2).md`
+- 迁移 `00_Inbox\文献与碎片\基于Chiplet的晶圆级处理器架构设计与路径探索.md` -> `00_Inbox\04_会议战略\基于Chiplet的晶圆级处理器架构设计与路径探索.md`
+- 迁移 `00_Inbox\文献与碎片\基于Chiplet的集成架构综述：EDA视角.md` -> `00_Inbox\04_会议战略\基于Chiplet的集成架构综述：EDA视角.md`
+- 迁移 `00_Inbox\文献与碎片\基于EthZ的以太网ScaleUP互联方案.md` -> `00_Inbox\03_研究资料\基于EthZ的以太网ScaleUP互联方案.md`
+- 迁移 `00_Inbox\文献与碎片\基于SDI_软件定义晶上系统_化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索.md` -> `00_Inbox\03_研究资料\基于SDI_软件定义晶上系统_化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索.md`
+- 迁移 `00_Inbox\文献与碎片\基于SDI的物理Synapse与NN.md` -> `00_Inbox\04_会议战略\基于SDI的物理Synapse与NN.md`
+- 迁移 `00_Inbox\文献与碎片\基于内生复杂性的类脑脉冲大模型“瞬悉1.0”问世.md` -> `00_Inbox\03_研究资料\基于内生复杂性的类脑脉冲大模型“瞬悉1.0”问世.md`
+- 迁移 `00_Inbox\文献与碎片\基于几何图学习的物理系统建模：从动态系统到复杂系统.md` -> `00_Inbox\03_研究资料\基于几何图学习的物理系统建模：从动态系统到复杂系统.md`
+- 迁移 `00_Inbox\文献与碎片\基于宽带隙Ga₂O₃的多功能光电忆阻器_人工突触与神经形态计算应用.md` -> `00_Inbox\03_研究资料\基于宽带隙Ga₂O₃的多功能光电忆阻器_人工突触与神经形态计算应用.md`
+- 迁移 `00_Inbox\文献与碎片\基于忆阻器的储备池图神经网络_RGNN__离子与电子相互作用高效建模研究.md` -> `00_Inbox\03_研究资料\基于忆阻器的储备池图神经网络_RGNN__离子与电子相互作用高效建模研究.md`
+- 迁移 `00_Inbox\文献与碎片\基于忆阻器的神经形态芯片.md` -> `00_Inbox\04_会议战略\基于忆阻器的神经形态芯片.md`
+- 迁移 `00_Inbox\文献与碎片\基于忆阻器的神经网络应用研究.md` -> `00_Inbox\04_会议战略\基于忆阻器的神经网络应用研究.md`
+- 迁移 `00_Inbox\文献与碎片\基于模拟忆阻器的Actor-Critic网络_类脑奖励学习的硬件实现突破.md` -> `00_Inbox\03_研究资料\基于模拟忆阻器的Actor-Critic网络_类脑奖励学习的硬件实现突破.md`
+- 迁移 `00_Inbox\文献与碎片\基于氢键驱动的线性对称人工突触_神经形态计算的突破性进展.md` -> `00_Inbox\03_研究资料\基于氢键驱动的线性对称人工突触_神经形态计算的突破性进展.md`
+- 迁移 `00_Inbox\文献与碎片\基于脉冲神经网络的边缘智能.md` -> `00_Inbox\03_研究资料\基于脉冲神经网络的边缘智能.md`
+- 迁移 `00_Inbox\文献与碎片\基于蟋蟀避障神经回路的忆阻器驱动机器人控制研究.md` -> `00_Inbox\03_研究资料\基于蟋蟀避障神经回路的忆阻器驱动机器人控制研究.md`
+- 迁移 `00_Inbox\文献与碎片\处理器架构革命：神经形态架构将突围？.md` -> `00_Inbox\04_会议战略\处理器架构革命：神经形态架构将突围？.md`
+- 迁移 `00_Inbox\文献与碎片\复旦大学+中科院微电子所Nature_Communications：用于边缘智能的内存引擎中的近阈值忆阻计算.md` -> `00_Inbox\03_研究资料\复旦大学+中科院微电子所Nature_Communications：用于边缘智能的内存引擎中的近阈值忆阻计算.md`
+- 迁移 `00_Inbox\文献与碎片\复杂度的计算.md` -> `00_Inbox\03_研究资料\复杂度的计算.md`
+- 迁移 `00_Inbox\文献与碎片\复杂性 - 集智百科 - 复杂系统 人工智能 复杂科学 复杂网络 自组织.md` -> `00_Inbox\03_研究资料\复杂性 - 集智百科 - 复杂系统 人工智能 复杂科学 复杂网络 自组织.md`
+- 迁移 `00_Inbox\文献与碎片\复杂性思维.md` -> `00_Inbox\03_研究资料\复杂性思维.md`
+- 迁移 `00_Inbox\文献与碎片\复杂性涌现的相变阈值公理.md` -> `00_Inbox\03_研究资料\复杂性涌现的相变阈值公理.md`
+- 迁移 `00_Inbox\文献与碎片\复杂性理论：科学方法的第三个梯级_人工智能学家-CSDN博客.md` -> `00_Inbox\03_研究资料\复杂性理论：科学方法的第三个梯级_人工智能学家-CSDN博客.md`
+- 迁移 `00_Inbox\文献与碎片\复杂科学2021年度精选：从诺贝尔奖到未来科学.md` -> `00_Inbox\04_会议战略\复杂科学2021年度精选：从诺贝尔奖到未来科学.md`
+- 迁移 `00_Inbox\文献与碎片\复杂科学的信息论基础——最大熵原理.md` -> `00_Inbox\04_会议战略\复杂科学的信息论基础——最大熵原理.md`
+- 迁移 `00_Inbox\文献与碎片\复杂系统研究为什么关注信息论？.md` -> `00_Inbox\03_研究资料\复杂系统研究为什么关注信息论？.md`
+- 迁移 `00_Inbox\文献与碎片\复杂网络 节点重要性 基于局部的结构系统(LSS).md` -> `00_Inbox\04_会议战略\复杂网络 节点重要性 基于局部的结构系统(LSS).md`
+- 迁移 `00_Inbox\文献与碎片\复杂网络_节点重要性_GNN-Based.md` -> `00_Inbox\04_会议战略\复杂网络_节点重要性_GNN-Based.md`
+- 迁移 `00_Inbox\文献与碎片\复杂网络与图学习前沿技术全景_从理论基础到工程落地.md` -> `00_Inbox\03_研究资料\复杂网络与图学习前沿技术全景_从理论基础到工程落地.md`
+- 迁移 `00_Inbox\文献与碎片\复杂网络与计算范式相关探讨及配电网相关问题研究.md` -> `00_Inbox\04_会议战略\复杂网络与计算范式相关探讨及配电网相关问题研究.md`
+- 迁移 `00_Inbox\文献与碎片\复杂网络中的重整化群_RG_方法综述与应用.md` -> `00_Inbox\03_研究资料\复杂网络中的重整化群_RG_方法综述与应用.md`
+- 迁移 `00_Inbox\文献与碎片\复杂网络理论奠基之作深度解析__Complex_networks__Structure_and_dynamics_.md` -> `00_Inbox\03_研究资料\复杂网络理论奠基之作深度解析__Complex_networks__Structure_and_dynamics_.md`
+- 迁移 `00_Inbox\文献与碎片\复杂网络的基本概念、模型及应用.md` -> `00_Inbox\03_研究资料\复杂网络的基本概念、模型及应用.md`
+- 迁移 `00_Inbox\文献与碎片\夏强飞一天2篇Nature大子刊_感存算一体_忆阻器阵列模拟计算.md` -> `00_Inbox\03_研究资料\夏强飞一天2篇Nature大子刊_感存算一体_忆阻器阵列模拟计算.md`
+- 迁移 `00_Inbox\文献与碎片\多位院士领衔，第二届集成芯片和芯粒大会开放注册！.md` -> `00_Inbox\04_会议战略\多位院士领衔，第二届集成芯片和芯粒大会开放注册！.md`
+- 迁移 `00_Inbox\文献与碎片\多核片上系统----片上网络体系结构（拓扑、交换）.md` -> `00_Inbox\04_会议战略\多核片上系统----片上网络体系结构（拓扑、交换）.md`
+- 迁移 `00_Inbox\文献与碎片\多突触神经元模型问世，国内团队打造类脑计算新引擎，登上《自然·通讯》.md` -> `00_Inbox\04_会议战略\多突触神经元模型问世，国内团队打造类脑计算新引擎，登上《自然·通讯》.md`
+- 迁移 `00_Inbox\文献与碎片\多者异也：破缺的对称性与科学层级结构的本质___经典回顾.md` -> `00_Inbox\04_会议战略\多者异也：破缺的对称性与科学层级结构的本质___经典回顾.md`
+- 迁移 `00_Inbox\文献与碎片\大数据通识第9讲：神经网络模型.md` -> `00_Inbox\03_研究资料\大数据通识第9讲：神经网络模型.md`
+- 迁移 `00_Inbox\文献与碎片\大模型本体论_从哲学概念到智能涌现的隐形骨架__.md` -> `00_Inbox\03_研究资料\大模型本体论_从哲学概念到智能涌现的隐形骨架__.md`
+- 迁移 `00_Inbox\文献与碎片\大模型本体论：智能涌现背后的知识架构之谜.md` -> `00_Inbox\04_会议战略\大模型本体论：智能涌现背后的知识架构之谜.md`
+- 迁移 `00_Inbox\文献与碎片\大模型芯片与系统专题___软硬协同优化：高能效存内计算的混合专家神经网络架构探索.md` -> `00_Inbox\03_研究资料\大模型芯片与系统专题___软硬协同优化：高能效存内计算的混合专家神经网络架构探索.md`
+- 迁移 `00_Inbox\文献与碎片\大模型：泛化即智能，压缩即一切.md` -> `00_Inbox\03_研究资料\大模型：泛化即智能，压缩即一切.md`
+- 迁移 `00_Inbox\文献与碎片\大白话大模型Transformer架构_-_基于自注意力机制的神经网络结构.md` -> `00_Inbox\03_研究资料\大白话大模型Transformer架构_-_基于自注意力机制的神经网络结构.md`
+- 迁移 `00_Inbox\文献与碎片\大算力未来，HBM、Chiplet和CPO等技术打破性能瓶颈.md` -> `00_Inbox\04_会议战略\大算力未来，HBM、Chiplet和CPO等技术打破性能瓶颈.md`
+- 迁移 `00_Inbox\文献与碎片\大脑中复杂适应动力学的神经调节控制.md` -> `00_Inbox\04_会议战略\大脑中复杂适应动力学的神经调节控制.md`
+- 迁移 `00_Inbox\文献与碎片\大脑中的吸引子：从混沌到记忆的动力学秘密.md` -> `00_Inbox\03_研究资料\大脑中的吸引子：从混沌到记忆的动力学秘密.md`
+- 迁移 `00_Inbox\文献与碎片\大脑为何如此耗能？比较计算与通信的代谢能效.md` -> `00_Inbox\04_会议战略\大脑为何如此耗能？比较计算与通信的代谢能效.md`
+- 迁移 `00_Inbox\文献与碎片\大脑复杂性的演化：一个空间、时间和熵的故事 (2).md` -> `00_Inbox\04_会议战略\大脑复杂性的演化：一个空间、时间和熵的故事 (2).md`
+- 迁移 `00_Inbox\文献与碎片\大脑复杂性的演化：一个空间、时间和熵的故事.md` -> `00_Inbox\04_会议战略\大脑复杂性的演化：一个空间、时间和熵的故事.md`
+- 迁移 `00_Inbox\文献与碎片\大脑复杂性的演化：一个空间、时间和熵的故事_腾讯新闻.md` -> `00_Inbox\04_会议战略\大脑复杂性的演化：一个空间、时间和熵的故事_腾讯新闻.md`
+- 迁移 `00_Inbox\文献与碎片\大脑活动与认知__热力学与信息论的联系.md` -> `00_Inbox\04_会议战略\大脑活动与认知__热力学与信息论的联系.md`
+- 迁移 `00_Inbox\文献与碎片\大脑网络的隐藏结构_科学家如何用数学解锁思维之谜.md` -> `00_Inbox\03_研究资料\大脑网络的隐藏结构_科学家如何用数学解锁思维之谜.md`
+- 迁移 `00_Inbox\文献与碎片\大脑认知的「复杂性红利」：简单就足够好.md` -> `00_Inbox\04_会议战略\大脑认知的「复杂性红利」：简单就足够好.md`
+- 迁移 `00_Inbox\文献与碎片\大脑设计.md` -> `00_Inbox\03_研究资料\大脑设计.md`
+- 迁移 `00_Inbox\文献与碎片\大脑需要怎样的神经网络结构来安放意识？.md` -> `00_Inbox\04_会议战略\大脑需要怎样的神经网络结构来安放意识？.md`
+- 迁移 `00_Inbox\文献与碎片\大规模类脑计算的发展_机遇与挑战综述.md` -> `00_Inbox\03_研究资料\大规模类脑计算的发展_机遇与挑战综述.md`
+- 迁移 `00_Inbox\文献与碎片\天大教授PPT分享 低空智能：从感知推理迈向群体具身（免费下载）.md` -> `00_Inbox\03_研究资料\天大教授PPT分享 低空智能：从感知推理迈向群体具身（免费下载）.md`
+- 迁移 `00_Inbox\文献与碎片\天大胡文平院士AM_用于神经形态计算的浮栅晶体管.md` -> `00_Inbox\03_研究资料\天大胡文平院士AM_用于神经形态计算的浮栅晶体管.md`
+- 迁移 `00_Inbox\文献与碎片\天津市人民政府办公厅关于印发天津市建设国家新一代人工智能创新发展试验区行动计划的通知_天津市人民政府办公厅_天津政务网.md` -> `00_Inbox\04_会议战略\天津市人民政府办公厅关于印发天津市建设国家新一代人工智能创新发展试验区行动计划的通知_天津市人民政府办公厅_天津政务网.md`
+- 迁移 `00_Inbox\文献与碎片\如何利用Chiplet循序渐进发展国产芯片？.md` -> `00_Inbox\04_会议战略\如何利用Chiplet循序渐进发展国产芯片？.md`
+- 迁移 `00_Inbox\文献与碎片\如何理解智能的本质？智能究竟是一种可以完全通过算法描述和复制的功能，还是涉及某种尚未被科学完全理解的复杂现象？.md` -> `00_Inbox\04_会议战略\如何理解智能的本质？智能究竟是一种可以完全通过算法描述和复制的功能，还是涉及某种尚未被科学完全理解的复杂现象？.md`
+- 迁移 `00_Inbox\文献与碎片\存在几何学_信息拓扑学___论一种作为信息形态学的哲学重构.md` -> `00_Inbox\03_研究资料\存在几何学_信息拓扑学___论一种作为信息形态学的哲学重构.md`
+- 迁移 `00_Inbox\文献与碎片\孙凝晖 智能时代的信息基础设施.md` -> `00_Inbox\03_研究资料\孙凝晖 智能时代的信息基础设施.md`
+- 迁移 `00_Inbox\文献与碎片\学术前沿___北京大学团队推出革命性光子计算芯片：实现多功能神经网络重构.md` -> `00_Inbox\03_研究资料\学术前沿___北京大学团队推出革命性光子计算芯片：实现多功能神经网络重构.md`
+- 迁移 `00_Inbox\文献与碎片\学术前沿丨摆脱GPU依赖！Nature发布「物理神经网络」综述：实现大规模、高效AI训练与推理.md` -> `00_Inbox\03_研究资料\学术前沿丨摆脱GPU依赖！Nature发布「物理神经网络」综述：实现大规模、高效AI训练与推理.md`
+- 迁移 `00_Inbox\文献与碎片\对工业互联网几个基本问题的思考.md` -> `00_Inbox\04_会议战略\对工业互联网几个基本问题的思考.md`
+- 迁移 `00_Inbox\文献与碎片\对称性破缺与涌现：对称性如何帮助理解生命和智能？.md` -> `00_Inbox\03_研究资料\对称性破缺与涌现：对称性如何帮助理解生命和智能？.md`
+- 迁移 `00_Inbox\文献与碎片\对话李国杰院士：突破麦肯锡和图灵的框框，人工智能要解决大问题.md` -> `00_Inbox\04_会议战略\对话李国杰院士：突破麦肯锡和图灵的框框，人工智能要解决大问题.md`
+- 迁移 `00_Inbox\文献与碎片\对话顶级键合技术专家：晶圆键合如何超越摩尔定律？｜甲子光年-今日头条.md` -> `00_Inbox\04_会议战略\对话顶级键合技术专家：晶圆键合如何超越摩尔定律？｜甲子光年-今日头条.md`
+- 迁移 `00_Inbox\文献与碎片\封装重构算力边界_多芯粒异构集成互联技术全景解析.md` -> `00_Inbox\04_会议战略\封装重构算力边界_多芯粒异构集成互联技术全景解析.md`
+- 迁移 `00_Inbox\文献与碎片\封面___光子集成电路快速重构新范式：基于伊辛智能计算的高效求解方案.md` -> `00_Inbox\03_研究资料\封面___光子集成电路快速重构新范式：基于伊辛智能计算的高效求解方案.md`
+- 迁移 `00_Inbox\文献与碎片\封面文章___数学家尝试连接图论与分形：可能成为复杂网络新的理论基础.md` -> `00_Inbox\03_研究资料\封面文章___数学家尝试连接图论与分形：可能成为复杂网络新的理论基础.md`
+- 迁移 `00_Inbox\文献与碎片\小芯片互联迈出关键一步！UCIe_IP成功实现跨厂商互操作.md` -> `00_Inbox\04_会议战略\小芯片互联迈出关键一步！UCIe_IP成功实现跨厂商互操作.md`
+- 迁移 `00_Inbox\文献与碎片\尤政院士阐述智能微系统的本质.md` -> `00_Inbox\04_会议战略\尤政院士阐述智能微系统的本质.md`
+- 迁移 `00_Inbox\文献与碎片\尼克老师《计算与智能的第一性原理》第五讲——计算与能耗：灵魂消耗能量吗？.md` -> `00_Inbox\04_会议战略\尼克老师《计算与智能的第一性原理》第五讲——计算与能耗：灵魂消耗能量吗？.md`
+- 迁移 `00_Inbox\文献与碎片\层级跃迁.md` -> `00_Inbox\03_研究资料\层级跃迁.md`
+- 迁移 `00_Inbox\文献与碎片\巨头竞逐Chiplet.md` -> `00_Inbox\04_会议战略\巨头竞逐Chiplet.md`
+- 迁移 `00_Inbox\文献与碎片\干掉中介层，这家公司或带来chiplet革命！.md` -> `00_Inbox\04_会议战略\干掉中介层，这家公司或带来chiplet革命！.md`
+- 迁移 `00_Inbox\文献与碎片\康奈尔大学开发世界首款“微波大脑”芯片.md` -> `00_Inbox\03_研究资料\康奈尔大学开发世界首款“微波大脑”芯片.md`
+- 迁移 `00_Inbox\文献与碎片\开封会议_（6月6日）.md` -> `00_Inbox\04_会议战略\开封会议_（6月6日）.md`
+- 迁移 `00_Inbox\文献与碎片\异构计算的网，铺成智能时代的路.md` -> `00_Inbox\04_会议战略\异构计算的网，铺成智能时代的路.md`
+- 迁移 `00_Inbox\文献与碎片\张一鸣如何决策.md` -> `00_Inbox\03_研究资料\张一鸣如何决策.md`
+- 迁移 `00_Inbox\文献与碎片\张亚勤院士谈“智能计算新趋势”.md` -> `00_Inbox\04_会议战略\张亚勤院士谈“智能计算新趋势”.md`
+- 迁移 `00_Inbox\文献与碎片\张亚勤｜智能科学：无尽的前沿.md` -> `00_Inbox\04_会议战略\张亚勤｜智能科学：无尽的前沿.md`
+- 迁移 `00_Inbox\文献与碎片\张旭：智能时代的脑科学与类脑智能研究.md` -> `00_Inbox\03_研究资料\张旭：智能时代的脑科学与类脑智能研究.md`
+- 迁移 `00_Inbox\文献与碎片\张晓东教授《计算与智能的第一性原理》第一讲：计算与智能的原理视角（综述）.md` -> `00_Inbox\04_会议战略\张晓东教授《计算与智能的第一性原理》第一讲：计算与智能的原理视角（综述）.md`
+- 迁移 `00_Inbox\文献与碎片\张江：从复杂科学视角，追问生命是什么___【生命是什么？研讨会】.md` -> `00_Inbox\04_会议战略\张江：从复杂科学视角，追问生命是什么___【生命是什么？研讨会】.md`
+- 迁移 `00_Inbox\文献与碎片\张翼成：从复杂科学到信息经济学，迈向下一场信息革命___周一直播·复杂经济学读书会.md` -> `00_Inbox\04_会议战略\张翼成：从复杂科学到信息经济学，迈向下一场信息革命___周一直播·复杂经济学读书会.md`
+- 迁移 `00_Inbox\文献与碎片\张钹院士：从人工智能三要素走向四要素之路.md` -> `00_Inbox\04_会议战略\张钹院士：从人工智能三要素走向四要素之路.md`
+- 迁移 `00_Inbox\文献与碎片\强涌现的可计算性_一种新科学范式的哲学审视.md` -> `00_Inbox\04_会议战略\强涌现的可计算性_一种新科学范式的哲学审视.md`
+- 迁移 `00_Inbox\文献与碎片\强涌现的可计算性：一种新科学范式的哲学审视.md` -> `00_Inbox\04_会议战略\强涌现的可计算性：一种新科学范式的哲学审视.md`
+- 迁移 `00_Inbox\文献与碎片\当大脑结构成为模型结构_BrainStack_的神经科学驱动式_MoE_革命.md` -> `00_Inbox\03_研究资料\当大脑结构成为模型结构_BrainStack_的神经科学驱动式_MoE_革命.md`
+- 迁移 `00_Inbox\文献与碎片\当机器学习遇见拓扑：拓扑数据分析与拓扑深度学习.md` -> `00_Inbox\04_会议战略\当机器学习遇见拓扑：拓扑数据分析与拓扑深度学习.md`
+- 迁移 `00_Inbox\文献与碎片\当神经网络遇见物理：PINN的原理应用及代码实现 (2).md` -> `00_Inbox\03_研究资料\当神经网络遇见物理：PINN的原理应用及代码实现 (2).md`
+- 迁移 `00_Inbox\文献与碎片\当神经网络遇见物理：PINN的原理应用及代码实现 (3).md` -> `00_Inbox\03_研究资料\当神经网络遇见物理：PINN的原理应用及代码实现 (3).md`
+- 迁移 `00_Inbox\文献与碎片\当神经网络遇见物理：PINN的原理应用及代码实现.md` -> `00_Inbox\03_研究资料\当神经网络遇见物理：PINN的原理应用及代码实现.md`
+- 迁移 `00_Inbox\文献与碎片\往期精彩_Nature子刊：新发现！大脑如何处理空间和时间信息.md` -> `00_Inbox\03_研究资料\往期精彩_Nature子刊：新发现！大脑如何处理空间和时间信息.md`
+- 迁移 `00_Inbox\文献与碎片\微分方程求解的_“智能进化”：从_PINN_到新一代神经网络方法.md` -> `00_Inbox\03_研究资料\微分方程求解的_“智能进化”：从_PINN_到新一代神经网络方法.md`
+- 迁移 `00_Inbox\文献与碎片\微分流形_从局部欧几里得结构到整体几何与拓扑.md` -> `00_Inbox\03_研究资料\微分流形_从局部欧几里得结构到整体几何与拓扑.md`
+- 迁移 `00_Inbox\文献与碎片\微积分的未来：DNA、非线性、混沌、复杂系统与人工智能.md` -> `00_Inbox\04_会议战略\微积分的未来：DNA、非线性、混沌、复杂系统与人工智能.md`
+- 迁移 `00_Inbox\文献与碎片\心智的六个阶段：从混沌到开悟的旅程.md` -> `00_Inbox\03_研究资料\心智的六个阶段：从混沌到开悟的旅程.md`
+- 迁移 `00_Inbox\文献与碎片\忆阻器与谷歌Robotics_ER结合的科研路线.md` -> `00_Inbox\04_会议战略\忆阻器与谷歌Robotics_ER结合的科研路线.md`
+- 迁移 `00_Inbox\文献与碎片\忆阻器网络.md` -> `00_Inbox\03_研究资料\忆阻器网络.md`
+- 迁移 `00_Inbox\文献与碎片\忆阻器网络优化方案.md` -> `00_Inbox\03_研究资料\忆阻器网络优化方案.md`
+- 迁移 `00_Inbox\文献与碎片\忆阻器网络频谱提取.md` -> `00_Inbox\03_研究资料\忆阻器网络频谱提取.md`
+- 迁移 `00_Inbox\文献与碎片\忆阻器解决人工智能的用电问题.md` -> `00_Inbox\03_研究资料\忆阻器解决人工智能的用电问题.md`
+- 迁移 `00_Inbox\文献与碎片\思科推出基于以太网的人工智能网络.md` -> `00_Inbox\03_研究资料\思科推出基于以太网的人工智能网络.md`
+- 迁移 `00_Inbox\文献与碎片\感存算一体化智能视觉芯片的展望丨Engineering.md` -> `00_Inbox\04_会议战略\感存算一体化智能视觉芯片的展望丨Engineering.md`
+- 迁移 `00_Inbox\文献与碎片\戴琼海院士团队___面向大规模数据的高效超图神经网络.md` -> `00_Inbox\03_研究资料\戴琼海院士团队___面向大规模数据的高效超图神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\戴琼海院士：人工智能未来——发现、理解与创造.md` -> `00_Inbox\04_会议战略\戴琼海院士：人工智能未来——发现、理解与创造.md`
+- 迁移 `00_Inbox\文献与碎片\打破Chiplet的最后一道屏障：全新互联标准UCIe宣告成立.md` -> `00_Inbox\03_研究资料\打破Chiplet的最后一道屏障：全新互联标准UCIe宣告成立.md`
+- 迁移 `00_Inbox\文献与碎片\打破Transformer霸权！全新液态神经网络刷爆SOTA！.md` -> `00_Inbox\03_研究资料\打破Transformer霸权！全新液态神经网络刷爆SOTA！.md`
+- 迁移 `00_Inbox\文献与碎片\打破中国半导体“依赖症”，从Chiplet做起.md` -> `00_Inbox\04_会议战略\打破中国半导体“依赖症”，从Chiplet做起.md`
+- 迁移 `00_Inbox\文献与碎片\打赢未来智能化战争要掌握这些规律.md` -> `00_Inbox\04_会议战略\打赢未来智能化战争要掌握这些规律.md`
+- 迁移 `00_Inbox\文献与碎片\拓扑深度学习捕捉数据的高阶关系_信息传递拓扑神经网络概述.md` -> `00_Inbox\03_研究资料\拓扑深度学习捕捉数据的高阶关系_信息传递拓扑神经网络概述.md`
+- 迁移 `00_Inbox\文献与碎片\拓扑深度学习是理性学习的最前沿.md` -> `00_Inbox\03_研究资料\拓扑深度学习是理性学习的最前沿.md`
+- 迁移 `00_Inbox\文献与碎片\挑战Nvlink，华为推出互联技术，即将开源.md` -> `00_Inbox\04_会议战略\挑战Nvlink，华为推出互联技术，即将开源.md`
+- 迁移 `00_Inbox\文献与碎片\探索AGI系列___番外01._（全新视角理解）Transformer和大脑新皮质的一致性（万字长文预警）.md` -> `00_Inbox\04_会议战略\探索AGI系列___番外01._（全新视角理解）Transformer和大脑新皮质的一致性（万字长文预警）.md`
+- 迁移 `00_Inbox\文献与碎片\控制具有复杂节点的复杂网络.md` -> `00_Inbox\03_研究资料\控制具有复杂节点的复杂网络.md`
+- 迁移 `00_Inbox\文献与碎片\推出近一年、1.2万亿晶体管、一整片晶圆打造的史上最大芯片战况如何？价格几何？.md` -> `00_Inbox\04_会议战略\推出近一年、1.2万亿晶体管、一整片晶圆打造的史上最大芯片战况如何？价格几何？.md`
+- 迁移 `00_Inbox\文献与碎片\推荐：刘主任讲_为何SDSoW是智能时代的标志性芯物种？.md` -> `00_Inbox\03_研究资料\推荐：刘主任讲_为何SDSoW是智能时代的标志性芯物种？.md`
+- 迁移 `00_Inbox\文献与碎片\揭示不一致的神经单元_MIT等提出受生物学启发的大脑模型_首次直接关联神经生理活动与认知功能.md` -> `00_Inbox\03_研究资料\揭示不一致的神经单元_MIT等提出受生物学启发的大脑模型_首次直接关联神经生理活动与认知功能.md`
+- 迁移 `00_Inbox\文献与碎片\揭示卷积神经网络（CNN）与专家混合模型（MoE）的内在等价性：一个数学视角.md` -> `00_Inbox\03_研究资料\揭示卷积神经网络（CNN）与专家混合模型（MoE）的内在等价性：一个数学视角.md`
+- 迁移 `00_Inbox\文献与碎片\揭秘人类大脑的进化机制.md` -> `00_Inbox\04_会议战略\揭秘人类大脑的进化机制.md`
+- 迁移 `00_Inbox\文献与碎片\揭秘突触可塑性：神经科学的核心机制.md` -> `00_Inbox\03_研究资料\揭秘突触可塑性：神经科学的核心机制.md`
+- 迁移 `00_Inbox\文献与碎片\揭秘：国内互联网大厂BBAT自研芯片.md` -> `00_Inbox\04_会议战略\揭秘：国内互联网大厂BBAT自研芯片.md`
+- 迁移 `00_Inbox\文献与碎片\揭秘：美国百亿亿级超算内部超级互联技术.md` -> `00_Inbox\04_会议战略\揭秘：美国百亿亿级超算内部超级互联技术.md`
+- 迁移 `00_Inbox\文献与碎片\摆脱GPU依赖！Nature发布「物理神经网络」综述：实现大规模、高效AI训练与推理.md` -> `00_Inbox\03_研究资料\摆脱GPU依赖！Nature发布「物理神经网络」综述：实现大规模、高效AI训练与推理.md`
+- 迁移 `00_Inbox\文献与碎片\数学与人工智能.md` -> `00_Inbox\04_会议战略\数学与人工智能.md`
+- 迁移 `00_Inbox\文献与碎片\数学家发现了用于理解混沌系统的工具，对科学具有深远的影响_-_知乎.md` -> `00_Inbox\04_会议战略\数学家发现了用于理解混沌系统的工具，对科学具有深远的影响_-_知乎.md`
+- 迁移 `00_Inbox\文献与碎片\数据科学与计算智能：内涵、范式与机遇.md` -> `00_Inbox\04_会议战略\数据科学与计算智能：内涵、范式与机遇.md`
+- 迁移 `00_Inbox\文献与碎片\文献分享___Nature_methods：通过人工神经网络构建孪生脑来推断脑网络因果关系.md` -> `00_Inbox\03_研究资料\文献分享___Nature_methods：通过人工神经网络构建孪生脑来推断脑网络因果关系.md`
+- 迁移 `00_Inbox\文献与碎片\新一代人工智能在国防科技领域发展探讨.md` -> `00_Inbox\04_会议战略\新一代人工智能在国防科技领域发展探讨.md`
+- 迁移 `00_Inbox\文献与碎片\新加坡A_STAR_IME：多芯粒(chiplet)异构集成互联技术(2.5D_3D封装、CPO).md` -> `00_Inbox\03_研究资料\新加坡A_STAR_IME：多芯粒(chiplet)异构集成互联技术(2.5D_3D封装、CPO).md`
+- 迁移 `00_Inbox\文献与碎片\新加坡IME__多芯粒异构集成互连技术.md` -> `00_Inbox\04_会议战略\新加坡IME__多芯粒异构集成互连技术.md`
+- 迁移 `00_Inbox\文献与碎片\新范式，智能的本质不是算法，而是高维空间中的一种几何结构？智能的本质是数学，所有大模型正秘密融合，通用“心智”即将诞生.md` -> `00_Inbox\03_研究资料\新范式，智能的本质不是算法，而是高维空间中的一种几何结构？智能的本质是数学，所有大模型正秘密融合，通用“心智”即将诞生.md`
+- 迁移 `00_Inbox\文献与碎片\无人化智能化战争形态下的作战体系建设问题思考.md` -> `00_Inbox\04_会议战略\无人化智能化战争形态下的作战体系建设问题思考.md`
+- 迁移 `00_Inbox\文献与碎片\无反向传播的_4D_连续蚁群神经网络拓扑搜索.md` -> `00_Inbox\03_研究资料\无反向传播的_4D_连续蚁群神经网络拓扑搜索.md`
+- 迁移 `00_Inbox\文献与碎片\时效网络富人俱乐部：怎样衡量动态复杂网络枢纽的演化？.md` -> `00_Inbox\04_会议战略\时效网络富人俱乐部：怎样衡量动态复杂网络枢纽的演化？.md`
+- 迁移 `00_Inbox\文献与碎片\时空复杂度乘积定理的推导.md` -> `00_Inbox\03_研究资料\时空复杂度乘积定理的推导.md`
+- 迁移 `00_Inbox\文献与碎片\时间之森：赫布集群、突触可塑性与神经振荡.md` -> `00_Inbox\03_研究资料\时间之森：赫布集群、突触可塑性与神经振荡.md`
+- 迁移 `00_Inbox\文献与碎片\是真的！21世纪的科学革命由“拓扑学”推动，得拓扑者得天下！.md` -> `00_Inbox\03_研究资料\是真的！21世纪的科学革命由“拓扑学”推动，得拓扑者得天下！.md`
+- 迁移 `00_Inbox\文献与碎片\晶上中心筹建方案.md` -> `00_Inbox\04_会议战略\晶上中心筹建方案.md`
+- 迁移 `00_Inbox\文献与碎片\晶上产业生态规划.md` -> `00_Inbox\04_会议战略\晶上产业生态规划.md`
+- 迁移 `00_Inbox\文献与碎片\晶上产业集群技术路线规划.md` -> `00_Inbox\04_会议战略\晶上产业集群技术路线规划.md`
+- 迁移 `00_Inbox\文献与碎片\晶上任务.md` -> `00_Inbox\04_会议战略\晶上任务.md`
+- 迁移 `00_Inbox\文献与碎片\晶上大脑基础研究课题.md` -> `00_Inbox\04_会议战略\晶上大脑基础研究课题.md`
+- 迁移 `00_Inbox\文献与碎片\晶上智能网络基础研究与关键技术项目布局.md` -> `00_Inbox\04_会议战略\晶上智能网络基础研究与关键技术项目布局.md`
+- 迁移 `00_Inbox\文献与碎片\晶上核心事项.md` -> `00_Inbox\03_研究资料\晶上核心事项.md`
+- 迁移 `00_Inbox\文献与碎片\晶上汇报要点.md` -> `00_Inbox\04_会议战略\晶上汇报要点.md`
+- 迁移 `00_Inbox\文献与碎片\晶上演讲.md` -> `00_Inbox\03_研究资料\晶上演讲.md`
+- 迁移 `00_Inbox\文献与碎片\晶上理论_技术_工程与项目.md` -> `00_Inbox\04_会议战略\晶上理论_技术_工程与项目.md`
+- 迁移 `00_Inbox\文献与碎片\晶上生态.pptx.md` -> `00_Inbox\03_研究资料\晶上生态.pptx.md`
+- 迁移 `00_Inbox\文献与碎片\晶上电子电气架构.md` -> `00_Inbox\03_研究资料\晶上电子电气架构.md`
+- 迁移 `00_Inbox\文献与碎片\晶上类脑的源起_内涵与规划.md` -> `00_Inbox\04_会议战略\晶上类脑的源起_内涵与规划.md`
+- 迁移 `00_Inbox\文献与碎片\晶上网络赋能超非线性增益.md` -> `00_Inbox\03_研究资料\晶上网络赋能超非线性增益.md`
+- 迁移 `00_Inbox\文献与碎片\晶上联盟在产业集群中的定位与可持续发展路径设计.md` -> `00_Inbox\04_会议战略\晶上联盟在产业集群中的定位与可持续发展路径设计.md`
+- 迁移 `00_Inbox\文献与碎片\晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_.md` -> `00_Inbox\04_会议战略\晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_.md`
+- 迁移 `00_Inbox\文献与碎片\晶上自演化网络涌现智能_机理_技术与未来.md` -> `00_Inbox\03_研究资料\晶上自演化网络涌现智能_机理_技术与未来.md`
+- 迁移 `00_Inbox\文献与碎片\晶上进展与规划（20240606）.pptx.md` -> `00_Inbox\04_会议战略\晶上进展与规划（20240606）.pptx.md`
+- 迁移 `00_Inbox\文献与碎片\晶圆四雄，都顶不住了！.md` -> `00_Inbox\04_会议战略\晶圆四雄，都顶不住了！.md`
+- 迁移 `00_Inbox\文献与碎片\晶圆级LLM推理系统介绍.md` -> `00_Inbox\04_会议战略\晶圆级LLM推理系统介绍.md`
+- 迁移 `00_Inbox\文献与碎片\晶圆级SDI互联架构与最优扇出高维拓扑_面向大模型的网内计算设计.md` -> `00_Inbox\03_研究资料\晶圆级SDI互联架构与最优扇出高维拓扑_面向大模型的网内计算设计.md`
+- 迁移 `00_Inbox\文献与碎片\晶圆级光收发器技术.md` -> `00_Inbox\04_会议战略\晶圆级光收发器技术.md`
+- 迁移 `00_Inbox\文献与碎片\晶圆级封装前景深度解读.md` -> `00_Inbox\04_会议战略\晶圆级封装前景深度解读.md`
+- 迁移 `00_Inbox\文献与碎片\晶圆级封装的前世今生.md` -> `00_Inbox\04_会议战略\晶圆级封装的前世今生.md`
+- 迁移 `00_Inbox\文献与碎片\晶圆级忆阻器无源交叉阵列制造技术_脑规模神经形态计算突破__.md` -> `00_Inbox\03_研究资料\晶圆级忆阻器无源交叉阵列制造技术_脑规模神经形态计算突破__.md`
+- 迁移 `00_Inbox\文献与碎片\晶圆级芯片，是未来.md` -> `00_Inbox\03_研究资料\晶圆级芯片，是未来.md`
+- 迁移 `00_Inbox\文献与碎片\晶圆级集成技术用于人工智能处理器设计.md` -> `00_Inbox\04_会议战略\晶圆级集成技术用于人工智能处理器设计.md`
+- 迁移 `00_Inbox\文献与碎片\智能为何诞生在临界点_从人脑磁图到大语言模型的重整化线索.md` -> `00_Inbox\04_会议战略\智能为何诞生在临界点_从人脑磁图到大语言模型的重整化线索.md`
+- 迁移 `00_Inbox\文献与碎片\智能体竟能自行组建通信网络，还能自创协议提升通信效率.md` -> `00_Inbox\03_研究资料\智能体竟能自行组建通信网络，还能自创协议提升通信效率.md`
+- 迁移 `00_Inbox\文献与碎片\智能体综述：起源、演进与大模型时代的新内涵.md` -> `00_Inbox\04_会议战略\智能体综述：起源、演进与大模型时代的新内涵.md`
+- 迁移 `00_Inbox\文献与碎片\智能化下的新电子电气架构.md` -> `00_Inbox\03_研究资料\智能化下的新电子电气架构.md`
+- 迁移 `00_Inbox\文献与碎片\智能化战争中左右战争胜负的新变量：连接力、计算力、认知力.md` -> `00_Inbox\04_会议战略\智能化战争中左右战争胜负的新变量：连接力、计算力、认知力.md`
+- 迁移 `00_Inbox\文献与碎片\智能化战争中的OODA环.md` -> `00_Inbox\04_会议战略\智能化战争中的OODA环.md`
+- 迁移 `00_Inbox\文献与碎片\智能和意识的数学表达.md` -> `00_Inbox\03_研究资料\智能和意识的数学表达.md`
+- 迁移 `00_Inbox\文献与碎片\智能定义：从物理第一原理设计智能生态系统_“Model_evidence_is_all_you_need”.md` -> `00_Inbox\03_研究资料\智能定义：从物理第一原理设计智能生态系统_“Model_evidence_is_all_you_need”.md`
+- 迁移 `00_Inbox\文献与碎片\智能是什么？.md` -> `00_Inbox\04_会议战略\智能是什么？.md`
+- 迁移 `00_Inbox\文献与碎片\智能本质思考.md` -> `00_Inbox\03_研究资料\智能本质思考.md`
+- 迁移 `00_Inbox\文献与碎片\智能涌现阈值.md` -> `00_Inbox\03_研究资料\智能涌现阈值.md`
+- 迁移 `00_Inbox\文献与碎片\智能的动力学本质_从无人机集群到意识涌现的范式重构.md` -> `00_Inbox\03_研究资料\智能的动力学本质_从无人机集群到意识涌现的范式重构.md`
+- 迁移 `00_Inbox\文献与碎片\智能的本质.md` -> `00_Inbox\03_研究资料\智能的本质.md`
+- 迁移 `00_Inbox\文献与碎片\智能的本质不是数据、算法、算力和知识（一）.md` -> `00_Inbox\04_会议战略\智能的本质不是数据、算法、算力和知识（一）.md`
+- 迁移 `00_Inbox\文献与碎片\智能的本质：人工智能与人类智能_-_知乎.md` -> `00_Inbox\03_研究资料\智能的本质：人工智能与人类智能_-_知乎.md`
+- 迁移 `00_Inbox\文献与碎片\智能的本质：人类智能与人工智能 - 金色小蜜蜂 - 博客园.md` -> `00_Inbox\04_会议战略\智能的本质：人类智能与人工智能 - 金色小蜜蜂 - 博客园.md`
+- 迁移 `00_Inbox\文献与碎片\智能算力.md` -> `00_Inbox\04_会议战略\智能算力.md`
+- 迁移 `00_Inbox\文献与碎片\智能算力中心AI大模型高性能网络解决方案介绍 2024.md` -> `00_Inbox\04_会议战略\智能算力中心AI大模型高性能网络解决方案介绍 2024.md`
+- 迁移 `00_Inbox\文献与碎片\智能网联车载网络芯片.md` -> `00_Inbox\04_会议战略\智能网联车载网络芯片.md`
+- 迁移 `00_Inbox\文献与碎片\智能荧光粉的神经形态行为实现全光物理储层计算.md` -> `00_Inbox\03_研究资料\智能荧光粉的神经形态行为实现全光物理储层计算.md`
+- 迁移 `00_Inbox\文献与碎片\智能计算领域10个重大科学问题.md` -> `00_Inbox\04_会议战略\智能计算领域10个重大科学问题.md`
+- 迁移 `00_Inbox\文献与碎片\智能连接：碳原子与Token.md` -> `00_Inbox\03_研究资料\智能连接：碳原子与Token.md`
+- 迁移 `00_Inbox\文献与碎片\智造讲堂：智能制造与装备发展路径.md` -> `00_Inbox\04_会议战略\智造讲堂：智能制造与装备发展路径.md`
+- 迁移 `00_Inbox\文献与碎片\曙光Torus网络架构为E级超算而生，破除胖树拓扑图瓶颈.md` -> `00_Inbox\03_研究资料\曙光Torus网络架构为E级超算而生，破除胖树拓扑图瓶颈.md`
+- 迁移 `00_Inbox\文献与碎片\最新Nature发文丨台积电联手台湾清华大学Meng-Fan_Chang课题组：混合精度忆阻器与SRAM存内计算AI处理器.md` -> `00_Inbox\04_会议战略\最新Nature发文丨台积电联手台湾清华大学Meng-Fan_Chang课题组：混合精度忆阻器与SRAM存内计算AI处理器.md`
+- 迁移 `00_Inbox\文献与碎片\最新政策！滨海新区发布行动方案，脑科学与智能医学等重点发展.md` -> `00_Inbox\04_会议战略\最新政策！滨海新区发布行动方案，脑科学与智能医学等重点发展.md`
+- 迁移 `00_Inbox\文献与碎片\未来互联网协议之争.md` -> `00_Inbox\04_会议战略\未来互联网协议之争.md`
+- 迁移 `00_Inbox\文献与碎片\未来智能化战争作战力量体系这样变革.md` -> `00_Inbox\04_会议战略\未来智能化战争作战力量体系这样变革.md`
+- 迁移 `00_Inbox\文献与碎片\本体论的鸿沟_物理现实与人工智能本质差异的深度解析.md` -> `00_Inbox\03_研究资料\本体论的鸿沟_物理现实与人工智能本质差异的深度解析.md`
+- 迁移 `00_Inbox\文献与碎片\朱松纯_智能学科的源起、演进与趋势——北京大学智能学科的探索与实践.md` -> `00_Inbox\04_会议战略\朱松纯_智能学科的源起、演进与趋势——北京大学智能学科的探索与实践.md`
+- 迁移 `00_Inbox\文献与碎片\机器学习与神经网络.md` -> `00_Inbox\03_研究资料\机器学习与神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\李克强：智能网联汽车发展态势及高质量发展建议.md` -> `00_Inbox\04_会议战略\李克强：智能网联汽车发展态势及高质量发展建议.md`
+- 迁移 `00_Inbox\文献与碎片\李国杰院士：智能时代呼唤新的科研方法.md` -> `00_Inbox\04_会议战略\李国杰院士：智能时代呼唤新的科研方法.md`
+- 迁移 `00_Inbox\文献与碎片\杨立昆教授哈佛大学数学系演讲稿全文-目标驱动的人工智能世界新模型.md` -> `00_Inbox\03_研究资料\杨立昆教授哈佛大学数学系演讲稿全文-目标驱动的人工智能世界新模型.md`
+- 迁移 `00_Inbox\文献与碎片\杨立昆教授在哈佛大学数学系演讲稿-关于人工智能世界新模型 (2).md` -> `00_Inbox\03_研究资料\杨立昆教授在哈佛大学数学系演讲稿-关于人工智能世界新模型 (2).md`
+- 迁移 `00_Inbox\文献与碎片\杨立昆教授在哈佛大学数学系演讲稿-关于人工智能世界新模型.md` -> `00_Inbox\04_会议战略\杨立昆教授在哈佛大学数学系演讲稿-关于人工智能世界新模型.md`
+- 迁移 `00_Inbox\文献与碎片\柔性神经形态电子技术_可穿戴近传感器与传感器内计算系统的突破.md` -> `00_Inbox\03_研究资料\柔性神经形态电子技术_可穿戴近传感器与传感器内计算系统的突破.md`
+- 迁移 `00_Inbox\文献与碎片\梅宏院士：如何构造人工群体智能？.md` -> `00_Inbox\04_会议战略\梅宏院士：如何构造人工群体智能？.md`
+- 迁移 `00_Inbox\文献与碎片\梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩 (2).md` -> `00_Inbox\04_会议战略\梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩 (2).md`
+- 迁移 `00_Inbox\文献与碎片\梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩.md` -> `00_Inbox\03_研究资料\梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩.md`
+- 迁移 `00_Inbox\文献与碎片\模仿大脑4个特点！神经拟态计算揭秘，距离产业化还有多远？_-_智东西.md` -> `00_Inbox\03_研究资料\模仿大脑4个特点！神经拟态计算揭秘，距离产业化还有多远？_-_智东西.md`
+- 迁移 `00_Inbox\文献与碎片\模仿大脑：下一代计算机.md` -> `00_Inbox\04_会议战略\模仿大脑：下一代计算机.md`
+- 迁移 `00_Inbox\文献与碎片\模块化硬件验证引领Chiplet时代：多Die系统验证的演进与突破.md` -> `00_Inbox\04_会议战略\模块化硬件验证引领Chiplet时代：多Die系统验证的演进与突破.md`
+- 迁移 `00_Inbox\文献与碎片\模拟电路人工智能神经网络的前景.md` -> `00_Inbox\04_会议战略\模拟电路人工智能神经网络的前景.md`
+- 迁移 `00_Inbox\文献与碎片\欧姆定律+基尔霍夫电流定律=更好的人工智能 (2).md` -> `00_Inbox\04_会议战略\欧姆定律+基尔霍夫电流定律=更好的人工智能 (2).md`
+- 迁移 `00_Inbox\文献与碎片\欧姆定律+基尔霍夫电流定律=更好的人工智能.md` -> `00_Inbox\04_会议战略\欧姆定律+基尔霍夫电流定律=更好的人工智能.md`
+- 迁移 `00_Inbox\文献与碎片\汽车电动化进入下半场！毕马威中国这份白皮书称，智能座舱将成行业竞争焦点.md` -> `00_Inbox\04_会议战略\汽车电动化进入下半场！毕马威中国这份白皮书称，智能座舱将成行业竞争焦点.md`
+- 迁移 `00_Inbox\文献与碎片\沸腾二十年，中国互联网进化简史.md` -> `00_Inbox\03_研究资料\沸腾二十年，中国互联网进化简史.md`
+- 迁移 `00_Inbox\文献与碎片\法国CEA基于Chiplet架构的模型化系统设计.md` -> `00_Inbox\03_研究资料\法国CEA基于Chiplet架构的模型化系统设计.md`
+- 迁移 `00_Inbox\文献与碎片\注意力机制：解码人类智能的核心技术密码.md` -> `00_Inbox\03_研究资料\注意力机制：解码人类智能的核心技术密码.md`
+- 迁移 `00_Inbox\文献与碎片\浅议本土chiplet的发展路线 (2).md` -> `00_Inbox\04_会议战略\浅议本土chiplet的发展路线 (2).md`
+- 迁移 `00_Inbox\文献与碎片\浅议本土chiplet的发展路线.md` -> `00_Inbox\04_会议战略\浅议本土chiplet的发展路线.md`
+- 迁移 `00_Inbox\文献与碎片\浅谈人工智能：现状、任务、构架与统一___朱松纯.md` -> `00_Inbox\04_会议战略\浅谈人工智能：现状、任务、构架与统一___朱松纯.md`
+- 迁移 `00_Inbox\文献与碎片\浙江大学集成电路学院Nano_Letters__可重构神经形态计算，用于多功能神经信息处理.md` -> `00_Inbox\03_研究资料\浙江大学集成电路学院Nano_Letters__可重构神经形态计算，用于多功能神经信息处理.md`
+- 迁移 `00_Inbox\文献与碎片\涌现动力学如何用来分析复杂系统？___新课上线.md` -> `00_Inbox\03_研究资料\涌现动力学如何用来分析复杂系统？___新课上线.md`
+- 迁移 `00_Inbox\文献与碎片\涌现现象：复杂系统的神奇力量 - 科普教育 - 上海市非线性科学研究会.md` -> `00_Inbox\03_研究资料\涌现现象：复杂系统的神奇力量 - 科普教育 - 上海市非线性科学研究会.md`
+- 迁移 `00_Inbox\文献与碎片\涌现的信息论方法：跨层级涌现与演化的信息存储方式.md` -> `00_Inbox\03_研究资料\涌现的信息论方法：跨层级涌现与演化的信息存储方式.md`
+- 迁移 `00_Inbox\文献与碎片\涌现的计算方法：从计算力学到层级涌现.md` -> `00_Inbox\04_会议战略\涌现的计算方法：从计算力学到层级涌现.md`
+- 迁移 `00_Inbox\文献与碎片\涌现的计算框架.md` -> `00_Inbox\03_研究资料\涌现的计算框架.md`
+- 迁移 `00_Inbox\文献与碎片\润居开会（20201217）.md` -> `00_Inbox\03_研究资料\润居开会（20201217）.md`
+- 迁移 `00_Inbox\文献与碎片\液态神经网络LNNs是什么？又如何使用_PyTorch从零构建一个LNNs？.md` -> `00_Inbox\03_研究资料\液态神经网络LNNs是什么？又如何使用_PyTorch从零构建一个LNNs？.md`
+- 迁移 `00_Inbox\文献与碎片\深入浅出的聊聊摩尔定律、后摩尔时代以及Chiplet概念（万字长文）.md` -> `00_Inbox\04_会议战略\深入浅出的聊聊摩尔定律、后摩尔时代以及Chiplet概念（万字长文）.md`
+- 迁移 `00_Inbox\文献与碎片\深度学习新动向！液态神经网络拿下Nature子刊，19个神经元驾驶一辆车！.md` -> `00_Inbox\03_研究资料\深度学习新动向！液态神经网络拿下Nature子刊，19个神经元驾驶一辆车！.md`
+- 迁移 `00_Inbox\文献与碎片\深度！图解神经网络的数学原理.md` -> `00_Inbox\03_研究资料\深度！图解神经网络的数学原理.md`
+- 迁移 `00_Inbox\文献与碎片\混沌和分形的关系.md` -> `00_Inbox\03_研究资料\混沌和分形的关系.md`
+- 迁移 `00_Inbox\文献与碎片\混沌大学.md` -> `00_Inbox\03_研究资料\混沌大学.md`
+- 迁移 `00_Inbox\文献与碎片\混沌理论与洛伦兹方程 - 知乎.md` -> `00_Inbox\03_研究资料\混沌理论与洛伦兹方程 - 知乎.md`
+- 迁移 `00_Inbox\文献与碎片\混沌边缘的信息动力学——复杂系统研究中的信息论终篇.md` -> `00_Inbox\03_研究资料\混沌边缘的信息动力学——复杂系统研究中的信息论终篇.md`
+- 迁移 `00_Inbox\文献与碎片\清华团队类脑计算突破.md` -> `00_Inbox\03_研究资料\清华团队类脑计算突破.md`
+- 迁移 `00_Inbox\文献与碎片\清华团队革新MoE架构！像搭积木一样构建大模型，提出新型类脑稀疏模块化架构.md` -> `00_Inbox\03_研究资料\清华团队革新MoE架构！像搭积木一样构建大模型，提出新型类脑稀疏模块化架构.md`
+- 迁移 `00_Inbox\文献与碎片\清华大学__将物理嵌入机器学习_作为偏微分方程前向求解器的物理信息神经网络综述.md` -> `00_Inbox\03_研究资料\清华大学__将物理嵌入机器学习_作为偏微分方程前向求解器的物理信息神经网络综述.md`
+- 迁移 `00_Inbox\文献与碎片\清华大学吴华强团队类脑计算技术演进与全栈生态构建_2019-2025_.md` -> `00_Inbox\03_研究资料\清华大学吴华强团队类脑计算技术演进与全栈生态构建_2019-2025_.md`
+- 迁移 `00_Inbox\文献与碎片\清华大学研究团队在晶圆级芯片领域取得重要进展.md` -> `00_Inbox\04_会议战略\清华大学研究团队在晶圆级芯片领域取得重要进展.md`
+- 迁移 `00_Inbox\文献与碎片\清华大学硬件级注意力机制_类脑芯片突破AI能效瓶颈.md` -> `00_Inbox\03_研究资料\清华大学硬件级注意力机制_类脑芯片突破AI能效瓶颈.md`
+- 迁移 `00_Inbox\文献与碎片\清华孵出一家Chiplet黑马！连拿亿级融资，首款AI芯片已跑通，独家对话创始人.md` -> `00_Inbox\04_会议战略\清华孵出一家Chiplet黑马！连拿亿级融资，首款AI芯片已跑通，独家对话创始人.md`
+- 迁移 `00_Inbox\文献与碎片\清华戴琼海院士_方璐_乔飞_吴嘉敏：全模拟光电神经网络芯片.md` -> `00_Inbox\03_研究资料\清华戴琼海院士_方璐_乔飞_吴嘉敏：全模拟光电神经网络芯片.md`
+- 迁移 `00_Inbox\文献与碎片\清微智能获B轮数亿元融资，国开装备基金领投.md` -> `00_Inbox\04_会议战略\清微智能获B轮数亿元融资，国开装备基金领投.md`
+- 迁移 `00_Inbox\文献与碎片\港大马毅：“百模大战”资源消耗惊人，智能本质到底是什么？.md` -> `00_Inbox\04_会议战略\港大马毅：“百模大战”资源消耗惊人，智能本质到底是什么？.md`
+- 迁移 `00_Inbox\文献与碎片\演讲实录丨廖湘科院士：智能制造时代的基础软件.md` -> `00_Inbox\04_会议战略\演讲实录丨廖湘科院士：智能制造时代的基础软件.md`
+- 迁移 `00_Inbox\文献与碎片\物理信息神经网络（pinns）是什么？又有何应用？未来发展是什么？.md` -> `00_Inbox\04_会议战略\物理信息神经网络（pinns）是什么？又有何应用？未来发展是什么？.md`
+- 迁移 `00_Inbox\文献与碎片\物理学AI新范式___人工智能与物理学的结合：一项全面调查.md` -> `00_Inbox\04_会议战略\物理学AI新范式___人工智能与物理学的结合：一项全面调查.md`
+- 迁移 `00_Inbox\文献与碎片\物理涌现智能与复杂网络学科方向.md` -> `00_Inbox\04_会议战略\物理涌现智能与复杂网络学科方向.md`
+- 迁移 `00_Inbox\文献与碎片\物理神经网络具身智能系统_-_范式颠覆创新路线.md` -> `00_Inbox\03_研究资料\物理神经网络具身智能系统_-_范式颠覆创新路线.md`
+- 迁移 `00_Inbox\文献与碎片\物理神经网络训练―从物理系统到人工智能.md` -> `00_Inbox\03_研究资料\物理神经网络训练―从物理系统到人工智能.md`
+- 迁移 `00_Inbox\文献与碎片\物理类脑项目群.md` -> `00_Inbox\04_会议战略\物理类脑项目群.md`
+- 迁移 `00_Inbox\文献与碎片\特刊介绍：用非线性方法解读大脑振荡的动态与复杂本质.md` -> `00_Inbox\03_研究资料\特刊介绍：用非线性方法解读大脑振荡的动态与复杂本质.md`
+- 迁移 `00_Inbox\文献与碎片\特斯拉：晶圆级处理器+百万核心超级计算机缺陷内核快速检测.md` -> `00_Inbox\03_研究资料\特斯拉：晶圆级处理器+百万核心超级计算机缺陷内核快速检测.md`
+- 迁移 `00_Inbox\文献与碎片\狠人神作_一个人_用数学否定一场AI神话_没有符号_LLM的自我改进_只是自我耗散_AI无法靠自我训练走向奇点_RL也实.md` -> `00_Inbox\04_会议战略\狠人神作_一个人_用数学否定一场AI神话_没有符号_LLM的自我改进_只是自我耗散_AI无法靠自我训练走向奇点_RL也实.md`
+- 迁移 `00_Inbox\文献与碎片\狠人神作：一个人，用数学否定一场AI神话！没有符号，LLM的自我改进，只是自我耗散！AI无法靠自我训练走向奇点！RL也实现不了AGI！.md` -> `00_Inbox\04_会议战略\狠人神作：一个人，用数学否定一场AI神话！没有符号，LLM的自我改进，只是自我耗散！AI无法靠自我训练走向奇点！RL也实现不了AGI！.md`
+- 迁移 `00_Inbox\文献与碎片\独家整理：GPU服务器互联技术分析.md` -> `00_Inbox\04_会议战略\独家整理：GPU服务器互联技术分析.md`
+- 迁移 `00_Inbox\文献与碎片\王佐仁团队提出全新“类脑学习”框架，用“Top-down”脑启发机制替代 “损失函数”和“反向传播算法”，AI性能出色.md` -> `00_Inbox\04_会议战略\王佐仁团队提出全新“类脑学习”框架，用“Top-down”脑启发机制替代 “损失函数”和“反向传播算法”，AI性能出色.md`
+- 迁移 `00_Inbox\文献与碎片\王耀南院士：我国智能机器人核心芯片技术发展战略研究.md` -> `00_Inbox\04_会议战略\王耀南院士：我国智能机器人核心芯片技术发展战略研究.md`
+- 迁移 `00_Inbox\文献与碎片\现代动力学的十大主题：混沌、网络、时空.md` -> `00_Inbox\03_研究资料\现代动力学的十大主题：混沌、网络、时空.md`
+- 迁移 `00_Inbox\文献与碎片\理解并统一14种归因算法，让神经网络具有可解释性.md` -> `00_Inbox\04_会议战略\理解并统一14种归因算法，让神经网络具有可解释性.md`
+- 迁移 `00_Inbox\文献与碎片\理论篇：人工智能的本质是什么.md` -> `00_Inbox\03_研究资料\理论篇：人工智能的本质是什么.md`
+- 迁移 `00_Inbox\文献与碎片\生态共建___奇异摩尔核心贡献_《OISA全向智感互联IO芯粒技术白皮书》正式发布.md` -> `00_Inbox\04_会议战略\生态共建___奇异摩尔核心贡献_《OISA全向智感互联IO芯粒技术白皮书》正式发布.md`
+- 迁移 `00_Inbox\文献与碎片\生成式人工智能（AIGC）芯片与Chiplets.md` -> `00_Inbox\04_会议战略\生成式人工智能（AIGC）芯片与Chiplets.md`
+- 迁移 `00_Inbox\文献与碎片\生物启发的脉冲神经网络_SNN_设计与研究进展.md` -> `00_Inbox\03_研究资料\生物启发的脉冲神经网络_SNN_设计与研究进展.md`
+- 迁移 `00_Inbox\文献与碎片\用于智算场景的Scale-up互联技术分析 (2).md` -> `00_Inbox\03_研究资料\用于智算场景的Scale-up互联技术分析 (2).md`
+- 迁移 `00_Inbox\文献与碎片\用于智算场景的Scale-up互联技术分析.md` -> `00_Inbox\03_研究资料\用于智算场景的Scale-up互联技术分析.md`
+- 迁移 `00_Inbox\文献与碎片\盘点中国人工智能领域57位两院院士.md` -> `00_Inbox\03_研究资料\盘点中国人工智能领域57位两院院士.md`
+- 迁移 `00_Inbox\文献与碎片\研究进展_AI_新材料_5篇类脑智能___Science-Nature_Computational_Science.md` -> `00_Inbox\04_会议战略\研究进展_AI_新材料_5篇类脑智能___Science-Nature_Computational_Science.md`
+- 迁移 `00_Inbox\文献与碎片\研究进展：AI+新材料，5篇类脑智能 Science-Nature Computational Science.md` -> `00_Inbox\04_会议战略\研究进展：AI+新材料，5篇类脑智能 Science-Nature Computational Science.md`
+- 迁移 `00_Inbox\文献与碎片\研读_论智能中的简约与自洽原则.md` -> `00_Inbox\03_研究资料\研读_论智能中的简约与自洽原则.md`
+- 迁移 `00_Inbox\文献与碎片\破解一切模态，无限接近AGI！新加坡华人团队开源全能「大一统」多模态大模型.md` -> `00_Inbox\03_研究资料\破解一切模态，无限接近AGI！新加坡华人团队开源全能「大一统」多模态大模型.md`
+- 迁移 `00_Inbox\文献与碎片\硅基世界的“缘分”——系统与人工智能携手进化_-_Microsoft_Research.md` -> `00_Inbox\03_研究资料\硅基世界的“缘分”——系统与人工智能携手进化_-_Microsoft_Research.md`
+- 迁移 `00_Inbox\文献与碎片\硅基大脑的脉冲：28nm芯片成功模拟生物实时神经动态，时间慢至数百毫秒。.md` -> `00_Inbox\03_研究资料\硅基大脑的脉冲：28nm芯片成功模拟生物实时神经动态，时间慢至数百毫秒。.md`
+- 迁移 `00_Inbox\文献与碎片\硬件架构规范_v1.md` -> `00_Inbox\03_研究资料\硬件架构规范_v1.md`
+- 迁移 `00_Inbox\文献与碎片\神经元启发的智能学习方法.md` -> `00_Inbox\03_研究资料\神经元启发的智能学习方法.md`
+- 迁移 `00_Inbox\文献与碎片\神经元树突计算与群体编码助力类脑脉冲神经网络强化学习 (2).md` -> `00_Inbox\03_研究资料\神经元树突计算与群体编码助力类脑脉冲神经网络强化学习 (2).md`
+- 迁移 `00_Inbox\文献与碎片\神经元树突计算与群体编码助力类脑脉冲神经网络强化学习.md` -> `00_Inbox\03_研究资料\神经元树突计算与群体编码助力类脑脉冲神经网络强化学习.md`
+- 迁移 `00_Inbox\文献与碎片\神经可塑性与忆阻器_大脑与硅基模拟的对比研究.md` -> `00_Inbox\04_会议战略\神经可塑性与忆阻器_大脑与硅基模拟的对比研究.md`
+- 迁移 `00_Inbox\文献与碎片\神经复杂系统前沿：关于认知大脑的两种观念.md` -> `00_Inbox\04_会议战略\神经复杂系统前沿：关于认知大脑的两种观念.md`
+- 迁移 `00_Inbox\文献与碎片\神经形态硬件上实现反向传播算法 (2).md` -> `00_Inbox\03_研究资料\神经形态硬件上实现反向传播算法 (2).md`
+- 迁移 `00_Inbox\文献与碎片\神经形态硬件上实现反向传播算法.md` -> `00_Inbox\03_研究资料\神经形态硬件上实现反向传播算法.md`
+- 迁移 `00_Inbox\文献与碎片\神经形态脉冲大语言模型_NSLLM__连接AI与神经科学的突破性研究.md` -> `00_Inbox\03_研究资料\神经形态脉冲大语言模型_NSLLM__连接AI与神经科学的突破性研究.md`
+- 迁移 `00_Inbox\文献与碎片\神经形态脉冲大语言模型（NSLLM） 李国齐、徐波等NSR.md` -> `00_Inbox\03_研究资料\神经形态脉冲大语言模型（NSLLM） 李国齐、徐波等NSR.md`
+- 迁移 `00_Inbox\文献与碎片\神经形态计算_为AI装上人类大脑的未来科技.md` -> `00_Inbox\04_会议战略\神经形态计算_为AI装上人类大脑的未来科技.md`
+- 迁移 `00_Inbox\文献与碎片\神经形态计算_现状分析与未来方向.md` -> `00_Inbox\03_研究资料\神经形态计算_现状分析与未来方向.md`
+- 迁移 `00_Inbox\文献与碎片\神经形态计算开源资源.md` -> `00_Inbox\04_会议战略\神经形态计算开源资源.md`
+- 迁移 `00_Inbox\文献与碎片\神经形态计算的现状与未来方向_硬件加速瓶颈与颠覆性创新路径.md` -> `00_Inbox\03_研究资料\神经形态计算的现状与未来方向_硬件加速瓶颈与颠覆性创新路径.md`
+- 迁移 `00_Inbox\文献与碎片\神经形态计算突破_脉冲神经网络实现机器人超低功耗定位新范式.md` -> `00_Inbox\03_研究资料\神经形态计算突破_脉冲神经网络实现机器人超低功耗定位新范式.md`
+- 迁移 `00_Inbox\文献与碎片\神经形态计算领域_重要突破.md` -> `00_Inbox\04_会议战略\神经形态计算领域_重要突破.md`
+- 迁移 `00_Inbox\文献与碎片\神经科学_AGI与神经形态计算的融合_统一研究范式与挑战.md` -> `00_Inbox\04_会议战略\神经科学_AGI与神经形态计算的融合_统一研究范式与挑战.md`
+- 迁移 `00_Inbox\文献与碎片\神经科学与机器学习交叉路线图_从脑结构到类脑智能.md` -> `00_Inbox\03_研究资料\神经科学与机器学习交叉路线图_从脑结构到类脑智能.md`
+- 迁移 `00_Inbox\文献与碎片\神经科学需要网络科学.md` -> `00_Inbox\04_会议战略\神经科学需要网络科学.md`
+- 迁移 `00_Inbox\文献与碎片\神经网络与傅立叶变换有何关系？.md` -> `00_Inbox\04_会议战略\神经网络与傅立叶变换有何关系？.md`
+- 迁移 `00_Inbox\文献与碎片\神经网络为啥可以学习（几乎）任何东西——激活函数与非线性.md` -> `00_Inbox\03_研究资料\神经网络为啥可以学习（几乎）任何东西——激活函数与非线性.md`
+- 迁移 `00_Inbox\文献与碎片\神经网络主要类型及其应用.md` -> `00_Inbox\03_研究资料\神经网络主要类型及其应用.md`
+- 迁移 `00_Inbox\文献与碎片\神经网络之父Hinton最新公开演讲：数字智能会取代生物智能吗？（全文及PPT）.md` -> `00_Inbox\04_会议战略\神经网络之父Hinton最新公开演讲：数字智能会取代生物智能吗？（全文及PPT）.md`
+- 迁移 `00_Inbox\文献与碎片\神经网络其实和人一样懒惰，喜欢走捷径.......md` -> `00_Inbox\04_会议战略\神经网络其实和人一样懒惰，喜欢走捷径.......md`
+- 迁移 `00_Inbox\文献与碎片\神经网络时空协同智能涌现.md` -> `00_Inbox\04_会议战略\神经网络时空协同智能涌现.md`
+- 迁移 `00_Inbox\文献与碎片\神经网络理论研究的物理学思想.md` -> `00_Inbox\04_会议战略\神经网络理论研究的物理学思想.md`
+- 迁移 `00_Inbox\文献与碎片\神经网络的物理根源：从自旋玻璃到能量景观｜2024年诺贝尔奖.md` -> `00_Inbox\03_研究资料\神经网络的物理根源：从自旋玻璃到能量景观｜2024年诺贝尔奖.md`
+- 迁移 `00_Inbox\文献与碎片\神经网络背后的数学原理是什么？.md` -> `00_Inbox\03_研究资料\神经网络背后的数学原理是什么？.md`
+- 迁移 `00_Inbox\文献与碎片\神经网络芯片的未来发展，路在何方？.md` -> `00_Inbox\03_研究资料\神经网络芯片的未来发展，路在何方？.md`
+- 迁移 `00_Inbox\文献与碎片\神经网络设计是一种“妥协的艺术”：从MLP到Transformer的演进之路.md` -> `00_Inbox\03_研究资料\神经网络设计是一种“妥协的艺术”：从MLP到Transformer的演进之路.md`
+- 迁移 `00_Inbox\文献与碎片\神经集群的混沌共生_高阶相互作用与脑网络嵌合体机制.md` -> `00_Inbox\03_研究资料\神经集群的混沌共生_高阶相互作用与脑网络嵌合体机制.md`
+- 迁移 `00_Inbox\文献与碎片\离子浮栅存储器_IFG_阵列_神经形态计算的高效突触器件解决方案.md` -> `00_Inbox\03_研究资料\离子浮栅存储器_IFG_阵列_神经形态计算的高效突触器件解决方案.md`
+- 迁移 `00_Inbox\文献与碎片\科学前沿_AI多样性搜索驱动元胞自动机涌现Agency.md` -> `00_Inbox\03_研究资料\科学前沿_AI多样性搜索驱动元胞自动机涌现Agency.md`
+- 迁移 `00_Inbox\文献与碎片\科学家揭示大脑神经元相互连接机制，证明人类神经元连接方式支持高阶计算_柏林_人工神经网络_皮层_信号_网易订阅.md` -> `00_Inbox\04_会议战略\科学家揭示大脑神经元相互连接机制，证明人类神经元连接方式支持高阶计算_柏林_人工神经网络_皮层_信号_网易订阅.md`
+- 迁移 `00_Inbox\文献与碎片\科学家钻研计算机的“大脑”，获得惊人发现_-_财富中文网.md` -> `00_Inbox\04_会议战略\科学家钻研计算机的“大脑”，获得惊人发现_-_财富中文网.md`
+- 迁移 `00_Inbox\文献与碎片\科学家首次构建毫米级体积人类大脑神经网络结构3D模型.md` -> `00_Inbox\03_研究资料\科学家首次构建毫米级体积人类大脑神经网络结构3D模型.md`
+- 迁移 `00_Inbox\文献与碎片\科技丨据说互联网过时了！他的发明人准备造个新网络！.md` -> `00_Inbox\04_会议战略\科技丨据说互联网过时了！他的发明人准备造个新网络！.md`
+- 迁移 `00_Inbox\文献与碎片\科技委汇报要点.md` -> `00_Inbox\04_会议战略\科技委汇报要点.md`
+- 迁移 `00_Inbox\文献与碎片\科技部___关于发布科技创新2030—“新一代人工智能”重大项目2021年度项目申报指南的通知.md` -> `00_Inbox\04_会议战略\科技部___关于发布科技创新2030—“新一代人工智能”重大项目2021年度项目申报指南的通知.md`
+- 迁移 `00_Inbox\文献与碎片\科技部副部长吴朝晖发出四点倡议_呼吁产学合作形成人工智能大模型产业生态.md` -> `00_Inbox\04_会议战略\科技部副部长吴朝晖发出四点倡议_呼吁产学合作形成人工智能大模型产业生态.md`
+- 迁移 `00_Inbox\文献与碎片\科研___王龙课题组发现群体智能涌现和演化调控机制.md` -> `00_Inbox\04_会议战略\科研___王龙课题组发现群体智能涌现和演化调控机制.md`
+- 迁移 `00_Inbox\文献与碎片\科研与学术品牌（CREST → iNEST）.md` -> `00_Inbox\04_会议战略\科研与学术品牌（CREST → iNEST）.md`
+- 迁移 `00_Inbox\文献与碎片\科研成果___清华大学集成电路学院与天津大学脑机海河实验室团队合作研发基于忆阻器类脑计算芯片的自适应脑机接口.md` -> `00_Inbox\03_研究资料\科研成果___清华大学集成电路学院与天津大学脑机海河实验室团队合作研发基于忆阻器类脑计算芯片的自适应脑机接口.md`
+- 迁移 `00_Inbox\文献与碎片\科研速递｜关于人工智能的跨学科之思.md` -> `00_Inbox\03_研究资料\科研速递｜关于人工智能的跨学科之思.md`
+- 迁移 `00_Inbox\文献与碎片\突破_中科院自动化所联合北大在_自然-计算科学_发文_揭示AI概念智能形成的类脑认知机制.md` -> `00_Inbox\03_研究资料\突破_中科院自动化所联合北大在_自然-计算科学_发文_揭示AI概念智能形成的类脑认知机制.md`
+- 迁移 `00_Inbox\文献与碎片\突破能效极限！中科院发布全球首个类脑脉冲大模型SpikingBrain-1.0，长文本处理提速百倍 (2).md` -> `00_Inbox\03_研究资料\突破能效极限！中科院发布全球首个类脑脉冲大模型SpikingBrain-1.0，长文本处理提速百倍 (2).md`
+- 迁移 `00_Inbox\文献与碎片\突破能效极限！中科院发布全球首个类脑脉冲大模型SpikingBrain-1.0，长文本处理提速百倍.md` -> `00_Inbox\03_研究资料\突破能效极限！中科院发布全球首个类脑脉冲大模型SpikingBrain-1.0，长文本处理提速百倍.md`
+- 迁移 `00_Inbox\文献与碎片\突触可塑性的定义及机制.md` -> `00_Inbox\03_研究资料\突触可塑性的定义及机制.md`
+- 迁移 `00_Inbox\文献与碎片\第一创新.md` -> `00_Inbox\03_研究资料\第一创新.md`
+- 迁移 `00_Inbox\文献与碎片\第一性原理.md` -> `00_Inbox\03_研究资料\第一性原理.md`
+- 迁移 `00_Inbox\文献与碎片\第三代神经网络SNN获重大突破_多项成果入选CVPR_TPAMI_Nature顶尖子刊___.md` -> `00_Inbox\04_会议战略\第三代神经网络SNN获重大突破_多项成果入选CVPR_TPAMI_Nature顶尖子刊___.md`
+- 迁移 `00_Inbox\文献与碎片\第三代神经网络模型：面向AI应用的脉冲神经网络.md` -> `00_Inbox\03_研究资料\第三代神经网络模型：面向AI应用的脉冲神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\第三届集成芯片和芯粒大会___大会日程抢先看，16场技术论坛重磅推出.md` -> `00_Inbox\04_会议战略\第三届集成芯片和芯粒大会___大会日程抢先看，16场技术论坛重磅推出.md`
+- 迁移 `00_Inbox\文献与碎片\第四次科技革命！人工智能算力发展趋势报告 2024.md` -> `00_Inbox\04_会议战略\第四次科技革命！人工智能算力发展趋势报告 2024.md`
+- 迁移 `00_Inbox\文献与碎片\算一算Chiplet的成本！.md` -> `00_Inbox\03_研究资料\算一算Chiplet的成本！.md`
+- 迁移 `00_Inbox\文献与碎片\算力世界的变革：Chiplets与UCIe互联技术.md` -> `00_Inbox\03_研究资料\算力世界的变革：Chiplets与UCIe互联技术.md`
+- 迁移 `00_Inbox\文献与碎片\类似智能手机的发展，数据中心将进入完全可编程时代.md` -> `00_Inbox\04_会议战略\类似智能手机的发展，数据中心将进入完全可编程时代.md`
+- 迁移 `00_Inbox\文献与碎片\类脑十年：人工智能，离人脑还有多远？.md` -> `00_Inbox\04_会议战略\类脑十年：人工智能，离人脑还有多远？.md`
+- 迁移 `00_Inbox\文献与碎片\类脑多尺度脉冲神经网络结构自主演化助力实现高度自适应人工智能.md` -> `00_Inbox\03_研究资料\类脑多尺度脉冲神经网络结构自主演化助力实现高度自适应人工智能.md`
+- 迁移 `00_Inbox\文献与碎片\类脑学习笔记.md` -> `00_Inbox\03_研究资料\类脑学习笔记.md`
+- 迁移 `00_Inbox\文献与碎片\类脑尺度孪生大脑.md` -> `00_Inbox\04_会议战略\类脑尺度孪生大脑.md`
+- 迁移 `00_Inbox\文献与碎片\类脑智能发展方向预测_基于时空复杂度乘积定理的探索.md` -> `00_Inbox\03_研究资料\类脑智能发展方向预测_基于时空复杂度乘积定理的探索.md`
+- 迁移 `00_Inbox\文献与碎片\类脑智能：基于脑启发的智能研究新范式.md` -> `00_Inbox\04_会议战略\类脑智能：基于脑启发的智能研究新范式.md`
+- 迁移 `00_Inbox\文献与碎片\类脑研究：概念、内容及挑战.md` -> `00_Inbox\04_会议战略\类脑研究：概念、内容及挑战.md`
+- 迁移 `00_Inbox\文献与碎片\类脑脉冲模型如何突破Transformer效率瓶颈___瞬悉1_0技术深度解析.md` -> `00_Inbox\03_研究资料\类脑脉冲模型如何突破Transformer效率瓶颈___瞬悉1_0技术深度解析.md`
+- 迁移 `00_Inbox\文献与碎片\类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析.md` -> `00_Inbox\03_研究资料\类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析.md`
+- 迁移 `00_Inbox\文献与碎片\类脑芯片,机器超越人脑的最后一击-电子发烧友网.md` -> `00_Inbox\04_会议战略\类脑芯片,机器超越人脑的最后一击-电子发烧友网.md`
+- 迁移 `00_Inbox\文献与碎片\类脑芯片聚力畜牧未来_时识科技_SynSense_携手产业生态共拓动物智能穿戴新蓝海.md` -> `00_Inbox\04_会议战略\类脑芯片聚力畜牧未来_时识科技_SynSense_携手产业生态共拓动物智能穿戴新蓝海.md`
+- 迁移 `00_Inbox\文献与碎片\类脑芯片重大进展：MTJ突触实现硬件级自学习，能效超现有方案千倍.md` -> `00_Inbox\03_研究资料\类脑芯片重大进展：MTJ突触实现硬件级自学习，能效超现有方案千倍.md`
+- 迁移 `00_Inbox\文献与碎片\类脑范式.md` -> `00_Inbox\03_研究资料\类脑范式.md`
+- 迁移 `00_Inbox\文献与碎片\类脑计算_从模仿大脑到规模化应用的关键突破.md` -> `00_Inbox\03_研究资料\类脑计算_从模仿大脑到规模化应用的关键突破.md`
+- 迁移 `00_Inbox\文献与碎片\类脑计算有望彻底改变计算领域，甚至超越人脑，丰田合作综述类脑计算的兴起.md` -> `00_Inbox\03_研究资料\类脑计算有望彻底改变计算领域，甚至超越人脑，丰田合作综述类脑计算的兴起.md`
+- 迁移 `00_Inbox\文献与碎片\类脑计算：清华正在低调开发的下一代人工智能.md` -> `00_Inbox\03_研究资料\类脑计算：清华正在低调开发的下一代人工智能.md`
+- 迁移 `00_Inbox\文献与碎片\类脑认知智能引擎“智脉”：全脉冲神经网络的新一代人工智能开源平台.md` -> `00_Inbox\03_研究资料\类脑认知智能引擎“智脉”：全脉冲神经网络的新一代人工智能开源平台.md`
+- 迁移 `00_Inbox\文献与碎片\系统观下的复杂科学_拓扑学_线性代数与统计物理的互补角色.md` -> `00_Inbox\03_研究资料\系统观下的复杂科学_拓扑学_线性代数与统计物理的互补角色.md`
+- 迁移 `00_Inbox\文献与碎片\细看hotchip2025 之 AI数据中心互联以及Parallelism范式发展.md` -> `00_Inbox\03_研究资料\细看hotchip2025 之 AI数据中心互联以及Parallelism范式发展.md`
+- 迁移 `00_Inbox\文献与碎片\细看hotchip2025_之_AI数据中心互联以及Parallelism范式发展.md` -> `00_Inbox\03_研究资料\细看hotchip2025_之_AI数据中心互联以及Parallelism范式发展.md`
+- 迁移 `00_Inbox\文献与碎片\终于彻底理解图神经网络（GNNs）了！.md` -> `00_Inbox\03_研究资料\终于彻底理解图神经网络（GNNs）了！.md`
+- 迁移 `00_Inbox\文献与碎片\终于把神经网络的神经元和激活函数搞清楚了！.md` -> `00_Inbox\03_研究资料\终于把神经网络的神经元和激活函数搞清楚了！.md`
+- 迁移 `00_Inbox\文献与碎片\终于有人总结了图神经网络！.md` -> `00_Inbox\04_会议战略\终于有人总结了图神经网络！.md`
+- 迁移 `00_Inbox\文献与碎片\终于能把屡屡登上nature的神经网络学透了！.md` -> `00_Inbox\04_会议战略\终于能把屡屡登上nature的神经网络学透了！.md`
+- 迁移 `00_Inbox\文献与碎片\经典综述：自由能原理——统一的大脑理论.md` -> `00_Inbox\03_研究资料\经典综述：自由能原理——统一的大脑理论.md`
+- 迁移 `00_Inbox\文献与碎片\绘制灵魂的电路图_小世界_富俱乐部与动力学景观.md` -> `00_Inbox\03_研究资料\绘制灵魂的电路图_小世界_富俱乐部与动力学景观.md`
+- 迁移 `00_Inbox\文献与碎片\综述___革新神经形态计算：基于忆阻器的人工神经元.md` -> `00_Inbox\03_研究资料\综述___革新神经形态计算：基于忆阻器的人工神经元.md`
+- 迁移 `00_Inbox\文献与碎片\综述论文___PINNs的局限性讨论与微分方程智能求解展望.md` -> `00_Inbox\04_会议战略\综述论文___PINNs的局限性讨论与微分方程智能求解展望.md`
+- 迁移 `00_Inbox\文献与碎片\网络信息体系智能化发展设想.md` -> `00_Inbox\04_会议战略\网络信息体系智能化发展设想.md`
+- 迁移 `00_Inbox\文献与碎片\网络时空协同复杂度涌现智能 (2).md` -> `00_Inbox\03_研究资料\网络时空协同复杂度涌现智能 (2).md`
+- 迁移 `00_Inbox\文献与碎片\网络时空协同复杂度涌现智能.md` -> `00_Inbox\04_会议战略\网络时空协同复杂度涌现智能.md`
+- 迁移 `00_Inbox\文献与碎片\网络时空协同复杂度涌现智能：一个整合性理论框架.md` -> `00_Inbox\03_研究资料\网络时空协同复杂度涌现智能：一个整合性理论框架.md`
+- 迁移 `00_Inbox\文献与碎片\网络时空复杂度驱动的晶圆级异构集成具身智能涌现.md` -> `00_Inbox\04_会议战略\网络时空复杂度驱动的晶圆级异构集成具身智能涌现.md`
+- 迁移 `00_Inbox\文献与碎片\网络的网络：复杂网络的第二次革命.md` -> `00_Inbox\03_研究资料\网络的网络：复杂网络的第二次革命.md`
+- 迁移 `00_Inbox\文献与碎片\网络神经科学前沿：大脑如何在局部和全局高效处理信息？.md` -> `00_Inbox\04_会议战略\网络神经科学前沿：大脑如何在局部和全局高效处理信息？.md`
+- 迁移 `00_Inbox\文献与碎片\罗仁地：ChatGPT依旧是弱人工智能的原因以及溯因推理在真实意义创造中的作用.md` -> `00_Inbox\04_会议战略\罗仁地：ChatGPT依旧是弱人工智能的原因以及溯因推理在真实意义创造中的作用.md`
+- 迁移 `00_Inbox\文献与碎片\美国半导体强势回归：新建23个晶圆厂，增加2000亿美元投资.md` -> `00_Inbox\04_会议战略\美国半导体强势回归：新建23个晶圆厂，增加2000亿美元投资.md`
+- 迁移 `00_Inbox\文献与碎片\美国发布《国家人工智能研发战略计划》2023更新版.md` -> `00_Inbox\04_会议战略\美国发布《国家人工智能研发战略计划》2023更新版.md`
+- 迁移 `00_Inbox\文献与碎片\美国国家科学院院刊_(PNAS)___脑启发神经环路演化赋能脉冲神经网络创新.md` -> `00_Inbox\03_研究资料\美国国家科学院院刊_(PNAS)___脑启发神经环路演化赋能脉冲神经网络创新.md`
+- 迁移 `00_Inbox\文献与碎片\美国国防高级研究计划局（DARPA）副局长点名“战略混沌引擎”（SCEPTER），称其为AI在军事领域最具代表性的颠覆性应用项目.md` -> `00_Inbox\04_会议战略\美国国防高级研究计划局（DARPA）副局长点名“战略混沌引擎”（SCEPTER），称其为AI在军事领域最具代表性的颠覆性应用项目.md`
+- 迁移 `00_Inbox\文献与碎片\美国押注AI智能体以重塑军事决策.md` -> `00_Inbox\04_会议战略\美国押注AI智能体以重塑军事决策.md`
+- 迁移 `00_Inbox\文献与碎片\美国芯片法案正式签订，倡议建立Chiplet平台.md` -> `00_Inbox\04_会议战略\美国芯片法案正式签订，倡议建立Chiplet平台.md`
+- 迁移 `00_Inbox\文献与碎片\群体智能读书会丨韩战钢_从自然到人工集群系统的实验_模型_应用_线下第一期_.md` -> `00_Inbox\04_会议战略\群体智能读书会丨韩战钢_从自然到人工集群系统的实验_模型_应用_线下第一期_.md`
+- 迁移 `00_Inbox\文献与碎片\胡延平___超级智能的9个奥本海默时刻.md` -> `00_Inbox\04_会议战略\胡延平___超级智能的9个奥本海默时刻.md`
+- 迁移 `00_Inbox\文献与碎片\能量消耗堪比神经元？单片集成神经元与突触！.md` -> `00_Inbox\03_研究资料\能量消耗堪比神经元？单片集成神经元与突触！.md`
+- 迁移 `00_Inbox\文献与碎片\脉冲神经网络技术落地新进展.md` -> `00_Inbox\03_研究资料\脉冲神经网络技术落地新进展.md`
+- 迁移 `00_Inbox\文献与碎片\脉冲神经网络：面向低功耗智能的第三代计算范式.md` -> `00_Inbox\03_研究资料\脉冲神经网络：面向低功耗智能的第三代计算范式.md`
+- 迁移 `00_Inbox\文献与碎片\脉冲？脉冲！—— IBM TrueNorth芯片 (三).md` -> `00_Inbox\03_研究资料\脉冲？脉冲！—— IBM TrueNorth芯片 (三).md`
+- 迁移 `00_Inbox\文献与碎片\脑同构晶上复杂网络涌现智能_重大项目建议.md` -> `00_Inbox\04_会议战略\脑同构晶上复杂网络涌现智能_重大项目建议.md`
+- 迁移 `00_Inbox\文献与碎片\脑启发的人工智能：全面综述.md` -> `00_Inbox\04_会议战略\脑启发的人工智能：全面综述.md`
+- 迁移 `00_Inbox\文献与碎片\脑洞大开！科学家Nature发文：人工智能之后，“智能物质”计算崛起？.md` -> `00_Inbox\04_会议战略\脑洞大开！科学家Nature发文：人工智能之后，“智能物质”计算崛起？.md`
+- 迁移 `00_Inbox\文献与碎片\脑科学启发的持续学习，打造个性化的通用人工智能.md` -> `00_Inbox\04_会议战略\脑科学启发的持续学习，打造个性化的通用人工智能.md`
+- 迁移 `00_Inbox\文献与碎片\脑网络中的高阶拓扑结构.md` -> `00_Inbox\04_会议战略\脑网络中的高阶拓扑结构.md`
+- 迁移 `00_Inbox\文献与碎片\腾讯首席科学家张正友中国具身智能大会演讲：层次化的智能机器人控制架构SLAP.md` -> `00_Inbox\04_会议战略\腾讯首席科学家张正友中国具身智能大会演讲：层次化的智能机器人控制架构SLAP.md`
+- 迁移 `00_Inbox\文献与碎片\自动微分•自组织生长__打造新一代的自组织生长模型.md` -> `00_Inbox\04_会议战略\自动微分•自组织生长__打造新一代的自组织生长模型.md`
+- 迁移 `00_Inbox\文献与碎片\自动驾驶汽车整体Chiplet解决方案（三）：互连技术 (2).md` -> `00_Inbox\04_会议战略\自动驾驶汽车整体Chiplet解决方案（三）：互连技术 (2).md`
+- 迁移 `00_Inbox\文献与碎片\自动驾驶汽车整体Chiplet解决方案（三）：互连技术.md` -> `00_Inbox\04_会议战略\自动驾驶汽车整体Chiplet解决方案（三）：互连技术.md`
+- 迁移 `00_Inbox\文献与碎片\自动驾驶汽车整体Chiplet解决方案（二）：通信解决方案.md` -> `00_Inbox\03_研究资料\自动驾驶汽车整体Chiplet解决方案（二）：通信解决方案.md`
+- 迁移 `00_Inbox\文献与碎片\自我进化Agent综述：通往超级智能的进化之路.md` -> `00_Inbox\04_会议战略\自我进化Agent综述：通往超级智能的进化之路.md`
+- 迁移 `00_Inbox\文献与碎片\自指 - 集智百科 - 复杂系统 人工智能 复杂科学 复杂网络 自组织.md` -> `00_Inbox\03_研究资料\自指 - 集智百科 - 复杂系统 人工智能 复杂科学 复杂网络 自组织.md`
+- 迁移 `00_Inbox\文献与碎片\自然_通讯_具身神经形态智能的计算框架与系统前景.md` -> `00_Inbox\03_研究资料\自然_通讯_具身神经形态智能的计算框架与系统前景.md`
+- 迁移 `00_Inbox\文献与碎片\自然·物理：当拓扑“动起来”，高阶网络重塑动力学 (2).md` -> `00_Inbox\03_研究资料\自然·物理：当拓扑“动起来”，高阶网络重塑动力学 (2).md`
+- 迁移 `00_Inbox\文献与碎片\自然·物理：当拓扑“动起来”，高阶网络重塑动力学.md` -> `00_Inbox\03_研究资料\自然·物理：当拓扑“动起来”，高阶网络重塑动力学.md`
+- 迁移 `00_Inbox\文献与碎片\自然·通讯：具身神经形态智能的计算框架与系统前景.md` -> `00_Inbox\04_会议战略\自然·通讯：具身神经形态智能的计算框架与系统前景.md`
+- 迁移 `00_Inbox\文献与碎片\自然•通讯__复杂网络上的通用神经符号回归算法.md` -> `00_Inbox\03_研究资料\自然•通讯__复杂网络上的通用神经符号回归算法.md`
+- 迁移 `00_Inbox\文献与碎片\自然界为何会进化出复杂生命_熵增_自组织.md` -> `00_Inbox\03_研究资料\自然界为何会进化出复杂生命_熵增_自组织.md`
+- 迁移 `00_Inbox\文献与碎片\自由能原理：构建超级人工智能的一条可能路径.md` -> `00_Inbox\03_研究资料\自由能原理：构建超级人工智能的一条可能路径.md`
+- 迁移 `00_Inbox\文献与碎片\自由能原理：统一生命与大脑的功能理论.md` -> `00_Inbox\03_研究资料\自由能原理：统一生命与大脑的功能理论.md`
+- 迁移 `00_Inbox\文献与碎片\自组织临界性的发现：“回过头看，事情本可以更简单”.md` -> `00_Inbox\04_会议战略\自组织临界性的发现：“回过头看，事情本可以更简单”.md`
+- 迁移 `00_Inbox\文献与碎片\舱驾一体——未来智能汽车及芯片的发展趋势与挑战.md` -> `00_Inbox\04_会议战略\舱驾一体——未来智能汽车及芯片的发展趋势与挑战.md`
+- 迁移 `00_Inbox\文献与碎片\芯片互联的大麻烦.md` -> `00_Inbox\04_会议战略\芯片互联的大麻烦.md`
+- 迁移 `00_Inbox\文献与碎片\芯片互联，越来越重要.md` -> `00_Inbox\04_会议战略\芯片互联，越来越重要.md`
+- 迁移 `00_Inbox\文献与碎片\芯片内部，如何互联？.md` -> `00_Inbox\04_会议战略\芯片内部，如何互联？.md`
+- 迁移 `00_Inbox\文献与碎片\芯片制造绞索下的危与机：以晶上系统工程奠基中国AI自主道路.md` -> `00_Inbox\03_研究资料\芯片制造绞索下的危与机：以晶上系统工程奠基中国AI自主道路.md`
+- 迁移 `00_Inbox\文献与碎片\芯粒破局_互联筑基___奇异摩尔超节点互联芯粒获评__2025年度上海算力产业十大经典案例_.md` -> `00_Inbox\04_会议战略\芯粒破局_互联筑基___奇异摩尔超节点互联芯粒获评__2025年度上海算力产业十大经典案例_.md`
+- 迁移 `00_Inbox\文献与碎片\英伟达9亿美元重注Enfabrica：超级网卡成为下一代AI互联核心？.md` -> `00_Inbox\04_会议战略\英伟达9亿美元重注Enfabrica：超级网卡成为下一代AI互联核心？.md`
+- 迁移 `00_Inbox\文献与碎片\英伟达GB200_NVL72全互联技术，铜缆方案或成为未来趋势？.md` -> `00_Inbox\03_研究资料\英伟达GB200_NVL72全互联技术，铜缆方案或成为未来趋势？.md`
+- 迁移 `00_Inbox\文献与碎片\英伟达GB200架构解析1__互联架构和未来演进.md` -> `00_Inbox\04_会议战略\英伟达GB200架构解析1__互联架构和未来演进.md`
+- 迁移 `00_Inbox\文献与碎片\英伟达GB200：从DIE芯片到3.2万卡的网络高速互联方案.md` -> `00_Inbox\03_研究资料\英伟达GB200：从DIE芯片到3.2万卡的网络高速互联方案.md`
+- 迁移 `00_Inbox\文献与碎片\英伟达下一代GPU，或全面拥抱Chiplet.md` -> `00_Inbox\03_研究资料\英伟达下一代GPU，或全面拥抱Chiplet.md`
+- 迁移 `00_Inbox\文献与碎片\英伟达最新GPU和互联路线图.md` -> `00_Inbox\04_会议战略\英伟达最新GPU和互联路线图.md`
+- 迁移 `00_Inbox\文献与碎片\英伟达研究：NVIDIA智能驾驶战略对比分析.md` -> `00_Inbox\04_会议战略\英伟达研究：NVIDIA智能驾驶战略对比分析.md`
+- 迁移 `00_Inbox\文献与碎片\英国皇家科学院发布！《人工智能时代的科学：人工智能如何改变科学研究的性质和方法》.md` -> `00_Inbox\04_会议战略\英国皇家科学院发布！《人工智能时代的科学：人工智能如何改变科学研究的性质和方法》.md`
+- 迁移 `00_Inbox\文献与碎片\英特尔®_具身智能大小脑融合方案发布：构建具身智能落地新范式.md` -> `00_Inbox\04_会议战略\英特尔®_具身智能大小脑融合方案发布：构建具身智能落地新范式.md`
+- 迁移 `00_Inbox\文献与碎片\荷兰科学家长文综述_MM丨脉冲神经形态计算_从生物启发到硬件架构与学习机制的全面综述.md` -> `00_Inbox\04_会议战略\荷兰科学家长文综述_MM丨脉冲神经形态计算_从生物启发到硬件架构与学习机制的全面综述.md`
+- 迁移 `00_Inbox\文献与碎片\蒲慕明院士：脑科学与类脑智能.md` -> `00_Inbox\04_会议战略\蒲慕明院士：脑科学与类脑智能.md`
+- 迁移 `00_Inbox\文献与碎片\行业动态___美国未来智慧科技发展计划：下一代人工智能、半导体生物合成技术、量子计算....md` -> `00_Inbox\04_会议战略\行业动态___美国未来智慧科技发展计划：下一代人工智能、半导体生物合成技术、量子计算....md`
+- 迁移 `00_Inbox\文献与碎片\西电焦李成院士：从脑科学和认知科学到人工智能，我们能够从生物物理机理中得到什么启发？.md` -> `00_Inbox\04_会议战略\西电焦李成院士：从脑科学和认知科学到人工智能，我们能够从生物物理机理中得到什么启发？.md`
+- 迁移 `00_Inbox\文献与碎片\解读：《GPU卡间互联OISA系统研究》.md` -> `00_Inbox\03_研究资料\解读：《GPU卡间互联OISA系统研究》.md`
+- 迁移 `00_Inbox\文献与碎片\计算机科学家证明，为什么更大的神经网络可以做得更好.md` -> `00_Inbox\04_会议战略\计算机科学家证明，为什么更大的神经网络可以做得更好.md`
+- 迁移 `00_Inbox\文献与碎片\认知，大脑的一种涌现属性.md` -> `00_Inbox\03_研究资料\认知，大脑的一种涌现属性.md`
+- 迁移 `00_Inbox\文献与碎片\让机器人玩猫捉老鼠，清华类脑芯片再登国际顶刊Science！.md` -> `00_Inbox\04_会议战略\让机器人玩猫捉老鼠，清华类脑芯片再登国际顶刊Science！.md`
+- 迁移 `00_Inbox\文献与碎片\论文解读__【KDD_2024】基于拓扑与动力学生成式数据增强的复杂网络系统韧性预测.md` -> `00_Inbox\04_会议战略\论文解读__【KDD_2024】基于拓扑与动力学生成式数据增强的复杂网络系统韧性预测.md`
+- 迁移 `00_Inbox\文献与碎片\论文速读：液态神经网络在Loihi-2上的应用研究.md` -> `00_Inbox\03_研究资料\论文速读：液态神经网络在Loihi-2上的应用研究.md`
+- 迁移 `00_Inbox\文献与碎片\论新一代人工智能与逻辑学的交叉研究.md` -> `00_Inbox\04_会议战略\论新一代人工智能与逻辑学的交叉研究.md`
+- 迁移 `00_Inbox\文献与碎片\访谈：从科学视角，如何理解和研究涌现？.md` -> `00_Inbox\04_会议战略\访谈：从科学视角，如何理解和研究涌现？.md`
+- 迁移 `00_Inbox\文献与碎片\详解台积电「晶圆级系统」等技术革新.md` -> `00_Inbox\04_会议战略\详解台积电「晶圆级系统」等技术革新.md`
+- 迁移 `00_Inbox\文献与碎片\诺奖之后的复杂科学：18位学者勾勒未来20年复杂系统研究图景｜新春特辑.md` -> `00_Inbox\04_会议战略\诺奖之后的复杂科学：18位学者勾勒未来20年复杂系统研究图景｜新春特辑.md`
+- 迁移 `00_Inbox\文献与碎片\诺奖和图灵奖得主辛顿最新演讲：数字智能比生物智能效率高10万倍，但进化方向不同，成名研究成果归功于博士弟子天团.md` -> `00_Inbox\04_会议战略\诺奖和图灵奖得主辛顿最新演讲：数字智能比生物智能效率高10万倍，但进化方向不同，成名研究成果归功于博士弟子天团.md`
+- 迁移 `00_Inbox\文献与碎片\诺奖得主AI教父Hinton与AI教母李飞飞首次公开对谈：我们已经发现了永生的秘密！如果智能变得比我们聪明很多，我们是无法阻止的.md` -> `00_Inbox\04_会议战略\诺奖得主AI教父Hinton与AI教母李飞飞首次公开对谈：我们已经发现了永生的秘密！如果智能变得比我们聪明很多，我们是无法阻止的.md`
+- 迁移 `00_Inbox\文献与碎片\谁将成为中国Chiplet落地“第一人”？.md` -> `00_Inbox\03_研究资料\谁将成为中国Chiplet落地“第一人”？.md`
+- 迁移 `00_Inbox\文献与碎片\谈一谈自动驾驶中的时间同步 - 知乎.md` -> `00_Inbox\03_研究资料\谈一谈自动驾驶中的时间同步 - 知乎.md`
+- 迁移 `00_Inbox\文献与碎片\谈谈「Chiplet」.md` -> `00_Inbox\04_会议战略\谈谈「Chiplet」.md`
+- 迁移 `00_Inbox\文献与碎片\谷歌物理智能体的具身智能_Gemini_Robotics_1_5_介绍.md` -> `00_Inbox\04_会议战略\谷歌物理智能体的具身智能_Gemini_Robotics_1_5_介绍.md`
+- 迁移 `00_Inbox\文献与碎片\谷歌突然宣布：上帝的密码防线逐渐崩溃！人工智能有可能是人类文明史的终结！.md` -> `00_Inbox\04_会议战略\谷歌突然宣布：上帝的密码防线逐渐崩溃！人工智能有可能是人类文明史的终结！.md`
+- 迁移 `00_Inbox\文献与碎片\资料分享___复杂网络生成算法（后篇）.md` -> `00_Inbox\04_会议战略\资料分享___复杂网络生成算法（后篇）.md`
+- 迁移 `00_Inbox\文献与碎片\资讯 液态神经网络 (Liquid Neural Nets).md` -> `00_Inbox\03_研究资料\资讯 液态神经网络 (Liquid Neural Nets).md`
+- 迁移 `00_Inbox\文献与碎片\超低功耗「类脑芯片」问世，中国团队基于大脑注意力机制研发出毫瓦级Speck系统.md` -> `00_Inbox\03_研究资料\超低功耗「类脑芯片」问世，中国团队基于大脑注意力机制研发出毫瓦级Speck系统.md`
+- 迁移 `00_Inbox\文献与碎片\超异构_x_Chiplet：双剑合璧，实现算力指数级提升.md` -> `00_Inbox\04_会议战略\超异构_x_Chiplet：双剑合璧，实现算力指数级提升.md`
+- 迁移 `00_Inbox\文献与碎片\超强互联_Ultra_I_C为美军提供未来战场综合通信解决方案.md` -> `00_Inbox\04_会议战略\超强互联_Ultra_I_C为美军提供未来战场综合通信解决方案.md`
+- 迁移 `00_Inbox\文献与碎片\超算网络中的主流拓扑架构.md` -> `00_Inbox\03_研究资料\超算网络中的主流拓扑架构.md`
+- 迁移 `00_Inbox\文献与碎片\超算网络常见组网拓扑.md` -> `00_Inbox\03_研究资料\超算网络常见组网拓扑.md`
+- 迁移 `00_Inbox\文献与碎片\超级战争：人工智能正在塑造战争的未来！.md` -> `00_Inbox\04_会议战略\超级战争：人工智能正在塑造战争的未来！.md`
+- 迁移 `00_Inbox\文献与碎片\超维计算与人工智能.md` -> `00_Inbox\03_研究资料\超维计算与人工智能.md`
+- 迁移 `00_Inbox\文献与碎片\超自适应神经形态视觉器件的高阶动力学研究.md` -> `00_Inbox\03_研究资料\超自适应神经形态视觉器件的高阶动力学研究.md`
+- 迁移 `00_Inbox\文献与碎片\超节点的光互联和光交换.md` -> `00_Inbox\04_会议战略\超节点的光互联和光交换.md`
+- 迁移 `00_Inbox\文献与碎片\超越π0.5，复旦团队首创「世界模型+具身训练+强化学习」闭环框架.md` -> `00_Inbox\03_研究资料\超越π0.5，复旦团队首创「世界模型+具身训练+强化学习」闭环框架.md`
+- 迁移 `00_Inbox\文献与碎片\越来越火的Chiplet.md` -> `00_Inbox\04_会议战略\越来越火的Chiplet.md`
+- 迁移 `00_Inbox\文献与碎片\跑步进入Chiplet时代.md` -> `00_Inbox\04_会议战略\跑步进入Chiplet时代.md`
+- 迁移 `00_Inbox\文献与碎片\跟我学强化学习之四——神经网络.md` -> `00_Inbox\03_研究资料\跟我学强化学习之四——神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\路线定了！中美抢夺Chiplet芯片4000亿蛋糕｜硅基世界.md` -> `00_Inbox\04_会议战略\路线定了！中美抢夺Chiplet芯片4000亿蛋糕｜硅基世界.md`
+- 迁移 `00_Inbox\文献与碎片\软件定义晶上系统_SDSoW_未来十年_2026-2035_发展战略规划.md` -> `00_Inbox\04_会议战略\软件定义晶上系统_SDSoW_未来十年_2026-2035_发展战略规划.md`
+- 迁移 `00_Inbox\文献与碎片\软件定义晶上系统的PPT要点梳理.md` -> `00_Inbox\03_研究资料\软件定义晶上系统的PPT要点梳理.md`
+- 迁移 `00_Inbox\文献与碎片\达尔文哥德尔机：自我改进智能体的开放式演化.md` -> `00_Inbox\03_研究资料\达尔文哥德尔机：自我改进智能体的开放式演化.md`
+- 迁移 `00_Inbox\文献与碎片\达摩院预测后摩尔时代的三驾马车：芯粒、存算一体与CIPU.md` -> `00_Inbox\03_研究资料\达摩院预测后摩尔时代的三驾马车：芯粒、存算一体与CIPU.md`
+- 迁移 `00_Inbox\文献与碎片\迈向生物智能理论_Towards_a_theory_of_biological_intelligence.md` -> `00_Inbox\03_研究资料\迈向生物智能理论_Towards_a_theory_of_biological_intelligence.md`
+- 迁移 `00_Inbox\文献与碎片\近期成果展示 IEEE ACM IWQoS 2025 基于查找表优化的网内二值化神经网络.md` -> `00_Inbox\04_会议战略\近期成果展示 IEEE ACM IWQoS 2025 基于查找表优化的网内二值化神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\这个用整块晶圆做的芯片，性能超乎想象.md` -> `00_Inbox\04_会议战略\这个用整块晶圆做的芯片，性能超乎想象.md`
+- 迁移 `00_Inbox\文献与碎片\这次终于能把物理信息神经网络搞懂了！！.md` -> `00_Inbox\03_研究资料\这次终于能把物理信息神经网络搞懂了！！.md`
+- 迁移 `00_Inbox\文献与碎片\这次终于能把神经网络学习原理搞清楚了！.md` -> `00_Inbox\04_会议战略\这次终于能把神经网络学习原理搞清楚了！.md`
+- 迁移 `00_Inbox\文献与碎片\这门复杂性科学有个别致的名称——混沌丨陈关荣.md` -> `00_Inbox\03_研究资料\这门复杂性科学有个别致的名称——混沌丨陈关荣.md`
+- 迁移 `00_Inbox\文献与碎片\进一步解读英伟达_Blackwell_架构、NVlink及GB200_超级芯片_深度学习_蓝海大脑GPU_InfoQ写作社区.md` -> `00_Inbox\03_研究资料\进一步解读英伟达_Blackwell_架构、NVlink及GB200_超级芯片_深度学习_蓝海大脑GPU_InfoQ写作社区.md`
+- 迁移 `00_Inbox\文献与碎片\连接一切：5G时代的万物互联网.md` -> `00_Inbox\04_会议战略\连接一切：5G时代的万物互联网.md`
+- 迁移 `00_Inbox\文献与碎片\连接人工智能与神经科学的桥梁：具有内部复杂性的神经网络模型｜Nat._Comput._Sci._速递.md` -> `00_Inbox\03_研究资料\连接人工智能与神经科学的桥梁：具有内部复杂性的神经网络模型｜Nat._Comput._Sci._速递.md`
+- 迁移 `00_Inbox\文献与碎片\连接大脑的涌现特性.md` -> `00_Inbox\03_研究资料\连接大脑的涌现特性.md`
+- 迁移 `00_Inbox\文献与碎片\连接组_人类智力源于全脑网络协同_而非单一_智能中心_.md` -> `00_Inbox\03_研究资料\连接组_人类智力源于全脑网络协同_而非单一_智能中心_.md`
+- 迁移 `00_Inbox\文献与碎片\连接组学脑网络概述：大脑的七个主要网络.md` -> `00_Inbox\03_研究资料\连接组学脑网络概述：大脑的七个主要网络.md`
+- 迁移 `00_Inbox\文献与碎片\适用于异构 Chiplet 的应用定义片上网络----架构和实现.md` -> `00_Inbox\03_研究资料\适用于异构 Chiplet 的应用定义片上网络----架构和实现.md`
+- 迁移 `00_Inbox\文献与碎片\递归 Sigma-Pi-Sigma 神经网络.md` -> `00_Inbox\03_研究资料\递归 Sigma-Pi-Sigma 神经网络.md`
+- 迁移 `00_Inbox\文献与碎片\通向复杂大脑的神秘数学之旅.md` -> `00_Inbox\04_会议战略\通向复杂大脑的神秘数学之旅.md`
+- 迁移 `00_Inbox\文献与碎片\通用人工智能的时代已经来临.md` -> `00_Inbox\04_会议战略\通用人工智能的时代已经来临.md`
+- 迁移 `00_Inbox\文献与碎片\通过全脑建模了解时空跨度下的大脑状态.md` -> `00_Inbox\04_会议战略\通过全脑建模了解时空跨度下的大脑状态.md`
+- 迁移 `00_Inbox\文献与碎片\通过复杂网络连接计算_存储等资源_在系统层面追求1_1_2的系统最优_如何设计这个复杂网络及评价指标_.md` -> `00_Inbox\03_研究资料\通过复杂网络连接计算_存储等资源_在系统层面追求1_1_2的系统最优_如何设计这个复杂网络及评价指标_.md`
+- 迁移 `00_Inbox\文献与碎片\遵循天道的新法则.md` -> `00_Inbox\03_研究资料\遵循天道的新法则.md`
+- 迁移 `00_Inbox\文献与碎片\邀请函丨“软件定义晶上系统技术创新与智能产业发展”沙龙活动.md` -> `00_Inbox\04_会议战略\邀请函丨“软件定义晶上系统技术创新与智能产业发展”沙龙活动.md`
+- 迁移 `00_Inbox\文献与碎片\郑南宁院士：人工智能进化到AGI，最大的障碍是无法感知世界、缺少常识.md` -> `00_Inbox\04_会议战略\郑南宁院士：人工智能进化到AGI，最大的障碍是无法感知世界、缺少常识.md`
+- 迁移 `00_Inbox\文献与碎片\郭平___人工智能的第一性原理是什么？.md` -> `00_Inbox\03_研究资料\郭平___人工智能的第一性原理是什么？.md`
+- 迁移 `00_Inbox\文献与碎片\重庆邮电大学校长高新波教授：人工智能未来发展趋势分析.md` -> `00_Inbox\04_会议战略\重庆邮电大学校长高新波教授：人工智能未来发展趋势分析.md`
+- 迁移 `00_Inbox\文献与碎片\重磅___图文并茂的神经网络架构大盘点：从基本原理到衍生关系-来自微信公众号机器之心-wx.abbao.cn.md` -> `00_Inbox\04_会议战略\重磅___图文并茂的神经网络架构大盘点：从基本原理到衍生关系-来自微信公众号机器之心-wx.abbao.cn.md`
+- 迁移 `00_Inbox\文献与碎片\量化因果涌现表明：宏观可以战胜微观.md` -> `00_Inbox\04_会议战略\量化因果涌现表明：宏观可以战胜微观.md`
+- 迁移 `00_Inbox\文献与碎片\量子元胞自动机中涌现小世界网络特性.md` -> `00_Inbox\04_会议战略\量子元胞自动机中涌现小世界网络特性.md`
+- 迁移 `00_Inbox\文献与碎片\钟义信：人工智能范式革命带来的智能理论研究成果——统一智能理论.md` -> `00_Inbox\04_会议战略\钟义信：人工智能范式革命带来的智能理论研究成果——统一智能理论.md`
+- 迁移 `00_Inbox\文献与碎片\长城工程 - SDI.xmind.md` -> `00_Inbox\03_研究资料\长城工程 - SDI.xmind.md`
+- 迁移 `00_Inbox\文献与碎片\长文综述：大脑中的熵、自由能、对称性和动力学 (2).md` -> `00_Inbox\03_研究资料\长文综述：大脑中的熵、自由能、对称性和动力学 (2).md`
+- 迁移 `00_Inbox\文献与碎片\长文综述：大脑中的熵、自由能、对称性和动力学 (3).md` -> `00_Inbox\04_会议战略\长文综述：大脑中的熵、自由能、对称性和动力学 (3).md`
+- 迁移 `00_Inbox\文献与碎片\长文综述：大脑中的熵、自由能、对称性和动力学.md` -> `00_Inbox\04_会议战略\长文综述：大脑中的熵、自由能、对称性和动力学.md`
+- 迁移 `00_Inbox\文献与碎片\陈关荣：探讨复杂网络的高阶拓扑及其应用.md` -> `00_Inbox\04_会议战略\陈关荣：探讨复杂网络的高阶拓扑及其应用.md`
+- 迁移 `00_Inbox\文献与碎片\院士观点丨ComAI_通信与智能深度融合新范式.md` -> `00_Inbox\04_会议战略\院士观点丨ComAI_通信与智能深度融合新范式.md`
+- 迁移 `00_Inbox\文献与碎片\集合通信NaaS产业落地计划（18个月）集合通信NaaS产业落地计划（18个月）.md` -> `00_Inbox\04_会议战略\集合通信NaaS产业落地计划（18个月）集合通信NaaS产业落地计划（18个月）.md`
+- 迁移 `00_Inbox\文献与碎片\集合通信硬件化.md` -> `00_Inbox\04_会议战略\集合通信硬件化.md`
+- 迁移 `00_Inbox\文献与碎片\集成芯片与芯粒大会.md` -> `00_Inbox\03_研究资料\集成芯片与芯粒大会.md`
+- 迁移 `00_Inbox\文献与碎片\非线性动力学与混沌学极简史 - 知乎.md` -> `00_Inbox\03_研究资料\非线性动力学与混沌学极简史 - 知乎.md`
+- 迁移 `00_Inbox\文献与碎片\面向万亿参数大模型训练的SDI_软件定义互联___网内原生_AI_通信加速系统.md` -> `00_Inbox\04_会议战略\面向万亿参数大模型训练的SDI_软件定义互联___网内原生_AI_通信加速系统.md`
+- 迁移 `00_Inbox\文献与碎片\韩国首尔大学！Advanced_Materials丨基于可重构多功能忆阻器阵列的时空水库计算.md` -> `00_Inbox\03_研究资料\韩国首尔大学！Advanced_Materials丨基于可重构多功能忆阻器阵列的时空水库计算.md`
+- 迁移 `00_Inbox\文献与碎片\韩银和研究员：芯粒集成芯片研究现状和趋势__【争鸣讲坛】第二期.md` -> `00_Inbox\04_会议战略\韩银和研究员：芯粒集成芯片研究现状和趋势__【争鸣讲坛】第二期.md`
+- 迁移 `00_Inbox\文献与碎片\预测编码：大脑如何用“误差”学习世界模型？.md` -> `00_Inbox\04_会议战略\预测编码：大脑如何用“误差”学习世界模型？.md`
+- 迁移 `00_Inbox\文献与碎片\频率切换神经器实现内在可塑性与鲁棒神经形态计算.md` -> `00_Inbox\03_研究资料\频率切换神经器实现内在可塑性与鲁棒神经形态计算.md`
+- 迁移 `00_Inbox\文献与碎片\颠覆Transformer，神经网络自演化的开端！！！.md` -> `00_Inbox\03_研究资料\颠覆Transformer，神经网络自演化的开端！！！.md`
+- 迁移 `00_Inbox\文献与碎片\颠覆认知！Yann_LeCun_的_AGI_新思路，你绝对想不到.md` -> `00_Inbox\04_会议战略\颠覆认知！Yann_LeCun_的_AGI_新思路，你绝对想不到.md`
+- 迁移 `00_Inbox\文献与碎片\香港大学马毅：如何理解智能的本质？.md` -> `00_Inbox\04_会议战略\香港大学马毅：如何理解智能的本质？.md`
+- 迁移 `00_Inbox\文献与碎片\香港理工大学曹建农_南开大学方勇纯团队___上下文感知驱动的具身智能_从环境理解到自主决策.md` -> `00_Inbox\04_会议战略\香港理工大学曹建农_南开大学方勇纯团队___上下文感知驱动的具身智能_从环境理解到自主决策.md`
+- 迁移 `00_Inbox\文献与碎片\马赛克战：迈向互联互通的军事物联网.md` -> `00_Inbox\04_会议战略\马赛克战：迈向互联互通的军事物联网.md`
+- 迁移 `00_Inbox\文献与碎片\高性能GPU服务器硬件拓扑与集群组网.md` -> `00_Inbox\03_研究资料\高性能GPU服务器硬件拓扑与集群组网.md`
+- 迁移 `00_Inbox\文献与碎片\高性能计算互联：集群间_片间_Die间互联技术的演变.md` -> `00_Inbox\03_研究资料\高性能计算互联：集群间_片间_Die间互联技术的演变.md`
+- 迁移 `00_Inbox\文献与碎片\黄金思维.md` -> `00_Inbox\03_研究资料\黄金思维.md`
+- 迁移 `00_Inbox\文献与碎片\黄铁军：沉迷于寻求通用智能理论，将是阻碍_AI_发展的最大障碍___Yann_LeCun_自传《科学之路》序.md` -> `00_Inbox\04_会议战略\黄铁军：沉迷于寻求通用智能理论，将是阻碍_AI_发展的最大障碍___Yann_LeCun_自传《科学之路》序.md`
+- 生成 `30_Outputs/论文/00_论文导航.md`
+- 生成 `30_Outputs/专利/00_专利导航.md`
+- 生成 `30_Outputs/00_成果总览.md`
+- 生成 `00_Inbox/00_Inbox 使用说明.md`
+
+## Related Notes
+
+- [[iNEST 全景知识图谱 (Master Index)]]
+- [[天津大学微电子学院复杂网络与类脑智能十年规划]]
+- [[网络时空协同复杂度涌现智能]]

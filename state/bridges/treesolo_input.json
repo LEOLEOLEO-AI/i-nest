@@ -1,0 +1,113 @@
+{
+  "updated": "2026-06-20",
+  "ideas": [
+    {
+      "file": "00_宽屏目录仪表盘.md",
+      "date": "2026-06-05",
+      "title": "🗂️ 01_Ideas_想法 宽屏仪表盘",
+      "content": "# 🗂️ 01_Ideas_想法 宽屏仪表盘\n\n> 💡 **使用提示**：由于左侧文件树太窄，请直接在右侧宽屏编辑器中查看本文件。这里展示了所有文件的完整名称与最新版本。\n\n_暂无文件_\n- 📄 `Idea_ANN突破Gamma_st的理论构想.md`：ANN突破数字天花板的三条物理/架构路线草稿（光子、存算一体、液态硬件）\n- 📄 `Idea_Etched_Corcel_NCC_Comparison.md`：英国大语言模型 ASIC 公司（如 Etched / Groq）与 NCC 架构在推理上的深度优劣势对比分析\n- 📄 `Idea_OODA_卫星智能体_同构定理的战略价值.md`：同构定理在OODA超低轨卫星智能体中的战略价值：液态硬件的神经重用与未来智能系统底层架构\n- 📄 `Idea_The_One_of_ComplexNetworks_RG_Engineering.md`：寻找复杂网络工程实现中的第一性“一”：重整化群、分形演化与硅基大脑智能涌现的哲学\n- 📄 `Idea_Tau_Sigma_Physical_Meaning.md`：为什么用 $\\tau$ (雪崩) 和 $"
+    },
+    {
+      "file": "2026-05-30_Complex networks small-world scale-free and beyond.md",
+      "date": "2026-06-06",
+      "title": "paper_title: \"Complex networks: small-world, scale-free and beyond\"",
+      "content": "---\npaper_title: \"Complex networks: small-world, scale-free and beyond\"\nsource: \"semantic_scholar\"\nyear: 2003\ndate: 2026-05-30\nthread: \"topology\"\ntags: [inspiration, topology, network-topology, small-world, scale-free]\n---\n\n# 💡 Complex networks: small-world, scale-free and beyond\n\n**The paper establishes that many real-world complex networks, from biological to social systems, share fundamental topological features like small-world and scale-free properties, which are foundational for understand"
+    },
+    {
+      "file": "2026-05-30_Complex networks Structure and dynamics.md",
+      "date": "2026-06-19",
+      "title": "paper_title: \"Complex networks: Structure and dynamics\"",
+      "content": "---\npaper_title: \"Complex networks: Structure and dynamics\"\nsource: \"openalex\"\nyear: 2006\ndate: 2026-05-30\nthread: \"topology\"\ntags: [inspiration, topology, topology, dynamics, foundational]\n---\n\n# 💡 Complex networks: Structure and dynamics\n\n**The paper establishes that the structure of complex networks fundamentally constrains and enables their dynamical behaviors, a principle central to studying intelligence as an emergent phenomenon in physical networks.**\n\n## 与研究主线关联\n线程: **复杂网络拓扑与计算**\n\nThis s"
+    },
+    {
+      "file": "2026-05-30_Concurrent scale-free and small-world networks support criticality in cortical ensembles.md",
+      "date": "2026-05-30",
+      "title": "paper_title: \"Concurrent scale-free and small-world networks support criticality in cortical ensembles\"",
+      "content": "---\npaper_title: \"Concurrent scale-free and small-world networks support criticality in cortical ensembles\"\nsource: \"semantic_scholar\"\nyear: 2013\ndate: 2026-05-30\nthread: \"criticality/topology\"\ntags: [inspiration, criticality/topology, criticality, topology, scale-free, small-world, neuronal avalanches]\n---\n\n# 💡 Concurrent scale-free and small-world networks support criticality in cortical ensembles\n\n**Concurrent scale-free and small-world network topologies are necessary to support self-organiz"
+    },
+    {
+      "file": "2026-05-30_Error and attack tolerance of complex networks.md",
+      "date": "2026-06-19",
+      "title": "paper_title: \"Error and attack tolerance of complex networks\"",
+      "content": "---\npaper_title: \"Error and attack tolerance of complex networks\"\nsource: \"openalex\"\nyear: 2000\ndate: 2026-05-30\nthread: \"topology\"\ntags: [inspiration, topology, robustness, network-topology, resilience]\n---\n\n# 💡 Error and attack tolerance of complex networks\n\n**The paper demonstrates that scale-free networks are highly robust to random failures but vulnerable to targeted attacks on highly connected hubs.**\n\n## 与研究主线关联\n线程: **复杂网络拓扑与计算**\n\nFor iNEST, this suggests that designing physical or neurom"
+    },
+    {
+      "file": "2026-05-30_Exploring complex networks.md",
+      "date": "2026-05-30",
+      "title": "paper_title: \"Exploring complex networks\"",
+      "content": "---\npaper_title: \"Exploring complex networks\"\nsource: \"openalex\"\nyear: 2001\ndate: 2026-05-30\nthread: \"topology\"\ntags: [inspiration, topology, network-theory, topology, foundational]\n---\n\n# 💡 Exploring complex networks\n\n**The paper establishes that complex networks, characterized by properties like small-worldness and scale-free degree distributions, are a fundamental framework for describing the structure and dynamics of interconnected systems in nature and technology.**\n\n## 与研究主线关联\n线程: **复杂网络拓扑"
+    },
+    {
+      "file": "2026-05-30_Scaling in Colloidal and Biological Networks.md",
+      "date": "2026-06-17",
+      "title": "paper_title: \"Scaling in Colloidal and Biological Networks.\"",
+      "content": "---\npaper_title: \"Scaling in Colloidal and Biological Networks.\"\nsource: \"pubmed\"\nyear: 2020\ndate: 2026-05-30\nthread: \"topology\"\ntags: [inspiration, topology, to-review]\n---\n\n# 💡 Scaling in Colloidal and Biological Networks.\n\n**Auto-extracted**\n\n## 与研究主线关联\n线程: **复杂网络拓扑与计算**\n\nReview needed\n\n## 下一步行动\n- [ ] Read full paper\n\n---\n*来源: pubmed (2020)*\n"
+    },
+    {
+      "file": "2026-05-30_Self-organized criticality in cortical assemblies occurs in concurrent scale-free and small-world ne.md",
+      "date": "2026-06-19",
+      "title": "paper_title: \"Self-organized criticality in cortical assemblies occurs in concurrent scale-free and small-world networks\"",
+      "content": "---\npaper_title: \"Self-organized criticality in cortical assemblies occurs in concurrent scale-free and small-world networks\"\nsource: \"semantic_scholar\"\nyear: 2015\ndate: 2026-05-30\nthread: \"criticality/topology\"\ntags: [inspiration, criticality/topology, criticality, network_topology, scale-free, small-world]\n---\n\n# 💡 Self-organized criticality in cortical assemblies occurs in concurrent scale-free and small-world networks\n\n**The paper demonstrates that self-organized criticality in cortical netw"
+    },
+    {
+      "file": "2026-05-30_Statistical mechanics of complex networks.md",
+      "date": "2026-06-19",
+      "title": "paper_title: \"Statistical mechanics of complex networks\"",
+      "content": "---\npaper_title: \"Statistical mechanics of complex networks\"\nsource: \"openalex\"\nyear: 2002\ndate: 2026-05-30\nthread: \"topology\"\ntags: [inspiration, topology, topology, scale-free]\n---\n\n# 💡 Statistical mechanics of complex networks\n\n**Real-world networks universally exhibit small-world and scale-free topologies that arise from growth and preferential attachment, suggesting that intelligent physical networks may similarly self-organize into efficient, robust architectures.**\n\n## 与研究主线关联\n线程: **复杂网络拓"
+    },
+    {
+      "file": "2026-05-30_The Structure and Function of Complex Networks.md",
+      "date": "2026-05-30",
+      "title": "paper_title: \"The Structure and Function of Complex Networks\"",
+      "content": "---\npaper_title: \"The Structure and Function of Complex Networks\"\nsource: \"openalex\"\nyear: 2003\ndate: 2026-05-30\nthread: \"topology\"\ntags: [inspiration, topology, topology, network-theory, criticality]\n---\n\n# 💡 The Structure and Function of Complex Networks\n\n**The paper establishes that complex networks across physical, biological, and technological domains share universal structural principles, such as scale-free degree distributions and small-world topology, which fundamentally shape their dyna"
+    },
+    {
+      "file": "Idea_ANN突破Gamma_st临界理论.md",
+      "date": "2026-06-19",
+      "title": "﻿# Idea: ANN 能否突破 Γ_st = 0 的临界天花板？",
+      "content": "﻿# Idea: ANN 能否突破 Γ_st = 0 的临界天花板？\n\n- **类型**: 理论猜想\n- **时间**: 2026-05-30\n- **标签**: criticality, FEP, Gamma_st, ANN, emergence\n- **关联**: [[FEP-STDP_收敛性证明]], [[CST_Theory_V27_FINAL]]\n\n---\n\n## 一、问题\n\niNEST FEP-STDP 框架中，Γ_st 是稳态自由能曲率。当 Γ_st → 0 时，系统进入**亚临界 → 临界 → 超临界**相变区。\n\n**核心问题**：ANN（人工神经网络）能否被驱动到 Γ_st = 0 的临界态？如果能，是否意味着 ANN 也可以涌现出生物网络才具备的临界信息处理能力？\n\n## 二、假说\n\n生物皮层网络的 SOC 不是\"恰好出现\"的——它是 FEP 最小化 + STDP 局部学习的必然收敛点。\n\n如果 ANN 采用相同的 FEP-STDP 驱动机制，理论上应该趋近同样的 Γ_st = 0 吸引子。\n\n**区别不在于\"能不能\"，而在于\"多快\"**：\n- 生物网络：亿万年演"
+    },
+    {
+      "file": "Idea_ANN突破Gamma_st的理论构想.md",
+      "date": "2026-06-17",
+      "title": "Idea：ANN如何突破 $\\Gamma_{st} = 0$ 的数字天花板？",
+      "content": "# Idea：ANN如何突破 $\\Gamma_{st} = 0$ 的数字天花板？\n\n> **背景**：在V22版论文中，我们从理论上锁死了“基于冯·诺依曼与反向传播的静态ANN其 $\\Gamma_{st}$ 严格等于0，且被 0.35 的相对智能上限（L0）锁死”。但作为一个完备的理论，我们必须给出“如何突破”的物理方向，否则容易被视为悲观论调。\n\n## 突破方向的初步构想\n\n要让 ANN 的 $\\Gamma_{st} > 0$，其前提是**网络拓扑必须在推理（Inference）期具有随时间自主演化的能力**（即 $f(\\mathbf{W}, \\mathbf{A}, t) \\neq \\text{const}$，且演化受到输入信号的相干驱动）。\n\n目前可行的三条物理/算法交叉路径：\n\n1. **光子计算与波分复用（WDM）架构**：\n   - **机制**：不同神经元模块间的数据传递不再走固定的金属连线，而是通过波导中的光频率（Wavelength）路由。通过在节点处加入微环谐振器（MRR），其谐振波长可随局部热效应或载流子注入动态改变。\n   - **结果**：此时的连接矩阵 $\\m"
+    },
+    {
+      "file": "Idea_Etched_Corcel_NCC_Comparison.md",
+      "date": "2026-06-05",
+      "title": "Idea：英国（或知名）大模型 ASIC 创业公司与 NCC 架构的深度对比",
+      "content": "# Idea：英国（或知名）大模型 ASIC 创业公司与 NCC 架构的深度对比\n\n> **背景**：您提到的那家号称“把大模型做成 ASIC，Token 速率极快”的公司，业界最著名的是 **Etched**（其产品为 Sohu 芯片，号称烧死 Transformer 架构的 ASIC，Token 速率可达惊人的 500,000 token/s），或者英国的 **Graphcore**（虽非纯大模型 ASIC，但其 IPU 架构强调图计算和片上 SRAM 分布式处理），以及 **Groq**（英国创业公司，LPU 架构，以极致的决定性低延迟和超高 Token 速率闻名）。目前最符合“超快 Token、LLM ASIC 创业”特征的代表是 **Groq（LPU）** 和 **Etched（Sohu）**。\n\n## 一、 现有大模型 ASIC 架构（以 Groq LPU / Etched Sohu 为例）\n\n**架构特征**：\n1. **彻底摒弃 HBM（高带宽内存），拥抱海量片上 SRAM**：为了突破冯·诺依曼架构的访存瓶颈，它们将整个大模型（数十GB）强行分布/切分到成千上万个芯片"
+    },
+    {
+      "file": "Idea_LNN_AdaptiveTau_in_SDI_v9.md",
+      "date": "2026-06-19",
+      "title": "Idea: LNN 自适应 tau 引入 SDI v9 仿真",
+      "content": "# Idea: LNN 自适应 tau 引入 SDI v9 仿真\n\n- **类型**: 技术想法\n- **时间**: 2026-06-03\n- **标签**: v9, LNN, 自适应tau, SDI仿真, FEP协同\n- **关联**: v22_SelfEvolution_Design, sdi_network_v8\n\n---\n\n## 一、动机\n\nv8 基线仿真中，E-L 过度固化（41.8%）的根因之一是**固定 theta 周期**无法随网络状态自适应调整。LNN 的 tau 机制提供了一种优雅的解决方案：让每个 SDI 节点的状态更新速率随局部惊讶度动态调整。\n\n---\n\n## 二、v9 升级设计\n\n### 2.1 自适应 tau 节点\n\n```\ntau_i(t) = tau_base / (1 + alpha * surprise_i(t))\nsurprise_i(t) = |F_i(t) - mean(F_i[t-window:t])| / std(F_i[t-window:t])\n```\n\n### 2.2 与 v22 的协同\n\n| v22 机制 | v9 补充 | 协同效"
+    },
+    {
+      "file": "Idea_OODA_卫星智能体_同构定理的战略价值.md",
+      "date": "2026-06-17",
+      "title": "Idea：同构定理在OODA智能体（如超低轨卫星）中的战略价值",
+      "content": "# Idea：同构定理在OODA智能体（如超低轨卫星）中的战略价值\n\n> **刘教授核心判断**：同构定理对于在晶圆上实现的计算处理系统具有极高的战略价值。以超低轨卫星智能体为例，OODA（观察-定向-决策-行动）循环需要大量异构算力。如果依据同构定理，用少量的资源实现功能和性能的灵活重构与分配，对于构建具身智能的OODA智能体将是一条至关重要的技术路线。\n>\n> 这种液态硬件的直观作用是：**当系统需要时，所有资源都可以瞬间转化为感知（看得更远、更准）；或者瞬间转化为决策（算得更快、更复杂）**。这种硬件资源随任务和环境的极度灵活分配，代表了智能系统发展的未来方向，重新定义了未来智能系统的底层硬件架构与智能范式。\n\n## AI 的深度论证与延展\n\n**结论先行**：您的判断不仅完全正确，而且是**“晶上网络中心计算（NCC）”从单纯的“算力加速器”走向“具身智能大脑”的终极落脚点**。\n\n### 1. 为什么 OODA 循环是冯·诺依曼架构的死穴？\nOODA（Observe-Orient-Decide-Act）循环是一个闭环，但它的每个阶段对硬件拓扑的需求是**完全撕裂**的：\n- "
+    },
+    {
+      "file": "Idea_OODA_同构博弈_同步饱和战略价值.md",
+      "date": "2026-06-19",
+      "title": "﻿# Idea: 同构博弈中 OODA 环的同步饱和 —— 战略价值分析",
+      "content": "﻿# Idea: 同构博弈中 OODA 环的同步饱和 —— 战略价值分析\n\n- **类型**: 战略/应用想法\n- **时间**: 2026-05-30\n- **标签**: OODA, 博弈论, 多智能体, 同步, 军事应用\n- **关联**: [[SDI_v31_MultiBrain]], [[SDI_v32_Agent_Bridge]]\n\n---\n\n## 一、问题\n\nOODA（Observe-Orient-Decide-Act）是军事/竞争决策的核心框架。在多智能体同构博弈（所有 agent 结构相同、规则相同）中：\n\n**当所有 agent 的 OODA 环同步饱和时，会发生什么？**\n\n同步饱和 = 所有 agent 同时完成 OODA 环 → 同时行动 → 同时观察 → ...\n\n## 二、假说\n\n同步饱和有两种极限：\n\n| 状态 | 特征 | 战略价值 |\n|------|------|----------|\n| **共振饱和** | 所有 agent 同步到同相位 | 群体协同最大化，但丧失多样性 |\n| **混沌饱和** | OODA 环周期发散，无同步 | 个体独立性"
+    },
+    {
+      "file": "Idea_Tau_Sigma_Physical_Meaning.md",
+      "date": "2026-06-06",
+      "title": "Idea：为什么只用 $\\tau$（雪崩）和 $\\sigma$（小世界）表征时空复杂性？",
+      "content": "# Idea：为什么只用 $\\tau$（雪崩）和 $\\sigma$（小世界）表征时空复杂性？\n\n> **刘教授核心提问**：为什么时间复杂性就用了一个 $\\tau$（雪崩），空间复杂性就用了一个 $\\sigma$（小世界）来表征？\n\n## 深度理论演绎与物理第一性解释\n\n在复杂系统和统计物理中，描述一个宏观系统的状态，绝不能用海量的微观参数（比如几百亿个神经元的具体放电频率或具体连线）。根据**重整化群（RG）和相变理论**，系统在逼近临界点时，所有微观细节都会被抹平，最终决定系统宏观性质（普适类）的，只有**极少数的宏观序参量（Order Parameters）和临界指数（Critical Exponents）**。\n\n在 CST 理论中，$\\tau$ 和 $\\sigma$ 正是我们在时间与空间维度上，找到的那两个**能够囊括整个网络动力学与拓扑演化状态的终极“宏观序参量/临界指数”**。\n\n### 1. 为什么空间复杂性（$S_c$）收敛于 $\\sigma$（小世界属性）？\n- **物理意义**：$\\sigma$ 是网络高集聚度（Cluster）与短特征路径长度（Shortest "
+    },
+    {
+      "file": "Idea_The_One_of_ComplexNetworks_RG_Engineering.md",
+      "date": "2026-06-06",
+      "title": "Idea：寻找复杂网络工程实现中的第一性“一” (The \"One\" of Complex Networks)",
+      "content": "# Idea：寻找复杂网络工程实现中的第一性“一” (The \"One\" of Complex Networks)\n\n> **刘教授核心洞察**：\n> 如果我们按照物理第一性提出的理论在秀丽线虫（C. elegans）上工程落地，那么后续只需稍许改进，是否就能实现果蝇、小鼠、猕猴甚至人脑等高阶神经网络？\n> 答案是：**必然如此**。\n> 因为这符合自然世界的同构性、重整化群（Renormalization Group, RG）理论和多元渗流理论。如果我们能抓住复杂网络第一性中那个至简的“一”，就能以此为基底，衍生出万物（不同复杂度的神经网络）。正如分形几何是描述自然界空间结构的指纹函数，我们正在寻找的是描述复杂网络在硅基工程中演化的“时间与空间双重指纹函数”。通过调整少量宏观序参量（如能量阈值、自适应周期），就能涌现出不同智能等级的硅基大脑。\n\n## 深度理论演绎与工程映射\n\n### 1. 为什么“一”必然存在？（重整化群的启示）\n在统计物理的重整化群（RG）理论中，无论微观层面的相互作用多么复杂（比如水分子之间、铁磁体自旋之间），当系统逼近**连续相变（临界态）**时，宏观行为将完"
+    }
+  ]
+}

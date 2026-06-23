@@ -1,0 +1,10 @@
+{
+  "id": "genspark-email",
+  "channels": ["email"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
+

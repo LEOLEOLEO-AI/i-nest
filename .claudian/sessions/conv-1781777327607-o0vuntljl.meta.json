@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781777327607-o0vuntljl",
+  "providerId": "claude",
+  "title": "？",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1781777327608,
+  "updatedAt": 1781778017713,
+  "lastResponseAt": 1781777330972,
+  "sessionId": "bd187686-357c-45b0-9e9d-8c9970903f2b",
+  "providerState": {
+    "providerSessionId": "bd187686-357c-45b0-9e9d-8c9970903f2b"
+  },
+  "currentNote": "iNEST_1_项目策划/[V1] 海河实验室_项目申报书_NPC_CPC_SDI.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

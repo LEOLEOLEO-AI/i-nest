@@ -1,0 +1,128 @@
+# 具有内在可变性的动态忆阻器内的生成式复杂网络
+
+> 笔记本: 我的剪贴板  
+> 创建时间: 2023-11-15  
+
+---
+
+文章来源：
+Nature Communications（2022影响因子为：16.6，JCR Q1）
+文章题目：
+# Generative complex networks within a dynamic memristor with intrinsic variability
+
+文章地址：
+https://www.nature.com/articles/s41467-023-41921-3  
+
+**摘要：**人工神经网络（ANN）在过去十年中获得了巨大的发展势头。尽管最初 ANN 范式的主要任务是调整固定架构网络中的连接权重，但最近人们对不断发展网络架构以实现创建通用人工智能的目标越来越感兴趣。落后于这一趋势，当前的人工神经网络硬件努力在灵活性和效率之间寻求平衡，但却无法同时实现这两个目标。这篇文章报告了一种在单个忆阻器内按需生成复杂网络的新方法，其中通过时间多路复用创建多个虚拟节点，并利用具有固有周期变化的器件动态生成不平凡的拓扑特征，例如小世界性。当用于存储计算时，忆阻式复杂网络可以显著增加内存容量，与完全连接网络的传统存储相比，性能也有相当大的提升。这项工作扩展了忆阻器在ANN计算中的功能。
+ 
+图1 动态忆阻器的电气特性
+ 
+图2 电流衰减时间的统计分析
+ 
+图3 PBAONC复杂网络的生成示意图
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+   
+
+ 
+
+ 
+ 
+
+   
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+   
+
+ 
+
+ 
+ 
+
+    
+ 
+
+**· 往期精彩内容 ·** 
+ 
+
+ 
+
+ 
+
+ 
+  
+
+ 
+ 
+ 
+
+ 
+  
+
+ 
+    
+
+ 
+
+ 
+
+ 
+  
+
+ 
+ 
+ 
+
+ 
+  
+
+ 
+     
+[**⁜**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247487279&idx=1&sn=9d9bcee4e9e2ac5d0d09e8edff40cc59&chksm=e9e2b780de953e960d7ab463bacd59f7d229bdbd36c4f8caa61dc073c5a39accd9a40ecdf514&scene=21#wechat_redirect)** **[**Nature Physics综述：现实世界中的多层网络有更多不同之处**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247488127&idx=1&sn=160096364ff9881228ca82ca0cb8bdd4&chksm=e9e2aad0de9523c61d3f40c4a94fd1e06a59fde50a8f923942a8636ad2d0329c667482d9df90&scene=21#wechat_redirect)
+[**⁜**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247487279&idx=1&sn=9d9bcee4e9e2ac5d0d09e8edff40cc59&chksm=e9e2b780de953e960d7ab463bacd59f7d229bdbd36c4f8caa61dc073c5a39accd9a40ecdf514&scene=21#wechat_redirect)** **[**文章速递：**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247488098&idx=1&sn=4093d5aad1afde7cff1ed2bf6d3625bb&chksm=e9e2aacdde9523dbff8ef3f5071599b82b64932e7ef7e5cc7a3a203f633dd247450f1d587773&scene=21#wechat_redirect)[**文章速递：具有q指数度分布的随机网络**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247488115&idx=1&sn=69e487406bd6bccc688e43bfb845771f&chksm=e9e2aadcde9523ca052f5ba4e23928503fbae5763bf6ca4154a0ed4cfedd8225bfe2a71762c6&scene=21#wechat_redirect)
+[**⁜**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247487279&idx=1&sn=9d9bcee4e9e2ac5d0d09e8edff40cc59&chksm=e9e2b780de953e960d7ab463bacd59f7d229bdbd36c4f8caa61dc073c5a39accd9a40ecdf514&scene=21#wechat_redirect)** **[**文章速递：从聚集的局部信息对网络中有影响的节点进行排序**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247488098&idx=1&sn=4093d5aad1afde7cff1ed2bf6d3625bb&chksm=e9e2aacdde9523dbff8ef3f5071599b82b64932e7ef7e5cc7a3a203f633dd247450f1d587773&scene=21#wechat_redirect)
+[**⁜**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247487279&idx=1&sn=9d9bcee4e9e2ac5d0d09e8edff40cc59&chksm=e9e2b780de953e960d7ab463bacd59f7d229bdbd36c4f8caa61dc073c5a39accd9a40ecdf514&scene=21#wechat_redirect)** **[**Nature Reviews Physics：四篇关于网络科学的研究亮点报道**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247488069&idx=1&sn=b6af6015f31650d9cc5a1f40ebec1ddc&chksm=e9e2aaeade9523fcbe8262deb3855dd5d0e93f7236a5aed90c042c8a7151b1ea8d4edee09a7d&scene=21#wechat_redirect)
+[**⁜ **](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247487279&idx=1&sn=9d9bcee4e9e2ac5d0d09e8edff40cc59&chksm=e9e2b780de953e960d7ab463bacd59f7d229bdbd36c4f8caa61dc073c5a39accd9a40ecdf514&scene=21#wechat_redirect)[**文章速递：为什么社交网络中存在六度分离？**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247487826&idx=1&sn=cfab94f68d4a57c22a6a71005a2ee90a&chksm=e9e2a9fdde9520eb086f7b46b43984d9ba33d4e79c8d72e69ddce7992b41cfc3bbe84ff51d67&scene=21#wechat_redirect)
+**⁜ **[**文章速递：在相互依赖的话题中建立爆炸性意见去极化的模型**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247487696&idx=1&sn=6406f80da2d64dcde96ee1bd4f873e64&chksm=e9e2a87fde9521690b192b278e343ff39d59605a455c8a64d28266bc9f9b4c794c91bba1ced6&scene=21#wechat_redirect)
+[](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247485527&idx=1&sn=4a5a16c4d472b86526769c0476e9c2ff&chksm=e9e2b0f8de9539eed2555bc10055e45e5939bf055ec82d08e18db7cdc2a33d4180cd30d0f1c5&scene=21#wechat_redirect)[**⁜ **](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247485527&idx=1&sn=4a5a16c4d472b86526769c0476e9c2ff&chksm=e9e2b0f8de9539eed2555bc10055e45e5939bf055ec82d08e18db7cdc2a33d4180cd30d0f1c5&scene=21#wechat_redirect)[**Physics Reports：复杂网络近五年综述15篇**](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247487589&idx=1&sn=17fafabf87a4c4bfebbae1d2dc822c5c&chksm=e9e2a8cade9521dcbdffe87da64b56b09dadf4177dbfb32b7e234d34cfccd1b9065c34a1ada0&scene=21#wechat_redirect)[](http://mp.weixin.qq.com/s?__biz=MzI1MjQyNDY0MA==&mid=2247487589&idx=1&sn=17fafabf87a4c4bfebbae1d2dc822c5c&chksm=e9e2a8cade9521dcbdffe87da64b56b09dadf4177dbfb32b7e234d34cfccd1b9065c34a1ada0&scene=21#wechat_redirect)
+ 
+
+ 
+
+ 
+
+END 
+ 
+  
+   
+ 
+
+ 
+  
+
+ 
+
+点个赞+在看你最好看
+
+---
+**Tags:** #Chiplet

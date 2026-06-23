@@ -1,0 +1,25 @@
+L51 (running=0 dollars=0): \subsection{The CST theorem}
+L52 (running=0 dollars=0): 
+L53 (running=20 dollars=20): We formalize the CST theorem on five axioms. These are not arbitrary postulates but physical statements grounded in thermodynamic information-processing constraints (Axioms 1--3), device-physics bounds (Axiom 4), and measurement theory (Axiom 5); each is motivated by first-principles arguments detai
+L54 (running=20 dollars=0): 
+L55 (running=20 dollars=0): 
+L56 (running=20 dollars=0): From these axioms:
+L57 (running=20 dollars=0): 
+L58 (running=20 dollars=0): 
+L59 (running=20 dollars=0): \begin{equation}
+L60 (running=20 dollars=0): 
+L61 (running=20 dollars=0): CST = (S_c \cdot T_c) \cdot exp(\alpha \cdot \Gammast) \tag{1}
+L62 (running=20 dollars=0): 
+L63 (running=20 dollars=0): \end{equation}
+L64 (running=20 dollars=0): 
+L65 (running=20 dollars=0): 
+L66 (running=20 dollars=0): Spatial complexity Sc quantifies structural integration potential as the geometric mean of four orthogonal, MECE graph-theoretic measures:
+L67 (running=20 dollars=0): 
+L68 (running=20 dollars=0): 
+L69 (running=20 dollars=0): \begin{equation}
+L70 (running=20 dollars=0): 
+L71 (running=20 dollars=0): S_c = (X_1 \cdot X_2 \cdot X_3 \cdot X_4)^{1/4} \tag{2}
+L72 (running=20 dollars=0): 
+L73 (running=20 dollars=0): \end{equation}
+L74 (running=20 dollars=0): 
+L75 (running=20 dollars=0): 

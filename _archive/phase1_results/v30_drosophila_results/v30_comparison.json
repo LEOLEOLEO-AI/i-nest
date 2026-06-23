@@ -1,0 +1,14 @@
+{
+  "comparison": "WS_vs_Drosophila_V30",
+  "ws_v30": {
+    "phototaxis_PI": 0.8108814308424938,
+    "chemotaxis_CI": 0.7855875695909588,
+    "pattern_accuracy": 1.0
+  },
+  "drosophila_v30": {
+    "phototaxis_PI": 0.05844729461986302,
+    "chemotaxis_CI": 0.0689013837623981,
+    "pattern_accuracy": 1.0
+  },
+  "interpretation": "Drosophila topology achieves perfect pattern memory (100%) but weak sensorimotor coordination compared to WS topology. This is consistent with biological specialization: the fly connectome evolved for associative visual/olfactory processing, not general-purpose navigation."
+}

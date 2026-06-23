@@ -1,0 +1,51 @@
+L29 len=1476: 'The intervening decades produced fragments of an answer. Criticality theory showed that neural systems operate near phase transitions [6,7], where small changes in network state produce disproportionate changes in dynamics---a signature of complexity at the edge of chaos [50]. This dynamical framewo'
+  TEXT: The intervening decades produced fragments of an answer. Criticality theory showed that neural systems operate near phase transitions [6,7], where small changes in network state produce disproportionate changes in dynamics---a signature of complexity at the edge of chaos [50]. This dynamical framewo
+
+L30 len=1: '\n'
+  TEXT: 
+
+L31 len=1: '\n'
+  TEXT: 
+
+L32 len=738: 'From fragments to a unified theory. The present work assembles these fragments into a single quantitative framework by asking: what is the minimal set of physical quantities whose joint optimization is both necessary and sufficient for intelligence emergence? The answer, derived from first principle'
+  TEXT: From fragments to a unified theory. The present work assembles these fragments into a single quantitative framework by asking: what is the minimal set of physical quantities whose joint optimization is both necessary and sufficient for intelligence emergence? The answer, derived from first principle
+
+L33 len=1: '\n'
+  TEXT: 
+
+L34 len=1: '\n'
+  TEXT: 
+
+L35 len=719: 'The critical insight is that these quantities do not add; they multiply and amplify. A network with rich structure and poor dynamics, or rich dynamics and poor structure, achieves modest complexity. But when structure and function are physically coupled, each reinforces the other in a cascade proces'
+  TEXT: The critical insight is that these quantities do not add; they multiply and amplify. A network with rich structure and poor dynamics, or rich dynamics and poor structure, achieves modest complexity. But when structure and function are physically coupled, each reinforces the other in a cascade proces
+
+L36 len=1: '\n'
+  TEXT: 
+
+L37 len=1: '\n'
+  TEXT: 
+
+L38 len=437: 'The six intelligence thresholds {1/$\\sqrt{2}$, 1, $\\phi$, e, $\\pi$, $\\delta$} are not empirically fitted; they are derived from the symmetry-breaking structure of phase transitions in complex networks, in the same mathematical tradition that gives thermodynamics its universal constants. Their valida'
+  TEXT: The six intelligence thresholds {1/$\sqrt{2}$, 1, $\phi$, e, $\pi$, $\delta$} are not empirically fitted; they are derived from the symmetry-breaking structure of phase transitions in complex networks, in the same mathematical tradition that gives thermodynamics its universal constants. Their valida
+
+L39 len=1: '\n'
+  TEXT: 
+
+L40 len=1: '\n'
+  TEXT: 
+
+L41 len=427: 'Existing frameworks address fragments of this picture [1--3]: Integrated Information Theory (IIT) proposes $\\Phi$ as a consciousness measure [4], but computation scales as O(2ⁿ), limiting it to \\textasciitilde{}30 nodes [5]; criticality theory does not predict intelligence levels [6,7]; complex netw'
+  TEXT: Existing frameworks address fragments of this picture [1--3]: Integrated Information Theory (IIT) proposes $\Phi$ as a consciousness measure [4], but computation scales as O(2ⁿ), limiting it to \textasciitilde{}30 nodes [5]; criticality theory does not predict intelligence levels [6,7]; complex netw
+
+L42 len=1: '\n'
+  TEXT: 
+
+L43 len=1: '\n'
+  TEXT: 
+
+L44 len=599: "We further show that the global AI industry's architectural evolution over 2017--2025 constitutes independent empirical validation: every major architectural innovation---from MoE modularity and NAS-optimized hierarchy, to SSM recurrence and continuous-time liquid dynamics, to inference-time plastic"
+  TEXT: We further show that the global AI industry's architectural evolution over 2017--2025 constitutes independent empirical validation: every major architectural innovation---from MoE modularity and NAS-optimized hierarchy, to SSM recurrence and continuous-time liquid dynamics, to inference-time plastic
+
+L45 len=1: '\n'
+  TEXT: 
+
