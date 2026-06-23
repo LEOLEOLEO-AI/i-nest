@@ -4,12 +4,22 @@
   "title": "你好，测试一下",
   "titleGenerationStatus": "failed",
   "createdAt": 1782222386599,
-  "updatedAt": 1782225465972,
-  "lastResponseAt": 1782225465972,
+  "updatedAt": 1782227996853,
+  "lastResponseAt": 1782227996853,
   "sessionId": "019ef4bb-76b5-73f1-8456-d260458fe437",
   "providerState": {
     "threadId": "019ef4bb-76b5-73f1-8456-d260458fe437",
     "sessionFilePath": "C:\\Users\\LEO\\.codex\\sessions\\2026\\06\\23\\rollout-2026-06-23T21-46-31-019ef4bb-76b5-73f1-8456-d260458fe437.jsonl",
     "transcriptRootPath": "C:\\Users\\LEO\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 31020,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 31020,
+    "percentage": 12,
+    "model": "openai-codex/deepseek-ai/Deepseek-v4-Flash"
   }
 }

@@ -42,7 +42,7 @@
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {},
-      "customModels": "deepseek-chat",
+      "customModels": "deepseek-ai/Deepseek-v4-Pro\ndeepseek-ai/Deepseek-v4-Flash",
       "reasoningSummary": "auto",
       "environmentVariables": "",
       "environmentHash": "",
@@ -79,7 +79,7 @@
   "settingsProvider": "claude",
   "savedProviderModel": {
     "claude": "opus[1m]",
-    "codex": "openai-codex/deepseek-chat"
+    "codex": "openai-codex/deepseek-ai/Deepseek-v4-Flash"
   },
   "savedProviderEffort": {
     "claude": "high",
