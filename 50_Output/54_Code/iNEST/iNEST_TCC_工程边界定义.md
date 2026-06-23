@@ -44,10 +44,10 @@ tags: [iNEST, TCC, 工程边界, 分工]
 
 ```
 home/work/.openclaw/workspace/
-├── iNEST_1_项目策划/        ← 项目申报、指南
+├── 40_iNEST/44_Projects/        ← 项目申报、指南
 ├── iNEST_2_论文撰写/        ← CST论文、涌现论文
 ├── iNEST_3_专利撰写/        ← 涌现度量方法专利
-├── iNEST_4_工程开发/        ← ★ 智能涌现工程验证
+├── 50_Output/54_Code/iNEST/        ← ★ 智能涌现工程验证
 │   ├── 00_iNEST工程开发总体规划_v1.0.md
 │   ├── P0_CST理论验证工程.md
 │   ├── P1_临界态与自组织实验.md (待建)
@@ -61,6 +61,6 @@ home/work/.openclaw/workspace/
 ├── TCC_3_专利撰写/          ← SDI架构、网内归约专利
 ├── TCC_4_工程开发/          ← ★ 拓扑计算硬件工程
 │   └── (由NDSC+天大细化工程规划覆盖)
-└── TCC_5_战略规划/          ← 战略规划、对标分析、四单位分工
+└── 30_TCC/34_Projects/          ← 战略规划、对标分析、四单位分工
 ```
 
