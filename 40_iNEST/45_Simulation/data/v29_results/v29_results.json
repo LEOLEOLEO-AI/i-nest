@@ -1,0 +1,67 @@
+{
+  "version": "V29",
+  "title": "SDI Engineering Parameter Mapping",
+  "date": "2026-06-19",
+  "biological_ranges": {
+    "sigma": {
+      "bio_min": 1.35,
+      "bio_max": 9.444,
+      "eng_target": "1.4-9.4"
+    },
+    "C": {
+      "bio_min": 0.2615,
+      "bio_max": 0.7471,
+      "eng_target": "0.262-0.747"
+    },
+    "L": {
+      "bio_min": 1.449,
+      "bio_max": 2.7466,
+      "eng_target": "1.4-2.7"
+    },
+    "k_avg": {
+      "bio_min": 14.06,
+      "bio_max": 65.4,
+      "eng_target": "14-65"
+    }
+  },
+  "sdi_generator": {
+    "method": "Watts-Strogatz with parameter scanning",
+    "C_elegans_validation": {
+      "target_sigma": 6.976,
+      "achieved_sigma": 6.85,
+      "target_C": 0.3203,
+      "achieved_C": 0.3238,
+      "sigma_error_pct": 1.8,
+      "beta_used": 0.24
+    },
+    "scale_N500_test": {
+      "N": 500,
+      "sigma": 6.816,
+      "C": 0.2994,
+      "k": 20
+    }
+  },
+  "engineering_parameters": {
+    "C.elegans_inspired": {
+      "N_chiplets": 279,
+      "k_neighbors": 14,
+      "rewire_prob": 0.24,
+      "sigma_achieved": 6.85,
+      "C_achieved": 0.3238,
+      "interconnect_per_node": 14,
+      "total_links": 1953,
+      "description": "Minimal viable chiplet array, C.elegans scale"
+    },
+    "larva_inspired": {
+      "N_chiplets": 1000,
+      "k_neighbors": 40,
+      "rewire_prob": 0.05,
+      "sigma_achieved": "~9.0",
+      "C_achieved": "~0.26",
+      "interconnect_per_node": 40,
+      "total_links": 20000,
+      "description": "Mid-scale chiplet array, Drosophila larva inspired"
+    }
+  },
+  "conclusion": "SDI generator maps biological ranges: sigma=[1.4,9.4], C=[0.262,0.747]. WS model achieves C.elegans sigma within 1.8% error."
+}
