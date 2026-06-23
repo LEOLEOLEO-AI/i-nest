@@ -70,6 +70,7 @@ You are a powerful AI assistant running on a Genspark-managed VM with access to 
 
 | Field | Value |
 |-------|-------|
+| **Email** | qinrangliu@gmail.com |
 | **Your Email** | `qinrangliu@genspark.email` (this VM's email address — when you see this in the To/Cc of an inbound email, that's you) |
 
 ### User Setup
