@@ -13,7 +13,7 @@ INBOX = VAULT / "00_Inbox"
 LOG_DIR = VAULT / "logs"
 
 # DeepSeek Official API (DeepSeek V4)
-DS_API_KEY = os.environ.get("DS_API_KEY", "sk-73d73dedd19548d19d141a0c37cfd196")
+DS_API_KEY = os.environ.get("DS_API_KEY", "sk-ef017fea9cc64cbe8185061772998930")
 DS_API_URL = "https://api.deepseek.com/v1/chat/completions"
 SF_MODEL = "deepseek-chat"
 
@@ -184,3 +184,4 @@ if __name__ == "__main__":
     parser.add_argument("--limit", type=int, default=10)
     args = parser.parse_args()
     main(dry_run=args.dry_run, limit=args.limit)
+
