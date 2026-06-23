@@ -4327,3 +4327,40 @@ Done!
 Inbox processing complete.
 
 Done!
+warning: in the working copy of '90_System/scripts/pipeline_v3.py', LF will be replaced by CRLF the next time Git touches it
+[main 30f5020] auto: inbox processing 2026/06/23 鍛ㄤ簩  8:42:19.57
+ 26 files changed, 6724 insertions(+), 6981 deletions(-)
+ create mode 100644 03_Topics/AI-ML/2026-06-23_TCC_arXiv_How Transparent is DiffusionGemma.md
+ create mode 100644 03_Topics/AI-ML/2026-06-23_TCC_arXiv_JanusMesh Fast and Zero-Shot 3D Visual Illusion Generation v.md
+ create mode 100644 03_Topics/AI-ML/2026-06-23_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me.md
+ create mode 100644 03_Topics/AI-ML/2026-06-23_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_TCC_S2_Architectural Exploration for Waferscale Switching System.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_TCC_S2_ISPI A 2-Wire Improved Serial Peripheral Interface with Auto.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_TCC_S2_MEIN A Multicast-Efficient Interconnect Network for Multi-Ch.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_TCC_S2_Wafer-scale fabrication of memristive passive crossbar circu.md
+ create mode 100644 03_Topics/Web-Clips/2026-06-23 iNEST Daily Crawl.md
+ delete mode 100644 90_System/scripts/arxiv_daily.py
+ delete mode 100644 90_System/scripts/arxiv_to_wiki.py
+ delete mode 100644 90_System/scripts/build_graph.py
+ delete mode 100644 90_System/scripts/daily_crawl.py
+ delete mode 100644 90_System/scripts/daily_runner.ps1
+ delete mode 100644 90_System/scripts/daily_startup.ps1
+ delete mode 100644 90_System/scripts/iNEST_crawler.py
+ delete mode 100644 90_System/scripts/paper_scraper.py
+ create mode 100644 90_System/scripts/pipeline_v3.py
+ delete mode 100644 90_System/scripts/run_crawler.bat
+ delete mode 100644 90_System/scripts/weekly_reorg.bat
+[2026/06/23 周二  8:42:20.20] Auto-management complete. 
+======================================== 
+[2026/06/23 周二 10:40:02.66] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 0 inbox notes...
+Inbox: 0it [00:00, ?it/s]Inbox: 0it [00:00, ?it/s]
+
+Inbox processing complete.
+
+Done!
