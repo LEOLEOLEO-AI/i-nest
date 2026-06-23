@@ -1,0 +1,140 @@
+{
+  "279": {
+    "n_nodes": 279,
+    "k_avg": 10.0,
+    "n_bonds": 2790,
+    "luts_total": 350385,
+    "luts_pct": 38.94,
+    "ffs_total": 184698,
+    "ffs_pct": 10.26,
+    "dsps_total": 267,
+    "dsps_pct": 13.57,
+    "bram_kb": 37.5,
+    "bram_pct": 0.11,
+    "power_mw": 52.81,
+    "max_nodes": 537,
+    "max_nodes_limit": {
+      "lut": 537,
+      "dsp": 950,
+      "bram": 216216
+    },
+    "equiv_freq_mhz": 200,
+    "latency_per_spike_ns": 5.0,
+    "throughput_m_spikes_s": 200
+  },
+  "558": {
+    "n_nodes": 558,
+    "k_avg": 11.0,
+    "n_bonds": 6148,
+    "luts_total": 763578,
+    "luts_pct": 84.86,
+    "ffs_total": 402908,
+    "ffs_pct": 22.39,
+    "dsps_total": 557,
+    "dsps_pct": 28.34,
+    "bram_kb": 71.0,
+    "bram_pct": 0.21,
+    "power_mw": 115.06,
+    "max_nodes": 493,
+    "max_nodes_limit": {
+      "lut": 493,
+      "dsp": 889,
+      "bram": 216216
+    },
+    "equiv_freq_mhz": 200,
+    "latency_per_spike_ns": 5.0,
+    "throughput_m_spikes_s": 200
+  },
+  "1116": {
+    "n_nodes": 1116,
+    "k_avg": 12.1,
+    "n_bonds": 13550,
+    "luts_total": 1666110,
+    "luts_pct": 185.16,
+    "ffs_total": 879802,
+    "ffs_pct": 48.89,
+    "dsps_total": 1169,
+    "dsps_pct": 59.44,
+    "bram_kb": 137.9,
+    "bram_pct": 0.4,
+    "power_mw": 251.01,
+    "max_nodes": 451,
+    "max_nodes_limit": {
+      "lut": 451,
+      "dsp": 830,
+      "bram": 216216
+    },
+    "equiv_freq_mhz": 200,
+    "latency_per_spike_ns": 5.0,
+    "throughput_m_spikes_s": 200
+  },
+  "1953": {
+    "n_nodes": 1953,
+    "k_avg": 13.1,
+    "n_bonds": 25645,
+    "luts_total": 3130020,
+    "luts_pct": 347.84,
+    "ffs_total": 1653671,
+    "ffs_pct": 91.89,
+    "dsps_total": 2132,
+    "dsps_pct": 108.36,
+    "bram_kb": 238.4,
+    "bram_pct": 0.69,
+    "power_mw": 471.49,
+    "max_nodes": 420,
+    "max_nodes_limit": {
+      "lut": 420,
+      "dsp": 784,
+      "bram": 216216
+    },
+    "equiv_freq_mhz": 200,
+    "latency_per_spike_ns": 5.0,
+    "throughput_m_spikes_s": 200
+  },
+  "5000": {
+    "n_nodes": 5000,
+    "k_avg": 15.0,
+    "n_bonds": 74892,
+    "luts_total": 9038252,
+    "luts_pct": 1004.43,
+    "ffs_total": 4778628,
+    "ffs_pct": 265.53,
+    "dsps_total": 5872,
+    "dsps_pct": 298.38,
+    "bram_kb": 604.0,
+    "bram_pct": 1.75,
+    "power_mw": 1361.2,
+    "max_nodes": 373,
+    "max_nodes_limit": {
+      "lut": 373,
+      "dsp": 711,
+      "bram": 216216
+    },
+    "equiv_freq_mhz": 200,
+    "latency_per_spike_ns": 5.0,
+    "throughput_m_spikes_s": 200
+  },
+  "10000": {
+    "n_nodes": 10000,
+    "k_avg": 16.5,
+    "n_bonds": 165049,
+    "luts_total": 19770679,
+    "luts_pct": 2197.13,
+    "ffs_total": 10457891,
+    "ffs_pct": 581.1,
+    "dsps_total": 12429,
+    "dsps_pct": 631.57,
+    "bram_kb": 1204.0,
+    "bram_pct": 3.48,
+    "power_mw": 2977.15,
+    "max_nodes": 341,
+    "max_nodes_limit": {
+      "lut": 341,
+      "dsp": 660,
+      "bram": 216216
+    },
+    "equiv_freq_mhz": 200,
+    "latency_per_spike_ns": 5.0,
+    "throughput_m_spikes_s": 200
+  }
+}
