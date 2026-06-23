@@ -1,0 +1,41 @@
+{
+  "name": "Drosophila Larval CNS + Sensorimotor",
+  "N": 2952,
+  "n_sensor": 232,
+  "n_motor": 50,
+  "sigma_i": 48.28,
+  "sigma_f": 24.86,
+  "alpha": -0.94,
+  "Cf": 0.1541,
+  "Lf": 2.96,
+  "el_final_pct": 10.7,
+  "motor_error_final": 0.4,
+  "time_s": 383.0,
+  "steps": 2000,
+  "checkpoints": [
+    {
+      "step": 500,
+      "sigma": 24.21,
+      "el_pct": 10.0,
+      "motor_err": 0.48
+    },
+    {
+      "step": 1000,
+      "sigma": 24.42,
+      "el_pct": 10.3,
+      "motor_err": 0.52
+    },
+    {
+      "step": 1500,
+      "sigma": 24.75,
+      "el_pct": 10.5,
+      "motor_err": 0.48
+    },
+    {
+      "step": 2000,
+      "sigma": 24.86,
+      "el_pct": 10.7,
+      "motor_err": 0.4
+    }
+  ]
+}

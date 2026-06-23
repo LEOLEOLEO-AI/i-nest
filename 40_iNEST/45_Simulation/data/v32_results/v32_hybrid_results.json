@@ -1,0 +1,11 @@
+{
+  "N=10": {
+    "bonds_total": 270,
+    "bonds_locked": 0,
+    "messages": 108000,
+    "msg_types": "{'propose': 108000}",
+    "mean_trust": 0.5,
+    "trust_std": 0.0,
+    "agent_states": "{'brain_0': {'brain_id': 'brain_0', 'regions': {'vis': {'sigma': 2.6009940867298647, 'alpha': -0.6034316022039474, 'C': 0.24681240981240976, 'L': 2.588080808080808, 'el_ratio': 0.0, 'k_avg': 16.0, 'F_"
+  }
+}

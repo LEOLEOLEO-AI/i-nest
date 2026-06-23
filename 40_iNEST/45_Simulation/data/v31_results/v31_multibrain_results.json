@@ -1,0 +1,340 @@
+{
+  "exp21_competition": {
+    "experiment": "2-1_competition",
+    "n_steps": 800,
+    "captures": {
+      "brain_0": {
+        "light": 0,
+        "chemical": 0
+      },
+      "brain_1": {
+        "light": 0,
+        "chemical": 0
+      }
+    },
+    "final_positions": {
+      "brain_0": [
+        43.91614269090916,
+        100.0
+      ],
+      "brain_1": [
+        65.93883734401395,
+        100.0
+      ]
+    },
+    "final_states": {
+      "brain_0": {
+        "brain_id": "brain_0",
+        "regions": {
+          "vis": {
+            "sigma": 9.09095582990614,
+            "alpha": -0.5729579586640656,
+            "C": 0.2954206349206348,
+            "L": 2.6525252525252525,
+            "el_ratio": 0.0,
+            "k_avg": 8.0,
+            "F_mean": 0.8034337461976946,
+            "scaling_events": 930,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.154967923142254
+          },
+          "chem": {
+            "sigma": 8.132986243935436,
+            "alpha": 1.5697073895091276,
+            "C": 0.25811083361083337,
+            "L": 2.5905050505050506,
+            "el_ratio": 0.0,
+            "k_avg": 8.0,
+            "F_mean": 0.8246290259216833,
+            "scaling_events": 932,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.15160116572982
+          },
+          "assoc": {
+            "sigma": 8.532042119534115,
+            "alpha": -0.4371869311109233,
+            "C": 0.30270338920338913,
+            "L": 2.454675615212528,
+            "el_ratio": 0.0,
+            "k_avg": 12.0,
+            "F_mean": 0.6946476433605708,
+            "scaling_events": 1890,
+            "glia_events": 0,
+            "active": 22,
+            "mean_V": 4.1765492235173785
+          },
+          "motor": {
+            "sigma": 7.347523482910944,
+            "alpha": -1.3224362109132575,
+            "C": 0.2302554112554111,
+            "L": 2.557979797979798,
+            "el_ratio": 0.0,
+            "k_avg": 8.0,
+            "F_mean": 0.73031854796427,
+            "scaling_events": 930,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.1702320911921165
+          }
+        },
+        "total_active": 67,
+        "mean_sigma": 8.27587691907166,
+        "mean_el": 0.0
+      },
+      "brain_1": {
+        "brain_id": "brain_1",
+        "regions": {
+          "vis": {
+            "sigma": 8.010925138353622,
+            "alpha": -0.35682768222454714,
+            "C": 0.2523535353535353,
+            "L": 2.5713131313131314,
+            "el_ratio": 0.0,
+            "k_avg": 8.0,
+            "F_mean": 0.8236291811857328,
+            "scaling_events": 931,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.162795489912585
+          },
+          "chem": {
+            "sigma": 6.879589693571281,
+            "alpha": 0.8218840713914999,
+            "C": 0.2133268398268398,
+            "L": 2.531111111111111,
+            "el_ratio": 0.0,
+            "k_avg": 8.0,
+            "F_mean": 0.8149691463783728,
+            "scaling_events": 934,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.16071361619938
+          },
+          "assoc": {
+            "sigma": 8.008841582588873,
+            "alpha": 1.074817418412997,
+            "C": 0.28221439889086936,
+            "L": 2.4380313199105146,
+            "el_ratio": 0.0,
+            "k_avg": 12.0,
+            "F_mean": 0.7109198205516971,
+            "scaling_events": 1907,
+            "glia_events": 0,
+            "active": 22,
+            "mean_V": 4.170976631224867
+          },
+          "motor": {
+            "sigma": 7.0509448476221595,
+            "alpha": -0.671625631841412,
+            "C": 0.22008874458874442,
+            "L": 2.547878787878788,
+            "el_ratio": 0.0,
+            "k_avg": 8.0,
+            "F_mean": 0.7447825336967329,
+            "scaling_events": 939,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.182355127421929
+          }
+        },
+        "total_active": 67,
+        "mean_sigma": 7.4875753155339835,
+        "mean_el": 0.0
+      }
+    },
+    "inter_bonds": {
+      "n_total": 4,
+      "n_locked": 0,
+      "lock_ratio": 0.0
+    }
+  },
+  "exp22_cooperation": {
+    "experiment": "2-2_cooperation",
+    "n_steps": 800,
+    "speedup": 0.9789317138288982,
+    "avg_dist_no_coop": 54.373327126137816,
+    "avg_dist_coop": 55.54353418960957,
+    "inter_bonds": {
+      "n_total": 30,
+      "n_locked": 0,
+      "lock_ratio": 0.0
+    },
+    "final_states": {
+      "brain_0": {
+        "brain_id": "brain_0",
+        "regions": {
+          "vis": {
+            "sigma": 8.83792732845863,
+            "alpha": -0.5864639090068154,
+            "C": 0.28245165945165934,
+            "L": 2.6086868686868687,
+            "el_ratio": 0.0,
+            "k_avg": 8.0,
+            "F_mean": 0.9809050910983406,
+            "scaling_events": 917,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.026930265483527
+          },
+          "chem": {
+            "sigma": 7.4993662316705025,
+            "alpha": -0.8468042265855168,
+            "C": 0.23421572871572852,
+            "L": 2.549292929292929,
+            "el_ratio": 0.0,
+            "k_avg": 8.0,
+            "F_mean": 1.0487700935734838,
+            "scaling_events": 919,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.021085041432372
+          },
+          "assoc": {
+            "sigma": 8.143493648056973,
+            "alpha": 0.5565939919045527,
+            "C": 0.28616930781636657,
+            "L": 2.4313199105145413,
+            "el_ratio": 0.0,
+            "k_avg": 12.0,
+            "F_mean": 0.7738365950631252,
+            "scaling_events": 1917,
+            "glia_events": 0,
+            "active": 22,
+            "mean_V": 4.0435594508014825
+          },
+          "motor": {
+            "sigma": 7.323009137721963,
+            "alpha": 0.5277988654771707,
+            "C": 0.22763852813852797,
+            "L": 2.5373737373737373,
+            "el_ratio": 0.0,
+            "k_avg": 8.0,
+            "F_mean": 1.046759267420947,
+            "scaling_events": 921,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.02487431547668
+          }
+        },
+        "total_active": 67,
+        "mean_sigma": 7.950949086477017,
+        "mean_el": 0.0
+      },
+      "brain_1": {
+        "brain_id": "brain_1",
+        "regions": {
+          "vis": {
+            "sigma": 7.419980045447269,
+            "alpha": -0.42978453490484453,
+            "C": 0.23256277056277047,
+            "L": 2.5583838383838384,
+            "el_ratio": 0.0025,
+            "k_avg": 8.0,
+            "F_mean": 0.8134417623501904,
+            "scaling_events": 917,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.143215646238188
+          },
+          "chem": {
+            "sigma": 8.396937035575661,
+            "alpha": 0.7382096191108886,
+            "C": 0.2681709956709955,
+            "L": 2.606868686868687,
+            "el_ratio": 0.0025,
+            "k_avg": 8.0,
+            "F_mean": 0.7887797876924059,
+            "scaling_events": 899,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.160310188699322
+          },
+          "assoc": {
+            "sigma": 7.895781447291528,
+            "alpha": -0.6479234756473637,
+            "C": 0.2768006993006993,
+            "L": 2.425503355704698,
+            "el_ratio": 0.0011111111111111111,
+            "k_avg": 12.0,
+            "F_mean": 0.8104858709401483,
+            "scaling_events": 1694,
+            "glia_events": 0,
+            "active": 22,
+            "mean_V": 4.196020838085255
+          },
+          "motor": {
+            "sigma": 8.259693457054338,
+            "alpha": -1.589587589567105,
+            "C": 0.2639105339105339,
+            "L": 2.608080808080808,
+            "el_ratio": 0.0025,
+            "k_avg": 8.0,
+            "F_mean": 0.8104270715280313,
+            "scaling_events": 949,
+            "glia_events": 0,
+            "active": 15,
+            "mean_V": 4.182777969716572
+          }
+        },
+        "total_active": 67,
+        "mean_sigma": 7.993097996342199,
+        "mean_el": 0.0021527777777777778
+      }
+    }
+  },
+  "exp23_mixed": {
+    "N=3": {
+      "n_brains": 3,
+      "n_steps": 500,
+      "total_captures": {
+        "light": 8,
+        "chemical": 3
+      },
+      "division_entropy": 1.039720778108687,
+      "collective_efficiency": 3.6666666666666665,
+      "mean_sigma_final": 8.079163580366766,
+      "mean_el_final": 0.0002777777777777778,
+      "inter_bonds": {
+        "n_total": 6,
+        "n_locked": 1,
+        "lock_ratio": 0.16666666666666666
+      }
+    },
+    "N=5": {
+      "n_brains": 5,
+      "n_steps": 500,
+      "total_captures": {
+        "light": 4,
+        "chemical": 0
+      },
+      "division_entropy": 0.5623351630394892,
+      "collective_efficiency": 0.8,
+      "mean_sigma_final": 8.005395530033926,
+      "mean_el_final": 0.000125,
+      "inter_bonds": {
+        "n_total": 20,
+        "n_locked": 4,
+        "lock_ratio": 0.2
+      }
+    },
+    "N=10": {
+      "n_brains": 10,
+      "n_steps": 500,
+      "total_captures": {
+        "light": 25,
+        "chemical": 15
+      },
+      "division_entropy": 2.23242221800228,
+      "collective_efficiency": 4.0,
+      "mean_sigma_final": 7.9216164561871905,
+      "mean_el_final": 0.00022916666666666666,
+      "inter_bonds": {
+        "n_total": 90,
+        "n_locked": 6,
+        "lock_ratio": 0.06666666666666667
+      }
+    }
+  }
+}
