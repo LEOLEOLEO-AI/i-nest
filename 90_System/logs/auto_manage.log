@@ -4390,3 +4390,68 @@ Done!
 Inbox processing complete.
 
 Done!
+warning: in the working copy of '30_TCC/32_Tech/ËÑëÂêåÊûÑÊô∂‰∏äÂ§çÊùÇÁΩëÁªúÊ∂åÁé∞Êô∫ËÉΩ_ÈáçÂ§ßÈ°πÁõÆÂª∫ËÆÆ.md', LF will be replaced by CRLF the next time Git touches it
+[main 356cfbe] auto: inbox processing 2026/06/23 Âë®‰∫å 12:42:08.88
+ 58 files changed, 8319 insertions(+), 6104 deletions(-)
+ create mode 100644 00_Inbox/2026-06-23_S2_Defect detection on semiconductor wafer surfaces.md
+ create mode 100644 03_Topics/AI-ML/2026-06-23_S2_Neuromorphic computing spiking neural network edge detection.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_S2_Automated Material Handling Systems System of Systems Archit.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore .md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_S2_FerroelectricAntiferroelectric HfZrOx Artificial SynapsesNeu.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_S2_HiMap A hierarchical mapping approach for enhancing lifetime.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_S2_Learning-Based DRM and Energy Optimization for Manycore Dark.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_S2_NOCTOPUS Network-on-Chip topology optimization and predictio.md
+ create mode 100644 03_Topics/Chip-Hardware/2026-06-23_S2_Network-on-Chip Irregular Topology Optimization for Real-Tim.md
+ create mode 100644 03_Topics/TCC-SDI/2026-06-23_S2_Development of a software simulator for small satellite swar.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_A Deep Reinforcement Learning Approach for Network-on-Chip L.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_A Deep Reinforcement Learning Approach for Network-on-Chip L_dup.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_A Novel Approach for Solving the Time-Varying Complex-Valued.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_A VLSI Majority-Logic Device Based on Spin Transfer Torque M.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_AI Enabled Lead-free Halide Perovskite Memristor Crossbars A.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Advanced Chiplet Placement and Routing Optimization Consider.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Advanced Chiplet Placement and Routing Optimization Consider_dup.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Architectural Exploration for Waferscale Switching System.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Automated Material Handling Systems System of Systems Archit.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Constructive community race full-density spiking neural netw.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Defect detection on semiconductor wafer surfaces.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Development of a software simulator for small satellite swar.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Emergence and Causality in Complex Systems A Survey of Causa.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore .md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Expected Free Energy-based Planning as Variational Inference.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with .md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_FerroelectricAntiferroelectric HfZrOx Artificial SynapsesNeu.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_HiMap A hierarchical mapping approach for enhancing lifetime.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Large scale integrated IGZO crossbar memristor array based a.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Lead-Free Cs3Bi2I9 Perovskite Memristors for Energy-Efficien.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Learning-Based DRM and Energy Optimization for Manycore Dark.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Lightweight Real-Time Vehicle Detection and Recognition of U.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Modeling macroscopic brain dynamics with brain-inspired comp.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_NOCTOPUS Network-on-Chip topology optimization and predictio.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Network structure influences self-organized criticality in n.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Network-on-Chip Irregular Topology Optimization for Real-Tim.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Neuromorphic computing spiking neural network edge detection.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Neuronal avalanche dynamics regulated by spike-timing-depend.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Neuronal avalanches Sandpiles of self-organized criticality .md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Position Solve Layerwise Linear Models First to Understand N.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Protein engineering using variational free energy approximat.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Self-Organized Criticality from Protected Mean-Field Dynamic.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Self-organized Criticality Identification of Power Systems B.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Signal Integrity Design and Analysis of Universal Chiplet In.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Signal Integrity Design and Analysis of Universal Chiplet In_dup.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Signal Integrity Simulation and Analysis for 2.5D Advanced P.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Signal Integrity Simulation and Analysis for 2.5D Advanced P_dup.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Universal critical dynamics in high resolution neuronal aval.md
+ create mode 100644 10_Knowledge/Papers/2026-06-23_S2_Wafer-scale fabrication of memristive passive crossbar circu.md
+[2026/06/23 ÷‹∂˛ 12:42:09.24] Auto-management complete. 
+======================================== 
+[2026/06/23 ÷‹∂˛ 14:40:01.74] Starting auto-management... 
+   Provider: siliconflow | Model: deepseek-ai/DeepSeek-V4-Pro
+
+[INBOX] Processing 1 inbox notes...
+Inbox:   0%|          | 0/1 [00:00<?, ?it/s]Inbox: 100%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä| 1/1 [00:11<00:00, 11.36s/it]Inbox: 100%|®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä®Ä| 1/1 [00:11<00:00, 11.36s/it]
+  [OK] 2026-06-23_S2_Defect detection on semiconductor wafer surfaces.md -> Chip-Hardware/
+
+Inbox processing complete.
+
+Done!
