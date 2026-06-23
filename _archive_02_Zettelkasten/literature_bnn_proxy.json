@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Macaque Cortex (CoCoMac)",
+        "source": "Modha & Singh (2010) PNAS / Honey et al. (2007)",
+        "nodes": 71,
+        "edges": 746,
+        "sc_literature": {
+            "density": 0.15,
+            "clustering": 0.46,
+            "path_length": 2.38,
+            "modularity_q": 0.51
+        },
+        "tc_literature": {
+            "criticality_lambda": 1.05,
+            "synchrony_phi": 0.42
+        },
+        "alpha_type": "active"
+    },
+    {
+        "name": "Drosophila Mushroom Body",
+        "source": "Scheffer et al. (2020) eLife / Aso et al. (2014) eLife",
+        "nodes": 25000,
+        "edges": 3000000,
+        "sc_literature": {
+            "density": 0.004,
+            "clustering": 0.21,
+            "path_length": 3.12,
+            "modularity_q": 0.65
+        },
+        "tc_literature": {
+            "criticality_lambda": 1.15,
+            "synchrony_phi": 0.28
+        },
+        "alpha_type": "active"
+    },
+    {
+        "name": "Human Cortex (HCP)",
+        "source": "Hagmann et al. (2008) PLoS Biol / Sporns (2013)",
+        "nodes": 998,
+        "edges": 17865,
+        "sc_literature": {
+            "density": 0.018,
+            "clustering": 0.53,
+            "path_length": 3.25,
+            "modularity_q": 0.68
+        },
+        "tc_literature": {
+            "criticality_lambda": 1.001,
+            "synchrony_phi": 0.55
+        },
+        "alpha_type": "active"
+    }
+]

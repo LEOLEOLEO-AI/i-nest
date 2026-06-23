@@ -1,0 +1,25 @@
+{
+  "id": "conv-1781778211171-m7xww3t07",
+  "providerId": "codex",
+  "title": "这个项目的可行性存在什么问题？",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1781778211171,
+  "updatedAt": 1781871663542,
+  "lastResponseAt": 1781871663542,
+  "sessionId": "019eda42-0e98-7171-b50d-6dc370f08be7",
+  "providerState": {
+    "threadId": "019eda42-0e98-7171-b50d-6dc370f08be7",
+    "sessionFilePath": "C:\\Users\\LEO\\.codex\\sessions\\2026\\06\\18\\rollout-2026-06-18T18-23-47-019eda42-0e98-7171-b50d-6dc370f08be7.jsonl",
+    "transcriptRootPath": "C:\\Users\\LEO\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 143,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 207360,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 143,
+    "percentage": 0,
+    "model": "deepseek-v4-pro"
+  }
+}

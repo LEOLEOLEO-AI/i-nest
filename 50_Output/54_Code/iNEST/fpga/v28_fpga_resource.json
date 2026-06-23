@@ -1,0 +1,14 @@
+{
+  "n_nodes": 1024,
+  "n_bonds": 10240,
+  "luts_used": 2150400,
+  "luts_util_pct": 239.0,
+  "dsps_used": 4096,
+  "bram_kb_used": 153.6,
+  "max_nodes_conservative": 321,
+  "power_mw": 3.07,
+  "equiv_clock_mhz": 200,
+  "latency_per_spike_ns": 5.0,
+  "throughput_m_spikes_s": 40.0,
+  "generated_from": "v24_fpga_mapping.py"
+}

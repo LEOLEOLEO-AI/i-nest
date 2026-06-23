@@ -1,0 +1,20 @@
+L86 ($=4): Spatiotemporal coupling $\Gamma_{st}$ $\in$ [--1, 1] captures both degree and direction of structural--functional alignment:
+L87 ($=0): 
+L88 ($=0): 
+L89 ($=0): \begin{equation}
+L90 ($=0): \Gamma_{st} = \text{NMI}(M_s, M_T) \cdot \text{sign}(\text{Mantel}(D_A, D\_{FC})) \tag{4}
+L91 ($=0): \end{equation}
+L92 ($=0): 
+L93 ($=0): 
+L94 ($=10): NMI(Ms, MT) is the normalized mutual information between structural community partition Ms and functional community partition MT; sign(Mantel) determines whether functional activity aligns with (+1) or opposes (--1) structural connectivity. Zero free parameters: FC is measured directly from network 
+L95 ($=0): 
+L96 ($=0): 
+L97 ($=74): The critical coefficient $\alpha$ = ln($M_{_eff}$) encodes node-level state diversity. The biological basis for $M_{_eff}$ scaling with neural complexity has been illuminated by the evolutionary trajectory of synaptic architecture: from graded-potential proto-synapses in the last common ancestor of 
+L98 ($=0): 
+L99 ($=0): 
+L100 ($=2): Intelligence Efficiency $\eta_{_I}$ extends CST to a sustainability metric:
+L101 ($=0): 
+L102 ($=0): 
+L103 ($=0): \begin{equation}
+L104 ($=0): \eta_I = CST / P\_{\text{norm}} \tag{5}
+L105 ($=0): \end{equation}

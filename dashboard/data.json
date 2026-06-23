@@ -1,0 +1,55 @@
+﻿{
+    "last_updated": "2026-06-23T20:45:00+08:00",
+    "summary": {
+        "diagnosis_version": "v1.0-FINAL",
+        "overall_score": "4.0/5",
+        "target_score": "4.5/5",
+        "current_phase": "V32-V36 Post-Diagnosis",
+        "status": "推进中"
+    },
+    "experiments": {
+        "completed": [
+            {"version": "V26", "name": "C.elegans 四指标", "sigma": 6.976, "p_value": "6.8e-135", "data": "NeuronConnect.xls (279)", "status": "completed", "date": "2026-06-19"},
+            {"version": "V27", "name": "Drosophila Larval FEP-STDP", "sigma": 9.444, "data": "connectome_larval_cns.json (2952)", "status": "completed", "date": "2026-06-19"},
+            {"version": "V28", "name": "跨物种相图", "sigma_range": "1.35-9.44", "scaling": "sigma~N^0.398", "species": 4, "status": "completed", "date": "2026-06-19"},
+            {"version": "V29", "name": "SDI 工程映射", "ws_error": "<2%", "status": "completed", "date": "2026-06-19"},
+            {"version": "V30", "name": "规模涌现阈值扫描", "threshold": "N>=64", "scaling": "sigma~N^0.479 R^2=0.995", "status": "completed", "date": "2026-06-19"},
+            {"version": "V31", "name": "C.elegans SC-FC 耦合", "enrichment": "2.3x", "p_value": "0.008", "status": "completed", "date": "2026-06-19"}
+        ],
+        "in_progress": [
+            {"version": "V35", "name": "C.elegans 发表级报告包", "priority": "P0", "target": "3图表+统计+草稿", "eta": "本周"},
+            {"version": "V32", "name": "多阈值 Avalanche 验证", "priority": "P0", "target": "tau CV<15%, p<0.01", "eta": "本周"}
+        ],
+        "planned": [
+            {"version": "V33", "name": "Hemibrain 全脑分析", "priority": "P0", "data": "21,739 nodes", "eta": "1-2周"},
+            {"version": "V34", "name": "跨物种 Avalanche 普适性", "priority": "P1", "data": "4 species", "eta": "2-3周"},
+            {"version": "V36", "name": "SDI 工程映射 v2", "priority": "P1", "eta": "3-4周"}
+        ]
+    },
+    "data_assets": {
+        "available": [
+            {"name": "C.elegans", "file": "NeuronConnect.xls", "nodes": 279, "source": "Varshney 2011"},
+            {"name": "Drosophila Larva", "file": "connectome_larval_cns.json", "nodes": 2952, "source": "Winding 2023"},
+            {"name": "Drosophila Adult", "file": "traced-total-connections.csv", "nodes": 21739, "source": "Hemibrain v1.2"},
+            {"name": "Macaque RM", "file": "connectome_macaque_rm.json", "nodes": 82, "source": "RM Cortex"},
+            {"name": "Mouse Allen", "file": "allen_mouse_connectivity.json", "nodes": 2992, "note": "injection only"},
+            {"name": "MICrONS Mouse", "file": "microns_mouse_edges.csv", "nodes": "~200K", "note": "部分数据"}
+        ]
+    },
+    "sync": {
+        "obsidian": "ok",
+        "gitee": "pending",
+        "github": "pending",
+        "genspark": "pending"
+    },
+    "progress": {
+        "tcc": {"code": 60, "paper": 80, "sim": 60, "patent": 50},
+        "inest": {"code": 60, "paper": 80, "sim": 80, "patent": 50}
+    },
+    "today_plan": [
+        {"text": "V32-V36计划已写入 reports/V32-V36_Post_Diagnosis_Plan.md", "dot": "done", "dim": "iNEST"},
+        {"text": "V35: C.elegans 发表级图表 + 统计报告", "dot": "ongoing", "dim": "iNEST"},
+        {"text": "V32: 多阈值 Avalanche 验证启动", "dot": "ongoing", "dim": "TCC+iNEST"},
+        {"text": "更新仪表盘并重启 Web 服务", "dot": "plan", "dim": "System"}
+    ]
+}

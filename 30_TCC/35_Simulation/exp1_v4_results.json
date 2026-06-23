@@ -1,0 +1,12 @@
+{
+  "C.elegans": {
+    "sigma": 4.326521837700769,
+    "C": 0.284690661242394,
+    "L": 2.4513097380523896,
+    "alpha": -0.34593945823635947,
+    "el": 0.2487506940588562,
+    "pass_sigma": true,
+    "pass_C": true,
+    "pass_L": true,
+    "pass_alpha": false,
+    "pass_el": 

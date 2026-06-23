@@ -1,0 +1,6 @@
+U+00B9: x2
+U+00E1: x1
+U+00E9: x8
+U+0151: x4
+Total remaining: 4
+Output: 91696 chars, 677 lines
