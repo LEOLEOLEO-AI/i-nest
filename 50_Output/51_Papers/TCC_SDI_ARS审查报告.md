@@ -9,7 +9,7 @@ status: Final
 
 # ARS 7-Agent 同行评审报告
 
-**论文：** [软件定义互连：从节点中心到网络中心的计算范式迁移](http://127.0.0.1:8899/home/work/.openclaw/workspace/TCC_2_论文撰写/TCC_Software_Defined_Interconnect_网络中心计算范式.md)
+**论文：** [软件定义互连：从节点中心到网络中心的计算范式迁移](http://127.0.0.1:8900/home/work/.openclaw/workspace/TCC_2_论文撰写/TCC_Software_Defined_Interconnect_网络中心计算范式.md)
 
 **目标期刊：** 中国科学：信息科学 / Science China Information Sciences
 

@@ -440,14 +440,14 @@ Year 3 (2028Q4-2029Q3): 系统→智能涌现
 
 ## 附录B：相关文档链接
 
-- [SDI实验-3_六级智能跃迁验证体系](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI实验-3_六级智能跃迁验证体系.md)
-- [SDI实验-2_V31_多脑协作与群体智能涌现路线图](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI实验-2_V31_多脑协作与群体智能涌现路线图.md)
-- [[V3] 海河实验室_正式项目申报书_TCC战略版](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_1_项目策划/海河实验室重大专项/[V3] 海河实验室_正式项目申报书_TCC战略版.md)
-- [iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0.md)
-- [智涌脑_Gen2-Gen5硬件演进路线](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/智涌脑_Gen2-Gen5硬件演进路线与代际IP继承体系_v1.0.md)
-- [SDI化合键工程参数证明](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI化合键工程参数证明及工程实现方案.md)
-- [元拓扑✖️SDI化合键的六种最优通信拓扑数学证明](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md)
-- [iNEST工程开发总体规划](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/00_iNEST工程开发总体规划_v1.0.md)
+- [SDI实验-3_六级智能跃迁验证体系](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI实验-3_六级智能跃迁验证体系.md)
+- [SDI实验-2_V31_多脑协作与群体智能涌现路线图](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI实验-2_V31_多脑协作与群体智能涌现路线图.md)
+- [[V3] 海河实验室_正式项目申报书_TCC战略版](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_1_项目策划/海河实验室重大专项/[V3] 海河实验室_正式项目申报书_TCC战略版.md)
+- [iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0.md)
+- [智涌脑_Gen2-Gen5硬件演进路线](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/智涌脑_Gen2-Gen5硬件演进路线与代际IP继承体系_v1.0.md)
+- [SDI化合键工程参数证明](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI化合键工程参数证明及工程实现方案.md)
+- [元拓扑✖️SDI化合键的六种最优通信拓扑数学证明](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md)
+- [iNEST工程开发总体规划](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/00_iNEST工程开发总体规划_v1.0.md)
 
 ---
 

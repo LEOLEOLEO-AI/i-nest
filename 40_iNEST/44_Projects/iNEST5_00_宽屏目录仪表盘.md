@@ -13,26 +13,26 @@ type: dashboard
 
 | # | 文档 | 大小 | 核心内容 | 链接 |
 |---|------|------|---------|------|
-| 1 | **iNEST战略规划 v1.0** | 35KB | 总纲：三层定位+5P体系+合作课题+科学基础 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST计算范式_从涌现科学验证到工程落地战略规划_v1.0.md) |
-| 2 | **四单位体系化分工** | 25KB | 天大/复旦/苏实/NDSC 在iNEST侧的详细任务分工 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST计算范式_四单位体系化分工规划_v1.0.md) |
-| 3 | **技术源对标分析** | 17KB | 15个全球方向的五维差异矩阵+唯一性声明 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST技术源对标分析_涌现科学的全球差异定位_v1.0.md) |
-| 4 | **MVP→产业路径** | 18KB | Phase 0~4 五阶段发展+开源策略+收入预测 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST计算范式_MVP到产业的五阶段发展路径_v1.0.md) |
-| 5 | **★ 智涌脑工程落地 v2.0** | ~50KB | **五代产品(MVP→Gen5)完整工程实现方案** | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0.md) |
+| 1 | **iNEST战略规划 v1.0** | 35KB | 总纲：三层定位+5P体系+合作课题+科学基础 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST计算范式_从涌现科学验证到工程落地战略规划_v1.0.md) |
+| 2 | **四单位体系化分工** | 25KB | 天大/复旦/苏实/NDSC 在iNEST侧的详细任务分工 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST计算范式_四单位体系化分工规划_v1.0.md) |
+| 3 | **技术源对标分析** | 17KB | 15个全球方向的五维差异矩阵+唯一性声明 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST技术源对标分析_涌现科学的全球差异定位_v1.0.md) |
+| 4 | **MVP→产业路径** | 18KB | Phase 0~4 五阶段发展+开源策略+收入预测 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST计算范式_MVP到产业的五阶段发展路径_v1.0.md) |
+| 5 | **★ 智涌脑工程落地 v2.0** | ~50KB | **五代产品(MVP→Gen5)完整工程实现方案** | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_5_战略规划/iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0.md) |
 
 ## 关联文档（跨子项目）
 
 | 子项目 | 文档 | 核心价值 | 链接 |
 |--------|------|---------|------|
-| iNEST_4 | 总体规划 v1.0 | 5P科学验证体系 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/00_iNEST工程开发总体规划_v1.0.md) |
-| iNEST_4 | LNN→FPGA路线图 | 异步电路+脉冲驱动方案 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/LNN到iNEST到FPGA_持续推进落地路线图.md) |
-| iNEST_4 | 六级智能跃迁 | L1-L6全链路仿真验证 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI实验-3_六级智能跃迁验证体系.md) |
-| iNEST_4 | 多脑协作路线图 | V31-V32群体涌现 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI实验-2_V31_多脑协作与群体智能涌现路线图.md) |
-| iNEST_4 | SDI化合键参数 | b=10, g=1.5, D_f=0.176 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI化合键工程参数证明及工程实现方案.md) |
-| iNEST_4 | 元拓扑数学证明 | 3基底×5操作→6类拓扑 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md) |
-| iNEST_4 | ARC-AGI化合键 | SDI化合键三层架构 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_4_工程开发/基于SDI（软件定义晶上系统）化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索.md) |
-| TCC_5 | TCC战略规划 v2.0 | TCC侧完整规划 | [打开](http://127.0.0.1:8899/home/work/.openclaw/workspace/TCC_5_战略规划/TCC计算范式_从智能算力中心到新一代计算平台的工程落地与生态构建战略规划_v2.0_完整版.md) |
-| Feishu | 晶上项目布局 | 三层18项目 (8理论+7关键+3应用) | [打开](http://127.0.0.1:8899/Feishu_Inbox/_processed/25_晶上项目布局.md) |
-| Feishu | CST理论→智能涌现 | CST定理完整推导 | [打开](http://127.0.0.1:8899/Feishu_Inbox/_processed/28_从超非线性到智能涌现之路.md) |
+| iNEST_4 | 总体规划 v1.0 | 5P科学验证体系 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/00_iNEST工程开发总体规划_v1.0.md) |
+| iNEST_4 | LNN→FPGA路线图 | 异步电路+脉冲驱动方案 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/LNN到iNEST到FPGA_持续推进落地路线图.md) |
+| iNEST_4 | 六级智能跃迁 | L1-L6全链路仿真验证 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI实验-3_六级智能跃迁验证体系.md) |
+| iNEST_4 | 多脑协作路线图 | V31-V32群体涌现 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI实验-2_V31_多脑协作与群体智能涌现路线图.md) |
+| iNEST_4 | SDI化合键参数 | b=10, g=1.5, D_f=0.176 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/SDI化合键工程参数证明及工程实现方案.md) |
+| iNEST_4 | 元拓扑数学证明 | 3基底×5操作→6类拓扑 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md) |
+| iNEST_4 | ARC-AGI化合键 | SDI化合键三层架构 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/iNEST_4_工程开发/基于SDI（软件定义晶上系统）化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索.md) |
+| TCC_5 | TCC战略规划 v2.0 | TCC侧完整规划 | [打开](http://127.0.0.1:8900/home/work/.openclaw/workspace/TCC_5_战略规划/TCC计算范式_从智能算力中心到新一代计算平台的工程落地与生态构建战略规划_v2.0_完整版.md) |
+| Feishu | 晶上项目布局 | 三层18项目 (8理论+7关键+3应用) | [打开](http://127.0.0.1:8900/Feishu_Inbox/_processed/25_晶上项目布局.md) |
+| Feishu | CST理论→智能涌现 | CST定理完整推导 | [打开](http://127.0.0.1:8900/Feishu_Inbox/_processed/28_从超非线性到智能涌现之路.md) |
 
 ## 快速导航：我应该看哪个部分？
 
