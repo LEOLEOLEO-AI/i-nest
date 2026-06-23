@@ -1,6 +1,6 @@
 ---
 authors: N. Shankar, Z. Zhong
-category: Chip-Hardware
+category: TCC-SDI
 date: 2026-06-23
 quality: low
 source: S2
@@ -9,6 +9,7 @@ tags:
 - from-s2
 - auto-crawl
 - tcc
+- needs-review
 - needs-review
 title: Defect detection on semiconductor wafer surfaces
 track: TCC
