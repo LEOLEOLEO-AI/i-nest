@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 iNEST+TCC Research Pipeline v3.0 — Unified Daily Crawl → Classify → Graph
 Combines daily_crawl.py + iNEST_crawler.py + build_graph.py
