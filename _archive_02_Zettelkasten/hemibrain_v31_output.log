@@ -1,0 +1,40 @@
+Loading hemibrain_meta.csv...
+Total neurons in CSV: 25397
+Active neurons (pre>5 or post>5): 25074
+Simulation N=6000
+Sensors: 169, Inter: 5831
+Chem edges: 312366
+Total edges: 327984 (chem=312366, elec=15618)
+======================================================================
+SDI v31 on Hemibrain connectome
+Source: hemibrain_meta.csv (25397 neurons, 25074 active, sim=6000)
+Parameters: C.elegans validated (T_DECAY=200)
+======================================================================
+
+Network: N=6000, chem=312366, elec=15618
+Sensors: 169, Other: 5831
+Initial: sigma=0.207, C=0.010, L=2.188
+
+Running 500 steps on Hemibrain network
+N=6000, chem=312366, elec=15618
+Params: T_DECAY=200, MAX_FIX=20, BOND_CAP=1.0
+----------------------------------------------------------------------
+  Step  100: sigma=0.208 alpha=2.591 E-L=0.0% bonds=328352
+  Step  200: sigma=0.209 alpha=3.006 E-L=0.1% bonds=328618
+  Step  300: sigma=0.210 alpha=3.121 E-L=0.1% bonds=328611
+  Step  400: sigma=0.210 alpha=3.158 E-L=0.2% bonds=328611
+
+======================================================================
+HEMIBRAIN v31 RESULTS:
+  N=6000, chem=312993, elec=15618
+  sigma=0.212  (target >= 4.0, C.elegans: 4.71)
+  alpha=3.170  (target 1.5-2.5, C.elegans: 2.32)
+  C=0.010  (target >= 0.30, C.elegans: 0.337)
+  L=2.133  (target 2.0-3.5, C.elegans: 2.44)
+  E-L ratio=0.2%  (target 15-28%, C.elegans: 19.1%)
+  Glia events: 0
+  Scaling events: 0
+  Time: 103.1s
+
+Results saved to /home/work/.openclaw/workspace/sdi_sim/hemibrain_v31_results.json
+Plot saved. DONE

@@ -1,0 +1,45 @@
+﻿{
+    "generated_at":  "2026-06-02T03:14:34.3648653Z",
+    "insights":  [
+                     {
+                         "confidence":  0.85,
+                         "ideas":  [
+                                       "TEE 加密的复杂网络分析",
+                                       "跨方向知识融合",
+                                       "安全边缘智能计算"
+                                   ],
+                         "source_directions":  [
+                                                   "TCC",
+                                                   "iNEST"
+                                               ],
+                         "title":  "TCC-TEE 在 iNEST 边缘节点的应用",
+                         "category":  "theory",
+                         "description":  "将可信执行环境引入边缘计算节点，实现安全的数据处理和智能决策",
+                         "priority":  "high",
+                         "source_papers":  [
+                                               "Trusted Execution Environments for Edge Computing",
+                                               "Emergent Intelligence in Scale-Free Networks"
+                                           ]
+                     },
+                     {
+                         "confidence":  0.7,
+                         "ideas":  [
+                                       "小世界网络加速远程证明",
+                                       "节点重要性评估用于密钥分发"
+                                   ],
+                         "source_directions":  [
+                                                   "iNEST",
+                                                   "TCC"
+                                               ],
+                         "title":  "基于复杂网络的拓扑优化与信任传递",
+                         "category":  "method",
+                         "description":  "将无标度网络的拓扑优化方法应用于 TCC 的信任传递机制设计",
+                         "priority":  "medium",
+                         "source_papers":  [
+                                               "Emergent Intelligence in Scale-Free Networks",
+                                               "Trusted Execution Environments for Edge Computing"
+                                           ]
+                     }
+                 ],
+    "total":  2
+}
