@@ -1,13 +1,28 @@
 ---
-title: "Lightweight Real-Time Vehicle Detection and Recognition of UAV Images Based on Brain-Inspired Computing Architecture"
-date: 2026-06-23
-source: S2
-track: iNEST
 authors: Kun Hu, Haoyuan Li, Yitian Zhang, Maoxun Yuan, Qingle Zhang
-year: 2023
-url: https://www.semanticscholar.org/paper/782271ddb96b23db371ce1111faa55d59aa6af62
-tags: [from-s2, auto-crawl, inest]
+category: AI-ML
+date: 2026-06-23
+entities:
+- 无人机遥感图像
+- 脑启发计算架构
+processed: '2026-06-24T00:44:14.402490'
+source: S2
+source_file: 2026-06-23_S2_Lightweight Real-Time Vehicle Detection and Recognition
+  of U.md
 status: inbox
+summary: 针对无人机遥感图像车辆检测的复杂背景和多尺度问题，提出基于脑启发计算架构的轻量级实时检测方法。
+tags:
+- from-s2
+- inest
+- auto-crawl
+- 脑启发计算
+- 车辆检测
+- 无人机
+title: Lightweight Real-Time Vehicle Detection and Recognition of UAV Images Based
+  on Brain-Inspired Computing Architecture
+track: iNEST
+url: https://www.semanticscholar.org/paper/782271ddb96b23db371ce1111faa55d59aa6af62
+year: 2023
 ---
 
 # Lightweight Real-Time Vehicle Detection and Recognition of UAV Images Based on Brain-Inspired Computing Architecture

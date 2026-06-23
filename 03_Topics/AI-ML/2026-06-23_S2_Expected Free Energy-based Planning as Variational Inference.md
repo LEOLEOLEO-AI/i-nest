@@ -1,13 +1,27 @@
 ---
-title: "Expected Free Energy-based Planning as Variational Inference"
+authors: Bert de Vries, Wouter W. L. Nuijten, Thijs van de Laar, Wouter M. Kouw, Sepideh
+  Adamiat
+category: AI-ML
 date: 2026-06-23
+entities:
+- 期望自由能
+- 主动推理
+processed: '2026-06-24T00:42:55.368833'
 source: S2
-track: iNEST
-authors: Bert de Vries, Wouter W. L. Nuijten, Thijs van de Laar, Wouter M. Kouw, Sepideh Adamiat
-year: 2025
-url: https://www.semanticscholar.org/paper/b4f8a1ae399fb801a251ca4f588b8dff259d0314
-tags: [from-s2, auto-crawl, inest]
+source_file: 2026-06-23_S2_Expected Free Energy-based Planning as Variational Inference.md
 status: inbox
+summary: 论文提出将期望自由能最小化作为变分推理，统一探索与利用，解决规划中的计算负担问题。
+tags:
+- from-s2
+- 变分推理
+- 期望自由能
+- inest
+- auto-crawl
+- 主动推理
+title: Expected Free Energy-based Planning as Variational Inference
+track: iNEST
+url: https://www.semanticscholar.org/paper/b4f8a1ae399fb801a251ca4f588b8dff259d0314
+year: 2025
 ---
 
 # Expected Free Energy-based Planning as Variational Inference

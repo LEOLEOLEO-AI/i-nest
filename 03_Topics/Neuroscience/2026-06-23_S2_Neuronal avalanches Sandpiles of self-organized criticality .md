@@ -1,13 +1,32 @@
 ---
-title: "Neuronal avalanches: Sandpiles of self-organized criticality or critical dynamics of brain waves?"
-date: 2026-06-23
-source: S2
-track: iNEST
 authors: V. Galinsky, L. R. Frank
-year: 2023
-url: https://www.semanticscholar.org/paper/863a3fe348311b9cc305cc5f453e43e7abff74d6
-tags: [from-s2, auto-crawl, inest]
+category: Neuroscience
+date: 2026-06-23
+entities:
+- 神经元雪崩
+- 脑波
+- 非线性波动力学
+- 自组织临界性
+- 弱倏逝波
+processed: '2026-06-24T00:45:41.616605'
+source: S2
+source_file: 2026-06-23_S2_Neuronal avalanches Sandpiles of self-organized criticality
+  .md
 status: inbox
+summary: 从非线性波哈密顿量推导的脑波谱标度与实验数据吻合，揭示神经元雪崩是皮层波过程的非线性表现。
+tags:
+- from-s2
+- 非线性动力学
+- inest
+- 脑波
+- auto-crawl
+- 神经元雪崩
+- 自组织临界性
+title: 'Neuronal avalanches: Sandpiles of self-organized criticality or critical dynamics
+  of brain waves?'
+track: iNEST
+url: https://www.semanticscholar.org/paper/863a3fe348311b9cc305cc5f453e43e7abff74d6
+year: 2023
 ---
 
 # Neuronal avalanches: Sandpiles of self-organized criticality or critical dynamics of brain waves?

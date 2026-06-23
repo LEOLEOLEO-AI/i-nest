@@ -1,13 +1,34 @@
 ---
-title: "Signal Integrity Design and Analysis of Universal Chiplet Interconnect Express (UCIe) Channel in Silicon Interposer for Advanced Package"
-date: 2026-06-23
-source: S2
-track: TCC
 authors: Taein Shin, Keunwoo Kim, Hyunwook Park, Boogyo Sim, Seongguk Kim
-year: 2023
-url: https://www.semanticscholar.org/paper/12e0e2de625482f5af45c5f2bb0f59d6082f3fc3
-tags: [from-s2, auto-crawl, tcc, classified, tcc]
+category: Chip-Hardware
+date: 2026-06-23
+entities:
+- UCIe
+- 硅中介层
+- 信号完整性
+- 传输线
+- 32 Gbps
+processed: '2026-06-24T00:47:03.136603'
+source: S2
+source_file: 2026-06-23_S2_Signal Integrity Design and Analysis of Universal Chiplet
+  In.md
 status: inbox
+summary: 研究硅中介层中UCIe通道的信号完整性，提出32 Gbps传输线结构。
+tags:
+- from-s2
+- 硅中介层
+- UCIe
+- classified
+- 芯粒
+- auto-crawl
+- tcc
+- 先进封装
+- 信号完整性
+title: Signal Integrity Design and Analysis of Universal Chiplet Interconnect Express
+  (UCIe) Channel in Silicon Interposer for Advanced Package
+track: TCC
+url: https://www.semanticscholar.org/paper/12e0e2de625482f5af45c5f2bb0f59d6082f3fc3
+year: 2023
 ---
 
 # Signal Integrity Design and Analysis of Universal Chiplet Interconnect Express (UCIe) Channel in Silicon Interposer for Advanced Package

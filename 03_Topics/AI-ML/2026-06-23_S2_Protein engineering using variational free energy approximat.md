@@ -1,13 +1,27 @@
 ---
-title: "Protein engineering using variational free energy approximation"
-date: 2026-06-23
-source: S2
-track: iNEST
 authors: E. Lobzaev, Michael A. Herrera, Martyna Kasprzyk, G. Stracquadanio
-year: 2024
-url: https://www.semanticscholar.org/paper/4eab7d751c1112eb2dce7f626c09db280b0a140f
-tags: [from-s2, auto-crawl, inest]
+category: AI-ML
+date: 2026-06-23
+entities:
+- PREVENT模型
+- 变分自由能近似
+- 蛋白质稳定性
+processed: '2026-06-24T00:46:21.308703'
+source: S2
+source_file: 2026-06-23_S2_Protein engineering using variational free energy approximat.md
 status: inbox
+summary: 提出PREVENT模型，通过学习序列与热力学景观生成稳定且功能性的蛋白质变体。
+tags:
+- 生成式深度学习
+- from-s2
+- 变分自由能近似
+- inest
+- auto-crawl
+- 蛋白质工程
+title: Protein engineering using variational free energy approximation
+track: iNEST
+url: https://www.semanticscholar.org/paper/4eab7d751c1112eb2dce7f626c09db280b0a140f
+year: 2024
 ---
 
 # Protein engineering using variational free energy approximation
