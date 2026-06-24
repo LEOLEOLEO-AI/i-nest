@@ -1,7 +1,7 @@
-﻿import http.server, os, markdown, urllib.parse, mimetypes
+import http.server, os, markdown, urllib.parse, mimetypes
 
 VAULT = r"D:\Obsidian\home\work\.openclaw\workspace"
-PORT = 8899
+PORT = 8900
 mimetypes.add_type("text/html", ".html")
 mimetypes.add_type("text/plain", ".md")
 
