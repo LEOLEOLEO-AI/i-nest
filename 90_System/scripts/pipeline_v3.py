@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-iNEST+TCC Research Pipeline v3.0 ‚Äî Unified Daily Crawl ‚Üí Classify ‚Üí Graph
+iNEST+TCC Research Pipeline v3.0 ‚Ä?Unified Daily Crawl ‚Ü?Classify ‚Ü?Graph
 Combines daily_crawl.py + iNEST_crawler.py + build_graph.py
 Fixed: NoneType crash, GBK encoding, deduped sources, TCC/iNEST focus
 """
@@ -113,10 +113,10 @@ status: inbox
 
 ## Relevance to TCC / iNEST
 
-(TBD ‚Äî process_inbox will auto-classify)
+(TBD ‚Ä?process_inbox will auto-classify)
 
 ---
-*Auto-crawled {TODAY} by Research Pipeline v3.0 | Inbox ‚Äî needs classification*
+*Auto-crawled {TODAY} by Research Pipeline v3.0 | Inbox ‚Ä?needs classification*
 """
     with open(fp, "w", encoding="utf-8") as f:
         f.write(content)
@@ -143,7 +143,7 @@ def crawl_semantic_scholar():
                 data = json.loads(resp.read())
                 for paper in data.get("data", []):
                     if paper is None:
-                        continue  # ‚Üê FIX: skip None items
+                        continue  # ‚Ü?FIX: skip None items
                     title = paper.get("title", "") or ""
                     abstract = paper.get("abstract") or "(no abstract)"
                     paper_url = paper.get("url", "") or ""
@@ -165,7 +165,7 @@ def crawl_arxiv():
     log("[arXiv] Searching (intersectional abs: queries)...")
     count = 0
     for label, q in ARXIV_QUERIES:
-        url = f"https://export.arxiv.org/api/query?search_query={q}&start=0&max_results=5&sortBy=submittedDate&sortOrder=descending"
+        url = f"https://export.arxiv.org/api/query?search_query={urllib.parse.quote(q)}&start=0&max_results=5&sortBy=submittedDate&sortOrder=descending"
         req = urllib.request.Request(url, headers={"User-Agent": "iNEST-Pipeline/3.0"})
         try:
             with urllib.request.urlopen(req, context=ctx, timeout=30) as resp:
@@ -283,7 +283,7 @@ Content: {content[:1500]}"""
         target = VAULT / "_archive" / "low_quality" / fp.name
         target.parent.mkdir(parents=True, exist_ok=True)
         os.rename(fp, target)
-        log(f"  ‚Üí ARCHIVE {fp.name}")
+        log(f"  ‚Ü?ARCHIVE {fp.name}")
         return
     
     # Map to directory
@@ -308,7 +308,7 @@ Content: {content[:1500]}"""
         f.write(content)
     
     os.rename(fp, target)
-    log(f"  ‚Üí {target.relative_to(VAULT)} [{track}]")
+    log(f"  ‚Ü?{target.relative_to(VAULT)} [{track}]")
 
 def process_inbox(limit=15):
     """Classify and organize inbox items."""
