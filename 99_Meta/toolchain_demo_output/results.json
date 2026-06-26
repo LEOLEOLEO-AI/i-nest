@@ -1,0 +1,44 @@
+{
+  "nx": {
+    "ws_clustering": 0.4790538239538234,
+    "ws_pathlen": 5.105477477477478,
+    "sec": 1.19
+  },
+  "igraph": {
+    "modularity": -0.0010120312500000055,
+    "communities": 1000,
+    "sec": 0.85
+  },
+  "pyg": {
+    "mean": 0.23219113051891327,
+    "std": 0.02414606511592865,
+    "sec": 5.57
+  },
+  "brian2": {
+    "neurons": 500,
+    "fired": 500,
+    "total_spikes": 1500,
+    "sec": 2.73
+  },
+  "snntorch": {
+    "rate": 0.029999999329447746,
+    "sec": 0.07
+  },
+  "snngrow": {
+    "shape": "(100, 500, 10)",
+    "sparsity": 0.49968600273132324,
+    "sec": 0.01
+  },
+  "pyspike": {
+    "isi": 0.0,
+    "spike_dist": 0.0,
+    "sync": 1.0,
+    "sec": 0.04
+  },
+  "reservoirpy": {
+    "out_mean": -0.0018866867594925507,
+    "out_std": 0.4463018746749152,
+    "sec": 0.88
+  },
+  "_total_sec": 11.3
+}
