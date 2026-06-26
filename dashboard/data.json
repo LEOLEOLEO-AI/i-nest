@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-24",
+    "last_updated": "2026-06-26",
     "papers": {
         "tcc": 0,
         "inest": 3,
@@ -63,69 +63,19 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 13 commits pushed",
-            "dot": "done",
-            "dim": "TCC+iNEST"
-        },
-        {
-            "text": "Inbox processing: 19 items to triage",
+            "text": "System idle -- waiting for next crawl cycle",
             "dot": "ongoing",
-            "dim": "iNEST"
+            "dim": "TCC+iNEST"
         }
     ],
     "today_plan": [
         {
-            "text": "[Ref] Import: Critical Percolation as a Synthetic Data Mode",
+            "text": "Update knowledge graph with new bidirectional wiki links",
             "dot": "plan",
             "dim": "iNEST"
         },
         {
-            "text": "[Ref] Import: Non-frontal face recognition using GANs and m",
-            "dot": "plan",
-            "dim": "TCC"
-        },
-        {
-            "text": "[Paper] [NEW] Physical Neural Computing: Algorithm–hardware co-design of neu",
-            "dot": "plan",
-            "dim": "iNEST"
-        },
-        {
-            "text": "[Paper] [NEW] Formal Verification: Shifting-based Optimizable Linear R",
-            "dot": "plan",
-            "dim": "TCC"
-        },
-        {
-            "text": "[Paper] [NEW] Distributed Intelligence: Formal Verification of Learned Mult",
-            "dot": "plan",
-            "dim": "TCC"
-        },
-        {
-            "text": "[论文] 推进撰写: Topology-Centric Computing: A Paradigm Shift ",
-            "dot": "plan",
-            "dim": "TCC"
-        },
-        {
-            "text": "[论文] 推进撰写: From Compute to Complexity: A Physical Theory",
-            "dot": "plan",
-            "dim": "TCC"
-        },
-        {
-            "text": "[论文] 推进撰写: 5类通信-4类计算拓扑完备映射与PTM算法",
-            "dot": "plan",
-            "dim": "TCC"
-        },
-        {
-            "text": "[专利] 推进撰写: 一种基于网络拓扑不变量的分布式计算方法",
-            "dot": "plan",
-            "dim": "TCC"
-        },
-        {
-            "text": "[同步] 三条主线进度对齐：论文/专利/指南",
-            "dot": "plan",
-            "dim": "TCC+iNEST"
-        },
-        {
-            "text": "[采集] 扫描昨日互联网+Get笔记，提取TCC/iNEST相关新研究",
+            "text": "Sync knowledge base to Gitee for Genspark collaboration",
             "dot": "plan",
             "dim": "TCC+iNEST"
         }

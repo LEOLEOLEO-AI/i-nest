@@ -1,12 +1,12 @@
 ---
-title: Genspark Project Snapshot - 2026-06-26
-date: 2026-06-26
+title: Genspark Project Snapshot - 2026-06-25
+date: 2026-06-25
 type: snapshot
 target: genspark
 tags: [genspark, snapshot, project-status]
 ---
 
-# Genspark Project Snapshot - 2026-06-26
+# Genspark Project Snapshot - 2026-06-25
 
 ## 1. Vault Overview
 
@@ -18,13 +18,11 @@ tags: [genspark, snapshot, project-status]
 | Output Patents | 35 |
 | Inbox (unprocessed) | 0 |
 | Genspark Inbox (pending) | 0 |
-| Knowledge Graph Nodes | 4210 |
-| Knowledge Graph Edges | 7618 |
+| Knowledge Graph Nodes | 4192 |
+| Knowledge Graph Edges | 7603 |
 
 ## 2. Recent Pipeline Runs
 
-- 2026-06-26: 0 papers, 0 classified
-- 2026-06-25: 1 papers, 0 classified
 - 2026-06-23: 36 papers, 20 classified
 
 
@@ -54,4 +52,4 @@ tags: [genspark, snapshot, project-status]
 
 (Review via Genspark)
 ---
-*Auto-generated 2026-06-26 18:24*
+*Auto-generated 2026-06-25 10:17*

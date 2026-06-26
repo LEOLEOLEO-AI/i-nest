@@ -1,4 +1,4 @@
-﻿# SDI Simulator v22-v28
+# SDI Simulator v22-v28
 
 自演化 SDI（Self-Developing Intelligence）仿真程序，版本 v22 到 v28。
 
