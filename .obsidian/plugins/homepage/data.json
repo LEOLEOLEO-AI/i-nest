@@ -22,5 +22,5 @@
   "separateMobile": false,
   "defaultNote": "Home.md",
   "openOnStartup": true,
-  "alwaysOpen": true
+  "alwaysOpen": false
 }
