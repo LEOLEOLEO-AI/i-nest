@@ -115,3 +115,8 @@ kb:
 [[v28多尺度仿真结果]]
 [[Papers-MOC]]
 [[iNEST-MOC]]
+
+
+## AI 摘要
+
+解读《Nature Neuroscience》综述，阐述网络神经科学将大脑视为多层级动态复杂网络的研究范式革新。

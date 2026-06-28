@@ -246,3 +246,8 @@ SDDE主方程                    iNEST动力学
 [[自组织临界态SOC]]
 [[paper1_iNEST_core_architecture]]
 [[iNEST-MOC]]
+
+
+## AI 摘要
+
+iNEST三元映射框架将三元生成内核（对称性破缺、简单规则、时空粗粒化）映射到网络拓扑与动态指标，实现从物理原理到神经网络的量化描述。
