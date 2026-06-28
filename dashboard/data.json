@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-26",
+    "last_updated": "2026-06-28",
     "papers": {
         "tcc": 0,
         "inest": 3,
@@ -63,8 +63,8 @@
     },
     "yesterday_progress": [
         {
-            "text": "System idle -- waiting for next crawl cycle",
-            "dot": "ongoing",
+            "text": "Gitee sync: 3 commits pushed",
+            "dot": "done",
             "dim": "TCC+iNEST"
         }
     ],
