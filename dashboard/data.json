@@ -1,22 +1,10 @@
 {
-    "last_updated": "2026-06-28",
+    "last_updated": "2026-07-01",
     "papers": {
         "tcc": 0,
-        "inest": 3,
+        "inest": 1,
         "tcc_list": [],
         "inest_list": [
-            {
-                "date": "2026-06-21",
-                "title": "2026-06-21 iNEST Daily Crawl",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
-            {
-                "date": "2026-06-22",
-                "title": "2026-06-22 iNEST Daily Crawl",
-                "direction": "iNEST",
-                "source": "Crawler"
-            },
             {
                 "date": "2026-06-23",
                 "title": "2026-06-23 iNEST Daily Crawl",
@@ -63,7 +51,7 @@
     },
     "yesterday_progress": [
         {
-            "text": "Gitee sync: 3 commits pushed",
+            "text": "Gitee sync: 2 commits pushed",
             "dot": "done",
             "dim": "TCC+iNEST"
         }

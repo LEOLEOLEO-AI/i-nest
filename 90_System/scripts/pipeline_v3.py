@@ -30,37 +30,64 @@ ctx = ssl.create_default_context()
 
 # ── Search Queries (TCC + iNEST) ───────────────────────
 S2_QUERIES = [
-    # === TCC: Small-world topology for wafer-scale computing ===
+    # === TCC: Topological/Spatial Computing ===
     "network-on-chip topology small-world complex network",
     "chiplet interconnect wafer-scale routing topology optimization",
-    # === iNEST: Criticality & emergence in neural systems ===
+    "temporal network dynamic topology reconfigurable computing",
+    # === iNEST: Criticality & Emergence ===
     "self-organized criticality neuronal avalanche information capacity",
     "edge of chaos neuromorphic computing reservoir dynamics",
     "neuromorphic memristor spiking neural network critical",
-    # === Bridge: Complex network theory → computation ===
+    # === Bridge: Complex Network Theory → Computation ===
     "complex network phase transition information processing emergence",
     "free energy principle self-organization neural computation",
     "integrated information causal emergence neural network",
-    # === Benchmarks: Known systems ===
+    # === Higher-Order & Structural ===
+    "higher-order network simplicial complex hypergraph information propagation",
+    "multilayer network multiplex temporal dynamics synchronization",
+    "network spatiotemporal coordination pattern formation self-organization",
+    # === Emergence & Intelligence ===
+    "causal emergence integrated information neural intelligence",
+    "multiplicative interaction nonlinear synergy complex system emergence",
+    "intrinsic motivation active inference free energy intelligence emergence",
+    # === Complex Network Theory & Application ===
+    "network geometry hyperbolic embedding complex network topology",
+    "percolation phase transition complex network robustness resilience",
+    # === Benchmarks ===
     "C. elegans connectome small-world network computation",
+    "Drosophila connectome network topology computation emergence",
 ]
 
 # iNEST-style cross-domain arXiv queries
 ARXIV_QUERIES = [
+    # --- Core TCC/iNEST ---
     ("criticality-information", 'abs:criticality AND abs:"information capacity" AND (abs:neural OR abs:network)'),
-    ("neuromorphic-critical", 'abs:neuromorphic AND abs:critical AND (abs:chip OR abs:hardware)'),
     ("emergence-complex", 'abs:emergence AND abs:"complex network" AND (abs:intelligence OR abs:computation)'),
     ("smallworld-computing", 'abs:"small-world" AND (abs:computing OR abs:chip OR abs:interconnect)'),
     ("free-energy-neural", 'abs:"free energy" AND abs:neural AND (abs:self-organization OR abs:emergence)'),
     ("NoC-topology", 'abs:"network-on-chip" AND abs:topology AND (abs:optimization OR abs:critical)'),
     ("wafer-integration", 'abs:"wafer-scale" AND (abs:integration OR abs:interconnect OR abs:architecture)'),
+    # --- Higher-Order Networks ---
+    ("higher-order", 'abs:"higher-order" AND (abs:simplicial OR abs:hypergraph) AND (abs:network OR abs:interaction)'),
+    ("multilayer-temporal", 'abs:"multilayer network" OR abs:"temporal network" AND (abs:topology OR abs:emergence OR abs:synchronization)'),
+    # --- Spatiotemporal Coordination ---
+    ("spatiotemporal", 'abs:spatiotemporal AND (abs:coordination OR abs:synchronization OR abs:"pattern formation") AND (abs:neural OR abs:network)'),
+    # --- Intelligent Emergence ---
+    ("causal-emergence", 'abs:"causal emergence" AND (abs:network OR abs:intelligence OR abs:information)'),
+    ("multiplicative", 'abs:"multiplicative interaction" OR abs:"non-additive" AND (abs:complex OR abs:emergence OR abs:network)'),
+    ("active-inference-ai", 'abs:"active inference" AND (abs:intelligence OR abs:emergence OR abs:learning)'),
+    # --- Complex Network Theory ---
+    ("network-geometry", 'abs:"network geometry" OR abs:"hyperbolic network" AND (abs:topology OR abs:complex)'),
+    ("percolation-resilience", 'abs:percolation AND abs:"complex network" AND (abs:phase OR abs:resilience)'),
+    ("dynamical-emergence", 'abs:"dynamical system" AND abs:emergence AND (abs:network OR abs:critical)'),
 ]
 
 # Google News RSS queries (for latest news)
 GN_QUERIES = [
-    ("TCC", "topological+computing+OR+chiplet+interconnect+OR+network+on+chip"),
-    ("iNEST", "neuromorphic+OR+spiking+neural+OR+brain-inspired+computing"),
-    ("emergence", "emergence+intelligence+OR+criticality+neural+OR+self-organized+criticality"),
+    ("TCC", "topological+computing+OR+chiplet+interconnect+OR+network+on+chip+OR+wafer-scale+integration"),
+    ("iNEST", "neuromorphic+OR+spiking+neural+OR+brain-inspired+computing+OR+complex+network+emergence"),
+    ("emergence", "emergence+intelligence+OR+criticality+neural+OR+self-organized+criticality+OR+causal+emergence"),
+    ("complex-networks", "higher-order+network+OR+simplicial+complex+OR+multilayer+network+OR+temporal+network"),
 ]
 
 seen_titles = set()  # dedup across sources
@@ -83,7 +110,12 @@ def generate_deep_insight(title, text, detail):
         'network-on-chip', 'noc', 'chiplet', 'wafer-scale', 'interconnect',
         'topology', 'routing', 'placement', 'small-world', 'scale-free',
         'dark silicon', 'manycore', '3d stacking', 'heterogeneous integration',
-        'crossbar', 'switching fabric', 'mesh', 'torus', 'signal integrity'
+        'crossbar', 'switching fabric', 'mesh', 'torus', 'signal integrity',
+        'temporal network', 'dynamic topology', 'reconfigurable',
+        'higher-order', 'simplicial complex', 'hypergraph',
+        'multilayer', 'multiplex network', 'network geometry',
+        'percolation', 'robustness', 'resilience',
+        'spatiotemporal', 'coordination', 'synchronization'
     ]
     inest_kw = [
         'neuromorphic', 'spiking neural', 'snn', 'memristor', 'criticality',
@@ -92,7 +124,13 @@ def generate_deep_insight(title, text, detail):
         'reservoir computing', 'liquid state', 'echo state',
         'stdp', 'surrogate gradient', 'phase transition', 'power law',
         'complex network', 'brain-inspired', 'predictive coding',
-        'e/i balance', 'excitatory inhibitory', 'c. elegans', 'connectome'
+        'e/i balance', 'excitatory inhibitory', 'c. elegans', 'connectome',
+        'causal emergence', 'multiplicative interaction', 'non-additive',
+        'synergy', 'intrinsic motivation', 'hyperbolic network',
+        'higher-order interaction', 'temporal dynamics',
+        'information geometry', 'free energy principle',
+        'pattern formation', 'self-organization', 'critical dynamics',
+        'intelligent emergence', 'integrated information theory'
     ]
     
     tcc_matches = [kw for kw in tcc_kw if kw in text]
