@@ -12,19 +12,19 @@ tags: [genspark, snapshot, project-status]
 
 | Metric | Count |
 |--------|-------|
-| Library Papers | 244 |
-| Library Articles | 155 |
+| Library Papers | 236 |
+| Library Articles | 153 |
 | Output Papers | 90 |
 | Output Patents | 36 |
 | Inbox (unprocessed) | 0 |
 | Genspark Inbox (pending) | 3 |
-| Knowledge Graph Nodes | 4227 |
-| Knowledge Graph Edges | 7657 |
+| Knowledge Graph Nodes | 4233 |
+| Knowledge Graph Edges | 7665 |
 
 ## 2. Recent Pipeline Runs
 
+- 2026-06-30: 0 papers, 0 classified
 - 2026-06-29: 0 papers, 0 classified
-- 2026-06-28: 0 papers, 0 classified
 - 2026-06-28: 0 papers, 0 classified
 
 
@@ -54,4 +54,4 @@ tags: [genspark, snapshot, project-status]
 
 (Review via Genspark)
 ---
-*Auto-generated 2026-06-30 08:03*
+*Auto-generated 2026-06-30 23:29*
