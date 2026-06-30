@@ -3,9 +3,9 @@ from datetime import datetime
 from pathlib import Path
 
 GETNOTE_BIN = os.path.expandvars(r'%LOCALAPPDATA%\getnote\getnote.exe')
-INBOX_DIR = Path(r'D:\Obsidian\GetNotes_Inbox')
-STATE_FILE = Path(r'D:\Obsidian\scripts\getnote_pull_state.json')
-IMPORT_LOG = Path(r'D:\Obsidian\scripts\getnote_pull_log.txt')
+INBOX_DIR = Path(r'D:\Obsidian\home\work\.openclaw\workspace\00_Inbox')
+STATE_FILE = Path(r'D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\getnote_pull_state.json')
+IMPORT_LOG = Path(r'D:\Obsidian\home\work\.openclaw\workspace\90_System\logs\getnote_pull_log.txt')
 
 INCLUDE_KW = [
     'iNEST','inest','NEST','TCC','SDI','CST',
@@ -49,6 +49,7 @@ EXCLUDE_KW = [
 ]
 
 INCLUDE_KBS = {
+    'nrdLBkq0': 'TCC',
     'QJm6p7nj': 'iNEST',
     'lJ6AQpG0': 'WellChip',
     'qY2v51zY': 'INEST-papers',
@@ -193,9 +194,13 @@ def pull():
                 continue
             if nid in kb_imported:
                 continue
-            ok, reason = should_include(note)
-            if not ok:
-                continue
+            # Auto-include all notes from TCC/iNEST KBs
+            if kb_name in ('TCC', 'iNEST'):
+                ok, reason = True, kb_name
+            else:
+                ok, reason = should_include(note)
+                if not ok:
+                    continue
             save_note(note, kb_name)
             kb_imported.add(nid)
             kb_new += 1

@@ -1,0 +1,38 @@
+---
+note_id: 1912016908572755264
+title: "关键 skill"
+type: plain_text
+created: 2026-06-06 08:08:30
+source: getnote
+kb: Codex-tips
+---
+
+# 关键 skill
+
+Codex必备Skills：
+
+1. Superpowers（任务规划执行）
+
+2. Firecrawl（网页抓取分析）
+
+3. Guidelines（流程标准化）
+
+4. 卡帕西四条军规（高质量编码准则）。
+
+Skill Creator：把重复工作流封装成 skill  
+Find-skill：帮你快速找到合适的 skill  
+​产品设计类：  
+Brainstorming：从 0 梳理产品方向  
+PM Skill：产品构思、PRD、调研、用户画像  
+Super Coders：拆任务、写代码、跑测试、做审查  
+​审美设计类：  
+Frontend Design as a Pro：提升前端高级感  
+Awesome Shadcn UI：参考高质量 UI 组件  
+Tasa Skill：增强页面设计感和图像生成联
+
+**MarkItDown**：微软出品的轻量级 Python 工具——把 PDF、Word、PowerPoint、Excel、图片、音频、YouTube 视频等 15+ 种文件格式统一转换为结构化 Markdown，专为 LLM 和文本分析管道设计，保留文档的语义结构（标题层级、列表、表格、链接），而不是保留视觉排版。
+
+
+
+---
+*getnote | 2026-06-30 12:36*
