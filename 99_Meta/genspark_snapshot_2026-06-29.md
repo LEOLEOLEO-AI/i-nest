@@ -1,12 +1,12 @@
 ---
-title: Genspark Project Snapshot - 2026-06-30
-date: 2026-06-30
+title: Genspark Project Snapshot - 2026-06-29
+date: 2026-06-29
 type: snapshot
 target: genspark
 tags: [genspark, snapshot, project-status]
 ---
 
-# Genspark Project Snapshot - 2026-06-30
+# Genspark Project Snapshot - 2026-06-29
 
 ## 1. Vault Overview
 
@@ -15,17 +15,17 @@ tags: [genspark, snapshot, project-status]
 | Library Papers | 244 |
 | Library Articles | 155 |
 | Output Papers | 90 |
-| Output Patents | 36 |
+| Output Patents | 35 |
 | Inbox (unprocessed) | 0 |
-| Genspark Inbox (pending) | 3 |
-| Knowledge Graph Nodes | 4227 |
-| Knowledge Graph Edges | 7657 |
+| Genspark Inbox (pending) | 0 |
+| Knowledge Graph Nodes | 4226 |
+| Knowledge Graph Edges | 7649 |
 
 ## 2. Recent Pipeline Runs
 
-- 2026-06-29: 0 papers, 0 classified
 - 2026-06-28: 0 papers, 0 classified
 - 2026-06-28: 0 papers, 0 classified
+- 2026-06-27: 1 papers, 0 classified
 
 
 ## 3. Recent Inbox Items
@@ -54,4 +54,4 @@ tags: [genspark, snapshot, project-status]
 
 (Review via Genspark)
 ---
-*Auto-generated 2026-06-30 08:03*
+*Auto-generated 2026-06-29 08:01*

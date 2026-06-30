@@ -1,7 +1,12 @@
-# NCC核心概念与基线理论集 (NCC Core Concepts)
+﻿# NCC核心概念与基线理论集 (NCC Core Concepts)
 
 > **知识库说明**：本文档为iNEST课题组“网络中心计算（NCC）”范式的纯文本高密度知识提取。作为大模型与研究人员共同使用的**系统提示词与概念基线**。所有后续的项目申报、论文写作、代码生成，均需以此文档中的数学定义和学术表述为锚点。
 
+
+> **⚠️ DEPRECATED — 参见 [[TCC_Naming_Convention_v3]]**
+> 本文档的 NPC-/CPC- 前缀体系已被 TCC Naming Convention v3.0 (2026-06-30) 取代。
+> 新旧映射：NPC-* → T.*  |  CPC-* → R.*  |  新增 C.* 控制原语
+> 范式名 NCC → TCC 统一。本文件保留作为概念基线，但命名以 v3.0 为准。
 ## 一、 第一性原理：网络中心计算 (Network-Centric Computing, NCC)
 - **核心命题**：物理拓扑即计算。计算的重心从冯·诺依曼架构的“节点”迁移到“网络”。
 - **路由-变换分解定理**：任意分布式张量计算 $\mathcal{D}$ 均可唯一分解为“路由算子（Route, $\mathcal{R}$）”与“变换算子（Transform, $\mathcal{T}$）”的交替复合序列：$\mathcal{D} = \mathcal{T}_k \circ \mathcal{R}_k \circ \cdots \circ \mathcal{T}_1 \circ \mathcal{R}_1$。
