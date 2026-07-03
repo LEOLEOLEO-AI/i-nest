@@ -1,13 +1,9 @@
-> ⚠️ 已废弃 — 内容已合并至 [[TCC_Knowledge_Base_Baseline_v2.0]]（2026-07-03 全库合并）。
-
----
-
-# TCC 知识库基线版本 v1.1
+# TCC 知识库基线版本 v2.0
 
 > **生成日期**: 2026-07-03
 > **来源**: 得到大脑（Obsidian 30_TCC知识库）+ 海河实验室提交版（v30最终版 2026-07-01）
 > **状态**: 权威基线，后续所有TCC相关内容以此为准
-> **权威性声明**: R/T/C原语定义以本文件为准。v1.1 将原语命名从 v30 的 Transport/Reduction/Control 统一修订为 Route/Transform/Control（对应 Route-Transform 分解定理），此前所有版本已被取代。
+> **权威性声明**: R/T/C原语定义以本文件为准。v2.0 统一采用 R=Route / T=Transform / C=Control 命名体系（对应 Route-Transform 分解定理），此前所有版本已被取代。
 
 ---
 
@@ -40,10 +36,10 @@ TCC 的关键价值不在于复制既有 GPU/TPU/NPU/FPGA 路线，而在于将*
 
 ---
 
-## 二、R/T/C 原语体系（权威定义 v1.1）
+## 二、R/T/C 原语体系（权威定义 v2.0）
 
-> **来源**: TCC_项目实施方案_v30_最终版.docx（2026-07-01 提交版）三张原语场景映射表的字面转录 + v1.1 命名修订
-> **命名修订依据**: v30 中 T=Transport（传输原语）→ v1.1 称 R=Route（路由/拓扑通信原语）；v30 中 R=Reduction（归约原语）→ v1.1 称 T=Transform（变换计算原语）。修订基于 Route-Transform 分解定理——Route=通信、Transform=计算 的二分法比 Transport/Reduction 更精确地反映 TCC 范式本质。
+> **来源**: TCC_项目实施方案_v30_最终版.docx（2026-07-01 提交版）三张原语场景映射表的字面转录 + v2.0 命名统一
+> **命名修订依据**: v30 中 T=Transport（传输原语）→ v2.0 称 R=Route（路由/拓扑通信原语）；v30 中 R=Reduction（归约原语）→ v2.0 称 T=Transform（变换计算原语）。修订基于 Route-Transform 分解定理——Route=通信、Transform=计算 的二分法比 Transport/Reduction 更精确地反映 TCC 范式本质。
 
 ### 2.1 三类原语总览
 
@@ -89,8 +85,8 @@ TCC 的关键价值不在于复制既有 GPU/TPU/NPU/FPGA 路线，而在于将*
 ### 2.5 版本演化路径
 
 ```
-v1 (NPC/CPC/SDI) —— v8 (6R+6T=12) —— v30 (T.R.C=16) —— v1.1 (R.T.C=16)
-2026/4/2              2026/6/28            2026/7/1 ★v30★        2026/7/3 ★权威★
+v1 (NPC/CPC/SDI) —— v8 (6R+6T=12) —— v30 (T.R.C=16) —— v1.1/v30.1 (R.T.C=16) ─── v2.0 (R.T.C=16, 基线合并)
+2026/4/2              2026/6/28            2026/7/1 ★v30★        2026/7/3 ★v30.1★      2026/7/3 ★v2.0权威★
 
 v8 R=Route:    FUSE/CAST/SWAP/FLY/RING/MESH
 v8 T=Transform: FOLD/SCAN/MAP/MM/LUT/GRAD
@@ -102,6 +98,10 @@ v30 C=Control:   LINK/TICK/SYNC/MOVE             (新增)
 v1.1 R=Route:     FUSE/PULL/CAST/SWAP/PIPE/MESH  (语义同v30 T类，名称回归v8 Route)
 v1.1 T=Transform: GEMM/FOLD/MAPS/SCAN/LOOK/SPEC  (语义同v30 R类，名称回归v8 Transform)
 v1.1 C=Control:   LINK/TICK/SYNC/MOVE             (不变)
+
+v2.0 R=Route:      FUSE/PULL/CAST/SWAP/PIPE/MESH  (基线合并：原语规范+知识库基线+命名规范统一)
+v2.0 T=Transform:  GEMM/FOLD/MAPS/SCAN/LOOK/SPEC  (全库单一真相源)
+v2.0 C=Control:    LINK/TICK/SYNC/MOVE             (不变)
 ```
 
 **命名修订理由**：Route-Transform 分解定理是 TCC 理论基石。Route=通信、Transform=计算 的二分法比 Transport/Reduction 更精确地反映了 TCC 范式本质——TCC 的核心洞察是：在拓扑中心计算中，"路由即变换"（Route ≡ Transform），通信与计算在拓扑层面具有结构同构性。
@@ -115,6 +115,29 @@ v1.1 C=Control:   LINK/TICK/SYNC/MOVE             (不变)
 | M3 双主场景联通 | 2027.12 | C.*原语集成，16原语全链路跑通                  |
 | M4 多场景扩展  | 2028.06 | 多任务液态切换验证                          |
 | M5 综合评估   | 2028.12 | 三元指标(J/task, D_task, V_transfer)实测 |
+
+
+### 2.7 与专利 TCC-11 (ncc.*) 的对照
+
+| v2.0 | TCC-11 (ncc.*) | 变化说明 |
+|------|---------------|---------|
+| R.FUSE | ncc.FUSE | 一致 |
+| R.PULL | ncc.PULL | v8缺失，v30恢复 |
+| R.CAST | ncc.CAST | 一致 |
+| R.SWAP | ncc.SWAP | 一致 |
+| R.PIPE | — | v30新增（替代v8的FLY/RING） |
+| R.MESH | — | v30新增（邻域通信） |
+| T.GEMM | ncc.GEMM | 一致（v8称MM） |
+| T.FOLD | ncc.FOLD | 一致 |
+| T.MAPS | ncc.MAPS | 一致（v8称MAP） |
+| T.SCAN | ncc.SCAN | 一致 |
+| T.LOOK | — | v30新增（v8称LUT） |
+| T.SPEC | — | v30新增（替代v8的GRAD） |
+| C.LINK | ncc.LINK | 一致 |
+| C.TICK | ncc.TICK | 一致 |
+| C.SYNC | — | v30新增 |
+| C.MOVE | ncc.MOVE | 一致 |
+
 
 ---
 
@@ -173,7 +196,7 @@ v1.1 C=Control:   LINK/TICK/SYNC/MOVE             (不变)
 
 **总扇出**: K = N₁ + N₂ + N₃ + N₄（Nᵢ 为每种键型的物理连线数，由 STDP 动态调节）
 
-> **⚠️ 重要修正（v1.1）**：此前 v1.0 中 Gen1→Gen5 的 K 扇出目标表（K≈100→1,000,000）已被删除，原因：
+> **⚠️ 重要修正（v2.0）**：此前 v1.0 中 Gen1→Gen5 的 K 扇出目标表（K≈100→1,000,000）已被删除，原因：
 > 1. K 的定义不明确——是单个 SDI 节点扇出还是系统总扇出？
 > 2. 各代次 K 值来自松散的生物学类比（线虫/章鱼/人脑），缺乏工程推导
 > 3. 缺乏从 SDI 化合键动态调节规则出发的严格数值论证
@@ -308,6 +331,12 @@ v1.1 C=Control:   LINK/TICK/SYNC/MOVE             (不变)
 
 ## 十一、相关文档索引
 
+> **v2.0 合并后**：原语权威定义、基线版本、命名规范已统一至本文档。以下独立文件已归档供参考：
+> - [[TCC原语规范_v30最终版_权威定义]] — 已合并至本文 §二（原 v30.1 权威定义）
+> - [[TCC原语规范_v1.1_权威定义]] — 已合并至本文 §二（v1.1 里程碑版本）
+> - [[TCC计算范式命名规范3.0]] — 已合并至本文 §二（命名规范部分）
+> - [[TCC_Knowledge_Base_Baseline_v1]] — 已被本 v2.0 取代
+
 - [[TCC原语规范_v30最终版_权威定义]] — v30原语定义（已被v1.1取代）
 - [[07_核心定义_超非线性增益与智能视角]] — 超非线性增益理论
 - [[11_SDI节点接口规范与化合键定义]] — SDI化合键体系
@@ -361,6 +390,13 @@ v1.1 C=Control:   LINK/TICK/SYNC/MOVE             (不变)
 ---
 
 ## 十三、修订记录
+
+| 版本 | 日期 | 修订内容 |
+|------|------|------|
+| v1.0 | 2026-06-28 | 初版基线，基于 v8.0 GetNotes |
+| v1.1 | 2026-07-03 | 采纳 R=Route/T=Transform 命名；补全16原语定义 |
+| v30.1 | 2026-07-03 | v30 权威定义文件同步更新为 R=Route/T=Transform |
+| v2.0 | 2026-07-03 | **全库合并**：v1.1基线 + v30.1原语规范 + 命名规范3.0 → 单一真相源；增加专利TCC-11对照表 |
 
 | 版本 | 日期 | 修订内容 |
 |------|------|---------|

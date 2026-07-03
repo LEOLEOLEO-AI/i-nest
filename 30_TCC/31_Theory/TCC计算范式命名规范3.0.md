@@ -57,23 +57,23 @@ VERB   = 4-letter English verb, pronounceable, all caps
 
 | # | 原语名 | 发音 | 旧 NPC | 旧 tcc.* | 语义 | 最优拓扑 |
 |---|--------|------|--------|----------|------|----------|
-| T1 | `T.FUSE` | /fju:z/ | NPC-AR | tcc.FUSE | AllReduce：多节点归约广播 | Butterfly |
-| T2 | `T.PULL` | /pul/ | NPC-AG | tcc.PULL | AllGather：全节点数据拼接 | Radial Tree |
-| T3 | `T.CAST` | /kaest/ | NPC-BC | tcc.CAST | Broadcast：单源全节点复制 | Sparse Tree |
-| T4 | `T.SWAP` | /swop/ | NPC-A2A | tcc.SWAP | AlltoAll：全节点两两交换 | Full Crossbar |
-| T5 | `T.PIPE` | /paip/ | NPC-RS | — | ReduceScatter：分段流水归约 | Ring Pipeline |
-| T6 | `T.MESH` | /mesh/ | NPC-MESH | — | Neighbor Exchange：邻居通信 | 2D Mesh |
+| T1 | `R.FUSE` | /fju:z/ | NPC-AR | tcc.FUSE | AllReduce：多节点归约广播 | Butterfly |
+| T2 | `R.PULL` | /pul/ | NPC-AG | tcc.PULL | AllGather：全节点数据拼接 | Radial Tree |
+| T3 | `R.CAST` | /kaest/ | NPC-BC | tcc.CAST | Broadcast：单源全节点复制 | Sparse Tree |
+| T4 | `R.SWAP` | /swop/ | NPC-A2A | tcc.SWAP | AlltoAll：全节点两两交换 | Full Crossbar |
+| T5 | `R.PIPE` | /paip/ | NPC-RS | — | ReduceScatter：分段流水归约 | Ring Pipeline |
+| T6 | `R.MESH` | /mesh/ | NPC-MESH | — | Neighbor Exchange：邻居通信 | 2D Mesh |
 
 ### 2.2 R.* — Reduction Primitives（变换原语，6个）
 
 | # | 原语名 | 发音 | 旧 CPC | 旧 tcc.* | 语义 | 物理实现 |
 |---|--------|------|--------|----------|------|----------|
-| R1 | `R.GEMM` | /djem/ | CPC-MAC | tcc.GEMM | 矩阵乘加 C=aAB+bC | Systolic Array |
-| R2 | `R.FOLD` | /fold/ | CPC-RED | tcc.FOLD | 向量归约 y=Reduce(x,op) | Adder Tree |
-| R3 | `R.MAPS` | /maeps/ | CPC-EW | tcc.MAPS | 逐元素映射 y=f(x) | SIMD Lane |
-| R4 | `R.SCAN` | /skaen/ | CPC-SHIFT | tcc.SCAN | 前缀扫描/蝶形FFT | Parallel Prefix |
-| R5 | `R.LOOK` | /luk/ | CPC-LUT | — | 查表/非线性变换 | BRAM LUT |
-| R6 | `R.SPEC` | /spek/ | CPC-SPEC | — | 特殊函数逼近 (exp/GELU) | CORDIC/分段 |
+| R1 | `T.GEMM` | /djem/ | CPC-MAC | tcc.GEMM | 矩阵乘加 C=aAB+bC | Systolic Array |
+| R2 | `T.FOLD` | /fold/ | CPC-RED | tcc.FOLD | 向量归约 y=Reduce(x,op) | Adder Tree |
+| R3 | `T.MAPS` | /maeps/ | CPC-EW | tcc.MAPS | 逐元素映射 y=f(x) | SIMD Lane |
+| R4 | `T.SCAN` | /skaen/ | CPC-SHIFT | tcc.SCAN | 前缀扫描/蝶形FFT | Parallel Prefix |
+| R5 | `T.LOOK` | /luk/ | CPC-LUT | — | 查表/非线性变换 | BRAM LUT |
+| R6 | `T.SPEC` | /spek/ | CPC-SPEC | — | 特殊函数逼近 (exp/GELU) | CORDIC/分段 |
 
 ### 2.3 C.* — Control Primitives（控制原语，4个）
 
@@ -94,18 +94,18 @@ TCC v3.0 MIGRATION MAP
 v3.0      v1.0       v0/v1.x    语义
 T.R.C     tcc.VERB   NPC/CPC
 ------    --------   -------    ----
-T.FUSE    tcc.FUSE   NPC-AR     AllReduce
-T.PULL    tcc.PULL   NPC-AG     AllGather
-T.CAST    tcc.CAST   NPC-BC     Broadcast
-T.SWAP    tcc.SWAP   NPC-A2A    AlltoAll
-T.PIPE    —          NPC-RS     ReduceScatter
-T.MESH    —          NPC-MESH   Neighbor Exchange
-R.GEMM    tcc.GEMM   CPC-MAC    Matrix Multiply-Accumulate
-R.FOLD    tcc.FOLD   CPC-RED    Vector Reduction
-R.MAPS    tcc.MAPS   CPC-EW     Element-wise Map
-R.SCAN    tcc.SCAN   CPC-SHIFT  Prefix Scan / FFT Butterfly
-R.LOOK    —          CPC-LUT    Lookup / Nonlinear
-R.SPEC    —          CPC-SPEC   Special Function Approx
+R.FUSE    tcc.FUSE   NPC-AR     AllReduce
+R.PULL    tcc.PULL   NPC-AG     AllGather
+R.CAST    tcc.CAST   NPC-BC     Broadcast
+R.SWAP    tcc.SWAP   NPC-A2A    AlltoAll
+R.PIPE    —          NPC-RS     ReduceScatter
+R.MESH    —          NPC-MESH   Neighbor Exchange
+T.GEMM    tcc.GEMM   CPC-MAC    Matrix Multiply-Accumulate
+T.FOLD    tcc.FOLD   CPC-RED    Vector Reduction
+T.MAPS    tcc.MAPS   CPC-EW     Element-wise Map
+T.SCAN    tcc.SCAN   CPC-SHIFT  Prefix Scan / FFT Butterfly
+T.LOOK    —          CPC-LUT    Lookup / Nonlinear
+T.SPEC    —          CPC-SPEC   Special Function Approx
 C.LINK    tcc.LINK   —          SDI Topology Config
 C.TICK    tcc.TICK   —          Global Logical Clock
 C.SYNC    —          —          Epoch Barrier / Sync
@@ -134,8 +134,8 @@ T.R.C 三层前缀天然正交：任意 T.* 原语仅操作网络数据流，任
 
 ```
 // RTL 模块命名
-module t_topology_fuse (...)   // T.FUSE RTL IP
-module t_reduce_gemm (...)     // R.GEMM RTL IP
+module t_topology_fuse (...)   // R.FUSE RTL IP
+module t_reduce_gemm (...)     // T.GEMM RTL IP
 module t_control_link (...)    // C.LINK RTL IP
 
 // API 调用
@@ -150,7 +150,7 @@ tcc.c.link.config(butterfly);
 - "6R" (Route primitives) -> T.{FUSE|PULL|CAST|SWAP|PIPE|MESH}
 - "6T" (Transform primitives) -> R.{GEMM|FOLD|MAPS|SCAN|LOOK|SPEC}
 
-论文中使用完整拼写：`T.FUSE: Topology Fuse (AllReduce) primitive`
+论文中使用完整拼写：`R.FUSE: Topology Fuse (AllReduce) primitive`
 
 ---
 

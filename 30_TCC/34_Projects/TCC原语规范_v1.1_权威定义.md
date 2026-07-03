@@ -1,13 +1,21 @@
+> ⚠️ 已废弃 — 内容已合并至 [[TCC_Knowledge_Base_Baseline_v2.0]]（2026-07-03 全库合并）。
+
+---
+
 ---
 title: "TCC原语规范_v1.1_权威定义"
 date: 2026-07-03
 version: v1.1
-status: Authoritative
+status: Deprecated
 source: "TCC_项目实施方案_v30_最终版.docx (2026-07-01 提交版) + v1.1 命名修订"
-supersedes: "TCC原语规范_v30最终版_权威定义"
+supersedes: "TCC原语规范_v30最终版_权威定义 (v30 Transport/Reduction 旧命名)"
 ---
 
 # TCC 原语规范权威定义（v1.1）
+
+> **v1.1 里程碑**（2026-07-03）：本版本首次采纳 **R=Route / T=Transform** 的字母-词自然映射方案。v30.1 已与此对齐，全库统一。
+> 
+> 详细规范请参阅权威版本：[[TCC原语规范_v30最终版_权威定义]]（v30.1，内容更完整）
 
 > **权威性声明**：本文基于 v30 最终版（2026年7月1日提交至海河实验室）的三张原语场景映射表，并进行了 v1.1 命名修订。v30 版本已被本版本取代。
 >

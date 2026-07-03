@@ -1013,6 +1013,6 @@ un_getnotes_import.ps1 已就绪
 
 
 ## Related Notes (v30 Updates)
-- [[TCC原语规范_v30最终版_权威定义]] — T.R.C 原语规范权威版本 (2026-07-01)
+- [[TCC_Knowledge_Base_Baseline_v2.0]] — T.R.C 原语规范权威版本 (2026-07-01)
 - [[待办_原语体系数学统一证明]] — 原语数学证明待办
 - [[算力网络架构手记_全面抓取与分析报告_v3.0]] — 产业工程痛点与TCC原语映射

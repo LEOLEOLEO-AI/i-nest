@@ -1,4 +1,8 @@
-﻿# TCC 知识库基线版本 v1.0
+> ⚠️ 已废弃 — 内容已合并至 [[TCC_Knowledge_Base_Baseline_v2.0]]（2026-07-03 全库合并）。
+
+---
+
+# TCC 知识库基线版本 v1.0
 
 > **生成日期**: 2026-07-03
 > **来源**: 得到大脑（Obsidian 30_TCC知识库）+ 海河实验室提交版（v30最终版 2026-07-01）
@@ -44,33 +48,33 @@ TCC 的关键价值不在于复制既有 GPU/TPU/NPU/FPGA 路线，而在于将*
 
 | 类别 | 全称 | 数量 | 定义 |
 |------|------|:---:|------|
-| **T** | Transport（传输/拓扑通信原语） | 6 | 定义数据在 MacroTile 之间的集体通信模式 |
-| **R** | Reduction（归约/变换计算原语） | 6 | 定义 MacroTile 内部执行的数学变换操作 |
+| **T** | Route（传输/拓扑通信原语） | 6 | 定义数据在 MacroTile 之间的集体通信模式 |
+| **R** | Transform（归约/变换计算原语） | 6 | 定义 MacroTile 内部执行的数学变换操作 |
 | **C** | Control（控制原语） | 4 | 定义拓扑切换、时钟同步、数据搬运的控制行为 |
 
 **总计: 16 个原语**
 
-### 2.2 T 类：Transport 传输原语（6个）
+### 2.3 T 类：Route 传输原语（6个）
 
 | 原语 | 语义 | 典型用途 |
 |------|------|---------|
-| **T.FUSE** | AllReduce（全归约） | 梯度同步(DP)、蝶形归约(FFT/DBF)、部分和归约(TP) |
-| **T.PULL** | AllGather（全收集） | 参数分发、KV Cache汇聚、频谱聚合、特征汇聚 |
-| **T.CAST** | Broadcast（广播） | 权重广播、输入广播、窗函数广播、模型分发 |
-| **T.SWAP** | AlltoAll（全交换） | 转置(FFT)、通道交换(视频)、拓扑重排(多智能体) |
-| **T.PIPE** | ReduceScatter（流水归约散射） | 流水段归约(TP)、流水FFT |
-| **T.MESH** | Neighbor Exchange（邻域交换） | 邻域聚合(视频)、邻居通信(多智能体) |
+| **R.FUSE** | AllReduce（全归约） | 梯度同步(DP)、蝶形归约(FFT/DBF)、部分和归约(TP) |
+| **R.PULL** | AllGather（全收集） | 参数分发、KV Cache汇聚、频谱聚合、特征汇聚 |
+| **R.CAST** | Broadcast（广播） | 权重广播、输入广播、窗函数广播、模型分发 |
+| **R.SWAP** | AlltoAll（全交换） | 转置(FFT)、通道交换(视频)、拓扑重排(多智能体) |
+| **R.PIPE** | ReduceScatter（流水归约散射） | 流水段归约(TP)、流水FFT |
+| **R.MESH** | Neighbor Exchange（邻域交换） | 邻域聚合(视频)、邻居通信(多智能体) |
 
-### 2.3 R 类：Reduction 归约计算原语（6个）
+### 2.3 T 类：Transform 归约计算原语（6个）
 
 | 原语 | 语义 | 典型用途 |
 |------|------|---------|
-| **R.GEMM** | 矩阵乘加 | 梯度计算、QKV投影、CNN卷积、协方差 |
-| **R.FOLD** | 向量归约 | Loss归约、Softmax、能量归约(FFT)、RoI Pooling |
-| **R.MAPS** | 逐元素映射 | 激活函数、LayerNorm、窗函数、NMS/ReLU |
-| **R.SCAN** | 前缀扫描 | 蝶形扫描(FFT)、特征排序、轨迹扫描 |
-| **R.LOOK** | 查表/LUT | 量化LUT、KV Cache索引、旋转因子LUT(FFT)、动作LUT |
-| **R.SPEC** | 特殊函数 | GELU/SwiGLU、RoPE、CORDIC、Softmax |
+| **T.GEMM** | 矩阵乘加 | 梯度计算、QKV投影、CNN卷积、协方差 |
+| **T.FOLD** | 向量归约 | Loss归约、Softmax、能量归约(FFT)、RoI Pooling |
+| **T.MAPS** | 逐元素映射 | 激活函数、LayerNorm、窗函数、NMS/ReLU |
+| **T.SCAN** | 前缀扫描 | 蝶形扫描(FFT)、特征排序、轨迹扫描 |
+| **T.LOOK** | 查表/LUT | 量化LUT、KV Cache索引、旋转因子LUT(FFT)、动作LUT |
+| **T.SPEC** | 特殊函数 | GELU/SwiGLU、RoPE、CORDIC、Softmax |
 
 ### 2.4 C 类：Control 控制原语（4个）
 
