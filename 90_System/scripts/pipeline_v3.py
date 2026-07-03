@@ -28,6 +28,13 @@ S2_API_KEY = os.environ.get("S2_API_KEY", "REDACTED_S2")
 TODAY = datetime.now().strftime("%Y-%m-%d")
 ctx = ssl.create_default_context()
 
+# S2 API Config
+
+# ── S2 API Config ─────────────────────────────────────
+S2_DELAY = 4           # seconds between S2 queries (free tier: 1 req/s)
+S2_RETRY_DELAY = 30    # seconds to wait on HTTP 429
+S2_MAX_RETRIES = 2
+
 # ── Search Queries (TCC + iNEST) ───────────────────────
 S2_QUERIES = [
     # === TCC: Topological/Spatial Computing ===
@@ -339,31 +346,53 @@ def crawl_semantic_scholar():
     for query in S2_QUERIES:
         params = {
             "query": query,
-            "limit": 2,
-            "fields": "title,authors,year,abstract,url,externalIds,citationCount"
+            "limit": 3,
+            "fields": "title,authors,year,abstract,url,externalIds,citationCount,publicationDate",
+            "sort": "publicationDate:desc"
         }
         url = "https://api.semanticscholar.org/graph/v1/paper/search?" + urllib.parse.urlencode(params)
         req = urllib.request.Request(url)
         if S2_API_KEY:
             req.add_header("x-api-key", S2_API_KEY)
-        try:
-            with urllib.request.urlopen(req, context=ctx, timeout=15) as resp:
-                data = json.loads(resp.read())
-                for paper in data.get("data", []):
-                    if paper is None:
-                        continue  # �?FIX: skip None items
-                    title = paper.get("title", "") or ""
-                    abstract = paper.get("abstract") or "(no abstract)"
-                    paper_url = paper.get("url", "") or ""
-                    authors_list = paper.get("authors", []) or []
-                    author_str = ", ".join(a.get("name", "") for a in authors_list[:5])
-                    year = paper.get("year", "") or ""
-                    track = "TCC" if any(kw in query.lower() for kw in ["topological","chiplet","noc","network-on-chip","wafer","dark silicon"]) else "iNEST"
-                    if write_insight(title, abstract, paper_url, "S2", track, str(year), author_str):
-                        count += 1
-        except Exception as e:
-            log(f"  S2 error ({query[:30]}...): {str(e)[:60]}")
-        time.sleep(1.2)
+        retries = 0
+        while retries <= S2_MAX_RETRIES:
+            try:
+                with urllib.request.urlopen(req, context=ctx, timeout=20) as resp:
+                    data = json.loads(resp.read())
+                    for paper in data.get("data", []):
+                        if paper is None:
+                            continue
+                        title = paper.get("title", "") or ""
+                        pub_date = paper.get("publicationDate") or ""
+                        if pub_date:
+                            try:
+                                pd = datetime.strptime(pub_date, "%Y-%m-%d")
+                                if (datetime.now() - pd).days > 90:
+                                    continue
+                            except:
+                                pass
+                        if write_insight(title,
+                                        paper.get("abstract") or "(no abstract)",
+                                        paper.get("url", "") or "",
+                                        "S2",
+                                        "TCC" if any(kw in query.lower() for kw in ["topological","chiplet","noc","network-on-chip","wafer","dark silicon"]) else "iNEST",
+                                        str(paper.get("year", "") or ""),
+                                        ", ".join(a.get("name", "") for a in (paper.get("authors", []) or [])[:5])):
+                            count += 1
+                break
+            except urllib.error.HTTPError as e:
+                if e.code == 429 and retries < S2_MAX_RETRIES:
+                    retries += 1
+                    log(f"  S2 429 ({query[:30]}...): wait {S2_RETRY_DELAY}s retry({retries}/{S2_MAX_RETRIES})")
+                    time.sleep(S2_RETRY_DELAY)
+                else:
+                    log(f"  S2 error ({query[:30]}...): HTTP {e.code if hasattr(e,'code') else e}")
+                    break
+            except Exception as e:
+                log(f"  S2 error ({query[:30]}...): {str(e)[:60]}")
+                break
+        time.sleep(S2_DELAY)
+
     log(f"[S2] {count} new papers")
     return count
 
@@ -652,7 +681,7 @@ def generate_genspark_snapshot():
 # ── Main ────────────────────────────────────────────────
 def main():
     print(f"\n{'='*60}")
-    print(f"  iNEST + TCC Research Pipeline v3.0")
+    print(f"  iNEST + TCC Research Pipeline v3.3")
     print(f"  {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"{'='*60}")
     
@@ -683,7 +712,7 @@ def main():
     
     elapsed = time.time() - start
     print(f"\n{'='*60}")
-    print(f"  管线 v3.1 完成")
+    print(f"  管线 v3.3 完成")
     print(f"  新增: {c1}(S2) + {c2}(arXiv) + {c3}(GN) = {c1+c2+c3}")
     print(f"  已分类: {processed} | 图谱: {nodes}节点{edges}边 | 缺失反向链接: {missing} | Genspark快照: OK")
     print(f"  耗时: {elapsed:.0f}秒")

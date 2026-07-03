@@ -25,7 +25,7 @@ new_sources: "光电混合晶圆级互连、SDI万亿参数大模型项目、ARC
 | 12 | **SDSoW邬江兴院士报告提纲** | 战略报告 | "从节点中心到网络中心的范式跃迁"——与TCC核心命题完全一致 |
 | 13 | **OneFabric-Memory** | 项目计划 | 统一内存-网络语义=消除通信/计算边界 |
 | 14 | **晶上自演化复杂网络项目群** | 项目布局 | 8个理论+7个关键技术项目，完整覆盖TCC理论体系 |
-| 15 | **海河实验室晶上先导项目检查** | 项目审查 | NCC-Edge vs Cerebras/NVIDIA/ElastixAI的正式对标分析 |
+| 15 | **海河实验室晶上先导项目检查** | 项目审查 | TCC-Edge vs Cerebras/NVIDIA/ElastixAI的正式对标分析 |
 | 16 | **美欧Chiplet战略分析** | 产业研究 | 1449亿美元市场，DARPA 14亿美元投入——Chiplet是TCC的产业载体 |
 | 17 | **晶上大脑基础研究** | 课题指南 | 晶上类脑网络=Route=Transform的生物学验证 |
 | 18 | **天津经开区SDSoW产业化** | 产业落地 | 173专项6.8亿元+十五五30亿元，"网络中心"成为国家战略 |
@@ -117,7 +117,7 @@ new_sources: "光电混合晶圆级互连、SDI万亿参数大模型项目、ARC
 
 **来源**：海河实验室晶上先导项目检查（完整对标表）
 
-| 维度 | NVIDIA+NCCL | Cerebras WSE-3 | ElastixAI | DarwinWafer | **TCC NCC-Edge** |
+| 维度 | NVIDIA+NCCL | Cerebras WSE-3 | ElastixAI | DarwinWafer | **TCC TCC-Edge** |
 |------|-----------|---------------|-----------|-------------|-----------------|
 | 核心理念 | 节点中心 | 晶圆级节点中心 | FPGA可重构 | 晶圆级SNN | **网络中心+液态硬件** |
 | 通信方式 | 软件NCCL(μs) | 静态2D-Mesh | 固定数据流 | AER异步 | **SDI动态拓扑(≤1μs)** |
@@ -196,7 +196,7 @@ SDSoW国家战略（邬江兴院士）
 | **TCC理论对SDSoW超线性增益的CST解释** | 用CST公式量化SDSoW的1+1>N效应 | 邬江兴SDSoW报告 |
 | **SDI化合键的形式化：从LINK原语到ARC-AGI** | LINK.config的数学定义与ARC推理的映射 | 清华ARC-AGI项目 |
 | **忆阻器FFT与NPC-AR的物理统一性证明** | 忆阻器频谱提取=TCC的NPC-AR硬件实现 | 北大忆阻器研究 |
-| **TCC-NCC vs Cerebras WSE-3的形式化对比** | CST理论证明TCC在拓扑可编程性上的优势 | 海河实验室审查 |
+| **TCC-TCC vs Cerebras WSE-3的形式化对比** | CST理论证明TCC在拓扑可编程性上的优势 | 海河实验室审查 |
 
 ---
 

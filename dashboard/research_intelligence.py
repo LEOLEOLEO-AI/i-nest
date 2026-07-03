@@ -52,8 +52,7 @@ def read_entries():
     dd_s = html.find("var DEFAULT_DATA = ")
     dd_e = html.find("};", dd_s) + 2
     data_str = html[dd_s + len("var DEFAULT_DATA = "):dd_e - 1]
-    m = re.search(r"\{(.+)\}", data_str)
-    return json.loads(m.group(0))["entries"]
+    return json.loads(data_str)["entries"]
 
 def cross_reference(papers, entries):
     insights = []

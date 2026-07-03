@@ -436,7 +436,7 @@ Year 3 (2028Q4-2029Q3): 系统→智能涌现
 | Route-Transform同构 | 元拓扑理论 | 材料参数验证 |
 | SDSoW | 晶上系统 | 晶圆级材料与工艺 |
 | 液态硬件 | 物理自演化硬件 | 忆阻器多尺度动力学 |
-| NCC-Edge | iNEST-Edge | 产品级对应 |
+| TCC-Edge | iNEST-Edge | 产品级对应 |
 
 ## 附录B：相关文档链接
 

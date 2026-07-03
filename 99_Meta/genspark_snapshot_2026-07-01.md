@@ -18,14 +18,14 @@ tags: [genspark, snapshot, project-status]
 | Output Patents | 36 |
 | Inbox (unprocessed) | 0 |
 | Genspark Inbox (pending) | 3 |
-| Knowledge Graph Nodes | 4361 |
-| Knowledge Graph Edges | 7668 |
+| Knowledge Graph Nodes | 4401 |
+| Knowledge Graph Edges | 7676 |
 
 ## 2. Recent Pipeline Runs
 
-- 2026-06-30: 3 papers, 0 classified
-- 2026-06-30: 0 papers, 0 classified
-- 2026-06-29: 0 papers, 0 classified
+- 2026-07-01: 2 papers, 0 classified
+- 2026-07-01: 1 papers, 0 classified
+- 2026-07-01: 22 papers, 0 classified
 
 
 ## 3. Recent Inbox Items
@@ -54,4 +54,4 @@ tags: [genspark, snapshot, project-status]
 
 (Review via Genspark)
 ---
-*Auto-generated 2026-07-01 07:09*
+*Auto-generated 2026-07-01 08:39*

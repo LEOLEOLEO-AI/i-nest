@@ -1,5 +1,5 @@
-# 论文B（B5）：NCC-11系统实现与评测
-# Paper B (B5): NCC-11 Minimal Complete Primitive Library for Liquid Hardware
+# 论文B（B5）：TCC-11系统实现与评测
+# Paper B (B5): TCC-11 Minimal Complete Primitive Library for Liquid Hardware
 # 目标：ASPLOS/MICRO 2027 April cycle | 截止：2027年4月15日
 # 状态：📋 框架完成，依赖T2/T3硬件与SDK完成
 
@@ -9,7 +9,7 @@
 
 | 项目 | 内容 |
 |------|------|
-| **标题** | NCC-11: A Minimal Complete Primitive Library for Liquid Hardware — Design, SDK, and Evaluation across AI, HPC, and Signal Processing |
+| **标题** | TCC-11: A Minimal Complete Primitive Library for Liquid Hardware — Design, SDK, and Evaluation across AI, HPC, and Signal Processing |
 | **目标** | ASPLOS 2027 April cycle，或 MICRO 2027 |
 | **投稿截止** | 2027年4月15日 |
 | **论文类型** | 系统+实验，~14页 |
@@ -20,7 +20,7 @@
 
 ## Abstract（草稿）
 
-We present NCC-11, a hardware-software co-designed primitive library for network-centric computing that unifies AI inference, high-performance computing, and signal processing on a single reconfigurable substrate. NCC-11 comprises 11 orthogonal primitives — 4 communication (FUSE, PULL, CAST, SWAP), 4 computation (GEMM, FOLD, MAPS, SCAN), 1 data movement (MOVE), and 2 control (LINK, TICK) — implemented as synthesizable RTL IP cores totaling 25,847 lines of SystemVerilog. We co-design an SDK featuring automatic mapping from NCCL, MPI-4.0, BLAS-L3, and FFTW APIs, a graph compiler with topology-aware primitive fusion, and an MLIR-based compilation flow from PyTorch/JAX to NCC hardware. On a 4-node VCK190 FPGA prototype, NCC-11 achieves: (1) Gemma-4 E2B INT4 inference at 5.2 tokens/s with ≤1 μs scene switching; (2) 4×720p YOLOv8-s detection at 24 FPS; (3) 16-channel 1024-point complex FFT + CFAR at 800 ns per pulse; (4) existing PyTorch DDP training scripts running unmodified via NCCL compatibility shim with <5% overhead.
+We present TCC-11, a hardware-software co-designed primitive library for network-centric computing that unifies AI inference, high-performance computing, and signal processing on a single reconfigurable substrate. TCC-11 comprises 11 orthogonal primitives — 4 communication (FUSE, PULL, CAST, SWAP), 4 computation (GEMM, FOLD, MAPS, SCAN), 1 data movement (MOVE), and 2 control (LINK, TICK) — implemented as synthesizable RTL IP cores totaling 25,847 lines of SystemVerilog. We co-design an SDK featuring automatic mapping from NCCL, MPI-4.0, BLAS-L3, and FFTW APIs, a graph compiler with topology-aware primitive fusion, and an MLIR-based compilation flow from PyTorch/JAX to TCC hardware. On a 4-node VCK190 FPGA prototype, TCC-11 achieves: (1) Gemma-4 E2B INT4 inference at 5.2 tokens/s with ≤1 μs scene switching; (2) 4×720p YOLOv8-s detection at 24 FPS; (3) 16-channel 1024-point complex FFT + CFAR at 800 ns per pulse; (4) existing PyTorch DDP training scripts running unmodified via NCCL compatibility shim with <5% overhead.
 
 ---
 
@@ -29,7 +29,7 @@ We present NCC-11, a hardware-software co-designed primitive library for network
 | 章节 | 内容 | 篇幅 | 依赖 | 状态 |
 |------|------|------|------|------|
 | §1 Introduction | 液态硬件概念；跨场景统一的必要性 | 1页 | — | ⬜ |
-| §2 NCC-11 Spec | 形式化规范（引用论文A，精简版）| 1.5页 | 论文A | ⬜ |
+| §2 TCC-11 Spec | 形式化规范（引用论文A，精简版）| 1.5页 | 论文A | ⬜ |
 | §3 Hardware Arch | 11 IP核微架构：GEMM脉动阵列、SCAN前缀树、SDI控制器 | 2.5页 | T2完成 | ⬜ |
 | §4 SDK & Compiler | NCCL/MPI/BLAS/FFTW映射；MLIR Dialect；3个编译pass | 2.5页 | T3-1~4 | ⬜ |
 | §5 Evaluation | 四场景实验数据（LLM/Video/Radar/DDP overhead）| 3页 | T2-9 | ⬜ |
@@ -134,13 +134,13 @@ L5信号   ●───●
 
 工艺重要里程碑：
 2026: FPGA原型(VCK190, 4节点) → L1/L5验证
-2027: NCC Gen1 ASIC(7nm, 64节点) → L2量产 [国内自主]
-2028: NCC Gen2(7nm优化, 1K节点板卡) → L3
-2029+: NCC Gen3(按需升到5nm) → L4
+2027: TCC Gen1 ASIC(7nm, 64节点) → L2量产 [国内自主]
+2028: TCC Gen2(7nm优化, 1K节点板卡) → L3
+2029+: TCC Gen3(按需升到5nm) → L4
 ```
 
 **最重要的结论：**
-> NCC Gen1和Gen2全部基于7nm，是国内自主可实现的量产节点，
+> TCC Gen1和Gen2全部基于7nm，是国内自主可实现的量产节点，
 > 视为同等规模GPU集群方案的策略替代路径。
 
 ---
@@ -154,18 +154,18 @@ L5信号   ●───●
 
 ---
 
-## §5 Hardware Architecture — NCC-WSE 晶圆级软件定义系统（2026-04-30新增）
+## §5 Hardware Architecture — TCC-WSE 晶圆级软件定义系统（2026-04-30新增）
 
 ### 5.1 架构定义
 
-NCC-WSE（Wafer-Scale Integration for NCC）是将NCC液态拓扑原理实现于晶圆级的系统架构：
+TCC-WSE（Wafer-Scale Integration for TCC）是将NCC液态拓扑原理实现于晶圆级的系统架构：
 
 ```
 ┌──────────────────────────────────────────────────────────┐
 │               晶圆上层：原语芯粒（Chiplet）阵列             │
 │  ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐                     │
 │  │Type-F│ │Type-C│ │Type-F│ │Type-S│  × 1,000–10,000颗   │
-│  │NCC-11│ │GEMM+ │ │NCC-11│ │SCAN+ │  ← 按场景选颗粒度    │
+│  │TCC-11│ │GEMM+ │ │TCC-11│ │SCAN+ │  ← 按场景选颗粒度    │
 │  │完整版│ │FOLD  │ │完整版│ │MAPS  │                     │
 │  └──┬───┘ └──┬───┘ └──┬───┘ └──┬───┘                     │
 │     │        │        │        │                          │
@@ -188,9 +188,9 @@ NCC-WSE（Wafer-Scale Integration for NCC）是将NCC液态拓扑原理实现于
 
 ### 5.2 与Cerebras WSE-3的参数对比（交叉验证版）
 
-> **数据来源说明**：WSE-3参数来自Cerebras官方网站及白皮书（2024年），已通过晶体管密度、SRAM容量自洽性验证。NCC-WSE参数为基于7nm工艺规格的工程估算，标注置信度。
+> **数据来源说明**：WSE-3参数来自Cerebras官方网站及白皮书（2024年），已通过晶体管密度、SRAM容量自洽性验证。TCC-WSE参数为基于7nm工艺规格的工程估算，标注置信度。
 
-| 参数 | Cerebras WSE-3 | NCC-WSE（1K节点） | NCC-WSE（10K节点） | 置信度 |
+| 参数 | Cerebras WSE-3 | TCC-WSE（1K节点） | TCC-WSE（10K节点） | 置信度 |
 |------|--------------|-----------------|-----------------|------|
 | 制程 | 5nm台积电 | 7nm国内（中芯N+1） | 7nm国内 | ✓官方 |
 | 晶圆面积 | 46,225 mm² | ~35,000 mm² | ~35,000mm²×多晶圆 | ✓ |
@@ -213,9 +213,9 @@ NCC-WSE（Wafer-Scale Integration for NCC）是将NCC液态拓扑原理实现于
 
 **互连带宽对比说明**：
 - WSE-3的220 Pb/s = 220,000 Tbps，来自900K核心之间的2D网格所有链路求和
-- NCC-WSE的1.8 Pbps = 1,800 Tbps，来自1K节点×4方向×16 lane×224Gbps
+- TCC-WSE的1.8 Pbps = 1,800 Tbps，来自1K节点×4方向×16 lane×224Gbps
 - 差距约123倍，但NCC每Tbps承载完整GEMM运算（等效计算量约为标量加法的1000×）
-- **等效有效计算带宽**：NCC-WSE与WSE-3处于同一数量级
+- **等效有效计算带宽**：TCC-WSE与WSE-3处于同一数量级
 
 ### 5.3 L2存储方案修正（HBM → 分布式LPDDR5）
 
@@ -223,7 +223,7 @@ NCC-WSE（Wafer-Scale Integration for NCC）是将NCC液态拓扑原理实现于
 
 ```
 Llama-3-70B推理（参数量140GB，FP16）：
-  NCC-WSE 64节点方案：
+  TCC-WSE 64节点方案：
     每节点承担：140GB / 64 = 2.2GB 权重
     外挂存储：LPDDR5-6400（每节点4GB，68GB/s带宽）
     64节点总等效带宽：64 × 68 = 4,352 GB/s
@@ -233,19 +233,19 @@ Llama-3-70B推理（参数量140GB，FP16）：
   且LPDDR5可在12nm/7nm成熟封装上实现，进一步降低工艺需求。
 ```
 
-### 5.4 NCC-WSE技术路线
+### 5.4 TCC-WSE技术路线
 
 ```
 阶段      时间     技术           规模           里程碑
 ─────────────────────────────────────────────────────────
 MVP0     2026     FPGA验证       4节点          VCK190原型机（已规划）
 Gen1     2027     7nm ASIC芯粒  64芯粒/芯片     首款国产NCC推理芯片
-Gen2     2028     7nm晶圆集成   1K芯粒WSI       NCC-WSE v1（L2-L3全覆盖）
-Gen3     2030     硅光子互连     10K芯粒        NCC-WSE v2（L3-L4）
+Gen2     2028     7nm晶圆集成   1K芯粒WSI       TCC-WSE v1（L2-L3全覆盖）
+Gen3     2030     硅光子互连     10K芯粒        TCC-WSE v2（L3-L4）
 Gen4     2032+    忆阻器CIM      10K芯粒+CIM    存算传真正一体
 ```
 
-### 5.5 NCC-WSE与架构谱系的关系
+### 5.5 TCC-WSE与架构谱系的关系
 
 ```
 冯诺依曼（1945）
@@ -257,13 +257,13 @@ Gen4     2032+    忆阻器CIM      10K芯粒+CIM    存算传真正一体
    ├─ INC（网内计算）：消除节点间通信-计算分离（片间）
    │  └─ NCC液态拓扑：INC的完备代数化（Route≡Transform定理）
    └─ 存算传一体：三者同时
-      └─ NCC-WSE + CIM = 完整非冯终态
+      └─ TCC-WSE + CIM = 完整非冯终态
          存（CIM）+ 算（4引擎芯粒）+ 传（液态SDI） = 三位一体连续体
 ```
 
 > **CST理论预言**（可实验验证）：
 > Cerebras WSE的900K核心在固定2D网格下，Γst接近0（拓扑随机性低，同步性高，但信息整合差）。
-> NCC-WSE的1K芯粒在液态拓扑下，Γst可达最优值Γst*=0.486。
+> TCC-WSE的1K芯粒在液态拓扑下，Γst可达最优值Γst*=0.486。
 > CST理论预测：后者的等效智能效率（η_I = CST/功耗）高于前者。
 > 这是一个具体的、可量化的实验命题，将在Gen1 ASIC上验证。
 

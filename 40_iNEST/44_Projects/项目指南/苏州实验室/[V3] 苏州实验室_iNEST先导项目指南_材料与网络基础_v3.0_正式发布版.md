@@ -538,7 +538,7 @@ TCC/iNEST正是这一方向的**原创性中国方案**。苏州实验室作为�
 | Route-Transform同构 | 元拓扑理论 | 材料参数验证 |
 | SDSoW | 晶上系统 | 晶圆级材料与工艺 |
 | 液态硬件 | 物理自演化硬件 | 忆阻器多尺度动力学 |
-| NCC-Edge | iNEST-Edge | 产品级对应 |
+| TCC-Edge | iNEST-Edge | 产品级对应 |
 
 ## 附录B：iNEST六级自然常数阈值（权威参照，以CST_Symbol_Baseline_v4.0为准）
 

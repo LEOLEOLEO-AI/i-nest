@@ -1,5 +1,5 @@
 # 专利 P2：面向NCC的可重构原语硬件IP核阵列
-# Patent P2: Reconfigurable Primitive IP Core Array for NCC
+# Patent P2: Reconfigurable Primitive IP Core Array for TCC
 # 状态：📋 框架完成 | 目标提交：2026年7月（CNIPA）
 ---
 

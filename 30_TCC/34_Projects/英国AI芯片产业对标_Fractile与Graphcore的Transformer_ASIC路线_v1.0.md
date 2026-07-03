@@ -237,7 +237,7 @@ tags: [TCC, UK, AI芯片, ASIC, Fractile, Graphcore, Transformer, 推理加速, 
 | Taalas HC1 | 模型固化ASIC | "超越现代方案"（宣称） | "性价比10x"（宣称） | 待披露 | 2026发布 |
 | **Fractile** | **DRAM-free** | **"月→日"级加速（宣称）** | **极低（DRAM-free）** | **第3种** | **开发中** |
 | Graphcore Bow IPU | 晶圆堆叠 | ~800 tok/s (估算) | ~0.2 J/tok | 片上900MB | 量产 |
-| **TCC-NCC (Phase1)** | **拓扑可编程** | **100K+ tok/s (系统级估算)** | **<0.1 J/tok (拓扑消除搬运)** | **拓扑定义** | **规划中** |
+| **TCC-TCC (Phase1)** | **拓扑可编程** | **100K+ tok/s (系统级估算)** | **<0.1 J/tok (拓扑消除搬运)** | **拓扑定义** | **规划中** |
 
 ### 5.2 TCC的差异化性能优势来源
 
