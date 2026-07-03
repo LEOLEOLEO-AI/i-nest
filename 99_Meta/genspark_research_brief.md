@@ -90,7 +90,7 @@ target: genspark
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 4355
+Total notes: 4365
 Graph nodes: 4419 | edges: 7707
 
 Top connected topics:
@@ -108,4 +108,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-07-03 13:14*
+*Research brief auto-generated 2026-07-03 16:41*

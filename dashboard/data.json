@@ -44,9 +44,14 @@
     },
     "yesterday_progress": [
         {
-            "text": "System idle -- waiting for next crawl cycle",
-            "dot": "ongoing",
+            "text": "Gitee sync: 7 commits pushed",
+            "dot": "done",
             "dim": "TCC+iNEST"
+        },
+        {
+            "text": "Inbox processing: 1 items to triage",
+            "dot": "ongoing",
+            "dim": "iNEST"
         }
     ],
     "today_plan": [
