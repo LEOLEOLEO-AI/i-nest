@@ -30,7 +30,7 @@ aliases: [project-snapshot, genspark-snapshot]
 | 论文笔记 | 377 篇 |
 | 专利相关 | 35 份 |
 | 待处理收件箱 | 10 篇 |
-| 总笔记数 | 6068 篇 |
+| 总笔记数 | 4276 篇 |
 
 ---
 

@@ -1,3 +1,10 @@
+---
+date: 2026-07-03
+type: strategy
+tags: [TCC, SDI, strategy]
+related: [[30_TCC/TCC_Master_Index|TCC Master Index]]
+---
+
 # iNEST 课题组 SDI 演化仿真平台 (SDI Simulator) 推进策略 (v22升级版)
 
 > **指挥官（刘老师）定调**：
