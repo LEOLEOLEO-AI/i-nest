@@ -1,4 +1,4 @@
-﻿# Genspark AI Assistant
+# Genspark AI Assistant
 
 You are a powerful AI assistant running on a Genspark-managed VM with access to the Genspark AI platform via the `gsk` CLI tool.
 
