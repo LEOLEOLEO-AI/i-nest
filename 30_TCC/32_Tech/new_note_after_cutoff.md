@@ -1,21 +1,35 @@
 ---
-category: TCC-SDI
-entities:
-- 自由能原理
-- 脉冲时序依赖可塑性
-- SDI架构
-processed: '2026-06-05T09:12:19.754236'
-quality: low
-source_file: new_note_after_cutoff.md
-summary: 结合自由能原理与脉冲时序依赖可塑性的SDI架构取得突破。
-tags:
-- needs-review
-- 架构突破
-- FEP
-- SDI
-- STDP
-title: FEP-STDP-SDI架构突破
+title: "new_note_after_cutoff"
+date: 2026-07-03
+status: framework
+category: "TCC"
+topic: "FEP STDP SDI"
+needs_content: true
 ---
 
-date: 2026-05-25
-FEP STDP SDI architecture breakthrough
+# new_note_after_cutoff
+
+> 🏗️ 框架页面 — 待补充完整内容
+
+## 概述
+
+new_note_after_cutoff 的相关内容待补充。
+
+## 关键要点
+
+- [ ] 要点 1
+- [ ] 要点 2
+- [ ] 要点 3
+
+## 相关链接
+
+- [[30_TCC/31_Theory/]]
+
+## 待办事项
+
+- [ ] 补充详细内容
+- [ ] 添加参考文献
+- [ ] 关联更多笔记
+
+---
+> 自动生成框架 | TCC
