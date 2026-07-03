@@ -15,7 +15,7 @@ status: authoritative
 
 | 版本 | 时期 | 范式名 | 前缀体系 | 原语数 | 问题 |
 |------|------|--------|----------|--------|------|
-| v0 (非正式) | 2025 | NCC | NPC-/CPC- | 5+4=9 | NPC与CPC前缀冗长，与NCCL混淆 |
+| v0 (非正式) | 2025 | TCC | NPC-/CPC- | 5+4=9 | NPC与CPC前缀冗长，与NCCL混淆 |
 | v1.0 (TCC原语库) | 2026.04 | TCC | tcc.VERB | 4+4+1+2=11 | 单层前缀，缺少类别区分 |
 | v1.x (项目申报) | 2026.06 | TCC | NPC-/CPC- | 6+6=12 | 沿袭v0前缀，与v1.0动词名脱节 |
 | **v3.0 (本规范)** | **2026.06** | **TCC** | **T./R./C.** | **6+6+4=16** | **三层前缀，动词名统一，全体系覆盖** |
@@ -24,7 +24,7 @@ status: authoritative
 
 ### 统一原则
 
-1. **NCC → TCC**：范式名统一为 Topology-Centric Computing，弃用 Network-Centric Computing（NCC 易与 NVIDIA NCCL 混淆）
+1. **TCC → TCC**：范式名统一为 Topology-Centric Computing，弃用 Network-Centric Computing（TCC 易与 NVIDIA NCCL 混淆）
 2. **NPC → T**：网络通信原语前缀改为 `T.`（Topology），强调"拓扑即计算"
 3. **CPC → R**：计算原语前缀改为 `R.`（Reduction），源自 Route-Reduce 分解定理
 4. **新增 C.**：控制与系统原语前缀 `C.`（Control），覆盖配置/时钟/同步/DMA
@@ -157,7 +157,7 @@ tcc.c.link.config(butterfly);
 ## 六、生效与维护
 
 - **生效日期**：2026-06-30
-- **适用范围**：TCC/NCC 方向全部文档、代码、论文、专利、项目申报
+- **适用范围**：TCC/TCC 方向全部文档、代码、论文、专利、项目申报
 - **废弃标记**：NPC-/CPC- 前缀标记为 @deprecated
 - **下次评审**：2026-12-30
 
