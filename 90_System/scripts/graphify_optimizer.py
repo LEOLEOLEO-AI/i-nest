@@ -32,7 +32,7 @@ EXCLUDE_DIRS = {".venv", ".git", ".neural_db", ".neural_memory",
                 ".obsidian", ".trash", "node_modules", "copilot",
                 "__pycache__", ".gitignore", "conflict-files-obsidian-git.md"}
 TOPICS_DIR = VAULT / "03_Topics"
-MOC_DIR = VAULT / "01_MOC"
+MOC_DIR = VAULT / "00_MOC"
 
 # Tag normalization map (variant -> canonical)
 TAG_NORMALIZE = {

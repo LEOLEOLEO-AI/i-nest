@@ -69,3 +69,9 @@ _archive/**/*.pdf
 # Obsidian binary cache
 .obsidian/workspace*.json
 .obsidian/hotkeys.json
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

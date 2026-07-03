@@ -621,64 +621,164 @@ def scan_and_build_graph():
 
 
 
-# -- Stage 4: Generate Genspark Snapshot ---------------------------------
+# -- Stage 4: Generate Genspark Research Brief ---------------------------------
 def generate_genspark_snapshot():
-    """Generate project snapshot for Genspark top-tier model consumption."""
-    log("[Genspark] Generating project snapshot...")
+    """Generate a useful research brief for Genspark deep analysis.
+    Includes: active paper status, recent paper abstracts, inbox highlights,
+    knowledge graph hotspots, and open research questions."""
+    log("[Genspark] Generating research brief...")
     now = datetime.now()
     today = now.strftime("%Y-%m-%d")
-    snapshot_path = VAULT / "99_Meta" / f"genspark_snapshot_{today}.md"
-    snapshot_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    brief_path = VAULT / "99_Meta" / "genspark_research_brief.md"
+    brief_path.parent.mkdir(parents=True, exist_ok=True)
 
-    lib_papers = len(list((VAULT / "10_Library" / "Papers").glob("*.md")))
-    lib_articles = len(list((VAULT / "10_Library" / "Articles").glob("*.md")))
-    inbox_count = len([f for f in (VAULT / "00_Inbox").glob("*.md") if f.name != ".gitkeep"])
-    genspark_inbox = len(list((VAULT / "00_Inbox" / "_from_genspark").glob("*.md")))
-    papers_out = len(list((VAULT / "50_Output" / "51_Papers").glob("*.md")))
-    patents_out = len(list((VAULT / "50_Output" / "52_Patents").glob("*.md")))
+    active_papers = {
+        "P-Paradigm": {"title": "Topology-Centric Computing Paradigm", "target": "Nature Electronics", "status": "framework", "track": "TCC"},
+        "P-Mapping": {"title": "Physical Topology Mapping", "target": "IEEE TPDS", "status": "drafting", "track": "TCC"},
+        "B0-Engineering": {"title": "Baseline Engineering Edition", "target": "TBD", "status": "v7 SUBMISSION", "track": "TCC"},
+        "CST-Emergence": {"title": "CST Intelligent Emergence", "target": "TBD", "status": "V25 FINAL", "track": "iNEST"},
+        "iNEST-Core": {"title": "iNEST Core Architecture", "target": "TBD", "status": "framework", "track": "iNEST"},
+        "Liquid-Computing": {"title": "Liquid Computing Chemistry", "target": "TBD", "status": "framework", "track": "iNEST"}
+    }
+
+    recent_papers = []
+    papers_dir = VAULT / "10_Library" / "Papers"
+    if papers_dir.exists():
+        paper_files = sorted(papers_dir.glob("*.md"), key=lambda f: f.stat().st_mtime, reverse=True)[:12]
+        for pf in paper_files:
+            try:
+                text = pf.read_text(encoding="utf-8", errors="ignore")
+                if text.startswith("---"):
+                    parts = text.split("---", 2)
+                    body = parts[2] if len(parts) > 2 else text
+                else:
+                    body = text
+                first_para = body.strip().split("\n\n")[0] if body.strip() else ""
+                first_para = first_para.replace("\n", " ")[:300]
+                recent_papers.append({
+                    "title": pf.stem[:100],
+                    "date": datetime.fromtimestamp(pf.stat().st_mtime).strftime("%Y-%m-%d"),
+                    "excerpt": first_para
+                })
+            except:
+                pass
+
+    inbox_highlights = []
+    inbox_dir = VAULT / "00_Inbox"
+    inbox_files = sorted(
+        [f for f in inbox_dir.rglob("*.md") if f.name != ".gitkeep"],
+        key=lambda f: f.stat().st_mtime, reverse=True
+    )[:8]
+    for f in inbox_files:
+        inbox_highlights.append({
+            "name": f.stem[:80],
+            "date": datetime.fromtimestamp(f.stat().st_mtime).strftime("%Y-%m-%d"),
+            "folder": str(f.parent.relative_to(inbox_dir)) if f.parent != inbox_dir else "root"
+        })
 
     graph_data = {"nodes": [], "edges": []}
     graph_path = VAULT / "knowledge_graph" / "graph_data.json"
     if graph_path.exists():
         try:
-            with open(graph_path, encoding="utf-8") as f:
-                graph_data = json.load(f)
+            graph_data = json.loads(open(graph_path, encoding="utf-8").read())
         except:
             pass
+    nodes_sorted = sorted(
+        graph_data.get("nodes", []),
+        key=lambda n: n.get("out_degree", 0) + n.get("in_degree", 0),
+        reverse=True
+    )[:8]
+    hotspots = [(n["label"], n.get("out_degree", 0) + n.get("in_degree", 0))
+                for n in nodes_sorted if n.get("label")]
 
-    nodes_sorted = sorted(graph_data.get("nodes", []), key=lambda n: n.get("out_degree", 0) + n.get("in_degree", 0), reverse=True)[:10]
-    top_nodes = "\n".join(f"- [[{n['label']}]] (out={n['out_degree']}, in={n['in_degree']})" for n in nodes_sorted if n.get('label'))
+    total_notes = len(list(VAULT.rglob("*.md")))
 
-    inbox_files = sorted([f for f in (VAULT / "00_Inbox").glob("*.md") if f.name != ".gitkeep"], key=lambda f: f.stat().st_mtime, reverse=True)[:10]
-    recent_inbox = "\n".join(f"- {f.name} [{datetime.fromtimestamp(f.stat().st_mtime).strftime('%m-%d %H:%M')}]" for f in inbox_files) if inbox_files else "(empty)"
+    lines = []
+    lines.append("---")
+    lines.append(f"title: iNEST+TCC Research Brief - {today}")
+    lines.append(f"date: {today}")
+    lines.append("type: research-brief")
+    lines.append("target: genspark")
+    lines.append("---")
+    lines.append("")
+    lines.append(f"# iNEST + TCC Research Brief - {today}")
+    lines.append("")
+    lines.append("> For Genspark deep analysis. Contains actionable research context.")
+    lines.append("")
 
-    log_files = sorted(LOG_DIR.glob("pipeline_*.json"), reverse=True)[:3]
-    recent_logs = ""
-    for lf in log_files:
+    lines.append("## 1. Active Papers")
+    lines.append("")
+    lines.append("| Paper | Track | Target | Status |")
+    lines.append("|-------|-------|--------|--------|")
+    for pid, info in active_papers.items():
+        lines.append(f"| {pid}: {info['title']} | {info['track']} | {info['target']} | {info['status']} |")
+    lines.append("")
+
+    lines.append("## 2. Core Research Questions (for Genspark analysis)")
+    lines.append("")
+    lines.append("1. **TCC**: How does network topology quantitatively determine computational capability? Route=Transform equivalence?")
+    lines.append("2. **iNEST**: What is the minimal physical rule set that yields self-organized criticality in silicon?")
+    lines.append("3. **Engineering**: How to implement SDI flexible interconnects at wafer scale with ns-level reconfiguration?")
+    lines.append("4. **Theory**: Relationship between network connection scale and intelligence emergence? (Unproven hypothesis)")
+    lines.append("")
+
+    lines.append("## 3. Recent Papers (past week)")
+    lines.append("")
+    if recent_papers:
+        for p in recent_papers:
+            lines.append(f"### {p['title']}")
+            lines.append(f"- Date: {p['date']}")
+            if p['excerpt']:
+                lines.append(f"- Excerpt: {p['excerpt']}")
+            lines.append("")
+    else:
+        lines.append("(No recent papers scanned)")
+        lines.append("")
+
+    lines.append("## 4. Inbox Highlights")
+    lines.append("")
+    if inbox_highlights:
+        for item in inbox_highlights:
+            lines.append(f"- [{item['date']}] **{item['name']}** ({item['folder']})")
+    else:
+        lines.append("(Inbox empty)")
+    lines.append("")
+
+    lines.append("## 5. Knowledge Graph Hotspots")
+    lines.append("")
+    lines.append(f"Total notes: {total_notes}")
+    lines.append(f"Graph nodes: {len(graph_data.get('nodes', []))} | edges: {len(graph_data.get('edges', []))}")
+    lines.append("")
+    if hotspots:
+        lines.append("Top connected topics:")
+        for label, deg in hotspots:
+            lines.append(f"- **{label}** (degree={deg})")
+    lines.append("")
+
+    lines.append("## 6. Innovation Brief (latest)")
+    lines.append("")
+    ib_path = VAULT / "99_Meta" / f"innovation_brief_{today}.md"
+    if ib_path.exists():
         try:
-            ld = json.loads(open(lf, encoding="utf-8").read())
-            recent_logs += f"- {ld.get('date','')[:10]}: {ld.get('new_papers',0)} papers, {ld.get('classified',0)} classified\n"
+            ib_text = ib_path.read_text(encoding="utf-8", errors="ignore")
+            lines.append(ib_text[:1000])
         except:
-            pass
+            lines.append("(Innovation brief not available)")
+    else:
+        lines.append("(Run innovation_engine.py to generate)")
+    lines.append("")
 
-    with open(snapshot_path, "w", encoding="utf-8") as f:
-        f.write(f"---\ntitle: Genspark Project Snapshot - {today}\ndate: {today}\ntype: snapshot\ntarget: genspark\ntags: [genspark, snapshot, project-status]\n---\n\n")
-        f.write(f"# Genspark Project Snapshot - {today}\n\n")
-        f.write("## 1. Vault Overview\n\n| Metric | Count |\n|--------|-------|\n")
-        f.write(f"| Library Papers | {lib_papers} |\n| Library Articles | {lib_articles} |\n| Output Papers | {papers_out} |\n| Output Patents | {patents_out} |\n| Inbox (unprocessed) | {inbox_count} |\n| Genspark Inbox (pending) | {genspark_inbox} |\n| Knowledge Graph Nodes | {len(graph_data.get('nodes', []))} |\n| Knowledge Graph Edges | {len(graph_data.get('edges', []))} |\n\n")
-        f.write(f"## 2. Recent Pipeline Runs\n\n{recent_logs}\n\n")
-        f.write(f"## 3. Recent Inbox Items\n\n{recent_inbox}\n\n")
-        f.write(f"## 4. Top Connected Topics\n\n{top_nodes if top_nodes else '(empty)'}\n\n")
-        f.write("## 5. Current Focus Areas\n\n- **TCC**: Topological Computing - wafer-scale integration, network-on-chip\n- **iNEST**: Intelligent Neural Emergent System Theory - neuromorphic, self-organized criticality, emergence\n\n")
-        f.write(f"## 6. Open Questions\n\n(Review via Genspark)\n---\n*Auto-generated {now.strftime('%Y-%m-%d %H:%M')}*\n")
+    lines.append("---")
+    lines.append(f"*Research brief auto-generated {now.strftime('%Y-%m-%d %H:%M')}*")
+    lines.append("")
 
-    latest_path = VAULT / "99_Meta" / "genspark_latest_snapshot.md"
-    with open(latest_path, "w", encoding="utf-8") as f:
-        f.write(open(snapshot_path, encoding="utf-8").read())
+    brief_text = "\n".join(lines)
+    brief_path.write_text(brief_text, encoding="utf-8")
+    log(f"[Genspark] Research brief written: genspark_research_brief.md")
+    return str(brief_path.relative_to(VAULT))
 
-    log(f"[Genspark] Snapshot written: {snapshot_path.name}")
-    return str(snapshot_path.relative_to(VAULT))
-# ── Main ────────────────────────────────────────────────
+
 def main():
     print(f"\n{'='*60}")
     print(f"  iNEST + TCC Research Pipeline v3.3")
