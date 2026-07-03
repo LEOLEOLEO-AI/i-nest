@@ -79,6 +79,7 @@ target: genspark
 
 ## 4. Inbox Highlights
 
+- [2026-07-03] **2026-07-03_arXiv_Decoupling band topology from criticality in bosonic systems** (_pipeline_insights)
 - [2026-07-03] **getnote_2026-07-02_网络通信重要性佐证** (root)
 - [2026-06-30] **getnote_2025-12-16_开源工具** (From_Getnote)
 - [2026-06-30] **getnote_2026-01-18_脑科学开源数据** (From_Getnote)
@@ -86,26 +87,25 @@ target: genspark
 - [2026-06-30] **getnote_2026-04-30_AI训练网络通信机制深度解析_TCCL的_伪并行_优化原理** (From_Getnote)
 - [2026-06-30] **getnote_2025-01-11_工程技术系统发展路线与分类** (From_Getnote)
 - [2026-06-30] **getnote_2025-01-11_晶上产业集群技术路线规划** (From_Getnote)
-- [2026-06-30] **getnote_2025-02-04_大脑神经网络连接对功能的直接影响佐证** (From_Getnote)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 4365
-Graph nodes: 4419 | edges: 7707
+Total notes: 4366
+Graph nodes: 4355 | edges: 4763
 
 Top connected topics:
-- **00_iNEST_全景知识图谱** (degree=1182)
-- **00_iNEST_全景知识图谱** (degree=1000)
-- **Tags** (degree=658)
-- **Tags** (degree=658)
-- **Chip-Hardware-MOC** (degree=587)
-- **AI-ML-MOC** (degree=427)
-- **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战_dup** (degree=397)
-- **Project-Management-MOC** (degree=336)
+- **TCC_iNEST_成果全景** (degree=291)
+- **2025年AI与HPC网络加速芯片技术对比** (degree=85)
+- **GetNote_20260606_100554_kb_iNEST_getnote_1887266194235479456_晶上大脑基础研究课题** (degree=22)
+- **AI-ML-MOC** (degree=20)
+- **Chip-Hardware-MOC** (degree=20)
+- **emergence_20260621** (degree=16)
+- **getnote_2025-09-12_晶上大脑基础研究课题** (degree=15)
+- **晶上大脑基础研究课题** (degree=15)
 
 ## 6. Innovation Brief (latest)
 
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-07-03 16:41*
+*Research brief auto-generated 2026-07-03 17:36*
