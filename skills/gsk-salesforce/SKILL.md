@@ -17,8 +17,6 @@ metadata:
 
 Salesforce DX CLI (`sf`) operations in a pre-authenticated sandbox. Actions: run (forwards any `sf` subcommand).
 
-**Authorization:** Salesforce uses Genspark's OAuth connector — auth lives in the user's Genspark account, not in the VM browser. If `gsk sf` returns a "not connected" / "not authorized" error, direct the user to `https://www.genspark.ai/api/oauth/salesforce/login` (opens in their main browser). Do **not** recommend the VNC remote desktop / `openclaw://browser` for Salesforce login — that path bypasses the Genspark OAuth token store and the CLI will still report "not connected".
-
 ## Usage
 
 ```bash
@@ -38,4 +36,3 @@ gsk sf [options]
 ## See Also
 
 - [gsk-shared](../gsk-shared/SKILL.md) — Authentication and global flags
-
