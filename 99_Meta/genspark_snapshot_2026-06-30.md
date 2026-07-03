@@ -34,16 +34,16 @@ tags: [genspark, snapshot, project-status]
 
 ## 4. Top Connected Topics
 
-- [[00_iNEST_全景知识图谱]] (out=1182, in=0)
-- [[00_iNEST_全景知识图谱]] (out=1000, in=0)
+- 00_iNEST_全景知识图谱 (out=1182, in=0)
+- 00_iNEST_全景知识图谱 (out=1000, in=0)
 - [[Tags]] (out=658, in=0)
 - [[Tags]] (out=658, in=0)
-- [[Chip-Hardware-MOC]] (out=587, in=0)
-- [[AI-ML-MOC]] (out=427, in=0)
-- [[神经科学、AGI与神经形态计算的融合：统一研究范式与挑战_dup]] (out=397, in=0)
-- [[Project-Management-MOC]] (out=336, in=0)
-- [[Concepts-Theory-MOC]] (out=274, in=0)
-- [[Neuroscience-MOC]] (out=119, in=0)
+- Chip-Hardware-MOC (out=587, in=0)
+- AI-ML-MOC (out=427, in=0)
+- 神经科学、AGI与神经形态计算的融合：统一研究范式与挑战_dup (out=397, in=0)
+- Project-Management-MOC (out=336, in=0)
+- Concepts-Theory-MOC (out=274, in=0)
+- Neuroscience-MOC (out=119, in=0)
 
 ## 5. Current Focus Areas
 

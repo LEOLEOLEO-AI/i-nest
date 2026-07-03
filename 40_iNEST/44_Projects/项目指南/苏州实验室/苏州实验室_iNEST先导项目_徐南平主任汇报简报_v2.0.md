@@ -214,8 +214,8 @@ iNEST 范式：**材料的内在非线性动力学直接参与智能涌现**—�
 ---
 
 **附录**：
-- [iNEST先导项目_致徐南平主任说帖_v1.0.md](http://127.0.0.1:8900/home/work/.openclaw/workspace/40_iNEST/44_Projects/%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/%E8%8B%8F%E5%B7%9E%E5%AE%9E%E9%AA%8C%E5%AE%A4/iNEST%E5%85%88%E5%AF%BC%E9%A1%B9%E7%9B%AE_%E8%87%B4%E5%BE%90%E5%8D%97%E5%B9%B3%E4%B8%BB%E4%BB%BB%E8%AF%B4%E5%B8%96_v1.0.md)（独立说帖全文）
-- [苏州实验室_iNEST先导项目指南_材料与网络基础_v3.0_正式发布版.md](http://127.0.0.1:8900/home/work/.openclaw/workspace/40_iNEST/44_Projects/%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/%E8%8B%8F%E5%B7%9E%E5%AE%9E%E9%AA%8C%E5%AE%A4/%5BV3%5D%20%E8%8B%8F%E5%B7%9E%E5%AE%9E%E9%AA%8C%E5%AE%A4_iNEST%E5%85%88%E5%AF%BC%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97_%E6%9D%90%E6%96%99%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80_v3.0_%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E7%89%88.md)
+- [iNEST先导项目_致徐南平主任说帖_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/40_iNEST/44_Projects/%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/%E8%8B%8F%E5%B7%9E%E5%AE%9E%E9%AA%8C%E5%AE%A4/iNEST%E5%85%88%E5%AF%BC%E9%A1%B9%E7%9B%AE_%E8%87%B4%E5%BE%90%E5%8D%97%E5%B9%B3%E4%B8%BB%E4%BB%BB%E8%AF%B4%E5%B8%96_v1.0.md)（独立说帖全文）
+- [苏州实验室_iNEST先导项目指南_材料与网络基础_v3.0_正式发布版.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/40_iNEST/44_Projects/%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/%E8%8B%8F%E5%B7%9E%E5%AE%9E%E9%AA%8C%E5%AE%A4/%5BV3%5D%20%E8%8B%8F%E5%B7%9E%E5%AE%9E%E9%AA%8C%E5%AE%A4_iNEST%E5%85%88%E5%AF%BC%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97_%E6%9D%90%E6%96%99%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80_v3.0_%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E7%89%88.md)
 
 ---
 

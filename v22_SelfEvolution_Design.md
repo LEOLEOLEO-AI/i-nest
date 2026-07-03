@@ -1,3 +1,10 @@
+---
+date: 2026-07-03
+type: strategy
+tags: [TCC, SDI, strategy]
+related: [[30_TCC/TCC_Master_Index|TCC Master Index]]
+---
+
 # v22 SDI Self-Evolution Mechanism Design
 
 **Project**: iNEST SDI Self-Evolving Network Simulation Platform

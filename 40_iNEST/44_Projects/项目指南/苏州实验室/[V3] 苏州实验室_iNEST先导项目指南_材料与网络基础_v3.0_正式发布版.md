@@ -542,14 +542,14 @@ TCC/iNEST正是这一方向的**原创性中国方案**。苏州实验室作为�
 
 ## 附录B：iNEST六级自然常数阈值（权威参照，以CST_Symbol_Baseline_v4.0为准）
 
-- [SDI实验-3_六级智能跃迁验证体系](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI实验-3_六级智能跃迁验证体系.md)
-- [SDI实验-2_V31_多脑协作与群体智能涌现路线图](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI实验-2_V31_多脑协作与群体智能涌现路线图.md)
-- [[V3] 海河实验室_正式项目申报书_TCC战略版](http://127.0.0.1:8900/home/work/.openclaw/workspace/40_iNEST/44_Projects/海河实验室重大专项/[V3] 海河实验室_正式项目申报书_TCC战略版.md)
-- [iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0](http://127.0.0.1:8900/home/work/.openclaw/workspace/40_iNEST/44_Projects/iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0.md)
-- [智涌脑_Gen2-Gen5硬件演进路线与代际IP继承体系 v3.0](http://127.0.0.1:8900/home/work/.openclaw/workspace/40_iNEST/44_Projects/%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/%E6%99%BA%E6%B6%8C%E8%84%91_Gen2-Gen5%E7%A1%AC%E4%BB%B6%E6%BC%94%E8%BF%9B%E8%B7%AF%E7%BA%BF%E4%B8%8E%E4%BB%A3%E9%99%85IP%E7%BB%A7%E6%89%BF%E4%BD%93%E7%B3%BB_v3.0_%E9%87%8D%E6%96%B0%E7%94%9F%E6%88%90%E7%89%88.md)
-- [SDI化合键工程参数证明](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI化合键工程参数证明及工程实现方案.md)
-- [元拓扑✖️SDI化合键的六种最优通信拓扑数学证明](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md)
-- [iNEST工程开发总体规划](http://127.0.0.1:8900/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/00_iNEST工程开发总体规划_v1.0.md)
+- [SDI实验-3_六级智能跃迁验证体系](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI实验-3_六级智能跃迁验证体系.md)
+- [SDI实验-2_V31_多脑协作与群体智能涌现路线图](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI实验-2_V31_多脑协作与群体智能涌现路线图.md)
+- [[V3] 海河实验室_正式项目申报书_TCC战略版](http://127.0.0.1:8899/home/work/.openclaw/workspace/40_iNEST/44_Projects/海河实验室重大专项/[V3] 海河实验室_正式项目申报书_TCC战略版.md)
+- [iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/40_iNEST/44_Projects/iNEST智涌脑_从MVP到五代产品的工程落地研发方案_v2.0.md)
+- [智涌脑_Gen2-Gen5硬件演进路线与代际IP继承体系 v3.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/40_iNEST/44_Projects/%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97/%E6%99%BA%E6%B6%8C%E8%84%91_Gen2-Gen5%E7%A1%AC%E4%BB%B6%E6%BC%94%E8%BF%9B%E8%B7%AF%E7%BA%BF%E4%B8%8E%E4%BB%A3%E9%99%85IP%E7%BB%A7%E6%89%BF%E4%BD%93%E7%B3%BB_v3.0_%E9%87%8D%E6%96%B0%E7%94%9F%E6%88%90%E7%89%88.md)
+- [SDI化合键工程参数证明](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI化合键工程参数证明及工程实现方案.md)
+- [元拓扑✖️SDI化合键的六种最优通信拓扑数学证明](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/元拓扑✖️SDI化合键的六种最优通信拓扑数学证明.md)
+- [iNEST工程开发总体规划](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/00_iNEST工程开发总体规划_v1.0.md)
 
 ---
 
