@@ -31,9 +31,9 @@ ctx = ssl.create_default_context()
 # S2 API Config
 
 # ── S2 API Config ─────────────────────────────────────
-S2_DELAY = 4           # seconds between S2 queries (free tier: 1 req/s)
-S2_RETRY_DELAY = 30    # seconds to wait on HTTP 429
-S2_MAX_RETRIES = 2
+S2_DELAY = 1           # seconds between S2 queries (free tier: 1 req/s)
+S2_RETRY_DELAY = 5    # seconds to wait on HTTP 429
+S2_MAX_RETRIES = 1
 
 # ── Search Queries (TCC + iNEST) ───────────────────────
 S2_QUERIES = [
@@ -67,26 +67,49 @@ S2_QUERIES = [
 
 # iNEST-style cross-domain arXiv queries
 ARXIV_QUERIES = [
-    # --- Core TCC/iNEST ---
-    ("criticality-information", 'abs:criticality AND abs:"information capacity" AND (abs:neural OR abs:network)'),
-    ("emergence-complex", 'abs:emergence AND abs:"complex network" AND (abs:intelligence OR abs:computation)'),
-    ("smallworld-computing", 'abs:"small-world" AND (abs:computing OR abs:chip OR abs:interconnect)'),
-    ("free-energy-neural", 'abs:"free energy" AND abs:neural AND (abs:self-organization OR abs:emergence)'),
-    ("NoC-topology", 'abs:"network-on-chip" AND abs:topology AND (abs:optimization OR abs:critical)'),
-    ("wafer-integration", 'abs:"wafer-scale" AND (abs:integration OR abs:interconnect OR abs:architecture)'),
-    # --- Higher-Order Networks ---
-    ("higher-order", 'abs:"higher-order" AND (abs:simplicial OR abs:hypergraph) AND (abs:network OR abs:interaction)'),
-    ("multilayer-temporal", 'abs:"multilayer network" OR abs:"temporal network" AND (abs:topology OR abs:emergence OR abs:synchronization)'),
-    # --- Spatiotemporal Coordination ---
-    ("spatiotemporal", 'abs:spatiotemporal AND (abs:coordination OR abs:synchronization OR abs:"pattern formation") AND (abs:neural OR abs:network)'),
-    # --- Intelligent Emergence ---
-    ("causal-emergence", 'abs:"causal emergence" AND (abs:network OR abs:intelligence OR abs:information)'),
-    ("multiplicative", 'abs:"multiplicative interaction" OR abs:"non-additive" AND (abs:complex OR abs:emergence OR abs:network)'),
-    ("active-inference-ai", 'abs:"active inference" AND (abs:intelligence OR abs:emergence OR abs:learning)'),
-    # --- Complex Network Theory ---
-    ("network-geometry", 'abs:"network geometry" OR abs:"hyperbolic network" AND (abs:topology OR abs:complex)'),
-    ("percolation-resilience", 'abs:percolation AND abs:"complex network" AND (abs:phase OR abs:resilience)'),
-    ("dynamical-emergence", 'abs:"dynamical system" AND abs:emergence AND (abs:network OR abs:critical)'),
+    # ============ TCC: Topology-Centric Computing ============
+    # Scale-up/out interconnect + NoC
+    ("TCC-scale-noc", 'abs:(scale-up OR scale-out OR "network-on-chip" OR NoC) AND abs:(interconnect OR routing OR topology OR arbitration)'),
+    # Wafer-scale / chiplet integration
+    ("TCC-wafer-chiplet", 'abs:("wafer-scale" OR chiplet OR "2.5D" OR "3D-IC") AND abs:(integration OR interconnect OR network OR packaging)'),
+    # Reconfigurable network
+    ("TCC-reconfigurable", 'abs:(reconfigurable OR "software-defined" OR programmable) AND abs:(network OR interconnect OR routing OR topology)'),
+    # Higher-order network topology
+    ("TCC-higher-order", 'abs:("higher-order" OR simplicial OR hypergraph OR "multilayer network") AND abs:(topology OR network OR interconnect OR computing)'),
+    # Network simulation + compilation
+    ("TCC-sim-compile", 'abs:(simulation OR compiler OR "design space exploration" OR "cycle-accurate" OR SystemC) AND abs:("network-on-chip" OR NoC OR interconnect)'),
+    # Network topology optimization
+    ("TCC-topology-opt", 'abs:(topology AND (optimization OR synthesis OR "design automation")) AND abs:(network OR interconnect OR NoC)'),
+    # Deadlock / congestion / QoS
+    ("TCC-qos", 'abs:(deadlock OR congestion OR "quality-of-service" OR QoS OR "flow control") AND abs:(network OR interconnect OR NoC OR routing)'),
+
+    # ============ iNEST: intelligent Neural Emergence SysTems ============
+    # Self-organization + criticality
+    ("iNEST-selforg-critical", 'abs:("self-organization" OR "self-organised" OR criticality OR "critical state") AND abs:(neural OR network OR dynamics OR emergence)'),
+    # Nonlinear dynamics + complexity
+    ("iNEST-nonlinear", 'abs:("nonlinear dynamics" OR "complex system" OR "complexity science") AND abs:(emergence OR "phase transition" OR bifurcation OR chaos)'),
+    # Spatiotemporal coordination
+    ("iNEST-spatiotemporal", 'abs:(spatiotemporal OR "spatial-temporal") AND abs:(coordination OR synchronization OR "pattern formation") AND abs:(neural OR network OR dynamics)'),
+    # Neural networks (spiking, SNN)
+    ("iNEST-snn", 'abs:("spiking neural" OR SNN OR "leaky integrate-and-fire" OR "neuromorphic") AND abs:(learning OR plasticity OR STDP OR architecture)'),
+    # Intelligent emergence
+    ("iNEST-emergence", 'abs:(emergence OR "emergent behavior" OR "collective intelligence") AND abs:(neural OR network OR agent OR "multi-agent")'),
+    # Asynchronous + event-triggered
+    ("iNEST-async", 'abs:(asynchronous OR "event-triggered" OR "event-driven" OR "clockless") AND abs:(circuit OR neural OR network OR computing)'),
+    # Spatial + functional structure
+    ("iNEST-structure", 'abs:("spatial structure" OR "functional connectivity" OR "network motif" OR "community structure") AND abs:(neural OR brain OR emergence OR dynamics)'),
+    # Higher-order in iNEST context
+    ("iNEST-higher-order", 'abs:("higher-order interaction" OR "simplicial complex" OR hypergraph) AND abs:(neural OR brain OR dynamics OR synchronization)'),
+    # Free energy + active inference
+    ("iNEST-free-energy", 'abs:("free energy principle" OR "active inference" OR "predictive coding") AND abs:(neural OR emergence OR self-organization)'),
+    # Reservoir computing
+    ("iNEST-reservoir", 'abs:("reservoir computing" OR "echo state" OR "liquid state machine") AND abs:(dynamics OR emergence OR criticality OR neuromorphic)'),
+
+    # ============ Bridge: TCC <-> iNEST ============
+    # Network science meets computation
+    ("bridge-network-comp", 'abs:("complex network" OR "network science") AND abs:(computing OR architecture OR chip OR hardware)'),
+    # Information theory + emergence
+    ("bridge-info-emergence", 'abs:("information theory" OR "integrated information" OR "mutual information") AND abs:(emergence OR criticality OR "complex network")'),
 ]
 
 # Google News RSS queries (for latest news)
@@ -112,123 +135,47 @@ def is_new(title):
     return True
 
 def generate_deep_insight(title, text, detail):
-    """生成深度TCC/iNEST洞察。返回dict: tcc, inest, actionable, relevance_score(0-3)"""
-    tcc_kw = [
-        'network-on-chip', 'noc', 'chiplet', 'wafer-scale', 'interconnect',
-        'topology', 'routing', 'placement', 'small-world', 'scale-free',
-        'dark silicon', 'manycore', '3d stacking', 'heterogeneous integration',
-        'crossbar', 'switching fabric', 'mesh', 'torus', 'signal integrity',
-        'temporal network', 'dynamic topology', 'reconfigurable',
-        'higher-order', 'simplicial complex', 'hypergraph',
-        'multilayer', 'multiplex network', 'network geometry',
-        'percolation', 'robustness', 'resilience',
-        'spatiotemporal', 'coordination', 'synchronization'
-    ]
-    inest_kw = [
-        'neuromorphic', 'spiking neural', 'snn', 'memristor', 'criticality',
-        'self-organized critical', 'neuronal avalanche', 'edge of chaos',
-        'emergence', 'free energy', 'active inference', 'integrated information',
-        'reservoir computing', 'liquid state', 'echo state',
-        'stdp', 'surrogate gradient', 'phase transition', 'power law',
-        'complex network', 'brain-inspired', 'predictive coding',
-        'e/i balance', 'excitatory inhibitory', 'c. elegans', 'connectome',
-        'causal emergence', 'multiplicative interaction', 'non-additive',
-        'synergy', 'intrinsic motivation', 'hyperbolic network',
-        'higher-order interaction', 'temporal dynamics',
-        'information geometry', 'free energy principle',
-        'pattern formation', 'self-organization', 'critical dynamics',
-        'intelligent emergence', 'integrated information theory'
-    ]
-    
-    tcc_matches = [kw for kw in tcc_kw if kw in text]
-    inest_matches = [kw for kw in inest_kw if kw in text]
-    
-    tcc_score = min(len(tcc_matches), 3)
-    inest_score = min(len(inest_matches), 3)
-    relevance = min(tcc_score + inest_score, 3)
-    
-    if relevance == 0:
-        return None
-    
-    result = {'relevance_score': relevance}
-    
-    # TCC洞察
-    if tcc_matches:
-        lines = []
-        lines.append(f'**关键词匹配**: {", ".join(tcc_matches[:5])}')
-        
-        if any(kw in text for kw in ['network-on-chip', 'noc', 'chiplet', 'interconnect']):
-            lines.append('')
-            lines.append('**借鉴**: 该研究的互连/拓扑优化方法可直接借鉴到TCC芯粒网络中。重点关注其拓扑生成算法、路由策略或布局优化思路。')
-        if any(kw in text for kw in ['small-world', 'scale-free', 'topology', 'complex network']):
-            lines.append('')
-            lines.append('**理论贡献**: 复杂网络拓扑性质对TCC的元拓扑设计有直接指导意义。若揭示新的"拓扑-功能"映射关系，应纳入TCC拓扑设计空间。')
-        if any(kw in text for kw in ['wafer-scale', 'dark silicon', 'manycore']):
-            lines.append('')
-            lines.append('**工程价值**: 晶圆级/众核架构研究为TCC的SDI物理网络提供工程参考基线。关注其功耗管理、热约束和扩展性策略。')
-        if any(kw in text for kw in ['crossbar', 'mesh', 'torus', 'switching']):
-            lines.append('')
-            lines.append('**拓扑结构**: 该文的交换/互连结构可作为TCC网络候选拓扑模板，与σ≥4.0目标进行对比分析。')
-        
-        result['tcc'] = '\n'.join(lines)
-    
-    # iNEST洞察
-    if inest_matches:
-        lines = []
-        lines.append(f'**关键词匹配**: {", ".join(inest_matches[:5])}')
-        
-        if any(kw in text for kw in ['criticality', 'neuronal avalanche', 'edge of chaos', 'self-organized critical']):
-            lines.append('')
-            lines.append('**核心理论**: 临界态/自组织临界性是iNEST的理论基石。该文可能提供新的临界性度量方法、相变机制或实验证据，直接强化"临界拓扑产生超线性信息处理能力"的核心命题。')
-            if any(kw in text for kw in ['information capacity', 'dynamic range', 'mutual information']):
-                lines.append('**定量证据**: 该文可能提供临界态 vs 非临界态的信息处理能力定量对比数据，这是iNEST论文最重要的引用来源。')
-        
-        if any(kw in text for kw in ['emergence', 'integrated information', 'causal emergence']):
-            lines.append('')
-            lines.append('**涌现机制**: 关于涌现/因果涌现的研究为iNEST"复杂网络→智能涌现"核心命题提供理论支撑。关注其如何定义和量化涌现现象。')
-        
-        if any(kw in text for kw in ['free energy', 'active inference', 'predictive coding']):
-            lines.append('')
-            lines.append('**自组织理论**: 自由能原理/主动推理框架为iNEST自组织机制提供数学基础。可用于形式化描述"网络如何自发趋向临界态"。')
-        
-        if any(kw in text for kw in ['neuromorphic', 'memristor', 'spiking neural', 'snn']):
-            lines.append('')
-            lines.append('**硬件实现**: 神经形态硬件方案为iNEST物理实现提供技术路线参考。关注其如何将临界动力学映射到电路层面。')
-        
-        if any(kw in text for kw in ['reservoir computing', 'liquid state', 'echo state']):
-            lines.append('')
-            lines.append('**计算范式**: 储备池计算天然处于"临界边缘"，其不需要训练内部权重的特性，与iNEST"拓扑即计算"高度一致。')
-        
-        if any(kw in text for kw in ['c. elegans', 'connectome']):
-            lines.append('')
-            lines.append('**基准系统**: C. elegans connectome是iNEST验证小世界拓扑→计算涌现的最小完整模型系统。新连接组数据可直接更新仿真基准。')
-        
-        result['inest'] = '\n'.join(lines)
-    
-    # 可执行行动
-    actions = []
-    citations = detail.get('citations', 0)
-    if citations > 50:
-        actions.append(f'⭐ 高影响力论文（{citations}引用），建议全文精读并在下周组会讨论。')
-    elif citations > 10:
-        actions.append(f'📖 中等影响力（{citations}引用），建议浏览引言和结论部分。')
-    else:
-        actions.append(f'📄 较新/冷门论文（{citations}引用），关注其创新点，选择性阅读。')
-    
-    if any(kw in text for kw in ['algorithm', 'method', 'framework', 'architecture']):
-        actions.append('🔬 包含具体方法/框架，可在CST仿真中复现验证。')
-    if any(kw in text for kw in ['benchmark', 'dataset', 'connectome', 'open source']):
-        actions.append('📦 含公开数据/代码，可直接下载集成到工具链。')
-    if any(kw in text for kw in ['review', 'survey', 'comprehensive']):
-        actions.append('📚 综述性论文，可作为该方向文献调研的入口。')
-    
-    result['actionable'] = '\n'.join(actions)
-    
-    return result
+    """LLM-powered deep TCC/iNEST insight generation."""
+    abstract = detail.get('abstract', text[:1000]) if detail else text[:1000]
+    citations = detail.get('citations', 0) if detail else 0
+    fields = detail.get('fields', '') if detail else ''
 
+    prompt = "Analyze this paper for TCC (NoC/chiplet/interconnect) and iNEST (criticality/emergence/neural) projects.\nTitle: " + title + "\nAbstract: " + abstract[:800] + "\n\nOutput JSON: {relevance_score:0-3, tcc:connection or empty, inest:connection or empty, actionable:suggestion, track:TCC|iNEST|Bridge|General}. Be specific, in Chinese."
 
+    try:
+        result = llm_call(prompt, system='Analyze research papers for TCC+iNEST. Output pure JSON only.', task_type='insight', max_tokens=500)
+        if result:
+            result = result.strip()
+            if result.startswith('```'):
+                result = result.replace('```json', '').replace('```', '').strip()
+            import json as _json
+            try:
+                data = _json.loads(result)
+                data['relevance_score'] = data.get('relevance_score', 1)
+                return data
+            except _json.JSONDecodeError:
+                pass
+    except Exception:
+        pass
 
-def safe_filename(s):
+    # Keyword fallback
+    text_lower = text.lower()
+    kw_tcc = ['noc','network-on-chip','chiplet','wafer','interconnect','topolog','routing','scale-up','scale-out']
+    kw_inest = ['neural','emergence','critical','self-organiz','bifurcation','nonlinear','spiking','reservoir','dynamics','phase transition']
+    tcc_hits = [kw for kw in kw_tcc if kw in text_lower]
+    inest_hits = [kw for kw in kw_inest if kw in text_lower]
+
+    if not tcc_hits and not inest_hits:
+        return {'relevance_score': 0}
+
+    return {
+        'relevance_score': min(len(tcc_hits) + len(inest_hits), 3),
+        'tcc': 'Keyword: ' + ', '.join(tcc_hits[:3]) if tcc_hits else '',
+        'inest': 'Keyword: ' + ', '.join(inest_hits[:3]) if inest_hits else '',
+        'actionable': 'Review for relevance to TCC/iNEST.',
+        'track': 'iNEST' if len(inest_hits) > len(tcc_hits) else 'TCC'
+    }
+
     return re.sub(r'[<>:"/\\|?*]', "", s)[:60]
 
 def write_insight(title, abstract, url, source, track="General", year="", authors="", s2_detail=None):
@@ -402,10 +349,12 @@ def crawl_arxiv():
     log("[arXiv] 检索 arXiv (交叉查询)...")
     count = 0
     for label, q in ARXIV_QUERIES:
-        url = f"https://export.arxiv.org/api/query?search_query={urllib.parse.quote(q)}&start=0&max_results=3&sortBy=submittedDate&sortOrder=descending"
+        today = datetime.now().strftime("%Y%m%d")
+        week_ago = (datetime.now() - timedelta(days=7)).strftime("%Y%m%d")
+        url = f"https://export.arxiv.org/api/query?search_query={urllib.parse.quote(q)}+AND+submittedDate:[{week_ago}+TO+{today}]&start=0&max_results=5&sortBy=submittedDate&sortOrder=descending"
         req = urllib.request.Request(url, headers={"User-Agent": "iNEST-Pipeline/3.0"})
         try:
-            with urllib.request.urlopen(req, context=ctx, timeout=30) as resp:
+            with urllib.request.urlopen(req, context=ctx, timeout=15) as resp:
                 root = ET.fromstring(resp.read().decode("utf-8"))
             ns = {"atom": "http://www.w3.org/2005/Atom"}
             for entry in root.findall("atom:entry", ns):
@@ -421,20 +370,25 @@ def crawl_arxiv():
                 abstract = s_el.text.strip().replace("\n", " ")[:500] if s_el is not None and s_el.text else ""
                 try:
                     pd = datetime.strptime(pubdate, "%Y-%m-%d") if pubdate else datetime.now()
-                    if (datetime.now() - pd).days > 14:
+                    if (datetime.now() - pd).days > 7:
                         continue
                 except:
                     pass
-                track = "iNEST" if any(kw in q.lower() for kw in ["neural","brain","emergence","free energy","critical","spiking","reservoir","stdp"]) else "TCC"
+                track = "iNEST" if label.startswith("iNEST") else ("TCC" if label.startswith("TCC") else "General")
                 if write_insight(title, abstract, link, "arXiv", track, pubdate[:4]):
                     count += 1
         except urllib.error.HTTPError as e:
             log(f"  arXiv {label}: HTTP {e.code}")
             if e.code == 429:
                 time.sleep(20)
+        except urllib.error.URLError as e:
+            log(f"  arXiv {label}: network error, skipping")
+            continue
         except Exception as e:
             log(f"  arXiv {label}: {str(e)[:60]}")
-        time.sleep(5)  # Rate limit
+            continue
+        time.sleep(3)  # Rate limit
+    log(f"[arXiv] Coverage: {count} new in last 7 days across {len(ARXIV_QUERIES)} queries")
     return count
 
 def crawl_google_news():
@@ -472,13 +426,13 @@ def crawl_google_news():
     return count
 
 # ── 阶段2: 分类处理 Inbox (classify with LLM) ─────────
-def call_deepseek(prompt, max_tokens=300):
-    """Call LLM via unified router (auto-fallback)."""
+def call_deepseek(prompt, max_tokens=300, task_type="classification"):
+    """Call LLM via unified router with task-aware model selection."""
     try:
         return llm_call(
             prompt,
             system="You are a research assistant. Output ONLY valid JSON.",
-            model_tier="default",
+            task_type=task_type,
             max_tokens=max_tokens,
             temperature=0.1
         )
@@ -550,9 +504,22 @@ Content: {content[:1500]}"""
 
 
 def process_inbox(limit=20):
-    """Classify inbox items. Disabled due to LLM balance."""
-    log("[Process] LLM分类已禁用，论文在 _pipeline_insights 中。")
-    return 0
+    """Classify inbox items using free LLM tier."""
+    log("[Process] LLM classify (free tier, limit=" + str(limit) + ")...")
+    count = 0
+    inbox = VAULT / "00_Inbox"
+    if not inbox.exists():
+        return 0
+    files = sorted(inbox.rglob("*.md"), key=lambda f: f.stat().st_mtime, reverse=True)
+    for fp in files:
+        if "_pipeline_insights" in str(fp):
+            continue
+        if count >= limit:
+            break
+        if classify_and_move(fp):
+            count += 1
+    log("[Process] Classified: " + str(count))
+    return count
 
 def scan_and_build_graph():
     """Scan all .md files, extract [[wikilinks]], build graph, suggest backlinks."""
@@ -788,14 +755,15 @@ def main():
     start = time.time()
     
     # Stage 1: Crawl
-    c1 = crawl_semantic_scholar()
+    log("[S2] Skipped (rate limited). Using arXiv only.")
+    c1 = 0
     c2 = crawl_arxiv()
     c3 = crawl_google_news()
     
     print(f"\n  阶段1 完成: {c1+c2+c3} new items to inbox")
     
     # Stage 2: Process
-    processed = process_inbox(limit=20)
+    processed = process_inbox(limit=0)
     
     # 阶段3: 知识图谱
     snapshot = generate_genspark_snapshot()

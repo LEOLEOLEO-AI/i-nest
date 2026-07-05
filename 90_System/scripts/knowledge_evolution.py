@@ -155,15 +155,35 @@ Return JSON array:
         result = llm_call(
             prompt,
             system="You are a senior research scientist analyzing knowledge for TCC+iNEST projects. Output pure JSON only, no markdown, no explanations.",
-            model_tier="default",
+            task_type="evolution",
             max_tokens=4000,
             temperature=0.3
         )
+        if not result:
+            print("  [LLM WARN] Empty response, retrying once...")
+            import time; time.sleep(3)
+            result = llm_call(prompt, system="You are a senior research scientist analyzing knowledge for TCC+iNEST projects. Output pure JSON only, no markdown, no explanations.", task_type="evolution", max_tokens=4000, temperature=0.3)
+        if not result:
+            return []
         result = result.strip()
         if result.startswith("```"):
             result = re.sub(r"^```\w*\n?", "", result)
             result = re.sub(r"\n```$", "", result)
-        return json.loads(result)
+        # Clean common LLM JSON errors
+        result = result.replace("\n", "\\n")
+        try:
+            return json.loads(result)
+        except json.JSONDecodeError:
+            m = re.search(r"\[.*\]", result, re.DOTALL)
+            if m:
+                return json.loads(m.group())
+            raise
+        except json.JSONDecodeError:
+            # Try extracting just the JSON array
+            m = re.search(r"\[.*\]", result, re.DOTALL)
+            if m:
+                return json.loads(m.group())
+            raise
     except Exception as e:
         print(f"  [LLM ERROR] Deep classify failed: {e}")
         return []

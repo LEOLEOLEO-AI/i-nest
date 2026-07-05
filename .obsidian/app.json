@@ -31,5 +31,6 @@
     "*.exe",
     "*.png",
     "*.jpg"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

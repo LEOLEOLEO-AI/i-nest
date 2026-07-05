@@ -1,6 +1,6 @@
 ---
 title: "iNEST — Auto MOC"
-date: 2026-06-21
+date: 2026-07-05
 type: moc
 auto_generated: true
 track: iNEST
@@ -8,47 +8,45 @@ track: iNEST
 
 # iNEST — Intelligent Emergence System
 
-> Auto-generated 2026-06-21 10:03 | 1151 notes
+> Auto-generated 2026-07-05 14:05 | 1373 notes
+
+ # Intelligent Emergence System (iNEST) Research Map
 
 ## Overview
-
-The Intelligent Emergence System (iNEST) MOC captures a rapidly evolving research landscape at the intersection of neuromorphic computing, complex systems theory, and next-generation AI architectures. Current activity centers on translating the Free Energy Principle (FEP) into hardware-software co-design, with a strong emphasis on memristor-based networks, spiking neural networks, and in-memory computing as foundational technologies. The most recent notes indicate a pivot from theoretical frameworks to concrete implementation roadmaps, particularly through the Suzhou Laboratory's iNEST pilot project guidelines.
+Intelligent Emergence System (iNEST) is an emerging field that combines various disciplines, including artificial intelligence, neuroscience, and physics, to develop intelligent systems that can adapt, learn, and grow like biological networks. Recent research has focused on developing dynamic neural networks, physics-informed neural networks, and exploring the application of thermodynamics principles in AI.
 
 ## Thematic Clusters
+### Dynamic Neural Networks
+- [[Dynamic Neural Networks_Nature_Machine_Intelligence]]
+- [[像生物网络一样「生长」，具备「结构可塑性」的自组织神经网络来了]]
+- [[人工智能（XAI）可解释的综述！]]
 
-### 1. Neuromorphic Hardware & Materials
-- [[GetNote_20260603_210001_类脑计算最新综述]] — Nature Electronics review covering memristors, SNNs, and in-memory computing; identifies FEP-driven self-organizing networks as next-gen AI key direction.
-- [[[V3] 苏州实验室_iNEST先导项目指南_材料与网络基础_v3.0_正式发布版]] — Latest official project guidelines for materials and network foundations.
-- [[[V2] 苏州实验室_iNEST先导项目立项指南_材料与网络基础_v1.0]] — Earlier version of the same guidelines, showing evolution of research priorities.
+### Physics-Informed Neural Networks
+- [[物理信息神经网络（pinns）是什么？又有何应用？未来发展是什么？]]
+- [[中国学者一作！类脑计算——构建“人造超级大脑”，再登Science子刊!]]
 
-### 2. Theoretical Frameworks & Complexity
-- [[Nat_Commun_大脑与深度神经网络的通用_表征重构_与神经空间适应性_几何拉伸_]] — Universal representation reconfiguration and geometric stretching in neural spaces.
-- [[02_复杂性：什么样的系统是复杂系统？_-_得到APP (1)]] — Foundational primer on complex systems characteristics.
-- [[CST_V25_ρ0.976_科学性质询报告_v2.0]] — Scientific inquiry report on CST (Complex Systems Theory) at high correlation threshold.
-- [[CST_V25_ρ0.976_科学性质询报告_v1.0]] — Earlier version of the CST inquiry report.
+### Thermodynamics and AI
+- [[颠覆认知！Yann_LeCun_的_AGI_新思路，你绝对想不到]]
+- [[《Nature_Comm》：热力学启发解释人工智能原理_dup]]
 
-### 3. Architecture & Paradigm Shift
-- [[您的一站式 AI 工作空间_dup]] — 9-image academic series showing paradigm shift from von Neumann architecture to liquid topological network centers, based on CST theory.
-- [[iNEST_RnD_SuperFlow_v3]] — R&D superflow pipeline for iNEST, likely detailing the development workflow.
-- [[参考_双轨战略框架总览_v3_dup]] — Dual-track strategic framework overview, providing high-level strategic context.
+### AI and Synthetic Biology
+- [[人工智能与合成生物学的完美结合_一场颠覆性的科技革命]]
 
-### 4. Operational & Strategic Planning
-- [[TraeSolo_Genspark_每日分工_2026-06-20]] — Daily task allocation for TraeSolo and Genspark teams, indicating active project management.
-- [[Idea_OODA_卫星智能体_同构定理的战略价值]] — Strategic value of OODA satellite agents and isomorphism theorem, suggesting defense/autonomous systems applications.
+### iNEST System Design and Implementation
+- [[iNEST5_00_宽屏目录仪表盘]]
+- [[iNEST计算范式_从涌现科学验证到工程落地战略规划_v1.0]]
 
 ## Emerging Directions
-
-1. **FEP-Driven Self-Organizing Networks** — The Nature Electronics review explicitly identifies this as the next key direction for AI, bridging theoretical neuroscience (Free Energy Principle) with practical neuromorphic hardware implementation. This is likely the core research thrust for iNEST.
-
-2. **Liquid Topological Network Architectures** — The paradigm shift from von Neumann to liquid topological network centers (documented in the CST-based academic image series) suggests a move toward more fluid, adaptive network topologies that can dynamically reconfigure based on environmental demands.
-
-3. **OODA Satellite Agents & Isomorphism Theorem** — The strategic note on OODA (Observe-Orient-Decide-Act) satellite agents combined with isomorphism theorem points toward distributed, autonomous intelligence systems that leverage mathematical equivalences between different representational spaces—potentially enabling cross-domain generalization in real-time decision-making.
+- Exploring the application of thermodynamics principles in AI to develop more efficient and adaptive intelligent systems.
+- Developing dynamic neural networks that can adapt and learn like biological networks.
+- Integrating AI with synthetic biology to create new forms of intelligent systems.
+- Developing simulation platforms for iNEST systems to test and validate their performance.
 
 ---
 | Metric | Value |
 |:---|:---|
-| Total Notes | 1151 |
-| 7d Active | 103 |
-| 30d Active | 1150 |
+| Total Notes | 1373 |
+| 7d Active | 320 |
+| 30d Active | 490 |
 
 > Wiki LLM v2.0
