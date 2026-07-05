@@ -1,7 +1,7 @@
-﻿# LLM API Configuration - SiliconFlow (硅基流动)
+# LLM API Configuration - SiliconFlow (硅基流动)
 llm:
   provider: "siliconflow"
-  api_key: "REDACTED_LEAKED_SILICONFLOW"
+  api_key: "YOUR_SILICONFLOW_API_KEY_HERE"
   base_url: "https://api.siliconflow.cn/v1"
   model: "deepseek-ai/DeepSeek-V4-Pro"
   embedding_model: "BAAI/bge-large-zh-v1.5"

@@ -22,7 +22,7 @@ def call_llm(prompt, max_tokens=300):
         return llm_call(
             prompt,
             system="You are a research assistant classifying academic papers and notes. Output ONLY valid JSON, no markdown.",
-            model_tier="fast",
+            task_type="classification",
             max_tokens=max_tokens,
             temperature=0.1
         )

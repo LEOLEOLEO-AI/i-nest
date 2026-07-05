@@ -102,5 +102,5 @@ Yann LeCun 的建议标志着人工智能研究范式的重大转变。 通过�
 ## Related Notes
 
 - [[脑科学启发的持续学习，打造个性化的通用人工智能]]
-- [[八大神经网络，从原理到应用]]
+- [[00_Inbox/_pipeline_insights/八大神经网络，从原理到应用]]
 - [[GNN联合transformer最新突破！！！]]

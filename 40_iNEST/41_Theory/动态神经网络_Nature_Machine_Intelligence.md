@@ -28,5 +28,5 @@ tags:
 ## Related Notes
 
 - [[GNN联合transformer最新突破！！！]]
-- [[八大神经网络，从原理到应用]]
+- [[00_Inbox/_pipeline_insights/八大神经网络，从原理到应用]]
 - [[关于脉冲神经网络的数学原理]]

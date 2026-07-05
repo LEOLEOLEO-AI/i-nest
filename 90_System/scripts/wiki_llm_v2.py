@@ -10,24 +10,9 @@ from llm_router import llm_call
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 OUTPUT_DIR = VAULT / "60_MOC" / "_wiki_llm_v2"
 
-def call_llm(system_prompt, user_prompt, max_tokens=800):
-    payload = {
-        "model": DS_MODEL,
-        "messages": [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt}
-        ],
-        "max_tokens": max_tokens,
-        "temperature": 0.3,
-    }
-    req = urllib.request.Request(DS_API_URL, data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json", "Authorization": f"Bearer {DS_API_KEY}"})
-    try:
-        with urllib.request.urlopen(req, timeout=90) as resp:
-            return json.loads(resp.read())["choices"][0]["message"]["content"]
-    except Exception as e:
-        print(f"LLM error: {e}")
-        return None
+def call_llm(system_prompt, user_prompt, max_tokens=800, task_type="insight"):
+    """Use llm_router with task-aware model selection."""
+    return llm_call(user_prompt, system=system_prompt, task_type=task_type, max_tokens=max_tokens, temperature=0.3)
 
 def safe_parse_json(text):
     text = text.strip()
