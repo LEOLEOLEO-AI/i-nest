@@ -1,8 +1,10 @@
 ---
 name: gsk-aidrive
 version: 1.0.0
-description: 'AI-Drive file storage and management. Actions: ls, mkdir, rm, move,
-  get_readable_url, download_video, download_audio, download_file, upload.'
+description: 'AI-Drive file storage and management. Actions: ls, find, mkdir, rm,
+  move, get_readable_url, download_video, download_audio, download_file, upload. `ls`
+  lists ONE directory (non-recursive) — to locate files by name anywhere in the drive,
+  use `find` (one indexed query) instead of walking directories with repeated `ls`.'
 metadata:
   category: general
   requires:
@@ -15,7 +17,7 @@ metadata:
 
 **PREREQUISITE:** Read `../gsk-shared/SKILL.md` for auth, global flags, and security rules.
 
-AI-Drive file storage and management. Actions: ls, mkdir, rm, move, get_readable_url, download_video, download_audio, download_file, upload.
+AI-Drive file storage and management. Actions: ls, find, mkdir, rm, move, get_readable_url, download_video, download_audio, download_file, upload. `ls` lists ONE directory (non-recursive) — to locate files by name anywhere in the drive, use `find` (one indexed query) instead of walking directories with repeated `ls`.
 
 ## Usage
 
@@ -29,8 +31,9 @@ gsk drive [options]
 
 | Flag | Required | Description |
 |------|----------|-------------|
-| `<action>` (positional) | Yes | Action to perform (string, one of: ls, mkdir, rm, move, get_readable_url, download_video, download_audio, download_file, upload) |
-| `-p`, `--path` | No | Path to file or folder for actions: ls, mkdir, rm, move, get_readable_url. For compress: folder path to compress. For decompress: archive file path to decompress (string) |
+| `<action>` (positional) | Yes | Action to perform (string, one of: ls, find, mkdir, rm, move, get_readable_url, download_video, download_audio, download_file, upload) |
+| `-p`, `--path` | No | Path to file or folder for actions: ls, mkdir, rm, move, get_readable_url. For compress: folder path to compress. For decompress: archive file path to decompress. For find: directory to search within (default '/' searches everywhere). (string) |
+| `-q`, `--query` | No | Filename search keyword for find action. Matches files and directories whose name contains the keyword. Case-insensitive. Supports partial matches. (string) |
 | `-f`, `--filter_type` | No | Filter by entry type for ls action (improves performance): all (default), file, directory. Use 'file' when only need files. (string, one of: all, file, directory) |
 | `--file_type` | No | Filter by file MIME type for ls action (improves performance): all (default), audio, video, image. Combine with filter_type='file' for best results. (string, one of: all, audio, video, image) |
 | `--target_path` | No | Destination path, for move action only (string) |
