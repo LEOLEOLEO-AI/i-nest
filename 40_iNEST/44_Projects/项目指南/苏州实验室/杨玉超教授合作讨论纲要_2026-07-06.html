@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>iNEST × 北京大学杨玉超教授 — 合作讨论纲要</title>
+<style>
+  :root { --bg:#0f172a; --card:#1e293b; --border:#334155; --text:#e2e8f0; --muted:#94a3b8; --accent:#38bdf8; --accent2:#a78bfa; --gold:#fbbf24; }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{font-family:"Segoe UI","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--text);line-height:1.7;padding:2rem 1.5rem;}
+  .container{max-width:960px;margin:0 auto;}
+  header{text-align:center;padding:3rem 0 2rem;border-bottom:2px solid var(--border);margin-bottom:2rem;}
+  header h1{font-size:2rem;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:0.5rem;}
+  header .meta{color:var(--muted);font-size:0.9rem;}
+  .toc{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:1.5rem 2rem;margin-bottom:2rem;}
+  .toc h2{font-size:1.1rem;color:var(--gold);margin-bottom:0.8rem;}
+  .toc ol{padding-left:1.5rem;} .toc li{margin:0.3rem 0;color:var(--muted);}
+  .toc li a{color:var(--accent);text-decoration:none;} .toc li a:hover{text-decoration:underline;}
+  section{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:2rem;margin-bottom:1.5rem;scroll-margin-top:1rem;}
+  section h2{font-size:1.3rem;color:var(--accent);margin-bottom:1.2rem;padding-bottom:0.5rem;border-bottom:1px solid var(--border);}
+  section h3{font-size:1.05rem;color:var(--accent2);margin:1.2rem 0 0.6rem;}
+  section h4{font-size:0.95rem;color:var(--gold);margin:0.8rem 0 0.4rem;}
+  p{margin:0.5rem 0;} ul,ol{padding-left:1.5rem;margin:0.5rem 0;} li{margin:0.25rem 0;}
+  table{width:100%;border-collapse:collapse;margin:0.8rem 0;font-size:0.9rem;}
+  th,td{border:1px solid var(--border);padding:0.5rem 0.7rem;text-align:left;}
+  th{background:rgba(56,189,248,0.1);color:var(--accent);font-weight:600;}
+  tr:nth-child(even){background:rgba(255,255,255,0.02);}
+  .hl{background:linear-gradient(135deg,rgba(56,189,248,0.08),rgba(167,139,250,0.08));border-left:3px solid var(--accent);padding:1rem 1.2rem;border-radius:0 8px 8px 0;margin:1rem 0;}
+  .hl2{background:linear-gradient(135deg,rgba(251,191,36,0.08),rgba(56,189,248,0.05));border-left:3px solid var(--gold);padding:1rem 1.2rem;border-radius:0 8px 8px 0;margin:1rem 0;}
+  .tag{display:inline-block;padding:0.15rem 0.6rem;border-radius:4px;font-size:0.8rem;font-weight:600;margin-right:0.3rem;}
+  .tag-tcc{background:rgba(56,189,248,0.15);color:var(--accent);}
+  .tag-inest{background:rgba(167,139,250,0.15);color:var(--accent2);}
+  .tag-suzhou{background:rgba(251,191,36,0.15);color:var(--gold);}
+  footer{text-align:center;color:var(--muted);font-size:0.85rem;padding:2rem 0;border-top:1px solid var(--border);margin-top:2rem;}
+</style>
+</head>
+<body>
+<div class="container">
+<header>
+  <h1>iNEST × 北京大学杨玉超教授<br>合作讨论纲要</h1>
+  <p class="meta">2026-07-06 ｜ 线上会议 ｜ 刘勤让 · iNEST 联合团队</p>
+</header>
+<div class="toc">
+  <h2>📋 讨论提纲</h2>
+  <ol>
+    <li><a href="#s1">iNEST 研究现状与后续计划</a> — 路线图、进展、理论突破</li>
+    <li><a href="#s2">苏州实验室先导项目 — 核心大纲</a> — 五工作包、七单位分工</li>
+    <li><a href="#s-ya">请杨教授分享</a> — 团队突破 / 十五五规划 / 仿真平台 / 合作建议</li>
+    <li><a href="#s3">论文合作与仿真平台对接</a> — 联合论文规划、仿真协同</li>
+    <li><a href="#s4">合作模式与协同机制</a> — 分工、经费、知识产权</li>
+    <li><a href="#s5">下一步行动清单</a></li>
+  </ol>
+</div>
+
+<!-- ===== 1 ===== -->
+<section id="s1">
+<h2>一、iNEST 研究现状与后续研究计划</h2>
+<div class="hl"><p><strong>背景前提</strong>：杨玉超教授 2026年6月已听过邬江兴院士关于 iNEST 的讲座，对基本概念有了解。本部分聚焦最新进展与后续计划，无需过多重复介绍。</p></div>
+
+<h3>1.1 当前核心进展（2026 H1）</h3>
+<table>
+<tr><th>维度</th><th>成果</th><th>状态</th></tr>
+<tr><td><strong>理论</strong></td><td>CST 协同时空复杂度定理 — 40个生物+工程系统验证 (Spearman ρ=0.92, τ=0.83)</td><td>✅ 已完成</td></tr>
+<tr><td><strong>符号基准</strong></td><td>CST_Symbol_Baseline_v4.0 — TCC/iNEST 术语/公式/α表唯一权威参照</td><td>✅ 已完成</td></tr>
+<tr><td><strong>仿真</strong></td><td>SDI 六代智能跃迁仿真 (L1-L6 全通过，WS图实验验证)</td><td>✅ 已完成</td></tr>
+<tr><td><strong>路线图</strong></td><td>iNEST 整体路线图 v2.0 — 连接规模×智能等级×工程代数</td><td>✅ v2.0 权威版</td></tr>
+<tr><td><strong>数学</strong></td><td>元拓扑完备性证明 (3基底×5操作→6拓扑)、SDI化合键工程参数 (b=10, g=1.5)</td><td>✅ 已完成</td></tr>
+</table>
+
+<h3>1.2 iNEST 整体路线图（2027-2035）：从 Gen1 起即基于类脑材料与器件</h3>
+<div class="hl"><p><strong>核心认知</strong>：iNEST 架构从第一代起就以忆阻器等非线性物理器件为计算基底——不是 Gen3 才"引入"忆阻器，而是 Gen1 就用最简单的忆阻交叉阵列做突触，每代升级的是器件工艺精度、集成密度和动力学丰富度，而非"有无"问题。</p></div>
+<table>
+<tr><th>代次</th><th>年份</th><th>系统连接数</th><th>智能等级</th><th>CST阈值</th><th>生物类比</th><th>器件基底</th><th>关键工程突破</th></tr>
+<tr><td><strong>Gen1</strong></td><td>2027</td><td>10⁶</td><td>L2 反应</td><td>≥1.0</td><td>线虫(302神经元)</td><td>HfOx忆阻器交叉阵列 (4×4→32×32)</td><td>FPGA MVP验证；忆阻器小阵列突触+SDI单化合键RTL</td></tr>
+<tr><td><strong>Gen2</strong></td><td>2029</td><td>10⁸</td><td>L3 适应</td><td>≥1.618</td><td>果蝇(~10⁷突触)</td><td>1T1R忆阻器阵列 (苏州28nm流片)</td><td>晶圆级SDI化合键；忆阻器阵列量产工艺验证</td></tr>
+<tr><td><strong>Gen3</strong></td><td>2031</td><td>10¹⁰</td><td>L4 创造</td><td>≥2.718</td><td>小鼠皮层</td><td>双铁电栅极可调忆阻器 (多时间尺度动力学)</td><td>存算一体SYN；器件-网络跨层映射工程化</td></tr>
+<tr><td><strong>Gen4</strong></td><td>2033</td><td>10¹²</td><td>L5 通用</td><td>≥3.142</td><td>猕猴全脑</td><td>异质忆阻器+光电混合接口</td><td>三维集成；光电混合互连</td></tr>
+<tr><td><strong>Gen5</strong></td><td>2035</td><td>10¹⁴</td><td>L6 超级</td><td>≥4.669</td><td>人脑</td><td>液态拓扑自组织忆阻材料</td><td>液态拓扑自组织；涌现智能</td></tr>
+</table>
+<div class="hl"><p><strong>核心规律</strong>：每2年，连接数×100，智能等级+1。不靠单节点高扇出（Gen5 目标 K≈10⁴，与人脑平均突触数一致），靠 SDI 化合键分形级联的拓扑涌现增益。</p><p><strong>器件演进逻辑</strong>：Gen1 用最简单忆阻器证明原理 → Gen2 用苏州28nm线量产1T1R阵列 → Gen3 用双铁电栅极多时间尺度器件解锁L4创造智能 → Gen4/5 向异质集成和液态拓扑推进。杨教授的双铁电栅极可调忆阻器（InfoMat 2026）是 Gen2→Gen3 跨越的关键器件候选。</p></div>
+
+<h3>1.3 CST 理论与器件参数的映射（核心工程假说）</h3>
+<div class="hl"><p><strong>CST = (S_c · T_c) · e^(α·Γ_st)</strong></p><p><strong>S_c</strong>（空间复杂度）— 由 SDI 化合物互连材料连接密度决定 ｜ <strong>T_c</strong>（时间复杂度）— 由忆阻器氧化物多时间尺度弛豫决定（HfOx: τ₁~ms, τ₂~s, τ₃~min, τ₄~h）</p><p><strong>α</strong>（设备物理系数）— 纯数字逻辑=0.69, 忆阻器=2.77–4.50, 人脑=3.91</p><p><strong>待验证假说</strong>：CST 公式中每个参数都可追溯到具体材料物理量——从材料第一性原理出发的定量工程科学。键规模型（CST值与忆阻器网络物理参数之间的函数映射）是 Gen1/Gen2 阶段的核心实证目标。</p></div>
+
+<h3>1.4 后续理论攻关方向</h3>
+<ul>
+<li><strong>CST 第二版深化</strong>：从"条件检测器"升级为"演化预测器"，引入非连续智能跃迁的 Feigenbaum 分岔建模</li>
+<li><strong>键规模型实证</strong>：CST公式与忆阻器网络物理参数之间的函数映射关系（待杨教授团队器件数据验证）</li>
+<li><strong>多脑协作理论</strong>：群体智能涌现的 SDI 级联机制（SDI实验-2 V31）</li>
+<li><strong>异步SNN编译器</strong>：面向 SDI 化合键的异步脉冲神经网络映射工具链</li>
+</ul>
+
+<h3>1.5 与李国齐研究员「内生复杂性」路线的协同</h3>
+<div class="hl"><p><strong>中科院自动化所 李国齐/徐波 团队</strong> 提出的"内生复杂性"概念与 iNEST 在底层逻辑上高度对齐：</p><ul>
+<li><strong>NSLLM (National Science Review, 2025)</strong>：将标准 LLM 转化为脉冲神经网络格式，通过整数脉冲计数+脉冲线性注意力机制消除矩阵乘法，在 FPGA 上实现 23.849W 动态功耗 / 161.8 token/s，能效比 A800 GPU 提升 19.8×</li>
+<li><strong>瞬悉1.0</strong>：基于内生复杂性的类脑脉冲大模型，以神经动力学替代 Transformer 的外生计算复杂度</li>
+<li><strong>与 iNEST 的共振点</strong>：两者都认为"智能来自物理系统的内在动力学复杂性，而非外部叠加的计算复杂度"。iNEST 从器件材料→网络涌现自底向上构建；李国齐从大模型→脉冲化自顶向下改造。在 SNN 编译工具链和 SDI 脉冲映射方面存在明确的互补空间。</li>
+</ul><p>🤝 <strong>建议</strong>：将李国齐团队纳入苏州实验室项目的工具链协同单位（WP3 SNN编译器模块），其 FPGA 脉冲部署经验可加速 Gen1/Gen2 的 SDI-SNN 映射工具链开发。</p></div>
+</section>
+
+<!-- ===== 2 ===== -->
+<section id="s2">
+<h2>二、苏州实验室先导项目 — 核心大纲</h2>
+<div class="hl"><p><strong>项目全称</strong>：超低功耗类脑器件驱动的晶圆级智能涌现计算系统 — 从关键材料到通用智能的全链条创新</p><p><strong>建议规模</strong>：4年 / 2亿元 ｜ <strong>牵头</strong>：苏州实验室(童祎) ｜ <strong>七单位协同</strong>：苏州/北大/天大/复旦/浙大/NDSC/中科院自动化所</p></div>
+
+<h3>2.1 立项依据：材料是类脑计算的"第一公里"</h3>
+<h4>根源性瓶颈</h4>
+<table>
+<tr><th>瓶颈</th><th>材料根源</th><th>后果</th></tr>
+<tr><td><strong>突触-神经元物理分离</strong></td><td>突触用SRAM/eDRAM存权重，神经元用CMOS逻辑——两种材料体系物理隔离</td><td>权重更新与脉冲发放之间的信号转换消耗>90%系统能耗</td></tr>
+<tr><td><strong>网络拓扑终生固化</strong></td><td>互连金属线条流片后物理不可更改——缺乏拓扑可塑性的材料基础</td><td>芯片只能执行预设连接模式，无法持续重组网络</td></tr>
+<tr><td><strong>动力学单一时间尺度</strong></td><td>CMOS数字电路只有"时钟驱动"模式</td><td>大脑覆盖 ms级→年级的6个时间尺度，全部丢失</td></tr>
+</table>
+<div class="hl"><p><strong>结论</strong>：类脑计算的根本瓶颈不在架构、不在算法，而在材料。只有能同时提供"计算"和"连接"两种功能、能在多时间尺度上演化、能物理重构互连拓扑的新型器件，才能将类脑计算从"模拟"推向"涌现"。这正是苏州实验室不可替代的战略价值。</p></div>
+<h4>苏州实验室已有能力与项目需求的匹配</h4>
+<table>
+<tr><th>材料方向</th><th>苏州实验室已有能力</th><th>本项目需求</th></tr>
+<tr><td>忆阻器功能氧化物</td><td>HfOx/TaOx/AlOx薄膜可控沉积、导电细丝调控</td><td>"突触-神经元二合一"器件核心功能层</td></tr>
+<tr><td>低维纳米材料</td><td>纳米线/纳米颗粒自组装网络</td><td>类脑渗流网络的物理基底</td></tr>
+<tr><td>先进封装材料</td><td>晶圆级键合、TSV填充材料</td><td>Chiplet→晶圆级异构集成</td></tr>
+<tr><td>热管理材料</td><td>高导热界面材料、微流道散热</td><td>万芯粒级系统供电与散热</td></tr>
+</table>
+<div class="hl"><p><strong>战略窗口判断</strong>：全球范围内，"忆阻器+晶圆级集成+智能涌现"的全链条研究仍处于空白地带。Intel/IBM/IMEC 单点突破但缺乏全链条整合；清华/北大/中科院有器件能力但缺乏晶圆级系统能力。<strong>未来3-5年是建立"从材料到智能"全链条国家级平台的最后窗口期。</strong></p></div>
+
+<h3>2.2 核心逻辑链</h3>
+<div style="text-align:center;margin:1rem 0;font-family:monospace;font-size:0.85rem;color:var(--accent2);">
+  苏州(童祎) 功能氧化物+先进封装材料 L1<br>→ 北大(杨玉超) 非线性可调忆阻器器件物理 L2<br>→ 天大(于和善) 器件-网络跨层映射理论 L2<br>→ 复旦(张帆) CST涌现理论+WS图验证 L3<br>→ 浙大(潘钢) Darwin3 SNN工具链 L3<br>→ NDSC(李沛杰) SDSoW架构+TCC-Link标准 L3<br>→ 中科院(李国齐) 内生复杂性+SDI-SNN脉冲映射 L3<br>→ 苏州(童祎) 晶圆级SDSoW系统集成 L4<br>→ 七单位协同 智能涌现验证 L5
+</div>
+
+<h3>2.3 五大工作包详述</h3>
+<h4>WP1：SDI化合键功能材料（苏州实验室主导，童祎）</h4>
+<table>
+<tr><th>子任务</th><th>内容</th><th>量化目标</th></tr>
+<tr><td>HfOx忆阻器薄膜</td><td>原子层沉积(ALD)工艺优化，氧空位浓度与分布调控</td><td>成品率>95%@4英寸晶圆；开关比>10²</td></tr>
+<tr><td>TaOx/AlOx辅助层</td><td>界面工程——插入层对导电细丝动力学的调控</td><td>耐久性>10⁶ cycles</td></tr>
+<tr><td>异质集成界面材料</td><td>Chiplet→晶圆级键合界面层、TSV填充材料</td><td>键合强度>10 J/m²</td></tr>
+<tr><td>28nm CMOS兼容流片</td><td>与国内代工厂（中芯/华虹）协同，1T1R忆阻器交叉阵列流片</td><td>首批工程批2027 Q2交付</td></tr>
+</table>
+
+<h4>WP2：非线性动力学忆阻器（北大杨玉超 + 天大于和善）</h4>
+<table>
+<tr><th>子任务</th><th>内容</th><th>关键参考文献/基础</th></tr>
+<tr><td>双铁电栅极可调忆阻器</td><td>基于 InfoMat 2026 成果，利用双铁电栅极实现 I-V 非线性特性的连续可调——作为器件异质性"光谱"的物理来源</td><td>杨玉超 InfoMat 2026</td></tr>
+<tr><td>器件指纹聚类</td><td>提取兴奋型/抑制型/随机型器件指纹，建立器件功能类型谱</td><td>天大 于和善 聚类算法</td></tr>
+<tr><td>多时间尺度弛豫表征</td><td>τ₁(STP,~ms)→τ₂(LTP衰减,~s)→τ₃(STDP权重固化,~min)→τ₄(器件老化,~h)——对应CST T_c项的多尺度参数矩阵</td><td></td></tr>
+<tr><td>跨层转化算子</td><td>器件异质性分布参数→网络动力学多样性贡献矩阵 M_SD</td><td>天大 于和善 跨层理论</td></tr>
+</table>
+<div class="hl"><p><strong>器件哲学纠偏（关键认知对齐）</strong></p><p>传统思路：忆阻器 → 追求一致性 (variation = bug) → 精确权重编程</p><p>iNEST思路：忆阻器 → 利用非线性动力学 (variation = feature) → 物理驱动网络涌现</p><p>🤝 <strong>请杨教授就此给出意见</strong>：器件物理学家怎么看"利用异质性"的思路？可行性边界在哪里？双铁电栅极调谐范围是否足以覆盖兴奋型→抑制型→随机型的动力学跨度？</p></div>
+
+<h4>WP3：涌现架构与工具链（复旦张帆 + 浙大潘钢 + NDSC李沛杰 + 中科院李国齐）</h4>
+<table>
+<tr><th>子任务</th><th>内容</th><th>产出</th></tr>
+<tr><td>CST键规模型实证</td><td>将 WP2 器件参数矩阵代入 CST 公式，验证 S_c/T_c/α 与物理参数的函数映射</td><td>CST器件工程手册V1</td></tr>
+<tr><td>WS图实验框架</td><td>忆阻器网络渗流相变仿真——验证临界涌现的 CST 阈值预测</td><td>跨规模仿真数据</td></tr>
+<tr><td>SDI化合键RTL IP</td><td>在已验证 sdio_bond_core_v24 基础上扩展至多化合键并行、元拓扑重构指令集</td><td>sdio_bond_core_v30</td></tr>
+<tr><td>Darwin3 SNN工具链适配</td><td>浙大潘钢 Darwin3 类脑芯片工具链——适配 SDI 化合键脉冲映射接口</td><td>SNN→SDI编译器</td></tr>
+<tr><td>NSLLM脉冲映射工具链</td><td>中科院李国齐 NSLLM/瞬悉 FPGA脉冲部署经验——SDI-SNN映射工具链开发</td><td>SDI-SNN编译器V1</td></tr>
+<tr><td>TCC-Link互联标准</td><td>SDSoW 架构下芯粒间互联协议规范</td><td>TCC-Link v1.0 标准</td></tr>
+</table>
+
+<h4>WP4：晶圆级SDSoW系统集成（苏州童祎 + 天大于和善）</h4>
+<table>
+<tr><th>子任务</th><th>内容</th><th>阶段目标</th></tr>
+<tr><td>28nm SDI互连物理验证</td><td>M6层线宽100nm→83Gbps/线的理论值与实测对比</td><td>2027 Q4</td></tr>
+<tr><td>10³节点原型</td><td>忆阻器交叉阵列+SDI化合键+CMOS控制逻辑的三维堆叠</td><td>2028 Q2（Gen1验证）</td></tr>
+<tr><td>10⁴节点原型</td><td>多芯粒互联，SDSoW架构</td><td>2029 Q4（Gen2验证）</td></tr>
+<tr><td>10⁵节点原型</td><td>异构芯粒大规模集成，验证自发小世界拓扑形成</td><td>2030 Q4（Gen3验证）</td></tr>
+<tr><td>超低功耗验证</td><td>系统级能耗目标：≤100mW @ 10³节点规模</td><td>2028 Q4</td></tr>
+</table>
+
+<h4>WP5：智能涌现验证与工具链闭环（七单位协同）</h4>
+<table>
+<tr><th>子任务</th><th>内容</th><th>验证指标</th></tr>
+<tr><td>自发拓扑形成验证</td><td>SDSoW原型上验证忆阻器网络自发形成小世界拓扑（聚类系数σ≥2.0）</td><td>σ对比随机网络基线</td></tr>
+<tr><td>渗流相变实验</td><td>忆阻器网络在连接密度渐增下检测渗流相变点，验证CST阈值</td><td>CST≥1.0 (L2) / ≥1.618 (L3)</td></tr>
+<tr><td>多芯粒协作加速</td><td>多芯粒协作任务加速比验证</td><td>加速比≥1.3×</td></tr>
+<tr><td>跨任务学习能力</td><td>同一网络在不同任务间的迁移学习性能</td><td>迁移准确率≥85%</td></tr>
+<tr><td>异步SNN编译工具链</td><td>SDI配置工具链 + SNN映射编译器的端到端闭环</td><td>完整工具链V1.0</td></tr>
+</table>
+</section>
+
+<!-- ===== 3: 请杨教授分享 ===== -->
+<section id="s-ya">
+<h2>三、请杨玉超教授分享</h2>
+<div class="hl2"><p>以下为希望在会议中请杨教授介绍和分享的四个方面，帮助 iNEST 团队了解北大的最新进展、规划与可用平台，为后续合作提供基础。</p></div>
+
+<h3>3.1 团队最新突破与研究进展</h3>
+<p>我们在文献中已关注到杨教授团队近期的系列重要成果，希望请杨教授介绍最新的进展细节和下一步攻关方向：</p>
+<table>
+<tr><th>成果</th><th>期刊</th><th>核心创新</th><th>希望了解的点</th></tr>
+<tr><td><strong>双铁电栅极可调忆阻器</strong></td><td>InfoMat 2026</td><td>利用铁电偶极子耦合效应，实现极大滞回特性、丰富时间动力学、非易失性异端触可塑性；利用动态非线性构建"感算一体"物理储备池，利用静态非线性实现 I∝V² 二次函数运算加速 K-means 聚类（95.3%准确率）</td><td>双铁电栅极的 I-V 可调范围有多大？能否覆盖从兴奋型到抑制型的完整动力学光谱？</td></tr>
+<tr><td><strong>二维材料全同质集成</strong></td><td>Nature Communications 2026</td><td>把光电编码神经元和铁电突触在同一块晶圆上全同质集成（homogeneous integration），实现神经形态视觉处理全流程</td><td>全同质集成的工艺成熟度？是否可扩展到更大规模阵列？</td></tr>
+<tr><td><strong>三模态忆阻器ODE求解器</strong></td><td>Nature Communications 2026</td><td>提出粗解/精解/粗到精并行三模态架构+历史编程方法(HMP)，在指数函数、Lorenz吸引子、三体问题上实现最高6920倍速度提升、3930倍能效提升</td><td>器件的动力学方程映射机制？如何推广到更复杂的高维/刚性方程组？</td></tr>
+<tr><td><strong>可重构存内排序系统</strong></td><td>Nature Electronics 2025</td><td>1T1R阵列+数字读取(DR)+树节点跳跃(TNS)算法，无需比较操作；吞吐量提升×7.7、能效提升×160.4、面积效率提升×32.46</td><td>TNS算法在更大规模阵列中的可扩展性？</td></tr>
+<tr><td><strong>可重构感存算芯片</strong></td><td>Nature Electronics 2024</td><td>MP1R阵列通过电压调控在同一硬件上切换卷积/循环/脉冲三种工作模式（OCNN/ORNN/OSNN），MNIST静态识别95.75%、N-MNIST动态事件识别95.3%</td><td>三种模式切换的控制复杂度？实时重构的延迟开销？</td></tr>
+</table>
+<div class="hl"><p>🤝 <strong>核心请教点</strong>：上述成果中，哪些器件能力（非线性可调范围、多时间尺度、可重构性）可以直接服务于 iNEST 的"器件异质性→网络涌现"路线？杨教授认为器件层面还有哪些尚未突破但 iNEST 急需的能力？</p></div>
+
+<h3>3.2 十五五规划</h3>
+<p>希望请杨教授介绍北京大学团队在国家"十五五"科技规划中的布局思路：</p>
+<ul>
+<li><strong>器件方向布局</strong>：十五五期间忆阻器/类脑器件的重点攻关方向是什么？是否有从单器件→阵列→系统的规模化路线？</li>
+<li><strong>平台建设</strong>：是否有建设国家级忆阻器器件平台/类脑计算平台的规划？与苏州实验室的定位如何互补？</li>
+<li><strong>人才与团队</strong>：十五五期间的团队扩展计划、博士生/博士后培养规模</li>
+<li><strong>国际合作</strong>：在国际合作层面（如与 IMEC、MIT 等）是否有新的布局</li>
+</ul>
+
+<h3>3.3 仿真平台与原型验证平台</h3>
+<div class="hl2"><p><strong>这是本次会议重点学习的内容</strong>——了解杨教授团队在发表论文时内部使用的仿真工具链和原型验证平台，为 iNEST 后续论文撰写和仿真平台建设提供指导。</p></div>
+<h4>希望了解的具体信息</h4>
+<table>
+<tr><th>层面</th><th>希望杨教授介绍的内容</th><th>iNEST 侧的需求</th></tr>
+<tr><td><strong>器件建模</strong></td><td>忆阻器的物理模型采用什么工具拟合（SPICE/Verilog-A/自研模型）？I-V特性如何参数化提取？器件间统计分布如何表征？</td><td>需将器件模型导入 SDI 仿真引擎作为网络节点的代理模型</td></tr>
+<tr><td><strong>电路仿真</strong></td><td>1T1R阵列的电路级仿真用什么工具？阵列规模多大？是否有阵列级行为模型？</td><td>SDI 化合键的 RTL 仿真需要与阵列模型对接</td></tr>
+<tr><td><strong>系统级验证</strong></td><td>Nature 系论文中的系统验证（如排序系统、ODE求解器、感存算芯片）使用什么测试平台？FPGA 还是自研 PCB？测试流程如何？</td><td>苏州实验室 SDSoW 原型需要参考成熟的测试验证方法学</td></tr>
+<tr><td><strong>数据源</strong></td><td>实验数据的采集、管理与标注流程；是否有标准化的数据集（如 I-V 统计库）可供合作方使用</td><td>键规模型实证需要真实的器件统计分布数据</td></tr>
+<tr><td><strong>论文工具链</strong></td><td>从实验到论文的全流程工具；Nature 系期刊投稿时审稿人最关注的器件/系统指标；如何组织器件-架构跨层论文的叙事结构</td><td>联合论文需要统一的图表规范和数据呈现标准</td></tr>
+</table>
+
+<h3>3.4 对合作方向的建议</h3>
+<p>希望请杨教授从器件物理学家的视角，对以下问题给出建议：</p>
+<ul>
+<li><strong>器件哲学纠偏</strong>：iNEST 主张"利用忆阻器异质性"（variation = feature）而非"追求一致性"（variation = bug），杨教授作为器件物理学家怎么看？可行性边界在哪里？</li>
+<li><strong>器件需求反推</strong>：从 iNEST 的六大智能等级阈值（CST ≥1.0→4.669）反推，需要什么样的器件参数组合？现有忆阻器能力是否足以支撑到 Gen3（L4创造智能）？</li>
+<li><strong>苏州实验室立项</strong>：杨教授对苏州实验室先导项目的立项形式、经费规模、合作机制有何建议？北大团队在项目中希望承担什么角色？</li>
+<li><strong>论文合作切入点</strong>：从杨教授已有成果出发，哪个方向最适合作为首篇联合论文的切入点？双铁电栅极忆阻器的非线性表征框架是否是最佳起点？</li>
+<li><strong>仿真平台共建</strong>：是否愿意共建"忆阻器非线性动力学表征工作站"——苏州出设备、北大出表征方法论、天大出网络映射算法？</li>
+</ul>
+</section>
+
+<!-- ===== 4 ===== -->
+<section id="s3">
+<h2>四、论文合作与仿真平台对接</h2>
+<h3>4.1 联合论文规划</h3>
+<table>
+<tr><th>论文方向</th><th>预计时间</th><th>杨教授贡献</th><th>iNEST贡献</th></tr>
+<tr><td><strong>双铁电忆阻器非线性动力学表征框架</strong></td><td>2026 Q4–2027 Q1</td><td>器件制备+I-V数据+物理建模</td><td>器件指纹聚类算法+网络角色分配理论</td></tr>
+<tr><td><strong>忆阻器异质性向网络动力学多样性的跨层转化</strong></td><td>2027 H1</td><td>1T1R阵列实测分布数据</td><td>跨层转化算子+CST量化预测</td></tr>
+<tr><td><strong>非线性忆阻器网络的渗流相变与临界涌现</strong></td><td>2027 H2</td><td>器件网络制备+电学测量</td><td>WS图实验框架+CST阈值检测</td></tr>
+</table>
+<div class="hl"><p><strong>建议策略</strong>：不走"各做各的然后拼凑"，而是从器件表征阶段就引入网络视角——器件的测量参数定义由 iNEST 的网络需求反推。杨教授团队的 InfoMat 2026 双铁电栅极忆阻器是天然起点。</p></div>
+<h3>4.2 仿真平台协同构想</h3>
+<ul>
+<li><strong>器件层</strong>：杨教授团队的实测 I-V 数据 → 拟合为非线性动力学代理模型</li>
+<li><strong>电路层</strong>：代理模型导入 iNEST SDI 仿真引擎 → 忆阻器交叉阵列的 SPICE 级仿真</li>
+<li><strong>网络层</strong>：CST 框架下的 WS 图实验 → 渗流相变、临界涌现的数值验证</li>
+<li><strong>系统层</strong>：SDSoW 全系统仿真 → 晶圆级原型的性能预测</li>
+</ul>
+</section>
+
+<!-- ===== 5 ===== -->
+<section id="s4">
+<h2>五、合作模式与分工架构</h2>
+<h3>5.1 七单位角色定位</h3>
+<table>
+<tr><th>单位</th><th>核心角色</th><th>关键产出</th></tr>
+<tr><td><span class="tag tag-suzhou">苏州</span> 童祎</td><td>材料+工艺+系统集成 (L1+L4)</td><td>28nm忆阻器阵列流片、SDSoW原型</td></tr>
+<tr><td><span class="tag tag-inest">北大</span> 杨玉超</td><td>非线性器件物理+器件表征 (L2核心)</td><td>双铁电忆阻器配方、I-V表征数据</td></tr>
+<tr><td>天大 于和善</td><td>器件-网络跨层理论+SDI IP (L2协同)</td><td>器件指纹聚类、SDI化合键RTL</td></tr>
+<tr><td>复旦 张帆</td><td>智能涌现理论+CST验证 (L3)</td><td>CST量化预测、WS图实验</td></tr>
+<tr><td>浙大 潘钢</td><td>类脑芯片工具链 (L3)</td><td>Darwin3 SNN编译工具链适配</td></tr>
+<tr><td>NDSC 李沛杰</td><td>SDI架构+TCC-Link标准 (L3)</td><td>SDSoW架构设计、互联标准</td></tr>
+<tr><td>中科院 李国齐</td><td>内生复杂性+SNN脉冲映射 (L3协同)</td><td>NSLLM/瞬悉 FPGA脉冲部署经验、SDI-SNN映射工具链</td></tr>
+</table>
+<h3>5.2 经费与知识产权</h3>
+<ul>
+<li><strong>经费</strong>：总 2亿元/4年，按工作包分配。WP2 (北大+天大) 建议 3000-4000万元</li>
+<li><strong>论文通讯</strong>：联合通讯，按贡献排位。器件部分北大第一，理论部分天大/复旦第一</li>
+<li><strong>专利</strong>：按贡献比例共享，国家标准联合署名</li>
+</ul>
+<h3>5.3 合作形式建议</h3>
+<ul>
+<li><strong>双周线上同步会</strong>：器件表征进展 ↔ 网络理论需求 的双向反馈</li>
+<li><strong>季度线下互访</strong>：北大←→苏州实验室←→天大，器件+材料+网络三方对齐</li>
+<li><strong>共建"忆阻器非线性动力学表征工作站"</strong>：苏州出设备，北大出表征方法论，天大出网络映射算法</li>
+<li><strong>联合博士/博士后培养</strong>：以苏州实验室为载体，北大+天大双导师制</li>
+</ul>
+</section>
+
+<!-- ===== 6 ===== -->
+<section id="s5">
+<h2>六、下一步行动清单</h2>
+<h3>6.1 本次会议确认事项</h3>
+<ol>
+<li><strong>杨教授确认参与意向</strong>：是否愿意作为 WP2（非线性器件）负责人加入苏州实验室先导项目？</li>
+<li><strong>仿真平台对接</strong>：确认杨教授团队使用的具体仿真工具、数据格式 → 确定与 iNEST SDI仿真引擎的接口方案</li>
+<li><strong>器件数据共享时间表</strong>：杨教授团队现有的 1T1R 阵列 I-V 统计数据何时可用于 CST 框架验证？</li>
+<li><strong>十五五协同</strong>：北大十五五规划中是否有与苏州实验室/ iNEST 的联合布局空间？</li>
+</ol>
+<h3>6.2 会议后两周内推进</h3>
+<ol>
+<li>发送 <strong>苏州实验室 V3 项目指南全文</strong> + iNEST 路线图 v2.0 给杨教授团队</li>
+<li>整理杨教授团队的 <strong>仿真工具链清单 + 数据格式说明</strong></li>
+<li>形成 <strong>首篇联合论文大纲</strong>（双铁电忆阻器非线性表征框架）</li>
+<li>确认 <strong>北大团队在苏州实验室立项中的经费需求与人员配置</strong></li>
+</ol>
+<h3>6.3 中长期里程碑</h3>
+<ul>
+<li><strong>2026 Q4</strong>：首篇联合论文初稿完成、器件非线性动力学代理模型 V1</li>
+<li><strong>2027 Q2</strong>：苏州实验室先导项目正式立项、WP2 启动</li>
+<li><strong>2027 Q4</strong>：忆阻器网络渗流相变实验数据产出、CST键规模型V1实证</li>
+</ul>
+</section>
+
+<footer>
+  <p>iNEST 联合团队 · 苏州实验室先导项目 · 北京大学杨玉超教授合作</p>
+  <p>文档版本 v2.0 ｜ 2026-07-06 ｜ 联系人：刘勤让</p>
+</footer>
+</div>
+</body>
+</html>

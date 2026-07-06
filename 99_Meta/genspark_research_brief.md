@@ -44,8 +44,8 @@ target: genspark
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 4087
-Graph nodes: 4075 | edges: 3794
+Total notes: 4089
+Graph nodes: 4077 | edges: 3809
 
 Top connected topics:
 - **TCC_iNEST_成果全景** (degree=291)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-07-06 07:31*
+*Research brief auto-generated 2026-07-06 07:53*

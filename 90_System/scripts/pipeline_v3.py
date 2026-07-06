@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-iNEST+TCC Research Pipeline v3.0 �?Unified Daily Crawl �?Classify �?Graph
+iNEST+TCC Research Pipeline v3.0 閿?Unified Daily Crawl 閿?Classify 閿?Graph
 Combines daily_crawl.py + iNEST_crawler.py + build_graph.py
 Fixed: NoneType crash, GBK encoding, deduped sources, TCC/iNEST focus
 """
@@ -17,7 +17,7 @@ sys.path.insert(0, r'D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts
 from enhance_papers import is_duplicate_crossday, mark_as_seen, enrich_paper_file, extract_s2_id_from_url, enrich_with_s2_detail
 import xml.etree.ElementTree as ET
 
-# ── Config ──────────────────────────────────────────────
+# 閳光偓閳光偓 Config 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 INBOX = VAULT / "00_Inbox" / "_pipeline_insights"
 LOG_DIR = VAULT / "logs"
@@ -30,12 +30,12 @@ ctx = ssl.create_default_context()
 
 # S2 API Config
 
-# ── S2 API Config ─────────────────────────────────────
+# 閳光偓閳光偓 S2 API Config 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
 S2_DELAY = 1           # seconds between S2 queries (free tier: 1 req/s)
 S2_RETRY_DELAY = 5    # seconds to wait on HTTP 429
 S2_MAX_RETRIES = 1
 
-# ── Search Queries (TCC + iNEST) ───────────────────────
+# 閳光偓閳光偓 Search Queries (TCC + iNEST) 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
 S2_QUERIES = [
     # === TCC: Topological/Spatial Computing ===
     "network-on-chip topology small-world complex network",
@@ -45,7 +45,7 @@ S2_QUERIES = [
     "self-organized criticality neuronal avalanche information capacity",
     "edge of chaos neuromorphic computing reservoir dynamics",
     "neuromorphic memristor spiking neural network critical",
-    # === Bridge: Complex Network Theory → Computation ===
+    # === Bridge: Complex Network Theory 閳?Computation ===
     "complex network phase transition information processing emergence",
     "free energy principle self-organization neural computation",
     "integrated information causal emergence neural network",
@@ -123,7 +123,7 @@ GN_QUERIES = [
 seen_titles = set()  # dedup across sources
 new_count = 0
 
-# ── Helpers ────────────────────────────────────────────
+# 閳光偓閳光偓 Helpers 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
 def log(msg):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
 
@@ -176,10 +176,11 @@ def generate_deep_insight(title, text, detail):
         'track': 'iNEST' if len(inest_hits) > len(tcc_hits) else 'TCC'
     }
 
+def safe_filename(s):
     return re.sub(r'[<>:"/\\|?*]', "", s)[:60]
 
 def write_insight(title, abstract, url, source, track="General", year="", authors="", s2_detail=None):
-    """深度洞察提炼。只保存有意义的TCC/iNEST启示。"""
+    """濞ｅ崬瀹冲ú鐐茬檪閹绘劗鍋ч妴鍌氬涧娣囨繂鐡ㄩ張澶嬪壈娑斿娈慣CC/iNEST閸氼垳銇氶妴?""
     global new_count
     if not is_new(title):
         return False
@@ -190,7 +191,7 @@ def write_insight(title, abstract, url, source, track="General", year="", author
     s2_id = extract_s2_id_from_url(url) if source == 'S2' else None
     is_dup, reason = is_duplicate_crossday(title, s2_id)
     if is_dup:
-        log(f"  跳过(重复): {title[:50]}... [{reason}]")
+        log(f"  鐠哄疇绻?闁插秴顦?: {title[:50]}... [{reason}]")
         return False
     
     detail = s2_detail or {}
@@ -204,18 +205,18 @@ def write_insight(title, abstract, url, source, track="General", year="", author
     insight = generate_deep_insight(title, full_text, detail)
     
     if not insight or insight.get('relevance_score', 0) == 0:
-        log(f"  跳过(弱相关): {title[:50]}...")
+        log(f"  鐠哄疇绻?瀵京娴夐崗?: {title[:50]}...")
         return False
     
     tcc_block = ""
     if insight.get('tcc'):
-        tcc_block = f"## TCC 启示\n\n{insight['tcc']}\n"
+        tcc_block = f"## TCC 閸氼垳銇歕n\n{insight['tcc']}\n"
     inest_block = ""
     if insight.get('inest'):
-        inest_block = f"## iNEST 启示\n\n{insight['inest']}\n"
+        inest_block = f"## iNEST 閸氼垳銇歕n\n{insight['inest']}\n"
     actionable = ""
     if insight.get('actionable'):
-        actionable = f"## 可执行行动\n\n{insight['actionable']}\n"
+        actionable = f"## 閸欘垱澧界悰宀冾攽閸斺晿n\n{insight['actionable']}\n"
     
     citations = detail.get('citations', 0)
     refs = detail.get('refs', 0)
@@ -233,62 +234,62 @@ def write_insight(title, abstract, url, source, track="General", year="", author
     parts.append(f"authors: {authors}")
     parts.append(f"year: {detail.get('year', year)}")
     parts.append(f"url: {url}")
-    parts.append(f"tags: [洞察, {track.lower()}, 来自{source.lower()}]")
+    parts.append(f"tags: [濞茬偛鐧? {track.lower()}, 閺夈儴鍤渰source.lower()}]")
     parts.append(f"citations: {citations}")
     parts.append(f"relevance: {insight.get('relevance_score', 1)}")
-    parts.append("status: 洞察")
+    parts.append("status: 濞茬偛鐧?)
     parts.append("---")
     parts.append("")
     parts.append(f"# {title}")
     parts.append("")
-    parts.append(f"**{authors}** ({detail.get('year', year)}) | *{journal or '未知期刊'}*")
-    parts.append(f"**引用数**: {citations} | **参考文献数**: {refs}")
+    parts.append(f"**{authors}** ({detail.get('year', year)}) | *{journal or '閺堫亞鐓￠張鐔峰灁'}*")
+    parts.append(f"**瀵洜鏁ら弫?*: {citations} | **閸欏倽鈧啯鏋冮悮顔芥殶**: {refs}")
     if fields:
-        parts.append(f"**领域**: {fields}")
+        parts.append(f"**妫板棗鐓?*: {fields}")
     if doi:
         parts.append(f"**DOI**: {doi}")
-    parts.append(f"**链接**: [{url}]({url})")
+    parts.append(f"**闁剧偓甯?*: [{url}]({url})")
     parts.append("")
     if tldr:
-        parts.append(f"## 一句话总结")
+        parts.append(f"## 娑撯偓閸欍儴鐦介幀鑽ょ波")
         parts.append("")
         parts.append(tldr)
         parts.append("")
     if detail.get('abstract') or abstract:
-        parts.append(f"## 摘要")
+        parts.append(f"## 閹芥顩?)
         parts.append("")
         txt = detail.get('abstract', abstract or "")
         parts.append(txt[:1200])
         parts.append("")
     if tcc_block:
-        parts.append("## TCC 启示")
+        parts.append("## TCC 閸氼垳銇?)
         parts.append("")
         parts.append(insight['tcc'])
         parts.append("")
     if inest_block:
-        parts.append("## iNEST 启示")
+        parts.append("## iNEST 閸氼垳銇?)
         parts.append("")
         parts.append(insight['inest'])
         parts.append("")
     if actionable:
-        parts.append("## 可执行行动")
+        parts.append("## 閸欘垱澧界悰宀冾攽閸?)
         parts.append("")
         parts.append(insight['actionable'])
         parts.append("")
     parts.append("---")
-    parts.append(f"*{TODAY} 科研管线v3.1自动提炼 | 相关度: {insight.get('relevance_score', 1)}/3*")
+    parts.append(f"*{TODAY} 缁夋垹鐖虹粻锛勫殠v3.1閼奉亜濮╅幓鎰仹 | 閻╃鍙ф惔? {insight.get('relevance_score', 1)}/3*")
     
     content = "\n".join(parts)
     with open(fp, "w", encoding="utf-8") as f:
         f.write(content)
     new_count += 1
     mark_as_seen(title, s2_id=s2_id, filepath=str(fp))
-    log(f"  洞察 [{insight.get('relevance_score', '?')}/3]: {title[:50]}...")
+    log(f"  濞茬偛鐧?[{insight.get('relevance_score', '?')}/3]: {title[:50]}...")
     return True
 
 def crawl_semantic_scholar():
     """Search Semantic Scholar API for TCC/iNEST papers."""
-    log("[S2] 检索 Semantic Scholar...")
+    log("[S2] 濡偓缁?Semantic Scholar...")
     count = 0
     for query in S2_QUERIES:
         params = {
@@ -343,10 +344,10 @@ def crawl_semantic_scholar():
     log(f"[S2] {count} new papers")
     return count
 
-# ── Source 2: arXiv ────────────────────────────────────
+# 閳光偓閳光偓 Source 2: arXiv 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
 def crawl_arxiv():
-    """Search arXiv with 5s delay between queries."""
-    log("[arXiv] 检索 arXiv (交叉查询)...")
+    """Search arXiv with 5 sec delay between queries."""
+    log("[arXiv] 濡偓缁?arXiv (娴溿倕寮堕弻銉嚄)...")
     count = 0
     for label, q in ARXIV_QUERIES:
         today = datetime.now().strftime("%Y%m%d")
@@ -425,7 +426,7 @@ def crawl_google_news():
     log(f"[GN] {count} new articles")
     return count
 
-# ── 阶段2: 分类处理 Inbox (classify with LLM) ─────────
+# 閳光偓閳光偓 闂冭埖顔?: 閸掑棛琚径鍕倞 Inbox (classify with LLM) 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
 def call_deepseek(prompt, max_tokens=300, task_type="classification"):
     """Call LLM via unified router with task-aware model selection."""
     try:
@@ -472,7 +473,7 @@ Content: {content[:1500]}"""
         target = VAULT / "_archive" / "low_quality" / fp.name
         target.parent.mkdir(parents=True, exist_ok=True)
         os.rename(fp, target)
-        log(f"  �?ARCHIVE {fp.name}")
+        log(f"  閿?ARCHIVE {fp.name}")
         return
     
     # Map to directory
@@ -491,15 +492,15 @@ Content: {content[:1500]}"""
     tags_fix = tags + ["classified", track.lower()]
     tags_line = "tags: [" + ", ".join(tags_fix) + "]"
     content = re.sub(r'tags:\s*\[.*?\]', tags_line, content)
-    if summary and "## AI Summary" not in content and "## AI 摘要" not in content:
-        content += f"\n\n## AI 摘要\n\n{summary}\n"
+    if summary and "## AI Summary" not in content and "## AI 閹芥顩? not in content:
+        content += f"\n\n## AI 閹芥顩n\n{summary}\n"
     with open(fp, "w", encoding="utf-8") as f:
         f.write(content)
     
     os.rename(fp, target)
-    log(f"  �?{target.relative_to(VAULT)} [{track}]")
+    log(f"  閿?{target.relative_to(VAULT)} [{track}]")
 
-    log("[Process] LLM分类已禁用，论文在 _pipeline_insights 中。")
+    log("[Process] LLM閸掑棛琚鑼洣閻㈩煉绱濈拋鐑樻瀮閸?_pipeline_insights 娑擃厹鈧?)
     return 0
 
 
@@ -760,12 +761,12 @@ def main():
     c2 = crawl_arxiv()
     c3 = crawl_google_news()
     
-    print(f"\n  阶段1 完成: {c1+c2+c3} new items to inbox")
+    print(f"\n  闂冭埖顔? 鐎瑰本鍨? {c1+c2+c3} new items to inbox")
     
     # Stage 2: Process
     processed = process_inbox(limit=0)
     
-    # 阶段3: 知识图谱
+    # 闂冭埖顔?: 閻儴鐦戦崶鎹愭皑
     snapshot = generate_genspark_snapshot()
     nodes, edges, missing = scan_and_build_graph()
     # Stage 5: Push insights to dashboard
@@ -773,17 +774,17 @@ def main():
         import subprocess
         dash_script = str(VAULT / '90_System' / 'scripts' / 'dashboard_data_v3.py')
         subprocess.run([sys.executable, dash_script], capture_output=True, text=True, timeout=120, cwd=str(VAULT))
-        log("[Dashboard] 看板已更新")
+        log("[Dashboard] 閻婢樺鍙夋纯閺?)
     except Exception as e:
-        log(f"[Dashboard] 跳过: {e}")
+        log(f"[Dashboard] 鐠哄疇绻? {e}")
 
     
     elapsed = time.time() - start
     print(f"\n{'='*60}")
-    print(f"  管线 v3.3 完成")
-    print(f"  新增: {c1}(S2) + {c2}(arXiv) + {c3}(GN) = {c1+c2+c3}")
-    print(f"  已分类: {processed} | 图谱: {nodes}节点{edges}边 | 缺失反向链接: {missing} | Genspark快照: OK")
-    print(f"  耗时: {elapsed:.0f}秒")
+    print(f"  缁狅紕鍤?v3.3 鐎瑰本鍨?)
+    print(f"  閺傛澘顤? {c1}(S2) + {c2}(arXiv) + {c3}(GN) = {c1+c2+c3}")
+    print(f"  瀹告彃鍨庣猾? {processed} | 閸ユ崘姘? {nodes}閼哄倻鍋edges}鏉?| 缂傚搫銇戦崣宥呮倻闁剧偓甯? {missing} | Genspark韫囶偆鍙? OK")
+    print(f"  閼版妞? {elapsed:.0f}缁?)
     print(f"{'='*60}")
     
     # Log
