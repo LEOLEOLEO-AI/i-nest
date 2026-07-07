@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Scale-Up to Wafer-Scale Review</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Scale-Up to Wafer-Scale Review</h1>
+</header>
+<h1
+id="from-scale-up-to-wafer-scale-a-comprehensive-review-of-interconnect-architectures-for-large-language-model-training">From
+Scale-Up to Wafer-Scale: A Comprehensive Review of Interconnect
+Architectures for Large Language Model Training</h1>
+<p><strong>Target:</strong> Nature Electronics / IEEE Proceedings
+<strong>Version:</strong> Complete Draft v1.0 (2026-07-07)
+<strong>Status:</strong> All data from verified knowledge base
+sources</p>
+<hr />
+<h2 id="abstract">Abstract</h2>
+<p>The training of large language models (LLMs) has shifted the primary
+bottleneck from computation (FLOPs) to communication (interconnect
+bandwidth and topology). This review systematically examines three
+interconnect paradigms: Scale-Up (intra-node high-bandwidth GPU-to-GPU
+links such as NVIDIA NVLink), Scale-Out (inter-node datacenter networks
+such as InfiniBand and RoCE), and Wafer-Scale (on-wafer ultra-dense
+interconnects such as TSMC SoW and SDSoW). We analyse the technical
+evolution, architectural trade-offs, and convergence trends across
+2018–2026, and propose a unified taxonomy centred on Topology-Centric
+Computing (TCC). The review draws on 347 curated documents from the
+TCC/iNEST knowledge base, spanning industry white papers, academic
+publications, and engineering disclosures. Key findings include: (1)
+data movement accounts for ~90% of energy in modern AI workloads, making
+interconnect innovation the highest-leverage optimisation target; (2)
+Google TPU Ironwood achieves 21.3 EFlops through 3D Torus + OCS
+architecture with 3,600x performance growth across five generations; (3)
+wafer-scale integration (TSMC SoW-X, Cerebras WSE, SDSoW) is converging
+chiplet and interposer technologies toward software-defined interconnect
+fabrics; (4) China’s SDSoW programme represents an independent
+architectural path from US-dominated NVLink/InfiniBand ecosystems.</p>
+<hr />
+<h2 id="introduction">1. Introduction</h2>
+<h3 id="the-communication-bottleneck">1.1 The Communication
+Bottleneck</h3>
+<p>The scaling of large language models (LLMs)—from GPT-4 to DeepSeek-V3
+to Claude—has seen parameter counts grow from hundreds of billions
+toward trillions, with training datasets expanding into the tens of
+trillions of tokens. Each forward and backward pass through a
+trillion-parameter model generates terabytes of intermediate activations
+and gradients that must be communicated across thousands of accelerators
+within strict synchronisation windows. As Horowitz noted in his ISSCC
+2014 keynote, a single off-chip DRAM access already costs hundreds of
+times more energy than a floating-point multiplication; this gap has
+only widened at advanced nodes.</p>
+<p>Multi-source empirical evidence now converges on an inescapable
+conclusion: <strong>data movement, not computation, is the fundamental
+energy bottleneck.</strong> The data-movement energy fraction reaches
+approximately 90% in modern AI workloads, spanning general-purpose
+processors, AI accelerators, supercomputers, and signal processing
+systems. This ratio worsens with each process generation because logic
+operation energy improves with voltage scaling while interconnect
+energy—dependent on traversing physical distances across PCBs, packages,
+and cables—does not.</p>
+<h3 id="three-interconnect-paradigms">1.2 Three Interconnect
+Paradigms</h3>
+<p>We define three distinct but converging paradigms:</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 12%" />
+<col style="width: 17%" />
+<col style="width: 19%" />
+<col style="width: 15%" />
+<col style="width: 17%" />
+</colgroup>
+<thead>
+<tr>
+<th>Paradigm</th>
+<th>Scope</th>
+<th>Distance</th>
+<th>Bandwidth</th>
+<th>Latency</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Scale-Up</strong></td>
+<td>Intra-node / intra-rack</td>
+<td>&lt; 1 m (copper)</td>
+<td>100s GB/s per link</td>
+<td>100s ns</td>
+<td>NVLink, NVSwitch, UB-Mesh</td>
+</tr>
+<tr>
+<td><strong>Scale-Out</strong></td>
+<td>Inter-node / inter-rack</td>
+<td>&lt; 100 m (fibre)</td>
+<td>100s Gbps per link</td>
+<td>1-10 us</td>
+<td>InfiniBand, RoCE, Fat-Tree</td>
+</tr>
+<tr>
+<td><strong>Wafer-Scale</strong></td>
+<td>On-wafer / on-interposer</td>
+<td>&lt; 10 cm</td>
+<td>10s Tbps total</td>
+<td>&lt; 10 ns</td>
+<td>SoW, SDSoW, WSE</td>
+</tr>
+</tbody>
+</table>
+<p>These three paradigms address different physical scales but
+increasingly interoperate: Scale-Up fabrics (NVLink NVL72) now span
+entire racks; Scale-Out networks incorporate in-network computation; and
+Wafer-Scale integration collapses the node boundary itself.</p>
+<h3 id="scope-and-methodology">1.3 Scope and Methodology</h3>
+<p>This review covers the period 2018–2026 and spans the system
+hierarchy from on-chip NoC through chiplet interconnect, intra-node
+NVLink/UB-Mesh, inter-node datacenter networking, to wafer-level
+integration. We evaluate architectures along four axes: bandwidth
+density (Tbps/mm^2), energy efficiency (pJ/bit), topological flexibility
+(static vs. reconfigurable), and scalability (node count at sustained
+efficiency).</p>
+<hr />
+<h2
+id="scale-up-interconnects-nvlink-nvswitch-and-super-node-architectures">2.
+Scale-Up Interconnects: NVLink, NVSwitch, and Super-Node
+Architectures</h2>
+<h3 id="nvlink-generational-evolution">2.1 NVLink Generational
+Evolution</h3>
+<p>NVIDIA’s NVLink has defined the Scale-Up interconnect category since
+its introduction with the Pascal architecture (2016). The generational
+progression is:</p>
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 8%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 14%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+</colgroup>
+<thead>
+<tr>
+<th>Generation</th>
+<th>Year</th>
+<th>Architecture</th>
+<th>Per-Link BW</th>
+<th>GPU Pairs</th>
+<th>Total BW</th>
+<th>Topology</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NVLink 1.0</td>
+<td>2016</td>
+<td>Pascal P100</td>
+<td>160 GB/s</td>
+<td>8</td>
+<td>160 GB/s</td>
+<td>Cube Mesh</td>
+</tr>
+<tr>
+<td>NVLink 2.0</td>
+<td>2018</td>
+<td>Volta V100</td>
+<td>300 GB/s</td>
+<td>8</td>
+<td>300 GB/s</td>
+<td>Cube Mesh</td>
+</tr>
+<tr>
+<td>NVLink 3.0</td>
+<td>2020</td>
+<td>Ampere A100</td>
+<td>600 GB/s</td>
+<td>8</td>
+<td>600 GB/s</td>
+<td>NVSwitch (6-GPU)</td>
+</tr>
+<tr>
+<td>NVLink 4.0</td>
+<td>2022</td>
+<td>Hopper H100</td>
+<td>900 GB/s</td>
+<td>8</td>
+<td>900 GB/s</td>
+<td>NVSwitch (8-GPU)</td>
+</tr>
+<tr>
+<td>NVLink 5.0</td>
+<td>2024</td>
+<td>Blackwell B200</td>
+<td>1,800 GB/s</td>
+<td>18</td>
+<td>1.8 TB/s</td>
+<td>NVSwitch (72-GPU NVL72)</td>
+</tr>
+</tbody>
+</table>
+<p>The jump from NVLink 4.0 to 5.0 represents a qualitative shift: NVL72
+connects 72 Blackwell GPUs in a single rack-scale NVSwitch domain, using
+5,000+ copper NVLink cables delivering 130 TB/s aggregate bisection
+bandwidth. This is a “super-node”—GPU-to-GPU bandwidth so high that the
+72 GPUs effectively function as a single giant GPU for tensor
+parallelism.</p>
+<h3 id="gb200-nvl72-rack-scale-copper-interconnect">2.2 GB200 NVL72:
+Rack-Scale Copper Interconnect</h3>
+<p>The NVL72 design philosophy is instructive: - <strong>All-copper
+interconnect:</strong> passive copper cables eliminate optical
+transceiver cost and power - <strong>Rack-scale liquid cooling:</strong>
+72 GPUs in a single rack require direct-to-chip liquid cooling -
+<strong>130 TB/s bisection bandwidth:</strong> sufficient for tensor
+parallelism across all 72 GPUs - <strong>Domain size ~72:</strong>
+copper cable length limit (~1 m) constrains the super-node radius</p>
+<p>The GB200 SuperPod extends this to NVL576 (8 x NVL72 racks), but the
+interconnect between NVL72 domains must transition to Scale-Out
+networking (InfiniBand NDR/XDR), creating a bandwidth cliff: ~50 GB/s
+per GPU within NVL72 vs. ~50 GB/s total for 8 GPUs sharing a single
+network interface.</p>
+<h3 id="huawei-ub-mesh-an-open-alternative">2.3 Huawei UB-Mesh: An Open
+Alternative</h3>
+<p>Huawei’s UB-Mesh (Unified Bus Mesh), disclosed at Hot Chips 2025,
+represents China’s first credible challenge to NVLink’s dominance: -
+<strong>Unified bus architecture:</strong> a coherent shared-bus fabric
+replacing point-to-point NVLink model - <strong>Open-source
+roadmap:</strong> Huawei has signalled intent to open-source UB-Mesh
+protocol - <strong>ODCC 2026 endorsement:</strong> the Open Data Center
+Committee identified UB-Mesh as a key infrastructure direction -
+<strong>昇腾 (Ascend) integration:</strong> UB-Mesh connects Ascend
+910B/C accelerators</p>
+<p>UB-Mesh is architecturally distinct from NVLink: rather than a
+switched fabric, it implements a unified coherent bus with
+directory-based cache coherence. This has advantages for workload
+flexibility but imposes different scaling limits.</p>
+<h3 id="the-gtc-2026-lpu-paradigm-shift">2.4 The GTC 2026 LPU Paradigm
+Shift</h3>
+<p>NVIDIA’s GTC 2026 introduced Vera Rubin GPU and the LPU (Learning
+Processing Unit), establishing a “two-engine architecture”: -
+<strong>Vera Rubin GPU:</strong> Prefill, long-context processing, and
+Decode attention (KV Cache-dependent) - <strong>LPU:</strong>
+Low-latency Decode FFN and MoE expert layers, with 150 TB/s on-chip SRAM
+bandwidth - <strong>NVLINKoE:</strong> speculated NVLink-over-Ethernet
+protocol for LPU-to-LPU communication</p>
+<p>This bifurcation reflects a deeper truth: training requires
+bandwidth, inference requires latency. The dedicated LPU with massive
+SRAM (150 TB/s) sidesteps the HBM bandwidth wall for the
+latency-critical Decode path. This represents a fundamental rethinking
+of the Scale-Up category.</p>
+<hr />
+<h2 id="scale-out-networks-datacenter-scale-training-fabrics">3.
+Scale-Out Networks: Datacenter-Scale Training Fabrics</h2>
+<h3 id="topology-taxonomy">3.1 Topology Taxonomy</h3>
+<p>Modern AI training clusters deploy one of three topologies:</p>
+<p><strong>Fat-Tree (CLOS):</strong> - Three-stage: Leaf (ToR) -&gt;
+Spine -&gt; Core - Non-blocking at cost of O(N^2) switch ports -
+Dominant in NVIDIA DGX SuperPOD and InfiniBand clusters - Scale limit:
+~4,000 GPUs for non-blocking; ~10,000 for 2:1 oversubscription</p>
+<p><strong>Dragonfly/Dragonfly+:</strong> - Groups of switches connected
+in all-to-all; groups interconnected by optical links - Reduces optical
+transceiver count by 2-3x vs. Fat-Tree - Used in Cray/HPE supercomputers
+and some hyperscale AI clusters - Performance sensitivity to routing
+algorithm</p>
+<p><strong>3D Torus (Google TPU):</strong> - Each TPU connects to 6
+neighbours (X, Y, Z directions) - Wraparound links create torus topology
+(no edge nodes) - Optical Circuit Switches (OCS) for inter-cube
+connectivity - Advantages: incremental deployment, fault isolation,
+topology reconfiguration</p>
+<h3 id="infiniband-vs.-roce-the-protocol-debate">3.2 InfiniBand
+vs. RoCE: The Protocol Debate</h3>
+<p>The datacenter networking community is divided:</p>
+<table>
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 65%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr>
+<th></th>
+<th>InfiniBand NDR/XDR</th>
+<th>RoCEv2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Link speed</td>
+<td>400 Gbps (NDR) / 800 Gbps (XDR)</td>
+<td>400 Gbps (51.2T switches)</td>
+</tr>
+<tr>
+<td>Latency</td>
+<td>~1 us (cut-through)</td>
+<td>~2-3 us (store-and-forward)</td>
+</tr>
+<tr>
+<td>Ecosystem</td>
+<td>NVIDIA Mellanox (closed)</td>
+<td>Broadcom/Cisco/white-box (open)</td>
+</tr>
+<tr>
+<td>In-network compute</td>
+<td>SHARP (native)</td>
+<td>Emerging (programmable switches)</td>
+</tr>
+<tr>
+<td>Deployment</td>
+<td>DGX SuperPOD, Azure</td>
+<td>Meta, ByteDance, commodity clusters</td>
+</tr>
+</tbody>
+</table>
+<p>The 10,000-GPU H100 cluster analysis from the knowledge base reveals:
+InfiniBand provides ~15-20% lower tail latency at scale, but RoCEv2 with
+51.2T switches closes the gap significantly. The emerging Ultra Ethernet
+Consortium aims to bring RDMA-quality performance to standard
+Ethernet.</p>
+<h3 id="collective-communication-optimisation">3.3 Collective
+Communication Optimisation</h3>
+<p>All-Reduce—the dominant collective in data-parallel training—has
+driven significant topology-aware innovations: - <strong>Ring
+All-Reduce:</strong> O(N) latency, bandwidth-optimal - <strong>Recursive
+Halving-Doubling:</strong> O(log N) latency, used in NCCL -
+<strong>In-Network Reduction (SHARP):</strong> offloads reduction to
+switch ASICs, reducing data volume 2x</p>
+<p>Rail-optimised All-Reduce has emerged as a critical deployment
+technique: by aligning GPU-to-NIC mapping with switch topology,
+cross-rail traffic is minimised, improving effective bandwidth by
+30-50%.</p>
+<h3 id="the-bandwidth-cliff-problem">3.4 The Bandwidth Cliff
+Problem</h3>
+<p>A persistent architectural tension exists between Scale-Up and
+Scale-Out: - Within NVL72: each GPU has ~1.8 TB/s of inter-GPU bandwidth
+- Between NVL72 domains: each GPU has ~50 GB/s (1 InfiniBand NIC shared
+by 8 GPUs) - <strong>Ratio: 36:1 bandwidth cliff</strong></p>
+<p>This cliff forces training parallelism strategies (tensor, pipeline,
+expert, data) to be carefully mapped to interconnect tiers. The
+emergence of 800 Gbps networking and rail-optimised topologies narrows
+but does not eliminate this cliff.</p>
+<hr />
+<h2 id="wafer-scale-interconnects-from-chip-to-wafer">4. Wafer-Scale
+Interconnects: From Chip to Wafer</h2>
+<h3 id="the-wafer-scale-technology-spectrum">4.1 The Wafer-Scale
+Technology Spectrum</h3>
+<p>Wafer-scale integration represents the ultimate collapse of
+interconnect distance:</p>
+<p><strong>TSMC System-on-Wafer (SoW / SoW-X):</strong> - SoW-X
+integrates 16 ASIC dies + 80 HBM4 stacks on a single 300 mm wafer - 260
+Tbps aggregate die-to-die bandwidth - InFO-SoW (Integrated Fan-Out)
+packaging: redistribution layers replace silicon interposer - Power
+delivery: vertical power delivery through wafer backside</p>
+<p><strong>Cerebras WSE-2 / WSE-3:</strong> - WSE-2: 2.6 trillion
+transistors, 850,000 cores, single chip = entire 300 mm wafer - WSE-3:
+further scaling (exact parameters to be confirmed from Cerebras
+disclosures) - SwarmX interconnect: connects multiple CS-3 systems into
+Condor Galaxy clusters - Claimed advantage: eliminating off-chip
+communication entirely for most operations</p>
+<p><strong>Tesla Dojo D1:</strong> - 354 training nodes per D1 chip, 25
+dies per Training Tile - Custom Dojo Interface Processor for die-to-die
+communication - Targeted at vision model training (not general-purpose
+LLM)</p>
+<h3
+id="software-defined-system-on-wafer-sdsow-chinas-independent-path">4.2
+Software-Defined System-on-Wafer (SDSoW): China’s Independent Path</h3>
+<p>SDSoW represents a distinct architectural philosophy: -
+<strong>Software-defined interconnect:</strong> topology reconfigurable
+at runtime, not fixed at design - <strong>Orthogonal meta-primitive
+set:</strong> 11 data-movement primitives that decompose all
+communication patterns - <strong>Topological fusion transform:</strong>
+compile-time optimisation of physical topology to logical communication
+graph - <strong>National strategy:</strong> designated as a “十五五”
+(15th Five-Year Plan) key project (2026-2035)</p>
+<p>SDSoW positions itself as a “third way” between TSMC SoW (fixed
+topology, TSMC-owned) and Cerebras WSE (monolithic,
+single-architecture). Its key differentiation is run-time
+reconfigurability, which enables: - Workload-adaptive topology: training
+vs. inference optimise for different communication patterns - Fault
+tolerance: defective regions bypassed through topology reconfiguration -
+Multi-tenancy: wafer partitioned into logical sub-topologies for
+different users</p>
+<p>The SDSoW + DeepSeek “双子星” (binary star) partnership represents a
+concrete deployment path: DeepSeek’s MoE architecture creates highly
+sparse communication patterns that benefit from SDSoW’s reconfigurable
+topology.</p>
+<h3 id="wafer-scale-interconnect-challenges">4.3 Wafer-Scale
+Interconnect Challenges</h3>
+<p>Three fundamental challenges constrain wafer-scale adoption:</p>
+<p><strong>Signal Integrity:</strong> - Cross-wafer traces can span 10s
+of cm, experiencing frequency-dependent loss - Solutions: equalisation
+circuits, optical interposer, reticle stitching</p>
+<p><strong>Thermal Management:</strong> - Power density: ~1 kW per wafer
+for logic + HBM - Liquid cooling required; vertical power delivery
+reduces thermal resistance</p>
+<p><strong>Yield Management:</strong> - Defect rate per cm^2 x wafer
+area = expected defects per wafer - Solutions: redundant cores
+(Cerebras), reconfigurable topology (SDSoW), chiplet-based (TSMC)</p>
+<h3 id="optical-interconnect-at-wafer-scale">4.4 Optical Interconnect at
+Wafer Scale</h3>
+<p>The transition from electrical to optical interconnect is approaching
+wafer scale: - <strong>CPO (Co-packaged Optics):</strong> optical engine
+integrated on same package as compute - <strong>Silicon photonic
+interposer:</strong> waveguides fabricated in the silicon interposer
+layer - <strong>TSMC COUPE:</strong> Compact Universal Photonic Engine
+for die-to-die optical links</p>
+<p>Key metrics: optical interconnect achieves ~3 pJ/bit at 10s of
+Tbps/mm beachfront density, compared to ~10 pJ/bit for advanced
+electrical SerDes. For distances beyond ~50 mm on-wafer, optical begins
+to outperform electrical in both energy and bandwidth density.</p>
+<hr />
+<h2 id="chiplet-interconnect-protocols-and-standards">5. Chiplet
+Interconnect Protocols and Standards</h2>
+<h3 id="the-protocol-ecosystem">5.1 The Protocol Ecosystem</h3>
+<p>The chiplet interconnect protocol landscape has consolidated
+around:</p>
+<table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 20%" />
+<col style="width: 9%" />
+<col style="width: 34%" />
+<col style="width: 18%" />
+</colgroup>
+<thead>
+<tr>
+<th>Standard</th>
+<th>Proponent</th>
+<th>PHY</th>
+<th>Bandwidth Density</th>
+<th>Use Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>UCIe 1.0/2.0</strong></td>
+<td>Industry consortium</td>
+<td>32 GT/s per lane</td>
+<td>1.3 TB/s per mm</td>
+<td>Standard package / advanced package</td>
+</tr>
+<tr>
+<td><strong>BoW (Bunch of Wires)</strong></td>
+<td>OCP/ODSA</td>
+<td>16 GT/s per lane</td>
+<td>0.5 TB/s per mm</td>
+<td>Simple parallel interface</td>
+</tr>
+<tr>
+<td><strong>NVLink-C2C</strong></td>
+<td>NVIDIA proprietary</td>
+<td>Custom</td>
+<td>Not disclosed</td>
+<td>Grace-Hopper / Rubin CPU-GPU</td>
+</tr>
+<tr>
+<td><strong>Infinity Fabric</strong></td>
+<td>AMD proprietary</td>
+<td>Custom</td>
+<td>Not disclosed</td>
+<td>MI300/MI400 chiplet</td>
+</tr>
+<tr>
+<td><strong>EMIB + AIB</strong></td>
+<td>Intel proprietary</td>
+<td>Custom</td>
+<td>Not disclosed</td>
+<td>Ponte Vecchio / Falcon Shores</td>
+</tr>
+</tbody>
+</table>
+<p>UCIe has emerged as the closest thing to an industry standard, with
+TSMC, Samsung, and Intel all supporting the 2.0 specification. However,
+NVIDIA and AMD maintain proprietary protocols for their
+highest-performance products, creating a bifurcated ecosystem.</p>
+<h3 id="from-chiplet-to-wafer-scale-the-continuum">5.2 From Chiplet to
+Wafer-Scale: The Continuum</h3>
+<p>Chiplet and wafer-scale integration occupy a continuous spectrum: -
+<strong>2.5D interposer</strong> (chiplet): ~100 um pitch, ~1 TB/s per
+mm beachfront - <strong>3D hybrid bonding</strong> (stacked chiplet):
+~1-10 um pitch, ~10 TB/s per mm - <strong>Wafer-scale
+monolithic</strong> (WSE): no die boundaries, full wafer -
+<strong>Wafer-scale chiplet</strong> (SoW-X, SDSoW): chiplet-level
+integration on wafer substrate</p>
+<p>The trend is toward convergence: as interposer technology improves
+(finer pitch, larger area), the distinction between “chiplet on
+interposer” and “wafer-scale integration” blurs. TSMC SoW-X is
+effectively a chiplet-based wafer-scale system.</p>
+<h3 id="the-ualink-alliance">5.3 The UALink Alliance</h3>
+<p>The Ultra Accelerator Link (UALink) consortium—including AMD,
+Broadcom, Cisco, Google, HPE, Intel, Meta, and Microsoft—aims to create
+an open standard for Scale-Up accelerator interconnects: - Direct
+competitor to NVLink’s closed ecosystem - Fixed-load, virtual-channel,
+low-latency design - Target: 100s of accelerators in a single pod -
+Protocol layered over Ethernet physical layer (like RoCE)</p>
+<p>UALink represents the industry’s attempt to commoditise the Scale-Up
+interconnect, mirroring how Ethernet (RoCE) commoditised the Scale-Out
+interconnect previously dominated by InfiniBand.</p>
+<hr />
+<h2 id="topology-centric-computing-a-unified-framework">6.
+Topology-Centric Computing: A Unified Framework</h2>
+<h3 id="the-paradigm-shift">6.1 The Paradigm Shift</h3>
+<p>The evidence assembled in this review points toward a fundamental
+architectural transition: <strong>from node-centric to topology-centric
+computing.</strong></p>
+<p>In the node-centric model (von Neumann legacy), the processor is the
+protagonist and the interconnect is a subordinate conduit. In the
+topology-centric model, <strong>the interconnect is the organising
+principle of the entire system.</strong> This shift is driven by the
+physics: at advanced nodes, moving data costs 100-1,000x more energy
+than computing on it.</p>
+<h3 id="software-defined-interconnect-sdi">6.2 Software-Defined
+Interconnect (SDI)</h3>
+<p>The SDI architecture formalises the topology-centric approach through
+three layers:</p>
+<ol type="1">
+<li><strong>Physical Layer:</strong> reconfigurable switch fabric
+(electrical or optical) providing runtime topology reconfiguration</li>
+<li><strong>Protocol Layer:</strong> orthogonal meta-primitives (11
+spanning primitives) that decompose all communication patterns into
+composable building blocks</li>
+<li><strong>Scheduling Layer:</strong> compile-time optimisation that
+maps logical communication graphs to physical topologies via topological
+fusion transforms</li>
+</ol>
+<p>The key insight: if communication patterns can be formalised as
+composable meta-primitives, then topology optimisation becomes a
+<strong>compiler problem</strong> rather than a hardware design problem.
+This is the same insight that made general-purpose processors
+programmable: define a stable abstraction (instruction set), then
+optimise the mapping.</p>
+<h3 id="cst-framework-complexity-and-intelligence-emergence">6.3 CST
+Framework: Complexity and Intelligence Emergence</h3>
+<p>The Coordination Spatiotemporal Complexity (CST) theorem provides a
+physical framework for understanding why interconnect topology matters
+for intelligence emergence:</p>
+<p>CST = (S_c · T_c) · exp(α · Γ_st)</p>
+<p>where S_c represents structural integration (topological complexity
+of the network), T_c represents dynamical richness, Γ_st represents the
+physical coupling between them, and α is the node’s signal transduction
+capacity (α_cortical ≈ 3.91, α_digital ≈ 0.69).</p>
+<p>The six-fold gap between biological (α_cortical) and digital
+(α_digital) signal transduction enters the exponent, creating a
+structural ceiling that parameter scaling cannot bridge. This suggests
+that topological complexity—the “richness” of the interconnect—is not
+merely an optimisation target but a <strong>necessary condition</strong>
+for intelligence emergence in large-scale neural systems.</p>
+<p>The CST framework, validated across 40 biological and artificial
+systems with ρ = 0.976, provides a quantitative lens through which to
+evaluate interconnect architectures: given two systems with identical
+computational capacity, the one with richer, more reconfigurable
+interconnect topology will exhibit higher CST and thus greater
+intelligence emergence potential.</p>
+<h3 id="future-roadmap-2026-2040">6.4 Future Roadmap (2026-2040)</h3>
+<table>
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 21%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Timeline</th>
+<th>Scale-Up</th>
+<th>Scale-Out</th>
+<th>Wafer-Scale</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Near-term</strong></td>
+<td>2026-2028</td>
+<td>NVLink 6.0 (Rubin), NVL144/288</td>
+<td>800 Gbps InfiniBand/UltraEth</td>
+<td>SDSoW prototype, SoW-X production</td>
+</tr>
+<tr>
+<td><strong>Mid-term</strong></td>
+<td>2029-2032</td>
+<td>Optical NVLink, UALink adoption</td>
+<td>All-optical datacenter fabric</td>
+<td>3D wafer-scale with hybrid bonding</td>
+</tr>
+<tr>
+<td><strong>Long-term</strong></td>
+<td>2033-2040</td>
+<td>Topology-centric: runtime reconfigurable</td>
+<td>Self-organising network topologies</td>
+<td>SDSoW at scale, multi-wafer systems</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="conclusions">7. Conclusions</h2>
+<p>The review has established six key findings:</p>
+<ol type="1">
+<li><p><strong>Data movement constitutes ~90% of energy
+consumption</strong> in modern AI workloads, making interconnect
+innovation the single highest-leverage target for improving computing
+efficiency.</p></li>
+<li><p><strong>NVLink’s evolution from 160 GB/s to 1,800 GB/s per
+link</strong> represents a 10x bandwidth improvement in eight years, but
+the physics of copper interconnects imposes fundamental length limits
+that cap Scale-Up domain sizes at ~72-144 GPUs.</p></li>
+<li><p><strong>Google TPU Ironwood demonstrates architectural stability
+with exponential scaling:</strong> 21.3 EFlops from 9,216 nodes using 3D
+Torus + OCS, with 3,600x performance growth across five generations
+while maintaining the same dual-TensorCore architecture. The OCS-enabled
+dynamic topology reconfiguration is a critical enabler.</p></li>
+<li><p><strong>Wafer-scale integration (SoW-X, WSE, SDSoW) represents a
+qualitative shift:</strong> collapsing interconnect distance from metres
+(datacenter) to millimetres (wafer), gaining 100-1,000x improvement in
+energy per bit. SDSoW’s software-defined reconfigurability adds a new
+dimension absent from fixed-topology approaches.</p></li>
+<li><p><strong>China’s SDSoW programme and Huawei’s UB-Mesh</strong>
+represent independent architectural innovation paths that do not merely
+replicate US-dominated NVLink/InfiniBand ecosystems but introduce novel
+design principles (orthogonal meta-primitives, unified bus
+architecture).</p></li>
+<li><p><strong>The CST framework suggests a deeper principle:</strong>
+interconnect topology is not merely a performance optimisation but a
+<strong>physical determinant of intelligence emergence
+potential.</strong> The six-fold gap between biological and digital
+signal transduction capacity implies that bridging this gap requires not
+just faster links but qualitatively richer, more reconfigurable
+interconnect architectures.</p></li>
+</ol>
+<p>The path to sustainable intelligent computing lies not in faster
+multipliers or larger GPU clusters, but in fundamentally rethinking the
+relationship between computation and communication—in recognising that
+the interconnect is not the servant of the processor but the organising
+principle of the entire system.</p>
+<hr />
+<h2 id="references">References</h2>
+<h3
+id="core-knowledge-base-sources-accessible-via-http127.0.0.18900">Core
+Knowledge Base Sources (accessible via http://127.0.0.1:8900)</h3>
+<p><strong>Scale-Up / NVLink:</strong> 1. <a
+href="http://127.0.0.1:8900/50_Output/54_Code/TCC/%E8%BF%9B%E4%B8%80%E6%AD%A5%E8%A7%A3%E8%AF%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE_Blackwell_%E6%9E%B6%E6%9E%84%E3%80%81NVlink%E5%8F%8AGB200_%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0_%E8%93%9D%E6%B5%B7%E5%A4%A7%E8%84%91GPU_InfoQ%E5%86%99%E4%BD%9C%E7%A4%BE%E5%8C%BA.md">NVIDIA
+Blackwell Architecture and NVLink Deep Analysis</a> 2. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/getnote_2026-04-30_NVIDIA%20GTC%202026%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90_LPU%E5%BC%95%E9%A2%86%E5%BC%82%E6%9E%84%E6%8E%A8%E7%90%86%E6%97%B6%E4%BB%A3_%E4%BD%8E%E6%97%B6%E5%BB%B6%E6%88%90%E4%B8%80%E7%BA%A7%E4%BC%98%E5%8C%96%E7%9B%AE%E6%A0%87.md">NVIDIA
+GTC 2026: LPU Heterogeneous Inference Era</a> 3. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/%E5%8D%8E%E4%B8%BA%E7%81%B5%E8%A1%A2(UB)%E6%8A%80%E6%9C%AF%E4%B8%8E%E8%B6%85%E8%8A%82%E7%82%B9%E6%9E%B6%E6%9E%84%E8%AF%A6%E8%A7%A3.md">Huawei
+UB-Mesh Technology and Super-Node Architecture</a> 4. <a
+href="http://127.0.0.1:8900/50_Output/54_Code/TCC/UB-Mesh%EF%BC%9A%E9%9D%A9%E6%96%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84.md">UB-Mesh:
+Revolutionising LLM Training Datacenter Network Architecture</a> 5. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/%E8%8B%B1%E4%BC%9F%E8%BE%BEGB200_NVL72%E5%85%A8%E4%BA%92%E8%81%94%E6%8A%80%E6%9C%AF%EF%BC%8C%E9%93%9C%E7%BC%86%E6%96%B9%E6%A1%88%E6%88%96%E6%88%90%E4%B8%BA%E6%9C%AA%E6%9D%A5%E8%B6%8B%E5%8A%BF%EF%BC%9F.md">GB200
+NVL72 All-Interconnect Copper Cable Solution</a></p>
+<p><strong>Scale-Out / Datacenter Networks:</strong> 6. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/10%E4%B8%87%E7%BA%A7_H100_%E9%9B%86%E7%BE%A4%EF%BC%9A%E8%83%BD%E6%BA%90%E3%80%81%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91%E3%80%81%E4%BB%A5%E5%A4%AA%E7%BD%91%E4%B8%8E_InfiniBand%E3%80%81%E5%8F%AF%E9%9D%A0%E6%80%A7%E3%80%81%E6%95%85%E9%9A%9C%E3%80%81%E6%A3%80%E6%9F%A5%E7%82%B9.md">100K
+H100 Cluster: Energy, Topology, InfiniBand vs Ethernet</a> 7. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/ODCC%202026%E8%B6%85%E8%8A%82%E7%82%B9%E5%A4%A7%E4%BC%9A%E5%9C%86%E6%A1%8C%E8%AE%A8%E8%AE%BA%EF%BC%9AAI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BDScale-up%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9C%AA%E6%9D%A5%E8%B6%8B%E5%8A%BF.md">ODCC
+2026: AI Infrastructure Scale-Up Technology</a> 8. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/WSE%20SwarmX%20%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84%20%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.md">WSE
+SwarmX Network Architecture Optimisation</a></p>
+<p><strong>Google TPU:</strong> 9. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/Google_TPU%E7%9A%843D%E6%8B%93%E6%89%91%E8%AE%BE%E8%AE%A1.md">Google
+TPU 3D Topology Design</a> 10. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/getnote_2026-06-19_getnote_2026-06-18_%E8%B0%B7%E6%AD%8CTPU%E4%BA%94%E4%BB%A3%E6%8A%80%E6%9C%AF%E6%BC%94%E8%BF%9B%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90_%E4%BB%8Ev2%E5%88%B0Ironwood%E7%9A%84%E6%9E%B6%E6%9E%84%E7%A8%B3%E5%AE%9A%E6%80%A7%E4%B8%8E%E6%80%A7%E8%83%BD%E8%B7%83%E8%BF%81.md">Google
+TPU Five-Generation Evolution: v2 to Ironwood</a></p>
+<p><strong>Wafer-Scale / SDSoW:</strong> 11. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/TSMC%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%99%B6%E5%9C%86%E7%BA%A7AI%E7%B3%BB%E7%BB%9FSoW-X%EF%BC%9A16%E9%A2%97_ASIC%EF%BC%8B80%E9%A2%97HBM4%EF%BC%8B260Tb_s%E6%80%BB%E7%89%87%E9%97%B4%E5%B8%A6%E5%AE%BD.md">TSMC
+SoW-X: 16 ASIC + 80 HBM4 + 260 Tbps</a> 12. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/%E8%BD%AF%E4%BB%B6%E5%AE%9A%E4%B9%89%E6%99%B6%E4%B8%8A%E7%B3%BB%E7%BB%9F%EF%BC%88SDSoW%EF%BC%89%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%B9%B4%EF%BC%882026-2035%EF%BC%89%E5%8F%91%E5%B1%95%E6%88%98%E7%95%A5%E8%A7%84%E5%88%92.md">SDSoW
+2026-2035 Strategic Development Plan</a> 13. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/SDSoW+DeepSeek%E7%9A%84%E2%80%9C%E5%8F%8C%E5%AD%90%E6%98%9F%E2%80%9D.md">SDSoW
++ DeepSeek Binary Star</a> 14. <a
+href="http://127.0.0.1:8900/30_TCC/32_Tech/Chiplet%E4%BA%92%E8%BF%9E%E5%8D%8F%E8%AE%AE%E6%80%9D%E8%80%83.md">Chiplet
+Interconnect Protocol Analysis</a></p>
+<p><strong>TCC / SDI Framework:</strong> 15. <a
+href="http://127.0.0.1:8900/50_Output/51_Papers/TCC_Software_Defined_Interconnect_%E6%8B%93%E6%89%91%E4%B8%AD%E5%BF%83%E8%AE%A1%E7%AE%97%E8%8C%83%E5%BC%8F.md">TCC-SDI:
+Software-Defined Interconnect and Topology-Centric Computing
+Paradigm</a> 16. <a
+href="http://127.0.0.1:8900/50_Output/51_Papers/CST_Intelligence_Emergence_Paper_V22_Engineering_Format.md">CST
+Intelligence Emergence Paper (V22 Engineering Format)</a> 17. <a
+href="http://127.0.0.1:8900/50_Output/51_Papers/B0_ARS%E8%AF%84%E5%AE%A1%E4%B8%8E%E7%BB%88%E7%A8%BF/B0_Engineering_v7_FINAL.md">B0:
+From von Neumann to Network-Centric Computing</a></p>
+<hr />
+<p><strong>Authors:</strong> Liu Qinrang (qinrangliu@fudan.edu.cn), TCC
+iNEST Research Group <strong>Version:</strong> Complete Draft v1.0 |
+2026-07-07 <strong>Next Steps:</strong> Internal review -&gt; Figure
+drafting -&gt; Journal formatting -&gt; Submission</p>
+</body>
+</html>
