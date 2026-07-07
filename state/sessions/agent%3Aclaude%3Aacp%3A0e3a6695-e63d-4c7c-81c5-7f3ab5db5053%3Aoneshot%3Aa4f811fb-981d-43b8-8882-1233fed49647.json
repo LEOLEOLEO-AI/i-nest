@@ -1,0 +1,126 @@
+{
+  "schema": "acpx.session.v1",
+  "acpx_record_id": "agent:claude:acp:0e3a6695-e63d-4c7c-81c5-7f3ab5db5053:oneshot:a4f811fb-981d-43b8-8882-1233fed49647",
+  "acp_session_id": "cf12e83a-4914-4672-b675-59a9232c5e10",
+  "agent_command": "env ANTHROPIC_AUTH_TOKEN= npx -y @zed-industries/claude-agent-acp",
+  "cwd": "/home/work/.openclaw/workspace/claude",
+  "name": "agent:claude:acp:0e3a6695-e63d-4c7c-81c5-7f3ab5db5053",
+  "created_at": "2026-06-23T11:31:28.538Z",
+  "last_used_at": "2026-06-23T11:31:28.538Z",
+  "last_seq": 0,
+  "event_log": {
+    "active_path": "/home/work/.acpx/sessions/agent%3Aclaude%3Aacp%3A0e3a6695-e63d-4c7c-81c5-7f3ab5db5053%3Aoneshot%3Aa4f811fb-981d-43b8-8882-1233fed49647.stream.ndjson",
+    "segment_count": 5,
+    "max_segment_bytes": 67108864,
+    "max_segments": 5,
+    "last_write_error": null
+  },
+  "closed": true,
+  "closed_at": "2026-06-23T11:31:28.975Z",
+  "pid": 615653,
+  "agent_started_at": "2026-06-23T11:31:26.285Z",
+  "protocol_version": 1,
+  "agent_capabilities": {
+    "_meta": {
+      "claudeCode": {
+        "promptQueueing": true
+      }
+    },
+    "promptCapabilities": {
+      "image": true,
+      "embeddedContext": true
+    },
+    "mcpCapabilities": {
+      "http": true,
+      "sse": true
+    },
+    "loadSession": true,
+    "sessionCapabilities": {
+      "fork": {},
+      "list": {},
+      "resume": {},
+      "close": {}
+    }
+  },
+  "title": null,
+  "messages": [],
+  "updated_at": "2026-06-23T11:31:28.538Z",
+  "cumulative_token_usage": {},
+  "request_token_usage": {},
+  "acpx": {
+    "current_model_id": "default",
+    "available_models": [
+      "default",
+      "sonnet[1m]",
+      "opus[1m]",
+      "haiku"
+    ],
+    "config_options": [
+      {
+        "id": "mode",
+        "name": "Mode",
+        "description": "Session permission mode",
+        "category": "mode",
+        "type": "select",
+        "currentValue": "default",
+        "options": [
+          {
+            "value": "default",
+            "name": "Default",
+            "description": "Standard behavior, prompts for dangerous operations"
+          },
+          {
+            "value": "acceptEdits",
+            "name": "Accept Edits",
+            "description": "Auto-accept file edit operations"
+          },
+          {
+            "value": "plan",
+            "name": "Plan Mode",
+            "description": "Planning mode, no actual tool execution"
+          },
+          {
+            "value": "dontAsk",
+            "name": "Don't Ask",
+            "description": "Don't prompt for permissions, deny if not pre-approved"
+          },
+          {
+            "value": "bypassPermissions",
+            "name": "Bypass Permissions",
+            "description": "Bypass all permission checks"
+          }
+        ]
+      },
+      {
+        "id": "model",
+        "name": "Model",
+        "description": "AI model to use",
+        "category": "model",
+        "type": "select",
+        "currentValue": "default",
+        "options": [
+          {
+            "value": "default",
+            "name": "Default (recommended)",
+            "description": "Use the default model (currently Sonnet 4.6) · $3/$15 per Mtok"
+          },
+          {
+            "value": "sonnet[1m]",
+            "name": "Sonnet (1M context)",
+            "description": "Sonnet 4.6 for long sessions · $3/$15 per Mtok"
+          },
+          {
+            "value": "opus[1m]",
+            "name": "Opus (1M context)",
+            "description": "Opus 4.6 with 1M context · Most capable for complex work"
+          },
+          {
+            "value": "haiku",
+            "name": "Haiku",
+            "description": "Haiku 4.5 · Fastest for quick answers · $1/$5 per Mtok"
+          }
+        ]
+      }
+    ]
+  }
+}
