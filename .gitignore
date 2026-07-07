@@ -74,4 +74,27 @@ _archive/**/*.pdf
 
 
 # Ignore Smart Environment folder
-.smart-env
+.smart-env# Python virtualenv
+.venv/
+
+# Connectome data (keep locally, not in git)
+40_iNEST/45_Simulation/connectome/
+sdi_sim/data/
+sdi_sim/species_data/
+
+# Literature PDFs
+00_KnowledgeBase_知识库/literature/pdf/
+
+# Archives and backups
+*_from_archive/
+*_archive*/
+*_dup.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db

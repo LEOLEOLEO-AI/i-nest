@@ -160,7 +160,7 @@ def main(dry_run=False, limit=10):
     # Write log
     LOG_DIR.mkdir(exist_ok=True)
     logfile = LOG_DIR / f"inbox_{datetime.now().strftime('%Y%m%d_%H%M')}.json"
-    with open(logfile, "w") as f:
+    with open(logfile, "w", encoding="utf-8") as f:
         json.dump({"date": datetime.now().isoformat(), "processed": processed, "dry_run": dry_run}, f)
 
 if __name__ == "__main__":
@@ -170,4 +170,5 @@ if __name__ == "__main__":
     parser.add_argument("--limit", type=int, default=10)
     args = parser.parse_args()
     main(dry_run=args.dry_run, limit=args.limit)
+
 

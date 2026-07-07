@@ -180,7 +180,7 @@ def safe_filename(s):
     return re.sub(r'[<>:"/\\|?*]', "", s)[:60]
 
 def write_insight(title, abstract, url, source, track="General", year="", authors="", s2_detail=None):
-    """濞ｅ崬瀹冲ú鐐茬檪閹绘劗鍋ч妴鍌氬涧娣囨繂鐡ㄩ張澶嬪壈娑斿娈慣CC/iNEST閸氼垳銇氶妴?""
+    """Write an insight note to inbox with enrichment from S2 detail."""
     global new_count
     if not is_new(title):
         return False
@@ -210,13 +210,13 @@ def write_insight(title, abstract, url, source, track="General", year="", author
     
     tcc_block = ""
     if insight.get('tcc'):
-        tcc_block = f"## TCC 閸氼垳銇歕n\n{insight['tcc']}\n"
+        tcc_block = f"## TCC Insights\n\n{insight['tcc']}\n"
     inest_block = ""
     if insight.get('inest'):
-        inest_block = f"## iNEST 閸氼垳銇歕n\n{insight['inest']}\n"
+        inest_block = f"## iNEST Insights\n\n{insight['inest']}\n"
     actionable = ""
     if insight.get('actionable'):
-        actionable = f"## 閸欘垱澧界悰宀冾攽閸斺晿n\n{insight['actionable']}\n"
+        actionable = f"## Actionable\n\n{insight['actionable']}\n"
     
     citations = detail.get('citations', 0)
     refs = detail.get('refs', 0)
@@ -234,16 +234,16 @@ def write_insight(title, abstract, url, source, track="General", year="", author
     parts.append(f"authors: {authors}")
     parts.append(f"year: {detail.get('year', year)}")
     parts.append(f"url: {url}")
-    parts.append(f"tags: [濞茬偛鐧? {track.lower()}, 閺夈儴鍤渰source.lower()}]")
+    parts.append(f"tags: [inbox, {track.lower()}, {source.lower()}]")
     parts.append(f"citations: {citations}")
     parts.append(f"relevance: {insight.get('relevance_score', 1)}")
-    parts.append("status: 濞茬偛鐧?)
+    parts.append("status: inbox")
     parts.append("---")
     parts.append("")
     parts.append(f"# {title}")
     parts.append("")
-    parts.append(f"**{authors}** ({detail.get('year', year)}) | *{journal or '閺堫亞鐓￠張鐔峰灁'}*")
-    parts.append(f"**瀵洜鏁ら弫?*: {citations} | **閸欏倽鈧啯鏋冮悮顔芥殶**: {refs}")
+    parts.append(f"**{authors}** ({detail.get('year', year)}) | *{journal or 'N/A'}*")
+    parts.append(f"**Citations**: {citations} | **References**: {refs}")
     if fields:
         parts.append(f"**妫板棗鐓?*: {fields}")
     if doi:
@@ -251,28 +251,28 @@ def write_insight(title, abstract, url, source, track="General", year="", author
     parts.append(f"**闁剧偓甯?*: [{url}]({url})")
     parts.append("")
     if tldr:
-        parts.append(f"## 娑撯偓閸欍儴鐦介幀鑽ょ波")
+        parts.append(f"## Summary")
         parts.append("")
         parts.append(tldr)
         parts.append("")
     if detail.get('abstract') or abstract:
-        parts.append(f"## 閹芥顩?)
+        parts.append(f"## Abstract")
         parts.append("")
         txt = detail.get('abstract', abstract or "")
         parts.append(txt[:1200])
         parts.append("")
     if tcc_block:
-        parts.append("## TCC 閸氼垳銇?)
+        parts.append("## TCC Insights")
         parts.append("")
         parts.append(insight['tcc'])
         parts.append("")
     if inest_block:
-        parts.append("## iNEST 閸氼垳銇?)
+        parts.append("## iNEST Insights")
         parts.append("")
         parts.append(insight['inest'])
         parts.append("")
     if actionable:
-        parts.append("## 閸欘垱澧界悰宀冾攽閸?)
+        parts.append("## Actionable")
         parts.append("")
         parts.append(insight['actionable'])
         parts.append("")
@@ -284,7 +284,7 @@ def write_insight(title, abstract, url, source, track="General", year="", author
         f.write(content)
     new_count += 1
     mark_as_seen(title, s2_id=s2_id, filepath=str(fp))
-    log(f"  濞茬偛鐧?[{insight.get('relevance_score', '?')}/3]: {title[:50]}...")
+    log(f"  Insight [{insight.get('relevance_score', '?')}/3]: {title[:50]}...")
     return True
 
 def crawl_semantic_scholar():
@@ -492,7 +492,7 @@ Content: {content[:1500]}"""
     tags_fix = tags + ["classified", track.lower()]
     tags_line = "tags: [" + ", ".join(tags_fix) + "]"
     content = re.sub(r'tags:\s*\[.*?\]', tags_line, content)
-    if summary and "## AI Summary" not in content and "## AI 閹芥顩? not in content:
+    if summary and "## AI Summary" not in content and "## AI Summary" not in content:
         content += f"\n\n## AI 閹芥顩n\n{summary}\n"
     with open(fp, "w", encoding="utf-8") as f:
         f.write(content)
@@ -500,7 +500,7 @@ Content: {content[:1500]}"""
     os.rename(fp, target)
     log(f"  閿?{target.relative_to(VAULT)} [{track}]")
 
-    log("[Process] LLM閸掑棛琚鑼洣閻㈩煉绱濈拋鐑樻瀮閸?_pipeline_insights 娑擃厹鈧?)
+    log("[Process] LLM classifying inbox -> _pipeline_insights")
     return 0
 
 
@@ -761,7 +761,7 @@ def main():
     c2 = crawl_arxiv()
     c3 = crawl_google_news()
     
-    print(f"\n  闂冭埖顔? 鐎瑰本鍨? {c1+c2+c3} new items to inbox")
+    print(f"\n  Total: {c1+c2+c3} new items to inbox")
     
     # Stage 2: Process
     processed = process_inbox(limit=0)
@@ -774,17 +774,17 @@ def main():
         import subprocess
         dash_script = str(VAULT / '90_System' / 'scripts' / 'dashboard_data_v3.py')
         subprocess.run([sys.executable, dash_script], capture_output=True, text=True, timeout=120, cwd=str(VAULT))
-        log("[Dashboard] 閻婢樺鍙夋纯閺?)
+        log("[Dashboard] Updating kanban...")
     except Exception as e:
-        log(f"[Dashboard] 鐠哄疇绻? {e}")
+        log(f"[Dashboard] Error: {e}")
 
     
     elapsed = time.time() - start
     print(f"\n{'='*60}")
-    print(f"  缁狅紕鍤?v3.3 鐎瑰本鍨?)
-    print(f"  閺傛澘顤? {c1}(S2) + {c2}(arXiv) + {c3}(GN) = {c1+c2+c3}")
-    print(f"  瀹告彃鍨庣猾? {processed} | 閸ユ崘姘? {nodes}閼哄倻鍋edges}鏉?| 缂傚搫銇戦崣宥呮倻闁剧偓甯? {missing} | Genspark韫囶偆鍙? OK")
-    print(f"  閼版妞? {elapsed:.0f}缁?)
+    print(f"  Pipeline v3.3 Complete")
+    print(f"  Sources: {c1}(S2) + {c2}(arXiv) + {c3}(GN) = {c1+c2+c3}")
+    print(f"  Processed: {processed} | Nodes: {nodes} edges: {edges} | Missing links: {missing} | Genspark: OK")
+    print(f"  Elapsed: {elapsed:.0f}s")
     print(f"{'='*60}")
     
     # Log
@@ -796,7 +796,7 @@ def main():
         "elapsed_s": round(elapsed, 1),
         "genspark_snapshot": snapshot
     }
-    with open(LOG_DIR / f"pipeline_{datetime.now().strftime('%Y%m%d_%H%M')}.json", "w") as f:
+    with open(LOG_DIR / f"pipeline_{datetime.now().strftime('%Y%m%d_%H%M')}.json", "w", encoding="utf-8") as f:
         json.dump(log_data, f, indent=2)
 
 if __name__ == "__main__":

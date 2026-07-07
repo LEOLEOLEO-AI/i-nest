@@ -17,7 +17,7 @@ tags:
 
 # TCC计算范式：NDSC与天大细化工程规划
 
-> **NDSC**：SDI交换芯片与协议的核心实现者——从交换结构微架构到SDIoN协议栈到一致性测试的全链路工程交付
+> **NDSC**：SDI交换芯片与协议的核心实现者——从交换结构微架构到TCC-Link协议栈到一致性测试的全链路工程交付
 >
 > **天津大学**：TCC硬件系统的总集成者——从理论验证到FPGA原型到Chiplet流片到系统验证的完整工程落地
 
@@ -41,7 +41,7 @@ tags:
 │  ┌────┴────────────┴────────────┴────────────┴────┐        │
 │  │              Protocol Controller                 │        │
 │  │   ┌──────────┐  ┌──────────┐  ┌──────────┐     │        │
-│  │   │SDIoN RX  │  │Ethernet  │  │RapidIO   │ ... │        │
+│  │   │TCC-Link RX  │  │Ethernet  │  │RapidIO   │ ... │        │
 │  │   │Parser    │  │Parser    │  │Parser    │     │        │
 │  │   └────┬─────┘  └────┬─────┘  └────┬─────┘     │        │
 │  └────────┼──────────────┼──────────────┼──────────┘        │
@@ -88,7 +88,7 @@ tags:
 | **单端口速率** | 25 Gbps | 56 Gbps | 112 Gbps |
 | **聚合带宽** | 100 Gbps | 896 Gbps | 7.168 Tbps |
 | **拓扑切换延迟** | <10 μs | <1 μs | <500 ns |
-| **NPC原语支持** | FUSE, SWAP | FUSE, SWAP, REDUCE, BCAST, GATHER | 全部6+NPC原语 |
+| **R/T原语支持** | FUSE, SWAP | FUSE, SWAP, REDUCE, BCAST, GATHER | 全部6+R/T原语 |
 | **功耗** | <5W | <25W | <100W |
 | **面积** | ~4mm² | ~25mm² | ~100mm² |
 | **SDIoN版本** | v0.1 (基础) | v1.0 (完整) | v2.0 (光适配) |
@@ -169,13 +169,13 @@ tags:
          │                 当前数据流不受影响（双缓冲保护）       │
 `
 
-### 二、SDIoN协议栈设计
+### 二、TCC-Link协议栈设计
 
-#### 2.1 SDIoN协议分层
+#### 2.1 TCC-Link协议分层
 
 `
 ┌─────────────────────────────────────┐
-│          SDIoN 协议分层              │
+│          TCC-Link 协议分层              │
 ├─────────────────────────────────────┤
 │  Layer 4: NPC Primitive Layer       │
 │  ┌───────────────────────────────┐  │
@@ -205,11 +205,11 @@ tags:
 └─────────────────────────────────────┘
 `
 
-#### 2.2 NPC原语消息格式定义
+#### 2.2 R/T原语消息格式定义
 
 `
 ┌────────────────────────────────────────────────────────────┐
-│                   SDIoN Frame Format                        │
+│                   TCC-Link Frame Format                        │
 ├──────┬──────┬──────┬──────┬──────┬────────────────────────┤
 │ Byte │ 0-1  │  2   │  3   │ 4-7  │       8-N              │
 ├──────┼──────┼──────┼──────┼──────┼────────────────────────┤
@@ -293,7 +293,7 @@ tags:
   Layer 3: 模块级验证
   ┌──────────────────────────────────────┐
   │ UVM验证环境                            │
-  │ 每个NPC原语的功能覆盖率100%             │
+  │ 每个R/T原语的功能覆盖率100%             │
   │ 协议状态机所有状态/转换覆盖            │
   │ 错误注入测试（CRC错误/超时/乱序）       │
   └──────────────────────────────────────┘
@@ -317,7 +317,7 @@ tags:
 
 #### 3.2 关键测试用例矩阵
 
-| 测试场景 | NPC原语 | 节点数 | 数据量 | 预期结果 | 验收标准 |
+| 测试场景 | R/T原语 | 节点数 | 数据量 | 预期结果 | 验收标准 |
 |---------|---------|--------|--------|---------|---------|
 | 小数据AllReduce | FUSE | 4 | 1KB | 延迟<50ns | 与软件NCCL对比<1%误差 |
 | 大数据AllReduce | FUSE | 16 | 1GB | 吞吐>90%线速 | 吞吐=线速×log2(N)效率 |
@@ -340,10 +340,10 @@ tags:
 │  │  │Scoreboard  │  │       │  │VCK190 #1   │   │        │
 │  │  │(NCCL黄金   │  │       │  │SDI-X1 DUT  │   │        │
 │  │  │ 模型对比)   │  │       │  └─────┬──────┘   │        │
-│  │  └────────────┘  │       │        │SDIoN     │        │
+│  │  └────────────┘  │       │        │TCC-Link     │        │
 │  │  ┌────────────┐  │       │  ┌─────┴──────┐   │        │
 │  │  │Driver/Mon  │  │       │  │VCK190 #2   │   │        │
-│  │  │(SDIoN VIP) │  │       │  │Traffic Gen │   │        │
+│  │  │(TCC-Link VIP) │  │       │  │Traffic Gen │   │        │
 │  │  └────────────┘  │       │  └────────────┘   │        │
 │  └──────────────────┘       └──────────────────┘        │
 │                                                          │
@@ -365,7 +365,7 @@ tags:
 | 时间 | 交付物 | 验收标准 |
 |------|--------|---------|
 | 2026 Q3 | SDI交换芯片架构设计文档 v1.0 | 邬院士评审通过 |
-| 2026 Q4 | SDIoN协议规范 v0.1 (NPC消息格式+流控) | 天大联调可互通 |
+| 2026 Q4 | TCC-Link协议规范 v0.1 (NPC消息格式+流控) | 天大联调可互通 |
 | 2027 Q1 | NPC引擎RTL (FUSE+SWAP) Verilator仿真通过 | 功能覆盖率>95% |
 | 2027 Q2 | SDI-X1 4端口逻辑设计完成 | 综合时序收敛@200MHz |
 | 2027 Q2 | UVM验证环境v1.0 | 500测试用例通过 |
@@ -375,8 +375,8 @@ tags:
 | 时间 | 交付物 | 验收标准 |
 |------|--------|---------|
 | 2027 Q3 | SDI-X1 FPGA原型 (VCK190) | 与天大TCC-FPGA-v0联调通过 |
-| 2027 Q4 | SDIoN v0.1双FPGA互通验证 | ping-pong延迟<200ns |
-| 2028 Q1 | SDIoN协议规范 v1.0 | 专家评审+天大/复旦三方签字 |
+| 2027 Q4 | TCC-Link v0.1双FPGA互通验证 | ping-pong延迟<200ns |
+| 2028 Q1 | TCC-Link协议规范 v1.0 | 专家评审+天大/复旦三方签字 |
 | 2028 Q2 | SDI-X2 16端口逻辑设计 | 综合时序收敛@500MHz |
 | 2028 Q3 | SDI-X2 FPGA原型+天大TCC-FPGA-v2联调 | AllReduce 16节点性能基线 |
 | 2028 Q4 | SDI一致性测试套件 v1.0 | 自动化回归全覆盖 |
@@ -423,8 +423,8 @@ tags:
 | 组件 | 实现 |
 |------|------|
 | 平台 | Xilinx VCK190 (ZU5EV) |
-| NPC原语 | FUSE (4-port Butterfly), SWAP (4×4 Crossbar) |
-| CPC原语 | MAP (8-lane vector), FOLD (4-lane reduce) |
+| R/T原语 | FUSE (4-port Butterfly), SWAP (4×4 Crossbar) |
+| T类原语 | MAP (8-lane vector), FOLD (4-lane reduce) |
 | 数据精度 | FP32 (当前), BF16/INT8 (可配置) |
 | 本地存储 | 256KB BRAM (片上SRAM替代) |
 | 性能目标 | AllReduce 4节点延迟<200ns |
@@ -435,8 +435,8 @@ tags:
 | 组件 | 实现 |
 |------|------|
 | 平台 | VCK190×2, GTY收发器互联 |
-| SDIoN | v0.1协议栈, 25Gbps×4 lane |
-| NPC原语 | FUSE, SWAP, REDUCE (新增) |
+| TCC-Link | v0.1协议栈, 25Gbps×4 lane |
+| R/T原语 | FUSE, SWAP, REDUCE (新增) |
 | 双节点联调 | AllReduce 2节点实测 + NCCL黄金模型对比 |
 | 性能目标 | 单节点延迟<50ns, 线速>90% |
 | 交付物 | 双FPGA间SDIoN互通Demo |
@@ -446,8 +446,8 @@ tags:
 | 组件 | 实现 |
 |------|------|
 | 平台 | VCK190×4, SDI交换结构互联 |
-| SDIoN | v1.0协议栈, 56Gbps×4 lane |
-| NPC原语 | FUSE, SWAP, REDUCE, BCAST, GATHER (5个) |
+| TCC-Link | v1.0协议栈, 56Gbps×4 lane |
+| R/T原语 | FUSE, SWAP, REDUCE, BCAST, GATHER (5个) |
 | SDI拓扑切换 | 双缓冲原子交换, 目标<1μs |
 | 性能目标 | AllReduce 4节点<100ns, AlltoAll线速>90% |
 | 交付物 | 4节点AI训练通信Demo |
@@ -500,8 +500,8 @@ tags:
 | TCC Core数量 | 2 |
 | SDIoN端口 | 4 (25Gbps×4) |
 | 片上SRAM | 2MB |
-| NPC原语 | FUSE, SWAP, REDUCE |
-| CPC原语 | MAP, FOLD |
+| R/T原语 | FUSE, SWAP, REDUCE |
+| T类原语 | MAP, FOLD |
 | PE阵列 | 8×8 MAC (INT8) |
 | 功耗目标 | <3W |
 | 封装 | FCBGA |
@@ -526,8 +526,8 @@ tags:
 | TCC Core数量 | 1 (支持多Die扩展) |
 | SDIoN端口 | 16 (56Gbps×8) |
 | 片上SRAM | 32MB |
-| NPC原语 | 全部6种 |
-| CPC原语 | MAP, FOLD, SCAN, MELD |
+| R/T原语 | 全部6种 |
+| T类原语 | MAP, FOLD, SCAN, MELD |
 | PE阵列 | 32×32 MAC (BF16/INT8) |
 | 算力 | ~50 TOPS (INT8) |
 | UCIe接口 | UCIe-1.0 (16GT/s) |
@@ -549,7 +549,7 @@ tags:
 │       └──────────────┼──────────────┼──────────────┘
 │                      │              │
 │                ┌─────┴──────┐  ┌───┴────────┐
-│                │ SDIoN      │  │ HBM3       │
+│                │ TCC-Link      │  │ HBM3       │
 │                │ Switch Die │  │ Stack      │
 │                └────────────┘  └────────────┘
 │                                                   │
@@ -561,7 +561,7 @@ tags:
 | 参数 | 规格 |
 |------|------|
 | TCC Die | 4 (7nm) |
-| SDIoN Switch | 1 (7nm或16nm) |
+| TCC-Link Switch | 1 (7nm或16nm) |
 | HBM3 | 2 stacks, 32GB total |
 | 聚合算力 | ~200 TOPS (INT8) |
 | 片间带宽 | 448 GB/s (UCIe 16GT/s×28 lanes) |
@@ -579,7 +579,7 @@ tags:
 | 2026 Q4 | CST-05~08临界相变验证 | 阈值θ_k精确测定 |
 | 2026 Q4 | Route≡Transform论文(A_B7) ASPLOS投稿 | 通过内部评审 |
 | 2027 Q1 | CST-09~10全尺度验证+A1论文(Nature MI) | 扩展效率>0.92 |
-| 2027 Q2 | TCC-FPGA-v0单节点Demo | NPC原语功能正确 |
+| 2027 Q2 | TCC-FPGA-v0单节点Demo | R/T原语功能正确 |
 | 2027 Q2 | CST→硬件参数映射表 | 邬院士评审通过 |
 
 #### 8.2 Phase 1 (2027 Q3 - 2029 Q2)
@@ -602,9 +602,9 @@ tags:
   天津大学 (TCC Core)              NDSC (SDI Switch)
   ┌──────────────────┐           ┌──────────────────┐
   │  NPC Primitive    │           │  NPC Engine      │
-  │  Request Queue    │──SDIoN──▶│  (FUSE/SWAP/...) │
+  │  Request Queue    │──TCC-Link──▶│  (FUSE/SWAP/...) │
   │                   │           │                  │
-  │  NPC Response     │◀──SDIoN──│  Result Buffer   │
+  │  NPC Response     │◀──TCC-Link──│  Result Buffer   │
   │  Queue            │           │                  │
   │                   │           │                  │
   │  LINK Config      │──AXI-Lite─▶│  Topology Config  │
@@ -618,7 +618,7 @@ tags:
 
 | 接口 | 类型 | 宽度 | 频率 | 协议 |
 |------|------|------|------|------|
-| SDIoN Data | AXI-Stream | 256-bit | 500MHz | SDIoN v1.0 |
+| TCC-Link Data | AXI-Stream | 256-bit | 500MHz | TCC-Link v1.0 |
 | LINK Config | AXI4-Lite | 32-bit | 200MHz | 寄存器映射 |
 | DMA Ctrl | AXI4-MM | 512-bit | 500MHz | AXI4 |
 | Interrupt | Wire | 4-bit | Async | 电平触发 |
@@ -636,7 +636,7 @@ tags:
 | 0x14 | NPC_FUSE_STATUS | R | FUSE引擎状态 |
 | 0x18 | NPC_SWAP_CTRL | R/W | SWAP原语配置 |
 | 0x1C | NPC_SWAP_STATUS | R | SWAP引擎状态 |
-| 0x20-0x3C | NPC_REDUCE/BCAST/GATHER | R/W | 其他NPC原语控制 |
+| 0x20-0x3C | NPC_REDUCE/BCAST/GATHER | R/W | 其他R/T原语控制 |
 | 0x40 | SDION_LINK_STATUS | R | SDIoN链路状态 |
 | 0x44 | SDION_ERR_CNT | R | 错误计数 |
 | 0x80-0xFF | DMA_DESCRIPTOR | R/W | DMA描述符环形缓冲 |
