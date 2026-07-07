@@ -1,6 +1,6 @@
 ﻿import http.server, os, markdown, urllib.parse, mimetypes, sys
 
-VAULT = r"D:\Obsidian\home\work\.openclaw\workspace"
+VAULT = r"D:\Obsidian"
 PORT = 8899
 mimetypes.add_type("text/html", ".html")
 
