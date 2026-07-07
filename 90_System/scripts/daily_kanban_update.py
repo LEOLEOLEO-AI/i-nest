@@ -5,6 +5,7 @@ daily_kanban_update.py - Daily R&D Kanban Auto-Update
 Scans yesterday's file changes, generates progress/plan, updates kanban HTML.
 """
 import os, json, re, subprocess, sys
+sys.stdout.reconfigure(encoding="utf-8")
 from datetime import datetime, timedelta
 from collections import defaultdict
 
@@ -40,7 +41,7 @@ def scan(target_date):
                 rel = os.path.relpath(fpath, wd)
                 ext = os.path.splitext(fname)[1].lower()
                 dim = "iNEST" if any(k in rel.lower() for k in ["inest", "sdi", "fep", "stdp", "connectome", "emergence", "liquid"]) else "TCC"
-                cat = "论文" if "论文" in rel else "专利" if "专利" in rel else "仿真程序" if ext == ".py" else "产品代码开�? if ext in (".v",".sv") or "fpga" in rel.lower() else "项目指南策划" if any(k in rel for k in ["策划","指南","白皮�?,"专著"]) else "灵感" if "灵感" in rel else "资料"
+                cat = "论文" if "论文" in rel else "专利" if "专利" in rel else "仿真程序" if ext == ".py" else "产品代码开发" if ext in (".v",".sv") or "fpga" in rel.lower() else "项目指南策划" if any(k in rel for k in ["策划","指南","白皮书","专著"]) else "灵感" if "灵感" in rel else "资料"
                 results[(dim, cat)].append({"name": fname, "path": rel, "mtime": mtime.strftime("%H:%M")})
     return results
 
@@ -49,38 +50,38 @@ def generate_progress(results, yesterday_str):
     for (dim, cat), files in sorted(results.items()):
         names = [f["name"].replace(".py","").replace(".md","")[:50] for f in files[:3]]
         progress.append({
-            "text": cat + "�? + "�?.join(names) + ("（共%d个文件）" % len(files) if len(files)>3 else ""),
+            "text": cat + ": " + "、".join(names) + ("（共%d个文件）" % len(files) if len(files)>3 else ""),
             "dot": "done", "dim": dim
         })
     if not progress:
-        progress.append({"text": "昨日�? + yesterday_str + "）无显著文件变更", "dot": "done", "dim": "TCC+iNEST"})
+        progress.append({"text": "昨日（" + yesterday_str + "）无显著文件变更", "dot": "done", "dim": "TCC+iNEST"})
     progress.append({"text": "看板自动更新：扫描昨日进展，生成今日待办", "dot": "done", "dim": "TCC+iNEST"})
     return progress
 
 def generate_plan():
     plans = []
     try:
-        with open(KANBAN_PATH, "r", encoding="utf-8") as f:
+        with open(KANBAN_PATH, "r", encoding="utf-8", errors="replace") as f:
             html = f.read()
         m = re.search(r'"entries":\s*\[(.*?)\]\s*\}', html, re.DOTALL)
         if m:
             entries = json.loads("[" + m.group(1) + "]")
-            active = [e for e in entries if e.get("priority") == "�? and e.get("status") not in ("已完�?,"已发�?,"规划�?)]
+            active = [e for e in entries if e.get("priority") == "高" and e.get("status") not in ("已完成","已发布","规划中")]
             active.sort(key=lambda x: x.get("date",""), reverse=True)
             for e in active[:5]:
-                plans.append({"text": "[" + e["dim"] + "] " + e["title"][:50] + "�? + e.get("status","") + "�?, "dot": "plan", "dim": e["dim"]})
+                plans.append({"text": "[" + e["dim"] + "] " + e["title"][:50] + "：" + e.get("status","") + "", "dot": "plan", "dim": e["dim"]})
     except:
         pass
     if not plans:
         plans = [
-            {"text": "检查SDI仿真实验最新进�?, "dot": "plan", "dim": "iNEST"},
+            {"text": "检查SDI仿真实验最新进展", "dot": "plan", "dim": "iNEST"},
             {"text": "推进核心论文撰写进度", "dot": "plan", "dim": "TCC"},
-            {"text": "审核昨日文件变更并更新看板条�?, "dot": "plan", "dim": "TCC+iNEST"},
+            {"text": "审核昨日文件变更并更新看板条目", "dot": "plan", "dim": "TCC+iNEST"},
         ]
     return plans
 
 def update_kanban(today_str, progress, plan, dry_run=False):
-    with open(KANBAN_PATH, "r", encoding="utf-8") as f:
+    with open(KANBAN_PATH, "r", encoding="utf-8", errors="replace") as f:
         html = f.read()
     
     # Check if today entry already exists
@@ -98,10 +99,10 @@ def update_kanban(today_str, progress, plan, dry_run=False):
         if body_end < 0:
             body_end = html.find("</html>")
         if body_end > 0:
-            script_block = "<" + "script>window.__KANBAN_DATA__ = {'daily': [" + new_json + "]};</" + "script>"'
+            script_block = "<" + "script>window.__KANBAN_DATA__ = {'daily': [" + new_json + "]};</" + "script>"
             html = html[:body_end] + script_block + chr(10) + html[body_end:]
             print("Created daily data structure")
-            with open(KANBAN_PATH, "w", encoding="utf-8", newline="") as f:
+            with open(KANBAN_PATH, "w", encoding="utf-8", newline="", errors="replace") as f:
                 f.write(html)
             return True
         print("ERROR: daily array not found and cannot create")
@@ -120,7 +121,7 @@ def update_kanban(today_str, progress, plan, dry_run=False):
     if dry_run:
         print("[DRY RUN] Would update kanban")
         return True
-    with open(KANBAN_PATH, "w", encoding="utf-8", newline="") as f:
+    with open(KANBAN_PATH, "w", encoding="utf-8", newline="", errors="replace") as f:
         f.write(html)
     return True
 

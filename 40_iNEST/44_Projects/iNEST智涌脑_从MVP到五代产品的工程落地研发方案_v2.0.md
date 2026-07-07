@@ -1,4 +1,4 @@
----
+﻿---
 title: "iNEST智涌脑：从MVP到五代产品的工程落地研发方案"
 date: 2026-06-18
 version: v2.0
@@ -102,7 +102,7 @@ tags:
 |---------------------|---------------------|---------------|------|
 | **TCC-11原语**（FUSE/MAPS/GEMM/LINK等） | **SDI化合键** | SDI交换矩阵 | TCC原语是SDI化合键的指令集 |
 | **Route-Transform理论**（分解+同构定理） | **元拓扑（Meta-Topology）** | 六类最优拓扑 | Route-Transform是元拓扑的数学基础 |
-| **TCC-Link标准**（L1-L4四层架构） | **SDIoN协议** | 芯粒间互连 | TCC-Link是SDIoN的标准化表达 |
+| **TCC-Link标准**（L1-L4四层架构） | **TCC-Link协议** | 芯粒间互连 | TCC-Link是SDIoN的标准化表达 |
 | **TR-ISA**（拓扑可重构指令集） | **SDI化合键配置指令** | μs级拓扑切换 | TR-ISA是SDI配置的硬件指令集 |
 | **液态硬件（Liquid Hardware）** | **物理自演化硬件** | 智涌脑芯片 | 液态硬件=物理自演化的工程实现 |
 | **SDSoW（软件定义晶上系统）** | **晶上系统** | 晶圆级智涌脑 | SDSoW是晶上系统的顶层架构 |
@@ -175,7 +175,7 @@ L1感知 ──────▶ L2反应 ──────▶ L3适应 ───
 | **有向拓扑** | σ从2.7→8.31 | SDI有向化合键 | 轴突-树突单向性 | L4实验 |
 | **侧抑制WTA** | EL从0%→27.3% | 硬件WTA比较器 | top-15%选择 | L4实验 |
 | **多脑协作** | 加速比1.31x | 多芯粒SDI互连 | 16-32芯粒协同 | V31实验 |
-| **Agent桥接** | 270键→108K消息 | SDI→消息协议转换 | TCC-Link协议 (SDIoN) | V32实验 |
+| **Agent桥接** | 270键→108K消息 | SDI→消息协议转换 | TCC-Link协议 (TCC-Link) | V32实验 |
 
 ### 2.2 仿真实验版本→硬件代次映射
 
@@ -190,7 +190,7 @@ v26-v28 (标度律) ────────────────▶ Gen2-Gen
 v29 (行为涌现 L2) ───────────────▶ Gen2 无人机导航
 v30 (果蝇连接组 L3) ─────────────▶ Gen3 机器人决策
 v31 (多脑协作) ──────────────────▶ Gen3 多芯粒协同
-v32 (Agent桥接) ─────────────────▶ Gen4 TCC-Link协议栈 (SDIoN)
+v32 (Agent桥接) ─────────────────▶ Gen4 TCC-Link协议栈 (TCC-Link)
 L4 (组合智能) ───────────────────▶ Gen4 数据中心推理
 L5 (自改进) ─────────────────────▶ Gen4 在线自演化
 L6 (通用智能) ───────────────────▶ Gen5 AGI基础设施
@@ -337,13 +337,13 @@ Level 5: 1M节点（Gen5）          → 多晶圆互连
 | **σ目标** | ≥2.0 | ≥3.0 | +50% |
 | **制程** | 28nm | 14nm | 密度×4 |
 | **功耗** | <1W | <10W | ×10 |
-| **片外互连** | 无 | TCC-Link v0.1 (SDIoN) (4芯粒互连) | 新增 |
+| **片外互连** | 无 | TCC-Link v0.1 (TCC-Link) (4芯粒互连) | 新增 |
 
 ### 4.3 Gen2新增关键模块
 
 | 模块 | 功能 | 关键技术 | 时间 |
 |------|------|---------|------|
-| **多芯粒SDI互连** | 4芯粒×2.5K神经元组建10K网络 | TCC-Link v0.1 (SDIoN)协议 | 2028 Q3-Q4 |
+| **多芯粒SDI互连** | 4芯粒×2.5K神经元组建10K网络 | TCC-Link v0.1 (TCC-Link)协议 | 2028 Q3-Q4 |
 | **WTA硬件引擎** | 侧抑制top-15%稀疏编码 | 比较器树+排序网络 | 2028 Q4 |
 | **有向化合键** | 轴突→树突单向连接 | 方向性SDI配置 | 2029 Q1 |
 | **多脑区协作** | vis/chem/motor/assoc四区 | 跨区键STDP同步 | 2029 Q2 |
@@ -359,7 +359,7 @@ Level 5: 1M节点（Gen5）          → 多晶圆互连
 ### 4.5 Gen2工程里程碑
 
 ```
-2028 Q1-Q2: TCC-Link v0.1 (SDIoN)协议制定 + 14nm库迁移
+2028 Q1-Q2: TCC-Link v0.1 (TCC-Link)协议制定 + 14nm库迁移
 2028 Q3-Q4: Gen2 RTL设计 (4芯粒架构 + WTA引擎)
 2029 Q1: 有向化合键 + 多脑区协作模块
 2029 Q2: Gen2 14nm tape-out
@@ -384,14 +384,14 @@ Level 5: 1M节点（Gen5）          → 多晶圆互连
 | **芯粒数** | 4 | 16 | Chiplet架构 |
 | **σ目标** | ≥3.0 | ≥4.0 | 适应级涌现 |
 | **制程** | 14nm | 7nm | FinFET |
-| **互连** | TCC-Link v0.1 (SDIoN) | TCC-Link v1.0 (SDIoN) + UCIe | 标准化互连 |
+| **互连** | TCC-Link v0.1 (TCC-Link) | TCC-Link v1.0 (TCC-Link) + UCIe | 标准化互连 |
 | **CST估算** | 延迟<1ms | 延迟<100μs | 实时涌现监测 |
 
 ### 5.3 Gen3新增关键模块
 
 | 模块 | 功能 | 关键技术 | 时间 |
 |------|------|---------|------|
-| **Chiplet集成框架** | UCIe+TCC-Link (SDIoN)双协议栈 | D2D PHY + 协议转换 | 2030 Q3 |
+| **Chiplet集成框架** | UCIe+TCC-Link (TCC-Link)双协议栈 | D2D PHY + 协议转换 | 2030 Q3 |
 | **多芯粒CST协同** | 跨芯粒CST实时聚合 | 分布式CST估算 | 2031 Q1 |
 | **在线自演化引擎** | 运行时拓扑持续优化 | FEP+BCM+STDP硬件融合 | 2031 Q2 |
 | **涌现状态指示器** | 实时σ/EL/自由能显示 | Dashboard可视化 | 2031 Q3 |
@@ -430,7 +430,7 @@ Level 5: 1M节点（Gen5）          → 多晶圆互连
 | **SDSoW集成框架** | 晶圆级SDI化合键网格（b=10, 3级扩展） |
 | **递归FEP自改进** | 超参(BCM_ETA/THETA_LTP)自主演化 |
 | **零样本组合引擎** | 已知能力组合解新任务（L4仿真验证） |
-| **TCC-Link v2.0 (SDIoN)** | 光互连适配+安全+多芯粒扩展 |
+| **TCC-Link v2.0 (TCC-Link)** | 光互连适配+安全+多芯粒扩展 |
 
 ---
 
@@ -502,10 +502,10 @@ Level 5: 1M节点（Gen5）          → 多晶圆互连
 | **P0** | CST估算IP | RTL | Gen1-MVP | 2027 Q1 | 天大 | V22-V24 CST验证 |
 | **P1** | STDP+BCM加速器 | RTL | Gen1-MVP | 2027 Q2 | 复旦 | V8-V11 STDP仿真 |
 | **P1** | 自适应tau控制器 | RTL | Gen1-MVP | 2027 Q1 | 天大 | V9 tau仿真 |
-| **P2** | TCC-Link v0.1 (SDIoN) 协议栈 | RTL+SW | Gen2 | 2028 Q2 | NDSC | SDI交换矩阵 |
+| **P2** | TCC-Link v0.1 (TCC-Link) 协议栈 | RTL+SW | Gen2 | 2028 Q2 | NDSC | SDI交换矩阵 |
 | **P2** | WTA硬件引擎 | RTL | Gen2 | 2028 Q4 | 复旦 | L4侧抑制仿真 |
 | **P2** | 有向化合键控制器 | RTL | Gen2 | 2029 Q1 | 天大 | L4有向拓扑仿真 |
-| **P3** | TCC-Link v1.0 (SDIoN) + UCIe适配 | RTL | Gen3 | 2030 Q3 | NDSC | TCC-Link v0.1 (SDIoN) |
+| **P3** | TCC-Link v1.0 (TCC-Link) + UCIe适配 | RTL | Gen3 | 2030 Q3 | NDSC | TCC-Link v0.1 (TCC-Link) |
 | **P3** | 在线自演化引擎 | RTL+SW | Gen3 | 2031 Q2 | 复旦+天大 | FEP+BCM+STDP |
 | **P4** | SDSoW集成框架 | RTL+Physical | Gen4 | 2032 Q2 | 苏实+天大 | Chiplet经验 |
 | **P4** | 递归FEP自改进 | RTL | Gen4 | 2032 Q4 | 复旦 | L5仿真 |
@@ -532,7 +532,7 @@ Gen1-MVP IP                           继承到
 | **天津大学** | CST仿真+P1临界态 | **FPGA原型+ASIC RTL+系统集成** | SDI矩阵+神经元阵列+FEP Engine | Chiplet集成+SDSoW验证 |
 | **复旦大学** | P4工具链+P5转化 | **算法IP+编译器+SDK** | FEP Engine+STDP/BCM+CST估算IP | 编译工具链+SDK+应用开发 |
 | **苏州实验室** | P3忆阻器+光子 | **先进制程+晶圆级集成+封装** | 28nm/14nm工艺导入 | 7nm→3nm→晶圆级制造 |
-| **NDSC** | P3 SDI实验+P5验证 | **TCC-Link协议 (SDIoN)+交换芯片+测试验证** | I/O适配+测试框架 | TCC-Link演进+标准制定 |
+| **NDSC** | P3 SDI实验+P5验证 | **TCC-Link协议 (TCC-Link)+交换芯片+测试验证** | I/O适配+测试框架 | TCC-Link演进+标准制定 |
 
 ### 10.2 经费调整建议（智涌脑工程新增）
 
@@ -601,7 +601,7 @@ Gen1-MVP IP                           继承到
 | V29 (L2反应) | 光趋81%, 化趋79% | 行为验证框架 | Gen2 |
 | V30 (L3适应) | σ=6.37, 跨区耦合 | 多脑区协作模块 | Gen3 |
 | V31 (多脑) | 协作1.31x | 多芯粒SDI互连 | Gen3 |
-| V32 (Agent桥) | 270键→108K消息 | TCC-Link协议栈 (SDIoN) | Gen4 |
+| V32 (Agent桥) | 270键→108K消息 | TCC-Link协议栈 (TCC-Link) | Gen4 |
 | L4 (组合) | combo 0.78, EL 18.4% | 零样本组合引擎 | Gen4 |
 | L5 (创造) | 超参自整定, EL峰值15.5% | 递归FEP自改进 | Gen4 |
 | L6 (通用) | 元加速83x, 泛化2.34 | 通用涌现框架 | Gen5 |
