@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>LLM互联架构综述框架</title>
+  <style>
+html {
+color: #1a1a1a;
+background-color: #fdfdfd;
+}
+body {
+margin: 0 auto;
+max-width: 36em;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+hyphens: auto;
+overflow-wrap: break-word;
+text-rendering: optimizeLegibility;
+font-kerning: normal;
+}
+@media (max-width: 600px) {
+body {
+font-size: 0.9em;
+padding: 12px;
+}
+h1 {
+font-size: 1.8em;
+}
+}
+@media print {
+html {
+background-color: white;
+}
+body {
+background-color: transparent;
+color: black;
+font-size: 12pt;
+}
+p, h2, h3 {
+orphans: 3;
+widows: 3;
+}
+h2, h3, h4 {
+page-break-after: avoid;
+}
+}
+p {
+margin: 1em 0;
+}
+a {
+color: #1a1a1a;
+}
+a:visited {
+color: #1a1a1a;
+}
+img {
+max-width: 100%;
+}
+svg {
+height: auto;
+max-width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+margin-top: 1.4em;
+}
+h5, h6 {
+font-size: 1em;
+font-style: italic;
+}
+h6 {
+font-weight: normal;
+}
+ol, ul {
+padding-left: 1.7em;
+margin-top: 1em;
+}
+li > ol, li > ul {
+margin-top: 0;
+}
+blockquote {
+margin: 1em 0 1em 1.7em;
+padding-left: 1em;
+border-left: 2px solid #e6e6e6;
+color: #606060;
+}
+code {
+font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+font-size: 85%;
+margin: 0;
+hyphens: manual;
+}
+pre {
+margin: 1em 0;
+overflow: auto;
+}
+pre code {
+padding: 0;
+overflow: visible;
+overflow-wrap: normal;
+}
+.sourceCode {
+background-color: transparent;
+overflow: visible;
+}
+hr {
+border: none;
+border-top: 1px solid #1a1a1a;
+height: 1px;
+margin: 1em 0;
+}
+table {
+margin: 1em 0;
+border-collapse: collapse;
+width: 100%;
+overflow-x: auto;
+display: block;
+font-variant-numeric: lining-nums tabular-nums;
+}
+table caption {
+margin-bottom: 0.75em;
+}
+tbody {
+margin-top: 0.5em;
+border-top: 1px solid #1a1a1a;
+border-bottom: 1px solid #1a1a1a;
+}
+th {
+border-top: 1px solid #1a1a1a;
+padding: 0.25em 0.5em 0.25em 0.5em;
+}
+td {
+padding: 0.125em 0.5em 0.25em 0.5em;
+}
+header {
+margin-bottom: 4em;
+text-align: center;
+}
+#TOC li {
+list-style: none;
+}
+#TOC ul {
+padding-left: 1.3em;
+}
+#TOC > ul {
+padding-left: 0;
+}
+#TOC a:not(:hover) {
+text-decoration: none;
+}
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">LLM互联架构综述框架</h1>
+</header>
+<h1 id="大语言模型训练的scale-up与scale-out网络架构及晶圆级互连创新综述框架">大语言模型训练的Scale-Up与Scale-Out网络架构及晶圆级互连创新：综述框架</h1>
+<p><strong>目标期刊：</strong> Nature Electronics / IEEE Proceedings /
+Engineering <strong>预计篇幅：</strong> 8000-12000 词 + 8-12 张配图
+<strong>知识库素材基础：</strong> 347 篇核心文档（3.5MB）
+<strong>状态：</strong> 框架构建阶段（2026-07-07）</p>
+<hr />
+<h2 id="一论文总纲">一、论文总纲</h2>
+<h3 id="论文题目候选">论文题目（候选）</h3>
+<ol type="1">
+<li><strong>From Scale-Up to Wafer-Scale: A Comprehensive Review of
+Interconnect Architectures for Large Language Model
+Training</strong></li>
+<li><strong>大语言模型训练的互连架构综述：从Scale-Up/Scale-Out到晶圆级集成</strong></li>
+<li><strong>Beyond Bandwidth: Network Architecture Innovations for the
+LLM Era</strong></li>
+</ol>
+<p><strong>推荐：</strong> 候选 1（英文投稿 Nature Electronics）或候选
+2（中文投稿 中国科学：信息科学）</p>
+<hr />
+<h3 id="核心论点">核心论点</h3>
+<blockquote>
+<p>LLM 训练的瓶颈已从计算（FLOPs）转移到通信（interconnect bandwidth
+&amp; topology）。Scale-up（节点内高带宽互连）和
+Scale-out（节点间大规模网络）构成了双层架构，而<strong>晶圆级互连</strong>正从晶圆级芯片向软件定义晶上系统（SDSoW）演进。本文系统综述这三种范式的技术路线、关键突破与融合趋势，提出以”拓扑中心计算”为统一框架的分类学体系。</p>
+</blockquote>
+<hr />
+<h2 id="二章节大纲">二、章节大纲</h2>
+<h3 id="第1章引言-1200词">第1章：引言 (1,200词)</h3>
+<p><strong>1.1 LLM 训练的 Scaling 挑战</strong> - GPT-4/Claude/DeepSeek
+等模型的参数与数据规模增长趋势 - 计算 vs 通信的时间占比演变 -
+数据移动能耗占比 ~90%（由 B0 论文结论支撑）</p>
+<p><strong>1.2 互连架构的三种范式</strong> - Scale-Up：单节点/单机柜内
+GPU-to-GPU 高带宽互连（NVLink, NVSwitch） -
+Scale-Out：跨节点/跨机柜的数据中心网络（InfiniBand, RoCE, 胖树拓扑） -
+Wafer-Scale：晶圆级/晶上系统内的超密互连（SoW, SDSoW, WSE）</p>
+<p><strong>1.3 综述范围与方法论</strong> - 覆盖时间：2018-2026 -
+统一评价框架：带宽密度 (Tbps/mm), 能效 (pJ/bit), 拓扑灵活性,
+可扩展性</p>
+<h3 id="第2章scale-up-互连-1500词">第2章：Scale-Up 互连 (1,500词)</h3>
+<p><strong>2.1 NVLink 技术代际演进</strong> - NVLink 1.0 → 5.0：带宽从
+160GB/s 到 1.8TB/s - NVSwitch 架构：从 6-GPU 到 72-GPU (NVL72)
+全互连拓扑</p>
+<p><strong>2.2 GB200 NVL72 的超节点互连方案</strong> - 5000 根 NVLink
+铜缆，130TB/s 总带宽 - 机柜级设计（rack-scale liquid cooling +
+high-density interconnect）</p>
+<p><strong>2.3 华为灵衢（UB-Mesh）超节点架构</strong> - UB-Mesh
+设计理念：统一总线互连 - 与 NVLink 对比：拓扑灵活性 vs 带宽密度 - Hot
+Chips 2025 披露的技术细节</p>
+<p><strong>2.4 Scale-Up 路线的局限与边界</strong> -
+铜缆长度限制（~1m），光互连替代时机 - 超节点 vs 分布式训练的经济学</p>
+<h3 id="第3章scale-out-网络-1500词">第3章：Scale-Out 网络 (1,500词)</h3>
+<p><strong>3.1 主流拓扑架构对比</strong> - Fat-Tree（胖树）：CLOS
+三级架构 - Dragonfly/Dragonfly+：降低光缆成本 -
+Torus/3D-Torus：超算网络的启示</p>
+<p><strong>3.2 InfiniBand vs RoCE</strong> - InfiniBand NDR (400Gbps) →
+XDR (800Gbps) - RoCEv2 + 51.2T 交换机 - 实际部署数据：10万级 H100
+集群分析</p>
+<p><strong>3.3 集合通信优化</strong> - All-Reduce 的拓扑感知调度 -
+网内归约 (In-Network Reduction/Sharp)</p>
+<p><strong>3.4 Scale-Out 的瓶颈与未来</strong> - 跨机柜光缆延迟（us 级
+vs 片内 ns 级） - 并行策略对网络的不同需求</p>
+<h3 id="第4章晶圆级互连-2000词">第4章：晶圆级互连 (2,000词)</h3>
+<p><strong>4.1 晶圆级计算的技术谱系</strong> - Cerebras
+WSE-1/2/3（2.6万亿晶体管） - TSMC SoW / SoW-X（16 ASIC + 80 HBM4） -
+Tesla Dojo D1 Chip + Training Tile</p>
+<p><strong>4.2 晶圆级互连的技术挑战</strong> - 信号完整性、散热、供电 -
+冗余设计与良率管理 - 3D 堆叠与混合键合（Hybrid Bonding）</p>
+<p><strong>4.3 软件定义晶上系统（SDSoW）—— 中国方案</strong> - SDSoW
+核心理念：软件定义互连 + 正交原语集 + 拓扑融合 -
+’十五五’战略布局（2026-2035）</p>
+<p><strong>4.4 晶圆级光互连</strong> - 硅光子 interposer - 光互连 vs
+电互连的能效对比</p>
+<h3 id="第5章chiplet-间互连协议与标准-1200词">第5章：Chiplet
+间互连协议与标准 (1,200词)</h3>
+<p><strong>5.1 Chiplet 互连的协议生态</strong> - UCIe, BoW, NVLink-C2C,
+Infinity Fabric, EMIB</p>
+<p><strong>5.2 基于 Chiplet 的异构集成</strong> -
+NoC-Chiplets：应用定义片上网络</p>
+<p><strong>5.3 Chiplet 互连与 Scale-Up 的融合趋势</strong> - 从 Chiplet
+到晶圆级：互连密度连续谱</p>
+<h3 id="第6章拓扑中心计算-统一框架与展望-1500词">第6章：拓扑中心计算 ——
+统一框架与展望 (1,500词)</h3>
+<p><strong>6.1 范式转变</strong> - “以算为中心” → “以互连为中心”</p>
+<p><strong>6.2 液态架构与软件定义互连（SDI）</strong> - SDI 三层模型</p>
+<p><strong>6.3 互连架构的智能涌现视角（CST 框架）</strong></p>
+<p><strong>6.4 未来路线图（2026-2040）</strong></p>
+<h3 id="第7章结论-500词">第7章：结论 (500词)</h3>
+<hr />
+<h2 id="三材料基础知识库现有素材-侧边栏链接">三、材料基础（知识库现有素材 +
+侧边栏链接）</h2>
+<h3 id="核心参考文献列表可点击打开">核心参考文献列表（可点击打开）</h3>
+<p>以下链接格式为 <code>http://127.0.0.1:8900/</code> + 相对路径，在
+Codex 侧边栏浏览器中可直接打开预览。</p>
+<ul>
+<li><p>[R01] NVIDIA Blackwell架构与NVLink互联深度解析 → <a href="http://127.0.0.1:8900/50_Output/54_Code/TCC/进一步解读英伟达_Blackwell_架构、NVlink及GB200_超级芯片_深度学习_蓝海大脑GPU_InfoQ写作社区.md">50_Output/54_Code/TCC/进一步解读英伟达_Blackwell_架构、NVlink及GB200_超级芯片_深度学习_蓝海大脑GPU_InfoQ写作社区.md</a></p></li>
+<li><p>[R02] 英伟达GB200架构解析：互联架构和未来演进 → <a href="http://127.0.0.1:8900/50_Output/54_Code/TCC/英伟达GB200架构解析1__互联架构和未来演进.md">50_Output/54_Code/TCC/英伟达GB200架构解析1__互联架构和未来演进.md</a></p></li>
+<li><p>[R03] GB200 NVL72全互联技术：铜缆方案或成为未来趋势 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/英伟达GB200_NVL72全互联技术，铜缆方案或成为未来趋势？.md">30_TCC/32_Tech/英伟达GB200_NVL72全互联技术，铜缆方案或成为未来趋势？.md</a></p></li>
+<li><p>[R04] 华为灵衢(UB)技术与超节点架构详解 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/华为灵衢(UB)技术与超节点架构详解.md">30_TCC/32_Tech/华为灵衢(UB)技术与超节点架构详解.md</a></p></li>
+<li><p>[R05] 华为UB-Mesh：革新大规模语言模型训练的数据中心网络架构 → <a href="http://127.0.0.1:8900/50_Output/54_Code/TCC/UB-Mesh：革新大规模语言模型训练的数据中心网络架构.md">50_Output/54_Code/TCC/UB-Mesh：革新大规模语言模型训练的数据中心网络架构.md</a></p></li>
+<li><p>[R06] ODCC 2026超节点大会：AI基础设施Scale-up技术与未来趋势 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/ODCC%202026超节点大会圆桌讨论：AI基础设施Scale-up技术与未来趋势.md">30_TCC/32_Tech/ODCC
+2026超节点大会圆桌讨论：AI基础设施Scale-up技术与未来趋势.md</a></p></li>
+<li><p>[R07] 挑战Nvlink，华为推出互联技术，即将开源 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/挑战Nvlink，华为推出互联技术，即将开源.md">30_TCC/32_Tech/挑战Nvlink，华为推出互联技术，即将开源.md</a></p></li>
+<li><p>[R08] 10万级H100集群：网络拓扑、InfiniBand与以太网对比分析 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/10万级_H100_集群：能源、网络拓扑、以太网与_InfiniBand、可靠性、故障、检查点.md">30_TCC/32_Tech/10万级_H100_集群：能源、网络拓扑、以太网与_InfiniBand、可靠性、故障、检查点.md</a></p></li>
+<li><p>[R09] 超算网络中的主流拓扑架构 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/超算网络中的主流拓扑架构.md">30_TCC/32_Tech/超算网络中的主流拓扑架构.md</a></p></li>
+<li><p>[R10] WSE SwarmX 网络架构优化方案 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/WSE%20SwarmX%20网络架构%20优化方案.md">30_TCC/32_Tech/WSE
+SwarmX 网络架构 优化方案.md</a></p></li>
+<li><p>[R11] 晶圆级计算技术：从历史挑战到现代架构创新 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/晶圆级计算技术：从历史挑战到现代架构创新.md">30_TCC/32_Tech/晶圆级计算技术：从历史挑战到现代架构创新.md</a></p></li>
+<li><p>[R12] 晶圆级芯片（WSC）技术深度分析：架构、集成与应用前景 → <a href="http://127.0.0.1:8900/50_Output/54_Code/TCC/晶圆级芯片（WSC）技术深度分析：架构、集成与应用前景.md">50_Output/54_Code/TCC/晶圆级芯片（WSC）技术深度分析：架构、集成与应用前景.md</a></p></li>
+<li><p>[R13] 详解台积电「晶圆级系统」等技术革新 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/详解台积电「晶圆级系统」等技术革新.md">30_TCC/32_Tech/详解台积电「晶圆级系统」等技术革新.md</a></p></li>
+<li><p>[R14]
+TSMC下一代晶圆级AI系统SoW-X：16颗ASIC+80颗HBM4+260Tb/s总片间带宽 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/TSMC下一代晶圆级AI系统SoW-X：16颗_ASIC＋80颗HBM4＋260Tb_s总片间带宽.md">30_TCC/32_Tech/TSMC下一代晶圆级AI系统SoW-X：16颗_ASIC＋80颗HBM4＋260Tb_s总片间带宽.md</a></p></li>
+<li><p>[R15] Cerebras全球最大芯片WSE升级二代：一颗芯片等于一张晶圆 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/Cerebras全球最大芯片WSE升级二代：一颗芯片等于一张晶圆.md">30_TCC/32_Tech/Cerebras全球最大芯片WSE升级二代：一颗芯片等于一张晶圆.md</a></p></li>
+<li><p>[R16] SDSoW+DeepSeek的’双子星’ → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/SDSoW+DeepSeek的&#39;双子星&#39;.md">30_TCC/32_Tech/SDSoW+DeepSeek的’双子星’.md</a></p></li>
+<li><p>[R17] 软件定义晶上系统（SDSoW）未来十年（2026-2035）发展战略规划
+→ <a href="http://127.0.0.1:8900/30_TCC/32_Tech/软件定义晶上系统（SDSoW）未来十年（2026-2035）发展战略规划.md">30_TCC/32_Tech/软件定义晶上系统（SDSoW）未来十年（2026-2035）发展战略规划.md</a></p></li>
+<li><p>[R18] SDSoW’十五五’国家重大工程布局的建议 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/SDSoW&#39;十五五&#39;国家重大工程布局的建议.md">30_TCC/32_Tech/SDSoW’十五五’国家重大工程布局的建议.md</a></p></li>
+<li><p>[R19] SDSoW：以系统级创新筑基，托举中国架构革命与生态突围 → <a href="http://127.0.0.1:8900/50_Output/54_Code/TCC/SDSoW：以系统级创新筑基，托举中国架构革命与生态突围.md">50_Output/54_Code/TCC/SDSoW：以系统级创新筑基，托举中国架构革命与生态突围.md</a></p></li>
+<li><p>[R20] Chiplet互连协议思考 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/Chiplet互连协议思考.md">30_TCC/32_Tech/Chiplet互连协议思考.md</a></p></li>
+<li><p>[R21] 基于Chiplet的集成架构综述：EDA视角 → <a href="http://127.0.0.1:8900/50_Output/51_Papers/基于Chiplet的集成架构综述：EDA视角.md">50_Output/51_Papers/基于Chiplet的集成架构综述：EDA视角.md</a></p></li>
+<li><p>[R22] 美欧Chiplet技术发展深度研究 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/美欧Chiplet技术发展深度研究：从战略布局到技术创新的全景分析.md">30_TCC/32_Tech/美欧Chiplet技术发展深度研究：从战略布局到技术创新的全景分析.md</a></p></li>
+<li><p>[R23] TCC-SDI：软件定义互连与拓扑中心计算范式 → <a href="http://127.0.0.1:8900/50_Output/51_Papers/TCC_Software_Defined_Interconnect_拓扑中心计算范式.md">50_Output/51_Papers/TCC_Software_Defined_Interconnect_拓扑中心计算范式.md</a></p></li>
+<li><p>[R24] Complete Physical Topology Mapping for Collective
+Communication Primitives → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/Complete%20Physical%20Topology%20Mapping%20for%20Collective%20Communication%20Primitives%20A%20CST-Optimal%20Framework%20for%20Network-Centric%20C.md">30_TCC/32_Tech/Complete
+Physical Topology Mapping for Collective Communication Primitives A
+CST-Optimal Framework for Network-Centric C.md</a></p></li>
+<li><p>[R25] 基于正交原语集与拓扑融合变换的网络复杂度计算方法及系统 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/一种基于正交原语集与拓扑融合变换的网络复杂度计算方法及系统.md">30_TCC/32_Tech/一种基于正交原语集与拓扑融合变换的网络复杂度计算方法及系统.md</a></p></li>
+<li><p>[R26] 拓扑中心计算最小可行产品方案（海河实验室） → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/海河实验室：拓扑中心计算最小可行产品方案.md">30_TCC/32_Tech/海河实验室：拓扑中心计算最小可行产品方案.md</a></p></li>
+<li><p>[R27] RISC-V 架构下 SDI 智算互联系统设计：面向 LLM
+低延迟推理与训练 → <a href="http://127.0.0.1:8900/30_TCC/32_Tech/RISC-V%20架构下%20SDI%20智算互联系统设计：面向%20LLM%20低延迟推理与训练.md">30_TCC/32_Tech/RISC-V
+架构下 SDI 智算互联系统设计：面向 LLM 低延迟推理与训练.md</a></p></li>
+<li><p>[R28] B0 Engineering综述：从冯诺依曼到网络中心计算范式迁移 → <a href="http://127.0.0.1:8900/50_Output/51_Papers/B0_ARS评审与终稿/B0_Engineering_v7_FINAL.md">50_Output/51_Papers/B0_ARS评审与终稿/B0_Engineering_v7_FINAL.md</a></p></li>
+<li><p>[R29] CST Intelligence Emergence Paper (V22 Engineering Format) →
+<a href="http://127.0.0.1:8900/50_Output/51_Papers/CST_Intelligence_Emergence_Paper_V22_Engineering_Format.md">50_Output/51_Papers/CST_Intelligence_Emergence_Paper_V22_Engineering_Format.md</a></p></li>
+<li><p>[R30] SDSoW Hardware Mapping → <a href="http://127.0.0.1:8900/30_TCC/35_Simulation/SDSoW_Hardware_Mapping.md">30_TCC/35_Simulation/SDSoW_Hardware_Mapping.md</a></p></li>
+</ul>
+<hr />
+<h2 id="四撰写思路与推进路线">四、撰写思路与推进路线</h2>
+<h3 id="phase-1材料消化与分类1周">Phase 1：材料消化与分类（1周）</h3>
+<ul>
+<li>按上述章节映射，逐篇阅读核心材料</li>
+<li>提取关键技术参数表（带宽、延迟、功耗、规模、年份）</li>
+<li>构建产品/技术对比矩阵</li>
+</ul>
+<h3 id="phase-2关键数据采集与制图1-2周">Phase
+2：关键数据采集与制图（1-2周）</h3>
+<p><strong>必备配图：</strong></p>
+<table>
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 45%" />
+</colgroup>
+<thead>
+<tr>
+<th>编号</th>
+<th>配图</th>
+<th>数据来源</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fig.1</td>
+<td>Scale-Up/Scale-Out/Wafer-Scale 三种范式定位</td>
+<td>第2-4章素材综合</td>
+</tr>
+<tr>
+<td>Fig.2</td>
+<td>NVLink 代际演进带宽增长曲线</td>
+<td>NVIDIA技术白皮书</td>
+</tr>
+<tr>
+<td>Fig.3</td>
+<td>GB200 NVL72 机柜级互连拓扑示意图</td>
+<td>GB200架构解析文档</td>
+</tr>
+<tr>
+<td>Fig.4</td>
+<td>InfiniBand vs RoCE 性能对比</td>
+<td>10万级H100集群文档</td>
+</tr>
+<tr>
+<td>Fig.5</td>
+<td>TSMC SoW / Cerebras WSE / SDSoW 三方案对比</td>
+<td>第4章素材</td>
+</tr>
+<tr>
+<td>Fig.6</td>
+<td>从Chiplet到晶圆级：互连密度连续谱</td>
+<td>第5+4章素材</td>
+</tr>
+<tr>
+<td>Fig.7</td>
+<td>SDI 三层架构：物理/协议/调度层</td>
+<td>TCC-SDI文档</td>
+</tr>
+<tr>
+<td>Fig.8</td>
+<td>互连能效与智能涌现（CST）关系</td>
+<td>CST仿真数据</td>
+</tr>
+</tbody>
+</table>
+<h3 id="phase-3初稿撰写2-3周">Phase 3：初稿撰写（2-3周）</h3>
+<ul>
+<li>按 1-7 章顺序撰写</li>
+<li>每章完成即跑 ARS 审查</li>
+<li>并行收集/补充参考文献（Zotero管理）</li>
+</ul>
+<h3 id="phase-4修订与投稿1周">Phase 4：修订与投稿（1周）</h3>
+<ul>
+<li>全文章节互审 + 交叉引用检查</li>
+<li>配图终版 + 图注校对</li>
+<li>Cover Letter + Highlights + 推荐审稿人</li>
+</ul>
+<hr />
+<h2 id="五当前知识库缺口">五、当前知识库缺口</h2>
+<table>
+<thead>
+<tr>
+<th>缺口</th>
+<th>重要度</th>
+<th>获取途径</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NVLink 6.0 (Rubin) 最新参数</td>
+<td>高</td>
+<td>NVIDIA GTC 2026 Keynote</td>
+</tr>
+<tr>
+<td>Google TPU ICI 互连最新架构</td>
+<td>高</td>
+<td>Google公开论文</td>
+</tr>
+<tr>
+<td>AMD Infinity Fabric 最新参数</td>
+<td>中</td>
+<td>AMD技术白皮书</td>
+</tr>
+<tr>
+<td>光互连部署数据</td>
+<td>中</td>
+<td>OFC 2026会议论文</td>
+</tr>
+<tr>
+<td>Cerebras Condor Galaxy集群真实数据</td>
+<td>中</td>
+<td>Cerebras客户案例</td>
+</tr>
+<tr>
+<td>国内超节点最新进展</td>
+<td>高</td>
+<td>行业会议/论文</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<blockquote>
+<p><strong>撰写负责人：</strong> 刘勤让 (qinrangliu@fudan.edu.cn)
+<strong>素材基础：</strong> 347篇知识库文档 <strong>目标投稿：</strong>
+2026年9月前 <strong>协同关系：</strong>
+与B0(Engineering综述)、P1(TCC-SDI论文)、CST理论论文构成TCC研究体系</p>
+</blockquote>
+</body>
+</html>
