@@ -38,3 +38,4 @@ gsk find-contact [options]
 ## See Also
 
 - [gsk-shared](../gsk-shared/SKILL.md) — Authentication and global flags
+

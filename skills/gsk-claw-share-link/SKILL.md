@@ -37,3 +37,4 @@ gsk claw share_link [options]
 ## See Also
 
 - [gsk-shared](../gsk-shared/SKILL.md) — Authentication and global flags
+
