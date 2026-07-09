@@ -5,7 +5,7 @@
 
 > **⚠️ DEPRECATED — 参见 [[TCC_Naming_Convention_v3]]**
 > 本文档的 NPC-/CPC- 前缀体系已被 TCC Naming Convention v3.0 (2026-06-30) 取代。
-> 新旧映射：NPC-* → T.*  |  CPC-* → R.*  |  新增 C.* 控制原语
+> 新旧映射：NPC-* → R.*  |  CPC-* → T.*  |  新增 C.* 控制原语
 > 范式名 TCC → TCC 统一。本文件保留作为概念基线，但命名以 v3.0 为准。
 ## 一、 第一性原理：网络中心计算 (Network-Centric Computing, TCC)
 - **核心命题**：物理拓扑即计算。计算的重心从冯·诺依曼架构的“节点”迁移到“网络”。
