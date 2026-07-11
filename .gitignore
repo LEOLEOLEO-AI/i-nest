@@ -4,97 +4,61 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Obsidian cache
+# Obsidian plugins (large JS files)
+.obsidian/plugins/*/main.js
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+
+# Obsidian cache dirs
 .trash/
 .smart-connections/
 .smart-env/
 .neural_db/
 .neural_memory/
 
-# Simulation data (large files)
-simulation/data/
+# Connectome data (keep locally only)
+30_TCC/35_Simulation/sdi_sim/hemibrain_real_connectome_v*.json
 sdi_sim/data/
+sdi_sim/species_data/
+sdi_sim/**/*.npy
+sdi_sim/**/*.zip
+sdi_sim/**/*.json
+
+# Simulation data
 *.pkl
 *.h5
 *.mat
 *.npy
-
-# Logs & state
-logs/
-state/
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
-*.tmp
-*.bak
-
-# Build artifacts
-*.pdf
-*.png
-*.jpg
-*.gif
-node_modules/
-
-# Large intermediate data (keep on disk, exclude from git)
 *.csv
 *.tar
 *.graphml
 *.rar
 *.zip
 
-# Simulation intermediate outputs
-*_run.log
-fetch_log*.txt
+# Large PDFs (literature)
+*_KnowledgeBase_*/literature/pdf/
+_archive*/**/*.pdf
+
+# Logs & state
+logs/
+state/
+*.log
 *_output.log
+*_run.log
 *summary.txt
-__pycache__/
+fetch_log*.txt
 
-# Legacy archives
-_archive_02_Zettelkasten/
-90_System/legacy_subvault_*/
-_archive/00_KnowledgeBase/literature/pdf/
-_archive/*/literature/pdf/
-
-# Species data
-species_data/
-
-# Large PDFs (papers already in .md)
-_archive/**/*.pdf
-03_Topics/**/*.pdf
-
-# Obsidian binary cache
-.obsidian/workspace*.json
-.obsidian/hotkeys.json
-
-
-
-
-# Ignore Smart Environment folder
-.smart-env# Python virtualenv
-.venv/
-
-# Connectome data (keep locally, not in git)
-40_iNEST/45_Simulation/connectome/
-sdi_sim/data/
-sdi_sim/species_data/
-
-# Literature PDFs
-00_KnowledgeBase_知识库/literature/pdf/
-
-# Archives and backups
-*_from_archive/
-*_archive*/
-*_dup.*
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-
-# OS files
+# OS
 .DS_Store
 Thumbs.db
+
+# Build & node
+node_modules/
+
+# Legacy
+_archive_*/
+*_archive*/
+
+# Gitee sync state
+gitee_sync_state.json
