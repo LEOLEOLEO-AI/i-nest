@@ -1,6 +1,2 @@
----
-merged_into: "30_TCC/34_Projects/_from_ideas/Stats.md"
-merged_date: 2026-07-03
----
-
-> [Merged] -> [[30_TCC/34_Projects/_from_ideas/Stats.md]]
+> [!note]- 可能重复: [[Stats]]
+> 此文件与 [[Stats]] 内容重复，已保留高质量版本。

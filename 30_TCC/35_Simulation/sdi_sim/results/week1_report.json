@@ -1,0 +1,66 @@
+{
+  "week": 1,
+  "date": "2026-07-03T03:01:41.808078",
+  "execution_time_seconds": 140.179479,
+  "data_summary": {
+    "neurons": {
+      "total": 31431,
+      "by_type": {
+        "Glutamatergic": 20431,
+        "GABAergic": 6286,
+        "Cholinergic": 4714
+      },
+      "by_class": {
+        "Excitatory": 25145,
+        "Inhibitory": 6286
+      }
+    },
+    "synapses": {
+      "total": 100000,
+      "weight_range": [
+        0.3,
+        1.0
+      ],
+      "synapse_count_range": [
+        3,
+        95
+      ]
+    },
+    "neurotransmitters": {
+      "Glutamate": 20431,
+      "GABA": 6286,
+      "Acetylcholine": 4714
+    }
+  },
+  "network_properties": {
+    "nodes": 31431,
+    "edges": 100000,
+    "density": 0.00010122724572214418,
+    "avg_degree": 6.363144666093984,
+    "in_degree_stats": {
+      "mean": 3.181572333046992,
+      "std": 3.7431908919215617,
+      "min": 0,
+      "max": 23
+    },
+    "out_degree_stats": {
+      "mean": 3.181572333046992,
+      "std": 13.784880547678442,
+      "min": 0,
+      "max": 976
+    }
+  },
+  "connectivity_matrix": {
+    "shape": [
+      31431,
+      31431
+    ],
+    "nonzero_elements": 100000
+  },
+  "null_models_status": {
+    "ER": "generated",
+    "configuration": "generated",
+    "scale_free": "generated"
+  },
+  "status": "PASS"
+}

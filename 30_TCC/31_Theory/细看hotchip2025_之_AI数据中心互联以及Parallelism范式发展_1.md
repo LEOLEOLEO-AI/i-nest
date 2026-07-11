@@ -1,9 +1,2 @@
----
-
-merged_into: "30_TCC\32_Tech\细看hotchip2025 之 AI数据中心互联以及Parallelism范式发展.md"
-merged_date: 2026-07-03
----
-
-> 📎 **已合并** → [[30_TCC\32_Tech\细看hotchip2025 之 AI数据中心互联以及Parallelism范式发展.md]]
-
-此文件内容与 [[30_TCC\32_Tech\细看hotchip2025 之 AI数据中心互联以及Parallelism范式发展.md]] 重复。
+> [!note]- 可能重复: [[细看hotchip2025_之_AI数据中心互联以及Parallelism范式发展]]
+> 此文件与 [[细看hotchip2025_之_AI数据中心互联以及Parallelism范式发展]] 内容重复，已保留高质量版本。

@@ -1,0 +1,24 @@
+{
+  "traditional_chip": {
+    "area_mm2": 10586.03,
+    "power_mw": 334301.5,
+    "latency_ns": 50.0,
+    "throughput_gops": 64000.0,
+    "bandwidth_gbps": 0.02011584,
+    "leakage_power_mw": 77146.5
+  },
+  "sdi_chip": {
+    "area_mm2": 7410.221,
+    "power_mw": 12870.60775,
+    "latency_ns": 25.0,
+    "throughput_gops": 128000.0,
+    "bandwidth_gbps": 0.03017376,
+    "leakage_power_mw": 1170.0552500000001
+  },
+  "improvements": {
+    "area_reduction_percent": 30.00000000000001,
+    "power_reduction_percent": 96.14999999999999,
+    "latency_reduction_percent": 50.0,
+    "throughput_increase_percent": 100.0
+  }
+}

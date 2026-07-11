@@ -2,97 +2,137 @@
 cssclass: dashboard
 ---
 
-# 🏔️ TCC × iNEST 研发中枢
+# 🧠 TCC + iNEST 研发中枢
+
+> **知识库规模**: 5,500+ 篇 | **TCC**: 2,672 篇 | **iNEST**: 1,736 篇 | **高价值洞察**: 256 条
+> 
+> 更新时间: `$= dv.current().file.mtime.toFormat("yyyy-MM-dd HH:mm")`
+
+---
+
+## 📊 全局概览
 
 ```dataviewjs
-const now = dv.date("now");
-const weekdays = ["星期日","星期一","星期二","星期三","星期四","星期五","星期六"];
-const wk = weekdays[now.weekday];
-const total = dv.pages().length;
-const inbox = dv.pages('"00_Inbox"').length;
-const pipeText = inbox > 0 ? "⚠️ 待处理" : "✅ 畅通";
-dv.span("📅 **" + now.toFormat("yyyy年MM月dd日") + " " + wk + "** · **" + total + "** 篇笔记 · 收件箱 **" + inbox + "** 篇 · 管道 " + pipeText);
+const tcc = dv.pages('"30_TCC"').length;
+const inest = dv.pages('"40_iNEST"').length;
+const output = dv.pages('"50_Output"').length;
+const total = tcc + inest + output;
+
+dv.paragraph(`
+| 维度 | 数量 | 占比 |
+|------|------|------|
+| 🧠 TCC 拓扑中心计算 | **${tcc}** | ${(tcc/total*100).toFixed(1)}% |
+| 🧬 iNEST 神经形态 | **${inest}** | ${(inest/total*100).toFixed(1)}% |
+| 📦 成果产出 | **${output}** | ${(output/total*100).toFixed(1)}% |
+| 📚 知识总量 | **${total}** | 100% |
+`);
+```
+
+---
+
+## 🧠 TCC — 拓扑中心计算 (2,672篇)
+
+| 维度 | 篇数 | 说明 |
+|------|------|------|
+| 📐 理论攻关 | **1,137** | CST/拓扑/SDI理论基础 |
+| 🔧 技术研究 | **1,222** | Chiplet/封装/互联/架构 |
+| 💻 工程开发 | **5** | IP核/RTL/FPGA验证 |
+| 📋 项目策划 | **230** | 海河实验室/重点专项 |
+| 🔬 仿真实验 | **73** | CST/sdi_sim/EDA |
+
+```dataview
+TABLE file.mtime as "更新时间"
+FROM "30_TCC/31_Theory" OR "30_TCC/32_Tech"
+SORT file.mtime DESC
+LIMIT 5
+```
+
+---
+
+## 🧬 iNEST — 神经形态计算 (1,736篇)
+
+| 维度 | 篇数 | 说明 |
+|------|------|------|
+| 📐 理论攻关 | **1,109** | 涌现/临界/复杂度理论 |
+| 🔧 技术研究 | **491** | SNN/忆阻器/神经形态 |
+| 💻 工程开发 | **0** | 待启动 |
+| 📋 项目策划 | **64** | 类脑专项布局 |
+| 🔬 仿真实验 | **32** | 神经形态仿真 |
+
+```dataview
+TABLE file.mtime as "更新时间"
+FROM "40_iNEST/41_Theory" OR "40_iNEST/42_Tech"
+SORT file.mtime DESC
+LIMIT 5
+```
+
+---
+
+## 📦 成果产出 (411篇)
+
+| 类型 | 数量 | 跳转 |
+|------|------|------|
+| 📝 论文 | **175** | [[50_Output/51_Papers/论文计划列表\|论文清单]] |
+| 📋 专利 | **37** | [[50_Output/52_Patents/\|专利清单]] |
+| 📖 专著 | **8** | [[50_Output/53_Monographs/\|专著规划]] |
+| 💻 工程代码 | **125** | [[50_Output/54_Code/\|代码仓库]] |
+| 📘 项目指南 | **5** | [[50_Output/55_Guides/\|指南文档]] |
+
+---
+
+## 💡 高价值洞察 (DeepSeek V4 Pro)
+
+| 方向 | 论文灵感 | 专利灵感 |
+|------|----------|----------|
+| 🧠 TCC | **114** | **90** |
+| 🧬 iNEST | **142** | **33** |
+
+📖 [查看完整洞察报告](60_MOC/02_DeepSeek_Insights.md)
+
+---
+
+## 🔬 研究管线流程
+
+```mermaid
+graph LR
+    A[📥 10_Inbox<br/>剪藏入口] --> B[🤖 DeepSeek<br/>智能分类]
+    B --> C[🧠 30_TCC<br/>拓扑中心计算]
+    B --> D[🧬 40_iNEST<br/>神经形态]
+    C --> E[📦 50_Output<br/>论文/专利/代码]
+    D --> E
+    E --> F[📊 70_Dashboard<br/>研发看板]
 ```
 
 ---
 
 ## ⚡ 快捷操作
 
-```dataviewjs
-const btns = [
-  ["🔄 Git 同步", "obsidian-git:pull"],
-  ["🔍 全局搜索", "omnisearch:show-modal"],
-  ["📅 今日日记", "daily-notes"],
-  ["📂 快速切换", "switcher:open"],
-];
-const container = dv.el("div", "");
-btns.forEach(([label, cmd]) => {
-  const btn = container.createEl("button", { text: label });
-  btn.style.cssText = "margin:4px 6px;padding:6px 14px;border-radius:6px;border:1px solid var(--interactive-accent);background:var(--interactive-accent);color:white;cursor:pointer;font-size:14px;";
-  btn.onmouseover = () => { btn.style.opacity = "0.85"; };
-  btn.onmouseout = () => { btn.style.opacity = "1"; };
-  btn.onclick = () => app.commands.executeCommandById(cmd);
-});
-```
+- 🔄 [运行每日管线](90_System/scripts/pipeline_v3.py)
+- 📥 [处理 Inbox](90_System/scripts/process_inbox.py)
+- 🔗 [Git 同步](90_System/scripts/gitee_sync.py)
+- 📊 [研发看板](70_Dashboard/index.html)
+- 🗺️ [全景导航](60_MOC/TCC_iNEST_成果全景.md)
+- 🔍 [去重复核](60_MOC/00_Dedup_Review.md)
+- 🩺 [知识库诊断](60_MOC/00_Diagnostic_Report.md)
 
 ---
 
-## 🧠 双轨研发总览
+## 📈 研究方向
 
-> **TCC** — 拓扑中心计算 · 理论纵深 · 架构突破  
-> **iNEST** — 类脑神经形态工程 · 系统集成 · 产业落地
+### TCC 重点方向
+- 🔲 CST理论完备性证明与仿真验证
+- 🔲 SDSoW晶圆级互联架构设计
+- 🔲 Chiplet 2.5D/3D封装热力耦合仿真
+- 🔲 RISC-V SDI-CC 交换芯片IP开发
+- 🔲 海河实验室晶上先导项目
 
-### 🟦 TCC — 拓扑中心计算
-
-```dataview
-TABLE file.mtime AS "修改日期"
-FROM "30_TCC"
-SORT file.mtime DESC
-LIMIT 5
-```
-
-### 🟩 iNEST — 类脑神经形态
-
-```dataview
-TABLE file.mtime AS "修改日期"
-FROM "40_iNEST"
-SORT file.mtime DESC
-LIMIT 5
-```
+### iNEST 重点方向
+- 🔲 介观峰值定理实验验证
+- 🔲 SNN脉冲神经网络硬件加速器
+- 🔲 忆阻器突触可塑性建模
+- 🔲 复杂网络临界涌现动力学
+- 🔲 类脑动态可塑物理网络
 
 ---
 
-## 📈 研发维度
-
-| 维度 | TCC | iNEST | 成果形态 |
-|------|-----|-------|---------|
-| 📐 理论攻关 | 拓扑表示论·计算复杂性 | 神经动力学·脉冲编码 | 论文·专著 |
-| 🔬 技术研究 | 图计算引擎·分布式拓扑 | 存算一体·忆阻器阵列 | 专利·技术报告 |
-| ⚙️ 工程落地 | FPGA原型·工具链 | 硬件加速器·仿真平台 | 可复用IP·产品代码 |
-| 📋 项目策划 | 基金申请·白皮书 | 产业孵化·标准提案 | 项目指南·可行性报告 |
-
----
-
-## 📋 近期活跃任务
-
-```dataview
-TASK
-FROM "30_TCC" OR "40_iNEST" OR "60_MOC"
-WHERE !completed
-LIMIT 10
-```
-
----
-
-## 🔗 关键入口
-
-- 📊 [[60_MOC/00_Diagnostic_Report|系统诊断报告]] — 知识库健康检查
-- 🔍 [[60_MOC/00_Needs_Review|待审核列表]] — 歧义文件处理
-- 📘 [[30_TCC/TCC_Master_Index|TCC 主索引]] — 拓扑中心计算全景
-- 📗 [[40_iNEST/iNEST_Master_Index|iNEST 主索引]] — 类脑工程全景
-- 📚 [[10_Library/Paper_Library|论文库]] — 学术文献管理
-- 💡 [[20_Ideas/Idea_Garden|灵感花园]] — 创意孵化器
-
----
-
-> 📌 *数据刷新于页面加载时 · Git 自动同步每 30 分钟执行一次*
+> *TCC + iNEST 研发中枢 · Powered by DeepSeek V4 Pro · Codex SuperAgent v4.1*
