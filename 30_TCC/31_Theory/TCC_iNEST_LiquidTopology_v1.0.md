@@ -1,4 +1,4 @@
----
+﻿---
 title: "TCC到iNEST 液态拓扑技术方案"
 date: 2026-07-05
 version: v1.0
@@ -95,13 +95,13 @@ Page Commit 等价于将 P_k 原子写入所有 SDI 控制寄存器，16 节点�
 
 k* = Lookup(f_task) = argmin_k ||f_task - f_k_ref||
 
-### 三、关键性能指标（kappa, tau, sigma）
+### 三、关键性能指标（$\kappa$, $\tau$, $\sigma$）
 
 | 指标    | 定义              | TCC 目标              | 物理意义         |
 | ----- | --------------- | ------------------- | ------------ |
-| kappa | 拓扑切换时间内的有效计算保持率 | >=95%               | 切换开销占比       |
-| tau   | 端到端延迟           | 训推<100 us，FFT<10 us | 数据进入到结果输出    |
-| sigma | 训推切换性能退化率       | <=5%                | 切换后有效吞吐量下降比例 |
+| $\kappa$ | 拓扑切换时间内的有效计算保持率 | >=95%               | 切换开销占比       |
+| $\tau$   | 端到端延迟           | 训推<100 us，FFT<10 us | 数据进入到结果输出    |
+| $\sigma$ | 训推切换性能退化率       | <=5%                | 切换后有效吞吐量下降比例 |
 
 ### 四、系统级增益来源
 
@@ -130,7 +130,7 @@ TCC 回答了"如何快速切换拓扑"。iNEST 回答了一个更根本的问�
 
 **物理本质**：四规则统一于变分自由能最小化框架：
 
-F(W) = -log P(o|W) + D_KL[Q||P] + E_explore
+$$F(W) = -\log P(o|W) + D_{KL}[Q\|P] + E_{explore}$$
 
 - Rule 1（STDP）计算预测误差梯度
 - Rule 3+4 提供结构复杂度约束
@@ -152,9 +152,9 @@ F(W) = -log P(o|W) + D_KL[Q||P] + E_explore
 
 定理：SDI 四规则下，网络拓扑演化等价于自由能 F(W) 的随机梯度下降，稳态收敛于全局最优点。
 
-四规则联合动力学：dW/dt = -nabla_W F(W) + sqrt(2*sigma^2)*xi(t)
+四规则联合动力学：$$\frac{dW}{dt} = -\nabla_W F(W) + \sqrt{2\sigma^2} \cdot \xi(t)$$
 
-其中 xi(t) 是 Rule 2 的随机探索噪声。这是标准的朗之万动力学，保证收敛，不需要任何中央协调。
+其中 $\xi(t)$ 是 Rule 2 的随机探索噪声。这是标准的朗之万动力学，保证收敛，不需要任何中央协调。
 
 ### 六、自组织临界态与智能涌现
 
@@ -189,7 +189,7 @@ L = (1/2)||dT/dt||^2_F - F(T; task)
 | 涌现属性       | 标度关系          | 生物学验证           | iNEST 仿真              |
 | ---------- | ------------- | --------------- | --------------------- |
 | 模块化 Q      | Q ~ N^0.3     | 人脑 Q~0.3-0.5    | v5实验 Q=0.904          |
-| 小世界性 sigma | sigma ~ ln N  | 线虫 sigma~5.87   | v5实验 sigma>=5.0       |
+| 小世界性 $\sigma$ | $\sigma \sim \ln N$  | 线虫 $\sigma\sim5.87$   | v5实验 $\sigma\geq5.0$       |
 | 雪崩指数 alpha | alpha~1.5（恒常） | 皮层 alpha~1.5    | 目标 alpha in [1.4,1.6] |
 | 连接度 K      | K ~ ln N      | 皮层 K~7000-10000 | 符合设计约束                |
 
@@ -228,9 +228,9 @@ iNEST 阶段，TCC 的 Page 模板作为"冻结核"保留：
 
 | 指标    | TCC 阶段定义   | iNEST 阶段重定义 | 目标进化            |
 | ----- | ---------- | ----------- | --------------- |
-| kappa | 切换期间有效计算占比 | 自组织期间有效计算占比 | 95%到99%         |
-| tau   | 固定任务延迟     | 自适应任务延迟     | 10-100us到亚us    |
-| sigma | 训推切换退化率    | 环境变化适应退化率   | <=5%到<=1%       |
+| $\kappa$ | 切换期间有效计算占比 | 自组织期间有效计算占比 | 95%到99%         |
+| $\tau$   | 固定任务延迟     | 自适应任务延迟     | 10-100us到亚us    |
+| $\sigma$ | 训推切换退化率    | 环境变化适应退化率   | <=5%到<=1%       |
 | eta   | Page 匹配效率  | 自组织涌现效率     | 静态最优到动态Pareto最优 |
 | Q     | 手动设计模块结构   | 自动涌现模块结构    | 固定模板到自适应涌现      |
 
@@ -241,7 +241,7 @@ iNEST 阶段，TCC 的 Page 模板作为"冻结核"保留：
 | 2026 H2   | 理论定型         | Page模板+ C.LINK RTL         | SDI四规则仿真（离线）    |
 | 2027 H1   | TCC MVP      | ALINX AXVU13F 单板验证         | -               |
 | 2027 H2   | 单场景验证        | 训练场景Page切换                 | 四规则在线仿真         |
-| 2028 H1   | 双场景液态切换      | 训推切换 kappa>=95%, sigma<=5% | 混合模式原型          |
+| 2028 H1   | 双场景液态切换      | 训推切换 $\kappa\geq95\%$, $\sigma\leq5\%$ | 混合模式原型          |
 | 2028 H2   | 过渡           | -                          | 混合到纯自组织过渡       |
 | 2029-2031 | iNEST Gen2-3 | -                          | 晶圆级SDI，在线自组织    |
 | 2032-2035 | iNEST Gen4-5 | -                          | 忆阻器SYN，光互连，临界涌现 |
@@ -287,7 +287,7 @@ iNEST 阶段，TCC 的 Page 模板作为"冻结核"保留：
 
 ---
 
-**关联条目**：[[iNEST_Roadmap_v2.0_权威路线图]] | [[TCC计算范式命名规范3.0]] | [[SDI节点接口规范与化合键定义]] | [[SDI_Four_Rules_v5_FINAL]] | [[基于元拓扑与SDI化合键的通信原语生成理论]] | [[TCC_Core_Concepts]]
+**关联条目**：[iNEST权威路线图](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/31_Theory/iNEST_Roadmap_v2.0_%E6%9D%83%E5%A8%81%E8%B7%AF%E7%BA%BF%E5%9B%BE.md) | [TCC原语规范·权威定义](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/34_Projects/TCC%E5%8E%9F%E8%AF%AD%E8%A7%84%E8%8C%83_v30%E6%9C%80%E7%BB%88%E7%89%88_%E6%9D%83%E5%A8%81%E5%AE%9A%E4%B9%89.md) | [SDI节点接口规范](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/11_SDI%E8%8A%82%E7%82%B9%E6%8E%A5%E5%8F%A3%E8%A7%84%E8%8C%83%E4%B8%8E%E5%8C%96%E5%90%88%E9%94%AE%E5%AE%9A%E4%B9%89.md) | [SDI四规则](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/35_Simulation/SDI_Four_Rules_v5_FINAL.md) | [元拓扑通信原语](http://127.0.0.1:8899/home/work/.openclaw/workspace/00_KnowledgeBase_%E7%9F%A5%E8%AF%86%E5%BA%93/03_Inbox_%E6%96%87%E7%8C%AE%E4%B8%8E%E7%A2%8E%E7%89%87/%E5%9F%BA%E4%BA%8E%E5%85%83%E6%8B%93%E6%89%91%E4%B8%8ESDI%E5%8C%96%E5%90%88%E9%94%AE%E7%9A%84%E9%80%9A%E4%BF%A1%E5%8E%9F%E8%AF%AD%E7%94%9F%E6%88%90%E7%90%86%E8%AE%BA.md) | [TCC核心概念](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/31_Theory/TCC_Core_Concepts.md)
 
 ---
 
