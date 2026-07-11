@@ -1,9 +1,2 @@
----
-
-merged_into: "10_Library\Papers\Nano_Energy综述：基于忆阻器的仿生器件.md"
-merged_date: 2026-07-03
----
-
-> 📎 **已合并** → [[10_Library\Papers\Nano_Energy综述：基于忆阻器的仿生器件.md]]
-
-此文件内容与 [[10_Library\Papers\Nano_Energy综述：基于忆阻器的仿生器件.md]] 重复，已保留较大版本于此。
+> [!note]- 可能重复: [[Nano_Energy综述：基于忆阻器的仿生器件]]
+> 此文件与 [[Nano_Energy综述：基于忆阻器的仿生器件]] 内容重复，已保留高质量版本。

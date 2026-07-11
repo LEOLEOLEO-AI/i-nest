@@ -1,142 +1,113 @@
-#!/usr/bin/env python3
-"""LLM batch classifier for ambiguous review files."""
-import os, json, time, shutil, re
+﻿# -*- coding: utf-8 -*-
+"""Phase 2: LLM classify ambiguous files + extract insights"""
+
+import json, shutil, time, re
 from pathlib import Path
-import sys
-sys.path.insert(0, r"D:\Obsidian\scripts")
-from llm_router import llm_call
+from openai import OpenAI
+from datetime import datetime
 
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
-REVIEW = VAULT / "_archive" / "_needs_review"
-PROGRESS = VAULT / "60_MOC" / "_review_progress.json"
+API_KEY = "REDACTED_LEAKED_SILICONFLOW"
+BASE_URL = "https://api.siliconflow.cn/v1"
 
+client = OpenAI(api_key=API_KEY, base_url=BASE_URL)
 
-TARGETS = {
-    "TCC": "30_TCC/31_Theory/_llm_classified",
-    "iNEST": "40_iNEST/41_Theory/_llm_classified",
-    "Library": "10_Library/Papers/_from_review",
-    "Ideas": "20_Ideas/Insights",
-    "Archive": "_archive/low_quality",
+# Load ambiguous files
+ambig = json.loads((VAULT / "60_MOC" / "ambig_files.json").read_text(encoding="utf-8"))
+print(f"Total ambiguous files: {len(ambig)}")
+
+SYSTEM_PROMPT = """你是TCC（拓扑中心计算/晶圆级互联）和iNEST（神经形态/类脑计算）两个前沿方向的科研分类专家。
+
+分析以下笔记内容，输出JSON（仅JSON，不要其他文字）：
+{
+  "direction": "TCC" 或 "iNEST" 或 "both",
+  "confidence": 0.0-1.0,
+  "keywords": ["关键词1", "关键词2", "关键词3"],
+  "insight_tcc": "对TCC研究的启迪（1-2句，无启迪则写'无直接关联'）",
+  "insight_inest": "对iNEST研究的启迪（1-2句，无启迪则写'无直接关联'）",
+  "paper_value": "论文产出价值：高/中/低/无",
+  "patent_value": "专利产出价值：高/中/低/无",
+  "sim_value": "仿真验证价值：高/中/低/无",
+  "code_value": "核心代码价值：高/中/低/无",
+  "summary": "一句话摘要"
 }
 
-def call_llm(title, content):
-    prompt = f"""Classify this research note into EXACTLY ONE category. Output ONLY the category name, nothing else.
+判定标准：
+- TCC = 晶圆级互联/拓扑中心计算/SDSoW/Chiplet/存算一体/先进封装/片上网络/并行计算架构
+- iNEST = 神经形态/类脑计算/脉冲神经网络/涌现智能/认知计算/脑启发AI/复杂网络动力学
+- both = 同时涉及两个方向"""
 
-Title: {title}
-Content preview: {content[:800]}
+results = []
+errors = []
 
-Categories:
-- TCC: Topological Centric Computing (chip/Wafer/SDI/interconnect/semiconductor/routing/CST)
-- iNEST: intelligent Emergence (neuromorphic/spiking/brain/emergence/neuron/cognitive/memristor)
-- Library: Academic paper/article/literature review/survey
-- Ideas: Inspiration/fragment/brainstorm/concept note without clear research direction
-- Archive: Low quality/irrelevant/duplicate/trash/meeting notes/personal matters
-
-Category:"""
-    
-    payload = {
-        "model": MODEL,
-        "messages": [
-            {"role": "system", "content": "You are a research classifier. Output only one word from: TCC, iNEST, Library, Ideas, Archive. No explanation."},
-            {"role": "user", "content": prompt}
-        ],
-        "max_tokens": 10,
-        "temperature": 0.0,
-    }
-    
-    req = urllib.request.Request(
-        API_URL,
-        data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json", "Authorization": f"Bearer {API_KEY}"}
-    )
+for i, item in enumerate(ambig):
+    fpath = VAULT / item["path"]
+    if not fpath.exists():
+        continue
     
     try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            data = json.loads(resp.read())
-            result = data["choices"][0]["message"]["content"].strip()
-            # Normalize
-            for cat in TARGETS:
-                if cat.lower() in result.lower():
-                    return cat
-            return result
-    except Exception as e:
-        print(f"  API error: {e}")
-        return None
-
-def main(limit=30, dry_run=False):
-    files = sorted(
-        [f for f in REVIEW.glob("*.md") if not f.name.startswith(".")],
-        key=lambda f: f.stat().st_mtime
-    )[:limit]
-    
-    if not files:
-        print("No files to classify.")
-        return
-    
-    print(f"Classifying {len(files)} files (dry_run={dry_run})...")
-    
-    results = {}
-    for i, fp in enumerate(files):
-        name = fp.name
-        try:
-            with open(fp, "r", encoding="utf-8", errors="ignore") as f:
-                content = f.read()
-        except:
-            content = ""
+        content = fpath.read_text(encoding="utf-8", errors="ignore")
+        # Truncate to ~3000 chars for API
+        content_short = content[:3000]
         
-        # Extract title from frontmatter or filename
-        title = name
-        if content.startswith("---"):
-            m = re.search(r"title:\s*[\"']?(.+?)[\"']?\n", content)
-            if m:
-                title = m.group(1)
+        response = client.chat.completions.create(
+            model="deepseek-ai/DeepSeek-V4-Pro",
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": f"文件名: {fpath.name}\n\n内容:\n{content_short}"}
+            ],
+            temperature=0.1,
+            max_tokens=500,
+        )
         
-        cat = call_llm(title, content)
-        if cat and cat in TARGETS:
-            results[name] = cat
-            print(f"  [{i+1}/{len(files)}] {cat:8s} | {name[:55]}")
+        result_text = response.choices[0].message.content.strip()
+        # Extract JSON
+        json_match = re.search(r'\{.*\}', result_text, re.DOTALL)
+        if json_match:
+            result = json.loads(json_match.group())
         else:
-            results[name] = "Unknown"
-            print(f"  [{i+1}/{len(files)}] {'????':8s} | {name[:55]} (API fail)")
+            result = {"direction": "unknown", "confidence": 0, "error": "No JSON found"}
         
-        if not dry_run and cat and cat in TARGETS:
-            dst_dir = VAULT / TARGETS[cat]
-            dst_dir.mkdir(parents=True, exist_ok=True)
-            dst = dst_dir / name
-            if dst.exists():
-                dst = dst_dir / (Path(name).stem + "_llm.md")
-            shutil.move(str(fp), str(dst))
+        result["file"] = item["path"]
+        result["filename"] = fpath.name
+        results.append(result)
         
-        if i < len(files) - 1:
-            time.sleep(0.3)  # Rate limit
-    
-    # Summary
-    counts = {}
-    for cat in results.values():
-        counts[cat] = counts.get(cat, 0) + 1
-    
-    print(f"\n=== Results ===")
-    for cat, cnt in sorted(counts.items(), key=lambda x: -x[1]):
-        print(f"  {cat}: {cnt}")
-    
-    if not dry_run:
-        remaining = len(list(REVIEW.glob("*.md")))
-        print(f"\nRemaining in review: {remaining}")
+        # Move file based on classification
+        direction = result.get("direction", "unknown")
+        if direction == "TCC":
+            dst = VAULT / "30_TCC" / "32_Tech" / fpath.name
+        elif direction == "iNEST":
+            dst = VAULT / "40_iNEST" / "42_Tech" / fpath.name
+        else:
+            dst = VAULT / "30_TCC" / "32_Tech" / fpath.name  # default to TCC
         
-        # Update progress
-        if PROGRESS.exists():
-            with open(PROGRESS, "r", encoding="utf-8") as f:
-                p = json.load(f)
-            for name, cat in results.items():
-                if cat in TARGETS:
-                    p["reviewed"][name] = {"target": cat, "method": "llm", "time": time.strftime("%Y-%m-%dT%H:%M:%S")}
-            with open(PROGRESS, "w", encoding="utf-8") as f:
-                json.dump(p, f, ensure_ascii=False, indent=2)
+        if not dst.exists():
+            shutil.move(str(fpath), str(dst))
+        
+        if (i + 1) % 10 == 0:
+            print(f"  Progress: {i+1}/{len(ambig)}")
+        
+        time.sleep(0.3)  # rate limit
+        
+    except Exception as e:
+        errors.append({"file": item["path"], "error": str(e)})
+        print(f"  Error {i+1}: {item['path']} - {e}")
 
-if __name__ == "__main__":
-    import argparse
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--limit", type=int, default=30)
-    parser.add_argument("--dry-run", action="store_true")
-    args = parser.parse_args()
-    main(limit=args.limit, dry_run=args.dry_run)
+# Save results
+timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+out = {
+    "timestamp": timestamp,
+    "total": len(ambig),
+    "processed": len(results),
+    "errors": errors,
+    "results": results
+}
+(VAULT / "60_MOC" / "llm_classify_results.json").write_text(
+    json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+
+# Stats
+tcc = sum(1 for r in results if r.get("direction") == "TCC")
+inest = sum(1 for r in results if r.get("direction") == "iNEST")
+both = sum(1 for r in results if r.get("direction") == "both")
+
+print(f"\nDone! TCC: {tcc}, iNEST: {inest}, Both: {both}, Errors: {len(errors)}")

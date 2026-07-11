@@ -1,0 +1,114 @@
+{
+  "experiment": "Superlinear_Emergence_1plus1gt2",
+  "date": "2026-07-07",
+  "data_source": "Real Hemibrain connectome (31431 neurons, 100000 synapses)",
+  "subsystems": {
+    "A_excitatory": {
+      "N": 25145,
+      "E": 80000,
+      "Sc": 0.8142,
+      "Tc": 0.8601,
+      "CST": 1.5659,
+      "alpha": 3.2189
+    },
+    "B_inhibitory": {
+      "N": 6286,
+      "E": 19999,
+      "Sc": 0.7463,
+      "Tc": 0.7737,
+      "CST": 1.0965,
+      "alpha": 2.5649
+    },
+    "C_cholinergic": {
+      "N": 4714,
+      "E": 14997,
+      "Sc": 0.7321,
+      "Tc": 0.75,
+      "CST": 1.0426,
+      "alpha": 2.5649
+    }
+  },
+  "additive_baseline_AB": 2.6624,
+  "additive_baseline_ABC": 3.7051,
+  "coupling_scan": [
+    {
+      "gc": 0.0,
+      "CST_AB": 1.9038,
+      "R": 0.7151,
+      "ok": false
+    },
+    {
+      "gc": 0.1,
+      "CST_AB": 2.3061,
+      "R": 0.8661,
+      "ok": false
+    },
+    {
+      "gc": 0.2,
+      "CST_AB": 2.773,
+      "R": 1.0415,
+      "ok": true
+    },
+    {
+      "gc": 0.3,
+      "CST_AB": 3.3114,
+      "R": 1.2437,
+      "ok": true
+    },
+    {
+      "gc": 0.4,
+      "CST_AB": 3.9284,
+      "R": 1.4755,
+      "ok": true
+    },
+    {
+      "gc": 0.5,
+      "CST_AB": 4.6315,
+      "R": 1.7396,
+      "ok": true
+    },
+    {
+      "gc": 0.6,
+      "CST_AB": 5.4285,
+      "R": 2.0389,
+      "ok": true
+    },
+    {
+      "gc": 0.7,
+      "CST_AB": 6.3272,
+      "R": 2.3765,
+      "ok": true
+    },
+    {
+      "gc": 0.8,
+      "CST_AB": 7.3359,
+      "R": 2.7553,
+      "ok": true
+    },
+    {
+      "gc": 0.9,
+      "CST_AB": 8.4628,
+      "R": 3.1786,
+      "ok": true
+    },
+    {
+      "gc": 1.0,
+      "CST_AB": 9.7165,
+      "R": 3.6494,
+      "ok": true
+    }
+  ],
+  "critical_gamma_star": 0.2,
+  "three_system": {
+    "CST": 7.2395,
+    "baseline": 3.7051,
+    "ratio": 1.9539,
+    "verified": true
+  },
+  "exp_vs_linear": {
+    "CST_exp": 7.4536,
+    "CST_linear": 2.386,
+    "ratio": 3.1239
+  },
+  "conclusion": "1+1>2 VERIFIED. Critical Gamma*=0.2. Three-system ratio=1.954"
+}

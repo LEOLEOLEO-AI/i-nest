@@ -1,0 +1,21 @@
+{
+  "simulation": {
+    "n_neurons": 5000,
+    "sim_time_ms": 300,
+    "n_steps": 3000,
+    "dt": 0.1
+  },
+  "results": {
+    "total_spikes": 221990,
+    "mean_firing_rate_hz": 147.99333333333334,
+    "firing_rate_valid": false,
+    "avalanche_count": 1,
+    "power_law_alpha": 0.0,
+    "criticality_valid": false
+  },
+  "status": {
+    "firing_rate": "ADJUST",
+    "criticality": "ADJUST",
+    "overall": "PARTIAL"
+  }
+}

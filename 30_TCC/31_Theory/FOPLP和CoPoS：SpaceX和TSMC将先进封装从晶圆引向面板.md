@@ -1,9 +1,2 @@
----
-
-merged_into: "30_TCC\32_Tech\FOPLP和CoPoS：SpaceX和TSMC将先进封装从晶圆引向面板.md"
-merged_date: 2026-07-03
----
-
-> 📎 **已合并** → [[30_TCC\32_Tech\FOPLP和CoPoS：SpaceX和TSMC将先进封装从晶圆引向面板.md]]
-
-此文件内容与 [[30_TCC\32_Tech\FOPLP和CoPoS：SpaceX和TSMC将先进封装从晶圆引向面板.md]] 重复，已保留较大版本于此。
+> [!note]- 可能重复: [[FOPLP和CoPoS：SpaceX和TSMC将先进封装从晶圆引向面板]]
+> 此文件与 [[FOPLP和CoPoS：SpaceX和TSMC将先进封装从晶圆引向面板]] 内容重复，已保留高质量版本。

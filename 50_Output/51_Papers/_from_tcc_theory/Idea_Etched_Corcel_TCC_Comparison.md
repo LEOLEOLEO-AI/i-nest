@@ -1,9 +1,2 @@
----
-
-merged_into: "20_Ideas\Insights\Idea_Etched_Corcel_TCC_Comparison.md"
-merged_date: 2026-07-03
----
-
-> 📎 **已合并** → [[20_Ideas\Insights\Idea_Etched_Corcel_TCC_Comparison.md]]
-
-此文件内容与 [[20_Ideas\Insights\Idea_Etched_Corcel_TCC_Comparison.md]] 重复，已保留较大版本于此。
+> [!note]- 可能重复: [[Idea_Etched_Corcel_TCC_Comparison]]
+> 此文件与 [[Idea_Etched_Corcel_TCC_Comparison]] 内容重复，已保留最大版本。

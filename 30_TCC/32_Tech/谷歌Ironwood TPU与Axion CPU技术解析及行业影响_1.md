@@ -1,6 +1,2 @@
----
-merged_into: "30_TCC/32_Tech/谷歌Ironwood TPU与Axion CPU技术解析及行业影响.md"
-merged_date: 2026-07-03
----
-
-> [Merged] -> [[30_TCC/32_Tech/谷歌Ironwood TPU与Axion CPU技术解析及行业影响.md]]
+> [!note]- 可能重复: [[谷歌Ironwood TPU与Axion CPU技术解析及行业影响]]
+> 此文件与 [[谷歌Ironwood TPU与Axion CPU技术解析及行业影响]] 内容重复，已保留高质量版本。

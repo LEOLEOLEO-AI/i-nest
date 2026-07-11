@@ -1,9 +1,2 @@
----
-
-merged_into: "50_Output\51_Papers\B0_ARS评审与终稿\03_ARS_Revision_Roadmap.md"
-merged_date: 2026-07-03
----
-
-> 📎 **已合并** → [[50_Output\51_Papers\B0_ARS评审与终稿\03_ARS_Revision_Roadmap.md]]
-
-此文件内容与 [[50_Output\51_Papers\B0_ARS评审与终稿\03_ARS_Revision_Roadmap.md]] 重复，已保留较大版本于此。
+> [!note]- 可能重复: [[03_ARS_Revision_Roadmap]]
+> 此文件与 [[03_ARS_Revision_Roadmap]] 内容重复，已保留高质量版本。

@@ -1,15 +1,2 @@
----
-title: 先进封装/Chiplet对大陆半导体的战略意义
-tags:
-- chip
-- chip-hardware
-- chiplet
-- semiconductor
-- wafer
-merged_into: "30_TCC\32_Tech\先进封装_Chiplet对大陆半导体的战略意义.md"
-merged_date: 2026-07-03
----
-
-> 📎 **已合并** → [[30_TCC\32_Tech\先进封装_Chiplet对大陆半导体的战略意义.md]]
-
-此文件内容与 [[30_TCC\32_Tech\先进封装_Chiplet对大陆半导体的战略意义.md]] 重复，已保留较大版本于此。
+> [!note]- 可能重复: [[先进封装 Chiplet对大陆半导体的战略意义]]
+> 此文件与 [[先进封装 Chiplet对大陆半导体的战略意义]] 内容重复，已保留高质量版本。

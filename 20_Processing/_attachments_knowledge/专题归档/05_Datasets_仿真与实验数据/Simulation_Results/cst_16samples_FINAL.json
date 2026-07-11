@@ -1,0 +1,178 @@
+[
+  {
+    "ID": "B01",
+    "Name": "*E. coli* (chemotaxis)",
+    "Nodes": "12",
+    "Sc": 0.052,
+    "Tc": 0.095,
+    "Gamma_st": 0.08,
+    "alpha": 2.56,
+    "CST": 0.0061,
+    "Level": "Sub-I"
+  },
+  {
+    "ID": "B02",
+    "Name": "*C. elegans*",
+    "Nodes": "302",
+    "Sc": 0.49,
+    "Tc": 0.471,
+    "Gamma_st": 0.17,
+    "alpha": 2.56,
+    "CST": 0.3566,
+    "Level": "Sub-I"
+  },
+  {
+    "ID": "B03",
+    "Name": "Zebrafish (larval)",
+    "Nodes": "100k",
+    "Sc": 0.36,
+    "Tc": 0.579,
+    "Gamma_st": 0.32,
+    "alpha": 3.91,
+    "CST": 0.7284,
+    "Level": "I"
+  },
+  {
+    "ID": "B04",
+    "Name": "*Drosophila* MB",
+    "Nodes": "25k",
+    "Sc": 0.45,
+    "Tc": 0.613,
+    "Gamma_st": 0.38,
+    "alpha": 3.47,
+    "CST": 1.0312,
+    "Level": "II"
+  },
+  {
+    "ID": "B05",
+    "Name": "Octopus (central)",
+    "Nodes": "500M",
+    "Sc": 0.38,
+    "Tc": 0.602,
+    "Gamma_st": 0.3,
+    "alpha": 3.91,
+    "CST": 0.7393,
+    "Level": "I"
+  },
+  {
+    "ID": "B06",
+    "Name": "Mouse (cortex)",
+    "Nodes": "70M",
+    "Sc": 0.65,
+    "Tc": 0.75,
+    "Gamma_st": 0.44,
+    "alpha": 3.91,
+    "CST": 2.7235,
+    "Level": "IV"
+  },
+  {
+    "ID": "B07",
+    "Name": "Macaque (CoCoMac)",
+    "Nodes": "71 regions",
+    "Sc": 0.72,
+    "Tc": 0.778,
+    "Gamma_st": 0.44,
+    "alpha": 3.91,
+    "CST": 3.1295,
+    "Level": "IV"
+  },
+  {
+    "ID": "B08",
+    "Name": "Human (HCP)",
+    "Nodes": "998 regions",
+    "Sc": 0.88,
+    "Tc": 0.894,
+    "Gamma_st": 0.41,
+    "alpha": 3.91,
+    "CST": 3.9087,
+    "Level": "V"
+  },
+  {
+    "ID": "A01",
+    "Name": "MLP (Dense)",
+    "Nodes": "1k",
+    "Sc": 0.15,
+    "Tc": 0.056,
+    "Gamma_st": 0.08,
+    "alpha": 0.69,
+    "CST": 0.0089,
+    "Level": "Sub-I"
+  },
+  {
+    "ID": "A02",
+    "Name": "CNN (ResNet-50)",
+    "Nodes": "25.6M",
+    "Sc": 0.3,
+    "Tc": 0.072,
+    "Gamma_st": 0.08,
+    "alpha": 0.69,
+    "CST": 0.0228,
+    "Level": "Sub-I"
+  },
+  {
+    "ID": "A03",
+    "Name": "RNN / LSTM",
+    "Nodes": "10k",
+    "Sc": 0.35,
+    "Tc": 0.176,
+    "Gamma_st": 0.08,
+    "alpha": 0.69,
+    "CST": 0.0651,
+    "Level": "Sub-I"
+  },
+  {
+    "ID": "A04",
+    "Name": "LTC",
+    "Nodes": "19",
+    "Sc": 0.4,
+    "Tc": 0.353,
+    "Gamma_st": 0.25,
+    "alpha": 2.56,
+    "CST": 0.2678,
+    "Level": "Sub-I"
+  },
+  {
+    "ID": "A05",
+    "Name": "SNN (Intel Loihi)",
+    "Nodes": "100k",
+    "Sc": 0.42,
+    "Tc": 0.487,
+    "Gamma_st": 0.28,
+    "alpha": 3.47,
+    "CST": 0.5404,
+    "Level": "Sub-I"
+  },
+  {
+    "ID": "A06",
+    "Name": "GNN",
+    "Nodes": "50k",
+    "Sc": 0.52,
+    "Tc": 0.103,
+    "Gamma_st": 0.08,
+    "alpha": 0.69,
+    "CST": 0.0566,
+    "Level": "Sub-I"
+  },
+  {
+    "ID": "A07",
+    "Name": "Transformer (GPT-2)",
+    "Nodes": "1.5B",
+    "Sc": 0.55,
+    "Tc": 0.096,
+    "Gamma_st": 0.08,
+    "alpha": 0.69,
+    "CST": 0.0558,
+    "Level": "Sub-I"
+  },
+  {
+    "ID": "A08",
+    "Name": "MoE",
+    "Nodes": "1.7T",
+    "Sc": 0.75,
+    "Tc": 0.123,
+    "Gamma_st": 0.08,
+    "alpha": 0.69,
+    "CST": 0.0975,
+    "Level": "Sub-I"
+  }
+]

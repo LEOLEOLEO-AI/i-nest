@@ -1,9 +1,2 @@
----
-
-merged_into: "30_TCC\34_Projects\NSFC专项项目指南_v1.md"
-merged_date: 2026-07-03
----
-
-> 📎 **已合并** → [[30_TCC\34_Projects\NSFC专项项目指南_v1.md]]
-
-此文件内容与 [[30_TCC\34_Projects\NSFC专项项目指南_v1.md]] 重复。
+> [!note]- 可能重复: [[NSFC专项项目指南_v1]]
+> 此文件与 [[NSFC专项项目指南_v1]] 内容重复，已保留高质量版本。
