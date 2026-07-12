@@ -1,0 +1,11 @@
+{
+  "pid": 12864,
+  "port": 5230,
+  "httpUrl": "http://127.0.0.1:5230/",
+  "url": "https://iNEST.local:5230/",
+  "localHttpUrl": "http://localhost:5230/",
+  "localUrl": "https://localhost:5230/",
+  "lanHttpUrl": "http://iNEST.local:5230/",
+  "displayRoot": "SDSoW_TCC_iNEST_20260713",
+  "startedAt": "2026-07-12T11:45:33.624Z"
+}
