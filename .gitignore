@@ -62,3 +62,6 @@ _archive_*/
 
 # Gitee sync state
 gitee_sync_state.json
+
+# Dedup reports (data files)
+*_dedup_report.json
