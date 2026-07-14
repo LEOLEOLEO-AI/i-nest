@@ -53,3 +53,9 @@ __pycache__/
 .obsidian/themes/
 20_Processing/_attachments_knowledge/
 90_System/conflict-files-obsidian-git.md
+
+# Codex 仿真大文件防护（追加）
+sdi_sim/exp5_v*.json
+30_TCC/35_Simulation/exp5_v*.json
+.obsidian/plugins/
+logs/*.json
