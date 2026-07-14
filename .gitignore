@@ -44,3 +44,9 @@ __pycache__/
 *.pyc
 .DS_Store
 90_System/logs/
+
+30_TCC/35_Simulation/sdi_sim/exp*.json
+30_TCC/35_Simulation/sdi_sim/*.json
+40_iNEST/45_Simulation/data/
+*.xls *.xlsx *.docx *.doc
+60_MOC/*.json
