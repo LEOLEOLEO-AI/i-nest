@@ -1,0 +1,775 @@
+======================================================================
+SDI 实验五 v2：神经雪崩SOC动力学验证（两阶段协议）
+阶段1（学习）: 外部刺激驱动STDP演化拓扑
+阶段2（记录）: 纯BTW极慢驱动，检测自发神经雪崩
+  τ(尺寸)目标：[1.2, 2.0]  理论值：1.5
+  τ(持续)目标：[1.5, 2.5]  理论值：2.0
+  κ(分支比)目标：[0.9, 1.1]  临界点：1.0
+  PSD斜率目标：[-1.5, -0.3]  1/f噪声：≈-1.0
+  零值帧比例：≥30%（有效沉寂期）
+  雪崩数量：≥200
+======================================================================
+学习阶段：8000步 | 记录阶段：8000步
+BTW驱动间隔：10步（每10步激活1个神经元）
+传播概率系数：0.12
+======================================================================
+
+【实验5a 3规则体系】
+
+→ 运行: C.elegans | seed=42 | 3-rules
+  [C.elegans|seed=42|3r|学习] step=0/16000 | σ=12.10 | edges=2226 | active=19 | t=0s
+  [C.elegans|seed=42|3r|学习] step=1000/16000 | σ=12.10 | edges=2226 | active=1 | t=0s
+  [C.elegans|seed=42|3r|学习] step=2000/16000 | σ=11.31 | edges=2226 | active=6 | t=1s
+  [C.elegans|seed=42|3r|学习] step=3000/16000 | σ=10.59 | edges=2226 | active=11 | t=1s
+  [C.elegans|seed=42|3r|学习] step=4000/16000 | σ=9.56 | edges=2226 | active=7 | t=2s
+  [C.elegans|seed=42|3r|学习] step=5000/16000 | σ=8.75 | edges=2224 | active=5 | t=3s
+  [C.elegans|seed=42|3r|学习] step=6000/16000 | σ=7.98 | edges=2218 | active=2 | t=3s
+  [C.elegans|seed=42|3r|学习] step=7000/16000 | σ=7.29 | edges=2188 | active=13 | t=4s
+  [C.elegans|seed=42|3r|记录] step=8000/16000 | σ=6.54 | edges=2132 | active=1 | t=4s
+  [C.elegans|seed=42|3r|记录] step=9000/16000 | σ=5.22 | edges=2131 | active=9 | t=4s
+  [C.elegans|seed=42|3r|记录] step=10000/16000 | σ=4.84 | edges=2128 | active=10 | t=5s
+  [C.elegans|seed=42|3r|记录] step=11000/16000 | σ=4.16 | edges=2127 | active=1 | t=5s
+  [C.elegans|seed=42|3r|记录] step=12000/16000 | σ=3.75 | edges=2127 | active=13 | t=5s
+  [C.elegans|seed=42|3r|记录] step=13000/16000 | σ=3.50 | edges=2127 | active=1 | t=6s
+  [C.elegans|seed=42|3r|记录] step=14000/16000 | σ=3.36 | edges=2126 | active=5 | t=6s
+  [C.elegans|seed=42|3r|记录] step=15000/16000 | σ=3.06 | edges=2122 | active=4 | t=6s
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:205: RuntimeWarning: divide by zero encountered in scalar divide
+  tau_est = 1 + len(tail) / np.sum(np.log(tail / xm))
+
+  激活统计 [C.elegans|seed=42]:
+    总记录步数: 8000
+    零值帧比例: 90.2%
+    平均激活数: 0.50
+    最大激活数: 51
+
+============================================================
+  结果 [C.elegans|seed=42|3-rules]
+  零值帧比例: 90.2% ✓
+  雪崩数: 786 ✓
+  τ_size=2.210 (R²=0.889) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.019 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: C.elegans | seed=7 | 3-rules
+  [C.elegans|seed=7|3r|学习] step=0/16000 | σ=12.08 | edges=2228 | active=14 | t=0s
+  [C.elegans|seed=7|3r|学习] step=1000/16000 | σ=11.69 | edges=2228 | active=6 | t=0s
+  [C.elegans|seed=7|3r|学习] step=2000/16000 | σ=11.16 | edges=2228 | active=14 | t=1s
+  [C.elegans|seed=7|3r|学习] step=3000/16000 | σ=10.47 | edges=2228 | active=5 | t=1s
+  [C.elegans|seed=7|3r|学习] step=4000/16000 | σ=9.62 | edges=2228 | active=14 | t=2s
+  [C.elegans|seed=7|3r|学习] step=5000/16000 | σ=8.81 | edges=2226 | active=9 | t=3s
+  [C.elegans|seed=7|3r|学习] step=6000/16000 | σ=8.06 | edges=2218 | active=2 | t=3s
+  [C.elegans|seed=7|3r|学习] step=7000/16000 | σ=7.41 | edges=2192 | active=28 | t=4s
+  [C.elegans|seed=7|3r|记录] step=8000/16000 | σ=6.85 | edges=2144 | active=2 | t=4s
+  [C.elegans|seed=7|3r|记录] step=9000/16000 | σ=6.01 | edges=2142 | active=2 | t=4s
+  [C.elegans|seed=7|3r|记录] step=10000/16000 | σ=5.52 | edges=2140 | active=5 | t=5s
+  [C.elegans|seed=7|3r|记录] step=11000/16000 | σ=5.26 | edges=2136 | active=3 | t=5s
+  [C.elegans|seed=7|3r|记录] step=12000/16000 | σ=4.90 | edges=2130 | active=4 | t=5s
+  [C.elegans|seed=7|3r|记录] step=13000/16000 | σ=4.61 | edges=2127 | active=4 | t=6s
+  [C.elegans|seed=7|3r|记录] step=14000/16000 | σ=4.35 | edges=2124 | active=1 | t=6s
+  [C.elegans|seed=7|3r|记录] step=15000/16000 | σ=4.01 | edges=2121 | active=2 | t=6s
+
+  激活统计 [C.elegans|seed=7]:
+    总记录步数: 8000
+    零值帧比例: 90.2%
+    平均激活数: 0.46
+    最大激活数: 61
+
+============================================================
+  结果 [C.elegans|seed=7|3-rules]
+  零值帧比例: 90.2% ✓
+  雪崩数: 787 ✓
+  τ_size=2.274 (R²=0.925) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.016 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: C.elegans | seed=13 | 3-rules
+  [C.elegans|seed=13|3r|学习] step=0/16000 | σ=11.39 | edges=2226 | active=27 | t=0s
+  [C.elegans|seed=13|3r|学习] step=1000/16000 | σ=11.45 | edges=2226 | active=10 | t=0s
+  [C.elegans|seed=13|3r|学习] step=2000/16000 | σ=10.74 | edges=2226 | active=2 | t=1s
+  [C.elegans|seed=13|3r|学习] step=3000/16000 | σ=9.85 | edges=2224 | active=14 | t=1s
+  [C.elegans|seed=13|3r|学习] step=4000/16000 | σ=9.18 | edges=2224 | active=4 | t=2s
+  [C.elegans|seed=13|3r|学习] step=5000/16000 | σ=8.31 | edges=2222 | active=16 | t=3s
+  [C.elegans|seed=13|3r|学习] step=6000/16000 | σ=7.29 | edges=2209 | active=10 | t=3s
+  [C.elegans|seed=13|3r|学习] step=7000/16000 | σ=6.62 | edges=2183 | active=2 | t=4s
+  [C.elegans|seed=13|3r|记录] step=8000/16000 | σ=5.85 | edges=2127 | active=1 | t=4s
+  [C.elegans|seed=13|3r|记录] step=9000/16000 | σ=5.13 | edges=2125 | active=2 | t=5s
+  [C.elegans|seed=13|3r|记录] step=10000/16000 | σ=4.58 | edges=2121 | active=1 | t=5s
+  [C.elegans|seed=13|3r|记录] step=11000/16000 | σ=4.25 | edges=2116 | active=1 | t=5s
+  [C.elegans|seed=13|3r|记录] step=12000/16000 | σ=3.86 | edges=2112 | active=19 | t=5s
+  [C.elegans|seed=13|3r|记录] step=13000/16000 | σ=3.60 | edges=2110 | active=12 | t=6s
+  [C.elegans|seed=13|3r|记录] step=14000/16000 | σ=3.38 | edges=2109 | active=1 | t=6s
+  [C.elegans|seed=13|3r|记录] step=15000/16000 | σ=3.12 | edges=2107 | active=3 | t=6s
+
+  激活统计 [C.elegans|seed=13]:
+    总记录步数: 8000
+    零值帧比例: 90.2%
+    平均激活数: 0.51
+    最大激活数: 55
+
+============================================================
+  结果 [C.elegans|seed=13|3-rules]
+  零值帧比例: 90.2% ✓
+  雪崩数: 787 ✓
+  τ_size=2.192 (R²=0.920) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=-0.007 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: Human_HCP | seed=42 | 3-rules
+  [Human_HCP|seed=42|3r|学习] step=0/16000 | σ=13.71 | edges=3992 | active=9 | t=0s
+  [Human_HCP|seed=42|3r|学习] step=1000/16000 | σ=13.63 | edges=3992 | active=1 | t=1s
+  [Human_HCP|seed=42|3r|学习] step=2000/16000 | σ=13.11 | edges=3992 | active=4 | t=1s
+  [Human_HCP|seed=42|3r|学习] step=3000/16000 | σ=11.90 | edges=3992 | active=5 | t=2s
+  [Human_HCP|seed=42|3r|学习] step=4000/16000 | σ=10.79 | edges=3992 | active=0 | t=3s
+  [Human_HCP|seed=42|3r|学习] step=5000/16000 | σ=10.01 | edges=3990 | active=1 | t=4s
+  [Human_HCP|seed=42|3r|学习] step=6000/16000 | σ=9.31 | edges=3987 | active=17 | t=5s
+  [Human_HCP|seed=42|3r|学习] step=7000/16000 | σ=8.53 | edges=3982 | active=4 | t=6s
+  [Human_HCP|seed=42|3r|记录] step=8000/16000 | σ=7.70 | edges=3966 | active=1 | t=7s
+  [Human_HCP|seed=42|3r|记录] step=9000/16000 | σ=7.05 | edges=3965 | active=63 | t=7s
+  [Human_HCP|seed=42|3r|记录] step=10000/16000 | σ=6.56 | edges=3963 | active=57 | t=8s
+  [Human_HCP|seed=42|3r|记录] step=11000/16000 | σ=6.24 | edges=3963 | active=2 | t=8s
+  [Human_HCP|seed=42|3r|记录] step=12000/16000 | σ=5.75 | edges=3961 | active=1 | t=9s
+  [Human_HCP|seed=42|3r|记录] step=13000/16000 | σ=5.36 | edges=3961 | active=3 | t=9s
+  [Human_HCP|seed=42|3r|记录] step=14000/16000 | σ=4.96 | edges=3960 | active=1 | t=10s
+  [Human_HCP|seed=42|3r|记录] step=15000/16000 | σ=4.57 | edges=3960 | active=63 | t=11s
+
+  激活统计 [Human_HCP|seed=42]:
+    总记录步数: 8000
+    零值帧比例: 90.4%
+    平均激活数: 1.31
+    最大激活数: 137
+
+============================================================
+  结果 [Human_HCP|seed=42|3-rules]
+  零值帧比例: 90.4% ✓
+  雪崩数: 766 ✓
+  τ_size=1.657 (R²=0.890) ✓
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.019 (R²=0.000) ✗
+  得分: 3/6
+  ============================================================
+
+
+→ 运行: Human_HCP | seed=7 | 3-rules
+  [Human_HCP|seed=7|3r|学习] step=0/16000 | σ=13.97 | edges=3996 | active=9 | t=0s
+  [Human_HCP|seed=7|3r|学习] step=1000/16000 | σ=14.94 | edges=3996 | active=3 | t=1s
+  [Human_HCP|seed=7|3r|学习] step=2000/16000 | σ=14.07 | edges=3996 | active=7 | t=1s
+  [Human_HCP|seed=7|3r|学习] step=3000/16000 | σ=12.76 | edges=3996 | active=7 | t=2s
+  [Human_HCP|seed=7|3r|学习] step=4000/16000 | σ=11.69 | edges=3996 | active=9 | t=3s
+  [Human_HCP|seed=7|3r|学习] step=5000/16000 | σ=10.71 | edges=3996 | active=0 | t=4s
+  [Human_HCP|seed=7|3r|学习] step=6000/16000 | σ=9.88 | edges=3995 | active=3 | t=5s
+  [Human_HCP|seed=7|3r|学习] step=7000/16000 | σ=9.09 | edges=3990 | active=7 | t=6s
+  [Human_HCP|seed=7|3r|记录] step=8000/16000 | σ=8.41 | edges=3982 | active=0 | t=6s
+  [Human_HCP|seed=7|3r|记录] step=9000/16000 | σ=7.90 | edges=3981 | active=8 | t=7s
+  [Human_HCP|seed=7|3r|记录] step=10000/16000 | σ=7.30 | edges=3980 | active=11 | t=8s
+  [Human_HCP|seed=7|3r|记录] step=11000/16000 | σ=6.81 | edges=3978 | active=1 | t=8s
+  [Human_HCP|seed=7|3r|记录] step=12000/16000 | σ=6.47 | edges=3978 | active=3 | t=9s
+  [Human_HCP|seed=7|3r|记录] step=13000/16000 | σ=6.06 | edges=3975 | active=32 | t=9s
+  [Human_HCP|seed=7|3r|记录] step=14000/16000 | σ=5.47 | edges=3974 | active=37 | t=10s
+  [Human_HCP|seed=7|3r|记录] step=15000/16000 | σ=5.17 | edges=3974 | active=1 | t=10s
+
+  激活统计 [Human_HCP|seed=7]:
+    总记录步数: 8000
+    零值帧比例: 90.4%
+    平均激活数: 1.48
+    最大激活数: 127
+
+============================================================
+  结果 [Human_HCP|seed=7|3-rules]
+  零值帧比例: 90.4% ✓
+  雪崩数: 767 ✓
+  τ_size=1.636 (R²=0.878) ✓
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.001 (R²=0.000) ✗
+  得分: 3/6
+  ============================================================
+
+
+→ 运行: Human_HCP | seed=13 | 3-rules
+  [Human_HCP|seed=13|3r|学习] step=0/16000 | σ=13.14 | edges=3994 | active=15 | t=0s
+  [Human_HCP|seed=13|3r|学习] step=1000/16000 | σ=12.63 | edges=3994 | active=3 | t=1s
+  [Human_HCP|seed=13|3r|学习] step=2000/16000 | σ=11.76 | edges=3994 | active=1 | t=1s
+  [Human_HCP|seed=13|3r|学习] step=3000/16000 | σ=10.80 | edges=3994 | active=8 | t=2s
+  [Human_HCP|seed=13|3r|学习] step=4000/16000 | σ=9.99 | edges=3994 | active=1 | t=3s
+  [Human_HCP|seed=13|3r|学习] step=5000/16000 | σ=9.11 | edges=3994 | active=0 | t=4s
+  [Human_HCP|seed=13|3r|学习] step=6000/16000 | σ=8.11 | edges=3989 | active=28 | t=5s
+  [Human_HCP|seed=13|3r|学习] step=7000/16000 | σ=7.31 | edges=3983 | active=0 | t=6s
+  [Human_HCP|seed=13|3r|记录] step=8000/16000 | σ=6.90 | edges=3960 | active=0 | t=6s
+  [Human_HCP|seed=13|3r|记录] step=9000/16000 | σ=6.45 | edges=3958 | active=4 | t=7s
+  [Human_HCP|seed=13|3r|记录] step=10000/16000 | σ=5.97 | edges=3957 | active=3 | t=8s
+  [Human_HCP|seed=13|3r|记录] step=11000/16000 | σ=5.67 | edges=3956 | active=13 | t=8s
+  [Human_HCP|seed=13|3r|记录] step=12000/16000 | σ=5.33 | edges=3956 | active=12 | t=9s
+  [Human_HCP|seed=13|3r|记录] step=13000/16000 | σ=4.90 | edges=3954 | active=0 | t=9s
+  [Human_HCP|seed=13|3r|记录] step=14000/16000 | σ=4.71 | edges=3953 | active=3 | t=10s
+  [Human_HCP|seed=13|3r|记录] step=15000/16000 | σ=4.49 | edges=3952 | active=89 | t=11s
+
+  激活统计 [Human_HCP|seed=13]:
+    总记录步数: 8000
+    零值帧比例: 90.3%
+    平均激活数: 1.47
+    最大激活数: 149
+
+============================================================
+  结果 [Human_HCP|seed=13|3-rules]
+  零值帧比例: 90.3% ✓
+  雪崩数: 775 ✓
+  τ_size=1.644 (R²=0.904) ✓
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.019 (R²=0.000) ✗
+  得分: 3/6
+  ============================================================
+
+
+→ 运行: WS_Control | seed=42 | 3-rules
+  [WS_Control|seed=42|3r|学习] step=0/16000 | σ=10.85 | edges=2222 | active=19 | t=0s
+  [WS_Control|seed=42|3r|学习] step=1000/16000 | σ=10.19 | edges=2222 | active=2 | t=0s
+  [WS_Control|seed=42|3r|学习] step=2000/16000 | σ=8.99 | edges=2222 | active=3 | t=1s
+  [WS_Control|seed=42|3r|学习] step=3000/16000 | σ=8.19 | edges=2222 | active=6 | t=1s
+  [WS_Control|seed=42|3r|学习] step=4000/16000 | σ=7.21 | edges=2222 | active=3 | t=2s
+  [WS_Control|seed=42|3r|学习] step=5000/16000 | σ=6.65 | edges=2219 | active=40 | t=2s
+  [WS_Control|seed=42|3r|学习] step=6000/16000 | σ=5.97 | edges=2211 | active=5 | t=3s
+  [WS_Control|seed=42|3r|学习] step=7000/16000 | σ=5.44 | edges=2199 | active=10 | t=4s
+  [WS_Control|seed=42|3r|记录] step=8000/16000 | σ=5.00 | edges=2159 | active=0 | t=4s
+  [WS_Control|seed=42|3r|记录] step=9000/16000 | σ=4.58 | edges=2158 | active=1 | t=4s
+  [WS_Control|seed=42|3r|记录] step=10000/16000 | σ=4.23 | edges=2157 | active=1 | t=5s
+  [WS_Control|seed=42|3r|记录] step=11000/16000 | σ=4.02 | edges=2157 | active=3 | t=5s
+  [WS_Control|seed=42|3r|记录] step=12000/16000 | σ=3.86 | edges=2156 | active=1 | t=5s
+  [WS_Control|seed=42|3r|记录] step=13000/16000 | σ=3.63 | edges=2155 | active=1 | t=6s
+  [WS_Control|seed=42|3r|记录] step=14000/16000 | σ=3.29 | edges=2153 | active=4 | t=6s
+  [WS_Control|seed=42|3r|记录] step=15000/16000 | σ=3.12 | edges=2150 | active=2 | t=6s
+
+  激活统计 [WS_Control|seed=42]:
+    总记录步数: 8000
+    零值帧比例: 90.2%
+    平均激活数: 0.54
+    最大激活数: 60
+
+============================================================
+  结果 [WS_Control|seed=42|3-rules]
+  零值帧比例: 90.2% ✓
+  雪崩数: 787 ✓
+  τ_size=2.261 (R²=0.847) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.014 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: WS_Control | seed=7 | 3-rules
+  [WS_Control|seed=7|3r|学习] step=0/16000 | σ=10.40 | edges=2222 | active=13 | t=0s
+  [WS_Control|seed=7|3r|学习] step=1000/16000 | σ=9.54 | edges=2222 | active=2 | t=0s
+  [WS_Control|seed=7|3r|学习] step=2000/16000 | σ=8.57 | edges=2222 | active=14 | t=1s
+  [WS_Control|seed=7|3r|学习] step=3000/16000 | σ=7.79 | edges=2222 | active=18 | t=1s
+  [WS_Control|seed=7|3r|学习] step=4000/16000 | σ=6.80 | edges=2222 | active=16 | t=2s
+  [WS_Control|seed=7|3r|学习] step=5000/16000 | σ=6.09 | edges=2221 | active=3 | t=2s
+  [WS_Control|seed=7|3r|学习] step=6000/16000 | σ=5.57 | edges=2213 | active=4 | t=3s
+  [WS_Control|seed=7|3r|学习] step=7000/16000 | σ=5.17 | edges=2198 | active=5 | t=4s
+  [WS_Control|seed=7|3r|记录] step=8000/16000 | σ=4.76 | edges=2161 | active=1 | t=4s
+  [WS_Control|seed=7|3r|记录] step=9000/16000 | σ=4.44 | edges=2160 | active=4 | t=4s
+  [WS_Control|seed=7|3r|记录] step=10000/16000 | σ=4.08 | edges=2157 | active=9 | t=5s
+  [WS_Control|seed=7|3r|记录] step=11000/16000 | σ=3.81 | edges=2156 | active=3 | t=5s
+  [WS_Control|seed=7|3r|记录] step=12000/16000 | σ=3.51 | edges=2154 | active=3 | t=5s
+  [WS_Control|seed=7|3r|记录] step=13000/16000 | σ=3.33 | edges=2152 | active=2 | t=6s
+  [WS_Control|seed=7|3r|记录] step=14000/16000 | σ=3.02 | edges=2147 | active=16 | t=6s
+  [WS_Control|seed=7|3r|记录] step=15000/16000 | σ=2.75 | edges=2146 | active=1 | t=6s
+
+  激活统计 [WS_Control|seed=7]:
+    总记录步数: 8000
+    零值帧比例: 90.2%
+    平均激活数: 0.49
+    最大激活数: 68
+
+============================================================
+  结果 [WS_Control|seed=7|3-rules]
+  零值帧比例: 90.2% ✓
+  雪崩数: 785 ✓
+  τ_size=2.107 (R²=0.924) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.016 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: WS_Control | seed=13 | 3-rules
+  [WS_Control|seed=13|3r|学习] step=0/16000 | σ=10.16 | edges=2228 | active=27 | t=0s
+  [WS_Control|seed=13|3r|学习] step=1000/16000 | σ=9.26 | edges=2228 | active=9 | t=0s
+  [WS_Control|seed=13|3r|学习] step=2000/16000 | σ=8.25 | edges=2228 | active=3 | t=1s
+  [WS_Control|seed=13|3r|学习] step=3000/16000 | σ=7.13 | edges=2228 | active=33 | t=1s
+  [WS_Control|seed=13|3r|学习] step=4000/16000 | σ=6.67 | edges=2228 | active=5 | t=2s
+  [WS_Control|seed=13|3r|学习] step=5000/16000 | σ=6.11 | edges=2226 | active=4 | t=2s
+  [WS_Control|seed=13|3r|学习] step=6000/16000 | σ=5.65 | edges=2219 | active=11 | t=3s
+  [WS_Control|seed=13|3r|学习] step=7000/16000 | σ=5.39 | edges=2203 | active=5 | t=4s
+  [WS_Control|seed=13|3r|记录] step=8000/16000 | σ=5.08 | edges=2167 | active=2 | t=4s
+  [WS_Control|seed=13|3r|记录] step=9000/16000 | σ=4.42 | edges=2167 | active=3 | t=4s
+  [WS_Control|seed=13|3r|记录] step=10000/16000 | σ=3.95 | edges=2164 | active=4 | t=5s
+  [WS_Control|seed=13|3r|记录] step=11000/16000 | σ=3.50 | edges=2161 | active=19 | t=5s
+  [WS_Control|seed=13|3r|记录] step=12000/16000 | σ=3.38 | edges=2154 | active=2 | t=5s
+  [WS_Control|seed=13|3r|记录] step=13000/16000 | σ=3.22 | edges=2151 | active=21 | t=6s
+  [WS_Control|seed=13|3r|记录] step=14000/16000 | σ=3.05 | edges=2149 | active=1 | t=6s
+  [WS_Control|seed=13|3r|记录] step=15000/16000 | σ=2.84 | edges=2147 | active=1 | t=6s
+
+  激活统计 [WS_Control|seed=13]:
+    总记录步数: 8000
+    零值帧比例: 90.2%
+    平均激活数: 0.56
+    最大激活数: 62
+
+============================================================
+  结果 [WS_Control|seed=13|3-rules]
+  零值帧比例: 90.2% ✓
+  雪崩数: 783 ✓
+  τ_size=2.209 (R²=0.814) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=-0.005 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+【实验5a 4规则体系】
+
+→ 运行: C.elegans | seed=42 | 4-rules
+  [C.elegans|seed=42|4r|学习] step=0/16000 | σ=12.10 | edges=2226 | active=19 | t=0s
+  [C.elegans|seed=42|4r|学习] step=1000/16000 | σ=11.40 | edges=1760 | active=9 | t=0s
+  [C.elegans|seed=42|4r|学习] step=2000/16000 | σ=11.98 | edges=1400 | active=5 | t=1s
+  [C.elegans|seed=42|4r|学习] step=3000/16000 | σ=11.61 | edges=1165 | active=2 | t=1s
+  [C.elegans|seed=42|4r|学习] step=4000/16000 | σ=11.25 | edges=1029 | active=6 | t=2s
+  [C.elegans|seed=42|4r|学习] step=5000/16000 | σ=10.63 | edges=929 | active=9 | t=2s
+  [C.elegans|seed=42|4r|学习] step=6000/16000 | σ=8.87 | edges=886 | active=12 | t=3s
+  [C.elegans|seed=42|4r|学习] step=7000/16000 | σ=8.02 | edges=854 | active=3 | t=3s
+  [C.elegans|seed=42|4r|记录] step=8000/16000 | σ=7.32 | edges=840 | active=1 | t=4s
+  [C.elegans|seed=42|4r|记录] step=9000/16000 | σ=7.47 | edges=832 | active=0 | t=4s
+  [C.elegans|seed=42|4r|记录] step=10000/16000 | σ=7.29 | edges=830 | active=2 | t=4s
+  [C.elegans|seed=42|4r|记录] step=11000/16000 | σ=7.09 | edges=828 | active=1 | t=5s
+  [C.elegans|seed=42|4r|记录] step=12000/16000 | σ=6.86 | edges=827 | active=1 | t=5s
+  [C.elegans|seed=42|4r|记录] step=13000/16000 | σ=5.80 | edges=825 | active=1 | t=5s
+  [C.elegans|seed=42|4r|记录] step=14000/16000 | σ=4.92 | edges=824 | active=1 | t=5s
+  [C.elegans|seed=42|4r|记录] step=15000/16000 | σ=4.54 | edges=824 | active=1 | t=6s
+
+  激活统计 [C.elegans|seed=42]:
+    总记录步数: 8000
+    零值帧比例: 90.1%
+    平均激活数: 0.15
+    最大激活数: 16
+
+============================================================
+  结果 [C.elegans|seed=42|4-rules]
+  零值帧比例: 90.1% ✓
+  雪崩数: 795 ✓
+  τ_size=5.755 (R²=0.842) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.002 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: C.elegans | seed=7 | 4-rules
+  [C.elegans|seed=7|4r|学习] step=0/16000 | σ=12.08 | edges=2228 | active=14 | t=0s
+  [C.elegans|seed=7|4r|学习] step=1000/16000 | σ=12.58 | edges=1758 | active=5 | t=0s
+  [C.elegans|seed=7|4r|学习] step=2000/16000 | σ=11.79 | edges=1407 | active=3 | t=1s
+  [C.elegans|seed=7|4r|学习] step=3000/16000 | σ=11.80 | edges=1154 | active=12 | t=1s
+  [C.elegans|seed=7|4r|学习] step=4000/16000 | σ=10.99 | edges=1017 | active=5 | t=2s
+  [C.elegans|seed=7|4r|学习] step=5000/16000 | σ=11.09 | edges=935 | active=7 | t=2s
+  [C.elegans|seed=7|4r|学习] step=6000/16000 | σ=10.61 | edges=887 | active=5 | t=3s
+  [C.elegans|seed=7|4r|学习] step=7000/16000 | σ=10.50 | edges=852 | active=10 | t=3s
+  [C.elegans|seed=7|4r|记录] step=8000/16000 | σ=9.65 | edges=840 | active=1 | t=4s
+  [C.elegans|seed=7|4r|记录] step=9000/16000 | σ=8.65 | edges=832 | active=1 | t=4s
+  [C.elegans|seed=7|4r|记录] step=10000/16000 | σ=8.54 | edges=826 | active=1 | t=4s
+  [C.elegans|seed=7|4r|记录] step=11000/16000 | σ=8.25 | edges=825 | active=1 | t=5s
+  [C.elegans|seed=7|4r|记录] step=12000/16000 | σ=8.02 | edges=825 | active=1 | t=5s
+  [C.elegans|seed=7|4r|记录] step=13000/16000 | σ=8.06 | edges=824 | active=1 | t=5s
+  [C.elegans|seed=7|4r|记录] step=14000/16000 | σ=8.04 | edges=824 | active=0 | t=6s
+  [C.elegans|seed=7|4r|记录] step=15000/16000 | σ=7.74 | edges=824 | active=2 | t=6s
+
+  激活统计 [C.elegans|seed=7]:
+    总记录步数: 8000
+    零值帧比例: 90.0%
+    平均激活数: 0.15
+    最大激活数: 8
+
+============================================================
+  结果 [C.elegans|seed=7|4-rules]
+  零值帧比例: 90.0% ✓
+  雪崩数: 798 ✓
+  τ_size=5.636 (R²=0.978) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.010 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: C.elegans | seed=13 | 4-rules
+  [C.elegans|seed=13|4r|学习] step=0/16000 | σ=11.39 | edges=2226 | active=27 | t=0s
+  [C.elegans|seed=13|4r|学习] step=1000/16000 | σ=11.02 | edges=1773 | active=5 | t=0s
+  [C.elegans|seed=13|4r|学习] step=2000/16000 | σ=11.68 | edges=1411 | active=6 | t=1s
+  [C.elegans|seed=13|4r|学习] step=3000/16000 | σ=11.81 | edges=1176 | active=9 | t=1s
+  [C.elegans|seed=13|4r|学习] step=4000/16000 | σ=11.62 | edges=1028 | active=3 | t=2s
+  [C.elegans|seed=13|4r|学习] step=5000/16000 | σ=11.32 | edges=941 | active=20 | t=2s
+  [C.elegans|seed=13|4r|学习] step=6000/16000 | σ=10.04 | edges=887 | active=11 | t=3s
+  [C.elegans|seed=13|4r|学习] step=7000/16000 | σ=9.30 | edges=860 | active=10 | t=3s
+  [C.elegans|seed=13|4r|记录] step=8000/16000 | σ=9.25 | edges=840 | active=1 | t=4s
+  [C.elegans|seed=13|4r|记录] step=9000/16000 | σ=9.16 | edges=831 | active=2 | t=4s
+  [C.elegans|seed=13|4r|记录] step=10000/16000 | σ=8.26 | edges=827 | active=1 | t=4s
+  [C.elegans|seed=13|4r|记录] step=11000/16000 | σ=7.31 | edges=823 | active=1 | t=5s
+  [C.elegans|seed=13|4r|记录] step=12000/16000 | σ=7.09 | edges=822 | active=1 | t=5s
+  [C.elegans|seed=13|4r|记录] step=13000/16000 | σ=6.88 | edges=822 | active=3 | t=5s
+  [C.elegans|seed=13|4r|记录] step=14000/16000 | σ=6.12 | edges=822 | active=1 | t=5s
+  [C.elegans|seed=13|4r|记录] step=15000/16000 | σ=5.43 | edges=822 | active=1 | t=6s
+
+  激活统计 [C.elegans|seed=13]:
+    总记录步数: 8000
+    零值帧比例: 90.0%
+    平均激活数: 0.15
+    最大激活数: 15
+
+============================================================
+  结果 [C.elegans|seed=13|4-rules]
+  零值帧比例: 90.0% ✓
+  雪崩数: 798 ✓
+  τ_size=4.813 (R²=0.813) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=-0.005 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: Human_HCP | seed=42 | 4-rules
+  [Human_HCP|seed=42|4r|学习] step=0/16000 | σ=13.71 | edges=3992 | active=9 | t=0s
+  [Human_HCP|seed=42|4r|学习] step=1000/16000 | σ=12.95 | edges=3113 | active=4 | t=1s
+  [Human_HCP|seed=42|4r|学习] step=2000/16000 | σ=13.26 | edges=2455 | active=1 | t=1s
+  [Human_HCP|seed=42|4r|学习] step=3000/16000 | σ=13.16 | edges=1973 | active=0 | t=2s
+  [Human_HCP|seed=42|4r|学习] step=4000/16000 | σ=12.19 | edges=1647 | active=2 | t=3s
+  [Human_HCP|seed=42|4r|学习] step=5000/16000 | σ=11.47 | edges=1440 | active=6 | t=3s
+  [Human_HCP|seed=42|4r|学习] step=6000/16000 | σ=11.27 | edges=1321 | active=10 | t=4s
+  [Human_HCP|seed=42|4r|学习] step=7000/16000 | σ=10.39 | edges=1254 | active=1 | t=5s
+  [Human_HCP|seed=42|4r|记录] step=8000/16000 | σ=9.70 | edges=1219 | active=1 | t=5s
+  [Human_HCP|seed=42|4r|记录] step=9000/16000 | σ=9.59 | edges=1193 | active=1 | t=6s
+  [Human_HCP|seed=42|4r|记录] step=10000/16000 | σ=8.40 | edges=1185 | active=1 | t=7s
+  [Human_HCP|seed=42|4r|记录] step=11000/16000 | σ=8.14 | edges=1182 | active=1 | t=7s
+  [Human_HCP|seed=42|4r|记录] step=12000/16000 | σ=8.17 | edges=1179 | active=1 | t=8s
+  [Human_HCP|seed=42|4r|记录] step=13000/16000 | σ=7.53 | edges=1177 | active=3 | t=8s
+  [Human_HCP|seed=42|4r|记录] step=14000/16000 | σ=6.97 | edges=1177 | active=1 | t=9s
+  [Human_HCP|seed=42|4r|记录] step=15000/16000 | σ=6.09 | edges=1177 | active=1 | t=9s
+
+  激活统计 [Human_HCP|seed=42]:
+    总记录步数: 8000
+    零值帧比例: 90.0%
+    平均激活数: 0.15
+    最大激活数: 10
+
+============================================================
+  结果 [Human_HCP|seed=42|4-rules]
+  零值帧比例: 90.0% ✓
+  雪崩数: 799 ✓
+  τ_size=4.780 (R²=0.944) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.021 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: Human_HCP | seed=7 | 4-rules
+  [Human_HCP|seed=7|4r|学习] step=0/16000 | σ=13.97 | edges=3996 | active=9 | t=0s
+  [Human_HCP|seed=7|4r|学习] step=1000/16000 | σ=13.85 | edges=3135 | active=2 | t=1s
+  [Human_HCP|seed=7|4r|学习] step=2000/16000 | σ=14.35 | edges=2530 | active=3 | t=1s
+  [Human_HCP|seed=7|4r|学习] step=3000/16000 | σ=14.47 | edges=2006 | active=5 | t=2s
+  [Human_HCP|seed=7|4r|学习] step=4000/16000 | σ=12.02 | edges=1647 | active=10 | t=3s
+  [Human_HCP|seed=7|4r|学习] step=5000/16000 | σ=8.79 | edges=1421 | active=0 | t=3s
+  [Human_HCP|seed=7|4r|学习] step=6000/16000 | σ=8.84 | edges=1279 | active=8 | t=4s
+  [Human_HCP|seed=7|4r|学习] step=7000/16000 | σ=5.86 | edges=1220 | active=4 | t=5s
+  [Human_HCP|seed=7|4r|记录] step=8000/16000 | σ=5.71 | edges=1198 | active=1 | t=5s
+  [Human_HCP|seed=7|4r|记录] step=9000/16000 | σ=5.53 | edges=1178 | active=1 | t=6s
+  [Human_HCP|seed=7|4r|记录] step=10000/16000 | σ=5.77 | edges=1165 | active=1 | t=7s
+  [Human_HCP|seed=7|4r|记录] step=11000/16000 | σ=6.13 | edges=1162 | active=1 | t=7s
+  [Human_HCP|seed=7|4r|记录] step=12000/16000 | σ=5.33 | edges=1162 | active=2 | t=8s
+  [Human_HCP|seed=7|4r|记录] step=13000/16000 | σ=5.32 | edges=1162 | active=1 | t=8s
+  [Human_HCP|seed=7|4r|记录] step=14000/16000 | σ=5.11 | edges=1162 | active=1 | t=9s
+  [Human_HCP|seed=7|4r|记录] step=15000/16000 | σ=5.00 | edges=1162 | active=2 | t=9s
+
+  激活统计 [Human_HCP|seed=7]:
+    总记录步数: 8000
+    零值帧比例: 90.0%
+    平均激活数: 0.14
+    最大激活数: 8
+
+============================================================
+  结果 [Human_HCP|seed=7|4-rules]
+  零值帧比例: 90.0% ✓
+  雪崩数: 800 ✓
+  τ_size=5.140 (R²=0.952) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.003 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: Human_HCP | seed=13 | 4-rules
+  [Human_HCP|seed=13|4r|学习] step=0/16000 | σ=13.14 | edges=3994 | active=15 | t=0s
+  [Human_HCP|seed=13|4r|学习] step=1000/16000 | σ=13.03 | edges=3121 | active=1 | t=1s
+  [Human_HCP|seed=13|4r|学习] step=2000/16000 | σ=12.59 | edges=2485 | active=3 | t=1s
+  [Human_HCP|seed=13|4r|学习] step=3000/16000 | σ=10.57 | edges=1967 | active=8 | t=2s
+  [Human_HCP|seed=13|4r|学习] step=4000/16000 | σ=9.25 | edges=1636 | active=0 | t=3s
+  [Human_HCP|seed=13|4r|学习] step=5000/16000 | σ=8.73 | edges=1444 | active=9 | t=3s
+  [Human_HCP|seed=13|4r|学习] step=6000/16000 | σ=8.45 | edges=1324 | active=0 | t=4s
+  [Human_HCP|seed=13|4r|学习] step=7000/16000 | σ=8.67 | edges=1255 | active=7 | t=5s
+  [Human_HCP|seed=13|4r|记录] step=8000/16000 | σ=8.93 | edges=1216 | active=0 | t=5s
+  [Human_HCP|seed=13|4r|记录] step=9000/16000 | σ=8.66 | edges=1186 | active=2 | t=6s
+  [Human_HCP|seed=13|4r|记录] step=10000/16000 | σ=9.00 | edges=1176 | active=2 | t=7s
+  [Human_HCP|seed=13|4r|记录] step=11000/16000 | σ=8.29 | edges=1171 | active=1 | t=7s
+  [Human_HCP|seed=13|4r|记录] step=12000/16000 | σ=7.67 | edges=1171 | active=1 | t=8s
+  [Human_HCP|seed=13|4r|记录] step=13000/16000 | σ=7.44 | edges=1170 | active=1 | t=8s
+  [Human_HCP|seed=13|4r|记录] step=14000/16000 | σ=7.65 | edges=1170 | active=1 | t=9s
+  [Human_HCP|seed=13|4r|记录] step=15000/16000 | σ=7.68 | edges=1170 | active=1 | t=9s
+
+  激活统计 [Human_HCP|seed=13]:
+    总记录步数: 8000
+    零值帧比例: 90.0%
+    平均激活数: 0.15
+    最大激活数: 7
+
+============================================================
+  结果 [Human_HCP|seed=13|4-rules]
+  零值帧比例: 90.0% ✓
+  雪崩数: 796 ✓
+  τ_size=5.100 (R²=0.912) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=-0.000 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: WS_Control | seed=42 | 4-rules
+  [WS_Control|seed=42|4r|学习] step=0/16000 | σ=10.85 | edges=2222 | active=19 | t=0s
+  [WS_Control|seed=42|4r|学习] step=1000/16000 | σ=10.16 | edges=1756 | active=14 | t=0s
+  [WS_Control|seed=42|4r|学习] step=2000/16000 | σ=10.26 | edges=1405 | active=11 | t=1s
+  [WS_Control|seed=42|4r|学习] step=3000/16000 | σ=10.97 | edges=1170 | active=3 | t=1s
+  [WS_Control|seed=42|4r|学习] step=4000/16000 | σ=10.96 | edges=1026 | active=2 | t=2s
+  [WS_Control|seed=42|4r|学习] step=5000/16000 | σ=11.25 | edges=924 | active=9 | t=2s
+  [WS_Control|seed=42|4r|学习] step=6000/16000 | σ=10.01 | edges=881 | active=11 | t=3s
+  [WS_Control|seed=42|4r|学习] step=7000/16000 | σ=9.66 | edges=849 | active=3 | t=3s
+  [WS_Control|seed=42|4r|记录] step=8000/16000 | σ=9.50 | edges=834 | active=1 | t=4s
+  [WS_Control|seed=42|4r|记录] step=9000/16000 | σ=8.27 | edges=822 | active=1 | t=4s
+  [WS_Control|seed=42|4r|记录] step=10000/16000 | σ=7.93 | edges=816 | active=1 | t=4s
+  [WS_Control|seed=42|4r|记录] step=11000/16000 | σ=6.68 | edges=815 | active=1 | t=4s
+  [WS_Control|seed=42|4r|记录] step=12000/16000 | σ=6.27 | edges=813 | active=2 | t=5s
+  [WS_Control|seed=42|4r|记录] step=13000/16000 | σ=5.55 | edges=813 | active=1 | t=5s
+  [WS_Control|seed=42|4r|记录] step=14000/16000 | σ=5.29 | edges=813 | active=1 | t=5s
+  [WS_Control|seed=42|4r|记录] step=15000/16000 | σ=5.22 | edges=813 | active=1 | t=6s
+
+  激活统计 [WS_Control|seed=42]:
+    总记录步数: 8000
+    零值帧比例: 90.0%
+    平均激活数: 0.15
+    最大激活数: 6
+
+============================================================
+  结果 [WS_Control|seed=42|4-rules]
+  零值帧比例: 90.0% ✓
+  雪崩数: 797 ✓
+  τ_size=5.886 (R²=0.989) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.019 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: WS_Control | seed=7 | 4-rules
+  [WS_Control|seed=7|4r|学习] step=0/16000 | σ=10.40 | edges=2222 | active=13 | t=0s
+  [WS_Control|seed=7|4r|学习] step=1000/16000 | σ=8.91 | edges=1785 | active=3 | t=0s
+  [WS_Control|seed=7|4r|学习] step=2000/16000 | σ=7.43 | edges=1428 | active=5 | t=1s
+  [WS_Control|seed=7|4r|学习] step=3000/16000 | σ=7.22 | edges=1182 | active=9 | t=1s
+  [WS_Control|seed=7|4r|学习] step=4000/16000 | σ=6.29 | edges=1032 | active=2 | t=2s
+  [WS_Control|seed=7|4r|学习] step=5000/16000 | σ=6.52 | edges=937 | active=7 | t=2s
+  [WS_Control|seed=7|4r|学习] step=6000/16000 | σ=6.05 | edges=894 | active=5 | t=3s
+  [WS_Control|seed=7|4r|学习] step=7000/16000 | σ=5.71 | edges=856 | active=4 | t=3s
+  [WS_Control|seed=7|4r|记录] step=8000/16000 | σ=5.42 | edges=837 | active=1 | t=4s
+  [WS_Control|seed=7|4r|记录] step=9000/16000 | σ=5.11 | edges=825 | active=6 | t=4s
+  [WS_Control|seed=7|4r|记录] step=10000/16000 | σ=5.16 | edges=821 | active=1 | t=4s
+  [WS_Control|seed=7|4r|记录] step=11000/16000 | σ=5.01 | edges=819 | active=1 | t=4s
+  [WS_Control|seed=7|4r|记录] step=12000/16000 | σ=4.55 | edges=817 | active=2 | t=5s
+  [WS_Control|seed=7|4r|记录] step=13000/16000 | σ=4.26 | edges=817 | active=1 | t=5s
+  [WS_Control|seed=7|4r|记录] step=14000/16000 | σ=3.57 | edges=816 | active=1 | t=5s
+  [WS_Control|seed=7|4r|记录] step=15000/16000 | σ=2.95 | edges=816 | active=2 | t=6s
+
+  激活统计 [WS_Control|seed=7]:
+    总记录步数: 8000
+    零值帧比例: 90.1%
+    平均激活数: 0.15
+    最大激活数: 10
+
+============================================================
+  结果 [WS_Control|seed=7|4-rules]
+  零值帧比例: 90.1% ✓
+  雪崩数: 795 ✓
+  τ_size=5.809 (R²=0.959) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.005 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+
+→ 运行: WS_Control | seed=13 | 4-rules
+  [WS_Control|seed=13|4r|学习] step=0/16000 | σ=10.16 | edges=2228 | active=27 | t=0s
+  [WS_Control|seed=13|4r|学习] step=1000/16000 | σ=9.53 | edges=1765 | active=8 | t=0s
+  [WS_Control|seed=13|4r|学习] step=2000/16000 | σ=8.69 | edges=1426 | active=3 | t=1s
+  [WS_Control|seed=13|4r|学习] step=3000/16000 | σ=8.62 | edges=1196 | active=6 | t=1s
+  [WS_Control|seed=13|4r|学习] step=4000/16000 | σ=6.69 | edges=1052 | active=16 | t=2s
+  [WS_Control|seed=13|4r|学习] step=5000/16000 | σ=6.34 | edges=961 | active=6 | t=2s
+  [WS_Control|seed=13|4r|学习] step=6000/16000 | σ=6.03 | edges=899 | active=4 | t=3s
+  [WS_Control|seed=13|4r|学习] step=7000/16000 | σ=6.11 | edges=862 | active=3 | t=3s
+  [WS_Control|seed=13|4r|记录] step=8000/16000 | σ=6.02 | edges=838 | active=1 | t=4s
+  [WS_Control|seed=13|4r|记录] step=9000/16000 | σ=5.89 | edges=824 | active=1 | t=4s
+  [WS_Control|seed=13|4r|记录] step=10000/16000 | σ=5.92 | edges=818 | active=8 | t=4s
+  [WS_Control|seed=13|4r|记录] step=11000/16000 | σ=6.01 | edges=817 | active=1 | t=4s
+  [WS_Control|seed=13|4r|记录] step=12000/16000 | σ=5.86 | edges=816 | active=1 | t=5s
+  [WS_Control|seed=13|4r|记录] step=13000/16000 | σ=5.39 | edges=816 | active=1 | t=5s
+  [WS_Control|seed=13|4r|记录] step=14000/16000 | σ=5.24 | edges=816 | active=2 | t=5s
+  [WS_Control|seed=13|4r|记录] step=15000/16000 | σ=5.01 | edges=816 | active=1 | t=6s
+
+  激活统计 [WS_Control|seed=13]:
+    总记录步数: 8000
+    零值帧比例: 90.0%
+    平均激活数: 0.16
+    最大激活数: 14
+
+============================================================
+  结果 [WS_Control|seed=13|4-rules]
+  零值帧比例: 90.0% ✓
+  雪崩数: 796 ✓
+  τ_size=5.159 (R²=0.936) ✗
+  τ_dur=inf (R²=0.000) ✗
+  κ(分支比)=0.000 ✗
+  PSD斜率=0.000 (R²=0.000) ✗
+  得分: 2/6
+  ============================================================
+
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:620: UserWarning: No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+  ax2.legend(fontsize=5)
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 28608 (\N{CJK UNIFIED IDEOGRAPH-6FC0}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 27963 (\N{CJK UNIFIED IDEOGRAPH-6D3B}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 25968 (\N{CJK UNIFIED IDEOGRAPH-6570}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 38646 (\N{CJK UNIFIED IDEOGRAPH-96F6}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 20540 (\N{CJK UNIFIED IDEOGRAPH-503C}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 24103 (\N{CJK UNIFIED IDEOGRAPH-5E27}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 27493 (\N{CJK UNIFIED IDEOGRAPH-6B65}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 65288 (\N{FULLWIDTH LEFT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 35760 (\N{CJK UNIFIED IDEOGRAPH-8BB0}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 24405 (\N{CJK UNIFIED IDEOGRAPH-5F55}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 38454 (\N{CJK UNIFIED IDEOGRAPH-9636}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 27573 (\N{CJK UNIFIED IDEOGRAPH-6BB5}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 65289 (\N{FULLWIDTH RIGHT PARENTHESIS}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 39057 (\N{CJK UNIFIED IDEOGRAPH-9891}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 29575 (\N{CJK UNIFIED IDEOGRAPH-7387}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 38634 (\N{CJK UNIFIED IDEOGRAPH-96EA}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 23849 (\N{CJK UNIFIED IDEOGRAPH-5D29}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 23610 (\N{CJK UNIFIED IDEOGRAPH-5C3A}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 23544 (\N{CJK UNIFIED IDEOGRAPH-5BF8}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 25454 (\N{CJK UNIFIED IDEOGRAPH-636E}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 23454 (\N{CJK UNIFIED IDEOGRAPH-5B9E}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 39564 (\N{CJK UNIFIED IDEOGRAPH-9A8C}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 20116 (\N{CJK UNIFIED IDEOGRAPH-4E94}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 65306 (\N{FULLWIDTH COLON}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 31070 (\N{CJK UNIFIED IDEOGRAPH-795E}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 32463 (\N{CJK UNIFIED IDEOGRAPH-7ECF}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 21160 (\N{CJK UNIFIED IDEOGRAPH-52A8}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 21147 (\N{CJK UNIFIED IDEOGRAPH-529B}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 23398 (\N{CJK UNIFIED IDEOGRAPH-5B66}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 35777 (\N{CJK UNIFIED IDEOGRAPH-8BC1}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 20004 (\N{CJK UNIFIED IDEOGRAPH-4E24}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 21327 (\N{CJK UNIFIED IDEOGRAPH-534F}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 35758 (\N{CJK UNIFIED IDEOGRAPH-8BAE}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 65292 (\N{FULLWIDTH COMMA}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 65307 (\N{FULLWIDTH SEMICOLON}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 20020 (\N{CJK UNIFIED IDEOGRAPH-4E34}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 30028 (\N{CJK UNIFIED IDEOGRAPH-754C}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 28857 (\N{CJK UNIFIED IDEOGRAPH-70B9}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 21151 (\N{CJK UNIFIED IDEOGRAPH-529F}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+/home/work/.openclaw/workspace/sdi_sim/sdi_experiment5_v2.py:622: UserWarning: Glyph 35889 (\N{CJK UNIFIED IDEOGRAPH-8C31}) missing from font(s) DejaVu Sans.
+  plt.savefig(f'{OUT}/exp5_v2_avalanche_results.png', dpi=150, bbox_inches='tight')
+
+✅ 结果已保存: /home/work/.openclaw/workspace/sdi_sim/exp5_v2_avalanche_results.json
+✅ 图表已保存: /home/work/.openclaw/workspace/sdi_sim/exp5_v2_avalanche_results.png
+
+======================================================================
+实验五v2汇总
+======================================================================
+
+网络+规则                        零帧%      雪崩数      τ_sz     τ_du     κ        PSD      得分    
+----------------------------------------------------------------------------------
+C.elegans_3-rules            90%  787      2.23     inf      0.000    0.01     2.0/6 
+C.elegans_4-rules            90%  797      5.40     inf      0.000    0.00     2.0/6 
+Human_HCP_3-rules            90%  769      1.65     inf      0.000    0.01     3.0/6 
+Human_HCP_4-rules            90%  798      5.01     inf      0.000    0.01     2.0/6 
+WS_Control_3-rules           90%  785      2.19     inf      0.000    0.01     2.0/6 
+WS_Control_4-rules           90%  796      5.62     inf      0.000    0.01     2.0/6 
+
+======================================================================
+
+最佳结果: Human_HCP | 3-rules | seed=42
+  τ_size=1.66, κ=0.000, 得分=3/6
+
+总耗时: 138s (2.3min)
+实验五v2完成。
