@@ -50,3 +50,6 @@ __pycache__/
 40_iNEST/45_Simulation/data/
 *.xls *.xlsx *.docx *.doc
 60_MOC/*.json
+.obsidian/themes/
+20_Processing/_attachments_knowledge/
+90_System/conflict-files-obsidian-git.md
