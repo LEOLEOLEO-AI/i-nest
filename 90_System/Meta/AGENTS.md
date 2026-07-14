@@ -1,6 +1,6 @@
 ﻿# Codex SuperAgent — TCC + iNEST 研发中枢
 
-> 自进化全局规则 v4.2 | 2026-07-11
+> 自进化全局规则 v4.3 | 2026-07-14
 > 适用范围：D:\Obsidian 全域 + 所有 Codex 会话
 
 ---
@@ -46,22 +46,28 @@
 | 二级目录 | `{序号}_{英文}` | `31_Theory` |
 | 文件 | `{主题}_{版本}.md` | `cst_criticality_v2.md` |
 
-- **严禁中文目录名和文件名**（路径中的中文导致跨平台乱码）
+- **严禁中文目录名和文件名**
 - 创建新文件前，先确认是否已有同类内容可复用
-- 同一主题多版本用 `_v1`, `_v2` 后缀，旧版移入 `80_Archive`
 
 #### ③ Git 白名单（强制）
-进 Git 仓库的只有四类文件：
-
 | ✅ 必须进 Git | ❌ 严禁进 Git |
 |---------------|---------------|
-| `.md` 笔记/论文/文档 | `.pdf` 文献缓存（归档后可删） |
-| `.py` / `.m` 仿真源码 | `.json` / `.npy` / `.mat` / `.h5` 数据文件 |
-| `.yaml` / `.json` 配置 | `.js` Obsidian 插件二进制 |
-| `.gitignore` / `.ps1` 脚本 | 任何 >5MB 单文件 |
+| `.md` 笔记/论文/文档 | `.pdf` `.json` `.npy` `.mat` `.h5` 数据 |
+| `.py` `.m` 仿真源码 | `.js` 插件二进制 |
+| `.yaml` `.gitignore` 配置 | 任何 >5MB 单文件 |
 
-- **每次提交前检查**：`git status` 中不应出现被禁文件类型
-- 数据文件（connectome、仿真输出）仅存本地，路径写入 `.gitignore`
+### 1.5 Git 同步铁律 ⛔
+
+```
+git push --force github main   ← 永远禁止！会覆盖他人成果
+git push github main           ← 唯一允许方式
+```
+
+**所有平台（Codex/Obsidian/Genspark）强制执行：**
+1. **先 pull，再 push** — 绝不跳过
+2. **push 被拒 → 重新 pull → 再 push** — 绝不用 force 绕过
+3. **pull 冲突 → 停止 → 人工处理** — 弹窗告警，不自动合并
+4. **Genspark 同步指令已同步此规则**
 
 ---
 
@@ -93,22 +99,17 @@
 
 ## 四、项目看板
 
-- 研发看板：[http://127.0.0.1:8899/home/work/.openclaw/workspace/70_Dashboard/index.html](http://127.0.0.1:8899/home/work/.openclaw/workspace/70_Dashboard/index.html)
 - 同步架构：[http://127.0.0.1:8899/home/work/.openclaw/workspace/90_System/Meta/Sync_Architecture.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/90_System/Meta/Sync_Architecture.md)
 - Obsidian 主页：[http://127.0.0.1:8899/home/Home.md](http://127.0.0.1:8899/home/Home.md)
 
 ---
 
-## 五、快速命令参考
+## 五、快速命令
 
 | 命令 | 功能 |
 |------|------|
-| `同步github` | Codex 对话触发完整同步（得到大脑 + Git） |
-| `powershell -File "D:\Obsidian\scripts\gitee_sync.ps1"` | 终端手动同步 |
-| `powershell -File "D:\Obsidian\scripts\check_sync_health.ps1"` | 同步健康检查 |
-| `python D:\Obsidian\scripts\llm_router.py --switch <provider>` | 切换LLM |
-| `cc-connect daemon start` | 微信桥接 |
+| `同步github` | 完整同步（得到大脑+Git） |
+| `powershell -File "D:\Obsidian\scripts\check_sync_health.ps1"` | 健康检查 |
 
 ### 环境变量
 - `DS_API_KEY` — SiliconFlow / DeepSeek
-- `GITHUB_TOKEN` — GitHub Models

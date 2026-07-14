@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-iNEST+TCC Research Pipeline v3.0 閿?Unified Daily Crawl 閿?Classify 閿?Graph
+iNEST+TCC Research Pipeline v3.4  --  Unified Daily Crawl -> Classify -> Graph 閿?Unified Daily Crawl 閿?Classify 閿?Graph
 Combines daily_crawl.py + iNEST_crawler.py + build_graph.py
-Fixed: NoneType crash, GBK encoding, deduped sources, TCC/iNEST focus
+Fixes: proxy support, arXiv retry, S2 graceful fallback, UTF-8 encoding
 """
 import os, sys, json, re, time, ssl
 from datetime import datetime, timedelta
@@ -12,6 +12,13 @@ import urllib.request, urllib.parse, urllib.error
 import time
 import sys
 sys.path.insert(0, r"D:\\Obsidian\\scripts")
+
+# === Proxy Setup for arXiv / Google News access ===
+PROXY_URL = os.environ.get("HTTPS_PROXY", os.environ.get("https_proxy", "http://127.0.0.1:26318"))
+PROXY_HANDLER = urllib.request.ProxyHandler({"https": PROXY_URL, "http": PROXY_URL})
+PROXY_OPENER = urllib.request.build_opener(PROXY_HANDLER)
+COMMON_UA = "Mozilla/5.0 (compatible; iNEST-Pipeline/3.4)"
+
 from llm_router import llm_call
 sys.path.insert(0, r'D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts')
 from enhance_papers import is_duplicate_crossday, mark_as_seen, enrich_paper_file, extract_s2_id_from_url, enrich_with_s2_detail
@@ -125,7 +132,7 @@ new_count = 0
 
 # 閳光偓閳光偓 Helpers 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
 def log(msg):
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
 
 def is_new(title):
     key = title.strip().lower()[:80]
@@ -345,63 +352,132 @@ def crawl_semantic_scholar():
     return count
 
 # 閳光偓閳光偓 Source 2: arXiv 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
-def crawl_arxiv():
-    """Search arXiv with 5 sec delay between queries."""
-    log("[arXiv] 濡偓缁?arXiv (娴溿倕寮堕弻銉嚄)...")
+
+def crawl_s2():
+    """Search Semantic Scholar with API key, graceful fallback."""
+    if not S2_API_KEY:
+        log("[S2] No API key, skipping S2.")
+        return 0
+    log("[S2] Searching Semantic Scholar (%d queries)..." % len(S2_QUERIES))
     count = 0
+    errors = 0
+    headers = {"x-api-key": S2_API_KEY, "User-Agent": COMMON_UA}
+    for q in S2_QUERIES:
+        url = "https://api.semanticscholar.org/graph/v1/paper/search?query=" + urllib.parse.quote(q) + "&limit=10&fields=title,year,abstract,externalIds,url,publicationDate"
+        req = urllib.request.Request(url, headers=headers)
+        try:
+            with PROXY_OPENER.open(req, timeout=30) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+            papers = data.get("data", [])
+            for p in papers:
+                title = p.get("title", "")
+                if not title or not is_new(title):
+                    continue
+                year = p.get("year", 0) or 0
+                abstract = (p.get("abstract") or "")[:500]
+                link = p.get("url", "")
+                if not link:
+                    ext_ids = p.get("externalIds", {})
+                    link = "https://api.semanticscholar.org/CorpusID:" + str(ext_ids.get("CorpusId", ""))
+                ql = q.lower()
+                track = "General"
+                if any(w in ql for w in ["noc", "chiplet", "interconnect", "wafer", "topology", "routing"]):
+                    track = "TCC"
+                elif any(w in ql for w in ["critical", "neuromorphic", "emergence", "neural", "free energy", "information"]):
+                    track = "iNEST"
+                if write_insight(title, abstract, link, "SemanticScholar", track, str(year)):
+                    count += 1
+            time.sleep(S2_DELAY)
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                log("  S2: 429 rate limited, pausing 30s...")
+                time.sleep(30)
+            elif e.code == 403:
+                log("  S2: 403 Forbidden, skipping S2.")
+                return count
+            else:
+                log("  S2: HTTP %d" % e.code)
+                errors += 1
+        except Exception as e:
+            msg = str(e)[:80]
+            log("  S2 error (%s): %s" % (q[:40], msg))
+            errors += 1
+            time.sleep(5)
+    log("[S2] %d new papers, %d errors" % (count, errors))
+    return count
+
+def crawl_arxiv():
+    """Search arXiv with proxy, retry, and 5s delay between queries."""
+    log("[arXiv] Searching arXiv (via proxy, %d queries)..." % len(ARXIV_QUERIES))
+    count = 0
+    errors = 0
     for label, q in ARXIV_QUERIES:
         today = datetime.now().strftime("%Y%m%d")
         week_ago = (datetime.now() - timedelta(days=7)).strftime("%Y%m%d")
-        url = f"https://export.arxiv.org/api/query?search_query={urllib.parse.quote(q)}+AND+submittedDate:[{week_ago}+TO+{today}]&start=0&max_results=5&sortBy=submittedDate&sortOrder=descending"
-        req = urllib.request.Request(url, headers={"User-Agent": "iNEST-Pipeline/3.0"})
-        try:
-            with urllib.request.urlopen(req, context=ctx, timeout=15) as resp:
-                root = ET.fromstring(resp.read().decode("utf-8"))
-            ns = {"atom": "http://www.w3.org/2005/Atom"}
-            for entry in root.findall("atom:entry", ns):
-                t = entry.find("atom:title", ns)
-                p_el = entry.find("atom:published", ns)
-                i_el = entry.find("atom:id", ns)
-                s_el = entry.find("atom:summary", ns)
-                if t is None or p_el is None:
-                    continue
-                title = t.text.strip().replace("\n", " ") if t.text else ""
-                pubdate = p_el.text[:10] if p_el.text else ""
-                link = i_el.text.strip() if i_el is not None and i_el.text else ""
-                abstract = s_el.text.strip().replace("\n", " ")[:500] if s_el is not None and s_el.text else ""
-                try:
-                    pd = datetime.strptime(pubdate, "%Y-%m-%d") if pubdate else datetime.now()
-                    if (datetime.now() - pd).days > 7:
+        url = "https://export.arxiv.org/api/query?search_query=" + urllib.parse.quote(q) + "+AND+submittedDate:[" + week_ago + "+TO+" + today + "]&start=0&max_results=5&sortBy=submittedDate&sortOrder=descending"
+        req = urllib.request.Request(url, headers={"User-Agent": COMMON_UA})
+        for attempt in range(3):
+            try:
+                with PROXY_OPENER.open(req, timeout=30) as resp:
+                    data = resp.read()
+                root = ET.fromstring(data.decode("utf-8"))
+                ns = {"atom": "http://www.w3.org/2005/Atom"}
+                for entry in root.findall("atom:entry", ns):
+                    t = entry.find("atom:title", ns)
+                    p_el = entry.find("atom:published", ns)
+                    i_el = entry.find("atom:id", ns)
+                    s_el = entry.find("atom:summary", ns)
+                    if t is None or p_el is None:
                         continue
-                except:
-                    pass
-                track = "iNEST" if label.startswith("iNEST") else ("TCC" if label.startswith("TCC") else "General")
-                if write_insight(title, abstract, link, "arXiv", track, pubdate[:4]):
-                    count += 1
-        except urllib.error.HTTPError as e:
-            log(f"  arXiv {label}: HTTP {e.code}")
-            if e.code == 429:
-                time.sleep(20)
-        except urllib.error.URLError as e:
-            log(f"  arXiv {label}: network error, skipping")
-            continue
-        except Exception as e:
-            log(f"  arXiv {label}: {str(e)[:60]}")
-            continue
-        time.sleep(3)  # Rate limit
-    log(f"[arXiv] Coverage: {count} new in last 7 days across {len(ARXIV_QUERIES)} queries")
+                    title = t.text.strip().replace("\n", " ") if t.text else ""
+                    pubdate = p_el.text[:10] if p_el.text else ""
+                    link = i_el.text.strip() if i_el is not None and i_el.text else ""
+                    abstract = s_el.text.strip().replace("\n", " ")[:500] if s_el is not None and s_el.text else ""
+                    try:
+                        pd = datetime.strptime(pubdate, "%Y-%m-%d") if pubdate else datetime.now()
+                        if (datetime.now() - pd).days > 7:
+                            continue
+                    except:
+                        pass
+                    track = "iNEST" if label.startswith("iNEST") else ("TCC" if label.startswith("TCC") else "General")
+                    if write_insight(title, abstract, link, "arXiv", track, pubdate[:4]):
+                        count += 1
+                break
+            except urllib.error.HTTPError as e:
+                if e.code == 429:
+                    wait = 10 * (attempt + 1)
+                    log("  arXiv %s: 429 rate limit, waiting %ds..." % (label, wait))
+                    time.sleep(wait)
+                elif e.code >= 500:
+                    wait = 5 * (attempt + 1)
+                    log("  arXiv %s: HTTP %d, retry %d..." % (label, e.code, attempt + 1))
+                    time.sleep(wait)
+                else:
+                    log("  arXiv %s: HTTP %d, skipping" % (label, e.code))
+                    errors += 1
+                    break
+            except Exception as e:
+                msg = str(e)[:80]
+                if attempt < 2:
+                    log("  arXiv %s: %s, retry %d..." % (label, msg, attempt + 1))
+                    time.sleep(5 * (attempt + 1))
+                else:
+                    log("  arXiv %s: %s, giving up" % (label, msg))
+                    errors += 1
+                    break
+        time.sleep(5)
+    log("[arXiv] %d new papers, %d errors across %d queries" % (count, errors, len(ARXIV_QUERIES)))
     return count
-
 def crawl_google_news():
     """Fetch latest tech/science news from Google News RSS."""
     log("[GN] Google News RSS...")
     count = 0
     for track, q in GN_QUERIES:
-        url = f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        url = "https://news.google.com/rss/search?q=" + q + "&hl=en-US&gl=US&ceid=US:en"
+        req = urllib.request.Request(url, headers={"User-Agent": COMMON_UA})
         try:
-            with urllib.request.urlopen(req, context=ctx, timeout=20) as resp:
-                root = ET.fromstring(resp.read().decode("utf-8"))
+            with PROXY_OPENER.open(req, timeout=30) as resp:
+                root = ET.fromstring(resp.read().decode("utf-8", errors="ignore"))
             for item in root.findall(".//item"):
                 t = item.find("title")
                 l = item.find("link")
@@ -756,8 +832,7 @@ def main():
     start = time.time()
     
     # Stage 1: Crawl
-    log("[S2] Skipped (rate limited). Using arXiv only.")
-    c1 = 0
+    c1 = crawl_s2()
     c2 = crawl_arxiv()
     c3 = crawl_google_news()
     
