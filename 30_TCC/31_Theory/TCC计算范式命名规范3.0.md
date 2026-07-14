@@ -1,4 +1,4 @@
-﻿---
+---
 title: "TCC Naming Convention v3.0"
 created: 2026-06-30
 aliases: ["TCC命名约定v3", "Primitive Naming v3", "原语命名规范"]
@@ -18,21 +18,21 @@ status: authoritative
 | v0 (非正式) | 2025 | TCC | NPC-/CPC- | 5+4=9 | NPC与CPC前缀冗长，与NCCL混淆 |
 | v1.0 (TCC原语库) | 2026.04 | TCC | tcc.VERB | 4+4+1+2=11 | 单层前缀，缺少类别区分 |
 | v1.x (项目申报) | 2026.06 | TCC | NPC-/CPC- | 6+6=12 | 沿袭v0前缀，与v1.0动词名脱节 |
-| **v3.0 (本规范)** | **2026.06** | **TCC** | **R./T./C.** | **6+6+4=16** | **三层前缀，动词名统一，全体系覆盖** |
+| **v3.0 (本规范)** | **2026.06** | **TCC** | **T./R./C.** | **6+6+4=16** | **三层前缀，动词名统一，全体系覆盖** |
 
-> **注**：v2 编号保留给内部草稿 `NCC_Naming_Convention_v2`（存在于得到笔记中，未正式发布）。v3.0 继承 v1.0 的动词命名哲学和 v1.x 的 6R+6T 覆盖宽度，引入 R.T.C 三层前缀体系。
+> **注**：v2 编号保留给内部草稿 `NCC_Naming_Convention_v2`（存在于得到笔记中，未正式发布）。v3.0 继承 v1.0 的动词命名哲学和 v1.x 的 6R+6T 覆盖宽度，引入 T.R.C 三层前缀体系。
 
 ### 统一原则
 
 1. **TCC → TCC**：范式名统一为 Topology-Centric Computing，弃用 Network-Centric Computing（TCC 易与 NVIDIA NCCL 混淆）
-2. **NPC → R**：网络通信原语前缀改为 `R.`（Route），强调"路由即拓扑"
-3. **CPC → T**：计算原语前缀改为 `T.`（Transform），源自 Route-Transform 分解定理
+2. **NPC → T**：网络通信原语前缀改为 `T.`（Topology），强调"拓扑即计算"
+3. **CPC → R**：计算原语前缀改为 `R.`（Reduction），源自 Route-Reduce 分解定理
 4. **新增 C.**：控制与系统原语前缀 `C.`（Control），覆盖配置/时钟/同步/DMA
 5. **动词名继承 v1.0**：保留四字母英语动词（FUSE/PULL/CAST/SWAP/GEMM/FOLD/MAPS/SCAN/LOOK/SPEC/PIPE/MESH/LINK/TICK/SYNC/MOVE），全部可发音
 
 ---
 
-## 一、前缀体系：R.T.C
+## 一、前缀体系：T.R.C
 
 ```
 TCC Primitive = <Prefix>.<VERB>
@@ -43,17 +43,17 @@ VERB   = 4-letter English verb, pronounceable, all caps
 
 | 前缀 | 全称 | 语义域 | 覆盖旧前缀 | 原语数 |
 |------|------|--------|-----------|--------|
-| `R.` | **R**oute | 路由/通信/网络拓扑操作 | NPC-*, tcc.{FUSE,PULL,CAST,SWAP} | 6 |
-| `T.` | **T**ransform | 计算/变换/节点内代数操作 | CPC-*, tcc.{GEMM,FOLD,MAPS,SCAN} | 6 |
+| `T.` | **T**opology | 路由/通信/网络拓扑操作 | NPC-*, tcc.{FUSE,PULL,CAST,SWAP} | 6 |
+| `R.` | **R**eduction | 计算/变换/节点内代数操作 | CPC-*, tcc.{GEMM,FOLD,MAPS,SCAN} | 6 |
 | `C.` | **C**ontrol | 系统控制/配置/时序/DMA | tcc.{LINK,TICK,MOVE}, (new)SYNC | 4 |
 
-**助记**：R = Route（数据在路上，on the wire），T = Transform（数据在节点，in the node），C = Control（系统在掌舵，at the helm）
+**助记**：T = 数据在路上 (on the wire)，R = 数据在节点 (in the node)，C = 系统在掌舵 (at the helm)
 
 ---
 
 ## 二、原语总表：TCC-16
 
-### 2.1 R.* — Route Primitives（路由原语，6个）
+### 2.1 T.* — Topology Primitives（路由原语，6个）
 
 | # | 原语名 | 发音 | 旧 NPC | 旧 tcc.* | 语义 | 最优拓扑 |
 |---|--------|------|--------|----------|------|----------|
@@ -64,7 +64,7 @@ VERB   = 4-letter English verb, pronounceable, all caps
 | T5 | `R.PIPE` | /paip/ | NPC-RS | — | ReduceScatter：分段流水归约 | Ring Pipeline |
 | T6 | `R.MESH` | /mesh/ | NPC-MESH | — | Neighbor Exchange：邻居通信 | 2D Mesh |
 
-### 2.2 T.* — Transform Primitives（变换原语，6个）
+### 2.2 R.* — Reduction Primitives（变换原语，6个）
 
 | # | 原语名 | 发音 | 旧 CPC | 旧 tcc.* | 语义 | 物理实现 |
 |---|--------|------|--------|----------|------|----------|
@@ -92,7 +92,7 @@ VERB   = 4-letter English verb, pronounceable, all caps
 TCC v3.0 MIGRATION MAP
 
 v3.0      v1.0       v0/v1.x    语义
-R.T.C     tcc.VERB   NPC/CPC
+T.R.C     tcc.VERB   NPC/CPC
 ------    --------   -------    ----
 R.FUSE    tcc.FUSE   NPC-AR     AllReduce
 R.PULL    tcc.PULL   NPC-AG     AllGather
@@ -118,12 +118,12 @@ C.MOVE    tcc.MOVE   —          DMA / Data Movement
 
 ### 4.1 正交最小性
 
-R.T.C 三层前缀天然正交：任意 R.* 原语仅操作网络数据流，任意 T.* 原语仅操作节点内数据，任意 C.* 原语仅操作系统状态。不存在跨层等价替代。
+T.R.C 三层前缀天然正交：任意 T.* 原语仅操作网络数据流，任意 R.* 原语仅操作节点内数据，任意 C.* 原语仅操作系统状态。不存在跨层等价替代。
 
 ### 4.2 代数完备性
 
-- **R.* (6个)**：{FUSE, PULL, CAST, SWAP, PIPE, MESH} 构成分布式路由完备基
-- **T.* (6个)**：{GEMM, FOLD, MAPS, SCAN, LOOK, SPEC} 构成节点内图灵完备计算
+- **T.* (6个)**：{FUSE, PULL, CAST, SWAP, PIPE, MESH} 构成分布式路由完备基
+- **R.* (6个)**：{GEMM, FOLD, MAPS, SCAN, LOOK, SPEC} 构成节点内图灵完备计算
 - **C.* (4个)**：{LINK, TICK, SYNC, MOVE} 覆盖运行时控制全生命周期
 
 ---
@@ -134,23 +134,23 @@ R.T.C 三层前缀天然正交：任意 R.* 原语仅操作网络数据流，任
 
 ```
 // RTL 模块命名
-module r_route_fuse (...)       // R.FUSE RTL IP
-module t_transform_gemm (...)   // T.GEMM RTL IP
-module c_control_link (...)     // C.LINK RTL IP
+module t_topology_fuse (...)   // R.FUSE RTL IP
+module t_reduce_gemm (...)     // T.GEMM RTL IP
+module t_control_link (...)    // C.LINK RTL IP
 
 // API 调用
-tcc.r.fuse(data, op=SUM);
-tcc.t.gemm(a, b, c);
+tcc.t.fuse(data, op=SUM);
+tcc.r.gemm(a, b, c);
 tcc.c.link.config(butterfly);
 ```
 
 ### 5.2 文档与论文引用
 
 项目实施方案中 "6R+6T" 迁移映射：
-- "6R" (Route primitives) -> R.{FUSE|PULL|CAST|SWAP|PIPE|MESH}
-- "6T" (Transform primitives) -> T.{GEMM|FOLD|MAPS|SCAN|LOOK|SPEC}
+- "6R" (Route primitives) -> T.{FUSE|PULL|CAST|SWAP|PIPE|MESH}
+- "6T" (Transform primitives) -> R.{GEMM|FOLD|MAPS|SCAN|LOOK|SPEC}
 
-论文中使用完整拼写：`R.FUSE: Route Fuse (AllReduce) primitive`
+论文中使用完整拼写：`R.FUSE: Topology Fuse (AllReduce) primitive`
 
 ---
 
