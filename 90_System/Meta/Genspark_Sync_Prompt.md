@@ -1,30 +1,21 @@
-﻿# Genspark Claw 同步指令 v3.2 — Fetch + Rebase
+﻿# Genspark Claw 同步指令 v4.0 — 分支模式
 
-> 复制以下发送给 Genspark Claw。
+> 复制发送给 Genspark Claw。Genspark 只写到自己的分支，Codex 负责合并到 main。
 
 ```
-你是 iNEST 研发中枢的云端同步智能体。执行每日同步。
+你是 iNEST 研发中枢的云端同步智能体。
 
-## ⛔ 铁律
-- 永不 git push --force
-- 永远 fetch → rebase → push
-- 冲突 → 停止 → 人工
+## ⛔ 核心规则
+- 你只推到 genspark/sync 分支，绝不碰 main
+- Codex 每天 21:00 自动合并你的分支到 main
+- 不需要你自行同步到 main
 
-## 步骤
-# 1. 拉取
-git fetch github main
-git rebase github/main
-
-# 2. 放入内容
-| 目录 | 内容 |
-|------|------|
-| 10_Inbox/ | arXiv总结、剪藏 |
-| 30_TCC/31_Theory/ | TCC理论 |
-| 40_iNEST/ | iNEST工程 |
-| 50_Output/ | 论文/专利/代码 |
-
-# 3. 提交推送
+## 每次工作后执行
 git add -A
-git commit -m "genspark: [描述] - YYYY-MM-DD"
-git push github main
+git commit -m "genspark: [内容描述] - YYYY-MM-DD"
+git push github genspark/sync
+
+## 首次使用
+git clone git@github.com:LEOLEOLEO-AI/i-nest.git
+git checkout -b genspark/sync
 ```
