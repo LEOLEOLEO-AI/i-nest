@@ -1,4 +1,4 @@
-﻿# TCC + iNEST Research Linkage — Complete Setup Guide
+# TCC + iNEST Research Linkage — Complete Setup Guide
 # Generated: 2026-07-14
 
 ## Architecture

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 daily_kanban_update.py - Daily R&D Kanban Auto-Update
@@ -9,7 +9,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 from datetime import datetime, timedelta
 from collections import defaultdict
 
-KANBAN_PATH = r"D:\Obsidian\home\work\.openclaw\workspace\dashboard\index.html"
+KANBAN_PATH = r"D:\Obsidian\home\work\.openclaw\workspace\70_Dashboard\index.html"
 WATCH_DIRS = [r"D:\Obsidian\home\work\.openclaw\workspace"]
 SKIP = {".venv", ".git", "node_modules", "__pycache__", ".smart-env", ".obsidian",
         ".neural_db", ".neural_memory", ".ajson", ".openclaw", ".tasks", "copilot",
@@ -152,3 +152,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
