@@ -1,0 +1,20 @@
+{
+  "id": "genspark-im",
+  "channels": ["genspark-im"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  },
+  "channelConfigs": {
+    "genspark-im": {
+      "label": "Genspark IM",
+      "description": "Send and receive messages via Genspark IM.",
+      "schema": {
+        "type": "object",
+        "additionalProperties": true
+      }
+    }
+  }
+}
+

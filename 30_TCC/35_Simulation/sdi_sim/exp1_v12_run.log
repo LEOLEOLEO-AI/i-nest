@@ -1,0 +1,29 @@
+
+=======================================================
+C.elegans  N=279  [neuron]
+=======================================================
+  [C.elegans] N=279 e=2232 σ₀=7.63 C₀=0.263
+  seed=42: σ=7.636 C=0.262 L=3.409 α=N/A EL=24.9% av=1(μ=557088.0) (4.1s)
+  [C.elegans] N=279 e=2232 σ₀=7.52 C₀=0.273
+  seed=7: σ=7.516 C=0.273 L=3.621 α=N/A EL=23.3% av=1(μ=557026.0) (4.1s)
+  [C.elegans] N=279 e=2232 σ₀=7.62 C₀=0.260
+  seed=13: σ=7.621 C=0.260 L=3.437 α=N/A EL=23.3% av=1(μ=559091.0) (4.1s)
+  [C.elegans] N=279 e=2232 σ₀=7.32 C₀=0.279
+  seed=99: σ=7.316 C=0.279 L=3.772 α=N/A EL=22.9% av=1(μ=560964.0) (4.1s)
+  [C.elegans] N=279 e=2232 σ₀=7.57 C₀=0.273
+  seed=2024: σ=7.586 C=0.272 L=3.529 α=N/A EL=24.4% av=1(μ=556983.0) (4.1s)
+
+--- C.elegans SUMMARY (5 seeds) ---
+  ✅ sigma : 7.535±0.117  (target ≥4.0)
+  ✅ C     : 0.269±0.007  (target ≥0.25)
+  ❌ L     : 3.554±0.132  (target [2.0,3.5])
+Traceback (most recent call last):
+  File "/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v12.py", line 509, in <module>
+    main()
+  File "/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v12.py", line 442, in main
+    all_r[name]=run_species(name,sp)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v12.py", line 435, in run_species
+    f'{m:6s}: {mu:.3f}±{sd:.3f}  (target {tgt_str})')
+              ^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__

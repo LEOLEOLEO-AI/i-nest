@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "106d1628e2c018ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "12be0295476212f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39c3a39345de06cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "e178233722fe2fcc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "http://127.0.0.1:8899/home/work/.openclaw/workspace/Home.md",
+                "title": "127.0.0.1:8899/home/work/.openclaw/workspace/Home.md",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "127.0.0.1:8899/home/work/.openclaw/workspace/Home.md"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be3984518743f32a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b089f969c26a7a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23436690568efc2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a886d14b16ce4383",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f18428db94e58f6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "right": {
+    "id": "b131a582ddb31d11",
+    "type": "split",
+    "children": [
+      {
+        "id": "4232bf98c18c88a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "522b019866f7372c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "50_Output/51_Papers/TCC/SUBMISSION_READY_Topology_Centric_Computing_v1.0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "SUBMISSION_READY_Topology_Centric_Computing_v1.0 的反向链接列表"
+            }
+          },
+          {
+            "id": "92b6baa0fc41efdc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "50_Output/51_Papers/TCC/SUBMISSION_READY_Topology_Centric_Computing_v1.0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "SUBMISSION_READY_Topology_Centric_Computing_v1.0 的出链列表"
+            }
+          },
+          {
+            "id": "051dfdec4cf3818f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1e8abe7154b7ddbb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4bed42dc523ae559",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "50_Output/51_Papers/TCC/SUBMISSION_READY_Topology_Centric_Computing_v1.0.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "SUBMISSION_READY_Topology_Centric_Computing_v1.0 的大纲"
+            }
+          },
+          {
+            "id": "6787a70ce9c7fac0",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 825.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markitdown:Convert to Markdown": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false,
+      "wechat-messenger:tongbuzhushou": false
+    }
+  },
+  "active": "e178233722fe2fcc",
+  "lastOpenFiles": [
+    "sdi_sim/_v28_fpga_estimate.py",
+    "sdi_sim/_run_v22_safe.py",
+    "sdi_sim/_rebuild_v28.py",
+    "sdi_sim/_opt_v22.py",
+    "sdi_sim/_fix_v27.py",
+    "sdi_sim/_build_v23.py",
+    "sdi_sim/w23_topology_pipeline.py",
+    "sdi_sim/week1_pipeline.py",
+    "sdi_sim/w23_topology_fast.py",
+    "sdi_sim/w23_comprehensive_statistics.py",
+    "sdi_sim/V6_AUDIT_AND_ROADMAP.md",
+    "sdi_sim/V29_Simulation_Advancement_Plan.md",
+    "sdi_sim/v24_fpga_mapping.py",
+    "sdi_sim/v22_Strategy.md",
+    "sdi_sim/v22_SelfEvolution_Design.md",
+    "sdi_sim/SDSoW_Hardware_Mapping.md",
+    "sdi_sim/SDI_Rules_Bio_Evidence_v1.md",
+    "sdi_sim/SDI_Research_Report.md",
+    "sdi_sim/SDI_Paper_Draft.md",
+    "sdi_sim/SDI_Four_Rules_v5_FINAL.md",
+    "sdi_sim/SDI_Four_Rules_References_FINAL.md",
+    "sdi_sim/exp4_summary.md",
+    "sdi_sim/exp3_analysis_report.md",
+    "sdi_sim/CST_Parameter_Review_v2.md",
+    "TCC计算范式/TCC计算范式/01_论文/CST_V25_submission_20260518/CST_Intelligence_Emergence_Paper_V25_FINAL.md",
+    "TCC计算范式/TCC计算范式/01_论文/B组_SDI-CC互连体系/B3_P-Paradigm_NatureElectronics_框架.md",
+    "TCC计算范式/TCC计算范式/01_论文/A组_CST基础理论/A9_ActiveInference_FEP_CST.md",
+    "TCC计算范式/TCC计算范式/01_论文/A组_CST基础理论/A12_CS_CST_MathBridge.md",
+    "TCC计算范式/01_论文/01_论文/CST_V25_submission_20260518/CST_Intelligence_Emergence_Paper_V25_FINAL.md",
+    "TCC计算范式/01_论文/01_论文/B组_SDI-CC互连体系/B3_P-Paradigm_NatureElectronics_框架.md",
+    "TCC计算范式/01_论文/01_论文/A组_CST基础理论/A9_ActiveInference_FEP_CST.md",
+    "TCC计算范式/01_论文/01_论文/A组_CST基础理论/A12_CS_CST_MathBridge.md",
+    "TCC计算范式/TCC计算范式/05_关键技术/系统架构与数据流程草图笔记.md",
+    "TCC计算范式/TCC计算范式/05_关键技术/无标题.md",
+    "TCC计算范式/TCC计算范式/05_关键技术/基于 FPGA 的 伊辛机 (Ising Machine) 仿真与实验平台.md",
+    "TCC计算范式/TCC计算范式/05_关键技术/从晶圆到代码，全开源！Aegis：首个“从硅开始”的开源FPGA来了.md",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/font_atlas.png",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/blue_noise_med.png",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/ui-icons/sidebar.svg",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/redbook.svg",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/github.svg",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/douyin.svg",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/bilibili.svg",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/skill/dashiai-ppt-favicon.png",
+    "30_TCC/31_Theory/tcc_paper_background_assets/image9.png",
+    "30_TCC/31_Theory/tcc_paper_background_assets/image8.png",
+    "80_Archive/Inbox_legacy/待分类/未命名.canvas",
+    "80_Archive/05_Fleeting/待分类/未命名.canvas",
+    "Inbox/待分类/未命名.canvas",
+    "05_Fleeting/待分类/未命名.canvas"
+  ]
+}
