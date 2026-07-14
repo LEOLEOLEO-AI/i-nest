@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        margin: 0; width: 1920px; height: 1080px; overflow: hidden;
+        background: #050510;
+        font-family: system-ui, -apple-system, sans-serif;
+      }
+      #root {
+        position: relative; width: 1920px; height: 1080px;
+      }
+      .scene-content {
+        position: absolute; inset: 0;
+        display: flex; flex-direction: column;
+        justify-content: center; align-items: center;
+        width: 100%; height: 100%; padding: 80px;
+        box-sizing: border-box;
+      }
+      .bg-glow {
+        position: absolute; border-radius: 50%;
+        filter: blur(120px); opacity: 0;
+      }
+      .bg-glow-cyan {
+        width: 700px; height: 700px; background: #00e5ff;
+        top: 50%; left: 50%; transform: translate(-50%, -50%);
+      }
+      .bg-glow-violet {
+        width: 500px; height: 500px; background: #7b2ff7;
+        top: 45%; left: 55%; transform: translate(-50%, -50%);
+      }
+      .bg-glow-deep {
+        width: 900px; height: 400px; background: #1a0a3e;
+        top: 55%; left: 50%; transform: translate(-50%, -50%);
+      }
+      .brain-container {
+        position: absolute; top: 50%; left: 50%;
+        transform: translate(-50%, -50%);
+        width: 800px; height: 600px;
+      }
+      .facet {
+        position: absolute;
+        background: linear-gradient(135deg, rgba(0,229,255,0.3) 0%, rgba(123,47,247,0.15) 100%);
+        border: 1px solid rgba(0,229,255,0.4);
+        box-shadow: 0 0 20px rgba(0,229,255,0.2), inset 0 0 30px rgba(123,47,247,0.1);
+        opacity: 0;
+        backdrop-filter: blur(2px);
+      }
+      .facet-edge {
+        background: transparent;
+        border-color: rgba(0,229,255,0.6);
+        box-shadow: 0 0 15px rgba(0,229,255,0.3);
+      }
+      .facet-core {
+        background: linear-gradient(135deg, rgba(0,229,255,0.5) 0%, rgba(123,47,247,0.3) 100%);
+        border-color: rgba(255,255,255,0.3);
+        box-shadow: 0 0 40px rgba(0,229,255,0.4), inset 0 0 50px rgba(0,229,255,0.2);
+      }
+      #neural-svg {
+        position: absolute; top: 50%; left: 50%;
+        transform: translate(-50%, -50%);
+        width: 800px; height: 600px;
+        pointer-events: none;
+      }
+      .neural-line {
+        stroke: rgba(0,229,255,0.4);
+        stroke-width: 1.5; fill: none;
+        stroke-dasharray: 400; stroke-dashoffset: 400;
+      }
+      .neural-line-violet {
+        stroke: rgba(123,47,247,0.35);
+      }
+      .synapse {
+        position: absolute; border-radius: 50%;
+        background: #00e5ff;
+        box-shadow: 0 0 8px #00e5ff, 0 0 20px rgba(0,229,255,0.5);
+        opacity: 0;
+      }
+      .particle {
+        position: absolute; border-radius: 50%;
+        background: #00e5ff;
+        box-shadow: 0 0 6px #00e5ff;
+        opacity: 0;
+      }
+      .particle-violet {
+        background: #7b2ff7;
+        box-shadow: 0 0 6px #7b2ff7;
+      }
+      .title-group {
+        position: absolute; bottom: 120px; left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+      }
+      .title-main {
+        font-size: 72px; font-weight: 700;
+        color: #e8e8ff;
+        letter-spacing: 0.2em;
+        text-shadow: 0 0 40px rgba(0,229,255,0.5), 0 0 80px rgba(0,229,255,0.2), 0 0 120px rgba(123,47,247,0.3);
+        opacity: 0;
+      }
+      .title-sub {
+        font-size: 24px; font-weight: 300;
+        color: rgba(0,229,255,0.7);
+        letter-spacing: 0.3em;
+        margin-top: 12px;
+        opacity: 0;
+      }
+      .circuit-line {
+        position: absolute;
+        background: linear-gradient(90deg, transparent, rgba(0,229,255,0.3), transparent);
+        height: 1px;
+        opacity: 0;
+      }
+      .circuit-line-v {
+        width: 1px;
+        background: linear-gradient(0deg, transparent, rgba(123,47,247,0.3), transparent);
+      }
+      .grain-overlay {
+        position: absolute; inset: 0;
+        opacity: 0.03;
+        pointer-events: none;
+        background-image: url("data:image/svg+xml,%3Csvg viewBox=%270 0 256 256%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cfilter id=%27n%27%3E%3CfeTurbulence type=%27fractalNoise%27 baseFrequency=%270.85%27 numOctaves=%274%27 stitchTiles=%27stitch%27/%3E%3C/filter%3E%3Crect width=%27100%25%27 height=%27100%25%27 filter=%27url(%23n)%27/%3E%3C/svg%3E");
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="10" data-width="1920" data-height="1080">
+      <div class="grain-overlay"></div>
+      <div class="bg-glow bg-glow-cyan" id="glow-cyan"></div>
+      <div class="bg-glow bg-glow-violet" id="glow-violet"></div>
+      <div class="bg-glow bg-glow-deep" id="glow-deep"></div>
+      <div class="circuit-line" id="cl-h1" style="top:300px;left:0;width:100%;"></div>
+      <div class="circuit-line" id="cl-h2" style="top:750px;left:0;width:100%;"></div>
+      <div class="circuit-line circuit-line-v" id="cl-v1" style="left:480px;top:0;height:100%;"></div>
+      <div class="circuit-line circuit-line-v" id="cl-v2" style="left:1440px;top:0;height:100%;"></div>
+      <div class="brain-container" id="brain">
+        <div class="facet facet-core" id="f0" style="clip-path:polygon(50% 0%,100% 20%,80% 100%,20% 80%);width:140px;height:120px;top:180px;left:220px;"></div>
+        <div class="facet" id="f1" style="clip-path:polygon(30% 0%,100% 0%,80% 100%,0% 100%);width:120px;height:100px;top:140px;left:280px;"></div>
+        <div class="facet" id="f2" style="clip-path:polygon(0% 30%,100% 0%,100% 100%,30% 100%);width:110px;height:130px;top:240px;left:340px;"></div>
+        <div class="facet" id="f3" style="clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);width:90px;height:90px;top:160px;left:380px;"></div>
+        <div class="facet facet-edge" id="f4" style="clip-path:polygon(20% 0%,80% 0%,100% 100%,0% 100%);width:80px;height:60px;top:120px;left:310px;"></div>
+        <div class="facet" id="f5" style="clip-path:polygon(0% 0%,100% 20%,100% 100%,0% 80%);width:100px;height:110px;top:340px;left:280px;"></div>
+        <div class="facet" id="f6" style="clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);width:70px;height:70px;top:290px;left:400px;"></div>
+        <div class="facet facet-edge" id="f7" style="clip-path:polygon(0% 50%,100% 0%,100% 100%);width:60px;height:80px;top:200px;left:420px;"></div>
+        <div class="facet facet-core" id="f8" style="clip-path:polygon(50% 0%,100% 30%,70% 100%,20% 70%);width:100px;height:90px;top:400px;left:340px;"></div>
+        <div class="facet" id="f9" style="clip-path:polygon(0% 0%,100% 0%,80% 100%,20% 100%);width:85px;height:70px;top:360px;left:420px;"></div>
+        <div class="facet facet-core" id="f10" style="clip-path:polygon(50% 0%,100% 20%,80% 100%,20% 80%);width:140px;height:120px;top:180px;left:440px;"></div>
+        <div class="facet" id="f11" style="clip-path:polygon(0% 0%,70% 0%,100% 100%,20% 100%);width:120px;height:100px;top:140px;left:400px;"></div>
+        <div class="facet" id="f12" style="clip-path:polygon(0% 0%,100% 30%,70% 100%,0% 100%);width:110px;height:130px;top:240px;left:350px;"></div>
+        <div class="facet" id="f13" style="clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);width:90px;height:90px;top:160px;left:330px;"></div>
+        <div class="facet facet-edge" id="f14" style="clip-path:polygon(20% 0%,80% 0%,100% 100%,0% 100%);width:80px;height:60px;top:120px;left:410px;"></div>
+        <div class="facet" id="f15" style="clip-path:polygon(0% 20%,100% 0%,100% 80%,0% 100%);width:100px;height:110px;top:340px;left:420px;"></div>
+        <div class="facet" id="f16" style="clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);width:70px;height:70px;top:290px;left:330px;"></div>
+        <div class="facet facet-edge" id="f17" style="clip-path:polygon(0% 0%,100% 50%,0% 100%);width:60px;height:80px;top:200px;left:320px;"></div>
+        <div class="facet facet-core" id="f18" style="clip-path:polygon(30% 0%,100% 30%,80% 100%,0% 70%);width:100px;height:90px;top:400px;left:360px;"></div>
+        <div class="facet" id="f19" style="clip-path:polygon(0% 20%,100% 0%,80% 100%,20% 80%);width:85px;height:70px;top:360px;left:295px;"></div>
+        <div class="facet facet-core" id="f20" style="clip-path:polygon(0% 0%,100% 0%,100% 100%,0% 100%);width:50px;height:40px;top:240px;left:375px;"></div>
+        <div class="facet" id="f21" style="clip-path:polygon(20% 0%,80% 0%,100% 100%,0% 100%);width:60px;height:35px;top:290px;left:370px;"></div>
+        <div class="facet facet-edge" id="f22" style="clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);width:40px;height:40px;top:270px;left:380px;"></div>
+        <div class="facet" id="f23" style="clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);width:30px;height:30px;top:460px;left:350px;"></div>
+        <div class="facet" id="f24" style="clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);width:25px;height:25px;top:270px;left:450px;"></div>
+        <div class="facet" id="f25" style="clip-path:polygon(50% 0%,100% 50%,50% 100%,0% 50%);width:25px;height:25px;top:170px;left:350px;"></div>
+      </div>
+      <svg id="neural-svg" viewBox="0 0 800 600">
+        <line class="neural-line" x1="290" y1="260" x2="510" y2="260"/>
+        <line class="neural-line neural-line-violet" x1="330" y1="210" x2="290" y2="350"/>
+        <line class="neural-line" x1="400" y1="200" x2="470" y2="320"/>
+        <line class="neural-line neural-line-violet" x1="370" y1="240" x2="430" y2="240"/>
+        <line class="neural-line" x1="320" y1="300" x2="360" y2="460"/>
+        <line class="neural-line" x1="480" y1="290" x2="440" y2="450"/>
+        <line class="neural-line neural-line-violet" x1="350" y1="180" x2="450" y2="180"/>
+        <line class="neural-line" x1="310" y1="380" x2="490" y2="380"/>
+        <line class="neural-line neural-line-violet" x1="370" y1="500" x2="430" y2="500"/>
+        <line class="neural-line" x1="300" y1="220" x2="500" y2="300"/>
+        <line class="neural-line" x1="350" y1="290" x2="380" y2="280"/>
+        <line class="neural-line neural-line-violet" x1="430" y1="220" x2="450" y2="270"/>
+      </svg>
+      <div class="brain-container">
+        <div class="synapse" id="s0" style="width:8px;height:8px;top:240px;left:370px;"></div>
+        <div class="synapse" id="s1" style="width:6px;height:6px;top:200px;left:400px;"></div>
+        <div class="synapse" id="s2" style="width:6px;height:6px;top:300px;left:430px;"></div>
+        <div class="synapse" id="s3" style="width:5px;height:5px;top:340px;left:360px;"></div>
+        <div class="synapse" id="s4" style="width:7px;height:7px;top:380px;left:440px;"></div>
+        <div class="synapse" id="s5" style="width:5px;height:5px;top:460px;left:380px;"></div>
+        <div class="synapse" id="s6" style="width:8px;height:8px;top:270px;left:380px;"></div>
+        <div class="synapse" id="s7" style="width:6px;height:6px;top:180px;left:320px;"></div>
+        <div class="synapse" id="s8" style="width:5px;height:5px;top:420px;left:340px;"></div>
+      </div>
+      <div class="particle" id="p0" style="width:3px;height:3px;top:30%;left:20%;"></div>
+      <div class="particle particle-violet" id="p1" style="width:4px;height:4px;top:25%;left:75%;"></div>
+      <div class="particle" id="p2" style="width:2px;height:2px;top:65%;left:15%;"></div>
+      <div class="particle particle-violet" id="p3" style="width:3px;height:3px;top:70%;left:80%;"></div>
+      <div class="particle" id="p4" style="width:2px;height:2px;top:50%;left:10%;"></div>
+      <div class="particle" id="p5" style="width:4px;height:4px;top:40%;left:85%;"></div>
+      <div class="particle particle-violet" id="p6" style="width:2px;height:2px;top:80%;left:30%;"></div>
+      <div class="particle" id="p7" style="width:3px;height:3px;top:20%;left:50%;"></div>
+      <div class="particle particle-violet" id="p8" style="width:2px;height:2px;top:75%;left:60%;"></div>
+      <div class="particle" id="p9" style="width:2px;height:2px;top:15%;left:40%;"></div>
+      <div class="particle" id="p10" style="width:3px;height:3px;top:60%;left:45%;"></div>
+      <div class="particle particle-violet" id="p11" style="width:2px;height:2px;top:35%;left:65%;"></div>
+      <div class="title-group" id="title-group">
+        <div class="title-main" id="title-main">晶上大脑</div>
+        <div class="title-sub" id="title-sub">CRYSTAL CORTEX</div>
+      </div>
+    </div>
+    <script>
+      window.__timelines = window.__timelines || {};
+      var tl = gsap.timeline({ paused: true });
+      var facets = "#f0,#f1,#f2,#f3,#f4,#f5,#f6,#f7,#f8,#f9,#f10,#f11,#f12,#f13,#f14,#f15,#f16,#f17,#f18,#f19,#f20,#f21,#f22,#f23,#f24,#f25";
+      var synapses = "#s0,#s1,#s2,#s3,#s4,#s5,#s6,#s7,#s8";
+      tl.to("#glow-cyan", { opacity: 0.25, duration: 0.8, ease: "sine.inOut" }, 0);
+      tl.to("#glow-violet", { opacity: 0.18, duration: 0.8, ease: "sine.inOut" }, 0.2);
+      tl.to("#glow-deep", { opacity: 0.3, duration: 1, ease: "sine.inOut" }, 0.1);
+      tl.to("#cl-h1", { opacity: 0.5, duration: 1.5, ease: "power2.out" }, 0.3);
+      tl.to("#cl-h2", { opacity: 0.4, duration: 1.5, ease: "power2.out" }, 0.3);
+      tl.to("#cl-v1", { opacity: 0.35, duration: 1.5, ease: "power2.out" }, 0.4);
+      tl.to("#cl-v2", { opacity: 0.35, duration: 1.5, ease: "power2.out" }, 0.4);
+      tl.from(facets, { scale: 0, opacity: 0, duration: 0.6, stagger: { each: 0.06, from: "center" }, ease: "power2.out" }, 0.5);
+      tl.to(".neural-line", { strokeDashoffset: 0, duration: 1.2, stagger: 0.08, ease: "power2.inOut" }, 1.5);
+      tl.from(synapses, { scale: 0, opacity: 0, duration: 0.3, stagger: 0.06, ease: "back.out(1.5)" }, 2.2);
+      tl.to("#p0,#p1,#p2,#p3,#p4,#p5,#p6,#p7,#p8,#p9,#p10,#p11", { opacity: 0.7, duration: 0.5, stagger: 0.1, ease: "power1.out" }, 2.5);
+      tl.to("#title-main", { opacity: 1, y: -10, duration: 1.2, ease: "power2.out" }, 3);
+      tl.to("#title-sub", { opacity: 1, duration: 1, ease: "power2.out" }, 3.5);
+      tl.to("#glow-cyan", { opacity: 0.35, duration: 2, ease: "sine.inOut", repeat: 5, yoyo: true, repeatDelay: 0.5 }, 0.8);
+      tl.to("#glow-violet", { opacity: 0.25, duration: 2.5, ease: "sine.inOut", repeat: 4, yoyo: true, repeatDelay: 0.3 }, 1);
+      tl.to("#brain", { scale: 1.02, duration: 2, ease: "sine.inOut", repeat: 4, yoyo: true, repeatDelay: 0.4 }, 3);
+      tl.to("#p0", { x: 40, y: -20, duration: 6, ease: "sine.inOut" }, 2.5);
+      tl.to("#p1", { x: -50, y: 15, duration: 6, ease: "sine.inOut" }, 2.5);
+      tl.to("#p2", { x: 30, y: -30, duration: 5, ease: "sine.inOut" }, 2.8);
+      tl.to("#p3", { x: -35, y: 20, duration: 5.5, ease: "sine.inOut" }, 2.8);
+      tl.to("#p4", { x: 25, y: -15, duration: 7, ease: "sine.inOut" }, 3);
+      tl.to("#p5", { x: -45, y: -10, duration: 6.5, ease: "sine.inOut" }, 3);
+      tl.to("#p6", { x: 20, y: 25, duration: 5, ease: "sine.inOut" }, 2.5);
+      tl.to("#p7", { x: -10, y: -40, duration: 6, ease: "sine.inOut" }, 2.7);
+      tl.to("#p8", { x: -30, y: -20, duration: 5.5, ease: "sine.inOut" }, 2.9);
+      tl.to("#p9", { x: 35, y: 30, duration: 6, ease: "sine.inOut" }, 3.1);
+      tl.to("#p10", { x: -20, y: -25, duration: 6.5, ease: "sine.inOut" }, 2.6);
+      tl.to("#p11", { x: 15, y: -35, duration: 5, ease: "sine.inOut" }, 3.2);
+      tl.to(synapses, { boxShadow: "0 0 15px #00e5ff, 0 0 30px rgba(0,229,255,0.7)", duration: 1.5, stagger: 0.15, ease: "sine.inOut", repeat: 3, yoyo: true, repeatDelay: 1 }, 3);
+      tl.to("#title-main", { textShadow: "0 0 60px rgba(0,229,255,0.7), 0 0 100px rgba(0,229,255,0.3), 0 0 150px rgba(123,47,247,0.4)", duration: 2, ease: "sine.inOut", repeat: 2, yoyo: true, repeatDelay: 2 }, 4.5);
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

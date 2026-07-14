@@ -1,0 +1,232 @@
+/* ==========================================
+   Dashboard CSS - TCC x iNEST R&D Hub
+   ========================================== */
+
+/* ---------- Variables ---------- */
+.dashboard {
+  --tcc: #4f8ef7;
+  --tcc-bg: rgba(79,142,247,0.06);
+  --tcc-border: rgba(79,142,247,0.25);
+  --inest: #f76f4f;
+  --inest-bg: rgba(247,111,79,0.06);
+  --inest-border: rgba(247,111,79,0.25);
+  --card-bg: var(--background-secondary);
+  --card-radius: 10px;
+  --badge-done: #22c55e;
+  --badge-active: #f59e0b;
+  --badge-draft: #94a3b8;
+  --badge-urgent: #ef4444;
+  --gap: 14px;
+}
+
+/* ---------- Header ---------- */
+.dashboard h1 {
+  font-size: 2em;
+  margin-bottom: 4px;
+  background: linear-gradient(135deg, #4f8ef7 0%, #a78bfa 50%, #f76f4f 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.dashboard h1 + blockquote {
+  background: var(--card-bg);
+  border-left: 4px solid var(--tcc);
+  border-radius: 8px;
+  padding: 10px 18px;
+  font-size: 0.9em;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+}
+
+/* ---------- Section Headers ---------- */
+.dashboard h2 {
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(90deg, var(--tcc), var(--inest)) 1;
+  padding-bottom: 6px;
+  margin-top: 24px;
+  font-size: 1.2em;
+}
+
+/* ---------- Mermaid ---------- */
+.dashboard .mermaid {
+  max-width: 100%;
+  margin: 10px auto;
+  text-align: center;
+  background: var(--card-bg);
+  border-radius: var(--card-radius);
+  padding: 10px;
+}
+
+/* ---------- Two-Track Grid ---------- */
+.dashboard .dv-track {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--gap);
+  margin: 6px 0;
+}
+.dashboard .dv-track .col-tcc {
+  background: var(--tcc-bg);
+  border-left: 4px solid var(--tcc);
+  border-radius: var(--card-radius);
+  padding: 10px 14px;
+}
+.dashboard .dv-track .col-inest {
+  background: var(--inest-bg);
+  border-left: 4px solid var(--inest);
+  border-radius: var(--card-radius);
+  padding: 10px 14px;
+}
+.dashboard .dv-track h5 {
+  margin-top: 0;
+  margin-bottom: 6px;
+  font-size: 0.95em;
+}
+
+/* ---------- Callout Cards ---------- */
+.dashboard .callout {
+  border-radius: var(--card-radius);
+  margin: 12px 0;
+  border: 1px solid var(--background-modifier-border);
+}
+.dashboard .callout[data-callout="info"] {
+  --callout-color: 79, 142, 247;
+  background: var(--background-secondary);
+}
+.dashboard .callout[data-callout="tip"] {
+  --callout-color: 167, 139, 250;
+  background: rgba(167,139,250,0.04);
+}
+.dashboard .callout[data-callout="warning"] {
+  --callout-color: 247, 111, 79;
+  background: rgba(247,111,79,0.04);
+}
+.dashboard .callout[data-callout="success"] {
+  --callout-color: 34, 197, 94;
+  background: rgba(34,197,94,0.04);
+}
+.dashboard .callout-title {
+  font-weight: 700;
+  font-size: 1.02em;
+}
+.dashboard .callout-content {
+  padding-top: 2px;
+}
+
+/* ---------- Dataview Tables in Cards ---------- */
+.dashboard .callout .block-language-dataview table,
+.dashboard .dv-track .block-language-dataview table {
+  width: 100%;
+  font-size: 0.8em;
+  border: none !important;
+  margin: 4px 0;
+}
+.dashboard .callout .block-language-dataview th,
+.dashboard .dv-track .block-language-dataview th {
+  background: rgba(128,128,128,0.08);
+  font-size: 0.76em;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  padding: 4px 8px;
+  border: none;
+}
+.dashboard .callout .block-language-dataview td,
+.dashboard .dv-track .block-language-dataview td {
+  padding: 3px 8px;
+  border: none;
+  border-bottom: 1px solid rgba(128,128,128,0.05);
+}
+
+/* ---------- Status Tags ---------- */
+.dashboard .tag-done   { color: var(--badge-done);   font-weight: 700; }
+.dashboard .tag-active { color: var(--badge-active); font-weight: 700; }
+.dashboard .tag-draft  { color: var(--badge-draft);  font-weight: 700; }
+.dashboard .tag-urgent { color: var(--badge-urgent); font-weight: 700; }
+
+/* ---------- Stats Row ---------- */
+.dashboard .stats-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--gap);
+  margin: 8px 0 16px;
+}
+.dashboard .stat-card {
+  background: var(--card-bg);
+  border-radius: var(--card-radius);
+  padding: 10px 12px;
+  text-align: center;
+  border: 1px solid var(--background-modifier-border);
+}
+.dashboard .stat-num {
+  font-size: 1.6em;
+  font-weight: 700;
+  background: linear-gradient(135deg, var(--tcc), var(--inest));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.dashboard .stat-label {
+  font-size: 0.76em;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+/* ---------- Footer ---------- */
+.dashboard hr + blockquote {
+  text-align: center;
+  color: var(--text-muted);
+  border: none;
+  font-size: 0.8em;
+  padding: 4px 0;
+  margin-top: 16px;
+}
+
+/* ---------- Empty state ---------- */
+.dashboard .dv-empty {
+  color: var(--text-muted);
+  font-size: 0.8em;
+  font-style: italic;
+  padding: 6px 0;
+}
+
+/* ---------- Warn state ---------- */
+.dashboard .stat-card.warn {
+  border: 2px solid var(--inest);
+  background: var(--inest-bg);
+  animation: pulse-warn 2s ease-in-out infinite;
+}
+@keyframes pulse-warn {
+  0%, 100% { border-color: var(--inest); }
+  50% { border-color: rgba(247,111,79,0.3); }
+}
+
+/* ---------- Button plugin styling ---------- */
+.dashboard .block-language-button {
+  display: inline-block;
+  margin: 4px 8px 4px 0;
+}
+.dashboard .block-language-button button {
+  border-radius: 8px;
+  padding: 8px 18px;
+  font-size: 0.9em;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s;
+}
+.dashboard .block-language-button button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* ---------- Terminal command cards ---------- */
+.dashboard .callout[data-callout="tip"] pre {
+  background: #1e293b;
+  color: #e2e8f0;
+  padding: 10px 16px;
+  border-radius: 6px;
+  font-size: 0.82em;
+}
+.dashboard .callout[data-callout="tip"] pre code {
+  background: none;
+  color: #e2e8f0;
+}

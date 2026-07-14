@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>P2_Knowledge_Gap_Supplement</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<h1 id="p2-综述框架-知识库缺口补充2026-07-07">P2 综述框架 —
+知识库缺口补充（2026-07-07）</h1>
+<h2 id="缺口-1nvlink-6.0-rubin-最新参数-已部分补充">缺口 1：NVLink 6.0
+(Rubin) 最新参数 ✅ 已部分补充</h2>
+<h3 id="来源知识库-gtc-2026-深度解析">来源：知识库 GTC 2026
+深度解析</h3>
+<p><strong>Vera Rubin GPU 核心参数（GTC 2026 披露）：</strong> -
+架构定位：与 LPU 构成”两引擎架构”（two-engine architecture） - Vera
+Rubin GPU：负责 Prefill、长上下文处理、Decode 阶段 Attention（依赖 KV
+Cache） - LPU：专攻低时延 Decode 阶段 FFN 和 MoE 专家层 - <strong>LPU
+SRAM 带宽</strong>：150 TB/s 片上带宽 -
+<strong>网络协议</strong>：推测推出 NVLINKoE 协议（NVLink over Ethernet
+优化版） - <strong>时延优先级</strong>：时延 &gt; 协议效率 &gt;
+带宽（与训练场景相反）</p>
+<h3 id="仍需补充">仍需补充</h3>
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>状态</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NVLink 6.0 单链路带宽</td>
+<td>⚠️ 待确认（预估值 ~200GB/s per lane）</td>
+</tr>
+<tr>
+<td>NVL144/NVL288 超节点规模</td>
+<td>⚠️ 待确认</td>
+</tr>
+<tr>
+<td>Rubin GPU 具体互联拓扑</td>
+<td>⚠️ 待从 NVIDIA GTC 2026 官方 Keynote 补充</td>
+</tr>
+</tbody>
+</table>
+<h3 id="推荐补充来源">推荐补充来源</h3>
+<ul>
+<li>NVIDIA GTC 2026 Keynote (Jensen Huang)</li>
+<li>NVIDIA Rubin Architecture White Paper</li>
+</ul>
+<hr />
+<h2 id="缺口-2google-tpu-ici-互连最新架构-已充分补充">缺口 2：Google TPU
+ICI 互连最新架构 ✅ 已充分补充</h2>
+<h3
+id="来源知识库谷歌tpu五代技术演进深度分析-google-tpu-3d拓扑设计">来源：知识库《谷歌TPU五代技术演进深度分析》+
+Google TPU 3D拓扑设计</h3>
+<p><strong>Ironwood TPU (2025) 核心参数：</strong> | 指标 | 数值 | 相比
+TPU v2 | |——|——|————-| | 峰值 BF16 性能 | 2,307 TFLOPS |
+<strong>50倍</strong> | | 峰值 FP8 性能 | 4,614 TFLOPS | — | | HBM 容量
+| 192 GiB | 12倍 | | HBM 带宽 | 7,300 GB/s | 10倍 | | 超级计算机规模 |
+9,216 节点 | 36倍 | | 超级计算机性能 | 21.3 EFlops |
+<strong>3,600倍</strong> | | 每瓦性能 | 29.3倍 | 30倍 |</p>
+<p><strong>ICI 互连拓扑（从 v4 到 Ironwood 不变）：</strong> - 3D Torus
+拓扑：4×4×4 立方体构建块 - 立方体内 16 TPU 通过铜互连（每条链路 50
+GB/s） - 立方体间通过 96 条光链路连接 48 个 OCS（每条光链路 100 GB/s） -
+任意两点通信 ≤ 3 跳 -
+OCS（光电路交换机）实现拓扑动态重构、增量部署、故障隔离 - 通信延迟相比
+2D NoC 降低 40%，聚合带宽提升 3 倍</p>
+<p><strong>架构稳定性：</strong> - TPU v2 (2017) 至 Ironwood (2025)，双
+TensorCore 核心架构保持不变 - SparseCore
+从专用嵌入训练单元演变为通用计算卸载引擎（处理 AllReduce 等集合操作） -
+XLA 编译框架保持核心地位，JAX 成为首选语言</p>
+<p><strong>David Patterson 等作者，IEEE Micro (2026年7-8月)
+发表</strong></p>
+<hr />
+<h2 id="缺口-3amd-infinity-fabric-最新参数-部分补充">缺口 3：AMD
+Infinity Fabric 最新参数 ⚠️ 部分补充</h2>
+<h3 id="来源知识库vlsi-2025amd-ai硬件平台架构趋势">来源：知识库《VLSI
+2025：AMD AI硬件平台架构趋势》</h3>
+<p><strong>已知信息：</strong> - AMD 采用 Chiplet 架构：MI300 = 13
+Chiplet + 8 HBM3 堆栈（1460亿晶体管） - CDNA 3 架构，3D 堆叠 +
+有源中介层 - UALink 联盟开发开放 Scale-Up 互连标准（AMD 参与） -
+Scale-Up 仍以铜缆为主，Scale-Out 以光纤为主</p>
+<h3 id="仍需补充-1">仍需补充</h3>
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>状态</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MI355X / MI400 Infinity Fabric 带宽</td>
+<td>⚠️ 待从 AMD 技术白皮书补充</td>
+</tr>
+<tr>
+<td>UALink 1.0 规格</td>
+<td>⚠️ 需要最新联盟发布文档</td>
+</tr>
+<tr>
+<td>Infinity Fabric 4.0 具体参数</td>
+<td>⚠️ 待查</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="缺口-4光互连部署数据-部分补充">缺口 4：光互连部署数据 ⚠️
+部分补充</h2>
+<h3 id="来源知识库vlsi-2025amd-ai硬件平台架构">来源：知识库《VLSI
+2025：AMD AI硬件平台架构》</h3>
+<ul>
+<li>铜互连限制：信号衰减限制铜缆长度（~1m for passive copper）</li>
+<li>光学互连在计算层面即将采用</li>
+<li>挑战：短距离冷却、硅封装尺寸、激光可靠性、成本</li>
+<li>未来若成本功耗足够低，可能取代铜缆作为本地互连</li>
+<li>主流方案：CPO (Co-packaged Optics)、NPO (Near-packaged Optics)、LPO
+(Linear-drive Pluggable Optics)</li>
+</ul>
+<h3 id="推荐补充来源-1">推荐补充来源</h3>
+<ul>
+<li>OFC 2026 会议论文</li>
+<li>TSMC COUPE (Compact Universal Photonic Engine) 白皮书</li>
+<li>Ayar Labs / Lightmatter 等初创公司最新产品参数</li>
+</ul>
+<hr />
+<h2 id="缺口-5cerebras-condor-galaxy-集群真实数据-基础信息">缺口
+5：Cerebras Condor Galaxy 集群真实数据 ⚠️ 基础信息</h2>
+<h3 id="来源知识库">来源：知识库</h3>
+<p><strong>已知：</strong> - Cerebras
+WSE-2：2.6万亿晶体管，85万核心，单芯片=整张晶圆 - SwarmX 网络架构 - CS-3
+预计搭载 WSE-3（但知识库中无具体参数）</p>
+<h3 id="仍需补充-2">仍需补充</h3>
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>状态</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>WSE-3 晶体管数/核心数</td>
+<td>⚠️ 待查 Cerebras 官方发布</td>
+</tr>
+<tr>
+<td>Condor Galaxy 集群训练吞吐量</td>
+<td>⚠️ 待从客户案例/白皮书补充</td>
+</tr>
+<tr>
+<td>SwarmX 网络架构带宽延迟</td>
+<td>⚠️ 已有基础文件（WSE SwarmX 优化方案）</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="缺口-6国内超节点最新进展-已充分覆盖">缺口 6：国内超节点最新进展
+✅ 已充分覆盖</h2>
+<h3 id="来源知识库-1">来源：知识库</h3>
+<p><strong>华为灵衢（UB-Mesh）：</strong> - Hot Chips 2025
+披露：统一总线互连，挑战 NVLink - 即将开源（知识库文件记载） - 华为
+UB-Mesh 与 SDSoW 形成端到端互连方案</p>
+<p><strong>华为昇腾：</strong> - Atlas 900 超节点集群 - HCCS (Huawei
+Cache Coherence System) 互连</p>
+<p><strong>SDSoW（软件定义晶上系统）：</strong> -
+中国原创架构：软件定义互连 + 正交原语集 + 拓扑融合 -
+“十五五”国家重大工程布局（2026-2035） - 与 DeepSeek 组成”双子星”方案 -
+TSMC SoW-X 竞品定位</p>
+<p><strong>ODCC 2026 超节点大会：</strong> - AI 基础设施 Scale-Up
+技术路线圆桌讨论 - 铜缆 vs 光互连、Scale-Up vs Scale-Out 辩论</p>
+<hr />
+<h2 id="总结缺口补充情况">总结：缺口补充情况</h2>
+<table>
+<thead>
+<tr>
+<th>缺口</th>
+<th style="text-align: center;">状态</th>
+<th style="text-align: center;">可信度</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NVLink 6.0 / Rubin</td>
+<td style="text-align: center;">⚠️ 部分</td>
+<td style="text-align: center;">中（来自第三方 GTC
+分析，非一手数据）</td>
+</tr>
+<tr>
+<td>Google TPU ICI</td>
+<td style="text-align: center;">✅ 充分</td>
+<td style="text-align: center;">高（IEEE Micro 论文 +
+谷歌官方数据）</td>
+</tr>
+<tr>
+<td>AMD Infinity Fabric</td>
+<td style="text-align: center;">⚠️ 弱</td>
+<td style="text-align: center;">低（数据停留在 2023 MI300）</td>
+</tr>
+<tr>
+<td>光互连部署数据</td>
+<td style="text-align: center;">⚠️ 部分</td>
+<td style="text-align: center;">中（VLSI 2025 报告）</td>
+</tr>
+<tr>
+<td>Cerebras Condor Galaxy</td>
+<td style="text-align: center;">⚠️ 弱</td>
+<td style="text-align: center;">低（缺少 WSE-3/CS-3 数据）</td>
+</tr>
+<tr>
+<td>国内超节点进展</td>
+<td style="text-align: center;">✅ 充分</td>
+<td style="text-align: center;">高（多源交叉验证）</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>建议：</strong> 缺口 1、3、4、5
+需进一步通过以下渠道补充后，方可写入综述正文： - NVIDIA/AMD/Google
+官方技术白皮书（2025-2026） - OFC 2026 / Hot Chips 2025-2026 会议论文 -
+Cerebras 官网 + 客户案例 - arXiv 最新 preprint（搜索 “NVLink
+Rubin”、“Infinity Fabric MI400”、“CPO AI cluster”）</p>
+</blockquote>
+</body>
+</html>
