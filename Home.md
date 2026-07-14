@@ -136,3 +136,18 @@ graph LR
 ---
 
 > *TCC + iNEST 研发中枢 · Powered by DeepSeek V4 Pro · Codex SuperAgent v4.1*
+
+---
+
+## 🔗 Codex ↔ Obsidian 联动
+
+| 命令 | 功能 | 触发方式 |
+|------|------|----------|
+| `quick_task.py inbox` | 一键处理Inbox | Obsidian按钮 / 终端 |
+| `quick_task.py pipeline` | 完整研究管线 | 每日08:00自动 |
+| `quick_task.py sync` | Git同步 | 每日21:00自动 |
+| `quick_task.py weekly` | 周度报告 | 周日03:00自动 |
+| `startup_linkage.bat` | 开机自启全部服务 | 登录自动 |
+
+📖 [联动配置指南](90_System/LINKAGE_GUIDE.md)
+🔌 [Claudian → Codex 配置](90_System/LINKAGE_GUIDE.md#1-claudian-plugin-configuration)
