@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-25",
+  "paper_count": 36,
+  "keywords": {
+    "tcc_keywords": [
+      [
+        "crossbar",
+        4
+      ],
+      [
+        "network on chip",
+        3
+      ],
+      [
+        "wafer",
+        3
+      ],
+      [
+        "memristor",
+        3
+      ],
+      [
+        "chiplet",
+        2
+      ],
+      [
+        "topology",
+        2
+      ],
+      [
+        "signal integrity",
+        2
+      ],
+      [
+        "manycore",
+        2
+      ],
+      [
+        "routing",
+        1
+      ],
+      [
+        "placement",
+        1
+      ]
+    ],
+    "inest_keywords": [
+      [
+        "critical",
+        5
+      ],
+      [
+        "self organiz",
+        4
+      ],
+      [
+        "free energy",
+        3
+      ],
+      [
+        "neuron",
+        3
+      ],
+      [
+        "avalanche",
+        2
+      ],
+      [
+        "neuromorphic",
+        1
+      ],
+      [
+        "emergence",
+        1
+      ],
+      [
+        "complex system",
+        1
+      ],
+      [
+        "brain",
+        1
+      ],
+      [
+        "network structure",
+        1
+      ]
+    ]
+  },
+  "links_count": 13,
+  "brief": {
+    "insight": "Today: 8 TCC + 5 iNEST papers. Cross-domain convergence in memristor-based neuromorphic hardware.",
+    "hypothesis": "Memristor crossbar arrays can implement both TCC routing and iNEST synaptic plasticity.",
+    "gap": "No unified simulation framework for TCC topology + iNEST dynamics co-design.",
+    "experiment": "Run brian2 SNN on networkx-generated wafer topology, measure spike sync with PySpike."
+  }
+}

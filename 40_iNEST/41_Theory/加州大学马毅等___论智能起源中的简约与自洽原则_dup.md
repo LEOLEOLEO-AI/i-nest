@@ -1,0 +1,125 @@
+# 加州大学马毅等 | 论智能起源中的简约与自洽原则
+
+> 笔记本: 技术学习  
+> 创建时间: 2022-09-28  
+
+---
+
+#  加州大学马毅等 | 论智能起源中的简约与自洽原则 
+
+原创 马毅，曹颖，等  信息与电子工程前沿FITEE **
+收录于合集#2022年第9期4个
+
+****
+
+
+**内容介绍******
+
+
+**中文摘要：**
+深度学习重振人工智能10年后的今天，我们提出一个理论框架来帮助理解深度神经网络在整个智能系统里面扮演的角色。我们引入两个基本原则：简约与自洽；分别解释智能系统要学习什么以及如何学习。我们认为这两个原则是人工智能和自然智能之所以产生和发展的基石。虽然这两个原则的雏形早已出现在前人的经典工作里，但是我们对这些原则的重新表述使得它们变得可以精准度量与计算。确切地说，简约与自洽这两个原则能自然地演绎出一个高效计算框架：压缩闭环转录。这个框架统一并解释了现代深度神经网络以及众多人工智能实践的演变和进化。尽管本文主要用视觉数据建模作为例子，我们相信这两个原则将会有助于统一对各种自动智能系统的理解，并且提供一个帮助理解大脑工作机理的框架。
+
+
+**关键词：**
+智能；简约；自洽；编码率减少；深度网络；闭环转录
+
+
+**作者：**
+马毅1，曹颖2，沈向洋3
+
+
+**单位：**
+1加州大学伯克利分校电子工程与计算机系，美国加利福尼亚州，94720
+2加州大学伯克利分校分子与细胞生物系，霍华德·休斯医学研究所，美国加利福尼亚州，94720
+3粤港澳大湾区数字经济研究院，中国深圳市，518045
+
+
+**本文引用格式：**
+Yi Ma, Doris Tsao, Heung-Yeung Shum, 2022. On the principles of Parsimony and Self-consistency for the emergence of intelligence. *Frontiers of Informat **on Technology & Electronic Engineering*, 23(9):1298-1323. https://doi.org/10.1631/FITEE.2200297
+
+
+本文精要导读：
+
+
+**扫描下方二维码，可下载全文PDF**
+
+
+**热点文章**
+
+
+[1. 潘云鹤院士 | 论视觉知识](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247500075&idx=1&sn=3a43fd67737eb7fb1a73924fc378db49&chksm=f9f7b526ce803c301ec53564573f95b400e071dcac27afd86d0ffa8bc3df312b391a79cd5140&scene=21#wechat_redirect)
+[2. 潘云鹤院士｜视觉知识的五个基本问题](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247500213&idx=1&sn=75cda04822bcd37bb9f286b29a780a01&chksm=f9f7b5b8ce803caeb4a15fb00ef8fd702f3379cc1be98af28bbdb0a13722001ba761c7e02f2e&scene=21#wechat_redirect)
+[3. 潘云鹤院士 | 论视觉理解](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247503267&idx=1&sn=7f49b25060aa9ef61a6f2589efc95261&chksm=f9f7b9aece8030b88e5b69162eb50a50bd252b4bf0e9b28e80b799b560603f47df941b4fba8b&scene=21#wechat_redirect)
+[4. 浙江大学庄越挺教授｜视觉知识：智能创意初探](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247500442&idx=1&sn=1c1263266a5171f3a58924a5acfd54cc&chksm=f9f7b697ce803f813c26dbe0f59dc8ab73aab48cedf3155a83c09cf20123e10dee3ad7c9f681&scene=21#wechat_redirect)
+5[. 陈关荣教授等 | FITEE“复杂网络和系统的分布式滤波与控制”专刊导读](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247497115&idx=1&sn=408ea2463a6470fd8ae594f3b6796c4d&chksm=f9f78196ce8008801ba3a28867ae4b7bc4181df6f793125b089e5e7eafed0082ba70b7a96640&scene=21#wechat_redirect)
+[6. 东南大学洪伟教授等｜FITEE高通量毫米波无线通信专刊导读](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247499206&idx=1&sn=a5f53077c93a3f2cff7f937cb11c2df8&chksm=f9f789cbce8000dd0446ebec5694856ecbdf1efe2f399184a762d8503d289b2a7d47199bd68e&scene=21#wechat_redirect)
+[7. 上海理工大学庄松林院士团队——利用太赫兹时域光谱法和微腔器件检测样品：综述](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247488125&idx=1&sn=b5184e0cb98a99ed2c10dcad9721759c&chksm=f9f46670ce83ef66363d6afd65ee1f82b2da3025cd2416be432b77ac60e868ce5283a21c3c97&scene=21#wechat_redirect)
+[8. 西北工业大学胡劲文等 | 基于多传感器融合的智能车在野外环境中的障碍物检测研究](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247490571&idx=1&sn=2e6006311f44e2e125ba233f8294ed0f&chksm=f9f46806ce83e1109620e8490c3c7617d2e67fe7ce0ec532601094fdba8c6ee569e3fc9c956a&scene=21#wechat_redirect)
+[9. 北京邮电大学张建华等 |  面向6G的信道测量与建模：现状与展望](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247488799&idx=1&sn=11368891c282e82ad5588dc5f8a7cae6&chksm=f9f46112ce83e80444d02bcf667aaf7bb0673787064106a8269a0f5f0534f023de5a416fe6c8&scene=21#wechat_redirect)
+10. [兰州理工大学马军等 | 一类新的光电神经元模型及其动力学](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247494011&idx=1&sn=f6c1f6ab6aaef6522bafaaa1d99872ea&chksm=f9f79d76ce80146018e83fa815d2b127b9c698ca1f1e0cf9853edca901019767d56540e0819a&scene=21#wechat_redirect)
+[11. 浙江师范大学刘洋等 | 基于网络结构的布尔网络输出反馈镇定器设计](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247489342&idx=1&sn=21aaea26eb9525c2672d62f7ef50d331&chksm=f9f46333ce83ea25bfd238ceb5dd37ef0e6d86984c75bfa4cfbb5d0ba332174f8ed28b7e54b4&scene=21#wechat_redirect)
+[12. 常州大学陈墨等：余弦忆导忆阻系统周期变化初值位移调控行为](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247488606&idx=1&sn=e43bd3dc226f50243e6b3068b8321af3&chksm=f9f46053ce83e94571b50f69fd0008c7b4197f3093305cf7b1b77e6845a96920f71c94a7ca81&scene=21#wechat_redirect)
+[13. 韩国科学技术院Seulki KYEONG等：基于表面肌电信号的行走环境与步态周期识别](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247486255&idx=1&sn=08033eb7afa0933d9f6c4ecfab9d1d12&chksm=f9f47f22ce83f6342370dc46db51a100d9ebc9fdda1e0723e7d495190c07792b90aa8cdf7584&scene=21#wechat_redirect)
+[14. 京都大学 Naveed 等：高效构造基于有限域上莫德尔椭圆曲线的密码置换盒](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247488181&idx=1&sn=83d37a387c7fe5566274d9ae2c75a7f7&chksm=f9f466b8ce83efae8717142bb18cbaf9236f890e819237412580585eb26d3c794b04c21dc223&scene=21#wechat_redirect)
+15. [浙江工业大学唐智川等：面向脑机接口基于改进的共同空间模式方法的单次运动想象脑电分类](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247487565&idx=1&sn=07fe2dd1f9e411f02c5c0b0f374b9696&chksm=f9f46440ce83ed564a591b04e600b37326cc452fb68f5b8dba6973f023ee3622b79e43fd3acc&scene=21#wechat_redirect)
+[16. 哈尔滨工业大学胡鹏程等：位移测量光栅干涉仪综述](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247486891&idx=1&sn=e5990bebb071afb42d169f4821e83183&chksm=f9f479a6ce83f0b0057ad9d403e7bb2c20174680f1594931b18b8b089d3dc412893c2c5eab2d&scene=21#wechat_redirect)
+[17. 美国明尼苏达大学王钢等：智能电网状态估计方法最新进展综述](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247485853&idx=1&sn=7dea0369e19965609a08d1b82cf8edd9&chksm=f9f47d90ce83f4862e9f2ba1acc396058f79dc451aa5fd00e5501746498cfdeb6c010517dd08&scene=21#wechat_redirect)
+[18. 浙江大学郝翔等 | 紧凑型计算光谱信息采集系统综述（全文翻译）](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247495743&idx=1&sn=d95ebc6fab5e822918d8849cc8f9f670&chksm=f9f78432ce800d24c82de73b8e6713cd984f038ac515cabc0c9a7b090c95e24efa56d266d460&scene=21#wechat_redirect)
+19. [华为王俊等 | 人工智能与无线通信](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247494986&idx=1&sn=0f9bffe7464c6931f226409d4532e517&chksm=f9f79947ce80105119df379af6605cf7190b5ef2d4a8137464698770cccd7d514f668f86648a&scene=21#wechat_redirect)
+[20. 华中科技大学石宣化等 | 外媒眼中的中国：以COVID-19为例（新闻数据集开源下载）](https://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247500549&idx=1&sn=46b8abc3b557b5d4fad8a3e4b1912c2f&scene=21#wechat_redirect)
+
+
+**期刊动态**
+
+
+[中国科协发布《高质量科技期刊分级目录总汇》，FITEE入选信息通信领域T1目录！](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247504209&idx=1&sn=347a31a599e72f231e589511aa9a8719&chksm=f9f7a55cce802c4abee1af49ae80e45387e839b92a5f0d01ac03d13e4f3f20c290de3294488e&scene=21#wechat_redirect)
+[首期信息与电子工程领域青年学术前沿论坛成功举办，段宝岩院士领衔](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247503306&idx=1&sn=7df9dc490276b9361309e863ab3b4368&chksm=f9f7b9c7ce8030d1e45e15e29e1f8079b970bc2dfe2c6b7835702b18cc2c0198342bc904e349&scene=21#wechat_redirect)
+[2021最新影响因子公布 FITEE首次突破2.0](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247501029&idx=1&sn=bd89f28145befbfebeec53602a94a2e6&chksm=f9f7b0e8ce8039fe38413461e0e0de0b5d80213fca7ec3866968fe2f4fd1dcd958051eca0b8e&scene=21#wechat_redirect)
+[FITEE影响因子提升55%，首次跨入Q2区](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247491636&idx=1&sn=8363861acda78a2c2ba79cf5925e413b&chksm=f9f79439ce801d2fb723ebe9c08265b90d35299a3451cf5268f6dc683d69b41a69c149ddc8a4&scene=21#wechat_redirect)
+[FITEE 发布首届优秀论文/专题、杰出编委/通讯专家名单！](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247498572&idx=1&sn=b5dc1481b64dc00992b4dc47fdc810f3&chksm=f9f78f41ce800657a8946ab89ab38746d1bbe3120ffe1af25ea549a85b9f7c6111cbcf1c1e38&scene=21#wechat_redirect)
+[FITEE主编、编委文章列表（2019.1~2021.8）](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247502536&idx=1&sn=39af0548a6416bea0027d2e238a2f585&chksm=f9f7bec5ce8037d376958a444f50cf2f20c2b166c4770a744b863d17a49ba58b582ad85f7579&scene=21#wechat_redirect)
+[FITEE通讯专家文章列表（2019.1~2021.8）](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247502536&idx=2&sn=46705df52128dbd56407b2ce4fe67c76&chksm=f9f7bec5ce8037d362e898cca16503848288d82ef60d5aa86b160d37c744b3d41220f3642301&scene=21#wechat_redirect)
+[聚焦先进集成电路技术与产业创新，“中国工程院信息与电子工程前沿论坛”第5期成功举办！](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247499357&idx=1&sn=acbe4e7f727d3f132bdcd26244bcf5fe&chksm=f9f78a50ce800346120919e7e9d810dd8477283d0369a15f25ecad53629d30643e32338e3802&scene=21#wechat_redirect)
+[中国工程院发布信息电子领域10+10全球工程前沿](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247495992&idx=1&sn=fdec8d454eb6c5631e9197abd728e072&chksm=f9f78535ce800c23a526067dc5e626b90db238a0f14b336b64c1cc739886af69b7ca4f379601&scene=21#wechat_redirect)
+[FITEE微信上线新功能，不需下载PDF，即可阅览每期中英文摘要和全文](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247493297&idx=1&sn=76e3cc9979772f830ae895127765b582&chksm=f9f792bcce801baabbe886a0ca64867477e3e987eb7f837dbfc6136d5415ff7df756174eadf6&scene=21#wechat_redirect)
+[《信息与电子工程前沿（英文）》（FITEE） 第二届编委会2020年度扩大会议顺利召开](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247494477&idx=1&sn=e4cb5d48cd5bdb4a02d76a9d9d04a5ad&chksm=f9f79f40ce801656b99cbae988d4e1a234a47f0379b50efc6eb1ae3ef356d22c774119960dde&scene=21#wechat_redirect)
+[FITEE首批通讯专家聘任仪式暨第一次会议在浙江大学举行](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247487106&idx=1&sn=80f67810b2232f3a45712f40f7b67d13&chksm=f9f47a8fce83f3990cdd59c9abce78e2577516890a0fc3760ef8d06e321507f10745384fbfaf&scene=21#wechat_redirect)
+[FITEE第二届编委会第一次会议在浙江大学召开](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247486455&idx=1&sn=fb72adfe0df777294c67fbf6ebb1a084&chksm=f9f47fface83f6ec980e47f9555d36665c4737ee9d33fe0daa18e98cf51f92f566b2fc512e20&scene=21#wechat_redirect)
+
+
+**关于本刊**
+
+
+***Frontiers of Information Technology & Electronic Engineering***（简称*FITEE*，中文名《信息与电子工程前沿（英文）》，ISSN 2095-9184，CN 33-1389/TP）是信息电子类综合性英文学术月刊，SCI-E、EI收录，最新影响因子2.526，位于JCR Q2分区。前身为2010年创办的《浙江大学学报英文版C辑：计算机与电子》，2015年更为现名，现为中国工程院信息与电子工程学部唯一院刊。覆盖计算机、信息与通信、控制、电子、光学等领域。文章类型包括研究论文、综述、个人视点、评述等。现任主编为中国工程院院士潘云鹤、卢锡城。实行国际同行评审制，初次转达意见一般在2~3个月内。文章一经录用将快速在线。
+
+
+2019年，荣获中国科协等七部委推出的中国科技期刊卓越行动计划项目资助（梯队期刊）。2021~2022年，先后入选信息通信领域（中国通信学会组织评选）和计算领域（中国计算机学会组织评选）高质量科技期刊分级目录，均被列为最高的T1级别。
+
+官网**：**http://www.jzus.zju.edu.cn
+期刊Springer主页**：**
+http://www.springer.com/computer/journal/11714
+在线投稿**：**
+http://www.editorialmanager.com/zusc
+
+更多信息，请见：
+[2021最新影响因子公布 FITEE首次突破2.0](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247501029&idx=1&sn=bd89f28145befbfebeec53602a94a2e6&chksm=f9f7b0e8ce8039fe38413461e0e0de0b5d80213fca7ec3866968fe2f4fd1dcd958051eca0b8e&scene=21#wechat_redirect)
+[FITEE影响因子提升55%，首次跨入Q2区](http://mp.weixin.qq.com/s?__biz=MzUxOTcyNjQzNA==&mid=2247491636&idx=1&sn=8363861acda78a2c2ba79cf5925e413b&chksm=f9f79439ce801d2fb723ebe9c08265b90d35299a3451cf5268f6dc683d69b41a69c149ddc8a4&scene=21#wechat_redirect)
+
+
+**微信加群**
+
+为方便广大科研人员交流讨论，本平台建有以下学科微信群。有需要加群的用户，请加小编个人微信号fitee_xb，并留言想要加入的群，小编会拉您进群。营销广告人员请勿扰。
+计算机科学与技术学术群
+光学工程与技术学术群
+控制科学与技术学术群
+信息与通信学术群
+电力电子学术群
+人工智能学术
+
+
+**加关注****  ****ID:**** fitee_cae**
+
+本公众号为中国工程院院刊《信息与电子工程前沿（英文）》（SCI-E、EI检索期刊）官方微信，功能包括：传播期刊的学术文章；为刊物关联学人（读者、作者、评审人、编委，等）提供便捷服务；发布学术写作、评审、编辑、出版等相关资讯；介绍信息与电子工程领域学术人物、学术思想、学术成果，展示该领域科学研究前沿进展；为该领域海内外学者提供友好互动平台。
+
+---
+**Tags:** #Chiplet

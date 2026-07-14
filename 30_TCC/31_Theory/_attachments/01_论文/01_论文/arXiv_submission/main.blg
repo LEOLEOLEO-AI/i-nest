@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+You're missing a field name---line 8 of file references.bib
+ : 
+ : {  journal   = {BMC Neuroscience},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring vonneumann1966's extra "note" field
+--line 386 of file references.bib
+Warning--empty journal in tononi2004book
+Warning--empty year in tononi2004book
+Warning--empty year in tononi2004book
+You've used 37 entries,
+            2481 wiz_defined-function locations,
+            775 strings with 8515 characters,
+and the built_in function-call counts, 12993 in all, are:
+= -- 1209
+> -- 451
+< -- 37
++ -- 196
+- -- 122
+* -- 832
+:= -- 2029
+add.period$ -- 111
+call.type$ -- 37
+change.case$ -- 70
+chr.to.int$ -- 37
+cite$ -- 40
+duplicate$ -- 693
+empty$ -- 1298
+format.name$ -- 193
+if$ -- 2791
+int.to.chr$ -- 1
+int.to.str$ -- 38
+missing$ -- 40
+newline$ -- 193
+num.names$ -- 111
+pop$ -- 283
+preamble$ -- 1
+purify$ -- 37
+quote$ -- 0
+skip$ -- 425
+stack$ -- 0
+substring$ -- 788
+swap$ -- 72
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 247
+warning$ -- 3
+while$ -- 127
+width$ -- 0
+write$ -- 481
+(There was 1 error message)

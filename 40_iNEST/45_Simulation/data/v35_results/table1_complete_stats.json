@@ -1,0 +1,76 @@
+{
+  "connectome": {
+    "species": "C. elegans",
+    "data_source": "Varshney 2011, NeuronConnect.xls",
+    "N": 279,
+    "E": 1961,
+    "k_avg": 14.06
+  },
+  "four_index": {
+    "sigma": {
+      "value": 6.976,
+      "ci95": [
+        3.158,
+        3.883
+      ],
+      "vs_ER_p": 6.802496629449374e-135
+    },
+    "gamma": {
+      "value": 1.471,
+      "note": "C/C_er"
+    },
+    "lambda": {
+      "value": 1.0,
+      "note": "L/L_er (from v26)"
+    },
+    "C": {
+      "value": 0.3203,
+      "note": "avg clustering coeff"
+    },
+    "L": {
+      "value": 2.5695,
+      "note": "avg shortest path"
+    },
+    "literature_sigma": 5.6,
+    "error_pct": 24.57
+  },
+  "sc_fc": {
+    "enrichment": 2.3,
+    "permutation_p": 0.008,
+    "within_density": 0.0798,
+    "between_density": 0.0345,
+    "modularity_Q": 0.0573,
+    "neuron_types": {
+      "interneuron": 128,
+      "motor": 74,
+      "sensory": 77
+    }
+  },
+  "controls": {
+    "ER": {
+      "sigma": 1.0582,
+      "gamma": 1.0509,
+      "C": 0.0542
+    },
+    "WS": {
+      "sigma": 7.4516,
+      "gamma": 9.1694,
+      "C": 0.5111
+    },
+    "BA": {
+      "sigma": 2.6175,
+      "gamma": 2.5263,
+      "C": 0.1259
+    }
+  },
+  "ks_tests": {
+    "degree_vs_ER": {
+      "D": 0.2688,
+      "p": 2.8361800065905715e-09
+    },
+    "clustering_vs_ER": {
+      "D": 0.9391,
+      "p": 6.802496629449374e-135
+    }
+  }
+}

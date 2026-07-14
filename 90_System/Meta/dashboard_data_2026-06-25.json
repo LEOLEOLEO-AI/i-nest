@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-25",
+  "total": 17,
+  "high": 12,
+  "status": {
+    "tcc": {
+      "phase": "Gen1-2",
+      "target": "σ≥2.0, 芯粒互连拓扑设计",
+      "papers": 90,
+      "patents": 35,
+      "key_task": "Topology-Centric Computing 论文 + SDI互连专利"
+    },
+    "inest": {
+      "phase": "理论构建",
+      "target": "临界态涌现理论框架 + C.elegans仿真验证",
+      "papers": 90,
+      "key_task": "iNEST涌现智能理论论文 + 线虫connectome仿真"
+    }
+  },
+  "plan": [
+    {
+      "text": "精读12篇高相关论文，提炼对TCC/iNEST的迭代启示",
+      "priority": "紧急重要",
+      "dim": "TCC+iNEST",
+      "detail": "包括: Topology-Dependent Emergence o、A large-scale photonic design 、Cooperation-induced Criticalit等"
+    },
+    {
+      "text": "推进TCC论文: Topology-Centric Computing撰写",
+      "priority": "重要",
+      "dim": "TCC",
+      "detail": "当前聚焦: 超非线性增益的形式化证明 + SDI工程路线图"
+    },
+    {
+      "text": "推进iNEST论文: 涌现智能理论框架撰写",
+      "priority": "重要",
+      "dim": "iNEST",
+      "detail": "当前聚焦: 临界态→信息处理超线性的数学建模"
+    },
+    {
+      "text": "CST仿真: 临界小世界拓扑验证实验",
+      "priority": "重要",
+      "dim": "TCC+iNEST",
+      "detail": "Watts-Strogatz拓扑参数扫描 + σ与信息容量的关系曲线"
+    },
+    {
+      "text": "Git+Gitee版本同步",
+      "priority": "日常",
+      "dim": "TCC+iNEST",
+      "detail": "每日21:00自动执行"
+    }
+  ],
+  "briefs": [
+    {
+      "title": "Topology-Dependent Emergence of Polychronous Neuronal Groups: A Recurrence-Plot ",
+      "source": "arXiv",
+      "dim": "TCC+iNEST",
+      "insight": "TCC: 关键词匹配: topology | 理论贡献: 复杂网络拓扑性质对TCC的元拓扑设计有直接指导意义。若揭示新的\"拓扑-功 | iNEST: 关键词匹配: emergence, stdp | 涌现机制: 关于涌现/因果涌现的研究为iNEST\"复杂网络→智能涌现\""
+    },
+    {
+      "title": "A large-scale photonic design pipeline for interconnect routing",
+      "source": "S2",
+      "dim": "TCC",
+      "insight": "关键词匹配: interconnect, topology, routing | 借鉴: 该研究的互连/拓扑优化方法可直接借鉴到TCC芯粒网络中。重点关注其拓扑生成算法、路由策略或布局优化思路。 | "
+    },
+    {
+      "title": "Cooperation-induced Criticality in Neural Networks",
+      "source": "S2",
+      "dim": "TCC+iNEST",
+      "insight": "TCC: 关键词匹配: topology | 理论贡献: 复杂网络拓扑性质对TCC的元拓扑设计有直接指导意义。若揭示新的\"拓扑-功 | iNEST: 关键词匹配: criticality, emergence, phase transition | 核心理论: 临界态/"
+    },
+    {
+      "title": "Energy-information trade-off induces continuous and discontinuous phase transiti",
+      "source": "S2",
+      "dim": "iNEST",
+      "insight": "关键词匹配: emergence, free energy, phase transition, predictive coding | 涌现机制: 关于涌现/因果涌现的研究为iNEST\"复杂网络→智"
+    },
+    {
+      "title": "Enhancing the Recognition Task Performance of MEMS Resonator-Based Reservoir Com",
+      "source": "S2",
+      "dim": "iNEST",
+      "insight": "关键词匹配: neuromorphic, edge of chaos, reservoir computing | 核心理论: 临界态/自组织临界性是iNEST的理论基石。该文可能提供新的临界性度量方"
+    },
+    {
+      "title": "Extended memory lifetime in spiking neural networks employing memristive synapse",
+      "source": "S2",
+      "dim": "TCC+iNEST",
+      "insight": "TCC: 关键词匹配: placement | iNEST: 关键词匹配: neuromorphic, spiking neural, snn, memristor | 硬件实现: "
+    },
+    {
+      "title": "Machine Learning-Based Prediction Framework for Complex Neuromorphic Dynamics of",
+      "source": "S2",
+      "dim": "iNEST",
+      "insight": "关键词匹配: neuromorphic, edge of chaos, reservoir computing, brain-inspired | 核心理论: 临界态/自组织临界性是iNEST的理论基"
+    },
+    {
+      "title": "Neuronal motifs reveal backbone structure and influential neurons of neural netw",
+      "source": "S2",
+      "dim": "iNEST",
+      "insight": "关键词匹配: complex network, c. elegans, connectome | 基准系统: C. elegans connectome是iNEST验证小世界拓扑→计算涌现的最小完整模"
+    }
+  ]
+}

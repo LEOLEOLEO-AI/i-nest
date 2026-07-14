@@ -1,0 +1,160 @@
+\begin{thebibliography}{26}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bak et~al.(1987)Bak, Tang, and Wiesenfeld]{bak1987}
+Per Bak, Chao Tang, and Kurt Wiesenfeld.
+\newblock Self-organized criticality: an explanation of the 1/f noise.
+\newblock \emph{Physical Review Letters}, 59\penalty0 (4):\penalty0 381--384,
+  1987.
+
+\bibitem[Bassett and Bullmore(2006)]{bassett2006}
+Danielle~S. Bassett and Edward Bullmore.
+\newblock Small-world brain networks.
+\newblock \emph{Neuroscientist}, 12\penalty0 (6):\penalty0 512--523, 2006.
+
+\bibitem[Bear et~al.(1987)Bear, Cooper, and Ebner]{bear1987}
+Mark~F. Bear, Leon~N. Cooper, and Ford~F. Ebner.
+\newblock A physiological basis for a theory of synapse modification.
+\newblock \emph{Science}, 237\penalty0 (4810):\penalty0 42--48, 1987.
+
+\bibitem[Beggs and Plenz(2003)]{beggs2003}
+John~M. Beggs and Dietmar Plenz.
+\newblock Neuronal avalanches in neocortical circuits.
+\newblock \emph{Journal of Neuroscience}, 23\penalty0 (35):\penalty0
+  11167--11177, 2003.
+
+\bibitem[Bhatt et~al.(2009)]{bhatt2009}
+Dharkar~L. Bhatt et~al.
+\newblock In vivo imaging of synapse formation and pruning.
+\newblock \emph{Journal of Neuroscience}, 29:\penalty0 469--479, 2009.
+
+\bibitem[Bi and Poo(1998)]{bi1998}
+Guo-qiang Bi and Mu-ming Poo.
+\newblock Synaptic modifications in cultured hippocampal neurons: dependence on
+  spike timing, synaptic strength, and postsynaptic cell type.
+\newblock \emph{Journal of Neuroscience}, 18\penalty0 (24):\penalty0
+  10464--10472, 1998.
+
+\bibitem[Bienenstock et~al.(1982)Bienenstock, Cooper, and Munro]{bcm1982}
+Elie~L. Bienenstock, Leon~N. Cooper, and Paul~W. Munro.
+\newblock Theory for the development of neuron selectivity: orientation
+  specificity and binocular interaction in visual cortex.
+\newblock \emph{Journal of Neuroscience}, 2\penalty0 (1):\penalty0 32--48,
+  1982.
+
+\bibitem[Chialvo(2010)]{chialvo2010}
+Dante~R. Chialvo.
+\newblock Emergent complex neural dynamics.
+\newblock \emph{Nature Physics}, 6\penalty0 (10):\penalty0 744--750, 2010.
+
+\bibitem[Clauset et~al.(2009)Clauset, Shalizi, and Newman]{clauset2009}
+Aaron Clauset, Cosma~Rohilla Shalizi, and Mark~E.J. Newman.
+\newblock Power-law distributions in empirical data.
+\newblock \emph{SIAM Review}, 51\penalty0 (4):\penalty0 661--703, 2009.
+
+\bibitem[Friston(2010)]{friston2010}
+Karl Friston.
+\newblock The free-energy principle: a unified brain theory?
+\newblock \emph{Nature Reviews Neuroscience}, 11\penalty0 (2):\penalty0
+  127--138, 2010.
+
+\bibitem[Friston et~al.(2017)]{friston2017}
+Karl Friston et~al.
+\newblock Active inference: a process theory.
+\newblock \emph{Neural Computation}, 29\penalty0 (1):\penalty0 1--49, 2017.
+
+\bibitem[Haimovici et~al.(2013)Haimovici, Tagliazucchi, Balenzuela, and
+  Chialvo]{haimovici2013}
+Ariel Haimovici, Enzo Tagliazucchi, Pablo Balenzuela, and Dante~R. Chialvo.
+\newblock Brain organization into resting state networks emerges at criticality
+  on a model of the human connectome.
+\newblock \emph{Physical Review Letters}, 110:\penalty0 178101, 2013.
+
+\bibitem[Linkenkaer-Hansen et~al.(2001)]{linkenkaer2001}
+Klaus Linkenkaer-Hansen et~al.
+\newblock Long-range temporal correlations and scaling behavior in human brain
+  oscillations.
+\newblock \emph{Journal of Neuroscience}, 21\penalty0 (4):\penalty0 1370--1377,
+  2001.
+
+\bibitem[Luo and O'Leary(2005)]{luo2005}
+Liqun Luo and Dennis~D.M. O'Leary.
+\newblock Axon retraction and degeneration in development and disease.
+\newblock \emph{Annual Review of Neuroscience}, 28:\penalty0 127--156, 2005.
+
+\bibitem[Markram et~al.(1997)]{markram1997}
+Henry Markram et~al.
+\newblock Regulation of synaptic efficacy by coincidence of postsynaptic {APs}
+  and {EPSPs}.
+\newblock \emph{Science}, 275\penalty0 (5297):\penalty0 213--215, 1997.
+
+\bibitem[Meunier et~al.(2010)Meunier, Lambiotte, and Bullmore]{meunier2010}
+David Meunier, Renaud Lambiotte, and Edward~T. Bullmore.
+\newblock Modular and hierarchically modular organization of brain networks.
+\newblock \emph{Frontiers in Neuroscience}, 4:\penalty0 200, 2010.
+
+\bibitem[Newman(2006)]{newman2006}
+Mark~E.J. Newman.
+\newblock Modularity and community structure in networks.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 103\penalty0
+  (23):\penalty0 8577--8582, 2006.
+
+\bibitem[Perez-Orive et~al.(2002)]{perez2002}
+Javier Perez-Orive et~al.
+\newblock Oscillations and sparsening of odor representations in the mushroom
+  body.
+\newblock \emph{Science}, 297\penalty0 (5580):\penalty0 359--365, 2002.
+
+\bibitem[Priesemann et~al.(2014)]{priesemann2014}
+Viola Priesemann et~al.
+\newblock Spike avalanches in vivo suggest a driven, slightly subcritical brain
+  state.
+\newblock \emph{PLOS Computational Biology}, 10\penalty0 (8):\penalty0
+  e1003561, 2014.
+
+\bibitem[Shew and Plenz(2013)]{shew2013}
+Woodrow~L. Shew and Dietmar Plenz.
+\newblock The functional benefits of criticality in the cortex.
+\newblock \emph{Neuroscientist}, 19\penalty0 (1):\penalty0 88--100, 2013.
+
+\bibitem[Sporns and Zwi(2004)]{sporns2004}
+Olaf Sporns and Jonathan~D. Zwi.
+\newblock The small world of the cerebral cortex.
+\newblock \emph{Neuroinformatics}, 2\penalty0 (2):\penalty0 145--162, 2004.
+
+\bibitem[Turrigiano(2012)]{turrigiano2012}
+Gina Turrigiano.
+\newblock Homeostatic synaptic plasticity: local and global mechanisms for
+  stabilizing neuronal function.
+\newblock \emph{Cold Spring Harbor Perspectives in Biology}, 4\penalty0
+  (1):\penalty0 a005736, 2012.
+
+\bibitem[Turrigiano et~al.(1998)]{turrigiano1998}
+Gina~G. Turrigiano et~al.
+\newblock Activity-dependent scaling of quantal amplitude in neocortical
+  neurons.
+\newblock \emph{Nature}, 391\penalty0 (6670):\penalty0 892--896, 1998.
+
+\bibitem[Varshney et~al.(2011)]{varshney2011}
+Lav~R. Varshney et~al.
+\newblock Structural properties of the \textit{Caenorhabditis elegans} neuronal
+  network.
+\newblock \emph{PLOS Computational Biology}, 7\penalty0 (2):\penalty0 e1001066,
+  2011.
+
+\bibitem[Watts and Strogatz(1998)]{watts1998}
+Duncan~J. Watts and Steven~H. Strogatz.
+\newblock Collective dynamics of `small-world' networks.
+\newblock \emph{Nature}, 393\penalty0 (6684):\penalty0 440--442, 1998.
+
+\bibitem[Xu et~al.(2020)]{xu2020}
+C.~Shan Xu et~al.
+\newblock A connectome of the adult drosophila central brain.
+\newblock \emph{bioRxiv}, 2020.
+\newblock Hemibrain v1.2.1, Janelia FlyEM Project.
+
+\end{thebibliography}

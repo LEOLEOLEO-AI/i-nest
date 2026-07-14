@@ -1,0 +1,10 @@
+[Unit]
+Description=Genspark Claw local worker queue dispatcher
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+Environment=QUEUE_DIR=/opt/genspark-claw/queue/local
+Environment=RUN_DIR=/opt/genspark-claw/run/local
+ExecStart=/opt/genspark-claw/scripts/process_queue.sh

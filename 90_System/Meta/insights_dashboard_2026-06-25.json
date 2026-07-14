@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-25",
+  "total_papers": 17,
+  "high_score": 12,
+  "tcc_count": 8,
+  "inest_count": 16,
+  "inspiration": [
+    {
+      "text": "[灵感] Topology-Dependent Emergence of Polychronous Neuro — **关键词匹配**: topology\n\n**理论贡献**: 复杂网络拓扑性质对TCC的元拓扑设计有直接指导意义。若揭示 | **关键词匹配**: emerge",
+      "dot": "inspiration",
+      "dim": "TCC+iNEST"
+    },
+    {
+      "text": "[灵感] A large-scale photonic design pipeline for interco — **关键词匹配**: interconnect, topology, routing\n\n**借鉴**: 该研究的互连/拓扑优化方法可直接借鉴到TCC芯粒网络中。",
+      "dot": "inspiration",
+      "dim": "TCC"
+    },
+    {
+      "text": "[灵感] Cooperation-induced Criticality in Neural Networks — **关键词匹配**: topology\n\n**理论贡献**: 复杂网络拓扑性质对TCC的元拓扑设计有直接指导意义。若揭示 | **关键词匹配**: critic",
+      "dot": "inspiration",
+      "dim": "TCC+iNEST"
+    },
+    {
+      "text": "[灵感] Energy-information trade-off induces continuous an — **关键词匹配**: emergence, free energy, phase transition, predictive coding\n\n**涌现机制**",
+      "dot": "inspiration",
+      "dim": "iNEST"
+    },
+    {
+      "text": "[灵感] Enhancing the Recognition Task Performance of MEMS — **关键词匹配**: neuromorphic, edge of chaos, reservoir computing\n\n**核心理论**: 临界态/自组织临界",
+      "dot": "inspiration",
+      "dim": "iNEST"
+    },
+    {
+      "text": "[灵感] Extended memory lifetime in spiking neural network — **关键词匹配**: placement | **关键词匹配**: neuromorphic, spiking neural, snn, memristor\n\n",
+      "dot": "inspiration",
+      "dim": "TCC+iNEST"
+    }
+  ],
+  "plan": [
+    {
+      "text": "[洞察] 处理今日12篇高相关论文的TCC/iNEST启示",
+      "dot": "ongoing",
+      "dim": "TCC+iNEST"
+    },
+    {
+      "text": "[TCC] 分析8篇互连/拓扑相关文献，更新SDI拓扑设计空间",
+      "dot": "plan",
+      "dim": "TCC"
+    },
+    {
+      "text": "[iNEST] 分析16篇临界态/涌现文献，更新理论框架",
+      "dot": "plan",
+      "dim": "iNEST"
+    },
+    {
+      "text": "[论文] 推进撰写: Topology-Centric Computing",
+      "dot": "plan",
+      "dim": "TCC"
+    },
+    {
+      "text": "[论文] 推进撰写: iNEST涌现智能理论",
+      "dot": "plan",
+      "dim": "iNEST"
+    },
+    {
+      "text": "[专利] 推进撰写: 复杂网络拓扑的分布式计算方法",
+      "dot": "plan",
+      "dim": "TCC"
+    },
+    {
+      "text": "[仿真] CST仿真实验推进",
+      "dot": "plan",
+      "dim": "TCC+iNEST"
+    },
+    {
+      "text": "[同步] Git+Gitee 版本同步 (21:00)",
+      "dot": "plan",
+      "dim": "TCC+iNEST"
+    },
+    {
+      "text": "[采集] 得到大脑剪藏导入 Obsidian",
+      "dot": "plan",
+      "dim": "TCC+iNEST"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Found U+2078: 2 times
+
+Durability snippet: '耐久性 | 10⁶ | >10⁸ cycles | 满足iNEST在线STDP学习>1年连续运行 |\n| **架构** | 系统工作主频 | — | **<10'

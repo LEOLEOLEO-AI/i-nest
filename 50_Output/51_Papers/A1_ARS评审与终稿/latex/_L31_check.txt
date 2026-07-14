@@ -1,0 +1,12 @@
+L27: '\n'
+L28: 'From fragments to a unified theory. The present work assembles these fragments into a single quantitative framework by asking: what is the minimal set of physical quantities whose joint optimization is both necessary and sufficient for intelligence emergence? The answer, derived from first principles rather than fitted to data, is three quantities and their interaction: spatial network complexity '
+L29: '\n'
+L30: 'The critical insight is that these quantities do not add; they multiply and amplify. A network with rich structure and poor dynamics, or rich dynamics and poor structure, achieves modest complexity. But when structure and function are physically coupled, each reinforces the other in a cascade process formally equivalent to information gain near a phase transition [6]. This is why the coupling term'
+L31: '\n'
+L32: 'The six intelligence thresholds {1/$\\sqrt{2}$, 1, $\\phi$, e, $\\pi$, $\\delta$} are not empirically fitted; they are derived from the symmetry-breaking structure of phase transitions in complex networks, in the same mathematical tradition that gives thermodynamics its universal constants. Their validation across 40 biological and artificial systems---with no free parameters---is the empirical test o'
+L33: '\n'
+L34: 'Existing frameworks address fragments of this picture [1--3]: Integrated Information Theory (IIT) proposes $\\Phi$ as a consciousness measure [4], but computation scales as O(2$^n$), limiting it to \\textasciitilde{}30 nodes [5]; criticality theory does not predict intelligence levels [6,7]; complex network theory lacks a unified metric connecting structure to emergent behavior [2,9]. The CST framew'
+L35: '\n'
+L36: "We further show that the global AI industry's architectural evolution over 2017--2025 constitutes independent empirical validation: every major architectural innovation---from MoE modularity and NAS-optimized hierarchy, to SSM recurrence and continuous-time liquid dynamics, to inference-time plasticity---maps onto a specific CST component, confirming that the industry has empirically converged tow"
+L37: '\n'
+L38: '\\section{Results}\n'
