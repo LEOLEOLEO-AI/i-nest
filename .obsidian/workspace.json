@@ -227,8 +227,10 @@
       "wechat-messenger:tongbuzhushou": false
     }
   },
-  "active": "e178233722fe2fcc",
+  "active": "6787a70ce9c7fac0",
   "lastOpenFiles": [
+    "90_System/scripts/daily_insights.py",
+    "60_MOC/02_DeepSeek_Insights_2026-07-14.md",
     "sdi_sim/_v28_fpga_estimate.py",
     "sdi_sim/_run_v22_safe.py",
     "sdi_sim/_rebuild_v28.py",
@@ -238,10 +240,8 @@
     "sdi_sim/w23_topology_pipeline.py",
     "sdi_sim/week1_pipeline.py",
     "sdi_sim/w23_topology_fast.py",
-    "sdi_sim/w23_comprehensive_statistics.py",
     "sdi_sim/V6_AUDIT_AND_ROADMAP.md",
     "sdi_sim/V29_Simulation_Advancement_Plan.md",
-    "sdi_sim/v24_fpga_mapping.py",
     "sdi_sim/v22_Strategy.md",
     "sdi_sim/v22_SelfEvolution_Design.md",
     "sdi_sim/SDSoW_Hardware_Mapping.md",
@@ -264,7 +264,6 @@
     "TCC计算范式/TCC计算范式/05_关键技术/系统架构与数据流程草图笔记.md",
     "TCC计算范式/TCC计算范式/05_关键技术/无标题.md",
     "TCC计算范式/TCC计算范式/05_关键技术/基于 FPGA 的 伊辛机 (Ising Machine) 仿真与实验平台.md",
-    "TCC计算范式/TCC计算范式/05_关键技术/从晶圆到代码，全开源！Aegis：首个“从硅开始”的开源FPGA来了.md",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/font_atlas.png",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/blue_noise_med.png",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/ui-icons/sidebar.svg",
