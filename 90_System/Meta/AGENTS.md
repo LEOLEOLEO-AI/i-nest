@@ -1,6 +1,6 @@
 ﻿# Codex SuperAgent — TCC + iNEST 研发中枢
 
-> 自进化全局规则 v4.3 | 2026-07-14
+> 自进化全局规则 v4.4 | 2026-07-14
 > 适用范围：D:\Obsidian 全域 + 所有 Codex 会话
 
 ---
@@ -56,18 +56,40 @@
 | `.py` `.m` 仿真源码 | `.js` 插件二进制 |
 | `.yaml` `.gitignore` 配置 | 任何 >5MB 单文件 |
 
-### 1.5 Git 同步铁律 ⛔
+### 1.5 Git 同步铁律 ⛔ v4.4（2026-07-14 强化）
 
+#### ❌ 永久禁止
 ```
-git push --force github main   ← 永远禁止！会覆盖他人成果
-git push github main           ← 唯一允许方式
+git push --force          ← 绝对禁止，无例外
+git push --force-with-lease  ← main 分支禁止，其他分支谨慎
+git push origin main -f  ← 同上
+```
+> 一次 force push = 覆盖他人所有成果，等同删库。
+
+#### ✅ 唯一允许的 push 流程
+```bash
+# Codex 标准推送流程（每次必须执行）：
+git fetch github main
+git rebase github/main        # ← 用 rebase 不用 merge，保持线性历史
+git push github main          # ← 此时必定 fast-forward，不会被拒
 ```
 
-**所有平台（Codex/Obsidian/Genspark）强制执行：**
-1. **先 pull，再 push** — 绝不跳过
-2. **push 被拒 → 重新 pull → 再 push** — 绝不用 force 绕过
-3. **pull 冲突 → 停止 → 人工处理** — 弹窗告警，不自动合并
-4. **Genspark 同步指令已同步此规则**
+#### push 被拒时的正确处理
+```bash
+# 被拒 = 远端有新 commit，需要先同步
+git fetch github main
+git rebase github/main
+# 如有冲突：git rebase -X ours --continue
+git push github main
+# 绝对不要加 --force
+```
+
+#### 冲突处理优先级
+- 研究内容（.md/.py）冲突 → **停止，发消息给刘教授**
+- 系统文件（AGENTS.md 等）冲突 → 保留远端版本（`-X theirs`）
+- 自动生成文件（日报/索引）冲突 → 保留本地版本（`-X ours`）
+
+**所有平台（Codex / Obsidian / Genspark）无例外执行上述流程。**
 
 ---
 
