@@ -1,4 +1,4 @@
-﻿"""Codex ↔ Obsidian 深度联动脚本 - 统一桥接层
+"""Codex ↔ Obsidian 深度联动脚本 - 统一桥接层
 
 功能:
 1. Codex 直接读写 Obsidian vault 文件
@@ -23,7 +23,7 @@ from collections import defaultdict
 
 # ====== 配置 ======
 VAULT_ROOT = r"D:\Obsidian\home\work\.openclaw\workspace"
-DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY") or "REDACTED_OLD_DEEPSEEK"
 DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1"
 DEEPSEEK_MODEL = "deepseek-chat"  # DeepSeek V4 Pro
 
