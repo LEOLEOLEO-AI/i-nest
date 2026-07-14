@@ -1,6 +1,6 @@
 ﻿# Codex SuperAgent — TCC + iNEST 研发中枢
 
-> 自进化全局规则 v4.3 | 2026-07-14
+> 自进化全局规则 v4.4 | 2026-07-14
 > 适用范围：D:\Obsidian 全域 + 所有 Codex 会话
 
 ---
@@ -64,9 +64,9 @@ git push github main           ← 唯一允许方式
 ```
 
 **所有平台（Codex/Obsidian/Genspark）强制执行：**
-1. **先 pull，再 push** — 绝不跳过
-2. **push 被拒 → 重新 pull → 再 push** — 绝不用 force 绕过
-3. **pull 冲突 → 停止 → 人工处理** — 弹窗告警，不自动合并
+1. **fetch → rebase → push — 三步流水线，绝不跳过
+2. **rebase 冲突 → git rebase --abort → 人工处理
+3. **push 被拒 → 说明 rebase 后仍不同步 → 重新 fetch+rebase
 4. **Genspark 同步指令已同步此规则**
 
 ---

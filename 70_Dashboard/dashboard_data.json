@@ -1,0 +1,28 @@
+{
+  "updated": "2026-07-14T21:00:49.031652",
+  "total": 5135,
+  "tcc": 2679,
+  "inest": 1739,
+  "inbox": 12,
+  "papers": 175,
+  "patents": 37,
+  "guides": 5,
+  "dirs": {
+    "00_Inbox": 12,
+    "30_TCC": 2679,
+    "40_iNEST": 1738,
+    "50_Output": 420,
+    "60_MOC": 23,
+    "80_Archive": 141,
+    "90_System": 113,
+    "99_Meta": 1,
+    "Home.md": 1,
+    "MEMORY.md": 1,
+    "README.md": 1,
+    "RULES.md": 1,
+    "SOUL.md": 1,
+    "USER.md": 1,
+    "V25投稿修改执行计划.md": 1,
+    "V25论文全面系统审查.md": 1
+  }
+}
