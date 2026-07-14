@@ -27,6 +27,7 @@ import xml.etree.ElementTree as ET
 # 閳光偓閳光偓 Config 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 INBOX = VAULT / "00_Inbox" / "_pipeline_insights"
+INBOX.mkdir(parents=True, exist_ok=True)
 LOG_DIR = VAULT / "logs"
 LOG_DIR.mkdir(exist_ok=True)
 
