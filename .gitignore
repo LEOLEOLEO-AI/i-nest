@@ -1,0 +1,46 @@
+*.pdf
+*.zip
+*.tar.gz
+*.npy
+*.mat
+*.pkl
+*.h5
+*.hdf5
+*.npz
+*.pptx
+*.html
+sdi_sim/species_data/
+sdi_sim/data/
+sdi_sim/hemibrain_real_connectome*.json
+50_Output/51_Papers/*.html
+*.pid
+__pycache__/
+*.pyc
+.DS_Store
+30_TCC/35_Simulation/data/*.csv
+
+# 大数据文件（自动排除）
+*.pdf
+*.zip *.tar.gz *.rar *.7z
+*.npy *.mat *.pkl *.h5 *.hdf5 *.npz
+*.pptx *.html *.mp4 *.gif *.avi
+*.png *.jpg *.jpeg
+*.csv
+*.js
+90_System/legacy_subvault_git/
+sdi_sim/species_data/
+sdi_sim/data/
+sdi_sim/hemibrain_real_connectome*.json
+30_TCC/35_Simulation/data/
+30_TCC/35_Simulation/exp*.json
+30_TCC/Code/hemibrain*.json
+40_iNEST/45_Simulation/connectome/
+40_iNEST/42_Tech/Neuroscience/data/
+knowledge_graph/
+Demo_2026Q2/
+.obsidian/plugins/
+.smart-env/
+__pycache__/
+*.pyc
+.DS_Store
+90_System/logs/

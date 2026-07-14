@@ -1,0 +1,91 @@
+{
+  "version": "v30",
+  "total_neurons": 13200,
+  "total_regions": 7,
+  "regions": {
+    "AL": {
+      "name": "Antennal Lobe",
+      "neurons": 300,
+      "synapses": 16494,
+      "synapse_density": 54.98,
+      "clustering": 0.100751,
+      "betweenness": 0.002011,
+      "small_world": 7.197717,
+      "modularity": 0.801244,
+      "fraction_total": 0.022727,
+      "synapse_share": 0.019152
+    },
+    "MB": {
+      "name": "Mushroom Body",
+      "neurons": 4000,
+      "synapses": 208678,
+      "synapse_density": 52.1695,
+      "clustering": 0.368565,
+      "betweenness": 0.00015,
+      "small_world": 3.786014,
+      "modularity": 0.77132,
+      "fraction_total": 0.30303,
+      "synapse_share": 0.242312
+    },
+    "CX": {
+      "name": "Central Complex",
+      "neurons": 500,
+      "synapses": 23993,
+      "synapse_density": 47.986,
+      "clustering": 0.57816,
+      "betweenness": 0.000187,
+      "small_world": 3.742704,
+      "modularity": 0.769316,
+      "fraction_total": 0.037879,
+      "synapse_share": 0.02786
+    },
+    "LH": {
+      "name": "Lateral Horn",
+      "neurons": 200,
+      "synapses": 8275,
+      "synapse_density": 41.375,
+      "clustering": 0.18004,
+      "betweenness": 0.000734,
+      "small_world": 3.107277,
+      "modularity": 0.348088,
+      "fraction_total": 0.015152,
+      "synapse_share": 0.009609
+    },
+    "OL": {
+      "name": "Optic Lobe",
+      "neurons": 6000,
+      "synapses": 465479,
+      "synapse_density": 77.579833,
+      "clustering": 0.223122,
+      "betweenness": 0.000218,
+      "small_world": 4.328866,
+      "modularity": 0.433722,
+      "fraction_total": 0.454545,
+      "synapse_share": 0.540503
+    },
+    "SEZ": {
+      "name": "Subesophageal Zone",
+      "neurons": 700,
+      "synapses": 35866,
+      "synapse_density": 51.237143,
+      "clustering": 0.164543,
+      "betweenness": 0.004334,
+      "small_world": 3.99273,
+      "modularity": 0.397469,
+      "fraction_total": 0.05303,
+      "synapse_share": 0.041647
+    },
+    "VNC": {
+      "name": "Ventral Nerve Cord",
+      "neurons": 1500,
+      "synapses": 102411,
+      "synapse_density": 68.274,
+      "clustering": 0.323674,
+      "betweenness": 0.000123,
+      "small_world": 4.949958,
+      "modularity": 0.760556,
+      "fraction_total": 0.113636,
+      "synapse_share": 0.118917
+    }
+  }
+}

@@ -1,0 +1,687 @@
+[
+  [
+    "03_Topics\\AI-ML\\2026-06-22_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me.md",
+    1339,
+    "---\nauthors: null\ncategory: AI-ML\ncitations: null\ndate: 2026-06-22\nentities:\n- MemoryWAM\n- World Action Models\n- persistent memory\n- visual foresight\n- robotic manipulation\nprocessed: '2026-06-22T08:40:49.691453'\nsource: arXiv\nsource_file: 2026-06-22_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent\n  Me.md\nsummary: 提出MemoryWAM模型，利用持久记忆联合建模视觉预测与动作，实现高效鲁棒的机器人操作。\ntags:\n- 机器人操作\n- 动作建模\n- tcc\n- from-arxiv\n- 世界模型\n- 视觉预测\n- inbox\n- 记忆建模\ntitle: 'MemoryWAM: Efficient World Action Modelin"
+  ],
+  [
+    "03_Topics\\AI-ML\\2026-06-23_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me.md",
+    1295,
+    "---\nauthors: null\ncategory: AI-ML\ncitations: null\ndate: 2026-06-23\nentities:\n- World Action Models\n- Persistent Memory\n- Visual Foresight\n- Robotic Manipulation\nprocessed: '2026-06-23T08:40:33.199676'\nsource: arXiv\nsource_file: 2026-06-23_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent\n  Me.md\nsummary: 提出MemoryWAM，利用持久记忆联合建模视觉预测与动作，实现鲁棒机器人操作。\ntags:\n- inbox\n- 视觉预测\n- 记忆建模\n- 世界模型\n- from-arxiv\n- 机器人操作\n- tcc\ntitle: 'MemoryWAM: Efficient World Action Modeling with Persistent Memory"
+  ],
+  [
+    "03_Topics\\Chip-Hardware\\2026-06-23_TCC_S2_Wafer-scale fabrication of memristive passive crossbar circu.md",
+    1792,
+    "---\nauthors: Sanghyeon Choi, S.S. Bezugam, Tinish Bhattacharya, Dongseok Kwon, Dmitri\n  B. Strukov\ncategory: Chip-Hardware\ncitations: 12\ndate: 2026-06-23\nentities:\n- 忆阻器无源交叉阵列\n- 晶圆级制造\n- 神经形态计算\nprocessed: '2026-06-23T08:42:18.789337'\nsource: S2\nsource_file: 2026-06-23_TCC_S2_Wafer-scale fabrication of memristive passive crossbar\n  circu.md\nsummary: 报道了一种通过协同设计实现的可扩展无源交叉阵列技术，用于神经形态计算。\ntags:\n- inbox\n- from-s2\n- 神经形态计算\n- 忆阻器\n- 交叉阵列\n- tcc\ntitle: 'Wafer-scale fabrication of memristive passive crossbar"
+  ],
+  [
+    "10_Library\\Articles\\01_复杂系统：复杂科学在研究什么？_-_得到APP_dup.md",
+    29519,
+    "# 01 复杂系统：复杂科学在研究什么？ - 得到APP\n\n> 笔记本: 复杂科学  \n> 创建时间: 2024-05-25  \n\n---\n\n01 复杂系统：复杂科学在研究什么？\n   \n\n \n        张江·复杂科学前沿27讲\n        \n\n\n \n01 复杂系统：复杂科学在研究什么？ \n          11分26秒\n         \n\n    | 张江亲述 |\n  \n你好，欢迎来到《复杂科学前沿课》，我是张江。\n课程的第一讲，我们必须先搞清楚一个问题，就是复杂科学到底在研究什么。弄明白了这个问题，才有我们后面的整门课程。\n听“复杂科学”这个名字，很多人会想，这一定是一门研究“复杂”的科学，什么复杂就研究什么。比如，国际局势是复杂的，或者保险合同有那么多条款，也挺复杂的；甚至说我女朋友的心思也挺复杂的，是不是复杂科学都在研究？\n不好意思，这些日常生活中的复杂现象，没有一个是复杂科学要管的。我们复杂科学对研究对象有着非常严格而清晰的定义，就是“复杂系统”。\n\n那么，什么是复杂系统呢？我来说三个例子，你猜猜其中哪个是复杂系统。\n第一个例子，一辆红色的兰博基尼跑车。你如果有"
+  ],
+  [
+    "10_Library\\Articles\\05_连接模式：什么样的系统更脆弱？_-_得到APP_dup.md",
+    44686,
+    "# 05 连接模式：什么样的系统更脆弱？ - 得到APP\n\n> 笔记本: 复杂科学  \n> 创建时间: 2024-06-11  \n\n---\n\n05 连接模式：什么样的系统更脆弱？\n   \n\n \n        张江·复杂科学前沿27讲\n        \n\n\n \n05 连接模式：什么样的系统更脆弱？ \n          11分51秒\n         \n\n    | 张江亲述 |\n  \n你好，欢迎来到《复杂科学前沿课》，我是张江。\n在前面的课程中，我们已经知道，复杂系统能出现很多特殊现象的原因，都可以归结到个体之间的相互作用身上。\n其实在相互作用以外，还有一个重要因素，也是复杂系统能出现特殊现象的原因，这就是个体之间的连接模式。\n这么说太抽象了，我们先换一个问题来看。你说现在全球连接得越来越紧密，是让我们更强大了，还是更脆弱了呢？让我们从一个熟悉的场景开始。 \n美股历史上曾经发生过五次暴跌后的熔断，其中有四次发生在新冠疫情爆发的2020年3月。到了4月份，原油期货价格竟然跌为负值，相当于你卖出去一桶油，不但没赚到钱，还要倒贴钱给对方。\n你可能会说，2020年比较特殊，新冠疫情毕竟是突发"
+  ],
+  [
+    "10_Library\\Articles\\2026-05-04_灵感_EML算子：用一个二元算子统一所有初等函数的数学突破_dup.md",
+    5640,
+    "---\ntitle: EML算子：用一个二元算子统一所有初等函数的数学突破\ndate: 2026-05-04\ntime: 08:49\nnote_id: 1908958083330249000\ncategory: 灵感\nsource: get笔记\nlinks: []\ntags:\n- eml算子\n- 符号回归\n- 初等函数统一表示\n---\n### **🔍 研究背景与核心突破**\n\n科学计算器上的sin、cos、tan、ln等函数看似独立，实则存在冗余（如双曲函数可用指数函数表示，三角函数通过Euler公式与复指数关联）。2026年3月，波兰雅盖隆大学物理学家Andrzej Odrzywołek在arXiv发表论文，提出**一个构造性解决方案**：仅需**一个二元算子**和**常数1**，即可重新生成科学计算器上的所有函数。\n\n### **📝 EML算子的工作原理**\n\n#### **(一) 基本规则**\n\nEML表达式遵循两条规则：\n- 每个表达式要么是叶子节点**1**\n- 要么是两个子表达式通过**eml算子**组合的结果（文法表示为：`E ::= 1 | eml(E,E)`）\n\n##"
+  ],
+  [
+    "10_Library\\Articles\\DARPA人工智能与自主系统项目深度研究报告：以“第三波AI”为核心的军事智能革命_dup.md",
+    51327,
+    "---\ntitle: \"DARPA人工智能与自主系统项目深度研究报告：以“第三波AI”为核心的军事智能革命\"\nsource: \"https://mp.weixin.qq.com/s/EOO0bW5ABqS0yEvH2ZZ32Q\"\ncreated: 2025-12-17\nnote_id: \"1896185969430922136\"\ntags:\n  - \"AI链接笔记\"\n  - \"DARPA\"\n  - \"第三波AI\"\n  - \"军事人工智能\"\n  - \"get-笔记\"\n  - \"AI研究\"\n---\n\n# DARPA人工智能与自主系统项目深度研究报告：以“第三波AI”为核心的军事智能革命\n\n## 摘要\n\n### **🔍 核心战略框架（PART 1）**  #### **(一) 总体战略：从AI工具到AI伙伴的演进**  **1.1 \"AI Next\"战役** - **启动时间**：2018年9月 - **总投资**：超过**20亿美元** - **项目规模**：约50个新旧项目组成的投资组合 - *\n\n## 正文\n\n![图片](https://get-notes.umiwi.com/morp"
+  ],
+  [
+    "10_Library\\Articles\\DARPA人工智能与自主系统项目深度研究报告：以第三波AI为核心的军事智能革命_dup.md",
+    51632,
+    "---\ntags:\n- darpa\n- third-wave-ai\n- military-artificial-intelligence\n- autonomous-systems\n- research-report\n---\n---\ntitle: \"DARPA人工智能与自主系统项目深度研究报告：以\"第三波AI\"为核心的军事智能革命\"\nsource: \"https://mp.weixin.qq.com/s/EOO0bW5ABqS0yEvH2ZZ32Q\"\ncreated: 2025-12-17\nnote_id: \"1896185579663210024\"\ntags:\n  - \"AI链接笔记\"\n  - \"DARPA\"\n  - \"第三波AI\"\n  - \"军事人工智能\"\n  - \"get-笔记\"\n  - \"AI研究\"\n  - \"重要\"\n---\n\n# DARPA人工智能与自主系统项目深度研究报告：以\"第三波AI\"为核心的军事智能革命\n\n## 摘要\n\n### **🔍 核心战略框架（PART 1）**  #### **(一) 总体战略：从AI工具到AI伙伴的演进**  **1.1 \"AINext\"战役："
+  ],
+  [
+    "10_Library\\Articles\\DeepSeek：引领全球AI创新的新力量_dup.md",
+    9962,
+    "---\ntitle: \"DeepSeek：引领全球AI创新的新力量\"\nsource: \"https://mp.weixin.qq.com/s/_yq5Y3tDvagXtIBzkOm5HQ\"\ncreated: 2025-02-14\nnote_id: \"1867801568880002064\"\ntags:\n  - \"AI链接笔记\"\n  - \"人工智能\"\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# DeepSeek：引领全球AI创新的新力量\n\n## 摘要\n\n![](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fe73a14274787951874c45d44295a3ef3.jpeg?Expires=1780073177&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9\n\n## 正文\n\n![Image](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2F8afb5a68d481fe5a4a3fc6eeead21cfc.gif?Expir"
+  ],
+  [
+    "10_Library\\Articles\\Git清除密码指南_dup.md",
+    1510,
+    "# Windows 上清除错误的 Git 凭证\n\n刘老师，如果命令行报错 `Unrecognized command or argument 'reject'`，说明您安装的这个版本的 `git-credential-manager` 是旧版语法，不支持 `reject` 这个快捷指令。\n\n不过别急，咱们换个最**傻瓜式、最稳定**的方法，直接在 Windows 系统的控制面板里手动把那个记错的密码删掉，比用黑框框敲代码更靠谱。\n\n### 简单三步搞定：\n\n1.  **打开“凭据管理器”：**\n    *   按键盘左下角的 `Win` 键（Windows 徽标），直接输入汉字：**“凭据管理器”**，然后按回车打开它（如果您用英文系统，搜 `Credential Manager`）。\n\n2.  **找到 Gitee 并删除：**\n    *   在这个界面里，点击右边那个盾牌图标的 **“Windows 凭据” (Windows Credentials)**。\n    *   在下面长长的一列列表里，找到带有 `gitee.com` 或者 `git:https://gitee.com"
+  ],
+  [
+    "10_Library\\Articles\\Ion Stoica：横跨学术与产业的AI基础设施传奇_dup.md",
+    20143,
+    "---\ntitle: \"Ion Stoica：横跨学术与产业的AI基础设施传奇\"\nsource: \"https://mp.weixin.qq.com/s/QUwPqsy7vU2wkatJztSwfA\"\ncreated: 2025-09-02\nnote_id: \"1886338887174335136\"\ntags:\n  - \"AI链接笔记\"\n  - \"AI基础设施\"\n  - \"开源项目\"\n  - \"产学研转化\"\n  - \"get-笔记\"\n  - \"AI研究\"\n---\n\n# Ion Stoica：横跨学术与产业的AI基础设施传奇\n\n## 摘要\n\n### 🌟 核心身份与成就 - **加州大学伯克利分校（UCB）教授**：2000年任教至今，25年坚守一线课堂，主讲操作系统和系统编程 - **科研领袖**：创办3所实验室（AMP/RISE/天空计算），主导118个科研项目，孵化7家创企 - **亿万富豪学者**：身家25亿美元（约179亿人民币\n\n## 正文\n\n![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2Fb"
+  ],
+  [
+    "10_Library\\Articles\\MiroThinker 1.5：开源搜索增强型推理模型深度解析_dup.md",
+    4179,
+    "---\ntitle: \"MiroThinker 1.5：开源搜索增强型推理模型深度解析\"\nsource: \"https://mp.weixin.qq.com/s/gRvKoSTpelsDLaUQJb0F3w\"\ncreated: 2026-01-10\nnote_id: \"1898412129363695840\"\ntags:\n  - \"AI链接笔记\"\n  - \"MiroThinker\"\n  - \"开源AI模型\"\n  - \"搜索增强型推理\"\n  - \"get-笔记\"\n  - \"AI研究\"\n---\n\n# MiroThinker 1.5：开源搜索增强型推理模型深度解析\n\n## 摘要\n\n### **🔍 项目核心定位（概述）**  **MiroThinker**是一款**开源搜索增强型推理模型**，其核心能力在于模拟人类研究流程：通过自主调用搜索工具、运行代码，实现复杂问题的多步骤拆解与推理，突破普通聊天机器人依赖记忆回答的局限。官方目标是对标OpenAI Deep Research\n\n## 正文\n\n今天分享一个叫MiroThinker的开源项目，这是个「搜索增强型推理模型」——\n简单来说，它能像人"
+  ],
+  [
+    "10_Library\\Articles\\notebooklm ppt提示词.md",
+    1059,
+    "---\ncategory: Web-Clips\ncreated: 2025-12-10\nnote_id: '1895548938807804464'\nquality: low\ntags:\n- get-笔记\n- default\n- needs-review\ntitle: notebooklm ppt提示词\n---\n\n# notebooklm ppt提示词\n\n## 摘要\n\n帮我根据下面这个文章做一套中学生都能理解的PPT，PPT需要12页  先写1个PPT大纲，规划出每一页的PPT的内容。  然后将每一页的PPT内容分别扔给Nana Banana pro生成对应页面的PPT，需要确保风格一致。 PPT的具体风格应该为水墨风格。 文字和图像都由Nano Banana P\n\n## 正文\n\n帮我根据下面这个文章做一套中学生都能理解的PPT，PPT需要12页\n\n先写1个PPT大纲，规划出每一页的PPT的内容。\n\n然后将每一页的PPT内容分别扔给Nana Banana pro生成对应页面的PPT，需要确保风格一致。 PPT的具体风格应该为水墨风格。 文字和图像都由Nano Banana Pro生成，"
+  ],
+  [
+    "10_Library\\Articles\\notebooklm ppt提示词_dup.md",
+    1111,
+    "---\ntitle: \"notebooklm ppt提示词\"\ncreated: 2025-12-10\nnote_id: \"1895548938807804464\"\ntags:\n  - \"get-笔记\"\n  - \"default\"\n---\n\n# notebooklm ppt提示词\n\n## 摘要\n\n帮我根据下面这个文章做一套中学生都能理解的PPT，PPT需要12页  先写1个PPT大纲，规划出每一页的PPT的内容。  然后将每一页的PPT内容分别扔给Nana Banana pro生成对应页面的PPT，需要确保风格一致。 PPT的具体风格应该为水墨风格。 文字和图像都由Nano Banana P\n\n## 正文\n\n帮我根据下面这个文章做一套中学生都能理解的PPT，PPT需要12页\n\n先写1个PPT大纲，规划出每一页的PPT的内容。\n\n然后将每一页的PPT内容分别扔给Nana Banana pro生成对应页面的PPT，需要确保风格一致。 PPT的具体风格应该为水墨风格。 文字和图像都由Nano Banana Pro生成，另外不要将PPT变成-整张图，一页一张生成。\n\n---\n*来源：Get笔记 "
+  ],
+  [
+    "10_Library\\Articles\\RAGFlow：企业文档管理与知识应用的强大解决方案_dup.md",
+    5920,
+    "---\ntitle: \"RAGFlow：企业文档管理与知识应用的强大解决方案\"\nsource: \"https://mp.weixin.qq.com/s/eGX-OMVLuO1Q5_omCnsoRg\"\ncreated: 2025-02-10\nnote_id: \"1867365391328616320\"\ntags:\n  - \"AI链接笔记\"\n  - \"RAGFlow\"\n  - \"企业文档管理\"\n  - \"知识应用\"\n  - \"开源项目\"\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# RAGFlow：企业文档管理与知识应用的强大解决方案\n\n## 摘要\n\n![](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2F3c53c7e389071344c5b22f25cba267c5.jpeg?Expires=1780073509&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9\n\n## 正文\n\n在企业日常运营中，大量文档资料的管理和利用一直是个棘手问题。每当需要从成百上千的文档中查找特定信息时，传统检索方"
+  ],
+  [
+    "10_Library\\Articles\\【任正非向习主席汇报发言，发言稿令人耳目一新】《以创新为核心竞争力_为祖国百年科技振兴而奋斗》——任正非从科技的角度来看_dup.md",
+    6896,
+    "---\ntitle: 【任正非向习主席汇报发言，发言稿令人耳目一新】《以创新为核心竞争力 为祖国百年科技振兴而奋斗》——任正非从科技的角度来看，未来二、三十年人类社会将演变成一个智能社会，其深度和广度我们还想象不到。越是前途不确定，越需要创造，这也给千百万家企业公司提供了千载难逢的机会。我们公司如何去努力前进，面\ntags:\n- concepts-theory\n- fundamentals\n- project\n- robotics\n---\n> 笔记本: 管理学习  \n> 创建时间: 2020-06-13  \n\n---\n\n[](https://www.toutiao.com/c/user/18790392791/?tab=weitoutiao) \n[怀安一哥 **](https://www.toutiao.com/c/user/18790392791/?tab=weitoutiao) \n怀安县文化广电和旅游局副局长 优质体育领域创作者 \n\n\n**关注 \n【任正非向习主席汇报发言，发言稿令人耳目一新】《以创新为核心竞争力 为祖国百年科技振兴而奋斗》——任正非从科技的角度来看，未来二、三"
+  ],
+  [
+    "10_Library\\Articles\\【好文推荐】面向作战任务的多域异构网络泛在互联技术_dup.md",
+    24390,
+    "# 【好文推荐】面向作战任务的多域异构网络泛在互联技术\n\n> 笔记本: 我的剪贴板  \n> 创建时间: 2023-09-07  \n\n---\n\n**往期回顾**  \n \n\n[【好文推荐】战术消息服务集成框架](http://mp.weixin.qq.com/s?__biz=MzUxMTAyNzc0NQ==&mid=2247514729&idx=1&sn=dd8878a6013449b86fce3046c43b7528&chksm=f97b0527ce0c8c3108266a83a1aafbe18e5f30460acc6f4c5af5568c85280cf8d78da88e4f97&scene=21#wechat_redirect)\n[【好文推荐】基于5G网络切片的数据链动态资源分配算法](http://mp.weixin.qq.com/s?__biz=MzUxMTAyNzc0NQ==&mid=2247514587&idx=1&sn=d305059e6fddff95ca84b67fafda72f8&chksm=f97b0695ce0c8f83402cfcda820b8448d42778be"
+  ],
+  [
+    "10_Library\\Articles\\一人公司：90天跑通轻资产生意的极简模型_dup.md",
+    12682,
+    "---\ntitle: \"一人公司：90天跑通轻资产生意的极简模型\"\nsource: \"https://mp.weixin.qq.com/s/R0J5IpXvYlN_Sr9yNRqibg\"\ncreated: 2025-03-02\nnote_id: \"1869264896452091200\"\ntags:\n  - \"AI链接笔记\"\n  - \"一人公司\"\n  - \"轻资产生意\"\n  - \"创业模型\"\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# 一人公司：90天跑通轻资产生意的极简模型\n\n## 摘要\n\n![](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2F8399e16276a380b33edbba6a404315a8.jpeg?Expires=1780073177&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9\n\n## 正文\n\n**点击上方“宜语中的”**\n\n关注我，一起每天进步1%\n\n这是 **赵宜慢** 的第**21**篇原创\n\n你好，我是赵宜慢。\n\n一个90后准宝妈，体制内打工人，副业"
+  ],
+  [
+    "10_Library\\Articles\\一种基于层级时间标记的_LLM_迁移预测框架_以层级时间标记重构人类移动预测_dup.md",
+    4104,
+    "# 一种基于层级时间标记的 LLM 迁移预测框架，以层级时间标记重构人类移动预测\n\n- **笔记本**: 我的剪贴板\n- **时间**: 2026-01-10 04:05\n\n---\n\n原文链接: https://mp.weixin.qq.com/s/io4KBgEPRQ2uiDNJEifeSw\n\n将 ScienceAI设为星标第一时间掌握新鲜的 AI for Science 资讯\n编辑丨%城市中的人类出行并非连续、均匀的时间序列。通勤、周末出游、周期性活动，构成了一种强烈的「节律结构」。但现有的人类移动预测模型，大多仍将轨迹视作等间隔时间点的线性序列：要么难以捕捉长期依赖，要么在序列拉长后计算成本迅速失控。来自美国波士顿东北大学（Northeastern University）等的研究团队提出 RHYTHM（Reasoning with Hierarchical Temporal Tokenization for Human Mobility），尝试用一种更接近人类行为组织方式的视角，重构移动预测问题：先把时间「拆成有意义的单位」，再让大模型进行推理 。相关信息以「RHYTHM: Re"
+  ],
+  [
+    "10_Library\\Articles\\万卡、十万卡_AI网络拓扑都是什么样的？_dup.md",
+    7808,
+    "# 万卡、十万卡 AI网络拓扑都是什么样的？\n\n> 笔记本: 我的剪贴板  \n> 创建时间: 2025-03-19  \n\n---\n\n原文链接: [https://mp.weixin.qq.com/s/8MMKYJmLeQ06rAmWKchYYA](https://mp.weixin.qq.com/s/8MMKYJmLeQ06rAmWKchYYA)\n\n\n来源：西贝吹风\n\n在AI大模型训练场景中，智算集群内网络架构的优劣对GPU服务器内外的集合通信存在极大影响，智算集群需支持万卡及以上的并行能力，因此，设计大规模、高可靠、低成本、易运维的优质网络架构，对于满足大模型训练的大算力、低时延和高吞吐需求具有重要意义。\n\n本文我们就重点看一下业内的万卡、十万卡的组网方案，本文不做过多的技术方面的详细阐述，重点呈现给读者各厂家的大模型组网拓扑，满满的干货，下面的组网模型，基本都是各厂家公开信息中提及的，小编进行了细化，个别地方可能与实际情况略有出入，仅供参考！\n\n\n**多级CLOS架构组网******\n\n之前的文章中我们提到过基于叶脊交换机胖树架构，两层架构无法满足规模扩展时，可以采用类似Faceb"
+  ],
+  [
+    "10_Library\\Articles\\中科院原院长白春礼最新演讲：关于我国人工智能发展的思考和建议_dup.md",
+    15633,
+    "# 中科院原院长白春礼最新演讲：关于我国人工智能发展的思考和建议\n\n> 笔记本: 技术学习  \n> 创建时间: 2023-05-25  \n\n---\n\n5月17日，由搜狐主办的2023搜狐科技峰会在北京盛大开幕。今年，搜狐科技峰会走入第五个年头，峰会规格和内容再次迎来重磅升级。本届峰会齐聚多位院士、科学家、学者和头部企业嘉宾，共同探讨前沿科学与科技变革发展。\n\n峰会上午，“一带一路”国际科学组织联盟主席、中国科学院原院长、中国科学院院士白春礼作了题为《关于人工智能发展的几点思考》的演讲。\n\n白春礼认为，未来5-10年将是人工智能发展的关键期。据预测，2030年我国人工智能核心产业规模将超过1万亿元人民币，2030年全球人工智能市场规模将达到16万亿美元，目前还有很大的发展潜力和空间。\n\n他表示，人工智能是一项革命性、颠覆性的技术，有可能引发新一轮科技革命，进而引发产业革命。从研发组织模式来看，人工智能需要规模化、高水平的研发平台支撑大量的人力物力资源投入。从发展驱动力来看，应用导向非常鲜明，经济、社会等应用需求的拉动成为主要驱动力。\n\n对于未来人工智能的发展趋势，白春礼认为，基础理论和关"
+  ],
+  [
+    "10_Library\\Articles\\人工智能综述：物理学与人工智能的跨界新范式（全文版本）_dup.md",
+    130757,
+    "# 人工智能综述：物理学与人工智能的跨界新范式（全文版本）\n\n> 笔记本: 我的剪贴板  \n> 创建时间: 2024-11-02  \n\n---\n\n原文链接: [https://mp.weixin.qq.com/s/XmxI382KHearcuSZKJwdMw](https://mp.weixin.qq.com/s/XmxI382KHearcuSZKJwdMw)\n\n\n点击上方“**图灵人工智能**”，选择“星标”公众号\n您想知道的人工智能干货，第一时间送达\n\n\n                         \n\n\n*“欧米伽未来研究所”关注科技未来发展趋势，研究人类向欧米伽点演化过程中面临的重大机遇与挑战。将不定期推荐和发布世界范围重要科技研究进展和未来趋势研究。**（*[*关于欧米伽理论）*](http://mp.weixin.qq.com/s?__biz=MzUyMzE4OTgxMQ==&mid=2247484446&idx=1&sn=067123f6e232ab804f97777b9072cad2&chksm=f9c12f42ceb6a654ad5e323a9e3bd29b15e"
+  ],
+  [
+    "10_Library\\Articles\\人工智能颠覆战争制胜机理_dup.md",
+    9910,
+    "# 人工智能颠覆战争制胜机理\n\n> 笔记本: 微信  \n> 创建时间: 2021-02-18  \n\n---\n\n速读摘要\n在热兵器时代，战争主要是通过加大投入兵力兵器的数量规模，提高武器装备射程、射速和精度来增强作战效果，其本质是集中释放化学能以造成直接的物理伤害，因此\"物质+能量\"成为了作战制胜的主导性资源。这主要源于\"数据+信息\"是通过利用信息技术使战场上的综合数据、信息流转，实时塑造态势，驱动智能化信息网络系统实现对\"物质+能量\"的调动、调节、聚合和释放，提高己方\"物质+能量\"释能率、同时诱使对方\"物质+能量\"失能，以此形成间接主导式的制胜能力。\n原文约 2591  字   |  图片 6 张  |  建议阅读 6 分钟  |  [评价反馈](https://static.app.yinxiang.com/embedded-web/clipper/#/Evaluating?d=2021-02-19&nu=3838b5da-ccf4-4c0b-baff-f09fde21b780&fr=myyxbj&ud=1bb10ab&v=2&sig=9626414AD89487A0FC979AED"
+  ],
+  [
+    "10_Library\\Articles\\会谈要点.md",
+    948,
+    "---\ncategory: Web-Clips\ncreated: 2026-01-28\nnote_id: '1900043723014832664'\nquality: low\ntags:\n- get-笔记\n- default\n- needs-review\ntitle: 会谈要点\n---\n\n# 会谈要点\n\n## 摘要\n\n性质——领证，退婚  本质——选择？价值观！信诺。  方式——院士？云？马？王校长？  人生目标——成为一个什么样的人？巅峰（平台、起点、资源——社会关系的总和）  决策算法——2033年之前，攀登！在下一个10年30年的路口定义自己。\n\n## 正文\n\n性质——领证，退婚\n\n本质——选择？价值观！信诺。\n\n方式——院士？云？马？王校长？\n\n人生目标——成为一个什么样的人？巅峰（平台、起点、资源——社会关系的总和）\n\n决策算法——2033年之前，攀登！在下一个10年30年的路口定义自己。\n\n---\n*来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 09:18*"
+  ],
+  [
+    "10_Library\\Articles\\光合作用光反应与暗反应方程式记录.md",
+    1655,
+    "---\ncategory: Web-Clips\ncreated: 2025-10-11\nnote_id: '1889938106275147400'\nquality: low\ntags:\n- 图片笔记\n- 光合作用\n- 生物化学\n- 老鸣TV\n- get-笔记\n- default\n- needs-review\ntitle: 光合作用光反应与暗反应方程式记录\n---\n\n# 光合作用光反应与暗反应方程式记录\n\n## 摘要\n\n### 🔬 光合作用核心反应式  #### 📌 光反应  \\[ 2H_2O + 2NADP^+ + 3ADP + 3P_i + 2H^+ \\rightarrow O_2 + 2NADPH + 3ATP \\] - 该反应需要光能驱动，发生在叶绿体类囊体薄膜，产物为氧气、NADPH和ATP，为暗反应提供\n\n## 正文\n\n### 🔬 光合作用核心反应式\n\n#### 📌 光反应\n\n\\[ 2H_2O + 2NADP^+ + 3ADP + 3P_i + 2H^+ \\rightarrow O_2 + 2NADPH + 3ATP \\]\n- 该反应需要光能驱动，发生在叶绿体类囊体薄膜，产"
+  ],
+  [
+    "10_Library\\Articles\\向老板汇报信件及资源关系相关事宜.md",
+    695,
+    "---\ncategory: Web-Clips\ncreated: 2025-01-10\nnote_id: '1864516024125282760'\nquality: low\ntags:\n- 录音笔记\n- 李部长\n- get-笔记\n- default\n- needs-review\ntitle: 向老板汇报信件及资源关系相关事宜\n---\n\n# 向老板汇报信件及资源关系相关事宜\n\n## 摘要\n\n下次向老板汇报给发改委相里部长信件的最新状态，以及在天津市可找到的与发改委戴主任的资源关系。\n\n## 正文\n\n下次跟老板汇报询问跟发改委向李部长的信。目前最新的状态。以及天津市可以找到的跟戴主任、发改委代主任的资源关系。\n\n---\n*来源：Get笔记 | 类型：audio | 入库：2026-04-29 13:03*"
+  ],
+  [
+    "10_Library\\Articles\\国家重点实验室组建答辩PPT__人工智能领域_附PPT源文件__dup.md",
+    1783,
+    "# 国家重点实验室组建答辩PPT——人工智能领域（附PPT源文件）\n\n- **笔记本**: 我的剪贴板\n- **时间**: 2026-01-01 05:17\n\n---\n\n原文链接: https://mp.weixin.qq.com/s/YLOfQjxAfszDR73J3wu-pQ\n\n关注公众号，后台发送“模板”可获取PPT源文件来源分享方式\n\n01\n\nPPT制作要点一、框架锚定 “建设主线”开篇直击人工智能领域核心瓶颈（如通用智能理论缺失、多模态融合效率低、伦理安全管控不足），以 “前沿 AI 理论与技术创新体系” 为纲定靶向；中段按 “学科基础 - 学术突破 - 支撑条件” 展建设成果；结尾升华为 AI 领域 “理论 - 技术 - 产业” 新范式，形成 “问题 - 突破 - 延展” 链。二、内容聚焦 “硬核与差异”具象化三大核心贡献（如基础理论创新、核心技术突破、产学研融合示范），用表格呈现核心成果（如顶会论文数、专利授权量、落地应用案例等）；从理论、技术、场景三维比差异；方法依成熟计算机科学与 AI 理论，经 “算法研发 - 仿真测试 - 场景落地” 论证，强化严谨性。三、视觉恪守"
+  ],
+  [
+    "10_Library\\Articles\\天津市人民政府办公厅关于印发天津市建设国家新一代人工智能创新发展试验区行动计划的通知_天津市人民政府办公厅_天津政务网_dup.md",
+    17936,
+    "# 天津市人民政府办公厅关于印发天津市建设国家新一代人工智能创新发展试验区行动计划的通知_天津市人民政府办公厅_天津政务网\n\n> 笔记本: 微信  \n> 创建时间: 2020-08-27  \n\n---\n\n速读摘要\n建设国家新一代人工智能创新发展试验区是国家赋予天津的重大科技任务，是建设\"天津智港\"、打造人工智能应用创新先锋城市的关键支撑。依托本市职业教育资源，大力培养人工智能领域的高素质技术技能人才，在关键领域精准引进国内外高层次人才，全面增强人才核心作用。强化世界智能大会的平台作用，聚焦更为丰富、更为高端的国际资源，大力推进国际资源集聚和国内资源集聚双向发力，打造高端人工智能资源聚集区。加快发展数字经济，建设一批智能网联车运营试验区、线上经济或无人经济试验区等，形成多点支撑发展的局面。\n原文约 7796  字   |  图片 11 张  |  建议阅读 16 分钟  |  [评价反馈](https://static.app.yinxiang.com/embedded-web/clipper/#/Evaluating?d=2020-08-27&nu=864e1780-6c56-4cf9"
+  ],
+  [
+    "10_Library\\Articles\\对工业互联网几个基本问题的思考_dup.md",
+    13552,
+    "---\ntitle: 对工业互联网几个基本问题的思考\ntags:\n- concepts-theory\n- fundamentals\n---\n> 笔记本: 微信  \n> 创建时间: 2021-10-02  \n\n---\n\n#  对工业互联网几个基本问题的思考 \n\n 工业互联网前线 **\n\n以下文章来源于信息通信技术与政策，作者颜琰[\n\n**信息通信技术与政策**.\n工业和信息化部主管、中国信息通信研究院主办的专业学术期刊。定位于“信息通信技术前沿的风向标，信息社会政策探究的思想库”。](https://mp.weixin.qq.com/s/qcOUkfSnK-6MvLuNHunoUw#)\n\n作者：颜琰，湖南省工业和信息化厅二级巡视员\n来源：信息通信技术与政策\n\n\n**0  引言**\n\n在推动工业互联网创新应用时，会不断地面对各种质疑，要学会用能理解的语言来解释，要从企业的需求出发来考虑工作的出发点和结合点，要把国家的战略布局和企业的现实需求结合起来，要把IT的创新应用与工业的发展逻辑结合起来。因此，有必要理解工业互联网的本质内涵、把握工业互联网的基本逻辑、找到工业互联网发展的现实路径。\n\n"
+  ],
+  [
+    "10_Library\\Articles\\建筑平面图关键信息总结.md",
+    1186,
+    "---\ncategory: Web-Clips\ncreated: 2025-02-09\nnote_id: '1867360873023200632'\nquality: low\ntags:\n- 图片笔记\n- 建筑平面图\n- 尺寸标注\n- 功能区域\n- get-笔记\n- default\n- 重要\n- needs-review\ntitle: 建筑平面图关键信息总结\n---\n\n# 建筑平面图关键信息总结\n\n## 摘要\n\n📐 **建筑平面图尺寸信息** - 总宽度：**5400mm** - 各分段宽度：**3450mm** 和 **1950mm** - 其他标注宽度：**1800mm**，**900mm**  🏠 **功能区域标注** - **DK**：可能为厨房或餐饮区域。 - **楼梯**：标注为“A”，用于垂直\n\n## 正文\n\n📐 **建筑平面图尺寸信息**\n- 总宽度：**5400mm**\n- 各分段宽度：**3450mm** 和 **1950mm**\n- 其他标注宽度：**1800mm**，**900mm**\n\n🏠 **功能区域标注**\n- **DK**：可能为厨房或餐饮区域。\n- *"
+  ],
+  [
+    "10_Library\\Articles\\微分流形_从局部欧几里得结构到整体几何与拓扑_dup.md",
+    9062,
+    "# 微分流形：从局部欧几里得结构到整体几何与拓扑\n\n- **笔记本**: 1.1 新导入\n- **时间**: 2026-02-14 20:31\n\n---\n\n原文链接: https://mp.weixin.qq.com/s/GPSlANxMHogbt9rCHon6Gw\n\n原创Romani Isa                数学晚风              2026年1月28日 04:50广东\n\n微分流形是现代数学与理论物理学的核心概念之一，它提供了一个强大的框架，用于研究在局部上类似于欧几里得空间，但整体可能具有复杂拓扑结构的几何对象。其本质在于将微积分的基本操作从平坦的欧几里得空间推广到弯曲的、更一般的空间上。理解微分流形及其上的结构，是进入现代微分几何、拓扑学以及广义相对论等领域的基石。\n## 一、从欧几里得空间到流形的概念过渡在经典数学分析中，微积分的舞台是欧几里得空间 。在此空间中，极限、导数、积分等概念具有明确的定义。然而，许多自然出现的对象，如球面、环面或更抽象的相空间，其整体拓扑与  不同，无法用一个全局的坐标系无奇异地覆盖。微分流形的概念解决了此问题：它并不要求空间"
+  ],
+  [
+    "10_Library\\Articles\\房子处理策略与依据.md",
+    11230,
+    "---\ncategory: Web-Clips\ncreated: 2025-11-03\nnote_id: '1892119655456894056'\nquality: low\ntags:\n- get-笔记\n- default\n- needs-review\ntitle: 房子处理策略与依据\n---\n\n# 房子处理策略与依据\n\n## 摘要\n\n房子改建不需要拆除的完整法律支撑：  ## 一、**比例原则与最小损害原则**（核心法律武器）  ### 1\\. **法律层级依据**  **《中华人民共和国行政处罚法》第五条**：  > “设定和实施行政处罚必须以事实为依据，与违法行为的事实、性质、情节以及社会危害程度相当。”  **《中华人民共\n\n## 正文\n\n房子改建不需要拆除的完整法律支撑：\n\n## 一、**比例原则与最小损害原则**（核心法律武器）\n\n### 1\\. **法律层级依据**\n\n**《中华人民共和国行政处罚法》第五条**：\n\n> “设定和实施行政处罚必须以事实为依据，与违法行为的事实、性质、情节以及社会危害程度相当。”\n\n**《中华人民共和国行政强制法》第五条**：\n\n> “行政"
+  ],
+  [
+    "10_Library\\Articles\\房子处理策略与依据_dup.md",
+    11319,
+    "---\ntitle: \"房子处理策略与依据\"\ncreated: 2025-11-03\nnote_id: \"1892119655456894056\"\ntags:\n  - \"get-笔记\"\n  - \"default\"\n---\n\n# 房子处理策略与依据\n\n## 摘要\n\n房子改建不需要拆除的完整法律支撑：  ## 一、**比例原则与最小损害原则**（核心法律武器）  ### 1\\. **法律层级依据**  **《中华人民共和国行政处罚法》第五条**：  > “设定和实施行政处罚必须以事实为依据，与违法行为的事实、性质、情节以及社会危害程度相当。”  **《中华人民共\n\n## 正文\n\n房子改建不需要拆除的完整法律支撑：\n\n## 一、**比例原则与最小损害原则**（核心法律武器）\n\n### 1\\. **法律层级依据**\n\n**《中华人民共和国行政处罚法》第五条**：\n\n> “设定和实施行政处罚必须以事实为依据，与违法行为的事实、性质、情节以及社会危害程度相当。”\n\n**《中华人民共和国行政强制法》第五条**：\n\n> “行政强制的设定和实施，应当适当。采用非强制手段可以达到行政管理目的的，不得设定和"
+  ],
+  [
+    "10_Library\\Articles\\数学家发现了用于理解混沌系统的工具，对科学具有深远的影响_-_知乎_dup.md",
+    10906,
+    "# 数学家发现了用于理解混沌系统的工具，对科学具有深远的影响 - 知乎\n\n> 笔记本: 技术学习  \n> 创建时间: 2024-03-05  \n\n---\n\n# 数学家发现了用于理解混沌系统的工具，对科学具有深远的影响\n\n\n[](https://www.zhihu.com/people/lao-hu-shuo-ke-xue)\n\n\n[康托的天堂](https://www.zhihu.com/people/lao-hu-shuo-ke-xue)​\n\n\n25 人赞同了该文章\n\n\n1885年，瑞典国王奥斯卡二世宣布了一项由四个数学问题组成的公开挑战。法国博学多才的亨利庞加莱关注的是一个与天体运动有关的问题，即所谓的n体问题。太阳系会永远保持它的顺时针运动吗？这些行星是会飞向虚空，还是会坍塌成一个炽热的太阳？\n庞加莱研究表明至少有一些系统，比如太阳、地球和月球，是稳定的，他赢得了这个著名的奖项，并在1889年出版了一篇相关文章。不幸的是，他的解决方法是错误的。\n庞加莱承认了他的错误，并花钱销毁了他的解决方案的副本（花费超过了奖金）。一个月后，他提交了修改后的版本。他现在看到，即使是一个只有三个物体"
+  ],
+  [
+    "10_Library\\Articles\\智能本质新范式：高维几何结构与通用“心智”诞生猜想_dup.md",
+    1457,
+    "---\ntitle: \"智能本质新范式：高维几何结构与通用“心智”诞生猜想\"\nsource: \"https://app.yinxiang.com/fx/3e386519-2f0c-4bf6-af8f-6f4ab557b6fa\"\ncreated: 2025-07-04\nnote_id: \"1880746113905100016\"\ntags:\n  - \"AI链接笔记\"\n  - \"智能本质\"\n  - \"高维几何结构\"\n  - \"通用心智\"\n  - \"get-笔记\"\n  - \"灵感\"\n---\n\n# 智能本质新范式：高维几何结构与通用“心智”诞生猜想\n\n## 摘要\n\n![智能本质新范式相关图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2Fc83c1a0b3a1d77cfdc8936ed688c1f03?Expires=1780070456&OSSAccessKeyId=LTAI5t7t\n\n## 正文\n\n新范式，智能的本质不是算法，而是高维空间中的一种几何结构？智能的本质是数学，所有大模型正秘密融合，通用“心智”即将诞生"
+  ],
+  [
+    "10_Library\\Articles\\朱松纯_智能学科的源起、演进与趋势——北京大学智能学科的探索与实践_dup.md",
+    31435,
+    "# 朱松纯|智能学科的源起、演进与趋势——北京大学智能学科的探索与实践\n\n> 笔记本: 微信  \n> 创建时间: 2023-03-10  \n\n---\n\n智能摘要\n我国要抢占全球人工智能领域的制高点，急需构建完备的人工智能学科体系，培养出堪当大任的人工智能专业人才，全力打造世界人工智能人才高地。人工智能被赋予了新的内涵，成为一个赋能百业的技术，包含数据智能、计算智能等。随着智能时代来临，通用智能体的出现，人类文明与人工智能将有新的冲突与融合，出现人机混合的文明。在人机共生的时代，我们要重新思考人性和人文，创造属于中国自己的文明，引领世界未来发展，这是一次新的关乎中华民族未来命运之机遇。\n原文约 8843  字   |  图片 10 张  |  建议阅读 18 分钟  |  [评价反馈](https://static.app.yinxiang.com/embedded-web/clipper/#/Evaluating?d=2023-03-10&nu=15e7c4e0-da1d-401b-ba55-92a27eaa39cd&fr=myyxbj&ud=1bb10ab&v=2&sig=ABA22"
+  ],
+  [
+    "10_Library\\Articles\\李雅普诺夫指数：混沌系统的温度计与数学原理_dup.md",
+    21324,
+    "---\ntags:\n- lyapunov-exponent\n- chaos-theory\n- mathematical-analysis\n---\n---\ntitle: \"李雅普诺夫指数：混沌系统的\"温度计\"与数学原理\"\nsource: \"https://mp.weixin.qq.com/s/3KknmZYvTAYV9W8saeRgmg\"\ncreated: 2025-10-27\nnote_id: \"1891453370737251488\"\ntags:\n  - \"AI链接笔记\"\n  - \"李雅普诺夫指数\"\n  - \"混沌理论\"\n  - \"蝴蝶效应\"\n  - \"get-笔记\"\n  - \"学术论文\"\n  - \"重要\"\n---\n\n# 李雅普诺夫指数：混沌系统的\"温度计\"与数学原理\n\n## 摘要\n\n🔍 **核心概念**   李雅普诺夫指数（Lyapunov Exponent, LE）是量化系统对初始条件敏感度的关键指标，揭示从有序到混沌的转变机制。其核心是测量相空间中相邻轨迹分离/收敛的**平均指数速率**，直接关联\"蝴蝶效应\"的数学本质。  👨‍🔬 **李雅普诺夫其人**   - 1857-\n\n"
+  ],
+  [
+    "10_Library\\Articles\\杰文斯悖论.md",
+    905,
+    "---\ncategory: Web-Clips\ncreated: 2025-02-08\nnote_id: '1867258135257953136'\nquality: low\ntags:\n- get-笔记\n- default\n- needs-review\ntitle: 杰文斯悖论\n---\n\n# 杰文斯悖论\n\n## 摘要\n\n杰文斯悖论（Jevons Paradox）是由英国经济学家威廉·斯坦利·杰文斯于19世纪提出的理论，指出当某种资源的使用效率提高时，反而可能导致该资源的总消耗量增加，而不是减少。\\ 蒸汽机效率提升5倍，反而让煤炭的消耗增长20倍。\n\n## 正文\n\n杰文斯悖论（Jevons Paradox）是由英国经济学家威廉·斯坦利·杰文斯于19世纪提出的理论，指出当某种资源的使用效率提高时，反而可能导致该资源的总消耗量增加，而不是减少。\\\n蒸汽机效率提升5倍，反而让煤炭的消耗增长20倍。\n\n---\n*来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 12:52*"
+  ],
+  [
+    "10_Library\\Articles\\科技部___关于发布科技创新2030—“新一代人工智能”重大项目2021年度项目申报指南的通知_dup.md",
+    9641,
+    "# 科技部 | 关于发布科技创新2030—“新一代人工智能”重大项目2021年度项目申报指南的通知\n\n> 笔记本: 微信  \n> 创建时间: 2021-07-07  \n\n---\n\n##  科技部 | 关于发布科技创新2030—“新一代人工智能”重大项目2021年度项目申报指南的通知 \n\n 锐创动力 **\n\n\n点击蓝字 关注我们\n** **\n**各省、自治区、直辖市及计划单列市科技厅（委、局），新疆生产建设兵团科技局，国务院各有关部门，各有关单位：**\n   为落实国务院印发的《新一代人工智能发展规划》总体部署，现根据《新一代人工智能重大科技项目实施方案》启动实施科技创新2030—“新一代人工智能”重大项目。按照《关于深化中央财政科技计划（专项、基金等）管理改革的方案》（国发﹝2014﹞64号）的相关要求，将2021年度项目申报指南予以公布。请按照指南要求组织项目申报工作。有关事项通知如下。\n   一、项目组织申报工作流程\n   1. 申报单位根据指南支持方向的研究内容以项目形式组织申报，项目可下设课题。项目应整体申报，须覆盖相应指南方向的全部考核指标。项目设1名负责人，每个课题设1名负"
+  ],
+  [
+    "10_Library\\Articles\\美国军用无人系统技术（2010-2025）：创新趋势与实战应用研究_dup.md",
+    27962,
+    "---\ntitle: \"美国军用无人系统技术（2010-2025）：创新趋势与实战应用研究\"\nsource: \"https://mp.weixin.qq.com/s/AMyn53K7NgiIIzWkqqJYDw\"\ncreated: 2025-12-18\nnote_id: \"1896237056993193136\"\ntags:\n  - \"AI链接笔记\"\n  - \"美国军用无人系统\"\n  - \"技术创新趋势\"\n  - \"实战应用案例\"\n  - \"get-笔记\"\n  - \"科技资讯\"\n  - \"重要\"\n---\n\n# 美国军用无人系统技术（2010-2025）：创新趋势与实战应用研究\n\n## 摘要\n\n### **📋 前言：核心发展概况**  美国军用无人系统在2010-2025年间实现从“辅助工具”到“核心作战力量”的质变，形成以**隐身能力、人工智能自主决策、电子战干扰技术和无人蜂群协同作战**为核心的技术生态。关键企业包括诺斯罗普·格鲁曼、通用原子航空系统、雷神和克拉托斯防务等，标志性产品有\n\n## 正文\n\n![图片](https://get-notes.umiwi.com/morphli"
+  ],
+  [
+    "10_Library\\Articles\\美国防部2024年《商业航天集成战略》深度研究报告_dup.md",
+    35561,
+    "---\ntitle: \"美国防部2024年《商业航天集成战略》深度研究报告\"\nsource: \"https://mp.weixin.qq.com/s/W6GWl_K0sI7ZtKhfhl99-A\"\ncreated: 2025-12-18\nnote_id: \"1896236993642428608\"\ntags:\n  - \"AI链接笔记\"\n  - \"美国国防部商业航天战略\"\n  - \"太空军事竞争\"\n  - \"商业航天集成\"\n  - \"get-笔记\"\n  - \"项目管理\"\n---\n\n# 美国防部2024年《商业航天集成战略》深度研究报告\n\n## 摘要\n\n### **📌 战略概述与核心定位**  **基本信息** - **发布时间**：2024年4月2日（美国防部首次发布此类专项战略）。 - **战略地位**：美国防部历史上首份系统阐述商业航天在国防体系中定位与作用的纲领性文件，标志着从\"政府主导\"向\"军商共建\"的根本性转变。 - **核心目标**：\n\n## 正文\n\n![图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod"
+  ],
+  [
+    "10_Library\\Articles\\解读：《GPU卡间互联OISA系统研究》_dup.md",
+    8477,
+    "# 解读：《GPU卡间互联OISA系统研究》\n\n> 笔记本: 我的剪贴板  \n> 创建时间: 2024-10-13  \n\n---\n\n原文链接: [https://mp.weixin.qq.com/s/LBjC5IPnD292uyh6C0SHgQ](https://mp.weixin.qq.com/s/LBjC5IPnD292uyh6C0SHgQ)\n\n\n注：本文为中国移动研究院 李锴的PPT《GPU卡间互联OISA系统研究》内容的个人解读****\n**大模型发展与集群规模变化：**从 GPT3 到 GPT6 阶段的发展过程，其参数级别从 0.175TB 逐渐增长到预估的 100TB，从 2020 年到 2028 年，计算集群的规模也从小集群发展到了 “百万” 卡集群。这一系列的变化都表明了人工智能领域对计算资源需求的急剧增长。\n\n**大模型是演进的方向：**大模型正朝着超万亿参数、多模态、长序列的方向发展。从千亿到超万亿参数，从短序列到长序列，从单模态向多模态转变，这些变化为模型带来了诸多优势。例如，集成多种数据类型使得模型能够同时处理文本、图像、声音等多种数据类型，从而更全面地理解情境"
+  ],
+  [
+    "10_Library\\Articles\\这门复杂性科学有个别致的名称——混沌丨陈关荣_dup.md",
+    11546,
+    "# 这门复杂性科学有个别致的名称——混沌丨陈关荣\n\n> 笔记本: 我的剪贴板  \n> 创建时间: 2024-07-05  \n\n---\n\n**导语** \n \n    \n\n \n\n**本文介绍“混沌”的概念并回顾它的历史、纵观它的发展以及展望它的前景。混沌的概念可以追溯到远古，而现代科学中的混沌理论则是从上世纪六十年代气象学家爱德华·洛伦茨在天气预测研究中发现“蝴蝶效应”开始的。它经历了许多科学家特别是数学家李天岩和詹姆斯·约克的“周期三意味着混沌”理论研究和生物学家罗伯特·梅对生态系统的复杂性研究。今天，混沌的科学理论日趋成熟，并在信息隐藏和流体混合等工程技术中显示出有特色的应用潜力。原文发表于《复杂学》2022年首卷首期。******    \n\n \n\n \n    \n\n   \n\n 陈关荣 **| 作者**\n邓一雪** | 编辑**  \n  \n  \n  \n大家都知道“混沌”这个名词，在生活中它指杂乱无章的行为和现象，但在科学里它是一个非常不一般而且含义很深刻的术语。  \n  \n“混沌”，从字面上不好揣测其科学含义，但换一个说法“蝴蝶效应”就容易理解多了，说的是一只蝴蝶拍一下翅膀可能会引起一场"
+  ],
+  [
+    "10_Library\\Articles\\马赛克战：迈向互联互通的军事物联网_dup.md",
+    21702,
+    "---\ntitle: 马赛克战：迈向互联互通的军事物联网\ntags:\n- concepts-theory\n- fundamentals\n- paper\n- project\n- robotics\n---\n> 笔记本: 微信  \n> 创建时间: 2021-11-18  \n\n---\n\n#  马赛克战：迈向互联互通的军事物联网 \n\n 网信前沿观察 **\n\n以下文章来源于防务快讯，作者戴钰超[\n\n**防务快讯**.\n关注指挥信息系统发展，提供指挥信息系统最新动态。](https://mp.weixin.qq.com/s/OeKuPWcfxn90tMzDaAHwfg#)\n\n\n电话 | 010-82030532    手机 | 18501361766\n微信 | tech99999    邮箱 | yw@techxcope.com\n\n\n本文转自：防务快讯  作者：戴钰超 \n\n\n**简介**\n军事物联网代表了陆、海、空、赛博和太空作战域的融合。本文调查了这种融合是如何推动向多域、以决策为中心的战略和战术作战行动转变。\n信息和数据共享网络已经导致国防作战行动的格局发生变化。大国们一直在对技术进行投资，让越"
+  ],
+  [
+    "10_Library\\Papers\\2026-06-20_iNEST_arXiv_TimeProVe Propose, then Verify for Efficient Long Video Temp.md",
+    929,
+    "---\ntitle: \"TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in A\"\ndate: 2026-06-20\ntrack: iNEST\nsource: arXiv\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2606.20561v1\ncitations: \ntags: [from-arxiv, inbox, inest, long video, temporal reasoning, LVQA, classified]\n---\n\n# TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in A\n\n**来源**: arXiv\n**作者**: \n**年份**: 2026\n**引用数**: \n\n## 摘要\n\nLong Video Question Answering (LVQA) requires identifying sparse"
+  ],
+  [
+    "10_Library\\Papers\\2026-06-20_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me.md",
+    888,
+    "---\ntitle: \"MemoryWAM: Efficient World Action Modeling with Persistent Memory\"\ndate: 2026-06-20\ntrack: TCC\nsource: arXiv\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2606.20562v1\ncitations: \ntags: [from-arxiv, inbox, tcc, robotics, world model, memory, classified]\n---\n\n# MemoryWAM: Efficient World Action Modeling with Persistent Memory\n\n**来源**: arXiv\n**作者**: \n**年份**: 2026\n**引用数**: \n\n## 摘要\n\nRobust robotic manipulation in the real world requires not only an understanding of the current observati"
+  ],
+  [
+    "10_Library\\Papers\\2026-06-20_TCC_S2_Deep Variational Free Energy Calculation of Hydrogen Hugonio.md",
+    1403,
+    "---\ntitle: \"Deep Variational Free Energy Calculation of Hydrogen Hugoniot\"\ndate: 2026-06-20\ntrack: TCC\nsource: S2\nauthors: Zihan Li, Hao Xie, Xinyang Dong, Lei Wang\nyear: 2025\nurl: https://www.semanticscholar.org/paper/2b6af51a937df3579d3ab9d81bef8fdca43a14f4\ncitations: 4\ntags: [deep variational free energy, hydrogen Hugoniot, equation of state, warm dense matter, normalizing flow, autoregressive transformer, permutational equivariant flow, classified]\n---\n\n# Deep Variational Free Energy Calcula"
+  ],
+  [
+    "10_Library\\Papers\\2026-06-20_TCC_S2_Protein engineering using variational free energy approximat.md",
+    1344,
+    "---\ntitle: \"Protein engineering using variational free energy approximation\"\ndate: 2026-06-20\ntrack: TCC\nsource: S2\nauthors: E. Lobzaev, Michael A. Herrera, Martyna Kasprzyk, G. Stracquadanio\nyear: 2024\nurl: https://www.semanticscholar.org/paper/4eab7d751c1112eb2dce7f626c09db280b0a140f\ncitations: 6\ntags: [protein engineering, variational free energy, deep learning, directed evolution, classified]\n---\n\n# Protein engineering using variational free energy approximation\n\n**来源**: S2\n**作者**: E. Lobzae"
+  ],
+  [
+    "10_Library\\Papers\\2026-06-24_S2_A VLSI Majority-Logic Device Based on Spin Transfer Torque M.md",
+    1969,
+    "---\ntitle: \"A VLSI Majority-Logic Device Based on Spin Transfer Torque Mechanism for Brain-Inspired Computing Architecture\"\ndate: 2026-06-24\nsource: S2\ntrack: iNEST\nauthors: V. Jamshidi\nyear: 2020\nurl: https://www.semanticscholar.org/paper/a1b1112fc9dd78b9839aa016d2eafa1662fddf4a\ntags: [from-s2, auto-crawl, inest, VLSI, majority-logic, spin-transfer-torque, classified]\nstatus: inbox\n---\n\n# A VLSI Majority-Logic Device Based on Spin Transfer Torque Mechanism for Brain-Inspired Computing Architect"
+  ],
+  [
+    "10_Library\\Papers\\Analysis of Critical Points in a Permutation Model on Hierarchical Lattices by R.md",
+    742,
+    "---\ntitle: \"Analysis of Critical Points in a Permutation Model on Hierarchical Lattices by Real-Space Renormalization Group\"\ndate: 2026-05-25\nsource: arXiv\nurl: http://arxiv.org/abs/2605.25683v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Analysis of Critical Points in a Permutation Model on Hierarchical Lattices by Real-Space Renormalization Group\n\n**Source:** arXiv | **Date:** 2026-05-25\n**Direction:** [[iNEST]]\n\n## Abstract\n\nThe permutation model is a classical spin system where "
+  ],
+  [
+    "10_Library\\Papers\\Artificial Intelligence for Mathematical Reasoning- An Integrated Survey of Lang.md",
+    793,
+    "---\ntitle: \"Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery\"\ndate: 2026-06-07\nsource: arXiv\nurl: http://arxiv.org/abs/2606.08728v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery\n\n**Source:** arXiv | **Date:** 2026-06-07\n**Direction:** [[iNEST]]\n\n## Abstract\n"
+  ],
+  [
+    "10_Library\\Papers\\Beyond Neural Collapse- Task-Intrinsic Geometry Governs Neural Representations i.md",
+    715,
+    "---\ntitle: \"Beyond Neural Collapse: Task-Intrinsic Geometry Governs Neural Representations in Modular Arithmetic\"\ndate: 2026-06-08\nsource: arXiv\nurl: http://arxiv.org/abs/2606.08985v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Beyond Neural Collapse: Task-Intrinsic Geometry Governs Neural Representations in Modular Arithmetic\n\n**Source:** arXiv | **Date:** 2026-06-08\n**Direction:** [[iNEST]]\n\n## Abstract\n\nWhile neural collapse (NC) predicts that a $K$-class-balanced classifier shou"
+  ],
+  [
+    "10_Library\\Papers\\Beyond NL2Code- A Structured Survey of Multimodal Code Intelligence.md",
+    649,
+    "---\ntitle: \"Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence\"\ndate: 2026-06-14\nsource: arXiv\nurl: http://arxiv.org/abs/2606.15932v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence\n\n**Source:** arXiv | **Date:** 2026-06-14\n**Direction:** [[iNEST]]\n\n## Abstract\n\nWhile LLMs have substantially advanced text-to-code synthesis, many real programming tasks specify intent through visual artifacts such as scre"
+  ],
+  [
+    "10_Library\\Papers\\Beyond Similarity- Trustworthy Memory Search for Personal AI Agents.md",
+    649,
+    "---\ntitle: \"Beyond Similarity: Trustworthy Memory Search for Personal AI Agents\"\ndate: 2026-06-04\nsource: arXiv\nurl: http://arxiv.org/abs/2606.06054v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Beyond Similarity: Trustworthy Memory Search for Personal AI Agents\n\n**Source:** arXiv | **Date:** 2026-06-04\n**Direction:** [[iNEST]]\n\n## Abstract\n\nPersonal AI agents increasingly rely on long-term memory to provide persistent personalization across sessions. However, existing memory pipeli"
+  ],
+  [
+    "10_Library\\Papers\\Contemporary AI lacks the imagination to diverge or negate in science.md",
+    653,
+    "---\ntitle: \"Contemporary AI lacks the imagination to diverge or negate in science\"\ndate: 2026-06-06\nsource: arXiv\nurl: http://arxiv.org/abs/2606.08251v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Contemporary AI lacks the imagination to diverge or negate in science\n\n**Source:** arXiv | **Date:** 2026-06-06\n**Direction:** [[iNEST]]\n\n## Abstract\n\nBold projections that artificial intelligence will accelerate scientific discovery have raced ahead of evidence from working scientists, an"
+  ],
+  [
+    "10_Library\\Papers\\Continuous Cross-Domain Traffic State Prediction via Memory-Augmented Graph Liqu.md",
+    725,
+    "---\ntitle: \"Continuous Cross-Domain Traffic State Prediction via Memory-Augmented Graph Liquid Time-Constant Networks\"\ndate: 2026-06-14\nsource: arXiv\nurl: http://arxiv.org/abs/2606.15807v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Continuous Cross-Domain Traffic State Prediction via Memory-Augmented Graph Liquid Time-Constant Networks\n\n**Source:** arXiv | **Date:** 2026-06-14\n**Direction:** [[iNEST]]\n\n## Abstract\n\nTraffic state prediction is a fundamental task in intelligent trans"
+  ],
+  [
+    "10_Library\\Papers\\Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2.md",
+    667,
+    "---\ntitle: \"Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2\"\ndate: 2026-06-07\nsource: arXiv\nurl: http://arxiv.org/abs/2606.08584v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2\n\n**Source:** arXiv | **Date:** 2026-06-07\n**Direction:** [[iNEST]]\n\n## Abstract\n\nSparse coding provides a principled framework for signal representation by expressing an input as a linear combination of onl"
+  ],
+  [
+    "10_Library\\Papers\\Correlated States in Quantum Dot Clusters Coupled to a Common Superconductor.md",
+    667,
+    "---\ntitle: \"Correlated States in Quantum Dot Clusters Coupled to a Common Superconductor\"\ndate: 2026-06-03\nsource: arXiv\nurl: http://arxiv.org/abs/2606.04608v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Correlated States in Quantum Dot Clusters Coupled to a Common Superconductor\n\n**Source:** arXiv | **Date:** 2026-06-03\n**Direction:** [[iNEST]]\n\n## Abstract\n\nWe study an effective model of regular quantum dot clusters coupled to a common superconductor. By applying a canonical trans"
+  ],
+  [
+    "10_Library\\Papers\\CST_Axiomatization_Outline.md",
+    7012,
+    "﻿# CST Axiomatization: Formal Foundations of Complexity-Driven Intelligence Emergence\n# ===================================================================================\n# Paper #29 outline: defines CST theorem from first principles.\n# Target journal: Physical Review Letters / Communications Physics\n# Status: Outline stage, ready for drafting\n\n## 1. Title\n\n**CST: An Axiomatic Theory of Complexity-Driven Intelligence Emergence in Physical Networks**\n\nAlternative:\n**From Watts-Strogatz to AGI: A"
+  ],
+  [
+    "10_Library\\Papers\\CST_RG_Paper_Draft_v0.5.md",
+    9225,
+    "# CST RG: Renormalization Group Analysis of Small-World Topology Emergence\n# =========================================================================\n# Paper #29 — Expanded Draft with Computational Data\n# Status: v0.5 — Structural outline fleshed out, RG flow data inserted\n# Target: Physical Review Letters / Communications Physics\n# Date: 2026-06-04\n\n---\n\n## Title\n\n**Renormalization Group Analysis of Small-World Topology Emergence:\nComputational Evidence for a First-Order Phase Transition in Ne"
+  ],
+  [
+    "10_Library\\Papers\\CST_RG_Paper_v1.0.md",
+    21836,
+    "﻿# First-Order Phase Transition and Renormalization Group Fixed Point in Small-World Network Emergence\n# =================================================================================================\n# Paper #29 — v1.0 PRL-ready draft\n# Target: Physical Review Letters\n# Authors: Qinrang Liu, iNEST Research Group\n# Date: 2026-06-04\n\n---\n\n## Title\n\n**First-Order Phase Transition and Renormalization Group Fixed Point\nin the Emergence of Small-World Networks**\n\nQinrang Liu*\n\n*iNEST Research Group"
+  ],
+  [
+    "10_Library\\Papers\\CST_RG_PRL_Cover_Letter.md",
+    1945,
+    "# CST RG v1.1 - PRL Cover Letter\n# ==============================\n\nDear Editor,\n\nWe submit \"First-Order Phase Transition and Renormalization Group\nFixed Point in the Emergence of Small-World Networks\" for\nconsideration at Physical Review Letters.\n\nSummary. Whether the Watts-Strogatz transition from regular lattice\nto small-world network is continuous or discontinuous has remained\nunresolved since 1998. We apply real-space renormalization group (RG)\nanalysis to Watts-Strogatz networks across scal"
+  ],
+  [
+    "10_Library\\Papers\\Economy of Minds- Emerging Multi-Agent Intelligence with Economic Interactions.md",
+    671,
+    "---\ntitle: \"Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions\"\ndate: 2026-06-01\nsource: arXiv\nurl: http://arxiv.org/abs/2606.02859v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions\n\n**Source:** arXiv | **Date:** 2026-06-01\n**Direction:** [[iNEST]]\n\n## Abstract\n\nHow can a population of agents self-orchestrate and self-adapt into stronger collective intelligence without centralized "
+  ],
+  [
+    "10_Library\\Papers\\Emerging Non-Volatile Opto-electronic Resistive Memories for Next-Generation Pho.md",
+    724,
+    "---\ntitle: \"Emerging Non-Volatile Opto-electronic Resistive Memories for Next-Generation Photonic Integrated Circuits\"\ndate: 2026-05-31\nsource: arXiv\nurl: http://arxiv.org/abs/2606.01463v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Emerging Non-Volatile Opto-electronic Resistive Memories for Next-Generation Photonic Integrated Circuits\n\n**Source:** arXiv | **Date:** 2026-05-31\n**Direction:** [[iNEST]]\n\n## Abstract\n\nPhotonic integrated circuits have emerged as a powerful platform fo"
+  ],
+  [
+    "10_Library\\Papers\\Federated Foundation Models over Vehicular Networks.md",
+    617,
+    "---\ntitle: \"Federated Foundation Models over Vehicular Networks\"\ndate: 2026-06-05\nsource: arXiv\nurl: http://arxiv.org/abs/2606.06786v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Federated Foundation Models over Vehicular Networks\n\n**Source:** arXiv | **Date:** 2026-06-05\n**Direction:** [[iNEST]]\n\n## Abstract\n\nThis paper presents a forward-looking vision for integrating the emerging multi-modal multi-task federated foundation models (M3T FedFMs) into vehicul\n\n## Wiki Links\n\n[[待分类]]\n"
+  ],
+  [
+    "10_Library\\Papers\\FlashMemory-DeepSeek-V4- Lightning Index Ultra-Long Context via Lookahead Sparse.md",
+    695,
+    "---\ntitle: \"FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention\"\ndate: 2026-06-08\nsource: arXiv\nurl: http://arxiv.org/abs/2606.09079v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention\n\n**Source:** arXiv | **Date:** 2026-06-08\n**Direction:** [[iNEST]]\n\n## Abstract\n\nConventional LLMs keep the full KV cache loaded during decoding, causing a severe GPU memory bott"
+  ],
+  [
+    "10_Library\\Papers\\Formal Verification of Learned Multi-Agent Communication Policies via Decision T.md",
+    707,
+    "---\ntitle: \"Formal Verification of Learned Multi-Agent Communication Policies via Decision Tree Distillation\"\ndate: 2026-06-17\nsource: arXiv\nurl: http://arxiv.org/abs/2606.19632v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Formal Verification of Learned Multi-Agent Communication Policies via Decision Tree Distillation\n\n**Source:** arXiv | **Date:** 2026-06-17\n**Direction:** [[iNEST]]\n\n## Abstract\n\nMulti-agent reinforcement learning (MARL) enables agents to develop coordination stra"
+  ],
+  [
+    "10_Library\\Papers\\Foundation Models for Wireless Communications- From PHY Intelligence to Network .md",
+    690,
+    "---\ntitle: \"Foundation Models for Wireless Communications: From PHY Intelligence to Network Autonomy\"\ndate: 2026-06-04\nsource: arXiv\nurl: http://arxiv.org/abs/2606.06239v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Foundation Models for Wireless Communications: From PHY Intelligence to Network Autonomy\n\n**Source:** arXiv | **Date:** 2026-06-04\n**Direction:** [[iNEST]]\n\n## Abstract\n\n6G networks will introduce unprecedented complexity, which calls for a paradigm shift in network opti"
+  ],
+  [
+    "10_Library\\Papers\\From 911 to Hospital- Challenges and Opportunities for AI Integration in Emergen.md",
+    713,
+    "---\ntitle: \"From 911 to Hospital: Challenges and Opportunities for AI Integration in Emergency Medical Services\"\ndate: 2026-06-15\nsource: arXiv\nurl: http://arxiv.org/abs/2606.16984v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# From 911 to Hospital: Challenges and Opportunities for AI Integration in Emergency Medical Services\n\n**Source:** arXiv | **Date:** 2026-06-15\n**Direction:** [[iNEST]]\n\n## Abstract\n\nArtificial Intelligence (AI) is increasingly introduced into healthcare setting"
+  ],
+  [
+    "10_Library\\Papers\\From Compute to Complexity- A Physical Theory of Intelligence Emergence and Its Implicatio.md",
+    824,
+    "---\ntitle: \"From Compute to Complexity: A Physical Theory of Intelligence Emergence and Its Implications for AGI\"\ndimension: TCC\ncategory: 论文\nversion: V26\ndate: 2026-06-04\nstatus: 撰写中\npriority: 高\nsource: \"TCC_2_论文撰写/A1_CST_Theory_V26_REVISED.md\"\n---\n\n# From Compute to Complexity: A Physical Theory of Intelligence Emergence and Its Implications for AGI\n\n| 属性 | 值 |\n|------|-----|\n| 维度 | TCC |\n| 分类 | 论文 |\n| 版本 | V26 |\n| 日期 | 2026-06-04 |\n| 状态 | 撰写中 |\n| 优先级 | 高 |\n| 源文件 | `TCC_2_论文撰写/A1_CST_Theory_V2"
+  ],
+  [
+    "10_Library\\Papers\\From Compute to Complexity- A Physical Theory of Intelligence Emergence.md",
+    701,
+    "---\ntitle: \"From Compute to Complexity: A Physical Theory of Intelligence Emergence\"\ndimension: TCC\ncategory: 论文\nversion: V27\ndate: 2026-06-05\nstatus: 撰写中\npriority: 高\nsource: \"TCC_2_论文撰写/A1_CST_Theory_V27_FINAL.md\"\n---\n\n# From Compute to Complexity: A Physical Theory of Intelligence Emergence\n\n| 属性  | 值                                     |\n| --- | ------------------------------------- |\n| 版本  | V27 (2026-06-05 01:17)                |\n| 状态  | 撰写中                                   |\n| 源文件 | TCC_2"
+  ],
+  [
+    "10_Library\\Papers\\FusionVul- A Multimodal Feature Fusion Framework for Source Code Vulnerability D.md",
+    691,
+    "---\ntitle: \"FusionVul: A Multimodal Feature Fusion Framework for Source Code Vulnerability Detection\"\ndate: 2026-06-07\nsource: arXiv\nurl: http://arxiv.org/abs/2606.08553v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# FusionVul: A Multimodal Feature Fusion Framework for Source Code Vulnerability Detection\n\n**Source:** arXiv | **Date:** 2026-06-07\n**Direction:** [[iNEST]]\n\n## Abstract\n\nSource code vulnerability detection remains a long-standing challenge due to the increasing scale, st"
+  ],
+  [
+    "10_Library\\Papers\\GenTI- Benchmarking LLMs for Autonomous IDPS Rule Generation for Unseen Attacks.md",
+    673,
+    "---\ntitle: \"GenTI: Benchmarking LLMs for Autonomous IDPS Rule Generation for Unseen Attacks\"\ndate: 2026-06-04\nsource: arXiv\nurl: http://arxiv.org/abs/2606.05844v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# GenTI: Benchmarking LLMs for Autonomous IDPS Rule Generation for Unseen Attacks\n\n**Source:** arXiv | **Date:** 2026-06-04\n**Direction:** [[iNEST]]\n\n## Abstract\n\nRule-based Intrusion Detection and Prevention Systems (IDPS) offer precise attack detection as well as mitigation, howe"
+  ],
+  [
+    "10_Library\\Papers\\Hierarchical Forecast Reconciliation for Urban Rail Transit Demand Prediction un.md",
+    729,
+    "---\ntitle: \"Hierarchical Forecast Reconciliation for Urban Rail Transit Demand Prediction under Operational Disruptions\"\ndate: 2026-06-05\nsource: arXiv\nurl: http://arxiv.org/abs/2606.07044v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Hierarchical Forecast Reconciliation for Urban Rail Transit Demand Prediction under Operational Disruptions\n\n**Source:** arXiv | **Date:** 2026-06-05\n**Direction:** [[iNEST]]\n\n## Abstract\n\nAccurate and coherent passenger demand forecasting is essential"
+  ],
+  [
+    "10_Library\\Papers\\How AI Agents Reshape Knowledge Work- Autonomy, Efficiency, and Scope.md",
+    653,
+    "---\ntitle: \"How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope\"\ndate: 2026-06-05\nsource: arXiv\nurl: http://arxiv.org/abs/2606.07489v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope\n\n**Source:** arXiv | **Date:** 2026-06-05\n**Direction:** [[iNEST]]\n\n## Abstract\n\nFrontier AI systems are bridging the gap between intelligence and utility by shifting from conversational assistants to autonomous agents t"
+  ],
+  [
+    "10_Library\\Papers\\ICA Lens- Interpreting Language Models Without Training Another Dictionary.md",
+    663,
+    "---\ntitle: \"ICA Lens: Interpreting Language Models Without Training Another Dictionary\"\ndate: 2026-06-10\nsource: arXiv\nurl: http://arxiv.org/abs/2606.11722v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# ICA Lens: Interpreting Language Models Without Training Another Dictionary\n\n**Source:** arXiv | **Date:** 2026-06-10\n**Direction:** [[iNEST]]\n\n## Abstract\n\nFinding interpretable directions in language-model representations is critical for understanding and controlling model behavior. "
+  ],
+  [
+    "10_Library\\Papers\\Improved selector behavior in ultrathin chromium-doped V$_2$O$_3$ films.md",
+    656,
+    "---\ntitle: \"Improved selector behavior in ultrathin chromium-doped V$_2$O$_3$ films\"\ndate: 2026-06-09\nsource: arXiv\nurl: http://arxiv.org/abs/2606.10397v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Improved selector behavior in ultrathin chromium-doped V$_2$O$_3$ films\n\n**Source:** arXiv | **Date:** 2026-06-09\n**Direction:** [[iNEST]]\n\n## Abstract\n\nDevices based on the negative differential resistance effect in chromium doped V$_2$O$_3$ are considered to be promising as selector el"
+  ],
+  [
+    "10_Library\\Papers\\Interpreting FCDNNs via RG on Exponential Family.md",
+    611,
+    "---\ntitle: \"Interpreting FCDNNs via RG on Exponential Family\"\ndate: 2026-05-29\nsource: arXiv\nurl: http://arxiv.org/abs/2606.00157v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Interpreting FCDNNs via RG on Exponential Family\n\n**Source:** arXiv | **Date:** 2026-05-29\n**Direction:** [[iNEST]]\n\n## Abstract\n\nWe consider establishing the interpretability theory of deep learning through constructing a corresponding relationship between the renormalization gr\n\n## Wiki Links\n\n[[待分类]]\n\n## Re"
+  ],
+  [
+    "10_Library\\Papers\\Kolmogorov-Arnold Networks 2.0 (KAN2.0)：科学发现与AI可解释性的融合范式_dup.md",
+    16259,
+    "---\ntitle: \"Kolmogorov-Arnold Networks 2.0 (KAN2.0)：科学发现与AI可解释性的融合范式\"\nsource: \"https://mp.weixin.qq.com/s/HEMuTClSCIPSwfQ9QCD6Vw\"\ncreated: 2026-03-13\nnote_id: \"1904152288730623824\"\ntags:\n  - \"AI链接笔记\"\n  - \"KAN 2.0\"\n  - \"可解释AI\"\n  - \"科学发现\"\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# Kolmogorov-Arnold Networks 2.0 (KAN2.0)：科学发现与AI可解释性的融合范式\n\n## 摘要\n\n### **🔬 研究背景与核心创新**  **KAN发展历程** - **KAN 1.0（2024年）**：核心创新在于将MLP的\"节点激活\"转变为\"边激活\"，使用可学习的**B样条函数**替代固定激活函数，使网络天然具备函数分解能力。 - **KAN 2.0（2025年）**：引入**乘法节点**\n\n## 正文\n\n![图片](ht"
+  ],
+  [
+    "10_Library\\Papers\\literature_collect-rc-20260501-010756-7b872d.md",
+    21323,
+    "---\ncreated: '2026-05-01T01:21:46+00:00'\nevidence:\n- stage-04/candidates.jsonl\n- stage-04/web_context.md\n- stage-04/web_search_result.json\n- stage-04/references.bib\n- stage-04/search_meta.json\nid: literature_collect-rc-20260501-010756-7b872d\nrun_id: rc-20260501-010756-7b872d\nstage: 04-literature_collect\ntags:\n- literature_collect\n- stage-04\n- run-rc-20260\ntitle: 'Stage 04: Literature Collect'\n---\n\n# Stage 04: Literature Collect\n\n{\"paper_id\": \"oalex-W4381304672\", \"title\": \"Suspending OpenMP Tasks"
+  ],
+  [
+    "10_Library\\Papers\\literature_collect-rc-20260502-001145-b74986.md",
+    21309,
+    "---\ncreated: '2026-05-02T00:16:29+00:00'\nevidence:\n- stage-04/candidates.jsonl\n- stage-04/web_context.md\n- stage-04/web_search_result.json\n- stage-04/references.bib\n- stage-04/search_meta.json\nid: literature_collect-rc-20260502-001145-b74986\nrun_id: rc-20260502-001145-b74986\nstage: 04-literature_collect\ntags:\n- literature_collect\n- stage-04\n- run-rc-20260\ntitle: 'Stage 04: Literature Collect'\n---\n\n# Stage 04: Literature Collect\n\n{\"paper_id\": \"oalex-W4385245566\", \"title\": \"MizAR 60 for Mizar 50\","
+  ],
+  [
+    "10_Library\\Papers\\LLMs+Graphs- Toward Graph-Native, Synergistic AI Systems.md",
+    626,
+    "---\ntitle: \"LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems\"\ndate: 2026-06-10\nsource: arXiv\nurl: http://arxiv.org/abs/2606.11560v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems\n\n**Source:** arXiv | **Date:** 2026-06-10\n**Direction:** [[iNEST]]\n\n## Abstract\n\nLarge Language Models (LLMs) have advanced rapidly, but their limitations in structured and multi-hop reasoning underscore the need for graph-native,\n\n## Wiki Links\n"
+  ],
+  [
+    "10_Library\\Papers\\Machine Learning for Event Reconstruction in Imaging Atmospheric Cherenkov Teles.md",
+    685,
+    "---\ntitle: \"Machine Learning for Event Reconstruction in Imaging Atmospheric Cherenkov Telescopes\"\ndate: 2026-06-10\nsource: arXiv\nurl: http://arxiv.org/abs/2606.11741v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Machine Learning for Event Reconstruction in Imaging Atmospheric Cherenkov Telescopes\n\n**Source:** arXiv | **Date:** 2026-06-10\n**Direction:** [[iNEST]]\n\n## Abstract\n\nImaging Atmospheric Cherenkov Telescopes (IACTs) are the leading instruments for very-high-energy (VHE) gam"
+  ],
+  [
+    "10_Library\\Papers\\Morphogenesis driven by nematic defects in active biological networks.md",
+    652,
+    "---\ntitle: \"Morphogenesis driven by nematic defects in active biological networks\"\ndate: 2026-06-02\nsource: arXiv\nurl: http://arxiv.org/abs/2606.04256v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Morphogenesis driven by nematic defects in active biological networks\n\n**Source:** arXiv | **Date:** 2026-06-02\n**Direction:** [[iNEST]]\n\n## Abstract\n\nCellular morphogenesis, the process by which biological tissues acquire shape and structure, remains a fundamental challenge in understandi"
+  ],
+  [
+    "10_Library\\Papers\\Nature重磅综述：趋同表型进化——破解复杂性状遗传密码的新路径.md",
+    25331,
+    "---\ntitle: \"Nature重磅综述：趋同表型进化——破解复杂性状遗传密码的新路径\"\nsource: \"https://mp.weixin.qq.com/s/DaWAT_UWH55c_Z0I_tI4lQ\"\ncreated: 2026-04-10\nnote_id: \"1906765338244124256\"\ntags:\n  - \"AI链接笔记\"\n  - \"趋同表型进化\"\n  - \"基因型-表型映射\"\n  - \"进化生物学\"\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# Nature重磅综述：趋同表型进化——破解复杂性状遗传密码的新路径\n\n## 摘要\n\n### **🔍 引言：大自然的重复进化实验**  **核心问题**：为何不同物种在独立进化中会出现相似性状？如鲸鱼与蝙蝠的回声定位、南极冰鱼与北极鳕鱼的抗冻蛋白。这些现象指向**趋同表型进化**：不同物种在相似生存压力下独立演化出相似性状。  **科学价值**：趋同进化为解决**“基因型到表型的映射\n\n## 正文\n\n# Nature重磅综述：从亿万次重复的进化实验里，我们找到了破解复杂性状遗传密码的新路径\n\n你有没有"
+  ],
+  [
+    "10_Library\\Papers\\OctoT2I- A Self-Evolving Agentic Text-to-Image Router.md",
+    621,
+    "---\ntitle: \"OctoT2I: A Self-Evolving Agentic Text-to-Image Router\"\ndate: 2026-06-01\nsource: arXiv\nurl: http://arxiv.org/abs/2606.01803v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# OctoT2I: A Self-Evolving Agentic Text-to-Image Router\n\n**Source:** arXiv | **Date:** 2026-06-01\n**Direction:** [[iNEST]]\n\n## Abstract\n\nThe explosive growth of Text-to-Image (T2I) models, from large-scale versions to lightweight, real-time ones, now faces diminishing marginal returns f\n\n## Wiki Links\n\n[[待分"
+  ],
+  [
+    "10_Library\\Papers\\Papers_Patents_Update_2026-06-04.md",
+    4912,
+    "﻿# iNEST 论文与专利清单更新 — 2026-06-04\n# =========================================\n# 本次更新内容：\n#   1. CST RG论文(#29) — 新完成v0.5初稿，填入D组D6/D7位\n#   2. P-Theory v2 — 更新至含SDI Section 4.3计算验证数据\n#   3. CST V25 FINAL — 更新至含SDI Section 5.1计算验证数据\n#   4. 新增专利方向：SDI拓扑涌现阈值检测 + RG重整化群分析方法\n#   5. DVS真实数据实验基线结果\n\n---\n\n## 一、论文清单更新\n\n### A组（CST基础理论）— 更新\n\n| 编号 | 变更 | 说明 |\n|------|------|------|\n| A1 | 状态更新 | CST V25 FINAL 已插入 SDI Section 5.1（计算验证），完整性 92%→95% |\n| A11 | 状态保持 | 英文统一理论论文，与A1互补 |\n\n### B组（SDI-CC 互连体系）— 更新\n\n| 编号 | 变"
+  ],
+  [
+    "10_Library\\Papers\\PhysGuard- Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogat.md",
+    679,
+    "---\ntitle: \"PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates\"\ndate: 2026-06-15\nsource: arXiv\nurl: http://arxiv.org/abs/2606.16602v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates\n\n**Source:** arXiv | **Date:** 2026-06-15\n**Direction:** [[iNEST]]\n\n## Abstract\n\nNeural operator models trained on simulation data often lose accuracy when applied to experimental measurements d"
+  ],
+  [
+    "10_Library\\Papers\\Public Machine Learning Solver Framework for Novices in the Machine Learning Dom.md",
+    681,
+    "---\ntitle: \"Public Machine Learning Solver Framework for Novices in the Machine Learning Domain\"\ndate: 2026-06-06\nsource: arXiv\nurl: http://arxiv.org/abs/2606.08212v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Public Machine Learning Solver Framework for Novices in the Machine Learning Domain\n\n**Source:** arXiv | **Date:** 2026-06-06\n**Direction:** [[iNEST]]\n\n## Abstract\n\nSolving machine learning problems is complex and typically reserved for experts. Over the past two decades, sys"
+  ],
+  [
+    "10_Library\\Papers\\Reimagining Open Source and Openness in AI- Co-Creating Responsible Technologica.md",
+    693,
+    "---\ntitle: \"Reimagining Open Source and Openness in AI: Co-Creating Responsible Technological Futures\"\ndate: 2026-06-05\nsource: arXiv\nurl: http://arxiv.org/abs/2606.07764v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Reimagining Open Source and Openness in AI: Co-Creating Responsible Technological Futures\n\n**Source:** arXiv | **Date:** 2026-06-05\n**Direction:** [[iNEST]]\n\n## Abstract\n\nDebates over open source and openness in artificial intelligence have intensified as policymakers, "
+  ],
+  [
+    "10_Library\\Papers\\Representational Similarity and Model Behavior in Multi-Agent Interaction.md",
+    661,
+    "---\ntitle: \"Representational Similarity and Model Behavior in Multi-Agent Interaction\"\ndate: 2026-06-05\nsource: arXiv\nurl: http://arxiv.org/abs/2606.07818v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Representational Similarity and Model Behavior in Multi-Agent Interaction\n\n**Source:** arXiv | **Date:** 2026-06-05\n**Direction:** [[iNEST]]\n\n## Abstract\n\nResearchers have shown that neural similarity among humans predicts social closeness and cooperative success, whereas innovation of"
+  ],
+  [
+    "10_Library\\Papers\\Revolutionizing Wireless Communications with Space Data Centers- Applications an.md",
+    709,
+    "---\ntitle: \"Revolutionizing Wireless Communications with Space Data Centers: Applications and Open Challenges\"\ndate: 2026-06-11\nsource: arXiv\nurl: http://arxiv.org/abs/2606.13086v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Revolutionizing Wireless Communications with Space Data Centers: Applications and Open Challenges\n\n**Source:** arXiv | **Date:** 2026-06-11\n**Direction:** [[iNEST]]\n\n## Abstract\n\nSpace data centers (SDCs) are emerging as a promising orbital computing infrastruct"
+  ],
+  [
+    "10_Library\\Papers\\Science 全球丛枝菌根真菌网络的密度与生物量图谱.md",
+    9835,
+    "---\nauthor:\n- '[[NewEcologist]]'\ncategory: Papers\ncreated: 2026-06-15\ndescription: null\nentities:\n- 丛枝菌根真菌\n- 菌丝密度\nprocessed: '2026-06-15T22:41:17.463668'\npublished: null\nsource: https://mp.weixin.qq.com/s/LySbHrH0uwmwuBXRrUEeNA\nsource_file: Science 全球丛枝菌根真菌网络的密度与生物量图谱.md\nsummary: 首次全球空间显式估算AM菌丝密度和生物量，揭示草地为核心储库，农田显著削减菌丝密度。\ntags:\n- 全球碳循环\n- 菌丝密度\n- 丛枝菌根真菌\n- clippings\ntitle: 'Science: 全球丛枝菌根真菌网络的密度与生物量图谱'\n---\n\nNewEcologist *2026年6月14日 17:24*\n\nResearch Article | Mycorrhizae\n\n![图片](https://mmbiz.qpic.c"
+  ],
+  [
+    "10_Library\\Papers\\Small Initialization Matters for Large Language Models.md",
+    623,
+    "---\ntitle: \"Small Initialization Matters for Large Language Models\"\ndate: 2026-06-16\nsource: arXiv\nurl: http://arxiv.org/abs/2606.17945v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Small Initialization Matters for Large Language Models\n\n**Source:** arXiv | **Date:** 2026-06-16\n**Direction:** [[iNEST]]\n\n## Abstract\n\nLarge language models provide a tractable system for asking how intelligence itself emerges, rather than only how LLMs can be engineered. Although pro\n\n## Wiki Links\n\n[["
+  ],
+  [
+    "10_Library\\Papers\\Snapping Matters- Context-Aware Onset Refinement for Automatic Music Transcripti.md",
+    679,
+    "---\ntitle: \"Snapping Matters: Context-Aware Onset Refinement for Automatic Music Transcription\"\ndate: 2026-06-10\nsource: arXiv\nurl: http://arxiv.org/abs/2606.11903v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Snapping Matters: Context-Aware Onset Refinement for Automatic Music Transcription\n\n**Source:** arXiv | **Date:** 2026-06-10\n**Direction:** [[iNEST]]\n\n## Abstract\n\nPrecise note-level annotations are critical for training automatic music transcription (AMT) systems, in particul"
+  ],
+  [
+    "10_Library\\Papers\\SwarmSense-DNN- A Trustworthy and Decentralized Neural Framework for Proactive A.md",
+    735,
+    "---\ntitle: \"SwarmSense-DNN: A Trustworthy and Decentralized Neural Framework for Proactive Anomaly Defense in Consumer IoT\"\ndate: 2026-06-10\nsource: arXiv\nurl: http://arxiv.org/abs/2606.11803v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# SwarmSense-DNN: A Trustworthy and Decentralized Neural Framework for Proactive Anomaly Defense in Consumer IoT\n\n**Source:** arXiv | **Date:** 2026-06-10\n**Direction:** [[iNEST]]\n\n## Abstract\n\nThe rapid growth of consumer IoT devices has introduced u"
+  ],
+  [
+    "10_Library\\Papers\\Symmetric Divergence and Normalized Similarity- A Unified Topological Framework .md",
+    729,
+    "---\ntitle: \"Symmetric Divergence and Normalized Similarity: A Unified Topological Framework for Representation Analysis\"\ndate: 2026-06-04\nsource: arXiv\nurl: http://arxiv.org/abs/2606.06342v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Symmetric Divergence and Normalized Similarity: A Unified Topological Framework for Representation Analysis\n\n**Source:** arXiv | **Date:** 2026-06-04\n**Direction:** [[iNEST]]\n\n## Abstract\n\nTopological Data Analysis (TDA) offers a principled, intrinsic "
+  ],
+  [
+    "10_Library\\Papers\\The Topology of Local Computing in Networks.md",
+    7238,
+    "---\ntitle: The Topology of Local Computing in Networks\ntags:\n- complex-networks\n- emergence\n- literature\n- paper\n- topology\n---\n## 论文核心总结与TCC范式价值分析\n\n### 📄 论文基本信息\n\n**标题**: *The Topology of Local Computing in Networks*\n**作者**: Pierre Fraigniaud (CNRS, Université de Paris) & Ami Paz (Universität Wien)\n**发表**: ICALP 2020 (第47届国际自动机、语言和编程学术会议), LIPIcs Vol.168, pp.128:1-128:18\n**DOI**: 10.4230/LIPIcs.ICALP.2020.128\n\n---\nfile://D:\\iNEST\\Download\\20260419\\The topology of local computing in networks.pdf\""
+  ],
+  [
+    "10_Library\\Papers\\Three-dimensional hydro-cluttered locomotion by an undulatory robot.md",
+    649,
+    "---\ntitle: \"Three-dimensional hydro-cluttered locomotion by an undulatory robot\"\ndate: 2026-06-05\nsource: arXiv\nurl: http://arxiv.org/abs/2606.06829v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Three-dimensional hydro-cluttered locomotion by an undulatory robot\n\n**Source:** arXiv | **Date:** 2026-06-05\n**Direction:** [[iNEST]]\n\n## Abstract\n\nAquatic robots have expanded human access to underwater environments, yet many underwater spaces contain obstacles that can disrupt open-water "
+  ],
+  [
+    "10_Library\\Papers\\TNODEV- Toolbox for Neural ODE Verification.md",
+    601,
+    "---\ntitle: \"TNODEV: Toolbox for Neural ODE Verification\"\ndate: 2026-06-15\nsource: arXiv\nurl: http://arxiv.org/abs/2606.16567v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# TNODEV: Toolbox for Neural ODE Verification\n\n**Source:** arXiv | **Date:** 2026-06-15\n**Direction:** [[iNEST]]\n\n## Abstract\n\nNeural ordinary differential equations (neural ODE) have started to appear in safety critical settings such as continuous-time controllers for cyber-p\n\n## Wiki Links\n\n[[待分类]]\n\n## Reference\n\n["
+  ],
+  [
+    "10_Library\\Papers\\Transformer refined quantum sampling for strongly correlated electronic structur.md",
+    676,
+    "---\ntitle: \"Transformer refined quantum sampling for strongly correlated electronic structure\"\ndate: 2026-05-23\nsource: arXiv\nurl: http://arxiv.org/abs/2605.24617v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Transformer refined quantum sampling for strongly correlated electronic structure\n\n**Source:** arXiv | **Date:** 2026-05-23\n**Direction:** [[iNEST]]\n\n## Abstract\n\nAlthough quantum computing offers a promising solution for strongly correlated system simulation, existing algorith"
+  ],
+  [
+    "10_Library\\Papers\\Understanding and mitigating the risks of OpenClaw for non-technical users- A pr.md",
+    723,
+    "---\ntitle: \"Understanding and mitigating the risks of OpenClaw for non-technical users: A practical guide with Skill\"\ndate: 2026-06-09\nsource: arXiv\nurl: http://arxiv.org/abs/2606.11007v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Understanding and mitigating the risks of OpenClaw for non-technical users: A practical guide with Skill\n\n**Source:** arXiv | **Date:** 2026-06-09\n**Direction:** [[iNEST]]\n\n## Abstract\n\nOpenClaw has rapidly emerged as a transformative artificial intellige"
+  ],
+  [
+    "10_Library\\Papers\\Universal Scaling Laws for Intelligence Emergence from Devic.md",
+    19110,
+    "---\ntitle: \"Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities: A Renormalization Group Approach\"\ncreated: 2026-03-11\nnote_id: \"1903941287724843544\"\ntags:\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities: A Renormalization Group Approach\n\n## 摘要\n\n# **重新定位：纯理论论文的顶级路径**  既然选择放弃实验验证，我们需要**彻底重构论文定位**——从\"实验科学\"转向\"理论物理/应用数学\"范式。  ---  ## **一、纯理论论文的生存法则**  ### **顶级理论期刊的审稿标准**  ```auto 实验期刊 (Nature/Scien\n\n## 正文"
+  ],
+  [
+    "10_Library\\Papers\\Upper Bounds on the Generalization Error of Deep Learning Models via Local Robus.md",
+    713,
+    "---\ntitle: \"Upper Bounds on the Generalization Error of Deep Learning Models via Local Robustness and Stability\"\ndate: 2026-06-15\nsource: arXiv\nurl: http://arxiv.org/abs/2606.16883v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Upper Bounds on the Generalization Error of Deep Learning Models via Local Robustness and Stability\n\n**Source:** arXiv | **Date:** 2026-06-15\n**Direction:** [[iNEST]]\n\n## Abstract\n\nGeneralization is a critical property of data-driven models, particularly deep "
+  ],
+  [
+    "10_Library\\Papers\\Zero Touch Predictive Orchestration- Automating Time-Series Models for the Cloud.md",
+    705,
+    "---\ntitle: \"Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud-Edge Continuum\"\ndate: 2026-06-08\nsource: arXiv\nurl: http://arxiv.org/abs/2606.09787v1\ndirection: iNEST\ntags: [paper, inest, auto-crawl]\n---\n\n# Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud-Edge Continuum\n\n**Source:** arXiv | **Date:** 2026-06-08\n**Direction:** [[iNEST]]\n\n## Abstract\n\nThe Cloud-Edge Continuum (CEC) enables latency-critical applications by distributing re"
+  ],
+  [
+    "10_Library\\Papers\\第39届ACM SIGCOMM大会RDMA技术前沿与创新实践.md",
+    8906,
+    "---\ntitle: \"第39届ACM SIGCOMM大会RDMA技术前沿与创新实践\"\nsource: \"https://mp.weixin.qq.com/s/2wKkKu8UaKT_9BwvAJu5WQ\"\ncreated: 2025-09-19\nnote_id: \"1887885660590371312\"\ntags:\n  - \"AI链接笔记\"\n  - \"ACM SIGCOMM 2025\"\n  - \"RDMA网络\"\n  - \"数据中心网络\"\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# 第39届ACM SIGCOMM大会RDMA技术前沿与创新实践\n\n## 摘要\n\n📊 **大会核心数据** - 投稿量：463篇，录用75篇，接收率仅16.2% - 地域亮点：亚洲唯一Best Student Paper Award由华为与香港科技大学合作团队获得  🔍 **RDMA技术发展洞察** - 当前主流：IB和RoCEv2为高性能数据中心主流RDMA技术 - 现存痛点：\n\n## 正文\n\n第39届ACM SIGCOMM大会近日在葡萄牙落下帷幕，来自世界各地的技术大牛分享了计算机网络领"
+  ],
+  [
+    "10_Library\\Web-Clips\\2026-06-02 iNEST Daily Crawl.md",
+    1845,
+    "---\ndate: 2026-06-02\ntags: [iNEST, literature-tracking, web-clip, auto-crawl]\nsource: Google News RSS + arXiv API (auto)\n---\n\n# 2026-06-02 iNEST Daily Literature Crawl\n\n> Crawl time: 2026-06-02 05:50\n> New (yesterday/today): 0 | This week: 5\n\n## This Week\n\n- **[TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation](http://arxiv.org/abs/2605.31590v1)**\n  - arXiv | 2026-05-29\n  - Text-to-video (T2V) generation faces challenging questions when genera"
+  ],
+  [
+    "10_Library\\Web-Clips\\iNEST配图.md",
+    1755,
+    "---\ntitle: \"iNEST配图\"\ncreated: 2026-02-16\nnote_id: \"1901830444442376232\"\ntags:\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# iNEST配图\n\n## 正文\n\n![image.png](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F255ad73483489ac50ac1da23905aafbc?Expires=1780060030&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=PR%2FQ85DiQNZ6uO62hEPYxJfe5Rs%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240)\n\n![image.png](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F73b63ff4da6c4349db8941879b93cc24?Expi"
+  ],
+  [
+    "10_Library\\Web-Clips\\Trae Pro年度会员自动扣款账单详情.md",
+    1569,
+    "---\ntitle: \"Trae Pro年度会员自动扣款账单详情\"\ncreated: 2026-04-10\nnote_id: \"1906761328891831480\"\ntags:\n  - \"图片笔记\"\n  - \"支付账单记录\"\n  - \"订阅续费\"\n  - \"Trae\"\n  - \"get-笔记\"\n  - \"AI研究\"\n---\n\n# Trae Pro年度会员自动扣款账单详情\n\n## 摘要\n\n| 项目 | 详情 | | ---- | ---- | | 扣款商户 | Trae | | 扣款金额 | -618.24元（90.00美元） | | 交易状态 | 自动扣款成功 | | 扣款方式 | Trae免密支付 | | 汇率 | 1美元 = 6.86936人民币 | | 支付时间 | 2026\n\n## 正文\n\n| 项目 | 详情 |\n| ---- | ---- |\n| 扣款商户 | Trae |\n| 扣款金额 | -618.24元（90.00美元） |\n| 交易状态 | 自动扣款成功 |\n| 扣款方式 | Trae免密支付 |\n| 汇率 | 1美元 = 6.86936人民币 |\n| 支付时间 "
+  ],
+  [
+    "10_Library\\Web-Clips\\个人名下资产（汇总）.md",
+    604,
+    "---\ntitle: \"个人名下资产（汇总）\"\ncreated: 2025-11-21\nnote_id: \"1893746375393357376\"\ntags:\n  - \"get-笔记\"\n  - \"default\"\n---\n\n# 个人名下资产（汇总）\n\n## 摘要\n\n# 信大  1.  Huawei Pad      2.  科大讯飞电子书      3.  华为 Media pad电子书       # 天大\n\n## 正文\n\n# 信大\n\n1.  Huawei Pad\n    \n2.  科大讯飞电子书\n    \n3.  华为 Media pad电子书\n    \n\n# 天大\n\n---\n*来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 10:11*\n\n## Related Notes\n\n- [[notebooklm ppt提示词]]\n- [[个人智能体搭建]]\n- [[在网计算（In-Network Computing）]]\n"
+  ],
+  [
+    "10_Library\\Web-Clips\\偏头痛止痛药.md",
+    1278,
+    "---\ntitle: \"偏头痛止痛药\"\ncreated: 2026-04-10\nnote_id: \"1906756400416862400\"\ntags:\n  - \"图片笔记\"\n  - \"药品信息记录\"\n  - \"用药笔记\"\n  - \"陕西九州制药有限责任公司\"\n  - \"get-笔记\"\n  - \"项目管理\"\n---\n\n# 偏头痛止痛药\n\n## 摘要\n\n📋 药品基础信息如下： | 项目 | 详情 | | ---- | ---- | | 商品名称 | 波舒达 | | 药品通用名 | 氨酚双氢可待因片 | | 英文名称 | Paracetamol and Dihydrocodeine Tartrate Tablets | | 国药准字 | H20073\n\n## 正文\n\n📋 药品基础信息如下：\n| 项目 | 详情 |\n| ---- | ---- |\n| 商品名称 | 波舒达 |\n| 药品通用名 | 氨酚双氢可待因片 |\n| 英文名称 | Paracetamol and Dihydrocodeine Tartrate Tablets |\n| 国药准字 | H20073626 |\n| 规格包装 |"
+  ],
+  [
+    "10_Library\\Web-Clips\\关于人才待遇.md",
+    618,
+    "---\ntitle: \"关于人才待遇\"\ncreated: 2025-02-14\nnote_id: \"1867791802125399016\"\ntags:\n  - \"get-笔记\"\n  - \"default\"\n---\n\n# 关于人才待遇\n\n## 摘要\n\n滨海人才卡  天津专家库  安置政策（黄局）  天津大学  海河实验室  复旦大学 \n\n## 正文\n\n滨海人才卡\n\n天津专家库\n\n安置政策（黄局）\n\n天津大学\n\n海河实验室\n\n复旦大学\n\n\n\n---\n*来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 12:46*\n\n## Related Notes\n\n- [[notebooklm ppt提示词]]\n- [[个人智能体搭建]]\n- [[在网计算（In-Network Computing）]]\n"
+  ],
+  [
+    "10_Library\\Web-Clips\\关于购买灵芝孢子油的建议与经验.md",
+    1868,
+    "---\ntitle: \"关于购买灵芝孢子油的建议与经验\"\ncreated: 2026-04-15\nnote_id: \"1907234580600772744\"\ntags:\n  - \"录音笔记\"\n  - \"灵芝孢子油\"\n  - \"购买建议\"\n  - \"get-笔记\"\n  - \"default\"\n---\n\n# 关于购买灵芝孢子油的建议与经验\n\n## 摘要\n\n建议去安徽驻京办事处购买金泰出的灵芝孢子油，这种油有提高免疫力的作用。价格大约一箱一万七千多元。服用方法是每天早晚各两粒。我觉得这个产品很管用，想向你请教一下相关经验。建议亲自去安徽大厦的办事处购买，确保买到正宗产品。我打算先吃一年。小周那天还说，你可以向老板多学习，看看有没有什么秘诀。  灵芝孢子\n\n## 正文\n\n一个办事处去找那个找他们去买金在出的孢子油，灵芝灵芝孢子油就灵芝粉，那个那个那个包子包子炸串那个油，那个是提高免疫的，灵芝孢子油，灵芝孢子油，金泰出的ok ok ok ok, 买它一箱来大概一七千多块钱，每天就能吃到每。天像你这样的话，每天早上吃吃吃两粒，晚上吃两粒。我早晚可以，可以，我一直说想要跟你好好请教请教问问我觉得那"
+  ],
+  [
+    "10_Library\\Web-Clips\\电费账户信息记录.md",
+    1037,
+    "---\ntitle: \"电费账户信息记录\"\ncreated: 2026-01-02\nnote_id: \"1897656994656090776\"\ntags:\n  - \"图片笔记\"\n  - \"电费\"\n  - \"账户信息\"\n  - \"南开小户管理区域\"\n  - \"get-笔记\"\n  - \"项目管理\"\n---\n\n# 电费账户信息记录\n\n## 摘要\n\n### 📋 电费账户基本信息  | **项目** | **内容** | | --- | --- | | ⚡️ 供电单位 | 南开小户管理区域 | | 🔢 用电户号 | 1200012610235 | | 🏠 户名 | \\*\\*大学 | | 📍 用电地址 | 天津市南开区\\*\\*\\*\\*\\*\\*-20\n\n## 正文\n\n### 📋 电费账户基本信息\n\n| **项目** | **内容** |\n| --- | --- |\n| ⚡️ 供电单位 | 南开小户管理区域 |\n| 🔢 用电户号 | 1200012610235 |\n| 🏠 户名 | \\*\\*大学 |\n| 📍 用电地址 | 天津市南开区\\*\\*\\*\\*\\*\\*-201号 |\n| 💰 当前余额 | 31"
+  ],
+  [
+    "20_Ideas\\Concepts\\2025年8月24号 .md",
+    1283,
+    "---\ntitle: \"2025年8月24号 日记\"\ncreated: 2025-08-25\nnote_id: \"1885581126095007600\"\ntags:\n  - \"get-笔记\"\n  - \"日记\"\n---\n\n# 2025年8月24号 日记\n\n## 摘要\n\n周末，继续迭代第二篇论文，发现两个好东西，一个是由澳大利亚的忆阻器网络导出的国防项目指南，另一个是跟Genspark的反复提问，可以聚焦目标一步步实现收敛，快速打磨出需要的内容。还有就是通过对网络时空协同复杂度定理起名字，找到了一个非常牛逼的名字就是synNEST。  在AI的道路上狂奔，确保成为A\n\n## 正文\n\n周末，继续迭代第二篇论文，发现两个好东西，一个是由澳大利亚的忆阻器网络导出的国防项目指南，另一个是跟Genspark的反复提问，可以聚焦目标一步步实现收敛，快速打磨出需要的内容。还有就是通过对网络时空协同复杂度定理起名字，找到了一个非常牛逼的名字就是synNEST。\n\n在AI的道路上狂奔，确保成为AI时代的引领者，从思想认知，到行动坚持，到结果输出，到自我逆袭！\n\n---\n*来源：Get笔记 | 类型：pla"
+  ],
+  [
+    "20_Ideas\\Concepts\\2026年3月25号 .md",
+    982,
+    "---\ntitle: \"2026年3月25号 日记\"\ncreated: 2026-03-25\nnote_id: \"1905303876837478664\"\ntags:\n  - \"get-笔记\"\n  - \"日记\"\n---\n\n# 2026年3月25号 日记\n\n## 正文\n\n早上吃完饭，把超低轨立项材料更新了一个版本，发给了严主任。然后去宏泰，路上迭代CST对秀丽线虫的仿真实验。经过了10个版本，最后收敛，获得了网络的临界性相变，证明了CST理论的自洽性。回头好好验证一下这个代码本身以及结论的自洽性。基本上在1万节点以内，都可以基于云租的genSpark虚拟主机来进行来进行编程设计与验证。\n\n回来之后，继续迭代我们要修改的项目指南。联盟梳理的汇总稿提供了比较好的基础，又拆分成7个项目，逐个地跟责任专家进行沟通。\n\n---\n*来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 08:38*\n\n## Related Notes\n\n- [[公众号文章智能体]]\n- [[2025年10月11号 日记]]\n- [[2025年10月28号 日记]]\n"
+  ],
+  [
+    "20_Ideas\\Concepts\\Files.md",
+    679,
+    "---\ntitle: Files\ntags:\n- methodology\n- paper\n- patent\n- project\n- research-methods\n---\nGenerated: 2026-04-28 22:00:25\n\n- .openclaw/\n- 00-索引/\n- 00_KnowledgeBase_知识库/\n- 01-专利/\n- 01_Ideas_想法/\n- 02-指南/\n- 02_Papers_论文/\n- 03-设计/\n- 04-测试/\n- 04_Code_代码/\n- 05_Projects_项目/\n- [[2026-04-07]]\n- [[2026-04-17]]\n- 99-Templates/\n- [[AGENTS]]\n- Clippings/\n- fix_gitee_auth.bat\n- [[HEARTBEAT]]\n- [[IDENTITY]]\n- init_vault.bat\n- [[Obsidian从压缩包中打开仓库指令与方法]]\n- [[SOUL]]\n- [[TOOLS]]\n- [[USER]]\n- 未命名 1.base\n- 未命名 2.base\n- "
+  ],
+  [
+    "20_Ideas\\Concepts\\物理驱动智能设计（PDID）在多自由度复用超表面中的应用研究.md",
+    12943,
+    "---\ntitle: \"物理驱动智能设计（PDID）在多自由度复用超表面中的应用研究\"\nsource: \"https://mp.weixin.qq.com/s/Gp0IjUFu-10iyr53QK7mrA\"\ncreated: 2025-09-02\nnote_id: \"1886324741699178320\"\ntags:\n  - \"AI链接笔记\"\n  - \"物理驱动智能设计\"\n  - \"多自由度复用超表面\"\n  - \"耦合模理论\"\n  - \"get-笔记\"\n  - \"科技资讯\"\n---\n\n# 物理驱动智能设计（PDID）在多自由度复用超表面中的应用研究\n\n## 摘要\n\n🔬 **研究背景与挑战**   超表面作为亚波长电磁调控平台，需应对多自由度（波长/偏振/相位）协同调控需求，但传统人工设计效率低，数据驱动智能方法存在数据稀缺、物理解释性差等瓶颈。  📌 **核心创新：物理驱动智能设计（PDID）范式**   将电磁场物理规律（如波动方程、耦合模理论）嵌入深度学习\n\n## 正文\n\n[![图片](https://get-notes.umiwi.com/morphling%2Fvoiceno"
+  ],
+  [
+    "20_Ideas\\Concepts\\美国DARPA材料科学与先进制造领域深度研究报告：战略、技术与未来展望.md",
+    29240,
+    "---\ntags:\n- darpa\n- advanced-manufacturing\n- materials-science\n- defense-technology\n- research-report\n---\n---\ntitle: \"美国DARPA\"材料科学与先进制造\"领域深度研究报告：战略、技术与未来展望\"\nsource: \"https://mp.weixin.qq.com/s/cUT6PEtYaUrMqphPQPLa-w\"\ncreated: 2025-12-18\nnote_id: \"1896236773525351600\"\ntags:\n  - \"AI链接笔记\"\n  - \"DARPA\"\n  - \"增材制造\"\n  - \"先进制造\"\n  - \"get-笔记\"\n  - \"项目管理\"\n---\n\n# 美国DARPA\"材料科学与先进制造\"领域深度研究报告：战略、技术与未来展望\n\n## 摘要\n\n### **🔬 核心战略框架（顶层设计）**  #### **(一) 战略意图与目标** - **核心使命**：通过颠覆性技术创新，**重塑国防工业基础与供应链体系**。 - **目标愿景**：构建下一代"
+  ],
+  [
+    "20_Ideas\\Insights\\AI科研智能学术搜索引擎功能介绍.md",
+    2793,
+    "---\ntitle: \"AI科研智能学术搜索引擎功能介绍\"\nsource: \"https://scholar.aisciresgo.com/\"\ncreated: 2025-09-01\nnote_id: \"1886273894655040904\"\ntags:\n  - \"AI链接笔记\"\n  - \"AI学术搜索\"\n  - \"智能文献检索\"\n  - \"研究报告生成\"\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# AI科研智能学术搜索引擎功能介绍\n\n## 摘要\n\n🎯 **核心功能** - **AI智能搜索**：开启后使用AI优化搜索查询，提供更精准的学术文献；支持直接用中文描述研究需求，AI匹配最相关论文 - **获取研究报告**：开启后自动生成研究分析报告，总结文献要点和趋势 - **操作优化**：按住Shift + Enter让AI优化搜索条件；支持切换\n\n## 正文\n\n🎓 欢迎来到AI学术搜索 🎓\n\nAI智能搜索\n\n开启后使用AI优化搜索查询  \n提供更精准的学术文献\n\n获取研究报告\n\n开启后自动生成研究分析报告  \n总结文献要点和趋势\n\n🎉 欢迎访问AI科研智能学术搜索引"
+  ],
+  [
+    "20_Ideas\\Insights\\DeepSeek与coze结合搭建智能体教程及相关福利分享.md",
+    13910,
+    "---\ntitle: \"DeepSeek与coze结合搭建智能体教程及相关福利分享\"\nsource: \"https://mp.weixin.qq.com/s/7ZYMuXGgAYzuwX9clQXaYg\"\ncreated: 2025-03-03\nnote_id: \"1869339929529191712\"\ntags:\n  - \"AI链接笔记\"\n  - \"coze\"\n  - \"AI 智能体\"\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# DeepSeek与coze结合搭建智能体教程及相关福利分享\n\n## 摘要\n\n![](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fc0649846c69898b65c3467faf5a1ffde.jpeg?Expires=1780073177&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9\n\n## 正文\n\n**你好，我是蔚公子，大四ALL in AI，专注于 AI 副业**\n\n**点击👇关注我，帮助 AI 小白轻松入门，一起 AI 创富**\n\n  \n\n就"
+  ],
+  [
+    "20_Ideas\\Insights\\Drawing 2026-04-29 18.33.40.excalidraw.md",
+    766,
+    "---\n\nexcalidraw-plugin: parsed\ntags: [excalidraw]\n\n---\n==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'\n\n\n## Drawing\n```compressed-json\nN4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFFhCARjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSX"
+  ],
+  [
+    "20_Ideas\\Insights\\genspark claw的定时任务.md",
+    1342,
+    "---\ntitle: \"genspark claw的定时任务\"\ncreated: 2026-04-07\nnote_id: \"1906500750004072064\"\ntags:\n  - \"get-笔记\"\n  - \"default\"\n---\n\n# genspark claw的定时任务\n\n## 摘要\n\nOpenClaw Cron 任务：发现并删除了一个名为 dream-consolidation-nightly 的定时任务（该任务原定于每日凌晨 3:00 执行记忆凝练）。现在 OpenClaw 的定时任务列表已完全清空。   Heartbeat 心跳机制：已确认 [HEARTBEAT.md](ht\n\n## 正文\n\nOpenClaw Cron 任务：发现并删除了一个名为 dream-consolidation-nightly 的定时任务（该任务原定于每日凌晨 3:00 执行记忆凝练）。现在 OpenClaw 的定时任务列表已完全清空。  \nHeartbeat 心跳机制：已确认 [HEARTBEAT.md](http://HEARTBEAT.md) 文件内容为空。这意味着心跳触发的自动检查机制"
+  ],
+  [
+    "20_Ideas\\Insights\\getnote_2026-07-02_网络通信重要性佐证.md",
+    3015,
+    "---\nnote_id: 1914426872705096472\ntitle: \"网络通信重要性佐证\"\ntype: plain_text\ncreated: 2026-07-02 07:36:04\nsource: getnote\nkb: TCC\n---\n\n# 网络通信重要性佐证\n\n关于“数据搬移能耗显著高于计算能耗”，**“系统与器件层面的多项研究表明，数据搬移能耗通常显著高于基础算术计算，数量级可达数百倍乃至更高。”** 其中，Horowitz 给出的经典45nm量级数据是：16b add 约 0.05 pJ，32b SRAM read 约 5 pJ，32b DRAM read 约 640 pJ；与此同时，Google 工作负载研究显示，数据搬移在所研究场景中平均占总系统能耗 62.7%，在 Google Docs 滚动场景可达 77%。这比直接写成固定“350—700倍”更严谨，也更抗质疑。[Horowitz / ISSCC 2014 引用页](https://www.nationalacademies.org/cdn/materials/9fba0a4f-e3a5-42ba-92e"
+  ],
+  [
+    "20_Ideas\\Insights\\Google NotebookLM最新功能：AI驱动的专业PPT生成革命.md",
+    6652,
+    "---\ntitle: \"Google NotebookLM最新功能：AI驱动的专业PPT生成革命\"\nsource: \"https://mp.weixin.qq.com/s/wKFd0zyHVxy45qN9JAE9Ng\"\ncreated: 2025-11-24\nnote_id: \"1894019490216359160\"\ntags:\n  - \"AI链接笔记\"\n  - \"AI生成PPT\"\n  - \"NotebookLM\"\n  - \"Gemini 3 Pro\"\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# Google NotebookLM最新功能：AI驱动的专业PPT生成革命\n\n## 摘要\n\n✨ **核心技术突破** - **Gemini 3 Pro**：编程效率提升显著，原需半天调试的代码可在20秒内完成 - **Nano Banana Pro**：生图+推理能力升级，支持精准中文出图 - **NotebookLM Slide Deck功能**：融合上述两项技术，实现AI生成专业PPT\n\n## 正文\n\n最近这一周，Google 展示出的能力实在是太猛了！\n\n先是 **Ge"
+  ],
+  [
+    "20_Ideas\\Insights\\GPT-5帮你精准配真文献.md",
+    3573,
+    "---\ntitle: \"GPT-5帮你精准配真文献\"\ncreated: 2025-10-09\nnote_id: \"1889769267889581520\"\ntags:\n  - \"图片笔记\"\n  - \"GPT-5\"\n  - \"文献检索\"\n  - \"小魏博士讲\"\n  - \"get-笔记\"\n  - \"AI研究\"\n---\n\n# GPT-5帮你精准配真文献\n\n## 摘要\n\n**English Prompt (ready-to-use)**   Act as a Research Assistant (Literature Retrieval & Citation Normalization). Do not fabricate any references. Proc\n\n## 正文\n\n**English Prompt (ready-to-use)**  \nAct as a Research Assistant (Literature Retrieval & Citation Normalization). Do not fabricate any references. Process the "
+  ],
+  [
+    "20_Ideas\\Insights\\Idea_LNN_AdaptiveTau_in_SDI_v9.md",
+    2149,
+    "# Idea: LNN 自适应 tau 引入 SDI v9 仿真\n\n- **类型**: 技术想法\n- **时间**: 2026-06-03\n- **标签**: v9, LNN, 自适应tau, SDI仿真, FEP协同\n- **关联**: v22_SelfEvolution_Design, sdi_network_v8\n\n---\n\n## 一、动机\n\nv8 基线仿真中，E-L 过度固化（41.8%）的根因之一是**固定 theta 周期**无法随网络状态自适应调整。LNN 的 tau 机制提供了一种优雅的解决方案：让每个 SDI 节点的状态更新速率随局部惊讶度动态调整。\n\n---\n\n## 二、v9 升级设计\n\n### 2.1 自适应 tau 节点\n\n```\ntau_i(t) = tau_base / (1 + alpha * surprise_i(t))\nsurprise_i(t) = |F_i(t) - mean(F_i[t-window:t])| / std(F_i[t-window:t])\n```\n\n### 2.2 与 v22 的协同\n\n| v22 机制 | v9 补充 | 协同效"
+  ],
+  [
+    "20_Ideas\\Insights\\NotebookLM生成PPT的痛点解决方案：Gemini+Google Slides实现可编辑化流程.md",
+    7721,
+    "---\ntitle: \"NotebookLM生成PPT的痛点解决方案：Gemini+Google Slides实现可编辑化流程\"\nsource: \"https://mp.weixin.qq.com/s/OF19DkYJNJeduoHwGYH_wA\"\ncreated: 2026-01-06\nnote_id: \"1898037895979790000\"\ntags:\n  - \"AI链接笔记\"\n  - \"NotebookLM\"\n  - \"PPT自动化\"\n  - \"AI工具协同\"\n  - \"get-笔记\"\n  - \"科技资讯\"\n---\n\n# NotebookLM生成PPT的痛点解决方案：Gemini+Google Slides实现可编辑化流程\n\n## 摘要\n\n### **🏠 场景引入（痛点描述）**  NotebookLM生成PPT的**核心矛盾**在于：其生成的PPT虽**逻辑清晰、结构完整**（即使输入简单如\"咖喱比炖菜好吃\"也能生成标准演示框架），但输出格式为**不可编辑的PDF**，导致用户无法进行文字修改、字体调整或添加公司Logo等个性化操作\n\n## 正文\n\n![图片](https:"
+  ],
+  [
+    "20_Ideas\\Insights\\个人知识库搭建工具推荐.md",
+    1135,
+    "---\ntitle: \"个人知识库搭建工具推荐\"\ncreated: 2025-02-03\nnote_id: \"1866763013576099136\"\ntags:\n  - \"录音笔记\"\n  - \"微信\"\n  - \"get-笔记\"\n  - \"default\"\n---\n\n# 个人知识库搭建工具推荐\n\n## 摘要\n\n个人知识库不妨选用腾讯的产品。毕竟微信是极为庞大的知识汇聚地，还能够外链各类视频链接等。若要围绕某个方向搭建知识体系，可使用“get笔记”，它在体系化整理方面目前支持得较好，最终能输出体系化的资料。至于编程，可选用DC的R万或者code。\n\n## 正文\n\n个人知识库就用腾讯的ma。因为微信是特别大的知识聚集地，而且还可以外链各种视频链接等等。搭建知识体系，围绕着某个方向，可以用get笔记。他对体系化的整理。目前支持比较好。最终可以输出我们体系化的。资料。编程就用D、C的R万或者code。\n\n---\n*来源：Get笔记 | 类型：audio | 入库：2026-04-29 12:57*\n\n## Related Notes\n\n- [[AI时代复杂系统科学的机遇与挑战探讨]]\n- [["
+  ],
+  [
+    "20_Ideas\\Insights\\外部用户使用Trae限制 (1).md",
+    8601,
+    "---\ntitle: \"外部用户使用Trae限制\"\ncreated: 2025-07-05\nnote_id: \"1880901431733682392\"\ntags:\n  - \"get-笔记\"\n  - \"灵感\"\n---\n\n# 外部用户使用Trae限制\n\n## 摘要\n\n深度思考:  用户现在问的是“外部用户能在trae中使用上述snn功能吗？”。首先，我需要回顾之前的对话历史，用户之前提到Trae是字节的AI编程工具，而我之前的回答假设了Trae有内部镜像、对接字节自研芯片等功能。现在用户关心的是外部用户是否能使用这些SNN功能，也就是SNNGrow框架在Trae\n\n## 正文\n\n深度思考:\n\n用户现在问的是“外部用户能在trae中使用上述snn功能吗？”。首先，我需要回顾之前的对话历史，用户之前提到Trae是字节的AI编程工具，而我之前的回答假设了Trae有内部镜像、对接字节自研芯片等功能。现在用户关心的是外部用户是否能使用这些SNN功能，也就是SNNGrow框架在Trae中的可用性是否对外部开放。\n\n首先，我需要明确Trae作为字节的工具，可能有内部和外部版本的区别。通常企业自研工具可"
+  ],
+  [
+    "20_Ideas\\Insights\\学者公寓的电视显示.md",
+    1653,
+    "---\ntitle: \"学者公寓的电视显示\"\ncreated: 2025-11-16\nnote_id: \"1893285364341863544\"\ntags:\n  - \"get-笔记\"\n  - \"日记\"\n---\n\n# 学者公寓的电视显示\n\n## 摘要\n\n今天发现切换笔记本时，书房投影的电视显示字体就出现毛边，最后发现在1920\\*1080分别率下按照175%放大率就可以实现显示的圆滑自然。  选中电视机显示器，把刷新率选中59.94HZ，貌似字体的阴影效果更加淡化一些。调整刷新率后，把显示设置中关于游戏模式、图形渲染等高级属性关闭，重启笔记本，电视\n\n## 正文\n\n今天发现切换笔记本时，书房投影的电视显示字体就出现毛边，最后发现在1920\\*1080分别率下按照175%放大率就可以实现显示的圆滑自然。\n\n选中电视机显示器，把刷新率选中59.94HZ，貌似字体的阴影效果更加淡化一些。调整刷新率后，把显示设置中关于游戏模式、图形渲染等高级属性关闭，重启笔记本，电视显示终于回到最牛逼的高清字体无毛边时代，截图为证。\n\n![image.png](https://get-notes.umiwi."
+  ],
+  [
+    "20_Ideas\\Insights\\文献综述神器推荐：提升科研效率的两款工具.md",
+    2349,
+    "---\ntitle: \"文献综述神器推荐：提升科研效率的两款工具\"\ncreated: 2025-08-31\nnote_id: \"1886160007154736264\"\ntags:\n  - \"图片笔记\"\n  - \"科研工具\"\n  - \"文献综述\"\n  - \"Paper Digest\"\n  - \"get-笔记\"\n  - \"灵感\"\n  - \"重要\"\n---\n\n# 文献综述神器推荐：提升科研效率的两款工具\n\n## 摘要\n\n📌 **文献综述工具推荐**   两款高效工具助你解决文献综述撰写难题，提升科研效率！  ### ✨ **Paper Digest——5分钟搭出综述骨架！** - **适用人群**：零基础小白 | 赶DDL战士 | 找灵感困难户   - **超神功能**：     ⚡ 无需工具，直接搜索！输入关键词\n\n## 正文\n\n📌 **文献综述工具推荐**  \n两款高效工具助你解决文献综述撰写难题，提升科研效率！\n\n### ✨ **Paper Digest——5分钟搭出综述骨架！**\n- **适用人群**：零基础小白 | 赶DDL战士 | 找灵感困难户  \n- **超神功能**：  \n"
+  ],
+  [
+    "20_Ideas\\Insights\\智能本质新范式：高维几何结构与通用“心智”诞生猜想.md",
+    1342,
+    "---\ntitle: \"智能本质新范式：高维几何结构与通用“心智”诞生猜想\"\nsource: \"https://app.yinxiang.com/fx/3e386519-2f0c-4bf6-af8f-6f4ab557b6fa\"\ncreated: 2025-07-04\nnote_id: \"1880746113905100016\"\ntags:\n  - \"AI链接笔记\"\n  - \"智能本质\"\n  - \"高维几何结构\"\n  - \"通用心智\"\n  - \"get-笔记\"\n  - \"灵感\"\n---\n\n# 智能本质新范式：高维几何结构与通用“心智”诞生猜想\n\n## 摘要\n\n![智能本质新范式相关图片](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2Fc83c1a0b3a1d77cfdc8936ed688c1f03?Expires=1780070456&OSSAccessKeyId=LTAI5t7t\n\n## 正文\n\n新范式，智能的本质不是算法，而是高维空间中的一种几何结构？智能的本质是数学，所有大模型正秘密融合，通用“心智”即将诞生"
+  ],
+  [
+    "20_Ideas\\Insights\\腾讯元器智能体：助力创建公众号智能客服.md",
+    5924,
+    "---\ntitle: \"腾讯元器智能体：助力创建公众号智能客服\"\nsource: \"https://mp.weixin.qq.com/s/y1TdDgYpI_1OoAG-5rjoMQ\"\ncreated: 2025-03-03\nnote_id: \"1869340592027283304\"\ntags:\n  - \"AI链接笔记\"\n  - \"腾讯元器智能体\"\n  - \"公众号智能客服\"\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# 腾讯元器智能体：助力创建公众号智能客服\n\n## 摘要\n\n![](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fcf1e5da0928872b9af03eaef39368534.jpeg?Expires=1780073177&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9\n\n## 正文\n\n**欢迎进****入AI创变****坊****，一****起交流进步，拥抱AI变革**\n\n![Image](https://get-notes.umiwi.com/morphling"
+  ],
+  [
+    "20_Ideas\\Insights\\腾讯元宝接入DeepSeek，打造公众号智能客服全攻略.md",
+    7485,
+    "---\ntitle: \"腾讯元宝接入DeepSeek，打造公众号智能客服全攻略\"\nsource: \"https://mp.weixin.qq.com/s/oRH6OCAtPqkeW41kxgWGHg\"\ncreated: 2025-03-03\nnote_id: \"1869360430481300840\"\ntags:\n  - \"AI链接笔记\"\n  - \"腾讯元宝\"\n  - \"公众号智能客服\"\n  - \"get-笔记\"\n  - \"学术论文\"\n---\n\n# 腾讯元宝接入DeepSeek，打造公众号智能客服全攻略\n\n## 摘要\n\n![](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fe41dc55f74c1e9a61b4ff8c0f1f7be40.jpeg?Expires=1780072839&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9\n\n## 正文\n\n见字如面，我是小马哥！35+技术总监，995职场宝爸，探索AI第二曲线，专注AI赋能提效。\n\n![Image](https://get-notes.umiw"
+  ],
+  [
+    "20_Ideas\\Insights\\设计一个比较美观和可视化，以及能够激励的每日打卡卡片.md",
+    12438,
+    "---\ntitle: \"设计一个比较美观和可视化，以及能够激励的每日打卡卡片\"\ncreated: 2025-08-23\nnote_id: \"1885408075419676528\"\ntags:\n  - \"get-笔记\"\n  - \"日记\"\n---\n\n# 设计一个比较美观和可视化，以及能够激励的每日打卡卡片\n\n## 摘要\n\n> 首先，用户消息是：“设计一个比较美观和可视化，以及能够激励的每日打卡卡片”。这是一个创作类的问题，我需要设计一个打卡卡片。用户提到“美观和可视化”以及“能够激励”，所以我必须确保设计吸引人、视觉化，并有激励元素。 >  > 我的身份是“Get笔记”助手，由得到信息科技有限公司开发。我是用户的智能\n\n## 正文\n\n> 首先，用户消息是：“设计一个比较美观和可视化，以及能够激励的每日打卡卡片”。这是一个创作类的问题，我需要设计一个打卡卡片。用户提到“美观和可视化”以及“能够激励”，所以我必须确保设计吸引人、视觉化，并有激励元素。\n> \n> 我的身份是“Get笔记”助手，由得到信息科技有限公司开发。我是用户的智能学习伴侣，存储了用户的笔记知识库。我需要基于搜索结果来回答用"
+  ],
+  [
+    "20_Ideas\\Insights\\鸟枪换炮.md",
+    1558,
+    "---\ntitle: \"鸟枪换炮\"\ncreated: 2026-03-17\nnote_id: \"1904535631741223776\"\ntags:\n  - \"get-笔记\"\n  - \"日记\"\n---\n\n# 鸟枪换炮\n\n## 摘要\n\n用 windsurf搭建智能体的过程中感受到了一些艰难。今天下定决心买了 Genspark Claw，希望能让后续的几个并行工作加速落地推进。尤其是：  -   写项目指南      -   做 iNEST 的研究闭环      -   发论文      -   组建团队      -   成立公司\n\n## 正文\n\n用 windsurf搭建智能体的过程中感受到了一些艰难。今天下定决心买了 Genspark Claw，希望能让后续的几个并行工作加速落地推进。尤其是：\n\n-   写项目指南\n    \n-   做 iNEST 的研究闭环\n    \n-   发论文\n    \n-   组建团队\n    \n-   成立公司\n    \n-   成立平台\n    \n\n![image.png](https://get-notes.umiwi.com/get_notes_pr"
+  ]
+]

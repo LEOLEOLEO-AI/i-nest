@@ -1,0 +1,79 @@
+{
+  "Human_Brain": {
+    "alpha_dev": 0.4,
+    "alpha_algo": 0.8333333333333334,
+    "alpha_impl": 0.9702,
+    "alpha_node": 0.33333333333333337,
+    "alpha_combined": 0.3234,
+    "alpha_sys": 0.3234,
+    "bottleneck": "device",
+    "gamma_st": 0.45,
+    "CST_demo": 0.7402575575262144
+  },
+  "C_elegans": {
+    "alpha_dev": 0.04714045207910317,
+    "alpha_algo": 0.8,
+    "alpha_impl": 0.9602999999999999,
+    "alpha_node": 0.03771236166328254,
+    "alpha_combined": 0.03621518090525022,
+    "alpha_sys": 0.1,
+    "bottleneck": "implementation",
+    "gamma_st": 0.35,
+    "CST_demo": 0.662796613631759
+  },
+  "GPT4_cloud": {
+    "alpha_dev": 0.5409889142205142,
+    "alpha_algo": 0.08838834764831843,
+    "alpha_impl": 0.006731209052086381,
+    "alpha_node": 0.04781711622400913,
+    "alpha_combined": 0.00032186700557171685,
+    "alpha_sys": 0.1,
+    "bottleneck": "implementation",
+    "gamma_st": 0.08,
+    "CST_demo": 0.6451405347227351
+  },
+  "GPT4_wafer": {
+    "alpha_dev": 0.5409889142205142,
+    "alpha_algo": 0.08838834764831843,
+    "alpha_impl": 0.9702,
+    "alpha_node": 0.04781711622400913,
+    "alpha_combined": 0.046392166160533654,
+    "alpha_sys": 0.1,
+    "bottleneck": "implementation",
+    "gamma_st": 0.08,
+    "CST_demo": 0.6451405347227351
+  },
+  "SDSoW_Gen3_wafer": {
+    "alpha_dev": 8.634694098727671,
+    "alpha_algo": 2.99573227355399,
+    "alpha_impl": 0.9702,
+    "alpha_node": 25.867231783824668,
+    "alpha_combined": 25.09638827666669,
+    "alpha_sys": 25.09638827666669,
+    "bottleneck": "algorithm",
+    "gamma_st": 0.48,
+    "CST_demo": 109095.53772128971
+  },
+  "SDSoW_Gen3_PCB": {
+    "alpha_dev": 8.634694098727671,
+    "alpha_algo": 2.99573227355399,
+    "alpha_impl": 0.7200000000000001,
+    "alpha_node": 25.867231783824668,
+    "alpha_combined": 18.624406884353764,
+    "alpha_sys": 18.624406884353764,
+    "bottleneck": "algorithm",
+    "gamma_st": 0.48,
+    "CST_demo": 4882.575870296756
+  },
+  "iNEST_Gen2_chiplet": {
+    "alpha_dev": 5.116855762208991,
+    "alpha_algo": 0.8181818181818181,
+    "alpha_impl": 0.9016000000000001,
+    "alpha_node": 4.1865183508982655,
+    "alpha_combined": 3.7745649451698764,
+    "alpha_sys": 3.7745649451698764,
+    "bottleneck": "algorithm",
+    "gamma_st": 0.42,
+    "CST_demo": 3.1237374149860804
+  }
+}
