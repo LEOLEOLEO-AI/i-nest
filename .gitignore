@@ -1,67 +1,55 @@
-﻿# Python
-.venv/
-__pycache__/
-*.pyc
-*.pyo
-
-# Obsidian plugins (large JS files)
-.obsidian/plugins/*/main.js
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/hotkeys.json
-
-# Obsidian cache dirs
-.trash/
-.smart-connections/
-.smart-env/
-.neural_db/
-.neural_memory/
-
-# Connectome data (keep locally only)
-30_TCC/35_Simulation/sdi_sim/hemibrain_real_connectome_v*.json
-sdi_sim/data/
-sdi_sim/species_data/
-sdi_sim/**/*.npy
-sdi_sim/**/*.zip
-sdi_sim/**/*.json
-
-# Simulation data
+*.pdf
+*.zip
+*.tar.gz
+*.npy
+*.mat
 *.pkl
 *.h5
-*.mat
-*.npy
-*.csv
-*.tar
-*.graphml
-*.rar
-*.zip
-
-# Large PDFs (literature)
-*_KnowledgeBase_*/literature/pdf/
-_archive*/**/*.pdf
-
-# Logs & state
-logs/
-state/
-*.log
-*_output.log
-*_run.log
-*summary.txt
-fetch_log*.txt
-
-# OS
+*.hdf5
+*.npz
+*.pptx
+*.html
+sdi_sim/species_data/
+sdi_sim/data/
+sdi_sim/hemibrain_real_connectome*.json
+50_Output/51_Papers/*.html
+*.pid
+__pycache__/
+*.pyc
 .DS_Store
-Thumbs.db
+30_TCC/35_Simulation/data/*.csv
 
-# Build & node
-node_modules/
+# 大数据文件（自动排除）
+*.pdf
+*.zip *.tar.gz *.rar *.7z
+*.npy *.mat *.pkl *.h5 *.hdf5 *.npz
+*.pptx *.html *.mp4 *.gif *.avi
+*.png *.jpg *.jpeg
+*.csv
+*.js
+90_System/legacy_subvault_git/
+sdi_sim/species_data/
+sdi_sim/data/
+sdi_sim/hemibrain_real_connectome*.json
+30_TCC/35_Simulation/data/
+30_TCC/35_Simulation/exp*.json
+30_TCC/Code/hemibrain*.json
+40_iNEST/45_Simulation/connectome/
+40_iNEST/42_Tech/Neuroscience/data/
+knowledge_graph/
+Demo_2026Q2/
+.obsidian/plugins/
+.smart-env/
+__pycache__/
+*.pyc
+.DS_Store
+90_System/logs/
 
-# Legacy
-_archive_*/
-*_archive*/
-
-# Gitee sync state
-gitee_sync_state.json
-
-# Dedup reports (data files)
-*_dedup_report.json
+30_TCC/35_Simulation/sdi_sim/exp*.json
+30_TCC/35_Simulation/sdi_sim/*.json
+40_iNEST/45_Simulation/data/
+*.xls *.xlsx *.docx *.doc
+60_MOC/*.json
+.obsidian/themes/
+20_Processing/_attachments_knowledge/
+90_System/conflict-files-obsidian-git.md
