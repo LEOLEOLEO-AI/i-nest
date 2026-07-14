@@ -1,0 +1,1414 @@
+{
+  "source": "CeNGEN (Taylor et al. 2021, Cell) + OpenWorm + White et al. 1986",
+  "description": "C.elegans neuron-to-neurotransmitter mapping with synapse biophysical parameters",
+  "total_mapped": 297,
+  "neurotransmitters": {
+    "ACh": {
+      "count": 286,
+      "neurons": [
+        "ADAL",
+        "ADAR",
+        "ADEL",
+        "ADER",
+        "ADFL",
+        "ADFR",
+        "ADLL",
+        "ADLR",
+        "AFDL",
+        "AFDR",
+        "AIAL",
+        "AIAR",
+        "AIBL",
+        "AIBR",
+        "AIML",
+        "AIMR",
+        "AINL",
+        "AINR",
+        "AIZL",
+        "AIZR",
+        "ALA",
+        "ALML",
+        "ALMR",
+        "ALNL",
+        "ALNR",
+        "AQR",
+        "AS1",
+        "AS2",
+        "AS3",
+        "AS4",
+        "AS5",
+        "AS6",
+        "AS7",
+        "AS8",
+        "AS9",
+        "AS10",
+        "AS11",
+        "ASEL",
+        "ASER",
+        "ASGL",
+        "ASGR",
+        "ASHL",
+        "ASHR",
+        "ASIL",
+        "ASIR",
+        "ASJL",
+        "ASJR",
+        "ASKL",
+        "ASKR",
+        "AUAL",
+        "AUAR",
+        "AVAL",
+        "AVAR",
+        "AVBL",
+        "AVBR",
+        "AVDL",
+        "AVDR",
+        "AVEL",
+        "AVER",
+        "AVFL",
+        "AVFR",
+        "AVG",
+        "AVHL",
+        "AVHR",
+        "AVJL",
+        "AVJR",
+        "AVKL",
+        "AVKR",
+        "AVL",
+        "AVM",
+        "AWAL",
+        "AWAR",
+        "AWBL",
+        "AWBR",
+        "AWCL",
+        "AWCR",
+        "BAGL",
+        "BAGR",
+        "BDUL",
+        "BDUR",
+        "CANL",
+        "CANR",
+        "CEPDL",
+        "CEPDR",
+        "CEPVL",
+        "CEPVR",
+        "DA1",
+        "DA2",
+        "DA3",
+        "DA4",
+        "DA5",
+        "DA6",
+        "DA7",
+        "DA8",
+        "DA9",
+        "DB1",
+        "DB2",
+        "DB3",
+        "DB4",
+        "DB5",
+        "DB6",
+        "DB7",
+        "FLPL",
+        "FLPR",
+        "HSNL",
+        "HSNR",
+        "I1L",
+        "I1R",
+        "I2L",
+        "I2R",
+        "I3",
+        "I4",
+        "I5",
+        "I6",
+        "IL1DL",
+        "IL1DR",
+        "IL1L",
+        "IL1R",
+        "IL1VL",
+        "IL1VR",
+        "IL2DL",
+        "IL2DR",
+        "IL2L",
+        "IL2R",
+        "IL2VL",
+        "IL2VR",
+        "M1",
+        "M2L",
+        "M2R",
+        "M3L",
+        "M3R",
+        "M4",
+        "M5",
+        "MCL",
+        "MCR",
+        "MI",
+        "NSML",
+        "NSMR",
+        "OLQDL",
+        "OLQDR",
+        "OLQVL",
+        "OLQVR",
+        "OLLL",
+        "OLLR",
+        "PDA",
+        "PDB",
+        "PHAL",
+        "PHAR",
+        "PHBL",
+        "PHBR",
+        "PHCL",
+        "PHCR",
+        "PLML",
+        "PLMR",
+        "PLNL",
+        "PLNR",
+        "PQR",
+        "PVCL",
+        "PVCR",
+        "PVDL",
+        "PVDR",
+        "PVNL",
+        "PVNR",
+        "PVPL",
+        "PVPR",
+        "PVQL",
+        "PVQR",
+        "PVR",
+        "PVT",
+        "PVWL",
+        "PVWR",
+        "RIAL",
+        "RIAR",
+        "RIBL",
+        "RIBR",
+        "RICL",
+        "RICR",
+        "RID",
+        "RIFL",
+        "RIFR",
+        "RIGL",
+        "RIGR",
+        "RIH",
+        "RIML",
+        "RIMR",
+        "RIPL",
+        "RIPR",
+        "RIR",
+        "RIS",
+        "RIVL",
+        "RIVR",
+        "RMDDL",
+        "RMDDR",
+        "RMDL",
+        "RMDR",
+        "RMDVL",
+        "RMDVR",
+        "RMED",
+        "RMEL",
+        "RMER",
+        "RMEV",
+        "RMFL",
+        "RMFR",
+        "RMGL",
+        "RMGR",
+        "RMHL",
+        "RMHR",
+        "SAADL",
+        "SAADR",
+        "SAAVL",
+        "SAAVR",
+        "SABD",
+        "SABVL",
+        "SABVR",
+        "SDQL",
+        "SDQR",
+        "SIADL",
+        "SIADR",
+        "SIAVL",
+        "SIAVR",
+        "SIBDL",
+        "SIBDR",
+        "SIBVL",
+        "SIBVR",
+        "SMBDL",
+        "SMBDR",
+        "SMBVL",
+        "SMBVR",
+        "SMDDL",
+        "SMDDR",
+        "SMDVL",
+        "SMDVR",
+        "URADL",
+        "URADR",
+        "URAVL",
+        "URAVR",
+        "URBL",
+        "URBR",
+        "URXL",
+        "URXR",
+        "URYDL",
+        "URYDR",
+        "URYVL",
+        "URYVR",
+        "VA1",
+        "VA2",
+        "VA3",
+        "VA4",
+        "VA5",
+        "VA6",
+        "VA7",
+        "VA8",
+        "VA9",
+        "VA10",
+        "VA11",
+        "VA12",
+        "VB1",
+        "VB2",
+        "VB3",
+        "VB4",
+        "VB5",
+        "VB6",
+        "VB7",
+        "VB8",
+        "VB9",
+        "VB10",
+        "VB11",
+        "VC1",
+        "VC2",
+        "VC3",
+        "VC4",
+        "VC5",
+        "VC6",
+        "VD1",
+        "VD2",
+        "VD3",
+        "VD4",
+        "VD5",
+        "VD6",
+        "VD7",
+        "VD8",
+        "VD9",
+        "VD10",
+        "VD11",
+        "VD12",
+        "VD13"
+      ]
+    },
+    "GABA": {
+      "count": 26,
+      "neurons": [
+        "DD1",
+        "DD2",
+        "DD3",
+        "DD4",
+        "DD5",
+        "DD6",
+        "VD1",
+        "VD2",
+        "VD3",
+        "VD4",
+        "VD5",
+        "VD6",
+        "VD7",
+        "VD8",
+        "VD9",
+        "VD10",
+        "VD11",
+        "VD12",
+        "VD13",
+        "RMEV",
+        "RMEL",
+        "RMER",
+        "RMED",
+        "RIS",
+        "AVL",
+        "DVB"
+      ]
+    },
+    "Glutamate": {
+      "count": 24,
+      "neurons": [
+        "AIYL",
+        "AIYR",
+        "AIBL",
+        "AIBR",
+        "RIML",
+        "RIMR",
+        "AVKL",
+        "AVKR",
+        "AWCL",
+        "AWCR",
+        "ASEL",
+        "ASER",
+        "ASGL",
+        "ASGR",
+        "ASIL",
+        "ASIR",
+        "RIGL",
+        "RIGR",
+        "URYDL",
+        "URYDR",
+        "URYVL",
+        "URYVR",
+        "IL1DL",
+        "IL1DR"
+      ]
+    },
+    "Dopamine": {
+      "count": 8,
+      "neurons": [
+        "CEPDL",
+        "CEPDR",
+        "CEPVL",
+        "CEPVR",
+        "ADEL",
+        "ADER",
+        "PDEL",
+        "PDER"
+      ]
+    },
+    "Serotonin": {
+      "count": 11,
+      "neurons": [
+        "NSML",
+        "NSMR",
+        "HSNL",
+        "HSNR",
+        "ADFL",
+        "ADFR",
+        "AIML",
+        "AIMR",
+        "RIH",
+        "VC4",
+        "VC5"
+      ]
+    },
+    "Tyramine": {
+      "count": 4,
+      "neurons": [
+        "RIML",
+        "RIMR",
+        "RICL",
+        "RICR"
+      ]
+    },
+    "FMRFamide": {
+      "count": 10,
+      "neurons": [
+        "AVKL",
+        "AVKR",
+        "FLPL",
+        "FLPR",
+        "ADEL",
+        "ADER",
+        "RIGL",
+        "RIGR",
+        "URXL",
+        "URXR"
+      ]
+    }
+  },
+  "synapse_params": {
+    "ACh": {
+      "gbase": "0.01e-6mS",
+      "erev": "0mV",
+      "tau_rise": "1ms",
+      "tau_decay": "2ms"
+    },
+    "GABA": {
+      "gbase": "0.01e-6mS",
+      "erev": "-70mV",
+      "tau_rise": "1ms",
+      "tau_decay": "2ms"
+    },
+    "Glutamate": {
+      "gbase": "0.01e-6mS",
+      "erev": "0mV",
+      "tau_rise": "1ms",
+      "tau_decay": "2ms"
+    },
+    "Dopamine": {
+      "gbase": "0.01e-6mS",
+      "erev": "0mV",
+      "tau_rise": "1ms",
+      "tau_decay": "2ms"
+    },
+    "Serotonin": {
+      "gbase": "0.01e-6mS",
+      "erev": "0mV",
+      "tau_rise": "1ms",
+      "tau_decay": "2ms"
+    },
+    "FMRFamide": {
+      "gbase": "0.01e-6mS",
+      "erev": "0mV",
+      "tau_rise": "1ms",
+      "tau_decay": "2ms"
+    }
+  },
+  "neuron_to_nt": {
+    "ADAL": [
+      "ACh"
+    ],
+    "ADAR": [
+      "ACh"
+    ],
+    "ADEL": [
+      "ACh",
+      "Dopamine",
+      "FMRFamide"
+    ],
+    "ADER": [
+      "ACh",
+      "Dopamine",
+      "FMRFamide"
+    ],
+    "ADFL": [
+      "ACh",
+      "Serotonin"
+    ],
+    "ADFR": [
+      "ACh",
+      "Serotonin"
+    ],
+    "ADLL": [
+      "ACh"
+    ],
+    "ADLR": [
+      "ACh"
+    ],
+    "AFDL": [
+      "ACh"
+    ],
+    "AFDR": [
+      "ACh"
+    ],
+    "AIAL": [
+      "ACh"
+    ],
+    "AIAR": [
+      "ACh"
+    ],
+    "AIBL": [
+      "ACh",
+      "Glutamate"
+    ],
+    "AIBR": [
+      "ACh",
+      "Glutamate"
+    ],
+    "AIML": [
+      "ACh",
+      "Serotonin"
+    ],
+    "AIMR": [
+      "ACh",
+      "Serotonin"
+    ],
+    "AINL": [
+      "ACh"
+    ],
+    "AINR": [
+      "ACh"
+    ],
+    "AIZL": [
+      "ACh"
+    ],
+    "AIZR": [
+      "ACh"
+    ],
+    "ALA": [
+      "ACh"
+    ],
+    "ALML": [
+      "ACh"
+    ],
+    "ALMR": [
+      "ACh"
+    ],
+    "ALNL": [
+      "ACh"
+    ],
+    "ALNR": [
+      "ACh"
+    ],
+    "AQR": [
+      "ACh"
+    ],
+    "AS1": [
+      "ACh"
+    ],
+    "AS2": [
+      "ACh"
+    ],
+    "AS3": [
+      "ACh"
+    ],
+    "AS4": [
+      "ACh"
+    ],
+    "AS5": [
+      "ACh"
+    ],
+    "AS6": [
+      "ACh"
+    ],
+    "AS7": [
+      "ACh"
+    ],
+    "AS8": [
+      "ACh"
+    ],
+    "AS9": [
+      "ACh"
+    ],
+    "AS10": [
+      "ACh"
+    ],
+    "AS11": [
+      "ACh"
+    ],
+    "ASEL": [
+      "ACh",
+      "Glutamate"
+    ],
+    "ASER": [
+      "ACh",
+      "Glutamate"
+    ],
+    "ASGL": [
+      "ACh",
+      "Glutamate"
+    ],
+    "ASGR": [
+      "ACh",
+      "Glutamate"
+    ],
+    "ASHL": [
+      "ACh"
+    ],
+    "ASHR": [
+      "ACh"
+    ],
+    "ASIL": [
+      "ACh",
+      "Glutamate"
+    ],
+    "ASIR": [
+      "ACh",
+      "Glutamate"
+    ],
+    "ASJL": [
+      "ACh"
+    ],
+    "ASJR": [
+      "ACh"
+    ],
+    "ASKL": [
+      "ACh"
+    ],
+    "ASKR": [
+      "ACh"
+    ],
+    "AUAL": [
+      "ACh"
+    ],
+    "AUAR": [
+      "ACh"
+    ],
+    "AVAL": [
+      "ACh"
+    ],
+    "AVAR": [
+      "ACh"
+    ],
+    "AVBL": [
+      "ACh"
+    ],
+    "AVBR": [
+      "ACh"
+    ],
+    "AVDL": [
+      "ACh"
+    ],
+    "AVDR": [
+      "ACh"
+    ],
+    "AVEL": [
+      "ACh"
+    ],
+    "AVER": [
+      "ACh"
+    ],
+    "AVFL": [
+      "ACh"
+    ],
+    "AVFR": [
+      "ACh"
+    ],
+    "AVG": [
+      "ACh"
+    ],
+    "AVHL": [
+      "ACh"
+    ],
+    "AVHR": [
+      "ACh"
+    ],
+    "AVJL": [
+      "ACh"
+    ],
+    "AVJR": [
+      "ACh"
+    ],
+    "AVKL": [
+      "ACh",
+      "Glutamate",
+      "FMRFamide"
+    ],
+    "AVKR": [
+      "ACh",
+      "Glutamate",
+      "FMRFamide"
+    ],
+    "AVL": [
+      "ACh",
+      "GABA"
+    ],
+    "AVM": [
+      "ACh"
+    ],
+    "AWAL": [
+      "ACh"
+    ],
+    "AWAR": [
+      "ACh"
+    ],
+    "AWBL": [
+      "ACh"
+    ],
+    "AWBR": [
+      "ACh"
+    ],
+    "AWCL": [
+      "ACh",
+      "Glutamate"
+    ],
+    "AWCR": [
+      "ACh",
+      "Glutamate"
+    ],
+    "BAGL": [
+      "ACh"
+    ],
+    "BAGR": [
+      "ACh"
+    ],
+    "BDUL": [
+      "ACh"
+    ],
+    "BDUR": [
+      "ACh"
+    ],
+    "CANL": [
+      "ACh"
+    ],
+    "CANR": [
+      "ACh"
+    ],
+    "CEPDL": [
+      "ACh",
+      "Dopamine"
+    ],
+    "CEPDR": [
+      "ACh",
+      "Dopamine"
+    ],
+    "CEPVL": [
+      "ACh",
+      "Dopamine"
+    ],
+    "CEPVR": [
+      "ACh",
+      "Dopamine"
+    ],
+    "DA1": [
+      "ACh"
+    ],
+    "DA2": [
+      "ACh"
+    ],
+    "DA3": [
+      "ACh"
+    ],
+    "DA4": [
+      "ACh"
+    ],
+    "DA5": [
+      "ACh"
+    ],
+    "DA6": [
+      "ACh"
+    ],
+    "DA7": [
+      "ACh"
+    ],
+    "DA8": [
+      "ACh"
+    ],
+    "DA9": [
+      "ACh"
+    ],
+    "DB1": [
+      "ACh"
+    ],
+    "DB2": [
+      "ACh"
+    ],
+    "DB3": [
+      "ACh"
+    ],
+    "DB4": [
+      "ACh"
+    ],
+    "DB5": [
+      "ACh"
+    ],
+    "DB6": [
+      "ACh"
+    ],
+    "DB7": [
+      "ACh"
+    ],
+    "FLPL": [
+      "ACh",
+      "FMRFamide"
+    ],
+    "FLPR": [
+      "ACh",
+      "FMRFamide"
+    ],
+    "HSNL": [
+      "ACh",
+      "Serotonin"
+    ],
+    "HSNR": [
+      "ACh",
+      "Serotonin"
+    ],
+    "I1L": [
+      "ACh"
+    ],
+    "I1R": [
+      "ACh"
+    ],
+    "I2L": [
+      "ACh"
+    ],
+    "I2R": [
+      "ACh"
+    ],
+    "I3": [
+      "ACh"
+    ],
+    "I4": [
+      "ACh"
+    ],
+    "I5": [
+      "ACh"
+    ],
+    "I6": [
+      "ACh"
+    ],
+    "IL1DL": [
+      "ACh",
+      "Glutamate"
+    ],
+    "IL1DR": [
+      "ACh",
+      "Glutamate"
+    ],
+    "IL1L": [
+      "ACh"
+    ],
+    "IL1R": [
+      "ACh"
+    ],
+    "IL1VL": [
+      "ACh"
+    ],
+    "IL1VR": [
+      "ACh"
+    ],
+    "IL2DL": [
+      "ACh"
+    ],
+    "IL2DR": [
+      "ACh"
+    ],
+    "IL2L": [
+      "ACh"
+    ],
+    "IL2R": [
+      "ACh"
+    ],
+    "IL2VL": [
+      "ACh"
+    ],
+    "IL2VR": [
+      "ACh"
+    ],
+    "M1": [
+      "ACh"
+    ],
+    "M2L": [
+      "ACh"
+    ],
+    "M2R": [
+      "ACh"
+    ],
+    "M3L": [
+      "ACh"
+    ],
+    "M3R": [
+      "ACh"
+    ],
+    "M4": [
+      "ACh"
+    ],
+    "M5": [
+      "ACh"
+    ],
+    "MCL": [
+      "ACh"
+    ],
+    "MCR": [
+      "ACh"
+    ],
+    "MI": [
+      "ACh"
+    ],
+    "NSML": [
+      "ACh",
+      "Serotonin"
+    ],
+    "NSMR": [
+      "ACh",
+      "Serotonin"
+    ],
+    "OLQDL": [
+      "ACh"
+    ],
+    "OLQDR": [
+      "ACh"
+    ],
+    "OLQVL": [
+      "ACh"
+    ],
+    "OLQVR": [
+      "ACh"
+    ],
+    "OLLL": [
+      "ACh"
+    ],
+    "OLLR": [
+      "ACh"
+    ],
+    "PDA": [
+      "ACh"
+    ],
+    "PDB": [
+      "ACh"
+    ],
+    "PHAL": [
+      "ACh"
+    ],
+    "PHAR": [
+      "ACh"
+    ],
+    "PHBL": [
+      "ACh"
+    ],
+    "PHBR": [
+      "ACh"
+    ],
+    "PHCL": [
+      "ACh"
+    ],
+    "PHCR": [
+      "ACh"
+    ],
+    "PLML": [
+      "ACh"
+    ],
+    "PLMR": [
+      "ACh"
+    ],
+    "PLNL": [
+      "ACh"
+    ],
+    "PLNR": [
+      "ACh"
+    ],
+    "PQR": [
+      "ACh"
+    ],
+    "PVCL": [
+      "ACh"
+    ],
+    "PVCR": [
+      "ACh"
+    ],
+    "PVDL": [
+      "ACh"
+    ],
+    "PVDR": [
+      "ACh"
+    ],
+    "PVNL": [
+      "ACh"
+    ],
+    "PVNR": [
+      "ACh"
+    ],
+    "PVPL": [
+      "ACh"
+    ],
+    "PVPR": [
+      "ACh"
+    ],
+    "PVQL": [
+      "ACh"
+    ],
+    "PVQR": [
+      "ACh"
+    ],
+    "PVR": [
+      "ACh"
+    ],
+    "PVT": [
+      "ACh"
+    ],
+    "PVWL": [
+      "ACh"
+    ],
+    "PVWR": [
+      "ACh"
+    ],
+    "RIAL": [
+      "ACh"
+    ],
+    "RIAR": [
+      "ACh"
+    ],
+    "RIBL": [
+      "ACh"
+    ],
+    "RIBR": [
+      "ACh"
+    ],
+    "RICL": [
+      "ACh",
+      "Tyramine"
+    ],
+    "RICR": [
+      "ACh",
+      "Tyramine"
+    ],
+    "RID": [
+      "ACh"
+    ],
+    "RIFL": [
+      "ACh"
+    ],
+    "RIFR": [
+      "ACh"
+    ],
+    "RIGL": [
+      "ACh",
+      "Glutamate",
+      "FMRFamide"
+    ],
+    "RIGR": [
+      "ACh",
+      "Glutamate",
+      "FMRFamide"
+    ],
+    "RIH": [
+      "ACh",
+      "Serotonin"
+    ],
+    "RIML": [
+      "ACh",
+      "Glutamate",
+      "Tyramine"
+    ],
+    "RIMR": [
+      "ACh",
+      "Glutamate",
+      "Tyramine"
+    ],
+    "RIPL": [
+      "ACh"
+    ],
+    "RIPR": [
+      "ACh"
+    ],
+    "RIR": [
+      "ACh"
+    ],
+    "RIS": [
+      "ACh",
+      "GABA"
+    ],
+    "RIVL": [
+      "ACh"
+    ],
+    "RIVR": [
+      "ACh"
+    ],
+    "RMDDL": [
+      "ACh"
+    ],
+    "RMDDR": [
+      "ACh"
+    ],
+    "RMDL": [
+      "ACh"
+    ],
+    "RMDR": [
+      "ACh"
+    ],
+    "RMDVL": [
+      "ACh"
+    ],
+    "RMDVR": [
+      "ACh"
+    ],
+    "RMED": [
+      "ACh",
+      "GABA"
+    ],
+    "RMEL": [
+      "ACh",
+      "GABA"
+    ],
+    "RMER": [
+      "ACh",
+      "GABA"
+    ],
+    "RMEV": [
+      "ACh",
+      "GABA"
+    ],
+    "RMFL": [
+      "ACh"
+    ],
+    "RMFR": [
+      "ACh"
+    ],
+    "RMGL": [
+      "ACh"
+    ],
+    "RMGR": [
+      "ACh"
+    ],
+    "RMHL": [
+      "ACh"
+    ],
+    "RMHR": [
+      "ACh"
+    ],
+    "SAADL": [
+      "ACh"
+    ],
+    "SAADR": [
+      "ACh"
+    ],
+    "SAAVL": [
+      "ACh"
+    ],
+    "SAAVR": [
+      "ACh"
+    ],
+    "SABD": [
+      "ACh"
+    ],
+    "SABVL": [
+      "ACh"
+    ],
+    "SABVR": [
+      "ACh"
+    ],
+    "SDQL": [
+      "ACh"
+    ],
+    "SDQR": [
+      "ACh"
+    ],
+    "SIADL": [
+      "ACh"
+    ],
+    "SIADR": [
+      "ACh"
+    ],
+    "SIAVL": [
+      "ACh"
+    ],
+    "SIAVR": [
+      "ACh"
+    ],
+    "SIBDL": [
+      "ACh"
+    ],
+    "SIBDR": [
+      "ACh"
+    ],
+    "SIBVL": [
+      "ACh"
+    ],
+    "SIBVR": [
+      "ACh"
+    ],
+    "SMBDL": [
+      "ACh"
+    ],
+    "SMBDR": [
+      "ACh"
+    ],
+    "SMBVL": [
+      "ACh"
+    ],
+    "SMBVR": [
+      "ACh"
+    ],
+    "SMDDL": [
+      "ACh"
+    ],
+    "SMDDR": [
+      "ACh"
+    ],
+    "SMDVL": [
+      "ACh"
+    ],
+    "SMDVR": [
+      "ACh"
+    ],
+    "URADL": [
+      "ACh"
+    ],
+    "URADR": [
+      "ACh"
+    ],
+    "URAVL": [
+      "ACh"
+    ],
+    "URAVR": [
+      "ACh"
+    ],
+    "URBL": [
+      "ACh"
+    ],
+    "URBR": [
+      "ACh"
+    ],
+    "URXL": [
+      "ACh",
+      "FMRFamide"
+    ],
+    "URXR": [
+      "ACh",
+      "FMRFamide"
+    ],
+    "URYDL": [
+      "ACh",
+      "Glutamate"
+    ],
+    "URYDR": [
+      "ACh",
+      "Glutamate"
+    ],
+    "URYVL": [
+      "ACh",
+      "Glutamate"
+    ],
+    "URYVR": [
+      "ACh",
+      "Glutamate"
+    ],
+    "VA1": [
+      "ACh"
+    ],
+    "VA2": [
+      "ACh"
+    ],
+    "VA3": [
+      "ACh"
+    ],
+    "VA4": [
+      "ACh"
+    ],
+    "VA5": [
+      "ACh"
+    ],
+    "VA6": [
+      "ACh"
+    ],
+    "VA7": [
+      "ACh"
+    ],
+    "VA8": [
+      "ACh"
+    ],
+    "VA9": [
+      "ACh"
+    ],
+    "VA10": [
+      "ACh"
+    ],
+    "VA11": [
+      "ACh"
+    ],
+    "VA12": [
+      "ACh"
+    ],
+    "VB1": [
+      "ACh"
+    ],
+    "VB2": [
+      "ACh"
+    ],
+    "VB3": [
+      "ACh"
+    ],
+    "VB4": [
+      "ACh"
+    ],
+    "VB5": [
+      "ACh"
+    ],
+    "VB6": [
+      "ACh"
+    ],
+    "VB7": [
+      "ACh"
+    ],
+    "VB8": [
+      "ACh"
+    ],
+    "VB9": [
+      "ACh"
+    ],
+    "VB10": [
+      "ACh"
+    ],
+    "VB11": [
+      "ACh"
+    ],
+    "VC1": [
+      "ACh"
+    ],
+    "VC2": [
+      "ACh"
+    ],
+    "VC3": [
+      "ACh"
+    ],
+    "VC4": [
+      "ACh",
+      "Serotonin"
+    ],
+    "VC5": [
+      "ACh",
+      "Serotonin"
+    ],
+    "VC6": [
+      "ACh"
+    ],
+    "VD1": [
+      "ACh",
+      "GABA"
+    ],
+    "VD2": [
+      "ACh",
+      "GABA"
+    ],
+    "VD3": [
+      "ACh",
+      "GABA"
+    ],
+    "VD4": [
+      "ACh",
+      "GABA"
+    ],
+    "VD5": [
+      "ACh",
+      "GABA"
+    ],
+    "VD6": [
+      "ACh",
+      "GABA"
+    ],
+    "VD7": [
+      "ACh",
+      "GABA"
+    ],
+    "VD8": [
+      "ACh",
+      "GABA"
+    ],
+    "VD9": [
+      "ACh",
+      "GABA"
+    ],
+    "VD10": [
+      "ACh",
+      "GABA"
+    ],
+    "VD11": [
+      "ACh",
+      "GABA"
+    ],
+    "VD12": [
+      "ACh",
+      "GABA"
+    ],
+    "VD13": [
+      "ACh",
+      "GABA"
+    ],
+    "DD1": [
+      "GABA"
+    ],
+    "DD2": [
+      "GABA"
+    ],
+    "DD3": [
+      "GABA"
+    ],
+    "DD4": [
+      "GABA"
+    ],
+    "DD5": [
+      "GABA"
+    ],
+    "DD6": [
+      "GABA"
+    ],
+    "DVB": [
+      "GABA"
+    ],
+    "AIYL": [
+      "Glutamate"
+    ],
+    "AIYR": [
+      "Glutamate"
+    ],
+    "PDEL": [
+      "Dopamine"
+    ],
+    "PDER": [
+      "Dopamine"
+    ]
+  }
+}

@@ -1,0 +1,5705 @@
+﻿
+> dashiai-ppt-runtime@0.3.0 layout:query
+> node scripts/layout-query.mjs --theme theme09 --limit 60
+
+{
+  "theme": "theme09",
+  "role": null,
+  "keyword": null,
+  "needsMedia": false,
+  "mediaIntent": null,
+  "mediaCount": null,
+  "mediaKind": null,
+  "requireInitialMedia": false,
+  "limit": 60,
+  "seed": "1752920118",
+  "themeDisplayName": "深蓝杂志风",
+  "themeScenario": "品牌故事、人物访谈、企业形象册、深度专题",
+  "themeAudience": "公关团队、媒体编辑、创始人、企业品牌部",
+  "count": 50,
+  "layouts": [
+    {
+      "layout": "theme09_page066",
+      "theme": "theme09",
+      "pageNumber": 66,
+      "label": "区域画像",
+      "slot": "parallel",
+      "roles": [],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "axes[].label",
+        "axes[].max",
+        "axes[].unit"
+      ],
+      "arrayKeys": [
+        "axes",
+        "objects"
+      ],
+      "arrayMeta": [
+        {
+          "key": "axes",
+          "role": "misc",
+          "defaultVisibleCount": 5,
+          "maxCount": 5,
+          "countKey": "axisCount"
+        },
+        {
+          "key": "objects",
+          "role": "misc",
+          "defaultVisibleCount": 6,
+          "maxCount": 7,
+          "countKey": "itemCount"
+        },
+        {
+          "key": "objects[].vals",
+          "role": "misc",
+          "defaultVisibleCount": 5,
+          "maxCount": 5,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 6,
+          "min": 3,
+          "max": 7
+        },
+        {
+          "key": "axisCount",
+          "publicKey": "axisCount",
+          "label": "列数量",
+          "type": "range",
+          "default": 5,
+          "min": 3,
+          "max": 5
+        },
+        {
+          "key": "showDots",
+          "publicKey": "showDots",
+          "label": "轴上节点",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 5,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 22
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "axes[].label": {
+          "maxChars": 18
+        },
+        "axes[].max": {
+          "maxChars": 18
+        },
+        "axes[].unit": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page073",
+      "theme": "theme09",
+      "pageNumber": 73,
+      "label": "层级冰柱",
+      "slot": "icicle",
+      "roles": [],
+      "copyKeys": [
+        "rootLabel",
+        "rootValue",
+        "unit",
+        "head.no",
+        "head.en",
+        "head.cn"
+      ],
+      "arrayKeys": [
+        "groups"
+      ],
+      "arrayMeta": [
+        {
+          "key": "groups",
+          "role": "metric",
+          "defaultVisibleCount": 5,
+          "maxCount": 5,
+          "countKey": "itemCount"
+        },
+        {
+          "key": "groups[].children",
+          "role": "metric",
+          "defaultVisibleCount": 3,
+          "maxCount": 3,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 5,
+          "min": 3,
+          "max": 5
+        },
+        {
+          "key": "showChildren",
+          "publicKey": "showChildren",
+          "label": "子项列",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showValue",
+          "publicKey": "showValueLabels",
+          "label": "数值标注",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": false
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 4,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "rootLabel": {
+          "maxChars": 18
+        },
+        "rootValue": {
+          "maxChars": 18
+        },
+        "unit": {
+          "maxChars": 18
+        },
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page085",
+      "theme": "theme09",
+      "pageNumber": 85,
+      "label": "10 景气仪表",
+      "slot": "gauge",
+      "roles": [
+        "metrics"
+      ],
+      "copyKeys": [
+        "badge",
+        "items[].cn",
+        "items[].en",
+        "items[].value",
+        "items[].note",
+        "headEn"
+      ],
+      "arrayKeys": [
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 4,
+          "maxCount": 4,
+          "countKey": "itemCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 4,
+          "min": 2,
+          "max": 4
+        },
+        {
+          "key": "gaugeStyle",
+          "publicKey": "gaugeStyle",
+          "label": "图表类型",
+          "type": "select",
+          "default": "半环"
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 3,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "badge": {
+          "maxChars": 18
+        },
+        "items[].cn": {
+          "maxChars": 18
+        },
+        "items[].en": {
+          "maxChars": 18
+        },
+        "items[].value": {
+          "maxChars": 9
+        },
+        "items[].note": {
+          "maxChars": 36
+        },
+        "headEn": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page083",
+      "theme": "theme09",
+      "pageNumber": 83,
+      "label": "10 排名变迁",
+      "slot": "slope",
+      "roles": [
+        "trend"
+      ],
+      "copyKeys": [
+        "periodLeft",
+        "periodRight",
+        "unit",
+        "badge",
+        "items[].cn",
+        "headEn"
+      ],
+      "arrayKeys": [
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 8,
+          "maxCount": 8,
+          "countKey": "itemCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 8,
+          "min": 3,
+          "max": 8
+        },
+        {
+          "key": "showValue",
+          "publicKey": "showValueLabels",
+          "label": "数值标签",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 7,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "periodLeft": {
+          "maxChars": 18
+        },
+        "periodRight": {
+          "maxChars": 18
+        },
+        "unit": {
+          "maxChars": 18
+        },
+        "badge": {
+          "maxChars": 18
+        },
+        "items[].cn": {
+          "maxChars": 18
+        },
+        "headEn": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page097",
+      "theme": "theme09",
+      "pageNumber": 97,
+      "label": "全幅图景",
+      "slot": "immersive",
+      "roles": [
+        "image",
+        "ambient"
+      ],
+      "copyKeys": [
+        "badge",
+        "kicker",
+        "title",
+        "titleEN",
+        "paragraph",
+        "tags[]"
+      ],
+      "arrayKeys": [
+        "tags"
+      ],
+      "arrayMeta": [
+        {
+          "key": "tags",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 4,
+          "countKey": "tagCount"
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "imgCount",
+          "publicCountKey": "imgCount",
+          "defaultVisibleCount": 1,
+          "max": 4,
+          "maxCount": 4,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "backgroundMode",
+          "publicKey": "backgroundMode",
+          "label": "背景替换",
+          "type": "select",
+          "default": "unicorn"
+        },
+        {
+          "key": "unicornScene",
+          "publicKey": "dynamicVisual",
+          "label": "动态场景",
+          "type": "select",
+          "default": "moving"
+        },
+        {
+          "key": "imgCount",
+          "publicKey": "imgCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 1,
+          "min": 1,
+          "max": 4
+        },
+        {
+          "key": "textPos",
+          "publicKey": "textPos",
+          "label": "文案位置",
+          "type": "select",
+          "default": "左下"
+        },
+        {
+          "key": "tagCount",
+          "publicKey": "tagCount",
+          "label": "数量",
+          "type": "range",
+          "default": 2,
+          "min": 0,
+          "max": 4
+        },
+        {
+          "key": "showScrim",
+          "publicKey": "showScrim",
+          "label": "压暗层",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showRail",
+          "publicKey": "showRail",
+          "label": "装饰图片",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "描边高亮",
+          "type": "toggle",
+          "default": true
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "badge": {
+          "maxChars": 18
+        },
+        "kicker": {
+          "maxChars": 18
+        },
+        "title": {
+          "maxChars": 18
+        },
+        "titleEN": {
+          "maxChars": 18
+        },
+        "paragraph": {
+          "maxChars": 93
+        },
+        "tags[]": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page082",
+      "theme": "theme09",
+      "pageNumber": 82,
+      "label": "影像纪程",
+      "slot": "journey",
+      "roles": [
+        "image",
+        "process"
+      ],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "nodes[].date",
+        "nodes[].caption"
+      ],
+      "arrayKeys": [
+        "nodes"
+      ],
+      "arrayMeta": [
+        {
+          "key": "nodes",
+          "role": "misc",
+          "defaultVisibleCount": 6,
+          "maxCount": 6,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "imgCount",
+          "publicCountKey": "imgCount",
+          "defaultVisibleCount": 5,
+          "max": 6,
+          "maxCount": 6,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "imgCount",
+          "publicKey": "imgCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 5,
+          "min": 3,
+          "max": 6
+        },
+        {
+          "key": "showAxis",
+          "publicKey": "showAxis",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 4,
+          "displayOffset": 1,
+          "maxFromKey": "imgCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "nodes[].date": {
+          "maxChars": 18
+        },
+        "nodes[].caption": {
+          "maxChars": 36
+        }
+      }
+    },
+    {
+      "layout": "theme09_page090",
+      "theme": "theme09",
+      "pageNumber": 90,
+      "label": "单笔分布",
+      "slot": "ridge",
+      "roles": [
+        "distribution"
+      ],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "axisTicks[]",
+        "rows[].label",
+        "rows[].peak"
+      ],
+      "arrayKeys": [
+        "axisTicks",
+        "rows"
+      ],
+      "arrayMeta": [
+        {
+          "key": "axisTicks",
+          "role": "misc",
+          "defaultVisibleCount": 7,
+          "maxCount": 7,
+          "countKey": null
+        },
+        {
+          "key": "rows",
+          "role": "list-item",
+          "defaultVisibleCount": 8,
+          "maxCount": 8,
+          "countKey": "itemCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 8,
+          "min": 4,
+          "max": 8
+        },
+        {
+          "key": "bins",
+          "publicKey": "bins",
+          "label": "采样点数",
+          "type": "range",
+          "default": 15,
+          "min": 11,
+          "max": 19
+        },
+        {
+          "key": "seed",
+          "publicKey": "seed",
+          "label": "形态种子",
+          "type": "range",
+          "default": 5,
+          "min": 1,
+          "max": 30
+        },
+        {
+          "key": "showAxis",
+          "publicKey": "showAxis",
+          "label": "横轴刻度",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 7,
+          "min": 0,
+          "max": 7,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 22
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "axisTicks[]": {
+          "maxChars": 18
+        },
+        "rows[].label": {
+          "maxChars": 18
+        },
+        "rows[].peak": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page003",
+      "theme": "theme09",
+      "pageNumber": 3,
+      "label": "封面D 卷宗",
+      "slot": "coverdossier",
+      "roles": [
+        "cover"
+      ],
+      "copyKeys": [
+        "classification",
+        "docNo",
+        "year",
+        "titleLines[]",
+        "fields[].k",
+        "fields[].v"
+      ],
+      "arrayKeys": [
+        "titleLines",
+        "fields"
+      ],
+      "arrayMeta": [
+        {
+          "key": "titleLines",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        },
+        {
+          "key": "fields",
+          "role": "misc",
+          "defaultVisibleCount": 6,
+          "maxCount": 6,
+          "countKey": "fieldCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "fieldCount",
+          "publicKey": "fieldCount",
+          "label": "档案字段数量",
+          "type": "range",
+          "default": 6,
+          "min": 2,
+          "max": 6
+        },
+        {
+          "key": "showFrame",
+          "publicKey": "showFrame",
+          "label": "内框定位标",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showBarcode",
+          "publicKey": "showBarcode",
+          "label": "条形码",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showStamp",
+          "publicKey": "showStamp",
+          "label": "钢印章",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showChip",
+          "publicKey": "showChip",
+          "label": "质感方块",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 5,
+          "displayOffset": 1,
+          "maxFromKey": "fieldCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "classification": {
+          "maxChars": 29
+        },
+        "docNo": {
+          "maxChars": 18
+        },
+        "year": {
+          "maxChars": 18
+        },
+        "titleLines[]": {
+          "maxChars": 18
+        },
+        "fields[].k": {
+          "maxChars": 18
+        },
+        "fields[].v": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page053",
+      "theme": "theme09",
+      "pageNumber": 53,
+      "label": "金句主张",
+      "slot": "manifesto",
+      "roles": [
+        "statement",
+        "observation"
+      ],
+      "copyKeys": [
+        "name",
+        "role",
+        "tag",
+        "badge",
+        "segments[].text"
+      ],
+      "arrayKeys": [
+        "segments"
+      ],
+      "arrayMeta": [
+        {
+          "key": "segments",
+          "role": "list-item",
+          "defaultVisibleCount": 5,
+          "maxCount": 5,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "align",
+          "publicKey": "align",
+          "label": "对齐",
+          "type": "select",
+          "default": "居中"
+        },
+        {
+          "key": "scale",
+          "publicKey": "scale",
+          "label": "字号",
+          "type": "range",
+          "default": 64,
+          "min": 40,
+          "max": 80
+        },
+        {
+          "key": "showMark",
+          "publicKey": "showMark",
+          "label": "引号装饰",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showRule",
+          "publicKey": "showRule",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "name": {
+          "maxChars": 18
+        },
+        "role": {
+          "maxChars": 22
+        },
+        "tag": {
+          "maxChars": 18
+        },
+        "badge": {
+          "maxChars": 18
+        },
+        "segments[].text": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page077",
+      "theme": "theme09",
+      "pageNumber": 77,
+      "label": "10 月度热力",
+      "slot": "heatmap",
+      "roles": [
+        "data",
+        "distribution",
+        "relationship"
+      ],
+      "copyKeys": [
+        "badge",
+        "rows[].cn",
+        "rows[].vals[]",
+        "headEn",
+        "headCn",
+        "axisCornerLabel"
+      ],
+      "arrayKeys": [
+        "rows"
+      ],
+      "arrayMeta": [
+        {
+          "key": "rows",
+          "role": "list-item",
+          "defaultVisibleCount": 6,
+          "maxCount": 6,
+          "countKey": "rowCount"
+        },
+        {
+          "key": "rows[].vals",
+          "role": "misc",
+          "defaultVisibleCount": 12,
+          "maxCount": 12,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "rowCount",
+          "publicKey": "rowCount",
+          "label": "行数量",
+          "type": "range",
+          "default": 6,
+          "min": 2,
+          "max": 6
+        },
+        {
+          "key": "colCount",
+          "publicKey": "colCount",
+          "label": "列数量",
+          "type": "range",
+          "default": 12,
+          "min": 6,
+          "max": 12
+        },
+        {
+          "key": "highlightCol",
+          "publicKey": "highlightCol",
+          "label": "高亮列（-1关）",
+          "type": "range",
+          "default": -1,
+          "min": -1,
+          "max": 11,
+          "maxFromKey": "colCount",
+          "maxFromKeyOffset": -1
+        },
+        {
+          "key": "showScale",
+          "publicKey": "showScale",
+          "label": "色阶图例",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 5,
+          "displayOffset": 1,
+          "maxFromKey": "rowCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "badge": {
+          "maxChars": 18
+        },
+        "rows[].cn": {
+          "maxChars": 18
+        },
+        "rows[].vals[]": {
+          "maxChars": 18
+        },
+        "headEn": {
+          "maxChars": 18
+        },
+        "headCn": {
+          "maxChars": 18
+        },
+        "axisCornerLabel": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page058",
+      "theme": "theme09",
+      "pageNumber": 58,
+      "label": "10 估值梯队",
+      "slot": "tier",
+      "roles": [],
+      "copyKeys": [
+        "badge",
+        "tiers[].band",
+        "tiers[].en",
+        "tiers[].count",
+        "tiers[].range",
+        "tiers[].reps[]"
+      ],
+      "arrayKeys": [
+        "tiers"
+      ],
+      "arrayMeta": [
+        {
+          "key": "tiers",
+          "role": "misc",
+          "defaultVisibleCount": 5,
+          "maxCount": 5,
+          "countKey": "itemCount"
+        },
+        {
+          "key": "tiers[].reps",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 5,
+          "min": 3,
+          "max": 5
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 4,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "badge": {
+          "maxChars": 18
+        },
+        "tiers[].band": {
+          "maxChars": 18
+        },
+        "tiers[].en": {
+          "maxChars": 18
+        },
+        "tiers[].count": {
+          "maxChars": 18
+        },
+        "tiers[].range": {
+          "maxChars": 18
+        },
+        "tiers[].reps[]": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page056",
+      "theme": "theme09",
+      "pageNumber": 56,
+      "label": "资本弧网",
+      "slot": "arc",
+      "roles": [],
+      "copyKeys": [
+        "unit",
+        "head.no",
+        "head.en",
+        "head.cn",
+        "nodes[].label",
+        "nodes[].sub"
+      ],
+      "arrayKeys": [
+        "nodes",
+        "links"
+      ],
+      "arrayMeta": [
+        {
+          "key": "nodes",
+          "role": "metric",
+          "defaultVisibleCount": 7,
+          "maxCount": 8,
+          "countKey": "itemCount"
+        },
+        {
+          "key": "links",
+          "role": "misc",
+          "defaultVisibleCount": 10,
+          "maxCount": 10,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 7,
+          "min": 4,
+          "max": 8
+        },
+        {
+          "key": "showArc",
+          "publicKey": "showArc",
+          "label": "连弧",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showValue",
+          "publicKey": "showValueLabels",
+          "label": "体量数值",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 6,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "unit": {
+          "maxChars": 18
+        },
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "nodes[].label": {
+          "maxChars": 18
+        },
+        "nodes[].sub": {
+          "maxChars": 36
+        }
+      }
+    },
+    {
+      "layout": "theme09_page033",
+      "theme": "theme09",
+      "pageNumber": 33,
+      "label": "封面影像",
+      "slot": "coverstory",
+      "roles": [
+        "case",
+        "image",
+        "ambient"
+      ],
+      "copyKeys": [
+        "masthead",
+        "issue",
+        "kicker",
+        "title[]",
+        "sub",
+        "tags[]"
+      ],
+      "arrayKeys": [
+        "title",
+        "tags"
+      ],
+      "arrayMeta": [
+        {
+          "key": "title",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        },
+        {
+          "key": "tags",
+          "role": "misc",
+          "defaultVisibleCount": 3,
+          "maxCount": 4,
+          "countKey": "tagCount"
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "imgCount",
+          "publicCountKey": "imgCount",
+          "defaultVisibleCount": 3,
+          "max": 4,
+          "maxCount": 4,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "backgroundMode",
+          "publicKey": "backgroundMode",
+          "label": "背景替换",
+          "type": "select",
+          "default": "unicorn"
+        },
+        {
+          "key": "unicornScene",
+          "publicKey": "dynamicVisual",
+          "label": "动态场景",
+          "type": "select",
+          "default": "tech"
+        },
+        {
+          "key": "imgCount",
+          "publicKey": "imgCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 3,
+          "min": 1,
+          "max": 4
+        },
+        {
+          "key": "textPos",
+          "publicKey": "textPos",
+          "label": "文字位置",
+          "type": "select",
+          "default": "左"
+        },
+        {
+          "key": "tagCount",
+          "publicKey": "tagCount",
+          "label": "标签数量",
+          "type": "range",
+          "default": 3,
+          "min": 0,
+          "max": 4
+        },
+        {
+          "key": "showMasthead",
+          "publicKey": "showMasthead",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "masthead": {
+          "maxChars": 18
+        },
+        "issue": {
+          "maxChars": 18
+        },
+        "kicker": {
+          "maxChars": 20
+        },
+        "title[]": {
+          "maxChars": 18
+        },
+        "sub": {
+          "maxChars": 36
+        },
+        "tags[]": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page067",
+      "theme": "theme09",
+      "pageNumber": 67,
+      "label": "评级矩阵",
+      "slot": "grade",
+      "roles": [
+        "comparison"
+      ],
+      "copyKeys": [
+        "rowHeader",
+        "note",
+        "head.no",
+        "head.en",
+        "head.cn",
+        "criteria[]"
+      ],
+      "arrayKeys": [
+        "criteria",
+        "rows"
+      ],
+      "arrayMeta": [
+        {
+          "key": "criteria",
+          "role": "misc",
+          "defaultVisibleCount": 6,
+          "maxCount": 6,
+          "countKey": null
+        },
+        {
+          "key": "rows",
+          "role": "list-item",
+          "defaultVisibleCount": 6,
+          "maxCount": 8,
+          "countKey": "rowCount"
+        },
+        {
+          "key": "rows[].grades",
+          "role": "misc",
+          "defaultVisibleCount": 6,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "rowCount",
+          "publicKey": "rowCount",
+          "label": "行数量",
+          "type": "range",
+          "default": 6,
+          "min": 3,
+          "max": 8
+        },
+        {
+          "key": "colCount",
+          "publicKey": "colCount",
+          "label": "列数量",
+          "type": "range",
+          "default": 5,
+          "min": 2,
+          "max": 6
+        },
+        {
+          "key": "highlightCol",
+          "publicKey": "highlightCol",
+          "label": "高亮列 (-1 关闭)",
+          "type": "range",
+          "default": -1,
+          "min": -1,
+          "max": 4,
+          "maxFromKey": "colCount",
+          "maxFromKeyOffset": -1
+        },
+        {
+          "key": "showComposite",
+          "publicKey": "showComposite",
+          "label": "综合评级",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 5,
+          "displayOffset": 1,
+          "maxFromKey": "rowCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "rowHeader": {
+          "maxChars": 18
+        },
+        "note": {
+          "maxChars": 69
+        },
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "criteria[]": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page007",
+      "theme": "theme09",
+      "pageNumber": 7,
+      "label": "Cover",
+      "slot": "cover",
+      "roles": [],
+      "copyKeys": [
+        "year",
+        "titleLines[]",
+        "brand",
+        "quote[]",
+        "contact[].label",
+        "contact[].value"
+      ],
+      "decorativeKeys": [
+        "signature"
+      ],
+      "arrayKeys": [
+        "titleLines",
+        "quote",
+        "contact"
+      ],
+      "arrayMeta": [
+        {
+          "key": "titleLines",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        },
+        {
+          "key": "quote",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        },
+        {
+          "key": "contact",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 1,
+          "displayOffset": 1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "year": {
+          "maxChars": 18
+        },
+        "titleLines[]": {
+          "maxChars": 18
+        },
+        "brand": {
+          "maxChars": 18
+        },
+        "quote[]": {
+          "maxChars": 20
+        },
+        "contact[].label": {
+          "maxChars": 18
+        },
+        "contact[].value": {
+          "maxChars": 10
+        }
+      }
+    },
+    {
+      "layout": "theme09_page026",
+      "theme": "theme09",
+      "pageNumber": 26,
+      "label": "影像速写",
+      "slot": "polaroid",
+      "roles": [
+        "image"
+      ],
+      "copyKeys": [
+        "badge",
+        "kicker",
+        "title",
+        "titleEN",
+        "shots[].caption"
+      ],
+      "arrayKeys": [
+        "shots"
+      ],
+      "arrayMeta": [
+        {
+          "key": "shots",
+          "role": "misc",
+          "defaultVisibleCount": 6,
+          "maxCount": 6,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "imgCount",
+          "publicCountKey": "imgCount",
+          "defaultVisibleCount": 4,
+          "max": 6,
+          "maxCount": 6,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "imgCount",
+          "publicKey": "imgCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 4,
+          "min": 1,
+          "max": 6
+        },
+        {
+          "key": "scatter",
+          "publicKey": "scatter",
+          "label": "散落排布",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showTape",
+          "publicKey": "showTape",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 3,
+          "displayOffset": 1,
+          "maxFromKey": "imgCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "badge": {
+          "maxChars": 18
+        },
+        "kicker": {
+          "maxChars": 20
+        },
+        "title": {
+          "maxChars": 18
+        },
+        "titleEN": {
+          "maxChars": 18
+        },
+        "shots[].caption": {
+          "maxChars": 36
+        }
+      }
+    },
+    {
+      "layout": "theme09_page110",
+      "theme": "theme09",
+      "pageNumber": 110,
+      "label": "企业掘影",
+      "slot": "pf-gallery",
+      "roles": [
+        "image"
+      ],
+      "copyKeys": [
+        "kicker",
+        "title",
+        "titleEN",
+        "caption",
+        "maxH",
+        "tags[]"
+      ],
+      "arrayKeys": [
+        "tags"
+      ],
+      "arrayMeta": [
+        {
+          "key": "tags",
+          "role": "misc",
+          "defaultVisibleCount": 4,
+          "maxCount": 6,
+          "countKey": "tagCount"
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "imgCount",
+          "publicCountKey": "imgCount",
+          "defaultVisibleCount": 3,
+          "max": 6,
+          "maxCount": 6,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "imgCount",
+          "publicKey": "imgCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 3,
+          "min": 0,
+          "max": 6
+        },
+        {
+          "key": "tagCount",
+          "publicKey": "tagCount",
+          "label": "标签数量",
+          "type": "range",
+          "default": 4,
+          "min": 0,
+          "max": 6
+        },
+        {
+          "key": "showMeta",
+          "publicKey": "showMeta",
+          "label": "说明与标签",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 3,
+          "displayOffset": 1,
+          "maxFromKey": "tagCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "kicker": {
+          "maxChars": 18
+        },
+        "title": {
+          "maxChars": 18
+        },
+        "titleEN": {
+          "maxChars": 18
+        },
+        "caption": {
+          "maxChars": 80
+        },
+        "maxH": {
+          "maxChars": 18
+        },
+        "tags[]": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page037",
+      "theme": "theme09",
+      "pageNumber": 37,
+      "label": "同比对望",
+      "slot": "tornado",
+      "roles": [],
+      "copyKeys": [
+        "endLabels[]",
+        "unit",
+        "head.no",
+        "head.en",
+        "head.cn",
+        "items[].label"
+      ],
+      "arrayKeys": [
+        "endLabels",
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "endLabels",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        },
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 7,
+          "maxCount": 7,
+          "countKey": "itemCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "行数量",
+          "type": "range",
+          "default": 7,
+          "min": 3,
+          "max": 7
+        },
+        {
+          "key": "sort",
+          "publicKey": "sort",
+          "label": "排序",
+          "type": "select",
+          "default": "合计"
+        },
+        {
+          "key": "showValue",
+          "publicKey": "showValue",
+          "label": "条末读数",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 6,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "endLabels[]": {
+          "maxChars": 18
+        },
+        "unit": {
+          "maxChars": 18
+        },
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "items[].label": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page028",
+      "theme": "theme09",
+      "pageNumber": 28,
+      "label": "06 投资展望",
+      "slot": "outlook",
+      "roles": [
+        "report"
+      ],
+      "copyKeys": [
+        "groups[].title",
+        "groups[].en",
+        "groups[].sign",
+        "groups[].items[].label",
+        "groups[].items[].note",
+        "phases[].time"
+      ],
+      "arrayKeys": [
+        "groups",
+        "phases"
+      ],
+      "arrayMeta": [
+        {
+          "key": "groups",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        },
+        {
+          "key": "groups[].items",
+          "role": "list-item",
+          "defaultVisibleCount": 3,
+          "maxCount": 3,
+          "countKey": "itemCount"
+        },
+        {
+          "key": "phases",
+          "role": "step",
+          "defaultVisibleCount": 3,
+          "maxCount": 3,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 3,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "时间轴",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点分组",
+          "type": "select",
+          "default": "左侧"
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "groups[].title": {
+          "maxChars": 18
+        },
+        "groups[].en": {
+          "maxChars": 18
+        },
+        "groups[].sign": {
+          "maxChars": 18
+        },
+        "groups[].items[].label": {
+          "maxChars": 18
+        },
+        "groups[].items[].note": {
+          "maxChars": 36
+        },
+        "phases[].time": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page012",
+      "theme": "theme09",
+      "pageNumber": 12,
+      "label": "02 市场全景",
+      "slot": "market",
+      "roles": [
+        "report",
+        "context"
+      ],
+      "copyKeys": [
+        "quarter[].label",
+        "quarter[].amt",
+        "quarter[].cnt",
+        "month[].label",
+        "month[].amt",
+        "month[].cnt"
+      ],
+      "arrayKeys": [
+        "quarter",
+        "month",
+        "summaryStats"
+      ],
+      "arrayMeta": [
+        {
+          "key": "quarter",
+          "role": "metric",
+          "defaultVisibleCount": 4,
+          "maxCount": 4,
+          "countKey": null
+        },
+        {
+          "key": "month",
+          "role": "metric",
+          "defaultVisibleCount": 12,
+          "maxCount": 12,
+          "countKey": null
+        },
+        {
+          "key": "summaryStats",
+          "role": "misc",
+          "defaultVisibleCount": 3,
+          "maxCount": 3,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "granularity",
+          "publicKey": "granularity",
+          "label": "数据粒度",
+          "type": "select",
+          "default": "季度"
+        },
+        {
+          "key": "chartType",
+          "publicKey": "chartType",
+          "label": "图表类型",
+          "type": "select",
+          "default": "面积"
+        },
+        {
+          "key": "showCount",
+          "publicKey": "showCount",
+          "label": "副指标线",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "callout",
+          "publicKey": "callout",
+          "label": "解读卡",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 2,
+          "min": 0,
+          "max": 3,
+          "displayOffset": 1,
+          "maxByKey": "granularity",
+          "maxByValue": {
+            "季度": 3,
+            "月度": 11
+          }
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "quarter[].label": {
+          "maxChars": 18
+        },
+        "quarter[].amt": {
+          "maxChars": 9
+        },
+        "quarter[].cnt": {
+          "maxChars": 18
+        },
+        "month[].label": {
+          "maxChars": 18
+        },
+        "month[].amt": {
+          "maxChars": 9
+        },
+        "month[].cnt": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page084",
+      "theme": "theme09",
+      "pageNumber": 84,
+      "label": "区间对比",
+      "slot": "dumbbell",
+      "roles": [
+        "comparison"
+      ],
+      "copyKeys": [
+        "endLabels[]",
+        "unit",
+        "head.no",
+        "head.en",
+        "head.cn",
+        "items[].label"
+      ],
+      "arrayKeys": [
+        "endLabels",
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "endLabels",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        },
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 6,
+          "maxCount": 7,
+          "countKey": "itemCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "行数量",
+          "type": "range",
+          "default": 6,
+          "min": 3,
+          "max": 7
+        },
+        {
+          "key": "sort",
+          "publicKey": "sort",
+          "label": "排序",
+          "type": "select",
+          "default": "跨度"
+        },
+        {
+          "key": "showValue",
+          "publicKey": "showValueLabels",
+          "label": "端点数值",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 5,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "endLabels[]": {
+          "maxChars": 18
+        },
+        "unit": {
+          "maxChars": 18
+        },
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "items[].label": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page087",
+      "theme": "theme09",
+      "pageNumber": 87,
+      "label": "影像卡集",
+      "slot": "cards",
+      "roles": [
+        "image"
+      ],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "cards[].title",
+        "cards[].caption"
+      ],
+      "arrayKeys": [
+        "cards"
+      ],
+      "arrayMeta": [
+        {
+          "key": "cards",
+          "role": "list-item",
+          "defaultVisibleCount": 4,
+          "maxCount": 4,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "cardCount",
+          "publicCountKey": "cardCount",
+          "defaultVisibleCount": 3,
+          "max": 4,
+          "maxCount": 4,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "cardCount",
+          "publicKey": "cardCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 3,
+          "min": 2,
+          "max": 4
+        },
+        {
+          "key": "showCaption",
+          "publicKey": "showCaption",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 2,
+          "displayOffset": 1,
+          "maxFromKey": "cardCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "cards[].title": {
+          "maxChars": 18
+        },
+        "cards[].caption": {
+          "maxChars": 36
+        }
+      }
+    },
+    {
+      "layout": "theme09_page051",
+      "theme": "theme09",
+      "pageNumber": 51,
+      "label": "交叉透视",
+      "slot": "crosstab",
+      "roles": [],
+      "copyKeys": [
+        "rowHeader",
+        "unit",
+        "note",
+        "head.no",
+        "head.en",
+        "head.cn"
+      ],
+      "arrayKeys": [
+        "columns",
+        "rows"
+      ],
+      "arrayMeta": [
+        {
+          "key": "columns",
+          "role": "misc",
+          "defaultVisibleCount": 4,
+          "maxCount": 4,
+          "countKey": "colCount"
+        },
+        {
+          "key": "rows",
+          "role": "list-item",
+          "defaultVisibleCount": 6,
+          "maxCount": 6,
+          "countKey": "rowCount"
+        },
+        {
+          "key": "rows[].values",
+          "role": "misc",
+          "defaultVisibleCount": 4,
+          "maxCount": 4,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "rowCount",
+          "publicKey": "rowCount",
+          "label": "行数量",
+          "type": "range",
+          "default": 6,
+          "min": 2,
+          "max": 6
+        },
+        {
+          "key": "colCount",
+          "publicKey": "colCount",
+          "label": "列数量",
+          "type": "range",
+          "default": 4,
+          "min": 2,
+          "max": 4
+        },
+        {
+          "key": "highlightCol",
+          "publicKey": "highlightCol",
+          "label": "高亮列 (-1 关闭)",
+          "type": "range",
+          "default": -1,
+          "min": -1,
+          "max": 3,
+          "maxFromKey": "colCount",
+          "maxFromKeyOffset": -1
+        },
+        {
+          "key": "heat",
+          "publicKey": "heat",
+          "label": "热力着色",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showTotals",
+          "publicKey": "showTotals",
+          "label": "边际合计",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 5,
+          "displayOffset": 1,
+          "maxFromKey": "rowCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "rowHeader": {
+          "maxChars": 18
+        },
+        "unit": {
+          "maxChars": 18
+        },
+        "note": {
+          "maxChars": 80
+        },
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 20
+        }
+      }
+    },
+    {
+      "layout": "theme09_page002",
+      "theme": "theme09",
+      "pageNumber": 2,
+      "label": "封面C 斜切",
+      "slot": "coverdiag",
+      "roles": [
+        "cover"
+      ],
+      "copyKeys": [
+        "brand",
+        "kicker",
+        "year",
+        "titleLines[]",
+        "index[].no",
+        "index[].t"
+      ],
+      "arrayKeys": [
+        "titleLines",
+        "index"
+      ],
+      "arrayMeta": [
+        {
+          "key": "titleLines",
+          "role": "misc",
+          "defaultVisibleCount": 3,
+          "maxCount": 3,
+          "countKey": null
+        },
+        {
+          "key": "index",
+          "role": "misc",
+          "defaultVisibleCount": 5,
+          "maxCount": 6,
+          "countKey": "indexCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "indexCount",
+          "publicKey": "indexCount",
+          "label": "篇章索引数量",
+          "type": "range",
+          "default": 5,
+          "min": 0,
+          "max": 6
+        },
+        {
+          "key": "splitDir",
+          "publicKey": "splitDir",
+          "label": "斜切方向",
+          "type": "select",
+          "default": "右"
+        },
+        {
+          "key": "showSpine",
+          "publicKey": "showSpine",
+          "label": "竖排书脊",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showSeam",
+          "publicKey": "showSeam",
+          "label": "斜边亮线",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showChip",
+          "publicKey": "showChip",
+          "label": "质感方块",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 4,
+          "displayOffset": 1,
+          "maxFromKey": "indexCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "brand": {
+          "maxChars": 18
+        },
+        "kicker": {
+          "maxChars": 20
+        },
+        "year": {
+          "maxChars": 18
+        },
+        "titleLines[]": {
+          "maxChars": 18
+        },
+        "index[].no": {
+          "maxChars": 18
+        },
+        "index[].t": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page041",
+      "theme": "theme09",
+      "pageNumber": 41,
+      "label": "数字对决",
+      "slot": "versus",
+      "roles": [
+        "metrics",
+        "comparison"
+      ],
+      "copyKeys": [
+        "note",
+        "badge",
+        "kicker",
+        "left.value",
+        "left.unit",
+        "left.label"
+      ],
+      "arrayKeys": [],
+      "arrayMeta": [],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "pivot",
+          "publicKey": "pivot",
+          "label": "中枢符",
+          "type": "select",
+          "default": "VS"
+        },
+        {
+          "key": "showBar",
+          "publicKey": "showBar",
+          "label": "对比条",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showNote",
+          "publicKey": "showNote",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 1,
+          "displayOffset": 1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "note": {
+          "maxChars": 63
+        },
+        "badge": {
+          "maxChars": 18
+        },
+        "kicker": {
+          "maxChars": 18
+        },
+        "left.value": {
+          "maxChars": 9
+        },
+        "left.unit": {
+          "maxChars": 18
+        },
+        "left.label": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page072",
+      "theme": "theme09",
+      "pageNumber": 72,
+      "label": "10 公司版图",
+      "slot": "treemap",
+      "roles": [
+        "distribution",
+        "relationship"
+      ],
+      "copyKeys": [
+        "badge",
+        "items[].name",
+        "items[].sector",
+        "items[].val",
+        "items[].round",
+        "headEn"
+      ],
+      "arrayKeys": [
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 12,
+          "maxCount": 12,
+          "countKey": "itemCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 12,
+          "min": 5,
+          "max": 12
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 11,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "badge": {
+          "maxChars": 18
+        },
+        "items[].name": {
+          "maxChars": 18
+        },
+        "items[].sector": {
+          "maxChars": 18
+        },
+        "items[].val": {
+          "maxChars": 9
+        },
+        "items[].round": {
+          "maxChars": 18
+        },
+        "headEn": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page035",
+      "theme": "theme09",
+      "pageNumber": 35,
+      "label": "08 资本排行",
+      "slot": "ranking",
+      "roles": [
+        "data",
+        "distribution"
+      ],
+      "copyKeys": [
+        "unit",
+        "badge",
+        "items[].name",
+        "items[].en",
+        "items[].value",
+        "items[].meta"
+      ],
+      "arrayKeys": [
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 6,
+          "maxCount": 8,
+          "countKey": "itemCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "条目数量",
+          "type": "range",
+          "default": 6,
+          "min": 3,
+          "max": 8
+        },
+        {
+          "key": "sort",
+          "publicKey": "sort",
+          "label": "排序方式",
+          "type": "select",
+          "default": "降序"
+        },
+        {
+          "key": "showValue",
+          "publicKey": "showValueLabels",
+          "label": "数值显示",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 5,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "unit": {
+          "maxChars": 18
+        },
+        "badge": {
+          "maxChars": 18
+        },
+        "items[].name": {
+          "maxChars": 18
+        },
+        "items[].en": {
+          "maxChars": 18
+        },
+        "items[].value": {
+          "maxChars": 9
+        },
+        "items[].meta": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page104",
+      "theme": "theme09",
+      "pageNumber": 104,
+      "label": "13 实施路径",
+      "slot": "process",
+      "roles": [
+        "process"
+      ],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "outcome.tag",
+        "outcome.text",
+        "steps[].title"
+      ],
+      "arrayKeys": [
+        "steps"
+      ],
+      "arrayMeta": [
+        {
+          "key": "steps",
+          "role": "step",
+          "defaultVisibleCount": 4,
+          "maxCount": 6,
+          "countKey": "stepCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "stepCount",
+          "publicKey": "stepCount",
+          "label": "数量",
+          "type": "range",
+          "default": 4,
+          "min": 2,
+          "max": 6
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 3,
+          "displayOffset": 1,
+          "maxFromKey": "stepCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "outcome.tag": {
+          "maxChars": 18
+        },
+        "outcome.text": {
+          "maxChars": 42
+        },
+        "steps[].title": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page101",
+      "theme": "theme09",
+      "pageNumber": 101,
+      "label": "篇章卡",
+      "slot": "chapter",
+      "roles": [
+        "transition"
+      ],
+      "copyKeys": [
+        "chapterNo",
+        "titleCN",
+        "titleEN",
+        "lead",
+        "items[].label",
+        "items[].sub"
+      ],
+      "arrayKeys": [
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 4,
+          "maxCount": 6,
+          "countKey": "itemCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 4,
+          "min": 1,
+          "max": 6
+        },
+        {
+          "key": "showProgress",
+          "publicKey": "showProgress",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 3,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "chapterNo": {
+          "maxChars": 18
+        },
+        "titleCN": {
+          "maxChars": 18
+        },
+        "titleEN": {
+          "maxChars": 18
+        },
+        "lead": {
+          "maxChars": 53
+        },
+        "items[].label": {
+          "maxChars": 18
+        },
+        "items[].sub": {
+          "maxChars": 36
+        }
+      }
+    },
+    {
+      "layout": "theme09_page039",
+      "theme": "theme09",
+      "pageNumber": 39,
+      "label": "影像便当",
+      "slot": "bento",
+      "roles": [
+        "image"
+      ],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "items[].label",
+        "items[].sub"
+      ],
+      "arrayKeys": [
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 6,
+          "maxCount": 6,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "imgCount",
+          "publicCountKey": "imgCount",
+          "defaultVisibleCount": 5,
+          "max": 6,
+          "maxCount": 6,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "imgCount",
+          "publicKey": "imgCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 5,
+          "min": 3,
+          "max": 6
+        },
+        {
+          "key": "showCaption",
+          "publicKey": "showCaption",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 4,
+          "displayOffset": 1,
+          "maxFromKey": "imgCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "items[].label": {
+          "maxChars": 18
+        },
+        "items[].sub": {
+          "maxChars": 36
+        }
+      }
+    },
+    {
+      "layout": "theme09_page011",
+      "theme": "theme09",
+      "pageNumber": 11,
+      "label": "01 研究方法",
+      "slot": "section",
+      "roles": [
+        "transition",
+        "context"
+      ],
+      "copyKeys": [
+        "sectionNo",
+        "titleCN",
+        "titleEN",
+        "bubbleText",
+        "bubbleColor",
+        "stackLabels[]"
+      ],
+      "arrayKeys": [
+        "stackLabels",
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "stackLabels",
+          "role": "misc",
+          "defaultVisibleCount": 5,
+          "maxCount": 5,
+          "countKey": "stackCount"
+        },
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 3,
+          "maxCount": 3,
+          "countKey": null
+        }
+      ],
+      "paletteColors": {
+        "key": "bubbleTail",
+        "colors": [
+          "#0E58DE",
+          "#0C51D2"
+        ]
+      },
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "stackCount",
+          "publicKey": "stackCount",
+          "label": "堆叠数量",
+          "type": "range",
+          "default": 5,
+          "min": 2,
+          "max": 5
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 2,
+          "displayOffset": 1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "sectionNo": {
+          "maxChars": 18
+        },
+        "titleCN": {
+          "maxChars": 18
+        },
+        "titleEN": {
+          "maxChars": 18
+        },
+        "bubbleText": {
+          "maxChars": 18
+        },
+        "bubbleColor": {
+          "maxChars": 42
+        },
+        "stackLabels[]": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page064",
+      "theme": "theme09",
+      "pageNumber": 64,
+      "label": "数字海报",
+      "slot": "mega",
+      "roles": [
+        "metrics"
+      ],
+      "copyKeys": [
+        "value",
+        "unit",
+        "lines[]",
+        "tag",
+        "badge",
+        "kicker"
+      ],
+      "arrayKeys": [
+        "lines",
+        "ticker"
+      ],
+      "arrayMeta": [
+        {
+          "key": "lines",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        },
+        {
+          "key": "ticker",
+          "role": "misc",
+          "defaultVisibleCount": 4,
+          "maxCount": 6,
+          "countKey": "itemCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "tickerCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 4,
+          "min": 0,
+          "max": 6
+        },
+        {
+          "key": "accentNumber",
+          "publicKey": "accentNumber",
+          "label": "强调主数字",
+          "type": "toggle",
+          "default": false
+        },
+        {
+          "key": "showTag",
+          "publicKey": "showTag",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 3,
+          "displayOffset": 1,
+          "maxFromKey": "tickerCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "value": {
+          "maxChars": 9
+        },
+        "unit": {
+          "maxChars": 18
+        },
+        "lines[]": {
+          "maxChars": 18
+        },
+        "tag": {
+          "maxChars": 18
+        },
+        "badge": {
+          "maxChars": 18
+        },
+        "kicker": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page088",
+      "theme": "theme09",
+      "pageNumber": 88,
+      "label": "跨栏图景",
+      "slot": "halfhero",
+      "roles": [
+        "image"
+      ],
+      "copyKeys": [
+        "badge",
+        "kicker",
+        "title",
+        "titleEN",
+        "cols[].label",
+        "cols[].text"
+      ],
+      "arrayKeys": [
+        "cols"
+      ],
+      "arrayMeta": [
+        {
+          "key": "cols",
+          "role": "misc",
+          "defaultVisibleCount": 3,
+          "maxCount": 4,
+          "countKey": "colCount"
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": null,
+          "publicCountKey": null,
+          "defaultVisibleCount": 0,
+          "max": null,
+          "maxCount": 1,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "placeholder"
+        }
+      ],
+      "controls": [
+        {
+          "key": "colCount",
+          "publicKey": "colCount",
+          "label": "数量",
+          "type": "range",
+          "default": 3,
+          "min": 2,
+          "max": 4
+        },
+        {
+          "key": "titlePos",
+          "publicKey": "titlePos",
+          "label": "图片位置",
+          "type": "select",
+          "default": "左"
+        },
+        {
+          "key": "showScrim",
+          "publicKey": "showScrim",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 2,
+          "displayOffset": 1,
+          "maxFromKey": "colCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "badge": {
+          "maxChars": 18
+        },
+        "kicker": {
+          "maxChars": 18
+        },
+        "title": {
+          "maxChars": 18
+        },
+        "titleEN": {
+          "maxChars": 18
+        },
+        "cols[].label": {
+          "maxChars": 18
+        },
+        "cols[].text": {
+          "maxChars": 42
+        }
+      }
+    },
+    {
+      "layout": "theme09_page021",
+      "theme": "theme09",
+      "pageNumber": 21,
+      "label": "04 产业链分层",
+      "slot": "chain",
+      "roles": [
+        "relationship"
+      ],
+      "copyKeys": [
+        "tiers[].tier",
+        "tiers[].name",
+        "tiers[].en",
+        "tiers[].desc",
+        "tiers[].companies[]",
+        "tiers[].spine"
+      ],
+      "arrayKeys": [
+        "tiers",
+        "geo"
+      ],
+      "arrayMeta": [
+        {
+          "key": "tiers",
+          "role": "misc",
+          "defaultVisibleCount": 3,
+          "maxCount": 3,
+          "countKey": null
+        },
+        {
+          "key": "tiers[].companies",
+          "role": "misc",
+          "defaultVisibleCount": 4,
+          "countKey": null
+        },
+        {
+          "key": "geo",
+          "role": "misc",
+          "defaultVisibleCount": 5,
+          "maxCount": 5,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "layers",
+          "publicKey": "layers",
+          "label": "层级数量",
+          "type": "range",
+          "default": 3,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "key": "perLayer",
+          "publicKey": "perLayer",
+          "label": "每层数量",
+          "type": "range",
+          "default": 4,
+          "min": 1,
+          "max": 5
+        },
+        {
+          "key": "showGeo",
+          "publicKey": "showGeo",
+          "label": "分布面板",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "callout",
+          "publicKey": "callout",
+          "label": "解读卡",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 1,
+          "min": 0,
+          "max": 2,
+          "displayOffset": 1,
+          "maxFromKey": "layers",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "tiers[].tier": {
+          "maxChars": 18
+        },
+        "tiers[].name": {
+          "maxChars": 18
+        },
+        "tiers[].en": {
+          "maxChars": 18
+        },
+        "tiers[].desc": {
+          "maxChars": 36
+        },
+        "tiers[].companies[]": {
+          "maxChars": 18
+        },
+        "tiers[].spine": {
+          "maxChars": 36
+        }
+      }
+    },
+    {
+      "layout": "theme09_page093",
+      "theme": "theme09",
+      "pageNumber": 93,
+      "label": "阶梯递进",
+      "slot": "stair",
+      "roles": [],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "steps[].label",
+        "steps[].value",
+        "steps[].sub"
+      ],
+      "arrayKeys": [
+        "steps"
+      ],
+      "arrayMeta": [
+        {
+          "key": "steps",
+          "role": "step",
+          "defaultVisibleCount": 5,
+          "maxCount": 6,
+          "countKey": "stepCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "stepCount",
+          "publicKey": "stepCount",
+          "label": "数量",
+          "type": "range",
+          "default": 5,
+          "min": 3,
+          "max": 6
+        },
+        {
+          "key": "direction",
+          "publicKey": "direction",
+          "label": "排序",
+          "type": "select",
+          "default": "升序"
+        },
+        {
+          "key": "showRidge",
+          "publicKey": "showRidge",
+          "label": "装饰线",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showValue",
+          "publicKey": "showValueLabels",
+          "label": "阶面数值",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 4,
+          "min": 0,
+          "max": 4,
+          "displayOffset": 1,
+          "maxFromKey": "stepCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 20
+        },
+        "steps[].label": {
+          "maxChars": 18
+        },
+        "steps[].value": {
+          "maxChars": 9
+        },
+        "steps[].sub": {
+          "maxChars": 36
+        }
+      }
+    },
+    {
+      "layout": "theme09_page008",
+      "theme": "theme09",
+      "pageNumber": 8,
+      "label": "报告摘要",
+      "slot": "overview",
+      "roles": [
+        "report",
+        "statement"
+      ],
+      "copyKeys": [
+        "heading",
+        "subEN",
+        "pill",
+        "summary",
+        "bars[].label",
+        "bars[].pct"
+      ],
+      "arrayKeys": [
+        "bars",
+        "stats",
+        "tags"
+      ],
+      "arrayMeta": [
+        {
+          "key": "bars",
+          "role": "distribution",
+          "defaultVisibleCount": 4,
+          "maxCount": 4,
+          "countKey": null
+        },
+        {
+          "key": "stats",
+          "role": "metric",
+          "defaultVisibleCount": 4,
+          "maxCount": 4,
+          "countKey": "statCount"
+        },
+        {
+          "key": "tags",
+          "role": "misc",
+          "defaultVisibleCount": 5,
+          "maxCount": 5,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "statCount",
+          "publicKey": "statCount",
+          "label": "数量",
+          "type": "range",
+          "default": 4,
+          "min": 2,
+          "max": 4
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "number"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 3,
+          "displayOffset": 1,
+          "maxFromKey": "statCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "heading": {
+          "maxChars": 18
+        },
+        "subEN": {
+          "maxChars": 18
+        },
+        "pill": {
+          "maxChars": 18
+        },
+        "summary": {
+          "maxChars": 80
+        },
+        "bars[].label": {
+          "maxChars": 18
+        },
+        "bars[].pct": {
+          "maxChars": 9
+        }
+      }
+    },
+    {
+      "layout": "theme09_page105",
+      "theme": "theme09",
+      "pageNumber": 105,
+      "label": "14 关键问答",
+      "slot": "faq",
+      "roles": [
+        "risks"
+      ],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "intro",
+        "items[].q",
+        "items[].a"
+      ],
+      "arrayKeys": [
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 4,
+          "maxCount": 6,
+          "countKey": "itemCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 4,
+          "min": 3,
+          "max": 6
+        },
+        {
+          "key": "columns",
+          "publicKey": "columns",
+          "label": "每行数量",
+          "type": "range",
+          "default": 2,
+          "min": 1,
+          "max": 2
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 3,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "intro": {
+          "maxChars": 60
+        },
+        "items[].q": {
+          "maxChars": 18
+        },
+        "items[].a": {
+          "maxChars": 42
+        }
+      }
+    },
+    {
+      "layout": "theme09_page004",
+      "theme": "theme09",
+      "pageNumber": 4,
+      "label": "封面E 光带",
+      "slot": "coverstrata",
+      "roles": [
+        "cover"
+      ],
+      "copyKeys": [
+        "kicker",
+        "year",
+        "titleLines[]",
+        "bands[].no",
+        "bands[].t",
+        "footnote"
+      ],
+      "arrayKeys": [
+        "titleLines",
+        "bands"
+      ],
+      "arrayMeta": [
+        {
+          "key": "titleLines",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        },
+        {
+          "key": "bands",
+          "role": "misc",
+          "defaultVisibleCount": 5,
+          "maxCount": 6,
+          "countKey": "bandCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "bandCount",
+          "publicKey": "bandCount",
+          "label": "层带数量",
+          "type": "range",
+          "default": 5,
+          "min": 3,
+          "max": 6
+        },
+        {
+          "key": "showLabels",
+          "publicKey": "showLabels",
+          "label": "篇章刻度",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showChip",
+          "publicKey": "showChip",
+          "label": "质感方块",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 2,
+          "min": 0,
+          "max": 4,
+          "displayOffset": 1,
+          "maxFromKey": "bandCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "kicker": {
+          "maxChars": 33
+        },
+        "year": {
+          "maxChars": 18
+        },
+        "titleLines[]": {
+          "maxChars": 18
+        },
+        "bands[].no": {
+          "maxChars": 18
+        },
+        "bands[].t": {
+          "maxChars": 18
+        },
+        "footnote": {
+          "maxChars": 44
+        }
+      }
+    },
+    {
+      "layout": "theme09_page022",
+      "theme": "theme09",
+      "pageNumber": 22,
+      "label": "05 典型案例",
+      "slot": "cases",
+      "roles": [
+        "case",
+        "image"
+      ],
+      "copyKeys": [
+        "cases[].cn",
+        "cases[].en",
+        "cases[].val",
+        "cases[].fund",
+        "cases[].meta",
+        "cases[].tags[]"
+      ],
+      "arrayKeys": [
+        "cases"
+      ],
+      "arrayMeta": [
+        {
+          "key": "cases",
+          "role": "misc",
+          "defaultVisibleCount": 3,
+          "maxCount": 3,
+          "countKey": "caseCount"
+        },
+        {
+          "key": "cases[].tags",
+          "role": "misc",
+          "defaultVisibleCount": 3,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "imgCount",
+          "publicCountKey": "imgCount",
+          "defaultVisibleCount": 3,
+          "max": 4,
+          "maxCount": 4,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "caseCount",
+          "publicKey": "caseCount",
+          "label": "数量",
+          "type": "range",
+          "default": 3,
+          "min": 1,
+          "max": 3
+        },
+        {
+          "key": "imgCount",
+          "publicKey": "imgCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 3,
+          "min": 0,
+          "max": 4
+        },
+        {
+          "key": "quote",
+          "publicKey": "quote",
+          "label": "引用",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 2,
+          "displayOffset": 1,
+          "maxFromKey": "caseCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "cases[].cn": {
+          "maxChars": 18
+        },
+        "cases[].en": {
+          "maxChars": 18
+        },
+        "cases[].val": {
+          "maxChars": 9
+        },
+        "cases[].fund": {
+          "maxChars": 9
+        },
+        "cases[].meta": {
+          "maxChars": 18
+        },
+        "cases[].tags[]": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page078",
+      "theme": "theme09",
+      "pageNumber": 78,
+      "label": "投资日历",
+      "slot": "calendar",
+      "roles": [
+        "closing"
+      ],
+      "copyKeys": [
+        "monthWeight[]",
+        "year",
+        "head.no",
+        "head.en",
+        "head.cn",
+        "chartCaption"
+      ],
+      "arrayKeys": [
+        "monthWeight"
+      ],
+      "arrayMeta": [
+        {
+          "key": "monthWeight",
+          "role": "misc",
+          "defaultVisibleCount": 12,
+          "maxCount": 12,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "seed",
+          "publicKey": "seed",
+          "label": "分布种子",
+          "type": "range",
+          "default": 7,
+          "min": 1,
+          "max": 40
+        },
+        {
+          "key": "showMonths",
+          "publicKey": "showMonths",
+          "label": "月名标注",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showLegend",
+          "publicKey": "showLegend",
+          "label": "色阶图例",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 2,
+          "min": 0,
+          "max": 11,
+          "displayOffset": 1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "monthWeight[]": {
+          "maxChars": 18
+        },
+        "year": {
+          "maxChars": 18
+        },
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 22
+        },
+        "head.cn": {
+          "maxChars": 22
+        },
+        "chartCaption": {
+          "maxChars": 20
+        }
+      }
+    },
+    {
+      "layout": "theme09_page013",
+      "theme": "theme09",
+      "pageNumber": 13,
+      "label": "季度资金之流",
+      "slot": "stream",
+      "roles": [
+        "trend"
+      ],
+      "copyKeys": [
+        "periods[]",
+        "head.no",
+        "head.en",
+        "head.cn",
+        "series[].label",
+        "series[].sub"
+      ],
+      "arrayKeys": [
+        "periods",
+        "series"
+      ],
+      "arrayMeta": [
+        {
+          "key": "periods",
+          "role": "misc",
+          "defaultVisibleCount": 8,
+          "maxCount": 8,
+          "countKey": null
+        },
+        {
+          "key": "series",
+          "role": "misc",
+          "defaultVisibleCount": 5,
+          "maxCount": 5,
+          "countKey": "seriesCount"
+        },
+        {
+          "key": "series[].vals",
+          "role": "misc",
+          "defaultVisibleCount": 8,
+          "maxCount": 8,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "seriesCount",
+          "publicKey": "seriesCount",
+          "label": "数量",
+          "type": "range",
+          "default": 5,
+          "min": 2,
+          "max": 5
+        },
+        {
+          "key": "offset",
+          "publicKey": "offset",
+          "label": "图表类型",
+          "type": "select",
+          "default": "居中"
+        },
+        {
+          "key": "showLegend",
+          "publicKey": "showLegend",
+          "label": "图例",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 4,
+          "displayOffset": 1,
+          "maxFromKey": "seriesCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "periods[]": {
+          "maxChars": 18
+        },
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "series[].label": {
+          "maxChars": 18
+        },
+        "series[].sub": {
+          "maxChars": 36
+        }
+      }
+    },
+    {
+      "layout": "theme09_page108",
+      "theme": "theme09",
+      "pageNumber": 108,
+      "label": "圆窗影像",
+      "slot": "ring",
+      "roles": [
+        "image"
+      ],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "items[].label",
+        "items[].sub"
+      ],
+      "arrayKeys": [
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 5,
+          "maxCount": 5,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "imgCount",
+          "publicCountKey": "imgCount",
+          "defaultVisibleCount": 4,
+          "max": 5,
+          "maxCount": 5,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "imgCount",
+          "publicKey": "imgCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 4,
+          "min": 1,
+          "max": 5
+        },
+        {
+          "key": "arc",
+          "publicKey": "arc",
+          "label": "弧形排列",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 3,
+          "displayOffset": 1,
+          "maxFromKey": "imgCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "items[].label": {
+          "maxChars": 18
+        },
+        "items[].sub": {
+          "maxChars": 36
+        }
+      }
+    },
+    {
+      "layout": "theme09_page025",
+      "theme": "theme09",
+      "pageNumber": 25,
+      "label": "图说特写",
+      "slot": "feature",
+      "roles": [
+        "image"
+      ],
+      "copyKeys": [
+        "badge",
+        "kicker",
+        "title",
+        "titleEN",
+        "paragraph",
+        "points[].label"
+      ],
+      "arrayKeys": [
+        "points"
+      ],
+      "arrayMeta": [
+        {
+          "key": "points",
+          "role": "list-item",
+          "defaultVisibleCount": 3,
+          "maxCount": 4,
+          "countKey": "pointCount"
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "imgCount",
+          "publicCountKey": "imgCount",
+          "defaultVisibleCount": 1,
+          "max": 4,
+          "maxCount": 4,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "imgCount",
+          "publicKey": "imgCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 1,
+          "min": 1,
+          "max": 4
+        },
+        {
+          "key": "imgSide",
+          "publicKey": "imgSide",
+          "label": "图片位置",
+          "type": "select",
+          "default": "左"
+        },
+        {
+          "key": "pointCount",
+          "publicKey": "pointCount",
+          "label": "数量",
+          "type": "range",
+          "default": 3,
+          "min": 0,
+          "max": 4
+        },
+        {
+          "key": "showCaption",
+          "publicKey": "showCaption",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 2,
+          "displayOffset": 1,
+          "maxFromKey": "pointCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "badge": {
+          "maxChars": 18
+        },
+        "kicker": {
+          "maxChars": 18
+        },
+        "title": {
+          "maxChars": 18
+        },
+        "titleEN": {
+          "maxChars": 18
+        },
+        "paragraph": {
+          "maxChars": 120
+        },
+        "points[].label": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page017",
+      "theme": "theme09",
+      "pageNumber": 17,
+      "label": "板块联投",
+      "slot": "chord",
+      "roles": [],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "nodes[].label",
+        "nodes[].sub",
+        "links[].i"
+      ],
+      "arrayKeys": [
+        "nodes",
+        "links"
+      ],
+      "arrayMeta": [
+        {
+          "key": "nodes",
+          "role": "misc",
+          "defaultVisibleCount": 6,
+          "maxCount": 6,
+          "countKey": "itemCount"
+        },
+        {
+          "key": "links",
+          "role": "misc",
+          "defaultVisibleCount": 10,
+          "maxCount": 10,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 6,
+          "min": 3,
+          "max": 6
+        },
+        {
+          "key": "showRibbon",
+          "publicKey": "showRibbon",
+          "label": "联投环带",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showValue",
+          "publicKey": "showValueLabels",
+          "label": "强度数值",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 5,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 20
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "nodes[].label": {
+          "maxChars": 18
+        },
+        "nodes[].sub": {
+          "maxChars": 36
+        },
+        "links[].i": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page006",
+      "theme": "theme09",
+      "pageNumber": 6,
+      "label": "封面G 终端",
+      "slot": "coverterminal",
+      "roles": [],
+      "copyKeys": [
+        "prompt",
+        "year",
+        "titleLines[]",
+        "tickers[].k",
+        "tickers[].v",
+        "tickers[].d"
+      ],
+      "arrayKeys": [
+        "titleLines",
+        "tickers"
+      ],
+      "arrayMeta": [
+        {
+          "key": "titleLines",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        },
+        {
+          "key": "tickers",
+          "role": "misc",
+          "defaultVisibleCount": 5,
+          "maxCount": 6,
+          "countKey": "tickerCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "tickerCount",
+          "publicKey": "tickerCount",
+          "label": "Ticker 数量",
+          "type": "range",
+          "default": 5,
+          "min": 2,
+          "max": 6
+        },
+        {
+          "key": "showGrid",
+          "publicKey": "showGrid",
+          "label": "终端网格",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showCaret",
+          "publicKey": "showCaret",
+          "label": "光标块",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showChip",
+          "publicKey": "showChip",
+          "label": "质感方块",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 4,
+          "displayOffset": 1,
+          "maxFromKey": "tickerCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "prompt": {
+          "maxChars": 31
+        },
+        "year": {
+          "maxChars": 18
+        },
+        "titleLines[]": {
+          "maxChars": 18
+        },
+        "tickers[].k": {
+          "maxChars": 18
+        },
+        "tickers[].v": {
+          "maxChars": 18
+        },
+        "tickers[].d": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page111",
+      "theme": "theme09",
+      "pageNumber": 111,
+      "label": "结语",
+      "slot": "closing",
+      "roles": [
+        "image",
+        "result",
+        "closing"
+      ],
+      "copyKeys": [
+        "brand",
+        "headline",
+        "headlineEN",
+        "statement",
+        "contact[].label",
+        "contact[].value"
+      ],
+      "decorativeKeys": [
+        "signature"
+      ],
+      "arrayKeys": [
+        "contact",
+        "sources"
+      ],
+      "arrayMeta": [
+        {
+          "key": "contact",
+          "role": "misc",
+          "defaultVisibleCount": 2,
+          "maxCount": 2,
+          "countKey": null
+        },
+        {
+          "key": "sources",
+          "role": "misc",
+          "defaultVisibleCount": 3,
+          "maxCount": 3,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "imgCount",
+          "publicCountKey": "imgCount",
+          "defaultVisibleCount": 0,
+          "max": 4,
+          "maxCount": 4,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "imgCount",
+          "publicKey": "imgCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 4
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "附属面板",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showOrnament",
+          "publicKey": "showOrnament",
+          "label": "装饰图形",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "brand": {
+          "maxChars": 18
+        },
+        "headline": {
+          "maxChars": 18
+        },
+        "headlineEN": {
+          "maxChars": 18
+        },
+        "statement": {
+          "maxChars": 36
+        },
+        "contact[].label": {
+          "maxChars": 18
+        },
+        "contact[].value": {
+          "maxChars": 10
+        }
+      }
+    },
+    {
+      "layout": "theme09_page054",
+      "theme": "theme09",
+      "pageNumber": 54,
+      "label": "批注精读",
+      "slot": "annotated",
+      "roles": [],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "aside.tag",
+        "aside.note",
+        "segments[].text"
+      ],
+      "arrayKeys": [
+        "segments",
+        "notes"
+      ],
+      "arrayMeta": [
+        {
+          "key": "segments",
+          "role": "list-item",
+          "defaultVisibleCount": 7,
+          "maxCount": 7,
+          "countKey": null
+        },
+        {
+          "key": "notes",
+          "role": "misc",
+          "defaultVisibleCount": 3,
+          "maxCount": 4,
+          "countKey": "noteCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "noteCount",
+          "publicKey": "noteCount",
+          "label": "数量",
+          "type": "range",
+          "default": 3,
+          "min": 2,
+          "max": 4
+        },
+        {
+          "key": "showConnector",
+          "publicKey": "showConnector",
+          "label": "装饰元素",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "题注条",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 2,
+          "displayOffset": 1,
+          "maxFromKey": "noteCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "aside.tag": {
+          "maxChars": 18
+        },
+        "aside.note": {
+          "maxChars": 36
+        },
+        "segments[].text": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page102",
+      "theme": "theme09",
+      "pageNumber": 102,
+      "label": "11 核心要点",
+      "slot": "takeaway",
+      "roles": [
+        "observation"
+      ],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "lead.tag",
+        "lead.text",
+        "items[].title"
+      ],
+      "arrayKeys": [
+        "items"
+      ],
+      "arrayMeta": [
+        {
+          "key": "items",
+          "role": "list-item",
+          "defaultVisibleCount": 5,
+          "maxCount": 6,
+          "countKey": "itemCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "itemCount",
+          "publicKey": "itemCount",
+          "label": "数量",
+          "type": "range",
+          "default": 5,
+          "min": 3,
+          "max": 6
+        },
+        {
+          "key": "showAside",
+          "publicKey": "showAside",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 1,
+          "min": 0,
+          "max": 4,
+          "displayOffset": 1,
+          "maxFromKey": "itemCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "lead.tag": {
+          "maxChars": 18
+        },
+        "lead.text": {
+          "maxChars": 42
+        },
+        "items[].title": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page042",
+      "theme": "theme09",
+      "pageNumber": 42,
+      "label": "标语字阵",
+      "slot": "typeriver",
+      "roles": [],
+      "copyKeys": [
+        "lead.tag",
+        "lead.text",
+        "words[].text",
+        "words[].en"
+      ],
+      "arrayKeys": [
+        "words"
+      ],
+      "arrayMeta": [
+        {
+          "key": "words",
+          "role": "misc",
+          "defaultVisibleCount": 5,
+          "maxCount": 6,
+          "countKey": "wordCount"
+        }
+      ],
+      "mediaSlots": [],
+      "controls": [
+        {
+          "key": "wordCount",
+          "publicKey": "wordCount",
+          "label": "数量",
+          "type": "range",
+          "default": 5,
+          "min": 3,
+          "max": 6
+        },
+        {
+          "key": "align",
+          "publicKey": "align",
+          "label": "对齐",
+          "type": "select",
+          "default": "居左"
+        },
+        {
+          "key": "showAxis",
+          "publicKey": "showAxis",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showLead",
+          "publicKey": "showLead",
+          "label": "导语小标",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 1,
+          "min": 0,
+          "max": 4,
+          "displayOffset": 1,
+          "maxFromKey": "wordCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "lead.tag": {
+          "maxChars": 18
+        },
+        "lead.text": {
+          "maxChars": 36
+        },
+        "words[].text": {
+          "maxChars": 18
+        },
+        "words[].en": {
+          "maxChars": 18
+        }
+      }
+    },
+    {
+      "layout": "theme09_page060",
+      "theme": "theme09",
+      "pageNumber": 60,
+      "label": "双联对照",
+      "slot": "diptych",
+      "roles": [
+        "image"
+      ],
+      "copyKeys": [
+        "head.no",
+        "head.en",
+        "head.cn",
+        "panels[].title",
+        "panels[].sub",
+        "panels[].caption"
+      ],
+      "arrayKeys": [
+        "panels"
+      ],
+      "arrayMeta": [
+        {
+          "key": "panels",
+          "role": "distribution",
+          "defaultVisibleCount": 3,
+          "maxCount": 3,
+          "countKey": null
+        }
+      ],
+      "mediaSlots": [
+        {
+          "role": "media",
+          "field": "images",
+          "fieldPath": "props.images",
+          "writableProp": "props.images",
+          "countKey": "panelCount",
+          "publicCountKey": "panelCount",
+          "defaultVisibleCount": 2,
+          "max": 3,
+          "maxCount": 3,
+          "acceptedKinds": [
+            "image",
+            "video"
+          ],
+          "acceptedKindsSource": "mediaArrayField",
+          "initialSrcSupported": true,
+          "canPresetMedia": true,
+          "presetProp": "props.images",
+          "emptySlotBehavior": "hiddenByCount"
+        }
+      ],
+      "controls": [
+        {
+          "key": "panelCount",
+          "publicKey": "panelCount",
+          "label": "图片槽数量",
+          "type": "range",
+          "default": 2,
+          "min": 2,
+          "max": 3
+        },
+        {
+          "key": "pivot",
+          "publicKey": "pivot",
+          "label": "中缝枢标",
+          "type": "select",
+          "default": "对照"
+        },
+        {
+          "key": "showSeam",
+          "publicKey": "showSeam",
+          "label": "中缝枢标显隐",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "showCaption",
+          "publicKey": "showCaption",
+          "label": "装饰文案",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "labelType",
+          "publicKey": "labelType",
+          "label": "标签类型",
+          "type": "select",
+          "default": "数字"
+        },
+        {
+          "key": "focus",
+          "publicKey": "focus",
+          "label": "重点信息 Focus",
+          "type": "toggle",
+          "default": true
+        },
+        {
+          "key": "focusIndex",
+          "publicKey": "focusIndex",
+          "label": "焦点序号",
+          "type": "range",
+          "default": 0,
+          "min": 0,
+          "max": 1,
+          "displayOffset": 1,
+          "maxFromKey": "panelCount",
+          "maxFromKeyOffset": -1
+        }
+      ],
+      "themeDisplayName": "深蓝杂志风",
+      "copyBudgets": {
+        "head.no": {
+          "maxChars": 18
+        },
+        "head.en": {
+          "maxChars": 18
+        },
+        "head.cn": {
+          "maxChars": 18
+        },
+        "panels[].title": {
+          "maxChars": 18
+        },
+        "panels[].sub": {
+          "maxChars": 36
+        },
+        "panels[].caption": {
+          "maxChars": 42
+        }
+      }
+    }
+  ]
+}
