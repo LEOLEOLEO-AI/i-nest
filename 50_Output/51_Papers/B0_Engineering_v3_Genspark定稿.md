@@ -374,7 +374,7 @@ spatiotemporal complexity intelligence emergence self-organized criticality SNN 
 我先说一个贯穿全局的判断：你现在最大的风险不是"想法不够",而是"四份材料里有大量重叠、术语不统一、且与三个最危险的在先技术(NVIDIA SHARP在网归约、光/电可重构互连、FFT蝶形硬件)正面相撞"。 布局的首要任务是切割权利要求边界、统一术语、并把最易被卡位的根专利先打出去。
 
 一、四份材料的定位诊断
-你上传的材料实际上分属三个抽象层级，但目前命名和术语互相打架(TCC既叫"网络中心"又叫"拓扑中心",原语集既叫LTC-11又叫TCC-11,既有FUSE/PULL/CAST又有SWAP/GEMM,稀疏扩展又引入PRUNE/PACK)。这种不一致在专利审查和论文评审中都是硬伤。
+你上传的材料实际上分属三个抽象层级，但目前命名和术语互相打架(TCC既叫"网络中心"又叫"拓扑中心",原语集既叫LTC-11又叫TCC-16,既有FUSE/PULL/CAST又有SWAP/GEMM,稀疏扩展又引入PRUNE/PACK)。这种不一致在专利审查和论文评审中都是硬伤。
 
 材料	真实层级	核心资产	主要风险
 液态拓扑实时生成式结构计算(专利申请稿)	L1 机制层	Route≡Transform定理 + 11原语 + 拓扑融合	与FFT蝶形、SHARP在网归约、脉动阵列均有在先技术

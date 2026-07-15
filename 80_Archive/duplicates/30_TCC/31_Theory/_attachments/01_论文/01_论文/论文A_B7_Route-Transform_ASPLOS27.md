@@ -20,7 +20,7 @@
 
 ## Abstract（草稿）
 
-We present a unified algebraic framework that proves communication primitives (AllReduce, AllGather, Broadcast, AlltoAll) and computation primitives (GEMM, Reduce, Map, Scan) are structurally isomorphic operations on a reconfigurable interconnect topology. We formalize this as the Route≡Transform theorem: for any distributed computation expressible as a sequence of communication and computation steps, there exists an equivalent sequence of topology reconfigurations on a single reconfigurable datapath that produces identical results. We define TCC-11, a minimal complete primitive set of 11 orthogonal operations, and prove its completeness (any Turing-computable distributed function is expressible) and minimality (removing any primitive causes at least one target workload to degrade by Ω(N)). We demonstrate three corollaries with profound hardware implications: (1) an N-point FFT is exactly k=log₂N topology reconfigurations of a butterfly pattern, requiring zero dedicated FFT hardware; (2) Mixture-of-Experts token dispatch is a single AlltoAll, topologically equivalent to a distributed matrix transpose; (3) CFAR sliding-window detection is a prefix scan, equivalent to a linear-chain topology with stateful forwarding. We validate these results on a 4-node FPGA prototype (Xilinx VCK190), demonstrating 1024-point FFT in 800 ns via topology reconfiguration, Gemma-4 E2B inference at 5.2 tokens/s, and ≤1 μs cross-scene switching between LLM inference, video detection, and radar DBF.
+We present a unified algebraic framework that proves communication primitives (AllReduce, AllGather, Broadcast, AlltoAll) and computation primitives (GEMM, Reduce, Map, Scan) are structurally isomorphic operations on a reconfigurable interconnect topology. We formalize this as the Route≡Transform theorem: for any distributed computation expressible as a sequence of communication and computation steps, there exists an equivalent sequence of topology reconfigurations on a single reconfigurable datapath that produces identical results. We define TCC-16, a minimal complete primitive set of 11 orthogonal operations, and prove its completeness (any Turing-computable distributed function is expressible) and minimality (removing any primitive causes at least one target workload to degrade by Ω(N)). We demonstrate three corollaries with profound hardware implications: (1) an N-point FFT is exactly k=log₂N topology reconfigurations of a butterfly pattern, requiring zero dedicated FFT hardware; (2) Mixture-of-Experts token dispatch is a single AlltoAll, topologically equivalent to a distributed matrix transpose; (3) CFAR sliding-window detection is a prefix scan, equivalent to a linear-chain topology with stateful forwarding. We validate these results on a 4-node FPGA prototype (Xilinx VCK190), demonstrating 1024-point FFT in 800 ns via topology reconfiguration, Gemma-4 E2B inference at 5.2 tokens/s, and ≤1 μs cross-scene switching between LLM inference, video detection, and radar DBF.
 
 ---
 
@@ -31,7 +31,7 @@ We present a unified algebraic framework that proves communication primitives (A
 | §1 Introduction | Horowitz能耗数据；通信-计算二元分离历史；核心thesis | 1.5页 | T1-5 | ⬜ |
 | §2 Background | Horowitz Energy Wall；SHARP/Cerebras/Active Networks对比；缺失的统一 | 1.5页 | T1-5 | ⬜ |
 | §3 Theory | **核心**：4定理体系（分解/同构/完备/最小性） | 3页 | **T1-1~4** | 🔴进行中 |
-| §4 TCC-11 Spec | 11原语形式化语义、接口、复杂度（表格形式） | 1.5页 | T1-2 | 🟡待 |
+| §4 TCC-16 Spec | 11原语形式化语义、接口、复杂度（表格形式） | 1.5页 | T1-2 | 🟡待 |
 | §5 Hardware | VCK190平台、11 IP核资源占用、SDI控制器实现 | 2页 | T2-8 | ⬜待硬件 |
 | §6 Evaluation | FFT 800ns、Gemma-4 5.2tok/s、切换<1μs、扩展分析 | 3页 | T2-9 | ⬜待数据 |
 | §7 Related Work | PIM/Dataflow/In-Network/Active Networks分类对比 | 0.5页 | T1-5 | ⬜ |
@@ -167,7 +167,7 @@ TCC液态拓扑每阶段一次LINK重构完成蝶形连接，无需任何专用F
 
 - [ ] 确认ASPLOS'27 Sep cycle的页数限制和格式（通常14页，double-blind）
 - [ ] LaTeX模板：ACM SIGPLAN LaTeX template
-- [ ] 附录：TCC-11完整规范表格（可放Appendix）
+- [ ] 附录：TCC-16完整规范表格（可放Appendix）
 - [ ] 图表预算：预计8-10个图（FFT同构图、三场景原语流图、覆盖矩阵、性能对比图）
 - [ ] arXiv预印本：在P1 CNIPA申请日之后发布
 

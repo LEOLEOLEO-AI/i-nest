@@ -12,7 +12,7 @@ tags:
 
 We present a unified algebraic framework demonstrating that communication primitives (e.g., AllReduce, AllGather) and computation primitives (e.g., GEMM, Reduce) are structurally isomorphic on a reconfigurable interconnect topology. We formalize this as the **Route≡Transform theorem**: for any distributed computation expressible as a sequence of dataflow operations, there exists an equivalent sequence of spatial topology reconfigurations on a single datapath that produces identical results without explicit memory-to-memory data movement. 
 
-Based on this theorem, we define **TCC-11** (Network-Centric Computing 11), a minimal and complete primitive set of 11 orthogonal operations. We mathematically prove its completeness (Turing-computability for distributed functions) and minimality (removing any primitive degrades target workload performance by $\Omega(N)$). We demonstrate three corollaries with profound hardware-software co-design implications: (1) An N-point FFT is structurally isomorphic to $k=\log_2N$ reconfigurations of a butterfly network, eliminating the need for dedicated addressing hardware; (2) Mixture-of-Experts (MoE) token dispatch is a sparse AlltoAll, topologically equivalent to a distributed matrix transpose; (3) CFAR sliding-window detection is a prefix scan, isomorphic to a stateful linear-chain topology. 
+Based on this theorem, we define **TCC-16** (Network-Centric Computing 11), a minimal and complete primitive set of 11 orthogonal operations. We mathematically prove its completeness (Turing-computability for distributed functions) and minimality (removing any primitive degrades target workload performance by $\Omega(N)$). We demonstrate three corollaries with profound hardware-software co-design implications: (1) An N-point FFT is structurally isomorphic to $k=\log_2N$ reconfigurations of a butterfly network, eliminating the need for dedicated addressing hardware; (2) Mixture-of-Experts (MoE) token dispatch is a sparse AlltoAll, topologically equivalent to a distributed matrix transpose; (3) CFAR sliding-window detection is a prefix scan, isomorphic to a stateful linear-chain topology. 
 
 We validate these theoretical results on a 4-node FPGA prototype (Xilinx VCK190) and a cycle-accurate simulator scaled to 1024 nodes. The prototype achieves a 1024-point FFT in 800 ns, Gemma-4 E2B inference at 5.2 tokens/s, and ultra-fast cross-domain switching ($\le 1 \mu s$) between LLM inference and radar DBF. Scalability analysis shows TCC maintains $\ge 99\%$ functional utilization at $N=1024$, overcoming the communication bottlenecks inherent in traditional GPU clusters.
 
@@ -31,7 +31,7 @@ We present the **Route≡Transform** framework: a unified algebraic theory demon
 
 This paper makes four contributions:
 1. **The Route≡Transform Theorem** (§3): Formal proof that routing and computation are algebraically interchangeable on reconfigurable topologies.
-2. **TCC-11 Primitive Set** (§4): A minimal, complete set of 11 orthogonal primitives — 4 communication (FUSE, PULL, CAST, SWAP), 4 computation (GEMM, FOLD, MAPS, SCAN), 1 data movement (MOVE), and 2 control (LINK, TICK) — with proofs of completeness and minimality.
+2. **TCC-16 Primitive Set** (§4): A minimal, complete set of 11 orthogonal primitives — 4 communication (FUSE, PULL, CAST, SWAP), 4 computation (GEMM, FOLD, MAPS, SCAN), 1 data movement (MOVE), and 2 control (LINK, TICK) — with proofs of completeness and minimality.
 3. **Three Isomorphism Corollaries** (§5): FFT-AllReduce, MoE-AlltoAll, and CFAR-SCAN isomorphisms with engineering implications.
 4. **Hardware Validation** (§6): FPGA prototype results demonstrating microsecond-scale topology reconfiguration and the elimination of explicit data movement for isomorphic operations.
 
@@ -121,13 +121,13 @@ Eₘₒₗₑ / Eₜₒₗₒₗₒᵧᵧ ≥ 100×
 
 ---
 
-## §4 The TCC-11 Primitive Set
+## §4 The TCC-16 Primitive Set
 
 ### 4.1 Design Principles
 
-The TCC-11 primitive set is designed to satisfy three criteria:
+The TCC-16 primitive set is designed to satisfy three criteria:
 
-1. **Completeness:** Any distributed computation expressible as a sequence of dataflow operations can be implemented using only TCC-11 primitives.
+1. **Completeness:** Any distributed computation expressible as a sequence of dataflow operations can be implemented using only TCC-16 primitives.
 2. **Minimality:** Removing any primitive degrades the performance of at least one target workload by Ω(N).
 3. **Orthogonality:** No primitive can be implemented as a composition of other primitives without asymptotic performance loss.
 
@@ -149,9 +149,9 @@ The TCC-11 primitive set is designed to satisfy three criteria:
 
 ### 4.3 Completeness Proof (Sketch)
 
-Any MPI-4.0 collective operation can be decomposed into TCC-11 primitives:
+Any MPI-4.0 collective operation can be decomposed into TCC-16 primitives:
 
-| MPI Operation | TCC-11 Decomposition |
+| MPI Operation | TCC-16 Decomposition |
 |--------------|---------------------|
 | MPI_Allreduce | FUSE |
 | MPI_Allgather | PULL |
@@ -233,7 +233,7 @@ The key result is the topology switching latency of ≤ 1 μs, confirming that S
 
 ## §8 Conclusion
 
-We have presented the Route≡Transform framework, establishing that communication and computation primitives are structurally isomorphic under reconfigurable interconnect topologies. The theoretical contributions — the Route≡Transform theorem, the TCC-11 minimal complete primitive set, and three isomorphism corollaries — provide the algebraic foundation for Software-Defined Interconnect (SDI) as a first-class architectural primitive. The FPGA prototype validation demonstrates microsecond-scale topology reconfiguration and the practical elimination of explicit data movement for isomorphic operations.
+We have presented the Route≡Transform framework, establishing that communication and computation primitives are structurally isomorphic under reconfigurable interconnect topologies. The theoretical contributions — the Route≡Transform theorem, the TCC-16 minimal complete primitive set, and three isomorphism corollaries — provide the algebraic foundation for Software-Defined Interconnect (SDI) as a first-class architectural primitive. The FPGA prototype validation demonstrates microsecond-scale topology reconfiguration and the practical elimination of explicit data movement for isomorphic operations.
 
 The long-term implication is a fundamental shift in computing architecture: from optimizing algorithms for fixed hardware topologies, to optimizing hardware topologies for algorithms at runtime. In this paradigm, the distinction between “computation” and “communication” dissolves — routing the topology *is* transforming the data.
 
@@ -258,4 +258,4 @@ The long-term implication is a fundamental shift in computing architecture: from
 
 ---
 
-*Status: Expanded draft — June 5, 2026. Target: ASPLOS 2027 September cycle (deadline: September 9, 2026). Sections 2-8 drafted. Companion paper: B5 (TCC-11 System Implementation).*
+*Status: Expanded draft — June 5, 2026. Target: ASPLOS 2027 September cycle (deadline: September 9, 2026). Sections 2-8 drafted. Companion paper: B5 (TCC-16 System Implementation).*

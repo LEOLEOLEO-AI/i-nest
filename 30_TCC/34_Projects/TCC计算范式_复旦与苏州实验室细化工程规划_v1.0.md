@@ -350,7 +350,7 @@ TCCL零拷贝路径 (0次拷贝):
 | 2026 Q3 | MLIR TCC Dialect 原型设计 | TCC IR表示完成 |
 | 2026 Q4 | StableHLO→TCC lowering pass v0.1 | ResNet正确编译 |
 | 2027 Q1 | 原语融合Pass v0.1 (3种模式) | 融合后原语数减少>30% |
-| 2027 Q2 | TCC-11 Simulator集成 (与天大联调) | 编译器输出可在模拟器运行 |
+| 2027 Q2 | TCC-16 Simulator集成 (与天大联调) | 编译器输出可在模拟器运行 |
 
 #### 4.2 Phase 1 (2027 Q3 - 2029 Q2)
 

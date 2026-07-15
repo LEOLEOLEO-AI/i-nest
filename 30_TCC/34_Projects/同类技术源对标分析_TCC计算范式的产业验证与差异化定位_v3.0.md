@@ -288,7 +288,7 @@ Astera提供的是**互连硬件基础设施**（Retimer/Switch/CXL），而TCC�
 1. **Astera Labs**：SDIO-N协议可基于Scorpio交换机实现原型
 2. **RISC-V生态**：平头哥/赛昉等RISC-V厂商，TCC原语可作为RISC-V加速扩展
 3. **UEC/UALink联盟**：TCC可作为UEC上层协议提案
-4. **国产FPGA**：安路/高云等，TCC-11原语IP核可在国产FPGA上部署
+4. **国产FPGA**：安路/高云等，TCC-16原语IP核可在国产FPGA上部署
 
 ### 10.3 新增论文/专利方向
 

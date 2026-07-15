@@ -44,10 +44,10 @@
 
 ### §2 TCC范式定义：拓扑即计算（~2页）
 
-- TCC-11正交原语集（完备性+最小性证明）
+- TCC-16正交原语集（完备性+最小性证明）
 - Route≡Transform定理（代数同构，不是近似）
 - 回应CNC四条件：
-  - 图灵完备 ✅：TCC-11完备性定理
+  - 图灵完备 ✅：TCC-16完备性定理
   - 通用可编程 ✅：SDI化合键 = 可复用能力安装
   - 行为一致 ✅：SOC临界态κ≈1提供动力学吸引子
   - 机器原生语义 ✅：Route≡Transform，非冯诺依曼的新计算语义
@@ -123,7 +123,7 @@
 ### 背景
 北京大学TileLang（2025年1月开源）已被DeepSeek全面采用，与Triton并行形成编译器层双轨。
 
-### TCC-11作为TileLang第三后端
+### TCC-16作为TileLang第三后端
 
 ```
 DeepSeek模型 → TileLang编译 → TCC后端（新增）→ iNEST硬件
@@ -135,4 +135,4 @@ Route≡Transform提供数学保证：语义等价，无需模型重训。
 这为B3论文提供了**具体的工程落地路径**，不只是理论定位。
 
 ### 可引用的合作切入语言
-> TileLang already provides hardware-independent tile programming with CUDA/ROCm backends. TCC-11 can serve as the third backend via the Route≡Transform theorem—enabling TileLang-compiled DeepSeek models to run on topology-reconfigurable iNEST hardware with mathematical correctness guarantees.
+> TileLang already provides hardware-independent tile programming with CUDA/ROCm backends. TCC-16 can serve as the third backend via the Route≡Transform theorem—enabling TileLang-compiled DeepSeek models to run on topology-reconfigurable iNEST hardware with mathematical correctness guarantees.

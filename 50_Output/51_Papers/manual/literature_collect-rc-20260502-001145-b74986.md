@@ -85,7 +85,7 @@ Structured shape completion recovers missing geometry as primitives rather than 
 
 
 {
-  "topic": "Prior art search for patent: Unified Communication-Computation Primitive Set (AllReduce, AllGather, Broadcast, AlltoAll, GEMM, Scan, Map, Reduce) on Software-Defined Reconfigurable Interconnect Topology \u2014 TCC-11 completeness and minimality, topology-as-computation isomorphism, liquid topology switching under 1 microsecond for AI inference and FFT and radar DBF",
+  "topic": "Prior art search for patent: Unified Communication-Computation Primitive Set (AllReduce, AllGather, Broadcast, AlltoAll, GEMM, Scan, Map, Reduce) on Software-Defined Reconfigurable Interconnect Topology \u2014 TCC-16 completeness and minimality, topology-as-computation isomorphism, liquid topology switching under 1 microsecond for AI inference and FFT and radar DBF",
   "web_results_count": 19,
   "scholar_papers_count": 0,
   "crawled_pages_count": 4,

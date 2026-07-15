@@ -82,7 +82,7 @@ URL: https://petergodfreysmith.com/wp-content/uploads/2013/06/Evolution-of-Commu
 
 
 {
-  "topic": "Route\u2261Transform: Isomorphism between Communication Primitives (AllReduce, AllGather, Broadcast, AlltoAll) and Computation Primitives (GEMM, Reduce, Scan, Map) on Reconfigurable Interconnect for Topology-Centric Computing \u2014 Completeness and Minimality of TCC-11 Primitive Set",
+  "topic": "Route\u2261Transform: Isomorphism between Communication Primitives (AllReduce, AllGather, Broadcast, AlltoAll) and Computation Primitives (GEMM, Reduce, Scan, Map) on Reconfigurable Interconnect for Topology-Centric Computing \u2014 Completeness and Minimality of TCC-16 Primitive Set",
   "web_results_count": 20,
   "scholar_papers_count": 0,
   "crawled_pages_count": 4,

@@ -1,5 +1,5 @@
 ---
-title: 论文B（B5）：TCC-11系统实现与评测
+title: 论文B（B5）：TCC-16系统实现与评测
 tags:
 - chip
 - chiplet
@@ -11,7 +11,7 @@ tags:
 - transformer
 - wafer
 ---
-# Paper B (B5): TCC-11 Minimal Complete Primitive Library for Liquid Hardware
+# Paper B (B5): TCC-16 Minimal Complete Primitive Library for Liquid Hardware
 # 目标：ASPLOS/MICRO 2027 April cycle | 截止：2027年4月15日
 # 状态：📋 框架完成，依赖T2/T3硬件与SDK完成
 
@@ -21,7 +21,7 @@ tags:
 
 | 项目 | 内容 |
 |------|------|
-| **标题** | TCC-11: A Minimal Complete Primitive Library for Liquid Hardware — Design, SDK, and Evaluation across AI, HPC, and Signal Processing |
+| **标题** | TCC-16: A Minimal Complete Primitive Library for Liquid Hardware — Design, SDK, and Evaluation across AI, HPC, and Signal Processing |
 | **目标** | ASPLOS 2027 April cycle，或 MICRO 2027 |
 | **投稿截止** | 2027年4月15日 |
 | **论文类型** | 系统+实验，~14页 |
@@ -32,7 +32,7 @@ tags:
 
 ## Abstract（草稿）
 
-We present TCC-11, a hardware-software co-designed primitive library for network-centric computing that unifies AI inference, high-performance computing, and signal processing on a single reconfigurable substrate. TCC-11 comprises 11 orthogonal primitives — 4 communication (FUSE, PULL, CAST, SWAP), 4 computation (GEMM, FOLD, MAPS, SCAN), 1 data movement (MOVE), and 2 control (LINK, TICK) — implemented as synthesizable RTL IP cores totaling 25,847 lines of SystemVerilog. We co-design an SDK featuring automatic mapping from TCCL, MPI-4.0, BLAS-L3, and FFTW APIs, a graph compiler with topology-aware primitive fusion, and an MLIR-based compilation flow from PyTorch/JAX to TCC hardware. On a 4-node VCK190 FPGA prototype, TCC-11 achieves: (1) Gemma-4 E2B INT4 inference at 5.2 tokens/s with ≤1 μs scene switching; (2) 4×720p YOLOv8-s detection at 24 FPS; (3) 16-channel 1024-point complex FFT + CFAR at 800 ns per pulse; (4) existing PyTorch DDP training scripts running unmodified via TCCL compatibility shim with <5% overhead.
+We present TCC-16, a hardware-software co-designed primitive library for network-centric computing that unifies AI inference, high-performance computing, and signal processing on a single reconfigurable substrate. TCC-16 comprises 11 orthogonal primitives — 4 communication (FUSE, PULL, CAST, SWAP), 4 computation (GEMM, FOLD, MAPS, SCAN), 1 data movement (MOVE), and 2 control (LINK, TICK) — implemented as synthesizable RTL IP cores totaling 25,847 lines of SystemVerilog. We co-design an SDK featuring automatic mapping from TCCL, MPI-4.0, BLAS-L3, and FFTW APIs, a graph compiler with topology-aware primitive fusion, and an MLIR-based compilation flow from PyTorch/JAX to TCC hardware. On a 4-node VCK190 FPGA prototype, TCC-16 achieves: (1) Gemma-4 E2B INT4 inference at 5.2 tokens/s with ≤1 μs scene switching; (2) 4×720p YOLOv8-s detection at 24 FPS; (3) 16-channel 1024-point complex FFT + CFAR at 800 ns per pulse; (4) existing PyTorch DDP training scripts running unmodified via TCCL compatibility shim with <5% overhead.
 
 ---
 
@@ -41,7 +41,7 @@ We present TCC-11, a hardware-software co-designed primitive library for network
 | 章节 | 内容 | 篇幅 | 依赖 | 状态 |
 |------|------|------|------|------|
 | §1 Introduction | 液态硬件概念；跨场景统一的必要性 | 1页 | — | ⬜ |
-| §2 TCC-11 Spec | 形式化规范（引用论文A，精简版）| 1.5页 | 论文A | ⬜ |
+| §2 TCC-16 Spec | 形式化规范（引用论文A，精简版）| 1.5页 | 论文A | ⬜ |
 | §3 Hardware Arch | 11 IP核微架构：GEMM脉动阵列、SCAN前缀树、SDI控制器 | 2.5页 | T2完成 | ⬜ |
 | §4 SDK & Compiler | TCCL/MPI/BLAS/FFTW映射；MLIR Dialect；3个编译pass | 2.5页 | T3-1~4 | ⬜ |
 | §5 Evaluation | 四场景实验数据（LLM/Video/Radar/DDP overhead）| 3页 | T2-9 | ⬜ |
@@ -73,10 +73,10 @@ The convergence of artificial intelligence, high-performance computing, and real
 
 The root cause is the von Neumann architecture''s fundamental assumption: that the physical topology connecting compute units is fixed at design time. This forces all workloads — regardless of their natural communication patterns — to execute on the same rigid interconnect, inevitably creating impedance mismatches between dataflow graphs and physical topology.
 
-We present TCC-11, a hardware-software co-designed primitive library for network-centric computing that unifies AI inference, HPC, and signal processing on a single reconfigurable substrate. TCC-11 is based on the Route≡Transform theoretical framework [2], which establishes that communication and computation primitives are structurally isomorphic under reconfigurable topologies. The key architectural insight is that *topology reconfiguration is a first-class computational primitive*: by reprogramming the physical interconnect to match each workload''s dataflow graph, we eliminate the distinction between routing and computing, collapsing explicit data movement into topology transitions.
+We present TCC-16, a hardware-software co-designed primitive library for network-centric computing that unifies AI inference, HPC, and signal processing on a single reconfigurable substrate. TCC-16 is based on the Route≡Transform theoretical framework [2], which establishes that communication and computation primitives are structurally isomorphic under reconfigurable topologies. The key architectural insight is that *topology reconfiguration is a first-class computational primitive*: by reprogramming the physical interconnect to match each workload''s dataflow graph, we eliminate the distinction between routing and computing, collapsing explicit data movement into topology transitions.
 
 This paper makes the following contributions:
-- **TCC-11 Primitive Specification** (§2): A formal specification of 11 orthogonal primitives (4 communication, 4 computation, 1 data movement, 2 control) that form a minimal complete set for distributed computing.
+- **TCC-16 Primitive Specification** (§2): A formal specification of 11 orthogonal primitives (4 communication, 4 computation, 1 data movement, 2 control) that form a minimal complete set for distributed computing.
 - **Hardware Architecture** (§3): Micro-architectural designs for key primitives including a configurable GEMM systolic array, a prefix-tree SCAN engine, and the SDI switch fabric controller.
 - **SDK and Compiler** (§4): An MLIR-based compilation flow from PyTorch/JAX to TCC hardware, with automatic primitive mapping from TCCL, MPI-4.0, BLAS Level-3, and FFTW APIs.
 - **Evaluation** (§5): Four-scenario validation on a 4-node VCK190 FPGA prototype: LLM inference, video object detection, radar signal processing, and distributed training compatibility.
@@ -85,19 +85,19 @@ This paper makes the following contributions:
 
 ---
 
-## §2 The TCC-11 Primitive Specification
+## §2 The TCC-16 Primitive Specification
 
 ### 2.1 Design Philosophy
 
-The TCC-11 primitive set was designed to satisfy three constraints simultaneously:
+The TCC-16 primitive set was designed to satisfy three constraints simultaneously:
 
-1. **Completeness**: Any distributed computation expressible as a sequence of dataflow operations must be implementable using only TCC-11 primitives.
+1. **Completeness**: Any distributed computation expressible as a sequence of dataflow operations must be implementable using only TCC-16 primitives.
 2. **Minimality**: Removing any primitive must degrade the performance of at least one target workload by Ω(N), where N is the number of nodes.
 3. **Hardware Efficiency**: Each primitive must be implementable in synthesizable RTL with area ≤ 2.5 mm² at 7nm and power ≤ 5W at target frequency.
 
 ### 2.2 Primitive Taxonomy
 
-TCC-11 comprises 11 primitives organized into four categories:
+TCC-16 comprises 11 primitives organized into four categories:
 
 **Communication Primitives (R-primitives):**
 
@@ -132,9 +132,9 @@ TCC-11 comprises 11 primitives organized into four categories:
 
 ### 2.3 Completeness Proof (Summary)
 
-We prove completeness by demonstrating that every MPI-4.0 collective operation [3] and every Berkeley Dwarf computational pattern [4] maps to a TCC-11 primitive:
+We prove completeness by demonstrating that every MPI-4.0 collective operation [3] and every Berkeley Dwarf computational pattern [4] maps to a TCC-16 primitive:
 
-| MPI-4.0 Operation | TCC-11 Mapping |
+| MPI-4.0 Operation | TCC-16 Mapping |
 |-------------------|----------------|
 | MPI_Allreduce | FUSE |
 | MPI_Allgather | PULL |
@@ -145,7 +145,7 @@ We prove completeness by demonstrating that every MPI-4.0 collective operation [
 | MPI_Scatter | CAST (segmented) |
 | MPI_Barrier | TICK |
 
-| Berkeley Dwarf | TCC-11 Mapping |
+| Berkeley Dwarf | TCC-16 Mapping |
 |----------------|----------------|
 | Dense Linear Algebra | GEMM |
 | Sparse Linear Algebra | GEMM (sparse mode) |
@@ -177,14 +177,14 @@ We argue minimality by exhibiting, for each primitive P, a workload where removi
 
 ### 3.1 System Overview
 
-The TCC-11 hardware architecture is organized as a tiled array of compute nodes interconnected by a reconfigurable SDI switch fabric. Each node contains:
+The TCC-16 hardware architecture is organized as a tiled array of compute nodes interconnected by a reconfigurable SDI switch fabric. Each node contains:
 
 1. **GEMM Engine**: A 32×32 systolic array for matrix multiplication (INT8/FP16/FP32)
 2. **FOLD/SCAN Engine**: A configurable prefix tree for reduction and scan operations
 3. **MAPS Unit**: 64 SIMD lanes for element-wise operations
 4. **Local SRAM**: 512 KB (configurable to 2 MB) for weight and activation storage
 5. **SDI Interface**: 4 bidirectional links (112G SerDes × 4 lanes each) connected to the switch fabric
-6. **Control Unit**: Finite state machine executing TCC-11 primitive sequences
+6. **Control Unit**: Finite state machine executing TCC-16 primitive sequences
 
 ### 3.2 GEMM Systolic Array
 
@@ -233,7 +233,7 @@ The SDI switch fabric is the architectural centerpiece, implementing the LINK pr
 
 ### 4.1 Compilation Flow
 
-The TCC-11 SDK implements a multi-level compilation flow from high-level frameworks to TCC hardware:
+The TCC-16 SDK implements a multi-level compilation flow from high-level frameworks to TCC hardware:
 
 `
 PyTorch / JAX / TensorFlow
@@ -277,7 +277,7 @@ To enable drop-in compatibility with existing software ecosystems:
 | API | Shim Strategy | Overhead |
 |-----|---------------|----------|
 | PyTorch DDP | TCCL backend via torch.distributed | <5% (measured) |
-| MPI-4.0 | Subset mapping to TCC-11 primitives | <3% for covered ops |
+| MPI-4.0 | Subset mapping to TCC-16 primitives | <3% for covered ops |
 | BLAS Level-3 | GEMM primitive direct mapping | 0% (native) |
 | FFTW | FUSE primitive (butterfly topology) | 0% (native) |
 
@@ -297,7 +297,7 @@ To enable drop-in compatibility with existing software ecosystems:
 
 ### 5.2 LLM Inference (Gemma-4 E2B)
 
-| Metric | TCC-11 (4×VCK190) | A100 (baseline) | ARM A72 |
+| Metric | TCC-16 (4×VCK190) | A100 (baseline) | ARM A72 |
 |--------|-------------------|-----------------|---------|
 | Throughput | 5.2 tok/s | 45 tok/s | 0.3 tok/s |
 | Power | 55 W | 300 W | 15 W |
@@ -305,11 +305,11 @@ To enable drop-in compatibility with existing software ecosystems:
 | INT4 accuracy | 99.2% (vs FP16) | — | — |
 | Scene switch | ≤1 μs | N/A (fixed) | N/A |
 
-**Analysis:** While absolute throughput is lower than A100, TCC-11 achieves competitive energy efficiency (10.6 vs 6.7 J/tok) at 5.5× lower power. The ≤1 μs scene switching capability — unique to TCC — enables the same silicon to switch between LLM inference and radar signal processing between tokens.
+**Analysis:** While absolute throughput is lower than A100, TCC-16 achieves competitive energy efficiency (10.6 vs 6.7 J/tok) at 5.5× lower power. The ≤1 μs scene switching capability — unique to TCC — enables the same silicon to switch between LLM inference and radar signal processing between tokens.
 
 ### 5.3 Video Object Detection (YOLOv8-s, 4×720p)
 
-| Metric | TCC-11 | A100 |
+| Metric | TCC-16 | A100 |
 |--------|--------|------|
 | Throughput | 24 FPS (4 streams) | 120 FPS |
 | Power | 48 W | 200 W |
@@ -318,7 +318,7 @@ To enable drop-in compatibility with existing software ecosystems:
 
 ### 5.4 Radar Signal Processing
 
-| Metric | TCC-11 | Xilinx FFT IP | TI C6678 DSP |
+| Metric | TCC-16 | Xilinx FFT IP | TI C6678 DSP |
 |--------|--------|--------------|-------------|
 | 1024-pt FFT | 800 ns | 1.2 μs | 15 μs |
 | 16-ch CFAR | 800 ns/pulse | N/A | 45 μs/pulse |
@@ -340,11 +340,11 @@ The <5% overhead across all benchmarks confirms that the TCCL compatibility shim
 
 ## §7 Open-Source Release
 
-TCC-11 is released under the Apache 2.0 license with the following components:
+TCC-16 is released under the Apache 2.0 license with the following components:
 
 | Component | Repository | Language | Lines |
 |-----------|-----------|----------|-------|
-| RTL (TCC-11 IP cores) | github.com/inest/tcc11-rtl | SystemVerilog | 25,847 |
+| RTL (TCC-16 IP cores) | github.com/inest/tcc11-rtl | SystemVerilog | 25,847 |
 | SDK + compiler | github.com/inest/tcc11-sdk | Python + MLIR | 18,200 |
 | TCCL compatibility | github.com/inest/tccl | C++ / CUDA | 12,400 |
 | FPGA bitstreams | github.com/inest/tcc11-fpga | Tcl + XDC | 3,100 |
@@ -360,19 +360,19 @@ TCC-11 is released under the Apache 2.0 license with the following components:
 
 ### 8.1 Related Work
 
-**In-Network Computing.** Mellanox SHARP [5] pioneered in-network reduction for AllReduce, demonstrating 2× bandwidth improvement. However, SHARP is limited to associative reduction operators on fixed Fat-tree topologies. TCC-11 generalizes in-network computing to arbitrary dataflow patterns through programmable topology.
+**In-Network Computing.** Mellanox SHARP [5] pioneered in-network reduction for AllReduce, demonstrating 2× bandwidth improvement. However, SHARP is limited to associative reduction operators on fixed Fat-tree topologies. TCC-16 generalizes in-network computing to arbitrary dataflow patterns through programmable topology.
 
-**Reconfigurable DNN Accelerators.** MAERI [6] and SIGMA [7] introduced reconfigurable interconnects within single-chip DNN accelerators. TCC-11 extends this insight to multi-node distributed systems and adds the formal primitive set that these works lacked.
+**Reconfigurable DNN Accelerators.** MAERI [6] and SIGMA [7] introduced reconfigurable interconnects within single-chip DNN accelerators. TCC-16 extends this insight to multi-node distributed systems and adds the formal primitive set that these works lacked.
 
-**Wafer-Scale Integration.** Cerebras WSE-3 [8] integrates 900,000 cores on a single wafer, eliminating inter-chip communication entirely. TCC-11''s liquid topology provides an alternative path: rather than forcing all computation onto a single wafer with fixed 2D mesh, TCC-11 enables multi-wafer systems with workload-optimized topology.
+**Wafer-Scale Integration.** Cerebras WSE-3 [8] integrates 900,000 cores on a single wafer, eliminating inter-chip communication entirely. TCC-16''s liquid topology provides an alternative path: rather than forcing all computation onto a single wafer with fixed 2D mesh, TCC-16 enables multi-wafer systems with workload-optimized topology.
 
-**Processing-in-Memory.** Samsung HBM-PIM [9] and UPMEM PIM-DRAM accelerate memory-bound operations by placing compute near data. TCC-11 is orthogonal: PIM reduces memory wall impact within a node, while TCC-11 reduces communication wall impact between nodes. Future integration of CIM (Computing-in-Memory) with SDI would realize the full ''compute-store-communicate trinity.''
+**Processing-in-Memory.** Samsung HBM-PIM [9] and UPMEM PIM-DRAM accelerate memory-bound operations by placing compute near data. TCC-16 is orthogonal: PIM reduces memory wall impact within a node, while TCC-16 reduces communication wall impact between nodes. Future integration of CIM (Computing-in-Memory) with SDI would realize the full ''compute-store-communicate trinity.''
 
 ### 8.2 Conclusion
 
-TCC-11 demonstrates that a minimal set of 11 orthogonal primitives — coupled with runtime-reconfigurable interconnect topology — can unify AI inference, HPC, and signal processing on a single hardware substrate. The key architectural contribution is the elevation of topology from a fixed design-time constraint to a first-class runtime primitive (LINK), enabling the Route≡Transform vision where routing the topology is equivalent to transforming the data.
+TCC-16 demonstrates that a minimal set of 11 orthogonal primitives — coupled with runtime-reconfigurable interconnect topology — can unify AI inference, HPC, and signal processing on a single hardware substrate. The key architectural contribution is the elevation of topology from a fixed design-time constraint to a first-class runtime primitive (LINK), enabling the Route≡Transform vision where routing the topology is equivalent to transforming the data.
 
-Three results validate this approach: (1) competitive energy efficiency for LLM inference (10.6 J/tok vs. 6.7 J/tok on A100 at 5.5× lower power), (2) microsecond-scale topology switching enabling cross-domain multiplexing, and (3) <5% overhead for unmodified PyTorch DDP training scripts. The process node relaxation analysis (§6) further demonstrates that TCC-11 reduces advanced manufacturing requirements from 3nm/5nm to 7nm — a critical advantage for domestic semiconductor independence.
+Three results validate this approach: (1) competitive energy efficiency for LLM inference (10.6 J/tok vs. 6.7 J/tok on A100 at 5.5× lower power), (2) microsecond-scale topology switching enabling cross-domain multiplexing, and (3) <5% overhead for unmodified PyTorch DDP training scripts. The process node relaxation analysis (§6) further demonstrates that TCC-16 reduces advanced manufacturing requirements from 3nm/5nm to 7nm — a critical advantage for domestic semiconductor independence.
 
 ---
 
@@ -503,7 +503,7 @@ TCC-WSE（Wafer-Scale Integration for TCC）是将TCC液态拓扑原理实现于
 │               晶圆上层：原语芯粒（Chiplet）阵列             │
 │  ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐                     │
 │  │Type-F│ │Type-C│ │Type-F│ │Type-S│  × 1,000–10,000颗   │
-│  │TCC-11│ │GEMM+ │ │TCC-11│ │SCAN+ │  ← 按场景选颗粒度    │
+│  │TCC-16│ │GEMM+ │ │TCC-16│ │SCAN+ │  ← 按场景选颗粒度    │
 │  │完整版│ │FOLD  │ │完整版│ │MAPS  │                     │
 │  └──┬───┘ └──┬───┘ └──┬───┘ └──┬───┘                     │
 │     │        │        │        │                          │

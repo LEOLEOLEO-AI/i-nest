@@ -14,7 +14,7 @@ tags:
 
 We present a unified algebraic framework demonstrating that communication primitives (e.g., AllReduce, AllGather) and computation primitives (e.g., GEMM, Reduce) are structurally isomorphic on a reconfigurable interconnect topology. We formalize this as the **Route≡Transform theorem**: for any distributed computation expressible as a sequence of dataflow operations, there exists an equivalent sequence of spatial topology reconfigurations on a single datapath that produces identical results without explicit memory-to-memory data movement. 
 
-Based on this theorem, we define **TCC-11** (Network-Centric Computing 11), a minimal and complete primitive set of 11 orthogonal operations. We mathematically prove its completeness (Turing-computability for distributed functions) and minimality (removing any primitive degrades target workload performance by $\Omega(N)$). We demonstrate three corollaries with profound hardware-software co-design implications: (1) An N-point FFT is structurally isomorphic to $k=\log_2N$ reconfigurations of a butterfly network, eliminating the need for dedicated addressing hardware; (2) Mixture-of-Experts (MoE) token dispatch is a sparse AlltoAll, topologically equivalent to a distributed matrix transpose; (3) CFAR sliding-window detection is a prefix scan, isomorphic to a stateful linear-chain topology. 
+Based on this theorem, we define **TCC-16** (Network-Centric Computing 11), a minimal and complete primitive set of 11 orthogonal operations. We mathematically prove its completeness (Turing-computability for distributed functions) and minimality (removing any primitive degrades target workload performance by $\Omega(N)$). We demonstrate three corollaries with profound hardware-software co-design implications: (1) An N-point FFT is structurally isomorphic to $k=\log_2N$ reconfigurations of a butterfly network, eliminating the need for dedicated addressing hardware; (2) Mixture-of-Experts (MoE) token dispatch is a sparse AlltoAll, topologically equivalent to a distributed matrix transpose; (3) CFAR sliding-window detection is a prefix scan, isomorphic to a stateful linear-chain topology. 
 
 We validate these theoretical results on a 4-node FPGA prototype (Xilinx VCK190) and a cycle-accurate simulator scaled to 1024 nodes. The prototype achieves a 1024-point FFT in 800 ns, Gemma-4 E2B inference at 5.2 tokens/s, and ultra-fast cross-domain switching ($\le 1 \mu s$) between LLM inference and radar DBF. Scalability analysis shows TCC maintains $\ge 99\%$ functional utilization at $N=1024$, overcoming the communication bottlenecks inherent in traditional GPU clusters.
 
@@ -26,11 +26,11 @@ The evolution of computer architecture is increasingly constrained by the "Horow
 
 In this paper, we challenge this dichotomy. We propose that at a fundamental algebraic level, routing data through a specific interconnect topology is mathematically isomorphic to performing a dataflow transformation. If the physical interconnect can dynamically mold its topology to match the algorithmic dataflow graph, the network *becomes* the computer. 
 
-We introduce **Route≡Transform**, a unified algebraic theory that collapses the boundary between communication and computation. Under this framework, we abstract all distributed operations into a minimal instruction set architecture: **TCC-11**.
+We introduce **Route≡Transform**, a unified algebraic theory that collapses the boundary between communication and computation. Under this framework, we abstract all distributed operations into a minimal instruction set architecture: **TCC-16**.
 
 **Key Contributions:**
 1.  **The Route≡Transform Framework:** We mathematically prove that operations like FFT, Matrix Transpose, and Prefix Scan can be executed purely via spatial topology reconfigurations, bypassing traditional load/store overheads.
-2.  **The TCC-11 ISA:** We define and prove the *completeness* and *minimality* of 11 orthogonal primitives capable of expressing any distributed workload (Transformer, CNN, MoE, SpMV, GNN, DBF, FFT).
+2.  **The TCC-16 ISA:** We define and prove the *completeness* and *minimality* of 11 orthogonal primitives capable of expressing any distributed workload (Transformer, CNN, MoE, SpMV, GNN, DBF, FFT).
 3.  **The T-Scale Theorem:** We provide a formal bound demonstrating that TCC achieves $O(N)$ throughput scaling with only $O(\log N)$ communication overhead, effectively bypassing Amdahl's Law limits seen in GPU clusters.
 4.  **Hardware Evaluation:** We prototype the TCC architecture on a multi-FPGA cluster (Xilinx VCK190), demonstrating microsecond-level topology switching, 800 ns 1024-point FFTs, and near-linear scalability up to 1024 nodes via simulation.
 
@@ -78,7 +78,7 @@ The MoE token dispatch mechanism is a distributed matrix transpose. The semantic
 Blelloch's parallel prefix scan algorithm (up-sweep/down-sweep) is topologically equivalent to a stateful linear-chain topology executing the SCAN primitive.
 
 ### 3.4 Theorem 3: Completeness
-We prove that the TCC-11 primitive set can express any Turing-computable distributed workload. We map 7 representative workloads to TCC-11:
+We prove that the TCC-16 primitive set can express any Turing-computable distributed workload. We map 7 representative workloads to TCC-16:
 1.  **Transformer (Dense):** LINK, GEMM, FUSE, CAST.
 2.  **CNN:** MAPS, FOLD, PULL.
 3.  **FFT:** LINK, GEMM, FUSE.
@@ -88,7 +88,7 @@ We prove that the TCC-11 primitive set can express any Turing-computable distrib
 7.  **Radar DBF:** LINK, GEMM, SCAN.
 
 ### 3.5 Theorem 4: Minimality (Lower Bounds)
-We prove that TCC-11 is the minimal set. Removing any primitive causes a catastrophic $\Omega(N)$ performance degradation.
+We prove that TCC-16 is the minimal set. Removing any primitive causes a catastrophic $\Omega(N)$ performance degradation.
 **Lemma 4a (SWAP Orthogonality):** Simulating a SWAP (AlltoAll) using the remaining 10 primitives (e.g., FUSE, PULL, MOVE) requires sequential point-to-point exchanges. Total data volume is $O(N^2)$, but maximum single-step bandwidth of non-SWAP primitives is $O(N)$. Thus, step lower bound is $O(N^2)/O(N) = \Omega(N)$.
 **Lemma 4c (MOVE Orthogonality):** Removing MOVE forces sparse point-to-point accesses to be broadcasted globally (CAST) or fully exchanged (SWAP), degrading $O(1)$ memory fetches to $\Omega(N)$.
 
@@ -100,9 +100,9 @@ We prove that TCC-11 is the minimal set. Removing any primitive causes a catastr
 
 ---
 
-## 4. The TCC-11 Specification
+## 4. The TCC-16 Specification
 
-TCC-11 consists of 11 orthogonal primitives divided into Routing (Topology) and Compute (ALU) classes.
+TCC-16 consists of 11 orthogonal primitives divided into Routing (Topology) and Compute (ALU) classes.
 
 | ID | Primitive | Class | Semantic Description | Complexity | Workload Target |
 |----|-----------|-------|----------------------|------------|-----------------|
@@ -161,7 +161,7 @@ As $N$ scales to 1024, the GPU baseline efficiency degrades to $\sim 76\%$ due t
 ---
 
 ## 8. Conclusion
-We proposed the Route≡Transform theory, mathematically proving that communication routing and algorithmic computation are two sides of the same algebraic coin. By defining the TCC-11 primitive set, we demonstrated that complex operations like FFT and MoE routing can be elegantly mapped to spatial topology states. Evaluated on FPGA hardware and scaled via simulation, TCC shatters the communication barriers of GPU clusters, offering a $O(N)$ scalable, energy-efficient paradigm for the post-Moore era.
+We proposed the Route≡Transform theory, mathematically proving that communication routing and algorithmic computation are two sides of the same algebraic coin. By defining the TCC-16 primitive set, we demonstrated that complex operations like FFT and MoE routing can be elegantly mapped to spatial topology states. Evaluated on FPGA hardware and scaled via simulation, TCC shatters the communication barriers of GPU clusters, offering a $O(N)$ scalable, energy-efficient paradigm for the post-Moore era.
 
 ---
 *Figures referenced in text (Fig 1: FFT Isomorphism, Fig 2: T-Scale Evaluation) are provided separately via vector graphics scripts.*

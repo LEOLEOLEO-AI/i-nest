@@ -24,7 +24,7 @@ tags:
   - SDI
   - LiquidHardware
   - StrategicProposal
-  - TCC-11
+  - TCC-16
 last_revised: 2026-06-19
 ---
 
@@ -194,24 +194,24 @@ $$\mathcal{S}[\mathcal{T}] = \int_{0}^{T} \left[ \underbrace{\frac{1}{2}\mu\left
 
 ---
 
-# 第三部分：TCC-11原语体系与三阶段演进战略
+# 第三部分：TCC-16原语体系与三阶段演进战略
 
-## 3.1 TCC-11原语库——从"5+4"到三分类完备体系
+## 3.1 TCC-16原语库——从"5+4"到三分类完备体系
 
-TCC理论经历了从"5+4"（5通信+4算子，V1版）到**TCC-11**（通信4+计算4+流动3，v1.0最终版）的严格理论提炼。演化逻辑如下：
+TCC理论经历了从"5+4"（5通信+4算子，V1版）到**TCC-16**（通信4+计算4+流动3，v1.0最终版）的严格理论提炼。演化逻辑如下：
 
 | 版本 | 体系 | 核心变化 |
 |------|------|---------|
 | V1 (5+4) | 通信原语5 + 计算原语4 = 9个 | ReduceScatter可被FUSE+SWAP组合表达，违反正交最小性 |
-| **TCC-11 v1.0** | **通信4 + 计算4 + 流动3 = 11个** | 剔除ReduceScatter；新增流动原语（MOVE/LINK/TICK）；形成三类完备体系 |
+| **TCC-16 v1.0** | **通信4 + 计算4 + 流动3 = 11个** | 剔除ReduceScatter；新增流动原语（MOVE/LINK/TICK）；形成三类完备体系 |
 
-TCC-11遵循三条设计原则：**代数完备性**（任意分布式计算可在有限步内由原语组合表达）、**正交最小性**（任何一个原语不能被其余原语在O(1)或O(log N)步内等价替代）、**硬件可映射性**（每个原语对应面积≤50K LUT等效门的独立RTL IP核）。
+TCC-16遵循三条设计原则：**代数完备性**（任意分布式计算可在有限步内由原语组合表达）、**正交最小性**（任何一个原语不能被其余原语在O(1)或O(log N)步内等价替代）、**硬件可映射性**（每个原语对应面积≤50K LUT等效门的独立RTL IP核）。
 
 命名规则：统一前缀 `tcc.`，后接四字母可发音英语动词助记符（如FUSE读作/fjuːz/，SCAN读作/skæn/）。
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                     TCC-11 PRIMITIVE LIBRARY v1.0                │
+│                     TCC-16 PRIMITIVE LIBRARY v1.0                │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │  通信原语 (Route, 4个) ─── 定义数据在节点间的流动模式             │
@@ -237,7 +237,7 @@ TCC-11遵循三条设计原则：**代数完备性**（任意分布式计算可�
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-**完备性验证**：TCC-11已通过7个典型场景（LLM推理、视频目标检测、雷达DBF、SpMV、FFT、MoE训练、图神经网络）的逐原语覆盖验证，覆盖率100%。关键发现：**MAPS和LINK是唯二在所有场景中都出现的原语**——"逐元素映射"和"拓扑控制"是TCC范式的两大绝对核心。
+**完备性验证**：TCC-16已通过7个典型场景（LLM推理、视频目标检测、雷达DBF、SpMV、FFT、MoE训练、图神经网络）的逐原语覆盖验证，覆盖率100%。关键发现：**MAPS和LINK是唯二在所有场景中都出现的原语**——"逐元素映射"和"拓扑控制"是TCC范式的两大绝对核心。
 
 ## 3.2 从FPGA原型到SDSoW的完整演进链
 
@@ -249,7 +249,7 @@ Phase 1 (本项目, 2026-2029): FPGA原型验证 —— 证明范式可行
   └── TRL-5（系统级原型验证）
 
 Phase 2 (2029-2031): ASIC产品化 —— 端侧双模芯片
-  ├── 基于验证IP的28nm/12nm ASIC流片（扩展至TCC-11全集）
+  ├── 基于验证IP的28nm/12nm ASIC流片（扩展至TCC-16全集）
   ├── TCC-Edge-ASIC产品原型（RT-Infer-30边缘推理卡）
   ├── 孵化公司独立运营
   └── TRL-7（工程样机）
@@ -268,7 +268,7 @@ Phase 3 (2031-2035): SDSoW晶圆级 —— 大规模液态计算
 | 决策 | 选择 | 理由 |
 |------|------|------|
 | 验证载体 | FPGA（非ASIC流片） | 规避流片风险；FPGA天然可重构＝"液态硬件"最佳物理载体 |
-| 原语数量 | 4个（非TCC-11全集） | FUSE/GEMM/MAPS/LINK是Route-Transform同构的最小完备验证集 |
+| 原语数量 | 4个（非TCC-16全集） | FUSE/GEMM/MAPS/LINK是Route-Transform同构的最小完备验证集 |
 | 工艺节点 | FPGA（等效16nm）+ 可选28nm流片 | 28nm成熟可靠、成本可控，作为ASIC可行性预研 |
 | 场景数量 | 2主+1扩 | AI推理和DBF是拓扑差异最大的应用对 |
 | 标准策略 | L1/L2兼容UCIe + L3/L4颠覆创新 | 降低物理层风险，集中创新于协议/语义层 |
@@ -280,7 +280,7 @@ Phase 3 (2031-2035): SDSoW晶圆级 —— 大规模液态计算
 
 ## 4.1 架构设计哲学
 
-TCC-11原语库定义了三类原语。Phase 1的FPGA原型聚焦于验证原语的最小完备子集——恰好是"3个数据原语 + 1个控制原语"：
+TCC-16原语库定义了三类原语。Phase 1的FPGA原型聚焦于验证原语的最小完备子集——恰好是"3个数据原语 + 1个控制原语"：
 
 - **tcc.FUSE**：通信原语。蝴蝶网归约/变换引擎，是Route-Transform同构的物理证明载体
 - **tcc.GEMM**：计算原语。脉动阵列矩阵乘，是AI推理和DBF波束成形的共享算力源
@@ -336,7 +336,7 @@ TCC-11原语库定义了三类原语。Phase 1的FPGA原型聚焦于验证原语
 
 ### IP-3: tcc.MAPS — 逐元素映射引擎
 
-**定位**：执行所有逐元素操作——FFT旋转因子乘法、神经网络激活函数、归一化、阈值过滤。在TCC-11完备性验证中，MAPS是唯二在所有7个场景中都出现的原语之一。
+**定位**：执行所有逐元素操作——FFT旋转因子乘法、神经网络激活函数、归一化、阈值过滤。在TCC-16完备性验证中，MAPS是唯二在所有7个场景中都出现的原语之一。
 
 **关键指标**：
 - 16路SIMD并行：256b/周期
@@ -346,7 +346,7 @@ TCC-11原语库定义了三类原语。Phase 1的FPGA原型聚焦于验证原语
 
 ### IP-4: tcc.LINK — 拓扑重构控制器
 
-**定位**：液态硬件的"神经中枢"，TCC-Link标准的硬件实现载体。LINK是TCC-11流动原语的核心——管理拓扑的配置、切换和监控，使物理网络从静态连线变为可编程资源。
+**定位**：液态硬件的"神经中枢"，TCC-Link标准的硬件实现载体。LINK是TCC-16流动原语的核心——管理拓扑的配置、切换和监控，使物理网络从静态连线变为可编程资源。
 
 **关键指标**：
 - 拓扑热切换延迟：≤1μs（RECONFIG_ATOMIC指令→所有连线模式切换完成）
@@ -365,7 +365,7 @@ TCC-11原语库定义了三类原语。Phase 1的FPGA原型聚焦于验证原语
 | DBF信号处理 | LINK + MAPS + FUSE + GEMM | FFT = LINK(butterfly_stage) + MAPS(twiddle) + FUSE(butterfly) ×10级 + GEMM(波束权重) |
 | 液态切换 | LINK | ≤1μs AI↔DBF拓扑热切换 |
 
-**结论**：4个原语构成Route-Transform同构验证的最小完备集。TCC-11其余7个原语（PULL/CAST/SWAP/FOLD/SCAN/MOVE/TICK）在Phase 1的SDK中以软件回退方式实现，Phase 2的ASIC流片时硬件化。
+**结论**：4个原语构成Route-Transform同构验证的最小完备集。TCC-16其余7个原语（PULL/CAST/SWAP/FOLD/SCAN/MOVE/TICK）在Phase 1的SDK中以软件回退方式实现，Phase 2的ASIC流片时硬件化。
 
 ---
 
@@ -429,7 +429,7 @@ TCC-Link区别于所有现有互连标准的根本特征——在协议层原生
 
 ### L4 — 语义层（颠覆创新）：TCC原语事务
 
-L4定义面向上层软件的TCC-11原语事务接口。上层通过 `tcc.fuse()`、`tcc.gemm()` 等Python API发出原语调用，L4将其封装为标准事务帧，L3通过TR-ISA管理拓扑，L2/L1负责物理传输。
+L4定义面向上层软件的TCC-16原语事务接口。上层通过 `tcc.fuse()`、`tcc.gemm()` 等Python API发出原语调用，L4将其封装为标准事务帧，L3通过TR-ISA管理拓扑，L2/L1负责物理传输。
 
 ## 5.3 标准输出路径
 
@@ -511,7 +511,7 @@ tcc.FUSE(features, SUM)               # ★ 硬件AllReduce（CPU零参与）
 
 **场景**：16通道雷达IQ数据，经FFT变换+波束成形，输出16个空间波束。
 
-**原语映射（DBF模式）——FFT的TCC-11实现**：
+**原语映射（DBF模式）——FFT的TCC-16实现**：
 
 ```
 # FFT的核心洞见：FFT不是独立原语，而是 LINK+MAPS+FUSE 的组合！
@@ -566,7 +566,7 @@ AI模式下的 FUSE:                    DBF模式下的 FUSE:
 
 3. **性能仪表盘**：实时显示延迟分布直方图、带宽利用率曲线、功耗热力图、切换延迟时序图。并对比呈现传统冯·诺依曼架构（仿真）在同等算力负荷下的性能断崖。
 
-4. **原语调用追踪**：实时显示每个原语的调用频率、执行时间、拓扑切换次数，以瀑布图形式展现TCC-11原语在AI和DBF场景中的调用分布差异。
+4. **原语调用追踪**：实时显示每个原语的调用频率、执行时间、拓扑切换次数，以瀑布图形式展现TCC-16原语在AI和DBF场景中的调用分布差异。
 
 ---
 
@@ -782,7 +782,7 @@ tcc.LINK  █ 设计      █ FPGA实现 ██████ 热切换优化     
 - 元拓扑-SDI化合键代数架构——3基底+5化合键的闭合代数系统，为拓扑可重构提供严格的数学基础
 - 拓扑自由能原理——引入统计物理，赋予液态硬件自组织优化的理论内核
 - Kronecker分形扩展——从理论上破解互连扩展墙
-- TCC-11原语完备性定理（Theorem 3）的7场景覆盖验证
+- TCC-16原语完备性定理（Theorem 3）的7场景覆盖验证
 
 **学术影响**：预期在体系结构四大顶会（ISCA/HPCA/MICRO/ASPLOS）和信号处理顶刊发表论文≥5篇。
 
@@ -799,7 +799,7 @@ tcc.LINK  █ 设计      █ FPGA实现 ██████ 热切换优化     
 | 阶段 | 产出 | 预期影响 |
 |------|------|---------|
 | 项目期内 | TCC-Edge液态硬件原型 + TCC-Link v1.0 | 吸引后续流片/产业化投资 |
-| 项目结束后1年 | 基于验证IP的28nm ASIC（扩展至TCC-11全集） | TRL-5 |
+| 项目结束后1年 | 基于验证IP的28nm ASIC（扩展至TCC-16全集） | TRL-5 |
 | 项目结束后2年 | TCC-Edge-ASIC产品原型 + 孵化公司 | 端侧AI推理/DBF双模市场 |
 | 远期 | SDSoW晶圆级液态硬件 | 下一代计算架构基础设施 |
 
@@ -832,7 +832,7 @@ tcc.LINK  █ 设计      █ FPGA实现 ██████ 热切换优化     
 |------------|--------|---------|
 | **液态硬件FPGA原型验证** | FPGA唯一验证载体；可选流片为锦上添花 | ✅ 完全对齐 |
 | **兼容并超越UCIe的互连标准** | TCC-Link: L1/L2兼容UCIe 2.0 + L3(TR-ISA)/L4(原语事务)颠覆创新 | ✅ 完全对齐 |
-| **"3+1"极简MVP架构** | tcc.FUSE + tcc.GEMM + tcc.MAPS + tcc.LINK | ✅ 完全对齐（TCC-11命名） |
+| **"3+1"极简MVP架构** | tcc.FUSE + tcc.GEMM + tcc.MAPS + tcc.LINK | ✅ 完全对齐（TCC-16命名） |
 | **计算与信号处理双场景验证** | 场景A(AI) + 场景B(DBF+同构演示) + 场景C(切换压测) + 可视化大屏 | ✅ 超出 |
 | **NCCL/CUDA生态适配** | TCCL兼容层: NCCL/MPI/Gloo/FFTW全API兼容 | ✅ 超出 |
 | **开源生态与孵化基础** | ≥20K行RTL + SDK + CI/CD + DSE工具 + 社区运营 | ✅ 完全对齐 |
@@ -852,7 +852,7 @@ tcc.LINK  █ 设计      █ FPGA实现 ██████ 热切换优化     
 6. Liu, Q. et al. "Route-Transform Decomposition: Toward a Unified Theory of Communication and Computation." iNEST TR, 2026.
 7. Liu, Q. et al. "Route ≡ Transform: On the Structural Isomorphism of Communication and Computation." iNEST TR, 2026.
 8. Liu, Q. et al. "Meta-Topology & SDI-Bond Algebra: The Mathematical Foundation of Reconfigurable Interconnects." iNEST TR, 2026.
-9. Liu, Q. et al. "TCC-11 Primitive Library v1.0: A Complete Specification for Topology-Centric Computing." iNEST TR, 2026.
+9. Liu, Q. et al. "TCC-16 Primitive Library v1.0: A Complete Specification for Topology-Centric Computing." iNEST TR, 2026.
 10. UCIe Consortium. "Universal Chiplet Interconnect Express (UCIe) 2.0 Specification." 2024.
 11. Rocki, K. et al. "Cerebras WSE-3: 4 Trillion Transistor Wafer-Scale Engine." *Hot Chips '24*, 2024.
 12. NVIDIA Corporation. "GB300 NVL72: NVLink 5 and NVSwitch 4 Architecture." Whitepaper, 2025.
@@ -870,7 +870,7 @@ tcc.LINK  █ 设计      █ FPGA实现 ██████ 热切换优化     
 
 ---
 
-**Tags:** #NaaS #StrategicProposal #TCC #SDSoW #SDI #FPGA #LiquidHardware #Chiplet #TCC-11
+**Tags:** #NaaS #StrategicProposal #TCC #SDSoW #SDI #FPGA #LiquidHardware #Chiplet #TCC-16
 
 ## Related Notes
 

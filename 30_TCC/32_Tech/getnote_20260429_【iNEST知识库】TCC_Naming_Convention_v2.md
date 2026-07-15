@@ -10,7 +10,7 @@ source: getnote---
 # 【iNEST知识库】TCC_Naming_Convention_v2
 
 # TCC 原语库命名规范
-# TCC Primitive Library Specification v2.0 (TCC-11)
+# TCC Primitive Library Specification v2.0 (TCC-16)
 #
 # 最后更新：2026-04-20
 # 状态：正式规范 v2.0（所有文档、代码、专利、论文统一遵循）
@@ -19,11 +19,11 @@ source: getnote---
 
 ---
 
-## 一、TCC-11 完备原语集
+## 一、TCC-16 完备原语集
 
-$$\text{TCC-11} = \{\text{FUSE}, \text{PULL}, \text{CAST}, \text{SWAP}, \text{GEMM}, \text{FOLD}, \text{MAPS}, \text{SCAN}, \text{MOVE}, \text{LINK}, \text{TICK}\}$$
+$$\text{TCC-16} = \{\text{FUSE}, \text{PULL}, \text{CAST}, \text{SWAP}, \text{GEMM}, \text{FOLD}, \text{MAPS}, \text{SCAN}, \text{MOVE}, \text{LINK}, \text{TICK}\}$$
 
-**TCC-11 = 11个原语的最小完备集**（4通信 + 4计算 + 1数据 + 2控制）
+**TCC-16 = 11个原语的最小完备集**（4通信 + 4计算 + 1数据 + 2控制）
 
 ### 1.1 设计三原则
 
@@ -40,7 +40,7 @@ $$\text{TCC-11} = \{\text{FUSE}, \text{PULL}, \text{CAST}, \text{SWAP}, \text{GE
 
 ---
 
-## 二、TCC-11 原语详表
+## 二、TCC-16 原语详表
 
 | 类别 | 编号 | 原语 | 图标 | 语义定义 | MPI等价 | 最优拓扑 | Γst | ALU模式 |
 |------|------|------|------|---------|---------|---------|-----|---------|
@@ -62,7 +62,7 @@ $$\text{TCC-11} = \{\text{FUSE}, \text{PULL}, \text{CAST}, \text{SWAP}, \text{GE
 
 ## 三、旧名 → 新名映射（历史对照）
 
-| 旧名（v1.0 TCC-8） | 新名（v2.0 TCC-11） | 变更说明 |
+| 旧名（v1.0 TCC-8） | 新名（v2.0 TCC-16） | 变更说明 |
 |-------------------|-------------------|---------|
 | NPC-AR | **tcc.FUSE** | 升级自v1.0，无变化 |
 | NPC-AG | **tcc.PULL** | 升级自v1.0，无变化 |
@@ -78,7 +78,7 @@ $$\text{TCC-11} = \{\text{FUSE}, \text{PULL}, \text{CAST}, \text{SWAP}, \text{GE
 | —（新增） | **tcc.MOVE** | v2.0新增：GALS架构P2P数据传输 |
 | —（新增） | **tcc.TICK** | v2.0新增：分布式逻辑时钟 |
 
-> **v1.0→v2.0变化**：TCC-8 → TCC-11，新增SWAP/SCAN（从保留字升为核心）+ MOVE + TICK；LOOK独立原语取消，功能合并入MAPS(func=lut)。
+> **v1.0→v2.0变化**：TCC-8 → TCC-16，新增SWAP/SCAN（从保留字升为核心）+ MOVE + TICK；LOOK独立原语取消，功能合并入MAPS(func=lut)。
 
 ---
 
@@ -140,7 +140,7 @@ tcc.scan(data=detect, op="sum")            # CFAR目标计数
 ## 六、RTL 模块命名（SystemVerilog）
 
 ```verilog
-// TCC-11 IP核模块命名规范
+// TCC-16 IP核模块命名规范
 module tcc_fuse #(parameter WIDTH=256, NODES=8, OP=SUM)  (...); // AllReduce IP
 module tcc_pull #(parameter WIDTH=256, NODES=8)          (...); // AllGather IP
 module tcc_cast #(parameter WIDTH=256, NODES=8)          (...); // Broadcast IP
@@ -188,7 +188,7 @@ module tcc_tick #(parameter WIDTH=64)                    (...); // 逻辑时钟 
 
 ---
 
-## 九、三场景原语流（使用TCC-11命名）
+## 九、三场景原语流（使用TCC-16命名）
 
 ### 9.1 Gemma-4 E2B 单Token推理（单Transformer层）
 

@@ -45,7 +45,7 @@ source: getnote---
 ---
 
 ### ⚙️ 主线E：关键技术工程实现
-**负责人**：刘勤让 | **当前阶段**：TCC-11原语集IP核设计准备
+**负责人**：刘勤让 | **当前阶段**：TCC-16原语集IP核设计准备
 
 | 任务 | 文件 | 状态 | 下一步 |
 |------|------|------|--------|
@@ -55,7 +55,7 @@ source: getnote---
 | P4专利（SDK编译） | `TCC_IP_Portfolio/专利/P4_NCCL_MPI_BLAS自动映射编译/` | 📋权利要求框架 | 补充MLIR方言定义 |
 | P5专利（自演化） | `TCC_IP_Portfolio/专利/P5_能量最小化拓扑自演化/` | ⚠️待补充全文 | 从原对话复制全文 |
 | FPGA原型（VCK190） | `04_Code_代码/collective_comm_naas/` | 🟡进行中 | FFT 800ns实测数据收集 |
-| TCC-11 RTL | （待创建） | ⬜未启动 | SystemVerilog 11 IP cores |
+| TCC-16 RTL | （待创建） | ⬜未启动 | SystemVerilog 11 IP cores |
 | SDI控制器 | （待创建） | ⬜未启动 | 64×64 crossbar + shadow register |
 
 ---
@@ -134,7 +134,7 @@ workspace/
 ## 📌 关键约束（每次会话继承）
 
 - 严格手动模式：禁止任何定时任务/cron
-- TCC命名：全库只用 `tcc.*` 前缀，TCC-11
+- TCC命名：全库只用 `tcc.*` 前缀，TCC-16
 - β₁/Betti数：不入V25论文，留companion paper
 - X₄定义：Watts-Strogatz σ + tanh归一化
 - UCCP参考：Q_rand=0.02，floor ε=0.01

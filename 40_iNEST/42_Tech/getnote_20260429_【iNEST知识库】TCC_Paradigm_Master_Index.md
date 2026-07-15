@@ -29,7 +29,7 @@ source: getnote---
 第三范式：TCC (iNEST, 2026)  — 拓扑即计算，通信与计算统一
 ```
 
-**护城河**：Route≡Transform 定理（数学证明）→ TCC-11 原语集（代数完备）→ SDI 硬件（微秒级重构）→ 液态切换（跨场景零切换成本）
+**护城河**：Route≡Transform 定理（数学证明）→ TCC-16 原语集（代数完备）→ SDI 硬件（微秒级重构）→ 液态切换（跨场景零切换成本）
 
 ---
 
@@ -40,7 +40,7 @@ source: getnote---
 | 文件 | 内容 | 状态 |
 |------|------|------|
 | `TCC_Core_Concepts.md` | 第一性原理、元拓扑、SDI-Bond代数、CST锚点 | ✅ 已建立 |
-| `TCC_Naming_Convention_v2.md` | **TCC-11原语命名规范 v2.0（权威版）** | ✅ 已建立 |
+| `TCC_Naming_Convention_v2.md` | **TCC-16原语命名规范 v2.0（权威版）** | ✅ 已建立 |
 | `TCC_Naming_Convention_v1.md` | TCC-8规范（已废止，仅供历史参考） | ⚠️ 已废止 |
 
 ### 2.2 专利文件（→ `02_Papers_论文/00_专利清单.md`）
@@ -57,7 +57,7 @@ source: getnote---
 | 论文 | 标题 | 目标 | 状态 |
 |------|------|------|------|
 | **论文A（B7）** | *Route≡Transform: A Unified Algebraic Theory...* | ASPLOS'27 Sep | 📋 框架完成，待写作 |
-| **论文B（B5）** | *TCC-11: A Minimal Complete Primitive Library...* | ASPLOS/MICRO'27 | 📋 框架完成，待RTL实验数据 |
+| **论文B（B5）** | *TCC-16: A Minimal Complete Primitive Library...* | ASPLOS/MICRO'27 | 📋 框架完成，待RTL实验数据 |
 | **论文C（B3）** | *From Horowitz Wall to Topology Computing...* | Nature Electronics | 📋 框架完成，待论文A/B完成后 |
 | B2 | P-Mapping：原语完备性 | IEEE TPDS | 📋 素材V3完备 |
 
@@ -80,12 +80,12 @@ source: getnote---
 |------|---------|---------|---------|
 | **定理1**（分解） | 任意分布式计算 C = T_m∘R_m∘…∘T_1∘R_1 | BSP构造性分解 | P1权利要求1 |
 | **定理2**（同构） | FFT蝶形图 ≅ Butterfly-AllReduce通信图（图同构） | Cooley-Tukey vs 超立方体维度有序AllReduce | P1权利要求2, P3权利要求1 |
-| **定理3**（完备） | TCC-11在7类目标工作负载上100%覆盖 | 对每类构造显式原语映射 | P1权利要求1, P4 |
+| **定理3**（完备） | TCC-16在7类目标工作负载上100%覆盖 | 对每类构造显式原语映射 | P1权利要求1, P4 |
 | **定理4**（能效） | Route-Transform融合使等效通信量从O(N·D)降至O(D) | Horowitz能耗模型定量推导 | P1 |
 
-### 3.2 TCC-11 原语集（完整版）
+### 3.2 TCC-16 原语集（完整版）
 
-$$\text{TCC-11} = \{\underbrace{\text{FUSE, PULL, CAST, SWAP}}_{\text{通信×4}}, \underbrace{\text{GEMM, FOLD, MAPS, SCAN}}_{\text{计算×4}}, \underbrace{\text{MOVE}}_{\text{数据×1}}, \underbrace{\text{LINK, TICK}}_{\text{控制×2}}\}$$
+$$\text{TCC-16} = \{\underbrace{\text{FUSE, PULL, CAST, SWAP}}_{\text{通信×4}}, \underbrace{\text{GEMM, FOLD, MAPS, SCAN}}_{\text{计算×4}}, \underbrace{\text{MOVE}}_{\text{数据×1}}, \underbrace{\text{LINK, TICK}}_{\text{控制×2}}\}$$
 
 **关键代数关系**：
 ```
@@ -153,7 +153,7 @@ MOVE(x,s,d) ≡ SWAP(x·mask(s,d))   [P2P=sparse AlltoAll，但能耗N×]
 - [⬜] **T3-6** `tcc.compat.mpi` 模块（MPI-4.0 collective子集）
 - [⬜] **T3-7** `tcc.compat.blas` + `tcc.compat.fftw` 映射层
 
-### T4：论文B——TCC-11系统实现与评测（B5）
+### T4：论文B——TCC-16系统实现与评测（B5）
 
 - [🟢] **T4-1** 撰写 §3 Hardware Architecture（依赖T2完成后提取微架构数据）
 - [🟢] **T4-2** 撰写 §4 SDK and Compilation Flow（依赖T3-1至T3-4）
@@ -222,7 +222,7 @@ TICK 的存在是否真的必要？即 GALS 系统中，能否仅用 LINK.barrie
 - 初步答案：barrier() 解决同步，TICK 解决因果序（不同），对数据依赖关系的追踪必须有 TICK
 - 研究路径：构造反例，展示无 TICK 时分布式 SCAN 的结果不确定性
 
-**Q4：TCC-11 的量子扩展**
+**Q4：TCC-16 的量子扩展**
 量子纠错码的稳定器电路是否也满足 Route≡Transform 结构？即量子纠缠 = 量子通信 + 量子门的某种同构？
 - 与量子计算的接口：SWAP 门是量子计算的通信原语，Hadamard/CNOT 是计算原语，两者的拓扑关系有待研究
 

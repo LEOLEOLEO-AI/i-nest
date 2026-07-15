@@ -1,21 +1,21 @@
 ---
-title: "TCC原语体系统一方案_6R+6T与TCC-11的对齐与收敛建议"
+title: "TCC原语体系统一方案_6R+6T与TCC-16的对齐与收敛建议"
 date: 2026-07-02
 version: v1.0
 status: Draft
-scope: "面向TCC项目申报书(Hailab)的6R+6T原语规范与知识库中TCC-11 v1.0的统一"
-tags: [TCC, 原语, primitive, TCC, TCC-11, 6R+6T, Route≡Transform]
+scope: "面向TCC项目申报书(Hailab)的6R+6T原语规范与知识库中TCC-16 v1.0的统一"
+tags: [TCC, 原语, primitive, TCC, TCC-16, 6R+6T, Route≡Transform]
 ---
 
-# TCC原语体系统一方案：6R+6T与TCC-11的对齐与收敛
+# TCC原语体系统一方案：6R+6T与TCC-16的对齐与收敛
 
-> **核心结论**：知识库中存在两个版本的原语定义——项目申报书中的"6R+6T"和已固化的"TCC-11 v1.0（tcc.*）"。两者在数学本质上等价，差异主要在命名、分组方式和应用语境。**建议以TCC-11 v1.0为规范基准，用6R+6T框架对外表述**——即内部统一为11原语，对外以6R+6T框架展示（将MOVE并入Route组、TICK并入时序基础原语）。
+> **核心结论**：知识库中存在两个版本的原语定义——项目申报书中的"6R+6T"和已固化的"TCC-16 v1.0（tcc.*）"。两者在数学本质上等价，差异主要在命名、分组方式和应用语境。**建议以TCC-16 v1.0为规范基准，用6R+6T框架对外表述**——即内部统一为11原语，对外以6R+6T框架展示（将MOVE并入Route组、TICK并入时序基础原语）。
 
 ---
 
 ## 一、知识库中已有的原语版本
 
-### 1.1 TCC-11 v1.0（iNEST Research Agent System Prompt）
+### 1.1 TCC-16 v1.0（iNEST Research Agent System Prompt）
 
 | 原语 | 语义 | 类别 | 最优拓扑 |
 |------|------|------|---------|
@@ -94,7 +94,7 @@ cc.SCAN
 
 ### 2.1 命名差异
 
-| 维度 | TCC-11 (tcc.*) | 6R+6T（项目文档语境） |
+| 维度 | TCC-16 (tcc.*) | 6R+6T（项目文档语境） |
 |------|---------------|-------------------|
 | 命名空间 | 
 cc.（Network-Centric Computing） | 未指定（倾向 	cc.） |
@@ -103,7 +103,7 @@ cc.（Network-Centric Computing） | 未指定（倾向 	cc.） |
 
 ### 2.2 数量差异
 
-| 项目 | TCC-11 | 6R+6T |
+| 项目 | TCC-16 | 6R+6T |
 |------|--------|-------|
 | Route 原语 | 4（FUSE/PULL/CAST/SWAP） | 6（需新增2个） |
 | Transform 原语 | 4（GEMM/FOLD/MAPS/SCAN） | 6（需新增2个） |
@@ -112,12 +112,12 @@ cc.（Network-Centric Computing） | 未指定（倾向 	cc.） |
 
 ### 2.3 需要新增的原语
 
-为满足 6R，需要从 TCC-11 扩展：
+为满足 6R，需要从 TCC-16 扩展：
 - **R5: SCATTER** = 
 cc.MOVE 的 Scatter 模式（已有基础，命名即可）
 - **R6: SHIFT** = 环形移位（Conv滑窗场景，Butterfly网络天然支持）
 
-为满足 6T，需要从 TCC-11 扩展：
+为满足 6T，需要从 TCC-16 扩展：
 - **T5: FFT** = 傅里叶变换（RF信号处理场景核心，与FUSE在Butterfly拓扑上同构）
 - **T6: SORT/Permute** = 排序/置换（MoE路由、Token重排场景，与SWAP在Crossbar上同构）
 
@@ -127,13 +127,13 @@ cc.MOVE 的 Scatter 模式（已有基础，命名即可）
 
 ## 三、统一建议
 
-### 3.1 推荐方案：TCC-11为基准，6R+6T为对外框架
+### 3.1 推荐方案：TCC-16为基准，6R+6T为对外框架
 
 `
 ┌─────────────────────────────────────────────┐
 │          TCC 原语体系统一架构                  │
 ├─────────────────────────────────────────────┤
-│  内部规范（工程实现）：TCC-11 v1.0 (tcc.*)     │
+│  内部规范（工程实现）：TCC-16 v1.0 (tcc.*)     │
 │  ┌─────────┬─────────┬──────┬──────┬──────┐ │
 │  │ 4 Route │4 Transf │ 1 S  │ 1 C  │ 1 ⏱ │ │
 │  │ FUSE    │ GEMM    │ MOVE │ LINK │ TICK │ │
@@ -158,28 +158,28 @@ cc.MOVE 的 Scatter 模式（已有基础，命名即可）
 
 ### 3.2 统一命名表
 
-| 对外名称（6R+6T） | 内部命名（TCC-11） | 语义 | 原始定义来源 | 核心场景 |
+| 对外名称（6R+6T） | 内部命名（TCC-16） | 语义 | 原始定义来源 | 核心场景 |
 |-------------------|-------------------|------|-------------|---------|
 | **R1: FUSE** | 
-cc.FUSE | 全归约 AllReduce | TCC-11 | AI训练梯度同步 |
+cc.FUSE | 全归约 AllReduce | TCC-16 | AI训练梯度同步 |
 | **R2: PULL** | 
-cc.PULL | 全收集 AllGather | TCC-11 | KV Cache聚合 |
+cc.PULL | 全收集 AllGather | TCC-16 | KV Cache聚合 |
 | **R3: CAST** | 
-cc.CAST | 广播 Broadcast | TCC-11 | 权重分发 |
+cc.CAST | 广播 Broadcast | TCC-16 | 权重分发 |
 | **R4: SWAP** | 
-cc.SWAP | 全交换 AlltoAll | TCC-11 | MoE专家路由 |
+cc.SWAP | 全交换 AlltoAll | TCC-16 | MoE专家路由 |
 | **R5: SCATTER** | 
 cc.MOVE(scatter) | 散射/收集 | 从MOVE派生 | Token分发 |
 | **R6: SHIFT** | 
 cc.FUSE(ring) | 环形移位 | 新增命名 | Conv滑动窗 |
 | **T1: GEMM** | 
-cc.GEMM | 矩阵乘加 | TCC-11 | Transformer/CNN |
+cc.GEMM | 矩阵乘加 | TCC-16 | Transformer/CNN |
 | **T2: FOLD** | 
-cc.FOLD | 向量归约 | TCC-11 | Softmax/LN |
+cc.FOLD | 向量归约 | TCC-16 | Softmax/LN |
 | **T3: MAPS** | 
-cc.MAPS | 逐元素映射 | TCC-11 | 激活函数/gate |
+cc.MAPS | 逐元素映射 | TCC-16 | 激活函数/gate |
 | **T4: SCAN** | 
-cc.SCAN | 前缀扫描 | TCC-11 | Attention mask |
+cc.SCAN | 前缀扫描 | TCC-16 | Attention mask |
 | **T5: FFT** | 
 cc.GEMM(FFT) 或 
 cc.FUSE(FFT) | 傅里叶变换 | 新增命名 | DBF/FFT |
@@ -213,7 +213,7 @@ cc.*，但在论文和白皮书中可以使用 	cc.* 或直接使用全称 	cc.t
 |---------|------|
 | **代数完备性** | 11个原语构成代数操作的完备生成集——任何分布式计算操作可分解为这11个基元的组合。12会引入冗余（SCATTER=MOVE的子集、FFT=GEMM的频域模式）。 |
 | **正交最小性** | 11是最小正交数量——每增一个"新"原语都必然与已有原语重叠。PERMUTE本质是SWAP的特化（在Crossbar上执行的路由置换）。 |
-| **硬件IP核实数** | TCC-11对应11个硬件IP核（已在专利中定义RTL接口）。新增原语应通过参数化复用已有IP核，而非增加新核。 |
+| **硬件IP核实数** | TCC-16对应11个硬件IP核（已在专利中定义RTL接口）。新增原语应通过参数化复用已有IP核，而非增加新核。 |
 | **场景覆盖度** | 11原语已验证覆盖AI训练/推理、FFT/DBF信号处理、仿真的≥3类场景。12不增加覆盖度。 |
 
 ### 4.2 为什么6R+6T是好的对外框架？
@@ -250,14 +250,14 @@ cc.，C++ SDK使用 	cc::tcc::FUSE 命名空间嵌套。
 在项目申报书"6R+6T 原语规范"部分，建议加入以下对齐说明：
 
 `
-TCC 原语体系基于已获专利保护的 TCC-11 原语规范（发明专利：
+TCC 原语体系基于已获专利保护的 TCC-16 原语规范（发明专利：
 "一种基于正交原语集与拓扑融合变换的网络复杂度计算方法及系统"），
 采用 6R+6T 框架表述：
 
 6 Route 原语：FUSE/PULL/CAST/SWAP/SCATTER/SHIFT
 6 Transform 原语：GEMM/FOLD/MAPS/SCAN/FFT/PERMUTE
 
-其中 R1-R4 和 T1-T4 对应 TCC-11 规范的 8 个核心原语；
+其中 R1-R4 和 T1-T4 对应 TCC-16 规范的 8 个核心原语；
 R5(SCATTER)和 R6(SHIFT)是 MOVE 和 FUSE 的命名扩展；
 T5(FFT)和 T6(PERMUTE)是 GEMM 和 SWAP 的频域/置换模式。
 全部12个命名原语映射到11个硬件IP核，无新增硬件开销。
@@ -267,7 +267,7 @@ T5(FFT)和 T6(PERMUTE)是 GEMM 和 SWAP 的频域/置换模式。
 
 | 交付物 | 内容 | 格式 |
 |--------|------|------|
-| TCC-11 v2.0 原语规范.md | 11硬件IP核 + 12命名原语的完整语义定义 | 内部规范文档 |
+| TCC-16 v2.0 原语规范.md | 11硬件IP核 + 12命名原语的完整语义定义 | 内部规范文档 |
 | 6R+6T 原语手册.md | 面向产业/课题合作方的对外版本，6R+6T表达 | 外部白皮书 |
 | TCC MLIR Dialect定义.td | 11个 MLIR Operation 的 TableGen 定义 | 代码 |
 
@@ -277,15 +277,15 @@ T5(FFT)和 T6(PERMUTE)是 GEMM 和 SWAP 的频域/置换模式。
 
 | 决策 | 内容 |
 |------|------|
-| **内部工程基准** | TCC-11 v1.0（
+| **内部工程基准** | TCC-16 v1.0（
 cc.*命名，11个IP核） |
 | **对外/项目申报框架** | 6R+6T（对称分组，12个命名原语→11个硬件IP核） |
 | **命名空间** | 代码用 
 cc.*（专利一致），论文可用 	cc.* |
 | **新增的SCATTER/SHIFT/FFT/PERMUTE** | **不是新IP核**——是已有原语的参数化模式 |
-| **与iNEST关系** | TCC-11是iNEST系统提示中的规范基准，不应更改 |
+| **与iNEST关系** | TCC-16是iNEST系统提示中的规范基准，不应更改 |
 
-> **最终建议**：在项目申报书中保留"6R+6T"的表述（它作为对外框架是好的），但在内部工程文档中明确"6R+6T = TCC-11 v1.0 + 4个命名参数化扩展"。新增的R5/R6/T5/T6不增加硬件复杂度——它们通过 FPGA 验证阶段在已有 11 个 IP 核上配置不同参数/模式实现。
+> **最终建议**：在项目申报书中保留"6R+6T"的表述（它作为对外框架是好的），但在内部工程文档中明确"6R+6T = TCC-16 v1.0 + 4个命名参数化扩展"。新增的R5/R6/T5/T6不增加硬件复杂度——它们通过 FPGA 验证阶段在已有 11 个 IP 核上配置不同参数/模式实现。
 
 ---
 ## 相关链接

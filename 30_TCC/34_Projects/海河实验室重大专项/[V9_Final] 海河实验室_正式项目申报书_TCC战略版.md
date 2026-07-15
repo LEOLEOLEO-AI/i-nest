@@ -24,7 +24,7 @@ tags:
   - SDI
   - LiquidHardware
   - StrategicProposal
-  - TCC-11
+  - TCC-16
   - AI4EDA
 last_revised: 2026-06-19
 ---
@@ -65,7 +65,7 @@ last_revised: 2026-06-19
 │ 元拓扑-SDI化合键代数      │ 双场景(AI+DBF)融合验证         │
 │ 拓扑自由能原理            │ TCCL兼容层（PyTorch即插即用）   │
 │ Kronecker 分形扩展       │ AI辅助EDA敏捷开发流水线        │
-│ TCC-11 原语完备体系       │ 可视化演示大屏系统             │
+│ TCC-16 原语完备体系       │ 可视化演示大屏系统             │
 └──────────────────────────┴──────────────────────────────┘
 ```
 
@@ -208,17 +208,17 @@ Board级:   4×Chiplet  ← Ring(C₄) 互连 → C₄ ⊗ C₄ ⊗ C₄
 
 ---
 
-# 第三部分：TCC-11原语体系与三阶段演进战略
+# 第三部分：TCC-16原语体系与三阶段演进战略
 
-## 3.1 TCC-11原语库——从"5+4"到三分类完备体系
+## 3.1 TCC-16原语库——从"5+4"到三分类完备体系
 
-TCC理论经历了从V1"5+4"（5通信+4计算）到**TCC-11 v1.0**（通信4+计算4+流动3）的严格理论提炼。演化逻辑：ReduceScatter可由FUSE+SWAP组合表达，违反正交最小性原则，被剔除；流动原语（MOVE/LINK/TICK）作为独立类别分离出来。
+TCC理论经历了从V1"5+4"（5通信+4计算）到**TCC-16 v1.0**（通信4+计算4+流动3）的严格理论提炼。演化逻辑：ReduceScatter可由FUSE+SWAP组合表达，违反正交最小性原则，被剔除；流动原语（MOVE/LINK/TICK）作为独立类别分离出来。
 
-TCC-11遵循三条设计原则：**代数完备性**、**正交最小性**、**硬件可映射性**（每个原语对应≤50K LUT的独立RTL IP核）。命名规则：统一前缀`tcc.`，后接四字母可发音动词助记符。
+TCC-16遵循三条设计原则：**代数完备性**、**正交最小性**、**硬件可映射性**（每个原语对应≤50K LUT的独立RTL IP核）。命名规则：统一前缀`tcc.`，后接四字母可发音动词助记符。
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                     TCC-11 PRIMITIVE LIBRARY v1.0                │
+│                     TCC-16 PRIMITIVE LIBRARY v1.0                │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │  通信原语 (Route, 4个) ── 数据在节点间的流动模式                  │
@@ -244,7 +244,7 @@ TCC-11遵循三条设计原则：**代数完备性**、**正交最小性**、**�
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-**完备性验证**：TCC-11已通过7个典型场景（LLM推理、视频目标检测、雷达DBF、SpMV、FFT、MoE训练、图神经网络）的逐原语覆盖验证，覆盖率100%。关键发现：**MAPS和LINK在全部7个场景中均出现**——"逐元素映射"与"拓扑控制"是TCC范式的两大绝对核心。
+**完备性验证**：TCC-16已通过7个典型场景（LLM推理、视频目标检测、雷达DBF、SpMV、FFT、MoE训练、图神经网络）的逐原语覆盖验证，覆盖率100%。关键发现：**MAPS和LINK在全部7个场景中均出现**——"逐元素映射"与"拓扑控制"是TCC范式的两大绝对核心。
 
 ## 3.2 Phase 1→2→3 三阶段演进战略
 
@@ -256,7 +256,7 @@ Phase 1 (本项目, 2026-2029): FPGA原型验证 ── 范式证明
   └── TRL-5
 
 Phase 2 (2029-2031): ASIC产品化 ── 端侧双模芯片
-  ├── 28nm/12nm ASIC流片（扩展至TCC-11全集）
+  ├── 28nm/12nm ASIC流片（扩展至TCC-16全集）
   ├── TCC-Edge-ASIC产品原型
   ├── 孵化公司独立运营
   └── TRL-7
@@ -275,7 +275,7 @@ Phase 3 (2031-2035): SDSoW晶圆级 ── 大规模液态计算
 | 决策 | 选择 | 理由 |
 |------|------|------|
 | 验证载体 | FPGA（非ASIC流片） | 规避流片风险；FPGA天然可重构＝液态硬件最佳物理载体 |
-| 原语数量 | 4个（非TCC-11全集） | FUSE/GEMM/MAPS/LINK是Route-Transform同构的最小完备验证集 |
+| 原语数量 | 4个（非TCC-16全集） | FUSE/GEMM/MAPS/LINK是Route-Transform同构的最小完备验证集 |
 | 工艺 | FPGA（等效16nm）+ 可选28nm流片 | 28nm成熟可靠 |
 | 场景 | 2主+1扩 | AI推理与DBF是拓扑差异最大的应用对 |
 | 标准 | L1/L2兼容UCIe + L3/L4创新 | 降低物理层风险 |
@@ -287,7 +287,7 @@ Phase 3 (2031-2035): SDSoW晶圆级 ── 大规模液态计算
 
 ## 4.1 架构设计哲学
 
-TCC-11定义了三类原语。Phase 1的FPGA原型聚焦于**最小完备验证集**——恰好"3个数据原语 + 1个控制原语"：
+TCC-16定义了三类原语。Phase 1的FPGA原型聚焦于**最小完备验证集**——恰好"3个数据原语 + 1个控制原语"：
 
 - **tcc.FUSE**：通信原语。蝶形网络双模引擎，Route-Transform同构的物理证明载体
 - **tcc.GEMM**：计算原语。脉动阵列矩阵乘，AI推理与DBF波束成形的共享算力源
@@ -332,7 +332,7 @@ TCC-11定义了三类原语。Phase 1的FPGA原型聚焦于**最小完备验证�
 
 ### IP-3: tcc.MAPS — 逐元素映射引擎
 
-**定位**：FFT旋转因子乘法、激活函数、归一化、阈值过滤的统一执行单元。TCC-11完备性验证中唯二全场景覆盖的原语。
+**定位**：FFT旋转因子乘法、激活函数、归一化、阈值过滤的统一执行单元。TCC-16完备性验证中唯二全场景覆盖的原语。
 
 **关键指标**：16路SIMD 256b/周期；支持≥15种FP16逐元素操作；延迟2-4周期；RTL ~4,200行。
 
@@ -401,7 +401,7 @@ UCIe 2.0（已完成）：                  TCC-Link v1.0（本项目）:
 
 **TR-ISA指令以带内数据帧传输**——无需额外配置总线或JTAG链路。
 
-**L4 — 语义层（颠覆创新）**：TCC-11原语事务接口。上层通过`tcc.fuse()`/`tcc.gemm()`等API调用，L4封装为标准事务帧。
+**L4 — 语义层（颠覆创新）**：TCC-16原语事务接口。上层通过`tcc.fuse()`/`tcc.gemm()`等API调用，L4封装为标准事务帧。
 
 ## 5.3 标准输出路径
 
@@ -598,7 +598,7 @@ tcc.FUSE(features, SUM)               # ★ 硬件AllReduce（CPU零参与）
 
 **场景**：16通道雷达IQ数据，经FFT变换+波束成形，输出16个空间波束。**核心震撼点：执行AI推理的物理网络，与执行雷达DBF的物理网络，是同一组——实现计算架构与信号处理架构的"合二为一"。**
 
-**原语映射（DBF模式）——FFT的TCC-11实现**：
+**原语映射（DBF模式）——FFT的TCC-16实现**：
 
 ```
 # ★ FFT的核心洞见：FFT不是独立原语，而是 LINK+MAPS+FUSE 的组合！
@@ -650,7 +650,7 @@ AI模式下的 FUSE:                    DBF模式下的 FUSE:
 
 3. **性能仪表盘**：延迟分布直方图、带宽利用率曲线、功耗热力图、切换延迟时序图。对比呈现传统架构（仿真）在同等负荷下的性能断崖。
 
-4. **原语调用追踪**：以瀑布图实时展示TCC-11各原语的调用频率、执行时间和拓扑切换次数。
+4. **原语调用追踪**：以瀑布图实时展示TCC-16各原语的调用频率、执行时间和拓扑切换次数。
 
 ---
 
@@ -876,7 +876,7 @@ AI4EDA    █ 模板库搭建 ████████████████�
 - 元拓扑-SDI化合键代数架构——3基底+5化合键的闭合代数系统
 - 拓扑自由能原理——引入统计物理，赋予液态硬件自组织优化的理论内核
 - Kronecker分形扩展——从理论上破解互连扩展墙
-- TCC-11原语完备性定理（Theorem 3）的7场景覆盖验证
+- TCC-16原语完备性定理（Theorem 3）的7场景覆盖验证
 
 **学术影响**：预期在体系结构四大顶会（ISCA/HPCA/MICRO/ASPLOS）和信号处理顶刊发表论文≥5篇，推动TCC范式进入主流学术议程。
 
@@ -895,7 +895,7 @@ AI4EDA    █ 模板库搭建 ████████████████�
 | 阶段 | 产出 | 预期影响 |
 |------|------|---------|
 | 项目期内 | TCC-Edge液态硬件原型 + TCC-Link v1.0 | 吸引后续流片/产业化投资 |
-| 项目结束后1年 | 基于验证IP的28nm ASIC（扩展至TCC-11全集） | TRL-5 |
+| 项目结束后1年 | 基于验证IP的28nm ASIC（扩展至TCC-16全集） | TRL-5 |
 | 项目结束后2年 | TCC-Edge-ASIC产品原型 + 孵化公司 | 端侧AI推理/DBF双模市场 |
 | 远期 | SDSoW晶圆级液态硬件 | 下一代计算架构基础设施 |
 
@@ -928,7 +928,7 @@ AI4EDA    █ 模板库搭建 ████████████████�
 |------------|--------|---------|
 | **液态硬件FPGA原型验证** | FPGA唯一验证载体；可选流片为锦上添花 | ✅ 完全对齐 |
 | **兼容并超越UCIe的互连标准** | TCC-Link: L1/L2兼容UCIe 2.0 + L3(TR-ISA)/L4(原语事务)颠覆创新 | ✅ 完全对齐 |
-| **"3+1"极简MVP架构** | tcc.FUSE + tcc.GEMM + tcc.MAPS + tcc.LINK（TCC-11命名） | ✅ 完全对齐 |
+| **"3+1"极简MVP架构** | tcc.FUSE + tcc.GEMM + tcc.MAPS + tcc.LINK（TCC-16命名） | ✅ 完全对齐 |
 | **计算与信号处理双场景"合二为一"** | 场景A(AI) + 场景B(DBF+Route-Transform同构演示) + 场景C(切换压测) + 可视化大屏 | ✅ 超出 |
 | **NCCL/CUDA即插即用** | TCCL兼容层: NCCL/MPI/Gloo/FFTW全API兼容，零代码改造 | ✅ 超出 |
 | **"顶天立地"战略框架** | 显式"顶天立地"框架：理论深度（元拓扑/自由能/分形）+ 工程落地（FPGA/AI4EDA/双场景） | ✅ 战略级对齐 |
@@ -948,7 +948,7 @@ AI4EDA    █ 模板库搭建 ████████████████�
 6. Liu, Q. et al. "Route-Transform Decomposition: Toward a Unified Theory of Communication and Computation." iNEST TR, 2026.
 7. Liu, Q. et al. "Route ≡ Transform: On the Structural Isomorphism of Communication and Computation." iNEST TR, 2026.
 8. Liu, Q. et al. "Meta-Topology & SDI-Bond Algebra: The Mathematical Foundation of Reconfigurable Interconnects." iNEST TR, 2026.
-9. Liu, Q. et al. "TCC-11 Primitive Library v1.0: A Complete Specification for Topology-Centric Computing." iNEST TR, 2026.
+9. Liu, Q. et al. "TCC-16 Primitive Library v1.0: A Complete Specification for Topology-Centric Computing." iNEST TR, 2026.
 10. UCIe Consortium. "Universal Chiplet Interconnect Express (UCIe) 2.0 Specification." 2024.
 11. Rocki, K. et al. "Cerebras WSE-3: 4 Trillion Transistor Wafer-Scale Engine." *Hot Chips '24*, 2024.
 12. NVIDIA Corporation. "GB300 NVL72: NVLink 5 and NVSwitch 4 Architecture." Whitepaper, 2025.
@@ -967,7 +967,7 @@ AI4EDA    █ 模板库搭建 ████████████████�
 
 ---
 
-**Tags:** #NaaS #StrategicProposal #TCC #SDSoW #SDI #FPGA #LiquidHardware #Chiplet #TCC-11 #AI4EDA
+**Tags:** #NaaS #StrategicProposal #TCC #SDSoW #SDI #FPGA #LiquidHardware #Chiplet #TCC-16 #AI4EDA
 
 ## Related Notes
 

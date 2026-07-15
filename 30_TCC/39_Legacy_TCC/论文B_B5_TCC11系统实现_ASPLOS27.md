@@ -4,8 +4,8 @@ title: "论文B B5 TCC11系统实现 ASPLOS27"
 created: 2026-07-14
 modified: 2026-07-14
 ---
-# 论文B（B5）：TCC-11系统实现与评测
-# Paper B (B5): TCC-11 Minimal Complete Primitive Library for Liquid Hardware
+# 论文B（B5）：TCC-16系统实现与评测
+# Paper B (B5): TCC-16 Minimal Complete Primitive Library for Liquid Hardware
 # 目标：ASPLOS/MICRO 2027 April cycle | 截止：2027年4月15日
 # 状态：📋 框架完成，依赖T2/T3硬件与SDK完成
 
@@ -15,7 +15,7 @@ modified: 2026-07-14
 
 | 项目 | 内容 |
 |------|------|
-| **标题** | TCC-11: A Minimal Complete Primitive Library for Liquid Hardware — Design, SDK, and Evaluation across AI, HPC, and Signal Processing |
+| **标题** | TCC-16: A Minimal Complete Primitive Library for Liquid Hardware — Design, SDK, and Evaluation across AI, HPC, and Signal Processing |
 | **目标** | ASPLOS 2027 April cycle，或 MICRO 2027 |
 | **投稿截止** | 2027年4月15日 |
 | **论文类型** | 系统+实验，~14页 |
@@ -26,7 +26,7 @@ modified: 2026-07-14
 
 ## Abstract（草稿）
 
-We present TCC-11, a hardware-software co-designed primitive library for network-centric computing that unifies AI inference, high-performance computing, and signal processing on a single reconfigurable substrate. TCC-11 comprises 11 orthogonal primitives — 4 communication (FUSE, PULL, CAST, SWAP), 4 computation (GEMM, FOLD, MAPS, SCAN), 1 data movement (MOVE), and 2 control (LINK, TICK) — implemented as synthesizable RTL IP cores totaling 25,847 lines of SystemVerilog. We co-design an SDK featuring automatic mapping from NCCL, MPI-4.0, BLAS-L3, and FFTW APIs, a graph compiler with topology-aware primitive fusion, and an MLIR-based compilation flow from PyTorch/JAX to TCC hardware. On a 4-node VCK190 FPGA prototype, TCC-11 achieves: (1) Gemma-4 E2B INT4 inference at 5.2 tokens/s with ≤1 μs scene switching; (2) 4×720p YOLOv8-s detection at 24 FPS; (3) 16-channel 1024-point complex FFT + CFAR at 800 ns per pulse; (4) existing PyTorch DDP training scripts running unmodified via NCCL compatibility shim with <5% overhead.
+We present TCC-16, a hardware-software co-designed primitive library for network-centric computing that unifies AI inference, high-performance computing, and signal processing on a single reconfigurable substrate. TCC-16 comprises 11 orthogonal primitives — 4 communication (FUSE, PULL, CAST, SWAP), 4 computation (GEMM, FOLD, MAPS, SCAN), 1 data movement (MOVE), and 2 control (LINK, TICK) — implemented as synthesizable RTL IP cores totaling 25,847 lines of SystemVerilog. We co-design an SDK featuring automatic mapping from NCCL, MPI-4.0, BLAS-L3, and FFTW APIs, a graph compiler with topology-aware primitive fusion, and an MLIR-based compilation flow from PyTorch/JAX to TCC hardware. On a 4-node VCK190 FPGA prototype, TCC-16 achieves: (1) Gemma-4 E2B INT4 inference at 5.2 tokens/s with ≤1 μs scene switching; (2) 4×720p YOLOv8-s detection at 24 FPS; (3) 16-channel 1024-point complex FFT + CFAR at 800 ns per pulse; (4) existing PyTorch DDP training scripts running unmodified via NCCL compatibility shim with <5% overhead.
 
 ---
 
@@ -35,7 +35,7 @@ We present TCC-11, a hardware-software co-designed primitive library for network
 | 章节 | 内容 | 篇幅 | 依赖 | 状态 |
 |------|------|------|------|------|
 | §1 Introduction | 液态硬件概念；跨场景统一的必要性 | 1页 | — | ⬜ |
-| §2 TCC-11 Spec | 形式化规范（引用论文A，精简版）| 1.5页 | 论文A | ⬜ |
+| §2 TCC-16 Spec | 形式化规范（引用论文A，精简版）| 1.5页 | 论文A | ⬜ |
 | §3 Hardware Arch | 11 IP核微架构：GEMM脉动阵列、SCAN前缀树、SDI控制器 | 2.5页 | T2完成 | ⬜ |
 | §4 SDK & Compiler | NCCL/MPI/BLAS/FFTW映射；MLIR Dialect；3个编译pass | 2.5页 | T3-1~4 | ⬜ |
 | §5 Evaluation | 四场景实验数据（LLM/Video/Radar/DDP overhead）| 3页 | T2-9 | ⬜ |
@@ -171,7 +171,7 @@ TCC-WSE（Wafer-Scale Integration for TCC）是将TCC液态拓扑原理实现于
 │               晶圆上层：原语芯粒（Chiplet）阵列             │
 │  ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐                     │
 │  │Type-F│ │Type-C│ │Type-F│ │Type-S│  × 1,000–10,000颗   │
-│  │TCC-11│ │GEMM+ │ │TCC-11│ │SCAN+ │  ← 按场景选颗粒度    │
+│  │TCC-16│ │GEMM+ │ │TCC-16│ │SCAN+ │  ← 按场景选颗粒度    │
 │  │完整版│ │FOLD  │ │完整版│ │MAPS  │                     │
 │  └──┬───┘ └──┬───┘ └──┬───┘ └──┬───┘                     │
 │     │        │        │        │                          │

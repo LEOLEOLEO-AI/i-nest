@@ -593,7 +593,7 @@ tags:
 | 时间 | 交付物 | 验收标准 |
 |------|--------|---------|
 | 2027 Q4 | TCC-FPGA-v1双节点SDIoN互通 | ping-pong<200ns |
-| 2028 Q1 | TCC-11 RTL IP核v1.0 (5 NPC+2 CPC) | Verilator覆盖>95% |
+| 2028 Q1 | TCC-16 RTL IP核v1.0 (5 NPC+2 CPC) | Verilator覆盖>95% |
 | 2028 Q2 | TCC-FPGA-v2 4节点全原语 | AllReduce<100ns |
 | 2028 Q3 | SDI控制器RTL完成 | 与NDSC SDI-X2联调通过 |
 | 2028 Q4 | TCC-FPGA-v3 + TCC-Edge-1产品Demo | AI+DBF双场景演示 |

@@ -285,7 +285,7 @@ Phase 0: 理论验证+仿真          Phase 1: MVP产品化            Phase 2: 
 2026-2027                       2027-2029                     2029-2031
 ┌──────────────────┐           ┌──────────────────┐          ┌──────────────────┐
 │ • SDI FPGA原型    │   ──→    │ • TCC-Edge-1板卡  │   ──→   │ • TCC Chiplet流片 │
-│ • TCC-11 Simulator│           │ • TCCL编译器v1.0  │          │ • 128节点系统     │
+│ • TCC-16 Simulator│           │ • TCCL编译器v1.0  │          │ • 128节点系统     │
 │ • CopyTCC验证     │           │ • 3场景验证       │          │ • SDIO-N协议     │
 │ • 论文+专利布局   │           │ • 开源SDK v1.0    │          │ • 开源栈v2.0     │
 │ 经费: ~500万      │           │ 经费: ~1700万     │          │ 经费: ~5000万    │
@@ -315,7 +315,7 @@ Phase 3: 晶圆级SDSoW               Phase 4: 生态构建
 | M0.3 | SDI架构论文 | 中国科学：信息科学 | 2027 Q1 |
 | M0.4 | CopyTCC: Γst=1架构设计 | ASPLOS/ISCA投稿 | 2027 Q2 |
 | M0.5 | 专利A+B递交 | 国家知识产权局 | 2026 Q3 |
-| M0.6 | TCC-11 Simulator v1.0 | 开源仿真平台 | 2027 Q1 |
+| M0.6 | TCC-16 Simulator v1.0 | 开源仿真平台 | 2027 Q1 |
 | M0.7 | SDI FPGA原型（单节点） | VCK190原型+性能基线 | 2027 Q2 |
 
 **资源配置**：
@@ -341,7 +341,7 @@ Phase 3: 晶圆级SDSoW               Phase 4: 生态构建
 
 | 模块 | 内容 | 负责人 | 时间 |
 |------|------|--------|------|
-| TCC-11 RTL IP核（首批5个NPC） | FPGA RTL实现，Verilator验证 | 硬件团队 | 2027 Q3-Q4 |
+| TCC-16 RTL IP核（首批5个NPC） | FPGA RTL实现，Verilator验证 | 硬件团队 | 2027 Q3-Q4 |
 | TCCL兼容层 | PyTorch c10d后端，TCCL通信库 | 软件团队 | 2028 Q1 |
 | SDI控制器 | AXI寄存器映射+DMA引擎+中断处理 | 硬件团队 | 2028 Q1-Q2 |
 | TCC Graph Compiler v0.1 | 原语融合pass+拓扑调度pass | 编译团队 | 2028 Q3 |
@@ -436,7 +436,7 @@ Phase 3: 晶圆级SDSoW               Phase 4: 生态构建
 
 ## 5. 核心IP开发矩阵：基础IP→关键模块→关键系统→新一代计算平台
 
-### 5.1 基础IP层：TCC-11原语RTL核
+### 5.1 基础IP层：TCC-16原语RTL核
 
 | IP核 | 功能 | 面积 (等效门) | 延迟 | 功耗 | 开发优先级 |
 |------|------|-------------|------|------|-----------|
@@ -530,7 +530,7 @@ Phase 3: 晶圆级SDSoW               Phase 4: 生态构建
 
 | 编号 | 课题名称 | 研究内容 | 产出 | 周期 |
 |------|---------|---------|------|------|
-| **TJU-01** | TCC-11原语RTL IP核的FPGA实现与验证 | 5个NPC+4个CPC的RTL设计，Verilator/FPGA验证 | RTL IP核库 + 1篇DAC/ISCA | 2026-2029 |
+| **TJU-01** | TCC-16原语RTL IP核的FPGA实现与验证 | 5个NPC+4个CPC的RTL设计，Verilator/FPGA验证 | RTL IP核库 + 1篇DAC/ISCA | 2026-2029 |
 | **TJU-02** | SDIoN微架构优化：流水线深度与缓冲策略 | SDIoN关键路径优化，纳秒级拓扑切换 | 1篇MICRO/HPCA | 2027-2029 |
 | **TJU-03** | TCC-Edge-1系统集成与端侧场景验证 | 板卡设计，多路AI+DBF Demo | 产品原型 + 1篇MobiCom/ISLPED | 2027-2029 |
 | **TJU-04** | TCC Chiplet的多芯粒互连与热管理 | UCIe互连优化，热-电协同仿真 | 1篇DAC/ISCA | 2029-2031 |
@@ -625,7 +625,7 @@ Phase 0-1 (2026-2029)          Phase 2 (2029-2031)          Phase 3-4 (2031+)
 │  TCC Runtime / SDI Driver / SDIO-N Protocol    │
 ├────────────────────────────────────────────────┤
 │              硬件层 (Hardware)                   │
-│  TCC-11 IP Cores / SDIoN Fabric / Chiplet       │
+│  TCC-16 IP Cores / SDIoN Fabric / Chiplet       │
 │  FPGA / ASIC / SDSoW / Silicon Photonics        │
 └────────────────────────────────────────────────┘
 ```
@@ -640,7 +640,7 @@ Phase 0-1 (2026-2029)          Phase 2 (2029-2031)          Phase 3-4 (2031+)
 | TCC Simulator | Apache 2.0 | ~20K行 | 2027 Q1 |
 | TCC Graph Compiler | Apache 2.0 | ~10K行 | 2028 Q3 |
 | TCCL Communication Lib | Apache 2.0 | ~8K行 | 2028 Q1 |
-| TCC-11 RTL IP Cores | CERN-OHL-P | ~25K行 | 2029 Q3 |
+| TCC-16 RTL IP Cores | CERN-OHL-P | ~25K行 | 2029 Q3 |
 | SDIO-N Protocol Spec | CC-BY 4.0 | 文档 | 2029 Q3 |
 
 #### 7.3.3 产业生态
@@ -706,7 +706,7 @@ Phase 0-1 (2026-2029)          Phase 2 (2029-2031)          Phase 3-4 (2031+)
 2028 H1  ─── TCCL兼容层, SDI控制器, TCC-Edge-1硬件设计完成
 2028 H2  ─── TCC-Edge-1 Demo (场景A+B), Graph Compiler v0.1
 2029 H1  ─── TCC-SDK v1.0, MLIR Dialect设计完成
-2029 H2  ─── 全栈开源, TCC-11 RTL IP核发布
+2029 H2  ─── 全栈开源, TCC-16 RTL IP核发布
 2030     ─── TCC Chiplet tape-out (7nm), SDIO-N协议v1.0
 2031     ─── TCC-128集群验证, Chiplet bring-up
 2032-33  ─── 晶圆级SDSoW原型

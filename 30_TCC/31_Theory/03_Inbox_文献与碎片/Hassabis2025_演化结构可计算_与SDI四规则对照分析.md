@@ -141,8 +141,8 @@ Rule2提供探索噪声，防止陷入局部最优——对应变分推断中的
 - FEATHER通过"布局重排融入计算"消除了切换代价
 
 **对iNEST的借鉴**：
-1. **直接验证Route≡Transform定理**：FEATHER证明了"拓扑/数据流切换可以几乎零代价"——这正是TCC-11的核心假设。FEATHER是在固定芯片上实现的，iNEST的SDI化合键在物理互连层实现，理论上开销更低。
-2. **Nest阵列 ↔ TCC-11原语集**：FEATHER的Nest空间阵列本质上是一套多态计算原语，和TCC-11的11个正交原语高度同构——可以借鉴其数据布局分析框架（Layoutloop）用于TCC原语的性能建模。
+1. **直接验证Route≡Transform定理**：FEATHER证明了"拓扑/数据流切换可以几乎零代价"——这正是TCC-16的核心假设。FEATHER是在固定芯片上实现的，iNEST的SDI化合键在物理互连层实现，理论上开销更低。
+2. **Nest阵列 ↔ TCC-16原语集**：FEATHER的Nest空间阵列本质上是一套多态计算原语，和TCC-16的11个正交原语高度同构——可以借鉴其数据布局分析框架（Layoutloop）用于TCC原语的性能建模。
 3. **工程路径参考**：FEATHER在ZCU104 FPGA上实现，吞吐比Xilinx DPU高2.65×——为iNEST Gen1 FPGA原型提供了参考基准和工程路径。
 
 ### 文献2：海马-后扣带皮层通信子空间（Nature 2026）

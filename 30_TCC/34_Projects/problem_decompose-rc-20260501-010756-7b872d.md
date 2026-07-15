@@ -15,13 +15,13 @@ title: 'Stage 02: Problem Decompose'
 # Stage 02: Problem Decompose
 
 # Route≡Transform: Research Decomposition
-## Isomorphism Between Communication and Computation Primitives — TCC-11 Completeness and Minimality
+## Isomorphism Between Communication and Computation Primitives — TCC-16 Completeness and Minimality
 
 ---
 
 ## Source
 
-**Research Goal Document**: *Route≡Transform: Formal Isomorphism between Communication Primitives and Computation Primitives on Reconfigurable Interconnect Fabrics for Topology-Centric Computing — Completeness and Minimality of the TCC-11 Primitive Set*
+**Research Goal Document**: *Route≡Transform: Formal Isomorphism between Communication Primitives and Computation Primitives on Reconfigurable Interconnect Fabrics for Topology-Centric Computing — Completeness and Minimality of the TCC-16 Primitive Set*
 **Project**: iNEST-TCC-Research | **Draft Stage**: Stage 01 (unverified — benchmark names and SOTA claims are LLM-generated estimates pending literature verification)
 **Decomposition Date**: 2025-07-14
 
@@ -53,15 +53,15 @@ title: 'Stage 02: Problem Decompose'
 
 ---
 
-### SQ-2 — Completeness and Minimality: Is TCC-11 a Functionally Complete and Irredundant Generating Set?
+### SQ-2 — Completeness and Minimality: Is TCC-16 a Functionally Complete and Irredundant Generating Set?
 
-**Full Statement**: Given the algebraic structure established in SQ-1, is the TCC-11 primitive set (a) **complete** — meaning every distributed ML dataflow computation expressible over a reconfigurable interconnect can be represented as a finite composition of TCC-11 primitives — and (b) **minimal** — meaning no proper subset of TCC-11 is itself complete? If TCC-11 is not minimal, what is the smallest complete subset S ⊆ TCC-11, and what is |S|? If TCC-11 is not complete, what is the smallest extension that achieves completeness?
+**Full Statement**: Given the algebraic structure established in SQ-1, is the TCC-16 primitive set (a) **complete** — meaning every distributed ML dataflow computation expressible over a reconfigurable interconnect can be represented as a finite composition of TCC-16 primitives — and (b) **minimal** — meaning no proper subset of TCC-16 is itself complete? If TCC-16 is not minimal, what is the smallest complete subset S ⊆ TCC-16, and what is |S|? If TCC-16 is not complete, what is the smallest extension that achieves completeness?
 
-**Motivation**: This is the central technical contribution. The analogy to Boolean functional completeness (NAND sufficiency, Post's theorem for clone theory) is precise and productive: Post's lattice classifies all clones of Boolean functions by their closure properties, and an analogous classification for distributed dataflow primitives does not exist. The question has immediate engineering stakes — if TCC-11 contains redundant primitives, implementations are carrying unnecessary complexity; if it is incomplete, deployed TCC systems have silent expressiveness gaps.
+**Motivation**: This is the central technical contribution. The analogy to Boolean functional completeness (NAND sufficiency, Post's theorem for clone theory) is precise and productive: Post's lattice classifies all clones of Boolean functions by their closure properties, and an analogous classification for distributed dataflow primitives does not exist. The question has immediate engineering stakes — if TCC-16 contains redundant primitives, implementations are carrying unnecessary complexity; if it is incomplete, deployed TCC systems have silent expressiveness gaps.
 
 **Key Sub-tasks**:
-- **Completeness proof strategy**: Define the target class of computations (distributed ML dataflow graphs) formally as a language or category; attempt to show TCC-11 generates this class under composition. Likely approach: show that any dataflow graph node can be simulated by a bounded composition of TCC-11 primitives, using a normal-form argument
-- **Minimality proof strategy**: For each primitive p ∈ TCC-11, attempt to express p as a com
+- **Completeness proof strategy**: Define the target class of computations (distributed ML dataflow graphs) formally as a language or category; attempt to show TCC-16 generates this class under composition. Likely approach: show that any dataflow graph node can be simulated by a bounded composition of TCC-16 primitives, using a normal-form argument
+- **Minimality proof strategy**: For each primitive p ∈ TCC-16, attempt to express p as a com
 
 ... (truncated, see full artifact)
 
