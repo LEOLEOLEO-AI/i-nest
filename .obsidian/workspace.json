@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12be0295476212f5",
+        "id": "fd10424891078acc",
         "type": "tabs",
         "children": [
           {
-            "id": "39c3a39345de06cb",
+            "id": "135d4c961d817daa",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,67 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "02_DeepSeek_Insights",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/02_DeepSeek_Insights.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"02_DeepSeek_Insights\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "04_Daily_Focus",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/04_Daily_Focus.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"04_Daily_Focus\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "03_Daily_Action_2026-07-15",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/03_Daily_Action_2026-07-15.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"03_Daily_Action_2026-07-15\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "03_Daily_Action",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/03_Daily_Action.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"03_Daily_Action\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "02_DeepSeek_Insights",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/02_DeepSeek_Insights.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"02_DeepSeek_Insights\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "00_Diagnostic_Report",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/00_Diagnostic_Report.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_Diagnostic_Report\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "02_DeepSeek_Insights",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/02_DeepSeek_Insights.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"02_DeepSeek_Insights\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":49.62890625}"
-                },
-                {
-                  "title": "LINKAGE_GUIDE",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_System/LINKAGE_GUIDE.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"LINKAGE_GUIDE\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":57.86346726190476}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50_Output/51_Papers/B7_OneFabric-Memory_论文计划.md",
+                "file": "50_Output/51_Papers/00_论文总清单.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -91,34 +37,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "B7_OneFabric-Memory_论文计划"
-            }
-          },
-          {
-            "id": "fb0687182a8d29f1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/OneFabric-Memory%20%E7%BB%9F%E4%B8%80%E5%86%85%E5%AD%98%E4%B8%8E%E7%BD%91%E7%BB%9C%E8%AF%AD%E4%B9%89%E6%9E%B6%E6%9E%84.md",
-                "title": "127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/OneFabric-Memory 统一内存与网络语义架构.md",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/OneFabric-Memory 统一内存与网络语义架构.md"
+              "title": "00_论文总清单"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -425,8 +347,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fb0687182a8d29f1",
+  "active": "135d4c961d817daa",
   "lastOpenFiles": [
+    "50_Output/51_Papers/论文A_B7_Route-Transform_ASPLOS27_Full.md",
+    "60_MOC/02_DeepSeek_Insights.md",
     "50_Output/51_Papers/B7_TCC_OneFabric_论文计划.md",
     "50_Output/54_Code/TCC/TCC_OneFabric 统一内存与网络语义架构.md",
     "50_Output/54_Code/TCC/TCC_OneFabric_TCC16_工程落地方案_v1.0.md",
@@ -451,8 +375,6 @@
     "40_iNEST/41_Theory/2026-07-01-2606.31789.md",
     "40_iNEST/41_Theory/2026-07-01-2606.31588.md",
     "40_iNEST/41_Theory/2026-07-01-2606.30676.md",
-    "40_iNEST/41_Theory/2026-07-01-2604.19682.md",
-    "40_iNEST/41_Theory/2026-07-01-2509.03632.md",
     "90_System/scripts/refresh_dashboard.py",
     "80_Archive/deprecated_naming_conventions",
     "20_Processing/getnote_external",
