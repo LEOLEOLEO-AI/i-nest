@@ -55,3 +55,4 @@ modified: 2026-07-15
 - [[CST_RG_Paper_Draft_v0.5]]
 - [[Submission_Package_2026-06-04]]
 - [[Workflow_Engine_SOP]]
+- [[CST_RG_Paper_v1.0]]

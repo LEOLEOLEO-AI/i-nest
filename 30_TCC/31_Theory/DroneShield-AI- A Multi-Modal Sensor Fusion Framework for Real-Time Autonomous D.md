@@ -34,3 +34,4 @@ Unmanned Aerial Vehicle (UAV) threats have emerged as a defining security challe
 - [[Quantum Statistics and Structural Topology Govern Thermal Transport in Two-Dimen]]
 - [[Feature leakage and the identifiability of direct-dependency entropy models of n]]
 - [[Synchronization of topological signals in higher-order adaptive multilayer netwo]]
+- [[Short-Term Synaptic Plasticity Stabilizes Goal-Conditioned Dynamics in a PFC-Ins]]

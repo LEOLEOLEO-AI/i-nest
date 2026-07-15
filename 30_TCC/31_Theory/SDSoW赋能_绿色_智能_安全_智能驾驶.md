@@ -37,3 +37,5 @@ SDSoW赋能“绿色+智能+安全”智能驾驶
 - [[云科普-智能网联汽车发展现状与对策建议_-_知乎]]
 - [[cooperation_plan_SDSoC_TCC_iNAS]]
 - [[software_defined_chiplet_system_cooperation_plan]]
+- [[software_defined_chiplet_system_cooperation_plan_1444]]
+- [[software_defined_economic_computing_cooperation_plan]]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T16:22:25.905299",
+  "timestamp": "2026-07-15T16:22:53.272396",
   "dimensions": {
     "digestion": {
       "score": 100,
@@ -19,7 +19,7 @@
     },
     "git_sync": {
       "score": 30,
-      "uncommitted_files": 202
+      "uncommitted_files": 164
     },
     "output": {
       "score": 85,
@@ -43,7 +43,7 @@
   },
   "overall": 65.6,
   "alerts": [
-    "202 uncommitted files"
+    "164 uncommitted files"
   ],
   "recommendations": [
     "Run git commit+push to sync changes",

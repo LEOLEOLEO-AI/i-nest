@@ -129,3 +129,4 @@ LPU还可用于加速推测式解码架构：在LPU上部署小型草稿模型�
 - [[GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查]]
 - [[software_defined_chiplet_system_cooperation_plan_1444]]
 - [[cooperation_plan_SDSoC_TCC_iNAS]]
+- [[GetNote_20260606_100554_kb_patent_getnote_1907743949763445776_一种基于正交原语集与拓扑融合变换的网络复杂度计算方法及系统]]

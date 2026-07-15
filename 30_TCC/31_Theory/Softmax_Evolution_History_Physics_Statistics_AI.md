@@ -130,3 +130,4 @@ softmax是跨学科演化的典型范例：同一个数学公式在三个完全�
 - [[GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景]]
 - [[getnote_2026-06-15_能量函数驱动神经网络设计]]
 - [[BDH_brain-inspired_AI_architecture_analysis]]
+- [[GetNote_20260606_100554_kb_iNEST_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景]]

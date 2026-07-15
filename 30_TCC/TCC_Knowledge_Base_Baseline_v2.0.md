@@ -419,3 +419,4 @@ v2.0 C=Control:    LINK/TICK/SYNC/MOVE             (不变)
 - [[tcc_first_principles]]
 - [[tcc_core_principles_pptx]]
 - [[getnote_2026-07-02_项目简介]]
+- [[tcc_paper_background]]

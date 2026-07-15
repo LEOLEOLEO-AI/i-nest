@@ -48,3 +48,4 @@ iNEST(Intelligence Emerging from Network Spatiotemporal Synergy Theory)理论构
 - [[青年人才班AI第一性]]
 - [[getnote_2026-01-25_清华团队类脑计算突破]]
 - [[TCC 计算范式 — 全景导航 (Map of Content)]]
+- [[CST]]

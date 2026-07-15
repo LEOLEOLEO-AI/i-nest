@@ -138,3 +138,5 @@ $$CST = (S_c \cdot T_c) \cdot e^{\alpha \cdot \Gamma_{st}}$$
 - [[08_SDI化合物键_四型架构]]
 - [[From Compute to Complexity- A Physical Theory of Intelligence Emergence]]
 - [[08_NCL神经计算定律详解]]
+- [[SOC_SF-SW_Concurrent_Criticality]]
+- [[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]

@@ -209,3 +209,4 @@ V(C,T,R,S,M) ≈ k · CST · η(config)
 - [[getnote_2026-06-27_智能涌现理论框架]]
 - [[nonlinear_gain_topology_programming]]
 - [[TCC超非线性增益_研究进展与数学证明路线图_v1.0]]
+- [[CST_Theory_Framework_统一表述]]

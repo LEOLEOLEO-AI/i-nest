@@ -193,3 +193,5 @@ foundations are ready for engineering transition to FPGA prototype."
 - [[CST_RG_Paper_v1.0]]
 - [[CST_RG_PRL_Cover_Letter]]
 - [[Submission_Package_2026-06-04]]
+- [[2026-06-20_TCC_arXiv_Observation of electroweak production of pairs of Z bosons i]]
+- [[2026-05-30_The Structure and Function of Complex Networks]]
