@@ -1,28 +1,66 @@
 {
-  "updated": "2026-07-14T21:00:49.031652",
-  "total": 5135,
-  "tcc": 2679,
-  "inest": 1739,
-  "inbox": 12,
-  "papers": 175,
-  "patents": 37,
-  "guides": 5,
-  "dirs": {
-    "00_Inbox": 12,
-    "30_TCC": 2679,
-    "40_iNEST": 1738,
-    "50_Output": 420,
-    "60_MOC": 23,
-    "80_Archive": 141,
-    "90_System": 113,
-    "99_Meta": 1,
-    "Home.md": 1,
-    "MEMORY.md": 1,
-    "README.md": 1,
-    "RULES.md": 1,
-    "SOUL.md": 1,
-    "USER.md": 1,
-    "V25投稿修改执行计划.md": 1,
-    "V25论文全面系统审查.md": 1
-  }
+  "generated": "2026-07-15 17:19",
+  "date": "2026-07-15",
+  "counts": {
+    "total": 3816,
+    "tcc": 1876,
+    "inest": 1379,
+    "inbox": 0,
+    "papers": 159,
+    "patents": 36,
+    "guides": 81,
+    "code": 115
+  },
+  "tcc_breakdown": {
+    "31_Theory": 504,
+    "32_Tech": 1134,
+    "33_Dev": 5,
+    "34_Projects": 131,
+    "35_Simulation": 64,
+    "39_Legacy_TCC": 35,
+    "Code": 0,
+    "Papers": 0
+  },
+  "inest_breakdown": {
+    "31_Theory": 0,
+    "32_Tech": 0,
+    "33_Dev": 0,
+    "34_Projects": 0,
+    "35_Simulation": 0,
+    "41_Theory": 843,
+    "42_Tech": 429,
+    "43_Dev": 0,
+    "43_Engineering": 20,
+    "44_Dev": 0,
+    "44_Projects": 41,
+    "45_Simulation": 41,
+    "Papers": 1
+  },
+  "tasks": [],
+  "key_links": {
+    "task_plan": "60_MOC/01_TCC_Baseline_Task_Plan.md",
+    "research_insights": "60_MOC/02_Research_Insights.md",
+    "baseline": "30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md",
+    "paper_index": "50_Output/51_Papers/00_Paper_Versions_Index.md",
+    "output_panorama": "60_MOC/TCC_iNEST_????.md",
+    "diagnostic": "60_MOC/00_Diagnostic_Report.md",
+    "upgrade_blueprint": "60_MOC/10_Paradigm_Upgrade_Blueprint.md"
+  },
+  "critical_tasks": [
+    {
+      "id": "T1.1a",
+      "name": "?????????????",
+      "deadline": "2026 Q3"
+    },
+    {
+      "id": "T2.1",
+      "name": "TCC????????",
+      "deadline": "2026 Q3"
+    },
+    {
+      "id": "M2",
+      "name": "???MVP (R.*+T.* RTL??)",
+      "deadline": "2027.06"
+    }
+  ]
 }

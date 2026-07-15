@@ -93,8 +93,32 @@
               "icon": "lucide-file",
               "title": "B7_OneFabric-Memory_论文计划"
             }
+          },
+          {
+            "id": "fb0687182a8d29f1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/OneFabric-Memory%20%E7%BB%9F%E4%B8%80%E5%86%85%E5%AD%98%E4%B8%8E%E7%BD%91%E7%BB%9C%E8%AF%AD%E4%B9%89%E6%9E%B6%E6%9E%84.md",
+                "title": "127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/OneFabric-Memory 统一内存与网络语义架构.md",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/OneFabric-Memory 统一内存与网络语义架构.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -373,7 +397,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 576.5
+    "width": 576.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -400,8 +425,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "39c3a39345de06cb",
+  "active": "fb0687182a8d29f1",
   "lastOpenFiles": [
+    "60_MOC/01_TCC_Baseline_Task_Plan.md",
+    "50_Output/51_Papers/B7_OneFabric-Memory_论文计划.md",
     "80_Archive/deprecated_naming_conventions/TCC原语规范_v30最终版_权威定义.md",
     "80_Archive/deprecated_naming_conventions/TCC 原语库 v1.0 最终版规范.md",
     "80_Archive/deprecated_naming_conventions/getnote_20260420_TCC 原语库 v1.0 最终版规范.md",
@@ -427,8 +454,6 @@
     "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1897375963134821008_DARPA_水晶宫计划_深度研究报告_塑造下一代军用微系统材料变革.md",
     "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896237056993193136_美国军用无人系统技术_2010-2025__创新趋势与实战应用研究.md",
     "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896236967872621744_全球集成传感技术在军事领域的发展现状与趋势研究报告.md",
-    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896236804663837592_DARPA重塑未来战争形态_空天_太空与高超音速领域战略布局深度分析.md",
-    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186120829089320_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径.md",
     "20_Processing/getnote_external",
     "90_System/scripts/ncc_to_tcc.py",
     "90_System/scripts/paper_classifier.py",

@@ -1,4 +1,4 @@
-﻿---
+---
 cssclass: dashboard
 ---
 
@@ -22,6 +22,20 @@ cssclass: dashboard
 | 🚀 升级蓝图 | [10_Paradigm_Upgrade_Blueprint](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/10_Paradigm_Upgrade_Blueprint.md) |
 
 ---
+
+---
+
+## 🎯 当前任务计划 · 自进化闭环
+
+| 模块 | 入口 | 刷新 |
+|------|------|:--:|
+| 📋 **TCC基线任务** | [01_Task_Plan](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/01_TCC_Baseline_Task_Plan.md) | 每日 |
+| 🧠 **研究洞察** | [02_Research_Insights](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/02_Research_Insights.md) | 每日 |
+| 🔥 **今日焦点** | [04_Daily_Focus](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/04_Daily_Focus.md) | 每日 |
+| 📊 **成果全景** | [TCC_iNEST_全景](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/TCC_iNEST_成果全景.md) | 每周 |
+| 📐 **理论基线** | [TCC_Baseline_v2.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md) | 锁定 |
+
+> **自进化闭环**: 基线 v2.0 → 任务计划 → 每日焦点 → 执行 → 成果全景 → 回写基线
 
 ## 🧠 双轨研发总览
 
