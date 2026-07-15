@@ -197,3 +197,9 @@ V(C,T,R,S,M) ≈ k · CST · η(config)
 
 ---
 *初稿 2026-07-15 | 基于诊断报告 P0 优先级*
+
+---
+## 相关链接
+- [[getnote_2026-06-27_智能涌现理论框架]]
+- [[nonlinear_gain_topology_programming]]
+- [[TCC超非线性增益_研究进展与数学证明路线图_v1.0]]

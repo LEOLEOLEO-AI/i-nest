@@ -537,3 +537,4 @@ iNEST强调“网络时空协同复杂度”跨阈值后才会出现智能涌现
 - [[From Compute to Complexity- A Physical Theory of Intelligence Emergence]]
 - [[为何CST中要用指数]]
 - [[From Compute to Complexity- A Physical Theory of Intelligence Emergence and Its Implicatio]]
+- [[CST_Experiment_Alignment_Diagnosis]]

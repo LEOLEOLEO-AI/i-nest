@@ -187,3 +187,5 @@ kb:
 - [[GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订]]
 - [[GetNote_20260606_100554_kb_paper-ideas_getnote_1903941287724843544_Universal Scaling Laws for Intelligence Emergence from Devic]]
 - [[getnote_2026-06-20_getnote_2026-06-19_大脑任务切换的神经机制__整洁_框架与_杂乱_现实的整合研究]]
+- [[getnote_2025-02-08_大脑的量子纠缠与信息动力学]]
+- [[Non-ideal_effects_in_artificial_synapses_Nature_Reviews_Physics_2026]]

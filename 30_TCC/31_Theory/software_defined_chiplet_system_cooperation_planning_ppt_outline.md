@@ -136,3 +136,7 @@ kb:
 [[超非线性增益]]
 [[paper1_iNEST_core_architecture]]
 [[NCL神经计算定律详解]]
+- [[software_defined_chiplet_system_cooperation_plan_ppt_outline]]
+- [[software_defined_economic_computing_cooperation_plan]]
+- [[software_defined_chiplet_system_cooperation_plan_1444]]
+- [[cooperation_plan_SDSoC_TCC_iNAS]]

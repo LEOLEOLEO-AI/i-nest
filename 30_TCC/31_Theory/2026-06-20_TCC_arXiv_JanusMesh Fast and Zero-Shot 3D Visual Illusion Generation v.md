@@ -35,3 +35,4 @@ Creating 3D visual illusions, a single 3D mesh that reveals entirely different s
 - [[2026-06-20_TCC_arXiv_Observation of electroweak production of pairs of Z bosons i]]
 - [[2026-06-20_iNEST_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me]]
 - [[2026-06-20_TCC_arXiv_Thinking in Boxes 3D Editing in Real Images Made Easy]]
+- [[2026-06-22_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction]]

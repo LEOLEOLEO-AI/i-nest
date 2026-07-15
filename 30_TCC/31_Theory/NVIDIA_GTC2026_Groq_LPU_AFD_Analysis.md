@@ -124,3 +124,8 @@ LPU还可用于加速推测式解码架构：在LPU上部署小型草稿模型�
 [[paper1_iNEST_core_architecture]]
 [[FPGA原型]]
 [[SDI化合物键_四型架构]]
+- [[BDH_brain-inspired_AI_architecture_analysis]]
+- [[GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查]]
+- [[software_defined_chiplet_system_cooperation_plan_1444]]
+- [[cooperation_plan_SDSoC_TCC_iNAS]]

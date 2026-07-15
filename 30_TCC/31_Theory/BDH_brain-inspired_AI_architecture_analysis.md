@@ -131,3 +131,8 @@ BDH的论文标题直接定名为《龙宝宝：Transformer和大脑模型之间
 [[自组织临界态SOC]]
 [[SDI化合物键_四型架构]]
 [[paper1_iNEST_core_architecture]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
+- [[software_defined_chiplet_system_cooperation_plan_1444]]
+- [[NVIDIA_GTC2026_Groq_LPU_AFD_Analysis]]
+- [[cooperation_plan_SDSoC_TCC_iNAS]]

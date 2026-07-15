@@ -1,21 +1,21 @@
 {
-  "generated": "2026-07-15T14:41:57.851546",
+  "generated": "2026-07-15T16:20:56.004033",
   "date": "2026-07-15",
   "vault": {
-    "total_md": 3883,
-    "tcc_total": 1984,
-    "tcc_theory": 508,
+    "total_md": 3881,
+    "tcc_total": 2012,
+    "tcc_theory": 536,
     "tcc_tech": 0,
     "tcc_eng": 0,
-    "inest_total": 1330,
-    "inest_theory": 784,
+    "inest_total": 1391,
+    "inest_theory": 845,
     "inest_tech": 0,
     "inest_eng": 20
   },
   "inbox": {
-    "new_24h": 2,
-    "pending": 12,
-    "processing": 79
+    "new_24h": 0,
+    "pending": 0,
+    "processing": 0
   },
   "output": {
     "papers": 158,
@@ -62,88 +62,88 @@
       "size": 10157
     },
     {
-      "name": "2026-06-24-2511.08065.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-24-2511.08065.md",
+      "name": "1plus1gt2_Mathematical_Proof_Framework.md",
+      "path": "30_TCC\\39_Legacy_TCC\\1plus1gt2_Mathematical_Proof_Framework.md",
       "mtime": "21:12",
-      "size": 2849
+      "size": 16551
     },
     {
-      "name": "2026-06-24-2606.22109.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-24-2606.22109.md",
+      "name": "1plus1gt2_Proof_v3_Scale_Deep_2026-07-08.md",
+      "path": "30_TCC\\39_Legacy_TCC\\1plus1gt2_Proof_v3_Scale_Deep_2026-07-08.md",
       "mtime": "21:12",
-      "size": 2733
+      "size": 17797
     },
     {
-      "name": "2026-06-24-2606.24376.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-24-2606.24376.md",
+      "name": "1plus1gt2_Proof_v4_1_Rigorous_2026-07-08.md",
+      "path": "30_TCC\\39_Legacy_TCC\\1plus1gt2_Proof_v4_1_Rigorous_2026-07-08.md",
       "mtime": "21:12",
-      "size": 2768
+      "size": 17411
     },
     {
-      "name": "2026-06-25-2410.23876.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-25-2410.23876.md",
+      "name": "1plus1gt2_Proof_v4_TaskAgilityFocus_2026-07-08.md",
+      "path": "30_TCC\\39_Legacy_TCC\\1plus1gt2_Proof_v4_TaskAgilityFocus_2026-07-08.md",
       "mtime": "21:12",
-      "size": 2575
+      "size": 20656
     },
     {
-      "name": "2026-06-25-2604.21991.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-25-2604.21991.md",
+      "name": "A Paradigm Shift in Neuromorphic Engineering Meta-Topology, .md",
+      "path": "30_TCC\\39_Legacy_TCC\\A Paradigm Shift in Neuromorphic Engineering Meta-Topology, .md",
       "mtime": "21:12",
-      "size": 2846
+      "size": 32436
     },
     {
-      "name": "2026-06-25-2606.17775.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-25-2606.17775.md",
+      "name": "A12_CS_CST_MathBridge.md",
+      "path": "30_TCC\\39_Legacy_TCC\\A12_CS_CST_MathBridge.md",
       "mtime": "21:12",
-      "size": 2971
+      "size": 5806
     },
     {
-      "name": "2026-06-25-2606.25826.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-25-2606.25826.md",
+      "name": "A12_CS_CST_数学对接论文_框架.md",
+      "path": "30_TCC\\39_Legacy_TCC\\A12_CS_CST_数学对接论文_框架.md",
       "mtime": "21:12",
-      "size": 2825
+      "size": 5806
     },
     {
-      "name": "2026-06-25-2606.25874.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-25-2606.25874.md",
+      "name": "A9_ActiveInference_FEP_CST.md",
+      "path": "30_TCC\\39_Legacy_TCC\\A9_ActiveInference_FEP_CST.md",
       "mtime": "21:12",
-      "size": 2817
+      "size": 2179
     },
     {
-      "name": "2026-06-26-2601.14961.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-26-2601.14961.md",
+      "name": "B3_P-Paradigm_NatureElectronics_框架.md",
+      "path": "30_TCC\\39_Legacy_TCC\\B3_P-Paradigm_NatureElectronics_框架.md",
       "mtime": "21:12",
-      "size": 2736
+      "size": 6307
     },
     {
-      "name": "2026-06-26-2606.26279.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-26-2606.26279.md",
+      "name": "CopyNCC：面向AI与HPC的Γst=1网络中心计算架构.md",
+      "path": "30_TCC\\39_Legacy_TCC\\CopyNCC：面向AI与HPC的Γst=1网络中心计算架构.md",
       "mtime": "21:12",
-      "size": 2938
+      "size": 385
     },
     {
-      "name": "2026-06-26-2606.26714.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-26-2606.26714.md",
+      "name": "CST_Intelligence_Emergence_Paper_V25_SUBMITTED.md",
+      "path": "30_TCC\\39_Legacy_TCC\\CST_Intelligence_Emergence_Paper_V25_SUBMITTED.md",
       "mtime": "21:12",
-      "size": 2788
+      "size": 94248
     },
     {
-      "name": "2026-06-29-2602.23274.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-29-2602.23274.md",
+      "name": "Discovering state-of-the-art reinforcement learning algorith.md",
+      "path": "30_TCC\\39_Legacy_TCC\\Discovering state-of-the-art reinforcement learning algorith.md",
       "mtime": "21:12",
-      "size": 2608
+      "size": 7042
     },
     {
-      "name": "2026-06-29-2606.27778.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-29-2606.27778.md",
+      "name": "Discussion_Section_2026-07-06.md",
+      "path": "30_TCC\\39_Legacy_TCC\\Discussion_Section_2026-07-06.md",
       "mtime": "21:12",
-      "size": 3038
+      "size": 8632
     },
     {
-      "name": "2026-06-29-2606.27809.md",
-      "path": "20_Processing\\20_KnowledgeBase\\2026-06-29-2606.27809.md",
+      "name": "Idea_Etched_Corcel_NCC_Comparison.md",
+      "path": "30_TCC\\39_Legacy_TCC\\Idea_Etched_Corcel_NCC_Comparison.md",
       "mtime": "21:12",
-      "size": 2734
+      "size": 7356
     }
   ],
   "tasks": {

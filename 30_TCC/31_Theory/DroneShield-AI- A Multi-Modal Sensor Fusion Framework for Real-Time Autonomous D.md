@@ -31,3 +31,6 @@ Unmanned Aerial Vehicle (UAV) threats have emerged as a defining security challe
 - [[A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Rob]]
 - [[SpikF-GO- Spiking Fourier Graph Operators for Multivariate Time Series Forecasti]]
 - [[Segmentation-Assisted Brain MRI Synthesis with Cross-Image Multi-Contrast Featur]]
+- [[Quantum Statistics and Structural Topology Govern Thermal Transport in Two-Dimen]]
+- [[Feature leakage and the identifiability of direct-dependency entropy models of n]]
+- [[Synchronization of topological signals in higher-order adaptive multilayer netwo]]

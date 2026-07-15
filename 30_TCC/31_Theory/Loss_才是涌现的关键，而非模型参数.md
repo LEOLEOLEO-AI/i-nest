@@ -75,3 +75,4 @@ BrierScore 是《Are Emergent Abilities of Large Language Models a Mirage?》中
 - [[智能的本质]]
 - [[大模型：泛化即智能，压缩即一切]]
 - [[AGI面临的挑战___脑机制自底向顶梳理_下部_5万字]]
+- [[神经网络与傅立叶变换有何关系？]]

@@ -47,3 +47,4 @@ Reservoir computing (RC) is a potential neuromorphic paradigm for physically rea
 - [[2026-06-25_S2_Representational drift under spontaneous activity -- self-or]]
 - [[2026-07-01_S2_Synergy and Emergence as Methodological Bases for Library Sc]]
 - [[2026-07-01_S2_TopoLa a novel embedding framework for understanding complex]]
+- [[2026-06-25_S2_Cooperation-induced Criticality in Neural Networks]]

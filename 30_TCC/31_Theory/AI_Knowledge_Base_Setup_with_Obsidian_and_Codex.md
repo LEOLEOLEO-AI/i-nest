@@ -141,3 +141,8 @@ Codex将自动完成6步操作：逐篇扫描新内容→识别内容属性→�
 [[iNEST-MOC]]
 [[paper2_liquid_computing_chemistry]]
 [[paper1_iNEST_core_architecture]]
+- [[BDH_brain-inspired_AI_architecture_analysis]]
+- [[iNEST_RnD_SuperFlow_v3]]
+- [[Obsidian从入门到精通：基于Notebook Navigator插件的高效知识管理指南]]
+- [[知识库搭建]]
+- [[cooperation_plan_SDSoC_TCC_iNAS]]

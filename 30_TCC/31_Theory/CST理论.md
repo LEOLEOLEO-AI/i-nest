@@ -30,3 +30,4 @@ CST = (Sc * Tc) * exp(alpha * Gamma_st)
 - [[Less_is_more_大脑模块化]]
 - [[v28多尺度仿真结果]]
 - [[From Compute to Complexity- A Physical Theory of Intelligence Emergence]]
+- [[5类通信-4类计算拓扑完备映射与PTM算法]]

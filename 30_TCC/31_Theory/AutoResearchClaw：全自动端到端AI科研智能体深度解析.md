@@ -61,3 +61,4 @@ https://github.com/aiming-lab/AutoResearchClaw
 - [[2028全球智能危机：人工智能引发的经济与制度冲击全景分析]]
 - [[Nature 2025综述深度解析：神经形态计算的规模化革命与AlexNet时刻前瞻]]
 - [[MiroThinker 1.5深度解析：AI从秒回到慢思考的范式转型]]
+- [[DARPA深度研究：传感器、电子战与通信领域战略分析报告（上册）]]

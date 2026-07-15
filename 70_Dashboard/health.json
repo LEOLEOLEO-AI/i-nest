@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-07-15T16:20:56.943851",
+  "dimensions": {
+    "digestion": {
+      "score": 100,
+      "inbox_pending": 0,
+      "processing_pending": 0,
+      "status": "CLEAR"
+    },
+    "linking": {
+      "score": 70,
+      "coverage_pct": 69.0,
+      "files_checked": 400
+    },
+    "insights": {
+      "score": 100,
+      "age_hours": 0.0,
+      "file": "60_MOC\\03_Daily_Action_2026-07-15.md"
+    },
+    "git_sync": {
+      "score": 30,
+      "uncommitted_files": 245
+    },
+    "output": {
+      "score": 85,
+      "papers": 158,
+      "patents": 37
+    },
+    "tasks": {
+      "score": 50,
+      "total": 0,
+      "done": 0,
+      "completion_rate": 0
+    },
+    "frontmatter": {
+      "score": 30,
+      "with_frontmatter_pct": 2.5
+    },
+    "automation": {
+      "score": 100,
+      "daily_pipeline_active": true
+    }
+  },
+  "overall": 70.6,
+  "alerts": [
+    "245 uncommitted files"
+  ],
+  "recommendations": [
+    "Run git commit+push to sync changes",
+    "Run link_engine.py to add frontmatter"
+  ],
+  "grade": "B"
+}

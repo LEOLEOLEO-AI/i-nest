@@ -321,3 +321,8 @@ StaGreen 神器2.0的综合能力，比如与千问相比，大概处于千问3�
 [[paper1_iNEST_core_architecture]]
 [[iNEST-MOC]]
 [[FPGA原型]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
+- [[GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景]]
+- [[Non-ideal_effects_in_artificial_synapses_Nature_Reviews_Physics_2026]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查]]
+- [[GetNote_20260606_100554_kb_iNEST_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景]]

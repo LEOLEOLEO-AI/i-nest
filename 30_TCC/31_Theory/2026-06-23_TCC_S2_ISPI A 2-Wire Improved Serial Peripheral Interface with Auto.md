@@ -50,3 +50,4 @@ With the rapid improvement of textile integration techniques, smart fabrics are 
 - [[2026-06-23_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider]]
 - [[2026-06-22_TCC_S2_MEIN A Multicast-Efficient Interconnect Network for Multi-Ch]]
 - [[2026-06-22_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider]]
+- [[2026-06-21_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La]]

@@ -3,7 +3,7 @@
   "board": {
     "papers": [
       {
-        "id": "TASK-9440",
+        "id": "TASK-7723",
         "text": "博士论文评审📅 2026-05-03 🔼",
         "done": false,
         "dim": "TCC",
@@ -13,7 +13,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-4054",
+        "id": "TASK-3692",
         "text": "探索将本论文的研究结果应用于其他领域，例如凝聚态物理或生物系统，研究拓扑带结构和临界性的解耦问题。",
         "done": false,
         "dim": "TCC",
@@ -23,7 +23,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-2687",
+        "id": "TASK-7377",
         "text": "**复现基准论文**",
         "done": false,
         "dim": "TCC",
@@ -33,7 +33,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-4503",
+        "id": "TASK-8491",
         "text": "撰写实验报告，纳入核心架构论文 Methods 章节",
         "done": false,
         "dim": "iNEST",
@@ -43,7 +43,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-9815",
+        "id": "TASK-7122",
         "text": "**B3论文引言**：加入\"497 vs 11\"对比数据作为TCC第三范式的motivation",
         "done": false,
         "dim": "iNEST",
@@ -53,7 +53,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-9022",
+        "id": "TASK-3339",
         "text": "**SDI论文 Discussion**：补充\"SDI四规则是预测编码的物理实现\"段落",
         "done": true,
         "dim": "iNEST",
@@ -63,7 +63,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-8844",
+        "id": "TASK-7423",
         "text": "**A9论文框架**：补充完整等价链",
         "done": true,
         "dim": "iNEST",
@@ -73,7 +73,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-1653",
+        "id": "TASK-8738",
         "text": "将本论文中的方法与其他非线性动力系统的研究结合，探索更广泛的应用领域。",
         "done": false,
         "dim": "iNEST",
@@ -83,7 +83,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-7774",
+        "id": "TASK-3241",
         "text": "M4: 论文初稿：临界态+混合拓扑对信息处理的影响",
         "done": false,
         "dim": "iNEST",
@@ -93,7 +93,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-2083",
+        "id": "TASK-5128",
         "text": "**R1综述论文定稿** → 投 *Nature Machine Intelligence*（所有合作BP的\"旗舰名片\"）",
         "done": false,
         "dim": "iNEST",
@@ -103,7 +103,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-3961",
+        "id": "TASK-3048",
         "text": "**完成 T4 论文初稿**（化合键规则形式化——理论体系最易上手的入口）",
         "done": false,
         "dim": "iNEST",
@@ -113,7 +113,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-2817",
+        "id": "TASK-5420",
         "text": "**飞腾处理器接触**：发送E3论文框架 + NoC合作方案",
         "done": false,
         "dim": "iNEST",
@@ -123,17 +123,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-2141",
-        "text": "**iNESTSim alpha版发布**（配合E5论文，也是项目申报演示工具）",
-        "done": false,
-        "dim": "iNEST",
-        "file": "40_iNEST\\44_Projects\\Projects\\项目布局_归口整合\\[V1] iNEST_项目指南与论文规划.md",
-        "mtime": "2026-07-07",
-        "status": "规划中",
-        "type": "论文"
-      },
-      {
-        "id": "TASK-4045",
+        "id": "TASK-2154",
         "text": "**与比亚迪/吉利技术团队会议**：展示A2论文框架 + V2X合作方案",
         "done": false,
         "dim": "iNEST",
@@ -143,7 +133,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-9061",
+        "id": "TASK-9751",
         "text": "**完成RI-Bench v0.1**（配合A3论文）",
         "done": false,
         "dim": "iNEST",
@@ -153,7 +143,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-0201",
+        "id": "TASK-5179",
         "text": "R6: 明确与 B0 论文的定位区分",
         "done": false,
         "dim": "Output",
@@ -163,7 +153,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-0177",
+        "id": "TASK-5389",
         "text": "论文: Nature Machine Intelligence 投稿",
         "done": false,
         "dim": "Output",
@@ -173,7 +163,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-1267",
+        "id": "TASK-3814",
         "text": "论文: PLoS Computational Biology",
         "done": false,
         "dim": "Output",
@@ -183,7 +173,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-4704",
+        "id": "TASK-5616",
         "text": "论文: Nature / Science",
         "done": false,
         "dim": "Output",
@@ -193,7 +183,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-8602",
+        "id": "TASK-4531",
         "text": "论文: Nature Electronics / Advanced Materials",
         "done": false,
         "dim": "Output",
@@ -203,7 +193,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-9532",
+        "id": "TASK-8662",
         "text": "论文: JMLR/NeurIPS Dataset & Benchmark",
         "done": false,
         "dim": "Output",
@@ -213,17 +203,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-8567",
-        "text": "CST论文Engineering Format V22（Nature Electronics级别）",
-        "done": true,
-        "dim": "Output",
-        "file": "50_Output\\55_Guides\\iNEST_CN_Simulation_Report.md",
-        "mtime": "2026-07-07",
-        "status": "已完成",
-        "type": "论文"
-      },
-      {
-        "id": "TASK-7136",
+        "id": "TASK-4797",
         "text": "SDI-CC论文框架（拓扑即计算新范式）",
         "done": true,
         "dim": "Output",
@@ -233,17 +213,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-1617",
-        "text": "P-Mapping论文全文（六原语物理拓扑映射，IEEE TPDS）",
-        "done": true,
-        "dim": "Output",
-        "file": "50_Output\\55_Guides\\iNEST_CN_Simulation_Report.md",
-        "mtime": "2026-07-07",
-        "status": "已完成",
-        "type": "论文"
-      },
-      {
-        "id": "TASK-5923",
+        "id": "TASK-7633",
         "text": "完成 EFX-001 启迪点的论文章节初稿",
         "done": false,
         "dim": "Output",
@@ -253,7 +223,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-5062",
+        "id": "TASK-0794",
         "text": "发表初步成果（论文或专利）",
         "done": false,
         "dim": "Output",
@@ -263,7 +233,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-1012",
+        "id": "TASK-7934",
         "text": "在 V25 论文中定位该表述",
         "done": false,
         "dim": "Output",
@@ -273,7 +243,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-2589",
+        "id": "TASK-3331",
         "text": "收集过去 30 天的论文，批量生成启迪点",
         "done": false,
         "dim": "Output",
@@ -283,7 +253,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-0797",
+        "id": "TASK-7754",
         "text": "汇总论文行动 → 更新 V26 章节大纲",
         "done": false,
         "dim": "Output",
@@ -293,7 +263,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-0146",
+        "id": "TASK-2404",
         "text": "第一批论文处理（过去 30 天 arXiv）",
         "done": false,
         "dim": "Output",
@@ -303,7 +273,17 @@
         "type": "论文"
       },
       {
-        "id": "TASK-0026",
+        "id": "TASK-6651",
+        "text": "论文表述改为保守描述",
+        "done": false,
+        "dim": "Output",
+        "file": "50_Output\\Diagnosis\\methodology_repair_roadmap.md",
+        "mtime": "2026-07-07",
+        "status": "规划中",
+        "type": "论文"
+      },
+      {
+        "id": "TASK-1989",
         "text": "发表相关论文或专利",
         "done": false,
         "dim": "Output",
@@ -313,7 +293,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-2339",
+        "id": "TASK-6126",
         "text": "在论文中添加对照实验的定量结果",
         "done": false,
         "dim": "Output",
@@ -323,7 +303,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-9170",
+        "id": "TASK-8588",
         "text": "在论文补充中呈现结果稳定性",
         "done": false,
         "dim": "Output",
@@ -333,7 +313,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-9639",
+        "id": "TASK-6341",
         "text": "在论文附录中创建\"参数完整列表\"（表格）",
         "done": false,
         "dim": "Output",
@@ -343,7 +323,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-2134",
+        "id": "TASK-5351",
         "text": "论文中声明：\"所有结果使用种子 42 生成，可通过重设种子复现\"",
         "done": false,
         "dim": "Output",
@@ -353,7 +333,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-1331",
+        "id": "TASK-1695",
         "text": "修改 V25 论文中的\"5/5 PASS\"表述",
         "done": false,
         "dim": "Output",
@@ -365,7 +345,7 @@
     ],
     "patents": [
       {
-        "id": "TASK-6395",
+        "id": "TASK-8671",
         "text": "专利 CST_涌现智能 权利要求书初稿",
         "done": false,
         "dim": "iNEST",
@@ -375,7 +355,7 @@
         "type": "专利"
       },
       {
-        "id": "TASK-2072",
+        "id": "TASK-7196",
         "text": "专利代理沟通",
         "done": false,
         "dim": "Output",
@@ -385,7 +365,7 @@
         "type": "专利"
       },
       {
-        "id": "TASK-4909",
+        "id": "TASK-4227",
         "text": "汇总专利行动 → 完善专利权利要求",
         "done": false,
         "dim": "Output",
@@ -398,31 +378,31 @@
     "code": [],
     "focus_today": [
       {
-        "id": "TASK-0713",
-        "text": "所有引用条目在 Zotero 中元数据完整（作者、年份、DOI、期刊名、卷期页码）",
+        "id": "TASK-1724",
+        "text": "Insert updated data into CST V25 manuscript",
         "done": false,
-        "dim": "Output",
-        "file": "50_Output\\55_Guides\\Zotero_BBT_完全攻略.md",
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
         "mtime": "2026-07-15",
         "status": "规划中",
         "type": "资料整理"
       },
       {
-        "id": "TASK-2510",
-        "text": "无重复条目（右键集合 → Duplicate Detection）",
+        "id": "TASK-9654",
+        "text": "Update P-Theory v2 Section 4.3 with actual data",
         "done": false,
-        "dim": "Output",
-        "file": "50_Output\\55_Guides\\Zotero_BBT_完全攻略.md",
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
         "mtime": "2026-07-15",
         "status": "规划中",
         "type": "资料整理"
       },
       {
-        "id": "TASK-9628",
-        "text": "citekey 全部 pin 住（选中全部 → Better BibTeX → Pin Citekey）",
+        "id": "TASK-1482",
+        "text": "Submit CST V25 (Nature Machine Intelligence)",
         "done": false,
-        "dim": "Output",
-        "file": "50_Output\\55_Guides\\Zotero_BBT_完全攻略.md",
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
         "mtime": "2026-07-15",
         "status": "规划中",
         "type": "资料整理"
@@ -432,7 +412,107 @@
   "columns": {
     "规划中": [
       {
-        "id": "TASK-0713",
+        "id": "TASK-1724",
+        "text": "Insert updated data into CST V25 manuscript",
+        "done": false,
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
+        "mtime": "2026-07-15",
+        "status": "规划中",
+        "type": "资料整理"
+      },
+      {
+        "id": "TASK-9654",
+        "text": "Update P-Theory v2 Section 4.3 with actual data",
+        "done": false,
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
+        "mtime": "2026-07-15",
+        "status": "规划中",
+        "type": "资料整理"
+      },
+      {
+        "id": "TASK-1482",
+        "text": "Submit CST V25 (Nature Machine Intelligence)",
+        "done": false,
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
+        "mtime": "2026-07-15",
+        "status": "规划中",
+        "type": "资料整理"
+      },
+      {
+        "id": "TASK-6508",
+        "text": "Submit P-Theory v2 (JMLR/NeurIPS)",
+        "done": false,
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
+        "mtime": "2026-07-15",
+        "status": "规划中",
+        "type": "资料整理"
+      },
+      {
+        "id": "TASK-6311",
+        "text": "Run multiscale.py RG flow for CST RG paper data",
+        "done": false,
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
+        "mtime": "2026-07-15",
+        "status": "规划中",
+        "type": "资料整理"
+      },
+      {
+        "id": "TASK-4940",
+        "text": "DVS real-data experiment (currently synthetic only)",
+        "done": false,
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
+        "mtime": "2026-07-15",
+        "status": "规划中",
+        "type": "资料整理"
+      },
+      {
+        "id": "TASK-0835",
+        "text": "Update Haihe Lab proposal V3",
+        "done": false,
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
+        "mtime": "2026-07-15",
+        "status": "规划中",
+        "type": "资料整理"
+      },
+      {
+        "id": "TASK-9066",
+        "text": "PyiNEST-Lite SDK v0.1",
+        "done": false,
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
+        "mtime": "2026-07-15",
+        "status": "规划中",
+        "type": "资料整理"
+      },
+      {
+        "id": "TASK-4755",
+        "text": "CST RG full PRL manuscript",
+        "done": false,
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
+        "mtime": "2026-07-15",
+        "status": "规划中",
+        "type": "资料整理"
+      },
+      {
+        "id": "TASK-6620",
+        "text": "FPGA prototype",
+        "done": false,
+        "dim": "TCC",
+        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
+        "mtime": "2026-07-15",
+        "status": "规划中",
+        "type": "资料整理"
+      },
+      {
+        "id": "TASK-9419",
         "text": "所有引用条目在 Zotero 中元数据完整（作者、年份、DOI、期刊名、卷期页码）",
         "done": false,
         "dim": "Output",
@@ -442,7 +522,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-2510",
+        "id": "TASK-9721",
         "text": "无重复条目（右键集合 → Duplicate Detection）",
         "done": false,
         "dim": "Output",
@@ -452,7 +532,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-9628",
+        "id": "TASK-4835",
         "text": "citekey 全部 pin 住（选中全部 → Better BibTeX → Pin Citekey）",
         "done": false,
         "dim": "Output",
@@ -462,7 +542,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-6681",
+        "id": "TASK-4320",
         "text": "`.bib` 文件已更新（检查修改时间）",
         "done": false,
         "dim": "Output",
@@ -472,7 +552,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-6073",
+        "id": "TASK-0181",
         "text": "Word 中 Zotero 引用已刷新（Refresh）",
         "done": false,
         "dim": "Output",
@@ -482,7 +562,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-1250",
+        "id": "TASK-4902",
         "text": "目标期刊的 CSL 样式已应用",
         "done": false,
         "dim": "Output",
@@ -492,7 +572,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-1427",
+        "id": "TASK-4202",
         "text": "**立即**：生成UCCP Python包（T2.1）",
         "done": false,
         "dim": "TCC",
@@ -502,7 +582,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-1367",
+        "id": "TASK-1374",
         "text": "**立即**：搜索RwF/LSE/CNC三篇文献arXiv号（T1.1）",
         "done": false,
         "dim": "TCC",
@@ -512,7 +592,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-4770",
+        "id": "TASK-7788",
         "text": "**W1**：FastAPI后端部署（T2.3-T2.4）",
         "done": false,
         "dim": "TCC",
@@ -522,112 +602,12 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-5898",
+        "id": "TASK-6470",
         "text": "**W2**：MD→LaTeX转换（T7.1）",
         "done": false,
         "dim": "TCC",
         "file": "30_TCC\\39_Legacy_TCC\\iNEST_MVP_Plan_V1.md",
         "mtime": "2026-07-14",
-        "status": "规划中",
-        "type": "资料整理"
-      },
-      {
-        "id": "TASK-6654",
-        "text": "**W4**：前端页面开发（T4.1-T4.2）",
-        "done": false,
-        "dim": "TCC",
-        "file": "30_TCC\\39_Legacy_TCC\\iNEST_MVP_Plan_V1.md",
-        "mtime": "2026-07-14",
-        "status": "规划中",
-        "type": "资料整理"
-      },
-      {
-        "id": "TASK-0295",
-        "text": "**持续**：知识库维护，每次重要结论写入memory/",
-        "done": false,
-        "dim": "TCC",
-        "file": "30_TCC\\39_Legacy_TCC\\iNEST_MVP_Plan_V1.md",
-        "mtime": "2026-07-14",
-        "status": "规划中",
-        "type": "资料整理"
-      },
-      {
-        "id": "TASK-1116",
-        "text": "**IEEE Xplore** — Key: apsps437re6rg96a382wyjem, Status: waiting → 查 qinrangliu@tju.edu.cn 邮箱确认激活",
-        "done": false,
-        "dim": "TCC",
-        "file": "30_TCC\\32_Tech\\TODO_API_Keys_激活.md",
-        "mtime": "2026-07-08",
-        "status": "规划中",
-        "type": "资料整理"
-      },
-      {
-        "id": "TASK-3342",
-        "text": "**WoS (Clarivate)** — 天大订阅验证中 → 查 [developer.clarivate.com](https://developer.clarivate.com/applicat",
-        "done": false,
-        "dim": "TCC",
-        "file": "30_TCC\\32_Tech\\TODO_API_Keys_激活.md",
-        "mtime": "2026-07-08",
-        "status": "规划中",
-        "type": "资料整理"
-      },
-      {
-        "id": "TASK-2979",
-        "text": "激活后运行: python wos_ieee_crawler.py 验证",
-        "done": false,
-        "dim": "TCC",
-        "file": "30_TCC\\32_Tech\\TODO_API_Keys_激活.md",
-        "mtime": "2026-07-08",
-        "status": "规划中",
-        "type": "资料整理"
-      },
-      {
-        "id": "TASK-2274",
-        "text": "设环境变量: WOS_API_KEY / IEEE_API_KEY",
-        "done": false,
-        "dim": "TCC",
-        "file": "30_TCC\\32_Tech\\TODO_API_Keys_激活.md",
-        "mtime": "2026-07-08",
-        "status": "规划中",
-        "type": "资料整理"
-      },
-      {
-        "id": "TASK-6285",
-        "text": "跑 pipeline_orchestrator.py full 验证三源并行",
-        "done": false,
-        "dim": "TCC",
-        "file": "30_TCC\\32_Tech\\TODO_API_Keys_激活.md",
-        "mtime": "2026-07-08",
-        "status": "规划中",
-        "type": "资料整理"
-      },
-      {
-        "id": "TASK-2408",
-        "text": "Insert updated data into CST V25 manuscript",
-        "done": false,
-        "dim": "TCC",
-        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
-        "mtime": "2026-07-07",
-        "status": "规划中",
-        "type": "资料整理"
-      },
-      {
-        "id": "TASK-1051",
-        "text": "Update P-Theory v2 Section 4.3 with actual data",
-        "done": false,
-        "dim": "TCC",
-        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
-        "mtime": "2026-07-07",
-        "status": "规划中",
-        "type": "资料整理"
-      },
-      {
-        "id": "TASK-2897",
-        "text": "Submit CST V25 (Nature Machine Intelligence)",
-        "done": false,
-        "dim": "TCC",
-        "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
-        "mtime": "2026-07-07",
         "status": "规划中",
         "type": "资料整理"
       }
@@ -636,47 +616,47 @@
     "验证中": [],
     "已完成": [
       {
-        "id": "TASK-9405",
+        "id": "TASK-7128",
         "text": "API keys fixed in all 3 Agent scripts",
         "done": true,
         "dim": "TCC",
         "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
-        "mtime": "2026-07-07",
+        "mtime": "2026-07-15",
         "status": "已完成",
         "type": "资料整理"
       },
       {
-        "id": "TASK-3634",
+        "id": "TASK-3775",
         "text": "multiscale.py deployed to MNoB/memai/",
         "done": true,
         "dim": "TCC",
         "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
-        "mtime": "2026-07-07",
+        "mtime": "2026-07-15",
         "status": "已完成",
         "type": "资料整理"
       },
       {
-        "id": "TASK-2468",
+        "id": "TASK-8376",
         "text": "SDI Experiments 1-4 all completed with actual data",
         "done": true,
         "dim": "TCC",
         "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
-        "mtime": "2026-07-07",
+        "mtime": "2026-07-15",
         "status": "已完成",
         "type": "资料整理"
       },
       {
-        "id": "TASK-0521",
+        "id": "TASK-4156",
         "text": "CST N=1024 phase scan completed",
         "done": true,
         "dim": "TCC",
         "file": "30_TCC\\31_Theory\\Papers_Integration_Pack_v2.md",
-        "mtime": "2026-07-07",
+        "mtime": "2026-07-15",
         "status": "已完成",
         "type": "资料整理"
       },
       {
-        "id": "TASK-9022",
+        "id": "TASK-3339",
         "text": "**SDI论文 Discussion**：补充\"SDI四规则是预测编码的物理实现\"段落",
         "done": true,
         "dim": "iNEST",
@@ -686,7 +666,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-8844",
+        "id": "TASK-7423",
         "text": "**A9论文框架**：补充完整等价链",
         "done": true,
         "dim": "iNEST",
@@ -696,7 +676,7 @@
         "type": "论文"
       },
       {
-        "id": "TASK-6730",
+        "id": "TASK-1890",
         "text": "**SDI实验七设计**：区分E-L（预测通路）/E-S（误差通路），验证SDI自发涌现预测编码架构",
         "done": true,
         "dim": "iNEST",
@@ -706,7 +686,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-7701",
+        "id": "TASK-2441",
         "text": "**Demo叙事更新**：用\"持续预测-误差-修正动力学系统\"替换抽象描述",
         "done": true,
         "dim": "iNEST",
@@ -716,7 +696,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-1713",
+        "id": "TASK-6306",
         "text": "Overall framework and structure",
         "done": true,
         "dim": "iNEST",
@@ -726,7 +706,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-6697",
+        "id": "TASK-6141",
         "text": "Patent list",
         "done": true,
         "dim": "iNEST",
@@ -736,7 +716,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-8385",
+        "id": "TASK-6325",
         "text": "**Title:** Clear, descriptive, ≤150 characters",
         "done": true,
         "dim": "Output",
@@ -746,7 +726,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-2346",
+        "id": "TASK-2950",
         "text": "**Abstract:** ≤200 words, structured (Background/Methods/Findings/Conclusions)",
         "done": true,
         "dim": "Output",
@@ -756,7 +736,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-5801",
+        "id": "TASK-2823",
         "text": "**Main text:** Introduction, Results, Discussion, Methods",
         "done": true,
         "dim": "Output",
@@ -766,7 +746,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-0925",
+        "id": "TASK-0152",
         "text": "**Figures:** 6 figures (Fig1-Fig6 in figures_cst/)",
         "done": true,
         "dim": "Output",
@@ -776,7 +756,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-8540",
+        "id": "TASK-2981",
         "text": "**References:** 50+ references in Nature format",
         "done": true,
         "dim": "Output",
@@ -786,7 +766,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-9561",
+        "id": "TASK-2340",
         "text": "**Supplementary Information:** Methods details, 40-system metadata, UCCP protocol",
         "done": true,
         "dim": "Output",
@@ -796,7 +776,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-8445",
+        "id": "TASK-4921",
         "text": "**Word count:** Within journal limit",
         "done": true,
         "dim": "Output",
@@ -806,7 +786,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-2942",
+        "id": "TASK-7978",
         "text": "**Display items:** Figures and tables properly numbered",
         "done": true,
         "dim": "Output",
@@ -816,7 +796,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-5705",
+        "id": "TASK-9724",
         "text": "**Reference style:** Nature format (numbered)",
         "done": true,
         "dim": "Output",
@@ -826,7 +806,7 @@
         "type": "资料整理"
       },
       {
-        "id": "TASK-0487",
+        "id": "TASK-0183",
         "text": "**Author list:** Complete with affiliations",
         "done": true,
         "dim": "Output",
@@ -838,8 +818,8 @@
     ]
   },
   "stats": {
-    "total": 605,
-    "done": 47,
-    "active": 558
+    "total": 606,
+    "done": 42,
+    "active": 564
   }
 }

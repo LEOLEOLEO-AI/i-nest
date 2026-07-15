@@ -47,3 +47,4 @@ Over the most recent twenty years, network science has bloomed and impacted diff
 - [[2026-06-25_S2_Active Inference and Intentional Behavior]]
 - [[2026-06-25_S2_Self-orthogonalizing attractor neural networks emerging from]]
 - [[2026-06-25_S2_Energy-information trade-off induces continuous and disconti]]
+- [[2026-06-25_S2_Neural Information Squeezer for Causal Emergence]]

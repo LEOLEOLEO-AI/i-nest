@@ -159,3 +159,5 @@ CudaDMA: Optimizing GPU Memory Bandwidth via Warp Specialization: https://resear
 - [[思科推出基于以太网的人工智能网络]]
 - [[术语对照表]]
 - [[智能算力中心AI大模型高性能网络解决方案介绍_2024]]
+- [[演讲实录丨廖湘科院士：智能制造时代的基础软件]]
+- [[Nature综述_大规模神经形态计算]]

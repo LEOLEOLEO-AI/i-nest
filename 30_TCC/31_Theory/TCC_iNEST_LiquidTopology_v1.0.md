@@ -300,3 +300,4 @@ iNEST 阶段，TCC 的 Page 模板作为"冻结核"保留：
 - [[SOC-自组织临界]]
 - [[getnote_2026-06-15_能量函数驱动神经网络设计]]
 - [[iNEST_自演化机制全景总结_最小作用量到物理智能]]
+- [[Meta-Topology and SDI-Bond- Variational Framework for Communication Primitive Generation a]]

@@ -28,3 +28,6 @@ SDSoW赋能“绿色+智能+安全”智能驾驶
 - [[SDSoW智能体]]
 - [[GetNote_20260606_100554_kb_project-guide_getnote_1903675286441698344_天枢工程]]
 - [[云科普-智能网联汽车发展现状与对策建议 - 知乎]]
+- [[云科普-智能网联汽车发展现状与对策建议_-_知乎]]
+- [[cooperation_plan_SDSoC_TCC_iNAS]]
+- [[software_defined_chiplet_system_cooperation_plan]]

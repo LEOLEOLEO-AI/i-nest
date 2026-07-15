@@ -49,3 +49,4 @@ LLM reasoning transparency is a critical affordance for understanding model deci
 - [[2026-06-23_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction]]
 - [[2026-06-20_TCC_arXiv_Incorporating physical source parameters into microlensing m]]
 - [[2026-06-20_iNEST_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me]]
+- [[2026-06-20_TCC_arXiv_JanusMesh Fast and Zero-Shot 3D Visual Illusion Generation v]]
