@@ -1,4 +1,4 @@
-# B7: OneFabric-Memory 统一内存与网络语义架构
+# B7: TCC OneFabric 统一内存与网络语义架构
 
 **编号**: B7 | **编码**: P-Memory | **状态**: 🟡 框架完成
 **目标**: ASPLOS / ISCA / HPCA | **投稿时间**: 2027 Q2
@@ -7,7 +7,7 @@
 
 ## 核心创新
 
-统一内存与网络语义架构（OneFabric-Memory）：将分布式内存访问与网络通信统一为单一语义层，消除传统计算架构中"内存墙"和"网络墙"的双重瓶颈。
+统一内存与网络语义架构（TCC OneFabric）：将分布式内存访问与网络通信统一为单一语义层，消除传统计算架构中"内存墙"和"网络墙"的双重瓶颈。
 
 ### 关键洞察
 - 在TCC范式下，内存即网络、网络即内存——两者统一于拓扑空间
@@ -22,8 +22,8 @@
 ---
 
 ## 关联资源
-- [OneFabric-Memory 原始笔记](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/32_Tech/getnote_20260216_OneFabric-Memory%20统一内存与网络语义架构.md)
-- [TCC代码实现](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/OneFabric-Memory%20统一内存与网络语义架构.md)
+- [TCC OneFabric 原始笔记](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/32_Tech/getnote_20260216_TCC OneFabric%20统一内存与网络语义架构.md)
+- [TCC代码实现](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/TCC OneFabric%20统一内存与网络语义架构.md)
 - [RISC-V+SDI方案](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/统一内存与网络语义架构（Risc-V结合）.md)
 
 ---
@@ -41,7 +41,7 @@
 
 ## 工程落地方案
 
-👉 **[OneFabric-Memory × TCC-16 深度融合工程落地方案 v1.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/OneFabric-Memory_TCC16_工程落地方案_v1.0.md)**
+👉 **[TCC OneFabric × TCC-16 深度融合工程落地方案 v1.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/TCC OneFabric_TCC16_工程落地方案_v1.0.md)**
 
 核心内容：
 - **UMNAS 统一地址空间**: 64-bit 寻址 (Tile ID + Region + Offset)

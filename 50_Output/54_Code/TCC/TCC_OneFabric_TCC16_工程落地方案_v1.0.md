@@ -1,17 +1,17 @@
-﻿# OneFabric-Memory × TCC-16 深度融合工程落地方案 v1.0
+﻿# TCC OneFabric × TCC-16 深度融合工程落地方案 v1.0
 
 ---
 
 **文档类型**: IP研发计划框架 | **状态**: 待审批
 **生成日期**: 2026-07-15
-**关联基线**: [[TCC_Knowledge_Base_Baseline_v2.0]] | [[B7_OneFabric-Memory_论文计划]]
+**关联基线**: [[TCC_Knowledge_Base_Baseline_v2.0]] | [[B7_TCC OneFabric_论文计划]]
 **前置阅读**: [[TCC_RTC原语架构与SDI拓扑变换机理]]
 
 ---
 
 ## 摘要
 
-OneFabric-Memory（统一内存与网络语义架构）与 TCC-16 原语体系（R6+T6+C4）的深度融合方案。核心主张：**在 TCC 范式下，内存即网络、网络即内存——两者在拓扑空间统一于 SDI（Software-Defined Interconnect）可重构互连层**。本方案将 OneFabric-Memory 作为 TCC Tile 微架构的**统一地址空间抽象层**，通过 R.T.C 三层原语的硬件-软件协同设计，实现内存访问与网络通信在编程模型上的不可区分。
+TCC OneFabric（统一内存与网络语义架构）与 TCC-16 原语体系（R6+T6+C4）的深度融合方案。核心主张：**在 TCC 范式下，内存即网络、网络即内存——两者在拓扑空间统一于 SDI（Software-Defined Interconnect）可重构互连层**。本方案将 TCC OneFabric 作为 TCC Tile 微架构的**统一地址空间抽象层**，通过 R.T.C 三层原语的硬件-软件协同设计，实现内存访问与网络通信在编程模型上的不可区分。
 
 ---
 
@@ -39,9 +39,9 @@ OneFabric-Memory（统一内存与网络语义架构）与 TCC-16 原语体系�
 └─────────────────────────────────────────────────────────┘
 ```
 
-### 1.2 OneFabric-Memory 注入点
+### 1.2 TCC OneFabric 注入点
 
-OneFabric-Memory 在 TCC 架构中的定位是**C.MOVE 的语义扩展层**：
+TCC OneFabric 在 TCC 架构中的定位是**C.MOVE 的语义扩展层**：
 
 | 层次 | 传统语义 | OneFabric 统一语义 |
 |------|---------|-------------------|
@@ -49,7 +49,7 @@ OneFabric-Memory 在 TCC 架构中的定位是**C.MOVE 的语义扩展层**：
 | R.* (Route) | 跨 Tile 网络通信 | **UMNAS 的全局视图——远程 Tile 内存直接编址** |
 | 编程模型 | malloc + MPI_Send/Recv | **onefabric_alloc + 透明远程访问** |
 
-**核心洞察**：TCC 的 Route-Transform 分解定理指出"路由即变换"。OneFabric-Memory 将此推广为"**内存访问即路由**"——局部 T.* 原语读取本地数据等价于 R.* 原语从远程 Tile 拉取数据，差异仅在于 SDI 的 Page 表配置。
+**核心洞察**：TCC 的 Route-Transform 分解定理指出"路由即变换"。TCC OneFabric 将此推广为"**内存访问即路由**"——局部 T.* 原语读取本地数据等价于 R.* 原语从远程 Tile 拉取数据，差异仅在于 SDI 的 Page 表配置。
 
 ---
 
@@ -187,7 +187,7 @@ SDI_Page[n] = {
 
 | 编号 | 题目 | 目标 | 时间 |
 |------|------|------|------|
-| **B7** | OneFabric-Memory: 统一内存与网络语义的 TCC 架构 | ASPLOS/ISCA 2028 | 2027 Q4 投稿 |
+| **B7** | TCC OneFabric: 统一内存与网络语义的 TCC 架构 | ASPLOS/ISCA 2028 | 2027 Q4 投稿 |
 | B7-S | OneFabric Runtime: SDI Page表驱动的零拷贝分布式内存 | OSDI/EuroSys 2028 | 2028 Q1 |
 
 **B7 核心贡献**：
@@ -233,14 +233,14 @@ SDI_Page[n] = {
 
 | # | 决策项 | 建议 | 
 |---|--------|------|
-| D1 | OneFabric-Memory 是否纳入 TCC IP 研发计划？ | ✅ 建议批准，与 TCC 基线天然协同 |
+| D1 | TCC OneFabric 是否纳入 TCC IP 研发计划？ | ✅ 建议批准，与 TCC 基线天然协同 |
 | D2 | Phase 0 启动时间？ | 建议 2026 Q3（与人力和 FPGA 资源对齐） |
 | D3 | 论文 B7 是否作为独立论文（非 B5 子系统描述）？ | 建议独立投稿 ASPLOS/ISCA（架构贡献独立且新颖） |
 | D4 | 专利 P3 系列是否立即启动交底书？ | 建议 Phase 0 启动后 1 个月内完成 |
 
 ---
 
-**编写**: Codex 研发中枢 | **关联**: [[TCC_Knowledge_Base_Baseline_v2.0]] [[TCC_RTC原语架构与SDI拓扑变换机理]] [[B7_OneFabric-Memory_论文计划]]
+**编写**: Codex 研发中枢 | **关联**: [[TCC_Knowledge_Base_Baseline_v2.0]] [[TCC_RTC原语架构与SDI拓扑变换机理]] [[B7_TCC OneFabric_论文计划]]
 
 *请审批后纳入 IP 研发计划。*
 

@@ -11,7 +11,7 @@ kb: project-guide
 
 ---
 
-# 项目指南 C：统一内存与网络语义架构 (Project: OneFabric-Memory) ——谢涛
+# 项目指南 C：统一内存与网络语义架构 (Project: TCC OneFabric) ——谢涛
 
 **核心目标：** 消除“内存访问”与“网络通信”的软件边界，使分布式集群在逻辑上表现为一块巨大的共享 SRAM 池。
 

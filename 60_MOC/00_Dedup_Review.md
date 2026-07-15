@@ -1999,8 +1999,8 @@
 
 | # | 大小 | 路径 |
 |---|------|------|
-| 1 | 34.6KB | 50_Output\54_Code\iNEST\RISC-V架构下SDI与OneFabric-Memory智算互联系统设计.md |
-| 2 | 34.2KB | 30_TCC\31_Theory\论文\B组_SDI-CC互连体系\RISC-V架构下SDI与OneFabric-Memory智算互联系统设计.md |
+| 1 | 34.6KB | 50_Output\54_Code\iNEST\RISC-V架构下SDI与TCC OneFabric智算互联系统设计.md |
+| 2 | 34.2KB | 30_TCC\31_Theory\论文\B组_SDI-CC互连体系\RISC-V架构下SDI与TCC OneFabric智算互联系统设计.md |
 
 ## 243. 晶圆级sdi交换mesh与最优扇出高维拓扑.md (2个版本)
 

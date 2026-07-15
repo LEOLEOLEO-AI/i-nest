@@ -10,7 +10,7 @@ date: 2026-06-18
 version: v4.0
 status: Final
 sources_count: 14
-new_sources: "光电混合晶圆级互连、SDI万亿参数大模型项目、ARC-AGI化合键、忆阻器网络(3篇)、晶圆级WSC、SDSoW邬江兴报告、OneFabric-Memory、晶上自演化项目群、海河实验室先导检查、Chiplet战略分析、晶上大脑、拓扑神经科学"
+new_sources: "光电混合晶圆级互连、SDI万亿参数大模型项目、ARC-AGI化合键、忆阻器网络(3篇)、晶圆级WSC、SDSoW邬江兴报告、TCC OneFabric、晶上自演化项目群、海河实验室先导检查、Chiplet战略分析、晶上大脑、拓扑神经科学"
 ---
 
 # TCC计算范式产业验证与差异化定位 — 完整对标分析 v4.0
@@ -29,7 +29,7 @@ new_sources: "光电混合晶圆级互连、SDI万亿参数大模型项目、ARC
 | 10 | **忆阻器网络 (3篇)** | 技术研究 | 忆阻器频谱提取=FFT-AllReduce同构的器件级验证 |
 | 11 | **晶圆级芯片WSC技术分析** | 技术报告 | Cerebras/Dojo/DarwinWafer对标——TCC的差异化在于"拓扑可编程" |
 | 12 | **SDSoW邬江兴院士报告提纲** | 战略报告 | "从节点中心到网络中心的范式跃迁"——与TCC核心命题完全一致 |
-| 13 | **OneFabric-Memory** | 项目计划 | 统一内存-网络语义=消除通信/计算边界 |
+| 13 | **TCC OneFabric** | 项目计划 | 统一内存-网络语义=消除通信/计算边界 |
 | 14 | **晶上自演化复杂网络项目群** | 项目布局 | 8个理论+7个关键技术项目，完整覆盖TCC理论体系 |
 | 15 | **海河实验室晶上先导项目检查** | 项目审查 | TCC-Edge vs Cerebras/NVIDIA/ElastixAI的正式对标分析 |
 | 16 | **美欧Chiplet战略分析** | 产业研究 | 1449亿美元市场，DARPA 14亿美元投入——Chiplet是TCC的产业载体 |
@@ -157,7 +157,7 @@ new_sources: "光电混合晶圆级互连、SDI万亿参数大模型项目、ARC
 | 忆阻器网络频谱提取 | 器件研究(北大) | 硬件原生FFT=**FFT-AllReduce同构物理验证** |
 | 晶圆级SDI最优扇出 | TCC自有 | f*=8=**SDIoN设计参数** |
 | RISC-V+SDI+OneFabric | TCC自有 | 61%延迟降低=**工程可行性** |
-| OneFabric-Memory | 基础研究(谢涛) | 消除内存/网络边界=**Transform=Route的前提** |
+| TCC OneFabric | 基础研究(谢涛) | 消除内存/网络边界=**Transform=Route的前提** |
 | 晶上自演化项目群(15项) | 项目布局 | **CST理论的完整项目覆盖** |
 | 海河实验室TCC审查 | 项目审查 | 全球竞品对标=**TCC差异化验证** |
 | SDSoW邬江兴报告 | 国家战略(院士) | 网络中心范式=**TCC核心命题的国家版本** |

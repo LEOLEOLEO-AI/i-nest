@@ -14,7 +14,7 @@ sources:
   - "UB-Mesh: 华为nD-FullMesh数据中心网络架构 (arxiv 2503.20377)"
   - "Astera Labs: AI互连芯片核心厂商分析"
   - "晶圆级SDI互联架构与最优扇出高维拓扑 (TCC自有论文)"
-  - "RISC-V + SDI + OneFabric-Memory 智算互联系统 (TCC自有论文)"
+  - "RISC-V + SDI + TCC OneFabric 智算互联系统 (TCC自有论文)"
   - "AI基础设施架构全栈解析 (NVIDIA/Google/Broadcom/Cisco)"
   - "2025年AI与HPC网络加速芯片技术对比"
   - "2025 SIGCOMM: 华为AI集群网络六大技术挑战"
@@ -152,7 +152,7 @@ Astera提供的是**互连硬件基础设施**（Retimer/Switch/CXL），而TCC�
 
 ---
 
-## 五、来源4：RISC-V + SDI + OneFabric-Memory
+## 五、来源4：RISC-V + SDI + TCC OneFabric
 
 **来源**：RISC-V架构下SDI智算互联系统设计（TCC iNEST论文）
 
@@ -169,10 +169,10 @@ Astera提供的是**互连硬件基础设施**（Retimer/Switch/CXL），而TCC�
 
 ### 5.2 TCC生态整合
 
-该论文将RISC-V（开源ISA）+ SDI（软件定义互连）+ OneFabric-Memory（统一内存网络语义）融合，构成了**TCC计算平台的完整软件-硬件栈**：
+该论文将RISC-V（开源ISA）+ SDI（软件定义互连）+ TCC OneFabric（统一内存网络语义）融合，构成了**TCC计算平台的完整软件-硬件栈**：
 - RISC-V → 开放计算底座
 - SDI → 拓扑自适应互联
-- OneFabric-Memory → 消除内存/网络边界
+- TCC OneFabric → 消除内存/网络边界
 - NPC/CPC原语 → 硬件加速集合通信
 
 ---

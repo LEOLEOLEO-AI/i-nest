@@ -91,7 +91,7 @@
 |:---:|------|------|------|:--:|
 | **E1** | TCC-Link v0.5 互连协议 | M2 | 2026 Q4–2027 Q2 | ⏳ |
 | **E2** | VU13P 板级 MVP (R.*+T.* RTL) | M2 | 2026 Q4–2027 Q2 | ⏳ |
-| **E3** | OneFabric-Memory IP 核 (OFM系列) | [[OneFabric-Memory_TCC16_工程落地方案_v1.0]] | 2026 Q3–2027 Q4 | ⏳ |
+| **E3** | TCC OneFabric IP 核 (OFM系列) | [[TCC OneFabric_TCC16_工程落地方案_v1.0]] | 2026 Q3–2027 Q4 | ⏳ |
 
 ---
 
@@ -101,7 +101,7 @@
 |:---:|------|------|------|------|:--:|
 | **P1** | TCC 超线性标度律：Route≡Transform→物理液态计算增益下界 | Nat.Comp.Sci / PRX | 2027 Q1 | T1.1 | ⏳ |
 | **P2** | TCC-16 原语完备性与 Route≡Transform 分解定理的正交性证明 | IEEE TIT / TPDS | 2027 Q1 | T1.2 | ⏳ |
-| **P3** | OneFabric-Memory: Unified Memory-Network Semantics for Topology-Centric Computing | ASPLOS / ISCA 2028 | 2027 Q4 | E3 | ⏳ |
+| **P3** | TCC OneFabric: Unified Memory-Network Semantics for Topology-Centric Computing | ASPLOS / ISCA 2028 | 2027 Q4 | E3 | ⏳ |
 
 ---
 
@@ -133,5 +133,5 @@
 **下一步行动 (本周)**:
 1. 🔴 启动 T1.1a 增益证明（确定数学框架：信息论 or 统计力学 or 代数拓扑）
 2. 🔴 启动 T2.1 仿真框架搭建（确定技术选型：Python+Numba vs SystemC）
-3. 🟡 将 OneFabric E3 纳入 M2 开发计划
+3. 🟡 将 TCC OneFabric (E3) 纳入 M2 开发计划
 

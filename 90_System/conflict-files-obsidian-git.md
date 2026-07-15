@@ -78,7 +78,7 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_Nature论文解读：不断发展的忆阻器产业（2025）_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_Nature重磅综述：趋同表型进化——破解复杂性状遗传密码的新路径_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_OFC2026：AI_Scale-Up互连的技术路线与产业化进展_md.ajson
-- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_OneFabric-Memory_统一内存与网络语义架构_md.ajson
+- Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_TCC OneFabric_统一内存与网络语义架构_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_PINN+GNN融合技术研究进展与应用案例_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_PRIME：基于忆阻器的输入感知动态SNN拓扑优化框架_md.ajson
 - Not a file: .smart-env/multi/00_KnowledgeBase_知识库_03_Inbox_文献与碎片_Post-Transformer技术路径与发展趋势全解析_📊_md.ajson
@@ -1334,7 +1334,7 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 - Not a file: .smart-env/multi/30_Outputs_论文_A组_CST基础理论_CST智能涌现验证与数据实验协议_md.ajson
 - Not a file: .smart-env/multi/30_Outputs_论文_B组_SDI-CC互连体系_B0_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述_md.ajson
 - Not a file: .smart-env/multi/30_Outputs_论文_B组_SDI-CC互连体系_B4_Route_IS_Transform_Isomorphism_Draft_md.ajson
-- Not a file: .smart-env/multi/30_Outputs_论文_B组_SDI-CC互连体系_RISC-V架构下SDI与OneFabric-Memory智算互联系统设计_md.ajson
+- Not a file: .smart-env/multi/30_Outputs_论文_B组_SDI-CC互连体系_RISC-V架构下SDI与TCC OneFabric智算互联系统设计_md.ajson
 - Not a file: .smart-env/multi/30_Outputs_论文_B组_SDI-CC互连体系_晶圆级SDI交换Mesh与最优扇出高维拓扑_md.ajson
 - Not a file: .smart-env/multi/90_System_99_杂项_本地数据库_base.ajson
 - Not a file: .smart-env/multi/Inbox_待分类_未命名_1_base.ajson
