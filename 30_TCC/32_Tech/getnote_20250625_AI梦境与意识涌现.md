@@ -5,7 +5,7 @@ source: "????"
 note_id: 1879960358228254640
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # AI梦境与意识涌现
 

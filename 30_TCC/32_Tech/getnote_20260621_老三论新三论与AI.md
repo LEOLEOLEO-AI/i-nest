@@ -5,7 +5,7 @@ source: "????"
 note_id: 1913421276979148232
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 老三论新三论与AI
 

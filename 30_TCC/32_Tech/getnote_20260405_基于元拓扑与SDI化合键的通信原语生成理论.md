@@ -5,7 +5,7 @@ source: "????"
 note_id: 1906263719348805176
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 基于元拓扑与SDI化合键的通信原语生成理论
 

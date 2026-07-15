@@ -5,7 +5,7 @@ source: "????"
 note_id: 1911286766280389776
 note_type: meeting
 tags: [录音笔记, 芯片互联, 玻璃基板, HBM替代]
----
+source: getnote---
 
 # 低损耗玻璃基板与替代HBM的互联技术创业项目讨论
 

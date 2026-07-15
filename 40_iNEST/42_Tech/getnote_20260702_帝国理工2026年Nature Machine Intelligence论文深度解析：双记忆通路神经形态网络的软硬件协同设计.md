@@ -5,7 +5,7 @@ source: "????"
 note_id: 1914423652552687528
 note_type: link
 tags: [AI链接笔记, 神经形态计算, 脉冲神经网络, 软硬件协同设计]
----
+source: getnote---
 
 # 帝国理工2026年Nature Machine Intelligence论文深度解析：双记忆通路神经形态网络的软硬件协同设计
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1880900539454226648
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # Brain2与SNNGrow的关系？研究类脑智能涌现需要用什么工具？如何开发异步电路实现SNN？
 

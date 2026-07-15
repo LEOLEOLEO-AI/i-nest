@@ -5,7 +5,7 @@ source: "????"
 note_id: 1879960161733466896
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 脑科学AI启示
 

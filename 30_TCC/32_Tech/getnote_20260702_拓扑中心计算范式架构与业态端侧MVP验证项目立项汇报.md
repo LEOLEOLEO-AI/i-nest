@@ -5,7 +5,7 @@ source: "????"
 note_id: 1914433998055725528
 note_type: audio
 tags: [录音笔记, 信创产业, 计算架构, 拓扑中心计算]
----
+source: getnote---
 
 # 拓扑中心计算范式架构与业态端侧MVP验证项目立项汇报
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1906964666602270360
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 关于NCCL通信
 

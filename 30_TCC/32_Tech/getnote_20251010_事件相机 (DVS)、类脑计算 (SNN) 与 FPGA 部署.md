@@ -5,7 +5,7 @@ source: "????"
 note_id: 1889901820244537000
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 事件相机 (DVS)、类脑计算 (SNN) 与 FPGA 部署
 

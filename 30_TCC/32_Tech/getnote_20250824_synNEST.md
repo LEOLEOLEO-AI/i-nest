@@ -5,7 +5,7 @@ source: "????"
 note_id: 1885508980308608248
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # synNEST
 

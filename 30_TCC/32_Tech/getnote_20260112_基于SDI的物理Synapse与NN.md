@@ -5,7 +5,7 @@ source: "????"
 note_id: 1898555723005148256
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 基于SDI的物理Synapse与NN
 

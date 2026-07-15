@@ -5,7 +5,7 @@ source: "????"
 note_id: 1909759384641744600
 note_type: link
 tags: [AI链接笔记, Chiplet技术, 多芯粒系统, 缓存一致性互连]
----
+source: getnote---
 
 # Enabling Scalable Multi-Die Systems for AI, HPC, and Automotive ADAS（Chiplet Summit技术报告深度解析）
 

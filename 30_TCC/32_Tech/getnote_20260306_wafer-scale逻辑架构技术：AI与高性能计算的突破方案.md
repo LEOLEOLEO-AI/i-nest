@@ -5,7 +5,7 @@ source: "????"
 note_id: 1903519449996180808
 note_type: link
 tags: [AI链接笔记, 晶圆级集成, 异构芯片封装, AI计算架构]
----
+source: getnote---
 
 # wafer-scale逻辑架构技术：AI与高性能计算的突破方案
 

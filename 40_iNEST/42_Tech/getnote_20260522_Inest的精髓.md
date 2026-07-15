@@ -5,7 +5,7 @@ source: "????"
 note_id: 1910656544254214032
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # Inest的精髓
 

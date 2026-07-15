@@ -5,7 +5,7 @@ source: "????"
 note_id: 1902025236241616104
 note_type: link
 tags: [AI链接笔记, 先进封装, imec, 热压键合（TCB）]
----
+source: getnote---
 
 # imec在IMAPS会议报告：2.5D/3D器件的封装与组装挑战（技术解析）
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1904181751133056848
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # RISC-V 架构下 SDI 智算互联系统设计：面向 LLM 低延迟推理与训练
 

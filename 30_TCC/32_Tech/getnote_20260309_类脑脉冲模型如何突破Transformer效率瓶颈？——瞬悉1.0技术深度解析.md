@@ -5,7 +5,7 @@ source: "????"
 note_id: 1903774802980803200
 note_type: link
 tags: [AI链接笔记, 类脑脉冲模型, 瞬悉1.0, Transformer效率优化]
----
+source: getnote---
 
 # 类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1896237177252277424
 note_type: link
 tags: [AI链接笔记, DARPA ERI 2.0, 三维异构集成（3DHI）, 半导体产业链]
----
+source: getnote---
 
 # 美国DARPA电子复兴计划2.0(ERI 2.0)深度解析：重塑微电子技术的国家战略
 

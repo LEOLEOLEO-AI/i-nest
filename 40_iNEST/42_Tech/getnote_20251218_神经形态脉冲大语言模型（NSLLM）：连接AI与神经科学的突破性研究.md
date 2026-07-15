@@ -5,7 +5,7 @@ source: "????"
 note_id: 1896243996586601648
 note_type: link
 tags: [AI链接笔记, 神经形态计算, 脉冲大语言模型（NSLLM）, 低功耗AI]
----
+source: getnote---
 
 # 神经形态脉冲大语言模型（NSLLM）：连接AI与神经科学的突破性研究
 

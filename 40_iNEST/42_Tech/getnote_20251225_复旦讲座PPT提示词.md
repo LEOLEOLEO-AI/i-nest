@@ -5,7 +5,7 @@ source: "????"
 note_id: 1896927818730814712
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 复旦讲座PPT提示词
 

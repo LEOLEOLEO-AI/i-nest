@@ -5,7 +5,7 @@ source: "????"
 note_id: 1889756010399280488
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 中美AI体系竞争
 

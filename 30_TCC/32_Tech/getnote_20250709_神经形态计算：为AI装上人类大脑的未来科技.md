@@ -5,7 +5,7 @@ source: "????"
 note_id: 1881270048375631136
 note_type: link
 tags: [AI链接笔记, 神经形态计算, 脉冲神经网络, AI能源危机, 低功耗AI]
----
+source: getnote---
 
 # 神经形态计算：为AI装上人类大脑的未来科技
 

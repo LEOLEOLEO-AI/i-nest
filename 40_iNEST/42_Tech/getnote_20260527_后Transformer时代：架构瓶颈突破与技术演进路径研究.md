@@ -5,7 +5,7 @@ source: "????"
 note_id: 1911096701093939864
 note_type: link
 tags: [AI链接笔记, Transformer, 自注意力机制, 后Transformer架构]
----
+source: getnote---
 
 # 后Transformer时代：架构瓶颈突破与技术演进路径研究
 

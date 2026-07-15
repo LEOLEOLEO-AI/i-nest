@@ -5,7 +5,7 @@ source: "????"
 note_id: 1888418241905835992
 note_type: link
 tags: [AI链接笔记, 神经形态计算, 计算神经科学, 人工通用智能]
----
+source: getnote---
 
 # 神经科学、AGI与神经形态计算的融合：统一研究范式与挑战
 

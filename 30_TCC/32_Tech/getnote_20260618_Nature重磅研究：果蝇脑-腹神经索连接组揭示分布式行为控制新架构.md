@@ -5,7 +5,7 @@ source: "????"
 note_id: 1913182058039119208
 note_type: link
 tags: [AI链接笔记, 果蝇连接组, 分布式控制, BANC数据集]
----
+source: getnote---
 
 # Nature重磅研究：果蝇脑-腹神经索连接组揭示分布式行为控制新架构
 

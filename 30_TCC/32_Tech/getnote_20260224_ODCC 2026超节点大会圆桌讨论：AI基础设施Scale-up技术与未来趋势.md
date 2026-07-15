@@ -5,7 +5,7 @@ source: "????"
 note_id: 1902537315528618536
 note_type: link
 tags: [AI链接笔记, AI基础设施, ODCC超节点大会, Scale-up技术]
----
+source: getnote---
 
 # ODCC 2026超节点大会圆桌讨论：AI基础设施Scale-up技术与未来趋势
 

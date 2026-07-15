@@ -5,7 +5,7 @@ source: "????"
 note_id: 1914663452387980120
 note_type: meeting
 tags: [录音笔记, 人工智能, 部门研讨, 连接涌现智能]
----
+source: getnote---
 
 # SOC部门连接涌现智能方向研讨会暨十四五项目申报讨论
 

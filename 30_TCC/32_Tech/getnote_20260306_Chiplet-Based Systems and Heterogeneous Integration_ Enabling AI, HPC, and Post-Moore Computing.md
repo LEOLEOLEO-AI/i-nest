@@ -5,7 +5,7 @@ source: "????"
 note_id: 1903520066322993704
 note_type: link
 tags: [AI链接笔记, 芯粒技术（Chiplet）, 异构集成, 先进封装（2.5D/3D）]
----
+source: getnote---
 
 # Chiplet-Based Systems and Heterogeneous Integration: Enabling AI, HPC, and Post-Moore Computing
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1880901431733682392
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 外部用户使用Trae限制
 

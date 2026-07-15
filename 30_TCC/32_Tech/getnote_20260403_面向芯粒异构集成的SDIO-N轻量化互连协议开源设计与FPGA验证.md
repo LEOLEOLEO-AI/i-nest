@@ -5,7 +5,7 @@ source: "????"
 note_id: 1906083839676522040
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 面向芯粒异构集成的SDIO-N轻量化互连协议开源设计与FPGA验证
 

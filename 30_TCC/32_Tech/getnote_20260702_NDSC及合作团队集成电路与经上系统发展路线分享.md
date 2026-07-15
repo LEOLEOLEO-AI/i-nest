@@ -5,7 +5,7 @@ source: "????"
 note_id: 1914469386439262640
 note_type: audio
 tags: [录音笔记, 集成电路, 经上系统, 技术路线]
----
+source: getnote---
 
 # NDSC及合作团队集成电路与经上系统发展路线分享
 

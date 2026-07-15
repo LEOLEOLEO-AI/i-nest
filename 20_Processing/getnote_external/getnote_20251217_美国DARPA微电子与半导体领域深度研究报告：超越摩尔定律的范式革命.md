@@ -5,7 +5,7 @@ source: "????"
 note_id: 1896186054256571944
 note_type: link
 tags: [AI链接笔记, DARPA微电子战略, 3D异构集成, 后摩尔时代]
----
+source: getnote---
 
 # 美国DARPA微电子与半导体领域深度研究报告：超越摩尔定律的范式革命
 

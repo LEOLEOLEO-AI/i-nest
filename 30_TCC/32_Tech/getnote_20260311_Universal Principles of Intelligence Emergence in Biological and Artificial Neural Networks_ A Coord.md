@@ -5,7 +5,7 @@ source: "????"
 note_id: 1903942312074055728
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # Universal Principles of Intelligence Emergence in Biological and Artificial Neural Networks: A Coordinated Spatiotemporal Complexity Theory
 

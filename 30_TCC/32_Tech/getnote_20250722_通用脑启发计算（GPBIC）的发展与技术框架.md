@@ -5,7 +5,7 @@ source: "????"
 note_id: 1882468287342801448
 note_type: link
 tags: [AI链接笔记, 通用脑启发计算, 神经形态计算, 忆阻器]
----
+source: getnote---
 
 # 通用脑启发计算（GPBIC）的发展与技术框架
 

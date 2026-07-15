@@ -5,7 +5,7 @@ source: "????"
 note_id: 1893318454917919864
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # TRAE工具安装与环境配置
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1910261870045616280
 note_type: link
 tags: [AI链接笔记, 脉冲神经网络（SNN）, RISC-V架构, FPGA加速]
----
+source: getnote---
 
 # FeNN-DMA：面向脉冲神经网络加速的RISC-V系统级芯片研究
 

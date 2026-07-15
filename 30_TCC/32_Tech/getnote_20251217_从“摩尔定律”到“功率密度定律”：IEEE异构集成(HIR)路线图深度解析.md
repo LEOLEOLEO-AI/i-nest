@@ -5,7 +5,7 @@ source: "????"
 note_id: 1896186245382570904
 note_type: link
 tags: [AI链接笔记, 先进封装技术, 异构集成（HIR）, 小芯片（Chiplet）]
----
+source: getnote---
 
 # 从“摩尔定律”到“功率密度定律”：IEEE异构集成(HIR)路线图深度解析
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1885384498196153592
 note_type: link
 tags: [AI链接笔记, 神经形态计算, 动态SNN, 注意力机制]
----
+source: getnote---
 
 # Speck：基于注意力机制的动态神经形态计算系统
 

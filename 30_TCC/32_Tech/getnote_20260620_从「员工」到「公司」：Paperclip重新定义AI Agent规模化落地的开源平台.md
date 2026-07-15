@@ -5,7 +5,7 @@ source: "????"
 note_id: 1913313503364789704
 note_type: link
 tags: [AI链接笔记, Paperclip, AI Agent, 多Agent编排]
----
+source: getnote---
 
 # 从「员工」到「公司」：Paperclip重新定义AI Agent规模化落地的开源平台
 

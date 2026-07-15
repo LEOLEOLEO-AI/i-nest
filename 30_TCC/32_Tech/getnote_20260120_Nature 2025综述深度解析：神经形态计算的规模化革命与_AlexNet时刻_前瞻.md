@@ -5,7 +5,7 @@ source: "????"
 note_id: 1899300991099034488
 note_type: link
 tags: [AI链接笔记, 神经形态计算, 脉冲神经网络(SNN), 大规模扩展]
----
+source: getnote---
 
 # Nature 2025综述深度解析：神经形态计算的规模化革命与"AlexNet时刻"前瞻
 

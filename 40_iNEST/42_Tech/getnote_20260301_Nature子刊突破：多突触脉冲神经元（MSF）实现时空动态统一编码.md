@@ -5,7 +5,7 @@ source: "????"
 note_id: 1903039209302273912
 note_type: link
 tags: [AI链接笔记, 脉冲神经网络（SNN）, 多突触神经元（MSF）, 时空编码]
----
+source: getnote---
 
 # Nature子刊突破：多突触脉冲神经元（MSF）实现时空动态统一编码
 

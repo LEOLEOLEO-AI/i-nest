@@ -5,7 +5,7 @@ source: "????"
 note_id: 1907662480676816400
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 虫洞路由 KL散度
 

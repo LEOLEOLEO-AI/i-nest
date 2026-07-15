@@ -5,7 +5,7 @@ source: "????"
 note_id: 1907694623137267728
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # TCC 原语库 v1.0 最终版规范
 

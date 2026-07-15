@@ -5,7 +5,7 @@ source: "????"
 note_id: 1905425820621658424
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 硬件nccl
 

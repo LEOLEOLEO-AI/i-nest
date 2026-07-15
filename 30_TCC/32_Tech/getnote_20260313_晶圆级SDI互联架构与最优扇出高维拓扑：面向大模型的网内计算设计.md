@@ -5,7 +5,7 @@ source: "????"
 note_id: 1904173278235913296
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 晶圆级SDI互联架构与最优扇出高维拓扑：面向大模型的网内计算设计
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1896186077878892072
 note_type: link
 tags: [AI链接笔记, DARPA 3DHI, 先进封装, NGMM计划]
----
+source: getnote---
 
 # DARPA投资3D异构集成（3DHI）先进封装工厂深度研究：重塑美国微电子产业格局
 

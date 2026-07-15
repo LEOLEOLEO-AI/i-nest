@@ -5,7 +5,7 @@ source: "????"
 note_id: 1903973328181278288
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 本地AI
 

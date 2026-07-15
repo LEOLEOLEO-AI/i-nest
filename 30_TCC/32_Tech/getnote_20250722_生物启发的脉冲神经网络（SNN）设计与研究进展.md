@@ -5,7 +5,7 @@ source: "????"
 note_id: 1882468060783348800
 note_type: link
 tags: [AI链接笔记, 脉冲神经网络(SNN), 类脑人工智能, 神经元模型, 突触可塑性, 集智俱乐部, Hodgkin-Huxley模型]
----
+source: getnote---
 
 # 生物启发的脉冲神经网络（SNN）设计与研究进展
 

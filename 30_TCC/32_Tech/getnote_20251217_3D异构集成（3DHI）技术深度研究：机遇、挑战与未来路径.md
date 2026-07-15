@@ -5,7 +5,7 @@ source: "????"
 note_id: 1896186120829089320
 note_type: link
 tags: [AI链接笔记, 3D异构集成（3DHI）, DARPA, 先进封装技术]
----
+source: getnote---
 
 # 3D异构集成（3DHI）技术深度研究：机遇、挑战与未来路径
 

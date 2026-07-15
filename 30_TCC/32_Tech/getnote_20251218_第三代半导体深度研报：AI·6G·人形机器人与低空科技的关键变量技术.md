@@ -5,7 +5,7 @@ source: "????"
 note_id: 1896237091352931504
 note_type: link
 tags: [AI链接笔记, 人工智能, 第三代半导体, SiC/GaN]
----
+source: getnote---
 
 # 第三代半导体深度研报：AI·6G·人形机器人与低空科技的关键变量技术
 

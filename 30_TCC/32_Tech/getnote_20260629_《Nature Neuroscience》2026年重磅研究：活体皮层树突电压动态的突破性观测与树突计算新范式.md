@@ -5,7 +5,7 @@ source: "????"
 note_id: 1914152644411797440
 note_type: link
 tags: [AI链接笔记, 神经科学前沿, 树突电压成像, Nature Neuroscience]
----
+source: getnote---
 
 # 《Nature Neuroscience》2026年重磅研究：活体皮层树突电压动态的突破性观测与树突计算新范式
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1896236861572181168
 note_type: link
 tags: [AI链接笔记, DARPA项目, 智能化无人作战, 微电子安全]
----
+source: getnote---
 
 # 美国DARPA四大关键项目群深度研究报告：战略布局、技术突破与全球影响
 

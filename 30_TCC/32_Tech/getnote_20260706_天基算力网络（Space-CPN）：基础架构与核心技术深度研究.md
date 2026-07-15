@@ -5,7 +5,7 @@ source: "????"
 note_id: 1914816098747429720
 note_type: link
 tags: [AI链接笔记, 类脑计算, 天基算力网络, 星载智能处理]
----
+source: getnote---
 
 # 天基算力网络（Space-CPN）：基础架构与核心技术深度研究
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1902181985369076264
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 基于SDI（软件定义晶上系统）化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索
 

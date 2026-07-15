@@ -5,7 +5,7 @@ source: "????"
 note_id: 1908472277432067552
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 【iNEST知识库】iNEST_Academic_Belief_Core
 

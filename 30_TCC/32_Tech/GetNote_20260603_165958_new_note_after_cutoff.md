@@ -20,7 +20,7 @@ tags:
 - 自由能原理
 - fep
 title: new_note_after_cutoff
----
+source: getnote---
 
 ## Original Note
 

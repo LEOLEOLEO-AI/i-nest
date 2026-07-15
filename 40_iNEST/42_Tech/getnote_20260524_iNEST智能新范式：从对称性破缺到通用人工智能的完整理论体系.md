@@ -5,7 +5,7 @@ source: "????"
 note_id: 1910813016354775376
 note_type: img_text
 tags: [图片笔记, 人工智能范式, iNEST智能理论, iNEST智能新范式]
----
+source: getnote---
 
 # iNEST智能新范式：从对称性破缺到通用人工智能的完整理论体系
 

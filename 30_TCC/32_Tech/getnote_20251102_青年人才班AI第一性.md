@@ -5,7 +5,7 @@ source: "????"
 note_id: 1891973207811578488
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 青年人才班AI第一性
 

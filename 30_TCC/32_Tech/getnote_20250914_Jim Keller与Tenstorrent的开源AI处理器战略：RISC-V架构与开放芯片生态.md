@@ -5,7 +5,7 @@ source: "????"
 note_id: 1887413063863406368
 note_type: link
 tags: [AI链接笔记, Jim Keller, RISC-V AI处理器, 开放芯片架构]
----
+source: getnote---
 
 # Jim Keller与Tenstorrent的开源AI处理器战略：RISC-V架构与开放芯片生态
 

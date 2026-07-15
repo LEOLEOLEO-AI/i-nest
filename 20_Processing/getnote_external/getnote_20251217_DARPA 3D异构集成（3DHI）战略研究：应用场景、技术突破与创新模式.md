@@ -5,7 +5,7 @@ source: "????"
 note_id: 1896186104722943152
 note_type: link
 tags: [AI链接笔记, 3D异构集成（3DHI）, DARPA NGMM计划, 芯粒（Chiplet）架构]
----
+source: getnote---
 
 # DARPA 3D异构集成（3DHI）战略研究：应用场景、技术突破与创新模式
 

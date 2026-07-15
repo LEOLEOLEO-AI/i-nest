@@ -26,7 +26,7 @@ tags:
 - FEP
 - hardware
 title: sample_TCC_SDI_test
----
+source: getnote---
 
 ## Original Note
 

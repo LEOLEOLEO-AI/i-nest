@@ -5,7 +5,7 @@ source: "????"
 note_id: 1885386720841706824
 note_type: link
 tags: [AI链接笔记, 神经形态计算, 边缘AI, 超低功耗芯片]
----
+source: getnote---
 
 # μBrain：超低功耗数字神经形态计算芯片架构
 

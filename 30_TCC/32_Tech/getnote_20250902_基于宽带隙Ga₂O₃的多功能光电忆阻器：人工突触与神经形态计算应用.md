@@ -5,7 +5,7 @@ source: "????"
 note_id: 1886316727290050104
 note_type: link
 tags: [AI链接笔记, 神经形态计算, 光电忆阻器, Ga₂O₃宽带隙材料]
----
+source: getnote---
 
 # 基于宽带隙Ga₂O₃的多功能光电忆阻器：人工突触与神经形态计算应用
 

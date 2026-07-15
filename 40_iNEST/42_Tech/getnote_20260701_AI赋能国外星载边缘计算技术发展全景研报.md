@@ -5,7 +5,7 @@ source: "????"
 note_id: 1914394546633081176
 note_type: link
 tags: [AI链接笔记, 星载边缘计算, 空天地一体化信息网络, AI赋能航天]
----
+source: getnote---
 
 # AI赋能国外星载边缘计算技术发展全景研报
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1914372793697468760
 note_type: link
 tags: [AI链接笔记, 忆阻器, 神经形态计算, 混沌边缘]
----
+source: getnote---
 
 # Nature子刊前沿成果：扩散型忆阻器实现混沌边缘低功耗神经动力学
 

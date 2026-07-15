@@ -5,7 +5,7 @@ source: "????"
 note_id: 1903520191950732616
 note_type: link
 tags: [AI链接笔记, 异构集成, 晶圆级芯片（WSC）, 人工智能加速]
----
+source: getnote---
 
 # 晶圆级芯片（WSC）技术深度分析：架构、集成与应用前景
 

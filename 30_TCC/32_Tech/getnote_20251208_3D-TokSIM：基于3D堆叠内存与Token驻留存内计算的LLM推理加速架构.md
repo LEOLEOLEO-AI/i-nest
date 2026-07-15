@@ -5,7 +5,7 @@ source: "????"
 note_id: 1895305012582679496
 note_type: link
 tags: [AI链接笔记, LLM推理加速, 3D堆叠内存, 存内计算(CIM)]
----
+source: getnote---
 
 # 3D-TokSIM：基于3D堆叠内存与Token驻留存内计算的LLM推理加速架构
 

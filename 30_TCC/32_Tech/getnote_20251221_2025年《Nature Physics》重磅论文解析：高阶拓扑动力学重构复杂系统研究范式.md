@@ -5,7 +5,7 @@ source: "????"
 note_id: 1896510456357664640
 note_type: link
 tags: [AI链接笔记, 高阶拓扑动力学, 复杂系统理论, 拓扑结构演化]
----
+source: getnote---
 
 # 2025年《Nature Physics》重磅论文解析：高阶拓扑动力学重构复杂系统研究范式
 

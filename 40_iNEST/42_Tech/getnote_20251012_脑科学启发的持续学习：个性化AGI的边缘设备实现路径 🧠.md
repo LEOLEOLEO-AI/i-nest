@@ -5,7 +5,7 @@ source: "????"
 note_id: 1890089224699522728
 note_type: link
 tags: [AI链接笔记, 个性化AGI, 持续学习, 突触修剪]
----
+source: getnote---
 
 # 脑科学启发的持续学习：个性化AGI的边缘设备实现路径 🧠
 

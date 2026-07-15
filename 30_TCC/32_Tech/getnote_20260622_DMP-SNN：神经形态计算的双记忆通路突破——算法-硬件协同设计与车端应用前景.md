@@ -5,7 +5,7 @@ source: "????"
 note_id: 1913545854653576648
 note_type: link
 tags: [AI链接笔记, 神经形态计算, 脉冲神经网络, 双记忆通路]
----
+source: getnote---
 
 # DMP-SNN：神经形态计算的双记忆通路突破——算法-硬件协同设计与车端应用前景
 

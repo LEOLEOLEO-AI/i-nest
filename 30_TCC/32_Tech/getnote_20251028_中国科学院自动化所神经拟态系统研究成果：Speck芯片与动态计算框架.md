@@ -5,7 +5,7 @@ source: "????"
 note_id: 1891536863828217488
 note_type: link
 tags: [AI链接笔记, 神经拟态计算, 异步感知芯片, 脉冲神经网络（SNNs）]
----
+source: getnote---
 
 # 中国科学院自动化所神经拟态系统研究成果：Speck芯片与动态计算框架
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1904316329637785424
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 面向万亿参数大模型训练的SDI 软件定义互联 + 网内原生 AI 通信加速系统
 

@@ -5,7 +5,7 @@ source: "????"
 note_id: 1887734980252103232
 note_type: link
 tags: [AI链接笔记, AI集群网络, SIGCOMM 2025, 高带宽光互联]
----
+source: getnote---
 
 # 2025 SIGCOMM：华为AI集群网络的六大技术挑战与突破方向
 

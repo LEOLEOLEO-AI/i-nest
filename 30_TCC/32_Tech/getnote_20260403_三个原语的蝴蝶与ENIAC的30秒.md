@@ -5,7 +5,7 @@ source: "????"
 note_id: 1906137558979747568
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 三个原语的蝴蝶与ENIAC的30秒
 

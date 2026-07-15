@@ -5,7 +5,7 @@ source: "????"
 note_id: 1903519698030699968
 note_type: link
 tags: [AI链接笔记, 晶圆级AI芯片, PLMR模型, WaferLLM]
----
+source: getnote---
 
 # 晶圆级AI芯片：突破AI算力瓶颈的硬件革命与软件适配
 

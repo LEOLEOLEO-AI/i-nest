@@ -5,7 +5,7 @@ source: "????"
 note_id: 1911927144829824880
 note_type: link
 tags: [AI链接笔记, FPGA加速开发, 开源FPGA Shell, 数据中心异构计算]
----
+source: getnote---
 
 # Coyote开源FPGA Shell：重塑数据中心加速开发范式的系统级解决方案
 

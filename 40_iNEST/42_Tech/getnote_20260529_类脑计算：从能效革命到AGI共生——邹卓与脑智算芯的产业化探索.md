@@ -5,7 +5,7 @@ source: "????"
 note_id: 1911282090135839272
 note_type: link
 tags: [AI链接笔记, 类脑计算, 邹卓, 脑智算芯]
----
+source: getnote---
 
 # 类脑计算：从能效革命到AGI共生——邹卓与脑智算芯的产业化探索
 

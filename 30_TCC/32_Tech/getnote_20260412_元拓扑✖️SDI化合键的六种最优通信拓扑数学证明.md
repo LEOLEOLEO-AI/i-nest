@@ -5,7 +5,7 @@ source: "????"
 note_id: 1906962634008792672
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # 元拓扑✖️SDI化合键的六种最优通信拓扑数学证明
 

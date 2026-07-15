@@ -5,7 +5,7 @@ source: "????"
 note_id: 1903941287724843544
 note_type: plain_text
 tags: []
----
+source: getnote---
 
 # Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities: A Renormalization Group Approach
 
