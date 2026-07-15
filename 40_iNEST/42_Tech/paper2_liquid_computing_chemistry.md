@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "paper2 liquid computing chemistry"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Liquid Computing Chemistry
 ## Compound-Bond Self-Evolution as a New Computing Paradigm
 

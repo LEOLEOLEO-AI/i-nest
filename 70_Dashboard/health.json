@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T16:21:35.223862",
+  "timestamp": "2026-07-15T16:22:25.905299",
   "dimensions": {
     "digestion": {
       "score": 100,
@@ -8,9 +8,9 @@
       "status": "CLEAR"
     },
     "linking": {
-      "score": 70,
-      "coverage_pct": 69.0,
-      "files_checked": 400
+      "score": 30,
+      "coverage_pct": 79.5,
+      "files_checked": 1000
     },
     "insights": {
       "score": 100,
@@ -19,7 +19,7 @@
     },
     "git_sync": {
       "score": 30,
-      "uncommitted_files": 385
+      "uncommitted_files": 202
     },
     "output": {
       "score": 85,
@@ -34,20 +34,20 @@
     },
     "frontmatter": {
       "score": 30,
-      "with_frontmatter_pct": 13.5
+      "with_frontmatter_pct": 34.6
     },
     "automation": {
       "score": 100,
       "daily_pipeline_active": true
     }
   },
-  "overall": 70.6,
+  "overall": 65.6,
   "alerts": [
-    "385 uncommitted files"
+    "202 uncommitted files"
   ],
   "recommendations": [
     "Run git commit+push to sync changes",
     "Run link_engine.py to add frontmatter"
   ],
-  "grade": "B"
+  "grade": "C"
 }

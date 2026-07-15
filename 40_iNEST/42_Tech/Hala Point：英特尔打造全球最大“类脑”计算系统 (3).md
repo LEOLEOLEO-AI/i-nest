@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Hala Point：英特尔打造全球最大“类脑”计算系统 (3)"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Hala Point：英特尔打造全球最大“类脑”计算系统
 
 > 笔记本: 1.1 新导入  

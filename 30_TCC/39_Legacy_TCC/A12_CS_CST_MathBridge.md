@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "A12 CS CST MathBridge"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # 论文 A12：复杂度同步 ↔ CST智能涌现阈值 数学对接论文
 # Complexity Synchronization as Dynamic Γst: Bridging ULMFDS with CST Intelligence Emergence
 

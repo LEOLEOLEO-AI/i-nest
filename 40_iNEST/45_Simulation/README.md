@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "README"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # microns-nda-access
 
 This guide will walk you through setting up the `nda` database locally. The `nda` database contains the functional data for the MICrONS project.

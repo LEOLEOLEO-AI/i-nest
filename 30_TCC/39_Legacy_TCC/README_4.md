@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "README 4"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # Cloud side setup
 
 1. Copy this folder to the cloud host (example target: `/tmp/trae_bridge_cloud/`).

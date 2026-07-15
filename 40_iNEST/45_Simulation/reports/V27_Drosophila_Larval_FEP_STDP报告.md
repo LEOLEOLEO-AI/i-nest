@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "V27 Drosophila Larval FEP STDP报告"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿---
 title: V27_Drosophila_Larval_FEP_STDP报告
 date: 2026-06-19

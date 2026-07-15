@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "1plus1gt2 Proof v4 1 Rigorous 2026-07-08"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # 1+1>2 三维超线性增益：严格论证
 
 **版本**：v4.1 论证版  

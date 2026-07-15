@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "iNEST 苏州实验室汇报PPT提纲 v1"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # iNEST 苏州实验室汇报 PPT 提纲
 **主题**：网络时空协同智能涌现范式——从物理第一性到工程路径  
 **时间**：2026年  

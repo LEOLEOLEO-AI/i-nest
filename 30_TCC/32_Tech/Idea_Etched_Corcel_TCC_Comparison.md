@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "Idea Etched Corcel TCC Comparison"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Idea：英国（或知名）大模型 ASIC 创业公司与 TCC 架构的深度对比
 
 > **背景**：您提到的那家号称“把大模型做成 ASIC，Token 速率极快”的公司，业界最著名的是 **Etched**（其产品为 Sohu 芯片，号称烧死 Transformer 架构的 ASIC，Token 速率可达惊人的 500,000 token/s），或者英国的 **Graphcore**（虽非纯大模型 ASIC，但其 IPU 架构强调图计算和片上 SRAM 分布式处理），以及 **Groq**（英国创业公司，LPU 架构，以极致的决定性低延迟和超高 Token 速率闻名）。目前最符合“超快 Token、LLM ASIC 创业”特征的代表是 **Groq（LPU）** 和 **Etched（Sohu）**。

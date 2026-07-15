@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "[V2] 海河实验室 项目指南 MetaTopo MVP FPGA版"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # 海河实验室项目指南（2026年度重大专项）
 ## 基于元拓扑-SDI化合键理论的介观尺度网络智能涌现架构与端侧FPGA原型验证
 

@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "SSOT"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # SSOT
 
 Generated: 2026-05-03 10:10:57

@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "NCCL 系列之深入解析 NCCL 拓扑建模"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # NCCL 系列之深入解析 NCCL 拓扑建模
 
 > 笔记本: 我的剪贴板  

@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "iNEST先导项目 致徐南平主任说帖 v1.0"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # iNEST 先导项目说帖：致徐南平主任
 
 # 物理 AGI 的中国路线 —— 为什么苏州实验室必须抢占这个制高点

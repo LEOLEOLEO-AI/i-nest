@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "大白话大模型Transformer架构 - 基于自注意力机制的神经网络结构"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 大白话大模型Transformer架构 - 基于自注意力机制的神经网络结构
 
 > 笔记本: 我的剪贴板  

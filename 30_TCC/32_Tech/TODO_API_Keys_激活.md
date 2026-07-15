@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "TODO API Keys 激活"
+created: 2026-07-08
+modified: 2026-07-08
+---
 ﻿
 ### 🔑 API Key 待激活
 - [ ] **IEEE Xplore** — Key: apsps437re6rg96a382wyjem, Status: waiting → 查 qinrangliu@tju.edu.cn 邮箱确认激活

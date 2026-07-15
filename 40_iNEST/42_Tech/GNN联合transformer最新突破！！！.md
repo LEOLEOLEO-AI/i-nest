@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "GNN联合transformer最新突破！！！"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # GNN联合transformer最新突破！！！
 
 > 笔记本: 我的剪贴板  

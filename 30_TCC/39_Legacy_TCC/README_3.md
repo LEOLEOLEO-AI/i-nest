@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "README 3"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # Genspark Claw → Local Worker Bridge
 
 This folder contains scripts that let a remote Linux host enqueue jobs and execute them on this Windows machine via SSH reverse tunnel.

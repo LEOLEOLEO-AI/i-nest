@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "论文B B5 NCC11系统实现 ASPLOS27"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # 论文B（B5）：NCC-11系统实现与评测
 # Paper B (B5): NCC-11 Minimal Complete Primitive Library for Liquid Hardware
 # 目标：ASPLOS/MICRO 2027 April cycle | 截止：2027年4月15日

@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "TCC iNEST Literature Insights 2026-07-07"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # TCC & iNEST 文献洞察分析报告
 **生成日期**：2026-07-07  
 **分析框架**：拓扑中心计算（TCC）× 涌现智能时空复杂度（iNEST/CST）  

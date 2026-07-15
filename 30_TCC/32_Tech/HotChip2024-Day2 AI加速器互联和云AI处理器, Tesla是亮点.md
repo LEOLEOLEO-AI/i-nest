@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "HotChip2024-Day2 AI加速器互联和云AI处理器, Tesla是亮点"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # HotChip2024-Day2: AI加速器互联和云AI处理器, Tesla是亮点
 
 > 笔记本: 我的剪贴板  

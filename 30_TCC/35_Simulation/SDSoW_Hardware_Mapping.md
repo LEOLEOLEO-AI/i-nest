@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "SDSoW Hardware Mapping"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # SDSoW 硬件映射方案
 
 ## Software-Defined System on Wafer — SDI 三规则硬件原语映射

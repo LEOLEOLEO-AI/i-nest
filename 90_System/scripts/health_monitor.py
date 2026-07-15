@@ -42,7 +42,7 @@ def compute_health():
     
     # DIM 2: Link Coverage
     total = 0; linked = 0
-    for f in list((VAULT/"30_TCC").rglob("*.md"))[:200] + list((VAULT/"40_iNEST").rglob("*.md"))[:200]:
+    for f in list((VAULT/"30_TCC").rglob("*.md"))[:500] + list((VAULT/"40_iNEST").rglob("*.md"))[:500]:
         try:
             c = f.read_text(encoding="utf-8", errors="replace")
             total += 1
@@ -91,7 +91,7 @@ def compute_health():
     
     # DIM 6: Task Tracking
     tasks_total = 0; tasks_done = 0
-    for f in list((VAULT/"30_TCC").rglob("*.md"))[:300] + list((VAULT/"40_iNEST").rglob("*.md"))[:300]:
+    for f in list((VAULT/"30_TCC").rglob("*.md"))[:500] + list((VAULT/"40_iNEST").rglob("*.md"))[:500]:
         try:
             c = f.read_text(encoding="utf-8", errors="replace")[:500]
             tasks_total += len(re.findall(r'- \[[ x]\]', c))
@@ -106,7 +106,7 @@ def compute_health():
     
     # DIM 7: Frontmatter Quality
     fm_total = 0; fm_good = 0
-    for f in list((VAULT/"30_TCC").rglob("*.md"))[:200]:
+    for f in list((VAULT/"30_TCC").rglob("*.md"))[:500]:
         try:
             c = f.read_text(encoding="utf-8", errors="replace")
             fm_total += 1

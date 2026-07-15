@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Quanta：Hopfield网络：催生AI的涌现物理学 (2)"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Quanta：Hopfield网络：催生AI的涌现物理学
 
 > 笔记本: 我的剪贴板  

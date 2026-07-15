@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "HW Physics Feasibility v1"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # iNEST硬件路线可行性论证
 ## 物理第一性 × 能量第一抓手 × 最小自由能
 **版本**：v1 | **日期**：2026-06-07 | **状态**：正式

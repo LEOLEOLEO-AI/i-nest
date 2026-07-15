@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "paper1 iNEST core architecture"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # SDI Compound-Bond Self-Evolving Network
 ## Physics-First Architecture for Intelligence Emergence
 

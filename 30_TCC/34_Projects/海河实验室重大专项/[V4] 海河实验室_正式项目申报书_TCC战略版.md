@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "[V4] 海河实验室 正式项目申报书 TCC战略版"
+created: 2026-07-07
+modified: 2026-07-07
+---
 
 ---
 title: 海河实验室2026年度重大专项正式项目申报书（V4·TCC战略版）

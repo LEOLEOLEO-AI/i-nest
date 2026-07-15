@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "TCC原语规范 v30最终版 权威定义"
+created: 2026-07-07
+modified: 2026-07-07
+---
 > ⚠️ 已废弃 — 内容已合并至 [[TCC_Knowledge_Base_Baseline_v2.0]]（2026-07-03 全库合并）。
 
 ---

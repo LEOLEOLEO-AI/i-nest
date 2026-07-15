@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "iNEST计算范式 四单位体系化分工规划 v1.0"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿---
 title: "iNEST计算范式_四单位体系化分工规划"
 date: 2026-06-18

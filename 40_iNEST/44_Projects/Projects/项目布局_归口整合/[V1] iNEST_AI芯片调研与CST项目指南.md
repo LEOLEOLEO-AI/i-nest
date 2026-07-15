@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "[V1] iNEST AI芯片调研与CST项目指南"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # AI芯片初创公司网络架构创新调研 × CST项目指南建议
 
 > 版本 v1.0 | 2026-03-22  

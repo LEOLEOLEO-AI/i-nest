@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "openworm README"
+created: 2026-07-03
+modified: 2026-07-03
+---
 *C. elegans* models in NeuroML and neuroConstruct
 ==============================================
 

@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "CST V25 ρ0.976 科学性质询报告 v1.0"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿---
 title: "CST V25 Spearman ρ=0.976 科学性质询——独立第三方视角的严格审查"
 date: 2026-06-20

@@ -18,7 +18,7 @@ def infer_direction(path_str, content):
 
 def boost_frontmatter():
     count = 0
-    for f in list((VAULT/"30_TCC").rglob("*.md"))[:1000] + list((VAULT/"40_iNEST").rglob("*.md"))[:1000]:
+    for f in list((VAULT/"30_TCC").rglob("*.md")) + list((VAULT/"40_iNEST").rglob("*.md")):
         try:
             c = f.read_text(encoding="utf-8", errors="replace")
             if c.startswith("---"): continue  # Already has frontmatter

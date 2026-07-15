@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "README 2"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # Get 导出导入脚本
 
 用法：

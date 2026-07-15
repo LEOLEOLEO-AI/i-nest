@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "P1-1 NCC硬件IP核阵列 专利框架"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 专利 P2：面向NCC的可重构原语硬件IP核阵列
 # Patent P2: Reconfigurable Primitive IP Core Array for NCC
 # 状态：📋 框架完成 | 目标提交：2026年7月（CNIPA）

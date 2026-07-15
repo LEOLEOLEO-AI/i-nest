@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Nature 长文综述：类脑智能与脉冲神经网络前沿"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Nature 长文综述：类脑智能与脉冲神经网络前沿
 
 > 笔记本: 微信  

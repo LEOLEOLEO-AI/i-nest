@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "[V1] P-Paradigm NatureElectronics 综述大纲 Liquid OODA"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # P-Paradigm 综述论文大纲 (Nature Electronics)
 ## Title: Liquid Hardware and the Topology-Centric Computing Paradigm: From Isomorphism Laws to Embodied AI
 **Authors:** Qinrang Liu et al.

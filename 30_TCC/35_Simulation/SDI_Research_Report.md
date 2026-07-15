@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "SDI Research Report"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # SDI极简规则驱动神经网络小世界拓扑与功能涌现
 ## ——从线虫到人类，从拓扑到功能的跨物种验证
 

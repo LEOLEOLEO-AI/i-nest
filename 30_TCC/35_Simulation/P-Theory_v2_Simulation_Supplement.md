@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "P-Theory v2 Simulation Supplement"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿# SDI Simulation Supplement for P-Theory v2
 # =========================================
 # Section to be inserted: after Section 4 (Fractal Scaling)

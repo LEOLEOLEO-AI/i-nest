@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "智能涌现 Emergent Abilities LLM 文献综述"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿---
 title: "智能涌现：大语言模型涌现能力文献综述"
 date: 2026-07-07

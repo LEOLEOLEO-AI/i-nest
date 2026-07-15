@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "iNEST技术源对标分析 涌现科学的全球差异定位 v1.0"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿---
 title: "iNEST技术源对标分析_涌现科学的全球差异定位_v1.0"
 date: 2026-06-18

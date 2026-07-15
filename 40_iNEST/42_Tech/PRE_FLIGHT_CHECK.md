@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "PRE FLIGHT CHECK"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # iNEST 仿真实验 Pre-Flight 第一性校验规程
 # Version 2.0 — 2026-06-09
 # 覆盖：CST V2.1 全部10个分量 + α + Γst

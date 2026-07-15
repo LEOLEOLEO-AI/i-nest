@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "Three Papers Gap Analysis"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿# iNEST Three Core Papers Gap Analysis and Priority Actions
 # =========================================================
 # Date: 2026-06-04

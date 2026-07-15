@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "Git清除密码指南"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Windows 上清除错误的 Git 凭证
 
 刘老师，如果命令行报错 `Unrecognized command or argument 'reject'`，说明您安装的这个版本的 `git-credential-manager` 是旧版语法，不支持 `reject` 这个快捷指令。

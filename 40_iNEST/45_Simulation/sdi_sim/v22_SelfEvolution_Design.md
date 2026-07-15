@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "v22 SelfEvolution Design"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # v22 SDI Self-Evolution Mechanism Design
 
 **Project**: iNEST SDI Self-Evolving Network Simulation Platform

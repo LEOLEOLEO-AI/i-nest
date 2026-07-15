@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "P-Mapping 论文全文 IEEE TPDS"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # Complete Physical Topology Mapping for Collective Communication Primitives: A CST-Optimal Framework for Topology-Centric Computing
 
 **Qinrang Liu**, Senior Member, IEEE, *School of Microelectronics, Tianjin University, Tianjin, China*

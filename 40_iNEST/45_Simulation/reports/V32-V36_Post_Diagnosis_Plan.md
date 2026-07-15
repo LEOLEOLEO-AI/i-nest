@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "V32-V36 Post Diagnosis Plan"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿---
 title: V32-V36 后诊断实验计划
 date: 2026-06-23

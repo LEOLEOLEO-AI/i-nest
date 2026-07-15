@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "temp guide v4"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿---
 title: "苏州实验室 iNEST先导项目指南——从关键材料到智能涌现网络（v7.0-FINAL 立项最终版）"
 date: 2026-07-07
