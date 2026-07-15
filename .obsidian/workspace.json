@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "60_MOC/02_DeepSeek_Insights.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "02_DeepSeek_Insights"
             }
           },
           {
@@ -198,13 +198,23 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "2071ee320dad11f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 825.5
+    "width": 576.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,48 +232,52 @@
       "templater-obsidian:Templater": false,
       "realclaudian:Open Claudian": false,
       "obsidian-kanban:Create new board": false,
-      "homepage:Open homepage": false,
-      "wechat-messenger:tongbuzhushou": false
+      "wechat-messenger:tongbuzhushou": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "unofficial-fabric-integration:Fabric": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "6787a70ce9c7fac0",
+  "active": "39c3a39345de06cb",
   "lastOpenFiles": [
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-13-2607.08897.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/INDEX.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-14-2607.11065.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-14-2607.10996.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-14-2604.14096.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-14-2603.10103.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-14-2603.03362.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-13-2607.09662.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-10-2510.16216.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-09-2607.07373.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-09-2607.07163.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-09-2607.06924.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-09-2509.18248.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-08-2607.06539.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-08-2607.06456.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-08-2607.05951.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-08-2607.05453.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-08-2512.05906.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-08-2507.11120.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-07-2607.05210.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-07-2607.03191.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-07-2607.03010.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-07-2607.02967.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-07-2607.02753.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-07-2607.02608.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded/2026-07-07-2507.23033.md",
-    "80_Archive/00_KnowledgeBase/02_Analysis/arxiv-upgraded",
-    "80_Archive/00_KnowledgeBase/02_Analysis",
-    "30_TCC/34_Projects/_attachments_proj/海河实验室_项目汇报_Marp演示版.pptx",
-    "30_TCC/34_Projects/_attachments_proj/海河实验室_项目汇报_Marp演示版.pdf",
-    "30_TCC/34_Projects/_attachments_proj/start_reverse_tunnel.ps1",
-    "30_TCC/34_Projects/_attachments_proj/setup_windows_openssh.ps1",
-    "30_TCC/34_Projects/_attachments_proj/setup_local_trae_cli.ps1",
-    "30_TCC/34_Projects/_attachments_proj/process_queue.sh",
-    "30_TCC/34_Projects/_attachments_proj/local_worker.ps1",
-    "30_TCC/34_Projects/_attachments_proj/local-worker-queue.timer",
+    "90_System/scripts/evolution_engine.py",
+    "90_System/scripts/task_board.py",
+    "90_System/scripts/link_engine.py",
+    "90_System/scripts/processing_workflow.py",
+    "Home.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/SDSoW_Hardware_Mapping.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/SDI_Rules_Bio_Evidence_v1.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/SDI_Research_Report.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/SDI_Paper_Draft.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/SDI_Four_Rules_v5_FINAL.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/SDI_Four_Rules_References_FINAL.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/CST_Parameter_Review_v2.md",
+    "80_Archive/duplicates/30_TCC/32_Tech/Push-Confirmation-Protocol-v2.0.md",
+    "80_Archive/duplicates/30_TCC/32_Tech/2026-06-23-sync-operation.md",
+    "80_Archive/duplicates/README.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/资源.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/脑网络动态结构-功能耦合的区域特异性研究.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/脑同构晶上复杂网络涌现智能重大项目建议.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/美国DARPA电子复兴计划2.0(ERI 2.0)深度解析：重塑微电子技术的国家战略.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/发改委_人工智能_物理涌现折子.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/专项时间点.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/[V2] iNEST_项目指南与论文规划.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/[V1] iNEST_项目指南与论文规划.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/TRAE编程.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/GitHub热门项目banana-slides深度解析：Vibe PPT生成工具的革新与实践.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/DARPA网络、信息战与通信领域项目深度分析报告（下册）：以体系化创新锻造未来信息战优势_18961842.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/DARPA空天、太空与高超音速领域项目深度分析报告.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/DARPA传感器、电子战与通信领域深度研究报告（下册）：能力与技术预测（2025-2035）.md",
+    "80_Archive/duplicates/30_TCC/34_Projects/2026年4月28号 井芯销售升级专项.md",
+    "80_Archive/duplicates/80_Archive/Journal/每日总结",
+    "80_Archive/duplicates/80_Archive/readme_fragments",
+    "80_Archive/duplicates/80_Archive/MEMORY",
+    "80_Archive/duplicates/80_Archive/skills",
+    "80_Archive/duplicates/80_Archive/Journal",
+    "80_Archive/duplicates/80_Archive/copilot",
+    "80_Archive/duplicates/80_Archive",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/font_atlas.png",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/blue_noise_med.png",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/ui-icons/sidebar.svg",

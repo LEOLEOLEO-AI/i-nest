@@ -1,60 +1,182 @@
-﻿# -*- coding: utf-8 -*-
-"""Process 10_Inbox: classify by keyword + move to TCC/iNEST"""
-
-import shutil, re
+﻿#!/usr/bin/env python3
+"""
+P1.1: Inbox消化引擎 — LLM分类+标签+双向链接
+Inbox → 分类(TCC/iNEST) → 提取观点 → 建立链接 → 移动归档
+"""
+import os, sys, json, re, shutil
+sys.stdout.reconfigure(encoding='utf-8')
 from pathlib import Path
 from datetime import datetime
+from openai import OpenAI
 
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 INBOX = VAULT / "10_Inbox"
+KEY = os.environ.get("DEEPSEEK_API_KEY") or "REDACTED_DEEPSEEK_KEY"
+client = OpenAI(api_key=KEY, base_url="https://api.deepseek.com/v1")
 
-TCC_KW = ["tcc","wafer","sdsow","晶圆","chiplet","互联","pcie","存算一体","算力",
-          "交换","路由","封装","2.5d","3dic","ccu","微纳电子","先进计算",
-          "拓扑中心","晶上","并行计算","数据中心","noc","sdi","交换机"]
-INEST_KW = ["inest","神经","类脑","涌现","意识","大脑","brain","脉冲","spiking",
-            "突触","synapse","神经元","neuromorphic","认知","cognitive",
-            "复杂度","complexity","临界","分形","fractal","介观","liquid","pnn"]
+TCC_DIRS = {"理论": "31_Theory", "技术": "32_Technology", "工程": "33_Engineering", "项目": "34_Projects", "仿真": "35_Simulation"}
+INEST_DIRS = {"理论": "41_Theory", "技术": "42_Technology", "工程": "43_Engineering", "项目": "44_Projects", "仿真": "45_Simulation"}
 
-def classify(filename, content):
-    text = (filename + " " + content[:1000]).lower()
-    t = sum(1 for kw in TCC_KW if kw in text)
-    i = sum(1 for kw in INEST_KW if kw in text)
-    if t > i: return "TCC"
-    if i > t: return "iNEST"
-    return "TCC"  # default
+def classify_and_extract(content, filename):
+    """DeepSeek V4 Pro: classify + tag + summarize + extract insights"""
+    prompt = f"""分析以下研究笔记，返回JSON:
 
-processed = 0
-skipped = 0
+笔记标题: {filename}
+内容:
+{content[:4000]}
 
-for f in list(INBOX.rglob("*.md")):
+返回:
+{{
+    "direction": "TCC 或 iNEST 或 both",
+    "category": "理论/技术/工程/项目/仿真/资料",
+    "tags": ["tag1", "tag2", "tag3"],
+    "summary": "一句话中文摘要(30字内)",
+    "key_points": ["核心观点1", "核心观点2"],
+    "tcc_insight": "对TCC拓扑中心计算的启发(无则写无)",
+    "inest_insight": "对iNEST神经形态计算的启发(无则写无)",
+    "actionable": "可转化为什么具体行动(论文方向/专利点/仿真任务/代码开发，无则写无)",
+    "quality": "high/medium/low",
+    "suggested_filename": "建议文件名(英文,50字内)"
+}}"""
     try:
-        content = f.read_text(encoding="utf-8", errors="ignore")
-    except:
-        continue
+        resp = client.chat.completions.create(
+            model="deepseek-chat", messages=[{"role":"user","content":prompt}],
+            temperature=0.3, max_tokens=1024, timeout=60
+        )
+        text = resp.choices[0].message.content
+        m = re.search(r'\{[\s\S]*\}', text)
+        if m: return json.loads(m.group())
+    except Exception as e:
+        print(f"  LLM error: {e}")
+    return None
+
+def find_related_files(content, direction, top_n=5):
+    """Simple keyword+title based related file finder"""
+    keywords = set(re.findall(r'[\w\u4e00-\u9fff]{2,}', content.lower()))
+    candidates = []
+    search_dirs = [VAULT/"30_TCC", VAULT/"40_iNEST"] if direction == "both" else \
+                  [VAULT/"30_TCC"] if direction == "TCC" else [VAULT/"40_iNEST"]
     
-    # Skip stubs and dedup markers
-    if len(content) < 100 or "可能重复" in content:
-        skipped += 1
-        continue
+    for sd in search_dirs:
+        if not sd.exists(): continue
+        for f in list(sd.rglob("*.md"))[:500]:
+            try:
+                fc = f.read_text(encoding="utf-8", errors="replace")[:1000].lower()
+                score = sum(1 for kw in keywords if kw in fc)
+                if score > 2:
+                    candidates.append((score, str(f.relative_to(VAULT))))
+            except: pass
     
-    cls = classify(f.name, content)
+    candidates.sort(reverse=True)
+    return [c[1] for c in candidates[:top_n]]
+
+def add_frontmatter_and_links(filepath, analysis, related):
+    """Add frontmatter + bidirectional links to file"""
+    content = filepath.read_text(encoding="utf-8", errors="replace")
+    direction = analysis.get("direction", "unknown")
+    tags = ", ".join(analysis.get("tags", []))
+    summary = analysis.get("summary", "")
     
-    if cls == "TCC":
-        dst = VAULT / "30_TCC" / "32_Tech" / f.name
+    fm = f"""---
+direction: {direction}
+category: {analysis.get("category", "")}
+tags: [{tags}]
+summary: "{summary}"
+quality: {analysis.get("quality", "medium")}
+processed: {datetime.now().strftime("%Y-%m-%d %H:%M")}
+---
+"""
+    # Add links section if not present
+    if "## 相关链接" not in content and "## Related" not in content:
+        links_section = "\n\n## 相关链接\n"
+        for r in related:
+            name = Path(r).stem
+            links_section += f"- [[{name}]]\n"
+        content = fm + content + links_section
     else:
-        dst = VAULT / "40_iNEST" / "42_Tech" / f.name
+        content = fm + content
     
-    if dst.exists():
-        # Add suffix
-        dst = dst.with_name(f"{dst.stem}_inbox{dst.suffix}")
+    filepath.write_text(content, encoding="utf-8")
+
+def process_inbox(dry_run=False):
+    """Main inbox processor"""
+    if not INBOX.exists():
+        print("Inbox not found")
+        return
     
-    shutil.move(str(f), str(dst))
-    processed += 1
+    md_files = list(INBOX.rglob("*.md"))
+    if not md_files:
+        print("No files in inbox")
+        return
+    
+    print(f"Processing {len(md_files)} inbox files...")
+    results = {"TCC": 0, "iNEST": 0, "both": 0, "skipped": 0, "errors": 0}
+    
+    for f in md_files:
+        print(f"\n  [{f.name[:60]}]")
+        try:
+            content = f.read_text(encoding="utf-8", errors="replace")
+            if len(content.strip()) < 50:
+                print("    Too short, skipping")
+                results["skipped"] += 1
+                continue
+            
+            # Classify
+            analysis = classify_and_extract(content, f.name)
+            if not analysis:
+                print("    LLM failed, moving to 20_Processing")
+                dest = VAULT / "20_Processing" / "21_Pending" / f.name
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                if not dry_run: shutil.move(str(f), str(dest))
+                results["errors"] += 1
+                continue
+            
+            direction = analysis.get("direction", "unknown")
+            category = analysis.get("category", "资料")
+            print(f"    → {direction}/{category}: {analysis.get('summary','?')[:60]}")
+            
+            # Find related files
+            related = find_related_files(content, direction)
+            if related:
+                print(f"    Links: {len(related)} related files")
+            
+            # Add frontmatter + links
+            add_frontmatter_and_links(f, analysis, related)
+            
+            # Move to target
+            if direction == "TCC":
+                subdir = TCC_DIRS.get(category, "31_Theory")
+                dest_dir = VAULT / "30_TCC" / subdir
+            elif direction == "iNEST":
+                subdir = INEST_DIRS.get(category, "41_Theory")
+                dest_dir = VAULT / "40_iNEST" / subdir
+            else:
+                # both or unknown → TCC by default
+                dest_dir = VAULT / "30_TCC" / "31_Theory"
+                direction = "TCC"
+            
+            dest_dir.mkdir(parents=True, exist_ok=True)
+            # Use suggested filename if available
+            new_name = analysis.get("suggested_filename", f.stem)
+            if not new_name.endswith(".md"): new_name += ".md"
+            dest = dest_dir / new_name
+            
+            if not dry_run:
+                if dest.exists():
+                    # Add suffix to avoid overwrite
+                    dest = dest_dir / f"{Path(new_name).stem}_{datetime.now().strftime('%H%M')}.md"
+                shutil.move(str(f), str(dest))
+                print(f"    Moved → {dest.relative_to(VAULT)}")
+            
+            results[direction] += 1
+            
+        except Exception as e:
+            print(f"    ERROR: {e}")
+            results["errors"] += 1
+    
+    print(f"\nDone: TCC={results['TCC']}, iNEST={results['iNEST']}, both={results['both']}, skipped={results['skipped']}, errors={results['errors']}")
+    return results
 
-# Clean empty dirs
-for d in sorted(INBOX.rglob("*"), reverse=True):
-    if d.is_dir() and not list(d.iterdir()):
-        d.rmdir()
-
-print(f"[{datetime.now().strftime('%H:%M:%S')}] Inbox processed: {processed} moved, {skipped} skipped")
-print(f"TCC: 30_TCC/32_Tech, iNEST: 40_iNEST/42_Tech")
+if __name__ == "__main__":
+    dry = "--dry-run" in sys.argv
+    process_inbox(dry_run=dry)

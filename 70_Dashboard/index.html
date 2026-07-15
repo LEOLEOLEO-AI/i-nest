@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
@@ -136,7 +136,7 @@ textarea.form-input{resize:vertical;min-height:60px}
 @media(max-width:768px){.kanban-grid{grid-template-columns:1fr 1fr}.daily-grid{grid-template-columns:1fr}.header{padding:10px 14px}.main{padding:14px}.metrics{grid-template-columns:repeat(auto-fit,minmax(120px,1fr))}}
 
 </style>
-</head>
+<script src="data.js"></script></head>
 <body>
 <header class="header">
   <div class="header-left">
@@ -234,6 +234,15 @@ var WEEKDAYS=["日","一","二","三","四","五","六"];
 
 // ─── METRICS ───
 function renderMetrics(){
+  // P0.4: Read from unified data bus
+  var v = (appData.unified && appData.unified.vault) ? appData.unified.vault : null;
+  var o = (appData.unified && appData.unified.output) ? appData.unified.output : null;
+  var tccTotal = v ? v.tcc_total : 2679;
+  var inestTotal = v ? v.inest_total : 1739;
+  var papers = o ? o.papers : 175;
+  var patents = o ? o.patents : 37;
+  var inbox = (appData.unified && appData.unified.inbox) ? appData.unified.inbox.pending : 12;
+  var total = v ? v.total_md : 5135;
   var e=appData.entries;
   var tcc=e.filter(function(x){return x.dim==="TCC"}).length;
   var inest=e.filter(function(x){return x.dim==="iNEST"}).length;
