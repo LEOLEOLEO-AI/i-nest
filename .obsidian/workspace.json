@@ -74,10 +74,24 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "50_Output/51_Papers/B7_OneFabric-Memory_论文计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "B7_OneFabric-Memory_论文计划"
             }
           }
         ]
@@ -386,7 +400,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a809b3f6acea7df0",
+  "active": "39c3a39345de06cb",
   "lastOpenFiles": [
     "80_Archive/deprecated_naming_conventions/TCC原语规范_v30最终版_权威定义.md",
     "80_Archive/deprecated_naming_conventions/TCC 原语库 v1.0 最终版规范.md",
