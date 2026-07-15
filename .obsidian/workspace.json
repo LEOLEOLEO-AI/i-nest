@@ -1,1 +1,442 @@
-﻿{"main":{"type":"empty","state":{}}}
+{
+  "main": {
+    "id": "106d1628e2c018ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "12be0295476212f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39c3a39345de06cb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "02_DeepSeek_Insights",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/02_DeepSeek_Insights.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"02_DeepSeek_Insights\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "04_Daily_Focus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/04_Daily_Focus.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"04_Daily_Focus\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "03_Daily_Action_2026-07-15",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/03_Daily_Action_2026-07-15.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"03_Daily_Action_2026-07-15\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "03_Daily_Action",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/03_Daily_Action.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"03_Daily_Action\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "02_DeepSeek_Insights",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/02_DeepSeek_Insights.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"02_DeepSeek_Insights\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "00_Diagnostic_Report",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/00_Diagnostic_Report.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_Diagnostic_Report\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "02_DeepSeek_Insights",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/02_DeepSeek_Insights.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"02_DeepSeek_Insights\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":49.62890625}"
+                },
+                {
+                  "title": "LINKAGE_GUIDE",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_System/LINKAGE_GUIDE.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"LINKAGE_GUIDE\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":57.86346726190476}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be3984518743f32a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b089f969c26a7a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23436690568efc2a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a886d14b16ce4383",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f18428db94e58f6b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "a809b3f6acea7df0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 625.5
+  },
+  "right": {
+    "id": "b131a582ddb31d11",
+    "type": "split",
+    "children": [
+      {
+        "id": "4232bf98c18c88a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "522b019866f7372c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "50_Output/51_Papers/TCC/SUBMISSION_READY_Topology_Centric_Computing_v1.0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "SUBMISSION_READY_Topology_Centric_Computing_v1.0 的反向链接列表"
+            }
+          },
+          {
+            "id": "92b6baa0fc41efdc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "50_Output/51_Papers/TCC/SUBMISSION_READY_Topology_Centric_Computing_v1.0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "SUBMISSION_READY_Topology_Centric_Computing_v1.0 的出链列表"
+            }
+          },
+          {
+            "id": "051dfdec4cf3818f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1e8abe7154b7ddbb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4bed42dc523ae559",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "50_Output/51_Papers/TCC/SUBMISSION_READY_Topology_Centric_Computing_v1.0.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "SUBMISSION_READY_Topology_Centric_Computing_v1.0 的大纲"
+            }
+          },
+          {
+            "id": "6787a70ce9c7fac0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "2071ee320dad11f3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 576.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markitdown:Convert to Markdown": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-kanban:Create new board": false,
+      "wechat-messenger:tongbuzhushou": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "unofficial-fabric-integration:Fabric": false,
+      "notebook-navigator:笔记本导航器": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "a809b3f6acea7df0",
+  "lastOpenFiles": [
+    "80_Archive/deprecated_naming_conventions/TCC原语规范_v30最终版_权威定义.md",
+    "80_Archive/deprecated_naming_conventions/TCC 原语库 v1.0 最终版规范.md",
+    "80_Archive/deprecated_naming_conventions/getnote_20260420_TCC 原语库 v1.0 最终版规范.md",
+    "80_Archive/deprecated_naming_conventions/TCC原语体系统一方案_v1.0_已归档.md",
+    "80_Archive/deprecated_naming_conventions/TCC计算范式命名规范3.0.md",
+    "80_Archive/deprecated_naming_conventions/TCC_TRC原语架构与SDI拓扑变换机理_v1.0.md",
+    "80_Archive/deprecated_naming_conventions/TCC_RTC原语架构与SDI拓扑变换机理_v1.0.md",
+    "80_Archive/deprecated_naming_conventions/NCC 原语库 v1.0 最终版规范.md",
+    "80_Archive/deprecated_naming_conventions/getnote_20260429_【iNEST知识库】TCC_Naming_Convention_v2.md",
+    "80_Archive/deprecated_naming_conventions/TCC原语规范_v1.1_权威定义.md",
+    "80_Archive/deprecated_naming_conventions/TCC_Knowledge_Base_Baseline_v1.md",
+    "80_Archive/deprecated_naming_conventions/TCC_Knowledge_Base_Baseline_v1.1.md",
+    "80_Archive/deprecated_naming_conventions",
+    "50_Output/54_Code/TCC/OneFabric-Memory_TCC16_工程落地方案_v1.0.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/_attachments/01_论文/01_论文/论文B_B5_TCC11系统实现_ASPLOS27.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/论文B_B5_TCC11系统实现_ASPLOS27.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/P2_TCC硬件IP核阵列专利_框架_1.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/P2_TCC硬件IP核阵列专利_框架.md",
+    "50_Output/55_Guides/[V4] 苏州实验室_iNEST先导项目指南_材料与网络基础_v4.0_修订版.md",
+    "50_Output/55_Guides/[V3] 苏州实验室_iNEST先导项目指南_材料与网络基础_v3.0_正式发布版.md",
+    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896236682257315368_美国DARPA_生物技术与人类增强_领域深度研究报告_从战场医疗到认知决胜的战略布局.md",
+    "20_Processing/getnote_external/GetNote_20260606_100554_kb_paper-ideas_getnote_1903941287724843544_Universal Scaling Laws for Intelligence Emergence from Devic.md",
+    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1897375963134821008_DARPA_水晶宫计划_深度研究报告_塑造下一代军用微系统材料变革.md",
+    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896237056993193136_美国军用无人系统技术_2010-2025__创新趋势与实战应用研究.md",
+    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896236967872621744_全球集成传感技术在军事领域的发展现状与趋势研究报告.md",
+    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896236804663837592_DARPA重塑未来战争形态_空天_太空与高超音速领域战略布局深度分析.md",
+    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186120829089320_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径.md",
+    "20_Processing/getnote_external",
+    "90_System/scripts/ncc_to_tcc.py",
+    "90_System/scripts/paper_classifier.py",
+    "90_System/scripts/task_planner.py",
+    "50_Output/51_Papers/paper_versions.json",
+    "90_System/scripts/paper_version_tracker.py",
+    "90_System/scripts/paper_dedup_scan.py",
+    "90_System/scripts/frontmatter_boost.py",
+    "70_Dashboard/health.json",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/font_atlas.png",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/blue_noise_med.png",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/ui-icons/sidebar.svg",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/redbook.svg",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/github.svg",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/douyin.svg",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/bilibili.svg",
+    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/skill/dashiai-ppt-favicon.png",
+    "30_TCC/31_Theory/tcc_paper_background_assets/image9.png",
+    "30_TCC/31_Theory/tcc_paper_background_assets/image8.png",
+    "80_Archive/Inbox_legacy/待分类/未命名.canvas",
+    "80_Archive/05_Fleeting/待分类/未命名.canvas",
+    "Inbox/待分类/未命名.canvas",
+    "05_Fleeting/待分类/未命名.canvas"
+  ]
+}

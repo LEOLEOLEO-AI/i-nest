@@ -122,7 +122,6 @@ v2.0 C=Control:    LINK/TICK/SYNC/MOVE             (不变)
 | M4 多场景扩展  | 2028.06 | 多任务液态切换验证                          |
 | M5 综合评估   | 2028.12 | 三元指标(J/task, D_task, V_transfer)实测 |
 
-
 ### 2.7 与专利 TCC-16 (tcc.*) 的对照
 
 | v2.0 | TCC-16 (tcc.*) | 变化说明 |
@@ -143,7 +142,6 @@ v2.0 C=Control:    LINK/TICK/SYNC/MOVE             (不变)
 | C.TICK | tcc.TICK | 一致 |
 | C.SYNC | — | v30新增 |
 | C.MOVE | tcc.MOVE | 一致 |
-
 
 ---
 
