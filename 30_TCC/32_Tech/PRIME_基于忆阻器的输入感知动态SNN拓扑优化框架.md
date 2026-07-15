@@ -160,3 +160,8 @@ memristors for input-aware dynamic SNN” 为题发表于《Science Advances》�
 
 ---
 **Tags:** [[BrainInspired]] [[Chiplet]]
+
+
+> [!note]- 版本跟踪
+> 本文另有版本: [[PRIME_基于忆阻器的输入感知动态SNN拓扑优化框架]]（主版本）
+> 此文件为 2026-07-07 版本，保留用于版本历史追溯。

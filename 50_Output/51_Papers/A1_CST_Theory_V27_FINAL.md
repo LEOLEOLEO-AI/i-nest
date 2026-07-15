@@ -809,3 +809,8 @@ Tags: #BrainInspired #CST #SDSoW #SDI #Chiplet
 - [[A Unified Theory of Intelligence Emergence from Spatiotemporal Network Complexity]]
 - [[RISC-V 鏋舵瀯涓?SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚?LLM 浣庡欢杩熸帹鐞嗕笌璁粌]]
 - [[鑻变紵杈綠B200鏋舵瀯瑙ｆ瀽1: 浜掕仈鏋舵瀯鍜屾湭鏉ユ紨杩沒]
+
+
+> [!note]- 版本跟踪
+> 本文另有版本: [[A1_CST_Theory_V25_FINAL]]（主版本）
+> 此文件为 2026-07-07 版本，保留用于版本历史追溯。

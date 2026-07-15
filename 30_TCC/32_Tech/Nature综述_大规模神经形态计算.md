@@ -442,3 +442,8 @@ Shenky20
 
 ---
 **Tags:** CST [[BrainInspired]] [[SDSoW]] [[Chiplet]]
+
+
+> [!note]- 版本跟踪
+> 本文另有版本: [[Nature综述_大规模神经形态计算]]（主版本）
+> 此文件为 2026-07-07 版本，保留用于版本历史追溯。

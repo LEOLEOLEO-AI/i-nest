@@ -14,3 +14,8 @@ tags: [TCC, SDI, architecture]
 2. 柔性键 (Flexible Bond)
 3. 可重构键 (Reconfigurable Bond)
 4. 自适应键 (Adaptive Bond)
+
+
+> [!note]- 版本跟踪
+> 本文另有版本: [[08_SDI化合物键_四型架构]]（主版本）
+> 此文件为 2026-07-07 版本，保留用于版本历史追溯。

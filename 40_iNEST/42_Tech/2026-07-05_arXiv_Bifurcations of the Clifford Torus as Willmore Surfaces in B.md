@@ -43,3 +43,7 @@ The Clifford torus in a Berger sphere with parameter $τ$ is a critical point of
 
 ---
 *2026-07-05 深度分析 | 相关度: 3/3 | iNEST论文*
+
+> [!note]- 版本跟踪
+> 本文另有版本: [[2026-07-05_arXiv_Bifurcations of the Clifford Torus as Willmore Surfaces in Berger Spheres]]（主版本）
+> 此文件为 2026-07-07 版本，保留用于版本历史追溯。

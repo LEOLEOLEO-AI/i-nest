@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T16:22:53.272396",
+  "timestamp": "2026-07-15T16:28:06.677578",
   "dimensions": {
     "digestion": {
       "score": 100,
@@ -14,16 +14,16 @@
     },
     "insights": {
       "score": 100,
-      "age_hours": 0.0,
+      "age_hours": 0.1,
       "file": "60_MOC\\03_Daily_Action_2026-07-15.md"
     },
     "git_sync": {
       "score": 30,
-      "uncommitted_files": 164
+      "uncommitted_files": 145
     },
     "output": {
       "score": 85,
-      "papers": 158,
+      "papers": 159,
       "patents": 37
     },
     "tasks": {
@@ -43,7 +43,7 @@
   },
   "overall": 65.6,
   "alerts": [
-    "164 uncommitted files"
+    "145 uncommitted files"
   ],
   "recommendations": [
     "Run git commit+push to sync changes",

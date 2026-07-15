@@ -267,3 +267,7 @@ tags:
 
 ---
 *来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 11:15*
+
+> [!note]- 版本跟踪
+> 本文另有版本: [[Structured Resonance An Introduction to Coherence Across Sys]]（主版本）
+> 此文件为 2026-07-07 版本，保留用于版本历史追溯。

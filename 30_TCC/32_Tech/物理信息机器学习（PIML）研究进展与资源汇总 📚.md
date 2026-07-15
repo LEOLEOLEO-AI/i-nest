@@ -66,3 +66,7 @@ http://quxiedu.com:6230/archives/chong-bang-xiao-xi-yi-xue-lei-mo-ban-ppthuo-qu
 
 ---
 *来源：Get笔记 | 类型：link | 入库：2026-04-29 10:16*
+
+> [!note]- 版本跟踪
+> 本文另有版本: [[物理信息机器学习（PIML）研究进展与资源汇总 📚]]（主版本）
+> 此文件为 2026-07-07 版本，保留用于版本历史追溯。

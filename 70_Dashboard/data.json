@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-15T16:20:56.004033",
+  "generated": "2026-07-15T16:28:07.334073",
   "date": "2026-07-15",
   "vault": {
-    "total_md": 3881,
+    "total_md": 3882,
     "tcc_total": 2012,
     "tcc_theory": 536,
     "tcc_tech": 0,
@@ -18,7 +18,7 @@
     "processing": 0
   },
   "output": {
-    "papers": 158,
+    "papers": 159,
     "patents": 37,
     "monographs": 8,
     "code": 114,
@@ -62,58 +62,10 @@
       "size": 10157
     },
     {
-      "name": "1plus1gt2_Mathematical_Proof_Framework.md",
-      "path": "30_TCC\\39_Legacy_TCC\\1plus1gt2_Mathematical_Proof_Framework.md",
-      "mtime": "21:12",
-      "size": 16551
-    },
-    {
-      "name": "1plus1gt2_Proof_v3_Scale_Deep_2026-07-08.md",
-      "path": "30_TCC\\39_Legacy_TCC\\1plus1gt2_Proof_v3_Scale_Deep_2026-07-08.md",
-      "mtime": "21:12",
-      "size": 17797
-    },
-    {
-      "name": "1plus1gt2_Proof_v4_1_Rigorous_2026-07-08.md",
-      "path": "30_TCC\\39_Legacy_TCC\\1plus1gt2_Proof_v4_1_Rigorous_2026-07-08.md",
-      "mtime": "21:12",
-      "size": 17411
-    },
-    {
-      "name": "1plus1gt2_Proof_v4_TaskAgilityFocus_2026-07-08.md",
-      "path": "30_TCC\\39_Legacy_TCC\\1plus1gt2_Proof_v4_TaskAgilityFocus_2026-07-08.md",
-      "mtime": "21:12",
-      "size": 20656
-    },
-    {
       "name": "A Paradigm Shift in Neuromorphic Engineering Meta-Topology, .md",
       "path": "30_TCC\\39_Legacy_TCC\\A Paradigm Shift in Neuromorphic Engineering Meta-Topology, .md",
       "mtime": "21:12",
       "size": 32436
-    },
-    {
-      "name": "A12_CS_CST_MathBridge.md",
-      "path": "30_TCC\\39_Legacy_TCC\\A12_CS_CST_MathBridge.md",
-      "mtime": "21:12",
-      "size": 5806
-    },
-    {
-      "name": "A12_CS_CST_数学对接论文_框架.md",
-      "path": "30_TCC\\39_Legacy_TCC\\A12_CS_CST_数学对接论文_框架.md",
-      "mtime": "21:12",
-      "size": 5806
-    },
-    {
-      "name": "A9_ActiveInference_FEP_CST.md",
-      "path": "30_TCC\\39_Legacy_TCC\\A9_ActiveInference_FEP_CST.md",
-      "mtime": "21:12",
-      "size": 2179
-    },
-    {
-      "name": "B3_P-Paradigm_NatureElectronics_框架.md",
-      "path": "30_TCC\\39_Legacy_TCC\\B3_P-Paradigm_NatureElectronics_框架.md",
-      "mtime": "21:12",
-      "size": 6307
     },
     {
       "name": "CopyNCC：面向AI与HPC的Γst=1网络中心计算架构.md",
@@ -122,28 +74,76 @@
       "size": 385
     },
     {
-      "name": "CST_Intelligence_Emergence_Paper_V25_SUBMITTED.md",
-      "path": "30_TCC\\39_Legacy_TCC\\CST_Intelligence_Emergence_Paper_V25_SUBMITTED.md",
-      "mtime": "21:12",
-      "size": 94248
-    },
-    {
       "name": "Discovering state-of-the-art reinforcement learning algorith.md",
       "path": "30_TCC\\39_Legacy_TCC\\Discovering state-of-the-art reinforcement learning algorith.md",
       "mtime": "21:12",
       "size": 7042
     },
     {
-      "name": "Discussion_Section_2026-07-06.md",
-      "path": "30_TCC\\39_Legacy_TCC\\Discussion_Section_2026-07-06.md",
+      "name": "NCC-LTC 深度研究报告.md",
+      "path": "30_TCC\\39_Legacy_TCC\\NCC-LTC 深度研究报告.md",
       "mtime": "21:12",
-      "size": 8632
+      "size": 31042
     },
     {
-      "name": "Idea_Etched_Corcel_NCC_Comparison.md",
-      "path": "30_TCC\\39_Legacy_TCC\\Idea_Etched_Corcel_NCC_Comparison.md",
+      "name": "TRAE工具安装与环境配置.md",
+      "path": "30_TCC\\39_Legacy_TCC\\TRAE工具安装与环境配置.md",
       "mtime": "21:12",
-      "size": 7356
+      "size": 3808
+    },
+    {
+      "name": "基于 FPGA 的 伊辛机 (Ising Machine) 仿真与实验平台.md",
+      "path": "30_TCC\\39_Legacy_TCC\\基于 FPGA 的 伊辛机 (Ising Machine) 仿真与实验平台.md",
+      "mtime": "21:12",
+      "size": 12553
+    },
+    {
+      "name": "无标题.md",
+      "path": "30_TCC\\39_Legacy_TCC\\无标题.md",
+      "mtime": "21:12",
+      "size": 1348
+    },
+    {
+      "name": "2026-06-24-2511.08065.md",
+      "path": "40_iNEST\\41_Theory\\2026-06-24-2511.08065.md",
+      "mtime": "21:12",
+      "size": 2849
+    },
+    {
+      "name": "2026-06-24-2606.22109.md",
+      "path": "40_iNEST\\41_Theory\\2026-06-24-2606.22109.md",
+      "mtime": "21:12",
+      "size": 2733
+    },
+    {
+      "name": "2026-06-25-2410.23876.md",
+      "path": "40_iNEST\\41_Theory\\2026-06-25-2410.23876.md",
+      "mtime": "21:12",
+      "size": 2575
+    },
+    {
+      "name": "2026-06-25-2606.17775.md",
+      "path": "40_iNEST\\41_Theory\\2026-06-25-2606.17775.md",
+      "mtime": "21:12",
+      "size": 2971
+    },
+    {
+      "name": "2026-06-25-2606.25826.md",
+      "path": "40_iNEST\\41_Theory\\2026-06-25-2606.25826.md",
+      "mtime": "21:12",
+      "size": 2825
+    },
+    {
+      "name": "2026-06-25-2606.25874.md",
+      "path": "40_iNEST\\41_Theory\\2026-06-25-2606.25874.md",
+      "mtime": "21:12",
+      "size": 2817
+    },
+    {
+      "name": "2026-06-26-2601.14961.md",
+      "path": "40_iNEST\\41_Theory\\2026-06-26-2601.14961.md",
+      "mtime": "21:12",
+      "size": 2736
     }
   ],
   "tasks": {
@@ -207,13 +207,13 @@
         "text": "CC-Connect 转发文章 → Obsidian 全链路实测",
         "dim": "iNEST",
         "file": "40_iNEST\\iNEST-Home.md",
-        "mtime": "07-07"
+        "mtime": "07-15"
       },
       {
         "text": "CST 仿真参数扫描启动",
         "dim": "iNEST",
         "file": "40_iNEST\\iNEST-Home.md",
-        "mtime": "07-07"
+        "mtime": "07-15"
       },
       {
         "text": "category: 待办",
@@ -237,7 +237,7 @@
         "text": "想象一下，你创造了一个人工智能工具，可以为其设定目标，即使是像「创造世界上最好的冰淇淋」这样模糊的目标，它也会拟出一个待办事项列表，执行待办事项，并根据进展来添加新的待办事项。随后它会继续重复这个过程",
         "dim": "iNEST",
         "file": "40_iNEST\\41_Theory\\AutoGPT_star量破10万，这是首篇系统介绍自主智能体的文章.md",
-        "mtime": "07-07"
+        "mtime": "07-15"
       }
     ],
     "papers": [],

@@ -216,3 +216,8 @@ TEXEL上集成的自适应指数泄漏积分-发射（AdExLIF）神经元电路�
 
 ---
 **Tags:** [[BrainInspired]] [[SDSoW]] [[Chiplet]]
+
+
+> [!note]- 版本跟踪
+> 本文另有版本: [[Nature_Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]（主版本）
+> 此文件为 2026-07-07 版本，保留用于版本历史追溯。
