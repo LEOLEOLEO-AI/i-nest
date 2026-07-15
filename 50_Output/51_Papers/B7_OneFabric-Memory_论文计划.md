@@ -36,3 +36,17 @@
 ---
 
 *最后更新: 2026-07-15*
+
+---
+
+## 工程落地方案
+
+👉 **[OneFabric-Memory × TCC-16 深度融合工程落地方案 v1.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/OneFabric-Memory_TCC16_工程落地方案_v1.0.md)**
+
+核心内容：
+- **UMNAS 统一地址空间**: 64-bit 寻址 (Tile ID + Region + Offset)
+- **C.MOVE 语义扩展**: DMA → 透明远程访问，OneFabric API (alloc/read/write/sync)
+- **SDI Page 表驱动**: C.LINK 原子切换，1.2 µs 拓扑重配置
+- **6个 IP 核分解**: OFM-ADDR/DMA/PAGE/SYNC/ROUTE/XFORM，~93K gates/Tile
+- **4阶段开发路线**: 2026 Q3 → 2027 Q4 流片准备
+- **3项专利 + 2篇论文**: B7 (ASPLOS/ISCA) + B7-S (OSDI/EuroSys)
