@@ -103,9 +103,12 @@ def process_processing_dir(dry_run=False):
     tcc_count, inest_count = 0, 0
     for f in remaining:
         try:
-            op = next((o for o in opinions if o.get("file") == f.name), None)
-            direction = op.get("direction", "TCC") if op else "TCC"
-            value = op.get("value", "medium")
+            op = next((o for o in opinions if o and o.get("file") == f.name), None)
+            direction = "TCC"
+            value = "medium"
+            if op:
+                direction = str(op.get("direction", "TCC")) if op.get("direction") else "TCC"
+                value = str(op.get("value", "medium")) if op.get("value") else "medium"
             
             if value == "low":
                 dest_dir = VAULT / "80_Archive" / "low_value"

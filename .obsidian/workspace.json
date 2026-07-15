@@ -18,6 +18,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "02_DeepSeek_Insights",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/02_DeepSeek_Insights.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"02_DeepSeek_Insights\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "04_Daily_Focus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/04_Daily_Focus.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"04_Daily_Focus\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "03_Daily_Action_2026-07-15",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/03_Daily_Action_2026-07-15.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"03_Daily_Action_2026-07-15\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "03_Daily_Action",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/03_Daily_Action.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"03_Daily_Action\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "02_DeepSeek_Insights",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/02_DeepSeek_Insights.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"02_DeepSeek_Insights\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "00_Diagnostic_Report",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/00_Diagnostic_Report.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_Diagnostic_Report\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "02_DeepSeek_Insights",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/02_DeepSeek_Insights.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"02_DeepSeek_Insights\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
@@ -32,53 +74,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "60_MOC/02_DeepSeek_Insights.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "02_DeepSeek_Insights"
-            }
-          },
-          {
-            "id": "e178233722fe2fcc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "TCC × iNEST 研发全景看板",
-                  "icon": "globe-2",
-                  "state": "{\"type\":\"webviewer\",\"state\":{\"url\":\"http://127.0.0.1:8899/home/work/.openclaw/workspace/70_Dashboard/index.html\",\"title\":\"TCC × iNEST 研发全景看板\",\"mode\":\"webview\"},\"icon\":\"globe-2\",\"title\":\"TCC × iNEST 研发全景看板\"}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "http://127.0.0.1:8899/home/work/.openclaw/workspace/Home.md",
-                "title": "127.0.0.1:8899/home/work/.openclaw/workspace/Home.md",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "127.0.0.1:8899/home/work/.openclaw/workspace/Home.md"
+              "title": "新标签页"
             }
           }
         ]
@@ -185,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 625.5
   },
   "right": {
     "id": "b131a582ddb31d11",
@@ -383,39 +382,39 @@
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "unofficial-fabric-integration:Fabric": false,
-      "homepage:Open homepage": false,
-      "notebook-navigator:笔记本导航器": false
+      "notebook-navigator:笔记本导航器": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "a809b3f6acea7df0",
+  "active": "39c3a39345de06cb",
   "lastOpenFiles": [
-    "60_MOC/03_Daily_Action.md",
-    "60_MOC/03_Daily_Action_2026-07-15.md",
-    "60_MOC/04_Daily_Focus.md",
+    "50_Output/51_Papers/混合专家大语言模型的系统与架构优化技术综述.md",
+    "60_MOC/00_Diagnostic_Report.md",
+    "30_TCC/31_Theory/超非线性增益.md",
+    "30_TCC/31_Theory/CST.md",
+    "30_TCC/31_Theory/SDI.md",
+    "60_MOC/Papers-MOC.md",
+    "80_Archive/MEMORY/2026-05-02.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/智能算力.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/智能的动力学本质_从无人机集群到意识涌现的范式重构.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/智能化战争中的OODA环.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/智能化战争中左右战争胜负的新变量：连接力、计算力、认知力.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/智能为何诞生在临界点_从人脑磁图到大语言模型的重整化线索.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶圆级集成技术用于人工智能处理器设计.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶圆级芯片，是未来.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶圆级封装的前世今生.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶圆级封装前景深度解读.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶圆级光收发器技术.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶圆级SDI互联架构与最优扇出高维拓扑_面向大模型的网内计算设计.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶圆级LLM推理系统介绍.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶圆四雄，都顶不住了！.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶上联盟在产业集群中的定位与可持续发展路径设计.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶上网络赋能超非线性增益.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶上电子电气架构.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶上理论_技术_工程与项目.md",
+    "80_Archive/duplicates/30_TCC/31_Theory/晶上演讲.md",
     "70_Dashboard/task_board.json",
-    "40_iNEST/42_Tech/新品定义提示词.md",
-    "40_iNEST/42_Tech/大白话大模型Transformer架构_-_基于自注意力机制的神经网络结构.md",
-    "40_iNEST/42_Tech/国内首个类脑计算芯片标准正式发布！.md",
-    "40_iNEST/42_Tech/全球首款_类脑智算体“智者一号”发布.md",
-    "40_iNEST/42_Tech/全球集成传感技术在军事领域的发展现状与趋势研究报告.md",
-    "40_iNEST/42_Tech/Post-Transformer技术路径与发展趋势全解析 📊.md",
-    "40_iNEST/41_Theory/非线性动力学：超越线性思维的科学革命与前沿应用_1.md",
-    "40_iNEST/41_Theory/非线性动力学：超越线性思维的科学革命与前沿应用.md",
-    "40_iNEST/41_Theory/郑南宁院士：人工智能进化到AGI，最大的障碍是无法感知世界、缺少常识.md",
-    "40_iNEST/41_Theory/通过复杂网络连接计算、存储等资源，在系统层面追求1+1＞2的系统最优，如何设计这个复杂网络及评价指标？.md",
-    "40_iNEST/41_Theory/通过复杂网络连接计算_存储等资源_在系统层面追求1_1_2的系统最优_如何设计这个复杂网络及评价指标_.md",
-    "40_iNEST/41_Theory/超越π0.5，复旦团队首创「世界模型+具身训练+强化学习」闭环框架.md",
-    "40_iNEST/41_Theory/超自适应神经形态视觉器件的高阶动力学研究.md",
-    "40_iNEST/41_Theory/超线性核心观点.md",
-    "40_iNEST/41_Theory/超级战争：人工智能正在塑造战争的未来！.md",
-    "40_iNEST/41_Theory/访谈：从科学视角，如何理解和研究涌现？.md",
-    "40_iNEST/41_Theory/论文速读：液态神经网络在Loihi-2上的应用研究.md",
-    "40_iNEST/41_Theory/荷兰科学家长文综述_MM丨脉冲神经形态计算_从生物启发到硬件架构与学习机制的全面综述.md",
-    "40_iNEST/41_Theory/自动微分•自组织生长__打造新一代的自组织生长模型.md",
-    "40_iNEST/41_Theory/腾讯首席科学家张正友中国具身智能大会演讲：层次化的智能机器人控制架构SLAP.md",
-    "40_iNEST/41_Theory/脑洞大开！科学家Nature发文：人工智能之后，“智能物质”计算崛起？.md",
-    "40_iNEST/41_Theory/脑同构晶上复杂网络涌现智能_重大项目建议.md",
-    "40_iNEST/41_Theory/胡延平___超级智能的9个奥本海默时刻.md",
     "99_Meta/research_logs",
     "90_System/scripts/evolution_engine.py",
     "90_System/scripts/task_board.py",

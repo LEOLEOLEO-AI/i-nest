@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论/技术
+tags: [neuromorphic, non-ideal effects, NVM, Nature Reviews Physics, brain-inspired, green-ai, 存算一体, 非理想效应资源化]
+summary: "系统解析人工突触非理想效应的根源、补偿与资源化利用"
+quality: high
+processed: 2026-07-15 14:44
+---
+---
 title: getnote_1915539296078192568_《人工突触中的非理想效应》Nature综述深度解析：非理想效应的根源、补偿与资源化利用
 tags:
   - architecture

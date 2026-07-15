@@ -1,5 +1,13 @@
 ---
-title: getnote_1915374481002551896_软件定义晶上系统合作交流与发展规划（修订版）
+direction: both
+category: 项目
+tags: [TCC, iNAS, 软件定义晶上系统, 合作规划, 超线性增益, 智能涌现]
+summary: "与王恩东、李国齐团队合作规划，推动TCC与iNAS落地。"
+quality: high
+processed: 2026-07-15 14:44
+---
+---
+title: getnote_1915374565830329200_软件定义晶上系统合作交流与发展规划（修订版）
 tags:
   - transformer
   - criticality
@@ -28,10 +36,10 @@ score: 29
 ## Original Note
 
 ---
-note_id: 1915374481002551896
+note_id: 1915374565830329200
 title: "软件定义晶上系统合作交流与发展规划（修订版）"
 type: plain_text
-created: 2026-07-12 12:44:53
+created: 2026-07-12 12:46:12
 source: getnote
 kb: 
 ---

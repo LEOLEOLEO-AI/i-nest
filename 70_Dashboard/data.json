@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-15T14:32:40.774080",
+  "generated": "2026-07-15T14:41:57.851546",
   "date": "2026-07-15",
   "vault": {
-    "total_md": 3879,
-    "tcc_total": 1981,
-    "tcc_theory": 505,
+    "total_md": 3883,
+    "tcc_total": 1984,
+    "tcc_theory": 508,
     "tcc_tech": 0,
     "tcc_eng": 0,
     "inest_total": 1330,
@@ -30,12 +30,6 @@
       "path": "60_MOC\\00_Dedup_Log.md",
       "mtime": "21:29",
       "size": 343907
-    },
-    {
-      "name": "00_Diagnostic_Report.md",
-      "path": "60_MOC\\00_Diagnostic_Report.md",
-      "mtime": "21:29",
-      "size": 23753
     },
     {
       "name": "00_Stub_Cleanup_Log.md",
@@ -144,6 +138,12 @@
       "path": "20_Processing\\20_KnowledgeBase\\2026-06-29-2606.27778.md",
       "mtime": "21:12",
       "size": 3038
+    },
+    {
+      "name": "2026-06-29-2606.27809.md",
+      "path": "20_Processing\\20_KnowledgeBase\\2026-06-29-2606.27809.md",
+      "mtime": "21:12",
+      "size": 2734
     }
   ],
   "tasks": {

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [software-defined, chiplet, TCC, iNEST, 超线性增益, 系统论, 十五五, 合作规划]
+summary: "软件定义晶上系统合作交流与PPT提纲规划"
+quality: high
+processed: 2026-07-15 14:44
+---
+---
 title: getnote_1915376522185969864_软件定义晶上系统合作交流与发展规划（修订版）
 tags:
   - transformer

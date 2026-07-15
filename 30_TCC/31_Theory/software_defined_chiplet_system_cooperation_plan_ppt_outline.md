@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [software-defined, chiplet, TCC, iNAS, emergence, system-gain, collaboration, 十五五]
+summary: "软件定义晶上系统合作交流与规划PPT提纲"
+quality: high
+processed: 2026-07-15 14:44
+---
+---
 title: getnote_1915375586956706672_软件定义晶上系统合作交流与发展规划（修订版）
 tags:
   - transformer

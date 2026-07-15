@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [知识管理, Obsidian, Codex CLI, MCP, AI代理, 自动化, 工作流]
+summary: "用Obsidian+Codex CLI搭建AI自动整理的知识库系统。"
+quality: high
+processed: 2026-07-15 14:43
+---
+---
 title: getnote_1915326369852643928_10分钟搭建AI自生长知识库：Obsidian+Codex全流程落地指南
 tags:
   - transformer

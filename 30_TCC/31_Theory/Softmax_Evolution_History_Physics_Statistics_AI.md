@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [softmax, 跨学科演化, 统计力学, 深度学习, 注意力机制, transformer]
+summary: "Softmax函数从物理到AI的百年跨学科演化史"
+quality: high
+processed: 2026-07-15 14:44
+---
+---
 title: getnote_1915565304252630240_横跨物理、统计与AI：Softmax函数的百年演化全史
 tags:
   - first-principles

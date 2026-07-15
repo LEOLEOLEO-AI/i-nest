@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论/技术
+tags: [brain-inspired, neuromorphic, large-model, neuroscience, energy-efficiency, spiking-neural-network, transformer, AI-for-Green]
+summary: "探索神经科学启发内脑智能大模型，突破Transformer功耗与泛化瓶颈。"
+quality: high
+processed: 2026-07-15 14:44
+---
+---
 title: getnote_1915477816843076464_神经科学启发的内脑智能大模型研究进展与未来方向
 tags:
   - semiconductor
