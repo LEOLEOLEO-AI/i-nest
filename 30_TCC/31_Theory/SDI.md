@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "SDI"
+created: 2026-07-15
+modified: 2026-07-15
+---
 ﻿---
 date: 2026-07-15
 tags: [SDI, TCC, interconnect]

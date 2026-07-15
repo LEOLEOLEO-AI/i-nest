@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "生物启发的脉冲神经网络 SNN 设计与研究进展"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 生物启发的脉冲神经网络（SNN）设计与研究进展
 
 - **类型**: link

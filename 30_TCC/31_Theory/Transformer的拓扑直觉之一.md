@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "Transformer的拓扑直觉之一"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # Transformer的拓扑直觉之一
 
 - **笔记本**: 我的剪贴板

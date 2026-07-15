@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "iNEST 自演化机制全景总结 最小作用量到物理智能"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿---
 title: "iNEST 自演化机制全景总结：从最小作用量到物理智能"
 date: 2026-06-03

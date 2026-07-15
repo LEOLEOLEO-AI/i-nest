@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "P-SOC-1 SDI四规则自组织临界涌现方法 交底书"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 专利交底书
 
 **专利编号**：P-SOC-1  

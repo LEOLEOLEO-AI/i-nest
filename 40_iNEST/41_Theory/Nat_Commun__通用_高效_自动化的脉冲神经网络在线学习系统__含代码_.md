@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Nat Commun  通用 高效 自动化的脉冲神经网络在线学习系统  含代码 "
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Nat Commun |通用、高效、自动化的脉冲神经网络在线学习系统 [含代码]
 
 - **笔记本**: 我的剪贴板

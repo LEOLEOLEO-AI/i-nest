@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "CST"
+created: 2026-07-15
+modified: 2026-07-15
+---
 ﻿---
 date: 2026-07-15
 tags: [CST, theory, complexity]

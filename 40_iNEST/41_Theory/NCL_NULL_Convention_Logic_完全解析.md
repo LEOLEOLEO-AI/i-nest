@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "NCL NULL Convention Logic 完全解析"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿# NCL (NULL Convention Logic) 完全解析
 
 > 独立参考文件 | 可随时索引查询  

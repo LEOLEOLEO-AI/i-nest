@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "LNN-iNEST 深度机理对比 连续状态演化与工程实现差异"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿---
 title: "LNN-iNEST 深度机理对比：连续状态演化与工程实现差异"
 date: 2026-06-03

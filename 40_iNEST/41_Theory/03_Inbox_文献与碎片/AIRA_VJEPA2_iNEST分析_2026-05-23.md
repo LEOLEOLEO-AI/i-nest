@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "AIRA VJEPA2 iNEST分析 2026-05-23"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # AIRA + V-JEPA 2 对 iNEST 的启迪分析
 **录入时间**：2026-05-23  
 **来源**：Meta FAIR 两项最新成果  

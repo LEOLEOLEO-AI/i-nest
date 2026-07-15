@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "复杂网络理论奠基之作深度解析  Complex networks  Structure and dynamics "
+created: 2026-07-07
+modified: 2026-07-15
+---
 # 复杂网络理论奠基之作深度解析：《Complex networks: Structure and dynamics》
 
 - **类型**: link

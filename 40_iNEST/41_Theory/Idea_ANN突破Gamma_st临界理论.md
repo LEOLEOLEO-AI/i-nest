@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Idea ANN突破Gamma st临界理论"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿# Idea: ANN 能否突破 Γ_st = 0 的临界天花板？
 
 - **类型**: 理论猜想

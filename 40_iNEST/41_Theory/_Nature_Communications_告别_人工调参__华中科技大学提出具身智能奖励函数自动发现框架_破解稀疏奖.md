@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: " Nature Communications 告别 人工调参  华中科技大学提出具身智能奖励函数自动发现框架 破解稀疏奖"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 【Nature Communications】告别“人工调参”：华中科技大学提出具身智能奖励函数自动发现框架，破解稀疏奖励难题
 
 - **笔记本**: 我的剪贴板

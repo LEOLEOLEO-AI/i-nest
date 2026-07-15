@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "CST RG PRL Cover Letter"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # CST RG v1.1 - PRL Cover Letter
 # ==============================
 

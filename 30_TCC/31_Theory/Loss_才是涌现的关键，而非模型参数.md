@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "Loss 才是涌现的关键，而非模型参数"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # Loss 才是涌现的关键，而非模型参数
 
 > 笔记本: 我的剪贴板  

@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "FlagOS2026 AIForumPPT iNEST分析"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 2026首届AI院士论坛 — FlagOS/RISC-V系列PPT分析
 # 对 iNEST/TCC 的战略价值
 

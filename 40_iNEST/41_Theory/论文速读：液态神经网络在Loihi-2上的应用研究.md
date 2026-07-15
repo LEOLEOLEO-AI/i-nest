@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "论文速读：液态神经网络在Loihi-2上的应用研究"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 论文速读：液态神经网络在Loihi-2上的应用研究
 
 > 笔记本: 我的剪贴板  

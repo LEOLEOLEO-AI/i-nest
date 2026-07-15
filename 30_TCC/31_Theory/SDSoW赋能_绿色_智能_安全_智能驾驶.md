@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "SDSoW赋能 绿色 智能 安全 智能驾驶"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # SDSoW赋能“绿色+智能+安全”智能驾驶
 
 - **类型**: plain_text

@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "A Unified Theory of Intelligence Emergence from Spatiotemporal Network Complexit"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # A Unified Theory of Intelligence Emergence from Spatiotemporal Network Complexity
 
 > 笔记本: 技术学习  

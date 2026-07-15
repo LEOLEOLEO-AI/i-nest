@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Nat. Commun. 速递   网络属性决定神经网络性能"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Nat. Commun. 速递 | 网络属性决定神经网络性能
 
 > 笔记本: 我的剪贴板  

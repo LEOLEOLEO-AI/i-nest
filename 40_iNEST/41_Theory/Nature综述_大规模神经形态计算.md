@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Nature综述 大规模神经形态计算"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Nature综述：大规模神经形态计算
 
 - **笔记本**: 我的剪贴板

@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "exp5 versions"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 实验五（神经雪崩SOC）历史版本归档（v4 → v13）
 
 > 由 MEMORY.md 主文件精简归档于 2026-06-04

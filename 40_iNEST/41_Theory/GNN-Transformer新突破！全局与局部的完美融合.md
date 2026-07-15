@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "GNN-Transformer新突破！全局与局部的完美融合"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # GNN-Transformer新突破！全局与局部的完美融合
 
 > 笔记本: 我的剪贴板  

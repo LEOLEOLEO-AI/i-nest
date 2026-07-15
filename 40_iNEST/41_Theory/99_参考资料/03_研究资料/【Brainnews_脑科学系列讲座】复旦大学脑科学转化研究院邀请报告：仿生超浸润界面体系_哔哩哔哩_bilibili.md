@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "【Brainnews 脑科学系列讲座】复旦大学脑科学转化研究院邀请报告：仿生超浸润界面体系 哔哩哔哩 bilibili"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 【Brainnews 脑科学系列讲座】复旦大学脑科学转化研究院邀请报告：仿生超浸润界面体系_哔哩哔哩_bilibili
 
 > 笔记本: 微信  

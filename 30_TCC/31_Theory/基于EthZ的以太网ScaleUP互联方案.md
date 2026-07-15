@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "基于EthZ的以太网ScaleUP互联方案"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # 基于EthZ的以太网ScaleUP互联方案
 
 > 笔记本: 我的剪贴板  

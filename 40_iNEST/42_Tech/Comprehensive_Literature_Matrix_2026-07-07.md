@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Comprehensive Literature Matrix 2026-07-07"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 综合文献矩阵 — TCC & iNEST 证据库
 **生成日期**：2026-07-07  
 **覆盖文献**：23篇（知识库文档 + arXiv日报 2026-07-03/06/07）  

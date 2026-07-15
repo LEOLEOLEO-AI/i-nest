@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "第三代神经网络SNN获重大突破 多项成果入选CVPR TPAMI Nature顶尖子刊   "
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 第三代神经网络SNN获重大突破！多项成果入选CVPR、TPAMI、Nature顶尖子刊...
 
 - **笔记本**: 1.1 新导入

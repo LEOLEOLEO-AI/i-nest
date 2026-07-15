@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Nature综述 打破算力瓶颈 物理神经网络训练或将重塑AI未来"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来
 
 - **笔记本**: 我的剪贴板

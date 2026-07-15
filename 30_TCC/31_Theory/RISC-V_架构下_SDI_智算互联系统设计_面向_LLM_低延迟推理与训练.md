@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "RISC-V 架构下 SDI 智算互联系统设计 面向 LLM 低延迟推理与训练"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # RISC-V 架构下 SDI 智算互联系统设计：面向 LLM 低延迟推理与训练
 
 - **类型**: plain_text

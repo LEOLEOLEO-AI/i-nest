@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Yann LeCun：发现智能原理是AI的终极问题   独家对话"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Yann LeCun：发现智能原理是AI的终极问题 | 独家对话
 
 > 笔记本: 微信  

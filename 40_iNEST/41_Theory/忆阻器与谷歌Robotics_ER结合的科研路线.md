@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "忆阻器与谷歌Robotics ER结合的科研路线"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 忆阻器与谷歌Robotics ER结合的科研路线
 
 - **类型**: plain_text

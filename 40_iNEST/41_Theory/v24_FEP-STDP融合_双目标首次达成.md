@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "v24 FEP-STDP融合 双目标首次达成"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿# v24 FEP-STDP深度融合：首次双目标达成报告
 
 > 日期：2026-06-03 | iNEST Research Team, Tianjin University  

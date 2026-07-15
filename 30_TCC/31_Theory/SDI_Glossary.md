@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "SDI Glossary"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # SDI 研究缩略语对照表
 
 > 维护者：iNEST 实验室  

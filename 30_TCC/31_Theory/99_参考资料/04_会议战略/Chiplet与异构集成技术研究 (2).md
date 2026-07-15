@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "Chiplet与异构集成技术研究 (2)"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # Chiplet与异构集成技术研究
 
 > 笔记本: 微信  

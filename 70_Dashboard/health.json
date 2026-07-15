@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T16:20:56.943851",
+  "timestamp": "2026-07-15T16:21:35.223862",
   "dimensions": {
     "digestion": {
       "score": 100,
@@ -19,7 +19,7 @@
     },
     "git_sync": {
       "score": 30,
-      "uncommitted_files": 245
+      "uncommitted_files": 385
     },
     "output": {
       "score": 85,
@@ -34,7 +34,7 @@
     },
     "frontmatter": {
       "score": 30,
-      "with_frontmatter_pct": 2.5
+      "with_frontmatter_pct": 13.5
     },
     "automation": {
       "score": 100,
@@ -43,7 +43,7 @@
   },
   "overall": 70.6,
   "alerts": [
-    "245 uncommitted files"
+    "385 uncommitted files"
   ],
   "recommendations": [
     "Run git commit+push to sync changes",

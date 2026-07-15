@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "iNEST RnD Workflow v2"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿# iNEST 研发神经网络 · 五工具协同工作流 v2.0
 
 > **大道至简 · Complexity comes from Simplicity**

@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "复旦大学+中科院微电子所Nature Communications：用于边缘智能的内存引擎中的近阈值忆阻计算"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 复旦大学+中科院微电子所Nature Communications：用于边缘智能的内存引擎中的近阈值忆阻计算
 
 > 笔记本: 我的剪贴板  

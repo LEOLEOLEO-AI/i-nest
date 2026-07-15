@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "SpikingBrain-1 0 类脑脉冲大模型的革命性突破  "
+created: 2026-07-07
+modified: 2026-07-07
+---
 # SpikingBrain-1.0：类脑脉冲大模型的革命性突破 🔬
 
 - **类型**: link

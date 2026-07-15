@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "卷积神经网络（Convolutional Neural Network）的重要概念"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 卷积神经网络（Convolutional Neural Network）的重要概念
 
 > 笔记本: 我的剪贴板  

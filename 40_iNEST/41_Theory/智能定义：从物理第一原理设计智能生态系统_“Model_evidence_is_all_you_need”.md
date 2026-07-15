@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "智能定义：从物理第一原理设计智能生态系统 “Model evidence is all you need”"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 智能定义：从物理第一原理设计智能生态系统 “Model evidence is all you need”
 
 > 笔记本: 我的剪贴板  

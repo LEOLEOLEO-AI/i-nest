@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "Files"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Files
 
 Generated: 2026-04-28 22:00:25

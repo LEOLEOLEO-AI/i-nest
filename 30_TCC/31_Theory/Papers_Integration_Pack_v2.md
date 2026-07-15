@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "Papers Integration Pack v2"
+created: 2026-07-07
+modified: 2026-07-15
+---
 ﻿# iNEST Papers Integration Pack — 2026-06-03
 # ==========================================
 # Updated with actual SDI Experiment 2/3/4 + CST N=1024 phase scan data

@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "长城工程 - SDI.xmind"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # 长城工程 - SDI.xmind
 
 > 笔记本: 1.1 新导入  

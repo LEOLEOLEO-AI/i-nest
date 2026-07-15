@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "ArXiv Weekly TCC iNEST Analysis 2026-07-02to07"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # arXiv 论文 TCC/iNEST 关联分析 — Part 1（论文 1-15）
 生成日期：2026-07-07
 分析框架：TCC拓扑中心计算 + iNEST神经涌现智能

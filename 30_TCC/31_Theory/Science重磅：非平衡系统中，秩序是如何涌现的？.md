@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "Science重磅：非平衡系统中，秩序是如何涌现的？"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # Science重磅：非平衡系统中，秩序是如何涌现的？
 
 > 笔记本: 微信  

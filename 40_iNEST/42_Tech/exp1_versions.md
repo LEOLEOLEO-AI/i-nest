@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "exp1 versions"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 实验一历史版本归档（v初版 → v16）
 
 > 由 MEMORY.md 主文件精简归档于 2026-06-04

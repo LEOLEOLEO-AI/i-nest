@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "2026 NCC与INEST 全局论文与专利战略规划"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # NCC与INEST：2026全局论文与专利战略规划清单
 
 > **制定日期**: 2026-04-29

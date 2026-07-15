@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "INDEX"
+created: 2026-07-14
+modified: 2026-07-14
+---
 # iNEST arXiv 三维分析总索引
 
 > 更新于 2026-07-14 | 共 **62** 篇 | 分析格式：核心创新 / TCC-iNEST价值 / 应用方案建议

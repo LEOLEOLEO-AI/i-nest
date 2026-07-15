@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "CST Theory Framework 统一表述"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # CST理论三层指标体系 — 统一表述框架
 
 **确立时间**：2026-05-17  

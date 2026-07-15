@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "不走Transformer寻常路，「元始智能RWKV」获数千万天使轮融资｜36氪首发"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # 不走Transformer寻常路，「元始智能RWKV」获数千万天使轮融资｜36氪首发
 
 > 笔记本: 我的剪贴板  

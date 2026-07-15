@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "IBM公司Nature Nanotechnology：混合可塑性+忆阻晶体管+求解序列学习 组合优化"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # IBM公司Nature Nanotechnology：混合可塑性+忆阻晶体管+求解序列学习/组合优化
 
 > 笔记本: 我的剪贴板  

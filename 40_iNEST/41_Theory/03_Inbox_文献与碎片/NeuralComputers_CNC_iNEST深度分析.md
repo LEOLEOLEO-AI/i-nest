@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "NeuralComputers CNC iNEST深度分析"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Neural Computers — Meta AI + KAUST (2026)
 # CNC与iNEST/TCC体系的深度关联分析
 

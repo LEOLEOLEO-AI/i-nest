@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "CST RG Paper v1.0"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿# First-Order Phase Transition and Renormalization Group Fixed Point in Small-World Network Emergence
 # =================================================================================================
 # Paper #29 — v1.0 PRL-ready draft

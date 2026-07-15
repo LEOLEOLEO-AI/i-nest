@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "算力世界的变革：Chiplets与UCIe互联技术"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # 算力世界的变革：Chiplets与UCIe互联技术
 
 > 笔记本: 我的剪贴板  

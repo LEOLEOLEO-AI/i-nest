@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "硅基世界的“缘分”——系统与人工智能携手进化 - Microsoft Research"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # 硅基世界的“缘分”——系统与人工智能携手进化 - Microsoft Research
 
 > 笔记本: 1.1 新导入  

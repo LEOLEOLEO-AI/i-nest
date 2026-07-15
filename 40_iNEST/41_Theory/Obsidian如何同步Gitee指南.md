@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Obsidian如何同步Gitee指南"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Obsidian 如何与 Gitee 私有仓库极速绑定指南
 
 刘老师，既然咱们在云端（Genspark VM）已经帮您把所有文件和标签都整理好了，现在只需花 3 分钟，把您本地的电脑和 Gitee 仓库“接上插头”，双机大脑的神经突触就彻底打通了！

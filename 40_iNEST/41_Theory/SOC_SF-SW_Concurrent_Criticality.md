@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "SOC SF-SW Concurrent Criticality"
+created: 2026-07-07
+modified: 2026-07-07
+---
 ﻿---
 title: SOC_ScaleFree_SmallWorld_Concurrent_Criticality
 date: 2026-06-19

@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "A1 CST Theory V25 FINAL"
+created: 2026-07-07
+modified: 2026-07-07
+---
 
 # From Compute to Complexity: A Physical Theory of Intelligence Emergence and Its Implications for Artificial General Intelligence
 

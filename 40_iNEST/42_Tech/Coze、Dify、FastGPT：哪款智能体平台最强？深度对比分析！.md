@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Coze、Dify、FastGPT：哪款智能体平台最强？深度对比分析！"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Coze、Dify、FastGPT：哪款智能体平台最强？深度对比分析！
 
 > 笔记本: 我的剪贴板  

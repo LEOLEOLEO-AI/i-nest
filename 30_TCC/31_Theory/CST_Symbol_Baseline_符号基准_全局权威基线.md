@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "CST Symbol Baseline 符号基准 全局权威基线"
+created: 2026-07-14
+modified: 2026-07-15
+---
 ﻿# CST理论符号基准文档
 # Symbol Baseline for Coordination Spatiotemporal Complexity (CST)
 

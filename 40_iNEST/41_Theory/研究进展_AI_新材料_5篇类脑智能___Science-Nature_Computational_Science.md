@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "研究进展 AI 新材料 5篇类脑智能   Science-Nature Computational Science"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 研究进展：AI+新材料，5篇类脑智能 | Science-Nature Computational Science
 
 - **笔记本**: 1.1 新导入

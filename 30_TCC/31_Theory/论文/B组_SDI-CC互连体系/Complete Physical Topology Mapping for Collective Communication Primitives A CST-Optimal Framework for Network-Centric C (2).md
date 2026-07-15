@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "Complete Physical Topology Mapping for Collective Communication Primitives A CST"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Complete Physical Topology Mapping for Collective Communication Primitives: A CST-Optimal Framework for Network-Centric Computing
 
 **Qinrang Liu**, Senior Member, IEEE, *School of Microelectronics, Tianjin University, Tianjin, China*

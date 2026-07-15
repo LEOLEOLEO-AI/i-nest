@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "iNEST-Home"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 🏠 TCC + iNEST 研发中枢
 
 > 最后更新：2026-06-19 | [研发看板](http://127.0.0.1:8899/home/work/.openclaw/workspace/dashboard/index.html) | [投资演示](http://127.0.0.1:8899/home/work/.openclaw/workspace/dashboard/investor/index.html) | [超级流水线](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_RnD_SuperFlow_v3.md)

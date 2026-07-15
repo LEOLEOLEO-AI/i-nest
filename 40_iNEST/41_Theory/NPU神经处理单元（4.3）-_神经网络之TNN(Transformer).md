@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "NPU神经处理单元（4.3）- 神经网络之TNN(Transformer)"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # NPU神经处理单元（4.3）- 神经网络之TNN(Transformer)
 
 > 笔记本: 我的剪贴板  

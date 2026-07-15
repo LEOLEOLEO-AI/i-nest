@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "DeepMind发布的新智能体，正在颠覆科研"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # DeepMind发布的新智能体，正在颠覆科研
 
 > 笔记本: 我的剪贴板  

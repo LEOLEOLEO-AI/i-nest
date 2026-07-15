@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "CST理论v25 完整知识体系"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # 《CST理论v25：从第一性原理到智能涌现工程化的完整知识体系》
 
 > 版本说明：本文以 **CST theory main.pdf（v25-FINAL, April 2026）** 为主依据进行知识化整理；其中“材料科学映射”“TCC/iNEST工程解释”等部分，是在论文原始理论基础上的工程化系统化表达，用于支撑知识库、路线图和研发协同。 [Source](https://www.genspark.ai/api/files/s/TYgNQ3N6)

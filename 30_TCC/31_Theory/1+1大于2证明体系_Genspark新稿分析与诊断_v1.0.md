@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "1+1大于2证明体系 Genspark新稿分析与诊断 v1.0"
+created: 2026-07-11
+modified: 2026-07-15
+---
 ﻿---
 title: "1+1>2 超非线性增益证明：Genspark稿分析与当前状态诊断"
 date: 2026-07-11

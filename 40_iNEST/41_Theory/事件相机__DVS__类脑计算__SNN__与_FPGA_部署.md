@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "事件相机  DVS  类脑计算  SNN  与 FPGA 部署"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 事件相机 (DVS)、类脑计算 (SNN) 与 FPGA 部署
 
 - **类型**: plain_text

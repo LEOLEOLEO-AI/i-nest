@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "Workflow Engine SOP"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # iNEST 课题组全链条推进工作流 (OODA Workflow Engine)
 
 > **目标**：解决“Idea井喷、论文撰写、工程实现、商业化落地”四线并发导致的信息不对齐与顾此失彼问题。建立一套机器自动巡检与对齐的SOP（标准作业程序）。

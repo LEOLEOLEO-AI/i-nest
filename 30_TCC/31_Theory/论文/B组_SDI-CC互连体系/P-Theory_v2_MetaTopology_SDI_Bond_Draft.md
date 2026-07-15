@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "P-Theory v2 MetaTopology SDI Bond Draft"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # Meta-Topology and SDI-Bond: A Variational Framework for Communication Primitive Generation and Fractal Network Evolution under the Principle of Least Action
 
 ## Abstract

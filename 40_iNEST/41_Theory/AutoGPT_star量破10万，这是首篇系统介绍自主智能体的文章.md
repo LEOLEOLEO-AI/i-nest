@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "AutoGPT star量破10万，这是首篇系统介绍自主智能体的文章"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # AutoGPT star量破10万，这是首篇系统介绍自主智能体的文章
 
 > 笔记本: 技术学习  

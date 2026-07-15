@@ -1,3 +1,9 @@
+---
+direction: iNEST
+title: "打破Transformer霸权！全新液态神经网络刷爆SOTA！"
+created: 2026-07-07
+modified: 2026-07-07
+---
 # 打破Transformer霸权！全新液态神经网络刷爆SOTA！
 
 > 笔记本: 我的剪贴板  

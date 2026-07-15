@@ -1,3 +1,9 @@
+---
+direction: TCC
+title: "台积电：Chiplets和3D封装 (47页PPT）"
+created: 2026-07-07
+modified: 2026-07-15
+---
 # 台积电：Chiplets和3D封装 (47页PPT）
 
 > 笔记本: 微信  
