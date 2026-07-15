@@ -1,7 +1,7 @@
 ---
 epoch: 1777850698817
 modelKey: "deepseek-ai/DeepSeek-V4-Flash|siliconflow"
-topic: "NCC计算范式与算力网络"
+topic: "TCC计算范式与算力网络"
 
 
 
@@ -9,32 +9,32 @@ tags:
   - copilot-conversation
 ---
 
-**user**: 为这个文章加上NCC计算范式标签，同时链接上算力网络等笔记
+**user**: 为这个文章加上TCC计算范式标签，同时链接上算力网络等笔记
 [Context: Notes: 00_Inbox/02_网页剪藏/Revolutionizing Datacenter Networks via Reconfigurable Topologies.md]
 [Timestamp: 2026/05/04 07:24:58]
 
-**user**: 为这个文章加上NCC计算范式标签，同时链接上算力网络等笔记
+**user**: 为这个文章加上TCC计算范式标签，同时链接上算力网络等笔记
 [Context: Notes: 00_Inbox/02_网页剪藏/Revolutionizing Datacenter Networks via Reconfigurable Topologies.md]
 [Timestamp: 2026/05/04 07:30:37]
 
-**ai**: 任务目标：为文章添加NCC计算范式标签，并链接到算力网络等笔记。
+**ai**: 任务目标：为文章添加TCC计算范式标签，并链接到算力网络等笔记。
 作用对象：[[Revolutionizing Datacenter Networks via Reconfigurable Topologies.md]]
 已知上下文：文章内容涉及数据中心网络、可重构拓扑、算力网络等主题。
 约束条件：标签和链接需与文章内容相关，且符合Obsidian的链接格式。
 隐含需求：确保标签和链接的添加不会影响文章的原始结构和可读性。
 建议执行路径：
-1. 在文章中找到合适的位置添加“NCC计算范式”标签。
+1. 在文章中找到合适的位置添加“TCC计算范式”标签。
 2. 使用Obsidian的链接功能，将算力网络等笔记链接到当前文章。
-预期交付物：添加了NCC计算范式标签并链接到算力网络等笔记的文章。
+预期交付物：添加了TCC计算范式标签并链接到算力网络等笔记的文章。
 
 执行方案：
 1. 打开[[Revolutionizing Datacenter Networks via Reconfigurable Topologies.md]]。
-2. 在文章中找到合适的位置，例如在“Conclusion, Challenges Ahead, and Interviews with Experts”部分之前，添加标签“NCC计算范式”。
+2. 在文章中找到合适的位置，例如在“Conclusion, Challenges Ahead, and Interviews with Experts”部分之前，添加标签“TCC计算范式”。
 3. 使用Obsidian的链接功能，将算力网络等笔记链接到当前文章。例如，如果算力网络笔记的标题是“[[算力网络]]”，则在文章中添加链接“[[算力网络]]”。
 4. 保存并关闭文章。
 
 验证结果：
-1. 确认文章中已添加“NCC计算范式”标签。
+1. 确认文章中已添加“TCC计算范式”标签。
 2. 确认算力网络等笔记已成功链接到当前文章。
 
 后续建议：
@@ -43,7 +43,7 @@ tags:
 [Timestamp: 2026/05/04 07:30:58]
 
 **user**: Obsidian如何增加双向链接
-[Context: Notes: copilot/copilot-conversations/RDCN与NCC的关系.md]
+[Context: Notes: copilot/copilot-conversations/RDCN与TCC的关系.md]
 [Timestamp: 2026/05/04 07:44:43]
 
 **ai**: 任务目标：

@@ -3,7 +3,7 @@ title: "TCC Naming Convention v3.0"
 created: 2026-06-30
 aliases: ["TCC命名约定v3", "Primitive Naming v3", "原语命名规范"]
 tags: ["ssot", "naming-convention", "TCC", "primitives"]
-supersedes: ["NCC_Core_Concepts", "TCC 原语库 v1.0 最终版规范"]
+supersedes: ["TCC_Core_Concepts", "TCC 原语库 v1.0 最终版规范"]
 status: authoritative
 ---
 
@@ -20,7 +20,7 @@ status: authoritative
 | v1.x (项目申报) | 2026.06 | TCC | NPC-/CPC- | 6+6=12 | 沿袭v0前缀，与v1.0动词名脱节 |
 | **v3.0 (本规范)** | **2026.06** | **TCC** | **T./R./C.** | **6+6+4=16** | **三层前缀，动词名统一，全体系覆盖** |
 
-> **注**：v2 编号保留给内部草稿 `NCC_Naming_Convention_v2`（存在于得到笔记中，未正式发布）。v3.0 继承 v1.0 的动词命名哲学和 v1.x 的 6R+6T 覆盖宽度，引入 T.R.C 三层前缀体系。
+> **注**：v2 编号保留给内部草稿 `TCC_Naming_Convention_v2`（存在于得到笔记中，未正式发布）。v3.0 继承 v1.0 的动词命名哲学和 v1.x 的 6R+6T 覆盖宽度，引入 T.R.C 三层前缀体系。
 
 ### 统一原则
 
@@ -162,7 +162,7 @@ tcc.c.link.config(butterfly);
 - **下次评审**：2026-12-30
 
 ---
-**关联条目**：[[NCC_Core_Concepts]] | [[TCC 原语库 v1.0 最终版规范]] | [[元拓扑+化合键=六类通信原语]]
+**关联条目**：[[TCC_Core_Concepts]] | [[TCC 原语库 v1.0 最终版规范]] | [[元拓扑+化合键=六类通信原语]]
 
 ---
 ## 相关链接

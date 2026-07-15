@@ -128,7 +128,7 @@ Layer 1: 拓扑信息论          Layer 2: 统计物理临界性        Layer 3:
 - R.CAST 异或 T.LOOK -> 提升 V_transfer（广播 + LUT）
 
 **依赖**：操作语义学、代数结构（半环/群/格）、FPGA RTL 实测
-**参考**：TCC-11 专利（ncc.*）、NCCL 通信原语映射
+**参考**：TCC-11 专利（tcc.*）、NCCL 通信原语映射
 
 ---
 

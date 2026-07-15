@@ -105,26 +105,26 @@ Route-Transform 分解定理是 TCC 理论基石：
 
 ---
 
-## 六、与专利 TCC-11 (ncc.*) 的对照
+## 六、与专利 TCC-11 (tcc.*) 的对照
 
-| v1.1 | TCC-11 (ncc.*) | 变化说明 |
+| v1.1 | TCC-11 (tcc.*) | 变化说明 |
 |------|---------------|---------|
-| R.FUSE | ncc.FUSE | 一致 |
-| R.PULL | ncc.PULL | v8缺失，v30恢复 |
-| R.CAST | ncc.CAST | 一致 |
-| R.SWAP | ncc.SWAP | 一致 |
+| R.FUSE | tcc.FUSE | 一致 |
+| R.PULL | tcc.PULL | v8缺失，v30恢复 |
+| R.CAST | tcc.CAST | 一致 |
+| R.SWAP | tcc.SWAP | 一致 |
 | R.PIPE | — | v30新增（替代v8的FLY/RING） |
 | R.MESH | — | v30新增（邻域通信） |
-| T.GEMM | ncc.GEMM | 一致（v8称MM） |
-| T.FOLD | ncc.FOLD | 一致 |
-| T.MAPS | ncc.MAPS | 一致（v8称MAP） |
-| T.SCAN | ncc.SCAN | 一致 |
+| T.GEMM | tcc.GEMM | 一致（v8称MM） |
+| T.FOLD | tcc.FOLD | 一致 |
+| T.MAPS | tcc.MAPS | 一致（v8称MAP） |
+| T.SCAN | tcc.SCAN | 一致 |
 | T.LOOK | — | v30新增（v8称LUT） |
 | T.SPEC | — | v30新增（替代v8的GRAD） |
-| C.LINK | ncc.LINK | 一致 |
-| C.TICK | ncc.TICK | 一致 |
+| C.LINK | tcc.LINK | 一致 |
+| C.TICK | tcc.TICK | 一致 |
 | C.SYNC | — | v30新增 |
-| C.MOVE | ncc.MOVE | 一致 |
+| C.MOVE | tcc.MOVE | 一致 |
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "NCC论证材料"
+title: "TCC论证材料"
 created: 2026-04-21
 note_id: "1907730372297557520"
 tags:
@@ -7,7 +7,7 @@ tags:
   - "AI研究"
 ---
 
-# NCC论证材料
+# TCC论证材料
 
 ## 正文
 

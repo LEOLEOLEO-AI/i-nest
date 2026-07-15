@@ -15,7 +15,7 @@
 
 ## 核心定位
 
-**一句话**：视频模型路线（Meta NC）是渲染器，TCC/NCC路线是计算器——Route≡Transform给出代数层面的物理计算，不是视觉近似。
+**一句话**：视频模型路线（Meta NC）是渲染器，TCC/TCC路线是计算器——Route≡Transform给出代数层面的物理计算，不是视觉近似。
 
 ---
 
@@ -29,7 +29,7 @@
 范式1：冯诺依曼体系（CPU+内存+I/O分离，1945-至今）
 范式2：AI/深度学习（神经网络作为工具，2012-至今）
 [候选]范式3a：Neural Computers（Meta 2026）— 模型即计算机
-[候选]范式3b：TCC/NCC（iNEST）— 拓扑即计算，物理第一性
+[候选]范式3b：TCC/TCC（iNEST）— 拓扑即计算，物理第一性
 ```
 
 **引入当前国产AI软硬件栈的根本矛盾**：
@@ -44,10 +44,10 @@
 
 ### §2 TCC范式定义：拓扑即计算（~2页）
 
-- NCC-11正交原语集（完备性+最小性证明）
+- TCC-11正交原语集（完备性+最小性证明）
 - Route≡Transform定理（代数同构，不是近似）
 - 回应CNC四条件：
-  - 图灵完备 ✅：NCC-11完备性定理
+  - 图灵完备 ✅：TCC-11完备性定理
   - 通用可编程 ✅：SDI化合键 = 可复用能力安装
   - 行为一致 ✅：SOC临界态κ≈1提供动力学吸引子
   - 机器原生语义 ✅：Route≡Transform，非冯诺依曼的新计算语义
@@ -70,7 +70,7 @@
 
 ### §5 TCC vs Neural Computers：根本差异（~1.5页）
 
-| 维度 | FlagOS路线（智源） | Neural Computers（Meta）| TCC/NCC（iNEST）|
+| 维度 | FlagOS路线（智源） | Neural Computers（Meta）| TCC/TCC（iNEST）|
 |------|-----------------|------------------------|----------------|
 | 原语/算子数量 | **497个算子** | 未定义 | **11个正交原语** |
 | 覆盖度 | 90%~100%（软件堆叠） | 4%算术（渲染近似） | 100%理论（完备性定理）|
@@ -123,10 +123,10 @@
 ### 背景
 北京大学TileLang（2025年1月开源）已被DeepSeek全面采用，与Triton并行形成编译器层双轨。
 
-### NCC-11作为TileLang第三后端
+### TCC-11作为TileLang第三后端
 
 ```
-DeepSeek模型 → TileLang编译 → NCC后端（新增）→ iNEST硬件
+DeepSeek模型 → TileLang编译 → TCC后端（新增）→ iNEST硬件
                            ↗ CUDA后端 → NVIDIA GPU
                            ↗ ROCm后端 → AMD GPU
 ```
@@ -135,4 +135,4 @@ Route≡Transform提供数学保证：语义等价，无需模型重训。
 这为B3论文提供了**具体的工程落地路径**，不只是理论定位。
 
 ### 可引用的合作切入语言
-> TileLang already provides hardware-independent tile programming with CUDA/ROCm backends. NCC-11 can serve as the third backend via the Route≡Transform theorem—enabling TileLang-compiled DeepSeek models to run on topology-reconfigurable iNEST hardware with mathematical correctness guarantees.
+> TileLang already provides hardware-independent tile programming with CUDA/ROCm backends. TCC-11 can serve as the third backend via the Route≡Transform theorem—enabling TileLang-compiled DeepSeek models to run on topology-reconfigurable iNEST hardware with mathematical correctness guarantees.

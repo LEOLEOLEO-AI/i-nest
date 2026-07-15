@@ -1,5 +1,5 @@
 ---
-title: "【iNEST知识库】NCC_Paradigm_Master_Index"
+title: "【iNEST知识库】TCC_Paradigm_Master_Index"
 date: 2026-04-29 03:08:28
 source: "????"
 note_id: 1908472269915878232
@@ -7,14 +7,14 @@ note_type: plain_text
 tags: []
 ---
 
-# 【iNEST知识库】NCC_Paradigm_Master_Index
+# 【iNEST知识库】TCC_Paradigm_Master_Index
 
-# 网络中心计算（NCC）范式——研究主索引与任务列表
+# 网络中心计算（TCC）范式——研究主索引与任务列表
 # Network-Centric Computing Paradigm — Master Index & Task Board
 #
 # 创建：2026-04-20
 # 维护：iNEST课题组
-# 路径：00_KnowledgeBase_知识库/02_CST_核心理论著作/NCC_Paradigm_Master_Index.md
+# 路径：00_KnowledgeBase_知识库/02_CST_核心理论著作/TCC_Paradigm_Master_Index.md
 
 ---
 
@@ -26,10 +26,10 @@ tags: []
 ```
 第一范式：冯·诺依曼 (1945)   — 串行指令流 + 存储器分离
 第二范式：Dataflow/并行计算   — 数据驱动 + 众核并行
-第三范式：NCC (iNEST, 2026)  — 拓扑即计算，通信与计算统一
+第三范式：TCC (iNEST, 2026)  — 拓扑即计算，通信与计算统一
 ```
 
-**护城河**：Route≡Transform 定理（数学证明）→ NCC-11 原语集（代数完备）→ SDI 硬件（微秒级重构）→ 液态切换（跨场景零切换成本）
+**护城河**：Route≡Transform 定理（数学证明）→ TCC-11 原语集（代数完备）→ SDI 硬件（微秒级重构）→ 液态切换（跨场景零切换成本）
 
 ---
 
@@ -39,25 +39,25 @@ tags: []
 
 | 文件 | 内容 | 状态 |
 |------|------|------|
-| `NCC_Core_Concepts.md` | 第一性原理、元拓扑、SDI-Bond代数、CST锚点 | ✅ 已建立 |
-| `NCC_Naming_Convention_v2.md` | **NCC-11原语命名规范 v2.0（权威版）** | ✅ 已建立 |
-| `NCC_Naming_Convention_v1.md` | NCC-8规范（已废止，仅供历史参考） | ⚠️ 已废止 |
+| `TCC_Core_Concepts.md` | 第一性原理、元拓扑、SDI-Bond代数、CST锚点 | ✅ 已建立 |
+| `TCC_Naming_Convention_v2.md` | **TCC-11原语命名规范 v2.0（权威版）** | ✅ 已建立 |
+| `TCC_Naming_Convention_v1.md` | TCC-8规范（已废止，仅供历史参考） | ⚠️ 已废止 |
 
 ### 2.2 专利文件（→ `02_Papers_论文/00_专利清单.md`）
 
 | 代号 | 名称 | 状态 |
 |------|------|------|
-| **P1** | 基于SDI拓扑重构的NCC方法与系统（核心方法专利） | 📋 框架完成，待精细化 |
+| **P1** | 基于SDI拓扑重构的TCC方法与系统（核心方法专利） | 📋 框架完成，待精细化 |
 | **P2** | 可重构原语硬件IP核阵列（硬件架构专利） | 📋 框架完成，待精细化 |
 | **P3** | 基于拓扑重构的FFT方法与DBF应用（FFT同构专利） | 📋 框架完成 |
-| **P4** | NCC原语到NCCL/MPI/BLAS编译映射方法（SDK专利） | 📋 框架完成 |
+| **P4** | TCC原语到NCCL/MPI/BLAS编译映射方法（SDK专利） | 📋 框架完成 |
 
 ### 2.3 论文文件（→ `02_Papers_论文/B组_SDI-CC互连体系/`）
 
 | 论文 | 标题 | 目标 | 状态 |
 |------|------|------|------|
 | **论文A（B7）** | *Route≡Transform: A Unified Algebraic Theory...* | ASPLOS'27 Sep | 📋 框架完成，待写作 |
-| **论文B（B5）** | *NCC-11: A Minimal Complete Primitive Library...* | ASPLOS/MICRO'27 | 📋 框架完成，待RTL实验数据 |
+| **论文B（B5）** | *TCC-11: A Minimal Complete Primitive Library...* | ASPLOS/MICRO'27 | 📋 框架完成，待RTL实验数据 |
 | **论文C（B3）** | *From Horowitz Wall to Topology Computing...* | Nature Electronics | 📋 框架完成，待论文A/B完成后 |
 | B2 | P-Mapping：原语完备性 | IEEE TPDS | 📋 素材V3完备 |
 
@@ -80,12 +80,12 @@ tags: []
 |------|---------|---------|---------|
 | **定理1**（分解） | 任意分布式计算 C = T_m∘R_m∘…∘T_1∘R_1 | BSP构造性分解 | P1权利要求1 |
 | **定理2**（同构） | FFT蝶形图 ≅ Butterfly-AllReduce通信图（图同构） | Cooley-Tukey vs 超立方体维度有序AllReduce | P1权利要求2, P3权利要求1 |
-| **定理3**（完备） | NCC-11在7类目标工作负载上100%覆盖 | 对每类构造显式原语映射 | P1权利要求1, P4 |
+| **定理3**（完备） | TCC-11在7类目标工作负载上100%覆盖 | 对每类构造显式原语映射 | P1权利要求1, P4 |
 | **定理4**（能效） | Route-Transform融合使等效通信量从O(N·D)降至O(D) | Horowitz能耗模型定量推导 | P1 |
 
-### 3.2 NCC-11 原语集（完整版）
+### 3.2 TCC-11 原语集（完整版）
 
-$$\text{NCC-11} = \{\underbrace{\text{FUSE, PULL, CAST, SWAP}}_{\text{通信×4}}, \underbrace{\text{GEMM, FOLD, MAPS, SCAN}}_{\text{计算×4}}, \underbrace{\text{MOVE}}_{\text{数据×1}}, \underbrace{\text{LINK, TICK}}_{\text{控制×2}}\}$$
+$$\text{TCC-11} = \{\underbrace{\text{FUSE, PULL, CAST, SWAP}}_{\text{通信×4}}, \underbrace{\text{GEMM, FOLD, MAPS, SCAN}}_{\text{计算×4}}, \underbrace{\text{MOVE}}_{\text{数据×1}}, \underbrace{\text{LINK, TICK}}_{\text{控制×2}}\}$$
 
 **关键代数关系**：
 ```
@@ -97,7 +97,7 @@ MOVE(x,s,d) ≡ SWAP(x·mask(s,d))   [P2P=sparse AlltoAll，但能耗N×]
 
 ### 3.3 三场景同构核心对照
 
-| 场景 | 计算操作 | 通信操作 | NCC实现 | 拓扑 |
+| 场景 | 计算操作 | 通信操作 | TCC实现 | 拓扑 |
 |------|---------|---------|---------|------|
 | FFT（雷达/通信） | 蝶形运算 | AllReduce（维度有序） | MAPS+FUSE | Butterfly |
 | MoE推理（AI） | 专家选择+分发 | AlltoAll | SWAP | Crossbar |
@@ -133,27 +133,27 @@ MOVE(x,s,d) ≡ SWAP(x·mask(s,d))   [P2P=sparse AlltoAll，但能耗N×]
 
 ### T2：RTL硬件IP核实现
 
-- [🔴] **T2-1** 设计并实现 `ncc_link` IP核（SDI控制器：交叉开关+连接矩阵寄存器，配置延迟≤100ns）——**所有IP核的基础，最高优先**
-- [🔴] **T2-2** 实现 `ncc_fuse` IP核（AllReduce，Butterfly/Ring双拓扑，支持SUM/MAX/MIN）
-- [🔴] **T2-3** 实现 `ncc_gemm` IP核（脉动阵列，M≥8×K≥8，INT4/INT8/FP16/BF16）
-- [🔴] **T2-4** 实现 `ncc_maps` IP核（逐元素+可编程LUT，深度≥256，支持ReLU/GELU/SiLU/旋转因子）
-- [🟡] **T2-5** 实现 `ncc_scan` IP核（Brent-Kung或Kogge-Stone前缀树，inclusive/exclusive可配）
-- [🟡] **T2-6** 实现 `ncc_fold` / `ncc_pull` / `ncc_cast` / `ncc_swap` IP核
-- [🟡] **T2-7** 实现 `ncc_move` / `ncc_tick` IP核
+- [🔴] **T2-1** 设计并实现 `tcc_link` IP核（SDI控制器：交叉开关+连接矩阵寄存器，配置延迟≤100ns）——**所有IP核的基础，最高优先**
+- [🔴] **T2-2** 实现 `tcc_fuse` IP核（AllReduce，Butterfly/Ring双拓扑，支持SUM/MAX/MIN）
+- [🔴] **T2-3** 实现 `tcc_gemm` IP核（脉动阵列，M≥8×K≥8，INT4/INT8/FP16/BF16）
+- [🔴] **T2-4** 实现 `tcc_maps` IP核（逐元素+可编程LUT，深度≥256，支持ReLU/GELU/SiLU/旋转因子）
+- [🟡] **T2-5** 实现 `tcc_scan` IP核（Brent-Kung或Kogge-Stone前缀树，inclusive/exclusive可配）
+- [🟡] **T2-6** 实现 `tcc_fold` / `tcc_pull` / `tcc_cast` / `tcc_swap` IP核
+- [🟡] **T2-7** 实现 `tcc_move` / `tcc_tick` IP核
 - [🟢] **T2-8** 4节点VCK190板级集成，GTY 25.78 Gbps板间互连调试
 - [🟢] **T2-9** 三场景实验数据采集：1024点FFT延迟（目标800ns）、Gemma-4推理（目标5.2tok/s）、场景切换（目标<1μs）
 
 ### T3：SDK开发
 
-- [🟡] **T3-1** Python功能仿真器 `ncc-sim v0.1`（NumPy实现11原语全覆盖，`import ncc`直接调用，无需硬件）
-- [🟡] **T3-2** `ncc.compat.nccl`模块：注册为PyTorch c10d后端，验证标准DDP训练脚本零修改运行
-- [🟢] **T3-3** NCC MLIR Dialect定义（TableGen，含11种操作类型）+ StableHLO lowering pass
+- [🟡] **T3-1** Python功能仿真器 `tcc-sim v0.1`（NumPy实现11原语全覆盖，`import tcc`直接调用，无需硬件）
+- [🟡] **T3-2** `tcc.compat.nccl`模块：注册为PyTorch c10d后端，验证标准DDP训练脚本零修改运行
+- [🟢] **T3-3** TCC MLIR Dialect定义（TableGen，含11种操作类型）+ StableHLO lowering pass
 - [🟢] **T3-4** Graph Compiler三个pass：拓扑自动插入、原语融合（softmax/layernorm/flash_attn模式）、内存规划
 - [🟢] **T3-5** VCK190 HAL驱动层（AXI寄存器映射、DMA引擎、中断处理）
-- [⬜] **T3-6** `ncc.compat.mpi` 模块（MPI-4.0 collective子集）
-- [⬜] **T3-7** `ncc.compat.blas` + `ncc.compat.fftw` 映射层
+- [⬜] **T3-6** `tcc.compat.mpi` 模块（MPI-4.0 collective子集）
+- [⬜] **T3-7** `tcc.compat.blas` + `tcc.compat.fftw` 映射层
 
-### T4：论文B——NCC-11系统实现与评测（B5）
+### T4：论文B——TCC-11系统实现与评测（B5）
 
 - [🟢] **T4-1** 撰写 §3 Hardware Architecture（依赖T2完成后提取微架构数据）
 - [🟢] **T4-2** 撰写 §4 SDK and Compilation Flow（依赖T3-1至T3-4）
@@ -184,7 +184,7 @@ Q2 (4-6月)           Q3 (7-9月)          Q4 (10-12月)
 │                    │                   │
 ├─ P1专利提交(5月)    ├─ P2专利提交(7月)  ├─ P3专利提交(12月)
 ├─ T1-1,2开始        ├─ T2-1~4完成       ├─ T3-1,2完成
-├─ T2-1启动(ncc_link)├─ T1-1~5完成       ├─ T1-6整合FPGA数据
+├─ T2-1启动(tcc_link)├─ T1-1~5完成       ├─ T1-6整合FPGA数据
 │                    ├─ 论文A投ASPLOS'27  └─ T6-1 Γst仿真
 │                    │  Sep(9月9日)
 │                    └─ T3-1启动
@@ -222,7 +222,7 @@ TICK 的存在是否真的必要？即 GALS 系统中，能否仅用 LINK.barrie
 - 初步答案：barrier() 解决同步，TICK 解决因果序（不同），对数据依赖关系的追踪必须有 TICK
 - 研究路径：构造反例，展示无 TICK 时分布式 SCAN 的结果不确定性
 
-**Q4：NCC-11 的量子扩展**
+**Q4：TCC-11 的量子扩展**
 量子纠错码的稳定器电路是否也满足 Route≡Transform 结构？即量子纠缠 = 量子通信 + 量子门的某种同构？
 - 与量子计算的接口：SWAP 门是量子计算的通信原语，Hadamard/CNOT 是计算原语，两者的拓扑关系有待研究
 
@@ -232,11 +232,11 @@ TICK 的存在是否真的必要？即 GALS 系统中，能否仅用 LINK.barrie
 权利要求书承诺 LUT 重加载 ≤100 个时钟周期。实际测量是多少？能否进一步降低到 10 个周期？
 - 关键路径：LUT SRAM 的多端口读写时序，写使能信号的 setup/hold 约束
 
-**Q6：ncc_link 的交叉开关面积**
+**Q6：tcc_link 的交叉开关面积**
 N=16 节点的 16×16 交叉开关在 TSMC 7nm 下的面积是多少？是否超过 1mm²（超过则需要考虑分层拓扑）？
 - 估算：1×1 交叉点 ~0.5-1 μm²，256 个交叉点 ~256 μm²，加上信号缓冲约 ~0.5mm²，可接受
 
-**Q7：VCK190 AI Engine 与 NCC IP 核的协同**
+**Q7：VCK190 AI Engine 与 TCC IP 核的协同**
 VCK190 的 AI Engine 
 
 …（内容已截断，完整版见Obsidian）

@@ -1,5 +1,5 @@
 ---
-title: "NCC能效提升计算"
+title: "TCC能效提升计算"
 date: 2026-04-20 17:54:53
 source: "????"
 note_id: 1907694435232973840
@@ -7,7 +7,7 @@ note_type: plain_text
 tags: []
 ---
 
-# NCC能效提升计算
+# TCC能效提升计算
 
 Now I have all the data needed. Let me construct a rigorous, quantitative analysis.
 
@@ -34,7 +34,7 @@ Now I have all the data needed. Let me construct a rigorous, quantitative analys
 
 ---
 
-### 二、Phase 2（7nm NCC Chiplet, 2031-2033）：50-100× 性能提升的底层逻辑
+### 二、Phase 2（7nm TCC Chiplet, 2031-2033）：50-100× 性能提升的底层逻辑
 
 #### 2.1 工艺缩放收益：28nm FPGA → 7nm ASIC
 
@@ -61,11 +61,11 @@ Now I have all the data needed. Let me construct a rigorous, quantitative analys
 
 #### 2.3 Chiplet 多 Die 集成的额外增益
 
-Phase 2 采用 2-4 个 NCC chiplet 通过 UCIe/硅中介层集成，引入以下增益：
+Phase 2 采用 2-4 个 TCC chiplet 通过 UCIe/硅中介层集成，引入以下增益：
 
 **算力线性扩展**：4× chiplet = 4× 峰值 MAC 吞吐，但片间通信能耗仅 ~2 pJ/bit（UCIe标准），远低于板级互连的 ~10-20 pJ/bit。
 
-**SDI 拓扑融合收益**：这是 NCC 独有的——我们论证过的 Route≡Transform 原语融合，使得原本需要 “计算→搬运→计算→搬运” 的流水线变成 “拓扑重构即计算”，消除约 50-70% 的中间数据搬运。根据我们前期推导，对 N 节点系统，原语融合理论上减少 N× 数据搬运能耗。对 4-chiplet 系统即 ~4×。
+**SDI 拓扑融合收益**：这是 TCC 独有的——我们论证过的 Route≡Transform 原语融合，使得原本需要 “计算→搬运→计算→搬运” 的流水线变成 “拓扑重构即计算”，消除约 50-70% 的中间数据搬运。根据我们前期推导，对 N 节点系统，原语融合理论上减少 N× 数据搬运能耗。对 4-chiplet 系统即 ~4×。
 
 #### 2.4 综合推算
 
@@ -167,11 +167,11 @@ Cerebras WSE-3 的数据已经证明：
 
 #### 3.6 Route≡Transform 原语融合的颠覆性贡献
 
-这就是为什么我们的 NCC 范式不是简单的 Cerebras 翻版。SDSoW 的核心创新是 **SDI 拓扑计算融合**：
+这就是为什么我们的 TCC 范式不是简单的 Cerebras 翻版。SDSoW 的核心创新是 **SDI 拓扑计算融合**：
 
 传统架构（包括 Cerebras）：读权重 → 送到计算单元 → 计算 → 写回 → 读下一层权重 → …（每层都有完整的读-计算-写循环）
 
-**NCC SDSoW 架构**：权重分布式嵌入网络拓扑 → 数据流经网络时自动完成乘加 → 拓扑重构切换到下一层 → 数据继续流动
+**TCC SDSoW 架构**：权重分布式嵌入网络拓扑 → 数据流经网络时自动完成乘加 → 拓扑重构切换到下一层 → 数据继续流动
 
 在这种架构下：
 
@@ -184,7 +184,7 @@ Cerebras WSE-3 的数据已经证明：
 修正后的能耗估算：
 
 
-| 能耗项      | 传统架构      | NCC SDSoW     |
+| 能耗项      | 传统架构      | TCC SDSoW     |
 | -------- | --------- | ------------- |
 | MAC 计算   | 0.069 W   | 0.069 W       |
 | 权重读取     | 9.2 W     | ~0（嵌入拓扑）      |
@@ -221,7 +221,7 @@ Phase 1 (FPGA原型, 2027-2029)
 │   ③ Chiplet并行: 2-4×                               │
 │   ④ Route≡Transform融合: 1.5-2×（初步实现）          │
 ▼                                                      │
-Phase 2 (7nm NCC Chiplet, 2031-2033)                   │
+Phase 2 (7nm TCC Chiplet, 2031-2033)                   │
 │  250-500 tok/s @ 1.5-5W  →  50-166 tok/s/W          │
 │  关键突破：定制MAC阵列、SDI硬件控制器、UCIe互连       │
 │                                                      │
@@ -258,6 +258,6 @@ Phase 3 (晶圆级SDSoW, 2033-2035)
 
 > **Horowitz 定律**（数据搬运占能耗 >90%）→ **晶圆级集成**（模型全驻片上 SRAM，消除 DRAM 墙）→ **Route≡Transform 原语融合**（权重嵌入拓扑，消除权重读取）→ **事件驱动 GALS**（消除全局时钟浪费）→ **纯计算能耗仅 ~70mW**（距 Landauer 极限仍有 10⁷× 空间）→ **系统总功耗收敛到 ~0.5-1W**
 
-这个指标的惊人之处不在于它违反物理定律，而在于它**彻底改变了能耗的结构分布**——从"搬运数据的系统"变成了"数据就在计算发生处的系统"。这正是 NCC 网络中心计算范式的第一性原理价值：**消灭数据搬运，让计算回归其物理本质。**
+这个指标的惊人之处不在于它违反物理定律，而在于它**彻底改变了能耗的结构分布**——从"搬运数据的系统"变成了"数据就在计算发生处的系统"。这正是 TCC 网络中心计算范式的第一性原理价值：**消灭数据搬运，让计算回归其物理本质。**
 
 正如 Mark Horowitz 在 ISSCC 2014 演讲中所言：*“Computing’s energy problem is dominantly a data movement problem.”* 而我们的解法是：**如果数据不需要移动，问题就不存在。**

@@ -39,16 +39,16 @@
 |------|------|----------------|-------------|---------|------|------|
 | B1 | P-Theory | Meta-Topology与SDI-Bond的拓扑变分演化理论 | IEEE TIT / Physical Review X | 2026 Q4 | 📝有初稿 | 提出同构定理、自由能原理与最小作用量方程 |
 | **B2** | **P-Mapping** ★ | **5通信+4算子拓扑完备映射+PTM算法** | **IEEE TPDS / ICS'27** | **2027 Q1** | **📝v2全文初稿完成** | **升级为5+4完备体系，最先投稿** |
-| B3 | P-Paradigm | Liquid Hardware与NCC第三计算范式 | Nature Electronics | 2027 Q1 | 📝有初稿大纲 | 历史三次范式迁移，引入OODA闭环与同构定律 |
+| B3 | P-Paradigm | Liquid Hardware与TCC第三计算范式 | Nature Electronics | 2027 Q1 | 📝有初稿大纲 | 历史三次范式迁移，引入OODA闭环与同构定律 |
 | B4 | P-Device | BCU忆阻器器件表征 | IEEE EDL / Nat.Comm | 2027 Q3 | ⬜待启动 | 依赖Year1 SINANO流片 |
 | B5 | P-System | SDI-CC系统架构+实测 | SC'27 / HPCA'27 | 2028 Q1 | ⬜待启动 | 依赖Year2 Gen1芯片 |
 | B6 | P-App | HPC+信号处理三域统一验证 | SC'28 / ICS'28 | 2028 Q4 | ⬜待启动 | 依赖Year3 64节点系统 |
 
 **B组核心独创性**：
-1. 首次提出NCC第三计算范式（严格代数定义）
+1. 首次提出TCC第三计算范式（严格代数定义）
 2. 首次证明六类集合通信原语的完备性
 3. **首次发现并证明 FFT-AllReduce 图同构定理** ★
-4. 首次基于CST理论证明NCC的RI上界优越性
+4. 首次基于CST理论证明TCC的RI上界优越性
 5. 首次实现基于忆阻器化合键的物理拓扑可重构集合通信芯片
 
 ---
@@ -91,7 +91,7 @@
 ```
 2026 Q2 ─── A1（CST主论文）/ A11（英文统一理论）
 2026 Q4 ─── B1（P-Theory·5大定理）/ A8（CST-OPT）/ A4（相变证据）
-2027 Q1 ─── B2（P-Mapping全文）★ / B3（NCC范式） / A5（综述）/ A7（器件-算法D）/ C4（六代路线图）
+2027 Q1 ─── B2（P-Mapping全文）★ / B3（TCC范式） / A5（综述）/ A7（器件-算法D）/ C4（六代路线图）
 2027 Q2 ─── A2（病理验证）/ A9（FEP+CST）/ C1（晶上自演化类脑）
 2027 Q3 ─── B4（P-Device）/ A3（AI缩放律）
 2027 Q4 ─── C2（SDSoW）

@@ -748,7 +748,7 @@
 |---|------|------|
 | 1 | 4.9KB | 40_iNEST\41_Theory\iNEST_Academic_Belief_Core.md |
 | 2 | 4.9KB | 40_iNEST\41_Theory\战略规划\iNEST_Academic_Belief_Core.md |
-| 3 | 4.7KB | 20_Processing\21_TCC\01_Atlas_SDSoW-NCC\iNEST_Academic_Belief_Core.md |
+| 3 | 4.7KB | 20_Processing\21_TCC\01_Atlas_SDSoW-TCC\iNEST_Academic_Belief_Core.md |
 
 ## 82. b3_p-paradigm_natureelectronics_框架.md (3个版本)
 

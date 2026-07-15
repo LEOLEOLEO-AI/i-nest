@@ -27,7 +27,7 @@ tags: []
 | LaTeX打包 | `02_Papers_论文/arXiv_submission/` | 🟡进行中（bib已完成，tex构建中） | 完成main.tex→pdflatex编译→zip打包 |
 | Mouse>π问题 | V25论文§3.2 | ✅已修复（L5注脚已加入V25） | — |
 | B2 P-Mapping素材 | `02_Papers_论文/B组_SDI-CC互连体系/B2_P-Mapping_素材_V3.md` | 📝V3完备 | 启动论文写作 |
-| B7 Route≡Transform | `02_Papers_论文/NCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md` | 📋框架完成 | §3理论证明展开 |
+| B7 Route≡Transform | `02_Papers_论文/TCC_专利与论文/论文A_B7_Route-Transform_ASPLOS27.md` | 📋框架完成 | §3理论证明展开 |
 
 ---
 
@@ -45,17 +45,17 @@ tags: []
 ---
 
 ### ⚙️ 主线E：关键技术工程实现
-**负责人**：刘勤让 | **当前阶段**：NCC-11原语集IP核设计准备
+**负责人**：刘勤让 | **当前阶段**：TCC-11原语集IP核设计准备
 
 | 任务 | 文件 | 状态 | 下一步 |
 |------|------|------|--------|
-| P1专利（核心方法） | `02_Papers_论文/NCC_专利与论文/P1_NCC方法与系统专利_框架.md` | 📋框架完成 | 扩写实施方式，目标2026-05 CNIPA申请 |
-| P2专利（硬件IP核） | `NCC_IP_Portfolio/专利/P2_可重构原语硬件IP核阵列/` | 📋权利要求框架 | 补充背景技术+实施方式 |
-| P3专利（拓扑FFT） | `NCC_IP_Portfolio/专利/P3_可编程拓扑重构FFT/` | 📋权利要求框架 | 补充数学等价性证明 |
-| P4专利（SDK编译） | `NCC_IP_Portfolio/专利/P4_NCCL_MPI_BLAS自动映射编译/` | 📋权利要求框架 | 补充MLIR方言定义 |
-| P5专利（自演化） | `NCC_IP_Portfolio/专利/P5_能量最小化拓扑自演化/` | ⚠️待补充全文 | 从原对话复制全文 |
+| P1专利（核心方法） | `02_Papers_论文/TCC_专利与论文/P1_TCC方法与系统专利_框架.md` | 📋框架完成 | 扩写实施方式，目标2026-05 CNIPA申请 |
+| P2专利（硬件IP核） | `TCC_IP_Portfolio/专利/P2_可重构原语硬件IP核阵列/` | 📋权利要求框架 | 补充背景技术+实施方式 |
+| P3专利（拓扑FFT） | `TCC_IP_Portfolio/专利/P3_可编程拓扑重构FFT/` | 📋权利要求框架 | 补充数学等价性证明 |
+| P4专利（SDK编译） | `TCC_IP_Portfolio/专利/P4_NCCL_MPI_BLAS自动映射编译/` | 📋权利要求框架 | 补充MLIR方言定义 |
+| P5专利（自演化） | `TCC_IP_Portfolio/专利/P5_能量最小化拓扑自演化/` | ⚠️待补充全文 | 从原对话复制全文 |
 | FPGA原型（VCK190） | `04_Code_代码/collective_comm_naas/` | 🟡进行中 | FFT 800ns实测数据收集 |
-| NCC-11 RTL | （待创建） | ⬜未启动 | SystemVerilog 11 IP cores |
+| TCC-11 RTL | （待创建） | ⬜未启动 | SystemVerilog 11 IP cores |
 | SDI控制器 | （待创建） | ⬜未启动 | 64×64 crossbar + shadow register |
 
 ---
@@ -67,7 +67,7 @@ tags: []
 |------|------|------|--------|
 | iNEST MVP计划 | `02_Papers_论文/iNEST_MVP_Plan_V1.md` | 📋V1存在 | 细化三大应用场景路线图 |
 | 海河实验室专项V8 | `05_Projects_项目/海河实验室重大专项/[V8]_...正式发布版.md` | ✅正式版 | 等待反馈/修订 |
-| 战略规划总文档 | `NCC_IP_Portfolio/战略规划/`（⚠️待补充） | ⬜缺文件 | 从原对话复制①号文件 |
+| 战略规划总文档 | `TCC_IP_Portfolio/战略规划/`（⚠️待补充） | ⬜缺文件 | 从原对话复制①号文件 |
 | 中汽合作智驾专项 | `00_KnowledgeBase_知识库/专项布局/智驾晶上异构集成_中汽合作_项目指南_v2.md` | ✅V2完成 | — |
 | 卫星智能体专项 | `00_KnowledgeBase_知识库/卫星智能体/卫星智能体重大专项建议_v9_FINAL.md` | ✅FINAL | — |
 | 苏州实验室合作 | `00_KnowledgeBase_知识库/专项布局/苏州实验室合作/` | ✅完成 | — |
@@ -82,7 +82,7 @@ tags: []
 | 🔴P2 | P1专利说明书扩写完成→2026-05 CNIPA申请 | E | 1周 |
 | 🟠P3 | B7 Route≡Transform §3理论证明展开 | T | 3天 |
 | 🟠P4 | nano-SDIO.py算力对标数据补充（立项材料） | S/P | 1天 |
-| 🟡P5 | NCC-LTC范式图片 + 范式跃迁图已入库，补充论文A Figure说明 | T | 1小时 |
+| 🟡P5 | TCC-LTC范式图片 + 范式跃迁图已入库，补充论文A Figure说明 | T | 1小时 |
 
 ---
 
@@ -92,14 +92,14 @@ tags: []
 workspace/
 ├── DASHBOARD.md          ← 你在这里，总控入口
 ├── 00_KnowledgeBase_知识库/
-│   ├── 02_CST_核心理论著作/    ← CST理论核心定义、NCC命名规范
+│   ├── 02_CST_核心理论著作/    ← CST理论核心定义、TCC命名规范
 │   ├── 03_Inbox_文献与碎片/    ← 1105个文献（需定期消化）
 │   ├── CST仿真平台/            ← 仿真脚本+结果（主线S）
 │   └── 专项布局/               ← 各专项申报材料
 ├── 01_Ideas_想法/              ← 6个待消化想法
 ├── 02_Papers_论文/
 │   ├── CST V25 FINAL ★         ← 当前最新论文
-│   ├── NCC_专利与论文/          ← P1-P4框架+论文A/B/C框架
+│   ├── TCC_专利与论文/          ← P1-P4框架+论文A/B/C框架
 │   ├── A组_CST基础理论/
 │   ├── B组_SDI-CC互连体系/
 │   └── Figures/                ← 6张V25配图
@@ -109,7 +109,7 @@ workspace/
 ├── 05_Projects_项目/
 │   ├── 海河实验室重大专项/      ← V8正式版
 │   └── NSFC/卫星智能体/
-├── NCC_IP_Portfolio/           ← P2-P4专利框架+论文A/C框架
+├── TCC_IP_Portfolio/           ← P2-P4专利框架+论文A/C框架
 └── memory/                     ← AI记忆文件
 ```
 
@@ -134,7 +134,7 @@ workspace/
 ## 📌 关键约束（每次会话继承）
 
 - 严格手动模式：禁止任何定时任务/cron
-- NCC命名：全库只用 `ncc.*` 前缀，NCC-11
+- TCC命名：全库只用 `tcc.*` 前缀，TCC-11
 - β₁/Betti数：不入V25论文，留companion paper
 - X₄定义：Watts-Strogatz σ + tanh归一化
 - UCCP参考：Q_rand=0.02，floor ε=0.01
@@ -153,7 +153,7 @@ workspace/
 | 格式整理、目录调整、分类归档 | exec 运行脚本 | 零 | bash批处理 |
 | 结构化Wiki生成、中等内容创作 | subagent（小模型） | 小 | sessions_spawn 小模型 |
 | 学术推理、论文分析、复杂理论研究 | 主会话 Claude | 正常 | CST理论讨论、专利可行性分析 |
-| 核心算法设计、复杂代码开发 | sessions_spawn Claude | 正常 | NCC-RTL设计、SDI控制器 |
+| 核心算法设计、复杂代码开发 | sessions_spawn Claude | 正常 | TCC-RTL设计、SDI控制器 |
 
 巡检工具：
 - 全量巡检：python3 /home/work/.openclaw/workspace/kb_inspector.py
@@ -165,24 +165,24 @@ workspace/
 
 | 目录 | 内容说明 |
 |------|------|
-| KB/01_Atlas_SDSoW-NCC/ | 战略规划，定稿文件，AI只读 |
-| KB/02_Atlas_CST-iNEST/ | CST理论核心定义、NCC命名规范，AI只读 |
+| KB/01_Atlas_SDSoW-TCC/ | 战略规划，定稿文件，AI只读 |
+| KB/02_Atlas_CST-iNEST/ | CST理论核心定义、TCC命名规范，AI只读 |
 
 ---
 
 ## 🗂️ KB 目录结构（物理迁移完成，2026-04-28起）
 
 KB/ 根目录（workspace/KB/）下均为真实目录：
-- 01_Atlas_SDSoW-NCC/ ← 宏观规划与战略报告（AI只读）
-- 02_Atlas_CST-iNEST/ ← CST核心理论著作、NCC命名规范（AI只读）
+- 01_Atlas_SDSoW-TCC/ ← 宏观规划与战略报告（AI只读）
+- 02_Atlas_CST-iNEST/ ← CST核心理论著作、TCC命名规范（AI只读）
 - 03_Efforts_CST-iNEST_仿真平台/ ← CST仿真脚本与结果
 - 04_Efforts_CST-iNEST_超线性增益/ ← 网络超线性增益知识库
-- 05_Efforts_SDSoW-NCC_专项布局/ ← 各专项申报材料
-- 06_Efforts_SDSoW-NCC_卫星智能体/ ← 卫星智能体重大专项
+- 05_Efforts_SDSoW-TCC_专项布局/ ← 各专项申报材料
+- 06_Efforts_SDSoW-TCC_卫星智能体/ ← 卫星智能体重大专项
 
 尚未迁移（原路径保留）：
-- ../02_Papers_论文/ ← CST V25论文、NCC专利论文、B组SDI
+- ../02_Papers_论文/ ← CST V25论文、TCC专利论文、B组SDI
 - ../04_Code_代码/ ← nano_SDIO、FPGA仿真
 - ../05_Projects_项目/ ← 海河实验室、NSFC、卫星项目
-- ../NCC_IP_Portfolio/ ← P1-P5专利框架、论文A/B/C框架
+- ../TCC_IP_Portfolio/ ← P1-P5专利框架、论文A/B/C框架
 - ../00_KnowledgeBase_知识库/03_Inbox/ ← 1105个文献（原地保留）

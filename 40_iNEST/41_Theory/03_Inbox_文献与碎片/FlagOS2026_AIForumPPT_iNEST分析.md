@@ -33,12 +33,12 @@ modified: 2026-07-07
 框架层：FlagScale（训练推理）/ vLLM-plugin-FL
 算子层：FlagGEMs 497个算子（全球最大）
 编译层：Triton-TLE（TLE-Lite → Struct → Raw 三层）
-[缺口]：拓扑计算层 ← iNEST/NCC-11 的位置
+[缺口]：拓扑计算层 ← iNEST/TCC-11 的位置
 硬件层：RISC-V香山三种形态 + 18家芯片厂商32款
 ```
 
 **FlagOS用497个算子才实现主流模型90%~100%覆盖。**  
-**iNEST的Route≡Transform定理预言：NCC-11可完备覆盖同样的计算空间。**
+**iNEST的Route≡Transform定理预言：TCC-11可完备覆盖同样的计算空间。**
 
 ---
 
@@ -48,7 +48,7 @@ modified: 2026-07-07
 | 路线 | 算子/原语数量 | 覆盖度 |
 |------|------------|--------|
 | FlagOS（FlagGEMs + 多领域） | **497个算子** | 90%~100%（40个主流模型） |
-| iNEST NCC-11 | **11个正交原语** | 理论100%（完备性定理已证） |
+| iNEST TCC-11 | **11个正交原语** | 理论100%（完备性定理已证） |
 | FlagFFT（薄弱项） | **2个算子** | iNEST：0个算子（拓扑等价替代） |
 
 ### 架构灵活性对比
@@ -88,7 +88,7 @@ modified: 2026-07-07
 - [ ] **B3论文引言**：加入"497 vs 11"对比数据作为TCC第三范式的motivation
 - [ ] **Demo第一性差异Tab**：添加FlagOS算子数量对比
 - [ ] **合作方向探索**：FlagFFT（2个算子）→ iNEST蝶形拓扑替代
-- [ ] **FlagCX接口对接**：NCC-11通信四原语作为FlagCX底层
+- [ ] **FlagCX接口对接**：TCC-11通信四原语作为FlagCX底层
 - [ ] **香山②增强**：通推分离 + SDI动态调整通/推比例
 
 ---
@@ -111,13 +111,13 @@ modified: 2026-07-07
 ```
 Triton路线：NVIDIA主导 → 智源做Triton-TLE扩展（图3）
 TileLang路线：北大开源 → DeepSeek全面采用（图6）
-iNEST NCC-11：拓扑原语层，在两条路线之下，兼容两者
+iNEST TCC-11：拓扑原语层，在两条路线之下，兼容两者
 ```
 
 ### TileLang后端机会
 
-TileLang目前支持 NVIDIA/AMD GPU，NCC-11可作为**拓扑重构型芯片**的第三个后端：
-- DeepSeek模型 → TileLang编译 → NCC后端 → iNEST硬件运行
+TileLang目前支持 NVIDIA/AMD GPU，TCC-11可作为**拓扑重构型芯片**的第三个后端：
+- DeepSeek模型 → TileLang编译 → TCC后端 → iNEST硬件运行
 - Route≡Transform提供数学保证：语义等价，无需重新训练
 
 ### 六张图完整生态地图
@@ -128,6 +128,6 @@ TileLang目前支持 NVIDIA/AMD GPU，NCC-11可作为**拓扑重构型芯片**�
 编译层A：Triton → Triton-TLE（智源扩展，图3）
 编译层B：TileLang（北大+DeepSeek，图6）
 算子层：FlagGEMs 497个算子（图1-2）
-【拓扑计算层】NCC-11 ← iNEST 的位置（两条编译路线的统一拓扑后端）
+【拓扑计算层】TCC-11 ← iNEST 的位置（两条编译路线的统一拓扑后端）
 硬件层：RISC-V香山三方案 / 18厂商32款国产芯片（图4-5）
 ```

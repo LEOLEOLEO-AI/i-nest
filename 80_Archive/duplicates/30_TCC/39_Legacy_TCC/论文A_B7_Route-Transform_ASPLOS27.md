@@ -20,7 +20,7 @@
 
 ## Abstract（草稿）
 
-We present a unified algebraic framework that proves communication primitives (AllReduce, AllGather, Broadcast, AlltoAll) and computation primitives (GEMM, Reduce, Map, Scan) are structurally isomorphic operations on a reconfigurable interconnect topology. We formalize this as the Route≡Transform theorem: for any distributed computation expressible as a sequence of communication and computation steps, there exists an equivalent sequence of topology reconfigurations on a single reconfigurable datapath that produces identical results. We define NCC-11, a minimal complete primitive set of 11 orthogonal operations, and prove its completeness (any Turing-computable distributed function is expressible) and minimality (removing any primitive causes at least one target workload to degrade by Ω(N)). We demonstrate three corollaries with profound hardware implications: (1) an N-point FFT is exactly k=log₂N topology reconfigurations of a butterfly pattern, requiring zero dedicated FFT hardware; (2) Mixture-of-Experts token dispatch is a single AlltoAll, topologically equivalent to a distributed matrix transpose; (3) CFAR sliding-window detection is a prefix scan, equivalent to a linear-chain topology with stateful forwarding. We validate these results on a 4-node FPGA prototype (Xilinx VCK190), demonstrating 1024-point FFT in 800 ns via topology reconfiguration, Gemma-4 E2B inference at 5.2 tokens/s, and ≤1 μs cross-scene switching between LLM inference, video detection, and radar DBF.
+We present a unified algebraic framework that proves communication primitives (AllReduce, AllGather, Broadcast, AlltoAll) and computation primitives (GEMM, Reduce, Map, Scan) are structurally isomorphic operations on a reconfigurable interconnect topology. We formalize this as the Route≡Transform theorem: for any distributed computation expressible as a sequence of communication and computation steps, there exists an equivalent sequence of topology reconfigurations on a single reconfigurable datapath that produces identical results. We define TCC-11, a minimal complete primitive set of 11 orthogonal operations, and prove its completeness (any Turing-computable distributed function is expressible) and minimality (removing any primitive causes at least one target workload to degrade by Ω(N)). We demonstrate three corollaries with profound hardware implications: (1) an N-point FFT is exactly k=log₂N topology reconfigurations of a butterfly pattern, requiring zero dedicated FFT hardware; (2) Mixture-of-Experts token dispatch is a single AlltoAll, topologically equivalent to a distributed matrix transpose; (3) CFAR sliding-window detection is a prefix scan, equivalent to a linear-chain topology with stateful forwarding. We validate these results on a 4-node FPGA prototype (Xilinx VCK190), demonstrating 1024-point FFT in 800 ns via topology reconfiguration, Gemma-4 E2B inference at 5.2 tokens/s, and ≤1 μs cross-scene switching between LLM inference, video detection, and radar DBF.
 
 ---
 
@@ -31,7 +31,7 @@ We present a unified algebraic framework that proves communication primitives (A
 | §1 Introduction | Horowitz能耗数据；通信-计算二元分离历史；核心thesis | 1.5页 | T1-5 | ⬜ |
 | §2 Background | Horowitz Energy Wall；SHARP/Cerebras/Active Networks对比；缺失的统一 | 1.5页 | T1-5 | ⬜ |
 | §3 Theory | **核心**：4定理体系（分解/同构/完备/最小性） | 3页 | **T1-1~4** | 🔴进行中 |
-| §4 NCC-11 Spec | 11原语形式化语义、接口、复杂度（表格形式） | 1.5页 | T1-2 | 🟡待 |
+| §4 TCC-11 Spec | 11原语形式化语义、接口、复杂度（表格形式） | 1.5页 | T1-2 | 🟡待 |
 | §5 Hardware | VCK190平台、11 IP核资源占用、SDI控制器实现 | 2页 | T2-8 | ⬜待硬件 |
 | §6 Evaluation | FFT 800ns、Gemma-4 5.2tok/s、切换<1μs、扩展分析 | 3页 | T2-9 | ⬜待数据 |
 | §7 Related Work | PIM/Dataflow/In-Network/Active Networks分类对比 | 0.5页 | T1-5 | ⬜ |
@@ -81,9 +81,9 @@ A_FFT = A_AR =
 
 **泛化**：对任意$N=2^k$，相同论证成立。计算验证：$N=2,4,8,16,32,64$ 全部通过。
 
-**NCC硬件推论**：
+**TCC硬件推论**：
 $$N\text{-point FFT} = k\cdot\text{LINK} + k\cdot\frac{N}{2}\cdot\text{GEMM(complex)} + k\cdot\frac{N}{2}\cdot\text{FUSE}$$
-NCC液态拓扑每阶段一次LINK重构完成蝶形连接，无需任何专用FFT硬件。
+TCC液态拓扑每阶段一次LINK重构完成蝶形连接，无需任何专用FFT硬件。
 
 **基-r FFT**：对应广义超立方体$H_k^{(r)}$，同构关系同样成立（XOR推广到base-r反转运算）。
 
@@ -93,7 +93,7 @@ NCC液态拓扑每阶段一次LINK重构完成蝶形连接，无需任何专用F
 
 **Lemma 2c（Scan-Pipeline）**：
 - Blelloch上扫描-下扫描算法在线性链拓扑上的数据流等价性
-- [ ] 参考Blelloch 1990，改写为NCC拓扑语言
+- [ ] 参考Blelloch 1990，改写为TCC拓扑语言
 
 ### §3.4 定理3——完备性
 
@@ -101,7 +101,7 @@ NCC液态拓扑每阶段一次LINK重构完成蝶形连接，无需任何专用F
 
 | 工作负载 | 原语分解 | 完成状态 |
 |---------|---------|---------|
-| Transformer推理 | 见三场景原语流（NCC_Naming_Convention_v2.md §9.1） | ✅已有 |
+| Transformer推理 | 见三场景原语流（TCC_Naming_Convention_v2.md §9.1） | ✅已有 |
 | CNN推理 | 见三场景原语流（§9.3 YOLO） | ✅已有 |
 | FFT | 见§9.2 | ✅已有 |
 | SpMV | FOLD_S(稀疏归约) + MOVE(P2P取数) + PACK(拓扑压缩)三步构成; 稀疏度由PRUNE降低带宽开销 | ⬜待写完整分解 |
@@ -167,19 +167,19 @@ NCC液态拓扑每阶段一次LINK重构完成蝶形连接，无需任何专用F
 
 - [ ] 确认ASPLOS'27 Sep cycle的页数限制和格式（通常14页，double-blind）
 - [ ] LaTeX模板：ACM SIGPLAN LaTeX template
-- [ ] 附录：NCC-11完整规范表格（可放Appendix）
+- [ ] 附录：TCC-11完整规范表格（可放Appendix）
 - [ ] 图表预算：预计8-10个图（FFT同构图、三场景原语流图、覆盖矩阵、性能对比图）
 - [ ] arXiv预印本：在P1 CNIPA申请日之后发布
 
 ---
 
-## §4 附：T-Scale定理（NCC线性可扩展性定理）| 2026-04-30 严格审查版
+## §4 附：T-Scale定理（TCC线性可扩展性定理）| 2026-04-30 严格审查版
 
 ### 定理表述（正式版）
 
-**定理 T-Scale（NCC强可扩展性定理）**
+**定理 T-Scale（TCC强可扩展性定理）**
 
-设NCC集群有N个节点，每节点局部算力为C（ops/s），局部存储为M（bytes）。定义：
+设TCC集群有N个节点，每节点局部算力为C（ops/s），局部存储为M（bytes）。定义：
 - $T_{compute}$：每节点处理一个工作单元（如Transformer一层）的本地计算时间
 - $T_{fuse}$：FUSE原语在N节点蝶形拓扑上的延迟，$T_{fuse} = \lceil \log_2 N \rceil \cdot \tau_0$，其中$\tau_0$为单跳常数延迟
 
@@ -198,7 +198,7 @@ $$T(N) = N \cdot C \cdot \eta(N), \quad \eta(N) = 1 - \frac{\lceil \log_2 N \rce
 | 架构 | 串行比例 s | 加速比上界 | 实际利用率η |
 |------|-----------|-----------|-----------|
 | GPU集群 | $s_{GPU} \approx 20\text{–}40\%$（通信气泡） | $1/s \approx 2.5\text{–}5×$ | 40–60% |
-| NCC | $s_{NCC} = O(\log N / T_{total}) \approx 1\%$ | $\approx N$（趋线性） | ~99%（计算密集型）|
+| TCC | $s_{TCC} = O(\log N / T_{total}) \approx 1\%$ | $\approx N$（趋线性） | ~99%（计算密集型）|
 
 ---
 
@@ -220,8 +220,8 @@ $$T(N) = N \cdot C \cdot \eta(N), \quad \eta(N) = 1 - \frac{\lceil \log_2 N \rce
 - 正确表述：**以$O(\log N)$的通信代价实现$O(N)$的吞吐增长**（比GPU的$O(N)$代价$O(N)$吞吐优化了通信项）
 
 **[4] Amdahl串行比例**
-- $s_{NCC} \neq 0$，包含四个串行部分：TICK同步屏障、LINK重构阻塞、PRUNE广播、控制平面
-- **精确表述**：$s_{NCC} = O(\log N / T_{total}) \ll s_{GPU} \approx 20\text{–}40\%$
+- $s_{TCC} \neq 0$，包含四个串行部分：TICK同步屏障、LINK重构阻塞、PRUNE广播、控制平面
+- **精确表述**：$s_{TCC} = O(\log N / T_{total}) \ll s_{GPU} \approx 20\text{–}40\%$
 - 实例验证：$\log_2(1024) \times 10\text{ns} / 9600\text{μs} = 0.01\%$（远小于GPU的通信气泡）
 
 **[5] 存储扩展性补充条件**
@@ -233,11 +233,11 @@ $$T(N) = N \cdot C \cdot \eta(N), \quad \eta(N) = 1 - \frac{\lceil \log_2 N \rce
 
 ### 精化后的用户友好表述
 
-> **"NCC以$O(\log N)$的通信代价，实现$O(N)$的系统吞吐扩展。"**
+> **"TCC以$O(\log N)$的通信代价，实现$O(N)$的系统吞吐扩展。"**
 >
 > 传统GPU集群：通信代价$O(N)$，吞吐增长次线性（因为通信是计算之外的额外串行开销）。
-> NCC液态拓扑：通信代价$O(\log N)$（FUSE蝶形），且通信本身即计算（Route≡Transform）；
-> 在计算密集型场景下，串行比例$s_{NCC} < 0.1\%$，有效利用率$\eta \to 99\%$，
+> TCC液态拓扑：通信代价$O(\log N)$（FUSE蝶形），且通信本身即计算（Route≡Transform）；
+> 在计算密集型场景下，串行比例$s_{TCC} < 0.1\%$，有效利用率$\eta \to 99\%$，
 > 系统吞吐接近理论线性上界$T(N) \to O(N)$。
 
 ---

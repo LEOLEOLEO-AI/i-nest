@@ -1,14 +1,14 @@
 ---
 direction: TCC
-title: "NCC Core Concepts"
+title: "TCC Core Concepts"
 created: 2026-07-07
 modified: 2026-07-07
 ---
-# NCC核心概念与基线理论集 (NCC Core Concepts)
+# TCC核心概念与基线理论集 (TCC Core Concepts)
 
-> **知识库说明**：本文档为iNEST课题组“网络中心计算（NCC）”范式的纯文本高密度知识提取。作为大模型与研究人员共同使用的**系统提示词与概念基线**。所有后续的项目申报、论文写作、代码生成，均需以此文档中的数学定义和学术表述为锚点。
+> **知识库说明**：本文档为iNEST课题组“网络中心计算（TCC）”范式的纯文本高密度知识提取。作为大模型与研究人员共同使用的**系统提示词与概念基线**。所有后续的项目申报、论文写作、代码生成，均需以此文档中的数学定义和学术表述为锚点。
 
-## 一、 第一性原理：网络中心计算 (Network-Centric Computing, NCC)
+## 一、 第一性原理：网络中心计算 (Network-Centric Computing, TCC)
 - **核心命题**：物理拓扑即计算。计算的重心从冯·诺依曼架构的“节点”迁移到“网络”。
 - **路由-变换分解定理**：任意分布式张量计算 $\mathcal{D}$ 均可唯一分解为“路由算子（Route, $\mathcal{R}$）”与“变换算子（Transform, $\mathcal{T}$）”的交替复合序列：$\mathcal{D} = \mathcal{T}_k \circ \mathcal{R}_k \circ \cdots \circ \mathcal{T}_1 \circ \mathcal{R}_1$。
 - **液态硬件 (Liquid Hardware)**：通过引入软件定义互连（SDI）作为柔性韧带，将原本固化的硅片转化为可随算法负载（AI/信号处理）在微秒级瞬间重构拓扑形态的新型物理底座。

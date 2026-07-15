@@ -4,12 +4,12 @@ date: 2026-07-02
 version: v1.0
 status: Draft
 scope: "面向TCC项目申报书(Hailab)的6R+6T原语规范与知识库中TCC-11 v1.0的统一"
-tags: [TCC, 原语, primitive, NCC, TCC-11, 6R+6T, Route≡Transform]
+tags: [TCC, 原语, primitive, TCC, TCC-11, 6R+6T, Route≡Transform]
 ---
 
 # TCC原语体系统一方案：6R+6T与TCC-11的对齐与收敛
 
-> **核心结论**：知识库中存在两个版本的原语定义——项目申报书中的"6R+6T"和已固化的"TCC-11 v1.0（ncc.*）"。两者在数学本质上等价，差异主要在命名、分组方式和应用语境。**建议以TCC-11 v1.0为规范基准，用6R+6T框架对外表述**——即内部统一为11原语，对外以6R+6T框架展示（将MOVE并入Route组、TICK并入时序基础原语）。
+> **核心结论**：知识库中存在两个版本的原语定义——项目申报书中的"6R+6T"和已固化的"TCC-11 v1.0（tcc.*）"。两者在数学本质上等价，差异主要在命名、分组方式和应用语境。**建议以TCC-11 v1.0为规范基准，用6R+6T框架对外表述**——即内部统一为11原语，对外以6R+6T框架展示（将MOVE并入Route组、TICK并入时序基础原语）。
 
 ---
 
@@ -94,11 +94,11 @@ cc.SCAN
 
 ### 2.1 命名差异
 
-| 维度 | TCC-11 (ncc.*) | 6R+6T（项目文档语境） |
+| 维度 | TCC-11 (tcc.*) | 6R+6T（项目文档语境） |
 |------|---------------|-------------------|
 | 命名空间 | 
 cc.（Network-Centric Computing） | 未指定（倾向 	cc.） |
-| 前缀含义 | 专利保护 + NCC架构定位 | TCC范式定位 |
+| 前缀含义 | 专利保护 + TCC架构定位 | TCC范式定位 |
 | 分组逻辑 | 4R+4T+1S+1C+1⏱ = 11 | 6R+6T = 12（对称分组） |
 
 ### 2.2 数量差异
@@ -133,7 +133,7 @@ cc.MOVE 的 Scatter 模式（已有基础，命名即可）
 ┌─────────────────────────────────────────────┐
 │          TCC 原语体系统一架构                  │
 ├─────────────────────────────────────────────┤
-│  内部规范（工程实现）：TCC-11 v1.0 (ncc.*)     │
+│  内部规范（工程实现）：TCC-11 v1.0 (tcc.*)     │
 │  ┌─────────┬─────────┬──────┬──────┬──────┐ │
 │  │ 4 Route │4 Transf │ 1 S  │ 1 C  │ 1 ⏱ │ │
 │  │ FUSE    │ GEMM    │ MOVE │ LINK │ TICK │ │
@@ -195,13 +195,13 @@ cc.
 | 命名空间 | 使用场景 | 理由 |
 |----------|---------|------|
 | **
-cc.*** | **工程实现、RTL、SDK、专利** | 专利已用此命名，有法律保护；NCC=Network-Centric Computing 比 TCC=Topology-Centric Computing 更具体地表达了"网络中心计算" |
+cc.*** | **工程实现、RTL、SDK、专利** | 专利已用此命名，有法律保护；TCC=Network-Centric Computing 比 TCC=Topology-Centric Computing 更具体地表达了"网络中心计算" |
 | 	cc.* | 对外学术交流、论文 | TCC 是范式名称，保持概念一致性 |
 | 等价映射 | 
 cc.FUSE ≡ 	cc.FUSE（语义相同） | 编译器/文档自动转换 |
 
 > **建议**：项目代码和SDK中统一使用 
-cc.*，但在论文和白皮书中可以使用 	cc.* 或直接使用全称 	cc.ncc.FUSE 以同时满足"范式TCC"和"架构NCC"的双重需求。
+cc.*，但在论文和白皮书中可以使用 	cc.* 或直接使用全称 	cc.tcc.FUSE 以同时满足"范式TCC"和"架构TCC"的双重需求。
 
 ---
 
@@ -232,14 +232,14 @@ cc. 而非 	cc.？
 cc. | 	cc. |
 |--------|--------|
 | 专利已用——有法律优先权 | 范式层面命名 |
-| NCC = Network-Centric Computing，"网络中心"更具体 | TCC = Topology-Centric Computing，"拓扑中心"更抽象 |
+| TCC = Network-Centric Computing，"网络中心"更具体 | TCC = Topology-Centric Computing，"拓扑中心"更抽象 |
 | 代码中 
 cc.FUSE 更简洁 | 	cc.FUSE 也可接受 |
 | 与 MLIR dialect 
 cc.* 一致（专利实施例五） | |
 
 > **折中方案**：MLIR方言使用 
-cc.，C++ SDK使用 	cc::ncc::FUSE 命名空间嵌套。
+cc.，C++ SDK使用 	cc::tcc::FUSE 命名空间嵌套。
 
 ---
 
@@ -250,14 +250,14 @@ cc.，C++ SDK使用 	cc::ncc::FUSE 命名空间嵌套。
 在项目申报书"6R+6T 原语规范"部分，建议加入以下对齐说明：
 
 `
-TCC 原语体系基于已获专利保护的 NCC-11 原语规范（发明专利：
+TCC 原语体系基于已获专利保护的 TCC-11 原语规范（发明专利：
 "一种基于正交原语集与拓扑融合变换的网络复杂度计算方法及系统"），
 采用 6R+6T 框架表述：
 
 6 Route 原语：FUSE/PULL/CAST/SWAP/SCATTER/SHIFT
 6 Transform 原语：GEMM/FOLD/MAPS/SCAN/FFT/PERMUTE
 
-其中 R1-R4 和 T1-T4 对应 NCC-11 规范的 8 个核心原语；
+其中 R1-R4 和 T1-T4 对应 TCC-11 规范的 8 个核心原语；
 R5(SCATTER)和 R6(SHIFT)是 MOVE 和 FUSE 的命名扩展；
 T5(FFT)和 T6(PERMUTE)是 GEMM 和 SWAP 的频域/置换模式。
 全部12个命名原语映射到11个硬件IP核，无新增硬件开销。
@@ -269,7 +269,7 @@ T5(FFT)和 T6(PERMUTE)是 GEMM 和 SWAP 的频域/置换模式。
 |--------|------|------|
 | TCC-11 v2.0 原语规范.md | 11硬件IP核 + 12命名原语的完整语义定义 | 内部规范文档 |
 | 6R+6T 原语手册.md | 面向产业/课题合作方的对外版本，6R+6T表达 | 外部白皮书 |
-| NCC MLIR Dialect定义.td | 11个 MLIR Operation 的 TableGen 定义 | 代码 |
+| TCC MLIR Dialect定义.td | 11个 MLIR Operation 的 TableGen 定义 | 代码 |
 
 ---
 

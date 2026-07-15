@@ -387,17 +387,17 @@ CST公式不变：CST = (Sc·Tc)·exp(α·Γst_directed)
 
 ```python
 # Step 1：基线收集
-ncc.TICK()
-baseline = ncc.SCAN(op=collect, window=100ms)
+tcc.TICK()
+baseline = tcc.SCAN(op=collect, window=100ms)
 
 # Step 2：对每个节点i做虚拟扰动（在孪生网络中）
 for i in range(N_nodes):
     response_j = twin_network.perturb_and_run(node=i, delta=+1sigma)
-    delta_j    = ncc.FOLD(op=diff, a=response_j, b=baseline)
-    TC_matrix[i] = ncc.MAPS(func=normalize, x=delta_j)
+    delta_j    = tcc.FOLD(op=diff, a=response_j, b=baseline)
+    TC_matrix[i] = tcc.MAPS(func=normalize, x=delta_j)
 
 # Step 3：SWAP获得双向矩阵，计算有向Γst
-TC_matrix_T         = ncc.SWAP(TC_matrix)
+TC_matrix_T         = tcc.SWAP(TC_matrix)
 Gamma_st_directed   = directed_coupling(TC_matrix, TC_matrix_T)
 ```
 
@@ -472,13 +472,13 @@ iNEST初期SDI配置序列必然稀少，因此：
 
 ---
 
-## 第九部分：NCC工艺节点战略（2026-04-30新增）
+## 第九部分：TCC工艺节点战略（2026-04-30新增）
 
 ### 9.1 核心结论：7nm覆盖L1-L3，规避3nm/5nm依赖
 
-NCC液态拓扑通过三项机制放松工艺需求：
+TCC液态拓扑通过三项机制放松工艺需求：
 
-| 放松项目 | GPU方案 | NCC方案 | 工艺节省 |
+| 放松项目 | GPU方案 | TCC方案 | 工艺节省 |
 |---------|---------|---------|---------|
 | 内存带宽 | HBM3（需先进工艺3D堆叠） | 节点本地SRAM，无需HBM | 工艺需求降一代 |
 | 计算密度 | 超大芯片内堆积算力 | N节点×单节点算力 | 用数量换密度 |

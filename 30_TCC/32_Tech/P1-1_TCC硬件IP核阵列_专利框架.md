@@ -1,17 +1,17 @@
 ---
 direction: TCC
-title: "P2 NCC硬件IP核阵列专利 框架"
-created: 2026-07-14
-modified: 2026-07-14
+title: "P1-1 TCC硬件IP核阵列 专利框架"
+created: 2026-07-07
+modified: 2026-07-07
 ---
-# 专利 P2：面向NCC的可重构原语硬件IP核阵列
-# Patent P2: Reconfigurable Primitive IP Core Array for NCC
+# 专利 P2：面向TCC的可重构原语硬件IP核阵列
+# Patent P2: Reconfigurable Primitive IP Core Array for TCC
 # 状态：📋 框架完成 | 目标提交：2026年7月（CNIPA）
 ---
 
 ## 核心创新点
 
-单一计算节点集成4个可独立工作的计算引擎（GEMM脉动阵列 + FOLD归约树 + MAPS逐元素+LUT + SCAN前缀树），通过统一互连端口接入SDI可编程网络，构成NCC-11硬件基础单元。
+单一计算节点集成4个可独立工作的计算引擎（GEMM脉动阵列 + FOLD归约树 + MAPS逐元素+LUT + SCAN前缀树），通过统一互连端口接入SDI可编程网络，构成TCC-11硬件基础单元。
 
 ---
 
@@ -34,7 +34,7 @@ M×K阵列中M≥8、K≥8；INT4模式下每周期2次乘加；累加器位宽�
 
 ### 权利要求 3（LUT动态重加载）
 
-可编程LUT可在运行时通过ncc.LINK控制原语重新加载内容，加载延迟≤100个时钟周期，支持ReLU/GELU/SiLU/Sigmoid/exp/复数旋转因子动态切换。
+可编程LUT可在运行时通过tcc.LINK控制原语重新加载内容，加载延迟≤100个时钟周期，支持ReLU/GELU/SiLU/Sigmoid/exp/复数旋转因子动态切换。
 
 ### 权利要求 4（独立——阵列级）
 

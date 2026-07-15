@@ -1,5 +1,5 @@
 ---
-title: "【iNEST知识库】NCC_Core_Concepts"
+title: "【iNEST知识库】TCC_Core_Concepts"
 date: 2026-04-29 03:08:25
 source: "????"
 note_id: 1908472266694640864
@@ -7,13 +7,13 @@ note_type: plain_text
 tags: []
 ---
 
-# 【iNEST知识库】NCC_Core_Concepts
+# 【iNEST知识库】TCC_Core_Concepts
 
-# NCC核心概念与基线理论集 (NCC Core Concepts)
+# TCC核心概念与基线理论集 (TCC Core Concepts)
 
-> **知识库说明**：本文档为iNEST课题组“网络中心计算（NCC）”范式的纯文本高密度知识提取。作为大模型与研究人员共同使用的**系统提示词与概念基线**。所有后续的项目申报、论文写作、代码生成，均需以此文档中的数学定义和学术表述为锚点。
+> **知识库说明**：本文档为iNEST课题组“网络中心计算（TCC）”范式的纯文本高密度知识提取。作为大模型与研究人员共同使用的**系统提示词与概念基线**。所有后续的项目申报、论文写作、代码生成，均需以此文档中的数学定义和学术表述为锚点。
 
-## 一、 第一性原理：网络中心计算 (Network-Centric Computing, NCC)
+## 一、 第一性原理：网络中心计算 (Network-Centric Computing, TCC)
 - **核心命题**：物理拓扑即计算。计算的重心从冯·诺依曼架构的“节点”迁移到“网络”。
 - **路由-变换分解定理**：任意分布式张量计算 $\mathcal{D}$ 均可唯一分解为“路由算子（Route, $\mathcal{R}$）”与“变换算子（Transform, $\mathcal{T}$）”的交替复合序列：$\mathcal{D} = \mathcal{T}_k \circ \mathcal{R}_k \circ \cdots \circ \mathcal{T}_1 \circ \mathcal{R}_1$。
 - **液态硬件 (Liquid Hardware)**：通过引入软件定义互连（SDI）作为柔性韧带，将原本固化的硅片转化为可随算法负载（AI/信号处理）在微秒级瞬间重构拓扑形态的新型物理底座。
@@ -21,18 +21,18 @@ tags: []
 ## 二、 5+4 完备原语体系
 ### 2.1 路由算子完备基（5类通信原语 NPC）
 构成分布式数据流动的所有可能状态：
-1. **AllReduce (ncc.FUSE)**：多节点结果汇聚与加和广播。最优拓扑：蝴蝶网络（Butterfly）。
-2. **AlltoAll (ncc.SWAP)**：全局矩阵转置/专家路由。最优拓扑：全连通/交叉开关。
-3. **ReduceScatter (ncc.FUSE)**：流水线分段归约。最优拓扑：环形（Ring）。
-4. **AllGather (ncc.PULL)**：数据参数全广播。最优拓扑：径向多播树。
-5. **Broadcast (ncc.CAST)**：单点对多点复制。最优拓扑：有向广播树。
+1. **AllReduce (tcc.FUSE)**：多节点结果汇聚与加和广播。最优拓扑：蝴蝶网络（Butterfly）。
+2. **AlltoAll (tcc.SWAP)**：全局矩阵转置/专家路由。最优拓扑：全连通/交叉开关。
+3. **ReduceScatter (tcc.FUSE)**：流水线分段归约。最优拓扑：环形（Ring）。
+4. **AllGather (tcc.PULL)**：数据参数全广播。最优拓扑：径向多播树。
+5. **Broadcast (tcc.CAST)**：单点对多点复制。最优拓扑：有向广播树。
 
 ### 2.2 变换算子完备基（4类算子原语 CPC）
 基于函数式编程与图灵完备映射的极简节点计算：
-1. **Map (ncc.GEMM)**：逐元素独立变换与高并发矩阵乘（GEMM）。物理实现：脉动阵列。
-2. **Reduce (ncc.FOLD)**：局部标量归约聚合（如求和、求最大值）。物理实现：加法树。
-3. **Scan (ncc.SCAN)**：前缀累积序列与频域复数乘加（FFT）。物理实现：并行前缀网。
-4. **Transform (ncc.MAPS)**：内存重排与非线性查表近似（Softmax, GELU）。
+1. **Map (tcc.GEMM)**：逐元素独立变换与高并发矩阵乘（GEMM）。物理实现：脉动阵列。
+2. **Reduce (tcc.FOLD)**：局部标量归约聚合（如求和、求最大值）。物理实现：加法树。
+3. **Scan (tcc.SCAN)**：前缀累积序列与频域复数乘加（FFT）。物理实现：并行前缀网。
+4. **Transform (tcc.MAPS)**：内存重排与非线性查表近似（Softmax, GELU）。
 
 ### 2.3 核心同构：FFT-AllReduce 映射定理
 - 证明了信号处理领域的 **FFT蝴蝶计算流图** 与AI集群通信的 **AllReduce互连拓扑图** 在图论上严格同构。
@@ -61,7 +61,7 @@ tags: []
 - [2026-04-29] [[【待办】算力网络项目指南建议]] → `00_KnowledgeBase_知识库/03_Inbox_文献与碎片/Get笔记同步/2026-04/2026-04-29_待办_【待办】算力网络项目指南建议.md`
 - [2026-04-29] [[【待办】军科委会见材料（PPT+Word）]] → `00_KnowledgeBase_知识库/03_Inbox_文献与碎片/Get笔记同步/2026-04/2026-04-29_待办_【待办】军科委会见材料（PPT+Word）.md`
 - [2026-04-27] [[2026年4月26号 日记]] → `00_KnowledgeBase_知识库/03_Inbox_文献与碎片/Get笔记同步/2026-04/2026-04-27_日记_2026年4月26号 日记.md`
-- [2026-04-27] [[NCC-LTC 深度研究报告]] → `00_KnowledgeBase_知识库/03_Inbox_文献与碎片/Get笔记同步/2026-04/2026-04-27_待办_NCC-LTC 深度研究报告.md`
+- [2026-04-27] [[TCC-LTC 深度研究报告]] → `00_KnowledgeBase_知识库/03_Inbox_文献与碎片/Get笔记同步/2026-04/2026-04-27_待办_TCC-LTC 深度研究报告.md`
 - [2026-04-25] [[AI时代复杂系统科学的机遇与挑战探讨]] → `00_KnowledgeBase_知识库/03_Inbox_文献与碎片/Get笔记同步/2026-04/2026-04-25_日记_AI时代复杂系统科学的机遇与挑战探讨.md`
 - [2026-04-25] [[集智科学节海报内容汇总]] → `00_KnowledgeBase_知识库/03_Inbox_文献与碎片/Get笔记同步/2026-04/2026-04-25_待办_集智科学节海报内容汇总.md`
 - [2026] [[晶上智能网络基础研究与关键技术项目布局]] `00_KnowledgeBase_知识库/03_Inbox_文献与碎片/晶上智能网络基础研究与关键技术项目布局.md` score=56

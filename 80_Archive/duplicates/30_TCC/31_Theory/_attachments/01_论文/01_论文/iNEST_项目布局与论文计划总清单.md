@@ -197,7 +197,7 @@
 
 ## H. SDI-CC 论文体系（2026-03-27 新建，6篇）
 
-> **核心范式**：物理拓扑即计算——第三计算范式（NCC，Topology-Centric Computing）  
+> **核心范式**：物理拓扑即计算——第三计算范式（TCC，Topology-Centric Computing）  
 > **双步战略**：第一步 1+1>2（SDI-CC 重构计算，数智产业升级）→ 第二步 1+1>N（FEP+化合键演化，智能涌现）  
 > **完整框架文件**：`SDI-CC论文框架_拓扑即计算新范式.md` / `论文框架_P-Mapping_六原语物理拓扑映射.md`
 
@@ -211,10 +211,10 @@
 | 51 | **P-App** | Beyond AI Training: SDI-CC Unified Framework for HPC and Signal Processing | 应用扩展 | SC'28 / ICS'28 | 2028 Q4 | Year3 64节点 | ⬜ 待启动 |
 
 ### H组核心独创性（5条）
-1. 首次提出 NCC（拓扑中心计算）第三范式，严格代数定义
+1. 首次提出 TCC（拓扑中心计算）第三范式，严格代数定义
 2. 首次证明六类集合通信原语的**完备性**（构成分布式路由完备基）
 3. **首次发现并证明 FFT-AllReduce 图同构定理** ★（AllReduce = 旋转因子为1的退化FFT）
-4. 首次基于CST理论证明 NCC 的 RI 上界优越性（高Sc网络×简单节点 > 低Sc×复杂节点）
+4. 首次基于CST理论证明 TCC 的 RI 上界优越性（高Sc网络×简单节点 > 低Sc×复杂节点）
 5. 首次实现基于忆阻器化合键的物理拓扑可重构集合通信芯片（BCU）
 
 ### H组论文关联结构
