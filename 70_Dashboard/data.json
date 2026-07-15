@@ -18,11 +18,13 @@
     "processing": 0
   },
   "output": {
-    "papers": 159,
+    "papers": 2,
     "patents": 37,
     "monographs": 8,
     "code": 114,
-    "guides": 6
+    "guides": 6,
+    "reference_papers": 11,
+    "paper_versions": 19
   },
   "recent_changes": [
     {
