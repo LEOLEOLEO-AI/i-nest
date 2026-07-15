@@ -1,4 +1,4 @@
-﻿# TCC 基线 v2.0 后续工作任务列表与计划
+# TCC 基线 v2.0 后续工作任务列表与计划
 
 > 来源: [[TCC_Knowledge_Base_Baseline_v2.0]] | 生成: 2026-07-15
 
@@ -99,9 +99,9 @@
 
 | 编号 | 论文 | 目标 | 时间 | 依赖 | 状态 |
 |:---:|------|------|------|------|:--:|
-| **P1** | 超非线性增益定理 | Nat.Comp.Sci / PRX | 2027 Q1 | T1.1 | ⏳ |
-| **P2** | 原语体系完备性 + Route≡Transform | IEEE TIT / TPDS | 2027 Q1 | T1.2 | ⏳ |
-| **P3** | B7: OneFabric-Memory | ASPLOS/ISCA 2028 | 2027 Q4 | E3 | ⏳ |
+| **P1** | TCC 超线性标度律：Route≡Transform→物理液态计算增益下界 | Nat.Comp.Sci / PRX | 2027 Q1 | T1.1 | ⏳ |
+| **P2** | TCC-16 原语完备性与 Route≡Transform 分解定理的正交性证明 | IEEE TIT / TPDS | 2027 Q1 | T1.2 | ⏳ |
+| **P3** | OneFabric-Memory: Unified Memory-Network Semantics for Topology-Centric Computing | ASPLOS / ISCA 2028 | 2027 Q4 | E3 | ⏳ |
 
 ---
 
