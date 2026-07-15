@@ -1,4 +1,4 @@
-﻿# TCC OneFabric × TCC-16 深度融合工程落地方案 v1.0
+# TCC OneFabric × TCC-16 深度融合工程落地方案 v1.0
 
 ---
 
