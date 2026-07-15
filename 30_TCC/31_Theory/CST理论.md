@@ -22,3 +22,11 @@ CST = (Sc * Tc) * exp(alpha * Gamma_st)
 ## 相关
 - [[iNEST_Academic_Belief_Core|学术信仰]]
 - [[自组织临界态SOC]]
+
+---
+## 相关链接
+- [[STDP-FEP梯度下降统一映射]]
+- [[变分自由能F]]
+- [[Less_is_more_大脑模块化]]
+- [[v28多尺度仿真结果]]
+- [[From Compute to Complexity- A Physical Theory of Intelligence Emergence]]

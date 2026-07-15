@@ -210,3 +210,10 @@ Renormalization，https://www.nature.com/articles/s42254-025-00817-5，https://a
 
 ---
 **Tags:** #CST #Chiplet
+
+---
+## 相关链接
+- [[复杂网络中的重整化群（RG）方法综述与应用]]
+- [[Nature物理评论：复杂网络重整化综述]]
+- [[getnote_2026-06-21_iNEST三元映射框架]]
+- [[getnote_2026-06-27_getnote_2026-06-21_iNEST三元映射框架]]

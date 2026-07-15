@@ -29,3 +29,11 @@ source: "iNEST_2_论文撰写/P-Theory_v3_Revised.md"
 
 > 由研发看板自动索引，遵循 Obsidian Wiki/LLM 知识管理规则。
 > 原始内容请查看源文件。
+
+---
+## 相关链接
+- [[SDI化合物键四型架构：通信原语生成与分形网络演化的变分框架]]
+- [[5类通信-4类计算拓扑完备映射与PTM算法]]
+- [[From Compute to Complexity- A Physical Theory of Intelligence Emergence and Its Implicatio]]
+- [[Liquid Computing Chemistry- FEP-driven Self-organization in Artificial Neural Substrates]]
+- [[STDP-FEP梯度下降统一映射：脉冲时间依赖可塑性与自由能原理的数学桥接]]

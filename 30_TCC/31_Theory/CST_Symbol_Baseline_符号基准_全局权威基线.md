@@ -106,3 +106,11 @@ $$\alpha = \ln(M_{eff})$$
 - [[CST_RG第一性原理推导协议]] — α的RG推导路径
 - [[CST_Intelligence_Emergence_Paper_V25_FINAL]] — 当前权威论文
 - [[40_iNEST/44_Projects/海河实验室重大专项/[V9_Final] 海河实验室_正式项目申报书_TCC战略版]] — 术语替换对照表
+
+---
+## 相关链接
+- [[CST_Symbol_Baseline_符号基准]]
+- [[CST_Experiment_Alignment_Diagnosis]]
+- [[CST理论]]
+- [[CST_Theory_Framework_统一表述]]
+- [[CST理论v25_完整知识体系]]

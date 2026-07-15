@@ -41,3 +41,11 @@ LLM reasoning transparency is a critical affordance for understanding model deci
 
 ---
 *自动抓取于 2026-06-23 08:00 | 待分类处理*
+
+---
+## 相关链接
+- [[2026-06-22_TCC_arXiv_How Transparent is DiffusionGemma]]
+- [[2026-06-22_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction]]
+- [[2026-06-23_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction]]
+- [[2026-06-20_TCC_arXiv_Incorporating physical source parameters into microlensing m]]
+- [[2026-06-20_iNEST_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me]]

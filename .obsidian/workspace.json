@@ -10,6 +10,27 @@
           {
             "id": "39c3a39345de06cb",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":49.62890625}"
+                },
+                {
+                  "title": "LINKAGE_GUIDE",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"90_System/LINKAGE_GUIDE.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"LINKAGE_GUIDE\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":57.86346726190476}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -34,6 +55,21 @@
           {
             "id": "e178233722fe2fcc",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "TCC × iNEST 研发全景看板",
+                  "icon": "globe-2",
+                  "state": "{\"type\":\"webviewer\",\"state\":{\"url\":\"http://127.0.0.1:8899/home/work/.openclaw/workspace/70_Dashboard/index.html\",\"title\":\"TCC × iNEST 研发全景看板\",\"mode\":\"webview\"},\"icon\":\"globe-2\",\"title\":\"TCC × iNEST 研发全景看板\"}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "webviewer",
               "state": {
@@ -61,6 +97,15 @@
           {
             "id": "23436690568efc2a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -74,6 +119,15 @@
           {
             "id": "a886d14b16ce4383",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -91,14 +145,43 @@
           {
             "id": "f18428db94e58f6b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "a809b3f6acea7df0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -115,6 +198,15 @@
           {
             "id": "522b019866f7372c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
@@ -134,6 +226,15 @@
           {
             "id": "92b6baa0fc41efdc",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
@@ -148,6 +249,15 @@
           {
             "id": "051dfdec4cf3818f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -163,6 +273,15 @@
           {
             "id": "1e8abe7154b7ddbb",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -177,6 +296,15 @@
           {
             "id": "4bed42dc523ae559",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
@@ -192,6 +320,15 @@
           {
             "id": "6787a70ce9c7fac0",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "claudian-view",
               "state": {},
@@ -202,6 +339,15 @@
           {
             "id": "2071ee320dad11f3",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "calendar",
               "state": {},
@@ -237,47 +383,48 @@
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "unofficial-fabric-integration:Fabric": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "39c3a39345de06cb",
+  "active": "a809b3f6acea7df0",
   "lastOpenFiles": [
+    "60_MOC/03_Daily_Action.md",
+    "60_MOC/03_Daily_Action_2026-07-15.md",
+    "60_MOC/04_Daily_Focus.md",
+    "70_Dashboard/task_board.json",
+    "40_iNEST/42_Tech/新品定义提示词.md",
+    "40_iNEST/42_Tech/大白话大模型Transformer架构_-_基于自注意力机制的神经网络结构.md",
+    "40_iNEST/42_Tech/国内首个类脑计算芯片标准正式发布！.md",
+    "40_iNEST/42_Tech/全球首款_类脑智算体“智者一号”发布.md",
+    "40_iNEST/42_Tech/全球集成传感技术在军事领域的发展现状与趋势研究报告.md",
+    "40_iNEST/42_Tech/Post-Transformer技术路径与发展趋势全解析 📊.md",
+    "40_iNEST/41_Theory/非线性动力学：超越线性思维的科学革命与前沿应用_1.md",
+    "40_iNEST/41_Theory/非线性动力学：超越线性思维的科学革命与前沿应用.md",
+    "40_iNEST/41_Theory/郑南宁院士：人工智能进化到AGI，最大的障碍是无法感知世界、缺少常识.md",
+    "40_iNEST/41_Theory/通过复杂网络连接计算、存储等资源，在系统层面追求1+1＞2的系统最优，如何设计这个复杂网络及评价指标？.md",
+    "40_iNEST/41_Theory/通过复杂网络连接计算_存储等资源_在系统层面追求1_1_2的系统最优_如何设计这个复杂网络及评价指标_.md",
+    "40_iNEST/41_Theory/超越π0.5，复旦团队首创「世界模型+具身训练+强化学习」闭环框架.md",
+    "40_iNEST/41_Theory/超自适应神经形态视觉器件的高阶动力学研究.md",
+    "40_iNEST/41_Theory/超线性核心观点.md",
+    "40_iNEST/41_Theory/超级战争：人工智能正在塑造战争的未来！.md",
+    "40_iNEST/41_Theory/访谈：从科学视角，如何理解和研究涌现？.md",
+    "40_iNEST/41_Theory/论文速读：液态神经网络在Loihi-2上的应用研究.md",
+    "40_iNEST/41_Theory/荷兰科学家长文综述_MM丨脉冲神经形态计算_从生物启发到硬件架构与学习机制的全面综述.md",
+    "40_iNEST/41_Theory/自动微分•自组织生长__打造新一代的自组织生长模型.md",
+    "40_iNEST/41_Theory/腾讯首席科学家张正友中国具身智能大会演讲：层次化的智能机器人控制架构SLAP.md",
+    "40_iNEST/41_Theory/脑洞大开！科学家Nature发文：人工智能之后，“智能物质”计算崛起？.md",
+    "40_iNEST/41_Theory/脑同构晶上复杂网络涌现智能_重大项目建议.md",
+    "40_iNEST/41_Theory/胡延平___超级智能的9个奥本海默时刻.md",
+    "99_Meta/research_logs",
     "90_System/scripts/evolution_engine.py",
     "90_System/scripts/task_board.py",
     "90_System/scripts/link_engine.py",
     "90_System/scripts/processing_workflow.py",
-    "Home.md",
-    "80_Archive/duplicates/30_TCC/31_Theory/SDSoW_Hardware_Mapping.md",
-    "80_Archive/duplicates/30_TCC/31_Theory/SDI_Rules_Bio_Evidence_v1.md",
-    "80_Archive/duplicates/30_TCC/31_Theory/SDI_Research_Report.md",
-    "80_Archive/duplicates/30_TCC/31_Theory/SDI_Paper_Draft.md",
-    "80_Archive/duplicates/30_TCC/31_Theory/SDI_Four_Rules_v5_FINAL.md",
-    "80_Archive/duplicates/30_TCC/31_Theory/SDI_Four_Rules_References_FINAL.md",
-    "80_Archive/duplicates/30_TCC/31_Theory/CST_Parameter_Review_v2.md",
-    "80_Archive/duplicates/30_TCC/32_Tech/Push-Confirmation-Protocol-v2.0.md",
-    "80_Archive/duplicates/30_TCC/32_Tech/2026-06-23-sync-operation.md",
-    "80_Archive/duplicates/README.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/资源.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/脑网络动态结构-功能耦合的区域特异性研究.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/脑同构晶上复杂网络涌现智能重大项目建议.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/美国DARPA电子复兴计划2.0(ERI 2.0)深度解析：重塑微电子技术的国家战略.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/发改委_人工智能_物理涌现折子.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/专项时间点.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/[V2] iNEST_项目指南与论文规划.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/[V1] iNEST_项目指南与论文规划.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/TRAE编程.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/GitHub热门项目banana-slides深度解析：Vibe PPT生成工具的革新与实践.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/DARPA网络、信息战与通信领域项目深度分析报告（下册）：以体系化创新锻造未来信息战优势_18961842.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/DARPA空天、太空与高超音速领域项目深度分析报告.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/DARPA传感器、电子战与通信领域深度研究报告（下册）：能力与技术预测（2025-2035）.md",
-    "80_Archive/duplicates/30_TCC/34_Projects/2026年4月28号 井芯销售升级专项.md",
     "80_Archive/duplicates/80_Archive/Journal/每日总结",
     "80_Archive/duplicates/80_Archive/readme_fragments",
     "80_Archive/duplicates/80_Archive/MEMORY",
     "80_Archive/duplicates/80_Archive/skills",
-    "80_Archive/duplicates/80_Archive/Journal",
-    "80_Archive/duplicates/80_Archive/copilot",
-    "80_Archive/duplicates/80_Archive",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/font_atlas.png",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/blue_noise_med.png",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/ui-icons/sidebar.svg",

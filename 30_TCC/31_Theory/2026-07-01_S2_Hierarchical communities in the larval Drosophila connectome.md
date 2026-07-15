@@ -42,3 +42,11 @@ One of the longstanding aims of network neuroscience is to link a connectome’s
 
 ---
 *2026-07-01 科研管线v3.1自动提炼 | 相关度: 2/3*
+
+---
+## 相关链接
+- [[2026-06-25_S2_Synthesizing A Generalized Brain-inspired Interconnection Ne]]
+- [[2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly ]]
+- [[2026-06-25_S2_Cooperation-induced Criticality in Neural Networks]]
+- [[2026-07-01_S2_Synergy and Emergence as Methodological Bases for Library Sc]]
+- [[2026-07-01_S2_Causal Emergence of Consciousness through Learned Multiscale]]

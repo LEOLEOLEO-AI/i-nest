@@ -57,3 +57,8 @@ tags:
 - [[notebooklm ppt提示词]]
 - [[个人智能体搭建]]
 - [[在网计算（In-Network Computing）]]
+- [[关于学术品牌LOOM (1)]]
+- [[科研与学术品牌_CREST_____iNEST_]]
+- [[ResNEST论文修订]]
+- [[GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订]]
+- [[synNEST]]

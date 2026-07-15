@@ -206,3 +206,6 @@ Theorem 1 (拓扑容量)           Theorem 2 (临界能效)           Theorem 3 
 - [[SDI化合物键四型架构：通信原语生成与分形网络演化的变分框架]] — SDI 化合键
 - [[iNEST_Academic_Belief_Core]] — 学术信仰：大道至简
 - [[iNEST_Roadmap_v2.0_权威路线图]] — iNEST 权威路线图
+- [[1+1大于2证明体系_Genspark新稿分析与诊断_v1.0]]
+- [[SOC-自组织临界]]
+- [[getnote_2026-06-05_NEST 智能涌现研究进展与工程落地全景]]

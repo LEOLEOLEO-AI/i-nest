@@ -36,3 +36,11 @@ Lateral predictive coding is a recurrent neural network that creates energy-effi
 
 ---
 *2026-06-25 科研管线v3.1自动提炼 | 相关度: 3/3*
+
+---
+## 相关链接
+- [[2026-06-25_S2_Representational drift under spontaneous activity -- self-or]]
+- [[2026-07-01_S2_Understanding percolation phase transition behaviors in comp]]
+- [[2026-06-25_S2_Cooperation-induced Criticality in Neural Networks]]
+- [[2026-06-25_S2_Self-orthogonalizing attractor neural networks emerging from]]
+- [[2026-06-25_S2_Noise and spike-time-dependent plasticity drive self-organiz]]

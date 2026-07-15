@@ -31,3 +31,11 @@ Recent edge computing is progressively requiring memories that provide rapid acc
 ## AI 摘要
 
 基于AI的无铅卤化物钙钛矿忆阻器交叉阵列实现高效能存内计算。
+
+---
+## 相关链接
+- [[2026-06-23_S2_AI Enabled Lead-free Halide Perovskite Memristor Crossbars A]]
+- [[2026-06-23_S2_Lead-Free Cs3Bi2I9 Perovskite Memristors for Energy-Efficien]]
+- [[2026-06-24_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with ]]
+- [[2026-06-23_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]
+- [[2026-06-24_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]

@@ -111,7 +111,7 @@ def extract_tasks_from_insights(insight_text):
         elif "仿真" in line:
             current_section = "simulation"
         
-        if current_section and (line.startswith("- ") or line.startswith("**") or line[0].isdigit()):
+        if current_section and (line.startswith("- ") or line.startswith("**") or line and line[0].isdigit()):
             tasks[current_section].append(line.strip("- *").strip())
     
     return tasks

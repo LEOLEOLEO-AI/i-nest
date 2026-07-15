@@ -31,3 +31,11 @@ This article addresses the critical challenges of chiplet placement and routing 
 ## AI 摘要
 
 提出了一种基于信号完整性感知的分层马尔可夫决策过程的芯粒布局与布线优化方法。
+
+---
+## 相关链接
+- [[2026-06-23_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider]]
+- [[2026-06-22_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider]]
+- [[2026-06-23_S2_Advanced Chiplet Placement and Routing Optimization Consider]]
+- [[2026-06-23_S2_A Deep Reinforcement Learning Approach for Network-on-Chip L]]
+- [[2026-06-24_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La]]

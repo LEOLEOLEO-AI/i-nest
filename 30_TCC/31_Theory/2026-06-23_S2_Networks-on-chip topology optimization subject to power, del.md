@@ -46,3 +46,11 @@ year: 2010
 
 ---
 *Auto-crawled 2026-06-23 by Research Pipeline v3.0 | Inbox — needs classification*
+
+---
+## 相关链接
+- [[2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore _1]]
+- [[2026-06-23_S2_HiMap A hierarchical mapping approach for enhancing lifetime]]
+- [[2026-06-23_S2_An Optimization Algorithm to Build Low Congestion Multi-Ring]]
+- [[2026-06-23_S2_Defect detection on semiconductor wafer surfaces]]
+- [[2026-06-23_S2_Advanced Chiplet Placement and Routing Optimization Consider]]

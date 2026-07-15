@@ -37,3 +37,11 @@ Self-organized criticality (SOC), a dynamical regime associated with maximal inf
 
 ---
 *2026-07-01 科研管线v3.1自动提炼 | 相关度: 3/3*
+
+---
+## 相关链接
+- [[2026-06-25_S2_Noise and spike-time-dependent plasticity drive self-organiz]]
+- [[2026-06-25_S2_Neural Information Squeezer for Causal Emergence]]
+- [[2026-07-01_S2_Hierarchical communities in the larval Drosophila connectome]]
+- [[2026-06-25_S2_Representational drift under spontaneous activity -- self-or]]
+- [[2026-06-25_S2_Cooperation-induced Criticality in Neural Networks]]

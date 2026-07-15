@@ -164,3 +164,8 @@ AI网络的本质是**协调所有GPU同步推进**的协同系统，而非简�
 [[iNEST-MOC]]
 [[paper2_liquid_computing_chemistry]]
 [[paper1_iNEST_core_architecture]]
+- [[GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
+- [[GetNote_20260606_100554_kb_paper-ideas_getnote_1904173278235913296_晶圆级SDI互联架构与最优扇出高维拓扑_面向大模型的网内计算设计]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1906074590464742600_海河实验室]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1902185808962683840_神经突触和神经元二合一物理神经网络构建]]

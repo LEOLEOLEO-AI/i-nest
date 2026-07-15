@@ -23,3 +23,11 @@ We investigate the quantum thermal conductivity (TC) of two-dimensional monolaye
 ## Reference
 
 [http://arxiv.org/abs/2606.01408v1](http://arxiv.org/abs/2606.01408v1)
+
+---
+## 相关链接
+- [[Second-Order Synaptic Memory using Inherent Plasticity of Moiré Superlattices]]
+- [[Morphogenesis driven by nematic defects in active biological networks]]
+- [[ITP-STDP- An Intrinsic-Timing Power-of-Two Learning Engine for On-Chip SNN Train]]
+- [[Synchronization of topological signals in higher-order adaptive multilayer netwo]]
+- [[Feature leakage and the identifiability of direct-dependency entropy models of n]]

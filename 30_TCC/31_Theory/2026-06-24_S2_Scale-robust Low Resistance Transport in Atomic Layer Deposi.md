@@ -31,3 +31,11 @@ As data-centric computing advances, energy-efficient interconnects are increasin
 ## AI 摘要
 
 在非晶基底上通过低温原子层沉积实现了首个晶圆级非晶拓扑半金属钽磷化物，展示了具有非传统电阻率缩放特性的薄膜。
+
+---
+## 相关链接
+- [[2026-06-23_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]
+- [[2026-06-21_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]
+- [[2026-06-23_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]
+- [[2026-06-22_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]
+- [[2026-06-24_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with ]]

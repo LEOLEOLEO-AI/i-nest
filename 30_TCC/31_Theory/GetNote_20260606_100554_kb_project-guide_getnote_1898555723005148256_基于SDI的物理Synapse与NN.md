@@ -80,3 +80,8 @@ kb: project-guide
 [[Papers-MOC]]
 [[SDI化合物键_四型架构]]
 [[自组织临界态SOC]]
+- [[getnote_2026-01-12_基于SDI的物理Synapse与NN]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1902185808962683840_神经突触和神经元二合一物理神经网络构建]]
+- [[GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破]]
+- [[GetNote_20260606_100554_kb_iNEST_getnote_1898555559796441760_数字孪生大脑工程化路径]]

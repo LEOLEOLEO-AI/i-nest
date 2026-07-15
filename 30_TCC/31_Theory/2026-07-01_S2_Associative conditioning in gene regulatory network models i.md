@@ -34,3 +34,11 @@ How does learning affect the integration of an agent’s internal components int
 
 ---
 *2026-07-01 科研管线v3.1自动提炼 | 相关度: 2/3*
+
+---
+## 相关链接
+- [[2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly ]]
+- [[2026-06-25_S2_Neural Information Squeezer for Causal Emergence]]
+- [[2026-06-25_S2_Synthesizing A Generalized Brain-inspired Interconnection Ne]]
+- [[2026-06-25_S2_Energy-information trade-off induces continuous and disconti]]
+- [[2026-07-01_S2_A percolation phase transition controls complement protein c]]

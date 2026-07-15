@@ -31,3 +31,11 @@ Interposer-based packaging has gained tremendous popularity in integrating advan
 ## AI 摘要
 
 关于超大规模晶圆级集成中掩模拼接区域快速路由算法的研究。
+
+---
+## 相关链接
+- [[2026-06-24_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La]]
+- [[2026-06-21_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La]]
+- [[2026-06-22_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La]]
+- [[2026-06-23_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La]]
+- [[2026-06-24_S2_Advanced Chiplet Placement and Routing Optimization Consider]]

@@ -730,3 +730,10 @@ TCC 把"拓扑"从背景条件提升为体系结构主轴
 
 17/18
 
+---
+## 相关链接
+- [[tcc_first_principles]]
+- [[tcc_paper_background]]
+- [[TCC_Knowledge_Base_Baseline_v2.0]]
+- [[TCC_Knowledge_Base_Baseline_v1]]
+- [[TCC_Knowledge_Base_Baseline_v1.1]]

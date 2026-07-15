@@ -529,3 +529,11 @@ iNEST强调“网络时空协同复杂度”跨阈值后才会出现智能涌现
 ## 12. 知识库标签（便于检索）
 
 `CST理论` `智能涌现` `复杂度阈值` `神经形态硬件` `Loihi-2` `TCC` `iNEST` `网算存一体` `SDI` `材料科学` `STDP` `硅光子` `异构集成` `AGI路线图`
+
+---
+## 相关链接
+- [[getnote_2026-06-27_智能涌现理论框架]]
+- [[CST理论]]
+- [[From Compute to Complexity- A Physical Theory of Intelligence Emergence]]
+- [[为何CST中要用指数]]
+- [[From Compute to Complexity- A Physical Theory of Intelligence Emergence and Its Implicatio]]

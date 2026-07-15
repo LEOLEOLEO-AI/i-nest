@@ -193,3 +193,8 @@ https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-ai-
 - [[AutoResearchClaw：全自动端到端AI科研智能体深度解析]]
 - [[DeepSeek：引领全球AI创新的新力量]]
 - [[智能荧光粉的神经形态行为实现全光物理储层计算]]
+- [[混合专家大语言模型的系统与架构优化技术综述]]
+- [[全球首款大规模类脑脉冲大模型SpikingBrain1.0发布]]
+- [[S-PINN：稳定化物理信息神经网络在多级协同优化中的应用]]
+- [[大模型本体论：从哲学概念到智能涌现的隐形骨架 🧠]]
+- [[MetaAI：电磁超材料设计的范式变革——基于电流-扩散模型的OOD性能突破]]

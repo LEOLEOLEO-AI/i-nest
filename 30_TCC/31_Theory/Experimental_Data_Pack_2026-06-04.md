@@ -41,3 +41,11 @@
 1. 将数据插入对应论文Section
 2. 更新图表计数
 3. 格式检查后投稿
+
+---
+## 相关链接
+- [[Papers_Integration_Pack_v2]]
+- [[CST_RG_PRL_Cover_Letter]]
+- [[CST_RG_Paper_Draft_v0.5]]
+- [[Submission_Package_2026-06-04]]
+- [[Workflow_Engine_SOP]]

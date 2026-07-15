@@ -39,3 +39,11 @@ iNEST(Intelligence Emerging from Network Spatiotemporal Synergy Theory)理论构
 ---
 ## 相关笔记 (AI 自动关联)
 - [[复旦讲座PPT提示词]]
+
+---
+## 相关链接
+- [[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
+- [[getnote_2026-04-24_类脑动态可塑物理网络颠覆性研究 体系布局]]
+- [[getnote_2026-06-27_智能涌现理论框架]]
+- [[青年人才班AI第一性]]
+- [[getnote_2026-01-25_清华团队类脑计算突破]]

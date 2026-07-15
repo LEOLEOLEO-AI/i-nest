@@ -41,3 +41,11 @@ Polychronous Neuronal Groups (PNGs) reproducible, time-locked spatiotemporal fir
 
 ---
 *2026-06-25 科研管线v3.1自动提炼 | 相关度: 3/3*
+
+---
+## 相关链接
+- [[2026-06-25_S2_Noise and spike-time-dependent plasticity drive self-organiz]]
+- [[2026-07-01_arXiv_Extracting behavioural properties from face-to-face interact]]
+- [[2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly ]]
+- [[2026-07-03_arXiv_Structural Visibility in Dynamical Systems on Hypergraphs A ]]
+- [[2026-06-25_S2_Representational drift under spontaneous activity -- self-or]]

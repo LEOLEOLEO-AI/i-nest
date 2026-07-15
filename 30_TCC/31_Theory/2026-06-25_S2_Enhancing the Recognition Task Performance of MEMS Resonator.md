@@ -39,3 +39,11 @@ Reservoir computing (RC) is a potential neuromorphic paradigm for physically rea
 
 ---
 *2026-06-25 科研管线v3.1自动提炼 | 相关度: 3/3*
+
+---
+## 相关链接
+- [[2026-06-25_S2_Synthesizing A Generalized Brain-inspired Interconnection Ne]]
+- [[2026-06-25_S2_Machine Learning-Based Prediction Framework for Complex Neur]]
+- [[2026-06-25_S2_Representational drift under spontaneous activity -- self-or]]
+- [[2026-07-01_S2_Synergy and Emergence as Methodological Bases for Library Sc]]
+- [[2026-07-01_S2_TopoLa a novel embedding framework for understanding complex]]

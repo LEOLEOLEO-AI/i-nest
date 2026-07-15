@@ -141,3 +141,8 @@ kb: DARPA-research
 
 [[paper1_iNEST_core_architecture]]
 [[iNEST-MOC]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896186147673664688_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896236804663837592_DARPA重塑未来战争形态_空天_太空与高超音速领域战略布局深度分析]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896185579663210024_DARPA人工智能与自主系统项目深度研究报告_以_第三波AI_为核心的军事智能革命]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896185969430922136_DARPA人工智能与自主系统项目深度研究报告_以_第三波AI_为核心的军事智能革命]]

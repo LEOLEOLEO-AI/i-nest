@@ -406,3 +406,10 @@ v2.0 C=Control:    LINK/TICK/SYNC/MOVE             (不变)
 ---
 
 *本文件为TCC知识库唯一权威基线版本。所有后续PPT、论文、项目申报中的TCC相关内容，均需与此文件保持一致。*
+
+---
+## 相关链接
+- [[TCC_Knowledge_Base_Baseline_v1.1]]
+- [[tcc_first_principles]]
+- [[tcc_core_principles_pptx]]
+- [[getnote_2026-07-02_项目简介]]

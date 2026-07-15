@@ -135,3 +135,8 @@ kb: DARPA-research
 ## Related Notes
 
 [[iNEST-MOC]]
+- [[getnote_2025-12-30_DARPA_水晶宫计划_深度研究报告_塑造下一代军用微系统材料变革]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896186120829089320_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896186147673664688_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态]]

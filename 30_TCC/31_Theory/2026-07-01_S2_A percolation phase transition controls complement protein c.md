@@ -40,3 +40,11 @@ SUMMARY When a material enters the body, it is immediately attacked by hundreds 
 
 ---
 *2026-07-01 科研管线v3.1自动提炼 | 相关度: 3/3*
+
+---
+## 相关链接
+- [[2026-07-01_S2_Understanding percolation phase transition behaviors in comp]]
+- [[2026-06-25_S2_Self-orthogonalizing attractor neural networks emerging from]]
+- [[2026-07-01_arXiv_Extracting behavioural properties from face-to-face interact]]
+- [[2026-06-25_S2_Representational drift under spontaneous activity -- self-or]]
+- [[2026-06-25_S2_Synthesizing A Generalized Brain-inspired Interconnection Ne]]

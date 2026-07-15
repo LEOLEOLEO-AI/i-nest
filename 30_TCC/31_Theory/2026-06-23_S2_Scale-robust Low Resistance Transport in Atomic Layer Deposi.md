@@ -31,3 +31,11 @@ As data-centric computing advances, energy-efficient interconnects are increasin
 ## AI 摘要
 
 展示了在非晶衬底上通过原子层沉积生长拓扑半金属TaP晶圆，实现厚度减薄电阻率反常降低的纳米级低阻互连。
+
+---
+## 相关链接
+- [[2026-06-24_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]
+- [[2026-06-21_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]
+- [[2026-06-23_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]
+- [[2026-06-22_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]
+- [[2026-06-24_S2_AI Enabled Lead-free Halide Perovskite Memristor Crossbars A]]

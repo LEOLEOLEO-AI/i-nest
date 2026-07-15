@@ -167,3 +167,8 @@ kb: project-guide
 [[paper2_liquid_computing_chemistry]]
 [[SDI化合物键_四型架构]]
 [[Papers-MOC]]
+- [[getnote_2026-02-20_基于SDI_软件定义晶上系统_化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
+- [[GetNote_20260606_100554_kb_project-guide_getnote_1902185808962683840_神经突触和神经元二合一物理神经网络构建]]
+- [[GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述]]

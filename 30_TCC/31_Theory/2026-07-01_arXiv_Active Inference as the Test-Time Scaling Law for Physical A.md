@@ -34,3 +34,11 @@ In this paper, a novel test-time scaling law for physical artificial intelligenc
 
 ---
 *2026-07-01 科研管线v3.1自动提炼 | 相关度: 1/3*
+
+---
+## 相关链接
+- [[2026-07-01_S2_TopoLa a novel embedding framework for understanding complex]]
+- [[2026-07-01_S2_Born to act Deferred action and desire as active inference]]
+- [[2026-06-25_S2_Self-orthogonalizing attractor neural networks emerging from]]
+- [[2026-06-25_S2_Synthesizing A Generalized Brain-inspired Interconnection Ne]]
+- [[2026-07-03_arXiv_Structural Visibility in Dynamical Systems on Hypergraphs A ]]

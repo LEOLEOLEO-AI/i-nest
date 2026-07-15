@@ -31,3 +31,11 @@ Ferroelectric tunnel junctions (FTJs) are promising nonvolatile memory devices f
 ## AI 摘要
 
 本文研究了退火优化对基于HZO的铁电隧道结忆阻器交叉阵列的影响，实现了稳定的铁电开关特性，并成功演示了48×48阵列的半偏置操作，适用于内存计算。
+
+---
+## 相关链接
+- [[2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with ]]
+- [[2026-06-23_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with ]]
+- [[2026-06-24_S2_AI Enabled Lead-free Halide Perovskite Memristor Crossbars A]]
+- [[2026-06-23_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]
+- [[2026-06-24_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]

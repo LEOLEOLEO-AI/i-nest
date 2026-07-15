@@ -416,3 +416,11 @@ CST = (0.80 × 0.75) × exp(3.91 × 0.42) ≈ 0.60 × 5.13 ≈ 3.08  → L5通�
 
 *文档路径：iNEST_Sim_Research/CST_Experiment_Alignment_Diagnosis.md*
 *关联：TCC计算范式/01_论文/CST_Intelligence_Emergence_Paper_V25_FINAL.md*
+
+---
+## 相关链接
+- [[CST_Symbol_Baseline_符号基准]]
+- [[CST_Symbol_Baseline_符号基准_全局权威基线]]
+- [[CST仿真平台科学依据]]
+- [[getnote_2026-06-05_NEST 智能涌现研究进展与工程落地全景]]
+- [[08_关键指标参考手册]]

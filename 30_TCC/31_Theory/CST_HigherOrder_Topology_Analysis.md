@@ -251,3 +251,11 @@ v41的核心新指标：`tri_perc_ratio = ρ₂/ρ₁²`
 | w_k权重的理论推导（信息论） | 中 | 2天 |
 | 三元渗流临界点的精确数值（模拟退火） | 中 | 3天 |
 | 完整persistent homology（gudhi库）计算 | 低 | 1天 |
+
+---
+## 相关链接
+- [[CST_Symbol_Baseline_符号基准_全局权威基线]]
+- [[CST仿真平台科学依据]]
+- [[2025年《Nature Physics》重磅论文解析：高阶拓扑动力学重构复杂系统研究范式]]
+- [[CST_Experiment_Alignment_Diagnosis]]
+- [[GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订]]

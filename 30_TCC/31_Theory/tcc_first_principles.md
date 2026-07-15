@@ -583,3 +583,10 @@ FFT 与 DBF 的意义， 在于它们提⽰我们： 某些信号处理任务也
 ## 为什么不能写过头
 
 但“结构相似” 与“严格图同构” 之间， 还隔着⼀整套数学⼯作： 顶点集与边集如何精确定义， 映射函数是否为双射， 邻接关系是否在不同规模下被保持， 边界条件是否⼀致， 等等。没有这些内容， 就不能把这部分写成已被严格证明的同构定理。
+
+---
+## 相关链接
+- [[tcc_paper_background]]
+- [[tcc_core_principles_pptx]]
+- [[TCC_Knowledge_Base_Baseline_v2.0]]
+- [[TCC_Knowledge_Base_Baseline_v1.1]]

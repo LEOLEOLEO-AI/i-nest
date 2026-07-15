@@ -123,3 +123,8 @@ kb: DARPA-research
 
 [[paper1_iNEST_core_architecture]]
 [[iNEST-MOC]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896185969430922136_DARPA人工智能与自主系统项目深度研究报告_以_第三波AI_为核心的军事智能革命]]
+- [[getnote_2025-12-17_DARPA人工智能与自主系统项目深度研究报告_以_第三波AI_为核心的军事智能革命]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896186147673664688_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态]]
+- [[DARPA人工智能与自主系统（AI&Autonomy）项目（34个）深度研究报告上册]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896236682257315368_美国DARPA_生物技术与人类增强_领域深度研究报告_从战场医疗到认知决胜的战略布局]]

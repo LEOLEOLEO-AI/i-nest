@@ -338,5 +338,10 @@ v1.1 原语规范在历史上具有命名修订参考价值， 但由于与存�
 
 ### 代表性路线总表
 
-
-
+---
+## 相关链接
+- [[tcc_first_principles]]
+- [[tcc_core_principles_pptx]]
+- [[TCC_Knowledge_Base_Baseline_v1]]
+- [[TCC_Knowledge_Base_Baseline_v1.1]]
+- [[TCC_Knowledge_Base_Baseline_v2.0]]

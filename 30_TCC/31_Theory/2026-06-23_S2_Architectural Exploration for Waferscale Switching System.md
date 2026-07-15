@@ -31,3 +31,11 @@ With the end of Moore’s law and Dennard scaling, waferscale systems or process
 ## AI 摘要
 
 探索晶圆级交换系统的网络架构，提出基于软件的五级蝶形胖树逻辑拓扑，在物理约束下实现8.96 Tb/s交换带宽并减少跳数。
+
+---
+## 相关链接
+- [[2026-06-24_S2_Emergence and Causality in Complex Systems A Survey of Causa]]
+- [[2026-06-23_S2_A Deep Reinforcement Learning Approach for Network-on-Chip L]]
+- [[2026-06-24_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with ]]
+- [[2026-06-24_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La]]
+- [[2026-06-23_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La]]

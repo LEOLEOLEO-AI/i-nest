@@ -31,3 +31,11 @@ status: inbox
 ## AI 摘要
 
 提出一种基于模糊参数归零神经网络求解时变复值线性矩阵不等式的新方法。
+
+---
+## 相关链接
+- [[2026-06-23_S2_A Novel Approach for Solving the Time-Varying Complex-Valued]]
+- [[2026-06-23_S2_Lead-Free Cs3Bi2I9 Perovskite Memristors for Energy-Efficien]]
+- [[2026-06-24_S2_Neuronal avalanche dynamics regulated by spike-timing-depend]]
+- [[2026-06-23_S2_A Deep Reinforcement Learning Approach for Network-on-Chip L]]
+- [[2026-06-23_S2_Defect detection on semiconductor wafer surfaces]]

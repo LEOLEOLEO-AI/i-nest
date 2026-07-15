@@ -50,3 +50,11 @@ In this work, we explore the possibility of using the topology and weight distri
 
 ---
 *2026-07-01 科研管线v3.1自动提炼 | 相关度: 3/3*
+
+---
+## 相关链接
+- [[2026-07-01_S2_Hierarchical communities in the larval Drosophila connectome]]
+- [[2026-06-25_S2_The growing topology of the C. elegans connectome]]
+- [[2026-07-01_S2_Causal Emergence of Consciousness through Learned Multiscale]]
+- [[2026-06-25_S2_Machine Learning-Based Prediction Framework for Complex Neur]]
+- [[2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly ]]

@@ -31,3 +31,11 @@ status: inbox
 ## AI 摘要
 
 研究无铅Cs3Bi2I9钙钛矿忆阻器用于节能神经形态计算
+
+---
+## 相关链接
+- [[2026-06-24_S2_Neuronal avalanche dynamics regulated by spike-timing-depend]]
+- [[2026-06-24_S2_AI Enabled Lead-free Halide Perovskite Memristor Crossbars A]]
+- [[2026-06-24_S2_A Novel Approach for Solving the Time-Varying Complex-Valued]]
+- [[2026-06-23_S2_Defect detection on semiconductor wafer surfaces]]
+- [[2026-06-23_S2_AI Enabled Lead-free Halide Perovskite Memristor Crossbars A]]

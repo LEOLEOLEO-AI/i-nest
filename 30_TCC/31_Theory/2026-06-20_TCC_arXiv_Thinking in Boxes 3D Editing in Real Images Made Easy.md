@@ -27,3 +27,11 @@ Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial
 
 ---
 *自动抓取于 2026-06-20 10:10 | 待分类处理*
+
+---
+## 相关链接
+- [[2026-06-20_iNEST_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me]]
+- [[2026-06-20_TCC_arXiv_Observation of electroweak production of pairs of Z bosons i]]
+- [[2026-06-22_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction]]
+- [[2026-06-20_TCC_arXiv_Incorporating physical source parameters into microlensing m]]
+- [[2026-06-23_TCC_arXiv_Optimal Deterministic Multicalibration and Omniprediction]]

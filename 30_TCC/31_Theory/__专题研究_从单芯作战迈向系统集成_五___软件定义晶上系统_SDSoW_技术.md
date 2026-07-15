@@ -55,3 +55,11 @@ PREVIOUS REVIEW
 
 ---
 **Tags:** #StrategicProposal #CST #SDSoW #SDI #Chiplet
+
+---
+## 相关链接
+- [[晶上自演化网络涌现智能_机理_技术与未来]]
+- [[智驾晶上异构集成_中汽合作_项目指南_v1]]
+- [[岭南论坛CCF]]
+- [[getnote_2026-01-12_晶圆级神经网络能效革命]]
+- [[清华团队类脑计算突破]]

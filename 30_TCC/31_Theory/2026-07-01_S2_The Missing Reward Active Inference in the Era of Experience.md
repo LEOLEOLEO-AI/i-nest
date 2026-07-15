@@ -35,3 +35,11 @@ This paper argues that Active Inference (AIF) provides a crucial foundation for 
 
 ---
 *2026-07-01 科研管线v3.1自动提炼 | 相关度: 2/3*
+
+---
+## 相关链接
+- [[2026-06-25_S2_Cooperation-induced Criticality in Neural Networks]]
+- [[2026-07-01_S2_Born to act Deferred action and desire as active inference]]
+- [[2026-06-25_S2_Self-orthogonalizing attractor neural networks emerging from]]
+- [[2026-06-25_S2_Synthesizing A Generalized Brain-inspired Interconnection Ne]]
+- [[2026-06-25_S2_Neural Information Squeezer for Causal Emergence]]

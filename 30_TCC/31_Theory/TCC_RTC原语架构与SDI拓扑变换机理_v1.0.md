@@ -919,3 +919,11 @@ sequenceDiagram
 ---
 
 *版本 v1.2 | 2026-07-08 | Mermaid 图表 + 三反引号修复 + 原语名修正（R.*=Route, T.*=Transform）*
+
+---
+## 相关链接
+- [[TCC_TRC原语架构与SDI拓扑变换机理_v1.0]]
+- [[tcc_first_principles]]
+- [[TCC原语体系统一方案_v1.0_已归档]]
+- [[2026-06-28_Getnote_2026-06-28_TCC BP]]
+- [[getnote_2026-06-28_TCC BP]]

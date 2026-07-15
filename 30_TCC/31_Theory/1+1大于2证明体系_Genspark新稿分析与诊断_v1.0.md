@@ -154,3 +154,11 @@ V(C, T, R, S, M) = 算力 × 拓扑 × 路由 × 切换 × 映射 的联合优�
 - [CST符号基线v4.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/31_Theory/CST_Symbol_Baseline_%E7%AC%A6%E5%8F%B7%E5%9F%BA%E5%87%86_%E5%85%A8%E5%B1%80%E6%9D%83%E5%A8%81%E5%9F%BA%E7%BA%BF.md)
 - [TCC知识基线v2.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md)
 - [源文件: Genspark新稿](D:\Output\Genspark\从节点堆砌到拓扑编程：系统级超非线性增益（1＋＞2）的理论基础、数学条件与产业证据.docx)
+
+---
+## 相关链接
+- [[nonlinear_gain_topology_programming]]
+- [[从加性增益到乘性增益_1+1大于2的非线性证明_文献与证据链_v1.0]]
+- [[TCC超非线性增益_研究进展与数学证明路线图_v1.0]]
+- [[07_核心定义_超非线性增益与智能视角]]
+- [[CST_RG第一性原理推导协议]]

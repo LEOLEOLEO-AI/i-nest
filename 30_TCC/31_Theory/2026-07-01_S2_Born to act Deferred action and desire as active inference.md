@@ -35,3 +35,11 @@ The active inference framework (AIF) considers the brain as a generative model g
 
 ---
 *2026-07-01 科研管线v3.1自动提炼 | 相关度: 2/3*
+
+---
+## 相关链接
+- [[2026-07-01_S2_The Missing Reward Active Inference in the Era of Experience]]
+- [[2026-06-25_S2_Synthesizing A Generalized Brain-inspired Interconnection Ne]]
+- [[2026-07-01_arXiv_Active Inference as the Test-Time Scaling Law for Physical A]]
+- [[2026-06-25_S2_Cooperation-induced Criticality in Neural Networks]]
+- [[2026-06-25_S2_Emergent Will]]

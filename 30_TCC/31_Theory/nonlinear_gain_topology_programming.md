@@ -470,3 +470,10 @@ Liu 等则表明， driver nodes ⽐例受度分布强烈影响， 稀疏⾮均�
 
 ## Google TPU 8t/8i 与 Virgo
 
+---
+## 相关链接
+- [[1+1大于2证明体系_Genspark新稿分析与诊断_v1.0]]
+- [[tcc_first_principles]]
+- [[tcc_paper_background]]
+- [[tcc_core_principles_pptx]]
+- [[inest_first_principles]]

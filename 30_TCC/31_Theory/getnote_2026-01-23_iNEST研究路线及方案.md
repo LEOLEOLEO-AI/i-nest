@@ -62,3 +62,11 @@ kb: iNEST-dev
 
 ---
 *getnote | 2026-06-30 12:36*
+
+---
+## 相关链接
+- [[iNEST研究路线及方案]]
+- [[GetNote_20260606_100554_kb_iNEST-dev_getnote_1899598236121992448_iNEST研究路线及方案]]
+- [[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
+- [[GetNote_20260606_100554_kb_paper-ideas_getnote_1903941287724843544_Universal Scaling Laws for Intelligence Emergence from Devic]]
+- [[复杂网络中的重整化群（RG）方法综述与应用]]

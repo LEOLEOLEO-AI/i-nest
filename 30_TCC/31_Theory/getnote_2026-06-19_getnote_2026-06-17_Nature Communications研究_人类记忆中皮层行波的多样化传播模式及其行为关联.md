@@ -133,3 +133,8 @@ kb:
 [[Papers-MOC]]
 [[paper1_iNEST_core_architecture]]
 [[iNEST-MOC]]
+- [[getnote_2026-06-16_getnote_2026-06-16_人类连接组拓扑结构指导皮层行波传播与频率梯度形成]]
+- [[getnote_2026-06-19_getnote_2026-06-19_人类连接组拓扑结构指导皮层行波传播与频率梯度形成]]
+- [[GetNote_20260606_162755_getnote_1912045671970669904_Nature揭示海马体如何把世界重构成记忆_CA3-CA1的稀疏-密集编码转换机制]]
+- [[GetNote_20260606_100554_kb_paper-ideas_getnote_1903941287724843544_Universal Scaling Laws for Intelligence Emergence from Devic]]
+- [[getnote_2026-06-16_getnote_2026-06-16_大脑临界性_健康脑功能的统一设定点假说__Neuron观点文章深度解析]]

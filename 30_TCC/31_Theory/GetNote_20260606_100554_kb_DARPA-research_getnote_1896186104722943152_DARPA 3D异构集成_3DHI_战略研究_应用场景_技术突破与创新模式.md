@@ -129,3 +129,8 @@ kb: DARPA-research
 [[SDI化合物键_四型架构]]
 [[iNEST-MOC]]
 [[FPGA原型]]
+- [[getnote_2025-12-17_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896186120829089320_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
+- [[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1897375963134821008_DARPA_水晶宫计划_深度研究报告_塑造下一代军用微系统材料变革]]
+- [[GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_]]

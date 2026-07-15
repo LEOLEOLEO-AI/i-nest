@@ -733,3 +733,11 @@ PRE接受率:              ★★★★☆  70%
 
 ---
 *getnote | 2026-06-30 12:36*
+
+---
+## 相关链接
+- [[Universal Scaling Laws for Intelligence Emergence from Devic]]
+- [[GetNote_20260606_100554_kb_paper-ideas_getnote_1903941287724843544_Universal Scaling Laws for Intelligence Emergence from Devic]]
+- [[CST_RG第一性原理推导协议]]
+- [[CST_RG_PRL_Cover_Letter]]
+- [[CST_RG_Paper_v1.0]]

@@ -163,3 +163,11 @@ tcc.c.link.config(butterfly);
 
 ---
 **关联条目**：[[NCC_Core_Concepts]] | [[TCC 原语库 v1.0 最终版规范]] | [[元拓扑+化合键=六类通信原语]]
+
+---
+## 相关链接
+- [[TCC_Core_Concepts]]
+- [[TCC原语体系统一方案_v1.0_已归档]]
+- [[TCC_Knowledge_Base_Baseline_v2.0]]
+- [[TCC_Knowledge_Base_Baseline_v1.1]]
+- [[2026-06-28_Getnote_2026-06-28_拓扑中心计算范式架构研究与液态拓扑生成式计算原型验证项目指南 8.0]]

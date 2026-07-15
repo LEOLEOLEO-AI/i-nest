@@ -179,3 +179,11 @@ foundations are ready for engineering transition to FPGA prototype."
 - [ ] PyiNEST-Lite SDK v0.1
 - [ ] CST RG full PRL manuscript
 - [ ] FPGA prototype
+
+---
+## 相关链接
+- [[Experimental_Data_Pack_2026-06-04]]
+- [[CST_RG_Paper_Draft_v0.5]]
+- [[CST_RG_Paper_v1.0]]
+- [[CST_RG_PRL_Cover_Letter]]
+- [[Submission_Package_2026-06-04]]

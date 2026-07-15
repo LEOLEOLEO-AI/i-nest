@@ -198,3 +198,10 @@ Qinrang Liu
 下周:  CST V27 → Nature Machine Intelligence (旗舰)
 两周:  P-Theory v3 → JMLR/NeurIPS (需格式转换)
 ```
+
+---
+## 相关链接
+- [[CST_Intelligence_Emergence_Paper_V22_Engineering_Format]]
+- [[CST_RG_PRL_Cover_Letter]]
+- [[CST_Axiomatization_Outline]]
+- [[From Compute to Complexity- A Physical Theory of Intelligence Emergence and Its Implicatio]]

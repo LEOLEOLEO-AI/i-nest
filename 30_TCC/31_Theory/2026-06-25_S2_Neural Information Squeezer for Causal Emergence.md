@@ -35,3 +35,11 @@ Conventional studies of causal emergence have revealed that stronger causality c
 
 ---
 *2026-06-25 科研管线v3.1自动提炼 | 相关度: 1/3*
+
+---
+## 相关链接
+- [[2026-07-01_S2_Mass Conservation as an Inductive Bias for Self-Organized Cr]]
+- [[2026-06-30_arXiv_SHIFT Dynamic Compute Relocation Framework for Communication]]
+- [[2026-07-01_S2_Causal Emergence of Consciousness through Learned Multiscale]]
+- [[2026-07-01_S2_Understanding percolation phase transition behaviors in comp]]
+- [[2026-06-25_S2_Cooperation-induced Criticality in Neural Networks]]

@@ -98,3 +98,11 @@
 | 实验二 | `sdi_experiment2_olfactory.py` | Hemibrain嗅觉子环路功能验证 |
 | 实验三 | `sdi_experiment3_emergence.py` | 零先验自演化——σ涌现验证 |
 | 实验四 | `sdi_experiment4_modularity.py` | 竞争性修剪——Q模块化涌现验证 |
+
+---
+## 相关链接
+- [[SOC-自组织临界]]
+- [[小世界网络]]
+- [[08_NCL神经计算定律详解]]
+- [[iNEST_Academic_Belief_Core]]
+- [[智能涌现阈值]]

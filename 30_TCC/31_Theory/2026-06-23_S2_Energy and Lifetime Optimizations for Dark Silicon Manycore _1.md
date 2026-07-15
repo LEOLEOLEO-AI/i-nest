@@ -48,3 +48,11 @@ year: 2017
 
 ---
 *Auto-crawled 2026-06-23 by Research Pipeline v3.0 | Inbox — needs classification*
+
+---
+## 相关链接
+- [[2026-06-23_S2_HiMap A hierarchical mapping approach for enhancing lifetime]]
+- [[2026-06-23_S2_Networks-on-chip topology optimization subject to power, del]]
+- [[2026-06-23_S2_Advanced Chiplet Placement and Routing Optimization Consider]]
+- [[2026-06-23_S2_Defect detection on semiconductor wafer surfaces]]
+- [[2026-06-23_S2_A Deep Reinforcement Learning Approach for Network-on-Chip L]]

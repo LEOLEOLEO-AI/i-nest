@@ -44,3 +44,11 @@ year: 2018
 
 ---
 *Auto-crawled 2026-06-23 by Research Pipeline v3.0 | Inbox — needs classification*
+
+---
+## 相关链接
+- [[2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore _1]]
+- [[2026-06-23_S2_Networks-on-chip topology optimization subject to power, del]]
+- [[2026-06-23_S2_Defect detection on semiconductor wafer surfaces]]
+- [[2026-06-23_S2_A Novel Approach for Solving the Time-Varying Complex-Valued]]
+- [[2026-06-23_S2_Neuromorphic computing spiking neural network edge detection]]

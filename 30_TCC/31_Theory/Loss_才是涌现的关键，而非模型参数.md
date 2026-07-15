@@ -67,3 +67,11 @@ BrierScore 是《Are Emergent Abilities of Large Language Models a Mirage?》中
 
 ---
 **Tags:** #CST
+
+---
+## 相关链接
+- [[Loss_才是涌现的关键，而非模型参数]]
+- [[复杂网络_节点重要性_GNN-Based]]
+- [[智能的本质]]
+- [[大模型：泛化即智能，压缩即一切]]
+- [[AGI面临的挑战___脑机制自底向顶梳理_下部_5万字]]

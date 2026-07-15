@@ -31,3 +31,11 @@ This paper introduces a deep reinforcement learning approach for optimizing netw
 ## AI 摘要
 
 提出一种深度强化学习方法，用于片上网络布局验证与路由优化，采用三头策略梯度网络架构同时处理两项任务。
+
+---
+## 相关链接
+- [[2026-06-24_S2_Advanced Chiplet Placement and Routing Optimization Consider]]
+- [[2026-06-24_S2_Deep Variational Free Energy Calculation of Hydrogen Hugonio]]
+- [[2026-06-24_S2_A Novel Approach for Solving the Time-Varying Complex-Valued]]
+- [[2026-06-24_S2_Emergence and Causality in Complex Systems A Survey of Causa]]
+- [[2026-06-24_S2_FerroelectricAntiferroelectric HfZrOx Artificial SynapsesNeu]]

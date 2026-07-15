@@ -123,3 +123,11 @@ $$CST = (S_c \cdot T_c) \cdot e^{\alpha \cdot \Gamma_{st}}$$
 
 ---
 **关联条目**：[[TCC计算范式命名规范3.0]] | [[CST_Symbol_Baseline_符号基准_全局权威基线]] | [[iNEST三大平台定位与命名]] | [[SDI节点接口规范与化合键定义]]
+
+---
+## 相关链接
+- [[SDI_Glossary]]
+- [[TCC_iNEST_LiquidTopology_v1.0]]
+- [[CST_Theory_Framework_统一表述]]
+- [[08_SDI化合物键_四型架构]]
+- [[From Compute to Complexity- A Physical Theory of Intelligence Emergence]]

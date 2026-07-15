@@ -39,3 +39,11 @@ This article addresses the critical challenges of chiplet placement and routing 
 
 ---
 *Auto-crawled 2026-06-23 by Research Pipeline v3.0 | Inbox — needs classification*
+
+---
+## 相关链接
+- [[2026-06-23_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider]]
+- [[2026-06-22_TCC_S2_Advanced Chiplet Placement and Routing Optimization Consider]]
+- [[2026-06-24_S2_Advanced Chiplet Placement and Routing Optimization Consider]]
+- [[2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore _1]]
+- [[2026-06-23_S2_Networks-on-chip topology optimization subject to power, del]]

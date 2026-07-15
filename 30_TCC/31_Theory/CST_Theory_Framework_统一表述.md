@@ -74,3 +74,11 @@ RI = CST / E_env，其中E_env是任务在给定系统下的不可约复杂度�
 - V25论文的"η_I"定义 → 不变
 - V25论文的Table 2中CST数值 → 绝对CST，直接与六阈值比较得IIL
 - RI（相对智能指数）→ 在Discussion章节的IIL vs TIL两层框架中已有描述，需在后续版本中与此框架完全对齐
+
+---
+## 相关链接
+- [[CST仿真平台科学依据]]
+- [[getnote_2026-06-27_智能涌现理论框架]]
+- [[CST_Symbol_Baseline_符号基准_全局权威基线]]
+- [[CST_Experiment_Alignment_Diagnosis]]
+- [[CST理论v25_完整知识体系]]

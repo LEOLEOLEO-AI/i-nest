@@ -35,3 +35,11 @@ Recent advances in theoretical biology suggest that key definitions of basal cog
 
 ---
 *2026-06-25 科研管线v3.1自动提炼 | 相关度: 2/3*
+
+---
+## 相关链接
+- [[2026-07-01_S2_Understanding percolation phase transition behaviors in comp]]
+- [[2026-06-25_S2_Self-orthogonalizing attractor neural networks emerging from]]
+- [[2026-06-25_S2_Representational drift under spontaneous activity -- self-or]]
+- [[2026-07-01_S2_A percolation phase transition controls complement protein c]]
+- [[2026-07-01_S2_Born to act Deferred action and desire as active inference]]

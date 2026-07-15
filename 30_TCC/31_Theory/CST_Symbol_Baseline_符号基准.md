@@ -89,3 +89,11 @@ $$\alpha = \ln(M_{eff})$$
 
 *基准确定时间：2026-05-18*  
 *适用范围：所有CST相关论文、Demo、投资材料、技术文档*
+
+---
+## 相关链接
+- [[CST_Symbol_Baseline_符号基准_全局权威基线]]
+- [[CST_Experiment_Alignment_Diagnosis]]
+- [[CST理论]]
+- [[SDI_Glossary]]
+- [[CST仿真平台科学依据]]

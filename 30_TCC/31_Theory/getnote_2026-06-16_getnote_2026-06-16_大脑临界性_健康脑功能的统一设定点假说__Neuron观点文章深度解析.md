@@ -182,3 +182,8 @@ kb:
 [[iNEST-MOC]]
 [[Papers-MOC]]
 [[paper1_iNEST_core_architecture]]
+- [[getnote_2026-06-19_getnote_2026-06-19_人类连接组拓扑结构指导皮层行波传播与频率梯度形成]]
+- [[getnote_2026-06-15_大脑的量子纠缠与信息动力学]]
+- [[GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订]]
+- [[GetNote_20260606_100554_kb_paper-ideas_getnote_1903941287724843544_Universal Scaling Laws for Intelligence Emergence from Devic]]
+- [[getnote_2026-06-20_getnote_2026-06-19_大脑任务切换的神经机制__整洁_框架与_杂乱_现实的整合研究]]

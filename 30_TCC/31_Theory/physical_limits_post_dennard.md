@@ -431,3 +431,11 @@ The End of Processor-Centric Computing
 
 
 Prepared from v8 source material and refined into a Nature-style Perspective draft.
+
+---
+## 相关链接
+- [[CST_Intelligence_Emergence_Paper_V22_Engineering_Format]]
+- [[CST_RG_Paper_v1.0]]
+- [[CST_RG_Paper_Draft_v0.5]]
+- [[Submission_Package_2026-06-04]]
+- [[2026-06-21_TCC_S2_Scale-robust Low Resistance Transport in Atomic Layer Deposi]]

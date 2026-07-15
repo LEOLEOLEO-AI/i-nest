@@ -37,3 +37,11 @@ The complexity of photonic designs is rapidly increasing as the integration of m
 
 ---
 *2026-06-25 科研管线v3.1自动提炼 | 相关度: 3/3*
+
+---
+## 相关链接
+- [[2026-06-25_S2_Synthesizing A Generalized Brain-inspired Interconnection Ne]]
+- [[2026-06-30_arXiv_SHIFT Dynamic Compute Relocation Framework for Communication]]
+- [[2026-06-25_S2_Noise and spike-time-dependent plasticity drive self-organiz]]
+- [[2026-06-25_S2_Energy-information trade-off induces continuous and disconti]]
+- [[2026-07-01_S2_Hierarchical communities in the larval Drosophila connectome]]
