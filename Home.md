@@ -1,109 +1,89 @@
----
+﻿---
 cssclass: dashboard
 ---
 
 # 🧬 TCC + iNEST 研发中枢
 
-> **知识库规模**: `$= dv.pages().length` 篇 | **更新时间**: `$= dv.date("now").toFormat("yyyy-MM-dd HH:mm")`
-> **今日焦点**: 从统一数据总线加载 — 见下方任务区
+> **知识库**: <span class="vault-count" data-key="total">3879</span> 篇 | **TCC**: <span class="vault-count" data-key="tcc">1981</span> | **iNEST**: <span class="vault-count" data-key="inest">1330</span>
+> **更新**: <span class="vault-date">2026-07-15</span> | **Inbox**: <span class="vault-count" data-key="inbox">12</span>
+> **论文**: <span class="vault-count" data-key="papers">158</span> | **专利**: <span class="vault-count" data-key="patents">37</span>
 
 ---
 
 ## ⚡ 快捷操作
 
-```dataviewjs
-const btns = [
-  ["🔄 Git 同步", "obsidian-git:pull"],
-  ["📥 处理 Inbox", "shell:90_System/scripts/process_inbox.py"],
-  ["🤖 生成今日洞察", "shell:90_System/scripts/daily_insights.py"],
-  ["📊 刷新数据总线", "shell:90_System/scripts/unified_data_bus.py"],
-  ["📅 今日日记", "daily-notes"],
-  ["🔍 全局搜索", "omnisearch:show-modal"],
-];
-
-const container = dv.el("div", "");
-container.style.cssText = "display:flex;flex-wrap:wrap;gap:6px;margin:8px 0;";
-
-btns.forEach(([label, cmd]) => {
-  const btn = container.createEl("button", { text: label });
-  btn.style.cssText = "margin:2px;padding:6px 14px;border-radius:6px;border:1px solid var(--interactive-accent);background:var(--interactive-accent);color:white;cursor:pointer;font-size:13px;transition:opacity 0.2s;";
-  btn.onmouseover = () => { btn.style.opacity = "0.8"; };
-  btn.onmouseout = () => { btn.style.opacity = "1"; };
-  btn.onclick = () => {
-    if (cmd.startsWith("shell:")) {
-      const script = cmd.replace("shell:", "");
-      const full = app.vault.adapter.getFullPath(script);
-      require("child_process").exec(`python "${full}"`, (err, stdout) => {
-        if (err) new Notice("Error: " + err.message);
-        else new Notice("Done: " + stdout.slice(0, 100));
-      });
-    } else {
-      app.commands.executeCommandById(cmd);
-    }
-  };
-});
-```
+| 操作 | 链接 |
+|------|------|
+| 🤖 今日行动洞察 | [03_Daily_Action](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/03_Daily_Action_2026-07-15.md) |
+| 📊 完整研发看板 | [Dashboard](http://127.0.0.1:8899/home/work/.openclaw/workspace/70_Dashboard/index.html) |
+| 🔥 今日焦点任务 | [04_Daily_Focus](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/04_Daily_Focus.md) |
+| 📥 Inbox 待处理 | [10_Inbox](http://127.0.0.1:8899/home/work/.openclaw/workspace/10_Inbox/) |
+| 🧬 系统诊断 | [00_Diagnostic_Report](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/00_Diagnostic_Report.md) |
+| 🚀 升级蓝图 | [10_Paradigm_Upgrade_Blueprint](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/10_Paradigm_Upgrade_Blueprint.md) |
 
 ---
 
 ## 🧠 双轨研发总览
 
-> **TCC** — 拓扑中心计算 · 理论纵深 · 架构突破
-> **iNEST** — 类脑神经形态工程 · 系统集成 · 产业落地
-
-```dataviewjs
-const tcc = dv.pages('"30_TCC"').length;
-const inest = dv.pages('"40_iNEST"').length;
-const papers = dv.pages('"50_Output/51_Papers"').length;
-const patents = dv.pages('"50_Output/52_Patents"').length;
-const inbox = dv.pages('"10_Inbox"').length;
-
-dv.table(
-  ["维度", "数量", "占比", "状态"],
-  [
-    ["🟦 TCC 拓扑中心计算", tcc, Math.round(tcc/(tcc+inest)*100)+"%", tcc > 1000 ? "✅ 充沛" : "⚠️ 待扩充"],
-    ["🟩 iNEST 神经形态", inest, Math.round(inest/(tcc+inest)*100)+"%", inest > 1000 ? "✅ 充沛" : "⚠️ 待扩充"],
-    ["📄 论文", papers, "", papers > 100 ? "✅" : "📝"],
-    ["🏷️ 专利", patents, "", patents > 20 ? "✅" : "📝"],
-    ["📥 待处理 Inbox", inbox, "", inbox > 0 ? "⚠️ 待处理" : "✅ 清空"],
-  ]
-);
-```
+| 维度 | TCC (1981篇) | iNEST (1330篇) |
+|------|-------------|----------------|
+| 📐 理论攻关 | 拓扑表示论 · SDSoW · 计算复杂性 | 神经动力学 · 脉冲编码 · 临界理论 |
+| 🔬 技术研究 | 晶圆互连 · Chiplet · 图计算引擎 | 存算一体 · 忆阻器 · SNN架构 |
+| ⚙️ 工程落地 | FPGA原型 · RTL开发 · 工具链 | 硬件加速器 · 仿真平台 · SDK |
+| 📋 项目策划 | 重点专项 · 基金申请 · 白皮书 | 产业孵化 · 标准提案 · 路线图 |
 
 ---
 
 ## 📈 研发维度
 
-| 维度 | TCC | iNEST |
-|------|-----|-------|
-| 📐 理论攻关 | 拓扑表示论 · SDSoW · 计算复杂性 | 神经动力学 · 脉冲编码 · 临界理论 |
-| 🔬 技术研究 | 晶圆互连 · Chiplet · 图计算 | 存算一体 · 忆阻器 · SNN架构 |
-| ⚙️ 工程落地 | FPGA原型 · RTL开发 · 工具链 | 硬件加速器 · 仿真平台 · 开发套件 |
-| 📋 项目策划 | 重点专项 · 基金申请 · 白皮书 | 产业孵化 · 标准提案 · 项目指南 |
+| 维度 | TCC 方向 | iNEST 方向 | 成果形态 |
+|------|----------|-----------|---------|
+| 📐 理论攻关 | 拓扑表示论 · 计算复杂性 · SDSoW | 神经动力学 · 脉冲编码 · 自组织临界 | **论文** · 专著 |
+| 🔬 技术研究 | 晶圆互连架构 · Chiplet协议 · 图计算引擎 | 存算一体 · 忆阻器阵列 · SNN学习算法 | **专利** · 技术报告 |
+| ⚙️ 工程落地 | FPGA原型验证 · RTL IP · EDA工具链 | 硬件加速器 · 仿真平台 · SDK | **可复用IP** · 产品代码 |
+| 📋 项目策划 | 重点专项 · 基金申请 · 产业白皮书 | 产业孵化 · 标准提案 · 路线图 | **项目指南** · 可行性报告 |
 
 ---
 
-## 📋 关键入口
+## 📊 产出总览
 
-- 📊 **[系统诊断报告](60_MOC/00_Diagnostic_Report.md)** — 知识库健康检查
-- 🚀 **[范式升级蓝图](60_MOC/10_Paradigm_Upgrade_Blueprint.md)** — 五层智能体架构
-- 🧬 **[TCC + iNEST 成果全景](60_MOC/TCC_iNEST_成果全景.md)** — 论文/专利/专著全览
-- 🤖 **[DeepSeek 每日洞察](60_MOC/02_DeepSeek_Insights.md)** — AI生成研究分析
-- 📘 **[TCC 主索引](30_TCC/TCC_Master_Index.md)** — 拓扑中心计算全景
-- 📗 **[iNEST 主索引](40_iNEST/iNEST_Master_Index.md)** — 类脑工程全景
-- 🔧 **[Pipeline 管线](90_System/scripts/pipeline_v3.py)** — 数据处理脚本
-
----
-
-## 📋 近期活跃任务
-
-```dataview
-TASK
-FROM "30_TCC" OR "40_iNEST" OR "50_Output" OR "60_MOC"
-WHERE !completed
-LIMIT 10
-```
+| 类型 | 数量 | 入口 |
+|------|------|------|
+| 📄 论文 | <span class="vault-count" data-key="papers">158</span> | [论文库](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/51_Papers/) |
+| 🏷️ 专利 | <span class="vault-count" data-key="patents">37</span> | [专利库](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/52_Patents/) |
+| 📚 专著 | 8 | [专著规划](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/53_Monographs/) |
+| 💻 工程代码 | 114 | [代码仓库](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/) |
+| 📋 项目指南 | 6 | [指南文档](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/55_Guides/) |
 
 ---
 
-> 📌 *数据刷新于页面加载时 · **[查看完整看板](http://127.0.0.1:8899/home/work/.openclaw/workspace/70_Dashboard/index.html)***
+## 🔗 关键入口
+
+| 入口 | 说明 |
+|------|------|
+| [🤖 今日行动洞察](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/03_Daily_Action_2026-07-15.md) | DeepSeek 可执行任务 |
+| [🔥 今日焦点](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/04_Daily_Focus.md) | Top 3 任务 |
+| [📊 系统诊断](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/00_Diagnostic_Report.md) | 知识库健康检查 |
+| [🚀 升级蓝图](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/10_Paradigm_Upgrade_Blueprint.md) | 五层智能体 |
+| [🧬 成果全景](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/TCC_iNEST_成果全景.md) | 论文/专利/专著 |
+| [📘 TCC 主索引](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/TCC_Master_Index.md) | TCC 导航 |
+| [📗 iNEST 主索引](http://127.0.0.1:8899/home/work/.openclaw/workspace/40_iNEST/iNEST_Master_Index.md) | iNEST 导航 |
+
+---
+
+> 📌 *数据来自统一数据总线 `data.json` · 刷新页面获取最新数值*
+
+<script>
+(async function(){
+  try{
+    const r=await fetch('/home/work/.openclaw/workspace/70_Dashboard/data.json');
+    if(!r.ok)return;
+    const d=await r.json();
+    document.querySelectorAll('.vault-date').forEach(e=>e.textContent=d.date||'');
+    document.querySelectorAll('.vault-count').forEach(e=>{
+      const m={tcc:d.vault?.tcc_total,inest:d.vault?.inest_total,papers:d.output?.papers,patents:d.output?.patents,inbox:d.inbox?.pending,total:d.vault?.total_md};
+      if(m[e.dataset.key]!==undefined)e.textContent=m[e.dataset.key];
+    });
+  }catch(e){}
+})();
+</script>
