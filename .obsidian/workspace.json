@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "00_论文总清单",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Output/51_Papers/00_论文总清单.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_论文总清单\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":12.30859375}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50_Output/51_Papers/00_论文总清单.md",
+                "file": "50_Output/52_Patents/00_专利布局总览.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00_论文总清单"
+              "title": "00_专利布局总览"
             }
           }
         ]
@@ -349,6 +355,7 @@
   },
   "active": "135d4c961d817daa",
   "lastOpenFiles": [
+    "50_Output/51_Papers/00_论文总清单.md",
     "50_Output/51_Papers/论文A_B7_Route-Transform_ASPLOS27_Full.md",
     "60_MOC/02_DeepSeek_Insights.md",
     "50_Output/51_Papers/B7_TCC_OneFabric_论文计划.md",
@@ -374,7 +381,6 @@
     "40_iNEST/41_Theory/2026-07-02-2607.00892.md",
     "40_iNEST/41_Theory/2026-07-01-2606.31789.md",
     "40_iNEST/41_Theory/2026-07-01-2606.31588.md",
-    "40_iNEST/41_Theory/2026-07-01-2606.30676.md",
     "90_System/scripts/refresh_dashboard.py",
     "80_Archive/deprecated_naming_conventions",
     "20_Processing/getnote_external",
