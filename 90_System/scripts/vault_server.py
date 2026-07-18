@@ -17,7 +17,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                     with open(fp, "r", encoding="utf-8", errors="ignore") as f:
                         md = f.read()
                     import markdown
-                    html = markdown.markdown(md, extensions=["fenced_code", "tables", "codehilite"])
+                    html = markdown.markdown(md, extensions=["fenced_code", "tables"])
                     body = (
                         '<!DOCTYPE html><html><head><meta charset=utf-8>'
                         '<style>body{font-family:Segoe UI,sans-serif;max-width:900px;margin:40px auto;'
@@ -28,7 +28,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                     )
                     self.send_response(200)
                     self.send_header("Content-Type", "text/html; charset=utf-8")
-                    self.send_header("Cache-Control", "no-cache, no-store, must-revalidate")
+                    self.send_header("Cache-Control", "no-cache")
                     self.send_header("Content-Length", str(len(body.encode("utf-8"))))
                     self.end_headers()
                     self.wfile.write(body.encode("utf-8"))

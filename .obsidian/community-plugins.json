@@ -3,7 +3,6 @@
   "dataview",
   "obsidian-tasks-plugin",
   "omnisearch",
-  "chinese-calendar",
   "templater-obsidian",
   "homepage",
   "realclaudian",
@@ -15,5 +14,7 @@
   "unofficial-fabric-integration",
   "calendar",
   "pane-relief",
-  "notebook-navigator"
+  "notebook-navigator",
+  "obsidian-clipper",
+  "periodic-para"
 ]

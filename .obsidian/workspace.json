@@ -124,9 +124,28 @@
               "icon": "notebook-navigator",
               "title": "笔记本导航器"
             }
+          },
+          {
+            "id": "4e5cace9b28e3039",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "periodic-para",
+              "state": {},
+              "icon": "file-plus",
+              "title": "LifeOS"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -329,11 +348,15 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "unofficial-fabric-integration:Fabric": false,
       "notebook-navigator:笔记本导航器": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "periodic-para:LifeOS Creation": false,
+      "periodic-para:Sync Memos": false
     }
   },
-  "active": "a809b3f6acea7df0",
+  "active": "4e5cace9b28e3039",
   "lastOpenFiles": [
+    "60_MOC/weekly_health_20260718.md",
+    "90_System/scripts/weekly_health_check.py",
     "90_System/scripts/daily_generator.py",
     "logs/pipeline_20260718_1515.json",
     "logs/pipeline_20260718_0825.json",
@@ -368,8 +391,6 @@
     "20_Processing/getnote_external",
     "90_System/scripts/ncc_to_tcc.py",
     "90_System/scripts/paper_classifier.py",
-    "90_System/scripts/task_planner.py",
-    "50_Output/51_Papers/paper_versions.json",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/font_atlas.png",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/blue_noise_med.png",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/ui-icons/sidebar.svg",
