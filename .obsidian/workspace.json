@@ -334,6 +334,8 @@
   },
   "active": "a809b3f6acea7df0",
   "lastOpenFiles": [
+    "90_System/scripts/daily_generator.py",
+    "logs/pipeline_20260718_1515.json",
     "logs/pipeline_20260718_0825.json",
     "00_Inbox/_pipeline_insights/_oa_seen.json",
     "00_Inbox/_pipeline_insights/2026-07-18_OA_Recent Advances in Generative AI for Healthcare Applications.md",
@@ -368,8 +370,6 @@
     "90_System/scripts/paper_classifier.py",
     "90_System/scripts/task_planner.py",
     "50_Output/51_Papers/paper_versions.json",
-    "90_System/scripts/paper_version_tracker.py",
-    "90_System/scripts/paper_dedup_scan.py",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/font_atlas.png",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/blue_noise_med.png",
     "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/ui-icons/sidebar.svg",

@@ -5,7 +5,7 @@ cssclass: dashboard
 # 🧬 TCC + iNEST 研发中枢
 
 > **知识库**: <span class="vault-count" data-key="total">3879</span> 篇 | **TCC**: <span class="vault-count" data-key="tcc">1981</span> | **iNEST**: <span class="vault-count" data-key="inest">1330</span>
-> **更新**: <span class="vault-date">2026-07-15</span> | **Inbox**: <span class="vault-count" data-key="inbox">12</span>
+> **更新**: <span class="vault-date">2026-07-18</span> | **Inbox**: <span class="vault-count" data-key="inbox">12</span>
 > **论文**: <span class="vault-count" data-key="papers">158</span> | **专利**: <span class="vault-count" data-key="patents">37</span>
 
 ---
@@ -14,7 +14,7 @@ cssclass: dashboard
 
 | 操作 | 链接 |
 |------|------|
-| 🤖 今日行动洞察 | [03_Daily_Action](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/03_Daily_Action_2026-07-15.md) |
+| 🤖 今日行动洞察 | [03_Daily_Action](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/03_Daily_Action.md) |
 | 📊 完整研发看板 | [Dashboard](http://127.0.0.1:8899/home/work/.openclaw/workspace/70_Dashboard/index.html) |
 | 🔥 今日焦点任务 | [04_Daily_Focus](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/04_Daily_Focus.md) |
 | 📥 Inbox 待处理 | [10_Inbox](http://127.0.0.1:8899/home/work/.openclaw/workspace/10_Inbox/) |
@@ -75,7 +75,7 @@ cssclass: dashboard
 
 | 入口 | 说明 |
 |------|------|
-| [🤖 今日行动洞察](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/03_Daily_Action_2026-07-15.md) | DeepSeek 可执行任务 |
+| [🤖 今日行动洞察](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/03_Daily_Action.md) | DeepSeek 可执行任务 |
 | [🔥 今日焦点](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/04_Daily_Focus.md) | Top 3 任务 |
 | [📊 系统诊断](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/00_Diagnostic_Report.md) | 知识库健康检查 |
 | [🚀 升级蓝图](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/10_Paradigm_Upgrade_Blueprint.md) | 五层智能体 |

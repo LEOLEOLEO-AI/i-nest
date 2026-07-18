@@ -1,45 +1,27 @@
-# DeepSeek 每日行动洞察 — 2026-07-15
+# 每日行动洞察 — 2026-07-18
 
-## 🔥 今日3个最重要行动
+> 自动生成于 15:38 | 管线论文: 63 篇 | 知识图谱: 5463节点/8767边
 
-**1. 推进V29仿真验证“竞争性修剪规则”在模块化涌现中的鲁棒性** — 关联文件：exp4_summary.md, V29_Simulation_Advancement_Plan.md — 预期产出：V29仿真初始参数配置与第一轮运行日志
+## 今日入库论文要点
 
-**2. 整合“自指”理论为TCC论文核心框架中的涌现机制解释层** — 关联文件：自指_-_集智百科.md, 网络时空复杂度驱动的晶圆级异构集成具身智能涌现.md — 预期产出：论文“自指涌现”章节大纲初稿（300字）
+### TCC 相关
+- **Recent progress in alternative metals for advanced interconnects** → [查看](http://127.0.0.1:8899/home/work/.openclaw/workspace/00_Inbox/_pipeline_insights/2026-07-18_OA_Recent%20progress%20in%20alternative%20metals%20for%20advanced%20interconnects.md)
+- **Epoxy molding compound encapsulation process in IC packaging: a review at wafer ** → [查看](http://127.0.0.1:8899/home/work/.openclaw/workspace/00_Inbox/_pipeline_insights/2026-07-18_OA_Epoxy%20molding%20compound%20encapsulation%20process%20in%20IC%20packaging%20a%20review%20at%20wafer%20a.md)
 
-**3. 基于Google Virgo网络架构分析，提炼Chiplet互连拓扑优化策略** — 关联文件：2026-05-03_待办_Google Virgo Network.md, Chiplet研讨会.md — 预期产出：一份“Chiplet互连拓扑与Virgo网络对齐”的技术备忘录
+### iNEST 相关
+- **Very-large-scale mimetic optogenetic synapses for physical reservoir computing** → [查看](http://127.0.0.1:8899/home/work/.openclaw/workspace/00_Inbox/_pipeline_insights/2026-07-18_OA_Very-large-scale%20mimetic%20optogenetic%20synapses%20for%20physical%20reservoir%20computing.md)
+- **Vascularised Brain Organoids: Engineering Strategies and Neurobiological Applica** → [查看](http://127.0.0.1:8899/home/work/.openclaw/workspace/00_Inbox/_pipeline_insights/2026-07-18_OA_Vascularised%20Brain%20Organoids%20Engineering%20Strategies%20and%20Neurobiological%20Applicat.md)
+- **The digital sphinx: Can a worm brain control a fly body?** → [查看](http://127.0.0.1:8899/home/work/.openclaw/workspace/00_Inbox/_pipeline_insights/2026-07-18_OA_The%20digital%20sphinx%20Can%20a%20worm%20brain%20control%20a%20fly%20body.md)
+- **Synaptic Plasticity Engineering for Neural Precision, Temporal Learning, and Sca** → [查看](http://127.0.0.1:8899/home/work/.openclaw/workspace/00_Inbox/_pipeline_insights/2026-07-18_OA_Synaptic%20Plasticity%20Engineering%20for%20Neural%20Precision%2C%20Temporal%20Learning%2C%20and%20Sca.md)
+- **Spiking neural networks with fatigue spike-timing-dependent plasticity learning ** → [查看](http://127.0.0.1:8899/home/work/.openclaw/workspace/00_Inbox/_pipeline_insights/2026-07-18_OA_Spiking%20neural%20networks%20with%20fatigue%20spike-timing-dependent%20plasticity%20learning%20.md)
 
-## 📄 论文推进建议
+## 今日推荐行动
 
-1. **优先完成“自指涌现”章节**：将集智百科的自指理论与V29仿真中的模块化涌现结果关联，形成理论-实验闭环，建议本周内完成初稿。
+1. **审阅今日入库论文** — 重点阅读 TCC/iNEST 高相关文献，提炼可借鉴方法
+2. **更新研发看板灵感** — 将论文中的新思路迭代到研发路线图
+3. **CST 论文推进** — 继续修订 Section 4 仿真数据，目标 7月30日投稿
+4. **专利修订** — TCC 架构与实现两项专利，7月30日前申报
+5. **Git 同步检查** — 确认今日变更已推送到 GitHub/Gitee
 
-2. **引用美国AI研发战略计划（2023）**：在论文引言部分引用该计划中关于“自演化系统”的优先领域描述，增强论文的政策契合度与影响力。
-
-3. **准备“晶圆级异构集成具身智能”作为独立短论文**：基于现有理论文件，提炼核心创新点，投递至系统架构类会议（如ISCA或MICRO），抢占概念先机。
-
-## 💡 新灵感速递
-
-1. **自指作为Chiplet间通信的元协议**：将自指概念直接映射为Chiplet间动态路由协议——每个Chiplet可“自描述”其计算状态，从而在运行时自适应调整互连拓扑，实现类似生物神经网络的涌现式通信。
-
-2. **“奥本海默时刻”作为TCC论文的叙事框架**：借鉴胡延平提出的9个奥本海默时刻，在论文中设立“TCC的奥本海默时刻”章节，列举从理论突破到工程落地的关键转折点，增强论文的故事性与传播力。
-
-3. **端侧NPU与自指理论的结合**：高通端侧生成式AI的NPU创新表明，轻量级自指机制可在边缘设备上实现局部涌现智能，可作为TCC在端侧落地的验证场景。
-
-## 🏷️ 专利布局建议
-
-1. **自指驱动的Chiplet间动态拓扑重构方法**：基于自指理论，设计一种Chiplet在运行时自我描述计算负载并动态调整互连拓扑的机制，保护核心算法与硬件实现。
-
-2. **基于竞争性修剪的模块化涌现验证系统**：将仿真中的竞争性修剪规则固化为一种“涌现验证IP”，可用于Chiplet设计阶段的模块化测试，形成方法专利。
-
-## ⚙️ 仿真/开发建议
-
-1. **在V29仿真中引入“自指度”量化指标**：定义每个SDI单元的自指程度（如内部状态引用次数/总状态数），观察自指度与模块化涌现效率的相关性，为理论提供定量支撑。
-
-2. **开发Chiplet互连拓扑的Virgo网络模拟插件**：在sdi_sim框架中增加一个“Virgo拓扑层”，模拟Google Virgo的网络特性（如超大规模路由、拥塞控制），验证TCC架构在数据中心场景下的性能。
-
-## 📋 明日计划草案
-
-1. 启动V29仿真第一轮运行，记录初始涌现模式
-2. 完成“自指涌现”论文章节大纲初稿
-3. 撰写Chiplet互连拓扑与Virgo网络对齐的技术备忘录
-4. 整理专利交底书初稿（自指驱动拓扑重构）
-5. 召开30分钟TCC核心团队会议，同步V29进展与论文写作进度
+---
+*管线 v3.4 运行耗时: 698s*

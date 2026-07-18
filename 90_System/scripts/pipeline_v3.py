@@ -845,6 +845,15 @@ def main():
     # 闂冭埖顔?: 閻儴鐦戦崶鎹愭皑
     snapshot = generate_genspark_snapshot()
     nodes, edges, missing = scan_and_build_graph()
+    # Stage 4: Generate daily content files
+    try:
+        import subprocess
+        gen_script = str(VAULT / '90_System' / 'scripts' / 'daily_generator.py')
+        subprocess.run([sys.executable, gen_script], capture_output=True, text=True, timeout=120, cwd=str(VAULT))
+        log('[DailyGen] Daily_Action + Focus + Insights generated')
+    except Exception as e:
+        log(f'[DailyGen] Error: {e}')
+
     # Stage 5: Push insights to dashboard
     try:
         import subprocess
