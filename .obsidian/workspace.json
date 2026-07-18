@@ -299,9 +299,28 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "0a95bb4cb2d658f7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "fabric-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Fabric"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -332,7 +351,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2071ee320dad11f3",
+  "active": "0a95bb4cb2d658f7",
   "lastOpenFiles": [
     "50_Output/52_Patents/00_专利布局总览.md",
     "MEMORY.md",

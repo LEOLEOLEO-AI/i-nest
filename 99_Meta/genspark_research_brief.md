@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-07-17
-date: 2026-07-17
+title: iNEST+TCC Research Brief - 2026-07-18
+date: 2026-07-18
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-07-17
+# iNEST + TCC Research Brief - 2026-07-18
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,17 +33,33 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-(Inbox empty)
+- [2026-07-18] **2026-07-18_OA_Recent Advances in Generative AI for Healthcare Applications** (_pipeline_insights)
+- [2026-07-18] **2026-07-18_OA_Digital twins in oncology From predictive modelling to personalise** (_pipeline_insights)
+- [2026-07-18] **2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application,** (_pipeline_insights)
+- [2026-07-18] **2026-07-18_OA_Advanced Graph Neural Networks for Smart Mining A Systematic Liter** (_pipeline_insights)
+- [2026-07-18] **2026-07-18_OA_Graph machine learning for flight delay prediction due to holding ** (_pipeline_insights)
+- [2026-07-18] **2026-07-18_OA_Rumor propagation on hypergraphs** (_pipeline_insights)
+- [2026-07-18] **2026-07-18_OA_Reducibility of higher-order networks from dynamics** (_pipeline_insights)
+- [2026-07-18] **2026-07-18_OA_Quantum Convolutional Neural Networks are Effectively Classically ** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 5397
-Graph nodes: 0 | edges: 0
+Total notes: 5463
+Graph nodes: 5398 | edges: 8767
 
+Top connected topics:
+- **00_iNEST_全景知识图谱** (degree=1182)
+- **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=394)
+- **TCC_iNEST_成果全景** (degree=291)
+- **00_研究资料导航** (degree=194)
+- **2025年AI与HPC网络加速芯片技术对比** (degree=85)
+- **INDEX** (degree=62)
+- **INDEX** (degree=62)
+- **getnote_20260429_【iNEST知识库】TCC_Core_Concepts** (degree=52)
 
 ## 6. Innovation Brief (latest)
 
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-07-17 10:39*
+*Research brief auto-generated 2026-07-18 08:24*
