@@ -20,13 +20,84 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "50_Output/52_Patents/00_专利布局总览.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "00_专利布局总览"
+            }
+          },
+          {
+            "id": "ee2b1f7a688b39da",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "6b3f428ba5692e58",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/03_Daily_Action.md",
+                "title": "127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/03_Daily_Action.md",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/03_Daily_Action.md"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -324,10 +395,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 576.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "periodic-para:LifeOS 创建": false,
       "markitdown:Convert to Markdown": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -348,13 +421,14 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "unofficial-fabric-integration:Fabric": false,
       "notebook-navigator:笔记本导航器": false,
-      "homepage:Open homepage": false,
-      "periodic-para:LifeOS Creation": false,
-      "periodic-para:Sync Memos": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "4e5cace9b28e3039",
+  "active": "6b3f428ba5692e58",
   "lastOpenFiles": [
+    "Home.md",
+    "50_Output/52_Patents/00_专利布局总览.md",
+    "60_MOC/weekly_health_20260719.md",
     "60_MOC/weekly_health_20260718.md",
     "90_System/scripts/weekly_health_check.py",
     "90_System/scripts/daily_generator.py",
@@ -383,9 +457,6 @@
     "00_Inbox/_pipeline_insights/2026-07-18_OA_Bio-Inspired Spike-Timing-Dependent Plasticity Learning with Metal Halide Perovs.md",
     "00_Inbox/_pipeline_insights/2026-07-18_OA_Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimiz.md",
     "00_Inbox/_pipeline_insights/2026-07-18_OA_Bias in Large Language Models Origin, Evaluation, and Mitigation.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Gut microbiome–driven colorectal cancer via immune, metabolic, neural, and endoc.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Design of an Intelligent Inspection System for Power Equipment Based on Multi-Te.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Large Models for Time Series and Spatio-Temporal Data A Survey and Outlook.md",
     "90_System/scripts/refresh_dashboard.py",
     "80_Archive/deprecated_naming_conventions",
     "20_Processing/getnote_external",

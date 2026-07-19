@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-07-18
-date: 2026-07-18
+title: iNEST+TCC Research Brief - 2026-07-19
+date: 2026-07-19
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-07-18
+# iNEST + TCC Research Brief - 2026-07-19
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -44,7 +44,7 @@ target: genspark
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 5463
+Total notes: 5465
 Graph nodes: 5463 | edges: 8767
 
 Top connected topics:
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-07-18 15:14*
+*Research brief auto-generated 2026-07-19 08:20*
