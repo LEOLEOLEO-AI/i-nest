@@ -19,6 +19,10 @@ cssclass: dashboard
 
 **今天先做什么：**打开[今日行动洞察](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/03_Daily_Action.md)，按重要性和紧迫性执行；完成后把证据链接回写到论文、专利或仿真记录。
 
+## 实时工作摘要
+
+<div id="live-work-summary">正在读取知识库当前任务与管线状态...</div>
+
 ## 研发总入口
 
 | 决策入口 | 解决的问题 | 更新节奏 |
@@ -107,6 +111,15 @@ cssclass: dashboard
       const value=values[e.dataset.key];
       if(value!==undefined)e.textContent=value;
     });
+
+    const script=await fetch('/home/work/.openclaw/workspace/70_Dashboard/data.js?ts='+Date.now()).then(function(x){return x.text()});
+    const match=script.match(/window\.RESEARCH_DASHBOARD\s*=\s*(\{[\s\S]*\});\s*$/);
+    if(!match)return;
+    const live=JSON.parse(match[1]);
+    const plan=(live.plan||[]).slice(0,5).map(function(item){return '<li><strong>'+item.track+'</strong> · '+item.text+'</li>'}).join('');
+    const progress=(live.progress||[]).slice(0,3).map(function(item){return '<li>'+item.date+' · '+item.summary+'</li>'}).join('');
+    document.getElementById('live-work-summary').innerHTML=
+      '<h3>今日计划</h3><ol>'+plan+'</ol><h3>近三日进展</h3><ul>'+progress+'</ul>';
   }catch(e){}
 })();
 </script>

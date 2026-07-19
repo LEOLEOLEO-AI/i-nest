@@ -32,15 +32,15 @@
 </main>
 <script>
 (function(){
-  var d=window.DASHBOARD_DATA||{};
-  var counts=d.counts||{};
+  var d=window.RESEARCH_DASHBOARD||{};
+  var state=d.state||{};
   var esc=function(v){return String(v==null?"":v).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})};
   var dim=function(v){return v==="TCC"?'tcc':v==="iNEST"?'inest':''};
-  document.getElementById('date').textContent='数据更新：'+esc(d.date||new Date().toISOString().slice(0,10));
-  document.getElementById('metrics').innerHTML=[['total_md','知识库'],['tcc','TCC资料'],['inest','iNEST资料'],['inbox','今日待处理'],['outputs','成果区']].map(function(x){return '<div class="metric"><span>'+x[1]+'</span><b>'+esc(counts[x[0]]||0)+'</b></div>'}).join('');
-  var plans=d.plan||[];document.getElementById('plan').innerHTML=plans.length?plans.map(function(x){return '<div class="plan"><i class="dot '+dim(x.dim)+'"></i><div>'+esc(x.text)+'<div class="label">'+esc(x.dim||'System')+'</div></div></div>'}).join(''):'<div class="kicker">今日暂无计划</div>';
-  var progress=d.recent_progress||[];document.getElementById('progress').innerHTML=progress.map(function(x,i){return '<div class="progress"><strong>'+(i===0?'今天':i===1?'昨天':'前天')+' · '+esc(x.date)+'</strong><br><span class="label">'+esc(x.summary)+'</span></div>'}).join('');
-  var groups=[['tcc_insights','TCC','tcc'],['inest_insights','iNEST','inest']];document.getElementById('insights').innerHTML=groups.map(function(g){var items=(d[g[0]]||[]);return '<div class="insight"><h4 class="'+g[2]+'">'+g[1]+' 方向</h4>'+(items.length?items.slice(0,5).map(function(x){return '<p><strong>'+esc(x.title)+'</strong><br>'+esc(x.insight)+' <span class="label">['+esc(x.source)+']</span></p>'}).join(''):'<p>暂无高相关洞察</p>')+'</div>'}).join('');
+  document.getElementById('date').textContent='数据更新：'+esc(d.generated_at||d.date||new Date().toISOString().slice(0,10));
+  document.getElementById('metrics').innerHTML=[['total_notes','知识库'],['tcc_notes','TCC资料'],['inest_notes','iNEST资料'],['pending_papers','待处理论文'],['outputs','成果区']].map(function(x){return '<div class="metric"><span>'+x[1]+'</span><b>'+esc(state[x[0]]||0)+'</b></div>'}).join('');
+  var plans=d.plan||[];document.getElementById('plan').innerHTML=plans.length?plans.map(function(x){return '<div class="plan"><i class="dot '+dim(x.track)+'"></i><div>'+esc(x.text)+'<div class="label">'+esc(x.track||'System')+' · '+esc(x.source||'知识库任务')+'</div></div></div>'}).join(''):'<div class="kicker">今日暂无计划</div>';
+  var progress=d.progress||[];document.getElementById('progress').innerHTML=progress.map(function(x,i){return '<div class="progress"><strong>'+(i===0?'今天':i===1?'昨天':'前天')+' · '+esc(x.date)+'</strong><br><span class="label">'+esc(x.summary)+'</span></div>'}).join('');
+  var groups=[['TCC','TCC','tcc'],['iNEST','iNEST','inest']];var all=d.insights||{};document.getElementById('insights').innerHTML=groups.map(function(g){var items=(all[g[0]]||[]);return '<div class="insight"><h4 class="'+g[2]+'">'+g[1]+' 方向</h4>'+(items.length?items.slice(0,5).map(function(x){return '<p><strong>'+esc(x.title)+'</strong><br>'+esc(x.summary)+' <span class="label">['+esc(x.source)+']</span></p>'}).join(''):'<p>暂无高相关洞察</p>')+'</div>'}).join('');
 })();
 </script>
 </body>

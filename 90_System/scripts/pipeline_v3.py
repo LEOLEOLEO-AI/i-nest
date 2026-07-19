@@ -891,16 +891,6 @@ def main():
     except Exception as e:
         log(f'[DailyGen] Error: {e}')
 
-    # Stage 5: Push insights to dashboard
-    try:
-        import subprocess
-        dash_script = str(VAULT / '90_System' / 'scripts' / 'dashboard_data_v3.py')
-        subprocess.run([sys.executable, dash_script], capture_output=True, text=True, timeout=300, cwd=str(VAULT))
-        log("[Dashboard] Updating kanban...")
-    except Exception as e:
-        log(f"[Dashboard] Error: {e}")
-
-    
     elapsed = time.time() - start
     print(f"\n{'='*60}")
     print(f"  Pipeline v3.3 Complete")
@@ -909,6 +899,18 @@ def main():
     print(f"  Elapsed: {elapsed:.0f}s")
     print(f"{'='*60}")
     
+    # Persist this run before publishing any state-dependent view.
+    log_data = {
+        "date": datetime.now().isoformat(),
+        "new_papers": new_count, "api_results": c1+c2+c3,
+        "classified": processed,
+        "graph_nodes": nodes, "graph_edges": edges,
+        "elapsed_s": round(elapsed, 1),
+        "genspark_snapshot": snapshot
+    }
+    with open(LOG_DIR / f"pipeline_{datetime.now().strftime('%Y%m%d_%H%M')}.json", "w", encoding="utf-8") as f:
+        json.dump(log_data, f, indent=2)
+
     # Generate unified research state
     try:
         state_script = str(SCRIPT_DIR / "state_generator.py")
@@ -927,17 +929,13 @@ def main():
     except Exception as e:
         log(f"[Evolution] Warning: {e}")
 
-    # Log
-    log_data = {
-        "date": datetime.now().isoformat(),
-        "new_papers": new_count, "api_results": c1+c2+c3,
-        "classified": processed,
-        "graph_nodes": nodes, "graph_edges": edges,
-        "elapsed_s": round(elapsed, 1),
-        "genspark_snapshot": snapshot
-    }
-    with open(LOG_DIR / f"pipeline_{datetime.now().strftime('%Y%m%d_%H%M')}.json", "w", encoding="utf-8") as f:
-        json.dump(log_data, f, indent=2)
+    # Publish live dashboard data after all state-producing stages complete.
+    try:
+        publisher = str(SCRIPT_DIR / "research_publisher.py")
+        subprocess.run([sys.executable, publisher], capture_output=True, text=True, timeout=60, cwd=str(VAULT))
+        log("[Dashboard] Live dashboard published")
+    except Exception as e:
+        log(f"[Dashboard] Publish warning: {e}")
 
 if __name__ == "__main__":
     main()
