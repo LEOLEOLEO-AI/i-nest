@@ -158,16 +158,23 @@ def is_target_relevant(title, abstract, track):
     text = f"{title} {abstract}".lower()
     tcc_terms = (
         "network-on-chip", "noc", "chiplet", "wafer-scale", "wafer scale",
-        "interconnect", "topology", "routing", "3d-ic", "3d ic",
-        "silicon interposer", "photonic interconnect"
+        "interconnect", "routing", "3d-ic", "3d ic", "silicon interposer",
+        "photonic interconnect"
     )
     inest_terms = (
         "neuromorphic", "spiking neural", "spiking", "neural network",
         "self-organized criticality", "self-organised criticality", "criticality",
         "emergence", "emergent", "reservoir computing", "memristor", "synaptic"
     )
-    terms = tcc_terms if track == "TCC" else inest_terms if track == "iNEST" else tcc_terms + inest_terms
-    return any(term in text for term in terms)
+    tcc_context = ("computing", "computer", "network", "interconnect", "routing", "chip", "architecture", "hardware")
+    tcc_match = any(term in text for term in tcc_terms)
+    tcc_topology_match = "topology" in text and any(term in text for term in tcc_context)
+    inest_match = any(term in text for term in inest_terms)
+    if track == "TCC":
+        return tcc_match or tcc_topology_match
+    if track == "iNEST":
+        return inest_match
+    return tcc_match or tcc_topology_match or inest_match
 
 def generate_deep_insight(title, text, detail):
     """LLM-powered deep TCC/iNEST insight generation."""
