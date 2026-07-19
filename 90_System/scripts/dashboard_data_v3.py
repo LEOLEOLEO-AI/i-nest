@@ -11,6 +11,7 @@ DASHBOARD_DIR = VAULT / '70_Dashboard'
 DASHBOARD_DIR.mkdir(parents=True, exist_ok=True)
 DASHBOARD_JS = DASHBOARD_DIR / 'data.js'
 META = VAULT / '99_Meta'
+MOC = VAULT / '60_MOC'
 INBOX = VAULT / '00_Inbox'
 LOG_DIR = VAULT / 'logs'
 TODAY = datetime.now().strftime('%Y-%m-%d')
@@ -97,6 +98,63 @@ def load_state_counts():
     state_file = META / 'research_state.json'
     if not state_file.exists():
         return {}
+
+def classify_plan_dimension(text):
+    """Assign a dashboard lane without changing the source task text."""
+    value = text.lower()
+    has_tcc = any(k in value for k in ('tcc', 'p-paradigm', '拓扑', '互连', '专利'))
+    has_inest = any(k in value for k in ('inest', 'cst', 'snn', '涌现', '神经', '临界'))
+    if has_tcc and has_inest:
+        return 'TCC+iNEST'
+    if has_tcc:
+        return 'TCC'
+    if has_inest:
+        return 'iNEST'
+    return 'System'
+
+def clean_plan_text(text):
+    """Convert markdown task text into compact dashboard text."""
+    text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
+    text = re.sub(r'[*`_]', '', text)
+    return re.sub(r'\s+', ' ', text).strip(' -:')
+
+def extract_source_plan(path, section_markers):
+    """Extract numbered tasks from a current daily markdown file."""
+    if not path.exists():
+        return []
+    try:
+        lines = path.read_text(encoding='utf-8', errors='replace').splitlines()
+    except OSError:
+        return []
+    active = False
+    tasks = []
+    for line in lines:
+        stripped = line.strip()
+        if stripped.startswith('#'):
+            active = any(marker.lower() in stripped.lower() for marker in section_markers)
+            if active:
+                continue
+        if active:
+            match = re.match(r'^\d+[.)]\s+(.+)$', stripped)
+            if match:
+                task = clean_plan_text(match.group(1))
+                if task:
+                    tasks.append(task)
+    return tasks
+
+def generate_source_plan():
+    """Use today's action and focus files as the dashboard plan source."""
+    action = extract_source_plan(MOC / '03_Daily_Action.md', ('今日推荐行动', '今日行动'))
+    focus = extract_source_plan(MOC / '04_Daily_Focus.md', ('并行主线', '今日焦点'))
+    merged = []
+    seen = set()
+    for task in action + focus:
+        key = task.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        merged.append({'text': task, 'dot': 'ongoing' if len(merged) < 3 else 'plan', 'dim': classify_plan_dimension(task)})
+    return merged[:8]
     try:
         state = json.loads(state_file.read_text(encoding='utf-8'))
         vault = state.get('vault', {})
@@ -155,7 +213,7 @@ def main():
     papers = scan_insights()
     high = [p for p in papers if p['score'] >= 3]
     tcc_ins, inest_ins = generate_insights(papers)
-    plan = generate_operational_plan(papers)
+    plan = generate_source_plan() or generate_operational_plan(papers)
     progress = generate_operational_progress()
     counts = load_state_counts()
     
