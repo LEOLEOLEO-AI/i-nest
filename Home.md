@@ -5,7 +5,7 @@ cssclass: dashboard
 # 🧬 TCC + iNEST 研发中枢
 
 > **知识库**: <span class="vault-count" data-key="total">3820</span> 篇 | **TCC**: <span class="vault-count" data-key="tcc">1876</span> | **iNEST**: <span class="vault-count" data-key="inest">1379</span>
-> **更新**: <span class="vault-date">2026-07-19</span> | **Inbox">63</span>
+> **更新**: <span class="vault-date">2026-07-19</span> | **Inbox**: <span class="vault-count" data-key="inbox">0</span>
 > **论文**: <span class="vault-count" data-key="papers">161</span> | **专利**: <span class="vault-count" data-key="patents">36</span>
 
 ---
@@ -17,7 +17,7 @@ cssclass: dashboard
 | 🤖 今日行动洞察 | [03_Daily_Action](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/03_Daily_Action.md) |
 | 📊 完整研发看板 | [Dashboard](http://127.0.0.1:8899/home/work/.openclaw/workspace/70_Dashboard/index.html) |
 | 🔥 今日焦点任务 | [04_Daily_Focus](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/04_Daily_Focus.md) |
-| 📥 Inbox">63_Inbox">63.0.0.1:8899/home/work/.openclaw/workspace/10_Inbox/) |
+| 📥 Inbox | [10_Inbox](http://127.0.0.1:8899/home/work/.openclaw/workspace/10_Inbox/) |
 | 🧬 系统诊断 | [00_Diagnostic_Report](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/00_Diagnostic_Report.md) |
 | 🚀 升级蓝图 | [10_Paradigm_Upgrade_Blueprint](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/10_Paradigm_Upgrade_Blueprint.md) |
 

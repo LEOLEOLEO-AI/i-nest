@@ -122,6 +122,18 @@ def update_evolution_queue():
     recent_runs = pipeline.get("recent_runs", [])
     
     items = []
+
+    # Close stale pipeline alarms once a run produces papers again.
+    successful_run = any(
+        (r.get("new_papers", 0) or r.get("api_results", 0)) > 0
+        for r in recent_runs[:3]
+    )
+    if successful_run:
+        for existing in queue.get("items", []):
+            if existing.get("type") == "pipeline_fix" and existing.get("status") == "pending":
+                existing["status"] = "resolved"
+                existing["resolved_at"] = datetime.now().isoformat()
+                existing["resolution"] = "A recent run ingested papers successfully; network and relevance gates are working."
     
     # Check for 0-paper runs
     zero_runs = [r for r in recent_runs if r.get("new_papers", 0) == 0]
@@ -130,8 +142,8 @@ def update_evolution_queue():
             "id": f"EV-{TODAY}-001",
             "priority": "high",
             "type": "pipeline_fix",
-            "title": "持续性0论文入库: API连通性检查",
-            "detail": f"最近{len(zero_runs)}次运行均0篇新论文",
+            "title": "Pipeline zero-paper alert: API connectivity check",
+            "detail": f"Recent runs with zero new papers: {len(zero_runs)}",
             "status": "pending"
         })
     
@@ -142,8 +154,8 @@ def update_evolution_queue():
             "id": f"EV-{TODAY}-002",
             "priority": "medium",
             "type": "git_hygiene",
-            "title": f"Git清理: {git['uncommitted']}个未提交变更",
-            "detail": "建议提交或清理未追踪变更",
+            "title": f"Git hygiene: {git['uncommitted']} uncommitted changes",
+            "detail": "Commit or review outstanding changes.",
             "status": "pending"
         })
     

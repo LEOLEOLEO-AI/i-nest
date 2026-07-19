@@ -11,11 +11,21 @@ from collections import defaultdict
 import urllib.request, urllib.parse, urllib.error
 import time
 import sys
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except AttributeError:
+    pass
 sys.path.insert(0, r"D:\\Obsidian\\scripts")
 
-# === Proxy Setup for arXiv / Google News access ===
-PROXY_URL = os.environ.get("HTTPS_PROXY", os.environ.get("https_proxy", "http://127.0.0.1:26318"))
-PROXY_HANDLER = urllib.request.ProxyHandler({"https": PROXY_URL, "http": PROXY_URL})
+# === Network setup ===
+# GKD runs as a system-wide VPN. Use direct urllib by default; only use an
+# explicit proxy when PIPELINE_PROXY_URL is provided for a non-global setup.
+PROXY_URL = os.environ.get("PIPELINE_PROXY_URL", "").strip()
+if PROXY_URL:
+    PROXY_HANDLER = urllib.request.ProxyHandler({"https": PROXY_URL, "http": PROXY_URL})
+else:
+    PROXY_HANDLER = urllib.request.ProxyHandler({})
 PROXY_OPENER = urllib.request.build_opener(PROXY_HANDLER)
 COMMON_UA = "Mozilla/5.0 (compatible; iNEST-Pipeline/3.4)"
 
@@ -26,6 +36,7 @@ import xml.etree.ElementTree as ET
 
 # 閳光偓閳光偓 Config 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+SCRIPT_DIR = Path(__file__).resolve().parent
 INBOX = VAULT / "00_Inbox" / "_pipeline_insights"
 INBOX.mkdir(parents=True, exist_ok=True)
 LOG_DIR = VAULT / "logs"
@@ -141,6 +152,22 @@ def is_new(title):
         return False
     seen_titles.add(key)
     return True
+
+def is_target_relevant(title, abstract, track):
+    """Reject broad-search noise before spending an LLM call."""
+    text = f"{title} {abstract}".lower()
+    tcc_terms = (
+        "network-on-chip", "noc", "chiplet", "wafer-scale", "wafer scale",
+        "interconnect", "topology", "routing", "3d-ic", "3d ic",
+        "silicon interposer", "photonic interconnect"
+    )
+    inest_terms = (
+        "neuromorphic", "spiking neural", "spiking", "neural network",
+        "self-organized criticality", "self-organised criticality", "criticality",
+        "emergence", "emergent", "reservoir computing", "memristor", "synaptic"
+    )
+    terms = tcc_terms if track == "TCC" else inest_terms if track == "iNEST" else tcc_terms + inest_terms
+    return any(term in text for term in terms)
 
 def generate_deep_insight(title, text, detail):
     """LLM-powered deep TCC/iNEST insight generation."""
@@ -391,8 +418,8 @@ def crawl_s2():
             time.sleep(S2_DELAY)
         except urllib.error.HTTPError as e:
             if e.code == 429:
-                log("  S2: 429 rate limited, pausing 30s...")
-                time.sleep(30)
+                log("  S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN")
+                return count
             elif e.code == 403:
                 log("  S2: 403 Forbidden, skipping S2.")
                 return count
@@ -415,7 +442,7 @@ def crawl_arxiv():
     for label, q in ARXIV_QUERIES:
         today = datetime.now().strftime("%Y%m%d")
         week_ago = (datetime.now() - timedelta(days=7)).strftime("%Y%m%d")
-        url = "https://export.arxiv.org/api/query?search_query=" + urllib.parse.quote(q) + "+AND+submittedDate:[" + week_ago + "+TO+" + today + "]&start=0&max_results=5&sortBy=submittedDate&sortOrder=descending"
+        url = "https://export.arxiv.org/api/query?search_query=" + urllib.parse.quote(q) + "+AND+submittedDate:[" + week_ago + "+TO+" + today + "]&start=0&max_results=3&sortBy=submittedDate&sortOrder=descending"
         req = urllib.request.Request(url, headers={"User-Agent": COMMON_UA})
         for attempt in range(3):
             try:
@@ -441,6 +468,9 @@ def crawl_arxiv():
                     except:
                         pass
                     track = "iNEST" if label.startswith("iNEST") else ("TCC" if label.startswith("TCC") else "General")
+                    if not is_target_relevant(title, abstract, track):
+                        log(f"  arXiv skip irrelevant: {title[:60]}")
+                        continue
                     if write_insight(title, abstract, link, "arXiv", track, pubdate[:4]):
                         count += 1
                 break
@@ -466,7 +496,7 @@ def crawl_arxiv():
                     log("  arXiv %s: %s, giving up" % (label, msg))
                     errors += 1
                     break
-        time.sleep(5)
+        time.sleep(2)
     log("[arXiv] %d new papers, %d errors across %d queries" % (count, errors, len(ARXIV_QUERIES)))
     return count
 def crawl_google_news():
@@ -849,7 +879,7 @@ def main():
     try:
         import subprocess
         gen_script = str(VAULT / '90_System' / 'scripts' / 'daily_generator.py')
-        subprocess.run([sys.executable, gen_script], capture_output=True, text=True, timeout=120, cwd=str(VAULT))
+        subprocess.run([sys.executable, gen_script], capture_output=True, text=True, timeout=900, cwd=str(VAULT))
         log('[DailyGen] Daily_Action + Focus + Insights generated')
     except Exception as e:
         log(f'[DailyGen] Error: {e}')
@@ -858,7 +888,7 @@ def main():
     try:
         import subprocess
         dash_script = str(VAULT / '90_System' / 'scripts' / 'dashboard_data_v3.py')
-        subprocess.run([sys.executable, dash_script], capture_output=True, text=True, timeout=120, cwd=str(VAULT))
+        subprocess.run([sys.executable, dash_script], capture_output=True, text=True, timeout=300, cwd=str(VAULT))
         log("[Dashboard] Updating kanban...")
     except Exception as e:
         log(f"[Dashboard] Error: {e}")

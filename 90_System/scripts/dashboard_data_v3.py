@@ -7,7 +7,9 @@ from datetime import datetime, timedelta
 
 VAULT = Path(r'D:\Obsidian\home\work\.openclaw\workspace')
 INSIGHTS_DIR = VAULT / '00_Inbox' / '_pipeline_insights'
-DASHBOARD_JS = VAULT / 'dashboard' / 'data.js'
+DASHBOARD_DIR = VAULT / '70_Dashboard'
+DASHBOARD_DIR.mkdir(parents=True, exist_ok=True)
+DASHBOARD_JS = DASHBOARD_DIR / 'data.js'
 META = VAULT / '99_Meta'
 INBOX = VAULT / '00_Inbox'
 TODAY = datetime.now().strftime('%Y-%m-%d')
@@ -24,9 +26,9 @@ def scan_insights():
         title_m = re.search(r'^# (.+)$', c, re.MULTILINE)
         title = title_m.group(1).strip() if title_m else f.stem
         source = 'S2' if '_S2_' in f.name else 'arXiv' if '_arXiv_' in f.name else 'GN'
-        tcc_m = re.search(r'## TCC 启示\n\n(.+?)(?:\n##)', c, re.DOTALL)
+        tcc_m = re.search(r'## (?:TCC Insights|TCC 价值|TCC 启示)\s*\n+(.+?)(?=\n##|\Z)', c, re.DOTALL | re.IGNORECASE)
         tcc = clean(tcc_m.group(1).strip()[:100]) if tcc_m else ''
-        inest_m = re.search(r'## iNEST 启示\n\n(.+?)(?:\n##)', c, re.DOTALL)
+        inest_m = re.search(r'## (?:iNEST Insights|iNEST 价值|iNEST 启示)\s*\n+(.+?)(?=\n##|\Z)', c, re.DOTALL | re.IGNORECASE)
         inest = clean(inest_m.group(1).strip()[:100]) if inest_m else ''
         papers.append({'title': title[:80], 'score': score, 'tcc': tcc, 'inest': inest, 'source': source})
     return papers

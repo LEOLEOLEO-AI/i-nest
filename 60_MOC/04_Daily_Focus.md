@@ -7,4 +7,13 @@
 3. [专利] TCC 架构 + 实现专利 — 申报
 4. [工程] CST 仿真实验 — SDI N=1024 相位扫描
 
-*生成于 2026-07-19 11:38*
+## 今日文献 (12 TCC + 8 iNEST)
+
+- [TCC] Stigmergic Graph Memory: An Environment-Aware Approach for Many-to-Man
+- [TCC] Steering dynamic network centrality via control theory
+- [TCC] Spatially multiplexed concentric discrete optical vortices: Complex to
+- [iNEST] Visual Place Recognition Using Rate-Encoded Spiking Neural Networks wi
+- [iNEST] Stochastic binary networks with asymmetric and time-delayed interactio
+- [iNEST] Scalable Training of Continuous-Time Spiking Neural Networks with Diff
+
+*生成于 2026-07-19 12:08*

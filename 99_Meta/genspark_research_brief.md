@@ -33,18 +33,18 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-07-19] **2026-07-18_OA_Vascularised Brain Organoids Engineering Strategies and Neurobiolo** (_pipeline_insights)
-- [2026-07-19] **2026-07-18_OA_Very-large-scale mimetic optogenetic synapses for physical reservo** (_pipeline_insights)
-- [2026-07-19] **2026-07-18_OA_Thermal management of 3-D heterogeneously integrated microelectron** (_pipeline_insights)
-- [2026-07-19] **2026-07-18_OA_Towards a framework for cross-boundary collaborative open learning** (_pipeline_insights)
-- [2026-07-19] **2026-07-18_OA_Unifying Heterogeneous and Monolithic Integration via Dual-sided 3** (_pipeline_insights)
-- [2026-07-19] **2026-07-18_OA_Synaptic Plasticity Engineering for Neural Precision, Temporal Lea** (_pipeline_insights)
-- [2026-07-19] **2026-07-18_OA_The digital sphinx Can a worm brain control a fly body** (_pipeline_insights)
-- [2026-07-19] **2026-07-18_OA_The TEXTAROSSA project Cool all the Way Down to the Hardware** (_pipeline_insights)
+- [2026-07-19] **2026-07-19_arXiv_A Reservoir Computing Approach to Quantum Gate Synthesis** (_pipeline_insights)
+- [2026-07-19] **2026-07-19_arXiv_General theory of monitored Quantum Reservoir Computing** (_pipeline_insights)
+- [2026-07-19] **2026-07-19_arXiv_Physical Reservoir Signal Acquisition for Sub-Nyquist Wavefo** (_pipeline_insights)
+- [2026-07-19] **2026-07-19_arXiv_Scalable Training of Continuous-Time Spiking Neural Networks** (_pipeline_insights)
+- [2026-07-19] **2026-07-19_arXiv_A Comparative Analysis of Ising Formulations for Neuromorphi** (_pipeline_insights)
+- [2026-07-19] **2026-07-19_arXiv_Visual Place Recognition Using Rate-Encoded Spiking Neural N** (_pipeline_insights)
+- [2026-07-19] **2026-07-19_arXiv_Dissipative phase transitions and chaos in two-photon driven** (_pipeline_insights)
+- [2026-07-19] **2026-07-19_arXiv_Stochastic binary networks with asymmetric and time-delayed ** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 5465
+Total notes: 5486
 Graph nodes: 5465 | edges: 8767
 
 Top connected topics:
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-07-19 11:38*
+*Research brief auto-generated 2026-07-19 12:05*
