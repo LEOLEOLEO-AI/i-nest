@@ -1,66 +1,20 @@
 {
-  "generated": "2026-07-15 17:19",
-  "date": "2026-07-15",
+  "generated": "2026-07-19 11:38",
+  "date": "2026-07-19",
   "counts": {
-    "total": 3816,
+    "total": 3820,
     "tcc": 1876,
     "inest": 1379,
     "inbox": 0,
-    "papers": 159,
+    "papers": 161,
     "patents": 36,
     "guides": 81,
     "code": 115
   },
-  "tcc_breakdown": {
-    "31_Theory": 504,
-    "32_Tech": 1134,
-    "33_Dev": 5,
-    "34_Projects": 131,
-    "35_Simulation": 64,
-    "39_Legacy_TCC": 35,
-    "Code": 0,
-    "Papers": 0
-  },
-  "inest_breakdown": {
-    "31_Theory": 0,
-    "32_Tech": 0,
-    "33_Dev": 0,
-    "34_Projects": 0,
-    "35_Simulation": 0,
-    "41_Theory": 843,
-    "42_Tech": 429,
-    "43_Dev": 0,
-    "43_Engineering": 20,
-    "44_Dev": 0,
-    "44_Projects": 41,
-    "45_Simulation": 41,
-    "Papers": 1
-  },
-  "tasks": [],
-  "key_links": {
-    "task_plan": "60_MOC/01_TCC_Baseline_Task_Plan.md",
-    "research_insights": "60_MOC/02_Research_Insights.md",
-    "baseline": "30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md",
-    "paper_index": "50_Output/51_Papers/00_Paper_Versions_Index.md",
-    "output_panorama": "60_MOC/TCC_iNEST_????.md",
-    "diagnostic": "60_MOC/00_Diagnostic_Report.md",
-    "upgrade_blueprint": "60_MOC/10_Paradigm_Upgrade_Blueprint.md"
-  },
-  "critical_tasks": [
-    {
-      "id": "T1.1a",
-      "name": "?????????????",
-      "deadline": "2026 Q3"
-    },
-    {
-      "id": "T2.1",
-      "name": "TCC????????",
-      "deadline": "2026 Q3"
-    },
-    {
-      "id": "M2",
-      "name": "???MVP (R.*+T.* RTL??)",
-      "deadline": "2027.06"
-    }
-  ]
+  "pipeline": {
+    "last_sync": "11:38",
+    "getnote_inbox": 0,
+    "processing": 63,
+    "archive": 0
+  }
 }

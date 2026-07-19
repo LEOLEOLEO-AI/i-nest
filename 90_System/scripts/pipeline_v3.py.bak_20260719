@@ -867,33 +867,15 @@ def main():
     elapsed = time.time() - start
     print(f"\n{'='*60}")
     print(f"  Pipeline v3.3 Complete")
-    print(f"  Sources: {c1}(S2)+{c2}(arXiv)+{c3}(GN) | Written: {new_count} new papers")
+    print(f"  Sources: {c1}(S2) + {c2}(arXiv) + {c3}(GN) = {c1+c2+c3}")
     print(f"  Processed: {processed} | Nodes: {nodes} edges: {edges} | Missing links: {missing} | Genspark: OK")
     print(f"  Elapsed: {elapsed:.0f}s")
     print(f"{'='*60}")
     
-    # Generate unified research state
-    try:
-        state_script = str(SCRIPT_DIR / "state_generator.py")
-        if os.path.exists(state_script):
-            subprocess.run([sys.executable, state_script], capture_output=True, timeout=30)
-            log("[State] research_state.json updated")
-    except Exception as e:
-        log(f"[State] Warning: {e}")
-
-    # Run self-evolution engine
-    try:
-        evo_script = str(SCRIPT_DIR / "evolution_engine_v2.py")
-        if os.path.exists(evo_script):
-            subprocess.run([sys.executable, evo_script], capture_output=True, timeout=30)
-            log("[Evolution] Evidence + hypotheses updated")
-    except Exception as e:
-        log(f"[Evolution] Warning: {e}")
-
     # Log
     log_data = {
         "date": datetime.now().isoformat(),
-        "new_papers": new_count, "api_results": c1+c2+c3,
+        "new_papers": c1+c2+c3,
         "classified": processed,
         "graph_nodes": nodes, "graph_edges": edges,
         "elapsed_s": round(elapsed, 1),

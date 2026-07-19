@@ -1,4 +1,4 @@
-import http.server, os, urllib.parse, mimetypes, sys, traceback, time
+﻿import http.server, os, urllib.parse, mimetypes, sys, traceback, time
 
 VAULT = r"D:\Obsidian"
 PORT = 8899
@@ -17,14 +17,14 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                     with open(fp, "r", encoding="utf-8", errors="ignore") as f:
                         md = f.read()
                     import markdown
-                    html = markdown.markdown(md, extensions=["fenced_code", "tables"])
+                    html = markdown.markdown(md, extensions=["fenced_code", "tables", "extra", "meta", "codehilite", "nl2br"])
                     body = (
                         '<!DOCTYPE html><html><head><meta charset=utf-8>'
                         '<style>body{font-family:Segoe UI,sans-serif;max-width:900px;margin:40px auto;'
                         'padding:0 20px;line-height:1.8}code{background:#f0f0f0;padding:2px 6px;'
                         'border-radius:4px}pre{background:#f5f5f5;padding:16px;border-radius:8px;'
                         'overflow-x:auto}table{border-collapse:collapse}th,td{border:1px solid #ddd;'
-                        'padding:8px}</style></head><body>' + html + '</body></html>'
+                        'padding:8px}</style>' + '<script>window.MathJax={tex:{inlineMath:[["$","$"],["\\(","\\)"]],displayMath:[["$$","$$"],["\\[","\\]"]]}};</script>' + '<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>' + '</head><body>' + html + '</body></html>'
                     )
                     self.send_response(200)
                     self.send_header("Content-Type", "text/html; charset=utf-8")

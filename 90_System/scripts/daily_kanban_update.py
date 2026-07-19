@@ -84,10 +84,20 @@ def update_kanban(today_str, progress, plan, dry_run=False):
     with open(KANBAN_PATH, "r", encoding="utf-8", errors="replace") as f:
         html = f.read()
     
+    # Auto-update DATA_VERSION for localStorage cache invalidation
+    html = re.sub(r"var DATA_VERSION = \"[^\"]*\"", f"var DATA_VERSION = \"{today_str}\"", html)
+    
+    # Also update DASHBOARD_DAILY first entry date
+    html = re.sub(r"(DASHBOARD_DAILY\s*=\s*\[)\{\"date\": \"[^\"]*\", \"type\": \"today\"", rf"\g<1>{{\"date\": \"{today_str}\", \"type\": \"today\"", html, count=1)
+    
     # Check if today entry already exists
     today_pattern = '"date": "' + today_str + '", "type": "today"'
     if today_pattern in html:
         print("SKIP: Today entry for " + today_str + " already exists, no duplicate created.")
+        # Still write to disk because DATA_VERSION/DASHBOARD_DAILY were updated
+        if not dry_run:
+            with open(KANBAN_PATH, "w", encoding="utf-8", newline="", errors="replace") as f:
+                f.write(html)
         return True
     
     new_entry = {"date": today_str, "type": "today", "progress": progress, "plan": plan}

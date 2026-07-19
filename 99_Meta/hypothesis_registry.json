@@ -1,0 +1,29 @@
+{
+  "hypotheses": [
+    {
+      "id": "H1",
+      "title": "TCC: 拓扑互连可实现超加性计算增益 (1+1>2)",
+      "status": "proven",
+      "evidence": "P1_Superadditivity proof"
+    },
+    {
+      "id": "H2",
+      "title": "CST: 智能涌现依赖自组织临界性",
+      "status": "under_investigation",
+      "evidence": "S2 papers on SOC"
+    },
+    {
+      "id": "H3",
+      "title": "iNEST: 脉冲神经网络在晶上系统可实现类脑计算",
+      "status": "proposed",
+      "evidence": ""
+    },
+    {
+      "id": "H4",
+      "title": "TCC: SDSoW架构可线性扩展至晶圆级",
+      "status": "under_investigation",
+      "evidence": "架构论文"
+    }
+  ],
+  "last_updated": "2026-07-19T11:19:00.821044"
+}

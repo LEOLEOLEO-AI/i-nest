@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "id": "EV-2026-07-19-001",
+      "priority": "high",
+      "type": "pipeline_fix",
+      "title": "持续性0论文入库: API连通性检查",
+      "detail": "最近5次运行均0篇新论文",
+      "status": "pending"
+    },
+    {
+      "id": "EV-2026-07-19-002",
+      "priority": "medium",
+      "type": "git_hygiene",
+      "title": "Git清理: 15个未提交变更",
+      "detail": "建议提交或清理未追踪变更",
+      "status": "pending"
+    }
+  ],
+  "last_updated": "2026-07-19T11:19:00.822414"
+}

@@ -33,19 +33,19 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-07-18] **2026-07-18_OA_Recent Advances in Generative AI for Healthcare Applications** (_pipeline_insights)
-- [2026-07-18] **2026-07-18_OA_Digital twins in oncology From predictive modelling to personalise** (_pipeline_insights)
-- [2026-07-18] **2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application,** (_pipeline_insights)
-- [2026-07-18] **2026-07-18_OA_Advanced Graph Neural Networks for Smart Mining A Systematic Liter** (_pipeline_insights)
-- [2026-07-18] **2026-07-18_OA_Graph machine learning for flight delay prediction due to holding ** (_pipeline_insights)
-- [2026-07-18] **2026-07-18_OA_Rumor propagation on hypergraphs** (_pipeline_insights)
-- [2026-07-18] **2026-07-18_OA_Reducibility of higher-order networks from dynamics** (_pipeline_insights)
-- [2026-07-18] **2026-07-18_OA_Quantum Convolutional Neural Networks are Effectively Classically ** (_pipeline_insights)
+- [2026-07-19] **2026-07-18_OA_Vascularised Brain Organoids Engineering Strategies and Neurobiolo** (_pipeline_insights)
+- [2026-07-19] **2026-07-18_OA_Very-large-scale mimetic optogenetic synapses for physical reservo** (_pipeline_insights)
+- [2026-07-19] **2026-07-18_OA_Thermal management of 3-D heterogeneously integrated microelectron** (_pipeline_insights)
+- [2026-07-19] **2026-07-18_OA_Towards a framework for cross-boundary collaborative open learning** (_pipeline_insights)
+- [2026-07-19] **2026-07-18_OA_Unifying Heterogeneous and Monolithic Integration via Dual-sided 3** (_pipeline_insights)
+- [2026-07-19] **2026-07-18_OA_Synaptic Plasticity Engineering for Neural Precision, Temporal Lea** (_pipeline_insights)
+- [2026-07-19] **2026-07-18_OA_The digital sphinx Can a worm brain control a fly body** (_pipeline_insights)
+- [2026-07-19] **2026-07-18_OA_The TEXTAROSSA project Cool all the Way Down to the Hardware** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
 Total notes: 5465
-Graph nodes: 5463 | edges: 8767
+Graph nodes: 5465 | edges: 8767
 
 Top connected topics:
 - **00_iNEST_全景知识图谱** (degree=1182)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-07-19 08:20*
+*Research brief auto-generated 2026-07-19 11:38*

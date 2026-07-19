@@ -239,7 +239,7 @@ def run_full_pipeline():
     # Unified data bus
     print("\n=== Unified Data Bus ===")
     try:
-        subprocess.run([sys.executable, str(VAULT / "90_System/scripts/refresh_dashboard.py")], check=False, timeout=60)
+        subprocess.run([sys.executable, str(VAULT / "90_System/scripts/unified_data_bus.py")], check=False, timeout=60)
         print("  Updated")
     except: pass
     

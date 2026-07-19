@@ -7,7 +7,11 @@ import json, os, sys, urllib.parse, re
 from pathlib import Path
 from datetime import datetime
 
-def call_jojo(prompt, system="", max_tokens=3000):
+import sys
+sys.path.insert(0, r"D:\\Obsidian\\scripts")
+from llm_router import llm_call
+
+def _call_jojo_fallback(prompt, system="", max_tokens=3000):  # deprecated, use llm_call
     """Direct JOJO call, no proxy."""
     import urllib.request, json
     url = "http://127.0.0.1:57321/v1/chat/completions"
@@ -115,7 +119,7 @@ def deep_analyze_papers(papers, top_n=8):
         )
         
         try:
-            result = call_jojo(prompt, system="TCC+iNEST research analyst. Output pure JSON only.", max_tokens=3000)
+            result = llm_call(prompt, system="TCC+iNEST research analyst. Output pure JSON only.", max_tokens=3000)
             if result:
                 result = result.strip()
                 if result.startswith("```"):
