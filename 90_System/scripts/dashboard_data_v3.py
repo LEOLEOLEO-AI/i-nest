@@ -12,6 +12,7 @@ DASHBOARD_DIR.mkdir(parents=True, exist_ok=True)
 DASHBOARD_JS = DASHBOARD_DIR / 'data.js'
 META = VAULT / '99_Meta'
 INBOX = VAULT / '00_Inbox'
+LOG_DIR = VAULT / 'logs'
 TODAY = datetime.now().strftime('%Y-%m-%d')
 
 def clean(s):
@@ -91,12 +92,72 @@ def generate_recent_progress():
         summaries.append({'date': ds, 'summary': summary})
     return summaries
 
+def load_state_counts():
+    """Load live vault counts from the unified state bus."""
+    state_file = META / 'research_state.json'
+    if not state_file.exists():
+        return {}
+    try:
+        state = json.loads(state_file.read_text(encoding='utf-8'))
+        vault = state.get('vault', {})
+        return {
+            'total_md': vault.get('total_md', 0),
+            'tcc': vault.get('tcc_30', 0),
+            'inest': vault.get('inest_40', 0),
+            'inbox': vault.get('inbox_00', 0),
+            'papers': vault.get('output_50', 0),
+            'services': state.get('services', {})
+        }
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+def generate_operational_plan(papers):
+    """Generate an execution-oriented plan for the current deadline."""
+    high = len([p for p in papers if p['score'] >= 3])
+    plan = [
+        {'text': 'P-Paradigm《拓扑中心计算范式》完成 Engineering 投稿前终稿与证据核对（7月30日前）', 'dot': 'ongoing', 'dim': 'TCC'},
+        {'text': 'CST《智能涌现》完成 Section 4/5 仿真结果、图表与结论闭环（7月30日前）', 'dot': 'ongoing', 'dim': 'iNEST'},
+        {'text': 'TCC 架构专利与实现专利完成权利要求、实施例和附图终审（7月30日前）', 'dot': 'ongoing', 'dim': 'TCC'},
+        {'text': f'精读今日 {high} 篇高相关论文，提取可引用证据并回写论文/专利', 'dot': 'plan', 'dim': 'TCC+iNEST'},
+        {'text': '运行一次 CST/TCC 可复现实验检查：参数、数据、脚本、图表和指标来源齐全', 'dot': 'plan', 'dim': 'TCC+iNEST'},
+        {'text': '21:00 完成 GitHub/Gitee 同步，并检查看板与知识库链接', 'dot': 'plan', 'dim': 'System'}
+    ]
+    return plan
+
+def generate_operational_progress():
+    """Build the latest three daily summaries from real pipeline logs."""
+    runs = {}
+    for log_file in sorted(LOG_DIR.glob('pipeline_*.json'), reverse=True):
+        try:
+            item = json.loads(log_file.read_text(encoding='utf-8'))
+            date = item.get('date', '')[:10]
+            if date and date not in runs:
+                runs[date] = item
+        except (OSError, json.JSONDecodeError):
+            continue
+
+    summaries = []
+    for offset in range(3):
+        date = (datetime.now() - timedelta(days=offset)).strftime('%Y-%m-%d')
+        run = runs.get(date)
+        if run:
+            summary = (
+                f"科研管线完成：入库 {run.get('new_papers', 0)} 篇，"
+                f"图谱 {run.get('graph_nodes', 0)} 节点/{run.get('graph_edges', 0)} 边，"
+                f"耗时 {round(run.get('elapsed_s', 0) / 60)} 分钟。"
+            )
+        else:
+            summary = '暂无管线运行记录，今天优先检查任务执行与输入输出链路。'
+        summaries.append({'date': date, 'summary': summary})
+    return summaries
+
 def main():
     papers = scan_insights()
     high = [p for p in papers if p['score'] >= 3]
     tcc_ins, inest_ins = generate_insights(papers)
-    plan = generate_plan(papers)
-    progress = generate_recent_progress()
+    plan = generate_operational_plan(papers)
+    progress = generate_operational_progress()
+    counts = load_state_counts()
     
     print(f'洞察: {len(papers)}篇 (高相关{len(high)}篇)')
     print(f'TCC灵感: {len(tcc_ins)}条 | iNEST灵感: {len(inest_ins)}条')
@@ -109,7 +170,9 @@ def main():
         'tcc_insights': tcc_ins,
         'inest_insights': inest_ins,
         'plan': plan,
-        'recent_progress': progress
+        'recent_progress': progress,
+        'counts': counts,
+        'generated_at': datetime.now().isoformat(timespec='minutes')
     }
     
     js = f'// TCC+iNEST 研发看板 — {TODAY}\nvar DASHBOARD_DATA = {json.dumps(data, ensure_ascii=False)};\n'
