@@ -139,7 +139,7 @@ def generate_research_log():
     today_midnight = datetime.now().replace(hour=0, minute=0, second=0).timestamp()
     
     activities = []
-    for d in ["30_TCC", "40_iNEST", "50_Output", "10_Inbox"]:
+    for d in ["30_TCC", "40_iNEST", "50_Output", "00_Inbox"]:
         p = VAULT / d
         if not p.exists(): continue
         for f in p.rglob("*.md"):

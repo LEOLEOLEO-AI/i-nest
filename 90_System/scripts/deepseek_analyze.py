@@ -1,5 +1,5 @@
 ﻿# -*- coding: utf-8 -*-
-"""DeepSeek V4 Pro batch analysis of 10_Inbox files"""
+"""DeepSeek V4 Pro batch analysis of 00_Inbox files"""
 
 import json, shutil, time, re
 from pathlib import Path
@@ -7,7 +7,7 @@ from openai import OpenAI
 from datetime import datetime
 
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
-INBOX = VAULT / "10_Inbox"
+INBOX = VAULT / "00_Inbox"
 API_KEY = "REDACTED_DEEPSEEK_KEY"
 
 client = OpenAI(api_key=API_KEY, base_url="https://api.deepseek.com/v1", timeout=30)

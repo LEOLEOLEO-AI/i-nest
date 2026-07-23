@@ -8,7 +8,7 @@ from datetime import datetime
 
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 TARGET_STRUCTURE = {
-    "10_Inbox": "剪藏入口",
+    "00_Inbox": "统一剪藏入口",
     "20_Processing": "内容加工",
     "30_TCC": "TCC拓扑中心计算",
     "40_iNEST": "iNEST神经形态",
@@ -209,7 +209,7 @@ def analyze():
 **目标结构 (Karpathy Wiki LLM v2.0):**
 ```
 workspace/
-├── 10_Inbox/          剪藏入口
+├── 00_Inbox/          统一剪藏入口
 │   ├── 11_GetNotes/   得到大脑
 │   ├── 12_Genspark/   Genspark Claw
 │   └── 13_Codex/      Codex 剪藏
@@ -263,7 +263,7 @@ def suggest_target(dirname):
     if any(kw in name_lower for kw in ["project", "项目"]):
         return "30_TCC/34_Projects 或 40_iNEST/44_Projects"
     if any(kw in name_lower for kw in ["inbox", "剪藏"]):
-        return "10_Inbox"
+        return "00_Inbox"
     if any(kw in name_lower for kw in ["journal", "日记"]):
         return "99_Archive (非研究内容归档)"
     if any(kw in name_lower for kw in ["tcc", "拓扑", "中心计算"]):

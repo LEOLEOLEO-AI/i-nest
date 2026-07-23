@@ -3,9 +3,10 @@ Daily Content Generator v2.0 — deep per-paper LLM analysis
 Generates: Daily_Action, Daily_Focus, Research_Insights
 Run after pipeline_v3.py
 """
-import json, os, sys, urllib.parse, re
+import hashlib, json, os, sys, urllib.parse, re
 from pathlib import Path
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import sys
 sys.path.insert(0, r"D:\\Obsidian\\scripts")
@@ -38,8 +39,29 @@ VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 MOC = VAULT / "60_MOC"
 INSIGHTS = VAULT / "00_Inbox" / "_pipeline_insights"
 LOGS = VAULT / "logs"
-TODAY = datetime.now()
+TODAY = datetime.now(ZoneInfo("Asia/Shanghai"))
 TODAY_STR = TODAY.strftime("%Y-%m-%d")
+CACHE_FILE = VAULT / "99_Meta" / "daily_analysis_cache.json"
+
+
+def analysis_cache_key(paper):
+    source = "\n".join((paper.get("title", ""), paper.get("abstract", "")))
+    return hashlib.sha256(source.encode("utf-8")).hexdigest()
+
+
+def load_analysis_cache():
+    try:
+        cached = json.loads(CACHE_FILE.read_text(encoding="utf-8"))
+        return cached if cached.get("schema") == "daily-analysis-cache-v1" else {"schema": "daily-analysis-cache-v1", "items": {}}
+    except (OSError, json.JSONDecodeError):
+        return {"schema": "daily-analysis-cache-v1", "items": {}}
+
+
+def save_analysis_cache(cache):
+    CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    temporary = CACHE_FILE.with_suffix(".tmp")
+    temporary.write_text(json.dumps(cache, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    temporary.replace(CACHE_FILE)
 
 def get_today_papers():
     papers = []
@@ -92,12 +114,22 @@ def score_paper(p):
     if "iNEST" in track: inest_s += 3
     return tcc_s + inest_s, "TCC" if tcc_s > inest_s else ("iNEST" if inest_s > 0 else "General")
 
-def deep_analyze_papers(papers, top_n=8):
-    """Per-paper LLM analysis for reliable JSON."""
+def deep_analyze_papers(papers, cache, top_n=8):
+    """Analyze only new or changed title-and-abstract inputs."""
     top = sorted(papers, key=lambda p: score_paper(p)[0], reverse=True)[:top_n]
     results = []
+    cache_hits = 0
     
     for i, p in enumerate(top):
+        cache_key = analysis_cache_key(p)
+        cached = cache["items"].get(cache_key)
+        if cached:
+            item = dict(cached["analysis"])
+            item["id"] = i + 1
+            results.append(item)
+            cache_hits += 1
+            continue
+
         title = p.get("title", "")[:150]
         abstract = p.get("abstract", "")[:1500]
         journal = p.get("journal", "")
@@ -106,20 +138,20 @@ def deep_analyze_papers(papers, top_n=8):
         cited = p.get("cited_by", "0")
         
         prompt = (
-            "Deeply analyze this paper for TCC (Topology-Centric Computing: NoC/chiplet/wafer-scale interconnect, network topology as computation) and iNEST (intelligent Neural Emergence SysTems: neuromorphic, criticality, SNN, emergence) research.\n\n"
+            "Analyze this paper abstract for TCC (Topology-Centric Computing: NoC/chiplet/wafer-scale interconnect, network topology as computation) and iNEST (intelligent Neural Emergence SysTems: neuromorphic, criticality, SNN, emergence) research. Do not claim to have read the full text.\n\n"
             "Title: " + title + "\n"
             "Journal: " + journal + " | Year: " + year + " | Citations: " + cited + " | DOI: " + doi + "\n"
             "Abstract: " + abstract + "\n\n"
             'Output ONLY a JSON object (not an array):\n'
-            '{"title_zh":"论文中文译名","tcc_value":"基于全文理解,分析对TCC(晶上互连/拓扑计算/Chiplet/NoC)的具体价值和方法论启发(3-5句中文,无则空)",'
-            '"inest_value":"基于全文理解,分析对iNEST(神经形态/临界涌现/SNN/储备池)的具体价值和方法论启发(3-5句中文,无则空)",'
-            '"inspiration":"基于全文理解,提出对TCC+iNEST交叉融合研究的深层灵感启迪(4-6句中文,包含具体可执行的研究建议)",'
+            '{"title_zh":"论文中文译名","tcc_value":"基于题目和摘要,分析对TCC(晶上互连/拓扑计算/Chiplet/NoC)的具体价值和方法论启发(3-5句中文,无则空)",'
+            '"inest_value":"基于题目和摘要,分析对iNEST(神经形态/临界涌现/SNN/储备池)的具体价值和方法论启发(3-5句中文,无则空)",'
+            '"inspiration":"基于题目和摘要,提出对TCC+iNEST交叉融合研究的可验证灵感(4-6句中文,包含具体可执行的研究建议)",'
             '"methodology":"论文核心方法论总结(2-3句)","key_finding":"最关键的一个发现或结论","relevance":1-5}\n'
             "No markdown, no explanation."
         )
         
         try:
-            result = llm_call(prompt, system="TCC+iNEST research analyst. Output pure JSON only.", max_tokens=3000)
+            result = llm_call(prompt, system="TCC+iNEST research analyst. Output pure JSON only.", task_type="insight", max_tokens=1600)
             if result:
                 result = result.strip()
                 if result.startswith("```"):
@@ -131,7 +163,10 @@ def deep_analyze_papers(papers, top_n=8):
                 result = re.sub(r",\s*}", "}", result)
                 data = json.loads(result)
                 data["id"] = i + 1
+                data["analysis_basis"] = "abstract"
+                data["source_path"] = p.get("rel_path", "")
                 results.append(data)
+                cache["items"][cache_key] = {"analysis": data, "cached_at": datetime.now().isoformat(timespec="seconds")}
                 continue
         except Exception as e:
             pass
@@ -145,33 +180,30 @@ def deep_analyze_papers(papers, top_n=8):
                 "tcc_value": "关键词匹配,需深入阅读" if track=="TCC" else "",
                 "inest_value": "关键词匹配,需深入阅读" if track=="iNEST" else "",
                 "inspiration": "建议阅读全文,评估方法论借鉴价值",
-                "relevance": min(score, 5)
+                "relevance": min(score, 5),
+                "analysis_basis": "abstract",
+                "source_path": p.get("rel_path", ""),
             })
+            cache["items"][cache_key] = {"analysis": results[-1], "cached_at": datetime.now().isoformat(timespec="seconds")}
     
-    return results
+    save_analysis_cache(cache)
+    return results, {"cache_hits": cache_hits, "llm_calls": len(results) - cache_hits}
 
 def generate_daily_action(papers, analysis):
     lines = [f"# 每日行动洞察 — {TODAY_STR}", ""]
-    lines.append(f"> 自动生成 | 入库 {len(papers)} 篇 | 深度分析 Top {len(analysis)} 篇")
+    lines.append(f"> 自动生成 | 入库 {len(papers)} 篇 | 基于题目与摘要的分析 Top {len(analysis)} 篇")
     lines.append("")
     
     if analysis:
-        lines.append("## 今日高价值论文深度分析")
+        lines.append("## 今日高价值论文摘要分析")
         lines.append("")
         for item in analysis:
             rid = item.get("id", "?")
             title = item.get("title_zh", "")[:80]
             rel = item.get("relevance", "?")
             star = "⭐" * min(rel, 5)
-                        # Find paper file for clickable link
-            paper_url = ""
-            for pp in papers:
-                pp_title = pp.get("title", "")
-                if pp_title and (pp_title[:50] in item.get("title_zh", "") or item.get("title_zh", "")[:50] in pp_title):
-                    rel = str(pp.get("rel_path", "")).replace("\\", "/")
-                    if rel:
-                        paper_url = "http://127.0.0.1:8899/home/work/.openclaw/workspace/" + urllib.parse.quote(rel)
-                    break
+            rel = str(item.get("source_path", "")).replace("\\", "/")
+            paper_url = "http://127.0.0.1:8899/home/work/.openclaw/workspace/" + urllib.parse.quote(rel) if rel else ""
             if paper_url:
                 lines.append(f"### {star} [{title}]({paper_url})")
             else:
@@ -214,7 +246,7 @@ def generate_daily_action(papers, analysis):
 
 def generate_research_insights(papers, analysis):
     lines = [f"# 研究洞察 — {TODAY_STR}", ""]
-    lines.append(f"> 入库 {len(papers)} 篇 | 深度分析 Top {len(analysis)} 篇")
+    lines.append(f"> 入库 {len(papers)} 篇 | 基于题目与摘要的分析 Top {len(analysis)} 篇")
     lines.append("")
     
     if analysis:
@@ -272,8 +304,9 @@ if __name__ == "__main__":
     
     # Deep LLM analysis of top papers
     print("  Running LLM analysis...")
-    analysis = deep_analyze_papers(papers, top_n=8)
-    print(f"  Analyzed: {len(analysis)} papers")
+    cache = load_analysis_cache()
+    analysis, stats = deep_analyze_papers(papers, cache, top_n=8)
+    print(f"  Analyzed: {len(analysis)} papers | LLM calls: {stats['llm_calls']} | cache hits: {stats['cache_hits']}")
     
     generate_daily_action(papers, analysis)
     print("  [OK] 03_Daily_Action.md")

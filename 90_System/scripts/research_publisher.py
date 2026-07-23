@@ -165,6 +165,7 @@ def publish():
             "outputs": vault.get("output_50", 0),
             "services": state.get("services", {}),
         },
+        "task_review": state.get("task_review", {}),
         "plan": current_plan(),
         "progress": recent_runs(),
         "insights": paper_insights(),
@@ -174,6 +175,7 @@ def publish():
             "focus": "60_MOC/04_Daily_Focus.md",
             "state": "99_Meta/research_state.json",
             "pipeline": "logs/pipeline_*.json",
+            "task_review": "60_MOC/05_Task_Review.md",
         },
     }
     DATA_FILE.write_text(

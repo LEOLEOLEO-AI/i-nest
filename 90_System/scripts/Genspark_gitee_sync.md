@@ -13,7 +13,7 @@
 
 ```bash
 # 使用带凭证的 HTTPS URL
-git clone https://iBrainNest:Liusansan%406363@gitee.com/iBrainNest/i-nest.git /workspace/i-nest
+git clone https://gitee.com/iBrainNest/i-nest.git /workspace/i-nest
 
 # 进入工作目录
 cd /workspace/i-nest
@@ -408,7 +408,7 @@ fatal: could not read Username for 'https://gitee.com': No such file or director
 
 ✅ 解决方案：
 # 检查 URL 中的凭证格式
-https://iBrainNest:Liusansan%406363@gitee.com/iBrainNest/i-nest.git
+https://gitee.com/iBrainNest/i-nest.git
 
 注意：
 - 用户名：iBrainNest

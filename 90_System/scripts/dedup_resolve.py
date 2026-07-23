@@ -15,7 +15,7 @@ DIR_PRIORITY = {
     "30_TCC": 8,
     "60_MOC": 7,
     "20_Processing": 5,
-    "10_Inbox": 3,
+    "00_Inbox": 3,
     "80_Archive": 1,
     "90_System": 6,
     "70_Dashboard": 6,

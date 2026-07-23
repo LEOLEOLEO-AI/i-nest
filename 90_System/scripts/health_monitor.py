@@ -29,7 +29,7 @@ def compute_health():
     }
     
     # DIM 1: Digestion Health
-    inbox_count = len(list((VAULT/"10_Inbox").rglob("*.md"))) if (VAULT/"10_Inbox").exists() else 0
+    inbox_count = len(list((VAULT/"00_Inbox").rglob("*.md"))) if (VAULT/"00_Inbox").exists() else 0
     proc_count = len(list((VAULT/"20_Processing").rglob("*.md"))) if (VAULT/"20_Processing").exists() else 0
     h["dimensions"]["digestion"] = {
         "score": 100 if inbox_count == 0 and proc_count == 0 else 60 if inbox_count < 5 else 20,

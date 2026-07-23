@@ -28,7 +28,7 @@ for d in sorted((VAULT / "80_Archive").rglob("*"), reverse=True):
         d.rmdir()
 
 # Also clean empty dirs elsewhere
-for dname in ["10_Inbox"]:
+for dname in ["00_Inbox"]:
     dp = VAULT / dname
     if dp.exists():
         for sd in sorted(dp.rglob("*"), reverse=True):

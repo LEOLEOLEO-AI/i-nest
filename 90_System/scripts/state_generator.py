@@ -75,10 +75,20 @@ def get_weekly_health():
         "count": len(reports)
     }
 
+def get_task_review():
+    path = VAULT / "99_Meta" / "research_task_proposals.json"
+    if not path.exists():
+        return {"pending": 0, "approved": 0, "promoted": 0}
+    try:
+        items = json.loads(path.read_text(encoding="utf-8")).get("items", [])
+    except (OSError, json.JSONDecodeError):
+        return {"pending": 0, "approved": 0, "promoted": 0}
+    return {status: sum(item.get("status") == status for item in items)
+            for status in ("pending_review", "approved", "promoted")}
+
 def count_vault_stats():
     return {
         "total_md": count_recursive(VAULT, "*.md"),
-        "inbox_10": count_recursive(VAULT / "10_Inbox", "*.md"),
         "inbox_00": count_files(VAULT / "00_Inbox" / "_pipeline_insights", "*.md"),
         "processing_20": count_recursive(VAULT / "20_Processing", "*.md"),
         "tcc_30": count_recursive(VAULT / "30_TCC", "*.md"),
@@ -107,6 +117,7 @@ def generate(output_file=None):
         },
         "git": get_git_status(),
         "health": get_weekly_health(),
+        "task_review": get_task_review(),
     }
 
     output_file.parent.mkdir(parents=True, exist_ok=True)
@@ -121,7 +132,7 @@ if __name__ == "__main__":
     # Print summary
     v = state["vault"]
     p = state["pipeline"]
-    print(f"Vault: {v['total_md']} md files, 00_inbox={v['inbox_00']}, 10_inbox={v['inbox_10']}")
+    print(f"Vault: {v['total_md']} md files, 00_inbox={v['inbox_00']}")
     print(f"Pipeline: {p['ingested_today']['today']} today, {len(p['recent_runs'])} recent runs")
     print(f"Services: 8899={state['services']['preview_server_8899']}, 57321={state['services']['jojo_llm_57321']}, 57320={state['services']['jojo_fixer_57320']}")
     print(f"Git: {state['git']['uncommitted']} uncommitted changes")

@@ -614,8 +614,8 @@ Content: {content[:1500]}"""
     os.rename(fp, target)
     log(f"  閿?{target.relative_to(VAULT)} [{track}]")
 
-    log("[Process] LLM classifying inbox -> _pipeline_insights")
-    return 0
+    log("[Process] LLM classified inbox note")
+    return 1
 
 
 def process_inbox(limit=20):
@@ -629,7 +629,7 @@ def process_inbox(limit=20):
     for fp in files:
         if "_pipeline_insights" in str(fp):
             continue
-        if count >= limit:
+        if limit is not None and count >= limit:
             break
         if classify_and_move(fp):
             count += 1
@@ -877,7 +877,8 @@ def main():
     print(f"\n  Total: {c1+c2+c3} new items to inbox")
     
     # Stage 2: Process
-    processed = process_inbox(limit=0)
+    # Keep the inbox stage bounded so one scheduled run cannot monopolize the model router.
+    processed = process_inbox(limit=20)
     
     # 闂冭埖顔?: 閻儴鐦戦崶鎹愭皑
     snapshot = generate_genspark_snapshot()
@@ -886,10 +887,24 @@ def main():
     try:
         import subprocess
         gen_script = str(VAULT / '90_System' / 'scripts' / 'daily_generator.py')
-        subprocess.run([sys.executable, gen_script], capture_output=True, text=True, timeout=900, cwd=str(VAULT))
+        result = subprocess.run([sys.executable, gen_script], capture_output=True, text=True,
+                                timeout=900, cwd=str(VAULT))
+        if result.returncode != 0:
+            raise RuntimeError(result.stderr[-800:] or result.stdout[-800:] or "daily generator failed")
         log('[DailyGen] Daily_Action + Focus + Insights generated')
     except Exception as e:
         log(f'[DailyGen] Error: {e}')
+
+    # Generate reviewable ideas/tasks; approval is required before promotion.
+    try:
+        proposal_script = str(SCRIPT_DIR / "research_task_proposals.py")
+        result = subprocess.run([sys.executable, proposal_script], capture_output=True, text=True,
+                                timeout=30, cwd=str(VAULT))
+        if result.returncode != 0:
+            raise RuntimeError(result.stderr[-800:] or result.stdout[-800:] or "proposal generator failed")
+        log('[Review] Research task proposals refreshed')
+    except Exception as e:
+        log(f'[Review] Proposal refresh warning: {e}')
 
     elapsed = time.time() - start
     print(f"\n{'='*60}")

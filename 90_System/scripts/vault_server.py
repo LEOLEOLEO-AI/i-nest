@@ -8,6 +8,12 @@ class Handler(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *a, **kw):
         super().__init__(*a, directory=VAULT, **kw)
 
+    def guess_type(self, path):
+        content_type = super().guess_type(path)
+        if path.lower().endswith(".py"):
+            return "text/plain; charset=utf-8"
+        return content_type
+
     def do_GET(self):
         try:
             path = urllib.parse.unquote(self.path.split("?")[0])

@@ -24,7 +24,7 @@
 ### 初始化（仅需一次）
 
 ```bash
-git clone https://iBrainNest:Liusansan%406363@gitee.com/iBrainNest/i-nest.git /workspace/i-nest
+git clone https://gitee.com/iBrainNest/i-nest.git /workspace/i-nest
 cd /workspace/i-nest
 ```
 

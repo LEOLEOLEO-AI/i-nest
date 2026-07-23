@@ -10,7 +10,7 @@ from datetime import datetime
 from openai import OpenAI
 
 VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
-INBOX = VAULT / "10_Inbox"
+INBOX = VAULT / "00_Inbox"
 KEY = os.environ.get("DEEPSEEK_API_KEY") or "REDACTED_DEEPSEEK_KEY"
 client = OpenAI(api_key=KEY, base_url="https://api.deepseek.com/v1")
 
@@ -113,6 +113,8 @@ def process_inbox(dry_run=False):
     results = {"TCC": 0, "iNEST": 0, "both": 0, "skipped": 0, "errors": 0}
     
     for f in md_files:
+        if "_pipeline_insights" in f.parts:
+            continue
         print(f"\n  [{f.name[:60]}]")
         try:
             content = f.read_text(encoding="utf-8", errors="replace")

@@ -10,6 +10,11 @@ VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
 MOC = VAULT / "60_MOC"
 LOGS = VAULT / "logs"
 SCRIPTS = VAULT / "90_System" / "scripts"
+META = VAULT / "99_Meta"
+PROPOSALS = META / "research_task_proposals.json"
+ANALYSIS_CACHE = META / "daily_analysis_cache.json"
+SYNC_STATE = Path(r"D:\Obsidian\scripts\gitee_sync_state.json")
+PIPELINE_GUARD_STATUS = VAULT / "state" / "pipeline_guard_status.json"
 
 TODAY = datetime.now()
 WEEK_AGO = TODAY - timedelta(days=7)
@@ -29,12 +34,29 @@ def check_port(port):
     except:
         return False
 
-def run(cmd, timeout=30):
+def run(cmd, timeout=30, limit=200):
     try:
         r = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout, shell=True)
-        return r.returncode == 0, r.stdout.strip()[:200]
+        output = r.stdout.strip()
+        return r.returncode == 0, output if limit is None else output[:limit]
     except:
         return False, "TIMEOUT"
+
+def load_json(path):
+    try:
+        return json.loads(path.read_text(encoding="utf-8")), None
+    except (OSError, json.JSONDecodeError) as error:
+        return None, str(error)
+
+def git_remotes():
+    ok, out = run("git remote", timeout=15)
+    return set(out.splitlines()) if ok else set()
+
+def cache_summary():
+    data, error = load_json(ANALYSIS_CACHE)
+    if error:
+        return 0, error
+    return len(data.get("items", {})), None
 
 def get_pipeline_stats():
     """Get pipeline runs from past week."""
@@ -99,7 +121,7 @@ def generate_report():
     lines.append("")
 
     # 4. Git Status
-    ok, out = run("git status --short", timeout=15)
+    ok, out = run("git status --short", timeout=15, limit=None)
     lines.append("## 4. Git 状态")
     lines.append("")
     if ok:
@@ -107,6 +129,9 @@ def generate_report():
         lines.append(f"- 未提交变更: {len(changes)} 个文件")
     else:
         lines.append(f"- Git 检查失败: {out[:100]}")
+    remotes = git_remotes()
+    lines.append(f"- GitHub 远端: {'OK' if 'github' in remotes else 'MISSING'}")
+    lines.append(f"- Gitee 远端: {'OK' if 'gitee' in remotes else 'MISSING'}")
     lines.append("")
 
     # 5. Daily Generator
@@ -117,22 +142,51 @@ def generate_report():
         lines.append(f"- 最后更新: {age.days} 天前")
     lines.append("")
 
-    # 6. Issues
+    # 6. Data contracts
+    lines.append("## 6. 数据契约")
+    lines.append("")
+    proposals, proposal_error = load_json(PROPOSALS)
+    if proposal_error:
+        lines.append(f"- 任务提案 JSON: INVALID ({proposal_error[:120]})")
+    else:
+        pending = sum(item.get("status") == "pending_review" for item in proposals.get("items", []))
+        lines.append(f"- 任务提案 JSON: OK ({pending} 待审核)")
+    cache_count, cache_error = cache_summary()
+    lines.append(f"- 每日分析缓存: {'INVALID' if cache_error else f'OK ({cache_count} 项)'}")
+    if SYNC_STATE.exists():
+        sync_age = TODAY - datetime.fromtimestamp(SYNC_STATE.stat().st_mtime)
+        lines.append(f"- 最近同步状态: {sync_age.days} 天前")
+    else:
+        lines.append("- 最近同步状态: 尚无成功记录")
+    guard, guard_error = load_json(PIPELINE_GUARD_STATUS)
+    if guard_error:
+        lines.append("- 管线超时守卫: 尚无运行记录")
+    else:
+        lines.append(f"- 管线超时守卫: {guard.get('status', 'unknown')}")
+    lines.append("")
+
+    # 7. Issues
     issues = []
     if not check_port(8899):
         issues.append("预览服务器 :8899 未运行")
-    if not check_port(57321):
-        issues.append("JOJO LLM :57321 未运行")
     if len(runs) < 5:
         issues.append(f"本周仅 {len(runs)} 次管线运行（预期 >=5）")
+    if proposal_error:
+        issues.append("任务提案 JSON 无效")
+    if 'github' not in remotes or 'gitee' not in remotes:
+        issues.append("Git 双远端配置不完整")
+    if not SYNC_STATE.exists() or (TODAY - datetime.fromtimestamp(SYNC_STATE.stat().st_mtime)).total_seconds() > 36 * 3600:
+        issues.append("Git 同步状态超过 36 小时未成功更新")
+    if not guard_error and guard.get("status") in {"timeout", "paused"}:
+        issues.append("科研管线因超时等待人工确认")
     
     if issues:
-        lines.append("## 6. 需处理问题")
+        lines.append("## 7. 需处理问题")
         lines.append("")
         for issue in issues:
             lines.append(f"- **{issue}**")
     else:
-        lines.append("## 6. 状态")
+        lines.append("## 7. 状态")
         lines.append("")
         lines.append("全部正常。")
     

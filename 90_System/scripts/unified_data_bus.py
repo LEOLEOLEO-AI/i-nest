@@ -101,8 +101,8 @@ def build_unified_data():
             "inest_eng": count_md(VAULT / "40_iNEST" / "43_Engineering"),
         },
         "inbox": {
-            "new_24h": len(recent_files(VAULT / "10_Inbox", 24)),
-            "pending": count_md(VAULT / "10_Inbox"),
+            "new_24h": len(recent_files(VAULT / "00_Inbox", 24)),
+            "pending": count_md(VAULT / "00_Inbox"),
             "processing": count_md(VAULT / "20_Processing"),
         },
         "output": {
