@@ -1,0 +1,11 @@
+{
+  "schema": "pipeline-guard-v1",
+  "status": "idle",
+  "started": null,
+  "finished": "2026-07-30T07:30:00+08:00",
+  "timeout_minutes": 35,
+  "detail": "Pipeline syntax fixed, ready to run",
+  "log": null,
+  "exit_code": null,
+  "requires_confirmation": false
+}

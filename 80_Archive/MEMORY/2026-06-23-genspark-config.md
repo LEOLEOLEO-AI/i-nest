@@ -185,7 +185,7 @@ Genspark 现已完全就绪：
 
 **诊断报告位置**：
 ```
-本地：/home/work/.openclaw/workspace/research/2026-06-23-comprehensive_diagnosis.md
+本地：/vault/research/2026-06-23-comprehensive_diagnosis.md
 GitHub：可通过 git add/commit/push 推送
 Gitee：可通过 git push 同步
 ```

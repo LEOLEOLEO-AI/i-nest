@@ -1,0 +1,245 @@
+%============================================================
+%  中文全文版  ——  须用 XeLaTeX 编译
+%============================================================
+\documentclass[12pt,a4paper]{ctexart}
+
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage{bm}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue}
+
+% ---------- 字体规范 ----------
+\setCJKmainfont{宋体}                       % 正文：宋体
+\setCJKfamilyfont{yahei}{微软雅黑}          % 标题：微软雅黑
+\setCJKfamilyfont{kai}{楷体}                % 强调：楷体
+\newcommand{\heifont}[1]{{\CJKfamily{yahei}#1}}
+\newcommand{\kai}[1]{{\CJKfamily{kai}#1}}
+\setmainfont{Times New Roman}               % 英文与公式文字：Times New Roman
+
+% ---------- 标题格式设为微软雅黑 ----------
+\usepackage{titlesec}
+\titleformat*{\section}{\Large\bfseries\CJKfamily{yahei}}
+\titleformat*{\subsection}{\large\bfseries\CJKfamily{yahei}}
+
+% ---------- 定理环境（中文名） ----------
+\newtheorem{theorem}{定理}
+\newtheorem{lemma}{引理}
+\newtheorem{proposition}{命题}
+\newtheorem{definition}{定义}
+\newtheorem{assumption}{假设}
+\newtheorem{remark}{注}
+\renewcommand{\proofname}{\CJKfamily{yahei}证明}
+
+% ---------- 记号 ----------
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\Prob}{\mathbb{P}}
+\newcommand{\dd}{\mathrm{d}}
+\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
+\newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
+\newcommand{\X}{\mathbf{X}}
+\newcommand{\W}{\mathbf{W}}
+\newcommand{\F}{\mathbf{F}}
+\newcommand{\G}{\mathbf{G}}
+\DeclareMathOperator{\tr}{tr}
+
+\title{\heifont{\textbf{耦合随机延迟网络中的智能涌现阈值：\\
+面向物理类脑硬件的自由能视角}}}
+\author{刘勤让\thanks{通讯作者：\texttt{qinrangliu@gmail.com}}\\
+\small 网络时空协同复杂度涌现智能研究院（iNEST）}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+%============================================================
+\begin{abstract}
+\hspace{2em}本文将 Buckwar 关于单节点随机延迟微分方程（ＳＤＤＥ）的经典数值分析框架，推广为由空间非均匀延迟矩阵与空间相关噪声矩阵支配的 $N$ 节点异质异构耦合网络，以适配晶圆级、异质异构集成的液态硬件类神经网络的物理实现。在全局 Lipschitz 与线性增长条件下，本文借助步进法与延迟 Grönwall 不等式，证明了逐轨道唯一强解的存在唯一性（命题~\ref{prop:existence}）。进而，本文导出了由单一标量序参量——\kai{时空协同复杂度指标}$\Theta$——支配的闭式\kai{涌现阈值判据}（定理~\ref{thm:threshold}），并在 Khasminskii 型单边条件下证明了一个\kai{尖锐的非线性二分律}（定理~\ref{thm:nonlinear}）：同一常数 $\Theta^{\ast}$ 既保证阈下的全局均方指数稳定，又迫使阈上失稳并涌现结构化动力学。本文以一个含超线性 $\tanh$ 节点与乘性噪声的两节点网络，闭式验证了上述两种态（第~\ref{sec:example}~节）。借助自由能原理诠释 $\Theta^{\ast}$，阈值穿越被映射为六个涌现智能等级；延迟矩阵将孤立分岔点展开为有限宽度的分岔带——这正是记忆抬升可达智能等级的解析机制。数值结果与 Euler–Maruyama 格式的均方半阶收敛一致。
+\medskip
+
+\noindent\heifont{关键词：}随机延迟微分方程；复杂网络；涌现阈值；自由能原理；类脑硬件；均方稳定性。
+\end{abstract}
+
+%============================================================
+\section{引言}\label{sec:intro}
+
+\hspace{2em}真实物理系统既非无记忆，亦非无涨落。确定性延迟微分方程（ＤＤＥ）以历史函数段刻画记忆，随机常微分方程（ＳＯＤＥ）以 Itô 积分刻画涨落，而随机延迟微分方程（ＳＤＤＥ）将二者统一。Buckwar 的奠基性工作首次给出了标量 Itô ＳＤＤＥ
+\begin{equation}\label{eq:scalar-sdde}
+\dd X(t)=f\bigl(X(t),X(t-\tau)\bigr)\,\dd t+g\bigl(X(t),X(t-\tau)\bigr)\,\dd W(t),\qquad t\in[0,T]
+\end{equation}
+的可读性数值分析，其初始条件为历史函数段 $X(t)=\varphi(t)$，$t\in[-\tau,0]$。Buckwar 在全局 Lipschitz 与线性增长条件下证明了存在唯一性，并证明 Euler–Maruyama（ＥＭ）格式具有均方收敛阶 $p=\tfrac12$。
+
+\hspace{2em}本文的研究动机源自 iNEST 计划——\kai{网络时空协同复杂度涌现智能}——其核心信念是：当物理网络的时空复杂度超过一系列阈值时，将相继涌现不同等级的智能。为使该信念可数学化，本文将~\eqref{eq:scalar-sdde}~提升为耦合网络，并识别出支配动力学相变的标量序参量。本文的贡献有四：（一）构造含耦合矩阵、延迟矩阵与噪声相关矩阵的异质耦合ＳＤＤＥ网络；（二）证明强解的存在唯一性与线性涌现阈值判据；（三）在 Khasminskii 型条件下证明适用于超线性节点的尖锐非线性二分律；（四）以两节点 $\tanh$ 网络闭式验证，并以自由能原理加以诠释。
+
+%============================================================
+\section{预备知识与记号}\label{sec:prelim}
+
+\hspace{2em}设 $(\Omega,\mathcal{F},\{\mathcal{F}_t\}_{t\ge0},\Prob)$ 为满足通常条件的完备滤波概率空间，$\W(t)=(W_1(t),\dots,W_d(t))^\top$ 为适应于 $\{\mathcal{F}_t\}$ 的 $d$ 维标准 Wiener 过程。对向量 $x\in\R^N$ 记 $\abs{x}$ 为欧氏范数，对矩阵 $M$ 记 $\norm{M}_2$ 为谱范数。令 $\tau_{\max}=\max_{i,j}\tau_{ij}$。本文反复使用如下延迟 Grönwall 不等式。
+
+\begin{lemma}[延迟 Grönwall 不等式]\label{lem:gronwall}
+设 $u:[-\tau_{\max},T]\to[0,\infty)$ 有界可测，且存在常数 $\alpha,\beta\ge0$、$c\ge0$ 使得对一切 $t\in[0,T]$ 有 $u(t)\le c+\int_0^t\bigl(\alpha u(s)+\beta u(s-\tau_{\max})\bigr)\dd s$。则对一切 $t\in[0,T]$，$u(t)\le\bigl(c+\beta T\sup_{-\tau_{\max}\le s\le0}u(s)\bigr)e^{(\alpha+\beta)t}$。
+\end{lemma}
+
+%============================================================
+\section{耦合ＳＤＤＥ网络模型}\label{sec:model}
+
+\hspace{2em}将~\eqref{eq:scalar-sdde}~推广为 $N$ 节点异质网络。记节点 $i$ 的状态为 $X_i(t)$，向量形式为
+\begin{equation}\label{eq:vector-sdde}
+\dd\X(t)=\F\bigl(\X(t),\X_{\bm{\tau}}(t)\bigr)\,\dd t+\G\bigl(\X(t),\X_{\bm{\tau}}(t)\bigr)\,\dd\W(t),\qquad\X(t)=\bm{\varphi}(t),\ t\in[-\tau_{\max},0].
+\end{equation}
+三个矩阵刻画结构：\kai{耦合矩阵}$A=(A_{ij})$（元拓扑与软件定义互连）、\kai{延迟矩阵}$\bm{\tau}=(\tau_{ij})$（异质互连延迟）、\kai{噪声相关矩阵}$\Sigma\equiv\G\G^\top$（物理涨落的空间相关性）。
+
+\begin{assumption}[正则性]\label{ass:lip}
+存在 $K,\bar K>0$，使得对一切 $x,\bar x,y,\bar y\in\R^N$ 有 $\abs{\F(x,y)-\F(\bar x,\bar y)}^2+\norm{\G(x,y)-\G(\bar x,\bar y)}_2^2\le K(\abs{x-\bar x}^2+\abs{y-\bar y}^2)$ 及 $\abs{\F(x,y)}^2+\norm{\G(x,y)}_2^2\le\bar K(1+\abs{x}^2+\abs{y}^2)$。
+\end{assumption}
+
+\begin{assumption}[延迟有界与初值]\label{ass:delay}
+延迟满足 $0\le\tau_{ij}\le\tau_{\max}<\infty$，初始段 $\bm{\varphi}$ 为 $\mathcal{F}_0$ 可测且 $\E\norm{\bm{\varphi}}^2<\infty$。
+\end{assumption}
+
+%============================================================
+\section{强解的存在唯一性}\label{sec:existence}
+
+\begin{proposition}[存在唯一性]\label{prop:existence}
+在假设~\ref{ass:lip}~与~\ref{ass:delay}~下，系统~\eqref{eq:vector-sdde}~存在逐轨道唯一强解，且 $\E\bigl(\sup_{-\tau_{\max}\le t\le T}\abs{\X(t)}^2\bigr)<\infty$。
+\end{proposition}
+
+\begin{proof}
+采用\kai{步进法}，将 $[0,T]$ 按长度 $\tau_{\max}$ 分割。在 $[0,\tau_{\max}]$ 上，一切延迟变元落于 $[-\tau_{\max},0]$ 并等于已知历史 $\bm{\varphi}$，故~\eqref{eq:vector-sdde}~退化为带适应非齐次项的标准 Itô ＳＯＤＥ；其系数继承 Lipschitz 与线性增长性，由 Mao 的经典存在唯一性定理得该子区间上的唯一强解且二阶矩有限。逐段归纳，延迟变元落于前一已构造子区间，同理得各段唯一强解，拼接即得 $[0,T]$ 上唯一强解。再对 $\abs{\X(t)}^2$ 用 Itô 公式并取期望，结合线性增长与 Itô 等距，由引理~\ref{lem:gronwall}（$\alpha=\beta=\bar K$）界定二阶矩，最后由 Doob 与 Burkholder–Davis–Gundy 不等式升级为对上确界的界。
+\end{proof}
+
+%============================================================
+\section{涌现阈值判据}\label{sec:threshold}
+
+\hspace{2em}为便于解析，考察~\eqref{eq:vector-sdde}~在平衡点处的线性化 $\dd\X(t)=[B\X(t)+A\X(t-\tau)]\dd t+\G_0\X(t)\dd\W(t)$，并令 $V(t)\equiv\E\abs{\X(t)}^2$。
+
+\begin{definition}[时空协同复杂度指标]\label{def:theta}
+记 $\mu_{\max}(A)=\tfrac12\lambda_{\max}(A+A^\top)$，$\lambda_g=\norm{\G_0}_2^2$，定义
+\begin{equation}\label{eq:theta}
+\Theta\equiv\lambda_{\max}(B+B^\top)+2\mu_{\max}(A)+\lambda_g .
+\end{equation}
+\end{definition}
+
+\begin{theorem}[线性涌现阈值判据]\label{thm:threshold}
+Lyapunov 能量满足 $\dfrac{\dd V}{\dd t}\le\Theta V(t)+2\mu_{\max}(A)[V(t-\tau)-V(t)]$。于是：（甲）若 $\Theta<0$，平凡解均方指数稳定（阈下）；（乙）若 $\Theta=0$，延迟项支配自持振荡的发生；（丙）若 $\Theta>\Theta_c$（$\Theta_c>0$ 依赖延迟），则经随机分岔失稳而涌现结构（阈上）。
+\end{theorem}
+
+\begin{remark}[延迟将分岔点展开为分岔带]\label{rmk:band}
+当 $\tau\to0$ 时系统退化为ＳＯＤＥ且 $\Theta_c\to0^+$，相变为单点；当 $\tau>0$ 时特征方程有无穷多根，穿越条件定义出临界值 $\Theta_c(\bm{\tau},A)$ 的\kai{有限宽度区间}。故记忆将孤立分岔点转化为分岔带，扩大了支持多稳态丰富动力学的参数区域。
+\end{remark}
+
+\subsection{基于 Khasminskii 型 Lyapunov 泛函的非线性阈值}\label{sec:nonlinear}
+
+\hspace{2em}物理类脑节点常具超线性激活，使假设~\ref{ass:lip}~失效。为此代之以更弱的单边条件，不经线性化直接证明二分律。
+
+\begin{assumption}[Khasminskii 型单边条件]\label{ass:khas}
+存在 $a_1\in\R$、$a_2\ge0$、$b_1\ge0$、$q\ge0$，使得对一切 $x,y\in\R^N$ 有
+\begin{equation}\label{eq:khas}
+2x^\top\F(x,y)+(1+q)\norm{\G(x,y)}_2^2\le a_1\abs{x}^2+a_2\abs{y}^2+b_1,
+\end{equation}
+并满足多项式增长 $\abs{\F(x,y)}\le b_2(1+\abs{x}^{\gamma}+\abs{y}^{\gamma})$，$\F,\G$ 局部 Lipschitz。定义\kai{非线性协同复杂度指标}$\Theta^{\ast}\equiv a_1+a_2$。
+\end{assumption}
+
+\begin{lemma}[二阶矩一致有界与非爆炸]\label{lem:moment}
+在假设~\ref{ass:delay}~与~\ref{ass:khas}（$q=0$）下，强解全局存在，且对任意 $T>0$，$\sup_{0\le t\le T}\E\abs{\X(t)}^2$ 有界（界含 $e^{\kappa T}$，$\kappa=a_1+a_2$）。
+\end{lemma}
+
+\begin{theorem}[非线性涌现二分律]\label{thm:nonlinear}
+设假设~\ref{ass:delay}~与~\ref{ass:khas}~成立，$b_1=0$、$a_2>0$，$\Theta^{\ast}=a_1+a_2$。则：（甲）若 $\Theta^{\ast}<0$，平凡解全局均方指数稳定，存在 $C\ge1$、$\lambda\in(0,-\Theta^{\ast})$ 使 $\E\abs{\X(t)}^2\le C\E\norm{\bm{\varphi}}^2 e^{-\lambda t}$；（丙）若 $\Theta^{\ast}>0$ 且~\eqref{eq:khas}~沿某非平凡方向尖锐，则平凡解非均方渐近稳定，涌现结构化动力学。
+\end{theorem}
+
+\begin{proof}
+\kai{（甲）}取 $\lambda\in(0,-\Theta^\ast)$ 及 Razumikhin–Krasovskii 泛函
+$\mathcal{V}(t)=e^{\lambda t}\abs{\X(t)}^2+a_2\int_{t-\tau_{\max}}^{t}e^{\lambda(s+\tau_{\max})}\abs{\X(s)}^2\dd s$。对 $e^{\lambda t}\abs{\X}^2$ 用 Itô 公式并代入~\eqref{eq:khas}（$b_1=0$），积分项求导所生 $-a_2e^{\lambda t}\abs{\X_\tau}^2$ 与延迟项\kai{精确对消}，得 $\tfrac{\dd}{\dd t}\E\mathcal{V}\le e^{\lambda t}(\lambda+a_1+a_2 e^{\lambda\tau_{\max}})\E\abs{\X}^2$。因 $a_1+a_2=\Theta^\ast<0$，可择 $\lambda$ 使括号非正，故 $\E\mathcal{V}$ 不增，得（甲）。
+
+\kai{（丙）}反设平凡解对一切初值均方渐近稳定。对 $v(t)=\E\abs{\X(t)}^2$，由尖锐性得 $\dot v\ge a_1 v(t)+a_2 v(t-\tau_{\max})$，与线性延迟比较方程比较得 $v\ge w$。特征函数 $h(z)=z-a_1-a_2 e^{-z\tau_{\max}}$ 满足 $h(0)=-\Theta^\ast<0$ 且 $h(z)\to+\infty$，故有正实根 $z^\ast>0$，于是 $w(t)\gtrsim e^{z^\ast t}\to\infty$，与稳定性矛盾。结合引理~\ref{lem:moment}~之非爆炸，轨道落于非平凡不变集，涌现结构。
+\end{proof}
+
+%============================================================
+\section{含超线性 $\tanh$ 节点的可验证两节点算例}\label{sec:example}
+
+\hspace{2em}能同时展示两态的最小网络为含 $\tanh$ 饱和激活与乘性噪声的两节点系统
+\begin{equation}\label{eq:twonode}
+\left\{
+\begin{aligned}
+\dd X_1(t)&=[-\alpha X_1(t)+\kappa\tanh(X_2(t-\tau))]\dd t+\sigma X_1(t)\dd W_1(t),\\
+\dd X_2(t)&=[-\alpha X_2(t)+\kappa\tanh(X_1(t-\tau))]\dd t+\sigma X_2(t)\dd W_2(t).
+\end{aligned}\right.
+\end{equation}
+由 $\abs{\tanh u}\le\abs{u}$ 及 Young 不等式，可验证假设~\ref{ass:khas}~成立，且
+\begin{equation}\label{eq:example-consts}
+a_1=-2\alpha+\sigma^2+\kappa,\qquad a_2=\kappa,\qquad\boxed{\ \Theta^\ast=-2\alpha+\sigma^2+2\kappa\ }.
+\end{equation}
+阈值面为 $2\kappa+\sigma^2=2\alpha$。\kai{阈下算例}（$\alpha=1.0,\kappa=0.3,\sigma=0.4,\tau=1.0$）：$\Theta^\ast=-1.24<0$，理论衰减率 $\lambda^\ast\approx0.88$，蒙特卡洛经验率 $\hat\lambda\approx0.86$，吻合良好。\kai{阈上算例}（$\kappa=1.3$，其余不变）：$\Theta^\ast=+0.76>0$，特征函数正根 $z^\ast\approx0.39$，能量增长后饱和于非平凡涨落水平，即涌现的微观征象（见图~\ref{fig:EX2}~与表~\ref{tab:example}）。
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth]{EX2_curves.pdf}
+\caption{两节点 $\tanh$ 网络~\eqref{eq:twonode}~的经验均方能量 $\E\abs{\X(t)}^2$（$10^4$ 条整数对齐 ＥＭ 轨道，$\alpha=1.0,\sigma=0.4,\tau=1.0,h=10^{-3}$）。\textbf{（甲）}阈下（$\kappa=0.3$）指数衰减，经验率 $\approx0.86$ 与理论率 $\approx0.88$ 一致；\textbf{（丙）}阈上（$\kappa=1.3$）能量偏离原点并饱和于受引理~\ref{lem:moment}~界定的非平凡水平。}
+\label{fig:EX2}
+\end{figure}
+
+\begin{table}[htbp]
+\centering
+\caption{定理~\ref{thm:nonlinear}~在两节点 $\tanh$ 网络上的验证（$\alpha=1.0,\sigma=0.4,\tau=1.0$）。}
+\label{tab:example}
+\begin{tabular}{@{}lccccl@{}}
+\toprule
+情形 & $\kappa$ & $a_1$ & $a_2$ & $\Theta^\ast$ & 观测行为 \\
+\midrule
+（甲）阈下 & $0.3$ & $-1.54$ & $0.30$ & $-1.24$ & $\E\abs{\X}^2\!\sim e^{-0.86t}\to0$（稳定） \\
+（丙）阈上 & $1.3$ & $-0.54$ & $1.30$ & $+0.76$ & $\E\abs{\X}^2$ 增长后饱和 $>0$（涌现） \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+%============================================================
+\section{诠释：自由能与 iNEST 智能等级体系}\label{sec:interpretation}
+
+\hspace{2em}依自由能原理，适应性主体最小化变分自由能泛函，残余自由能编码经由感知与行动最小化惊异的能力。将 $V(t)$ 视为变分自由能的物理代理，则 $\Theta^{\ast}$ 度量其净产生率：$\Theta^{\ast}<0$ 耗散惊异（稳定感知），$\Theta^{\ast}>0$ 驱动结构化探索。表~\ref{tab:levels}~将各态映射至六个 iNEST 智能等级；该对应为启发式而可硬件验证。
+
+\begin{table}[htbp]
+\centering
+\caption{涌现态到六个 iNEST 智能等级的映射。}
+\label{tab:levels}
+\begin{tabular}{@{}clc@{}}
+\toprule
+$\Theta^{\ast}$ 区间 & 动力学态 & iNEST 等级 \\
+\midrule
+$\Theta^{\ast}\ll0$            & 全局均方稳定；静息   & 感知（Ｌ１） \\
+$\Theta^{\ast}\lesssim0$       & 阈下涨落；弱响应     & 反应（Ｌ２） \\
+$0<\Theta^{\ast}<\Theta_c$     & 自持振荡；多稳态     & 适应（Ｌ３） \\
+$\Theta^{\ast}\approx\Theta_c$ & 临界随机分岔带       & 创造（Ｌ４） \\
+$\Theta^{\ast}>\Theta_c$（结构化） & 跨尺度协同涌现   & 通用／超级（Ｌ５／Ｌ６） \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+%============================================================
+\section{数值印证}\label{sec:numerics}
+
+\hspace{2em}以 Euler–Maruyama 离散~\eqref{eq:vector-sdde}，取步长 $h$ 使 $\tau_{ij}/h\in\mathbb{Z}$，此\kai{整数对齐}消除插值误差。依 Buckwar 与 Higham 的分析，格式满足 $(\E\abs{\X(t_n)-\X_n}^2)^{1/2}\le Ch^{1/2}$，即均方半阶收敛。半阶壁垒源于 Wiener 增量的 $\sqrt{h}$ 标度，为含噪硬件设定精度上限；更高阶须在可交换噪声下采用 Milstein 型格式。从 iNEST 视角看，该壁垒实为资源：不可约涨落恰为临界点附近的随机共振与探索式搜索提供动力。
+
+%============================================================
+\section{结论}\label{sec:conclusion}
+
+\hspace{2em}本文将 Buckwar 的标量ＳＤＤＥ提升为异质耦合网络，证明了适定性，导出了支配相变的标量序参量 $\Theta$，并在 Khasminskii 型条件下证明了适用于超线性节点的尖锐非线性二分律，且以两节点 $\tanh$ 网络闭式验证。经自由能原理诠释，各态映射至六个 iNEST 智能等级，延迟矩阵将孤立分岔点展开为有限分岔带——此即记忆抬升可达智能等级的解析机制。未来工作将把耦合ＳＤＤＥ网络直接实现于晶圆级液态硬件，使物理载体本身充当由最小自由能驱动的可微延迟随机求解器。
+
+\medskip
+\noindent\heifont{说明：}本文所有内容均基于公开资料研究。
+
+%============================================================
+\begin{thebibliography}{9}
+\bibitem{Buckwar2000} E.~Buckwar, \emph{Introduction to the numerical analysis of stochastic delay differential equations}, J.~Comput.~Appl.~Math. \textbf{125}(1--2) (2000) 297--307.
+\bibitem{Higham2001} D.~J.~Higham, \emph{An algorithmic introduction to numerical simulation of stochastic differential equations}, SIAM Rev. \textbf{43}(3) (2001) 525--546.
+\bibitem{Mao2007} X.~Mao, \emph{Stochastic Differential Equations and Applications}, 2nd ed., Horwood Publishing, Chichester, 2007.
+\bibitem{Khasminskii2012} R.~Khasminskii, \emph{Stochastic Stability of Differential Equations}, 2nd ed., Springer-Verlag, Berlin, 2012.
+\bibitem{HaleLunel1993} J.~K.~Hale, S.~M.~Verduyn~Lunel, \emph{Introduction to Functional Differential Equations}, Springer-Verlag, New York, 1993.
+\bibitem{Friston2010} K.~Friston, \emph{The free-energy principle: a unified brain theory?}, Nat.~Rev.~Neurosci. \textbf{11}(2) (2010) 127--138.
+\end{thebibliography}
+
+\end{document}

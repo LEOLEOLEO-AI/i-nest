@@ -3,7 +3,7 @@ import re, sys
 sys.stdout.reconfigure(encoding='utf-8')
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 SKIP = {".obsidian", ".git", ".venv", "node_modules", "__pycache__", ".trash", "80_Archive", ".smart-env", ".neural_db", ".neural_memory", ".openclaw", ".claude", ".claudian"}
 
 def should_skip(path):

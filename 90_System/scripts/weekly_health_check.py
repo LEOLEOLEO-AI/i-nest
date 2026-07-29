@@ -6,7 +6,7 @@ import json, os, sys, subprocess
 from pathlib import Path
 from datetime import datetime, timedelta
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 MOC = VAULT / "60_MOC"
 LOGS = VAULT / "logs"
 SCRIPTS = VAULT / "90_System" / "scripts"

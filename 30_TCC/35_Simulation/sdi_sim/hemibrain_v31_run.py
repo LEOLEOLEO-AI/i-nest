@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt, json, warnings, time, csv
 warnings.filterwarnings('ignore')
 np.random.seed(42)
 
-OUT = '/home/work/.openclaw/workspace/sdi_sim/'
-CSV = '/home/work/.openclaw/workspace/10_Knowledge/专题归档/05_Datasets_仿真与实验数据/Simulation_Results/hemibrain_meta.csv'
+OUT = '/vault/sdi_sim/'
+CSV = '/vault/10_Knowledge/专题归档/05_Datasets_仿真与实验数据/Simulation_Results/hemibrain_meta.csv'
 N_STEPS, N_NEUR = 1500, 5000
 
 print('Loading CSV...')

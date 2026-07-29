@@ -1,10 +1,10 @@
 ﻿import re
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_FINAL_ATTEMPT.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_FINAL_ATTEMPT.tex", "r", encoding="utf-8") as f:
     lines = f.readlines()
 
 # Check lines 30-40 with dollar counting
 running = 0
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\_L36_DEEP.txt", "w", encoding="utf-8") as out:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\_L36_DEEP.txt", "w", encoding="utf-8") as out:
     for i in range(26, 45):
         line = lines[i]
         dollars = line.count("$") - line.count("\\$")

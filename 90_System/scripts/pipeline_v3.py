@@ -18,6 +18,13 @@ except AttributeError:
     pass
 sys.path.insert(0, r"D:\\Obsidian\\scripts")
 
+# Load .env file for API keys
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(r"D:\Obsidian\vault\.env"))
+except ImportError:
+    pass  # pip install python-dotenv if needed
+
 # === Network setup ===
 # GKD runs as a system-wide VPN. Use direct urllib by default; only use an
 # explicit proxy when PIPELINE_PROXY_URL is provided for a non-global setup.
@@ -30,19 +37,19 @@ PROXY_OPENER = urllib.request.build_opener(PROXY_HANDLER)
 COMMON_UA = "Mozilla/5.0 (compatible; iNEST-Pipeline/3.4)"
 
 from llm_router import llm_call
-sys.path.insert(0, r'D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts')
+sys.path.insert(0, r'D:\Obsidian\vault\90_System\scripts')
 from enhance_papers import is_duplicate_crossday, mark_as_seen, enrich_paper_file, extract_s2_id_from_url, enrich_with_s2_detail
 import xml.etree.ElementTree as ET
 
 # 閳光偓閳光偓 Config 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 SCRIPT_DIR = Path(__file__).resolve().parent
 INBOX = VAULT / "00_Inbox" / "_pipeline_insights"
 INBOX.mkdir(parents=True, exist_ok=True)
 LOG_DIR = VAULT / "logs"
 LOG_DIR.mkdir(exist_ok=True)
 
-S2_API_KEY = os.environ.get("S2_API_KEY", "REDACTED_S2_KEY")
+S2_API_KEY = os.environ.get("S2_API_KEY", "")
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
 ctx = ssl.create_default_context()
@@ -50,9 +57,10 @@ ctx = ssl.create_default_context()
 # S2 API Config
 
 # 閳光偓閳光偓 S2 API Config 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
-S2_DELAY = 1           # seconds between S2 queries (free tier: 1 req/s)
-S2_RETRY_DELAY = 5    # seconds to wait on HTTP 429
-S2_MAX_RETRIES = 1
+S2_DELAY = 3.2           # seconds between S2 queries (was 1, increased to avoid 429)
+S2_RETRY_DELAY = 15      # seconds to wait on HTTP 429 (was 5, exponential backoff base)
+S2_MAX_RETRIES = 3        # max retries per query (was 1)
+S2_CIRCUIT_BREAKER_THRESHOLD = 3  # consecutive 429s before skipping S2 entirely
 
 # 閳光偓閳光偓 Search Queries (TCC + iNEST) 閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓閳光偓
 S2_QUERIES = [
@@ -446,7 +454,7 @@ def crawl_arxiv():
     log("[arXiv] Searching arXiv (via proxy, %d queries)..." % len(ARXIV_QUERIES))
     count = 0
     errors = 0
-    for label, q in ARXIV_QUERIES:
+    for idx, (label, q) in enumerate(ARXIV_QUERIES):
         today = datetime.now().strftime("%Y%m%d")
         week_ago = (datetime.now() - timedelta(days=7)).strftime("%Y%m%d")
         url = "https://export.arxiv.org/api/query?search_query=" + urllib.parse.quote(q) + "+AND+submittedDate:[" + week_ago + "+TO+" + today + "]&start=0&max_results=3&sortBy=submittedDate&sortOrder=descending"
@@ -483,8 +491,8 @@ def crawl_arxiv():
                 break
             except urllib.error.HTTPError as e:
                 if e.code == 429:
-                    wait = 10 * (attempt + 1)
-                    log("  arXiv %s: 429 rate limit, waiting %ds..." % (label, wait))
+                    wait = 15 * (2 ** attempt)
+                    log("  arXiv %s: 429 rate limit, waiting %ds (exponential backoff)..." % (label, wait))
                     time.sleep(wait)
                 elif e.code >= 500:
                     wait = 5 * (attempt + 1)
@@ -503,7 +511,11 @@ def crawl_arxiv():
                     log("  arXiv %s: %s, giving up" % (label, msg))
                     errors += 1
                     break
-        time.sleep(2)
+        time.sleep(5)
+        # Batch separator: every 5 queries, pause an extra 10s
+        if (idx + 1) % 5 == 0 and idx + 1 < len(ARXIV_QUERIES):
+            log("  arXiv: batch separator, pausing 10s...")
+            time.sleep(10)
     log("[arXiv] %d new papers, %d errors across %d queries" % (count, errors, len(ARXIV_QUERIES)))
     return count
 def crawl_google_news():

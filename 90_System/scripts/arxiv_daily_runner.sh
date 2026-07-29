@@ -5,9 +5,9 @@
 
 TODAY=$(date '+%Y-%m-%d')
 LOG="/tmp/arxiv_daily_${TODAY}.log"
-SCRIPT="/home/work/.openclaw/workspace/scripts/arxiv_to_wiki.py"
+SCRIPT="/vault/scripts/arxiv_to_wiki.py"
 REPO="/home/work/i-nest"
-WORKSPACE="/home/work/.openclaw/workspace"
+WORKSPACE="/vault"
 
 # 如果今天已经跑过，跳过（防止重复触发）
 if [ -f "/tmp/arxiv_daily_${TODAY}.done" ]; then

@@ -1,7 +1,7 @@
 ﻿import shutil, re
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 J = VAULT / "80_Archive" / "Journal"
 
 diary_patterns = [

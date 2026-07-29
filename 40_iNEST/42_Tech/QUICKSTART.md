@@ -48,7 +48,7 @@ print(f"坐标: {coords.shape}")
 ### 方式 1：使用脚本
 
 ```bash
-cd /home/work/.openclaw/workspace/scripts
+cd /vault/scripts
 
 # 执行分析
 python neural_complexity_analyzer.py \
@@ -271,7 +271,7 @@ print(f"是否临界: {'✅ 是' if assessment['is_critical'] else '❌ 否'}")
 
 ## 📚 完整文档
 
-详见：`/home/work/.openclaw/workspace/research/Neural_Complexity_Computation.md`
+详见：`/vault/research/Neural_Complexity_Computation.md`
 
 包含：
 - 数据格式详解

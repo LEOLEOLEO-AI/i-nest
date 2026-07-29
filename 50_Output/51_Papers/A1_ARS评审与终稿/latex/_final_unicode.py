@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_BASELINE_FIX.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_BASELINE_FIX.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 fixes = {}
@@ -45,7 +45,7 @@ if remaining:
 else:
     print("ALL CLEAN - no non-ASCII remaining!")
 
-out = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_BASELINE_FIX.tex"
+out = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_BASELINE_FIX.tex"
 with open(out, "w", encoding="utf-8") as f:
     f.write(tex)
 print(f"Written: {len(tex)} chars")

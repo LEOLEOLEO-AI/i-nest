@@ -36,19 +36,19 @@ Run from terminal or bind to Obsidian buttons:
 
 ```bash
 # Process Inbox
-python D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\quick_task.py inbox
+python D:\Obsidian\vault\90_System\scripts\quick_task.py inbox
 
 # Full pipeline (S2 + arXiv + classify)
-python D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\quick_task.py pipeline
+python D:\Obsidian\vault\90_System\scripts\quick_task.py pipeline
 
 # Git sync
-python D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\quick_task.py sync
+python D:\Obsidian\vault\90_System\scripts\quick_task.py sync
 
 # Weekly report
-python D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\quick_task.py weekly
+python D:\Obsidian\vault\90_System\scripts\quick_task.py weekly
 
 # Health check
-python D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\quick_task.py health
+python D:\Obsidian\vault\90_System\scripts\quick_task.py health
 ```
 
 ## 3. Auto-Start (Windows Task Scheduler)
@@ -63,8 +63,8 @@ Register-ScheduledTask -TaskName "TCC_iNEST_Linkage" -Action $action -Trigger $t
 ## 4. HTTP Preview
 
 - Vault: http://127.0.0.1:8899
-- Dashboard: http://127.0.0.1:8899/home/work/.openclaw/workspace/70_Dashboard/index.html
-- Home: http://127.0.0.1:8899/home/work/.openclaw/workspace/Home.md
+- Dashboard: http://127.0.0.1:8899/vault/70_Dashboard/index.html
+- Home: http://127.0.0.1:8899/vault/Home.md
 
 ## 5. Quick Task List
 

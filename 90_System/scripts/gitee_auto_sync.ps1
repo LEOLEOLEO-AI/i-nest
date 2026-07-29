@@ -2,7 +2,7 @@
 # Runs: git add -> commit -> pull -> push
 # Repo: https://gitee.com/iBrainNest/i-nest
 
-$vault = "D:\Obsidian\home\work\.openclaw\workspace"
+$vault = "D:\Obsidian\vault"
 $logFile = "D:\Obsidian\scripts\gitee_sync_log.txt"
 $date = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 

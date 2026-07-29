@@ -1,6 +1,6 @@
 ﻿import subprocess
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_REBUILT.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_REBUILT.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 # Fix \Gamm → \Gamma (but \Gamm is also substring of \Gamma!)
@@ -29,14 +29,14 @@ if count2 > 0:
     tex = pat2.sub(r'\\Gamma', tex)
     print("Fixed \\Gammaa: " + str(count2))
 
-out = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_REBUILT.tex"
+out = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_REBUILT.tex"
 with open(out, "w", encoding="utf-8") as f:
     f.write(tex)
 
 result = subprocess.run([
     r"C:\Users\LEO\.codex\plugins\cache\openai-bundled\latex\0.2.3\bin\tectonic.exe",
     "-X", "compile", "--keep-intermediates",
-    "--outdir", r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex",
+    "--outdir", r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex",
     "--outfmt", "pdf", "--untrusted", out
 ], capture_output=True, text=True, timeout=60)
 

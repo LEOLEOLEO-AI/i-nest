@@ -34,7 +34,7 @@
 **Task 1.2.1：创建 data_loader.py**
 
 ```python
-# /home/work/.openclaw/workspace/sdi_sim/data_loader.py
+# /vault/sdi_sim/data_loader.py
 
 import json
 import pandas as pd
@@ -175,7 +175,7 @@ class ConnectomeDataLoader:
 
 # 使用示例
 if __name__ == '__main__':
-    loader = ConnectomeDataLoader('/home/work/.openclaw/workspace/sdi_sim/data')
+    loader = ConnectomeDataLoader('/vault/sdi_sim/data')
     data = loader.load_all()
     if loader.validate_data_integrity():
         report = loader.generate_summary_report()
@@ -209,7 +209,7 @@ if __name__ == '__main__':
 **Task 2.2.1：创建 network_builder.py**
 
 ```python
-# /home/work/.openclaw/workspace/sdi_sim/network_builder.py
+# /vault/sdi_sim/network_builder.py
 
 import networkx as nx
 import numpy as np
@@ -350,7 +350,7 @@ class HemibrainNetworkBuilder:
 **Task 3.2.1：创建 null_model_generator.py**
 
 ```python
-# /home/work/.openclaw/workspace/sdi_sim/null_model_generator.py
+# /vault/sdi_sim/null_model_generator.py
 
 import networkx as nx
 import numpy as np
@@ -467,7 +467,7 @@ class NullModelGenerator:
 **Task 4.2.1：创建 week1_pipeline.py**
 
 ```python
-# /home/work/.openclaw/workspace/sdi_sim/week1_pipeline.py
+# /vault/sdi_sim/week1_pipeline.py
 
 from data_loader import ConnectomeDataLoader
 from network_builder import HemibrainNetworkBuilder
@@ -485,7 +485,7 @@ def run_week1_pipeline():
     
     # 步骤 1：加载数据
     print("【步骤 1：数据加载】\n")
-    loader = ConnectomeDataLoader('/home/work/.openclaw/workspace/sdi_sim/data')
+    loader = ConnectomeDataLoader('/vault/sdi_sim/data')
     data = loader.load_all()
     
     if not loader.validate_data_integrity():
@@ -525,7 +525,7 @@ def run_week1_pipeline():
     }
     
     # 保存报告
-    with open('/home/work/.openclaw/workspace/sdi_sim/results/week1_report.json', 'w') as f:
+    with open('/vault/sdi_sim/results/week1_report.json', 'w') as f:
         json.dump(report, f, indent=2)
     
     print(f"✅ 第 1 周流程完成")
@@ -553,7 +553,7 @@ if __name__ == '__main__':
 #### 5.1 单元测试
 
 ```bash
-# /home/work/.openclaw/workspace/sdi_sim/tests/test_week1.py
+# /vault/sdi_sim/tests/test_week1.py
 
 import unittest
 from data_loader import ConnectomeDataLoader
@@ -562,7 +562,7 @@ from network_builder import HemibrainNetworkBuilder
 class TestWeek1(unittest.TestCase):
     
     def setUp(self):
-        self.loader = ConnectomeDataLoader('/home/work/.openclaw/workspace/sdi_sim/data')
+        self.loader = ConnectomeDataLoader('/vault/sdi_sim/data')
         self.loader.load_all()
     
     def test_data_loading(self):

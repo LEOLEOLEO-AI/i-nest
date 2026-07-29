@@ -66,7 +66,7 @@ INH_GAIN     = 3.0   # 来源B（物理推导）：线性前馈抑制增益；
 # ============================================================
 print('Loading hemibrain_real_connectome_v3.json...')
 t0 = time.time()
-with open('/home/work/.openclaw/workspace/sdi_sim/hemibrain_real_connectome_v3.json') as f:
+with open('/vault/sdi_sim/hemibrain_real_connectome_v3.json') as f:
     data = json.load(f)
 
 N_full = data['N']
@@ -383,7 +383,7 @@ results = {
     'alpha_traj': [float(x) for x in logs['alpha']],
     'sigma_traj': [float(x) for x in logs['sigma']],
 }
-with open('/home/work/.openclaw/workspace/sdi_sim/hemibrain_v31real_results.json', 'w') as f:
+with open('/vault/sdi_sim/hemibrain_v31real_results.json', 'w') as f:
     json.dump(results, f, indent=2)
 print('\nResults saved to hemibrain_v31real_results.json')
 print('DONE')

@@ -53,3 +53,19 @@ __pycache__/
 .obsidian/themes/
 20_Processing/_attachments_knowledge/
 90_System/conflict-files-obsidian-git.md
+
+# Security: never commit API keys
+.env
+
+# LaTeX build products
+main.aux
+main.log
+main.out
+main.toc
+
+# Backup files
+*.bak*
+*.backup*
+AGENTS.md.bak.*
+MEMORY.md.bak.*
+MEMORY.md.backup_*

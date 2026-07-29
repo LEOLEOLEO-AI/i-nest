@@ -141,10 +141,10 @@ Zebrafish★         mesoscale    4/5   4.840±0.072    0.264±0.006   2.929±0.
 ================================================================================
 输出文件
 ================================================================================
-- /home/work/.openclaw/workspace/sdi_sim/sdi_experiment1_v12.py  — 源代码
-- /home/work/.openclaw/workspace/sdi_sim/v12_run.log              — 完整运行日志
-- /home/work/.openclaw/workspace/sdi_sim/exp1_v12_results.json    — JSON结果
-- /home/work/.openclaw/workspace/sdi_sim/exp1_v12_convergence.png — 收敛图(10×5)
-- /home/work/.openclaw/workspace/sdi_sim/v12_summary.txt          — 本文件
+- /vault/sdi_sim/sdi_experiment1_v12.py  — 源代码
+- /vault/sdi_sim/v12_run.log              — 完整运行日志
+- /vault/sdi_sim/exp1_v12_results.json    — JSON结果
+- /vault/sdi_sim/exp1_v12_convergence.png — 收敛图(10×5)
+- /vault/sdi_sim/v12_summary.txt          — 本文件
 
 DONE

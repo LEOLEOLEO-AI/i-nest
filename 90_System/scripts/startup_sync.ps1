@@ -27,7 +27,7 @@ Write-Log "Import: $importResult"
 
 # Phase 3: Sync to Gitee
 Write-Log "Phase 3/3: Syncing to Gitee..."
-Push-Location "D:\Obsidian\home\work\.openclaw\workspace"
+Push-Location "D:\Obsidian\vault"
 try {
     git add -A 2>&1 | Out-Null
     git commit -m "auto: startup sync $(Get-Date -Format 'yyyy-MM-dd HH:mm')" 2>&1 | Out-Null

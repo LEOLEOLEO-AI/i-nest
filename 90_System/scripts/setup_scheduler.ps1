@@ -1,9 +1,9 @@
 ﻿# Setup Windows Task Scheduler for daily pipeline
 # Run: powershell -ExecutionPolicy Bypass -File setup_scheduler.ps1
 
-$python = "D:\Obsidian\home\work\.openclaw\workspace\.venv\Scripts\python.exe"
-$pipeline = "D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\pipeline.py"
-$workdir = "D:\Obsidian\home\work\.openclaw\workspace"
+$python = "D:\Obsidian\vault\.venv\Scripts\python.exe"
+$pipeline = "D:\Obsidian\vault\90_System\scripts\pipeline.py"
+$workdir = "D:\Obsidian\vault"
 
 # Daily crawl + process at 8:00 AM
 $action1 = New-ScheduledTaskAction -Execute $python -Argument "`"$pipeline`" daily" -WorkingDirectory $workdir

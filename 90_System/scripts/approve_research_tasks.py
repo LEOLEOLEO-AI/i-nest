@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 PROPOSALS = VAULT / "99_Meta" / "research_task_proposals.json"
 PLAN = VAULT / "60_MOC" / "06_Task_Plan.md"
 

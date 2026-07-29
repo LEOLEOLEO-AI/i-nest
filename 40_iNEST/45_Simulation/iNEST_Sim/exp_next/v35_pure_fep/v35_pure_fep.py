@@ -17,8 +17,8 @@ import community as community_louvain, warnings, os
 warnings.filterwarnings('ignore')
 np.random.seed(42)
 
-DATA = '/home/work/.openclaw/workspace/sdi_sim/celegans_sim/connectome_v8_data.json'
-OUT  = '/home/work/.openclaw/workspace/iNEST_Sim_Research/exp_next/v35_pure_fep/v35_results.json'
+DATA = '/vault/sdi_sim/celegans_sim/connectome_v8_data.json'
+OUT  = '/vault/iNEST_Sim_Research/exp_next/v35_pure_fep/v35_results.json'
 
 ALPHA = {'graded': np.log(13), 'snn': np.log(32), 'cortex': np.log(50)}
 THRESHOLDS = [

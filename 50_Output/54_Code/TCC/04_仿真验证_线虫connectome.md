@@ -14,7 +14,7 @@ tags:
 **仿真日期**：2026-03-24
 **仿真环境**：Python 3.12, NetworkX 3.x, Genspark Claw VM（Azure, West Central US）
 **数据来源**：Varshney et al. 2011，WormAtlas官网公开数据（NeuronConnect.xls）
-**代码路径**：`/home/work/.openclaw/workspace/celegans_sim/`
+**代码路径**：`/vault/celegans_sim/`
 
 ---
 
@@ -111,7 +111,7 @@ tags:
 
 | 文件 | 路径 | 说明 |
 |------|------|------|
-| 原始connectome数据 | `/home/work/.openclaw/workspace/celegans_sim/NeuronConnect.xls` | Varshney 2011，WormAtlas公开 |
+| 原始connectome数据 | `/vault/celegans_sim/NeuronConnect.xls` | Varshney 2011，WormAtlas公开 |
 | 主分析代码 | 内嵌于仿真目录（python3脚本） | NetworkX实现 |
 | 结果图表 | `real_connectome_final.png` | 三图：拓扑参数/效率/鲁棒性 |
 | 图表URL | https://www.genspark.ai/api/files/s/vovA3TK9 | 生成于2026-03-24 |

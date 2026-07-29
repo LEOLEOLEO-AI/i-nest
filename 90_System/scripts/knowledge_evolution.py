@@ -9,7 +9,7 @@ from collections import defaultdict, Counter
 sys.path.insert(0, r"D:\Obsidian\scripts")
 from llm_router import llm_call
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 SCRIPTS = VAULT / "90_System" / "scripts"
 OUTPUT_DIR = VAULT / "99_Meta"
 TODAY = datetime.now().strftime("%Y-%m-%d")

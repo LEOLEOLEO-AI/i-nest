@@ -455,7 +455,7 @@ for sp, r in all_results.items():
     save_results[sp] = {k: v for k, v in r.items() if k != 'logs'}
     save_results[sp]['logs'] = r['logs']
 
-with open('/home/work/.openclaw/workspace/sdi_sim/experiment1_results.json', 'w') as f:
+with open('/vault/sdi_sim/experiment1_results.json', 'w') as f:
     json.dump(save_results, f, indent=2, default=lambda x: None if x is None else x)
 print('Results saved.')
 
@@ -509,7 +509,7 @@ for i, metric in enumerate(metrics):
             ax.set_xlabel(f'Steps (final={final_val:.2f})', fontsize=6)
 
 plt.tight_layout(rect=[0, 0, 1, 0.95])
-plt.savefig('/home/work/.openclaw/workspace/sdi_sim/experiment1_convergence.png', dpi=120, bbox_inches='tight')
+plt.savefig('/vault/sdi_sim/experiment1_convergence.png', dpi=120, bbox_inches='tight')
 plt.close()
 print('Plot saved: experiment1_convergence.png')
 print('DONE')

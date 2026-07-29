@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_FINAL_ATTEMPT.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_FINAL_ATTEMPT.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 # Count $$ occurrences
@@ -55,7 +55,7 @@ print("Total $: " + str(total) + " (" + ("OK" if total % 2 == 0 else "UNBALANCED
 remaining_dd = tex.count("$$")
 print("Remaining $$: " + str(remaining_dd))
 
-out = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_DDFIX.tex"
+out = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_DDFIX.tex"
 with open(out, "w", encoding="utf-8") as f:
     f.write(tex)
 print("Output: " + str(len(tex)) + " chars")

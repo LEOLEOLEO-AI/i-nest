@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\_BASELINE_A1_CST.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\_BASELINE_A1_CST.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 # Remove fontspec (not compatible with Tectonic)
@@ -49,12 +49,12 @@ report_lines.append(f"Total remaining: {len(remaining)}")
 report = "\n".join(report_lines)
 
 # Write output
-out = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_BASELINE_FIX.tex"
+out = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_BASELINE_FIX.tex"
 with open(out, "w", encoding="utf-8") as f:
     f.write(tex)
 
 # Write report
-report_out = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\_unicode_report.txt"
+report_out = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\_unicode_report.txt"
 with open(report_out, "w", encoding="utf-8") as f:
     f.write(report + f"\nOutput: {len(tex)} chars, {len(tex.splitlines())} lines")
 

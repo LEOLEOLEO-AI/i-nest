@@ -1,7 +1,7 @@
 ﻿import os, json, shutil, sys
 sys.stdout.reconfigure(encoding='utf-8')
 
-vault = r'D:\Obsidian\home\work\.openclaw\workspace'
+vault = r'D:\Obsidian\vault'
 with open(os.path.join(vault, '90_System/scripts/classify_llm.json'), 'r', encoding='utf-8') as f:
     data = json.load(f)
 

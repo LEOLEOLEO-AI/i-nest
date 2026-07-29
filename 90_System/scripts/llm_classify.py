@@ -6,7 +6,7 @@ from pathlib import Path
 from openai import OpenAI
 from datetime import datetime
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 API_KEY = "REDACTED_LEAKED_SILICONFLOW"
 BASE_URL = "https://api.siliconflow.cn/v1"
 

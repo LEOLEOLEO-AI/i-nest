@@ -1,7 +1,7 @@
 ﻿import json
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 data = json.loads((VAULT / "60_MOC" / "deepseek_analysis.json").read_text(encoding="utf-8"))
 
 tcc_paper = [r for r in data["results"] if r.get("direction")=="TCC" and r.get("paper") in ("高","中")]

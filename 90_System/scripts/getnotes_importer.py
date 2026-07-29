@@ -8,7 +8,7 @@ import os, re, json, hashlib, datetime, shutil
 
 CONFIG = {
     "watch_dir": r"D:\Obsidian\GetNotes_Inbox",
-    "output_inbox": r"D:\Obsidian\home\work\.openclaw\workspace\00_Inbox",
+    "output_inbox": r"D:\Obsidian\vault\00_Inbox",
     "state_file": r"D:\Obsidian\scripts\getnotes_state.json",
     "cutoff_date": "2026-05-20",
 }

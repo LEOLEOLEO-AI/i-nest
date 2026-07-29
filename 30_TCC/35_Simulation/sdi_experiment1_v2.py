@@ -17,7 +17,7 @@ import matplotlib; matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 np.random.seed(42)
-OUT_DIR = '/home/work/.openclaw/workspace/sdi_sim'
+OUT_DIR = '/vault/sdi_sim'
 
 # ============================================================
 # SDI 完整规则参数（文献值）

@@ -838,5 +838,5 @@ $$\text{随机网络} \xrightarrow{\text{STDP+WS重连}} \text{小世界拓扑�
 
 
 *iNEST实验室，2026年5月*  
-*代码存档：`/home/work/.openclaw/workspace/sdi_sim/`*  
+*代码存档：`/vault/sdi_sim/`*  
 *数据文件：`exp1_v13_results.json`，`exp2_olfactory_results.json`，`exp3_emergence_results.json`，`exp4_modularity_results.json`*

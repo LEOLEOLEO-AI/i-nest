@@ -9,7 +9,7 @@ from collections import defaultdict, Counter
 sys.path.insert(0, r'D:\Obsidian\scripts')
 from llm_router import llm_call
 
-VAULT = Path(r'D:\Obsidian\home\work\.openclaw\workspace')
+VAULT = Path(r'D:\Obsidian\vault')
 INBOX = VAULT / '00_Inbox'
 KNOWLEDGE = VAULT / '10_Knowledge'
 OUTPUT = VAULT / '99_Meta'

@@ -38,7 +38,7 @@ tags: [inest, first-principles, autocatalytic, emergence]
 """
 
 full = front + content
-dst = Path(r"D:\Obsidian\home\work\.openclaw\workspace\40_iNEST\41_Theory\autocatalytic_closure_emergence.md")
+dst = Path(r"D:\Obsidian\vault\40_iNEST\41_Theory\autocatalytic_closure_emergence.md")
 dst.parent.mkdir(parents=True, exist_ok=True)
 dst.write_text(full, encoding="utf-8")
 print(f"Saved: {dst.stat().st_size/1024:.1f}KB")

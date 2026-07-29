@@ -69,7 +69,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 
-OUT = '/home/work/.openclaw/workspace/sdi_sim'
+OUT = '/vault/sdi_sim'
 
 # ============================================================
 # 参数（标注来源）

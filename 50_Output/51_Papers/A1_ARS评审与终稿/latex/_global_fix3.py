@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\_BASELINE_A1_CST.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\_BASELINE_A1_CST.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 print("Input: " + str(len(tex)) + " chars")
@@ -108,7 +108,7 @@ print("Text-mode underscores: " + str(uc))
 # Cleanup
 tex = re.sub(r"\n{3,}", "\n\n", tex)
 
-out = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_FULLFIX.tex"
+out = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_FULLFIX.tex"
 with open(out, "w", encoding="utf-8") as f:
     f.write(tex)
 print("Output: " + str(len(tex)) + " chars, fixes: " + str(fixes))

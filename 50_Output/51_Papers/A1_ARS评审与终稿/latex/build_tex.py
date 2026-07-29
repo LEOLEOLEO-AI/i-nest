@@ -1,7 +1,7 @@
 ﻿import re, os
 
 # Read the working test_eq.tex to get preamble
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\test_eq.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\test_eq.tex", "r", encoding="utf-8") as f:
     test_tex = f.read()
 
 # Extract preamble (up to \begin{document})
@@ -10,7 +10,7 @@ preamble = test_tex[:preamble_end].strip()
 print(f"Preamble: {len(preamble)} chars")
 
 # Read V32 content
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\A1_CST_FromPDF_CLEAN.md", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\A1_CST_FromPDF_CLEAN.md", "r", encoding="utf-8") as f:
     text = f.read()
 
 print(f"Source: {len(text)} chars, {len(text.splitlines())} lines")
@@ -214,7 +214,7 @@ for line in result.split("\n"):
 
 result = "\n".join(wrapped)
 
-out_path = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_CLEAN_v1.tex"
+out_path = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_CLEAN_v1.tex"
 with open(out_path, "w", encoding="utf-8") as f:
     f.write(result)
 

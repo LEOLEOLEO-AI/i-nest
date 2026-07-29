@@ -102,4 +102,4 @@ def generate_weekly_dashboard(workspace_root: str):
     print(f"Generated dashboard at {dashboard_path}")
 
 if __name__ == "__main__":
-    generate_weekly_dashboard(r"d:\Obsidian\home\work\.openclaw\workspace")
+    generate_weekly_dashboard(r"d:\Obsidian\vault")

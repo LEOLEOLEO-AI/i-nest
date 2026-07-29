@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 
 # === Config ===
-BASE = Path(r"D:\Obsidian\home\work\.openclaw\workspace\40_iNEST\45_Simulation")
+BASE = Path(r"D:\Obsidian\vault\40_iNEST\45_Simulation")
 DATA_DIR = BASE / "data"
 OUT_DIR = BASE / "data" / "v35_results"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -28,7 +28,7 @@ v26_summary = json.load(open(DATA_DIR / "v26_results" / "v26_summary.json"))
 v31 = json.load(open(DATA_DIR / "v31_results" / "v31_results.json"))
 
 # === Load original connectome for graph measures ===
-neuronconnect_path = Path(r"D:\Obsidian\home\work\.openclaw\workspace\_archive_02_Zettelkasten\NeuronConnect.xls")
+neuronconnect_path = Path(r"D:\Obsidian\vault\_archive_02_Zettelkasten\NeuronConnect.xls")
 G_full = None
 try:
     import xlrd

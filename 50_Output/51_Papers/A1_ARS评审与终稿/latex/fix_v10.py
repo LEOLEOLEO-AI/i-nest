@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V9_FINALFIX.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V9_FINALFIX.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 fixes = 0
@@ -60,7 +60,7 @@ tex = re.sub(r'\n{3,}', '\n\n', tex)
 # Remove empty math blocks
 tex = re.sub(r'\$\$', '', tex)
 
-out_path = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V10_MERGED.tex"
+out_path = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V10_MERGED.tex"
 with open(out_path, "w", encoding="utf-8") as f:
     f.write(tex)
 

@@ -19,7 +19,7 @@
 ### 🔍 根本原因
 ```
 OpenClaw 本地生成：
-  /home/work/.openclaw/workspace/research/2026-06-23-comprehensive_diagnosis.md (20 KB)
+  /vault/research/2026-06-23-comprehensive_diagnosis.md (20 KB)
   
 Genspark 工作目录：
   ~/i-nest/ (GitHub 克隆)
@@ -36,7 +36,7 @@ Genspark 工作目录：
 
 ### 📊 时间轴
 ```
-04:32 EDT  : 诊断报告生成在 /home/work/.openclaw/workspace/research/
+04:32 EDT  : 诊断报告生成在 /vault/research/
 04:34 EDT  : 后台推送尝试（推送的是 Genspark ~/i-nest，不包含诊断报告）
 07:30 EDT  : 同步操作（仍未包含诊断报告）
 07:47 EDT  : 推送操作（仍未包含诊断报告）
@@ -51,7 +51,7 @@ Genspark 工作目录：
 
 ### ✅ 步骤 1：文件复制
 ```bash
-cp /home/work/.openclaw/workspace/research/2026-06-23-comprehensive_diagnosis.md ~/i-nest/50_Output/
+cp /vault/research/2026-06-23-comprehensive_diagnosis.md ~/i-nest/50_Output/
 ```
 
 **验证**：
@@ -163,7 +163,7 @@ OpenClaw workspace 和 Genspark ~/i-nest 使用完全不同的目录结构
 工作流规范更新：
 
 1️⃣ OpenClaw 生成诊断报告
-   位置：/home/work/.openclaw/workspace/research/
+   位置：/vault/research/
 
 2️⃣ 【新增】复制到 Genspark
    命令：cp source ~/i-nest/50_Output/
@@ -179,7 +179,7 @@ OpenClaw workspace 和 Genspark ~/i-nest 使用完全不同的目录结构
 ### 方案 B：建立符号链接绑定
 ```bash
 # 在 Genspark 中创建指向 OpenClaw 的符号链接
-ln -s /home/work/.openclaw/workspace/research ~/i-nest/50_Output/openclaw_reports
+ln -s /vault/research ~/i-nest/50_Output/openclaw_reports
 ```
 
 缺点：符号链接可能不被 git 跟踪

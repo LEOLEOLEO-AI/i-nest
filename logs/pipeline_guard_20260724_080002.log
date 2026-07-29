@@ -1,0 +1,98 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-07-24 08:00
+============================================================
+[08:00:03] [S2] Searching Semantic Scholar (19 queries)...
+[08:00:07]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[08:00:07] [arXiv] Searching arXiv (via proxy, 19 queries)...
+[08:00:36]   arXiv skip irrelevant: DQAOA-GPT: AI-Accelerated Distributed Quantum Optimization f
+[08:00:51]   Insight [2/3]: AlphaRoute: Large Language Models as Semantic Opti...
+[08:00:51]   arXiv skip irrelevant: GUIDED Network-Agnostic Feature Initialization for Spatial T
+[08:01:34]   arXiv TCC-wafer-chiplet: 429 rate limit, waiting 10s...
+[08:02:31]   arXiv TCC-wafer-chiplet: The read operation timed out, retry 2...
+[08:02:53]   arXiv TCC-wafer-chiplet: 429 rate limit, waiting 30s...
+[08:04:11]   arXiv TCC-reconfigurable: The read operation timed out, retry 1...
+[08:04:46]   arXiv TCC-reconfigurable: The read operation timed out, retry 2...
+[08:05:20]   Insight [3/3]: MoX: Efficient MoE Routing on Direct-Connect Topol...
+[08:05:20]   arXiv skip irrelevant: Dirac-vortex modes beyond the continuum limit
+[08:05:20]   arXiv skip irrelevant: Convergence-Latency-Aware Adaptive Modulation and Resource A
+[08:05:33]   arXiv skip irrelevant: The Duval--Reiner Conjecture: Counterexamples and the Second
+[08:05:33]   arXiv skip irrelevant: A reduction scheme for general-order Ising-like Hamiltonians
+[08:05:33]   arXiv skip irrelevant: A Structure-Adaptive Random Feature Method for High-Dimensio
+[08:05:39]   arXiv skip irrelevant: A Phased Development Framework Enabling Islanded Operation o
+[08:05:45]   Insight [1/3]: Nanowire networks' interconnection graphs from the...
+[08:05:50]   arXiv skip irrelevant: GUIDED Network-Agnostic Feature Initialization for Spatial T
+[08:05:50]   arXiv skip irrelevant: Evaluating DV/CV-QKD Architectures for SAFE Long-Term Secure
+[08:05:56]   arXiv skip irrelevant: Qoreo: Choreographic Programming for Quantum Distributed Sys
+[08:05:56]   arXiv skip irrelevant: Distributed Colouring with 4/3 chi Colours for Hyperbolic Ra
+[08:05:56]   arXiv skip irrelevant: Time Series Network Utilization KPI Forecasting Using Advanc
+[08:06:00]   arXiv skip irrelevant: Quantum Fisher Information in semiclassical magnon systems
+[08:06:00]   arXiv skip irrelevant: Probing the temperature dependence of dielectric function of
+[08:06:00]   arXiv skip irrelevant: Chained Attacks on Drone-Based Federated Learning: From Netw
+[08:06:04]   arXiv skip irrelevant: From risk to flourishing: Seeds for responding to a complex 
+[08:06:04]   arXiv skip irrelevant: Raman-Assisted Multiband Nonlinear Frequency-Conversion Netw
+[08:06:04]   arXiv skip irrelevant: Study of ordering in (MoCrTi)$_{100-x}$Al$_x$ refractory hig
+[08:06:17]   Insight [2/3]: Self-organizing Architecture of Receptron Units: a...
+[08:06:21]   Insight [2/3]: Current Injection Spiking Neural Network for Infra...
+[08:06:26]   Insight [2/3]: SpikingMOT: A Spike-Driven Multi-Object Tracker...
+[08:06:44]   arXiv skip irrelevant: Chained Attacks on Drone-Based Federated Learning: From Netw
+[08:06:44]   arXiv skip irrelevant: JEPA-CFM: A Joint Embedding Predictive Architecture-based Ch
+[08:06:44]   arXiv skip irrelevant: OpenSkillRisk: Benchmarking Agent Safety When Using Real-Wor
+[08:06:53]   Insight [1/3]: WiFi Sensing via Reservoir Computing...
+[08:06:59]   Insight [1/3]: On Optimal Event-Triggered Distributed Control for...
+[08:06:59]   arXiv skip irrelevant: Terascale Query Processing in the Browser: Rethinking GPU Ac
+[08:07:02]   arXiv skip irrelevant: Adaptive Multi-Expert Graph Transformer for Interpretable EE
+[08:07:02]   arXiv skip irrelevant: FSDBN: Foreground-Aware EEG-Visual Alignment via Dynamic Bra
+[08:07:02]   arXiv skip irrelevant: A model for generating temporal networks with dynamic commun
+[08:07:11]   Insight [1/3]: Spectral Higher-Order Neural Networks Have Sharp E...
+[08:07:11]   arXiv skip irrelevant: Online Stochastic Matchings: Stability on Hypergraphs
+[08:07:11]   arXiv skip irrelevant: Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-In
+[08:07:18]   arXiv skip irrelevant: Intelligence from Learnable Novelty
+[08:07:18]   arXiv skip irrelevant: Principled Direction-Free Intrinsic Motivation through Model
+[08:07:41]   Insight [1/3]: Hybrid LLM-Guided Search for Quantum Reservoir Arc...
+[08:07:47]   Insight [2/3]: Quantum Reservoir Computing: Recent Advances and F...
+[08:07:47]   arXiv skip irrelevant: Intelligence from Learnable Novelty
+[08:07:52]   arXiv skip irrelevant: ClouDens: Operational Context-Aware Anomaly Detection for La
+[08:07:59]   Insight [1/3]: A Unified Discrete and Continuous Theory of Core-H...
+[08:07:59]   arXiv skip irrelevant: Multi-Level Privacy-Preserving Dementia Detection from Speec
+[08:08:01] [arXiv] 12 new papers, 0 errors across 19 queries
+[08:08:01] [GN] Google News RSS...
+[08:10:08]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:12:15]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:12:37]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:12:59]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:13:00] [GN] 0 new articles
+
+  Total: 12 new items to inbox
+[08:13:00] [Process] LLM classify (free tier, limit=20)...
+[08:13:25] [Process] Classified: 0
+[08:13:25] [Genspark] Generating research brief...
+[08:13:26] [Genspark] Research brief written: genspark_research_brief.md
+[08:13:26] [Graph] Scanning wiki links...
+[08:13:46] [Graph] 5565 files, 11437 links
+[08:13:47] [Graph] Exported: 5565 nodes, 8890 edges
+[08:13:47] [Graph] 0 missing backlinks
+Exception in thread Thread-1 (_readerthread):
+Traceback (most recent call last):
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 1515, in _readerthread
+    buffer.append(fh.read())
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa1 in position 19: invalid start byte
+[08:15:37] [DailyGen] Daily_Action + Focus + Insights generated
+[08:15:37] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+12(arXiv)+0(GN) | Written: 12 new papers
+  Processed: 0 | Nodes: 5565 edges: 8890 | Missing links: 0 | Genspark: OK
+  Elapsed: 934s
+============================================================
+[08:15:37] [State] research_state.json updated
+[08:15:37] [Evolution] Evidence + hypotheses updated
+[08:15:38] [Dashboard] Live dashboard published

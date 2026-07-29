@@ -1,8 +1,8 @@
 ﻿"""Generate clean V23, V25, V26, V27, V28, V29 from V24 engine template."""
 import os, json
 
-SIM = r'D:\Obsidian\home\work\.openclaw\workspace\simulation'
-DATA = r'D:\Obsidian\home\work\.openclaw\workspace\simulation\data'
+SIM = r'D:\Obsidian\vault\simulation'
+DATA = r'D:\Obsidian\vault\simulation\data'
 
 def read_template():
     """Read V24 as the base template."""

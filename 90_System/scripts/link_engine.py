@@ -8,9 +8,11 @@ sys.stdout.reconfigure(encoding='utf-8')
 from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
+from dotenv import load_dotenv
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
-KEY = os.environ.get("DEEPSEEK_API_KEY") or "REDACTED_DEEPSEEK_KEY"
+VAULT = Path(r"D:\Obsidian\vault")
+load_dotenv(VAULT / ".env")
+KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 
 def tokenize(text):
     """Simple multi-language tokenizer"""

@@ -2,7 +2,7 @@
 from pathlib import Path
 
 PORT = 8899
-SERVER = r"D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\vault_server.py"
+SERVER = r"D:\Obsidian\vault\90_System\scripts\vault_server.py"
 PYTHON = r"C:\Users\LEO\AppData\Local\Programs\Python\Python310\python.exe"
 
 def is_running():

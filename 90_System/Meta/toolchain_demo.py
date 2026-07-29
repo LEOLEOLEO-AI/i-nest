@@ -7,7 +7,7 @@ import numpy as np, time, json, os
 print("=" * 60)
 print("  TCC + iNEST + CST Toolchain Demo")
 print("=" * 60)
-OUT = "D:/Obsidian/home/work/.openclaw/workspace/99_Meta/toolchain_demo_output"
+OUT = "D:/Obsidian/vault/99_Meta/toolchain_demo_output"
 os.makedirs(OUT, exist_ok=True)
 results = {}
 

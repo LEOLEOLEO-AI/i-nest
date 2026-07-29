@@ -341,7 +341,7 @@ CST视角（革命性重构）：
 
 ---
 
-*文件路径：`/home/work/.openclaw/workspace/CST仿真平台/CST_算力网络升级_底层逻辑与项目指南.md`*
+*文件路径：`/vault/CST仿真平台/CST_算力网络升级_底层逻辑与项目指南.md`*
 
 ## Related Notes
 

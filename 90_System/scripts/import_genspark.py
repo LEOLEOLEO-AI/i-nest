@@ -7,7 +7,7 @@ from pptx import Presentation
 import re, json
 
 SRC = Path(r"D:\Output\Genspark")
-DST = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+DST = Path(r"D:\Obsidian\vault")
 
 def extract_docx(filepath):
     """Extract text from .docx, preserving structure"""

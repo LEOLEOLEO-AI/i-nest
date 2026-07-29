@@ -74,7 +74,7 @@ https://gitee.com/iBrainNest/i-nest/blob/diagnosis/2026-06-23/resource/2026-06-2
 
 ### ✅ 诊断报告完整
 ```
-位置：/home/work/.openclaw/workspace/research/2026-06-23-comprehensive_diagnosis.md
+位置：/vault/research/2026-06-23-comprehensive_diagnosis.md
 大小：13 KB
 行数：350+ 行
 内容：完整的系统性诊断报告
@@ -104,12 +104,12 @@ https://gitee.com/iBrainNest/i-nest/blob/diagnosis/2026-06-23/resource/2026-06-2
 
 ### 方式 1：本地直接查看（✅ 立即可用）
 ```bash
-cat /home/work/.openclaw/workspace/research/2026-06-23-comprehensive_diagnosis.md
+cat /vault/research/2026-06-23-comprehensive_diagnosis.md
 ```
 
 ### 方式 2：从 Git 提取（✅ 立即可用）
 ```bash
-cd /home/work/.openclaw/workspace
+cd /vault
 git show da42c140:research/2026-06-23-comprehensive_diagnosis.md
 ```
 

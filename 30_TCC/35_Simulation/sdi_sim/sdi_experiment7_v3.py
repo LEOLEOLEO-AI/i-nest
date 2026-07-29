@@ -16,7 +16,7 @@ import numpy as np, json, os, time
 import networkx as nx
 from collections import defaultdict
 
-BASE = '/home/work/.openclaw/workspace/sdi_sim'
+BASE = '/vault/sdi_sim'
 OUT  = os.path.join(BASE, 'exp7_v3_results.json')
 CE_DATA = os.path.join(BASE, 'celegans_sim/connectome_v8_data.json')
 

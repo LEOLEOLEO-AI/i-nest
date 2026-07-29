@@ -27,7 +27,7 @@
 
 ## 一、Obsidian 同步
 
-**本地路径**: `D:\Obsidian\home\work\.openclaw\workspace`
+**本地路径**: `D:\Obsidian\vault`
 
 ### 对话触发
 当用户说 **"同步gitee"** 时，Agent 执行：
@@ -77,7 +77,7 @@ git clone https://gitee.com/iBrainNest/i-nest.git ~/i-nest-sync
 
 ## 三、Claw Computer 同步
 
-**本地路径**: `D:\Obsidian\home\work\.openclaw\workspace`（与 Obsidian 共享）
+**本地路径**: `D:\Obsidian\vault`（与 Obsidian 共享）
 
 ### 对话触发
 当用户说 **"同步gitee"** 时，执行与 Obsidian 相同的同步脚本。

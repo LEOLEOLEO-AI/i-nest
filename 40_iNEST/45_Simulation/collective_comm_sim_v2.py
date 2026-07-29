@@ -463,7 +463,7 @@ def plot_results(results):
         color=GOLD, fontsize=13, fontweight='bold', y=0.99
     )
 
-    out_path = '/home/work/.openclaw/workspace/collective_comm_naas/03_仿真验证/collective_comm_v2_result.png'
+    out_path = '/vault/collective_comm_naas/03_仿真验证/collective_comm_v2_result.png'
     plt.savefig(out_path, dpi=150, bbox_inches='tight', facecolor='#0A1628')
     plt.close()
     print(f"\n✅ 图: {out_path}")

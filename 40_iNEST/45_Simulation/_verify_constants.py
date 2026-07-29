@@ -1,7 +1,7 @@
 ﻿"""Verify iNEST hierarchy constants against SDI simulation data."""
 import json, numpy as np, os
 
-data_dir = r'D:\Obsidian\home\work\.openclaw\workspace\simulation\data'
+data_dir = r'D:\Obsidian\vault\simulation\data'
 
 def load_json(subdir, fname):
     p = os.path.join(data_dir, subdir, fname)

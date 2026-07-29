@@ -53,11 +53,11 @@ print(f"\nDuplicate groups: {len(dups)}")
 sorted_dups = sorted(dups.items(), key=lambda x: -len(x[1]))
 for name, files in sorted_dups[:30]:
     # Check if any are in the vault
-    in_vault = [f for f in files if "home\\work\\.openclaw\\workspace" in f["path"]]
-    outside = [f for f in files if "home\\work\\.openclaw\\workspace" not in f["path"]]
+    in_vault = [f for f in files if "vault" in f["path"]]
+    outside = [f for f in files if "vault" not in f["path"]]
     print(f"\n{name} x{len(files)} (vault:{len(in_vault)}, outside:{len(outside)})")
     for f in files[:5]:
-        loc = "VAULT" if "home\\work\\.openclaw\\workspace" in f["path"] else "OUTSIDE"
+        loc = "VAULT" if "vault" in f["path"] else "OUTSIDE"
         size_kb = f["size"] / 1024
         path_short = f["path"].replace("D:\\", "")
         print(f"  [{loc}] {size_kb:.1f}KB {path_short[:100]}")

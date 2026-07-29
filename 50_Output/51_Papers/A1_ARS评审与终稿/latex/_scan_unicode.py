@@ -1,4 +1,4 @@
-﻿with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_BASELINE_FIX.tex", "r", encoding="utf-8") as f:
+﻿with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_BASELINE_FIX.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 # Find ALL non-ASCII chars
@@ -22,7 +22,7 @@ for c in sorted(non_ascii, key=lambda x: ord(x)):
 
 report_text = "\n".join(report)
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\_unicode_final.txt", "w", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\_unicode_final.txt", "w", encoding="utf-8") as f:
     f.write(report_text)
 
 print(f"Found {len(non_ascii)} unique non-ASCII chars")

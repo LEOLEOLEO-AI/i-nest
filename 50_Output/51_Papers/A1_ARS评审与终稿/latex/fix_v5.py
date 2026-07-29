@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V4_TARGETED.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V4_TARGETED.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 # List of math commands that should ALWAYS be in math mode
@@ -74,7 +74,7 @@ print(f"Wrapped {fixes} bare math commands")
 # Cleanup: remove triple+ newlines
 tex = re.sub(r"\n{3,}", "\n\n", tex)
 
-out_path = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V5_FULLFIX.tex"
+out_path = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V5_FULLFIX.tex"
 with open(out_path, "w", encoding="utf-8") as f:
     f.write(tex)
 

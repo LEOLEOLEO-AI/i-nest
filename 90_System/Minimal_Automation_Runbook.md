@@ -6,8 +6,8 @@
 
 `TCC_iNEST_Linkage` 是唯一保留的登录任务：启动 Obsidian 和本地预览守护。
 
-- 预览地址：[主页](http://127.0.0.1:8899/home/work/.openclaw/workspace/Home.md)
-- 预览地址：[研发看板](http://127.0.0.1:8899/home/work/.openclaw/workspace/70_Dashboard/index.html)
+- 预览地址：[主页](http://127.0.0.1:8899/vault/Home.md)
+- 预览地址：[研发看板](http://127.0.0.1:8899/vault/70_Dashboard/index.html)
 - 守护范围：只保证 `8899` 预览服务可用。
 - 明确不在登录时执行：爬取、LLM 分类、Git 同步、DDNS、模型池刷新、微信桥接。
 
@@ -25,7 +25,7 @@
 `iNEST_Daily_Pipeline` 通过 `pipeline_guard.py` 运行。实际运行上限为 20 分钟，任务计划程序另设 25 分钟兜底。
 
 - 超时后守卫会终止整个子进程树，并暂停后续自动运行。
-- 状态与日志链接写入 [管线状态](http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/07_Pipeline_Status.md)。
+- 状态与日志链接写入 [管线状态](http://127.0.0.1:8899/vault/60_MOC/07_Pipeline_Status.md)。
 - 审阅后，在 Codex 对话中输入“继续科研管线”即可用新的受控窗口恢复；不会续接已终止的旧进程。
 
 ## 已禁用的重复任务

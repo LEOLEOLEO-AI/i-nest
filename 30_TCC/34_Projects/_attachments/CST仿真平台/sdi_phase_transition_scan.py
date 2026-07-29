@@ -372,7 +372,7 @@ def plot_scan(results):
                 fontweight='bold' if bold else 'normal',va='top')
         y-=max(0.032,fs*0.004)
 
-    out='/home/work/.openclaw/workspace/sdi_sim/sdi_phase_scan.png'
+    out='/vault/sdi_sim/sdi_phase_scan.png'
     plt.savefig(out,dpi=150,bbox_inches='tight')
     plt.close()
     print(f"\n✅ 相变扫描图: {out}")
@@ -380,7 +380,7 @@ def plot_scan(results):
 
 # ============================================================
 if __name__=='__main__':
-    import os; os.makedirs('/home/work/.openclaw/workspace/sdi_sim',exist_ok=True)
+    import os; os.makedirs('/vault/sdi_sim',exist_ok=True)
     t_all=time.time()
     results=run_scan()
 

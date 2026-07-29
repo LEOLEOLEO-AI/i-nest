@@ -17,7 +17,7 @@ tags:
 
 为了避免“散落各处、版本冲突”，所有经过清洗、校验的最终版实验与仿真数据，**必须集中存放在专用的数据仓库目录中**：
 ```text
-/home/work/.openclaw/workspace/00_KnowledgeBase_知识库/05_Datasets_仿真与实验数据/
+/vault/00_KnowledgeBase_知识库/05_Datasets_仿真与实验数据/
 ├── BNN_Connectomes/      # 生物神经网络连接组原始数据 (C.elegans, Drosophila等)
 ├── ANN_ComputeGraphs/    # 人工神经网络计算流图提取数据 (ResNet, Transformer等)
 ├── Simulation_Results/   # 各版本仿真输出结果 (如 cst_v21_results.json)
@@ -48,7 +48,7 @@ def load_validated_cst_data(target_version="v22"):
     """
     统一的防错数据加载器。优先从知识库的标准化目录中寻找对应版本的数据。
     """
-    base_dir = "/home/work/.openclaw/workspace/00_KnowledgeBase_知识库/05_Datasets_仿真与实验数据/Simulation_Results/"
+    base_dir = "/vault/00_KnowledgeBase_知识库/05_Datasets_仿真与实验数据/Simulation_Results/"
     
     # 1. 寻找带有 FINAL 标记的最高优先级数据
     final_file = os.path.join(base_dir, f"cst_results_{target_version}_FINAL.json")

@@ -493,7 +493,7 @@ def plot_v6(net,logs,sf,Cf,Lf,af):
                 fontweight='bold' if bold else 'normal',va='top')
         y-=max(0.036,fs*0.0045)
 
-    out='/home/work/.openclaw/workspace/sdi_sim/sdi_v6_celegans_replication.png'
+    out='/vault/sdi_sim/sdi_v6_celegans_replication.png'
     plt.savefig(out,dpi=150,bbox_inches='tight')
     plt.close()
     print(f"\n✅ 图表: {out}")
@@ -501,7 +501,7 @@ def plot_v6(net,logs,sf,Cf,Lf,af):
 
 # ============================================================
 if __name__=='__main__':
-    import os; os.makedirs('/home/work/.openclaw/workspace/sdi_sim',exist_ok=True)
+    import os; os.makedirs('/vault/sdi_sim',exist_ok=True)
     t0=time.time()
     print("="*70)
     print(f"SDI网络仿真 v6 — 突触疲劳+不应期+E-L比例约束 → α→1.5")

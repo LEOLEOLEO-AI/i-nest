@@ -136,4 +136,4 @@ kb:
 - [[Brain-Inspired_Internal_Intelligence_Large_Model_Progress_and_Future]]
 - [[GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
 - [[GetNote_20260606_100554_kb_iNEST_getnote_1897778465994716776_16 介观峰值定理对晶上大脑的工程指导]]
-- [[GetNote_20260606_100554_kb_paper-ideas_getnote_1903941287724843544_Universal Scaling Laws for Intelligence Emergence from Devic]]
+- [[Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities  A Renormalization Group Approach]]

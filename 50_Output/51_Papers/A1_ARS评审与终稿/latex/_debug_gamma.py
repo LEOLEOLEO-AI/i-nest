@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V6_SAFE.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V6_SAFE.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 # Search: dollar-Gamma-dollar followed by underscore
@@ -13,7 +13,7 @@ for m in matches[:5]:
     print(f"  [{ctx}]")
 
 # Check V7 for same
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V7_NODOLLAR.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V7_NODOLLAR.tex", "r", encoding="utf-8") as f:
     v7 = f.read()
 
 # After stripping $ in equation envs, what happened?

@@ -20,5 +20,5 @@ Fetching edges via Cypher (paginated)...
 
 Total edges: 1640361 in 209.1s
 Unique neurons: 46297
-Saved → /home/work/.openclaw/workspace/sdi_sim/hemibrain_real_connectome_v3.json
+Saved → /vault/sdi_sim/hemibrain_real_connectome_v3.json
 DONE

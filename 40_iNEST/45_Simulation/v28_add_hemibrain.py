@@ -1,12 +1,12 @@
 ﻿import os, csv, json, time, warnings; warnings.filterwarnings('ignore')
 import numpy as np; import networkx as nx; from scipy import stats; from collections import Counter
 np.random.seed(42)
-os.chdir(r"D:\Obsidian\home\work\.openclaw\workspace\simulation")
+os.chdir(r"D:\Obsidian\vault\simulation")
 
 v28 = json.load(open("data/v28_results/v28_results.json"))
 
 print("Loading Hemibrain v1.2...")
-csv_path = r"D:\Obsidian\home\work\.openclaw\workspace\sdi_sim\species_data\exported-traced-adjacencies-v1.2\traced-total-connections.csv"
+csv_path = r"D:\Obsidian\vault\sdi_sim\species_data\exported-traced-adjacencies-v1.2\traced-total-connections.csv"
 id_to_idx = {}
 edges = []
 with open(csv_path) as f:

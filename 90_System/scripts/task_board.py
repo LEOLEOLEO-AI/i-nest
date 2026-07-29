@@ -10,7 +10,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 from pathlib import Path
 from datetime import datetime, timedelta
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 TODAY = datetime.now().strftime("%Y-%m-%d")
 
 STATES = ["规划中", "进行中", "验证中", "已完成"]

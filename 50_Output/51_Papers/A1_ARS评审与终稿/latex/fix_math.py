@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_HAND_FIXED.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_HAND_FIXED.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 original_len = len(tex)
@@ -67,7 +67,7 @@ tex = re.sub(r'\$([^$]+)\$\(\$([^$]+)\$\)', r'$\1(\2)$', tex)
 tex = re.sub(r'\n{3,}', '\n\n', tex)
 
 # Write fixed version
-out_path = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_AUTOFIX.tex"
+out_path = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_AUTOFIX.tex"
 with open(out_path, "w", encoding="utf-8") as f:
     f.write(tex)
 

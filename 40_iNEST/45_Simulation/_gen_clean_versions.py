@@ -1,7 +1,7 @@
 ﻿"""Generate clean V23, V25-V29 source files from development notes."""
 import os, json
 
-SIM = r'D:\Obsidian\home\work\.openclaw\workspace\simulation'
+SIM = r'D:\Obsidian\vault\simulation'
 
 def make_v23():
     """V23: V22 + FEP attractor basin tracking. Small diff from V22, sigma stays ~2.74."""

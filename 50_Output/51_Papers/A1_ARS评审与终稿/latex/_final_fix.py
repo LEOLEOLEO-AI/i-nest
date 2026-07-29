@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\_BASELINE_A1_CST.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\_BASELINE_A1_CST.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 tex = tex.replace(r"\usepackage{fontspec}", "")
@@ -116,7 +116,7 @@ for line in lines:
         j += 1
 print("Text-mode underscores: " + str(uc))
 
-out = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_TRY.tex"
+out = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_TRY.tex"
 with open(out, "w", encoding="utf-8") as f:
     f.write(tex)
 print("Output: " + str(len(tex)) + " chars")

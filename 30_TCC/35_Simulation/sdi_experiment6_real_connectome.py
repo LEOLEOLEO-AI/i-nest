@@ -77,8 +77,8 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 
-OUT  = '/home/work/.openclaw/workspace/sdi_sim'
-DATA = '/home/work/.openclaw/workspace/sdi_sim/celegans_sim/connectome_v8_data.json'
+OUT  = '/vault/sdi_sim'
+DATA = '/vault/sdi_sim/celegans_sim/connectome_v8_data.json'
 
 # ============================================================
 # 参数（完全继承v12）

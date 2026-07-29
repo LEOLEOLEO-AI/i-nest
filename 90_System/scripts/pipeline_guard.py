@@ -9,13 +9,13 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 PIPELINE = VAULT / "90_System" / "scripts" / "pipeline_v3.py"
 LOGS = VAULT / "logs"
 STATE = VAULT / "state"
 STATUS_NOTE = VAULT / "60_MOC" / "07_Pipeline_Status.md"
 PAUSE_FILE = STATE / "pipeline_pause.json"
-DEFAULT_TIMEOUT_MINUTES = 20
+DEFAULT_TIMEOUT_MINUTES = 35
 TIMEZONE = ZoneInfo("Asia/Shanghai")
 
 
@@ -66,7 +66,7 @@ def write_status(status, detail, started, timeout_minutes, log_path, exit_code=N
         lines.append(f"- 退出码：`{exit_code}`")
     if log_path:
         relative = str(log_path.relative_to(VAULT)).replace("\\", "/")
-        lines.append(f"- 运行日志：[打开日志](http://127.0.0.1:8899/home/work/.openclaw/workspace/{relative})")
+        lines.append(f"- 运行日志：[打开日志](http://127.0.0.1:8899/vault/{relative})")
     if status == "timeout":
         lines.extend([
             "",

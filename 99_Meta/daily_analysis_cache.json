@@ -1,0 +1,216 @@
+{
+  "schema": "daily-analysis-cache-v1",
+  "items": {
+    "9112130cc645422125526633f505f70930b9be83f9743a24ce1b803a8ce8d0a6": {
+      "analysis": {
+        "title_zh": "DAPGNet：用于高光谱图像分类的动态自适应物理引导图扩散网络",
+        "tcc_value": "该工作不直接涉及NoC、Chiplet或晶上互连实现，但其将物理先验纳入图拓扑估计与消息传播的思路，对“拓扑作为计算对象”的TCC研究具有间接方法论价值。连续光谱波段所承载的物理关联可类比为互连系统中的链路可靠性、带宽连续性或信号相关性先验，用于驱动拓扑动态重构。其重点启发在于：拓扑不应仅由几何邻近或数据驱动特征决定，还可由领域物理约束参与生成和调制。由于摘要未提供具体硬件映射、通信代价或拓扑性能数据，不能据此判断其对片上网络优化的直接效果。",
+        "inest_value": "该工作与iNEST的直接关联有限，因为摘要未提及脉冲神经网络、神经形态硬件、临界性或涌现动力学。其动态自适应图和扩散式消息传播机制，可为神经形态系统中的活动依赖连接重塑提供抽象参考。物理先验约束拓扑演化的设计，可迁移为对SNN突触连接、局部可塑性规则或神经群间耦合的结构性约束。摘要不足以支持其具有临界态调控、时序脉冲处理或低功耗神经形态实现能力的结论。",
+        "inspiration": "可构建面向片上SNN的物理约束动态互连模型，将神经元放电相关性、链路拥塞和通信能耗共同作为图拓扑更新的输入。首先在可重构NoC或Chiplet互连仿真器中，将连续波段物理先验替换为链路延迟、错误率、热分布和带宽等硬件状态先验，并比较静态网格、纯学习拓扑与物理引导动态拓扑。其次，以稀疏脉冲消息为传播载体，设计局部拓扑重连规则，使高相关神经群获得低跳数路径，同时限制全局重构频率和布线开销。实验应联合测量分类或预测精度、平均跳数、尾延迟、能耗、拥塞率及网络活动的临界性指标，如分支比和雪崩分布。若物理引导拓扑能在相同能耗预算下维持接近临界的活动状态并改善任务性能，即可验证其TCC+iNEST交叉价值。",
+        "methodology": "根据已提供的截断摘要，DAPGNet面向高光谱图像分类，针对仅依赖空间邻近、超像素连接或特征相似度构图的局限，引入连续光谱波段所提供的物理先验。其核心是动态自适应地估计图拓扑，并在图扩散/消息传播过程中利用该物理引导关系建模像素关联。",
+        "key_finding": "该论文的核心主张是：将连续光谱带的物理先验显式注入动态图拓扑估计和消息传播，可改善高光谱像素关系建模；由于摘要不完整，未能确认具体实验结论或性能增益。",
+        "relevance": 2,
+        "id": 1,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-20_arXiv_DAPGNet Dynamic Adaptive Physics-Guided Graph Diffusion Netw.md"
+      },
+      "cached_at": "2026-07-20T08:13:35"
+    },
+    "ee8d9e400b5bbef35a3b2a504dea2fee88af1640a762a57fa12824531720ef36": {
+      "analysis": {
+        "title_zh": "混合大模型引导的量子储备池架构设计搜索",
+        "tcc_value": "该文通过混合大模型引导搜索优化量子储备池的纠缠拓扑结构，其方法论可启发TCC领域利用类似方法探索晶上互连拓扑（如NoC、Chiplet网络）的设计空间，将拓扑搜索自动化。同时，文中对架构参数（如深度、连接度）的系统性调优思路，为TCC中拓扑与计算协同优化提供了参考。",
+        "inest_value": "储备池计算是iNEST的核心基础之一，该文针对量子储备池架构的多维度设计（输入编码、纠缠拓扑、特征构建等）进行自动化搜索，直接推动了神经形态系统中储备池设计的优化方法。其混合大模型引导策略可迁移至SNN储备池或临界涌现系统的参数调优，提升设计效率与性能。",
+        "inspiration": "可验证灵感：借鉴本文的混合大模型引导搜索框架，设计面向TCC+iNEST的联合优化工具，例如同时搜索晶上互连拓扑（如Chiplet间NoC结构）和片上神经形态储备池架构（如SNN连接模式）。具体研究建议：1) 定义联合搜索空间，包含互连带宽、延迟与储备池动力学参数；2) 利用LLM生成候选拓扑与储备池配置对，通过多目标仿真评估计算效率与涌现特性；3) 在wafer-scale平台原型上验证搜索出的设计对时序任务（如混沌预测）的加速效果。",
+        "methodology": "提出混合大模型引导的搜索框架，利用大语言模型生成候选架构，结合量子储备池仿真器评估性能，迭代优化输入编码、纠缠拓扑、测量特征等多个设计维度。",
+        "key_finding": "量子储备池性能强烈依赖于架构选择（如纠缠拓扑和输入编码），而混合大模型引导搜索能有效发现高性能架构。",
+        "relevance": 3,
+        "id": 1,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_Hybrid LLM-Guided Search for Quantum Reservoir Architecture .md"
+      },
+      "cached_at": "2026-07-24T08:14:11"
+    },
+    "ce55e80f47e0b027eaf20cbb313b7f6561abf1f125e61d82ee51db576673f7d0": {
+      "analysis": {
+        "title_zh": "电流注入脉冲神经网络用于红外与可见光图像融合",
+        "tcc_value": "",
+        "inest_value": "该研究直接贡献于iNEST领域，提出电流注入方法使SNN适配红外-可见光融合任务，展示了SNN在降低计算能耗方面的潜力。其基于脉冲的稀疏计算范式验证了神经形态系统的能效优势，同时脉冲发放的动态性可能启发临界涌现现象的研究（如脉冲同步与信息整合）。",
+        "inspiration": "可探索将TCC的晶上互连拓扑与iNEST的SNN融合模型结合：设计一个基于NoC的异构Chiplet系统，其中红外和可见光感知芯片分别通过专用脉冲路由网络连接至融合处理核。利用SNN的脉冲稀疏性优化互连带宽，同时在网络拓扑中引入短程兴奋性连接模拟临界态，以实现自适应融合决策。建议在仿真环境中验证不同NoC拓扑（如mesh、torus）对脉冲传输延迟和融合精度的影响，并评估能量效率。",
+        "methodology": "本文提出电流注入脉冲神经网络，通过在SNN中引入电流刺激来实现红外与可见光图像的有效融合，利用脉冲的稀疏二值通信降低计算能耗。",
+        "key_finding": "摘要不完整，未明确给出关键发现；推测电流注入方法能使SNN克服直接应用于图像融合时的训练或表达瓶颈，实现高能效融合。",
+        "relevance": 4,
+        "id": 2,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_Current Injection Spiking Neural Network for Infrared and Vi.md"
+      },
+      "cached_at": "2026-07-24T08:14:21"
+    },
+    "c872f77fa340729763d0669bea12fbe4fe0f224a92989c87110f41d8528ce89e": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "AlphaRoute: Large Language Models as Semantic Optimizers for Multi-Objective Rou",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_AlphaRoute Large Language Models as Semantic Optimizers for .md"
+      },
+      "cached_at": "2026-07-24T08:14:31"
+    },
+    "8136765b0f00173163f2fa6872368bdf6db7f0911aaac23cb9ddede455468539": {
+      "analysis": {
+        "title_zh": "SpikingMOT：一种脉冲驱动的多目标跟踪器",
+        "tcc_value": "",
+        "inest_value": "该论文通过脉冲驱动机制实现多目标跟踪中的稀疏激活，为iNEST的神经形态计算提供了高效运动建模的方法论启发。其提出的激活稀疏性偏好（ASP）与神经形态系统的低功耗特性高度契合，可借鉴到SNN的轨迹预测中，减少冗余计算。此外，脉冲时序编码与目标关联的融合方式，展示了稀疏脉冲在复杂动态场景下的潜力，有助于推动临界涌现理论在事件驱动视觉中的应用。",
+        "inspiration": "结合TCC的晶上互连拓扑与iNEST的脉冲神经网络，可设计一种基于脉冲通信的分布式多目标跟踪架构：在Chiplet间采用轻量级脉冲路由协议，利用NoC传递稀疏轨迹预测结果，降低带宽需求。具体可执行研究：构建一个混合系统，其中每个Chiplet运行一个脉冲神经元层进行局部特征提取，通过拓扑感知的脉冲中继实现全局目标关联，验证在低延迟下保持跟踪精度的可行性。此外，可探索利用临界态涌现的自组织特性来自适应调整脉冲发射率，以平衡能量效率与跟踪性能。",
+        "methodology": "论文提出激活稀疏性偏好（ASP）框架，通过识别轨迹预测中的必要稀疏激活，设计脉冲驱动的多目标跟踪器，实现高效的运动建模。",
+        "key_finding": "多目标跟踪中的轨迹预测不一定需要密集激活，稀疏脉冲响应足以实现可靠的目标关联。",
+        "relevance": 3,
+        "id": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_SpikingMOT A Spike-Driven Multi-Object Tracker.md"
+      },
+      "cached_at": "2026-07-24T08:14:37"
+    },
+    "4c9c4d90cd4721e198afdbc36b8e53d0d12cc286be9f3ca1cf03e99bfdcd0783": {
+      "analysis": {
+        "title_zh": "谱高阶神经网络具有尖锐的表达性界限",
+        "tcc_value": "该论文提出的谱属性参数共享方法可启发晶上互连网络的拓扑表示优化：通过谱分解压缩NoC/chiplet互连的超高维连接矩阵，降低参数复杂度。其权重共享思想适用于chiplet间通信链路的效率优化，而高阶超图结构可建模多跳互连的拓扑特性。",
+        "inest_value": "神经超图的谱参数化对神经形态计算中突触权重的压缩与共享具有参考价值，可减少SNN中大量突触连接的存储开销。同时，谱属性可能反映临界涌现系统的动力学特征，为储备池计算中网络拓扑的谱优化提供新视角。",
+        "inspiration": "可将谱高阶网络的参数共享机制应用于晶上互连（TCC）的拓扑设计，利用特征值约束优化数据流路径，降低布线复杂度。同时借鉴其表达性界限理论，分析SNN储备池（iNEST）中网络临界状态的谱特征，探索谱参数化下的涌现计算效率。具体可执行：设计基于拉普拉斯特征分解的NoC路由策略，验证参数共享后网络传输的容错性与效率；或在SNN中实现谱权重共享，测试对脉冲时序依赖可塑性的影响。",
+        "methodology": "利用谱属性（如特征值和特征向量）对神经超图进行参数化，通过权重共享机制减少超边权重数量，从而缓解参数爆炸问题。",
+        "key_finding": "谱参数化方法能显著降低神经超图的参数量，同时其表达性存在严格的界限（sharp expressivity bounds）。",
+        "relevance": 3,
+        "id": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_Spectral Higher-Order Neural Networks Have Sharp Expressivit.md"
+      },
+      "cached_at": "2026-07-24T08:14:48"
+    },
+    "e70046748db56c6126849ef939e9589c58364ed9581c2598f7c72ef76de80b48": {
+      "analysis": {
+        "title_zh": "自组织Receptron单元架构：面向边缘智能的硬件感知框架",
+        "tcc_value": "该研究强调硬件感知和自组织架构，可为晶上互连系统设计提供低功耗、资源高效的拓扑结构启发，但未涉及网络互连或拓扑计算的具体方法，价值有限。",
+        "inest_value": "该研究提出单单元Receptron神经形态分类器，实现非线性决策边界，与储备池计算和临界涌现思想相关，为边缘设备上的轻量级神经形态系统提供了新范式，对iNEST中的SNN和自组织涌现具有启发意义。",
+        "inspiration": "结合Receptron的自组织特性和TCC的互连优势，可在Chiplet架构中设计分布式分类器：每个Chiplet包含一个Receptron单元，通过NoC传递局部决策，利用自组织规则调整单元间连接权重，实现全局涌现的智能决策。可验证研究：在仿真平台上构建4x4 Receptron-Chiplet阵列，比较其与多层感知器的能效比和分类性能。",
+        "methodology": "提出Receptron模型，一种单单元架构通过硬件感知的自组织学习实现非线性分类边界，无需多层网络即可直接部署于微控制器。",
+        "key_finding": "单Receptron单元即可实现非线性决策边界，克服了传统单神经元线性限制，且适配边缘设备资源约束。",
+        "relevance": 2,
+        "id": 6,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_Self-organizing Architecture of Receptron Units a Hardware-A.md"
+      },
+      "cached_at": "2026-07-24T08:14:57"
+    },
+    "377f4336eb3b74de1628e36de4377ae8b68278a3c4d8e1e1c051a2f120432e37": {
+      "analysis": {
+        "title_zh": "量子储层计算：最新进展与未来方向",
+        "tcc_value": "",
+        "inest_value": "量子储层计算是储层计算的一种形式，与iNEST中的脉冲神经网络和临界涌现有概念联系。它展示了利用量子动力学作为储层，可能提供更大的状态空间和避免梯度消失问题，为神经形态计算提供新的物理实现方式。",
+        "inspiration": "结合TCC和iNEST，可探索在芯片级量子系统中实现量子储层计算，利用片间互连拓扑结构（如NoC）来连接多个小型量子储层单元，形成分布式储层网络。可研究不同拓扑（如环形、网格、全连接）对量子储层计算性能（如记忆容量、泛化能力）的影响。建议设计一个包含多个量子点或超导量子比特的芯片系统，每个单元作为局部储层，通过片上网络进行通信，从而在保持量子优势的同时实现可扩展性。可验证是否特定拓扑能增强量子储层的非线性动力学或临界性。",
+        "methodology": "论文核心方法论是回顾量子储层计算的最新进展，强调使用固定的、弱调谐的量子系统作为动力学储层，仅训练经典读出层，从而避免变分量子电路的贫瘠高原问题。",
+        "key_finding": "量子储层计算利用固定量子系统的希尔伯特空间指数级扩展提供计算能力，同时避免变分训练中的贫瘠高原问题。",
+        "relevance": 3,
+        "id": 7,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_Quantum Reservoir Computing Recent Advances and Future Direc.md"
+      },
+      "cached_at": "2026-07-24T08:15:27"
+    },
+    "4e6dacc543ff3dd7ac26bdbb650b6149fada1c3178d244f90fba00b5c5efa24c": {
+      "analysis": {
+        "title_zh": "纳米线网络从其显微照片中的互连图",
+        "tcc_value": "该研究提供了从实际物理自组装系统中提取真实网络拓扑的方法，对TCC领域具有重要启发：可通过显微图像分析获取Chiplet/NoC等互连架构的精确图结构，用于验证理论拓扑模型；同时，自组装纳米线网络的复杂连接模式可能启发新型拓扑计算范式，如利用物理拓扑本身进行信息处理。",
+        "inest_value": "银纳米线网络已表现出积累、非线性和多时间尺度记忆等神经形态特性，直接为iNEST提供物理实现载体。提取的互连图可用于构建脉冲神经网络（SNN）或储备池计算的拓扑结构，研究拓扑与计算性能的关系；此外，自组装网络的随机性和可调性有利于探索临界涌现行为。",
+        "inspiration": "结合TCC的拓扑提取方法与iNEST的神经形态计算，可设计一类自组装纳米线网络计算平台：首先从显微照片提取实际互连图，然后将其作为储备池的固定拓扑，利用纳米线固有的记忆和非线性进行时序信号处理。建议开展仿真实验，对比随机图、小世界图与提取图对储备池性能（如记忆容量、非线性能力）的影响，验证拓扑结构是否具有临界计算优势。进一步，探索通过控制自组装条件（如密度、长度）来定制拓扑，以实现面向特定任务的TCC+iNEST混合系统。",
+        "methodology": "通过分析银纳米线网络的光学显微照片，利用图像处理技术提取节点（交叉点）和边（纳米线线段），构建其互连图结构，以表征实验获得的网络架构。",
+        "key_finding": "自组装银纳米线网络具有复杂的互连拓扑，该拓扑可从显微照片中精确提取，为后续分析其信号处理能力提供了结构基础。",
+        "relevance": 4,
+        "id": 8,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_Nanowire networks' interconnection graphs from their photomi.md"
+      },
+      "cached_at": "2026-07-24T08:15:37"
+    },
+    "cc29e884a0fbf71eab0406d0d1054a97ce7a189f1b410d265798a1a1a4a08ef0": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Driven criticality links universal computation and optimal representations",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-25_arXiv_Driven criticality links universal computation and optimal r.md"
+      },
+      "cached_at": "2026-07-25T08:13:37"
+    },
+    "d6fbda8eb79a203f3a5d22f62a3a7502b3fe80b983e5776446f0230c3c919d09": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Chip Floorplanning Combining Convex and Non-convex Optimization",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-25_arXiv_Chip Floorplanning Combining Convex and Non-convex Optimizat.md"
+      },
+      "cached_at": "2026-07-25T08:13:37"
+    },
+    "b39ac9b02b9729ef54ee36c25a14ad206972bac55ee8909fca77484fc5b6db2c": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Pseudogap formation in the moderate correlated layered attractive Hubbard model",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-25_arXiv_Pseudogap formation in the moderate correlated layered attra.md"
+      },
+      "cached_at": "2026-07-25T08:13:37"
+    },
+    "7a1068919b240fc1cbb420dc01d8114e2414eb9ac6cee5466e376b75ee1dc619": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "Photo-induced currents and short-term memory for reservoir computing in a ferroe",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-25_arXiv_Photo-induced currents and short-term memory for reservoir c.md"
+      },
+      "cached_at": "2026-07-25T08:13:37"
+    },
+    "1d2afafb8bfddf9db2a7341539505f3a9ed5badfdf36d2c6b4643cdbd6840fac": {
+      "analysis": {
+        "id": 5,
+        "title_zh": "Perspective Latents as an Architectural Condition for Causal Emergence in Active",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-25_arXiv_Perspective Latents as an Architectural Condition for Causal.md"
+      },
+      "cached_at": "2026-07-25T08:13:37"
+    },
+    "fb58eae34406ea21a4b3203c9ce271e26d68dba246ca06cbd9fc1a966c87401a": {
+      "analysis": {
+        "id": 6,
+        "title_zh": "Cross-Domain Generalization in Optical Networks via Joint Contrastive and Classi",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-07-25_arXiv_Cross-Domain Generalization in Optical Networks via Joint Co.md"
+      },
+      "cached_at": "2026-07-25T08:13:37"
+    }
+  }
+}

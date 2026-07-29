@@ -1,7 +1,7 @@
 ﻿import os
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 WRITE = Path(r"D:\iNEST\Write")
 
 # Build vault index: {filename_lower: max_size}

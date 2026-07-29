@@ -77,7 +77,7 @@ function getMimeType(filePath: string): string {
 // File path extraction and attachment building
 // ---------------------------------------------------------------------------
 
-/** Extract absolute file paths from text (e.g. `/home/work/.openclaw/workspace/output.png`) */
+/** Extract absolute file paths from text (e.g. `D:/Obsidian/vault/output.png`) */
 function extractFilePaths(text: string): string[] {
   // Match absolute paths under /home or /tmp only — these are the directories
   // where the agent saves output files. We intentionally exclude /etc, /root,

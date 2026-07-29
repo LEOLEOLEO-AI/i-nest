@@ -1,7 +1,7 @@
 ﻿import re
 import os
 
-file = r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\A1_CST_Theory_V32_MERGED_CLEAN.md'
+file = r'D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\A1_CST_Theory_V32_MERGED_CLEAN.md'
 with open(file, 'r', encoding='utf-8') as f:
     t = f.read()
 
@@ -42,7 +42,7 @@ with open(file, 'w', encoding='utf-8') as f:
     f.write(t)
 
 # Write log
-log_path = r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\_mathjax_log.txt'
+log_path = r'D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\_mathjax_log.txt'
 with open(log_path, 'w', encoding='utf-8') as f:
     f.write('\n'.join(log))
 

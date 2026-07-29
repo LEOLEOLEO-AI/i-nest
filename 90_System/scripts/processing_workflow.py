@@ -9,10 +9,12 @@ from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
 from openai import OpenAI
+from dotenv import load_dotenv
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
+load_dotenv(VAULT / ".env")
 PROCESSING = VAULT / "20_Processing"
-KEY = os.environ.get("DEEPSEEK_API_KEY") or "REDACTED_DEEPSEEK_KEY"
+KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 client = OpenAI(api_key=KEY, base_url="https://api.deepseek.com/v1")
 
 def extract_opinions(files, batch_size=10):

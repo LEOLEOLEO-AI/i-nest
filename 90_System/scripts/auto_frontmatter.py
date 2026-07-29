@@ -22,7 +22,7 @@ from pathlib import Path
 from collections import Counter
 from datetime import datetime
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 EXCLUDE = {".venv",".git",".neural_db",".neural_memory",".obsidian",
            ".trash","node_modules","copilot","__pycache__"}
 

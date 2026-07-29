@@ -13,7 +13,7 @@ import json, os, time
 import networkx as nx
 from collections import defaultdict
 
-BASE = '/home/work/.openclaw/workspace/sdi_sim'
+BASE = '/vault/sdi_sim'
 OUT  = os.path.join(BASE, 'exp7_v1_results.json')
 
 # ── 参数 ─────────────────────────────────────────────────

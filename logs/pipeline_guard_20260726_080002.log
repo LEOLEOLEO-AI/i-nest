@@ -1,0 +1,102 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-07-26 08:00
+============================================================
+[08:00:02] [S2] Searching Semantic Scholar (19 queries)...
+[08:00:24]   S2: HTTP 500
+[08:00:24]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[08:00:24] [arXiv] Searching arXiv (via proxy, 19 queries)...
+[08:00:56]   arXiv TCC-scale-noc: The read operation timed out, retry 1...
+[08:01:13]   arXiv TCC-scale-noc: 429 rate limit, waiting 20s...
+[08:02:04]   arXiv TCC-scale-noc: The read operation timed out, giving up
+[08:02:33]   arXiv TCC-wafer-chiplet: 429 rate limit, waiting 10s...
+[08:03:16]   arXiv TCC-wafer-chiplet: The read operation timed out, retry 2...
+[08:03:27]   arXiv TCC-wafer-chiplet: 429 rate limit, waiting 30s...
+[08:04:00]   arXiv TCC-reconfigurable: 429 rate limit, waiting 10s...
+[08:04:40]   arXiv TCC-reconfigurable: The read operation timed out, retry 2...
+[08:04:57]   arXiv TCC-reconfigurable: 429 rate limit, waiting 30s...
+[08:06:01]   arXiv TCC-higher-order: The read operation timed out, retry 1...
+[08:06:37]   arXiv TCC-higher-order: The read operation timed out, retry 2...
+[08:06:48]   arXiv TCC-higher-order: 429 rate limit, waiting 30s...
+[08:07:38]   arXiv TCC-sim-compile: 429 rate limit, waiting 10s...
+[08:08:09]   arXiv TCC-sim-compile: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>, retry 2...
+[08:08:36]   arXiv TCC-sim-compile: 429 rate limit, waiting 30s...
+[08:09:39]   arXiv TCC-topology-opt: The read operation timed out, retry 1...
+[08:09:55]   鐠哄疇绻?闁插秴顦?: Chip Floorplanning Combining Convex and Non-convex... [Title: Chip Floorplanning Combining Convex and Non-convex Optimization]
+[08:09:55]   arXiv skip irrelevant: Cardinality-Decomposed Loss: Matching Training Objectives to
+[08:09:55]   鐠哄疇绻?闁插秴顦?: Cross-Domain Generalization in Optical Networks vi... [Title: Cross-Domain Generalization in Optical Networks via Joint Contrastive and Classi]
+[08:10:12]   arXiv skip irrelevant: Qoreo: Choreographic Programming for Quantum Distributed Sys
+[08:10:12]   arXiv skip irrelevant: Distributed Colouring with 4/3 chi Colours for Hyperbolic Ra
+[08:10:12]   arXiv skip irrelevant: Time Series Network Utilization KPI Forecasting Using Advanc
+[08:10:52]   鐠哄疇绻?瀵京娴夐崗?: On the strong coupling limit of Yang-Mills matrix ...
+[08:10:52]   arXiv skip irrelevant: Toward Generalizable Cognitive Impairment Detection with Spe
+[08:10:52]   鐠哄疇绻?闁插秴顦?: Pseudogap formation in the moderate correlated lay... [Title: Pseudogap formation in the moderate correlated layered attractive Hubbard model]
+[08:11:02]   arXiv skip irrelevant: From risk to flourishing: Seeds for responding to a complex 
+[08:11:02]   arXiv skip irrelevant: Raman-Assisted Multiband Nonlinear Frequency-Conversion Netw
+[08:11:02]   arXiv skip irrelevant: Study of ordering in (MoCrTi)$_{100-x}$Al$_x$ refractory hig
+[08:11:05]   arXiv skip irrelevant: ARGON: A GNN-Empowered Compilation Framework for Scalable Ne
+[08:11:05]   arXiv skip irrelevant: From Scalars to Time Series: Rethinking Implicit Neural Repr
+[08:11:08]   鐠哄疇绻?闁插秴顦?: Self-organizing Architecture of Receptron Units: a... [Title: Self-organizing Architecture of Receptron Units: a Hardware-Aware Framework for ]
+[08:11:08]   鐠哄疇绻?闁插秴顦?: Current Injection Spiking Neural Network for Infra... [Title: Current Injection Spiking Neural Network for Infrared and Visible Image Fusion]
+[08:11:08]   鐠哄疇绻?闁插秴顦?: SpikingMOT: A Spike-Driven Multi-Object Tracker... [Title: SpikingMOT: A Spike-Driven Multi-Object Tracker]
+[08:11:13]   arXiv skip irrelevant: Revisiting Degree-Corrected Spectral Clustering: a Condition
+[08:11:13]   arXiv skip irrelevant: From Static Bibliometrics to Dynamic Knowledge Graphs: An LL
+[08:11:13]   arXiv skip irrelevant: PC-Edit: Prompt-Contrastive Region Discovery and Region-Guid
+[08:11:21]   鐠哄疇绻?闁插秴顦?: WiFi Sensing via Reservoir Computing... [Title: WiFi Sensing via Reservoir Computing]
+[08:11:21]   鐠哄疇绻?闁插秴顦?: On Optimal Event-Triggered Distributed Control for... [Title: On Optimal Event-Triggered Distributed Control for Stochastic Multi-Agent System]
+[08:11:21]   arXiv skip irrelevant: Terascale Query Processing in the Browser: Rethinking GPU Ac
+[08:11:26]   arXiv skip irrelevant: T-STAR: A Large-Scale Benchmark for Spatio-Temporal Panoptic
+[08:11:26]   arXiv skip irrelevant: Sidewalk Moments: Are Richer Representations Always More Hum
+[08:11:26]   arXiv skip irrelevant: Adaptive Multi-Expert Graph Transformer for Interpretable EE
+[08:11:31]   鐠哄疇绻?闁插秴顦?: Spectral Higher-Order Neural Networks Have Sharp E... [Title: Spectral Higher-Order Neural Networks Have Sharp Expressivity Bounds]
+[08:11:31]   arXiv skip irrelevant: Online Stochastic Matchings: Stability on Hypergraphs
+[08:11:31]   arXiv skip irrelevant: Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-In
+[08:11:50]   鐠哄疇绻?闁插秴顦?: Perspective Latents as an Architectural Condition ... [Title: Perspective Latents as an Architectural Condition for Causal Emergence in Active]
+[08:11:50]   arXiv skip irrelevant: Intelligence from Learnable Novelty
+[08:12:18]   鐠哄疇绻?闁插秴顦?: Driven criticality links universal computation and... [Title: Driven criticality links universal computation and optimal representations]
+[08:12:18]   鐠哄疇绻?闁插秴顦?: Photo-induced currents and short-term memory for r... [Title: Photo-induced currents and short-term memory for reservoir computing in a ferroe]
+[08:12:18]   鐠哄疇绻?闁插秴顦?: Hybrid LLM-Guided Search for Quantum Reservoir Arc... [Title: Hybrid LLM-Guided Search for Quantum Reservoir Architecture Design]
+[08:12:24]   arXiv skip irrelevant: ClouDens: Operational Context-Aware Anomaly Detection for La
+[08:12:28]   鐠哄疇绻?闁插秴顦?: A Unified Discrete and Continuous Theory of Core-H... [Title: A Unified Discrete and Continuous Theory of Core-Halo Complexity Maximizers]
+[08:12:28]   arXiv skip irrelevant: Multi-Level Privacy-Preserving Dementia Detection from Speec
+[08:12:30] [arXiv] 0 new papers, 1 errors across 19 queries
+[08:12:30] [GN] Google News RSS...
+[08:12:51]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:13:13]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:13:35]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:13:58]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:13:59] [GN] 0 new articles
+
+  Total: 0 new items to inbox
+[08:13:59] [Process] LLM classify (free tier, limit=20)...
+[08:14:20] [Process] Classified: 0
+[08:14:20] [Genspark] Generating research brief...
+[08:14:20] [Genspark] Research brief written: genspark_research_brief.md
+[08:14:20] [Graph] Scanning wiki links...
+[08:15:28] [Graph] 5612 files, 11514 links
+[08:15:30] [Graph] Exported: 5612 nodes, 8950 edges
+[08:15:30] [Graph] 0 missing backlinks
+Exception in thread Thread-1 (_readerthread):
+Traceback (most recent call last):
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 1515, in _readerthread
+    buffer.append(fh.read())
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa1 in position 19: invalid start byte
+[08:15:30] [DailyGen] Daily_Action + Focus + Insights generated
+[08:15:31] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+0(arXiv)+0(GN) | Written: 0 new papers
+  Processed: 0 | Nodes: 5612 edges: 8950 | Missing links: 0 | Genspark: OK
+  Elapsed: 928s
+============================================================
+[08:15:31] [State] research_state.json updated
+[08:15:31] [Evolution] Evidence + hypotheses updated
+[08:15:32] [Dashboard] Live dashboard published

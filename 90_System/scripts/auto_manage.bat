@@ -2,7 +2,7 @@
 REM Obsidian Knowledge Base Auto-Management Runner
 REM Called by Windows Task Scheduler
 
-set VAULT_ROOT=D:\Obsidian\home\work\.openclaw\workspace
+set VAULT_ROOT=D:\Obsidian\vault
 set PYTHON=%VAULT_ROOT%\.venv\Scripts\python.exe
 set SCRIPT=%VAULT_ROOT%\90_System\scripts\reorganize.py
 set LOG_DIR=%VAULT_ROOT%\90_System\logs

@@ -9,7 +9,7 @@ from scipy import stats
 from collections import Counter
 
 np.random.seed(42)
-os.chdir(r"D:\Obsidian\home\work\.openclaw\workspace\simulation")
+os.chdir(r"D:\Obsidian\vault\simulation")
 OUT_DIR = "data/v28_results"
 os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -115,7 +115,7 @@ print("\n[4] Computing avalanche exponents for C.elegans and Larva...")
 # Re-build graphs from data for avalanche
 def load_celegans_graph():
     import xlrd
-    wb = xlrd.open_workbook(r"D:\Obsidian\home\work\.openclaw\workspace\20_Projects\CST仿真平台\NeuronConnect.xls")
+    wb = xlrd.open_workbook(r"D:\Obsidian\vault\20_Projects\CST仿真平台\NeuronConnect.xls")
     sheet = wb.sheet_by_index(0)
     edges_ce = []; nodes_ce = set()
     for r in range(1, sheet.nrows):

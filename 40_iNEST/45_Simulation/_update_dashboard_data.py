@@ -1,5 +1,5 @@
 ﻿import json, os
-os.chdir(r"D:\Obsidian\home\work\.openclaw\workspace")
+os.chdir(r"D:\Obsidian\vault")
 
 v26 = json.load(open("simulation/data/v26_results/v26_celegans_results.json"))
 v27 = json.load(open("simulation/data/v27_results/v27_results.json"))

@@ -10,6 +10,6 @@
   brain-inspired chip: HTTP 400
   event camera SNN: 5 papers
 [3/3] Saving... 8 articles total
-  Saved: D:\Obsidian\home\work\.openclaw\workspace\03_Topics\Web-Clips\2026-06-02 iNEST Daily Crawl.md
+  Saved: D:\Obsidian\vault\03_Topics\Web-Clips\2026-06-02 iNEST Daily Crawl.md
 Done!
-Crawl completed at 2026/06/02 ÖÜ¶þ  5:50:43.91 
+Crawl completed at 2026/06/02 Ü¶  5:50:43.91 

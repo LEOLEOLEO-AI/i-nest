@@ -6,7 +6,7 @@ modified: 2026-07-07
 ---
 # 🏠 TCC + iNEST 研发中枢
 
-> 最后更新：2026-06-19 | [研发看板](http://127.0.0.1:8899/home/work/.openclaw/workspace/dashboard/index.html) | [投资演示](http://127.0.0.1:8899/home/work/.openclaw/workspace/dashboard/investor/index.html) | [超级流水线](http://127.0.0.1:8899/home/work/.openclaw/workspace/iNEST_RnD_SuperFlow_v3.md)
+> 最后更新：2026-06-19 | [研发看板](http://127.0.0.1:8899/vault/dashboard/index.html) | [投资演示](http://127.0.0.1:8899/vault/dashboard/investor/index.html) | [超级流水线](http://127.0.0.1:8899/vault/iNEST_RnD_SuperFlow_v3.md)
 
 ---
 
@@ -82,7 +82,7 @@ modified: 2026-07-07
 | 来源       | 今日新增          | 快捷入口                                                                          |
 | -------- | ------------- | ----------------------------------------------------------------------------- |
 | 得到大脑     | 待统计           | [Feishu_Inbox](http://127.0.0.1:8899/Feishu_Inbox/)                           |
-| Genspark | 待统计           | [Literature](http://127.0.0.1:8899/home/work/.openclaw/workspace/Literature/) |
+| Genspark | 待统计           | [Literature](http://127.0.0.1:8899/vault/Literature/) |
 | 微信 iNEST | CC-Connect 在线 | 转发文章自动入 00_Inbox                                                              |
 
 ---

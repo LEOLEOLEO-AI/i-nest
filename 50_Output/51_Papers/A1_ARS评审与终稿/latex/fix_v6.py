@@ -1,7 +1,7 @@
 ﻿import re
 
 # Start from V4 which didn't break \providecommand
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V4_TARGETED.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V4_TARGETED.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 print(f"V4 input: {len(tex)} chars, {len(tex.splitlines())} lines")
@@ -117,7 +117,7 @@ for start, end, cmd in filtered:
 print(f"Wrapped {len(filtered)} bare math commands (filtered from {len(matches)} raw matches)")
 
 # Write
-out_path = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V6_SAFE.tex"
+out_path = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V6_SAFE.tex"
 with open(out_path, "w", encoding="utf-8") as f:
     f.write(tex)
 

@@ -6,7 +6,7 @@ from pathlib import Path
 from collections import defaultdict
 from datetime import datetime
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 
 # Normalize filename: remove number suffixes like " 1", " 2", "_1", "_v1", etc.
 def normalize_name(name):

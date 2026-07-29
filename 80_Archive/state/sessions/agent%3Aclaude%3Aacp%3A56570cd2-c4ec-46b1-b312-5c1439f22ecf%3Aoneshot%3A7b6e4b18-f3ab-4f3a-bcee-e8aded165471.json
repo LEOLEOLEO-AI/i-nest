@@ -3,7 +3,7 @@
   "acpx_record_id": "agent:claude:acp:56570cd2-c4ec-46b1-b312-5c1439f22ecf:oneshot:7b6e4b18-f3ab-4f3a-bcee-e8aded165471",
   "acp_session_id": "e4ac2968-4300-4d95-a2ae-8298a1992b22",
   "agent_command": "env ANTHROPIC_AUTH_TOKEN= npx -y @zed-industries/claude-agent-acp",
-  "cwd": "/home/work/.openclaw/workspace/claude",
+  "cwd": "/vault/claude",
   "name": "agent:claude:acp:56570cd2-c4ec-46b1-b312-5c1439f22ecf",
   "created_at": "2026-06-23T11:27:24.307Z",
   "last_used_at": "2026-06-23T11:28:10.387Z",
@@ -154,36 +154,36 @@
             "tool_name": "cd ~/i-nest && git remote -v 2>&1 && echo \"---\" && git branch -a 2>&1 && echo \"---\" && git status 2>&1",
             "is_error": false,
             "content": {
-              "Text": "origin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\n---\n* master\n  remotes/origin/HEAD -> origin/master\n  remotes/origin/develop\n  remotes/origin/main\n  remotes/origin/main-new\n  remotes/origin/master\n---\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+              "Text": "origin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\n---\n* master\n  remotes/origin/HEAD -> origin/master\n  remotes/origin/develop\n  remotes/origin/main\n  remotes/origin/main-new\n  remotes/origin/master\n---\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /vault/claude"
             },
-            "output": "origin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\n---\n* master\n  remotes/origin/HEAD -> origin/master\n  remotes/origin/develop\n  remotes/origin/main\n  remotes/origin/main-new\n  remotes/origin/master\n---\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+            "output": "origin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\n---\n* master\n  remotes/origin/HEAD -> origin/master\n  remotes/origin/develop\n  remotes/origin/main\n  remotes/origin/main-new\n  remotes/origin/master\n---\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /vault/claude"
           },
           "toolu_01HDJ5cKD9eWXBVKuZe4AUhF": {
             "tool_use_id": "toolu_01HDJ5cKD9eWXBVKuZe4AUhF",
             "tool_name": "cd ~/i-nest && git remote add github https://github.com/LEOLEOLEO-AI/i-nest.git 2>&1 && echo \"Remote 'github' added successfully\"",
             "is_error": false,
             "content": {
-              "Text": "Remote 'github' added successfully\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+              "Text": "Remote 'github' added successfully\nShell cwd was reset to /vault/claude"
             },
-            "output": "Remote 'github' added successfully\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+            "output": "Remote 'github' added successfully\nShell cwd was reset to /vault/claude"
           },
           "toolu_017EEXuvEikf2CpximBpKnA2": {
             "tool_use_id": "toolu_017EEXuvEikf2CpximBpKnA2",
             "tool_name": "cd ~/i-nest && git remote -v 2>&1 && echo \"---BRANCHES---\" && git branch -a 2>&1 && echo \"---STATUS---\" && git status 2>&1",
             "is_error": false,
             "content": {
-              "Text": "github\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\n---BRANCHES---\n* master\n  remotes/origin/HEAD -> origin/master\n  remotes/origin/develop\n  remotes/origin/main\n  remotes/origin/main-new\n  remotes/origin/master\n---STATUS---\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+              "Text": "github\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\n---BRANCHES---\n* master\n  remotes/origin/HEAD -> origin/master\n  remotes/origin/develop\n  remotes/origin/main\n  remotes/origin/main-new\n  remotes/origin/master\n---STATUS---\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /vault/claude"
             },
-            "output": "github\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\n---BRANCHES---\n* master\n  remotes/origin/HEAD -> origin/master\n  remotes/origin/develop\n  remotes/origin/main\n  remotes/origin/main-new\n  remotes/origin/master\n---STATUS---\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+            "output": "github\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\n---BRANCHES---\n* master\n  remotes/origin/HEAD -> origin/master\n  remotes/origin/develop\n  remotes/origin/main\n  remotes/origin/main-new\n  remotes/origin/master\n---STATUS---\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /vault/claude"
           },
           "toolu_01BgDiJT1pX6joCoHUnitt31": {
             "tool_use_id": "toolu_01BgDiJT1pX6joCoHUnitt31",
             "tool_name": "cd ~/i-nest && echo \"=== Pull from Gitee (origin) ===\" && git pull origin master 2>&1 && echo \"=== Fetch from GitHub ===\" && git fetch github 2>&1 && echo \"=== GitHub branches ===\" && git branch -r | grep github 2>&1 && echo \"=== Final status ===\" && git status 2>&1",
             "is_error": false,
             "content": {
-              "Text": "=== Pull from Gitee (origin) ===\nFrom gitee.com:iBrainNest/i-nest\n * branch            master     -> FETCH_HEAD\nAlready up to date.\n=== Fetch from GitHub ===\nFrom https://github.com/LEOLEOLEO-AI/i-nest\n * [new branch]      main       -> github/main\n=== GitHub branches ===\n  github/main\n=== Final status ===\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+              "Text": "=== Pull from Gitee (origin) ===\nFrom gitee.com:iBrainNest/i-nest\n * branch            master     -> FETCH_HEAD\nAlready up to date.\n=== Fetch from GitHub ===\nFrom https://github.com/LEOLEOLEO-AI/i-nest\n * [new branch]      main       -> github/main\n=== GitHub branches ===\n  github/main\n=== Final status ===\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /vault/claude"
             },
-            "output": "=== Pull from Gitee (origin) ===\nFrom gitee.com:iBrainNest/i-nest\n * branch            master     -> FETCH_HEAD\nAlready up to date.\n=== Fetch from GitHub ===\nFrom https://github.com/LEOLEOLEO-AI/i-nest\n * [new branch]      main       -> github/main\n=== GitHub branches ===\n  github/main\n=== Final status ===\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+            "output": "=== Pull from Gitee (origin) ===\nFrom gitee.com:iBrainNest/i-nest\n * branch            master     -> FETCH_HEAD\nAlready up to date.\n=== Fetch from GitHub ===\nFrom https://github.com/LEOLEOLEO-AI/i-nest\n * [new branch]      main       -> github/main\n=== GitHub branches ===\n  github/main\n=== Final status ===\nOn branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nShell cwd was reset to /vault/claude"
           }
         }
       }

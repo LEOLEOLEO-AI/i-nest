@@ -1,102 +1,138 @@
 {
-  "generated": "2026-07-19T11:14:55.598821",
+  "generated": "2026-07-26T08:15:31.306418",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 5465,
-    "inbox_10": 0,
-    "inbox_00": 63,
-    "processing_20": 63,
-    "tcc_30": 1876,
-    "inest_40": 1379,
-    "output_50": 468,
-    "moc_60": 31
+    "total_md": 5612,
+    "inbox_00": 102,
+    "processing_20": 67,
+    "tcc_30": 1880,
+    "inest_40": 1399,
+    "output_50": 487,
+    "moc_60": 35
   },
   "services": {
     "preview_server_8899": true,
     "jojo_llm_57321": true,
-    "jojo_fixer_57320": true
+    "jojo_fixer_57320": false
   },
   "pipeline": {
     "ingested_today": {
       "today": 0,
-      "total": 63,
+      "total": 102,
       "recent": []
     },
     "recent_runs": [
       {
-        "date": "2026-07-19T08:20:53.568371",
+        "date": "2026-07-26T08:15:31.177256",
         "new_papers": 0,
+        "api_results": 0,
+        "classified": 0,
+        "graph_nodes": 5612,
+        "graph_edges": 8950,
+        "elapsed_s": 928.2,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260726_0815.json"
+      },
+      {
+        "date": "2026-07-25T08:13:37.450784",
+        "new_papers": 6,
+        "api_results": 6,
+        "classified": 0,
+        "graph_nodes": 5594,
+        "graph_edges": 8941,
+        "elapsed_s": 815.0,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260725_0813.json"
+      },
+      {
+        "date": "2026-07-24T08:15:37.426142",
+        "new_papers": 12,
+        "api_results": 12,
+        "classified": 0,
+        "graph_nodes": 5565,
+        "graph_edges": 8890,
+        "elapsed_s": 934.3,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260724_0815.json"
+      },
+      {
+        "date": "2026-07-22T22:37:40.987612",
+        "new_papers": 0,
+        "api_results": 0,
+        "classified": 4,
+        "graph_nodes": 5504,
+        "graph_edges": 8787,
+        "elapsed_s": 513.4,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260722_2237.json"
+      },
+      {
+        "date": "2026-07-20T08:13:36.091380",
+        "new_papers": 1,
+        "api_results": 1,
+        "classified": 1,
+        "graph_nodes": 5500,
+        "graph_edges": 8787,
+        "elapsed_s": 813.8,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260720_0813.json"
+      },
+      {
+        "date": "2026-07-19T12:07:36.166764",
+        "new_papers": 12,
+        "api_results": 12,
+        "classified": 0,
+        "graph_nodes": 5486,
+        "graph_edges": 8767,
+        "elapsed_s": 547.2,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260719_1207.json"
+      },
+      {
+        "date": "2026-07-19T11:38:28.226975",
+        "new_papers": 0,
+        "api_results": 0,
         "classified": 0,
         "graph_nodes": 5465,
         "graph_edges": 8767,
-        "elapsed_s": 763.7,
+        "elapsed_s": 745.8,
         "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260719_0820.json"
-      },
-      {
-        "date": "2026-07-18T15:15:14.305163",
-        "new_papers": 0,
-        "classified": 0,
-        "graph_nodes": 5463,
-        "graph_edges": 8767,
-        "elapsed_s": 697.5,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260718_1515.json"
-      },
-      {
-        "date": "2026-07-18T08:25:04.771668",
-        "new_papers": 0,
-        "classified": 0,
-        "graph_nodes": 5463,
-        "graph_edges": 8767,
-        "elapsed_s": 17168.6,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260718_0825.json"
-      },
-      {
-        "date": "2026-07-17T10:39:40.160365",
-        "new_papers": 0,
-        "classified": 0,
-        "graph_nodes": 5398,
-        "graph_edges": 8767,
-        "elapsed_s": 69356.2,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260717_1039.json"
-      },
-      {
-        "date": "2026-07-14T20:51:50.596979",
-        "new_papers": 0,
-        "classified": 0,
-        "graph_nodes": 5136,
-        "graph_edges": 5461,
-        "elapsed_s": 447.5,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260714_2051.json"
+        "_file": "pipeline_20260719_1138.json"
       }
     ]
   },
   "git": {
-    "uncommitted": 15,
+    "uncommitted": 830,
     "details": [
-      "M .obsidian/workspace.json",
-      " M 70_Dashboard/dashboard_data.json",
-      " M 70_Dashboard/data.js",
-      " M 70_Dashboard/data.json",
-      " M 70_Dashboard/index.html",
-      " M 90_System/scripts/daily_kanban_update.py",
-      " M 90_System/scripts/evolution_engine.py",
-      " M 90_System/scripts/pipeline_v3.py",
-      " M 90_System/scripts/refresh_dashboard.py",
-      " M Home.md",
-      " M state/public_ip.txt",
-      "?? 90_System/scripts/evolution_engine.py.bak_20260719",
-      "?? 90_System/scripts/pipeline_v3.py.bak_20260719",
-      "?? 90_System/scripts/state_generator.py",
-      "?? 99_Meta/research_state.json"
+      "M .claudian/claudian-settings.json",
+      " M .claudian/sessions/conv-1782222386599-bro3cn93e.meta.json",
+      " M .gitconfig_backup.sh",
+      " M .neural_memory/.env",
+      " M .obsidian/.obsidian-sync-helper-backup/config-history.json",
+      " M .obsidian/app.json",
+      " M .obsidian/community-plugins.json",
+      " M .obsidian/core-plugins.json",
+      " M .obsidian/plugins/homepage/data.json",
+      " M .obsidian/plugins/markitdown/data.json",
+      " M .obsidian/plugins/obsidian-tasks-plugin/data.json",
+      " M .obsidian/plugins/quickadd/data.json",
+      " M .obsidian/plugins/realclaudian/data.json",
+      " D .obsidian/plugins/smart-lookup/manifest.json",
+      " M .obsidian/plugins/wechat-messenger/data.json",
+      " M .obsidian/plugins/wechat-messenger/main.js",
+      " M .obsidian/plugins/wechat-messenger/manifest.json",
+      " M .obsidian/workspace.json",
+      " M .tasks/auto_status.sh",
+      " M .tasks/status.sh"
     ]
   },
   "health": {
-    "latest": "weekly_health_20260719.md",
-    "count": 2
+    "latest": "weekly_health_20260726.md",
+    "count": 3
+  },
+  "task_review": {
+    "pending_review": 22,
+    "approved": 0,
+    "promoted": 0
   }
 }

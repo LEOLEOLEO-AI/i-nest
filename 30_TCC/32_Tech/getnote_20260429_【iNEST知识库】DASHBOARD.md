@@ -156,9 +156,9 @@ workspace/
 | 核心算法设计、复杂代码开发 | sessions_spawn Claude | 正常 | TCC-RTL设计、SDI控制器 |
 
 巡检工具：
-- 全量巡检：python3 /home/work/.openclaw/workspace/kb_inspector.py
-- 快速模式：python3 /home/work/.openclaw/workspace/kb_inspector.py --quick
-- 自动修复死链接：python3 /home/work/.openclaw/workspace/kb_inspector.py --fix
+- 全量巡检：python3 /vault/kb_inspector.py
+- 快速模式：python3 /vault/kb_inspector.py --quick
+- 自动修复死链接：python3 /vault/kb_inspector.py --fix
 
 ---
 ## 🔒 Atlas 只读目录（AI禁止修改正文）

@@ -286,7 +286,7 @@ CST理论（网络时空协同复杂度）、SDI、SDSoW体系，作为中国原
 | 引领性主张维度 | 理论引领（CST）+ 架构引领（SDI/SDSoW）+ 标准引领（ITU/IEEE）+ 产业引领（卫星智能体新品类） |
 
 ---
-*文档路径：`/home/work/.openclaw/workspace/卫星智能体重大专项建议_v9_FINAL.md`*
+*文档路径：`/vault/卫星智能体重大专项建议_v9_FINAL.md`*
 *版本：v9 FINAL | 2026-03-22 | 依据 strategic-proposal Skill v1.2 全规范撰写*
 
 ---

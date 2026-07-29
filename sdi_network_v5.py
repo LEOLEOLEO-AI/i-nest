@@ -487,7 +487,7 @@ def plot_v5(net, logs, sf, Cf, Lf, af):
         y-=max(0.035,fs*0.0045)
 
     plt.tight_layout()
-    out='/home/work/.openclaw/workspace/sdi_sim/sdi_v5_celegans.png'
+    out='/vault/sdi_sim/sdi_v5_celegans.png'
     plt.savefig(out,dpi=150,bbox_inches='tight')
     plt.close()
     print(f"\n✅ 图表: {out}")
@@ -495,7 +495,7 @@ def plot_v5(net, logs, sf, Cf, Lf, af):
 
 # ============================================================
 if __name__=='__main__':
-    import os; os.makedirs('/home/work/.openclaw/workspace/sdi_sim',exist_ok=True)
+    import os; os.makedirs('/vault/sdi_sim',exist_ok=True)
     t0=time.time()
     print("="*65)
     print(f"SDI网络仿真 v5 — 突触缩放 + C.elegans精确规模(N={N_NODES})")

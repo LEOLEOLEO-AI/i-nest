@@ -4,7 +4,7 @@
 import subprocess, sys
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 PYTHON = r"C:\Users\LEO\AppData\Local\Programs\Python\Python310\python.exe"
 
 TASKS = {

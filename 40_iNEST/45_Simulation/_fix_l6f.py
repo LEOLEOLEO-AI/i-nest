@@ -1,4 +1,4 @@
-﻿p = r'D:\Obsidian\home\work\.openclaw\workspace\simulation\sdi_l6_general.py'
+﻿p = r'D:\Obsidian\vault\simulation\sdi_l6_general.py'
 with open(p, 'r', encoding='utf-8') as f:
     c = f.read()
 

@@ -1,5 +1,5 @@
 ﻿import json, os
-os.chdir(r"D:\Obsidian\home\work\.openclaw\workspace")
+os.chdir(r"D:\Obsidian\vault")
 data = json.load(open("dashboard/data.json", encoding="utf-8"))
 v31 = json.load(open("simulation/data/v31_results/v31_results.json"))
 ratio = v31["sc_fc_coupling"]["on_off_ratio"]

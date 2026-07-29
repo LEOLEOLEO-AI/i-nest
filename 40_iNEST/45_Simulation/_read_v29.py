@@ -1,5 +1,5 @@
 ﻿import json
-d = json.load(open(r'D:\Obsidian\home\work\.openclaw\workspace\simulation\data\v28_results\v29_results.json', 'r', encoding='utf-8'))
+d = json.load(open(r'D:\Obsidian\vault\simulation\data\v28_results\v29_results.json', 'r', encoding='utf-8'))
 print('V29 keys:', list(d.keys()))
 for k, v in d.items():
     if isinstance(v, dict):

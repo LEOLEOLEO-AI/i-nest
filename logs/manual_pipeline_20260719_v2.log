@@ -1,0 +1,81 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-07-19 11:58
+============================================================
+[11:58:28] [S2] Searching Semantic Scholar (19 queries)...
+[11:58:39]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[11:58:39] [arXiv] Searching arXiv (via proxy, 19 queries)...
+[11:58:59]   arXiv skip irrelevant: CoTu at EXACT 2026: Neuro-Symbolic Reasoning for Transparent
+[11:59:04]   鐠哄疇绻?瀵京娴夐崗?: The topology of the magnetic field in Abell 2255 o...
+[11:59:39]   鐠哄疇绻?瀵京娴夐崗?: CLIP-3D: Closed-Loop Evaluation of Performance and...
+[11:59:39]   arXiv skip irrelevant: Instance-Enriched Semantic Maps for Visual Language Navigati
+[11:59:44]   arXiv skip irrelevant: Dynamic Entanglement Distribution for Multi-User and Multi-P
+[11:59:44]   arXiv skip irrelevant: Mech: Mechanised Choreographic Programming
+[11:59:44]   arXiv skip irrelevant: Hybrid Symmetry Breaking for Chiral Quasi-Bound States in th
+[11:59:51]   arXiv skip irrelevant: A Geometric Theory of Fermion-to-Qubit Encodings
+[11:59:51]   arXiv skip irrelevant: Moment Optimization in the Navascués-Pironio-Acín Hierarchy
+[11:59:55]   arXiv skip irrelevant: Assessing Risks of Hydro-Generator Shaft Fatigue from Data C
+[12:00:04]   Insight [1/3]: Smooth-Curvature Bend Design Guided by Variational...
+[12:00:19]   arXiv skip irrelevant: NeuronSoup: Evolving Asynchronous, Shared-Neuron Temporal Gr
+[12:00:29]   鐠哄疇绻?瀵京娴夐崗?: DAPGNet: Dynamic Adaptive Physics-Guided Graph Dif...
+[12:00:38]   Insight [2/3]: Steering dynamic network centrality via control th...
+[12:01:00]   Insight [1/3]: Stigmergic Graph Memory: An Environment-Aware Appr...
+[12:01:00]   arXiv skip irrelevant: Mech: Mechanised Choreographic Programming
+[12:01:08]   Insight [2/3]: Differentiable Routability-Driven Package Floorpla...
+[12:01:18]   arXiv skip irrelevant: Online Neural Space Time Memory for Dynamic Novel View Synth
+[12:01:18]   arXiv skip irrelevant: Adaptive Sampling for Spatiotemporal Anomaly Monitoring in W
+[12:01:18]   arXiv skip irrelevant: Hyperfine driven spin relaxation of charge carriers in metal
+[12:01:33]   Insight [1/3]: Stochastic binary networks with asymmetric and tim...
+[12:01:33]   arXiv skip irrelevant: Quantum many-body mixed phase space revealed by hybrid feedb
+[12:01:42]   Insight [3/3]: Dissipative phase transitions and chaos in two-pho...
+[12:02:15]   Insight [2/3]: Visual Place Recognition Using Rate-Encoded Spikin...
+[12:02:23]   Insight [1/3]: A Comparative Analysis of Ising Formulations for N...
+[12:02:23]   arXiv skip irrelevant: SpikeDS: Dual Sparsity Spikformer for Perineural Invasion Pr
+[12:02:26]   arXiv skip irrelevant: T^2MLR: Transformer with Temporal Middle-Layer Recurrence
+[12:02:26]   arXiv skip irrelevant: Scaling Behavior Foundation Model for Humanoid Robots
+[12:02:31]   arXiv skip irrelevant: NeuronSoup: Evolving Asynchronous, Shared-Neuron Temporal Gr
+[12:02:40]   Insight [2/3]: Scalable Training of Continuous-Time Spiking Neura...
+[12:02:40]   arXiv skip irrelevant: Long-History User Transformers for Real-Time Ad Ranking
+[12:02:44]   arXiv skip irrelevant: ESAR: Event-Based Synthetic Aperture Reconstruction
+[12:02:44]   arXiv skip irrelevant: Hubbard-assisted stability of Hatsugai-Kohmoto correlations 
+[12:02:44]   arXiv skip irrelevant: Can deleterious mutations surf deterministic population wave
+[12:02:48]   arXiv skip irrelevant: Observers, local measurements, and topology
+[12:02:48]   arXiv skip irrelevant: Dynamic Manipulation Hypergraphs for HAR: Beyond Pairwise Re
+[12:02:48]   arXiv skip irrelevant: EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs 
+[12:03:29]   Insight [2/3]: Physical Reservoir Signal Acquisition for Sub-Nyqu...
+[12:03:39]   Insight [2/3]: General theory of monitored Quantum Reservoir Comp...
+[12:03:49]   Insight [2/3]: A Reservoir Computing Approach to Quantum Gate Syn...
+[12:03:57]   arXiv skip irrelevant: An Epidemic Threshold Set for Networks
+[12:03:57]   arXiv skip irrelevant: Deep Learning-based Surrogate Modelling of the LOD Method fo
+[12:04:03]   arXiv skip irrelevant: Entanglement Detection for Two-Qubit and Three-Qubit Pure St
+[12:04:03]   arXiv skip irrelevant: Context Distribution Restoration for Social Surveys: A Recov
+[12:04:03]   arXiv skip irrelevant: Valid $\ne$ Necessary: Diagnosing Latent Inefficiency in Cha
+[12:04:05] [arXiv] 12 new papers, 0 errors across 19 queries
+[12:04:05] [GN] Google News RSS...
+[12:04:26]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[12:04:48]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[12:05:10]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[12:05:33]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[12:05:34] [GN] 0 new articles
+
+  Total: 12 new items to inbox
+[12:05:34] [Process] LLM classify (free tier, limit=0)...
+[12:05:34] [Process] Classified: 0
+[12:05:34] [Genspark] Generating research brief...
+[12:05:34] [Genspark] Research brief written: genspark_research_brief.md
+[12:05:34] [Graph] Scanning wiki links...
+[12:05:35] [Graph] 5486 files, 11265 links
+[12:05:36] [Graph] Exported: 5486 nodes, 8767 edges
+[12:05:36] [Graph] 0 missing backlinks
+[12:07:36] [DailyGen] Error: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\home\\work\\.openclaw\\workspace\\90_System\\scripts\\daily_generator.py']' timed out after 120 seconds
+[12:07:36] [Dashboard] Updating kanban...
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+12(arXiv)+0(GN) | Written: 12 new papers
+  Processed: 0 | Nodes: 5486 edges: 8767 | Missing links: 0 | Genspark: OK
+  Elapsed: 547s
+============================================================
+[12:07:36] [State] Warning: name 'SCRIPT_DIR' is not defined
+[12:07:36] [Evolution] Warning: name 'SCRIPT_DIR' is not defined

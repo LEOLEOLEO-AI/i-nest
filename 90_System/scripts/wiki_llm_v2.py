@@ -7,7 +7,7 @@ import sys
 sys.path.insert(0, r"D:\Obsidian\scripts")
 from llm_router import llm_call
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 OUTPUT_DIR = VAULT / "60_MOC" / "_wiki_llm_v2"
 
 def call_llm(system_prompt, user_prompt, max_tokens=800, task_type="insight"):

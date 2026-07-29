@@ -17,7 +17,7 @@
 
 ### 研究文档
 
-路径：`/home/work/.openclaw/workspace/research/`
+路径：`/vault/research/`
 
 **最重要的 5 份**：
 1. ✅ `complete_methodology_audit.md` (17 KB) - 10层系统审查
@@ -38,7 +38,7 @@
 
 ### 记忆文件
 
-路径：`/home/work/.openclaw/workspace/memory/`
+路径：`/vault/memory/`
 
 **核心记忆**：
 - 2026-06-19-final-summary.md (4 KB)
@@ -56,7 +56,7 @@
 
 ### 系统脚本
 
-路径：`/home/work/.openclaw/workspace/90_System/scripts/`
+路径：`/vault/90_System/scripts/`
 
 - ✅ `Genspark_gitee_sync.md` (7.5 KB) - 完整同步工作流
 - ✅ `Genspark_direct_instruction.md` (5.5 KB) - 直接工作指令
@@ -69,39 +69,39 @@
 
 ```bash
 # 1. 完整方法论审查（了解所有问题）
-cat /home/work/.openclaw/workspace/research/complete_methodology_audit.md
+cat /vault/research/complete_methodology_audit.md
 
 # 2. 修复路线图（了解改进方案）
-cat /home/work/.openclaw/workspace/research/methodology_repair_roadmap.md
+cat /vault/research/methodology_repair_roadmap.md
 
 # 3. 规模-智能矛盾（理解理论限制）
-cat /home/work/.openclaw/workspace/research/scale_intelligence_mismatch_analysis.md
+cat /vault/research/scale_intelligence_mismatch_analysis.md
 ```
 
 ### 查看所有文档
 
 ```bash
 # 查看研究文档
-ls -lh /home/work/.openclaw/workspace/research/*.md
+ls -lh /vault/research/*.md
 
 # 查看记忆文件
-ls -lh /home/work/.openclaw/workspace/memory/2026-06-*.md
+ls -lh /vault/memory/2026-06-*.md
 
 # 查看系统脚本
-ls -lh /home/work/.openclaw/workspace/90_System/scripts/*.md
+ls -lh /vault/90_System/scripts/*.md
 ```
 
 ### 按主题查找
 
 ```bash
 # 查看所有诊断文档
-grep -l "诊断\|diagnostic" /home/work/.openclaw/workspace/research/*.md
+grep -l "诊断\|diagnostic" /vault/research/*.md
 
 # 查看所有规模相关
-ls /home/work/.openclaw/workspace/research/*scale*.md
+ls /vault/research/*scale*.md
 
 # 查看所有 Genspark 相关
-ls /home/work/.openclaw/workspace/90_System/scripts/Genspark*.md
+ls /vault/90_System/scripts/Genspark*.md
 ```
 
 ---
@@ -112,15 +112,15 @@ ls /home/work/.openclaw/workspace/90_System/scripts/Genspark*.md
 
 ```bash
 # 检查研究文档数量
-ls /home/work/.openclaw/workspace/research/*.md | wc -l
+ls /vault/research/*.md | wc -l
 # 预期：13
 
 # 检查记忆文件数量
-ls /home/work/.openclaw/workspace/memory/2026-06-*.md | wc -l
+ls /vault/memory/2026-06-*.md | wc -l
 # 预期：8（加上其他日期的13）
 
 # 检查系统脚本
-ls /home/work/.openclaw/workspace/90_System/scripts/Genspark*.md | wc -l
+ls /vault/90_System/scripts/Genspark*.md | wc -l
 # 预期：2
 ```
 
@@ -128,12 +128,12 @@ ls /home/work/.openclaw/workspace/90_System/scripts/Genspark*.md | wc -l
 
 ```bash
 # 检查最大的文件
-du -h /home/work/.openclaw/workspace/research/*.md | sort -rh | head -3
+du -h /vault/research/*.md | sort -rh | head -3
 
 # 检查总大小
-du -sh /home/work/.openclaw/workspace/research/
-du -sh /home/work/.openclaw/workspace/memory/
-du -sh /home/work/.openclaw/workspace/90_System/scripts/
+du -sh /vault/research/
+du -sh /vault/memory/
+du -sh /vault/90_System/scripts/
 ```
 
 ---
@@ -142,7 +142,7 @@ du -sh /home/work/.openclaw/workspace/90_System/scripts/
 
 ### file_location_manifest.md
 
-位置：`/home/work/.openclaw/workspace/research/file_location_manifest.md`
+位置：`/vault/research/file_location_manifest.md`
 
 内容：
 - ✅ 所有 28 份文档的完整路径
@@ -188,7 +188,7 @@ du -sh /home/work/.openclaw/workspace/90_System/scripts/
 
 ### 要修改论文（P0 任务）
 
-1. 打开：`/home/work/.openclaw/workspace/TCC计算范式/01_论文/CST_Intelligence_Emergence_Paper_V25_FINAL.md`
+1. 打开：`/vault/TCC计算范式/01_论文/CST_Intelligence_Emergence_Paper_V25_FINAL.md`
 2. 按照诊断文档的建议进行修改
 
 ### 要启动数据导入（P1 任务）
@@ -198,7 +198,7 @@ du -sh /home/work/.openclaw/workspace/90_System/scripts/
 
 ### 要启动 Genspark 同步
 
-1. 查看：`/home/work/.openclaw/workspace/90_System/scripts/Genspark_gitee_sync.md`
+1. 查看：`/vault/90_System/scripts/Genspark_gitee_sync.md`
 2. 执行同步流程
 
 ---

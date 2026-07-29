@@ -100,7 +100,7 @@ tags:
 
 ## 三、来源2：Astera Labs — 互连芯片产业验证
 
-**来源**：[Astera Labs（ALAB）：AI互连芯片核心厂商业务与护城河分析](http://127.0.0.1:8899/home/work/.openclaw/workspace/00_KnowledgeBase_知识库/03_Inbox_文献与碎片/Astera%20Labs（ALAB）：AI互连芯片核心厂商业务与护城河分析.md)
+**来源**：[Astera Labs（ALAB）：AI互连芯片核心厂商业务与护城河分析](http://127.0.0.1:8899/vault/00_KnowledgeBase_知识库/03_Inbox_文献与碎片/Astera%20Labs（ALAB）：AI互连芯片核心厂商业务与护城河分析.md)
 
 ### 3.1 Astera Labs的产品线与TCC映射
 
@@ -179,7 +179,7 @@ Astera提供的是**互连硬件基础设施**（Retimer/Switch/CXL），而TCC�
 
 ## 六、来源5：2025年AI与HPC网络加速芯片技术对比
 
-**来源**：[2025年AI与HPC网络加速芯片技术对比](http://127.0.0.1:8899/home/work/.openclaw/workspace/00_KnowledgeBase_知识库/03_Inbox_文献与碎片/2025年AI与HPC网络加速芯片技术对比.md)
+**来源**：[2025年AI与HPC网络加速芯片技术对比](http://127.0.0.1:8899/vault/00_KnowledgeBase_知识库/03_Inbox_文献与碎片/2025年AI与HPC网络加速芯片技术对比.md)
 
 ### 6.1 主流产品对比
 
@@ -207,7 +207,7 @@ Astera提供的是**互连硬件基础设施**（Retimer/Switch/CXL），而TCC�
 
 ## 七、来源6：2025 SIGCOMM华为AI集群网络六大挑战
 
-**来源**：[2025 SIGCOMM：华为AI集群网络的六大技术挑战与突破方向](http://127.0.0.1:8899/home/work/.openclaw/workspace/00_KnowledgeBase_知识库/03_Inbox_文献与碎片/2025%20SIGCOMM：华为AI集群网络的六大技术挑战与突破方向.md)
+**来源**：[2025 SIGCOMM：华为AI集群网络的六大技术挑战与突破方向](http://127.0.0.1:8899/vault/00_KnowledgeBase_知识库/03_Inbox_文献与碎片/2025%20SIGCOMM：华为AI集群网络的六大技术挑战与突破方向.md)
 
 ### 7.1 六大挑战与TCC对应
 
@@ -325,5 +325,5 @@ Astera提供的是**互连硬件基础设施**（Retimer/Switch/CXL），而TCC�
 > **编制**：TCC iNEST Research Group | 2026-06-18  
 > **版本**：v3.0（合并8个来源、100+篇文献的系统性对标分析）  
 > **前序版本**：
-> - [v1.0 算力网络架构手记对TCC价值映射](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/34_Projects/算力网络架构手记_对TCC计算范式的价值映射分析_v1.0.md)
-> - [v2.0 全面抓取与分析报告](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/34_Projects/算力网络架构手记_全面抓取与分析报告_v2.0.md)
+> - [v1.0 算力网络架构手记对TCC价值映射](http://127.0.0.1:8899/vault/30_TCC/34_Projects/算力网络架构手记_对TCC计算范式的价值映射分析_v1.0.md)
+> - [v2.0 全面抓取与分析报告](http://127.0.0.1:8899/vault/30_TCC/34_Projects/算力网络架构手记_全面抓取与分析报告_v2.0.md)

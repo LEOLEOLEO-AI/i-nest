@@ -6,7 +6,7 @@ import networkx as nx
 from scipy import stats
 np.random.seed(42)
 
-os.chdir(r"D:\Obsidian\home\work\.openclaw\workspace\simulation")
+os.chdir(r"D:\Obsidian\vault\simulation")
 OUT_DIR = "data/v31_results"
 os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -26,7 +26,7 @@ def classify_neuron(name):
 
 print("[1] Loading connectome...")
 import xlrd
-wb = xlrd.open_workbook(r"D:\Obsidian\home\work\.openclaw\workspace\20_Projects\CST仿真平台\NeuronConnect.xls")
+wb = xlrd.open_workbook(r"D:\Obsidian\vault\20_Projects\CST仿真平台\NeuronConnect.xls")
 sheet = wb.sheet_by_index(0)
 edges, node_types = [], {}
 for r in range(1, sheet.nrows):

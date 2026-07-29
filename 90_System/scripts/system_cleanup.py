@@ -1,7 +1,7 @@
 ﻿import json, shutil, os
 from pathlib import Path
 
-VAULT_ROOT = r"D:\Obsidian\home\work\.openclaw\workspace"
+VAULT_ROOT = r"D:\Obsidian\vault"
 report_path = Path(VAULT_ROOT) / "60_MOC" / "system_dedup_report.json"
 report = json.loads(report_path.read_text(encoding="utf-8"))
 

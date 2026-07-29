@@ -5,58 +5,58 @@
 
 ## 【研究文档】13 份
 
-### 路径：`/home/work/.openclaw/workspace/research/`
+### 路径：`/vault/research/`
 
 ```
 research/
 ├─ 2026-06-19-complete-audit.md (核心方法论审查)
 │  文件名：complete_methodology_audit.md
 │  大小：17 KB
-│  完整路径：/home/work/.openclaw/workspace/research/complete_methodology_audit.md
+│  完整路径：/vault/research/complete_methodology_audit.md
 │
 ├─ scale_intelligence_mismatch_analysis.md (规模-智能矛盾)
 │  大小：16 KB
-│  完整路径：/home/work/.openclaw/workspace/research/scale_intelligence_mismatch_analysis.md
+│  完整路径：/vault/research/scale_intelligence_mismatch_analysis.md
 │
 ├─ scale_intelligence_quantitative_tables.md (定量对照表)
 │  大小：15 KB
-│  完整路径：/home/work/.openclaw/workspace/research/scale_intelligence_quantitative_tables.md
+│  完整路径：/vault/research/scale_intelligence_quantitative_tables.md
 │
 ├─ non_real_data_simulation_valuation.md (虚假仿真价值评估)
 │  大小：11 KB
-│  完整路径：/home/work/.openclaw/workspace/research/non_real_data_simulation_valuation.md
+│  完整路径：/vault/research/non_real_data_simulation_valuation.md
 │
 ├─ methodology_repair_roadmap.md (8周修复计划)
 │  大小：19 KB
-│  完整路径：/home/work/.openclaw/workspace/research/methodology_repair_roadmap.md
+│  完整路径：/vault/research/methodology_repair_roadmap.md
 │
 ├─ improvement_action_plan.md (行动计划)
 │  大小：12 KB
-│  完整路径：/home/work/.openclaw/workspace/research/improvement_action_plan.md
+│  完整路径：/vault/research/improvement_action_plan.md
 │
 ├─ simulation_diagnostics_v1.0.md (仿真诊断)
 │  大小：9 KB
-│  完整路径：/home/work/.openclaw/workspace/research/simulation_diagnostics_v1.0.md
+│  完整路径：/vault/research/simulation_diagnostics_v1.0.md
 │
 ├─ Neural_Complexity_Computation.md (神经复杂度计算)
 │  大小：26 KB
-│  完整路径：/home/work/.openclaw/workspace/research/Neural_Complexity_Computation.md
+│  完整路径：/vault/research/Neural_Complexity_Computation.md
 │
 ├─ RenormalizationGroup_Theory_Validation.md (重整化群理论验证)
 │  大小：9.5 KB
-│  完整路径：/home/work/.openclaw/workspace/research/RenormalizationGroup_Theory_Validation.md
+│  完整路径：/vault/research/RenormalizationGroup_Theory_Validation.md
 │
 ├─ iNEST_Knowledge_Transformation_Engine.md (知识转化引擎)
 │  大小：17 KB
-│  完整路径：/home/work/.openclaw/workspace/research/iNEST_Knowledge_Transformation_Engine.md
+│  完整路径：/vault/research/iNEST_Knowledge_Transformation_Engine.md
 │
 ├─ efinix_quantum_architecture_analysis.md (Efinix 分析)
 │  大小：7.9 KB
-│  完整路径：/home/work/.openclaw/workspace/research/efinix_quantum_architecture_analysis.md
+│  完整路径：/vault/research/efinix_quantum_architecture_analysis.md
 │
 ├─ INSIGHT_TRANSFORMATION_GUIDE.md (启迪点转化指南)
 │  大小：8.1 KB
-│  完整路径：/home/work/.openclaw/workspace/research/INSIGHT_TRANSFORMATION_GUIDE.md
+│  完整路径：/vault/research/INSIGHT_TRANSFORMATION_GUIDE.md
 │
 └─ 其他文档 (诊断矩阵、JSON 等)
 ```
@@ -66,10 +66,10 @@ research/
 **在 OpenClaw 环境中**：
 ```bash
 # 查看单个文件
-cat /home/work/.openclaw/workspace/research/complete_methodology_audit.md
+cat /vault/research/complete_methodology_audit.md
 
 # 查看所有文件
-ls -lh /home/work/.openclaw/workspace/research/
+ls -lh /vault/research/
 ```
 
 **在 Obsidian 中**：
@@ -83,33 +83,33 @@ obsidian-vault/
 
 ## 【记忆文件】13 份
 
-### 路径：`/home/work/.openclaw/workspace/memory/`
+### 路径：`/vault/memory/`
 
 ```
 memory/
 ├─ 2026-06-19-final-summary.md (方法论审查总结，4 KB)
-│  完整路径：/home/work/.openclaw/workspace/memory/2026-06-19-final-summary.md
+│  完整路径：/vault/memory/2026-06-19-final-summary.md
 │
 ├─ 2026-06-19-complete-audit.md (完整审查记录，12 KB)
-│  完整路径：/home/work/.openclaw/workspace/memory/2026-06-19-complete-audit.md
+│  完整路径：/vault/memory/2026-06-19-complete-audit.md
 │
 ├─ 2026-06-19-simulation-diagnostics.md (仿真诊断记录，5 KB)
-│  完整路径：/home/work/.openclaw/workspace/memory/2026-06-19-simulation-diagnostics.md
+│  完整路径：/vault/memory/2026-06-19-simulation-diagnostics.md
 │
 ├─ 2026-06-19-scale-intelligence-diagnosis.md (规模-智能诊断，2.3 KB)
-│  完整路径：/home/work/.openclaw/workspace/memory/2026-06-19-scale-intelligence-diagnosis.md
+│  完整路径：/vault/memory/2026-06-19-scale-intelligence-diagnosis.md
 │
 ├─ 2026-06-19-real-connectome-data-plan.md (真实数据计划，3 KB)
-│  完整路径：/home/work/.openclaw/workspace/memory/2026-06-19-real-connectome-data-plan.md
+│  完整路径：/vault/memory/2026-06-19-real-connectome-data-plan.md
 │
 ├─ 2026-06-19-non-real-data-valuation.md (虚假仿真评估，2.7 KB)
-│  完整路径：/home/work/.openclaw/workspace/memory/2026-06-19-non-real-data-valuation.md
+│  完整路径：/vault/memory/2026-06-19-non-real-data-valuation.md
 │
 ├─ 2026-06-20.md (运行时事件继续记录，2.5 KB)
-│  完整路径：/home/work/.openclaw/workspace/memory/2026-06-20.md
+│  完整路径：/vault/memory/2026-06-20.md
 │
 ├─ 2026-06-20-genspark-sync-complete.md (Genspark 同步完成，2.8 KB)
-│  完整路径：/home/work/.openclaw/workspace/memory/2026-06-20-genspark-sync-complete.md
+│  完整路径：/vault/memory/2026-06-20-genspark-sync-complete.md
 │
 └─ 其他日志文件 (sync_logs/ 等)
 ```
@@ -118,29 +118,29 @@ memory/
 
 **查看特定日期的记忆**：
 ```bash
-cat /home/work/.openclaw/workspace/memory/2026-06-19-final-summary.md
+cat /vault/memory/2026-06-19-final-summary.md
 ```
 
 **查看所有 2026-06 的记忆**：
 ```bash
-ls -lh /home/work/.openclaw/workspace/memory/2026-06-*.md
+ls -lh /vault/memory/2026-06-*.md
 ```
 
 ---
 
 ## 【系统脚本】2 份
 
-### 路径：`/home/work/.openclaw/workspace/90_System/scripts/`
+### 路径：`/vault/90_System/scripts/`
 
 ```
 90_System/scripts/
 ├─ Genspark_gitee_sync.md (完整同步工作流，7.5 KB)
-│  完整路径：/home/work/.openclaw/workspace/90_System/scripts/Genspark_gitee_sync.md
+│  完整路径：/vault/90_System/scripts/Genspark_gitee_sync.md
 │  用途：Genspark Claw Computer 的 Git 同步指南
 │  包含：初始化、规则、流程、故障排查
 │
 └─ Genspark_direct_instruction.md (直接工作指令，5.5 KB)
-   完整路径：/home/work/.openclaw/workspace/90_System/scripts/Genspark_direct_instruction.md
+   完整路径：/vault/90_System/scripts/Genspark_direct_instruction.md
    用途：给 Genspark 的具体任务指令
    包含：7 份诊断文档框架 + 执行清单
 ```
@@ -149,10 +149,10 @@ ls -lh /home/work/.openclaw/workspace/memory/2026-06-*.md
 
 ```bash
 # 查看 Genspark 同步指南
-cat /home/work/.openclaw/workspace/90_System/scripts/Genspark_gitee_sync.md
+cat /vault/90_System/scripts/Genspark_gitee_sync.md
 
 # 查看 Genspark 直接指令
-cat /home/work/.openclaw/workspace/90_System/scripts/Genspark_direct_instruction.md
+cat /vault/90_System/scripts/Genspark_direct_instruction.md
 ```
 
 ---
@@ -163,19 +163,19 @@ cat /home/work/.openclaw/workspace/90_System/scripts/Genspark_direct_instruction
 
 #### 1. 完整方法论审查（核心诊断）
 ```bash
-cat /home/work/.openclaw/workspace/research/complete_methodology_audit.md
+cat /vault/research/complete_methodology_audit.md
 ```
 **内容**：10 层系统审查，12 项关键缺陷，改进预期
 
 #### 2. 修复路线图（行动计划）
 ```bash
-cat /home/work/.openclaw/workspace/research/methodology_repair_roadmap.md
+cat /vault/research/methodology_repair_roadmap.md
 ```
 **内容**：8 周分阶段改进，P0-P3 优先级，资源需求
 
 #### 3. 规模-智能矛盾（理论诊断）
 ```bash
-cat /home/work/.openclaw/workspace/research/scale_intelligence_mismatch_analysis.md
+cat /vault/research/scale_intelligence_mismatch_analysis.md
 ```
 **内容**：规模与智能的对应关系，3 种修正方案
 
@@ -236,13 +236,13 @@ cat /home/work/.openclaw/workspace/research/scale_intelligence_mismatch_analysis
 
 ```bash
 # 查看研究文档权限
-ls -l /home/work/.openclaw/workspace/research/complete_methodology_audit.md
+ls -l /vault/research/complete_methodology_audit.md
 
 # 查看记忆文件权限
-ls -l /home/work/.openclaw/workspace/memory/2026-06-19-final-summary.md
+ls -l /vault/memory/2026-06-19-final-summary.md
 
 # 查看系统脚本权限
-ls -l /home/work/.openclaw/workspace/90_System/scripts/Genspark_gitee_sync.md
+ls -l /vault/90_System/scripts/Genspark_gitee_sync.md
 ```
 
 **预期输出**：`-rw-rw-r-- 1 work work` (755 权限，可读可写)
@@ -255,22 +255,22 @@ ls -l /home/work/.openclaw/workspace/90_System/scripts/Genspark_gitee_sync.md
 
 1. **检查文件是否存在**
 ```bash
-test -f /home/work/.openclaw/workspace/research/complete_methodology_audit.md && echo "✅ 存在" || echo "❌ 不存在"
+test -f /vault/research/complete_methodology_audit.md && echo "✅ 存在" || echo "❌ 不存在"
 ```
 
 2. **检查目录权限**
 ```bash
-ls -ld /home/work/.openclaw/workspace/research/
+ls -ld /vault/research/
 ```
 
 3. **检查文件大小**
 ```bash
-du -h /home/work/.openclaw/workspace/research/*.md | sort -h
+du -h /vault/research/*.md | sort -h
 ```
 
 4. **尝试读取文件**
 ```bash
-head -20 /home/work/.openclaw/workspace/research/complete_methodology_audit.md
+head -20 /vault/research/complete_methodology_audit.md
 ```
 
 ### 常见问题排查

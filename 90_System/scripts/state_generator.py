@@ -8,7 +8,7 @@ import json, os, subprocess, time
 from pathlib import Path
 from datetime import datetime, timedelta
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 DEFAULT_OUTPUT = VAULT / "99_Meta" / "research_state.json"
 TODAY = datetime.now().strftime("%Y-%m-%d")
 

@@ -1,7 +1,7 @@
 
 import re
 
-path = r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_clean.tex'
+path = r'D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_clean.tex'
 with open(path, 'r', encoding='utf-8') as f:
     content = f.read()
 

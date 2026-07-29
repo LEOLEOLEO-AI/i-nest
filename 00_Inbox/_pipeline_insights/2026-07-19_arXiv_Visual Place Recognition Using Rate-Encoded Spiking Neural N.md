@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning"
 date: 2026-07-19
 source: arXiv

@@ -1,7 +1,7 @@
 ﻿import json, os
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 
 def cnt(dirname):
     d = VAULT / dirname

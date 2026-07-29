@@ -1,5 +1,5 @@
 ﻿import sys
-path = r'D:\Obsidian\home\work\.openclaw\workspace\simulation\sdi_l6_general.py'
+path = r'D:\Obsidian\vault\simulation\sdi_l6_general.py'
 with open(path, 'r', encoding='utf-8') as f:
     c = f.read()
 

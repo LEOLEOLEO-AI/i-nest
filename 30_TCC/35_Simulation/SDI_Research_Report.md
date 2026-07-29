@@ -431,6 +431,6 @@ SDI不是一套算法，而是一个**宇宙级别的涌现原理的工程实现
 
 ---
 
-*本报告基于iNEST实验室的计算仿真实验（实验一v13 FINAL + 实验二Hemibrain嗅觉验证），代码存档于 `/home/work/.openclaw/workspace/sdi_sim/`，实验结果文件：`exp1_v13_results.json` 和 `exp2_olfactory_results.json`。*
+*本报告基于iNEST实验室的计算仿真实验（实验一v13 FINAL + 实验二Hemibrain嗅觉验证），代码存档于 `/vault/sdi_sim/`，实验结果文件：`exp1_v13_results.json` 和 `exp2_olfactory_results.json`。*
 
 *iNEST实验室，2026年5月*

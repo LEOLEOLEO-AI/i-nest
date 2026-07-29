@@ -65,7 +65,7 @@ def on_page(canvas, doc):
     canvas.drawCentredString(W/2, 10*mm, '- %d -' % doc.page)
     canvas.restoreState()
 
-outdir = r'D:\Obsidian\home\work\.openclaw\workspace\40_iNEST\44_Projects\项目指南\苏州实验室'
+outdir = r'D:\Obsidian\vault\40_iNEST\44_Projects\项目指南\苏州实验室'
 outpath = os.path.join(outdir, 'iNEST_Briefing_XuNanping_v1.0.pdf')
 
 story = []

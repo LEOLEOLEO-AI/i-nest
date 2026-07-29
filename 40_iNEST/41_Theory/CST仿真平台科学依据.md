@@ -400,7 +400,7 @@ elif el_ratio < EL_TARGET_LO:
 
 ### 8.1 C.elegans复现实验（核心成果）
 
-**仿真代码**：`/home/work/.openclaw/workspace/sdi_sim/sdi_network_v7.py`（基于v6修改）
+**仿真代码**：`/vault/sdi_sim/sdi_network_v7.py`（基于v6修改）
 
 **参数配置（v7最终版）**：
 
@@ -619,5 +619,5 @@ IE三元指标：
 
 ---
 
-*文档路径：`/home/work/.openclaw/workspace/知识库_网络超线性增益/CST仿真平台科学依据.md`*  
+*文档路径：`/vault/知识库_网络超线性增益/CST仿真平台科学依据.md`*  
 *关联文档：知识库文件01-13，仿真代码sdi_sim/，CST_Papers/论文v19*

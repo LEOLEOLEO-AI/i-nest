@@ -256,7 +256,7 @@ CST-Meter 架构
 
 **目标**：设计CST参数到SDI硬件配置的映射接口规范。
 
-详见 [P5_iNEST到TCC的工程转化.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/P5_iNEST到TCC的工程转化.md)
+详见 [P5_iNEST到TCC的工程转化.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/P5_iNEST到TCC的工程转化.md)
 
 ### 3.3 交付物清单
 

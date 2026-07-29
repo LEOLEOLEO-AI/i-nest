@@ -4,7 +4,7 @@ from collections import defaultdict
 
 # Target scan: only directories known to contain Obsidian/research files
 SCAN_DIRS = [
-    Path(r"D:\Obsidian\home\work\.openclaw\workspace"),  # Main vault
+    Path(r"D:\Obsidian\vault"),  # Main vault
     Path(r"D:\Obsidian\iNEST_vault"),                      # Old vault
     Path(r"D:\Obsidian"),                                  # Root loose files (depth=1 only)
     Path(r"D:\iNEST"),                                     # Research files
@@ -32,7 +32,7 @@ def scan_dir(path, max_depth=99):
         pass
     return md_files
 
-VAULT_ROOT = r"D:\Obsidian\home\work\.openclaw\workspace"
+VAULT_ROOT = r"D:\Obsidian\vault"
 all_files = []
 
 for d in SCAN_DIRS:
@@ -90,6 +90,6 @@ for name, files in dups:
         "waste_kb": sum(f["size"] for f in other_files) / 1024,
     })
 
-vault_path = Path(r"D:\Obsidian\home\work\.openclaw\workspace\60_MOC\system_dedup_report.json")
+vault_path = Path(r"D:\Obsidian\vault\60_MOC\system_dedup_report.json")
 vault_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
 print(f"\nReport saved: 60_MOC/system_dedup_report.json")

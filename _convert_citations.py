@@ -1,9 +1,9 @@
 ﻿import json, re, os
 
-v29=r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_CST_Theory_V29_FROM_PDF.md'
+v29=r'D:\Obsidian\vault\50_Output\51_Papers\A1_CST_Theory_V29_FROM_PDF.md'
 t=open(v29,encoding='utf-8').read()
 
-map_path=r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\ref_key_map.json'
+map_path=r'D:\Obsidian\vault\50_Output\51_Papers\ref_key_map.json'
 with open(map_path, encoding='utf-8') as f:
     key_map = json.load(f)
 

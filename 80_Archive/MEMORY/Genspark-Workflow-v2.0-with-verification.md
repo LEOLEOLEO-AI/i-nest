@@ -45,7 +45,7 @@ git status  # 工作区应该干净
 
 ```bash
 # 从 OpenClaw 复制诊断报告到 Genspark
-cp /home/work/.openclaw/workspace/research/*.md ~/i-nest/50_Output/
+cp /vault/research/*.md ~/i-nest/50_Output/
 ```
 
 ---

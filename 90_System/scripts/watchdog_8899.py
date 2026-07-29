@@ -3,7 +3,7 @@
 import subprocess, time, socket, sys, os
 
 PORT = 8899
-SERVER_SCRIPT = r"D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\vault_server.py"
+SERVER_SCRIPT = r"D:\Obsidian\vault\90_System\scripts\vault_server.py"
 CHECK_INTERVAL = 30  # seconds
 
 def is_alive():

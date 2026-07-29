@@ -8,7 +8,7 @@ from datetime import datetime
 sys.path.insert(0, r'D:\Obsidian\scripts')
 from llm_router import llm_call
 
-VAULT = Path(r'D:\Obsidian\home\work\.openclaw\workspace')
+VAULT = Path(r'D:\Obsidian\vault')
 INSIGHTS_DIR = VAULT / '00_Inbox' / '_pipeline_insights'
 DASHBOARD_JS = VAULT / 'dashboard' / 'data.js'
 META = VAULT / '99_Meta'

@@ -1,6 +1,6 @@
 ﻿import re, os, json
 
-v29=r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_CST_Theory_V29_FROM_PDF.md'
+v29=r'D:\Obsidian\vault\50_Output\51_Papers\A1_CST_Theory_V29_FROM_PDF.md'
 t=open(v29,encoding='utf-8').read()
 lines=t.split('\n')
 
@@ -87,7 +87,7 @@ for i, ref in enumerate(refs):
     bib_entries.append(bib)
 
 # Write .bib file
-bib_path = r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\cst_references_v29.bib'
+bib_path = r'D:\Obsidian\vault\50_Output\51_Papers\cst_references_v29.bib'
 with open(bib_path, 'w', encoding='utf-8') as f:
     f.write('% CST Theory V29 - Auto-generated references\n')
     f.write('% Generated: 2026-06-21\n\n')
@@ -95,7 +95,7 @@ with open(bib_path, 'w', encoding='utf-8') as f:
         f.write(entry + '\n')
 
 # Write key mapping for reference
-map_path = r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\ref_key_map.json'
+map_path = r'D:\Obsidian\vault\50_Output\51_Papers\ref_key_map.json'
 with open(map_path, 'w', encoding='utf-8') as f:
     json.dump(key_map, f, indent=2, ensure_ascii=False)
 

@@ -166,7 +166,7 @@ SDI节点接口设计（4类型 × N条 + 2路SYN）        → 文档11
 | `12_三原理协同_FEP_最小作用量_STDP.md` | 三原理物理推导 | ✅ |
 | `13_知识框架总图_SDI化合键到临界态涌现.md` | **本文档，总纲** | ✅ |
 
-**仿真代码**（`/home/work/.openclaw/workspace/sdi_sim/`）：
+**仿真代码**（`/vault/sdi_sim/`）：
 - `sdi_network_v1~v5.py`：迭代仿真代码
 - `sdi_v5_celegans.png`：v5结果图（进行中）
 
@@ -182,7 +182,7 @@ SDI节点接口设计（4类型 × N条 + 2路SYN）        → 文档11
 | 六阈值RI对应六级智能 | 文档07:IE三元指标 | 待完成 |
 | SDI化合键工程可行 | 文档11:4类型×N条动态扇出 | v5:规则执行验证 |
 
-*存档路径：`/home/work/.openclaw/workspace/知识库_网络超线性增益/13_知识框架总图_SDI化合键到临界态涌现.md`*
+*存档路径：`/vault/知识库_网络超线性增益/13_知识框架总图_SDI化合键到临界态涌现.md`*
 
 ## Related Notes
 

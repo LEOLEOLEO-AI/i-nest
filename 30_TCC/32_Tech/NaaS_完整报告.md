@@ -237,7 +237,7 @@ Phase 3（12-18月）：NaaS订阅平台
 - 仿真代码v2：`collective_comm_sim_v2.py`（互连对等对比版，当前版本）
 - 结果图v2：`collective_comm_v2_result.png`
 - 结果JSON：`/tmp/collective_comm_v2_results.json`
-- SDI仿真v26：`/home/work/.openclaw/workspace/sdi_sim/sdi_network_v26.py`
+- SDI仿真v26：`/vault/sdi_sim/sdi_network_v26.py`
 
 ---
 

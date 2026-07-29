@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "106d1628e2c018ca",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "a20661c9191563c4",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ee2b1f7a688b39da",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "2026-07-28-tcc-productized-subproject-design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,34 +43,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "e195b59437e6a009",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "http://127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/TCC_iNEST_%E6%88%90%E6%9E%9C%E5%85%A8%E6%99%AF.md",
-                "title": "127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/TCC_iNEST_成果全景.md",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "127.0.0.1:8899/home/work/.openclaw/workspace/60_MOC/TCC_iNEST_成果全景.md"
+              "title": "2026-07-28-tcc-productized-subproject-design"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,32 +144,13 @@
               "icon": "notebook-navigator",
               "title": "笔记本导航器"
             }
-          },
-          {
-            "id": "4e5cace9b28e3039",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "periodic-para",
-              "state": {},
-              "icon": "file-plus",
-              "title": "LifeOS"
-            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 609.5
   },
   "right": {
     "id": "b131a582ddb31d11",
@@ -310,32 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50_Output/51_Papers/TCC/SUBMISSION_READY_Topology_Centric_Computing_v1.0.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SUBMISSION_READY_Topology_Centric_Computing_v1.0 的大纲"
-            }
-          },
-          {
-            "id": "6787a70ce9c7fac0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "title": "Home 的大纲"
             }
           },
           {
@@ -356,24 +300,62 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "03b6f2027cf6ef3c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "013257bb46529241",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "claudian-plus-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian Plus"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 486.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "periodic-para:LifeOS 创建": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
       "markitdown:Convert to Markdown": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
@@ -385,59 +367,59 @@
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "unofficial-fabric-integration:Fabric": false,
       "notebook-navigator:笔记本导航器": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "claudian-plus:Open Claudian Plus": false
     }
   },
-  "active": "e195b59437e6a009",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "logs/pipeline_20260719_1138.json",
-    "logs/pipeline_20260719_1124.json",
-    "99_Meta/evolution_queue.json",
-    "99_Meta/hypothesis_registry.json",
-    "90_System/scripts/__pycache__/evolution_engine_v2.cpython-310.pyc",
-    "90_System/scripts/evolution_engine_v2.py",
-    "90_System/scripts/__pycache__/daily_generator.cpython-310.pyc",
-    "90_System/scripts/__pycache__/weekly_health_check.cpython-310.pyc",
-    "90_System/scripts/__pycache__/state_generator.cpython-310.pyc",
-    "00_Inbox/_pipeline_insights/_oa_seen.json",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Very-large-scale mimetic optogenetic synapses for physical reservoir computing.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Hallmarks of cancer—Then and now, and beyond.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Gut microbiome–driven colorectal cancer via immune, metabolic, neural, and endoc.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Graph machine learning for flight delay prediction due to holding maneuver.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Flexible, stretchable, on-chip optical tweezers for high-throughput bioparticle .md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Explainable AI and Multi-Agent Systems for Energy Management in IoT-Edge Environ.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Evaluation of the Dual Impact of Nanotechnologies on Health and Environment Thro.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Epoxy molding compound encapsulation process in IC packaging a review at wafer a.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed .md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_A Survey of Large Language Models.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_A Review of Intelligent Power Management and AI-Assisted Energy-Efficient Contro.md",
-    "99_Meta/research_state.json",
+    "90_System/scripts/__pycache__/task_planner.cpython-313.pyc",
+    "90_System/scripts/__pycache__/reconstruct_formulas.cpython-313.pyc",
+    "90_System/scripts/__pycache__/processing_workflow.cpython-313.pyc",
+    "90_System/scripts/__pycache__/link_engine.cpython-313.pyc",
+    "90_System/scripts/__pycache__/gen_insights.cpython-313.pyc",
+    "90_System/scripts/__pycache__/deep_analyze_v2.cpython-313.pyc",
+    "90_System/scripts/__pycache__/deep_analyze.cpython-313.pyc",
+    "90_System/scripts/__pycache__/deepseek_analyze.cpython-313.pyc",
+    "90_System/scripts/__pycache__/pipeline_v3.cpython-313.pyc",
+    "90_System/DIAGNOSTIC_REPORT_20260730.md",
+    "00_Inbox/arxiv-auto/2026-07-15-index.md",
+    "00_Inbox/arxiv-auto/2026-07-15-2607.12901.md",
+    "00_Inbox/arxiv-auto/2026-07-15-2607.12862.md",
+    "00_Inbox/arxiv-auto/2026-07-15-2607.12840.md",
+    "00_Inbox/arxiv-auto/2026-07-15-2607.12619.md",
+    "00_Inbox/arxiv-auto/2026-07-15-2607.11958.md",
+    "00_Inbox/arxiv-auto/2026-07-15-2607.11914.md",
+    "00_Inbox/arxiv-auto/2026-07-15-2603.24171.md",
+    "00_Inbox/arxiv-auto/2026-07-15-2506.21324.md",
+    "00_Inbox/arxiv-auto/2026-07-15-2412.04847.md",
+    "00_Inbox/arxiv-auto",
+    "00_Inbox/getnote_2026-07-29_getnote_1916969803656088288_大语言模型自指与自省阈值深度研报：递归自我改进的核心门槛.md",
+    "00_Inbox/getnote_2026-07-29_getnote_1916933967522229392_中国电子相关询问回复.md",
+    "00_Inbox/getnote_2026-07-29_getnote_1916895784188521304_多尺度形态条码MMB研究：神经元全脑结构量化新框架.md",
+    "00_Inbox/getnote_2026-07-29_getnote_1916891851072400528_2026年7月Nature Communications研究：高维神经网络核心计算仅需1-2个维度的低维动力学机制解析.md",
+    "00_Inbox/getnote_2026-07-29_getnote_1916863589114286024_提醒：周四上午确认CST会议准备.md",
+    "00_Inbox/getnote_2026-07-29_getnote_1916863538647896008_7月30日周四下午3点 CST讨论（复旦大学）.md",
     "Home.md",
-    "50_Output/52_Patents/00_专利布局总览.md",
-    "60_MOC/weekly_health_20260719.md",
-    "60_MOC/weekly_health_20260718.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Recent Advances in Generative AI for Healthcare Applications.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Digital twins in oncology From predictive modelling to personalised treatment st.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_A Survey on Medical Large Language Models Technology, Application, Trustworthine.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Rumor propagation on hypergraphs.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Advanced Graph Neural Networks for Smart Mining A Systematic Literature Review o.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Reducibility of higher-order networks from dynamics.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Quantum Convolutional Neural Networks are Effectively Classically Simulable.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_Computation-efficient deep learning for computer vision A survey.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_A Survey on 3D Gaussian Splatting.md",
-    "00_Inbox/_pipeline_insights/2026-07-18_OA_The digital sphinx Can a worm brain control a fly body.md",
-    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/font_atlas.png",
-    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/unicorn/media/blue_noise_med.png",
-    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/ui-icons/sidebar.svg",
-    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/redbook.svg",
-    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/github.svg",
-    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/douyin.svg",
-    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/social-icons/bilibili.svg",
-    "50_Output/59_Presentations/SDSoW_TCC_iNEST_20260713/assets/skill/dashiai-ppt-favicon.png",
-    "30_TCC/31_Theory/tcc_paper_background_assets/image9.png",
-    "30_TCC/31_Theory/tcc_paper_background_assets/image8.png",
+    "2026-07-28-tcc-productized-subproject-design.md",
+    "拓扑中心计算——面向通信受限智能计算的第三类体系结构范式.md",
+    "test_open_fix.md",
+    "_external/test_outside_D1A6D696.md",
+    "50_Output/52_Patents/~$I调度方法 专利修订.docx",
+    "uri_test_file.md",
+    "_external/test_outside.md_D1A6D696.md",
+    "_external/test_outside.md",
+    "笔记同步助手/images/8cc926c5ddc3df38df986b22ad059065_MD5.png",
+    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_11.png",
+    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/TM9.png",
+    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_9.png",
+    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_5.png",
+    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_3.png",
+    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_2.png",
+    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_1.png",
+    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image.png",
+    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/270019dd9a530dfe59ff6906af49d7e4.jpg",
     "80_Archive/Inbox_legacy/待分类/未命名.canvas",
     "80_Archive/05_Fleeting/待分类/未命名.canvas",
     "Inbox/待分类/未命名.canvas",

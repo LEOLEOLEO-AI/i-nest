@@ -34,7 +34,7 @@ CASCADE_MAX = 12
 # ============================================================
 print('Loading hemibrain_meta.csv...')
 neurons = {}
-with open('/home/work/.openclaw/workspace/10_Knowledge/专题归档/05_Datasets_仿真与实验数据/Simulation_Results/hemibrain_meta.csv') as f:
+with open('/vault/10_Knowledge/专题归档/05_Datasets_仿真与实验数据/Simulation_Results/hemibrain_meta.csv') as f:
     reader = csv.reader(f)
     header = next(reader)
     for row in reader:
@@ -497,7 +497,7 @@ results = {
     'theta_traj': [int(x) for x in logs['theta']],
 }
 
-out_path = '/home/work/.openclaw/workspace/sdi_sim/hemibrain_v31_results.json'
+out_path = '/vault/sdi_sim/hemibrain_v31_results.json'
 with open(out_path, 'w') as f:
     json.dump(results, f, indent=2)
 print(f'\nResults saved to {out_path}')
@@ -552,6 +552,6 @@ for txt, fs, fw, clr, y in items:
     ax.text(0.05, y, txt, transform=ax.transAxes, fontsize=fs, fontweight=fw, color=clr, va='top')
 
 plt.tight_layout()
-plt.savefig('/home/work/.openclaw/workspace/sdi_sim/hemibrain_v31_results.png', dpi=150, bbox_inches='tight')
+plt.savefig('/vault/sdi_sim/hemibrain_v31_results.png', dpi=150, bbox_inches='tight')
 plt.close()
 print('Plot saved. DONE')

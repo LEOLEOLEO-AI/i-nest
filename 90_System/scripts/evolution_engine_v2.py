@@ -12,7 +12,7 @@ from datetime import datetime
 
 sys.path.insert(0, r"D:\Obsidian\scripts")
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 STATE_FILE = VAULT / "99_Meta" / "research_state.json"
 LEDGER_FILE = VAULT / "99_Meta" / "evolution_ledger.json"
 HYPOTHESIS_FILE = VAULT / "99_Meta" / "hypothesis_registry.json"

@@ -468,7 +468,7 @@ def plot_v3(net, logs, sigma_f, C_f, L_f, alpha_f):
         y -= max(0.04, fs*0.006)
 
     plt.tight_layout()
-    out = '/home/work/.openclaw/workspace/sdi_sim/sdi_v3_three_principles.png'
+    out = '/vault/sdi_sim/sdi_v3_three_principles.png'
     plt.savefig(out, dpi=150, bbox_inches='tight')
     plt.close()
     print(f"\n✅ 图表: {out}")
@@ -478,7 +478,7 @@ def plot_v3(net, logs, sigma_f, C_f, L_f, alpha_f):
 # 主程序
 # ============================================================
 if __name__ == '__main__':
-    import os; os.makedirs('/home/work/.openclaw/workspace/sdi_sim', exist_ok=True)
+    import os; os.makedirs('/vault/sdi_sim', exist_ok=True)
     t_start = time.time()
     print("="*65)
     print("SDI网络仿真 v3 — NumPy向量化 + 三原理显式计算")

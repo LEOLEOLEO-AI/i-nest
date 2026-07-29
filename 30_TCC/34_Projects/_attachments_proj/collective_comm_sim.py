@@ -676,7 +676,7 @@ def plot_results(scale_res, at_res, topo_results, pw):
     fig.suptitle('集合通信NaaS — 仿真验证报告\nSDI硬件化Allreduce × CST理论 × 晶圆级互连',
                  color=GOLD, fontsize=14, fontweight='bold', y=0.98)
 
-    out_path = '/home/work/.openclaw/workspace/collective_comm_naas/03_仿真验证/collective_comm_sim_result.png'
+    out_path = '/vault/collective_comm_naas/03_仿真验证/collective_comm_sim_result.png'
     plt.savefig(out_path, dpi=150, bbox_inches='tight', facecolor='#0A1628')
     plt.close()
     print(f"\n✅ 图: {out_path}")

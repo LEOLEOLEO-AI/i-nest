@@ -8,8 +8,8 @@ import json, time, pandas as pd
 from neuprint import Client, fetch_neurons, fetch_adjacencies, NeuronCriteria as NC
 
 TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InFpbnJhbmdsaXVAZ21haWwuY29tIiwibGV2ZWwiOiJub2F1dGgiLCJpbWFnZS11cmwiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NLWUdKRkJ3Y3gxMWwzTjVUZHdSRWhMZkJ5aVBYazFoZXd1OTRZQ0l1ZElETmsxYkE9czk2LWM_c3o9NTA_c3o9NTAiLCJleHAiOjE5NTgxNjY4NTB9.n_x-lQSyXa4a6LoKY40bSnT4yyVopZsbVg18aT0_5PA'
-OUT = '/home/work/.openclaw/workspace/sdi_sim/hemibrain_real_connectome_v2.json'
-LOG = '/home/work/.openclaw/workspace/sdi_sim/fetch_log_v2.txt'
+OUT = '/vault/sdi_sim/hemibrain_real_connectome_v2.json'
+LOG = '/vault/sdi_sim/fetch_log_v2.txt'
 
 c = Client('neuprint.janelia.org', dataset='hemibrain:v1.2.1', token=TOKEN)
 print(f'Connected: {c.fetch_version()}', flush=True)

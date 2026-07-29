@@ -12,8 +12,15 @@ from pathlib import Path
 from datetime import datetime, timedelta
 from openai import OpenAI
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
-KEY = os.environ.get("DEEPSEEK_API_KEY") or "REDACTED_DEEPSEEK_KEY"
+# Load .env for API keys
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(r"D:\Obsidian\vault\.env"))
+except ImportError:
+    pass
+
+VAULT = Path(r"D:\Obsidian\vault")
+KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 client = OpenAI(api_key=KEY, base_url="https://api.deepseek.com/v1")
 TODAY = datetime.now().strftime("%Y-%m-%d")
 

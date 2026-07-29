@@ -8,7 +8,7 @@ import os, sys, json, re, time, urllib.request, urllib.parse
 from datetime import datetime
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 INBOX = VAULT / "00_Inbox" / "_pipeline_insights"
 INBOX.mkdir(parents=True, exist_ok=True)
 UA = "mailto:qinrangliu@tju.edu.cn"

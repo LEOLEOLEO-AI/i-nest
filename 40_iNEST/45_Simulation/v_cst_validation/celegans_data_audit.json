@@ -1,0 +1,1081 @@
+{
+  "protocol": "V-CST-00",
+  "task": "V-CST-01/V-CST-02 input audit",
+  "root": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation",
+  "records": [
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\c_elegans_2000.json",
+      "size_bytes": 187,
+      "sha256": "19e7fb434832f52a982db42f02cc28f1a9b6e33e350f2b2f925542e199642809",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "Cf",
+        "Ci",
+        "Lf",
+        "Li",
+        "N",
+        "alpha",
+        "name",
+        "sigma_f",
+        "sigma_i",
+        "time_s"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\c_elegans_500.json",
+      "size_bytes": 118,
+      "sha256": "f631c4dd24f9b67c8ceee29c58099e66de99b9b88e167875f0bdee9b85677516",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "alpha",
+        "name",
+        "sigma_f",
+        "sigma_i",
+        "time_s"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\c_elegans_v24.json",
+      "size_bytes": 98,
+      "sha256": "4d1a5d90f277d4bde193e4d1cfee54e0644007cf96992d5cb11501fbfb59c047",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "alpha",
+        "name",
+        "sigma_f",
+        "time_s"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\connectome\\allen_mouse_connectivity.json",
+      "size_bytes": 3352386,
+      "sha256": "5838b88c2247c46885ea082f266737c28ed4f2bb441e47ed48ef9b107cf32503",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "id",
+        "msg",
+        "num_rows",
+        "start_row",
+        "success",
+        "total_rows"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\connectome_larval_cns.json",
+      "size_bytes": 2163193,
+      "sha256": "5d7b022cc4a3149a1e43b08399eab6d1ec20396a61dc060c85d6488a8cf61940",
+      "classification": "structural_candidate",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "edges_chem",
+        "edges_elec",
+        "inter_idx",
+        "motor_idx",
+        "n_types",
+        "nodes",
+        "sensor_idx",
+        "source",
+        "species",
+        "synapses"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\connectome_larval_cns_sm.json",
+      "size_bytes": 2163175,
+      "sha256": "9cda950591fc0708dd9bc8eabd9f508ad622feee06b6bdb13abad15cc5acd556",
+      "classification": "structural_candidate",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "edges_chem",
+        "edges_elec",
+        "inter_idx",
+        "motor_idx",
+        "n_types",
+        "nodes",
+        "sensor_idx",
+        "source",
+        "species",
+        "synapses"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\connectome_larval_cns_sm2.json",
+      "size_bytes": 2163102,
+      "sha256": "5de7fa75f1b111ee9bef6aabfee11f13449c020d6da839f81df22307138ece86",
+      "classification": "structural_candidate",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "edges_chem",
+        "edges_elec",
+        "inter_idx",
+        "motor_idx",
+        "n_types",
+        "nodes",
+        "sensor_idx",
+        "source",
+        "species",
+        "synapses"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\connectome_macaque_rm.json",
+      "size_bytes": 80312,
+      "sha256": "8717739bc760694d874612f9d012f6b0aa9dddbf6e929dedf1c95ebbdee62c5e",
+      "classification": "structural_candidate",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "edges_chem",
+        "edges_elec",
+        "inter_idx",
+        "motor_idx",
+        "n_types",
+        "nodes",
+        "sensor_idx",
+        "source",
+        "species",
+        "synapses"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\connectome_v8_data.json",
+      "size_bytes": 62298,
+      "sha256": "a5e914ffdfb172e143746e763356d9bd82e22a8b5127f9f35795d487cf6e2a63",
+      "classification": "structural_candidate",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "C",
+        "L",
+        "N",
+        "edges_chem",
+        "edges_elec",
+        "k_avg",
+        "n_types",
+        "node2idx",
+        "nodes"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\cross_species_v24_2000.json",
+      "size_bytes": 493,
+      "sha256": "177beb34e47dc6c8f725c7bc4df13391fb0d63154d3c3671bab83e2b4f1510c1",
+      "classification": "other",
+      "json": true,
+      "root": "list"
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\cross_species_v24_2000_final.json",
+      "size_bytes": 1288,
+      "sha256": "db91b15e081dc9a032b656aee3d84db0215b1993a38f5badcaae2ad80afa65de",
+      "classification": "other",
+      "json": true,
+      "root": "list"
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\cross_species_v24_500.json",
+      "size_bytes": 693,
+      "sha256": "94c01ef3bec18f494d513359987f5799410bc64e9a7aa24afe6690ed62b51432",
+      "classification": "other",
+      "json": true,
+      "root": "list"
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\cst_phase_scan_N1024.json",
+      "size_bytes": 3267,
+      "sha256": "6c98bb6d206952cfc6c71e394f4a33edd4670596e12a53fab63a4e9925d7abe1",
+      "classification": "other",
+      "json": true,
+      "root": "list"
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\l4_results\\l4_combinatorial_results.json",
+      "size_bytes": 2065,
+      "sha256": "5b83596b6dac6cdde2b4c42545454e62648367b531894ed86e9f7e0fb67d40f5",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "brain_state",
+        "chemo_improvement",
+        "combo_score",
+        "experiment",
+        "interference",
+        "l4_overall",
+        "l4_pass_combo",
+        "l4_pass_interference",
+        "l4_pass_switch",
+        "photo_improvement",
+        "single_task_avg",
+        "switch_cost"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\l5_results\\l5_self_improvement_results.json",
+      "size_bytes": 29631,
+      "sha256": "1be3208d2632055d552267dc26fb1397738a364600deeed6b2b2d2bbce593342",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "adaptive",
+        "fixed_aggressive",
+        "fixed_conservative",
+        "judgment"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\larval_cns_v24\\result.json",
+      "size_bytes": 708,
+      "sha256": "19724658ceb422617a31be12304dac45bac5f27d35074f61e21879d7ee8d846c",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "Cf",
+        "Lf",
+        "N",
+        "alpha",
+        "checkpoints",
+        "el_final_pct",
+        "name",
+        "sigma_f",
+        "sigma_i",
+        "steps",
+        "time_s"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\larval_cns_v24\\result_500.json",
+      "size_bytes": 206,
+      "sha256": "081e405560b25f66fbc8e07fbb141da38e50d3095dd63f012c305b81dbd76f6a",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "Cf",
+        "Lf",
+        "N",
+        "alpha",
+        "el_final_pct",
+        "name",
+        "sigma_f",
+        "sigma_i",
+        "steps",
+        "time_s"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\larval_cns_v25_sm\\result.json",
+      "size_bytes": 742,
+      "sha256": "1d90e0218557346fa0135f5298b966a948dd4bccbce636da7ea50b59dca26557",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "Cf",
+        "Lf",
+        "N",
+        "alpha",
+        "checkpoints",
+        "el_final_pct",
+        "motor_error_final",
+        "n_motor",
+        "n_sensor",
+        "name",
+        "sigma_f",
+        "sigma_i",
+        "steps",
+        "time_s"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\larval_cns_v25_sm2\\result.json",
+      "size_bytes": 842,
+      "sha256": "a189c6d8be3c4c010e3f2f30e1973d7c403fa9b458f78b5952e12432e7c60c3a",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "Cf",
+        "Lf",
+        "N",
+        "alpha",
+        "checkpoints",
+        "el_final_pct",
+        "motor_error_final",
+        "n_motor",
+        "n_sensor",
+        "name",
+        "sigma_f",
+        "sigma_i",
+        "time_s"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\larval_cns_v25_sm_v2\\result.json",
+      "size_bytes": 790,
+      "sha256": "bb7a20d0db4a00c857e0b62cbe87941e91e193e3983536d86f7f3bad57188fdd",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "alpha",
+        "checkpoints",
+        "el_final_pct",
+        "motor_error_final",
+        "name",
+        "reward_final",
+        "sigma_f",
+        "sigma_i",
+        "steps",
+        "time_s"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v10_results\\v10_results.json",
+      "size_bytes": 98896,
+      "sha256": "7caa17cdea6640f2c95a882e59eaf8a1feef14dcbdeb40be43677e7b99a1f052",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "description",
+        "final",
+        "glia_events",
+        "history",
+        "params",
+        "scaling_events",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v11_results\\v11_results.json",
+      "size_bytes": 145344,
+      "sha256": "3f6dd0d865151faa0a67cab6dc43595b7179228a715d74e4d3480110c782357c",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "M",
+        "N",
+        "final",
+        "glia_events",
+        "history",
+        "params",
+        "scaling_events",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v22_results\\v22_inc_results.json",
+      "size_bytes": 1272,
+      "sha256": "6fb934d1b199b4ef234793d0a3ae42c458f767e1e075839f928aff4da9170fdb",
+      "classification": "other",
+      "json": true,
+      "root": "list"
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v22_results\\v22_results.json",
+      "size_bytes": 12234,
+      "sha256": "1f4eb0a6319a13a6c457077ab4353fe852a19378c0a4924803a9a0bbaced602d",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "final",
+        "glia_events",
+        "logs",
+        "scaling_events",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v23_results\\v23_results.json",
+      "size_bytes": 1650,
+      "sha256": "508f9c435beb68abec3131f9dbfb94ba758ba636e244127528479f96c762e33e",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "final",
+        "glia_events",
+        "logs",
+        "scaling_events",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v24_results\\v24_results.json",
+      "size_bytes": 283,
+      "sha256": "89cc00ad04dd5aa6a4d1bc3d3bed08a41b6d832219df8d426df524c552e8ea14",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "FEP_converged_pct",
+        "F_final",
+        "N",
+        "el_final_pct",
+        "glia_events",
+        "scaling_events",
+        "sigma_final",
+        "sigma_peak",
+        "theta_final",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v25_results\\v25_results.json",
+      "size_bytes": 328,
+      "sha256": "82b7238579f1182f3b3af7750950260c7cb4afd8ec4c2e88069b2415e5742c4b",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "BCM_theta_mean",
+        "FEP_convergence",
+        "F_final",
+        "N",
+        "consolidate_rate_final",
+        "el_final_pct",
+        "glia_events",
+        "scaling_events",
+        "sigma_final",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v26_results\\v26_celegans_results.json",
+      "size_bytes": 652,
+      "sha256": "7df37b9f1598a5d4102c85d1cffeb96b4c1dc66f7f2ab8eba8e6b98120d67a62",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "C",
+        "L",
+        "N",
+        "bootstrap_n",
+        "conclusion",
+        "data",
+        "edges",
+        "efficiency",
+        "efficiency_gain",
+        "er_efficiency",
+        "error_pct",
+        "gamma",
+        "k_avg",
+        "ks_cluster_D",
+        "ks_cluster_p",
+        "ks_degree_D",
+        "ks_degree_p",
+        "literature_sigma",
+        "sigma",
+        "sigma_ci95",
+        "species",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v26_results\\v26_scaling_results.json",
+      "size_bytes": 1391,
+      "sha256": "ad2c54ccf13d03e4ebe2c13980be3c01fe787f1dfba4717d83013165fab75ed8",
+      "classification": "other",
+      "json": true,
+      "root": "list"
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v26_results\\v26_summary.json",
+      "size_bytes": 242,
+      "sha256": "b1efebf967dfee75be97b128388093cede14f92e66e0c58a162b9d229a3ad662",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "v26"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v27_results\\v27_results.json",
+      "size_bytes": 1492,
+      "sha256": "1735d82b35abaa5057e6d426609ffbbefef7bd9f799d547d5fa7cbecd059d316",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "avalanche",
+        "conclusion",
+        "data",
+        "date",
+        "fep_stdp",
+        "full_connectome",
+        "species",
+        "static_topology",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v28_results\\v28_results.json",
+      "size_bytes": 2244,
+      "sha256": "d0fd1a8674204ff54b2954ce03cb033784e886bf86eb8eb118a93e023397d7b4",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "conclusion",
+        "cross_species_analysis",
+        "date",
+        "n_species",
+        "species",
+        "title",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v28_results\\v29_results.json",
+      "size_bytes": 677565,
+      "sha256": "ef04c2e5e0d38ddd60d578fd361e483e274e53f3442848e4245b3703f6367a5d",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N279",
+        "N558",
+        "N837"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v29_results\\v29_results.json",
+      "size_bytes": 1758,
+      "sha256": "7ccec9538560e505a3c9a99c365d36d55c4da0c56ec9793a7a0e9f69b164d576",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "biological_ranges",
+        "conclusion",
+        "date",
+        "engineering_parameters",
+        "sdi_generator",
+        "title",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v30_results\\v30_results.json",
+      "size_bytes": 2673,
+      "sha256": "85cda66f64bf480d9ca05202742a7dbc52cf3ebd88e0435a77fe717adb68caeb",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "conclusion",
+        "date",
+        "emergence_threshold_N",
+        "scales",
+        "scaling_law",
+        "title",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v31_results\\v31_multibrain_results.json",
+      "size_bytes": 9963,
+      "sha256": "c7070c7f56152930122956633910e835334c4daf08cc2ee8b889f607ab28de58",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "exp21_competition",
+        "exp22_cooperation",
+        "exp23_mixed"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v31_results\\v31_results.json",
+      "size_bytes": 1513,
+      "sha256": "6ad22b2d36f2fd4a49236bbf490e60d265f0f565b310dfa4258579a3daa443bd",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "category_pairs",
+        "conclusion",
+        "data",
+        "date",
+        "neuron_types",
+        "sc_fc",
+        "title",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v32_results\\v32_hybrid_results.json",
+      "size_bytes": 408,
+      "sha256": "3a3d9e4d8210a8e1773225dca6a8a1fae415a22f9718069bcc61ba46e1e16187",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N=10"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v33_results\\v33_adaptive_tau_results.json",
+      "size_bytes": 2396,
+      "sha256": "a2b56ac0b37391850b278f5a98df89767ae61a0e7a9378a237ddf2278feb9e00",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "V33-A_baseline",
+        "V33-B_adaptive",
+        "V33-C_adaptive_BCM",
+        "V33-D_sweep"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v35_results\\table1_complete_stats.json",
+      "size_bytes": 1450,
+      "sha256": "8ad984f12d1c71cc96d55013d323efbfdadfc0143e5a63feb8923832de3c3ed1",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "connectome",
+        "controls",
+        "four_index",
+        "ks_tests",
+        "sc_fc"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v35_results\\v35_summary.json",
+      "size_bytes": 579,
+      "sha256": "76c4bbbe059ae13497b95a630024522934e5bdb1b77ed126a4a6f05c0ab3bed1",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "date",
+        "figures",
+        "key_results",
+        "paper_draft",
+        "status",
+        "table1",
+        "title",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\data\\v9_results\\v9_results.json",
+      "size_bytes": 3368,
+      "sha256": "aca91c8bd05213dfd13f23aca02e462a0bc814106daaec0cf9a686f87c7d86c3",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "F_global",
+        "N",
+        "el_ratio_history",
+        "final_surprise_mean",
+        "final_tau_max",
+        "final_tau_mean",
+        "final_tau_min",
+        "glia_events",
+        "scaling_events",
+        "sigma_history",
+        "tau_alpha",
+        "tau_base",
+        "tau_history",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\iNEST_Sim\\exp_next\\v32_cst_align\\v32_results.json",
+      "size_bytes": 3190,
+      "sha256": "8e19779738a9b62a404846c31a281b9795997e2b7b675f5e75b4e1e98f41b38d",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "alpha_params",
+        "conclusion",
+        "experiment",
+        "paper_reference",
+        "systems",
+        "thresholds",
+        "timestamp"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\iNEST_Sim\\exp_next\\v32_cst_align\\v32_results_fixed.json",
+      "size_bytes": 1606,
+      "sha256": "ac1c6c23b15ab63034727dd00890b8ff9f368137625b96c1d52544a918f47e47",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "alpha",
+        "experiment",
+        "paper_ref",
+        "systems"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\iNEST_Sim\\exp_next\\v33_gamma_st\\v33_results.json",
+      "size_bytes": 3869,
+      "sha256": "70d02a061e9b432584921cc383e16a8b8487bf7ded5ffcfc77245a16935a7a1c",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "alpha",
+        "best",
+        "conclusion",
+        "experiment",
+        "paper_ref",
+        "systems",
+        "v32_baseline"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\iNEST_Sim\\exp_next\\v34_physics_first\\v34_results.json",
+      "size_bytes": 5566,
+      "sha256": "cbfe67b441226b3403ab5330ae7fddd5446b0df25754acdc2fae2b9af789ed3c",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "alpha",
+        "best",
+        "conclusion",
+        "experiment",
+        "physical_principles",
+        "systems",
+        "target",
+        "v33_baseline"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\iNEST_Sim\\exp_next\\v35_pure_fep\\v35_results.json",
+      "size_bytes": 5753,
+      "sha256": "ef6d8fff970a0d3b14950943ecfe0532416dcb1a12fd79474715423547b90df5",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "alpha",
+        "baselines",
+        "best",
+        "conclusion",
+        "experiment",
+        "fix_from_v34",
+        "physics",
+        "systems",
+        "target"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\iNEST_Sim\\exp_next\\v36_fep_fixed\\v36_results.json",
+      "size_bytes": 5850,
+      "sha256": "26094728bccc936414aabaecc38ffe08f727ab558bdbe0d70a27f8b871f9cc84",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "alpha",
+        "baselines",
+        "best",
+        "conclusion",
+        "experiment",
+        "fix",
+        "systems",
+        "target"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\iNEST_Sim\\exp_next\\v37_community_pruning\\v37_results.json",
+      "size_bytes": 5746,
+      "sha256": "502831b2f18b0688cde9650b3817fe28c845ca12d6489470996e57bf259eeb31",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "alpha",
+        "baselines",
+        "best",
+        "bio_basis",
+        "conclusion",
+        "experiment",
+        "systems",
+        "target"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\iNEST_Sim\\exp_next\\v38_freq_bias\\v38_results.json",
+      "size_bytes": 4803,
+      "sha256": "5eb0cfc1e78f5df409877eeb57c78f58035381d7d2fc2e50a047346f04b51a53",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "alpha",
+        "baselines",
+        "best",
+        "bio_basis",
+        "conclusion",
+        "experiment",
+        "hw_mapping",
+        "systems",
+        "target"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\iNEST_Sim\\exp_next\\v39_freq_fep_combined\\v39_results.json",
+      "size_bytes": 4856,
+      "sha256": "a7007227dea20baeae45081e9d5310341c12d1ba381bbcc56e6dd2551e415651",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "alpha",
+        "baselines",
+        "best",
+        "best_dual",
+        "conclusion",
+        "experiment",
+        "fix",
+        "systems",
+        "target"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\rg_flow_results.json",
+      "size_bytes": 4590,
+      "sha256": "6de359263759e83c429e485fa93aaa9310892518cd03591a1bdcb253e62d2696",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "cst",
+        "fixed_point",
+        "fractal_dimension",
+        "monte_carlo",
+        "p_dependence",
+        "peak_complexity",
+        "rg_flow_N1024_p005"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\sdi_experiments_summary.json",
+      "size_bytes": 359,
+      "sha256": "1cab2065b0e7ac8ebbfcdd065d76e7428636fef6d5d047ac8e9f8d4b58d99bcc",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "exp2_throughput",
+        "exp3_fault_tolerance",
+        "exp4_scale_emergence"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\simulation\\data\\l4_results\\l4_combinatorial_results.json",
+      "size_bytes": 2060,
+      "sha256": "dcdf9fef6f9b63cae6f25144d1a96b8673234871c6373dc240bd0a3881ac9475",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "brain_state",
+        "chemo_improvement",
+        "combo_score",
+        "experiment",
+        "interference",
+        "l4_overall",
+        "l4_pass_combo",
+        "l4_pass_interference",
+        "l4_pass_switch",
+        "photo_improvement",
+        "single_task_avg",
+        "switch_cost"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\simulation\\data\\l5_results\\l5_self_improvement_results.json",
+      "size_bytes": 9369,
+      "sha256": "835105fa2d6883983b6c3df720ab582698b94993ef125493f906c3e38953123c",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "adaptive",
+        "fixed_aggressive",
+        "fixed_conservative",
+        "judgment"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\simulation\\data\\l6_results\\l6_general.json",
+      "size_bytes": 1517,
+      "sha256": "3a7b6e8a87ae054d0e50fd1e8457b27ec379568e408ab84d7966bdbd3c07e345",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "generalization",
+        "judgment",
+        "meta_learning",
+        "tasks"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\species_data\\celegans_neurotransmitter_map.json",
+      "size_bytes": 19804,
+      "sha256": "688743f93b213711d6498e5c4c50986be3e837cd065878a91a106b35067c00c8",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "description",
+        "neuron_to_nt",
+        "neurotransmitters",
+        "source",
+        "synapse_params",
+        "total_mapped"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\species_data\\openworm_neuron_nt_map.json",
+      "size_bytes": 108,
+      "sha256": "f0f867daed5453c6a8bee5192e26899b1a82c27a06d8065b40c3f4c69ac81ff8",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "connections",
+        "neuron_nt",
+        "neurons",
+        "nt_counts",
+        "nt_neuron_counts"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\v23_results\\v23_results.json",
+      "size_bytes": 11116,
+      "sha256": "9eeca3bc171e94f5164505eec3e3d85391a4a4eb174dc3d7b7925256e58523ac",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "N",
+        "final",
+        "glia_events",
+        "logs",
+        "scaling_events",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\v23_results\\v24_results.json",
+      "size_bytes": 285,
+      "sha256": "5f06e500ee094230e232a56794dff275d5d843762978b02b74245e6045308270",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "FEP_converged_pct",
+        "F_final",
+        "N",
+        "el_final_pct",
+        "glia_events",
+        "scaling_events",
+        "sigma_final",
+        "sigma_peak",
+        "theta_final",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\v29_results\\v29_results.json",
+      "size_bytes": 539,
+      "sha256": "889a9535ec7ff5d0f35338a02309335ac43d3132f03cf9ba05907ed74ce58fe1",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "chemotaxis",
+        "phototaxis",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\v30_results\\v30_drosophila_results.json",
+      "size_bytes": 3701,
+      "sha256": "7725daec64a317e953b9809dc40be2cf5d4e77d05811950342f172837e3c53cb",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "cross_region_coupling",
+        "regions",
+        "strongest_coupling",
+        "total_neurons",
+        "version"
+      ]
+    },
+    {
+      "path": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\v30_results\\v30_results.json",
+      "size_bytes": 2418,
+      "sha256": "f1d8491f5d7e8765d7a7c3b84eb5b5f8c3a0ae198462dd36880c0b5679aecd64",
+      "classification": "other",
+      "json": true,
+      "root": "object",
+      "keys": [
+        "regions",
+        "total_neurons",
+        "total_regions",
+        "version"
+      ]
+    }
+  ],
+  "summary": {
+    "structural_candidates": 5,
+    "activity_name_candidates": 0,
+    "raw_neuron_id_by_time_series_verified": false,
+    "Tc_status": "NOT_EXECUTED",
+    "Gamma_st_status": "NOT_EXECUTED",
+    "CST_status": "NOT_EXECUTED"
+  }
+}

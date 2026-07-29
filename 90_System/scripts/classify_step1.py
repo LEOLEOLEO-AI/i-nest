@@ -1,7 +1,7 @@
 ﻿import os, re, json, sys, time
 sys.stdout.reconfigure(encoding='utf-8')
 
-vault = r'D:\Obsidian\home\work\.openclaw\workspace'
+vault = r'D:\Obsidian\vault'
 source_dirs = ['03_Topics', '10_Library', '10_Knowledge', '20_Ideas', 'papers']
 
 # Target mapping

@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-07-19
-date: 2026-07-19
+title: iNEST+TCC Research Brief - 2026-07-26
+date: 2026-07-26
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-07-19
+# iNEST + TCC Research Brief - 2026-07-26
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,19 +33,19 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-07-19] **2026-07-19_arXiv_A Reservoir Computing Approach to Quantum Gate Synthesis** (_pipeline_insights)
-- [2026-07-19] **2026-07-19_arXiv_General theory of monitored Quantum Reservoir Computing** (_pipeline_insights)
-- [2026-07-19] **2026-07-19_arXiv_Physical Reservoir Signal Acquisition for Sub-Nyquist Wavefo** (_pipeline_insights)
-- [2026-07-19] **2026-07-19_arXiv_Scalable Training of Continuous-Time Spiking Neural Networks** (_pipeline_insights)
-- [2026-07-19] **2026-07-19_arXiv_A Comparative Analysis of Ising Formulations for Neuromorphi** (_pipeline_insights)
-- [2026-07-19] **2026-07-19_arXiv_Visual Place Recognition Using Rate-Encoded Spiking Neural N** (_pipeline_insights)
-- [2026-07-19] **2026-07-19_arXiv_Dissipative phase transitions and chaos in two-photon driven** (_pipeline_insights)
-- [2026-07-19] **2026-07-19_arXiv_Stochastic binary networks with asymmetric and time-delayed ** (_pipeline_insights)
+- [2026-07-25] **getnote_2026-07-23_getnote_1915785437432134712_有机软件系统理论基石：复杂系统、涌现与智能演化深度解析** (root)
+- [2026-07-25] **2026-07-18_OA_Real-time on-device weed identification using a hardware-efficient** (_pipeline_insights)
+- [2026-07-25] **2026-07-19_arXiv_Bosonic SPT and invertible phases and its relation to Steenr** (_pipeline_insights)
+- [2026-07-25] **getnote_2026-07-23_getnote_1916095739155748728_大脑计算新范式** (root)
+- [2026-07-25] **getnote_2026-07-23_getnote_1916058459913254776_NESTformer与iNEST关系** (root)
+- [2026-07-25] **getnote_2026-07-25_getnote_1916605442253532712_AI算力架构革命深度研报：专用ASIC双元哲学挑战英伟达通用GPU** (root)
+- [2026-07-25] **getnote_2026-07-25_getnote_1916603577162462304_2026年7月Nature Communications Conc** (root)
+- [2026-07-25] **getnote_2026-07-25_getnote_1916586746259341512_CST—iNEST—iMESO 总体研究报告** (root)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 5486
-Graph nodes: 5465 | edges: 8767
+Total notes: 5612
+Graph nodes: 5594 | edges: 8941
 
 Top connected topics:
 - **00_iNEST_全景知识图谱** (degree=1182)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-07-19 12:05*
+*Research brief auto-generated 2026-07-26 08:14*

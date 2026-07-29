@@ -535,7 +535,7 @@ goal = {
     "slides": slides
 }
 
-out = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\59_Presentations\SDSoW_TCC_iNEST_20260713\goal.json"
+out = r"D:\Obsidian\vault\50_Output\59_Presentations\SDSoW_TCC_iNEST_20260713\goal.json"
 with open(out, 'w', encoding='utf-8') as f:
     json.dump(goal, f, ensure_ascii=False, indent=2)
 

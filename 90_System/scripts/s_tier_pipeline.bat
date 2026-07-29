@@ -6,7 +6,7 @@ echo   %date% %time%
 echo ============================================
 
 set PYTHON=C:\Users\LEO\AppData\Local\Programs\Python\Python310\python.exe
-set VAULT=D:\Obsidian\home\work\.openclaw\workspace
+set VAULT=D:\Obsidian\vault
 set SCRIPTS=%VAULT%\90_System\scripts
 set LOG=%VAULT%\logs\pipeline_%date:~0,10%.log
 

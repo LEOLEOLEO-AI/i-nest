@@ -6,7 +6,7 @@ from pathlib import Path
 from collections import defaultdict
 from datetime import datetime
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 TARGET_STRUCTURE = {
     "00_Inbox": "统一剪藏入口",
     "20_Processing": "内容加工",

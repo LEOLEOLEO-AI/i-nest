@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_HAND_FIXED.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_HAND_FIXED.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 fixes = 0
@@ -55,7 +55,7 @@ print(f"Fix3 (, merge): {n}")
 tex = re.sub(r"\n{3,}", "\n\n", tex)
 tex = re.sub(r"(?<!\n)\$\$(?!\n)", "", tex)
 
-out_path = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V4_TARGETED.tex"
+out_path = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V4_TARGETED.tex"
 with open(out_path, "w", encoding="utf-8") as f:
     f.write(tex)
 

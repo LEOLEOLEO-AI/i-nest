@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_DDFIX.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_DDFIX.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 # Fix: $\cdot$ inside equation/align environments → \cdot
@@ -55,7 +55,7 @@ import re
 remaining = len(re.findall(r'\$\\cdot\$', tex))
 print("Remaining $\\cdot$ in equations: " + str(remaining))
 
-out = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_DDFIX.tex"
+out = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_DDFIX.tex"
 with open(out, "w", encoding="utf-8") as f:
     f.write(tex)
 print("Saved: " + str(len(tex)))

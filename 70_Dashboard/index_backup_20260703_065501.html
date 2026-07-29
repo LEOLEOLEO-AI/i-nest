@@ -413,7 +413,7 @@ function resolvePath(link){
   for(var i=0;i<outside.length;i++){
     if(link.indexOf(outside[i])===0)return"file:///D:/Obsidian/"+link;
   }
-  return"file:///D:/Obsidian/home/work/.openclaw/workspace/"+link;
+  return"file:///D:/Obsidian/vault/"+link;
 }
 function openDetail(id){
   var e=appData.entries.find(function(x){return x.id===id});

@@ -9,7 +9,7 @@ from zoneinfo import ZoneInfo
 
 from pypdf import PdfReader
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 PDF_SOURCE = VAULT / "00_Inbox" / "01_PDF_Source"
 TEXT_OUTPUT = VAULT / "20_Processing" / "01_PDF_Text"
 

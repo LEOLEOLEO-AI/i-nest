@@ -341,7 +341,7 @@ D_task ────────────────────────�
 
 ---
 
-*文件路径：`/home/work/.openclaw/workspace/CST仿真平台/CST_算力网络_三元智能参数对比报告与项目指南.md`*
+*文件路径：`/vault/CST仿真平台/CST_算力网络_三元智能参数对比报告与项目指南.md`*
 
 ## Related Notes
 

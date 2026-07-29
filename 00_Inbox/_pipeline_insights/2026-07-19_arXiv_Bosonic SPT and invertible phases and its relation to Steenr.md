@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bosonic SPT and invertible phases and its relation to Steenrod's problem"
 date: 2026-07-19
 source: arXiv

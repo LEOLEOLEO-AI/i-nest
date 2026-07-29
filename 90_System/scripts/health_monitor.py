@@ -9,7 +9,7 @@ from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 TODAY = datetime.now().strftime("%Y-%m-%d")
 
 def score_dimension(name, value, thresholds):

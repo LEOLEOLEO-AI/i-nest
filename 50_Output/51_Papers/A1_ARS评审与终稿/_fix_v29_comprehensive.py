@@ -1,6 +1,6 @@
 ﻿import re, os
 
-v29 = r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_CST_Theory_V29_FROM_PDF.md'
+v29 = r'D:\Obsidian\vault\50_Output\51_Papers\A1_CST_Theory_V29_FROM_PDF.md'
 with open(v29, 'r', encoding='utf-8') as f:
     t = f.read()
 

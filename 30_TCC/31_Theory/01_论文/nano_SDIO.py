@@ -54,7 +54,7 @@ ax2.annotate('110x Speedup\n(No PCIe bottleneck)', xy=(64, ncc_total[-1]), xytex
 plt.suptitle('Simulation: Edge AI Inference Fusion (NCC vs Traditional)', fontsize=16, fontweight='bold', y=1.02)
 plt.tight_layout()
 
-out_dir = "/home/work/.openclaw/workspace/05_Projects_项目/海河实验室重大专项/Figures"
+out_dir = "/vault/05_Projects_项目/海河实验室重大专项/Figures"
 os.makedirs(out_dir, exist_ok=True)
 out_file = os.path.join(out_dir, "Latency_Comparison.png")
 plt.savefig(out_file, bbox_inches='tight')

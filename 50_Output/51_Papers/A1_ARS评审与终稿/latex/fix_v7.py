@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V6_SAFE.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V6_SAFE.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 # Remove $ signs inside math environments: equation, align, eqnarray, gather, etc.
@@ -86,7 +86,7 @@ tex = strip_dollars_in_dd(tex)
 dollar_count = tex.count("$")
 print(f"Dollar signs remaining: {dollar_count}")
 
-out_path = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V7_NODOLLAR.tex"
+out_path = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V7_NODOLLAR.tex"
 with open(out_path, "w", encoding="utf-8") as f:
     f.write(tex)
 

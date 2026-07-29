@@ -5,7 +5,7 @@ import json, shutil, re
 from pathlib import Path
 from datetime import datetime
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 PROC = VAULT / "20_Processing"
 
 # === Expanded classification rules ===

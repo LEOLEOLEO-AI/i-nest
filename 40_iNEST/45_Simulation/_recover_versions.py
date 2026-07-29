@@ -6,8 +6,8 @@ Recover V23, V25, V26, V27, V28, V29 source code from:
 """
 import os, shutil
 
-SIM = r'D:\Obsidian\home\work\.openclaw\workspace\simulation'
-NOTES = r'D:\Obsidian\home\work\.openclaw\workspace\03_Topics\Concepts-Theory'
+SIM = r'D:\Obsidian\vault\simulation'
+NOTES = r'D:\Obsidian\vault\03_Topics\Concepts-Theory'
 
 # ============================================================
 # 1. V23 = V22 + FEP attractor tracking (minor diff)

@@ -5,8 +5,15 @@ from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
 
-VAULT_ROOT = r"D:\Obsidian\home\work\.openclaw\workspace"
-DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY") or "REDACTED_DEEPSEEK_KEY"
+# Load .env for API keys
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(r"D:\Obsidian\vault\.env"))
+except ImportError:
+    pass
+
+VAULT_ROOT = r"D:\Obsidian\vault"
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1"
 DEEPSEEK_MODEL = "deepseek-chat"
 

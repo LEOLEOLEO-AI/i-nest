@@ -2,7 +2,7 @@
 from pathlib import Path
 from collections import defaultdict
 
-v = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+v = Path(r"D:\Obsidian\vault")
 
 all_files = []
 for d in ["30_TCC", "40_iNEST", "50_Output/51_Papers"]:

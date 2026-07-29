@@ -1,8 +1,8 @@
 ﻿import re, subprocess, sys, os
 
-TEX = r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_vFINAL.tex'
+TEX = r'D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_vFINAL.tex'
 TECTONIC = r'C:\Users\LEO\.codex\plugins\cache\openai-bundled\latex\0.2.3\bin\tectonic.exe'
-OUTDIR = r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex'
+OUTDIR = r'D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex'
 
 # Math commands that MUST be inside math mode
 MATH_CMDS = [

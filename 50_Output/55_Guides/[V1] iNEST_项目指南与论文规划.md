@@ -414,7 +414,7 @@ R3                             │              写           │  投  审
 
 ---
 
-*文档路径：`/home/work/.openclaw/workspace/iNEST_项目指南与论文规划_v1.md`*  
+*文档路径：`/vault/iNEST_项目指南与论文规划_v1.md`*  
 *下次更新：随论文投稿/录用状态、合作进展同步更新*
 
 

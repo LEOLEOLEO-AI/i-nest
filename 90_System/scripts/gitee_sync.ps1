@@ -14,7 +14,7 @@ param(
 $ErrorActionPreference = "Continue"
 
 # ---- 配置 ----
-$RepoPath = "D:\Obsidian\home\work\.openclaw\workspace"
+$RepoPath = "D:\Obsidian\vault"
 $StateFile = "D:\Obsidian\scripts\gitee_sync_state.json"
 $LogFile = "D:\Obsidian\scripts\gitee_sync_log.txt"
 $Branch = "main"

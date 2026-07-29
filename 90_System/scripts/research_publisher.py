@@ -9,7 +9,7 @@ import re
 from datetime import datetime, timedelta
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 MOC = VAULT / "60_MOC"
 META = VAULT / "99_Meta"
 LOGS = VAULT / "logs"

@@ -1,4 +1,4 @@
-﻿p = r'D:\Obsidian\home\work\.openclaw\workspace\simulation\sdi_l6_general.py'
+﻿p = r'D:\Obsidian\vault\simulation\sdi_l6_general.py'
 c = open(p, 'r', encoding='utf-8').read()
 # Fix the broken line - check what we have
 import re

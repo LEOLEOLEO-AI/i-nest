@@ -578,7 +578,7 @@ with open('neuron_params.yaml', 'w') as f:
 
 获取后应放在：
 ```
-/home/work/.openclaw/workspace/sdi_sim/data/
+/vault/sdi_sim/data/
 ├─ neuron_types.csv (50 KB)
 ├─ synapse_weights.json (1-5 MB)
 ├─ neurotransmitter_map.csv (10 KB)
@@ -614,7 +614,7 @@ print(f"神经递质分布：\n{df_nt['neurotransmitter'].value_counts()}")
 
 ```bash
 # 复制到 Genspark
-cp /home/work/.openclaw/workspace/sdi_sim/data/* ~/i-nest/30_TCC/35_Simulation/data/
+cp /vault/sdi_sim/data/* ~/i-nest/30_TCC/35_Simulation/data/
 
 # 提交
 cd ~/i-nest

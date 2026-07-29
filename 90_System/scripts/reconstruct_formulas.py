@@ -1,11 +1,13 @@
-﻿import re, json
+﻿import re, json, os
 from pathlib import Path
 from openai import OpenAI
+from dotenv import load_dotenv
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
+load_dotenv(VAULT / ".env")
 content = (VAULT / "30_TCC/31_Theory/tcc_paper_background.md").read_text(encoding="utf-8")
 
-client = OpenAI(api_key="REDACTED_DEEPSEEK_KEY", base_url="https://api.deepseek.com/v1", timeout=60)
+client = OpenAI(api_key=os.environ.get("DEEPSEEK_API_KEY", ""), base_url="https://api.deepseek.com/v1", timeout=60)
 
 prompt = """你是LaTeX公式专家。以下是TCC论文背景综述的Markdown文件，其中Word公式在转换时丢失了。
 

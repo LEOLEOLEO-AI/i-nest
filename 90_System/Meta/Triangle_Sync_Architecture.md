@@ -9,7 +9,7 @@ graph TD
     GitHub["🟢 GitHub（主）<br/>LEOLEOLEO-AI/i-nest<br/>学术发布 · 精简版"]
     Gitee["🔴 Gitee（备）<br/>iBrainNest/i-nest<br/>完整备份 · 国内镜像"]
     
-    Local["💻 本地工作区<br/>D:\\Obsidian\\home\\work\\.openclaw\\workspace"]
+    Local["💻 本地工作区<br/>D:\\Obsidian\\vault"]
     Genspark["☁ Genspark 云端"]
     
     Local -->|"① push"| GitHub
@@ -73,7 +73,7 @@ powershell -NoProfile -File "D:\Obsidian\scripts\gitee_sync.ps1"
 Git 插件已配置 `github` 和 `origin` 双远程，`Ctrl+Shift+G` 手动 push
 
 ### Genspark（云端）
-发送 [Genspark_Sync_Prompt.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/90_System/Meta/Genspark_Sync_Prompt.md) 中的提示词
+发送 [Genspark_Sync_Prompt.md](http://127.0.0.1:8899/vault/90_System/Meta/Genspark_Sync_Prompt.md) 中的提示词
 
 ## 推送规则（强制执行）
 

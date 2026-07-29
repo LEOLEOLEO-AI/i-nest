@@ -27,7 +27,7 @@ from datetime import datetime
 from typing import Dict, List, Set, Tuple, Optional
 
 # ── Config ─────────────────────────────────────────────────────
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 EXCLUDE_DIRS = {".venv", ".git", ".neural_db", ".neural_memory",
                 ".obsidian", ".trash", "node_modules", "copilot",
                 "__pycache__", ".gitignore", "conflict-files-obsidian-git.md"}

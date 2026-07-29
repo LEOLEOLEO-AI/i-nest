@@ -3,7 +3,7 @@
   "acpx_record_id": "agent:claude:acp:ff0d80fc-b1fb-45ec-98f7-7aee8d796d1e:oneshot:027b1628-12a4-403d-b11f-9dd56bfc98dd",
   "acp_session_id": "0e28291b-1857-42f6-9eb1-f9d1478b5731",
   "agent_command": "\"/usr/bin/node\" \"/home/work/.openclaw/acpx/claude-agent-acp-wrapper.mjs\"",
-  "cwd": "/home/work/.openclaw/workspace/claude",
+  "cwd": "/vault/claude",
   "name": "agent:claude:acp:ff0d80fc-b1fb-45ec-98f7-7aee8d796d1e",
   "created_at": "2026-05-07T16:35:40.039Z",
   "last_used_at": "2026-05-07T16:35:40.039Z",

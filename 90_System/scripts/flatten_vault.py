@@ -7,7 +7,7 @@ import os, shutil, re
 from pathlib import Path
 from collections import defaultdict
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 
 # ============================================================
 # MIGRATION RULES: (source glob, destination dir)

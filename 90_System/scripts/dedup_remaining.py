@@ -1,6 +1,6 @@
 ﻿import os, re, collections
 
-vault = r'D:\Obsidian\home\work\.openclaw\workspace'
+vault = r'D:\Obsidian\vault'
 title_files = collections.defaultdict(list)
 skip_dirs = {'.obsidian', '.venv', '.git', '.neural_db', '.neural_memory', '.smart-connections', '.trash', 'copilot'}
 

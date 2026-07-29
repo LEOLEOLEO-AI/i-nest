@@ -6,7 +6,7 @@ from pathlib import Path
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 INBOX = VAULT / "00_Inbox"
 PYTHON = r"C:\Users\LEO\AppData\Local\Programs\Python\Python310\python.exe"
 PROCESSOR = VAULT / "90_System" / "scripts" / "process_inbox.py"

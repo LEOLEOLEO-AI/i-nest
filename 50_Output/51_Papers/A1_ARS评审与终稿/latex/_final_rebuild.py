@@ -1,7 +1,7 @@
 ﻿import re
 
 # Rebuild from baseline with ALL proven fixes in one shot
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\_BASELINE_A1_CST.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\_BASELINE_A1_CST.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 # 1. Remove fontspec
@@ -102,7 +102,7 @@ tex = tex.replace("$^{-}^7$", "$^{-7}$")
 total = sum(line.count("$") - line.count("\\$") for line in tex.split("\n"))
 print("Total $: " + str(total) + " (" + ("OK" if total % 2 == 0 else "UNBALANCED") + ")")
 
-out = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_REBUILT.tex"
+out = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_REBUILT.tex"
 with open(out, "w", encoding="utf-8") as f:
     f.write(tex)
 print("REBUILT: " + str(len(tex)) + " chars")

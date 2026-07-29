@@ -338,7 +338,7 @@ logger.log(step=t, cst=result.CST, Sc=result.Sc, Tc=result.Tc)
 
 ---
 
-*本文件路径：/home/work/.openclaw/workspace/02_Papers_论文/iNEST_MVP_Plan_V1.md*
+*本文件路径：/vault/02_Papers_论文/iNEST_MVP_Plan_V1.md*
 *下次更新：完成T2.1后同步更新进度*
 
 ---

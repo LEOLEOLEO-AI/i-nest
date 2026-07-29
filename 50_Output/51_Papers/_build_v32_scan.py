@@ -1,7 +1,7 @@
 ﻿import sys, io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\TCC_2_论文撰写\_pdf_v25_full.txt", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\TCC_2_论文撰写\_pdf_v25_full.txt", "r", encoding="utf-8") as f:
     pdf_text = f.read()
 
 # Quick scan

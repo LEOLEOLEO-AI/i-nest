@@ -1,11 +1,13 @@
-﻿import sys, json, re
+﻿import sys, json, re, os
 sys.stdout.reconfigure(encoding='utf-8')
 from pathlib import Path
 from datetime import datetime
 from openai import OpenAI
+from dotenv import load_dotenv
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
-KEY = "REDACTED_DEEPSEEK_KEY"
+VAULT = Path(r"D:\Obsidian\vault")
+load_dotenv(VAULT / ".env")
+KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 client = OpenAI(api_key=KEY, base_url="https://api.deepseek.com/v1")
 TODAY = datetime.now().strftime("%Y-%m-%d")
 

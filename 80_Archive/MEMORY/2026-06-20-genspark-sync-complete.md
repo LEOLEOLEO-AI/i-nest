@@ -104,7 +104,7 @@ DeepSeek LLM 自动分类
 ## 【关键文件位置】
 
 ```
-/home/work/.openclaw/workspace/
+/vault/
 └─ 90_System/scripts/
    ├─ Genspark_gitee_sync.md ..................... ✅ 完整工作流
    └─ Genspark_direct_instruction.md ........... ✅ 直接指令

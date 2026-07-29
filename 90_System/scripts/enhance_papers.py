@@ -6,7 +6,7 @@ from datetime import datetime
 from pathlib import Path
 from collections import defaultdict
 
-VAULT = Path(r'D:\Obsidian\home\work\.openclaw\workspace')
+VAULT = Path(r'D:\Obsidian\vault')
 INBOX = VAULT / '00_Inbox'
 KNOWLEDGE = VAULT / '10_Knowledge'
 DEDUP_DB_V2 = VAULT / '99_Meta' / 'dedup_index_v2.json'

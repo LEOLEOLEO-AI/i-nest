@@ -18,7 +18,7 @@ SCALING_INT = 15; GLIA_INT = 50; N_STEPS = 300; CASCADE_MAX = 10
 # Load CSV
 print('Loading hemibrain CSV...')
 neurons = {}
-with open('/home/work/.openclaw/workspace/10_Knowledge/专题归档/05_Datasets_仿真与实验数据/Simulation_Results/hemibrain_meta.csv') as f:
+with open('/vault/10_Knowledge/专题归档/05_Datasets_仿真与实验数据/Simulation_Results/hemibrain_meta.csv') as f:
     for row in csv.reader(f):
         if row[0] == 'body_id': continue
         bid = row[0]
@@ -333,7 +333,7 @@ r = {'sigma':sf,'alpha':af,'C':Cf,'L':Lf,'el_ratio_final':er,
      'scaling_events':net.scl_e,'glia_events':net.glia_e,
      'steps':logs['step'],'sigma_traj':logs['sigma'],
      'alpha_traj':logs['alpha'],'el_ratio_traj':logs['el']}
-with open('/home/work/.openclaw/workspace/sdi_sim/hemibrain_v31_results.json','w') as f:
+with open('/vault/sdi_sim/hemibrain_v31_results.json','w') as f:
     json.dump(r, f, indent=2)
 print('Results saved.')
 
@@ -373,5 +373,5 @@ items.append(('C.elegans params remain VALID at larger scale' if valid
 for txt, fs, fw, clr, y in items:
     ax.text(0.05, y, txt, transform=ax.transAxes, fontsize=fs, fontweight=fw, color=clr, va='top')
 plt.tight_layout()
-plt.savefig('/home/work/.openclaw/workspace/sdi_sim/hemibrain_v31_results.png', dpi=150)
+plt.savefig('/vault/sdi_sim/hemibrain_v31_results.png', dpi=150)
 print('Plot saved. DONE')

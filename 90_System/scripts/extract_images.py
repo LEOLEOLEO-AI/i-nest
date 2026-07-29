@@ -2,7 +2,7 @@
 from pathlib import Path
 
 src = Path(r"D:\Output\Genspark\TCC拓扑中心计算范式：论文背景综述、相关工作对比与引用框架.docx")
-dst_dir = Path(r"D:\Obsidian\home\work\.openclaw\workspace\30_TCC\31_Theory\tcc_paper_background_assets")
+dst_dir = Path(r"D:\Obsidian\vault\30_TCC\31_Theory\tcc_paper_background_assets")
 dst_dir.mkdir(parents=True, exist_ok=True)
 
 # Extract all images
@@ -29,7 +29,7 @@ with zipfile.ZipFile(src) as z:
     
     # Now rebuild the markdown with image references
     # Read current markdown
-    md_path = Path(r"D:\Obsidian\home\work\.openclaw\workspace\30_TCC\31_Theory\tcc_paper_background.md")
+    md_path = Path(r"D:\Obsidian\vault\30_TCC\31_Theory\tcc_paper_background.md")
     content = md_path.read_text(encoding="utf-8")
     
     # Find image reference patterns in the docx XML to insert into markdown

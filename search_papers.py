@@ -1,7 +1,7 @@
 ﻿import os
 import glob
 
-workspace = r'd:\Obsidian\home\work\.openclaw\workspace'
+workspace = r'd:\Obsidian\vault'
 md_files = glob.glob(os.path.join(workspace, '**', '*.md'), recursive=True)
 
 paper_files = []

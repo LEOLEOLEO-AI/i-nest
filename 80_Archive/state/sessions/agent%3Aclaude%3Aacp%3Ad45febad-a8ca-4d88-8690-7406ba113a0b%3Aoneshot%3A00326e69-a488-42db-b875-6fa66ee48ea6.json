@@ -3,7 +3,7 @@
   "acpx_record_id": "agent:claude:acp:d45febad-a8ca-4d88-8690-7406ba113a0b:oneshot:00326e69-a488-42db-b875-6fa66ee48ea6",
   "acp_session_id": "51ad26cf-40a3-4464-9393-49211b5e5350",
   "agent_command": "env ANTHROPIC_AUTH_TOKEN= npx -y @zed-industries/claude-agent-acp",
-  "cwd": "/home/work/.openclaw/workspace/claude",
+  "cwd": "/vault/claude",
   "name": "agent:claude:acp:d45febad-a8ca-4d88-8690-7406ba113a0b",
   "created_at": "2026-06-23T11:48:29.861Z",
   "last_used_at": "2026-06-23T11:49:26.654Z",
@@ -153,27 +153,27 @@
             "tool_name": "cd ~/i-nest && git status",
             "is_error": false,
             "content": {
-              "Text": "On branch master\nYour branch is ahead of 'origin/master' by 2 commits.\n  (use \"git push\" to publish your local commits)\n\nnothing to commit, working tree clean\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+              "Text": "On branch master\nYour branch is ahead of 'origin/master' by 2 commits.\n  (use \"git push\" to publish your local commits)\n\nnothing to commit, working tree clean\nShell cwd was reset to /vault/claude"
             },
-            "output": "On branch master\nYour branch is ahead of 'origin/master' by 2 commits.\n  (use \"git push\" to publish your local commits)\n\nnothing to commit, working tree clean\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+            "output": "On branch master\nYour branch is ahead of 'origin/master' by 2 commits.\n  (use \"git push\" to publish your local commits)\n\nnothing to commit, working tree clean\nShell cwd was reset to /vault/claude"
           },
           "toolu_01Qka34H5yTYPW37ZYeBkVab": {
             "tool_use_id": "toolu_01Qka34H5yTYPW37ZYeBkVab",
             "tool_name": "cd ~/i-nest && git log --oneline -5",
             "is_error": false,
             "content": {
-              "Text": "d7752df Merge branch 'main' of https://github.com/LEOLEOLEO-AI/i-nest\nf8bc49c Merge remote main into master, keep remote .gitignore\nb7388df auto: inbox processing 2026/06/23 周二 18:40:07.47\n8af4e0a fix: 大幅精简启动插件(移除8个重插件) 修复安全模式提示\nf647ad6 auto: inbox processing 2026/06/23 周二 16:40:07.96\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+              "Text": "d7752df Merge branch 'main' of https://github.com/LEOLEOLEO-AI/i-nest\nf8bc49c Merge remote main into master, keep remote .gitignore\nb7388df auto: inbox processing 2026/06/23 周二 18:40:07.47\n8af4e0a fix: 大幅精简启动插件(移除8个重插件) 修复安全模式提示\nf647ad6 auto: inbox processing 2026/06/23 周二 16:40:07.96\nShell cwd was reset to /vault/claude"
             },
-            "output": "d7752df Merge branch 'main' of https://github.com/LEOLEOLEO-AI/i-nest\nf8bc49c Merge remote main into master, keep remote .gitignore\nb7388df auto: inbox processing 2026/06/23 周二 18:40:07.47\n8af4e0a fix: 大幅精简启动插件(移除8个重插件) 修复安全模式提示\nf647ad6 auto: inbox processing 2026/06/23 周二 16:40:07.96\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+            "output": "d7752df Merge branch 'main' of https://github.com/LEOLEOLEO-AI/i-nest\nf8bc49c Merge remote main into master, keep remote .gitignore\nb7388df auto: inbox processing 2026/06/23 周二 18:40:07.47\n8af4e0a fix: 大幅精简启动插件(移除8个重插件) 修复安全模式提示\nf647ad6 auto: inbox processing 2026/06/23 周二 16:40:07.96\nShell cwd was reset to /vault/claude"
           },
           "toolu_01EbvjrsDAC4tjkFJSYPBGYb": {
             "tool_use_id": "toolu_01EbvjrsDAC4tjkFJSYPBGYb",
             "tool_name": "cd ~/i-nest && git remote -v",
             "is_error": false,
             "content": {
-              "Text": "github\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+              "Text": "github\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /vault/claude"
             },
-            "output": "github\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+            "output": "github\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /vault/claude"
           },
           "toolu_01KtcwtQxo533tLssUrVjZJn": {
             "tool_use_id": "toolu_01KtcwtQxo533tLssUrVjZJn",
@@ -189,18 +189,18 @@
             "tool_name": "cd ~/i-nest && git push origin master 2>&1",
             "is_error": false,
             "content": {
-              "Text": "remote: Powered by \u001b[01;33mGITEE.COM \u001b[0m[1.1.23]        \nremote: Set trace flag 8349748a        \nTo gitee.com:iBrainNest/i-nest.git\n   f8bc49c..d7752df  master -> master\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+              "Text": "remote: Powered by \u001b[01;33mGITEE.COM \u001b[0m[1.1.23]        \nremote: Set trace flag 8349748a        \nTo gitee.com:iBrainNest/i-nest.git\n   f8bc49c..d7752df  master -> master\nShell cwd was reset to /vault/claude"
             },
-            "output": "remote: Powered by \u001b[01;33mGITEE.COM \u001b[0m[1.1.23]        \nremote: Set trace flag 8349748a        \nTo gitee.com:iBrainNest/i-nest.git\n   f8bc49c..d7752df  master -> master\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+            "output": "remote: Powered by \u001b[01;33mGITEE.COM \u001b[0m[1.1.23]        \nremote: Set trace flag 8349748a        \nTo gitee.com:iBrainNest/i-nest.git\n   f8bc49c..d7752df  master -> master\nShell cwd was reset to /vault/claude"
           },
           "toolu_01AVk951UU5xwF3ifyCRSDTE": {
             "tool_use_id": "toolu_01AVk951UU5xwF3ifyCRSDTE",
             "tool_name": "cd ~/i-nest && git status && git log --oneline -3 && git remote -v",
             "is_error": false,
             "content": {
-              "Text": "On branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nd7752df Merge branch 'main' of https://github.com/LEOLEOLEO-AI/i-nest\nf8bc49c Merge remote main into master, keep remote .gitignore\nb7388df auto: inbox processing 2026/06/23 周二 18:40:07.47\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+              "Text": "On branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nd7752df Merge branch 'main' of https://github.com/LEOLEOLEO-AI/i-nest\nf8bc49c Merge remote main into master, keep remote .gitignore\nb7388df auto: inbox processing 2026/06/23 周二 18:40:07.47\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /vault/claude"
             },
-            "output": "On branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nd7752df Merge branch 'main' of https://github.com/LEOLEOLEO-AI/i-nest\nf8bc49c Merge remote main into master, keep remote .gitignore\nb7388df auto: inbox processing 2026/06/23 周二 18:40:07.47\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+            "output": "On branch master\nYour branch is up to date with 'origin/master'.\n\nnothing to commit, working tree clean\nd7752df Merge branch 'main' of https://github.com/LEOLEOLEO-AI/i-nest\nf8bc49c Merge remote main into master, keep remote .gitignore\nb7388df auto: inbox processing 2026/06/23 周二 18:40:07.47\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\thttps://github.com/LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /vault/claude"
           }
         }
       }

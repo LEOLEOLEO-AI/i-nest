@@ -6,18 +6,18 @@
 ## 仓库信息
 - **地址**: `https://gitee.com/iBrainNest/i-nest.git`
 - **分支**: `main`
-- **本地路径**: `D:\Obsidian\home\work\.openclaw\workspace` （即当前工作区）
+- **本地路径**: `D:\Obsidian\vault` （即当前工作区）
 
 ## 同步协议 (Pull-First → 分类提交 → Push)
 
 执行增强版同步脚本：
 ```powershell
-powershell -ExecutionPolicy Bypass -File "D:\Obsidian\home\work\.openclaw\workspace\scripts\gitee_sync.ps1"
+powershell -ExecutionPolicy Bypass -File "D:\Obsidian\vault\scripts\gitee_sync.ps1"
 ```
 
 仅查看变更（不提交）：
 ```powershell
-powershell -ExecutionPolicy Bypass -File "D:\Obsidian\home\work\.openclaw\workspace\scripts\gitee_sync.ps1" -StatusOnly
+powershell -ExecutionPolicy Bypass -File "D:\Obsidian\vault\scripts\gitee_sync.ps1" -StatusOnly
 ```
 
 ## 内容分类（提交时自动标记）

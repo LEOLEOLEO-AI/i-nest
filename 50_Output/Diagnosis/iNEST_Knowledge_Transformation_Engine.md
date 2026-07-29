@@ -459,7 +459,7 @@ if __name__ == '__main__':
     print("\n" + transformer.generate_report())
     
     # 保存 JSON
-    transformer.save_insights_to_json('/home/work/.openclaw/workspace/research/inesst_insights.json')
+    transformer.save_insights_to_json('/vault/research/inesst_insights.json')
 ```
 
 ---

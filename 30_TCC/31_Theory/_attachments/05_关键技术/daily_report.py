@@ -14,7 +14,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 VAULT = Path("/home/work/obsidian-vault")
-WORKSPACE = Path("/home/work/.openclaw/workspace")
+WORKSPACE = Path("/vault")
 DAILY_DIR = VAULT / "Journal" / "每日总结"
 GITEE_URL = "https://iBrainNest:Liusansan%406363@gitee.com/iBrainNest/i-nest.git"
 

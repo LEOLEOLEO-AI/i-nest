@@ -35,7 +35,7 @@ def _call_jojo_fallback(prompt, system="", max_tokens=3000):  # deprecated, use 
     except:
         return None
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 MOC = VAULT / "60_MOC"
 INSIGHTS = VAULT / "00_Inbox" / "_pipeline_insights"
 LOGS = VAULT / "logs"
@@ -203,7 +203,7 @@ def generate_daily_action(papers, analysis):
             rel = item.get("relevance", "?")
             star = "⭐" * min(rel, 5)
             rel = str(item.get("source_path", "")).replace("\\", "/")
-            paper_url = "http://127.0.0.1:8899/home/work/.openclaw/workspace/" + urllib.parse.quote(rel) if rel else ""
+            paper_url = "http://127.0.0.1:8899/vault/" + urllib.parse.quote(rel) if rel else ""
             if paper_url:
                 lines.append(f"### {star} [{title}]({paper_url})")
             else:

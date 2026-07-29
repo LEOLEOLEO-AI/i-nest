@@ -1,5 +1,5 @@
 ﻿import json, os
-base = r'D:\Obsidian\home\work\.openclaw\workspace\simulation\data'
+base = r'D:\Obsidian\vault\simulation\data'
 
 for vname, fname in [
     ('V22', 'v22_results/v22_results.json'),

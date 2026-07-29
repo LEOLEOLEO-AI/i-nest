@@ -11,7 +11,7 @@ import os, sys, json, re, shutil
 from pathlib import Path
 from datetime import datetime
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 REVIEW_DIR = VAULT / "_archive" / "_needs_review"
 PROGRESS_FILE = VAULT / "60_MOC" / "_review_progress.json"
 

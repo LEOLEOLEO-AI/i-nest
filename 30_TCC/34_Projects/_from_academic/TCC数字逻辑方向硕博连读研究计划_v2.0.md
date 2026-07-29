@@ -75,7 +75,7 @@ replaces: TCC数字逻辑方向硕博连读研究计划_v1.0.md
 > T: GEMM / FOLD / MAPS / SCAN / LOOK / SPEC
 > C: LINK / TICK / SYNC / MOVE
 >
-> 详见 [TCC_Knowledge_Base_Baseline_v2.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md)
+> 详见 [TCC_Knowledge_Base_Baseline_v2.0.md](http://127.0.0.1:8899/vault/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md)
 
 ### 1.4 关键工程概念
 
@@ -206,11 +206,11 @@ replaces: TCC数字逻辑方向硕博连读研究计划_v1.0.md
 
 ### 6.2 必读文档（优先级排序）
 
-1. [TCC_Knowledge_Base_Baseline_v2.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md) — 16原语权威定义 + 范式全景
-2. [TCC_iNEST_LiquidTopology_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/31_Theory/TCC_iNEST_LiquidTopology_v1.0.md) — Page模板系统 + 液态拓扑机制
-3. [TCC计算范式_NDSC与天大细化工程规划_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/34_Projects/TCC计算范式_NDSC与天大细化工程规划_v1.0.md) — 工程分工与芯片架构
-4. [Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md) — 可直接参考的RTL设计范例
-5. [00_iNEST工程开发总体规划_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/00_iNEST工程开发总体规划_v1.0.md) — 涌现验证体系全景
+1. [TCC_Knowledge_Base_Baseline_v2.0.md](http://127.0.0.1:8899/vault/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md) — 16原语权威定义 + 范式全景
+2. [TCC_iNEST_LiquidTopology_v1.0.md](http://127.0.0.1:8899/vault/30_TCC/31_Theory/TCC_iNEST_LiquidTopology_v1.0.md) — Page模板系统 + 液态拓扑机制
+3. [TCC计算范式_NDSC与天大细化工程规划_v1.0.md](http://127.0.0.1:8899/vault/30_TCC/34_Projects/TCC计算范式_NDSC与天大细化工程规划_v1.0.md) — 工程分工与芯片架构
+4. [Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md) — 可直接参考的RTL设计范例
+5. [00_iNEST工程开发总体规划_v1.0.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/00_iNEST工程开发总体规划_v1.0.md) — 涌现验证体系全景
 
 ### 6.3 动手建议
 
@@ -225,11 +225,11 @@ replaces: TCC数字逻辑方向硕博连读研究计划_v1.0.md
 
 | 文件 | 用途 |
 |------|------|
-| [TCC_Knowledge_Base_Baseline_v2.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md) | 原语权威定义 |
-| [TCC_iNEST_LiquidTopology_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/31_Theory/TCC_iNEST_LiquidTopology_v1.0.md) | 液态拓扑方案 |
-| [Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md) | RTL设计范例 |
-| [Gen1-MVP_FPGA验证与测试方案_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/Gen1-MVP_FPGA验证与测试方案_v1.0.md) | 验证方法学 |
-| [SDI化合键工程参数证明及工程实现方案.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI化合键工程参数证明及工程实现方案.md) | 物理参数 (b=10, g=1.5) |
-| [00_iNEST工程开发总体规划_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/00_iNEST工程开发总体规划_v1.0.md) | 涌现验证体系 |
-| [TCC计算范式_NDSC与天大细化工程规划_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/34_Projects/TCC计算范式_NDSC与天大细化工程规划_v1.0.md) | 工程分工 |
-| [iNEST_TCC_工程边界定义.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/iNEST_TCC_工程边界定义.md) | 分工边界 |
+| [TCC_Knowledge_Base_Baseline_v2.0.md](http://127.0.0.1:8899/vault/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md) | 原语权威定义 |
+| [TCC_iNEST_LiquidTopology_v1.0.md](http://127.0.0.1:8899/vault/30_TCC/31_Theory/TCC_iNEST_LiquidTopology_v1.0.md) | 液态拓扑方案 |
+| [Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md) | RTL设计范例 |
+| [Gen1-MVP_FPGA验证与测试方案_v1.0.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/Gen1-MVP_FPGA验证与测试方案_v1.0.md) | 验证方法学 |
+| [SDI化合键工程参数证明及工程实现方案.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/SDI化合键工程参数证明及工程实现方案.md) | 物理参数 (b=10, g=1.5) |
+| [00_iNEST工程开发总体规划_v1.0.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/00_iNEST工程开发总体规划_v1.0.md) | 涌现验证体系 |
+| [TCC计算范式_NDSC与天大细化工程规划_v1.0.md](http://127.0.0.1:8899/vault/30_TCC/34_Projects/TCC计算范式_NDSC与天大细化工程规划_v1.0.md) | 工程分工 |
+| [iNEST_TCC_工程边界定义.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/iNEST_TCC_工程边界定义.md) | 分工边界 |

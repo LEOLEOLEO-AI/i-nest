@@ -11,7 +11,7 @@ import networkx as nx
 from scipy import stats
 from collections import Counter
 
-DATA_FILE = r"D:\Obsidian\home\work\.openclaw\workspace\20_Projects\CST仿真平台\NeuronConnect.xls"
+DATA_FILE = r"D:\Obsidian\vault\20_Projects\CST仿真平台\NeuronConnect.xls"
 OUT_DIR = "simulation/data/v26_results"
 os.makedirs(OUT_DIR, exist_ok=True)
 

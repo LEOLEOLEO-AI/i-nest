@@ -12,8 +12,8 @@
 - **数据源**：Varshney et al. 2011，WormAtlas 官网公开
 - **规格**：279 非咽部神经元，2,575 化学突触，1,031 电突触
 - **文件位置**：
-  - `/home/work/.openclaw/workspace/20_Projects/CST仿真平台/connectome_v8_data.json`
-  - `/home/work/.openclaw/workspace/sdi_sim/celegans_sim/connectome_v8_data.json`
+  - `/vault/20_Projects/CST仿真平台/connectome_v8_data.json`
+  - `/vault/sdi_sim/celegans_sim/connectome_v8_data.json`
   - `NeuronConnect.xls` (WormAtlas 原始数据)
 - **已验证**：σ = 5.87（vs 文献 5.6，误差 <5%）
 
@@ -21,8 +21,8 @@
 - **数据源**：FlyEM、Hemibrain v1.2
 - **规格**：~21K 神经元，~20M 突触
 - **文件位置**：
-  - `/home/work/.openclaw/workspace/sdi_sim/hemibrain_v31.py` (数据加载脚本)
-  - `/home/work/.openclaw/workspace/sdi_sim/hemibrain_connectome_meta.json`
+  - `/vault/sdi_sim/hemibrain_v31.py` (数据加载脚本)
+  - `/vault/sdi_sim/hemibrain_connectome_meta.json`
 
 ---
 
@@ -46,7 +46,7 @@
 - 权衡特性：牺牲鲁棒性换取连接效率
 
 ### 文档出处
-- 详见：`/home/work/.openclaw/workspace/20_Projects/CST仿真平台/04_仿真验证_线虫connectome.md`
+- 详见：`/vault/20_Projects/CST仿真平台/04_仿真验证_线虫connectome.md`
 
 ---
 
@@ -78,7 +78,7 @@ from neural_complexity_analyzer import NeuralComplexityAnalyzer
 
 # 加载 C.elegans
 analyzer = NeuralComplexityAnalyzer(
-    connectome_path='/home/work/.openclaw/workspace/sdi_sim/celegans_sim/connectome_v8_data.json',
+    connectome_path='/vault/sdi_sim/celegans_sim/connectome_v8_data.json',
     format='json'
 )
 

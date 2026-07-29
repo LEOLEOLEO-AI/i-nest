@@ -736,8 +736,8 @@ PRE接受率:              ★★★★☆  70%
 
 ---
 ## 相关链接
-- [[Universal Scaling Laws for Intelligence Emergence from Devic]]
-- [[GetNote_20260606_100554_kb_paper-ideas_getnote_1903941287724843544_Universal Scaling Laws for Intelligence Emergence from Devic]]
+- [[40_iNEST/41_Theory/Universal Scaling Laws for Intelligence Emergence from Devic]]
+- [[Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities  A Renormalization Group Approach]]
 - [[CST_RG第一性原理推导协议]]
 - [[CST_RG_PRL_Cover_Letter]]
 - [[CST_RG_Paper_v1.0]]

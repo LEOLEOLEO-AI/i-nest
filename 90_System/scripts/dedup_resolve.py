@@ -6,7 +6,7 @@ from pathlib import Path
 from collections import defaultdict
 from datetime import datetime
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 
 # Priority: higher = keep
 DIR_PRIORITY = {

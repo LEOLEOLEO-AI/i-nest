@@ -4,7 +4,7 @@
 set -e
 
 REPO="/home/work/i-nest"
-WORKSPACE="/home/work/.openclaw/workspace"
+WORKSPACE="/vault"
 TODAY=$(date '+%Y-%m-%d')
 LOG="/tmp/genspark_sync_$(date '+%Y%m%d_%H%M%S').log"
 

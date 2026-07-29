@@ -657,9 +657,9 @@ tcc_ip_library/
 - Spear & Tumbush, *SystemVerilog for Verification* (第3版) — UVM验证
 
 **TCC相关论文（团队产出）**:
-- [CST_Intelligence_Emergence_Paper_V25_FINAL.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/51_Papers/_from_tcc_theory/CST_Intelligence_Emergence_Paper_V25_FINAL.md)
-- [TCC超非线性增益_研究进展与数学证明路线图_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/31_Theory/TCC超非线性增益_研究进展与数学证明路线图_v1.0.md)
-- [从加性增益到乘性增益_1+1大于2的非线性证明_文献与证据链_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/31_Theory/从加性增益到乘性增益_1+1大于2的非线性证明_文献与证据链_v1.0.md)
+- [CST_Intelligence_Emergence_Paper_V25_FINAL.md](http://127.0.0.1:8899/vault/50_Output/51_Papers/_from_tcc_theory/CST_Intelligence_Emergence_Paper_V25_FINAL.md)
+- [TCC超非线性增益_研究进展与数学证明路线图_v1.0.md](http://127.0.0.1:8899/vault/30_TCC/31_Theory/TCC超非线性增益_研究进展与数学证明路线图_v1.0.md)
+- [从加性增益到乘性增益_1+1大于2的非线性证明_文献与证据链_v1.0.md](http://127.0.0.1:8899/vault/30_TCC/31_Theory/从加性增益到乘性增益_1+1大于2的非线性证明_文献与证据链_v1.0.md)
 
 **外部关键论文**:
 - Jouppi et al., "TPU v4: An Optically Reconfigurable Supercomputer for ML" (ISCA 2023) — 可重构互连参考
@@ -851,12 +851,12 @@ def optimal_page_sequence(tasks, pages, switch_cost):
 
 | 文件 | 路径 | 用途 |
 |------|------|------|
-| TCC知识基线 | [TCC_Knowledge_Base_Baseline_v2.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md) | 原语权威定义 |
-| RTL微架构规格 | [Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md) | RTL设计参考 |
-| FPGA验证方案 | [Gen1-MVP_FPGA验证与测试方案_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/Gen1-MVP_FPGA验证与测试方案_v1.0.md) | 验证方法学 |
-| 天大工程规划 | [TCC计算范式_NDSC与天大细化工程规划_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/34_Projects/TCC计算范式_NDSC与天大细化工程规划_v1.0.md) | 工程分工 |
-| iNEST工程总规 | [00_iNEST工程开发总体规划_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/00_iNEST工程开发总体规划_v1.0.md) | 工程验证体系 |
-| 液态拓扑方案 | [TCC_iNEST_LiquidTopology_v1.0.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/31_Theory/TCC_iNEST_LiquidTopology_v1.0.md) | Page模板系统 |
-| SDI化合键工程 | [SDI化合键工程参数证明及工程实现方案.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/SDI化合键工程参数证明及工程实现方案.md) | 物理参数 |
-| FPGA落地路线图 | [LNN到iNEST到FPGA_持续推进落地路线图.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/LNN到iNEST到FPGA_持续推进落地路线图.md) | 四阶段路线 |
-| 工程边界定义 | [iNEST_TCC_工程边界定义.md](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/iNEST/iNEST_TCC_工程边界定义.md) | 分工边界 |
+| TCC知识基线 | [TCC_Knowledge_Base_Baseline_v2.0.md](http://127.0.0.1:8899/vault/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md) | 原语权威定义 |
+| RTL微架构规格 | [Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/Gen1-MVP_RTL微架构与IP核详细规格_v1.0.md) | RTL设计参考 |
+| FPGA验证方案 | [Gen1-MVP_FPGA验证与测试方案_v1.0.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/Gen1-MVP_FPGA验证与测试方案_v1.0.md) | 验证方法学 |
+| 天大工程规划 | [TCC计算范式_NDSC与天大细化工程规划_v1.0.md](http://127.0.0.1:8899/vault/30_TCC/34_Projects/TCC计算范式_NDSC与天大细化工程规划_v1.0.md) | 工程分工 |
+| iNEST工程总规 | [00_iNEST工程开发总体规划_v1.0.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/00_iNEST工程开发总体规划_v1.0.md) | 工程验证体系 |
+| 液态拓扑方案 | [TCC_iNEST_LiquidTopology_v1.0.md](http://127.0.0.1:8899/vault/30_TCC/31_Theory/TCC_iNEST_LiquidTopology_v1.0.md) | Page模板系统 |
+| SDI化合键工程 | [SDI化合键工程参数证明及工程实现方案.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/SDI化合键工程参数证明及工程实现方案.md) | 物理参数 |
+| FPGA落地路线图 | [LNN到iNEST到FPGA_持续推进落地路线图.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/LNN到iNEST到FPGA_持续推进落地路线图.md) | 四阶段路线 |
+| 工程边界定义 | [iNEST_TCC_工程边界定义.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/iNEST_TCC_工程边界定义.md) | 分工边界 |

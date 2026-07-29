@@ -24,7 +24,7 @@ import matplotlib; matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 np.random.seed(42)
-OUT = '/home/work/.openclaw/workspace/sdi_sim'
+OUT = '/vault/sdi_sim'
 
 # ======== SDI参数 ========
 THETA_LTP = 80

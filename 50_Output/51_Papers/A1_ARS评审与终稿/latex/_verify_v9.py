@@ -1,4 +1,4 @@
-﻿with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V9_FINALFIX.tex", "r", encoding="utf-8") as f:
+﻿with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_V9_FINALFIX.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 # \Gamm is a SUBSTRING of \Gamma. Need to search for \Gamm NOT followed by 'a'

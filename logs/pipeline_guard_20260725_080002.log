@@ -1,0 +1,102 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-07-25 08:00
+============================================================
+[08:00:02] [S2] Searching Semantic Scholar (19 queries)...
+[08:00:08]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[08:00:08] [arXiv] Searching arXiv (via proxy, 19 queries)...
+[08:00:23]   arXiv skip irrelevant: SANA-Video 2.0: Hybrid Linear Attention with Attention Resid
+[08:00:23]   arXiv skip irrelevant: ARGON: A GNN-Empowered Compilation Framework for Scalable Ne
+[08:00:23]   arXiv skip irrelevant: A generalized shape function approach for multimaterial topo
+[08:00:56]   arXiv TCC-wafer-chiplet: The read operation timed out, retry 1...
+[08:01:18]   arXiv TCC-wafer-chiplet: 429 rate limit, waiting 20s...
+[08:02:05]   arXiv TCC-wafer-chiplet: 429 rate limit, waiting 30s...
+[08:02:50]   arXiv TCC-reconfigurable: 429 rate limit, waiting 10s...
+[08:03:18]   arXiv TCC-reconfigurable: 429 rate limit, waiting 20s...
+[08:03:38]   arXiv TCC-reconfigurable: 429 rate limit, waiting 30s...
+[08:04:42]   arXiv TCC-higher-order: The read operation timed out, retry 1...
+[08:05:17]   arXiv TCC-higher-order: The read operation timed out, retry 2...
+[08:05:29]   arXiv skip irrelevant: The Ehrhart series of magic squares of order seven
+[08:05:29]   arXiv skip irrelevant: Discrete version of topological complexity of maps
+[08:05:29]   arXiv skip irrelevant: Device-Independent Self-Testing of the Three-Qubit CCZ Hyper
+[08:05:45]   arXiv skip irrelevant: A Phased Development Framework Enabling Islanded Operation o
+[08:06:18]   arXiv TCC-topology-opt: The read operation timed out, retry 1...
+[08:06:53]   Insight [3/3]: Chip Floorplanning Combining Convex and Non-convex...
+[08:06:53]   arXiv skip irrelevant: Cardinality-Decomposed Loss: Matching Training Objectives to
+[08:06:53]   Insight [1/3]: Cross-Domain Generalization in Optical Networks vi...
+[08:07:00]   arXiv skip irrelevant: Qoreo: Choreographic Programming for Quantum Distributed Sys
+[08:07:00]   arXiv skip irrelevant: Distributed Colouring with 4/3 chi Colours for Hyperbolic Ra
+[08:07:00]   arXiv skip irrelevant: Time Series Network Utilization KPI Forecasting Using Advanc
+[08:07:05]   鐠哄疇绻?瀵京娴夐崗?: On the strong coupling limit of Yang-Mills matrix ...
+[08:07:05]   arXiv skip irrelevant: Toward Generalizable Cognitive Impairment Detection with Spe
+[08:07:05]   Insight [1/3]: Pseudogap formation in the moderate correlated lay...
+[08:07:08]   arXiv skip irrelevant: From risk to flourishing: Seeds for responding to a complex 
+[08:07:08]   arXiv skip irrelevant: Raman-Assisted Multiband Nonlinear Frequency-Conversion Netw
+[08:07:08]   arXiv skip irrelevant: Study of ordering in (MoCrTi)$_{100-x}$Al$_x$ refractory hig
+[08:07:12]   arXiv skip irrelevant: ARGON: A GNN-Empowered Compilation Framework for Scalable Ne
+[08:07:12]   arXiv skip irrelevant: From Scalars to Time Series: Rethinking Implicit Neural Repr
+[08:07:32]   鐠哄疇绻?闁插秴顦?: Self-organizing Architecture of Receptron Units: a... [Title: Self-organizing Architecture of Receptron Units: a Hardware-Aware Framework for ]
+[08:07:32]   鐠哄疇绻?闁插秴顦?: Current Injection Spiking Neural Network for Infra... [Title: Current Injection Spiking Neural Network for Infrared and Visible Image Fusion]
+[08:07:32]   鐠哄疇绻?闁插秴顦?: SpikingMOT: A Spike-Driven Multi-Object Tracker... [Title: SpikingMOT: A Spike-Driven Multi-Object Tracker]
+[08:07:38]   arXiv skip irrelevant: Revisiting Degree-Corrected Spectral Clustering: a Condition
+[08:07:38]   arXiv skip irrelevant: From Static Bibliometrics to Dynamic Knowledge Graphs: An LL
+[08:07:38]   arXiv skip irrelevant: PC-Edit: Prompt-Contrastive Region Discovery and Region-Guid
+[08:07:43]   鐠哄疇绻?闁插秴顦?: WiFi Sensing via Reservoir Computing... [Title: WiFi Sensing via Reservoir Computing]
+[08:07:43]   鐠哄疇绻?闁插秴顦?: On Optimal Event-Triggered Distributed Control for... [Title: On Optimal Event-Triggered Distributed Control for Stochastic Multi-Agent System]
+[08:07:43]   arXiv skip irrelevant: Terascale Query Processing in the Browser: Rethinking GPU Ac
+[08:07:48]   arXiv skip irrelevant: T-STAR: A Large-Scale Benchmark for Spatio-Temporal Panoptic
+[08:07:48]   arXiv skip irrelevant: Sidewalk Moments: Are Richer Representations Always More Hum
+[08:07:48]   arXiv skip irrelevant: Adaptive Multi-Expert Graph Transformer for Interpretable EE
+[08:07:52]   鐠哄疇绻?闁插秴顦?: Spectral Higher-Order Neural Networks Have Sharp E... [Title: Spectral Higher-Order Neural Networks Have Sharp Expressivity Bounds]
+[08:07:52]   arXiv skip irrelevant: Online Stochastic Matchings: Stability on Hypergraphs
+[08:07:52]   arXiv skip irrelevant: Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-In
+[08:08:19]   Insight [1/3]: Perspective Latents as an Architectural Condition ...
+[08:08:19]   arXiv skip irrelevant: Intelligence from Learnable Novelty
+[08:08:19]   arXiv skip irrelevant: Principled Direction-Free Intrinsic Motivation through Model
+[08:08:23]   Insight [3/3]: Driven criticality links universal computation and...
+[08:08:23]   Insight [3/3]: Photo-induced currents and short-term memory for r...
+[08:08:23]   鐠哄疇绻?闁插秴顦?: Hybrid LLM-Guided Search for Quantum Reservoir Arc... [Title: Hybrid LLM-Guided Search for Quantum Reservoir Architecture Design]
+[08:08:26]   arXiv skip irrelevant: ClouDens: Operational Context-Aware Anomaly Detection for La
+[08:08:29]   鐠哄疇绻?闁插秴顦?: A Unified Discrete and Continuous Theory of Core-H... [Title: A Unified Discrete and Continuous Theory of Core-Halo Complexity Maximizers]
+[08:08:29]   arXiv skip irrelevant: Multi-Level Privacy-Preserving Dementia Detection from Speec
+[08:08:31] [arXiv] 6 new papers, 0 errors across 19 queries
+[08:08:31] [GN] Google News RSS...
+[08:10:37]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:10:59]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:11:21]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:11:43]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:11:45] [GN] 0 new articles
+
+  Total: 6 new items to inbox
+[08:11:45] [Process] LLM classify (free tier, limit=20)...
+[08:12:07] [Process] Classified: 0
+[08:12:07] [Genspark] Generating research brief...
+[08:12:07] [Genspark] Research brief written: genspark_research_brief.md
+[08:12:07] [Graph] Scanning wiki links...
+[08:13:14] [Graph] 5594 files, 11471 links
+[08:13:15] [Graph] Exported: 5594 nodes, 8941 edges
+[08:13:15] [Graph] 0 missing backlinks
+Exception in thread Thread-1 (_readerthread):
+Traceback (most recent call last):
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 1515, in _readerthread
+    buffer.append(fh.read())
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa1 in position 19: invalid start byte
+[08:13:37] [DailyGen] Daily_Action + Focus + Insights generated
+[08:13:37] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+6(arXiv)+0(GN) | Written: 6 new papers
+  Processed: 0 | Nodes: 5594 edges: 8941 | Missing links: 0 | Genspark: OK
+  Elapsed: 815s
+============================================================
+[08:13:37] [State] research_state.json updated
+[08:13:37] [Evolution] Evidence + hypotheses updated
+[08:13:38] [Dashboard] Live dashboard published

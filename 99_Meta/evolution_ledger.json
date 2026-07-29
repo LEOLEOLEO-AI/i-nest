@@ -1,0 +1,173 @@
+{
+  "entries": [
+    {
+      "title": "Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning",
+      "url": "http://arxiv.org/abs/2607.13584v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_Visual Place Recognition Using Rate-Encoded Spiking Neural N.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "Steering dynamic network centrality via control theory",
+      "url": "http://arxiv.org/abs/2607.14610v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_Steering dynamic network centrality via control theory.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "Spatially multiplexed concentric discrete optical vortices: Complex topological structures and unconventional rotational dynamics",
+      "url": "http://arxiv.org/abs/2607.14959v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_Spatially multiplexed concentric discrete optical vortices C.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "Scalable Training of Continuous-Time Spiking Neural Networks with Differentiable Spike-Time Discretization",
+      "url": "http://arxiv.org/abs/2607.14672v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_Scalable Training of Continuous-Time Spiking Neural Networks.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "Physical Reservoir Signal Acquisition for Sub-Nyquist Waveform Reconstruction",
+      "url": "http://arxiv.org/abs/2607.14504v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_Physical Reservoir Signal Acquisition for Sub-Nyquist Wavefo.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "Optimization dynamics of Transformer backflow neural quantum states for the two-dimensional Hubbard model",
+      "url": "http://arxiv.org/abs/2607.14875v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_Optimization dynamics of Transformer backflow neural quantum.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "Moment-Resolved Readout and Reservoir Diversity in Nonequilibrium Langevin Computing",
+      "url": "http://arxiv.org/abs/2607.14520v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_Moment-Resolved Readout and Reservoir Diversity in Nonequili.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "General theory of monitored Quantum Reservoir Computing",
+      "url": "http://arxiv.org/abs/2607.14311v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_General theory of monitored Quantum Reservoir Computing.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "Dissipative phase transitions and chaos in two-photon driven quantum optomechanics",
+      "url": "http://arxiv.org/abs/2607.12044v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_Dissipative phase transitions and chaos in two-photon driven.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "Differentiable Routability-Driven Package Floorplanning with Pin Assignment",
+      "url": "http://arxiv.org/abs/2607.15005v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_Differentiable Routability-Driven Package Floorplanning with.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "Adaptive Entanglement Management in Quantum Multi-Core Architectures",
+      "url": "http://arxiv.org/abs/2607.14592v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_Adaptive Entanglement Management in Quantum Multi-Core Archi.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "A Reservoir Computing Approach to Quantum Gate Synthesis",
+      "url": "http://arxiv.org/abs/2607.13887v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-19_arXiv_A Reservoir Computing Approach to Quantum Gate Synthesis.md",
+      "discovered": "2026-07-19",
+      "status": "pending_review"
+    },
+    {
+      "title": "SpikingMOT: A Spike-Driven Multi-Object Tracker",
+      "url": "http://arxiv.org/abs/2607.19875v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_SpikingMOT A Spike-Driven Multi-Object Tracker.md",
+      "discovered": "2026-07-24",
+      "status": "pending_review"
+    },
+    {
+      "title": "Self-organizing Architecture of Receptron Units: a Hardware-Aware Framework for Edge Intelligence",
+      "url": "http://arxiv.org/abs/2607.20162v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_Self-organizing Architecture of Receptron Units a Hardware-A.md",
+      "discovered": "2026-07-24",
+      "status": "pending_review"
+    },
+    {
+      "title": "Quantum Reservoir Computing: Recent Advances and Future Directions",
+      "url": "http://arxiv.org/abs/2607.18552v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_Quantum Reservoir Computing Recent Advances and Future Direc.md",
+      "discovered": "2026-07-24",
+      "status": "pending_review"
+    },
+    {
+      "title": "MoX: Efficient MoE Routing on Direct-Connect Topologies",
+      "url": "http://arxiv.org/abs/2607.20220v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_MoX Efficient MoE Routing on Direct-Connect Topologies.md",
+      "discovered": "2026-07-24",
+      "status": "pending_review"
+    },
+    {
+      "title": "Current Injection Spiking Neural Network for Infrared and Visible Image Fusion",
+      "url": "http://arxiv.org/abs/2607.19879v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_Current Injection Spiking Neural Network for Infrared and Vi.md",
+      "discovered": "2026-07-24",
+      "status": "pending_review"
+    },
+    {
+      "title": "AlphaRoute: Large Language Models as Semantic Optimizers for Multi-Objective Routing",
+      "url": "http://arxiv.org/abs/2607.19768v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-24_arXiv_AlphaRoute Large Language Models as Semantic Optimizers for .md",
+      "discovered": "2026-07-24",
+      "status": "pending_review"
+    },
+    {
+      "title": "Photo-induced currents and short-term memory for reservoir computing in a ferroelectric semiconductor",
+      "url": "http://arxiv.org/abs/2607.20810v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-25_arXiv_Photo-induced currents and short-term memory for reservoir c.md",
+      "discovered": "2026-07-25",
+      "status": "pending_review"
+    },
+    {
+      "title": "Driven criticality links universal computation and optimal representations",
+      "url": "http://arxiv.org/abs/2607.21232v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-25_arXiv_Driven criticality links universal computation and optimal r.md",
+      "discovered": "2026-07-25",
+      "status": "pending_review"
+    },
+    {
+      "title": "Chip Floorplanning Combining Convex and Non-convex Optimization",
+      "url": "http://arxiv.org/abs/2607.21408v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-25_arXiv_Chip Floorplanning Combining Convex and Non-convex Optimizat.md",
+      "discovered": "2026-07-25",
+      "status": "pending_review"
+    }
+  ],
+  "last_updated": "2026-07-25T08:13:37.942138"
+}

@@ -1,14 +1,16 @@
 ﻿# -*- coding: utf-8 -*-
 """DeepSeek V4 Pro batch analysis of 00_Inbox files"""
 
-import json, shutil, time, re
+import json, shutil, time, re, os
 from pathlib import Path
 from openai import OpenAI
 from datetime import datetime
+from dotenv import load_dotenv
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
+load_dotenv(VAULT / ".env")
 INBOX = VAULT / "00_Inbox"
-API_KEY = "REDACTED_DEEPSEEK_KEY"
+API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 
 client = OpenAI(api_key=API_KEY, base_url="https://api.deepseek.com/v1", timeout=30)
 

@@ -1,7 +1,7 @@
 ﻿import json, re
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 
 # Target dirs with real research content
 TARGET_DIRS = [

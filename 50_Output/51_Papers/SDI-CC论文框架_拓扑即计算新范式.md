@@ -288,7 +288,7 @@ tags:
 | P-System | 系统架构 | 系统论文 | 2028 Q1 | Gen1 芯片 + 8节点系统（Year 2）|
 | P-App | 应用扩展 | 应用论文 | 2028 Q4 | 64节点系统（Year 3）|
 
-**P-Mapping 完整框架**：`/home/work/.openclaw/workspace/论文框架_P-Mapping_六原语物理拓扑映射.md`
+**P-Mapping 完整框架**：`/vault/论文框架_P-Mapping_六原语物理拓扑映射.md`
 
 ---
 

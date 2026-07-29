@@ -407,7 +407,7 @@ for i, r in enumerate(refs):
     set_font(run, size=9.5)
 
 # 保存
-out = '/home/work/.openclaw/workspace/sdi_sim/CST仿真平台_C.elegans相变复现报告_v1.docx'
+out = '/vault/sdi_sim/CST仿真平台_C.elegans相变复现报告_v1.docx'
 doc.save(out)
 print(f"✅ 报告已生成: {out}")
 import os; print(f"文件大小: {os.path.getsize(out)//1024} KB")

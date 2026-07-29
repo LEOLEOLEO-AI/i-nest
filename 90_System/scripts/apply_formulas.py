@@ -1,7 +1,7 @@
 ﻿import re
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 md_path = VAULT / "30_TCC/31_Theory/tcc_paper_background.md"
 content = md_path.read_text(encoding="utf-8")
 

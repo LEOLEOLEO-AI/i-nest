@@ -1,7 +1,7 @@
 import json, csv, sys
 
 # Read the v31 results
-with open('/home/work/.openclaw/workspace/sdi_sim/sdi_v31_results.json') as f:
+with open('/vault/sdi_sim/sdi_v31_results.json') as f:
     d = json.load(f)
 print('v31 results keys:', list(d.keys()))
 for k, v in d.items():
@@ -14,7 +14,7 @@ for k, v in d.items():
 
 # Read the hemibrain meta CSV
 neurons = {}
-with open('/home/work/.openclaw/workspace/10_Knowledge/专题归档/05_Datasets_仿真与实验数据/Simulation_Results/hemibrain_meta.csv') as f:
+with open('/vault/10_Knowledge/专题归档/05_Datasets_仿真与实验数据/Simulation_Results/hemibrain_meta.csv') as f:
     reader = csv.reader(f)
     header = next(reader)
     for row in reader:
@@ -56,7 +56,7 @@ for k, v in classes.most_common():
 
 # Check if there's a hemibrain edges file anywhere
 import os
-for root, dirs, files in os.walk('/home/work/.openclaw/workspace/'):
+for root, dirs, files in os.walk('/vault/'):
     for fname in files:
         if 'hemibrain' in fname.lower() and fname.endswith('.json'):
             fpath = os.path.join(root, fname)

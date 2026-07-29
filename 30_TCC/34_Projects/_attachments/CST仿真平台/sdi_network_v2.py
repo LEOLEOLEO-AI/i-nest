@@ -427,7 +427,7 @@ def plot_results(net, logs, sigma_f, C_f, L_f, alpha_f):
         y -= 0.055
 
     plt.tight_layout()
-    out = '/home/work/.openclaw/workspace/sdi_sim/sdi_v2_dynamic_fanout.png'
+    out = '/vault/sdi_sim/sdi_v2_dynamic_fanout.png'
     plt.savefig(out, dpi=150, bbox_inches='tight')
     plt.close()
     print(f"\n✅ 图表保存: {out}")
@@ -437,7 +437,7 @@ def plot_results(net, logs, sigma_f, C_f, L_f, alpha_f):
 # 主程序
 # ============================================================
 if __name__ == '__main__':
-    import os; os.makedirs('/home/work/.openclaw/workspace/sdi_sim', exist_ok=True)
+    import os; os.makedirs('/vault/sdi_sim', exist_ok=True)
 
     print("="*60)
     print("SDI网络仿真 v2 — 动态扇出 + 多步级联激活")

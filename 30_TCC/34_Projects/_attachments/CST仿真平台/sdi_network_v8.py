@@ -46,7 +46,7 @@ warnings.filterwarnings('ignore')
 # ============================================================
 # 参数
 # ============================================================
-DATA_PATH   = '/home/work/.openclaw/workspace/celegans_sim/connectome_v8_data.json'
+DATA_PATH   = '/vault/celegans_sim/connectome_v8_data.json'
 
 # STDP（Bi&Poo 1998）
 TAU_STDP    = 20.0
@@ -560,7 +560,7 @@ def plot_v8(net, logs, sf, Cf, Lf, af):
                 fontweight='bold' if bold else 'normal',va='top')
         y-=max(0.034,fs*0.0043)
 
-    out='/home/work/.openclaw/workspace/sdi_sim/sdi_v8_real_connectome.png'
+    out='/vault/sdi_sim/sdi_v8_real_connectome.png'
     plt.savefig(out,dpi=150,bbox_inches='tight')
     plt.close()
     print(f"\n✅ 图表: {out}")

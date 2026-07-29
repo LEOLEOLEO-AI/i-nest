@@ -2,7 +2,7 @@
 from datetime import datetime, timedelta
 from collections import Counter
 
-WORKSPACE = r"D:\Obsidian\home\work\.openclaw\workspace"
+WORKSPACE = r"D:\Obsidian\vault"
 WEB_CLIPS = os.path.join(WORKSPACE, "03_Topics", "Web-Clips")
 INDEX_HTML = os.path.join(WORKSPACE, "dashboard", "index.html")
 

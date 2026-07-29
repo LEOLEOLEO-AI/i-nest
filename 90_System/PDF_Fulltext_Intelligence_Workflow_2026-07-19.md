@@ -37,7 +37,7 @@ pdf_sha256: "..."
 运行：
 
 ```powershell
-python D:\Obsidian\home\work\.openclaw\workspace\90_System\scripts\pdf_fulltext_inventory.py
+python D:\Obsidian\vault\90_System\scripts\pdf_fulltext_inventory.py
 ```
 
 输出：`20_Processing/00_PDF_Fulltext_Inventory.md`。

@@ -2,7 +2,7 @@
 import shutil
 from pathlib import Path
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 
 TCC_KW = ["tcc", "topology", "wafer", "sdsow", "chiplet", "2.5d", "3dic",
           "pcie", "ccu", "sdi", "marvell", "interconnect", "packaging",

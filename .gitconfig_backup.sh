@@ -11,7 +11,7 @@ BACKUP_DIR=/tmp/auto_backup_$(date +%Y%m%d_%H%M%S)
 mkdir -p $BACKUP_DIR
 
 echo -n > $BACKUP_DIR/changed_files.txt
-for f in /home/work/.openclaw/workspace/SOUL.md /home/work/.openclaw/workspace/USER.md /home/work/.openclaw/workspace/MEMORY.md /home/work/.openclaw/workspace/IDENTITY.md /home/work/.openclaw/workspace/HEARTBEAT.md; do
+for f in /vault/SOUL.md /vault/USER.md /vault/MEMORY.md /vault/IDENTITY.md /vault/HEARTBEAT.md; do
     if [ -f $f ]; then
         dir=$BACKUP_DIR/$(dirname $f)
         mkdir -p $dir
@@ -21,7 +21,7 @@ for f in /home/work/.openclaw/workspace/SOUL.md /home/work/.openclaw/workspace/U
 done
 
 # Commit all changes before pushing
-cd /home/work/.openclaw/workspace
+cd /vault
 git add -A
 git commit -m 'auto-backup sync: '$(date +%Y-%m-%d_%H:%M) 2>/dev/null
 

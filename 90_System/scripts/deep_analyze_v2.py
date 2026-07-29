@@ -1,13 +1,15 @@
 ﻿# -*- coding: utf-8 -*-
 """DeepSeek deep analysis of core TCC+iNEST research files - v2"""
 
-import json, time, re
+import json, time, re, os
 from pathlib import Path
 from openai import OpenAI
 from datetime import datetime
+from dotenv import load_dotenv
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
-API_KEY = "REDACTED_DEEPSEEK_KEY"
+VAULT = Path(r"D:\Obsidian\vault")
+load_dotenv(VAULT / ".env")
+API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 client = OpenAI(api_key=API_KEY, base_url="https://api.deepseek.com/v1", timeout=60)
 
 # Find files by glob + size filter

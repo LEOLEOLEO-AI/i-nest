@@ -32,7 +32,7 @@ import matplotlib.cm as cm
 import networkx as nx
 from networkx.algorithms.community import greedy_modularity_communities
 
-OUT = '/home/work/.openclaw/workspace/sdi_sim'
+OUT = '/vault/sdi_sim'
 
 # ============ 基础参数（与v13/实验三完全一致） ============
 THETA_LTP = 65

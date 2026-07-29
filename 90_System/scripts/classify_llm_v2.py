@@ -2,7 +2,7 @@ import os, json, sys, time
 sys.stdout.reconfigure(encoding='utf-8')
 import openai
 
-vault = r'D:\Obsidian\home\work\.openclaw\workspace'
+vault = r'D:\Obsidian\vault'
 
 with open(os.path.join(vault, '90_System/scripts/classify_ambiguous.json'), 'r', encoding='utf-8') as f:
     ambiguous = json.load(f)

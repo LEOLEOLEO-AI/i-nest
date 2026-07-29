@@ -9,9 +9,16 @@ from pathlib import Path
 from datetime import datetime
 from openai import OpenAI
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+# Load .env for API keys
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(r"D:\Obsidian\vault\.env"))
+except ImportError:
+    pass
+
+VAULT = Path(r"D:\Obsidian\vault")
 INBOX = VAULT / "00_Inbox"
-KEY = os.environ.get("DEEPSEEK_API_KEY") or "REDACTED_DEEPSEEK_KEY"
+KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 client = OpenAI(api_key=KEY, base_url="https://api.deepseek.com/v1")
 
 TCC_DIRS = {"理论": "31_Theory", "技术": "32_Technology", "工程": "33_Engineering", "项目": "34_Projects", "仿真": "35_Simulation"}

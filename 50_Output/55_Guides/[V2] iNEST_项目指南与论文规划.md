@@ -969,7 +969,7 @@ tags:
 
 ---
 
-*文档：`/home/work/.openclaw/workspace/iNEST_项目指南与论文规划_v2.md`*  
+*文档：`/vault/iNEST_项目指南与论文规划_v2.md`*  
 *版本：v2.0 | 2026-03-22*  
 *下版本触发条件：苏州实验室接洽完成，R1投稿完成，N1/E4首稿完成*
 

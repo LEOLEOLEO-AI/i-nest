@@ -17,8 +17,8 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # ─── 路径配置 ────────────────────────────────────────────────────────────────
-DATA_PATH = "/home/work/.openclaw/workspace/sdi_sim/celegans_sim/connectome_v8_data.json"
-RESULT_PATH = "/home/work/.openclaw/workspace/iNEST_Sim_Research/exp_next/v32_cst_align/v32_results.json"
+DATA_PATH = "/vault/sdi_sim/celegans_sim/connectome_v8_data.json"
+RESULT_PATH = "/vault/iNEST_Sim_Research/exp_next/v32_cst_align/v32_results.json"
 
 # ─── 超参数 ──────────────────────────────────────────────────────────────────
 N_STEPS = 5000

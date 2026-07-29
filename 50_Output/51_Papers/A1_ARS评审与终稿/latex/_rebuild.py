@@ -1,6 +1,6 @@
 ﻿import re
 
-with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\_BASELINE_A1_CST.tex", "r", encoding="utf-8") as f:
+with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\_BASELINE_A1_CST.tex", "r", encoding="utf-8") as f:
     tex = f.read()
 
 print("Input: " + str(len(tex)))
@@ -63,7 +63,7 @@ print("Total $: " + str(total_dollars) + " (" + ("OK" if total_dollars % 2 == 0 
 ru = set(c for c in tex if ord(c) > 127 and ord(c) < 0x2000)
 print("Unicode remaining: " + str(len(ru)))
 
-out = r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_FINAL_ATTEMPT.tex"
+out = r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_FINAL_ATTEMPT.tex"
 with open(out, "w", encoding="utf-8") as f:
     f.write(tex)
 print("Output: " + str(len(tex)) + " chars")

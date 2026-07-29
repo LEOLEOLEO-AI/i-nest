@@ -1,6 +1,6 @@
 import http.server, os, urllib.parse, markdown
 
-BASE = r"D:\Obsidian\home\work\.openclaw\workspace"
+BASE = r"D:\Obsidian\vault"
 PORT = 8901
 
 CSS = """

@@ -1,0 +1,27 @@
+{
+  "protocol": "V-CST-00",
+  "task": "V-CST-01",
+  "status": "PARTIAL_Sc_ONLY",
+  "evidence": "[推导] from [实测/引用] structural file; source provenance must be attached separately",
+  "connectome": "D:\\Obsidian\\vault\\40_iNEST\\45_Simulation\\connectome_v8_data.json",
+  "connectome_sha256": "a5e914ffdfb172e143746e763356d9bd82e22a8b5127f9f35795d487cf6e2a63",
+  "N": 279,
+  "directed_chemical_edge_records": 2575,
+  "components": {
+    "kappa_0_directed_core_fraction": 0.8673835125448028,
+    "kappa_1_directed_path_efficiency": 0.3389614467639519,
+    "kappa_2_modularity_proxy_not_louvain": 1.0,
+    "kappa_top_reciprocal_cycle_proxy": 0.2123974475843209
+  },
+  "Sc": 0.49989373072432547,
+  "Tc": "NOT_EXECUTED",
+  "Gamma_st": "NOT_EXECUTED",
+  "alpha": "NOT_EXECUTED",
+  "CST": "NOT_EXECUTED",
+  "quality_gate": {
+    "all_v2_1_components_implemented": false,
+    "functional_time_series_verified": false,
+    "louvain_kappa_2_verified": false,
+    "biological_cst_claim_allowed": false
+  }
+}

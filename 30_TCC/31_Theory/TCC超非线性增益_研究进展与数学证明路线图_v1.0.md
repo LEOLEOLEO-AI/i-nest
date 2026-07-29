@@ -16,7 +16,7 @@ inherits: "TCC(拓扑中心计算) → iNEST(复杂网络涌现智能)"
 
 ### 1.1 概念定义层：已闭环
 
-超非线性增益的概念体系已完整建立（[07_核心定义_超非线性增益与智能视角](http://127.0.0.1:8899/home/work/.openclaw/workspace/40_iNEST/41_Theory/07_核心定义_超非线性增益与智能视角.md)，v1.0，2026-03-24）：
+超非线性增益的概念体系已完整建立（[07_核心定义_超非线性增益与智能视角](http://127.0.0.1:8899/vault/40_iNEST/41_Theory/07_核心定义_超非线性增益与智能视角.md)，v1.0，2026-03-24）：
 
 | 维度   | 指标         | 定义                  | 生物对标                       |
 | ---- | ---------- | ------------------- | -------------------------- |
@@ -42,10 +42,10 @@ inherits: "TCC(拓扑中心计算) → iNEST(复杂网络涌现智能)"
 
 ### 1.3 理论框架层：已建立
 
-- **Route-Transform 分解定理**（[TCC_Knowledge_Base_Baseline_v2.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md) 三）：任意分布式计算任务的通信-计算耦合图可分解为 6 Route + 6 Transform 原语的正交组合
+- **Route-Transform 分解定理**（[TCC_Knowledge_Base_Baseline_v2.0](http://127.0.0.1:8899/vault/30_TCC/TCC_Knowledge_Base_Baseline_v2.0.md) 三）：任意分布式计算任务的通信-计算耦合图可分解为 6 Route + 6 Transform 原语的正交组合
 - **R.T.C 原语体系**：16 个原语（R=Routex6, T=Transformx6, C=Controlx4），v30 海河实验室提交版
 - **SDI 化合键四型架构**：sigma键/pi键/delta键/phi键——超非线性增益的物理实现路径
-- **液态拓扑两阶段论**（[TCC_iNEST_LiquidTopology_v1.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/31_Theory/TCC_iNEST_LiquidTopology_v1.0.md)）：Page模板驱动->自组织临界演化
+- **液态拓扑两阶段论**（[TCC_iNEST_LiquidTopology_v1.0](http://127.0.0.1:8899/vault/30_TCC/31_Theory/TCC_iNEST_LiquidTopology_v1.0.md)）：Page模板驱动->自组织临界演化
 
 ### 1.4 仿真验证层：初步证实
 
@@ -111,7 +111,7 @@ Layer 1: 拓扑信息论          Layer 2: 统计物理临界性        Layer 3:
 
 > TCC 的 16 原语集是最小完备生成集：(1) 任一超非线性增益场景可表示为 (R.x 异或 T.y) 原语对的有限序列；(2) 不存在少于 16 原语的完备生成集；(3) 原语序列长度与增益幅度呈线性下界关系。
 
-**证明路径**（已在[待办](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/34_Projects/待办_原语体系数学统一证明.md)中规划）：
+**证明路径**（已在[待办](http://127.0.0.1:8899/vault/30_TCC/34_Projects/待办_原语体系数学统一证明.md)中规划）：
 
 | 子命题        | 内容                                                        | 方法             |
 | ---------- | --------------------------------------------------------- | -------------- |

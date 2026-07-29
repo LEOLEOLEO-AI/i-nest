@@ -13,7 +13,7 @@
 ### 方式 1：处理单篇论文
 
 ```bash
-cd /home/work/.openclaw/workspace/scripts
+cd /vault/scripts
 
 python inesst_insight_extractor.py \
     --title "Pink Noise in Cortical Networks" \
@@ -277,7 +277,7 @@ if insights:
 启迪点存储（JSON 格式）：
 
 ```
-/home/work/.openclaw/workspace/research/
+/vault/research/
 ├── inesst_insights.json          # 累积所有启迪点
 ├── insights_by_month/
 │   ├── 2026-06.json

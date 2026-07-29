@@ -22,9 +22,9 @@
 ---
 
 ## 关联资源
-- [TCC OneFabric 原始笔记](http://127.0.0.1:8899/home/work/.openclaw/workspace/30_TCC/32_Tech/getnote_20260216_TCC OneFabric%20统一内存与网络语义架构.md)
-- [TCC代码实现](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/TCC OneFabric%20统一内存与网络语义架构.md)
-- [RISC-V+SDI方案](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/统一内存与网络语义架构（Risc-V结合）.md)
+- [TCC OneFabric 原始笔记](http://127.0.0.1:8899/vault/30_TCC/32_Tech/getnote_20260216_TCC OneFabric%20统一内存与网络语义架构.md)
+- [TCC代码实现](http://127.0.0.1:8899/vault/50_Output/54_Code/TCC/TCC OneFabric%20统一内存与网络语义架构.md)
+- [RISC-V+SDI方案](http://127.0.0.1:8899/vault/50_Output/54_Code/TCC/统一内存与网络语义架构（Risc-V结合）.md)
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## 工程落地方案
 
-👉 **[TCC OneFabric × TCC-16 深度融合工程落地方案 v1.0](http://127.0.0.1:8899/home/work/.openclaw/workspace/50_Output/54_Code/TCC/TCC OneFabric_TCC16_工程落地方案_v1.0.md)**
+👉 **[TCC OneFabric × TCC-16 深度融合工程落地方案 v1.0](http://127.0.0.1:8899/vault/50_Output/54_Code/TCC/TCC OneFabric_TCC16_工程落地方案_v1.0.md)**
 
 核心内容：
 - **UMNAS 统一地址空间**: 64-bit 寻址 (Tile ID + Region + Offset)

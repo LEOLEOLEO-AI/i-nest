@@ -86,7 +86,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 
-OUT = '/home/work/.openclaw/workspace/sdi_sim'
+OUT = '/vault/sdi_sim'
 
 # ============ 基础参数（与v17/实验四完全一致） ============
 THETA_LTP = 65

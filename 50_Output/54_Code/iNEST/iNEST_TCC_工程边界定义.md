@@ -43,7 +43,7 @@ tags: [iNEST, TCC, 工程边界, 分工]
 ## 子项目结构总览
 
 ```
-home/work/.openclaw/workspace/
+vault/
 ├── 40_iNEST/44_Projects/        ← 项目申报、指南
 ├── iNEST_2_论文撰写/        ← CST论文、涌现论文
 ├── iNEST_3_专利撰写/        ← 涌现度量方法专利

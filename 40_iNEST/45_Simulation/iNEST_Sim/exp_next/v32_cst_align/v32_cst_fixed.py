@@ -16,8 +16,8 @@ import warnings
 warnings.filterwarnings('ignore')
 
 np.random.seed(42)
-OUT = '/home/work/.openclaw/workspace/iNEST_Sim_Research/exp_next/v32_cst_align/v32_results_fixed.json'
-DATA = '/home/work/.openclaw/workspace/sdi_sim/celegans_sim/connectome_v8_data.json'
+OUT = '/vault/iNEST_Sim_Research/exp_next/v32_cst_align/v32_results_fixed.json'
+DATA = '/vault/sdi_sim/celegans_sim/connectome_v8_data.json'
 
 # ── 常数 ──────────────────────────────────────────────────
 ALPHA_GRADED = np.log(13)   # C.elegans梯度电位

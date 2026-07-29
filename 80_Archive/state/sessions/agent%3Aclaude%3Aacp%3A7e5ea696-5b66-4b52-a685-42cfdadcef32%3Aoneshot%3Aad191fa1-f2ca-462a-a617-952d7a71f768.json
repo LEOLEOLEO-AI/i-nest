@@ -3,7 +3,7 @@
   "acpx_record_id": "agent:claude:acp:7e5ea696-5b66-4b52-a685-42cfdadcef32:oneshot:ad191fa1-f2ca-462a-a617-952d7a71f768",
   "acp_session_id": "c65ce4a0-4744-487f-9f0b-26e30bee198a",
   "agent_command": "env ANTHROPIC_AUTH_TOKEN= npx -y @zed-industries/claude-agent-acp",
-  "cwd": "/home/work/.openclaw/workspace/claude",
+  "cwd": "/vault/claude",
   "name": "agent:claude:acp:7e5ea696-5b66-4b52-a685-42cfdadcef32",
   "created_at": "2026-06-23T11:49:41.656Z",
   "last_used_at": "2026-06-23T11:50:25.739Z",
@@ -158,18 +158,18 @@
             "tool_name": "cd ~/i-nest && git remote set-url github git@github.com:LEOLEOLEO-AI/i-nest.git && echo \"✅ Remote URL 已修改为 SSH\"",
             "is_error": false,
             "content": {
-              "Text": "✅ Remote URL 已修改为 SSH\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+              "Text": "✅ Remote URL 已修改为 SSH\nShell cwd was reset to /vault/claude"
             },
-            "output": "✅ Remote URL 已修改为 SSH\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+            "output": "✅ Remote URL 已修改为 SSH\nShell cwd was reset to /vault/claude"
           },
           "toolu_01PgQ1LPjnaxq3Ss4ppyp6um": {
             "tool_use_id": "toolu_01PgQ1LPjnaxq3Ss4ppyp6um",
             "tool_name": "cd ~/i-nest && git remote -v",
             "is_error": false,
             "content": {
-              "Text": "github\tgit@github.com:LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\tgit@github.com:LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+              "Text": "github\tgit@github.com:LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\tgit@github.com:LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /vault/claude"
             },
-            "output": "github\tgit@github.com:LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\tgit@github.com:LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /home/work/.openclaw/workspace/claude"
+            "output": "github\tgit@github.com:LEOLEOLEO-AI/i-nest.git (fetch)\ngithub\tgit@github.com:LEOLEOLEO-AI/i-nest.git (push)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (fetch)\norigin\tgit@gitee.com:iBrainNest/i-nest.git (push)\nShell cwd was reset to /vault/claude"
           },
           "toolu_013QyZpodymkkUpp6pC2Hs9v": {
             "tool_use_id": "toolu_013QyZpodymkkUpp6pC2Hs9v",

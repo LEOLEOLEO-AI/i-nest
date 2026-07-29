@@ -1,6 +1,6 @@
 ﻿import re, os
 
-TEX = r'D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_vFINAL.tex'
+TEX = r'D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_vFINAL.tex'
 
 # Math commands that MUST be inside math mode
 MATH_CMDS = r'\\(?:sqrt|frac|alpha|beta|gamma|delta|phi|Phi|pi|Pi|sigma|Gamma|Delta|Theta|lambda|mu|eta|cdot|approx|equiv|leq|geq|in|propto|times|rightarrow|Rightarrow|exp|ln|log)\b'

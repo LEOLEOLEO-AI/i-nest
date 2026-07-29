@@ -14,7 +14,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Output directory
-OUT_DIR = '/home/work/.openclaw/workspace/sdi_sim/figures'
+OUT_DIR = '/vault/sdi_sim/figures'
 os.makedirs(OUT_DIR, exist_ok=True)
 
 # Global style
@@ -37,7 +37,7 @@ def figure1_species_sigma():
     """20-species small-world emergence bar chart"""
     print("Generating Figure 1: Species sigma...")
 
-    with open('/home/work/.openclaw/workspace/sdi_sim/exp1_v17_results.json') as f:
+    with open('/vault/sdi_sim/exp1_v17_results.json') as f:
         data = json.load(f)
 
     # Evolutionary order: primitive → invertebrate → fish → bird → mammal → primate → human
@@ -133,7 +133,7 @@ def figure2_avalanche_powerlaw():
     """Neural avalanche power-law distribution (log-log, 2x3 subplots)"""
     print("Generating Figure 2: Avalanche power-law...")
 
-    with open('/home/work/.openclaw/workspace/sdi_sim/exp5_v12_avalanche_results.json') as f:
+    with open('/vault/sdi_sim/exp5_v12_avalanche_results.json') as f:
         data = json.load(f)
 
     # Select 6 best (one per network×rules, highest score)
@@ -213,7 +213,7 @@ def figure3_psd_spectrum():
     """PSD power spectrum slope (2x3 subplots)"""
     print("Generating Figure 3: PSD spectrum...")
 
-    with open('/home/work/.openclaw/workspace/sdi_sim/exp5_v12_avalanche_results.json') as f:
+    with open('/vault/sdi_sim/exp5_v12_avalanche_results.json') as f:
         data = json.load(f)
 
     # Same 6 best combos as figure 2
@@ -294,7 +294,7 @@ def figure4_kappa_score_summary():
     """Branching ratio κ boxplot and score summary bar chart"""
     print("Generating Figure 4: κ and score summary...")
 
-    with open('/home/work/.openclaw/workspace/sdi_sim/exp5_v12_avalanche_results.json') as f:
+    with open('/vault/sdi_sim/exp5_v12_avalanche_results.json') as f:
         data = json.load(f)
 
     # Group by network×rules
@@ -381,7 +381,7 @@ def figure5_connectome_evolution():
     """Real connectome σ evolution and decode score"""
     print("Generating Figure 5: Connectome evolution...")
 
-    with open('/home/work/.openclaw/workspace/sdi_sim/exp6_real_connectome_results.json') as f:
+    with open('/vault/sdi_sim/exp6_real_connectome_results.json') as f:
         data = json.load(f)
 
     # Separate 3-rules and 4-rules

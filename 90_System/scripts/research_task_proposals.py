@@ -8,7 +8,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 INSIGHTS = VAULT / "00_Inbox" / "_pipeline_insights"
 FULLTEXT_ANALYSES = VAULT / "20_Processing" / "02_Fulltext_Analysis"
 META = VAULT / "99_Meta"

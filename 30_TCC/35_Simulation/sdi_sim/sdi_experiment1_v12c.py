@@ -21,7 +21,7 @@ import matplotlib; matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 np.random.seed(42)
-OUT = '/home/work/.openclaw/workspace/sdi_sim'
+OUT = '/vault/sdi_sim'
 SEEDS = [42, 7, 13, 99, 2024]
 
 # ======== LTC 神经元参数（Hasani 2021 + Beggs&Plenz 2003）========

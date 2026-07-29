@@ -22,8 +22,8 @@ import community as community_louvain, warnings
 warnings.filterwarnings('ignore')
 np.random.seed(42)
 
-DATA = '/home/work/.openclaw/workspace/sdi_sim/celegans_sim/connectome_v8_data.json'
-OUT  = '/home/work/.openclaw/workspace/iNEST_Sim_Research/exp_next/v38_freq_bias/v38_results.json'
+DATA = '/vault/sdi_sim/celegans_sim/connectome_v8_data.json'
+OUT  = '/vault/iNEST_Sim_Research/exp_next/v38_freq_bias/v38_results.json'
 ALPHA = {'graded':np.log(13),'snn':np.log(32),'cortex':np.log(50)}
 THRESHOLDS = [(4.669,'L6超级(δ)'),(3.14159,'L5通用(π)'),(2.71828,'L4创造(e)'),
               (1.61803,'L3适应(φ)'),(1.00000,'L2反应(1)'),(0.70711,'L1感知(1/√2)'),(0.,'L0反射')]

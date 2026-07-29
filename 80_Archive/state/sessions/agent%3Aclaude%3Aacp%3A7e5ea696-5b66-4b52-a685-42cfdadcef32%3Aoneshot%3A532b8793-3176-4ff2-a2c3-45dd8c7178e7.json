@@ -3,7 +3,7 @@
   "acpx_record_id": "agent:claude:acp:7e5ea696-5b66-4b52-a685-42cfdadcef32:oneshot:532b8793-3176-4ff2-a2c3-45dd8c7178e7",
   "acp_session_id": "8a26727c-09cd-4849-aea8-3641639635aa",
   "agent_command": "env ANTHROPIC_AUTH_TOKEN= npx -y @zed-industries/claude-agent-acp",
-  "cwd": "/home/work/.openclaw/workspace/claude",
+  "cwd": "/vault/claude",
   "name": "agent:claude:acp:7e5ea696-5b66-4b52-a685-42cfdadcef32",
   "created_at": "2026-06-23T11:49:39.082Z",
   "last_used_at": "2026-06-23T11:49:39.082Z",

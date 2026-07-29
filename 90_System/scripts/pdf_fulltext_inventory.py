@@ -13,7 +13,7 @@ from pathlib import Path
 
 from pypdf import PdfReader
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 DEFAULT_ROOTS = [
     VAULT / "00_Inbox" / "01_PDF_Source",
     VAULT / "20_Processing" / "_attachments_knowledge",

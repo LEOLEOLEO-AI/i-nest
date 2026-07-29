@@ -25,7 +25,7 @@ from collections import defaultdict
 from scipy.stats import entropy
 from scipy.signal import hilbert
 
-BASE    = '/home/work/.openclaw/workspace/sdi_sim'
+BASE    = '/vault/sdi_sim'
 OUT     = os.path.join(BASE, 'exp16_lambda_phi_fix_results.json')
 CE_DATA = os.path.join(BASE, 'celegans_sim/connectome_v8_data.json')
 

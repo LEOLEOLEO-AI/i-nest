@@ -23,7 +23,7 @@
 
 ## 已验证正常
 
-- [主页](http://127.0.0.1:8899/home/work/.openclaw/workspace/Home.md) 与 [研发看板](http://127.0.0.1:8899/home/work/.openclaw/workspace/70_Dashboard/index.html) 可访问。
+- [主页](http://127.0.0.1:8899/vault/Home.md) 与 [研发看板](http://127.0.0.1:8899/vault/70_Dashboard/index.html) 可访问。
 - 研究状态统计：5,495 篇 Markdown；`00_Inbox/_pipeline_insights` 当前 83 篇；知识图谱 5,486 节点、8,767 边。
 - 最新主管线日志：2026-07-19 12:07，获得 12 篇新论文，耗时 9.1 分钟。
 - 入口文件的 HTTP 链接抽查无断链：`Home.md`、每日行动、任务审核页、自动化规范。
@@ -42,7 +42,7 @@
 ## P1：本周修复
 
 1. **重复 LLM 分析造成 token 浪费**
-   - [daily_generator.py](http://127.0.0.1:8899/home/work/.openclaw/workspace/90_System/scripts/daily_generator.py) 每次管线运行都会对当日 Top 8 论文调用 LLM，没有输入哈希或结果缓存。
+   - [daily_generator.py](http://127.0.0.1:8899/vault/90_System/scripts/daily_generator.py) 每次管线运行都会对当日 Top 8 论文调用 LLM，没有输入哈希或结果缓存。
    - 2026-07-19 已运行 4 次，总耗时 46.7 分钟；其中只有最后一次新增 12 篇论文。应当仅在“新增论文集合变化”时分析，并缓存每篇论文的版本化结果。
 
 2. **“全文分析”标签与实际输入不一致**

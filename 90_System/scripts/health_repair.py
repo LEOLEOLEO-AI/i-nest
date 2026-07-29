@@ -9,7 +9,7 @@ from collections import defaultdict, Counter
 
 sys.path.insert(0, r"D:\Obsidian\scripts")
 
-VAULT = Path(r"D:\Obsidian\home\work\.openclaw\workspace")
+VAULT = Path(r"D:\Obsidian\vault")
 TODAY = datetime.now().strftime("%Y-%m-%d")
 
 EXCLUDE = [

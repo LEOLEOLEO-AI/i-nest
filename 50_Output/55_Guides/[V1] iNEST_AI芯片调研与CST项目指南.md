@@ -375,7 +375,7 @@ modified: 2026-07-07
 
 ---
 
-*文档：`/home/work/.openclaw/workspace/iNEST_AI芯片调研与CST项目指南_v1.md`*  
+*文档：`/vault/iNEST_AI芯片调研与CST项目指南_v1.md`*  
 *2026-03-22*
 
 

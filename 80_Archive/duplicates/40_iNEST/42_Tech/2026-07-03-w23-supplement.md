@@ -116,7 +116,7 @@
 ### 📁 **文件位置**
 
 ```
-/home/work/.openclaw/workspace/sdi_sim/
+/vault/sdi_sim/
 
 代码文件：
   ├─ topology_metrics.py (新建)

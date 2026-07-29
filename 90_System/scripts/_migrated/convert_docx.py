@@ -31,11 +31,11 @@ def convert_docx_to_md(docx_path, md_path):
         f.write("\n".join(md_content))
     print(f"Successfully converted {docx_path} to {md_path}")
 
-file1 = r'd:\Obsidian\home\work\.openclaw\workspace\30_Outputs\论文\A组_CST基础理论\A1_CST_Theory_V25_FINAL.docx'
-md1 = r'd:\Obsidian\home\work\.openclaw\workspace\30_Outputs\论文\A组_CST基础理论\A1_CST_Theory_V25_FINAL.md'
+file1 = r'd:\Obsidian\vault\30_Outputs\论文\A组_CST基础理论\A1_CST_Theory_V25_FINAL.docx'
+md1 = r'd:\Obsidian\vault\30_Outputs\论文\A组_CST基础理论\A1_CST_Theory_V25_FINAL.md'
 
-file2 = r'd:\Obsidian\home\work\.openclaw\workspace\30_Outputs\专利\P0-5_基于液态拓扑的实时生成式结构计算方法及系统.docx'
-md2 = r'd:\Obsidian\home\work\.openclaw\workspace\30_Outputs\专利\P0-5_基于液态拓扑的实时生成式结构计算方法及系统.md'
+file2 = r'd:\Obsidian\vault\30_Outputs\专利\P0-5_基于液态拓扑的实时生成式结构计算方法及系统.docx'
+md2 = r'd:\Obsidian\vault\30_Outputs\专利\P0-5_基于液态拓扑的实时生成式结构计算方法及系统.md'
 
 convert_docx_to_md(file1, md1)
 convert_docx_to_md(file2, md2)

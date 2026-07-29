@@ -27,7 +27,7 @@ import matplotlib.colors as mcolors
 import networkx as nx
 from networkx.algorithms.community import greedy_modularity_communities
 
-OUT = '/home/work/.openclaw/workspace/sdi_sim'
+OUT = '/vault/sdi_sim'
 
 # ============ 参数（与v13完全一致） ============
 THETA_LTP = 65

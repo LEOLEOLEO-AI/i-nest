@@ -9,7 +9,7 @@ import networkx as nx
 from collections import defaultdict
 
 np.random.seed(42)
-os.chdir(r"D:\Obsidian\home\work\.openclaw\workspace\simulation")
+os.chdir(r"D:\Obsidian\vault\simulation")
 OUT_DIR = "data/v29_results"
 os.makedirs(OUT_DIR, exist_ok=True)
 

@@ -1,7 +1,7 @@
 ﻿import re
 # Run the fix 3 more times to catch remaining issues
 for iteration in range(3):
-    with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_DDFIX.tex", "r", encoding="utf-8") as f:
+    with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_DDFIX.tex", "r", encoding="utf-8") as f:
         tex = f.read()
     
     # Simple regex: $_ followed by letters in text mode
@@ -25,7 +25,7 @@ for iteration in range(3):
     # Clean up $$
     tex = tex.replace("$$", "")
     
-    with open(r"D:\Obsidian\home\work\.openclaw\workspace\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_DDFIX.tex", "w", encoding="utf-8") as f:
+    with open(r"D:\Obsidian\vault\50_Output\51_Papers\A1_ARS评审与终稿\latex\A1_CST_DDFIX.tex", "w", encoding="utf-8") as f:
         f.write(tex)
     
     print("Pass " + str(iteration+1) + ": " + str(fixes + f2) + " fixes")

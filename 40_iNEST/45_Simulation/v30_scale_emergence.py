@@ -11,7 +11,7 @@ from scipy import stats
 from collections import Counter
 
 np.random.seed(42)
-os.chdir(r"D:\Obsidian\home\work\.openclaw\workspace\simulation")
+os.chdir(r"D:\Obsidian\vault\simulation")
 OUT_DIR = "data/v30_results"
 os.makedirs(OUT_DIR, exist_ok=True)
 

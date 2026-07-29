@@ -30,7 +30,7 @@ import matplotlib; matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from scipy.sparse.csgraph import connected_components
 
-OUT = '/home/work/.openclaw/workspace/sdi_sim'
+OUT = '/vault/sdi_sim'
 SEEDS = [42, 7, 13, 99, 2024]   # 多种子统计
 
 # ============ 参数（固定，所有物种统一）============
