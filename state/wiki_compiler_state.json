@@ -1,0 +1,33 @@
+{
+  "last_compile": "2026-07-30",
+  "processed_files": {
+    "imports/00_教材编写规划_两本配套.md": 1785372316.1136274,
+    "imports/2026-06-23-comprehensive_diagnosis.md": 1785372316.1314232,
+    "imports/2026-07-28-tcc-productized-subproject-design.md": 1785372316.1426659,
+    "imports/Transformer十年瓶颈被Kimi3揪出.md": 1785372316.15035,
+    "imports/Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities  A Renormalization Group Approach.md": 1785372316.1712623,
+    "imports/V25投稿修改执行计划.md": 1785372316.1812913,
+    "imports/V25论文全面系统审查.md": 1785372316.1946037,
+    "imports/拓扑中心计算——面向通信受限智能计算的第三类体系结构范式.md": 1785372316.204504,
+    "tcc/papers/05_连接模式：什么样的系统更脆弱？_-_得到APP.md": 1785372317.456641,
+    "tcc/papers/1+1大于2证明体系_Genspark新稿分析与诊断_v1.0.md": 1785372317.5642748,
+    "tcc/papers/18个月研究计划.md": 1785372317.6479924,
+    "tcc/papers/2021年中国人工智能产业发展趋势.md": 1785372317.7346618,
+    "tcc/papers/2026-07-15-2607.11958.md": 1785372316.5049264,
+    "tcc/papers/2026-07-15-2607.12840.md": 1785372316.5843647,
+    "tcc/papers/CST_Exponential_Form_Proof_2026-07-07.md": 1785372316.6868203,
+    "tcc/papers/Hassabis2025_演化结构可计算_与SDI四规则对照分析.md": 1785372316.7844431,
+    "tcc/papers/SDSoW智能体.md": 1785372317.3537316,
+    "inest/papers/(Nat._Commun._综述)___基于忆阻器的人工神经网络硬件实现_(第二期).md": 1785372318.0790343,
+    "inest/papers/01_复杂系统：复杂科学在研究什么？_-_得到APP.md": 1785372318.403929,
+    "inest/papers/02_复杂性：什么样的系统是复杂系统？_-_得到APP.md": 1785372318.5205493,
+    "inest/papers/AIRA_VJEPA2_iNEST分析_2026-05-23.md": 1785372318.6225777,
+    "inest/papers/FlagOS2026_AIForumPPT_iNEST分析.md": 1785372318.7478983,
+    "inest/papers/iNEST三大平台定位与命名.md": 1785372318.866966,
+    "inest/papers/iNEST开发流程.md": 1785372319.0016494,
+    "inest/papers/iNEST理论实证.md": 1785372319.1589174,
+    "inest/papers/研究建议_TCC×INEST.md": 1785372318.1895347,
+    "inest/papers/研究方向_INEST.md": 1785372318.2807224
+  },
+  "concept_graph": {}
+}

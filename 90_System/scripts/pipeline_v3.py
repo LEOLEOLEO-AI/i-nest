@@ -956,6 +956,33 @@ def main():
     except Exception as e:
         log(f"[Evolution] Warning: {e}")
 
+    # Karpathy wiki compiler — raw/ → wiki/ (articles + concepts + index)
+    try:
+        wiki_script = str(SCRIPT_DIR / "wiki_compiler.py")
+        if os.path.exists(wiki_script):
+            subprocess.run([sys.executable, wiki_script], capture_output=True, timeout=60)
+            log("[Wiki] Karpathy compiler: raw → wiki done")
+    except Exception as e:
+        log(f"[Wiki] Warning: {e}")
+
+    # Cross-domain insight discovery (TCC ↔ iNEST bridges)
+    try:
+        insight_script = str(SCRIPT_DIR / "cross_domain_insight.py")
+        if os.path.exists(insight_script):
+            subprocess.run([sys.executable, insight_script], capture_output=True, timeout=30)
+            log("[Insight] Cross-domain bridges updated")
+    except Exception as e:
+        log(f"[Insight] Warning: {e}")
+
+    # Task recommender — knowledge gaps + research priorities
+    try:
+        rec_script = str(SCRIPT_DIR / "task_recommender.py")
+        if os.path.exists(rec_script):
+            subprocess.run([sys.executable, rec_script], capture_output=True, timeout=30)
+            log("[Tasks] Research recommendations updated")
+    except Exception as e:
+        log(f"[Tasks] Warning: {e}")
+
     # Publish live dashboard data after all state-producing stages complete.
     try:
         publisher = str(SCRIPT_DIR / "research_publisher.py")
