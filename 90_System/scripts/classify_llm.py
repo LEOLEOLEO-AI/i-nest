@@ -1,14 +1,16 @@
 ﻿import os, json, sys, time
 sys.stdout.reconfigure(encoding='utf-8')
 import openai
+from dotenv import load_dotenv
 
 vault = r'D:\Obsidian\vault'
+load_dotenv(os.path.join(vault, '.env'), override=True)
 
 with open(os.path.join(vault, '90_System/scripts/classify_ambiguous.json'), 'r', encoding='utf-8') as f:
     ambiguous = json.load(f)
 
 client = openai.OpenAI(
-    api_key='REDACTED_LEAKED_DEEPSEEK',
+    api_key=os.environ.get('DEEPSEEK_API_KEY', ''),
     base_url='https://api.deepseek.com/v1'
 )
 

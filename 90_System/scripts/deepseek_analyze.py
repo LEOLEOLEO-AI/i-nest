@@ -8,7 +8,7 @@ from datetime import datetime
 from dotenv import load_dotenv
 
 VAULT = Path(r"D:\Obsidian\vault")
-load_dotenv(VAULT / ".env")
+load_dotenv(VAULT / ".env", override=True)
 INBOX = VAULT / "00_Inbox"
 API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 

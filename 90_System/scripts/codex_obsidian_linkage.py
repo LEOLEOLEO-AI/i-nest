@@ -8,7 +8,7 @@ from collections import defaultdict
 # Load .env for API keys
 try:
     from dotenv import load_dotenv
-    load_dotenv(Path(r"D:\Obsidian\vault\.env"))
+    load_dotenv(Path(r"D:\Obsidian\vault\.env"), override=True)
 except ImportError:
     pass
 

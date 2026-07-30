@@ -4,26 +4,34 @@
 **Last Compile**: None
 
 ## Stats
-- **Total Concepts**: 9
+- **Total Concepts**: 113
 - **Total Articles**: 27
-- **Orphan Concepts**: 9
-- **Knowledge Graph Density**: Low
+- **Orphan Concepts**: 104
+- **Knowledge Graph Density**: Medium
 
 ## Orphan Concepts (no incoming links)
-- [[Memristor_based_synaptic_devices]]
-- [[Network_on_Chip_communication_architecture]]
-- [[Chiplet_based_heterogeneous_integration]]
-- [[Software_Defined_Interconnect_bonding_mechanism]]
+- [[InNetworkNeuromorphicSimulation]]
+- [[ScaleFreeNetworks]]
+- [[ReproducibleReservoirDynamics]]
+- [[StandardizedComponent]]
+- [[SDI_TCC_Chiplet_Interconnect]]
+- [[Analog_Computation]]
+- [[In_Network_Neuromorphic_Processing]]
+- [[Contested_Priors_Mechanism]]
+- [[InNetworkNeuromorphicEmergence]]
+- [[Collection_Communication_Diagnostic_Tool]]
 - [[Spiking_neural_network_dynamics]]
-- [[Network_topology_and_interconnection_patterns]]
-- [[Spike_timing_dependent_plasticity_learning_rule]]
-- [[Neuromorphic_computing_architecture]]
-- [[Wafer_scale_integration_and_chip_design]]
+- [[Network_Topology_Design]]
+- [[CorticalTypeDiversity]]
+- [[TopologyCentricEngineeringBase]]
+- [[Alpha_Consistency_Problem]]
+- [[Spiking_Neural_Network]]
+- [[Intelligent_Computing_Infrastructure]]
+- [[Second_Curve_Wafer_Industry_Platform]]
+- [[TemperatureSensitivityControl]]
+- [[Attention_Residuals]]
 
 ## Research Gaps
-- **TCC domain is thin** — need more TCC concept extraction
-- **iNEST domain is thin** — need more iNEST concept extraction
-- **Cross-domain bridges needed** — increase concept extraction from both domains
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each pipeline import

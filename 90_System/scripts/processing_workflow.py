@@ -12,7 +12,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 VAULT = Path(r"D:\Obsidian\vault")
-load_dotenv(VAULT / ".env")
+load_dotenv(VAULT / ".env", override=True)
 PROCESSING = VAULT / "20_Processing"
 KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 client = OpenAI(api_key=KEY, base_url="https://api.deepseek.com/v1")

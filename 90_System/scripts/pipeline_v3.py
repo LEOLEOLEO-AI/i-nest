@@ -21,7 +21,7 @@ sys.path.insert(0, r"D:\\Obsidian\\scripts")
 # Load .env file for API keys
 try:
     from dotenv import load_dotenv
-    load_dotenv(Path(r"D:\Obsidian\vault\.env"))
+    load_dotenv(Path(r"D:\Obsidian\vault\.env"), override=True)
 except ImportError:
     pass  # pip install python-dotenv if needed
 
@@ -990,6 +990,15 @@ def main():
         log("[Dashboard] Live dashboard published")
     except Exception as e:
         log(f"[Dashboard] Publish warning: {e}")
+
+    # Auto-generate Home.md from live data
+    try:
+        home_gen = str(SCRIPT_DIR / "homepage_generator.py")
+        if os.path.exists(home_gen):
+            subprocess.run([sys.executable, home_gen], capture_output=True, text=True, timeout=30, cwd=str(VAULT))
+            log("[Homepage] Home.md auto-refreshed")
+    except Exception as e:
+        log(f"[Homepage] Warning: {e}")
 
 if __name__ == "__main__":
     main()

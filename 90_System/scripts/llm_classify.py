@@ -1,13 +1,15 @@
 ﻿# -*- coding: utf-8 -*-
 """Phase 2: LLM classify ambiguous files + extract insights"""
 
-import json, shutil, time, re
+import json, shutil, time, re, os
 from pathlib import Path
 from openai import OpenAI
 from datetime import datetime
+from dotenv import load_dotenv
 
 VAULT = Path(r"D:\Obsidian\vault")
-API_KEY = "REDACTED_LEAKED_SILICONFLOW"
+load_dotenv(VAULT / ".env", override=True)
+API_KEY = os.environ.get("SILICONFLOW_API_KEY", "")
 BASE_URL = "https://api.siliconflow.cn/v1"
 
 client = OpenAI(api_key=API_KEY, base_url=BASE_URL)

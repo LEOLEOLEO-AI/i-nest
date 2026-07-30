@@ -4,7 +4,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 VAULT = Path(r"D:\Obsidian\vault")
-load_dotenv(VAULT / ".env")
+load_dotenv(VAULT / ".env", override=True)
 content = (VAULT / "30_TCC/31_Theory/tcc_paper_background.md").read_text(encoding="utf-8")
 
 client = OpenAI(api_key=os.environ.get("DEEPSEEK_API_KEY", ""), base_url="https://api.deepseek.com/v1", timeout=60)

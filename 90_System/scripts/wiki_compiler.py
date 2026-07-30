@@ -18,7 +18,7 @@ SCHEMA = WIKI / "schema.md"
 
 # Load from .env
 from dotenv import load_dotenv
-load_dotenv(VAULT / ".env")
+load_dotenv(VAULT / ".env", override=True)
 LLM_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 USE_LLM = bool(LLM_KEY)
 
@@ -153,39 +153,142 @@ def write_article(summary_data):
     return article_path
 
 # ============================================================
-# Phase 3: Concept extraction (lightweight, no LLM required)
+# Phase 3: Concept extraction (keyword + LLM hybrid)
 # ============================================================
 
+# Expanded keyword-concept patterns for baseline coverage
+CONCEPT_PATTERNS = [
+    # TCC — Topology-Centric Computing
+    (r'\b(SDI|Software.Defined.Interconnect)\b', "TCC", "SDI_Bond", "Software-Defined Interconnect bonding mechanism for wafer-scale chip integration"),
+    (r'(wafer.scale|wafer.level|晶圆级)', "TCC", "Wafer_Scale_Integration", "Wafer-scale integration and monolithic chip design"),
+    (r'(chiplet|芯粒|小芯片)', "TCC", "Chiplet_Heterogeneous_Integration", "Chiplet-based heterogeneous integration for modular chip design"),
+    (r'(topolog\w+|拓扑)', "TCC", "Network_Topology_Design", "Network topology and interconnection pattern design"),
+    (r'\b(NoC|Network.on.Chip|片上网络)\b', "TCC", "Network_on_Chip", "Network-on-Chip communication architecture for many-core systems"),
+    (r'(3D.IC|2\.5D|TSV|through.silicon|三维集成)', "TCC", "3D_IC_Stacking", "3D/2.5D integrated circuit stacking and packaging"),
+    (r'(floorplan\w*|布局规划|布图)', "TCC", "Chip_Floorplanning", "Chip floorplanning and physical design optimization"),
+    (r'(routing|布线|路由算法)', "TCC", "Interconnect_Routing", "Interconnect routing algorithms and path optimization"),
+    (r'(SDSoW|Software.Defined.System.on.Wafer)', "TCC", "SDSoW_Architecture", "Software-Defined System-on-Wafer architecture"),
+    (r'(P.Paradigm|拓扑中心计算|topology.centric)', "TCC", "P_Paradigm", "P-Paradigm: topology as a computing primitive"),
+    (r'(bandwidth|带宽|memory.wall|存墙)', "TCC", "Memory_Wall", "Memory wall problem and bandwidth optimization"),
+    (r'(MoE|mixture.of.experts|混合专家)', "TCC", "MoE_Routing", "Mixture-of-Experts routing and load balancing"),
+    
+    # iNEST — In-Network Neuromorphic
+    (r'(neuromorphic|神经形态|类脑)', "iNEST", "Neuromorphic_Computing", "Neuromorphic computing architecture and brain-inspired design"),
+    (r'(spik\w+|脉冲神经|SNN)', "iNEST", "Spiking_Neural_Network", "Spiking neural network dynamics and computation"),
+    (r'\b(STDP|spike.timing.dependent)\b', "iNEST", "STDP_Plasticity", "Spike-timing-dependent plasticity learning rule"),
+    (r'(memristor|忆阻器|RRAM)', "iNEST", "Memristor_Synapse", "Memristor-based synaptic devices for neuromorphic hardware"),
+    (r'(connectome|脑图谱|brain.atlas)', "iNEST", "Brain_Connectome", "Brain connectome and structural network mapping"),
+    (r'(reservoir.comput\w*|储备池)', "iNEST", "Reservoir_Computing", "Reservoir computing and echo state networks"),
+    (r'(criticality|临界|自组织临界)', "iNEST", "Self_Organized_Criticality", "Self-organized criticality in neural systems"),
+    (r'(emergence|涌现|emergent)', "iNEST", "Intelligence_Emergence", "Intelligence emergence from complex system dynamics"),
+    (r'(CST|complex.system|复杂系统)', "iNEST", "Complex_System_Theory", "Complex system theory and nonlinear dynamics"),
+    (r'(nonlinear|非线性|增益)', "iNEST", "Nonlinear_Gain", "Nonlinear gain mechanisms in neural computation"),
+    (r'(ferroelectric|铁电)', "iNEST", "Ferroelectric_Devices", "Ferroelectric materials for neuromorphic devices"),
+    (r'(plasticity|可塑性|adaptive.reconfig)', "iNEST", "Synaptic_Plasticity", "Synaptic plasticity and adaptive reconfiguration"),
+    
+    # Cross-domain
+    (r'(晶上|wafer.on|on.wafer)', "Cross", "Wafer_Scale_Neuromorphic", "Wafer-scale neuromorphic integration"),
+    (r'(存内计算|in.memory.comput\w*|compute.in.memory)', "Cross", "In_Memory_Computing", "In-memory/processing-in-memory computing"),
+    (r'(event.driven|事件驱动)', "Cross", "Event_Driven_Architecture", "Event-driven computing architecture"),
+    (r'(heterogeneous.integrat\w*|异构集成)', "Cross", "Heterogeneous_Integration", "Heterogeneous integration across domains"),
+]
+
+def call_llm(prompt, max_tokens=800):
+    """Call DeepSeek API for concept extraction"""
+    if not USE_LLM:
+        return None
+    try:
+        data = json.dumps({
+            "model": "deepseek-chat",
+            "messages": [{"role": "user", "content": prompt}],
+            "max_tokens": max_tokens,
+            "temperature": 0.3
+        }).encode('utf-8')
+        req = urllib.request.Request(
+            "https://api.deepseek.com/v1/chat/completions",
+            data=data,
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {LLM_KEY}"
+            }
+        )
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            result = json.loads(resp.read().decode('utf-8'))
+            return result["choices"][0]["message"]["content"]
+    except Exception as e:
+        log(f"  LLM call failed: {e}")
+        return None
+
+def extract_concepts_llm(article_text, domain):
+    """Use LLM to extract domain-specific concepts from article text"""
+    prompt = f"""You are a research knowledge compiler for TCC (Topology-Centric Computing) and iNEST (In-Network Neuromorphic) domains.
+
+Given this research article, extract 3-5 key concepts that are NOT generic but specific to this domain. 
+A concept is a technical term, method, architecture component, or theoretical framework.
+
+Domain context: {domain}
+
+Article text (first 2000 chars):
+{article_text[:2000]}
+
+Return ONLY a JSON array of objects with these fields:
+- "name": concise CamelCase name (e.g. "SDI_Bond", "Reservoir_Computing")  
+- "domain": "TCC", "iNEST", or "Cross"
+- "definition": one clear sentence defining the concept
+- "importance": one sentence on why this matters for TCC/iNEST research
+
+Output ONLY the JSON array, no other text."""
+    
+    response = call_llm(prompt, max_tokens=500)
+    if not response:
+        return []
+    
+    try:
+        # Extract JSON from response
+        json_match = re.search(r'\[[\s\S]*\]', response)
+        if json_match:
+            concepts = json.loads(json_match.group())
+            return concepts
+    except:
+        pass
+    return []
+
 def extract_concepts(summary_data, existing_concepts):
-    """Extract concepts from summary using keyword analysis"""
+    """Extract concepts from summary using keyword + LLM hybrid approach"""
     concept_names = []
     text = summary_data["summary"] + " " + " ".join(summary_data["keywords"])
+    domain = summary_data.get("domain", "Cross")
     
-    # Pre-defined concept patterns
-    patterns = [
-        (r'\b(SDI)\b', "TCC", "Software-Defined Interconnect bonding mechanism"),
-        (r'(wafer.scale|晶圆)', "TCC", "Wafer-scale integration and chip design"),
-        (r'(chiplet|芯粒)', "TCC", "Chiplet-based heterogeneous integration"),
-        (r'(topolog\w+|拓扑)', "TCC", "Network topology and interconnection patterns"),
-        (r'(neuromorphic|神经形态)', "iNEST", "Neuromorphic computing architecture"),
-        (r'(spik\w+|脉冲)', "iNEST", "Spiking neural network dynamics"),
-        (r'(STDP)', "iNEST", "Spike-timing-dependent plasticity learning rule"),
-        (r'(memristor|忆阻)', "iNEST", "Memristor-based synaptic devices"),
-        (r'(brain.atlas|脑图谱|connectome)', "iNEST", "Brain connectome and structural mapping"),
-        (r'(NoC|network.on.chip)', "TCC", "Network-on-Chip communication architecture"),
-        (r'(3D.IC|2\.5D)', "TCC", "3D/2.5D integrated circuit packaging"),
-        (r'(ARC.AGI)', "Cross", "Abstraction and Reasoning Corpus for AGI"),
-    ]
+    # Phase A: Keyword pattern matching (fast, no API cost)
+    for pattern, pat_domain, concept_name, definition in CONCEPT_PATTERNS:
+        if re.search(pattern, text, re.IGNORECASE):
+            slug = slugify(concept_name)
+            if slug not in existing_concepts and not any(c["name"] == slug for c in concept_names):
+                concept_names.append({
+                    "name": slug,
+                    "domain": pat_domain,
+                    "definition": definition
+                })
     
-    for pattern, domain, desc in patterns:
-        if re.search(pattern, text, re.IGNORECASE) and any(c not in existing_concepts for c in [slugify(desc.split(' - ')[0])]):
-            concept_names.append({
-                "name": slugify(desc.split(' - ')[0])[:80],
-                "domain": domain,
-                "definition": desc
-            })
+    keyword_count = len(concept_names)
     
-    return concept_names[:5]  # Max 5 new concepts per compile
+    # Phase B: LLM-based extraction for deeper concepts (if enabled and keyword coverage is low)
+    if USE_LLM and len(concept_names) < 3:
+        try:
+            llm_concepts = extract_concepts_llm(text, domain)
+            for lc in llm_concepts:
+                slug = slugify(lc.get("name", ""))
+                if slug and slug not in existing_concepts and not any(c["name"] == slug for c in concept_names):
+                    concept_names.append({
+                        "name": slug,
+                        "domain": lc.get("domain", domain),
+                        "definition": f"{lc.get('definition', '')} {lc.get('importance', '')}"
+                    })
+            log(f"  LLM extracted {len(llm_concepts)} additional concepts (keyword: {keyword_count})")
+        except Exception as e:
+            log(f"  LLM extraction skipped: {e}")
+    
+    return concept_names[:8]  # Max 8 per compile
 
 def write_concept(concept_data):
     """Write concept file to wiki/concepts/"""

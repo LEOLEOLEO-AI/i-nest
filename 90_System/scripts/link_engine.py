@@ -11,7 +11,7 @@ from collections import defaultdict
 from dotenv import load_dotenv
 
 VAULT = Path(r"D:\Obsidian\vault")
-load_dotenv(VAULT / ".env")
+load_dotenv(VAULT / ".env", override=True)
 KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 
 def tokenize(text):

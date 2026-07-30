@@ -15,7 +15,9 @@ FILES = [
     r"D:\Agent\scripts\inest_feed.py",
 ]
 
-OLD_KEY_PREFIX = "REDACTED_LEAKED_SILICONFLOW"
+# 旧密钥已从源码移除并迁入 .env (SILICONFLOW_API_KEY)。
+# 若需重新扫描历史文件中的旧密钥，请在此填入旧值或从环境变量读取，避免明文入库。
+OLD_KEY_PREFIX = os.environ.get("OLD_SILICONFLOW_API_KEY", "<REDACTED_OLD_KEY>")
 NEW_LINE = 'API_KEY = os.environ.get("SILICONFLOW_API_KEY", "")'
 
 def fix_file(filepath, dry_run=True):

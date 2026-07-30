@@ -126,7 +126,7 @@ softmax是跨学科演化的典型范例：同一个数学公式在三个完全�
 [[paper1_iNEST_core_architecture]]
 [[Papers-MOC]]
 - [[Non-ideal_effects_in_artificial_synapses_Nature_Reviews_Physics_2026]]
-- [[getnote_2026-06-19_getnote_2026-06-17_马毅_Yi Ma_UC Berkeley EECS讲座_智能的本质与AI的范式转移__从黑盒工程到第一性原理科学]]
+- [[马毅_Yi Ma_UC Berkeley EECS讲座_智能的本质与AI的范式转移__从黑盒工程到第一性原理科学]]
 - [[GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景]]
 - [[getnote_2026-06-15_能量函数驱动神经网络设计]]
 - [[BDH_brain-inspired_AI_architecture_analysis]]

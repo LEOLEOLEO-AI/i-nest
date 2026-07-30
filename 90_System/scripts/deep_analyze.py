@@ -8,7 +8,7 @@ from datetime import datetime
 from dotenv import load_dotenv
 
 VAULT = Path(r"D:\Obsidian\vault")
-load_dotenv(VAULT / ".env")
+load_dotenv(VAULT / ".env", override=True)
 API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 
 client = OpenAI(api_key=API_KEY, base_url="https://api.deepseek.com/v1", timeout=60)

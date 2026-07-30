@@ -69,3 +69,6 @@ main.toc
 AGENTS.md.bak.*
 MEMORY.md.bak.*
 MEMORY.md.backup_*
+
+# 密钥替换清单(含旧密钥,禁止入库)
+90_System/scripts/key_replacements.txt

@@ -1,14 +1,17 @@
 {
-  "generated": "2026-07-26T08:15:31.306418",
+  "generated": "2026-07-30T11:20:13.529699",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 5612,
-    "inbox_00": 102,
-    "processing_20": 67,
-    "tcc_30": 1880,
-    "inest_40": 1399,
-    "output_50": 487,
-    "moc_60": 35
+    "total_md": 5678,
+    "inbox_00": 104,
+    "processing_20": 79,
+    "tcc_30": 1891,
+    "inest_40": 1431,
+    "output_50": 492,
+    "moc_60": 38,
+    "wiki_articles": 27,
+    "wiki_concepts": 9,
+    "raw_files": 27
   },
   "services": {
     "preview_server_8899": true,
@@ -134,5 +137,6 @@
     "pending_review": 22,
     "approved": 0,
     "promoted": 0
-  }
+  },
+  "_scan_note": "Manual refresh scan"
 }

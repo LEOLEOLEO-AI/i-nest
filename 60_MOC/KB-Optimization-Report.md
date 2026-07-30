@@ -44,12 +44,12 @@ Found 500 orphans with potential connections.
 ### 3. getnote_2025-01-11_晶上产业集群技术路线规划
 - [[秘塔CN结果]] (similarity: 0.15)
 - [[对外展示]] (similarity: 0.15)
-- [[大脑的量子纠缠与信息动力学]] (similarity: 0.14)
+- [[40_iNEST/42_Tech/大脑的量子纠缠与信息动力学]] (similarity: 0.14)
 
 ### 4. getnote_2025-02-04_大脑神经网络连接对功能的直接影响佐证
 - [[秘塔CN结果]] (similarity: 0.17)
 - [[对外展示]] (similarity: 0.17)
-- [[大脑的量子纠缠与信息动力学]] (similarity: 0.16)
+- [[40_iNEST/42_Tech/大脑的量子纠缠与信息动力学]] (similarity: 0.16)
 
 ### 5. getnote_2025-02-04_秘塔CN结果
 - [[秘塔CN结果]] (similarity: 0.33)

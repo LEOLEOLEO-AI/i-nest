@@ -50,8 +50,13 @@ def extract_numbered_tasks(path, markers):
         return []
     lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
     heading = next((line for line in lines if line.startswith("#")), "")
-    if TODAY not in heading:
-        return []
+    # Relax date check — show last available if stale
+    date_match = re.search(r'(\d{4}-\d{2}-\d{2})', heading)
+    if date_match:
+        heading_date = date_match.group(1)
+        # Accept data within last 7 days
+        if (datetime.now() - datetime.strptime(heading_date, "%Y-%m-%d")).days > 7:
+            return []
     tasks, active = [], False
     for raw in lines:
         line = raw.strip()
@@ -113,7 +118,14 @@ def recent_runs():
 def paper_insights():
     insights = {"TCC": [], "iNEST": []}
     inbox = VAULT / "00_Inbox" / "_pipeline_insights"
-    for path in sorted(inbox.glob(f"{TODAY}_*.md"), reverse=True):
+    if not inbox.exists():
+        return insights
+    # Look at most recent 7 days
+    recent_dates = [(datetime.now() - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(7)]
+    for path in sorted(inbox.glob("*.md"), reverse=True):
+        path_date = path.name[:10]
+        if not any(path_date.startswith(d) for d in recent_dates):
+            continue
         text = path.read_text(encoding="utf-8", errors="replace")
         title_match = re.search(r"^#\s+(.+)$", text, re.MULTILINE)
         title = title_match.group(1).strip() if title_match else path.stem
@@ -128,6 +140,8 @@ def paper_insights():
                     "summary": clean_text(match.group(1))[:260],
                     "file": str(path.relative_to(VAULT)).replace("\\", "/"),
                 })
+        if len(insights["TCC"]) >= 5 and len(insights["iNEST"]) >= 5:
+            break
     return {key: value[:5] for key, value in insights.items()}
 
 
@@ -148,12 +162,81 @@ def deliverables():
     return result
 
 
+def wiki_state():
+    """Read wiki evolution state"""
+    wiki = VAULT / "wiki"
+    concepts_dir = wiki / "concepts"
+    articles_dir = wiki / "articles"
+    
+    if not concepts_dir.exists():
+        return {}
+    
+    tcc = inest = cross = 0
+    for f in concepts_dir.glob("*.md"):
+        c = f.read_text(encoding='utf-8')
+        if "**Domain**: TCC" in c:
+            tcc += 1
+        elif "**Domain**: iNEST" in c:
+            inest += 1
+        elif "**Domain**: Cross" in c:
+            cross += 1
+    
+    num_articles = len(list(articles_dir.glob("*.md"))) if articles_dir.exists() else 0
+    
+    # Cross-domain bridges
+    bridges = []
+    bridge_file = wiki / "cross_domain_insights.md"
+    if bridge_file.exists():
+        content = bridge_file.read_text(encoding='utf-8')
+        for block in content.split("### ")[1:]:
+            lines = block.strip().split("\n")
+            if lines and "(Strength:" in lines[0]:
+                name = lines[0].split("(Strength:")[0].strip()
+                try:
+                    strength = int(lines[0].split("Strength:")[1].split(")")[0].strip())
+                except:
+                    strength = 0
+                insight = lines[1] if len(lines) > 1 else ""
+                bridges.append({"name": name, "strength": strength, "insight": insight})
+    
+    # Evolution health
+    health = {"density": "Low", "orphans": 0}
+    health_file = wiki / "health.md"
+    if health_file.exists():
+        hc = health_file.read_text(encoding='utf-8')
+        if "Medium" in hc:
+            health["density"] = "Medium"
+        elif "High" in hc:
+            health["density"] = "High"
+        om = re.search(r'-\s*\*\*Orphan Concepts\*\*:\s*(\d+)', hc)
+        if om:
+            health["orphans"] = int(om.group(1))
+    
+    return {
+        "concepts": {"tcc": tcc, "inest": inest, "cross": cross, "total": tcc + inest + cross},
+        "articles": num_articles,
+        "bridges": bridges[:5],
+        "health": health,
+    }
+
+def pipeline_status():
+    """Read pipeline status"""
+    status_file = VAULT / "60_MOC" / "07_Pipeline_Status.md"
+    if not status_file.exists():
+        return {"status": "unknown", "detail": ""}
+    content = status_file.read_text(encoding='utf-8')
+    status = "running"
+    if "paused" in content.lower():
+        status = "paused"
+    return {"status": status, "detail": content.strip().split('\n')[0] if content else ""}
+
+
 def publish():
     DASHBOARD.mkdir(parents=True, exist_ok=True)
     state = load_json(STATE_FILE, {})
     vault = state.get("vault", {})
     payload = {
-        "schema": "research-dashboard-v1",
+        "schema": "research-dashboard-v2",
         "date": TODAY,
         "generated_at": datetime.now().isoformat(timespec="seconds"),
         "state": {
@@ -165,6 +248,8 @@ def publish():
             "outputs": vault.get("output_50", 0),
             "services": state.get("services", {}),
         },
+        "wiki": wiki_state(),
+        "pipeline": pipeline_status(),
         "task_review": state.get("task_review", {}),
         "plan": current_plan(),
         "progress": recent_runs(),
@@ -176,6 +261,7 @@ def publish():
             "state": "99_Meta/research_state.json",
             "pipeline": "logs/pipeline_*.json",
             "task_review": "60_MOC/05_Task_Review.md",
+            "wiki": "wiki/",
         },
     }
     DATA_FILE.write_text(
