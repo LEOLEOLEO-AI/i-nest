@@ -72,3 +72,6 @@ MEMORY.md.backup_*
 
 # 密钥替换清单(含旧密钥,禁止入库)
 90_System/scripts/key_replacements.txt
+
+# Local neural memory config (contains API key, local-only)
+.neural_memory/
