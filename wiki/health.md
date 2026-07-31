@@ -1,7 +1,7 @@
 # Knowledge Health Report
 
-**Generated**: 2026-07-30
-**Last Compile**: None
+**Generated**: 2026-07-31
+**Last Compile**: 2026-07-30
 
 ## Stats
 - **Total Concepts**: 113
@@ -10,26 +10,26 @@
 - **Knowledge Graph Density**: Medium
 
 ## Orphan Concepts (no incoming links)
-- [[InNetworkNeuromorphicSimulation]]
-- [[ScaleFreeNetworks]]
-- [[ReproducibleReservoirDynamics]]
-- [[StandardizedComponent]]
-- [[SDI_TCC_Chiplet_Interconnect]]
-- [[Analog_Computation]]
-- [[In_Network_Neuromorphic_Processing]]
-- [[Contested_Priors_Mechanism]]
-- [[InNetworkNeuromorphicEmergence]]
-- [[Collection_Communication_Diagnostic_Tool]]
-- [[Spiking_neural_network_dynamics]]
-- [[Network_Topology_Design]]
+- [[Memristor_based_synaptic_devices]]
+- [[Deep_Network_Layer_Stacking]]
 - [[CorticalTypeDiversity]]
-- [[TopologyCentricEngineeringBase]]
-- [[Alpha_Consistency_Problem]]
-- [[Spiking_Neural_Network]]
+- [[Complexity_Emergence]]
+- [[Allreduce_Latency_MVP]]
+- [[ChipletWaferInterconnectTopology]]
+- [[Wafer_scale_integration_and_chip_design]]
+- [[Cognitive_Relapse_Architecture]]
 - [[Intelligent_Computing_Infrastructure]]
-- [[Second_Curve_Wafer_Industry_Platform]]
-- [[TemperatureSensitivityControl]]
-- [[Attention_Residuals]]
+- [[VonNeumann_Complexity_Threshold]]
+- [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+- [[Complex_System_Theory]]
+- [[Analog_Computation]]
+- [[Neuromorphic_computing_architecture]]
+- [[HodgkinHuxleyDynamics]]
+- [[StandardizedComponent]]
+- [[MultiplicativeGain]]
+- [[Network_Spatiotemporal_Synergy]]
+- [[Software_Defined_Interconnect_bonding_mechanism]]
+- [[ScaleFreeNetworks]]
 
 ## Research Gaps
 

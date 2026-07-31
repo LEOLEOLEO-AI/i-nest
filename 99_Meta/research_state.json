@@ -1,30 +1,79 @@
 {
-  "generated": "2026-07-30T11:20:13.529699",
+  "generated": "2026-07-31T08:22:14.509431",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 5678,
-    "inbox_00": 104,
+    "total_md": 5822,
+    "inbox_00": 112,
     "processing_20": 79,
-    "tcc_30": 1891,
-    "inest_40": 1431,
-    "output_50": 492,
-    "moc_60": 38,
-    "wiki_articles": 27,
-    "wiki_concepts": 9,
-    "raw_files": 27
+    "tcc_30": 1890,
+    "inest_40": 1433,
+    "output_50": 494,
+    "moc_60": 35
   },
   "services": {
     "preview_server_8899": true,
-    "jojo_llm_57321": true,
+    "jojo_llm_57321": false,
     "jojo_fixer_57320": false
   },
   "pipeline": {
     "ingested_today": {
-      "today": 0,
-      "total": 102,
-      "recent": []
+      "today": 10,
+      "total": 112,
+      "recent": [
+        {
+          "file": "2026-07-31_arXiv_The Sparsity Ceiling Where Spiking Networks Can and Cannot T.md",
+          "preview": "---\ntitle: \"The Sparsity Ceiling: Where Spiking Networks Can and Cannot Trade Activity for Energy\"\ndate: 2026-07-31\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2607.26648"
+        },
+        {
+          "file": "2026-07-31_arXiv_The Semantic Least-Energy Principle A Hypothesis for Intelli.md",
+          "preview": "---\ntitle: \"The Semantic Least-Energy Principle: A Hypothesis for Intelligence\"\ndate: 2026-07-31\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2607.24287v1\ntags: [inbox, in"
+        },
+        {
+          "file": "2026-07-31_arXiv_Sequence-SOD Bio-inspired Sequence-aware Spiking ObjectDetec.md",
+          "preview": "---\ntitle: \"Sequence-SOD: Bio-inspired Sequence-aware Spiking ObjectDetection for Event Cameras\"\ndate: 2026-07-31\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2607.26703v1"
+        },
+        {
+          "file": "2026-07-31_arXiv_Recycling computational processes of dynamic programming for.md",
+          "preview": "---\ntitle: \"Recycling computational processes of dynamic programming for combinatorial optimization problems: a reservoir computing approach\"\ndate: 2026-07-31\nsource: arXiv\ntrack: iNEST\nauthors: \nyear"
+        },
+        {
+          "file": "2026-07-31_arXiv_Reconstructing Backpropagation from Forward Fluctuations in .md",
+          "preview": "---\ntitle: \"Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks\"\ndate: 2026-07-31\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2607"
+        },
+        {
+          "file": "2026-07-31_arXiv_Photonic reservoir computing with complex networks.md",
+          "preview": "---\ntitle: \"Photonic reservoir computing with complex networks\"\ndate: 2026-07-31\nsource: arXiv\ntrack: General\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2607.23285v1\ntags: [inbox, general, arxiv]\n"
+        },
+        {
+          "file": "2026-07-31_arXiv_Frequency-Based Reservoir computing.md",
+          "preview": "---\ntitle: \"Frequency-Based Reservoir computing\"\ndate: 2026-07-31\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2607.24420v1\ntags: [inbox, inest, arxiv]\ncitations: 0\nreleva"
+        },
+        {
+          "file": "2026-07-31_arXiv_FLASH Efficient Impact Fall Detection with Unified Hypergrap.md",
+          "preview": "---\ntitle: \"FLASH: Efficient Impact Fall Detection with Unified Hypergraph State-Space Model\"\ndate: 2026-07-31\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2607.25791v1\nta"
+        },
+        {
+          "file": "2026-07-31_arXiv_Fault-Tolerant Logical Operations and Efficient State Prepar.md",
+          "preview": "---\ntitle: \"Fault-Tolerant Logical Operations and Efficient State Preparation in Modular Quantum Architectures with Noisy Interfaces\"\ndate: 2026-07-31\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl"
+        },
+        {
+          "file": "2026-07-31_arXiv_An Interaction Sensitivity Framework in Perturbation Space f.md",
+          "preview": "---\ntitle: \"An Interaction Sensitivity Framework in Perturbation Space for the Converter-Driven Stability of Power Systems\"\ndate: 2026-07-31\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http:/"
+        }
+      ]
     },
     "recent_runs": [
+      {
+        "date": "2026-07-31T08:22:14.440940",
+        "new_papers": 10,
+        "api_results": 10,
+        "classified": 0,
+        "graph_nodes": 5822,
+        "graph_edges": 9237,
+        "elapsed_s": 1330.9,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260731_0822.json"
+      },
       {
         "date": "2026-07-26T08:15:31.177256",
         "new_papers": 0,
@@ -90,43 +139,32 @@
         "elapsed_s": 547.2,
         "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
         "_file": "pipeline_20260719_1207.json"
-      },
-      {
-        "date": "2026-07-19T11:38:28.226975",
-        "new_papers": 0,
-        "api_results": 0,
-        "classified": 0,
-        "graph_nodes": 5465,
-        "graph_edges": 8767,
-        "elapsed_s": 745.8,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260719_1138.json"
       }
     ]
   },
   "git": {
-    "uncommitted": 830,
+    "uncommitted": 20,
     "details": [
-      "M .claudian/claudian-settings.json",
-      " M .claudian/sessions/conv-1782222386599-bro3cn93e.meta.json",
-      " M .gitconfig_backup.sh",
-      " M .neural_memory/.env",
-      " M .obsidian/.obsidian-sync-helper-backup/config-history.json",
-      " M .obsidian/app.json",
-      " M .obsidian/community-plugins.json",
-      " M .obsidian/core-plugins.json",
-      " M .obsidian/plugins/homepage/data.json",
-      " M .obsidian/plugins/markitdown/data.json",
-      " M .obsidian/plugins/obsidian-tasks-plugin/data.json",
-      " M .obsidian/plugins/quickadd/data.json",
-      " M .obsidian/plugins/realclaudian/data.json",
-      " D .obsidian/plugins/smart-lookup/manifest.json",
-      " M .obsidian/plugins/wechat-messenger/data.json",
-      " M .obsidian/plugins/wechat-messenger/main.js",
-      " M .obsidian/plugins/wechat-messenger/manifest.json",
-      " M .obsidian/workspace.json",
-      " M .tasks/auto_status.sh",
-      " M .tasks/status.sh"
+      "M 60_MOC/07_Pipeline_Status.md",
+      " M 99_Meta/dedup_index_v2.json",
+      " M 99_Meta/genspark_research_brief.md",
+      " M state/pipeline_guard_status.json",
+      "?? \"00_Inbox/_pipeline_insights/2026-07-31_arXiv_An Interaction Sensitivity Framework in Perturbation Space f.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-07-31_arXiv_FLASH Efficient Impact Fall Detection with Unified Hypergrap.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-07-31_arXiv_Fault-Tolerant Logical Operations and Efficient State Prepar.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-07-31_arXiv_Frequency-Based Reservoir computing.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-07-31_arXiv_Photonic reservoir computing with complex networks.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-07-31_arXiv_Reconstructing Backpropagation from Forward Fluctuations in .md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-07-31_arXiv_Recycling computational processes of dynamic programming for.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-07-31_arXiv_Sequence-SOD Bio-inspired Sequence-aware Spiking ObjectDetec.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-07-31_arXiv_The Semantic Least-Energy Principle A Hypothesis for Intelli.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-07-31_arXiv_The Sparsity Ceiling Where Spiking Networks Can and Cannot T.md\"",
+      "?? \"00_Inbox/getnote_2026-07-31_getnote_1916995724856561752_SDSoW\\346\\216\\245\\345\\217\\243\\346\\240\\207\\345\\207\\206\\350\\257\\204\\345\\256\\241\\346\\204\\217\\350\\247\\201.md\"",
+      "?? \"00_Inbox/getnote_2026-07-31_getnote_1916995861221774744_\\345\\274\\202\\346\\236\\204\\350\\212\\257\\347\\262\\222\\345\\256\\232\\345\\210\\266\\345\\274\\200\\345\\217\\221\\351\\241\\271\\347\\233\\256\\344\\270\\255\\346\\234\\237\\346\\243\\200\\346\\237\\245.md\"",
+      "?? \"00_Inbox/getnote_2026-07-31_getnote_1916996512984109144_\\345\\205\\270\\345\\236\\213\\345\\272\\224\\347\\224\\250\\345\\234\\272\\346\\231\\257\\346\\274\\224\\347\\244\\272\\351\\252\\214\\350\\257\\201\\346\\226\\271\\346\\241\\210\\357\\274\\210\\344\\277\\256\\350\\256\\242\\347\\211\\210\\357\\274\\211.md\"",
+      "?? \"00_Inbox/getnote_2026-07-31_getnote_1917118403083276376_Route\\342\\211\\241Transform\\357\\274\\232\\346\\213\\223\\346\\211\\221\\345\\205\\274\\345\\256\\271\\346\\235\\241\\344\\273\\266\\344\\270\\213\\351\\200\\232\\344\\277\\241\\345\\215\\263\\350\\256\\241\\347\\256\\227\\347\\232\\204\\344\\273\\243\\346\\225\\260\\346\\241\\206\\346\\236\\266\\344\\270\\216\\346\\213\\223\\346\\211\\221\\344\\270\\255\\345\\277\\203\\350\\256\\241\\347\\256\\227\\345\\216\\237\\350\\257\\255\\344\\275\\223\\347\\263\\273.md\"",
+      "?? \"00_Inbox/getnote_2026-07-31_getnote_1917118624271996312_CST\\342\\200\\224iNEST\\342\\200\\224SDDE\\342\\200\\224iMESO \\347\\254\\254\\344\\270\\200\\346\\200\\247\\344\\270\\273\\347\\272\\277.md\"",
+      "?? logs/pipeline_20260731_0822.json"
     ]
   },
   "health": {
@@ -137,6 +175,5 @@
     "pending_review": 22,
     "approved": 0,
     "promoted": 0
-  },
-  "_scan_note": "Manual refresh scan"
+  }
 }

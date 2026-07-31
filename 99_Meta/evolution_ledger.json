@@ -167,7 +167,47 @@
       "file": "00_Inbox\\_pipeline_insights\\2026-07-25_arXiv_Chip Floorplanning Combining Convex and Non-convex Optimizat.md",
       "discovered": "2026-07-25",
       "status": "pending_review"
+    },
+    {
+      "title": "The Sparsity Ceiling: Where Spiking Networks Can and Cannot Trade Activity for Energy",
+      "url": "http://arxiv.org/abs/2607.26648v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-31_arXiv_The Sparsity Ceiling Where Spiking Networks Can and Cannot T.md",
+      "discovered": "2026-07-31",
+      "status": "pending_review"
+    },
+    {
+      "title": "Sequence-SOD: Bio-inspired Sequence-aware Spiking ObjectDetection for Event Cameras",
+      "url": "http://arxiv.org/abs/2607.26703v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-31_arXiv_Sequence-SOD Bio-inspired Sequence-aware Spiking ObjectDetec.md",
+      "discovered": "2026-07-31",
+      "status": "pending_review"
+    },
+    {
+      "title": "Photonic reservoir computing with complex networks",
+      "url": "http://arxiv.org/abs/2607.23285v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-31_arXiv_Photonic reservoir computing with complex networks.md",
+      "discovered": "2026-07-31",
+      "status": "pending_review"
+    },
+    {
+      "title": "FLASH: Efficient Impact Fall Detection with Unified Hypergraph State-Space Model",
+      "url": "http://arxiv.org/abs/2607.25791v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-31_arXiv_FLASH Efficient Impact Fall Detection with Unified Hypergrap.md",
+      "discovered": "2026-07-31",
+      "status": "pending_review"
+    },
+    {
+      "title": "An Interaction Sensitivity Framework in Perturbation Space for the Converter-Driven Stability of Power Systems",
+      "url": "http://arxiv.org/abs/2607.25334v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-07-31_arXiv_An Interaction Sensitivity Framework in Perturbation Space f.md",
+      "discovered": "2026-07-31",
+      "status": "pending_review"
     }
   ],
-  "last_updated": "2026-07-25T08:13:37.942138"
+  "last_updated": "2026-07-31T08:22:14.913635"
 }

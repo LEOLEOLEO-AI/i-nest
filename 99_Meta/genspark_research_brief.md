@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-07-26
-date: 2026-07-26
+title: iNEST+TCC Research Brief - 2026-07-31
+date: 2026-07-31
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-07-26
+# iNEST + TCC Research Brief - 2026-07-31
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,19 +33,19 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-07-25] **getnote_2026-07-23_getnote_1915785437432134712_有机软件系统理论基石：复杂系统、涌现与智能演化深度解析** (root)
-- [2026-07-25] **2026-07-18_OA_Real-time on-device weed identification using a hardware-efficient** (_pipeline_insights)
-- [2026-07-25] **2026-07-19_arXiv_Bosonic SPT and invertible phases and its relation to Steenr** (_pipeline_insights)
-- [2026-07-25] **getnote_2026-07-23_getnote_1916095739155748728_大脑计算新范式** (root)
-- [2026-07-25] **getnote_2026-07-23_getnote_1916058459913254776_NESTformer与iNEST关系** (root)
-- [2026-07-25] **getnote_2026-07-25_getnote_1916605442253532712_AI算力架构革命深度研报：专用ASIC双元哲学挑战英伟达通用GPU** (root)
-- [2026-07-25] **getnote_2026-07-25_getnote_1916603577162462304_2026年7月Nature Communications Conc** (root)
-- [2026-07-25] **getnote_2026-07-25_getnote_1916586746259341512_CST—iNEST—iMESO 总体研究报告** (root)
+- [2026-07-31] **getnote_2026-07-31_getnote_1917118624271996312_CST—iNEST—SDDE—iMESO 第一性主线** (root)
+- [2026-07-31] **getnote_2026-07-31_getnote_1917118403083276376_Route≡Transform：拓扑兼容条件下通信即计算的代数框架** (root)
+- [2026-07-31] **getnote_2026-07-31_getnote_1916996512984109144_典型应用场景演示验证方案（修订版）** (root)
+- [2026-07-31] **getnote_2026-07-31_getnote_1916995861221774744_异构芯粒定制开发项目中期检查** (root)
+- [2026-07-31] **getnote_2026-07-31_getnote_1916995724856561752_SDSoW接口标准评审意见** (root)
+- [2026-07-31] **2026-07-31_arXiv_Photonic reservoir computing with complex networks** (_pipeline_insights)
+- [2026-07-31] **2026-07-31_arXiv_Recycling computational processes of dynamic programming for** (_pipeline_insights)
+- [2026-07-31] **2026-07-31_arXiv_Frequency-Based Reservoir computing** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 5612
-Graph nodes: 5594 | edges: 8941
+Total notes: 5822
+Graph nodes: 5612 | edges: 8950
 
 Top connected topics:
 - **00_iNEST_全景知识图谱** (degree=1182)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-07-26 08:14*
+*Research brief auto-generated 2026-07-31 08:22*

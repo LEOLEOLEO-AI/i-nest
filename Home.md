@@ -4,7 +4,7 @@ cssclass: dashboard
 
 # 🔬 TCC × iNEST 自进化研发中枢
 
-> **知识库状态：活跃** | 管线：⚠️ paused | Git: 830 uncommitted | 更新：2026-07-30 11:47
+> **知识库状态：活跃** | 管线：⚠️ paused | Git: 20 uncommitted | 更新：2026-07-31 08:22
 
 ---
 
@@ -12,10 +12,10 @@ cssclass: dashboard
 
 | 维度 | 数值 | 入口 |
 |---|---|---|
-| 📄 知识库总文件 | **5,806** | [[Home\|根目录/Home]] |
+| 📄 知识库总文件 | **5,822** | [[Home\|根目录/Home]] |
 | 🔬 TCC 资料 | **1,890** | [[30_TCC/TCC_Master_Index\|TCC 主索引]] |
 | 🧠 iNEST 资料 | **1,433** | [[40_iNEST/iNEST_Master_Index\|iNEST 主索引]] |
-| 📥 待处理论文 | **104** | [[00_Inbox/_pipeline_insights\|论文收件箱]] |
+| 📥 待处理论文 | **119** | [[00_Inbox/_pipeline_insights\|论文收件箱]] |
 | ⚙️ 处理中 | **79** | [[20_Processing\|处理区]] |
 | 📤 成果区 | **494** | [[50_Output\|50_Output 成果区]] |
 
@@ -56,7 +56,7 @@ cssclass: dashboard
 >[!tip] 知识库维护
 >- [[wiki/task_recommendations|查看自动推荐任务]]
 >- [[60_MOC/07_Pipeline_Status|管线状态]]：`⚠️ paused`
->- Git：830 uncommitted changes
+>- Git：20 uncommitted changes
 
 **入口**：[[60_MOC/03_Daily_Action|每日行动]] · [[60_MOC/04_Daily_Focus|今日焦点]] · [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html)
 
@@ -154,4 +154,4 @@ Processing → TCC/iNEST → Output
 
 ---
 
-*主页由 homepage_generator.py 自动刷新 | 2026-07-30 11:47*
+*主页由 homepage_generator.py 自动刷新 | 2026-07-31 08:22*
