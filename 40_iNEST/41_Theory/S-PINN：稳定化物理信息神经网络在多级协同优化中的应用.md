@@ -10,6 +10,7 @@ tags:
   - "多级协同优化"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # S-PINN：稳定化物理信息神经网络在多级协同优化中的应用

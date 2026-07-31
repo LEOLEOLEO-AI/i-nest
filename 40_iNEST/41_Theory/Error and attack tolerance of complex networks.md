@@ -5,6 +5,7 @@ source: "openalex"
 tags: [complex networks, robustness, scale-free networks, error tolerance, attack tolerance, network resilience, percolation, hub vulnerability, graph theory, internet topology]
 inest_score: 0.8
 analyzed: 2026-05-30 12:12
+provenance: own
 ---
 
 # Error and attack tolerance of complex networks

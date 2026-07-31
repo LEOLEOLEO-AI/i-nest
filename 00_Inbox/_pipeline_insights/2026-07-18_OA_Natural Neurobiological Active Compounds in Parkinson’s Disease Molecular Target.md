@@ -10,6 +10,7 @@ source: openalex
 query: "C. elegans connectome computation network"
 date: 2026-07-18
 topics: ["Parkinson's Disease Mechanisms and Treatments", 'Biological and pharmacological studies of plants', 'Bioactive Compounds in Plants']
+provenance: external
 ---
 
 # Natural Neurobiological Active Compounds in Parkinson’s Disease: Molecular Targets, Signaling Pathways, and Therapeutic Prospects

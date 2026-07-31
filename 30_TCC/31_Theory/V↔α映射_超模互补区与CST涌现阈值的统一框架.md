@@ -3,6 +3,7 @@ direction: TCC
 title: "V↔α映射 超模互补区与CST涌现阈值的统一框架"
 created: 2026-07-15
 modified: 2026-07-15
+provenance: external
 ---
 ﻿---
 title: "V↔α 映射：超模互补区与CST涌现阈值的统一框架"

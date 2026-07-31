@@ -10,6 +10,7 @@ tags: [inbox, general, arxiv]
 citations: 0
 relevance: 2
 status: inbox
+provenance: external
 ---
 
 # Photonic reservoir computing with complex networks

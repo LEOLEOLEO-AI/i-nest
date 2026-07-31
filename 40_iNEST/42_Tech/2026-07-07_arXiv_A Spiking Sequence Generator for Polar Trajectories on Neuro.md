@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 3
 status: inbox
+provenance: external
 ---
 
 # A Spiking Sequence Generator for Polar Trajectories on Neuromorphic Hardware

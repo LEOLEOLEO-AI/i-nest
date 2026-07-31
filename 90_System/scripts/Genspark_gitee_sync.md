@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Genspark → Gitee → Obsidian 自动同步流程
 ## iNEST 研究知识库的 OpenClaw/Genspark 集成管道
 

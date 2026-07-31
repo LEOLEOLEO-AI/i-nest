@@ -3,6 +3,7 @@ direction: TCC
 title: "Idea Etched Corcel TCC Comparison"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # Idea：英国（或知名）大模型 ASIC 创业公司与 TCC 架构的深度对比
 

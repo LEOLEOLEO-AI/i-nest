@@ -31,6 +31,7 @@ tags:
 - 标度律
 - physics
 title: kb_paper-ideas_getnote_1903941287724843544_Universal Scaling Laws for Intelligen
+provenance: external
 ---
 
 ## Original Note

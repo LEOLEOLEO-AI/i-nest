@@ -5,6 +5,7 @@ note_id: "1887344795358163784"
 tags:
   - "get-笔记"
   - "default"
+provenance: external
 ---
 
 # 关于学术品牌LOOM

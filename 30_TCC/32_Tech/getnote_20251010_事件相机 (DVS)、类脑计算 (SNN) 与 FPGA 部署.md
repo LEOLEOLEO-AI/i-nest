@@ -11,6 +11,7 @@ source: getnote---
 
 太好了 ✅ 那我就为你写一个 `README.md` **模板**，把整个 **DVS → SNN → FPGA Demo** 项目的安装步骤、依赖和运行方法整理出来。这样你或团队成员可以直接使用和分享。
 
+provenance: external
 ---
 
 # 📘 README.md 模板

@@ -29,6 +29,7 @@ title: Signal Integrity Design and Analysis of Universal Chiplet Interconnect Ex
 track: TCC
 url: https://www.semanticscholar.org/paper/12e0e2de625482f5af45c5f2bb0f59d6082f3fc3
 year: 2023
+provenance: external
 ---
 
 # Signal Integrity Design and Analysis of Universal Chiplet Interconnect Express (UCIe) Channel in Silicon Interposer for Advanced Package

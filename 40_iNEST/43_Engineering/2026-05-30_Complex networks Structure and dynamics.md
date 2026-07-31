@@ -5,6 +5,7 @@ year: 2006
 date: 2026-05-30
 thread: "topology"
 tags: [inspiration, topology, topology, dynamics, foundational]
+provenance: own
 ---
 
 # 💡 Complex networks: Structure and dynamics

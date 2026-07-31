@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# Codex SuperAgent — TCC + iNEST 研发中枢
 
 > 自进化全局规则 v4.5 | 2026-07-14 · 单写者架构

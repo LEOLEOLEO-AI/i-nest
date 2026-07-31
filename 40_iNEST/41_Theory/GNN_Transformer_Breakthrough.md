@@ -3,6 +3,7 @@ title: GNN + Transformer Breakthrough
 date: 2026-07-03
 type: reference
 tags: [GNN, transformer, AI]
+provenance: own
 ---
 
 # GNN + Transformer Breakthrough

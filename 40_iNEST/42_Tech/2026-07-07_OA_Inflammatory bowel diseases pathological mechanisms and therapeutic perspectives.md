@@ -10,6 +10,7 @@ source: openalex
 query: "complex network phase transition emergence"
 date: 2026-07-07
 topics: ['Inflammatory Bowel Disease', 'Gut microbiota and health', 'Barrier Structure and Function Studies']
+provenance: external
 ---
 
 # Inflammatory bowel diseases: pathological mechanisms and therapeutic perspectives

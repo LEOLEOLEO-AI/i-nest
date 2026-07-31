@@ -2,6 +2,7 @@
 date: 2026-06-10
 tags: [iNEST, literature-tracking, web-clip, auto-crawl]
 source: Google News RSS + arXiv (intersectional abs: phrases)
+provenance: external
 ---
 
 # 2026-06-10 iNEST Daily Literature Crawl

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Cloud side setup
 
 1. Copy this folder to the cloud host (example target: `/tmp/trae_bridge_cloud/`).

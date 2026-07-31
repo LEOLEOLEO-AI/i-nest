@@ -5,6 +5,7 @@ source: "openalex"
 tags: [complex_networks, network_theory, emergence, topology, dynamics, survey, foundational]
 inest_score: 0.7
 analyzed: 2026-05-30 12:10
+provenance: own
 ---
 
 # Complex networks: Structure and dynamics

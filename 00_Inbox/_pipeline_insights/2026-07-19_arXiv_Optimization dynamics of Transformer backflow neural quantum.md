@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Optimization dynamics of Transformer backflow neural quantum states for the two-dimensional Hubbard model"
 date: 2026-07-19

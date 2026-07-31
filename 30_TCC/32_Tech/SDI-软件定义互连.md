@@ -10,6 +10,7 @@ tags:
 - software-defined
 - tcc-sdi
 - topology
+provenance: own
 ---
 > iNEST 核心架构利器
 

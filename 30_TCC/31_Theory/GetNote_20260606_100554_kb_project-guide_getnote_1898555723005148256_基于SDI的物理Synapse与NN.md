@@ -35,6 +35,7 @@ tags:
 - hardware
 - physics
 title: kb_project-guide_getnote_1898555723005148256_基于SDI的物理Synapse与NN
+provenance: external
 ---
 
 ## Original Note

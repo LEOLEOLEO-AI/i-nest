@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.03481v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Short-Term Synaptic Plasticity Stabilizes Goal-Conditioned Dynamics in a PFC-Inspired Reservoir Model for Multistep Goal-Directed Action Planning

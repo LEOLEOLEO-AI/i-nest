@@ -5,6 +5,7 @@ year: 2015
 date: 2026-05-30
 thread: "criticality/topology"
 tags: [inspiration, criticality/topology, criticality, network_topology, scale-free, small-world]
+provenance: own
 ---
 
 # 💡 Self-organized criticality in cortical assemblies occurs in concurrent scale-free and small-world networks

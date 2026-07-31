@@ -14,6 +14,7 @@ tags:
 - FPGA
 last_revised: 2026-06-19
 
+provenance: own
 ---
 
 **项目名称：面向晶上拓扑中心计算（TCC）范式的液态硬件FPGA原型验证平台**

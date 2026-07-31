@@ -29,6 +29,7 @@ tags:
 - NGMM
 - physics
 title: kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创
+provenance: external
 ---
 
 ## Original Note

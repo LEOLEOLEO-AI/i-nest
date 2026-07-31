@@ -11,6 +11,7 @@ source: getnote---
 
 Now I have gathered comprehensive information. Let me compile the thorough analysis.
 
+provenance: external
 ---
 
 # WSE SwarmX 网络架构：学术与产业深度分析及万核互连优化方案

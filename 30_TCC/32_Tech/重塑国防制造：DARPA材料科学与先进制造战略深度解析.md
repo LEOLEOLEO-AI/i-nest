@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "科技资讯"
   - "重要"
+provenance: external
 ---
 
 # 重塑国防制造：DARPA材料科学与先进制造战略深度解析

@@ -3,6 +3,7 @@ direction: TCC
 title: "CST Exponential Form Proof 2026-07-07"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # CST 指数形式的严格推导
 # Why e^{αΓst} — Five Independent Derivations

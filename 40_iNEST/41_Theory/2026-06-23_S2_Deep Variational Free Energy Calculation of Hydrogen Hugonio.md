@@ -24,6 +24,7 @@ title: Deep Variational Free Energy Calculation of Hydrogen Hugoniot
 track: iNEST
 url: https://www.semanticscholar.org/paper/2b6af51a937df3579d3ab9d81bef8fdca43a14f4
 year: 2025
+provenance: external
 ---
 
 # Deep Variational Free Energy Calculation of Hydrogen Hugoniot

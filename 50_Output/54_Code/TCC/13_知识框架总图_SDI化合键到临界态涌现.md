@@ -11,6 +11,7 @@ tags:
 - plasticity
 - self-organization
 - simulation
+provenance: external
 ---
 **版本**：v1.0  
 **日期**：2026-03-24  

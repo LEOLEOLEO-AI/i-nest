@@ -12,6 +12,7 @@ tags:
   - Emergence-Bench
   - 开源策略
   - 生态构建
+provenance: external
 ---
 
 # iNEST计算范式：从MVP到产业的五阶段发展路径 v1.0

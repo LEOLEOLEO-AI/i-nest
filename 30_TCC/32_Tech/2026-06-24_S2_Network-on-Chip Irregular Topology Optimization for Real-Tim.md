@@ -8,6 +8,7 @@ year: 2021
 url: https://www.semanticscholar.org/paper/f91bba779fb908309a04b4bc19d45ec945c86a34
 tags: [from-s2, auto-crawl, tcc, classified, tcc]
 status: inbox
+provenance: external
 ---
 
 # Network-on-Chip Irregular Topology Optimization for Real-Time and Non-Real-Time Applications

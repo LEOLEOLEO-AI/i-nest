@@ -4,6 +4,7 @@ direction: TCC
 source: "Genspark"
 date: 2026-07-12
 tags: [tcc, first-principles, genspark-import]
+provenance: external
 ---
 
 # TCC第一性逻辑：核心内涵与架构映射

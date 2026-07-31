@@ -7,6 +7,7 @@ tags:
 - fundamentals
 - neuron
 - neuroscience
+provenance: external
 ---
 > 笔记本: 复杂科学  
 > 创建时间: 2024-06-15  

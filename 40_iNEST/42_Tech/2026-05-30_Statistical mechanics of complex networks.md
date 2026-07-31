@@ -5,6 +5,7 @@ year: 2002
 date: 2026-05-30
 thread: "topology"
 tags: [inspiration, topology, topology, scale-free]
+provenance: own
 ---
 
 # 💡 Statistical mechanics of complex networks

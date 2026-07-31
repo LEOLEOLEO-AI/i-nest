@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 <!-- B0 v7 FINAL | Engineering Special Issue | Pipeline: WILLOSCAR arxiv-survey | 2026-06-17 -->
 <!-- v7 Changes:
   - Fixed [29]: changed from "In preparation" to arXiv preprint with companion paper note

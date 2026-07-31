@@ -3,6 +3,7 @@ direction: TCC
 title: "智能连接：碳原子与Token"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 # 智能连接：碳原子与Token
 

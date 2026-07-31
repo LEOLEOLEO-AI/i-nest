@@ -3,6 +3,7 @@ direction: TCC
 title: " 算力资讯 拆解 NVIDIA 的芯片互联逻辑 Die-to-Die I O 设计的十个关键点"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 【算力资讯】拆解 NVIDIA 的芯片互联逻辑：Die-to-Die I/O 设计的十个关键点
 

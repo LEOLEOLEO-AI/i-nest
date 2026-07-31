@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/2b6af51a937df3579d3ab9d81bef8fdca43a14f4
 citations: 4
 tags: [deep variational free energy, hydrogen Hugoniot, equation of state, warm dense matter, normalizing flow, autoregressive transformer, permutational equivariant flow, classified]
+provenance: external
 ---
 
 # Deep Variational Free Energy Calculation of Hydrogen Hugoniot

@@ -3,6 +3,7 @@ direction: iNEST
 title: "神经形态脉冲大语言模型 NSLLM   李国齐 徐波等NSR"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 神经形态脉冲大语言模型（NSLLM）| 李国齐、徐波等NSR
 

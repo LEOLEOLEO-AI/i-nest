@@ -22,6 +22,7 @@ tags:
 - neuroscience
 - 生物技术
 title: kb_DARPA-research_getnote_1896236682257315368_美国DARPA_生物技术与人类增强_领域深度研究报告_从战场医疗到认
+provenance: external
 ---
 
 ## Original Note

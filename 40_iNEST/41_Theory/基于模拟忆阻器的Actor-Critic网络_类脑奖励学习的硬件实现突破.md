@@ -3,6 +3,7 @@ direction: iNEST
 title: "基于模拟忆阻器的Actor-Critic网络 类脑奖励学习的硬件实现突破"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 基于模拟忆阻器的Actor-Critic网络：类脑奖励学习的硬件实现突破
 

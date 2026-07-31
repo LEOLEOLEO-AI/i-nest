@@ -8,6 +8,7 @@ year: 2026
 url: http://arxiv.org/abs/2606.20558v1
 citations: 
 tags: [from-arxiv, inbox, tcc, electroweak, Z boson, CMS, classified]
+provenance: external
 ---
 
 # Observation of electroweak production of pairs of Z bosons in proton-proton coll

@@ -11,6 +11,7 @@ tags:
 - neuron
 - neuroscience
 - plasticity
+provenance: own
 ---
 ## ——从次临界连通到临界态涌现，实现系统级超线性增益
 

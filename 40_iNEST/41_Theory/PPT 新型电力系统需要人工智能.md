@@ -3,6 +3,7 @@ title: PPT | 新型电力系统需要人工智能
 tags:
 - ai-ml
 - artificial-intelligence
+provenance: own
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-04 18:40

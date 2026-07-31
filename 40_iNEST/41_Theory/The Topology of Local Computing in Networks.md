@@ -6,6 +6,7 @@ tags:
 - literature
 - paper
 - topology
+provenance: external
 ---
 ## 论文核心总结与TCC范式价值分析
 

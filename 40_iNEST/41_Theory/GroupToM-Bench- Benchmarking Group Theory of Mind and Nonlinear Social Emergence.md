@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.04184v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # 2026-06-23 08:04 EDT - GitHub SSH 公钥设置失败诊断 & 修复
 
 ## 【错误信息】

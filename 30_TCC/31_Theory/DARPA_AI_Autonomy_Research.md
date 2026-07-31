@@ -3,6 +3,7 @@ title: DARPA AI and Autonomous Systems Research
 date: 2026-07-03
 type: reference
 tags: [DARPA, AI, military]
+provenance: own
 ---
 
 # DARPA AI and Autonomous Systems Research

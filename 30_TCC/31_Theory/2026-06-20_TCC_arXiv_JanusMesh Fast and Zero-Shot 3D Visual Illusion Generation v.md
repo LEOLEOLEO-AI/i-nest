@@ -8,6 +8,7 @@ year: 2026
 url: http://arxiv.org/abs/2606.20563v1
 citations: 
 tags: [from-arxiv, inbox, tcc, 3D visual illusion, zero-shot, cross-space denoising, classified]
+provenance: external
 ---
 
 # JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Deno

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "General theory of monitored Quantum Reservoir Computing"
 date: 2026-07-19

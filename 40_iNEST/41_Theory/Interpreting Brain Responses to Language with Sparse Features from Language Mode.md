@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.06857v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Interpreting Brain Responses to Language with Sparse Features from Language Models

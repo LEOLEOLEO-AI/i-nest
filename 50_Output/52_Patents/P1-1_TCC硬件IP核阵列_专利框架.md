@@ -5,6 +5,7 @@ tags:
 - patent
 - topology
 - transformer
+provenance: own
 ---
 # Patent P2: Reconfigurable Primitive IP Core Array for TCC
 # 状态：📋 框架完成 | 目标提交：2026年7月（CNIPA）

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # iNEST 知识转化流程指南
 
 ## 🎯 核心原则

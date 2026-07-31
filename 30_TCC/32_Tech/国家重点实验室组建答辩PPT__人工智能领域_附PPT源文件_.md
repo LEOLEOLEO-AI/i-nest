@@ -3,6 +3,7 @@ direction: TCC
 title: "国家重点实验室组建答辩PPT  人工智能领域 附PPT源文件 "
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 国家重点实验室组建答辩PPT——人工智能领域（附PPT源文件）
 

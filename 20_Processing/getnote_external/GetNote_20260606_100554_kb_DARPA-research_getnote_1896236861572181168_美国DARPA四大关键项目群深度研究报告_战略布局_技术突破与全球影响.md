@@ -28,6 +28,7 @@ tags:
 - 人工智能
 - 微电子
 title: kb_DARPA-research_getnote_1896236861572181168_美国DARPA四大关键项目群深度研究报告_战略布局_技术突破与全球影
+provenance: external
 ---
 
 ## Original Note

@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/aed16a41ae6cdca0af18e8d0912b6e12f80005f3
 tags: [from-s2, auto-crawl, tcc, classified, tcc]
 status: inbox
+provenance: external
 ---
 
 # Fast Routing Algorithm for Mask Stitching Region of Ultra Large Wafer Scale Integration

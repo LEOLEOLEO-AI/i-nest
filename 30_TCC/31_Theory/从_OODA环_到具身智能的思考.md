@@ -3,6 +3,7 @@ direction: TCC
 title: "从 OODA环 到具身智能的思考"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 从“OODA环”到具身智能的思考
 

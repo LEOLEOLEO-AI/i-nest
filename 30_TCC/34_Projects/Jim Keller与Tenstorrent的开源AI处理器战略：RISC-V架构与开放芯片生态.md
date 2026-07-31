@@ -10,6 +10,7 @@ tags:
   - "开放芯片架构"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # Jim Keller与Tenstorrent的开源AI处理器战略：RISC-V架构与开放芯片生态

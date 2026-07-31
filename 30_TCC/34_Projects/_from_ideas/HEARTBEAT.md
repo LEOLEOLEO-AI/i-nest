@@ -2,6 +2,7 @@
 title: Workspace Heartbeat
 tags:
 - project-management
+provenance: own
 ---
 - 检查 `copilot/system-prompts/知识库问题标准化系统提示词.md` 是否存在，且 `.obsidian/plugins/copilot/data.json` 的 `defaultSystemPromptTitle` 与之保持一致。
 - 检查 `10_Knowledge/00_导航/Wiki` 是否需要重新生成，重点关注主干目录变更、失效链接、最近新增笔记是否进入 Wiki。

@@ -10,6 +10,7 @@ tags:
   - "PRIME框架"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # PRIME：基于忆阻器的输入感知动态SNN拓扑优化框架

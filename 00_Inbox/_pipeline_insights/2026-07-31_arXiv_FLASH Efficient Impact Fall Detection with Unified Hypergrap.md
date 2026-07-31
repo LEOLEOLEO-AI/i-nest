@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 2
 status: inbox
+provenance: external
 ---
 
 # FLASH: Efficient Impact Fall Detection with Unified Hypergraph State-Space Model

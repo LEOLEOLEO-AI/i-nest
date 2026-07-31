@@ -5,6 +5,7 @@ type: plain_text
 created: 2025-06-25 19:05:37
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # AI双引擎的未来之光

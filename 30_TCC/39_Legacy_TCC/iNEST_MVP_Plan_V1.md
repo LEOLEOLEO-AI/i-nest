@@ -3,6 +3,7 @@ direction: iNEST
 title: "iNEST MVP Plan V1"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # iNEST 研究平台综合进展与MVP落地计划
 **生成日期：2026-04-17 | 维护者：iNEST / 刘勤让**

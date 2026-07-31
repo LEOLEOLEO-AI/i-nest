@@ -10,6 +10,7 @@ tags:
   - "突触器件"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 离子浮栅存储器（IFG）阵列：神经形态计算的高效突触器件解决方案

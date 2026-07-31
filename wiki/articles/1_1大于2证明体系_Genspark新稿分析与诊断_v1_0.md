@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # 1+1大于2证明体系_Genspark新稿分析与诊断_v1.0
 
 **Domain**: TCC

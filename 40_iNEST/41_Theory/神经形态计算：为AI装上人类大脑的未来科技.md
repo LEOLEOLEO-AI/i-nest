@@ -11,6 +11,7 @@ tags:
   - "低功耗AI"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 神经形态计算：为AI装上人类大脑的未来科技

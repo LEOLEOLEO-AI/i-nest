@@ -9,6 +9,7 @@ tags:
   - "小魏博士讲"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # GPT-5帮你精准配真文献

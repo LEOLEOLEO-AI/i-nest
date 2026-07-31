@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/5ecd33890e96cac0f9369f79e0c11f0f1fe94d30
 tags: [ferroelectric, HfZrOx, neuromorphic computing, classified]
 status: inbox
+provenance: external
 ---
 
 # Ferroelectric/Antiferroelectric HfZrOx Artificial Synapses/Neurons for Convolutional Neural Network-Spiking Neural Network Neuromorphic Computing.

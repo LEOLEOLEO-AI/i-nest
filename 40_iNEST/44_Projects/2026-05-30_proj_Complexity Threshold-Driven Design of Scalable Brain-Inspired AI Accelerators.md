@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: project
 status: planning
 tags: [project, inest, project-proposal]
+provenance: own
 ---
 
 # Complexity Threshold-Driven Design of Scalable Brain-Inspired AI Accelerators

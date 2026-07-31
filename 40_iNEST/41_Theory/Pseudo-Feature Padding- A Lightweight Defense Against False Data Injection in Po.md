@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.20415v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Pseudo-Feature Padding: A Lightweight Defense Against False Data Injection in Power Grids

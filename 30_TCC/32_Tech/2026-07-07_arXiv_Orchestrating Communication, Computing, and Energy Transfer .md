@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # Orchestrating Communication, Computing, and Energy Transfer for Wireless-Powered 6G Closed-Loop Controls

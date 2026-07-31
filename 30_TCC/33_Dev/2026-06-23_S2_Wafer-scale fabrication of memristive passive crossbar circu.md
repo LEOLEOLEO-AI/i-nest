@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/b65ecbf8b5278e9f23faddc6702febc02a7c3b1c
 tags: [memristive, crossbar, neuromorphic, wafer-scale, fabrication, classified, tcc]
 status: inbox
+provenance: external
 ---
 
 # Wafer-scale fabrication of memristive passive crossbar circuits for brain-scale neuromorphic computing

@@ -6,6 +6,7 @@ tags:
 - fundamentals
 - paper
 - survey
+provenance: own
 ---
 > 笔记本: 复杂科学  
 > 创建时间: 2024-11-24  

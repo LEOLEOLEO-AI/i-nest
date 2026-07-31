@@ -5,6 +5,7 @@ note_id: "1886466851429459384"
 tags:
   - "get-笔记"
   - "default"
+provenance: own
 ---
 
 # BNN vs ANN

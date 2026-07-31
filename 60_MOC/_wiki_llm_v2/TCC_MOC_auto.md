@@ -4,6 +4,7 @@ date: 2026-07-07
 type: moc
 auto_generated: true
 track: TCC
+provenance: external
 ---
 
 # TCC — Topological Centric Computing

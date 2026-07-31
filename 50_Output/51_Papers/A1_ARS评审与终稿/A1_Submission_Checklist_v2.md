@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # A1 CST Paper — Submission Checklist
 
 > **Target Journal:** Nature Physics / Nature Machine Intelligence  

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Moment-Resolved Readout and Reservoir Diversity in Nonequilibrium Langevin Computing"
 date: 2026-07-19

@@ -10,6 +10,7 @@ tags: [洞察, tcc, 来自s2, classified, tcc]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # Synthesizing A Generalized Brain-inspired Interconnection Network for Large-scale Network-on-chip Systems

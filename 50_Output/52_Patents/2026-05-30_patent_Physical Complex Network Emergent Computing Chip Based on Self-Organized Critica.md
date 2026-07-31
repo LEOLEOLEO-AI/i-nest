@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: patent
 status: ideation
 tags: [patent, inest, complex-networks, criticality, emergence, neuromorphic, chiplet, ai-ml]
+provenance: own
 ---
 
 # Physical Complex Network Emergent Computing Chip Based on Self-Organized Criticality

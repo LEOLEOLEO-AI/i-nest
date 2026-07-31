@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.16196v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # When Confidence Lacks Concepts: Interpretable OOD Detection via Representation Perturbations

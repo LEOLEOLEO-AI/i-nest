@@ -11,6 +11,7 @@ tags:
 - patent
 - plasticity
 - project
+provenance: own
 ---
 - **类型**: plain_text
 - **时间**: 2026-02-20 07:50:24

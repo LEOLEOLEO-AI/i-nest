@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # PDF 全文科研智能处理方案
 
 ## 目标

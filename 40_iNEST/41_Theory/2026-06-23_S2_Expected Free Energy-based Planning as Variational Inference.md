@@ -22,6 +22,7 @@ title: Expected Free Energy-based Planning as Variational Inference
 track: iNEST
 url: https://www.semanticscholar.org/paper/b4f8a1ae399fb801a251ca4f588b8dff259d0314
 year: 2025
+provenance: external
 ---
 
 # Expected Free Energy-based Planning as Variational Inference

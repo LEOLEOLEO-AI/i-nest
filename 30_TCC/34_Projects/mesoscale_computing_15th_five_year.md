@@ -4,6 +4,7 @@ direction: TCC
 source: "Genspark"
 date: 2026-07-12
 tags: [tcc, first-principles, genspark-import]
+provenance: own
 ---
 
 # 介观尺度计算：十五五先进计算发展思考

@@ -3,6 +3,7 @@ direction: TCC
 title: "基于Chiplet的晶圆级处理器架构设计与路径探索"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 # 基于Chiplet的晶圆级处理器架构设计与路径探索
 

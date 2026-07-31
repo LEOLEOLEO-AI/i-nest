@@ -7,6 +7,7 @@ tags:
 - fundamentals
 - large-language-model
 - transformer
+provenance: own
 ---
 **Qinrang Liu (刘勤让)**¹*
 

@@ -11,6 +11,7 @@ source: getnote---
 
 Now I have all the data needed. Let me construct a rigorous, quantitative analysis.
 
+provenance: external
 ---
 
 ## Phase 2 & Phase 3 指标提升的底层逻辑、技术路线与能量可行性严格论证

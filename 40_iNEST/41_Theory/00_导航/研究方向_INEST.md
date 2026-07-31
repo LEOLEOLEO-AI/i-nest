@@ -2,6 +2,7 @@
 type: direction
 tags:
   - inest
+provenance: own
 ---
 
 # 复杂网络智能涌现（iNEST/INEST）

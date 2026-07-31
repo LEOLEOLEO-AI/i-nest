@@ -10,6 +10,7 @@ tags:
 - topology
 - transformer
 - wafer
+provenance: external
 ---
 # Paper B (B5): TCC-16 Minimal Complete Primitive Library for Liquid Hardware
 # 目标：ASPLOS/MICRO 2027 April cycle | 截止：2027年4月15日

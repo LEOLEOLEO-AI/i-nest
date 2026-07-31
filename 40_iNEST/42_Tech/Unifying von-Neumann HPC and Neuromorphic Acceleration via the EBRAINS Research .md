@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.08515v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Unifying von-Neumann HPC and Neuromorphic Acceleration via the EBRAINS Research Infrastructure: A Framework for High-Performance Workflows

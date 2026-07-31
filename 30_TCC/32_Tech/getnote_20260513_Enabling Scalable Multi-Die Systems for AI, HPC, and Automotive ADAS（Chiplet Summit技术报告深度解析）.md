@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "Enabling Scalable Multi-Die Systems for AI, HPC, and Automotive ADAS（Chiplet Summit技术报告深度解析）"
 date: 2026-05-13 00:07:07
 source: "????"

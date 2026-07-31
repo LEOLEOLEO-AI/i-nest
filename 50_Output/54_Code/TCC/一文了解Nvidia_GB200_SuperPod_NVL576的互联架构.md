@@ -2,6 +2,7 @@
 title: 一文了解Nvidia GB200 SuperPod NVL576的互联架构
 tags:
 - chip
+provenance: own
 ---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-08-05  

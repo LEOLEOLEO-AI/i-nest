@@ -5,6 +5,7 @@ note_id: "1899185007654678256"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # iNEST理论实证

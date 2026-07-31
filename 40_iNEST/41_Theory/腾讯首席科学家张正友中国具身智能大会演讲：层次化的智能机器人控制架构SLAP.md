@@ -3,6 +3,7 @@ direction: iNEST
 title: "腾讯首席科学家张正友中国具身智能大会演讲：层次化的智能机器人控制架构SLAP"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # 腾讯首席科学家张正友中国具身智能大会演讲：层次化的智能机器人控制架构SLAP
 

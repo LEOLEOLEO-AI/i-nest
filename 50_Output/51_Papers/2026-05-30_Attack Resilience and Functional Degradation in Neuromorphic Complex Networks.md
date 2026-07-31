@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: paper
 status: draft
 tags: [paper, inest, fault tolerance, network resilience, neuromorphic computing, lesion study]
+provenance: external
 ---
 
 # Attack Resilience and Functional Degradation in Neuromorphic Complex Networks

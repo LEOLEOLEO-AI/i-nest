@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: patent
 status: ideation
 tags: [patent, inest, liquid-neural-networks, drone-navigation, autonomous systems, edge AI, efficient-ai, robotics]
+provenance: own
 ---
 
 # Liquid Neural Network-Based Control System for Autonomous Robotic Navigation

@@ -27,6 +27,7 @@ source: getnote---
 
 ## Original Note
 
+provenance: external
 ---
 note_id: 1911801009156485824
 title: "Codex更新后Computer Use/Chrome插件消失问题深度解决方案"

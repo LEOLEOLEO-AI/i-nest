@@ -3,6 +3,7 @@ direction: TCC
 title: "CST Experiment Alignment Diagnosis"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # iNEST 仿真实验与CST论文对齐诊断报告
 ## 日期：2026-06-07 | 状态：紧急修订

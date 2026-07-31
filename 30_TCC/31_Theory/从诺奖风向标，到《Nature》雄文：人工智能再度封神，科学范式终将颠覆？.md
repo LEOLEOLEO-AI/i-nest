@@ -3,6 +3,7 @@ direction: TCC
 title: "从诺奖风向标，到《Nature》雄文：人工智能再度封神，科学范式终将颠覆？"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 # 从诺奖风向标，到《Nature》雄文：人工智能再度封神，科学范式终将颠覆？
 

@@ -5,6 +5,7 @@ tags:
 - human-enhancement
 - military-strategy
 - cognitive-supremacy
+provenance: own
 ---
 ---
 title: "美国DARPA"生物技术与人类增强"领域深度研究报告：从战场医疗到认知决胜的战略布局"

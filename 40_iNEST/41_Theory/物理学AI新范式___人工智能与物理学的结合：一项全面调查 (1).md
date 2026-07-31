@@ -13,6 +13,7 @@ tags:
 - graph-neural-network
 merged_into: "40_iNEST\41_Theory\物理学AI新范式___人工智能与物理学的结合：一项全面调查.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[40_iNEST\41_Theory\物理学AI新范式___人工智能与物理学的结合：一项全面调查.md]]

@@ -3,6 +3,7 @@ direction: TCC
 title: "人工智能70年 从图灵测试到ChatGPT的进化史"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 人工智能70年：从图灵测试到ChatGPT的进化史
 

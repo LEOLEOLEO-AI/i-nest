@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 # iNEST Patent Priority Filing — Preparation Package
 **Date**: 2026-06-05 | **Status**: Ready for attorney consultation
 

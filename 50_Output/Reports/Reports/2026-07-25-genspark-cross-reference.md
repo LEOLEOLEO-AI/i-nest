@@ -3,6 +3,7 @@ title: "Genspark 第0版报告 vs 一言知心版本：交叉对比分析"
 date: 2026-07-25
 type: cross-reference-report
 tags: [CST, iNEST, iMESO, Genspark, 一言知心, 交叉验证]
+provenance: external
 ---
 
 # Genspark 第0版报告 vs 一言知心版本：交叉对比分析

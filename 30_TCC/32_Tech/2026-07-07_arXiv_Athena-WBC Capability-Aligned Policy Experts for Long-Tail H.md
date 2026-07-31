@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # Athena-WBC: Capability-Aligned Policy Experts for Long-Tail Humanoid Whole-Body Control

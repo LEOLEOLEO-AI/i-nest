@@ -3,6 +3,7 @@ title: "STDP-FEP 梯度下降统一映射"
 date: 2026-07-03
 type: concept
 tags: [iNEST, STDP, FEP, learning]
+provenance: own
 ---
 
 # STDP-FEP 梯度下降统一映射

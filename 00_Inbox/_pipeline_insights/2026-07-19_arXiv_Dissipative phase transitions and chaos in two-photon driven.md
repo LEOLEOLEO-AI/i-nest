@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Dissipative phase transitions and chaos in two-photon driven quantum optomechanics"
 date: 2026-07-19

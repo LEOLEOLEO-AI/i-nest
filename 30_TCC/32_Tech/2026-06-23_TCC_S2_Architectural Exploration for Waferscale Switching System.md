@@ -23,6 +23,7 @@ title: Architectural Exploration for Waferscale Switching System
 track: TCC
 url: https://www.semanticscholar.org/paper/e0300b6ab4a8157af10416c398094465874aabc1
 year: 2025
+provenance: external
 ---
 
 # Architectural Exploration for Waferscale Switching System

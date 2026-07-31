@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: own
 ---
 
 # Astera Labs（ALAB）：AI互连芯片核心厂商业务与护城河分析

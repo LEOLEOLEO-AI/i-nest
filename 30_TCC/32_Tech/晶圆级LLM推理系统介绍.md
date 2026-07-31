@@ -8,6 +8,7 @@ tags:
 - simulation
 - transformer
 - wafer
+provenance: external
 ---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-05-09  

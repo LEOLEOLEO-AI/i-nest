@@ -19,6 +19,7 @@ tags:
   - StrategicProposal
   - TCC-16
 last_revised: 2026-06-19
+provenance: own
 ---
 
 **项目名称：面向拓扑中心计算（TCC）范式的液态硬件FPGA原型验证平台——海河实验室软件定义晶上系统（SDSoW）先导项目**

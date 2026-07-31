@@ -10,6 +10,7 @@ source: openalex
 query: "integrated information causal emergence neural"
 date: 2026-07-07
 topics: ['Digital Transformation in Industry', 'Radiomics and Machine Learning in Medical Imaging', 'Mathematical Biology Tumor Growth']
+provenance: external
 ---
 
 # Digital twins in oncology: From predictive modelling to personalised treatment strategies

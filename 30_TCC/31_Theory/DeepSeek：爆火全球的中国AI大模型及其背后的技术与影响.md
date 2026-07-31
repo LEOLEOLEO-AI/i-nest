@@ -9,6 +9,7 @@ tags:
   - "技术架构"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # DeepSeek：爆火全球的中国AI大模型及其背后的技术与影响

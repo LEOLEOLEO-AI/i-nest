@@ -3,6 +3,7 @@ direction: TCC
 title: "TCC计算范式 从智能算力中心到新一代计算平台的工程落地与生态构建战略规划 v1.0"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿---
 title: "TCC计算范式：从智能算力中心到新一代计算平台的工程落地与生态构建战略规划"

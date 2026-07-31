@@ -5,6 +5,7 @@ author: iNEST 验证中枢
 type: integrity-audit
 phase: D
 tags: [integrity, audit, academic, AGENTS-md]
+provenance: external
 ---
 
 # 学术诚信审计报告

@@ -14,6 +14,7 @@ tags:
 date: 2026-06-27 08:17
 source: GetNotes
 score: 21
+provenance: external
 ---
 
 ## Original Note

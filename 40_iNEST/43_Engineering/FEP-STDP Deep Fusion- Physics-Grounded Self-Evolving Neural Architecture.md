@@ -7,6 +7,7 @@ date: 2026-06-03
 status: 撰写中
 priority: 高
 source: "iNEST_4_工程开发/论文1_FEP-STDP深度融合_框架与专利清单.md"
+provenance: own
 ---
 
 # FEP-STDP Deep Fusion: Physics-Grounded Self-Evolving Neural Architecture

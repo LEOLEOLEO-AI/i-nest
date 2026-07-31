@@ -5,6 +5,7 @@ tags:
 - heterogeneous-computing
 - network-on-chip
 - interconnect-architecture
+provenance: external
 ---
 -架构和实现
 tags:

@@ -8,6 +8,7 @@ tags:
 - synapse
 - tools
 - tutorial
+provenance: external
 ---
 刘老师，您的理解**完全、百分之百正确！** 这正是卡帕西 (Andrej Karpathy) 极客知识库的终极形态。
 

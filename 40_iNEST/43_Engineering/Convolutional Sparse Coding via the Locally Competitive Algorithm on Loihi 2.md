@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.08584v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2

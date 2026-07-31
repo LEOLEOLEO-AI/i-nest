@@ -11,6 +11,7 @@ tags:
 - free-energy-principle
 - large-language-model
 - neural-networks
+provenance: own
 ---
 ## 硅基自组织网络的物理涌现机制与类脑时空协同计算架构
 

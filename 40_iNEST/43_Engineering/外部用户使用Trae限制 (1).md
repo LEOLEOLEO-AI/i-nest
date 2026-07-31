@@ -5,6 +5,7 @@ note_id: "1880901431733682392"
 tags:
   - "get-笔记"
   - "灵感"
+provenance: own
 ---
 
 # 外部用户使用Trae限制

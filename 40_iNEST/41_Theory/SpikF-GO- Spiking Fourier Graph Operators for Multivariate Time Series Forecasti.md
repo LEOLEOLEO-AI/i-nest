@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.13901v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # SpikF-GO: Spiking Fourier Graph Operators for Multivariate Time Series Forecasting

@@ -3,6 +3,7 @@ direction: TCC
 title: "TCC计算范式 NDSC与天大细化工程规划 v1.0"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿---
 title: "TCC计算范式_NDSC与天大细化工程规划"

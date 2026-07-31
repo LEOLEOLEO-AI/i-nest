@@ -7,6 +7,7 @@ tags:
   - intelligence
   - metrics
   - inest
+provenance: own
 ---
 
 **NCL = Neural Computation Law**（神经计算定律）

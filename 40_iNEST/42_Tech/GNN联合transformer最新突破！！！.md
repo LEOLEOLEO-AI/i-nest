@@ -3,6 +3,7 @@ direction: iNEST
 title: "GNN联合transformer最新突破！！！"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # GNN联合transformer最新突破！！！
 

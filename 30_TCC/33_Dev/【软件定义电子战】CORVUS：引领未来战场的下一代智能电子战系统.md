@@ -3,6 +3,7 @@ title: 【软件定义电子战】CORVUS：引领未来战场的下一代智能�
 tags:
 - chiplet
 - web-clip
+provenance: own
 ---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-12-27  

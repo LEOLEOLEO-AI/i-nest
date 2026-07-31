@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "邬江兴院士·三个重点专项项目指南说贴·TCC与iNEST的必然性与发展前景"
 date: 2026-07-08

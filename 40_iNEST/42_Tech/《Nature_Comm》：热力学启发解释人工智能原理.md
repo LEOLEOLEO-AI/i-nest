@@ -3,6 +3,7 @@ direction: iNEST
 title: "《Nature Comm》：热力学启发解释人工智能原理"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 《Nature Comm》：热力学启发解释人工智能原理
 

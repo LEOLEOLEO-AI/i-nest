@@ -11,6 +11,7 @@ tags:
 - emergence
 - large-language-model
 - paper
+provenance: external
 ---
 - **类型**: link
 - **时间**: 2026-02-14 12:29:10

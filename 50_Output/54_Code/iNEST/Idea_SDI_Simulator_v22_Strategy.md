@@ -11,6 +11,7 @@ tags:
 - simulation
 - synapse
 - topology
+provenance: own
 ---
 > **指挥官（刘老师）定调**：
 > 第一阶段（纯理论）：验证 CST 值与物种智能等级的单调性及阈值相变（已完成并在第一篇论文中确立）。

@@ -5,6 +5,7 @@ note_id: "1894575023834986368"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # SDSoW智能体

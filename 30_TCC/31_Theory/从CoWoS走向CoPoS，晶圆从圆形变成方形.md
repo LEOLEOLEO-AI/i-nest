@@ -2,6 +2,7 @@
 
 merged_into: "30_TCC\32_Tech\从CoWoS走向CoPoS，晶圆从圆形变成方形 (2).md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[30_TCC\32_Tech\从CoWoS走向CoPoS，晶圆从圆形变成方形 (2).md]]

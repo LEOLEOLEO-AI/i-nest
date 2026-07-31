@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "学术论文"
   - "重要"
+provenance: external
 ---
 
 # LLMs向AGI演进：递归推理范式与模型架构创新研究

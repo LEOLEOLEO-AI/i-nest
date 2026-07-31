@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "美欧Chiplet技术发展深度研究：从战略布局到技术创新的全景分析"
 date: 2025-12-17 16:43:46
 source: "????"

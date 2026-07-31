@@ -3,6 +3,7 @@ direction: iNEST
 title: "自我进化Agent综述：通往超级智能的进化之路"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 自我进化Agent综述：通往超级智能的进化之路
 

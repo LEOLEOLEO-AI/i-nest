@@ -3,6 +3,7 @@ direction: iNEST
 title: "openworm README"
 created: 2026-07-03
 modified: 2026-07-03
+provenance: own
 ---
 *C. elegans* models in NeuroML and neuroConstruct
 ==============================================

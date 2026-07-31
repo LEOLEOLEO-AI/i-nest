@@ -5,6 +5,7 @@ note_id: "1887799671049586040"
 tags:
   - "get-笔记"
   - "default"
+provenance: own
 ---
 
 # Sandia国家实验室

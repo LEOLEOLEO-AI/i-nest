@@ -15,6 +15,7 @@ sources:
   - 杨玉超_InfoMat_2026 (双铁电栅极可调忆阻器)
   - 潘纲_NSR_2025 (Darwin3类脑芯片)
 tags: [苏州实验室, iNEST, TCC, SDI化合键, 忆阻器, 非线性动态映射, 12nm工艺, 北大杨玉超, 浙大潘纲, Darwin3, 工具链, CST_Symbol_Baseline, 七单位协同]
+provenance: own
 ---
 
 # 苏州实验室 iNEST先导项目指南

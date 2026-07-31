@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 08:48:26
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # AI集群网络隐藏瓶颈深度分析：PCIe Lane对NIC性能的决定性影响

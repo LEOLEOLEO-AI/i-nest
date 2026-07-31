@@ -28,6 +28,7 @@ tags:
 - Tensil
 - network
 title: getnote_1912899989282157824_PyTorch模型FPGA部署全流程_从训练到C语言驱动实现
+provenance: external
 ---
 
 ## Original Note

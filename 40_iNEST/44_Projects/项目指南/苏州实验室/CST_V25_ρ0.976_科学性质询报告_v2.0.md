@@ -3,6 +3,7 @@ direction: iNEST
 title: "CST V25 ρ0.976 科学性质询报告 v2.0"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿---
 title: "CST V25 Spearman ρ=0.976 科学性质询报告 v2.0——含独立统计重算"

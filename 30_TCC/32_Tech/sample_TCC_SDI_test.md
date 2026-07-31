@@ -5,6 +5,7 @@ status: framework
 category: "TCC"
 topic: "TCC CST 仿真验证"
 needs_content: true
+provenance: external
 ---
 
 # sample_TCC_SDI_test

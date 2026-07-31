@@ -7,6 +7,7 @@ tags:
   - allreduce
   - in-network
   - ai
+provenance: external
 ---
 
 # P0-3 网内原生 AI 梯度归约通信加速系统 交底书草稿

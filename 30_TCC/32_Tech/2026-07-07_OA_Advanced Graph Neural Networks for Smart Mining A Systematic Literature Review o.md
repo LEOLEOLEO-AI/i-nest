@@ -10,6 +10,7 @@ source: openalex
 query: "higher-order network simplicial hypergraph dynamics"
 date: 2026-07-07
 topics: ['Advanced Graph Neural Networks', 'Model Reduction and Neural Networks', 'Control and Stability of Dynamical Systems']
+provenance: external
 ---
 
 # Advanced Graph Neural Networks for Smart Mining: A Systematic Literature Review of Equivariant, Topological, Symplectic, and Generative Models

@@ -2,6 +2,7 @@
 title: Strategic Proposal
 tags:
 - project-management
+provenance: own
 ---
 > 占位笔记 | 原文件已迁移
 

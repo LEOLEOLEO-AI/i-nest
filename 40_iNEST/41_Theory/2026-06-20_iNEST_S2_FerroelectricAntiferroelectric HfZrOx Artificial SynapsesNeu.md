@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/5ecd33890e96cac0f9369f79e0c11f0f1fe94d30
 citations: 12
 tags: [ferroelectric, antiferroelectric, HfZrOx, artificial synapse, neuromorphic computing, CNN, SNN, classified]
+provenance: external
 ---
 
 # Ferroelectric/Antiferroelectric HfZrOx Artificial Synapses/Neurons for Convoluti

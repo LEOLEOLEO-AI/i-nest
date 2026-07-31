@@ -2,6 +2,7 @@
 title: 'Why All Deep Learning Architectures Are at Intelligence Level 0: A CST Analysis from CNN to Transformer'
 tags:
 - transformer
+provenance: external
 ---
 ## 1. Title & Target
 **Target:** Nature Electronics / Advanced Materials / Neural Networks

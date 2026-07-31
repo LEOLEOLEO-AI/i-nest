@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: patent
 status: ideation
 tags: [patent, inest, liquid-neural-networks, efficient-ai, drone-navigation, edge-ai, neuromorphic, chiplet]
+provenance: own
 ---
 
 # Hardware-Accelerated Liquid Time-Constant Network with Continuous-Time Adaptation

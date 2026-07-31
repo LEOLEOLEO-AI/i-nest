@@ -10,6 +10,7 @@ tags:
   - "科学发现"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # Kolmogorov-Arnold Networks 2.0 (KAN2.0)：科学发现与AI可解释性的融合范式

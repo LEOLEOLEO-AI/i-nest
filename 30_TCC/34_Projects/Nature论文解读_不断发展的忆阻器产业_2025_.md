@@ -7,6 +7,7 @@ tags:
 - neuron
 - neuroscience
 - paper
+provenance: own
 ---
 - **类型**: link
 - **时间**: 2025-09-22 11:43:17

@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.06268v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Error Analysis of Tr-PINNs Algorithm for 2D Incompressible Navier-Stokes Equations with Non-Homogeneous Boundary Conditions

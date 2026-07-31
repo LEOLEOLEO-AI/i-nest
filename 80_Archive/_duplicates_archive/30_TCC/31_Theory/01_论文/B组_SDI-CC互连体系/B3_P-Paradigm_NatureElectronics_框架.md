@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 # 论文 B3：TCC第三计算范式综述
 # P-Paradigm: Topology-Centric Computing as the Third Computing Paradigm
 # Liquid Hardware and the Path Beyond Neural Computers

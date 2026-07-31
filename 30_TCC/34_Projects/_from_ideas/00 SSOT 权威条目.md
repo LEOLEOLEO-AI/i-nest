@@ -4,6 +4,7 @@ tags:
 - chiplet
 - project
 - project-management
+provenance: own
 ---
 这里放“单一真相源”（SSOT）：
 - 权威定义

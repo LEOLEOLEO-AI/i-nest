@@ -8,6 +8,7 @@ year: 2024
 url: https://www.semanticscholar.org/paper/4eab7d751c1112eb2dce7f626c09db280b0a140f
 tags: [from-s2, auto-crawl, inest, protein engineering, variational free energy, generative model, classified]
 status: inbox
+provenance: external
 ---
 
 # Protein engineering using variational free energy approximation

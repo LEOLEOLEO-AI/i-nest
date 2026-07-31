@@ -10,6 +10,7 @@ tags:
   - "AI数据中心"
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # NVIDIA 2026年AI光学互连技术路线图：共封装硅光子学引领吉瓦级AI工厂

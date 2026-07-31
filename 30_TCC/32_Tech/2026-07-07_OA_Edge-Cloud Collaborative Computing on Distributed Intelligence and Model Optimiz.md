@@ -10,6 +10,7 @@ source: openalex
 query: "free energy principle active inference neural"
 date: 2026-07-07
 topics: ['IoT and Edge/Fog Computing']
+provenance: external
 ---
 
 # Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey

@@ -5,6 +5,7 @@ tags:
 - chip-hardware
 - chiplet
 - semiconductor
+provenance: external
 ---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-06-10  

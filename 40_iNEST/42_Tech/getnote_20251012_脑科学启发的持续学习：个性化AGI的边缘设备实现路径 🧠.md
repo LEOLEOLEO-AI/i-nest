@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "脑科学启发的持续学习：个性化AGI的边缘设备实现路径 🧠"
 date: 2025-10-12 23:26:03
 source: "????"

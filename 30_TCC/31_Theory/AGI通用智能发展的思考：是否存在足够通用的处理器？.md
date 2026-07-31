@@ -3,6 +3,7 @@ direction: TCC
 title: "AGI通用智能发展的思考：是否存在足够通用的处理器？"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # AGI通用智能发展的思考：是否存在足够通用的处理器？
 

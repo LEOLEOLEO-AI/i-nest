@@ -7,6 +7,7 @@ tags:
   - cst
   - theory
   - ssot
+provenance: own
 ---
 
 # ADR: 采用 CST 作为统一理论框架与评价指标

@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-03-15 07:59:47
 source: getnote
 kb: project-guide
+provenance: external
 ---
 
 # 面向万亿参数大模型训练的SDI 软件定义互联 + 网内原生 AI 通信加速系统

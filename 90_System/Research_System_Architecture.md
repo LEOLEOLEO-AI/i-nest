@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # TCC + iNEST 实时研发系统架构
 
 更新日期：2026-07-19

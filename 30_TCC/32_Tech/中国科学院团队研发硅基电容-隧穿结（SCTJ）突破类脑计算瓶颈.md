@@ -10,6 +10,7 @@ tags:
   - "硅基电容-隧穿结（SCTJ）"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 中国科学院团队研发硅基电容-隧穿结（SCTJ）突破类脑计算瓶颈

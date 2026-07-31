@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 # TCC 产品化子工程（`tcc`）设计说明
 
 > 面向后续长期维护：在 `cim-design` 仓库内新建一个“产品化子工程”作为主力代码归宿，顶层包名为 `tcc`。DRBE 与推理（infer）作为两个 workload 共享同一套 TCC 核心层（L1/L2/L3 + RTC + metrics）。

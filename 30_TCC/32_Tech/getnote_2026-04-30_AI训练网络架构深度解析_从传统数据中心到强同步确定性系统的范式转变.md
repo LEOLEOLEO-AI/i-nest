@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 08:50:44
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # AI训练网络架构深度解析：从传统数据中心到强同步确定性系统的范式转变

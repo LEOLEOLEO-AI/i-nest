@@ -10,6 +10,7 @@ source: openalex
 query: "network-on-chip small-world topology optimization"
 date: 2026-07-07
 topics: ['Quantum Computing Algorithms and Architecture', 'Quantum Information and Cryptography']
+provenance: external
 ---
 
 # Integrated error-suppressed pipeline for quantum optimization of nontrivial binary combinatorial optimization problems on gate-model hardware at the 156-qubit scale

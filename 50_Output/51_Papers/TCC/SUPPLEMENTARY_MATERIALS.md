@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Supplementary Materials
 
 ## Topology-Centric Computing: A Thermodynamic Imperative for Sustainable AI Infrastructure

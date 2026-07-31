@@ -22,6 +22,7 @@ tags:
 - hardware
 - chip
 title: getnote_2026-06-19_全球首款MobileNet支持忆阻器存内计算芯片_技术突破与边缘AI应用前景
+provenance: external
 ---
 
 ## Original Note

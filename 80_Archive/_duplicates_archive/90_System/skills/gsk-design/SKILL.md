@@ -11,6 +11,7 @@ metadata:
     bins:
     - gsk
   cliHelp: gsk design --help
+provenance: external
 ---
 
 # gsk-design

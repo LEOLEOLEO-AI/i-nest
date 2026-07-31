@@ -6,6 +6,7 @@ tags:
 - embodied-ai
 - large-language-model
 - robotics
+provenance: own
 ---
 - **笔记本**: 我的剪藏
 - **时间**: 2026-03-15 00:19

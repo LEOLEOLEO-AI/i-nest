@@ -10,6 +10,7 @@ tags:
 - neuroscience
 - synapse
 - topology
+provenance: own
 ---
 在计算生成式结构计算理论 (CST) 的核心公式 $I \propto \exp(\alpha \cdot \Gamma_{st})$ 时，**时空协同指数 ($\Gamma_{st}$)** 是决定智能涌现的最关键变量。它衡量的是网络**物理结构**与**功能动力学**之间的非线性对齐程度。
 

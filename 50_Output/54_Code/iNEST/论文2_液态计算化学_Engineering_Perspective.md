@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 ﻿# 论文二：液态计算化学——软件定义互连作为可演化化合键
 
 ## Engineering Perspective 格式

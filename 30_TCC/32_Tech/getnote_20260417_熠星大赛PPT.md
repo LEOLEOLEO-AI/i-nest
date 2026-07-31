@@ -11,6 +11,7 @@ source: getnote---
 
 现在我已经收集了足够的数据，让我给出系统性的PPT修订方案。
 
+provenance: external
 ---
 
 # PPT修订诊断与重构方案

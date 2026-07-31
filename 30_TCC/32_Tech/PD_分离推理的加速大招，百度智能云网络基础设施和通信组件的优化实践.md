@@ -3,6 +3,7 @@ direction: TCC
 title: "PD 分离推理的加速大招，百度智能云网络基础设施和通信组件的优化实践"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # PD 分离推理的加速大招，百度智能云网络基础设施和通信组件的优化实践
 

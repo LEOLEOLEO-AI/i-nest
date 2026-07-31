@@ -21,6 +21,7 @@ source: getnote---
 
 基于对类脑计算工具链与硬件实现技术的综合分析，结合最新研究进展与工程实践，现将Brain2、SNNGrow工具生态及异步电路开发方案系统阐述如下：
 
+provenance: external
 ---
 
 ### 一、Brain2与SNNGrow的协同关系 

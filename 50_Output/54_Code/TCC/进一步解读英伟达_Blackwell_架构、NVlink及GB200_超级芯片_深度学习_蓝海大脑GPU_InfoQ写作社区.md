@@ -7,6 +7,7 @@ tags:
 - deep-learning
 - large-language-model
 - transformer
+provenance: external
 ---
 > 笔记本: 技术学习  
 > 创建时间: 2024-06-07  

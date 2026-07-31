@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 <!-- B0 v6 Submission | Engineering Special Issue | 2026-06-17 -->
 # From von Neumann to Network-Centric: A Scoping Review of the Computing Paradigm Migration toward Sustainable Intelligent Computing
 

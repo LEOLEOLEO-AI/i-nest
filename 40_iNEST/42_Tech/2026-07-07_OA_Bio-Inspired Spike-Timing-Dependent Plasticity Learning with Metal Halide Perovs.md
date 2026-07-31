@@ -10,6 +10,7 @@ source: openalex
 query: "neuromorphic spiking neural network memristor"
 date: 2026-07-07
 topics: ['Advanced Memory and Neural Computing', 'Perovskite Materials and Applications', 'Neural Networks and Reservoir Computing']
+provenance: external
 ---
 
 # Bio-Inspired Spike-Timing-Dependent Plasticity Learning with Metal Halide Perovskites: Toward Artificial Synaptic Functionality

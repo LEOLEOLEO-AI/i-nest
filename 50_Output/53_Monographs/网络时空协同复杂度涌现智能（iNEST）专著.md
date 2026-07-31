@@ -9,6 +9,7 @@ priority: 高
 chapters: 4章已完成
 target: 2026 Q3 完成全稿
 source: "D:\inest\专著\iNEST\iNEST理论（专著）.pdf"
+provenance: own
 ---
 
 # 网络时空协同复杂度涌现智能（iNEST）专著

@@ -5,6 +5,7 @@ priority: P0
 assignee: 学生A
 date: 2026-06-16
 tags: [patent, tcc, sdi, sdio-n, 拓扑中心计算]
+provenance: own
 ---
 
 # 专利A：面向拓扑中心计算的软件定义互连系统架构及调度方法

@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 2
 status: inbox
+provenance: external
 ---
 
 # Online Data Reduction with Spiking Neural Networks: A Temporal-Coincidence Encoder and Distributed SNN for the ePIC dRICH Detector

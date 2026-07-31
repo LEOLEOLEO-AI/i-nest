@@ -10,6 +10,7 @@ source: openalex
 query: "chiplet wafer-scale interconnect topology routing"
 date: 2026-07-18
 topics: ['3D IC and TSV technologies', 'Silicon and Solar Cell Technologies', 'Advancements in Semiconductor Devices and Circuit Design']
+provenance: external
 ---
 
 # Unifying Heterogeneous and Monolithic Integration via Dual-sided 3D Technology

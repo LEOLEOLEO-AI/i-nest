@@ -3,6 +3,7 @@ title: 'Paper A (B7): Route≡Transform: A Unified Algebraic Theory of Communica
 tags:
 - large-language-model
 - transformer
+provenance: external
 ---
 # 目标：ASPLOS 2027 September cycle | 截止：2026年9月9日
 

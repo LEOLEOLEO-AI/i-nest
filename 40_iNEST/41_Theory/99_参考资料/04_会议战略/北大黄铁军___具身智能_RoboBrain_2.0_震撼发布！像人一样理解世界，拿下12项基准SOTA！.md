@@ -3,6 +3,7 @@ direction: iNEST
 title: "北大黄铁军   具身智能 RoboBrain 2.0 震撼发布！像人一样理解世界，拿下12项基准SOTA！"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 北大黄铁军 | 具身智能 RoboBrain 2.0 震撼发布！像人一样理解世界，拿下12项基准SOTA！
 

@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "BNN vs ANN"
 date: 2025-09-03 22:19:25
 source: "????"

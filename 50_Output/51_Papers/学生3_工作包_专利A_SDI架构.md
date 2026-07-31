@@ -3,6 +3,7 @@ title: "学生3 工作包 — SDI系统架构专利"
 assignee: 学生3
 deadline: 2026-07-31
 date: 2026-06-16
+provenance: external
 ---
 
 # 学生3 工作包：SDI系统架构专利

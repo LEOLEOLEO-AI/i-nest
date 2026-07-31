@@ -7,6 +7,7 @@ date: 2026-06-03
 status: 撰写中
 priority: 高
 source: "03_Topics/Concepts-Theory/08_STDP-FEP梯度下降统一映射.md"
+provenance: own
 ---
 
 # STDP-FEP梯度下降统一映射：脉冲时间依赖可塑性与自由能原理的数学桥接

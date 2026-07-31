@@ -10,6 +10,7 @@ source: openalex
 query: "edge of chaos reservoir computing dynamics"
 date: 2026-07-07
 topics: ['Advanced Memory and Neural Computing', 'Ferroelectric and Negative Capacitance Devices', 'Transition Metal Oxide Nanomaterials']
+provenance: external
 ---
 
 # An energy-efficient NbO <sub> <i>x</i> </sub> /ZrO <sub>2</sub> bilayer memristor enabling low-voltage multilevel switching for neuromorphic computing

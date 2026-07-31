@@ -3,6 +3,7 @@ title: 华为刘少伟：“IPv6+”智能云网，构建算力时代的联接�
 tags:
 - software-defined
 - tcc-sdi
+provenance: own
 ---
 > 笔记本: 微信  
 > 创建时间: 2022-04-17  

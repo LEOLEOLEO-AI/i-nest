@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.12835v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # The Internet of Agentic AI: Communication, Coordination, and Collective Intelligence at Scale

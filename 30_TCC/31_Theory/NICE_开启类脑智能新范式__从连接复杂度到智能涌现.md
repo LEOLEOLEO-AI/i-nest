@@ -3,6 +3,7 @@ direction: TCC
 title: "NICE 开启类脑智能新范式  从连接复杂度到智能涌现"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # NICE：开启类脑智能新范式——从连接复杂度到智能涌现
 

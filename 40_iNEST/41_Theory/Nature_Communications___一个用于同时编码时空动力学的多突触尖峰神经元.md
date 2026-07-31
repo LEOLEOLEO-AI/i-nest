@@ -3,6 +3,7 @@ direction: iNEST
 title: "Nature Communications   一个用于同时编码时空动力学的多突触尖峰神经元"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Nature Communications | 一个用于同时编码时空动力学的多突触尖峰神经元
 

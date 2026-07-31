@@ -5,6 +5,7 @@ type: plain_text
 created: 2025-09-10 16:57:53
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # ResNEST论文修订

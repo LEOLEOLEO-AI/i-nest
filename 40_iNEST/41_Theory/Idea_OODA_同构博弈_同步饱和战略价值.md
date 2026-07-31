@@ -3,6 +3,7 @@ direction: iNEST
 title: "Idea OODA 同构博弈 同步饱和战略价值"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿# Idea: 同构博弈中 OODA 环的同步饱和 —— 战略价值分析
 

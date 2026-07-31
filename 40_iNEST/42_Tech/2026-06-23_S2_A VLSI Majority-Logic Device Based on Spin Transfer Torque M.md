@@ -24,6 +24,7 @@ title: A VLSI Majority-Logic Device Based on Spin Transfer Torque Mechanism for 
 track: iNEST
 url: https://www.semanticscholar.org/paper/a1b1112fc9dd78b9839aa016d2eafa1662fddf4a
 year: 2020
+provenance: external
 ---
 
 # A VLSI Majority-Logic Device Based on Spin Transfer Torque Mechanism for Brain-Inspired Computing Architecture

@@ -3,6 +3,7 @@ direction: TCC
 title: "B3 P-Paradigm NatureElectronics 框架"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # 论文 B3：TCC第三计算范式综述
 # P-Paradigm: Topology-Centric Computing as the Third Computing Paradigm

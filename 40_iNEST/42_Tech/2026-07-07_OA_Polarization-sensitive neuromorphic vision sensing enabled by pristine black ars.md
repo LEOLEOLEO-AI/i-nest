@@ -10,6 +10,7 @@ source: openalex
 query: "neuromorphic spiking neural network memristor"
 date: 2026-07-07
 topics: ['Advanced Memory and Neural Computing', 'Neural Networks and Reservoir Computing', 'Ferroelectric and Negative Capacitance Devices']
+provenance: external
 ---
 
 # Polarization-sensitive neuromorphic vision sensing enabled by pristine black arsenic-phosphorus

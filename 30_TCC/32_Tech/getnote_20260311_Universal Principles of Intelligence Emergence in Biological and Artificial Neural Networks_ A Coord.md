@@ -13,6 +13,7 @@ source: getnote---
 
 这是一个**非常务实**的决策！让我重新聚焦当前任务：
 
+provenance: external
 ---
 
 ## **Phase 1：完善CST理论 + 数据验证（当前论文）**

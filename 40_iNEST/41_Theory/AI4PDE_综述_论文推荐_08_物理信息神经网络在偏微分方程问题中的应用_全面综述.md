@@ -3,6 +3,7 @@ direction: iNEST
 title: "AI4PDE 综述 论文推荐 08 物理信息神经网络在偏微分方程问题中的应用 全面综述"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述
 

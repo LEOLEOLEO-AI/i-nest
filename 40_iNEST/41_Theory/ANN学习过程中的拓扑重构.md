@@ -3,6 +3,7 @@ title: "ANN 学习过程中的拓扑重构"
 date: 2026-07-03
 type: concept
 tags: [ANN, topology, learning, plasticity]
+provenance: own
 ---
 
 # ANN 学习过程中的拓扑重构

@@ -10,6 +10,7 @@ source: openalex
 query: "C. elegans connectome computation network"
 date: 2026-07-07
 topics: ['Neurobiology and Insect Physiology Research', 'Sleep and Wakefulness Research', 'Circadian rhythm and melatonin']
+provenance: external
 ---
 
 # Sleep regulation in Drosophila: a review of neural circuits and genetics

@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 ﻿---
 title: iNEST 项目指南：CST 与智涌脑代际路线（2035 修订版）
 status: review

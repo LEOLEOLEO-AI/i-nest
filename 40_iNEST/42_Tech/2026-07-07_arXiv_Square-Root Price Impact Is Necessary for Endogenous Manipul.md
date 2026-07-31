@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 2
 status: inbox
+provenance: external
 ---
 
 # Square-Root Price Impact Is Necessary for Endogenous Manipulation Cycles in Learning-Agent Markets

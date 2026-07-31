@@ -3,6 +3,7 @@ direction: iNEST
 title: " Nature Commun  模拟芯片告别 调参地狱  自适应E I可塑性让硬件自动 愈合  鲁棒工作记忆实测达成"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # [Nature Commun] 模拟芯片告别“调参地狱”！自适应E/I可塑性让硬件自动“愈合”，鲁棒工作记忆实测达成
 

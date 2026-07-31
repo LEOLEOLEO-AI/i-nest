@@ -5,6 +5,7 @@ tags:
 - patent
 - project
 - topology
+provenance: own
 ---
 ﻿﻿---
 type: adr

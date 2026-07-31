@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # 2026-06-23 07:25 EDT - Genspark 双远程同步配置完成
 
 ## 【配置指令】

@@ -10,6 +10,7 @@ source: openalex
 query: "photonic interconnect silicon photonics network"
 date: 2026-07-07
 topics: ['Microfluidic and Bio-sensing Technologies', 'Orbital Angular Momentum in Optics', 'Near-Field Optical Microscopy']
+provenance: external
 ---
 
 # Flexible, stretchable, on-chip optical tweezers for high-throughput bioparticle manipulation

@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 2
 status: inbox
+provenance: external
 ---
 
 # Target-Aware Interaction-Guided Reinforcement Learning for Black-Box Node Injection Attacks on Graph Neural Networks

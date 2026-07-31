@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.05349v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Opinion dynamics on social proximity disordered networks

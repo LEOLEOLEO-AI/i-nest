@@ -9,6 +9,7 @@ tags:
 - neuroscience
 - plasticity
 - synapse
+provenance: own
 ---
 ## 1. 发明名称
 基于自由能原理（FEP）与脉冲时序依赖可塑性（STDP）的神经形态芯片资源分配方法及系统

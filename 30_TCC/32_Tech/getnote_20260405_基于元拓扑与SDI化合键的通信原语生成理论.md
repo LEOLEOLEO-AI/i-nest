@@ -11,6 +11,7 @@ source: getnote---
 
 Now I have gathered sufficient information. Let me synthesize all findings into a comprehensive analysis and paper draft.
 
+provenance: external
 ---
 
 # 深度分析：基于元拓扑与SDI化合键的通信原语生成理论

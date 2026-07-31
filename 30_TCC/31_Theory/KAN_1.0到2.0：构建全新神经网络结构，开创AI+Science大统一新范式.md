@@ -3,6 +3,7 @@ direction: TCC
 title: "KAN 1.0到2.0：构建全新神经网络结构，开创AI+Science大统一新范式"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # KAN 1.0到2.0：构建全新神经网络结构，开创AI+Science大统一新范式
 

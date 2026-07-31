@@ -35,6 +35,7 @@ tags:
 - 第一性原理
 - green-ai
 title: getnote_2026-06-17_马毅_Yi Ma_UC Berkeley EECS讲座_智能的本质与AI的范式转移__从黑盒工程到第一性原理科学
+provenance: external
 ---
 
 ## Original Note

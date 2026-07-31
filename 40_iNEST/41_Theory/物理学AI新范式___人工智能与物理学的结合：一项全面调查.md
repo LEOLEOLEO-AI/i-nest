@@ -3,6 +3,7 @@ direction: iNEST
 title: "物理学AI新范式   人工智能与物理学的结合：一项全面调查"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 物理学AI新范式 | 人工智能与物理学的结合：一项全面调查
 

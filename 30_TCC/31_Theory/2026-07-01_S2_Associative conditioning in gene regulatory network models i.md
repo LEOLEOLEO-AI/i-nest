@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 2
 status: 洞察
+provenance: external
 ---
 
 # Associative conditioning in gene regulatory network models increases integrative causal emergence

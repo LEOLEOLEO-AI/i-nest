@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 08:48:45
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # AI集群通信全栈测试方法论：从物理链路到NCCL的逐层验证体系

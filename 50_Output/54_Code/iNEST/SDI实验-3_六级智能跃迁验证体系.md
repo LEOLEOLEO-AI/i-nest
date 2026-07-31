@@ -3,6 +3,7 @@ title: SDI实验-3：六级智能跃迁验证体系（已完成）
 tags: [sdi-experiment, intelligence-hierarchy, emergence, verification, inest, completed]
 date: 2026-06-05
 modified: 2026-06-05
+provenance: own
 ---
 
 > 基于 V30 功能涌现 + V31 群体涌现 + V32 通信桥接，六级智能跃迁全链路实验验证完成

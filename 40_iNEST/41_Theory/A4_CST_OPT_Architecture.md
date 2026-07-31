@@ -4,6 +4,7 @@ tags:
 - ai-ml
 - artificial-intelligence
 - attention-mechanism
+provenance: own
 ---
 ## 1. Title & Target
 **Target:** NeurIPS 2026 / ICLR 2026

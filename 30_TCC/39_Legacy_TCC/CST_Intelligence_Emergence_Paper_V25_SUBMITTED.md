@@ -3,6 +3,7 @@ direction: TCC
 title: "CST Intelligence Emergence Paper V25 SUBMITTED"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 **V25-SUBMITTED | 2026-07-09 | Results+Discussion集成版 | 投稿就绪**
 

@@ -3,6 +3,7 @@ tags:
 - neuromorphic-computing
 - ai-revolution
 - scaling-up
+provenance: external
 ---
 ---
 title: "Nature 2025综述深度解析：神经形态计算的规模化革命与"AlexNet时刻"前瞻"

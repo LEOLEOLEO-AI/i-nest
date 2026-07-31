@@ -10,6 +10,7 @@ source: openalex
 query: "chiplet wafer-scale interconnect topology routing"
 date: 2026-07-07
 topics: ['Neural Networks and Reservoir Computing', 'Photonic and Optical Devices', 'Photonic Crystals and Applications']
+provenance: external
 ---
 
 # Inverse-designed nanophotonic neural network accelerators for ultra-compact optical computing

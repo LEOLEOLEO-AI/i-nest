@@ -3,6 +3,7 @@ direction: iNEST
 title: "神经形态计算 为AI装上人类大脑的未来科技"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 神经形态计算：为AI装上人类大脑的未来科技
 

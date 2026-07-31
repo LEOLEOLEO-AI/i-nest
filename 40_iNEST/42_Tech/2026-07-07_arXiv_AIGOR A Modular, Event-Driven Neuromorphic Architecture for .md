@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 2
 status: inbox
+provenance: external
 ---
 
 # AIGOR: A Modular, Event-Driven Neuromorphic Architecture for Configurable SNN Inference

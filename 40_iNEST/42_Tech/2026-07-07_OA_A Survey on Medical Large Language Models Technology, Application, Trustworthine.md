@@ -10,6 +10,7 @@ source: openalex
 query: "integrated information causal emergence neural"
 date: 2026-07-07
 topics: ['Machine Learning in Healthcare', 'Artificial Intelligence in Healthcare and Education']
+provenance: external
 ---
 
 # A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions

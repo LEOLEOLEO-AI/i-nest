@@ -10,6 +10,7 @@ tags:
   - "脉冲计算"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # SpikingBrain-1.0：类脑脉冲大模型的革命性突破 🔬

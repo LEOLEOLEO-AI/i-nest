@@ -7,6 +7,7 @@ tags:
 - simulation
 status: expanded-draft
 target: IEEE TPDS / ICS 2027 / HPCA 2027
+provenance: external
 ---
 
 # Complete Physical Topology Mapping for Collective Communication Primitives: A CST-Optimal Framework for Network-Centric Computing

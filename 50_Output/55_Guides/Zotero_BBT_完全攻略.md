@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# Zotero + Better BibTeX 完整使用攻略
 
 > TCC iNEST 论文撰写管线 | 2026-07-15

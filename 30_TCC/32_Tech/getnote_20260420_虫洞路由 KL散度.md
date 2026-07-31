@@ -11,6 +11,7 @@ source: getnote---
 
 现在我有了充足的素材，来为您撰写两集高质量的播客脚本。
 
+provenance: external
 ---
 
 # 🎙️ 播客第一集：虫洞路由（Wormhole Routing）

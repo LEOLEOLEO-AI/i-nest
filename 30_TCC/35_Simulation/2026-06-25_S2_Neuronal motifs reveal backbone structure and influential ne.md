@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # Neuronal motifs reveal backbone structure and influential neurons of neural network in C. elegans

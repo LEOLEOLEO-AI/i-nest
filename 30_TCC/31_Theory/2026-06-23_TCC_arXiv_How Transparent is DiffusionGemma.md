@@ -22,6 +22,7 @@ title: How Transparent is DiffusionGemma?
 track: TCC
 url: http://arxiv.org/abs/2606.20560v1
 year: 2026
+provenance: external
 ---
 
 # How Transparent is DiffusionGemma?

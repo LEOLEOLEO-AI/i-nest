@@ -3,6 +3,7 @@ direction: iNEST
 title: "深度学习新动向！液态神经网络拿下Nature子刊，19个神经元驾驶一辆车！"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # 深度学习新动向！液态神经网络拿下Nature子刊，19个神经元驾驶一辆车！
 

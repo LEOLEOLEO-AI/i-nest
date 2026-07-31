@@ -11,6 +11,7 @@ source: getnote---
 
 现在我已经完整遍历了 Obsidian 主工作区的全部核心内容。以下是基于完整资料的系统性总结。
 
+provenance: own
 ---
 
 ## iNEST 智能涌现研究进展与工程落地全景总结

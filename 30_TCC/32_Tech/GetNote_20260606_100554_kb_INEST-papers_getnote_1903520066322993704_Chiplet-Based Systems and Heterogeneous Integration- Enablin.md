@@ -31,6 +31,7 @@ tags:
 - 3D Stacking
 - Advanced Packaging
 title: kb_INEST-papers_getnote_1903520066322993704_Chiplet-Based Systems and Heterogene
+provenance: external
 ---
 
 ## Original Note

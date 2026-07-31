@@ -23,6 +23,7 @@ title: Fast Routing Algorithm for Mask Stitching Region of Ultra Large Wafer Sca
 track: TCC
 url: https://www.semanticscholar.org/paper/aed16a41ae6cdca0af18e8d0912b6e12f80005f3
 year: 2025
+provenance: external
 ---
 
 # Fast Routing Algorithm for Mask Stitching Region of Ultra Large Wafer Scale Inte

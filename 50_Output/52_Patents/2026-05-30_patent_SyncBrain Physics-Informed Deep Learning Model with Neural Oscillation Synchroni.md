@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: patent
 status: ideation
 tags: [patent, inest, neural-oscillation-synchronization, physics-informed-deep-learning, brain-computer-interface, syncbrain, emergence, criticality]
+provenance: own
 ---
 
 # SyncBrain: Physics-Informed Deep Learning Model with Neural Oscillation Synchronization Constraints

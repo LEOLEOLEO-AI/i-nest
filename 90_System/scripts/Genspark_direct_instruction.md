@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # 🤖 Genspark Claw Computer 工作指令
 ## iNEST 研究项目 - 诊断结果同步
 

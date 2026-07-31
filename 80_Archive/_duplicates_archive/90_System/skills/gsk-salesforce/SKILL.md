@@ -9,6 +9,7 @@ metadata:
     bins:
     - gsk
   cliHelp: gsk sf --help
+provenance: external
 ---
 
 # gsk-salesforce

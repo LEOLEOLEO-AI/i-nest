@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # Experimental Realization of Type-II Quadrupole Topological Insulator

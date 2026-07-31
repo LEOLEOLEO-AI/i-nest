@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 3
 status: inbox
+provenance: external
 ---
 
 # Spectral-topology-induced criticality in non-Hermitian fermionic metals

@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 # “拆解与拼搭”Chiplet 强化标准是王道
 
 > 笔记本: 微信  

@@ -3,6 +3,7 @@ direction: iNEST
 title: "NCL NULL Convention Logic 完全解析"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿# NCL (NULL Convention Logic) 完全解析
 

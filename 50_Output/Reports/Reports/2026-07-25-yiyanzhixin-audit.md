@@ -5,6 +5,7 @@ author: iNEST 验证中枢
 type: audit-report
 phase: A
 tags: [audit, yiyanzhixin, content-verification]
+provenance: external
 ---
 
 # 一言知心内容审计报告

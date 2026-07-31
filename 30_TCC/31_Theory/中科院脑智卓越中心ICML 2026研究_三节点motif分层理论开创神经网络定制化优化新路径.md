@@ -5,6 +5,7 @@ type: link
 created: 2026-07-01 12:32:04
 source: getnote
 kb: 
+provenance: external
 ---
 
 # 中科院脑智卓越中心ICML 2026研究：三节点motif分层理论开创神经网络定制化优化新路径

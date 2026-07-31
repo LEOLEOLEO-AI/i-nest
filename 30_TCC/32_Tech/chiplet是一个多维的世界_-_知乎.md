@@ -5,6 +5,7 @@ tags:
 - chiplet
 - paper
 - semiconductor
+provenance: external
 ---
 > 笔记本: 技术学习  
 > 创建时间: 2022-03-22  

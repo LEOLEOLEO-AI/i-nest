@@ -5,6 +5,7 @@ note_id: ""
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # OFC2026：AI Scale-Up互连的技术路线与产业化进展

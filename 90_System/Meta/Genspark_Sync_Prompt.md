@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# Genspark Claw 同步指令 v4.0 — 分支模式
 
 > 复制发送给 Genspark Claw。Genspark 只写到自己的分支，Codex 负责合并到 main。

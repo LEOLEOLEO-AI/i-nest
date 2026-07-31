@@ -5,6 +5,7 @@ source: "openalex"
 tags: [complex_networks, review, network_science, graph_theory, small_world, scale_free, preferential_attachment, emergence, dynamics_on_networks]
 inest_score: 0.85
 analyzed: 2026-05-30 12:11
+provenance: own
 ---
 
 # The Structure and Function of Complex Networks

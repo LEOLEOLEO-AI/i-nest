@@ -28,6 +28,7 @@ title: 'ISPI: A 2-Wire Improved Serial Peripheral Interface with Automatic Routi
 track: TCC
 url: https://www.semanticscholar.org/paper/3edb9d1aaaac83e118e1111b5da4ce79c007c3c4
 year: 2025
+provenance: external
 ---
 
 # ISPI: A 2-Wire Improved Serial Peripheral Interface with Automatic Routing Algor

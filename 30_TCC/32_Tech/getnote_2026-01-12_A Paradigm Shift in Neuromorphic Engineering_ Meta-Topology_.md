@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-01-12 11:05:09
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # A Paradigm Shift in Neuromorphic Engineering: Meta-Topology, Software-Defined Interconnects, and the Emergence of High-Dimensional Dynamically Plastic Physical Networks

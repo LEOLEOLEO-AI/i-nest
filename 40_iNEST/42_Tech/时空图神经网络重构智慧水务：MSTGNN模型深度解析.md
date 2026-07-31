@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # 时空图神经网络重构智慧水务：MSTGNN模型深度解析

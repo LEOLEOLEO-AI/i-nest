@@ -5,6 +5,7 @@ version: v1.0
 status: Final
 sources: "Google News RSS, SiliconANGLE, WSJ, Tom's Hardware, EE Times, HPCwire, BusinessCloud, Business Weekly"
 tags: [TCC, UK, AI芯片, ASIC, Fractile, Graphcore, Transformer, 推理加速, 竞争分析]
+provenance: external
 ---
 
 # 英国AI芯片产业对标分析：Fractile与Graphcore的Transformer ASIC路线

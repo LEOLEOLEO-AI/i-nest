@@ -10,6 +10,7 @@ tags:
   - "多尺度热分析"
   - "get-笔记"
   - "会议记录"
+provenance: external
 ---
 
 # IMEC 2024 ECTC研讨会：先进封装热工程挑战与多尺度分析创新

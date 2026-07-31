@@ -3,6 +3,7 @@ direction: iNEST
 title: "复杂网络 节点重要性 GNN-Based"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 复杂网络|节点重要性|GNN-Based
 

@@ -5,6 +5,7 @@ tags:
 - chip-hardware
 - chiplet
 - semiconductor
+provenance: own
 ---
 - **类型**: plain_text
 - **时间**: 2026-02-16 12:53:46

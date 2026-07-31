@@ -8,6 +8,7 @@ tags:
 - fundamentals
 - large-language-model
 - neuroscience
+provenance: own
 ---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2025-01-06  

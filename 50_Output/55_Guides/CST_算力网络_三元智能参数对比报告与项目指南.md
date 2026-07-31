@@ -11,6 +11,7 @@ tags:
 - patent
 - plasticity
 - project
+provenance: external
 ---
 ## 三元智能参数对比报告与大语言模型方向项目指南
 

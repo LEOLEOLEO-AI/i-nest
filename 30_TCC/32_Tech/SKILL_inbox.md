@@ -5,6 +5,7 @@ note_id: "1899903523471116952"
 tags:
   - "get-笔记"
   - "default"
+provenance: own
 ---
 
 # SKILL

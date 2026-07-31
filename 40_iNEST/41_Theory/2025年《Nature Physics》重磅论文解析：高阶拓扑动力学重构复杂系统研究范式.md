@@ -10,6 +10,7 @@ tags:
   - "拓扑结构演化"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # 2025年《Nature Physics》重磅论文解析：高阶拓扑动力学重构复杂系统研究范式

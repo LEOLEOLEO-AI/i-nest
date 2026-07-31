@@ -4,6 +4,7 @@ direction: iNEST
 source: "Genspark"
 date: 2026-07-12
 tags: [inest, first-principles, genspark-import]
+provenance: external
 ---
 
 # iNEST第一性逻辑：从复杂性到智能涌现的推演链条

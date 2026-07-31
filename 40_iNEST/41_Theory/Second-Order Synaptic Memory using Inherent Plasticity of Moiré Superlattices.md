@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.02931v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Second-Order Synaptic Memory using Inherent Plasticity of Moiré Superlattices

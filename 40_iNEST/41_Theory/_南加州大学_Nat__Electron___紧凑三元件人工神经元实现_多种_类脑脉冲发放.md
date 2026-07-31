@@ -3,6 +3,7 @@ direction: iNEST
 title: " 南加州大学 Nat  Electron   紧凑三元件人工神经元实现 多种 类脑脉冲发放"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # (南加州大学，Nat. Electron.) 紧凑三元件人工神经元实现 多种 类脑脉冲发放
 

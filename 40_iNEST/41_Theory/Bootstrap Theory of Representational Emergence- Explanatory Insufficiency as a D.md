@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.07303v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Bootstrap Theory of Representational Emergence: Explanatory Insufficiency as a Driver of Representation Learning and World Models

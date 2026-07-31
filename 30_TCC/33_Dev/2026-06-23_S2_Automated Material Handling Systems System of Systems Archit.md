@@ -25,6 +25,7 @@ title: 'Automated Material Handling Systems: System of Systems Architecture Exam
 track: TCC
 url: https://www.semanticscholar.org/paper/f6a8cdbc90ddca71051f7c4b891aff81459ce8e2
 year: 2021
+provenance: external
 ---
 
 # Automated Material Handling Systems: System of Systems Architecture Examination Semiconductor Manufacturing Perspective

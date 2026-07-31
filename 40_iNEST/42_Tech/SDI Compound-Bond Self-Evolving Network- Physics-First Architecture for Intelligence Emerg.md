@@ -7,6 +7,7 @@ date: 2026-06-04
 status: 撰写中
 priority: 高
 source: "phase1_workspace/papers/paper1_iNEST_core_architecture.md"
+provenance: own
 ---
 
 # SDI Compound-Bond Self-Evolving Network: Physics-First Architecture for Intelligence Emergence

@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.11703v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Integrated magnonic neural circuits based on nonlinear wave neurons

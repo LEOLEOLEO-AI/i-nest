@@ -3,6 +3,7 @@ direction: iNEST
 title: "LNN vs iNEST SDI 深度机制对比"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # LNN vs iNEST SDI 深度机制对比综述
 

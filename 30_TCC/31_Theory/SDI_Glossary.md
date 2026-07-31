@@ -3,6 +3,7 @@ direction: TCC
 title: "SDI Glossary"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 # SDI 研究缩略语对照表
 

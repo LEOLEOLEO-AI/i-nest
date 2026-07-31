@@ -1,6 +1,7 @@
 ---
 title: "B0 Cover Letter — Engineering Special Issue"
 date: 2026-06-17
+provenance: external
 ---
 
 # Cover Letter

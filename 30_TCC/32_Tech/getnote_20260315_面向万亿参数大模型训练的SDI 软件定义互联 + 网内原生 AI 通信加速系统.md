@@ -11,6 +11,7 @@ source: getnote---
 
 ## 面向万亿参数大模型训练的**SDI 软件定义互联 + 网内原生 AI 通信加速系统**
 
+provenance: external
 ---
 
 ## 一、项目基本信息

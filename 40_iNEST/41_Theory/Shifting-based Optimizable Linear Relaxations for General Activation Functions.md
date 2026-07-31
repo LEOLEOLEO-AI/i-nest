@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.20292v1
 direction: TCC
 tags: [paper, tcc, auto-crawl]
+provenance: external
 ---
 
 # Shifting-based Optimizable Linear Relaxations for General Activation Functions

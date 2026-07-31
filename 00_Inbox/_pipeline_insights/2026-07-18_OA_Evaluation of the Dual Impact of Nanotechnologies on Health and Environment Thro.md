@@ -10,6 +10,7 @@ source: openalex
 query: "C. elegans connectome computation network"
 date: 2026-07-18
 topics: ['Nanoparticles: synthesis and applications', 'Marine Biology and Environmental Chemistry', 'Environmental Toxicology and Ecotoxicology']
+provenance: external
 ---
 
 # Evaluation of the Dual Impact of Nanotechnologies on Health and Environment Through Alternative Bridging Models

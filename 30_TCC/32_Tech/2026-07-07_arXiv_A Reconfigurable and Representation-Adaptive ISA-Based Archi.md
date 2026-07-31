@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # A Reconfigurable and Representation-Adaptive ISA-Based Architecture for Efficient DNN Acceleration

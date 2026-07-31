@@ -16,6 +16,7 @@ source: getnote---
 # 维护：iNEST课题组
 # 路径：00_KnowledgeBase_知识库/02_CST_核心理论著作/TCC_Paradigm_Master_Index.md
 
+provenance: external
 ---
 
 ## 一、范式定位

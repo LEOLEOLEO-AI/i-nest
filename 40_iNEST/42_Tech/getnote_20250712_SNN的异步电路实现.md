@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "SNN的异步电路实现"
 date: 2025-07-12 10:34:32
 source: "????"

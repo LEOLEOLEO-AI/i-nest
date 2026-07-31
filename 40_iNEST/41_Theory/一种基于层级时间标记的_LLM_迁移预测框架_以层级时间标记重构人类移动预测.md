@@ -6,6 +6,7 @@ tags:
 - large-language-model
 - neuroscience
 - paper
+provenance: external
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-10 04:05

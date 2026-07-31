@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.01408v1
 direction: TCC
 tags: [paper, tcc, auto-crawl]
+provenance: external
 ---
 
 # Quantum Statistics and Structural Topology Govern Thermal Transport in Two-Dimensional Monolayer Amorphous Carbon

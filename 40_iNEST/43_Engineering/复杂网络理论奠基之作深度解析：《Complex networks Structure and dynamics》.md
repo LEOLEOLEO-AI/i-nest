@@ -10,6 +10,7 @@ tags:
   - "传播动力学"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # 复杂网络理论奠基之作深度解析：《Complex networks: Structure and dynamics》

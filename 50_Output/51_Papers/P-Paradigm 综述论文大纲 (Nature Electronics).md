@@ -4,6 +4,7 @@ tags:
 - large-language-model
 - paper
 - survey
+provenance: external
 ---
 ## Title: Liquid Hardware and the Topology-Centric Computing Paradigm: From Isomorphism Laws to Embodied AI
 **Authors:** Qinrang Liu et al.

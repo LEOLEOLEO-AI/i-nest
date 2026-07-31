@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 3
 status: inbox
+provenance: external
 ---
 
 # Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing

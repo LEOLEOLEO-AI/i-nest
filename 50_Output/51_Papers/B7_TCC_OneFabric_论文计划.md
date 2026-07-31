@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # B7: TCC OneFabric 统一内存与网络语义架构
 
 **编号**: B7 | **编码**: P-Memory | **状态**: 🟡 框架完成

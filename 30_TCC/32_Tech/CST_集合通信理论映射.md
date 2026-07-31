@@ -9,6 +9,7 @@ tags:
 - simulation
 - small-world-networks
 - topology
+provenance: own
 ---
 ## 核心命题
 

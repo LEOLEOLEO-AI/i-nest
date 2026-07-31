@@ -10,6 +10,7 @@ tags: [深度分析, inest, 来自arxiv]
 citations: 0
 relevance: 3
 status: 深度阅读
+provenance: external
 ---
 
 # A Priori Integral Persistent Excitation in Conservative Polynomial ODEs with Higher-Order Interactions

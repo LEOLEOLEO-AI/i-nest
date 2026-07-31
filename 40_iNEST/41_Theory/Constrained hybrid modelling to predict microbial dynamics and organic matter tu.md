@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.20329v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Constrained hybrid modelling to predict microbial dynamics and organic matter turnover in soil systems

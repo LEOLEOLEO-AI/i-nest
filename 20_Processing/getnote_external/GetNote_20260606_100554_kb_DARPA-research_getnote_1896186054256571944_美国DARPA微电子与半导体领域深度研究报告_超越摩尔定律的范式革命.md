@@ -30,6 +30,7 @@ tags:
 - 后摩尔定律
 - 电子复兴计划
 title: kb_DARPA-research_getnote_1896186054256571944_美国DARPA微电子与半导体领域深度研究报告_超越摩尔定律的范式革命
+provenance: external
 ---
 
 ## Original Note

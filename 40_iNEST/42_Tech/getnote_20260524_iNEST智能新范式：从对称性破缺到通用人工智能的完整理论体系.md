@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "iNEST智能新范式：从对称性破缺到通用人工智能的完整理论体系"
 date: 2026-05-24 08:41:38
 source: "????"

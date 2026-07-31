@@ -13,6 +13,7 @@ tags:
 - paper
 merged_into: "40_iNEST\41_Theory\迈向生物智能理论_Towards_a_theory_of_biological_intelligence.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[40_iNEST\41_Theory\迈向生物智能理论_Towards_a_theory_of_biological_intelligence.md]]

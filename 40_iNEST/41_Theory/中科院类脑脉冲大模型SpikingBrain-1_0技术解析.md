@@ -11,6 +11,7 @@ tags:
 - neuron
 - neuroscience
 - synapse
+provenance: external
 ---
 - **类型**: link
 - **时间**: 2025-10-08 05:21:26

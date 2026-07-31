@@ -9,6 +9,7 @@ tags:
 - software-defined
 - tcc-sdi
 - topology
+provenance: own
 ---
 ## 基于网络中心计算与同构定律的 OODA 闭环液态晶上系统
 

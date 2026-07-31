@@ -10,6 +10,7 @@ source: openalex
 query: "memristor ferroelectric crossbar array VLSI"
 date: 2026-07-18
 topics: ['Advanced Memory and Neural Computing', 'Ferroelectric and Negative Capacitance Devices', 'Neural Networks and Reservoir Computing']
+provenance: external
 ---
 
 # Heterogeneous Integration Strategies of Beyond‐von Neumann Neuromorphic Electronics for Sensory in‐Memory Computing

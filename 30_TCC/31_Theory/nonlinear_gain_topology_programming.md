@@ -4,6 +4,7 @@ direction: TCC
 source: "Genspark"
 date: 2026-07-12
 tags: [tcc, first-principles, genspark-import]
+provenance: external
 ---
 
 # 从节点堆砌到拓扑编程：系统级超非线性增益

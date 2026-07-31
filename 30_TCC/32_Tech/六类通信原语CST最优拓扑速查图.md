@@ -6,6 +6,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # 六类通信原语CST最优拓扑速查图

@@ -11,6 +11,7 @@ source: getnote---
 
 现在我有了所有关键原始文献。下面为6期播客逐一展开。
 
+provenance: external
 ---
 
 # 六类集合通信原语最优拓扑——完整技术手册

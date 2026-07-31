@@ -15,6 +15,7 @@ Now I have comprehensive data to construct the definitive TCC Primitive Library 
 
 
 
+provenance: external
 ---
 
 # TCC 原语库 v1.0 最终版规范

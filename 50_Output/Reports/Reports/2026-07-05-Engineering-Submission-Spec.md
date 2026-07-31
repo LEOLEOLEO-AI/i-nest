@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Engineering 期刊投稿规范
 
 **期刊**：Engineering (Elsevier) | **IF**：12.7 | **接受率**：15-20%

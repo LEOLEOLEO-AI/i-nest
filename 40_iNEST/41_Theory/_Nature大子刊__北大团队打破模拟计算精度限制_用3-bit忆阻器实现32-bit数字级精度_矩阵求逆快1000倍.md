@@ -3,6 +3,7 @@ direction: iNEST
 title: " Nature大子刊  北大团队打破模拟计算精度限制 用3-bit忆阻器实现32-bit数字级精度 矩阵求逆快1000倍"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # [Nature大子刊] 北大团队打破模拟计算精度限制！用3-bit忆阻器实现32-bit数字级精度，矩阵求逆快1000倍
 

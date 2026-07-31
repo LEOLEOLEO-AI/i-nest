@@ -4,6 +4,7 @@ date: 2026-07-05
 version: v1.0
 status: authoritative
 tags: [TCC, iNEST, liquid-topology, phase-transition, self-organization]
+provenance: external
 ---
 
 # TCC到iNEST 液态拓扑技术方案

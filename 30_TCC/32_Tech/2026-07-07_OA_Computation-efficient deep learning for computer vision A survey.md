@@ -10,6 +10,7 @@ source: openalex
 query: "network topology intelligence emergence scaling"
 date: 2026-07-07
 topics: ['Advanced Neural Network Applications', 'Domain Adaptation and Few-Shot Learning', 'Advanced Image and Video Retrieval Techniques']
+provenance: external
 ---
 
 # Computation-efficient deep learning for computer vision: A survey

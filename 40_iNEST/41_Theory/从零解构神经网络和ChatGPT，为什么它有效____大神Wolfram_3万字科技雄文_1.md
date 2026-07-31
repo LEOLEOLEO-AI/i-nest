@@ -3,6 +3,7 @@ direction: iNEST
 title: "从零解构神经网络和ChatGPT，为什么它有效    大神Wolfram 3万字科技雄文 1"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # 从零解构神经网络和ChatGPT，为什么它有效? : 大神Wolfram 3万字科技雄文
 

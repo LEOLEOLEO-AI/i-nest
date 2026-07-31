@@ -5,6 +5,7 @@ note_id: "1890495081929675312"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # iNEST三大平台定位与命名

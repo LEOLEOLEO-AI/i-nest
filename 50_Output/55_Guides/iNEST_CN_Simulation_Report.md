@@ -3,6 +3,7 @@ title: "iNEST 综合仿真实验报告与工程落地计划"
 date: 2026-06-06
 author: "iNEST Research Team / 刘勤让 教授"
 tags: [iNEST, simulation, CST, SDI-CC, roadmap, product, engineering]
+provenance: own
 ---
 
 # iNEST 综合仿真实验报告与工程落地计划

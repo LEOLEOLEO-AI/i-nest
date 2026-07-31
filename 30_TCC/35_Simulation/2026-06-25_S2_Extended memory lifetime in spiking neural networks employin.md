@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # Extended memory lifetime in spiking neural networks employing memristive synapses with nonlinear conductance dynamics

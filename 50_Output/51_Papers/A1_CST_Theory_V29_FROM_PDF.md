@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 ﻿---
 title: 'From Compute to Complexity: A Physical Theory of Intelligence Emergence and Its Implications for Artificial General Intelligence'
 tags:

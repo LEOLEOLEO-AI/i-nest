@@ -11,6 +11,7 @@ tags:
 - small-world-networks
 - synapse
 - topology
+provenance: own
 ---
 **目标**：将生物网络仿真的结论迁移到SDI（软件定义互连）物理网络，
 完成"工程系统通过复杂网络拓扑实现超线性增益"的可复现仿真验证。

@@ -10,6 +10,7 @@ tags:
   - "集成电路发展论坛"
   - "get-笔记"
   - "科技资讯"
+provenance: external
 ---
 
 # 谷歌Ironwood TPU与Axion CPU技术解析及行业影响

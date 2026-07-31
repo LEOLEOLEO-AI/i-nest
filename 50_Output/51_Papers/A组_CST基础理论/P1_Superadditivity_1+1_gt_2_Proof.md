@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# 1+1>2 的超加和性理论证明：从信息论到复杂网络的涌现增益
 
 **目标期刊**：Physical Review Letters / Nature Communications  

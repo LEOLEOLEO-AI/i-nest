@@ -29,6 +29,7 @@ tags:
 - 多芯片集成
 - network
 title: getnote_1912904612814405040_面向AI大计算负载的先进集成STCO技术_系统-工艺协同优化框架
+provenance: external
 ---
 
 ## Original Note

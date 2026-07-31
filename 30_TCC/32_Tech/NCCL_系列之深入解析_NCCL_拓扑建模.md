@@ -3,6 +3,7 @@ direction: TCC
 title: "NCCL 系列之深入解析 NCCL 拓扑建模"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # NCCL 系列之深入解析 NCCL 拓扑建模
 

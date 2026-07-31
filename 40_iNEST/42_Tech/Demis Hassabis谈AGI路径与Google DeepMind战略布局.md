@@ -10,6 +10,7 @@ tags:
   - "Genie 3世界模型"
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # Demis Hassabis谈AGI路径与Google DeepMind战略布局

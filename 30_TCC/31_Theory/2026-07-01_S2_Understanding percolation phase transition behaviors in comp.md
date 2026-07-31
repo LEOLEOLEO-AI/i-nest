@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # Understanding percolation phase transition behaviors in complex networks from the macro and meso-micro perspectives

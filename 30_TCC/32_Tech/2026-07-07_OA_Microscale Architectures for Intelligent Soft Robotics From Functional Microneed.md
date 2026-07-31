@@ -10,6 +10,7 @@ source: openalex
 query: "photonic interconnect silicon photonics network"
 date: 2026-07-07
 topics: ['Hydrogels: synthesis, properties, applications', 'Advancements in Transdermal Drug Delivery', 'Advanced Sensor and Energy Harvesting Materials']
+provenance: external
 ---
 
 # Microscale Architectures for Intelligent Soft Robotics: From Functional Microneedles to Biointegrated Wearable Systems

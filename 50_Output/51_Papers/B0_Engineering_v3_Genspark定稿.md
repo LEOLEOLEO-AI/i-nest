@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 从冯·诺依曼到网络中心：面向可持续智能计算的计算范式迁移——第一性原理综述
 From von Neumann to Network-Centric: A First-Principles Review of the Computing Paradigm Migration toward Sustainable Intelligent Computing
 Qinrang Liu (刘勤让)ᵃ,*, et al. ᵃ TCC iNEST Research Group * Corresponding author. E-mail: qinrangliu@gmail.com

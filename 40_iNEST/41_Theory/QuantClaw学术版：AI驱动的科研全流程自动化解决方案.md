@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "学术论文"
   - "重要"
+provenance: external
 ---
 
 # QuantClaw学术版：AI驱动的科研全流程自动化解决方案

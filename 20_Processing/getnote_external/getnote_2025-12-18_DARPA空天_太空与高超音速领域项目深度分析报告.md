@@ -5,6 +5,7 @@ type: link
 created: 2025-12-18 05:49:19
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # DARPA空天、太空与高超音速领域项目深度分析报告

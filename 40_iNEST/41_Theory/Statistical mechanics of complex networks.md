@@ -5,6 +5,7 @@ source: "openalex"
 tags: [complex_networks, statistical_mechanics, scale-free_networks, small-world_networks, network_robustness, preferential_attachment, topology, review]
 inest_score: 0.8
 analyzed: 2026-05-30 12:07
+provenance: own
 ---
 
 # Statistical mechanics of complex networks

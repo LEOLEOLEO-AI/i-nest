@@ -11,6 +11,7 @@ tags:
 - large-language-model
 - neural-networks
 - neuron
+provenance: external
 ---
 - **类型**: link
 - **时间**: 2026-01-20 06:31:29

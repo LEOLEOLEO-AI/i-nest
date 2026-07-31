@@ -3,6 +3,7 @@ direction: iNEST
 title: "Yann LeCun：发现智能原理是AI的终极问题   独家对话"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # Yann LeCun：发现智能原理是AI的终极问题 | 独家对话
 

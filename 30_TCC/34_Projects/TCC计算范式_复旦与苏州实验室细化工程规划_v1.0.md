@@ -3,6 +3,7 @@ direction: TCC
 title: "TCC计算范式 复旦与苏州实验室细化工程规划 v1.0"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿---
 title: "TCC计算范式_复旦与苏州实验室细化工程规划"

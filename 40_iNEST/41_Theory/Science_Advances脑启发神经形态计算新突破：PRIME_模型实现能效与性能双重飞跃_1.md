@@ -3,6 +3,7 @@ direction: iNEST
 title: "Science Advances脑启发神经形态计算新突破：PRIME 模型实现能效与性能双重飞跃 1"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Science Advances脑启发神经形态计算新突破：PRIME 模型实现能效与性能双重飞跃
 

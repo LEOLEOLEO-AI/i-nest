@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.06925v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # A Machine-Learning Based Approach to the Evaluation of the Critical Scaling Behavior of Anisotropic Spin Systems

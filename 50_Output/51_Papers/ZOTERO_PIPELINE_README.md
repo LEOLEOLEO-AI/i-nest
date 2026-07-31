@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# Zotero + Codex 全流程科研管道
 
 ## 架构总览

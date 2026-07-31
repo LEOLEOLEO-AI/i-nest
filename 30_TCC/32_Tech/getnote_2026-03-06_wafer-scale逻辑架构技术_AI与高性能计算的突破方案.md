@@ -5,6 +5,7 @@ type: link
 created: 2026-03-06 17:50:35
 source: getnote
 kb: INEST-papers
+provenance: external
 ---
 
 # wafer-scale逻辑架构技术：AI与高性能计算的突破方案

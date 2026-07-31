@@ -8,6 +8,7 @@ year: 2024
 url: https://www.semanticscholar.org/paper/6ca0ff83cd72effb3575a945b92969a50d11ff46
 tags: [from-s2, auto-crawl, tcc, classified, tcc]
 status: inbox
+provenance: external
 ---
 
 # Signal Integrity Simulation and Analysis for 2.5D Advanced Package Interconnect Based on Universal Chiplet Interconnect Express (UCIe)

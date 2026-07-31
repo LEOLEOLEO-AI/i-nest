@@ -27,6 +27,7 @@ tags:
 - architecture
 - 人工智能
 title: kb_DARPA-research_getnote_1896236804663837592_DARPA重塑未来战争形态_空天_太空与高超音速领域战略布局深度分析
+provenance: external
 ---
 
 ## Original Note

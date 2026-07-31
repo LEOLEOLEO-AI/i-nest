@@ -3,6 +3,7 @@ direction: TCC
 title: "README 3"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: external
 ---
 # Genspark Claw → Local Worker Bridge
 

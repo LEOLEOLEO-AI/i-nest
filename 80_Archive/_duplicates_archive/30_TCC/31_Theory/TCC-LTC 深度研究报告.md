@@ -6,6 +6,7 @@ tags:
   - "get-笔记"
   - "学术论文"
   - "重要"
+provenance: external
 ---
 
 # TCC-LTC 深度研究报告

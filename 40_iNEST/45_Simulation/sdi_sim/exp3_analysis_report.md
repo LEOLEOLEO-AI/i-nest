@@ -3,6 +3,7 @@ direction: iNEST
 title: "exp3 analysis report"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # SDI 实验三分析报告：零先验自演化
 

@@ -6,6 +6,7 @@ track: TCC
 tags: [剪藏, getnote]
 relevance: 2
 status: 待处理
+provenance: external
 ---
 
 # 2026-06-28_2026 ODCC夏季全会ScaleUP互联技术深度观察_NetMem创新与SUE_UALink协议对比分析

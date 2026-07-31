@@ -3,6 +3,7 @@ direction: iNEST
 title: "PRE FLIGHT CHECK"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # iNEST 仿真实验 Pre-Flight 第一性校验规程
 # Version 2.0 — 2026-06-09

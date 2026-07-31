@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.06159v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # ITP-STDP: An Intrinsic-Timing Power-of-Two Learning Engine for On-Chip SNN Training

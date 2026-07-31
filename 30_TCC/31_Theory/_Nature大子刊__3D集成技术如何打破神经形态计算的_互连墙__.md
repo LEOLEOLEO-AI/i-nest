@@ -3,6 +3,7 @@ direction: TCC
 title: " Nature大子刊  3D集成技术如何打破神经形态计算的 互连墙  "
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # [Nature大子刊] 3D集成技术如何打破神经形态计算的“互连墙”？
 

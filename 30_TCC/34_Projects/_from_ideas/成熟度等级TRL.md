@@ -5,6 +5,7 @@ note_id: "1900332928933727896"
 tags:
   - "get-笔记"
   - "学术论文"
+provenance: own
 ---
 
 # 成熟度等级TRL

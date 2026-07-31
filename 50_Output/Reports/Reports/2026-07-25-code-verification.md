@@ -5,6 +5,7 @@ author: iNEST 验证中枢
 type: verification-report
 phase: C
 tags: [verification, code, simulation, SDDE, CST]
+provenance: own
 ---
 
 # 代码/仿真验证报告

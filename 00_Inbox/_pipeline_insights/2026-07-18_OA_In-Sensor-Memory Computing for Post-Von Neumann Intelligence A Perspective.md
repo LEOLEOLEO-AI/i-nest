@@ -10,6 +10,7 @@ source: openalex
 query: "chiplet wafer-scale interconnect topology routing"
 date: 2026-07-18
 topics: ['Advanced Memory and Neural Computing', 'Ferroelectric and Negative Capacitance Devices', 'Neural Networks and Reservoir Computing']
+provenance: external
 ---
 
 # In-Sensor-Memory Computing for Post-Von Neumann Intelligence: A Perspective

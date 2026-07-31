@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "天基算力网络（Space-CPN）：基础架构与核心技术深度研究"
 date: 2026-07-06 12:17:39
 source: "????"

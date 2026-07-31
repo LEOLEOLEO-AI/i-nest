@@ -5,6 +5,7 @@ type: link
 created: 2026-07-02 13:25:29
 source: getnote
 kb: 
+provenance: external
 ---
 
 # Google Research《Nested Learning: The Illusion of Deep Learning Architecture》核心技术全解析

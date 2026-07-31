@@ -5,6 +5,7 @@ type: plain_text
 created: 2025-11-16 18:50:18
 source: getnote
 kb: iNEST-dev
+provenance: external
 ---
 
 # TRAE工具安装与环境配置

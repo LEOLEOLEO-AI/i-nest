@@ -10,6 +10,7 @@ source: openalex
 query: "self-organized criticality neuronal avalanche"
 date: 2026-07-18
 topics: ['Neural Networks and Reservoir Computing', 'Advanced Memory and Neural Computing', 'Ferroelectric and Negative Capacitance Devices']
+provenance: external
 ---
 
 # Very-large-scale mimetic optogenetic synapses for physical reservoir computing

@@ -9,6 +9,7 @@ source: getnote---
 
 # TCC OneFabric 统一内存与网络语义架构
 
+provenance: external
 ---
 
 # TCC OneFabric 统一内存与网络语义架构

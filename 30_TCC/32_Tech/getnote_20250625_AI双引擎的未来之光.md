@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "AI双引擎的未来之光"
 date: 2025-06-25 19:05:37
 source: "????"

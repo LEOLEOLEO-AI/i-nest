@@ -5,6 +5,7 @@ tags:
 - neuron
 - neuroscience
 - topology
+provenance: own
 ---
 ## 1. 发明名称
 基于范畴流形拓扑（CST）的神经网络架构自适应演化方法及系统

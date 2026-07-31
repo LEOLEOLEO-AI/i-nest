@@ -5,6 +5,7 @@ tags:
 - materials-science
 - defense-technology
 - research-report
+provenance: own
 ---
 ---
 title: "美国DARPA"材料科学与先进制造"领域深度研究报告：战略、技术与未来展望"

@@ -9,6 +9,7 @@ tags:
   - "芯片禁令"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # 深度解析DeepSeek：技术突破、行业影响与中美科技格局的新变化

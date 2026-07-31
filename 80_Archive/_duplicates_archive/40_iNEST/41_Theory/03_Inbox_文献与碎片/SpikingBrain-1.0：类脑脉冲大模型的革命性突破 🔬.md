@@ -1,2 +1,6 @@
+---
+provenance: external
+---
+
 > [!note]- 可能重复: [[SpikingBrain-1.0：类脑脉冲大模型的革命性突破 🔬]]
 > 此文件与 [[SpikingBrain-1.0：类脑脉冲大模型的革命性突破 🔬]] 内容重复，已保留最大版本。

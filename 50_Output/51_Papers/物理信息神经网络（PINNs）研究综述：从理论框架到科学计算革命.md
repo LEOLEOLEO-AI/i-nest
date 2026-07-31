@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # 物理信息神经网络（PINNs）研究综述：从理论框架到科学计算革命

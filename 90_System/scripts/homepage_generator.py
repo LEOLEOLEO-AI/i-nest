@@ -107,6 +107,17 @@ def generate():
     hypotheses = read_hypotheses()
     git_uncommitted = read_git_status()
     
+    # 溯源归类统计（classify_provenance.py 产出）
+    cls_file = VAULT / "99_Meta" / "classification.json"
+    own_total = ext_total = 0
+    if cls_file.exists():
+        try:
+            cls = json.loads(cls_file.read_text(encoding="utf-8"))
+            own_total = sum(1 for r in cls if r.get("provenance") == "own")
+            ext_total = sum(1 for r in cls if r.get("provenance") == "external")
+        except Exception:
+            pass
+    
     # Build status emojis
     h_emojis = {"proven": "✅", "under_investigation": "🔬", "proposed": "📋", "pending": "⏳"}
     
@@ -250,6 +261,15 @@ Processing → TCC/iNEST → Output
 
 ---
 
+## 🔬 研究溯源与归类
+
+按来源原则对全库内容重新归类（脚本：`[[90_System/scripts/classify_provenance.py]]`，数据：`[[99_Meta/classification.json]]`）：
+
+- [[60_MOC/10_Own_Research_Diagnosis|🔬 自有研究 · 现状诊断与后续计划]] — 含「刘勤让 / iNEST 研究组」署名的本组产出，共 **{own_total}** 篇（含现状诊断与后续计划）
+- [[60_MOC/11_External_Literature_Index|🌐 外部爬取文献索引]] — 含文献名 / 第三方平台名（arXiv、得到、Genspark、Codex、S2 等）的爬取内容，共 **{ext_total}** 篇
+
+---
+
 ## 🗺️ 快速入口
 
 | 入口 | 解决什么 |
@@ -261,6 +281,8 @@ Processing → TCC/iNEST → Output
 | [[wiki/task_recommendations\|任务推荐]] | 知识缺口驱动任务 |
 | [[60_MOC/TCC_iNEST_成果全景\|成果全景]] | 论文、专利、代码 |
 | [[60_MOC/00_知识库治理中枢\|治理中枢]] | 目录职责与标准 |
+| [[60_MOC/10_Own_Research_Diagnosis\|自有研究诊断]] | 本组产出现状与计划 |
+| [[60_MOC/11_External_Literature_Index\|外部文献索引]] | 爬取内容按来源归类 |
 
 ---
 

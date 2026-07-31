@@ -3,6 +3,7 @@ title: SDI实验-2：V31 多脑协作与群体智能涌现路线图（已完成�
 tags: [sdi-experiment, v31, v32, multi-brain, cooperation, competition, emergence, multi-agent, inest, simulation]
 date: 2026-06-05
 modified: 2026-06-05
+provenance: own
 ---
 
 > 基于 V30 单脑多区融合成果，V31 多脑协作/竞争→V32 Agent桥接→V33+ 群体智能全路线验证

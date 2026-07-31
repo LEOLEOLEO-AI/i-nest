@@ -10,6 +10,7 @@ source: openalex
 query: "C. elegans connectome computation network"
 date: 2026-07-07
 topics: ['Neurobiology and Insect Physiology Research', 'Genetics, Aging, and Longevity in Model Organisms', 'Planarian Biology and Electrostimulation']
+provenance: external
 ---
 
 # The digital sphinx: Can a worm brain control a fly body?

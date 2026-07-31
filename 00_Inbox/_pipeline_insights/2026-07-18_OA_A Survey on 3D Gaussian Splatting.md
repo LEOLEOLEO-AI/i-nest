@@ -10,6 +10,7 @@ source: openalex
 query: "network topology intelligence emergence scaling"
 date: 2026-07-18
 topics: ['Image Enhancement Techniques', 'Computer Graphics and Visualization Techniques', 'Color Science and Applications']
+provenance: external
 ---
 
 # A Survey on 3D Gaussian Splatting

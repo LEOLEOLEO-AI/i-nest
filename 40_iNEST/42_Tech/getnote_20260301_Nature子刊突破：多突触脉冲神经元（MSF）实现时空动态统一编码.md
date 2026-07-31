@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "Nature子刊突破：多突触脉冲神经元（MSF）实现时空动态统一编码"
 date: 2026-03-01 13:36:16
 source: "????"

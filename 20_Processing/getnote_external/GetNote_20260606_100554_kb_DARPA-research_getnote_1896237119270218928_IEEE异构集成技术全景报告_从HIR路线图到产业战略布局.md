@@ -28,6 +28,7 @@ tags:
 - 3D集成
 - physics
 title: kb_DARPA-research_getnote_1896237119270218928_IEEE异构集成技术全景报告_从HIR路线图到产业战略布局
+provenance: external
 ---
 
 ## Original Note

@@ -5,6 +5,7 @@ tags: [software-defined, chiplet, TCC, iNAS, emergence, system-gain, collaborati
 summary: "软件定义晶上系统合作交流与规划PPT提纲"
 quality: high
 processed: 2026-07-15 14:44
+provenance: own
 ---
 ---
 title: getnote_1915375586956706672_软件定义晶上系统合作交流与发展规划（修订版）

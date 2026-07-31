@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # P-Paradigm 综述论文大纲 (Nature Electronics)
 ## Title: Liquid Hardware and the Topology-Centric Computing Paradigm: From Isomorphism Laws to Embodied AI
 **Authors:** Qinrang Liu et al.

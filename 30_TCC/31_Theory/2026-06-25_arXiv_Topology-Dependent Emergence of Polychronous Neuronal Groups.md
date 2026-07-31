@@ -10,6 +10,7 @@ tags: [洞察, tcc, 来自arxiv]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # Topology-Dependent Emergence of Polychronous Neuronal Groups: A Recurrence-Plot Characterization

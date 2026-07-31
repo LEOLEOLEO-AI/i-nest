@@ -5,6 +5,7 @@ note_id: "1893325300021522256"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # iNEST开发流程

@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/e5f93d11f347b628ae2c4fc9a82381d1123fbac7
 tags: [from-s2, auto-crawl, tcc, classified, tcc]
 status: inbox
+provenance: external
 ---
 
 # Scale-robust Low Resistance Transport in Atomic Layer Deposited Topological Semimetal Wafers on Amorphous Substrate

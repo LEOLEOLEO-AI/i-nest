@@ -10,6 +10,7 @@ source: openalex
 query: "photonic interconnect silicon photonics network"
 date: 2026-07-07
 topics: ['BIM and Construction Integration']
+provenance: external
 ---
 
 # Programmable skyrmions for communication and sensing

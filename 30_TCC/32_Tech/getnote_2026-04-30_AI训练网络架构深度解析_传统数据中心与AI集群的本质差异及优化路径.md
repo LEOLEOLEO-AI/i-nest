@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 07:45:50
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # AI训练网络架构深度解析：传统数据中心与AI集群的本质差异及优化路径

@@ -3,6 +3,7 @@ direction: TCC
 title: "Loss 才是涌现的关键，而非模型参数"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # Loss 才是涌现的关键，而非模型参数
 

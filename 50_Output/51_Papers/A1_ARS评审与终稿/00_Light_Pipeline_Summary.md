@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# A1 CST — Light Pipeline Summary
 
 **Pipeline:** Full Light ARS Pipeline | **Date:** 2026-06-19  

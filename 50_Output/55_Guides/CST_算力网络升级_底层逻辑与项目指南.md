@@ -11,6 +11,7 @@ tags:
 - neural-networks
 - neuron
 - neuroscience
+provenance: own
 ---
 **定位**：为大模型算力网络/数据中心网络引入CST网络时空复杂度思想，在任务级实现能效比、任务多样性、跨任务迁移适应性的系统级超线性提升  
 **版本**：v1.0 | 日期：2026-03-25  

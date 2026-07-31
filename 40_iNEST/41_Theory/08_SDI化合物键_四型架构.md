@@ -8,6 +8,7 @@ tags:
   - hardware
   - emergence
   - neuromorphic
+provenance: own
 ---
 
 **对应专利**：[[专利P1_四型化合物键自演化架构]]

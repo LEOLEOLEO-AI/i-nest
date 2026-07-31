@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # SDI V31 Hemibrain 验证报告
 
 **日期**：2026-07-09  

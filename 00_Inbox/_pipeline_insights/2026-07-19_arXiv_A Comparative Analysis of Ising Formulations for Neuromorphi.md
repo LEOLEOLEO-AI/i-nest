@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "A Comparative Analysis of Ising Formulations for Neuromorphic Maximum-Likelihood Channel Decoding"
 date: 2026-07-19

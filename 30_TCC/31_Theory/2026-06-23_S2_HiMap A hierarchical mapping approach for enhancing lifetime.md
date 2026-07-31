@@ -26,6 +26,7 @@ title: 'HiMap: A hierarchical mapping approach for enhancing lifetime reliabilit
 track: TCC
 url: https://www.semanticscholar.org/paper/a22b95ea7ac60319f062a17058cd600b6e9601d2
 year: 2018
+provenance: external
 ---
 
 # HiMap: A hierarchical mapping approach for enhancing lifetime reliability of dark silicon manycore systems

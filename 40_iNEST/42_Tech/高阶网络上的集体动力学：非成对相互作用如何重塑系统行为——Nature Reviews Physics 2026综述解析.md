@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "学术论文"
   - "重要"
+provenance: external
 ---
 
 # 高阶网络上的集体动力学：非成对相互作用如何重塑系统行为——Nature Reviews Physics 2026综述解析

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# ARS Citation Compliance Report — A1 CST Theory
 
 **Agent:** citation_compliance_agent v3.2.0 | **Target Format:** Vancouver (numbered, square brackets) | **Date:** 2026-06-19

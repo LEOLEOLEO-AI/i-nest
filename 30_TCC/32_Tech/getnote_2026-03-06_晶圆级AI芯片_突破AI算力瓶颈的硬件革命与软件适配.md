@@ -5,6 +5,7 @@ type: link
 created: 2026-03-06 17:54:26
 source: getnote
 kb: INEST-papers
+provenance: external
 ---
 
 # 晶圆级AI芯片：突破AI算力瓶颈的硬件革命与软件适配

@@ -10,6 +10,7 @@ tags:
   - "G-LED框架"
   - "get-笔记"
   - "科技资讯"
+provenance: external
 ---
 
 # 物理信息机器学习（PIML）研究进展与资源汇总 📚

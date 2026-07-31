@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.10397v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Improved selector behavior in ultrathin chromium-doped V$_2$O$_3$ films

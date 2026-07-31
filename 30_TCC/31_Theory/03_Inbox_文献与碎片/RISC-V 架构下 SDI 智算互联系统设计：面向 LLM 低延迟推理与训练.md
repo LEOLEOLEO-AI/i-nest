@@ -6,6 +6,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # RISC-V 架构下 SDI 智算互联系统设计：面向 LLM 低延迟推理与训练

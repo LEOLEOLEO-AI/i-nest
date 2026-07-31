@@ -23,6 +23,7 @@ tags:
 - neuroscience
 - 分布式行为控制
 title: getnote_2026-06-18_Nature重磅研究_果蝇脑-腹神经索连接组揭示分布式行为控制新架构
+provenance: external
 ---
 
 ## Original Note

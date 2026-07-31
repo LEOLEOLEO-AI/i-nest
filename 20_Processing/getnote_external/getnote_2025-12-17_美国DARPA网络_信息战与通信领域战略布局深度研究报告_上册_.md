@@ -5,6 +5,7 @@ type: link
 created: 2025-12-17 16:36:46
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # 美国DARPA网络、信息战与通信领域战略布局深度研究报告（上册）

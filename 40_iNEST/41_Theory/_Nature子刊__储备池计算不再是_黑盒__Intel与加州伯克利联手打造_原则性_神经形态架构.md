@@ -3,6 +3,7 @@ direction: iNEST
 title: " Nature子刊  储备池计算不再是 黑盒  Intel与加州伯克利联手打造 原则性 神经形态架构"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # [Nature子刊] 储备池计算不再是“黑盒”！Intel与加州伯克利联手打造“原则性”神经形态架构
 

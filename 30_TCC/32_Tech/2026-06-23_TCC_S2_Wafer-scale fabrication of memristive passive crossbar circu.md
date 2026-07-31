@@ -24,6 +24,7 @@ title: 'Wafer-scale fabrication of memristive passive crossbar circuits for brai
 track: TCC
 url: https://www.semanticscholar.org/paper/b65ecbf8b5278e9f23faddc6702febc02a7c3b1c
 year: 2025
+provenance: external
 ---
 
 # Wafer-scale fabrication of memristive passive crossbar circuits for brain-scale 

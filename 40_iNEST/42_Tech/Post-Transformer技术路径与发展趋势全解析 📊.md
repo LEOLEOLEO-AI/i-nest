@@ -10,6 +10,7 @@ tags:
   - "高效注意力机制"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # Post-Transformer技术路径与发展趋势全解析 📊

@@ -31,6 +31,7 @@ tags:
 - first-principles
 - physics
 title: kb_DARPA-research_getnote_1896185762199320104_美国DARPA网络_信息战与通信领域战略布局深度研究报告_上册_
+provenance: external
 ---
 
 ## Original Note

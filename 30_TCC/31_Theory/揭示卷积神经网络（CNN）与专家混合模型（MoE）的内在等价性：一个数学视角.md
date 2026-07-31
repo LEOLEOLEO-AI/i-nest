@@ -3,6 +3,7 @@ direction: TCC
 title: "揭示卷积神经网络（CNN）与专家混合模型（MoE）的内在等价性：一个数学视角"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 # 揭示卷积神经网络（CNN）与专家混合模型（MoE）的内在等价性：一个数学视角
 

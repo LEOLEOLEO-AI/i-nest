@@ -1,4 +1,8 @@
 ---
+provenance: own
+---
+
+---
 title: "【iNEST知识库】iNEST_Academic_Belief_Core"
 date: 2026-04-29 03:08:35
 source: "????"

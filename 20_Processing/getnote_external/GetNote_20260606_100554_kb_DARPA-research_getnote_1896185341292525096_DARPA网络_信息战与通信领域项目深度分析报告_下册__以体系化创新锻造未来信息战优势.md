@@ -27,6 +27,7 @@ tags:
 - architecture
 - 人工智能
 title: kb_DARPA-research_getnote_1896185341292525096_DARPA网络_信息战与通信领域项目深度分析报告_下册__以体系化创
+provenance: external
 ---
 
 ## Original Note

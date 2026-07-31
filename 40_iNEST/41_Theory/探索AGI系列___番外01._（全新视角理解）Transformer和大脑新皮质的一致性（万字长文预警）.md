@@ -3,6 +3,7 @@ direction: iNEST
 title: "探索AGI系列   番外01. （全新视角理解）Transformer和大脑新皮质的一致性（万字长文预警）"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 探索AGI系列 | 番外01. （全新视角理解）Transformer和大脑新皮质的一致性（万字长文预警）
 

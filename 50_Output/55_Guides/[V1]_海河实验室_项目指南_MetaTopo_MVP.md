@@ -3,6 +3,7 @@ direction: TCC
 title: "[V1] 海河实验室 项目指南 MetaTopo MVP"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # 海河实验室项目指南（2026年度重大专项）
 ## 基于元拓扑-SDI化合键理论的介观尺度网络智能涌现芯片架构与端侧MVP产品研发

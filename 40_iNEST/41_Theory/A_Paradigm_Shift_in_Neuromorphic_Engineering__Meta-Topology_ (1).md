@@ -6,6 +6,7 @@ tags:
 - fundamentals
 - large-language-model
 - transformer
+provenance: external
 ---
 - **类型**: plain_text
 - **时间**: 2026-01-12 11:05:09

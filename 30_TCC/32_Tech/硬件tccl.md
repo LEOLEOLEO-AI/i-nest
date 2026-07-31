@@ -5,6 +5,7 @@ note_id: "1905425820621658424"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 硬件tccl

@@ -3,6 +3,7 @@ title: "TCC 计算范式 — 全景导航"
 date: 2026-07-03
 type: MOC
 tags: [TCC, MOC, navigation]
+provenance: external
 ---
 
 # TCC 计算范式 — 全景导航

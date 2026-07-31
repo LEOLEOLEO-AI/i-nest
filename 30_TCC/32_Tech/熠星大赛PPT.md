@@ -5,6 +5,7 @@ note_id: "1907432189898060816"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 熠星大赛PPT

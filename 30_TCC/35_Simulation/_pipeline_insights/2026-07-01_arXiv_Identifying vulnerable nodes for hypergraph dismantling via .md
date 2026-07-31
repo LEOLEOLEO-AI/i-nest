@@ -10,6 +10,7 @@ tags: [洞察, tcc, 来自arxiv]
 citations: 0
 relevance: 2
 status: 洞察
+provenance: external
 ---
 
 # Identifying vulnerable nodes for hypergraph dismantling via higher-order competition dynamics

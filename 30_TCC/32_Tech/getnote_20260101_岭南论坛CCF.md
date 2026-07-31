@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "岭南论坛CCF"
 date: 2026-01-01 23:12:04
 source: "????"

@@ -3,6 +3,7 @@ direction: iNEST
 title: "资讯   液态神经网络 (Liquid Neural Nets)"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 资讯 | 液态神经网络 (Liquid Neural Nets)
 

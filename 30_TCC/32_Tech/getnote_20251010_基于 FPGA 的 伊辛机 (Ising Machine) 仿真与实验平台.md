@@ -9,6 +9,7 @@ source: getnote---
 
 # 基于 FPGA 的 伊辛机 (Ising Machine) 仿真与实验平台
 
+provenance: external
 ---
 
 ```markdown

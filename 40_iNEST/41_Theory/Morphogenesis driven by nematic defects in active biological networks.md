@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.04256v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Morphogenesis driven by nematic defects in active biological networks

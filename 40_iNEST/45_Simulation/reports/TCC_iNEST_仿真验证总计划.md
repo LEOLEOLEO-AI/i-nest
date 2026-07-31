@@ -3,6 +3,7 @@ title: TCC_iNEST_仿真验证总计划
 date: 2026-06-19
 tags: [simulation, connectome, validation, V26-V30]
 version: v1.0
+provenance: own
 ---
 
 # TCC x iNEST 真实数据仿真验证总计划

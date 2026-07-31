@@ -5,6 +5,7 @@ tags: [brain-inspired, neuromorphic, transformer, sparse-activation, hebbian-lea
 summary: "BDH类脑AI架构：后Transformer时代的新范式探索"
 quality: high
 processed: 2026-07-15 14:43
+provenance: external
 ---
 ---
 title: getnote_1915327508019187912_BDH（龙宝宝）类脑AI架构深度研报：后Transformer时代的新范式探索

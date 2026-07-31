@@ -3,6 +3,7 @@ direction: iNEST
 title: " Nature子刊 南开团队可重构类脑器件 把浮栅 劈开 一半存权重 一半做激活 "
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # [Nature子刊]南开团队可重构类脑器件！把浮栅“劈开”一半存权重、一半做激活？
 

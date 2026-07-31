@@ -4,6 +4,7 @@ date: 2026-07-07
 type: emergence-report
 period: 2026-06-07 to 2026-07-07
 active_notes: 1446
+provenance: external
 ---
 
 # Concept Emergence Detection

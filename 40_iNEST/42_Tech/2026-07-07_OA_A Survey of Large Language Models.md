@@ -10,6 +10,7 @@ source: openalex
 query: "complex network phase transition emergence"
 date: 2026-07-07
 topics: ['Topic Modeling', 'Natural Language Processing Techniques']
+provenance: external
 ---
 
 # A Survey of Large Language Models

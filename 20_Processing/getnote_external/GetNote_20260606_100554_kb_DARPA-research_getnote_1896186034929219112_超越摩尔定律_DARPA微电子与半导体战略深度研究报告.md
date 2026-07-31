@@ -32,6 +32,7 @@ tags:
 - 半导体
 - physics
 title: kb_DARPA-research_getnote_1896186034929219112_超越摩尔定律_DARPA微电子与半导体战略深度研究报告
+provenance: external
 ---
 
 ## Original Note

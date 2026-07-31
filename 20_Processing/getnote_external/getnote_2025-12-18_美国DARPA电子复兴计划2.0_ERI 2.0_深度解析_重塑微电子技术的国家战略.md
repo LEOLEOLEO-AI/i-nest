@@ -5,6 +5,7 @@ type: link
 created: 2025-12-18 05:54:50
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # 美国DARPA电子复兴计划2.0(ERI 2.0)深度解析：重塑微电子技术的国家战略

@@ -5,6 +5,7 @@ tags:
 - chiplet
 - embodied-ai
 - project-management
+provenance: own
 ---
 Generated: 2026-04-28 22:00:25
 

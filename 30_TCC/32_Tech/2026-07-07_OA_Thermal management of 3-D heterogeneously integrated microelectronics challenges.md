@@ -10,6 +10,7 @@ source: openalex
 query: "3D-IC TSV hybrid bonding advanced packaging"
 date: 2026-07-07
 topics: ['3D IC and TSV technologies', 'Thermal properties of materials', 'Silicon Carbide Semiconductor Technologies']
+provenance: external
 ---
 
 # Thermal management of 3-D heterogeneously integrated microelectronics: challenges and future research directions

@@ -3,6 +3,7 @@ direction: iNEST
 title: "SDI Four Rules v5 FINAL"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: external
 ---
 # SDI 四条规则 — v5 文献锁定最终版
 # Software-Defined Interconnect Four Rules — v5 Bio-Evidence Final

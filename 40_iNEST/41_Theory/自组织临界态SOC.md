@@ -3,6 +3,7 @@ title: "自组织临界态 (SOC)"
 date: 2026-07-03
 type: concept
 tags: [iNEST, SOC, criticality, emergence]
+provenance: own
 ---
 
 # 自组织临界态 (Self-Organized Criticality)

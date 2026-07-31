@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "Nature重磅研究：果蝇脑-腹神经索连接组揭示分布式行为控制新架构"
 date: 2026-06-18 21:34:00
 source: "????"

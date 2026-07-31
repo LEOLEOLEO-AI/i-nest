@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 ﻿---
 title: "LNN→iNEST→FPGA 持续推进落地路线图"
 date: 2026-06-03

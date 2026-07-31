@@ -3,6 +3,7 @@ direction: iNEST
 title: "全球首款大规模类脑脉冲大模型SpikingBrain1 0发布"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # 全球首款大规模类脑脉冲大模型SpikingBrain1.0发布
 

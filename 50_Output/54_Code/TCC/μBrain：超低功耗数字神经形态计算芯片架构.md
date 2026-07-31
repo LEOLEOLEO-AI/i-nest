@@ -10,6 +10,7 @@ tags:
   - "超低功耗芯片"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # μBrain：超低功耗数字神经形态计算芯片架构

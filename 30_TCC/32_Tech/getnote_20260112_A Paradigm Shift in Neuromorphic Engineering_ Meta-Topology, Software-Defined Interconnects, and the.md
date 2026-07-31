@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "A Paradigm Shift in Neuromorphic Engineering: Meta-Topology, Software-Defined Interconnects, and the Emergence of High-Dimensional Dynamically Plastic Physical Networks"
 date: 2026-01-12 11:05:09
 source: "????"

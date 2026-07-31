@@ -17,6 +17,7 @@ tags:
 - 材料科学
 - tech-clip
 title: kb_DARPA-research_getnote_1896236747756075200_重塑国防制造_DARPA材料科学与先进制造战略深度解析
+provenance: external
 ---
 
 ## Original Note

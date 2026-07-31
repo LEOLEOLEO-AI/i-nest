@@ -3,6 +3,7 @@ direction: TCC
 title: "TCC Core Concepts"
 created: 2026-07-14
 modified: 2026-07-15
+provenance: external
 ---
 ﻿# TCC核心概念与基线理论集 (TCC Core Concepts)
 

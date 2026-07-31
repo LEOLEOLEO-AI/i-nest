@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Low-Latency Relay Selection in NR-V2X Vehicular Communications via Graph Isomorphism Networks with Edge Features"
 date: 2026-07-19

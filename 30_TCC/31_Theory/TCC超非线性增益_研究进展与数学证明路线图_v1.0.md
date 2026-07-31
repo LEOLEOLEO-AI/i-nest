@@ -4,6 +4,7 @@ date: 2026-07-05
 status: Authoritative
 tags: [TCC, iNEST, super-nonlinear-gain, emergence, mathematical-proof, roadmap]
 inherits: "TCC(拓扑中心计算) → iNEST(复杂网络涌现智能)"
+provenance: external
 ---
 
 # TCC 超非线性增益（1+1>2）：研究进展、证明方案与执行计划

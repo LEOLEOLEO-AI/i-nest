@@ -4,6 +4,7 @@ tags:
 - attachment-directory
 - obsidian-setup
 - file-organization
+provenance: own
 ---
 # 📁 99-Attachments — 统一附件目录
 

@@ -11,6 +11,7 @@ tags:
 - neuroscience
 - paper
 - simulation
+provenance: own
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-24 19:26

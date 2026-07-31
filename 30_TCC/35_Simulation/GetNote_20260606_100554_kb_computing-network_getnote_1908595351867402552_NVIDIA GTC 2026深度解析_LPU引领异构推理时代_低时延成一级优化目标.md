@@ -30,6 +30,7 @@ tags:
 - first-principles
 - physics
 title: kb_computing-network_getnote_1908595351867402552_NVIDIA GTC 2026深度解析_LPU引领异构推理时代
+provenance: external
 ---
 
 ## Original Note

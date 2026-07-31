@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 2
 status: inbox
+provenance: external
 ---
 
 # The Sparsity Ceiling: Where Spiking Networks Can and Cannot Trade Activity for Energy

@@ -3,6 +3,7 @@ direction: TCC
 title: "临界学习 LaC  大模型推理能力涌现的物理机制与科学应用"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 临界学习（LaC）：大模型推理能力涌现的物理机制与科学应用
 

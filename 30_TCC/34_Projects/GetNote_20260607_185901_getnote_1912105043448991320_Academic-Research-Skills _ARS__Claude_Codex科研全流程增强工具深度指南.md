@@ -17,6 +17,7 @@ tags:
 - paper
 - research
 title: getnote_1912105043448991320_Academic-Research-Skills _ARS__Claude_Codex科研全流程增强工具
+provenance: external
 ---
 
 ## Original Note

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # 2026-06-23 07:17-07:23 EDT - Genspark Git Workflow 执行成功完成
 
 ## 【任务成果】✅ 全部完成

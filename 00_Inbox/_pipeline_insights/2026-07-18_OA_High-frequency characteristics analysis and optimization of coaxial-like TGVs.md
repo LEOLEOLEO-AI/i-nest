@@ -10,6 +10,7 @@ source: openalex
 query: "3D-IC TSV hybrid bonding advanced packaging"
 date: 2026-07-18
 topics: ['3D IC and TSV technologies', 'Electromagnetic Compatibility and Noise Suppression', 'Electronic Packaging and Soldering Technologies']
+provenance: external
 ---
 
 # High-frequency characteristics analysis and optimization of coaxial-like TGVs

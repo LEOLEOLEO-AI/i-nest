@@ -5,6 +5,7 @@ type: plain_text
 created: 2025-06-25 19:04:09
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # AI实现自我反思

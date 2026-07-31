@@ -10,6 +10,7 @@ tags: [深度分析, tcc, 来自arxiv]
 citations: 0
 relevance: 3
 status: 深度阅读
+provenance: external
 ---
 
 # EPnG: Adaptive Expert Prune-and-Grow for Parameter-Efficient MoE Fine-tuning

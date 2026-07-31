@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 2
 status: 洞察
+provenance: external
 ---
 
 # A Comparative Analysis of Attractive and Repulsive Olfactory Circuits in the Drosophila Connectome

@@ -3,6 +3,7 @@ direction: iNEST
 title: "BAAI：第一原理的脑和认知科学的人工智能，6大角度"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # BAAI：第一原理的脑和认知科学的人工智能，6大角度
 

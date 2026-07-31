@@ -22,6 +22,7 @@ title: Neuromorphic computing spiking neural network edge detection model for co
 track: iNEST
 url: https://www.semanticscholar.org/paper/4f3381a44fe663365bd63ec540bdf4511ac562d9
 year: 2024
+provenance: external
 ---
 
 # Neuromorphic computing spiking neural network edge detection model for content based image retrieval

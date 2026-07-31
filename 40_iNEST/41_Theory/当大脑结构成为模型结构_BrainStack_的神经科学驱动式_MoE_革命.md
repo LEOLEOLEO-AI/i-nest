@@ -3,6 +3,7 @@ direction: iNEST
 title: "当大脑结构成为模型结构 BrainStack 的神经科学驱动式 MoE 革命"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 当大脑结构成为模型结构，BrainStack 的神经科学驱动式 MoE 革命
 

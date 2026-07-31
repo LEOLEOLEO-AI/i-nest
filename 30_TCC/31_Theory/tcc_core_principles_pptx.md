@@ -4,6 +4,7 @@ direction: TCC
 source: "Genspark"
 date: 2026-07-12
 tags: [tcc, first-principles, genspark-import]
+provenance: external
 ---
 
 # TCC核心原理与架构映射（PPT）

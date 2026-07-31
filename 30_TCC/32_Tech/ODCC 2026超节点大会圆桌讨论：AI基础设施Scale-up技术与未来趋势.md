@@ -10,6 +10,7 @@ tags:
   - "Scale-up技术"
   - "get-笔记"
   - "会议记录"
+provenance: external
 ---
 
 # ODCC 2026超节点大会圆桌讨论：AI基础设施Scale-up技术与未来趋势

@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 ﻿---
 title: "Gen1-MVP智涌脑 FPGA验证与测试方案"
 date: 2026-06-18

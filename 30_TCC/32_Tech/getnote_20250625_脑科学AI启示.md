@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "脑科学AI启示"
 date: 2025-06-25 19:02:18
 source: "????"

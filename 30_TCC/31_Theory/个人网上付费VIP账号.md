@@ -6,6 +6,7 @@ tags:
   - "集智俱乐部"
   - "get-笔记"
   - "default"
+provenance: external
 ---
 
 # 个人网上付费VIP账号

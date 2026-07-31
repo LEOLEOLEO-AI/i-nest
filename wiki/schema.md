@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # schema.md — iNEST Research Wiki Compiler
 
 _LLM instructions for compiling raw materials into structured knowledge._

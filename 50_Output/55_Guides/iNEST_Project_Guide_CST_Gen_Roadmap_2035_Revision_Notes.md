@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 ﻿---
 title: iNEST 项目指南修订说明：CST 与 Gen1–Gen5 时间节奏
 status: review

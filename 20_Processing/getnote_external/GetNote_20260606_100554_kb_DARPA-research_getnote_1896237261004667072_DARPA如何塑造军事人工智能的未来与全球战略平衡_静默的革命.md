@@ -27,6 +27,7 @@ tags:
 - 人机协同
 - 战略平衡
 title: kb_DARPA-research_getnote_1896237261004667072_DARPA如何塑造军事人工智能的未来与全球战略平衡_静默的革命
+provenance: external
 ---
 
 ## Original Note

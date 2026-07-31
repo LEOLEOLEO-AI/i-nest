@@ -10,6 +10,7 @@ source: openalex
 query: "higher-order network simplicial hypergraph dynamics"
 date: 2026-07-18
 topics: ['Complex Network Analysis Techniques', 'Opinion Dynamics and Social Influence', 'Sustainability and Ecological Systems Analysis']
+provenance: external
 ---
 
 # Reducibility of higher-order networks from dynamics

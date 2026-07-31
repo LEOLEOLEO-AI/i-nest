@@ -11,6 +11,7 @@ tags:
 - simulation
 - synapse
 - topology
+provenance: external
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-02-06 23:27

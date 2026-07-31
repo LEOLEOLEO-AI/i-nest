@@ -5,6 +5,7 @@ note_id: "1881504561106185616"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # SNN的异步电路实现

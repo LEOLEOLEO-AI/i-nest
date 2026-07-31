@@ -5,6 +5,7 @@ type: link
 created: 2025-12-17 16:41:18
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # 美国DARPA微电子与半导体领域深度研究报告：超越摩尔定律的范式革命

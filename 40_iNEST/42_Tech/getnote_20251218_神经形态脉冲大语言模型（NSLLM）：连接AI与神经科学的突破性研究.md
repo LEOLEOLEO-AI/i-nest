@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "神经形态脉冲大语言模型（NSLLM）：连接AI与神经科学的突破性研究"
 date: 2025-12-18 07:40:41
 source: "????"

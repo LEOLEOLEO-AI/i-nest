@@ -11,6 +11,7 @@ source: getnote---
 
 Now I have comprehensive data. Let me compile the full analysis.
 
+provenance: own
 ---
 
 # 全球前沿竞争图谱与"晶智涌现"的独特定位

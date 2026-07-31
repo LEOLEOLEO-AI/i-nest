@@ -11,6 +11,7 @@ tags:
 - embodied-ai
 - emergence
 - free-energy-principle
+provenance: own
 ---
 生成时间：2026-05-02 22:41:46
 

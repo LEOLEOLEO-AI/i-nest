@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "基于SDI的物理Synapse与NN"
 date: 2026-01-12 05:43:24
 source: "????"

@@ -16,6 +16,7 @@ tags:
 - 材料科学
 - architecture
 title: kb_DARPA-research_getnote_1896236773525351600_美国DARPA_材料科学与先进制造_领域深度研究报告_战略_技术与未
+provenance: external
 ---
 
 ## Original Note

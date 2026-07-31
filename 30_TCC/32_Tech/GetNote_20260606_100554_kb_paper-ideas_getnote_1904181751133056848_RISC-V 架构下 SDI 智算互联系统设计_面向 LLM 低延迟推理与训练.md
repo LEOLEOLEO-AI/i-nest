@@ -38,6 +38,7 @@ tags:
 - green-ai
 - physics
 title: kb_paper-ideas_getnote_1904181751133056848_RISC-V 架构下 SDI 智算互联系统设计_面向 LLM 低延迟推理与
+provenance: external
 ---
 
 ## Original Note

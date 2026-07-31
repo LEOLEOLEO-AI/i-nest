@@ -5,6 +5,7 @@ note_id: "1884221107520245360"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # AI2AC大会PPT

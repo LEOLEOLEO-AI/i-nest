@@ -4,6 +4,7 @@ version: "v1.0"
 date: "2026-07-26"
 status: "立项论证与执行基线"
 timeline_baseline: "D:/iNEST/Write/Code/other/iNEST4.md"
+provenance: own
 ---
 
 # CST—iNEST—iMESO—TCC 理论技术工程一体化研究与发展规划

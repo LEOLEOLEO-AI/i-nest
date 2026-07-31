@@ -4,6 +4,7 @@ date: 2026-07-08
 version: v1.2
 status: authoritative
 tags: [TCC, RTC, SDI, primitives, architecture, topology-switching]
+provenance: external
 ---
 
 # TCC R.T.C 原语系统架构与 SDI 拓扑变换底层机理

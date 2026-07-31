@@ -3,6 +3,7 @@ direction: TCC
 title: "用于智算场景的Scale-up互联技术分析 (2)"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 用于智算场景的Scale-up互联技术分析
 

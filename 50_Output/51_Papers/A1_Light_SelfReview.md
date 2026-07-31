@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# A1 CST V30 — Light Self-Review Report
 **Date:** 2026-06-19 23:26
 **Reviewer:** Light a08 self-review skill

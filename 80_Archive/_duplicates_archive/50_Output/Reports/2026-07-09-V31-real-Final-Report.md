@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # SDI V31-real 最终验证报告（更新版）
 
 **日期**：2026-07-09  

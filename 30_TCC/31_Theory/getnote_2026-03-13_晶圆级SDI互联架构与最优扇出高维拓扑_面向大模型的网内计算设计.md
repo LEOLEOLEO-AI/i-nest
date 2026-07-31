@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-03-13 18:59:20
 source: getnote
 kb: paper-ideas
+provenance: external
 ---
 
 # 晶圆级SDI互联架构与最优扇出高维拓扑：面向大模型的网内计算设计

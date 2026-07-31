@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # CST仿真平台
 
 **CST网络时空协同复杂度仿真平台**  

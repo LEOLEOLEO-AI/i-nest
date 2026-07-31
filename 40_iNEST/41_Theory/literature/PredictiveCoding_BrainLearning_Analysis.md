@@ -3,6 +3,7 @@ direction: iNEST
 title: "PredictiveCoding BrainLearning Analysis"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # 预测编码：大脑的学习算法并非反向传播
 # Brain Learning Beyond Backpropagation — Predictive Coding Framework

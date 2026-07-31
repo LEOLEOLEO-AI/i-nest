@@ -10,6 +10,7 @@ tags:
   - "偏微分方程（PDE）求解"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # 物理信息神经网络（PINN）求解偏微分方程：全面综述与技术解析

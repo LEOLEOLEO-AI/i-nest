@@ -3,6 +3,7 @@ direction: iNEST
 title: "Idea LNN AdaptiveTau in SDI v9"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # Idea: LNN 自适应 tau 引入 SDI v9 仿真
 

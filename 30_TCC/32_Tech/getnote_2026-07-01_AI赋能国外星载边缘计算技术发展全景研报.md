@@ -5,6 +5,7 @@ type: link
 created: 2026-07-01 23:14:18
 source: getnote
 kb: 
+provenance: external
 ---
 
 # AI赋能国外星载边缘计算技术发展全景研报

@@ -3,6 +3,7 @@ direction: TCC
 title: "Transformer的拓扑直觉之一"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 # Transformer的拓扑直觉之一
 

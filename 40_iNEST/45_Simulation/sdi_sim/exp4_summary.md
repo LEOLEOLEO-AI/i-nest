@@ -3,6 +3,7 @@ direction: iNEST
 title: "exp4 summary"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # SDI 实验四：竞争性修剪规则——模块化涌现验证
 

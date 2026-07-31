@@ -10,6 +10,7 @@ source: openalex
 query: "self-organized criticality neuronal avalanche"
 date: 2026-07-18
 topics: ['Advanced Memory and Neural Computing', 'Neural Networks and Reservoir Computing', 'Neural dynamics and brain function']
+provenance: external
 ---
 
 # Neuromorphic hierarchical modular reservoirs

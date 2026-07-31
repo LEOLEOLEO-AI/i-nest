@@ -10,6 +10,7 @@ tags:
   - "传感器内处理"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # 汉阳大学2025 Nature Communications论文解析：动态视觉传感的传感器内光电处理技术

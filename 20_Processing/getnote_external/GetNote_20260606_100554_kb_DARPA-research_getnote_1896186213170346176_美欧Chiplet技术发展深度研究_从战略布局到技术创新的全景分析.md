@@ -23,6 +23,7 @@ tags:
 - first-principles
 - physics
 title: kb_DARPA-research_getnote_1896186213170346176_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析
+provenance: external
 ---
 
 ## Original Note

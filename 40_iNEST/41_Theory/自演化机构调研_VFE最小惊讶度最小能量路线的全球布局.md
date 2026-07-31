@@ -3,6 +3,7 @@ direction: iNEST
 title: "自演化机构调研 VFE最小惊讶度最小能量路线的全球布局"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿---
 title: "自演化机构调研：VFE/最小惊讶度/最小能量路线的全球布局"

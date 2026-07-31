@@ -11,6 +11,7 @@ tags:
 - neural-networks
 - neuron
 - neuroscience
+provenance: external
 ---
 - **类型**: plain_text
 - **时间**: 2025-07-05 22:18:53

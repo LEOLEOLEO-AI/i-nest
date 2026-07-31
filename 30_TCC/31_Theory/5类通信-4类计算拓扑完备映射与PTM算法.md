@@ -7,6 +7,7 @@ date: 2026-06-03
 status: 撰写中
 priority: 高
 source: "iNEST_2_论文撰写/P-Theory_v2_MetaTopology_SDI_Bond_Draft.md"
+provenance: own
 ---
 
 # 5类通信-4类计算拓扑完备映射与PTM算法

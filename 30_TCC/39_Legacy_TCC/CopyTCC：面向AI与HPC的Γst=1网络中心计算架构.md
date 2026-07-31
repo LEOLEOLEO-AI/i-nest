@@ -5,6 +5,7 @@ note_id: ""
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # CopyTCC：面向AI与HPC的Γst=1拓扑中心计算架构

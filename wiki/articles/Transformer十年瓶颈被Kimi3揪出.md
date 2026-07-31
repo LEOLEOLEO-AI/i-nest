@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Transformer十年瓶颈被Kimi3揪出
 
 **Domain**: Cross

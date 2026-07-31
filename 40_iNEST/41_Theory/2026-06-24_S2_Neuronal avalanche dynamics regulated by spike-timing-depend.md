@@ -8,6 +8,7 @@ year: 2023
 url: https://www.semanticscholar.org/paper/11c5d99b3ab06a1ac4a5474058ad77d626502694
 tags: [neuronal avalanches, STDP, network topology, heterogeneity, computational neuroscience, classified]
 status: inbox
+provenance: external
 ---
 
 # Neuronal avalanche dynamics regulated by spike-timing-dependent plasticity under different topologies and heterogeneities

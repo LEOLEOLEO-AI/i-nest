@@ -9,6 +9,7 @@ tags:
   - "AI 智能体"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # DeepSeek与coze结合搭建智能体教程及相关福利分享

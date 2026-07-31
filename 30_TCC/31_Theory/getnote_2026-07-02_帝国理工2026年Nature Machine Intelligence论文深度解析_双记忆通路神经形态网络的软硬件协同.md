@@ -5,6 +5,7 @@ type: link
 created: 2026-07-02 06:46:05
 source: getnote
 kb: 
+provenance: external
 ---
 
 # 帝国理工2026年Nature Machine Intelligence论文深度解析：双记忆通路神经形态网络的软硬件协同设计

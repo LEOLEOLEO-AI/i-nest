@@ -9,6 +9,7 @@ priority: 高
 chapters: 1-4章+5章+8章+附录
 target: 2026 Q2 确定合并/独立策略
 source: "D:\inest\专著\iMESO\iNEST理论与iMESO工程实现（全文）.docx"
+provenance: own
 ---
 
 # iMESO理论：介观尺度智能涌现

@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.20031v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems

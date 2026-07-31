@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # SDI 四规则工程参数——生物学文献依据规范
 # Biology-Grounded Parameter Specification for SDI Four Rules
 

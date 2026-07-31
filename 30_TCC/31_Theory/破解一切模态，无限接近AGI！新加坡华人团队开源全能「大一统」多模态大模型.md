@@ -3,6 +3,7 @@ direction: TCC
 title: "破解一切模态，无限接近AGI！新加坡华人团队开源全能「大一统」多模态大模型"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 破解一切模态，无限接近AGI！新加坡华人团队开源全能「大一统」多模态大模型
 

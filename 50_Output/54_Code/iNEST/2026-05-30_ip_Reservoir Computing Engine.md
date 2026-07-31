@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: engineering
 status: concept
 tags: [engineering, ip, inest, reservoir-computing, echo-state-network, liquid-state-machine, temporal-processing]
+provenance: own
 ---
 
 # Reservoir Computing Engine

@@ -4,6 +4,7 @@ tags:
 - chip
 - chip-hardware
 - semiconductor
+provenance: own
 ---
 > 笔记本: 来自小程序「印象笔记」  
 > 创建时间: 2024-06-10  

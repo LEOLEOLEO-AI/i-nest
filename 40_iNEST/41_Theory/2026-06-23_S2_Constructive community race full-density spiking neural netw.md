@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/ce5722ef9fbc701349523fe3523120bc65f5276f
 tags: [from-s2, auto-crawl, inest, classified, inest]
 status: inbox
+provenance: external
 ---
 
 # Constructive community race: full-density spiking neural network model drives neuromorphic computing

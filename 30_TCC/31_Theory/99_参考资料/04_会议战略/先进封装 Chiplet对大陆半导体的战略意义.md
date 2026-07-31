@@ -3,6 +3,7 @@ direction: TCC
 title: "先进封装 Chiplet对大陆半导体的战略意义"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 先进封装/Chiplet对大陆半导体的战略意义
 

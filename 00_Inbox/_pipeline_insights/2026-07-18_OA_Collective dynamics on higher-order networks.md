@@ -10,6 +10,7 @@ source: openalex
 query: "self-organized criticality neuronal avalanche"
 date: 2026-07-18
 topics: ['Opinion Dynamics and Social Influence', 'Complex Network Analysis Techniques']
+provenance: external
 ---
 
 # Collective dynamics on higher-order networks

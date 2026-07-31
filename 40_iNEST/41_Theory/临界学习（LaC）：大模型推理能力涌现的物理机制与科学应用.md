@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # 临界学习（LaC）：大模型推理能力涌现的物理机制与科学应用

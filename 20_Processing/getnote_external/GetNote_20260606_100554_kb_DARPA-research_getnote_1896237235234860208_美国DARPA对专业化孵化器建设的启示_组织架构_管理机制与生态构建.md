@@ -17,6 +17,7 @@ tags:
 - 创新管理
 - 专业化孵化器
 title: kb_DARPA-research_getnote_1896237235234860208_美国DARPA对专业化孵化器建设的启示_组织架构_管理机制与生态构建
+provenance: external
 ---
 
 ## Original Note

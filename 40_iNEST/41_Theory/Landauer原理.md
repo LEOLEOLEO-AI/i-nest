@@ -5,6 +5,7 @@ note_id: "1891263686727810424"
 tags:
   - "get-笔记"
   - "灵感"
+provenance: own
 ---
 
 # Landauer原理

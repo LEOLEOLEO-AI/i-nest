@@ -5,6 +5,7 @@ author: iNEST 验证中枢
 type: final-report
 phase: E
 tags: [verification, final, yiyanzhixin, CST, iNEST, SRMA, SDDE, CIM]
+provenance: external
 ---
 
 # 一言知心理论验证综合报告

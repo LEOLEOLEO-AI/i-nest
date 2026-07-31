@@ -3,6 +3,7 @@ title: "FPGA 原型验证平台"
 date: 2026-07-03
 type: concept
 tags: [TCC, FPGA, prototype, verification]
+provenance: own
 ---
 
 # FPGA 原型验证平台

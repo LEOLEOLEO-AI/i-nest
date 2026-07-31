@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-06-28 21:27:07
 source: getnote
 kb: TCC
+provenance: external
 ---
 
 # TCC生态体系命名

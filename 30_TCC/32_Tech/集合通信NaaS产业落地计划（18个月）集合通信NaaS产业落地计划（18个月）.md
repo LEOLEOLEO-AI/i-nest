@@ -7,6 +7,7 @@ tags:
 - paper
 - patent
 - semiconductor
+provenance: own
 ---
 ## 第一期：IP诊断服务（0-6个月）
 

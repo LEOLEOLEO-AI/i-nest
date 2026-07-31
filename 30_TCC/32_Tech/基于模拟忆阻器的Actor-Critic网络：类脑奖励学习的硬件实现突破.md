@@ -10,6 +10,7 @@ tags:
   - "Actor-Critic网络"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 基于模拟忆阻器的Actor-Critic网络：类脑奖励学习的硬件实现突破

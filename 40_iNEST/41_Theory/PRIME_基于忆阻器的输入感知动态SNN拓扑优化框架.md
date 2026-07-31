@@ -3,6 +3,7 @@ direction: iNEST
 title: "PRIME 基于忆阻器的输入感知动态SNN拓扑优化框架"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # PRIME：基于忆阻器的输入感知动态SNN拓扑优化框架
 

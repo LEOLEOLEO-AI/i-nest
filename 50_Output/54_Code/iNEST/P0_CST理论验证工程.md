@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 ﻿---
 title: "P0: CST理论验证工程"
 date: 2026-06-18

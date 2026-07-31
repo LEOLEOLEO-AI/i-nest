@@ -3,6 +3,7 @@ direction: TCC
 title: "PPT 新型电力系统需要人工智能"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # PPT | 新型电力系统需要人工智能
 

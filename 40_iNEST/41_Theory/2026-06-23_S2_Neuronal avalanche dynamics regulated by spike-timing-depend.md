@@ -27,6 +27,7 @@ title: Neuronal avalanche dynamics regulated by spike-timing-dependent plasticit
 track: iNEST
 url: https://www.semanticscholar.org/paper/11c5d99b3ab06a1ac4a5474058ad77d626502694
 year: 2023
+provenance: external
 ---
 
 # Neuronal avalanche dynamics regulated by spike-timing-dependent plasticity under different topologies and heterogeneities

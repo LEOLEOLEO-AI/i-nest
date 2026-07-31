@@ -10,6 +10,7 @@ metadata:
     bins:
     - gsk
   cliHelp: gsk outlook --help
+provenance: external
 ---
 
 # gsk-outlook-email

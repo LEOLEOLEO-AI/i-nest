@@ -10,6 +10,7 @@ source: openalex
 query: "network-on-chip small-world topology optimization"
 date: 2026-07-07
 topics: ['Microbial Community Ecology and Physiology', 'Evolutionary Game Theory and Cooperation', 'Bacterial biofilms and quorum sensing']
+provenance: external
 ---
 
 # Spatial structure: shaping the ecology and evolution of microbial communities

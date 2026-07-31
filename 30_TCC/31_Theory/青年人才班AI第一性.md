@@ -5,6 +5,7 @@ note_id: "1891973207811578488"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 青年人才班AI第一性

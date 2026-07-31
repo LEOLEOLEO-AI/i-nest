@@ -5,6 +5,7 @@ note_id: "1889756010399280488"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 中美AI体系竞争

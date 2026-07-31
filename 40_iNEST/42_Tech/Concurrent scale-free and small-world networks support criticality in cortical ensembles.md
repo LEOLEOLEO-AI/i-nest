@@ -5,6 +5,7 @@ source: "semantic_scholar"
 tags: [criticality, neuronal_avalanches, scale_free_networks, small_world_networks, computational_modeling, self_organized_criticality, cortical_networks, network_topology]
 inest_score: 0.8
 analyzed: 2026-05-30 12:08
+provenance: external
 ---
 
 # Concurrent scale-free and small-world networks support criticality in cortical ensembles

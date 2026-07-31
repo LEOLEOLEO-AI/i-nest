@@ -3,6 +3,7 @@ direction: iNEST
 title: "AGI面临的挑战   脑机制自底向顶梳理 下部 5万字"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # AGI面临的挑战 : 脑机制自底向顶梳理 下部 5万字
 

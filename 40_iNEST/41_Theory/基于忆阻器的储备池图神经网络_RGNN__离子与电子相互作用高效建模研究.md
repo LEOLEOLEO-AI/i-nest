@@ -3,6 +3,7 @@ direction: iNEST
 title: "基于忆阻器的储备池图神经网络 RGNN  离子与电子相互作用高效建模研究"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 基于忆阻器的储备池图神经网络（RGNN）：离子与电子相互作用高效建模研究
 

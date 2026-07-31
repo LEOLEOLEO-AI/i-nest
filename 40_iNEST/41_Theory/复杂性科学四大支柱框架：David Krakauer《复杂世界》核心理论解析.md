@@ -10,6 +10,7 @@ tags:
   - "David Krakauer"
   - "get-笔记"
   - "科技资讯"
+provenance: own
 ---
 
 # 复杂性科学四大支柱框架：David Krakauer《复杂世界》核心理论解析

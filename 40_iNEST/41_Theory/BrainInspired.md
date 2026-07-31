@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 # Brain-Inspired Computing
 
 > 占位笔记 | 原文件已迁移

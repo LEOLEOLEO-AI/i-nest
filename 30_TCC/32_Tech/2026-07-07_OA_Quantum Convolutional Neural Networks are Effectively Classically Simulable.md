@@ -10,6 +10,7 @@ source: openalex
 query: "network topology intelligence emergence scaling"
 date: 2026-07-07
 topics: ['Quantum Computing Algorithms and Architecture', 'Neural Networks and Applications']
+provenance: external
 ---
 
 # Quantum Convolutional Neural Networks are Effectively Classically Simulable

@@ -10,6 +10,7 @@ source: openalex
 query: "free energy principle active inference neural"
 date: 2026-07-07
 topics: ['Natural Language Processing Techniques']
+provenance: external
 ---
 
 # Bias in Large Language Models: Origin, Evaluation, and Mitigation

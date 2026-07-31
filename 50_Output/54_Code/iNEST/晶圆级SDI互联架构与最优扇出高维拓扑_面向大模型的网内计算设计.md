@@ -8,6 +8,7 @@ tags:
 - neuroscience
 - topology
 - wafer
+provenance: own
 ---
 - **类型**: plain_text
 - **时间**: 2026-03-13 18:59:20

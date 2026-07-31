@@ -1,5 +1,6 @@
 ---
 description: Send and receive emails through your dedicated genspark.email address
+provenance: external
 ---
 
 # Email

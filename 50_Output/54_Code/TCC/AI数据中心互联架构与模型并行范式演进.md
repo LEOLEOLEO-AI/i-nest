@@ -10,6 +10,7 @@ tags:
   - "张量并行"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # AI数据中心互联架构与模型并行范式演进

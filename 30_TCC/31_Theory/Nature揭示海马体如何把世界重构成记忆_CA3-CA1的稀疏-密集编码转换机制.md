@@ -30,6 +30,7 @@ tags:
 - paper
 - CA3
 title: getnote_1912045671970669904_Nature揭示海马体如何把世界重构成记忆_CA3-CA1的稀疏-密集编码转换机制
+provenance: external
 ---
 
 ## Original Note

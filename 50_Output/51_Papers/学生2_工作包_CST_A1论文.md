@@ -3,6 +3,7 @@ title: "学生2 工作包 — CST-A1论文"
 assignee: 学生2
 deadline: 2026-07-31
 date: 2026-06-16
+provenance: external
 ---
 
 # 学生2 工作包：CST智能涌现理论论文

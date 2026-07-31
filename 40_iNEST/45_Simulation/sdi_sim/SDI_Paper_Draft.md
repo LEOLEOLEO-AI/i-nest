@@ -3,6 +3,7 @@ direction: iNEST
 title: "SDI Paper Draft"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: external
 ---
 # 软件定义互连极简规则驱动神经网络跨物种小世界拓扑与功能涌现
 ## ——从线虫到人类连接组的四规则自组织临界验证

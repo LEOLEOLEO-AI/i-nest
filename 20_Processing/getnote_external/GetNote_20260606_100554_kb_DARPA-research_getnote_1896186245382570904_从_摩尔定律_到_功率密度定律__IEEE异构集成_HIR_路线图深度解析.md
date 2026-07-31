@@ -22,6 +22,7 @@ tags:
 - IEEE HIR
 - physics
 title: kb_DARPA-research_getnote_1896186245382570904_从_摩尔定律_到_功率密度定律__IEEE异构集成_HIR_路线图深
+provenance: external
 ---
 
 ## Original Note

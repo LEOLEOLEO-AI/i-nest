@@ -12,6 +12,7 @@ metadata:
     files:
       - ~/.openclaw/workspace/skills/paper-monitor/config.json   # topics, keywords, sources
       - ~/.openclaw/workspace/skills/paper-monitor/state.json    # seen paper/patent IDs for deduplication
+provenance: external
 ---
 
 # paper-monitor

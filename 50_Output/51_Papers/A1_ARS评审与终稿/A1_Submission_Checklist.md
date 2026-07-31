@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# A1 Submission Checklist — Nature Physics
 
 **Paper:** A1 — "From Compute to Complexity: A Physical Theory of Intelligence Emergence"  

@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.01661v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Feature leakage and the identifiability of direct-dependency entropy models of neural activity

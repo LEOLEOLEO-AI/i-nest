@@ -3,6 +3,7 @@ direction: TCC
 title: "Git清除密码指南"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # Windows 上清除错误的 Git 凭证
 

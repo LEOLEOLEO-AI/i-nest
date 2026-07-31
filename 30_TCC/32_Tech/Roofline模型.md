@@ -5,6 +5,7 @@ note_id: "1907408673878378000"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # Roofline模型

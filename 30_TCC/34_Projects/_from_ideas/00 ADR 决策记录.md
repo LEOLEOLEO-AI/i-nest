@@ -2,6 +2,7 @@
 title: 00_ADR_决策记录
 tags:
 - project-management
+provenance: own
 ---
 这里放“决策记录”（ADR）：
 - 每个关键决定一篇

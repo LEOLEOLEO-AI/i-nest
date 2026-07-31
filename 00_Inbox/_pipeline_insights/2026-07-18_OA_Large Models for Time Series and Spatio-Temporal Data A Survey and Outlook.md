@@ -10,6 +10,7 @@ source: openalex
 query: "free energy principle active inference neural"
 date: 2026-07-18
 topics: ['Time Series Analysis and Forecasting', 'Advanced Text Analysis Techniques', 'Topic Modeling']
+provenance: external
 ---
 
 # Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook

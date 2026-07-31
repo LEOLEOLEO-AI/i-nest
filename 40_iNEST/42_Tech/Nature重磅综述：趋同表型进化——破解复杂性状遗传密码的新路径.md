@@ -10,6 +10,7 @@ tags:
   - "进化生物学"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # Nature重磅综述：趋同表型进化——破解复杂性状遗传密码的新路径

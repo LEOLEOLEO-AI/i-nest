@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-06-21 13:40:54
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # iNEST三元映射框架

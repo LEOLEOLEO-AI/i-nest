@@ -5,6 +5,7 @@ type: link
 created: 2025-12-18 05:49:03
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # DARPA重塑未来战争形态：空天、太空与高超音速领域战略布局深度分析

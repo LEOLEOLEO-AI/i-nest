@@ -10,6 +10,7 @@ source: openalex
 query: "dark silicon manycore energy optimization"
 date: 2026-07-18
 topics: ['Electric and Hybrid Vehicle Technologies', 'Advanced Battery Technologies Research', 'Microgrid Control and Optimization']
+provenance: external
 ---
 
 # A Review of Intelligent Power Management and AI-Assisted Energy-Efficient Control in Robotics

@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 08:46:53
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # 万卡级AI训练集群网络架构深度分析：通信需求与架构挑战

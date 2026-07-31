@@ -10,6 +10,7 @@ tags:
   - "存内计算(CIM)"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 3D-TokSIM：基于3D堆叠内存与Token驻留存内计算的LLM推理加速架构

@@ -6,6 +6,7 @@ aliases:
   - Software-Defined Interconnect
 tags:
   - ssot
+provenance: own
 ---
 
 # SDI

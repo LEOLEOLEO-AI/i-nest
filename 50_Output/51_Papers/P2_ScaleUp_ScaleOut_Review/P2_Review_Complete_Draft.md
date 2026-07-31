@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # From Scale-Up to Wafer-Scale: A Comprehensive Review of Interconnect Architectures for Large Language Model Training
 
 **Target:** Nature Electronics / IEEE Proceedings

@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-06-06 08:08:30
 source: getnote
 kb: Codex-tips
+provenance: external
 ---
 
 # 关键 skill

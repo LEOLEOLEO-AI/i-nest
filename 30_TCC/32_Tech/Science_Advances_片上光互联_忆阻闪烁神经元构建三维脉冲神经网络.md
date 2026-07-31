@@ -10,6 +10,7 @@ tags:
 - neuroscience
 - semiconductor
 - synapse
+provenance: external
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-20 04:53

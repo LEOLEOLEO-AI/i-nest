@@ -3,6 +3,7 @@ direction: iNEST
 title: "Nature 子刊    多突触放电神经元 让脉冲网络同时理解 强度 与 时间 "
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Nature 子刊！|  多突触放电神经元：让脉冲网络同时理解“强度”与“时间”
 

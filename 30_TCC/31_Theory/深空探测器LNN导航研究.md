@@ -5,6 +5,7 @@ note_id: "1882616597932313664"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 深空探测器LNN导航研究

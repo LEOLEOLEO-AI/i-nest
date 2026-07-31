@@ -5,6 +5,7 @@ year: 2003
 date: 2026-05-30
 thread: "topology"
 tags: [inspiration, topology, topology, network-theory, criticality]
+provenance: own
 ---
 
 # 💡 The Structure and Function of Complex Networks

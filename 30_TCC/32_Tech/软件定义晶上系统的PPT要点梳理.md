@@ -9,6 +9,7 @@ tags:
 - self-organization
 - semiconductor
 - wafer
+provenance: own
 ---
 - **类型**: audio
 - **时间**: 2025-12-29 11:20:39

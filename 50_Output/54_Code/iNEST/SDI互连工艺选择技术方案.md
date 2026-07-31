@@ -6,6 +6,7 @@ tags:
 - patent
 - topology
 - wafer
+provenance: external
 ---
 ## ——从第一性原理证明28nm是最优工艺节点
 

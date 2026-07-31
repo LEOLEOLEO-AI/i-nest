@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "A1 Cover Letter — Nature Physics"
 date: 2026-06-19

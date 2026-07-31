@@ -6,6 +6,7 @@ tags:
 - neural-networks
 - neuroscience
 - paper
+provenance: external
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-01 11:52

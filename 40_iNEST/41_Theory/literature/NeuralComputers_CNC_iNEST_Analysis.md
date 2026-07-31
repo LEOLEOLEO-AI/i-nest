@@ -3,6 +3,7 @@ direction: iNEST
 title: "NeuralComputers CNC iNEST Analysis"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Neural Computers — Meta AI + KAUST (2026)
 # CNC与iNEST/TCC体系的深度关联分析

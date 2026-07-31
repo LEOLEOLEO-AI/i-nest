@@ -3,6 +3,7 @@ title: Less is more: Modularity in Brain
 date: 2026-07-03
 type: concept
 tags: [neuroscience, modularity]
+provenance: own
 ---
 
 # Less is more: Modularity

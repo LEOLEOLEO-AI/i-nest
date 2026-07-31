@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "从“摩尔定律”到“功率密度定律”：IEEE异构集成(HIR)路线图深度解析"
 date: 2025-12-17 16:44:16
 source: "????"

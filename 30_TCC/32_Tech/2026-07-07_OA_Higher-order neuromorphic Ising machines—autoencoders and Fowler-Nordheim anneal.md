@@ -10,6 +10,7 @@ source: openalex
 query: "dark silicon manycore energy optimization"
 date: 2026-07-07
 topics: ['Neural Networks and Applications', 'Stochastic Gradient Optimization Techniques', 'Generative Adversarial Networks and Image Synthesis']
+provenance: external
 ---
 
 # Higher-order neuromorphic Ising machines—autoencoders and Fowler-Nordheim annealers are all you need for scalability

@@ -8,6 +8,7 @@ created: 2026-07-05
 description: "OpenAI首款自研AI芯片发布，840mm²巨die剑指NVIDIA"
 tags:
   - "clippings"
+provenance: external
 ---
 Sven 有料文字 *2026年6月29日 22:49*
 

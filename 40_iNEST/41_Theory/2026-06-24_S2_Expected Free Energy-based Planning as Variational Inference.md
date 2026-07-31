@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/b4f8a1ae399fb801a251ca4f588b8dff259d0314
 tags: [active inference, expected free energy, planning, variational inference, free energy principle, classified]
 status: inbox
+provenance: external
 ---
 
 # Expected Free Energy-based Planning as Variational Inference

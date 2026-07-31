@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # A General Exposure-Mapping-Agnostic Framework for Causal Inference under Interference

@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "中国科学院自动化所神经拟态系统研究成果：Speck芯片与动态计算框架"
 date: 2025-10-28 13:56:22
 source: "????"

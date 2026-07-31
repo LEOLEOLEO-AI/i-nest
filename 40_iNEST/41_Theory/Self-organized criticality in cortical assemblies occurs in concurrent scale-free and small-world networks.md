@@ -5,6 +5,7 @@ source: "semantic_scholar"
 tags: [self-organized_criticality, complex_networks, cortical_dynamics, scale-free, small-world, excitation-inhibition_balance, in_vitro, theoretical_modeling]
 inest_score: 0.8
 analyzed: 2026-05-30 12:08
+provenance: external
 ---
 
 # Self-organized criticality in cortical assemblies occurs in concurrent scale-free and small-world networks

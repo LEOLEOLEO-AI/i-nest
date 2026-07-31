@@ -10,6 +10,7 @@ tags: [inbox, general, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # A Unified Discrete and Continuous Theory of Core-Halo Complexity Maximizers

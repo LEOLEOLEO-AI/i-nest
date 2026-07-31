@@ -3,6 +3,7 @@ direction: iNEST
 title: "iNEST RnD Workflow v2"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 ﻿# iNEST 研发神经网络 · 五工具协同工作流 v2.0
 

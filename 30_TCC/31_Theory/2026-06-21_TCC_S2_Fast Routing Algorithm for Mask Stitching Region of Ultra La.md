@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/aed16a41ae6cdca0af18e8d0912b6e12f80005f3
 citations: 2
 tags: [mask stitching, routing algorithm, wafer scale integration, interposer, classified]
+provenance: external
 ---
 
 # Fast Routing Algorithm for Mask Stitching Region of Ultra Large Wafer Scale Inte

@@ -3,6 +3,7 @@ direction: iNEST
 title: "V6 AUDIT AND ROADMAP"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # SDI 实验五 v6 — 代码审计与下一步路线图
 

@@ -11,6 +11,7 @@ source: getnote---
 
 已收集到足够的学术情报。现在为你系统性地回答这个宏大而深刻的研究蓝图。
 
+provenance: external
 ---
 
 ## 一、杨立昆 JEPA 世界模型的最核心创新

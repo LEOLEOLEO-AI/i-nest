@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 08:22:54
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # NCCL通信链路深度解析：从初始化到数据传输的全流程拆解

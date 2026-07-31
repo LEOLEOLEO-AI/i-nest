@@ -8,6 +8,7 @@ tags:
 - topology
 - transformer
 - wafer
+provenance: external
 ---
 （中文候选：路由即变换——分布式系统中通信与计算的结构同构性）
 

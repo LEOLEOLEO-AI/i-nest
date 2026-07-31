@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.01463v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Emerging Non-Volatile Opto-electronic Resistive Memories for Next-Generation Photonic Integrated Circuits

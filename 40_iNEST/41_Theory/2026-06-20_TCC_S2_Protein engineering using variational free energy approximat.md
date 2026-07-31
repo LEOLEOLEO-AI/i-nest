@@ -8,6 +8,7 @@ year: 2024
 url: https://www.semanticscholar.org/paper/4eab7d751c1112eb2dce7f626c09db280b0a140f
 citations: 6
 tags: [protein engineering, variational free energy, deep learning, directed evolution, classified]
+provenance: external
 ---
 
 # Protein engineering using variational free energy approximation

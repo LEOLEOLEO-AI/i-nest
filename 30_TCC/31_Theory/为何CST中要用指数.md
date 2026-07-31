@@ -5,6 +5,7 @@ note_id: "1905059901220593352"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 为何CST中要用指数

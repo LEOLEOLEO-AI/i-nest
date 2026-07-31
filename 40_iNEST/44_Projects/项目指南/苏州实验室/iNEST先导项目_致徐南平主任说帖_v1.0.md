@@ -3,6 +3,7 @@ direction: iNEST
 title: "iNEST先导项目 致徐南平主任说帖 v1.0"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # iNEST 先导项目说帖：致徐南平主任
 

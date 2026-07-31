@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: project
 status: planning
 tags: [project, inest, project-proposal]
+provenance: own
 ---
 
 # 软件定义晶圆（SDSoW）架构原型验证平台开发

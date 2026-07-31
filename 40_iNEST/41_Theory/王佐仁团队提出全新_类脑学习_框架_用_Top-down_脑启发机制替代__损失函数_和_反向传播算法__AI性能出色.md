@@ -3,6 +3,7 @@ direction: iNEST
 title: "王佐仁团队提出全新 类脑学习 框架 用 Top-down 脑启发机制替代  损失函数 和 反向传播算法  AI性能出色"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # 王佐仁团队提出全新“类脑学习”框架，用“Top-down”脑启发机制替代 “损失函数”和“反向传播算法”，AI性能出色
 

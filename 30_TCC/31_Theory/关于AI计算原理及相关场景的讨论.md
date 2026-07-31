@@ -9,6 +9,7 @@ tags:
   - "计算原理"
   - "get-笔记"
   - "会议记录"
+provenance: external
 ---
 
 # 关于AI计算原理及相关场景的讨论

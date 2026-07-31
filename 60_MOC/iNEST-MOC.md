@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 # iNEST 机构 — 全景导航 (Map of Content)
 
 > iNEST = Intelligence Emerging from Network Temporal-spatial Synergy

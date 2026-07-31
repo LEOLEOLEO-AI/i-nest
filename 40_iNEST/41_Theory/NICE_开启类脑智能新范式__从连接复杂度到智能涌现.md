@@ -11,6 +11,7 @@ tags:
 - neuron
 - neuroscience
 - paper
+provenance: external
 ---
 - **类型**: link
 - **时间**: 2025-07-12 12:05:18

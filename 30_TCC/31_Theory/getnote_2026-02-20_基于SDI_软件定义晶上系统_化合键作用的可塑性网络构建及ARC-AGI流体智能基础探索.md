@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-02-20 07:50:24
 source: getnote
 kb: project-guide
+provenance: external
 ---
 
 # 基于SDI（软件定义晶上系统）化合键作用的可塑性网络构建及ARC-AGI流体智能基础探索

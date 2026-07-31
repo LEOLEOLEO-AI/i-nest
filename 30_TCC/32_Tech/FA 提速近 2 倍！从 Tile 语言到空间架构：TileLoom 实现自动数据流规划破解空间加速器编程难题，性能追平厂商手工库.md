@@ -8,6 +8,7 @@ created: 2026-07-06
 description: "空间数据流加速器空有极致算力却长期深陷可编程性困境？TileLoom 基于 MLIR 实现自动数据流规划，将 Triton 等 tile 语言映射到空间架构，在两代 Tenstorrent 平台 FlashAttention 显著提速近 2 倍，性能追平厂商手工优化库。"
 tags:
   - "clippings"
+provenance: external
 ---
 NUS, ASU, Google NeuralTalk *2026年7月6日 08:49*
 

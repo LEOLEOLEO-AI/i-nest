@@ -11,6 +11,7 @@ tags:
 - neuron
 - neuroscience
 - plasticity
+provenance: own
 ---
 > **刘教授核心洞察**：
 > 如果我们按照物理第一性提出的理论在秀丽线虫（C. elegans）上工程落地，那么后续只需稍许改进，是否就能实现果蝇、小鼠、猕猴甚至人脑等高阶神经网络？

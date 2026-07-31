@@ -2,6 +2,7 @@
 
 merged_into: "30_TCC\32_Tech\The Rise of Neuromorphic Computing How Brain-Inspired AI is Shaping the Future in 2025.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[30_TCC\32_Tech\The Rise of Neuromorphic Computing How Brain-Inspired AI is Shaping the Future in 2025.md]]

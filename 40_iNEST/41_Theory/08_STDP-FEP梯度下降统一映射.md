@@ -9,6 +9,7 @@ tags:
   - theory
   - neuromorphic
   - learning-rule
+provenance: own
 ---
 
 **文档性质**：核心理论证明文件

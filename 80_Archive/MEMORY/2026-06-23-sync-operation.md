@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # 2026-06-23 07:30 EDT - Genspark "同步"操作执行记录
 
 ## 【操作指令】

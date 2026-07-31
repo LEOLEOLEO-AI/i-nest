@@ -4,6 +4,7 @@ tags:
 - hardware-architecture
 - fourier-transform
 - analog-computing
+provenance: external
 ---
 ---
 title: "范式重构：基于HIFT技术的"模拟-频谱"直接转换架构深度思考"

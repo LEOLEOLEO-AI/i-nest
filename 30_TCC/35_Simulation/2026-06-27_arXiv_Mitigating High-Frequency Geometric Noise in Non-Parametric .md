@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自arxiv]
 citations: 0
 relevance: 1
 status: 洞察
+provenance: external
 ---
 
 # Mitigating High-Frequency Geometric Noise in Non-Parametric 1-Bit Sparse

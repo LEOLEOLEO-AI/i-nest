@@ -3,6 +3,7 @@ title: "TCC 拓扑中心计算 — 主索引"
 date: 2026-07-03
 type: MOC
 tags: [TCC, MOC, index]
+provenance: own
 ---
 
 # TCC 拓扑中心计算 — 主索引

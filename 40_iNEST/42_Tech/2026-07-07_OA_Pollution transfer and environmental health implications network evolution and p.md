@@ -10,6 +10,7 @@ source: openalex
 query: "complex network phase transition emergence"
 date: 2026-07-07
 topics: ['Environmental Justice and Health Disparities', 'Energy, Environment, Economic Growth', "China's Socioeconomic Reforms and Governance"]
+provenance: external
 ---
 
 # Pollution transfer and environmental health implications: network evolution and proximity mechanisms in the Yangtze River Delta, China

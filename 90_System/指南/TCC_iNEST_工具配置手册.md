@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Codex 研究工具配置手册：TCC + iNEST
 
 > 版本 2.1 | 2026-06-24 | 8 就绪

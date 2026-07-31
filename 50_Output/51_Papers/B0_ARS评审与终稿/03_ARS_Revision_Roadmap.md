@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# ARS Revision Roadmap — B0 → v4 Submission-Ready
 
 **Agent:** revision_coach_agent v3.2.0 | **Date:** 2026-06-15

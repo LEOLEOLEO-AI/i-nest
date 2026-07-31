@@ -3,6 +3,7 @@ direction: TCC
 title: "Idea OODA 卫星智能体 同构定理的战略价值 Ideas版"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # Idea：同构定理在OODA智能体（如超低轨卫星）中的战略价值
 

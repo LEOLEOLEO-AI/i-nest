@@ -22,6 +22,7 @@ title: 'NOCTOPUS: Network-on-Chip topology optimization and prediction using sim
 track: TCC
 url: https://www.semanticscholar.org/paper/81ef5f40ce4730ee275a9e36ae2f64abc49255d9
 year: 2026
+provenance: external
 ---
 
 # NOCTOPUS: Network-on-Chip topology optimization and prediction using simulation-data

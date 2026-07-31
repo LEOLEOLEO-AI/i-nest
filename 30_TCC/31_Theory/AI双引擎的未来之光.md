@@ -5,6 +5,7 @@ note_id: "1879960375408614160"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # AI双引擎的未来之光

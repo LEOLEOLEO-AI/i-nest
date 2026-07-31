@@ -5,6 +5,7 @@ type: link
 created: 2025-12-17 16:32:04
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # DARPA深度研究：传感器、电子战与通信领域战略分析报告（上册）

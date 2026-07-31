@@ -10,6 +10,7 @@ tags:
   - "凸优化"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 生成式均衡算子（GEO）：破解神经算子理论-实践鸿沟的新架构

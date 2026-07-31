@@ -3,6 +3,7 @@ direction: iNEST
 title: "A Unified Theory of Intelligence Emergence from Spatiotemporal Network Complexit"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # A Unified Theory of Intelligence Emergence from Spatiotemporal Network Complexity
 

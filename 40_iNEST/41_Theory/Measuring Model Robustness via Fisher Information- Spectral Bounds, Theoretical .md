@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.04767v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Measuring Model Robustness via Fisher Information: Spectral Bounds, Theoretical Guarantees, and Practical Algorithms

@@ -25,6 +25,7 @@ title: An Optimization Algorithm to Build Low Congestion Multi-Ring Topology for
 track: TCC
 url: https://www.semanticscholar.org/paper/06a68406e5eaebaf2c7fd6d2f129c0f21926d94a
 year: 2018
+provenance: external
 ---
 
 # An Optimization Algorithm to Build Low Congestion Multi-Ring Topology for Optical Network-on-Chip

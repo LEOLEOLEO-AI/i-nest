@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "学术论文"
   - "重要"
+provenance: external
 ---
 
 # 神经形态脉冲大语言模型（NSLLM）：连接AI与神经科学的突破性研究

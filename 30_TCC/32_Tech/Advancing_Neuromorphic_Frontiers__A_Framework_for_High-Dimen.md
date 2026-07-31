@@ -6,6 +6,7 @@ tags:
 - chiplet
 - large-language-model
 - semiconductor
+provenance: external
 ---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-01-11 22:08

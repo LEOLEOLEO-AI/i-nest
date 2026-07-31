@@ -3,6 +3,7 @@ direction: TCC
 title: "自动驾驶汽车整体Chiplet解决方案（三）：互连技术 1"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 > [!note]- 可能重复: [[自动驾驶汽车整体Chiplet解决方案（三）：互连技术]]
 > 此文件与 [[自动驾驶汽车整体Chiplet解决方案（三）：互连技术]] 内容重复，已保留最大版本。

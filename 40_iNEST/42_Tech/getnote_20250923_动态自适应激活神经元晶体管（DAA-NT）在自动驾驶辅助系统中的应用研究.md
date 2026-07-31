@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "动态自适应激活神经元晶体管（DAA-NT）在自动驾驶辅助系统中的应用研究"
 date: 2025-09-23 06:38:54
 source: "????"

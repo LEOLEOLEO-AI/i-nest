@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "PRIME：基于忆阻器的输入感知动态SNN拓扑优化框架"
 date: 2025-12-04 17:41:31
 source: "????"

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# Obsidian 同步指令 v2.0
 
 ## 方式 A：Git 插件（推荐日常使用）

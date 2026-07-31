@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # 中国科学院自动化所神经拟态系统研究成果：Speck芯片与动态计算框架

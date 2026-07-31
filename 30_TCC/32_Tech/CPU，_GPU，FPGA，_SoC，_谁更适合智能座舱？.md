@@ -5,6 +5,7 @@ tags:
 - chip-hardware
 - deep-learning
 - semiconductor
+provenance: own
 ---
 > 笔记本: 微信  
 > 创建时间: 2020-08-06  

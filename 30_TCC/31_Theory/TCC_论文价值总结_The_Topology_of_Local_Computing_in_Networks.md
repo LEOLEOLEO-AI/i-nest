@@ -3,6 +3,7 @@ direction: TCC
 title: "TCC 论文价值总结 The Topology of Local Computing in Networks"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 《The Topology of Local Computing in Networks》对TCC网络中心计算范式的价值总结
 

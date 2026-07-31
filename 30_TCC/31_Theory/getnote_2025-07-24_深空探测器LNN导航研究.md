@@ -5,6 +5,7 @@ type: plain_text
 created: 2025-07-24 10:15:37
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # 深空探测器LNN导航研究

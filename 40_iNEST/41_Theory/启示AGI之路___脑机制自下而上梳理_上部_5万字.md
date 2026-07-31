@@ -2,6 +2,7 @@
 
 merged_into: "40_iNEST\42_Tech\启示AGI之路 脑机制自下而上梳理 上部 5万字.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[40_iNEST\42_Tech\启示AGI之路 脑机制自下而上梳理 上部 5万字.md]]

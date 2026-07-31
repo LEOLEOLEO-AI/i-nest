@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Physical Reservoir Signal Acquisition for Sub-Nyquist Waveform Reconstruction"
 date: 2026-07-19

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # gsk hermes-brain
 
 Personal memory, wiki, and skill management system. Stores user preferences, domain knowledge, and reusable workflows that persist across sessions.

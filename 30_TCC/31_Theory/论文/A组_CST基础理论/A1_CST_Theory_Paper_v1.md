@@ -3,6 +3,7 @@ direction: TCC
 title: "A1 CST Theory Paper v1"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # Spatiotemporal Complexity Theory of Intelligence Emergence in Physical Neural Networks
 

@@ -27,6 +27,7 @@ title: Learning-Based DRM and Energy Optimization for Manycore Dark Silicon Proc
 track: TCC
 url: https://www.semanticscholar.org/paper/b1637e0ed8bf92c2aabfc34ef7dad4d8cef7cef3
 year: 2019
+provenance: external
 ---
 
 # Learning-Based DRM and Energy Optimization for Manycore Dark Silicon Processors

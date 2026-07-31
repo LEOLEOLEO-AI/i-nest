@@ -5,6 +5,7 @@ note_id: ""
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 为什么说 AI 网络是“同步通信网络”？

@@ -3,6 +3,7 @@ direction: TCC
 title: "v32 plan"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # v32 实验计划：CST六阈值严格对齐
 ## 日期：2026-06-07 | 状态：待启动

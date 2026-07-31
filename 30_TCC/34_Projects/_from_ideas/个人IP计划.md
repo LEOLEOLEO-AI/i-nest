@@ -6,6 +6,7 @@ tags:
   - "AI工具应用"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 个人IP计划

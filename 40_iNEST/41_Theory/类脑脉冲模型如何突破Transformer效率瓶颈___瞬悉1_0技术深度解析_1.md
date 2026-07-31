@@ -3,6 +3,7 @@ direction: iNEST
 title: "类脑脉冲模型如何突破Transformer效率瓶颈   瞬悉1 0技术深度解析 1"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析
 

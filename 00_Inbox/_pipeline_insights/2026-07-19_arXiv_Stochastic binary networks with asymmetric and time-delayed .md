@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Stochastic binary networks with asymmetric and time-delayed interactions"
 date: 2026-07-19

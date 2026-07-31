@@ -5,6 +5,7 @@ source: "pubmed"
 tags: [scaling-laws, complex-networks, shannon-entropy, self-organization, percolation, self-organized-criticality, allometric-scaling, neural-networks, colloidal-networks, physical-intelligence]
 inest_score: 0.8
 analyzed: 2026-05-30 12:07
+provenance: external
 ---
 
 # Scaling in Colloidal and Biological Networks.

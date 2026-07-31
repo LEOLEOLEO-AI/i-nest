@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.16922v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Graph Neural Networks Trained on Null Signal for Angle Reconstruction in X-ray Polarimetry

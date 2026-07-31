@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Smooth-Curvature Bend Design Guided by Variational Analysis for Adiabatic Multimode Integrated Photonics"
 date: 2026-07-19

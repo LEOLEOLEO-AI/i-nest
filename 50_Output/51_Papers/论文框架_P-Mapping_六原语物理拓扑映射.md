@@ -8,6 +8,7 @@ tags:
 - simulation
 - small-world-networks
 - topology
+provenance: own
 ---
 # 《六类集合通信原语的物理拓扑完备映射理论与CST最优性证明》
 

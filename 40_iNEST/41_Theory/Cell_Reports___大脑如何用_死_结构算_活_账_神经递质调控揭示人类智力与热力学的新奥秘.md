@@ -3,6 +3,7 @@ direction: iNEST
 title: "Cell Reports   大脑如何用 死 结构算 活 账 神经递质调控揭示人类智力与热力学的新奥秘"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Cell Reports | 大脑如何用“死”结构算“活”账？神经递质调控揭示人类智力与热力学的新奥秘
 

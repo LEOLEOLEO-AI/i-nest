@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "AI2AC主旨报告"
 date: 2025-08-10 20:04:54
 source: "????"

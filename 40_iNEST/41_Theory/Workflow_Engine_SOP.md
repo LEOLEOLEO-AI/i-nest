@@ -3,6 +3,7 @@ direction: iNEST
 title: "Workflow Engine SOP"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # iNEST 课题组全链条推进工作流 (OODA Workflow Engine)
 

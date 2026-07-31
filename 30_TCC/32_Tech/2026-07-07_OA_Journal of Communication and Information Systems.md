@@ -10,6 +10,7 @@ source: openalex
 query: "network-on-chip small-world topology optimization"
 date: 2026-07-07
 topics: []
+provenance: external
 ---
 
 # Journal of Communication and Information Systems

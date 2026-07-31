@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "AI赋能国外星载边缘计算技术发展全景研报"
 date: 2026-07-01 23:14:18
 source: "????"

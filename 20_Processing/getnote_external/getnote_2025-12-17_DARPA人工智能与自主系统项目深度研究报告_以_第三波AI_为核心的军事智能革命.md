@@ -5,6 +5,7 @@ type: link
 created: 2025-12-17 16:33:56
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # DARPA人工智能与自主系统项目深度研究报告：以"第三波AI"为核心的军事智能革命

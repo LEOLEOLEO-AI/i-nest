@@ -10,6 +10,7 @@ source: openalex
 query: "chiplet wafer-scale interconnect topology routing"
 date: 2026-07-18
 topics: ['Photonic and Optical Devices', 'Neural Networks and Reservoir Computing', 'Semiconductor Lasers and Optical Devices']
+provenance: external
 ---
 
 # End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed Large-Scale Electronic-Photonic Integrated Circuits

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Inherent interpretability provides inherent value in quantum machine learning"
 date: 2026-07-19

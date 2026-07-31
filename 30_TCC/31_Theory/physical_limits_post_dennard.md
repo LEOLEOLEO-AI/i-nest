@@ -4,6 +4,7 @@ direction: TCC
 source: "Genspark"
 date: 2026-07-12
 tags: [tcc, first-principles, genspark-import]
+provenance: external
 ---
 
 # 物理极限：为何拓扑将主导后Dennard时代

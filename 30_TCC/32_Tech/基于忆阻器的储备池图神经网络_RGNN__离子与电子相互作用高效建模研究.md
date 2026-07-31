@@ -11,6 +11,7 @@ tags:
 - neuroscience
 - paper
 - semiconductor
+provenance: external
 ---
 - **类型**: link
 - **时间**: 2026-01-14 16:20:21

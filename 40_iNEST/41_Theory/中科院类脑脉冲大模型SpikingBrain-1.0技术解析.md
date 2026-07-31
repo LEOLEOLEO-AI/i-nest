@@ -10,6 +10,7 @@ tags:
   - "线性复杂度"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 中科院类脑脉冲大模型SpikingBrain-1.0技术解析

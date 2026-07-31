@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: own
 ---
 
 # FMPINN：基于傅里叶的混合物理信息神经网络求解多尺度椭圆PDEs

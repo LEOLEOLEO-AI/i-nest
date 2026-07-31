@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Topology-Centric Computing: A Thermodynamic Imperative for Sustainable AI Infrastructure
 
 **Target Journal:** *Engineering* - Special Issue on Sustainable Intelligent Computing  

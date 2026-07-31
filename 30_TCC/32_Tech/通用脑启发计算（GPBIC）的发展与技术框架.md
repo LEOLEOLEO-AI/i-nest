@@ -10,6 +10,7 @@ tags:
   - "忆阻器"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # 通用脑启发计算（GPBIC）的发展与技术框架

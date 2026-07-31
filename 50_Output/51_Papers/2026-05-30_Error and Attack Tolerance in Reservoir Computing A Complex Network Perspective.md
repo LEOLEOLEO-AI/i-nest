@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: paper
 status: draft
 tags: [paper, inest, reservoir computing, error tolerance, attack tolerance, complex networks, robustness]
+provenance: external
 ---
 
 # Error and Attack Tolerance in Reservoir Computing: A Complex Network Perspective

@@ -28,6 +28,7 @@ title: Large scale integrated IGZO crossbar memristor array based artificial neu
 track: iNEST
 url: https://www.semanticscholar.org/paper/f8bc84f3281056dc094c1bc747e86f34c9abe7b3
 year: 2023
+provenance: external
 ---
 
 # Large scale integrated IGZO crossbar memristor array based artificial neural architecture for scalable in-memory computing

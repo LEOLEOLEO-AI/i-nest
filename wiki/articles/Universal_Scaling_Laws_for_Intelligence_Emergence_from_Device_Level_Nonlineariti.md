@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities  A Renormalization Group Approach
 
 **Domain**: TCC

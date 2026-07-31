@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# Triangle 同步架构 v2.0 — GitHub 主 + Gitee 备
 
 > 更新：2026-07-11 | 策略：GitHub 优先（学术发布），Gitee 备份（完整版）

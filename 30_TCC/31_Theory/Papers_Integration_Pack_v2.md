@@ -3,6 +3,7 @@ direction: TCC
 title: "Papers Integration Pack v2"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 ﻿# iNEST Papers Integration Pack — 2026-06-03
 # ==========================================

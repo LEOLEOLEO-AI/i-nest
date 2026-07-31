@@ -10,6 +10,7 @@ tags:
   - "RRAM/PCM/MRAM"
   - "get-笔记"
   - "学术论文"
+provenance: own
 ---
 
 # Nature论文解读：不断发展的忆阻器产业（2025）

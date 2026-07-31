@@ -5,6 +5,7 @@ note_id: "1866847293719326184"
 tags:
   - "get-笔记"
   - "default"
+provenance: own
 ---
 
 # 秘塔CN结果

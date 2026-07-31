@@ -10,6 +10,7 @@ source: openalex
 query: "memristor ferroelectric crossbar array VLSI"
 date: 2026-07-18
 topics: ['Advanced Data Storage Technologies', 'Advanced Memory and Neural Computing', 'Ferroelectric and Negative Capacitance Devices']
+provenance: external
 ---
 
 # Achieving high precision in analog in-memory computing systems

@@ -5,6 +5,7 @@ tags: [英伟达, Groq, LPU, AI推理, AFD, 芯片架构, SRAM, 算力路线图]
 summary: "英伟达GTC 2026发布与Groq融合的LPU推理架构及AFD技术"
 quality: high
 processed: 2026-07-15 14:44
+provenance: external
 ---
 ---
 title: getnote_1915542738493962816_GTC 2026英伟达AI推理技术全解析：通过Groq LPU融合架构构建新一代AI算力体系

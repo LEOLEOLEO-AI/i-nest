@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析"
 date: 2026-03-09 11:54:11
 source: "????"

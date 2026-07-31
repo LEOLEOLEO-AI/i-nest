@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Research Task Recommendations
 
 **Generated**: 2026-07-31

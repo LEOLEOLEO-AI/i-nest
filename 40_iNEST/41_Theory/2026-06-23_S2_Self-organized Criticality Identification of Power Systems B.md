@@ -28,6 +28,7 @@ title: Self-organized Criticality Identification of Power Systems Based on Neura
 track: iNEST
 url: https://www.semanticscholar.org/paper/2c9bb1e21eebcc483bf924adb4e218f480098c02
 year: 2023
+provenance: external
 ---
 
 # Self-organized Criticality Identification of Power Systems Based on Neural Networks

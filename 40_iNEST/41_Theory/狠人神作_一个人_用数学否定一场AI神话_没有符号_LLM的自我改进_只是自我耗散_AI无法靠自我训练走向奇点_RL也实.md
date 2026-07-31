@@ -8,6 +8,7 @@ tags:
 - neuroscience
 - paper
 - transformer
+provenance: external
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-15 06:11

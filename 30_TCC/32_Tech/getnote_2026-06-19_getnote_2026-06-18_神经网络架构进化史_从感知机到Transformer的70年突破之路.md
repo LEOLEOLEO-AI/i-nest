@@ -27,6 +27,7 @@ tags:
 - computing
 - infrastructure
 title: getnote_2026-06-18_神经网络架构进化史_从感知机到Transformer的70年突破之路
+provenance: external
 ---
 
 ## Original Note

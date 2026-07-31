@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/11ccb9e9e8805385fbfe355be6a2a62f78f4cbb6
 tags: [brain-inspired computing, macroscopic brain dynamics, quantization, coarse-grained modeling, parallel computing, classified]
 status: inbox
+provenance: external
 ---
 
 # Modeling macroscopic brain dynamics with brain-inspired computing architecture

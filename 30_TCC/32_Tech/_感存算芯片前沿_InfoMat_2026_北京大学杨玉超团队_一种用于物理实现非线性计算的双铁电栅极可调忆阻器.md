@@ -11,6 +11,7 @@ tags:
 - semiconductor
 - synapse
 - wafer
+provenance: external
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-31 01:26

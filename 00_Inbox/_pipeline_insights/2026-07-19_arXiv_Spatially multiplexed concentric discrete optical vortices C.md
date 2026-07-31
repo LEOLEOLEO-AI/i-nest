@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Spatially multiplexed concentric discrete optical vortices: Complex topological structures and unconventional rotational dynamics"
 date: 2026-07-19

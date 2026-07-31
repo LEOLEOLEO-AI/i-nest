@@ -7,6 +7,7 @@ tags:
 - semiconductor
 - simulation
 - topology
+provenance: own
 ---
 ## 产品线三层架构
 

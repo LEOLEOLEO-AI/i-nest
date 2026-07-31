@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: engineering
 status: concept
 tags: [engineering, ip, inest, neurogenesis, structural plasticity, optimization, adaptive networks]
+provenance: own
 ---
 
 # Structured SNN Growth Module

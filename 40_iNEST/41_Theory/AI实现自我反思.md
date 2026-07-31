@@ -5,6 +5,7 @@ note_id: "1879960280918809360"
 tags:
   - "get-笔记"
   - "会议记录"
+provenance: own
 ---
 
 # AI实现自我反思

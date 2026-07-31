@@ -9,6 +9,7 @@ metadata:
     bins:
     - gsk
   cliHelp: gsk claw share_link --help
+provenance: external
 ---
 
 # gsk-claw-share-link

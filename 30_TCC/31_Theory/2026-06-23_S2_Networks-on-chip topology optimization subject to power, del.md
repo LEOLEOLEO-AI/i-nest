@@ -28,6 +28,7 @@ title: Networks-on-chip topology optimization subject to power, delay, and relia
 track: TCC
 url: https://www.semanticscholar.org/paper/ad96fb42c13cb0249d1576c6c0e4e60d9a354db7
 year: 2010
+provenance: external
 ---
 
 # Networks-on-chip topology optimization subject to power, delay, and reliability constraints

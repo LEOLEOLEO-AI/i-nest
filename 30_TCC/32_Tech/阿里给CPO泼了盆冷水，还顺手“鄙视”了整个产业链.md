@@ -5,6 +5,7 @@ note_id: ""
 tags:
   - "get-笔记"
   - "日记"
+provenance: external
 ---
 
 # 阿里给CPO泼了盆冷水，还顺手“鄙视”了整个产业链

@@ -4,6 +4,7 @@ direction: iNEST
 source: "Genspark"
 date: 2026-07-12
 tags: [inest, first-principles, autocatalytic, emergence]
+provenance: external
 ---
 
 # 自催化闭包：从化学网络到智能涌现的第一性原理

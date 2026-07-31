@@ -27,6 +27,7 @@ title: Development of a software simulator for small satellite swarm control
 track: TCC
 url: https://www.semanticscholar.org/paper/3d30f7e513ba8ea9aca47679f7a48c2799611d1a
 year: 2021
+provenance: external
 ---
 
 # Development of a software simulator for small satellite swarm control

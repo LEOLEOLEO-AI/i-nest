@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: patent
 status: ideation
 tags: [patent, inest, neuromorphic computing, complex-networks, criticality, emergence, chiplet, computer architecture]
+provenance: own
 ---
 
 # Neuromorphic Computer Architecture Based on Physical Complex Networks Exhibiting Criticality and Emergent Intelligence

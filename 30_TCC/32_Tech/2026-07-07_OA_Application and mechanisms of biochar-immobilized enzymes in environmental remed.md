@@ -10,6 +10,7 @@ source: openalex
 query: "network-on-chip small-world topology optimization"
 date: 2026-07-07
 topics: ['Enzyme-mediated dye degradation', 'Enzyme Catalysis and Immobilization', 'Adsorption and biosorption for pollutant removal']
+provenance: external
 ---
 
 # Application and mechanisms of biochar-immobilized enzymes in environmental remediation: a review

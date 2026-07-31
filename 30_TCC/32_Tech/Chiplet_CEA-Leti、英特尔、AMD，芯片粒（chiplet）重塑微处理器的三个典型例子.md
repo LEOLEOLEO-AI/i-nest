@@ -5,6 +5,7 @@ tags:
 - chip-hardware
 - chiplet
 - semiconductor
+provenance: own
 ---
 > 笔记本: 微信  
 > 创建时间: 2020-05-13  

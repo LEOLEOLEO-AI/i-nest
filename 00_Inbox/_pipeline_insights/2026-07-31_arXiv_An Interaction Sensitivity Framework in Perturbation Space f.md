@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 2
 status: inbox
+provenance: external
 ---
 
 # An Interaction Sensitivity Framework in Perturbation Space for the Converter-Driven Stability of Power Systems

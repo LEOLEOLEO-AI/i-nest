@@ -3,6 +3,7 @@ direction: TCC
 title: "Complete Physical Topology Mapping for Collective Communication Primitives A CST"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Complete Physical Topology Mapping for Collective Communication Primitives: A CST-Optimal Framework for Network-Centric Computing
 

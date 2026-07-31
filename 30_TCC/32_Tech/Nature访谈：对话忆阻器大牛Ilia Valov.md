@@ -23,6 +23,7 @@ tags:
 - 忆阻器
 - 电化学
 title: Nature访谈：对话忆阻器大牛Ilia Valov
+provenance: own
 ---
 
 Musk *2026年6月15日 19:31*

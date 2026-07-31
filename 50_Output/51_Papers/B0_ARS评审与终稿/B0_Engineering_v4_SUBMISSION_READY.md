@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 <!-- B0 v4 Submission-Ready | ARS Revision | 2026-06-15 -->
 # From von Neumann to Network-Centric: A First-Principles Review of the Computing Paradigm Migration toward Sustainable Intelligent Computing
 

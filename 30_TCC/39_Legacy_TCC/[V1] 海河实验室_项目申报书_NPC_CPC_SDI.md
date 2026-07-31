@@ -3,6 +3,7 @@ direction: TCC
 title: "[V1] 海河实验室 项目申报书 NPC CPC SDI"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # 海河实验室2026年度重大专项项目申报书
 

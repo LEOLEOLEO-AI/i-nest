@@ -10,6 +10,7 @@ source: openalex
 query: "neuromorphic spiking neural network memristor"
 date: 2026-07-07
 topics: ['Machine Learning in Materials Science', 'Nanoparticles: synthesis and applications', 'Computational Drug Discovery Methods']
+provenance: external
 ---
 
 # Machine Learning for Nanomaterial Discovery and Design

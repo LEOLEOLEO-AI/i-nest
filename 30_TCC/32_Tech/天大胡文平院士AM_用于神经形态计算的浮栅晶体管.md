@@ -11,6 +11,7 @@ tags:
 - semiconductor
 - survey
 - synapse
+provenance: external
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2025-12-16 02:47

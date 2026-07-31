@@ -10,6 +10,7 @@ source: openalex
 query: "dark silicon manycore energy optimization"
 date: 2026-07-18
 topics: ['Parallel Computing and Optimization Techniques', 'Embedded Systems Design Techniques', 'Mathematics, Computing, and Information Processing']
+provenance: external
 ---
 
 # The TEXTAROSSA project: Cool all the Way Down to the Hardware

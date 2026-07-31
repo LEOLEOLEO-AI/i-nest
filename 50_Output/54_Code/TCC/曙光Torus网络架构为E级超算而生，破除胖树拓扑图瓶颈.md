@@ -3,6 +3,7 @@ title: 曙光Torus网络架构为E级超算而生，破除胖树拓扑图瓶颈
 tags:
 - chiplet
 - topology
+provenance: own
 ---
 > 笔记本: 微信  
 > 创建时间: 2020-06-28  

@@ -22,6 +22,7 @@ tags:
 - AI训练网络
 - network
 title: kb_computing-network_getnote_1908586984197689320_AI算力网络深度解析_同步通信架构与性能优化
+provenance: external
 ---
 
 ## Original Note

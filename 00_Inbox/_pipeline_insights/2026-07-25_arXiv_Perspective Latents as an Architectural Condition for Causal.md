@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # Perspective Latents as an Architectural Condition for Causal Emergence in Active Inference Agents

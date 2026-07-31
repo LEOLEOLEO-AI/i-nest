@@ -10,6 +10,7 @@ tags:
   - "神经动态模拟"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # JAXLEY：神经动态生物物理模型的可微分模拟突破 🧠

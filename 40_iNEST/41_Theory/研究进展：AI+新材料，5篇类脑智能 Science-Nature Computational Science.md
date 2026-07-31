@@ -9,6 +9,7 @@ tags:
 - neuroscience
 - patent
 - web-clip
+provenance: external
 ---
 - **笔记本**: 我的剪藏
 - **时间**: 2026-03-04 05:00

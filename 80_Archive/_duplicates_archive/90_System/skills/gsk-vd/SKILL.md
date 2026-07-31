@@ -8,6 +8,7 @@ metadata:
     bins:
       - gsk
   cliHelp: gsk vd --help
+provenance: external
 ---
 
 # gsk-vd — Virtual Developer CLI

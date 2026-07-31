@@ -5,6 +5,7 @@ type: link
 created: 2026-03-06 18:00:09
 source: getnote
 kb: INEST-papers
+provenance: external
 ---
 
 # Chiplet-Based Systems and Heterogeneous Integration: Enabling AI, HPC, and Post-Moore Computing

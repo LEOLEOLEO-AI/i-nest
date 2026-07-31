@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "硬件nccl"
 date: 2026-03-27 07:01:21
 source: "????"

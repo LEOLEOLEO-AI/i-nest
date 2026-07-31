@@ -3,6 +3,7 @@ direction: iNEST
 title: "CST仿真平台科学依据"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # CST仿真平台科学依据
 

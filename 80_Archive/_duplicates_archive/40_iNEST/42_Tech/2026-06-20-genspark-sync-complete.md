@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # 2026-06-20 运行时事件完成 - Genspark 工作指令发送
 
 ## 【事件总结】

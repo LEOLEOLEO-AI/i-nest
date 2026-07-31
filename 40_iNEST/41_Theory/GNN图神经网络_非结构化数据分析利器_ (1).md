@@ -10,6 +10,7 @@ tags:
 - neural-networks
 - neuroscience
 - transformer
+provenance: own
 ---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-06 23:20

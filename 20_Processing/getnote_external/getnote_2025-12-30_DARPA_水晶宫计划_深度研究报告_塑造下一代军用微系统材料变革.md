@@ -5,6 +5,7 @@ type: link
 created: 2025-12-30 12:31:07
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # DARPA"水晶宫计划"深度研究报告：塑造下一代军用微系统材料变革

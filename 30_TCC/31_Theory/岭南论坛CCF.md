@@ -5,6 +5,7 @@ note_id: "1897602798611202640"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 岭南论坛CCF

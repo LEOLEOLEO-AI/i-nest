@@ -11,6 +11,7 @@ tags:
 - emergence
 - free-energy-principle
 - graph-neural-network
+provenance: own
 ---
 Generated: 2026-04-28 22:00:25
 

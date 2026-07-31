@@ -23,6 +23,7 @@ title: A Novel Approach for Solving the Time-Varying Complex-Valued Linear Matri
 track: iNEST
 url: https://www.semanticscholar.org/paper/e3f45ec3d18dd626aefcc58af91cf75c15ef8024
 year: 2024
+provenance: external
 ---
 
 # A Novel Approach for Solving the Time-Varying Complex-Valued Linear Matrix Inequality Based on Fuzzy-Parameter Zeroing Neural Network

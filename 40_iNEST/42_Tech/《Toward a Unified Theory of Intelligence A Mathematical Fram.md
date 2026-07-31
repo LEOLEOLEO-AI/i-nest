@@ -5,6 +5,7 @@ note_id: "1886528809554419368"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 《Toward a Unified Theory of Intelligence: A Mathematical Framework for General Artificial Intelligence》

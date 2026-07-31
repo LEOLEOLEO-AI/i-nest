@@ -5,6 +5,7 @@ source: "openalex"
 tags: [complex_networks, scale_free_networks, small_world_networks, network_science, preferential_attachment, graph_theory, systems_science, foundational_paper]
 inest_score: 0.7
 analyzed: 2026-05-30 12:11
+provenance: own
 ---
 
 # Exploring complex networks

@@ -22,6 +22,7 @@ tags:
   - topology
   - 智能算力
   - 信号处理融合
+provenance: external
 ---
 
 # TCC计算范式：从智能算力中心到新一代计算平台的工程落地与生态构建战略规划 v2.0

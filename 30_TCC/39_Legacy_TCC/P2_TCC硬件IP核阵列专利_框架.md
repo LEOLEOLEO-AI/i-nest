@@ -3,6 +3,7 @@ direction: TCC
 title: "P2 TCC硬件IP核阵列专利 框架"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # 专利 P2：面向TCC的可重构原语硬件IP核阵列
 # Patent P2: Reconfigurable Primitive IP Core Array for TCC

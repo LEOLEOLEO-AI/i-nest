@@ -3,6 +3,7 @@ title: "B0 Engineering 投稿清单"
 date: 2026-06-17
 deadline: 2026-06-20
 journal: "Engineering — Special Issue on Sustainable Intelligent Computing"
+provenance: external
 ---
 
 # B0 Engineering 投稿清单

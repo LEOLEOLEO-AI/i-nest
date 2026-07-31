@@ -10,6 +10,7 @@ tags: [洞察, tcc, 来自arxiv]
 citations: 0
 relevance: 1
 status: 洞察
+provenance: external
 ---
 
 # Voltage-tunable Josephson Junctions on Germanium Quantum Wells with in-situ Aluminum Contacts

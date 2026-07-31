@@ -3,6 +3,7 @@ direction: TCC
 title: "  专题研究 从单芯作战迈向系统集成 五   软件定义晶上系统 SDSoW 技术"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # ​【专题研究】从单芯作战迈向系统集成（五）——软件定义晶上系统（SDSoW）技术
 

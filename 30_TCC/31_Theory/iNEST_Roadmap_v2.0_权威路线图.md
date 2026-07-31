@@ -3,6 +3,7 @@ direction: iNEST
 title: "iNEST Roadmap v2.0 权威路线图"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 ﻿---
 title: "iNEST 整体路线图 — 连接规模×智能等级×工程代数"

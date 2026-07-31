@@ -3,6 +3,7 @@ title: "CST 智能涌现理论"
 date: 2026-07-03
 type: concept
 tags: [TCC, CST, theory, emergence]
+provenance: own
 ---
 
 # CST 智能涌现理论

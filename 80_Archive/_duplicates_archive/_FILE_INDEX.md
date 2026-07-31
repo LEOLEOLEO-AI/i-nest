@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 80_Archive/_duplicates_archive/10_Inbox/13_Codex/待分类/SKILL.md
 80_Archive/_duplicates_archive/30_TCC/31_Theory/00_宽屏目录仪表盘.md
 80_Archive/_duplicates_archive/30_TCC/31_Theory/00_宽屏目录仪表盘_1.md

@@ -5,6 +5,7 @@ type: plain_text
 created: 2025-07-05 22:35:29
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # 字节AI编程工具Trae详解

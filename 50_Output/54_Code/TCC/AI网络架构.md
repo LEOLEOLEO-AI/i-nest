@@ -5,6 +5,7 @@ note_id: "1901637090383379600"
 tags:
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # AI网络架构

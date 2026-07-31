@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Steering dynamic network centrality via control theory"
 date: 2026-07-19

@@ -3,6 +3,7 @@ title: "40_iNEST/44_Projects — 目录仪表盘"
 date: 2026-06-18
 update: v2.0 (新增智涌脑工程落地)
 type: dashboard
+provenance: external
 ---
 
 # iNEST 战略规划 — 文档导航

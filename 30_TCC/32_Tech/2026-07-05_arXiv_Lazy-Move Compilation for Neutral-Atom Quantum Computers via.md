@@ -10,6 +10,7 @@ tags: [深度分析, tcc, 来自arxiv]
 citations: 0
 relevance: 3
 status: 深度阅读
+provenance: external
 ---
 
 # Lazy-Move Compilation for Neutral-Atom Quantum Computers via a Buffer-Relay Fabric

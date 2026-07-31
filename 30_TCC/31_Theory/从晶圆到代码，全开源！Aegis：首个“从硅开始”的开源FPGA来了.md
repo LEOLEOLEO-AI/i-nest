@@ -5,6 +5,7 @@ note_id: ""
 tags:
   - "get-笔记"
   - "技术实践"
+provenance: external
 ---
 
 # 从晶圆到代码，全开源！Aegis：首个“从硅开始”的开源FPGA来了

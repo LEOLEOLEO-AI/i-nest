@@ -8,6 +8,7 @@ tags:
 - paper
 - semiconductor
 - synapse
+provenance: external
 ---
 - **类型**: link
 - **时间**: 2025-11-10 00:14:45

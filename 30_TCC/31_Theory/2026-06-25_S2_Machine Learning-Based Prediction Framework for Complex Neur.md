@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # Machine Learning-Based Prediction Framework for Complex Neuromorphic Dynamics of Third-Order Memristive Neurons at the Edge of Chaos

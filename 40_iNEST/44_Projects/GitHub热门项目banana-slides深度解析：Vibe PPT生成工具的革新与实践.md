@@ -10,6 +10,7 @@ tags:
   - "AI幻灯片生成"
   - "get-笔记"
   - "项目管理"
+provenance: own
 ---
 
 # GitHub热门项目banana-slides深度解析：Vibe PPT生成工具的革新与实践

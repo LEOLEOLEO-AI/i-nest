@@ -6,6 +6,7 @@ tags:
 - large-language-model
 - software-defined
 - tcc-sdi
+provenance: external
 ---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2026-01-11  

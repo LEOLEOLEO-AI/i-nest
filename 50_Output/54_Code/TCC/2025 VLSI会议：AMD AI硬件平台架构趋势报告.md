@@ -10,6 +10,7 @@ tags:
   - "加速器功率优化"
   - "get-笔记"
   - "会议记录"
+provenance: own
 ---
 
 # 2025 VLSI会议：AMD AI硬件平台架构趋势报告

@@ -5,6 +5,7 @@ type: link
 created: 2025-12-17 16:41:00
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # 超越摩尔定律：DARPA微电子与半导体战略深度研究报告

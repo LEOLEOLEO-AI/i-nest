@@ -10,6 +10,7 @@ tags:
   - "事件序列处理"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # Compute-in-memory implementation of state space models for event sequence processing（事件序列处理的存算一体状态空间模型实现）

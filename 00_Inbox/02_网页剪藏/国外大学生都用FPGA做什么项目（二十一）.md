@@ -8,6 +8,7 @@ created: 2026-07-30
 description:
 tags:
   - "clippings"
+provenance: external
 ---
 碎碎思 OpenFPGA *2026年7月30日 08:30*
 

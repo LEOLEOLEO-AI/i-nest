@@ -10,6 +10,7 @@ source: openalex
 query: "higher-order network simplicial hypergraph dynamics"
 date: 2026-07-18
 topics: ['Complex Network Analysis Techniques', 'Misinformation and Its Impacts', 'advanced mathematical theories']
+provenance: external
 ---
 
 # Rumor propagation on hypergraphs

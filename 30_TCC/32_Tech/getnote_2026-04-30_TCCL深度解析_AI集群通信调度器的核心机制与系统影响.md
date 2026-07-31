@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 08:53:40
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # NCCL深度解析：AI集群通信调度器的核心机制与系统影响

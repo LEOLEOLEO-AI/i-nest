@@ -3,6 +3,7 @@ direction: iNEST
 title: "exp1 versions"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 实验一历史版本归档（v初版 → v16）
 

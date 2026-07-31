@@ -11,6 +11,7 @@ tags:
 - neuroscience
 - paper
 - research-methods
+provenance: external
 ---
 ## 核心策略确认：分两步走
 *   **Phase 1：完善 CST 理论 + 数据验证（当前论文）**

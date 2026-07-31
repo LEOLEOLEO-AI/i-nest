@@ -7,6 +7,7 @@ tags:
 - project
 - semiconductor
 - wafer
+provenance: external
 ---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2023-08-20  

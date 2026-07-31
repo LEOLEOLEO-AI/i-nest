@@ -25,6 +25,7 @@ tags:
 - 互联架构
 - 灵衢
 title: 华为灵衢(UB)技术与超节点架构详解
+provenance: external
 ---
 
 # 华为灵衢(UB)技术与超节点架构详解

@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "DARPA 3D异构集成（3DHI）战略研究：应用场景、技术突破与创新模式"
 date: 2025-12-17 16:42:05
 source: "????"

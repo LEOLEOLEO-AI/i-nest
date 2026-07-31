@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "物理驱动智能设计（PDID）在多自由度复用超表面中的应用研究"
 date: 2025-09-02 09:33:35
 source: "????"

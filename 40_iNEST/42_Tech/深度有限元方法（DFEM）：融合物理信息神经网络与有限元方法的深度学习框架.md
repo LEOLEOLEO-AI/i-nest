@@ -10,6 +10,7 @@ tags:
   - "有限元方法（FEM）"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 深度有限元方法（DFEM）：融合物理信息神经网络与有限元方法的深度学习框架

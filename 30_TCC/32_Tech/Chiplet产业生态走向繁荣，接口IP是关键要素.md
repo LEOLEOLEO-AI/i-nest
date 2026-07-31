@@ -6,6 +6,7 @@ tags:
 - chiplet
 - project
 - semiconductor
+provenance: own
 ---
 > 笔记本: 技术学习  
 > 创建时间: 2023-08-15  

@@ -28,6 +28,7 @@ tags:
 - hardware
 - chip
 title: getnote_2026-06-19_FeNN-DMA_面向脉冲神经网络加速的RISC-V系统级芯片架构
+provenance: external
 ---
 
 ## Original Note

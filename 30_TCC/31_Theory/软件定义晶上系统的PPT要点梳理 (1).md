@@ -14,6 +14,7 @@ tags:
 title: 软件定义晶上系统的PPT要点梳理
 merged_into: "30_TCC\32_Tech\软件定义晶上系统的PPT要点梳理.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[30_TCC\32_Tech\软件定义晶上系统的PPT要点梳理.md]]

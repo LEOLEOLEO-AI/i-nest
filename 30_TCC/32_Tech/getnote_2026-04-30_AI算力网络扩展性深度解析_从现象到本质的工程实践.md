@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 08:48:10
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # AI算力网络扩展性深度解析：从现象到本质的工程实践

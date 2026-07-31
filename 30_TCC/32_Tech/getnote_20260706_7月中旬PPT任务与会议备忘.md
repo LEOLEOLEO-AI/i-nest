@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "7月中旬PPT任务与会议备忘"
 date: 2026-07-06 11:08:01
 source: "????"

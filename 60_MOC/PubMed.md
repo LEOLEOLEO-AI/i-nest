@@ -3,6 +3,7 @@ title: "PubMed — 检索记录"
 date: 2026-07-03
 type: reference
 tags: [PubMed, literature, search]
+provenance: external
 ---
 
 # PubMed 检索记录

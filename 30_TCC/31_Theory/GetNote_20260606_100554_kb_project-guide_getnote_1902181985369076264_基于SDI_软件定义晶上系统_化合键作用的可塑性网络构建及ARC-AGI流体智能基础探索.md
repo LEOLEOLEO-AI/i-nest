@@ -30,6 +30,7 @@ tags:
 - hardware
 - design
 title: kb_project-guide_getnote_1902181985369076264_基于SDI_软件定义晶上系统_化合键作用的可塑性网络构建及ARC-AG
+provenance: external
 ---
 
 ## Original Note

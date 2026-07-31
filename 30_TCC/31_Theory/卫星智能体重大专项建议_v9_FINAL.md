@@ -3,6 +3,7 @@ direction: TCC
 title: "卫星智能体重大专项建议 v9 FINAL"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 # 关于设立"极低轨卫星智能体工程"国家重大科技专项的建议
 

@@ -3,6 +3,7 @@ direction: iNEST
 title: "美国国家科学院院刊 (PNAS)   脑启发神经环路演化赋能脉冲神经网络创新"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 美国国家科学院院刊 (PNAS) | 脑启发神经环路演化赋能脉冲神经网络创新
 

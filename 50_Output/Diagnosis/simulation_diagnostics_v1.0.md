@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # iNEST 仿真实验诊断报告
 ## 系统性漏洞、瑕疵与改进建议表
 

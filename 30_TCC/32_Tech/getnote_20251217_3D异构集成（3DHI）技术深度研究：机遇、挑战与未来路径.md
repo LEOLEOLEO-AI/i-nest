@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "3D异构集成（3DHI）技术深度研究：机遇、挑战与未来路径"
 date: 2025-12-17 16:42:20
 source: "????"

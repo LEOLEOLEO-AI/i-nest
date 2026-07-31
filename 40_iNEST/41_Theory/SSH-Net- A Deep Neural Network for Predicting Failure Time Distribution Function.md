@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.20451v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # SSH-Net: A Deep Neural Network for Predicting Failure Time Distribution Functions under Competing Risks with Application to GPU Data

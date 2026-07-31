@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 3
 status: inbox
+provenance: external
 ---
 
 # GrowFields: Compositional 4D Neural Fields for Topology-Changing Plant Growth

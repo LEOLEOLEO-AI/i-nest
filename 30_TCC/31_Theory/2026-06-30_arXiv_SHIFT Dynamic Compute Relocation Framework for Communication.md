@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自arxiv]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # SHIFT: Dynamic Compute Relocation Framework for Communication-Aware Chiplet-Based Systems

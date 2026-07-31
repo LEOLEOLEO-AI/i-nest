@@ -9,6 +9,7 @@ tags:
   - "物理实现"
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 关于大语言模型CST复杂度推导及物理实现意义

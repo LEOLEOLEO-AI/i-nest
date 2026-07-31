@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # Coalescent embedding in the hyperbolic space unsupervisedly discloses the hidden geometry of the brain

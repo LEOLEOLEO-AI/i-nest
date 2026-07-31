@@ -23,6 +23,7 @@ title: Ferroelectric/Antiferroelectric HfZrOx Artificial Synapses/Neurons for Co
 track: iNEST
 url: https://www.semanticscholar.org/paper/5ecd33890e96cac0f9369f79e0c11f0f1fe94d30
 year: 2025
+provenance: external
 ---
 
 # Ferroelectric/Antiferroelectric HfZrOx Artificial Synapses/Neurons for Convolutional Neural Network-Spiking Neural Network Neuromorphic Computing.

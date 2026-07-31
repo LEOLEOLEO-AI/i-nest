@@ -5,6 +5,7 @@ type: link
 created: 2025-12-18 05:55:44
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # 美国DARPA对专业化孵化器建设的启示：组织架构、管理机制与生态构建

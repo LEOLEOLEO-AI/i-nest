@@ -7,6 +7,7 @@ date: 2026-06-03
 status: 撰写中
 priority: 高
 source: "phase1_workspace/papers/paper2_liquid_computing_chemistry.md"
+provenance: own
 ---
 
 # Liquid Computing Chemistry: FEP-driven Self-organization in Artificial Neural Substrates

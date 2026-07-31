@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自arxiv]
 citations: 0
 relevance: 2
 status: 洞察
+provenance: external
 ---
 
 # On the Effects of Decentralized Moderation on Network Robustness and Information Diffusion in Mastodon

@@ -24,6 +24,7 @@ title: 'MEIN: A Multicast-Efficient Interconnect Network for Multi-Chiplet DNN A
 track: TCC
 url: https://www.semanticscholar.org/paper/1cc0945935fd2d8f952a42c203a2a3f28ff8edf9
 year: 2024
+provenance: external
 ---
 
 # MEIN: A Multicast-Efficient Interconnect Network for Multi-Chiplet DNN Accelerat

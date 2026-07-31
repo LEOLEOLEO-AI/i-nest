@@ -5,6 +5,7 @@ note_id: "1899306663677170240"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 上帝 bash代码

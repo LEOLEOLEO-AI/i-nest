@@ -5,6 +5,7 @@ type: link
 created: 2025-12-18 05:48:34
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # 美国DARPA"材料科学与先进制造"领域深度研究报告：战略、技术与未来展望

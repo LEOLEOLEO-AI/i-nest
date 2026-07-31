@@ -6,6 +6,7 @@ track: iNEST
 tags: [剪藏, getnote]
 relevance: 2
 status: 待处理
+provenance: external
 ---
 
 # 2026-06-28_Physical AI_通往物理世界AI完全体的闭环技术框架解析

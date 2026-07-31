@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-06-05 01:31:35
 source: getnote
 kb: iNEST
+provenance: own
 ---
 
 # NEST 智能涌现研究进展与工程落地全景

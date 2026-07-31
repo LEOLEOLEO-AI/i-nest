@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "中美AI体系竞争"
 date: 2025-10-09 09:13:53
 source: "????"

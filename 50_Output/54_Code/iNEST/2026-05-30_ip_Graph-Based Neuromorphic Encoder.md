@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: engineering
 status: concept
 tags: [engineering, ip, inest, graph encoding, spike conversion, geometric learning, data pre-processing]
+provenance: own
 ---
 
 # Graph-Based Neuromorphic Encoder

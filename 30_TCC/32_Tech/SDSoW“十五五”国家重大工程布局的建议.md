@@ -5,6 +5,7 @@ note_id: "1905745044065878920"
 tags:
   - "get-笔记"
   - "default"
+provenance: external
 ---
 
 # SDSoW“十五五”国家重大工程布局的建议

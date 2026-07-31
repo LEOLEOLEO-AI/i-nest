@@ -4,6 +4,7 @@ theme: default
 class: lead
 paginate: true
 backgroundColor: #f8f9fa
+provenance: own
 ---
 
 # 晶上拓扑中心计算范式架构

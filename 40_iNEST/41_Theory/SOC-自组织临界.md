@@ -11,6 +11,7 @@ tags:
 - scale-free-networks
 - self-organization
 - small-world-networks
+provenance: external
 ---
 > iNEST 核心机制 | 极简的"那个一"
 

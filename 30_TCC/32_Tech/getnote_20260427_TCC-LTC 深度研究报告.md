@@ -11,6 +11,7 @@ source: getnote---
 
 现在我已经验证了V24论文中所有关键引用的真实性和时效性。让我基于 **CST_Intelligence_Emergence_Paper_V24_Engineering.docx** 的精确理论框架，重新撰写修订后的TCC-LTC深度研究报告。
 
+provenance: external
 ---
 
 # TCC-LTC 深度研究报告（V2.0 修订版）

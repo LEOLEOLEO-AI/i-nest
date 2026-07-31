@@ -5,6 +5,7 @@ tags: [软件定义经算系统, TCC, iNAS, 超线性增益, 系统论, 合作�
 summary: "软件定义经算系统合作交流与PPT提纲生成"
 quality: high
 processed: 2026-07-15 14:43
+provenance: own
 ---
 ---
 title: getnote_1915374185724285128_软件定义经算系统合作交流与发展规划

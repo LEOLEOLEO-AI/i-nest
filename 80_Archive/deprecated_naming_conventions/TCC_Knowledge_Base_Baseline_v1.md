@@ -3,6 +3,7 @@ direction: TCC
 title: "TCC Knowledge Base Baseline v1"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 > ⚠️ 已废弃 — 内容已合并至 [[TCC_Knowledge_Base_Baseline_v2.0]]（2026-07-03 全库合并）。
 

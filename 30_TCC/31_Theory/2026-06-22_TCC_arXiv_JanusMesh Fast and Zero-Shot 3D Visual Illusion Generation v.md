@@ -26,6 +26,7 @@ title: 'JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Sp
 track: TCC
 url: http://arxiv.org/abs/2606.20563v1
 year: 2026
+provenance: external
 ---
 
 # JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Deno

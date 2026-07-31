@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "2025年《Nature Physics》重磅论文解析：高阶拓扑动力学重构复杂系统研究范式"
 date: 2025-12-21 04:36:41
 source: "????"

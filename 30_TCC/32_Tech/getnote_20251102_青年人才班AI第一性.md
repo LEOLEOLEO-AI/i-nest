@@ -20,6 +20,7 @@ Claude 4.5 32K
 
 **网络时空协同复杂度涌现智能(iNEST)战略思维**
 
+provenance: external
 ---
 
 # PPT提纲

@@ -3,6 +3,7 @@ direction: iNEST
 title: "iNEST计算范式 从涌现科学验证到工程落地战略规划 v1.0"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 ﻿---
 title: "iNEST计算范式：从智能涌现科学验证到工程落地的战略规划"

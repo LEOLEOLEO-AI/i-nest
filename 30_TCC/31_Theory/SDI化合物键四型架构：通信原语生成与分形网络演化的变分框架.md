@@ -7,6 +7,7 @@ date: 2026-06-03
 status: 撰写中
 priority: 高
 source: "03_Topics/Concepts-Theory/08_SDI化合物键_四型架构.md"
+provenance: own
 ---
 
 # SDI化合物键四型架构：通信原语生成与分形网络演化的变分框架

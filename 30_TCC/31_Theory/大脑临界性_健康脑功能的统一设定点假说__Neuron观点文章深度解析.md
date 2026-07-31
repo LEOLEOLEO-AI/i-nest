@@ -28,6 +28,7 @@ tags:
 - paper
 - first-principles
 title: getnote_2026-06-16_大脑临界性_健康脑功能的统一设定点假说__Neuron观点文章深度解析
+provenance: external
 ---
 
 ## Original Note

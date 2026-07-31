@@ -10,6 +10,7 @@ tags: [洞察, tcc, 来自arxiv]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # Structural Visibility in Dynamical Systems on Hypergraphs: A Pattern Formation Perspective

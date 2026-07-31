@@ -3,6 +3,7 @@ direction: TCC
 title: "1plus1gt2 Proof v4 TaskAgilityFocus 2026-07-08"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: external
 ---
 # 1+1>2 超非线性增益：任务能效·类型覆盖·迁移敏捷性三维证明
 ## v4.0 — 面向智能算力集群的正确定义框架

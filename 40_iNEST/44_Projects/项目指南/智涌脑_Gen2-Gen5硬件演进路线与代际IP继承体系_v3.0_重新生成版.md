@@ -9,6 +9,7 @@ sources:
   - 元拓扑✖️SDI化合键的六种最优通信拓扑数学证明
   - SDI化合键工程参数证明及工程实现方案
 tags: [智涌脑, Gen2, Gen3, Gen4, Gen5, 硬件演进, IP继承, SDI化合键, SDSoW, TCC原语, CST]
+provenance: own
 ---
 
 # 智涌脑 Gen2-Gen5 硬件演进路线与代际IP继承体系

@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # Enhancing the Recognition Task Performance of MEMS Resonator-Based Reservoir Computing System via Nonlinearity Tuning

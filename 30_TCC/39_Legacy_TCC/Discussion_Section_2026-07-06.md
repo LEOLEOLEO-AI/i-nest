@@ -3,6 +3,7 @@ direction: TCC
 title: "Discussion Section 2026-07-06"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # Discussion
 

@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "学术论文"
   - "重要"
+provenance: external
 ---
 
 # Jeff Dean与谷歌AI的技术哲学：从并行计算到AGI的演进路径

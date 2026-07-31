@@ -3,6 +3,7 @@ direction: TCC
 title: "【PPT+讲稿+笔记】中山大学林倞：APR 面向具身智能的多模态感知与交互"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 # 【PPT+讲稿+笔记】中山大学林倞：APR 面向具身智能的多模态感知与交互
 

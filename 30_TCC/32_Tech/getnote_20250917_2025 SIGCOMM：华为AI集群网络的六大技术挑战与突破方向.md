@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "2025 SIGCOMM：华为AI集群网络的六大技术挑战与突破方向"
 date: 2025-09-17 14:23:22
 source: "????"

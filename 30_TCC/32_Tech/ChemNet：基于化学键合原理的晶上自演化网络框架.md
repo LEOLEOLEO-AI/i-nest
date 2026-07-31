@@ -12,6 +12,7 @@ tags:
   - "神经形态计算"
   - "get-笔记"
   - "灵感"
+provenance: external
 ---
 
 # ChemNet：基于化学键合原理的晶上自演化网络框架

@@ -10,6 +10,7 @@ source: openalex
 query: "photonic interconnect silicon photonics network"
 date: 2026-07-07
 topics: ['History and Developments in Astronomy']
+provenance: external
 ---
 
 # Chinese Optics Letters

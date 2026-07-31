@@ -6,6 +6,7 @@ tags:
 - software-defined-storage
 - it-infrastructure-trends
 - hcc-2014
+provenance: own
 ---
 > 笔记本: 微信  
 > 创建时间: 2020-11-28  

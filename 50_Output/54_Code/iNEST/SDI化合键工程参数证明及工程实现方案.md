@@ -5,6 +5,7 @@ note_id: "1905020437987430376"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # SDI化合键工程参数证明及工程实现方案

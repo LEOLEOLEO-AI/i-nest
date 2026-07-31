@@ -10,6 +10,7 @@ source: openalex
 query: "edge of chaos reservoir computing dynamics"
 date: 2026-07-07
 topics: ['Neural Networks and Reservoir Computing', 'Model Reduction and Neural Networks', 'Ferroelectric and Negative Capacitance Devices']
+provenance: external
 ---
 
 # Reservoir computing bootcamp—From Python/NumPy tutorial for the complete beginners to cutting-edge research topics of reservoir computing

@@ -3,6 +3,7 @@ title: V30_Scale_Emergence_Threshold_Scan
 date: 2026-06-19
 tags: [V30, emergence, scale, threshold, small-world]
 status: 已完成
+provenance: own
 ---
 
 # V30: 规模涌现阈值扫描 (N=16→1024)

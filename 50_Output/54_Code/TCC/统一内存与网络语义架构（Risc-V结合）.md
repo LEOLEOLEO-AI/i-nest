@@ -6,6 +6,7 @@ tags:
   - "get-笔记"
   - "项目管理"
   - "重要"
+provenance: own
 ---
 
 # 统一内存与网络语义架构（Risc-V结合）

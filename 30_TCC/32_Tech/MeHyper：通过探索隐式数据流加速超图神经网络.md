@@ -10,6 +10,7 @@ tags:
   - "硬件加速器"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # MeHyper：通过探索隐式数据流加速超图神经网络

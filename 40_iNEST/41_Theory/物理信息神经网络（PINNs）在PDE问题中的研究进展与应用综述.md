@@ -10,6 +10,7 @@ tags:
   - "科学计算"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 物理信息神经网络（PINNs）在PDE问题中的研究进展与应用综述

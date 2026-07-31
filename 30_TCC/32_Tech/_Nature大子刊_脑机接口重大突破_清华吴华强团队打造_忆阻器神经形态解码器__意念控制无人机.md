@@ -7,6 +7,7 @@ tags:
 - neuroscience
 - paper
 - semiconductor
+provenance: external
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-02-05 22:21

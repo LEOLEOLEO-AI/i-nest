@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 ﻿---
 title: "智涌脑软件栈：iNEST SDK/编译器/运行时 完整架构"
 date: 2026-06-18

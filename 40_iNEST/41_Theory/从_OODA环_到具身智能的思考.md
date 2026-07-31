@@ -11,6 +11,7 @@ tags:
 - graph-neural-network
 - large-language-model
 - neural-networks
+provenance: external
 ---
 - **笔记本**: 1.1 新导入
 - **时间**: 2026-02-10 01:12

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# 🧬 TCC + iNEST 知识库范式级诊断与升级蓝图
 
 > **诊断时间**: 2026-07-15 | **诊断对象**: Codex + Obsidian + Genspark + 得到大脑 + Trae 全链路

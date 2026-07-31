@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.05921v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Synchronization of topological signals in higher-order adaptive multilayer network

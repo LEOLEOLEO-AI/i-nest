@@ -3,6 +3,7 @@ direction: iNEST
 title: "当神经网络遇见物理：PINN的原理应用及代码实现"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # 当神经网络遇见物理：PINN的原理应用及代码实现
 

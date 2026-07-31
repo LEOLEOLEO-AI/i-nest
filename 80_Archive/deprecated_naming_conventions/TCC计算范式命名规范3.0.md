@@ -5,6 +5,7 @@ aliases: ["TCC命名约定v3", "Primitive Naming v3", "原语命名规范"]
 tags: ["ssot", "naming-convention", "TCC", "primitives"]
 supersedes: ["TCC_Core_Concepts", "TCC 原语库 v1.0 最终版规范"]
 status: authoritative
+provenance: external
 ---
 
 # TCC Naming Convention v3.0 — 统一原语命名体系

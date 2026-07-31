@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # B0 Engineering Submission Checklist — v7 FINAL
 
 **Deadline:** 2026-06-20 | **Pipeline:** WILLOSCAR arxiv-survey | **Audit:** 8.2/10

@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "外部用户使用Trae限制"
 date: 2025-07-05 22:32:44
 source: "????"

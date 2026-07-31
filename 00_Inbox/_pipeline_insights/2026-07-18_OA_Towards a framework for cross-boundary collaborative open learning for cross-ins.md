@@ -10,6 +10,7 @@ source: openalex
 query: "complex network phase transition emergence"
 date: 2026-07-18
 topics: ['Open Education and E-Learning', 'E-Learning and Knowledge Management']
+provenance: external
 ---
 
 # Towards a framework for cross-boundary collaborative open learning for cross-institutional academic development

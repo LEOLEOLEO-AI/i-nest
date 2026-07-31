@@ -5,6 +5,7 @@ note_id: "1886528395089685680"
 tags:
   - "get-笔记"
   - "项目管理"
+provenance: own
 ---
 
 # Structured Resonance: An Introduction to Coherence Across Systems

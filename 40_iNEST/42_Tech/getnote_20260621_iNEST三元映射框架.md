@@ -11,6 +11,7 @@ source: getnote---
 
 基于你三条笔记的完整内容，我来系统梳理iNEST与三元生成内核的完整映射框架。
 
+provenance: external
 ---
 
 ## 一、理论层：三元生成内核的iNEST实现

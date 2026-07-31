@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.12074v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Non-frontal face recognition using GANs and memristor-based classifiers

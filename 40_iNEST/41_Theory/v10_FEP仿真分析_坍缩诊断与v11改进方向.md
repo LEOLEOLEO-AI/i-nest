@@ -3,6 +3,7 @@ direction: iNEST
 title: "v10 FEP仿真分析 坍缩诊断与v11改进方向"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿---
 title: "v10 FEP自由能最小化仿真分析：坍缩诊断与v11改进方向"

@@ -7,6 +7,7 @@ date: 2026-06-04
 status: 撰写中
 priority: 高
 source: "TCC_2_论文撰写/A1_CST_Theory_V26_REVISED.md"
+provenance: own
 ---
 
 # From Compute to Complexity: A Physical Theory of Intelligence Emergence and Its Implications for AGI

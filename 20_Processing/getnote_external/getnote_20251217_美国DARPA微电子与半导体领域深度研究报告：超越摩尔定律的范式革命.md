@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "美国DARPA微电子与半导体领域深度研究报告：超越摩尔定律的范式革命"
 date: 2025-12-17 16:41:18
 source: "????"

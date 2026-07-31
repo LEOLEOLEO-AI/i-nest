@@ -4,6 +4,7 @@ tags:
 - search-agent
 - slow-thinking
 - paradigm-shift
+provenance: own
 ---
 ---
 title: "MiroThinker 1.5深度解析：AI从"秒回"到"慢思考"的范式转型"

@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # Cross-Domain Generalization in Optical Networks via Joint Contrastive and Classification Learning

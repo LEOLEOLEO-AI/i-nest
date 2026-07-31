@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "学术论文"
   - "重要"
+provenance: external
 ---
 
 # AI辅助综述论文写作全流程指南（基于Nature Reviews Bioengineering方法论）

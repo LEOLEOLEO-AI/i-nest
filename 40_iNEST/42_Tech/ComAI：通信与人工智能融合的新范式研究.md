@@ -10,6 +10,7 @@ tags:
   - "语义通信"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # ComAI：通信与人工智能融合的新范式研究

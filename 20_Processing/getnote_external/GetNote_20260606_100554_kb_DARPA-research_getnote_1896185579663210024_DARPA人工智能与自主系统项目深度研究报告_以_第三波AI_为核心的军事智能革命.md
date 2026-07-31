@@ -24,6 +24,7 @@ tags:
 - 人机协同
 - 第三波AI
 title: kb_DARPA-research_getnote_1896185579663210024_DARPA人工智能与自主系统项目深度研究报告_以_第三波AI_为核心
+provenance: external
 ---
 
 ## Original Note

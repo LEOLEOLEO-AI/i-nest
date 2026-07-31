@@ -3,6 +3,7 @@ direction: iNEST
 title: " AIR综述  物理信息神经网络 PINN 求解偏微分方程"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # [AIR综述]—物理信息神经网络（PINN）求解偏微分方程
 

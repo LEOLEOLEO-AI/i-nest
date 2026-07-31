@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# 知识库健康诊断 (Self-Health Dashboard)
 
 > 自动维护 | 上次诊断：**2026-07-15** | 综合评分：🟡 **68/100**

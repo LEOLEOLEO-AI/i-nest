@@ -3,6 +3,7 @@ direction: TCC
 title: "硅基世界的“缘分”——系统与人工智能携手进化 - Microsoft Research"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 # 硅基世界的“缘分”——系统与人工智能携手进化 - Microsoft Research
 

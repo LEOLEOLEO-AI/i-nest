@@ -17,6 +17,7 @@ source: getnote---
 # 文件位置：00_KnowledgeBase_知识库/02_CST_核心理论著作/TCC_Naming_Convention_v2.md
 # 前版本：TCC_Naming_Convention_v1.md（TCC-8，已废止）
 
+provenance: external
 ---
 
 ## 一、TCC-16 完备原语集

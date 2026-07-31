@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # Localized LoRA-MoE: Block-wise Low-Rank Experts With Adaptive Routing

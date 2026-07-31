@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 # 大语言模型训练的Scale-Up与Scale-Out网络架构及晶圆级互连创新：综述框架
 
 **目标期刊：** Nature Electronics / IEEE Proceedings / Engineering

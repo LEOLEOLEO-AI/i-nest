@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # 🎯 最终执行总结 - 拓扑中心计算论文完成报告
 
 **任务代号:** TCC-Full-Integration-v1.0  

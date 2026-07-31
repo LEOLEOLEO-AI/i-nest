@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: paper
 status: draft
 tags: [paper, inest, self-organized criticality, network topology, spiking neural networks, cortical modeling]
+provenance: external
 ---
 
 # Neuromorphic Implementation of Criticality in Hybrid Scale-Free/Small-World Spiking Networks

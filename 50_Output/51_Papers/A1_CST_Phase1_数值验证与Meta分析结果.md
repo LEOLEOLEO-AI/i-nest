@@ -11,6 +11,7 @@ tags:
 - scale-free-networks
 - self-organization
 - synapse
+provenance: external
 ---
 在本节中，我们将 CST 理论的核心公式 $I \propto \exp(\alpha \cdot \Gamma_{st})$ 置于实证与数值模拟的检验之下。由于直接测量微观突触的实时动态协同指数（$\Gamma_{st}$）在超大规模人工神经网络中存在巨大的计算壁垒，我们采用了一种“两步走”的验证策略：首先，通过对经典网络剪枝（Network Pruning）文献的 Meta 分析，在宏观尺度上反推出现有 CMOS 基质的人工神经网络的标度指数 $\alpha_{\text{CMOS}}$；其次，通过构建 Kuramoto 振子合成网络，在微观尺度上模拟不同物理基质（CMOS 晶体管与忆阻器）的传递函数，量化物理器件对时空协同能力的本征增益。
 

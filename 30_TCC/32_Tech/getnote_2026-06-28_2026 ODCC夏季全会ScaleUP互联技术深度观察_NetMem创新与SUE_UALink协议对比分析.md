@@ -5,6 +5,7 @@ type: link
 created: 2026-06-28 12:47:27
 source: getnote
 kb: 
+provenance: external
 ---
 
 # 2026 ODCC夏季全会ScaleUP互联技术深度观察：NetMem创新与SUE/UALink协议对比分析

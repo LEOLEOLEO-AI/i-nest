@@ -23,6 +23,7 @@ tags:
 - 冯·诺依曼架构
 - 统一计算架构
 title: Simplex Micro：突破冯·诺依曼架构的确定性计算革命
+provenance: external
 ---
 
 # Simplex Micro：突破冯·诺依曼架构的确定性计算革命

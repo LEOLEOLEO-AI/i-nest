@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "学术论文"
   - "重要"
+provenance: external
 ---
 
 # 人类生命周期中的大脑拓扑转折点：Nature Communications 2025年里程碑研究解析

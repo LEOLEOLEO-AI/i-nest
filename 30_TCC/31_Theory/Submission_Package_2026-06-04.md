@@ -3,6 +3,7 @@ direction: TCC
 title: "Submission Package 2026-06-04"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 ﻿# iNEST 论文投稿准备包 — 2026-06-04
 # =====================================

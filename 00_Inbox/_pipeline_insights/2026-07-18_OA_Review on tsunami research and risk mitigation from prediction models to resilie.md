@@ -10,6 +10,7 @@ source: openalex
 query: "edge of chaos reservoir computing dynamics"
 date: 2026-07-18
 topics: ['Tropical and Extratropical Cyclones Research', 'earthquake and tectonic studies', 'Flood Risk Assessment and Management']
+provenance: external
 ---
 
 # Review on tsunami research and risk mitigation: from prediction models to resilient coastal communities

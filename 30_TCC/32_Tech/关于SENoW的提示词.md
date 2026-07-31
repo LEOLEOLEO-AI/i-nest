@@ -5,6 +5,7 @@ note_id: "1883995928826932688"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 关于SENoW的提示词

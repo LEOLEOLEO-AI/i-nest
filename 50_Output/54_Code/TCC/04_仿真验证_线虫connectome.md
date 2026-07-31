@@ -10,6 +10,7 @@ tags:
 - small-world-networks
 - synapse
 - topology
+provenance: external
 ---
 **仿真日期**：2026-03-24
 **仿真环境**：Python 3.12, NetworkX 3.x, Genspark Claw VM（Azure, West Central US）

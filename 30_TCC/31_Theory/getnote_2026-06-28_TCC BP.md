@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-06-28 23:15:21
 source: getnote
 kb: TCC
+provenance: external
 ---
 
 # TCC BP

@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "灵感"
   - "重要"
+provenance: own
 ---
 
 # 全球首款大规模类脑脉冲大模型SpikingBrain1.0发布

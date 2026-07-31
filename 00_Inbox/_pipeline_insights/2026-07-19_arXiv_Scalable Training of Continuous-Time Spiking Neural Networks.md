@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Scalable Training of Continuous-Time Spiking Neural Networks with Differentiable Spike-Time Discretization"
 date: 2026-07-19

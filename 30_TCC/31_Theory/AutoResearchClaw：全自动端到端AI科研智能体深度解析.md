@@ -10,6 +10,7 @@ tags:
   - "AI学术论文生成"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # AutoResearchClaw：全自动端到端AI科研智能体深度解析

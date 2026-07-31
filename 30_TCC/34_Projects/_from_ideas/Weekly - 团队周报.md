@@ -5,6 +5,7 @@ date: "{{YYYY-MM-DD}}"
 tags:
   - weekly
   - report
+provenance: own
 ---
 
 # {{组别}}组周报：{{YYYY-MM-DD}}

@@ -5,6 +5,7 @@ aliases:
   - 复杂网络智能涌现
 tags:
   - ssot
+provenance: own
 ---
 
 # INEST

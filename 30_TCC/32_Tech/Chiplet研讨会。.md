@@ -5,6 +5,7 @@ status: framework
 category: "TCC"
 topic: "Chiplet 研讨会"
 needs_content: true
+provenance: external
 ---
 
 # Chiplet研讨会。

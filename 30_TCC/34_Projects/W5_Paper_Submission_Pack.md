@@ -3,6 +3,7 @@ direction: TCC
 title: "W5 Paper Submission Pack"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 ﻿# W5 Paper Submission Pack + DVS Experiment Guide
 # ==============================================

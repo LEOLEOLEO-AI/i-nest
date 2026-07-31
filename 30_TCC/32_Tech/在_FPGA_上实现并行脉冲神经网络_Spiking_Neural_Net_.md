@@ -11,6 +11,7 @@ tags:
 - project
 - semiconductor
 - synapse
+provenance: own
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-08 02:38

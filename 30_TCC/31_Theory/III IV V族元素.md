@@ -6,6 +6,7 @@ tags:
   - "get-笔记"
   - "default"
   - "重要"
+provenance: own
 ---
 
 # III IV V族元素

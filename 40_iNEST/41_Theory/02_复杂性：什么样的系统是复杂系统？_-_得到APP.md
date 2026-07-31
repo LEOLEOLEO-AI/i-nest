@@ -3,6 +3,7 @@ direction: iNEST
 title: "02 复杂性：什么样的系统是复杂系统？ - 得到APP"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # 02 复杂性：什么样的系统是复杂系统？ - 得到APP
 

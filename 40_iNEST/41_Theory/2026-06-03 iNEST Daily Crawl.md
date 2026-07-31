@@ -3,6 +3,7 @@ date: 2026-06-03
 tags: [iNEST, literature-tracking, web-clip, auto-crawl]
 source: Google News RSS + arXiv API (auto)
 topics: [STDP, FEP, BCM, small-world, consolidation, homeostasis, connectome, neuromorphic]
+provenance: external
 ---
 
 # 2026-06-03 iNEST Daily Literature Crawl

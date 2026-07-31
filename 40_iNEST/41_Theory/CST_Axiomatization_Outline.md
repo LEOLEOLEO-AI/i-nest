@@ -3,6 +3,7 @@ direction: iNEST
 title: "CST Axiomatization Outline"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 ﻿# CST Axiomatization: Formal Foundations of Complexity-Driven Intelligence Emergence
 # ===================================================================================

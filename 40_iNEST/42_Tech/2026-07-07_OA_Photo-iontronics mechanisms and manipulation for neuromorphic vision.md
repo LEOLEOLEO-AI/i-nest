@@ -10,6 +10,7 @@ source: openalex
 query: "neuromorphic spiking neural network memristor"
 date: 2026-07-07
 topics: ['Advanced Memory and Neural Computing', 'Photoreceptor and optogenetics research', 'Photochromic and Fluorescence Chemistry']
+provenance: external
 ---
 
 # Photo-iontronics: mechanisms and manipulation for neuromorphic vision

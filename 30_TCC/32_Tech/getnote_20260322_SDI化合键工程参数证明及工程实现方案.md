@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 \---
 
 title: "SDI化合键工程参数证明及工程实现方案"

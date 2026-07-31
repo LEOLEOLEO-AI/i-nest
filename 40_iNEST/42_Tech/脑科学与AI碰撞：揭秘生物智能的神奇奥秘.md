@@ -10,6 +10,7 @@ tags:
   - "数字AI"
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 脑科学与AI碰撞：揭秘生物智能的神奇奥秘

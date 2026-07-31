@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: paper
 status: draft
 tags: [paper, inest, criticality, scale-free, small-world, spiking neural networks, neuromorphic computing]
+provenance: external
 ---
 
 # Criticality and Information Processing in Hybrid Scale-Free Small-World Spiking Networks

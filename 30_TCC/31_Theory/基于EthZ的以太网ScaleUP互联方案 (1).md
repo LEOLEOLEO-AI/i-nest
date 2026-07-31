@@ -13,6 +13,7 @@ tags:
 - topology
 merged_into: "30_TCC\31_Theory\基于EthZ的以太网ScaleUP互联方案.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[30_TCC\31_Theory\基于EthZ的以太网ScaleUP互联方案.md]]

@@ -5,6 +5,7 @@ note_id: "1899812152336800288"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 吴华强团队与iNEST技术互补

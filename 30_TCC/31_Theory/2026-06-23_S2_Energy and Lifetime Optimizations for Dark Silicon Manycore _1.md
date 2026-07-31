@@ -30,6 +30,7 @@ title: Energy and Lifetime Optimizations for Dark Silicon Manycore Microprocesso
 track: TCC
 url: https://www.semanticscholar.org/paper/39adfa37cb1f499e0e9d1dd3e1ca35b34a2fc4e8
 year: 2017
+provenance: external
 ---
 
 # Energy and Lifetime Optimizations for Dark Silicon Manycore Microprocessor Considering Both Hard and Soft Errors

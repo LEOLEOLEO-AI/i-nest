@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 2
 status: 洞察
+provenance: external
 ---
 
 # Influences of individual interaction validity on coupling propagation of information and disease in a two-layer higher-order network.

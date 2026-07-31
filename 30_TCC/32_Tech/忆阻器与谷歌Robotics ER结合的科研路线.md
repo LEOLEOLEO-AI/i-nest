@@ -5,6 +5,7 @@ note_id: "1895650506194383424"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 忆阻器与谷歌Robotics ER结合的科研路线

@@ -7,6 +7,7 @@ pages: 28
 text_status: extracted
 analysis_status: pending_fulltext_review
 ingested: "2026-07-19T16:31:38"
+provenance: external
 ---
 
 # NeuroTrain: Surveying Local Learning Rules for Spiking Neural Networks with an Open Benchmarking Framework - Full Text

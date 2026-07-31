@@ -20,6 +20,7 @@ tags:
 - ECoG
 - 记忆
 title: getnote_2026-06-17_Nature Communications研究_人类记忆中皮层行波的多样化传播模式及其行为关联
+provenance: external
 ---
 
 ## Original Note

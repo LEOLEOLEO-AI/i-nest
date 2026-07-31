@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/e0300b6ab4a8157af10416c398094465874aabc1
 tags: [waferscale switching, network on wafer, butterfly fat-tree, chiplet, topology, classified, tcc]
 status: inbox
+provenance: external
 ---
 
 # Architectural Exploration for Waferscale Switching System

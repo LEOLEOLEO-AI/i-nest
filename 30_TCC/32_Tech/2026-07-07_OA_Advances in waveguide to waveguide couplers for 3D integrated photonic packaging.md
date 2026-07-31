@@ -10,6 +10,7 @@ source: openalex
 query: "3D-IC TSV hybrid bonding advanced packaging"
 date: 2026-07-07
 topics: ['Photonic and Optical Devices', 'Semiconductor Lasers and Optical Devices', '3D IC and TSV technologies']
+provenance: external
 ---
 
 # Advances in waveguide to waveguide couplers for 3D integrated photonic packaging

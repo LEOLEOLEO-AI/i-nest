@@ -5,6 +5,7 @@ note_id: "1889901820244537000"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 事件相机 (DVS)、类脑计算 (SNN) 与 FPGA 部署

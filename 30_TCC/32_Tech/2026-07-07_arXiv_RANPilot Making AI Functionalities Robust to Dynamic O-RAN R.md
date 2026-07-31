@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # RANPilot: Making AI Functionalities Robust to Dynamic O-RAN Reconfigurations

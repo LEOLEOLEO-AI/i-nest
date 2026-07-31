@@ -28,6 +28,7 @@ title: 'Emergence and Causality in Complex Systems: A Survey of Causal Emergence
 track: iNEST
 url: https://www.semanticscholar.org/paper/2d426e821bc14166f7d3ef7d2a94564468a23614
 year: 2024
+provenance: external
 ---
 
 # Emergence and Causality in Complex Systems: A Survey of Causal Emergence and Related Quantitative Studies

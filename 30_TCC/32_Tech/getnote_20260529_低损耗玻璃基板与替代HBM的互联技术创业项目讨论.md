@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "低损耗玻璃基板与替代HBM的互联技术创业项目讨论"
 date: 2026-05-29 10:05:53
 source: "????"

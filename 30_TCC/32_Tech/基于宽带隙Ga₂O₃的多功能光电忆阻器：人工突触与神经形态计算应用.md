@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # 基于宽带隙Ga₂O₃的多功能光电忆阻器：人工突触与神经形态计算应用

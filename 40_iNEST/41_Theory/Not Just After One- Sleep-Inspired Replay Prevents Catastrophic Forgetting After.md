@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.08447v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Not Just After One: Sleep-Inspired Replay Prevents Catastrophic Forgetting After Sequential Tasks

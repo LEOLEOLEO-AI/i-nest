@@ -5,6 +5,7 @@ note_id: "1901829620882299512"
 tags:
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # TCC OneFabric 统一内存与网络语义架构

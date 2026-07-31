@@ -3,6 +3,7 @@ title: "TCC iNEST 论文撰写可追溯管线（基于 Research Units Pipeline �
 date: 2026-06-17
 version: 2.0
 framework: "Zotero 存证据 + Codex 跑流程 + Skills 做工序"
+provenance: external
 ---
 
 # TCC iNEST 论文撰写可追溯管线

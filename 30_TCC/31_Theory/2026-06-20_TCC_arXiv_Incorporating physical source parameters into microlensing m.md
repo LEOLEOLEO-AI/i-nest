@@ -8,6 +8,7 @@ year: 2026
 url: http://arxiv.org/abs/2606.20555v1
 citations: 
 tags: [microlensing, xallarap, degeneracy, arXiv, classified]
+provenance: external
 ---
 
 # Incorporating physical source parameters into microlensing modeling

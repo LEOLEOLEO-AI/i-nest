@@ -3,6 +3,7 @@ direction: iNEST
 title: "AI梦境与意识涌现"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # AI梦境与意识涌现
 

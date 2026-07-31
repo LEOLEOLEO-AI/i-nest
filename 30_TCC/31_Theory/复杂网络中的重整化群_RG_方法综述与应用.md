@@ -3,6 +3,7 @@ direction: TCC
 title: "复杂网络中的重整化群 RG 方法综述与应用"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 复杂网络中的重整化群（RG）方法综述与应用
 

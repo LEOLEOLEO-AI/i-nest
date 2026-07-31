@@ -8,6 +8,7 @@ tags:
 - software-defined
 - tcc-sdi
 - topology
+provenance: own
 ---
 > iNEST 核心计算范式
 

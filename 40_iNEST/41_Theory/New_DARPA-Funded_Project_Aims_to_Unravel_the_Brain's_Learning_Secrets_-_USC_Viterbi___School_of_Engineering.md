@@ -2,6 +2,7 @@
 
 merged_into: "40_iNEST\42_Tech\New DARPA-Funded Project Aims to Unravel the Brain's Learning Secrets - USC Viterbi School of Engineering.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[40_iNEST\42_Tech\New DARPA-Funded Project Aims to Unravel the Brain's Learning Secrets - USC Viterbi School of Engineering.md]]

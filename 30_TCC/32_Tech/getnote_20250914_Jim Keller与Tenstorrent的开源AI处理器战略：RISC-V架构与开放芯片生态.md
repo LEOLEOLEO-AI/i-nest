@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "Jim Keller与Tenstorrent的开源AI处理器战略：RISC-V架构与开放芯片生态"
 date: 2025-09-14 03:06:34
 source: "????"

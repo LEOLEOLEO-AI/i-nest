@@ -4,6 +4,7 @@ tags:
 - brain
 - tools
 - tutorial
+provenance: own
 ---
 刘老师，如果您在电脑上执行 `git clone https://gitee.com/iBrainNest/i-nest.git` 时遇到了红色的报错，千万别急，通常只有以下 3 种最常见的小问题：
 

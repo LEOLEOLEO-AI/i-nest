@@ -3,6 +3,7 @@ direction: iNEST
 title: "SDI Four Rules References FINAL"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: external
 ---
 # SDI 四条规则——文献依据完整规范
 # SDI Four Rules: Complete Literature-Grounded Parameter Specification

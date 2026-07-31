@@ -5,6 +5,7 @@ note_id: ""
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 台积电 CoPoS 中试线 6 月全面建成

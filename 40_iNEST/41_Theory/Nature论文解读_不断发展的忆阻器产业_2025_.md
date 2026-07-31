@@ -3,6 +3,7 @@ direction: iNEST
 title: "Nature论文解读 不断发展的忆阻器产业 2025 "
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # Nature论文解读：不断发展的忆阻器产业（2025）
 

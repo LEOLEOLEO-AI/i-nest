@@ -5,6 +5,7 @@ tags:
 - chiplet
 - semiconductor
 - topology
+provenance: own
 ---
 > 占位笔记 | 原文件已迁移
 

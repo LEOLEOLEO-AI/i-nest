@@ -8,6 +8,7 @@ tags:
 - emergence
 - fundamentals
 - project
+provenance: own
 ---
 > 笔记本: 复杂科学  
 > 创建时间: 2024-06-10  

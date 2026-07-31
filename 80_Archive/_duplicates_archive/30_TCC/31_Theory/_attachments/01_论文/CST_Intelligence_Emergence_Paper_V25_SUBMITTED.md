@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 **V25-SUBMITTED | 2026-07-09 | Results+Discussion集成版 | 投稿就绪**
 
 # From Compute to Complexity: A Physical Theory of Intelligence Emergence and Its Implications for Artificial General Intelligence

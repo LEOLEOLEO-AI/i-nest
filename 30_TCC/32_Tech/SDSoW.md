@@ -4,6 +4,7 @@ tags:
 - software-defined
 - tcc-sdi
 - topology
+provenance: own
 ---
 > SDI 的物理实现层
 

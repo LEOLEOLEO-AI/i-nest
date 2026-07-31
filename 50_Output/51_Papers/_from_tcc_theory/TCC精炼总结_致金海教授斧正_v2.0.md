@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "TCC精炼总结_致金海教授斧正"
 date: 2026-07-17

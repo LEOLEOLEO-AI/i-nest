@@ -10,6 +10,7 @@ source: openalex
 query: "3D-IC TSV hybrid bonding advanced packaging"
 date: 2026-07-07
 topics: ['Electronic Packaging and Soldering Technologies', '3D IC and TSV technologies', 'Epoxy Resin Curing Processes']
+provenance: external
 ---
 
 # Epoxy molding compound encapsulation process in IC packaging: a review at wafer and component levels

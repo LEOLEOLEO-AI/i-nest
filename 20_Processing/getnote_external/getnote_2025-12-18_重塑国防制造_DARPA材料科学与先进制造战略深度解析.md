@@ -5,6 +5,7 @@ type: link
 created: 2025-12-18 05:48:10
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # 重塑国防制造：DARPA材料科学与先进制造战略深度解析

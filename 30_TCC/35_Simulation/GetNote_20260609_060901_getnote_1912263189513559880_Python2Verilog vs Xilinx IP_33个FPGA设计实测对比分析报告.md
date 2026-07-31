@@ -26,6 +26,7 @@ tags:
 - research
 - fpga
 title: getnote_1912263189513559880_Python2Verilog vs Xilinx IP_33个FPGA设计实测对比分析报告
+provenance: external
 ---
 
 ## Original Note

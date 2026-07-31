@@ -2,6 +2,7 @@
 
 merged_into: "30_TCC\32_Tech\Chiplet 设计和异构集成封装--3D IC 集成.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[30_TCC\32_Tech\Chiplet 设计和异构集成封装--3D IC 集成.md]]

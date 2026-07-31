@@ -3,6 +3,7 @@ direction: TCC
 title: "【先进封装】台积电系统级晶圆（SoW）技术详解（一）"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 # 【先进封装】台积电系统级晶圆（SoW）技术详解（一）
 

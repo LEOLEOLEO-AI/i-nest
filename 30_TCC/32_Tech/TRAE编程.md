@@ -5,6 +5,7 @@ note_id: "1880588037633770696"
 tags:
   - "get-笔记"
   - "项目管理"
+provenance: external
 ---
 
 # TRAE编程

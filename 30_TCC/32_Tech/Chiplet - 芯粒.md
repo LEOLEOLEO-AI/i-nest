@@ -5,6 +5,7 @@ aliases:
   - Chiplets
 tags:
   - ssot
+provenance: own
 ---
 
 # Chiplet

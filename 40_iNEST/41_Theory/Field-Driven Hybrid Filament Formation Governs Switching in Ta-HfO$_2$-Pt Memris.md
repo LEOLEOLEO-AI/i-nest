@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2605.29127v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Field-Driven Hybrid Filament Formation Governs Switching in Ta-HfO$_2$-Pt Memristors

@@ -10,6 +10,7 @@ source: openalex
 query: "integrated information causal emergence neural"
 date: 2026-07-07
 topics: ['AI in cancer detection']
+provenance: external
 ---
 
 # Recent Advances in Generative AI for Healthcare Applications

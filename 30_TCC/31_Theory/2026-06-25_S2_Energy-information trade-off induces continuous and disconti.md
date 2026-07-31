@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # Energy-information trade-off induces continuous and discontinuous phase transitions in lateral predictive coding

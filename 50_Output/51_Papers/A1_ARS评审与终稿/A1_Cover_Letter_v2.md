@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Cover Letter
 
 **Date:** June 21, 2026

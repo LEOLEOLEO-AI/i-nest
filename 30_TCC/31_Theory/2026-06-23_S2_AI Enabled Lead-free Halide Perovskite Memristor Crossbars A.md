@@ -23,6 +23,7 @@ title: AI Enabled Lead-free Halide Perovskite Memristor Crossbars Array Energy E
 track: iNEST
 url: https://www.semanticscholar.org/paper/cb7c63258aa1d43a3cdd5d2756b0fe51085bbd80
 year: 2026
+provenance: external
 ---
 
 # AI Enabled Lead-free Halide Perovskite Memristor Crossbars Array Energy Efficient In Memory Computing

@@ -5,6 +5,7 @@ note_id: "1907662480676816400"
 tags:
   - "get-笔记"
   - "日记"
+provenance: external
 ---
 
 # 虫洞路由 KL散度

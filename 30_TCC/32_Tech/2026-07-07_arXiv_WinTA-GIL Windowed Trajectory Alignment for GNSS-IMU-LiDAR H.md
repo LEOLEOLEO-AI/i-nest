@@ -10,6 +10,7 @@ tags: [inbox, general, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # WinTA-GIL: Windowed Trajectory Alignment for GNSS-IMU-LiDAR Heading Refinement in Intermittent Signal Environments

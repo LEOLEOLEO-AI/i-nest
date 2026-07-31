@@ -8,6 +8,7 @@ created: 2026-07-03
 description:
 tags:
   - "clippings"
+provenance: external
 ---
 图灵人工智能 *2026年7月3日 00:00*
 

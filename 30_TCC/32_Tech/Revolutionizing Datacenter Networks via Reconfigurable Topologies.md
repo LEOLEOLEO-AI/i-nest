@@ -24,6 +24,7 @@ tags:
 - 拓扑工程
 - clippings
 title: Revolutionizing Datacenter Networks via Reconfigurable Topologies
+provenance: external
 ---
 
 Datacenter networks have become critical infrastructure for our digital society. Indeed, the performance of many distributed systems and cloud applications—for example, those related to distributed machine learning (ML), batch processing, scale-out databases, or streaming—critically depends on the throughput capacity of the underlying network topology.

@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "通用脑启发计算（GPBIC）的发展与技术框架"
 date: 2025-07-22 19:53:32
 source: "????"

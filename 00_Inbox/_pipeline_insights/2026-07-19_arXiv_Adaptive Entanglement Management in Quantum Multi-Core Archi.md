@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Adaptive Entanglement Management in Quantum Multi-Core Architectures"
 date: 2026-07-19

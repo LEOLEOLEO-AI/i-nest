@@ -5,6 +5,7 @@ note_id: "1895548938807804464"
 tags:
   - "get-笔记"
   - "default"
+provenance: own
 ---
 
 # notebooklm ppt提示词

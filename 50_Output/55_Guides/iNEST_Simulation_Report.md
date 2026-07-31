@@ -3,6 +3,7 @@ title: "iNEST Comprehensive Simulation Report and Engineering Plan"
 date: 2026-06-06
 author: "iNEST Research Team / Prof. Qinrang Liu"
 tags: [iNEST, simulation, CST, SDI-CC, roadmap, product, engineering]
+provenance: external
 ---
 
 # iNEST Comprehensive Simulation Report and Engineering Plan

@@ -8,6 +8,7 @@ year: 2023
 url: https://www.semanticscholar.org/paper/12e0e2de625482f5af45c5f2bb0f59d6082f3fc3
 tags: [from-s2, auto-crawl, tcc, classified, tcc]
 status: inbox
+provenance: external
 ---
 
 # Signal Integrity Design and Analysis of Universal Chiplet Interconnect Express (UCIe) Channel in Silicon Interposer for Advanced Package

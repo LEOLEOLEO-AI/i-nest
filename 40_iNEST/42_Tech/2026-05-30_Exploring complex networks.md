@@ -5,6 +5,7 @@ year: 2001
 date: 2026-05-30
 thread: "topology"
 tags: [inspiration, topology, network-theory, topology, foundational]
+provenance: own
 ---
 
 # 💡 Exploring complex networks

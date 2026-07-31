@@ -3,6 +3,7 @@ direction: TCC
 title: "同类技术源对标分析 TCC计算范式的产业验证与差异化定位 v3.0"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 ﻿---
 title: "同类技术源对标分析：TCC计算范式的产业验证与差异化定位_v3.0"

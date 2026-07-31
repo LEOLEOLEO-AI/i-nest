@@ -5,6 +5,7 @@ type: plain_text
 created: 2025-06-25 19:05:21
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # AI梦境与意识涌现

@@ -22,6 +22,7 @@ title: Protein engineering using variational free energy approximation
 track: iNEST
 url: https://www.semanticscholar.org/paper/4eab7d751c1112eb2dce7f626c09db280b0a140f
 year: 2024
+provenance: external
 ---
 
 # Protein engineering using variational free energy approximation

@@ -5,6 +5,7 @@ type: plain_text
 created: 2025-09-18 07:07:30
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # Sandia国家实验室

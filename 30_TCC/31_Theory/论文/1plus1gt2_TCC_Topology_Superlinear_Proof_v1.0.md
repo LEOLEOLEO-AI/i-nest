@@ -7,6 +7,7 @@ version: "v1.0"
 status: "Draft — Internal Review"
 keywords: ["Topology-Centric Computing", "Superlinear Gain", "Software-Defined Interconnect", "Self-Organized Criticality", "Adaptive Topology", "In-Memory Computing", "Non-linear Emergence"]
 target_journal: "Physical Review Letters / Nature Communications"
+provenance: external
 ---
 
 # Superlinear Gain in Topology-Centric Computing: A Formal Proof of 1+1>2 via Adaptive Topology–Compute–Memory Co-organization

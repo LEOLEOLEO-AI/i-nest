@@ -5,6 +5,7 @@ tags:
 - chip-hardware
 - project
 - semiconductor
+provenance: own
 ---
 在离开高通仅数月后，以高性能处理器设计闻名的杰出 CPU 与系统架构师杰拉德·威廉姆斯(Gerard Williams)、约翰·布鲁诺 (John Bruno)以及拉姆·斯里尼瓦桑 (Ram Srinivasan)共同创立了一家全新的 CPU 初创公司 ——**Nuvacore**。这三位架构师曾在苹果、Nuvia 以及近期任职的高通打造出多款顶尖处理器，而这家新公司的目标毫不逊色：**“****重写芯片规则****”**。Nuvacore 即将研发的全新通用 CPU 核心，预计将在各类数据中心 AI 负载上实现卓越表现，公司的口号是：**“****为极致高度而造****”**。
 

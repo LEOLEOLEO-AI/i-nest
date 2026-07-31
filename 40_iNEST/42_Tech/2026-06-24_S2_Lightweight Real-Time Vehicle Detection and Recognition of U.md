@@ -8,6 +8,7 @@ year: 2023
 url: https://www.semanticscholar.org/paper/782271ddb96b23db371ce1111faa55d59aa6af62
 tags: [UAV, vehicle detection, brain-inspired computing, classified]
 status: inbox
+provenance: external
 ---
 
 # Lightweight Real-Time Vehicle Detection and Recognition of UAV Images Based on Brain-Inspired Computing Architecture

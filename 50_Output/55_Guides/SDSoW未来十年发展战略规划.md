@@ -5,6 +5,7 @@ source: "????"
 note_id: 1884406029484134112
 note_type: plain_text
 tags: []
+provenance: own
 ---
 
 # 软件定义晶上系统（SDSoW）未来十年（2026-2035）发展战略规划

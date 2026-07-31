@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: engineering
 status: concept
 tags: [engineering, ip, inest, spiking-neural-networks, neuron-models, synapse-models, simulation, cross-simulator]
+provenance: own
 ---
 
 # Spiking Neuron & Synapse Model Library

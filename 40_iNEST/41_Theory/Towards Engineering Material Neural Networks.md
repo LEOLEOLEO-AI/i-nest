@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.07262v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Towards Engineering Material Neural Networks

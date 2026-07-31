@@ -8,6 +8,7 @@ year: 2024
 url: https://www.semanticscholar.org/paper/bc51c337612837ca57385d753adfaed7883a4699
 tags: [from-s2, auto-crawl, tcc, classified, tcc]
 status: inbox
+provenance: external
 ---
 
 # A Deep Reinforcement Learning Approach for Network-on-Chip Layout Verification and Route Optimization

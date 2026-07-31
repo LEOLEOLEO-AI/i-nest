@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/b4f8a1ae399fb801a251ca4f588b8dff259d0314
 citations: 6
 tags: [active inference, expected free energy, planning under uncertainty, variational inference, classified]
+provenance: external
 ---
 
 # Expected Free Energy-based Planning as Variational Inference

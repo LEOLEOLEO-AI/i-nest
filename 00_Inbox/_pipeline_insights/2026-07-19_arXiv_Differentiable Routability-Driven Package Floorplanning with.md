@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Differentiable Routability-Driven Package Floorplanning with Pin Assignment"
 date: 2026-07-19

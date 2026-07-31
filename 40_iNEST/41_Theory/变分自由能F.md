@@ -3,6 +3,7 @@ title: "变分自由能 (F)"
 date: 2026-07-03
 type: concept
 tags: [iNEST, FEP, free-energy]
+provenance: own
 ---
 
 # 变分自由能 (Variational Free Energy)

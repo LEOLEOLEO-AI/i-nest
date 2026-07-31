@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: paper
 status: draft
 tags: [paper, inest, statistical mechanics, learning, scale-free networks, neuromorphic computing, criticality]
+provenance: external
 ---
 
 # Statistical Mechanics of Learning in Physical Spiking Networks with Complex Topology

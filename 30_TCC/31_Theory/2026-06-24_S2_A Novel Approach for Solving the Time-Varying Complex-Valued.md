@@ -8,6 +8,7 @@ year: 2024
 url: https://www.semanticscholar.org/paper/e3f45ec3d18dd626aefcc58af91cf75c15ef8024
 tags: [zeroing neural network, fuzzy parameter, complex-valued linear matrix inequality, classified]
 status: inbox
+provenance: external
 ---
 
 # A Novel Approach for Solving the Time-Varying Complex-Valued Linear Matrix Inequality Based on Fuzzy-Parameter Zeroing Neural Network

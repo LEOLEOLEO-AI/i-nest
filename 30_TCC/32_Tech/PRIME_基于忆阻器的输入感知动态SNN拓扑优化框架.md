@@ -11,6 +11,7 @@ tags:
 - project
 - semiconductor
 - simulation
+provenance: external
 ---
 - **类型**: link
 - **时间**: 2025-12-04 17:41:31

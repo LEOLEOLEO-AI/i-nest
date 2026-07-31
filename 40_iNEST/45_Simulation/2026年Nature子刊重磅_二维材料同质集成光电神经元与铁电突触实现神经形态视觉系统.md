@@ -11,6 +11,7 @@ tags:
 - neuroscience
 - paper
 - simulation
+provenance: external
 ---
 - **类型**: link
 - **时间**: 2026-02-18 15:13:53

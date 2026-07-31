@@ -27,6 +27,7 @@ title: 'Neuronal avalanches: Sandpiles of self-organized criticality or critical
 track: iNEST
 url: https://www.semanticscholar.org/paper/863a3fe348311b9cc305cc5f453e43e7abff74d6
 year: 2023
+provenance: external
 ---
 
 # Neuronal avalanches: Sandpiles of self-organized criticality or critical dynamics of brain waves?

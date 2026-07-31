@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: paper
 status: draft
 tags: [paper, inest, reservoir computing, multi-scale systems, physical networks, emergent dynamics]
+provenance: external
 ---
 
 # Emergent Dynamics in Multi-Scale Physical-Neural Hybrid Networks

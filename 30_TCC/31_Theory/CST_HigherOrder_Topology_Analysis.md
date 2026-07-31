@@ -3,6 +3,7 @@ direction: TCC
 title: "CST HigherOrder Topology Analysis"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # CST高阶拓扑扩展：三元渗流与Betti数理论分析
 **日期**: 2026-06-07  

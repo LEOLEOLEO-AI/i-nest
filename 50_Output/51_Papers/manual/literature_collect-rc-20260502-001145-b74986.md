@@ -14,6 +14,7 @@ tags:
 - stage-04
 - run-rc-20260
 title: 'Stage 04: Literature Collect'
+provenance: external
 ---
 
 # Stage 04: Literature Collect

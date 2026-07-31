@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "SOC部门连接涌现智能方向研讨会暨十四五项目申报讨论"
 date: 2026-07-03 21:07:50
 source: "????"

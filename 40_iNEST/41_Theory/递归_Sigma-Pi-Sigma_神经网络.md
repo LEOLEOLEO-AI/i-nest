@@ -3,6 +3,7 @@ direction: iNEST
 title: "递归 Sigma-Pi-Sigma 神经网络"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 递归 Sigma-Pi-Sigma 神经网络
 

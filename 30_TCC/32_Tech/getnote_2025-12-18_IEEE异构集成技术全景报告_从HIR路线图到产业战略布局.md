@@ -5,6 +5,7 @@ type: link
 created: 2025-12-18 05:53:56
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # IEEE异构集成技术全景报告：从HIR路线图到产业战略布局

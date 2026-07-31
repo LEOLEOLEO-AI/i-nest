@@ -3,6 +3,7 @@ direction: TCC
 title: "README 4"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: external
 ---
 # Cloud side setup
 

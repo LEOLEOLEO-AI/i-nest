@@ -5,6 +5,7 @@ note_id: "1906263719348805176"
 tags:
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # 基于元拓扑与SDI化合键的通信原语生成理论

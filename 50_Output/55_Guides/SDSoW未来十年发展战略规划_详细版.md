@@ -11,6 +11,7 @@ tags:
 - information-theory
 - large-language-model
 - neural-networks
+provenance: own
 ---
 - **类型**: plain_text
 - **时间**: 2025-08-12 17:11:15

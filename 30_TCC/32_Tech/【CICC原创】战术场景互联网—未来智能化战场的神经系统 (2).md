@@ -3,6 +3,7 @@ direction: TCC
 title: "【CICC原创】战术场景互联网—未来智能化战场的神经系统 (2)"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 【CICC原创】战术场景互联网—未来智能化战场的神经系统
 

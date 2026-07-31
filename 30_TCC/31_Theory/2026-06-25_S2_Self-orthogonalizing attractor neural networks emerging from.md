@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 2
 status: 洞察
+provenance: external
 ---
 
 # Self-orthogonalizing attractor neural networks emerging from the free energy principle

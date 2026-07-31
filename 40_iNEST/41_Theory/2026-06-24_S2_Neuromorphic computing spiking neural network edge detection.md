@@ -8,6 +8,7 @@ year: 2024
 url: https://www.semanticscholar.org/paper/4f3381a44fe663365bd63ec540bdf4511ac562d9
 tags: [neuromorphic computing, spiking neural network, edge detection, CBIR, from-s2, auto-crawl, inest, classified]
 status: inbox
+provenance: external
 ---
 
 # Neuromorphic computing spiking neural network edge detection model for content based image retrieval

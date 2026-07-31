@@ -3,6 +3,7 @@ direction: iNEST
 title: "Nature重磅 物理神经网络训练革命突破 "
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Nature重磅：物理神经网络训练革命突破！
 

@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "学术论文"
   - "重要"
+provenance: external
 ---
 
 # Nature Neuroscience 2025 研究深度解析：树突分支精准分配如何实现记忆绑定

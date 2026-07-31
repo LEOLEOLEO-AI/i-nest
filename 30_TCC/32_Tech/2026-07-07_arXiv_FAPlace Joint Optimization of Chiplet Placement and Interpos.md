@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # FAPlace: Joint Optimization of Chiplet Placement and Interposer Footprint for 2.5D Systems

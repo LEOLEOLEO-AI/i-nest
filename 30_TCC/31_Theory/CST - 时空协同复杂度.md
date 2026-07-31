@@ -5,6 +5,7 @@ aliases:
   - Complexity in Space-Time
 tags:
   - ssot
+provenance: external
 ---
 
 # CST

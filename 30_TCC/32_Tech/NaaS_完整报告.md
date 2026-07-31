@@ -11,6 +11,7 @@ tags:
 - paper
 - patent
 - semiconductor
+provenance: external
 ---
 ## 基于CST时空协同复杂度理论 × SDI化学键机制
 

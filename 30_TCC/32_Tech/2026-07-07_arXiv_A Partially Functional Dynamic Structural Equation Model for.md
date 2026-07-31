@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # A Partially Functional Dynamic Structural Equation Model for Multi-Resolution Environmental Data

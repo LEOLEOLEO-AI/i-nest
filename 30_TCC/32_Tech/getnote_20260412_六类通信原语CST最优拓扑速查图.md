@@ -87,6 +87,7 @@ Reduce	定向汇聚树	log_d N	每层加法	损失汇聚
 - **数据流向**：Worker0-7→中间节点→Master
 - **应用场景**：分布式训练损失函数汇聚
 
+provenance: external
 ---
 
 ## 🎯 核心技术洞察

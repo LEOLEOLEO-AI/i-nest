@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # 清华大学硬件级注意力机制：类脑芯片突破AI能效瓶颈

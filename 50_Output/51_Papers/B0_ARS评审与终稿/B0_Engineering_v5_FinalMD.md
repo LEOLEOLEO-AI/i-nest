@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 <!-- B0 v5 Final | ARS Revision | 2026-06-16 -->
 # A Scoping Review of Software-Defined Interconnect: Concept, Evidence, and a Liquid Unified Architecture for Next-Generation Intelligent Computing
 

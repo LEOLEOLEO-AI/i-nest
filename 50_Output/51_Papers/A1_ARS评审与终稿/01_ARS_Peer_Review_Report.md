@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# ARS Peer Review Report — A1 CST Theory Submission
 
 **Framework:** academic-research-skills v3.2.0 — 5-Dimension Scoring | **Date:** 2026-06-19

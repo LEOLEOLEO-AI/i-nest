@@ -7,6 +7,7 @@ metadata:
   requires:
     bins:
       - gsk
+provenance: external
 ---
 
 # GSK CLI — Shared Foundation

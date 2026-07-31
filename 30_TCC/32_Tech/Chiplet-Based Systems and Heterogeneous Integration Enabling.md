@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: own
 ---
 
 # Chiplet-Based Systems and Heterogeneous Integration: Enabling AI, HPC, and Post-Moore Computing

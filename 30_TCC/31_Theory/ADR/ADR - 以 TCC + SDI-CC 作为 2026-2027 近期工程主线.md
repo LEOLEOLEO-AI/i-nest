@@ -3,6 +3,7 @@ direction: TCC
 title: "ADR - 以 TCC + SDI-CC 作为 2026-2027 近期工程主线"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿﻿---
 type: adr

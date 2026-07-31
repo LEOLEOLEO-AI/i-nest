@@ -3,6 +3,7 @@ direction: TCC
 title: "算力网络架构手记 对TCC计算范式的价值映射分析 v1.0"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 ﻿---
 title: "算力网络架构手记_对TCC计算范式的价值映射分析"

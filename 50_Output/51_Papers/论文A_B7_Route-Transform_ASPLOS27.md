@@ -7,6 +7,7 @@ tags:
 - project
 - topology
 - transformer
+provenance: external
 ---
 # Paper A (B7): Route≡Transform: A Unified Algebraic Theory
 # 目标：ASPLOS 2027 September cycle | 截止：2026年9月9日

@@ -10,6 +10,7 @@ source: openalex
 query: "self-organized criticality neuronal avalanche"
 date: 2026-07-07
 topics: ['Cancer Cells and Metastasis', 'Melanoma and MAPK Pathways', 'Hippo pathway signaling and YAP/TAZ']
+provenance: external
 ---
 
 # Hallmarks of cancer—Then and now, and beyond

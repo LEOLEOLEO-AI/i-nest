@@ -3,6 +3,7 @@ title: SDI仿真平台搭建方案
 date: 2026-07-04
 tags: [SDI, simulation, platform, TCC, engineering, project]
 status: draft
+provenance: external
 ---
 
 # SDI仿真平台搭建方案

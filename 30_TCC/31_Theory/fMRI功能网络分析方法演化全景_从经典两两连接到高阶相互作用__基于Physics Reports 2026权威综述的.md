@@ -5,6 +5,7 @@ type: link
 created: 2026-06-30 11:11:16
 source: getnote
 kb: 
+provenance: external
 ---
 
 # fMRI功能网络分析方法演化全景：从经典两两连接到高阶相互作用——基于Physics Reports 2026权威综述的深度解析

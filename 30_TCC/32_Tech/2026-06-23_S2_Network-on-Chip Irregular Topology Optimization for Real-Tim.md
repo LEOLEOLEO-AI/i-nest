@@ -27,6 +27,7 @@ title: Network-on-Chip Irregular Topology Optimization for Real-Time and Non-Rea
 track: TCC
 url: https://www.semanticscholar.org/paper/f91bba779fb908309a04b4bc19d45ec945c86a34
 year: 2021
+provenance: external
 ---
 
 # Network-on-Chip Irregular Topology Optimization for Real-Time and Non-Real-Time Applications

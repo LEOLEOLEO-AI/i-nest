@@ -11,6 +11,7 @@ tags:
 - self-organization
 - semiconductor
 - simulation
+provenance: external
 ---
 - **类型**: link
 - **时间**: 2025-07-12 12:06:54

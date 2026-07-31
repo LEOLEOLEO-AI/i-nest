@@ -5,6 +5,7 @@ type: link
 created: 2025-12-17 16:42:20
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # 3D异构集成（3DHI）技术深度研究：机遇、挑战与未来路径

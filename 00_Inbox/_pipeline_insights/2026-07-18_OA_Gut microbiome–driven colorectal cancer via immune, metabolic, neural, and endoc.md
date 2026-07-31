@@ -10,6 +10,7 @@ source: openalex
 query: "free energy principle active inference neural"
 date: 2026-07-18
 topics: ['Gut microbiota and health', 'Cancer Research and Treatments', 'Immune responses and vaccinations']
+provenance: external
 ---
 
 # Gut microbiome–driven colorectal cancer via immune, metabolic, neural, and endocrine axes reprogramming

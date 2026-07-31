@@ -5,6 +5,7 @@ note_id: "1906170280187939416"
 tags:
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # Token消耗图片

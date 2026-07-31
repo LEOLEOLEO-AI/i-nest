@@ -9,6 +9,7 @@ tags:
 - semiconductor
 - simulation
 - synapse
+provenance: external
 ---
 - **类型**: link
 - **时间**: 2025-09-02 07:29:11

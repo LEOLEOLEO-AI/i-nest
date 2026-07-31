@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# 三平台 Gitee 同步协议 v2
 
 > 同步指令: **"同步gitee"** 或 **"sync gitee"**  

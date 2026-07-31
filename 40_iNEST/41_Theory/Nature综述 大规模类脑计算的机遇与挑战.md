@@ -10,6 +10,7 @@ tags:
 - survey
 merged_into: "30_TCC\32_Tech\Nature综述___大规模类脑计算的机遇与挑战.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[30_TCC\32_Tech\Nature综述___大规模类脑计算的机遇与挑战.md]]

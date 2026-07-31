@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # 2026-06-23 07:17-07:18 EDT - Genspark git workflow 执行报告
 
 ## 【用户指令】

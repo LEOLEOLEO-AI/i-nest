@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Genspark Claw → Local Worker Bridge
 
 This folder contains scripts that let a remote Linux host enqueue jobs and execute them on this Windows machine via SSH reverse tunnel.

@@ -5,6 +5,7 @@ note_id: "1885508980308608248"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # synNEST

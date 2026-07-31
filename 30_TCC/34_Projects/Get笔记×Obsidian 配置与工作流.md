@@ -4,6 +4,7 @@ tags:
 - chiplet
 - tools
 - tutorial
+provenance: external
 ---
 目标：
 - 手机端用 Get 笔记做入口（别丢）

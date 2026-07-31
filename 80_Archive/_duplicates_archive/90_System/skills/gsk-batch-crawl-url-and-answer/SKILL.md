@@ -10,6 +10,7 @@ metadata:
     bins:
     - gsk
   cliHelp: gsk batch-crawl --help
+provenance: external
 ---
 
 # gsk-batch-crawl-url-and-answer

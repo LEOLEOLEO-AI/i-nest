@@ -5,6 +5,7 @@ note_id: "1889575986845605352"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 科研与学术品牌（CREST  →  iNEST）

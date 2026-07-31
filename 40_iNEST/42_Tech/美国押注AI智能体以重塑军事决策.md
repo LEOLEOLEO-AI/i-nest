@@ -3,6 +3,7 @@ direction: iNEST
 title: "美国押注AI智能体以重塑军事决策"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # 美国押注AI智能体以重塑军事决策
 

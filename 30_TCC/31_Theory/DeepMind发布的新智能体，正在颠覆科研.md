@@ -3,6 +3,7 @@ direction: TCC
 title: "DeepMind发布的新智能体，正在颠覆科研"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: own
 ---
 # DeepMind发布的新智能体，正在颠覆科研
 

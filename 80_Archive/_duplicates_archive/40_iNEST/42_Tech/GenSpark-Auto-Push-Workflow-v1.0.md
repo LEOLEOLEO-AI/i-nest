@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # GenSpark 自动化推送规范 v1.0
 
 ## 【核心规则】

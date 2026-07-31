@@ -10,6 +10,7 @@ source: openalex
 query: "neuromorphic spiking neural network memristor"
 date: 2026-07-18
 topics: ['Advanced Memory and Neural Computing', 'Neural Networks and Reservoir Computing', 'Ferroelectric and Negative Capacitance Devices']
+provenance: external
 ---
 
 # Spiking neural networks with fatigue spike-timing-dependent plasticity learning using hybrid memristor arrays

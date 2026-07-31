@@ -3,6 +3,7 @@ direction: iNEST
 title: "iNEST Core Philosophy 物理学习流形"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # iNEST 底层核心思想：物理网络学习即流形压缩
 # Physical Network Learning as Manifold Compression

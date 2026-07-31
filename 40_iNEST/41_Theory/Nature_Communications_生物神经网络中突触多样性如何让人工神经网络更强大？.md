@@ -11,6 +11,7 @@ tags:
 - plasticity
 - synapse
 - topology
+provenance: external
 ---
 > 笔记本: 1.1 新导入  
 > 创建时间: 2025-09-01  

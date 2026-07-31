@@ -3,6 +3,7 @@ direction: iNEST
 title: "[V1] iNEST 项目指南与论文规划"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # iNEST 生态体系：科研项目立项指南 × 论文发表规划 × 合作BP
 

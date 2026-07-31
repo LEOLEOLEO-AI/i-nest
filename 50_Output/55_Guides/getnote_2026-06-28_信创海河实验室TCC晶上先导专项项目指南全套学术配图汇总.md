@@ -5,6 +5,7 @@ type: link
 created: 2026-06-28 19:54:17
 source: getnote
 kb: TCC
+provenance: external
 ---
 
 # 信创海河实验室TCC晶上先导专项项目指南全套学术配图汇总

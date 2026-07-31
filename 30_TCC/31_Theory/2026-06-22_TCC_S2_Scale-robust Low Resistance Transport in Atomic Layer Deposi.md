@@ -24,6 +24,7 @@ title: Scale-robust Low Resistance Transport in Atomic Layer Deposited Topologic
 track: TCC
 url: https://www.semanticscholar.org/paper/e5f93d11f347b628ae2c4fc9a82381d1123fbac7
 year: 2025
+provenance: external
 ---
 
 # Scale-robust Low Resistance Transport in Atomic Layer Deposited Topological Semi

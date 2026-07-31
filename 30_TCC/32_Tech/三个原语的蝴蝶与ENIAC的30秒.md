@@ -6,6 +6,7 @@ tags:
   - "get-笔记"
   - "灵感"
   - "重要"
+provenance: own
 ---
 
 # 三个原语的蝴蝶与ENIAC的30秒

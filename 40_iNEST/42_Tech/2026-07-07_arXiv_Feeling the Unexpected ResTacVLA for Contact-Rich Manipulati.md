@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # Feeling the Unexpected: ResTacVLA for Contact-Rich Manipulation via Residual Tactile Representation

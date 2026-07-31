@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 # 去重日志 — 2026-07-14 21:29
 
 - ~~30_TCC\31_Theory\_attachments\01_论文\01_论文\00_宽屏目录仪表盘.md~~ → 80_Archive/duplicates/30_TCC\31_Theory\_attachments\01_论文\01_论文\00_宽屏目录仪表盘.md (kept: 40_iNEST\42_Tech\00_宽屏目录仪表盘.md)

@@ -10,6 +10,7 @@ source: openalex
 query: "self-organized criticality neuronal avalanche"
 date: 2026-07-07
 topics: ['Barrier Structure and Function Studies', '3D Printing in Biomedical Research', 'Cerebrospinal fluid and hydrocephalus']
+provenance: external
 ---
 
 # Vascularised Brain Organoids: Engineering Strategies and Neurobiological Applications

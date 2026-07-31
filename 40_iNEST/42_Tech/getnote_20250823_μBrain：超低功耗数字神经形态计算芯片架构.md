@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "μBrain：超低功耗数字神经形态计算芯片架构"
 date: 2025-08-23 06:53:35
 source: "????"

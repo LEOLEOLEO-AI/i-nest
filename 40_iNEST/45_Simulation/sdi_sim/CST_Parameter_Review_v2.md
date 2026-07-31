@@ -3,6 +3,7 @@ direction: iNEST
 title: "CST Parameter Review v2"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: external
 ---
 # CST公式参数第一性审查报告 v2.0
 **日期**：2026-05-22  

@@ -5,6 +5,7 @@ source: "semantic_scholar"
 tags: [complex-networks, small-world, scale-free, network-topology, emergence, review, graph-theory, systems-biology, internet, social-networks]
 inest_score: 0.8
 analyzed: 2026-05-30 12:10
+provenance: external
 ---
 
 # Complex networks: small-world, scale-free and beyond

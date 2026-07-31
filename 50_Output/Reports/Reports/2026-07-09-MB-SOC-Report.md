@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # SDI v32-MB 蘑菇体子网 SOC 实验报告
 
 **日期**：2026-07-09  

@@ -5,6 +5,7 @@ tags: [TCC, iNAS, 软件定义晶上系统, 合作规划, 超线性增益, 智�
 summary: "与王恩东、李国齐团队合作规划，推动TCC与iNAS落地。"
 quality: high
 processed: 2026-07-15 14:44
+provenance: own
 ---
 ---
 title: getnote_1915374565830329200_软件定义晶上系统合作交流与发展规划（修订版）

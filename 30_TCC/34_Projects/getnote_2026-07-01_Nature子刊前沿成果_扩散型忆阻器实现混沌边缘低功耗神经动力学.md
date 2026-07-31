@@ -5,6 +5,7 @@ type: link
 created: 2026-07-01 17:36:39
 source: getnote
 kb: 
+provenance: external
 ---
 
 # Nature子刊前沿成果：扩散型忆阻器实现混沌边缘低功耗神经动力学

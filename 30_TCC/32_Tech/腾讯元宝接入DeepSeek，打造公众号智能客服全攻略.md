@@ -9,6 +9,7 @@ tags:
   - "公众号智能客服"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # 腾讯元宝接入DeepSeek，打造公众号智能客服全攻略

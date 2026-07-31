@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.05911v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # DBHN-Net: Dual-Branch Hybrid Neural Network For Low-Complexity Monaural Speech Enhancement

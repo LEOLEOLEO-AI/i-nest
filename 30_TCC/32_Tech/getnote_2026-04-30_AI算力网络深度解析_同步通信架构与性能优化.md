@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 08:49:04
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # AI算力网络深度解析：同步通信架构与性能优化

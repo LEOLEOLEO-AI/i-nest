@@ -2,6 +2,7 @@
 type: direction
 tags:
   - tcc
+provenance: own
 ---
 
 # 网络中心计算（TCC）

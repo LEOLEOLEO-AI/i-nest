@@ -7,6 +7,7 @@ tags:
 - software-defined
 - tcc-sdi
 - transformer
+provenance: external
 ---
 **Qinrang Liu**, Senior Member, IEEE, *School of Microelectronics, Tianjin University, Tianjin, China*
 

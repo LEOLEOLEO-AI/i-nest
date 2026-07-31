@@ -19,6 +19,7 @@ tags:
 - design
 - emergence
 title: kb_DARPA-research_getnote_1896236821843733680_DARPA空天_太空与高超音速领域项目深度分析报告
+provenance: external
 ---
 
 ## Original Note

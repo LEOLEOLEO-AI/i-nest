@@ -3,6 +3,7 @@ title: "SDI — 软件定义互连"
 date: 2026-07-03
 type: concept
 tags: [TCC, SDI, interconnect]
+provenance: own
 ---
 
 # SDI — 软件定义互连（Software-Defined Interconnect）

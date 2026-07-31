@@ -7,6 +7,7 @@ source_skills:
   - TCC 自建六步管线 v1
 status: active
 trigger: "@专利撰写 [任务]" 或自然语言 "写专利/专利交底书/权利要求/patent"
+provenance: external
 ---
 
 # TCC 专利撰写完整工作流

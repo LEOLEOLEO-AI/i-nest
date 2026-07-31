@@ -8,6 +8,7 @@ tags:
 - network-centric-computing
 - hardware-architecture
 - research-project-proposal
+provenance: own
 ---
 # 晶上网络中心计算范式架构
 ## 与端侧原型验证

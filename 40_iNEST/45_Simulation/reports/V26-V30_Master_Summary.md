@@ -3,6 +3,7 @@ title: V26-V30 真实数据仿真验证总报告
 date: 2026-06-19
 tags: [master, V26-V30, connectome, CST, validation]
 status: 已完成
+provenance: own
 ---
 
 # TCC × iNEST 真实数据仿真验证总报告

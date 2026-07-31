@@ -5,6 +5,7 @@ priority: P0
 assignee: 学生B
 date: 2026-06-16
 tags: [patent, allreduce, in-network, gradient, ai-training, 网内计算]
+provenance: external
 ---
 
 # 专利B：面向分布式AI训练的网内原生梯度归约通信加速方法及系统

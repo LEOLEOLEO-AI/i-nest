@@ -5,6 +5,7 @@ note_id: ""
 tags:
   - "get-笔记"
   - "default"
+provenance: external
 ---
 
 # 在网计算（In-Network Computing）

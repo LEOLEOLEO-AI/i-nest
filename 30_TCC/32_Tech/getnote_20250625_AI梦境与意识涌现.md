@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "AI梦境与意识涌现"
 date: 2025-06-25 19:05:21
 source: "????"

@@ -10,6 +10,7 @@ source: openalex
 query: "complex network phase transition emergence"
 date: 2026-07-18
 topics: ['Microencapsulation and Drying Processes', 'Proteins in Food Systems', 'Advanced Drug Delivery Systems']
+provenance: external
 ---
 
 # Nanoencapsulation of nutraceuticals: enhancing stability and bioavailability in functional foods

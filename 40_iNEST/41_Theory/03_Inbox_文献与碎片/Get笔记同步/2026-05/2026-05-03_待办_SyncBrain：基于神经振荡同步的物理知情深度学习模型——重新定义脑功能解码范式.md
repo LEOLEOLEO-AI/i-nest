@@ -7,6 +7,7 @@ category: 待办
 source: get笔记
 links: []
 tags: [{"id": "129910998", "name": "AI链接笔记", "type": "system"}, {"id": "526975299", "name": "神经振荡同步", "type": "ai"}, {"id": "526975300", "name": "物理知情深度学习", "type": "ai"}, {"id": "526975301", "name": "SyncBrain模型", "type": "ai"}]
+provenance: external
 ---
 
 ### **🧠 研究背景：从神经同步机制到可解释脑建模的挑战**

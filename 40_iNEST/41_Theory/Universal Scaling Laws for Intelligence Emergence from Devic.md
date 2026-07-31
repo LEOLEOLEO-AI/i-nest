@@ -5,6 +5,7 @@ note_id: "1903941287724843544"
 tags:
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities: A Renormalization Group Approach

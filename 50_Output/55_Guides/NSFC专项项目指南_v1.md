@@ -11,6 +11,7 @@ tags:
 - neural-networks
 - neuroscience
 - paper
+provenance: own
 ---
 > 方向：基础理论研究 / 重大研究计划 / 重大项目  
 > 申报特点：强调科学问题原创性、数学严谨性、跨学科融合  

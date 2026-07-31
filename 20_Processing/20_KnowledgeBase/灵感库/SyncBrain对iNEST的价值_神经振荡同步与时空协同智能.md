@@ -5,6 +5,7 @@ source_note: "[[40_iNEST/41_Theory/03_Inbox_文献与碎片/Get笔记同步/2026
 type: inspiration
 status: captured
 tags: [灵感, iNEST, SyncBrain, Kuramoto, 神经振荡同步, 物理知情学习, 时空协同, 脑网络]
+provenance: own
 ---
 
 # SyncBrain 对 iNEST 的价值：从神经振荡同步到时空协同智能

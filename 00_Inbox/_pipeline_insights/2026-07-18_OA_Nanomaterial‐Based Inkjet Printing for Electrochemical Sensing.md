@@ -10,6 +10,7 @@ source: openalex
 query: "photonic interconnect silicon photonics network"
 date: 2026-07-18
 topics: ['Nanomaterials and Printing Technologies', 'Advanced Sensor and Energy Harvesting Materials', 'Electrospun Nanofibers in Biomedical Applications']
+provenance: external
 ---
 
 # Nanomaterial‐Based Inkjet Printing for Electrochemical Sensing

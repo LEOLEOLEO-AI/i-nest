@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2605.25683v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Analysis of Critical Points in a Permutation Model on Hierarchical Lattices by Real-Space Renormalization Group

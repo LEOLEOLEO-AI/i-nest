@@ -5,6 +5,7 @@ tags: [软件定义晶上系统, TCC, iNAS, 合作规划, 系统论]
 summary: "软件定义晶上系统合作交流与发展规划PPT提纲"
 quality: high
 processed: 2026-07-15 14:44
+provenance: own
 ---
 ---
 title: getnote_1915374481002551896_软件定义晶上系统合作交流与发展规划（修订版）

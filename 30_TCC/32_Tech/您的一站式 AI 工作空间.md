@@ -7,6 +7,7 @@ created: 2026-05-03
 description: "计算范式从节点到网络的图示"
 tags:
   - "clippings"
+provenance: external
 ---
 分享
 

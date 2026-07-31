@@ -10,6 +10,7 @@ source: openalex
 query: "memristor ferroelectric crossbar array VLSI"
 date: 2026-07-18
 topics: ['Advanced Memory and Neural Computing', 'Ferroelectric and Negative Capacitance Devices', 'Energy Harvesting in Wireless Networks']
+provenance: external
 ---
 
 # Self-Rectifying Memristors for Beyond-CMOS Computing: Mechanisms, Materials, and Integration Prospects

@@ -3,6 +3,7 @@ direction: TCC
 title: "TCC Knowledge Base Baseline v2.0"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 ﻿# TCC 知识库基线版本 v2.0
 

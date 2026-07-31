@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "NDSC及合作团队集成电路与经上系统发展路线分享"
 date: 2026-07-02 18:21:43
 source: "????"

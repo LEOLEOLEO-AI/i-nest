@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 # The Physical Limits of Computing_ Why Topology Will Dominate the Post-Dennard Era.docx
 
 N AT U R E P E R S P E C T I V E

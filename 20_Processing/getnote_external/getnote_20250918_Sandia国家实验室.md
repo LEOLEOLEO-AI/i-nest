@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "Sandia国家实验室"
 date: 2025-09-18 07:07:30
 source: "????"

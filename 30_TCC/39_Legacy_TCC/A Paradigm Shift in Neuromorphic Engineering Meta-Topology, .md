@@ -5,6 +5,7 @@ note_id: "1898576451591635616"
 tags:
   - "get-笔记"
   - "技术实践"
+provenance: external
 ---
 
 # A Paradigm Shift in Neuromorphic Engineering: Meta-Topology, Software-Defined Interconnects, and the Emergence of High-Dimensional Dynamically Plastic Physical Networks

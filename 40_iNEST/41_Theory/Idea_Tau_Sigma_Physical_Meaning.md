@@ -11,6 +11,7 @@ tags:
 - information-theory
 - neuron
 - neuroscience
+provenance: own
 ---
 > **刘教授核心提问**：为什么时间复杂性就用了一个 $\tau$（雪崩），空间复杂性就用了一个 $\sigma$（小世界）来表征？
 

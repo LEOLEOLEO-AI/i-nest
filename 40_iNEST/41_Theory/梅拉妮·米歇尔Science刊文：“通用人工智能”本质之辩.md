@@ -3,6 +3,7 @@ direction: iNEST
 title: "梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 梅拉妮·米歇尔Science刊文：“通用人工智能”本质之辩
 

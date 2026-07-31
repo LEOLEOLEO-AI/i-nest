@@ -23,6 +23,7 @@ source: getnote---
 **✨ Aha 瞬间**
 > "最伟大的创新往往不是从完美开始，而是从'能跑起来'开始。"
 
+provenance: external
 ---
 
 ## 02. 蝴蝶的数学分身

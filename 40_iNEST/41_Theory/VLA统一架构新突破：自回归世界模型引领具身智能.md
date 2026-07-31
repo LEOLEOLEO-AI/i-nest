@@ -3,6 +3,7 @@ direction: iNEST
 title: "VLA统一架构新突破：自回归世界模型引领具身智能"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # VLA统一架构新突破：自回归世界模型引领具身智能
 

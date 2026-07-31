@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "深空探测器LNN导航研究"
 date: 2025-07-24 10:15:37
 source: "????"

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Superlinear Intelligence Emergence in Coupled Complex Networks: A Multi-Scale Proof of 1+1>2
 
 **Draft v1.0 — 2026-07-07**  

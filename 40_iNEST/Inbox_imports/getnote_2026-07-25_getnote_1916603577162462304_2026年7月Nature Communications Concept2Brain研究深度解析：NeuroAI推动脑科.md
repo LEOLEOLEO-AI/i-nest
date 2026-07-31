@@ -13,6 +13,7 @@ tags:
 date: 2026-07-25 21:00
 source: GetNotes
 score: 15
+provenance: external
 ---
 
 ## Original Note

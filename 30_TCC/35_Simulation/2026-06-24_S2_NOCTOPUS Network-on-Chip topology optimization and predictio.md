@@ -8,6 +8,7 @@ year: 2026
 url: https://www.semanticscholar.org/paper/81ef5f40ce4730ee275a9e36ae2f64abc49255d9
 tags: [from-s2, auto-crawl, tcc, classified, tcc]
 status: inbox
+provenance: external
 ---
 
 # NOCTOPUS: Network-on-Chip topology optimization and prediction using simulation-data

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # DeepSeek 每日行动洞察 — 2026-07-15
 
 ## 🔥 今日3个最重要行动

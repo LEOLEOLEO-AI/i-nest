@@ -10,6 +10,7 @@ source: openalex
 query: "chiplet wafer-scale interconnect topology routing"
 date: 2026-07-18
 topics: ['Topic Modeling']
+provenance: external
 ---
 
 # Efficient training of large language models on distributed infrastructures: a survey

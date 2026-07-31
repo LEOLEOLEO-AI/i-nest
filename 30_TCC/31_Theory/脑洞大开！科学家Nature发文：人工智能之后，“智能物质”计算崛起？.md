@@ -3,6 +3,7 @@ direction: TCC
 title: "脑洞大开！科学家Nature发文：人工智能之后，“智能物质”计算崛起？"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 脑洞大开！科学家Nature发文：人工智能之后，“智能物质”计算崛起？
 

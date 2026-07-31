@@ -3,6 +3,7 @@ direction: TCC
 title: "论文B B5 TCC11系统实现 ASPLOS27"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # 论文B（B5）：TCC-16系统实现与评测
 # Paper B (B5): TCC-16 Minimal Complete Primitive Library for Liquid Hardware

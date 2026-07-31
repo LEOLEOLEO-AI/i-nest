@@ -12,6 +12,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # NICE：开启类脑智能新范式——从连接复杂度到智能涌现

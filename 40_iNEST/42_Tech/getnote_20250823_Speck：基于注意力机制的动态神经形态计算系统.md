@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "Speck：基于注意力机制的动态神经形态计算系统"
 date: 2025-08-23 06:19:05
 source: "????"

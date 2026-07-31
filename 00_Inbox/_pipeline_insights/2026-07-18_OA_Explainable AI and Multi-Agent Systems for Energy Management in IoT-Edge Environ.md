@@ -10,6 +10,7 @@ source: openalex
 query: "network-on-chip small-world topology optimization"
 date: 2026-07-18
 topics: ['IoT and Edge/Fog Computing', 'Explainable Artificial Intelligence (XAI)', 'Smart Grid Security and Resilience']
+provenance: external
 ---
 
 # Explainable AI and Multi-Agent Systems for Energy Management in IoT-Edge Environments: A State of the Art Review

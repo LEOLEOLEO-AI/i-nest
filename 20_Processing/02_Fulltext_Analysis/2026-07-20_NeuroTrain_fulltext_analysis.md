@@ -7,6 +7,7 @@ arxiv_id: "2605.15058v1"
 pdf_sha256: "d9f19500ee47dd2b28412c4a48f67378acef3b94d92589910514215dd82333f7"
 evidence_level: fulltext
 status: pending_review
+provenance: external
 ---
 
 # NeuroTrain 全文证据分析

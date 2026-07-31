@@ -10,6 +10,7 @@ source: openalex
 query: "dark silicon manycore energy optimization"
 date: 2026-07-18
 topics: ['Advanced Memory and Neural Computing', 'Organic Electronics and Photovoltaics', 'Covalent Organic Framework Applications']
+provenance: external
 ---
 
 # Organic Transistor‐Based Neuromorphic Electronics and Their Recent Applications

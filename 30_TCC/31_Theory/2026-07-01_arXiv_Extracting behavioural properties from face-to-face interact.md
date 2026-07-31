@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自arxiv]
 citations: 0
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # Extracting behavioural properties from face-to-face interactions temporal networks: a measure of egonet persistency

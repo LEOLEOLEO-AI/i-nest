@@ -3,6 +3,7 @@ direction: TCC
 title: "SDSoW Hardware Mapping"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # SDSoW 硬件映射方案
 

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # SDI 四条规则 — v5 文献锁定最终版
 # Software-Defined Interconnect Four Rules — v5 Bio-Evidence Final
 

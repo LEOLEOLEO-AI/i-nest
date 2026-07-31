@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "FeNN-DMA：面向脉冲神经网络加速的RISC-V系统级芯片研究"
 date: 2026-05-18 10:06:43
 source: "????"

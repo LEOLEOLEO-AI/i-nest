@@ -23,6 +23,7 @@ title: Defect detection on semiconductor wafer surfaces
 track: TCC
 url: https://www.semanticscholar.org/paper/d9281df17aa89b4c67e617c9af618f9b71ef2ac1
 year: 2005
+provenance: external
 ---
 
 # Defect detection on semiconductor wafer surfaces

@@ -9,6 +9,7 @@ created: 2026-07-20
 description: "文章浏览阅读1.4k次。文章介绍了从生物脑中汲取灵感的六种基础原理，包括吸引子网络、临界态、随机网络、稀疏编码、关系记忆和神经可塑性，这些原理对人工智能的模型和算法发展具有指导意义，有助于构建更高效、可解释的AI系统。"
 tags:
   - "clippings"
+provenance: external
 ---
 ![4c55855abc77acc1de4089e99cc1e024.jpeg](https://i-blog.csdnimg.cn/blog_migrate/0312e4e35cb3d5fbbd571c2c5c350add.jpeg)
 

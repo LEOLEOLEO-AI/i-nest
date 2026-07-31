@@ -26,6 +26,7 @@ title: 'Position: Solve Layerwise Linear Models First to Understand Neural Dynam
 track: iNEST
 url: https://www.semanticscholar.org/paper/e9c58f592f51ab92cd2a5225b89920e5b120360c
 year: 2025
+provenance: external
 ---
 
 # Position: Solve Layerwise Linear Models First to Understand Neural Dynamical Phenomena (Neural Collapse, Emergence, Lazy/Rich Regime, and Grokking)

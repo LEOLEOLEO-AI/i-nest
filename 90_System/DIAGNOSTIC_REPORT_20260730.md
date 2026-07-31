@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Obsidian Vault 诊断报告
 
 **诊断时间**: 2026-07-30 00:25  

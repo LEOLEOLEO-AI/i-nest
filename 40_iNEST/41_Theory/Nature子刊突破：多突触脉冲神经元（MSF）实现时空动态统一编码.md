@@ -10,6 +10,7 @@ tags:
   - "时空编码"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # Nature子刊突破：多突触脉冲神经元（MSF）实现时空动态统一编码

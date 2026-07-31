@@ -5,6 +5,7 @@ year: 2003
 date: 2026-05-30
 thread: "topology"
 tags: [inspiration, topology, network-topology, small-world, scale-free]
+provenance: own
 ---
 
 # 💡 Complex networks: small-world, scale-free and beyond

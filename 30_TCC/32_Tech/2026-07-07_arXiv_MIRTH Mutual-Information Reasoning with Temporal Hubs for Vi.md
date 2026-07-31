@@ -10,6 +10,7 @@ tags: [inbox, general, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents

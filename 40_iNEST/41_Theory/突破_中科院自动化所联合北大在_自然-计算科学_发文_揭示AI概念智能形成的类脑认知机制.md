@@ -8,6 +8,7 @@ tags:
 - neural-networks
 - neuroscience
 - paper
+provenance: own
 ---
 - **笔记本**: 我的剪藏
 - **时间**: 2026-03-15 00:20

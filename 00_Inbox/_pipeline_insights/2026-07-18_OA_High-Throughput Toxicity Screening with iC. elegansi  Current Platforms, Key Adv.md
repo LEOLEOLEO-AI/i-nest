@@ -10,6 +10,7 @@ source: openalex
 query: "C. elegans connectome computation network"
 date: 2026-07-18
 topics: ['Genetics, Aging, and Longevity in Model Organisms', 'Environmental Toxicology and Ecotoxicology', 'Evolution and Genetic Dynamics']
+provenance: external
 ---
 
 # High-Throughput Toxicity Screening with <i>C. elegans</i> : Current Platforms, Key Advantages, and Future Directions

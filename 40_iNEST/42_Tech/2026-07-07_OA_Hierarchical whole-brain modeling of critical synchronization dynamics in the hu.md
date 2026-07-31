@@ -10,6 +10,7 @@ source: openalex
 query: "self-organized criticality neuronal avalanche"
 date: 2026-07-07
 topics: ['Functional Brain Connectivity Studies', 'Neural dynamics and brain function', 'Nonlinear Dynamics and Pattern Formation']
+provenance: external
 ---
 
 # Hierarchical whole-brain modeling of critical synchronization dynamics in the human brain

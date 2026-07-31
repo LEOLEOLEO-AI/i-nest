@@ -5,6 +5,7 @@ version: v1.0
 reviewer: ARS Academic Paper Reviewer v1.10.0 (7-Agent Panel)
 paper: TCC_Software_Defined_Interconnect_网络中心计算范式.md
 status: Final
+provenance: external
 ---
 
 # ARS 7-Agent 同行评审报告

@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 # From Compute to Complexity: A Physical Theory of Intelligence Emergence and Its Implications for Artificial General Intelligence
 
 **Qinrang Liu (刘勤让)**1*

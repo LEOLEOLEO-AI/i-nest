@@ -3,6 +3,7 @@ direction: iNEST
 title: "中国科学技术大学的余昊等人提出了一种新型的DeepONet嵌入式物理信息神经网络（DE-PINN）"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # 中国科学技术大学的余昊等人提出了一种新型的DeepONet嵌入式物理信息神经网络（DE-PINN）
 

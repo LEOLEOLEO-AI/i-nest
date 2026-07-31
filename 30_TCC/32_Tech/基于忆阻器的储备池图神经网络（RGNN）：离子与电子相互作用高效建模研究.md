@@ -10,6 +10,7 @@ tags:
   - "图神经网络(GNN)"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 基于忆阻器的储备池图神经网络（RGNN）：离子与电子相互作用高效建模研究

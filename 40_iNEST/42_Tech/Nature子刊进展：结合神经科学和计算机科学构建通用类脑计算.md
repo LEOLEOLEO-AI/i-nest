@@ -3,6 +3,7 @@ direction: iNEST
 title: "Nature子刊进展：结合神经科学和计算机科学构建通用类脑计算"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Nature子刊进展：结合神经科学和计算机科学构建通用类脑计算
 

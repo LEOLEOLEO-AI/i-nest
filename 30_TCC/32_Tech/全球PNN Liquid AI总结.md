@@ -5,6 +5,7 @@ note_id: "1908034987487967368"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 全球PNN Liquid AI总结

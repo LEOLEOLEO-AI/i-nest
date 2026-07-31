@@ -5,6 +5,7 @@ status: framework
 category: "TCC"
 topic: "SDSoW 中尺度计算"
 needs_content: true
+provenance: external
 ---
 
 # SDSoW mesoscale computing paradigm 20251011040148.pptx

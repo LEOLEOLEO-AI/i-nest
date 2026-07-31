@@ -17,6 +17,7 @@ tags:
 - 脑电频谱
 - 节律持续性
 title: Nature Communications｜脑电频段不只是快慢不同：大脑节律还分“持续”和“瞬时”两种模式
+provenance: external
 ---
 
 *2026年6月3日 09:15*

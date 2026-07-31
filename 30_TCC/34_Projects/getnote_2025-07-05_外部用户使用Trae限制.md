@@ -5,6 +5,7 @@ type: plain_text
 created: 2025-07-05 22:32:44
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # 外部用户使用Trae限制

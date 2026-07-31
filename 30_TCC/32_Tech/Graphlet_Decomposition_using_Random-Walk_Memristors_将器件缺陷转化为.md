@@ -6,6 +6,7 @@ tags:
 - complex-networks
 - scale-free-networks
 - semiconductor
+provenance: external
 ---
 - **类型**: link
 - **时间**: 2026-01-07 17:34:45

@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # PedestrianDiffusion: Multimodal Generative Denoising and Dense State Estimation for Inertial Navigation

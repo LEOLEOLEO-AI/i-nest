@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.03067v2
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Trajectory-Aware Node Contributions and the Limits of Static Controllability

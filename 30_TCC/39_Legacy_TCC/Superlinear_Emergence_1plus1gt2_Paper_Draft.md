@@ -3,6 +3,7 @@ direction: TCC
 title: "Superlinear Emergence 1plus1gt2 Paper Draft"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: external
 ---
 # Superlinear Intelligence Emergence in Coupled Complex Networks: A Multi-Scale Proof of 1+1>2
 

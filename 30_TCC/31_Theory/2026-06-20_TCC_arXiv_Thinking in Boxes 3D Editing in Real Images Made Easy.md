@@ -8,6 +8,7 @@ year: 2026
 url: http://arxiv.org/abs/2606.20556v1
 citations: 
 tags: [from-arxiv, inbox, tcc, 3D editing, image editing, classified]
+provenance: external
 ---
 
 # Thinking in Boxes: 3D Editing in Real Images Made Easy

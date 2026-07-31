@@ -10,6 +10,7 @@ tags: [洞察, tcc, 来自s2]
 citations: 0
 relevance: 2
 status: 洞察
+provenance: external
 ---
 
 # Complex Network Inspired NoC Architecture

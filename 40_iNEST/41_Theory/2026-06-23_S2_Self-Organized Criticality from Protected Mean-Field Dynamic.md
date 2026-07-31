@@ -24,6 +24,7 @@ title: 'Self-Organized Criticality from Protected Mean-Field Dynamics: Loop Stab
 track: iNEST
 url: https://www.semanticscholar.org/paper/dfc9b51971f44e93ce998d2e3eb9adb7e23641ba
 year: 2026
+provenance: external
 ---
 
 # Self-Organized Criticality from Protected Mean-Field Dynamics: Loop Stability and Internal Renormalization in Reflective Neural Systems

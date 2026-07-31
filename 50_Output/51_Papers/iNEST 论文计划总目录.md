@@ -4,6 +4,7 @@ tags:
 - paper
 - survey
 - topology
+provenance: external
 ---
 **维护规范**：所有新论文灵感统一在本目录的 `00_论文总清单.md` 中追加，各篇详细框架单独建立 md 文件。
 

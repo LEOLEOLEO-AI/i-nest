@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 08:52:49
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # AI服务器数据路径全景解析：从架构到性能优化

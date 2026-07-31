@@ -23,6 +23,7 @@ title: Universal critical dynamics in high resolution neuronal avalanche data.
 track: iNEST
 url: https://www.semanticscholar.org/paper/52f12b11ad86304245ba8ab54759e1c177f65b29
 year: 2012
+provenance: external
 ---
 
 # Universal critical dynamics in high resolution neuronal avalanche data.

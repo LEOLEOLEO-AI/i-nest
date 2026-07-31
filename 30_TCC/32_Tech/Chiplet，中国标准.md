@@ -6,6 +6,7 @@ tags:
 - chiplet
 - patent
 - semiconductor
+provenance: own
 ---
 > 笔记本: 微信  
 > 创建时间: 2022-12-29  

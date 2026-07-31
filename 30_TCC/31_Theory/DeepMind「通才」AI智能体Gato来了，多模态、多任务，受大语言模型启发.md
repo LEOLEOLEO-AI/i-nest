@@ -3,6 +3,7 @@ direction: TCC
 title: "DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发
 

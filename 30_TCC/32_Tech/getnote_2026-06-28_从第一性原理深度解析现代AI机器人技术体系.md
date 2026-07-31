@@ -5,6 +5,7 @@ type: link
 created: 2026-06-28 11:38:17
 source: getnote
 kb: 
+provenance: external
 ---
 
 # 从第一性原理深度解析现代AI机器人技术体系

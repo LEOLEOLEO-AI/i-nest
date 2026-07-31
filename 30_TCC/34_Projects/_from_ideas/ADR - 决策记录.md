@@ -4,6 +4,7 @@ status: proposed
 date: ""
 tags:
   - adr
+provenance: own
 ---
 
 # ADR: {{决策主题}}

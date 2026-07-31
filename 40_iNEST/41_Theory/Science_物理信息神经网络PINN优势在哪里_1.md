@@ -3,6 +3,7 @@ direction: iNEST
 title: "Science 物理信息神经网络PINN优势在哪里 1"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Science：物理信息神经网络PINN优势在哪里
 

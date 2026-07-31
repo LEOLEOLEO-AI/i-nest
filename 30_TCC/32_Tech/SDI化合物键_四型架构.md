@@ -3,6 +3,7 @@ title: "SDI 化合物键 — 四型架构"
 date: 2026-07-03
 type: concept
 tags: [TCC, SDI, architecture]
+provenance: own
 ---
 
 # SDI 化合物键 — 四型架构

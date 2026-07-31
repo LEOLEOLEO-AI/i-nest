@@ -11,6 +11,7 @@ tags:
 - neuroscience
 - robotics
 - synapse
+provenance: external
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-27 19:29

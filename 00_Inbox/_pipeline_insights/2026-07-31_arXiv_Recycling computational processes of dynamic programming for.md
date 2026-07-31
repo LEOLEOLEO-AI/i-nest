@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # Recycling computational processes of dynamic programming for combinatorial optimization problems: a reservoir computing approach

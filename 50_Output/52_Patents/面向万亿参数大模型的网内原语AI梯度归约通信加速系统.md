@@ -7,6 +7,7 @@ date: 2026-06-04
 status: 规划中
 priority: 高
 source: "TCC_3_专利撰写/00_专利布局总览.md"
+provenance: own
 ---
 
 # 面向万亿参数大模型的网内原语AI梯度归约通信加速系统

@@ -26,6 +26,7 @@ title: Network structure influences self-organized criticality in neural network
 track: iNEST
 url: https://www.semanticscholar.org/paper/ec0a3083ec861a4429b56946126c372fa81fb4e1
 year: 2025
+provenance: external
 ---
 
 # Network structure influences self-organized criticality in neural networks with dynamical synapses

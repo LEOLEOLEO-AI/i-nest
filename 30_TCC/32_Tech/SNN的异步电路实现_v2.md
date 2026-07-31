@@ -10,6 +10,7 @@ tags:
 - semiconductor
 - simulation
 - synapse
+provenance: own
 ---
 - **类型**: plain_text
 - **时间**: 2025-07-12 10:34:32

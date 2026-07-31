@@ -10,6 +10,7 @@ tags:
   - "人工智能加速"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 晶圆级芯片（WSC）技术深度分析：架构、集成与应用前景

@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-01-25 18:45:45
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # 吴华强团队与iNEST技术互补

@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/ce5722ef9fbc701349523fe3523120bc65f5276f
 citations: 6
 tags: [spiking neural network, cortical microcircuit, full-density model, classified]
+provenance: external
 ---
 
 # Constructive community race: full-density spiking neural network model drives ne

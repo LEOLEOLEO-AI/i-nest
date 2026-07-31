@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "Coyote开源FPGA Shell：重塑数据中心加速开发范式的系统级解决方案"
 date: 2026-06-05 08:55:11
 source: "????"

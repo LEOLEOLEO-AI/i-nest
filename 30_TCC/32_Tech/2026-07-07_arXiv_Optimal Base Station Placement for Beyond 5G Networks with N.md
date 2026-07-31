@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # Optimal Base Station Placement for Beyond 5G Networks with Non-Convex Topology

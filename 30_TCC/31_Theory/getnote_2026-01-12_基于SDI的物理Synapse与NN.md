@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-01-12 05:43:24
 source: getnote
 kb: project-guide
+provenance: external
 ---
 
 # 基于SDI的物理Synapse与NN

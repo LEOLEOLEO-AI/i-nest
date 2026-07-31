@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: 'Meta-Topology and SDI-Bond: A Variational Framework for Communication Primitive Generation and Fractal Network Evolution under the Principle of Least Action'
 tags:

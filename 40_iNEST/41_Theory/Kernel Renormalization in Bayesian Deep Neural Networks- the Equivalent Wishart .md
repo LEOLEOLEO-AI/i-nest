@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2605.29684v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Kernel Renormalization in Bayesian Deep Neural Networks: the Equivalent Wishart Ansatz in the Proportional Regime

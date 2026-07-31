@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.18386v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Reconstructing Galactic Gravitational Potentials from Stellar Kinematics with Physics-Informed Neural Networks

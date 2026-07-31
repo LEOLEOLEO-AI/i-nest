@@ -5,6 +5,7 @@ note_id: "1893318454917919864"
 tags:
   - "get-笔记"
   - "技术实践"
+provenance: own
 ---
 
 # TRAE工具安装与环境配置

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# API Key 申请指南
 
 ## 1. Web of Science API (Clarivate)

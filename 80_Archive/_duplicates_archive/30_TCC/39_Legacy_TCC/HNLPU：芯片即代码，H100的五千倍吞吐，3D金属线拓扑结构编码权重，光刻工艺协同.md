@@ -5,6 +5,7 @@ note_id: ""
 tags:
   - "get-笔记"
   - "技术实践"
+provenance: external
 ---
 
 # HNLPU：芯片即代码，H100的五千倍吞吐，3D金属线拓扑结构编码权重，光刻工艺协同

@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: engineering
 status: concept
 tags: [engineering, ip, inest, reservoir computing, temporal processing, plasticity, edge computing]
+provenance: own
 ---
 
 # Spiking Neural Reservoir Core

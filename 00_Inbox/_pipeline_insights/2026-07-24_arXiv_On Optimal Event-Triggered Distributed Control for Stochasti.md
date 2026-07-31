@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 1
 status: inbox
+provenance: external
 ---
 
 # On Optimal Event-Triggered Distributed Control for Stochastic Multi-Agent Systems via Reinforcement Learning

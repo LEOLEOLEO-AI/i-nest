@@ -5,6 +5,7 @@ type: link
 created: 2026-07-02 19:38:10
 source: getnote
 kb: 
+provenance: external
 ---
 
 # 2026年《Cell》重磅研究：哺乳动物皮层连接组架构的几何约束机制深度解析

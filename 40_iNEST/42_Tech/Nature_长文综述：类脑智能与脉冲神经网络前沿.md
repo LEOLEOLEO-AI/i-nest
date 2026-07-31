@@ -3,6 +3,7 @@ direction: iNEST
 title: "Nature 长文综述：类脑智能与脉冲神经网络前沿"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Nature 长文综述：类脑智能与脉冲神经网络前沿
 

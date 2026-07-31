@@ -2,6 +2,7 @@
 title: ADR
 tags:
 - project-management
+provenance: own
 ---
 Generated: 2026-05-03 10:10:57
 

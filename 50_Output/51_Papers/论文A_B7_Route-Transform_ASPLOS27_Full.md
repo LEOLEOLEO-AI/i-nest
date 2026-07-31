@@ -4,6 +4,7 @@ tags:
 - attention-mechanism
 - large-language-model
 - transformer
+provenance: external
 ---
 **Target Venue:** ASPLOS 2027 (September Cycle)
 **Format:** ACM SIGPLAN Double-Blind (Full Paper)

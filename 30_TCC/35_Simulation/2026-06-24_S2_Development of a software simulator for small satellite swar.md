@@ -8,6 +8,7 @@ year: 2021
 url: https://www.semanticscholar.org/paper/3d30f7e513ba8ea9aca47679f7a48c2799611d1a
 tags: [from-s2, auto-crawl, tcc, classified, tcc]
 status: inbox
+provenance: external
 ---
 
 # Development of a software simulator for small satellite swarm control

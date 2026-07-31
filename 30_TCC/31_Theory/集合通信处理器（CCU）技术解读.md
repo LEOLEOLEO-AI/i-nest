@@ -8,6 +8,7 @@ tags:
 - default
 - needs-review
 title: 集合通信处理器（CCU）技术解读
+provenance: external
 ---
 
 # 集合通信处理器（CCU）技术解读

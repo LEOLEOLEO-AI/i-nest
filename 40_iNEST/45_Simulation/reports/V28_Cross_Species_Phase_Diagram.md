@@ -3,6 +3,7 @@ title: V28_Cross_Species_Phase_Diagram
 date: 2026-06-19
 tags: [V28, cross-species, sigma, alpha, emergence]
 status: 已完成
+provenance: own
 ---
 
 # V28: 跨物种 Sigma-Alpha 涌现相图

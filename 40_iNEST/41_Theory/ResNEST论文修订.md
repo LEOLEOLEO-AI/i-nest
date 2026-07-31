@@ -5,6 +5,7 @@ note_id: "1887095535857468536"
 tags:
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # ResNEST论文修订

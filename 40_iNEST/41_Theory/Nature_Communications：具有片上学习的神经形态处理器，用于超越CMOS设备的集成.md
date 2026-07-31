@@ -3,6 +3,7 @@ direction: iNEST
 title: "Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成
 

@@ -5,6 +5,7 @@ type: link
 created: 2025-12-18 05:49:56
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # 美国DARPA四大关键项目群深度研究报告：战略布局、技术突破与全球影响

@@ -10,6 +10,7 @@ tags:
   - "6G关键技术"
   - "get-笔记"
   - "科技资讯"
+provenance: external
 ---
 
 # 基于时空编码超表面的感知与通信一体化（ISAC）方案研究

@@ -3,6 +3,7 @@ direction: iNEST
 title: "微分方程求解的 “智能进化”：从 PINN 到新一代神经网络方法"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 微分方程求解的 “智能进化”：从 PINN 到新一代神经网络方法
 

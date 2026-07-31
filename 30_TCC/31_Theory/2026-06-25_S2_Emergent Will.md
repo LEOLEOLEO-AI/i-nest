@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 0
 relevance: 1
 status: 洞察
+provenance: external
 ---
 
 # Emergent Will

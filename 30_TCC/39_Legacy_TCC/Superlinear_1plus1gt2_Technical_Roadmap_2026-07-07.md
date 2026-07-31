@@ -3,6 +3,7 @@ direction: TCC
 title: "Superlinear 1plus1gt2 Technical Roadmap 2026-07-07"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # 系统 1+1>2 超非线性增益：完整技术路线证明
 

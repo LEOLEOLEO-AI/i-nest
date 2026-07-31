@@ -11,6 +11,7 @@ tags:
 - neuron
 - neuroscience
 - paper
+provenance: own
 ---
 **文档性质**：核心技术架构文件
 **用途**：论文方法部分、专项申报技术方案、PPT技术架构页

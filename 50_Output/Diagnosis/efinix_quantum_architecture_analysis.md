@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 # Efinix Quantum 架构与 iNEST TCC 的深度分析
 ## 文献来源：https://www.efinixinc.com/products.html
 

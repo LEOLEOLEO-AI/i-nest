@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "Nature 2025综述深度解析：神经形态计算的规模化革命与"AlexNet时刻"前瞻"
 date: 2026-01-20 06:31:29
 source: "????"

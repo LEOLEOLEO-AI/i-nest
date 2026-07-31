@@ -10,6 +10,7 @@ tags:
   - "脉冲时序编码"
   - "get-笔记"
   - "学术论文"
+provenance: external
 ---
 
 # Nature Communications 2025研究：大脑与深度学习模型中的表征适应性延伸机制

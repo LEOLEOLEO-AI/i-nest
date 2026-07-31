@@ -13,6 +13,7 @@ tags:
 - simulation
 merged_into: "50_Output\54_Code\TCC\13_知识框架总图_SDI化合键到临界态涌现.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[50_Output\54_Code\TCC\13_知识框架总图_SDI化合键到临界态涌现.md]]

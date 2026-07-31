@@ -5,6 +5,7 @@ note_id: "1888419470264403248"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # AI Requires More from Moore’s Law

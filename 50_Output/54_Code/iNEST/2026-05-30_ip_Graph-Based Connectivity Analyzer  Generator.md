@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: engineering
 status: concept
 tags: [engineering, ip, inest, graph-theory, connectivity, topology, network-analysis, synthetic-connectome]
+provenance: own
 ---
 
 # Graph-Based Connectivity Analyzer & Generator

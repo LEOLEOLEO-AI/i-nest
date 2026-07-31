@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.00194v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Wave-based Neuromorphic Circuit Networks: Tunable 2D Transmission-Line Metamaterials

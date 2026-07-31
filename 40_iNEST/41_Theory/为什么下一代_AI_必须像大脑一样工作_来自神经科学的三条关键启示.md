@@ -3,6 +3,7 @@ direction: iNEST
 title: "为什么下一代 AI 必须像大脑一样工作 来自神经科学的三条关键启示"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 为什么下一代 AI 必须像大脑一样工作？来自神经科学的三条关键启示
 

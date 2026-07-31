@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "会议记录"
   - "重要"
+provenance: external
 ---
 
 # Nature论文写作指南：专家经验与AI辅助技巧

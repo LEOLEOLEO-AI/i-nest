@@ -7,6 +7,7 @@ tags:
 - patent
 - semiconductor
 - wafer
+provenance: own
 ---
 > 笔记本: 技术学习  
 > 创建时间: 2023-07-20  

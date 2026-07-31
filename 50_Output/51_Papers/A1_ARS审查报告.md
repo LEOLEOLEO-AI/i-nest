@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # ARS 7-Agent Peer Review Report
 **CST Theory Paper — Full Panel Review + Integrity Audit**
 

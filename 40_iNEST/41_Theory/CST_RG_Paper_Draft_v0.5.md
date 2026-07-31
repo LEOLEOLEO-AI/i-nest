@@ -3,6 +3,7 @@ direction: iNEST
 title: "CST RG Paper Draft v0.5"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # CST RG: Renormalization Group Analysis of Small-World Topology Emergence
 # =========================================================================

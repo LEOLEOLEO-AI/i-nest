@@ -10,6 +10,7 @@ tags:
   - "注意力机制"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # Speck：基于注意力机制的动态神经形态计算系统

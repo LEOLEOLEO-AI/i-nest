@@ -5,6 +5,7 @@ author: iNEST 验证中枢
 type: cross-validation
 phase: B
 tags: [cross-validation, theory, CST, iNEST, SRMA, SDDE]
+provenance: external
 ---
 
 # 理论交叉验证矩阵

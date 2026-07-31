@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 date: 2026-07-15
 tags: [MOC, papers, literature]

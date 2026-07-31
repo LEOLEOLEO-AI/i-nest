@@ -3,6 +3,7 @@ direction: TCC
 title: "TCC数字逻辑方向硕博连读研究计划 v1.0"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿---
 title: "TCC数字逻辑方向硕博连读研究计划 — 拓扑中心计算的工程实现与理论创新"

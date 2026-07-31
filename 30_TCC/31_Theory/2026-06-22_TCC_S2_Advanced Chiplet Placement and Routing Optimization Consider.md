@@ -25,6 +25,7 @@ title: Advanced Chiplet Placement and Routing Optimization Considering Signal In
 track: TCC
 url: https://www.semanticscholar.org/paper/7e67bda8176814b8b44526e8d5e3e0360c06060b
 year: 2025
+provenance: external
 ---
 
 # Advanced Chiplet Placement and Routing Optimization Considering Signal Integrity

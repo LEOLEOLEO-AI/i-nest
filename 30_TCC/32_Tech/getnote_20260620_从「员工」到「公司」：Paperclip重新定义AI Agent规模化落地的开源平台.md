@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "从「员工」到「公司」：Paperclip重新定义AI Agent规模化落地的开源平台"
 date: 2026-06-20 07:34:18
 source: "????"

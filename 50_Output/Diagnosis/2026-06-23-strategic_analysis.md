@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # iNEST 知识库深度分析报告
 ## TCC 和 iNEST 的交叉创新机会与下一步研究方向
 

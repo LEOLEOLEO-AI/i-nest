@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Genspark Git 工作流规范 v2.0 - 含强制验证机制
 
 ## 【核心原则】

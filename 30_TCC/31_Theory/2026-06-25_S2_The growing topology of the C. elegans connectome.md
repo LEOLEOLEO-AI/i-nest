@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 11
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # The growing topology of the C. elegans connectome

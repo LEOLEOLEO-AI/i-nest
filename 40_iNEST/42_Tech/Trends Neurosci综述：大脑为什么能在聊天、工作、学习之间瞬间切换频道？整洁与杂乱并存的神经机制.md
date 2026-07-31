@@ -17,6 +17,7 @@ tags:
 - 任务切换
 - 认知灵活性
 title: Trends Neurosci综述：大脑为什么能在聊天、工作、学习之间瞬间"切换频道"？"整洁"与"杂乱"并存的神经机制
+provenance: external
 ---
 
 *2026年6月10日 14:59*

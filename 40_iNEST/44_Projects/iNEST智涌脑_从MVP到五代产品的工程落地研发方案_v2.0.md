@@ -3,6 +3,7 @@ direction: iNEST
 title: "iNEST智涌脑 从MVP到五代产品的工程落地研发方案 v2.0"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿---
 title: "iNEST智涌脑：从MVP到五代产品的工程落地研发方案"

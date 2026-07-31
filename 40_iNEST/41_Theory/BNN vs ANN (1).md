@@ -10,6 +10,7 @@ tags:
 title: BNN vs ANN
 merged_into: "40_iNEST\41_Theory\BNN vs ANN.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[40_iNEST\41_Theory\BNN vs ANN.md]]

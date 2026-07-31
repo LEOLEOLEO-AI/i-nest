@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "拓扑中心计算范式架构与业态端侧MVP验证项目立项汇报"
 date: 2026-07-02 09:02:50
 source: "????"

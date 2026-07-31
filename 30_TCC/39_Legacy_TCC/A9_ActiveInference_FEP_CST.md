@@ -3,6 +3,7 @@ direction: TCC
 title: "A9 ActiveInference FEP CST"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # 论文 A9 框架（待补充）
 

@@ -3,6 +3,7 @@ direction: TCC
 title: "自动驾驶汽车整体Chiplet解决方案（三）：互连技术 (2)"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 自动驾驶汽车整体Chiplet解决方案（三）：互连技术
 

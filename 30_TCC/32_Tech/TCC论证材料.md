@@ -5,6 +5,7 @@ note_id: "1907730372297557520"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # TCC论证材料

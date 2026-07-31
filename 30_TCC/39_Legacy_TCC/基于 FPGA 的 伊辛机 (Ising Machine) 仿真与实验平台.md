@@ -5,6 +5,7 @@ note_id: "1889905541834248752"
 tags:
   - "get-笔记"
   - "技术实践"
+provenance: external
 ---
 
 # 基于 FPGA 的 伊辛机 (Ising Machine) 仿真与实验平台

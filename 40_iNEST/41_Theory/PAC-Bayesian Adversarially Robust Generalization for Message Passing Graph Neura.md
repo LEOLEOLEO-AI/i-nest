@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.06293v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # PAC-Bayesian Adversarially Robust Generalization for Message Passing Graph Neural Networks: A Sensitivity Analysis

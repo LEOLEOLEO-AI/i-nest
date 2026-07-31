@@ -5,6 +5,7 @@ note_id: "1907694623137267728"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # TCC 原语库 v1.0 最终版规范

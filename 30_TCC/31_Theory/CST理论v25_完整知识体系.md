@@ -3,6 +3,7 @@ direction: TCC
 title: "CST理论v25 完整知识体系"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 《CST理论v25：从第一性原理到智能涌现工程化的完整知识体系》
 

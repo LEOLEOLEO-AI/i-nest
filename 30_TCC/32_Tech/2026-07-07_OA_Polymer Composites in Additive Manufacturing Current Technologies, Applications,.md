@@ -10,6 +10,7 @@ source: openalex
 query: "network-on-chip small-world topology optimization"
 date: 2026-07-07
 topics: ['Additive Manufacturing and 3D Printing Technologies', 'Polymer composites and self-healing', 'Photopolymerization techniques and applications']
+provenance: external
 ---
 
 # Polymer Composites in Additive Manufacturing: Current Technologies, Applications, and Emerging Trends

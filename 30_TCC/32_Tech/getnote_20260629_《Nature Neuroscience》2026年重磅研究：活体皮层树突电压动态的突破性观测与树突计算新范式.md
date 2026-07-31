@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "《Nature Neuroscience》2026年重磅研究：活体皮层树突电压动态的突破性观测与树突计算新范式"
 date: 2026-06-29 08:39:29
 source: "????"

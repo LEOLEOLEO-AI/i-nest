@@ -3,6 +3,7 @@ title: iNEST+TCC Research Brief - 2026-07-07
 date: 2026-07-07
 type: research-brief
 target: genspark
+provenance: external
 ---
 
 # iNEST + TCC Research Brief - 2026-07-07

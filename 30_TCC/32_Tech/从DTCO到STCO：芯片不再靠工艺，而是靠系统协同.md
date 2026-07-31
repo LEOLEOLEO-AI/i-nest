@@ -5,6 +5,7 @@ note_id: ""
 tags:
   - "get-笔记"
   - "default"
+provenance: own
 ---
 
 # 从DTCO到STCO：芯片不再靠工艺，而是靠系统协同

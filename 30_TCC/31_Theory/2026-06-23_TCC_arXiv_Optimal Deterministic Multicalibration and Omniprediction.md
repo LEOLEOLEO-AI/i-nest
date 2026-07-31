@@ -21,6 +21,7 @@ title: Optimal Deterministic Multicalibration and Omniprediction
 track: TCC
 url: http://arxiv.org/abs/2606.20557v1
 year: 2026
+provenance: external
 ---
 
 # Optimal Deterministic Multicalibration and Omniprediction

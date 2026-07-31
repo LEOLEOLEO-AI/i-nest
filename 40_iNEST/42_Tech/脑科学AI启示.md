@@ -5,6 +5,7 @@ note_id: "1879960161733466896"
 tags:
   - "get-笔记"
   - "会议记录"
+provenance: external
 ---
 
 # 脑科学AI启示

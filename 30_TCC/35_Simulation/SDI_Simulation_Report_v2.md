@@ -3,6 +3,7 @@ direction: TCC
 title: "SDI Simulation Report v2"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 ﻿# SDI Simulation Verification Report — v2 (with actual experiment data)
 # ===================================================================

@@ -5,6 +5,7 @@ type: link
 created: 2026-06-28 12:50:39
 source: getnote
 kb: 
+provenance: external
 ---
 
 # Physical AI：通往物理世界AI完全体的闭环技术框架解析

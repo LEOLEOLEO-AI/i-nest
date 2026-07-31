@@ -10,6 +10,7 @@ source: openalex
 query: "3D-IC TSV hybrid bonding advanced packaging"
 date: 2026-07-18
 topics: ['Copper Interconnects and Reliability', 'Semiconductor materials and interfaces', '3D IC and TSV technologies']
+provenance: external
 ---
 
 # Recent progress in alternative metals for advanced interconnects

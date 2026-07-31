@@ -8,6 +8,7 @@ year: 2026
 url: http://arxiv.org/abs/2606.20562v1
 citations: 
 tags: [from-arxiv, inbox, inest, world action model, memory, robotic manipulation, classified]
+provenance: external
 ---
 
 # MemoryWAM: Efficient World Action Modeling with Persistent Memory

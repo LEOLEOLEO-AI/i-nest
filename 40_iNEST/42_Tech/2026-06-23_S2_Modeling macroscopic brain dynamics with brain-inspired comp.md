@@ -22,6 +22,7 @@ title: Modeling macroscopic brain dynamics with brain-inspired computing archite
 track: iNEST
 url: https://www.semanticscholar.org/paper/11ccb9e9e8805385fbfe355be6a2a62f78f4cbb6
 year: 2025
+provenance: external
 ---
 
 # Modeling macroscopic brain dynamics with brain-inspired computing architecture

@@ -11,6 +11,7 @@ tags:
   - "集智俱乐部"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 生物启发的脉冲神经网络（SNN）设计与研究进展

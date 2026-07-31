@@ -3,6 +3,7 @@ title: "知识库周度自进化报告"
 date: 2026-07-03
 type: auto-generated
 purpose: "知识库自进化：新知识价值评估、论文/专利/项目灵感建议、健康诊断"
+provenance: external
 ---
 
 # 知识库周度自进化报告 - 2026-07-03

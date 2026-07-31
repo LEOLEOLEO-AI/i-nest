@@ -3,6 +3,7 @@ category: Web-Clips
 quality: low
 tags:
 - needs-review
+provenance: external
 ---
 
 进入从 Genspark Claw下载的 Gitee知识库压缩包，解压缩后进入 Workspace 文件夹，右键选择：Open Git Bash here

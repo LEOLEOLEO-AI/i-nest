@@ -7,6 +7,7 @@ created: 2026-07-20
 description:
 tags:
   - "clippings"
+provenance: external
 ---
 张量处理单元 (TPU) 是 Google 设计的应用专用集成电路 (ASIC)，用于加速机器学习工作负载。Cloud TPU 是一种 Google Cloud 服务，可将 TPU 用作可扩缩资源。
 

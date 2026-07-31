@@ -7,6 +7,7 @@ tags:
 - paper
 - semiconductor
 - simulation
+provenance: external
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-01-15 00:02

@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # 第三代半导体深度研报：AI·6G·人形机器人与低空科技的关键变量技术

@@ -12,6 +12,7 @@ tags:
 - topology
 merged_into: "40_iNEST\41_Theory\复杂网络_节点重要性_GNN-Based.md"
 merged_date: 2026-07-03
+provenance: own
 ---
 
 > 📎 **已合并** → [[40_iNEST\41_Theory\复杂网络_节点重要性_GNN-Based.md]]

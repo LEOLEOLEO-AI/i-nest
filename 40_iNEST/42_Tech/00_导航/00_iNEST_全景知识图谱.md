@@ -3,6 +3,7 @@ direction: iNEST
 title: "00 iNEST 全景知识图谱"
 created: 2026-07-07
 modified: 2026-07-11
+provenance: own
 ---
 # iNEST 全景知识图谱 (Master Index)
 

@@ -32,6 +32,7 @@ tags:
 - hardware
 - chip
 title: getnote_2026-06-18_谷歌TPU五代技术演进深度分析_从v2到Ironwood的架构稳定性与性能跃迁
+provenance: external
 ---
 
 ## Original Note

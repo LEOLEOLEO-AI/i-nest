@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 2
 status: inbox
+provenance: external
 ---
 
 # Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning

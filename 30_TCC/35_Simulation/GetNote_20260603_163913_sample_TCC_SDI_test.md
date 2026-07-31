@@ -32,6 +32,7 @@ source: getnote---
 
 TCC CST 仿真验证进展：v28多尺度测试全部PASS，sigma最高19.45。SDI化合物键的FEP驱动自组织收敛效果显著。下一步需要引入功能涌现模块。
 
+provenance: external
 ---
 
 ## Related Notes

@@ -3,6 +3,7 @@ direction: TCC
 title: "郑南宁院士：人工智能进化到AGI，最大的障碍是无法感知世界、缺少常识"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 郑南宁院士：人工智能进化到AGI，最大的障碍是无法感知世界、缺少常识
 

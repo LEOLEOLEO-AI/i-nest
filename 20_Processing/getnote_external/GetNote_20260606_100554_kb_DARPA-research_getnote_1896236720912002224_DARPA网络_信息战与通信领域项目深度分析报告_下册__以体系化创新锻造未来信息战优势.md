@@ -19,6 +19,7 @@ tags:
 - first-principles
 - physics
 title: kb_DARPA-research_getnote_1896236720912002224_DARPA网络_信息战与通信领域项目深度分析报告_下册__以体系化创
+provenance: external
 ---
 
 ## Original Note

@@ -3,6 +3,7 @@ direction: iNEST
 title: "「千脑计划」启动，模仿人类大脑皮层，开发全新AI，盖茨资助"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 「千脑计划」启动，模仿人类大脑皮层，开发全新AI，盖茨资助
 

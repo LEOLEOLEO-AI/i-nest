@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # 2026-06-23 07:47 EDT - Genspark "推送"操作执行记录
 
 ## 【操作指令】

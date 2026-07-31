@@ -5,6 +5,7 @@ type: link
 created: 2025-12-18 05:47:45
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # DARPA网络、信息战与通信领域项目深度分析报告（下册）：以体系化创新锻造未来信息战优势

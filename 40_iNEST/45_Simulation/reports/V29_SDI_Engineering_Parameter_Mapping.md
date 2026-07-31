@@ -3,6 +3,7 @@ title: V29_SDI_Engineering_Parameter_Mapping
 date: 2026-06-19
 tags: [V29, SDI, engineering, topology, chiplet]
 status: 已完成
+provenance: own
 ---
 
 # V29: SDI 工程参数映射

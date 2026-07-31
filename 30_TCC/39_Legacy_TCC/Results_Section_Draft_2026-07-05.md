@@ -3,6 +3,7 @@ direction: TCC
 title: "Results Section Draft 2026-07-05"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # Results
 

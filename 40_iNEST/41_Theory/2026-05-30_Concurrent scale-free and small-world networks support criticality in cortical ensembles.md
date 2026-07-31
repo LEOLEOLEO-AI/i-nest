@@ -5,6 +5,7 @@ year: 2013
 date: 2026-05-30
 thread: "criticality/topology"
 tags: [inspiration, criticality/topology, criticality, topology, scale-free, small-world, neuronal avalanches]
+provenance: own
 ---
 
 # 💡 Concurrent scale-free and small-world networks support criticality in cortical ensembles

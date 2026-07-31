@@ -10,6 +10,7 @@ tags:
   - "搜索增强型推理"
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # MiroThinker 1.5：开源搜索增强型推理模型深度解析

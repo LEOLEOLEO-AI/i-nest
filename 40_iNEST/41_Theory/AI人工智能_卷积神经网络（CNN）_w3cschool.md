@@ -3,6 +3,7 @@ direction: iNEST
 title: "AI人工智能 卷积神经网络（CNN） w3cschool"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # AI人工智能 卷积神经网络（CNN）_w3cschool
 

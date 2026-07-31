@@ -10,6 +10,7 @@ source: openalex
 query: "3D-IC TSV hybrid bonding advanced packaging"
 date: 2026-07-07
 topics: ['Nanomaterials and Printing Technologies', 'Additive Manufacturing and 3D Printing Technologies', 'Advanced Sensor and Energy Harvesting Materials']
+provenance: external
 ---
 
 # Additive Manufacturing Technologies for Electronic Integration and Packaging

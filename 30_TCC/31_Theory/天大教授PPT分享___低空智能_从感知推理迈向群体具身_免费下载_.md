@@ -3,6 +3,7 @@ direction: TCC
 title: "天大教授PPT分享   低空智能 从感知推理迈向群体具身 免费下载 "
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 天大教授PPT分享 | 低空智能：从感知推理迈向群体具身（免费下载）
 

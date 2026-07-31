@@ -3,6 +3,7 @@ title: ComAI: Communication-AI Fusion
 date: 2026-07-03
 type: reference
 tags: [communication, AI, fusion]
+provenance: own
 ---
 
 # ComAI: Communication-AI Fusion

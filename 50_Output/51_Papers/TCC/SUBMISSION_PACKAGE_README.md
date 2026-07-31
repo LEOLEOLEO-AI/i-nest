@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # 📦 Complete Submission Package - Topology-Centric Computing
 
 **Generated:** 2025-06-26  

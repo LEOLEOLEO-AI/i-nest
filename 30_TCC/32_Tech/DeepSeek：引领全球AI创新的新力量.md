@@ -8,6 +8,7 @@ tags:
   - "人工智能"
   - "get-笔记"
   - "学术论文"
+provenance: own
 ---
 
 # DeepSeek：引领全球AI创新的新力量

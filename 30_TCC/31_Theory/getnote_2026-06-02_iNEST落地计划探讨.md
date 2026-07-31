@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-06-02 23:58:58
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # iNEST落地计划探讨

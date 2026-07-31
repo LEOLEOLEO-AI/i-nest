@@ -9,6 +9,7 @@ tags:
 - patent
 - semiconductor
 - wafer
+provenance: own
 ---
 > 笔记本: 微信  
 > 创建时间: 2022-06-06  

@@ -10,6 +10,7 @@ source: openalex
 query: "memristor ferroelectric crossbar array VLSI"
 date: 2026-07-18
 topics: ['Modular Robots and Swarm Intelligence', 'Energy Efficient Wireless Sensor Networks', 'IoT and Edge/Fog Computing']
+provenance: external
 ---
 
 # AI-enabled flexible electronic systems via near-sensor and in-sensor computing

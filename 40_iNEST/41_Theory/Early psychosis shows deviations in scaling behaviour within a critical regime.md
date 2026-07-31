@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.06290v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Early psychosis shows deviations in scaling behaviour within a critical regime

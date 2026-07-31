@@ -5,6 +5,7 @@ aliases:
   - Network-Centric Computing
 tags:
   - ssot
+provenance: own
 ---
 
 # TCC

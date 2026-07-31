@@ -3,6 +3,7 @@ direction: iNEST
 title: "迈向生物智能理论 Towards a theory of biological intelligence"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 迈向生物智能理论    Towards a theory of biological intelligence
 

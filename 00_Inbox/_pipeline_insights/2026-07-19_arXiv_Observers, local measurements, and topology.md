@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Observers, local measurements, and topology"
 date: 2026-07-19

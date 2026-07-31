@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "后Transformer时代：架构瓶颈突破与技术演进路径研究"
 date: 2026-05-27 10:05:00
 source: "????"

@@ -6,6 +6,7 @@ tags:
 - chiplet
 - semiconductor
 - wafer
+provenance: own
 ---
 > 笔记本: 微信  
 > 创建时间: 2023-01-05  

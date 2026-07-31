@@ -3,6 +3,7 @@ direction: iNEST
 title: "国际自演化神经形态IP与开源代码全景清单"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 ﻿---
 title: "国际自演化神经形态计算IP与开源代码全景清单"

@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.15669v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Z-Plane Neural Networks: Bounded Geometric Activation Replaces ReLU and LayerNorm

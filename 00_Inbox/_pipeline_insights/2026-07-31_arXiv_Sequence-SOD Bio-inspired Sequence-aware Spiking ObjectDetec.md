@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 3
 status: inbox
+provenance: external
 ---
 
 # Sequence-SOD: Bio-inspired Sequence-aware Spiking ObjectDetection for Event Cameras

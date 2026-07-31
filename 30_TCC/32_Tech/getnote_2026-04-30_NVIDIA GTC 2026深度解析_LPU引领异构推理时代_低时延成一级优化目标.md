@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 10:58:57
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # NVIDIA GTC 2026深度解析：LPU引领异构推理时代，低时延成一级优化目标

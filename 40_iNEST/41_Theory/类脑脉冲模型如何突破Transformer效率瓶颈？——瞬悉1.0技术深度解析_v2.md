@@ -10,6 +10,7 @@ tags:
   - "Transformer效率优化"
   - "get-笔记"
   - "灵感"
+provenance: external
 ---
 
 # 类脑脉冲模型如何突破Transformer效率瓶颈？——瞬悉1.0技术深度解析

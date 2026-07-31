@@ -5,6 +5,7 @@ tags:
 - mit-csail
 - ai-paradigm-shift
 - efficient-ai
+provenance: own
 ---
 ---
 title: "液态神经网络：MIT CSAIL的"流体智能"革命——从2万参数无人机导航看AI范式转移"

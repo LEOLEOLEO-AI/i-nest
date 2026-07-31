@@ -4,6 +4,7 @@ version: 1.0.0
 description: "Optimize cron job model assignments to reduce cost without sacrificing quality. Use when: (1) reviewing cron jobs for cost optimization, (2) choosing which LLM model to assign to a new or existing cron job, (3) assessing task complexity to pick the right model tier. Triggers on phrases like \"optimize cron models\", \"reduce cron costs\", \"which model for this cron job\", \"cron cost analysis\", \"save money on cron\"."
 metadata:
   category: general
+provenance: external
 ---
 
 # Cron Model Optimizer

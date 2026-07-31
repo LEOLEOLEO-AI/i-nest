@@ -5,6 +5,7 @@ note_id: "1896927818730814712"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: own
 ---
 
 # 复旦讲座PPT提示词

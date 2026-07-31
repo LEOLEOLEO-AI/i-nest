@@ -9,6 +9,7 @@ created: 2026-07-20
 description: "The 8th generation TPUs are engineered with  system-level co-design to accelerate the AI lifecycle. TPU 8t is built for frontier-model training and TPU 8i is built for large-scale inference and reinforcement learning."
 tags:
   - "clippings"
+provenance: external
 ---
 ##### Diwakar Gupta
 

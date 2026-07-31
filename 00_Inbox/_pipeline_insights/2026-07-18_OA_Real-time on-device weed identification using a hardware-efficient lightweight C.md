@@ -10,6 +10,7 @@ source: openalex
 query: "network-on-chip small-world topology optimization"
 date: 2026-07-18
 topics: ['Smart Agriculture and AI', 'Remote Sensing in Agriculture', 'Plant Disease Management Techniques']
+provenance: external
 ---
 
 # Real-time on-device weed identification using a hardware-efficient lightweight CNN

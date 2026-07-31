@@ -10,6 +10,7 @@ tags: [深度分析, inest, 来自arxiv]
 citations: 0
 relevance: 3
 status: 深度阅读
+provenance: external
 ---
 
 # Rare Earth Ion Coupling Implements Attention-Like Reservoir Computing

@@ -3,6 +3,7 @@ direction: iNEST
 title: "iNEST Academic Belief Core"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # iNEST 课题组学术信仰与工程技术路线 (The Core Belief)
 

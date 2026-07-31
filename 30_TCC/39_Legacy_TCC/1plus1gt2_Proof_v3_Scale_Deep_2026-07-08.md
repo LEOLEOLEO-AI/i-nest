@@ -3,6 +3,7 @@ direction: TCC
 title: "1plus1gt2 Proof v3 Scale Deep 2026-07-08"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: external
 ---
 # 1+1>2 超非线性增益：第三版迭代证明
 ## 新增六路证据 + 算力网络范式推导

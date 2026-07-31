@@ -8,6 +8,7 @@ metadata:
     bins:
     - gsk
   cliHelp: gsk crawl --help
+provenance: external
 ---
 
 # gsk-crawler

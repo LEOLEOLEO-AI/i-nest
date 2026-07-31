@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿# iNEST 同步架构 v3.0 — GitHub 单一信源
 
 > 更新：2026-07-11 | Gitee 已废弃（配额死锁）

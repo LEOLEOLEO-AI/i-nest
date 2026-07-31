@@ -19,6 +19,7 @@ source: getnote---
 
 **中文译名**：智涌（取"智能涌现"之意，也暗含"至勇"的谐音）
 
+provenance: external
 ---
 
 ## ✨ 选择理由

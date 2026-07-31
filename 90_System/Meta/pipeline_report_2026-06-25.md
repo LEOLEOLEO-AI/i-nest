@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # Pipeline Daily Report — 2026-06-25 (Final)
 
 > 8:00 定时任务 → 9:34 扩展关键词重跑 → 12:00 全量富化完成

@@ -1,3 +1,7 @@
+---
+provenance: own
+---
+
 ﻿---
 title: "Gen1-MVP智涌脑 RTL微架构与IP核详细规格"
 date: 2026-06-18

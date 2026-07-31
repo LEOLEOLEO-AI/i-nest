@@ -11,6 +11,7 @@ tags:
 - boardfly拓扑
 - google-tpu-8i
 - ai推理基础设施
+provenance: own
 ---
 > 关联知识：[[iNEST_Academic_Belief_Core]]
 

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "A Reservoir Computing Approach to Quantum Gate Synthesis"
 date: 2026-07-19

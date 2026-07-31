@@ -10,6 +10,7 @@ tags: [深度分析, tcc, 来自arxiv]
 citations: 0
 relevance: 3
 status: 深度阅读
+provenance: external
 ---
 
 # NLF: A Resistor-Network Framework and Linear-Time Solver for Convex Network-Flow Equilibria

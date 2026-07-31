@@ -5,6 +5,7 @@ version: 1.0
 type: sub-agent-skill
 framework: "Zotero 存证据 + Codex 跑流程 + Skills 做工序"
 trigger_keywords: [写专利, 专利交底书, patent, 权利要求, 专利申请, 专利撰写]
+provenance: external
 ---
 
 # TCC 专利撰写子 Agent

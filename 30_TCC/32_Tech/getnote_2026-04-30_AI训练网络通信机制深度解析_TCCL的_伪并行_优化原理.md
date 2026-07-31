@@ -5,6 +5,7 @@ type: link
 created: 2026-04-30 08:53:58
 source: getnote
 kb: computing-network
+provenance: external
 ---
 
 # AI训练网络通信机制深度解析：NCCL的"伪并行"优化原理

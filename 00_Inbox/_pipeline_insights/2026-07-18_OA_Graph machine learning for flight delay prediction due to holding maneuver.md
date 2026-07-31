@@ -10,6 +10,7 @@ source: openalex
 query: "higher-order network simplicial hypergraph dynamics"
 date: 2026-07-18
 topics: ['Aerospace and Aviation Technology', 'Real-time simulation and control systems', 'Autonomous Vehicle Technology and Safety']
+provenance: external
 ---
 
 # Graph machine learning for flight delay prediction due to holding maneuver

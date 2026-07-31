@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "生物启发的脉冲神经网络（SNN）设计与研究进展"
 date: 2025-07-22 19:50:01
 source: "????"

@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # 晶圆级AI芯片：突破AI算力瓶颈的硬件革命与软件适配

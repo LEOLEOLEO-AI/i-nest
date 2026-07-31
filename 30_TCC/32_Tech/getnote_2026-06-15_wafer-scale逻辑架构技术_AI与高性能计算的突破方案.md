@@ -22,6 +22,7 @@ tags:
 - neuroscience
 - network
 title: kb_INEST-papers_getnote_1903519449996180808_wafer-scale逻辑架构技术_AI与高性能计算的突破方案
+provenance: external
 ---
 
 ## Original Note

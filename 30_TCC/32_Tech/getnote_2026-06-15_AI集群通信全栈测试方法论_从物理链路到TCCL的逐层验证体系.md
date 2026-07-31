@@ -22,6 +22,7 @@ tags:
 - llm
 - network
 title: kb_computing-network_getnote_1908586963796287416_AI集群通信全栈测试方法论_从物理链路到NCCL的逐层验证体系
+provenance: external
 ---
 
 ## Original Note

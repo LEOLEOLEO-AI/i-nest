@@ -26,6 +26,7 @@ tags:
 - computing
 - infrastructure
 title: getnote_2026-06-17_Transformer的拓扑困境_从思维链依赖到循环架构的回归
+provenance: external
 ---
 
 ## Original Note

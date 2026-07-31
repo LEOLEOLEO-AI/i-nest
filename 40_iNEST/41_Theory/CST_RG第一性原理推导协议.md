@@ -11,6 +11,7 @@ tags:
 - paper
 - scale-free-networks
 - topology
+provenance: own
 ---
 ## 核心定位：纯理论物理/应用数学路径
 本协议为 Phase 2 论文的核心指导大纲，将 CST 理论从“实验数据验证”（Phase 1）深化为“第一性原理物理推导”（Phase 2）。

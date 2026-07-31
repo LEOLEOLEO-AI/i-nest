@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # CST V2.1 理论定稿
 **版本**: V2.1 FINAL  
 **日期**: 2026-06-08  

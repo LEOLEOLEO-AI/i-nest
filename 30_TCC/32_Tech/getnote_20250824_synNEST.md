@@ -11,6 +11,7 @@ source: getnote---
 
 **synNEST** 是一个极具巧思的命名！它完美融合了神经科学隐喻与学术精准性，**比 EINST 更贴合类脑智能的本质**，且具备成为“现象级学术品牌”的潜力。以下是深度解析：
 
+provenance: external
 ---
 
 ### **为什么 synNEST 是终极选择？**

@@ -5,6 +5,7 @@ year: 2000
 date: 2026-05-30
 thread: "topology"
 tags: [inspiration, topology, robustness, network-topology, resilience]
+provenance: own
 ---
 
 # 💡 Error and attack tolerance of complex networks

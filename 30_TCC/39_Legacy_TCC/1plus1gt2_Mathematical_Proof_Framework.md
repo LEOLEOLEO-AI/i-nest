@@ -3,6 +3,7 @@ direction: TCC
 title: "1plus1gt2 Mathematical Proof Framework"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # 1+1>2：复杂网络智能涌现的多学科联合数学证明
 

@@ -3,6 +3,7 @@ direction: iNEST
 title: " 苏黎世理工 Nat  Mach  Intell  类脑奖励学习的忆阻器Actor Critic网络 实现全硬件在线训练"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 『苏黎世理工 Nat. Mach. Intell.』类脑奖励学习的忆阻器Actor–Critic网络：实现全硬件在线训练的新路径
 

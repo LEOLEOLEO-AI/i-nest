@@ -10,6 +10,7 @@ tags: [inbox, tcc, arxiv]
 citations: 0
 relevance: 3
 status: inbox
+provenance: external
 ---
 
 # MoX: Efficient MoE Routing on Direct-Connect Topologies

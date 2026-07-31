@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-02-16 07:38:55
 source: getnote
 kb: project-guide
+provenance: external
 ---
 
 # 统一内存与网络语义架构（Risc-V结合）

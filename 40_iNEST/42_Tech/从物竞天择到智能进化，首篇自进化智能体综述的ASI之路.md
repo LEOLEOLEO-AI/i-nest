@@ -3,6 +3,7 @@ direction: iNEST
 title: "从物竞天择到智能进化，首篇自进化智能体综述的ASI之路"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 从物竞天择到智能进化，首篇自进化智能体综述的ASI之路
 

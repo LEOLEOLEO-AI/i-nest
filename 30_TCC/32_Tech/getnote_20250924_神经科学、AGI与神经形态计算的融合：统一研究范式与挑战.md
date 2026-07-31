@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "神经科学、AGI与神经形态计算的融合：统一研究范式与挑战"
 date: 2025-09-24 23:08:59
 source: "????"

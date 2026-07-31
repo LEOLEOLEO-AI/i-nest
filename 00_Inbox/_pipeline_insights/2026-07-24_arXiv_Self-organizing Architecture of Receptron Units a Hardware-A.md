@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 2
 status: inbox
+provenance: external
 ---
 
 # Self-organizing Architecture of Receptron Units: a Hardware-Aware Framework for Edge Intelligence

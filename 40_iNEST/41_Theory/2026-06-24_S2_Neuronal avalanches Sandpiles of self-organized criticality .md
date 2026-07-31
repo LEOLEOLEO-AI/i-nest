@@ -8,6 +8,7 @@ year: 2023
 url: https://www.semanticscholar.org/paper/863a3fe348311b9cc305cc5f453e43e7abff74d6
 tags: [from-s2, auto-crawl, inest, neuronal avalanches, brain waves, self-organized criticality, critical dynamics, classified]
 status: inbox
+provenance: external
 ---
 
 # Neuronal avalanches: Sandpiles of self-organized criticality or critical dynamics of brain waves?

@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "DMP-SNN：神经形态计算的双记忆通路突破——算法-硬件协同设计与车端应用前景"
 date: 2026-06-22 19:40:52
 source: "????"

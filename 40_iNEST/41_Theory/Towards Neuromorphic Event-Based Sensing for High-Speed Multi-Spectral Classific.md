@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2605.31038v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Towards Neuromorphic Event-Based Sensing for High-Speed Multi-Spectral Classification and Tracking of Microparticles

@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/2b6af51a937df3579d3ab9d81bef8fdca43a14f4
 tags: [deep variational free energy, hydrogen Hugoniot, warm dense matter, classified]
 status: inbox
+provenance: external
 ---
 
 # Deep Variational Free Energy Calculation of Hydrogen Hugoniot

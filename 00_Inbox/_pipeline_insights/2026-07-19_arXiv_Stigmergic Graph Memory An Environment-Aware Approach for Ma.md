@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 ﻿---
 title: "Stigmergic Graph Memory: An Environment-Aware Approach for Many-to-Many Multi-Agent Pickup and Delivery"
 date: 2026-07-19

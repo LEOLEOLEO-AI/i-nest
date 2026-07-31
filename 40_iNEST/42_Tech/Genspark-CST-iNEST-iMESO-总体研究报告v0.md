@@ -5,6 +5,7 @@ date: 2026-07-25
 tags: [CST, iNEST, iMESO, Genspark, 研究报告]
 level: S5
 annotation: "Genspark 生成，以公开顶刊证据为约束从零重构，非直接来自一言知心原文"
+provenance: external
 ---
 
 # CST—iNEST—iMESO 总体研究报告

@@ -27,6 +27,7 @@ source: getnote---
 date: 2026-05-25
 FEP STDP SDI architecture breakthrough
 
+provenance: external
 ---
 
 ## Related Notes

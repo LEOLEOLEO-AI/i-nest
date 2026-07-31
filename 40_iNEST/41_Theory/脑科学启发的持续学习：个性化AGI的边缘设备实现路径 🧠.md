@@ -10,6 +10,7 @@ tags:
   - "突触修剪"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 脑科学启发的持续学习：个性化AGI的边缘设备实现路径 🧠

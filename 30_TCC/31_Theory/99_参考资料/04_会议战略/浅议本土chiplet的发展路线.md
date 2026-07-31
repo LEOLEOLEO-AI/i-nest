@@ -3,6 +3,7 @@ direction: TCC
 title: "浅议本土chiplet的发展路线"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 浅议本土chiplet的发展路线
 

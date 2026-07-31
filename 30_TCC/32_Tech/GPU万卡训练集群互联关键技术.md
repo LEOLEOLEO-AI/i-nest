@@ -7,6 +7,7 @@ tags:
 - large-language-model
 - semiconductor
 - topology
+provenance: external
 ---
 > 笔记本: 我的剪贴板  
 > 创建时间: 2024-09-15  

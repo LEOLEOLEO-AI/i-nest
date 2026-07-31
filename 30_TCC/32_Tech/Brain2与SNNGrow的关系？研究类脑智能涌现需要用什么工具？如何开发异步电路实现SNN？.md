@@ -5,6 +5,7 @@ note_id: "1880900539454226648"
 tags:
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # Brain2与SNNGrow的关系？研究类脑智能涌现需要用什么工具？如何开发异步电路实现SNN？

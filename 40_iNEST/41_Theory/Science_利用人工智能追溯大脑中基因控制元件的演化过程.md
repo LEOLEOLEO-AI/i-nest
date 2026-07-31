@@ -6,6 +6,7 @@ tags:
 - brain
 - paper
 - project
+provenance: external
 ---
 - **笔记本**: 我的剪贴板
 - **时间**: 2026-02-02 10:31

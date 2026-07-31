@@ -3,6 +3,7 @@ title: "学生1 工作包 — TCC-SDI论文"
 assignee: 学生1
 deadline: 2026-07-31
 date: 2026-06-16
+provenance: external
 ---
 
 # 学生1 工作包：软件定义互连论文

@@ -17,6 +17,7 @@ tags:
 - 语言演化
 - clippings
 title: Nature Communications｜人类语言从哪里来？一条额叶白质通路给出新的进化线索
+provenance: own
 ---
 
 *2026年6月15日 12:05*

@@ -4,6 +4,7 @@ tags:
 - knowledge-management
 - personalization
 - note-taking
+provenance: own
 ---
 ---
 title: "Obsidian笔记整理的"最高心法"：拒绝盲目照搬，构建个性化知识体系"

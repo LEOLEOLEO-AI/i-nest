@@ -11,6 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: external
 ---
 
 # AI编码代理的质的飞跃：v3.3透明化与v3.4连续性技术解析

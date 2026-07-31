@@ -4,6 +4,7 @@ date: 2026-05-30
 channel: patent
 status: ideation
 tags: [patent, inest, 神经振荡同步, 物理知情深度学习, brain-computer interface, computational neuroscience, medical AI]
+provenance: own
 ---
 
 # SyncBrain: A Physics-Informed Deep Learning Model for Brain Function Decoding Using Neural Oscillation Synchronization

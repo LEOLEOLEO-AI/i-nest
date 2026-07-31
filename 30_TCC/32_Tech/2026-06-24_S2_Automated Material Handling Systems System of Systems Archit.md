@@ -8,6 +8,7 @@ year: 2021
 url: https://www.semanticscholar.org/paper/f6a8cdbc90ddca71051f7c4b891aff81459ce8e2
 tags: [AMHS, semiconductor manufacturing, system of systems, classified]
 status: inbox
+provenance: external
 ---
 
 # Automated Material Handling Systems: System of Systems Architecture Examination Semiconductor Manufacturing Perspective

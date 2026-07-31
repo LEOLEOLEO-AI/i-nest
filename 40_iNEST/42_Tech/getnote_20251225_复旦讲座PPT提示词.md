@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "复旦讲座PPT提示词"
 date: 2025-12-25 16:35:00
 source: "????"

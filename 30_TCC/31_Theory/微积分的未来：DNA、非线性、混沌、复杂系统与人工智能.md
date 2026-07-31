@@ -3,6 +3,7 @@ direction: TCC
 title: "微积分的未来：DNA、非线性、混沌、复杂系统与人工智能"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 微积分的未来：DNA、非线性、混沌、复杂系统与人工智能
 

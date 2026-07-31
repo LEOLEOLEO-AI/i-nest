@@ -5,6 +5,7 @@ type: link
 created: 2025-12-17 16:43:46
 source: getnote
 kb: DARPA-research
+provenance: external
 ---
 
 # 美欧Chiplet技术发展深度研究：从战略布局到技术创新的全景分析

@@ -10,6 +10,7 @@ tags: [洞察, inest, 来自s2]
 citations: 6
 relevance: 3
 status: 洞察
+provenance: external
 ---
 
 # The Drosophila Connectome as a Computational Reservoir for Time-Series Prediction

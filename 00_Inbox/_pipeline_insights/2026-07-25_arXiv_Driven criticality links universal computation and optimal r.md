@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 3
 status: inbox
+provenance: external
 ---
 
 # Driven criticality links universal computation and optimal representations

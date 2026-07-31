@@ -5,6 +5,7 @@ tags:
 - concepts-theory
 - fundamentals
 - self-organization
+provenance: own
 ---
 > 笔记本: 微信  
 > 创建时间: 2021-12-01  

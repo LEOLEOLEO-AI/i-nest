@@ -6,6 +6,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
+provenance: own
 ---
 
 # AI计算架构革命

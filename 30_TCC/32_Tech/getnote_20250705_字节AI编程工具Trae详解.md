@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "字节AI编程工具Trae详解"
 date: 2025-07-05 22:35:29
 source: "????"

@@ -7,6 +7,7 @@ date: 2026-06-04
 status: 撰写中
 priority: 高
 source: "iNEST_2_论文撰写/P-Theory_v3_Revised.md"
+provenance: own
 ---
 
 # Meta-Topology and SDI-Bond: Variational Framework for Communication Primitive Generation and Fractal Network Evolution

@@ -3,6 +3,7 @@ direction: iNEST
 title: " 北大杨玉超 陶耀宇 Nat  Commun  高并发三模态忆阻器常微分方程求解器 突破传统计算瓶颈"
 created: 2026-07-07
 modified: 2026-07-11
+provenance: external
 ---
 # 『北大杨玉超、陶耀宇 Nat. Commun.』高并发三模态忆阻器常微分方程求解器：突破传统计算瓶颈
 

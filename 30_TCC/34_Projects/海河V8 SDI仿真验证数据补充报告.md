@@ -7,6 +7,7 @@ date: 2026-06-04
 status: 已完成
 priority: 高
 source: "TCC_1_项目策划/海河V8_SDI仿真验证数据补充.md"
+provenance: own
 ---
 
 # 海河V8 SDI仿真验证数据补充报告

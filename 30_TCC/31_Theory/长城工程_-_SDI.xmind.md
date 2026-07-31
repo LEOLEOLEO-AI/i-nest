@@ -3,6 +3,7 @@ direction: TCC
 title: "长城工程 - SDI.xmind"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # 长城工程 - SDI.xmind
 

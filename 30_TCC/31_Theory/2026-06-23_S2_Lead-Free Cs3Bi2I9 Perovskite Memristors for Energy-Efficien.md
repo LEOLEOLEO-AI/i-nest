@@ -8,6 +8,7 @@ year: 2025
 url: https://www.semanticscholar.org/paper/720720276dcbb11895f3445b6dfec56052c86b65
 tags: [lead-free perovskite, memristor, neuromorphic computing, energy-efficient, classified, inest]
 status: inbox
+provenance: external
 ---
 
 # Lead-Free Cs3Bi2I9 Perovskite Memristors for Energy-Efficient Neuromorphic Computing

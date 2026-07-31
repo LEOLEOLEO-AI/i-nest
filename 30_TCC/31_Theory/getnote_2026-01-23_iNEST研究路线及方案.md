@@ -5,6 +5,7 @@ type: plain_text
 created: 2026-01-23 11:25:20
 source: getnote
 kb: iNEST-dev
+provenance: external
 ---
 
 # iNEST研究路线及方案

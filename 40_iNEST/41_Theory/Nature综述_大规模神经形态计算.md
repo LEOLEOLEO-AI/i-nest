@@ -3,6 +3,7 @@ direction: iNEST
 title: "Nature综述 大规模神经形态计算"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # Nature综述：大规模神经形态计算
 

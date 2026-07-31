@@ -3,6 +3,7 @@ title: New DARPA-Funded Project Aims to Unravel the Brain's Learning Secrets - U
 tags:
 - brain-science
 - neuroscience
+provenance: own
 ---
 > 笔记本: 微信  
 > 创建时间: 2025-10-10  

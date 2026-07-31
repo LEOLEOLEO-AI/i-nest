@@ -3,6 +3,7 @@ direction: iNEST
 title: "paper draft v35"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: own
 ---
 # C.elegans Connectome Analysis: Small-World Topology and Structure-Function Coupling
 

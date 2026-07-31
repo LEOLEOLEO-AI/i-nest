@@ -3,6 +3,7 @@ direction: iNEST
 title: "神经科学 AGI与神经形态计算的融合 统一研究范式与挑战"
 created: 2026-07-07
 modified: 2026-07-07
+provenance: external
 ---
 # 神经科学、AGI与神经形态计算的融合：统一研究范式与挑战
 

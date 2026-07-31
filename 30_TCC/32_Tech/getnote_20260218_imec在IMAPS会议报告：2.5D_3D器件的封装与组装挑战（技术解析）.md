@@ -1,4 +1,8 @@
 ---
+provenance: external
+---
+
+---
 title: "imec在IMAPS会议报告：2.5D/3D器件的封装与组装挑战（技术解析）"
 date: 2026-02-18 15:17:20
 source: "????"

@@ -10,6 +10,7 @@ tags:
   - "数据中心网络架构"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # UB-Mesh：革新大规模语言模型训练的数据中心网络架构

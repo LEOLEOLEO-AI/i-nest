@@ -10,6 +10,7 @@ tags: [inbox, inest, arxiv]
 citations: 0
 relevance: 3
 status: inbox
+provenance: external
 ---
 
 # Photo-induced currents and short-term memory for reservoir computing in a ferroelectric semiconductor

@@ -10,6 +10,7 @@ tags:
   - "情节记忆"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # Google DeepMind潜在学习研究：AI记忆系统的认知革命 🔍

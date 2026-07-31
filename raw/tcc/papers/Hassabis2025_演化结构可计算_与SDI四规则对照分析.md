@@ -3,6 +3,7 @@ direction: TCC
 title: "Hassabis2025 演化结构可计算 与SDI四规则对照分析"
 created: 2026-07-07
 modified: 2026-07-15
+provenance: external
 ---
 # Hassabis 访谈：自然演化如何塑造可计算的系统结构
 # 与 iNEST SDI 四规则的底层共鸣、改进方向与研究计划

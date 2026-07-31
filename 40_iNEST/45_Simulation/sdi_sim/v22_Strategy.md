@@ -3,6 +3,7 @@ direction: iNEST
 title: "v22 Strategy"
 created: 2026-07-14
 modified: 2026-07-14
+provenance: own
 ---
 # iNEST 课题组 SDI 演化仿真平台 (SDI Simulator) 推进策略 (v22升级版)
 

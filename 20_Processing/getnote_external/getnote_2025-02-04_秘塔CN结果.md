@@ -5,6 +5,7 @@ type: plain_text
 created: 2025-02-04 10:43:48
 source: getnote
 kb: iNEST
+provenance: external
 ---
 
 # 秘塔CN结果

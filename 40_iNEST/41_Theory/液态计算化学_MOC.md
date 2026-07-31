@@ -3,6 +3,7 @@ title: "液态计算化学 — Map of Content"
 date: 2026-07-03
 type: MOC
 tags: [liquid-computing, chemistry, iNEST]
+provenance: own
 ---
 
 # 液态计算化学 — Map of Content

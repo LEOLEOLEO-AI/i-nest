@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # CST 仿真验证计划 — 2026-07-19
 
 ## 证据边界

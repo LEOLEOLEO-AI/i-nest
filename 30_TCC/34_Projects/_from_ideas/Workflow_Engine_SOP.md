@@ -5,6 +5,7 @@ tags:
 - paper
 - project-management
 - simulation
+provenance: own
 ---
 > **目标**：解决“Idea井喷、论文撰写、工程实现、商业化落地”四线并发导致的信息不对齐与顾此失彼问题。建立一套机器自动巡检与对齐的SOP（标准作业程序）。
 

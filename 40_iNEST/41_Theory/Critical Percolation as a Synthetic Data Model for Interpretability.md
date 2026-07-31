@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.20347v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Critical Percolation as a Synthetic Data Model for Interpretability

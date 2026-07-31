@@ -5,6 +5,7 @@ source: arXiv
 url: http://arxiv.org/abs/2606.08421v1
 direction: iNEST
 tags: [paper, inest, auto-crawl]
+provenance: external
 ---
 
 # Segmentation-Assisted Brain MRI Synthesis with Cross-Image Multi-Contrast Feature Memory Bank Retrieval Augmentation

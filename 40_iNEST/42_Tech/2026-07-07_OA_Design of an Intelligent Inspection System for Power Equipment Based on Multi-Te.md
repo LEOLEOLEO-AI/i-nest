@@ -10,6 +10,7 @@ source: openalex
 query: "free energy principle active inference neural"
 date: 2026-07-07
 topics: ['Electrical Fault Detection and Protection', 'Photovoltaic System Optimization Techniques', 'Islanding Detection in Power Systems']
+provenance: external
 ---
 
 # Design of an Intelligent Inspection System for Power Equipment Based on Multi-Technology Integration

@@ -1,3 +1,7 @@
+---
+provenance: external
+---
+
 # SDSoW 硬件映射方案
 
 ## Software-Defined System on Web — SDI 三规则硬件原语映射

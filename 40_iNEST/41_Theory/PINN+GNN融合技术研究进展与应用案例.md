@@ -10,6 +10,7 @@ tags:
   - "图神经网络"
   - "get-笔记"
   - "学术论文"
+provenance: own
 ---
 
 # PINN+GNN融合技术研究进展与应用案例

@@ -10,6 +10,7 @@ tags:
   - "模拟计算"
   - "get-笔记"
   - "AI研究"
+provenance: external
 ---
 
 # 物理神经网络（PNNs）训练方法与未来展望
