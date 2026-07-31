@@ -10,7 +10,7 @@ tags:
   - "产学研转化"
   - "get-笔记"
   - "AI研究"
-provenance: own
+provenance: external
 ---
 
 # Ion Stoica：横跨学术与产业的AI基础设施传奇

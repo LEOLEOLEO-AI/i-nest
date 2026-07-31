@@ -11,7 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
-provenance: own
+provenance: external
 ---
 
 # 科学范式的五次跃迁：从经验积累到AI自主探索的文明演进

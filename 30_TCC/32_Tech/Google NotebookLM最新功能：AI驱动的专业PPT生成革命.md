@@ -10,7 +10,7 @@ tags:
   - "Gemini 3 Pro"
   - "get-笔记"
   - "学术论文"
-provenance: own
+provenance: external
 ---
 
 # Google NotebookLM最新功能：AI驱动的专业PPT生成革命

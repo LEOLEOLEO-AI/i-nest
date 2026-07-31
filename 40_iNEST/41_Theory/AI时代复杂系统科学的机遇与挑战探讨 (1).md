@@ -14,7 +14,7 @@ tags:
 title: AI时代复杂系统科学的机遇与挑战探讨
 merged_into: "40_iNEST\41_Theory\AI时代复杂系统科学的机遇与挑战探讨.md"
 merged_date: 2026-07-03
-provenance: own
+provenance: external
 ---
 
 > 📎 **已合并** → [[40_iNEST\41_Theory\AI时代复杂系统科学的机遇与挑战探讨.md]]

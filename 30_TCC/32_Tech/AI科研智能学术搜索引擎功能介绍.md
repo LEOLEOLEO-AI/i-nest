@@ -10,7 +10,7 @@ tags:
   - "研究报告生成"
   - "get-笔记"
   - "学术论文"
-provenance: own
+provenance: external
 ---
 
 # AI科研智能学术搜索引擎功能介绍

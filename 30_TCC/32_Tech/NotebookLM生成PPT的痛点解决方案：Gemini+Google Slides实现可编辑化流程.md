@@ -10,7 +10,7 @@ tags:
   - "AI工具协同"
   - "get-笔记"
   - "科技资讯"
-provenance: own
+provenance: external
 ---
 
 # NotebookLM生成PPT的痛点解决方案：Gemini+Google Slides实现可编辑化流程

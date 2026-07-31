@@ -10,7 +10,7 @@ tags:
   - "几何深度学习"
   - "get-笔记"
   - "会议记录"
-provenance: own
+provenance: external
 ---
 
 # 哈密顿神经网络（HNN）深度研究：物理规律驱动的AI范式革命

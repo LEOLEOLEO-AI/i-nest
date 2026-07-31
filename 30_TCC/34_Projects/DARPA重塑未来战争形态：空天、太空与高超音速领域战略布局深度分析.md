@@ -11,7 +11,7 @@ tags:
   - "get-笔记"
   - "项目管理"
   - "重要"
-provenance: own
+provenance: external
 ---
 
 # DARPA重塑未来战争形态：空天、太空与高超音速领域战略布局深度分析

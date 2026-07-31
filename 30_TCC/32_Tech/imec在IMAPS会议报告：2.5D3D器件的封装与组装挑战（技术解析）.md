@@ -10,7 +10,7 @@ tags:
   - "热压键合（TCB）"
   - "get-笔记"
   - "会议记录"
-provenance: own
+provenance: external
 ---
 
 # imec在IMAPS会议报告：2.5D/3D器件的封装与组装挑战（技术解析）

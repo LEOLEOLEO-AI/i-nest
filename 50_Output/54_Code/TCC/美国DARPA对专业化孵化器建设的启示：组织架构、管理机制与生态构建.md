@@ -10,7 +10,7 @@ tags:
   - "项目经理制"
   - "get-笔记"
   - "项目管理"
-provenance: own
+provenance: external
 ---
 
 # 美国DARPA对专业化孵化器建设的启示：组织架构、管理机制与生态构建

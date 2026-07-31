@@ -11,7 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
-provenance: own
+provenance: external
 ---
 
 # 美国DARPA 2025年在研项目深度研究报告：以技术代差重塑未来战争形态

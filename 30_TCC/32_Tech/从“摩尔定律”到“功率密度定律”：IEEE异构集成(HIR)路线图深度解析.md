@@ -11,7 +11,7 @@ tags:
   - "get-笔记"
   - "学术论文"
   - "重要"
-provenance: own
+provenance: external
 ---
 
 # 从“摩尔定律”到“功率密度定律”：IEEE异构集成(HIR)路线图深度解析

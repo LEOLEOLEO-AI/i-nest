@@ -11,7 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
-provenance: own
+provenance: external
 ---
 
 # 美国DARPA四大关键项目群深度研究报告：战略布局、技术突破与全球影响

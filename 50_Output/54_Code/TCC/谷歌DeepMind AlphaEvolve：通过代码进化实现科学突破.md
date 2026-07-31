@@ -10,7 +10,7 @@ tags:
   - "矩阵乘法算法"
   - "get-笔记"
   - "AI研究"
-provenance: own
+provenance: external
 ---
 
 # 谷歌DeepMind AlphaEvolve：通过代码进化实现科学突破

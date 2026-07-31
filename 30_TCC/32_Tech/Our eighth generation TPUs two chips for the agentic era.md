@@ -19,7 +19,7 @@ tags:
 - 训练与推理
 - TPU
 title: 'Our eighth generation TPUs: two chips for the agentic era'
-provenance: own
+provenance: external
 ---
 
 Today at Google Cloud Next, we are introducing the eighth generation of Google's custom Tensor Processor Unit (TPU), coming soon with two distinct, purpose-built architectures for training and inference: TPU 8t and TPU 8i. These two chips are designed to power our custom-built supercomputers, to drive everything from cutting-edge model training and agent development, to massive inference workloads. TPUs have been powering leading foundation models, including Gemini, for years. These 8th generation TPUs together will deliver scale, efficiency and capabilities across training, serving and agentic workloads.

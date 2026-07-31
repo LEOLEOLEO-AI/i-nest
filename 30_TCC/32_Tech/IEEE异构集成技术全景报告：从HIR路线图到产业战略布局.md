@@ -10,7 +10,7 @@ tags:
   - "3D集成技术"
   - "get-笔记"
   - "学术论文"
-provenance: own
+provenance: external
 ---
 
 # IEEE异构集成技术全景报告：从HIR路线图到产业战略布局

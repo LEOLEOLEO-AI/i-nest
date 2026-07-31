@@ -8,7 +8,7 @@ tags:
 - default
 - needs-review
 title: '印象笔记 API Key '
-provenance: own
+provenance: external
 ---
 
 # 印象笔记 API Key 

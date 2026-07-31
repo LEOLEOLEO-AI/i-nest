@@ -11,7 +11,7 @@ tags:
   - "开源项目"
   - "get-笔记"
   - "学术论文"
-provenance: own
+provenance: external
 ---
 
 # RAGFlow：企业文档管理与知识应用的强大解决方案

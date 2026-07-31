@@ -11,7 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
-provenance: own
+provenance: external
 ---
 
 # DARPA人工智能与自主系统项目深度研究报告：以"第三波AI"为核心的军事智能革命

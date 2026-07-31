@@ -25,7 +25,7 @@ tags:
 - Open Source
 - DeepSeek-V3.2
 title: "DeepSeek-V3.2: 开源大语言模型的技术突破与性能飞跃 \U0001F680"
-provenance: own
+provenance: external
 ---
 
 # DeepSeek-V3.2: 开源大语言模型的技术突破与性能飞跃 🚀

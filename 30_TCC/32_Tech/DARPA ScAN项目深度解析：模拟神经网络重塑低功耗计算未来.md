@@ -11,7 +11,7 @@ tags:
   - "get-笔记"
   - "AI研究"
   - "重要"
-provenance: own
+provenance: external
 ---
 
 # DARPA ScAN项目深度解析：模拟神经网络重塑低功耗计算未来

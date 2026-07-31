@@ -10,7 +10,7 @@ tags:
   - "认知科学AI"
   - "get-笔记"
   - "AI研究"
-provenance: own
+provenance: external
 ---
 
 # 层次化推理模型（HRM）：突破LLM推理瓶颈的脑启发式架构

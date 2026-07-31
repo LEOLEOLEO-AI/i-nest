@@ -10,7 +10,7 @@ tags:
   - "400G/800G以太网"
   - "get-笔记"
   - "AI研究"
-provenance: own
+provenance: external
 ---
 
 # 2025年AI与HPC网络加速芯片技术对比

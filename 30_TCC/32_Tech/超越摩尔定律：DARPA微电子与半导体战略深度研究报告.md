@@ -10,7 +10,7 @@ tags:
   - "电子复兴计划2.0"
   - "get-笔记"
   - "科技资讯"
-provenance: own
+provenance: external
 ---
 
 # 超越摩尔定律：DARPA微电子与半导体战略深度研究报告

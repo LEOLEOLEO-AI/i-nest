@@ -10,7 +10,7 @@ tags:
   - "AI for Science"
   - "get-笔记"
   - "学术论文"
-provenance: own
+provenance: external
 ---
 
 # 物理信息神经网络（PINNs）：深度学习与物理融合的开创性框架

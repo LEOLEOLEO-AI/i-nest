@@ -11,7 +11,7 @@ tags:
   - "get-笔记"
   - "科技资讯"
   - "重要"
-provenance: own
+provenance: external
 ---
 
 # 美国DARPA微电子与半导体领域深度研究报告：超越摩尔定律的范式革命

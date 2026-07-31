@@ -10,7 +10,7 @@ tags:
   - "混合存内计算"
   - "get-笔记"
   - "学术论文"
-provenance: own
+provenance: external
 ---
 
 # ISSCC 2026突破性成果：HYDAR混合存内计算芯片颠覆AI推荐系统能效瓶颈

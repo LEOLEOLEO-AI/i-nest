@@ -11,7 +11,7 @@ tags:
 title: III IV V族元素
 merged_into: "30_TCC\31_Theory\III IV V族元素.md"
 merged_date: 2026-07-03
-provenance: own
+provenance: external
 ---
 
 > 📎 **已合并** → [[30_TCC\31_Theory\III IV V族元素.md]]

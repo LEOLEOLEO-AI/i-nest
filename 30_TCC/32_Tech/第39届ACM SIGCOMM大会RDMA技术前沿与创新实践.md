@@ -10,7 +10,7 @@ tags:
   - "数据中心网络"
   - "get-笔记"
   - "学术论文"
-provenance: own
+provenance: external
 ---
 
 # 第39届ACM SIGCOMM大会RDMA技术前沿与创新实践

@@ -10,7 +10,7 @@ tags:
   - "高带宽光互联"
   - "get-笔记"
   - "AI研究"
-provenance: own
+provenance: external
 ---
 
 # 2025 SIGCOMM：华为AI集群网络的六大技术挑战与突破方向

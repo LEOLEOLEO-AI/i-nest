@@ -11,7 +11,7 @@ tags:
   - "get-笔记"
   - "科技资讯"
   - "重要"
-provenance: own
+provenance: external
 ---
 
 # DARPA投资3D异构集成（3DHI）先进封装工厂深度研究：重塑美国微电子产业格局

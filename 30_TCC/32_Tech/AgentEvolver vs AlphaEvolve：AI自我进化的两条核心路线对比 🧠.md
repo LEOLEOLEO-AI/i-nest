@@ -10,7 +10,7 @@ tags:
   - "AlphaEvolve"
   - "get-笔记"
   - "AI研究"
-provenance: own
+provenance: external
 ---
 
 # AgentEvolver vs AlphaEvolve：AI自我进化的两条核心路线对比 🧠

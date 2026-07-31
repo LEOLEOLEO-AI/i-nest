@@ -5,7 +5,7 @@ source: Google News
 url: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GWnNpdmRBcGJlYVBORnNoVFp6eU9tdTVyV0JXaUgzSXJQSGpOTmZ3c19FLWhZUTZVRW9XWmFJZm5TcjJsS2NFV3JrRGRla1FCaHRpVjNPNkNUQUhSQUx3?oc=5
 direction: iNEST
 tags: [paper, inest, auto-crawl]
-provenance: own
+provenance: external
 ---
 
 # Algorithm–hardware co-design of neuromorphic networks with dual memory pathways - Nature

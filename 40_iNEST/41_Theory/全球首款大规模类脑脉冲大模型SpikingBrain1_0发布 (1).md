@@ -11,7 +11,7 @@ tags:
 - transformer
 merged_into: "40_iNEST\41_Theory\全球首款大规模类脑脉冲大模型SpikingBrain1_0发布.md"
 merged_date: 2026-07-03
-provenance: own
+provenance: pending
 ---
 
 > 📎 **已合并** → [[40_iNEST\41_Theory\全球首款大规模类脑脉冲大模型SpikingBrain1_0发布.md]]

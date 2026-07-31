@@ -8,7 +8,7 @@ created: 2026-06-26
 description:
 tags:
   - "clippings"
-provenance: own
+provenance: external
 ---
 芝能芯芯 芝能智芯 *2026年6月18日 07:58*
 

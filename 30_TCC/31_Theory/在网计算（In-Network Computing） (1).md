@@ -10,7 +10,7 @@ tags:
 title: 在网计算（In-Network Computing）
 merged_into: "30_TCC\31_Theory\在网计算（In-Network Computing）.md"
 merged_date: 2026-07-03
-provenance: own
+provenance: external
 ---
 
 > 📎 **已合并** → [[30_TCC\31_Theory\在网计算（In-Network Computing）.md]]

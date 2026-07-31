@@ -5,7 +5,7 @@ note_id: "1880901608901612424"
 tags:
   - "get-笔记"
   - "灵感"
-provenance: own
+provenance: pending
 ---
 
 # 字节AI编程工具Trae详解

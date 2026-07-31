@@ -10,7 +10,7 @@ tags:
   - "多尺度动力学"
   - "get-笔记"
   - "学术论文"
-provenance: own
+provenance: external
 ---
 
 # 物理信息机器学习（PIML）前沿进展与研究方向

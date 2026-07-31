@@ -10,7 +10,7 @@ tags:
   - "深度学习"
   - "get-笔记"
   - "AI研究"
-provenance: own
+provenance: external
 ---
 
 # Deepmath：AI驱动的自动化定理证明开源项目解析

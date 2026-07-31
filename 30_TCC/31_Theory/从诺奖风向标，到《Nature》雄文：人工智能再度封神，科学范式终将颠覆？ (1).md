@@ -13,7 +13,7 @@ tags:
 - survey
 merged_into: "30_TCC\31_Theory\从诺奖风向标，到《Nature》雄文：人工智能再度封神，科学范式终将颠覆？.md"
 merged_date: 2026-07-03
-provenance: own
+provenance: pending
 ---
 
 > 📎 **已合并** → [[30_TCC\31_Theory\从诺奖风向标，到《Nature》雄文：人工智能再度封神，科学范式终将颠覆？.md]]

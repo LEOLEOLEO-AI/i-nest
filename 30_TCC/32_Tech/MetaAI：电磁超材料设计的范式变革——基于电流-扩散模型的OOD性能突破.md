@@ -10,7 +10,7 @@ tags:
   - "电流-扩散模型"
   - "get-笔记"
   - "学术论文"
-provenance: own
+provenance: external
 ---
 
 # MetaAI：电磁超材料设计的范式变革——基于电流-扩散模型的OOD性能突破

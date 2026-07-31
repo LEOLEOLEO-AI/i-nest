@@ -10,7 +10,7 @@ tags:
   - "科学机器学习"
   - "get-笔记"
   - "学术论文"
-provenance: own
+provenance: external
 ---
 
 # 物理信息神经网络（PINN）研究方向全景：四大创新路径与137篇前沿论文解析

@@ -15,7 +15,7 @@ tags:
 title: Obsidian从入门到精通：基于Notebook Navigator插件的高效知识管理指南
 merged_into: "20_Ideas\Insights\Obsidian从入门到精通：基于Notebook Navigator插件的高效知识管理指南.md"
 merged_date: 2026-07-03
-provenance: own
+provenance: external
 ---
 
 > 📎 **已合并** → [[20_Ideas\Insights\Obsidian从入门到精通：基于Notebook Navigator插件的高效知识管理指南.md]]

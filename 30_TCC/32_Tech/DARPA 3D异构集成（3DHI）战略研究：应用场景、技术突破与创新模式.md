@@ -10,7 +10,7 @@ tags:
   - "芯粒（Chiplet）架构"
   - "get-笔记"
   - "科技资讯"
-provenance: own
+provenance: external
 ---
 
 # DARPA 3D异构集成（3DHI）战略研究：应用场景、技术突破与创新模式

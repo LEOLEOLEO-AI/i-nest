@@ -9,7 +9,7 @@ tags:
 - transformer
 merged_into: "40_iNEST\41_Theory\A_Unified_Theory_of_Intelligence_Emergence_from_Spatiotemporal_Network_Complexity.md"
 merged_date: 2026-07-03
-provenance: own
+provenance: pending
 ---
 
 > 📎 **已合并** → [[40_iNEST\41_Theory\A_Unified_Theory_of_Intelligence_Emergence_from_Spatiotemporal_Network_Complexity.md]]

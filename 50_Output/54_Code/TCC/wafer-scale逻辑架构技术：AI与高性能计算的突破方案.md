@@ -10,7 +10,7 @@ tags:
   - "AI计算架构"
   - "get-笔记"
   - "AI研究"
-provenance: own
+provenance: external
 ---
 
 # wafer-scale逻辑架构技术：AI与高性能计算的突破方案

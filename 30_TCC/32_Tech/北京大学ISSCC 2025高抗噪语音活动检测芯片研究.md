@@ -10,7 +10,7 @@ tags:
   - "超低功耗电路"
   - "get-笔记"
   - "学术论文"
-provenance: own
+provenance: external
 ---
 
 # 北京大学ISSCC 2025高抗噪语音活动检测芯片研究

@@ -10,7 +10,7 @@ tags:
   - "NVIDIA AI Factory"
   - "get-笔记"
   - "AI研究"
-provenance: own
+provenance: external
 ---
 
 # AI基础设施架构深度解析：从芯片到数据中心的全栈演进

@@ -32,7 +32,7 @@ def date_from_path(p):
 def source_of(r):
     p = r["path"].lower()
     t = r["reason"].lower()
-    if "getnote" in p or "得到" in t:
+    if "getnote" in p or "得到" in t or "getnote" in t:
         return "得到 / getnote"
     if "genspark" in p or "genspark" in t:
         return "Genspark"
@@ -42,11 +42,17 @@ def source_of(r):
         return "arXiv / 学术文献"
     if "semantic" in t:
         return "Semantic Scholar"
+    # 细筛新增：web-clips 剪藏 / 含 source 链接的网页导入
+    if "web-clips" in t or "剪藏" in t or "category=剪藏" in t:
+        return "网页剪藏 / Web-Clips"
+    if "source 含链接" in t or "source 含" in t or "frontmatter source" in t:
+        return "网页剪藏 / Web-Clips"
     return "其他平台 / 文献"
 
 
 own_high = [r for r in DATA if r["provenance"] == "own" and r["confidence"] == "high"]
-own_loc = [r for r in DATA if r["provenance"] == "own" and r["confidence"] == "location"]
+own_loc = [r for r in DATA if r["provenance"] == "own" and r["confidence"] in ("location", "location-dup")]
+own_dup = [r for r in DATA if r["provenance"] == "own" and r["confidence"] == "location-dup"]
 external = [r for r in DATA if r["provenance"] == "external"]
 pending = [r for r in DATA if r["provenance"] == "pending"]
 
@@ -133,7 +139,8 @@ lines.append("")
 
 lines.append("## 四、位置候选（需复核）\n")
 lines.append(f"> 共 {len(own_loc)} 篇位于 TCC/iNEST/Output 但无署名标记，按位置启发式暂归为自有研究候选。"
-             f"其中部分为导入文献（缺平台名标记），建议人工抽检后调整 `provenance`。\n")
+             f"其中 {len(own_dup)} 篇因文件名带 `(1)/(2)` 等重复后缀、且含自有研究意图（建议/方案/折子/计划等）被保留为候选并打 `location-dup` 标记，"
+             f"建议人工抽检后调整 `provenance`。另有 {sum(1 for r in DATA if r['provenance']=='pending')} 篇被移入「待审」（多为剪藏重复/导入痕迹）。\n")
 for theme in sorted(g_loc, key=lambda k: -len(g_loc[k]))[:12]:
     recs = g_loc[theme]
     lines.append(f"- {theme}：{len(recs)} 篇")

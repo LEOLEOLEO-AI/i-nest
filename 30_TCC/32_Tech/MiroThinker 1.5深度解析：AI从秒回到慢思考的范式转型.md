@@ -10,7 +10,7 @@ tags:
   - "搜索智能体"
   - "get-笔记"
   - "AI研究"
-provenance: own
+provenance: external
 ---
 
 # MiroThinker 1.5深度解析：AI从"秒回"到"慢思考"的范式转型
