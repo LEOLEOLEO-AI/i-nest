@@ -3,7 +3,7 @@
 homepage_generator.py — Auto-generate Home.md from live vault + wiki state
 Called by pipeline after all evolution engines complete.
 """
-import json, os, sys
+import json, os, sys, subprocess
 sys.stdout.reconfigure(encoding='utf-8')
 from pathlib import Path
 from datetime import datetime
@@ -80,6 +80,18 @@ def read_hypotheses():
         return []
 
 def read_git_status():
+    # 实时读取 git 工作树未提交改动（缓存易过期，故优先实时计算）
+    try:
+        r = subprocess.run(
+            ["git", "-C", str(VAULT), "status", "--porcelain"],
+            capture_output=True, text=True, timeout=30,
+        )
+        if r.returncode == 0:
+            n = len([l for l in r.stdout.splitlines() if l.strip()])
+            return n
+    except Exception:
+        pass
+    # 回退到缓存状态文件
     state_file = VAULT / "99_Meta" / "research_state.json"
     if not state_file.exists():
         return 0
@@ -149,12 +161,12 @@ cssclass: dashboard
 
 | 维度 | 数值 | 入口 |
 |---|---|---|
-| 📄 知识库总文件 | **{total_md:,}** | [[Home\|根目录/Home]] |
-| 🔬 TCC 资料 | **{tcc_files:,}** | [[30_TCC/TCC_Master_Index\|TCC 主索引]] |
-| 🧠 iNEST 资料 | **{inest_files:,}** | [[40_iNEST/iNEST_Master_Index\|iNEST 主索引]] |
-| 📥 待处理论文 | **{inbox}** | [[00_Inbox/_pipeline_insights\|论文收件箱]] |
-| ⚙️ 处理中 | **{processing}** | [[20_Processing\|处理区]] |
-| 📤 成果区 | **{output_files}** | [[50_Output\|50_Output 成果区]] |
+| 📄 知识库总文件 | **{total_md:,}** | [[Home\\|根目录/Home]] |
+| 🔬 TCC 资料 | **{tcc_files:,}** | [[30_TCC/TCC_Master_Index\\|TCC 主索引]] |
+| 🧠 iNEST 资料 | **{inest_files:,}** | [[40_iNEST/iNEST_Master_Index\\|iNEST 主索引]] |
+| 📥 待处理论文 | **{inbox}** | [[00_Inbox/_pipeline_insights\\|论文收件箱]] |
+| ⚙️ 处理中 | **{processing}** | [[20_Processing\\|处理区]] |
+| 📤 成果区 | **{output_files}** | [[50_Output\\|50_Output 成果区]] |
 
 ---
 
@@ -275,14 +287,14 @@ Processing → TCC/iNEST → Output
 | 入口 | 解决什么 |
 |---|---|
 | [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html) | 今日做什么、进展、洞察 |
-| [[60_MOC/03_Daily_Action\|每日行动]] | 论文 → 可执行任务 |
-| [[60_MOC/04_Daily_Focus\|今日焦点]] | 当天最重要任务 |
-| [[wiki/index\|Wiki 概念索引]] | {wiki['total']} 个结构化概念 |
-| [[wiki/task_recommendations\|任务推荐]] | 知识缺口驱动任务 |
-| [[60_MOC/TCC_iNEST_成果全景\|成果全景]] | 论文、专利、代码 |
-| [[60_MOC/00_知识库治理中枢\|治理中枢]] | 目录职责与标准 |
-| [[60_MOC/10_Own_Research_Diagnosis\|自有研究诊断]] | 本组产出现状与计划 |
-| [[60_MOC/11_External_Literature_Index\|外部文献索引]] | 爬取内容按来源归类 |
+| [[60_MOC/03_Daily_Action\\|每日行动]] | 论文 → 可执行任务 |
+| [[60_MOC/04_Daily_Focus\\|今日焦点]] | 当天最重要任务 |
+| [[wiki/index\\|Wiki 概念索引]] | {wiki['total']} 个结构化概念 |
+| [[wiki/task_recommendations\\|任务推荐]] | 知识缺口驱动任务 |
+| [[60_MOC/TCC_iNEST_成果全景\\|成果全景]] | 论文、专利、代码 |
+| [[60_MOC/00_知识库治理中枢\\|治理中枢]] | 目录职责与标准 |
+| [[60_MOC/10_Own_Research_Diagnosis\\|自有研究诊断]] | 本组产出现状与计划 |
+| [[60_MOC/11_External_Literature_Index\\|外部文献索引]] | 爬取内容按来源归类 |
 
 ---
 
