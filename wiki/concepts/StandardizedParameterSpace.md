@@ -1,0 +1,33 @@
+# StandardizedParameterSpace
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-01
+
+## Definition
+A methodological framework where each component of the Tc equation (λ_eff, Φ, Ψ, Θ) is normalized to a [0,1] range, ensuring comparability across different network topologies and biological datasets. This standardization allows TCC to integrate heterogeneous biological and synthetic data sources, making the Tc metric robust and transferable across diverse computing substrates.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Attention_Residuals]]
+[[Chiplet_Heterogeneous_Integration]]
+[[CorticalTypeDiversity]]
+[[MetricComputationAuthenticity]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[Next_Gen_AI_Application_Scenarios]]
+[[NoC_Chiplet_Wafer_Stack]]
+[[RTC_Primitive_Set]]
+[[Renormalization_Group_Convergence]]
+[[SuperlinearGain]]
+[[TCC_Topology_Interconnect]]
+[[TemporalComplexity_Tc]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

@@ -1,0 +1,39 @@
+# InMemory_Computing
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-01
+
+## Definition
+A computing paradigm where data processing occurs within the memory array itself, using the physical state of memristors to perform multiply-accumulate operations without data movement. This eliminates the von Neumann bottleneck, a critical advantage for TCC/iNEST systems that require high-throughput, low-latency neural processing at the edge.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Attention_Residuals]]
+[[Contested_Priors_Mechanism]]
+[[Core_Spacetime_Tensor]]
+[[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
+[[Memristive_ANN_Hardware]]
+[[Memristor_Synapse]]
+[[Network_Topology_Design]]
+[[Nonlinear_Gain]]
+[[Renormalization_Group_Convergence]]
+[[SDI_Bond]]
+[[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
+[[Spatiotemporal_Synergy_Complexity]]
+[[SystemLevelNonlinearity]]
+[[TCC_Topology_Interconnect]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*
+
+## Merged From
+- InMemory_Computing (merged 2026-08-01)

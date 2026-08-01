@@ -1,0 +1,33 @@
+# ScaleFreeNetwork
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-01
+
+## Definition
+A network whose degree distribution follows a power law, meaning a few hubs have many connections while most nodes have few. Scale-free topologies are critical for TCC/iNEST because hub-based structures can create fragile points of failure or efficient routing paths depending on how computation is mapped onto the network.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Attention_Residuals]]
+[[Chiplet_Heterogeneous_Integration]]
+[[CorticalTypeDiversity]]
+[[MacroscopicDescriptor]]
+[[MetricComputationAuthenticity]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[Next_Gen_AI_Application_Scenarios]]
+[[NoC_Chiplet_Wafer_Stack]]
+[[RTC_Primitive_Set]]
+[[Renormalization_Group_Convergence]]
+[[SuperlinearGain]]
+[[TemporalComplexity_Tc]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

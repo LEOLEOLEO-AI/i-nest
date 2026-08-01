@@ -1,0 +1,33 @@
+# SmallWorldNetwork
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-01
+
+## Definition
+A network with high local clustering and short average path lengths between any two nodes, enabling efficient information transfer. Small-world properties directly influence latency and synchronization in in-network neuromorphic computing, where local processing and global communication must be balanced.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Attention_Residuals]]
+[[Contested_Priors_Mechanism]]
+[[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
+[[Memristive_ANN_Hardware]]
+[[Memristor_Synapse]]
+[[MetricComputationAuthenticity]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Next_Gen_AI_Application_Scenarios]]
+[[Renormalization_Group_Convergence]]
+[[TCC_Topology_Interconnect]]
+[[TemporalComplexity_Tc]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

@@ -1,126 +1,203 @@
 # Wiki Index
 
-*Auto-generated: 2026-07-30*
+*Auto-generated: 2026-08-01*
 
-## TCC — Topology-Centric Computing (58 concepts)
-- [[AI_Industrial_Ecosystem]]
-- [[Allreduce_Latency_MVP]]
-- [[Alpha_Consistency_Problem]]
-- [[AvalancheBranchingRatio]]
-- [[Chiplet_based_heterogeneous_integration]]
-- [[Chiplet_Heterogeneous_Integration]]
-- [[ChipletWaferInterconnectTopology]]
-- [[Collection_Communication_Diagnostic_Tool]]
-- [[Core_Spacetime_Tensor]]
-- [[CorticalTypeDiversity]]
-- [[CST_Equation]]
-- [[CST_Exponential_Form]]
-- [[CST_Theory]]
-- [[Decoupled_Priors]]
-- [[DTGA]]
-- [[EulaminateOverrepresentation]]
-- [[Evolutionary_Structure_Computability]]
-- [[FlagScale]]
-- [[FPGA_Prototype_Validation]]
-- [[Intelligent_Computing_Infrastructure]]
-- [[Memory_Wall]]
-- [[MultiplicativeGain]]
-- [[Network_on_Chip]]
-- [[Network_on_Chip_communication_architecture]]
-- [[Network_topology_and_interconnection_patterns]]
-- [[Network_Topology_Design]]
-- [[Next_Gen_AI_Application_Scenarios]]
-- [[NoC_Chiplet_iNEST_Wafer]]
-- [[Nonlinear_Parameter_Alpha]]
-- [[P_Paradigm]]
-- [[Renormalization_Group_Emergence]]
-- [[ReproducibleReservoirDynamics]]
-- [[RTC_Primitive]]
-- [[SDI_Bond]]
-- [[SDI_TCC_Chiplet_Interconnect]]
-- [[SDSoW_Architecture]]
-- [[Second_Curve_Wafer_Industry_Platform]]
-- [[Software_Defined_Interconnect_bonding_mechanism]]
-- [[Spacetime_Coupling_Coefficient]]
-- [[StandardizedComponent]]
-- [[SuperlinearGain]]
-- [[SuperparamagneticSwitchingRate]]
-- [[TCC_Core_Layer]]
-- [[TCC_Topology]]
-- [[TCC_Topology_Interconnect]]
-- [[TcComputation]]
-- [[Technology_Innovation_Platform]]
-- [[TemperatureSensitivityControl]]
-- [[ThermallyDrivenSuperparamagnetReservoir]]
-- [[Topology_Centric_Computing]]
-- [[TopologyCentricComputing]]
-- [[TopologyCentricEngineeringBase]]
-- [[TopologyProgramming]]
-- [[Universal_Scaling_Laws]]
-- [[VonNeumann_Complexity_Threshold]]
-- [[Wafer_scale_integration_and_chip_design]]
-- [[Workload_Layer_Separation]]
-- [[Γst_Revision]]
+## TCC — Topology-Centric Computing (84)
+- [[AI_Application_Scenario_Reconstruction]] (13)
+- [[AI_Industrial_Ecosystem]] (13)
+- [[Allreduce_Latency_MVP]] (19)
+- [[Allreduce_Latency_Probe]] (13)
+- [[Alpha_Computation_Consistency]] (14)
+- [[Alpha_Consistency_Problem]] (13)
+- [[AvalancheBranchingRatio]] (13)
+- [[Chiplet_based_heterogeneous_integration]] (15)
+- [[Chiplet_Heterogeneous_Integration]] (153)
+- [[Chiplet_Interconnect_Topology]] (21)
+- [[Chiplet_Wafer_Interconnect_Abstraction]] (12)
+- [[ChipletWaferInterconnectTopology]] (12)
+- [[Collection_Communication_Diagnostic_Tool]] (14)
+- [[Core_Spacetime_Tensor]] (22)
+- [[CorticalTypeDiversity]] (109)
+- [[CST_Equation]] (17)
+- [[CST_Exponential_Form]] (14)
+- [[CST_Theory]] (13)
+- [[Decoupled_Prior_States]] (13)
+- [[Decoupled_Priors]] (14)
+- [[DiagnosticReportFramework]] (15)
+- [[DRBE_MVP_Mainchain]] (13)
+- [[DTGA]] (14)
+- [[EulaminateOverrepresentation]] (19)
+- [[Evolutionary_Structure_Computability]] (14)
+- [[Exponential_CST_Coupling]] (13)
+- [[FlagScale]] (19)
+- [[FPGA_Prototype_Validation]] (14)
+- [[GammaSt_Revision]] (13)
+- [[GranularCortexExclusion]] (16)
+- [[Intelligent_Computing_Infrastructure]] (15)
+- [[Memory_Wall]] (20)
+- [[MultiplicativeGain]] (16)
+- [[Network_on_Chip]] (156)
+- [[Network_on_Chip_communication_architecture]] (15)
+- [[Network_topology_and_interconnection_patterns]] (13)
+- [[Network_Topology_Design]] (150)
+- [[Next_Gen_AI_Application_Scenarios]] (107)
+- [[NoC_Chiplet_iNEST_Wafer]] (24)
+- [[NonAbelian_Gauge_Topology]] (13)
+- [[Nonlinear_Parameter_Alpha]] (14)
+- [[Nonlinear_Topology_Amplification]] (14)
+- [[P_Paradigm]] (31)
+- [[Productized_Subproject]] (0)
+- [[Renormalization_Group_Emergence]] (15)
+- [[ReproducibleReservoirDynamics]] (14)
+- [[RTC_Primitive]] (111)
+- [[RTC_Primitive_Set]] (111)
+- [[SDI_Bond]] (47)
+- [[SDI_TCC_Chiplet]] (21)
+- [[SDI_TCC_Chiplet_Interconnect]] (13)
+- [[SDSoW_Architecture]] (26)
+- [[Second_Curve_Wafer_Industry_Platform]] (21)
+- [[Software_Defined_Interconnect]] (16)
+- [[Software_Defined_Interconnect_bonding_mechanism]] (16)
+- [[Spacetime_Coupling_Coefficient]] (14)
+- [[StandardizedComponent]] (13)
+- [[StandardizedParameterSpace]] (17)
+- [[Structural_Mismatch]] (14)
+- [[SuperlinearGain]] (79)
+- [[SuperlinearGainProof]] (14)
+- [[SuperparamagneticSwitchingRate]] (14)
+- [[TCC_Core_Layer]] (2)
+- [[TCC_Core_Layer_Boundary]] (0)
+- [[TCC_Topology]] (67)
+- [[TCC_Topology_Interconnect]] (64)
+- [[TcComputation]] (14)
+- [[Technology_Innovation_Platform]] (13)
+- [[TemperatureSensitivityControl]] (16)
+- [[TemporalComplexity_Tc]] (95)
+- [[ThermallyDrivenSuperparamagnetReservoir]] (13)
+- [[Topology_Centric_Computing]] (15)
+- [[Topology_Centric_Computing_Paradigm]] (13)
+- [[Topology_Constrained_Stability_Analysis]] (15)
+- [[Topology_Page]] (14)
+- [[TopologyAware_Renormalization]] (14)
+- [[TopologyCentricEngineeringBase]] (13)
+- [[TopologyProgramming]] (16)
+- [[Universal_Scaling_Laws]] (17)
+- [[VonNeumann_Complexity_Threshold]] (13)
+- [[Wafer_scale_integration_and_chip_design]] (14)
+- [[Workload_Layer_Separation]] (1)
+- [[Workload_Layered_Architecture]] (0)
+- [[Γst_Revision]] (15)
 
-## iNEST — In-Network Neuromorphic (27 concepts)
-- [[Complex_Network_Class_Brain_Inspired_Intelligence]]
-- [[Complex_System_Theory]]
-- [[Complexity_Emergence]]
-- [[Contested_Priors_Mechanism]]
-- [[CST_Intelligence_Emergence]]
-- [[DataDrivenCellularAxis]]
-- [[In_Network_Neuromorphic_Processing]]
-- [[iNEST_Neuromorphic_Integration]]
-- [[InNetworkNeuromorphicEmergence]]
-- [[InNetworkNeuromorphicSimulation]]
-- [[Intelligence_Emergence]]
-- [[Memristor_based_synaptic_devices]]
-- [[Memristor_Synapse]]
-- [[National_Mesoscale_Innovation_Center]]
-- [[Neuromorphic_Computing]]
-- [[Neuromorphic_computing_architecture]]
-- [[Nonlinear_Gain]]
-- [[Order_Flexibility_Duality]]
-- [[Reservoir_Computing]]
-- [[SDI_STDP]]
-- [[SDI_STDP_Bond]]
-- [[Spike_timing_dependent_plasticity_learning_rule]]
-- [[Spiking_Neural_Network]]
-- [[Spiking_neural_network_dynamics]]
-- [[ST_SNN]]
-- [[STDP_iNEST]]
-- [[STDP_Plasticity]]
+## iNEST — In-Network Neuromorphic (43)
+- [[AutonomousAdaptation]] (16)
+- [[Complex_Network_Class_Brain_Inspired_Intelligence]] (13)
+- [[Complex_System_Theory]] (32)
+- [[Complexity_Emergence]] (13)
+- [[Complexity_Emergence_Engineering]] (13)
+- [[Constructed_Reality_Interconnect]] (14)
+- [[Contested_Prior_Resolution]] (12)
+- [[Contested_Priors_Mechanism]] (61)
+- [[CST_Intelligence_Emergence]] (13)
+- [[DataDrivenCellularAxis]] (13)
+- [[Emergent_Intelligence_Threshold]] (41)
+- [[Emergent_Intelligence_Verifiability]] (19)
+- [[EmergentOrder]] (12)
+- [[Evolutionary_Pattern_Modeling]] (13)
+- [[Hardware_Accelerated_SNN]] (26)
+- [[In_Network_Neuromorphic_Processing]] (13)
+- [[iNEST_Neuromorphic_Integration]] (20)
+- [[iNEST_Neuromorphic_Topology]] (14)
+- [[InNetworkNeuromorphicEmergence]] (13)
+- [[InNetworkNeuromorphicSimulation]] (12)
+- [[Intelligence_Emergence]] (63)
+- [[MacroscopicDescriptor]] (79)
+- [[Memristor_based_synaptic_devices]] (1)
+- [[Memristor_Synapse]] (60)
+- [[National_Innovation_Center_Role]] (15)
+- [[National_Mesoscale_Innovation_Center]] (13)
+- [[Neuromorphic_Computing]] (87)
+- [[Neuromorphic_computing_architecture]] (17)
+- [[Neuromorphic_Substrate]] (11)
+- [[Nonlinear_Gain]] (38)
+- [[Order_Flexibility_Duality]] (35)
+- [[Reservoir_Computing]] (23)
+- [[SDI_STDP]] (25)
+- [[SDI_STDP_Bond]] (22)
+- [[Spike_timing_dependent_plasticity_learning_rule]] (16)
+- [[Spiking_Neural_Network]] (39)
+- [[Spiking_neural_network_dynamics]] (14)
+- [[ST_SNN]] (17)
+- [[STDP_iNEST]] (17)
+- [[STDP_iNEST_Memristive]] (15)
+- [[STDP_Plasticity]] (32)
+- [[TemporalDynamicsModeling]] (13)
+- [[ThermalNoiseHarnessing]] (15)
 
-## Cross-Domain (28 concepts)
-- [[Analog_Computation]]
-- [[Attention_Residuals]]
-- [[B3_Competition_Landscape]]
-- [[Cognitive_Relapse_Architecture]]
-- [[Complex_System]]
-- [[Deep_Network_Layer_Stacking]]
-- [[Free_Energy_Principle_Network]]
-- [[Heterogeneous_Integration]]
-- [[HodgkinHuxleyDynamics]]
-- [[InMemoryComputing]]
-- [[Macro_System_Description]]
-- [[Memristor_Hardware_ANN]]
-- [[Memristor_Network]]
-- [[Mesoscale_Heterogeneous_Integration]]
-- [[Network_Spatiotemporal_Synergy]]
-- [[NoC_SDI]]
-- [[Residual_Connection]]
-- [[ScaleFreeNetworks]]
-- [[SDI_Four_Rules]]
-- [[SDI_TCC_iNEST_Interconnect]]
-- [[SDSoW]]
-- [[SingleSourceOfTruthMetric]]
-- [[SmallWorldNetworks]]
-- [[SpatiotemporalComplexityIndex]]
-- [[TopologyFragility]]
-- [[vLLM_plugin_FLSDI]]
-- [[Wafer_Scale_Neuromorphic]]
-- [[Wafer_Scale_Neuromorphic_Integration]]
+## Cross-Domain (64)
+- [[AI_Faculty_Forum_2026]] (14)
+- [[Analog_Computation]] (14)
+- [[Analog_Weight_Storage]] (15)
+- [[Attention_Residuals]] (163)
+- [[B3_Competition_Landscape]] (0)
+- [[B3_Paper_Competitive_Landscape]] (0)
+- [[BigBrainCellularAxis]] (13)
+- [[Cognitive_Relapse_Architecture]] (12)
+- [[Complex_System]] (33)
+- [[ComplexSystem_Definition]] (12)
+- [[DataProvenanceIntegrity]] (13)
+- [[Deep_Network_Architecture_Invariant]] (14)
+- [[Deep_Network_Layer_Stacking]] (13)
+- [[Evolutionary_Computability]] (13)
+- [[FlagOS_2_0]] (16)
+- [[Free_Energy_Principle_Network]] (14)
+- [[Free_Energy_Topology_Mapping]] (13)
+- [[Heterogeneous_Integration]] (155)
+- [[HodgkinHuxleyDynamics]] (15)
+- [[In_Network_Neuromorphic_Integration]] (14)
+- [[InMemory_Computing]] (17)
+- [[InNetwork_CST_Offload]] (13)
+- [[Macro_System_Description]] (15)
+- [[Memristive_ANN_Hardware]] (65)
+- [[Memristive_STDP]] (14)
+- [[Memristor_Hardware_ANN]] (14)
+- [[Memristor_Network]] (13)
+- [[Mesoscale_Heterogeneous_Integration]] (23)
+- [[MetaFAIR_ArchitectureDiscovery]] (13)
+- [[MetricComputationAuthenticity]] (158)
+- [[MultiplicativeGainCondition]] (14)
+- [[Network_Spatiotemporal_Synergy]] (13)
+- [[NoC_Chiplet_Wafer_Stack]] (147)
+- [[NoC_SDI]] (19)
+- [[Patent_Textbook_Synchronization]] (0)
+- [[Renormalization_Group_Convergence]] (189)
+- [[RenormalizationGroup_ScalingLaws]] (10)
+- [[ReproducibleReservoirComputing]] (13)
+- [[Residual_Connection]] (17)
+- [[Residual_Connection_Removal]] (17)
+- [[ScaleFreeNetwork]] (14)
+- [[ScaleFreeNetworks]] (13)
+- [[SDI_Four_Rules]] (18)
+- [[SDI_TCC_iNEST_Interconnect]] (16)
+- [[SDSoW]] (23)
+- [[SDSoW_Industry_Alliance]] (15)
+- [[SDSoW_Strategic_Planning]] (16)
+- [[Second_Curve_Industry_Platform]] (14)
+- [[SimulationReproducibilityAudit]] (10)
+- [[SingleSourceOfTruthMetric]] (14)
+- [[SmallWorldNetwork]] (40)
+- [[SmallWorldNetworks]] (13)
+- [[Spatiotemporal_Synergy_Complexity]] (30)
+- [[SpatiotemporalComplexityIndex]] (13)
+- [[SSOT_Metric_Definition]] (0)
+- [[SystemLevelNonlinearity]] (32)
+- [[Textbook_Paradigm_Definition]] (16)
+- [[TopologicalFragility]] (13)
+- [[TopologyFragility]] (13)
+- [[UniversalIntelligence_Emergence]] (16)
+- [[vLLM_plugin_FLSDI]] (15)
+- [[Wafer_Scale_Interconnect_Memristor]] (16)
+- [[Wafer_Scale_Neuromorphic]] (21)
+- [[Wafer_Scale_Neuromorphic_Integration]] (14)
 
 ---
-**Total**: 113 concepts
-**Articles**: 27
+**Total**: 191 concepts | **Articles**: 27 | **Orphans**: 70
