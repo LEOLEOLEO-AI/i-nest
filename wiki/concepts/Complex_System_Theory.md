@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Four_Rules]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]

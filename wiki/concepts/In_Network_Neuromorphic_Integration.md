@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]

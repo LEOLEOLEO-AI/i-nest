@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]
+[[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
 
 ## Sources

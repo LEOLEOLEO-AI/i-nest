@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC_Topology]]
 [[TCC_Topology_Interconnect]]
+[[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
 
 ## Sources

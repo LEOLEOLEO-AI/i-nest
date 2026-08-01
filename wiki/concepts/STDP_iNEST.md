@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[iNEST]]
 [[三原理协同_FEP_STDP_最小作用量]]
+[[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
+[[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
 
 ## Sources

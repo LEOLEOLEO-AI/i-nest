@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_Interconnect_bonding_mechanism]]
 [[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]
+[[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
 [[Wafer_Scale_Neuromorphic]]
 

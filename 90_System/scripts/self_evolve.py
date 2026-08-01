@@ -71,12 +71,42 @@ def step_grow():
     return rc == 0
 
 
+def extract_aliases(txt):
+    """轻量解析 frontmatter 的 aliases: 列表(无需 yaml 依赖)。"""
+    als = []
+    if not txt.startswith("---"):
+        return als
+    end = txt.find("\n---", 3)
+    if end == -1:
+        return als
+    fm = txt[3:end]
+    in_alias = False
+    for ln in fm.split("\n"):
+        s = ln.strip()
+        if s.startswith("aliases:"):
+            in_alias = True
+            continue
+        if in_alias:
+            if s.startswith("- "):
+                v = s[2:].strip().strip('"').strip("'")
+                if v:
+                    als.append(v)
+            elif s and not s.startswith("#"):
+                in_alias = False
+    return als
+
+
 def analyze_links():
-    """纯本地扫描全库链接, 返回解析集合与断链频率。无 LLM。"""
+    """纯本地扫描全库链接, 返回解析集合与断链频率。无 LLM。
+
+    链接解析贴近 Obsidian: 裸链接/路径链接/附件链接/文件夹链接, 以及
+    frontmatter 中的 aliases: 别名解析。
+    """
     note_basenames = set()
     note_paths = set()      # 相对路径(去 .md)
     file_paths = set()      # 所有文件相对路径(去扩展名 + 带扩展名)
     dirs = set()
+    aliases = set()         # 各笔记 frontmatter 中的别名(也参与解析)
     link_re = re.compile(r"\[\[([^\]]+)\]]")
     for f in VAULT.rglob("*"):
         rel = f.relative_to(VAULT).as_posix()
@@ -105,6 +135,9 @@ def analyze_links():
             continue
         if not txt.lstrip().startswith("---"):
             missing_fm += 1
+        else:
+            for a in extract_aliases(txt):
+                aliases.add(a)
         for m in link_re.findall(txt):
             raw = m.replace("\\|", "|")          # Obsidian 转义别名分隔符 [[A\|B]]
             tgt = raw.split("|")[0].split("#")[0].strip().rstrip("\\").strip()
@@ -115,7 +148,7 @@ def analyze_links():
     for name, tgts in outgoing.items():
         for t in tgts:
             ok = (t in note_basenames) or (t in note_paths) or \
-                 (t in file_paths) or (t in dirs)
+                 (t in file_paths) or (t in dirs) or (t in aliases)
             if ok and (t in note_basenames or t in note_paths):
                 incoming[t].add(name)
             if not ok and not t.isdigit():   # 纯数字链接(列表/脚注) 非真实断链, 不计

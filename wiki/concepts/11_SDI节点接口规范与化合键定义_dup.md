@@ -31,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Network_topology_and_interconnection_patterns]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[TopologyFragility]]
 [[iNEST]]

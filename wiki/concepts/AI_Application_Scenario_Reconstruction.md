@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
+[[TemperatureSensitivityControl]]
 [[TopologyFragility]]
 [[vLLM_plugin_FLSDI]]
 

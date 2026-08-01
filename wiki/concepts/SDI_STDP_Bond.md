@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ScaleFreeNetworks]]
 [[Spiking_Neural_Network]]
 [[SystemLevelNonlinearity]]

@@ -39,5 +39,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[STDP_iNEST]]
 [[SystemLevelNonlinearity]]
 [[iNEST]]

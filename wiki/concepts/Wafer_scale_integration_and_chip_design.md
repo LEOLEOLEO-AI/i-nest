@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]
+[[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
 [[Wafer_Scale_Interconnect_Memristor]]
 

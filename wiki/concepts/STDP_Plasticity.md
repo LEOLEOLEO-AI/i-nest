@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
+[[STDP_iNEST]]
 [[STDP_iNEST_Memristive]]
 [[ST_SNN]]
 [[ScaleFreeNetworks]]

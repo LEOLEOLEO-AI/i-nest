@@ -35,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]

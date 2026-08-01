@@ -38,6 +38,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Residual_Connection_Removal]]
+[[STDP_iNEST]]
 [[SystemLevelNonlinearity]]
 [[VonNeumann_Complexity_Threshold]]
 [[iNEST]]

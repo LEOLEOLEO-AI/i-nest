@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
+[[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
 
 ## Sources

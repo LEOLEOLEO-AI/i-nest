@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]
+[[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
 [[iNEST]]
 

@@ -31,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuromorphic_computing_architecture]]
 [[NoC_SDI]]
 [[SDI_Bond]]
+[[STDP_iNEST]]
 [[SmallWorldNetwork]]
 [[iNEST]]
 [[拓扑深度学习捕捉数据的高阶关系：信息传递拓扑神经网络概述]]

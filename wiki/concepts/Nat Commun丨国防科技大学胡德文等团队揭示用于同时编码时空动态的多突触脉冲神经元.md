@@ -28,6 +28,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
+[[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]

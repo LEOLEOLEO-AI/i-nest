@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[SmallWorldNetwork]]
 [[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]

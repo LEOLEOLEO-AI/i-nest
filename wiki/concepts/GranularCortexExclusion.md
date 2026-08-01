@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[StandardizedParameterSpace]]
 [[SystemLevelNonlinearity]]
+[[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
 [[Wafer_Scale_Interconnect_Memristor]]
 

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Four_Rules]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[SingleSourceOfTruthMetric]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]

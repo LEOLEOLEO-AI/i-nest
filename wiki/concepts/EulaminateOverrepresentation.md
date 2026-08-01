@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]
+[[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
 [[Topology_Centric_Computing]]
 [[Wafer_Scale_Interconnect_Memristor]]
