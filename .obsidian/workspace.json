@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":203.17465956187093}"
+                },
+                {
+                  "title": "六个自然常数",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"六个自然常数.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"六个自然常数\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "iNEST_Master_Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_iNEST/iNEST_Master_Index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"iNEST_Master_Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "iNEST_RnD_SuperFlow_v3",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_iNEST/iNEST_RnD_SuperFlow_v3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"iNEST_RnD_SuperFlow_v3\"}",
@@ -106,7 +124,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_iNEST/iNEST_Master_Index.md",
+                "file": "schema.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -121,7 +139,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "iNEST_Master_Index"
+              "title": "schema"
             }
           }
         ]
@@ -418,12 +436,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 486.5,
-    "collapsed": true
+    "width": 486.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -450,8 +467,15 @@
       "claudian-plus:Open Claudian Plus": false
     }
   },
-  "active": "07ec837305146da6",
+  "active": "013257bb46529241",
   "lastOpenFiles": [
+    "Home.md",
+    "六个自然常数.md",
+    "40_iNEST/iNEST_Master_Index.md",
+    "raw/imports/iNEST理论体系完整知识文档.md",
+    "wiki/concepts/术语对照表.md",
+    "wiki/concepts/智造讲堂：智能制造与装备发展路径 (1).md",
+    "wiki/concepts/梅宏院士：如何构造人工群体智能？ (1).md",
     "90_System/scripts/__pycache__/task_recommender.cpython-310.pyc",
     "90_System/scripts/__pycache__/homepage_generator.cpython-310.pyc",
     "90_System/scripts/__pycache__/self_evolve.cpython-310.pyc",
@@ -472,16 +496,10 @@
     "30_TCC/31_Theory/智能连接：碳原子与Token.md",
     "30_TCC/31_Theory/智造讲堂：智能制造与装备发展路径 (1).md",
     "30_TCC/31_Theory/智能的本质不是数据、算法、算力和知识（一）.md",
-    "Home.md",
     "30_TCC/31_Theory/物理涌现智能与复杂网络学科方向.md",
     "30_TCC/31_Theory/演讲实录丨廖湘科院士：智能制造时代的基础软件.md",
     "30_TCC/31_Theory/中科院脑智卓越中心ICML 2026研究_三节点motif分层理论开创神经网络定制化优化新路径.md",
     "30_TCC/31_Theory/Softmax_Evolution_History_Physics_Statistics_AI.md",
-    "30_TCC/31_Theory/getnote_2026-06-15_大脑的量子纠缠与信息动力学.md",
-    "30_TCC/31_Theory/大脑任务切换的神经机制__整洁_框架与_杂乱_现实的整合研究.md",
-    "30_TCC/31_Theory/Nature Communications研究_人类记忆中皮层行波的多样化传播模式及其行为关联.md",
-    "30_TCC/31_Theory/大脑的量子纠缠与信息动力学.md",
-    "30_TCC/31_Theory/getnote_2026-06-16_getnote_2026-06-16_人类连接组拓扑结构指导皮层行波传播与频率梯度形成.md",
     "90_System/scripts/homepage_generator.py",
     "state/wiki_compiler_state.json",
     "90_System/scripts/__pycache__/task_planner.cpython-313.pyc",
@@ -489,7 +507,6 @@
     "90_System/scripts/__pycache__/processing_workflow.cpython-313.pyc",
     "90_System/scripts/__pycache__/link_engine.cpython-313.pyc",
     "90_System/scripts/__pycache__/gen_insights.cpython-313.pyc",
-    "90_System/scripts/__pycache__/deep_analyze_v2.cpython-313.pyc",
     "笔记同步助手/images/8cc926c5ddc3df38df986b22ad059065_MD5.png",
     "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_11.png",
     "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_9.png",
