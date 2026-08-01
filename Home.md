@@ -4,7 +4,7 @@ cssclass: dashboard
 
 # 🔬 TCC × iNEST 自进化研发中枢
 
-> **知识库状态：活跃** | 管线：⚠️ paused | Git: 187 uncommitted | 更新：2026-08-01 09:20
+> **知识库状态：活跃** | 管线：⚠️ paused | Git: 187 uncommitted | 更新：2026-08-01 09:21
 
 ---
 
@@ -165,4 +165,4 @@ Processing → TCC/iNEST → Output
 
 ---
 
-*主页由 homepage_generator.py 自动刷新 | 2026-08-01 09:20*
+*主页由 homepage_generator.py 自动刷新 | 2026-08-01 09:21*

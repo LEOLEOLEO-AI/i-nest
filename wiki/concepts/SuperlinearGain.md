@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TCC_Topology_Interconnect]]
+[[TemporalComplexity_Tc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

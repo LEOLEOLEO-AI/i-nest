@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Spacetime_Coupling_Coefficient]]
+[[TemporalComplexity_Tc]]
 [[Topology_Centric_Computing]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[vLLM_plugin_FLSDI]]

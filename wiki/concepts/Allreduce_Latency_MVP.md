@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
+[[TemporalComplexity_Tc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

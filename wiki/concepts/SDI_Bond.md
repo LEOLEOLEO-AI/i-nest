@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_Interconnect_bonding_mechanism]]
 [[Spacetime_Coupling_Coefficient]]
 [[Structural_Mismatch]]
+[[TemporalComplexity_Tc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
+[[TemporalComplexity_Tc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[Spacetime_Coupling_Coefficient]]
+[[TemporalComplexity_Tc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetwork]]
 [[Spacetime_Coupling_Coefficient]]
 [[Spiking_Neural_Network]]
+[[TemporalComplexity_Tc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

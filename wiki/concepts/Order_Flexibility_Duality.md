@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[ScaleFreeNetwork]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -13,7 +13,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Attention_Residuals]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Heterogeneous_Integration]]
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]

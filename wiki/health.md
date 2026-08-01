@@ -6,7 +6,7 @@
 ## Stats
 - **Total Concepts**: 191
 - **Total Articles**: 27
-- **Orphan Concepts**: 65
+- **Orphan Concepts**: 64
 - **Knowledge Graph Density**: Medium
 
 ## Orphan Concepts (no incoming links)
@@ -31,7 +31,6 @@
 - [[Decoupled_Prior_States]]
 - [[Deep_Network_Layer_Stacking]]
 - [[Evolutionary_Computability]]
-- [[Exponential_CST_Coupling]]
 - [[FlagOS_2_0]]
 - [[Free_Energy_Topology_Mapping]]
 - [[GammaSt_Revision]]
@@ -50,7 +49,8 @@
 - [[Network_topology_and_interconnection_patterns]]
 - [[Neuromorphic_Substrate]]
 - [[NonAbelian_Gauge_Topology]]
-- ... 25 more
+- [[Patent_Textbook_Synchronization]]
+- ... 24 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 
 ## Sources

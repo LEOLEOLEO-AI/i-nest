@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
 [[Hardware_Accelerated_SNN]]
+[[Heterogeneous_Integration]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[Residual_Connection_Removal]]

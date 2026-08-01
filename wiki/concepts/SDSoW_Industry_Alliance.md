@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
+[[TemporalComplexity_Tc]]
 [[Universal_Scaling_Laws]]
 
 ## Sources

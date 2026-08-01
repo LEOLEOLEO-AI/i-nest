@@ -14,10 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Alpha_Computation_Consistency]]
 [[Analog_Computation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Core_Spacetime_Tensor]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Renormalization_Group_Convergence]]
 [[ReproducibleReservoirDynamics]]

@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CorticalTypeDiversity]]
 [[DataProvenanceIntegrity]]
+[[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[MetricComputationAuthenticity]]
 [[Network_on_Chip]]

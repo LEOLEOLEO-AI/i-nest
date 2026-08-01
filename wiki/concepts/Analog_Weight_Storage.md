@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
 [[Memristor_Synapse]]

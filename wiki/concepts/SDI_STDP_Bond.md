@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
+[[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Synapse]]

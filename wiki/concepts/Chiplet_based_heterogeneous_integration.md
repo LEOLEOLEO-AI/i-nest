@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[Spacetime_Coupling_Coefficient]]
 [[StandardizedParameterSpace]]
+[[TemporalComplexity_Tc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

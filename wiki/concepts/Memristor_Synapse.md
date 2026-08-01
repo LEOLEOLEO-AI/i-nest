@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
 [[Neuromorphic_Computing]]

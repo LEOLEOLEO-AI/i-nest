@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[ScaleFreeNetwork]]
 [[SmallWorldNetwork]]
 [[Spiking_Neural_Network]]
 

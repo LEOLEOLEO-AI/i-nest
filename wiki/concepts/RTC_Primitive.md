@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[TCC_Topology]]
 [[TCC_Topology_Interconnect]]
+[[TemporalComplexity_Tc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

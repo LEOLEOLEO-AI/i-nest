@@ -96,9 +96,11 @@ def step_vault_health():
             continue
         if f.is_file():
             noext = rel[:-len(f.suffix)] if f.suffix else rel
-            file_paths.add(noext)
+            file_paths.add(rel)        # 带扩展名 (附件/路径+扩展名链接)
+            file_paths.add(noext)      # 去扩展名 (路径式链接)
             if f.suffix.lower() == ".md":
-                note_paths.add(noext)
+                note_paths.add(noext)  # 路径式笔记链接
+                note_paths.add(rel)    # [[Note.md]] 形式
                 note_basenames.add(f.stem)
     missing_fm = 0
     outgoing = defaultdict(set)   # note basename -> {targets}

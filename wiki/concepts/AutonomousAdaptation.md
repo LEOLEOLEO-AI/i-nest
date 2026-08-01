@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]
 [[Evolutionary_Pattern_Modeling]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Network_on_Chip]]

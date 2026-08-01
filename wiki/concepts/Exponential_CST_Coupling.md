@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_TCC_Chiplet_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
 [[TemporalComplexity_Tc]]
 

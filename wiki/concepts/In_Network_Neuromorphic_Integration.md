@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
+[[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]

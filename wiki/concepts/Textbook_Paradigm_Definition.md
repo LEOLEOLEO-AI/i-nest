@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[DiagnosticReportFramework]]
 [[Heterogeneous_Integration]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGainProof]]
 [[SystemLevelNonlinearity]]
+[[TemporalComplexity_Tc]]
 [[TopologyProgramming]]
 [[Topology_Centric_Computing]]
 

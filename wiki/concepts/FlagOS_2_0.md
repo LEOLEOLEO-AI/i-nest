@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Core_Spacetime_Tensor]]
 [[Emergent_Intelligence_Threshold]]
+[[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
