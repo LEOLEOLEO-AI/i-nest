@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[NonAbelian_Gauge_Topology]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_STDP_Bond]]
 [[Spacetime_Coupling_Coefficient]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]

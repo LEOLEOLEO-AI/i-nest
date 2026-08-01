@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
 [[Emergent_Intelligence_Threshold]]
+[[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]

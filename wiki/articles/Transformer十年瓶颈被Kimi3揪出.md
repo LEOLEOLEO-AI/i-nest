@@ -17,4 +17,6 @@
 ## Related Concepts
 
 [[Attention_Residuals]]
-[[神经网络]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[涌现动力学如何用来分析复杂系统？]]

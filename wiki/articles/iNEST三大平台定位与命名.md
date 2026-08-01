@@ -20,4 +20,5 @@ NoC, chiplet, iNEST, wafer, 拓扑, 晶圆, 芯粒
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[TCC]]
 [[iNEST]]

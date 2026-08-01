@@ -25,10 +25,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
-[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
+[[EulaminateOverrepresentation]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[SDI_STDP_Bond]]
+[[VonNeumann_Complexity_Threshold]]
 [[iNEST]]

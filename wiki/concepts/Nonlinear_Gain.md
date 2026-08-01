@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_Four_Rules]]
+[[SDI_STDP_Bond]]
 [[SingleSourceOfTruthMetric]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]

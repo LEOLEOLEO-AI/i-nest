@@ -1,38 +1,39 @@
 # Cross-Domain Insights
 
-**Generated**: 2026-07-31
+**Generated**: 2026-08-01
 
 ## Active Bridges (5)
 
-### Chiplet_Heterogeneous_Neuromorphic (Strength: 8)
-Chiplet-based heterogeneous integration enables combining CMOS logic with memristor crossbar arrays for neuromorphic acceleration.
-- TCC concepts: [[Allreduce_Latency_MVP]], [[ChipletWaferInterconnectTopology]], [[Chiplet_based_heterogeneous_integration]]
-- iNEST concepts: [[Complexity_Emergence]], [[Contested_Priors_Mechanism]], [[CST_Intelligence_Emergence]]
-
-### NoC_Spiking_Routing (Strength: 8)
-NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude.
-- TCC concepts: [[CorticalTypeDiversity]], [[Decoupled_Priors]], [[Intelligent_Computing_Infrastructure]]
-- iNEST concepts: [[iNEST_Neuromorphic_Integration]], [[SDI_STDP]], [[SDI_STDP_Bond]]
-
-### WaferScale_Neuromorphic (Strength: 6)
+### WaferScale_Neuromorphic (Strength: 36)
 Wafer-scale integration could enable massive-scale neuromorphic chips with millions of neurons on a single die.
-- TCC concepts: [[ChipletWaferInterconnectTopology]], [[NoC_Chiplet_iNEST_Wafer]], [[SDI_Bond]]
-- iNEST concepts: [[Complexity_Emergence]], [[Complex_Network_Class_Brain_Inspired_Intelligence]], [[Contested_Priors_Mechanism]]
+- TCC concepts: [[AI_Application_Scenario_Reconstruction]], [[AI_Industrial_Ecosystem]], [[Allreduce_Latency_MVP]]
+- iNEST concepts: [[Complexity_Emergence]], [[Complex_Network_Class_Brain_Inspired_Intelligence]], [[Complex_System_Theory]]
 
-### SDI_Plastic_Interconnect (Strength: 6)
+### Chiplet_Heterogeneous_Neuromorphic (Strength: 35)
+Chiplet-based heterogeneous integration enables combining CMOS logic with memristor crossbar arrays for neuromorphic acceleration.
+- TCC concepts: [[AI_Application_Scenario_Reconstruction]], [[AI_Industrial_Ecosystem]], [[Allreduce_Latency_MVP]]
+- iNEST concepts: [[Complexity_Emergence]], [[Complex_Network_Class_Brain_Inspired_Intelligence]], [[Complex_System_Theory]]
+
+### NoC_Spiking_Routing (Strength: 20)
+NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude.
+- TCC concepts: [[AI_Industrial_Ecosystem]], [[Allreduce_Latency_MVP]], [[Allreduce_Latency_Probe]]
+- iNEST concepts: [[Contested_Priors_Mechanism]], [[Hardware_Accelerated_SNN]], [[iNEST_Neuromorphic_Integration]]
+
+### SDI_Plastic_Interconnect (Strength: 17)
 SDI's software-defined interconnect could implement plastic (reconfigurable) network topologies inspired by synaptic plasticity.
-- TCC concepts: [[Allreduce_Latency_MVP]], [[ChipletWaferInterconnectTopology]], [[Collection_Communication_Diagnostic_Tool]]
-- iNEST concepts: [[Contested_Priors_Mechanism]], [[SDI_STDP]], [[SDI_STDP_Bond]]
+- TCC concepts: [[AI_Application_Scenario_Reconstruction]], [[AI_Industrial_Ecosystem]], [[Allreduce_Latency_MVP]]
+- iNEST concepts: [[AutonomousAdaptation]], [[Contested_Priors_Mechanism]], [[Emergent_Intelligence_Verifiability]]
 
 ### Topology_Brain_Connectome (Strength: 1)
 Brain connectome topology patterns can inspire optimal NoC topologies for wafer-scale AI chips.
-- TCC concepts: [[AI_Industrial_Ecosystem]], [[Alpha_Consistency_Problem]], [[AvalancheBranchingRatio]]
+- TCC concepts: [[AI_Application_Scenario_Reconstruction]], [[AI_Industrial_Ecosystem]], [[Allreduce_Latency_MVP]]
 - iNEST concepts: [[InNetworkNeuromorphicSimulation]]
 
-## Cross-Domain Papers (1)
+## Cross-Domain Papers (2)
+- TCC_iNEST_教材编写规划 (cross-score: 7)
 - Hassabis_访谈_自然演化如何塑造可计算的系统结构 (cross-score: 4)
 
 ## Suggested Research Directions
+- **WaferScale_Neuromorphic**: Wafer-scale integration could enable massive-scale neuromorphic chips with millions of neurons on a single die.
 - **Chiplet_Heterogeneous_Neuromorphic**: Chiplet-based heterogeneous integration enables combining CMOS logic with memristor crossbar arrays for neuromorphic acceleration.
 - **NoC_Spiking_Routing**: NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude.
-- **WaferScale_Neuromorphic**: Wafer-scale integration could enable massive-scale neuromorphic chips with millions of neurons on a single die.

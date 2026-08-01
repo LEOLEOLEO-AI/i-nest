@@ -4,7 +4,7 @@ cssclass: dashboard
 
 # 🔬 TCC × iNEST 自进化研发中枢
 
-> **知识库状态：活跃** | 管线：⚠️ paused | Git: 226 uncommitted | 更新：2026-08-01 09:27
+> **知识库状态：活跃** | 管线：⚠️ paused | Git: 242 uncommitted | 更新：2026-08-01 10:07
 
 ---
 
@@ -12,7 +12,7 @@ cssclass: dashboard
 
 | 维度 | 数值 | 入口 |
 |---|---|---|
-| 📄 知识库总文件 | **5,935** | [[Home\|根目录/Home]] |
+| 📄 知识库总文件 | **5,940** | [[Home\|根目录/Home]] |
 | 🔬 TCC 资料 | **1,890** | [[30_TCC/TCC_Master_Index\|TCC 主索引]] |
 | 🧠 iNEST 资料 | **1,433** | [[40_iNEST/iNEST_Master_Index\|iNEST 主索引]] |
 | 📥 待处理论文 | **132** | [[00_Inbox/_pipeline_insights\|论文收件箱]] |
@@ -27,7 +27,7 @@ cssclass: dashboard
 |---|---|---|
 | 🏷️ 概念总数 | **191** | TCC=84, iNEST=43, Cross=64 |
 | 📝 编译文章 | **27** | raw/ → wiki/articles/ |
-| 🌉 跨域桥梁 | **3** | 强度 8/8/6 |
+| 🌉 跨域桥梁 | **3** | 强度 36/35/20 |
 
 **入口**：[[wiki/index|Wiki 概念索引]] · [[wiki/health|知识健康报告]] · [[wiki/cross_domain_insights|跨域洞察]] · [[wiki/task_recommendations|任务推荐]]
 
@@ -37,9 +37,9 @@ cssclass: dashboard
 
 | # | 桥梁 | 强度 | 核心洞察 |
 |---|---|---|---|
-| 1 | **Chiplet × Heterogeneous × Neuromorphic** | 8 | Chiplet-based heterogeneous integration enables combining CMOS logic with memris |
-| 2 | **NoC × Spiking × Routing** | 8 | NoC routing algorithms could be redesigned for event-driven spike packet deliver |
-| 3 | **WaferScale × Neuromorphic** | 6 | Wafer-scale integration could enable massive-scale neuromorphic chips with milli |
+| 1 | **WaferScale × Neuromorphic** | 36 | Wafer-scale integration could enable massive-scale neuromorphic chips with milli |
+| 2 | **Chiplet × Heterogeneous × Neuromorphic** | 35 | Chiplet-based heterogeneous integration enables combining CMOS logic with memris |
+| 3 | **NoC × Spiking × Routing** | 20 | NoC routing algorithms could be redesigned for event-driven spike packet deliver |
 
 > 全部桥梁 → [[wiki/cross_domain_insights|跨域洞察完整报告]]
 
@@ -56,7 +56,7 @@ cssclass: dashboard
 >[!tip] 知识库维护
 >- [[wiki/task_recommendations|查看自动推荐任务]]
 >- [[60_MOC/07_Pipeline_Status|管线状态]]：`⚠️ paused`
->- Git：226 uncommitted changes
+>- Git：242 uncommitted changes
 
 **入口**：[[60_MOC/03_Daily_Action|每日行动]] · [[60_MOC/04_Daily_Focus|今日焦点]] · [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html)
 
@@ -165,4 +165,4 @@ Processing → TCC/iNEST → Output
 
 ---
 
-*主页由 homepage_generator.py 自动刷新 | 2026-08-01 09:27*
+*主页由 homepage_generator.py 自动刷新 | 2026-08-01 10:07*

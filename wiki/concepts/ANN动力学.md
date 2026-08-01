@@ -33,5 +33,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Network_Topology_Design]]
 [[Order_Flexibility_Duality]]
 [[SDI_Bond]]
+[[SDI_STDP_Bond]]
 [[SmallWorldNetworks]]
 [[iNEST]]

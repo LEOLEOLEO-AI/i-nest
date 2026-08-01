@@ -26,8 +26,12 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_based_heterogeneous_integration]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
+[[SDI_STDP_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Textbook_Paradigm_Definition]]
+[[VonNeumann_Complexity_Threshold]]

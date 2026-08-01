@@ -207,7 +207,47 @@
       "file": "00_Inbox\\_pipeline_insights\\2026-07-31_arXiv_An Interaction Sensitivity Framework in Perturbation Space f.md",
       "discovered": "2026-07-31",
       "status": "pending_review"
+    },
+    {
+      "title": "Synchronization, Kinematic Waves and Spike-Phase-Separation in Feedback Ising Neural Networks on Heterogeneous Graphs",
+      "url": "http://arxiv.org/abs/2607.28275v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-01_arXiv_Synchronization, Kinematic Waves and Spike-Phase-Separation .md",
+      "discovered": "2026-08-01",
+      "status": "pending_review"
+    },
+    {
+      "title": "Nanoparticle Networks for Neuromorphic Computing",
+      "url": "http://arxiv.org/abs/2607.27844v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-01_arXiv_Nanoparticle Networks for Neuromorphic Computing.md",
+      "discovered": "2026-08-01",
+      "status": "pending_review"
+    },
+    {
+      "title": "GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation",
+      "url": "http://arxiv.org/abs/2607.28397v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-01_arXiv_GLM-RAG Graph Language Models for Graph-Based Retrieval-Augm.md",
+      "discovered": "2026-08-01",
+      "status": "pending_review"
+    },
+    {
+      "title": "Dynamics-matched Physical Reservoir Computing for Undersensed Traffic Prediction",
+      "url": "http://arxiv.org/abs/2607.27371v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-01_arXiv_Dynamics-matched Physical Reservoir Computing for Undersense.md",
+      "discovered": "2026-08-01",
+      "status": "pending_review"
+    },
+    {
+      "title": "Anisotropic Tensile Strength and Fracture Mechanism of $θ$-TaN: A Machine-Learning Potential Molecular Dynamics Study",
+      "url": "http://arxiv.org/abs/2607.27608v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-01_arXiv_Anisotropic Tensile Strength and Fracture Mechanism of $θ$-T.md",
+      "discovered": "2026-08-01",
+      "status": "pending_review"
     }
   ],
-  "last_updated": "2026-07-31T08:22:14.913635"
+  "last_updated": "2026-08-01T09:27:46.684935"
 }

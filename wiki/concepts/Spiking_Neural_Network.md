@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
+[[ScaleFreeNetworks]]
 [[SmallWorldNetwork]]
 [[Spiking_neural_network_dynamics]]
 [[SystemLevelNonlinearity]]

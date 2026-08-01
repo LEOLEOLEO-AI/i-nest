@@ -16,11 +16,13 @@ SNN, STDP, iNEST, 忆阻, 拓扑, 神经形态
 
 ## Related Concepts
 
+[[Complex_System_Theory]]
 [[DTGA]]
+[[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[神经网络]]
+[[涌现动力学如何用来分析复杂系统？]]

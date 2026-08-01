@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NonAbelian_Gauge_Topology]]
 [[Renormalization_Group_Convergence]]
+[[SDI_STDP_Bond]]
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
 [[TCC_Topology_Interconnect]]

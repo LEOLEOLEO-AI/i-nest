@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST_Memristive]]
 [[ST_SNN]]
+[[ScaleFreeNetworks]]
 [[Spiking_Neural_Network]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]

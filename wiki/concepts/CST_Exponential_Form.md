@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
+[[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetricComputationAuthenticity]]

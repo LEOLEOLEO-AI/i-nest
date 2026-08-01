@@ -15,7 +15,7 @@ refs: 6
 
 - [[vault_health]]
 - [[Nature_Electronics_基于忆阻器异质集成架构的傅里叶变换系统]]
-- [[00_项目-论文-专利-技术四线映射表]]
+- [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 - [[SDI赋能一体化协同作战（晶上联盟SDI论坛）.pptx]]
 - [[华为首提“业务驱动基础架构”（SDI）-郭涛的存储世界-51CTO博客]]
 - [[AI已迷失方向？强化学习教父Sutton最新发布OaK架构，挑战当前AI范式，提出超级智能新构想]]
@@ -25,8 +25,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
-[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_based_heterogeneous_integration]]
+[[Complex_System_Theory]]
+[[EulaminateOverrepresentation]]
+[[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
 [[SDI_Bond]]
+[[SDI_STDP_Bond]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]

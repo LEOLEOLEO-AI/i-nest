@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[STDP_iNEST_Memristive]]
 [[ST_SNN]]
+[[ScaleFreeNetworks]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[UniversalIntelligence_Emergence]]

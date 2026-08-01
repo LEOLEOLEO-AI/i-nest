@@ -16,7 +16,7 @@ refs: 6
 - [[vault_health]]
 - [[06_引用模板_答辩与论文]]
 - [[Nature_Electronics_基于忆阻器异质集成架构的傅里叶变换系统]]
-- [[00_项目-论文-专利-技术四线映射表]]
+- [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 - [[P1-2_基于查找表的网内二值化神经网络硬件加速装置及方法_交底书框架]]
 - [[NSFC专项项目指南_v1]]
 
@@ -25,5 +25,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[AI-ML — 全景导航 (Map of Content)]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[iNEST]]
+[[涌现动力学如何用来分析复杂系统？]]

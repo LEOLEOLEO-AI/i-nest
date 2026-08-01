@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Renormalization_Group_Emergence]]
 [[Residual_Connection_Removal]]
+[[SDI_STDP_Bond]]
 [[Spacetime_Coupling_Coefficient]]
 [[Universal_Scaling_Laws]]
 [[iNEST]]

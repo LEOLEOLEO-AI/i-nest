@@ -784,5 +784,150 @@
       "已提交 199 个文件。",
       "已推送 github main。"
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "time": "2026-08-01T09:26:27.156406",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-01",
+        "total_notes": 4463,
+        "missing_frontmatter": 1274,
+        "broken_links": 1716,
+        "broken_samples": [
+          [
+            "ClearSight: 基于事件相机与生物启发的运动去模糊研究",
+            28
+          ],
+          [
+            "知识库健康诊断 (Self-Health Dashboard)",
+            16
+          ],
+          [
+            "待分类",
+            16
+          ],
+          [
+            "iNEST 机构 — 全景导航 (Map of Content)",
+            14
+          ],
+          [
+            "神经形态计算",
+            11
+          ],
+          [
+            "02 复杂性：什么样的系统是复杂系统？ - 得到APP",
+            11
+          ],
+          [
+            "10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点",
+            11
+          ],
+          [
+            "2025年10月28号 日记",
+            11
+          ],
+          [
+            "Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化",
+            11
+          ],
+          [
+            "2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly",
+            10
+          ],
+          [
+            "30_TCC\\34_Projects\\_from_ideas\\卫星智能体重大专项建议_v4.md",
+            9
+          ],
+          [
+            "涌现动力学如何用来分析复杂系统？",
+            9
+          ],
+          [
+            "TCC",
+            9
+          ],
+          [
+            "论文",
+            9
+          ],
+          [
+            "00_Inbox/_pipeline_insights/八大神经网络，从原理到应用",
+            9
+          ],
+          [
+            "300″",
+            9
+          ],
+          [
+            "SOC",
+            7
+          ],
+          [
+            "Nat. Com.：可穿戴神经形态系统",
+            7
+          ],
+          [
+            "Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来",
+            7
+          ],
+          [
+            "具身智能的基本原理、关键技术、应用场景",
+            7
+          ],
+          [
+            "2026-06-24_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with",
+            7
+          ],
+          [
+            "Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为计算优势",
+            6
+          ],
+          [
+            "Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI",
+            6
+          ],
+          [
+            "Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？",
+            6
+          ],
+          [
+            "6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进",
+            6
+          ]
+        ],
+        "orphan_notes": 2109
+      },
+      "grow_concepts": [
+        "知识库健康诊断 (Self-Health Dashboard)",
+        "待分类",
+        "神经形态计算",
+        "02 复杂性：什么样的系统是复杂系统？ - 得到APP",
+        "10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点",
+        "Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化",
+        "涌现动力学如何用来分析复杂系统？",
+        "TCC",
+        "论文"
+      ],
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | [09:26:27] === Wiki Compiler v1.0 ===\n[09:26:27] LLM enabled: True\n[09:26:27] Last compile: 2026-08-01\n[09:26:27] Phase 1: Found 0 new/changed raw files\n[09:26:27] No new files to process. Running health check only.\n[09:26:27] Done.\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | [09:26:28] wiki_grow start\n  concepts loaded: 201\n  concepts now: 201 | linked: 196 | orphans: 63\n  index/backlinks/health refreshed.\n[09:26:37] wiki_grow done — orphans 63/201\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 4463 | 真正断链 1716 | 孤儿 2109 | 缺FM 1274 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "已补全 9 个缺失概念: ['知识库健康诊断 (Self-Health Dashboard)', '待分类', '神经形态计算', '02 复杂性：什么样的系统是复杂系统？ - 得到APP', '10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点', 'Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化', '涌现动力学如何用来分析复杂系统？', 'TCC', '论文']",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [09:27:26] === Homepage Generator ===\n[09:27:27] Home.md generated (4424 chars)\n[09:27:27] === Done ===\n",
+      "已提交 227 个文件。",
+      "已推送 github main。"
+    ]
   }
 ]

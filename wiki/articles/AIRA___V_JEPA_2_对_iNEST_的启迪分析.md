@@ -16,6 +16,8 @@ STDP, iNEST, 忆阻
 
 ## Related Concepts
 
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[STDP_Plasticity]]
 [[iNEST]]
-[[神经网络]]
+[[涌现动力学如何用来分析复杂系统？]]

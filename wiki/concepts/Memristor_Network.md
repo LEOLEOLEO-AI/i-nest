@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_STDP_Bond]]
 [[Spacetime_Coupling_Coefficient]]
 [[Spiking_Neural_Network]]
 [[TemporalComplexity_Tc]]

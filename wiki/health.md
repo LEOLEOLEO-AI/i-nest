@@ -4,14 +4,15 @@
 **Last Grow**: 2026-08-01
 
 ## Stats
-- **Total Concepts**: 201
+- **Total Concepts**: 206
 - **Total Articles**: 27
 - **Orphan Concepts**: 63
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
+- [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+- [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 - [[2025年10月11号 日记]]
-- [[AI-ML — 全景导航 (Map of Content)]]
 - [[AI_Application_Scenario_Reconstruction]]
 - [[AI_Industrial_Ecosystem]]
 - [[ANN动力学]]
@@ -29,7 +30,6 @@
 - [[ComplexSystem_Definition]]
 - [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 - [[Complexity_Emergence_Engineering]]
-- [[Concepts-Theory — 全景导航 (Map of Content)]]
 - [[Contested_Prior_Resolution]]
 - [[DataDrivenCellularAxis]]
 - [[Decoupled_Prior_States]]
@@ -42,6 +42,7 @@
 - [[InNetworkNeuromorphicEmergence]]
 - [[In_Network_Neuromorphic_Integration]]
 - [[In_Network_Neuromorphic_Processing]]
+- [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 - [[Memristor_Hardware_ANN]]
 - [[Memristor_Network]]
 - [[Memristor_based_synaptic_devices]]
@@ -49,7 +50,6 @@
 - [[Network_Spatiotemporal_Synergy]]
 - [[Network_on_Chip_communication_architecture]]
 - [[Network_topology_and_interconnection_patterns]]
-- [[Neuromorphic_Substrate]]
 - ... 23 more
 
 ## Next Steps
