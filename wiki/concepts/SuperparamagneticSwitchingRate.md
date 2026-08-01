@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -22,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[Renormalization_Group_Convergence]]
 [[Reservoir_Computing]]
+[[Residual_Connection_Removal]]
 [[SmallWorldNetwork]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TCC_Topology_Interconnect]]

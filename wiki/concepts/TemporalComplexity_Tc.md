@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Next_Gen_AI_Application_Scenarios]]
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[SmallWorldNetwork]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]

@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[CorticalTypeDiversity]]
+[[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -24,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[TemporalComplexity_Tc]]
 
 ## Sources

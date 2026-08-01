@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Reservoir_Computing]]
+[[Residual_Connection_Removal]]
 [[SuperlinearGain]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]

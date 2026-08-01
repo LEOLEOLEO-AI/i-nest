@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -24,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]
 
 ## Sources

@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[SDI_STDP]]

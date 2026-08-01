@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
@@ -21,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Emergence]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]

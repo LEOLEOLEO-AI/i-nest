@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
+[[Heterogeneous_Integration]]
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -24,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
 

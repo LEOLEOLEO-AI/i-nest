@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Topology_Centric_Computing]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[vLLM_plugin_FLSDI]]
 

@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Contested_Priors_Mechanism]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
@@ -25,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

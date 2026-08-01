@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 

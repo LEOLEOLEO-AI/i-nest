@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[Neuromorphic_Computing]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]

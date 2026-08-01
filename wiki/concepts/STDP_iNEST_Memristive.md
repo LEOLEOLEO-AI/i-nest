@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[Neuromorphic_Computing]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[STDP_Plasticity]]
 [[SmallWorldNetwork]]
 [[Spiking_Neural_Network]]

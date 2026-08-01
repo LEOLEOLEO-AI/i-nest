@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-08-01",
+    "time": "2026-08-01T09:14:10.211984",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-01",
+        "total_notes": 4449,
+        "missing_frontmatter": 1273,
+        "broken_links": 2252,
+        "broken_samples": [
+          [
+            "Home",
+            "60_MOC/03_Daily_Action\\"
+          ],
+          [
+            "Home",
+            "99_Meta/classification.json"
+          ],
+          [
+            "Home",
+            "wiki/cross_domain_insights"
+          ],
+          [
+            "Home",
+            "60_MOC/11_External_Literature_Index"
+          ],
+          [
+            "Home",
+            "60_MOC/11_External_Literature_Index\\"
+          ],
+          [
+            "Home",
+            "60_MOC/07_Pipeline_Status"
+          ],
+          [
+            "Home",
+            "wiki/evolution_report"
+          ],
+          [
+            "Home",
+            "40_iNEST/iNEST_Master_Index\\"
+          ],
+          [
+            "Home",
+            "50_Output\\"
+          ],
+          [
+            "Home",
+            "90_System/scripts/classify_provenance.py"
+          ],
+          [
+            "Home",
+            "60_MOC/03_Daily_Action"
+          ],
+          [
+            "Home",
+            "60_MOC/10_Own_Research_Diagnosis\\"
+          ],
+          [
+            "Home",
+            "20_Processing\\"
+          ],
+          [
+            "Home",
+            "40_iNEST/iNEST_Master_Index"
+          ],
+          [
+            "Home",
+            "wiki/index"
+          ],
+          [
+            "Home",
+            "wiki/index\\"
+          ],
+          [
+            "Home",
+            "30_TCC/TCC_Master_Index\\"
+          ],
+          [
+            "Home",
+            "30_TCC/TCC_Master_Index"
+          ],
+          [
+            "Home",
+            "wiki/task_recommendations\\"
+          ],
+          [
+            "Home",
+            "99_Meta/hypothesis_registry.json"
+          ]
+        ],
+        "orphan_notes": 2136
+      },
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "检测到 3350 个新/修改来源, 运行 wiki_compiler (LLM, 限 300s)...",
+      "wiki_compiler 退出码=0 | [09:14:10] === Wiki Compiler v1.0 ===\n[09:14:10] LLM enabled: True\n[09:14:10] Last compile: 2026-08-01\n[09:14:10] Phase 1: Found 0 new/changed raw files\n[09:14:10] No new files to process. Running health check only.\n[09:14:10] Done.\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | [09:14:10] wiki_grow start\n  concepts loaded: 191\n  concepts now: 191 | linked: 183 | orphans: 70\n  index/backlinks/health refreshed.\n[09:14:13] wiki_grow done — orphans 70/191\n",
+      "运行全库健康自检 (纯本地)...",
+      "健康自检: 笔记 4449 | 断链 2252 | 孤儿 2136 | 缺FM 1273 -> vault_health.md",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [09:15:00] === Homepage Generator ===\n[09:15:00] Home.md generated (4424 chars)\n[09:15:00] === Done ===\n",
+      "已提交 241 个文件。",
+      "已推送 github main。"
+    ]
+  }
+]

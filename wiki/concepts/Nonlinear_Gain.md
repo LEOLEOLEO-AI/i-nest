@@ -13,13 +13,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Complex_System]]
+[[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[HodgkinHuxleyDynamics]]
 [[MacroscopicDescriptor]]
 [[National_Innovation_Center_Role]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[SingleSourceOfTruthMetric]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[SystemLevelNonlinearity]]
 [[ThermalNoiseHarnessing]]
 

@@ -53,40 +53,15 @@ def run_script(rel, *args, timeout=600):
 
 
 def step_compile_if_new():
-    """仅当存在未编译来源时运行 wiki_compiler (状态化, 增量)。"""
-    state_file = VAULT / "state" / "wiki_compiler_state.json"
-    state = {}
-    if state_file.exists():
-        try:
-            state = json.loads(state_file.read_text(encoding="utf-8"))
-        except Exception:
-            state = {}
-    processed = state.get("processed_files", {})
-    # 探测主要来源目录是否有新/修改文件 (mtime > 记录)
-    sources = []
-    for d in ("raw", "imports", "tcc/papers", "inest/papers", "30_TCC", "40_iNEST"):
-        p = VAULT / d
-        if p.exists():
-            sources.append(p)
-    new_count = 0
-    try:
-        for base in sources:
-            for f in base.rglob("*.md"):
-                key = str(f.relative_to(VAULT))
-                mtime = f.stat().st_mtime
-                last = processed.get(key)
-                if last is None or mtime > last:
-                    new_count += 1
-    except Exception:
-        new_count = -1
-    if new_count > 0:
-        log(f"检测到 {new_count} 个新/修改来源, 运行 wiki_compiler (LLM, 限 300s)...")
-        rc, out = run_script("wiki_compiler.py", timeout=300)
-        log(f"wiki_compiler 退出码={rc} | {out[-300:]}")
-        return rc == 0
-    else:
-        log("无新来源, 跳过 wiki_compiler 编译 (增量保护)。")
-        return True
+    """运行 wiki_compiler (状态化/增量): 无新来源时仅做健康检查, 不调 LLM。
+
+    wiki_compiler 内部用自身的 state 判断是否有未处理来源, 安全幂等,
+    因此这里直接调用, 不必在编排层重复扫描。
+    """
+    log("运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...")
+    rc, out = run_script("wiki_compiler.py", timeout=300)
+    log(f"wiki_compiler 退出码={rc} | {out[-300:]}")
+    return rc == 0
 
 
 def step_grow():
@@ -97,22 +72,39 @@ def step_grow():
 
 
 def step_vault_health():
-    """纯本地全库健康自检: 断链 / 孤儿 / 缺 frontmatter。无 LLM。"""
-    log("运行全库健康自检 (纯本地)...")
-    notes = list(VAULT.rglob("*.md"))
-    # 排除 .git / 排除 wiki 概念自身重叠 (仍纳入, 因概念也是链接目标)
-    all_names = set()
-    for f in notes:
-        rel = f.relative_to(VAULT)
-        if str(rel).startswith(".git"):
-            continue
-        all_names.add(f.stem)
-    outgoing = defaultdict(set)  # name -> {target basenames}
-    missing_fm = 0
+    """纯本地全库健康自检: 断链 / 孤儿 / 缺 frontmatter。无 LLM。
+
+    链接解析规则(贴近 Obsidian):
+      - 裸链接 [[Name]]  -> 解析为任意同名笔记 basename
+      - 路径链接 [[a/b/Name]] -> 解析为相对路径(去扩展名)存在的文件
+      - 附件链接 [[x.json]]/[[x.py]] 等 -> 若文件存在则合法
+      - 文件夹链接 [[Folder]] -> 若匹配目录则合法
+    仅上述均不匹配才计为真正断链。
+    """
+    log("运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...")
+    note_basenames = set()
+    note_paths = set()      # 相对路径(去 .md)
+    file_paths = set()      # 所有文件相对路径(去扩展名)
+    dirs = set()
     link_re = re.compile(r"\[\[([^\]]+)\]]")
-    for f in notes:
-        rel = f.relative_to(VAULT)
-        if str(rel).startswith(".git"):
+    for f in VAULT.rglob("*"):
+        rel = str(f.relative_to(VAULT))
+        if rel.startswith(".git"):
+            continue
+        if f.is_dir():
+            dirs.add(rel)
+            continue
+        if f.is_file():
+            noext = rel[:-len(f.suffix)] if f.suffix else rel
+            file_paths.add(noext)
+            if f.suffix.lower() == ".md":
+                note_paths.add(noext)
+                note_basenames.add(f.stem)
+    missing_fm = 0
+    outgoing = defaultdict(set)   # note basename -> {targets}
+    for f in VAULT.rglob("*.md"):
+        rel = str(f.relative_to(VAULT))
+        if rel.startswith(".git"):
             continue
         try:
             txt = f.read_text(encoding="utf-8", errors="ignore")
@@ -120,45 +112,45 @@ def step_vault_health():
             continue
         if not txt.lstrip().startswith("---"):
             missing_fm += 1
-        targets = set()
         for m in link_re.findall(txt):
             tgt = m.split("|")[0].split("#")[0].strip()
             if tgt:
-                targets.add(tgt)
-        outgoing[f.stem] |= targets
-    # 断链 + 孤儿
+                outgoing[f.stem].add(tgt)
     broken = 0
     broken_samples = []
     incoming = defaultdict(set)
     for name, tgts in outgoing.items():
         for t in tgts:
-            if t not in all_names:
-                broken += 1
-                if len(broken_samples) < 20:
-                    broken_samples.append((name, t))
+            ok = (t in note_basenames) or (t in note_paths) or \
+                 (t in file_paths) or (t in dirs)
+            if ok:
+                if t in note_basenames or t in note_paths:
+                    incoming[t].add(name)
             else:
-                incoming[t].add(name)
-    orphans = [n for n in all_names if n not in incoming and n in outgoing]
+                broken += 1
+                if len(broken_samples) < 25:
+                    broken_samples.append((name, t))
+    orphans = [n for n in note_basenames if n not in incoming]
     report = {
         "date": TODAY,
-        "total_notes": len(all_names),
+        "total_notes": len(note_basenames),
         "missing_frontmatter": missing_fm,
         "broken_links": broken,
-        "broken_samples": broken_samples[:20],
+        "broken_samples": broken_samples[:25],
         "orphan_notes": len(orphans),
     }
     out_path = VAULT / "99_Meta" / "vault_health.md"
-    lines = [f"# 全库健康自检\n", f"> 生成: {TODAY}\n"]
+    lines = [f"# 全库健康自检\n", f"> 生成: {TODAY}  ·  链接解析贴近 Obsidian 行为\n"]
     lines.append(f"- 笔记总数(可链接目标): **{report['total_notes']}**")
     lines.append(f"- 缺 frontmatter 笔记: **{report['missing_frontmatter']}**")
-    lines.append(f"- 断链(指向不存在笔记的 [[...]]): **{report['broken_links']}**")
+    lines.append(f"- 真正断链(目标不存在): **{report['broken_links']}**")
     if broken_samples:
-        lines.append("\n## 断链样本\n")
+        lines.append("\n## 断链样本(需修复)\n")
         for src, tgt in broken_samples:
-            lines.append(f"- `[[{src}]]` -> `[[{tgt}]]` (不存在)")
-    lines.append(f"\n- 孤儿笔记(无入链, 仅含出链): **{report['orphan_notes']}**")
+            lines.append(f"- `[[{src}]]` → `[[{tgt}]]`")
+    lines.append(f"\n- 孤儿笔记(无入链): **{report['orphan_notes']}**")
     out_path.write_text("\n".join(lines), encoding="utf-8")
-    log(f"健康自检: 笔记 {report['total_notes']} | 断链 {report['broken_links']} | "
+    log(f"健康自检: 笔记 {report['total_notes']} | 真正断链 {report['broken_links']} | "
         f"孤儿 {report['orphan_notes']} | 缺FM {report['missing_frontmatter']} -> {out_path.name}")
     return report
 

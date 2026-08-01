@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect_bonding_mechanism]]
 [[Structural_Mismatch]]

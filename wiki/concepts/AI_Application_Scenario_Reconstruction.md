@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]

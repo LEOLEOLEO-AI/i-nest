@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[SmallWorldNetwork]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]

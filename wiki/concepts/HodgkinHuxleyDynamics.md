@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[SmallWorldNetwork]]
 [[Spiking_Neural_Network]]
 [[TCC_Topology_Interconnect]]

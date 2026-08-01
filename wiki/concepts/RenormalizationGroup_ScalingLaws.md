@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Topology_Amplification]]
 [[Renormalization_Group_Convergence]]
 [[Renormalization_Group_Emergence]]
+[[Residual_Connection_Removal]]
 [[Universal_Scaling_Laws]]
 
 ## Sources

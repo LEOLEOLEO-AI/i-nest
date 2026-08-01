@@ -14,9 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Network_Topology_Design]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

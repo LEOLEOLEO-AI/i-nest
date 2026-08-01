@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

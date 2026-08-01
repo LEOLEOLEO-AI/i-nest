@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Order_Flexibility_Duality]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TopologyAware_Renormalization]]
 [[Topology_Constrained_Stability_Analysis]]

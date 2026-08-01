@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGainCondition]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
+[[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]

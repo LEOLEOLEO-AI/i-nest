@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[SmallWorldNetwork]]
 
 ## Sources

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]

@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
@@ -25,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[Order_Flexibility_Duality]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[Spatiotemporal_Synergy_Complexity]]
 
 ## Sources

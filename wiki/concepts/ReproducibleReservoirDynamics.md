@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Next_Gen_AI_Application_Scenarios]]
 [[Renormalization_Group_Convergence]]
 [[Reservoir_Computing]]
+[[Residual_Connection_Removal]]
 [[SuperlinearGain]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]

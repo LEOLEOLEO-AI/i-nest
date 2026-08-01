@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
@@ -25,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

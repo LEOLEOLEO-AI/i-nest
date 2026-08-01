@@ -14,10 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]

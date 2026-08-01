@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]

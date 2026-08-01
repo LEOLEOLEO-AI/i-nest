@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]

@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Synapse]]
@@ -25,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection_Removal]]
 [[SmallWorldNetwork]]
 [[Spiking_Neural_Network]]
 
