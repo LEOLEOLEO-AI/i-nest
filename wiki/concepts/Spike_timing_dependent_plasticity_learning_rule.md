@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 6
+aliases:
+- "ClearSight: 基于事件相机与生物启发的运动去模糊研究"
 ---
 
 # ClearSight: 基于事件相机与生物启发的运动去模糊研究

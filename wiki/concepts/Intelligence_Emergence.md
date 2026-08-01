@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_CST_Offload]]
 [[Macro_System_Description]]
 [[MultiplicativeGainCondition]]
+[[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[Reservoir_Computing]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyFragility]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
+[[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

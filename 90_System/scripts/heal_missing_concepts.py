@@ -63,6 +63,23 @@ def scan():
     return note_basenames, note_paths, file_paths, dirs, broken_freq, refs
 
 
+def add_alias(txt, tgt):
+    """在已有占位笔记的 frontmatter 中补一条 alias(解析 [[原始名]])。"""
+    if not txt.startswith("---"):
+        return txt
+    parts = txt.split("---", 2)
+    if len(parts) < 3:
+        return txt
+    fm, body = parts[1], parts[2]
+    if 'aliases:' in fm:
+        if f'"{tgt}"' in fm or f"- {tgt}" in fm:
+            return txt
+        fm = fm.rstrip() + f'\n- "{tgt}"\n'
+    else:
+        fm = fm.rstrip() + f'\naliases:\n- "{tgt}"\n'
+    return "---" + fm + "---" + body
+
+
 def main():
     import argparse
     ap = argparse.ArgumentParser()
@@ -96,16 +113,27 @@ def main():
         candidates = candidates[:args.max]
 
     created = []
+    updated = []
     for tgt, c in candidates:
         safe = re.sub(r'[:/\\*?"<>|#^\[\]]', "_", tgt).strip()
         if not safe:
             continue
         path = OUT / f"{safe}.md"
         if path.exists():
+            # 已存在: 若文件名被净化(safe!=tgt)且缺 alias, 补 alias 以解析 [[原始名]]
+            if safe != tgt:
+                txt = path.read_text(encoding="utf-8", errors="ignore")
+                if "auto: true" in txt and f'"{tgt}"' not in txt:
+                    new_txt = add_alias(txt, tgt)
+                    if new_txt != txt:
+                        path.write_text(new_txt, encoding="utf-8")
+                        updated.append(tgt)
             continue
         sources = sorted(set(refs.get(tgt, [])))[:6]
-        body = [f"---\nprovenance: derived\ntype: concept-stub\nauto: true\n"
-                f"created: {TODAY}\nrefs: {len(refs.get(tgt, []))}\n---",
+        alias_line = f'aliases:\n- "{tgt}"\n' if safe != tgt else ""
+        fm = ("---\nprovenance: derived\ntype: concept-stub\nauto: true\n"
+              f"created: {TODAY}\nrefs: {len(refs.get(tgt, []))}\n" + alias_line + "---")
+        body = [fm,
                 f"# {tgt}\n",
                 f"> 由 self_evolve 自动生成的占位概念（被引用 {c} 次，来源尚未成稿）。\n"]
         if sources:
@@ -115,13 +143,32 @@ def main():
         body.append("\n\n_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_")
         path.write_text("\n".join(body), encoding="utf-8")
         created.append(tgt)
+    # 回填: 已存在的自动占位笔记, 若文件名被净化(与 H1 不同), 补 alias 解析 [[原始名]]
+    for f in OUT.glob("*.md"):
+        txt = f.read_text(encoding="utf-8", errors="ignore")
+        if "auto: true" not in txt:
+            continue
+        h1 = None
+        for line in txt.split("\n"):
+            if line.startswith("# "):
+                h1 = line[2:].strip()
+                break
+        if not h1 or h1 == f.stem:
+            continue
+        if f'"{h1}"' in txt:
+            continue
+        new_txt = add_alias(txt, h1)
+        if new_txt != txt:
+            f.write_text(new_txt, encoding="utf-8")
+            updated.append(h1)
     print(f"候选缺失裸概念(≥{args.min_refs}引用): {len(candidates)}")
-    print(f"本次重建占位笔记: {len(created)}")
+    print(f"本次重建占位笔记: {len(created)} | 回填 alias: {len(updated)}")
     if created:
         print("样例:", created[:15])
     # 写一份报告供 self_evolve 参考
     report = {"date": TODAY, "candidates": len(candidates),
-              "created": created, "total_broken": sum(broken_freq.values())}
+              "created": created, "updated_aliases": updated,
+              "total_broken": sum(broken_freq.values())}
     (VAULT / "99_Meta" / "heal_missing_concepts_report.json").write_text(
         json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
 

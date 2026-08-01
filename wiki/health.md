@@ -6,7 +6,7 @@
 ## Stats
 - **Total Concepts**: 296
 - **Total Articles**: 27
-- **Orphan Concepts**: 108
+- **Orphan Concepts**: 106
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
@@ -40,17 +40,17 @@
 - [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 - [[Complexity_Emergence_Engineering]]
 - [[Contested_Prior_Resolution]]
-- [[Decoupled_Prior_States]]
 - [[Deep_Network_Layer_Stacking]]
 - [[Evolutionary_Computability]]
 - [[FlagOS_2_0]]
 - [[Free_Energy_Topology_Mapping]]
 - [[GNN图神经网络，非结构化数据分析利器！]]
 - [[GranularCortexExclusion]]
-- [[InNetworkNeuromorphicEmergence]]
 - [[In_Network_Neuromorphic_Integration]]
 - [[In_Network_Neuromorphic_Processing]]
-- ... 68 more
+- [[Memristor_Hardware_ANN]]
+- [[Memristor_Network]]
+- ... 66 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

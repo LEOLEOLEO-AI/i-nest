@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
+[[Network_topology_and_interconnection_patterns]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]

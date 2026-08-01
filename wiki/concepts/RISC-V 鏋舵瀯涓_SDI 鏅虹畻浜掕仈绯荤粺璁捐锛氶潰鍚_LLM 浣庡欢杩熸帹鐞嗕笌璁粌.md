@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
+aliases:
+- "RISC-V 鏋舵瀯涓?SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚?LLM 浣庡欢杩熸帹鐞嗕笌璁粌"
 ---
 # RISC-V 鏋舵瀯涓?SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚?LLM 浣庡欢杩熸帹鐞嗕笌璁粌
 
@@ -25,8 +27,11 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[GammaSt_Revision]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[Network_topology_and_interconnection_patterns]]
 [[NoC_SDI]]
 [[SDI_Bond]]
 [[TopologyFragility]]
 [[iNEST]]
-[[神经网络]]

@@ -34,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Network_topology_and_interconnection_patterns]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Residual_Connection_Removal]]

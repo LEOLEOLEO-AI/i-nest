@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Network_topology_and_interconnection_patterns]]
 [[NoC_SDI]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]

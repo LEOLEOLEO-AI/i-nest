@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Network_topology_and_interconnection_patterns]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Nonlinear_Parameter_Alpha]]

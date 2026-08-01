@@ -28,6 +28,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[EmergentOrder]]
 [[Intelligence_Emergence]]
 [[MultiplicativeGainCondition]]
+[[Network_topology_and_interconnection_patterns]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]

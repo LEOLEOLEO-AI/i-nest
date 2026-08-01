@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[MultiplicativeGainCondition]]
+[[Nature重磅：物理神经网络训练革命突破！]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicSimulation]]
 [[InNetwork_CST_Offload]]
+[[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SystemLevelNonlinearity]]
 [[iNEST]]
+[[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

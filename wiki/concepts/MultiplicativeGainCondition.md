@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Network_Topology_Design]]
+[[Network_topology_and_interconnection_patterns]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]

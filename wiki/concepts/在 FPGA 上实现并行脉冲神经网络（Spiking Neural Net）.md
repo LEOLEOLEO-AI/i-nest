@@ -21,7 +21,9 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[EmergentOrder]]
+[[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

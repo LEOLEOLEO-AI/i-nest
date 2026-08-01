@@ -21,9 +21,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[EmergentOrder]]
+[[Intelligence_Emergence]]
+[[Network_on_Chip]]
+[[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
 [[NoC_SDI]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
 [[Spiking_Neural_Network]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
+[[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Synapse]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SystemLevelNonlinearity]]
 [[iNEST]]
+[[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

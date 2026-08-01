@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
+[[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

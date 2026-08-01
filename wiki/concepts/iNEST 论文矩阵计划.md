@@ -20,9 +20,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[Intelligence_Emergence]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
+[[NCL神经计算定律详解]]
 [[Nonlinear_Gain]]
 [[TCC与INEST：2026全局论文与专利战略规划清单]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
+[[智能涌现]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]

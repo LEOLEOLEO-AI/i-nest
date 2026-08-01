@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroscopicDescriptor]]
 [[MultiplicativeGainCondition]]
 [[National_Innovation_Center_Role]]
+[[Network_Topology_Design]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermalNoiseHarnessing]]
 [[TopologyFragility]]
 [[iNEST]]
+[[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

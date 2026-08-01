@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagScale]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Network_topology_and_interconnection_patterns]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_SDI]]
 [[NonAbelian_Gauge_Topology]]

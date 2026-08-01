@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 3
+aliases:
+- "AGI面临的挑战 : 脑机制自底向顶梳理 下部 5万字"
 ---
 # AGI面临的挑战 : 脑机制自底向顶梳理 下部 5万字
 

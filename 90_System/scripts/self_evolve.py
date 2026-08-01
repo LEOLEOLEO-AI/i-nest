@@ -118,7 +118,7 @@ def analyze_links():
                  (t in file_paths) or (t in dirs)
             if ok and (t in note_basenames or t in note_paths):
                 incoming[t].add(name)
-            if not ok:
+            if not ok and not t.isdigit():   # 纯数字链接(列表/脚注) 非真实断链, 不计
                 broken_freq[t] += 1
     orphans = [n for n in note_basenames if n not in incoming]
     return note_basenames, note_paths, file_paths, dirs, broken_freq, orphans, missing_fm
@@ -221,8 +221,9 @@ def step_grow_missing_concepts(broken_freq, max_new=10, min_refs=3):
                 sources.append(f.stem)
                 if len(sources) >= 6:
                     break
+        alias_line = f'aliases:\n- "{tgt}"\n' if safe != tgt else ""
         body = [f"---\nprovenance: derived\ntype: concept-stub\nauto: true\n"
-                f"created: {TODAY}\nrefs: {len(sources)}\n---\n",
+                f"created: {TODAY}\nrefs: {len(sources)}\n" + alias_line + "---\n",
                 f"# {tgt}\n",
                 f"> 由 self_evolve 自动生成的占位概念（被引用 {c} 次，来源尚未成稿）。\n"]
         if sources:

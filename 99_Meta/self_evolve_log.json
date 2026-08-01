@@ -1074,5 +1074,140 @@
       "已提交 242 个文件。",
       "已推送 github main。"
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "time": "2026-08-01T10:11:48.699583",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-01",
+        "total_notes": 4558,
+        "missing_frontmatter": 21,
+        "broken_links": 1408,
+        "broken_samples": [
+          [
+            "ClearSight: 基于事件相机与生物启发的运动去模糊研究",
+            28
+          ],
+          [
+            "iNEST 机构 — 全景导航 (Map of Content)",
+            14
+          ],
+          [
+            "2025年10月28号 日记",
+            11
+          ],
+          [
+            "2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly",
+            10
+          ],
+          [
+            "30_TCC\\34_Projects\\_from_ideas\\卫星智能体重大专项建议_v4.md",
+            9
+          ],
+          [
+            "00_Inbox/_pipeline_insights/八大神经网络，从原理到应用",
+            9
+          ],
+          [
+            "2026-06-24_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with",
+            8
+          ],
+          [
+            "Nat. Com.：可穿戴神经形态系统",
+            8
+          ],
+          [
+            "1",
+            7
+          ],
+          [
+            "Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI",
+            7
+          ],
+          [
+            "Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为计算优势",
+            7
+          ],
+          [
+            "Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？",
+            7
+          ],
+          [
+            "2026-06-28_Getnote_2026-06-28_学习重塑神经表征几何_灵长类前额叶皮层演化规律与大模型学习机制的跨领域统一研究",
+            6
+          ],
+          [
+            "(Nat. Commun. 综述)",
+            6
+          ],
+          [
+            "2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with",
+            5
+          ],
+          [
+            "2026年3月23号 日记",
+            5
+          ],
+          [
+            "2026-06-23_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with",
+            4
+          ],
+          [
+            "11",
+            4
+          ],
+          [
+            "7",
+            4
+          ],
+          [
+            "4",
+            4
+          ],
+          [
+            "2",
+            4
+          ],
+          [
+            "8",
+            4
+          ],
+          [
+            "5",
+            4
+          ],
+          [
+            "6",
+            4
+          ],
+          [
+            "10",
+            4
+          ]
+        ],
+        "orphan_notes": 2047
+      },
+      "grow_concepts": [],
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | [10:11:49] === Wiki Compiler v1.0 ===\n[10:11:49] LLM enabled: True\n[10:11:49] Last compile: 2026-08-01\n[10:11:49] Phase 1: Found 0 new/changed raw files\n[10:11:49] No new files to process. Running health check only.\n[10:11:53] Done.\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | [10:11:53] wiki_grow start\n  concepts loaded: 296\n  concepts now: 296 | linked: 291 | orphans: 108\n  index/backlinks/health refreshed.\n[10:12:08] wiki_grow done — orphans 108/296\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 4558 | 真正断链 1408 | 孤儿 2047 | 缺FM 21 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "无新的缺失概念需补全(或已达上限/已有)。",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [10:12:29] === Homepage Generator ===\n[10:12:29] Home.md generated (4432 chars)\n[10:12:29] === Done ===\n",
+      "已提交 1366 个文件。",
+      "已推送 github main。"
+    ]
   }
 ]

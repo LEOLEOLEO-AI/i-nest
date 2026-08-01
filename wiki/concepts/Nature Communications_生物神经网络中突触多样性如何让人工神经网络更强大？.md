@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 7
+aliases:
+- "Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？"
 ---
 # Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？
 
@@ -27,8 +29,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
+[[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Spiking_Neural_Network]]
