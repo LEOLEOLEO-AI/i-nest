@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
+[[DRBE_MVP_Mainchain]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

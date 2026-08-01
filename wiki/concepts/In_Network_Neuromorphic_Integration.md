@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
+[[DRBE_MVP_Mainchain]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[Memristor_Synapse]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

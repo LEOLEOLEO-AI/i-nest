@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[DRBE_MVP_Mainchain]]
 [[DiagnosticReportFramework]]
 [[Heterogeneous_Integration]]
 [[InMemory_Computing]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity_Tc]]
 [[TopologyProgramming]]
 [[Topology_Centric_Computing]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

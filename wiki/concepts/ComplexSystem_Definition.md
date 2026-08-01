@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
+[[DRBE_MVP_Mainchain]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]
 [[Heterogeneous_Integration]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[TopologyAware_Renormalization]]
 [[Topology_Constrained_Stability_Analysis]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

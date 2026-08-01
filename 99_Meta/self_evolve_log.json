@@ -638,5 +638,151 @@
       "已提交 188 个文件。",
       "已推送 github main。"
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "time": "2026-08-01T09:23:37.130384",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-01",
+        "total_notes": 4453,
+        "missing_frontmatter": 1274,
+        "broken_links": 2010,
+        "broken_samples": [
+          [
+            "神经网络",
+            48
+          ],
+          [
+            "iNEST",
+            46
+          ],
+          [
+            "Chip-Hardware — 全景导航 (Map of Content)",
+            43
+          ],
+          [
+            "Concepts-Theory — 全景导航 (Map of Content)",
+            43
+          ],
+          [
+            "AI-ML — 全景导航 (Map of Content)",
+            39
+          ],
+          [
+            "ClearSight: 基于事件相机与生物启发的运动去模糊研究",
+            27
+          ],
+          [
+            "CST计量仪",
+            20
+          ],
+          [
+            "ANN动力学",
+            20
+          ],
+          [
+            "NCL神经计算定律详解",
+            19
+          ],
+          [
+            "2025年10月11号 日记",
+            17
+          ],
+          [
+            "知识库健康诊断 (Self-Health Dashboard)",
+            15
+          ],
+          [
+            "待分类",
+            15
+          ],
+          [
+            "iNEST 机构 — 全景导航 (Map of Content)",
+            13
+          ],
+          [
+            "神经形态计算",
+            11
+          ],
+          [
+            "2025年10月28号 日记",
+            10
+          ],
+          [
+            "Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化",
+            10
+          ],
+          [
+            "10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点",
+            10
+          ],
+          [
+            "02 复杂性：什么样的系统是复杂系统？ - 得到APP",
+            10
+          ],
+          [
+            "2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly",
+            9
+          ],
+          [
+            "30_TCC\\34_Projects\\_from_ideas\\卫星智能体重大专项建议_v4.md",
+            8
+          ],
+          [
+            "TCC",
+            8
+          ],
+          [
+            "论文",
+            8
+          ],
+          [
+            "涌现动力学如何用来分析复杂系统？",
+            8
+          ],
+          [
+            "300″",
+            8
+          ],
+          [
+            "00_Inbox/_pipeline_insights/八大神经网络，从原理到应用",
+            8
+          ]
+        ],
+        "orphan_notes": 2120
+      },
+      "grow_concepts": [
+        "神经网络",
+        "iNEST",
+        "Chip-Hardware — 全景导航 (Map of Content)",
+        "Concepts-Theory — 全景导航 (Map of Content)",
+        "AI-ML — 全景导航 (Map of Content)",
+        "ClearSight: 基于事件相机与生物启发的运动去模糊研究",
+        "CST计量仪",
+        "ANN动力学",
+        "NCL神经计算定律详解",
+        "2025年10月11号 日记"
+      ],
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | [09:23:37] === Wiki Compiler v1.0 ===\n[09:23:37] LLM enabled: True\n[09:23:37] Last compile: 2026-08-01\n[09:23:37] Phase 1: Found 0 new/changed raw files\n[09:23:37] No new files to process. Running health check only.\n[09:23:37] Done.\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | [09:23:37] wiki_grow start\n  concepts loaded: 191\n  concepts now: 191 | linked: 183 | orphans: 62\n  index/backlinks/health refreshed.\n[09:23:45] wiki_grow done — orphans 62/191\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 4453 | 真正断链 2010 | 孤儿 2120 | 缺FM 1274 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "已补全 10 个缺失概念: ['神经网络', 'iNEST', 'Chip-Hardware — 全景导航 (Map of Content)', 'Concepts-Theory — 全景导航 (Map of Content)', 'AI-ML — 全景导航 (Map of Content)', 'ClearSight: 基于事件相机与生物启发的运动去模糊研究', 'CST计量仪', 'ANN动力学', 'NCL神经计算定律详解', '2025年10月11号 日记']",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [09:25:17] === Homepage Generator ===\n[09:25:18] Home.md generated (4424 chars)\n[09:25:18] === Done ===\n",
+      "已提交 199 个文件。",
+      "已推送 github main。"
+    ]
   }
 ]

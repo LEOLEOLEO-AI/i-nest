@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
+[[DRBE_MVP_Mainchain]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetricComputationAuthenticity]]

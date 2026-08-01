@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]
+[[iNEST]]
+[[iNEST_Neuromorphic_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

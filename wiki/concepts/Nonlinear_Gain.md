@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[InNetwork_CST_Offload]]
 [[MacroscopicDescriptor]]
+[[MultiplicativeGainCondition]]
 [[National_Innovation_Center_Role]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Residual_Connection_Removal]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SystemLevelNonlinearity]]
 [[ThermalNoiseHarnessing]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

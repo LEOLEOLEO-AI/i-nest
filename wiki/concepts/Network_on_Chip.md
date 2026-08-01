@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Core_Spacetime_Tensor]]
+[[DRBE_MVP_Mainchain]]
 [[FlagScale]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

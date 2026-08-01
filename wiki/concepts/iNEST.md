@@ -22,3 +22,12 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Chiplet_Heterogeneous_Integration]]
+[[EulaminateOverrepresentation]]
+[[Memory_Wall]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
+[[Textbook_Paradigm_Definition]]

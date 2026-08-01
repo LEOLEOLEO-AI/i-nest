@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
+[[DRBE_MVP_Mainchain]]
 [[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
 [[Network_Topology_Design]]

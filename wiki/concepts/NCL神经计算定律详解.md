@@ -22,3 +22,12 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[CST计量仪]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
+[[P_Paradigm]]
+[[iNEST]]

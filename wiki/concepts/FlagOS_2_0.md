@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[Core_Spacetime_Tensor]]
+[[DRBE_MVP_Mainchain]]
 [[Emergent_Intelligence_Threshold]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

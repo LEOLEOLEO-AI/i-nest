@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
 [[Hardware_Accelerated_SNN]]
@@ -19,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[MetricComputationAuthenticity]]
+[[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
@@ -30,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[UniversalIntelligence_Emergence]]
+[[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

@@ -12,7 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-*(no related concepts yet)*
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

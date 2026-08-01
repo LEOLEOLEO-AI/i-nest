@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Attention_Residuals]]
+[[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
 [[InNetwork_CST_Offload]]
@@ -20,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_ANN_Hardware]]
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
+[[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -28,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SmallWorldNetwork]]
 [[Spiking_Neural_Network]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

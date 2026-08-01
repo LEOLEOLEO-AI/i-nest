@@ -22,3 +22,16 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[DRBE_MVP_Mainchain]]
+[[DiagnosticReportFramework]]
+[[MetaFAIR_ArchitectureDiscovery]]
+[[MultiplicativeGainCondition]]
+[[MultiplicativeGain]]
+[[Network_Topology_Design]]
+[[Order_Flexibility_Duality]]
+[[SDI_Bond]]
+[[SmallWorldNetworks]]
+[[iNEST]]

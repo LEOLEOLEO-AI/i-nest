@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
+[[DRBE_MVP_Mainchain]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]
 [[Universal_Scaling_Laws]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
+[[DRBE_MVP_Mainchain]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[TemporalComplexity_Tc]]
 [[Wafer_Scale_Neuromorphic]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

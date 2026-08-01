@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
+[[DRBE_MVP_Mainchain]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]

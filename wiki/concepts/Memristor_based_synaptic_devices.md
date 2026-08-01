@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Memristor_Synapse]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

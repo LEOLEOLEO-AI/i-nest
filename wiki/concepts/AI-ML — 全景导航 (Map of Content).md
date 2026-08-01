@@ -22,3 +22,11 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Memristor_Synapse]]
+[[SDI_Bond]]
+[[Wafer_Scale_Neuromorphic]]
+[[iNEST]]

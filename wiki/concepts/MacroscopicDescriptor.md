@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]
@@ -22,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]
+[[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
@@ -33,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

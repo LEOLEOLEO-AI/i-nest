@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Collection_Communication_Diagnostic_Tool]]
+[[DRBE_MVP_Mainchain]]
 [[FPGA_Prototype_Validation]]
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]

@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
+[[DRBE_MVP_Mainchain]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[Spiking_Neural_Network]]
 [[TCC_Topology_Interconnect]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[DRBE_MVP_Mainchain]]
 [[Heterogeneous_Integration]]
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]

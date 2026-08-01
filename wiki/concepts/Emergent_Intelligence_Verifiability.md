@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
@@ -19,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
+[[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -32,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]
+[[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
 

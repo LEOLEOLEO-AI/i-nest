@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]
+[[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[ScaleFreeNetwork]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

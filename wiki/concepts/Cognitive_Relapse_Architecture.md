@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
+[[DRBE_MVP_Mainchain]]
 [[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
 [[MetricComputationAuthenticity]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

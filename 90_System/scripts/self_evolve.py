@@ -191,6 +191,8 @@ def step_grow_missing_concepts(broken_freq, max_new=10, min_refs=3):
             continue
         if tgt in DENY_CONCEPT:
             continue
+        if "日记" in tgt or "全景导航" in tgt or "Map of Content" in tgt:
+            continue  # 导航/MOC/日记页, 非概念, 跳过
         if tgt in nb or tgt in np_ or tgt in fp or tgt in dirs:
             continue
         candidates.append((tgt, c))

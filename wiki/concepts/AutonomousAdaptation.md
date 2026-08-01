@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
@@ -21,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
+[[MultiplicativeGainCondition]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
 [[Nonlinear_Gain]]
@@ -33,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

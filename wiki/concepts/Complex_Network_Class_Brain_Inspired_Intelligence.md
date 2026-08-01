@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
 [[Heterogeneous_Integration]]
@@ -22,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroscopicDescriptor]]
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
+[[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -31,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[ScaleFreeNetwork]]
 [[Wafer_Scale_Neuromorphic]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

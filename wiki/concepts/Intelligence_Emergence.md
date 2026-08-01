@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Verifiability]]
 [[InNetwork_CST_Offload]]
 [[Macro_System_Description]]
+[[MultiplicativeGainCondition]]
 [[Order_Flexibility_Duality]]
 [[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[UniversalIntelligence_Emergence]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

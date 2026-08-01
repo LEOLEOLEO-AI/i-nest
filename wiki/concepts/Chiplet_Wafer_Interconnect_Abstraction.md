@@ -16,10 +16,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
+[[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[MetricComputationAuthenticity]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Next_Gen_AI_Application_Scenarios]]
@@ -30,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
 [[TemporalComplexity_Tc]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

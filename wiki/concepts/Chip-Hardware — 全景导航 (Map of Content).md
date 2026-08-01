@@ -22,3 +22,16 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Chiplet_Heterogeneous_Integration]]
+[[Memristor_Synapse]]
+[[MetricComputationAuthenticity]]
+[[NCL神经计算定律详解]]
+[[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI_Four_Rules]]
+[[Wafer_Scale_Neuromorphic]]
+[[iNEST]]
+[[vLLM_plugin_FLSDI]]

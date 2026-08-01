@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[DRBE_MVP_Mainchain]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Network_Topology_Design]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[TemporalComplexity_Tc]]
 [[TopologyProgramming]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

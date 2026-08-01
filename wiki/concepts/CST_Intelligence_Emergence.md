@@ -22,12 +22,14 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_ANN_Hardware]]
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
+[[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[ScaleFreeNetwork]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

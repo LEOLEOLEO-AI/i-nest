@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Attention_Residuals]]
+[[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]
@@ -22,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]
+[[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -33,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetwork]]
 [[Spiking_Neural_Network]]
 [[SystemLevelNonlinearity]]
+[[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources
