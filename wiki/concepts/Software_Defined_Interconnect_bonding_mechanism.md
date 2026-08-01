@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

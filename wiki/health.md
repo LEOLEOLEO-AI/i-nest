@@ -6,7 +6,7 @@
 ## Stats
 - **Total Concepts**: 191
 - **Total Articles**: 27
-- **Orphan Concepts**: 67
+- **Orphan Concepts**: 65
 - **Knowledge Graph Density**: Medium
 
 ## Orphan Concepts (no incoming links)
@@ -21,7 +21,6 @@
 - [[BigBrainCellularAxis]]
 - [[CST_Theory]]
 - [[ChipletWaferInterconnectTopology]]
-- [[Chiplet_Wafer_Interconnect_Abstraction]]
 - [[Cognitive_Relapse_Architecture]]
 - [[ComplexSystem_Definition]]
 - [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -29,7 +28,6 @@
 - [[Contested_Prior_Resolution]]
 - [[DRBE_MVP_Mainchain]]
 - [[DataDrivenCellularAxis]]
-- [[DataProvenanceIntegrity]]
 - [[Decoupled_Prior_States]]
 - [[Deep_Network_Layer_Stacking]]
 - [[Evolutionary_Computability]]
@@ -50,7 +48,9 @@
 - [[Network_Spatiotemporal_Synergy]]
 - [[Network_on_Chip_communication_architecture]]
 - [[Network_topology_and_interconnection_patterns]]
-- ... 27 more
+- [[Neuromorphic_Substrate]]
+- [[NonAbelian_Gauge_Topology]]
+- ... 25 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

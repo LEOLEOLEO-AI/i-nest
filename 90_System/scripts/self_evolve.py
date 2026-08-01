@@ -88,7 +88,7 @@ def step_vault_health():
     dirs = set()
     link_re = re.compile(r"\[\[([^\]]+)\]]")
     for f in VAULT.rglob("*"):
-        rel = str(f.relative_to(VAULT))
+        rel = f.relative_to(VAULT).as_posix()
         if rel.startswith(".git"):
             continue
         if f.is_dir():
@@ -103,7 +103,7 @@ def step_vault_health():
     missing_fm = 0
     outgoing = defaultdict(set)   # note basename -> {targets}
     for f in VAULT.rglob("*.md"):
-        rel = str(f.relative_to(VAULT))
+        rel = f.relative_to(VAULT).as_posix()
         if rel.startswith(".git"):
             continue
         try:

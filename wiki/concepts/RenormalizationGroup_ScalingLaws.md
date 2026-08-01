@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CST_Exponential_Form]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

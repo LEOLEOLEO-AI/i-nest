@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
 [[Heterogeneous_Integration]]
 [[Memristor_Synapse]]

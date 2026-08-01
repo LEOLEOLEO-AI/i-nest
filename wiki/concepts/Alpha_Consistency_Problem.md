@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[CST_Equation]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[Heterogeneous_Integration]]

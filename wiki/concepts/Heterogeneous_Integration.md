@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_MVP]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Chiplet_based_heterogeneous_integration]]
 [[FPGA_Prototype_Validation]]
 [[Mesoscale_Heterogeneous_Integration]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Verifiability]]
 [[Macro_System_Description]]
 [[Order_Flexibility_Duality]]
+[[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_Four_Rules]]

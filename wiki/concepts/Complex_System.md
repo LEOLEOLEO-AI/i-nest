@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Attention_Residuals]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

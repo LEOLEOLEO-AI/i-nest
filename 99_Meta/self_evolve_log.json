@@ -242,5 +242,137 @@
       "已提交 189 个文件。",
       "已推送 github main。"
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "time": "2026-08-01T09:17:40.913449",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-01",
+        "total_notes": 4453,
+        "missing_frontmatter": 1274,
+        "broken_links": 2234,
+        "broken_samples": [
+          [
+            "Home",
+            "wiki/task_recommendations"
+          ],
+          [
+            "Home",
+            "60_MOC/04_Daily_Focus"
+          ],
+          [
+            "Home",
+            "60_MOC/TCC_iNEST_成果全景"
+          ],
+          [
+            "Home",
+            "90_System/scripts/classify_provenance.py"
+          ],
+          [
+            "Home",
+            "wiki/health"
+          ],
+          [
+            "Home",
+            "60_MOC/10_Own_Research_Diagnosis"
+          ],
+          [
+            "Home",
+            "60_MOC/11_External_Literature_Index"
+          ],
+          [
+            "Home",
+            "wiki/evolution_report"
+          ],
+          [
+            "Home",
+            "wiki/index"
+          ],
+          [
+            "Home",
+            "wiki/cross_domain_insights"
+          ],
+          [
+            "Home",
+            "99_Meta/classification.json"
+          ],
+          [
+            "Home",
+            "00_Inbox/_pipeline_insights"
+          ],
+          [
+            "Home",
+            "60_MOC/07_Pipeline_Status"
+          ],
+          [
+            "Home",
+            "60_MOC/00_知识库治理中枢"
+          ],
+          [
+            "Home",
+            "00_ADR_决策记录"
+          ],
+          [
+            "Home",
+            "60_MOC/03_Daily_Action"
+          ],
+          [
+            "Home",
+            "30_TCC/TCC_Master_Index"
+          ],
+          [
+            "Home",
+            "40_iNEST/iNEST_Master_Index"
+          ],
+          [
+            "Home",
+            "99_Meta/hypothesis_registry.json"
+          ],
+          [
+            "getnote_2026-07-31_getnote_1917118403083276376_Route≡Transform：拓扑兼容条件下通信即计算的代数框架与拓扑中心计算原语体系",
+            "CST计量仪"
+          ],
+          [
+            "getnote_2026-07-31_getnote_1917118403083276376_Route≡Transform：拓扑兼容条件下通信即计算的代数框架与拓扑中心计算原语体系",
+            "NCL神经计算定律详解"
+          ],
+          [
+            "iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现",
+            "CST计量仪"
+          ],
+          [
+            "iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现",
+            "NCL神经计算定律详解"
+          ],
+          [
+            "TCC_Knowledge_Base_Baseline_v2.0",
+            "TCC_项目实施方案_v30_最终版.docx"
+          ],
+          [
+            "TCC_Knowledge_Base_Baseline_v2.0",
+            "拓扑中心计算范式架构研究与液态拓扑端侧MVP验证（20260702）.pptx"
+          ]
+        ],
+        "orphan_notes": 2128
+      },
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | [09:17:41] === Wiki Compiler v1.0 ===\n[09:17:41] LLM enabled: True\n[09:17:41] Last compile: 2026-08-01\n[09:17:41] Phase 1: Found 0 new/changed raw files\n[09:17:41] No new files to process. Running health check only.\n[09:17:41] Done.\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | [09:17:41] wiki_grow start\n  concepts loaded: 191\n  concepts now: 191 | linked: 183 | orphans: 67\n  index/backlinks/health refreshed.\n[09:17:47] wiki_grow done — orphans 67/191\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 4453 | 真正断链 2234 | 孤儿 2128 | 缺FM 1274 -> vault_health.md",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [09:18:07] === Homepage Generator ===\n[09:18:08] Home.md generated (4424 chars)\n[09:18:08] === Done ===\n",
+      "已提交 188 个文件。",
+      "已推送 github main。"
+    ]
   }
 ]

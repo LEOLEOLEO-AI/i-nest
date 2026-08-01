@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
+[[DataProvenanceIntegrity]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

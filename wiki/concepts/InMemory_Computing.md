@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Attention_Residuals]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[Core_Spacetime_Tensor]]
 [[Emergent_Intelligence_Threshold]]

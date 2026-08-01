@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_on_Chip]]

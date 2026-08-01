@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[Heterogeneous_Integration]]

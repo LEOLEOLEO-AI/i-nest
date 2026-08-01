@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Attention_Residuals]]
+[[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]

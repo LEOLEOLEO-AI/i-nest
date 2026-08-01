@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CST_Equation]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[Emergent_Intelligence_Threshold]]

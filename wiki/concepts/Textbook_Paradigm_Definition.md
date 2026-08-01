@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[DiagnosticReportFramework]]
 [[Heterogeneous_Integration]]
 [[InMemory_Computing]]

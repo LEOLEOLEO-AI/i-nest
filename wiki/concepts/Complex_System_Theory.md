@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGainCondition]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
+[[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_Four_Rules]]

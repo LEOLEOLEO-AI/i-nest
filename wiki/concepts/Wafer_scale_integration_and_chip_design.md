@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_MVP]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[FlagScale]]
 [[Heterogeneous_Integration]]
 [[Memristor_Synapse]]

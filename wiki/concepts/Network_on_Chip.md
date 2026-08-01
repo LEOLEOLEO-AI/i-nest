@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Core_Spacetime_Tensor]]
 [[FlagScale]]
 [[Heterogeneous_Integration]]

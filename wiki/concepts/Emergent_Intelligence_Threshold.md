@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Attention_Residuals]]
 [[Contested_Priors_Mechanism]]
+[[DataProvenanceIntegrity]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
