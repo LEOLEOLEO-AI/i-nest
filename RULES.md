@@ -1,5 +1,8 @@
-# AI助手工作规则
-
+---
+title: AI助手工作规则
+tags:
+- simulation
+---
 ## 执行失败应对
 - exec失败1次 → 重试，换命令写法
 - exec失败2次 → 换工具（read/write/message/canvas）

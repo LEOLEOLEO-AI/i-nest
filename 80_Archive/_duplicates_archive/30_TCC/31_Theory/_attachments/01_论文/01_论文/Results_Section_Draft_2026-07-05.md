@@ -1,5 +1,7 @@
-# Results
-
+---
+title: Results
+tags: []
+---
 ## 3.1 Data Validation & Integrity
 
 The Hemibrain connectome comprises 31,431 neurons and 100,000 synaptic connections, 

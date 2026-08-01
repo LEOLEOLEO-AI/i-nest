@@ -25,13 +25,20 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
+[[EmergentOrder]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
+[[SystemLevelNonlinearity]]
 [[VonNeumann_Complexity_Threshold]]
 [[iNEST]]

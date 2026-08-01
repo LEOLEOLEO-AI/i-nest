@@ -1,5 +1,8 @@
-# SDI_Bond
-
+---
+title: SDI_Bond
+tags:
+- chiplet
+---
 **Domain**: TCC
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -13,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_MVP]]
+[[Alpha_Computation_Consistency]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[DRBE_MVP_Mainchain]]
@@ -26,12 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect_bonding_mechanism]]
 [[Spacetime_Coupling_Coefficient]]
 [[Structural_Mismatch]]
+[[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]
 
 ## Sources

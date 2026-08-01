@@ -1,2 +1,8 @@
+---
+title: ​Nat._Commun.长文综述：具身神经形态智能
+tags:
+- embodied-ai
+- survey
+---
 > [!note]- 可能重复: [[​Nat._Commun.长文综述：具身神经形态智能]]
 > 此文件与 [[​Nat._Commun.长文综述：具身神经形态智能]] 内容重复，已保留高质量版本。

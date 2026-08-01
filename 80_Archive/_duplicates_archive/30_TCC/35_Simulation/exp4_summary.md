@@ -1,5 +1,11 @@
-# SDI 实验四：竞争性修剪规则——模块化涌现验证
-
+---
+title: SDI 实验四：竞争性修剪规则——模块化涌现验证
+tags:
+- criticality
+- emergence
+- small-world-networks
+- synapse
+---
 ## 实验背景
 
 实验三发现：SDI v13的三规则（STDP+WS重连+突触缩放）能驱动小世界涌现（σ>3），但模块化系数Q随演化单调下降（终态Q<0.1）。

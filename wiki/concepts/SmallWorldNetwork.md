@@ -1,5 +1,8 @@
-# SmallWorldNetwork
-
+---
+title: SmallWorldNetwork
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -17,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -27,10 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
+[[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
 

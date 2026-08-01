@@ -1,2 +1,7 @@
+---
+title: Chiplet的互连架构与实施技术
+tags:
+- chiplet
+---
 > [!note]- 可能重复: [[Chiplet的互连架构与实施技术]]
 > 此文件与 [[Chiplet的互连架构与实施技术]] 内容重复，已保留最大版本。

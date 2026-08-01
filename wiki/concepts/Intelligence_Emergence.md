@@ -1,5 +1,7 @@
-# Intelligence_Emergence
-
+---
+title: Intelligence_Emergence
+tags: []
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -22,14 +24,18 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_CST_Offload]]
 [[Macro_System_Description]]
 [[MultiplicativeGainCondition]]
+[[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[SystemLevelNonlinearity]]
+[[TopologyFragility]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
 

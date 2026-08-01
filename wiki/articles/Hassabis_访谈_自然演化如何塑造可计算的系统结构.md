@@ -1,5 +1,8 @@
-# Hassabis 访谈：自然演化如何塑造可计算的系统结构
-
+---
+title: Hassabis 访谈：自然演化如何塑造可计算的系统结构
+tags:
+- topology
+---
 **Domain**: TCC
 **Source**: raw\tcc\papers\Hassabis2025_演化结构可计算_与SDI四规则对照分析.md
 **Compiled**: 2026-08-01

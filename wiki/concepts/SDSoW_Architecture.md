@@ -1,5 +1,8 @@
-# SDSoW_Architecture
-
+---
+title: SDSoW_Architecture
+tags:
+- chiplet
+---
 **Domain**: TCC
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -12,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Alpha_Computation_Consistency]]
 [[CST_Equation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
@@ -31,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect_bonding_mechanism]]
 [[Spacetime_Coupling_Coefficient]]

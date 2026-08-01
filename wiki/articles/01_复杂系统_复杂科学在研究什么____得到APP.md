@@ -1,5 +1,7 @@
-# 01_复杂系统：复杂科学在研究什么？_-_得到APP
-
+---
+title: 01_复杂系统：复杂科学在研究什么？_-_得到APP
+tags: []
+---
 **Domain**: Cross
 **Source**: raw\inest\papers\01_复杂系统：复杂科学在研究什么？_-_得到APP.md
 **Compiled**: 2026-08-01

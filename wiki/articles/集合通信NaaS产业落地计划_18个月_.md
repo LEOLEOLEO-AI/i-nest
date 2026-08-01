@@ -1,5 +1,10 @@
-# 集合通信NaaS产业落地计划（18个月）
-
+---
+title: 集合通信NaaS产业落地计划（18个月）
+tags:
+- chip
+- chiplet
+- topology
+---
 **Domain**: TCC
 **Source**: raw\tcc\papers\18个月研究计划.md
 **Compiled**: 2026-08-01

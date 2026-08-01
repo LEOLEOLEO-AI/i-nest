@@ -1,5 +1,7 @@
-# SDI_STDP_Bond
-
+---
+title: SDI_STDP_Bond
+tags: []
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -16,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
+[[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
 [[MacroscopicDescriptor]]
@@ -24,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
@@ -31,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScaleFreeNetworks]]
 [[Spiking_Neural_Network]]
+[[SystemLevelNonlinearity]]
 [[iNEST]]
 
 ## Sources

@@ -1,5 +1,7 @@
-# Nonlinear_Gain
-
+---
+title: Nonlinear_Gain
+tags: []
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -16,9 +18,11 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
+[[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[InNetwork_CST_Offload]]
+[[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[MultiplicativeGainCondition]]
 [[National_Innovation_Center_Role]]
@@ -27,11 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[SingleSourceOfTruthMetric]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[SystemLevelNonlinearity]]
 [[ThermalNoiseHarnessing]]
+[[TopologyFragility]]
 [[iNEST]]
 
 ## Sources

@@ -1,2 +1,7 @@
+---
+title: 谈谈「Chiplet」
+tags:
+- chiplet
+---
 > [!note]- 可能重复: [[谈谈「Chiplet」]]
 > 此文件与 [[谈谈「Chiplet」]] 内容重复，已保留最大版本。

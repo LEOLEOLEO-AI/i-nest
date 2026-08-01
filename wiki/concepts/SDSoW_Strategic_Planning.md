@@ -1,5 +1,8 @@
-# SDSoW_Strategic_Planning
-
+---
+title: SDSoW_Strategic_Planning
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -17,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
 [[Network_Topology_Design]]
@@ -25,12 +29,16 @@ Auto-extracted concept from raw material compilation.
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
+[[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
 [[Wafer_Scale_Neuromorphic]]

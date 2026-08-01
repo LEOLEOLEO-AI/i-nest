@@ -1,5 +1,10 @@
-# CST 指数形式的严格推导
-
+---
+title: CST 指数形式的严格推导
+tags:
+- dynamics
+- emergence
+- topology
+---
 **Domain**: TCC
 **Source**: raw\tcc\papers\CST_Exponential_Form_Proof_2026-07-07.md
 **Compiled**: 2026-08-01
@@ -23,4 +28,5 @@ TCC, 拓扑
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[TCC]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

@@ -1,5 +1,17 @@
-# SDI 架构的完整设计 - 化合键 + 元拓扑 + 脉冲激活
-
+---
+title: SDI 架构的完整设计 - 化合键 + 元拓扑 + 脉冲激活
+tags:
+- brain
+- chip
+- criticality
+- neural-networks
+- neuron
+- self-organization
+- simulation
+- synapse
+- topology
+date: '2026-07-03'
+---
 **用户输入** (2026-07-03 07:15 EDT)：SDI 的交换方案详解
 
 ---

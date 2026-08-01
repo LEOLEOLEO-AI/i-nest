@@ -25,10 +25,17 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[Alpha_Computation_Consistency]]
 [[CST计量仪]]
-[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
+[[EmergentOrder]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[P_Paradigm]]
+[[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
+[[SystemLevelNonlinearity]]
 [[iNEST]]

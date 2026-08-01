@@ -1,5 +1,7 @@
-# v22 SDI Self-Evolution Mechanism Design
-
+---
+title: v22 SDI Self-Evolution Mechanism Design
+tags: []
+---
 **Project**: iNEST SDI Self-Evolving Network Simulation Platform
 **Document**: v22 Upgrade Design from v8 Baseline
 **Version**: v1.0

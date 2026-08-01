@@ -1,5 +1,9 @@
-# TCC + iNEST 系统健康诊断
-
+---
+title: TCC + iNEST 系统健康诊断
+tags:
+- large-language-model
+- paper
+---
 > 诊断时间：2026-07-19。本报告只记录已验证事实，不将推测作为结论。
 
 ## 总体评级：C（基础服务可用，研究闭环存在阻断项）

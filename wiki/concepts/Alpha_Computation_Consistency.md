@@ -1,5 +1,8 @@
-# Alpha_Computation_Consistency
-
+---
+title: Alpha_Computation_Consistency
+tags:
+- chiplet
+---
 **Domain**: TCC
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -27,13 +30,16 @@ Auto-extracted concept from raw material compilation.
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
+[[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
+[[TopologyFragility]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

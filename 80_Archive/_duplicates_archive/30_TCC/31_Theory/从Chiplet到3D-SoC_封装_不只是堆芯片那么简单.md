@@ -1,2 +1,8 @@
+---
+title: 从Chiplet到3D-SoC_封装_不只是堆芯片那么简单
+tags:
+- chip
+- chiplet
+---
 > [!note]- 可能重复: [[从Chiplet到3D-SoC_封装_不只是堆芯片那么简单]]
 > 此文件与 [[从Chiplet到3D-SoC_封装_不只是堆芯片那么简单]] 内容重复，已保留最大版本。

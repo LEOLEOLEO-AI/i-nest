@@ -1,2 +1,8 @@
+---
+title: 论文框架_P-Mapping_六原语物理拓扑映射
+tags:
+- paper
+- topology
+---
 > [!note]- 可能重复: [[论文框架_P-Mapping_六原语物理拓扑映射]]
 > 此文件与 [[论文框架_P-Mapping_六原语物理拓扑映射]] 内容重复，已保留最大版本。

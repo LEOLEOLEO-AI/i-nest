@@ -1,5 +1,8 @@
-# iNEST理论实证
-
+---
+title: iNEST理论实证
+tags:
+- topology
+---
 **Domain**: TCC
 **Source**: raw\inest\papers\iNEST理论实证.md
 **Compiled**: 2026-08-01

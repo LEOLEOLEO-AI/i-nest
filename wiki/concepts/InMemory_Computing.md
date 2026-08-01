@@ -1,5 +1,8 @@
-# InMemory_Computing
-
+---
+title: InMemory_Computing
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -12,12 +15,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Alpha_Computation_Consistency]]
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]

@@ -1,2 +1,8 @@
+---
+title: 神经网络设计是一种“妥协的艺术”：从MLP到Transformer的演进之路
+tags:
+- neural-networks
+- transformer
+---
 > [!note]- 可能重复: [[神经网络设计是一种“妥协的艺术”：从MLP到Transformer的演进之路]]
 > 此文件与 [[神经网络设计是一种“妥协的艺术”：从MLP到Transformer的演进之路]] 内容重复，已保留高质量版本。

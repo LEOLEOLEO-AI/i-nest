@@ -1,5 +1,8 @@
-# NoC_Chiplet_Wafer_Stack
-
+---
+title: NoC_Chiplet_Wafer_Stack
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -17,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
@@ -24,11 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
+[[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]
 [[iNEST]]
 

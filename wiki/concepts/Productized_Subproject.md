@@ -1,5 +1,7 @@
-# Productized_Subproject
-
+---
+title: Productized_Subproject
+tags: []
+---
 **Domain**: TCC
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01

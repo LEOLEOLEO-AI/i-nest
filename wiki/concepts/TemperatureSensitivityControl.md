@@ -1,5 +1,8 @@
-# TemperatureSensitivityControl
-
+---
+title: TemperatureSensitivityControl
+tags:
+- chiplet
+---
 **Domain**: TCC
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -12,10 +15,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Alpha_Computation_Consistency]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[DRBE_MVP_Mainchain]]
 [[EulaminateOverrepresentation]]
+[[FPGA_Prototype_Validation]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

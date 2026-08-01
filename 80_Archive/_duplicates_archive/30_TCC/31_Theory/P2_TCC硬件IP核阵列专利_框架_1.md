@@ -1,4 +1,12 @@
-# 专利 P2：面向TCC的可重构原语硬件IP核阵列
+---
+title: 专利 P2：面向TCC的可重构原语硬件IP核阵列
+tags:
+- chip
+- graph-neural-network
+- patent
+- topology
+- transformer
+---
 # Patent P2: Reconfigurable Primitive IP Core Array for TCC
 # 状态：📋 框架完成 | 目标提交：2026年7月（CNIPA）
 ---

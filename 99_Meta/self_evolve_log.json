@@ -929,5 +929,150 @@
       "已提交 227 个文件。",
       "已推送 github main。"
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "time": "2026-08-01T10:05:46.579930",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-01",
+        "total_notes": 4468,
+        "missing_frontmatter": 1275,
+        "broken_links": 1708,
+        "broken_samples": [
+          [
+            "神经网络",
+            47
+          ],
+          [
+            "ClearSight: 基于事件相机与生物启发的运动去模糊研究",
+            28
+          ],
+          [
+            "待分类",
+            16
+          ],
+          [
+            "iNEST 机构 — 全景导航 (Map of Content)",
+            14
+          ],
+          [
+            "2025年10月28号 日记",
+            11
+          ],
+          [
+            "神经形态计算",
+            11
+          ],
+          [
+            "2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly",
+            10
+          ],
+          [
+            "30_TCC\\34_Projects\\_from_ideas\\卫星智能体重大专项建议_v4.md",
+            9
+          ],
+          [
+            "论文",
+            9
+          ],
+          [
+            "300″",
+            9
+          ],
+          [
+            "00_Inbox/_pipeline_insights/八大神经网络，从原理到应用",
+            9
+          ],
+          [
+            "2026-06-24_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with",
+            8
+          ],
+          [
+            "Nat. Com.：可穿戴神经形态系统",
+            8
+          ],
+          [
+            "Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来",
+            8
+          ],
+          [
+            "具身智能的基本原理、关键技术、应用场景",
+            8
+          ],
+          [
+            "SOC",
+            8
+          ],
+          [
+            "Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI",
+            7
+          ],
+          [
+            "Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为计算优势",
+            7
+          ],
+          [
+            "6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进",
+            7
+          ],
+          [
+            "Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？",
+            7
+          ],
+          [
+            "1",
+            6
+          ],
+          [
+            "类脑芯片",
+            6
+          ],
+          [
+            "03 涌现：整体的能力不能还原回个体？ - 得到APP",
+            6
+          ],
+          [
+            "2026-06-28_Getnote_2026-06-28_学习重塑神经表征几何_灵长类前额叶皮层演化规律与大模型学习机制的跨领域统一研究",
+            5
+          ],
+          [
+            "(Nat. Commun. 综述)",
+            5
+          ]
+        ],
+        "orphan_notes": 2101
+      },
+      "grow_concepts": [
+        "神经网络",
+        "待分类",
+        "神经形态计算",
+        "论文",
+        "300″",
+        "Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来",
+        "具身智能的基本原理、关键技术、应用场景",
+        "SOC",
+        "6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进"
+      ],
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | [10:05:46] === Wiki Compiler v1.0 ===\n[10:05:46] LLM enabled: True\n[10:05:46] Last compile: 2026-08-01\n[10:05:47] Phase 1: Found 0 new/changed raw files\n[10:05:47] No new files to process. Running health check only.\n[10:05:50] Done.\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | tart\n  concepts loaded: 210\n  merged 4 duplicate concept(s): {'神经网络': '涌现动力学如何用来分析复杂系统？', '待分类': '涌现动力学如何用来分析复杂系统？', '论文': '涌现动力学如何用来分析复杂系统？', '神经形态计算': '涌现动力学如何用来分析复杂系统？'}\n  concepts now: 206 | linked: 201 | orphans: 63\n  index/backlinks/health refreshed.\n[10:06:00] wiki_grow done — orphans 63/206\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 4468 | 真正断链 1708 | 孤儿 2101 | 缺FM 1275 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "已补全 9 个缺失概念: ['神经网络', '待分类', '神经形态计算', '论文', '300″', 'Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来', '具身智能的基本原理、关键技术、应用场景', 'SOC', '6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进']",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [10:07:30] === Homepage Generator ===\n[10:07:31] Home.md generated (4430 chars)\n[10:07:31] === Done ===\n",
+      "已提交 242 个文件。",
+      "已推送 github main。"
+    ]
   }
 ]

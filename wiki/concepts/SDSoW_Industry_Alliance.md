@@ -1,5 +1,8 @@
-# SDSoW_Industry_Alliance
-
+---
+title: SDSoW_Industry_Alliance
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -17,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[FlagScale]]
 [[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
@@ -26,13 +30,17 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
+[[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]
 [[Universal_Scaling_Laws]]
 

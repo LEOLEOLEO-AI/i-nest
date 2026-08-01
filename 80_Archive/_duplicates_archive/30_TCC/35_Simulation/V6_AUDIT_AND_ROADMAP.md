@@ -1,5 +1,16 @@
-# SDI 实验五 v6 — 代码审计与下一步路线图
-
+---
+title: SDI 实验五 v6 — 代码审计与下一步路线图
+tags:
+- criticality
+- dynamics
+- emergence
+- free-energy-principle
+- neuron
+- plasticity
+- self-organization
+- simulation
+- synapse
+---
 **审计时间**: 2026-05-09  
 **审计对象**: `sdi_experiment5_v6.py`  
 **基准**: Beggs & Plenz 2003, Friedman 2012 PRL, Priesemann 2014 PLOS CB

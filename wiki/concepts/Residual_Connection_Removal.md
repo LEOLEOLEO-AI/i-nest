@@ -1,5 +1,8 @@
-# Residual_Connection_Removal
-
+---
+title: Residual_Connection_Removal
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -18,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
@@ -29,10 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
+[[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
 [[iNEST]]

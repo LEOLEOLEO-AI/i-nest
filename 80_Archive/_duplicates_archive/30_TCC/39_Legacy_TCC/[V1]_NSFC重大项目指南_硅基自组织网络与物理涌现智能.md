@@ -1,4 +1,17 @@
-# 国家自然科学基金重大项目指南建议书（2000万元级）
+---
+title: 国家自然科学基金重大项目指南建议书（2000万元级）
+tags:
+- brain
+- chip
+- complex-networks
+- criticality
+- dynamics
+- embodied-ai
+- emergence
+- free-energy-principle
+- large-language-model
+- neural-networks
+---
 ## 硅基自组织网络的物理涌现机制与类脑时空协同计算架构
 
 ### 一、 立项依据与战略意义

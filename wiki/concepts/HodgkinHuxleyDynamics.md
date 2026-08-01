@@ -1,5 +1,8 @@
-# HodgkinHuxleyDynamics
-
+---
+title: HodgkinHuxleyDynamics
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -17,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
@@ -27,12 +31,16 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[SmallWorldNetwork]]
 [[Spacetime_Coupling_Coefficient]]
 [[Spiking_Neural_Network]]
+[[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
 [[iNEST]]
 

@@ -1,5 +1,16 @@
-# 2026-06-19 真实连接组数据导入计划总结
-
+---
+title: 2026-06-19 真实连接组数据导入计划总结
+tags:
+- brain
+- dynamics
+- neuron
+- paper
+- simulation
+- small-world-networks
+- synapse
+- topology
+date: '2026-06-19'
+---
 ## 【关键发现】
 
 您已有完整的真实连接组数据和分析框架，现在需要的是**动力学仿真的集成**。

@@ -1,5 +1,7 @@
-# Complex_System_Theory
-
+---
+title: Complex_System_Theory
+tags: []
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -16,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complexity_Emergence]]
 [[Contested_Priors_Mechanism]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
@@ -30,9 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]
+[[TopologyFragility]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
 

@@ -1,5 +1,7 @@
-# Neuromorphic_computing_architecture
-
+---
+title: Neuromorphic_computing_architecture
+tags: []
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -16,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
@@ -36,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetwork]]
 [[Spiking_Neural_Network]]
 [[SystemLevelNonlinearity]]
+[[TopologyFragility]]
 [[iNEST]]
 
 ## Sources

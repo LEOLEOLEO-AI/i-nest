@@ -1,5 +1,12 @@
-# AIRA + V-JEPA 2 对 iNEST 的启迪分析
-
+---
+title: AIRA + V-JEPA 2 对 iNEST 的启迪分析
+tags:
+- dynamics
+- emergence
+- neural-networks
+- paper
+- transformer
+---
 **Domain**: iNEST
 **Source**: raw\inest\papers\AIRA_VJEPA2_iNEST分析_2026-05-23.md
 **Compiled**: 2026-08-01
@@ -16,8 +23,12 @@ STDP, iNEST, 忆阻
 
 ## Related Concepts
 
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[STDP_Plasticity]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
+[[论文]]

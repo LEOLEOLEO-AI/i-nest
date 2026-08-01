@@ -1,5 +1,16 @@
-# 2026-06-19 刘教授的关键洞察：规模-智能矛盾
-
+---
+title: 2026-06-19 刘教授的关键洞察：规模-智能矛盾
+tags:
+- brain
+- emergence
+- neural-networks
+- neuron
+- paper
+- plasticity
+- simulation
+- topology
+date: '2026-06-19'
+---
 ## 问题陈述
 
 > "这一路所有的仿真实验，神经网络规模都不够。按照 iNEST 的理论，只能有感知或反应级的智能，不应该有高阶智能。这个怎么解释？"

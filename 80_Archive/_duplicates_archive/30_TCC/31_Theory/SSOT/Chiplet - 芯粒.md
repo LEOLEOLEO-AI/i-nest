@@ -1,2 +1,7 @@
+---
+title: Chiplet - 芯粒
+tags:
+- chiplet
+---
 > [!note]- 可能重复: [[Chiplet - 芯粒]]
 > 此文件与 [[Chiplet - 芯粒]] 内容重复，已保留最大版本。

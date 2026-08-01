@@ -26,12 +26,17 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[CST计量仪]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
+[[EmergentOrder]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Residual_Connection_Removal]]
+[[SystemLevelNonlinearity]]
 [[VonNeumann_Complexity_Threshold]]
 [[iNEST]]

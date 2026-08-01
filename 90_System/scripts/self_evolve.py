@@ -189,6 +189,8 @@ def step_grow_missing_concepts(broken_freq, max_new=10, min_refs=3):
             continue
         if not (2 <= len(tgt) <= 50):
             continue
+        if tgt.isdigit():          # 纯数字链接(footnote/列表) 非概念, 跳过
+            continue
         if tgt in DENY_CONCEPT:
             continue
         if "日记" in tgt or "全景导航" in tgt or "Map of Content" in tgt:

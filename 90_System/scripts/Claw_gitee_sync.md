@@ -1,3 +1,10 @@
+---
+title: Claw_gitee_sync
+tags:
+- paper
+- patent
+- simulation
+---
 ﻿# Claw Computer 同步 Gitee 指令
 
 ## 触发词

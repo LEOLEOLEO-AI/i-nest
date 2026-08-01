@@ -1,5 +1,7 @@
-# Patent_Textbook_Synchronization
-
+---
+title: Patent_Textbook_Synchronization
+tags: []
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01

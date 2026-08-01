@@ -1,5 +1,8 @@
-# SystemLevelNonlinearity
-
+---
+title: SystemLevelNonlinearity
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -12,14 +15,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Alpha_Computation_Consistency]]
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -31,7 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
 [[TemporalComplexity_Tc]]
 

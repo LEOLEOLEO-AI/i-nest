@@ -1,5 +1,8 @@
-# SimulationReproducibilityAudit
-
+---
+title: SimulationReproducibilityAudit
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -16,10 +19,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Network_Topology_Design]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
@@ -28,7 +33,9 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
+[[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]
 [[TopologyProgramming]]
 [[iNEST]]

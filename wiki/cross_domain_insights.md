@@ -1,5 +1,8 @@
-# Cross-Domain Insights
-
+---
+title: Cross-Domain Insights
+tags:
+- chiplet
+---
 **Generated**: 2026-08-01
 
 ## Active Bridges (5)

@@ -1,5 +1,15 @@
-# Session Memory - 2026-07-03 W2-3 补充记录
-
+---
+title: Session Memory - 2026-07-03 W2-3 补充记录
+tags:
+- neural-networks
+- neuron
+- paper
+- scale-free-networks
+- small-world-networks
+- synapse
+- topology
+date: '2026-07-03'
+---
 **时间**：2026-07-03 03:29 ~ 03:44 EDT
 **主题**：第 2-3 周拓扑指标计算初步执行
 

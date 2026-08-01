@@ -1,5 +1,15 @@
-# 论文 A9 框架（待补充）
-
+---
+title: 论文 A9 框架（待补充）
+tags:
+- emergence
+- free-energy-principle
+- information-theory
+- neuron
+- paper
+- plasticity
+- simulation
+- topology
+---
 ---
 
 ## 补充：预测编码 → FEP → SDI → CST 完整等价链（2026-05-16）

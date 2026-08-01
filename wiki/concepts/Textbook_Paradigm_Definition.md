@@ -1,5 +1,8 @@
-# Textbook_Paradigm_Definition
-
+---
+title: Textbook_Paradigm_Definition
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -13,12 +16,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Alpha_Computation_Consistency]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[DRBE_MVP_Mainchain]]
 [[DiagnosticReportFramework]]
+[[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[InMemory_Computing]]
+[[Intelligence_Emergence]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[NonAbelian_Gauge_Topology]]
@@ -26,9 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGainProof]]

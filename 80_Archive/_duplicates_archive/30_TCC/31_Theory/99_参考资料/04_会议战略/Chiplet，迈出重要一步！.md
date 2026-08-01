@@ -1,2 +1,7 @@
+---
+title: Chiplet，迈出重要一步！
+tags:
+- chiplet
+---
 > [!note]- 可能重复: [[Chiplet，迈出重要一步！]]
 > 此文件与 [[Chiplet，迈出重要一步！]] 内容重复，已保留最大版本。

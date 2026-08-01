@@ -1,5 +1,17 @@
-# iNEST 课题组 SDI 演化仿真平台 (SDI Simulator) 推进策略 (v22升级版)
-
+---
+title: iNEST 课题组 SDI 演化仿真平台 (SDI Simulator) 推进策略 (v22升级版)
+tags:
+- brain
+- criticality
+- emergence
+- free-energy-principle
+- large-language-model
+- paper
+- self-organization
+- simulation
+- synapse
+- topology
+---
 > **指挥官（刘老师）定调**：
 > 第一阶段（纯理论）：验证 CST 值与物种智能等级的单调性及阈值相变（已完成并在第一篇论文中确立）。
 > 第二阶段（工程验证/演化机制）：在数字世界中，通过 STDP、最小自由能 (FEP)、最小作用量等物理机制，**让一个初始随机的网络在与外部数据的交互中“自我进化”**。要通过调整 SDI 化合键的物理实现方式，让它能自主涌现出类似线虫、果蝇、甚至灵长类大脑的拓扑特征（即 $\sigma$ 和 $\tau$）。

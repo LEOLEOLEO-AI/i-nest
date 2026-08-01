@@ -1,5 +1,8 @@
-# MultiplicativeGainCondition
-
+---
+title: MultiplicativeGainCondition
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -12,11 +15,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Alpha_Computation_Consistency]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -27,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]

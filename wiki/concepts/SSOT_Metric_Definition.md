@@ -1,5 +1,7 @@
-# SSOT_Metric_Definition
-
+---
+title: SSOT_Metric_Definition
+tags: []
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01

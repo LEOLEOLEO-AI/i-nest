@@ -1,2 +1,8 @@
+---
+title: Chiplets-芯片互连物理接口
+tags:
+- chip
+- chiplet
+---
 > [!note]- 可能重复: [[Chiplets-芯片互连物理接口]]
 > 此文件与 [[Chiplets-芯片互连物理接口]] 内容重复，已保留最大版本。

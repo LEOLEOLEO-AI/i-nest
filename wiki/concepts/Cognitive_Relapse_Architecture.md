@@ -1,5 +1,8 @@
-# Cognitive_Relapse_Architecture
-
+---
+title: Cognitive_Relapse_Architecture
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -18,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
 [[MetricComputationAuthenticity]]
@@ -25,11 +29,15 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
+[[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
 [[iNEST]]

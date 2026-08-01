@@ -25,13 +25,20 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
+[[EmergentOrder]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
+[[SystemLevelNonlinearity]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]

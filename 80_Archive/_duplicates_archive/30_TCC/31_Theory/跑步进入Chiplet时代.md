@@ -1,2 +1,7 @@
+---
+title: 跑步进入Chiplet时代
+tags:
+- chiplet
+---
 > [!note]- 可能重复: [[跑步进入Chiplet时代]]
 > 此文件与 [[跑步进入Chiplet时代]] 内容重复，已保留最大版本。

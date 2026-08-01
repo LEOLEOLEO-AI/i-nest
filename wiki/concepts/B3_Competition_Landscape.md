@@ -1,5 +1,8 @@
-# B3_Competition_Landscape
-
+---
+title: B3_Competition_Landscape
+tags:
+- transformer
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30

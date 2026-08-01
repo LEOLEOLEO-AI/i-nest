@@ -1,5 +1,10 @@
-# 复杂网络智能涌现（iNEST/INEST）
-
+---
+title: 复杂网络智能涌现（iNEST/INEST）
+tags:
+- complex-networks
+- dynamics
+- emergence
+---
 **Domain**: iNEST
 **Source**: raw\inest\papers\研究方向_INEST.md
 **Compiled**: 2026-08-01
@@ -21,4 +26,7 @@ iNEST
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[iNEST]]
+[[复杂网络]]
+[[智能涌现]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

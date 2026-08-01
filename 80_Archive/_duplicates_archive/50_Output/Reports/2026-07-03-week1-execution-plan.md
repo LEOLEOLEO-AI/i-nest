@@ -1,5 +1,14 @@
-# iNEST 第 1 周仿真实验计划 - 数据修复与准备
-
+---
+title: iNEST 第 1 周仿真实验计划 - 数据修复与准备
+tags:
+- large-language-model
+- neuron
+- scale-free-networks
+- simulation
+- synapse
+- topology
+date: '2026-07-03'
+---
 **开始日期**：2026-07-03 (Friday)
 **完成目标**：2026-07-10 (Thursday)
 **版本**：v1.0-WEEK1-EXECUTION

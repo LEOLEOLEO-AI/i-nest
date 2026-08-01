@@ -1,5 +1,11 @@
-# Transformer十年瓶颈被Kimi3揪出
-
+---
+title: Transformer十年瓶颈被Kimi3揪出
+tags:
+- dynamics
+- emergence
+- neural-networks
+- transformer
+---
 **Domain**: Cross
 **Source**: raw\imports\Transformer十年瓶颈被Kimi3揪出.md
 **Compiled**: 2026-08-01
@@ -17,6 +23,9 @@
 ## Related Concepts
 
 [[Attention_Residuals]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]

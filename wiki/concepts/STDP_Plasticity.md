@@ -1,5 +1,7 @@
-# STDP_Plasticity
-
+---
+title: STDP_Plasticity
+tags: []
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -15,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
+[[EmergentOrder]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
@@ -22,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
@@ -32,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetworks]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
+[[SystemLevelNonlinearity]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

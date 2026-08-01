@@ -1,5 +1,11 @@
-# 研究建议（TCC × INEST）
-
+---
+title: 研究建议（TCC × INEST）
+tags:
+- chiplet
+- complex-networks
+- emergence
+- topology
+---
 **Domain**: TCC
 **Source**: raw\inest\papers\研究建议_TCC×INEST.md
 **Compiled**: 2026-08-01
@@ -24,3 +30,6 @@ TCC, chiplet, iNEST, wafer, 互连, 拓扑
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
+[[复杂网络]]
+[[智能涌现]]
+[[涌现]]

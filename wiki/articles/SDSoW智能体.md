@@ -1,5 +1,10 @@
-# SDSoW智能体
-
+---
+title: SDSoW智能体
+tags:
+- brain
+- complex-networks
+- emergence
+---
 **Domain**: Cross
 **Source**: raw\tcc\papers\SDSoW智能体.md
 **Compiled**: 2026-08-01
@@ -22,3 +27,6 @@ wafer, 类脑
 [[SDSoW_Architecture]]
 [[TCC]]
 [[Wafer_Scale_Neuromorphic]]
+[[复杂网络]]
+[[智能涌现]]
+[[涌现]]

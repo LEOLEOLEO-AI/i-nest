@@ -1,5 +1,18 @@
-# 桩文件清理日志 — 2026-07-14 21:29
-
+---
+title: 桩文件清理日志 — 2026-07-14 21:29
+tags:
+- brain
+- chip
+- chiplet
+- complex-networks
+- dynamics
+- embodied-ai
+- emergence
+- large-language-model
+- neural-networks
+- neuron
+date: '2026-07-14'
+---
 - 30_TCC\31_Theory\Chiplet与异构集成技术研究_1.md (160B, 7w)
 - 30_TCC\31_Theory\SDI_商业模式.md (124B, 7w)
 - 30_TCC\31_Theory\SDI方向机会、产品及市场关系.md (170B, 9w)

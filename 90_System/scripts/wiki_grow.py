@@ -189,7 +189,10 @@ def main():
     print(f"  concepts loaded: {len(concept_names)}")
 
     # ---- Step 1: merge exact-normalized duplicate slugs ----
-    def norm(s): return re.sub(r'[^a-z0-9]', '', s.lower())
+    # NOTE: keep CJK + alphanumerics; only strip separators/punctuation so that
+    # distinct Chinese slugs (e.g. 神经网络 vs 神经形态计算) are NOT collapsed
+    # into the same group (the old [^a-z0-9] rule erased all CJK -> "" bug).
+    def norm(s): return re.sub(r'[\s_\-\./\\:，。？！、（）()\[\]【】“”"\'’]', '', s.lower())
     groups = defaultdict(list)
     for c in concept_names:
         groups[norm(c)].append(c)

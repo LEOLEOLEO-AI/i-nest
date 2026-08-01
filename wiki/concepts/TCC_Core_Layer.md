@@ -1,5 +1,7 @@
-# TCC_Core_Layer
-
+---
+title: TCC_Core_Layer
+tags: []
+---
 **Domain**: TCC
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30

@@ -1,5 +1,9 @@
-# Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities  A Renormalization Group Approach
-
+---
+title: Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities A Renormalization Group Approach
+tags:
+- emergence
+- topology
+---
 **Domain**: TCC
 **Source**: raw\imports\Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities  A Renormalization Group Approach.md
 **Compiled**: 2026-08-01
@@ -16,8 +20,11 @@ date: 2026-06-06 10:05 processed: '2026-06-06T12:59:18.260044' source_file: GetN
 
 ## Related Concepts
 
+[[12]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[TCC]]
 [[Universal_Scaling_Laws]]
+[[智能涌现]]
+[[涌现]]

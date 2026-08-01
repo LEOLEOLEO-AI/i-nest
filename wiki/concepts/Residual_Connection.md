@@ -1,5 +1,9 @@
-# Residual_Connection
-
+---
+title: Residual_Connection
+tags:
+- chiplet
+- transformer
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -17,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[MacroscopicDescriptor]]
 [[MetricComputationAuthenticity]]
@@ -25,12 +30,16 @@ Auto-extracted concept from raw material compilation.
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
+[[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
 [[iNEST]]

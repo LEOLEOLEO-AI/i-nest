@@ -1,5 +1,7 @@
-# Emergent_Intelligence_Verifiability
-
+---
+title: Emergent_Intelligence_Verifiability
+tags: []
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -16,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
@@ -35,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetworks]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]
+[[TopologyFragility]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]

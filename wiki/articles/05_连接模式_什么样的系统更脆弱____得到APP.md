@@ -1,5 +1,7 @@
-# 05_连接模式：什么样的系统更脆弱？_-_得到APP
-
+---
+title: 05_连接模式：什么样的系统更脆弱？_-_得到APP
+tags: []
+---
 **Domain**: Cross
 **Source**: raw\tcc\papers\05_连接模式：什么样的系统更脆弱？_-_得到APP.md
 **Compiled**: 2026-08-01

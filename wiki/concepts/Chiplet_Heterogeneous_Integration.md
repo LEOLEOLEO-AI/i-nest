@@ -1,5 +1,8 @@
-# Chiplet_Heterogeneous_Integration
-
+---
+title: Chiplet_Heterogeneous_Integration
+tags:
+- chiplet
+---
 **Domain**: TCC
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -13,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_MVP]]
+[[Alpha_Computation_Consistency]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Chiplet_based_heterogeneous_integration]]
@@ -25,12 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[Spacetime_Coupling_Coefficient]]
 [[StandardizedParameterSpace]]
+[[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]
 
 ## Sources

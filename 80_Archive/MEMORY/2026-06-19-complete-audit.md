@@ -1,5 +1,14 @@
-# 2026-06-19 完整方法论审查
-
+---
+title: 2026-06-19 完整方法论审查
+tags:
+- chip
+- dynamics
+- neuron
+- paper
+- simulation
+- small-world-networks
+date: '2026-06-19'
+---
 ## 核心诊断结果
 
 ### 问题等级汇总

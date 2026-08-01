@@ -1,5 +1,8 @@
-# Discussion
-
+---
+title: Discussion
+tags:
+- large-language-model
+---
 ## 4.1 Major Findings and Biological Significance
 
 Our study establishes three major findings:

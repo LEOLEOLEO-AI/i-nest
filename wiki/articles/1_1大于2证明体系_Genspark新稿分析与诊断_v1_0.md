@@ -1,5 +1,8 @@
-# 1+1大于2证明体系_Genspark新稿分析与诊断_v1.0
-
+---
+title: 1+1大于2证明体系_Genspark新稿分析与诊断_v1.0
+tags:
+- topology
+---
 **Domain**: TCC
 **Source**: raw\tcc\papers\1+1大于2证明体系_Genspark新稿分析与诊断_v1.0.md
 **Compiled**: 2026-08-01

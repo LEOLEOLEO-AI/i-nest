@@ -1,5 +1,11 @@
-# 2026首届AI院士论坛 — FlagOS/RISC-V系列PPT分析
-
+---
+title: 2026首届AI院士论坛 — FlagOS/RISC-V系列PPT分析
+tags:
+- embodied-ai
+- large-language-model
+- paper
+- topology
+---
 **Domain**: TCC
 **Source**: raw\inest\papers\FlagOS2026_AIForumPPT_iNEST分析.md
 **Compiled**: 2026-08-01
@@ -17,7 +23,10 @@ SDI, TCC, iNEST, 互连, 拓扑
 ## Related Concepts
 
 [[FlagScale]]
+[[Nature Electronics]]
 [[Network_Topology_Design]]
+[[PPT]]
 [[SDI_Bond]]
 [[TCC]]
 [[iNEST]]
+[[论文]]

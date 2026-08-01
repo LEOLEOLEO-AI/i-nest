@@ -1,4 +1,16 @@
-# 论文B（B5）：TCC-16系统实现与评测
+---
+title: 论文B（B5）：TCC-16系统实现与评测
+tags:
+- chip
+- chiplet
+- large-language-model
+- paper
+- patent
+- project
+- topology
+- transformer
+- wafer
+---
 # Paper B (B5): TCC-16 Minimal Complete Primitive Library for Liquid Hardware
 # 目标：ASPLOS/MICRO 2027 April cycle | 截止：2027年4月15日
 # 状态：📋 框架完成，依赖T2/T3硬件与SDK完成

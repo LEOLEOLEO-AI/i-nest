@@ -1,5 +1,7 @@
-# Contested_Priors_Mechanism
-
+---
+title: Contested_Priors_Mechanism
+tags: []
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -15,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Complex_System_Theory]]
 [[DataProvenanceIntegrity]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[InNetwork_CST_Offload]]
@@ -25,14 +28,18 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetwork]]
 [[Spiking_Neural_Network]]
+[[SystemLevelNonlinearity]]
 [[iNEST]]
 
 ## Sources

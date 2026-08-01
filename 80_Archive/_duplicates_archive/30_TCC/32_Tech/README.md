@@ -1,5 +1,7 @@
-# Wiki 生成与推送
-
+---
+title: Wiki 生成与推送
+tags: []
+---
 文件：
 - `generate_wiki.py`：扫描 Vault 生成 Wiki 页面
 - `generate_wiki.bat`：一键生成

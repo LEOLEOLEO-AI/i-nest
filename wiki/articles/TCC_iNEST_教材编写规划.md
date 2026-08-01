@@ -1,5 +1,12 @@
-# TCC iNEST 教材编写规划
-
+---
+title: TCC iNEST 教材编写规划
+tags:
+- brain
+- chiplet
+- patent
+- topology
+- wafer
+---
 **Domain**: TCC
 **Source**: raw\imports\00_教材编写规划_两本配套.md
 **Compiled**: 2026-08-01

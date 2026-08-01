@@ -1,5 +1,8 @@
-# TCC 产品化子工程（`tcc`）设计说明
-
+---
+title: TCC 产品化子工程（`tcc`）设计说明
+tags:
+- topology
+---
 **Domain**: TCC
 **Source**: raw\imports\2026-07-28-tcc-productized-subproject-design.md
 **Compiled**: 2026-08-01

@@ -1,2 +1,8 @@
+---
+title: Science_Advances报道___揭示大脑神经元可靠信息处理机制
+tags:
+- brain
+- neuron
+---
 > [!note]- 可能重复: [[Science_Advances报道___揭示大脑神经元可靠信息处理机制]]
 > 此文件与 [[Science_Advances报道___揭示大脑神经元可靠信息处理机制]] 内容重复，已保留高质量版本。

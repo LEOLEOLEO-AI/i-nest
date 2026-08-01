@@ -25,5 +25,17 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[Alpha_Computation_Consistency]]
+[[CST_Intelligence_Emergence]]
 [[Complex_System_Theory]]
+[[EmergentOrder]]
+[[Intelligence_Emergence]]
+[[MultiplicativeGainCondition]]
+[[Nonlinear_Gain]]
+[[Nonlinear_Parameter_Alpha]]
+[[SDSoW_Architecture]]
+[[ScaleFreeNetwork]]
+[[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
+[[SystemLevelNonlinearity]]
 [[iNEST]]

@@ -1,5 +1,13 @@
-# Research Task Recommendations
-
+---
+title: Research Task Recommendations
+tags:
+- brain
+- dynamics
+- neural-networks
+- paper
+- project
+- topology
+---
 **Generated**: 2026-08-01
 **Total**: 17 recommendations
 

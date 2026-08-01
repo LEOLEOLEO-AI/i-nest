@@ -1,4 +1,17 @@
-# iNEST 苏州实验室汇报 PPT 提纲
+---
+title: iNEST 苏州实验室汇报 PPT 提纲
+tags:
+- brain
+- chip
+- complex-networks
+- criticality
+- dynamics
+- emergence
+- free-energy-principle
+- neural-networks
+- neuron
+- paper
+---
 **主题**：网络时空协同智能涌现范式——从物理第一性到工程路径  
 **时间**：2026年  
 **对象**：苏州实验室主要领导

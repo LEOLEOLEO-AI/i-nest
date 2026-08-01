@@ -1,5 +1,9 @@
-# iNEST开发流程
-
+---
+title: iNEST开发流程
+tags:
+- neural-networks
+- topology
+---
 **Domain**: iNEST
 **Source**: raw\inest\papers\iNEST开发流程.md
 **Compiled**: 2026-08-01
@@ -16,6 +20,7 @@ SNN, STDP, iNEST, 忆阻, 拓扑, 神经形态
 
 ## Related Concepts
 
+[[15]]
 [[Complex_System_Theory]]
 [[DTGA]]
 [[Intelligence_Emergence]]
@@ -25,4 +30,5 @@ SNN, STDP, iNEST, 忆阻, 拓扑, 神经形态
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[忆阻器]]
+[[神经网络]]

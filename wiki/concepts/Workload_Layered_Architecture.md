@@ -1,5 +1,7 @@
-# Workload_Layered_Architecture
-
+---
+title: Workload_Layered_Architecture
+tags: []
+---
 **Domain**: TCC
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01

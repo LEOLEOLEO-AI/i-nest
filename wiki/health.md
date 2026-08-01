@@ -4,26 +4,35 @@
 **Last Grow**: 2026-08-01
 
 ## Stats
-- **Total Concepts**: 206
+- **Total Concepts**: 296
 - **Total Articles**: 27
-- **Orphan Concepts**: 63
+- **Orphan Concepts**: 108
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
+- [[00_ADR_决策记录]]
 - [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
-- [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+- [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+- [[11_SDI节点接口规范与化合键定义_dup]]
+- [[12_三原理协同_FEP_最小作用量_STDP]]
 - [[2025年10月11号 日记]]
+- [[2026-04-07]]
+- [[400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述]]
+- [[5期内容]]
+- [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
+- [[AGI面临的挑战 _ 脑机制自底向顶梳理 下部 5万字]]
 - [[AI_Application_Scenario_Reconstruction]]
 - [[AI_Industrial_Ecosystem]]
-- [[ANN动力学]]
+- [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 - [[Allreduce_Latency_Probe]]
 - [[Alpha_Consistency_Problem]]
-- [[AutonomousAdaptation]]
 - [[AvalancheBranchingRatio]]
 - [[B3_Competition_Landscape]]
 - [[B3_Paper_Competitive_Landscape]]
+- [[B7_TCC OneFabric_论文计划]]
+- [[BCM滑动阈值]]
 - [[BigBrainCellularAxis]]
-- [[CST_Theory]]
+- [[Brainnews]]
 - [[ChipletWaferInterconnectTopology]]
 - [[ClearSight_ 基于事件相机与生物启发的运动去模糊研究]]
 - [[Cognitive_Relapse_Architecture]]
@@ -31,26 +40,17 @@
 - [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 - [[Complexity_Emergence_Engineering]]
 - [[Contested_Prior_Resolution]]
-- [[DataDrivenCellularAxis]]
 - [[Decoupled_Prior_States]]
 - [[Deep_Network_Layer_Stacking]]
 - [[Evolutionary_Computability]]
 - [[FlagOS_2_0]]
 - [[Free_Energy_Topology_Mapping]]
-- [[GammaSt_Revision]]
+- [[GNN图神经网络，非结构化数据分析利器！]]
 - [[GranularCortexExclusion]]
 - [[InNetworkNeuromorphicEmergence]]
 - [[In_Network_Neuromorphic_Integration]]
 - [[In_Network_Neuromorphic_Processing]]
-- [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
-- [[Memristor_Hardware_ANN]]
-- [[Memristor_Network]]
-- [[Memristor_based_synaptic_devices]]
-- [[National_Mesoscale_Innovation_Center]]
-- [[Network_Spatiotemporal_Synergy]]
-- [[Network_on_Chip_communication_architecture]]
-- [[Network_topology_and_interconnection_patterns]]
-- ... 23 more
+- ... 68 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

@@ -1,5 +1,7 @@
-# AutonomousAdaptation
-
+---
+title: AutonomousAdaptation
+tags: []
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -16,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Evolutionary_Pattern_Modeling]]
 [[Heterogeneous_Integration]]
@@ -36,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetworks]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]
+[[TopologyFragility]]
 [[iNEST]]
 
 ## Sources

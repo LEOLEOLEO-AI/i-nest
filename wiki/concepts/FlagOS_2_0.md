@@ -1,5 +1,8 @@
-# FlagOS_2_0
-
+---
+title: FlagOS_2_0
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -12,12 +15,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Alpha_Computation_Consistency]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
@@ -31,7 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]

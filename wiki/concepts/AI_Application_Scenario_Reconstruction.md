@@ -1,5 +1,9 @@
-# AI_Application_Scenario_Reconstruction
-
+---
+title: AI_Application_Scenario_Reconstruction
+tags:
+- chiplet
+- large-language-model
+---
 **Domain**: TCC
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -25,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[Network_Topology_Design]]
 [[NonAbelian_Gauge_Topology]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
@@ -33,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]
+[[SystemLevelNonlinearity]]
+[[TopologyFragility]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

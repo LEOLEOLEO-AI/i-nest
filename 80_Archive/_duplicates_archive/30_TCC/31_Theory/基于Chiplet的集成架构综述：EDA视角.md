@@ -1,2 +1,8 @@
+---
+title: 基于Chiplet的集成架构综述：EDA视角
+tags:
+- chiplet
+- survey
+---
 > [!note]- 可能重复: [[基于Chiplet的集成架构综述：EDA视角]]
 > 此文件与 [[基于Chiplet的集成架构综述：EDA视角]] 内容重复，已保留最大版本。

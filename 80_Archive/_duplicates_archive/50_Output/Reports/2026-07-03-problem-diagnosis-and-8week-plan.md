@@ -1,5 +1,18 @@
-# 仿真实验问题诊断与 8 周改进方案
-
+---
+title: 仿真实验问题诊断与 8 周改进方案
+tags:
+- chip
+- criticality
+- dynamics
+- neural-networks
+- neuron
+- paper
+- plasticity
+- project
+- scale-free-networks
+- self-organization
+date: '2026-07-03'
+---
 **日期**：2026-07-03 03:29 EDT
 **版本**：v2.0-COMPLETE-DIAGNOSIS
 **对象**：从第 1 周到第 8 周的改进工作

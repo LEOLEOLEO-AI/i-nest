@@ -1,5 +1,10 @@
-# iNEST 当前实验全面诊断报告
-
+---
+title: iNEST 当前实验全面诊断报告
+tags:
+- dynamics
+- simulation
+- topology
+---
 **Domain**: Cross
 **Source**: raw\imports\2026-06-23-comprehensive_diagnosis.md
 **Compiled**: 2026-08-01

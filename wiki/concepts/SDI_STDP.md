@@ -1,5 +1,8 @@
-# SDI_STDP
-
+---
+title: SDI_STDP
+tags:
+- chiplet
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30
@@ -17,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
+[[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicSimulation]]
 [[InNetwork_CST_Offload]]
@@ -27,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
@@ -34,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
+[[SystemLevelNonlinearity]]
 [[iNEST]]
 
 ## Sources

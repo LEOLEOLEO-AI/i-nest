@@ -1,2 +1,8 @@
+---
+title: Milinkovic_B_(2024)：复杂神经系统涌现动力学结构
+tags:
+- dynamics
+- emergence
+---
 > [!note]- 可能重复: [[Milinkovic_B_(2024)：复杂神经系统涌现动力学结构]]
 > 此文件与 [[Milinkovic_B_(2024)：复杂神经系统涌现动力学结构]] 内容重复，已保留高质量版本。

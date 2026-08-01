@@ -1,5 +1,7 @@
-# Get 导出导入脚本
-
+---
+title: Get 导出导入脚本
+tags: []
+---
 用法：
 - 将 Get 笔记导出为 Markdown（zip 或文件夹）
 - 在本机运行：

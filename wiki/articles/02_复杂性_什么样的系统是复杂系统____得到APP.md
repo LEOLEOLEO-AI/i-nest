@@ -1,5 +1,7 @@
-# 02 复杂性：什么样的系统是复杂系统？ - 得到APP
-
+---
+title: 02 复杂性：什么样的系统是复杂系统？ - 得到APP
+tags: []
+---
 **Domain**: iNEST
 **Source**: raw\inest\papers\02_复杂性：什么样的系统是复杂系统？_-_得到APP.md
 **Compiled**: 2026-08-01

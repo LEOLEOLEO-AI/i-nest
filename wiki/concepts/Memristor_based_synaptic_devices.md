@@ -1,5 +1,7 @@
-# Memristor_based_synaptic_devices
-
+---
+title: Memristor_based_synaptic_devices
+tags: []
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-07-30

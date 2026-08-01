@@ -1,5 +1,7 @@
-# Neuromorphic_Substrate
-
+---
+title: Neuromorphic_Substrate
+tags: []
+---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -16,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
+[[EmergentOrder]]
 [[InNetwork_CST_Offload]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
@@ -23,14 +26,18 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetwork]]
 [[Spiking_Neural_Network]]
+[[SystemLevelNonlinearity]]
 [[iNEST]]
 
 ## Sources

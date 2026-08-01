@@ -1,5 +1,7 @@
-# TCC_Core_Layer_Boundary
-
+---
+title: TCC_Core_Layer_Boundary
+tags: []
+---
 **Domain**: TCC
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01

@@ -1,5 +1,8 @@
-# RenormalizationGroup_ScalingLaws
-
+---
+title: RenormalizationGroup_ScalingLaws
+tags:
+- chiplet
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01
@@ -17,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
+[[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -27,8 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Renormalization_Group_Emergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
+[[SystemLevelNonlinearity]]
 [[Universal_Scaling_Laws]]
 [[iNEST]]
 

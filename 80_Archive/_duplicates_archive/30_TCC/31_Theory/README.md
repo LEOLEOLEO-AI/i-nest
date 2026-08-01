@@ -1,5 +1,15 @@
-# 知识库：网络复杂度超线性增益（1+1>N）
-
+---
+title: 知识库：网络复杂度超线性增益（1+1>N）
+tags:
+- criticality
+- emergence
+- large-language-model
+- paper
+- simulation
+- small-world-networks
+- survey
+- topology
+---
 **用途**：支撑CST智能涌现理论的学术佐证与仿真验证，用于专项申报、期刊论文、专家答辩。
 
 **结构**：

@@ -1,5 +1,14 @@
-# SDI 实验三分析报告：零先验自演化
-
+---
+title: SDI 实验三分析报告：零先验自演化
+tags:
+- brain
+- emergence
+- scale-free-networks
+- simulation
+- small-world-networks
+- synapse
+- topology
+---
 **执行时间：** 2026-05-08  
 **总仿真时间：** ~9次仿真 × ~40s = 约7分钟（9K步/次，N=500节点）
 

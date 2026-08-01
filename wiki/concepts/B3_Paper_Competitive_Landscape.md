@@ -1,5 +1,7 @@
-# B3_Paper_Competitive_Landscape
-
+---
+title: B3_Paper_Competitive_Landscape
+tags: []
+---
 **Domain**: Cross
 **First mentioned**: auto-extracted
 **Last updated**: 2026-08-01

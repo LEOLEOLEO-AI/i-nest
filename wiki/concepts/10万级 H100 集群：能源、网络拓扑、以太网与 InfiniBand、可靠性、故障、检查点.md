@@ -25,5 +25,18 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
+[[EmergentOrder]]
+[[FPGA_Prototype_Validation]]
+[[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
+[[Nonlinear_Parameter_Alpha]]
+[[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
+[[SDSoW_Architecture]]
+[[ScaleFreeNetwork]]
+[[SystemLevelNonlinearity]]
 [[iNEST]]
+[[神经形态计算]]
