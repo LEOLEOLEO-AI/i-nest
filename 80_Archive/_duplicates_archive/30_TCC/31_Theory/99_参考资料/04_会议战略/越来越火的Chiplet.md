@@ -1,7 +1,0 @@
----
-title: 越来越火的Chiplet
-tags:
-- chiplet
----
-> [!note]- 可能重复: [[越来越火的Chiplet]]
-> 此文件与 [[越来越火的Chiplet]] 内容重复，已保留最大版本。

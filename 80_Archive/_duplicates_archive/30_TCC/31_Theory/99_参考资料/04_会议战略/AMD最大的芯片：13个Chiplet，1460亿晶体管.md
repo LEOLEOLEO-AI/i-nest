@@ -1,8 +1,0 @@
----
-title: AMD最大的芯片：13个Chiplet，1460亿晶体管
-tags:
-- chip
-- chiplet
----
-> [!note]- 可能重复: [[AMD最大的芯片：13个Chiplet，1460亿晶体管]]
-> 此文件与 [[AMD最大的芯片：13个Chiplet，1460亿晶体管]] 内容重复，已保留最大版本。

@@ -16,14 +16,112 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "iNEST_RnD_SuperFlow_v3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_iNEST/iNEST_RnD_SuperFlow_v3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"iNEST_RnD_SuperFlow_v3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":210.43576080521018}"
+                },
+                {
+                  "title": "GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}}}"
+                },
+                {
+                  "title": "GetNote_20260606_100554_kb_DARPA-research_getnote_1896186213170346176_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186213170346176_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"GetNote_20260606_100554_kb_DARPA-research_getnote_1896186213170346176_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}}}"
+                },
+                {
+                  "title": "GetNote_20260606_100554_kb_DARPA-research_getnote_1896186245382570904_从_摩尔定律_到_功率密度定律__IEEE异构集成_HIR_路线图深度解析",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186245382570904_从_摩尔定律_到_功率密度定律__IEEE异构集成_HIR_路线图深度解析.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"GetNote_20260606_100554_kb_DARPA-research_getnote_1896186245382570904_从_摩尔定律_到_功率密度定律__IEEE异构集成_HIR_路线图深度解析\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "人工智能第一性原理讲座_系统总结与iNEST启迪",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/灵感库/人工智能第一性原理讲座_系统总结与iNEST启迪.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"人工智能第一性原理讲座_系统总结与iNEST启迪\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":373.3525390625}"
+                },
+                {
+                  "title": "TM9",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"20_Processing/_attachments_knowledge/专题归档/04_图片与附件/TM9.png\"},\"icon\":\"lucide-image\",\"title\":\"TM9\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "real_connectome_final",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"20_Processing/_attachments_knowledge/主题知识/网络超线性增益/real_connectome_final.png\"},\"icon\":\"lucide-image\",\"title\":\"real_connectome_final\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "晶上自演化网络涌现智能_机理_技术与未来",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/晶上自演化网络涌现智能_机理_技术与未来.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"晶上自演化网络涌现智能_机理_技术与未来\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":45.506510416666664}"
+                },
+                {
+                  "title": "智造讲堂：智能制造与装备发展路径",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/智造讲堂：智能制造与装备发展路径.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"智造讲堂：智能制造与装备发展路径\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":116.74088541666667}"
+                },
+                {
+                  "title": "术语对照表",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/术语对照表.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"术语对照表\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "李克强：智能网联汽车发展态势及高质量发展建议",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/李克强：智能网联汽车发展态势及高质量发展建议.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"李克强：智能网联汽车发展态势及高质量发展建议\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "梅宏院士：如何构造人工群体智能？ (1)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/梅宏院士：如何构造人工群体智能？ (1).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"梅宏院士：如何构造人工群体智能？ (1)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "智能连接：碳原子与Token",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/智能连接：碳原子与Token.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"智能连接：碳原子与Token\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "智造讲堂：智能制造与装备发展路径 (1)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/智造讲堂：智能制造与装备发展路径 (1).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"智造讲堂：智能制造与装备发展路径 (1)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":29.5634765625}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "40_iNEST/iNEST_Master_Index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "iNEST_Master_Index"
             }
           }
         ]
@@ -130,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 609.5
+    "width": 782.5
   },
   "right": {
     "id": "b131a582ddb31d11",
@@ -354,6 +452,21 @@
   },
   "active": "07ec837305146da6",
   "lastOpenFiles": [
+    "50_Output/55_Guides/VLEO_TCC_SDSoW_HighDensity_Payload_Guide.md",
+    "40_iNEST/iNEST_RnD_SuperFlow_v3.md",
+    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式.md",
+    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186213170346176_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析.md",
+    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186245382570904_从_摩尔定律_到_功率密度定律__IEEE异构集成_HIR_路线图深度解析.md",
+    "20_Processing/20_KnowledgeBase/灵感库/人工智能第一性原理讲座_系统总结与iNEST启迪.md",
+    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/TM9.png",
+    "20_Processing/_attachments_knowledge/主题知识/网络超线性增益/real_connectome_final.png",
+    "30_TCC/31_Theory/晶上自演化网络涌现智能_机理_技术与未来.md",
+    "30_TCC/31_Theory/智造讲堂：智能制造与装备发展路径.md",
+    "30_TCC/31_Theory/术语对照表.md",
+    "30_TCC/31_Theory/李克强：智能网联汽车发展态势及高质量发展建议.md",
+    "30_TCC/31_Theory/梅宏院士：如何构造人工群体智能？ (1).md",
+    "30_TCC/31_Theory/智能连接：碳原子与Token.md",
+    "30_TCC/31_Theory/智造讲堂：智能制造与装备发展路径 (1).md",
     "30_TCC/31_Theory/智能的本质不是数据、算法、算力和知识（一）.md",
     "Home.md",
     "30_TCC/31_Theory/物理涌现智能与复杂网络学科方向.md",
@@ -367,21 +480,8 @@
     "30_TCC/31_Theory/getnote_2026-06-16_getnote_2026-06-16_人类连接组拓扑结构指导皮层行波传播与频率梯度形成.md",
     "30_TCC/31_Theory/2026年重磅研究_活体皮层树突电压动态的突破性观测与树突计算新范式.md",
     "30_TCC/31_Theory/大脑临界性_健康脑功能的统一设定点假说__Neuron观点文章深度解析.md",
-    "30_TCC/31_Theory/Nature揭示海马体如何把世界重构成记忆_CA3-CA1的稀疏-密集编码转换机制.md",
-    "30_TCC/31_Theory/马毅_Yi Ma_UC Berkeley EECS讲座_智能的本质与AI的范式转移__从黑盒工程到第一性原理科学.md",
-    "30_TCC/31_Theory/fMRI功能网络分析方法演化全景_从经典两两连接到高阶相互作用__基于Physics Reports 2026权威综述的.md",
-    "30_TCC/31_Theory/2026-06-28_Getnote_2026-06-28_学习重塑神经表征几何_灵长类前额叶皮层演化规律与大模型学习机制的跨领域统一研究.md",
-    "30_TCC/31_Theory/学习重塑神经表征几何_灵长类前额叶皮层演化规律与大模型学习机制的跨领域统一研究.md",
-    "30_TCC/31_Theory/Nature Neuroscience_2026年重磅研究_活体皮层树突电压.md",
-    "30_TCC/31_Theory/Cell_重磅研究_哺乳动物皮层连接组架构的几何约束机制深度解析.md",
-    "30_TCC/31_Theory/人类连接组拓扑结构指导皮层行波传播与频率梯度形成.md",
     "90_System/scripts/homepage_generator.py",
     "state/wiki_compiler_state.json",
-    "wiki/concepts/In_Network_Neuromorphic_Processing.md",
-    "wiki/concepts/Network_Spatiotemporal_Synergy.md",
-    "wiki/concepts/CST_Intelligence_Emergence.md",
-    "wiki/concepts/SingleSourceOfTruthMetric.md",
-    "wiki/concepts/ChipletWaferInterconnectTopology.md",
     "90_System/scripts/__pycache__/task_planner.cpython-313.pyc",
     "90_System/scripts/__pycache__/reconstruct_formulas.cpython-313.pyc",
     "90_System/scripts/__pycache__/processing_workflow.cpython-313.pyc",
@@ -392,14 +492,12 @@
     "90_System/scripts/__pycache__/deepseek_analyze.cpython-313.pyc",
     "笔记同步助手/images/8cc926c5ddc3df38df986b22ad059065_MD5.png",
     "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_11.png",
-    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/TM9.png",
     "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_9.png",
     "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_5.png",
     "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_3.png",
     "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_2.png",
     "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_1.png",
     "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image.png",
-    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/270019dd9a530dfe59ff6906af49d7e4.jpg",
     "80_Archive/Inbox_legacy/待分类/未命名.canvas",
     "80_Archive/05_Fleeting/待分类/未命名.canvas",
     "Inbox/待分类/未命名.canvas",
