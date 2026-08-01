@@ -4,7 +4,7 @@ cssclass: dashboard
 
 # 🔬 TCC × iNEST 自进化研发中枢
 
-> **知识库状态：活跃** | 管线：⚠️ paused | Git: 261 uncommitted | 更新：2026-08-01 10:18
+> **知识库状态：活跃** | 管线：⚠️ paused | Git: 274 uncommitted | 更新：2026-08-01 17:55
 
 ---
 
@@ -12,12 +12,12 @@ cssclass: dashboard
 
 | 维度 | 数值 | 入口 |
 |---|---|---|
-| 📄 知识库总文件 | **6,021** | [[Home\|根目录/Home]] |
-| 🔬 TCC 资料 | **1,890** | [[30_TCC/TCC_Master_Index\|TCC 主索引]] |
+| 📄 知识库总文件 | **5,733** | [[Home\|根目录/Home]] |
+| 🔬 TCC 资料 | **1,886** | [[30_TCC/TCC_Master_Index\|TCC 主索引]] |
 | 🧠 iNEST 资料 | **1,433** | [[40_iNEST/iNEST_Master_Index\|iNEST 主索引]] |
 | 📥 待处理论文 | **132** | [[00_Inbox/_pipeline_insights\|论文收件箱]] |
 | ⚙️ 处理中 | **79** | [[20_Processing\|处理区]] |
-| 📤 成果区 | **494** | [[50_Output\|50_Output 成果区]] |
+| 📤 成果区 | **495** | [[50_Output\|50_Output 成果区]] |
 
 ---
 
@@ -27,7 +27,7 @@ cssclass: dashboard
 |---|---|---|
 | 🏷️ 概念总数 | **191** | TCC=84, iNEST=43, Cross=64 |
 | 📝 编译文章 | **27** | raw/ → wiki/articles/ |
-| 🌉 跨域桥梁 | **3** | 强度 36/35/20 |
+| 🌉 跨域桥梁 | **3** | 强度 43/42/42 |
 
 **入口**：[[wiki/index|Wiki 概念索引]] · [[wiki/health|知识健康报告]] · [[wiki/cross_domain_insights|跨域洞察]] · [[wiki/task_recommendations|任务推荐]]
 
@@ -37,9 +37,9 @@ cssclass: dashboard
 
 | # | 桥梁 | 强度 | 核心洞察 |
 |---|---|---|---|
-| 1 | **WaferScale × Neuromorphic** | 36 | Wafer-scale integration could enable massive-scale neuromorphic chips with milli |
-| 2 | **Chiplet × Heterogeneous × Neuromorphic** | 35 | Chiplet-based heterogeneous integration enables combining CMOS logic with memris |
-| 3 | **NoC × Spiking × Routing** | 20 | NoC routing algorithms could be redesigned for event-driven spike packet deliver |
+| 1 | **Chiplet × Heterogeneous × Neuromorphic** | 43 | Chiplet-based heterogeneous integration enables combining CMOS logic with memris |
+| 2 | **WaferScale × Neuromorphic** | 42 | Wafer-scale integration could enable massive-scale neuromorphic chips with milli |
+| 3 | **SDI × Plastic × Interconnect** | 42 | SDI's software-defined interconnect could implement plastic (reconfigurable) net |
 
 > 全部桥梁 → [[wiki/cross_domain_insights|跨域洞察完整报告]]
 
@@ -56,7 +56,7 @@ cssclass: dashboard
 >[!tip] 知识库维护
 >- [[wiki/task_recommendations|查看自动推荐任务]]
 >- [[60_MOC/07_Pipeline_Status|管线状态]]：`⚠️ paused`
->- Git：261 uncommitted changes
+>- Git：274 uncommitted changes
 
 **入口**：[[60_MOC/03_Daily_Action|每日行动]] · [[60_MOC/04_Daily_Focus|今日焦点]] · [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html)
 
@@ -156,6 +156,47 @@ Processing → TCC/iNEST → Output
 
 ---
 
+## 📈 知识演化追踪（近 10 次自进化）
+
+| 日期 | 断链 | 孤儿 | 缺FM |
+|---|---|---|---|
+| 2026-08-01 | 2273 | 2139 | 1274 |
+| 2026-08-01 | 2234 | 2128 | 1274 |
+| 2026-08-01 | 2020 | 2126 | 1274 |
+| 2026-08-01 | 2005 | 2120 | 1274 |
+| 2026-08-01 | 2010 | 2120 | 1274 |
+| 2026-08-01 | 1716 | 2109 | 1274 |
+| 2026-08-01 | 1708 | 2101 | 1275 |
+| 2026-08-01 | 1408 | 2047 | 21 |
+| 2026-08-01 | 1364 | 2047 | 22 |
+| 2026-08-01 | 1324 | 2047 | 22 |
+
+> 完整日志 → [[99_Meta/self_evolve_log|自进化日志]] · 健康报告 → [[wiki/health|知识健康报告]]
+
+---
+
+## 🎯 自动任务推荐（Top 5）
+
+| 优先级 | 建议 |
+|---|---|
+| MEDIUM | Hypothesis Test |
+| MEDIUM | Evolution Item |
+| MEDIUM | Evolution Item |
+| MEDIUM | Evolution Item |
+| MEDIUM | Evolution Item |
+
+> 完整列表 → [[wiki/task_recommendations|任务推荐报告]]（由 task_recommender 每日生成）
+
+---
+
+## 🩺 健康检查（来自 wiki/health.md）
+
+- 真正断链：**1359**  ·  孤儿笔记：**2045**  ·  缺 frontmatter：**23**
+
+> 缺口由每日自进化持续消解；如需扩大清理范围请人工确认。
+
+---
+
 ## 🔧 自进化规则
 
 1. 每条结论必须关联论文/实验/仿真 — 无来源数字标记"待测"
@@ -165,4 +206,4 @@ Processing → TCC/iNEST → Output
 
 ---
 
-*主页由 homepage_generator.py 自动刷新 | 2026-08-01 10:18*
+*主页由 homepage_generator.py 自动刷新 | 2026-08-01 17:55*

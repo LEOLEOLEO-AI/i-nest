@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]

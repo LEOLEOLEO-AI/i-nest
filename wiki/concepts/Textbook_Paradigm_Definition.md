@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
+[[Neuromorphic_computing_architecture]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]

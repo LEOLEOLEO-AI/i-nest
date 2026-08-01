@@ -9,9 +9,12 @@ from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
 
-from dotenv import load_dotenv
 VAULT = Path(r"D:\Obsidian\vault")
-load_dotenv(VAULT / ".env", override=True)
+try:
+    from dotenv import load_dotenv
+    load_dotenv(VAULT / ".env", override=True)
+except Exception:
+    pass
 
 WIKI = VAULT / "wiki"
 STATE_DIR = VAULT / "state"

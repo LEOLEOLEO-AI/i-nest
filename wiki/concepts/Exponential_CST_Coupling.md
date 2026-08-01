@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]

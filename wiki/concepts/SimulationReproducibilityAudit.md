@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
+[[Neuromorphic_computing_architecture]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]

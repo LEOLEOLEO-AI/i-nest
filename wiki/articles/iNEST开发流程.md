@@ -31,4 +31,4 @@ SNN, STDP, iNEST, 忆阻, 拓扑, 神经形态
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[神经网络]]
+[[忆阻器]]

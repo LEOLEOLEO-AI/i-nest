@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

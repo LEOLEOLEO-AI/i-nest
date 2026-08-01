@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[RenormalizationGroup_ScalingLaws]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_computing_architecture]]
 [[NoC_SDI]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]

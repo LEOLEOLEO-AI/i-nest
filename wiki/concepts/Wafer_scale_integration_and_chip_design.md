@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]

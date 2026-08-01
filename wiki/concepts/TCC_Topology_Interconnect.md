@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TCC_Topology]]

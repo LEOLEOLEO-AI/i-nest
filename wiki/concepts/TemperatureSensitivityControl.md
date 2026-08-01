@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]
 [[Universal_Scaling_Laws]]

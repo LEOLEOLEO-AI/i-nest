@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_computing_architecture]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]

@@ -3,7 +3,7 @@
 homepage_generator.py — Auto-generate Home.md from live vault + wiki state
 Called by pipeline after all evolution engines complete.
 """
-import json, os, sys, subprocess
+import json, os, sys, subprocess, re
 sys.stdout.reconfigure(encoding='utf-8')
 from pathlib import Path
 from datetime import datetime
@@ -101,6 +101,56 @@ def read_git_status():
     except:
         return 0
 
+# ============================================================
+# Phase 5 仪表盘：演化追踪 / 任务推荐 / 健康检查
+# ============================================================
+
+def read_self_evolve_trend(n=10):
+    """读取 99_Meta/self_evolve_log.json 近期断链/孤儿/缺FM 趋势。"""
+    logf = VAULT / "99_Meta" / "self_evolve_log.json"
+    if not logf.exists():
+        return []
+    try:
+        data = json.loads(logf.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+    rows = []
+    for e in data[-n:]:
+        h = e.get("steps", {}).get("health", {})
+        rows.append({
+            "date": e.get("date", "?"),
+            "broken": h.get("broken_links"),
+            "orphan": h.get("orphan_notes"),
+            "missing_fm": h.get("missing_frontmatter"),
+        })
+    return rows
+
+def read_task_recommendations(top=5):
+    """读取 wiki/task_recommendations.md 的优先级任务。"""
+    f = WIKI / "task_recommendations.md"
+    if not f.exists():
+        return []
+    txt = f.read_text(encoding="utf-8")
+    items = []
+    for line in txt.splitlines():
+        m = re.match(r"###\s+\d+\.\s+\[(\w+)\]\s+(.*)", line)
+        if m:
+            items.append((m.group(1), m.group(2).strip()))
+    items.sort(key=lambda x: 0 if x[0] == "HIGH" else (1 if x[0] == "MEDIUM" else 2))
+    return items[:top]
+
+def read_health_summary():
+    """读取 99_Meta/vault_health.md 的数字指标。"""
+    f = VAULT / "99_Meta" / "vault_health.md"
+    if not f.exists():
+        return {}
+    s = {}
+    for line in f.read_text(encoding="utf-8").splitlines():
+        m = re.match(r"- (.+?):\s+\*\*(\d+)\*\*", line)
+        if m:
+            s[m.group(1)] = int(m.group(2))
+    return s
+
 def generate():
     log("=== Homepage Generator ===")
     
@@ -132,6 +182,24 @@ def generate():
     
     # Build status emojis
     h_emojis = {"proven": "✅", "under_investigation": "🔬", "proposed": "📋", "pending": "⏳"}
+
+    # ---- Phase 5 仪表盘新增：演化追踪 / 任务推荐 / 健康检查 ----
+    trend = read_self_evolve_trend(10)
+    trend_md = (
+        "| 日期 | 断链 | 孤儿 | 缺FM |\n|---|---|---|---|\n"
+        + "\n".join(f"| {r['date']} | {r['broken']} | {r['orphan']} | {r['missing_fm']} |" for r in trend)
+    ) if trend else "（暂无历史记录，运行 self_evolve 后生成）"
+    tasks = read_task_recommendations(5)
+    tasks_md = (
+        "| 优先级 | 建议 |\n|---|---|\n"
+        + "\n".join(f"| {p} | {t} |" for p, t in tasks)
+    ) if tasks else "（暂无推荐，运行 task_recommender 后生成）"
+    hs = read_health_summary()
+    health_md = (
+        f"- 真正断链：**{hs.get('真正断链(目标不存在)')}**  ·  "
+        f"孤儿笔记：**{hs.get('孤儿笔记(无入链)')}**  ·  "
+        f"缺 frontmatter：**{hs.get('缺 frontmatter 笔记')}**"
+    )
     
     # Build bridges section
     bridges_md = ""
@@ -298,6 +366,30 @@ Processing → TCC/iNEST → Output
 
 ---
 
+## 📈 知识演化追踪（近 10 次自进化）
+
+{trend_md}
+
+> 完整日志 → [[99_Meta/self_evolve_log|自进化日志]] · 健康报告 → [[wiki/health|知识健康报告]]
+
+---
+
+## 🎯 自动任务推荐（Top {len(tasks)}）
+
+{tasks_md}
+
+> 完整列表 → [[wiki/task_recommendations|任务推荐报告]]（由 task_recommender 每日生成）
+
+---
+
+## 🩺 健康检查（来自 wiki/health.md）
+
+{health_md}
+
+> 缺口由每日自进化持续消解；如需扩大清理范围请人工确认。
+
+---
+
 ## 🔧 自进化规则
 
 1. 每条结论必须关联论文/实验/仿真 — 无来源数字标记"待测"
@@ -310,6 +402,30 @@ Processing → TCC/iNEST → Output
 *主页由 homepage_generator.py 自动刷新 | {NOW}*
 """
     
+    # Phase 5: 生成浏览器看板数据 70_Dashboard/data.js
+    try:
+        dash_dir = VAULT / "70_Dashboard"
+        dash_dir.mkdir(exist_ok=True)
+        dash_data = {
+            "updated": NOW,
+            "snapshot": {
+                "total_md": total_md, "tcc": tcc_files, "inest": inest_files,
+                "inbox": inbox, "processing": processing, "output": output_files,
+                "git_uncommitted": git_uncommitted,
+            },
+            "wiki": wiki, "articles": articles_count,
+            "bridges": bridges, "hypotheses": hypotheses,
+            "trend": trend, "tasks": tasks, "health": hs,
+            "classification": {"own": own_total, "external": ext_total},
+            "pipeline_status": pipeline_status,
+        }
+        (dash_dir / "data.js").write_text(
+            "window.VAULT_DATA = " + json.dumps(dash_data, ensure_ascii=False, indent=2) + ";\n",
+            encoding="utf-8")
+        log("70_Dashboard/data.js generated")
+    except Exception as e:
+        log(f"⚠️ data.js 生成失败: {e}")
+
     HOME.write_text(content, encoding='utf-8')
     log(f"Home.md generated ({len(content)} chars)")
     log("=== Done ===")

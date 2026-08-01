@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Macro_System_Description]]
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
+[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[Reservoir_Computing]]

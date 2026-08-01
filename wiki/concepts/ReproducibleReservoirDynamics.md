@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]

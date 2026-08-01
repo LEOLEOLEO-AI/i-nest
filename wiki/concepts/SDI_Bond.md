@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect_bonding_mechanism]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[SystemLevelNonlinearity]]
 [[TemperatureSensitivityControl]]

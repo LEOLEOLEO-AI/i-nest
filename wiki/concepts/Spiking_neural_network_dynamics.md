@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

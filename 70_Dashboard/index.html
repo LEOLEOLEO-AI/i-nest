@@ -1,143 +1,143 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>TCC × iNEST 研发看板</title>
-<script src="data.js?ts=live"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TCC × iNEST 自进化研发中枢 · 看板</title>
 <style>
-:root{--bg:#0b1220;--panel:#121c2d;--panel2:#18253a;--line:#263750;--text:#e7edf6;--muted:#91a0b6;--tcc:#48b9ef;--inest:#62d68a;--warn:#f5c451;--cross:#c084fc;--green:#4ade80;--red:#f87171}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.65 "Segoe UI","Microsoft YaHei",sans-serif}a{color:var(--tcc);text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:1500px;margin:auto;padding:24px}.top{display:flex;justify-content:space-between;align-items:flex-start;gap:18px;border-bottom:1px solid var(--line);padding-bottom:18px}.kicker{color:var(--muted);font-size:13px}.title{font-size:26px;margin:0 0 4px}.date{color:var(--muted);white-space:nowrap}.metrics,.metrics2{display:grid;gap:12px}.metrics{grid-template-columns:repeat(6,1fr);margin:18px 0}.metrics2{grid-template-columns:repeat(5,1fr);margin:12px 0 18px}.metric{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px}.metric b{display:block;font-size:24px;margin-top:4px}.metric span,.label{color:var(--muted);font-size:12px}.section{margin-top:24px}.section h2{font-size:18px;margin:0 0 10px}.grid{display:grid;grid-template-columns:1.15fr .85fr;gap:14px}.grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px}.dual{display:grid;grid-template-columns:1fr 1fr;gap:14px}.panel{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:18px}.plan{display:flex;gap:10px;padding:10px 0;border-bottom:1px solid rgba(255,255,255,.07)}.plan:last-child,.progress:last-child,.bridge-row:last-child{border-bottom:0}.dot{width:8px;height:8px;border-radius:50%;background:var(--warn);margin-top:9px;flex:none}.dot.tcc{background:var(--tcc)}.dot.inest{background:var(--inest)}.dot.system{background:var(--warn)}.progress{padding:11px 0;border-bottom:1px solid rgba(255,255,255,.07)}.progress strong{color:var(--text)}.track{border:1px solid var(--line);border-radius:8px;padding:18px}.track.tcc{border-top:3px solid var(--tcc)}.track.inest{border-top:3px solid var(--inest)}.track h3{margin:0 0 10px}.track ul{padding-left:20px;margin:0}.bridge{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:14px}.bridge h4{font-size:14px;margin:0 0 4px;color:var(--cross)}.bridge p{font-size:13px;color:var(--muted);margin:0}.bridge-row{display:flex;gap:10px;padding:10px 0;border-bottom:1px solid rgba(255,255,255,.07);align-items:flex-start}.bridge-bar{width:6px;min-height:40px;border-radius:3px;flex:none}.links{display:flex;gap:10px;flex-wrap:wrap}.links a{border:1px solid var(--line);border-radius:6px;padding:7px 10px;background:var(--panel2);font-size:13px}.pulse{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}.pulse.running{background:var(--green);box-shadow:0 0 6px var(--green)}.pulse.paused{background:var(--warn);box-shadow:0 0 6px var(--warn)}.pulse.unknown{background:var(--red)}.badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600}.badge.high{background:rgba(248,113,113,.2);color:var(--red)}.badge.medium{background:rgba(245,196,81,.2);color:var(--warn)}.badge.good{background:rgba(74,222,128,.2);color:var(--green)}@media(max-width:850px){.metrics{grid-template-columns:repeat(3,1fr)}.metrics2{grid-template-columns:repeat(2,1fr)}.grid,.dual,.grid3{grid-template-columns:1fr}}
+  :root { --bg:#f6f7f9; --card:#fff; --ink:#1f2328; --muted:#6b7280; --line:#e5e7eb;
+          --accent:#3b6ef0; --ok:#16a34a; --warn:#d97706; --bad:#dc2626; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0f1115; --card:#171a21; --ink:#e6e8ec; --muted:#9aa3af; --line:#262b33;
+            --accent:#5b8bff; --ok:#4ade80; --warn:#fbbf24; --bad:#f87171; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif;
+         background:var(--bg); color:var(--ink); line-height:1.5; }
+  header { padding:18px 22px; border-bottom:1px solid var(--line); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px; }
+  header h1 { font-size:18px; margin:0; }
+  .meta { color:var(--muted); font-size:13px; }
+  main { max-width:1080px; margin:0 auto; padding:18px 22px 48px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:12px; margin:14px 0; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px 16px; }
+  .card .k { color:var(--muted); font-size:12px; }
+  .card .v { font-size:22px; font-weight:700; margin-top:4px; }
+  section { margin:26px 0; }
+  h2 { font-size:16px; border-left:4px solid var(--accent); padding-left:10px; margin:0 0 12px; }
+  table { width:100%; border-collapse:collapse; font-size:13px; }
+  th,td { text-align:left; padding:7px 10px; border-bottom:1px solid var(--line); }
+  th { color:var(--muted); font-weight:600; }
+  .pill { display:inline-block; padding:1px 8px; border-radius:999px; font-size:12px; }
+  .HIGH { background:rgba(220,38,38,.15); color:var(--bad); }
+  .MEDIUM { background:rgba(217,119,6,.15); color:var(--warn); }
+  .LOW { background:rgba(59,110,240,.15); color:var(--accent); }
+  .ok { color:var(--ok); } .bad { color:var(--bad); }
+  .note { color:var(--muted); font-size:12px; margin-top:8px; }
+  svg text { fill:var(--muted); font-size:10px; }
+  .empty { color:var(--muted); font-style:italic; }
 </style>
 </head>
 <body>
-<main class="wrap">
-<header class="top">
-  <div>
-    <div class="kicker">TCC + iNEST · 自进化研发中枢 v2</div>
-    <h1 class="title">研发看板</h1>
-    <div class="kicker" id="subtitle"></div>
-  </div>
-  <div class="date" id="date"></div>
+<header>
+  <h1>🔬 TCC × iNEST 自进化研发中枢</h1>
+  <div class="meta" id="meta"></div>
 </header>
+<main id="app"><p class="empty">加载中…</p></main>
 
-<!-- Vault Metrics -->
-<section class="metrics" id="metrics"></section>
-
-<!-- Wiki Evolution Metrics -->
-<section class="section"><h2>🧬 Wiki 知识演化</h2><div class="metrics2" id="wiki-metrics"></div></section>
-
-<!-- Plan + Progress -->
-<section class="section grid">
-  <div class="panel">
-    <h2>今日计划</h2>
-    <div class="kicker" id="plan-source"></div>
-    <div id="plan"></div>
-  </div>
-  <div class="panel">
-    <h2>近三日进展</h2>
-    <div id="progress"></div>
-  </div>
-</section>
-
-<!-- Cross-Domain Bridges -->
-<section class="section"><h2>🌉 跨域桥梁</h2><div id="bridges-section"></div></section>
-
-<!-- Domain Tracks -->
-<section class="section dual">
-  <article class="track tcc"><h3>🔧 TCC · 拓扑中心计算</h3>
-    <ul><li>理论：P-Paradigm 投稿前终稿、定义与证明核对</li>
-    <li>技术：SDI / NoC / Chiplet 互连拓扑与调度</li>
-    <li>验证：CST 仿真、参数、脚本、日志与图表闭环</li>
-    <li>成果：架构专利与实现专利权利要求终审</li>
-    </ul>
-  </article>
-  <article class="track inest"><h3>🧠 iNEST · 复杂网络涌现智能</h3>
-    <ul><li>理论：CST、临界性、自组织与非线性增益</li>
-    <li>技术：SNN、储备池、STDP/FEP、多尺度网络</li>
-    <li>验证：异步电路、SNN 仿真与晶上部署指标</li>
-    <li>成果：论文、专著、白皮书与相关专利</li>
-    </ul>
-  </article>
-</section>
-
-<!-- Research Insights -->
-<section class="section"><h2>📄 今日研究洞察</h2><div id="insights-area"></div></section>
-
-<!-- Quick Links -->
-<section class="section panel">
-  <h2>工作入口</h2>
-  <div class="links">
-    <a href="../60_MOC/03_Daily_Action.md">每日行动</a>
-    <a href="../60_MOC/04_Daily_Focus.md">今日焦点</a>
-    <a href="../wiki/index.md">Wiki 概念索引</a>
-    <a href="../wiki/cross_domain_insights.md">跨域洞察</a>
-    <a href="../wiki/task_recommendations.md">任务推荐</a>
-    <a href="../00_Inbox/_pipeline_insights/">今日论文</a>
-    <a href="../99_Meta/research_state.json">系统状态</a>
-    <a href="../50_Output/">成果输出</a>
-  </div>
-</section>
-</main>
-
+<script src="data.js"></script>
 <script>
-(function(){
-  var d=window.RESEARCH_DASHBOARD||{};
-  var state=d.state||{};
-  var wiki=d.wiki||{};
-  var pipe=d.pipeline||{};
-  
-  var esc=function(v){return String(v==null?"":v).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})};
-  var dim=function(v){return v==="TCC"?'tcc':v==="iNEST"?'inest':'system'};
+const D = window.VAULT_DATA || {};
+const $ = (id) => document.getElementById(id);
+function esc(s){ return String(s==null?"":s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
 
-  // Header
-  document.getElementById('date').textContent='数据更新：'+esc(d.generated_at||d.date||'');
-  var ps=pipe.status==='paused'?'<span class="pulse paused"></span>管线暂停 — 待人工确认':pipe.status==='running'?'<span class="pulse running"></span>管线运行中':'<span class="pulse unknown"></span>管线状态未知';
-  document.getElementById('subtitle').innerHTML=ps;
+function render(){
+  if(!D || !D.snapshot){ $('app').innerHTML='<p class="empty">暂无数据，请先运行 self_evolve / homepage_generator。</p>'; return; }
+  const s = D.snapshot, w = D.wiki||{}, h = D.health||{};
+  $('meta').textContent = '更新：' + (D.updated||'?') + '  ·  管线：' + (D.pipeline_status||'unknown');
 
-  // Vault metrics (6)
-  var vm=[['total_notes','📄 知识库',''],['tcc_notes','🔧 TCC资料',''],['inest_notes','🧠 iNEST资料',''],['pending_papers','📥 待处理',''],['processing','⚙️ 处理中',''],['outputs','📤 成果区','']];
-  document.getElementById('metrics').innerHTML=vm.map(function(x){return '<div class="metric"><span>'+x[1]+'</span><b>'+esc(state[x[0]]||0)+'</b><span class="label">'+x[2]+'</span></div>'}).join('');
+  // 概览卡片
+  const cards = [
+    ['知识库总文件', s.total_md], ['TCC 资料', s.tcc], ['iNEST 资料', s.inest],
+    ['待处理论文', s.inbox], ['处理中', s.processing], ['成果区', s.output],
+    ['Wiki 概念', w.total||0], ['编译文章', D.articles||0],
+    ['Git 未提交', s.git_uncommitted],
+    ['自有研究', (D.classification&&D.classification.own)||0], ['外部文献', (D.classification&&D.classification.external)||0],
+  ];
+  let html = '<div class="grid">';
+  for(const [k,v] of cards) html += `<div class="card"><div class="k">${k}</div><div class="v">${v==null?'-':v}</div></div>`;
+  html += '</div>';
 
-  // Wiki evolution metrics (5)
-  var wm=[['concepts','🏷️ 概念总数','TCC:'+(wiki.concepts?wiki.concepts.tcc:0)+' iNEST:'+(wiki.concepts?wiki.concepts.inest:0)+' Cross:'+(wiki.concepts?wiki.concepts.cross:0)],['articles','📝 编译文章','raw/ → wiki/articles/'],['bridges','🌉 活跃桥梁','强度最高 '+(wiki.bridges&&wiki.bridges[0]?wiki.bridges[0].strength:'-')],['health','📊 图谱密度','orphans:'+(wiki.health?wiki.health.orphans:0)],['pipeline','⚡ 管线',''],];
-  document.getElementById('wiki-metrics').innerHTML=wm.map(function(x){
-    var b=x[0]==='health'?(wiki.health&&wiki.health.density==='High'?' good':' medium'):'';
-    return '<div class="metric"><span>'+x[1]+'</span><b'+(' class="badge'+b+'"')+'>'+esc(x[0]==='concepts'?wiki.concepts?wiki.concepts.total:'-':x[0]==='articles'?wiki.articles||0:x[0]==='bridges'?(wiki.bridges?wiki.bridges.length:0):x[0]==='health'?(wiki.health?wiki.health.density||'Low':'Low'):pipe.status||'?')+'</b><span class="label">'+x[2]+'</span></div>'}).join('');
+  // 知识演化追踪（趋势）
+  html += '<section><h2>📈 知识演化追踪（近 10 次自进化）</h2>';
+  const trend = D.trend||[];
+  if(trend.length){
+    const dates = trend.map(t=>t.date), broken = trend.map(t=>t.broken), orphan=trend.map(t=>t.orphan), fm=trend.map(t=>t.missing_fm);
+    html += trendTable(dates, broken, orphan, fm);
+    html += trendChart(broken, '断链趋势', 'var(--bad)');
+  } else { html += '<p class="empty">暂无历史记录。</p>'; }
+  html += '</section>';
 
-  // Plan
-  var plans=d.plan||[];
-  document.getElementById('plan-source').textContent='来源：每日行动 + 今日焦点（'+plans.length+' 项）';
-  document.getElementById('plan').innerHTML=plans.length?plans.map(function(x){return '<div class="plan"><i class="dot '+dim(x.track)+'"></i><div>'+esc(x.text)+'<div class="label">'+esc(x.track||'System')+' · '+esc(x.source||'')+' · '+esc(x.status||'')+'</div></div></div>'}).join(''):'<div class="kicker">今日暂无计划</div>';
+  // 任务推荐
+  html += '<section><h2>🎯 自动任务推荐（Top '+(D.tasks?D.tasks.length:0)+'）</h2>';
+  if(D.tasks && D.tasks.length){
+    html += '<table><tr><th>优先级</th><th>建议</th></tr>';
+    for(const [p,t] of D.tasks) html += `<tr><td><span class="pill ${p}">${p}</span></td><td>${esc(t)}</td></tr>`;
+    html += '</table>';
+  } else html += '<p class="empty">暂无推荐。</p>';
+  html += '</section>';
 
-  // Progress
-  var progress=d.progress||[];
-  document.getElementById('progress').innerHTML=progress.map(function(x,i){return '<div class="progress"><strong>'+(i===0?'📅 今天':i===1?'📅 昨天':'📅 前天')+' · '+esc(x.date)+'</strong><br>'+esc(x.summary)+'</div>'}).join('');
+  // 健康检查
+  const broken = h['真正断链(目标不存在)'], orphan = h['孤儿笔记(无入链)'], miss = h['缺 frontmatter 笔记'];
+  html += '<section><h2>🩺 健康检查（wiki/health.md）</h2>';
+  html += `<div class="grid">
+    <div class="card"><div class="k">真正断链</div><div class="v ${broken? 'bad':'ok'}">${broken==null?'-':broken}</div></div>
+    <div class="card"><div class="k">孤儿笔记</div><div class="v">${orphan==null?'-':orphan}</div></div>
+    <div class="card"><div class="k">缺 frontmatter</div><div class="v ${miss? 'bad':'ok'}">${miss==null?'-':miss}</div></div>
+  </div><p class="note">缺口由每日自进化持续消解；扩大清理需人工确认。</p></section>';
 
-  // Cross-domain bridges
-  var bridges=wiki.bridges||[];
-  if(bridges.length){
-    var colors=['#c084fc','#a78bfa','#818cf8','#60a5fa','#38bdf8'];
-    var html='<div class="panel">';
-    bridges.forEach(function(b,i){
-      var maxStr=bridges[0]?bridges[0].strength:1;
-      var pct=Math.round(b.strength/Math.max(maxStr,1)*100);
-      html+='<div class="bridge-row"><div class="bridge-bar" style="background:'+colors[i%5]+';height:'+Math.max(30,pct/100*60)+'px"></div><div style="flex:1"><strong style="color:'+colors[i%5]+'">'+esc(b.name.replace(/_/g,' × '))+'</strong> <span class="badge medium">强度 '+b.strength+'</span><br><span class="label">'+esc(b.insight||'')+'</span></div></div>';
-    });
-    html+='</div>';
-    document.getElementById('bridges-section').innerHTML=html;
-  } else {
-    document.getElementById('bridges-section').innerHTML='<div class="kicker">暂无跨域桥梁数据</div>';
-  }
+  // 跨域桥梁
+  html += '<section><h2>🌉 跨域桥梁</h2>';
+  if(D.bridges && D.bridges.length){
+    html += '<table><tr><th>#</th><th>桥梁</th><th>强度</th><th>核心洞察</th></tr>';
+    D.bridges.forEach((b,i)=> html += `<tr><td>${i+1}</td><td><b>${esc(b.name.replace(/_/g,' × '))}</b></td><td>${esc(b.strength)}</td><td>${esc((b.insight||'').slice(0,80))}</td></tr>`);
+    html += '</table>';
+  } else html += '<p class="empty">暂无桥梁。</p>';
+  html += '</section>';
 
-  // Research insights
-  var all=d.insights||{};
-  var groups=[['TCC','🔧 TCC 方向','tcc'],['iNEST','🧠 iNEST 方向','inest']];
-  document.getElementById('insights-area').innerHTML='<div class="dual">'+groups.map(function(g){
-    var items=(all[g[0]]||[]);
-    return '<div class="bridge"><h4 class="'+g[2]+'">'+g[1]+'</h4>'+(items.length?items.slice(0,4).map(function(x){return '<p style="margin-top:8px"><strong>'+esc(x.title)+'</strong><br>'+esc(x.summary)+' <span class="label">['+esc(x.source)+']</span></p>'}).join(''):'<p class="label">暂无高相关洞察</p>')+'</div>';
-  }).join('')+'</div>';
-})();
+  // 假设注册表
+  html += '<section><h2>🧪 假设注册表</h2>';
+  if(D.hypotheses && D.hypotheses.length){
+    const emo={'proven':'✅','under_investigation':'🔬','proposed':'📋','pending':'⏳'};
+    html += '<table><tr><th>ID</th><th>假设</th><th>状态</th></tr>';
+    for(const x of D.hypotheses) html += `<tr><td>${esc(x.id)}</td><td>${esc(x.title).slice(0,60)}</td><td>${emo[x.status]||''} ${esc(x.status)}</td></tr>`;
+    html += '</table>';
+  } else html += '<p class="empty">暂无假设。</p>';
+  html += '</section>';
+
+  $('app').innerHTML = html;
+}
+
+function trendTable(dates, broken, orphan, fm){
+  let t = '<table><tr><th>日期</th><th>断链</th><th>孤儿</th><th>缺FM</th></tr>';
+  for(let i=0;i<dates.length;i++) t += `<tr><td>${esc(dates[i])}</td><td>${broken[i]??'-'}</td><td>${orphan[i]??'-'}</td><td>${fm[i]??'-'}</td></tr>`;
+  return t + '</table>';
+}
+
+function trendChart(vals, label, color){
+  const W=600,H=160,pad=24;
+  const data = vals.filter(v=>typeof v==='number');
+  if(!data.length) return '';
+  const max = Math.max(...data, 1), min = Math.min(...data, 0);
+  const n = data.length;
+  const x = i => pad + i*(W-2*pad)/(Math.max(n-1,1));
+  const y = v => H-pad - (v-min)/(max-min||1)*(H-2*pad);
+  const pts = data.map((v,i)=>`${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(' ');
+  let grid='';
+  for(let g=0;g<=3;g++){ const gy=pad+g*(H-2*pad)/3; const gv=Math.round(max-(g/3)*(max-min)); grid+=`<line x1="${pad}" y1="${gy}" x2="${W-pad}" y2="${gy}" stroke="var(--line)"/><text x="2" y="${gy-2}">${gv}</text>`; }
+  return `<svg viewBox="0 0 ${W} ${H}" width="100%" style="margin-top:10px"><text x="${pad}" y="12">${esc(label)}</text>${grid}<polyline points="${pts}" fill="none" stroke="${color}" stroke-width="2"/>${data.map((v,i)=>`<circle cx="${x(i).toFixed(1)}" cy="${y(v).toFixed(1)}" r="3" fill="${color}"/>`).join('')}</svg>`;
+}
+
+render();
 </script>
 </body>
 </html>

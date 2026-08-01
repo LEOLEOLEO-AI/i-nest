@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[Spiking_Neural_Network]]
 [[SystemLevelNonlinearity]]
 [[TemperatureSensitivityControl]]

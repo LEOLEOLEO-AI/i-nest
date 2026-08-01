@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI_Four_Rules]]

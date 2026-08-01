@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Strategic_Planning]]
 [[Software_Defined_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]

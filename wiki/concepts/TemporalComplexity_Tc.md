@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SmallWorldNetwork]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]

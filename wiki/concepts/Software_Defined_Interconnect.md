@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]

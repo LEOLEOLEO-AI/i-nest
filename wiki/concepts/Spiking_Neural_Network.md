@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
+[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]

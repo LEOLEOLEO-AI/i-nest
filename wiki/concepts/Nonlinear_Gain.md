@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGainCondition]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
+[[Neuromorphic_computing_architecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

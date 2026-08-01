@@ -8,8 +8,11 @@ self_evolve.py — 知识库自进化 / 自生长 编排器 (Karpathy LLM-Wiki �
   1. 增量编译 raw/新来源 -> wiki (仅当存在未处理文件时调用 LLM, 带超时与失败隔离)
   2. wiki_grow: 概念图谱交叉链接 + 去重 + 刷新 index/backlinks/health (纯本地)
   3. 全库轻量健康自检 (断链/孤儿/缺 frontmatter, 纯本地无 LLM) -> 99_Meta/vault_health.md
-  4. 刷新 Home.md (实时 git 状态)
-  5. git add + commit + push github (仅当有改动)
+  4. 自我生长: 补全高频缺失概念占位 (纯本地无 LLM)
+  5. Phase4 自进化引擎: import_processor/task_recommender/research_evolution/cross_domain_insight
+     (隔离+超时, 单步失败不影响其余; 产出 task_recommendations/evolution_report/cross_domain_insights)
+  6. 刷新 Home.md (实时 git 状态 + 仪表盘数据)
+  7. git add + commit + push github (仅当有改动)
 
 所有 LLM 调用都带超时与异常隔离, 单步失败不影响其余步骤, 全程记录日志到
 99_Meta/self_evolve_log.json。
@@ -273,6 +276,31 @@ def step_grow_missing_concepts(broken_freq, max_new=10, min_refs=3):
     return created
 
 
+def step_phase4():
+    """运行 Phase 4 自进化引擎 (隔离+超时, 单步失败不影响其余)。
+
+    产出:
+      - wiki/task_recommendations.md   (task_recommender)
+      - wiki/evolution_report.md        (research_evolution)
+      - wiki/cross_domain_insights.md   (cross_domain_insight)
+      - import_processor: 监控 Genspark/得到大脑/Codex 新导入并归入待编译
+    均为纯本地启发式脚本(无 LLM、无破坏性操作), 安全纳入每日循环。
+    """
+    log("运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...")
+    steps = {
+        "import_processor": ("import_processor.py", 120),
+        "task_recommender": ("task_recommender.py", 180),
+        "research_evolution": ("research_evolution.py", 180),
+        "cross_domain_insight": ("cross_domain_insight.py", 180),
+    }
+    results = {}
+    for name, (rel, to) in steps.items():
+        rc, out = run_script(rel, timeout=to)
+        results[name] = rc == 0
+        log(f"{name} 退出码={rc} | {out[-200:]}")
+    return results
+
+
 def step_homepage():
     log("刷新 Home.md (实时 git)...")
     rc, out = run_script("homepage_generator.py", timeout=120)
@@ -315,6 +343,7 @@ def main():
     health_report, broken_freq = step_vault_health()
     results["health"] = health_report
     results["grow_concepts"] = step_grow_missing_concepts(broken_freq)
+    results["phase4"] = step_phase4()
     results["homepage"] = step_homepage()
     results["git"] = step_git()
     # 写日志

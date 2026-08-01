@@ -1,13 +1,5 @@
----
-title: Research Task Recommendations
-tags:
-- brain
-- dynamics
-- neural-networks
-- paper
-- project
-- topology
----
+# Research Task Recommendations
+
 **Generated**: 2026-08-01
 **Total**: 17 recommendations
 
@@ -56,26 +48,26 @@ H3: iNEST: 脉冲神经网络在晶上系统可实现类脑计算
 **Action**: Process evolution queue item
 
 ### 12. [LOW] Orphan Concepts
-70 orphan concepts with no incoming links
-**Action**: Link these concepts: 02 复杂性：什么样的系统是复杂系统？ - 得到APP, 10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点, 2025年10月11号 日记, AI-ML — 全景导航 (Map of Content), AI_Application_Scenario_Reconstruction, AI_Industrial_Ecosystem, ANN动力学, Allreduce_Latency_Probe, Alpha_Consistency_Problem, AutonomousAdaptation
+106 orphan concepts with no incoming links
+**Action**: Link these concepts: 00_ADR_决策记录, 02 复杂性：什么样的系统是复杂系统？ - 得到APP, 04 混沌与非线性：规则已知，却不可预测？ - 得到APP, 11_SDI节点接口规范与化合键定义_dup, 12_三原理协同_FEP_最小作用量_STDP, 2025年10月11号 日记, 2026-04-07, 400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述, 5期内容, 6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进
 
 ### 13. [LOW] Recent Output
-Recent: 基金委_2000万重大项目指南策划 (1) (0d ago)
+Recent: VLEO_TCC_SDSoW_HighDensity_Payload_Guide (0d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 14. [LOW] Recent Output
-Recent: [V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版 (1) (0d ago)
+Recent: 基金委_2000万重大项目指南策划 (1) (1d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 15. [LOW] Recent Output
-Recent: [V6]_海河实验室_项目指南_晶上拓扑中心计算_2000W版 (1) (0d ago)
+Recent: [V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版 (1) (1d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 16. [LOW] Recent Output
-Recent: 美国DARPA对专业化孵化器建设的启示：组织架构、管理机制与生态构建 (0d ago)
+Recent: [V6]_海河实验室_项目指南_晶上拓扑中心计算_2000W版 (1) (1d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 17. [LOW] Recent Output
-Recent: 谷歌DeepMind AlphaEvolve：通过代码进化实现科学突破 (0d ago)
+Recent: 美国DARPA对专业化孵化器建设的启示：组织架构、管理机制与生态构建 (1d ago)
 **Action**: Review and incorporate insights into wiki
 
