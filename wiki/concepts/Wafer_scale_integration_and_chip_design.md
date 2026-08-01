@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[Second_Curve_Wafer_Industry_Platform]]
+[[Spacetime_Coupling_Coefficient]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

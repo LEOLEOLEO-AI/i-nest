@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[Neuromorphic_Computing]]
+[[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[STDP_Plasticity]]

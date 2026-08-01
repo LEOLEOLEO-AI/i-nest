@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[Spacetime_Coupling_Coefficient]]
 [[TemporalComplexity_Tc]]
 
 ## Sources

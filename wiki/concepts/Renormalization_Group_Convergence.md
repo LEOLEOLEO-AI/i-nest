@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[RTC_Primitive_Set]]
 [[Residual_Connection_Removal]]
+[[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
 [[TemporalComplexity_Tc]]
 [[TopologyProgramming]]

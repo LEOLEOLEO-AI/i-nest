@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Order_Flexibility_Duality]]
+[[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[Spatiotemporal_Synergy_Complexity]]

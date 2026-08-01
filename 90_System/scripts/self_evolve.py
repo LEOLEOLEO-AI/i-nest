@@ -113,7 +113,8 @@ def step_vault_health():
         if not txt.lstrip().startswith("---"):
             missing_fm += 1
         for m in link_re.findall(txt):
-            tgt = m.split("|")[0].split("#")[0].strip()
+            raw = m.replace("\\|", "|")          # Obsidian 转义别名分隔符 [[A\|B]]
+            tgt = raw.split("|")[0].split("#")[0].strip().rstrip("\\").strip()
             if tgt:
                 outgoing[f.stem].add(tgt)
     broken = 0

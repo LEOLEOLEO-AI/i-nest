@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDSoW_Architecture]]
+[[Spacetime_Coupling_Coefficient]]
 [[Wafer_Scale_Neuromorphic]]
 
 ## Sources

@@ -6,7 +6,7 @@
 ## Stats
 - **Total Concepts**: 191
 - **Total Articles**: 27
-- **Orphan Concepts**: 70
+- **Orphan Concepts**: 67
 - **Knowledge Graph Density**: Medium
 
 ## Orphan Concepts (no incoming links)
@@ -39,7 +39,6 @@
 - [[GammaSt_Revision]]
 - [[GranularCortexExclusion]]
 - [[InNetworkNeuromorphicEmergence]]
-- [[InNetworkNeuromorphicSimulation]]
 - [[InNetwork_CST_Offload]]
 - [[In_Network_Neuromorphic_Integration]]
 - [[In_Network_Neuromorphic_Processing]]
@@ -50,7 +49,8 @@
 - [[National_Mesoscale_Innovation_Center]]
 - [[Network_Spatiotemporal_Synergy]]
 - [[Network_on_Chip_communication_architecture]]
-- ... 30 more
+- [[Network_topology_and_interconnection_patterns]]
+- ... 27 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

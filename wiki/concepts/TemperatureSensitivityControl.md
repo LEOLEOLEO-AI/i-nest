@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]
 [[Universal_Scaling_Laws]]
 [[Γst_Revision]]

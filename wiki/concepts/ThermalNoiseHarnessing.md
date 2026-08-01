@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SmallWorldNetwork]]

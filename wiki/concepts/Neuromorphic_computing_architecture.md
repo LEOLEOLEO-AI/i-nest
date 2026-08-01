@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

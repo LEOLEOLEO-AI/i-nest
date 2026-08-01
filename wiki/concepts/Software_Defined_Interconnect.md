@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
+[[Spacetime_Coupling_Coefficient]]
 [[TemporalComplexity_Tc]]
 
 ## Sources

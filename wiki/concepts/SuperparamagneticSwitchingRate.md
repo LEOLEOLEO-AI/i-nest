@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
 [[SmallWorldNetwork]]
+[[Spacetime_Coupling_Coefficient]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]

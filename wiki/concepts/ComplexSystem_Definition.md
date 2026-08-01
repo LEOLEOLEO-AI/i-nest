@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[Spacetime_Coupling_Coefficient]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TopologyAware_Renormalization]]
 [[Topology_Constrained_Stability_Analysis]]

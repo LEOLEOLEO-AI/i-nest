@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[Spacetime_Coupling_Coefficient]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]
 [[TCC_Topology_Interconnect]]

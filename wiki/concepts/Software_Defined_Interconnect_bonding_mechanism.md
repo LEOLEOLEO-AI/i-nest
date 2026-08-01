@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Software_Defined_Interconnect]]
+[[Spacetime_Coupling_Coefficient]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

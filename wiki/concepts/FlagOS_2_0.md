@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[Spacetime_Coupling_Coefficient]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]

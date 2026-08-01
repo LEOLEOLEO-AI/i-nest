@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[Spacetime_Coupling_Coefficient]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

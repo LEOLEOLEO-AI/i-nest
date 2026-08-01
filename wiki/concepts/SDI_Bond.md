@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect_bonding_mechanism]]
+[[Spacetime_Coupling_Coefficient]]
 [[Structural_Mismatch]]
 
 ## Sources

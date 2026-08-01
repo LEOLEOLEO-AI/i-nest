@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect_bonding_mechanism]]
+[[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]
 [[Wafer_Scale_Neuromorphic]]
 

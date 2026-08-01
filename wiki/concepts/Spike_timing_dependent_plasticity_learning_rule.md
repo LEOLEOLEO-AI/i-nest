@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Contested_Priors_Mechanism]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[MetricComputationAuthenticity]]

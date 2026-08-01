@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Next_Gen_AI_Application_Scenarios]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[Spacetime_Coupling_Coefficient]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
 

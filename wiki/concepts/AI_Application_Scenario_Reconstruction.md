@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
+[[Spacetime_Coupling_Coefficient]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]
 [[vLLM_plugin_FLSDI]]

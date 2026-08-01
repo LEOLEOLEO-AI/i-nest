@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SuperlinearGain]]
+[[SuperparamagneticSwitchingRate]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
 

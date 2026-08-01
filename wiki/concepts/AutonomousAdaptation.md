@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
+[[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

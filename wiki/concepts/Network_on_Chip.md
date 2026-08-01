@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[Second_Curve_Wafer_Industry_Platform]]
+[[Spacetime_Coupling_Coefficient]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]

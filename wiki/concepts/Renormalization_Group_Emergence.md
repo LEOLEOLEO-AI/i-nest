@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[Spacetime_Coupling_Coefficient]]
 [[TemporalComplexity_Tc]]
 [[Universal_Scaling_Laws]]
 

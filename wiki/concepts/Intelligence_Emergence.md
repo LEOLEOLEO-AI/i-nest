@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Intelligence_Emergence]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Priors_Mechanism]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]

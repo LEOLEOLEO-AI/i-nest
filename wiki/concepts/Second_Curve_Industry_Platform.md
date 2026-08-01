@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]
+[[Spacetime_Coupling_Coefficient]]
 [[SystemLevelNonlinearity]]
 [[ThermalNoiseHarnessing]]
 
