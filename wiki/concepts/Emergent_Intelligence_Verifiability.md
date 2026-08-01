@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
+[[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

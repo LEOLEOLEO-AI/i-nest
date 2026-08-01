@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
+[[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]

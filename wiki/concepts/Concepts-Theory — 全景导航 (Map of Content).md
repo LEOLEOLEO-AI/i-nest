@@ -1,0 +1,24 @@
+---
+provenance: derived
+type: concept-stub
+auto: true
+created: 2026-08-01
+refs: 6
+---
+
+# Concepts-Theory — 全景导航 (Map of Content)
+
+> 由 self_evolve 自动生成的占位概念（被引用 43 次，来源尚未成稿）。
+
+
+## 引用来源
+
+- [[vault_health]]
+- [[06_引用模板_答辩与论文]]
+- [[Nature_Electronics_基于忆阻器异质集成架构的傅里叶变换系统]]
+- [[00_项目-论文-专利-技术四线映射表]]
+- [[P1-2_基于查找表的网内二值化神经网络硬件加速装置及方法_交底书框架]]
+- [[NSFC专项项目指南_v1]]
+
+
+_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_

@@ -4,34 +4,34 @@
 
 - 笔记总数(可链接目标): **4453**
 - 缺 frontmatter 笔记: **1274**
-- 真正断链(目标不存在): **2005**
+- 真正断链(目标不存在): **2010**
 
-## 断链样本(需修复)
+## 断链样本(按被引用次数排序, 优先补全)
 
-- `[[Home]]` → `[[00_ADR_决策记录]]`
-- `[[getnote_2026-07-31_getnote_1917118403083276376_Route≡Transform：拓扑兼容条件下通信即计算的代数框架与拓扑中心计算原语体系]]` → `[[CST计量仪]]`
-- `[[getnote_2026-07-31_getnote_1917118403083276376_Route≡Transform：拓扑兼容条件下通信即计算的代数框架与拓扑中心计算原语体系]]` → `[[NCL神经计算定律详解]]`
-- `[[iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现]]` → `[[CST计量仪]]`
-- `[[iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现]]` → `[[NCL神经计算定律详解]]`
-- `[[TCC_Knowledge_Base_Baseline_v2.0]]` → `[[拓扑中心计算范式架构研究与液态拓扑端侧MVP验证（20260702）.pptx]]`
-- `[[TCC_Knowledge_Base_Baseline_v2.0]]` → `[[TCC_项目实施方案_v30_最终版.docx]]`
-- `[[iNEST_RnD_SuperFlow_v3]]` → `[[双向链接]]`
-- `[[00_知识库治理中枢]]` → `[[嵌入]]`
-- `[[01_TCC_Baseline_Task_Plan]]` → `[[TCC OneFabric_TCC16_工程落地方案_v1.0]]`
-- `[[05_Task_Review]]` → `[[2026-07-19_arXiv_Stochastic binary networks with asymmetric and time-delayed]]`
-- `[[05_Task_Review]]` → `[[2026-07-19_arXiv_Smooth-Curvature Bend Design Guided by Variational Analysis]]`
-- `[[10_Paradigm_Upgrade_Blueprint]]` → `[[双向链接]]`
-- `[[11_External_Literature_Index]]` → `[[00_Inbox/_pipeline_insights/2026-07-18_OA_End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed]]`
-- `[[11_External_Literature_Index]]` → `[[30_TCC/31_Theory/2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with]]`
-- `[[AI-ML-MOC]]` → `[[神经网络]]`
-- `[[AI-ML-MOC]]` → `[[ANN动力学]]`
-- `[[AI-ML-MOC]]` → `[[神经形态计算]]`
-- `[[AI-ML-MOC]]` → `[[2026-06-22_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me]]`
-- `[[AI-ML-MOC]]` → `[[DeepSeek_AI创新]]`
-- `[[AI-ML-MOC]]` → `[[2026-06-23_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me]]`
-- `[[Chip-Hardware-MOC]]` → `[[2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore]]`
-- `[[Chip-Hardware-MOC]]` → `[[2026-06-23_S2_Defect detection on semiconductor wafer surfaces_1]]`
-- `[[Chip-Hardware-MOC]]` → `[[2026-06-23_S2_HiMap A hierarchical mapping approach for enhancing lifetime_1]]`
-- `[[Chip-Hardware-MOC]]` → `[[2026-06-23_S2_Automated Material Handling Systems System of Systems Archit_1]]`
+- (×48) `[[神经网络]]`
+- (×46) `[[iNEST]]`
+- (×43) `[[Chip-Hardware — 全景导航 (Map of Content)]]`
+- (×43) `[[Concepts-Theory — 全景导航 (Map of Content)]]`
+- (×39) `[[AI-ML — 全景导航 (Map of Content)]]`
+- (×27) `[[ClearSight: 基于事件相机与生物启发的运动去模糊研究]]`
+- (×20) `[[CST计量仪]]`
+- (×20) `[[ANN动力学]]`
+- (×19) `[[NCL神经计算定律详解]]`
+- (×17) `[[2025年10月11号 日记]]`
+- (×15) `[[知识库健康诊断 (Self-Health Dashboard)]]`
+- (×15) `[[待分类]]`
+- (×13) `[[iNEST 机构 — 全景导航 (Map of Content)]]`
+- (×11) `[[神经形态计算]]`
+- (×10) `[[2025年10月28号 日记]]`
+- (×10) `[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]`
+- (×10) `[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]`
+- (×10) `[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]`
+- (×9) `[[2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly]]`
+- (×8) `[[30_TCC\34_Projects\_from_ideas\卫星智能体重大专项建议_v4.md]]`
+- (×8) `[[TCC]]`
+- (×8) `[[论文]]`
+- (×8) `[[涌现动力学如何用来分析复杂系统？]]`
+- (×8) `[[300″]]`
+- (×8) `[[00_Inbox/_pipeline_insights/八大神经网络，从原理到应用]]`
 
 - 孤儿笔记(无入链): **2120**

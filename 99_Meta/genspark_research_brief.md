@@ -1,12 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-07-31
-date: 2026-07-31
+title: iNEST+TCC Research Brief - 2026-08-01
+date: 2026-08-01
 type: research-brief
 target: genspark
-provenance: external
 ---
 
-# iNEST + TCC Research Brief - 2026-07-31
+# iNEST + TCC Research Brief - 2026-08-01
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -34,33 +33,33 @@ provenance: external
 
 ## 4. Inbox Highlights
 
-- [2026-07-31] **getnote_2026-07-31_getnote_1917118624271996312_CST—iNEST—SDDE—iMESO 第一性主线** (root)
-- [2026-07-31] **getnote_2026-07-31_getnote_1917118403083276376_Route≡Transform：拓扑兼容条件下通信即计算的代数框架** (root)
-- [2026-07-31] **getnote_2026-07-31_getnote_1916996512984109144_典型应用场景演示验证方案（修订版）** (root)
-- [2026-07-31] **getnote_2026-07-31_getnote_1916995861221774744_异构芯粒定制开发项目中期检查** (root)
-- [2026-07-31] **getnote_2026-07-31_getnote_1916995724856561752_SDSoW接口标准评审意见** (root)
-- [2026-07-31] **2026-07-31_arXiv_Photonic reservoir computing with complex networks** (_pipeline_insights)
-- [2026-07-31] **2026-07-31_arXiv_Recycling computational processes of dynamic programming for** (_pipeline_insights)
-- [2026-07-31] **2026-07-31_arXiv_Frequency-Based Reservoir computing** (_pipeline_insights)
+- [2026-08-01] **2026-08-01_arXiv_Dynamics-matched Physical Reservoir Computing for Undersense** (_pipeline_insights)
+- [2026-08-01] **2026-08-01_arXiv_Nanoparticle Networks for Neuromorphic Computing** (_pipeline_insights)
+- [2026-08-01] **2026-08-01_arXiv_Synchronization, Kinematic Waves and Spike-Phase-Separation ** (_pipeline_insights)
+- [2026-08-01] **2026-08-01_arXiv_MANTA Multi-Agent Network Topology Adaptation for Self-Evolv** (_pipeline_insights)
+- [2026-08-01] **2026-08-01_arXiv_Storing Sensor Events in the Interconnection Strength of Con** (_pipeline_insights)
+- [2026-08-01] **2026-08-01_arXiv_Anisotropic Tensile Strength and Fracture Mechanism of $θ$-T** (_pipeline_insights)
+- [2026-08-01] **2026-08-01_arXiv_DICE Detailed Inter-Chiplet End-to-End PHY Modeling for Accu** (_pipeline_insights)
+- [2026-08-01] **2026-08-01_arXiv_GLM-RAG Graph Language Models for Graph-Based Retrieval-Augm** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 5822
-Graph nodes: 5612 | edges: 8950
+Total notes: 5916
+Graph nodes: 5822 | edges: 9237
 
 Top connected topics:
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=394)
 - **TCC_iNEST_成果全景** (degree=291)
 - **00_研究资料导航** (degree=194)
+- **index** (degree=113)
 - **2025年AI与HPC网络加速芯片技术对比** (degree=85)
 - **INDEX** (degree=62)
 - **INDEX** (degree=62)
-- **getnote_20260429_【iNEST知识库】TCC_Core_Concepts** (degree=52)
 
 ## 6. Innovation Brief (latest)
 
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-07-31 08:22*
+*Research brief auto-generated 2026-08-01 09:22*

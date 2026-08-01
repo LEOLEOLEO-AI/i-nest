@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[Core_Spacetime_Tensor]]
 [[Emergent_Intelligence_Threshold]]
@@ -25,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

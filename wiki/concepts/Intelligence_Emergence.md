@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]
+[[InNetwork_CST_Offload]]
 [[Macro_System_Description]]
 [[Order_Flexibility_Duality]]
 [[Reservoir_Computing]]

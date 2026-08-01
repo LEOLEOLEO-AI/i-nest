@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[InMemory_Computing]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Renormalization_Group_Convergence]]

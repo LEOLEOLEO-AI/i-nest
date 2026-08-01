@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[NonAbelian_Gauge_Topology]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDSoW]]

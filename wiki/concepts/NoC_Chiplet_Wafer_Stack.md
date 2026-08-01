@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NonAbelian_Gauge_Topology]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

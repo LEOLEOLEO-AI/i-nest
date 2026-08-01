@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NonAbelian_Gauge_Topology]]
 [[P_Paradigm]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]

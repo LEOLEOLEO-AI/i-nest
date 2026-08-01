@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]

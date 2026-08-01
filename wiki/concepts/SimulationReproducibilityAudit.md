@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Network_Topology_Design]]
+[[NonAbelian_Gauge_Topology]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

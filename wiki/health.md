@@ -6,7 +6,7 @@
 ## Stats
 - **Total Concepts**: 191
 - **Total Articles**: 27
-- **Orphan Concepts**: 64
+- **Orphan Concepts**: 62
 - **Knowledge Graph Density**: Medium
 
 ## Orphan Concepts (no incoming links)
@@ -36,7 +36,6 @@
 - [[GammaSt_Revision]]
 - [[GranularCortexExclusion]]
 - [[InNetworkNeuromorphicEmergence]]
-- [[InNetwork_CST_Offload]]
 - [[In_Network_Neuromorphic_Integration]]
 - [[In_Network_Neuromorphic_Processing]]
 - [[Memristor_Hardware_ANN]]
@@ -48,9 +47,10 @@
 - [[Network_on_Chip_communication_architecture]]
 - [[Network_topology_and_interconnection_patterns]]
 - [[Neuromorphic_Substrate]]
-- [[NonAbelian_Gauge_Topology]]
 - [[Patent_Textbook_Synchronization]]
-- ... 24 more
+- [[Productized_Subproject]]
+- [[ReproducibleReservoirComputing]]
+- ... 22 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
+[[NonAbelian_Gauge_Topology]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[Second_Curve_Wafer_Industry_Platform]]

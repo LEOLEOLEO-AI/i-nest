@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[NonAbelian_Gauge_Topology]]
 [[Order_Flexibility_Duality]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

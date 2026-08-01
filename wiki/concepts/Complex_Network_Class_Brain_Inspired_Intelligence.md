@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
 [[Heterogeneous_Integration]]
+[[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memristor_Synapse]]

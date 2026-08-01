@@ -506,5 +506,137 @@
       "已提交 188 个文件。",
       "已推送 github main。"
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "time": "2026-08-01T09:21:06.749666",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-01",
+        "total_notes": 4453,
+        "missing_frontmatter": 1274,
+        "broken_links": 2005,
+        "broken_samples": [
+          [
+            "Home",
+            "00_ADR_决策记录"
+          ],
+          [
+            "getnote_2026-07-31_getnote_1917118403083276376_Route≡Transform：拓扑兼容条件下通信即计算的代数框架与拓扑中心计算原语体系",
+            "CST计量仪"
+          ],
+          [
+            "getnote_2026-07-31_getnote_1917118403083276376_Route≡Transform：拓扑兼容条件下通信即计算的代数框架与拓扑中心计算原语体系",
+            "NCL神经计算定律详解"
+          ],
+          [
+            "iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现",
+            "CST计量仪"
+          ],
+          [
+            "iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现",
+            "NCL神经计算定律详解"
+          ],
+          [
+            "TCC_Knowledge_Base_Baseline_v2.0",
+            "拓扑中心计算范式架构研究与液态拓扑端侧MVP验证（20260702）.pptx"
+          ],
+          [
+            "TCC_Knowledge_Base_Baseline_v2.0",
+            "TCC_项目实施方案_v30_最终版.docx"
+          ],
+          [
+            "iNEST_RnD_SuperFlow_v3",
+            "双向链接"
+          ],
+          [
+            "00_知识库治理中枢",
+            "嵌入"
+          ],
+          [
+            "01_TCC_Baseline_Task_Plan",
+            "TCC OneFabric_TCC16_工程落地方案_v1.0"
+          ],
+          [
+            "05_Task_Review",
+            "2026-07-19_arXiv_Stochastic binary networks with asymmetric and time-delayed"
+          ],
+          [
+            "05_Task_Review",
+            "2026-07-19_arXiv_Smooth-Curvature Bend Design Guided by Variational Analysis"
+          ],
+          [
+            "10_Paradigm_Upgrade_Blueprint",
+            "双向链接"
+          ],
+          [
+            "11_External_Literature_Index",
+            "00_Inbox/_pipeline_insights/2026-07-18_OA_End-to-End Physical Design Automation Flow for Yield-Optimized Inverse-Designed"
+          ],
+          [
+            "11_External_Literature_Index",
+            "30_TCC/31_Theory/2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with"
+          ],
+          [
+            "AI-ML-MOC",
+            "神经网络"
+          ],
+          [
+            "AI-ML-MOC",
+            "ANN动力学"
+          ],
+          [
+            "AI-ML-MOC",
+            "神经形态计算"
+          ],
+          [
+            "AI-ML-MOC",
+            "2026-06-22_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me"
+          ],
+          [
+            "AI-ML-MOC",
+            "DeepSeek_AI创新"
+          ],
+          [
+            "AI-ML-MOC",
+            "2026-06-23_TCC_arXiv_MemoryWAM Efficient World Action Modeling with Persistent Me"
+          ],
+          [
+            "Chip-Hardware-MOC",
+            "2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore"
+          ],
+          [
+            "Chip-Hardware-MOC",
+            "2026-06-23_S2_Defect detection on semiconductor wafer surfaces_1"
+          ],
+          [
+            "Chip-Hardware-MOC",
+            "2026-06-23_S2_HiMap A hierarchical mapping approach for enhancing lifetime_1"
+          ],
+          [
+            "Chip-Hardware-MOC",
+            "2026-06-23_S2_Automated Material Handling Systems System of Systems Archit_1"
+          ]
+        ],
+        "orphan_notes": 2120
+      },
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | [09:21:07] === Wiki Compiler v1.0 ===\n[09:21:07] LLM enabled: True\n[09:21:07] Last compile: 2026-08-01\n[09:21:07] Phase 1: Found 0 new/changed raw files\n[09:21:07] No new files to process. Running health check only.\n[09:21:07] Done.\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | [09:21:07] wiki_grow start\n  concepts loaded: 191\n  concepts now: 191 | linked: 183 | orphans: 64\n  index/backlinks/health refreshed.\n[09:21:16] wiki_grow done — orphans 64/191\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 4453 | 真正断链 2005 | 孤儿 2120 | 缺FM 1274 -> vault_health.md",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [09:21:32] === Homepage Generator ===\n[09:21:33] Home.md generated (4424 chars)\n[09:21:33] === Done ===\n",
+      "已提交 188 个文件。",
+      "已推送 github main。"
+    ]
   }
 ]

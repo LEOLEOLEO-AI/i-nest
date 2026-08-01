@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Next_Gen_AI_Application_Scenarios]]
+[[NonAbelian_Gauge_Topology]]
 [[Renormalization_Group_Convergence]]
 [[Reservoir_Computing]]
 [[Residual_Connection_Removal]]

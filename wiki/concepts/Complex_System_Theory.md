@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
+[[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[Macro_System_Description]]
 [[MultiplicativeGainCondition]]

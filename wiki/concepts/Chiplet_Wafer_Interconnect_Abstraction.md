@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[DataProvenanceIntegrity]]
 [[Exponential_CST_Coupling]]
@@ -23,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NonAbelian_Gauge_Topology]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]

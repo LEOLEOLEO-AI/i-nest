@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Renormalization_Group_Emergence]]

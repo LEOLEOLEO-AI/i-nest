@@ -71,20 +71,11 @@ def step_grow():
     return rc == 0
 
 
-def step_vault_health():
-    """纯本地全库健康自检: 断链 / 孤儿 / 缺 frontmatter。无 LLM。
-
-    链接解析规则(贴近 Obsidian):
-      - 裸链接 [[Name]]  -> 解析为任意同名笔记 basename
-      - 路径链接 [[a/b/Name]] -> 解析为相对路径(去扩展名)存在的文件
-      - 附件链接 [[x.json]]/[[x.py]] 等 -> 若文件存在则合法
-      - 文件夹链接 [[Folder]] -> 若匹配目录则合法
-    仅上述均不匹配才计为真正断链。
-    """
-    log("运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...")
+def analyze_links():
+    """纯本地扫描全库链接, 返回解析集合与断链频率。无 LLM。"""
     note_basenames = set()
     note_paths = set()      # 相对路径(去 .md)
-    file_paths = set()      # 所有文件相对路径(去扩展名)
+    file_paths = set()      # 所有文件相对路径(去扩展名 + 带扩展名)
     dirs = set()
     link_re = re.compile(r"\[\[([^\]]+)\]]")
     for f in VAULT.rglob("*"):
@@ -119,27 +110,40 @@ def step_vault_health():
             tgt = raw.split("|")[0].split("#")[0].strip().rstrip("\\").strip()
             if tgt:
                 outgoing[f.stem].add(tgt)
-    broken = 0
-    broken_samples = []
+    broken_freq = defaultdict(int)   # 断链目标 -> 被引用次数
     incoming = defaultdict(set)
     for name, tgts in outgoing.items():
         for t in tgts:
             ok = (t in note_basenames) or (t in note_paths) or \
                  (t in file_paths) or (t in dirs)
-            if ok:
-                if t in note_basenames or t in note_paths:
-                    incoming[t].add(name)
-            else:
-                broken += 1
-                if len(broken_samples) < 25:
-                    broken_samples.append((name, t))
+            if ok and (t in note_basenames or t in note_paths):
+                incoming[t].add(name)
+            if not ok:
+                broken_freq[t] += 1
     orphans = [n for n in note_basenames if n not in incoming]
+    return note_basenames, note_paths, file_paths, dirs, broken_freq, orphans, missing_fm
+
+
+def step_vault_health():
+    """纯本地全库健康自检: 断链 / 孤儿 / 缺 frontmatter。无 LLM。
+
+    链接解析规则(贴近 Obsidian):
+      - 裸链接 [[Name]]  -> 解析为任意同名笔记 basename
+      - 路径链接 [[a/b/Name]] -> 解析为相对路径(去扩展名)存在的文件
+      - 附件链接 [[x.json]]/[[x.py]] 等 -> 若文件存在则合法
+      - 文件夹链接 [[Folder]] -> 若匹配目录则合法
+    仅上述均不匹配才计为真正断链。
+    """
+    log("运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...")
+    nb, np_, fp, dirs, broken_freq, orphans, missing_fm = analyze_links()
+    broken = sum(broken_freq.values())
+    broken_samples = sorted(broken_freq.items(), key=lambda x: -x[1])[:25]
     report = {
         "date": TODAY,
-        "total_notes": len(note_basenames),
+        "total_notes": len(nb),
         "missing_frontmatter": missing_fm,
         "broken_links": broken,
-        "broken_samples": broken_samples[:25],
+        "broken_samples": broken_samples,
         "orphan_notes": len(orphans),
     }
     out_path = VAULT / "99_Meta" / "vault_health.md"
@@ -148,14 +152,87 @@ def step_vault_health():
     lines.append(f"- 缺 frontmatter 笔记: **{report['missing_frontmatter']}**")
     lines.append(f"- 真正断链(目标不存在): **{report['broken_links']}**")
     if broken_samples:
-        lines.append("\n## 断链样本(需修复)\n")
-        for src, tgt in broken_samples:
-            lines.append(f"- `[[{src}]]` → `[[{tgt}]]`")
+        lines.append("\n## 断链样本(按被引用次数排序, 优先补全)\n")
+        for tgt, c in broken_samples:
+            lines.append(f"- (×{c}) `[[{tgt}]]`")
     lines.append(f"\n- 孤儿笔记(无入链): **{report['orphan_notes']}**")
     out_path.write_text("\n".join(lines), encoding="utf-8")
     log(f"健康自检: 笔记 {report['total_notes']} | 真正断链 {report['broken_links']} | "
         f"孤儿 {report['orphan_notes']} | 缺FM {report['missing_frontmatter']} -> {out_path.name}")
-    return report
+    return report, broken_freq
+
+
+# 明显非"概念"、不应自动补全为笔记的链接词(多为插件/UI 伪链接)
+DENY_CONCEPT = {"双向链接", "嵌入", "标签", "附件", "看板", "图谱", "关系",
+                "反链", "出链", "引用", "链接", "笔记", "标签", "搜索"}
+
+
+def step_grow_missing_concepts(broken_freq, max_new=10, min_refs=3):
+    """自我生长: 为高频被引用却不存在的裸概念名自动生成占位笔记。
+
+    仅处理: 裸笔记名(无 / \\ 与扩展名)、长度 2-50、被引用≥min_refs、
+    不在 DENY_CONCEPT、且库内尚未存在。每轮最多 max_new 篇, 防止爆炸。
+    生成的占位笔记带 frontmatter + 回链来源, 下一轮 wiki_grow 会自动交叉链接。
+    """
+    log("自我生长: 补全高频缺失概念占位笔记...")
+    created = []
+    out_dir = VAULT / "wiki" / "concepts"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    nb, np_, fp, dirs, _, _, _ = analyze_links()
+    candidates = []
+    for tgt, c in broken_freq.items():
+        if c < min_refs:
+            continue
+        if "/" in tgt or "\\" in tgt:        # 路径式链接, 非裸概念
+            continue
+        if "." in tgt:                        # 附件/带扩展名, 跳过
+            continue
+        if not (2 <= len(tgt) <= 50):
+            continue
+        if tgt in DENY_CONCEPT:
+            continue
+        if tgt in nb or tgt in np_ or tgt in fp or tgt in dirs:
+            continue
+        candidates.append((tgt, c))
+    candidates.sort(key=lambda x: -x[1])
+    for tgt, c in candidates[:max_new]:
+        # 文件名净化(Obsidian 不允许 : / \ 等)
+        safe = re.sub(r'[:/\\*?"<>|#^\[\]]', "_", tgt).strip()
+        if not safe:
+            continue
+        path = out_dir / f"{safe}.md"
+        if path.exists():
+            continue
+        # 找最多 6 个引用来源
+        sources = []
+        for f in VAULT.rglob("*.md"):
+            rel = f.relative_to(VAULT).as_posix()
+            if rel.startswith(".git"):
+                continue
+            try:
+                txt = f.read_text(encoding="utf-8", errors="ignore")
+            except Exception:
+                continue
+            if tgt in txt:
+                sources.append(f.stem)
+                if len(sources) >= 6:
+                    break
+        body = [f"---\nprovenance: derived\ntype: concept-stub\nauto: true\n"
+                f"created: {TODAY}\nrefs: {len(sources)}\n---\n",
+                f"# {tgt}\n",
+                f"> 由 self_evolve 自动生成的占位概念（被引用 {c} 次，来源尚未成稿）。\n"]
+        if sources:
+            body.append("\n## 引用来源\n")
+            for s in sources:
+                body.append(f"- [[{s}]]")
+        body.append("\n\n_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_")
+        path.write_text("\n".join(body), encoding="utf-8")
+        created.append(tgt)
+    if created:
+        log(f"已补全 {len(created)} 个缺失概念: {created}")
+    else:
+        log("无新的缺失概念需补全(或已达上限/已有)。")
+    return created
 
 
 def step_homepage():
@@ -197,7 +274,9 @@ def main():
     results = {}
     results["compile"] = step_compile_if_new()
     results["grow"] = step_grow()
-    results["health"] = step_vault_health()
+    health_report, broken_freq = step_vault_health()
+    results["health"] = health_report
+    results["grow_concepts"] = step_grow_missing_concepts(broken_freq)
     results["homepage"] = step_homepage()
     results["git"] = step_git()
     # 写日志

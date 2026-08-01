@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NonAbelian_Gauge_Topology]]
 [[P_Paradigm]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]

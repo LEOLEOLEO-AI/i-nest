@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Evolutionary_Pattern_Modeling]]
 [[Heterogeneous_Integration]]
+[[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Network_on_Chip]]

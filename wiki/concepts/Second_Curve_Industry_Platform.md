@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

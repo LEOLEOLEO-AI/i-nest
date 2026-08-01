@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
+[[InNetwork_CST_Offload]]
 [[MacroscopicDescriptor]]
 [[National_Innovation_Center_Role]]
 [[RenormalizationGroup_ScalingLaws]]
