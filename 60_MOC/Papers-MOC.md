@@ -1,10 +1,9 @@
 ---
 provenance: external
----
-
-﻿---
 date: 2026-07-15
 tags: [MOC, papers, literature]
+aliases:
+  - "Papers — 全景导航 (Map of Content)"
 ---
 
 # 论文索引 (Papers MOC)

@@ -1,6 +1,8 @@
 ---
 date: 2026-07-03
 tags: [MOC, auto-generated, neuroscience]
+aliases:
+  - "Neuroscience — 全景导航 (Map of Content)"
 ---
 
 # Neuroscience - Map of Content

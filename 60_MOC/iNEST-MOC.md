@@ -1,5 +1,7 @@
 ---
 provenance: own
+aliases:
+  - "iNEST 机构 — 全景导航 (Map of Content)"
 ---
 
 # iNEST 机构 — 全景导航 (Map of Content)

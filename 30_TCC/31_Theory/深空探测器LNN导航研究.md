@@ -3,9 +3,11 @@ title: "深空探测器LNN导航研究"
 created: 2025-07-24
 note_id: "1882616597932313664"
 tags:
-  - "get-笔记"
   - "AI研究"
+  - "航天导航"
 provenance: external
+aliases:
+  - "getnote_2025-07-24_深空探测器LNN导航研究"
 ---
 
 # 深空探测器LNN导航研究
