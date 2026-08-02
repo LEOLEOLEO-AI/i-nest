@@ -122,6 +122,6 @@ source: 得到大脑
 [[Papers-MOC]]
 - [[getnote_2026-07-02_Google Research_Nested Learning_ The Illusion of Deep Learni]]
 - [[Nature揭示海马体如何把世界重构成记忆_CA3-CA1的稀疏-密集编码转换机制]]
-- [[马毅_Yi Ma_UC Berkeley EECS讲座_智能的本质与AI的范式转移__从黑盒工程到第一性原理科学]]
+- [[马毅_Yi Ma_UC Berkeley EECS讲座_智能的本质与AI的范式转移_从黑盒工程到第一性原理科学]]
 - [[GetNote_20260606_100554_getnote_1911707056747462552_iNEST落地计划探讨]]
 - [[GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订]]

@@ -98,4 +98,4 @@ imaps全称是International Microelectronics Assembly and Packaging Society，�
 
 ---
 ## 相关笔记 (AI 自动关联)
-- [[新加坡IME__多芯粒异构集成互连技术]]
+- [[新加坡IME_多芯粒异构集成互连技术]]

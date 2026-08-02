@@ -138,4 +138,4 @@ kb:
 - [[人类连接组拓扑结构指导皮层行波传播与频率梯度形成]]
 - [[Nature揭示海马体如何把世界重构成记忆_CA3-CA1的稀疏-密集编码转换机制]]
 - [[Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities  A Renormalization Group Approach]]
-- [[大脑临界性_健康脑功能的统一设定点假说__Neuron观点文章深度解析]]
+- [[大脑临界性_健康脑功能的统一设定点假说_Neuron观点文章深度解析]]

@@ -182,5 +182,5 @@ f。（a）ER随机图；（b）BA无标度网络；（c）互联网AS图；（d
 
 
 > [!note]- 版本跟踪
-> 本文另有版本: [[复杂网络理论奠基之作深度解析__Complex_networks__Structure_and_dynamics_]]（主版本）
+> 本文另有版本: [[复杂网络理论奠基之作深度解析_Complex_networks_Structure_and_dynamics_]]（主版本）
 > 此文件为 2026-07-07 版本，保留用于版本历史追溯。

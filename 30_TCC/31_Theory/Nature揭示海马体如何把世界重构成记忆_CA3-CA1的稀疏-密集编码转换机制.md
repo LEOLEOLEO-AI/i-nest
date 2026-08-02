@@ -142,5 +142,5 @@ kb:
 - [[人类连接组拓扑结构指导皮层行波传播与频率梯度形成]]
 - [[Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities  A Renormalization Group Approach]]
 - [[GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
-- [[大脑任务切换的神经机制__整洁_框架与_杂乱_现实的整合研究]]
+- [[大脑任务切换的神经机制_整洁_框架与_杂乱_现实的整合研究]]
 - [[Non-ideal_effects_in_artificial_synapses_Nature_Reviews_Physics_2026]]

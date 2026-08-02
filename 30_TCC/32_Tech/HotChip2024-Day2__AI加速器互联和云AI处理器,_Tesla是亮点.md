@@ -214,6 +214,6 @@ Onyx搞了一个任意稀疏/密集张量计算的抽象表示
 ---
 ## 相关笔记 (AI 自动关联)
 - [[HotChip2024-Day2 AI加速器互联和云AI处理器, Tesla是亮点 (2)]]
-- [[HotChip2024后记__谈谈加速器互联及ScaleUP为什么不能用RDMA]]
+- [[HotChip2024后记_谈谈加速器互联及ScaleUP为什么不能用RDMA]]
 
 > [!note]- 可能重复: [[HotChip2024-Day2 AI加速器互联和云AI处理器, Tesla是亮点 (2)]] (相似度: 100%)

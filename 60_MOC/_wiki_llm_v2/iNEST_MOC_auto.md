@@ -18,7 +18,7 @@ The Intelligent Emergence System (iNEST) research initiative is currently focuse
 ### 1. Brain-Inspired Computing & Structural Plasticity
 This cluster focuses on moving beyond static artificial neural networks by mimicking the dynamic, self-organizing, and growth-based mechanisms found in biological brains.
 * [[像生物网络一样「生长」，具备「结构可塑性」的自组织神经网络来了]]
-* [[人脑的工作原理__神经网络]]
+* [[人脑的工作原理_神经网络]]
 * [[中国学者一作！类脑计算——构建“人造超级大脑”，再登Science子刊!]]
 * [[动态神经网络_Nature_Machine_Intelligence]]
 

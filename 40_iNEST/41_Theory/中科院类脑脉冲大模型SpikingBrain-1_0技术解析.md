@@ -134,6 +134,6 @@ Demo：https://controller-fold-injuries-thick.trycloudflare.com/
 ## 相关笔记 (AI 自动关联)
 - [[中科院类脑脉冲大模型SpikingBrain-1.0技术解析]]
 - [[全球首款大规模类脑脉冲大模型SpikingBrain1_0发布]]
-- [[SpikingBrain-1_0_类脑脉冲大模型的革命性突破__]]
+- [[SpikingBrain-1_0_类脑脉冲大模型的革命性突破_]]
 
 > [!note]- 可能重复: [[中科院类脑脉冲大模型SpikingBrain-1.0技术解析]] (相似度: 93%)

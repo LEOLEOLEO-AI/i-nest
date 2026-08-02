@@ -168,7 +168,7 @@ To be continued，后面再探讨演进之路。
 ## 相关链接
 - [[八大神经网络，从原理到应用]]
 - [[万字解析！一文带你了解深度学习中经典神经网络结构--CNN、RNN、LSTM、Transformer！]]
-- [[周末漫谈_高维流形上的神经网络收敛__Transformer_的数学本质]]
+- [[周末漫谈_高维流形上的神经网络收敛_Transformer_的数学本质]]
 - [[6万_辛顿2025年度全景实录深读_真正的智能与硅基智能的非对称演进]]
-- [[Nature_Computational_Science___用AI发现高维复杂网络的动力学公式]]
+- [[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
 - [[【先进封装】台积电系统级晶圆（SoW）技术详解（一）]]

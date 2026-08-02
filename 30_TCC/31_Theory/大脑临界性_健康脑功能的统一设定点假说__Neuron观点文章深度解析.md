@@ -187,6 +187,6 @@ kb:
 - [[getnote_2026-06-15_大脑的量子纠缠与信息动力学]]
 - [[GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订]]
 - [[Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities  A Renormalization Group Approach]]
-- [[大脑任务切换的神经机制__整洁_框架与_杂乱_现实的整合研究]]
+- [[大脑任务切换的神经机制_整洁_框架与_杂乱_现实的整合研究]]
 - [[30_TCC/31_Theory/大脑的量子纠缠与信息动力学]]
 - [[Non-ideal_effects_in_artificial_synapses_Nature_Reviews_Physics_2026]]

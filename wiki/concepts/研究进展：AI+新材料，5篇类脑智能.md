@@ -12,7 +12,7 @@ refs: 2
 
 ## 引用来源
 
-- [[Nature_Computational_Science___用AI发现高维复杂网络的动力学公式]]
+- [[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
 - [[研究进展：AI+新材料，5篇类脑智能 Science-Nature Computational Science]]
 
 

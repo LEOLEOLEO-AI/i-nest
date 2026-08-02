@@ -25,7 +25,7 @@ This cluster focuses on the theoretical proofs and mathematical roadmaps validat
 ### 2. Hardware Architecture & Chiplet Integration
 Notes detailing the physical implementation of TCC, focusing on 3D integrated circuits, EDA workflows, and the physical chiplet ecosystems required to support topological computing.
 * [[Chiplet]]
-* [[3DIC_EDA之一___基于Chiplet集成的计算架构]]
+* [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 * [[PCIe交换芯片任务规划 3]]
 
 ### 3. Interface Standardization & Topological Protocols
