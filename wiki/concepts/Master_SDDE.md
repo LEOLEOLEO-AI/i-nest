@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
 [[ScaleFreeNetworks]]
+[[SpatiotemporalComplexityIndex]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
 

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[ScaleFreeNetworks]]
 [[SmallWorldNetwork]]
+[[SpatiotemporalComplexityIndex]]
 [[Spiking_neural_network_dynamics]]
 [[SystemLevelNonlinearity]]
 [[TopologyFragility]]

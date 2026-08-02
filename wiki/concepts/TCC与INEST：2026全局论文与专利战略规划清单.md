@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]

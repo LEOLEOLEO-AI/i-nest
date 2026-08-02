@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST_Memristive]]
 [[ST_SNN]]
 [[ScaleFreeNetworks]]
+[[SpatiotemporalComplexityIndex]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[SystemLevelNonlinearity]]

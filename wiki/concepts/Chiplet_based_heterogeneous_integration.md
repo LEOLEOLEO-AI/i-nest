@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Memory_Wall]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

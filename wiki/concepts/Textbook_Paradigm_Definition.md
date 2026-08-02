@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InMemory_Computing]]
 [[Intelligence_Emergence]]
+[[Memory_Wall]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]

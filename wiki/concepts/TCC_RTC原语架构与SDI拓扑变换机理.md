@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Contested_Prior_Resolution]]
 [[EmergentOrder]]
 [[Intelligence_Emergence]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]

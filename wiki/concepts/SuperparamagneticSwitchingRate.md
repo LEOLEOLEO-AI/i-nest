@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
+[[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]

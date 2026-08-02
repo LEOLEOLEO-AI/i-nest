@@ -1,13 +1,13 @@
 window.VAULT_DATA = {
-  "updated": "2026-08-02 09:37",
+  "updated": "2026-08-02 12:20",
   "snapshot": {
-    "total_md": 5675,
-    "tcc": 1878,
+    "total_md": 5672,
+    "tcc": 1873,
     "inest": 1426,
     "inbox": 141,
     "processing": 79,
     "output": 486,
-    "git_uncommitted": 286
+    "git_uncommitted": 270
   },
   "wiki": {
     "tcc": 85,
@@ -62,12 +62,6 @@ window.VAULT_DATA = {
   "trend": [
     {
       "date": "2026-08-01",
-      "broken": 2234,
-      "orphan": 2128,
-      "missing_fm": 1274
-    },
-    {
-      "date": "2026-08-01",
       "broken": 2020,
       "orphan": 2126,
       "missing_fm": 1274
@@ -119,6 +113,12 @@ window.VAULT_DATA = {
       "broken": 1359,
       "orphan": 2045,
       "missing_fm": 23
+    },
+    {
+      "date": "2026-08-02",
+      "broken": 1334,
+      "orphan": 2058,
+      "missing_fm": 36
     }
   ],
   "tasks": [
@@ -144,10 +144,10 @@ window.VAULT_DATA = {
     ]
   ],
   "health": {
-    "笔记总数(可链接目标)": 4573,
-    "缺 frontmatter 笔记": 36,
-    "真正断链(目标不存在)": 1334,
-    "孤儿笔记(无入链)": 2058
+    "笔记总数(可链接目标)": 4571,
+    "缺 frontmatter 笔记": 38,
+    "真正断链(目标不存在)": 1339,
+    "孤儿笔记(无入链)": 2057
   },
   "classification": {
     "own": 1269,

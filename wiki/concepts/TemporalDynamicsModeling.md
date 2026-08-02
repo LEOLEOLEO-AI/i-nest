@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
+[[SpatiotemporalComplexityIndex]]
 [[Spiking_Neural_Network]]
 [[SystemLevelNonlinearity]]
 [[iNEST]]

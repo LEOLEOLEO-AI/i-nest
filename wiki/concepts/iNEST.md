@@ -44,6 +44,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[VonNeumann_Complexity_Threshold]]

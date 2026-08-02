@@ -28,6 +28,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Emergent_Intelligence_Threshold]]
 [[GammaSt_Revision]]
 [[Intelligence_Emergence]]
+[[Memory_Wall]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

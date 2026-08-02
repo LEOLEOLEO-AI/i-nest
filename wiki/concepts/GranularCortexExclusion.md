@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[FlagScale]]
 [[Heterogeneous_Integration]]
+[[Memory_Wall]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]

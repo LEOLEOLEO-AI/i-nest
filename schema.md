@@ -18,17 +18,67 @@
 
 ## 2. 目录约定（当前真实结构）
 
+三层心智模型（Karpathy LLM-Wiki 框架）：
+**源材料层（只读）→ 编译知识层 `wiki/`（机器生成）→ 产出层 `50_Output/`（对外交付）**
+
 源材料层（LLM 只读，文件名即 wikilink 锚点）：
 
-| 目录 | 内容 |
+| 目录 | 内容 | 工作阶段 |
+|---|---|---|
+| `00_Inbox/` | 论文收件箱、网页剪藏、Codex 联动、得到大脑导入 | 资料收集 |
+| `20_Processing/` | PDF 全文提取与分析 | 消化理解 |
+| `30_TCC/` | TCC（拓扑中心计算）领域库 | 归类 |
+| `40_iNEST/` | iNEST（复杂网络涌现智能）领域库 | 归类 |
+| `60_MOC/` | Map of Content 索引 | 归类 |
+| `80_Archive/` | 归档（含 `_duplicates_archive/`，内含唯一内容，**勿删**） | — |
+
+### 2.1 领域库编号契约（**强约束，不得跨域混用**）
+
+`30_TCC` 用 **3x** 段，`40_iNEST` 用 **4x** 段，一一对应，编号不得撞车：
+
+| 职能 | TCC | iNEST |
+|---|---|---|
+| 理论 | `31_Theory/` | `41_Theory/` |
+| 技术 | `32_Tech/` | `42_Tech/` |
+| 开发 / 工程 | `33_Dev/` | `43_Engineering/` |
+| 项目 | `34_Projects/` | `44_Projects/` |
+| 仿真 | `35_Simulation/` | `45_Simulation/` |
+
+违例示例（已于 2026-08-02 修复，勿重犯）：
+`40_iNEST/31_Theory`、`40_iNEST/32~35_*`（TCC 编号误入 iNEST）、
+`43_Dev` vs `43_Engineering`、`44_Dev` vs `44_Projects`（同号双目录）。
+
+### 2.2 产出层编号契约（对应六类工作目标）
+
+| 目录 | 工作目标 |
 |---|---|
-| `00_Inbox/` | 论文收件箱、网页剪藏、Codex 联动、得到大脑导入 |
-| `20_Processing/` | PDF 全文提取与分析 |
-| `30_TCC/` | TCC（拓扑中心计算）理论 / 技术 / 开发 / 项目 / 仿真 |
-| `40_iNEST/` | iNEST（复杂网络涌现智能）理论 / 技术 / 工程 / 项目 / 仿真 |
-| `50_Output/` | 论文 / 专利 / 专著 / 代码 / 指南 / 汇报 |
-| `60_MOC/` | 地图 of Content 索引 |
-| `80_Archive/` | 归档（含 `_duplicates_archive/`） |
+| `50_Output/51_Papers/` | 论文 |
+| `50_Output/52_Patents/` | 专利 |
+| `50_Output/53_Monographs/` | 专著 |
+| `50_Output/54_Code/` | 核心代码 |
+| `50_Output/55_Guides/` | 项目指南 |
+| `50_Output/56_Prototypes/` | **原型产品**（investor demo / MVP / 可交互演示） |
+| `50_Output/59_Presentations/` | 汇报 |
+
+### 2.3 运行时基础设施（**保护名单，永不移动/重命名**）
+
+以下目录被活跃脚本硬编码引用，移动会直接打断每日自进化编排：
+
+| 目录 | 被谁引用 |
+|---|---|
+| `raw/` | `import_processor.py`（Genspark / 得到大脑 / Codex 落地区） |
+| `logs/` | `pipeline_guard.py`、`pipeline_v3.py`、`daily_generator.py`、`research_publisher.py` |
+| `state/` | `pipeline_guard.py` |
+| `knowledge_graph/` | `pipeline_v3.py`、`knowledge_graph.py`（neo4j 数据） |
+
+### 2.4 目录卫生规则
+
+- **禁止自嵌套**：不得出现 `X/X/`（如 `Reports/Reports/`、`Projects/Projects/`）
+- **禁止中英同义并存**：统一用带编号的 `01_论文`，不再新建裸 `论文/`、`Papers/`
+- **空目录**：只有属于上述编号契约的"语义骨架位"才允许留空并写 `.gitkeep`；
+  其余空目录一律清除（`vault_restructure.py` 负责）
+- **`.gitignore` 有全局 `*.html` 规则**：向 `56_Prototypes/` 放 HTML 原型时
+  必须 `git add -f`，否则会静默脱离版本控制
 
 生成知识层（`wiki/`，LLM 可写）：
 
@@ -129,4 +179,7 @@
 - 每步失败隔离，不破坏数据；全程日志写入 `99_Meta/self_evolve_log.json`（保留最近 60 次）
 - 每日自进化任务：`automation-1785546922604`（FREQ=DAILY;BYHOUR=3）
 - 重复文件清理：仅清理"明显冗余归档"（`_duplicates_archive/` 与误嵌套重复），每组保留 ≥1 份规范副本，删除走回收站（可恢复）
+- 目录结构维护：`90_System/scripts/vault_restructure.py`（默认 DRY RUN，加 `--apply` 才执行）。
+  硬约束：绝不删除含文件的目录；移动用合并语义，同名异内容另存 `__dupN` 绝不覆盖；
+  保护名单（§2.3）永不触碰。执行前务必先建 git 检查点
 - 每条结论必须关联论文 / 实验 / 仿真；无来源数字标记"待测"

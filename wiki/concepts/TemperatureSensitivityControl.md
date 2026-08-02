@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Prototype_Validation]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]

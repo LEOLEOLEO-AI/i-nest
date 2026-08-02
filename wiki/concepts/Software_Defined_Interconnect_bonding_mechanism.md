@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]

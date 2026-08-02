@@ -28,6 +28,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Complex_System_Theory]]
 [[EmergentOrder]]
 [[Intelligence_Emergence]]
+[[Memory_Wall]]
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]

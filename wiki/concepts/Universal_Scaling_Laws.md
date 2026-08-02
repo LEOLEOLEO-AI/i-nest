@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memory_Wall]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

@@ -11,17 +11,17 @@
             "id": "07ec837305146da6",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "01_baseline_overview_v0_1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/13_Codex/01_baseline_overview_v0_1.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"01_baseline_overview_v0_1\"}",
+                  "eState": "{\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "00_moc_sdsow_to_inest",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/13_Codex/00_moc_sdsow_to_inest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_moc_sdsow_to_inest\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
                   "title": "01_baseline_overview_v0_1",
@@ -142,7 +142,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/13_Codex/01_baseline_overview_v0_1.md",
+                "file": "00_Inbox/13_Codex/00_moc_sdsow_to_inest.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -157,7 +157,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01_baseline_overview_v0_1"
+              "title": "00_moc_sdsow_to_inest"
             }
           }
         ]
@@ -264,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5
+    "width": 641.5,
+    "collapsed": true
   },
   "right": {
     "id": "b131a582ddb31d11",
@@ -488,14 +489,42 @@
   },
   "active": "07ec837305146da6",
   "lastOpenFiles": [
-    "00_Inbox/13_Codex/00_moc_sdsow_to_inest.md",
+    "50_Output/56_Prototypes/iNEST_investor_demo/logo.png",
+    "50_Output/56_Prototypes/iNEST_investor_demo/index.html",
+    "50_Output/56_Prototypes/dashboard_investor/index.html",
+    "50_Output/56_Prototypes/iNEST_investor_demo",
+    "50_Output/56_Prototypes/dashboard_investor",
+    "50_Output/56_Prototypes",
+    "30_TCC/33_Dev/hemibrain_v32_lif.py",
+    "30_TCC/33_Dev/hemibrain_v31_real.py",
+    "30_TCC/31_Theory/01_论文/B组_SDI-CC互连体系/P-Theory_v2_MetaTopology_SDI_Bond_Draft.md",
+    "30_TCC/31_Theory/01_论文/B组_SDI-CC互连体系/Complete Physical Topology Mapping for Collective Communication Primitives A CST-Optimal Framework for Network-Centric C (2).md",
+    "30_TCC/31_Theory/01_论文/A组_CST基础理论/A1_CST_Theory_V25_FINAL.md",
+    "30_TCC/31_Theory/01_论文/A组_CST基础理论/A1_CST_Theory_Paper_v1.md",
+    "30_TCC/31_Theory/01_论文/proof_framework_core.md",
+    "30_TCC/31_Theory/01_论文/evidence_industrial_data.md",
+    "30_TCC/31_Theory/01_论文/1plus1gt2_TCC_Topology_Superlinear_Proof_v1.0.md",
+    "50_Output/Reports/2026-07-03-hardware-simulation-methodology.md",
+    "50_Output/Reports/2026-07-02-next-stage-experiment-plan.md",
+    "40_iNEST/41_Theory/01_论文/arxiv-daily/2026-07-02.md",
+    "40_iNEST/41_Theory/01_论文/arxiv-daily",
+    "40_iNEST/43_Engineering/HW_Engineering/01_IP_Design/rule3_bcm/bcm_homeo_core.v",
+    "40_iNEST/43_Engineering/HW_Engineering/01_IP_Design/rule1_stdp/stdp_core.v",
+    "40_iNEST/41_Theory/01_论文/2026-07-15-index.md",
+    "40_iNEST/41_Theory/01_论文/2026-07-15-2607.12901.md",
+    "40_iNEST/41_Theory/01_论文/2026-07-15-2607.12862.md",
+    "40_iNEST/41_Theory/01_论文/2026-07-15-2607.12619.md",
+    "40_iNEST/41_Theory/01_论文/2026-07-15-2607.11914.md",
+    "40_iNEST/41_Theory/01_论文/2026-07-15-2603.24171.md",
+    "40_iNEST/41_Theory/01_论文/2026-07-15-2506.21324.md",
+    "40_iNEST/41_Theory/01_论文/2026-07-15-2412.04847.md",
+    "wiki/concepts/SDI_STDP_Regulation.md",
+    "wiki/concepts/Master_SDDE.md",
+    "wiki/concepts/iNEST_Interconnect_Topology.md",
+    "wiki/concepts/CST_Metric.md",
     "00_Inbox/13_Codex/01_baseline_overview_v0_1.md",
-    "00_Inbox/13_Codex/04_version_iteration_v0_1.md",
-    "00_Inbox/13_Codex/03_evidence_citation_policy_v0_1.md",
-    "00_Inbox/13_Codex/02_glossary_symbols_formulas_v0_1.md",
-    "schema.md",
-    "50_Output/SDSoW_iNEST_PPT/validate.py",
-    "50_Output/SDSoW_iNEST_PPT/介观尺度计算新范式.pptx",
+    "30_TCC/34_Projects/RISC-V 架构下 SDI 智算互联系统设计：面向 LLM 低延迟推理与训练.md",
+    "00_Inbox/getnote_2026-08-01_getnote_1917227927968871696_SDI与NPU集成方案.md",
     "50_Output/SDSoW_iNEST_PPT/resources/images/chip_6_Γ_stu.png",
     "50_Output/SDSoW_iNEST_PPT/resources/images/chip_5_E_diss.png",
     "50_Output/SDSoW_iNEST_PPT/resources/images/chip_4_AIS.png",
@@ -506,34 +535,6 @@
     "50_Output/SDSoW_iNEST_PPT/resources/images/sdi.png",
     "50_Output/SDSoW_iNEST_PPT/resources/images/sdde.png",
     "50_Output/SDSoW_iNEST_PPT/resources/images/T_rho.png",
-    "50_Output/SDSoW_iNEST_PPT/build_pptx.py",
-    "50_Output/SDSoW_iNEST_PPT/pages/slide_20_ending.jsx",
-    "50_Output/SDSoW_iNEST_PPT/pages/slide_19_roadmap.jsx",
-    "50_Output/SDSoW_iNEST_PPT/pages/slide_18_imeso.jsx",
-    "50_Output/SDSoW_iNEST_PPT/pages/slide_17_inest.jsx",
-    "50_Output/SDSoW_iNEST_PPT/pages/slide_16_sdi.jsx",
-    "50_Output/SDSoW_iNEST_PPT/pages/slide_15_sdde.jsx",
-    "50_Output/SDSoW_iNEST_PPT/pages/slide_14_cmcs.jsx",
-    "50_Output/SDSoW_iNEST_PPT/DESIGN.md",
-    "50_Output/SDSoW_iNEST_PPT/STORY.md",
-    "Home.md",
-    "六个自然常数.md",
-    "40_iNEST/iNEST_Master_Index.md",
-    "raw/imports/iNEST理论体系完整知识文档.md",
-    "wiki/concepts/术语对照表.md",
-    "wiki/concepts/智造讲堂：智能制造与装备发展路径 (1).md",
-    "wiki/concepts/梅宏院士：如何构造人工群体智能？ (1).md",
-    "50_Output/55_Guides/VLEO_TCC_SDSoW_HighDensity_Payload_Guide.md",
-    "40_iNEST/iNEST_RnD_SuperFlow_v3.md",
-    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式.md",
-    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186213170346176_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析.md",
-    "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186245382570904_从_摩尔定律_到_功率密度定律__IEEE异构集成_HIR_路线图深度解析.md",
-    "20_Processing/20_KnowledgeBase/灵感库/人工智能第一性原理讲座_系统总结与iNEST启迪.md",
-    "30_TCC/31_Theory/晶上自演化网络涌现智能_机理_技术与未来.md",
-    "30_TCC/31_Theory/智造讲堂：智能制造与装备发展路径.md",
-    "30_TCC/31_Theory/术语对照表.md",
-    "30_TCC/31_Theory/李克强：智能网联汽车发展态势及高质量发展建议.md",
-    "30_TCC/31_Theory/梅宏院士：如何构造人工群体智能？ (1).md",
     "80_Archive/Inbox_legacy/待分类/未命名.canvas",
     "80_Archive/05_Fleeting/待分类/未命名.canvas",
     "Inbox/待分类/未命名.canvas",

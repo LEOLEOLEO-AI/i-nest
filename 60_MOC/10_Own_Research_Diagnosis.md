@@ -224,7 +224,7 @@ tags: [MOC, 自有研究, 诊断, 计划]
 - 状态分布：active(常规)×1
 - 文件名可见的最近时间标记：2026-07-25
 - 代表条目：
-  - [[50_Output/Reports/Reports/2026-07-25-code-verification]] — 代码/仿真验证报告
+  - [[50_Output/Reports/2026-07-25-code-verification]] — 代码/仿真验证报告
 
 ### 60_moc/00_dedup_log.md  （1 篇）
 

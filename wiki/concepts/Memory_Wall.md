@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
+[[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
 [[Topology_Centric_Computing]]

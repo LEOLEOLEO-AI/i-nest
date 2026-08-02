@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[ScaleFreeNetworks]]
+[[SpatiotemporalComplexityIndex]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
 

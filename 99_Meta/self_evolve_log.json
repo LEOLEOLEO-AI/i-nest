@@ -1629,5 +1629,297 @@
       "已提交 276 个文件。",
       "已推送 github main。"
     ]
+  },
+  {
+    "date": "2026-08-02",
+    "time": "2026-08-02T09:36:10.804979",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-02",
+        "total_notes": 4573,
+        "missing_frontmatter": 36,
+        "broken_links": 1334,
+        "broken_samples": [
+          [
+            "iNEST 机构 — 全景导航 (Map of Content)",
+            14
+          ],
+          [
+            "2025年10月28号 日记",
+            11
+          ],
+          [
+            "2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly",
+            10
+          ],
+          [
+            "30_TCC\\34_Projects\\_from_ideas\\卫星智能体重大专项建议_v4.md",
+            9
+          ],
+          [
+            "00_Inbox/_pipeline_insights/八大神经网络，从原理到应用",
+            9
+          ],
+          [
+            "2026-06-24_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with",
+            8
+          ],
+          [
+            "Nat. Com.：可穿戴神经形态系统",
+            8
+          ],
+          [
+            "Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI",
+            7
+          ],
+          [
+            "Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为计算优势",
+            7
+          ],
+          [
+            "2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with",
+            6
+          ],
+          [
+            "2026-06-28_Getnote_2026-06-28_学习重塑神经表征几何_灵长类前额叶皮层演化规律与大模型学习机制的跨领域统一研究",
+            6
+          ],
+          [
+            "(Nat. Commun. 综述)",
+            6
+          ],
+          [
+            "2026年3月23号 日记",
+            6
+          ],
+          [
+            "2026-06-23_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with",
+            5
+          ],
+          [
+            "2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore",
+            5
+          ],
+          [
+            "30_Outputs/论文/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式",
+            5
+          ],
+          [
+            "2025年5月16号 日记",
+            5
+          ],
+          [
+            "2025年9月11号 日记",
+            5
+          ],
+          [
+            "30_TCC/32_Tech/",
+            5
+          ],
+          [
+            "Papers — 全景导航 (Map of Content)",
+            5
+          ],
+          [
+            "TCC_项目实施方案_v30_最终版.docx",
+            4
+          ],
+          [
+            "拓扑中心计算范式架构研究与液态拓扑端侧MVP验证（20260702）.pptx",
+            4
+          ],
+          [
+            "2026-07-03_arXiv_Structural Visibility in Dynamical Systems on Hypergraphs A",
+            3
+          ],
+          [
+            "getnote_2026-06-16_getnote_2026-06-16_人类连接组拓扑结构指导皮层行波传播与频率梯度形成",
+            3
+          ],
+          [
+            "n",
+            3
+          ]
+        ],
+        "orphan_notes": 2058
+      },
+      "grow_concepts": [],
+      "phase4": {
+        "import_processor": true,
+        "task_recommender": true,
+        "research_evolution": true,
+        "cross_domain_insight": true
+      },
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | 09:36:11]   Article: iNEST_理论体系系统总结报告.md\n[09:36:16]   LLM extracted 5 additional concepts (keyword: 0)\n[09:36:16] Phase 2-3: 1 articles, 5 concepts\n[09:36:17] Phase 4: Index and backlinks updated\n[09:36:18] Phase 5: Health report generated\n[09:36:18] === Compile complete: 1 articles, 5 concepts ===\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | [09:36:18] wiki_grow start\n  concepts loaded: 304\n  concepts now: 304 | linked: 299 | orphans: 107\n  index/backlinks/health refreshed.\n[09:36:50] wiki_grow done — orphans 107/304\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 4573 | 真正断链 1334 | 孤儿 2058 | 缺FM 36 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "无新的缺失概念需补全(或已达上限/已有)。",
+      "运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...",
+      "import_processor 退出码=0 | enspark=1, 得到大脑=0, Codex=0\n[09:37:14] Total new files in raw/: 1\n[09:37:14] Inbox pending: 15 files\n[09:37:14] New imports detected — wiki_compiler.py should be triggered next\n[09:37:14] === Done ===\n",
+      "task_recommender 退出码=0 | sights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n[09:37:14] === Done ===\n",
+      "research_evolution 退出码=0 | [09:37:14] === Research Evolution Engine ===\n[09:37:14] Hypothesis updates: 0\n[09:37:14] Research directions: 0\n[09:37:14] Report: wiki/evolution_report.md\n[09:37:14] === Done ===\n",
+      "cross_domain_insight 退出码=0 | \nCross-domain articles: 3\n  TCC_iNEST_教材编写规划 (TCC:5 iNEST:2)\n  iNEST_理论体系系统总结报告 (TCC:3 iNEST:2)\n  Hassabis_访谈_自然演化如何塑造可计算的系统结构 (TCC:2 iNEST:2)\n\nReport: D:\\Obsidian\\vault\\wiki\\cross_domain_insights.md\n",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [09:37:15] === Homepage Generator ===\n[09:37:15] 70_Dashboard/data.js generated\n[09:37:15] Home.md generated (5322 chars)\n[09:37:15] === Done ===\n",
+      "已提交 288 个文件。",
+      "已推送 github main。"
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "time": "2026-08-02T12:19:59.580397",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-02",
+        "total_notes": 4571,
+        "missing_frontmatter": 38,
+        "broken_links": 1339,
+        "broken_samples": [
+          [
+            "iNEST 机构 — 全景导航 (Map of Content)",
+            14
+          ],
+          [
+            "2025年10月28号 日记",
+            11
+          ],
+          [
+            "2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly",
+            10
+          ],
+          [
+            "30_TCC\\34_Projects\\_from_ideas\\卫星智能体重大专项建议_v4.md",
+            9
+          ],
+          [
+            "00_Inbox/_pipeline_insights/八大神经网络，从原理到应用",
+            9
+          ],
+          [
+            "2026-06-24_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with",
+            8
+          ],
+          [
+            "Nat. Com.：可穿戴神经形态系统",
+            8
+          ],
+          [
+            "Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI",
+            7
+          ],
+          [
+            "Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为计算优势",
+            7
+          ],
+          [
+            "2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with",
+            6
+          ],
+          [
+            "2026-06-28_Getnote_2026-06-28_学习重塑神经表征几何_灵长类前额叶皮层演化规律与大模型学习机制的跨领域统一研究",
+            6
+          ],
+          [
+            "(Nat. Commun. 综述)",
+            6
+          ],
+          [
+            "2026年3月23号 日记",
+            6
+          ],
+          [
+            "2026-06-23_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with",
+            5
+          ],
+          [
+            "2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore",
+            5
+          ],
+          [
+            "30_Outputs/论文/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式",
+            5
+          ],
+          [
+            "2025年5月16号 日记",
+            5
+          ],
+          [
+            "2025年9月11号 日记",
+            5
+          ],
+          [
+            "30_TCC/32_Tech/",
+            5
+          ],
+          [
+            "Papers — 全景导航 (Map of Content)",
+            5
+          ],
+          [
+            "TCC_项目实施方案_v30_最终版.docx",
+            4
+          ],
+          [
+            "拓扑中心计算范式架构研究与液态拓扑端侧MVP验证（20260702）.pptx",
+            4
+          ],
+          [
+            "2026-07-03_arXiv_Structural Visibility in Dynamical Systems on Hypergraphs A",
+            4
+          ],
+          [
+            "getnote_2026-06-16_getnote_2026-06-16_人类连接组拓扑结构指导皮层行波传播与频率梯度形成",
+            4
+          ],
+          [
+            "n",
+            4
+          ]
+        ],
+        "orphan_notes": 2057
+      },
+      "grow_concepts": [],
+      "phase4": {
+        "import_processor": true,
+        "task_recommender": true,
+        "research_evolution": true,
+        "cross_domain_insight": true
+      },
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | [12:19:59] === Wiki Compiler v1.0 ===\n[12:19:59] LLM enabled: True\n[12:19:59] Last compile: 2026-08-02\n[12:19:59] Phase 1: Found 0 new/changed raw files\n[12:19:59] No new files to process. Running health check only.\n[12:19:59] Done.\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | [12:20:00] wiki_grow start\n  concepts loaded: 304\n  concepts now: 304 | linked: 299 | orphans: 106\n  index/backlinks/health refreshed.\n[12:20:12] wiki_grow done — orphans 106/304\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 4571 | 真正断链 1339 | 孤儿 2057 | 缺FM 38 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "无新的缺失概念需补全(或已达上限/已有)。",
+      "运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...",
+      "import_processor 退出码=0 | enspark=1, 得到大脑=0, Codex=0\n[12:20:17] Total new files in raw/: 1\n[12:20:17] Inbox pending: 15 files\n[12:20:17] New imports detected — wiki_compiler.py should be triggered next\n[12:20:17] === Done ===\n",
+      "task_recommender 退出码=0 | sights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n[12:20:17] === Done ===\n",
+      "research_evolution 退出码=0 | [12:20:17] === Research Evolution Engine ===\n[12:20:17] Hypothesis updates: 0\n[12:20:17] Research directions: 0\n[12:20:17] Report: wiki/evolution_report.md\n[12:20:17] === Done ===\n",
+      "cross_domain_insight 退出码=0 | \nCross-domain articles: 3\n  TCC_iNEST_教材编写规划 (TCC:5 iNEST:2)\n  iNEST_理论体系系统总结报告 (TCC:3 iNEST:2)\n  Hassabis_访谈_自然演化如何塑造可计算的系统结构 (TCC:2 iNEST:2)\n\nReport: D:\\Obsidian\\vault\\wiki\\cross_domain_insights.md\n",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [12:20:17] === Homepage Generator ===\n[12:20:18] 70_Dashboard/data.js generated\n[12:20:18] Home.md generated (5320 chars)\n[12:20:18] === Done ===\n",
+      "已提交 272 个文件。",
+      "⚠️ push 失败(可能配额/网络): lfs.github.com.        \nTo github.com:LEOLEOLEO-AI/i-nest.git\n ! [remote rejected]     main -> main (pre-receive hook declined)\nerror: failed to push some refs to 'github.com:LEOLEOLEO-AI/i-nest.git'\n"
+    ]
   }
 ]

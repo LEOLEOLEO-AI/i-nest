@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SingleSourceOfTruthMetric]]
+[[SpatiotemporalComplexityIndex]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[SystemLevelNonlinearity]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[FPGA_Prototype_Validation]]
 [[Intelligence_Emergence]]
+[[Memory_Wall]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Memory_Wall]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]

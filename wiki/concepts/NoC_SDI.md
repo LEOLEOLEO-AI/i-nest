@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memory_Wall]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]

@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Analog_Computation]]
 [[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
+[[Memory_Wall]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]

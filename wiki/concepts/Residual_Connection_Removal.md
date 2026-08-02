@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
+[[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
