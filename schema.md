@@ -75,10 +75,23 @@
 
 - **禁止自嵌套**：不得出现 `X/X/`（如 `Reports/Reports/`、`Projects/Projects/`）
 - **禁止中英同义并存**：统一用带编号的 `01_论文`，不再新建裸 `论文/`、`Papers/`
+- **禁止 getnote/GetNote 文件名前缀**：所有导入文件统一去前缀，仅保留日期+正式标题
+  （2026-08-02 已全量批量清理 648 文件）
 - **空目录**：只有属于上述编号契约的"语义骨架位"才允许留空并写 `.gitkeep`；
   其余空目录一律清除（`vault_restructure.py` 负责）
 - **`.gitignore` 有全局 `*.html` 规则**：向 `56_Prototypes/` 放 HTML 原型时
   必须 `git add -f`，否则会静默脱离版本控制
+
+### 2.5 编译器质量防线（防伪概念泄漏）
+
+`wiki_compiler.py` 和 `self_evolve.py` 各设两道过滤：
+
+| 防线 | 位置 | 规则 |
+|---|---|---|
+| DENY_CONCEPT | `self_evolve.py` | 40+ 词黑名单（Obsidian UI 残留、通用期刊名、非概念碎片）+ 正则模式拒绝（纯数字/短全大写/垃圾词） |
+| JUNK_RE | `wiki_compiler.py` | 概念名质量过滤器：拒绝纯数字、全大写缩写、getnote/gsk/wikilinks/w3cschool 等导入前缀 |
+| 三源扫描 | `wiki_compiler.py` | `find_new_files` 扫描 `raw/` + `00_Inbox/` + `20_Processing/`（不止 raw/） |
+| 消化层模板 | `20_Processing/_digests/_TEMPLATE_digest.md` | 人机协作 digest 笔记格式，含 TCC/iNEST/Cross 交叉分析 + 核心概念提取 |
 
 生成知识层（`wiki/`，LLM 可写）：
 
