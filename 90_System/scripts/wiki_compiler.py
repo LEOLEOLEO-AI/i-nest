@@ -45,21 +45,30 @@ def slugify(text):
     return re.sub(r'[^\w]', '_', text)[:80]
 
 # ============================================================
-# Phase 1: Find new/changed files in raw/
+# Phase 1: Find new/changed files in source directories
 # ============================================================
 
+# Source scanning directories (Karpathy pipeline: Inbox → Processing → raw → wiki)
+SOURCE_DIRS = [
+    RAW,                  # raw/ — Genspark/得到大脑/Codex 导入落地区
+    VAULT / "00_Inbox",   # 新论文/剪藏/碎片收件箱
+    VAULT / "20_Processing",  # PDF 全文提取 + 理解消化笔记
+]
+
 def find_new_files(state):
-    """Find raw files newer than their wiki counterparts"""
+    """Find source files newer than their wiki counterparts across all source dirs"""
     new_files = []
-    for md_file in RAW.rglob("*.md"):
-        if "_FILE_INDEX" in md_file.name or "README" in md_file.name:
+    for source_dir in SOURCE_DIRS:
+        if not source_dir.exists():
             continue
-        rel = md_file.relative_to(RAW)
-        key = str(rel).replace("\\", "/")
-        last_processed = state["processed_files"].get(key)
-        mtime = md_file.stat().st_mtime
-        if last_processed is None or mtime > last_processed:
-            new_files.append(md_file)
+        for md_file in source_dir.rglob("*.md"):
+            if "_FILE_INDEX" in md_file.name or "README" in md_file.name:
+                continue
+            key = str(md_file.relative_to(VAULT)).replace("\\", "/")
+            last_processed = state["processed_files"].get(key)
+            mtime = md_file.stat().st_mtime
+            if last_processed is None or mtime > last_processed:
+                new_files.append(md_file)
     return new_files
 
 # ============================================================
@@ -288,7 +297,22 @@ def extract_concepts(summary_data, existing_concepts):
         except Exception as e:
             log(f"  LLM extraction skipped: {e}")
     
-    return concept_names[:8]  # Max 8 per compile
+    # Phase C: Quality filter — reject noise concepts
+    # No pure numbers, no short all-caps tokens, no UI/plugin residues
+    JUNK_RE = re.compile(
+        r'^(\d{1,3}|[A-Z]{2,8})$'           # 纯数字 or 纯缩写
+        r'|getnote|gsk|w3cschool|_dup\d*$'   # 导入前缀/垃圾站/后缀
+        r'|wikilinks|arxiv.index|文件|Stub|undefined'
+    )
+    filtered = []
+    for c in concept_names:
+        name = c["name"]
+        if JUNK_RE.search(name):
+            log(f"  [SKIP junk concept] {name}")
+            continue
+        filtered.append(c)
+    
+    return filtered[:8]  # Max 8 per compile
 
 def write_concept(concept_data):
     """Write concept file to wiki/concepts/"""
@@ -512,8 +536,7 @@ def main():
             concepts_created += 1
         
         # Update state
-        rel = f.relative_to(RAW)
-        state["processed_files"][str(rel).replace("\\", "/")] = f.stat().st_mtime
+        state["processed_files"][str(f.relative_to(VAULT)).replace("\\", "/")] = f.stat().st_mtime
     
     log(f"Phase 2-3: {articles_written} articles, {concepts_created} concepts")
     

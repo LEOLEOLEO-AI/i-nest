@@ -199,8 +199,28 @@ def step_vault_health():
 
 
 # 明显非"概念"、不应自动补全为笔记的链接词(多为插件/UI 伪链接)
-DENY_CONCEPT = {"双向链接", "嵌入", "标签", "附件", "看板", "图谱", "关系",
-                "反链", "出链", "引用", "链接", "笔记", "标签", "搜索"}
+DENY_CONCEPT = {
+    # Obsidian UI / 插件残留
+    "双向链接", "嵌入", "标签", "附件", "看板", "图谱", "关系",
+    "反链", "出链", "引用", "链接", "笔记", "标签", "搜索",
+    "TOOLS", "Files", "Recent", "On Drop", "Stub", "undefined",
+    "true", "false", "null", "none", "wikilinks", "arxiv-index",
+    # 非概念的无意义碎片
+    "笔记标题", "待分类", "资料分享", "PPT", "Slide1", "论文",
+    "5期内容", "300″", "Brainnews", "算力网络", "对外展示",
+    "getnote", "gsk", "01_论文",
+    # 文献检索工具/数据库名(非研究概念)
+    "arXiv", "PubMed", "IEEE Xplore", "Google Scholar", "Web of Science",
+    # 通用期刊名(非论文本体)
+    "Nature Electronics", "《中国科学基金》", "Nature Communications", "Nature Neuroscience",
+    "美国国家科学院院刊 (PNAS)", "w3cschool",
+}
+# 概念名正则拒绝模式(优先级高于 DENY_CONCEPT 的字面匹配)
+DENY_CONCEPT_RE = re.compile(
+    r'^(\d{1,3}|[A-Z]{2,8}|[a-z_]+|getnote|gsk|_dup\d*)$'
+    r'|三原则|全景导航|Map of Content|_dup\d*$'
+    r'|w3cschool'
+)
 
 
 def step_grow_missing_concepts(broken_freq, max_new=10, min_refs=3):
@@ -231,6 +251,8 @@ def step_grow_missing_concepts(broken_freq, max_new=10, min_refs=3):
             continue
         if "日记" in tgt or "全景导航" in tgt or "Map of Content" in tgt:
             continue  # 导航/MOC/日记页, 非概念, 跳过
+        if DENY_CONCEPT_RE.search(tgt):
+            continue  # 正则模式拒绝(纯数字/全大写缩写/垃圾词)
         if tgt in nb or tgt in np_ or tgt in fp or tgt in dirs:
             continue
         candidates.append((tgt, c))
