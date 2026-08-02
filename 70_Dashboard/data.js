@@ -1,21 +1,21 @@
 window.VAULT_DATA = {
-  "updated": "2026-08-01 17:55",
+  "updated": "2026-08-02 09:37",
   "snapshot": {
-    "total_md": 5733,
-    "tcc": 1886,
-    "inest": 1433,
-    "inbox": 132,
+    "total_md": 5675,
+    "tcc": 1878,
+    "inest": 1426,
+    "inbox": 141,
     "processing": 79,
-    "output": 495,
-    "git_uncommitted": 274
+    "output": 486,
+    "git_uncommitted": 286
   },
   "wiki": {
-    "tcc": 84,
-    "inest": 43,
-    "cross": 64,
-    "total": 191
+    "tcc": 85,
+    "inest": 46,
+    "cross": 65,
+    "total": 196
   },
-  "articles": 27,
+  "articles": 28,
   "bridges": [
     {
       "name": "Chiplet_Heterogeneous_Neuromorphic",
@@ -60,12 +60,6 @@ window.VAULT_DATA = {
     }
   ],
   "trend": [
-    {
-      "date": "2026-08-01",
-      "broken": 2273,
-      "orphan": 2139,
-      "missing_fm": 1274
-    },
     {
       "date": "2026-08-01",
       "broken": 2234,
@@ -119,6 +113,12 @@ window.VAULT_DATA = {
       "broken": 1324,
       "orphan": 2047,
       "missing_fm": 22
+    },
+    {
+      "date": "2026-08-01",
+      "broken": 1359,
+      "orphan": 2045,
+      "missing_fm": 23
     }
   ],
   "tasks": [
@@ -144,10 +144,10 @@ window.VAULT_DATA = {
     ]
   ],
   "health": {
-    "笔记总数(可链接目标)": 4553,
-    "缺 frontmatter 笔记": 23,
-    "真正断链(目标不存在)": 1359,
-    "孤儿笔记(无入链)": 2045
+    "笔记总数(可链接目标)": 4573,
+    "缺 frontmatter 笔记": 36,
+    "真正断链(目标不存在)": 1334,
+    "孤儿笔记(无入链)": 2058
   },
   "classification": {
     "own": 1269,

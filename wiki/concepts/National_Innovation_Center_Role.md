@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ANN动力学]]
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]

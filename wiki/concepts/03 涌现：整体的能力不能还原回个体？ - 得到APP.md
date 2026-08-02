@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[ANN动力学]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -32,6 +33,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Order_Flexibility_Duality]]
 [[STDP_Plasticity]]

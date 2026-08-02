@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ANN动力学]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]

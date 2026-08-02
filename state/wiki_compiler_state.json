@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-08-01",
+  "last_compile": "2026-08-02",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -27,7 +27,8 @@
     "inest/papers/iNEST开发流程.md": 1785465203.5912552,
     "inest/papers/iNEST理论实证.md": 1785465203.5922494,
     "inest/papers/研究建议_TCC×INEST.md": 1785465203.5932534,
-    "inest/papers/研究方向_INEST.md": 1785465203.5942519
+    "inest/papers/研究方向_INEST.md": 1785465203.5942519,
+    "imports/iNEST理论体系完整知识文档.md": 1785138596.1081865
   },
   "concept_graph": {}
 }

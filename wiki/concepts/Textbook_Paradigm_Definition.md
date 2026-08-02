@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]

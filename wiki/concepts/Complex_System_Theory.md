@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ANN动力学]]
 [[CST_Intelligence_Emergence]]
 [[Complex_System]]
 [[Complexity_Emergence]]

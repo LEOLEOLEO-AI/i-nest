@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[Contested_Prior_Resolution]]
 [[DRBE_MVP_Mainchain]]
 [[DiagnosticReportFramework]]
 [[EmergentOrder]]
@@ -34,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]

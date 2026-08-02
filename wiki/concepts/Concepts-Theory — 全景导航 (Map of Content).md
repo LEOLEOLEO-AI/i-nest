@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -36,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

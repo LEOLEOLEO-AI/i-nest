@@ -1,6 +1,6 @@
 # Cross-Domain Insights
 
-**Generated**: 2026-08-01
+**Generated**: 2026-08-02
 
 ## Active Bridges (5)
 
@@ -29,8 +29,9 @@ Brain connectome topology patterns can inspire optimal NoC topologies for wafer-
 - TCC concepts: [[AI_Application_Scenario_Reconstruction]], [[AI_Industrial_Ecosystem]], [[Allreduce_Latency_MVP]]
 - iNEST concepts: [[InNetworkNeuromorphicSimulation]]
 
-## Cross-Domain Papers (2)
+## Cross-Domain Papers (3)
 - TCC_iNEST_教材编写规划 (cross-score: 7)
+- iNEST_理论体系系统总结报告 (cross-score: 5)
 - Hassabis_访谈_自然演化如何塑造可计算的系统结构 (cross-score: 4)
 
 ## Suggested Research Directions

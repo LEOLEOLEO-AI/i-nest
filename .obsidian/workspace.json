@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "00_moc_sdsow_to_inest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/13_Codex/00_moc_sdsow_to_inest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_moc_sdsow_to_inest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "01_baseline_overview_v0_1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/13_Codex/01_baseline_overview_v0_1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"01_baseline_overview_v0_1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "schema",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"schema.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"schema\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":122.67688041125541}"
+                },
+                {
                   "title": "Home",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
@@ -124,7 +142,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schema.md",
+                "file": "00_Inbox/13_Codex/01_baseline_overview_v0_1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -139,7 +157,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "schema"
+              "title": "01_baseline_overview_v0_1"
             }
           }
         ]
@@ -246,7 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 782.5
+    "width": 641.5
   },
   "right": {
     "id": "b131a582ddb31d11",
@@ -440,7 +458,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 486.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -467,8 +486,36 @@
       "claudian-plus:Open Claudian Plus": false
     }
   },
-  "active": "013257bb46529241",
+  "active": "07ec837305146da6",
   "lastOpenFiles": [
+    "00_Inbox/13_Codex/00_moc_sdsow_to_inest.md",
+    "00_Inbox/13_Codex/01_baseline_overview_v0_1.md",
+    "00_Inbox/13_Codex/04_version_iteration_v0_1.md",
+    "00_Inbox/13_Codex/03_evidence_citation_policy_v0_1.md",
+    "00_Inbox/13_Codex/02_glossary_symbols_formulas_v0_1.md",
+    "schema.md",
+    "50_Output/SDSoW_iNEST_PPT/validate.py",
+    "50_Output/SDSoW_iNEST_PPT/介观尺度计算新范式.pptx",
+    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_6_Γ_stu.png",
+    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_5_E_diss.png",
+    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_4_AIS.png",
+    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_3_TE.png",
+    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_2_m_hat.png",
+    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_1_lambda_max.png",
+    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_0_A(t).png",
+    "50_Output/SDSoW_iNEST_PPT/resources/images/sdi.png",
+    "50_Output/SDSoW_iNEST_PPT/resources/images/sdde.png",
+    "50_Output/SDSoW_iNEST_PPT/resources/images/T_rho.png",
+    "50_Output/SDSoW_iNEST_PPT/build_pptx.py",
+    "50_Output/SDSoW_iNEST_PPT/pages/slide_20_ending.jsx",
+    "50_Output/SDSoW_iNEST_PPT/pages/slide_19_roadmap.jsx",
+    "50_Output/SDSoW_iNEST_PPT/pages/slide_18_imeso.jsx",
+    "50_Output/SDSoW_iNEST_PPT/pages/slide_17_inest.jsx",
+    "50_Output/SDSoW_iNEST_PPT/pages/slide_16_sdi.jsx",
+    "50_Output/SDSoW_iNEST_PPT/pages/slide_15_sdde.jsx",
+    "50_Output/SDSoW_iNEST_PPT/pages/slide_14_cmcs.jsx",
+    "50_Output/SDSoW_iNEST_PPT/DESIGN.md",
+    "50_Output/SDSoW_iNEST_PPT/STORY.md",
     "Home.md",
     "六个自然常数.md",
     "40_iNEST/iNEST_Master_Index.md",
@@ -476,45 +523,17 @@
     "wiki/concepts/术语对照表.md",
     "wiki/concepts/智造讲堂：智能制造与装备发展路径 (1).md",
     "wiki/concepts/梅宏院士：如何构造人工群体智能？ (1).md",
-    "90_System/scripts/__pycache__/task_recommender.cpython-310.pyc",
-    "90_System/scripts/__pycache__/homepage_generator.cpython-310.pyc",
-    "90_System/scripts/__pycache__/self_evolve.cpython-310.pyc",
-    "schema.md",
     "50_Output/55_Guides/VLEO_TCC_SDSoW_HighDensity_Payload_Guide.md",
     "40_iNEST/iNEST_RnD_SuperFlow_v3.md",
     "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式.md",
     "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186213170346176_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析.md",
     "20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186245382570904_从_摩尔定律_到_功率密度定律__IEEE异构集成_HIR_路线图深度解析.md",
     "20_Processing/20_KnowledgeBase/灵感库/人工智能第一性原理讲座_系统总结与iNEST启迪.md",
-    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/TM9.png",
-    "20_Processing/_attachments_knowledge/主题知识/网络超线性增益/real_connectome_final.png",
     "30_TCC/31_Theory/晶上自演化网络涌现智能_机理_技术与未来.md",
     "30_TCC/31_Theory/智造讲堂：智能制造与装备发展路径.md",
     "30_TCC/31_Theory/术语对照表.md",
     "30_TCC/31_Theory/李克强：智能网联汽车发展态势及高质量发展建议.md",
     "30_TCC/31_Theory/梅宏院士：如何构造人工群体智能？ (1).md",
-    "30_TCC/31_Theory/智能连接：碳原子与Token.md",
-    "30_TCC/31_Theory/智造讲堂：智能制造与装备发展路径 (1).md",
-    "30_TCC/31_Theory/智能的本质不是数据、算法、算力和知识（一）.md",
-    "30_TCC/31_Theory/物理涌现智能与复杂网络学科方向.md",
-    "30_TCC/31_Theory/演讲实录丨廖湘科院士：智能制造时代的基础软件.md",
-    "30_TCC/31_Theory/中科院脑智卓越中心ICML 2026研究_三节点motif分层理论开创神经网络定制化优化新路径.md",
-    "30_TCC/31_Theory/Softmax_Evolution_History_Physics_Statistics_AI.md",
-    "90_System/scripts/homepage_generator.py",
-    "state/wiki_compiler_state.json",
-    "90_System/scripts/__pycache__/task_planner.cpython-313.pyc",
-    "90_System/scripts/__pycache__/reconstruct_formulas.cpython-313.pyc",
-    "90_System/scripts/__pycache__/processing_workflow.cpython-313.pyc",
-    "90_System/scripts/__pycache__/link_engine.cpython-313.pyc",
-    "90_System/scripts/__pycache__/gen_insights.cpython-313.pyc",
-    "笔记同步助手/images/8cc926c5ddc3df38df986b22ad059065_MD5.png",
-    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_11.png",
-    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_9.png",
-    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_5.png",
-    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_3.png",
-    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_2.png",
-    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image_1.png",
-    "20_Processing/_attachments_knowledge/专题归档/04_图片与附件/image.png",
     "80_Archive/Inbox_legacy/待分类/未命名.canvas",
     "80_Archive/05_Fleeting/待分类/未命名.canvas",
     "Inbox/待分类/未命名.canvas",

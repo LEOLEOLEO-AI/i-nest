@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ANN动力学]]
 [[CST_Intelligence_Emergence]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -25,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Macro_System_Description]]
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]

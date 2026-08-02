@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ANN动力学]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[Contested_Priors_Mechanism]]

@@ -21,6 +21,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[ANN动力学]]
 [[Analog_Computation]]
 [[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]

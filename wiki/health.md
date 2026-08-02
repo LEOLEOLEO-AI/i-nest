@@ -1,12 +1,12 @@
 # Knowledge Health Report
 
-**Generated**: 2026-08-01
-**Last Grow**: 2026-08-01
+**Generated**: 2026-08-02
+**Last Grow**: 2026-08-02
 
 ## Stats
-- **Total Concepts**: 296
-- **Total Articles**: 27
-- **Orphan Concepts**: 105
+- **Total Concepts**: 304
+- **Total Articles**: 28
+- **Orphan Concepts**: 107
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
@@ -39,18 +39,18 @@
 - [[ComplexSystem_Definition]]
 - [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 - [[Complexity_Emergence_Engineering]]
-- [[Contested_Prior_Resolution]]
 - [[Deep_Network_Layer_Stacking]]
 - [[Evolutionary_Computability]]
 - [[FlagOS_2_0]]
+- [[FourElementEmergenceKernel]]
 - [[Free_Energy_Topology_Mapping]]
 - [[GNN图神经网络，非结构化数据分析利器！]]
 - [[GranularCortexExclusion]]
 - [[In_Network_Neuromorphic_Integration]]
 - [[In_Network_Neuromorphic_Processing]]
+- [[Master_SDDE]]
 - [[Memristor_Hardware_ANN]]
-- [[Memristor_Network]]
-- ... 65 more
+- ... 67 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

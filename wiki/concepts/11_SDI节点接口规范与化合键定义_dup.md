@@ -20,6 +20,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[ANN动力学]]
 [[AutonomousAdaptation]]
 [[CST_Intelligence_Emergence]]
 [[Complex_System_Theory]]
@@ -29,6 +30,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]

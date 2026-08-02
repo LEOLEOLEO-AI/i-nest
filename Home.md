@@ -4,7 +4,7 @@ cssclass: dashboard
 
 # 🔬 TCC × iNEST 自进化研发中枢
 
-> **知识库状态：活跃** | 管线：⚠️ paused | Git: 274 uncommitted | 更新：2026-08-01 17:55
+> **知识库状态：活跃** | 管线：⚠️ paused | Git: 286 uncommitted | 更新：2026-08-02 09:37
 
 ---
 
@@ -12,12 +12,12 @@ cssclass: dashboard
 
 | 维度 | 数值 | 入口 |
 |---|---|---|
-| 📄 知识库总文件 | **5,733** | [[Home\|根目录/Home]] |
-| 🔬 TCC 资料 | **1,886** | [[30_TCC/TCC_Master_Index\|TCC 主索引]] |
-| 🧠 iNEST 资料 | **1,433** | [[40_iNEST/iNEST_Master_Index\|iNEST 主索引]] |
-| 📥 待处理论文 | **132** | [[00_Inbox/_pipeline_insights\|论文收件箱]] |
+| 📄 知识库总文件 | **5,675** | [[Home\|根目录/Home]] |
+| 🔬 TCC 资料 | **1,878** | [[30_TCC/TCC_Master_Index\|TCC 主索引]] |
+| 🧠 iNEST 资料 | **1,426** | [[40_iNEST/iNEST_Master_Index\|iNEST 主索引]] |
+| 📥 待处理论文 | **141** | [[00_Inbox/_pipeline_insights\|论文收件箱]] |
 | ⚙️ 处理中 | **79** | [[20_Processing\|处理区]] |
-| 📤 成果区 | **495** | [[50_Output\|50_Output 成果区]] |
+| 📤 成果区 | **486** | [[50_Output\|50_Output 成果区]] |
 
 ---
 
@@ -25,8 +25,8 @@ cssclass: dashboard
 
 | 维度 | 数值 | 变化 |
 |---|---|---|
-| 🏷️ 概念总数 | **191** | TCC=84, iNEST=43, Cross=64 |
-| 📝 编译文章 | **27** | raw/ → wiki/articles/ |
+| 🏷️ 概念总数 | **196** | TCC=85, iNEST=46, Cross=65 |
+| 📝 编译文章 | **28** | raw/ → wiki/articles/ |
 | 🌉 跨域桥梁 | **3** | 强度 43/42/42 |
 
 **入口**：[[wiki/index|Wiki 概念索引]] · [[wiki/health|知识健康报告]] · [[wiki/cross_domain_insights|跨域洞察]] · [[wiki/task_recommendations|任务推荐]]
@@ -56,7 +56,7 @@ cssclass: dashboard
 >[!tip] 知识库维护
 >- [[wiki/task_recommendations|查看自动推荐任务]]
 >- [[60_MOC/07_Pipeline_Status|管线状态]]：`⚠️ paused`
->- Git：274 uncommitted changes
+>- Git：286 uncommitted changes
 
 **入口**：[[60_MOC/03_Daily_Action|每日行动]] · [[60_MOC/04_Daily_Focus|今日焦点]] · [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html)
 
@@ -73,7 +73,7 @@ cssclass: dashboard
 | 工程 | CST 仿真、FPGA/RTL 原型 | 可复现实验脚本、配置、日志和图表 |
 | 交付 | TCC 架构专利与实现专利 | 权利要求、实施例、附图和对比 |
 
-入口：[[30_TCC/TCC_Master_Index|TCC 主索引]] · [[wiki/index#TCC — Topology-Centric Computing (84 concepts)|TCC Wiki (84 概念)]]
+入口：[[30_TCC/TCC_Master_Index|TCC 主索引]] · [[wiki/index#TCC — Topology-Centric Computing (85 concepts)|TCC Wiki (85 概念)]]
 
 ### iNEST：复杂网络涌现智能
 
@@ -84,7 +84,7 @@ cssclass: dashboard
 | 工程 | SNN/异步电路/存算一体 | 仿真、综合、资源、功耗和时延 |
 | 交付 | iNEST 论文、专著、白皮书、专利 | 版本、章节状态、引用证据 |
 
-入口：[[40_iNEST/iNEST_Master_Index|iNEST 主索引]] · [[wiki/index#iNEST — In-Network Neuromorphic (43 concepts)|iNEST Wiki (43 概念)]]
+入口：[[40_iNEST/iNEST_Master_Index|iNEST 主索引]] · [[wiki/index#iNEST — In-Network Neuromorphic (46 concepts)|iNEST Wiki (46 概念)]]
 
 ---
 
@@ -106,7 +106,7 @@ cssclass: dashboard
 ```text
 论文导入 → Inbox → 管线筛选 → raw/
     ↓
-wiki_compiler → wiki/ (191 概念, 27 文章)
+wiki_compiler → wiki/ (196 概念, 28 文章)
     ↓
 跨域洞察 + 任务推荐 + 假设验证
     ↓
@@ -147,7 +147,7 @@ Processing → TCC/iNEST → Output
 | [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html) | 今日做什么、进展、洞察 |
 | [[60_MOC/03_Daily_Action\|每日行动]] | 论文 → 可执行任务 |
 | [[60_MOC/04_Daily_Focus\|今日焦点]] | 当天最重要任务 |
-| [[wiki/index\|Wiki 概念索引]] | 191 个结构化概念 |
+| [[wiki/index\|Wiki 概念索引]] | 196 个结构化概念 |
 | [[wiki/task_recommendations\|任务推荐]] | 知识缺口驱动任务 |
 | [[60_MOC/TCC_iNEST_成果全景\|成果全景]] | 论文、专利、代码 |
 | [[60_MOC/00_知识库治理中枢\|治理中枢]] | 目录职责与标准 |
@@ -160,7 +160,6 @@ Processing → TCC/iNEST → Output
 
 | 日期 | 断链 | 孤儿 | 缺FM |
 |---|---|---|---|
-| 2026-08-01 | 2273 | 2139 | 1274 |
 | 2026-08-01 | 2234 | 2128 | 1274 |
 | 2026-08-01 | 2020 | 2126 | 1274 |
 | 2026-08-01 | 2005 | 2120 | 1274 |
@@ -170,6 +169,7 @@ Processing → TCC/iNEST → Output
 | 2026-08-01 | 1408 | 2047 | 21 |
 | 2026-08-01 | 1364 | 2047 | 22 |
 | 2026-08-01 | 1324 | 2047 | 22 |
+| 2026-08-01 | 1359 | 2045 | 23 |
 
 > 完整日志 → [[99_Meta/self_evolve_log|自进化日志]] · 健康报告 → [[wiki/health|知识健康报告]]
 
@@ -191,7 +191,7 @@ Processing → TCC/iNEST → Output
 
 ## 🩺 健康检查（来自 wiki/health.md）
 
-- 真正断链：**1359**  ·  孤儿笔记：**2045**  ·  缺 frontmatter：**23**
+- 真正断链：**1334**  ·  孤儿笔记：**2058**  ·  缺 frontmatter：**36**
 
 > 缺口由每日自进化持续消解；如需扩大清理范围请人工确认。
 
@@ -206,4 +206,4 @@ Processing → TCC/iNEST → Output
 
 ---
 
-*主页由 homepage_generator.py 自动刷新 | 2026-08-01 17:55*
+*主页由 homepage_generator.py 自动刷新 | 2026-08-02 09:37*

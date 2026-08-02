@@ -20,10 +20,12 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[ANN动力学]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[NCL神经计算定律详解]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[STDP_Plasticity]]
