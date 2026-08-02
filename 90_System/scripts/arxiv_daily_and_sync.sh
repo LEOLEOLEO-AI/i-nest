@@ -25,7 +25,7 @@ VAULT="/home/work/obsidian-vault"
 ARXIV_SCRIPT="/home/work/.openclaw/workspace/scripts/arxiv_to_wiki.py"
 REPO="/home/work/i-nest"
 ARXIV_VAULT="$VAULT/00_KnowledgeBase_知识库/literature/arxiv-auto"
-ARXIV_REPO="$REPO/50_Output/51_Papers/arxiv-auto"
+ARXIV_REPO="$REPO/20_Processing/20_KnowledgeBase/arxiv-auto"
 
 # 防止重复触发
 if [ -f "$DONE_FLAG" ]; then
