@@ -38,6 +38,22 @@ python3 "$ARXIV_SCRIPT" >> "$LOG" 2>&1
 added=$(ls "$ARXIV_REPO"/*${TODAY}*.md 2>/dev/null | wc -l | tr -d ' ')
 echo "[$(date '+%H:%M:%S')] 爬取完成，今日新增: $added 篇" | tee -a "$LOG"
 
+# ── 步骤 1.5：质量校验（防止空白章节静默发布）──────────────────
+echo "[$(date '+%H:%M:%S')] 校验今日生成文件..." | tee -a "$LOG"
+EMPTY_N=0
+for f in "$ARXIV_REPO"/*${TODAY}*.md; do
+  [ -f "$f" ] || continue
+  case "$f" in *-index.md) continue;; esac
+  # 占位符“、”或空 answer 视为分析失败
+  if grep -q '^、$' "$f" || grep -q '^answer:$' "$f"; then
+    EMPTY_N=$((EMPTY_N+1))
+    echo "  ⚠️ 分析不完整: $(basename "$f")" | tee -a "$LOG"
+    # 在 frontmatter 闭合（第二个 ---）之后插入醒目警告，避免空章节被当作有效内容
+    awk 'BEGIN{n=0} /^---$/{n++; if(n==2){print; print "> ⚠️ [自动校验] gsk 三维分析失败/不完整，含空章节，待重跑"; next}} {print}' "$f" > "$f.tmp" && mv "$f.tmp" "$f"
+  fi
+done
+echo "[$(date '+%H:%M:%S')] 校验完成，不完整文件: $EMPTY_N 篇（已加警告标记）" | tee -a "$LOG"
+
 # ── 步骤 2：推送到 genspark/sync ─────────────────────────────────────────
 cd "$REPO"
 
