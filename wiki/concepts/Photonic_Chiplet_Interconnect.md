@@ -1,0 +1,30 @@
+# Photonic_Chiplet_Interconnect
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-04
+
+## Definition
+A method of connecting chiplets using photonic signals over silicon photonic waveguides instead of electrical traces, enabling high-bandwidth, low-latency data transfer between compute nodes. This is critical for TCC as it addresses the bandwidth and energy bottlenecks of electrical interconnects in dense, topology-centric chiplet networks.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Free_Energy_Principle_Network]]
+[[GenerativeTopologyModels]]
+[[Memory_Wall]]
+[[Microgrid_Optimization]]
+[[Network_Topology_Design]]
+[[P_Paradigm]]
+[[RenormalizationGroup_ScalingLaws]]
+[[SpatiotemporalComplexityIndex]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

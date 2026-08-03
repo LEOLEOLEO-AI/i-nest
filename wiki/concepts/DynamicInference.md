@@ -1,0 +1,30 @@
+# DynamicInference
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-04
+
+## Definition
+A method where the network adapts its computation path or depth per input sample, skipping unnecessary layers or branches to save computation. Provides a mechanism for adaptive resource allocation in distributed or in-network processing, aligning with the need for flexible, topology-aware computation in TCC/iNEST systems.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[ChipletWaferInterconnectTopology]]
+[[Free_Energy_Principle_Network]]
+[[GenerativeTopologyModels]]
+[[Microgrid_Optimization]]
+[[Network_Topology_Design]]
+[[Photonic_Chiplet_Interconnect]]
+[[RenormalizationGroup_ScalingLaws]]
+[[SpatiotemporalComplexityIndex]]
+[[Structural_Mismatch]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

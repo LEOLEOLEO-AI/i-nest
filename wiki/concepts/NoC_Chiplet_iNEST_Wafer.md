@@ -32,15 +32,18 @@ Auto-extracted concept from raw material compilation.
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
+[[Wafer_Scale_Integration]]
 [[iNEST]]
 
 ## Sources

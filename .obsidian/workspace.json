@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01522ccc9af4d250",
+        "id": "72d036d7d3c8cf4b",
         "type": "tabs",
         "children": [
           {
-            "id": "07ec837305146da6",
+            "id": "8c767f9746713b92",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,329 +18,131 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "退休干部政策",
+                  "title": "2026-08-02-2607.27402v1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/34_Projects/退休干部政策.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"退休干部政策\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":457.1566015393724}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27402v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.27402v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":0},\"to\":{\"line\":50,\"ch\":0}},\"scroll\":25.74963072378139}"
                 },
                 {
-                  "title": "美国DARPA四大关键项目群深度研究报告：战略布局、技术突破与全球影响",
+                  "title": "2026-08-02-index",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/34_Projects/美国DARPA四大关键项目群深度研究报告：战略布局、技术突破与全球影响.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"美国DARPA四大关键项目群深度研究报告：战略布局、技术突破与全球影响\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "[V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/34_Projects/[V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"[V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "[V9_Final] 海河实验室_正式项目申报书_TCC战略版",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/34_Projects/海河实验室重大专项/[V9_Final] 海河实验室_正式项目申报书_TCC战略版.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"[V9_Final] 海河实验室_正式项目申报书_TCC战略版\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":980,\"ch\":23},\"to\":{\"line\":980,\"ch\":23}},\"scroll\":967.0358072916666}"
-                },
-                {
-                  "title": "[V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/34_Projects/[V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"[V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "[V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版 (1)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Output/55_Guides/[V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版 (1).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"[V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版 (1)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "先进计算专项项目指南_v1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Output/55_Guides/先进计算专项项目指南_v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"先进计算专项项目指南_v1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":158.91462739092182}"
-                },
-                {
-                  "title": "关于设立_极低轨卫星智能体_国家重大科技专项的建议",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/关于设立_极低轨卫星智能体_国家重大科技专项的建议.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"关于设立_极低轨卫星智能体_国家重大科技专项的建议\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.416666666666667}"
-                },
-                {
-                  "title": "修订意见沟通素材",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/修订意见沟通素材.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"修订意见沟通素材\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":32.263020833333336}"
-                },
-                {
-                  "title": "便笺_晶上",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/便笺_晶上.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"便笺_晶上\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":86.2421875}"
-                },
-                {
-                  "title": "三原理协同_FEP_STDP_最小作用量",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/三原理协同_FEP_STDP_最小作用量.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"三原理协同_FEP_STDP_最小作用量\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "【待办】算力网络项目指南建议",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/【待办】算力网络项目指南建议.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"【待办】算力网络项目指南建议\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":19.727864583333332}"
-                },
-                {
-                  "title": "【待办】中汽芯材料修订",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/【待办】中汽芯材料修订.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"【待办】中汽芯材料修订\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Γst_Revision",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/Γst_Revision.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Γst_Revision\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":82.86783854166667}"
-                },
-                {
-                  "title": "Wafer_Scale_Neuromorphic_Integration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/Wafer_Scale_Neuromorphic_Integration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Wafer_Scale_Neuromorphic_Integration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":113.03450520833334}"
-                },
-                {
-                  "title": "backlinks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/backlinks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"backlinks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":7167},\"to\":{\"line\":38,\"ch\":7167}},\"scroll\":38.80736287434896}"
-                },
-                {
-                  "title": "待分类",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/待分类.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"待分类\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":50.864583333333336}"
-                },
-                {
-                  "title": "对外展示",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/对外展示.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"对外展示\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":16.702473958333332}"
-                },
-                {
-                  "title": "复杂网络",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/复杂网络.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"复杂网络\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":86.330078125}"
-                },
-                {
-                  "title": "backlinks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/backlinks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"backlinks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":15},\"to\":{\"line\":44,\"ch\":15}},\"scroll\":0}"
-                },
-                {
-                  "title": "00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":41.705078125}"
-                },
-                {
-                  "title": "backlinks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/backlinks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"backlinks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":272,\"ch\":4921},\"to\":{\"line\":272,\"ch\":4921}},\"scroll\":272.9158406137993}"
-                },
-                {
-                  "title": "向大脑学习智能本质，探索通用 AI 的另一条可行路径",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/向大脑学习智能本质，探索通用 AI 的另一条可行路径.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"向大脑学习智能本质，探索通用 AI 的另一条可行路径\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":71.9296875}"
-                },
-                {
-                  "title": "backlinks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/backlinks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"backlinks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":524,\"ch\":5610},\"to\":{\"line\":524,\"ch\":5610}},\"scroll\":512.9348958333334}"
-                },
-                {
-                  "title": "vLLM_plugin_FLSDI",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/vLLM_plugin_FLSDI.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"vLLM_plugin_FLSDI\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":149.013671875}"
-                },
-                {
-                  "title": "AI_Application_Scenario_Reconstruction",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/AI_Application_Scenario_Reconstruction.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI_Application_Scenario_Reconstruction\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":36.897135416666664}"
-                },
-                {
-                  "title": "index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "schema",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/schema.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"schema\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":138.40333333333334}"
-                },
-                {
-                  "title": "00_知识库治理中枢",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"60_MOC/00_知识库治理中枢.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_知识库治理中枢\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":100.76494967436354}"
-                },
-                {
-                  "title": "ANN动力学",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/ANN动力学.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ANN动力学\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":8.601195559350982}"
-                },
-                {
-                  "title": "iNEST_Neuromorphic_Integration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/iNEST_Neuromorphic_Integration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"iNEST_Neuromorphic_Integration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":10.965364583333333}"
-                },
-                {
-                  "title": "cross_domain_insights",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/cross_domain_insights.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cross_domain_insights\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-index\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "00_moc_sdsow_to_inest",
+                  "title": "2026-08-02-2607.26483v1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/13_Codex/00_moc_sdsow_to_inest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_moc_sdsow_to_inest\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":17},\"to\":{\"line\":30,\"ch\":17}},\"scroll\":8.979591836734693}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.26483v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.26483v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":1},\"to\":{\"line\":24,\"ch\":1}},\"scroll\":12.16326530612245}"
                 },
                 {
-                  "title": "01_baseline_overview_v0_1",
+                  "title": "2026-08-02-2607.28172v1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/13_Codex/01_baseline_overview_v0_1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"01_baseline_overview_v0_1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.28172v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.28172v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":575},\"to\":{\"line\":28,\"ch\":575}},\"scroll\":22.8125}"
                 },
                 {
-                  "title": "schema",
+                  "title": "2026-08-02-2607.28173v1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"schema.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"schema\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":122.67688041125541}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.28173v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.28173v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Home",
+                  "title": "2026-08-02-index",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":203.17465956187093}"
-                },
-                {
-                  "title": "六个自然常数",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"六个自然常数.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"六个自然常数\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-index\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "iNEST_Master_Index",
+                  "title": "2026-06-23-2511.14872",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_iNEST/iNEST_Master_Index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"iNEST_Master_Index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-06-23-2511.14872.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-06-23-2511.14872\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "iNEST_RnD_SuperFlow_v3",
+                  "title": "2026-06-25-2512.18471",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_iNEST/iNEST_RnD_SuperFlow_v3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"iNEST_RnD_SuperFlow_v3\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":210.43576080521018}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-06-25-2512.18471.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-06-25-2512.18471\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":32.380642361111114}"
                 },
                 {
-                  "title": "GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式",
+                  "title": "2026-05-26-2605.25072",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}}}"
-                },
-                {
-                  "title": "GetNote_20260606_100554_kb_DARPA-research_getnote_1896186213170346176_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186213170346176_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"GetNote_20260606_100554_kb_DARPA-research_getnote_1896186213170346176_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}}}"
-                },
-                {
-                  "title": "GetNote_20260606_100554_kb_DARPA-research_getnote_1896186245382570904_从_摩尔定律_到_功率密度定律__IEEE异构集成_HIR_路线图深度解析",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/getnote_external/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186245382570904_从_摩尔定律_到_功率密度定律__IEEE异构集成_HIR_路线图深度解析.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"GetNote_20260606_100554_kb_DARPA-research_getnote_1896186245382570904_从_摩尔定律_到_功率密度定律__IEEE异构集成_HIR_路线图深度解析\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "人工智能第一性原理讲座_系统总结与iNEST启迪",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/灵感库/人工智能第一性原理讲座_系统总结与iNEST启迪.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"人工智能第一性原理讲座_系统总结与iNEST启迪\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":373.3525390625}"
-                },
-                {
-                  "title": "TM9",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"20_Processing/_attachments_knowledge/专题归档/04_图片与附件/TM9.png\"},\"icon\":\"lucide-image\",\"title\":\"TM9\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "real_connectome_final",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"20_Processing/_attachments_knowledge/主题知识/网络超线性增益/real_connectome_final.png\"},\"icon\":\"lucide-image\",\"title\":\"real_connectome_final\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "晶上自演化网络涌现智能_机理_技术与未来",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/晶上自演化网络涌现智能_机理_技术与未来.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"晶上自演化网络涌现智能_机理_技术与未来\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":45.506510416666664}"
-                },
-                {
-                  "title": "智造讲堂：智能制造与装备发展路径",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/智造讲堂：智能制造与装备发展路径.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"智造讲堂：智能制造与装备发展路径\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":116.74088541666667}"
-                },
-                {
-                  "title": "术语对照表",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/术语对照表.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"术语对照表\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "李克强：智能网联汽车发展态势及高质量发展建议",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/李克强：智能网联汽车发展态势及高质量发展建议.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"李克强：智能网联汽车发展态势及高质量发展建议\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "梅宏院士：如何构造人工群体智能？ (1)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/梅宏院士：如何构造人工群体智能？ (1).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"梅宏院士：如何构造人工群体智能？ (1)\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-26-2605.25072.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-26-2605.25072\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "智能连接：碳原子与Token",
+                  "title": "2026-05-27-2604.28059",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/智能连接：碳原子与Token.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"智能连接：碳原子与Token\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-27-2604.28059.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-27-2604.28059\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":3},\"to\":{\"line\":14,\"ch\":3}}}"
                 },
                 {
-                  "title": "智造讲堂：智能制造与装备发展路径 (1)",
+                  "title": "2026-05-26-index",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/智造讲堂：智能制造与装备发展路径 (1).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"智造讲堂：智能制造与装备发展路径 (1)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":29.5634765625}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-26-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-26-index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2026-05-25-index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-25-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-25-index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2026-05-22-index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-22-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-22-index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2026-05-18-2412.12106",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-18-2412.12106.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-18-2412.12106\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2026-05-15-index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-15-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-15-index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2026-05-17-index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-17-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-17-index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2026-05-16-index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-16-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-16-index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2026-05-15-index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-15-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-15-index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.157739970594413}"
+                },
+                {
+                  "title": "2026-05-15-2605.14349",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-15-2605.14349.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-15-2605.14349\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "2026-05-15-2605.13869",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-15-2605.13869.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-15-2605.13869\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":27.304893092105264}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_TCC/34_Projects/[V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版.md",
+                "file": "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27140v1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -355,11 +157,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "[V8]_海河实验室_项目指南_晶上拓扑中心计算_正式发布版"
+              "title": "2026-08-02-2607.27140v1"
             }
           },
           {
-            "id": "d9711203cb569222",
+            "id": "5fc2d025c38d78f6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -369,9 +171,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Genspark - TCC 超非线性增益定理证明与学术报告请求",
+                  "title": "[2607.26483v1] Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks",
                   "icon": "globe-2",
-                  "state": "{\"state\":{\"url\":\"http://127.0.0.1:8899/tmp_gh/50_Output/Reports/2026-07-20_TCC_System_Nonlinear_Gain_Verification_Protocol.md\"},\"type\":\"webviewer\"}",
+                  "state": "{\"state\":{\"url\":\"http://arxiv.org/abs/2607.26483v1\"},\"type\":\"webviewer\"}",
                   "eState": "null"
                 }
               ]
@@ -379,12 +181,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.genspark.ai/autopilotagent_viewer?id=c847cf9a-3afd-4bed-b45c-3129df007c6a",
-                "title": "Genspark - TCC 超非线性增益定理证明与学术报告请求",
+                "url": "https://arxiv.org/abs/2607.26483v1",
+                "title": "[2607.26483v1] Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Genspark - TCC 超非线性增益定理证明与学术报告请求"
+              "title": "[2607.26483v1] Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks"
             }
           }
         ]
@@ -486,12 +288,11 @@
               "title": "笔记本导航器"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 407.5
   },
   "right": {
     "id": "b131a582ddb31d11",
@@ -679,13 +480,32 @@
               "icon": "bot",
               "title": "Claudian Plus"
             }
+          },
+          {
+            "id": "532c40cb9f91ee3b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 723.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -709,37 +529,43 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "notebook-navigator:笔记本导航器": false,
       "homepage:Open homepage": false,
-      "claudian-plus:Open Claudian Plus": false
+      "claudian-plus:Open Claudian Plus": false,
+      "wechat-inbox-sync:同步微信收集箱": false,
+      "wechat-inbox-sync:暂停当前转写": false,
+      "remotely-secure:Remotely Sync": false
     }
   },
   "active": "013257bb46529241",
   "lastOpenFiles": [
-    "30_TCC/32_Tech/20260429_【iNEST知识库】TCC_Core_Concepts.md",
-    "30_TCC/32_Tech/20260429_【iNEST知识库】iNEST_Academic_Belief_Core.md",
-    "30_TCC/31_Theory/2025-08-23_忆阻器网络.md",
-    "20_Processing/external_imports/Nested Learning- 深度学习架构的本质解构与范式创新.md",
-    "40_iNEST/42_Tech/拓扑神经科学_连接神经环路与功能的跨学科研究.md",
-    "40_iNEST/42_Tech/本地模型跑 Codex .md",
-    "40_iNEST/42_Tech/关键 skill__dup1.md",
-    "40_iNEST/42_Tech/关键 skill.md",
-    "40_iNEST/42_Tech/Codex更新后Computer Use-Chrome插件消失问题深度解决方案.md",
-    "40_iNEST/42_Tech/类脑计算最新综述.md",
-    "30_TCC/35_Simulation/同一个神经元_两种学习规则_树突区室化可塑性的突破性发现及其对AI的启示.md",
-    "30_TCC/35_Simulation/Python2Verilog vs Xilinx IP_33个FPGA设计实测对比分析报告.md",
-    "30_TCC/35_Simulation/大脑学习的动力学约束：神经流形与脑机接口的范式转变.md",
-    "30_TCC/35_Simulation/忆阻器网络优化方案.md",
-    "30_TCC/35_Simulation/大规模类脑计算的发展、机遇与挑战综述.md",
-    "30_TCC/35_Simulation/大规模类脑计算的发展_机遇与挑战综述.md",
-    "30_TCC/35_Simulation/开源工具.md",
-    "30_TCC/35_Simulation/TRAE工具安装与环境配置.md",
-    "30_TCC/35_Simulation/NVIDIA GTC 2026深度解析：LPU引领异构推理时代，低时延成一级优化目标.md",
-    "30_TCC/35_Simulation/NVIDIA GTC 2026深度解析_LPU引领异构推理时代_低时延成一级优化目标.md",
-    "30_TCC/35_Simulation/sample_TCC_SDI_test.md",
-    "30_TCC/34_Projects/Academic-Research-Skills _ARS_Claude_Codex科研全流程增强工具深度指南.md",
-    "30_TCC/34_Projects/2026 年 6 月 6 号 .md",
-    "30_TCC/34_Projects/统一内存与网络语义架构_Risc-V结合_.md",
-    "30_TCC/34_Projects/忆阻器网络.md",
-    "30_TCC/34_Projects/字节AI编程工具Trae详解.md",
+    "90_System/scripts/check_arxiv_digest.ps1",
+    "90_System/scripts/arxiv_daily_and_sync.sh",
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27402v1.md",
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-index.md",
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.26483v1.md",
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.28172v1.md",
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.28173v1.md",
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-06-23-2511.14872.md",
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-06-25-2512.18471.md",
+    "30_TCC/31_Theory/2026-06-21_iNEST三元映射框架.md",
+    "30_TCC/31_Theory/2026-06-21_2026-06-21_复杂系统涌现的统一理论_三元生成内核与惯性制动的动力学框架.md",
+    "20_Processing/external_imports/kb_DARPA-research_美国DARPA微电子与半导体领域深度研究报告_超越摩尔定律的范式革命.md",
+    "20_Processing/external_imports/kb_DARPA-research_美国DARPA对专业化孵化器建设的启示_组织架构_管理机制与生态构建.md",
+    "20_Processing/external_imports/kb_DARPA-research_美国DARPA四大关键项目群深度研究报告_战略布局_技术突破与全球影响.md",
+    "20_Processing/external_imports/kb_DARPA-research_美国DARPA_材料科学与先进制造_领域深度研究报告_战略_技术与未来展望.md",
+    "20_Processing/external_imports/kb_DARPA-research_第三代半导体深度研报_AI_6G_人形机器人与低空科技的关键变量技术.md",
+    "20_Processing/external_imports/kb_DARPA-research_全球集成传感技术在军事领域的发展现状与趋势研究报告.md",
+    "20_Processing/external_imports/kb_DARPA-research_IEEE异构集成技术全景报告_从HIR路线图到产业战略布局.md",
+    "20_Processing/external_imports/kb_DARPA-research_DARPA重塑未来战争形态_空天_太空与高超音速领域战略布局深度分析.md",
+    "20_Processing/external_imports/kb_DARPA-research_DARPA网络_信息战与通信领域项目深度分析报告_下册_以体系化创新锻造未来信息战优势.md",
+    "20_Processing/external_imports/kb_DARPA-research_DARPA空天_太空与高超音速领域项目深度分析报告.md",
+    "20_Processing/external_imports/kb_DARPA-research_DARPA如何塑造军事人工智能的未来与全球战略平衡_静默的革命.md",
+    "20_Processing/external_imports/kb_DARPA-research_DARPA传感器_电子战与通信领域深度研究报告_下册_能力与技术预测_2025-2035_.md",
+    "20_Processing/external_imports/kb_DARPA-research_DARPA人工智能与自主系统项目深度研究报告_以_第三波AI_为核心的军事智能革命.md",
+    "20_Processing/external_imports/kb_DARPA-research_DARPA_水晶宫计划_深度研究报告_塑造下一代军用微系统材料变革.md",
+    "20_Processing/external_imports/kb_DARPA-research_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式.md",
+    "20_Processing/external_imports/20260311_Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities_ A Renormalizatio.md",
+    "20_Processing/20_KnowledgeBase/arxiv-auto",
+    "_external",
     "90_System/scripts/fix_getnote_links.py",
     "10_Knowledge/00_导航",
     "20_Processing/_digests",
@@ -748,9 +574,6 @@
     "50_Output/56_Prototypes/iNEST_investor_demo/logo.png",
     "50_Output/56_Prototypes/iNEST_investor_demo/index.html",
     "50_Output/56_Prototypes/dashboard_investor/index.html",
-    "50_Output/56_Prototypes/iNEST_investor_demo",
-    "50_Output/56_Prototypes/dashboard_investor",
-    "50_Output/56_Prototypes",
     "50_Output/SDSoW_iNEST_PPT/resources/images/chip_6_Γ_stu.png",
     "50_Output/SDSoW_iNEST_PPT/resources/images/chip_5_E_diss.png",
     "50_Output/SDSoW_iNEST_PPT/resources/images/chip_4_AIS.png",

@@ -14,7 +14,8 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN动力学]]
 [[Contested_Prior_Resolution]]
-[[InMemory_Computing]]
+[[GenerativeTopologyModels]]
+[[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[MetaFAIR_ArchitectureDiscovery]]

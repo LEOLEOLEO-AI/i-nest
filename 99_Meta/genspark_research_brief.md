@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-08-02
-date: 2026-08-02
+title: iNEST+TCC Research Brief - 2026-08-03
+date: 2026-08-03
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-08-02
+# iNEST + TCC Research Brief - 2026-08-03
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,27 +33,27 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-08-01] **00_moc_sdsow_to_inest** (13_Codex)
+- [2026-08-02] **getnote_2026-08-02_getnote_1917333705497132960_台积电CoPoS vs 英特尔EMIB：先进Chiplet集成的两** (root)
+- [2026-08-02] **getnote_2026-08-02_getnote_1917307943209549728_晶圆级异构集成方案详解** (root)
+- [2026-08-02] **getnote_2026-08-02_getnote_1917303032987664288_20瓦大脑启发的AI规划革命：GCML认知地图算法深度解析** (root)
+- [2026-08-02] **2026-08-01_arXiv_MANTA Multi-Agent Network Topology Adaptation for Self-Evolv** (_pipeline_insights)
+- [2026-08-02] **00_moc_sdsow_to_inest** (13_Codex)
 - [2026-08-01] **04_version_iteration_v0_1** (13_Codex)
 - [2026-08-01] **03_evidence_citation_policy_v0_1** (13_Codex)
 - [2026-08-01] **02_glossary_symbols_formulas_v0_1** (13_Codex)
-- [2026-08-01] **01_baseline_overview_v0_1** (13_Codex)
-- [2026-08-01] **getnote_2026-08-01_getnote_1917227927968871696_SDI与NPU集成方案** (root)
-- [2026-08-01] **getnote_2026-08-01_getnote_1917222390681866328_SDI 与 NPU NoC 集成方案：从外挂式到片内融合** (root)
-- [2026-08-01] **getnote_2026-08-01_getnote_1917217265712035088_TCCNPU协同路线图** (root)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 5677
-Graph nodes: 5916 | edges: 12887
+Total notes: 6127
+Graph nodes: 5674 | edges: 17826
 
 Top connected topics:
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=394)
+- **index** (degree=304)
+- **backlinks** (degree=303)
 - **TCC_iNEST_成果全景** (degree=291)
 - **00_研究资料导航** (degree=194)
-- **index** (degree=191)
-- **backlinks** (degree=185)
 - **10_Own_Research_Diagnosis** (degree=103)
 - **2025年AI与HPC网络加速芯片技术对比** (degree=85)
 
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-08-02 09:41*
+*Research brief auto-generated 2026-08-03 14:15*

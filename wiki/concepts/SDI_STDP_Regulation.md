@@ -18,10 +18,12 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
 [[Neuromorphic_Computing]]
+[[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetworks]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[VonNeumann_Complexity_Threshold]]
 
 ## Sources

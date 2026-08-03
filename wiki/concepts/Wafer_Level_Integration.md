@@ -1,0 +1,30 @@
+# Wafer_Level_Integration
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-04
+
+## Definition
+The process of assembling and interconnecting chiplets directly on a full wafer, rather than on a separate package substrate, to achieve ultra-dense system integration. Enables massive parallelism and short inter-chiplet distances, essential for realizing topology-centric computing with minimal communication overhead.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Free_Energy_Principle_Network]]
+[[GenerativeTopologyModels]]
+[[Network_Topology_Design]]
+[[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
+[[RenormalizationGroup_ScalingLaws]]
+[[SpatiotemporalComplexityIndex]]
+[[Wafer_Scale_Integration]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

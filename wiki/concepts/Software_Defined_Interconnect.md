@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
@@ -51,3 +52,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Software_Defined_Interconnect (merged 2026-08-04)

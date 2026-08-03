@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
+[[Photonic_Chiplet_Interconnect]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
+[[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
@@ -56,3 +58,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- In_Network_Neuromorphic_Integration (merged 2026-08-04)

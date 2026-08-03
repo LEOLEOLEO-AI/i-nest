@@ -1,0 +1,30 @@
+# TCC_iNEST_Interconnect
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-04
+
+## Definition
+The combined interconnect and topology framework that merges Topology-Centric Computing with In-Network Neuromorphic processing for AI systems. Establishes the foundational communication substrate for co-designing neural computation and network topology.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[BiasEvaluationMetrics]]
+[[ChipletWaferInterconnectTopology]]
+[[Free_Energy_Principle_Network]]
+[[GenerativeTopologyModels]]
+[[Microgrid_Optimization]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
+[[RenormalizationGroup_ScalingLaws]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

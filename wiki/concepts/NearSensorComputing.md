@@ -1,0 +1,30 @@
+# NearSensorComputing
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-04
+
+## Definition
+A computing paradigm where preprocessing or feature extraction is performed at or near the sensor array, reducing data movement before transmission to the processing unit. Minimizes latency and energy overhead in sensor-to-processor data paths, critical for real-time edge AI in flexible electronic systems.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[ChipletWaferInterconnectTopology]]
+[[Chiplet_Interconnect_Topology]]
+[[Evolutionary_Computability]]
+[[FlagOS_2_0]]
+[[Free_Energy_Principle_Network]]
+[[RenormalizationGroup_ScalingLaws]]
+[[SpatiotemporalComplexityIndex]]
+[[Structural_Mismatch]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[Wafer_Scale_Interconnect_Topology]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

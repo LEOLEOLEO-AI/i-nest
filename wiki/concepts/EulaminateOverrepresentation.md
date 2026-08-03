@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
 [[Topology_Centric_Computing]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[vLLM_plugin_FLSDI]]
 

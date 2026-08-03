@@ -1,0 +1,30 @@
+# HigherOrderAvalanche
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-04
+
+## Definition
+Neuronal avalanches that propagate through group interactions (e.g., hyperedges), exhibiting criticality and scale-free statistics in higher-order network models. Directly relevant to self-organized criticality in neuromorphic hardware, guiding design of energy-efficient, brain-inspired computing substrates.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[BiasEvaluationMetrics]]
+[[Free_Energy_Principle_Network]]
+[[Master_SDDE]]
+[[Microgrid_Optimization]]
+[[Neuromorphic_Computing]]
+[[RenormalizationGroup_ScalingLaws]]
+[[Self_Organized_Criticality]]
+[[SpatiotemporalComplexityIndex]]
+[[iNEST]]
+[[iNEST_Neuromorphic_Topology]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

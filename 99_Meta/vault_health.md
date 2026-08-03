@@ -1,37 +1,37 @@
 # 全库健康自检
 
-> 生成: 2026-08-02  ·  链接解析贴近 Obsidian 行为
+> 生成: 2026-08-04  ·  链接解析贴近 Obsidian 行为
 
-- 笔记总数(可链接目标): **4571**
-- 缺 frontmatter 笔记: **38**
-- 真正断链(目标不存在): **1339**
+- 笔记总数(可链接目标): **5141**
+- 缺 frontmatter 笔记: **355**
+- 真正断链(目标不存在): **2441**
 
 ## 断链样本(按被引用次数排序, 优先补全)
 
-- (×14) `[[iNEST 机构 — 全景导航 (Map of Content)]]`
+- (×32) `[[GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]`
+- (×27) `[[论文]]`
+- (×22) `[[getnote_2026-06-27_智能涌现理论框架]]`
+- (×18) `[[GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查]]`
+- (×17) `[[GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述]]`
+- (×17) `[[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]`
+- (×15) `[[The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025]]`
+- (×13) `[[GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_]]`
+- (×13) `[[GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景]]`
+- (×12) `[[getnote_2026-01-12_晶圆级神经网络能效革命]]`
+- (×12) `[[GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破]]`
+- (×11) `[[GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订]]`
+- (×11) `[[GetNote_20260606_100554_kb_iNEST_getnote_1887266194235479456_晶上大脑基础研究课题]]`
+- (×11) `[[getnote_2026-01-12_数字孪生大脑工程化路径]]`
 - (×11) `[[2025年10月28号 日记]]`
+- (×10) `[[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]`
+- (×10) `[[C.elegans]]`
+- (×10) `[[GetNote_20260606_100554_kb_DARPA-research_getnote_1896186120829089320_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]`
+- (×10) `[[getnote_2026-06-28_拓扑中心计算范式架构研究与液态拓扑生成式计算原型验证项目指南 8.0]]`
+- (×10) `[[GetNote_20260606_100554_kb_iNEST_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景]]`
 - (×10) `[[2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly]]`
-- (×9) `[[30_TCC\34_Projects\_from_ideas\卫星智能体重大专项建议_v4.md]]`
-- (×9) `[[00_Inbox/_pipeline_insights/八大神经网络，从原理到应用]]`
-- (×8) `[[2026-06-24_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with]]`
-- (×8) `[[Nat. Com.：可穿戴神经形态系统]]`
-- (×7) `[[Nature Communications：神经形态计算革新，借鉴生物突触的MoS₂三端器件赋能去中心化AI]]`
-- (×7) `[[Graphlet Decomposition using Random-Walk Memristors：将器件缺陷转化为计算优势]]`
-- (×6) `[[2026-06-20_iNEST_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with]]`
-- (×6) `[[2026-06-28_Getnote_2026-06-28_学习重塑神经表征几何_灵长类前额叶皮层演化规律与大模型学习机制的跨领域统一研究]]`
-- (×6) `[[(Nat. Commun. 综述)]]`
-- (×6) `[[2026年3月23号 日记]]`
-- (×5) `[[2026-06-23_S2_Ferroelectric Tunnel Junction Memristor Crossbar Array with]]`
-- (×5) `[[2026-06-23_S2_Energy and Lifetime Optimizations for Dark Silicon Manycore]]`
-- (×5) `[[30_Outputs/论文/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式]]`
-- (×5) `[[2025年5月16号 日记]]`
-- (×5) `[[2025年9月11号 日记]]`
-- (×5) `[[30_TCC/32_Tech/]]`
-- (×5) `[[Papers — 全景导航 (Map of Content)]]`
-- (×4) `[[TCC_项目实施方案_v30_最终版.docx]]`
-- (×4) `[[拓扑中心计算范式架构研究与液态拓扑端侧MVP验证（20260702）.pptx]]`
-- (×4) `[[2026-07-03_arXiv_Structural Visibility in Dynamical Systems on Hypergraphs A]]`
-- (×4) `[[getnote_2026-06-16_getnote_2026-06-16_人类连接组拓扑结构指导皮层行波传播与频率梯度形成]]`
-- (×4) `[[n]]`
+- (×10) `[[从因果到涌现：迈向新一代人工智能_陆超超博士访谈 (1)]]`
+- (×9) `[[NICE_开启类脑智能新范式_从连接复杂度到智能涌现]]`
+- (×9) `[[getnote_2026-01-12_神经网络时空协同智能涌现]]`
+- (×9) `[[GetNote_20260606_100554_kb_DARPA-research_getnote_1896186147673664688_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态]]`
 
-- 孤儿笔记(无入链): **2057**
+- 孤儿笔记(无入链): **2505**

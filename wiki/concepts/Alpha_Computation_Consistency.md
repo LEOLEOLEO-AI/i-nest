@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
+[[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

@@ -1,0 +1,30 @@
+# TopologicalSignals
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-04
+
+## Definition
+Signals defined on nodes, edges, or higher-order simplices of a network, processed via topological signal processing to extract global invariants. Enables computation over network topology itself, aligning with TCC's goal of embedding algorithms in the structure of the interconnect.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[ChipletWaferInterconnectTopology]]
+[[Chiplet_Interconnect_Topology]]
+[[Free_Energy_Principle_Network]]
+[[GenerativeTopologyModels]]
+[[Microgrid_Optimization]]
+[[Network_Topology_Design]]
+[[Photonic_Chiplet_Interconnect]]
+[[RenormalizationGroup_ScalingLaws]]
+[[SpatiotemporalComplexityIndex]]
+[[Structural_Mismatch]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

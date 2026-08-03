@@ -21,3 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- SSOT_Metric_Definition (merged 2026-08-04)

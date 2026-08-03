@@ -20,10 +20,10 @@ date: 2026-06-06 10:05 processed: '2026-06-06T12:59:18.260044' source_file: GetN
 
 ## Related Concepts
 
-[[12]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[Scaling_Laws]]
 [[TCC]]
 [[Universal_Scaling_Laws]]
 [[智能涌现]]

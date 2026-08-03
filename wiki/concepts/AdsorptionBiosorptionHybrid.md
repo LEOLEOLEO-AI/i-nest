@@ -1,0 +1,30 @@
+# AdsorptionBiosorptionHybrid
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-04
+
+## Definition
+A dual-mechanism process combining biochar's physical adsorption with enzymatic biocatalysis to achieve synergistic pollutant removal. Mirrors hybrid routing and processing in TCC, where multiple complementary mechanisms (e.g., store-and-forward vs. in-network compute) are combined for efficiency.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[ChipletWaferInterconnectTopology]]
+[[Chiplet_Interconnect_Topology]]
+[[Free_Energy_Principle_Network]]
+[[Master_SDDE]]
+[[Microgrid_Optimization]]
+[[Photonic_Chiplet_Interconnect]]
+[[RenormalizationGroup_ScalingLaws]]
+[[SpatiotemporalComplexityIndex]]
+[[Structural_Mismatch]]
+[[iNEST_Neuromorphic_Topology]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

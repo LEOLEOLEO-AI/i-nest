@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
+[[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[MetaFAIR_ArchitectureDiscovery]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_topology_and_interconnection_patterns]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
+[[Photonic_Chiplet_Interconnect]]
 [[Renormalization_Group_Convergence]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]

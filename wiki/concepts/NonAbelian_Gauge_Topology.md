@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
+[[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

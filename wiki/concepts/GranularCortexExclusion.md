@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
+[[Photonic_Chiplet_Interconnect]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

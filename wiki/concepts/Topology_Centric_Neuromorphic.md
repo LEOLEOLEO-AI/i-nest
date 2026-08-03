@@ -1,0 +1,30 @@
+# Topology_Centric_Neuromorphic
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-04
+
+## Definition
+A design paradigm where the network topology itself is structured to mirror neural connectivity patterns, integrating topological principles with neuromorphic computing in the iNEST project. This concept unifies TCC's focus on network structure with iNEST's neural dynamics, allowing the physical interconnect layout to directly support neural computation and reduce communication overhead.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[ChipletWaferInterconnectTopology]]
+[[Free_Energy_Principle_Network]]
+[[GenerativeTopologyModels]]
+[[Microgrid_Optimization]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
+[[RenormalizationGroup_ScalingLaws]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

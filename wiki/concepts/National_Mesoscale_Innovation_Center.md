@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
+[[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
@@ -45,7 +46,9 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SmallWorldNetwork]]
 [[SpatiotemporalComplexityIndex]]
+[[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[Wafer_Scale_Integration]]
 [[iNEST]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

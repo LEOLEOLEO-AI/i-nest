@@ -1,0 +1,30 @@
+# iNEST_Packaging
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-04
+
+## Definition
+Advanced packaging techniques used to integrate neuromorphic computing elements within network switch substrates, enabling in-network neural processing. Facilitates low-latency, energy-efficient neuromorphic computation directly in the data path, a core goal of iNEST.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[BiasEvaluationMetrics]]
+[[Free_Energy_Principle_Network]]
+[[Master_SDDE]]
+[[Microgrid_Optimization]]
+[[Neuromorphic_Computing]]
+[[RenormalizationGroup_ScalingLaws]]
+[[SpatiotemporalComplexityIndex]]
+[[Spiking_neural_network_dynamics]]
+[[iNEST]]
+[[iNEST_Neuromorphic_Topology]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

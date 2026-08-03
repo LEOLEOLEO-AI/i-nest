@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetwork]]
 [[SpatiotemporalComplexityIndex]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[iNEST]]
 

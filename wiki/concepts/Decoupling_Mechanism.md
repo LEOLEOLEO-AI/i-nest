@@ -1,0 +1,30 @@
+# Decoupling_Mechanism
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-04
+
+## Definition
+A topological or computational separation that breaks the tight coupling between inference layers, allowing independent update of priors without immediate global reconfiguration. Enables modular fault isolation and reconfiguration in TCC architectures, preventing cascading failures across the interconnect fabric.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[ChipletWaferInterconnectTopology]]
+[[Chiplet_Interconnect_Topology]]
+[[FlagOS_2_0]]
+[[Free_Energy_Principle_Network]]
+[[GenerativeTopologyModels]]
+[[Network_Topology_Design]]
+[[Photonic_Chiplet_Interconnect]]
+[[RenormalizationGroup_ScalingLaws]]
+[[SpatiotemporalComplexityIndex]]
+[[Structural_Mismatch]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

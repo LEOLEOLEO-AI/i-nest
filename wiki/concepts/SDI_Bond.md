@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
+[[Photonic_Chiplet_Interconnect]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[Second_Curve_Wafer_Industry_Platform]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity_Tc]]
+[[Wafer_Scale_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

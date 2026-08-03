@@ -21,6 +21,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[ANN动力学]]
+[[ChipletWaferInterconnectTopology]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
@@ -31,6 +32,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nonlinear_Gain]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Synaptic_Plasticity]]
 [[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[TemperatureSensitivityControl]]
 [[iNEST]]

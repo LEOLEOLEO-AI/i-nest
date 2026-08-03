@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
