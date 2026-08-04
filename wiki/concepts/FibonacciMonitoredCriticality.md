@@ -16,6 +16,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
 [[EntanglementScaling]]
+[[Intelligence_Emergence]]
+[[Long_Range_Interactions]]
 [[MonitoredQuantumDynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

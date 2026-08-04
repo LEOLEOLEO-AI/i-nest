@@ -18,9 +18,12 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[In_Memory_Computing]]
 [[Memristive_Topology]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Network_on_Chip_communication_architecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

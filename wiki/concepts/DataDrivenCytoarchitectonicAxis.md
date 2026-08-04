@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BigBrainCellularAxis]]
 [[CytoarchitectonicAxis]]
 [[DataProvenanceIntegrity]]
 [[Evolutionary_Computability]]
@@ -23,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 
 ## Sources

@@ -14,13 +14,16 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BurstGatedRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Topology_Centric_Spiking]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

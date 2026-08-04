@@ -12,12 +12,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI-ML — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

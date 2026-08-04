@@ -12,14 +12,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AstrocyteInspiredRepair]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
 

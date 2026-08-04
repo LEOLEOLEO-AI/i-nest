@@ -12,11 +12,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI-ML — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Evolutionary_Computability]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Master_SDDE]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -24,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

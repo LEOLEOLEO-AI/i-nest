@@ -14,12 +14,16 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AnalogInMemoryComputing]]
+[[Analog_Computation]]
 [[Bioavailability_Enhancement]]
 [[Defense_Industrial_Base_Reshaping]]
 [[External_to_OnDie_Evolution]]
 [[GlobalInformationDominance]]
+[[SDI_Bond]]
+[[Stigmergic_RL]]
 [[Stigmergic_RL_Coordination]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[WeakStructuralConnections]]
 [[vLLM_plugin_FLSDI]]
 

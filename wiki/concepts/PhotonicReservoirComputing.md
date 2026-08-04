@@ -15,12 +15,16 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

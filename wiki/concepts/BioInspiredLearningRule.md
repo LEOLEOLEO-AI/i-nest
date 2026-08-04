@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Contested_Priors_Mechanism]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Network_Topology_Design]]
@@ -23,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
 

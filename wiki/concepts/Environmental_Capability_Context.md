@@ -15,13 +15,21 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Baseline_Draft_Status]]
 [[CST_SynergisticCoordination]]
+[[Complex_System_Theory]]
 [[DiscreteContinuous_Unification]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]
+[[NeuromorphicTransformerPipeline]]
+[[Neuromorphic_Computing]]
 [[Phase_Transition_Tail_Transition]]
+[[RTC_Primitive]]
 [[RTC_Primitive_Set]]
 [[Relapse_Resilient_Interconnect]]
 [[SpikeTimingAbstraction]]
+[[Spiking_Neural_Network]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

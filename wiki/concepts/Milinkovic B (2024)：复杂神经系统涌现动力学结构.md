@@ -21,12 +21,16 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[NCL神经计算定律详解]]
@@ -42,5 +46,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TopologyFragility]]
 [[iNEST]]
+[[涌现]]

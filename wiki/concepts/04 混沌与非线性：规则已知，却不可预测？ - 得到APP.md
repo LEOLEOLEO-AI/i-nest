@@ -20,13 +20,20 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TopologyFragility]]
 [[iNEST]]
 [[智能涌现]]
+[[涌现]]

@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Interconnect_Topology]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Interconnect_Routing]]
@@ -21,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
+[[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

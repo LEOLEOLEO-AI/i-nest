@@ -109,7 +109,8 @@ def slug_to_phrase(slug):
     return sp.strip()
 
 
-def find_links(source_name, source_text, concept_names, alias_index):
+def find_links(source_name, source_text, concept_names, alias_index,
+               phrase_re_idx=None, slug_re_idx=None):
     """Return set of concept slugs referenced by source_text."""
     found = set()
     low = source_text.lower()
@@ -126,19 +127,22 @@ def find_links(source_name, source_text, concept_names, alias_index):
         if cname in concept_names and re.search(pattern, source_text, re.IGNORECASE):
             found.add(cname)
 
-    # 3) Name-phrase matching (CamelCase slug -> human phrase)
+    # 3) Name-phrase matching (precompiled regexes + fast containment)
     for cname in concept_names:
         if cname == source_name:
             continue
-        phrase = slug_to_phrase(cname)
-        # require the phrase to be reasonably distinctive
-        if len(phrase) < 6:
+        # fast path: raw slug present as substring
+        if cname in source_text:
+            found.add(cname)
             continue
-        if re.search(r'(?i)\b' + re.escape(phrase) + r'\b', source_text):
-            found.add(cname)
-        # also match the raw slug
-        if re.search(r'(?i)\b' + re.escape(cname) + r'\b', source_text):
-            found.add(cname)
+        # phrase match via precompiled regex
+        if phrase_re_idx and cname in phrase_re_idx:
+            if phrase_re_idx[cname].search(source_text):
+                found.add(cname)
+        # fallback raw-slug regex (for edge cases like word boundaries)
+        if slug_re_idx and cname in slug_re_idx:
+            if slug_re_idx[cname].search(source_text):
+                found.add(cname)
 
     # memristor -> pick best memristor concept if multiple candidates exist
     if "memristor" in low or "忆阻" in low:
@@ -241,6 +245,17 @@ def main():
         concept_names = set(concepts.keys())
 
     # ---- Step 2: build links ----
+    # Precompile regexes for name-phrase matching (massive speedup)
+    print(f"  precompiling regexes...")
+    phrase_re_idx = {}
+    slug_re_idx = {}
+    for cname in concept_names:
+        phrase = slug_to_phrase(cname)
+        if len(phrase) >= 6:
+            phrase_re_idx[cname] = re.compile(r'(?i)\b' + re.escape(phrase) + r'\b')
+        slug_re_idx[cname] = re.compile(r'(?i)\b' + re.escape(cname) + r'\b')
+    print(f"  regexes ready: {len(phrase_re_idx)} phrases + {len(slug_re_idx)} slugs")
+
     # article texts for concept linking
     art_texts = {}
     for f in ART.glob("*.md"):
@@ -253,27 +268,50 @@ def main():
     outgoing = defaultdict(set)   # concept -> linked concepts
     art_links = {}                # article -> linked concepts
 
-    # link concepts against all concept + article texts
+    # link concepts against all concept texts
+    print(f"  linking concepts...")
     for cname, info in concepts.items():
         src = info["text"]
-        links = find_links(cname, src, concept_names, None)
+        links = find_links(cname, src, concept_names, None,
+                           phrase_re_idx=phrase_re_idx, slug_re_idx=slug_re_idx)
         outgoing[cname] = links
 
     # shared-term (co-occurrence) linking: same domain, >=2 shared vocab terms
+    print(f"  shared-term linking...")
+    inverted = defaultdict(set)
+    for c, terms in sigs.items():
+        for t in terms:
+            inverted[t].add(c)
+
     for cname in concept_names:
-        for other in concept_names:
-            if other == cname or other in outgoing[cname]:
+        cooccurs = defaultdict(int)
+        for term in sigs[cname]:
+            for other in inverted[term]:
+                if other != cname:
+                    cooccurs[other] += 1
+
+        candidates = sorted(
+            ((other, cnt) for other, cnt in cooccurs.items() if cnt >= 2),
+            key=lambda x: (-x[1], x[0])
+        )
+
+        for other, cnt in candidates:
+            if other in outgoing[cname]:
                 continue
-            # only connect within same domain (or one is Cross as bridge)
             if not (doms[cname] == doms[other] or doms[cname] == "Cross" or doms[other] == "Cross"):
                 continue
-            shared = sigs[cname] & sigs[other]
-            if len(shared) >= 2:
-                outgoing[cname].add(other)
-                if len(outgoing[cname]) >= 10:
-                    break
+            outgoing[cname].add(other)
+            if len(outgoing[cname]) >= 10:
+                break
 
-    # link articles -> concepts (alias + pattern + name phrase)
+    # Build incoming from outgoing
+    incoming = defaultdict(set)
+    for cname, links in outgoing.items():
+        for other in links:
+            incoming[other].add(cname)
+
+    # link articles -> concepts (alias + pattern + name phrase, precompiled)
+    print(f"  linking articles...")
     for aname, atext in art_texts.items():
         links = set()
         low = atext.lower()
@@ -283,15 +321,19 @@ def main():
         for p, _, cn, _ in CONCEPT_PATTERNS:
             if cn in concept_names and re.search(p, atext, re.IGNORECASE):
                 links.add(cn)
+        # fast name-phrase matching with precompiled regexes
         for cname in concept_names:
             if cname in atext:
                 links.add(cname)
                 continue
-            if re.search(r'(?i)\b' + re.escape(slug_to_phrase(cname)) + r'\b', atext):
+            if cname in phrase_re_idx and phrase_re_idx[cname].search(atext):
                 links.add(cname)
             if len(links) >= 12:
                 break
         art_links[aname] = links
+        # sync article -> concept links into incoming
+        for cname in links:
+            incoming[cname].add(aname)
 
     # ---- Step 3: write links into files ----
     linked_concepts = 0
@@ -313,14 +355,10 @@ def main():
         new_text = replace_section(t, "Related Concepts", body)
         f.write_text(new_text, encoding='utf-8')
 
-    # ---- Step 4: recompute graph + refresh index/backlinks/health ----
+    # ---- Step 4: reload & refresh index/backlinks/health ----
     concepts = load_concepts()
     concept_names = set(concepts.keys())
-    incoming = defaultdict(set)
-    for cname, info in concepts.items():
-        for other in concept_names:
-            if other != cname and other in info["text"]:
-                incoming[other].add(cname)
+    # incoming already fully built in Step 2-3
 
     orphans = [n for n in concept_names if not incoming.get(n)]
     print(f"  concepts now: {len(concept_names)} | linked: {linked_concepts} | orphans: {len(orphans)}")

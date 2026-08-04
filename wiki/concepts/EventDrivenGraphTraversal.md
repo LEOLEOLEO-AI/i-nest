@@ -12,7 +12,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[EventDataNonUniformity]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
@@ -21,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[SynapticWeightPlasticity]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

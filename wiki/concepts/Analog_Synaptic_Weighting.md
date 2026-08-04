@@ -12,11 +12,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
@@ -24,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -14,10 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP_Bond]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

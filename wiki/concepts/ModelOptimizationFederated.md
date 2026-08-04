@@ -12,15 +12,23 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Chiplet_Based_Trusted_Hardware]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenAttention]]
 [[InterChipletPHYModeling]]
 [[KnowledgeDistillation]]
 [[Memory_Wall]]
 [[PhotoIontronicSynapse]]
 [[PhysicalFirstPrinciples]]
+[[SDI_Bond]]
+[[SDI_Chiplet]]
 [[SDI_Chiplet_Interconnect]]
 [[SpikePacketCompression]]
+[[Spiking_Neural_Network]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

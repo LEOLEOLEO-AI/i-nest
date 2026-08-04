@@ -14,8 +14,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -13,14 +13,21 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[DARPA_3DHI_Roadmap]]
 [[EdgeIoTEnergyAwareness]]
 [[In_Network_Sensing]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[Photonic_Chiplet_Interconnect]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

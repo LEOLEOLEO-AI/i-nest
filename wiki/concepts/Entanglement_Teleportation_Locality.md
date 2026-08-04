@@ -12,14 +12,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Integrated_Chiplet_Stacking]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Deep_Thermalisation]]
 [[Deep_Thermalisation_Dynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

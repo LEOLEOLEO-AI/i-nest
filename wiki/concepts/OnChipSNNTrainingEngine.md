@@ -12,10 +12,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
+[[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]

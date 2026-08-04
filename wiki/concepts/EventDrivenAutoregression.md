@@ -12,14 +12,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[EventDataNonUniformity]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
+[[Synaptic_Plasticity]]
+[[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

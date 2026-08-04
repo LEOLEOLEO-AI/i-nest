@@ -14,10 +14,13 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Evolutionary_Computability]]
+[[FerroelectricMemoryCell]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Master_SDDE]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

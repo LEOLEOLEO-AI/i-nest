@@ -13,10 +13,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]

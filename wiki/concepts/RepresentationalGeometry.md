@@ -16,11 +16,15 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[NeuromorphicAuditoryFrontend]]
+[[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SDI_STDP]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
+[[Synaptic_Plasticity]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

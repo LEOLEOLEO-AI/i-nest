@@ -12,15 +12,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Soldier_Augmentation_BioCyber_Interface]]
 [[iNEST]]
 
 ## Sources

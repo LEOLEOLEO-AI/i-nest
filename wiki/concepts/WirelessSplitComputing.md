@@ -17,10 +17,14 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenTracking]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_Topology]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

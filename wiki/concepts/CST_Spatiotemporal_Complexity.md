@@ -14,9 +14,13 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]

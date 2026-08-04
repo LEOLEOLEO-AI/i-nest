@@ -13,14 +13,23 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
+[[Intelligence_Emergence]]
 [[NeuromorphicAuditoryFrontend]]
+[[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
+[[SNN]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

@@ -18,11 +18,13 @@ SDI, STDP, TCC, iNEST, 忆阻, 拓扑, 神经形态, 类脑, 芯粒
 
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]

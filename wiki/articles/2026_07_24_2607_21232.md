@@ -17,6 +17,7 @@ TCC, iNEST
 ## Related Concepts
 
 [[Driven_Criticality]]
+[[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[Self_Organized_Criticality]]
 [[TCC]]

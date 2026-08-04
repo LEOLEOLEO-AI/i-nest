@@ -13,10 +13,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[In_Memory_Computing]]
+[[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

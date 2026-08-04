@@ -12,8 +12,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveSTDP]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[KnowledgeDistillation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

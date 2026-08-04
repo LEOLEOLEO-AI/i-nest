@@ -12,15 +12,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CST_Theory_V27_FINAL]]
 [[CategoricalClosureCriterion]]
 [[Criticality_of_Natural_Languages]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[PhotoIontronicSynapse]]
 [[PhysicalReservoirTransientDynamics]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

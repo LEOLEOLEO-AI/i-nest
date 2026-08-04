@@ -14,12 +14,15 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Emergent_Intelligence_Threshold]]
+[[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[InNetworkAgentRewiring]]
 [[In_Memory_Computing]]
+[[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -13,9 +13,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

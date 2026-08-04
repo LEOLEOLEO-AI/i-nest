@@ -12,8 +12,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdversarialResilience]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
 [[MixedLabyrinthFractal]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]

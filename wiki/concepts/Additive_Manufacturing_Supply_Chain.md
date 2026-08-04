@@ -13,15 +13,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ArbitraryWavefunctionConfigurability]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[CrossbarFabricTopology]]
+[[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[Memristive_Topology]]
 [[MultiModel_Adapter_Architecture]]
+[[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[Resilient_Satellite_Mesh]]
+[[Self_Organized_Criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

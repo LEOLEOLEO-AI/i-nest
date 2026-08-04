@@ -15,13 +15,16 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

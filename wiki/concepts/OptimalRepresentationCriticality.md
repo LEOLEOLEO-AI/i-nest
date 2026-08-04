@@ -12,11 +12,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CST_Theory_V27_FINAL]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

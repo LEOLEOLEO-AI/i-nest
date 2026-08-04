@@ -12,15 +12,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BigBrainCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

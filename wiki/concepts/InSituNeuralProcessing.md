@@ -14,13 +14,17 @@ Auto-extracted concept from raw material compilation.
 
 [[CommunicationHeterogeneity]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenTracking]]
 [[In_Network_Generative_Inference]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[OpticalNeuralNetworkTopology]]
+[[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[PhotoIontronicSynapse]]
 [[ReliabilityOverheadTradeoff]]
 [[SpikePacketCompression]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

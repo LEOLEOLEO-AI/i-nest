@@ -16,12 +16,15 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

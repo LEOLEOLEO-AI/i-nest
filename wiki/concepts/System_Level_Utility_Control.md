@@ -14,9 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[DTGA]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
@@ -24,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

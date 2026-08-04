@@ -14,12 +14,17 @@ Auto-extracted concept from raw material compilation.
 
 [[CellEmergence]]
 [[Edge_Neuromorphic_Compute]]
+[[ExtrinsicAnomalousHallConductivity]]
+[[Intelligence_Emergence]]
 [[InterconnectDrivenPlacement]]
 [[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]
+[[Neuromorphic_Computing]]
 [[SelfOrganizationDynamics]]
+[[SelfOrganization]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SparseRandomNetworkSymmetryBreaking]]
+[[Spiking_Neural_Network]]
 [[TopologicalPhaseTransition]]
 [[TopologyDrivenCoordination]]
 

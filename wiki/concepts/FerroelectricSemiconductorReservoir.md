@@ -15,6 +15,8 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]
+[[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]

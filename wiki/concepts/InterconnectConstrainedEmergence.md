@@ -15,14 +15,18 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDSoW]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[ANN动力学]]
 [[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
@@ -21,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 [[MacroscopicDescriptor]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
+[[MultiplicativeGain]]
 [[Network_Topology_Design]]
+[[ScaleFreeNetwork]]
 [[ScaleFreeNetworks]]
 [[SpatiotemporalComplexityIndex]]
 [[ThermalNoiseHarnessing]]

@@ -16,11 +16,17 @@ Auto-extracted concept from raw material compilation.
 [[CounterstreamSignalPropagation]]
 [[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
+[[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]
+[[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[Spiking_Neural_Network]]
+[[TCC]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

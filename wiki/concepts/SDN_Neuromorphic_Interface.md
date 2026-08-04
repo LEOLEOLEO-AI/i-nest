@@ -12,8 +12,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BurstGatedRouting]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

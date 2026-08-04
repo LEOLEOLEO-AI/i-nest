@@ -14,13 +14,21 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Heterogeneous_Integration]]
 [[Allreduce_Latency_Probe]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[ElectronicPhotonicIntegratedCircuit]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[Photonic_Chiplet_Interconnect]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
+[[TOOLS]]
 [[iNEST]]
 
 ## Sources

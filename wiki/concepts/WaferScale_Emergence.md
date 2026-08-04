@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Master_SDDE]]

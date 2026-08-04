@@ -12,13 +12,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralCellularAutomata]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

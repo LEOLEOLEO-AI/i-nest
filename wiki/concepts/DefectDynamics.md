@@ -12,14 +12,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Brain_Connectome]]
 [[Connectome_Transfer]]
 [[Dendritic_In_Context_Learning]]
 [[Ferroelectric_Devices]]
+[[In_Context_Learning]]
+[[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[RecurrentSpikingSocialNetwork]]
 [[STDP_Learning]]
+[[STDP_Plasticity]]
 [[SelfOrganizedLearning]]
 [[SpikeTimingDependentOptimization]]
+[[Spiking_Neural_Network]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
 

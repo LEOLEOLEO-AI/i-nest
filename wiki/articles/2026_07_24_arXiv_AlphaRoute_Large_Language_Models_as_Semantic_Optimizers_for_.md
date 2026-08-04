@@ -17,6 +17,7 @@ NoC, TCC, chiplet, iNEST, 互连
 ## Related Concepts
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[TCC]]

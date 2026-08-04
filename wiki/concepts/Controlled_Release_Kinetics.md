@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Computation]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -15,12 +15,15 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
+[[Ferroelectric_ComputeInMemory]]
 [[Free_Energy_Synchronization]]
 [[In_Memory_Computing]]
+[[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[NonHermitianTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

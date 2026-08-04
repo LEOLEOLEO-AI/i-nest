@@ -14,13 +14,22 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Battlefield_AI_Deployment]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[DARPA_3DHI_Roadmap]]
 [[Hardware_Accelerated_SNN]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[Photonic_Chiplet_Interconnect]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
+[[SNN]]
 [[ScaleFreeNetwork]]
+[[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

@@ -12,16 +12,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CriticalityDrivenStateTransition]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -21,6 +21,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]
+[[STDP_Plasticity]]
+[[Self_Organized_Criticality]]
+[[SleepHomeostatCircuit]]
 [[iNEST]]
 
 ## Sources

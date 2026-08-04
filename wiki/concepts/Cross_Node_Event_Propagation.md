@@ -14,7 +14,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[CirculateFiringNeuron]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Spike_Encoding_of_fMRI]]

@@ -12,15 +12,21 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AcceleratedMaterialScreening]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 
 ## Sources

@@ -13,8 +13,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Architectural_Conditioning]]
+[[Criticality_Based_Feature_Extraction]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -22,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

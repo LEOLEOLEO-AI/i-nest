@@ -12,11 +12,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[CriticalityConstrainedPruning]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
+[[Neuronal_Avalanche_Dynamics]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

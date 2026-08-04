@@ -12,16 +12,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[SynapticWeightPlasticity]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经形态计算]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

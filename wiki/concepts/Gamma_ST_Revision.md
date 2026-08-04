@@ -14,11 +14,13 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[EdgeIoTEnergyAwareness]]
+[[Memristive_STDP]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[Temporal_Coding]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Temporal_Coding]]
+[[TwoModeStochasticOscillator]]
 [[iNEST]]
 
 ## Sources

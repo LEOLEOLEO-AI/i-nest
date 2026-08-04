@@ -12,12 +12,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CST_SynergisticCoordination]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Emergent_Computation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
@@ -25,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[TCC]]
 [[TemporalComplexity]]
 
 ## Sources

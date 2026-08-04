@@ -12,10 +12,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Agile_Resilient_Defense_Ecosystem]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

@@ -12,9 +12,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[Chiplet_Heterogeneous_Integration]]
 [[ConsciousIntegration]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

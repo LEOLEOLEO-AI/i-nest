@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[RenormalizationGroup_ScalingLaws]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]

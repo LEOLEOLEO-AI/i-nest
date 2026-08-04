@@ -12,15 +12,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SocialSkillAcquisition]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[TwoTimescaleNeuroEvolution]]
+[[VonEconomoNeuron]]
 [[iNEST]]
 
 ## Sources

@@ -12,12 +12,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Model_Routing_Protocol]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -12,9 +12,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CST计量仪]]
 [[CriticalBranching]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[NonEquilibriumComputing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]

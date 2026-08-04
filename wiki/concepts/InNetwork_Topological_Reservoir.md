@@ -12,14 +12,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Topological_Reservoir]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

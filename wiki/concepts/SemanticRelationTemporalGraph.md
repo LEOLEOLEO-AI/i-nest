@@ -15,12 +15,17 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
+[[Izhikevich_NeuronModel]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikingTopologyEvolution]]
+[[Spiking_Neural_Network]]
+[[TCC]]
 [[TwoTimescaleNeuroEvolution]]
 
 ## Sources

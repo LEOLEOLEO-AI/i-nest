@@ -12,8 +12,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
+[[Macro_System_Description]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

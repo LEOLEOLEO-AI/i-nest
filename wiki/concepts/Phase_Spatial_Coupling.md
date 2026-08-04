@@ -16,11 +16,15 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
+[[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SpikeTimingFidelity]]
+[[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

@@ -12,14 +12,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
 [[Memristive_Solutions]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

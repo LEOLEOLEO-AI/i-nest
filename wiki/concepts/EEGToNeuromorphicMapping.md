@@ -13,7 +13,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Architectural_Conditioning]]
+[[BurstGatedRouting]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
@@ -21,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

@@ -12,16 +12,21 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI-ML — 全景导航 (Map of Content)]]
+[[Chiplet_Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[Intelligence_Emergence]]
 [[MemristiveSynapse]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[ScaleFreeNetwork]]
 [[Temporal_Dynamics_Integration]]
 [[iNEST]]
 [[智能涌现]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

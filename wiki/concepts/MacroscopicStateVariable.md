@@ -13,9 +13,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CirculateFiringNeuron]]
+[[Complex_System]]
 [[Complex_System_Theory]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

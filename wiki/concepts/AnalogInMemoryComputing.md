@@ -14,9 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[EulaminateOverrepresentation]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
@@ -24,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

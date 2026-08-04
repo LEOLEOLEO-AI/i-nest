@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Chiplet_Integration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[DifferentiableRasterizationPipeline]]
@@ -21,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[NonHermitianTopology]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 
 ## Sources

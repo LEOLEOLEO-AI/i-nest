@@ -18,8 +18,10 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[SDSoW]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

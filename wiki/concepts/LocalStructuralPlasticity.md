@@ -14,10 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganizedLearning]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

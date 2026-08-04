@@ -12,8 +12,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

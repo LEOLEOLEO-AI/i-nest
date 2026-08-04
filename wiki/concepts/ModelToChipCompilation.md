@@ -19,7 +19,9 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
+[[SDI_Chip_Indicator_Change]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

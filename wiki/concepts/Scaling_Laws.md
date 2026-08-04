@@ -15,7 +15,10 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -24,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

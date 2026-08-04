@@ -12,13 +12,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Enabled_Battlefield_Autonomy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

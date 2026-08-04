@@ -13,7 +13,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalQuantumLearningRule]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

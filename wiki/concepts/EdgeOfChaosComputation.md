@@ -14,9 +14,13 @@ Auto-extracted concept from raw material compilation.
 
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
+[[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]
+[[FibonacciMonitoredCriticality]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

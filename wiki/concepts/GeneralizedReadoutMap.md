@@ -19,7 +19,9 @@ Auto-extracted concept from raw material compilation.
 [[MonitoredQuantumReservoir]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[Pipelined_Processor_Integration]]
 [[Reservoir_Computing]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

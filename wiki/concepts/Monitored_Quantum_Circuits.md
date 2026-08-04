@@ -14,14 +14,19 @@ Auto-extracted concept from raw material compilation.
 
 [[CategoricalClosureCriterion]]
 [[CollectiveStateResilience]]
+[[Critical_Exponent_Scaling]]
 [[Criticality_of_Natural_Languages]]
+[[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[Dynamical_State_Space]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NoiseRegimeTransition]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

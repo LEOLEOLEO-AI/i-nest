@@ -13,7 +13,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Dynamic_Expert_Fusion]]
+[[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

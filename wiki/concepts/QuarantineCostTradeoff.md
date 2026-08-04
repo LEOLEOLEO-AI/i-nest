@@ -14,14 +14,20 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogInMemoryComputing]]
 [[CST_SynergisticCoordination]]
+[[Complex_System_Theory]]
 [[CounterstreamSignalPropagation]]
 [[DifferentiableRasterizationPipeline]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
+[[NoC_EventRouting]]
 [[ParallelSNNArchitecture]]
 [[Resilient_Satellite_Mesh]]
 [[RobustnessThroughNoise]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

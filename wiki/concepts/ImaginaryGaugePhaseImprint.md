@@ -12,11 +12,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BurstGatedRouting]]
 [[DisorderedNetworkInterconnect]]
 [[FrozenRateOperator]]
 [[InNetworkNeuromorphicComms]]
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ReliabilityOverheadTradeoff]]
 [[ScaleFreeNetwork]]

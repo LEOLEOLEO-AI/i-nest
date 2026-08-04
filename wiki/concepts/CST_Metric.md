@@ -12,15 +12,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[ANN动力学]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
+[[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ScaleFreeNetwork]]
 [[ScaleFreeNetworks]]
 [[SpatiotemporalComplexityIndex]]
 [[ThermalNoiseHarnessing]]

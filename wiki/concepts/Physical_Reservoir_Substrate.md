@@ -13,11 +13,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

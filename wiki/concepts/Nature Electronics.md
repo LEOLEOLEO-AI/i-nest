@@ -21,4 +21,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[Synaptic_Plasticity]]
+[[TCC]]
+[[getnote_2026-01-12_数字孪生大脑工程化路径]]
+[[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
 [[iNEST]]
+[[神经网络]]

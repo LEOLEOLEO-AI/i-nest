@@ -20,5 +20,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[BigBrain3DHistology]]
+[[BrainActivityPrediction]]
 [[Brain_Connectome]]
+[[C__elegans_Connectome]]
+[[C_elegansConnectomeAnalogy]]
+[[CompleteConnectomeDynamics]]
+[[ConnectomeFidelityClaim]]
+[[TCC]]
 [[iNEST]]
+[[神经网络]]

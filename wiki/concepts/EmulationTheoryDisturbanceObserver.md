@@ -12,9 +12,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Catastrophic_Forgetting_Mitigation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Chiplet]]

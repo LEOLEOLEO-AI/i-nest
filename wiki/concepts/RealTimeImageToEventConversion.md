@@ -12,15 +12,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[HebbianLimitCycleLearning]]
+[[ImageToEventConversion]]
+[[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

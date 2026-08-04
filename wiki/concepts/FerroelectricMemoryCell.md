@@ -16,7 +16,9 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[Memristive_ANN_Hardware]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -24,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

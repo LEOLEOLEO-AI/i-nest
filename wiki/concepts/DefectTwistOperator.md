@@ -12,16 +12,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonHermitianTopology]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智能涌现]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

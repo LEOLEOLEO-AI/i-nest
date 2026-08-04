@@ -14,8 +14,10 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
@@ -23,7 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

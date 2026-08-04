@@ -14,12 +14,15 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Scaling_Laws]]
 [[Self_Organized_Criticality]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 

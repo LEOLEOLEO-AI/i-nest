@@ -12,10 +12,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Enabled_Battlefield_Autonomy]]
 [[CirculateFiringNeuron]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]

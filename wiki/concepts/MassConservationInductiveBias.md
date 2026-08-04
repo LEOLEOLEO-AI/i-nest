@@ -14,7 +14,10 @@ Auto-extracted concept from raw material compilation.
 
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
+[[Izhikevich_NeuronModel]]
 [[Memristive_Topology]]
+[[Network_Topology_Design]]
 [[NeuralCellularAutomata]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

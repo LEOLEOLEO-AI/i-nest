@@ -14,10 +14,13 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[DynamicReconfigurationForFaultTolerance]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

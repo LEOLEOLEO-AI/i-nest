@@ -15,13 +15,17 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MemoryDrivenRouting]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonHermitianTopology]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智能涌现]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

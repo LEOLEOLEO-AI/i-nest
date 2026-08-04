@@ -12,8 +12,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveAsymmetricSurrogateGradient]]
+[[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

@@ -14,13 +14,16 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Planar_Network_Generation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

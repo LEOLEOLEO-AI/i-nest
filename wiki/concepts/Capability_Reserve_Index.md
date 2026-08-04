@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_FullSpectrum_Strategy]]
+[[AdaptiveEntanglementManagement]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Memristive_Topology]]
@@ -20,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

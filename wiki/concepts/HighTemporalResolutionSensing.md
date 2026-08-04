@@ -13,14 +13,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AnisotropicGaussianPrimitives]]
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[STDP_Learning]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

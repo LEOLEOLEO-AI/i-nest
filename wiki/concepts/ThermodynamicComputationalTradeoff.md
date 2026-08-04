@@ -16,10 +16,13 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FerroelectricSemiconductorReservoir]]
+[[Intelligence_Emergence]]
 [[Nonlinear_Gain]]
 [[Quantum_Reservoir_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

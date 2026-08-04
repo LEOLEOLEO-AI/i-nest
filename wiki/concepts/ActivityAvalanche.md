@@ -12,7 +12,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Criticality_Based_Feature_Extraction]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

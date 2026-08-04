@@ -12,16 +12,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

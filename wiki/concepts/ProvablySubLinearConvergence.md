@@ -12,13 +12,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
 [[OnlinePlasticity]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

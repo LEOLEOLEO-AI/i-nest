@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
+[[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -42,8 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
@@ -51,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

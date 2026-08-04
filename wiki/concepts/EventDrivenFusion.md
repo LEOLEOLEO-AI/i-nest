@@ -16,11 +16,14 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenSpectralProcessing]]
+[[Intelligence_Emergence]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -13,7 +13,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenTracking]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

@@ -15,12 +15,17 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
+[[Fatigue_SpikePattern]]
+[[Network_Topology_Design]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
+[[Synaptic_Plasticity]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

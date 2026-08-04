@@ -16,4 +16,5 @@ title: 01 复杂系统：复杂科学在研究什么？ - 得到APP 你好，欢
 
 ## Related Concepts
 
+[[Complex_System]]
 [[Complex_System_Theory]]

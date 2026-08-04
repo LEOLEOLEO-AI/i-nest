@@ -12,16 +12,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CST_Theory_V27_FINAL]]
 [[CriticalBranching]]
 [[CriticalityConstrainedPruning]]
 [[Criticality_Avoidance_Theory]]
 [[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
 [[EdgeOfChaosComputation]]
+[[EdgeOfChaos]]
 [[Fractal_Wavefront_Scaling]]
 [[OptimalRepresentationCriticality]]
 [[OptimalRepresentation]]
 [[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

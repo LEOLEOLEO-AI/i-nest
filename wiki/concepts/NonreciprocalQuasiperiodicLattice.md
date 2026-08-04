@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_FullSpectrum_Strategy]]
+[[Accessibility_Plasticity]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]
@@ -21,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
+[[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

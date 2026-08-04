@@ -12,14 +12,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AcceleratedMaterialScreening]]
 [[Catastrophic_Forgetting]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
 

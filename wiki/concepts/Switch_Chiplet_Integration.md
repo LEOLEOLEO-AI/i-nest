@@ -17,9 +17,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyAwareStateMigration]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

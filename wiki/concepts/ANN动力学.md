@@ -25,11 +25,14 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Contested_Prior_Resolution]]
 [[DRBE_MVP_Mainchain]]
 [[DiagnosticReportFramework]]
 [[EmergentOrder]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -44,10 +47,12 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SmallWorldNetworks]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
 [[iNEST]]

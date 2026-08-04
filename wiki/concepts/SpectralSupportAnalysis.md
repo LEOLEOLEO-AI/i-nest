@@ -12,14 +12,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AlternativeBridgingModels]]
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Hardware_Accelerated_SNN]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[ScaleFreeNetwork]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Topology]]
 

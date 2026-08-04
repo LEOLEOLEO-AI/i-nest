@@ -12,9 +12,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AsynchronousEventDrivenComputation]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Trigger]]

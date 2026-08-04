@@ -14,9 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
+[[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Photonic_Chiplet_Interconnect]]
@@ -25,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

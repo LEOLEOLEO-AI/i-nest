@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Brain_Connectome]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
@@ -21,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

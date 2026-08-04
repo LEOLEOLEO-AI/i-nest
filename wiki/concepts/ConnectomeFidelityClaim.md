@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[BiasEvaluationMetrics]]
 [[Brain_Connectome]]
 [[Free_Energy_Principle_Network]]

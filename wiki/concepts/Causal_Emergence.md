@@ -14,12 +14,16 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Representation_Learning_Generalization]]
+[[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

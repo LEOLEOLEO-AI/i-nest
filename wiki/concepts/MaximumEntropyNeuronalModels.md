@@ -12,14 +12,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActivityAvalanche]]
 [[CriticalityConstrainedPruning]]
 [[Criticality_Avoidance_Theory]]
 [[Criticality_of_Natural_Languages]]
 [[DynamicalCriticality]]
 [[EdgeOfChaosComputation]]
+[[EdgeOfChaos]]
 [[MicroCriticalAgent]]
 [[Neuromorphic_Computing]]
 [[OptimalRepresentationCriticality]]
+[[OptimalRepresentation]]
 [[Self_Organized_Criticality]]
 [[iNEST]]
 

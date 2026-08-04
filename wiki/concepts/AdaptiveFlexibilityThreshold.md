@@ -12,7 +12,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BioInspiredLearningRule]]
 [[FlagOS_2_0]]
+[[FlexibilityThreshold]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Master_SDDE]]

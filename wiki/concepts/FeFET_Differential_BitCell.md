@@ -12,16 +12,23 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Heterogeneous_Integration]]
 [[GradientFreeLowRankTraining]]
+[[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[ScaleFreeNetwork]]
 [[SynapticWeightPlasticity]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
+[[忆阻器]]
 [[智能涌现]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

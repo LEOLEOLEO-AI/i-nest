@@ -14,13 +14,16 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AvalancheBranchingRatio]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
+[[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

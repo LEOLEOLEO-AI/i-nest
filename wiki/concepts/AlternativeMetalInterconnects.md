@@ -14,14 +14,23 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[Advanced_Packaging]]
+[[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Probe]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[SpikingTopologyEvolution]]
+[[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

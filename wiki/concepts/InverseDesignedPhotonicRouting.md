@@ -14,12 +14,16 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Topology]]
 [[EdgeIoTEnergyAwareness]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[SpikingTopologyEvolution]]
+[[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[Wafer_Scale_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

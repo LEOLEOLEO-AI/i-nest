@@ -14,14 +14,18 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Branch_Prediction]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Synchronization]]
+[[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
+[[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

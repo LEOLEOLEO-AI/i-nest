@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[DiscreteSTDP]]
 [[Emergent_Computation]]
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
@@ -20,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[Temporal_Coding]]
 [[iNEST]]
 

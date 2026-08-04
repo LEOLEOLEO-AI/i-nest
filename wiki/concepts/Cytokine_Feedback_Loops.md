@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateFire]]
+[[AdaptiveSTDP]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]
 [[EmulationTheoryObserver]]
@@ -22,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[Resilient_Satellite_Mesh]]
 [[STDP_Learning]]
+[[STDP_Plasticity]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

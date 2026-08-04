@@ -13,9 +13,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avalanche_Dynamics]]
+[[Avoided_Criticality]]
+[[Chiplet_Heterogeneous_Integration]]
 [[DynamicalCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

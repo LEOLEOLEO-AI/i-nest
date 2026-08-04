@@ -12,16 +12,23 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Reservoir_Topology]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[OODA_Loop_Breaking]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
+[[ShortTermMemory]]
+[[TCC]]
 [[iNEST]]
 [[智能涌现]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

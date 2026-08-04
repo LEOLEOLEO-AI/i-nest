@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[Analog_Computation]]
 [[Chain_of_Thought_Reasoning]]
+[[CrossInstitutionalNetwork]]
 [[EquivariantGraphLayers]]
 [[Free_Energy_Principle_Network]]
 [[MitigationLayers]]
@@ -22,9 +23,11 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
+[[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

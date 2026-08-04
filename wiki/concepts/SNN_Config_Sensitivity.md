@@ -12,12 +12,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BulletTrainScheduling]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[iNEST]]

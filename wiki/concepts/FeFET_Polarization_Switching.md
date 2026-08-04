@@ -15,6 +15,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]
+[[Intelligence_Emergence]]
+[[Memristive_ANN_Hardware]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

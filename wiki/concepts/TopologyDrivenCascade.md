@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Avalanche_Dynamics]]
+[[BurstGatedRouting]]
 [[Event_Driven_Architecture]]
 [[Network_Topology_Design]]
 [[Neural_Avalanche]]
@@ -22,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -16,6 +16,8 @@ Auto-extracted concept from raw material compilation.
 [[Dynamical_State_Space]]
 [[GradientFreeLowRankTraining]]
 [[HeavyTailedWaitingTimes]]
+[[MeanFieldSpinGlass]]
+[[Network_Topology_Design]]
 [[PhysicalReservoirTransientDynamics]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]

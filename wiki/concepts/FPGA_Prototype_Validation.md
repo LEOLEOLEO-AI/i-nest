@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[Attention_Residuals]]
@@ -35,15 +36,19 @@ Auto-extracted concept from raw material compilation.
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
+[[RTC_Primitive]]
 [[RTC_Primitive_Set]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
 [[TemperatureSensitivityControl]]
+[[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 
 ## Sources

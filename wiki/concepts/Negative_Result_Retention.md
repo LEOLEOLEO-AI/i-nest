@@ -12,8 +12,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BackflowTransformation]]
+[[BurstGatedRouting]]
+[[ConductingPolymerDendriteMemory]]
+[[ConstraintDrivenSelfOrganization]]
+[[Continuous_Spatiotemporal_State_Propagation]]
+[[Criticality_Based_Feature_Extraction]]
 [[Decoupling_Mechanism]]
+[[DualDrivenHybridNetwork]]
 [[EventDrivenFunctionalConnectivity]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

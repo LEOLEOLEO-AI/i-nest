@@ -12,7 +12,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BurstTemporalPlasticity]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[LocalLearningRules]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

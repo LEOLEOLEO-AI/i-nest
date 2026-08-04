@@ -14,13 +14,16 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CST_Theory_V27_FINAL]]
 [[Dynamic_Expert_Fusion]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Sleep_EEG_Criticality]]
+[[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

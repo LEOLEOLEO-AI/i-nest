@@ -15,12 +15,14 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Decoupled_Priors]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 
 ## Sources

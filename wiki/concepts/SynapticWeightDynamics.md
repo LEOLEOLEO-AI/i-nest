@@ -13,15 +13,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Emergent_Intelligence_Threshold]]
+[[Generalization_Bound_Spectra]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Reservoir_Computing]]
 [[STDP_Learning]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Synaptic_Plasticity]]
 [[Temporal_Dynamics_Integration]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
 [[智能涌现]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

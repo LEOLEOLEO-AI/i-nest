@@ -14,13 +14,17 @@ Auto-extracted concept from raw material compilation.
 
 [[CategoricalClosureCriterion]]
 [[CollectiveStateResilience]]
+[[Critical_Exponent_Scaling]]
 [[Criticality_of_Natural_Languages]]
 [[Dynamical_State_Space]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Physical_Reservoir_Substrate]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[iNEST]]
 
 ## Sources

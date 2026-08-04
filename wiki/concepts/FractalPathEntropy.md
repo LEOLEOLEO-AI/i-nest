@@ -14,8 +14,11 @@ Auto-extracted concept from raw material compilation.
 
 [[CellEmergence]]
 [[EdgeIoTEnergyAwareness]]
+[[EmergentOrder]]
 [[Emergent_Reservoir_Topology]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[NonHermitianTopology]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]

@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Assisted_Energy_Management]]
 [[AdaptiveFrequencyResonateFire]]
+[[Avoided_Criticality]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
@@ -21,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 [[MultiModel_Adapter_Architecture]]
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Self_Organized_Criticality]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

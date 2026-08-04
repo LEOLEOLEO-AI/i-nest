@@ -14,7 +14,9 @@ Auto-extracted concept from raw material compilation.
 
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[FormalToolchain]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

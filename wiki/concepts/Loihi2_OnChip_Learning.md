@@ -12,12 +12,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[STDP_Learning]]
+[[STDP_Plasticity]]
 [[SpikingTopologyEvolution]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]

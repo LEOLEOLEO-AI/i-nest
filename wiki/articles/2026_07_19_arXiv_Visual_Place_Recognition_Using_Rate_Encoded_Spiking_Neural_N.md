@@ -22,5 +22,6 @@ SNN, STDP, TCC, iNEST, neuromorphic, spiking
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

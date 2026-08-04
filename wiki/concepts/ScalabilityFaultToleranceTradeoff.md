@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Interconnect_Topology]]
 [[DiscreteContinuous_Unification]]
 [[MonitoredQuantumDynamics]]
 [[Neuromorphic_Computing]]
@@ -20,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[TwoTimescaleNeuroEvolution]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

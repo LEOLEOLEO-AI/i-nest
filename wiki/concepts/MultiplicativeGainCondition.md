@@ -15,9 +15,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[Core_Spacetime_Tensor]]
@@ -28,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
+[[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
@@ -38,8 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
@@ -48,7 +53,10 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
+[[TCC_Topology]]
 [[TCC_Topology_Interconnect]]
+[[Topology_Interconnect]]
 [[iNEST]]
 
 ## Sources

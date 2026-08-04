@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Architectural_Conditioning]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -24,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TemporalDynamicsModeling]]
 [[iNEST]]
 

@@ -12,14 +12,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Stacking]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Heterogeneous_Integration]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[TwoTimescaleNeuroEvolution]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

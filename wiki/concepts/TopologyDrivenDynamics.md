@@ -16,11 +16,13 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 
 ## Sources

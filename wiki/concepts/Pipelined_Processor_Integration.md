@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Branch_Prediction]]
+[[Memristive_Interconnect]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -22,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Pipelined_Processor]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

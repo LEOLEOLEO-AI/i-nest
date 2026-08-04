@@ -13,10 +13,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CategoricalClosureCriterion]]
+[[Critical_Exponent_Scaling]]
 [[CriticalityConstrainedPruning]]
 [[Criticality_of_Natural_Languages]]
 [[EdgeOfChaosComputation]]
+[[EdgeOfChaos]]
 [[Emergent_Reservoir_Topology]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

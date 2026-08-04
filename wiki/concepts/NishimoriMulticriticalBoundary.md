@@ -15,11 +15,13 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Boundary_Criticality]]
+[[CriticalFixedPoint]]
 [[Network_Topology_Design]]
 [[NishimoriLine]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
+[[TCC]]
 [[TwoTimescaleNeuroEvolution]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

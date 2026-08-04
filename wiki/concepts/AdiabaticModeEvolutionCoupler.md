@@ -12,16 +12,23 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[CrossbarFabricTopology]]
 [[ImmobilizationStabilityMechanism]]
+[[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[ReconfigurableSpikingRouting]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[Representation_Learning_Generalization]]
 [[Resilient_Satellite_Mesh]]
 [[SelfOrganizationDynamics]]
+[[SelfOrganization]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

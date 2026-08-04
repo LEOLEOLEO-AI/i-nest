@@ -13,10 +13,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Brain_Connectome]]
+[[DataProvenanceIntegrity]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

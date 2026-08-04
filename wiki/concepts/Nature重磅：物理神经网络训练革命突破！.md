@@ -23,10 +23,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[ANN动力学]]
 [[Analog_Computation]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
@@ -39,5 +42,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[STDP_iNEST]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[iNEST]]
+[[涌现]]
+[[神经网络]]
 [[自动微分•自组织生长_ 打造新一代的自组织生长模型]]

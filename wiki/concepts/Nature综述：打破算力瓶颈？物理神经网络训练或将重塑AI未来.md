@@ -25,10 +25,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[CST_Intelligence_Emergence]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
 [[FPGA_Prototype_Validation]]
@@ -36,6 +39,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[MultiplicativeGainCondition]]
+[[MultiplicativeGain]]
+[[Nature重磅：物理神经网络训练革命突破！]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
@@ -45,6 +50,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
@@ -53,4 +59,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
 [[iNEST]]
+[[神经网络]]

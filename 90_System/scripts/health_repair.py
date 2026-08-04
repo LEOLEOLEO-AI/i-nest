@@ -16,10 +16,8 @@ EXCLUDE = [
     ".obsidian", ".claude", ".claudian", ".trash", ".venv",
     ".neural_db", ".neural_memory", ".openclaw", ".tasks",
     "__pycache__", "node_modules", "scripts", "state",
-    "99_Attachments", "99_Templates", "99_Journal",
-    "collective_comm_naas", "fpga", "knowledge_graph",
-    "results", "dashboard", "_archive", "_archive_02_Zettelkasten",
-    "logs", "90_System"
+    "90_System", "80_Archive", "50_Output", "99_Meta",
+    "knowledge_graph", "raw", "logs", "wiki", "_external",
 ]
 
 # MOC page templates
@@ -54,7 +52,7 @@ tags: [iNEST, MOC, index]
 - [44_Projects](44_Projects/) — 项目申报与策划
 """,
 
-    "00_MOC/TCC-MOC.md": """---
+    "60_MOC/TCC-MOC.md": """---
 title: "TCC — 全景导航 (Map of Content)"
 date: {date}
 type: MOC
@@ -96,7 +94,7 @@ tags: [TCC, MOC, navigation]
 - Chiplet 互连体系
 """,
 
-    "10_Library/Paper_Library.md": """---
+    "10_Knowledge/Paper_Library.md": """---
 title: "论文库 — 主索引"
 date: {date}
 type: MOC
@@ -111,7 +109,7 @@ tags: [papers, library, index]
 - [Web-Clips](Web-Clips/) — 网页剪藏
 """,
 
-    "20_Ideas/Idea_Garden.md": """---
+    "20_Processing/Idea_Garden.md": """---
 title: "灵感花园 — 主索引"
 date: {date}
 type: MOC
@@ -267,7 +265,7 @@ tags: [iNEST, SOC, criticality, emergence]
 """
     },
     "神经网络": {
-        "path": "03_Topics/AI-ML/神经网络.md",
+        "path": "10_Knowledge/神经网络.md",
         "content": """---
 title: "神经网络"
 date: {date}
@@ -288,7 +286,7 @@ tags: [AI, neural-network, concept]
 """
     },
     "神经形态计算": {
-        "path": "03_Topics/AI-ML/神经形态计算.md",
+        "path": "10_Knowledge/神经形态计算.md",
         "content": """---
 title: "神经形态计算"
 date: {date}
@@ -312,7 +310,7 @@ tags: [neuromorphic, SNN, computing]
 """
     },
     "ANN动力学": {
-        "path": "03_Topics/AI-ML/ANN动力学.md",
+        "path": "10_Knowledge/ANN动力学.md",
         "content": """---
 title: "ANN 动力学"
 date: {date}
@@ -359,7 +357,7 @@ CST = (Sc * Tc) * exp(alpha * Gamma_st)
 """
     },
     "Google Scholar": {
-        "path": "00_MOC/Google_Scholar.md",
+        "path": "60_MOC/Google_Scholar.md",
         "content": """---
 title: "Google Scholar — 检索记录"
 date: {date}
@@ -373,7 +371,7 @@ tags: [search, literature]
 """
     },
     "DOI": {
-        "path": "00_MOC/DOI.md",
+        "path": "60_MOC/DOI.md",
         "content": """---
 title: "DOI 索引"
 date: {date}
@@ -387,7 +385,7 @@ tags: [DOI, reference, index]
 """
     },
     "PubMed": {
-        "path": "00_MOC/PubMed.md",
+        "path": "60_MOC/PubMed.md",
         "content": """---
 title: "PubMed — 检索记录"
 date: {date}
@@ -453,8 +451,8 @@ def cleanup_tiny():
                 # Skip if it"s in MOC_TEMPLATES (already handled)
                 if rel in MOC_TEMPLATES:
                     continue
-                # Move to _archive/tiny_cleanup
-                archive_dir = VAULT / "_archive" / "tiny_cleanup" / str(Path(rel).parent)
+                # Move to 80_Archive/tiny_cleanup
+                archive_dir = VAULT / "80_Archive" / "tiny_cleanup" / str(Path(rel).parent)
                 archive_dir.mkdir(parents=True, exist_ok=True)
                 dest = archive_dir / md.name
                 shutil.move(str(md), str(dest))
@@ -494,7 +492,7 @@ def handle_duplicates():
         keeper = group[0]
 
         for dup in group[1:]:
-            archive_dir = VAULT / "_archive" / "dedup" / str(Path(dup["rel"]).parent)
+            archive_dir = VAULT / "80_Archive" / "dedup" / str(Path(dup["rel"]).parent)
             archive_dir.mkdir(parents=True, exist_ok=True)
             dest = archive_dir / Path(dup["rel"]).name
             try:
@@ -539,9 +537,11 @@ def link_orphans():
                 moc_map = {
                     "30_TCC": "TCC_Master_Index",
                     "40_iNEST": "iNEST_Master_Index",
-                    "00_Inbox": "00_MOC",
-                    "10_Library": "Paper_Library",
-                    "20_Ideas": "Idea_Garden",
+                    "00_Inbox": "Home",
+                    "10_Knowledge": "Home",
+                    "20_Processing": "Home",
+                    "50_Output": "Home",
+                    "60_MOC": "Home",
                 }
 
                 # Only handle Inbox orphans (non-Inbox might be intentional)

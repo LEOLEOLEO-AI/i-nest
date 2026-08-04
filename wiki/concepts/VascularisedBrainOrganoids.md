@@ -14,8 +14,11 @@ Auto-extracted concept from raw material compilation.
 
 [[Avalanche_Dynamics]]
 [[CriticalityConstrainedPruning]]
+[[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[NeuronalAvalanche]]
 [[Neuronal_Avalanche_Dynamics]]
 [[Reservoir_Computing]]

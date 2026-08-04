@@ -12,13 +12,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
 [[Hypersonic_Weapon_Market_CAGR]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[Swarm_Coordination]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -12,14 +12,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Entropy_Connectivity_Path]]
 [[LeftRightAsymmetry]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
+[[RepresentationalAlignment]]
 [[SexBasedConnectomeDifferences]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
+[[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[iNEST]]
 

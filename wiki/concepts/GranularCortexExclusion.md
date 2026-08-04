@@ -18,7 +18,9 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Allreduce_Latency_MVP]]
 [[Alpha_Computation_Consistency]]
+[[Analog_Weight_Storage]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
@@ -46,10 +49,13 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[StandardizedParameterSpace]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
 [[TemperatureSensitivityControl]]
+[[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

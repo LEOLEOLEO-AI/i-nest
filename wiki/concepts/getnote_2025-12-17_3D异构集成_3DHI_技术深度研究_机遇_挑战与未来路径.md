@@ -25,13 +25,21 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[iNEST]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]

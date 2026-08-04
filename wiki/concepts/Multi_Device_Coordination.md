@@ -12,15 +12,21 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
+[[DARPA_ERI]]
 [[DARPA_ERI_2_0_Framework]]
+[[ERI_2_0_Framework]]
+[[ElectronicPhotonicIntegratedCircuit]]
 [[Hardware_Accelerated_SNN]]
 [[MultiModel_Adapter_Architecture]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

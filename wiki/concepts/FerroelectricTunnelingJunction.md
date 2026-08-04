@@ -16,12 +16,15 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Behavior]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[iNEST]]
+[[待分类]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

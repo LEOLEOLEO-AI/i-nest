@@ -15,10 +15,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[DRBE_MVP_Mainchain]]
 [[Decoupled_Priors]]
@@ -39,8 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
+[[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -50,8 +54,10 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[ThermalNoiseHarnessing]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -12,13 +12,23 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BackflowTransformation]]
 [[EventDrivenFunctionalConnectivity]]
 [[Fluidic_Hysterons]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Nonreciprocity_Threshold]]
 [[Recurrent_Feedback_Error_Propagation]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Regulation]]
+[[SNN]]
 [[SNN_STDP_CoDesign]]
+[[STDP_Plasticity]]
 [[STDP_Topology_Integration]]
+[[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
+[[TCC]]
 [[TopologyInducedCriticality]]
 [[UniversalIntelligence_Emergence]]
 [[ViewDependentAppearance]]

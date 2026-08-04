@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[MobilityEdge]]
 [[NonreciprocalQuasiperiodicLattice]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

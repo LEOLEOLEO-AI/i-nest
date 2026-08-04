@@ -12,7 +12,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[GradientReconstruction]]
 [[LocalLearningRules]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

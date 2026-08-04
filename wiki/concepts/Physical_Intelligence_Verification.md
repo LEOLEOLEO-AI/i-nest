@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AutonomousAdaptation]]
 [[BiasEvaluationMetrics]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

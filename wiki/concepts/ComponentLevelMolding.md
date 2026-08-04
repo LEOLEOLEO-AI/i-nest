@@ -14,14 +14,23 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[Allreduce_Latency_Probe]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[Chiplet_based_heterogeneous_integration]]
+[[DARPA_ERI]]
 [[DARPA_ERI_2_0_Framework]]
+[[ERI_2_0_Framework]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[Photonic_Chiplet_Interconnect]]
+[[RTC_Primitive]]
 [[RTC_Primitive_Set]]
+[[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -13,6 +13,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Emergent_Intelligence_Threshold]]
+[[FatigueSTDP]]
+[[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

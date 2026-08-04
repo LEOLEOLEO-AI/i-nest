@@ -12,13 +12,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Cryogenic_Syndrome_Compression]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_Topology]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[OptimalRepresentation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

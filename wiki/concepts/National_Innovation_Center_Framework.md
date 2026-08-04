@@ -12,15 +12,23 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
+[[DARPA_3DHI_Roadmap]]
+[[DARPA_ERI]]
 [[DARPA_ERI_2_0_Framework]]
+[[ERI_2_0_Framework]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
+[[Spiking_Neural_Network]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

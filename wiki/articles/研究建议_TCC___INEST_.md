@@ -17,7 +17,9 @@ TCC, chiplet, iNEST, wafer, 互连, 拓扑
 ## Related Concepts
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

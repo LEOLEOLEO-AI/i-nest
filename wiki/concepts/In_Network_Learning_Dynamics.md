@@ -12,10 +12,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]

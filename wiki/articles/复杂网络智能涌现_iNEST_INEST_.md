@@ -17,6 +17,7 @@ iNEST
 ## Related Concepts
 
 [[CST_Intelligence_Emergence]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[iNEST]]

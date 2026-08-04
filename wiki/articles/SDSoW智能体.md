@@ -21,6 +21,7 @@ wafer, 类脑
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[复杂网络]]
 [[智能涌现]]

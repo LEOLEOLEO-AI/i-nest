@@ -14,8 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Avalanche_Dynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
+[[Izhikevich_NeuronModel]]
 [[Network_Topology_Design]]
+[[Neural_Avalanche]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

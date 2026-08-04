@@ -14,10 +14,13 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Interconnect_Topology]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[TCC]]
 [[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]

@@ -14,14 +14,20 @@ Auto-extracted concept from raw material compilation.
 
 [[CellEmergence]]
 [[Event_Driven_Orbital_Object_Pipeline]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[NeuromorphicSpikingTopology]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[QuantumChaos]]
 [[STDP_Learning]]
+[[STDP_Plasticity]]
+[[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Mamba_Block]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

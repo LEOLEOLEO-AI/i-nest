@@ -13,15 +13,22 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ArbitraryWavefunctionConfigurability]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Monolithic_CoIntegration]]
+[[Intelligence_Emergence]]
 [[LossSpikePhenomenon]]
+[[Network_Topology_Design]]
 [[OODA_Loop_Breaking]]
 [[Photonic_Chiplet_Interconnect]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[Reservoir_Computing]]
+[[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
+[[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

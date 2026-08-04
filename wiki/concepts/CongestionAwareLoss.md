@@ -13,10 +13,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chip_Floorplanning]]
+[[Communication_Trace_Diagnostics]]
 [[DifferentiablePlacement]]
+[[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[PinAssignmentOptimization]]
+[[ReconfigurableSpikingRouting]]
 [[RoutabilityDrivenFloorplanning]]
+[[TCC]]
+[[神经形态计算]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

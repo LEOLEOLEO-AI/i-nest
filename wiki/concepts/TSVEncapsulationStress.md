@@ -15,13 +15,20 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[AnalogInMemoryComputing]]
 [[CST_SynergisticCoordination]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
+[[Complex_System_Theory]]
 [[EMIB_Bridge]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[LossSpikePhenomenon]]
 [[Photonic_Chiplet_Interconnect]]
 [[Relapse_Resilient_Interconnect]]
+[[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[WaferScaleSubstrate]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

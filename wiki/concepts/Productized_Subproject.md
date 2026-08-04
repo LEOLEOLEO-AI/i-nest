@@ -14,7 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-*(no related concepts yet)*
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

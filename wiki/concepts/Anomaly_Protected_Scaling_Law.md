@@ -13,6 +13,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AvalancheBranchingRatio]]
+[[BranchingRatio]]
+[[CriticalityDrivenAdaptation]]
 [[CriticalityDrivenTopology]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality_Induced_Plasticity]]
@@ -21,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OptimalRepresentation]]
 [[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
+[[TCC]]
 [[Topological_Criticality]]
 
 ## Sources

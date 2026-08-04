@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BiasEvaluationMetrics]]
+[[Complex_Network_Class_Brain_Computing]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
@@ -23,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
 

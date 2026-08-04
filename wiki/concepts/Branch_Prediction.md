@@ -15,13 +15,20 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[DifferentiableRasterizationPipeline]]
 [[Hypersonic_Weapon_Market_CAGR]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[ParallelSNNArchitecture]]
 [[Pipelined_Processor]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
+[[新型计算]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -14,13 +14,18 @@ Auto-extracted concept from raw material compilation.
 
 [[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CounterstreamSignalPropagation]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SDSoW_Strategic_Planning]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

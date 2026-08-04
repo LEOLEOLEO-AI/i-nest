@@ -13,15 +13,21 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ArbitraryWavefunctionConfigurability]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Reservoir_Topology]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[PrecisionConfigurableSparseNvCIM]]
+[[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[iNEST]]
 [[智能涌现]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

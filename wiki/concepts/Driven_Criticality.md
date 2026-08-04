@@ -14,10 +14,13 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[DrivenCriticalityDynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[UniversalComputation]]
 [[iNEST]]

@@ -5,9 +5,10 @@
 - 解释器：**必须用系统 Python 3.10**
   `C:/Users/LEO/AppData/Local/Programs/Python/Python310/python.exe 90_System/scripts/self_evolve.py`
   （bash 中无 `python3`/`python` 命令；脚本内部用 `sys.executable` 派生子进程，解释器需一致）
-- 典型耗时约 2-5 分钟（wiki_compiler 偶有超时 300s，不影响后续步骤）。
+- 典型耗时约 2-5 分钟（wiki_compiler 超时已提至 3600s，大积压不再误超时）。
 - 脚本自带超时与失败隔离，单步失败不影响其余；**不要重试或做破坏性操作**。
-- git push 偶发 non-fast-forward（远端有 arxiv-auto 等自动提交）：`git pull github main --no-rebase` 再 push 即可，属标准操作。
+- git push 已内置 non-fast-forward 自动恢复（pull --no-rebase 后重推）。
+- **wiki_grow 性能注意**：概念数 3000+ 时 O(n²) 共现链接耗时约 30 分钟。如积压大，建议先跑 compile 再单独跑 grow。
 
 ## 已知常态现象（非故障，勿误报）
 - `99_Meta/self_evolve_log.json` 在 git 提交之后才写入，故每次跑完必残留 1 个未提交改动，下一轮自动带走。
@@ -39,3 +40,13 @@
   - git：提交 3352 文件（+66074/-1240），push github main 成功
 - **经验**：734 篇积压致 wiki_compiler 远超 300s 超时；后续应考虑提高 self_evolve.py 中 compile 步骤超时或分批处理
 - 待办观察：积压已清零，下轮 compile 应恢复正常增量模式
+
+### 2026-08-04（下午迭代修订）
+- **self_evolve.py 三处修订**：
+  1. compile 超时 300s → 3600s
+  2. `git add -A` → 精确目录列表（避免吞入 AI 工具残留）
+  3. git push 增加 non-fast-forward 自动恢复
+- **camelCase 别名修复**：1258 个概念文件添加 camelCase 别名，修复系统性命名不一致断链
+- **wiki_grow 重新运行**：3005 概念，2974 已链接（98.9%），合并 20 个重复概念，耗时 31 分钟
+- **断链分类诊断**：other 2241 + GetNote_long 561 + date 42 = 总计 2845
+- **待办**：wiki_grow.py O(n²) 性能优化（倒排索引）；health_repair.py 引用旧目录结构需更新

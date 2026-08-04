@@ -20,7 +20,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]
+[[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

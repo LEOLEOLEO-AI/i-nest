@@ -13,15 +13,23 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Battlefield_AI_Deployment]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Electronic_Neuron_Circuit]]
 [[Hardware_Accelerated_SNN]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[PVT_Sensing]]
+[[SNN]]
 [[STDP_Learning]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SpikingTopologyEvolution]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 [[智能涌现]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AcademicDevelopmentCoCreation]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
@@ -20,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]
+[[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -16,6 +16,7 @@ SDI, TCC, iNEST, topology, 拓扑, 晶圆
 
 ## Related Concepts
 
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

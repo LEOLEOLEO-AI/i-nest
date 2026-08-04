@@ -14,13 +14,17 @@ Auto-extracted concept from raw material compilation.
 
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[Fixed_Term_Project_Structure]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

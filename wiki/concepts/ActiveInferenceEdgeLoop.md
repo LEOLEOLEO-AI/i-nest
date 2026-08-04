@@ -13,6 +13,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Battlefield_AI_Deployment]]
+[[Chiplet_Heterogeneous_Integration]]
+[[DARPA_Manufacturing_Strategy]]
 [[FreeEnergyMinimization]]
 [[Hardware_Accelerated_SNN]]
 [[Microfluidic_Worm_Trap_Array]]
@@ -20,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[ScaleFreeNetwork]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

@@ -16,11 +16,18 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Hardware_Accelerated_SNN]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[STDP_Learning]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
+[[Spiking_Neural_Network]]
+[[iNEST]]
 [[iNEST_Topology]]
 
 ## Sources

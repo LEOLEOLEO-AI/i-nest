@@ -12,16 +12,25 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[DifferentiableRasterizationPipeline]]
 [[Emergent_Reservoir_Topology]]
+[[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[NonHermitianTopology]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

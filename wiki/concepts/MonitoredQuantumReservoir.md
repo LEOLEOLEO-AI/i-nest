@@ -12,15 +12,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnalogDomainCompression]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CategoricalClosureCriterion]]
 [[Criticality_of_Natural_Languages]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[PhysicalReservoirTransientDynamics]]
 [[Quantum_Reservoir_Computing]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

@@ -12,14 +12,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveDensityControl]]
 [[BioInspired_Interception_Control]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]
 [[Ising_Formulation]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[Resilient_Satellite_Mesh]]
+[[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[TopologyAwareNeuralInterface]]
 

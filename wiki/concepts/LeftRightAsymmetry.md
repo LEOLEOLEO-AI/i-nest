@@ -17,10 +17,14 @@ Auto-extracted concept from raw material compilation.
 [[FormalLinguisticCompetence]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[ScaleFreeNetwork]]
+[[Sleep_EEG_Criticality]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

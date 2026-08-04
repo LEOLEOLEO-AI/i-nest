@@ -12,18 +12,21 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
 

@@ -19,8 +19,10 @@ Auto-extracted concept from raw material compilation.
 [[LossSpikePhenomenon]]
 [[OODA_Loop_Breaking]]
 [[PrecisionConfigurableSparseNvCIM]]
+[[SNN_Neuroimaging_Bridge]]
 [[Self_Organized_Criticality]]
 [[Spiking_Mamba_Block]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources
