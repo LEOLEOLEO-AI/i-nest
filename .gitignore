@@ -76,7 +76,11 @@ MEMORY.md.backup_*
 # Local neural memory config (contains API key, local-only)
 .neural_memory/
 
-# AI 工具本地残留：仅本机运行时状态，体积大且无版本价值
+# 临时诊断/调试脚本（运行时生成，不提交）
+90_System/scripts/_diag_*.py
+90_System/scripts/_test_*.py
+90_System/scripts/_tmp_*.py
+
 # (.claudian-plus/retrieval/index.json 曾达 268MB，触发 GitHub 100MB 硬限制)
 .claudian/
 .claudian-plus/

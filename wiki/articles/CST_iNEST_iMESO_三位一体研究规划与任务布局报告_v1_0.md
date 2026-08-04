@@ -12,19 +12,3 @@ SDI, TCC, iNEST, topology, 互连, 封装, 忆阻, 拓扑, 晶圆
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Complex_System]]
-[[Complex_System_Theory]]
-[[Intelligence_Emergence]]
-[[Memristor_Synapse]]
-[[Network_Topology_Design]]
-[[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]
-[[忆阻器]]
-[[智能涌现]]
-[[涌现]]

@@ -70,7 +70,7 @@ def step_compile_if_new():
 
 def step_grow():
     log("运行 wiki_grow 交叉链接/去重...")
-    rc, out = run_script("wiki_grow.py", timeout=300)
+    rc, out = run_script("wiki_grow.py", timeout=600)
     log(f"wiki_grow 退出码={rc} | {out[-300:]}")
     return rc == 0
 
@@ -345,8 +345,10 @@ def step_git():
         add_dirs = ["wiki/", "60_MOC/", "70_Dashboard/", "99_Meta/", "state/",
                     "Home.md", "00_Inbox/", "logs/", "30_TCC/", "40_iNEST/",
                     "50_Output/", "80_Archive/", "raw/", "knowledge_graph/"]
-        subprocess.run(["git", "add", "--"] + add_dirs, cwd=str(VAULT), check=True,
-                       capture_output=True, text=True, encoding="utf-8", errors="ignore")
+        r = subprocess.run(["git", "add", "--"] + add_dirs, cwd=str(VAULT),
+                           capture_output=True, text=True, encoding="utf-8", errors="ignore")
+        if r.returncode != 0:
+            log(f"git add 部分目录无匹配(正常): {r.stderr[:100]}")
         subprocess.run(["git", "commit", "-q", "-m", msg], cwd=str(VAULT), check=True,
                        capture_output=True, text=True, encoding="utf-8", errors="ignore")
         log(f"已提交 {n} 个文件。")

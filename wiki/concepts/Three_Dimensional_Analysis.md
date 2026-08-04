@@ -36,4 +36,4 @@ Auto-extracted concept from raw material compilation.
 - *(Explore connections to other concepts)*
 
 ## Merged From
-- ThreeDimensional_Analysis (merged 2026-08-04)
+- Three_Dimensional_Analysis (merged 2026-08-04)
