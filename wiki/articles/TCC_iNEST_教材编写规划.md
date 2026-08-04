@@ -12,14 +12,3 @@ SDI, TCC, chiplet, iNEST, interconnect, neuromorphic, topology, wafer, 互连, �
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Chiplet_Heterogeneous_Integration]]
-[[Network_Topology_Design]]
-[[Neuromorphic_Computing]]
-[[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]

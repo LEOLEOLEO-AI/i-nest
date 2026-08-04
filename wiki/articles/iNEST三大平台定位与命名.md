@@ -12,14 +12,3 @@ NoC, chiplet, iNEST, wafer, 拓扑, 晶圆, 芯粒
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Chiplet_Heterogeneous_Integration]]
-[[Heterogeneous_Integration]]
-[[Network_Topology_Design]]
-[[Network_on_Chip]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]

@@ -12,10 +12,3 @@ TCC, topology
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Network_Topology_Design]]
-[[Network_on_Chip]]
-[[TCC]]

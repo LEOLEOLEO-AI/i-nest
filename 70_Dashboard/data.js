@@ -1,36 +1,36 @@
 window.VAULT_DATA = {
-  "updated": "2026-08-04 07:15",
+  "updated": "2026-08-04 08:27",
   "snapshot": {
-    "total_md": 6367,
+    "total_md": 8799,
     "tcc": 1872,
     "inest": 1426,
-    "inbox": 144,
+    "inbox": 150,
     "processing": 567,
     "output": 456,
-    "git_uncommitted": 564
+    "git_uncommitted": 2508
   },
   "wiki": {
-    "tcc": 155,
-    "inest": 86,
-    "cross": 146,
-    "total": 387
+    "tcc": 530,
+    "inest": 898,
+    "cross": 913,
+    "total": 2341
   },
-  "articles": 67,
+  "articles": 538,
   "bridges": [
     {
+      "name": "SDI_Plastic_Interconnect",
+      "strength": "195",
+      "insight": "SDI's software-defined interconnect could implement plastic (reconfigurable) network topologies inspired by synaptic plasticity."
+    },
+    {
       "name": "Chiplet_Heterogeneous_Neuromorphic",
-      "strength": "80",
+      "strength": "180",
       "insight": "Chiplet-based heterogeneous integration enables combining CMOS logic with memristor crossbar arrays for neuromorphic acceleration."
     },
     {
-      "name": "WaferScale_Neuromorphic",
-      "strength": "79",
-      "insight": "Wafer-scale integration could enable massive-scale neuromorphic chips with millions of neurons on a single die."
-    },
-    {
-      "name": "SDI_Plastic_Interconnect",
-      "strength": "53",
-      "insight": "SDI's software-defined interconnect could implement plastic (reconfigurable) network topologies inspired by synaptic plasticity."
+      "name": "NoC_Spiking_Routing",
+      "strength": "162",
+      "insight": "NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude."
     }
   ],
   "hypotheses": [
@@ -60,12 +60,6 @@ window.VAULT_DATA = {
     }
   ],
   "trend": [
-    {
-      "date": "2026-08-01",
-      "broken": 2005,
-      "orphan": 2120,
-      "missing_fm": 1274
-    },
     {
       "date": "2026-08-01",
       "broken": 2010,
@@ -119,6 +113,12 @@ window.VAULT_DATA = {
       "broken": 1339,
       "orphan": 2057,
       "missing_fm": 38
+    },
+    {
+      "date": "2026-08-04",
+      "broken": 2441,
+      "orphan": 2505,
+      "missing_fm": 355
     }
   ],
   "tasks": [

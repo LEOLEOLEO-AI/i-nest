@@ -247,7 +247,47 @@
       "file": "00_Inbox\\_pipeline_insights\\2026-08-01_arXiv_Anisotropic Tensile Strength and Fracture Mechanism of $θ$-T.md",
       "discovered": "2026-08-01",
       "status": "pending_review"
+    },
+    {
+      "title": "PROPEL: A Memory-Driven, Adaptive Vector-Flow-Field Router with Process-Aware Waveguide Generation for Large-Scale Photonic Integrated Circuits",
+      "url": "http://arxiv.org/abs/2607.29543v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-04_arXiv_PROPEL A Memory-Driven, Adaptive Vector-Flow-Field Router wi.md",
+      "discovered": "2026-08-04",
+      "status": "pending_review"
+    },
+    {
+      "title": "Parameter-Efficient Fine-Tuning for Spiking Point Cloud Models",
+      "url": "http://arxiv.org/abs/2607.29048v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-04_arXiv_Parameter-Efficient Fine-Tuning for Spiking Point Cloud Mode.md",
+      "discovered": "2026-08-04",
+      "status": "pending_review"
+    },
+    {
+      "title": "Fisher-Orthogonal Memory in Quantum Reservoir Computing",
+      "url": "http://arxiv.org/abs/2607.29219v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-04_arXiv_Fisher-Orthogonal Memory in Quantum Reservoir Computing.md",
+      "discovered": "2026-08-04",
+      "status": "pending_review"
+    },
+    {
+      "title": "Entropy production of active matter systems as indicator for computing performance",
+      "url": "http://arxiv.org/abs/2607.29434v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-04_arXiv_Entropy production of active matter systems as indicator for.md",
+      "discovered": "2026-08-04",
+      "status": "pending_review"
+    },
+    {
+      "title": "CENDRe: Concept Extraction with Natural Domain Representations",
+      "url": "http://arxiv.org/abs/2607.29621v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-04_arXiv_CENDRe Concept Extraction with Natural Domain Representation.md",
+      "discovered": "2026-08-04",
+      "status": "pending_review"
     }
   ],
-  "last_updated": "2026-08-01T09:27:46.684935"
+  "last_updated": "2026-08-04T08:27:11.325602"
 }

@@ -12,9 +12,3 @@ title: "A Survey on Medical Large Language Models: Technology, Application, Trus
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Intelligence_Emergence]]
-[[Medical_Large_Language_Models]]

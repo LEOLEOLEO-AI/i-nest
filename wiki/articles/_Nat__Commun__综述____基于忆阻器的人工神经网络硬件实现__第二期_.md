@@ -12,11 +12,3 @@ TCC, 忆阻
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Memristor_Synapse]]
-[[TCC]]
-[[忆阻器]]
-[[神经网络]]

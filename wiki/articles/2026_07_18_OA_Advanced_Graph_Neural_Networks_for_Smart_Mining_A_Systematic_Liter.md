@@ -12,8 +12,3 @@ title: "Advanced Graph Neural Networks for Smart Mining: A Systematic Literature
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Network_Topology_Design]]

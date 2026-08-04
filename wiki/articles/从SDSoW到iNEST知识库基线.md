@@ -12,15 +12,3 @@ SDI, TCC, iNEST, topology, 拓扑, 晶圆
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Complex_System_Theory]]
-[[Network_Topology_Design]]
-[[SDI_Bond]]
-[[SDSoW]]
-[[SDSoW_Architecture]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]

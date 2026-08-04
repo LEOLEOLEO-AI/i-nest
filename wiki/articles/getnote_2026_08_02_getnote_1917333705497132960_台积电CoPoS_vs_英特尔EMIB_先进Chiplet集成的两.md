@@ -12,12 +12,3 @@ SDI, chiplet, iNEST, interconnect, 互连, 封装, 晶圆
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Chiplet_Heterogeneous_Integration]]
-[[SDI_Bond]]
-[[TCC]]
-[[Wafer_Scale_Integration]]
-[[iNEST]]

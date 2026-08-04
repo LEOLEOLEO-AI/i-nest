@@ -1,0 +1,14 @@
+# iNEST arXiv 日报 — 2026-07-11
+
+**Domain**: iNEST
+**Source**: 20_Processing\20_KnowledgeBase\arxiv-auto\2026-07-11-arxiv-daily.md
+**Compiled**: 2026-08-04
+
+## Summary
+> 追踪方向：SOC · 神经形态计算 · 连接组 · 神经雪崩 · 小世界网络 · 拓扑临界 存储路径：`literature/pdf/2026-07-11/` **✅ 0 篇下载成功，❌ 0 篇失败**
+
+## Keywords
+iNEST, 拓扑, 神经形态
+
+---
+*Auto-compiled by wiki_compiler.py*

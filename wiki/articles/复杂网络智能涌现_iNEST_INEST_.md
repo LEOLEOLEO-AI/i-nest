@@ -12,14 +12,3 @@ iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[CST_Intelligence_Emergence]]
-[[Complex_System_Theory]]
-[[Intelligence_Emergence]]
-[[iNEST]]
-[[复杂网络]]
-[[智能涌现]]
-[[涌现]]

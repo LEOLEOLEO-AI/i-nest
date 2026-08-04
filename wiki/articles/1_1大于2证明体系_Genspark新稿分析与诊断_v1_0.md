@@ -12,13 +12,3 @@ NoC, SDI, TCC, iNEST, topology, 互连, 拓扑
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Network_Topology_Design]]
-[[Network_on_Chip]]
-[[Nonlinear_Gain]]
-[[SDI_Bond]]
-[[TCC]]
-[[iNEST]]

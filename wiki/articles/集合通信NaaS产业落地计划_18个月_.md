@@ -12,11 +12,3 @@ SDI, TCC, chiplet, 互连, 拓扑, 芯粒
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Chiplet_Heterogeneous_Integration]]
-[[Network_Topology_Design]]
-[[SDI_Bond]]
-[[TCC]]

@@ -12,16 +12,3 @@ TCC, chiplet, iNEST, wafer, 互连, 拓扑
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Chiplet_Heterogeneous_Integration]]
-[[Complex_System_Theory]]
-[[Intelligence_Emergence]]
-[[Network_Topology_Design]]
-[[TCC]]
-[[iNEST]]
-[[复杂网络]]
-[[智能涌现]]
-[[涌现]]

@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-08-03
-date: 2026-08-03
+title: iNEST+TCC Research Brief - 2026-08-04
+date: 2026-08-04
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-08-03
+# iNEST + TCC Research Brief - 2026-08-04
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,19 +33,19 @@ target: genspark
 
 ## 4. Inbox Highlights
 
+- [2026-08-04] **2026-08-04_arXiv_Fisher-Orthogonal Memory in Quantum Reservoir Computing** (_pipeline_insights)
+- [2026-08-04] **2026-08-04_arXiv_Entropy production of active matter systems as indicator for** (_pipeline_insights)
+- [2026-08-04] **2026-08-04_arXiv_Parameter-Efficient Fine-Tuning for Spiking Point Cloud Mode** (_pipeline_insights)
+- [2026-08-04] **2026-08-04_arXiv_CENDRe Concept Extraction with Natural Domain Representation** (_pipeline_insights)
+- [2026-08-04] **2026-08-04_arXiv_PROPEL A Memory-Driven, Adaptive Vector-Flow-Field Router wi** (_pipeline_insights)
+- [2026-08-04] **2026-08-04_arXiv_Release-free phononic crystal with strong microwave coupling** (_pipeline_insights)
 - [2026-08-02] **getnote_2026-08-02_getnote_1917333705497132960_台积电CoPoS vs 英特尔EMIB：先进Chiplet集成的两** (root)
 - [2026-08-02] **getnote_2026-08-02_getnote_1917307943209549728_晶圆级异构集成方案详解** (root)
-- [2026-08-02] **getnote_2026-08-02_getnote_1917303032987664288_20瓦大脑启发的AI规划革命：GCML认知地图算法深度解析** (root)
-- [2026-08-02] **2026-08-01_arXiv_MANTA Multi-Agent Network Topology Adaptation for Self-Evolv** (_pipeline_insights)
-- [2026-08-02] **00_moc_sdsow_to_inest** (13_Codex)
-- [2026-08-01] **04_version_iteration_v0_1** (13_Codex)
-- [2026-08-01] **03_evidence_citation_policy_v0_1** (13_Codex)
-- [2026-08-01] **02_glossary_symbols_formulas_v0_1** (13_Codex)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 6127
-Graph nodes: 5674 | edges: 17826
+Total notes: 8755
+Graph nodes: 6123 | edges: 17228
 
 Top connected topics:
 - **00_iNEST_全景知识图谱** (degree=1182)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-08-03 14:15*
+*Research brief auto-generated 2026-08-04 08:26*

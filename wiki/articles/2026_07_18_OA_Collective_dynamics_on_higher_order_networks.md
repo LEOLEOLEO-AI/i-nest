@@ -12,9 +12,3 @@ iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Self_Organized_Criticality]]
-[[iNEST]]
