@@ -50,3 +50,14 @@
 - **wiki_grow 重新运行**：3005 概念，2974 已链接（98.9%），合并 20 个重复概念，耗时 31 分钟
 - **断链分类诊断**：other 2241 + GetNote_long 561 + date 42 = 总计 2845
 - **待办**：wiki_grow.py O(n²) 性能优化（倒排索引）；health_repair.py 引用旧目录结构需更新
+
+### 2026-08-04（傍晚性能优化 + 脚本维护）
+- **wiki_grow.py 5x 提速**：
+  - 预编译 5988 个正则 + `in` 快速预筛选，避免 900 万次循环内 `re.compile`
+  - shared-term O(n²) → 倒排索引；incoming Step4 二次扫描 → Step2-3 同步构建
+  - **耗时: 30m53s → 6m21s**；链接覆盖率 98.9% → 99.9%；孤儿 2307 → 1872
+- **health_repair.py 目录适配**：EXCLUDE/moc_map/archive 路径/MOC_TEMPLATES/TOP_STUBS 全部更新为当前编号体系
+- **self_evolve.py 补充修复**：wiki_grow timeout 300s → 600s；git add `check=True` → 手动检查（部分目录无匹配时不阻断）
+- **验证运行**：self_evolve.py 全流水线通过（compile 17 篇/40 概念增量，health 8376 笔记，phase4 4/4，homepage 刷新）
+- git 提交 3 次，push github main 成功
+- **状态**：积压清零，wiki_grow 6 分钟完成，下轮自动化应恢复正常 2-8 分钟模式
