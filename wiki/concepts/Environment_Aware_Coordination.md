@@ -1,3 +1,7 @@
+---
+aliases:
+- "EnvironmentAwareCoordination"
+---
 # Environment_Aware_Coordination
 
 **Domain**: Cross

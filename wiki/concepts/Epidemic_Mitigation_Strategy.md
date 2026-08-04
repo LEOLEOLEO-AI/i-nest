@@ -1,3 +1,7 @@
+---
+aliases:
+- "EpidemicMitigationStrategy"
+---
 # Epidemic_Mitigation_Strategy
 
 **Domain**: TCC

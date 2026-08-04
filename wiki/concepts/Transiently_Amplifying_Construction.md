@@ -1,3 +1,7 @@
+---
+aliases:
+- "TransientlyAmplifyingConstruction"
+---
 # Transiently_Amplifying_Construction
 
 **Domain**: iNEST

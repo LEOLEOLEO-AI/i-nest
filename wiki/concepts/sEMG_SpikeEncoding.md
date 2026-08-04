@@ -1,3 +1,8 @@
+---
+aliases:
+- "SEMGSpikeEncoding"
+- "sEMGSpikeEncoding"
+---
 # sEMG_SpikeEncoding
 
 **Domain**: iNEST

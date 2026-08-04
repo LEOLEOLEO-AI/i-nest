@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingMixtureOfExperts"
+---
 # Spiking_Mixture_of_Experts
 
 **Domain**: iNEST

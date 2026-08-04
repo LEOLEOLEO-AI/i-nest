@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNBackpropagationThroughTime"
+---
 # SNN_Backpropagation_Through_Time
 
 **Domain**: iNEST

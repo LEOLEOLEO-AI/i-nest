@@ -1,3 +1,7 @@
+---
+aliases:
+- "MesoscaleNeuralDynamics"
+---
 # Mesoscale_Neural_Dynamics
 
 **Domain**: iNEST

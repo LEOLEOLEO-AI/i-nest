@@ -1,3 +1,7 @@
+---
+aliases:
+- "MultiFPGASpikingScaling"
+---
 # MultiFPGA_Spiking_Scaling
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "QuasiperiodicSubsystemProbing"
+---
 # Quasiperiodic_Subsystem_Probing
 
 **Domain**: Cross

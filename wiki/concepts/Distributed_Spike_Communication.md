@@ -1,3 +1,7 @@
+---
+aliases:
+- "DistributedSpikeCommunication"
+---
 # Distributed_Spike_Communication
 
 **Domain**: Cross

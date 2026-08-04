@@ -1,3 +1,7 @@
+---
+aliases:
+- "CriticalityBasedBiomarker"
+---
 # Criticality_Based_Biomarker
 
 **Domain**: iNEST

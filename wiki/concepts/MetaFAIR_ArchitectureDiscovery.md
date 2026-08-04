@@ -3,6 +3,8 @@ title: MetaFAIR_ArchitectureDiscovery
 tags:
 - chiplet
 - transformer
+aliases:
+- "MetaFAIRArchitectureDiscovery"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

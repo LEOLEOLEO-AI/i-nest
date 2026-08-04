@@ -1,3 +1,7 @@
+---
+aliases:
+- "MetastableStateHierarchy"
+---
 # Metastable_State_Hierarchy
 
 **Domain**: Cross

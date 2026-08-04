@@ -1,3 +1,7 @@
+---
+aliases:
+- "ThreeDimensionalAnalysis"
+---
 # Three_Dimensional_Analysis
 
 **Domain**: Cross
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- ThreeDimensional_Analysis (merged 2026-08-04)

@@ -2,6 +2,8 @@
 title: Second_Curve_Wafer_Industry_Platform
 tags:
 - chiplet
+aliases:
+- "SecondCurveWaferIndustryPlatform"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

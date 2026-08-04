@@ -1,3 +1,7 @@
+---
+aliases:
+- "PhysicalFirstPrinciplesNeuromorphic"
+---
 # PhysicalFirstPrinciples_Neuromorphic
 
 **Domain**: Cross

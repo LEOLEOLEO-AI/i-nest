@@ -1,3 +1,7 @@
+---
+aliases:
+- "GradientFreeSNNLearning"
+---
 # Gradient_Free_SNN_Learning
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "QuantumReservoirArchitecture"
+---
 # Quantum_Reservoir_Architecture
 
 **Domain**: iNEST

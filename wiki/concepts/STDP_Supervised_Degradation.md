@@ -1,3 +1,7 @@
+---
+aliases:
+- "STDPSupervisedDegradation"
+---
 # STDP_Supervised_Degradation
 
 **Domain**: iNEST

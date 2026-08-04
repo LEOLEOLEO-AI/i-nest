@@ -2,6 +2,8 @@
 title: Collection_Communication_Diagnostic_Tool
 tags:
 - chiplet
+aliases:
+- "CollectionCommunicationDiagnosticTool"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

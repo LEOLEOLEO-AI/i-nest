@@ -2,6 +2,8 @@
 title: Heterogeneous_Integration
 tags:
 - chiplet
+aliases:
+- "HeterogeneousIntegration"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

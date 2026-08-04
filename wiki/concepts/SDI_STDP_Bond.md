@@ -1,6 +1,8 @@
 ---
 title: SDI_STDP_Bond
 tags: []
+aliases:
+- "SDISTDPBond"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

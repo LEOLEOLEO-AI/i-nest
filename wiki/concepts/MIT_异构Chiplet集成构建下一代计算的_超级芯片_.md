@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
+aliases:
+- "MIT异构Chiplet集成构建下一代计算的超级芯片"
 ---
 
 # MIT_异构Chiplet集成构建下一代计算的_超级芯片_

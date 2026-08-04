@@ -1,3 +1,7 @@
+---
+aliases:
+- "FastResponseActuation"
+---
 # Fast_Response_Actuation
 
 **Domain**: Cross

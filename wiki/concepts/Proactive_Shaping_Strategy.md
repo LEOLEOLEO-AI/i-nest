@@ -1,3 +1,7 @@
+---
+aliases:
+- "ProactiveShapingStrategy"
+---
 # Proactive_Shaping_Strategy
 
 **Domain**: TCC

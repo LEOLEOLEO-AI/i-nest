@@ -1,3 +1,7 @@
+---
+aliases:
+- "TemporalCoding"
+---
 # Temporal_Coding
 
 **Domain**: iNEST
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- TemporalCoding (merged 2026-08-04)

@@ -1,3 +1,7 @@
+---
+aliases:
+- "IMPLYISA"
+---
 # IMPLY_ISA
 
 **Domain**: Cross

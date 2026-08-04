@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyAwareDataAugmentation"
+---
 # Topology_Aware_Data_Augmentation
 
 **Domain**: TCC

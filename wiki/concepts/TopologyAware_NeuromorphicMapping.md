@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyAwareNeuromorphicMapping"
+---
 # TopologyAware_NeuromorphicMapping
 
 **Domain**: Cross

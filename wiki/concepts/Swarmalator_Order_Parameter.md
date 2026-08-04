@@ -1,3 +1,7 @@
+---
+aliases:
+- "SwarmalatorOrderParameter"
+---
 # Swarmalator_Order_Parameter
 
 **Domain**: Cross

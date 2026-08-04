@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopoNeuralSwitch"
+---
 # TopoNeural_Switch
 
 **Domain**: Cross

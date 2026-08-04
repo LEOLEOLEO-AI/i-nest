@@ -1,3 +1,7 @@
+---
+aliases:
+- "GeneralizedSynchronizationBond"
+---
 # Generalized_Synchronization_Bond
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "BosonicSPTPhases"
+---
 # Bosonic_SPT_Phases
 
 **Domain**: Cross

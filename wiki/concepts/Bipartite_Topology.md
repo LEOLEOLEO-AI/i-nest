@@ -1,3 +1,7 @@
+---
+aliases:
+- "BipartiteTopology"
+---
 # Bipartite_Topology
 
 **Domain**: TCC

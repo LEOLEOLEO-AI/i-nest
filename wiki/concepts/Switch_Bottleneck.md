@@ -1,3 +1,7 @@
+---
+aliases:
+- "SwitchBottleneck"
+---
 # Switch_Bottleneck
 
 **Domain**: TCC

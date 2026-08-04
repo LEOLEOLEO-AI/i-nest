@@ -1,3 +1,7 @@
+---
+aliases:
+- "HeterogeneousModelCoexistence"
+---
 # Heterogeneous_Model_Coexistence
 
 **Domain**: iNEST

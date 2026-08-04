@@ -1,3 +1,7 @@
+---
+aliases:
+- "HardwareAwareDesignSpace"
+---
 # HardwareAware_DesignSpace
 
 **Domain**: iNEST

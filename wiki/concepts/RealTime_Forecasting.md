@@ -1,3 +1,7 @@
+---
+aliases:
+- "RealTimeForecasting"
+---
 # RealTime_Forecasting
 
 **Domain**: iNEST

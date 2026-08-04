@@ -1,3 +1,7 @@
+---
+aliases:
+- "NGMMProgram"
+---
 # NGMM_Program
 
 **Domain**: TCC

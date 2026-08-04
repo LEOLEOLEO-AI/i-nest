@@ -1,3 +1,7 @@
+---
+aliases:
+- "LossSpikeDynamics"
+---
 # Loss_Spike_Dynamics
 
 **Domain**: Cross

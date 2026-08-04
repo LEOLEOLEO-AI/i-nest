@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikeTimingDependentPlasticity"
+---
 # Spike_Timing_Dependent_Plasticity
 
 **Domain**: iNEST

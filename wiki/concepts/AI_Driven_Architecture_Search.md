@@ -1,3 +1,7 @@
+---
+aliases:
+- "AIDrivenArchitectureSearch"
+---
 # AI_Driven_Architecture_Search
 
 **Domain**: Cross

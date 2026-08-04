@@ -1,3 +1,7 @@
+---
+aliases:
+- "StochasticBinaryStateUpdate"
+---
 # Stochastic_Binary_State_Update
 
 **Domain**: Cross

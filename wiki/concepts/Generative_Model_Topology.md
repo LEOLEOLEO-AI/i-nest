@@ -1,3 +1,7 @@
+---
+aliases:
+- "GenerativeModelTopology"
+---
 # Generative_Model_Topology
 
 **Domain**: TCC

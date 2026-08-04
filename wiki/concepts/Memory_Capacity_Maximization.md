@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemoryCapacityMaximization"
+---
 # Memory_Capacity_Maximization
 
 **Domain**: iNEST

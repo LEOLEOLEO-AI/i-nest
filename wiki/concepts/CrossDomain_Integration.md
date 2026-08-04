@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrossDomainIntegration"
+---
 # CrossDomain_Integration
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "StrategicBalanceShift"
+---
 # Strategic_Balance_Shift
 
 **Domain**: Cross

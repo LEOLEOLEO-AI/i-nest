@@ -1,3 +1,7 @@
+---
+aliases:
+- "V32MasterDraft"
+---
 # V32_Master_Draft
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "EEGCriticality"
+---
 # EEG_Criticality
 
 **Domain**: iNEST

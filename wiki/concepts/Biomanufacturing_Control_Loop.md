@@ -1,3 +1,7 @@
+---
+aliases:
+- "BiomanufacturingControlLoop"
+---
 # Biomanufacturing_Control_Loop
 
 **Domain**: iNEST

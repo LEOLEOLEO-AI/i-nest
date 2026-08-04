@@ -1,3 +1,7 @@
+---
+aliases:
+- "AIAssistedEnergyOptimization"
+---
 # AI_Assisted_Energy_Optimization
 
 **Domain**: Cross

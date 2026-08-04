@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
+aliases:
+- "AI人工智能 卷积神经网络（CNN）W3cschool"
 ---
 # AI人工智能 卷积神经网络（CNN）_w3cschool
 

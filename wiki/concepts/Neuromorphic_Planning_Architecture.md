@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicPlanningArchitecture"
+---
 # Neuromorphic_Planning_Architecture
 
 **Domain**: iNEST

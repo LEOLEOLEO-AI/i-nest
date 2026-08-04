@@ -1,3 +1,7 @@
+---
+aliases:
+- "ConstructedRealityPrior"
+---
 # Constructed_Reality_Prior
 
 **Domain**: iNEST

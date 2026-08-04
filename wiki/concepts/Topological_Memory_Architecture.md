@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalMemoryArchitecture"
+---
 # Topological_Memory_Architecture
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalCriticality"
+---
 # Topological_Criticality
 
 **Domain**: Cross

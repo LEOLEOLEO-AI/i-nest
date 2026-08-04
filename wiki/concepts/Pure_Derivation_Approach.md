@@ -1,3 +1,7 @@
+---
+aliases:
+- "PureDerivationApproach"
+---
 # Pure_Derivation_Approach
 
 **Domain**: iNEST

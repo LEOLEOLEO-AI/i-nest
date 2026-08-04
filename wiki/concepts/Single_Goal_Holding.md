@@ -1,3 +1,7 @@
+---
+aliases:
+- "SingleGoalHolding"
+---
 # Single_Goal_Holding
 
 **Domain**: iNEST

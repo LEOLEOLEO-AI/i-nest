@@ -3,6 +3,9 @@ title: vLLM_plugin_FLSDI
 tags:
 - chiplet
 - large-language-model
+aliases:
+- "VLLMPluginFLSDI"
+- "vLLMPluginFLSDI"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

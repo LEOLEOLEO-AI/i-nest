@@ -1,3 +1,7 @@
+---
+aliases:
+- "WholeOrganismBehavioralAssay"
+---
 # Whole_Organism_Behavioral_Assay
 
 **Domain**: iNEST

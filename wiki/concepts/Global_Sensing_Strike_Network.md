@@ -1,3 +1,7 @@
+---
+aliases:
+- "GlobalSensingStrikeNetwork"
+---
 # Global_Sensing_Strike_Network
 
 **Domain**: TCC

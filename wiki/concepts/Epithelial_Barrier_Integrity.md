@@ -1,3 +1,7 @@
+---
+aliases:
+- "EpithelialBarrierIntegrity"
+---
 # Epithelial_Barrier_Integrity
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChimeraStateDetector"
+---
 # Chimera_State_Detector
 
 **Domain**: Cross

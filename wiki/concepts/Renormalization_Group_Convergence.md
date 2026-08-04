@@ -2,6 +2,8 @@
 title: Renormalization_Group_Convergence
 tags:
 - chiplet
+aliases:
+- "RenormalizationGroupConvergence"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

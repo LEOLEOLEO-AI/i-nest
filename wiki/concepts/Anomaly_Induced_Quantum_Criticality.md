@@ -1,3 +1,7 @@
+---
+aliases:
+- "AnomalyInducedQuantumCriticality"
+---
 # Anomaly_Induced_Quantum_Criticality
 
 **Domain**: Cross

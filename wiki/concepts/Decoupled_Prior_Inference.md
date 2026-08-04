@@ -1,3 +1,7 @@
+---
+aliases:
+- "DecoupledPriorInference"
+---
 # Decoupled_Prior_Inference
 
 **Domain**: iNEST

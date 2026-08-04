@@ -1,3 +1,7 @@
+---
+aliases:
+- "GenerationGapTechnologyAdvantage"
+---
 # Generation_Gap_Technology_Advantage
 
 **Domain**: Cross

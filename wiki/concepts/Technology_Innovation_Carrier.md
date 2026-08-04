@@ -1,3 +1,7 @@
+---
+aliases:
+- "TechnologyInnovationCarrier"
+---
 # Technology_Innovation_Carrier
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingTemporalEncoding"
+---
 # Spiking_Temporal_Encoding
 
 **Domain**: Cross

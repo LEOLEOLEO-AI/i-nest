@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNConversionApproximationBound"
+---
 # SNN_Conversion_Approximation_Bound
 
 **Domain**: Cross

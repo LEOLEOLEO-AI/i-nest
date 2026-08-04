@@ -1,3 +1,7 @@
+---
+aliases:
+- "InterferenceRetentionTradeoff"
+---
 # Interference_Retention_Tradeoff
 
 **Domain**: iNEST

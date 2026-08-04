@@ -1,3 +1,7 @@
+---
+aliases:
+- "NoiseModulatedSynapticPlasticity"
+---
 # NoiseModulated_SynapticPlasticity
 
 **Domain**: iNEST

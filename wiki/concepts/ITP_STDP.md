@@ -1,3 +1,7 @@
+---
+aliases:
+- "ITPSTDP"
+---
 # ITP_STDP
 
 **Domain**: iNEST

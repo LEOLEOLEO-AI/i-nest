@@ -1,3 +1,7 @@
+---
+aliases:
+- "ERI20StrategicFramework"
+---
 # ERI_2_0_Strategic_Framework
 
 **Domain**: Cross

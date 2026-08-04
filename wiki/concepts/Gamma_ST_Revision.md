@@ -1,3 +1,7 @@
+---
+aliases:
+- "GammaSTRevision"
+---
 # Gamma_ST_Revision
 
 **Domain**: TCC
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- GammaSt_Revision (merged 2026-08-04)

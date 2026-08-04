@@ -1,3 +1,7 @@
+---
+aliases:
+- "AllreduceLatencyBenchmark"
+---
 # Allreduce_Latency_Benchmark
 
 **Domain**: TCC

@@ -2,6 +2,8 @@
 title: Free_Energy_Topology_Mapping
 tags:
 - chiplet
+aliases:
+- "FreeEnergyTopologyMapping"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

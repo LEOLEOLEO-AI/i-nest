@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReSComAccelerator"
+---
 # ReSCom_Accelerator
 
 **Domain**: iNEST

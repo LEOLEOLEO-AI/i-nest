@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipletStacking"
+---
 # Chiplet_Stacking
 
 **Domain**: TCC

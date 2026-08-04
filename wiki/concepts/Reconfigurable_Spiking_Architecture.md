@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReconfigurableSpikingArchitecture"
+---
 # Reconfigurable_Spiking_Architecture
 
 **Domain**: iNEST

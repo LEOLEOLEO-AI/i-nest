@@ -2,6 +2,8 @@
 title: AI_Industrial_Ecosystem
 tags:
 - chiplet
+aliases:
+- "AIIndustrialEcosystem"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

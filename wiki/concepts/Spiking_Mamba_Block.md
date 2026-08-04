@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingMambaBlock"
+---
 # Spiking_Mamba_Block
 
 **Domain**: iNEST

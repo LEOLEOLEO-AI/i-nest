@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemristiveSolutions"
+---
 # Memristive_Solutions
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "CoDesignedSNN"
+---
 # CoDesigned_SNN
 
 **Domain**: iNEST

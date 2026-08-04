@@ -1,6 +1,8 @@
 ---
 title: Constructed_Reality_Interconnect
 tags: []
+aliases:
+- "ConstructedRealityInterconnect"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -41,7 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[SmallWorldNetwork]]
+[[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

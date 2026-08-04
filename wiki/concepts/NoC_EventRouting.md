@@ -1,3 +1,7 @@
+---
+aliases:
+- "NoCEventRouting"
+---
 # NoC_EventRouting
 
 **Domain**: TCC

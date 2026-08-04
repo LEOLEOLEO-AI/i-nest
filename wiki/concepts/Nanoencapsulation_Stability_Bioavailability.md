@@ -1,3 +1,7 @@
+---
+aliases:
+- "NanoencapsulationStabilityBioavailability"
+---
 # Nanoencapsulation_Stability_Bioavailability
 
 **Domain**: Cross

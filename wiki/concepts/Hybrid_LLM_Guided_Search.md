@@ -1,3 +1,7 @@
+---
+aliases:
+- "HybridLLMGuidedSearch"
+---
 # Hybrid_LLM_Guided_Search
 
 **Domain**: Cross

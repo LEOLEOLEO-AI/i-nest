@@ -1,3 +1,7 @@
+---
+aliases:
+- "HZOFerroelectricCapacitor"
+---
 # HZO_FerroelectricCapacitor
 
 **Domain**: iNEST

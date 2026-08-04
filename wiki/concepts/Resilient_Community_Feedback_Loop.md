@@ -1,3 +1,7 @@
+---
+aliases:
+- "ResilientCommunityFeedbackLoop"
+---
 # Resilient_Community_Feedback_Loop
 
 **Domain**: iNEST

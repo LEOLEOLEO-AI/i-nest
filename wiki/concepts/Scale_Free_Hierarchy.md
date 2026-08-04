@@ -1,3 +1,7 @@
+---
+aliases:
+- "ScaleFreeHierarchy"
+---
 # Scale_Free_Hierarchy
 
 **Domain**: Cross

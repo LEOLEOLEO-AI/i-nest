@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyAwareLearning"
+---
 # TopologyAware_Learning
 
 **Domain**: TCC
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- TopologyAwareLearning (merged 2026-08-04)

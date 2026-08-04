@@ -1,3 +1,7 @@
+---
+aliases:
+- "ScalablePerturbationLearning"
+---
 # Scalable_Perturbation_Learning
 
 **Domain**: iNEST

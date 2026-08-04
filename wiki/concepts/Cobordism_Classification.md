@@ -1,3 +1,7 @@
+---
+aliases:
+- "CobordismClassification"
+---
 # Cobordism_Classification
 
 **Domain**: Cross

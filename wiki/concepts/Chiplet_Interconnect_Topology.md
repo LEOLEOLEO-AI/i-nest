@@ -2,6 +2,8 @@
 title: Chiplet_Interconnect_Topology
 tags:
 - chiplet
+aliases:
+- "ChipletInterconnectTopology"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

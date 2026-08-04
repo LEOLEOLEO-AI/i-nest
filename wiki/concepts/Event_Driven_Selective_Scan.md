@@ -1,3 +1,7 @@
+---
+aliases:
+- "EventDrivenSelectiveScan"
+---
 # Event_Driven_Selective_Scan
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "KappaWeibullDistribution"
+---
 # Kappa_Weibull_Distribution
 
 **Domain**: Cross

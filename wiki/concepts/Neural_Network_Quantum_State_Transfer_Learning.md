@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuralNetworkQuantumStateTransferLearning"
+---
 # Neural_Network_Quantum_State_Transfer_Learning
 
 **Domain**: Cross

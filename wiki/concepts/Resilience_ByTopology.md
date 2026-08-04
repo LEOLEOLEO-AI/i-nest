@@ -1,3 +1,7 @@
+---
+aliases:
+- "ResilienceByTopology"
+---
 # Resilience_ByTopology
 
 **Domain**: TCC

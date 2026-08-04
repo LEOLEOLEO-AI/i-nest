@@ -1,3 +1,7 @@
+---
+aliases:
+- "BaselineDraftStatus"
+---
 # Baseline_Draft_Status
 
 **Domain**: Cross

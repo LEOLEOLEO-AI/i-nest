@@ -1,3 +1,7 @@
+---
+aliases:
+- "SystemicInnovationMechanism"
+---
 # Systemic_Innovation_Mechanism
 
 **Domain**: Cross

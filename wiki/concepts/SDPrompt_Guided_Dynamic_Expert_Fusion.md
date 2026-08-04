@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDPromptGuidedDynamicExpertFusion"
+---
 # SDPrompt_Guided_Dynamic_Expert_Fusion
 
 **Domain**: iNEST

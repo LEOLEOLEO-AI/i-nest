@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalInsulatorCoexistence"
+---
 # Topological_Insulator_Coexistence
 
 **Domain**: TCC

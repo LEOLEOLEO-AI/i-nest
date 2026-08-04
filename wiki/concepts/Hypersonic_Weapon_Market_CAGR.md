@@ -1,3 +1,7 @@
+---
+aliases:
+- "HypersonicWeaponMarketCAGR"
+---
 # Hypersonic_Weapon_Market_CAGR
 
 **Domain**: Cross

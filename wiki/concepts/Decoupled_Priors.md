@@ -2,6 +2,8 @@
 title: Decoupled_Priors
 tags:
 - chiplet
+aliases:
+- "DecoupledPriors"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

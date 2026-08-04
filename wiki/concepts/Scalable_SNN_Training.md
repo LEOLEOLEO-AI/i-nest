@@ -1,3 +1,7 @@
+---
+aliases:
+- "ScalableSNNTraining"
+---
 # Scalable_SNN_Training
 
 **Domain**: iNEST

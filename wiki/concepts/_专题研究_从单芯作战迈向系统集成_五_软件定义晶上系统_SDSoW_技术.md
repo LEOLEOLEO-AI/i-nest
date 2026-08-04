@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
+aliases:
+- "专题研究从单芯作战迈向系统集成五软件定义晶上系统SDSoW技术"
 ---
 
 # _专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术

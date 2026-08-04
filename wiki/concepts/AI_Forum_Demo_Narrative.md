@@ -1,3 +1,7 @@
+---
+aliases:
+- "AIForumDemoNarrative"
+---
 # AI_Forum_Demo_Narrative
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "InteractingSystemDynamics"
+---
 # Interacting_System_Dynamics
 
 **Domain**: Cross

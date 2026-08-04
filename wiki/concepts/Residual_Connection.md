@@ -3,6 +3,8 @@ title: Residual_Connection
 tags:
 - chiplet
 - transformer
+aliases:
+- "ResidualConnection"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

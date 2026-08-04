@@ -1,3 +1,7 @@
+---
+aliases:
+- "TeleportationAssistedInterconnect"
+---
 # Teleportation_Assisted_Interconnect
 
 **Domain**: iNEST

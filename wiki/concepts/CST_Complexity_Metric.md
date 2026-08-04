@@ -1,3 +1,7 @@
+---
+aliases:
+- "CSTComplexityMetric"
+---
 # CST_Complexity_Metric
 
 **Domain**: Cross
@@ -28,3 +32,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- CST_ComplexityMetric (merged 2026-08-04)

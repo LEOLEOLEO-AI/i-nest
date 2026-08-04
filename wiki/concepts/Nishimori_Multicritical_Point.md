@@ -1,3 +1,7 @@
+---
+aliases:
+- "NishimoriMulticriticalPoint"
+---
 # Nishimori_Multicritical_Point
 
 **Domain**: Cross

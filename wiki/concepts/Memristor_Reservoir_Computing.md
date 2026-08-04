@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemristorReservoirComputing"
+---
 # Memristor_Reservoir_Computing
 
 **Domain**: Cross

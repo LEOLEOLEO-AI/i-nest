@@ -1,3 +1,7 @@
+---
+aliases:
+- "ThermalisationLocalityPrinciple"
+---
 # Thermalisation_Locality_Principle
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SwarmOptimizedTopology"
+---
 # Swarm_Optimized_Topology
 
 **Domain**: Cross

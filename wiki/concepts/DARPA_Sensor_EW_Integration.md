@@ -1,3 +1,7 @@
+---
+aliases:
+- "DARPASensorEWIntegration"
+---
 # DARPA_Sensor_EW_Integration
 
 **Domain**: iNEST

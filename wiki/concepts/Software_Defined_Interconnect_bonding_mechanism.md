@@ -2,6 +2,8 @@
 title: Software_Defined_Interconnect_bonding_mechanism
 tags:
 - chiplet
+aliases:
+- "SoftwareDefinedInterconnectBondingMechanism"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

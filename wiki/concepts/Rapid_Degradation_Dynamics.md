@@ -1,3 +1,7 @@
+---
+aliases:
+- "RapidDegradationDynamics"
+---
 # Rapid_Degradation_Dynamics
 
 **Domain**: iNEST

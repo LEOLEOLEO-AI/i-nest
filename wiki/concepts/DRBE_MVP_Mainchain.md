@@ -2,6 +2,8 @@
 title: DRBE_MVP_Mainchain
 tags:
 - chiplet
+aliases:
+- "DRBEMVPMainchain"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

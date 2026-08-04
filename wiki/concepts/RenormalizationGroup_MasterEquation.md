@@ -1,3 +1,7 @@
+---
+aliases:
+- "RenormalizationGroupMasterEquation"
+---
 # RenormalizationGroup_MasterEquation
 
 **Domain**: Cross

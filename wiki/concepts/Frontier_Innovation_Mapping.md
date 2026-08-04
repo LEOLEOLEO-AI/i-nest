@@ -1,3 +1,7 @@
+---
+aliases:
+- "FrontierInnovationMapping"
+---
 # Frontier_Innovation_Mapping
 
 **Domain**: iNEST

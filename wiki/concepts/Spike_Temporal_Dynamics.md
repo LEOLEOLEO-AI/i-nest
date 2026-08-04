@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikeTemporalDynamics"
+---
 # Spike_Temporal_Dynamics
 
 **Domain**: iNEST

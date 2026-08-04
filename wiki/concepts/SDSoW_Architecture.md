@@ -2,6 +2,8 @@
 title: SDSoW_Architecture
 tags:
 - chiplet
+aliases:
+- "SDSoWArchitecture"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

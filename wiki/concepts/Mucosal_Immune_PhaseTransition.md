@@ -1,3 +1,7 @@
+---
+aliases:
+- "MucosalImmunePhaseTransition"
+---
 # Mucosal_Immune_PhaseTransition
 
 **Domain**: Cross

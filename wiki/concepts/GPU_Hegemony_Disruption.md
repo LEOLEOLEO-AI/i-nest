@@ -1,3 +1,7 @@
+---
+aliases:
+- "GPUHegemonyDisruption"
+---
 # GPU_Hegemony_Disruption
 
 **Domain**: TCC

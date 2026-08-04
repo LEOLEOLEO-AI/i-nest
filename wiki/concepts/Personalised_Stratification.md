@@ -1,3 +1,7 @@
+---
+aliases:
+- "PersonalisedStratification"
+---
 # Personalised_Stratification
 
 **Domain**: Cross

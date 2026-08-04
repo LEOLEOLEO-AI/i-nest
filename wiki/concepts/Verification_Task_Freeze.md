@@ -1,3 +1,7 @@
+---
+aliases:
+- "VerificationTaskFreeze"
+---
 # Verification_Task_Freeze
 
 **Domain**: Cross

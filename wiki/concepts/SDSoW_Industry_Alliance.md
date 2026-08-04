@@ -2,6 +2,8 @@
 title: SDSoW_Industry_Alliance
 tags:
 - chiplet
+aliases:
+- "SDSoWIndustryAlliance"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

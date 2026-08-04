@@ -1,3 +1,7 @@
+---
+aliases:
+- "FlexibleNeuralMapping"
+---
 # Flexible_Neural_Mapping
 
 **Domain**: Cross

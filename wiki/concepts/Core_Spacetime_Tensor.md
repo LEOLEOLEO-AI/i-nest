@@ -2,6 +2,8 @@
 title: Core_Spacetime_Tensor
 tags:
 - chiplet
+aliases:
+- "CoreSpacetimeTensor"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

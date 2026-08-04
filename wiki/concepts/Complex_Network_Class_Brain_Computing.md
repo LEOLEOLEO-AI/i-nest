@@ -1,3 +1,7 @@
+---
+aliases:
+- "ComplexNetworkClassBrainComputing"
+---
 # Complex_Network_Class_Brain_Computing
 
 **Domain**: iNEST

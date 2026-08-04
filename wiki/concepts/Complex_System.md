@@ -2,6 +2,8 @@
 title: Complex_System
 tags:
 - chiplet
+aliases:
+- "ComplexSystem"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

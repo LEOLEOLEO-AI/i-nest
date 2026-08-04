@@ -1,3 +1,7 @@
+---
+aliases:
+- "UnifiedComputationalModel"
+---
 # Unified_Computational_Model
 
 **Domain**: Cross

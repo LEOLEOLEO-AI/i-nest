@@ -1,3 +1,7 @@
+---
+aliases:
+- "ClinicalKnowledgeEmbedding"
+---
 # Clinical_Knowledge_Embedding
 
 **Domain**: Cross
@@ -28,3 +32,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- ClinicalKnowledge_Embedding (merged 2026-08-04)

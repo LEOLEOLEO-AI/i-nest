@@ -1,3 +1,7 @@
+---
+aliases:
+- "InNetworkNeuromorphicCoDesign"
+---
 # InNetwork_Neuromorphic_CoDesign
 
 **Domain**: iNEST

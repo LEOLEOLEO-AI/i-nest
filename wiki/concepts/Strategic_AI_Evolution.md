@@ -1,3 +1,7 @@
+---
+aliases:
+- "StrategicAIEvolution"
+---
 # Strategic_AI_Evolution
 
 **Domain**: Cross

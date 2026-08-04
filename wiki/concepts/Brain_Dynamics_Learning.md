@@ -1,3 +1,7 @@
+---
+aliases:
+- "BrainDynamicsLearning"
+---
 # Brain_Dynamics_Learning
 
 **Domain**: iNEST

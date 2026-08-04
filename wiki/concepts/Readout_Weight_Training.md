@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReadoutWeightTraining"
+---
 # Readout_Weight_Training
 
 **Domain**: iNEST

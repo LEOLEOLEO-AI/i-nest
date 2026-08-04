@@ -1,3 +1,7 @@
+---
+aliases:
+- "ConnectomeReservoir"
+---
 # Connectome_Reservoir
 
 **Domain**: iNEST

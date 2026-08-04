@@ -1,3 +1,7 @@
+---
+aliases:
+- "DelayAwareAutogradSpikingFramework"
+---
 # Delay_Aware_Autograd_Spiking_Framework
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "BeyondMoorePathway"
+---
 # Beyond_Moore_Pathway
 
 **Domain**: Cross

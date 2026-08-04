@@ -2,6 +2,8 @@
 title: TopologyAware_Renormalization
 tags:
 - chiplet
+aliases:
+- "TopologyAwareRenormalization"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

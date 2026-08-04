@@ -1,3 +1,7 @@
+---
+aliases:
+- "PhysicalReservoirSignalAcquisition"
+---
 # Physical_Reservoir_Signal_Acquisition
 
 **Domain**: iNEST
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- PhysicalReservoirSignalAcquisition (merged 2026-08-04)

@@ -1,3 +1,7 @@
+---
+aliases:
+- "GenerativeGraphModels"
+---
 # Generative_Graph_Models
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "FreeFermionTopologicalClassification"
+---
 # FreeFermion_Topological_Classification
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "DendriticInContextLearning"
+---
 # Dendritic_In_Context_Learning
 
 **Domain**: iNEST

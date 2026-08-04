@@ -1,3 +1,7 @@
+---
+aliases:
+- "FerroelectricComputeInMemory"
+---
 # Ferroelectric_ComputeInMemory
 
 **Domain**: Cross

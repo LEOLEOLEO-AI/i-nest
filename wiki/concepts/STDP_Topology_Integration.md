@@ -1,3 +1,7 @@
+---
+aliases:
+- "STDPTopologyIntegration"
+---
 # STDP_Topology_Integration
 
 **Domain**: Cross

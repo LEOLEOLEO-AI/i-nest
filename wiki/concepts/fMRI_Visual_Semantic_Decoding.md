@@ -1,3 +1,8 @@
+---
+aliases:
+- "FMRIVisualSemanticDecoding"
+- "fMRIVisualSemanticDecoding"
+---
 # fMRI_Visual_Semantic_Decoding
 
 **Domain**: iNEST

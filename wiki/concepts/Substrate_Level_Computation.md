@@ -1,3 +1,7 @@
+---
+aliases:
+- "SubstrateLevelComputation"
+---
 # Substrate_Level_Computation
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "TimeReversalSymmetryBreaking"
+---
 # TimeReversal_Symmetry_Breaking
 
 **Domain**: TCC

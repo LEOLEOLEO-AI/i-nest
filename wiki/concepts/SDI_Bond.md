@@ -2,6 +2,8 @@
 title: SDI_Bond
 tags:
 - chiplet
+aliases:
+- "SDIBond"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

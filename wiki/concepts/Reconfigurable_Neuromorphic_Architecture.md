@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReconfigurableNeuromorphicArchitecture"
+---
 # Reconfigurable_Neuromorphic_Architecture
 
 **Domain**: Cross

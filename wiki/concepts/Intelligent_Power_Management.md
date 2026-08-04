@@ -1,3 +1,7 @@
+---
+aliases:
+- "IntelligentPowerManagement"
+---
 # Intelligent_Power_Management
 
 **Domain**: Cross

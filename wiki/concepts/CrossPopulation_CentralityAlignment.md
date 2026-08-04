@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrossPopulationCentralityAlignment"
+---
 # CrossPopulation_CentralityAlignment
 
 **Domain**: Cross

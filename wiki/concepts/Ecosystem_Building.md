@@ -1,3 +1,7 @@
+---
+aliases:
+- "EcosystemBuilding"
+---
 # Ecosystem_Building
 
 **Domain**: Cross

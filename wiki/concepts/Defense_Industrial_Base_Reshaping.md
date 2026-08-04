@@ -1,3 +1,7 @@
+---
+aliases:
+- "DefenseIndustrialBaseReshaping"
+---
 # Defense_Industrial_Base_Reshaping
 
 **Domain**: Cross

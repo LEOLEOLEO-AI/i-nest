@@ -2,6 +2,8 @@
 title: Cognitive_Relapse_Architecture
 tags:
 - chiplet
+aliases:
+- "CognitiveRelapseArchitecture"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

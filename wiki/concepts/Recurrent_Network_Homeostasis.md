@@ -1,3 +1,7 @@
+---
+aliases:
+- "RecurrentNetworkHomeostasis"
+---
 # Recurrent_Network_Homeostasis
 
 **Domain**: Cross

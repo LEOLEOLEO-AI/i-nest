@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalManifoldComputation"
+---
 # Topological_Manifold_Computation
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "StigmergicNeuralPlasticity"
+---
 # Stigmergic_Neural_Plasticity
 
 **Domain**: iNEST

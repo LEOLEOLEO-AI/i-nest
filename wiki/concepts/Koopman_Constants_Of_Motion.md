@@ -1,3 +1,7 @@
+---
+aliases:
+- "KoopmanConstantsOfMotion"
+---
 # Koopman_Constants_Of_Motion
 
 **Domain**: Cross

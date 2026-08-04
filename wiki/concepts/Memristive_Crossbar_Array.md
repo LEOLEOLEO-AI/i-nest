@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemristiveCrossbarArray"
+---
 # Memristive_Crossbar_Array
 
 **Domain**: Cross

@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 3
+aliases:
+- "INEST工程技术路线宣言：从算力到智力的范式跨越"
 ---
 # iNEST工程技术路线宣言：从算力到智力的范式跨越
 

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NanoparticleNetworkInterconnect"
+---
 # Nanoparticle_Network_Interconnect
 
 **Domain**: Cross

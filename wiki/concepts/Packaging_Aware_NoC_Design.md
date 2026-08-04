@@ -1,3 +1,7 @@
+---
+aliases:
+- "PackagingAwareNoCDesign"
+---
 # Packaging_Aware_NoC_Design
 
 **Domain**: TCC

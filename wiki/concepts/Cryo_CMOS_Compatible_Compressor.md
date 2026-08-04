@@ -1,3 +1,7 @@
+---
+aliases:
+- "CryoCMOSCompatibleCompressor"
+---
 # Cryo_CMOS_Compatible_Compressor
 
 **Domain**: iNEST

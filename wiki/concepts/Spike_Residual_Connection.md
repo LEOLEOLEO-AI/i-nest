@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikeResidualConnection"
+---
 # Spike_Residual_Connection
 
 **Domain**: iNEST

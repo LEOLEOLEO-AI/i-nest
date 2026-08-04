@@ -2,6 +2,8 @@
 title: Memristive_ANN_Hardware
 tags:
 - chiplet
+aliases:
+- "MemristiveANNHardware"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

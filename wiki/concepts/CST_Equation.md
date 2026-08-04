@@ -2,6 +2,8 @@
 title: CST_Equation
 tags:
 - chiplet
+aliases:
+- "CSTEquation"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

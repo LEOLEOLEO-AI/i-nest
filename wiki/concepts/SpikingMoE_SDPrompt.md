@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingMoESDPrompt"
+---
 # SpikingMoE_SDPrompt
 
 **Domain**: iNEST

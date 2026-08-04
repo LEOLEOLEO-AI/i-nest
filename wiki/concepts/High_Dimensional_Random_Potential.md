@@ -1,3 +1,7 @@
+---
+aliases:
+- "HighDimensionalRandomPotential"
+---
 # High_Dimensional_Random_Potential
 
 **Domain**: TCC

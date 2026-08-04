@@ -1,3 +1,7 @@
+---
+aliases:
+- "MultiDeviceCoordination"
+---
 # Multi_Device_Coordination
 
 **Domain**: iNEST

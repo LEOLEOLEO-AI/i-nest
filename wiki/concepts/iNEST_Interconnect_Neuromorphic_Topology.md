@@ -1,3 +1,8 @@
+---
+aliases:
+- "INESTInterconnectNeuromorphicTopology"
+- "iNESTInterconnectNeuromorphicTopology"
+---
 # iNEST_Interconnect_Neuromorphic_Topology
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SwarmCoordination"
+---
 # Swarm_Coordination
 
 **Domain**: Cross

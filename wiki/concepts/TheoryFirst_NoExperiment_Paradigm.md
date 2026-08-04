@@ -1,3 +1,7 @@
+---
+aliases:
+- "TheoryFirstNoExperimentParadigm"
+---
 # TheoryFirst_NoExperiment_Paradigm
 
 **Domain**: Cross

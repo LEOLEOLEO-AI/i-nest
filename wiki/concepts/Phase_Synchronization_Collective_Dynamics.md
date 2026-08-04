@@ -1,3 +1,7 @@
+---
+aliases:
+- "PhaseSynchronizationCollectiveDynamics"
+---
 # Phase_Synchronization_Collective_Dynamics
 
 **Domain**: Cross

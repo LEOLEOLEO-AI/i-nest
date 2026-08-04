@@ -1,3 +1,7 @@
+---
+aliases:
+- "SwarmalatorPhaseTopology"
+---
 # Swarmalator_Phase_Topology
 
 **Domain**: Cross

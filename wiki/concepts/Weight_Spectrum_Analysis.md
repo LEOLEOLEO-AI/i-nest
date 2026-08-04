@@ -1,3 +1,7 @@
+---
+aliases:
+- "WeightSpectrumAnalysis"
+---
 # Weight_Spectrum_Analysis
 
 **Domain**: Cross

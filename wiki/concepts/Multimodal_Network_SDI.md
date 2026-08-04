@@ -1,3 +1,7 @@
+---
+aliases:
+- "MultimodalNetworkSDI"
+---
 # Multimodal_Network_SDI
 
 **Domain**: TCC

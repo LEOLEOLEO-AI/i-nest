@@ -1,3 +1,7 @@
+---
+aliases:
+- "ClosedLoopNeuromodulation"
+---
 # Closed_Loop_Neuromodulation
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyAwareSpikeRouting"
+---
 # Topology_Aware_Spike_Routing
 
 **Domain**: Cross

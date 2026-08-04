@@ -1,3 +1,7 @@
+---
+aliases:
+- "ComplexNetworkTopology"
+---
 # Complex_Network_Topology
 
 **Domain**: Cross

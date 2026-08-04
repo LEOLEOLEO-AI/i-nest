@@ -1,3 +1,7 @@
+---
+aliases:
+- "CriticalityInducedComputation"
+---
 # Criticality_Induced_Computation
 
 **Domain**: iNEST

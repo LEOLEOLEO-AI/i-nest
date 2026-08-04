@@ -1,3 +1,7 @@
+---
+aliases:
+- "TemporalDynamicsIntegration"
+---
 # Temporal_Dynamics_Integration
 
 **Domain**: iNEST

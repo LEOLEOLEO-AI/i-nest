@@ -1,3 +1,7 @@
+---
+aliases:
+- "MidtermProjectReview"
+---
 # Midterm_Project_Review
 
 **Domain**: TCC

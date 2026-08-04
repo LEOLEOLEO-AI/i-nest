@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipFloorplanning"
+---
 # Chip_Floorplanning
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "LLMHeuristicPruning"
+---
 # LLM_Heuristic_Pruning
 
 **Domain**: Cross

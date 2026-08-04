@@ -1,3 +1,7 @@
+---
+aliases:
+- "NanoscaleDeviceVariability"
+---
 # Nanoscale_Device_Variability
 
 **Domain**: Cross

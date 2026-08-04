@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipletIntegrationRoute"
+---
 # Chiplet_Integration_Route
 
 **Domain**: Cross

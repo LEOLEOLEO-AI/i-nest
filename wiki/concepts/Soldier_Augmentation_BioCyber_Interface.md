@@ -1,3 +1,7 @@
+---
+aliases:
+- "SoldierAugmentationBioCyberInterface"
+---
 # Soldier_Augmentation_BioCyber_Interface
 
 **Domain**: iNEST

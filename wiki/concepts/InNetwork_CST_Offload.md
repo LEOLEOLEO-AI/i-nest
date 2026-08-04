@@ -2,6 +2,8 @@
 title: InNetwork_CST_Offload
 tags:
 - chiplet
+aliases:
+- "InNetworkCSTOffload"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

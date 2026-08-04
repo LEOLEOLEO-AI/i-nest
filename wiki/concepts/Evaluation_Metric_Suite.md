@@ -1,3 +1,7 @@
+---
+aliases:
+- "EvaluationMetricSuite"
+---
 # Evaluation_Metric_Suite
 
 **Domain**: Cross

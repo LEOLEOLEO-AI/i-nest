@@ -2,6 +2,8 @@
 title: TCC_Topology
 tags:
 - chiplet
+aliases:
+- "TCCTopology"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

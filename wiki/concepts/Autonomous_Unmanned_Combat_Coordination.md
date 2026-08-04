@@ -1,3 +1,7 @@
+---
+aliases:
+- "AutonomousUnmannedCombatCoordination"
+---
 # Autonomous_Unmanned_Combat_Coordination
 
 **Domain**: Cross

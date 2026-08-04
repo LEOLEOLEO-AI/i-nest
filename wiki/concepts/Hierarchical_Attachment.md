@@ -1,3 +1,7 @@
+---
+aliases:
+- "HierarchicalAttachment"
+---
 # Hierarchical_Attachment
 
 **Domain**: TCC

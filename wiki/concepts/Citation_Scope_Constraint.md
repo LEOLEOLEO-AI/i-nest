@@ -1,3 +1,7 @@
+---
+aliases:
+- "CitationScopeConstraint"
+---
 # Citation_Scope_Constraint
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikeTimingDependentPlasticityOnChip"
+---
 # SpikeTiming_Dependent_Plasticity_OnChip
 
 **Domain**: iNEST

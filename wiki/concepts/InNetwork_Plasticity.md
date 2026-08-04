@@ -1,3 +1,7 @@
+---
+aliases:
+- "InNetworkPlasticity"
+---
 # InNetwork_Plasticity
 
 **Domain**: Cross

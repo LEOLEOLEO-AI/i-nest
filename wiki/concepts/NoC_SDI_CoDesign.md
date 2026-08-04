@@ -1,3 +1,7 @@
+---
+aliases:
+- "NoCSDICoDesign"
+---
 # NoC_SDI_CoDesign
 
 **Domain**: TCC

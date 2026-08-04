@@ -1,3 +1,7 @@
+---
+aliases:
+- "CElegansConnectomeAnalogy"
+---
 # C_elegansConnectomeAnalogy
 
 **Domain**: Cross

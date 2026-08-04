@@ -1,3 +1,7 @@
+---
+aliases:
+- "AIFullSpectrumStrategy"
+---
 # AI_FullSpectrum_Strategy
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NishimoriThreshold"
+---
 # Nishimori_Threshold
 
 **Domain**: TCC

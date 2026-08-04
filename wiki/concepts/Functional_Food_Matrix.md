@@ -1,3 +1,7 @@
+---
+aliases:
+- "FunctionalFoodMatrix"
+---
 # Functional_Food_Matrix
 
 **Domain**: Cross

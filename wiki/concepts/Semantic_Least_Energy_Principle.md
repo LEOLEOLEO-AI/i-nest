@@ -1,3 +1,7 @@
+---
+aliases:
+- "SemanticLeastEnergyPrinciple"
+---
 # Semantic_Least_Energy_Principle
 
 **Domain**: Cross

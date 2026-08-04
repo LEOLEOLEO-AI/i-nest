@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
+aliases:
+- "INEST 论文总清单（唯一主文件）"
 ---
 # iNEST 论文总清单（唯一主文件）
 

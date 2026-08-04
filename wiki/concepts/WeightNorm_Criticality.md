@@ -1,3 +1,7 @@
+---
+aliases:
+- "WeightNormCriticality"
+---
 # WeightNorm_Criticality
 
 **Domain**: Cross
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- WeightNormCriticality (merged 2026-08-04)

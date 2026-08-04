@@ -1,3 +1,7 @@
+---
+aliases:
+- "GenerativeHealthcareAI"
+---
 # Generative_Healthcare_AI
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "LongRangeInteractions"
+---
 # Long_Range_Interactions
 
 **Domain**: Cross

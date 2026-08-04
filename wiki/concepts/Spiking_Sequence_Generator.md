@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingSequenceGenerator"
+---
 # Spiking_Sequence_Generator
 
 **Domain**: iNEST

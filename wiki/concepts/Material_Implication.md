@@ -1,3 +1,7 @@
+---
+aliases:
+- "MaterialImplication"
+---
 # Material_Implication
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "AnalogInMemoryProcessing"
+---
 # Analog_InMemory_Processing
 
 **Domain**: Cross

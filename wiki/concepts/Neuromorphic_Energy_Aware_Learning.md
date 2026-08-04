@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicEnergyAwareLearning"
+---
 # Neuromorphic_Energy_Aware_Learning
 
 **Domain**: iNEST

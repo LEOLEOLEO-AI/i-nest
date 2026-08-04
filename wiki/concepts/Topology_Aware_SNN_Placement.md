@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyAwareSNNPlacement"
+---
 # Topology_Aware_SNN_Placement
 
 **Domain**: TCC

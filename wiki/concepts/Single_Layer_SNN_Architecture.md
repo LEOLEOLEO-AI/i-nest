@@ -1,3 +1,7 @@
+---
+aliases:
+- "SingleLayerSNNArchitecture"
+---
 # Single_Layer_SNN_Architecture
 
 **Domain**: iNEST

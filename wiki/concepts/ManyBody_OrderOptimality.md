@@ -1,3 +1,7 @@
+---
+aliases:
+- "ManyBodyOrderOptimality"
+---
 # ManyBody_OrderOptimality
 
 **Domain**: Cross

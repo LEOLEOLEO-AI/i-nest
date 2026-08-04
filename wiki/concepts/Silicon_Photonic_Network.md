@@ -1,3 +1,7 @@
+---
+aliases:
+- "SiliconPhotonicNetwork"
+---
 # Silicon_Photonic_Network
 
 **Domain**: TCC

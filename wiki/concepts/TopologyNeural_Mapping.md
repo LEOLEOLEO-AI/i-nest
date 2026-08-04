@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyNeuralMapping"
+---
 # TopologyNeural_Mapping
 
 **Domain**: Cross

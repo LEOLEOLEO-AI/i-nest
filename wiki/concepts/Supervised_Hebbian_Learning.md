@@ -1,3 +1,7 @@
+---
+aliases:
+- "SupervisedHebbianLearning"
+---
 # Supervised_Hebbian_Learning
 
 **Domain**: iNEST
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- SupervisedHebbianLearning (merged 2026-08-04)

@@ -1,3 +1,7 @@
+---
+aliases:
+- "DisorderAnomalyDuality"
+---
 # Disorder_Anomaly_Duality
 
 **Domain**: Cross

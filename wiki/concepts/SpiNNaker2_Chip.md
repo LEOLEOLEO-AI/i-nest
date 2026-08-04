@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpiNNaker2Chip"
+---
 # SpiNNaker2_Chip
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NetworkLaplacianDynamics"
+---
 # Network_Laplacian_Dynamics
 
 **Domain**: Cross

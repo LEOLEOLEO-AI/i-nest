@@ -1,3 +1,7 @@
+---
+aliases:
+- "SynapticPlasticity"
+---
 # Synaptic_Plasticity
 
 **Domain**: iNEST

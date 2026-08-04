@@ -1,3 +1,7 @@
+---
+aliases:
+- "SparsityCeiling"
+---
 # Sparsity_Ceiling
 
 **Domain**: iNEST
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Sparsity_Ceiling (merged 2026-08-04)

@@ -2,6 +2,8 @@
 title: Topology_Centric_Computing
 tags:
 - chiplet
+aliases:
+- "TopologyCentricComputing"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

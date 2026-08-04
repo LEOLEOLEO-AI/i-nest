@@ -2,6 +2,8 @@
 title: STDP_iNEST
 tags:
 - chiplet
+aliases:
+- "STDPINEST"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

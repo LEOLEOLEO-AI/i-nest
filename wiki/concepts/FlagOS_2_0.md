@@ -2,6 +2,8 @@
 title: FlagOS_2_0
 tags:
 - chiplet
+aliases:
+- "FlagOS20"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

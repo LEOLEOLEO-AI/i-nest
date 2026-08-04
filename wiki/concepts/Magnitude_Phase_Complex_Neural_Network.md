@@ -1,3 +1,7 @@
+---
+aliases:
+- "MagnitudePhaseComplexNeuralNetwork"
+---
 # Magnitude_Phase_Complex_Neural_Network
 
 **Domain**: iNEST

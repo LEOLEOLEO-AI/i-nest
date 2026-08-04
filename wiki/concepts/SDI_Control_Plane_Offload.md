@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDIControlPlaneOffload"
+---
 # SDI_Control_Plane_Offload
 
 **Domain**: Cross

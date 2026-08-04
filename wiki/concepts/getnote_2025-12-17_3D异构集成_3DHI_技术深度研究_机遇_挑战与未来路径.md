@@ -4,6 +4,9 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
+aliases:
+- "Getnote2025-12-173D异构集成3DHI技术深度研究机遇挑战与未来路径"
+- "getnote2025-12-173D异构集成3DHI技术深度研究机遇挑战与未来路径"
 ---
 
 # getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径

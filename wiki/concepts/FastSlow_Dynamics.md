@@ -1,3 +1,7 @@
+---
+aliases:
+- "FastSlowDynamics"
+---
 # FastSlow_Dynamics
 
 **Domain**: iNEST

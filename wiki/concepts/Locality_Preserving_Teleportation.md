@@ -1,3 +1,7 @@
+---
+aliases:
+- "LocalityPreservingTeleportation"
+---
 # Locality_Preserving_Teleportation
 
 **Domain**: iNEST

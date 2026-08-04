@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikeTimingDependentAttention"
+---
 # Spike_Timing_Dependent_Attention
 
 **Domain**: iNEST

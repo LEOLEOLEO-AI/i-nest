@@ -1,3 +1,7 @@
+---
+aliases:
+- "RealTimeNeuromorphicConstraintSatisfaction"
+---
 # Real_Time_Neuromorphic_Constraint_Satisfaction
 
 **Domain**: Cross

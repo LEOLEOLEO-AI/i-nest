@@ -2,6 +2,8 @@
 title: Chiplet_based_heterogeneous_integration
 tags:
 - chiplet
+aliases:
+- "ChipletBasedHeterogeneousIntegration"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

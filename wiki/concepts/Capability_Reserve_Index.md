@@ -1,3 +1,7 @@
+---
+aliases:
+- "CapabilityReserveIndex"
+---
 # Capability_Reserve_Index
 
 **Domain**: TCC

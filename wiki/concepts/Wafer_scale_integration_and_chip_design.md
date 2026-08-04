@@ -2,6 +2,8 @@
 title: Wafer_scale_integration_and_chip_design
 tags:
 - chiplet
+aliases:
+- "WaferScaleIntegrationAndChipDesign"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

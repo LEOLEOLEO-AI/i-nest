@@ -2,6 +2,8 @@
 title: Intelligent_Computing_Infrastructure
 tags:
 - chiplet
+aliases:
+- "IntelligentComputingInfrastructure"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

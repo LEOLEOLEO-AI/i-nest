@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicSensoryMotorLoop"
+---
 # Neuromorphic_SensoryMotor_Loop
 
 **Domain**: Cross

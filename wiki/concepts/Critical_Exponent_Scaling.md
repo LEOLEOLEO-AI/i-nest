@@ -1,3 +1,7 @@
+---
+aliases:
+- "CriticalExponentScaling"
+---
 # Critical_Exponent_Scaling
 
 **Domain**: Cross

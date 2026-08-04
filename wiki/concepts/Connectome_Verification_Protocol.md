@@ -1,3 +1,7 @@
+---
+aliases:
+- "ConnectomeVerificationProtocol"
+---
 # Connectome_Verification_Protocol
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "DendriticCompartmentalization"
+---
 # Dendritic_Compartmentalization
 
 **Domain**: Cross

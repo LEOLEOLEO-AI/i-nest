@@ -1,3 +1,7 @@
+---
+aliases:
+- "PopulationBasedTrainingNCA"
+---
 # PopulationBasedTraining_NCA
 
 **Domain**: Cross

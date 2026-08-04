@@ -1,3 +1,7 @@
+---
+aliases:
+- "EntropyConnectivityPath"
+---
 # Entropy_Connectivity_Path
 
 **Domain**: Cross

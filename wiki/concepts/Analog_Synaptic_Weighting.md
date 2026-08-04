@@ -1,3 +1,7 @@
+---
+aliases:
+- "AnalogSynapticWeighting"
+---
 # Analog_Synaptic_Weighting
 
 **Domain**: Cross

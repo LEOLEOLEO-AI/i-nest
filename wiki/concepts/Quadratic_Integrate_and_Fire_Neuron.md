@@ -1,3 +1,7 @@
+---
+aliases:
+- "QuadraticIntegrateAndFireNeuron"
+---
 # Quadratic_Integrate_and_Fire_Neuron
 
 **Domain**: iNEST

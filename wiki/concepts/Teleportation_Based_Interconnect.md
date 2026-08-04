@@ -1,3 +1,7 @@
+---
+aliases:
+- "TeleportationBasedInterconnect"
+---
 # Teleportation_Based_Interconnect
 
 **Domain**: Cross

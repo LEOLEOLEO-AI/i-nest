@@ -2,6 +2,8 @@
 title: Allreduce_Latency_MVP
 tags:
 - chiplet
+aliases:
+- "AllreduceLatencyMVP"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

@@ -1,3 +1,7 @@
+---
+aliases:
+- "FreeEnergyInterconnectConstraint"
+---
 # Free_Energy_Interconnect_Constraint
 
 **Domain**: Cross

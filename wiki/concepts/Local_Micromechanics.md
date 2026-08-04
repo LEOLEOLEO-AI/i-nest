@@ -1,3 +1,7 @@
+---
+aliases:
+- "LocalMicromechanics"
+---
 # Local_Micromechanics
 
 **Domain**: Cross

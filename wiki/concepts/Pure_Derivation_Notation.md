@@ -1,3 +1,7 @@
+---
+aliases:
+- "PureDerivationNotation"
+---
 # Pure_Derivation_Notation
 
 **Domain**: iNEST

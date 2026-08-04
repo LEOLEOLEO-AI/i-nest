@@ -1,3 +1,7 @@
+---
+aliases:
+- "FPGAAcceleratedSNN"
+---
 # FPGA_Accelerated_SNN
 
 **Domain**: iNEST

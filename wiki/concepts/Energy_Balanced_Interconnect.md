@@ -1,3 +1,7 @@
+---
+aliases:
+- "EnergyBalancedInterconnect"
+---
 # Energy_Balanced_Interconnect
 
 **Domain**: TCC

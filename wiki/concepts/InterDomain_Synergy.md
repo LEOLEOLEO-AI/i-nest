@@ -1,3 +1,7 @@
+---
+aliases:
+- "InterDomainSynergy"
+---
 # InterDomain_Synergy
 
 **Domain**: Cross

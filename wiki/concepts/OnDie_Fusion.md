@@ -1,3 +1,7 @@
+---
+aliases:
+- "OnDieFusion"
+---
 # OnDie_Fusion
 
 **Domain**: TCC

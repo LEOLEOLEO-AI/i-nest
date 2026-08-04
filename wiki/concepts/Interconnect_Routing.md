@@ -1,3 +1,7 @@
+---
+aliases:
+- "InterconnectRouting"
+---
 # Interconnect_Routing
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "DrosophilaFC2Circuit"
+---
 # Drosophila_FC2_Circuit
 
 **Domain**: Cross

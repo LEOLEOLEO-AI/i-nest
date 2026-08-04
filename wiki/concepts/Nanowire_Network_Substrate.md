@@ -1,3 +1,7 @@
+---
+aliases:
+- "NanowireNetworkSubstrate"
+---
 # Nanowire_Network_Substrate
 
 **Domain**: iNEST

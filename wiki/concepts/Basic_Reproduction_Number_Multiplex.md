@@ -1,3 +1,7 @@
+---
+aliases:
+- "BasicReproductionNumberMultiplex"
+---
 # Basic_Reproduction_Number_Multiplex
 
 **Domain**: Cross

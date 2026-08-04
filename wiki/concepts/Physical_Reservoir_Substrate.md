@@ -1,3 +1,7 @@
+---
+aliases:
+- "PhysicalReservoirSubstrate"
+---
 # Physical_Reservoir_Substrate
 
 **Domain**: iNEST

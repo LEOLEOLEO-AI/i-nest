@@ -1,3 +1,7 @@
+---
+aliases:
+- "DeepCodeAlgorithmExtraction"
+---
 # DeepCode_AlgorithmExtraction
 
 **Domain**: iNEST

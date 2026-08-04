@@ -1,3 +1,7 @@
+---
+aliases:
+- "TransferableLightweightNeuromorphic"
+---
 # Transferable_Lightweight_Neuromorphic
 
 **Domain**: iNEST

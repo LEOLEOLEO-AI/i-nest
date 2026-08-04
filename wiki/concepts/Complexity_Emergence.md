@@ -1,6 +1,8 @@
 ---
 title: Complexity_Emergence
 tags: []
+aliases:
+- "ComplexityEmergence"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -40,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
-[[SmallWorldNetwork]]
+[[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

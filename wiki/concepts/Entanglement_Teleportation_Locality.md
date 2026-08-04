@@ -1,3 +1,7 @@
+---
+aliases:
+- "EntanglementTeleportationLocality"
+---
 # Entanglement_Teleportation_Locality
 
 **Domain**: Cross

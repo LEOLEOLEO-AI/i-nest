@@ -1,3 +1,7 @@
+---
+aliases:
+- "GeneralizationBoundSpectra"
+---
 # Generalization_Bound_Spectra
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ZqSurfaceCode"
+---
 # Zq_Surface_Code
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "UltrametricEnergyLandscape"
+---
 # Ultrametric_Energy_Landscape
 
 **Domain**: Cross

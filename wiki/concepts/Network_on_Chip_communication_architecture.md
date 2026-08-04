@@ -2,6 +2,8 @@
 title: Network_on_Chip_communication_architecture
 tags:
 - chiplet
+aliases:
+- "NetworkOnChipCommunicationArchitecture"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

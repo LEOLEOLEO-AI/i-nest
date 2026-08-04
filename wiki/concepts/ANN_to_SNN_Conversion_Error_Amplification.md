@@ -1,3 +1,7 @@
+---
+aliases:
+- "ANNToSNNConversionErrorAmplification"
+---
 # ANN_to_SNN_Conversion_Error_Amplification
 
 **Domain**: Cross

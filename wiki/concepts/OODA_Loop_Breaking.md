@@ -1,3 +1,7 @@
+---
+aliases:
+- "OODALoopBreaking"
+---
 # OODA_Loop_Breaking
 
 **Domain**: Cross

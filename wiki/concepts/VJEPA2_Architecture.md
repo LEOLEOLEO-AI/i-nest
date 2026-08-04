@@ -1,3 +1,7 @@
+---
+aliases:
+- "VJEPA2Architecture"
+---
 # VJEPA2_Architecture
 
 **Domain**: Cross

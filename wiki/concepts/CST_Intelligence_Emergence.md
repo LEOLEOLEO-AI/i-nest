@@ -1,6 +1,8 @@
 ---
 title: CST_Intelligence_Emergence
 tags: []
+aliases:
+- "CSTIntelligenceEmergence"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

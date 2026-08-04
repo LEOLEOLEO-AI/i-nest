@@ -1,3 +1,7 @@
+---
+aliases:
+- "DomainClassificationSystem"
+---
 # Domain_Classification_System
 
 **Domain**: Cross

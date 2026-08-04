@@ -1,3 +1,7 @@
+---
+aliases:
+- "BackpropFreeLearning"
+---
 # BackpropFree_Learning
 
 **Domain**: Cross

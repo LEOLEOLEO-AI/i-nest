@@ -1,3 +1,7 @@
+---
+aliases:
+- "CascadingFailureMitigation"
+---
 # Cascading_Failure_Mitigation
 
 **Domain**: TCC

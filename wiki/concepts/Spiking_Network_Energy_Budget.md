@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingNetworkEnergyBudget"
+---
 # Spiking_Network_Energy_Budget
 
 **Domain**: iNEST

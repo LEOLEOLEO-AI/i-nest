@@ -1,3 +1,7 @@
+---
+aliases:
+- "TrustedMicroelectronicsSupplyChain"
+---
 # Trusted_Microelectronics_Supply_Chain
 
 **Domain**: TCC

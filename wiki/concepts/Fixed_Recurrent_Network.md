@@ -1,3 +1,7 @@
+---
+aliases:
+- "FixedRecurrentNetwork"
+---
 # Fixed_Recurrent_Network
 
 **Domain**: iNEST

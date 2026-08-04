@@ -1,6 +1,8 @@
 ---
 title: Patent_Textbook_Synchronization
 tags: []
+aliases:
+- "PatentTextbookSynchronization"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

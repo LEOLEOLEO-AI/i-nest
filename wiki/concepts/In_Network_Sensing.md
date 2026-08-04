@@ -1,3 +1,7 @@
+---
+aliases:
+- "InNetworkSensing"
+---
 # In_Network_Sensing
 
 **Domain**: TCC

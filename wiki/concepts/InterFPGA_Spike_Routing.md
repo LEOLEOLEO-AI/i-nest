@@ -1,3 +1,7 @@
+---
+aliases:
+- "InterFPGASpikeRouting"
+---
 # InterFPGA_Spike_Routing
 
 **Domain**: Cross

@@ -2,6 +2,8 @@
 title: Decoupled_Prior_States
 tags:
 - chiplet
+aliases:
+- "DecoupledPriorStates"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

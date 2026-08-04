@@ -2,6 +2,8 @@
 title: NoC_SDI
 tags:
 - chiplet
+aliases:
+- "NoCSDI"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

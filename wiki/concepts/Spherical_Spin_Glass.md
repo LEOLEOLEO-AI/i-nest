@@ -1,3 +1,7 @@
+---
+aliases:
+- "SphericalSpinGlass"
+---
 # Spherical_Spin_Glass
 
 **Domain**: iNEST

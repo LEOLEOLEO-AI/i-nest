@@ -1,3 +1,7 @@
+---
+aliases:
+- "PlasticityRoutingCoDesign"
+---
 # Plasticity_Routing_CoDesign
 
 **Domain**: TCC

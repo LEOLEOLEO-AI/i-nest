@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemristorCrossbarArray"
+---
 # Memristor_Crossbar_Array
 
 **Domain**: Cross

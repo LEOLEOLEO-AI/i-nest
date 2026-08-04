@@ -1,3 +1,7 @@
+---
+aliases:
+- "LayeredAttractiveHubbardModel"
+---
 # Layered_Attractive_Hubbard_Model
 
 **Domain**: Cross

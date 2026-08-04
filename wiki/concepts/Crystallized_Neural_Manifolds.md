@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrystallizedNeuralManifolds"
+---
 # Crystallized_Neural_Manifolds
 
 **Domain**: Cross

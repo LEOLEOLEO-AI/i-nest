@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemristiveCAMIndexing"
+---
 # Memristive_CAM_Indexing
 
 **Domain**: iNEST

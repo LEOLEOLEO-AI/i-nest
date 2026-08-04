@@ -1,3 +1,7 @@
+---
+aliases:
+- "BattlefieldAIDeployment"
+---
 # Battlefield_AI_Deployment
 
 **Domain**: iNEST

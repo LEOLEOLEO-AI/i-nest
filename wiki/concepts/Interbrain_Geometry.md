@@ -1,3 +1,7 @@
+---
+aliases:
+- "InterbrainGeometry"
+---
 # Interbrain_Geometry
 
 **Domain**: Cross

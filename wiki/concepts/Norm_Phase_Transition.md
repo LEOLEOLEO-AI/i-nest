@@ -1,3 +1,7 @@
+---
+aliases:
+- "NormPhaseTransition"
+---
 # Norm_Phase_Transition
 
 **Domain**: Cross

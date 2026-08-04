@@ -1,3 +1,7 @@
+---
+aliases:
+- "CompressedGlassNetwork"
+---
 # Compressed_Glass_Network
 
 **Domain**: iNEST

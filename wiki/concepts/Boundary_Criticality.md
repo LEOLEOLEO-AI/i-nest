@@ -1,3 +1,7 @@
+---
+aliases:
+- "BoundaryCriticality"
+---
 # Boundary_Criticality
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicSpiking"
+---
 # Neuromorphic_Spiking
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "PseudogapFormation"
+---
 # Pseudogap_Formation
 
 **Domain**: Cross

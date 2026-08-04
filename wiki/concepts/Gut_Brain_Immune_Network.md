@@ -1,3 +1,7 @@
+---
+aliases:
+- "GutBrainImmuneNetwork"
+---
 # Gut_Brain_Immune_Network
 
 **Domain**: iNEST

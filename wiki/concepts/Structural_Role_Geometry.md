@@ -1,3 +1,7 @@
+---
+aliases:
+- "StructuralRoleGeometry"
+---
 # Structural_Role_Geometry
 
 **Domain**: TCC

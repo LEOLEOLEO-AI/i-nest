@@ -1,3 +1,7 @@
+---
+aliases:
+- "TransformerSurpassingArchitecture"
+---
 # Transformer_Surpassing_Architecture
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrossNodeEventPropagation"
+---
 # Cross_Node_Event_Propagation
 
 **Domain**: Cross

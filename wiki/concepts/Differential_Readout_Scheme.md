@@ -1,3 +1,7 @@
+---
+aliases:
+- "DifferentialReadoutScheme"
+---
 # Differential_Readout_Scheme
 
 **Domain**: iNEST

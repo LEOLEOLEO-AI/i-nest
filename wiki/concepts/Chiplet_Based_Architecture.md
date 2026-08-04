@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipletBasedArchitecture"
+---
 # Chiplet_Based_Architecture
 
 **Domain**: TCC

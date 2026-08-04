@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDISTDPRule"
+---
 # SDI_STDP_Rule
 
 **Domain**: Cross

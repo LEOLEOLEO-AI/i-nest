@@ -1,3 +1,7 @@
+---
+aliases:
+- "FCDCArchitecture"
+---
 # FCDC_Architecture
 
 **Domain**: Cross

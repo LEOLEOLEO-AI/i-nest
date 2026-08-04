@@ -1,3 +1,7 @@
+---
+aliases:
+- "UncertaintyGuarantees"
+---
 # Uncertainty_Guarantees
 
 **Domain**: iNEST

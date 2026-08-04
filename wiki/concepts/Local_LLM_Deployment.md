@@ -1,3 +1,7 @@
+---
+aliases:
+- "LocalLLMDeployment"
+---
 # Local_LLM_Deployment
 
 **Domain**: iNEST

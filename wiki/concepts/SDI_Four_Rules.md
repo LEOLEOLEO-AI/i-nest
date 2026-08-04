@@ -2,6 +2,8 @@
 title: SDI_Four_Rules
 tags:
 - chiplet
+aliases:
+- "SDIFourRules"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

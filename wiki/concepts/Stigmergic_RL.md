@@ -1,3 +1,7 @@
+---
+aliases:
+- "StigmergicRL"
+---
 # Stigmergic_RL
 
 **Domain**: Cross

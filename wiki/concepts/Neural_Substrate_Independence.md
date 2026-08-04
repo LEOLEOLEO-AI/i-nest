@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuralSubstrateIndependence"
+---
 # Neural_Substrate_Independence
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipletBasedNeuromorphicIntegration"
+---
 # Chiplet_Based_Neuromorphic_Integration
 
 **Domain**: iNEST

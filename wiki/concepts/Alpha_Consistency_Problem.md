@@ -2,6 +2,8 @@
 title: Alpha_Consistency_Problem
 tags:
 - chiplet
+aliases:
+- "AlphaConsistencyProblem"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

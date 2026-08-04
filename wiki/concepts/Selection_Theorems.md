@@ -1,3 +1,7 @@
+---
+aliases:
+- "SelectionTheorems"
+---
 # Selection_Theorems
 
 **Domain**: Cross

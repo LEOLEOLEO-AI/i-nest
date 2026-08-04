@@ -1,3 +1,7 @@
+---
+aliases:
+- "SiliconNeuronDynamics"
+---
 # Silicon_Neuron_Dynamics
 
 **Domain**: iNEST

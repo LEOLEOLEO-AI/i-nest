@@ -1,3 +1,7 @@
+---
+aliases:
+- "DARPATechnologyGap"
+---
 # DARPA_TechnologyGap
 
 **Domain**: Cross

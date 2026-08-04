@@ -1,3 +1,7 @@
+---
+aliases:
+- "SISModel"
+---
 # SIS_Model
 
 **Domain**: Cross

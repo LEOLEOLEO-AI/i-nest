@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicallyNontrivialMulticriticalPoints"
+---
 # Topologically_Nontrivial_Multicritical_Points
 
 **Domain**: TCC

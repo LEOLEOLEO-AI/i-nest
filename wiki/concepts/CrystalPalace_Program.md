@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrystalPalaceProgram"
+---
 # CrystalPalace_Program
 
 **Domain**: Cross

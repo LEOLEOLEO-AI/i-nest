@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuralFieldsWorldModels"
+---
 # Neural_Fields_World_Models
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "StatisticalPhysicsMapping"
+---
 # Statistical_Physics_Mapping
 
 **Domain**: Cross

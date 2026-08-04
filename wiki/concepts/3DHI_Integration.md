@@ -1,3 +1,7 @@
+---
+aliases:
+- "3DHIIntegration"
+---
 # 3DHI_Integration
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDIStandardReview"
+---
 # SDI_Standard_Review
 
 **Domain**: Cross

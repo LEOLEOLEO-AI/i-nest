@@ -1,3 +1,7 @@
+---
+aliases:
+- "FeFETPolarizationSwitching"
+---
 # FeFET_Polarization_Switching
 
 **Domain**: iNEST

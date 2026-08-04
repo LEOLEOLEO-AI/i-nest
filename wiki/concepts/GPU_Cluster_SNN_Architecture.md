@@ -1,3 +1,7 @@
+---
+aliases:
+- "GPUClusterSNNArchitecture"
+---
 # GPU_Cluster_SNN_Architecture
 
 **Domain**: iNEST

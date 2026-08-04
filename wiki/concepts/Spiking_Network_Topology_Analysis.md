@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingNetworkTopologyAnalysis"
+---
 # Spiking_Network_Topology_Analysis
 
 **Domain**: iNEST

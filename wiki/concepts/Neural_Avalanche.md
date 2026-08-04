@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuralAvalanche"
+---
 # Neural_Avalanche
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "MilitaryAIRevolution"
+---
 # Military_AI_Revolution
 
 **Domain**: Cross

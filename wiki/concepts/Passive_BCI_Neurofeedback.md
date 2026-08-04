@@ -1,3 +1,7 @@
+---
+aliases:
+- "PassiveBCINeurofeedback"
+---
 # Passive_BCI_Neurofeedback
 
 **Domain**: iNEST

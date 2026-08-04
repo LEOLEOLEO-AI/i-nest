@@ -1,3 +1,7 @@
+---
+aliases:
+- "LocalizedTouchFeedback"
+---
 # Localized_Touch_Feedback
 
 **Domain**: Cross

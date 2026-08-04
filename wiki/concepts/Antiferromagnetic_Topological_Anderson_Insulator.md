@@ -1,3 +1,7 @@
+---
+aliases:
+- "AntiferromagneticTopologicalAndersonInsulator"
+---
 # Antiferromagnetic_Topological_Anderson_Insulator
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ScaleFreeDynamicsEncoding"
+---
 # ScaleFree_Dynamics_Encoding
 
 **Domain**: Cross

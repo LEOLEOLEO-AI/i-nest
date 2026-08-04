@@ -1,3 +1,7 @@
+---
+aliases:
+- "AccessibilityPlasticity"
+---
 # Accessibility_Plasticity
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicSensorFusion"
+---
 # Neuromorphic_Sensor_Fusion
 
 **Domain**: iNEST

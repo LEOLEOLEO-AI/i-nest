@@ -1,6 +1,8 @@
 ---
 title: Spike_timing_dependent_plasticity_learning_rule
 tags: []
+aliases:
+- "SpikeTimingDependentPlasticityLearningRule"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

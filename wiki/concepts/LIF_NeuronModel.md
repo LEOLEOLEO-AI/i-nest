@@ -1,3 +1,7 @@
+---
+aliases:
+- "LIFNeuronModel"
+---
 # LIF_NeuronModel
 
 **Domain**: iNEST

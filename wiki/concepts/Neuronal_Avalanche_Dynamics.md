@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuronalAvalancheDynamics"
+---
 # Neuronal_Avalanche_Dynamics
 
 **Domain**: iNEST

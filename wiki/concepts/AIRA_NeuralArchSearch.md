@@ -1,3 +1,7 @@
+---
+aliases:
+- "AIRANeuralArchSearch"
+---
 # AIRA_NeuralArchSearch
 
 **Domain**: Cross

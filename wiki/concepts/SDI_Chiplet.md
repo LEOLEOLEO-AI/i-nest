@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDIChiplet"
+---
 # SDI_Chiplet
 
 **Domain**: Cross

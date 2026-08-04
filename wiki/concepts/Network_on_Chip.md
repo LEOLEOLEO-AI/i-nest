@@ -2,6 +2,8 @@
 title: Network_on_Chip
 tags:
 - chiplet
+aliases:
+- "NetworkOnChip"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

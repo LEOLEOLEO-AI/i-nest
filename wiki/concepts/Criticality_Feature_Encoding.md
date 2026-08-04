@@ -1,3 +1,7 @@
+---
+aliases:
+- "CriticalityFeatureEncoding"
+---
 # Criticality_Feature_Encoding
 
 **Domain**: TCC

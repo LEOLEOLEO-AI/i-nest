@@ -1,3 +1,7 @@
+---
+aliases:
+- "OpenSourceHardwareReuse"
+---
 # OpenSource_Hardware_Reuse
 
 **Domain**: Cross

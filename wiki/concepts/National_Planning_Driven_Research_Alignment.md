@@ -1,3 +1,7 @@
+---
+aliases:
+- "NationalPlanningDrivenResearchAlignment"
+---
 # National_Planning_Driven_Research_Alignment
 
 **Domain**: Cross

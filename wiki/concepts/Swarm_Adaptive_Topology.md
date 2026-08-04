@@ -1,3 +1,7 @@
+---
+aliases:
+- "SwarmAdaptiveTopology"
+---
 # Swarm_Adaptive_Topology
 
 **Domain**: TCC

@@ -2,6 +2,8 @@
 title: SDI_STDP
 tags:
 - chiplet
+aliases:
+- "SDISTDP"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ScalableGraphSearchNeuromorphic"
+---
 # Scalable_Graph_Search_Neuromorphic
 
 **Domain**: Cross

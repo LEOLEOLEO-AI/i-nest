@@ -1,3 +1,7 @@
+---
+aliases:
+- "TechnologyReadinessForecast2045"
+---
 # Technology_Readiness_Forecast_2045
 
 **Domain**: iNEST

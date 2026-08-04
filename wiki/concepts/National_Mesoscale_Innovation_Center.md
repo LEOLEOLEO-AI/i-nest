@@ -2,6 +2,8 @@
 title: National_Mesoscale_Innovation_Center
 tags:
 - chiplet
+aliases:
+- "NationalMesoscaleInnovationCenter"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -44,7 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
-[[SmallWorldNetwork]]
+[[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

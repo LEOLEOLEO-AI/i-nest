@@ -1,3 +1,7 @@
+---
+aliases:
+- "CausalEmergenceArchitecture"
+---
 # Causal_Emergence_Architecture
 
 **Domain**: TCC

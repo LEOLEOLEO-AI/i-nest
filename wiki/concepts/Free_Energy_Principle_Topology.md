@@ -1,3 +1,7 @@
+---
+aliases:
+- "FreeEnergyPrincipleTopology"
+---
 # Free_Energy_Principle_Topology
 
 **Domain**: Cross

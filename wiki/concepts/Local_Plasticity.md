@@ -1,3 +1,7 @@
+---
+aliases:
+- "LocalPlasticity"
+---
 # Local_Plasticity
 
 **Domain**: iNEST

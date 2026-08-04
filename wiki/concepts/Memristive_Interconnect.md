@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemristiveInterconnect"
+---
 # Memristive_Interconnect
 
 **Domain**: Cross

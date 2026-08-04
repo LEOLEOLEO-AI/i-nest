@@ -1,3 +1,7 @@
+---
+aliases:
+- "TeleportationGraphTopology"
+---
 # Teleportation_Graph_Topology
 
 **Domain**: TCC

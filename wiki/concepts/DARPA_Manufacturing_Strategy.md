@@ -1,3 +1,7 @@
+---
+aliases:
+- "DARPAManufacturingStrategy"
+---
 # DARPA_Manufacturing_Strategy
 
 **Domain**: Cross

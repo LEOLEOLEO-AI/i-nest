@@ -1,3 +1,7 @@
+---
+aliases:
+- "ManyToManyPickupDelivery"
+---
 # Many_to_Many_Pickup_Delivery
 
 **Domain**: Cross

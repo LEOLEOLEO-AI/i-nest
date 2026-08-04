@@ -1,3 +1,7 @@
+---
+aliases:
+- "QuantumFeatureMap"
+---
 # Quantum_Feature_Map
 
 **Domain**: Cross

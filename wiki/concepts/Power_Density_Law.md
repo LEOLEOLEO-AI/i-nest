@@ -1,3 +1,7 @@
+---
+aliases:
+- "PowerDensityLaw"
+---
 # Power_Density_Law
 
 **Domain**: Cross

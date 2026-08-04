@@ -1,3 +1,7 @@
+---
+aliases:
+- "STDPMemristiveSynapse"
+---
 # STDP_Memristive_Synapse
 
 **Domain**: iNEST

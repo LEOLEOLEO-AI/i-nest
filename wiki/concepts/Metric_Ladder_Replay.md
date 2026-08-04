@@ -1,3 +1,7 @@
+---
+aliases:
+- "MetricLadderReplay"
+---
 # Metric_Ladder_Replay
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ComparativeFormulationAnalysis"
+---
 # Comparative_Formulation_Analysis
 
 **Domain**: iNEST

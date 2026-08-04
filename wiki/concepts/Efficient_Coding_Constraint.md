@@ -1,3 +1,7 @@
+---
+aliases:
+- "EfficientCodingConstraint"
+---
 # Efficient_Coding_Constraint
 
 **Domain**: iNEST

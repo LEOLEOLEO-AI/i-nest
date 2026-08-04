@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingNeuralNetworkFairnessBenchmarking"
+---
 # Spiking_Neural_Network_Fairness_Benchmarking
 
 **Domain**: iNEST

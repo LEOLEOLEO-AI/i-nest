@@ -1,3 +1,7 @@
+---
+aliases:
+- "GSKSummarize"
+---
 # GSK_Summarize
 
 **Domain**: iNEST

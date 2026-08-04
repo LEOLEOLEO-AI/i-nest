@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicChiplet"
+---
 # Neuromorphic_Chiplet
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ContinuousMemorySystem"
+---
 # Continuous_Memory_System
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "AssociativeMemoryUnification"
+---
 # Associative_Memory_Unification
 
 **Domain**: Cross

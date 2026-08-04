@@ -1,3 +1,7 @@
+---
+aliases:
+- "PhysicalIntelligenceVerification"
+---
 # Physical_Intelligence_Verification
 
 **Domain**: iNEST

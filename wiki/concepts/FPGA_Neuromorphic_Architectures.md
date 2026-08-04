@@ -1,3 +1,7 @@
+---
+aliases:
+- "FPGANeuromorphicArchitectures"
+---
 # FPGA_Neuromorphic_Architectures
 
 **Domain**: Cross

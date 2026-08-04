@@ -1,3 +1,7 @@
+---
+aliases:
+- "EquivariantGraphNeuralNetworks"
+---
 # Equivariant_Graph_Neural_Networks
 
 **Domain**: Cross

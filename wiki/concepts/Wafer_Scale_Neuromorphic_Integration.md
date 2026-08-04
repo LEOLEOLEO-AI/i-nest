@@ -2,6 +2,8 @@
 title: Wafer_Scale_Neuromorphic_Integration
 tags:
 - chiplet
+aliases:
+- "WaferScaleNeuromorphicIntegration"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

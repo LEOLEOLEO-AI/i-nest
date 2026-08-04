@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipletBasedTrustedHardware"
+---
 # Chiplet_Based_Trusted_Hardware
 
 **Domain**: TCC

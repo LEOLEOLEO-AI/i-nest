@@ -1,3 +1,7 @@
+---
+aliases:
+- "StealthUnmannedPlatform"
+---
 # Stealth_Unmanned_Platform
 
 **Domain**: Cross

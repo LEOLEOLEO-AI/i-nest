@@ -1,3 +1,7 @@
+---
+aliases:
+- "AsymmetricInteractionMatrix"
+---
 # Asymmetric_Interaction_Matrix
 
 **Domain**: TCC

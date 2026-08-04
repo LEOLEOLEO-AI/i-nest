@@ -1,3 +1,7 @@
+---
+aliases:
+- "SynapticMotifClassification"
+---
 # Synaptic_Motif_Classification
 
 **Domain**: TCC

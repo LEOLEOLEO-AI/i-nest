@@ -1,3 +1,7 @@
+---
+aliases:
+- "NanoBananaSNNDeck"
+---
 # NanoBanana_SNNDeck
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "HierarchicalInterconnect"
+---
 # Hierarchical_Interconnect
 
 **Domain**: TCC

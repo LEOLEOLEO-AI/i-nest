@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopConferencePaperMining"
+---
 # Top_Conference_Paper_Mining
 
 **Domain**: Cross

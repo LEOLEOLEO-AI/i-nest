@@ -2,6 +2,8 @@
 title: VonNeumann_Complexity_Threshold
 tags:
 - chiplet
+aliases:
+- "VonNeumannComplexityThreshold"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

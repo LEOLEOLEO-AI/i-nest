@@ -1,3 +1,7 @@
+---
+aliases:
+- "EntanglementPhaseTransition"
+---
 # Entanglement_Phase_Transition
 
 **Domain**: iNEST

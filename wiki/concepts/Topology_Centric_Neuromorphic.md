@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyCentricNeuromorphic"
+---
 # Topology_Centric_Neuromorphic
 
 **Domain**: Cross

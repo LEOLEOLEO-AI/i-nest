@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalOriginOfMetastability"
+---
 # Topological_Origin_of_Metastability
 
 **Domain**: Cross

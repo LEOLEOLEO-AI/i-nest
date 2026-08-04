@@ -1,3 +1,7 @@
+---
+aliases:
+- "AntSwarmFunctionalControl"
+---
 # Ant_Swarm_Functional_Control
 
 **Domain**: TCC
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- AntSwarmFunctionalControl (merged 2026-08-04)

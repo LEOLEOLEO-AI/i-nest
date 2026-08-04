@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyAwareInterconnect"
+---
 # Topology_Aware_Interconnect
 
 **Domain**: TCC

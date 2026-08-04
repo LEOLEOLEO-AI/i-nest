@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicIntegration"
+---
 # Neuromorphic_Integration
 
 **Domain**: Cross

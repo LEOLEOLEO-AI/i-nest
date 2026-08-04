@@ -1,3 +1,7 @@
+---
+aliases:
+- "BarrierHierarchyTopology"
+---
 # Barrier_Hierarchy_Topology
 
 **Domain**: Cross

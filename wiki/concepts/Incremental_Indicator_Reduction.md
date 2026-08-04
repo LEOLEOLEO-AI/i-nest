@@ -1,3 +1,7 @@
+---
+aliases:
+- "IncrementalIndicatorReduction"
+---
 # Incremental_Indicator_Reduction
 
 **Domain**: TCC

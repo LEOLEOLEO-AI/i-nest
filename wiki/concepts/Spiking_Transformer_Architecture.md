@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingTransformerArchitecture"
+---
 # Spiking_Transformer_Architecture
 
 **Domain**: iNEST

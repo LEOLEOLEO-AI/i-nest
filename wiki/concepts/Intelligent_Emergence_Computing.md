@@ -1,3 +1,7 @@
+---
+aliases:
+- "IntelligentEmergenceComputing"
+---
 # Intelligent_Emergence_Computing
 
 **Domain**: iNEST

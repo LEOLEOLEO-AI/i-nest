@@ -1,6 +1,8 @@
 ---
 title: Nonlinear_Gain
 tags: []
+aliases:
+- "NonlinearGain"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

@@ -1,3 +1,7 @@
+---
+aliases:
+- "DieToDieProtocol"
+---
 # Die_to_Die_Protocol
 
 **Domain**: TCC

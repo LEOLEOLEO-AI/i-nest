@@ -6,6 +6,7 @@ created: 2026-08-01
 refs: 7
 aliases:
 - "Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？"
+- "Nature Communications生物神经网络中突触多样性如何让人工神经网络更强大？"
 ---
 # Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？
 

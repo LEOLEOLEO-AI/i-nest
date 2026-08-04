@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemristorTopologyCoupling"
+---
 # Memristor_Topology_Coupling
 
 **Domain**: Cross

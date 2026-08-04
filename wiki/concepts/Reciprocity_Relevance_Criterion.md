@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReciprocityRelevanceCriterion"
+---
 # Reciprocity_Relevance_Criterion
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "EGOArchitecture"
+---
 # EGO_Architecture
 
 **Domain**: Cross

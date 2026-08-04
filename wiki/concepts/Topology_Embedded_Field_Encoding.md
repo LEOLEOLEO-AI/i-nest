@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyEmbeddedFieldEncoding"
+---
 # Topology_Embedded_Field_Encoding
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "CoupledOscillatorNetwork"
+---
 # Coupled_Oscillator_Network
 
 **Domain**: iNEST

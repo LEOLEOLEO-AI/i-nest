@@ -2,6 +2,8 @@
 title: Analog_Weight_Storage
 tags:
 - chiplet
+aliases:
+- "AnalogWeightStorage"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

@@ -1,3 +1,7 @@
+---
+aliases:
+- "HardwareAwareDesignSpaceExploration"
+---
 # Hardware_Aware_Design_Space_Exploration
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReconfigurableNeuromorphicAcceleration"
+---
 # Reconfigurable_Neuromorphic_Acceleration
 
 **Domain**: Cross

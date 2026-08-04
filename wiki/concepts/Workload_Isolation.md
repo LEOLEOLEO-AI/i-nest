@@ -1,3 +1,7 @@
+---
+aliases:
+- "WorkloadIsolation"
+---
 # Workload_Isolation
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "DualSidedRoutingResource"
+---
 # DualSided_Routing_Resource
 
 **Domain**: TCC

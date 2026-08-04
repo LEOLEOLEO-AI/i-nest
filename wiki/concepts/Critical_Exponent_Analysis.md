@@ -1,3 +1,7 @@
+---
+aliases:
+- "CriticalExponentAnalysis"
+---
 # Critical_Exponent_Analysis
 
 **Domain**: Cross

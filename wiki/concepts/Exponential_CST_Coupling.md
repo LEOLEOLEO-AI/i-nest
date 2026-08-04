@@ -2,6 +2,8 @@
 title: Exponential_CST_Coupling
 tags:
 - chiplet
+aliases:
+- "ExponentialCSTCoupling"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

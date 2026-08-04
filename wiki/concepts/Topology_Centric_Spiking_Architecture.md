@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyCentricSpikingArchitecture"
+---
 # Topology_Centric_Spiking_Architecture
 
 **Domain**: TCC

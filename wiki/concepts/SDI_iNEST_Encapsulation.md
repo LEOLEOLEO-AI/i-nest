@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDIINESTEncapsulation"
+---
 # SDI_iNEST_Encapsulation
 
 **Domain**: Cross

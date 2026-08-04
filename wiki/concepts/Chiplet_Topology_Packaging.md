@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipletTopologyPackaging"
+---
 # Chiplet_Topology_Packaging
 
 **Domain**: TCC

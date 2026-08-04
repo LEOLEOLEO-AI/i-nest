@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyAwareSynapticMapping"
+---
 # TopologyAware_SynapticMapping
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "HebbianPlasticityManifoldEncoding"
+---
 # Hebbian_Plasticity_Manifold_Encoding
 
 **Domain**: iNEST

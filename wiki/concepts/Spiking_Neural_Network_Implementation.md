@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingNeuralNetworkImplementation"
+---
 # Spiking_Neural_Network_Implementation
 
 **Domain**: iNEST

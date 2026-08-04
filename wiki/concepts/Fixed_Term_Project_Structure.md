@@ -1,3 +1,7 @@
+---
+aliases:
+- "FixedTermProjectStructure"
+---
 # Fixed_Term_Project_Structure
 
 **Domain**: Cross

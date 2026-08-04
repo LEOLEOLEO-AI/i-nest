@@ -1,3 +1,7 @@
+---
+aliases:
+- "MultifractalSignatures"
+---
 # Multifractal_Signatures
 
 **Domain**: iNEST

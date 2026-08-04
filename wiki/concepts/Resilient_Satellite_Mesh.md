@@ -1,3 +1,7 @@
+---
+aliases:
+- "ResilientSatelliteMesh"
+---
 # Resilient_Satellite_Mesh
 
 **Domain**: Cross

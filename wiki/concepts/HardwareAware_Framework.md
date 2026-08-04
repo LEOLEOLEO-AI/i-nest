@@ -1,3 +1,7 @@
+---
+aliases:
+- "HardwareAwareFramework"
+---
 # HardwareAware_Framework
 
 **Domain**: Cross

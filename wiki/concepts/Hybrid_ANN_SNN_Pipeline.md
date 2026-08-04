@@ -1,3 +1,7 @@
+---
+aliases:
+- "HybridANNSNNPipeline"
+---
 # Hybrid_ANN_SNN_Pipeline
 
 **Domain**: iNEST

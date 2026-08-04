@@ -1,3 +1,7 @@
+---
+aliases:
+- "ScarceEEGLearning"
+---
 # Scarce_EEG_Learning
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "CSTSpatiotemporalComplexity"
+---
 # CST_Spatiotemporal_Complexity
 
 **Domain**: Cross

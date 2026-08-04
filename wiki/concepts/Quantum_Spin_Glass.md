@@ -1,3 +1,7 @@
+---
+aliases:
+- "QuantumSpinGlass"
+---
 # Quantum_Spin_Glass
 
 **Domain**: TCC

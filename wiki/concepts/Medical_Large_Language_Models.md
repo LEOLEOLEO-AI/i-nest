@@ -1,3 +1,7 @@
+---
+aliases:
+- "MedicalLargeLanguageModels"
+---
 # Medical_Large_Language_Models
 
 **Domain**: Cross

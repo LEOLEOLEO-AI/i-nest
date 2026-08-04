@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpatiotemporalEmergenceModel"
+---
 # Spatiotemporal_Emergence_Model
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "20WBrainInspiredPlanning"
+---
 # 20W_Brain_Inspired_Planning
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "TechnologyGapInformationWarfare"
+---
 # TechnologyGap_InformationWarfare
 
 **Domain**: Cross

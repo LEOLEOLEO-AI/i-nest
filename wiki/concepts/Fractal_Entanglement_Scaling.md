@@ -1,3 +1,7 @@
+---
+aliases:
+- "FractalEntanglementScaling"
+---
 # Fractal_Entanglement_Scaling
 
 **Domain**: iNEST

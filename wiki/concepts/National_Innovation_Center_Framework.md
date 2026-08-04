@@ -1,3 +1,7 @@
+---
+aliases:
+- "NationalInnovationCenterFramework"
+---
 # National_Innovation_Center_Framework
 
 **Domain**: iNEST

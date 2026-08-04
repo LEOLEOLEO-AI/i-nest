@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuralFieldWorldModel"
+---
 # Neural_Field_World_Model
 
 **Domain**: Cross

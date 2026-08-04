@@ -2,6 +2,8 @@
 title: CST_Exponential_Form
 tags:
 - chiplet
+aliases:
+- "CSTExponentialForm"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

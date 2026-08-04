@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyAwareResourceAllocation"
+---
 # Topology_Aware_Resource_Allocation
 
 **Domain**: TCC

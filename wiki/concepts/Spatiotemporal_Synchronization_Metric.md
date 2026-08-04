@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpatiotemporalSynchronizationMetric"
+---
 # Spatiotemporal_Synchronization_Metric
 
 **Domain**: Cross

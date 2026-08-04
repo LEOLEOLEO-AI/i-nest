@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuroRingTopology"
+---
 # NeuroRing_Topology
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "HardwareNeuronEquations"
+---
 # Hardware_Neuron_Equations
 
 **Domain**: iNEST

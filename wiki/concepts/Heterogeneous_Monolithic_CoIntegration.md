@@ -1,3 +1,7 @@
+---
+aliases:
+- "HeterogeneousMonolithicCoIntegration"
+---
 # Heterogeneous_Monolithic_CoIntegration
 
 **Domain**: TCC

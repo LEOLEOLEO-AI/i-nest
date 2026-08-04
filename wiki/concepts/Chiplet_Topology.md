@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipletTopology"
+---
 # Chiplet_Topology
 
 **Domain**: TCC

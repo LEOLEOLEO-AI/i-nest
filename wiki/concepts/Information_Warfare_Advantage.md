@@ -1,3 +1,7 @@
+---
+aliases:
+- "InformationWarfareAdvantage"
+---
 # Information_Warfare_Advantage
 
 **Domain**: Cross

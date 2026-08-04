@@ -1,3 +1,7 @@
+---
+aliases:
+- "SelfHealingInterconnect"
+---
 # SelfHealing_Interconnect
 
 **Domain**: TCC

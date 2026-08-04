@@ -1,3 +1,7 @@
+---
+aliases:
+- "PortHamiltonianGraphNeuralNetwork"
+---
 # PortHamiltonian_GraphNeuralNetwork
 
 **Domain**: Cross

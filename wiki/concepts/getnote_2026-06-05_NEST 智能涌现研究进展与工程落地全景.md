@@ -4,6 +4,9 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
+aliases:
+- "Getnote2026-06-05NEST 智能涌现研究进展与工程落地全景"
+- "getnote2026-06-05NEST 智能涌现研究进展与工程落地全景"
 ---
 
 # getnote_2026-06-05_NEST 智能涌现研究进展与工程落地全景

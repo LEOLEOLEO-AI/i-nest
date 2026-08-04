@@ -1,3 +1,7 @@
+---
+aliases:
+- "InPackageOpticalInterconnect"
+---
 # In_Package_Optical_Interconnect
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NanowireInterconnectionGraph"
+---
 # Nanowire_Interconnection_Graph
 
 **Domain**: Cross

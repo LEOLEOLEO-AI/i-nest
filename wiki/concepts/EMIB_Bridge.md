@@ -1,3 +1,7 @@
+---
+aliases:
+- "EMIBBridge"
+---
 # EMIB_Bridge
 
 **Domain**: TCC

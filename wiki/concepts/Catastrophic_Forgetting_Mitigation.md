@@ -1,3 +1,7 @@
+---
+aliases:
+- "CatastrophicForgettingMitigation"
+---
 # Catastrophic_Forgetting_Mitigation
 
 **Domain**: iNEST
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- CatastrophicForgettingMitigation (merged 2026-08-04)

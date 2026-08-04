@@ -1,3 +1,7 @@
+---
+aliases:
+- "IzhikevichNeuronModel"
+---
 # Izhikevich_NeuronModel
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SensorimotorMismatch"
+---
 # Sensorimotor_Mismatch
 
 **Domain**: iNEST

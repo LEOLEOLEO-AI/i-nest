@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicSelectiveStateSpace"
+---
 # Neuromorphic_Selective_State_Space
 
 **Domain**: Cross

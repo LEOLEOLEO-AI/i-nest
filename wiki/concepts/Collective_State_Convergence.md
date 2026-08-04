@@ -1,3 +1,7 @@
+---
+aliases:
+- "CollectiveStateConvergence"
+---
 # Collective_State_Convergence
 
 **Domain**: Cross

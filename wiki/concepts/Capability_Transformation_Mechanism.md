@@ -1,3 +1,7 @@
+---
+aliases:
+- "CapabilityTransformationMechanism"
+---
 # Capability_Transformation_Mechanism
 
 **Domain**: TCC

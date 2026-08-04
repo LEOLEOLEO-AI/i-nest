@@ -1,3 +1,7 @@
+---
+aliases:
+- "EmergentGeneralization"
+---
 # Emergent_Generalization
 
 **Domain**: Cross

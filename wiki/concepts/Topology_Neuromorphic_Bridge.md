@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyNeuromorphicBridge"
+---
 # Topology_Neuromorphic_Bridge
 
 **Domain**: Cross
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Topology_Neuromorphic_Bridge (merged 2026-08-04)

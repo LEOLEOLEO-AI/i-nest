@@ -1,3 +1,7 @@
+---
+aliases:
+- "WiFiCSIReservoir"
+---
 # WiFi_CSI_Reservoir
 
 **Domain**: Cross

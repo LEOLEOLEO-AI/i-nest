@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDNNeuromorphicInterface"
+---
 # SDN_Neuromorphic_Interface
 
 **Domain**: iNEST

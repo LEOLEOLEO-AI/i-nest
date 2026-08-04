@@ -1,3 +1,7 @@
+---
+aliases:
+- "MetabolicNeuralFeedbackLoop"
+---
 # Metabolic_Neural_Feedback_Loop
 
 **Domain**: Cross

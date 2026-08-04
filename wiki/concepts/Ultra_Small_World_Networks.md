@@ -1,3 +1,7 @@
+---
+aliases:
+- "UltraSmallWorldNetworks"
+---
 # Ultra_Small_World_Networks
 
 **Domain**: TCC

@@ -2,6 +2,8 @@
 title: Wafer_Scale_Interconnect_Memristor
 tags:
 - chiplet
+aliases:
+- "WaferScaleInterconnectMemristor"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

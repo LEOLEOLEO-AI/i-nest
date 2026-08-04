@@ -1,3 +1,7 @@
+---
+aliases:
+- "SemanticHomeostasis"
+---
 # Semantic_Homeostasis
 
 **Domain**: Cross

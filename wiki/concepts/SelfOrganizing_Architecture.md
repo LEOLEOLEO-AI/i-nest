@@ -1,3 +1,7 @@
+---
+aliases:
+- "SelfOrganizingArchitecture"
+---
 # SelfOrganizing_Architecture
 
 **Domain**: iNEST

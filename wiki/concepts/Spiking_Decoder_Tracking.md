@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingDecoderTracking"
+---
 # Spiking_Decoder_Tracking
 
 **Domain**: iNEST

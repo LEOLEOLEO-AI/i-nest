@@ -1,3 +1,7 @@
+---
+aliases:
+- "WormBrainFlyBodyController"
+---
 # WormBrain_FlyBody_Controller
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "FPGAAcceleratedNeuromorphicOrbitalDetection"
+---
 # FPGA_Accelerated_Neuromorphic_Orbital_Detection
 
 **Domain**: Cross

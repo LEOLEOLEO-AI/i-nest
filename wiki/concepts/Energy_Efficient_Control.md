@@ -1,3 +1,7 @@
+---
+aliases:
+- "EnergyEfficientControl"
+---
 # Energy_Efficient_Control
 
 **Domain**: Cross

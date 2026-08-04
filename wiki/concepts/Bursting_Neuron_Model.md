@@ -1,3 +1,7 @@
+---
+aliases:
+- "BurstingNeuronModel"
+---
 # Bursting_Neuron_Model
 
 **Domain**: iNEST

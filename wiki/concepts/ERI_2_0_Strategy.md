@@ -1,3 +1,7 @@
+---
+aliases:
+- "ERI20Strategy"
+---
 # ERI_2_0_Strategy
 
 **Domain**: Cross

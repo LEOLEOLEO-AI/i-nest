@@ -1,3 +1,7 @@
+---
+aliases:
+- "OpticalInterconnectTopology"
+---
 # Optical_Interconnect_Topology
 
 **Domain**: TCC

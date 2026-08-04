@@ -1,3 +1,7 @@
+---
+aliases:
+- "CoreHaloComplexityMaximizer"
+---
 # CoreHalo_ComplexityMaximizer
 
 **Domain**: Cross

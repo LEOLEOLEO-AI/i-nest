@@ -1,3 +1,7 @@
+---
+aliases:
+- "DARPAProjectManagerModel"
+---
 # DARPA_ProjectManager_Model
 
 **Domain**: Cross

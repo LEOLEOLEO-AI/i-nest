@@ -1,3 +1,7 @@
+---
+aliases:
+- "RecurrentFeedbackErrorPropagation"
+---
 # Recurrent_Feedback_Error_Propagation
 
 **Domain**: TCC

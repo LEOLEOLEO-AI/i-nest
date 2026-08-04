@@ -1,3 +1,7 @@
+---
+aliases:
+- "ArchitecturalConditioning"
+---
 # Architectural_Conditioning
 
 **Domain**: TCC

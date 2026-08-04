@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicMuscleInterface"
+---
 # Neuromorphic_MuscleInterface
 
 **Domain**: iNEST

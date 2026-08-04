@@ -2,6 +2,8 @@
 title: TemporalComplexity_Tc
 tags:
 - chiplet
+aliases:
+- "TemporalComplexityTc"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted
@@ -37,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SmallWorldNetwork]]
+[[Small_World_Network]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy_Complexity]]

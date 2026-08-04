@@ -1,3 +1,7 @@
+---
+aliases:
+- "AcademicIntegrityAssessment"
+---
 # Academic_Integrity_Assessment
 
 **Domain**: Cross

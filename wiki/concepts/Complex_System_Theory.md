@@ -1,6 +1,8 @@
 ---
 title: Complex_System_Theory
 tags: []
+aliases:
+- "ComplexSystemTheory"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

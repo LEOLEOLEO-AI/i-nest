@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuralManifoldEmbedding"
+---
 # Neural_Manifold_Embedding
 
 **Domain**: iNEST

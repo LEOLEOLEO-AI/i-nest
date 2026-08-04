@@ -2,6 +2,8 @@
 title: Macro_System_Description
 tags:
 - chiplet
+aliases:
+- "MacroSystemDescription"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

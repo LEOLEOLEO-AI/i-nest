@@ -1,3 +1,7 @@
+---
+aliases:
+- "KnowledgeGraphNavigation"
+---
 # Knowledge_Graph_Navigation
 
 **Domain**: Cross

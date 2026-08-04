@@ -1,3 +1,7 @@
+---
+aliases:
+- "NetworkMotifSpectralAnalysis"
+---
 # Network_Motif_Spectral_Analysis
 
 **Domain**: TCC

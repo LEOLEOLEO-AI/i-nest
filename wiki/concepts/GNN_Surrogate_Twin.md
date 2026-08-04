@@ -1,3 +1,7 @@
+---
+aliases:
+- "GNNSurrogateTwin"
+---
 # GNN_Surrogate_Twin
 
 **Domain**: TCC

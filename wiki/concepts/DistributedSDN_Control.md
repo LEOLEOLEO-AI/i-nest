@@ -1,3 +1,7 @@
+---
+aliases:
+- "DistributedSDNControl"
+---
 # DistributedSDN_Control
 
 **Domain**: TCC

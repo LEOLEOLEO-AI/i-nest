@@ -1,6 +1,8 @@
 ---
 title: Workload_Layer_Separation
 tags: []
+aliases:
+- "WorkloadLayerSeparation"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

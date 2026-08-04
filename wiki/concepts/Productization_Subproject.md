@@ -1,3 +1,7 @@
+---
+aliases:
+- "ProductizationSubproject"
+---
 # Productization_Subproject
 
 **Domain**: TCC

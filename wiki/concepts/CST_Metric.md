@@ -1,3 +1,7 @@
+---
+aliases:
+- "CSTMetric"
+---
 # CST_Metric
 
 **Domain**: iNEST

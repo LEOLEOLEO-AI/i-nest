@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNSTDPCoDesign"
+---
 # SNN_STDP_CoDesign
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpinGlassEmbedding"
+---
 # SpinGlass_Embedding
 
 **Domain**: Cross

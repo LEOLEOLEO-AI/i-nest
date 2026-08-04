@@ -1,3 +1,7 @@
+---
+aliases:
+- "ControlFieldFramework"
+---
 # Control_Field_Framework
 
 **Domain**: Cross

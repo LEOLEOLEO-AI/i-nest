@@ -1,3 +1,7 @@
+---
+aliases:
+- "MicrogridOptimization"
+---
 # Microgrid_Optimization
 
 **Domain**: Cross

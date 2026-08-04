@@ -1,3 +1,7 @@
+---
+aliases:
+- "DemonstrationValidationProtocol"
+---
 # Demonstration_Validation_Protocol
 
 **Domain**: TCC

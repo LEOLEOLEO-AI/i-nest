@@ -1,3 +1,7 @@
+---
+aliases:
+- "CriticalityAvoidanceTheory"
+---
 # Criticality_Avoidance_Theory
 
 **Domain**: iNEST

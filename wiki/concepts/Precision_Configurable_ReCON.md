@@ -1,3 +1,7 @@
+---
+aliases:
+- "PrecisionConfigurableReCON"
+---
 # Precision_Configurable_ReCON
 
 **Domain**: iNEST

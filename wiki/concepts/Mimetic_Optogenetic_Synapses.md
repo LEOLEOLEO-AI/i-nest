@@ -1,3 +1,7 @@
+---
+aliases:
+- "MimeticOptogeneticSynapses"
+---
 # Mimetic_Optogenetic_Synapses
 
 **Domain**: iNEST

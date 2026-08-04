@@ -1,3 +1,7 @@
+---
+aliases:
+- "LosslessANNSNNConversion"
+---
 # Lossless_ANN_SNN_Conversion
 
 **Domain**: iNEST

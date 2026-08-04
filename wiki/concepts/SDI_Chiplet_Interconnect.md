@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDIChipletInterconnect"
+---
 # SDI_Chiplet_Interconnect
 
 **Domain**: TCC

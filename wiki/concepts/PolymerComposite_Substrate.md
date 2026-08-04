@@ -1,3 +1,7 @@
+---
+aliases:
+- "PolymerCompositeSubstrate"
+---
 # PolymerComposite_Substrate
 
 **Domain**: Cross

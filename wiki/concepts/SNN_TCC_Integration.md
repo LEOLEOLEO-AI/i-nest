@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNTCCIntegration"
+---
 # SNN_TCC_Integration
 
 **Domain**: Cross

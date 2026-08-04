@@ -1,3 +1,7 @@
+---
+aliases:
+- "ContinualLearningStability"
+---
 # Continual_Learning_Stability
 
 **Domain**: iNEST

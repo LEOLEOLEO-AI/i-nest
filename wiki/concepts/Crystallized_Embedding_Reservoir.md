@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrystallizedEmbeddingReservoir"
+---
 # Crystallized_Embedding_Reservoir
 
 **Domain**: iNEST

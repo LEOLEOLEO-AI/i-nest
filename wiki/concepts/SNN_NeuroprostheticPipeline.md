@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNNeuroprostheticPipeline"
+---
 # SNN_NeuroprostheticPipeline
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "CriticalityTransition"
+---
 # Criticality_Transition
 
 **Domain**: Cross
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- CriticalityTransition (merged 2026-08-04)

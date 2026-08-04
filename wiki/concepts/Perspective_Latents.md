@@ -1,3 +1,7 @@
+---
+aliases:
+- "PerspectiveLatents"
+---
 # Perspective_Latents
 
 **Domain**: Cross

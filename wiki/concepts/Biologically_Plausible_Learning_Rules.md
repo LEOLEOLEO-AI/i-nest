@@ -1,3 +1,7 @@
+---
+aliases:
+- "BiologicallyPlausibleLearningRules"
+---
 # Biologically_Plausible_Learning_Rules
 
 **Domain**: iNEST

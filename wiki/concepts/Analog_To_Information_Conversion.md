@@ -1,3 +1,7 @@
+---
+aliases:
+- "AnalogToInformationConversion"
+---
 # Analog_To_Information_Conversion
 
 **Domain**: Cross

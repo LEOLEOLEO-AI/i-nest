@@ -2,6 +2,8 @@
 title: RenormalizationGroup_ScalingLaws
 tags:
 - chiplet
+aliases:
+- "RenormalizationGroupScalingLaws"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

@@ -1,3 +1,7 @@
+---
+aliases:
+- "MeanFieldGlassModel"
+---
 # MeanField_Glass_Model
 
 **Domain**: Cross

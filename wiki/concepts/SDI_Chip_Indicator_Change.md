@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDIChipIndicatorChange"
+---
 # SDI_Chip_Indicator_Change
 
 **Domain**: TCC

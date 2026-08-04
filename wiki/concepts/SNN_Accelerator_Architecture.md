@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNAcceleratorArchitecture"
+---
 # SNN_Accelerator_Architecture
 
 **Domain**: iNEST

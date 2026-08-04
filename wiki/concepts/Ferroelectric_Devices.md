@@ -1,3 +1,7 @@
+---
+aliases:
+- "FerroelectricDevices"
+---
 # Ferroelectric_Devices
 
 **Domain**: iNEST

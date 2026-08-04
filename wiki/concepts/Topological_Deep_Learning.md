@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalDeepLearning"
+---
 # Topological_Deep_Learning
 
 **Domain**: Cross

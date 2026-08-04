@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDDEPhysicalDynamics"
+---
 # SDDE_Physical_Dynamics
 
 **Domain**: TCC

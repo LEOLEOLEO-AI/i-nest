@@ -1,3 +1,7 @@
+---
+aliases:
+- "AIMaterialDesignProductionGap"
+---
 # AI_Material_Design_Production_Gap
 
 **Domain**: Cross

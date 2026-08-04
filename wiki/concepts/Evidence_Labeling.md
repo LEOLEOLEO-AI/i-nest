@@ -1,3 +1,7 @@
+---
+aliases:
+- "EvidenceLabeling"
+---
 # Evidence_Labeling
 
 **Domain**: Cross

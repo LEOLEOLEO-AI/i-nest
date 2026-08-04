@@ -1,3 +1,7 @@
+---
+aliases:
+- "ElectronicNeuronCircuit"
+---
 # Electronic_Neuron_Circuit
 
 **Domain**: iNEST

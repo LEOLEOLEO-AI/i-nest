@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDIInterconnect"
+---
 # SDI_Interconnect
 
 **Domain**: TCC

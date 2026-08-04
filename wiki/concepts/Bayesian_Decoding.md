@@ -1,3 +1,7 @@
+---
+aliases:
+- "BayesianDecoding"
+---
 # Bayesian_Decoding
 
 **Domain**: Cross

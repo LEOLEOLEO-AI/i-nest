@@ -1,3 +1,7 @@
+---
+aliases:
+- "StateTransitionFormalism"
+---
 # State_Transition_Formalism
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "3DGSSplatPrimitive"
+---
 # 3DGS_SplatPrimitive
 
 **Domain**: Cross

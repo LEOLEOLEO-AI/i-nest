@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyInducedRepresentation"
+---
 # Topology_Induced_Representation
 
 **Domain**: TCC

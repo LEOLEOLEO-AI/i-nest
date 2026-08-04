@@ -1,3 +1,7 @@
+---
+aliases:
+- "InContextLearning"
+---
 # In_Context_Learning
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SynergisticRoute"
+---
 # Synergistic_Route
 
 **Domain**: iNEST

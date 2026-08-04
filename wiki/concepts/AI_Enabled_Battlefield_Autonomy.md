@@ -1,3 +1,7 @@
+---
+aliases:
+- "AIEnabledBattlefieldAutonomy"
+---
 # AI_Enabled_Battlefield_Autonomy
 
 **Domain**: Cross

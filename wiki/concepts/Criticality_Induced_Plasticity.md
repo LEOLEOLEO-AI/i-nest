@@ -1,3 +1,7 @@
+---
+aliases:
+- "CriticalityInducedPlasticity"
+---
 # Criticality_Induced_Plasticity
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "EmergentReservoirTopology"
+---
 # Emergent_Reservoir_Topology
 
 **Domain**: iNEST

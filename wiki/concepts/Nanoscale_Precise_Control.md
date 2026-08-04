@@ -1,3 +1,7 @@
+---
+aliases:
+- "NanoscalePreciseControl"
+---
 # Nanoscale_Precise_Control
 
 **Domain**: Cross

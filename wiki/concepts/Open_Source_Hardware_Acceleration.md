@@ -1,3 +1,7 @@
+---
+aliases:
+- "OpenSourceHardwareAcceleration"
+---
 # Open_Source_Hardware_Acceleration
 
 **Domain**: Cross

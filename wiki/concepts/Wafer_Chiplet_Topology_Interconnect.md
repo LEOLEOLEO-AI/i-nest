@@ -1,3 +1,7 @@
+---
+aliases:
+- "WaferChipletTopologyInterconnect"
+---
 # Wafer_Chiplet_Topology_Interconnect
 
 **Domain**: TCC

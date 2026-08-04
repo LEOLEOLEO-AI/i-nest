@@ -1,3 +1,7 @@
+---
+aliases:
+- "CognitiveRelapseDecoupling"
+---
 # Cognitive_Relapse_Decoupling
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "DeepSNNTrainability"
+---
 # Deep_SNN_Trainability
 
 **Domain**: iNEST

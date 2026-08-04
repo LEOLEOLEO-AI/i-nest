@@ -1,3 +1,7 @@
+---
+aliases:
+- "DigestNoteTemplate"
+---
 # Digest_Note_Template
 
 **Domain**: Cross

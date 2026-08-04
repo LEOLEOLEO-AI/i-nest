@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReconfigurableSNNAccelerator"
+---
 # ReconfigurableSNN_Accelerator
 
 **Domain**: Cross

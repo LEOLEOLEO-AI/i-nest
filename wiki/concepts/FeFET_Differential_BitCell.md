@@ -1,3 +1,7 @@
+---
+aliases:
+- "FeFETDifferentialBitCell"
+---
 # FeFET_Differential_BitCell
 
 **Domain**: iNEST
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- FeFET_Differential_BitCell (merged 2026-08-04)

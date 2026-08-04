@@ -1,3 +1,7 @@
+---
+aliases:
+- "InNetworkNeuromorphicScheduling"
+---
 # In_Network_Neuromorphic_Scheduling
 
 **Domain**: iNEST

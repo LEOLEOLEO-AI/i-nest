@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrossDomainNeuromorphicAbstraction"
+---
 # CrossDomain_Neuromorphic_Abstraction
 
 **Domain**: Cross

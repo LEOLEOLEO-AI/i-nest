@@ -1,3 +1,7 @@
+---
+aliases:
+- "PostMooreParadigm"
+---
 # Post_Moore_Paradigm
 
 **Domain**: Cross

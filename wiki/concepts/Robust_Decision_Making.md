@@ -1,3 +1,7 @@
+---
+aliases:
+- "RobustDecisionMaking"
+---
 # Robust_Decision_Making
 
 **Domain**: iNEST

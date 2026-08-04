@@ -1,3 +1,7 @@
+---
+aliases:
+- "FractalScaling"
+---
 # Fractal_Scaling
 
 **Domain**: TCC

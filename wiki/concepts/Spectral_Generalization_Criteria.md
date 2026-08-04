@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpectralGeneralizationCriteria"
+---
 # Spectral_Generalization_Criteria
 
 **Domain**: iNEST
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- SpectralGeneralizationCriteria (merged 2026-08-04)

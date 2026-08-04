@@ -1,3 +1,7 @@
+---
+aliases:
+- "ConnectomeInspiredArchitecture"
+---
 # Connectome_Inspired_Architecture
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalReservoir"
+---
 # Topological_Reservoir
 
 **Domain**: TCC

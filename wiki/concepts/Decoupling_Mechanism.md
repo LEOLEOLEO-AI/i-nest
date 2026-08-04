@@ -1,3 +1,7 @@
+---
+aliases:
+- "DecouplingMechanism"
+---
 # Decoupling_Mechanism
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "Loihi2OnChipLearning"
+---
 # Loihi2_OnChip_Learning
 
 **Domain**: iNEST

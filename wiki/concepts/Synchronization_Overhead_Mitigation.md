@@ -1,3 +1,7 @@
+---
+aliases:
+- "SynchronizationOverheadMitigation"
+---
 # Synchronization_Overhead_Mitigation
 
 **Domain**: Cross

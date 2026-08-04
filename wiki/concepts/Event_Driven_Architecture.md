@@ -1,3 +1,7 @@
+---
+aliases:
+- "EventDrivenArchitecture"
+---
 # Event_Driven_Architecture
 
 **Domain**: Cross

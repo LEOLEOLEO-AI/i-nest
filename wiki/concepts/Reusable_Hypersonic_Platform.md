@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReusableHypersonicPlatform"
+---
 # Reusable_Hypersonic_Platform
 
 **Domain**: Cross

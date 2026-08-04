@@ -1,3 +1,7 @@
+---
+aliases:
+- "SexNetworkInteraction"
+---
 # Sex_Network_Interaction
 
 **Domain**: Cross

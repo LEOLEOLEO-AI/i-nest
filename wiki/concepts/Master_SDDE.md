@@ -1,3 +1,7 @@
+---
+aliases:
+- "MasterSDDE"
+---
 # Master_SDDE
 
 **Domain**: iNEST

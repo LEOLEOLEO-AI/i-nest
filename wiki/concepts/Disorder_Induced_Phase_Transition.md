@@ -1,3 +1,7 @@
+---
+aliases:
+- "DisorderInducedPhaseTransition"
+---
 # Disorder_Induced_Phase_Transition
 
 **Domain**: Cross

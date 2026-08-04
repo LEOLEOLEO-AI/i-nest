@@ -1,3 +1,7 @@
+---
+aliases:
+- "LayerSpecificSpreadingRate"
+---
 # Layer_Specific_Spreading_Rate
 
 **Domain**: TCC

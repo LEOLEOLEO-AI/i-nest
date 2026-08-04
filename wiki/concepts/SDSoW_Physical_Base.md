@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDSoWPhysicalBase"
+---
 # SDSoW_Physical_Base
 
 **Domain**: TCC

@@ -2,6 +2,8 @@
 title: UniversalIntelligence_Emergence
 tags:
 - chiplet
+aliases:
+- "UniversalIntelligenceEmergence"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

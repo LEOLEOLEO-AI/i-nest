@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrossDomainValidation"
+---
 # CrossDomain_Validation
 
 **Domain**: Cross

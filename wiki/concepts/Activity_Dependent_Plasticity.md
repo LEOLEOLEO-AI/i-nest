@@ -1,3 +1,7 @@
+---
+aliases:
+- "ActivityDependentPlasticity"
+---
 # Activity_Dependent_Plasticity
 
 **Domain**: iNEST

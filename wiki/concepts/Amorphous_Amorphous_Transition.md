@@ -1,3 +1,7 @@
+---
+aliases:
+- "AmorphousAmorphousTransition"
+---
 # Amorphous_Amorphous_Transition
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "MultipartiteEntanglementFractals"
+---
 # Multipartite_Entanglement_Fractals
 
 **Domain**: iNEST

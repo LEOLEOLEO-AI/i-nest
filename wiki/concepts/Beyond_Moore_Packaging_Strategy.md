@@ -1,3 +1,7 @@
+---
+aliases:
+- "BeyondMoorePackagingStrategy"
+---
 # Beyond_Moore_Packaging_Strategy
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReservoirStateEncoding"
+---
 # Reservoir_State_Encoding
 
 **Domain**: iNEST

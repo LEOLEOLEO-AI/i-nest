@@ -1,3 +1,7 @@
+---
+aliases:
+- "DualSided3DIntegration"
+---
 # DualSided_3D_Integration
 
 **Domain**: TCC

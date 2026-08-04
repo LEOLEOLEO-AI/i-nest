@@ -1,3 +1,7 @@
+---
+aliases:
+- "EmergentNonlinearDynamics"
+---
 # Emergent_Nonlinear_Dynamics
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "FixedCostDominance"
+---
 # Fixed_Cost_Dominance
 
 **Domain**: Cross

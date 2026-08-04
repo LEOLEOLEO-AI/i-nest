@@ -1,3 +1,7 @@
+---
+aliases:
+- "InNetworkLearningDynamics"
+---
 # In_Network_Learning_Dynamics
 
 **Domain**: iNEST

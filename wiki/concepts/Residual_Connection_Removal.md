@@ -2,6 +2,8 @@
 title: Residual_Connection_Removal
 tags:
 - chiplet
+aliases:
+- "ResidualConnectionRemoval"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

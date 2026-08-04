@@ -2,6 +2,8 @@
 title: Free_Energy_Principle_Network
 tags:
 - chiplet
+aliases:
+- "FreeEnergyPrincipleNetwork"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

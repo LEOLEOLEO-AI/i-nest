@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDSoWReconfigurableNetwork"
+---
 # SDSoW_Reconfigurable_Network
 
 **Domain**: TCC

@@ -2,6 +2,8 @@
 title: Topology_Page
 tags:
 - chiplet
+aliases:
+- "TopologyPage"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

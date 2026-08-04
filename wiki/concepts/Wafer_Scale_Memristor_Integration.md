@@ -1,3 +1,7 @@
+---
+aliases:
+- "WaferScaleMemristorIntegration"
+---
 # Wafer_Scale_Memristor_Integration
 
 **Domain**: Cross
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Wafer_Scale_Memristor_Integration (merged 2026-08-04)

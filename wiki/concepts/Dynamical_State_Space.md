@@ -1,3 +1,7 @@
+---
+aliases:
+- "DynamicalStateSpace"
+---
 # Dynamical_State_Space
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingNetworkSimulationPlacement"
+---
 # Spiking_Network_Simulation_Placement
 
 **Domain**: iNEST

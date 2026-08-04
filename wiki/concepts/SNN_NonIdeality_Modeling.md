@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNNonIdealityModeling"
+---
 # SNN_NonIdeality_Modeling
 
 **Domain**: iNEST

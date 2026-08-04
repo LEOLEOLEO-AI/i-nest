@@ -2,6 +2,8 @@
 title: Nonlinear_Topology_Amplification
 tags:
 - chiplet
+aliases:
+- "NonlinearTopologyAmplification"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

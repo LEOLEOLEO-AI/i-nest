@@ -1,3 +1,7 @@
+---
+aliases:
+- "NonEquilibriumRSBPhase"
+---
 # NonEquilibrium_RSB_Phase
 
 **Domain**: Cross

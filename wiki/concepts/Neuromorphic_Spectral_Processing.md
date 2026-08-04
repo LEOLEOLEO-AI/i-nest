@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicSpectralProcessing"
+---
 # Neuromorphic_Spectral_Processing
 
 **Domain**: iNEST

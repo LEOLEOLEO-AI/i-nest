@@ -1,3 +1,7 @@
+---
+aliases:
+- "FullSpectrumDomainIntegration"
+---
 # FullSpectrum_DomainIntegration
 
 **Domain**: Cross

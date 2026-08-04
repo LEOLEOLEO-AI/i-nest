@@ -1,3 +1,7 @@
+---
+aliases:
+- "HybridVolatileNonVolatileMode"
+---
 # Hybrid_Volatile_NonVolatile_Mode
 
 **Domain**: iNEST

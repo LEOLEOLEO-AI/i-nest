@@ -1,3 +1,7 @@
+---
+aliases:
+- "SequenceAwareSFCPartitioning"
+---
 # SequenceAwareSFC_Partitioning
 
 **Domain**: TCC

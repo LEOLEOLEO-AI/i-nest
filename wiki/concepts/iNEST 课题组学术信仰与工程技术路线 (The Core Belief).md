@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
+aliases:
+- "INEST 课题组学术信仰与工程技术路线 (The Core Belief)"
 ---
 # iNEST 课题组学术信仰与工程技术路线 (The Core Belief)
 

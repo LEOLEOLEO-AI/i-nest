@@ -1,3 +1,7 @@
+---
+aliases:
+- "SparseDistributedMemory"
+---
 # Sparse_Distributed_Memory
 
 **Domain**: iNEST

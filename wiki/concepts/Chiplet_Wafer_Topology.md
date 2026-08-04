@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipletWaferTopology"
+---
 # Chiplet_Wafer_Topology
 
 **Domain**: Cross

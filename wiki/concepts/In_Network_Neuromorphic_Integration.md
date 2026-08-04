@@ -2,6 +2,8 @@
 title: In_Network_Neuromorphic_Integration
 tags:
 - chiplet
+aliases:
+- "InNetworkNeuromorphicIntegration"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

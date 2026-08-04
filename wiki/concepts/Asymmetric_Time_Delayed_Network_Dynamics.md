@@ -1,3 +1,7 @@
+---
+aliases:
+- "AsymmetricTimeDelayedNetworkDynamics"
+---
 # Asymmetric_Time_Delayed_Network_Dynamics
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NegativeResultRetention"
+---
 # Negative_Result_Retention
 
 **Domain**: TCC

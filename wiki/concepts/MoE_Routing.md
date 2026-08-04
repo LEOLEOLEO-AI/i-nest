@@ -1,3 +1,7 @@
+---
+aliases:
+- "MoERouting"
+---
 # MoE_Routing
 
 **Domain**: TCC

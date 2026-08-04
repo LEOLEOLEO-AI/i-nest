@@ -1,3 +1,8 @@
+---
+aliases:
+- "INESTTopology"
+- "iNESTTopology"
+---
 # iNEST_Topology
 
 **Domain**: iNEST

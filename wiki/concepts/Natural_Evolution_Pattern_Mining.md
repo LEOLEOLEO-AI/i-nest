@@ -1,3 +1,7 @@
+---
+aliases:
+- "NaturalEvolutionPatternMining"
+---
 # Natural_Evolution_Pattern_Mining
 
 **Domain**: Cross

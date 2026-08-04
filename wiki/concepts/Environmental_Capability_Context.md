@@ -1,3 +1,7 @@
+---
+aliases:
+- "EnvironmentalCapabilityContext"
+---
 # Environmental_Capability_Context
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "PostMooreStandardDefinition"
+---
 # Post_Moore_Standard_Definition
 
 **Domain**: TCC

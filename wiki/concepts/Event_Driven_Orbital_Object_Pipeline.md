@@ -1,3 +1,7 @@
+---
+aliases:
+- "EventDrivenOrbitalObjectPipeline"
+---
 # Event_Driven_Orbital_Object_Pipeline
 
 **Domain**: iNEST

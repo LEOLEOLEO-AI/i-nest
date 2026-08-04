@@ -1,3 +1,7 @@
+---
+aliases:
+- "DisorderedHeisenbergModel"
+---
 # Disordered_Heisenberg_Model
 
 **Domain**: TCC

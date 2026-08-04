@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrossBrainConnectome"
+---
 # Cross_Brain_Connectome
 
 **Domain**: Cross

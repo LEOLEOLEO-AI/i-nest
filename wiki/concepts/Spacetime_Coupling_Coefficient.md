@@ -2,6 +2,8 @@
 title: Spacetime_Coupling_Coefficient
 tags:
 - chiplet
+aliases:
+- "SpacetimeCouplingCoefficient"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

@@ -2,6 +2,8 @@
 title: SDI_TCC_iNEST_Interconnect
 tags:
 - chiplet
+aliases:
+- "SDITCCINESTInterconnect"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

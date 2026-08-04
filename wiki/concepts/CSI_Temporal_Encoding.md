@@ -1,3 +1,7 @@
+---
+aliases:
+- "CSITemporalEncoding"
+---
 # CSI_Temporal_Encoding
 
 **Domain**: Cross

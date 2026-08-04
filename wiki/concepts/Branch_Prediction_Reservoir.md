@@ -1,3 +1,7 @@
+---
+aliases:
+- "BranchPredictionReservoir"
+---
 # Branch_Prediction_Reservoir
 
 **Domain**: TCC

@@ -2,6 +2,8 @@
 title: Spatiotemporal_Synergy_Complexity
 tags:
 - chiplet
+aliases:
+- "SpatiotemporalSynergyComplexity"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

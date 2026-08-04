@@ -1,6 +1,8 @@
 ---
 title: Intelligence_Emergence
 tags: []
+aliases:
+- "IntelligenceEmergence"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

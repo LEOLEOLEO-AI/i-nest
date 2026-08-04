@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpectralHigherOrderNeuralNetworks"
+---
 # Spectral_HigherOrder_NeuralNetworks
 
 **Domain**: Cross

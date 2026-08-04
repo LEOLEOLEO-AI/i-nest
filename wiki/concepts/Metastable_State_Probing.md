@@ -1,3 +1,7 @@
+---
+aliases:
+- "MetastableStateProbing"
+---
 # Metastable_State_Probing
 
 **Domain**: iNEST

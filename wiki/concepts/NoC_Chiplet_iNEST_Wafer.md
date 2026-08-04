@@ -2,6 +2,8 @@
 title: NoC_Chiplet_iNEST_Wafer
 tags:
 - chiplet
+aliases:
+- "NoCChipletINESTWafer"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

@@ -1,3 +1,7 @@
+---
+aliases:
+- "FPGANeuromorphicAcceleration"
+---
 # FPGA_Neuromorphic_Acceleration
 
 **Domain**: iNEST

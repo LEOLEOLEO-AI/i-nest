@@ -2,6 +2,8 @@
 title: Alpha_Computation_Consistency
 tags:
 - chiplet
+aliases:
+- "AlphaComputationConsistency"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

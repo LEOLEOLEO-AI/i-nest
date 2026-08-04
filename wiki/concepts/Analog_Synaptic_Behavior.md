@@ -1,3 +1,7 @@
+---
+aliases:
+- "AnalogSynapticBehavior"
+---
 # Analog_Synaptic_Behavior
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "TimeDelayedCoupling"
+---
 # Time_Delayed_Coupling
 
 **Domain**: TCC

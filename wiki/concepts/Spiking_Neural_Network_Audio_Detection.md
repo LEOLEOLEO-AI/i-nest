@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingNeuralNetworkAudioDetection"
+---
 # Spiking_Neural_Network_Audio_Detection
 
 **Domain**: iNEST

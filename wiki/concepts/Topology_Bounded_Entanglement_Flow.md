@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyBoundedEntanglementFlow"
+---
 # Topology_Bounded_Entanglement_Flow
 
 **Domain**: TCC

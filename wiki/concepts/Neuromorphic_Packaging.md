@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicPackaging"
+---
 # Neuromorphic_Packaging
 
 **Domain**: Cross

@@ -1,6 +1,8 @@
 ---
 title: TCC_Core_Layer_Boundary
 tags: []
+aliases:
+- "TCCCoreLayerBoundary"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

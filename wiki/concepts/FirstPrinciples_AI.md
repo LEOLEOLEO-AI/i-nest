@@ -1,3 +1,7 @@
+---
+aliases:
+- "FirstPrinciplesAI"
+---
 # FirstPrinciples_AI
 
 **Domain**: Cross

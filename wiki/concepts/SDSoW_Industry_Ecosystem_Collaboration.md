@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDSoWIndustryEcosystemCollaboration"
+---
 # SDSoW_Industry_Ecosystem_Collaboration
 
 **Domain**: Cross

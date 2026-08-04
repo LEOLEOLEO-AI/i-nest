@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalInvariantShift"
+---
 # Topological_Invariant_Shift
 
 **Domain**: TCC

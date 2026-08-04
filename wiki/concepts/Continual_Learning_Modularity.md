@@ -1,3 +1,7 @@
+---
+aliases:
+- "ContinualLearningModularity"
+---
 # Continual_Learning_Modularity
 
 **Domain**: iNEST

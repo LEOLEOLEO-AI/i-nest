@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNNeuroimagingBridge"
+---
 # SNN_Neuroimaging_Bridge
 
 **Domain**: Cross

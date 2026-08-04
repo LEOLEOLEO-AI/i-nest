@@ -1,3 +1,7 @@
+---
+aliases:
+- "FieldCompressionForInNetworkInference"
+---
 # Field_Compression_for_InNetwork_Inference
 
 **Domain**: iNEST

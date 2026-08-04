@@ -1,3 +1,7 @@
+---
+aliases:
+- "MetriplecticTwin"
+---
 # Metriplectic_Twin
 
 **Domain**: Cross

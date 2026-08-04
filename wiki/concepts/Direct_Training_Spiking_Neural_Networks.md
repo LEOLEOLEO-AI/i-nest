@@ -1,3 +1,7 @@
+---
+aliases:
+- "DirectTrainingSpikingNeuralNetworks"
+---
 # Direct_Training_Spiking_Neural_Networks
 
 **Domain**: iNEST

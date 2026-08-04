@@ -1,3 +1,7 @@
+---
+aliases:
+- "ProcessRecyclingParadigm"
+---
 # Process_Recycling_Paradigm
 
 **Domain**: TCC

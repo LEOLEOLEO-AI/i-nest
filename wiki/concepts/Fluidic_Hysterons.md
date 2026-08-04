@@ -1,3 +1,7 @@
+---
+aliases:
+- "FluidicHysterons"
+---
 # Fluidic_Hysterons
 
 **Domain**: TCC

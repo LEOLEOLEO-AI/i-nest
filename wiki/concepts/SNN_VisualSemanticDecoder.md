@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNVisualSemanticDecoder"
+---
 # SNN_VisualSemanticDecoder
 
 **Domain**: iNEST

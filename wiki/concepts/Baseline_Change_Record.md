@@ -1,3 +1,7 @@
+---
+aliases:
+- "BaselineChangeRecord"
+---
 # Baseline_Change_Record
 
 **Domain**: Cross

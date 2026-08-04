@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
+aliases:
+- "11SDI节点接口规范与化合键定义Dup"
 ---
 # 11_SDI节点接口规范与化合键定义_dup
 

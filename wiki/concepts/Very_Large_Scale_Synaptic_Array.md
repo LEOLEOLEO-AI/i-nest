@@ -1,3 +1,7 @@
+---
+aliases:
+- "VeryLargeScaleSynapticArray"
+---
 # Very_Large_Scale_Synaptic_Array
 
 **Domain**: TCC

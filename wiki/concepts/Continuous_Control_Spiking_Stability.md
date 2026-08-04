@@ -1,3 +1,7 @@
+---
+aliases:
+- "ContinuousControlSpikingStability"
+---
 # Continuous_Control_Spiking_Stability
 
 **Domain**: iNEST

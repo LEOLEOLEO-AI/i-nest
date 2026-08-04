@@ -1,3 +1,7 @@
+---
+aliases:
+- "ASICDualism"
+---
 # ASIC_Dualism
 
 **Domain**: TCC

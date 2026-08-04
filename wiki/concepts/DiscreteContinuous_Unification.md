@@ -1,3 +1,7 @@
+---
+aliases:
+- "DiscreteContinuousUnification"
+---
 # DiscreteContinuous_Unification
 
 **Domain**: Cross

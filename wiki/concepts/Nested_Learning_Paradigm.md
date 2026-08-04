@@ -1,3 +1,7 @@
+---
+aliases:
+- "NestedLearningParadigm"
+---
 # Nested_Learning_Paradigm
 
 **Domain**: iNEST

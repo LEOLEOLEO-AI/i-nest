@@ -1,3 +1,8 @@
+---
+aliases:
+- "INESTInterconnectTopology"
+- "iNESTInterconnectTopology"
+---
 # iNEST_Interconnect_Topology
 
 **Domain**: TCC
@@ -33,3 +38,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- iNEST_Interconnect_Topology (merged 2026-08-04)

@@ -1,3 +1,7 @@
+---
+aliases:
+- "Neuromorphic3DHI"
+---
 # Neuromorphic_3DHI
 
 **Domain**: iNEST

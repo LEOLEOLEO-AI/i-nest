@@ -1,3 +1,7 @@
+---
+aliases:
+- "ResilientSensingCommsNetwork"
+---
 # Resilient_Sensing_Comms_Network
 
 **Domain**: TCC

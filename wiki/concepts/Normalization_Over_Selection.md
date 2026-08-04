@@ -1,3 +1,7 @@
+---
+aliases:
+- "NormalizationOverSelection"
+---
 # Normalization_Over_Selection
 
 **Domain**: iNEST

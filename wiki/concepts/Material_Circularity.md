@@ -1,3 +1,7 @@
+---
+aliases:
+- "MaterialCircularity"
+---
 # Material_Circularity
 
 **Domain**: Cross

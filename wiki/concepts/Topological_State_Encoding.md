@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalStateEncoding"
+---
 # Topological_State_Encoding
 
 **Domain**: Cross

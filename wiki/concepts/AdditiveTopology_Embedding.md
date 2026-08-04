@@ -1,3 +1,7 @@
+---
+aliases:
+- "AdditiveTopologyEmbedding"
+---
 # AdditiveTopology_Embedding
 
 **Domain**: TCC

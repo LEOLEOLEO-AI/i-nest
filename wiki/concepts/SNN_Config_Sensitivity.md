@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNConfigSensitivity"
+---
 # SNN_Config_Sensitivity
 
 **Domain**: iNEST

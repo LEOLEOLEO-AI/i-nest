@@ -1,3 +1,7 @@
+---
+aliases:
+- "PowerLawExponentAnalysis"
+---
 # PowerLaw_Exponent_Analysis
 
 **Domain**: iNEST

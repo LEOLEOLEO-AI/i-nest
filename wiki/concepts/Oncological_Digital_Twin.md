@@ -1,3 +1,7 @@
+---
+aliases:
+- "OncologicalDigitalTwin"
+---
 # Oncological_Digital_Twin
 
 **Domain**: Cross

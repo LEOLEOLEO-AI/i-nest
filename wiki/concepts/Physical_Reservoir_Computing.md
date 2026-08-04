@@ -1,3 +1,7 @@
+---
+aliases:
+- "PhysicalReservoirComputing"
+---
 # Physical_Reservoir_Computing
 
 **Domain**: Cross
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- PhysicalReservoirComputing (merged 2026-08-04)

@@ -1,3 +1,7 @@
+---
+aliases:
+- "PhotopolymerizationNoC"
+---
 # Photopolymerization_NoC
 
 **Domain**: Cross

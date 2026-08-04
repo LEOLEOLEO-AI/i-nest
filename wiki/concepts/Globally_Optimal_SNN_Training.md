@@ -1,3 +1,7 @@
+---
+aliases:
+- "GloballyOptimalSNNTraining"
+---
 # Globally_Optimal_SNN_Training
 
 **Domain**: iNEST

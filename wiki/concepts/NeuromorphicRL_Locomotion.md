@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicRLLocomotion"
+---
 # NeuromorphicRL_Locomotion
 
 **Domain**: iNEST

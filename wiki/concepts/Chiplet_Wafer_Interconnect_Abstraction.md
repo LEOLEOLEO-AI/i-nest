@@ -2,6 +2,8 @@
 title: Chiplet_Wafer_Interconnect_Abstraction
 tags:
 - chiplet
+aliases:
+- "ChipletWaferInterconnectAbstraction"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

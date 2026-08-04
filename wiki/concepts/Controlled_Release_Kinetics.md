@@ -1,3 +1,7 @@
+---
+aliases:
+- "ControlledReleaseKinetics"
+---
 # Controlled_Release_Kinetics
 
 **Domain**: Cross

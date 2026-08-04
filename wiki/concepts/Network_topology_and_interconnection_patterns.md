@@ -2,6 +2,8 @@
 title: Network_topology_and_interconnection_patterns
 tags:
 - chiplet
+aliases:
+- "NetworkTopologyAndInterconnectionPatterns"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

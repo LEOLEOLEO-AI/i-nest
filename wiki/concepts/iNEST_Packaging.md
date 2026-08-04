@@ -1,3 +1,8 @@
+---
+aliases:
+- "INESTPackaging"
+- "iNESTPackaging"
+---
 # iNEST_Packaging
 
 **Domain**: iNEST

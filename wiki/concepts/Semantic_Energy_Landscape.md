@@ -1,3 +1,7 @@
+---
+aliases:
+- "SemanticEnergyLandscape"
+---
 # Semantic_Energy_Landscape
 
 **Domain**: iNEST

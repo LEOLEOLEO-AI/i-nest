@@ -1,3 +1,7 @@
+---
+aliases:
+- "VerilogNeuromorphicDesign"
+---
 # Verilog_Neuromorphic_Design
 
 **Domain**: iNEST

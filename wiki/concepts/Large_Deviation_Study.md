@@ -1,3 +1,7 @@
+---
+aliases:
+- "LargeDeviationStudy"
+---
 # Large_Deviation_Study
 
 **Domain**: TCC

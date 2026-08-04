@@ -1,3 +1,7 @@
+---
+aliases:
+- "EndocrineModulatedNetworkState"
+---
 # Endocrine_Modulated_Network_State
 
 **Domain**: iNEST

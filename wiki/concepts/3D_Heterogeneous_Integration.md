@@ -1,3 +1,7 @@
+---
+aliases:
+- "3DHeterogeneousIntegration"
+---
 # 3D_Heterogeneous_Integration
 
 **Domain**: Cross

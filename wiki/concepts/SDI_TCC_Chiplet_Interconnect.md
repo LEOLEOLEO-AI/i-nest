@@ -2,6 +2,8 @@
 title: SDI_TCC_Chiplet_Interconnect
 tags:
 - chiplet
+aliases:
+- "SDITCCChipletInterconnect"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

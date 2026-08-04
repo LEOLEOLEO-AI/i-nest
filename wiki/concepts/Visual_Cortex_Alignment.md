@@ -1,3 +1,7 @@
+---
+aliases:
+- "VisualCortexAlignment"
+---
 # Visual_Cortex_Alignment
 
 **Domain**: iNEST

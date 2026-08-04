@@ -1,3 +1,7 @@
+---
+aliases:
+- "InPackageNeuromorphicIntegration"
+---
 # In_Package_Neuromorphic_Integration
 
 **Domain**: Cross

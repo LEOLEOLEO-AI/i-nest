@@ -1,3 +1,7 @@
+---
+aliases:
+- "CriticalityBasedFeatureExtraction"
+---
 # Criticality_Based_Feature_Extraction
 
 **Domain**: Cross

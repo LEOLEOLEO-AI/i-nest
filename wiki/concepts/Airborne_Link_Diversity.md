@@ -1,3 +1,7 @@
+---
+aliases:
+- "AirborneLinkDiversity"
+---
 # Airborne_Link_Diversity
 
 **Domain**: Cross

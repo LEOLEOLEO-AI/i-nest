@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalErrorPatternAwareCodec"
+---
 # Topological_Error_Pattern_Aware_Codec
 
 **Domain**: TCC

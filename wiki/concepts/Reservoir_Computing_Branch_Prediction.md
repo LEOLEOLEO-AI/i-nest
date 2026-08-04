@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReservoirComputingBranchPrediction"
+---
 # Reservoir_Computing_Branch_Prediction
 
 **Domain**: Cross

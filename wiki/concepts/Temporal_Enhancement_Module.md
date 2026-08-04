@@ -1,3 +1,7 @@
+---
+aliases:
+- "TemporalEnhancementModule"
+---
 # Temporal_Enhancement_Module
 
 **Domain**: Cross

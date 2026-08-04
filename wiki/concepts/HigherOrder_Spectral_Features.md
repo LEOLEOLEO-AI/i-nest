@@ -1,3 +1,7 @@
+---
+aliases:
+- "HigherOrderSpectralFeatures"
+---
 # HigherOrder_Spectral_Features
 
 **Domain**: Cross

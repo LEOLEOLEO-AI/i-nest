@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalSemanticFlow"
+---
 # Topological_Semantic_Flow
 
 **Domain**: TCC

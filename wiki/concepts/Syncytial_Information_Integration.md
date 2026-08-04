@@ -1,3 +1,7 @@
+---
+aliases:
+- "SyncytialInformationIntegration"
+---
 # Syncytial_Information_Integration
 
 **Domain**: iNEST

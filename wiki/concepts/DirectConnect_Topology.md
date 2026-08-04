@@ -1,3 +1,7 @@
+---
+aliases:
+- "DirectConnectTopology"
+---
 # DirectConnect_Topology
 
 **Domain**: TCC

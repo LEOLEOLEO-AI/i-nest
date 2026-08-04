@@ -1,3 +1,7 @@
+---
+aliases:
+- "HypersonicSystemsResearch"
+---
 # Hypersonic_Systems_Research
 
 **Domain**: Cross

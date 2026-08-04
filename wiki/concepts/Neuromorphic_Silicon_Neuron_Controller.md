@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicSiliconNeuronController"
+---
 # Neuromorphic_Silicon_Neuron_Controller
 
 **Domain**: iNEST

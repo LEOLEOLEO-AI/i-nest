@@ -2,6 +2,8 @@
 title: Chiplet_Heterogeneous_Integration
 tags:
 - chiplet
+aliases:
+- "ChipletHeterogeneousIntegration"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

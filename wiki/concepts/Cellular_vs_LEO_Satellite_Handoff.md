@@ -1,3 +1,7 @@
+---
+aliases:
+- "CellularVsLEOSatelliteHandoff"
+---
 # Cellular_vs_LEO_Satellite_Handoff
 
 **Domain**: Cross

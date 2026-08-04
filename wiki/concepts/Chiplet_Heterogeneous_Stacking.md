@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipletHeterogeneousStacking"
+---
 # Chiplet_Heterogeneous_Stacking
 
 **Domain**: TCC

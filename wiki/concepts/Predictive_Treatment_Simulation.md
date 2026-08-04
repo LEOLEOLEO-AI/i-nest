@@ -1,3 +1,7 @@
+---
+aliases:
+- "PredictiveTreatmentSimulation"
+---
 # Predictive_Treatment_Simulation
 
 **Domain**: Cross

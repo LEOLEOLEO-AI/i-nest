@@ -1,3 +1,7 @@
+---
+aliases:
+- "MixedSignalSNNCoDesign"
+---
 # MixedSignalSNN_CoDesign
 
 **Domain**: iNEST

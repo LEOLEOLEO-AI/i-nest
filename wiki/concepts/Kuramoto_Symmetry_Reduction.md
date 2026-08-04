@@ -1,3 +1,7 @@
+---
+aliases:
+- "KuramotoSymmetryReduction"
+---
 # Kuramoto_Symmetry_Reduction
 
 **Domain**: Cross

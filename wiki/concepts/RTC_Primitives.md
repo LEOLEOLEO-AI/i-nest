@@ -1,3 +1,7 @@
+---
+aliases:
+- "RTCPrimitives"
+---
 # RTC_Primitives
 
 **Domain**: TCC

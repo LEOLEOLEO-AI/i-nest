@@ -1,3 +1,7 @@
+---
+aliases:
+- "ExperimentSevenEightNine"
+---
 # Experiment_Seven_Eight_Nine
 
 **Domain**: Cross

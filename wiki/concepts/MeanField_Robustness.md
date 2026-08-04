@@ -1,3 +1,7 @@
+---
+aliases:
+- "MeanFieldRobustness"
+---
 # MeanField_Robustness
 
 **Domain**: Cross

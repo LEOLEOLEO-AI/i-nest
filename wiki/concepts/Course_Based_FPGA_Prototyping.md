@@ -1,3 +1,7 @@
+---
+aliases:
+- "CourseBasedFPGAPrototyping"
+---
 # Course_Based_FPGA_Prototyping
 
 **Domain**: Cross

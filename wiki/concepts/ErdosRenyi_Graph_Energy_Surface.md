@@ -1,3 +1,7 @@
+---
+aliases:
+- "ErdosRenyiGraphEnergySurface"
+---
 # ErdosRenyi_Graph_Energy_Surface
 
 **Domain**: Cross

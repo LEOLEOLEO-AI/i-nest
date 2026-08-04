@@ -1,3 +1,7 @@
+---
+aliases:
+- "SIGRegGradient"
+---
 # SIGReg_Gradient
 
 **Domain**: iNEST

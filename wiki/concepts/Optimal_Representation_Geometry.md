@@ -1,3 +1,7 @@
+---
+aliases:
+- "OptimalRepresentationGeometry"
+---
 # Optimal_Representation_Geometry
 
 **Domain**: iNEST

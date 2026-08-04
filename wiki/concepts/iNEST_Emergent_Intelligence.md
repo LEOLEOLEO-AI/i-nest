@@ -1,3 +1,8 @@
+---
+aliases:
+- "INESTEmergentIntelligence"
+- "iNESTEmergentIntelligence"
+---
 # iNEST_Emergent_Intelligence
 
 **Domain**: iNEST

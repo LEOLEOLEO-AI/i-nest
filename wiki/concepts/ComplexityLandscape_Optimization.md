@@ -1,3 +1,7 @@
+---
+aliases:
+- "ComplexityLandscapeOptimization"
+---
 # ComplexityLandscape_Optimization
 
 **Domain**: TCC

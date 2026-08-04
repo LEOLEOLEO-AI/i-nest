@@ -1,3 +1,7 @@
+---
+aliases:
+- "ConnectomeTransfer"
+---
 # Connectome_Transfer
 
 **Domain**: iNEST

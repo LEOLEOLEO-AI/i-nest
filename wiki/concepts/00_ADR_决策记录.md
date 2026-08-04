@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 4
+aliases:
+- "00ADR决策记录"
 ---
 # 00_ADR_决策记录
 

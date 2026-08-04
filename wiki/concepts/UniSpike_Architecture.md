@@ -1,3 +1,7 @@
+---
+aliases:
+- "UniSpikeArchitecture"
+---
 # UniSpike_Architecture
 
 **Domain**: iNEST

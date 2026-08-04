@@ -1,3 +1,7 @@
+---
+aliases:
+- "3DHIStacking"
+---
 # 3DHI_Stacking
 
 **Domain**: TCC

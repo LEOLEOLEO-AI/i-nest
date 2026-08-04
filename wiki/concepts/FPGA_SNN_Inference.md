@@ -1,3 +1,7 @@
+---
+aliases:
+- "FPGASNNInference"
+---
 # FPGA_SNN_Inference
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDITopologyControl"
+---
 # SDI_Topology_Control
 
 **Domain**: TCC

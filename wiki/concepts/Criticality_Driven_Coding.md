@@ -1,3 +1,7 @@
+---
+aliases:
+- "CriticalityDrivenCoding"
+---
 # Criticality_Driven_Coding
 
 **Domain**: iNEST

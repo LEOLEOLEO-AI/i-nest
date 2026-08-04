@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNIntrusionDetectionConfig"
+---
 # SNN_Intrusion_Detection_Config
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "HaloConnectivityGradient"
+---
 # HaloConnectivity_Gradient
 
 **Domain**: iNEST

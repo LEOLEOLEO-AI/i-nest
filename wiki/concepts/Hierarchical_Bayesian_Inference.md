@@ -1,3 +1,7 @@
+---
+aliases:
+- "HierarchicalBayesianInference"
+---
 # Hierarchical_Bayesian_Inference
 
 **Domain**: Cross

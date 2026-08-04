@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalTransitionDetection"
+---
 # Topological_Transition_Detection
 
 **Domain**: TCC

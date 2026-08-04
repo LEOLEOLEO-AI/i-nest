@@ -1,3 +1,7 @@
+---
+aliases:
+- "RandomParameterSubstitution"
+---
 # Random_Parameter_Substitution
 
 **Domain**: iNEST

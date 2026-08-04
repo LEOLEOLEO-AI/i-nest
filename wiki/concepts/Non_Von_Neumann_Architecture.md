@@ -1,3 +1,7 @@
+---
+aliases:
+- "NonVonNeumannArchitecture"
+---
 # Non_Von_Neumann_Architecture
 
 **Domain**: Cross

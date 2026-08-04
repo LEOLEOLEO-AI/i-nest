@@ -1,3 +1,7 @@
+---
+aliases:
+- "SteenrodProblem"
+---
 # Steenrod_Problem
 
 **Domain**: Cross

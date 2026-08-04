@@ -1,3 +1,7 @@
+---
+aliases:
+- "TCCTopologyEmbedding"
+---
 # TCC_Topology_Embedding
 
 **Domain**: TCC

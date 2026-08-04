@@ -1,3 +1,7 @@
+---
+aliases:
+- "AIClusterSwitchBottleneck"
+---
 # AI_Cluster_Switch_Bottleneck
 
 **Domain**: TCC

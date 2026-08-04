@@ -1,3 +1,7 @@
+---
+aliases:
+- "DynamicProgrammingReservoirState"
+---
 # Dynamic_Programming_Reservoir_State
 
 **Domain**: Cross

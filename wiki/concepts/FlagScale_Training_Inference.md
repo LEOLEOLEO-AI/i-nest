@@ -1,3 +1,7 @@
+---
+aliases:
+- "FlagScaleTrainingInference"
+---
 # FlagScale_Training_Inference
 
 **Domain**: TCC

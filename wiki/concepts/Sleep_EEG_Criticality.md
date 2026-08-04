@@ -1,3 +1,7 @@
+---
+aliases:
+- "SleepEEGCriticality"
+---
 # Sleep_EEG_Criticality
 
 **Domain**: iNEST
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Sleep_EEG_Criticality (merged 2026-08-04)

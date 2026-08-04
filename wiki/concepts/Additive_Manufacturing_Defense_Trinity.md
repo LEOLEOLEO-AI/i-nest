@@ -1,3 +1,7 @@
+---
+aliases:
+- "AdditiveManufacturingDefenseTrinity"
+---
 # Additive_Manufacturing_Defense_Trinity
 
 **Domain**: Cross

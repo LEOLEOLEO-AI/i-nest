@@ -1,3 +1,7 @@
+---
+aliases:
+- "MicrofluidicWormTrapArray"
+---
 # Microfluidic_Worm_Trap_Array
 
 **Domain**: iNEST

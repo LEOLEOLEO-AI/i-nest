@@ -1,3 +1,7 @@
+---
+aliases:
+- "FoundationNeuralNetworkQuantumStates"
+---
 # Foundation_Neural_Network_Quantum_States
 
 **Domain**: Cross

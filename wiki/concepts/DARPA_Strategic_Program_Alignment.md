@@ -1,3 +1,7 @@
+---
+aliases:
+- "DARPAStrategicProgramAlignment"
+---
 # DARPA_Strategic_Program_Alignment
 
 **Domain**: Cross

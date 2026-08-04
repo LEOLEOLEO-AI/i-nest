@@ -1,3 +1,7 @@
+---
+aliases:
+- "GraphLanguageModelRAG"
+---
 # GraphLanguageModel_RAG
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpecialtyMaterialsMatrix"
+---
 # Specialty_Materials_Matrix
 
 **Domain**: Cross

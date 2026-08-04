@@ -1,6 +1,8 @@
 ---
 title: SSOT_Metric_Definition
 tags: []
+aliases:
+- "SSOTMetricDefinition"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

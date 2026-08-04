@@ -1,3 +1,7 @@
+---
+aliases:
+- "CSTSynergisticCoordination"
+---
 # CST_SynergisticCoordination
 
 **Domain**: Cross

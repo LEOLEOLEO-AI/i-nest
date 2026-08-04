@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
+aliases:
+- "NICE开启类脑智能新范式从连接复杂度到智能涌现"
 ---
 
 # NICE_开启类脑智能新范式_从连接复杂度到智能涌现

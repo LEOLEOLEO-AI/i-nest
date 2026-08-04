@@ -1,3 +1,7 @@
+---
+aliases:
+- "SiCGaNPowerIntegration"
+---
 # SiC_GaN_Power_Integration
 
 **Domain**: Cross

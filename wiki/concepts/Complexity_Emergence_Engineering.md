@@ -2,6 +2,8 @@
 title: Complexity_Emergence_Engineering
 tags:
 - chiplet
+aliases:
+- "ComplexityEmergenceEngineering"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

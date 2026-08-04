@@ -2,6 +2,9 @@
 title: iNEST_Neuromorphic_Integration
 tags:
 - chiplet
+aliases:
+- "INESTNeuromorphicIntegration"
+- "iNESTNeuromorphicIntegration"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -44,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
-[[SmallWorldNetwork]]
+[[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

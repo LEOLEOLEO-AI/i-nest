@@ -1,3 +1,7 @@
+---
+aliases:
+- "FatigueSpikePattern"
+---
 # Fatigue_SpikePattern
 
 **Domain**: iNEST

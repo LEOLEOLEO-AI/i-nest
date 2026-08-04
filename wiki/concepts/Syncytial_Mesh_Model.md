@@ -1,3 +1,7 @@
+---
+aliases:
+- "SyncytialMeshModel"
+---
 # Syncytial_Mesh_Model
 
 **Domain**: iNEST

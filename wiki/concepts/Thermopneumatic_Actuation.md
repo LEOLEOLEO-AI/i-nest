@@ -1,3 +1,7 @@
+---
+aliases:
+- "ThermopneumaticActuation"
+---
 # Thermopneumatic_Actuation
 
 **Domain**: Cross

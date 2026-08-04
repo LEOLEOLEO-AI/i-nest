@@ -1,3 +1,7 @@
+---
+aliases:
+- "StigmergicGraphMemory"
+---
 # Stigmergic_Graph_Memory
 
 **Domain**: Cross

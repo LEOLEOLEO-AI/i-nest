@@ -1,3 +1,7 @@
+---
+aliases:
+- "PhotomicrographGraphExtraction"
+---
 # Photomicrograph_Graph_Extraction
 
 **Domain**: Cross

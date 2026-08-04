@@ -1,3 +1,7 @@
+---
+aliases:
+- "NonInvasiveNeuromorphicPrognosis"
+---
 # NonInvasive_Neuromorphic_Prognosis
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ScaleDependentCoherence"
+---
 # Scale_Dependent_Coherence
 
 **Domain**: iNEST

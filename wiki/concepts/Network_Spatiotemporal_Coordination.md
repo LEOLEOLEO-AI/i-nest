@@ -1,3 +1,7 @@
+---
+aliases:
+- "NetworkSpatiotemporalCoordination"
+---
 # Network_Spatiotemporal_Coordination
 
 **Domain**: TCC

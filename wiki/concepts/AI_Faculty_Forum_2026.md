@@ -2,6 +2,8 @@
 title: AI_Faculty_Forum_2026
 tags:
 - chiplet
+aliases:
+- "AIFacultyForum2026"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicIsingSolver"
+---
 # Neuromorphic_Ising_Solver
 
 **Domain**: iNEST

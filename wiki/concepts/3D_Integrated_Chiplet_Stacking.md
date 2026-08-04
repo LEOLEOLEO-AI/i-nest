@@ -1,3 +1,7 @@
+---
+aliases:
+- "3DIntegratedChipletStacking"
+---
 # 3D_Integrated_Chiplet_Stacking
 
 **Domain**: Cross

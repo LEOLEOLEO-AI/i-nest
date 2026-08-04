@@ -1,3 +1,8 @@
+---
+aliases:
+- "Hls4mlSNNConversion"
+- "hls4mlSNNConversion"
+---
 # hls4ml_SNN_Conversion
 
 **Domain**: Cross

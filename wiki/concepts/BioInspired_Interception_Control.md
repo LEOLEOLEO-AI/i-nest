@@ -1,3 +1,7 @@
+---
+aliases:
+- "BioInspiredInterceptionControl"
+---
 # BioInspired_Interception_Control
 
 **Domain**: Cross

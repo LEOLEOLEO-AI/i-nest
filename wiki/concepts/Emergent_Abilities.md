@@ -1,3 +1,7 @@
+---
+aliases:
+- "EmergentAbilities"
+---
 # Emergent_Abilities
 
 **Domain**: Cross

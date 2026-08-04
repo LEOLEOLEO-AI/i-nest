@@ -1,3 +1,7 @@
+---
+aliases:
+- "HyperDimensionalComputing"
+---
 # Hyper_Dimensional_Computing
 
 **Domain**: Cross

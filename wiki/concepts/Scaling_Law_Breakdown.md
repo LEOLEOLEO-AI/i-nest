@@ -1,3 +1,7 @@
+---
+aliases:
+- "ScalingLawBreakdown"
+---
 # Scaling_Law_Breakdown
 
 **Domain**: iNEST

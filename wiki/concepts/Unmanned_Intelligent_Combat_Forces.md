@@ -1,3 +1,7 @@
+---
+aliases:
+- "UnmannedIntelligentCombatForces"
+---
 # Unmanned_Intelligent_Combat_Forces
 
 **Domain**: Cross

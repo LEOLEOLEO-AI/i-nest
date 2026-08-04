@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
+aliases:
+- "12三原理协同FEP最小作用量STDP"
 ---
 # 12_三原理协同_FEP_最小作用量_STDP
 

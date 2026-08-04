@@ -1,3 +1,7 @@
+---
+aliases:
+- "STDPMemristiveLearning"
+---
 # STDP_MemristiveLearning
 
 **Domain**: iNEST

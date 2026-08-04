@@ -1,3 +1,7 @@
+---
+aliases:
+- "AdaptiveDeepBrainStimulation"
+---
 # Adaptive_Deep_Brain_Stimulation
 
 **Domain**: iNEST

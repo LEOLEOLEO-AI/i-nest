@@ -1,3 +1,7 @@
+---
+aliases:
+- "DevelopmentalComputing"
+---
 # Developmental_Computing
 
 **Domain**: iNEST

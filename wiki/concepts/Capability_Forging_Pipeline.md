@@ -1,3 +1,7 @@
+---
+aliases:
+- "CapabilityForgingPipeline"
+---
 # Capability_Forging_Pipeline
 
 **Domain**: TCC

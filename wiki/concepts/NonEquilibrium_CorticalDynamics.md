@@ -1,3 +1,7 @@
+---
+aliases:
+- "NonEquilibriumCorticalDynamics"
+---
 # NonEquilibrium_CorticalDynamics
 
 **Domain**: Cross

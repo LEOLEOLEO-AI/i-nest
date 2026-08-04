@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReservoirComputingDPRecycling"
+---
 # Reservoir_Computing_DP_Recycling
 
 **Domain**: Cross

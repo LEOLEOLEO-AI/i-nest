@@ -1,3 +1,7 @@
+---
+aliases:
+- "AIAssistedEnergyManagement"
+---
 # AI_Assisted_Energy_Management
 
 **Domain**: Cross

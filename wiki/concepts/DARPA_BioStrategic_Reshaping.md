@@ -1,3 +1,7 @@
+---
+aliases:
+- "DARPABioStrategicReshaping"
+---
 # DARPA_BioStrategic_Reshaping
 
 **Domain**: iNEST

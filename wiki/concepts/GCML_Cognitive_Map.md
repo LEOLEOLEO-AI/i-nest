@@ -1,3 +1,7 @@
+---
+aliases:
+- "GCMLCognitiveMap"
+---
 # GCML_Cognitive_Map
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ERI20Framework"
+---
 # ERI_2_0_Framework
 
 **Domain**: TCC

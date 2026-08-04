@@ -1,3 +1,7 @@
+---
+aliases:
+- "InNetworkRLControl"
+---
 # InNetwork_RL_Control
 
 **Domain**: iNEST

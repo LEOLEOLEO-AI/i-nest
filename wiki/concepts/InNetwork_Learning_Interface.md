@@ -1,3 +1,7 @@
+---
+aliases:
+- "InNetworkLearningInterface"
+---
 # InNetwork_Learning_Interface
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "PlanarNetworkGeneration"
+---
 # Planar_Network_Generation
 
 **Domain**: Cross

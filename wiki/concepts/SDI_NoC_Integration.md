@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDINoCIntegration"
+---
 # SDI_NoC_Integration
 
 **Domain**: TCC

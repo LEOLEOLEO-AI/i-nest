@@ -1,3 +1,7 @@
+---
+aliases:
+- "InterLayerCouplingStrength"
+---
 # InterLayer_Coupling_Strength
 
 **Domain**: TCC

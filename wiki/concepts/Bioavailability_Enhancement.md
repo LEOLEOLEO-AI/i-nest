@@ -1,3 +1,7 @@
+---
+aliases:
+- "BioavailabilityEnhancement"
+---
 # Bioavailability_Enhancement
 
 **Domain**: Cross

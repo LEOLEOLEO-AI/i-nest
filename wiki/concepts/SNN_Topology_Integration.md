@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNTopologyIntegration"
+---
 # SNN_Topology_Integration
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "FreeEnergyTopologyBinding"
+---
 # Free_Energy_Topology_Binding
 
 **Domain**: TCC

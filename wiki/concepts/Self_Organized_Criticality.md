@@ -1,3 +1,7 @@
+---
+aliases:
+- "SelfOrganizedCriticality"
+---
 # Self_Organized_Criticality
 
 **Domain**: iNEST

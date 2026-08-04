@@ -2,6 +2,8 @@
 title: FPGA_Prototype_Validation
 tags:
 - chiplet
+aliases:
+- "FPGAPrototypeValidation"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

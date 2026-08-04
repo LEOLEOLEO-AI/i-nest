@@ -2,6 +2,8 @@
 title: RTC_Primitive
 tags:
 - chiplet
+aliases:
+- "RTCPrimitive"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

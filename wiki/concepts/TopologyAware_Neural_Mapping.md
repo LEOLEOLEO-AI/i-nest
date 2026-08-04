@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyAwareNeuralMapping"
+---
 # TopologyAware_Neural_Mapping
 
 **Domain**: TCC

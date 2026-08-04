@@ -1,3 +1,7 @@
+---
+aliases:
+- "BrainConnectome"
+---
 # Brain_Connectome
 
 **Domain**: iNEST

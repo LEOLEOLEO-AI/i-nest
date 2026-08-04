@@ -1,3 +1,7 @@
+---
+aliases:
+- "ComputationAccessGating"
+---
 # Computation_Access_Gating
 
 **Domain**: TCC

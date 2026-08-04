@@ -1,3 +1,7 @@
+---
+aliases:
+- "PersistentLangevinDynamics"
+---
 # Persistent_Langevin_Dynamics
 
 **Domain**: iNEST

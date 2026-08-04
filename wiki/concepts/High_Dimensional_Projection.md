@@ -1,3 +1,7 @@
+---
+aliases:
+- "HighDimensionalProjection"
+---
 # High_Dimensional_Projection
 
 **Domain**: TCC

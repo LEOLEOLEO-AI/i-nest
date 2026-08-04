@@ -1,3 +1,7 @@
+---
+aliases:
+- "AlignmentTax"
+---
 # Alignment_Tax
 
 **Domain**: iNEST

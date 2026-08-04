@@ -1,3 +1,7 @@
+---
+aliases:
+- "CausalClinicalReasoning"
+---
 # Causal_Clinical_Reasoning
 
 **Domain**: Cross

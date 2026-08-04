@@ -1,3 +1,7 @@
+---
+aliases:
+- "CommunicationTraceDiagnostics"
+---
 # Communication_Trace_Diagnostics
 
 **Domain**: TCC

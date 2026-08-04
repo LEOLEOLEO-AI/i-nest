@@ -1,3 +1,7 @@
+---
+aliases:
+- "VariationalSpectralTransitions"
+---
 # Variational_Spectral_Transitions
 
 **Domain**: TCC

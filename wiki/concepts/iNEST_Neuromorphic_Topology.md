@@ -2,6 +2,9 @@
 title: iNEST_Neuromorphic_Topology
 tags:
 - chiplet
+aliases:
+- "INESTNeuromorphicTopology"
+- "iNESTNeuromorphicTopology"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

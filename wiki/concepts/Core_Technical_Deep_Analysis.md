@@ -1,3 +1,7 @@
+---
+aliases:
+- "CoreTechnicalDeepAnalysis"
+---
 # Core_Technical_Deep_Analysis
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "StrategicCommsSupremacy"
+---
 # Strategic_CommsSupremacy
 
 **Domain**: iNEST

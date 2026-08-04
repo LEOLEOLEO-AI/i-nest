@@ -1,3 +1,7 @@
+---
+aliases:
+- "LossSpikeTrigger"
+---
 # Loss_Spike_Trigger
 
 **Domain**: TCC

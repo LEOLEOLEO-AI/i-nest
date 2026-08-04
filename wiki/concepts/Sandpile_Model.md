@@ -1,3 +1,7 @@
+---
+aliases:
+- "SandpileModel"
+---
 # Sandpile_Model
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "PhotonicChipletInterconnect"
+---
 # Photonic_Chiplet_Interconnect
 
 **Domain**: TCC
@@ -28,3 +32,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- PhotonicChipletInterconnect (merged 2026-08-04)

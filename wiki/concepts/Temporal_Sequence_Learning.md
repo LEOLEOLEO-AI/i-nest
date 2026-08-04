@@ -1,3 +1,7 @@
+---
+aliases:
+- "TemporalSequenceLearning"
+---
 # Temporal_Sequence_Learning
 
 **Domain**: iNEST

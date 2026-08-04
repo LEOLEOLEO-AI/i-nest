@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrossMaterialIntegration"
+---
 # CrossMaterial_Integration
 
 **Domain**: Cross

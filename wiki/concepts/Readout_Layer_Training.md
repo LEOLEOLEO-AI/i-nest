@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReadoutLayerTraining"
+---
 # Readout_Layer_Training
 
 **Domain**: TCC

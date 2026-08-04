@@ -1,3 +1,7 @@
+---
+aliases:
+- "OpenSourceResearchStack"
+---
 # Open_Source_Research_Stack
 
 **Domain**: iNEST

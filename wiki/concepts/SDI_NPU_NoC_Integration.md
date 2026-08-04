@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDINPUNoCIntegration"
+---
 # SDI_NPU_NoC_Integration
 
 **Domain**: Cross

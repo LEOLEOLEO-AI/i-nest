@@ -1,3 +1,8 @@
+---
+aliases:
+- "IMESOPhysicalCarrier"
+- "iMESOPhysicalCarrier"
+---
 # iMESO_PhysicalCarrier
 
 **Domain**: iNEST

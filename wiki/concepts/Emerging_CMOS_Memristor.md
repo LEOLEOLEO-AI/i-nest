@@ -1,3 +1,7 @@
+---
+aliases:
+- "EmergingCMOSMemristor"
+---
 # Emerging_CMOS_Memristor
 
 **Domain**: Cross

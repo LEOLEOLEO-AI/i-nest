@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicSensing"
+---
 # Neuromorphic_Sensing
 
 **Domain**: iNEST

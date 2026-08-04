@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyInducedRobustness"
+---
 # Topology_Induced_Robustness
 
 **Domain**: TCC

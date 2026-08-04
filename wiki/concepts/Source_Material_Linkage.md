@@ -1,3 +1,7 @@
+---
+aliases:
+- "SourceMaterialLinkage"
+---
 # Source_Material_Linkage
 
 **Domain**: Cross

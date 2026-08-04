@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpatioTemporalReservoir"
+---
 # SpatioTemporal_Reservoir
 
 **Domain**: Cross

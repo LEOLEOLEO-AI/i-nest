@@ -1,3 +1,7 @@
+---
+aliases:
+- "StretchedCriticality"
+---
 # Stretched_Criticality
 
 **Domain**: iNEST

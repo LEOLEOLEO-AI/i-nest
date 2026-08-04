@@ -1,3 +1,7 @@
+---
+aliases:
+- "ThermalAwarePlacement"
+---
 # Thermal_Aware_Placement
 
 **Domain**: TCC

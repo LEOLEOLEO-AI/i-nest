@@ -1,3 +1,7 @@
+---
+aliases:
+- "GraphBasedNeuromorphicAnalysis"
+---
 # Graph_Based_Neuromorphic_Analysis
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuralImmuneSignalingPlasticity"
+---
 # Neural_Immune_Signaling_Plasticity
 
 **Domain**: iNEST

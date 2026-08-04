@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuralDynamicalSystems"
+---
 # Neural_Dynamical_Systems
 
 **Domain**: iNEST

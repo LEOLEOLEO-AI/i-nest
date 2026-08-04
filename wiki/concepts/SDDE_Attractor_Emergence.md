@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDDEAttractorEmergence"
+---
 # SDDE_Attractor_Emergence
 
 **Domain**: iNEST

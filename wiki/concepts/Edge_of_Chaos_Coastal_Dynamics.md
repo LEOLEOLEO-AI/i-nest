@@ -1,3 +1,7 @@
+---
+aliases:
+- "EdgeOfChaosCoastalDynamics"
+---
 # Edge_of_Chaos_Coastal_Dynamics
 
 **Domain**: Cross

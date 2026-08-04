@@ -1,3 +1,7 @@
+---
+aliases:
+- "AutonomousUnmannedCombatNetworking"
+---
 # Autonomous_Unmanned_Combat_Networking
 
 **Domain**: TCC

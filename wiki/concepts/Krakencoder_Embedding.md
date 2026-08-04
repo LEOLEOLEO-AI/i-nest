@@ -1,3 +1,7 @@
+---
+aliases:
+- "KrakencoderEmbedding"
+---
 # Krakencoder_Embedding
 
 **Domain**: Cross

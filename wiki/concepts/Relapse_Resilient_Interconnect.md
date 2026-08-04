@@ -1,3 +1,7 @@
+---
+aliases:
+- "RelapseResilientInterconnect"
+---
 # Relapse_Resilient_Interconnect
 
 **Domain**: TCC

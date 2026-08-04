@@ -2,6 +2,8 @@
 title: Memristor_Network
 tags:
 - chiplet
+aliases:
+- "MemristorNetwork"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

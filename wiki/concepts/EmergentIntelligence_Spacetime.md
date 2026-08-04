@@ -1,3 +1,7 @@
+---
+aliases:
+- "EmergentIntelligenceSpacetime"
+---
 # EmergentIntelligence_Spacetime
 
 **Domain**: Cross

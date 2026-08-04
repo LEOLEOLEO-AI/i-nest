@@ -1,3 +1,7 @@
+---
+aliases:
+- "GSKSummarize3D"
+---
 # GSK_Summarize_3D
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ActivityEnergyTradeoff"
+---
 # Activity_Energy_Tradeoff
 
 **Domain**: iNEST

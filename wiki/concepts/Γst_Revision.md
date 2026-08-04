@@ -2,6 +2,8 @@
 title: Γst_Revision
 tags:
 - chiplet
+aliases:
+- "ΓstRevision"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

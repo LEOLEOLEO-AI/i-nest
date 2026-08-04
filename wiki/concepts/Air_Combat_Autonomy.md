@@ -1,3 +1,7 @@
+---
+aliases:
+- "AirCombatAutonomy"
+---
 # Air_Combat_Autonomy
 
 **Domain**: iNEST

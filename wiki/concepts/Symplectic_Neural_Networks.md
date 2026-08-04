@@ -1,3 +1,7 @@
+---
+aliases:
+- "SymplecticNeuralNetworks"
+---
 # Symplectic_Neural_Networks
 
 **Domain**: iNEST

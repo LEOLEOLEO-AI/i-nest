@@ -1,3 +1,7 @@
+---
+aliases:
+- "EmergentTopologyAdaptation"
+---
 # Emergent_Topology_Adaptation
 
 **Domain**: TCC

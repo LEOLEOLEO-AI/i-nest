@@ -1,3 +1,7 @@
+---
+aliases:
+- "ContinualLearningNeuromorphicHardware"
+---
 # Continual_Learning_Neuromorphic_Hardware
 
 **Domain**: iNEST

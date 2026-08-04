@@ -1,3 +1,7 @@
+---
+aliases:
+- "LinguisticPhaseTransition"
+---
 # Linguistic_Phase_Transition
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "EdgeIntelligence"
+---
 # Edge_Intelligence
 
 **Domain**: iNEST

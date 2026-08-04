@@ -1,3 +1,7 @@
+---
+aliases:
+- "TemporallyPreciseTrainingParallelization"
+---
 # Temporally_Precise_Training_Parallelization
 
 **Domain**: iNEST

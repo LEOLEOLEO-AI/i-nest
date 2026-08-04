@@ -1,3 +1,7 @@
+---
+aliases:
+- "CapableAgentKnowledge"
+---
 # Capable_Agent_Knowledge
 
 **Domain**: Cross

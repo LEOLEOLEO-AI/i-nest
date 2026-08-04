@@ -1,3 +1,7 @@
+---
+aliases:
+- "OscillatorNetworkInvariants"
+---
 # Oscillator_Network_Invariants
 
 **Domain**: iNEST

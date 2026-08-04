@@ -1,6 +1,8 @@
 ---
 title: Memristor_Synapse
 tags: []
+aliases:
+- "MemristorSynapse"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -40,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetworks]]
-[[SmallWorldNetwork]]
+[[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

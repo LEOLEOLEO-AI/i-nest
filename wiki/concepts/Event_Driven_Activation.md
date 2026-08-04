@@ -1,3 +1,7 @@
+---
+aliases:
+- "EventDrivenActivation"
+---
 # Event_Driven_Activation
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ResourceCircularityProtocol"
+---
 # Resource_Circularity_Protocol
 
 **Domain**: iNEST

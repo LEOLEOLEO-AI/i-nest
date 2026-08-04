@@ -2,6 +2,8 @@
 title: Textbook_Paradigm_Definition
 tags:
 - chiplet
+aliases:
+- "TextbookParadigmDefinition"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

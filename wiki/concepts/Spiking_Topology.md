@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingTopology"
+---
 # Spiking_Topology
 
 **Domain**: Cross

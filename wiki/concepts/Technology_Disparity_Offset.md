@@ -1,3 +1,7 @@
+---
+aliases:
+- "TechnologyDisparityOffset"
+---
 # Technology_Disparity_Offset
 
 **Domain**: Cross

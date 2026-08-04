@@ -1,3 +1,7 @@
+---
+aliases:
+- "ExtrinsicAHCSuppression"
+---
 # Extrinsic_AHC_Suppression
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "CausalEmergence"
+---
 # Causal_Emergence
 
 **Domain**: Cross

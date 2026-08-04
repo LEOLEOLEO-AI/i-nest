@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNAdversarialRobustness"
+---
 # SNN_AdversarialRobustness
 
 **Domain**: iNEST

@@ -2,6 +2,8 @@
 title: Mesoscale_Heterogeneous_Integration
 tags:
 - chiplet
+aliases:
+- "MesoscaleHeterogeneousIntegration"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

@@ -2,6 +2,8 @@
 title: P_Paradigm
 tags:
 - chiplet
+aliases:
+- "PParadigm"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

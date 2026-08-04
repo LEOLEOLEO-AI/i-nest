@@ -1,3 +1,7 @@
+---
+aliases:
+- "SimplicialComplexRepresentation"
+---
 # Simplicial_Complex_Representation
 
 **Domain**: Cross

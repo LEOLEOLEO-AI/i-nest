@@ -1,3 +1,7 @@
+---
+aliases:
+- "UnsupervisedHebbianNet"
+---
 # Unsupervised_Hebbian_Net
 
 **Domain**: iNEST

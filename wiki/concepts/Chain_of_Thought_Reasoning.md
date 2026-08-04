@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChainOfThoughtReasoning"
+---
 # Chain_of_Thought_Reasoning
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "MulticriticalScaling"
+---
 # Multicritical_Scaling
 
 **Domain**: TCC

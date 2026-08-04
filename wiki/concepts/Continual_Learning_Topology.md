@@ -1,3 +1,7 @@
+---
+aliases:
+- "ContinualLearningTopology"
+---
 # Continual_Learning_Topology
 
 **Domain**: Cross

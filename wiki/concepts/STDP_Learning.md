@@ -1,3 +1,7 @@
+---
+aliases:
+- "STDPLearning"
+---
 # STDP_Learning
 
 **Domain**: iNEST

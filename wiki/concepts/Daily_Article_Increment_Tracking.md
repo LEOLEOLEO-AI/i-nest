@@ -1,3 +1,7 @@
+---
+aliases:
+- "DailyArticleIncrementTracking"
+---
 # Daily_Article_Increment_Tracking
 
 **Domain**: TCC

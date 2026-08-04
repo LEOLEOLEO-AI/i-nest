@@ -1,3 +1,7 @@
+---
+aliases:
+- "FirstPrinciplesDerivation"
+---
 # FirstPrinciples_Derivation
 
 **Domain**: Cross
@@ -28,3 +32,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- FirstPrinciples_Derivation (merged 2026-08-04)

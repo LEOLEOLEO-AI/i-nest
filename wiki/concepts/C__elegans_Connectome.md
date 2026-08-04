@@ -1,3 +1,7 @@
+---
+aliases:
+- "CElegansConnectome"
+---
 # C__elegans_Connectome
 
 **Domain**: iNEST

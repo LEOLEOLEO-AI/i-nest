@@ -1,3 +1,7 @@
+---
+aliases:
+- "DimensionalityModularityTradeoff"
+---
 # Dimensionality_Modularity_Tradeoff
 
 **Domain**: Cross

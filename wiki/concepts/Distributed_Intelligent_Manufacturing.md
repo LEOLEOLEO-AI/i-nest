@@ -1,3 +1,7 @@
+---
+aliases:
+- "DistributedIntelligentManufacturing"
+---
 # Distributed_Intelligent_Manufacturing
 
 **Domain**: Cross

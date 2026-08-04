@@ -1,3 +1,7 @@
+---
+aliases:
+- "NanoscaleMemristiveThreats"
+---
 # Nanoscale_Memristive_Threats
 
 **Domain**: iNEST

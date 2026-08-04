@@ -1,3 +1,7 @@
+---
+aliases:
+- "ReceptronUnit"
+---
 # Receptron_Unit
 
 **Domain**: iNEST

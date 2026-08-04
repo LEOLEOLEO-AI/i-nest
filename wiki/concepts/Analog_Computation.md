@@ -2,6 +2,8 @@
 title: Analog_Computation
 tags:
 - chiplet
+aliases:
+- "AnalogComputation"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -43,7 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[SmallWorldNetwork]]
+[[Small_World_Network]]
 [[Spacetime_Coupling_Coefficient]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

@@ -1,3 +1,7 @@
+---
+aliases:
+- "GeometricNeuralField"
+---
 # Geometric_Neural_Field
 
 **Domain**: iNEST

@@ -2,6 +2,8 @@
 title: Deep_Network_Architecture_Invariant
 tags:
 - chiplet
+aliases:
+- "DeepNetworkArchitectureInvariant"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

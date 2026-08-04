@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikeStatePropagation"
+---
 # Spike_State_Propagation
 
 **Domain**: iNEST

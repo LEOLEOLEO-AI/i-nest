@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDDESelfDescribingDataExchange"
+---
 # SDDE_SelfDescribingDataExchange
 
 **Domain**: TCC

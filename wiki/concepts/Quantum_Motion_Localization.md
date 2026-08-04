@@ -1,3 +1,7 @@
+---
+aliases:
+- "QuantumMotionLocalization"
+---
 # Quantum_Motion_Localization
 
 **Domain**: Cross

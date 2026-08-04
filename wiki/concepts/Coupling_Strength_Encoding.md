@@ -1,3 +1,7 @@
+---
+aliases:
+- "CouplingStrengthEncoding"
+---
 # Coupling_Strength_Encoding
 
 **Domain**: TCC

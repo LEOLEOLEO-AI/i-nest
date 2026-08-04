@@ -1,3 +1,7 @@
+---
+aliases:
+- "RenormalizationGroupDeviceNonlinearity"
+---
 # RenormalizationGroup_DeviceNonlinearity
 
 **Domain**: Cross

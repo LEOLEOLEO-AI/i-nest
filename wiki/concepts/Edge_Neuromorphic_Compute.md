@@ -1,3 +1,7 @@
+---
+aliases:
+- "EdgeNeuromorphicCompute"
+---
 # Edge_Neuromorphic_Compute
 
 **Domain**: iNEST

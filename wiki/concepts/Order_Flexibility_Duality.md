@@ -2,6 +2,8 @@
 title: Order_Flexibility_Duality
 tags:
 - chiplet
+aliases:
+- "OrderFlexibilityDuality"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

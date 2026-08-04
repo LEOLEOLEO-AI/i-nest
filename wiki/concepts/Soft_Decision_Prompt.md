@@ -1,3 +1,7 @@
+---
+aliases:
+- "SoftDecisionPrompt"
+---
 # Soft_Decision_Prompt
 
 **Domain**: iNEST

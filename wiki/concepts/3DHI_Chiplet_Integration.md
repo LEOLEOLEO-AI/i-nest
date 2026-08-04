@@ -1,3 +1,7 @@
+---
+aliases:
+- "3DHIChipletIntegration"
+---
 # 3DHI_Chiplet_Integration
 
 **Domain**: Cross

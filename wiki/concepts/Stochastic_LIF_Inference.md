@@ -1,3 +1,7 @@
+---
+aliases:
+- "StochasticLIFInference"
+---
 # Stochastic_LIF_Inference
 
 **Domain**: iNEST

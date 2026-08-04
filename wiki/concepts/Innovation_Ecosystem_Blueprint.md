@@ -1,3 +1,7 @@
+---
+aliases:
+- "InnovationEcosystemBlueprint"
+---
 # Innovation_Ecosystem_Blueprint
 
 **Domain**: TCC

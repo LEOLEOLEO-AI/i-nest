@@ -1,3 +1,7 @@
+---
+aliases:
+- "BatteryAwareScheduling"
+---
 # Battery_Aware_Scheduling
 
 **Domain**: Cross

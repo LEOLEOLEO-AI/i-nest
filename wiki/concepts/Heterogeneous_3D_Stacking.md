@@ -1,3 +1,7 @@
+---
+aliases:
+- "Heterogeneous3DStacking"
+---
 # Heterogeneous_3D_Stacking
 
 **Domain**: TCC

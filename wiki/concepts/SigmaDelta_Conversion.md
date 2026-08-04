@@ -1,3 +1,7 @@
+---
+aliases:
+- "SigmaDeltaConversion"
+---
 # SigmaDelta_Conversion
 
 **Domain**: iNEST

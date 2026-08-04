@@ -1,3 +1,7 @@
+---
+aliases:
+- "RobustStateClassification"
+---
 # Robust_State_Classification
 
 **Domain**: Cross

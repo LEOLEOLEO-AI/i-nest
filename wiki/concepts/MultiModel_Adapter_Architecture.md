@@ -1,3 +1,7 @@
+---
+aliases:
+- "MultiModelAdapterArchitecture"
+---
 # MultiModel_Adapter_Architecture
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NUMABalancingOverhead"
+---
 # NUMA_Balancing_Overhead
 
 **Domain**: iNEST

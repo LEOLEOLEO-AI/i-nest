@@ -1,3 +1,7 @@
+---
+aliases:
+- "ScaleHierarchyDecomposition"
+---
 # ScaleHierarchy_Decomposition
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologicalSynchrony"
+---
 # Topological_Synchrony
 
 **Domain**: TCC

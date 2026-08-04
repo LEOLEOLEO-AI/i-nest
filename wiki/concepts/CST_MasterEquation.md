@@ -1,3 +1,7 @@
+---
+aliases:
+- "CSTMasterEquation"
+---
 # CST_MasterEquation
 
 **Domain**: Cross

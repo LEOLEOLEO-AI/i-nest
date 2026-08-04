@@ -1,3 +1,7 @@
+---
+aliases:
+- "UniversalComputationLandscape"
+---
 # Universal_Computation_Landscape
 
 **Domain**: TCC

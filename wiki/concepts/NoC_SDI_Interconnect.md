@@ -1,3 +1,7 @@
+---
+aliases:
+- "NoCSDIInterconnect"
+---
 # NoC_SDI_Interconnect
 
 **Domain**: TCC

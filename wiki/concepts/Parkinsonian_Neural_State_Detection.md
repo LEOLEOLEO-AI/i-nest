@@ -1,3 +1,7 @@
+---
+aliases:
+- "ParkinsonianNeuralStateDetection"
+---
 # Parkinsonian_Neural_State_Detection
 
 **Domain**: Cross

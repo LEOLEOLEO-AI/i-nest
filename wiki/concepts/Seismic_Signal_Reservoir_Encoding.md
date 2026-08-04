@@ -1,3 +1,7 @@
+---
+aliases:
+- "SeismicSignalReservoirEncoding"
+---
 # Seismic_Signal_Reservoir_Encoding
 
 **Domain**: iNEST

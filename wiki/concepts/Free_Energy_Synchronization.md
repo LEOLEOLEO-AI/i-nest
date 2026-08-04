@@ -1,3 +1,7 @@
+---
+aliases:
+- "FreeEnergySynchronization"
+---
 # Free_Energy_Synchronization
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "PassivityPreservingComputation"
+---
 # Passivity_Preserving_Computation
 
 **Domain**: Cross

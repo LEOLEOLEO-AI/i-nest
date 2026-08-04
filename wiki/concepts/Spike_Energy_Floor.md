@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikeEnergyFloor"
+---
 # Spike_Energy_Floor
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDSoWInterfaceStandard"
+---
 # SDSoW_Interface_Standard
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "AgentWorkflowAutomation"
+---
 # Agent_Workflow_Automation
 
 **Domain**: iNEST

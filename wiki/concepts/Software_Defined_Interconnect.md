@@ -2,6 +2,8 @@
 title: Software_Defined_Interconnect
 tags:
 - chiplet
+aliases:
+- "SoftwareDefinedInterconnect"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

@@ -1,3 +1,7 @@
+---
+aliases:
+- "AnomalyProtectedScalingLaw"
+---
 # Anomaly_Protected_Scaling_Law
 
 **Domain**: Cross

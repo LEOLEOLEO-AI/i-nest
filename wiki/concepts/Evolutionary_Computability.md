@@ -2,6 +2,8 @@
 title: Evolutionary_Computability
 tags:
 - chiplet
+aliases:
+- "EvolutionaryComputability"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

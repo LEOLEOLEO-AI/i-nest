@@ -1,3 +1,7 @@
+---
+aliases:
+- "MachineDecisionSpeedAdvantage"
+---
 # Machine_Decision_Speed_Advantage
 
 **Domain**: Cross

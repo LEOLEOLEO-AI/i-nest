@@ -1,3 +1,7 @@
+---
+aliases:
+- "LangevinDynamicsConvergence"
+---
 # Langevin_Dynamics_Convergence
 
 **Domain**: iNEST

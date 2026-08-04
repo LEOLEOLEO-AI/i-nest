@@ -2,6 +2,8 @@
 title: Nonlinear_Parameter_Alpha
 tags:
 - chiplet
+aliases:
+- "NonlinearParameterAlpha"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

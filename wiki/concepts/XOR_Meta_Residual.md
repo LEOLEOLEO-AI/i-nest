@@ -1,3 +1,7 @@
+---
+aliases:
+- "XORMetaResidual"
+---
 # XOR_Meta_Residual
 
 **Domain**: iNEST

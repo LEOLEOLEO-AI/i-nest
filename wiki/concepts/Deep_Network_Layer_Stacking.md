@@ -2,6 +2,8 @@
 title: Deep_Network_Layer_Stacking
 tags:
 - chiplet
+aliases:
+- "DeepNetworkLayerStacking"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

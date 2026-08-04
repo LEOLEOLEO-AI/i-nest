@@ -1,3 +1,7 @@
+---
+aliases:
+- "TargetedQuarantine"
+---
 # Targeted_Quarantine
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ServerSideNeuromorphicSimulation"
+---
 # Server_Side_Neuromorphic_Simulation
 
 **Domain**: iNEST

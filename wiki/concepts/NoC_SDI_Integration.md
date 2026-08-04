@@ -1,3 +1,7 @@
+---
+aliases:
+- "NoCSDIIntegration"
+---
 # NoC_SDI_Integration
 
 **Domain**: TCC

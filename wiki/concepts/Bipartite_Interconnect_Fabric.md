@@ -1,3 +1,7 @@
+---
+aliases:
+- "BipartiteInterconnectFabric"
+---
 # Bipartite_Interconnect_Fabric
 
 **Domain**: Cross

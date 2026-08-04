@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipletBasedInterconnectFabric"
+---
 # Chiplet_Based_Interconnect_Fabric
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuronModelHardwareTranslator"
+---
 # NeuronModel_Hardware_Translator
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpinGlassAnnealing"
+---
 # Spin_Glass_Annealing
 
 **Domain**: iNEST

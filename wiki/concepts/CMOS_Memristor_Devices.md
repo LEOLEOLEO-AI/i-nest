@@ -1,3 +1,7 @@
+---
+aliases:
+- "CMOSMemristorDevices"
+---
 # CMOS_Memristor_Devices
 
 **Domain**: iNEST

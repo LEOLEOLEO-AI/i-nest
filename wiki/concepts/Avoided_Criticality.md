@@ -1,3 +1,7 @@
+---
+aliases:
+- "AvoidedCriticality"
+---
 # Avoided_Criticality
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ProcessingInArray"
+---
 # Processing_in_Array
 
 **Domain**: Cross

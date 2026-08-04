@@ -1,3 +1,7 @@
+---
+aliases:
+- "TCCInterconnectCoDesign"
+---
 # TCC_Interconnect_CoDesign
 
 **Domain**: TCC

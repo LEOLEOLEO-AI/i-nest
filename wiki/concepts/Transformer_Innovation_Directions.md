@@ -1,3 +1,7 @@
+---
+aliases:
+- "TransformerInnovationDirections"
+---
 # Transformer_Innovation_Directions
 
 **Domain**: Cross

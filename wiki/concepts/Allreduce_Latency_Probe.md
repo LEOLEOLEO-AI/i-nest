@@ -2,6 +2,8 @@
 title: Allreduce_Latency_Probe
 tags:
 - chiplet
+aliases:
+- "AllreduceLatencyProbe"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

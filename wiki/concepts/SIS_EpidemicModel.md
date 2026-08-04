@@ -1,3 +1,7 @@
+---
+aliases:
+- "SISEpidemicModel"
+---
 # SIS_EpidemicModel
 
 **Domain**: TCC

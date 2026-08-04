@@ -1,3 +1,7 @@
+---
+aliases:
+- "SleepStageClassification"
+---
 # Sleep_Stage_Classification
 
 **Domain**: iNEST

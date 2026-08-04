@@ -1,3 +1,7 @@
+---
+aliases:
+- "LocalApproximationDynamics"
+---
 # Local_Approximation_Dynamics
 
 **Domain**: Cross

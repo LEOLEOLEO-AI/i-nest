@@ -1,3 +1,7 @@
+---
+aliases:
+- "SystemInPackageSiP"
+---
 # SystemInPackage_SiP
 
 **Domain**: TCC

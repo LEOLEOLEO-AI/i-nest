@@ -2,6 +2,8 @@
 title: Second_Curve_Industry_Platform
 tags:
 - chiplet
+aliases:
+- "SecondCurveIndustryPlatform"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

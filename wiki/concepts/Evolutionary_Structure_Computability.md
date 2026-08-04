@@ -2,6 +2,8 @@
 title: Evolutionary_Structure_Computability
 tags:
 - chiplet
+aliases:
+- "EvolutionaryStructureComputability"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

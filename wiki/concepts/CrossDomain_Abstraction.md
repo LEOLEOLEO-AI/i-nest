@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrossDomainAbstraction"
+---
 # CrossDomain_Abstraction
 
 **Domain**: Cross

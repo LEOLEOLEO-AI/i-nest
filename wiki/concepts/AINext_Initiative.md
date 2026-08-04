@@ -1,3 +1,7 @@
+---
+aliases:
+- "AINextInitiative"
+---
 # AINext_Initiative
 
 **Domain**: Cross

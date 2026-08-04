@@ -1,3 +1,7 @@
+---
+aliases:
+- "OpenCodexUpgradePath"
+---
 # OpenCodex_Upgrade_Path
 
 **Domain**: Cross

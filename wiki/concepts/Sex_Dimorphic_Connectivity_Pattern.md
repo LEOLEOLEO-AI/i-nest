@@ -1,3 +1,7 @@
+---
+aliases:
+- "SexDimorphicConnectivityPattern"
+---
 # Sex_Dimorphic_Connectivity_Pattern
 
 **Domain**: Cross

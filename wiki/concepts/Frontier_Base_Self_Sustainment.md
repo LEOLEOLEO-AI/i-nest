@@ -1,3 +1,7 @@
+---
+aliases:
+- "FrontierBaseSelfSustainment"
+---
 # Frontier_Base_Self_Sustainment
 
 **Domain**: TCC

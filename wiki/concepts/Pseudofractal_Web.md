@@ -1,3 +1,7 @@
+---
+aliases:
+- "PseudofractalWeb"
+---
 # Pseudofractal_Web
 
 **Domain**: TCC

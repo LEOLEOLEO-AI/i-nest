@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicPlanningRevolution"
+---
 # Neuromorphic_Planning_Revolution
 
 **Domain**: iNEST

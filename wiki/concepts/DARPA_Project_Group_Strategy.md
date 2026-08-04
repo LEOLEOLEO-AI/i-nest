@@ -1,3 +1,7 @@
+---
+aliases:
+- "DARPAProjectGroupStrategy"
+---
 # DARPA_Project_Group_Strategy
 
 **Domain**: Cross

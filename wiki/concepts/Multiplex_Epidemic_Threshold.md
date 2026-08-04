@@ -1,3 +1,7 @@
+---
+aliases:
+- "MultiplexEpidemicThreshold"
+---
 # Multiplex_Epidemic_Threshold
 
 **Domain**: Cross

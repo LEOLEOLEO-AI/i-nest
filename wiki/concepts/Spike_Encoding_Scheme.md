@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikeEncodingScheme"
+---
 # Spike_Encoding_Scheme
 
 **Domain**: iNEST

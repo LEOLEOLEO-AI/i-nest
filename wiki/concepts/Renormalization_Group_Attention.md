@@ -1,3 +1,7 @@
+---
+aliases:
+- "RenormalizationGroupAttention"
+---
 # Renormalization_Group_Attention
 
 **Domain**: TCC

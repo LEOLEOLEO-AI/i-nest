@@ -1,3 +1,7 @@
+---
+aliases:
+- "TemporalCodingSignalRepresentation"
+---
 # Temporal_Coding_Signal_Representation
 
 **Domain**: iNEST

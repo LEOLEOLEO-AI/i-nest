@@ -1,3 +1,7 @@
+---
+aliases:
+- "UniversalClaimEvidenceRequirement"
+---
 # Universal_Claim_Evidence_Requirement
 
 **Domain**: Cross

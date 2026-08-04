@@ -1,3 +1,7 @@
+---
+aliases:
+- "ComplexityEmergenceFramework"
+---
 # Complexity_Emergence_Framework
 
 **Domain**: Cross

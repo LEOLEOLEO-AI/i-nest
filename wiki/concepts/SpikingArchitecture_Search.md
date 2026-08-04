@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikingArchitectureSearch"
+---
 # SpikingArchitecture_Search
 
 **Domain**: Cross

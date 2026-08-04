@@ -2,6 +2,8 @@
 title: Memristive_STDP
 tags:
 - chiplet
+aliases:
+- "MemristiveSTDP"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

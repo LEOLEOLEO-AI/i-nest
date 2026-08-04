@@ -1,3 +1,7 @@
+---
+aliases:
+- "TechnologyDecouplingAutonomy"
+---
 # Technology_Decoupling_Autonomy
 
 **Domain**: Cross

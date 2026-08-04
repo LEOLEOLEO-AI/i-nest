@@ -1,3 +1,7 @@
+---
+aliases:
+- "PipelinedProcessor"
+---
 # Pipelined_Processor
 
 **Domain**: TCC

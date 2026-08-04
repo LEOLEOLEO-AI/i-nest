@@ -1,3 +1,7 @@
+---
+aliases:
+- "ModelRoutingProtocol"
+---
 # Model_Routing_Protocol
 
 **Domain**: iNEST

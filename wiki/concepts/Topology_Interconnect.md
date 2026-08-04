@@ -1,3 +1,7 @@
+---
+aliases:
+- "TopologyInterconnect"
+---
 # Topology_Interconnect
 
 **Domain**: Cross

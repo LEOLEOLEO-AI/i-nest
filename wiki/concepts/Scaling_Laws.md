@@ -1,3 +1,7 @@
+---
+aliases:
+- "ScalingLaws"
+---
 # Scaling_Laws
 
 **Domain**: Cross

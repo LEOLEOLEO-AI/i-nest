@@ -1,3 +1,7 @@
+---
+aliases:
+- "DecisionCycleCompression"
+---
 # Decision_Cycle_Compression
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "AIAutonomousControl"
+---
 # AI_Autonomous_Control
 
 **Domain**: Cross

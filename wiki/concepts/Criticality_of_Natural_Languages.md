@@ -1,3 +1,7 @@
+---
+aliases:
+- "CriticalityOfNaturalLanguages"
+---
 # Criticality_of_Natural_Languages
 
 **Domain**: Cross

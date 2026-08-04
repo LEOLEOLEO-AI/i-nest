@@ -1,3 +1,7 @@
+---
+aliases:
+- "SubNyquistWaveformReconstruction"
+---
 # Sub_Nyquist_Waveform_Reconstruction
 
 **Domain**: iNEST
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- SubNyquistWaveformReconstruction (merged 2026-08-04)

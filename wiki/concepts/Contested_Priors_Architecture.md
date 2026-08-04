@@ -1,3 +1,7 @@
+---
+aliases:
+- "ContestedPriorsArchitecture"
+---
 # Contested_Priors_Architecture
 
 **Domain**: iNEST

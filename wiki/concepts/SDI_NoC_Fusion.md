@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDINoCFusion"
+---
 # SDI_NoC_Fusion
 
 **Domain**: TCC

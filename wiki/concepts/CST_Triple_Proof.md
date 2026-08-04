@@ -1,3 +1,7 @@
+---
+aliases:
+- "CSTTripleProof"
+---
 # CST_Triple_Proof
 
 **Domain**: Cross

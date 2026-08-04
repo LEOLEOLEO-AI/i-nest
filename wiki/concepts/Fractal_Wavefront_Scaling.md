@@ -1,3 +1,7 @@
+---
+aliases:
+- "FractalWavefrontScaling"
+---
 # Fractal_Wavefront_Scaling
 
 **Domain**: Cross

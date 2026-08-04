@@ -1,3 +1,7 @@
+---
+aliases:
+- "StochasticComputingSNN"
+---
 # Stochastic_Computing_SNN
 
 **Domain**: iNEST

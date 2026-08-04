@@ -1,3 +1,7 @@
+---
+aliases:
+- "FC2GoalRepresentation"
+---
 # FC2_Goal_Representation
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "CatastrophicForgetting"
+---
 # Catastrophic_Forgetting
 
 **Domain**: iNEST

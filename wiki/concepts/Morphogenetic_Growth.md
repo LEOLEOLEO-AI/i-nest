@@ -1,3 +1,7 @@
+---
+aliases:
+- "MorphogeneticGrowth"
+---
 # Morphogenetic_Growth
 
 **Domain**: iNEST

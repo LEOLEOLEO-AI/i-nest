@@ -1,3 +1,7 @@
+---
+aliases:
+- "CombinatorialOptimizationReadout"
+---
 # Combinatorial_Optimization_Readout
 
 **Domain**: iNEST

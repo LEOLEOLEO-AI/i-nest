@@ -1,3 +1,7 @@
+---
+aliases:
+- "MasterSDDEEquation"
+---
 # Master_SDDE_Equation
 
 **Domain**: iNEST

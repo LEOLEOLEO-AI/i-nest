@@ -1,3 +1,7 @@
+---
+aliases:
+- "BattlefieldMedicineNeuromorphicIntegration"
+---
 # Battlefield_Medicine_Neuromorphic_Integration
 
 **Domain**: iNEST

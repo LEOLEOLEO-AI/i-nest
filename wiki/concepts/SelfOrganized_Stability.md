@@ -1,3 +1,7 @@
+---
+aliases:
+- "SelfOrganizedStability"
+---
 # SelfOrganized_Stability
 
 **Domain**: iNEST

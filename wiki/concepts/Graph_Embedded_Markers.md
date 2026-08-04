@@ -1,3 +1,7 @@
+---
+aliases:
+- "GraphEmbeddedMarkers"
+---
 # Graph_Embedded_Markers
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "RecursiveMetricContraction"
+---
 # Recursive_Metric_Contraction
 
 **Domain**: TCC

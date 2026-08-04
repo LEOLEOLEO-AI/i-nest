@@ -1,3 +1,7 @@
+---
+aliases:
+- "WassersteinManifoldTopology"
+---
 # Wasserstein_Manifold_Topology
 
 **Domain**: TCC

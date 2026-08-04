@@ -1,3 +1,7 @@
+---
+aliases:
+- "HystereticStateEncoding"
+---
 # Hysteretic_State_Encoding
 
 **Domain**: Cross
@@ -18,3 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- HystereticStateEncoding (merged 2026-08-04)

@@ -1,3 +1,7 @@
+---
+aliases:
+- "HeterogeneousIntegrationRoadmapHIR"
+---
 # Heterogeneous_Integration_Roadmap_HIR
 
 **Domain**: Cross

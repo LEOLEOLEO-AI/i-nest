@@ -4,6 +4,9 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
+aliases:
+- "Getnote2026-01-25吴华强团队与iNEST技术互补"
+- "getnote2026-01-25吴华强团队与iNEST技术互补"
 ---
 
 # getnote_2026-01-25_吴华强团队与iNEST技术互补

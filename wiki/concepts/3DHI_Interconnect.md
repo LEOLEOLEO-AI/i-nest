@@ -1,3 +1,7 @@
+---
+aliases:
+- "3DHIInterconnect"
+---
 # 3DHI_Interconnect
 
 **Domain**: TCC

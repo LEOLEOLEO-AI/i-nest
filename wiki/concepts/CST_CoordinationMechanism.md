@@ -1,3 +1,7 @@
+---
+aliases:
+- "CSTCoordinationMechanism"
+---
 # CST_CoordinationMechanism
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "VLSICrossbarIntegration"
+---
 # VLSI_CrossbarIntegration
 
 **Domain**: TCC

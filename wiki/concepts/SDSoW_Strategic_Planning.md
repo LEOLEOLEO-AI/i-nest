@@ -2,6 +2,8 @@
 title: SDSoW_Strategic_Planning
 tags:
 - chiplet
+aliases:
+- "SDSoWStrategicPlanning"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

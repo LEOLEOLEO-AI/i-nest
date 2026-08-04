@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemristiveDeviceThreats"
+---
 # Memristive_Device_Threats
 
 **Domain**: iNEST

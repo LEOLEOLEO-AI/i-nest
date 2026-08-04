@@ -1,3 +1,7 @@
+---
+aliases:
+- "InterconnectScaling"
+---
 # Interconnect_Scaling
 
 **Domain**: Cross

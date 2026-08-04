@@ -1,3 +1,7 @@
+---
+aliases:
+- "AccessibilityGradient"
+---
 # Accessibility_Gradient
 
 **Domain**: iNEST

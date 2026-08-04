@@ -1,3 +1,7 @@
+---
+aliases:
+- "HeterogeneousChipletCustomization"
+---
 # Heterogeneous_Chiplet_Customization
 
 **Domain**: TCC

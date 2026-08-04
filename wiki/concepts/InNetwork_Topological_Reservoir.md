@@ -1,3 +1,7 @@
+---
+aliases:
+- "InNetworkTopologicalReservoir"
+---
 # InNetwork_Topological_Reservoir
 
 **Domain**: Cross

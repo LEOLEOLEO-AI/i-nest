@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNTopologyMapping"
+---
 # SNN_Topology_Mapping
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "AdditiveManufacturingSupplyChain"
+---
 # Additive_Manufacturing_Supply_Chain
 
 **Domain**: Cross

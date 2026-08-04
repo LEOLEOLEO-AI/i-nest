@@ -1,3 +1,7 @@
+---
+aliases:
+- "IntelligenceEmergenceScalingLaw"
+---
 # IntelligenceEmergence_ScalingLaw
 
 **Domain**: Cross

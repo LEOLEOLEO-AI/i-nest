@@ -1,3 +1,7 @@
+---
+aliases:
+- "DeepCounterstreamAssociativeMemory"
+---
 # Deep_Counterstream_Associative_Memory
 
 **Domain**: iNEST

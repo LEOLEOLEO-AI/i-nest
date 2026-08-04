@@ -1,6 +1,8 @@
 ---
 title: STDP_Plasticity
 tags: []
+aliases:
+- "STDPPlasticity"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

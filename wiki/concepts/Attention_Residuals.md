@@ -3,6 +3,8 @@ title: Attention_Residuals
 tags:
 - chiplet
 - transformer
+aliases:
+- "AttentionResiduals"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

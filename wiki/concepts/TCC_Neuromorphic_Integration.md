@@ -1,3 +1,7 @@
+---
+aliases:
+- "TCCNeuromorphicIntegration"
+---
 # TCC_Neuromorphic_Integration
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ActiveInferenceArchitecture"
+---
 # Active_Inference_Architecture
 
 **Domain**: iNEST

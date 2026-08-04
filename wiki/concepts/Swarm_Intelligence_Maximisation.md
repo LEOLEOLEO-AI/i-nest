@@ -1,3 +1,7 @@
+---
+aliases:
+- "SwarmIntelligenceMaximisation"
+---
 # Swarm_Intelligence_Maximisation
 
 **Domain**: Cross

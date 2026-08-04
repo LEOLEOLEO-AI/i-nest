@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicNetworkCoDesign"
+---
 # Neuromorphic_NetworkCoDesign
 
 **Domain**: Cross

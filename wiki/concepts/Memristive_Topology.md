@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemristiveTopology"
+---
 # Memristive_Topology
 
 **Domain**: Cross

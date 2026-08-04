@@ -1,3 +1,7 @@
+---
+aliases:
+- "OnlineContinualLearning"
+---
 # Online_Continual_Learning
 
 **Domain**: iNEST

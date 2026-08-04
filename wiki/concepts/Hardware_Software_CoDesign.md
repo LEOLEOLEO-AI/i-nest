@@ -1,3 +1,7 @@
+---
+aliases:
+- "HardwareSoftwareCoDesign"
+---
 # Hardware_Software_CoDesign
 
 **Domain**: Cross

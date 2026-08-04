@@ -1,3 +1,7 @@
+---
+aliases:
+- "HopeArchitecture"
+---
 # Hope_Architecture
 
 **Domain**: iNEST

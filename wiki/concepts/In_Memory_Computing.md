@@ -1,3 +1,7 @@
+---
+aliases:
+- "InMemoryComputing"
+---
 # In_Memory_Computing
 
 **Domain**: Cross

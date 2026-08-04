@@ -1,3 +1,7 @@
+---
+aliases:
+- "InNetworkNeuromorphicPlasticity"
+---
 # InNetwork_Neuromorphic_Plasticity
 
 **Domain**: iNEST

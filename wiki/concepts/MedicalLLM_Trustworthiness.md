@@ -1,3 +1,7 @@
+---
+aliases:
+- "MedicalLLMTrustworthiness"
+---
 # MedicalLLM_Trustworthiness
 
 **Domain**: Cross

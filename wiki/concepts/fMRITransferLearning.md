@@ -1,3 +1,7 @@
+---
+aliases:
+- "FMRITransferLearning"
+---
 # fMRITransferLearning
 
 **Domain**: iNEST

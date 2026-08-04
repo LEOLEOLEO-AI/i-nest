@@ -62,7 +62,8 @@ def step_compile_if_new():
     因此这里直接调用, 不必在编排层重复扫描。
     """
     log("运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...")
-    rc, out = run_script("wiki_compiler.py", timeout=300)
+    # 大积压时每篇约 5s, 300s 远不够; 提到 3600s 安全裕量
+    rc, out = run_script("wiki_compiler.py", timeout=3600)
     log(f"wiki_compiler 退出码={rc} | {out[-300:]}")
     return rc == 0
 
@@ -340,7 +341,11 @@ def step_git():
     n = len(r.stdout.strip().splitlines())
     msg = f"chore(self-evolve): 每日自生长 {TODAY} — 概念图谱/交叉链接/门户刷新 ({n} 文件)"
     try:
-        subprocess.run(["git", "add", "-A"], cwd=str(VAULT), check=True,
+        # 精确添加预期变更目录, 避免 git add -A 吞入 AI 工具残留
+        add_dirs = ["wiki/", "60_MOC/", "70_Dashboard/", "99_Meta/", "state/",
+                    "Home.md", "00_Inbox/", "logs/", "30_TCC/", "40_iNEST/",
+                    "50_Output/", "80_Archive/", "raw/", "knowledge_graph/"]
+        subprocess.run(["git", "add", "--"] + add_dirs, cwd=str(VAULT), check=True,
                        capture_output=True, text=True, encoding="utf-8", errors="ignore")
         subprocess.run(["git", "commit", "-q", "-m", msg], cwd=str(VAULT), check=True,
                        capture_output=True, text=True, encoding="utf-8", errors="ignore")
@@ -350,7 +355,17 @@ def step_git():
         if p.returncode == 0:
             log("已推送 github main。")
         else:
-            log(f"⚠️ push 失败(可能配额/网络): {p.stderr[-200:]}")
+            # non-fast-forward 恢复: 远端有新提交时 pull 后重推
+            log(f"push 失败, 尝试 pull --no-rebase 后重推: {p.stderr[-200:]}")
+            subprocess.run(["git", "pull", "github", "main", "--no-rebase", "--no-edit"],
+                           cwd=str(VAULT), capture_output=True, text=True,
+                           encoding="utf-8", errors="ignore")
+            p2 = subprocess.run(["git", "push", "github", "main"], cwd=str(VAULT),
+                                capture_output=True, text=True, encoding="utf-8", errors="ignore")
+            if p2.returncode == 0:
+                log("pull 后重推成功。")
+            else:
+                log(f"⚠️ 重推仍失败: {p2.stderr[-200:]}")
         return True
     except subprocess.CalledProcessError as e:
         log(f"⚠️ git 步骤失败: {e}")

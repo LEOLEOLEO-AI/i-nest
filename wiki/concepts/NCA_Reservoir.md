@@ -1,3 +1,7 @@
+---
+aliases:
+- "NCAReservoir"
+---
 # NCA_Reservoir
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "MonitoredQuantumCircuits"
+---
 # Monitored_Quantum_Circuits
 
 **Domain**: Cross

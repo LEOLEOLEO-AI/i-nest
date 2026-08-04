@@ -1,3 +1,7 @@
+---
+aliases:
+- "CrossDomainSynthesis"
+---
 # CrossDomain_Synthesis
 
 **Domain**: Cross

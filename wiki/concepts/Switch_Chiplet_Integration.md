@@ -1,3 +1,7 @@
+---
+aliases:
+- "SwitchChipletIntegration"
+---
 # Switch_Chiplet_Integration
 
 **Domain**: Cross

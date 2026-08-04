@@ -2,6 +2,8 @@
 title: In_Network_Neuromorphic_Processing
 tags:
 - chiplet
+aliases:
+- "InNetworkNeuromorphicProcessing"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -45,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
-[[SmallWorldNetwork]]
+[[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
@@ -57,3 +59,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- InNetworkNeuromorphicProcessing (merged 2026-08-04)

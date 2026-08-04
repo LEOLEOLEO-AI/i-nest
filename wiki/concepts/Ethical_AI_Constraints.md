@@ -1,3 +1,7 @@
+---
+aliases:
+- "EthicalAIConstraints"
+---
 # Ethical_AI_Constraints
 
 **Domain**: Cross

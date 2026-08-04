@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpeechToSpikeEncoding"
+---
 # SpeechToSpike_Encoding
 
 **Domain**: iNEST

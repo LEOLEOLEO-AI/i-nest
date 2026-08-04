@@ -2,6 +2,8 @@
 title: NonAbelian_Gauge_Topology
 tags:
 - chiplet
+aliases:
+- "NonAbelianGaugeTopology"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

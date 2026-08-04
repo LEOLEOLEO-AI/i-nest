@@ -1,3 +1,7 @@
+---
+aliases:
+- "FreeEnergyMinimizationInterconnect"
+---
 # Free_Energy_Minimization_Interconnect
 
 **Domain**: iNEST

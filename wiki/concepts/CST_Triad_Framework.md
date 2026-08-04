@@ -1,3 +1,7 @@
+---
+aliases:
+- "CSTTriadFramework"
+---
 # CST_Triad_Framework
 
 **Domain**: Cross

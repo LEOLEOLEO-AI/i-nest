@@ -1,3 +1,7 @@
+---
+aliases:
+- "AdaptiveEWNeuromorphicController"
+---
 # Adaptive_EW_Neuromorphic_Controller
 
 **Domain**: iNEST

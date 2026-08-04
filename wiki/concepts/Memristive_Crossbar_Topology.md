@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemristiveCrossbarTopology"
+---
 # Memristive_Crossbar_Topology
 
 **Domain**: TCC

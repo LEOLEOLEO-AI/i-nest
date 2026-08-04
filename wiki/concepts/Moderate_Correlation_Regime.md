@@ -1,3 +1,7 @@
+---
+aliases:
+- "ModerateCorrelationRegime"
+---
 # Moderate_Correlation_Regime
 
 **Domain**: Cross

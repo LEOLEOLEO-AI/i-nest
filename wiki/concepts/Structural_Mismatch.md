@@ -2,6 +2,8 @@
 title: Structural_Mismatch
 tags:
 - chiplet
+aliases:
+- "StructuralMismatch"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

@@ -1,3 +1,7 @@
+---
+aliases:
+- "RestingStateEEGConnectivity"
+---
 # RestingStateEEG_Connectivity
 
 **Domain**: iNEST

@@ -2,6 +2,8 @@
 title: Complex_Network_Class_Brain_Inspired_Intelligence
 tags:
 - chiplet
+aliases:
+- "ComplexNetworkClassBrainInspiredIntelligence"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

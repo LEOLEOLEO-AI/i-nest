@@ -1,6 +1,8 @@
 ---
 title: Emergent_Intelligence_Verifiability
 tags: []
+aliases:
+- "EmergentIntelligenceVerifiability"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

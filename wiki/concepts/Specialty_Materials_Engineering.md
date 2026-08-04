@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpecialtyMaterialsEngineering"
+---
 # Specialty_Materials_Engineering
 
 **Domain**: Cross

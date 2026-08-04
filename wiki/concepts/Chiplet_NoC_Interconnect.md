@@ -1,3 +1,7 @@
+---
+aliases:
+- "ChipletNoCInterconnect"
+---
 # Chiplet_NoC_Interconnect
 
 **Domain**: TCC

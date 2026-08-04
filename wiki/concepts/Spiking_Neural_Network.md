@@ -1,6 +1,8 @@
 ---
 title: Spiking_Neural_Network
 tags: []
+aliases:
+- "SpikingNeuralNetwork"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -41,7 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetworks]]
-[[SmallWorldNetwork]]
+[[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
@@ -55,3 +57,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Spiking_Neural_Network (merged 2026-08-04)

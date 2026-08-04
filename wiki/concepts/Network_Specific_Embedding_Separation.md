@@ -1,3 +1,7 @@
+---
+aliases:
+- "NetworkSpecificEmbeddingSeparation"
+---
 # Network_Specific_Embedding_Separation
 
 **Domain**: iNEST

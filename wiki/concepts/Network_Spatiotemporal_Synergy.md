@@ -2,6 +2,8 @@
 title: Network_Spatiotemporal_Synergy
 tags:
 - chiplet
+aliases:
+- "NetworkSpatiotemporalSynergy"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

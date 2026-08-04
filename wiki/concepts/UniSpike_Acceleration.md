@@ -1,3 +1,7 @@
+---
+aliases:
+- "UniSpikeAcceleration"
+---
 # UniSpike_Acceleration
 
 **Domain**: iNEST

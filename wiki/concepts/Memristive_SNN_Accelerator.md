@@ -1,3 +1,7 @@
+---
+aliases:
+- "MemristiveSNNAccelerator"
+---
 # Memristive_SNN_Accelerator
 
 **Domain**: iNEST

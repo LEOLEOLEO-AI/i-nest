@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikeEncodingOfFMRI"
+---
 # Spike_Encoding_of_fMRI
 
 **Domain**: iNEST

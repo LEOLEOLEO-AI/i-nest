@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikeTrainRegression"
+---
 # Spike_Train_Regression
 
 **Domain**: iNEST

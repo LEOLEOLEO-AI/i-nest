@@ -1,3 +1,7 @@
+---
+aliases:
+- "TsunamiReservoirPrediction"
+---
 # Tsunami_Reservoir_Prediction
 
 **Domain**: iNEST

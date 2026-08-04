@@ -1,3 +1,7 @@
+---
+aliases:
+- "InNetworkGenerativeInference"
+---
 # In_Network_Generative_Inference
 
 **Domain**: iNEST

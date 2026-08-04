@@ -1,3 +1,7 @@
+---
+aliases:
+- "DistributedSinkhornIteration"
+---
 # Distributed_Sinkhorn_Iteration
 
 **Domain**: TCC

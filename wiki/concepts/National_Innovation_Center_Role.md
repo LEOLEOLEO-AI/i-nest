@@ -2,6 +2,8 @@
 title: National_Innovation_Center_Role
 tags:
 - chiplet
+aliases:
+- "NationalInnovationCenterRole"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

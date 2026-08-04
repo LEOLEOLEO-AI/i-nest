@@ -1,3 +1,7 @@
+---
+aliases:
+- "GraphEmbeddingRetrieval"
+---
 # GraphEmbedding_Retrieval
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "StrategicSurprisePrevention"
+---
 # Strategic_Surprise_Prevention
 
 **Domain**: Cross

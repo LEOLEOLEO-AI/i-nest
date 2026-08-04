@@ -1,3 +1,7 @@
+---
+aliases:
+- "AsymmetricTechnologyOvermatch"
+---
 # Asymmetric_Technology_Overmatch
 
 **Domain**: Cross

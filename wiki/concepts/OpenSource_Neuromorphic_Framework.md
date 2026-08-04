@@ -1,3 +1,7 @@
+---
+aliases:
+- "OpenSourceNeuromorphicFramework"
+---
 # OpenSource_Neuromorphic_Framework
 
 **Domain**: Cross

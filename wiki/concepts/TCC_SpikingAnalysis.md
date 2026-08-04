@@ -1,3 +1,7 @@
+---
+aliases:
+- "TCCSpikingAnalysis"
+---
 # TCC_SpikingAnalysis
 
 **Domain**: Cross

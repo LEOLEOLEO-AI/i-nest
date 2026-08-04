@@ -1,3 +1,7 @@
+---
+aliases:
+- "EmergentComputation"
+---
 # Emergent_Computation
 
 **Domain**: Cross

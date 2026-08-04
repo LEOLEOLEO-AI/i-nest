@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNSparsityInformationBound"
+---
 # SNN_Sparsity_InformationBound
 
 **Domain**: iNEST

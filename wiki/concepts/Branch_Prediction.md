@@ -1,3 +1,7 @@
+---
+aliases:
+- "BranchPrediction"
+---
 # Branch_Prediction
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ForwardFluctuationGradientEstimation"
+---
 # ForwardFluctuation_GradientEstimation
 
 **Domain**: Cross

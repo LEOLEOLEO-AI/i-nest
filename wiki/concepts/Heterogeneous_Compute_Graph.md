@@ -1,3 +1,7 @@
+---
+aliases:
+- "HeterogeneousComputeGraph"
+---
 # Heterogeneous_Compute_Graph
 
 **Domain**: Cross

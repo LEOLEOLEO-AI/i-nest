@@ -1,3 +1,7 @@
+---
+aliases:
+- "CryogenicSyndromeCompression"
+---
 # Cryogenic_Syndrome_Compression
 
 **Domain**: Cross

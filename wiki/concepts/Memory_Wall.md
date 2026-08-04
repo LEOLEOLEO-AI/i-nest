@@ -2,6 +2,8 @@
 title: Memory_Wall
 tags:
 - chiplet
+aliases:
+- "MemoryWall"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

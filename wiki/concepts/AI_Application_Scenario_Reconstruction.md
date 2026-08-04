@@ -3,6 +3,8 @@ title: AI_Application_Scenario_Reconstruction
 tags:
 - chiplet
 - large-language-model
+aliases:
+- "AIApplicationScenarioReconstruction"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

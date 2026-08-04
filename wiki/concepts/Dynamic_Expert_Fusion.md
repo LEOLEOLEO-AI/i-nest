@@ -1,3 +1,7 @@
+---
+aliases:
+- "DynamicExpertFusion"
+---
 # Dynamic_Expert_Fusion
 
 **Domain**: Cross

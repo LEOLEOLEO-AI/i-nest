@@ -1,3 +1,7 @@
+---
+aliases:
+- "ConnectomeTopologyProfiling"
+---
 # Connectome_Topology_Profiling
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuralAvalancheDynamics"
+---
 # Neural_Avalanche_Dynamics
 
 **Domain**: Cross

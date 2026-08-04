@@ -2,6 +2,8 @@
 title: CST_Theory
 tags:
 - chiplet
+aliases:
+- "CSTTheory"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

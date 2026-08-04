@@ -2,6 +2,8 @@
 title: Memristor_Hardware_ANN
 tags:
 - chiplet
+aliases:
+- "MemristorHardwareANN"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

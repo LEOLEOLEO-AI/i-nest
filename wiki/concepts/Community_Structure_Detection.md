@@ -1,3 +1,7 @@
+---
+aliases:
+- "CommunityStructureDetection"
+---
 # Community_Structure_Detection
 
 **Domain**: Cross

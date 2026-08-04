@@ -1,3 +1,7 @@
+---
+aliases:
+- "InNetworkNeuromorphicCompute"
+---
 # In_Network_Neuromorphic_Compute
 
 **Domain**: iNEST

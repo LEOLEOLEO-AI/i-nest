@@ -1,3 +1,7 @@
+---
+aliases:
+- "SDISTDPRegulation"
+---
 # SDI_STDP_Regulation
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "CSTCapabilityFormula"
+---
 # C_ST_Capability_Formula
 
 **Domain**: TCC

@@ -1,3 +1,7 @@
+---
+aliases:
+- "GutBrainAxisReprogramming"
+---
 # GutBrainAxis_Reprogramming
 
 **Domain**: Cross

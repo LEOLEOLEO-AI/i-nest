@@ -1,3 +1,7 @@
+---
+aliases:
+- "EventDrivenCommunication"
+---
 # Event_Driven_Communication
 
 **Domain**: Cross

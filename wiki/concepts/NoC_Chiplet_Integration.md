@@ -1,3 +1,7 @@
+---
+aliases:
+- "NoCChipletIntegration"
+---
 # NoC_Chiplet_Integration
 
 **Domain**: TCC

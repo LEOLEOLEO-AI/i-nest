@@ -1,3 +1,7 @@
+---
+aliases:
+- "QuantumReservoirComputing"
+---
 # Quantum_Reservoir_Computing
 
 **Domain**: Cross

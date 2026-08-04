@@ -1,3 +1,7 @@
+---
+aliases:
+- "IntrinsicDimensionalityEstimation"
+---
 # Intrinsic_Dimensionality_Estimation
 
 **Domain**: Cross

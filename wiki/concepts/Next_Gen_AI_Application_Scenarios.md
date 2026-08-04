@@ -2,6 +2,8 @@
 title: Next_Gen_AI_Application_Scenarios
 tags:
 - chiplet
+aliases:
+- "NextGenAIApplicationScenarios"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

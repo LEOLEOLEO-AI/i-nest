@@ -1,3 +1,7 @@
+---
+aliases:
+- "SNNRobustnessNoise"
+---
 # SNN_Robustness_Noise
 
 **Domain**: Cross

@@ -1,3 +1,7 @@
+---
+aliases:
+- "ExpressivityBounds"
+---
 # Expressivity_Bounds
 
 **Domain**: Cross

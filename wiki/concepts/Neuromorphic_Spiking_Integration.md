@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicSpikingIntegration"
+---
 # Neuromorphic_Spiking_Integration
 
 **Domain**: iNEST

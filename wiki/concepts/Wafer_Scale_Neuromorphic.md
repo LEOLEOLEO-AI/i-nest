@@ -2,6 +2,8 @@
 title: Wafer_Scale_Neuromorphic
 tags:
 - chiplet
+aliases:
+- "WaferScaleNeuromorphic"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -45,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[SmallWorldNetwork]]
+[[Small_World_Network]]
 [[Spacetime_Coupling_Coefficient]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

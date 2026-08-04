@@ -1,3 +1,7 @@
+---
+aliases:
+- "ParameterReconstruction"
+---
 # Parameter_Reconstruction
 
 **Domain**: iNEST

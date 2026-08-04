@@ -1,3 +1,7 @@
+---
+aliases:
+- "AgentInteractionSequencing"
+---
 # Agent_Interaction_Sequencing
 
 **Domain**: iNEST

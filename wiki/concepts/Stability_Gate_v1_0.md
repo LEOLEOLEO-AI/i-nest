@@ -1,3 +1,7 @@
+---
+aliases:
+- "StabilityGateV10"
+---
 # Stability_Gate_v1_0
 
 **Domain**: Cross

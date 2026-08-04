@@ -2,6 +2,8 @@
 title: Technology_Innovation_Platform
 tags:
 - chiplet
+aliases:
+- "TechnologyInnovationPlatform"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

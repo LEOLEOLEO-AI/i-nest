@@ -1,3 +1,7 @@
+---
+aliases:
+- "DeepThermalisation"
+---
 # Deep_Thermalisation
 
 **Domain**: TCC

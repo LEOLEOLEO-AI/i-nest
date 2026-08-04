@@ -1,3 +1,7 @@
+---
+aliases:
+- "PhaseSpatialCoupling"
+---
 # Phase_Spatial_Coupling
 
 **Domain**: iNEST

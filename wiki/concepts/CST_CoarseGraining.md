@@ -1,3 +1,7 @@
+---
+aliases:
+- "CSTCoarseGraining"
+---
 # CST_CoarseGraining
 
 **Domain**: Cross

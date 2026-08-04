@@ -1,3 +1,7 @@
+---
+aliases:
+- "FlagOSInterconnectTopology"
+---
 # FlagOS_Interconnect_Topology
 
 **Domain**: TCC

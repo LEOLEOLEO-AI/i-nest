@@ -4,6 +4,8 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
+aliases:
+- "B7TCC OneFabric论文计划"
 ---
 # B7_TCC OneFabric_论文计划
 

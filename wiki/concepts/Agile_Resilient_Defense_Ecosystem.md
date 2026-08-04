@@ -1,3 +1,7 @@
+---
+aliases:
+- "AgileResilientDefenseEcosystem"
+---
 # Agile_Resilient_Defense_Ecosystem
 
 **Domain**: Cross

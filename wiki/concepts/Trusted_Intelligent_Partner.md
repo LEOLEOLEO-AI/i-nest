@@ -1,3 +1,7 @@
+---
+aliases:
+- "TrustedIntelligentPartner"
+---
 # Trusted_Intelligent_Partner
 
 **Domain**: Cross

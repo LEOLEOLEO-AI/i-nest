@@ -1,3 +1,7 @@
+---
+aliases:
+- "FadingMemoryProperty"
+---
 # Fading_Memory_Property
 
 **Domain**: iNEST

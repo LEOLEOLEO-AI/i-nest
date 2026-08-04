@@ -1,3 +1,7 @@
+---
+aliases:
+- "AssociativeRetrieval"
+---
 # Associative_Retrieval
 
 **Domain**: iNEST

@@ -1,3 +1,7 @@
+---
+aliases:
+- "StrongRandomnessRGFlow"
+---
 # Strong_Randomness_RG_Flow
 
 **Domain**: Cross

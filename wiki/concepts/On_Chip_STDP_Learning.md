@@ -1,3 +1,7 @@
+---
+aliases:
+- "OnChipSTDPLearning"
+---
 # On_Chip_STDP_Learning
 
 **Domain**: iNEST

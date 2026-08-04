@@ -1,3 +1,7 @@
+---
+aliases:
+- "IsingFormulation"
+---
 # Ising_Formulation
 
 **Domain**: iNEST

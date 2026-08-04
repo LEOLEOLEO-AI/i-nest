@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpikerLLAccelerator"
+---
 # SpikerLL_Accelerator
 
 **Domain**: iNEST

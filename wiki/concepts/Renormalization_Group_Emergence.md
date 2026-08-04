@@ -2,6 +2,8 @@
 title: Renormalization_Group_Emergence
 tags:
 - chiplet
+aliases:
+- "RenormalizationGroupEmergence"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

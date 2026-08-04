@@ -1,3 +1,7 @@
+---
+aliases:
+- "SmallCoreLargeNetwork"
+---
 # SmallCore_LargeNetwork
 
 **Domain**: Cross

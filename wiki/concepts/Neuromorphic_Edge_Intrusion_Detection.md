@@ -1,3 +1,7 @@
+---
+aliases:
+- "NeuromorphicEdgeIntrusionDetection"
+---
 # Neuromorphic_Edge_Intrusion_Detection
 
 **Domain**: Cross

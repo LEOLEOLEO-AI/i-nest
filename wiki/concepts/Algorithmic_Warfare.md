@@ -1,3 +1,7 @@
+---
+aliases:
+- "AlgorithmicWarfare"
+---
 # Algorithmic_Warfare
 
 **Domain**: Cross

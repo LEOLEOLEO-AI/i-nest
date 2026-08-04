@@ -1,3 +1,7 @@
+---
+aliases:
+- "SpaceDomainAwareness"
+---
 # Space_Domain_Awareness
 
 **Domain**: Cross

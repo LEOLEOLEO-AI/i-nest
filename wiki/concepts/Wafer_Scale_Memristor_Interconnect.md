@@ -1,3 +1,7 @@
+---
+aliases:
+- "WaferScaleMemristorInterconnect"
+---
 # Wafer_Scale_Memristor_Interconnect
 
 **Domain**: Cross

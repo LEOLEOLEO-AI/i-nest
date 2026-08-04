@@ -1,3 +1,7 @@
+---
+aliases:
+- "MicroelectronicsSupplyChainSovereignty"
+---
 # Microelectronics_Supply_Chain_Sovereignty
 
 **Domain**: Cross

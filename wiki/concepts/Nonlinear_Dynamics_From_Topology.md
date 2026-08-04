@@ -1,3 +1,7 @@
+---
+aliases:
+- "NonlinearDynamicsFromTopology"
+---
 # Nonlinear_Dynamics_From_Topology
 
 **Domain**: iNEST

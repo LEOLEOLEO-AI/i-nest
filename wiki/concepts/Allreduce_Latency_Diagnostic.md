@@ -1,3 +1,7 @@
+---
+aliases:
+- "AllreduceLatencyDiagnostic"
+---
 # Allreduce_Latency_Diagnostic
 
 **Domain**: TCC

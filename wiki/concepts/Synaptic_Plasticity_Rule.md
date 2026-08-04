@@ -1,3 +1,7 @@
+---
+aliases:
+- "SynapticPlasticityRule"
+---
 # Synaptic_Plasticity_Rule
 
 **Domain**: Cross

@@ -2,6 +2,8 @@
 title: NoC_Chiplet_Wafer_Stack
 tags:
 - chiplet
+aliases:
+- "NoCChipletWaferStack"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

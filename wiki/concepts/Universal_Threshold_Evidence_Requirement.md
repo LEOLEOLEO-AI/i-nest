@@ -1,3 +1,7 @@
+---
+aliases:
+- "UniversalThresholdEvidenceRequirement"
+---
 # Universal_Threshold_Evidence_Requirement
 
 **Domain**: Cross

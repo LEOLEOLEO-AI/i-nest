@@ -1,3 +1,7 @@
+---
+aliases:
+- "PortHamiltonianSystem"
+---
 # Port_Hamiltonian_System
 
 **Domain**: Cross
