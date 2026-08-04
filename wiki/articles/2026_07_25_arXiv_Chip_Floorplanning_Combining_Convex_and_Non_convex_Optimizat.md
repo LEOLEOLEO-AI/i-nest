@@ -12,3 +12,11 @@ TCC, iNEST, interconnect, topology
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Chip_Floorplanning]]
+[[Network_Topology_Design]]
+[[TCC]]
+[[iNEST]]

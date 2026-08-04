@@ -1,7 +1,3 @@
----
-aliases:
-- "SDINoCFusion"
----
 # SDI_NoC_Fusion
 
 **Domain**: TCC
@@ -17,13 +13,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Interconnect_Routing]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 

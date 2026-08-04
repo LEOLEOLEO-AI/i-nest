@@ -12,3 +12,14 @@ iNEST, 拓扑, 神经形态
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Brain_Connectome]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[SOC]]
+[[Self_Organized_Criticality]]
+[[iNEST]]
+[[神经形态计算]]

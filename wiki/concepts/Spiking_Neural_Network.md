@@ -1,8 +1,6 @@
 ---
 title: Spiking_Neural_Network
 tags: []
-aliases:
-- "SpikingNeuralNetwork"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -45,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetworks]]
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

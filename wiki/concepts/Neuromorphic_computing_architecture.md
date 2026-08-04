@@ -1,8 +1,6 @@
 ---
 title: Neuromorphic_computing_architecture
 tags: []
-aliases:
-- "NeuromorphicComputingArchitecture"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -45,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetworks]]
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

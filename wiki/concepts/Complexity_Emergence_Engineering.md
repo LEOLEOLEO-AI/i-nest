@@ -2,8 +2,6 @@
 title: Complexity_Emergence_Engineering
 tags:
 - chiplet
-aliases:
-- "ComplexityEmergenceEngineering"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -39,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing_architecture]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

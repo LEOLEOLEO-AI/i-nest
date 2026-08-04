@@ -12,3 +12,10 @@ SDI, iNEST, 封装
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[SDI_Bond]]
+[[TCC]]
+[[iNEST]]

@@ -4,9 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
-aliases:
-- "Getnote2026-01-25吴华强团队与iNEST技术互补"
-- "getnote2026-01-25吴华强团队与iNEST技术互补"
 ---
 
 # getnote_2026-01-25_吴华强团队与iNEST技术互补
@@ -25,3 +22,16 @@ aliases:
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Neuromorphic_Computing]]
+[[Wafer_Scale_Neuromorphic]]
+[[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
+[[getnote_2026-01-12_数字孪生大脑工程化路径]]
+[[getnote_2026-01-25_清华团队类脑计算突破]]
+[[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
+[[iNEST]]
+[[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
+[[类脑芯片]]

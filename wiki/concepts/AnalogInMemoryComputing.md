@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -20,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 

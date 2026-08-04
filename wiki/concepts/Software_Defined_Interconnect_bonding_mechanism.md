@@ -2,8 +2,6 @@
 title: Software_Defined_Interconnect_bonding_mechanism
 tags:
 - chiplet
-aliases:
-- "SoftwareDefinedInterconnectBondingMechanism"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted
@@ -33,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

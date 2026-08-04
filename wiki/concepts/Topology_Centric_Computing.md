@@ -2,8 +2,6 @@
 title: Topology_Centric_Computing
 tags:
 - chiplet
-aliases:
-- "TopologyCentricComputing"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted
@@ -28,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -41,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]

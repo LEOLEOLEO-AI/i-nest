@@ -1,7 +1,3 @@
----
-aliases:
-- "NegativeResultRetention"
----
 # Negative_Result_Retention
 
 **Domain**: TCC
@@ -17,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Decoupling_Mechanism]]
+[[EventDrivenFunctionalConnectivity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

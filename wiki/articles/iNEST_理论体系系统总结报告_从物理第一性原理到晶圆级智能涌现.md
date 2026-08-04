@@ -12,3 +12,17 @@ SDI, STDP, TCC, iNEST, interconnect, neuromorphic, topology, 互连, 拓扑, 晶
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[STDP_Plasticity]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+[[iNEST]]
+[[智能涌现]]
+[[涌现]]

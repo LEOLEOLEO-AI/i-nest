@@ -1,7 +1,3 @@
----
-aliases:
-- "AIRANeuralArchSearch"
----
 # AIRA_NeuralArchSearch
 
 **Domain**: Cross
@@ -17,11 +13,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Structural_Mismatch]]
 [[iNEST]]

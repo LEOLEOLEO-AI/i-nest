@@ -2,8 +2,6 @@
 title: Order_Flexibility_Duality
 tags:
 - chiplet
-aliases:
-- "OrderFlexibilityDuality"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -30,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]
@@ -40,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing_architecture]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

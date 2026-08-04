@@ -2,8 +2,6 @@
 title: Chiplet_Interconnect_Topology
 tags:
 - chiplet
-aliases:
-- "ChipletInterconnectTopology"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted
@@ -25,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -36,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

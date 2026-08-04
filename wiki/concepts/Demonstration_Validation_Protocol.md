@@ -1,7 +1,3 @@
----
-aliases:
-- "DemonstrationValidationProtocol"
----
 # Demonstration_Validation_Protocol
 
 **Domain**: TCC
@@ -16,7 +12,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Architectural_Conditioning]]
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]

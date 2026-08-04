@@ -12,3 +12,19 @@ SDI, SNN, TCC, iNEST, neuromorphic, spiking, 互连, 忆阻, 拓扑, 神经形�
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Intelligence_Emergence]]
+[[Memristor_Synapse]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SNN]]
+[[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+[[iNEST]]
+[[忆阻器]]
+[[涌现]]

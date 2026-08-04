@@ -1,8 +1,6 @@
 ---
 title: Emergent_Intelligence_Verifiability
 tags: []
-aliases:
-- "EmergentIntelligenceVerifiability"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -35,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

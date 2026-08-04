@@ -1,7 +1,3 @@
----
-aliases:
-- "GCMLCognitiveMap"
----
 # GCML_Cognitive_Map
 
 **Domain**: iNEST
@@ -18,14 +14,19 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[STDP_Plasticity]]
+[[Spike_Encoding_of_fMRI]]
 [[TemporalDynamicsAbsence]]
 [[WaferScale_Emergence]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
-[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

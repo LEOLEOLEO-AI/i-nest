@@ -27,9 +27,9 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
+[[Chiplet_Heterogeneous_Integration]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
-[[GammaSt_Revision]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Self_Organized_Criticality]]
+[[Spike_Encoding_of_fMRI]]
 [[Synaptic_Plasticity]]
 [[TopologyFragility]]
 [[iNEST]]

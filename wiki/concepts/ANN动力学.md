@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Contested_Prior_Resolution]]
 [[DRBE_MVP_Mainchain]]
 [[DiagnosticReportFramework]]
@@ -41,6 +42,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]

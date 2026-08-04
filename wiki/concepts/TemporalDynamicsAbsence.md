@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

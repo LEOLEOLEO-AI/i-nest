@@ -1,7 +1,3 @@
----
-aliases:
-- "NeuromorphicPlanningArchitecture"
----
 # Neuromorphic_Planning_Architecture
 
 **Domain**: iNEST
@@ -17,12 +13,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BiasEvaluationMetrics]]
+[[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]

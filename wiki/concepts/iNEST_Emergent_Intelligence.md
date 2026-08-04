@@ -1,8 +1,3 @@
----
-aliases:
-- "INESTEmergentIntelligence"
-- "iNESTEmergentIntelligence"
----
 # iNEST_Emergent_Intelligence
 
 **Domain**: iNEST
@@ -22,7 +17,9 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[iNEST]]

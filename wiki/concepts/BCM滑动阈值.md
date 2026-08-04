@@ -21,6 +21,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[ANN动力学]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
@@ -35,6 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuromorphic_computing_architecture]]
 [[NoC_SDI]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

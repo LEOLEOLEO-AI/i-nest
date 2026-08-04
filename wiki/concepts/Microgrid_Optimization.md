@@ -1,7 +1,3 @@
----
-aliases:
-- "MicrogridOptimization"
----
 # Microgrid_Optimization
 
 **Domain**: Cross
@@ -17,10 +13,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

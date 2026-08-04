@@ -1,8 +1,6 @@
 ---
 title: Workload_Layered_Architecture
 tags: []
-aliases:
-- "WorkloadLayeredArchitecture"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

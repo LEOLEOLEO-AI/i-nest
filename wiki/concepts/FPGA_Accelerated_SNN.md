@@ -1,7 +1,3 @@
----
-aliases:
-- "FPGAAcceleratedSNN"
----
 # FPGA_Accelerated_SNN
 
 **Domain**: iNEST
@@ -20,9 +16,11 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Master_SDDE]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]

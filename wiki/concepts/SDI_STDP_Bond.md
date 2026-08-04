@@ -1,8 +1,6 @@
 ---
 title: SDI_STDP_Bond
 tags: []
-aliases:
-- "SDISTDPBond"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -31,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
@@ -42,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[ScaleFreeNetworks]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

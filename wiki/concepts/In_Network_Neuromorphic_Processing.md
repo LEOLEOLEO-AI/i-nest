@@ -2,8 +2,6 @@
 title: In_Network_Neuromorphic_Processing
 tags:
 - chiplet
-aliases:
-- "InNetworkNeuromorphicProcessing"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -33,12 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

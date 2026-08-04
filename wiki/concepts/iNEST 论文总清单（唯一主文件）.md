@@ -4,8 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
-aliases:
-- "INEST 论文总清单（唯一主文件）"
 ---
 # iNEST 论文总清单（唯一主文件）
 
@@ -25,6 +23,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[ANN动力学]]
 [[Analog_Computation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
@@ -32,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Synaptic_Plasticity]]

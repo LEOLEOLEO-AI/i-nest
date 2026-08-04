@@ -4,8 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
-aliases:
-- "TCCRTC原语架构与SDI拓扑变换机理"
 ---
 # TCC_RTC原语架构与SDI拓扑变换机理
 
@@ -24,6 +22,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[CST计量仪]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[EmergentOrder]]
@@ -36,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuromorphic_computing_architecture]]
 [[NoC_SDI]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

@@ -2,8 +2,6 @@
 title: Wafer_Scale_Interconnect_Memristor
 tags:
 - chiplet
-aliases:
-- "WaferScaleInterconnectMemristor"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -28,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
 [[Memristor_Synapse]]
@@ -49,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
+[[Spike_Encoding_of_fMRI]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]

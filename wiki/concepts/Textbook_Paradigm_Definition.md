@@ -2,8 +2,6 @@
 title: Textbook_Paradigm_Definition
 tags:
 - chiplet
-aliases:
-- "TextbookParadigmDefinition"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -38,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

@@ -13,10 +13,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Principle_Network]]
 [[In_Memory_Computing]]
 [[Memristor_Synapse]]
+[[Network_Topology_Design]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

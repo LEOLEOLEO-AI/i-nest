@@ -19,7 +19,10 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[MitigationLayers]]
 [[MultiplicativeGain]]
+[[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirOutput]]
+[[Reservoir_Computing]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy_Complexity]]
 

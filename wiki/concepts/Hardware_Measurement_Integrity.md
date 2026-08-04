@@ -1,7 +1,3 @@
----
-aliases:
-- "HardwareMeasurementIntegrity"
----
 # Hardware_Measurement_Integrity
 
 **Domain**: TCC

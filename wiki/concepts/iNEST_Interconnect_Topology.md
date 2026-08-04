@@ -1,8 +1,3 @@
----
-aliases:
-- "INESTInterconnectTopology"
-- "iNESTInterconnectTopology"
----
 # iNEST_Interconnect_Topology
 
 **Domain**: TCC
@@ -27,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetworks]]
 [[VonNeumann_Complexity_Threshold]]
 [[Wafer_Scale_Integration]]

@@ -2,8 +2,6 @@
 title: Memory_Wall
 tags:
 - chiplet
-aliases:
-- "MemoryWall"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted
@@ -35,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

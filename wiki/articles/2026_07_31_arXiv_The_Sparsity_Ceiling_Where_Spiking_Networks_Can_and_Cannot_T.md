@@ -12,3 +12,12 @@ SNN, TCC, iNEST, spiking
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[SNN]]
+[[Sparsity_Ceiling]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+[[iNEST]]

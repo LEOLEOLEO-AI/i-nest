@@ -12,3 +12,16 @@ SDI, TCC, iNEST, 互连, 拓扑, 晶圆, 芯粒
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
+[[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+[[iNEST]]

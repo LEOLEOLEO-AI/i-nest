@@ -2,8 +2,6 @@
 title: Free_Energy_Topology_Mapping
 tags:
 - chiplet
-aliases:
-- "FreeEnergyTopologyMapping"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -24,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[EmergentOrder]]
+[[FreeEnergyMinimization]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
@@ -40,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC_Topology_Interconnect]]
 [[TemporalComplexity_Tc]]
+[[VariationalFreeEnergyMinimization]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -12,3 +12,10 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[InherentInterpretability]]
+[[TCC]]
+[[iNEST]]

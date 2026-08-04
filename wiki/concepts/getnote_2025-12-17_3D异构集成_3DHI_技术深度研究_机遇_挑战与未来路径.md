@@ -4,9 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
-aliases:
-- "Getnote2025-12-173D异构集成3DHI技术深度研究机遇挑战与未来路径"
-- "getnote2025-12-173D异构集成3DHI技术深度研究机遇挑战与未来路径"
 ---
 
 # getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径
@@ -25,3 +22,16 @@ aliases:
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Allreduce_Latency_Probe]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
+[[Neuromorphic_Chiplet]]
+[[SDI_TCC_Chiplet_Interconnect]]
+[[ScaleFreeNetwork]]
+[[SuperparamagneticSwitchingRate]]
+[[iNEST]]
+[[智能涌现]]
+[[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -4,8 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
-aliases:
-- "NICE开启类脑智能新范式从连接复杂度到智能涌现"
 ---
 
 # NICE_开启类脑智能新范式_从连接复杂度到智能涌现
@@ -24,3 +22,16 @@ aliases:
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Intelligence_Emergence]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
+[[Neuromorphic_Computing]]
+[[Wafer_Scale_Neuromorphic]]
+[[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
+[[iNEST 论文矩阵计划]]
+[[iNEST]]
+[[术语对照表]]

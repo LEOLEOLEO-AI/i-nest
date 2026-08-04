@@ -14,10 +14,13 @@ Auto-extracted concept from raw material compilation.
 
 [[BiasEvaluationMetrics]]
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

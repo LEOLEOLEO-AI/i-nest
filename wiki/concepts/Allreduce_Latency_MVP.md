@@ -2,8 +2,6 @@
 title: Allreduce_Latency_MVP
 tags:
 - chiplet
-aliases:
-- "AllreduceLatencyMVP"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted
@@ -37,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]

@@ -1,7 +1,3 @@
----
-aliases:
-- "MasterSDDE"
----
 # Master_SDDE
 
 **Domain**: iNEST
@@ -24,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 [[MacroscopicDescriptor]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
+[[Network_Topology_Design]]
+[[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetworks]]
 [[SpatiotemporalComplexityIndex]]
 [[ThermalNoiseHarnessing]]

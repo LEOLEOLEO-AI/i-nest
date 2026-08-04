@@ -12,3 +12,10 @@ note_id: 1914449383701724304 title: "Google Research《Nested Learning: The Illu
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[NestedLearning]]
+[[Neuromorphic_Computing]]
+[[iNEST]]

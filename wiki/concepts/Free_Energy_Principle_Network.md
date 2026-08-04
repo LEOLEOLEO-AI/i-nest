@@ -2,8 +2,6 @@
 title: Free_Energy_Principle_Network
 tags:
 - chiplet
-aliases:
-- "FreeEnergyPrincipleNetwork"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -26,8 +24,10 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
+[[FreeEnergyPrinciple]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

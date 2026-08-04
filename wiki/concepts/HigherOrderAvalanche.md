@@ -16,10 +16,13 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
+[[Network_Topology_Design]]
+[[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Self_Organized_Criticality]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
 

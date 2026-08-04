@@ -1,7 +1,3 @@
----
-aliases:
-- "CSTMetric"
----
 # CST_Metric
 
 **Domain**: iNEST
@@ -24,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
+[[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetworks]]
 [[SpatiotemporalComplexityIndex]]
 [[ThermalNoiseHarnessing]]

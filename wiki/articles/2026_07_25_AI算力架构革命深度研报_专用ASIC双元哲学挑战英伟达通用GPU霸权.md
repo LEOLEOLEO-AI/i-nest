@@ -12,3 +12,10 @@ chiplet, 封装, 拓扑
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Chiplet_Heterogeneous_Integration]]
+[[Network_Topology_Design]]
+[[TCC]]

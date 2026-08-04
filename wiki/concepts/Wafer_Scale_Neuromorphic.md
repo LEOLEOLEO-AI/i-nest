@@ -2,8 +2,6 @@
 title: Wafer_Scale_Neuromorphic
 tags:
 - chiplet
-aliases:
-- "WaferScaleNeuromorphic"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -35,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_computing_architecture]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
@@ -49,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Small_World_Network]]
 [[Spacetime_Coupling_Coefficient]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

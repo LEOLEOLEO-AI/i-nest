@@ -1,7 +1,3 @@
----
-aliases:
-- "FirstPrinciplesMainline"
----
 # FirstPrinciples_Mainline
 
 **Domain**: Cross

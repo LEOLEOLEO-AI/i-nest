@@ -12,3 +12,12 @@ SDI, STDP, iNEST, 拓扑
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Brain_Connectome]]
+[[Network_Topology_Design]]
+[[SDI_Bond]]
+[[STDP_Plasticity]]
+[[iNEST]]

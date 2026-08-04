@@ -1,7 +1,3 @@
----
-aliases:
-- "EmergentAbilities"
----
 # Emergent_Abilities
 
 **Domain**: Cross
@@ -17,11 +13,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]

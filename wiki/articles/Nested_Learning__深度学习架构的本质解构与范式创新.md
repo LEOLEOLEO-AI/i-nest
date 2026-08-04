@@ -12,3 +12,9 @@ iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[NestedLearning]]
+[[iNEST]]

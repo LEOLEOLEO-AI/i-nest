@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Master_SDDE]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[iNEST]]

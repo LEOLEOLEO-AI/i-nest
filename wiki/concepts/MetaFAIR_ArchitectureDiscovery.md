@@ -3,8 +3,6 @@ title: MetaFAIR_ArchitectureDiscovery
 tags:
 - chiplet
 - transformer
-aliases:
-- "MetaFAIRArchitectureDiscovery"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -51,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
+[[Spike_Encoding_of_fMRI]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]

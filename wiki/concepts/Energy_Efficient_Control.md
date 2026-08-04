@@ -1,7 +1,3 @@
----
-aliases:
-- "EnergyEfficientControl"
----
 # Energy_Efficient_Control
 
 **Domain**: Cross
@@ -18,9 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[BiasEvaluationMetrics]]
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Free_Energy_Principle_Network]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

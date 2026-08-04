@@ -1,7 +1,3 @@
----
-aliases:
-- "FirstPrinciplesDerivation"
----
 # FirstPrinciples_Derivation
 
 **Domain**: Cross
@@ -17,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Network_Topology_Design]]
@@ -24,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Structural_Mismatch]]
 [[iNEST]]
 

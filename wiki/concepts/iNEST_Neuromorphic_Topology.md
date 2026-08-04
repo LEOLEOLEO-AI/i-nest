@@ -2,9 +2,6 @@
 title: iNEST_Neuromorphic_Topology
 tags:
 - chiplet
-aliases:
-- "INESTNeuromorphicTopology"
-- "iNESTNeuromorphicTopology"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -41,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

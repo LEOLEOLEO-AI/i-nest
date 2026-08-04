@@ -4,8 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
-aliases:
-- "11SDI节点接口规范与化合键定义Dup"
 ---
 # 11_SDI节点接口规范与化合键定义_dup
 
@@ -25,6 +23,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ANN动力学]]
 [[AutonomousAdaptation]]
 [[CST_Intelligence_Emergence]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
@@ -39,6 +38,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TopologyFragility]]

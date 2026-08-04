@@ -4,8 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 6
-aliases:
-- "INEST"
 ---
 
 # iNEST
@@ -41,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP_Bond]]
 [[SDSoW]]

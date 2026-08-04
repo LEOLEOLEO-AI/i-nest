@@ -1,7 +1,3 @@
----
-aliases:
-- "ConstructedRealityPrior"
----
 # Constructed_Reality_Prior
 
 **Domain**: iNEST
@@ -20,9 +16,12 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]

@@ -3,8 +3,6 @@ title: AI_Application_Scenario_Reconstruction
 tags:
 - chiplet
 - large-language-model
-aliases:
-- "AIApplicationScenarioReconstruction"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted
@@ -36,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]

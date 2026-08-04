@@ -1,7 +1,3 @@
----
-aliases:
-- "CoPoSIntegration"
----
 # CoPoS_Integration
 
 **Domain**: TCC
@@ -16,10 +12,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Architectural_Conditioning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoPoS]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]

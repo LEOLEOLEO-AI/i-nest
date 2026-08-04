@@ -2,8 +2,6 @@
 title: Renormalization_Group_Convergence
 tags:
 - chiplet
-aliases:
-- "RenormalizationGroupConvergence"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -42,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP_Bond]]

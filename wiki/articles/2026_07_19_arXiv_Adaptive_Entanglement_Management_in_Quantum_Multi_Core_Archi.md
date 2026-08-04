@@ -12,3 +12,10 @@ NoC, TCC, interconnect, 互连
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[AdaptiveEntanglementManagement]]
+[[Network_on_Chip]]
+[[TCC]]

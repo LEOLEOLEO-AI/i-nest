@@ -1,7 +1,3 @@
----
-aliases:
-- "ComplexityCoordinationLayer"
----
 # Complexity_Coordination_Layer
 
 **Domain**: TCC
@@ -17,15 +13,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Emergent_Computation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[TemporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

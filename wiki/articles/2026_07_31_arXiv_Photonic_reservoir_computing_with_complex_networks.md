@@ -12,3 +12,12 @@ TCC, iNEST, topology
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Network_Topology_Design]]
+[[PhotonicReservoirComputing]]
+[[Reservoir_Computing]]
+[[TCC]]
+[[iNEST]]

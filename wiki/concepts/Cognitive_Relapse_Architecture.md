@@ -2,8 +2,6 @@
 title: Cognitive_Relapse_Architecture
 tags:
 - chiplet
-aliases:
-- "CognitiveRelapseArchitecture"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -25,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[EmergentOrder]]
+[[FreeEnergyPrinciple]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

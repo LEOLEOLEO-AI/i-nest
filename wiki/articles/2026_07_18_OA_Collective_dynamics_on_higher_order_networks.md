@@ -12,3 +12,11 @@ iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[CollectiveDynamics]]
+[[NeuronalAvalanche]]
+[[Self_Organized_Criticality]]
+[[iNEST]]

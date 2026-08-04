@@ -1,8 +1,6 @@
 ---
 title: B3_Paper_Competitive_Landscape
 tags: []
-aliases:
-- "B3PaperCompetitiveLandscape"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

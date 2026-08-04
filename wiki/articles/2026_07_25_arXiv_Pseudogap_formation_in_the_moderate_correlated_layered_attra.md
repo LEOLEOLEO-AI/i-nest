@@ -12,3 +12,11 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Layered_Attractive_Hubbard_Model]]
+[[Pseudogap_Formation]]
+[[TCC]]
+[[iNEST]]

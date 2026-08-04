@@ -12,3 +12,13 @@ SDI, STDP, iNEST, neuromorphic, 忆阻, 拓扑
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Complex_System_Theory]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[STDP_Plasticity]]
+[[iNEST]]

@@ -1,8 +1,6 @@
 ---
 title: TCC_Core_Layer
 tags: []
-aliases:
-- "TCCCoreLayer"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

@@ -4,9 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
-aliases:
-- "Getnote2026-06-05NEST 智能涌现研究进展与工程落地全景"
-- "getnote2026-06-05NEST 智能涌现研究进展与工程落地全景"
 ---
 
 # getnote_2026-06-05_NEST 智能涌现研究进展与工程落地全景
@@ -25,3 +22,16 @@ aliases:
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
+[[Nonlinear_Gain]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
+[[iNEST 论文矩阵计划]]
+[[iNEST]]
+[[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]

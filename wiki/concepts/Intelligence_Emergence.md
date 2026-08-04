@@ -1,8 +1,6 @@
 ---
 title: Intelligence_Emergence
 tags: []
-aliases:
-- "IntelligenceEmergence"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -33,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

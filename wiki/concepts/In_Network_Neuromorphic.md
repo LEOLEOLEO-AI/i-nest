@@ -1,7 +1,3 @@
----
-aliases:
-- "InNetworkNeuromorphic"
----
 # In_Network_Neuromorphic
 
 **Domain**: iNEST
@@ -17,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BiasEvaluationMetrics]]
+[[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
@@ -24,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

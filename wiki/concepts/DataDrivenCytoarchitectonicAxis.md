@@ -12,15 +12,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CytoarchitectonicAxis]]
 [[DataProvenanceIntegrity]]
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Neuromorphic_Computing]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
+[[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 
 ## Sources

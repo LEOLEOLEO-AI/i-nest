@@ -1,8 +1,3 @@
----
-aliases:
-- "INESTTopology"
-- "iNESTTopology"
----
 # iNEST_Topology
 
 **Domain**: iNEST
@@ -24,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[iNEST]]

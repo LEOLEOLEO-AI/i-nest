@@ -1,7 +1,3 @@
----
-aliases:
-- "SDISTDPRule"
----
 # SDI_STDP_Rule
 
 **Domain**: Cross
@@ -17,12 +13,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

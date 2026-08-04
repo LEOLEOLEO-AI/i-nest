@@ -4,8 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
-aliases:
-- "三原理协同FEPSTDP最小作用量"
 ---
 # 三原理协同_FEP_STDP_最小作用量
 
@@ -25,6 +23,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[CST_Intelligence_Emergence]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
@@ -41,6 +40,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]

@@ -1,7 +1,3 @@
----
-aliases:
-- "Experiment21Design"
----
 # Experiment21_Design
 
 **Domain**: Cross

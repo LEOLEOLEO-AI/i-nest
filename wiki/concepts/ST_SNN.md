@@ -2,8 +2,6 @@
 title: ST_SNN
 tags:
 - chiplet
-aliases:
-- "STSNN"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -25,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[Event_Driven_Architecture]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
@@ -33,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

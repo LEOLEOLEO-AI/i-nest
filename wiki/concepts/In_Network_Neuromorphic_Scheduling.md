@@ -1,7 +1,3 @@
----
-aliases:
-- "InNetworkNeuromorphicScheduling"
----
 # In_Network_Neuromorphic_Scheduling
 
 **Domain**: iNEST
@@ -17,11 +13,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BiasEvaluationMetrics]]
+[[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[iNEST]]

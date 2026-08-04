@@ -3,8 +3,6 @@ title: Residual_Connection
 tags:
 - chiplet
 - transformer
-aliases:
-- "ResidualConnection"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -41,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

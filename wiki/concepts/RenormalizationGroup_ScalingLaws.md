@@ -2,8 +2,6 @@
 title: RenormalizationGroup_ScalingLaws
 tags:
 - chiplet
-aliases:
-- "RenormalizationGroupScalingLaws"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -36,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Parameter_Alpha]]
 [[Nonlinear_Topology_Amplification]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Renormalization_Group_Emergence]]
 [[Residual_Connection_Removal]]

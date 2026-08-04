@@ -1,7 +1,3 @@
----
-aliases:
-- "SelfOrganizedCriticality"
----
 # Self_Organized_Criticality
 
 **Domain**: iNEST
@@ -17,7 +13,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CST_Theory_V27_FINAL]]
-[[SOC — 自组织临界（Self-Organized Criticality）]]
+[[Complex_System_Theory]]
+[[CriticalityEntanglementIndex]]
+[[Criticality_of_Natural_Languages]]
+[[DisorderInducedCriticality]]
+[[DynamicalCriticality]]
+[[MicroCriticalAgent]]
+[[OptimalRepresentationCriticality]]
+[[OptimalRepresentation]]
 [[iNEST]]
 
 ## Sources

@@ -12,3 +12,13 @@ iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Mimetic_Optogenetic_Synapses]]
+[[NeuronalAvalanche]]
+[[Physical_Reservoir_Computing]]
+[[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
+[[iNEST]]

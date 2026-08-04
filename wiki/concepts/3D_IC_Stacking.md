@@ -1,7 +1,3 @@
----
-aliases:
-- "3DICStacking"
----
 # 3D_IC_Stacking
 
 **Domain**: TCC

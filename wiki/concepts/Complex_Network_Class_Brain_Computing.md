@@ -1,7 +1,3 @@
----
-aliases:
-- "ComplexNetworkClassBrainComputing"
----
 # Complex_Network_Class_Brain_Computing
 
 **Domain**: iNEST
@@ -20,9 +16,11 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Microgrid_Optimization]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]

@@ -12,3 +12,11 @@ iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[EdgeOfChaos]]
+[[Nonlinear_Gain]]
+[[Reservoir_Computing]]
+[[iNEST]]

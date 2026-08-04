@@ -22,9 +22,9 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[ANN动力学]]
+[[Chiplet_Heterogeneous_Integration]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
-[[GammaSt_Revision]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

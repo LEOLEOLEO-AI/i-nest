@@ -1,8 +1,6 @@
 ---
 title: Contested_Priors_Mechanism
 tags: []
-aliases:
-- "ContestedPriorsMechanism"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -31,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
@@ -45,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

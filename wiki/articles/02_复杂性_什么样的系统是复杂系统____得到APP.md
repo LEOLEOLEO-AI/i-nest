@@ -12,3 +12,10 @@ iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[Complex_System_Theory]]
+[[iNEST]]

@@ -1,7 +1,3 @@
----
-aliases:
-- "PhysicalIntelligenceVerification"
----
 # Physical_Intelligence_Verification
 
 **Domain**: iNEST
@@ -21,7 +17,9 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[iNEST]]

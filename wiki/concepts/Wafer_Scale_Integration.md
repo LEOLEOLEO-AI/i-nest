@@ -1,7 +1,3 @@
----
-aliases:
-- "WaferScaleIntegration"
----
 # Wafer_Scale_Integration
 
 **Domain**: TCC
@@ -17,11 +13,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[DataProvenanceIntegrity]]
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Network_Topology_Design]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

@@ -1,7 +1,3 @@
----
-aliases:
-- "MedicalLargeLanguageModels"
----
 # Medical_Large_Language_Models
 
 **Domain**: Cross
@@ -17,12 +13,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Network_Topology_Design]]
+[[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

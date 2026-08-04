@@ -12,3 +12,10 @@ iNEST, neuromorphic, 神经形态
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Edge_Intelligence]]
+[[Neuromorphic_Computing]]
+[[iNEST]]

@@ -1,8 +1,6 @@
 ---
 title: Memristor_Synapse
 tags: []
-aliases:
-- "MemristorSynapse"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -31,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_ANN_Hardware]]
 [[MultiplicativeGainCondition]]
 [[Network_Topology_Design]]
+[[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
@@ -44,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetworks]]
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

@@ -20,7 +20,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
-[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
+[[Emergent_Intelligence_Threshold]]
+[[Hardware_Accelerated_SNN]]
 [[Nonlinear_Gain]]
+[[Reservoir_Computing]]
+[[ScaleFreeNetwork]]
+[[SmallWorldNetworks]]
 [[Synaptic_Plasticity]]
+[[TopologyFragility]]
 [[iNEST]]
+[[智能涌现]]

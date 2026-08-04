@@ -1,7 +1,3 @@
----
-aliases:
-- "SiliconPhotonicNetwork"
----
 # Silicon_Photonic_Network
 
 **Domain**: TCC
@@ -21,9 +17,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 

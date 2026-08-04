@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]

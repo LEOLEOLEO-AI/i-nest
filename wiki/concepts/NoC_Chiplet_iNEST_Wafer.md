@@ -2,8 +2,6 @@
 title: NoC_Chiplet_iNEST_Wafer
 tags:
 - chiplet
-aliases:
-- "NoCChipletINESTWafer"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted
@@ -36,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

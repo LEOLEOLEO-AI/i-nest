@@ -2,8 +2,6 @@
 title: National_Innovation_Center_Role
 tags:
 - chiplet
-aliases:
-- "NationalInnovationCenterRole"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -50,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[Spike_Encoding_of_fMRI]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[iNEST]]

@@ -4,8 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
-aliases:
-- "专题研究从单芯作战迈向系统集成五软件定义晶上系统SDSoW技术"
 ---
 
 # _专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术
@@ -24,3 +22,16 @@ aliases:
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Allreduce_Latency_Probe]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[Nonlinear_Gain]]
+[[SDSoW_Architecture]]
+[[SuperparamagneticSwitchingRate]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Neuromorphic]]
+[[iNEST]]
+[[智造讲堂：智能制造与装备发展路径 (1)]]

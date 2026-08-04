@@ -12,3 +12,11 @@ iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[NeuronalAvalanche]]
+[[Self_Organized_Criticality]]
+[[VascularisedBrainOrganoids]]
+[[iNEST]]

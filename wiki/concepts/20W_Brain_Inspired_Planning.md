@@ -1,7 +1,3 @@
----
-aliases:
-- "20WBrainInspiredPlanning"
----
 # 20W_Brain_Inspired_Planning
 
 **Domain**: iNEST
@@ -18,12 +14,16 @@ Auto-extracted concept from raw material compilation.
 
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDI_Bond]]
 [[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
 

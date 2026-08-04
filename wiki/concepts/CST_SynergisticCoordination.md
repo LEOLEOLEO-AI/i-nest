@@ -1,7 +1,3 @@
----
-aliases:
-- "CSTSynergisticCoordination"
----
 # CST_SynergisticCoordination
 
 **Domain**: Cross
@@ -17,14 +13,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[TemporalComplexity]]
 [[iNEST]]
 
 ## Sources

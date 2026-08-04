@@ -16,10 +16,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Microgrid_Optimization]]
+[[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Wafer_Scale_Integration]]
 

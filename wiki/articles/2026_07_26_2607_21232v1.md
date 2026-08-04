@@ -12,3 +12,13 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Driven_Criticality]]
+[[OptimalRepresentations]]
+[[Self_Organized_Criticality]]
+[[TCC]]
+[[UniversalComputation]]
+[[iNEST]]

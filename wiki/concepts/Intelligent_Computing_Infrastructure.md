@@ -2,8 +2,6 @@
 title: Intelligent_Computing_Infrastructure
 tags:
 - chiplet
-aliases:
-- "IntelligentComputingInfrastructure"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted
@@ -28,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -39,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]

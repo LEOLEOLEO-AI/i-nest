@@ -1,8 +1,6 @@
 ---
 title: Complexity_Emergence
 tags: []
-aliases:
-- "ComplexityEmergence"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -30,10 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]

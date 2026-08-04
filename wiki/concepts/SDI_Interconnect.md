@@ -1,7 +1,3 @@
----
-aliases:
-- "SDIInterconnect"
----
 # SDI_Interconnect
 
 **Domain**: TCC
@@ -17,11 +13,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SpatiotemporalComplexityIndex]]

@@ -1,7 +1,3 @@
----
-aliases:
-- "PhotonicChipletInterconnect"
----
 # Photonic_Chiplet_Interconnect
 
 **Domain**: TCC
@@ -20,10 +16,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 

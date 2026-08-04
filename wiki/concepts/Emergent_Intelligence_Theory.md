@@ -1,7 +1,3 @@
----
-aliases:
-- "EmergentIntelligenceTheory"
----
 # Emergent_Intelligence_Theory
 
 **Domain**: iNEST
@@ -22,7 +18,9 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[iNEST]]

@@ -12,3 +12,10 @@ NoC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[FreeEnergyPrinciple]]
+[[Network_on_Chip]]
+[[iNEST]]

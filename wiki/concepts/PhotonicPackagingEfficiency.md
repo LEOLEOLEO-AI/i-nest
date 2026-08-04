@@ -13,15 +13,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Microgrid_Optimization]]
+[[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

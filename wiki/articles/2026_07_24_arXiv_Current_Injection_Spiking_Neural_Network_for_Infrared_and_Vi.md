@@ -12,3 +12,12 @@ NoC, SNN, iNEST, spiking, 互连, 神经形态
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[iNEST]]

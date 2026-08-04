@@ -2,8 +2,6 @@
 title: AI_Faculty_Forum_2026
 tags:
 - chiplet
-aliases:
-- "AIFacultyForum2026"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -49,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
+[[Spike_Encoding_of_fMRI]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity_Tc]]

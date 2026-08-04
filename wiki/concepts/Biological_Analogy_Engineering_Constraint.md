@@ -1,7 +1,3 @@
----
-aliases:
-- "BiologicalAnalogyEngineeringConstraint"
----
 # Biological_Analogy_Engineering_Constraint
 
 **Domain**: iNEST

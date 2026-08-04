@@ -1,7 +1,3 @@
----
-aliases:
-- "AnalogSynapticWeighting"
----
 # Analog_Synaptic_Weighting
 
 **Domain**: Cross
@@ -16,7 +12,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Architectural_Conditioning]]
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Memristor_Synapse]]

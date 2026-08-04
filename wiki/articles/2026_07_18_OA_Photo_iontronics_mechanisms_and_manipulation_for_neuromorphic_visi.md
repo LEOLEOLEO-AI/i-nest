@@ -12,3 +12,12 @@ iNEST, neuromorphic, spiking
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Spiking]]
+[[Spiking_Neural_Network]]
+[[iNEST]]

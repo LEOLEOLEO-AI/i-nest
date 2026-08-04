@@ -2,8 +2,6 @@
 title: B3_Competition_Landscape
 tags:
 - transformer
-aliases:
-- "B3CompetitionLandscape"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted

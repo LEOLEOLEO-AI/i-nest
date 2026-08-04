@@ -1,7 +1,3 @@
----
-aliases:
-- "ScaleHierarchyDecomposition"
----
 # ScaleHierarchy_Decomposition
 
 **Domain**: Cross
@@ -17,12 +13,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Master_SDDE]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroupFlow]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

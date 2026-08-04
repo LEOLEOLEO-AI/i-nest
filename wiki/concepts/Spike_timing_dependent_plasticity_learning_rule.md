@@ -1,8 +1,6 @@
 ---
 title: Spike_timing_dependent_plasticity_learning_rule
 tags: []
-aliases:
-- "SpikeTimingDependentPlasticityLearningRule"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -28,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
@@ -42,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[ScaleFreeNetworks]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

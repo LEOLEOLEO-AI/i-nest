@@ -12,3 +12,17 @@ SDI, STDP, TCC, iNEST, 忆阻, 拓扑, 神经形态, 类脑, 芯粒
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[STDP_Plasticity]]
+[[TCC]]
+[[iNEST]]
+[[涌现]]

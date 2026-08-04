@@ -12,3 +12,12 @@ TCC, iNEST, spiking, 互连, 神经形态
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Neuromorphic_Computing]]
+[[SpikingMOT]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+[[iNEST]]

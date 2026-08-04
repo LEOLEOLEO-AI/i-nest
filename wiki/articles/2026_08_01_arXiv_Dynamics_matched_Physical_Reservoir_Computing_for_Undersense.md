@@ -12,3 +12,12 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Physical_Reservoir_Computing]]
+[[Reservoir_Computing]]
+[[TCC]]
+[[UndersensedTrafficPrediction]]
+[[iNEST]]

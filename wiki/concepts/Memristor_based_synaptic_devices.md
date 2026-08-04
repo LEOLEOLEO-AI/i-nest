@@ -1,8 +1,6 @@
 ---
 title: Memristor_based_synaptic_devices
 tags: []
-aliases:
-- "MemristorBasedSynapticDevices"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted

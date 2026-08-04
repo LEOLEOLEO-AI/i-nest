@@ -14,13 +14,16 @@ Auto-extracted concept from raw material compilation.
 
 [[BiasEvaluationMetrics]]
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
+[[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 
 ## Sources

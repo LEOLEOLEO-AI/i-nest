@@ -1,7 +1,3 @@
----
-aliases:
-- "TopologyCentricNeuromorphic"
----
 # Topology_Centric_Neuromorphic
 
 **Domain**: Cross
@@ -17,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Microgrid_Optimization]]
@@ -24,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[iNEST]]
 

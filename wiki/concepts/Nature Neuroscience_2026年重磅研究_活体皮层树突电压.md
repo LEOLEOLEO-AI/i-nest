@@ -4,8 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
-aliases:
-- "Nature Neuroscience2026年重磅研究活体皮层树突电压"
 ---
 # Nature Neuroscience_2026年重磅研究_活体皮层树突电压
 

@@ -1,7 +1,3 @@
----
-aliases:
-- "CausalClinicalReasoning"
----
 # Causal_Clinical_Reasoning
 
 **Domain**: Cross
@@ -16,12 +12,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Causal_Emergence]]
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

@@ -1,7 +1,3 @@
----
-aliases:
-- "AdvancedPackagingRoute"
----
 # Advanced_Packaging_Route
 
 **Domain**: Cross
@@ -18,10 +14,14 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoPoS]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Microgrid_Optimization]]
+[[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

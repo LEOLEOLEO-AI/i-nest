@@ -2,8 +2,6 @@
 title: Renormalization_Group_Emergence
 tags:
 - chiplet
-aliases:
-- "RenormalizationGroupEmergence"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted
@@ -39,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[Scaling_Laws]]

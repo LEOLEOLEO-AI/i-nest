@@ -1,7 +1,3 @@
----
-aliases:
-- "SDIChiplet"
----
 # SDI_Chiplet
 
 **Domain**: Cross
@@ -16,10 +12,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Architectural_Conditioning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

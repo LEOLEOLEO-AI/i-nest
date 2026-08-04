@@ -6,7 +6,6 @@ created: 2026-08-01
 refs: 2
 aliases:
 - "RISC-V 鏋舵瀯涓?SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚?LLM 浣庡欢杩熸帹鐞嗕笌璁粌"
-- "RISC-V 鏋舵瀯涓SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚LLM 浣庡欢杩熸帹鐞嗕笌璁粌"
 ---
 # RISC-V 鏋舵瀯涓?SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚?LLM 浣庡欢杩熸帹鐞嗕笌璁粌
 
@@ -25,10 +24,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
-[[GammaSt_Revision]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -38,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuromorphic_computing_architecture]]
 [[NoC_SDI]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

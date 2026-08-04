@@ -1,7 +1,3 @@
----
-aliases:
-- "SDISTDPRegulation"
----
 # SDI_STDP_Regulation
 
 **Domain**: Cross
@@ -17,15 +13,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN动力学]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Contested_Prior_Resolution]]
 [[Memory_Wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
+[[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetworks]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[VonNeumann_Complexity_Threshold]]

@@ -12,3 +12,10 @@ iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[AlternativeBridgingModels]]
+[[Brain_Connectome]]
+[[iNEST]]

@@ -12,3 +12,10 @@ iNEST, interconnect
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[NeuronalAvalanche]]
+[[Self_Organized_Criticality]]
+[[iNEST]]

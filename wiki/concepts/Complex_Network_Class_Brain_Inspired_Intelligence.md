@@ -2,8 +2,6 @@
 title: Complex_Network_Class_Brain_Inspired_Intelligence
 tags:
 - chiplet
-aliases:
-- "ComplexNetworkClassBrainInspiredIntelligence"
 ---
 **Domain**: iNEST
 **First mentioned**: auto-extracted
@@ -47,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[Wafer_Scale_Integration]]

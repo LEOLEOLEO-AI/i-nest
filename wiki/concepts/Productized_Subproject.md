@@ -1,8 +1,6 @@
 ---
 title: Productized_Subproject
 tags: []
-aliases:
-- "ProductizedSubproject"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted

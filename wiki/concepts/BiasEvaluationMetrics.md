@@ -13,14 +13,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST_Neuromorphic_Topology]]
 
 ## Sources

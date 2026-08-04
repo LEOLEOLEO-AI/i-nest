@@ -12,3 +12,10 @@ SNN
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[iNEST]]

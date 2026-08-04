@@ -2,8 +2,6 @@
 title: Residual_Connection_Removal
 tags:
 - chiplet
-aliases:
-- "ResidualConnectionRemoval"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -42,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[SDI_Bond]]
 [[SDI_STDP_Bond]]

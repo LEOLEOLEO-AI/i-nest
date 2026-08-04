@@ -1,7 +1,3 @@
----
-aliases:
-- "STDPMemristiveLearning"
----
 # STDP_MemristiveLearning
 
 **Domain**: iNEST
@@ -16,11 +12,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]

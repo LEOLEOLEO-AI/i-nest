@@ -2,8 +2,6 @@
 title: Wafer_Scale_Neuromorphic_Integration
 tags:
 - chiplet
-aliases:
-- "WaferScaleNeuromorphicIntegration"
 ---
 **Domain**: Cross
 **First mentioned**: auto-extracted
@@ -48,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
+[[Spike_Encoding_of_fMRI]]
 [[SuperlinearGain]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

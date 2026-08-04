@@ -4,8 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-01
 refs: 2
-aliases:
-- "AI人工智能 卷积神经网络（CNN）W3cschool"
 ---
 # AI人工智能 卷积神经网络（CNN）_w3cschool
 
@@ -24,10 +22,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
-[[GammaSt_Revision]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
@@ -38,6 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuromorphic_computing_architecture]]
 [[NoC_SDI]]
 [[Photonic_Chiplet_Interconnect]]
+[[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

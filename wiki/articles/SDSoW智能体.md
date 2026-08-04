@@ -12,3 +12,16 @@ wafer, 类脑
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Intelligence_Emergence]]
+[[Neuromorphic_Computing]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
+[[TCC]]
+[[Wafer_Scale_Neuromorphic]]
+[[复杂网络]]
+[[智能涌现]]
+[[涌现]]

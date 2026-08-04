@@ -1,7 +1,3 @@
----
-aliases:
-- "ExperimentSevenEightNine"
----
 # Experiment_Seven_Eight_Nine
 
 **Domain**: Cross
@@ -17,10 +13,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Evolutionary_Computability]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
+[[Network_Topology_Design]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SpatiotemporalComplexityIndex]]

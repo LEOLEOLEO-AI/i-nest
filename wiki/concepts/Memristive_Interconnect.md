@@ -1,7 +1,3 @@
----
-aliases:
-- "MemristiveInterconnect"
----
 # Memristive_Interconnect
 
 **Domain**: Cross
@@ -17,13 +13,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Interconnect_Routing]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[Spike_Encoding_of_fMRI]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

@@ -1,7 +1,3 @@
----
-aliases:
-- "ClinicalKnowledgeEmbedding"
----
 # Clinical_Knowledge_Embedding
 
 **Domain**: Cross
@@ -17,14 +13,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST_Neuromorphic_Topology]]
 
 ## Sources

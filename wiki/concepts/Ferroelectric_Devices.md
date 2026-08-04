@@ -1,7 +1,3 @@
----
-aliases:
-- "FerroelectricDevices"
----
 # Ferroelectric_Devices
 
 **Domain**: iNEST
@@ -16,9 +12,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Emergent_Intelligence_Threshold]]
+[[Emergent_Reservoir_Topology]]
+[[HebbianLimitCycleLearning]]
+[[NeuralNetworkSpectralAnalysis]]
+[[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganizedOscillatoryLearning]]
+[[StochasticBinaryDynamics]]
 [[iNEST]]
-[[待分类]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

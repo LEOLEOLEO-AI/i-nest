@@ -2,8 +2,6 @@
 title: SDI_TCC_Chiplet_Interconnect
 tags:
 - chiplet
-aliases:
-- "SDITCCChipletInterconnect"
 ---
 **Domain**: TCC
 **First mentioned**: auto-extracted
@@ -38,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive_Set]]
+[[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

@@ -1,7 +1,3 @@
----
-aliases:
-- "UnverifiedPerformanceProhibition"
----
 # Unverified_Performance_Prohibition
 
 **Domain**: TCC

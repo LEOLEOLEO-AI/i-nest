@@ -12,3 +12,11 @@ NoC, SNN
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Event_Driven_Architecture]]
+[[Network_on_Chip]]
+[[SNN]]
+[[Spiking_Neural_Network]]

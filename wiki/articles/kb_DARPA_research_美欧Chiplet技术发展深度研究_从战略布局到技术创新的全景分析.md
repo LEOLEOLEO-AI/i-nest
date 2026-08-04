@@ -12,3 +12,10 @@ chiplet, 互连, 封装, 晶圆, 芯粒
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Chiplet_Heterogeneous_Integration]]
+[[TCC]]
+[[Wafer_Scale_Integration]]

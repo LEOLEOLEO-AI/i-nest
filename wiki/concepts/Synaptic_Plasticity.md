@@ -1,7 +1,3 @@
----
-aliases:
-- "SynapticPlasticity"
----
 # Synaptic_Plasticity
 
 **Domain**: iNEST
@@ -18,14 +14,18 @@ Auto-extracted concept from raw material compilation.
 
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
+[[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
+[[Network_Topology_Design]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[iNEST]]
-[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

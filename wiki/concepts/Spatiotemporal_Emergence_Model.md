@@ -1,7 +1,3 @@
----
-aliases:
-- "SpatiotemporalEmergenceModel"
----
 # Spatiotemporal_Emergence_Model
 
 **Domain**: iNEST
@@ -20,9 +16,12 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[Spike_Encoding_of_fMRI]]
+[[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]

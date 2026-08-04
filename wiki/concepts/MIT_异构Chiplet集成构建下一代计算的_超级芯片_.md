@@ -4,8 +4,6 @@ type: concept-stub
 auto: true
 created: 2026-08-04
 refs: 6
-aliases:
-- "MIT异构Chiplet集成构建下一代计算的超级芯片"
 ---
 
 # MIT_异构Chiplet集成构建下一代计算的_超级芯片_
@@ -24,3 +22,16 @@ aliases:
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[3D_IC_Stacking]]
+[[Allreduce_Latency_Probe]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[Nonlinear_Gain]]
+[[Wafer_Scale_Integration]]
+[[iNEST]]
+[[智造讲堂：智能制造与装备发展路径 (1)]]

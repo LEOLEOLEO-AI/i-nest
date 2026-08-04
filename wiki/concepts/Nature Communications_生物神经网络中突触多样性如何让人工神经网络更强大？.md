@@ -6,7 +6,6 @@ created: 2026-08-01
 refs: 7
 aliases:
 - "Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？"
-- "Nature Communications生物神经网络中突触多样性如何让人工神经网络更强大？"
 ---
 # Nature Communications:生物神经网络中突触多样性如何让人工神经网络更强大？
 
@@ -29,6 +28,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[ANN动力学]]
 [[CST计量仪]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
 [[Intelligence_Emergence]]
@@ -42,6 +42,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Photonic_Chiplet_Interconnect]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
