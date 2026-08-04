@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "2026-08-02-2607.27140v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27140v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.27140v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2026-08-01-index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-01-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-01-index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2026-08-02-2607.27140v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27140v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.27140v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":43,\"ch\":77}},\"scroll\":19.411458333333332}"
+                },
+                {
                   "title": "2026-08-02-2607.27402v1",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27402v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.27402v1\"}",
@@ -140,53 +158,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27140v1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-08-02-2607.27140v1"
-            }
-          },
-          {
-            "id": "5fc2d025c38d78f6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "[2607.26483v1] Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks",
-                  "icon": "globe-2",
-                  "state": "{\"state\":{\"url\":\"http://arxiv.org/abs/2607.26483v1\"},\"type\":\"webviewer\"}",
-                  "eState": "null"
-                }
-              ]
-            },
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://arxiv.org/abs/2607.26483v1",
-                "title": "[2607.26483v1] Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "[2607.26483v1] Reconstructing Backpropagation from Forward Fluctuations in Noise-modulated Neural Networks"
+              "title": "新标签页"
             }
           }
         ]
@@ -505,7 +480,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 723.5
+    "width": 467.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -535,45 +511,45 @@
       "remotely-secure:Remotely Sync": false
     }
   },
-  "active": "013257bb46529241",
+  "active": "8c767f9746713b92",
   "lastOpenFiles": [
+    "20_Processing/external_imports/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式.md",
+    "20_Processing/external_imports/getnote_20250219_2025年2月19号日记.md",
+    "20_Processing/external_imports/20260311_本地AI.md",
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27140v1.md",
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-01-index.md",
+    "wiki/concepts/TopologyInformedSynchronization.md",
+    "wiki/concepts/TopologyAwareSpikeRouting.md",
+    "wiki/concepts/Topology_Induced_Robustness.md",
+    "wiki/concepts/SynapticConnectivityAwarePlacement.md",
+    "wiki/concepts/Synaptic_Motif_Classification.md",
+    "wiki/concepts/Nonlinear_Dynamics_From_Topology.md",
+    "wiki/concepts/PhononicCrystalMicrowaveCoupling.md",
+    "wiki/articles/2026_08_04_arXiv_Release_free_phononic_crystal_with_strong_microwave_coupling.md",
+    "wiki/concepts/AdaptivePhotonicRouter.md",
+    "wiki/concepts/ProcessAwareWaveguideGeneration.md",
+    "wiki/concepts/VectorFlowField.md",
+    "wiki/concepts/MemoryDrivenRouting.md",
+    "wiki/articles/2026_08_04_arXiv_PROPEL_A_Memory_Driven__Adaptive_Vector_Flow_Field_Router_wi.md",
+    "wiki/concepts/NeuromorphicPointCloudAdapter.md",
+    "wiki/concepts/TemporalFeaturePropagation.md",
+    "wiki/concepts/SpikingPointCloudPEFT.md",
+    "wiki/articles/2026_08_04_arXiv_Parameter_Efficient_Fine_Tuning_for_Spiking_Point_Cloud_Mode.md",
+    "wiki/concepts/QuantumReservoirMemoryCapacity.md",
+    "wiki/concepts/TemporalFeatureDecorrelation.md",
+    "wiki/concepts/FisherInformationMetric.md",
+    "wiki/concepts/QuantumReservoirStateOrthogonalization.md",
+    "logs/pipeline_20260804_0827.json",
+    "90_System/scripts/_check_pending.py",
+    "logs/pipeline_20260803_1416.json",
     "90_System/scripts/check_arxiv_digest.ps1",
     "90_System/scripts/arxiv_daily_and_sync.sh",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27402v1.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-index.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.26483v1.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.28172v1.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.28173v1.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-06-23-2511.14872.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-06-25-2512.18471.md",
-    "30_TCC/31_Theory/2026-06-21_iNEST三元映射框架.md",
-    "30_TCC/31_Theory/2026-06-21_2026-06-21_复杂系统涌现的统一理论_三元生成内核与惯性制动的动力学框架.md",
-    "20_Processing/external_imports/kb_DARPA-research_美国DARPA微电子与半导体领域深度研究报告_超越摩尔定律的范式革命.md",
-    "20_Processing/external_imports/kb_DARPA-research_美国DARPA对专业化孵化器建设的启示_组织架构_管理机制与生态构建.md",
-    "20_Processing/external_imports/kb_DARPA-research_美国DARPA四大关键项目群深度研究报告_战略布局_技术突破与全球影响.md",
-    "20_Processing/external_imports/kb_DARPA-research_美国DARPA_材料科学与先进制造_领域深度研究报告_战略_技术与未来展望.md",
-    "20_Processing/external_imports/kb_DARPA-research_第三代半导体深度研报_AI_6G_人形机器人与低空科技的关键变量技术.md",
-    "20_Processing/external_imports/kb_DARPA-research_全球集成传感技术在军事领域的发展现状与趋势研究报告.md",
-    "20_Processing/external_imports/kb_DARPA-research_IEEE异构集成技术全景报告_从HIR路线图到产业战略布局.md",
-    "20_Processing/external_imports/kb_DARPA-research_DARPA重塑未来战争形态_空天_太空与高超音速领域战略布局深度分析.md",
-    "20_Processing/external_imports/kb_DARPA-research_DARPA网络_信息战与通信领域项目深度分析报告_下册_以体系化创新锻造未来信息战优势.md",
-    "20_Processing/external_imports/kb_DARPA-research_DARPA空天_太空与高超音速领域项目深度分析报告.md",
-    "20_Processing/external_imports/kb_DARPA-research_DARPA如何塑造军事人工智能的未来与全球战略平衡_静默的革命.md",
-    "20_Processing/external_imports/kb_DARPA-research_DARPA传感器_电子战与通信领域深度研究报告_下册_能力与技术预测_2025-2035_.md",
-    "20_Processing/external_imports/kb_DARPA-research_DARPA人工智能与自主系统项目深度研究报告_以_第三波AI_为核心的军事智能革命.md",
-    "20_Processing/external_imports/kb_DARPA-research_DARPA_水晶宫计划_深度研究报告_塑造下一代军用微系统材料变革.md",
-    "20_Processing/external_imports/kb_DARPA-research_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式.md",
-    "20_Processing/external_imports/20260311_Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities_ A Renormalizatio.md",
     "20_Processing/20_KnowledgeBase/arxiv-auto",
     "_external",
     "90_System/scripts/fix_getnote_links.py",
     "10_Knowledge/00_导航",
     "20_Processing/_digests",
-    "20_Processing/external_imports",
-    "90_System/scripts/strip_getnote_prefix.py",
     "50_Output/56_Prototypes/iNEST_investor_demo/logo.png",
-    "50_Output/56_Prototypes/iNEST_investor_demo/index.html",
-    "50_Output/56_Prototypes/dashboard_investor/index.html",
     "50_Output/SDSoW_iNEST_PPT/resources/images/chip_6_Γ_stu.png",
     "50_Output/SDSoW_iNEST_PPT/resources/images/chip_5_E_diss.png",
     "50_Output/SDSoW_iNEST_PPT/resources/images/chip_4_AIS.png",

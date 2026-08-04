@@ -1,35 +1,35 @@
 # Knowledge Health Report
 
 **Generated**: 2026-08-04
-**Last Compile**: 2026-08-02
+**Last Compile**: 2026-08-04
 
 ## Stats
-- **Total Concepts**: 3089
-- **Total Articles**: 736
-- **Orphan Concepts**: 2739
+- **Total Concepts**: 3113
+- **Total Articles**: 742
+- **Orphan Concepts**: 2763
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
-- [[TopologyAwareEmbedding]]
-- [[EfficientCodingConstraint]]
-- [[EventDrivenAttentionMechanism]]
-- [[AutomatedQuantizationFramework]]
-- [[EdgeIoTEnergyAwareness]]
-- [[fMRI_SpikeEncoding]]
-- [[LaplacianSpectrumTopology]]
-- [[Spiking_Topology_Optimization]]
-- [[NZHomeEnergyModel]]
-- [[Trusted_Microelectronics_Supply_Chain]]
-- [[HeavyTailedWaitingTimes]]
-- [[SpinalLocomotorCPG]]
-- [[ErdosRenyi_Graph_Energy_Surface]]
-- [[DARPA_Technology_Transfer]]
-- [[Topological_Entanglement_Flow]]
-- [[LocalGraphTopologyProtection]]
-- [[Dynamic_Stability_Landscape]]
-- [[Maximum_Likelihood_Channel_Decoding]]
-- [[Generative_Model_Topology]]
-- [[NanoBanana_SNNDeck]]
+- [[TuringPatternCooperation]]
+- [[NeuralVariabilityInjection]]
+- [[HyperspectralGraphTopology]]
+- [[DeviceLevelNonlinearityScaling]]
+- [[ReservoirTemporalDynamics]]
+- [[Distributed_Sinkhorn_Iteration]]
+- [[Resilient_Sensing_Comms_Network]]
+- [[Spatiotemporal_Synchronization_Metric]]
+- [[Pipelined_Processor_Integration]]
+- [[智造讲堂：智能制造与装备发展路径 (1)]]
+- [[SNN_Robustness_Noise]]
+- [[CatastrophicForgettingMitigation]]
+- [[NonequilibriumLangevinComputing]]
+- [[StandardizedComponent]]
+- [[GeTeBasedCBRAM]]
+- [[NeuralPrecision]]
+- [[CrystalPalace_Program]]
+- [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+- [[VonEconomoNeurons]]
+- [[SexBasedConnectomeDifferences]]
 
 ## Research Gaps
 

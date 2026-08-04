@@ -48,8 +48,8 @@ H3: iNEST: 脉冲神经网络在晶上系统可实现类脑计算
 **Action**: Process evolution queue item
 
 ### 12. [LOW] Orphan Concepts
-2134 orphan concepts with no incoming links
-**Action**: Link these concepts: 00_ADR_决策记录, 02 复杂性：什么样的系统是复杂系统？ - 得到APP, 04 混沌与非线性：规则已知，却不可预测？ - 得到APP, 11_SDI节点接口规范与化合键定义_dup, 12_三原理协同_FEP_最小作用量_STDP, 156QubitScale, 2025年10月11号 日记, 2026-04-07, 2026-06-15_大脑的量子纠缠与信息动力学, 3DGS_SplatPrimitive
+2730 orphan concepts with no incoming links
+**Action**: Link these concepts: 00_ADR_决策记录, 02 复杂性：什么样的系统是复杂系统？ - 得到APP, 04 混沌与非线性：规则已知，却不可预测？ - 得到APP, 11_SDI节点接口规范与化合键定义_dup, 12_三原理协同_FEP_最小作用量_STDP, 156QubitScale, 2025年10月11号 日记, 2026-06-15_大脑的量子纠缠与信息动力学, 3DGS_SplatPrimitive, 3DHI_Chiplet_Integration
 
 ### 13. [LOW] Recent Output
 Recent: VLEO_TCC_SDSoW_HighDensity_Payload_Guide (1d ago)

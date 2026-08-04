@@ -26,14 +26,16 @@
 - git：提交 288 文件，push github main 成功（HEAD 与 github/main 一致）
 - 待办观察：raw/ 新增 1 个 Genspark 导入、Inbox 积压 15 个待处理文件
 
-### 2026-08-04（compile 超时，其余全绿）
-- compile：**超时**（wiki_compiler 300s 未返回，可能因 raw/ 积压较大；不影响后续步骤）
-- wiki_grow：概念 485（↑181），已链接 472，图谱内孤儿 242
-- 健康自检：笔记 5141（↑568）· 断链 2441（↑1107）· 孤儿 2505（↑447）· 缺 FM 355（↑319）
-  - 断链增长主要来自 GetNote 长标题文献、S2 论文标题、日记页交叉引用
-- 概念补全：10 篇（getnote 智能涌现/晶上自演化/晶圆级神经网络/数字孪生大脑/SDSoW/陆超超访谈/NICE/清华类脑/MIT Chiplet 等）
-- phase4：4/4 成功（import_processor/task_recommender/research_evolution/cross_domain_insight）
-  - cross_domain 发现 2 篇跨域文章（TCC_iNEST_教材编写规划、iNEST_理论体系系统总结报告）
-- homepage：Home.md 生成 5324 chars
-- git：提交 564 文件；push 首次失败（non-fast-forward，远端有 arxiv-auto 新提交），pull 后重推成功
-- 待办观察：Inbox 积压 18 文件；compile 超时需关注（下轮可能仍有积压）
+### 2026-08-04（compile 先超时后手动补跑，最终全绿）
+- **第一轮**（03:00 自动触发）：compile 超时（300s），其余 6 步全绿
+  - wiki_grow：概念 485（↑181），已链接 472，孤儿 242
+  - 健康自检：笔记 5141 · 断链 2441 · 孤儿 2505 · 缺 FM 355
+  - 概念补全：10 篇；phase4 4/4；homepage 5324 chars
+  - git：提交 564 文件，push 首次 non-fast-forward，pull 后重推成功
+- **第二轮**（手动补跑 wiki_compiler）：处理 734 篇积压文件
+  - 来源分布：raw/ 23 + 00_Inbox/ 144 + 20_Processing/ 567
+  - 耗时 59m34s，抽取 2595 个概念
+  - 1 篇 LLM 超时（2026_05_26_2605_25224.md），优雅跳过
+  - git：提交 3352 文件（+66074/-1240），push github main 成功
+- **经验**：734 篇积压致 wiki_compiler 远超 300s 超时；后续应考虑提高 self_evolve.py 中 compile 步骤超时或分批处理
+- 待办观察：积压已清零，下轮 compile 应恢复正常增量模式

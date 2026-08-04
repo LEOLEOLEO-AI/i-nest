@@ -18,3 +18,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- NeuromorphicSensorFusion (merged 2026-08-04)

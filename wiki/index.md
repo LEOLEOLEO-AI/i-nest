@@ -2,7 +2,7 @@
 
 *Auto-generated: 2026-08-04*
 
-## TCC — Topology-Centric Computing (696 concepts)
+## TCC — Topology-Centric Computing (703 concepts)
 - [[3D_IC_Stacking]]
 - [[3D_Integration]]
 - [[3DHI_Integration]]
@@ -14,6 +14,7 @@
 - [[AdaptiveEntanglementManagement]]
 - [[AdaptiveFunctionalTopology]]
 - [[AdaptiveGraphDiffusion]]
+- [[AdaptivePhotonicRouter]]
 - [[AdditiveTopology_Embedding]]
 - [[AdiabaticModeEvolutionCoupler]]
 - [[AdiabaticMultimodeBend]]
@@ -306,6 +307,7 @@
 - [[MeasurementEfficiency]]
 - [[MeasurementEfficientDisorderAware]]
 - [[Memory_Wall]]
+- [[MemoryDrivenRouting]]
 - [[MemoryEfficientSimulation]]
 - [[Memristive_Crossbar_Topology]]
 - [[Midterm_Project_Review]]
@@ -380,6 +382,8 @@
 - [[PersistenceThresholdOptimization]]
 - [[PhaseTransitionTailAnalysis]]
 - [[PheromoneTrailTopology]]
+- [[PhononicBandgapEngineering]]
+- [[PhononicCrystalMicrowaveCoupling]]
 - [[Photonic_Chiplet_Interconnect]]
 - [[PhotonicChipletInterconnect]]
 - [[PhotonicPackagingEfficiency]]
@@ -396,6 +400,7 @@
 - [[Pressure_Threshold_Logic]]
 - [[Proactive_Shaping_Strategy]]
 - [[Process_Recycling_Paradigm]]
+- [[ProcessAwareWaveguideGeneration]]
 - [[Productization_Subproject]]
 - [[Productized_Subproject]]
 - [[Pseudofractal_Web]]
@@ -419,6 +424,7 @@
 - [[RedundancyControlledStochasticRouting]]
 - [[Relapse_Resilient_Interconnect]]
 - [[RelativeEquilibriumSnapshot]]
+- [[ReleaseFreePhononic]]
 - [[RelocationOverheadModel]]
 - [[Renormalization_Group_Attention]]
 - [[Renormalization_Group_Emergence]]
@@ -671,6 +677,7 @@
 - [[UrysohnLadder]]
 - [[Variational_Spectral_Transitions]]
 - [[VariationalBendOptimization]]
+- [[VectorFlowField]]
 - [[VehicularMultiHopTopology]]
 - [[VerticalOpticalCouplingEfficiency]]
 - [[Very_Large_Scale_Synaptic_Array]]
@@ -700,13 +707,14 @@
 - [[Zq_Surface_Code]]
 - [[Γst_Revision]]
 
-## iNEST — In-Network Neuromorphic (1058 concepts)
+## iNEST — In-Network Neuromorphic (1065 concepts)
 - [[20W_Brain_Inspired_Planning]]
 - [[Accessibility_Gradient]]
 - [[Active_Inference_Architecture]]
 - [[ActiveDendriteSNN]]
 - [[ActiveInferenceAgent]]
 - [[ActiveInferenceEdgeLoop]]
+- [[ActiveMatterComputing]]
 - [[Activity_Dependent_Plasticity]]
 - [[Activity_Energy_Tradeoff]]
 - [[ActivityAvalanche]]
@@ -1302,6 +1310,7 @@
 - [[NeuromorphicObserverArchitecture]]
 - [[NeuromorphicPerspectiveEncoding]]
 - [[NeuromorphicPnP]]
+- [[NeuromorphicPointCloudAdapter]]
 - [[NeuromorphicRL_Locomotion]]
 - [[NeuromorphicRoutingOptimization]]
 - [[NeuromorphicSensorFusion]]
@@ -1326,6 +1335,7 @@
 - [[NoiseModulatedLearning]]
 - [[NoiseModulatedSynapticPlasticity]]
 - [[NoiseRegimeTransition]]
+- [[NonEquilibriumInformationProcessing]]
 - [[NonHermitianRandomMatrixSpectra]]
 - [[NonHermitianSkinEffect]]
 - [[Nonlinear_Dynamics_From_Topology]]
@@ -1419,6 +1429,8 @@
 - [[QuantumDeepSupervision]]
 - [[QuantumInspiredHarmonySearch]]
 - [[QuantumProbabilityFlowHebbian]]
+- [[QuantumReservoirMemoryCapacity]]
+- [[QuantumReservoirStateOrthogonalization]]
 - [[QuasiContinuousConductanceStates]]
 - [[QuotientAbstraction]]
 - [[Random_Parameter_Substitution]]
@@ -1628,6 +1640,7 @@
 - [[SpikingObjectLocalization]]
 - [[SpikingPlaceCellEnsemble]]
 - [[SpikingPnPSolver]]
+- [[SpikingPointCloudPEFT]]
 - [[SpikingPolicyGradient]]
 - [[SpikingRecurrentCell]]
 - [[SpikingRecurrentCells]]
@@ -1707,6 +1720,7 @@
 - [[TemporalEchoMemory]]
 - [[TemporalEncodingBias]]
 - [[TemporalErrorPropagation]]
+- [[TemporalFeatureDecorrelation]]
 - [[TemporalLearning]]
 - [[Temporally_Precise_Training_Parallelization]]
 - [[TemporalPrecisionParallelism]]
@@ -1760,7 +1774,7 @@
 - [[XOR_Meta_Residual]]
 - [[XORMetaResiduals]]
 
-## Cross-Domain (1335 concepts)
+## Cross-Domain (1345 concepts)
 - [[00_ADR_决策记录]]
 - [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 - [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
@@ -1845,6 +1859,7 @@
 - [[ArbitraryWavefunctionConfigurability]]
 - [[ArchitecturalIllusion]]
 - [[arxiv-index]]
+- [[ArxivMetadataEnrichment]]
 - [[Associative_Memory_Unification]]
 - [[Asymmetric_Technology_Overmatch]]
 - [[AthermalDynamics]]
@@ -1953,6 +1968,7 @@
 - [[ComputationEfficientDeepLearning]]
 - [[ComputationRedundancyReduction]]
 - [[ConcentricDiscreteOpticalVortices]]
+- [[ConceptExtractionPipeline]]
 - [[Concepts-Theory — 全景导航 (Map of Content)]]
 - [[ConceptualCrossLinguisticNetworks]]
 - [[ConductingPolymerDendriteMemory]]
@@ -2091,6 +2107,7 @@
 - [[DistributedEventConditionDesign]]
 - [[DistributedTrainingCommunicationPattern]]
 - [[Domain_Classification_System]]
+- [[DomainTaggedOutput]]
 - [[Driven_Criticality]]
 - [[DrivenCriticality]]
 - [[DrivenCriticalityDynamics]]
@@ -2147,6 +2164,7 @@
 - [[EntanglementScaling]]
 - [[EntanglementSignatures]]
 - [[Entropy_Connectivity_Path]]
+- [[EntropyProductionRate]]
 - [[Environment_Aware_Coordination]]
 - [[Environmental_Modification_Signal]]
 - [[EnzymeCatalyticDegradation]]
@@ -2207,6 +2225,8 @@
 - [[FirstPrinciples_AI]]
 - [[FirstPrinciples_Derivation]]
 - [[FirstPrinciples_Mainline]]
+- [[FisherInformationMetric]]
+- [[FisherOrthogonalMemory]]
 - [[FitnessPhaseTransition]]
 - [[Fixed_Cost_Dominance]]
 - [[Fixed_Term_Project_Structure]]
@@ -2501,6 +2521,7 @@
 - [[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]
 - [[National_Planning_Driven_Research_Alignment]]
 - [[Natural_Evolution_Pattern_Mining]]
+- [[NaturalDomainRepresentations]]
 - [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 - [[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
 - [[Nature Electronics]]
@@ -2897,6 +2918,7 @@
 - [[StreamDataflowArchitecture]]
 - [[StressDrivenNetworkMorphogenesis]]
 - [[Strong_Randomness_RG_Flow]]
+- [[StrongMicrowaveAcousticInteraction]]
 - [[StructuralPriorEncoding]]
 - [[StructuralRoleGeometry]]
 - [[Structured_Temporal_Modeling]]
@@ -2943,6 +2965,7 @@
 - [[TemporalCoding]]
 - [[TemporalContrastEncoding]]
 - [[TemporalErrorFeedback]]
+- [[TemporalFeaturePropagation]]
 - [[TemporalGraphNeuralNetwork]]
 - [[TemporalGraphNeuralNetworks]]
 - [[TemporalInformationStorage]]
@@ -2959,6 +2982,7 @@
 - [[ThermalAvalanche]]
 - [[ThermallyDrivenSuperparamagneticReservoir]]
 - [[ThermodynamicComputationalTradeoff]]
+- [[ThermodynamicPerformanceIndicator]]
 - [[Thermopneumatic_Actuation]]
 - [[ThirdWaveAI]]
 - [[Three_Dimensional_Analysis]]
@@ -3098,5 +3122,5 @@
 - [[集合通信NaaS完整报告]]
 
 ---
-**Total**: 3089 concepts
-**Articles**: 736
+**Total**: 3113 concepts
+**Articles**: 742

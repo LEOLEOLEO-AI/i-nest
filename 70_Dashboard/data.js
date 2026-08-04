@@ -1,35 +1,35 @@
 window.VAULT_DATA = {
-  "updated": "2026-08-04 08:27",
+  "updated": "2026-08-04 09:47",
   "snapshot": {
-    "total_md": 8799,
+    "total_md": 9628,
     "tcc": 1872,
     "inest": 1426,
     "inbox": 150,
     "processing": 567,
     "output": 456,
-    "git_uncommitted": 2508
+    "git_uncommitted": 148
   },
   "wiki": {
-    "tcc": 530,
-    "inest": 898,
-    "cross": 913,
-    "total": 2341
+    "tcc": 698,
+    "inest": 1045,
+    "cross": 1213,
+    "total": 2956
   },
-  "articles": 538,
+  "articles": 742,
   "bridges": [
     {
       "name": "SDI_Plastic_Interconnect",
-      "strength": "195",
+      "strength": "222",
       "insight": "SDI's software-defined interconnect could implement plastic (reconfigurable) network topologies inspired by synaptic plasticity."
     },
     {
       "name": "Chiplet_Heterogeneous_Neuromorphic",
-      "strength": "180",
+      "strength": "202",
       "insight": "Chiplet-based heterogeneous integration enables combining CMOS logic with memristor crossbar arrays for neuromorphic acceleration."
     },
     {
       "name": "NoC_Spiking_Routing",
-      "strength": "162",
+      "strength": "193",
       "insight": "NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude."
     }
   ],
@@ -144,10 +144,10 @@ window.VAULT_DATA = {
     ]
   ],
   "health": {
-    "笔记总数(可链接目标)": 5141,
-    "缺 frontmatter 笔记": 355,
-    "真正断链(目标不存在)": 2441,
-    "孤儿笔记(无入链)": 2505
+    "笔记总数(可链接目标)": 8393,
+    "缺 frontmatter 笔记": 3665,
+    "真正断链(目标不存在)": 2417,
+    "孤儿笔记(无入链)": 3152
   },
   "classification": {
     "own": 1269,

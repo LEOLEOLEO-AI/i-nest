@@ -28,3 +28,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- SDDE_PhysicalDynamics (merged 2026-08-04)
