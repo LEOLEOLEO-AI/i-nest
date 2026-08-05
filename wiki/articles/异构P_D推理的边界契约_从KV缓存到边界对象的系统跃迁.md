@@ -1,14 +1,14 @@
 ---
-title: "getnote_2026-08-04_getnote_1917419232254115744_异构P_D推理的边界契约：从KV缓存到边界对象的系统跃迁"
+title: "异构P_D推理的边界契约：从KV缓存到边界对象的系统跃迁"
 type: article-summary
 domain: iNEST
 created: 2026-08-05
 auto: true
 ---
-# getnote_2026-08-04_getnote_1917419232254115744_异构P_D推理的边界契约：从KV缓存到边界对象的系统跃迁
+# 异构P_D推理的边界契约：从KV缓存到边界对象的系统跃迁
 
 **Domain**: iNEST
-**Source**: 00_Inbox\getnote_2026-08-04_getnote_1917419232254115744_异构P_D推理的边界契约：从KV缓存到边界对象的系统跃迁.md
+**Source**: 00_Inbox\异构P_D推理的边界契约：从KV缓存到边界对象的系统跃迁.md
 **Compiled**: 2026-08-05
 
 ## Summary

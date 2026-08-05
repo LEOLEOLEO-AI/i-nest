@@ -1,14 +1,14 @@
 ---
-title: "getnote_2026-08-04_getnote_1917416633799053400_大模型推理异构化：为什么GPU不能再包办一切？"
+title: "大模型推理异构化：为什么GPU不能再包办一切？"
 type: article-summary
 domain: TCC
 created: 2026-08-05
 auto: true
 ---
-# getnote_2026-08-04_getnote_1917416633799053400_大模型推理异构化：为什么GPU不能再包办一切？
+# 大模型推理异构化：为什么GPU不能再包办一切？
 
 **Domain**: TCC
-**Source**: 00_Inbox\getnote_2026-08-04_getnote_1917416633799053400_大模型推理异构化：为什么GPU不能再包办一切？.md
+**Source**: 00_Inbox\大模型推理异构化：为什么GPU不能再包办一切？.md
 **Compiled**: 2026-08-05
 
 ## Summary

@@ -1,14 +1,14 @@
 ---
-title: "getnote_2026-08-04_getnote_1917493718799389928_AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工"
+title: "AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工"
 type: article-summary
 domain: TCC
 created: 2026-08-05
 auto: true
 ---
-# getnote_2026-08-04_getnote_1917493718799389928_AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工
+# AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工
 
 **Domain**: TCC
-**Source**: 00_Inbox\getnote_2026-08-04_getnote_1917493718799389928_AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工.md
+**Source**: 00_Inbox\AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工.md
 **Compiled**: 2026-08-05
 
 ## Summary

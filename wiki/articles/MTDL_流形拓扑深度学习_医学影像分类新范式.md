@@ -1,14 +1,14 @@
 ---
-title: "getnote_2026-08-04_getnote_1917511057582362824_MTDL 流形拓扑深度学习：医学影像分类新范式"
+title: "MTDL 流形拓扑深度学习：医学影像分类新范式"
 type: article-summary
 domain: Cross
 created: 2026-08-05
 auto: true
 ---
-# getnote_2026-08-04_getnote_1917511057582362824_MTDL 流形拓扑深度学习：医学影像分类新范式
+# MTDL 流形拓扑深度学习：医学影像分类新范式
 
 **Domain**: Cross
-**Source**: 00_Inbox\getnote_2026-08-04_getnote_1917511057582362824_MTDL 流形拓扑深度学习：医学影像分类新范式.md
+**Source**: 00_Inbox\MTDL 流形拓扑深度学习：医学影像分类新范式.md
 **Compiled**: 2026-08-05
 
 ## Summary

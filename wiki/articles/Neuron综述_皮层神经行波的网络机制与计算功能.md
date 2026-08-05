@@ -1,14 +1,14 @@
 ---
-title: "getnote_2026-08-04_getnote_1917435043102625880_Neuron综述：皮层神经行波的网络机制与计算功能"
+title: "Neuron综述：皮层神经行波的网络机制与计算功能"
 type: article-summary
 domain: Cross
 created: 2026-08-05
 auto: true
 ---
-# getnote_2026-08-04_getnote_1917435043102625880_Neuron综述：皮层神经行波的网络机制与计算功能
+# Neuron综述：皮层神经行波的网络机制与计算功能
 
 **Domain**: Cross
-**Source**: 00_Inbox\getnote_2026-08-04_getnote_1917435043102625880_Neuron综述：皮层神经行波的网络机制与计算功能.md
+**Source**: 00_Inbox\Neuron综述：皮层神经行波的网络机制与计算功能.md
 **Compiled**: 2026-08-05
 
 ## Summary

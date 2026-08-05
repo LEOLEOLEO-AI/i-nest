@@ -1,14 +1,14 @@
 ---
-title: "getnote_2026-08-04_getnote_1917419291312689240_太空算力硬件架构之争：FPGA vs ASIC vs GPU 全维度拆解"
+title: "太空算力硬件架构之争：FPGA vs ASIC vs GPU 全维度拆解"
 type: article-summary
 domain: TCC
 created: 2026-08-05
 auto: true
 ---
-# getnote_2026-08-04_getnote_1917419291312689240_太空算力硬件架构之争：FPGA vs ASIC vs GPU 全维度拆解
+# 太空算力硬件架构之争：FPGA vs ASIC vs GPU 全维度拆解
 
 **Domain**: TCC
-**Source**: 00_Inbox\getnote_2026-08-04_getnote_1917419291312689240_太空算力硬件架构之争：FPGA vs ASIC vs GPU 全维度拆解.md
+**Source**: 00_Inbox\太空算力硬件架构之争：FPGA vs ASIC vs GPU 全维度拆解.md
 **Compiled**: 2026-08-05
 
 ## Summary

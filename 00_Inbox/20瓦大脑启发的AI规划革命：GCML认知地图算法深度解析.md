@@ -1,5 +1,8 @@
 ---
-title: getnote_1917303032987664288_20瓦大脑启发的AI规划革命：GCML认知地图算法深度解析
+title: "20瓦大脑启发的AI规划革命：GCML认知地图算法深度解析"
+aliases:
+  - getnote_2026-08-02_getnote_1917303032987664288_20瓦大脑启发的AI规划革命：GCML认知地图算法深度解析
+  - getnote_1917303032987664288_20瓦大脑启发的AI规划革命：GCML认知地图算法深度解析
 tags:
   - hardware
   - top-journal

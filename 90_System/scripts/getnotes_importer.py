@@ -202,6 +202,18 @@ def is_tcc_inest(text):
     ]
     return any(kw in t for kw in tcc_inest_keywords)
 
+def clean_source_title(stem):
+    """Strip leading getnote/GetNote/kb/date/id prefix blocks, keep real title."""
+    t = stem
+    block = r'(?:(?:kb|KB)_[A-Za-z0-9_-]+_)?(?:(?:getnote|GetNote)_(?:\d{16,20}|\d{4}-\d{2}-\d{2}|\d{8}_\d{6}))_?'
+    while True:
+        m = re.match(block, t)
+        if not m:
+            break
+        t = t[m.end():]
+    return t or stem
+
+
 def process_note(filepath, cutoff):
     with open(filepath, 'r', encoding='utf-8') as fh:
         text = fh.read()
@@ -212,13 +224,13 @@ def process_note(filepath, cutoff):
     if not is_tcc_inest(text):
         return None, 'not_tcc_inest'
     score = match_score(text)
-    title = re.sub(r'[\r\n]+',' ',os.path.splitext(os.path.basename(filepath))[0])[:80]
+    title = clean_source_title(os.path.splitext(os.path.basename(filepath))[0])[:80]
     tags = generate_tags(text)
     links = generate_wikilinks(text, tags)
     now = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
     yt = '\n'.join('  - '+t for t in tags)
     yl = '\n'.join(links)
-    note = f'---\ntitle: {title}\ntags:\n{yt}\ndate: {now}\nsource: GetNotes\nscore: {score}\n---\n\n## Original Note\n\n{text}\n\n---\n\n## Related Notes\n\n{yl}\n'
+    note = f'---\ntitle: "{title}"\ntags:\n{yt}\ndate: {now}\nsource: GetNotes\nscore: {score}\n---\n\n## Original Note\n\n{text}\n\n---\n\n## Related Notes\n\n{yl}\n'
     return note, 'imported'
 
 def main():
@@ -242,8 +254,13 @@ def main():
         elif status == 'no_tech': notech += 1
         elif note:
             note_hash = fh
-                        # Simple naming: getnote_date_original_name
-            on = f"getnote_{datetime.datetime.now().strftime('%Y-%m-%d')}_{fn}" 
+                        # Title-based naming: no getnote prefix (2026-08-05 rule); dedup _N
+            clean = clean_source_title(os.path.splitext(fn)[0])
+            on = f"{clean[:80]}.md"
+            n = 2
+            while os.path.exists(os.path.join(o, on)):
+                on = f"{clean[:80]}_{n}.md"
+                n += 1
             with open(os.path.join(o, on), 'w', encoding='utf-8') as fout:
                 fout.write(note)
             state[note_hash] = on; imported += 1

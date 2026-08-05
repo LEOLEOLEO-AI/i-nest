@@ -1,5 +1,8 @@
 ---
-title: getnote_1917435043102625880_Neuron综述：皮层神经行波的网络机制与计算功能
+title: "Neuron综述：皮层神经行波的网络机制与计算功能"
+aliases:
+  - getnote_2026-08-04_getnote_1917435043102625880_Neuron综述：皮层神经行波的网络机制与计算功能
+  - getnote_1917435043102625880_Neuron综述：皮层神经行波的网络机制与计算功能
 tags:
   - neuroscience
   - network

@@ -1,5 +1,8 @@
 ---
-title: getnote_1917333705497132960_台积电CoPoS vs 英特尔EMIB：先进Chiplet集成的两条技术路线深度对比
+title: "台积电CoPoS vs 英特尔EMIB：先进Chiplet集成的两条技术路线深度对比"
+aliases:
+  - getnote_2026-08-02_getnote_1917333705497132960_台积电CoPoS vs 英特尔EMIB：先进Chiplet集成的两条技术路线深度对比
+  - getnote_1917333705497132960_台积电CoPoS vs 英特尔EMIB：先进Chiplet集成的两条技术路线深度对比
 tags:
   - hardware
   - first-principles

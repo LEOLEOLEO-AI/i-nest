@@ -1,5 +1,8 @@
 ---
-title: getnote_1917511057582362824_MTDL 流形拓扑深度学习：医学影像分类新范式
+title: "MTDL 流形拓扑深度学习：医学影像分类新范式"
+aliases:
+  - getnote_2026-08-04_getnote_1917511057582362824_MTDL 流形拓扑深度学习：医学影像分类新范式
+  - getnote_1917511057582362824_MTDL 流形拓扑深度学习：医学影像分类新范式
 tags:
   - paper
   - neuroscience

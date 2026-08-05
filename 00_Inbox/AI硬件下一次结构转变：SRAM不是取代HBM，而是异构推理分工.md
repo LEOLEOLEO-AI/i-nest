@@ -1,5 +1,8 @@
 ---
-title: getnote_1917493718799389928_AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工
+title: "AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工"
+aliases:
+  - getnote_2026-08-04_getnote_1917493718799389928_AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工
+  - getnote_1917493718799389928_AI硬件下一次结构转变：SRAM不是取代HBM，而是异构推理分工
 tags:
   - ai
   - transformer
