@@ -1,3 +1,10 @@
+---
+title: "Tsunami_Reservoir_Prediction"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Tsunami_Reservoir_Prediction
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Generalization_Bound_Spectra"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Generalization_Bound_Spectra
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "HysteresisLoopControl"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # HysteresisLoopControl
 
 **Domain**: Cross

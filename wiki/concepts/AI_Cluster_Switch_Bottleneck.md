@@ -1,3 +1,10 @@
+---
+title: "AI_Cluster_Switch_Bottleneck"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # AI_Cluster_Switch_Bottleneck
 
 **Domain**: TCC

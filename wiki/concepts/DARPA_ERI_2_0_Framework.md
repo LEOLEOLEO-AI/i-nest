@@ -1,3 +1,10 @@
+---
+title: "DARPA_ERI_2_0_Framework"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # DARPA_ERI_2_0_Framework
 
 **Domain**: Cross

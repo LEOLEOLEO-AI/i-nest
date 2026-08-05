@@ -1,3 +1,10 @@
+---
+title: "Free_Energy_Interconnect_Constraint"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Free_Energy_Interconnect_Constraint
 
 **Domain**: Cross

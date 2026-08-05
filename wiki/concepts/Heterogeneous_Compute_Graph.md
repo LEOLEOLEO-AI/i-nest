@@ -1,3 +1,10 @@
+---
+title: "Heterogeneous_Compute_Graph"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Heterogeneous_Compute_Graph
 
 **Domain**: Cross

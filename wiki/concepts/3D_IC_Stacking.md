@@ -1,3 +1,10 @@
+---
+title: "3D_IC_Stacking"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # 3D_IC_Stacking
 
 **Domain**: TCC

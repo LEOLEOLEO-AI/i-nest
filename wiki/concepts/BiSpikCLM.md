@@ -1,3 +1,10 @@
+---
+title: "BiSpikCLM"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # BiSpikCLM
 
 **Domain**: iNEST

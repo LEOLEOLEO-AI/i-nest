@@ -1,3 +1,10 @@
+---
+title: "文件名: YYYY-MM-DD_文章或论题简短标题"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 文件名: YYYY-MM-DD_文章或论题简短标题
 
 **Domain**: TCC

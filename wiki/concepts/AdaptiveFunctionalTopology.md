@@ -1,3 +1,10 @@
+---
+title: "AdaptiveFunctionalTopology"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # AdaptiveFunctionalTopology
 
 **Domain**: TCC

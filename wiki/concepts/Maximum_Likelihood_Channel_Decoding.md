@@ -1,3 +1,10 @@
+---
+title: "Maximum_Likelihood_Channel_Decoding"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Maximum_Likelihood_Channel_Decoding
 
 **Domain**: iNEST

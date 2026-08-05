@@ -1,3 +1,10 @@
+---
+title: "Mimetic_Optogenetic_Synapses"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Mimetic_Optogenetic_Synapses
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Terminology_Formula_Logic_Task_Reference_Roadmap"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Terminology_Formula_Logic_Task_Reference_Roadmap
 
 **Domain**: Cross

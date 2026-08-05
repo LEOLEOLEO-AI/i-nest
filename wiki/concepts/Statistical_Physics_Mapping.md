@@ -1,3 +1,10 @@
+---
+title: "Statistical_Physics_Mapping"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Statistical_Physics_Mapping
 
 **Domain**: Cross

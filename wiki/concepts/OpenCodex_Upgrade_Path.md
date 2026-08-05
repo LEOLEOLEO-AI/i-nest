@@ -1,3 +1,10 @@
+---
+title: "OpenCodex_Upgrade_Path"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # OpenCodex_Upgrade_Path
 
 **Domain**: Cross

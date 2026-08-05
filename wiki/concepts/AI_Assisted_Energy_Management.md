@@ -1,3 +1,10 @@
+---
+title: "AI_Assisted_Energy_Management"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # AI_Assisted_Energy_Management
 
 **Domain**: Cross

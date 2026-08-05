@@ -1,3 +1,10 @@
+---
+title: "Productization_Subproject"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Productization_Subproject
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "Neuromorphic_Spiking"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Neuromorphic_Spiking
 
 **Domain**: iNEST

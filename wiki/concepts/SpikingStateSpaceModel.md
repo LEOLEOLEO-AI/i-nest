@@ -1,3 +1,10 @@
+---
+title: "SpikingStateSpaceModel"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # SpikingStateSpaceModel
 
 **Domain**: iNEST

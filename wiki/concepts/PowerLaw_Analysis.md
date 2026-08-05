@@ -1,3 +1,10 @@
+---
+title: "PowerLaw_Analysis"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # PowerLaw_Analysis
 
 **Domain**: iNEST

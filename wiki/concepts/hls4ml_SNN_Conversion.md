@@ -1,3 +1,10 @@
+---
+title: "hls4ml_SNN_Conversion"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # hls4ml_SNN_Conversion
 
 **Domain**: Cross

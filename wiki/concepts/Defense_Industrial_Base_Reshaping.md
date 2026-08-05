@@ -1,3 +1,10 @@
+---
+title: "Defense_Industrial_Base_Reshaping"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Defense_Industrial_Base_Reshaping
 
 **Domain**: Cross

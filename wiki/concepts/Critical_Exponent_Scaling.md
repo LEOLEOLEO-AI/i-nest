@@ -1,3 +1,10 @@
+---
+title: "Critical_Exponent_Scaling"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Critical_Exponent_Scaling
 
 **Domain**: Cross

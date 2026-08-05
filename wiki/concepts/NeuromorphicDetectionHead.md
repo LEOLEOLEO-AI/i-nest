@@ -1,3 +1,10 @@
+---
+title: "NeuromorphicDetectionHead"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # NeuromorphicDetectionHead
 
 **Domain**: iNEST

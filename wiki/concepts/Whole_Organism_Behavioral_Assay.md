@@ -1,3 +1,10 @@
+---
+title: "Whole_Organism_Behavioral_Assay"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Whole_Organism_Behavioral_Assay
 
 **Domain**: iNEST

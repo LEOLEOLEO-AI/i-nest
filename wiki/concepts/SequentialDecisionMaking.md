@@ -1,3 +1,10 @@
+---
+title: "SequentialDecisionMaking"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SequentialDecisionMaking
 
 **Domain**: Cross

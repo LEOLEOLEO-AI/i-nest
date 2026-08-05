@@ -1,3 +1,10 @@
+---
+title: "ASIC_Dualism"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # ASIC_Dualism
 
 **Domain**: TCC

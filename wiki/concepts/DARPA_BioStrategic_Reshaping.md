@@ -1,3 +1,10 @@
+---
+title: "DARPA_BioStrategic_Reshaping"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # DARPA_BioStrategic_Reshaping
 
 **Domain**: iNEST

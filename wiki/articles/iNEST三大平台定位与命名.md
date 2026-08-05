@@ -1,3 +1,10 @@
+---
+title: "iNEST三大平台定位与命名"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # iNEST三大平台定位与命名
 
 **Domain**: TCC

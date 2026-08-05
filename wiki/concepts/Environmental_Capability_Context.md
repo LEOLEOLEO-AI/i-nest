@@ -1,3 +1,10 @@
+---
+title: "Environmental_Capability_Context"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Environmental_Capability_Context
 
 **Domain**: TCC

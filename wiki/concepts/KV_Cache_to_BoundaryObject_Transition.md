@@ -1,3 +1,10 @@
+---
+title: "KV_Cache_to_BoundaryObject_Transition"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # KV_Cache_to_BoundaryObject_Transition
 
 **Domain**: iNEST

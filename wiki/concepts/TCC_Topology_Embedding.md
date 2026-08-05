@@ -1,3 +1,10 @@
+---
+title: "TCC_Topology_Embedding"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # TCC_Topology_Embedding
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "AIInnovationPlatform"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # AIInnovationPlatform
 
 **Domain**: TCC

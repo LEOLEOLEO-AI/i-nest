@@ -1,3 +1,10 @@
+---
+title: "Targeted_Quarantine"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Targeted_Quarantine
 
 **Domain**: TCC

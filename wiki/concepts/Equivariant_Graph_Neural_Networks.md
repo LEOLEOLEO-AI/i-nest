@@ -1,3 +1,10 @@
+---
+title: "Equivariant_Graph_Neural_Networks"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Equivariant_Graph_Neural_Networks
 
 **Domain**: Cross

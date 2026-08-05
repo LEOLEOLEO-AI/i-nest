@@ -1,3 +1,10 @@
+---
+title: "Citation_Scope_Constraint"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Citation_Scope_Constraint
 
 **Domain**: Cross

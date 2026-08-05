@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_DARPA人工智能与自主系统项目深度研究报告_以_第三波AI_为核心的军事智能革命"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_DARPA人工智能与自主系统项目深度研究报告_以_第三波AI_为核心的军事智能革命
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "SpinGlass_Embedding"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SpinGlass_Embedding
 
 **Domain**: Cross

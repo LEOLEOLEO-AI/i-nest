@@ -1,3 +1,10 @@
+---
+title: "Neural_Immune_Signaling_Plasticity"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Neural_Immune_Signaling_Plasticity
 
 **Domain**: iNEST

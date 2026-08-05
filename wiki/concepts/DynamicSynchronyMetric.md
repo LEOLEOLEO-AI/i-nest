@@ -1,3 +1,10 @@
+---
+title: "DynamicSynchronyMetric"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # DynamicSynchronyMetric
 
 **Domain**: TCC

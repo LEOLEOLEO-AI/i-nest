@@ -1,3 +1,10 @@
+---
+title: "Thermalisation_Locality_Principle"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Thermalisation_Locality_Principle
 
 **Domain**: TCC

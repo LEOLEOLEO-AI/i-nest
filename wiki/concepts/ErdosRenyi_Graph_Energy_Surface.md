@@ -1,3 +1,10 @@
+---
+title: "ErdosRenyi_Graph_Energy_Surface"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ErdosRenyi_Graph_Energy_Surface
 
 **Domain**: Cross

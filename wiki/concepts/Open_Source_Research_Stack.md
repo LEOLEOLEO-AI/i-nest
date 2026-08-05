@@ -1,3 +1,10 @@
+---
+title: "Open_Source_Research_Stack"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Open_Source_Research_Stack
 
 **Domain**: iNEST

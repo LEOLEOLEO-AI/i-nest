@@ -1,3 +1,10 @@
+---
+title: "Energy_Balanced_Interconnect"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Energy_Balanced_Interconnect
 
 **Domain**: TCC

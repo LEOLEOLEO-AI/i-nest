@@ -1,3 +1,10 @@
+---
+title: "Delay_Aware_Autograd_Spiking_Framework"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Delay_Aware_Autograd_Spiking_Framework
 
 **Domain**: iNEST

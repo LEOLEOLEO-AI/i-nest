@@ -1,3 +1,10 @@
+---
+title: "Anomaly_Induced_Quantum_Criticality"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Anomaly_Induced_Quantum_Criticality
 
 **Domain**: Cross

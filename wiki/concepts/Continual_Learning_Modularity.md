@@ -1,3 +1,10 @@
+---
+title: "Continual_Learning_Modularity"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Continual_Learning_Modularity
 
 **Domain**: iNEST

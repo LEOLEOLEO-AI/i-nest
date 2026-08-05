@@ -1,3 +1,10 @@
+---
+title: "Domain_Classification_System"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Domain_Classification_System
 
 **Domain**: Cross

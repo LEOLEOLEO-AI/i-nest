@@ -1,3 +1,10 @@
+---
+title: "Krakencoder_Embedding"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Krakencoder_Embedding
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Memristive_CAM_Indexing"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Memristive_CAM_Indexing
 
 **Domain**: iNEST

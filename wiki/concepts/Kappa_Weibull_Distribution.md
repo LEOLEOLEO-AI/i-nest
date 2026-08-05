@@ -1,3 +1,10 @@
+---
+title: "Kappa_Weibull_Distribution"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Kappa_Weibull_Distribution
 
 **Domain**: Cross

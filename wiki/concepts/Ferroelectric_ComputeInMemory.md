@@ -1,3 +1,10 @@
+---
+title: "Ferroelectric_ComputeInMemory"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Ferroelectric_ComputeInMemory
 
 **Domain**: Cross

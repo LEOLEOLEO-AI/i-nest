@@ -1,3 +1,10 @@
+---
+title: "TCC_SpikingIntegration"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # TCC_SpikingIntegration
 
 **Domain**: Cross

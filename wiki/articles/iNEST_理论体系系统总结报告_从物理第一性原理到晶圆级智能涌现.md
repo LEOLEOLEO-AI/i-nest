@@ -1,3 +1,10 @@
+---
+title: "iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现
 
 **Domain**: TCC

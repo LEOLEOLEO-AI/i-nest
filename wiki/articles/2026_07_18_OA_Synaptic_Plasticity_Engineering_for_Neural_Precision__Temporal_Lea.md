@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Synaptic Plasticity Engineering for Neural Precision, Temporal Learning, and Sca"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Synaptic Plasticity Engineering for Neural Precision, Temporal Learning, and Sca
 
 **Domain**: iNEST

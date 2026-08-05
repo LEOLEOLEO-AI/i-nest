@@ -1,3 +1,10 @@
+---
+title: "Barrier_Hierarchy_Topology"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Barrier_Hierarchy_Topology
 
 **Domain**: Cross

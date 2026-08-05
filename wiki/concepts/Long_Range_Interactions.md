@@ -1,3 +1,10 @@
+---
+title: "Long_Range_Interactions"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Long_Range_Interactions
 
 **Domain**: Cross

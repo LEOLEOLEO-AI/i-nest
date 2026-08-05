@@ -1,3 +1,10 @@
+---
+title: "STDP_Memristive_Synapse"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # STDP_Memristive_Synapse
 
 **Domain**: iNEST

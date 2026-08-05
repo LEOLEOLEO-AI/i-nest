@@ -1,3 +1,10 @@
+---
+title: "C_ST_Capability_Formula"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # C_ST_Capability_Formula
 
 **Domain**: TCC

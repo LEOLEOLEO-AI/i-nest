@@ -1,3 +1,10 @@
+---
+title: "C_elegansConnectomeAnalogy"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # C_elegansConnectomeAnalogy
 
 **Domain**: Cross

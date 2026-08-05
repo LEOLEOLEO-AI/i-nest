@@ -1,3 +1,10 @@
+---
+title: "In_Network_Sensing"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # In_Network_Sensing
 
 **Domain**: TCC

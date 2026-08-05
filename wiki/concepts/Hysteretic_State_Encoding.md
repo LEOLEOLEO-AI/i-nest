@@ -1,3 +1,10 @@
+---
+title: "Hysteretic_State_Encoding"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Hysteretic_State_Encoding
 
 **Domain**: Cross

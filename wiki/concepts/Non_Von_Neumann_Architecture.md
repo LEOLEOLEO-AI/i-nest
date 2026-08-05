@@ -1,3 +1,10 @@
+---
+title: "Non_Von_Neumann_Architecture"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Non_Von_Neumann_Architecture
 
 **Domain**: Cross

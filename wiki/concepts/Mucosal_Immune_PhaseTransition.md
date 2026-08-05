@@ -1,3 +1,10 @@
+---
+title: "Mucosal_Immune_PhaseTransition"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Mucosal_Immune_PhaseTransition
 
 **Domain**: Cross

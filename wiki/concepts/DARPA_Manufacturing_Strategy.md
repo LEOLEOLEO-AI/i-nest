@@ -1,3 +1,10 @@
+---
+title: "DARPA_Manufacturing_Strategy"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # DARPA_Manufacturing_Strategy
 
 **Domain**: Cross

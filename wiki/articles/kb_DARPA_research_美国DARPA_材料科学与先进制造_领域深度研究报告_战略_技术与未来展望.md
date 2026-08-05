@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_美国DARPA_材料科学与先进制造_领域深度研究报告_战略_技术与未来展望"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_美国DARPA_材料科学与先进制造_领域深度研究报告_战略_技术与未来展望
 
 **Domain**: iNEST

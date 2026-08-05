@@ -1,3 +1,10 @@
+---
+title: "Fast_Response_Actuation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Fast_Response_Actuation
 
 **Domain**: Cross

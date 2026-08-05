@@ -1,3 +1,10 @@
+---
+title: "ConcentricDiscreteOpticalVortices"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ConcentricDiscreteOpticalVortices
 
 **Domain**: Cross

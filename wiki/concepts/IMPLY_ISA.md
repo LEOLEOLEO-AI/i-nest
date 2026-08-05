@@ -1,3 +1,10 @@
+---
+title: "IMPLY_ISA"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # IMPLY_ISA
 
 **Domain**: Cross

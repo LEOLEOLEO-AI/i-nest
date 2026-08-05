@@ -1,3 +1,10 @@
+---
+title: "NoiseModulated_Backprop"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # NoiseModulated_Backprop
 
 **Domain**: iNEST

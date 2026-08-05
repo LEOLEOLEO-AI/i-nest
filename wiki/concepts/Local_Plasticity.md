@@ -1,3 +1,10 @@
+---
+title: "Local_Plasticity"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Local_Plasticity
 
 **Domain**: iNEST

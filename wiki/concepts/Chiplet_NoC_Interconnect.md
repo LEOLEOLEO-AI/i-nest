@@ -1,3 +1,10 @@
+---
+title: "Chiplet_NoC_Interconnect"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Chiplet_NoC_Interconnect
 
 **Domain**: TCC

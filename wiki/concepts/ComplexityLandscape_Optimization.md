@@ -1,3 +1,10 @@
+---
+title: "ComplexityLandscape_Optimization"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # ComplexityLandscape_Optimization
 
 **Domain**: TCC

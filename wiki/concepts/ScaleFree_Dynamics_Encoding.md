@@ -1,3 +1,10 @@
+---
+title: "ScaleFree_Dynamics_Encoding"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ScaleFree_Dynamics_Encoding
 
 **Domain**: Cross

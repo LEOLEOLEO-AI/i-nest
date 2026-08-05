@@ -1,3 +1,10 @@
+---
+title: "Criticality_Transition"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Criticality_Transition
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "IntelligentEcosystem"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # IntelligentEcosystem
 
 **Domain**: TCC

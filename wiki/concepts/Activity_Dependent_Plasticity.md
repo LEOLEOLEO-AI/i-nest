@@ -1,3 +1,10 @@
+---
+title: "Activity_Dependent_Plasticity"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Activity_Dependent_Plasticity
 
 **Domain**: iNEST

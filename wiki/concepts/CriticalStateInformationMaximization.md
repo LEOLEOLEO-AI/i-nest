@@ -1,3 +1,10 @@
+---
+title: "CriticalStateInformationMaximization"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # CriticalStateInformationMaximization
 
 **Domain**: iNEST

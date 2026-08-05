@@ -1,3 +1,10 @@
+---
+title: "Automated_Assessment_Framework"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Automated_Assessment_Framework
 
 **Domain**: Cross

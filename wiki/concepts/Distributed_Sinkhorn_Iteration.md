@@ -1,3 +1,10 @@
+---
+title: "Distributed_Sinkhorn_Iteration"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Distributed_Sinkhorn_Iteration
 
 **Domain**: TCC

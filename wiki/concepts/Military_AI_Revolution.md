@@ -1,3 +1,10 @@
+---
+title: "Military_AI_Revolution"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Military_AI_Revolution
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Master_SDDE_Equation"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Master_SDDE_Equation
 
 **Domain**: iNEST

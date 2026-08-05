@@ -1,3 +1,10 @@
+---
+title: "Semantic_Least_Energy_Principle"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Semantic_Least_Energy_Principle
 
 **Domain**: Cross

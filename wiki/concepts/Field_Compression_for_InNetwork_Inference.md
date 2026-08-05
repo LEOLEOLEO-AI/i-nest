@@ -1,3 +1,10 @@
+---
+title: "Field_Compression_for_InNetwork_Inference"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Field_Compression_for_InNetwork_Inference
 
 **Domain**: iNEST

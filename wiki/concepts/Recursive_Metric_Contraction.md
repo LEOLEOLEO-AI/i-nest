@@ -1,3 +1,10 @@
+---
+title: "Recursive_Metric_Contraction"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Recursive_Metric_Contraction
 
 **Domain**: TCC

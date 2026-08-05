@@ -1,3 +1,10 @@
+---
+title: "FC2_Goal_Representation"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # FC2_Goal_Representation
 
 **Domain**: iNEST

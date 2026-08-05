@@ -1,3 +1,10 @@
+---
+title: "GPU_Cluster_SNN_Architecture"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # GPU_Cluster_SNN_Architecture
 
 **Domain**: iNEST

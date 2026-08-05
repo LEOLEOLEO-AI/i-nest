@@ -1,3 +1,10 @@
+---
+title: "CollectiveConsensus"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CollectiveConsensus
 
 **Domain**: Cross

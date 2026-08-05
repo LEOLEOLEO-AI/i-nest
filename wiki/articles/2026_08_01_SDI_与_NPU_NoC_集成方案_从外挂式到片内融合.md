@@ -1,3 +1,10 @@
+---
+title: "2026-08-01_SDI 与 NPU NoC 集成方案：从外挂式到片内融合"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-08-01_SDI 与 NPU NoC 集成方案：从外挂式到片内融合
 
 **Domain**: TCC

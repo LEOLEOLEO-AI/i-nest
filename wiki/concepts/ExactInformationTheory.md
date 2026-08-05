@@ -1,3 +1,10 @@
+---
+title: "ExactInformationTheory"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ExactInformationTheory
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Optimal_Representation_Geometry"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Optimal_Representation_Geometry
 
 **Domain**: iNEST

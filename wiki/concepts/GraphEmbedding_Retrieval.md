@@ -1,3 +1,10 @@
+---
+title: "GraphEmbedding_Retrieval"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # GraphEmbedding_Retrieval
 
 **Domain**: iNEST

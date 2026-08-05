@@ -1,3 +1,10 @@
+---
+title: "DistributedSDN_Control"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # DistributedSDN_Control
 
 **Domain**: TCC

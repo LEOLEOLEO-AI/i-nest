@@ -1,3 +1,10 @@
+---
+title: "IntelligentInspectionPipeline"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # IntelligentInspectionPipeline
 
 **Domain**: iNEST

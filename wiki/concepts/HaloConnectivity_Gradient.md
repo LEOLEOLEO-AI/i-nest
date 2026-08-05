@@ -1,3 +1,10 @@
+---
+title: "HaloConnectivity_Gradient"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # HaloConnectivity_Gradient
 
 **Domain**: iNEST

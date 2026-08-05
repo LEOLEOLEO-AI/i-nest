@@ -1,3 +1,10 @@
+---
+title: "Entanglement_Teleportation_Locality"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Entanglement_Teleportation_Locality
 
 **Domain**: Cross

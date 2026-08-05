@@ -1,3 +1,10 @@
+---
+title: "Reconfigurable_Spiking_Architecture"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Reconfigurable_Spiking_Architecture
 
 **Domain**: iNEST

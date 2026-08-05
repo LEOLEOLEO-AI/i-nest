@@ -1,3 +1,10 @@
+---
+title: "Phase_Transition_Tail_Transition"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Phase_Transition_Tail_Transition
 
 **Domain**: Cross

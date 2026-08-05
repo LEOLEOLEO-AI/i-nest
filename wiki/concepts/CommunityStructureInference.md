@@ -1,3 +1,10 @@
+---
+title: "CommunityStructureInference"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # CommunityStructureInference
 
 **Domain**: TCC

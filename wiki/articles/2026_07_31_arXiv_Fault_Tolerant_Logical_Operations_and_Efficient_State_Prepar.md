@@ -1,3 +1,10 @@
+---
+title: "2026-07-31_arXiv_Fault-Tolerant Logical Operations and Efficient State Prepar"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-07-31_arXiv_Fault-Tolerant Logical Operations and Efficient State Prepar
 
 **Domain**: TCC

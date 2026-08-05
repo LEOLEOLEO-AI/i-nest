@@ -1,3 +1,10 @@
+---
+title: "GCML_Cognitive_Map"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # GCML_Cognitive_Map
 
 **Domain**: iNEST

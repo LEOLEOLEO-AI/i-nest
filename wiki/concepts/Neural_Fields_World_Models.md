@@ -1,3 +1,10 @@
+---
+title: "Neural_Fields_World_Models"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Neural_Fields_World_Models
 
 **Domain**: iNEST

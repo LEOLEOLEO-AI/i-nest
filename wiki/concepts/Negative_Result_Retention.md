@@ -1,3 +1,10 @@
+---
+title: "Negative_Result_Retention"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Negative_Result_Retention
 
 **Domain**: TCC

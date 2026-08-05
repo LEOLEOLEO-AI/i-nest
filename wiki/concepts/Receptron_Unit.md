@@ -1,3 +1,10 @@
+---
+title: "Receptron_Unit"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Receptron_Unit
 
 **Domain**: iNEST

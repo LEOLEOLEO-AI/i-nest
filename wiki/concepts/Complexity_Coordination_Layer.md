@@ -1,3 +1,10 @@
+---
+title: "Complexity_Coordination_Layer"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Complexity_Coordination_Layer
 
 **Domain**: TCC

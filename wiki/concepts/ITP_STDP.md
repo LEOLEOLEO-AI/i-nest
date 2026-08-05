@@ -1,3 +1,10 @@
+---
+title: "ITP_STDP"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # ITP_STDP
 
 **Domain**: iNEST

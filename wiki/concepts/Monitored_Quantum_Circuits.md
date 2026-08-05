@@ -1,3 +1,10 @@
+---
+title: "Monitored_Quantum_Circuits"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Monitored_Quantum_Circuits
 
 **Domain**: Cross

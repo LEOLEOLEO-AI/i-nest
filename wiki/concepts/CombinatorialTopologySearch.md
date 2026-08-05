@@ -1,3 +1,10 @@
+---
+title: "CombinatorialTopologySearch"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # CombinatorialTopologySearch
 
 **Domain**: TCC

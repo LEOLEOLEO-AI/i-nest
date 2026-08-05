@@ -1,3 +1,10 @@
+---
+title: "MembranePotentialModulation"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # MembranePotentialModulation
 
 **Domain**: iNEST

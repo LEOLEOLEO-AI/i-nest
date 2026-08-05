@@ -1,3 +1,10 @@
+---
+title: "Criticality_Threshold"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Criticality_Threshold
 
 **Domain**: Cross

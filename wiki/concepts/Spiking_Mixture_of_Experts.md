@@ -1,3 +1,10 @@
+---
+title: "Spiking_Mixture_of_Experts"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Spiking_Mixture_of_Experts
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "SymmetricLocalization"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # SymmetricLocalization
 
 **Domain**: TCC

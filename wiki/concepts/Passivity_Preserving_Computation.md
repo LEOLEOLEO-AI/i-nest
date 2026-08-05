@@ -1,3 +1,10 @@
+---
+title: "Passivity_Preserving_Computation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Passivity_Preserving_Computation
 
 **Domain**: Cross

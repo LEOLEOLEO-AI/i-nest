@@ -1,3 +1,10 @@
+---
+title: "Nishimori_Threshold"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Nishimori_Threshold
 
 **Domain**: TCC

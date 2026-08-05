@@ -1,3 +1,10 @@
+---
+title: "2026-07-25_AI算力架构革命深度研报：专用ASIC双元哲学挑战英伟达通用GPU霸权"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-07-25_AI算力架构革命深度研报：专用ASIC双元哲学挑战英伟达通用GPU霸权
 
 **Domain**: TCC

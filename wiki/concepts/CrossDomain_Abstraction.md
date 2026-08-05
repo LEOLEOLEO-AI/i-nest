@@ -1,3 +1,10 @@
+---
+title: "CrossDomain_Abstraction"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CrossDomain_Abstraction
 
 **Domain**: Cross

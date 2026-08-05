@@ -1,3 +1,10 @@
+---
+title: "Inference_Stage_Decomposition"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Inference_Stage_Decomposition
 
 **Domain**: TCC

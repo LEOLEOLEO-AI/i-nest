@@ -1,3 +1,10 @@
+---
+title: "2026-07-29_2026年7月Nature Communications研究：高维神经网络核心计算仅需1-2个维度的低维动力学机制解析"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-29_2026年7月Nature Communications研究：高维神经网络核心计算仅需1-2个维度的低维动力学机制解析
 
 **Domain**: iNEST

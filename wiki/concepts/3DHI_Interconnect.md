@@ -1,3 +1,10 @@
+---
+title: "3DHI_Interconnect"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # 3DHI_Interconnect
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "2026-08-04_arXiv_Release-free phononic crystal with strong microwave coupling"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-08-04_arXiv_Release-free phononic crystal with strong microwave coupling
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Bio-Inspired Spike-Timing-Dependent Plasticity Learning with Metal Halide Perovs"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Bio-Inspired Spike-Timing-Dependent Plasticity Learning with Metal Halide Perovs
 
 **Domain**: iNEST

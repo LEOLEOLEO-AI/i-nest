@@ -1,3 +1,10 @@
+---
+title: "AI_Enabled_Battlefield_Autonomy"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # AI_Enabled_Battlefield_Autonomy
 
 **Domain**: Cross

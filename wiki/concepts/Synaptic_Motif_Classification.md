@@ -1,3 +1,10 @@
+---
+title: "Synaptic_Motif_Classification"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Synaptic_Motif_Classification
 
 **Domain**: TCC

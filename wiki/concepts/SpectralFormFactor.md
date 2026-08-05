@@ -1,3 +1,10 @@
+---
+title: "SpectralFormFactor"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SpectralFormFactor
 
 **Domain**: Cross

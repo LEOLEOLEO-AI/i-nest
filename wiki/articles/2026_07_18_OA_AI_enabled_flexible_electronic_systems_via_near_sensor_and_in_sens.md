@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_AI-enabled flexible electronic systems via near-sensor and in-sensor computing"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_AI-enabled flexible electronic systems via near-sensor and in-sensor computing
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "FeFET_Polarization_Switching"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # FeFET_Polarization_Switching
 
 **Domain**: iNEST

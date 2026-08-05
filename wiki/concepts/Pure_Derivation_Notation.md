@@ -1,3 +1,10 @@
+---
+title: "Pure_Derivation_Notation"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Pure_Derivation_Notation
 
 **Domain**: iNEST

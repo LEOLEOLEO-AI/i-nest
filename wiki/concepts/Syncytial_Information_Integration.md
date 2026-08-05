@@ -1,3 +1,10 @@
+---
+title: "Syncytial_Information_Integration"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Syncytial_Information_Integration
 
 **Domain**: iNEST

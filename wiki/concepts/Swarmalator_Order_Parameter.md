@@ -1,3 +1,10 @@
+---
+title: "Swarmalator_Order_Parameter"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Swarmalator_Order_Parameter
 
 **Domain**: Cross

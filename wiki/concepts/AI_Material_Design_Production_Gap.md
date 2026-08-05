@@ -1,3 +1,10 @@
+---
+title: "AI_Material_Design_Production_Gap"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # AI_Material_Design_Production_Gap
 
 **Domain**: Cross

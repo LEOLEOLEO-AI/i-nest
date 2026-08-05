@@ -1,3 +1,10 @@
+---
+title: "2026-08-04_arXiv_Parameter-Efficient Fine-Tuning for Spiking Point Cloud Mode"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-08-04_arXiv_Parameter-Efficient Fine-Tuning for Spiking Point Cloud Mode
 
 **Domain**: iNEST

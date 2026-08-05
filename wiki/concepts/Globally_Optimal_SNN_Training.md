@@ -1,3 +1,10 @@
+---
+title: "Globally_Optimal_SNN_Training"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Globally_Optimal_SNN_Training
 
 **Domain**: iNEST

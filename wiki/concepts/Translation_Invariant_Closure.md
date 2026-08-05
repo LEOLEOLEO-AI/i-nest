@@ -1,3 +1,10 @@
+---
+title: "Translation_Invariant_Closure"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Translation_Invariant_Closure
 
 **Domain**: TCC

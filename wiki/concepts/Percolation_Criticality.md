@@ -1,3 +1,10 @@
+---
+title: "Percolation_Criticality"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Percolation_Criticality
 
 **Domain**: Cross

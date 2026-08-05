@@ -1,3 +1,10 @@
+---
+title: "2026-07-24_arXiv_SpikingMOT A Spike-Driven Multi-Object Tracker"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-24_arXiv_SpikingMOT A Spike-Driven Multi-Object Tracker
 
 **Domain**: iNEST

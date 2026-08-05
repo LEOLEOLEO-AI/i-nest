@@ -1,3 +1,10 @@
+---
+title: "SpikeTiming_Dependent_Plasticity_OnChip"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # SpikeTiming_Dependent_Plasticity_OnChip
 
 **Domain**: iNEST

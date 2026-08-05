@@ -1,3 +1,10 @@
+---
+title: "2026-07-19_arXiv_A Reservoir Computing Approach to Quantum Gate Synthesis"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-07-19_arXiv_A Reservoir Computing Approach to Quantum Gate Synthesis
 
 **Domain**: Cross

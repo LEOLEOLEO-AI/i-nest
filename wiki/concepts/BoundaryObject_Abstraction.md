@@ -1,3 +1,10 @@
+---
+title: "BoundaryObject_Abstraction"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # BoundaryObject_Abstraction
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "AI_FullSpectrum_Strategy"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # AI_FullSpectrum_Strategy
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Resilience_ByTopology"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Resilience_ByTopology
 
 **Domain**: TCC

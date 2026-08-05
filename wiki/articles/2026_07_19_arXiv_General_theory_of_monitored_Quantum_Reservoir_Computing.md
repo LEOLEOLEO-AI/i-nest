@@ -1,3 +1,10 @@
+---
+title: "2026-07-19_arXiv_General theory of monitored Quantum Reservoir Computing"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-07-19_arXiv_General theory of monitored Quantum Reservoir Computing
 
 **Domain**: Cross

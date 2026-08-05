@@ -1,3 +1,10 @@
+---
+title: "复杂网络智能涌现（iNEST/INEST）"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 复杂网络智能涌现（iNEST/INEST）
 
 **Domain**: iNEST

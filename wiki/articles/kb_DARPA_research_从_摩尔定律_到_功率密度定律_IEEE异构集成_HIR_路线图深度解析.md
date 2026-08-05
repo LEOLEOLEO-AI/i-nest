@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_从_摩尔定律_到_功率密度定律_IEEE异构集成_HIR_路线图深度解析"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_从_摩尔定律_到_功率密度定律_IEEE异构集成_HIR_路线图深度解析
 
 **Domain**: TCC

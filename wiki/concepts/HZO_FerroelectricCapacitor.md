@@ -1,3 +1,10 @@
+---
+title: "HZO_FerroelectricCapacitor"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # HZO_FerroelectricCapacitor
 
 **Domain**: iNEST

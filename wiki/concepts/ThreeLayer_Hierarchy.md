@@ -1,3 +1,10 @@
+---
+title: "ThreeLayer_Hierarchy"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ThreeLayer_Hierarchy
 
 **Domain**: Cross

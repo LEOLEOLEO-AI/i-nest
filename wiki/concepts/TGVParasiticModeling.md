@@ -1,3 +1,10 @@
+---
+title: "TGVParasiticModeling"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # TGVParasiticModeling
 
 **Domain**: TCC

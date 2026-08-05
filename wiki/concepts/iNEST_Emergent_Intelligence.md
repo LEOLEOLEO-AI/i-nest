@@ -1,3 +1,10 @@
+---
+title: "iNEST_Emergent_Intelligence"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # iNEST_Emergent_Intelligence
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Sparse_Distributed_Memory"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Sparse_Distributed_Memory
 
 **Domain**: iNEST

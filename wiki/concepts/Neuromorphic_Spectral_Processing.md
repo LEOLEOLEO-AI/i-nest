@@ -1,3 +1,10 @@
+---
+title: "Neuromorphic_Spectral_Processing"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Neuromorphic_Spectral_Processing
 
 **Domain**: iNEST

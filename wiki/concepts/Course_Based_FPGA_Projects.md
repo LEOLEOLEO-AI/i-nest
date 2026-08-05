@@ -1,3 +1,10 @@
+---
+title: "Course_Based_FPGA_Projects"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Course_Based_FPGA_Projects
 
 **Domain**: Cross

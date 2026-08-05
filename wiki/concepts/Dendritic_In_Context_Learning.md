@@ -1,3 +1,10 @@
+---
+title: "Dendritic_In_Context_Learning"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Dendritic_In_Context_Learning
 
 **Domain**: iNEST

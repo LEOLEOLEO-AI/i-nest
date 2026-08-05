@@ -1,3 +1,10 @@
+---
+title: "Causal_Clinical_Reasoning"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Causal_Clinical_Reasoning
 
 **Domain**: Cross

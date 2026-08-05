@@ -1,3 +1,10 @@
+---
+title: "DevelopmentalBrainTrajectory"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # DevelopmentalBrainTrajectory
 
 **Domain**: iNEST

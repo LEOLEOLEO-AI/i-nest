@@ -1,3 +1,10 @@
+---
+title: "FormalLinguisticCompetence"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # FormalLinguisticCompetence
 
 **Domain**: Cross

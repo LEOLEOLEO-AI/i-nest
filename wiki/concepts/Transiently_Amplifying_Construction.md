@@ -1,3 +1,10 @@
+---
+title: "Transiently_Amplifying_Construction"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Transiently_Amplifying_Construction
 
 **Domain**: iNEST

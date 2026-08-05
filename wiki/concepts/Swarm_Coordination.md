@@ -1,3 +1,10 @@
+---
+title: "Swarm_Coordination"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Swarm_Coordination
 
 **Domain**: Cross

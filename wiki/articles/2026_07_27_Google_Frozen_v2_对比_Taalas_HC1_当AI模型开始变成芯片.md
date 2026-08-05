@@ -1,3 +1,10 @@
+---
+title: "2026-07-27_Google Frozen v2 对比 Taalas HC1：当AI模型开始变成芯片"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-07-27_Google Frozen v2 对比 Taalas HC1：当AI模型开始变成芯片
 
 **Domain**: TCC

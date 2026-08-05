@@ -1,3 +1,10 @@
+---
+title: "Hyper_Dimensional_Computing"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Hyper_Dimensional_Computing
 
 **Domain**: Cross

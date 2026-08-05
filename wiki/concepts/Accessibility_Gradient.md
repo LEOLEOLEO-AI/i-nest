@@ -1,3 +1,10 @@
+---
+title: "Accessibility_Gradient"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Accessibility_Gradient
 
 **Domain**: iNEST

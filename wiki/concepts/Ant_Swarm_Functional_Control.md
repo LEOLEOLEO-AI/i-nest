@@ -1,3 +1,10 @@
+---
+title: "Ant_Swarm_Functional_Control"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Ant_Swarm_Functional_Control
 
 **Domain**: TCC

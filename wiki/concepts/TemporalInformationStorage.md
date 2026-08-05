@@ -1,3 +1,10 @@
+---
+title: "TemporalInformationStorage"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # TemporalInformationStorage
 
 **Domain**: Cross

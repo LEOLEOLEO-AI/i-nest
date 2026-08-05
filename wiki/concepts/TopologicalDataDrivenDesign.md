@@ -1,3 +1,10 @@
+---
+title: "TopologicalDataDrivenDesign"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # TopologicalDataDrivenDesign
 
 **Domain**: TCC

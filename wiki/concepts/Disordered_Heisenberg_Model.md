@@ -1,3 +1,10 @@
+---
+title: "Disordered_Heisenberg_Model"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Disordered_Heisenberg_Model
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "Emergent_Reservoir_Topology"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Emergent_Reservoir_Topology
 
 **Domain**: iNEST

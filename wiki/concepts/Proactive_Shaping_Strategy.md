@@ -1,3 +1,10 @@
+---
+title: "Proactive_Shaping_Strategy"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Proactive_Shaping_Strategy
 
 **Domain**: TCC

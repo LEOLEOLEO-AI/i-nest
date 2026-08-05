@@ -1,3 +1,10 @@
+---
+title: "FastSlow_Dynamics"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # FastSlow_Dynamics
 
 **Domain**: iNEST

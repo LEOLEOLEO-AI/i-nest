@@ -1,3 +1,10 @@
+---
+title: "Loss_Spike_Trigger"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Loss_Spike_Trigger
 
 **Domain**: TCC

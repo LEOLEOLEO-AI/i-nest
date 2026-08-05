@@ -1,3 +1,10 @@
+---
+title: "Neuronal_Avalanche_Dynamics"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Neuronal_Avalanche_Dynamics
 
 **Domain**: iNEST

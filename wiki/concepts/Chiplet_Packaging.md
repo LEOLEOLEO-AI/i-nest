@@ -1,3 +1,10 @@
+---
+title: "Chiplet_Packaging"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Chiplet_Packaging
 
 **Domain**: Cross

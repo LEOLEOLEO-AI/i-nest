@@ -1,3 +1,10 @@
+---
+title: "Criticality_Based_Feature_Extraction"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Criticality_Based_Feature_Extraction
 
 **Domain**: Cross

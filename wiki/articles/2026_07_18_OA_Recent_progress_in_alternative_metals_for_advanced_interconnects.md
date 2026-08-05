@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Recent progress in alternative metals for advanced interconnects"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Recent progress in alternative metals for advanced interconnects
 
 **Domain**: TCC

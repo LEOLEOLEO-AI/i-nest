@@ -1,3 +1,10 @@
+---
+title: "Selection_Theorems"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Selection_Theorems
 
 **Domain**: Cross

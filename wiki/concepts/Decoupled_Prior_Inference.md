@@ -1,3 +1,10 @@
+---
+title: "Decoupled_Prior_Inference"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Decoupled_Prior_Inference
 
 **Domain**: iNEST

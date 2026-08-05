@@ -1,3 +1,10 @@
+---
+title: "TopologyAwareStateMigration"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # TopologyAwareStateMigration
 
 **Domain**: Cross

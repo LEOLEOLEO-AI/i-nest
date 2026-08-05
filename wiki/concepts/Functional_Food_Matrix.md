@@ -1,3 +1,10 @@
+---
+title: "Functional_Food_Matrix"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Functional_Food_Matrix
 
 **Domain**: Cross

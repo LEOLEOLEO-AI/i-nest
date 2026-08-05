@@ -1,3 +1,10 @@
+---
+title: "Chiplet_Based_Interconnect_Fabric"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Chiplet_Based_Interconnect_Fabric
 
 **Domain**: TCC

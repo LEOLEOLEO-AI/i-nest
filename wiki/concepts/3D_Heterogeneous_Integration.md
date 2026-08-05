@@ -1,3 +1,10 @@
+---
+title: "3D_Heterogeneous_Integration"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # 3D_Heterogeneous_Integration
 
 **Domain**: Cross

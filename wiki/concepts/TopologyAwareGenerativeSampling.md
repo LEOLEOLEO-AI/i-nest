@@ -1,3 +1,10 @@
+---
+title: "TopologyAwareGenerativeSampling"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # TopologyAwareGenerativeSampling
 
 **Domain**: TCC

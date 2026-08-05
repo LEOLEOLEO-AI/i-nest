@@ -1,3 +1,10 @@
+---
+title: "SDDE_SelfDescribingDataExchange"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # SDDE_SelfDescribingDataExchange
 
 **Domain**: TCC

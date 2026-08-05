@@ -1,3 +1,10 @@
+---
+title: "Trusted_Microelectronics_Supply_Chain"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Trusted_Microelectronics_Supply_Chain
 
 **Domain**: TCC

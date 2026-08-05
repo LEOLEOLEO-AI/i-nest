@@ -1,3 +1,10 @@
+---
+title: "Brain_Connectome"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Brain_Connectome
 
 **Domain**: iNEST

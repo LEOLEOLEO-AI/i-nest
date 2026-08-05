@@ -1,3 +1,10 @@
+---
+title: "Coupling_Strength_Encoding"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Coupling_Strength_Encoding
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "SDI_Chip_Indicator_Change"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # SDI_Chip_Indicator_Change
 
 **Domain**: TCC

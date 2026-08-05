@@ -1,3 +1,10 @@
+---
+title: "Edge_Intelligence"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Edge_Intelligence
 
 **Domain**: iNEST

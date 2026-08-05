@@ -1,3 +1,10 @@
+---
+title: "SDI_TopologicalControl"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # SDI_TopologicalControl
 
 **Domain**: TCC

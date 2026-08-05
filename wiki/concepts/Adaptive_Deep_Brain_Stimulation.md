@@ -1,3 +1,10 @@
+---
+title: "Adaptive_Deep_Brain_Stimulation"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Adaptive_Deep_Brain_Stimulation
 
 **Domain**: iNEST

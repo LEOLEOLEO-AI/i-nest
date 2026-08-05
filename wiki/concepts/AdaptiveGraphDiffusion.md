@@ -1,3 +1,10 @@
+---
+title: "AdaptiveGraphDiffusion"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # AdaptiveGraphDiffusion
 
 **Domain**: TCC

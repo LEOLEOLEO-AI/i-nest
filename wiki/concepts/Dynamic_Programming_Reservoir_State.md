@@ -1,3 +1,10 @@
+---
+title: "Dynamic_Programming_Reservoir_State"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Dynamic_Programming_Reservoir_State
 
 **Domain**: Cross

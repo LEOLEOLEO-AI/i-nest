@@ -1,3 +1,10 @@
+---
+title: "Deep_Thermalisation_Dynamics"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Deep_Thermalisation_Dynamics
 
 **Domain**: TCC

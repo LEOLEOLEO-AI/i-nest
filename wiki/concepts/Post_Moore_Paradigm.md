@@ -1,3 +1,10 @@
+---
+title: "Post_Moore_Paradigm"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Post_Moore_Paradigm
 
 **Domain**: Cross

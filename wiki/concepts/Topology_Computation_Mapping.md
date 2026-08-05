@@ -1,3 +1,10 @@
+---
+title: "Topology_Computation_Mapping"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Topology_Computation_Mapping
 
 **Domain**: TCC

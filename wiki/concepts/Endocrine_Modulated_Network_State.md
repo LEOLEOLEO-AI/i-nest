@@ -1,3 +1,10 @@
+---
+title: "Endocrine_Modulated_Network_State"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Endocrine_Modulated_Network_State
 
 **Domain**: iNEST

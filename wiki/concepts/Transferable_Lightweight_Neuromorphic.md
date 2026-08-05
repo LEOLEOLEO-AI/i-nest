@@ -1,3 +1,10 @@
+---
+title: "Transferable_Lightweight_Neuromorphic"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Transferable_Lightweight_Neuromorphic
 
 **Domain**: iNEST

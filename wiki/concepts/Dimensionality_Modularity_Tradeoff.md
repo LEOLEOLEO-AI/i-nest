@@ -1,3 +1,10 @@
+---
+title: "Dimensionality_Modularity_Tradeoff"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Dimensionality_Modularity_Tradeoff
 
 **Domain**: Cross

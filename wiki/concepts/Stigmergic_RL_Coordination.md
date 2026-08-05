@@ -1,3 +1,10 @@
+---
+title: "Stigmergic_RL_Coordination"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Stigmergic_RL_Coordination
 
 **Domain**: Cross

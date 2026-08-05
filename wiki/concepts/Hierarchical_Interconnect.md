@@ -1,3 +1,10 @@
+---
+title: "Hierarchical_Interconnect"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Hierarchical_Interconnect
 
 **Domain**: TCC

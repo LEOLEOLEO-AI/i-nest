@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_DARPA_水晶宫计划_深度研究报告_塑造下一代军用微系统材料变革"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_DARPA_水晶宫计划_深度研究报告_塑造下一代军用微系统材料变革
 
 **Domain**: Cross

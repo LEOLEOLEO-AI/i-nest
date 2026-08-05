@@ -1,3 +1,10 @@
+---
+title: "InNetwork_Plasticity"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # InNetwork_Plasticity
 
 **Domain**: Cross

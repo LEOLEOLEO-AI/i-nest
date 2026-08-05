@@ -1,3 +1,10 @@
+---
+title: "GradientFreeTraining"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # GradientFreeTraining
 
 **Domain**: Cross

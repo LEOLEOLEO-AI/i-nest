@@ -1,3 +1,10 @@
+---
+title: "Foundation_Neural_Network_Quantum_States"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Foundation_Neural_Network_Quantum_States
 
 **Domain**: Cross

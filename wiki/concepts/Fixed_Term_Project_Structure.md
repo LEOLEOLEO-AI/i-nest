@@ -1,3 +1,10 @@
+---
+title: "Fixed_Term_Project_Structure"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Fixed_Term_Project_Structure
 
 **Domain**: Cross

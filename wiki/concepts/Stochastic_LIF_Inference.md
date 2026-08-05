@@ -1,3 +1,10 @@
+---
+title: "Stochastic_LIF_Inference"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Stochastic_LIF_Inference
 
 **Domain**: iNEST

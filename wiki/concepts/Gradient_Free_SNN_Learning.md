@@ -1,3 +1,10 @@
+---
+title: "Gradient_Free_SNN_Learning"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Gradient_Free_SNN_Learning
 
 **Domain**: iNEST

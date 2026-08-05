@@ -1,3 +1,10 @@
+---
+title: "Microelectronics_Supply_Chain_Sovereignty"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Microelectronics_Supply_Chain_Sovereignty
 
 **Domain**: Cross

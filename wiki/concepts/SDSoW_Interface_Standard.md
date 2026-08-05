@@ -1,3 +1,10 @@
+---
+title: "SDSoW_Interface_Standard"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # SDSoW_Interface_Standard
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "DefectAware_CompactModel"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # DefectAware_CompactModel
 
 **Domain**: iNEST

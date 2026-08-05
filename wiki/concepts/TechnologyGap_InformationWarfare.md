@@ -1,3 +1,10 @@
+---
+title: "TechnologyGap_InformationWarfare"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # TechnologyGap_InformationWarfare
 
 **Domain**: Cross

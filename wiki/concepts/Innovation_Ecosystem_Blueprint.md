@@ -1,3 +1,10 @@
+---
+title: "Innovation_Ecosystem_Blueprint"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Innovation_Ecosystem_Blueprint
 
 **Domain**: TCC

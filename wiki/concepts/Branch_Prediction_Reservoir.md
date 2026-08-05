@@ -1,3 +1,10 @@
+---
+title: "Branch_Prediction_Reservoir"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Branch_Prediction_Reservoir
 
 **Domain**: TCC

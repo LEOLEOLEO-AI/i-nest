@@ -1,3 +1,10 @@
+---
+title: "Evolutionary_Overfitting_Avoidance"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Evolutionary_Overfitting_Avoidance
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Dendritic_Compartmentalization"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Dendritic_Compartmentalization
 
 **Domain**: Cross

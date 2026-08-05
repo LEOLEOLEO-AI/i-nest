@@ -1,3 +1,10 @@
+---
+title: "Systemic_Innovation_Mechanism"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Systemic_Innovation_Mechanism
 
 **Domain**: Cross

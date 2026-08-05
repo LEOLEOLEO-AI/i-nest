@@ -1,3 +1,10 @@
+---
+title: "Free_Energy_Synchronization"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Free_Energy_Synchronization
 
 **Domain**: Cross

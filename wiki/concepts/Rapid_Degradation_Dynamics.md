@@ -1,3 +1,10 @@
+---
+title: "Rapid_Degradation_Dynamics"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Rapid_Degradation_Dynamics
 
 **Domain**: iNEST

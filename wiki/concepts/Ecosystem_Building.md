@@ -1,3 +1,10 @@
+---
+title: "Ecosystem_Building"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Ecosystem_Building
 
 **Domain**: Cross

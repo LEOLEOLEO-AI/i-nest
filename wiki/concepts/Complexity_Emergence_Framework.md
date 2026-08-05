@@ -1,3 +1,10 @@
+---
+title: "Complexity_Emergence_Framework"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Complexity_Emergence_Framework
 
 **Domain**: Cross

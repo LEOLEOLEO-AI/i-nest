@@ -1,3 +1,10 @@
+---
+title: "Metabolic_Neural_Feedback_Loop"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Metabolic_Neural_Feedback_Loop
 
 **Domain**: Cross

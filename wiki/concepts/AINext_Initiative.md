@@ -1,3 +1,10 @@
+---
+title: "AINext_Initiative"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # AINext_Initiative
 
 **Domain**: Cross

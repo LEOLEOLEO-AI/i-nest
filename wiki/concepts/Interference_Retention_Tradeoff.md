@@ -1,3 +1,10 @@
+---
+title: "Interference_Retention_Tradeoff"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Interference_Retention_Tradeoff
 
 **Domain**: iNEST

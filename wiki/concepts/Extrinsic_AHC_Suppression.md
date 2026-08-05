@@ -1,3 +1,10 @@
+---
+title: "Extrinsic_AHC_Suppression"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Extrinsic_AHC_Suppression
 
 **Domain**: Cross

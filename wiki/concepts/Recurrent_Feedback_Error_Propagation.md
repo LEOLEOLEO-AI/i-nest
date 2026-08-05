@@ -1,3 +1,10 @@
+---
+title: "Recurrent_Feedback_Error_Propagation"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Recurrent_Feedback_Error_Propagation
 
 **Domain**: TCC

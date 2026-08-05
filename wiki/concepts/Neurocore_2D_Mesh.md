@@ -1,3 +1,10 @@
+---
+title: "Neurocore_2D_Mesh"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Neurocore_2D_Mesh
 
 **Domain**: TCC

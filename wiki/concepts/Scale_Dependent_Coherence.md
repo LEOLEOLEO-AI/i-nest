@@ -1,3 +1,10 @@
+---
+title: "Scale_Dependent_Coherence"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Scale_Dependent_Coherence
 
 **Domain**: iNEST

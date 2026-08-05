@@ -1,3 +1,10 @@
+---
+title: "SNNBenchmarkSuite"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # SNNBenchmarkSuite
 
 **Domain**: iNEST

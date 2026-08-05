@@ -1,3 +1,10 @@
+---
+title: "2026-07-23_远程Agent全流程实操指南：Codex+UU远程实现多设备无负担协同"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-23_远程Agent全流程实操指南：Codex+UU远程实现多设备无负担协同
 
 **Domain**: iNEST

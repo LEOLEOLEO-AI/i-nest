@@ -1,3 +1,10 @@
+---
+title: "Topology_Aware_Classification"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Topology_Aware_Classification
 
 **Domain**: Cross

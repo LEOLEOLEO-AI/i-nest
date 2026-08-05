@@ -1,3 +1,10 @@
+---
+title: "Many_to_Many_Pickup_Delivery"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Many_to_Many_Pickup_Delivery
 
 **Domain**: Cross

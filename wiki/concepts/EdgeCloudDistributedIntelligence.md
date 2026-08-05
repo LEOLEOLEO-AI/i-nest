@@ -1,3 +1,10 @@
+---
+title: "EdgeCloudDistributedIntelligence"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # EdgeCloudDistributedIntelligence
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Quantum_Feature_Map"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Quantum_Feature_Map
 
 **Domain**: Cross

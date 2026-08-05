@@ -1,3 +1,10 @@
+---
+title: "Branch_Prediction"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Branch_Prediction
 
 **Domain**: TCC

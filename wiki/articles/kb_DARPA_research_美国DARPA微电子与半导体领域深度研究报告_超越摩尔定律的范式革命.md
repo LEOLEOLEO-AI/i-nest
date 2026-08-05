@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_美国DARPA微电子与半导体领域深度研究报告_超越摩尔定律的范式革命"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_美国DARPA微电子与半导体领域深度研究报告_超越摩尔定律的范式革命
 
 **Domain**: TCC

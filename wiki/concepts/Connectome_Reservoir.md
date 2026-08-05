@@ -1,3 +1,10 @@
+---
+title: "Connectome_Reservoir"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Connectome_Reservoir
 
 **Domain**: iNEST

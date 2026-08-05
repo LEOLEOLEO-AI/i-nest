@@ -1,3 +1,10 @@
+---
+title: "Network_Laplacian_Dynamics"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Network_Laplacian_Dynamics
 
 **Domain**: Cross

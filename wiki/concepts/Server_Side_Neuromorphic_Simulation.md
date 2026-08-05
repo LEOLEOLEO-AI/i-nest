@@ -1,3 +1,10 @@
+---
+title: "Server_Side_Neuromorphic_Simulation"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Server_Side_Neuromorphic_Simulation
 
 **Domain**: iNEST

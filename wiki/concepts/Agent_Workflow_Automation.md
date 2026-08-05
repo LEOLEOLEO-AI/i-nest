@@ -1,3 +1,10 @@
+---
+title: "Agent_Workflow_Automation"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Agent_Workflow_Automation
 
 **Domain**: iNEST

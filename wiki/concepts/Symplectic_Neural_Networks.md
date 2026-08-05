@@ -1,3 +1,10 @@
+---
+title: "Symplectic_Neural_Networks"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Symplectic_Neural_Networks
 
 **Domain**: iNEST

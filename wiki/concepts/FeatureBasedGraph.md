@@ -1,3 +1,10 @@
+---
+title: "FeatureBasedGraph"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # FeatureBasedGraph
 
 **Domain**: Cross

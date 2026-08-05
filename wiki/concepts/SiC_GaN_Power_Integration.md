@@ -1,3 +1,10 @@
+---
+title: "SiC_GaN_Power_Integration"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SiC_GaN_Power_Integration
 
 **Domain**: Cross

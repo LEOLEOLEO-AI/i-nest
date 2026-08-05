@@ -1,3 +1,10 @@
+---
+title: "Battery_Aware_Scheduling"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Battery_Aware_Scheduling
 
 **Domain**: Cross

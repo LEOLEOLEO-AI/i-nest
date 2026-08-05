@@ -1,3 +1,10 @@
+---
+title: "Differential_Readout_Scheme"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Differential_Readout_Scheme
 
 **Domain**: iNEST

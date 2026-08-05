@@ -329,7 +329,15 @@ def write_concept(concept_data):
         concept_path.write_text(existing, encoding='utf-8')
         return concept_path
     
-    content = f"""# {name}
+    content = f"""---
+title: "{name}"
+type: concept
+domain: {concept_data["domain"]}
+created: {TODAY}
+auto: true
+---
+
+# {name}
 
 **Domain**: {concept_data["domain"]}
 **First mentioned**: auto-extracted

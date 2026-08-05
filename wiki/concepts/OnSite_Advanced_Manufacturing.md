@@ -1,3 +1,10 @@
+---
+title: "OnSite_Advanced_Manufacturing"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # OnSite_Advanced_Manufacturing
 
 **Domain**: Cross

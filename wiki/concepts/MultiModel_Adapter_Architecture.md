@@ -1,3 +1,10 @@
+---
+title: "MultiModel_Adapter_Architecture"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # MultiModel_Adapter_Architecture
 
 **Domain**: iNEST

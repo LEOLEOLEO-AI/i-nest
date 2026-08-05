@@ -1,3 +1,10 @@
+---
+title: "2026-07-23_OpenCodex架构升级：实现Fable 5、Kimi K3、Grok 4.5多模型接入方案"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-23_OpenCodex架构升级：实现Fable 5、Kimi K3、Grok 4.5多模型接入方案
 
 **Domain**: iNEST

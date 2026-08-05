@@ -1,3 +1,10 @@
+---
+title: "2026-07-19_arXiv_Dissipative phase transitions and chaos in two-photon driven"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-07-19_arXiv_Dissipative phase transitions and chaos in two-photon driven
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Relapse_Resilient_Interconnect"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Relapse_Resilient_Interconnect
 
 **Domain**: TCC

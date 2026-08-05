@@ -1,3 +1,10 @@
+---
+title: "Distributed_Intelligent_Manufacturing"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Distributed_Intelligent_Manufacturing
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "PHYPowerTimingCoOptimization"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # PHYPowerTimingCoOptimization
 
 **Domain**: Cross

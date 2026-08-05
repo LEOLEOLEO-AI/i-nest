@@ -1,3 +1,10 @@
+---
+title: "RecursiveSelfReferentialArchitecture"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # RecursiveSelfReferentialArchitecture
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "(Nat._Commun._综述)___基于忆阻器的人工神经网络硬件实现_(第二期)"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # (Nat._Commun._综述)___基于忆阻器的人工神经网络硬件实现_(第二期)
 
 **Domain**: Cross

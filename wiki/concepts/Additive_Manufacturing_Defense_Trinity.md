@@ -1,3 +1,10 @@
+---
+title: "Additive_Manufacturing_Defense_Trinity"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Additive_Manufacturing_Defense_Trinity
 
 **Domain**: Cross

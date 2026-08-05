@@ -1,3 +1,10 @@
+---
+title: "CollectiveStateTopology"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # CollectiveStateTopology
 
 **Domain**: TCC

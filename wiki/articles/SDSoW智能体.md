@@ -1,3 +1,10 @@
+---
+title: "SDSoW智能体"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # SDSoW智能体
 
 **Domain**: Cross

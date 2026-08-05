@@ -1,3 +1,10 @@
+---
+title: "Readout_Layer_Training"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Readout_Layer_Training
 
 **Domain**: TCC

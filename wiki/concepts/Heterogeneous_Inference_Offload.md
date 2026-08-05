@@ -1,3 +1,10 @@
+---
+title: "Heterogeneous_Inference_Offload"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Heterogeneous_Inference_Offload
 
 **Domain**: TCC

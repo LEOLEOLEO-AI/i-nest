@@ -1,3 +1,10 @@
+---
+title: "Scale_Free_Hierarchy"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Scale_Free_Hierarchy
 
 **Domain**: Cross

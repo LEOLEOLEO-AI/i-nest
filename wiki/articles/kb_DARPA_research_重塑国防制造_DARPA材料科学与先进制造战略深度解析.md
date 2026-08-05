@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_重塑国防制造_DARPA材料科学与先进制造战略深度解析"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_重塑国防制造_DARPA材料科学与先进制造战略深度解析
 
 **Domain**: iNEST

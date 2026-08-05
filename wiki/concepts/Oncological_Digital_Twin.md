@@ -1,3 +1,10 @@
+---
+title: "Oncological_Digital_Twin"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Oncological_Digital_Twin
 
 **Domain**: Cross

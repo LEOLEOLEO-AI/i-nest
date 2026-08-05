@@ -1,3 +1,10 @@
+---
+title: "BioInspired_Interception_Control"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # BioInspired_Interception_Control
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Neural_Avalanche_Dynamics"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Neural_Avalanche_Dynamics
 
 **Domain**: Cross

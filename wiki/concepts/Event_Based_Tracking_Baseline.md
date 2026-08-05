@@ -1,3 +1,10 @@
+---
+title: "Event_Based_Tracking_Baseline"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Event_Based_Tracking_Baseline
 
 **Domain**: iNEST

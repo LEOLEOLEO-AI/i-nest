@@ -1,3 +1,10 @@
+---
+title: "Heterogeneous_Model_Coexistence"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Heterogeneous_Model_Coexistence
 
 **Domain**: iNEST

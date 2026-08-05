@@ -1,3 +1,10 @@
+---
+title: "iNEST_Interconnect_Neuromorphic_Topology"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # iNEST_Interconnect_Neuromorphic_Topology
 
 **Domain**: iNEST

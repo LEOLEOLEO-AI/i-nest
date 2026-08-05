@@ -1,3 +1,10 @@
+---
+title: "Event_Driven_Architecture"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Event_Driven_Architecture
 
 **Domain**: Cross

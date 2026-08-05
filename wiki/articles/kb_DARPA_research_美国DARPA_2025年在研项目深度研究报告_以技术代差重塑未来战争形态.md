@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态
 
 **Domain**: Cross

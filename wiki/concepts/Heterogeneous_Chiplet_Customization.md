@@ -1,3 +1,10 @@
+---
+title: "Heterogeneous_Chiplet_Customization"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Heterogeneous_Chiplet_Customization
 
 **Domain**: TCC

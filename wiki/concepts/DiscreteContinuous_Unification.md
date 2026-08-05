@@ -1,3 +1,10 @@
+---
+title: "DiscreteContinuous_Unification"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # DiscreteContinuous_Unification
 
 **Domain**: Cross

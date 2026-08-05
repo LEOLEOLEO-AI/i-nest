@@ -1,3 +1,10 @@
+---
+title: "Soldier_Augmentation_BioCyber_Interface"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Soldier_Augmentation_BioCyber_Interface
 
 **Domain**: iNEST

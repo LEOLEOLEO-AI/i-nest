@@ -1,3 +1,10 @@
+---
+title: "FPGASNNMemoryOptimization"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # FPGASNNMemoryOptimization
 
 **Domain**: iNEST

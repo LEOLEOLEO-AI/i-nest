@@ -1,3 +1,10 @@
+---
+title: "FlagScale_Training_Inference"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # FlagScale_Training_Inference
 
 **Domain**: TCC

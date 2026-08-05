@@ -1,3 +1,10 @@
+---
+title: "ScalingExponents"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ScalingExponents
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "SIS_Model"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SIS_Model
 
 **Domain**: Cross

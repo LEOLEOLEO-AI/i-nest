@@ -1,3 +1,10 @@
+---
+title: "Emergent_Intelligence_Roadmap"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Emergent_Intelligence_Roadmap
 
 **Domain**: Cross

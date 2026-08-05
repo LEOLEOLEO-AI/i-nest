@@ -1,3 +1,10 @@
+---
+title: "Technology_Innovation_Carrier"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Technology_Innovation_Carrier
 
 **Domain**: TCC

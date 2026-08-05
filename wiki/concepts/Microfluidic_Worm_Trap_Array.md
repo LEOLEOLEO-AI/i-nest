@@ -1,3 +1,10 @@
+---
+title: "Microfluidic_Worm_Trap_Array"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Microfluidic_Worm_Trap_Array
 
 **Domain**: iNEST

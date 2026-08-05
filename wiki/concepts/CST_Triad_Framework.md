@@ -1,3 +1,10 @@
+---
+title: "CST_Triad_Framework"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CST_Triad_Framework
 
 **Domain**: Cross

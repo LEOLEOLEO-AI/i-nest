@@ -1,3 +1,10 @@
+---
+title: "CircuitTopologyFitnessLandscape"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # CircuitTopologyFitnessLandscape
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "Biodefense_Threat_Detection_Network"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Biodefense_Threat_Detection_Network
 
 **Domain**: iNEST

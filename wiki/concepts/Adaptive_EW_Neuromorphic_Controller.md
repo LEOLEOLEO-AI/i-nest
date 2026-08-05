@@ -1,3 +1,10 @@
+---
+title: "Adaptive_EW_Neuromorphic_Controller"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Adaptive_EW_Neuromorphic_Controller
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Air_Combat_Autonomy"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Air_Combat_Autonomy
 
 **Domain**: iNEST

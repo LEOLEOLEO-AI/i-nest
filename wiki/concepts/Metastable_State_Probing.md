@@ -1,3 +1,10 @@
+---
+title: "Metastable_State_Probing"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Metastable_State_Probing
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "RecurrentSpikingTopology"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # RecurrentSpikingTopology
 
 **Domain**: Cross

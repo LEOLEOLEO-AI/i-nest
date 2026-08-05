@@ -1,3 +1,10 @@
+---
+title: "OODA_Loop_Breaking"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # OODA_Loop_Breaking
 
 **Domain**: Cross

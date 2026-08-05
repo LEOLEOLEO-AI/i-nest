@@ -1,3 +1,10 @@
+---
+title: "Emergent_Abilities"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Emergent_Abilities
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "2026-03-11_Universal Scaling Laws for Intelligence Emergence from Devic"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-03-11_Universal Scaling Laws for Intelligence Emergence from Devic
 
 **Domain**: Cross

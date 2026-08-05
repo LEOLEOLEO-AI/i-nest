@@ -1,3 +1,10 @@
+---
+title: "Capability_Forging_Pipeline"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Capability_Forging_Pipeline
 
 **Domain**: TCC

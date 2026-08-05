@@ -1,3 +1,10 @@
+---
+title: "TestTimeAdaptation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # TestTimeAdaptation
 
 **Domain**: Cross

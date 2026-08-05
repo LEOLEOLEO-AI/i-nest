@@ -1,3 +1,10 @@
+---
+title: "SpikeEventScheduling"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # SpikeEventScheduling
 
 **Domain**: iNEST

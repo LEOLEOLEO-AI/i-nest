@@ -1,3 +1,10 @@
+---
+title: "ClassicalQuantumQueryBenchmark"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ClassicalQuantumQueryBenchmark
 
 **Domain**: Cross

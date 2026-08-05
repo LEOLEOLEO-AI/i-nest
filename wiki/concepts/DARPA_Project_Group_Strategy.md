@@ -1,3 +1,10 @@
+---
+title: "DARPA_Project_Group_Strategy"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # DARPA_Project_Group_Strategy
 
 **Domain**: Cross

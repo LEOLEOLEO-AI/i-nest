@@ -1,3 +1,10 @@
+---
+title: "DataMovementMinimization"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # DataMovementMinimization
 
 **Domain**: TCC

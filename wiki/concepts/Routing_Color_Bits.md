@@ -1,3 +1,10 @@
+---
+title: "Routing_Color_Bits"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Routing_Color_Bits
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "Network_Motif_Spectral_Analysis"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Network_Motif_Spectral_Analysis
 
 **Domain**: TCC

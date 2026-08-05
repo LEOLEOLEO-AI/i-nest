@@ -1,3 +1,10 @@
+---
+title: "AttentionLikeHebbianPlasticity"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # AttentionLikeHebbianPlasticity
 
 **Domain**: Cross

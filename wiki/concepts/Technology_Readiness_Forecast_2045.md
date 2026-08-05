@@ -1,3 +1,10 @@
+---
+title: "Technology_Readiness_Forecast_2045"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Technology_Readiness_Forecast_2045
 
 **Domain**: iNEST

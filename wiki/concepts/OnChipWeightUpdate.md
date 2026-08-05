@@ -1,3 +1,10 @@
+---
+title: "OnChipWeightUpdate"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # OnChipWeightUpdate
 
 **Domain**: iNEST

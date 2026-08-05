@@ -1,3 +1,10 @@
+---
+title: "FPGA_Accelerated_SNN"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # FPGA_Accelerated_SNN
 
 **Domain**: iNEST

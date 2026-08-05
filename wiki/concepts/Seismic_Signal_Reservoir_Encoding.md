@@ -1,3 +1,10 @@
+---
+title: "Seismic_Signal_Reservoir_Encoding"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Seismic_Signal_Reservoir_Encoding
 
 **Domain**: iNEST

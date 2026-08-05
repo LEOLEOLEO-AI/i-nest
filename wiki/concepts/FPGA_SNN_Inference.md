@@ -1,3 +1,10 @@
+---
+title: "FPGA_SNN_Inference"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # FPGA_SNN_Inference
 
 **Domain**: iNEST

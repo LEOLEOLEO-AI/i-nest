@@ -1,3 +1,10 @@
+---
+title: "Persistent_Langevin_Dynamics"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Persistent_Langevin_Dynamics
 
 **Domain**: iNEST

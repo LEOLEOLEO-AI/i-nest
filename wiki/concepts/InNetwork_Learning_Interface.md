@@ -1,3 +1,10 @@
+---
+title: "InNetwork_Learning_Interface"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # InNetwork_Learning_Interface
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Advanced_Packaging"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Advanced_Packaging
 
 **Domain**: TCC

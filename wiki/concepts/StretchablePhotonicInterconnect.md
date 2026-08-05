@@ -1,3 +1,10 @@
+---
+title: "StretchablePhotonicInterconnect"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # StretchablePhotonicInterconnect
 
 **Domain**: TCC

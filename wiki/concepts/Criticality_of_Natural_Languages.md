@@ -1,3 +1,10 @@
+---
+title: "Criticality_of_Natural_Languages"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Criticality_of_Natural_Languages
 
 **Domain**: Cross

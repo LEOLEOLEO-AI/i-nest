@@ -1,3 +1,10 @@
+---
+title: "Hardware_Software_CoDesign"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Hardware_Software_CoDesign
 
 **Domain**: Cross

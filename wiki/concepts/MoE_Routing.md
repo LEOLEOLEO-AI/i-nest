@@ -1,3 +1,10 @@
+---
+title: "MoE_Routing"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # MoE_Routing
 
 **Domain**: TCC

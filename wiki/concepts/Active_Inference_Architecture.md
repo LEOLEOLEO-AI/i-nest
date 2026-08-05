@@ -1,3 +1,10 @@
+---
+title: "Active_Inference_Architecture"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Active_Inference_Architecture
 
 **Domain**: iNEST

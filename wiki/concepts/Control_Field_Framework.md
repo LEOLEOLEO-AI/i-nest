@@ -1,3 +1,10 @@
+---
+title: "Control_Field_Framework"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Control_Field_Framework
 
 **Domain**: Cross

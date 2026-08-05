@@ -1,3 +1,10 @@
+---
+title: "Local_Micromechanics"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Local_Micromechanics
 
 **Domain**: Cross

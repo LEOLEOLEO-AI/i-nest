@@ -1,3 +1,10 @@
+---
+title: "Multimodal_Network_SDI"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Multimodal_Network_SDI
 
 **Domain**: TCC

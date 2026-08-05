@@ -1,3 +1,10 @@
+---
+title: "Criticality_Feature_Encoding"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Criticality_Feature_Encoding
 
 **Domain**: TCC

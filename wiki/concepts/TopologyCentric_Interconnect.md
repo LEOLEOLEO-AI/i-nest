@@ -1,3 +1,10 @@
+---
+title: "TopologyCentric_Interconnect"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # TopologyCentric_Interconnect
 
 **Domain**: TCC

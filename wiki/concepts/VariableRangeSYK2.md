@@ -1,3 +1,10 @@
+---
+title: "VariableRangeSYK2"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # VariableRangeSYK2
 
 **Domain**: Cross

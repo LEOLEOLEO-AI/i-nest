@@ -1,3 +1,10 @@
+---
+title: "2026-07-25_arXiv_Perspective Latents as an Architectural Condition for Causal"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-07-25_arXiv_Perspective Latents as an Architectural Condition for Causal
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_DARPA重塑未来战争形态_空天_太空与高超音速领域战略布局深度分析"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_DARPA重塑未来战争形态_空天_太空与高超音速领域战略布局深度分析
 
 **Domain**: Cross

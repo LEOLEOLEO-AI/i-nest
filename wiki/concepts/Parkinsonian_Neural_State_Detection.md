@@ -1,3 +1,10 @@
+---
+title: "Parkinsonian_Neural_State_Detection"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Parkinsonian_Neural_State_Detection
 
 **Domain**: Cross

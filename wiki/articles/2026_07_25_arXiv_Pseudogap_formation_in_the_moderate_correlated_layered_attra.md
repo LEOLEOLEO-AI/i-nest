@@ -1,3 +1,10 @@
+---
+title: "2026-07-25_arXiv_Pseudogap formation in the moderate correlated layered attra"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-07-25_arXiv_Pseudogap formation in the moderate correlated layered attra
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Neuromorphic_Chiplet"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Neuromorphic_Chiplet
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Multicritical_Scaling"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Multicritical_Scaling
 
 **Domain**: TCC

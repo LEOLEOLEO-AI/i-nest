@@ -1,3 +1,10 @@
+---
+title: "SDSoW_Physical_Base"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # SDSoW_Physical_Base
 
 **Domain**: TCC

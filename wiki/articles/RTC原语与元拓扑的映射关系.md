@@ -1,3 +1,10 @@
+---
+title: "RTC原语与元拓扑的映射关系"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # RTC原语与元拓扑的映射关系
 
 **Domain**: TCC

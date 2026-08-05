@@ -1,3 +1,10 @@
+---
+title: "Biomanufacturing_Control_Loop"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Biomanufacturing_Control_Loop
 
 **Domain**: iNEST

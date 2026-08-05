@@ -1,3 +1,10 @@
+---
+title: "Packaging_Aware_NoC_Design"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Packaging_Aware_NoC_Design
 
 **Domain**: TCC

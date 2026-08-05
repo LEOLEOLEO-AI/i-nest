@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_第三代半导体深度研报_AI_6G_人形机器人与低空科技的关键变量技术"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_第三代半导体深度研报_AI_6G_人形机器人与低空科技的关键变量技术
 
 **Domain**: TCC

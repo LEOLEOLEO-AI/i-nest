@@ -1,3 +1,10 @@
+---
+title: "Intelligent_Emergence_Computing"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Intelligent_Emergence_Computing
 
 **Domain**: iNEST

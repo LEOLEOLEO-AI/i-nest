@@ -1,3 +1,10 @@
+---
+title: "Strategic_Surprise_Prevention"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Strategic_Surprise_Prevention
 
 **Domain**: Cross

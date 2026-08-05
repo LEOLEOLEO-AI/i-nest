@@ -1,3 +1,10 @@
+---
+title: "Unsupervised_Hebbian_Net"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Unsupervised_Hebbian_Net
 
 **Domain**: iNEST

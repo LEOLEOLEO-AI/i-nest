@@ -1,3 +1,10 @@
+---
+title: "Manifold_Embedding_Layer"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Manifold_Embedding_Layer
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Model_Routing_Protocol"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Model_Routing_Protocol
 
 **Domain**: iNEST

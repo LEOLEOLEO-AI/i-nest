@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_美欧Chiplet技术发展深度研究_从战略布局到技术创新的全景分析
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "National_Planning_Driven_Research_Alignment"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # National_Planning_Driven_Research_Alignment
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "ConfigurableSNNInference"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # ConfigurableSNNInference
 
 **Domain**: iNEST

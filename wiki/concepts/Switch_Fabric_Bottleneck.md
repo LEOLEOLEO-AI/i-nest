@@ -1,3 +1,10 @@
+---
+title: "Switch_Fabric_Bottleneck"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Switch_Fabric_Bottleneck
 
 **Domain**: TCC

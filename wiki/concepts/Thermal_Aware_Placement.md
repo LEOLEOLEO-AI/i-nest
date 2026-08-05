@@ -1,3 +1,10 @@
+---
+title: "Thermal_Aware_Placement"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Thermal_Aware_Placement
 
 **Domain**: TCC

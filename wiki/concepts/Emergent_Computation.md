@@ -1,3 +1,10 @@
+---
+title: "Emergent_Computation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Emergent_Computation
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Resilient_Sensing_Comms_Network"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Resilient_Sensing_Comms_Network
 
 **Domain**: TCC

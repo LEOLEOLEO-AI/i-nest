@@ -1,3 +1,10 @@
+---
+title: "Photomicrograph_Topology_Extraction"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Photomicrograph_Topology_Extraction
 
 **Domain**: Cross

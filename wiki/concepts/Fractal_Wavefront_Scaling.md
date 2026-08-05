@@ -1,3 +1,10 @@
+---
+title: "Fractal_Wavefront_Scaling"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Fractal_Wavefront_Scaling
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Bursting_Neuron_Model"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Bursting_Neuron_Model
 
 **Domain**: iNEST

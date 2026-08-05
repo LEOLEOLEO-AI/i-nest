@@ -1,3 +1,10 @@
+---
+title: "Topological_Criticality"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Topological_Criticality
 
 **Domain**: Cross

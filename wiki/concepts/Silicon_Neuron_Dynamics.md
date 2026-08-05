@@ -1,3 +1,10 @@
+---
+title: "Silicon_Neuron_Dynamics"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Silicon_Neuron_Dynamics
 
 **Domain**: iNEST

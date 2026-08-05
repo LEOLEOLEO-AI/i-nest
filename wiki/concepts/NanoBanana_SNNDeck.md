@@ -1,3 +1,10 @@
+---
+title: "NanoBanana_SNNDeck"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # NanoBanana_SNNDeck
 
 **Domain**: iNEST

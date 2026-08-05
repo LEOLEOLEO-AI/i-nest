@@ -1,3 +1,10 @@
+---
+title: "TopologyNeural_Mapping"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # TopologyNeural_Mapping
 
 **Domain**: Cross

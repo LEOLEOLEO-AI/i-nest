@@ -1,3 +1,10 @@
+---
+title: "Cellular_vs_LEO_Satellite_Handoff"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Cellular_vs_LEO_Satellite_Handoff
 
 **Domain**: Cross

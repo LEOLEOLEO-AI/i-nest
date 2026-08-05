@@ -1,3 +1,10 @@
+---
+title: "Transformer 推理全流程：矩阵怎么算，网络就得怎么长"
+type: article-summary
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Transformer 推理全流程：矩阵怎么算，网络就得怎么长
 
 **Domain**: TCC

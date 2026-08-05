@@ -1,3 +1,10 @@
+---
+title: "Active_Inference_Agent"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Active_Inference_Agent
 
 **Domain**: Cross

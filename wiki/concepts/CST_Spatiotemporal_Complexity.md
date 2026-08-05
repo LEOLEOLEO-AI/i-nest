@@ -1,3 +1,10 @@
+---
+title: "CST_Spatiotemporal_Complexity"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CST_Spatiotemporal_Complexity
 
 **Domain**: Cross

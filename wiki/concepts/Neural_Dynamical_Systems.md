@@ -1,3 +1,10 @@
+---
+title: "Neural_Dynamical_Systems"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Neural_Dynamical_Systems
 
 **Domain**: iNEST

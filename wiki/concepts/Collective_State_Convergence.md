@@ -1,3 +1,10 @@
+---
+title: "Collective_State_Convergence"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Collective_State_Convergence
 
 **Domain**: Cross

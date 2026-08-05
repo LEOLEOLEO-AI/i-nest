@@ -1,3 +1,10 @@
+---
+title: "Photonic_Chiplet_Interconnect"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Photonic_Chiplet_Interconnect
 
 **Domain**: TCC

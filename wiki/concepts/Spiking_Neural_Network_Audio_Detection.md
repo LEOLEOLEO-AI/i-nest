@@ -1,3 +1,10 @@
+---
+title: "Spiking_Neural_Network_Audio_Detection"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Spiking_Neural_Network_Audio_Detection
 
 **Domain**: iNEST

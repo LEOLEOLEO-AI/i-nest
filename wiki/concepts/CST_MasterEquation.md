@@ -1,3 +1,10 @@
+---
+title: "CST_MasterEquation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CST_MasterEquation
 
 **Domain**: Cross

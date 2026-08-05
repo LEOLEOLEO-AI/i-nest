@@ -1,3 +1,10 @@
+---
+title: "GlauberDynamicsPhaseTransition"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # GlauberDynamicsPhaseTransition
 
 **Domain**: TCC

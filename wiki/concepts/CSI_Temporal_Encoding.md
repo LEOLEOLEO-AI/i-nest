@@ -1,3 +1,10 @@
+---
+title: "CSI_Temporal_Encoding"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CSI_Temporal_Encoding
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Loihi2_OnChip_Learning"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Loihi2_OnChip_Learning
 
 **Domain**: iNEST

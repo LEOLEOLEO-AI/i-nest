@@ -1,3 +1,10 @@
+---
+title: "In_Network_Neuromorphic_Compute"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # In_Network_Neuromorphic_Compute
 
 **Domain**: iNEST

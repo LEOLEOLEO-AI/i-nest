@@ -1,3 +1,10 @@
+---
+title: "iNEST arXiv 日报 — 2026-07-11"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # iNEST arXiv 日报 — 2026-07-11
 
 **Domain**: iNEST

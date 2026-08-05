@@ -1,3 +1,10 @@
+---
+title: "HigherOrder_Spectral_Features"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # HigherOrder_Spectral_Features
 
 **Domain**: Cross

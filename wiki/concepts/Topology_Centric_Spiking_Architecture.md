@@ -1,3 +1,10 @@
+---
+title: "Topology_Centric_Spiking_Architecture"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Topology_Centric_Spiking_Architecture
 
 **Domain**: TCC

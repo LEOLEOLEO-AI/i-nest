@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_美国军用无人系统技术_2010-2025_创新趋势与实战应用研究"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_美国军用无人系统技术_2010-2025_创新趋势与实战应用研究
 
 **Domain**: Cross

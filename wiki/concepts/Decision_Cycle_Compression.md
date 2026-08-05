@@ -1,3 +1,10 @@
+---
+title: "Decision_Cycle_Compression"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Decision_Cycle_Compression
 
 **Domain**: Cross

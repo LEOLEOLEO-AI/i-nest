@@ -1,3 +1,10 @@
+---
+title: "Advanced_Packaging_Route"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Advanced_Packaging_Route
 
 **Domain**: Cross

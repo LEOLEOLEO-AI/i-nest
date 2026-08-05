@@ -1,3 +1,10 @@
+---
+title: "Time_Delayed_Coupling"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Time_Delayed_Coupling
 
 **Domain**: TCC

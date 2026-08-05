@@ -1,3 +1,10 @@
+---
+title: "Criticality_Based_Biomarker"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Criticality_Based_Biomarker
 
 **Domain**: iNEST

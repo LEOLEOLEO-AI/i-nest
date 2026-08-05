@@ -1,3 +1,10 @@
+---
+title: "Normalization_WeightDecay_Coupling"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Normalization_WeightDecay_Coupling
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Topology_Time_Coupling"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Topology_Time_Coupling
 
 **Domain**: TCC

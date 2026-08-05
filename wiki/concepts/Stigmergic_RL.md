@@ -1,3 +1,10 @@
+---
+title: "Stigmergic_RL"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Stigmergic_RL
 
 **Domain**: Cross

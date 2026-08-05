@@ -1,3 +1,10 @@
+---
+title: "SynapticConnectivityAwarePlacement"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SynapticConnectivityAwarePlacement
 
 **Domain**: Cross

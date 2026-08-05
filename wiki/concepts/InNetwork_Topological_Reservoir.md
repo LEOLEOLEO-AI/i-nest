@@ -1,3 +1,10 @@
+---
+title: "InNetwork_Topological_Reservoir"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # InNetwork_Topological_Reservoir
 
 **Domain**: Cross

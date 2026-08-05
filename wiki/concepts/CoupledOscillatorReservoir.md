@@ -1,3 +1,10 @@
+---
+title: "CoupledOscillatorReservoir"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # CoupledOscillatorReservoir
 
 **Domain**: iNEST

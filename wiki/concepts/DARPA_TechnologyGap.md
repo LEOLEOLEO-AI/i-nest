@@ -1,3 +1,10 @@
+---
+title: "DARPA_TechnologyGap"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # DARPA_TechnologyGap
 
 **Domain**: Cross

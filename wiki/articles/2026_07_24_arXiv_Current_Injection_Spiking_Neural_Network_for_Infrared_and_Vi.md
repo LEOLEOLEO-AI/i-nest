@@ -1,3 +1,10 @@
+---
+title: "2026-07-24_arXiv_Current Injection Spiking Neural Network for Infrared and Vi"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-24_arXiv_Current Injection Spiking Neural Network for Infrared and Vi
 
 **Domain**: iNEST

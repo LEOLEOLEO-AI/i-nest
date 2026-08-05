@@ -1,3 +1,10 @@
+---
+title: "2026-07-20_NeuroTrain_fulltext_analysis"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-07-20_NeuroTrain_fulltext_analysis
 
 **Domain**: TCC

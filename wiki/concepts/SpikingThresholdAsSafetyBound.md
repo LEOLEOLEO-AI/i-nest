@@ -1,3 +1,10 @@
+---
+title: "SpikingThresholdAsSafetyBound"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # SpikingThresholdAsSafetyBound
 
 **Domain**: iNEST

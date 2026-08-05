@@ -1,3 +1,10 @@
+---
+title: "Reusable_Hypersonic_Platforms"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Reusable_Hypersonic_Platforms
 
 **Domain**: Cross

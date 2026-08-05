@@ -1,3 +1,10 @@
+---
+title: "InterFPGA_Spike_Routing"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # InterFPGA_Spike_Routing
 
 **Domain**: Cross

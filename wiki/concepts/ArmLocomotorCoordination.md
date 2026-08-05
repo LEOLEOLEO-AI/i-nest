@@ -1,3 +1,10 @@
+---
+title: "ArmLocomotorCoordination"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # ArmLocomotorCoordination
 
 **Domain**: iNEST

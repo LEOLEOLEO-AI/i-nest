@@ -1,3 +1,10 @@
+---
+title: "OpenSource_Hardware_Reuse"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # OpenSource_Hardware_Reuse
 
 **Domain**: Cross

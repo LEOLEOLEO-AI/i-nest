@@ -1,3 +1,10 @@
+---
+title: "国外大学生都用FPGA做什么项目（二十一）"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 国外大学生都用FPGA做什么项目（二十一）
 
 **Domain**: iNEST

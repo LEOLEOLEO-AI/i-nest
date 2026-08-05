@@ -1,3 +1,10 @@
+---
+title: "TileBasedRasterization"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # TileBasedRasterization
 
 **Domain**: Cross

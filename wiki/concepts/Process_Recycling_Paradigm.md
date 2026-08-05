@@ -1,3 +1,10 @@
+---
+title: "Process_Recycling_Paradigm"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Process_Recycling_Paradigm
 
 **Domain**: TCC

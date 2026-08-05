@@ -1,3 +1,10 @@
+---
+title: "PhaseAwareBisectionDemand"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # PhaseAwareBisectionDemand
 
 **Domain**: TCC

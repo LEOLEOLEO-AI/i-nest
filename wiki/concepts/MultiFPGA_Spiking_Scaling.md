@@ -1,3 +1,10 @@
+---
+title: "MultiFPGA_Spiking_Scaling"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # MultiFPGA_Spiking_Scaling
 
 **Domain**: iNEST

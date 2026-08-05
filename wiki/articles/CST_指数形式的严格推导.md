@@ -1,3 +1,10 @@
+---
+title: "CST 指数形式的严格推导"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # CST 指数形式的严格推导
 
 **Domain**: TCC

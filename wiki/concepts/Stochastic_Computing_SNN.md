@@ -1,3 +1,10 @@
+---
+title: "Stochastic_Computing_SNN"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Stochastic_Computing_SNN
 
 **Domain**: iNEST

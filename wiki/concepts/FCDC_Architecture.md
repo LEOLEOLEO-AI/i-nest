@@ -1,3 +1,10 @@
+---
+title: "FCDC_Architecture"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # FCDC_Architecture
 
 **Domain**: Cross

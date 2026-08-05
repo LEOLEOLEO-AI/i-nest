@@ -1,3 +1,10 @@
+---
+title: "ObjectDirectedPhenomenology"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ObjectDirectedPhenomenology
 
 **Domain**: Cross

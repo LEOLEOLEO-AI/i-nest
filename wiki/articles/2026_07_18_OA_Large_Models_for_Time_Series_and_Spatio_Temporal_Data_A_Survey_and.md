@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Large Models for Time Series and Spatio-Temporal Data A Survey and Outlook"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Large Models for Time Series and Spatio-Temporal Data A Survey and Outlook
 
 **Domain**: iNEST

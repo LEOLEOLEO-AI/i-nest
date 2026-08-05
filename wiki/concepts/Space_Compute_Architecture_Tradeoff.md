@@ -1,3 +1,10 @@
+---
+title: "Space_Compute_Architecture_Tradeoff"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Space_Compute_Architecture_Tradeoff
 
 **Domain**: TCC

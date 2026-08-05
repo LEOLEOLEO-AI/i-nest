@@ -1,3 +1,10 @@
+---
+title: "DirectConnect_Topology"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # DirectConnect_Topology
 
 **Domain**: TCC

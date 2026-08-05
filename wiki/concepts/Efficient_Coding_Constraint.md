@@ -1,3 +1,10 @@
+---
+title: "Efficient_Coding_Constraint"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Efficient_Coding_Constraint
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_IEEE异构集成技术全景报告_从HIR路线图到产业战略布局"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_IEEE异构集成技术全景报告_从HIR路线图到产业战略布局
 
 **Domain**: TCC

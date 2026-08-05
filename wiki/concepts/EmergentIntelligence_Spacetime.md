@@ -1,3 +1,10 @@
+---
+title: "EmergentIntelligence_Spacetime"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # EmergentIntelligence_Spacetime
 
 **Domain**: Cross

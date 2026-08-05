@@ -1,3 +1,10 @@
+---
+title: "Topological_Error_Pattern_Aware_Codec"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Topological_Error_Pattern_Aware_Codec
 
 **Domain**: TCC

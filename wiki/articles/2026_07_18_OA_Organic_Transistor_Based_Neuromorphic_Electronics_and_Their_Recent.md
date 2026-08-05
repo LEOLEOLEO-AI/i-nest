@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Organic Transistor‐Based Neuromorphic Electronics and Their Recent Applications"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Organic Transistor‐Based Neuromorphic Electronics and Their Recent Applications
 
 **Domain**: Cross

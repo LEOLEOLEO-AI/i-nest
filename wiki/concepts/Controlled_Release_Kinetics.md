@@ -1,3 +1,10 @@
+---
+title: "Controlled_Release_Kinetics"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Controlled_Release_Kinetics
 
 **Domain**: Cross

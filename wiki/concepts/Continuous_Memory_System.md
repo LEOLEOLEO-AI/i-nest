@@ -1,3 +1,10 @@
+---
+title: "Continuous_Memory_System"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Continuous_Memory_System
 
 **Domain**: iNEST

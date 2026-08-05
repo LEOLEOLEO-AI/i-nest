@@ -1,3 +1,10 @@
+---
+title: "Single_Layer_SNN_Architecture"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Single_Layer_SNN_Architecture
 
 **Domain**: iNEST

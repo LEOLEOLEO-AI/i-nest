@@ -1,3 +1,10 @@
+---
+title: "TemporalSpikeAssociation"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # TemporalSpikeAssociation
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Midterm_Project_Review"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Midterm_Project_Review
 
 **Domain**: TCC

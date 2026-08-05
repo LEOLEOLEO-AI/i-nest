@@ -1,3 +1,10 @@
+---
+title: "Cryo_CMOS_Compatible_Compressor"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Cryo_CMOS_Compatible_Compressor
 
 **Domain**: iNEST

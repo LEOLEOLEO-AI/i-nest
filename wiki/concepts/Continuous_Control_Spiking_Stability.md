@@ -1,3 +1,10 @@
+---
+title: "Continuous_Control_Spiking_Stability"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Continuous_Control_Spiking_Stability
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "2026-07-24_arXiv_MoX Efficient MoE Routing on Direct-Connect Topologies"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-07-24_arXiv_MoX Efficient MoE Routing on Direct-Connect Topologies
 
 **Domain**: TCC

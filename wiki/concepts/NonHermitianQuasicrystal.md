@@ -1,3 +1,10 @@
+---
+title: "NonHermitianQuasicrystal"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # NonHermitianQuasicrystal
 
 **Domain**: Cross

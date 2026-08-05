@@ -1,3 +1,10 @@
+---
+title: "InterLayer_Coupling_Strength"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # InterLayer_Coupling_Strength
 
 **Domain**: TCC

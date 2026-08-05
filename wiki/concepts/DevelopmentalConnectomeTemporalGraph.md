@@ -1,3 +1,10 @@
+---
+title: "DevelopmentalConnectomeTemporalGraph"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # DevelopmentalConnectomeTemporalGraph
 
 **Domain**: Cross

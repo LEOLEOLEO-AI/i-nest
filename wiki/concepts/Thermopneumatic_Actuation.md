@@ -1,3 +1,10 @@
+---
+title: "Thermopneumatic_Actuation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Thermopneumatic_Actuation
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Spike_Energy_Floor"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Spike_Energy_Floor
 
 **Domain**: iNEST

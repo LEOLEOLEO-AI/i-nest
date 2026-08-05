@@ -1,3 +1,10 @@
+---
+title: "Topology_Interconnect"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Topology_Interconnect
 
 **Domain**: Cross

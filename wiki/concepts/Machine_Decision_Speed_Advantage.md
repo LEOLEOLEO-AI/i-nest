@@ -1,3 +1,10 @@
+---
+title: "Machine_Decision_Speed_Advantage"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Machine_Decision_Speed_Advantage
 
 **Domain**: Cross

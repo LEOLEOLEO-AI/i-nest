@@ -1,3 +1,10 @@
+---
+title: "NuTot43Edge"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # NuTot43Edge
 
 **Domain**: TCC

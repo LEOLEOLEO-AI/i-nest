@@ -1,3 +1,10 @@
+---
+title: "Strategic_Balance_Shift"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Strategic_Balance_Shift
 
 **Domain**: Cross

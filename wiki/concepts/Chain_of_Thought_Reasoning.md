@@ -1,3 +1,10 @@
+---
+title: "Chain_of_Thought_Reasoning"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Chain_of_Thought_Reasoning
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "In_Memory_Computing"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # In_Memory_Computing
 
 **Domain**: Cross

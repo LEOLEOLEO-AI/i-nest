@@ -1,3 +1,10 @@
+---
+title: "Basic_Reproduction_Number_Multiplex"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Basic_Reproduction_Number_Multiplex
 
 **Domain**: Cross

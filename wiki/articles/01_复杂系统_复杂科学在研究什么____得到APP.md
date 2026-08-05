@@ -1,3 +1,10 @@
+---
+title: "01_复杂系统：复杂科学在研究什么？_-_得到APP"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 01_复杂系统：复杂科学在研究什么？_-_得到APP
 
 **Domain**: Cross

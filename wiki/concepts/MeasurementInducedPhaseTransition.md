@@ -1,3 +1,10 @@
+---
+title: "MeasurementInducedPhaseTransition"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # MeasurementInducedPhaseTransition
 
 **Domain**: iNEST

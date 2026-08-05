@@ -1,3 +1,10 @@
+---
+title: "Unverified_Performance_Prohibition"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Unverified_Performance_Prohibition
 
 **Domain**: TCC

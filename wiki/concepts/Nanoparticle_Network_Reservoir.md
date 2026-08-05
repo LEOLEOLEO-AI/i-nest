@@ -1,3 +1,10 @@
+---
+title: "Nanoparticle_Network_Reservoir"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Nanoparticle_Network_Reservoir
 
 **Domain**: iNEST

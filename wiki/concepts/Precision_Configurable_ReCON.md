@@ -1,3 +1,10 @@
+---
+title: "Precision_Configurable_ReCON"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Precision_Configurable_ReCON
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Unmanned_Intelligent_Combat_Forces"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Unmanned_Intelligent_Combat_Forces
 
 **Domain**: Cross

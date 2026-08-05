@@ -1,3 +1,10 @@
+---
+title: "Incremental_Indicator_Reduction"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Incremental_Indicator_Reduction
 
 **Domain**: TCC

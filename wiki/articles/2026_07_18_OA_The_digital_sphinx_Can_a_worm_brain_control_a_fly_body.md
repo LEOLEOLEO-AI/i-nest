@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_The digital sphinx Can a worm brain control a fly body"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_The digital sphinx Can a worm brain control a fly body
 
 **Domain**: iNEST

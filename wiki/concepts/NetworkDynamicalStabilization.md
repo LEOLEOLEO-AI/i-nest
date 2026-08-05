@@ -1,3 +1,10 @@
+---
+title: "NetworkDynamicalStabilization"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # NetworkDynamicalStabilization
 
 **Domain**: iNEST

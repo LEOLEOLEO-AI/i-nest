@@ -1,3 +1,10 @@
+---
+title: "SyncBrain对iNEST的价值_神经振荡同步与时空协同智能"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # SyncBrain对iNEST的价值_神经振荡同步与时空协同智能
 
 **Domain**: TCC

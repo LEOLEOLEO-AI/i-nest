@@ -1,3 +1,10 @@
+---
+title: "PhotonicReservoirComputing"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # PhotonicReservoirComputing
 
 **Domain**: Cross

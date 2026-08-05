@@ -1,3 +1,10 @@
+---
+title: "Emerging_CMOS_Memristor"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Emerging_CMOS_Memristor
 
 **Domain**: Cross

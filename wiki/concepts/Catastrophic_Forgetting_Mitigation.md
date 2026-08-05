@@ -1,3 +1,10 @@
+---
+title: "Catastrophic_Forgetting_Mitigation"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Catastrophic_Forgetting_Mitigation
 
 **Domain**: iNEST

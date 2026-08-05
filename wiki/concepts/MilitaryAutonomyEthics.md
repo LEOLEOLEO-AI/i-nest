@@ -1,3 +1,10 @@
+---
+title: "MilitaryAutonomyEthics"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # MilitaryAutonomyEthics
 
 **Domain**: Cross

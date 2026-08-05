@@ -1,3 +1,10 @@
+---
+title: "Entanglement_Phase_Transition"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Entanglement_Phase_Transition
 
 **Domain**: iNEST

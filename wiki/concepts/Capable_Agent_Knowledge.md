@@ -1,3 +1,10 @@
+---
+title: "Capable_Agent_Knowledge"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Capable_Agent_Knowledge
 
 **Domain**: Cross

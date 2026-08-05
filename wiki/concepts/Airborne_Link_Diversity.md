@@ -1,3 +1,10 @@
+---
+title: "Airborne_Link_Diversity"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Airborne_Link_Diversity
 
 **Domain**: Cross

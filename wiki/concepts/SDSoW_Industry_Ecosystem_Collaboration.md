@@ -1,3 +1,10 @@
+---
+title: "SDSoW_Industry_Ecosystem_Collaboration"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SDSoW_Industry_Ecosystem_Collaboration
 
 **Domain**: Cross

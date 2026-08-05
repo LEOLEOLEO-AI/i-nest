@@ -1,3 +1,10 @@
+---
+title: "Weight_Spectrum_Analysis"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Weight_Spectrum_Analysis
 
 **Domain**: Cross

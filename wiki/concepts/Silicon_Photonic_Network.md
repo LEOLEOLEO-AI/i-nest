@@ -1,3 +1,10 @@
+---
+title: "Silicon_Photonic_Network"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Silicon_Photonic_Network
 
 **Domain**: TCC

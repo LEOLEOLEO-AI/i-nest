@@ -1,3 +1,10 @@
+---
+title: "Metriplectic_Twin"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Metriplectic_Twin
 
 **Domain**: Cross

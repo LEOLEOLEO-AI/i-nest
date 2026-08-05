@@ -1,3 +1,10 @@
+---
+title: "Coupled_Oscillator_Network"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Coupled_Oscillator_Network
 
 **Domain**: iNEST

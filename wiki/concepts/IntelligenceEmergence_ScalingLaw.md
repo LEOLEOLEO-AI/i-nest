@@ -1,3 +1,10 @@
+---
+title: "IntelligenceEmergence_ScalingLaw"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # IntelligenceEmergence_ScalingLaw
 
 **Domain**: Cross

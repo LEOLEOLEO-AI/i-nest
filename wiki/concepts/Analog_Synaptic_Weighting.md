@@ -1,3 +1,10 @@
+---
+title: "Analog_Synaptic_Weighting"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Analog_Synaptic_Weighting
 
 **Domain**: Cross

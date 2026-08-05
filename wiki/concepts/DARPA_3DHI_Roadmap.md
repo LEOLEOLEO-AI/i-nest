@@ -1,3 +1,10 @@
+---
+title: "DARPA_3DHI_Roadmap"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # DARPA_3DHI_Roadmap
 
 **Domain**: Cross

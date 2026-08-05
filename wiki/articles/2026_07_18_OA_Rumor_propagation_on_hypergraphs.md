@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Rumor propagation on hypergraphs"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Rumor propagation on hypergraphs
 
 **Domain**: Cross

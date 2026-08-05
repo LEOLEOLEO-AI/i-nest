@@ -1,3 +1,10 @@
+---
+title: "Heterogeneous_Integration_Roadmap_HIR"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Heterogeneous_Integration_Roadmap_HIR
 
 **Domain**: Cross

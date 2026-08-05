@@ -1,3 +1,10 @@
+---
+title: "Homological_Reservoir"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Homological_Reservoir
 
 **Domain**: Cross

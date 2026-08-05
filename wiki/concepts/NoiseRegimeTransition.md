@@ -1,3 +1,10 @@
+---
+title: "NoiseRegimeTransition"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # NoiseRegimeTransition
 
 **Domain**: iNEST

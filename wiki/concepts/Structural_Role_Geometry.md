@@ -1,3 +1,10 @@
+---
+title: "Structural_Role_Geometry"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Structural_Role_Geometry
 
 **Domain**: TCC

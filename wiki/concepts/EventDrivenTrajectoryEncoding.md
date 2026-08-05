@@ -1,3 +1,10 @@
+---
+title: "EventDrivenTrajectoryEncoding"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # EventDrivenTrajectoryEncoding
 
 **Domain**: iNEST

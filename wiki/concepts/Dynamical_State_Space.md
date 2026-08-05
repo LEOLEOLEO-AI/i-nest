@@ -1,3 +1,10 @@
+---
+title: "Dynamical_State_Space"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Dynamical_State_Space
 
 **Domain**: iNEST

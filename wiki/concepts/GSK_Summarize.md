@@ -1,3 +1,10 @@
+---
+title: "GSK_Summarize"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # GSK_Summarize
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Reservoir_Computing_DP_Recycling"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Reservoir_Computing_DP_Recycling
 
 **Domain**: Cross

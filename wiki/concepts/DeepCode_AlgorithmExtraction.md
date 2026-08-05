@@ -1,3 +1,10 @@
+---
+title: "DeepCode_AlgorithmExtraction"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # DeepCode_AlgorithmExtraction
 
 **Domain**: iNEST

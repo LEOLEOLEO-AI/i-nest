@@ -1,3 +1,10 @@
+---
+title: "Spherical_Spin_Glass"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Spherical_Spin_Glass
 
 **Domain**: iNEST

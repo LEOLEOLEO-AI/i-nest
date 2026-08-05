@@ -1,3 +1,10 @@
+---
+title: "Variational_Spectral_Transitions"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Variational_Spectral_Transitions
 
 **Domain**: TCC

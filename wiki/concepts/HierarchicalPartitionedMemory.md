@@ -1,3 +1,10 @@
+---
+title: "HierarchicalPartitionedMemory"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # HierarchicalPartitionedMemory
 
 **Domain**: Cross

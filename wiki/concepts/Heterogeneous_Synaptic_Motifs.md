@@ -1,3 +1,10 @@
+---
+title: "Heterogeneous_Synaptic_Motifs"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Heterogeneous_Synaptic_Motifs
 
 **Domain**: Cross

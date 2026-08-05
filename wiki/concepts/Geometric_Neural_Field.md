@@ -1,3 +1,10 @@
+---
+title: "Geometric_Neural_Field"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Geometric_Neural_Field
 
 **Domain**: iNEST

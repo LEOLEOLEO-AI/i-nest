@@ -1,3 +1,10 @@
+---
+title: "External_to_OnDie_Evolution"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # External_to_OnDie_Evolution
 
 **Domain**: TCC

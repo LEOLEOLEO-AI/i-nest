@@ -1,3 +1,10 @@
+---
+title: "Radiation_Hardened_Compute"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Radiation_Hardened_Compute
 
 **Domain**: TCC

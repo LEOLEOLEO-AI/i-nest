@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Computation-efficient deep learning for computer vision A survey"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Computation-efficient deep learning for computer vision A survey
 
 **Domain**: Cross

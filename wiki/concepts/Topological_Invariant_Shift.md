@@ -1,3 +1,10 @@
+---
+title: "Topological_Invariant_Shift"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Topological_Invariant_Shift
 
 **Domain**: TCC

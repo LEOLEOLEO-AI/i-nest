@@ -1,3 +1,10 @@
+---
+title: "Phase_Spatial_Coupling"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Phase_Spatial_Coupling
 
 **Domain**: iNEST

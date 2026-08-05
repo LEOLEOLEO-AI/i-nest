@@ -1,3 +1,10 @@
+---
+title: "Microchip_Hailo_Integration"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Microchip_Hailo_Integration
 
 **Domain**: Cross

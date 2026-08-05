@@ -1,3 +1,10 @@
+---
+title: "TopologyAware_Neural_Mapping"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # TopologyAware_Neural_Mapping
 
 **Domain**: TCC

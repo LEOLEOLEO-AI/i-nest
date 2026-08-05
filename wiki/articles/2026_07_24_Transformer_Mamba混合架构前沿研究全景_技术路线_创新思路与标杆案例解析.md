@@ -1,3 +1,10 @@
+---
+title: "2026-07-24_Transformer-Mamba混合架构前沿研究全景：技术路线、创新思路与标杆案例解析"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-24_Transformer-Mamba混合架构前沿研究全景：技术路线、创新思路与标杆案例解析
 
 **Domain**: iNEST

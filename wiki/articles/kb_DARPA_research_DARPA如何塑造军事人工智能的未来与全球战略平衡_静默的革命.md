@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_DARPA如何塑造军事人工智能的未来与全球战略平衡_静默的革命"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_DARPA如何塑造军事人工智能的未来与全球战略平衡_静默的革命
 
 **Domain**: Cross

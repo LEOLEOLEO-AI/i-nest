@@ -1,3 +1,10 @@
+---
+title: "Chiplet_Integration_Route"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Chiplet_Integration_Route
 
 **Domain**: Cross

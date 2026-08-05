@@ -1,3 +1,10 @@
+---
+title: "Gut_Brain_Immune_Network"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Gut_Brain_Immune_Network
 
 **Domain**: iNEST

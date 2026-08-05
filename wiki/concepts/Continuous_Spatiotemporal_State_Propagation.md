@@ -1,3 +1,10 @@
+---
+title: "Continuous_Spatiotemporal_State_Propagation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Continuous_Spatiotemporal_State_Propagation
 
 **Domain**: Cross

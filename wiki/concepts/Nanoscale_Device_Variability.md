@@ -1,3 +1,10 @@
+---
+title: "Nanoscale_Device_Variability"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Nanoscale_Device_Variability
 
 **Domain**: Cross

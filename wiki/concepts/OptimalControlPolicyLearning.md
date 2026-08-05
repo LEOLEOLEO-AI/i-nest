@@ -1,3 +1,10 @@
+---
+title: "OptimalControlPolicyLearning"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # OptimalControlPolicyLearning
 
 **Domain**: Cross

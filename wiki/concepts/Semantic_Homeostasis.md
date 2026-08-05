@@ -1,3 +1,10 @@
+---
+title: "Semantic_Homeostasis"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Semantic_Homeostasis
 
 **Domain**: Cross

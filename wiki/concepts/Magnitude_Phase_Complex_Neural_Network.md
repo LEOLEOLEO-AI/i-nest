@@ -1,3 +1,10 @@
+---
+title: "Magnitude_Phase_Complex_Neural_Network"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Magnitude_Phase_Complex_Neural_Network
 
 **Domain**: iNEST

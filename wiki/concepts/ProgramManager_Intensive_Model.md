@@ -1,3 +1,10 @@
+---
+title: "ProgramManager_Intensive_Model"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ProgramManager_Intensive_Model
 
 **Domain**: Cross

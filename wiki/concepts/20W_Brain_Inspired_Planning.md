@@ -1,3 +1,10 @@
+---
+title: "20W_Brain_Inspired_Planning"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # 20W_Brain_Inspired_Planning
 
 **Domain**: iNEST

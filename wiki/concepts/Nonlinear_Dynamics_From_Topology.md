@@ -1,3 +1,10 @@
+---
+title: "Nonlinear_Dynamics_From_Topology"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Nonlinear_Dynamics_From_Topology
 
 **Domain**: iNEST

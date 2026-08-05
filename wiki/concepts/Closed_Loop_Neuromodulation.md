@@ -1,3 +1,10 @@
+---
+title: "Closed_Loop_Neuromodulation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Closed_Loop_Neuromodulation
 
 **Domain**: Cross

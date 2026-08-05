@@ -1,3 +1,10 @@
+---
+title: "Predictive_Treatment_Simulation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Predictive_Treatment_Simulation
 
 **Domain**: Cross

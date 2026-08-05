@@ -1,3 +1,10 @@
+---
+title: "Very_Large_Scale_Synaptic_Array"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Very_Large_Scale_Synaptic_Array
 
 **Domain**: TCC

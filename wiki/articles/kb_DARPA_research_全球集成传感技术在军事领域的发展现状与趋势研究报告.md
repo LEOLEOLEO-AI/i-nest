@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_全球集成传感技术在军事领域的发展现状与趋势研究报告"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_全球集成传感技术在军事领域的发展现状与趋势研究报告
 
 **Domain**: iNEST

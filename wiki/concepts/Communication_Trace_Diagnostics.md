@@ -1,3 +1,10 @@
+---
+title: "Communication_Trace_Diagnostics"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Communication_Trace_Diagnostics
 
 **Domain**: TCC

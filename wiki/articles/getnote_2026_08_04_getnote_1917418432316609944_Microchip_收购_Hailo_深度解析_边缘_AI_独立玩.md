@@ -1,3 +1,10 @@
+---
+title: "getnote_2026-08-04_getnote_1917418432316609944_Microchip 收购 Hailo 深度解析：边缘 AI 独立玩家的终局"
+type: article-summary
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # getnote_2026-08-04_getnote_1917418432316609944_Microchip 收购 Hailo 深度解析：边缘 AI 独立玩家的终局
 
 **Domain**: Cross

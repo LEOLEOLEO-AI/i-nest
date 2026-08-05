@@ -1,3 +1,10 @@
+---
+title: "ANN_to_SNN_Conversion_Error_Amplification"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ANN_to_SNN_Conversion_Error_Amplification
 
 **Domain**: Cross

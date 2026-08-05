@@ -1,3 +1,10 @@
+---
+title: "3D_Airborne_Connectivity_Characterization"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # 3D_Airborne_Connectivity_Characterization
 
 **Domain**: Cross

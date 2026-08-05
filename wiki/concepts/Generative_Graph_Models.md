@@ -1,3 +1,10 @@
+---
+title: "Generative_Graph_Models"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Generative_Graph_Models
 
 **Domain**: TCC

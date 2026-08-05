@@ -1,3 +1,10 @@
+---
+title: "iNEST 当前实验全面诊断报告"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # iNEST 当前实验全面诊断报告
 
 **Domain**: Cross

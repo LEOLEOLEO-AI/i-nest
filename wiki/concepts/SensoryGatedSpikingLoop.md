@@ -1,3 +1,10 @@
+---
+title: "SensoryGatedSpikingLoop"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SensoryGatedSpikingLoop
 
 **Domain**: Cross

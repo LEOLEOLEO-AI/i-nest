@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_DARPA空天_太空与高超音速领域项目深度分析报告"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_DARPA空天_太空与高超音速领域项目深度分析报告
 
 **Domain**: iNEST

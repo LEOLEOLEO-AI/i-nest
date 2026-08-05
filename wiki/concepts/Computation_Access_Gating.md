@@ -1,3 +1,10 @@
+---
+title: "Computation_Access_Gating"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Computation_Access_Gating
 
 **Domain**: TCC

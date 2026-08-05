@@ -1,3 +1,10 @@
+---
+title: "Anisotropic_Correlation_Length"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Anisotropic_Correlation_Length
 
 **Domain**: Cross

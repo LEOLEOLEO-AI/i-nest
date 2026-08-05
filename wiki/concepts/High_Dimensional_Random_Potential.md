@@ -1,3 +1,10 @@
+---
+title: "High_Dimensional_Random_Potential"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # High_Dimensional_Random_Potential
 
 **Domain**: TCC

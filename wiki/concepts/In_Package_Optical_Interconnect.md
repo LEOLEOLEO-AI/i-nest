@@ -1,3 +1,10 @@
+---
+title: "In_Package_Optical_Interconnect"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # In_Package_Optical_Interconnect
 
 **Domain**: Cross

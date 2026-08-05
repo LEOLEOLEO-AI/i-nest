@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式
 
 **Domain**: TCC

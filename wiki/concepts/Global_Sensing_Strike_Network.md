@@ -1,3 +1,10 @@
+---
+title: "Global_Sensing_Strike_Network"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Global_Sensing_Strike_Network
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "Anomaly_Protected_Scaling_Law"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Anomaly_Protected_Scaling_Law
 
 **Domain**: Cross

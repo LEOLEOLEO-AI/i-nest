@@ -1,3 +1,10 @@
+---
+title: "Hebbian_Plasticity_Manifold_Encoding"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Hebbian_Plasticity_Manifold_Encoding
 
 **Domain**: iNEST

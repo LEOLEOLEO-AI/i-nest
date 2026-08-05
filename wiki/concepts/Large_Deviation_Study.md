@@ -1,3 +1,10 @@
+---
+title: "Large_Deviation_Study"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Large_Deviation_Study
 
 **Domain**: TCC

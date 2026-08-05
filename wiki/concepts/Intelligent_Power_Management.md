@@ -1,3 +1,10 @@
+---
+title: "Intelligent_Power_Management"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Intelligent_Power_Management
 
 **Domain**: Cross

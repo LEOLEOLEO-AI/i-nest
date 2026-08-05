@@ -1,3 +1,10 @@
+---
+title: "Autonomous_Unmanned_Combat_Networking"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Autonomous_Unmanned_Combat_Networking
 
 **Domain**: TCC

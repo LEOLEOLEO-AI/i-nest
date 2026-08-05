@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_超越摩尔定律_DARPA微电子与半导体战略深度研究报告"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_超越摩尔定律_DARPA微电子与半导体战略深度研究报告
 
 **Domain**: TCC

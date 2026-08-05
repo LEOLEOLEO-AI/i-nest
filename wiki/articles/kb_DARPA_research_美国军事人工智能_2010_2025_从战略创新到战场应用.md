@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_美国军事人工智能_2010-2025_从战略创新到战场应用"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_美国军事人工智能_2010-2025_从战略创新到战场应用
 
 **Domain**: iNEST

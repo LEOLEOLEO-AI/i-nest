@@ -1,3 +1,10 @@
+---
+title: "SDI_iNEST_Encapsulation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SDI_iNEST_Encapsulation
 
 **Domain**: Cross

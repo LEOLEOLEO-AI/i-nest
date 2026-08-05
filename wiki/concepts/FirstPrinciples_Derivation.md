@@ -1,3 +1,10 @@
+---
+title: "FirstPrinciples_Derivation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # FirstPrinciples_Derivation
 
 **Domain**: Cross

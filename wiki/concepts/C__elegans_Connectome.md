@@ -1,3 +1,10 @@
+---
+title: "C__elegans_Connectome"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # C__elegans_Connectome
 
 **Domain**: iNEST

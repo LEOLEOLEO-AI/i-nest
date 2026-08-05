@@ -1,3 +1,10 @@
+---
+title: "Neuromorphic_Silicon_Neuron_Controller"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Neuromorphic_Silicon_Neuron_Controller
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "PVT_Sensing"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # PVT_Sensing
 
 **Domain**: iNEST

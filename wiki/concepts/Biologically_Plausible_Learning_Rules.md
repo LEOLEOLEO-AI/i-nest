@@ -1,3 +1,10 @@
+---
+title: "Biologically_Plausible_Learning_Rules"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Biologically_Plausible_Learning_Rules
 
 **Domain**: iNEST

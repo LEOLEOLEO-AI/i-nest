@@ -1,3 +1,10 @@
+---
+title: "Transformer_Innovation_Directions"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Transformer_Innovation_Directions
 
 **Domain**: Cross

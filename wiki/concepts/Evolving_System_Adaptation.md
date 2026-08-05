@@ -1,3 +1,10 @@
+---
+title: "Evolving_System_Adaptation"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Evolving_System_Adaptation
 
 **Domain**: TCC

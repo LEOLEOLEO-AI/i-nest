@@ -1,3 +1,10 @@
+---
+title: "NCCL_CollectivePrimitives"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # NCCL_CollectivePrimitives
 
 **Domain**: TCC

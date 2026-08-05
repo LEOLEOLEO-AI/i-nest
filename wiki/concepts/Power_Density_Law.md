@@ -1,3 +1,10 @@
+---
+title: "Power_Density_Law"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Power_Density_Law
 
 **Domain**: Cross

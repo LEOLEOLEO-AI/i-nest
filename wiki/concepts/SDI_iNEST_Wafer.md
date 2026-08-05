@@ -1,3 +1,10 @@
+---
+title: "SDI_iNEST_Wafer"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # SDI_iNEST_Wafer
 
 **Domain**: iNEST

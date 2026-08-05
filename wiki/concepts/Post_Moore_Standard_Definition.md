@@ -1,3 +1,10 @@
+---
+title: "Post_Moore_Standard_Definition"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Post_Moore_Standard_Definition
 
 **Domain**: TCC

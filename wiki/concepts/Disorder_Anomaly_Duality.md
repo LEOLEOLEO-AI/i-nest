@@ -1,3 +1,10 @@
+---
+title: "Disorder_Anomaly_Duality"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Disorder_Anomaly_Duality
 
 **Domain**: Cross

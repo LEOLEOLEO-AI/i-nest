@@ -1,3 +1,10 @@
+---
+title: "Self_Organized_Criticality"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Self_Organized_Criticality
 
 **Domain**: iNEST

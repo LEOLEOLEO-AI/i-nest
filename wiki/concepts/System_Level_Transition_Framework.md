@@ -1,3 +1,10 @@
+---
+title: "System_Level_Transition_Framework"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # System_Level_Transition_Framework
 
 **Domain**: TCC

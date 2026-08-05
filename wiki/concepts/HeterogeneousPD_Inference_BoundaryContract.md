@@ -1,3 +1,10 @@
+---
+title: "HeterogeneousPD_Inference_BoundaryContract"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # HeterogeneousPD_Inference_BoundaryContract
 
 **Domain**: iNEST

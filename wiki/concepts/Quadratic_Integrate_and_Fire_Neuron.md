@@ -1,3 +1,10 @@
+---
+title: "Quadratic_Integrate_and_Fire_Neuron"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Quadratic_Integrate_and_Fire_Neuron
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities: A Renormalization Group Approach"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities: A Renormalization Group Approach
 
 **Domain**: Cross

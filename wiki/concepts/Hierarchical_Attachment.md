@@ -1,3 +1,10 @@
+---
+title: "Hierarchical_Attachment"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Hierarchical_Attachment
 
 **Domain**: TCC

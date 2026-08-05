@@ -1,3 +1,10 @@
+---
+title: "Bias_Origin_Taxonomy"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Bias_Origin_Taxonomy
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Technology_Disparity_Offset"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Technology_Disparity_Offset
 
 **Domain**: Cross

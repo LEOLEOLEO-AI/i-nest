@@ -1,3 +1,10 @@
+---
+title: "2026-07-20_NeuroTrain_fulltext"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-20_NeuroTrain_fulltext
 
 **Domain**: iNEST

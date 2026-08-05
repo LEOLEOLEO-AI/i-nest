@@ -1,3 +1,10 @@
+---
+title: "Event_Driven_Orbital_Object_Pipeline"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Event_Driven_Orbital_Object_Pipeline
 
 **Domain**: iNEST

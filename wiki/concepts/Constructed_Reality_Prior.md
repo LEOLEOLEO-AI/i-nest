@@ -1,3 +1,10 @@
+---
+title: "Constructed_Reality_Prior"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Constructed_Reality_Prior
 
 **Domain**: iNEST

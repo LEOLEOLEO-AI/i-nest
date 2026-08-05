@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Polymer Composites in Additive Manufacturing Current Technologies, Applications,"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Polymer Composites in Additive Manufacturing Current Technologies, Applications,
 
 **Domain**: TCC

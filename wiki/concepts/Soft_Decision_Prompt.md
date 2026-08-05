@@ -1,3 +1,10 @@
+---
+title: "Soft_Decision_Prompt"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Soft_Decision_Prompt
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Multifractal_Signatures"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Multifractal_Signatures
 
 **Domain**: iNEST

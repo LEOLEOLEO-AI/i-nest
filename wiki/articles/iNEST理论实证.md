@@ -1,3 +1,10 @@
+---
+title: "iNEST理论实证"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # iNEST理论实证
 
 **Domain**: TCC

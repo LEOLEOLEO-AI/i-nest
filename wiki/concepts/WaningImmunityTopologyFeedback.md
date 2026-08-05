@@ -1,3 +1,10 @@
+---
+title: "WaningImmunityTopologyFeedback"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # WaningImmunityTopologyFeedback
 
 **Domain**: TCC

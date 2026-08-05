@@ -1,3 +1,10 @@
+---
+title: "Neural_Substrate_Independence"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Neural_Substrate_Independence
 
 **Domain**: Cross

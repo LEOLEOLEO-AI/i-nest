@@ -1,3 +1,10 @@
+---
+title: "WormBrain_FlyBody_Controller"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # WormBrain_FlyBody_Controller
 
 **Domain**: iNEST

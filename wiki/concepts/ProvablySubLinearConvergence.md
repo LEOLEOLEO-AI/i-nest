@@ -1,3 +1,10 @@
+---
+title: "ProvablySubLinearConvergence"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ProvablySubLinearConvergence
 
 **Domain**: Cross

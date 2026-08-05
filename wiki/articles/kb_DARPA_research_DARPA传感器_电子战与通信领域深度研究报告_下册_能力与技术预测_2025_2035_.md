@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_DARPA传感器_电子战与通信领域深度研究报告_下册_能力与技术预测_2025-2035_"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_DARPA传感器_电子战与通信领域深度研究报告_下册_能力与技术预测_2025-2035_
 
 **Domain**: iNEST

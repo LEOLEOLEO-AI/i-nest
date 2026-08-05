@@ -1,3 +1,10 @@
+---
+title: "SDI_NoC_Fusion"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # SDI_NoC_Fusion
 
 **Domain**: TCC

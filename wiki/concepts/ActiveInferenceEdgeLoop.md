@@ -1,3 +1,10 @@
+---
+title: "ActiveInferenceEdgeLoop"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # ActiveInferenceEdgeLoop
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Daily_Article_Increment_Tracking"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Daily_Article_Increment_Tracking
 
 **Domain**: TCC

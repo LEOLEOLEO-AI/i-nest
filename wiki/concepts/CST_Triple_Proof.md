@@ -1,3 +1,10 @@
+---
+title: "CST_Triple_Proof"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CST_Triple_Proof
 
 **Domain**: Cross

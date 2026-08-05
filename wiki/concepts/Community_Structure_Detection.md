@@ -1,3 +1,10 @@
+---
+title: "Community_Structure_Detection"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Community_Structure_Detection
 
 **Domain**: Cross

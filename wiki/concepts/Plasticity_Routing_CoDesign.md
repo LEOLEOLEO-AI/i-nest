@@ -1,3 +1,10 @@
+---
+title: "Plasticity_Routing_CoDesign"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Plasticity_Routing_CoDesign
 
 **Domain**: TCC

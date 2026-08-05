@@ -1,3 +1,10 @@
+---
+title: "Hypersonic_Weapon_Market_CAGR"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Hypersonic_Weapon_Market_CAGR
 
 **Domain**: Cross

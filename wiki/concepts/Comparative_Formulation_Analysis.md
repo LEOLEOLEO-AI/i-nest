@@ -1,3 +1,10 @@
+---
+title: "Comparative_Formulation_Analysis"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Comparative_Formulation_Analysis
 
 **Domain**: iNEST

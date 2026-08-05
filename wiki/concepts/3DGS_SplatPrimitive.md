@@ -1,3 +1,10 @@
+---
+title: "3DGS_SplatPrimitive"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # 3DGS_SplatPrimitive
 
 **Domain**: Cross

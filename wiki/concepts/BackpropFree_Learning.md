@@ -1,3 +1,10 @@
+---
+title: "BackpropFree_Learning"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # BackpropFree_Learning
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Baseline_Draft_Status"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Baseline_Draft_Status
 
 **Domain**: Cross

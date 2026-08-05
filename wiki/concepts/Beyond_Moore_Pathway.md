@@ -1,3 +1,10 @@
+---
+title: "Beyond_Moore_Pathway"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Beyond_Moore_Pathway
 
 **Domain**: Cross

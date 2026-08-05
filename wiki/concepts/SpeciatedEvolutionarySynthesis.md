@@ -1,3 +1,10 @@
+---
+title: "SpeciatedEvolutionarySynthesis"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # SpeciatedEvolutionarySynthesis
 
 **Domain**: TCC

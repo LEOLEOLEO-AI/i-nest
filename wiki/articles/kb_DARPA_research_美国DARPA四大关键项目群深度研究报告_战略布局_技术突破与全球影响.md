@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_美国DARPA四大关键项目群深度研究报告_战略布局_技术突破与全球影响"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_美国DARPA四大关键项目群深度研究报告_战略布局_技术突破与全球影响
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "WaferScale_Emergence"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # WaferScale_Emergence
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Readout_Weight_Training"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Readout_Weight_Training
 
 **Domain**: iNEST

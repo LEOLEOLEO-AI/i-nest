@@ -1,3 +1,10 @@
+---
+title: "Interacting_System_Dynamics"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Interacting_System_Dynamics
 
 **Domain**: Cross

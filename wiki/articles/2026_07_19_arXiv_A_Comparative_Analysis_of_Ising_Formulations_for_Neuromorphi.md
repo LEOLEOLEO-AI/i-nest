@@ -1,3 +1,10 @@
+---
+title: "2026-07-19_arXiv_A Comparative Analysis of Ising Formulations for Neuromorphi"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-19_arXiv_A Comparative Analysis of Ising Formulations for Neuromorphi
 
 **Domain**: iNEST

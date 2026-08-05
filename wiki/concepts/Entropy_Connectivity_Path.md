@@ -1,3 +1,10 @@
+---
+title: "Entropy_Connectivity_Path"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Entropy_Connectivity_Path
 
 **Domain**: Cross

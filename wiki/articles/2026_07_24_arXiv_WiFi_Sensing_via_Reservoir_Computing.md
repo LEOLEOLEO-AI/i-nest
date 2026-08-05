@@ -1,3 +1,10 @@
+---
+title: "2026-07-24_arXiv_WiFi Sensing via Reservoir Computing"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-07-24_arXiv_WiFi Sensing via Reservoir Computing
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "PhotonicPackagingEfficiency"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # PhotonicPackagingEfficiency
 
 **Domain**: TCC

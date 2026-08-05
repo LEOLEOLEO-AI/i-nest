@@ -1,3 +1,10 @@
+---
+title: "Mesoscale_Neural_Dynamics"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Mesoscale_Neural_Dynamics
 
 **Domain**: iNEST

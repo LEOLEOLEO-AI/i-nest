@@ -1,3 +1,10 @@
+---
+title: "ERI_2_0_Framework"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # ERI_2_0_Framework
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "Allreduce_Latency_Benchmark"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Allreduce_Latency_Benchmark
 
 **Domain**: TCC

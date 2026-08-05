@@ -1,3 +1,10 @@
+---
+title: "CST_CoarseGraining"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CST_CoarseGraining
 
 **Domain**: Cross

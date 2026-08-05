@@ -1,3 +1,10 @@
+---
+title: "SpeechToSpike_Encoding"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # SpeechToSpike_Encoding
 
 **Domain**: iNEST

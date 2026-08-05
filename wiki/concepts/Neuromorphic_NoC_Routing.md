@@ -1,3 +1,10 @@
+---
+title: "Neuromorphic_NoC_Routing"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Neuromorphic_NoC_Routing
 
 **Domain**: Cross

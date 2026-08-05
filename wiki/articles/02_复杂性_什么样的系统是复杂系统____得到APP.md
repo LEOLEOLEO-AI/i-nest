@@ -1,3 +1,10 @@
+---
+title: "02 复杂性：什么样的系统是复杂系统？ - 得到APP"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 02 复杂性：什么样的系统是复杂系统？ - 得到APP
 
 **Domain**: iNEST

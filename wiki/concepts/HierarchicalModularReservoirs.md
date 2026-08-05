@@ -1,3 +1,10 @@
+---
+title: "HierarchicalModularReservoirs"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # HierarchicalModularReservoirs
 
 **Domain**: iNEST

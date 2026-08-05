@@ -1,3 +1,10 @@
+---
+title: "Chiplet_Stacking"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Chiplet_Stacking
 
 **Domain**: TCC

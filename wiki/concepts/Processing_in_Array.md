@@ -1,3 +1,10 @@
+---
+title: "Processing_in_Array"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Processing_in_Array
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Chiplet_Based_Neuromorphic_Integration"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Chiplet_Based_Neuromorphic_Integration
 
 **Domain**: iNEST

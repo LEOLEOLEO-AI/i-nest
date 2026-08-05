@@ -1,3 +1,10 @@
+---
+title: "CoDesigned_SNN"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # CoDesigned_SNN
 
 **Domain**: iNEST

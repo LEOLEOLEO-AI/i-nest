@@ -1,3 +1,10 @@
+---
+title: "Cross_Brain_Connectome"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Cross_Brain_Connectome
 
 **Domain**: Cross

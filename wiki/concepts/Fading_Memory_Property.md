@@ -1,3 +1,10 @@
+---
+title: "Fading_Memory_Property"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Fading_Memory_Property
 
 **Domain**: iNEST

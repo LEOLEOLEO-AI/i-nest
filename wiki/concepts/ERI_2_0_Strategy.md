@@ -1,3 +1,10 @@
+---
+title: "ERI_2_0_Strategy"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # ERI_2_0_Strategy
 
 **Domain**: Cross

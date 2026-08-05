@@ -1,3 +1,10 @@
+---
+title: "Open_Source_Hardware_Acceleration"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Open_Source_Hardware_Acceleration
 
 **Domain**: Cross

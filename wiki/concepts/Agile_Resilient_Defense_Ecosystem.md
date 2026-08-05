@@ -1,3 +1,10 @@
+---
+title: "Agile_Resilient_Defense_Ecosystem"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Agile_Resilient_Defense_Ecosystem
 
 **Domain**: Cross

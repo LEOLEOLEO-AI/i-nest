@@ -1,3 +1,10 @@
+---
+title: "Resource_Circularity_Protocol"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Resource_Circularity_Protocol
 
 **Domain**: iNEST

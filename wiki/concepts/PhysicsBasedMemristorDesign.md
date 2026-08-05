@@ -1,3 +1,10 @@
+---
+title: "PhysicsBasedMemristorDesign"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # PhysicsBasedMemristorDesign
 
 **Domain**: iNEST

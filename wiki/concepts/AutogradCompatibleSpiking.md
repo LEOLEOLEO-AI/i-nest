@@ -1,3 +1,10 @@
+---
+title: "AutogradCompatibleSpiking"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # AutogradCompatibleSpiking
 
 **Domain**: iNEST

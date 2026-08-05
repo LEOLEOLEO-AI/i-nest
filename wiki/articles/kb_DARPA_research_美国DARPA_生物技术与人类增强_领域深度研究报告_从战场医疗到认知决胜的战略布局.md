@@ -1,3 +1,10 @@
+---
+title: "kb_DARPA-research_美国DARPA_生物技术与人类增强_领域深度研究报告_从战场医疗到认知决胜的战略布局"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # kb_DARPA-research_美国DARPA_生物技术与人类增强_领域深度研究报告_从战场医疗到认知决胜的战略布局
 
 **Domain**: iNEST

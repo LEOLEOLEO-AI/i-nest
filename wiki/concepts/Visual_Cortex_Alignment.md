@@ -1,3 +1,10 @@
+---
+title: "Visual_Cortex_Alignment"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Visual_Cortex_Alignment
 
 **Domain**: iNEST

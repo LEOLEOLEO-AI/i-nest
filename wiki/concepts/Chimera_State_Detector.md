@@ -1,3 +1,10 @@
+---
+title: "Chimera_State_Detector"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Chimera_State_Detector
 
 **Domain**: Cross

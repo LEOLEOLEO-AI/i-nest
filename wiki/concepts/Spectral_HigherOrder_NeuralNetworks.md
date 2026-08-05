@@ -1,3 +1,10 @@
+---
+title: "Spectral_HigherOrder_NeuralNetworks"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Spectral_HigherOrder_NeuralNetworks
 
 **Domain**: Cross

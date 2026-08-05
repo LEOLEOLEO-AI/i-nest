@@ -1,3 +1,10 @@
+---
+title: "DiscreteSTDP"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # DiscreteSTDP
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Resilient_Satellite_Mesh"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Resilient_Satellite_Mesh
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Robust_Decision_Making"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Robust_Decision_Making
 
 **Domain**: iNEST

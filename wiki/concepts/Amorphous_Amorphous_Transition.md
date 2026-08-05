@@ -1,3 +1,10 @@
+---
+title: "Amorphous_Amorphous_Transition"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Amorphous_Amorphous_Transition
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "TimeReversal_Symmetry_Breaking"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # TimeReversal_Symmetry_Breaking
 
 **Domain**: TCC

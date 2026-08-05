@@ -1,3 +1,10 @@
+---
+title: "Autonomous_Unmanned_Combat_Coordination"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Autonomous_Unmanned_Combat_Coordination
 
 **Domain**: Cross

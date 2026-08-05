@@ -1,3 +1,10 @@
+---
+title: "Neural_Field_World_Model"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Neural_Field_World_Model
 
 **Domain**: Cross

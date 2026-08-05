@@ -1,3 +1,10 @@
+---
+title: "Temporally_Precise_Training_Parallelization"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Temporally_Precise_Training_Parallelization
 
 **Domain**: iNEST

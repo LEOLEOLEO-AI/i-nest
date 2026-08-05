@@ -1,3 +1,10 @@
+---
+title: "SDPrompt_Guided_Dynamic_Expert_Fusion"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # SDPrompt_Guided_Dynamic_Expert_Fusion
 
 **Domain**: iNEST

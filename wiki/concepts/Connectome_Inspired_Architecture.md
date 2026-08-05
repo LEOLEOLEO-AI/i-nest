@@ -1,3 +1,10 @@
+---
+title: "Connectome_Inspired_Architecture"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Connectome_Inspired_Architecture
 
 **Domain**: Cross

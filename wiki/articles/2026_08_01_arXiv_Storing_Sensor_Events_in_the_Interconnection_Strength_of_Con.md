@@ -1,3 +1,10 @@
+---
+title: "2026-08-01_arXiv_Storing Sensor Events in the Interconnection Strength of Con"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-08-01_arXiv_Storing Sensor Events in the Interconnection Strength of Con
 
 **Domain**: TCC

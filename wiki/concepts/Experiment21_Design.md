@@ -1,3 +1,10 @@
+---
+title: "Experiment21_Design"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Experiment21_Design
 
 **Domain**: Cross

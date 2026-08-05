@@ -1,3 +1,10 @@
+---
+title: "MutualReinforcementDynamics"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # MutualReinforcementDynamics
 
 **Domain**: Cross

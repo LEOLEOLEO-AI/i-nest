@@ -1,3 +1,10 @@
+---
+title: "InNetwork_RL_Control"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # InNetwork_RL_Control
 
 **Domain**: iNEST

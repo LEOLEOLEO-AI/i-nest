@@ -1,3 +1,10 @@
+---
+title: "UniSpike_Acceleration"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # UniSpike_Acceleration
 
 **Domain**: iNEST

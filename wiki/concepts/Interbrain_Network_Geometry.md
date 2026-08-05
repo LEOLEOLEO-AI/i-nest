@@ -1,3 +1,10 @@
+---
+title: "Interbrain_Network_Geometry"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Interbrain_Network_Geometry
 
 **Domain**: Cross

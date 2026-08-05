@@ -1,3 +1,10 @@
+---
+title: "UniSpike_Architecture"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # UniSpike_Architecture
 
 **Domain**: iNEST

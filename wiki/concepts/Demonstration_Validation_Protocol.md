@@ -1,3 +1,10 @@
+---
+title: "Demonstration_Validation_Protocol"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Demonstration_Validation_Protocol
 
 **Domain**: TCC

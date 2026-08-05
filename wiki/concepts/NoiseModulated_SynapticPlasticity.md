@@ -1,3 +1,10 @@
+---
+title: "NoiseModulated_SynapticPlasticity"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # NoiseModulated_SynapticPlasticity
 
 **Domain**: iNEST

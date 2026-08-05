@@ -1,3 +1,10 @@
+---
+title: "SDI_TCC_iNEST_Bridge"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SDI_TCC_iNEST_Bridge
 
 **Domain**: Cross

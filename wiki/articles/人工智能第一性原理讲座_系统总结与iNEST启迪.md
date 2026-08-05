@@ -1,3 +1,10 @@
+---
+title: "人工智能第一性原理讲座_系统总结与iNEST启迪"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 人工智能第一性原理讲座_系统总结与iNEST启迪
 
 **Domain**: iNEST

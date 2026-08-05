@@ -1,3 +1,10 @@
+---
+title: "NoC_EventRouting"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # NoC_EventRouting
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "DualSided_Routing_Resource"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # DualSided_Routing_Resource
 
 **Domain**: TCC

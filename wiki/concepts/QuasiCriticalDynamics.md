@@ -1,3 +1,10 @@
+---
+title: "QuasiCriticalDynamics"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # QuasiCriticalDynamics
 
 **Domain**: Cross

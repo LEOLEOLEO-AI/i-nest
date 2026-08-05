@@ -1,3 +1,10 @@
+---
+title: "Drosophila_FC2_Circuit"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Drosophila_FC2_Circuit
 
 **Domain**: Cross

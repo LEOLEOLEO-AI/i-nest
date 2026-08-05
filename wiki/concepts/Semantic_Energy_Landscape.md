@@ -1,3 +1,10 @@
+---
+title: "Semantic_Energy_Landscape"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Semantic_Energy_Landscape
 
 **Domain**: iNEST

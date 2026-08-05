@@ -1,3 +1,10 @@
+---
+title: "Small_World_Network"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Small_World_Network
 
 **Domain**: TCC

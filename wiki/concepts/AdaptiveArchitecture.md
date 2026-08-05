@@ -1,3 +1,10 @@
+---
+title: "AdaptiveArchitecture"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # AdaptiveArchitecture
 
 **Domain**: Cross

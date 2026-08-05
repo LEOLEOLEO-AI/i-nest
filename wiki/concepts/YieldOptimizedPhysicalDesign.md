@@ -1,3 +1,10 @@
+---
+title: "YieldOptimizedPhysicalDesign"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # YieldOptimizedPhysicalDesign
 
 **Domain**: TCC

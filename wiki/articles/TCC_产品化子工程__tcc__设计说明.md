@@ -1,3 +1,10 @@
+---
+title: "TCC 产品化子工程（`tcc`）设计说明"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # TCC 产品化子工程（`tcc`）设计说明
 
 **Domain**: TCC

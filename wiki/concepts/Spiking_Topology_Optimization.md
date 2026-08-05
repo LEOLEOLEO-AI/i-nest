@@ -1,3 +1,10 @@
+---
+title: "Spiking_Topology_Optimization"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Spiking_Topology_Optimization
 
 **Domain**: Cross

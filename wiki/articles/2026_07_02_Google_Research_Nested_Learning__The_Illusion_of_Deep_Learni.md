@@ -1,3 +1,10 @@
+---
+title: "2026-07-02_Google Research_Nested Learning_ The Illusion of Deep Learni"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-02_Google Research_Nested Learning_ The Illusion of Deep Learni
 
 **Domain**: iNEST

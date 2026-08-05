@@ -1,3 +1,10 @@
+---
+title: "CrystalPalace_Program"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CrystalPalace_Program
 
 **Domain**: Cross

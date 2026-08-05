@@ -1,3 +1,10 @@
+---
+title: "ComputeRelocationOverhead"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # ComputeRelocationOverhead
 
 **Domain**: TCC

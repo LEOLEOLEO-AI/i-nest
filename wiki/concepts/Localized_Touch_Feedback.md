@@ -1,3 +1,10 @@
+---
+title: "Localized_Touch_Feedback"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Localized_Touch_Feedback
 
 **Domain**: Cross

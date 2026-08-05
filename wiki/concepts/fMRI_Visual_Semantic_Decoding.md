@@ -1,3 +1,10 @@
+---
+title: "fMRI_Visual_Semantic_Decoding"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # fMRI_Visual_Semantic_Decoding
 
 **Domain**: iNEST

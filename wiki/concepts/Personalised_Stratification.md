@@ -1,3 +1,10 @@
+---
+title: "Personalised_Stratification"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Personalised_Stratification
 
 **Domain**: Cross

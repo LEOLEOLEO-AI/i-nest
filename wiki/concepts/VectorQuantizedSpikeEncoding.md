@@ -1,3 +1,10 @@
+---
+title: "VectorQuantizedSpikeEncoding"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # VectorQuantizedSpikeEncoding
 
 **Domain**: iNEST

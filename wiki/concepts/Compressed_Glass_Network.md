@@ -1,3 +1,10 @@
+---
+title: "Compressed_Glass_Network"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Compressed_Glass_Network
 
 **Domain**: iNEST

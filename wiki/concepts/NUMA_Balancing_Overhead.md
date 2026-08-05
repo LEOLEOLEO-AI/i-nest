@@ -1,3 +1,10 @@
+---
+title: "NUMA_Balancing_Overhead"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # NUMA_Balancing_Overhead
 
 **Domain**: iNEST

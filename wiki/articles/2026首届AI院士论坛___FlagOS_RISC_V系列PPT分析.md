@@ -1,3 +1,10 @@
+---
+title: "2026首届AI院士论坛 — FlagOS/RISC-V系列PPT分析"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026首届AI院士论坛 — FlagOS/RISC-V系列PPT分析
 
 **Domain**: TCC

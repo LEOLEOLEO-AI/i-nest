@@ -1,3 +1,10 @@
+---
+title: "DendriticTaskPartitioning"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # DendriticTaskPartitioning
 
 **Domain**: Cross

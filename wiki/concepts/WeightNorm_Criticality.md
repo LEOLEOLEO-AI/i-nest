@@ -1,3 +1,10 @@
+---
+title: "WeightNorm_Criticality"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # WeightNorm_Criticality
 
 **Domain**: Cross

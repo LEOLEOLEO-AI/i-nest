@@ -1,3 +1,10 @@
+---
+title: "DARPA_ERI"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # DARPA_ERI
 
 **Domain**: Cross

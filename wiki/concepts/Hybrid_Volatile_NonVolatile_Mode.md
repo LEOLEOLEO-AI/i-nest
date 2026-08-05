@@ -1,3 +1,10 @@
+---
+title: "Hybrid_Volatile_NonVolatile_Mode"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Hybrid_Volatile_NonVolatile_Mode
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "2026-08-04_arXiv_CENDRe Concept Extraction with Natural Domain Representation"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-08-04_arXiv_CENDRe Concept Extraction with Natural Domain Representation
 
 **Domain**: Cross

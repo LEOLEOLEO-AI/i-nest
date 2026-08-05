@@ -1,3 +1,10 @@
+---
+title: "NoC_SDI_Interconnect"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # NoC_SDI_Interconnect
 
 **Domain**: TCC

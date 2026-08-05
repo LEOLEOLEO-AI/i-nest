@@ -1,3 +1,10 @@
+---
+title: "Syncytial_Mesh_Model"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Syncytial_Mesh_Model
 
 **Domain**: iNEST

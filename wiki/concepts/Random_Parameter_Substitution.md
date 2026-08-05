@@ -1,3 +1,10 @@
+---
+title: "Random_Parameter_Substitution"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Random_Parameter_Substitution
 
 **Domain**: iNEST

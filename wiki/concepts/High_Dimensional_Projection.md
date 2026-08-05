@@ -1,3 +1,10 @@
+---
+title: "High_Dimensional_Projection"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # High_Dimensional_Projection
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "AI_Forum_Demo_Narrative"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # AI_Forum_Demo_Narrative
 
 **Domain**: Cross

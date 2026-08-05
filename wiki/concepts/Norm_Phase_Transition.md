@@ -1,3 +1,10 @@
+---
+title: "Norm_Phase_Transition"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Norm_Phase_Transition
 
 **Domain**: Cross

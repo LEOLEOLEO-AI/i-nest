@@ -1,3 +1,10 @@
+---
+title: "CrossbarFabricTopology"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CrossbarFabricTopology
 
 **Domain**: Cross

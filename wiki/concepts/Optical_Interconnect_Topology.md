@@ -1,3 +1,10 @@
+---
+title: "Optical_Interconnect_Topology"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Optical_Interconnect_Topology
 
 **Domain**: TCC

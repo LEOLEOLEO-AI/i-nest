@@ -1,3 +1,10 @@
+---
+title: "LaplacianSpectrumTopology"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # LaplacianSpectrumTopology
 
 **Domain**: TCC

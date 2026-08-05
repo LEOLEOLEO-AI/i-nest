@@ -1,3 +1,10 @@
+---
+title: "Capability_Transformation_Mechanism"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Capability_Transformation_Mechanism
 
 **Domain**: TCC

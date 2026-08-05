@@ -1,3 +1,10 @@
+---
+title: "MeanField_Glass_Model"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # MeanField_Glass_Model
 
 **Domain**: Cross

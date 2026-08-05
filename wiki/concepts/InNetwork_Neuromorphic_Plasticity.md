@@ -1,3 +1,10 @@
+---
+title: "InNetwork_Neuromorphic_Plasticity"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # InNetwork_Neuromorphic_Plasticity
 
 **Domain**: iNEST

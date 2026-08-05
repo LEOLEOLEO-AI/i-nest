@@ -1,3 +1,10 @@
+---
+title: "CircuitSynthesis"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # CircuitSynthesis
 
 **Domain**: TCC

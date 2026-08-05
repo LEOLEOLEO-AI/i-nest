@@ -1,3 +1,10 @@
+---
+title: "Nested Learning- 深度学习架构的本质解构与范式创新"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # Nested Learning- 深度学习架构的本质解构与范式创新
 
 **Domain**: iNEST

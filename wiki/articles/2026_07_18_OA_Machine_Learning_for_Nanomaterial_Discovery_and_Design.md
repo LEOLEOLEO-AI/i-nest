@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Machine Learning for Nanomaterial Discovery and Design"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Machine Learning for Nanomaterial Discovery and Design
 
 **Domain**: iNEST

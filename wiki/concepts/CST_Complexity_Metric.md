@@ -1,3 +1,10 @@
+---
+title: "CST_Complexity_Metric"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CST_Complexity_Metric
 
 **Domain**: Cross

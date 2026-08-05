@@ -1,3 +1,10 @@
+---
+title: "SNN_VisualSemanticDecoder"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # SNN_VisualSemanticDecoder
 
 **Domain**: iNEST

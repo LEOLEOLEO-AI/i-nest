@@ -1,3 +1,10 @@
+---
+title: "Academic_Integrity_Assessment"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Academic_Integrity_Assessment
 
 **Domain**: Cross

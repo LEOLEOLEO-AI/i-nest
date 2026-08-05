@@ -1,3 +1,10 @@
+---
+title: "Capability_Reserve_Index"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Capability_Reserve_Index
 
 **Domain**: TCC

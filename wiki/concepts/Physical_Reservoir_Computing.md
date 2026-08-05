@@ -1,3 +1,10 @@
+---
+title: "Physical_Reservoir_Computing"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Physical_Reservoir_Computing
 
 **Domain**: Cross

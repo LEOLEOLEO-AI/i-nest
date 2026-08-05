@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Integrated error-suppressed pipeline for quantum optimization of nontrivial bina"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Integrated error-suppressed pipeline for quantum optimization of nontrivial bina
 
 **Domain**: TCC

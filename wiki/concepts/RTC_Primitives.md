@@ -1,3 +1,10 @@
+---
+title: "RTC_Primitives"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # RTC_Primitives
 
 **Domain**: TCC

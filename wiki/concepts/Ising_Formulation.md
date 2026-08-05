@@ -1,3 +1,10 @@
+---
+title: "Ising_Formulation"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Ising_Formulation
 
 **Domain**: iNEST

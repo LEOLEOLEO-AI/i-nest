@@ -1,3 +1,10 @@
+---
+title: "Renormalization_Group_Attention"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Renormalization_Group_Attention
 
 **Domain**: TCC

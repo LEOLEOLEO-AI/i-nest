@@ -1,3 +1,10 @@
+---
+title: "Complex_Network_Brain_Inspired_Computing"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Complex_Network_Brain_Inspired_Computing
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "UniversalComputationCriticality"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # UniversalComputationCriticality
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Inflammatory bowel diseases pathological mechanisms and therapeutic perspectives"
+type: article-summary
+domain: iNEST
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Inflammatory bowel diseases pathological mechanisms and therapeutic perspectives
 
 **Domain**: iNEST

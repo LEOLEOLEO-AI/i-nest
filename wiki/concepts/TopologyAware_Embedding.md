@@ -1,3 +1,10 @@
+---
+title: "TopologyAware_Embedding"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # TopologyAware_Embedding
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "EdgeAI_Acquisition_Consolidation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # EdgeAI_Acquisition_Consolidation
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Brain_Dynamics_Learning"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Brain_Dynamics_Learning
 
 **Domain**: iNEST

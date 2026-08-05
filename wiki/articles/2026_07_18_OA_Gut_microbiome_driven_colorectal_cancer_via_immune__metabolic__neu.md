@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Gut microbiome–driven colorectal cancer via immune, metabolic, neural, and endoc"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Gut microbiome–driven colorectal cancer via immune, metabolic, neural, and endoc
 
 **Domain**: Cross

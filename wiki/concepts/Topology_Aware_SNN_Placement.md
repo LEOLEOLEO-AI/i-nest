@@ -1,3 +1,10 @@
+---
+title: "Topology_Aware_SNN_Placement"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Topology_Aware_SNN_Placement
 
 **Domain**: TCC

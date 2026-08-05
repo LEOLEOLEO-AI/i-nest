@@ -1,3 +1,10 @@
+---
+title: "NeuronModel_Hardware_Translator"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # NeuronModel_Hardware_Translator
 
 **Domain**: iNEST

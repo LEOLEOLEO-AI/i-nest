@@ -1,3 +1,10 @@
+---
+title: "Substrate_Level_Computation"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Substrate_Level_Computation
 
 **Domain**: TCC

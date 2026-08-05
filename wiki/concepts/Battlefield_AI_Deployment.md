@@ -1,3 +1,10 @@
+---
+title: "Battlefield_AI_Deployment"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Battlefield_AI_Deployment
 
 **Domain**: iNEST

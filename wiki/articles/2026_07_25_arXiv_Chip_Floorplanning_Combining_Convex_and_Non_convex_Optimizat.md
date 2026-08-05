@@ -1,3 +1,10 @@
+---
+title: "2026-07-25_arXiv_Chip Floorplanning Combining Convex and Non-convex Optimizat"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-07-25_arXiv_Chip Floorplanning Combining Convex and Non-convex Optimizat
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "Fixed_Cost_Dominance"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Fixed_Cost_Dominance
 
 **Domain**: Cross

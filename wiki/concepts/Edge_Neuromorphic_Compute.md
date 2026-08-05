@@ -1,3 +1,10 @@
+---
+title: "Edge_Neuromorphic_Compute"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Edge_Neuromorphic_Compute
 
 **Domain**: iNEST

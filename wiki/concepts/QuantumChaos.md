@@ -1,3 +1,10 @@
+---
+title: "QuantumChaos"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # QuantumChaos
 
 **Domain**: Cross

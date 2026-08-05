@@ -1,3 +1,10 @@
+---
+title: "CrossMaterial_Integration"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CrossMaterial_Integration
 
 **Domain**: Cross

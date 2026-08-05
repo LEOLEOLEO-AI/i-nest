@@ -1,3 +1,10 @@
+---
+title: "Reciprocity_Relevance_Criterion"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Reciprocity_Relevance_Criterion
 
 **Domain**: Cross

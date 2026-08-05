@@ -1,3 +1,10 @@
+---
+title: "Biological_Analogy_Engineering_Constraint"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Biological_Analogy_Engineering_Constraint
 
 **Domain**: iNEST

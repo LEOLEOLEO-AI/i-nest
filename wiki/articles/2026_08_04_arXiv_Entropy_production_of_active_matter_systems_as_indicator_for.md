@@ -1,3 +1,10 @@
+---
+title: "2026-08-04_arXiv_Entropy production of active matter systems as indicator for"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-08-04_arXiv_Entropy production of active matter systems as indicator for
 
 **Domain**: Cross

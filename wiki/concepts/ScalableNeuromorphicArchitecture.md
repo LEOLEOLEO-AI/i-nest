@@ -1,3 +1,10 @@
+---
+title: "ScalableNeuromorphicArchitecture"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # ScalableNeuromorphicArchitecture
 
 **Domain**: iNEST

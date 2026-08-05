@@ -1,3 +1,10 @@
+---
+title: "Stochastic_Binary_State_Update"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Stochastic_Binary_State_Update
 
 **Domain**: Cross

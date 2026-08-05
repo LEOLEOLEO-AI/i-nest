@@ -1,3 +1,10 @@
+---
+title: "AgenticServiceOrchestration"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # AgenticServiceOrchestration
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Perspective_Latents"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Perspective_Latents
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Sex_Dimorphic_Connectivity_Pattern"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Sex_Dimorphic_Connectivity_Pattern
 
 **Domain**: Cross

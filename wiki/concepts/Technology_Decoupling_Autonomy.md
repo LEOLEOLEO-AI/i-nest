@@ -1,3 +1,10 @@
+---
+title: "Technology_Decoupling_Autonomy"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Technology_Decoupling_Autonomy
 
 **Domain**: Cross

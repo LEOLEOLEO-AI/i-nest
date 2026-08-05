@@ -1,3 +1,10 @@
+---
+title: "Spike_Timing_Dependent_Attention"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Spike_Timing_Dependent_Attention
 
 **Domain**: iNEST

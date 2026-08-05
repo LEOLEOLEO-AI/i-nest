@@ -1,3 +1,10 @@
+---
+title: "Memory_Capacity_Maximization"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Memory_Capacity_Maximization
 
 **Domain**: iNEST

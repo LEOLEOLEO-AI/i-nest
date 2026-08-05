@@ -1,3 +1,10 @@
+---
+title: "Heterogeneous_Inference_Division"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Heterogeneous_Inference_Division
 
 **Domain**: Cross

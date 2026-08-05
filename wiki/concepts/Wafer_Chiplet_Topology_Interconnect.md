@@ -1,3 +1,10 @@
+---
+title: "Wafer_Chiplet_Topology_Interconnect"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Wafer_Chiplet_Topology_Interconnect
 
 **Domain**: TCC

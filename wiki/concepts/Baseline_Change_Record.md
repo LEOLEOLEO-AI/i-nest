@@ -1,3 +1,10 @@
+---
+title: "Baseline_Change_Record"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Baseline_Change_Record
 
 **Domain**: Cross

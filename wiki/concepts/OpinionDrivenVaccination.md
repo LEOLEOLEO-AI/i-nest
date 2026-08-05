@@ -1,3 +1,10 @@
+---
+title: "OpinionDrivenVaccination"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # OpinionDrivenVaccination
 
 **Domain**: iNEST

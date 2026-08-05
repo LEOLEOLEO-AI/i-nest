@@ -1,3 +1,10 @@
+---
+title: "Epidemic_Mitigation_Strategy"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Epidemic_Mitigation_Strategy
 
 **Domain**: TCC

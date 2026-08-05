@@ -1,3 +1,10 @@
+---
+title: "SDSoW_Reconfigurable_Network"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # SDSoW_Reconfigurable_Network
 
 **Domain**: TCC

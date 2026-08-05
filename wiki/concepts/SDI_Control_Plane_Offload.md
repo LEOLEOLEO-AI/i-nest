@@ -1,3 +1,10 @@
+---
+title: "SDI_Control_Plane_Offload"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SDI_Control_Plane_Offload
 
 **Domain**: Cross

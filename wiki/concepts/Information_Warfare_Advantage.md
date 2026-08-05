@@ -1,3 +1,10 @@
+---
+title: "Information_Warfare_Advantage"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Information_Warfare_Advantage
 
 **Domain**: Cross

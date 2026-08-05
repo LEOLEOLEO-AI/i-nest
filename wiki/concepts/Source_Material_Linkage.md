@@ -1,3 +1,10 @@
+---
+title: "Source_Material_Linkage"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Source_Material_Linkage
 
 **Domain**: Cross

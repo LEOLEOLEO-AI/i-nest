@@ -1,3 +1,10 @@
+---
+title: "MassConservationInductiveBias"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # MassConservationInductiveBias
 
 **Domain**: iNEST

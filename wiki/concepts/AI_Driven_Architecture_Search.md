@@ -1,3 +1,10 @@
+---
+title: "AI_Driven_Architecture_Search"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # AI_Driven_Architecture_Search
 
 **Domain**: Cross

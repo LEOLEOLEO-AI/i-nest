@@ -1,3 +1,10 @@
+---
+title: "SpiNNaker2_Chip"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # SpiNNaker2_Chip
 
 **Domain**: iNEST

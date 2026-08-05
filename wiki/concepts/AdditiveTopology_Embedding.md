@@ -1,3 +1,10 @@
+---
+title: "AdditiveTopology_Embedding"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # AdditiveTopology_Embedding
 
 **Domain**: TCC

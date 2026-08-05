@@ -1,3 +1,10 @@
+---
+title: "Direct_Training_Spiking_Neural_Networks"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Direct_Training_Spiking_Neural_Networks
 
 **Domain**: iNEST

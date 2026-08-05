@@ -1,3 +1,10 @@
+---
+title: "Digest_Note_Template"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Digest_Note_Template
 
 **Domain**: Cross

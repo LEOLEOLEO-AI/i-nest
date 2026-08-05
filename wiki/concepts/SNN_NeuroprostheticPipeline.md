@@ -1,3 +1,10 @@
+---
+title: "SNN_NeuroprostheticPipeline"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # SNN_NeuroprostheticPipeline
 
 **Domain**: Cross

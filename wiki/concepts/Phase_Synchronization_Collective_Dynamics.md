@@ -1,3 +1,10 @@
+---
+title: "Phase_Synchronization_Collective_Dynamics"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Phase_Synchronization_Collective_Dynamics
 
 **Domain**: Cross

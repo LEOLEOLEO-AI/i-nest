@@ -1,3 +1,10 @@
+---
+title: "2026-08-01_arXiv_DICE Detailed Inter-Chiplet End-to-End PHY Modeling for Accu"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-08-01_arXiv_DICE Detailed Inter-Chiplet End-to-End PHY Modeling for Accu
 
 **Domain**: TCC

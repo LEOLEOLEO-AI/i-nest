@@ -1,3 +1,10 @@
+---
+title: "05_连接模式：什么样的系统更脆弱？_-_得到APP"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 05_连接模式：什么样的系统更脆弱？_-_得到APP
 
 **Domain**: Cross

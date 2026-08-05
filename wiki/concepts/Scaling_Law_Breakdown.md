@@ -1,3 +1,10 @@
+---
+title: "Scaling_Law_Breakdown"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Scaling_Law_Breakdown
 
 **Domain**: iNEST

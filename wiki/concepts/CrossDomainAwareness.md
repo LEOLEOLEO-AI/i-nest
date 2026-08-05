@@ -1,3 +1,10 @@
+---
+title: "CrossDomainAwareness"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # CrossDomainAwareness
 
 **Domain**: Cross

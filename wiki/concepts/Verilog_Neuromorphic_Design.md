@@ -1,3 +1,10 @@
+---
+title: "Verilog_Neuromorphic_Design"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Verilog_Neuromorphic_Design
 
 **Domain**: iNEST

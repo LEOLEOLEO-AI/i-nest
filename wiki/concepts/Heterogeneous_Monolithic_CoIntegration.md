@@ -1,3 +1,10 @@
+---
+title: "Heterogeneous_Monolithic_CoIntegration"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Heterogeneous_Monolithic_CoIntegration
 
 **Domain**: TCC

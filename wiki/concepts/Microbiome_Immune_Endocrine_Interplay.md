@@ -1,3 +1,10 @@
+---
+title: "Microbiome_Immune_Endocrine_Interplay"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Microbiome_Immune_Endocrine_Interplay
 
 **Domain**: Cross

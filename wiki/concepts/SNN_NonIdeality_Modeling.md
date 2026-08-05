@@ -1,3 +1,10 @@
+---
+title: "SNN_NonIdeality_Modeling"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # SNN_NonIdeality_Modeling
 
 **Domain**: iNEST

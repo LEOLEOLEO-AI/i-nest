@@ -1,3 +1,10 @@
+---
+title: "Cognitive_Relapse_Decoupling"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Cognitive_Relapse_Decoupling
 
 **Domain**: Cross

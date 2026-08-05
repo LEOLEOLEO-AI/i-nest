@@ -1,3 +1,10 @@
+---
+title: "Cross_Node_Event_Propagation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Cross_Node_Event_Propagation
 
 **Domain**: Cross

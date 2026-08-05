@@ -1,3 +1,10 @@
+---
+title: "Topology_Aware_Resource_Allocation"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Topology_Aware_Resource_Allocation
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "Universal_Claim_Evidence_Requirement"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Universal_Claim_Evidence_Requirement
 
 **Domain**: Cross

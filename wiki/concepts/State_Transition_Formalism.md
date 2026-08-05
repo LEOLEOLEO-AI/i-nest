@@ -1,3 +1,10 @@
+---
+title: "State_Transition_Formalism"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # State_Transition_Formalism
 
 **Domain**: Cross

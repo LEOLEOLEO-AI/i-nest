@@ -1,3 +1,10 @@
+---
+title: "Fluidic_Hysterons"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Fluidic_Hysterons
 
 **Domain**: TCC

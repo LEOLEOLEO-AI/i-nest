@@ -1,3 +1,10 @@
+---
+title: "Photopolymerization_NoC"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Photopolymerization_NoC
 
 **Domain**: Cross

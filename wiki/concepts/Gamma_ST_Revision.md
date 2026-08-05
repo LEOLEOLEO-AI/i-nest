@@ -1,3 +1,10 @@
+---
+title: "Gamma_ST_Revision"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Gamma_ST_Revision
 
 **Domain**: TCC

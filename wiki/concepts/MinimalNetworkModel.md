@@ -1,3 +1,10 @@
+---
+title: "MinimalNetworkModel"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # MinimalNetworkModel
 
 **Domain**: iNEST

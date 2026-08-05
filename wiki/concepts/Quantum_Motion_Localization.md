@@ -1,3 +1,10 @@
+---
+title: "Quantum_Motion_Localization"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Quantum_Motion_Localization
 
 **Domain**: Cross

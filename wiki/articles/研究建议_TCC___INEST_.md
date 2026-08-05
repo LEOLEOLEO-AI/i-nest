@@ -1,3 +1,10 @@
+---
+title: "研究建议（TCC × INEST）"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 研究建议（TCC × INEST）
 
 **Domain**: TCC

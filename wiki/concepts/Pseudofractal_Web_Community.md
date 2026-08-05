@@ -1,3 +1,10 @@
+---
+title: "Pseudofractal_Web_Community"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Pseudofractal_Web_Community
 
 **Domain**: TCC

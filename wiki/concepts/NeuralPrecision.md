@@ -1,3 +1,10 @@
+---
+title: "NeuralPrecision"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # NeuralPrecision
 
 **Domain**: iNEST

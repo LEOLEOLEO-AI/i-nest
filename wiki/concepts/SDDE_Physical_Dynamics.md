@@ -1,3 +1,10 @@
+---
+title: "SDDE_Physical_Dynamics"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # SDDE_Physical_Dynamics
 
 **Domain**: TCC

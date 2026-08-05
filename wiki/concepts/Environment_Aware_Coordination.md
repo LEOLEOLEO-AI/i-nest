@@ -1,3 +1,10 @@
+---
+title: "Environment_Aware_Coordination"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Environment_Aware_Coordination
 
 **Domain**: Cross

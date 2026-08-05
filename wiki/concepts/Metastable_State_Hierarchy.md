@@ -1,3 +1,10 @@
+---
+title: "Metastable_State_Hierarchy"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Metastable_State_Hierarchy
 
 **Domain**: Cross

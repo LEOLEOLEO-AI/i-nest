@@ -1,3 +1,10 @@
+---
+title: "NeuromorphicRL_Locomotion"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # NeuromorphicRL_Locomotion
 
 **Domain**: iNEST

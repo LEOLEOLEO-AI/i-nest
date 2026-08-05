@@ -1,3 +1,10 @@
+---
+title: "NRV2XRelaySelection"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # NRV2XRelaySelection
 
 **Domain**: Cross

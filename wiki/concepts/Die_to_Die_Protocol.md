@@ -1,3 +1,10 @@
+---
+title: "Die_to_Die_Protocol"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Die_to_Die_Protocol
 
 **Domain**: TCC

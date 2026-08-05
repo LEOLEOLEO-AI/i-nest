@@ -1,3 +1,10 @@
+---
+title: "Spin_Glass_Annealing"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Spin_Glass_Annealing
 
 **Domain**: iNEST

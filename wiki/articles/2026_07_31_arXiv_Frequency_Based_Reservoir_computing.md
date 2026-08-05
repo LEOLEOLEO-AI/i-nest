@@ -1,3 +1,10 @@
+---
+title: "2026-07-31_arXiv_Frequency-Based Reservoir computing"
+type: article-summary
+domain: Cross
+created: 2026-08-04
+auto: true
+---
 # 2026-07-31_arXiv_Frequency-Based Reservoir computing
 
 **Domain**: Cross

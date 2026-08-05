@@ -1,3 +1,10 @@
+---
+title: "WiFi_CSI_Reservoir"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # WiFi_CSI_Reservoir
 
 **Domain**: Cross

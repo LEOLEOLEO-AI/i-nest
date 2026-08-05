@@ -1,3 +1,10 @@
+---
+title: "Bosonic_SPT_Phases"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Bosonic_SPT_Phases
 
 **Domain**: Cross

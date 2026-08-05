@@ -1,3 +1,10 @@
+---
+title: "Topology_Embedded_Field_Encoding"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # Topology_Embedded_Field_Encoding
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "GraphBasedSemanticRouting"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # GraphBasedSemanticRouting
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "从SDSoW到iNEST基线总纲"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 从SDSoW到iNEST基线总纲
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "Sloppiness"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Sloppiness
 
 **Domain**: iNEST

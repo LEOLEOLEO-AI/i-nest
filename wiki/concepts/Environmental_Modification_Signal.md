@@ -1,3 +1,10 @@
+---
+title: "Environmental_Modification_Signal"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Environmental_Modification_Signal
 
 **Domain**: Cross

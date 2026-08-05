@@ -1,3 +1,10 @@
+---
+title: "NGMM_Program"
+type: concept
+domain: TCC
+created: 2026-08-05
+auto: true
+---
 # NGMM_Program
 
 **Domain**: TCC

@@ -1,3 +1,10 @@
+---
+title: "ReSCom_Accelerator"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # ReSCom_Accelerator
 
 **Domain**: iNEST

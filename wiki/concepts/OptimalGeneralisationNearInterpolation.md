@@ -1,3 +1,10 @@
+---
+title: "OptimalGeneralisationNearInterpolation"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # OptimalGeneralisationNearInterpolation
 
 **Domain**: Cross

@@ -1,3 +1,10 @@
+---
+title: "Emergent_Intelligence_Theory"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Emergent_Intelligence_Theory
 
 **Domain**: iNEST

@@ -1,3 +1,10 @@
+---
+title: "Spectral_Generalization_Criteria"
+type: concept
+domain: iNEST
+created: 2026-08-05
+auto: true
+---
 # Spectral_Generalization_Criteria
 
 **Domain**: iNEST

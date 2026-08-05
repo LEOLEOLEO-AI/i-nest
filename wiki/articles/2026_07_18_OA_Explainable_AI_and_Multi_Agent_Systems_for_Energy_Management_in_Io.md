@@ -1,3 +1,10 @@
+---
+title: "2026-07-18_OA_Explainable AI and Multi-Agent Systems for Energy Management in IoT-Edge Environ"
+type: article-summary
+domain: TCC
+created: 2026-08-04
+auto: true
+---
 # 2026-07-18_OA_Explainable AI and Multi-Agent Systems for Energy Management in IoT-Edge Environ
 
 **Domain**: TCC

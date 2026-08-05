@@ -1,3 +1,10 @@
+---
+title: "Free_Energy_Principle_Topology"
+type: concept
+domain: Cross
+created: 2026-08-05
+auto: true
+---
 # Free_Energy_Principle_Topology
 
 **Domain**: Cross
