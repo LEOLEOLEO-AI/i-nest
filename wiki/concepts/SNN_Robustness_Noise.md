@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BioInspiredInterceptionTask]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
+[[Core_Spacetime_Tensor]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

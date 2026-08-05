@@ -14,10 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[BackflowTransformation]]
 [[BurstGatedRouting]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[Decoupling_Mechanism]]
 [[EventDrivenFunctionalConnectivity]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Fixed_Term_Project_Structure]]
+[[Interconnect_Routing]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[TCC]]

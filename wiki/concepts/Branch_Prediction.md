@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CellEmergence]]
 [[DifferentiableRasterizationPipeline]]
+[[HigherOrderSimplicialDynamics]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveFrequencyResonateFire]]
 [[Avoided_Criticality]]
+[[BioPlausibleDisturbanceObserver]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]

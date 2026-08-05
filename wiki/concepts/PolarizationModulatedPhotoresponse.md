@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NonEquilibriumComputing]]
+[[PhotoInducedCurrent]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]

@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MeanFieldSpinGlass]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

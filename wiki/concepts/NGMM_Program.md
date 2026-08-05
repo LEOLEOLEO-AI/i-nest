@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3DHI_Interconnect]]
 [[3D_Heterogeneous_Integration]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]

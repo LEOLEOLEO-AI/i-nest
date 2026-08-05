@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BerryCurvatureIsolation]]
+[[BioPlausiblePredictiveCoding]]
 [[CellEmergence]]
 [[Edge_Neuromorphic_Compute]]
 [[Intelligence_Emergence]]

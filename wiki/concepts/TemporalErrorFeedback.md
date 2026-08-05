@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CriticalityConstrainedPruning]]
 [[EventDrivenSynchronization]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticBinaryDynamics]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Temporal_Coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

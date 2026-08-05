@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

@@ -14,6 +14,8 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Heterogeneous_Integration]]
+[[Loihi2_SpikeEncoding]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

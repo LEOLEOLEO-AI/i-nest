@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalBrainGraphEmbedding]]
 [[Hierarchical_Interconnect]]
 [[Interconnect_Routing]]
+[[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[PhononicBandgapEngineering]]
 [[ReconfigurableSpikingRouting]]

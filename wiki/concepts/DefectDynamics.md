@@ -21,11 +21,13 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[RecurrentSpikingSocialNetwork]]
+[[SDI_STDP_Bond]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SelfOrganizedLearning]]
 [[SpikeTimingDependentOptimization]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
 

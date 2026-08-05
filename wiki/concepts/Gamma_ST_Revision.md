@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[EdgeIoTEnergyAwareness]]
+[[ElasticInferenceScheduling]]
 [[Memristive_STDP]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

@@ -1,0 +1,30 @@
+# Heterogeneous_Inference_Offload
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-05
+
+## Definition
+A method of distributing large language model inference tasks across heterogeneous compute resources (e.g., GPU, CPU, NPU, or in-network devices) rather than relying solely on GPUs. Enables TCC to leverage network-embedded compute for latency-sensitive inference stages, reducing GPU bottlenecks and improving end-to-end throughput.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[3DHI_Chiplet_Integration]]
+[[3DHI_Interconnect]]
+[[3DHI_Stacking]]
+[[3D_Heterogeneous_Integration]]
+[[3D_Integrated_Chiplet_Stacking]]
+[[External_to_OnDie_Evolution]]
+[[ReproducibleReservoirOutput]]
+[[TCC]]
+[[TopologyAwareTaskScheduling]]
+[[TopologyCentric_Interconnect]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

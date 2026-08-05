@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Enabled_Battlefield_Autonomy]]
+[[Active_Inference_Architecture]]
 [[CirculateFiringNeuron]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

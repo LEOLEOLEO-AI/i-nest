@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptivePhotonicRouter]]
 [[BackflowTransformation]]
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
@@ -21,6 +22,9 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[DualDrivenHybridNetwork]]
 [[EventDrivenFunctionalConnectivity]]
+[[Interconnect_Routing]]
+[[SelfOrganization]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

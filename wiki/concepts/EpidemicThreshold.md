@@ -28,10 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Topology_Integration]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyInducedCriticality]]
 [[UniversalIntelligence_Emergence]]
 [[ViewDependentAppearance]]
+[[神经形态计算]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

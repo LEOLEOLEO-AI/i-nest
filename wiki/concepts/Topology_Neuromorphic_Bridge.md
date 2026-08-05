@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[DirtyWeylSemimetal]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -18,6 +18,8 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[EdgeOfChaosComputation]]
 [[EdgeOfChaos]]
+[[Heterogeneous_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]

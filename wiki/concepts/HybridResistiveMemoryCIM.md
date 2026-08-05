@@ -16,6 +16,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_ComputeInMemory]]
+[[Ferroelectric_Devices]]
+[[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]

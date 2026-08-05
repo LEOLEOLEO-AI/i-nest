@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[Causal_Emergence]]
 [[Emergent_Computation]]
 [[Intelligence_Emergence]]

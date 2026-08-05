@@ -15,6 +15,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[ErrorAmplificationLimits]]
+[[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

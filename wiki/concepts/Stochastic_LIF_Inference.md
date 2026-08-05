@@ -15,6 +15,8 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Hardware_Accelerated_SNN]]
+[[Heterogeneous_Integration]]
+[[Memristive_Interconnect]]
 [[Microfluidic_Worm_Trap_Array]]
 [[MultiModel_Adapter_Architecture]]
 [[MultiScaleTemporalProcessing]]

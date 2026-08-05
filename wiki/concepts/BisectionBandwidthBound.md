@@ -1,0 +1,30 @@
+# BisectionBandwidthBound
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-05
+
+## Definition
+The interconnect property limiting Prefill's large-block reduction traffic, where the network's bisection bandwidth becomes the dominant bottleneck for thick-matrix GEMM operations. Identifies the specific topological requirement for Prefill phases, guiding TCC designs to prioritize high bisection bandwidth for bulk data movement.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[3D_Integrated_Chiplet_Stacking]]
+[[AdiabaticMultimodeBend]]
+[[Advanced_Packaging_Route]]
+[[ChipletRoutingFabric]]
+[[ChipletTopologyAwareness]]
+[[ChipletWaferInterconnectScaling]]
+[[Chiplet_Based_Trusted_Hardware]]
+[[Memory_Wall]]
+[[Network_Topology_Design]]
+[[TCC]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

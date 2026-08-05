@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotoIontronicSynapse]]
 [[ReliabilityOverheadTradeoff]]
 [[SpikePacketCompression]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayAwareSpikeEventDelivery]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientSNN]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

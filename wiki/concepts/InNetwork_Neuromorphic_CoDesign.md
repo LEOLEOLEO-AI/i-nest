@@ -13,10 +13,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BurstGatedRouting]]
+[[Criticality_Based_Feature_Extraction]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

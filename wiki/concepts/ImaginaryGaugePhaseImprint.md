@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BurstGatedRouting]]
+[[Chiplet_Interconnect_Topology]]
 [[DisorderedNetworkInterconnect]]
 [[FrozenRateOperator]]
 [[InNetworkNeuromorphicComms]]

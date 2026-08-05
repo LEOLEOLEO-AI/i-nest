@@ -22,3 +22,16 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Event_Driven_Architecture]]
+[[Memristor_Synapse]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
+[[Neuromorphic_Computing]]
+[[TCC]]
+[[getnote_2026-01-12_晶圆级神经网络能效革命]]
+[[getnote_2026-01-25_清华团队类脑计算突破]]
+[[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
+[[iNEST]]
+[[忆阻器]]

@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AddressRedundancyElimination]]
 [[CirculateFiringNeuron]]
+[[DirectTrainingSNN]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

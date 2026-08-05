@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DIntegratedPhotonicPackaging]]
 [[Architectural_Conditioning]]
+[[CST_Spatiotemporal_Complexity]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

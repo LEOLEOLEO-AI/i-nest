@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CirculateFiringNeuron]]
+[[Course_Based_FPGA_Projects]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

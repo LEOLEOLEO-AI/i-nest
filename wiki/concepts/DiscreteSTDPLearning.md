@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
+[[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[NeuromorphicHardware]]

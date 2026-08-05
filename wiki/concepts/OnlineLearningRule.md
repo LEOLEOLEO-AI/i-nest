@@ -14,7 +14,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
+[[FeFET_Differential_BitCell]]
 [[GradientFreeLowRankTraining]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]

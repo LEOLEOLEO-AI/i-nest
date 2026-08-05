@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
+[[Ferroelectric_ComputeInMemory]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

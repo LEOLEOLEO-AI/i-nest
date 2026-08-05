@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CorticalTypeDiversity]]
+[[Decoupled_Priors]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

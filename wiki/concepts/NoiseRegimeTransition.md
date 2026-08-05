@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
+[[Izhikevich_NeuronModel]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Physical_Reservoir_Substrate]]

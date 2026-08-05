@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[OpenSource_Neuromorphic_Framework]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[iNEST]]

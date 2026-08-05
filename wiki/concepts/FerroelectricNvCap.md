@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]
 [[HebbianLimitCycleLearning]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[待分类]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
+[[Neuromorphic_Computing]]
 [[NonHermitianTopology]]
 [[Nonreciprocity_Threshold]]
 [[ScaleFreeNetwork]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Aware_Packaging]]
 [[VerticalOpticalInterconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

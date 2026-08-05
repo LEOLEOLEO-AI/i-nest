@@ -13,9 +13,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[DifferentiableRasterizationPipeline]]
+[[Heterogeneous_Integration]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]

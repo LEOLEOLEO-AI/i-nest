@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[EventCameraPoseInput]]
+[[ImpactFallDetection]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[NeuromorphicSpikingTopology]]
@@ -25,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

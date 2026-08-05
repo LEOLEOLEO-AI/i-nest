@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveInferenceEdgeLoop]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_ERI]]

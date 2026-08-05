@@ -15,7 +15,10 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Course_Based_FPGA_Projects]]
 [[Hardware_Accelerated_SNN]]
+[[Heterogeneous_Integration]]
+[[Neuromorphic_Computing]]
 [[RTC_Primitive]]
 [[RTC_Primitive_Set]]
 [[Reservoir_Computing]]
@@ -29,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[WaferScaleSubstrate]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 

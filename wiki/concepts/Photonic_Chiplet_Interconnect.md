@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Free_Energy_Principle_Network]]
@@ -22,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

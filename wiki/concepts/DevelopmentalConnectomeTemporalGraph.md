@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Brain_Connectome]]
 [[Connectome_Inspired_Architecture]]
+[[Connectome_Reservoir]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

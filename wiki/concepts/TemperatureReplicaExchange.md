@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[CirculateFiringNeuron]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

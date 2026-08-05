@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Reservoir_Computing]]

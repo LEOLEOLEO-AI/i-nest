@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FatigueSTDP]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

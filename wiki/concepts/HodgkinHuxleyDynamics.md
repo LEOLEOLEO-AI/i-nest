@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_Topology]]
 [[TCC_Topology_Interconnect]]
 [[Topology_Interconnect]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

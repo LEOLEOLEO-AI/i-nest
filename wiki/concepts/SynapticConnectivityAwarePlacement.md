@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]

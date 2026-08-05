@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[DataDrivenCellularAxis]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[IntracorticalNeuralDecoding]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[WaferScale_Emergence]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Interconnect_Neuromorphic_Topology]]

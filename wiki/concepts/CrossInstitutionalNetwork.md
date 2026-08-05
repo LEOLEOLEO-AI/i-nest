@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[156QubitScale]]
 [[Allreduce_Latency_Probe]]
 [[CounterstreamSignalPropagation]]
 [[DeeplySupervisedSpiking]]

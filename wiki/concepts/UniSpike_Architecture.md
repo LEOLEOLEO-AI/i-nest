@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicRoutingOptimization]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

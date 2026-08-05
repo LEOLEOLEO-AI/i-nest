@@ -16,6 +16,8 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Heterogeneous_Integration]]
 [[LossSpikePhenomenon]]
 [[Memristor_Synapse]]
 [[RTC_Primitive]]

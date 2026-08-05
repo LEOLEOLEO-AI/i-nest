@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Interconnect_Topology]]
 [[Fractal_Scaling]]
 [[Hierarchical_Attachment]]
 [[Interconnect_Routing]]

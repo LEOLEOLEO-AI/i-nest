@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CapacityScalingLaw]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]

@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BrainScaleTopologyExploitation]]
 [[DynamicReconfigurationForFaultTolerance]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

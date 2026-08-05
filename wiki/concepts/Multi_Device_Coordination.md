@@ -12,12 +12,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveInferenceEdgeLoop]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ERI]]
 [[DARPA_ERI_2_0_Framework]]
 [[ERI_2_0_Framework]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Hardware_Accelerated_SNN]]
+[[Heterogeneous_Integration]]
 [[MultiModel_Adapter_Architecture]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]

@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Avoided_Criticality]]
 [[CirculateFiringNeuron]]
 [[CriticalFixedPoint]]
 [[Dynamic_Expert_Fusion]]

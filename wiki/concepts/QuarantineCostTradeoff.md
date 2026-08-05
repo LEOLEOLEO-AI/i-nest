@@ -14,11 +14,13 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogInMemoryComputing]]
 [[CST_SynergisticCoordination]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[CounterstreamSignalPropagation]]
 [[DifferentiableRasterizationPipeline]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Network_on_Chip]]
 [[NoC_EventRouting]]
 [[ParallelSNNArchitecture]]
 [[Resilient_Satellite_Mesh]]
@@ -28,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[TSVEncapsulationStress]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

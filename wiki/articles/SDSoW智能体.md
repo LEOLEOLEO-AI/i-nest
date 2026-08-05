@@ -20,6 +20,7 @@ wafer, 类脑
 [[Neuromorphic_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]

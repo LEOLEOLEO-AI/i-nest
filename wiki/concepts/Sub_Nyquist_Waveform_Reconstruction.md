@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[PhotonicReservoirComputing]]
 [[PhysicalReservoirTransientDynamics]]

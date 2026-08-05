@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
+[[Memristive_ANN_Hardware]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

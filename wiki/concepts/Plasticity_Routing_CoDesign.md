@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
+[[Free_Energy_Principle_Network]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Memory_Wall]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
@@ -58,3 +59,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]

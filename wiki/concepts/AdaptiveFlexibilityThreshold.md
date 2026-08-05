@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BioInspiredLearningRule]]
+[[Contested_Priors_Mechanism]]
 [[FlagOS_2_0]]
 [[FlexibilityThreshold]]
 [[Free_Energy_Principle_Network]]

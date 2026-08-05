@@ -15,6 +15,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CST_CoordinationMechanism]]
+[[Complex_System_Theory]]
+[[CrystalPalace_Program]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

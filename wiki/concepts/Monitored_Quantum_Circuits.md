@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
+[[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NoiseRegimeTransition]]

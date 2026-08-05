@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CircadianGateModulation]]
 [[CirculateFiringNeuron]]
 [[Developmental_Computing]]
 [[Dynamic_Expert_Fusion]]

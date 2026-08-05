@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Hysteretic_State_Encoding]]
 [[Intelligence_Emergence]]
+[[MeanFieldSpinGlass]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Quantum_Reservoir_Computing]]

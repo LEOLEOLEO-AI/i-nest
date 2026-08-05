@@ -12,11 +12,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

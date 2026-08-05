@@ -17,6 +17,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Hardware_Accelerated_SNN]]
+[[Heterogeneous_Integration]]
+[[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

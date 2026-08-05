@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[ActivityAvalanche]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

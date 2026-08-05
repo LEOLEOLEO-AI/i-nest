@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN_to_SNN_Conversion_Error_Amplification]]
+[[AddressRedundancyElimination]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -21,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[Temporal_Coding]]
 [[iNEST]]

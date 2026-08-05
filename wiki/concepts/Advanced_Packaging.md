@@ -13,11 +13,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3DHI_Stacking]]
 [[3D_IC_Stacking]]
 [[3D_Integration]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

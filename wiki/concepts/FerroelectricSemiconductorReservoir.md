@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[STDP_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

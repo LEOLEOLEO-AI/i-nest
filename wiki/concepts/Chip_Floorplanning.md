@@ -15,13 +15,18 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
+[[Complex_System_Theory]]
 [[ConvexNonConvexTradeoff]]
 [[HybridConvexOptimization]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[PinAssignmentOptimization]]
 [[RoutabilityDrivenFloorplanning]]
 [[TCC]]
 [[TopologyAwareFloorplanning]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

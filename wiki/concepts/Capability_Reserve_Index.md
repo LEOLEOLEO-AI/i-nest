@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Cognitive_Relapse_Decoupling]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Representation_Learning_Generalization]]

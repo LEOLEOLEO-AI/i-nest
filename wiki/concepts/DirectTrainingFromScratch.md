@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
+[[CoDesigned_SNN]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

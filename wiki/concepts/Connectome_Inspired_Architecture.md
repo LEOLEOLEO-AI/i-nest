@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]
+[[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

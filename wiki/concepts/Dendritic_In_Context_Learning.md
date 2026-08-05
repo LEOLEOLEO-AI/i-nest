@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[Emergent_Intelligence_Threshold]]
+[[ITP_STDP]]
 [[InNetworkAgentRewiring]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
@@ -21,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

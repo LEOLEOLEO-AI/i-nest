@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[PrecisionConfigurableSparseNvCIM]]
+[[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]

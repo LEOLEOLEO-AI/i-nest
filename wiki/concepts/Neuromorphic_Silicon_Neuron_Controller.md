@@ -14,8 +14,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateFire]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[EmulationTheoryObserver]]
 [[Entropy_Connectivity_Path]]
+[[Memristor_Synapse]]
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -23,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

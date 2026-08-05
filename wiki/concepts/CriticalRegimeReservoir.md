@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[DynamicalSelfDualCriticality]]
@@ -20,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[Reservoir_Computing_Architecture]]
 [[Scaling_Laws]]
 [[Self_Organized_Criticality]]
 [[TCC]]

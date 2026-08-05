@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
+[[FractureMechanism]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

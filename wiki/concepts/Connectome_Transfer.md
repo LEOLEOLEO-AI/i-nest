@@ -12,11 +12,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BrainBodyResonance]]
 [[Brain_Connectome]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]

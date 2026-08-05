@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenAttentionMechanism]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[NeuralNetworkSpectralAnalysis]]

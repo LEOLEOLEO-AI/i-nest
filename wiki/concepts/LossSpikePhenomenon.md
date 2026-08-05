@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Local_Approximation_Dynamics]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Packaging]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

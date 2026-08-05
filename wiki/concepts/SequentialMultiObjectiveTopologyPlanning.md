@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Capability_Reserve_Index]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

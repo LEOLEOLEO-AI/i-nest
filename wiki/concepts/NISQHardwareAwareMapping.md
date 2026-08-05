@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

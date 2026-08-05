@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnisotropicGaussianPrimitives]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

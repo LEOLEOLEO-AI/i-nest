@@ -15,6 +15,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[ErrorAmplificationLimits]]
+[[Heterogeneous_Integration]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

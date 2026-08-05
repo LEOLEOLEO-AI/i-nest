@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
+[[Open_Source_Research_Stack]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[TCC]]

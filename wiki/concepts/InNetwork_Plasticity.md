@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[ClocklessReconfigurableChip]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[FunctionalInterfaceBlocks]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

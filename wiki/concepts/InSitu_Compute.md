@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BioPlausiblePredictiveCoding]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenTracking]]
 [[Intelligence_Emergence]]

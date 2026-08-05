@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Bioavailability_Enhancement]]
 [[Defense_Industrial_Base_Reshaping]]
 [[External_to_OnDie_Evolution]]
+[[Free_Energy_Principle_Network]]
 [[GlobalInformationDominance]]
 [[SDI_Bond]]
 [[Stigmergic_RL]]

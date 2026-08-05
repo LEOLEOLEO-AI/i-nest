@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActivityAvalanche]]
+[[Avoided_Criticality]]
 [[Criticality_Threshold]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

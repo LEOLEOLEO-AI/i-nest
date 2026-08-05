@@ -2,7 +2,7 @@
   "schema": "pipeline-guard-v1",
   "status": "paused",
   "started": null,
-  "finished": "2026-08-04T08:17:26+08:00",
+  "finished": "2026-08-05T08:14:53+08:00",
   "timeout_minutes": 35,
   "detail": "Previous timeout requires confirmation.",
   "log": null,

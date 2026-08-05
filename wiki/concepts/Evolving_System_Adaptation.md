@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Stacking]]
 [[AI_FullSpectrum_Strategy]]
+[[Advanced_Packaging_Route]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]

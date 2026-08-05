@@ -14,8 +14,11 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[Anisotropic_Correlation_Length]]
 [[Architectural_Conditioning]]
+[[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

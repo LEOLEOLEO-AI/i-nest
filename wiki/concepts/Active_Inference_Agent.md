@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Activity_Dependent_Plasticity]]
 [[AdaptiveFrequencyResonateFire]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

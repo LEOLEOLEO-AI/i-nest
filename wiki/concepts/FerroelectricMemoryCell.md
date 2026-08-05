@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Memristive_ANN_Hardware]]
+[[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[DirtyWeylSemimetal]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

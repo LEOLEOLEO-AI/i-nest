@@ -18,6 +18,8 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Baseline_Change_Record]]
 [[BidirectionalRingTopology]]
+[[Contested_Priors_Mechanism]]
+[[Network_Topology_Design]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[QuantumDeeplySupervisedSpiking]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]

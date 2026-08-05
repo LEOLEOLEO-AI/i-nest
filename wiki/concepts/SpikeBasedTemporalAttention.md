@@ -14,7 +14,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[EEGSpikeEncoding]]
 [[EventDrivenSynchronization]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

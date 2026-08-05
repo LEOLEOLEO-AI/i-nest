@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CrossLayer_SignalRouting]]
 [[EdgeIoTEnergyAwareness]]
+[[Free_Energy_Principle_Network]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[MoE_Routing]]

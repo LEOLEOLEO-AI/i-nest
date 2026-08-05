@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
 [[CriticalityDrivenAdaptation]]
+[[CriticalityDrivenStateTransition]]
 [[CriticalityDrivenTopology]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality_Induced_Plasticity]]

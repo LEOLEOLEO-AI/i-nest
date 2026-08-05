@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[EdgeOfChaosComputation]]
 [[EdgeOfChaos]]
+[[GenericObjectTracking]]
 [[IMPLYMemristiveISA]]
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]

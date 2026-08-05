@@ -14,7 +14,10 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[Complex_System_Theory]]
+[[CriticalFixedPoint]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

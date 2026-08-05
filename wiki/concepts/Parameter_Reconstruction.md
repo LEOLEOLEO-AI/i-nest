@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BulletTrainScheduling]]
+[[CoDesigned_SNN]]
 [[Emergent_Intelligence_Threshold]]
 [[Globally_Optimal_SNN_Training]]
 [[Intelligence_Emergence]]

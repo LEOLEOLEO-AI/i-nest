@@ -12,9 +12,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AvalancheBranchingRatio]]
+[[BranchingRatio]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EdgeIoTEnergyAwareness]]

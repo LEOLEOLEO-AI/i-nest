@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CoPackagedOptics]]
 [[Dynamic_Expert_Fusion]]
+[[Ferroelectric_ComputeInMemory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]

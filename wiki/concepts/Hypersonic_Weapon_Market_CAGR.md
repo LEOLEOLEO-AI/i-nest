@@ -14,7 +14,9 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogInMemoryComputing]]
 [[CST_SynergisticCoordination]]
+[[Complex_System]]
 [[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
 [[DifferentiableRasterizationPipeline]]
 [[LossSpikePhenomenon]]
 [[Microfluidic_Worm_Trap_Array]]

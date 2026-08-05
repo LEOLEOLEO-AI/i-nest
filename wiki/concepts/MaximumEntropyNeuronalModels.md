@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActivityAvalanche]]
+[[AdaptiveFrequencyResonateAndFire]]
 [[CriticalityConstrainedPruning]]
 [[Criticality_Avoidance_Theory]]
 [[Criticality_of_Natural_Languages]]

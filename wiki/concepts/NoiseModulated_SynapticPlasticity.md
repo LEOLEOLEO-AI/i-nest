@@ -12,12 +12,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ConductingPolymerDendriteMemory]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

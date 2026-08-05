@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[QuantumChaos]]
+[[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[ST_SNN]]
@@ -28,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

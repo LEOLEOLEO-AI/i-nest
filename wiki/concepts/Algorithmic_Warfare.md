@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
+[[Criticality_Based_Feature_Extraction]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

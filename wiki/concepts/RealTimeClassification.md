@@ -12,11 +12,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
 [[Criticality_of_Natural_Languages]]
 [[HeterogeneousChipletIntegration]]
+[[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[LossSpikePhenomenon]]
 [[MultiQPUSimulation]]

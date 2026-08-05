@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FreeEnergyPrinciple]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]

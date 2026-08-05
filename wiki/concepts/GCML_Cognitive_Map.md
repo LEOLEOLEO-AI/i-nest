@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsAbsence]]
 [[WaferScale_Emergence]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]

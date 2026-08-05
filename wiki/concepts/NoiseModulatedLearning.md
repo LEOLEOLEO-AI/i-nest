@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
+[[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

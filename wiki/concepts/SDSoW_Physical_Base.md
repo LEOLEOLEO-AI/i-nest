@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Software_Defined_Interconnect]]
 [[TCC]]
 
 ## Sources

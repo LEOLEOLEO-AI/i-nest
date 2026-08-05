@@ -14,10 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Avalanche_Dynamics]]
 [[Avoided_Criticality]]
+[[BioPlausibleDisturbanceObserver]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DynamicalCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SNN]]
 [[ST_SNN]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
 
 ## Sources

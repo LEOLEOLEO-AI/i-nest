@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Parameter_Reconstruction]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SNN_Backpropagation_Through_Time]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

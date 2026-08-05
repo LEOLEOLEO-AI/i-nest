@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
 [[Network_Topology_Design]]

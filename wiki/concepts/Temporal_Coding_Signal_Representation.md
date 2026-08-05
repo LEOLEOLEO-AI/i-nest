@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
+[[ElasticInferenceScheduling]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[STDP_Learning]]

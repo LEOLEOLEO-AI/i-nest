@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[OptimalRepresentation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[iNEST]]

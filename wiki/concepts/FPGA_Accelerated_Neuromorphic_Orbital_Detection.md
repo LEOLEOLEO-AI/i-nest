@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Term_Project_Structure]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

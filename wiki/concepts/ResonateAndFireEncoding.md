@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[Distributed_Spike_Communication]]
+[[EventDrivenAttentionMechanism]]
 [[Memory_Wall]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]

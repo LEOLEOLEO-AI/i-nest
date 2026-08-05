@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SiC_GaN_Power_Integration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

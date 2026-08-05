@@ -12,3 +12,12 @@ SDI, TCC, topology, wafer, 互连, 拓扑, 晶圆
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Network_Topology_Design]]
+[[P_Paradigm]]
+[[SDI_Bond]]
+[[TCC]]
+[[Wafer_Scale_Integration]]

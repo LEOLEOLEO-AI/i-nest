@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[DisorderDrivenQuantumPhaseTransition]]
 [[Dynamic_Expert_Fusion]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

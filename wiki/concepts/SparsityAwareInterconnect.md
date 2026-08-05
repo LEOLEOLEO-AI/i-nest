@@ -14,7 +14,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_NoC_Interconnect]]
 [[Dynamic_Expert_Fusion]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]

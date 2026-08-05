@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
 [[Event_Driven_Architecture]]
 [[MembranePotentialModulation]]

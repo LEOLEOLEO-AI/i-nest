@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CapacityScalingLaw]]
 [[CirculateFiringNeuron]]
+[[CompactLocalisedStates]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

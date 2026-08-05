@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FlexibleNeuromorphicAccelerator]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

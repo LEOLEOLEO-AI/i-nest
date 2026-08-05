@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
+[[CrystalPalace_Program]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

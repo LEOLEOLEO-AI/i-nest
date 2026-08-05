@@ -18,6 +18,8 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_ComputeInMemory]]
+[[Ferroelectric_Devices]]
+[[FlagOS_2_0]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

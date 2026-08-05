@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[HiddenTopologyReveal]]
 [[Intelligence_Emergence]]
+[[Macro_System_Description]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

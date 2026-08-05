@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Contested_Prior_Resolution]]
+[[EventDrivenSynchronization]]
 [[FPGA_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]

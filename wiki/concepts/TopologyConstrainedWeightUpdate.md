@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BurstGatedRouting]]
+[[Criticality_Based_Feature_Extraction]]
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

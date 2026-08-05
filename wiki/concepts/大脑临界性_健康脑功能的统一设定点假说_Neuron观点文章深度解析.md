@@ -22,3 +22,12 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[2026-06-15_大脑的量子纠缠与信息动力学]]
+[[Brain_Connectome]]
+[[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
+[[TCC]]
+[[iNEST]]

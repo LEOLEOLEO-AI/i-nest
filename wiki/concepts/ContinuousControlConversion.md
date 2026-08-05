@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
+[[Contested_Priors_Mechanism]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridConvexOptimization]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[PinAssignmentOptimization]]
 [[Representation_Learning_Generalization]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

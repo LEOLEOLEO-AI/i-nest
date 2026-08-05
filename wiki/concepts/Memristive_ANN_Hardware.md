@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristor_Hardware_ANN]]

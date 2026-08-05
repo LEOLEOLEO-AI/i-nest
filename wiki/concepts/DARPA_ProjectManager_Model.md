@@ -13,9 +13,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[ApplicationScenarioReconstruction]]
 [[CST_SynergisticCoordination]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[DTGA]]
 [[FPGA_Accelerated_SNN]]

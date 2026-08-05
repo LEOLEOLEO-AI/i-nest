@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Management]]
 [[AdaptiveFrequencyResonateFire]]
 [[Avoided_Criticality]]
+[[BioPlausibleDisturbanceObserver]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]

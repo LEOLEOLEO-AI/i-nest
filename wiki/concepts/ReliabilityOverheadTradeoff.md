@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[CirculateFiringNeuron]]
 [[EdgeIoTEnergyAwareness]]
@@ -22,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuralPrecision]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 

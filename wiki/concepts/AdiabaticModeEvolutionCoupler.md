@@ -14,7 +14,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Integration_Route]]
 [[CrossbarFabricTopology]]
+[[Heterogeneous_Integration]]
 [[ImmobilizationStabilityMechanism]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

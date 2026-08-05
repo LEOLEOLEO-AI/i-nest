@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[DiscreteSTDP]]
 [[Event_Driven_Architecture]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

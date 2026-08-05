@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
@@ -24,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[Reservoir_Computing_Architecture]]
 [[iNEST]]
 
 ## Sources

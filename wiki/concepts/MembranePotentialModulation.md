@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
+[[Fatigue_SpikePattern]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SNN]]

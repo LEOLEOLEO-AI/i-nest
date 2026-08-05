@@ -14,11 +14,13 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[Emergent_Intelligence_Threshold]]
+[[ITP_STDP]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TemporalCreditAssignment]]

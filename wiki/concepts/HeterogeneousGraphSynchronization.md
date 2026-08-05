@@ -16,6 +16,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CST_SynergisticCoordination]]
+[[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

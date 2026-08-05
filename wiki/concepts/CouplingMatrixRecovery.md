@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Accessibility_Plasticity]]
+[[AdaptivePhotonicRouter]]
 [[Allreduce_Latency_Probe]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]
@@ -22,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

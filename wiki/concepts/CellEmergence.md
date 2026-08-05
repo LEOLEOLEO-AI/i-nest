@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BurstGatedRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MetaFAIR_ArchitectureDiscovery]]

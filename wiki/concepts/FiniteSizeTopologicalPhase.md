@@ -12,7 +12,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BackflowTransformation]]
 [[CST_MasterEquation]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[EpidemicThreshold]]
 [[Fluidic_Hysterons]]
@@ -23,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_Topology_Integration]]
 [[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalChargeSuperposition]]
 [[TopologyInducedCriticality]]

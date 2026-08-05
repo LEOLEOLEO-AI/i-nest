@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
+[[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]

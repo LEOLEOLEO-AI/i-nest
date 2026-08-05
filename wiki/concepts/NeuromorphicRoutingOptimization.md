@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristor_Network]]
 [[Model_Routing_Protocol]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

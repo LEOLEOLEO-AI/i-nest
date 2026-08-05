@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Fatigue_SpikePattern]]
 [[LocalLearningRules]]
+[[MembranePotentialModulation]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SNN]]

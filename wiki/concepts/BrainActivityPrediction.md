@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossTaskNeuralRepresentation]]
+[[DataDrivenCellularAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]

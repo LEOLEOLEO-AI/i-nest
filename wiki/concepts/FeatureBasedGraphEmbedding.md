@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[BondMovingDecimation]]
 [[Emergent_Intelligence_Threshold]]
 [[FeatureBasedGraph]]
+[[GateModelQuantumOptimization]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

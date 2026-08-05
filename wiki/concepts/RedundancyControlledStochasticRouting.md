@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BurstGatedRouting]]
+[[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

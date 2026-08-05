@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[ITP_STDP]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[STDP_Plasticity]]

@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AstrocyteInspiredRepair]]
 [[Brain_Connectome]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

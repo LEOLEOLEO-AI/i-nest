@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeOfChaos]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
+[[Monitored_Quantum_Circuits]]
 [[Network_Topology_Design]]
 [[PhysicalReservoirTransientDynamics]]
 [[Reservoir_Computing]]

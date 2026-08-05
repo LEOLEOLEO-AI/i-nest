@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Interconnect_Topology]]
 [[EdgeIoTEnergyAwareness]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

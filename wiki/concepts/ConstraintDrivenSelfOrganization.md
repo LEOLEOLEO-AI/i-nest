@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EntangledCriticality]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[RecursiveSelfReferentialArchitecture]]

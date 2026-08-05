@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[NonHermitianTopology]]
+[[PhysicalReservoirDynamicsEncoding]]
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SuperparamagneticSwitchingRate]]

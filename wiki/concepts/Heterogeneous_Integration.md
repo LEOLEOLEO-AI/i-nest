@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[EmergentOrder]]
 [[FPGA_Prototype_Validation]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Mesoscale_Heterogeneous_Integration]]

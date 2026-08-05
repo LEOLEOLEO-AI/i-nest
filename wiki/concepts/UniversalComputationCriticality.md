@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CriticalityInducedTopology]]
 [[Dynamic_Expert_Fusion]]
+[[Long_Range_Interactions]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]

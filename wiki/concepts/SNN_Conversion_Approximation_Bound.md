@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[Fatigue_SpikePattern]]
+[[MembranePotentialModulation]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SNN]]

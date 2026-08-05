@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Analog_Computation]]
 [[CirculateFiringNeuron]]
+[[Constructed_Reality_Interconnect]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

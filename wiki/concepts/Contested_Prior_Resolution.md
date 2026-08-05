@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ST_SNN]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources

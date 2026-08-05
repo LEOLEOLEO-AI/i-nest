@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
+[[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

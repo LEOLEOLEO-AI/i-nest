@@ -15,11 +15,13 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Brain_Connectome]]
 [[CST_MasterEquation]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Connectome_Transfer]]
 [[EventDrivenFunctionalConnectivity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[STDP_Topology_Integration]]
 [[STDP_iNEST]]
@@ -27,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedLearning]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalChargeSuperposition]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

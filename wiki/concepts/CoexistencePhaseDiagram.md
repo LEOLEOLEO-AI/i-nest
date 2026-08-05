@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BioPlausibleNeuromorphicDisturbanceObserver]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

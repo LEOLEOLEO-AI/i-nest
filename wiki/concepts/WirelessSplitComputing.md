@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenTracking]]
+[[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_Topology]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDSoW]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[Generalization_Bound_Spectra]]
 [[InNetworkAgentRewiring]]

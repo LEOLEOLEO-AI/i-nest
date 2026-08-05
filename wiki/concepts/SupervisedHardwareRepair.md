@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[OnChipOpticalTweezers]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[SNN]]
+[[ST_SNN]]
 [[SelfOrganizationDynamics]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]

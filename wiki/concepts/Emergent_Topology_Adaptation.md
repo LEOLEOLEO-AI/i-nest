@@ -16,6 +16,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CST_Spatiotemporal_Complexity]]
+[[ComplexTopologicalStructures]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

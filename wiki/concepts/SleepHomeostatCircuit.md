@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[DynamicalCriticality]]
 [[Edge_Neuromorphic_Compute]]
+[[ElasticInferenceScheduling]]
 [[EmulationTheoryObserver]]
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]
@@ -24,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

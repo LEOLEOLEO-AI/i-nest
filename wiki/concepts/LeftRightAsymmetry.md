@@ -12,6 +12,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AstrocyteInspiredRepair]]
+[[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]
 [[FormalLinguisticCompetence]]
@@ -22,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]
+[[Self_Organized_Criticality]]
 [[Sleep_EEG_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

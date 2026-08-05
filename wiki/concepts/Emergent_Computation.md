@@ -15,6 +15,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CST_CoordinationMechanism]]
+[[Complex_System_Theory]]
+[[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

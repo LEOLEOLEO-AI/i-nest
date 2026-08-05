@@ -12,10 +12,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

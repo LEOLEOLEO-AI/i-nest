@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]

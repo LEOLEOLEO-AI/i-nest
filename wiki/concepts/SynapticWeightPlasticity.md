@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[On_Chip_STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
+[[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

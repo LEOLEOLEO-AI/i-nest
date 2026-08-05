@@ -17,10 +17,13 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareLoss]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
+[[Neuromorphic_Computing]]
 [[PinAssignmentOptimization]]
 [[ReconfigurableSpikingRouting]]
 [[RoutabilityDrivenFloorplanning]]
+[[Spiking_Neural_Network]]
 [[TCC]]
+[[新型计算]]
 [[神经形态计算]]
 
 ## Sources

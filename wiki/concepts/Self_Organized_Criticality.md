@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_of_Natural_Languages]]
 [[DisorderInducedCriticality]]
 [[DynamicalCriticality]]
+[[Edge_of_Chaos_Coastal_Dynamics]]
 [[MicroCriticalAgent]]
 [[OptimalRepresentationCriticality]]
 [[OptimalRepresentation]]

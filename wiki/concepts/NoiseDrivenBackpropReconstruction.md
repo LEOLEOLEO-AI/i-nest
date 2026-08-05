@@ -14,8 +14,10 @@ Auto-extracted concept from raw material compilation.
 
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
+[[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]

@@ -12,10 +12,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DiscreteContinuous_Unification]]
 [[MonitoredQuantumDynamics]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[QuantumChaos]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]

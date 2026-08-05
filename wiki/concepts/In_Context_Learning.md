@@ -14,10 +14,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[CriticalFluctuationReservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]

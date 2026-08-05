@@ -12,12 +12,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[BiasEvaluationMetrics]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]

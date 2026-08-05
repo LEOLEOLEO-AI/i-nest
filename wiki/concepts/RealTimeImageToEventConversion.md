@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[HebbianLimitCycleLearning]]
+[[Heterogeneous_Integration]]
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
@@ -23,10 +24,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomainAwareness]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

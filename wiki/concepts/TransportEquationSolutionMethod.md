@@ -17,6 +17,8 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityConstrainedPruning]]
 [[DeeplySupervisedSpiking]]
 [[GSK_Summarize]]
+[[Heterogeneous_Integration]]
+[[Izhikevich_NeuronModel]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

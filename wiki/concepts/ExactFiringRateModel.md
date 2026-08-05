@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BioPlausiblePredictiveCoding]]
 [[Dynamic_Expert_Fusion]]
 [[ElasticSpikingTransformer]]
 [[Emergent_Intelligence_Threshold]]
@@ -22,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingTransformer]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

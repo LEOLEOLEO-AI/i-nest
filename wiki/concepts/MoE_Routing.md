@@ -20,7 +20,9 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[BarrierConditionedTrajectory]]
 [[BurstGatedRouting]]
+[[CouplingMatrixRecovery]]
 [[Interconnect_Routing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

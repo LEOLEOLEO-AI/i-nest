@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AcademicDevelopmentCoCreation]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

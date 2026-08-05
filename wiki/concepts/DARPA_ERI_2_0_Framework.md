@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
+[[Beyond_Moore_Pathway]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_ERI]]

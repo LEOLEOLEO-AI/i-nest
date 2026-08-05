@@ -12,9 +12,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

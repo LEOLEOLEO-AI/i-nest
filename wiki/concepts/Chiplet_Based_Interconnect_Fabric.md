@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DIntegratedPhotonicPackaging]]
 [[AI_FullSpectrum_Strategy]]
+[[AdiabaticModeEvolutionCoupler]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]

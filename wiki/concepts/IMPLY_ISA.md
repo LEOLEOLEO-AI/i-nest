@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CrossSubstrateHomology]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Intelligence_Emergence]]
 [[Material_Implication]]
 [[Memristive_Topology]]

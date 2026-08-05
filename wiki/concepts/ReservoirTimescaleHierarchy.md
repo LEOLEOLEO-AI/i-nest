@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]
 [[PhysicalReservoirTransientDynamics]]
+[[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[TopologyFragility]]

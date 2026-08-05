@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagScale]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

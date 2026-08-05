@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveDensityControl]]
 [[BioInspired_Interception_Control]]
+[[Cognitive_Relapse_Architecture]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]
 [[Ising_Formulation]]

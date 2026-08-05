@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

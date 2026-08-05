@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BiasEvaluationMetrics]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]

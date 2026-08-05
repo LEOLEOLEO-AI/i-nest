@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Activity_Dependent_Plasticity]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateFire]]
 [[DynamicalCriticality]]
@@ -24,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
 [[SleepHomeostatCircuit]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

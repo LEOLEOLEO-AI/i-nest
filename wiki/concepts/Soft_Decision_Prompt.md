@@ -14,8 +14,10 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]
+[[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Spike_Encoding_of_fMRI]]

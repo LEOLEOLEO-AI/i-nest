@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]

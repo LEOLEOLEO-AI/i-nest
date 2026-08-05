@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[CrystalPalace_Program]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

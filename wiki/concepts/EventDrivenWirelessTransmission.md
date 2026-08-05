@@ -13,6 +13,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenAttentionMechanism]]
 [[EventDrivenTracking]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

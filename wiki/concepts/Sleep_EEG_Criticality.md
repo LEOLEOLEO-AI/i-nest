@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AstrocyteInspiredRepair]]
 [[CriticalityConstrainedPruning]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]

@@ -14,8 +14,11 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_FullSpectrum_Strategy]]
+[[Advanced_Packaging_Route]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

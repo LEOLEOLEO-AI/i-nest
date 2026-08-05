@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[Memristive_Topology]]

@@ -17,6 +17,8 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Ferroelectric_ComputeInMemory]]
+[[Ferroelectric_Devices]]
+[[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

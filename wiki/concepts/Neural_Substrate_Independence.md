@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Brain_Connectome]]
+[[Connectome_Reservoir]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]

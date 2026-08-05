@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[GradientFreeLowRankTraining]]
 [[Hardware_Accelerated_SNN]]
+[[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]

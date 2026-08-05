@@ -12,6 +12,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]

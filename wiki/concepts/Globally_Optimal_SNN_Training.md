@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CirculateFiringNeuron]]
 [[EEGToNeuromorphicMapping]]
+[[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]

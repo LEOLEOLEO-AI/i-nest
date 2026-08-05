@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[iNEST]]
 
 ## Sources

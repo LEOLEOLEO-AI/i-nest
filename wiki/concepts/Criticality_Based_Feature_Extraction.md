@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

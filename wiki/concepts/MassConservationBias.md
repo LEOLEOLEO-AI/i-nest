@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeOfChaos]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
+[[Izhikevich_NeuronModel]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

@@ -14,6 +14,8 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[ChipletRoutingFabric]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Communication_Trace_Diagnostics]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

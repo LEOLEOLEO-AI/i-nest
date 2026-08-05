@@ -17,7 +17,9 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memristor_Network]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
@@ -29,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 

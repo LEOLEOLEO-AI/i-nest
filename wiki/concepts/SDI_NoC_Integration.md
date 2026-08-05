@@ -12,8 +12,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -23,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

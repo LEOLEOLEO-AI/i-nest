@@ -14,7 +14,10 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Avoided_Criticality]]
+[[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
