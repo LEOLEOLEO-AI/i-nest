@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[Epithelial_Barrier_Integrity]]
 [[FunctionalInterfaceBlocks]]
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]

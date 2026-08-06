@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Adaptive_Deep_Brain_Stimulation]]
 [[CirculateFiringNeuron]]
+[[CognitiveFeedbackLoop]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FrozenRateOperator]]

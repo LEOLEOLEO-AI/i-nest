@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[PrecisionConfigurableSparseNvCIM]]
 [[SNN]]
 [[SNN_Neuroimaging_Bridge]]
+[[SNN_VisualSemanticDecoder]]
 [[Self_Organized_Criticality]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]

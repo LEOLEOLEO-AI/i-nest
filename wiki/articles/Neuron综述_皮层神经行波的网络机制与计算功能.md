@@ -1,18 +1,11 @@
----
-title: "Neuron综述：皮层神经行波的网络机制与计算功能"
-type: article-summary
-domain: Cross
-created: 2026-08-05
-auto: true
----
 # Neuron综述：皮层神经行波的网络机制与计算功能
 
 **Domain**: Cross
 **Source**: 00_Inbox\Neuron综述：皮层神经行波的网络机制与计算功能.md
-**Compiled**: 2026-08-05
+**Compiled**: 2026-08-06
 
 ## Summary
-title: getnote_1917435043102625880_Neuron综述：皮层神经行波的网络机制与计算功能 date: 2026-08-04 21:00 note_id: 1917435043102625880 title: "Neuron综述：皮层神经行波的网络机制与计算功能" created: 2026-08-03 17:49:01
+title: "Neuron综述：皮层神经行波的网络机制与计算功能" - getnote_2026-08-04_getnote_1917435043102625880_Neuron综述：皮层神经行波的网络机制与计算功能 - getnote_1917435043102625880_Neuron综述：皮层神经行波的网络机制与计算功能 date: 2026-08-04 21:00 note_id: 1917435043102625880
 
 ## Keywords
 iNEST, 拓扑

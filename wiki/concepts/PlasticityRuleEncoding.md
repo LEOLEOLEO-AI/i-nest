@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnisotropicGaussianPrimitives]]
 [[BurstTemporalPlasticity]]
+[[Cognitive_Relapse_Architecture]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[LocalLearningRules]]

@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[iNEST]]
 

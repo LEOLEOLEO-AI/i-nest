@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[CriticalFixedPoint]]
 [[Dynamic_Expert_Fusion]]

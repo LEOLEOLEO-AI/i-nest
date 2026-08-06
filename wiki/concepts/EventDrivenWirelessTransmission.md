@@ -20,7 +20,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Emergent_Intelligence_Threshold]]
+[[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenAttention]]
 [[EventDrivenTracking]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

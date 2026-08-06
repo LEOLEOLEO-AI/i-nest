@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Boundary_Criticality]]
 [[CriticalFixedPoint]]
+[[Critical_Exponent_Scaling]]
 [[Network_Topology_Design]]
 [[NishimoriLine]]
 [[Self_Organized_Criticality]]

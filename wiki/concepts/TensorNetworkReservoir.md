@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
+[[AlternativeBridgingModels]]
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

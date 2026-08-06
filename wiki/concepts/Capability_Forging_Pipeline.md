@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GlobalInformationDominance]]
 [[SDI_Bond]]
+[[SDSoW_Strategic_Planning]]
 [[Stigmergic_RL]]
 [[Stigmergic_RL_Coordination]]
 [[SuperparamagneticSwitchingRate]]

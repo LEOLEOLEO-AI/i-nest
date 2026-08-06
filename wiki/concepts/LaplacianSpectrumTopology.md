@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
+[[Additive_Manufacturing_Supply_Chain]]
 [[Allreduce_Latency_Probe]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[Architectural_Conditioning]]

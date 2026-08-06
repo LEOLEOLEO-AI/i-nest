@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossMaterial_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FlagOS_2_0]]
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AstrocyteInspiredRepair]]
+[[BandedConnectivityModel]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

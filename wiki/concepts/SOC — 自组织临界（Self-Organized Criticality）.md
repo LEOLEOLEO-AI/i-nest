@@ -24,6 +24,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[CST_Theory]]
@@ -56,3 +57,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TopologyFragility]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]

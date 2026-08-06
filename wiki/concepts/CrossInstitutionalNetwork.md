@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[156QubitScale]]
 [[Allreduce_Latency_Probe]]
+[[AlternativeBridgingModels]]
 [[CounterstreamSignalPropagation]]
 [[DeeplySupervisedSpiking]]
 [[DifferentiableRasterizationPipeline]]

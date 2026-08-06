@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Neuromorphic_Computing]]
 [[RTC_Primitive]]
 [[RTC_Primitive_Set]]

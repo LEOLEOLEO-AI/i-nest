@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-08-04
-date: 2026-08-04
+title: iNEST+TCC Research Brief - 2026-08-06
+date: 2026-08-06
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-08-04
+# iNEST + TCC Research Brief - 2026-08-06
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,25 +33,25 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-08-04] **2026-08-04_arXiv_Fisher-Orthogonal Memory in Quantum Reservoir Computing** (_pipeline_insights)
-- [2026-08-04] **2026-08-04_arXiv_Entropy production of active matter systems as indicator for** (_pipeline_insights)
-- [2026-08-04] **2026-08-04_arXiv_Parameter-Efficient Fine-Tuning for Spiking Point Cloud Mode** (_pipeline_insights)
-- [2026-08-04] **2026-08-04_arXiv_CENDRe Concept Extraction with Natural Domain Representation** (_pipeline_insights)
-- [2026-08-04] **2026-08-04_arXiv_PROPEL A Memory-Driven, Adaptive Vector-Flow-Field Router wi** (_pipeline_insights)
-- [2026-08-04] **2026-08-04_arXiv_Release-free phononic crystal with strong microwave coupling** (_pipeline_insights)
-- [2026-08-02] **getnote_2026-08-02_getnote_1917333705497132960_台积电CoPoS vs 英特尔EMIB：先进Chiplet集成的两** (root)
-- [2026-08-02] **getnote_2026-08-02_getnote_1917307943209549728_晶圆级异构集成方案详解** (root)
+- [2026-08-06] **2026-08-06_arXiv_A Low-Cost Hybrid Reservoir Computing Model for Isolated Sig** (_pipeline_insights)
+- [2026-08-06] **2026-08-06_arXiv_High-speed time-series prediction using compact memristor ci** (_pipeline_insights)
+- [2026-08-06] **2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N** (_pipeline_insights)
+- [2026-08-06] **2026-08-06_arXiv_SpikingNav Robust Embodied Navigation with Spiking Neural Po** (_pipeline_insights)
+- [2026-08-06] **2026-08-06_arXiv_AS-FedBridge Pseudo-Spike Bridge Distillation for Heterogene** (_pipeline_insights)
+- [2026-08-06] **2026-08-06_arXiv_Thermal Control of Hysteresis and Deterministic Chaos in a M** (_pipeline_insights)
+- [2026-08-06] **2026-08-06_arXiv_Scaling behavior in non-reciprocal and odd conserved dynamic** (_pipeline_insights)
+- [2026-08-06] **2026-08-06_arXiv_HexMIL Hierarchical Attention MIL for Ante-Hoc Explainable D** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 8755
-Graph nodes: 6123 | edges: 17228
+Total notes: 9864
+Graph nodes: 9695 | edges: 71661
 
 Top connected topics:
+- **backlinks** (degree=3826)
+- **index** (degree=3095)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=394)
-- **index** (degree=304)
-- **backlinks** (degree=303)
 - **TCC_iNEST_成果全景** (degree=291)
 - **00_研究资料导航** (degree=194)
 - **10_Own_Research_Diagnosis** (degree=103)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-08-04 08:26*
+*Research brief auto-generated 2026-08-06 16:14*

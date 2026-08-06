@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[TSVEncapsulationStress]]
 [[iNEST]]
 
 ## Sources

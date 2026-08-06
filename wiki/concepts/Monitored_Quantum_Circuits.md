@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BurstGatedRouting]]
 [[CategoricalClosureCriterion]]
 [[CollectiveStateResilience]]
 [[Critical_Exponent_Scaling]]

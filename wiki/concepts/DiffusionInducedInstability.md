@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Core_Spacetime_Tensor]]
 [[Dynamic_Expert_Fusion]]
+[[Fixed_Cost_Dominance]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

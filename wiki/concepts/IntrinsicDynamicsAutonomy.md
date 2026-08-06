@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnisotropicGaussianPrimitives]]
+[[AstrocyteInspiredRepair]]
 [[Dynamic_Expert_Fusion]]
 [[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]

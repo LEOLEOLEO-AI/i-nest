@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ERI]]
 [[Emergent_Intelligence_Threshold]]

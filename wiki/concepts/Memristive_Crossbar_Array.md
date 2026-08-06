@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
 [[Ferroelectric_ComputeInMemory]]
+[[Ferroelectric_Devices]]
+[[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

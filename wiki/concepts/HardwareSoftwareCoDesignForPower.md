@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[InSensorComputing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

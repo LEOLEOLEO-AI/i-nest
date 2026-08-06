@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[ScaleFreeNetwork]]
 [[TCC]]
 [[iNEST]]

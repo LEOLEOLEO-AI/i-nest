@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
+[[EntangledCriticality]]
 [[Fractal_Wavefront_Scaling]]
 [[Network_Topology_Design]]
 [[OptimalRepresentation]]

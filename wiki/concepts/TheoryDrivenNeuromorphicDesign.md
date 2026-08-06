@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[QuantumChaos]]
 [[STDP_Learning]]
+[[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]

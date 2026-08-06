@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[DifferentiableRasterizationPipeline]]
+[[HeterogeneousSynapticDelays]]
 [[LossSpikePhenomenon]]
 [[Microfluidic_Worm_Trap_Array]]
 [[ParallelSNNArchitecture]]

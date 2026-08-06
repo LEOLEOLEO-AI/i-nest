@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationHeterogeneity]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenTracking]]
+[[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ReliabilityOverheadTradeoff]]
 [[SpikePacketCompression]]
 [[SpikingNeuralNetworkTopologyMapping]]
+[[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

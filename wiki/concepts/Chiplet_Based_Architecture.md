@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Stacking]]
 [[AI_FullSpectrum_Strategy]]
 [[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]

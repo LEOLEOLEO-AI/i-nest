@@ -1,0 +1,38 @@
+---
+title: "UnifiedEventReasoning"
+type: concept
+domain: iNEST
+created: 2026-08-06
+auto: true
+---
+
+# UnifiedEventReasoning
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+A framework that treats image restoration tasks as a unified event-driven reasoning process, where visual degradation is modeled as a sequence of spiking events rather than static pixel errors. Enables a single spiking neural network to handle multiple restoration tasks (denoising, deblurring, super-resolution) without task-specific retraining, reducing energy overhead in neuromorphic systems.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[AutonomousSpikingDynamics]]
+[[Bidirectional_Temporal_Enhancement]]
+[[ContinualLearningOnNeuromorphic]]
+[[DelayAwareSpikeEventDelivery]]
+[[EnergyEfficientSNN]]
+[[EventDrivenAutoregression]]
+[[Event_Driven_Architecture]]
+[[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

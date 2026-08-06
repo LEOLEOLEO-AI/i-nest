@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeOfChaosComputation]]
 [[EdgeOfChaos]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]

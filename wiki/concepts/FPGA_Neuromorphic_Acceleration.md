@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[ReconfigurableSNN_Accelerator]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

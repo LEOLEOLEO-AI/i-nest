@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[Avoided_Criticality]]
 [[CriticalityConstrainedPruning]]
 [[Criticality_Avoidance_Theory]]
 [[Criticality_of_Natural_Languages]]

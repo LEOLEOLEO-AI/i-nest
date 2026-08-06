@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[ComplexValuedSNN]]
 [[DARPA_ProjectManager_Model]]
+[[DTGA]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Representation_Learning_Generalization]]

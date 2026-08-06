@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TemporalDynamicsModeling]]
 [[ThermalNoiseHarnessing]]
 [[TopologyFragility]]
 [[iNEST]]

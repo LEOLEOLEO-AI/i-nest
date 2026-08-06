@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CST计量仪]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[DataDrivenMaterialDesign]]
 [[Dynamic_Expert_Fusion]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[SubsystemInformationCapacity]]
 [[SuperparamagneticSwitchingRate]]
 
 ## Sources

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[Architectural_Conditioning]]
 [[CrossLayer_SignalRouting]]
+[[DirtyWeylSemimetal]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

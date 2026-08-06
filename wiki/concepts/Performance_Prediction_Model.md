@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Emergent_Intelligence_Threshold]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
+[[Topology_Reconfiguration]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

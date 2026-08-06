@@ -19,16 +19,26 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC_SDI]]
 [[NoC_SDI_Integration]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_ProgrammableInterconnect]]
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI_TopologyInterconnect]]
+[[SDI_Topology]]
 [[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SoftwareDefinedSystemOnWafer]]
+[[Software_Defined_Interconnect]]
 [[TCC]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

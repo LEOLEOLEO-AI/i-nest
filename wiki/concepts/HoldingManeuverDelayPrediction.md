@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[Allreduce_Latency_Probe]]
 [[AlternativeBridgingModels]]
+[[AnisotropicGaussianPrimitives]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

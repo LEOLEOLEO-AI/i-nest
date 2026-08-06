@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoirTransientDynamics]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[SpectralTransition]]
 [[SuperparamagneticSwitchingRate]]
 [[iNEST]]
 

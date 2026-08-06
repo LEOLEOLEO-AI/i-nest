@@ -27,7 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Decoupling_Mechanism]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 
 ## Sources

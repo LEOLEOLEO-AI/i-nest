@@ -20,13 +20,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[AINext_Initiative]]
 [[CST_CoordinationMechanism]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]

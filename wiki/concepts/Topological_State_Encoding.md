@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DGS_SplatPrimitive]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AIRA_NeuralArchSearch]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

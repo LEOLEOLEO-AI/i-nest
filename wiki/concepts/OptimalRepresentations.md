@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Cryogenic_Syndrome_Compression]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -27,11 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[OptimalRepresentation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Residual_Connection_Removal]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

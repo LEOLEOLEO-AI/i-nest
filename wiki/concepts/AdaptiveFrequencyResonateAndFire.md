@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateFire]]
+[[AdaptiveSTDP]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]
 [[MultiModel_Adapter_Architecture]]

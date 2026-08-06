@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EventDrivenAutoregression]]
+[[EventDrivenGraphTraversal]]
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Chiplet]]

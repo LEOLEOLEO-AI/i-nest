@@ -287,7 +287,135 @@
       "file": "00_Inbox\\_pipeline_insights\\2026-08-04_arXiv_CENDRe Concept Extraction with Natural Domain Representation.md",
       "discovered": "2026-08-04",
       "status": "pending_review"
+    },
+    {
+      "title": "SpikeRestormer: Towards Energy-Efficient All-in-One Image Restoration via Unified Event Reasoning",
+      "url": "http://arxiv.org/abs/2608.02290v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-05_arXiv_SpikeRestormer Towards Energy-Efficient All-in-One Image Res.md",
+      "discovered": "2026-08-05",
+      "status": "pending_review"
+    },
+    {
+      "title": "SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks",
+      "url": "http://arxiv.org/abs/2608.01622v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-05_arXiv_SMM Transformer Leveraging Spiking Neural Networks for Multi.md",
+      "discovered": "2026-08-05",
+      "status": "pending_review"
+    },
+    {
+      "title": "LLM-Driven Automated Reward Design for Reinforcement Learning-Based Routing in LEO Satellite Networks",
+      "url": "http://arxiv.org/abs/2608.01649v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-05_arXiv_LLM-Driven Automated Reward Design for Reinforcement Learnin.md",
+      "discovered": "2026-08-05",
+      "status": "pending_review"
+    },
+    {
+      "title": "From Digital to Physical Reservoir Computing: Co-Optimizing Soft Robotic Reservoirs via Dynamics Matching",
+      "url": "http://arxiv.org/abs/2608.00484v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-05_arXiv_From Digital to Physical Reservoir Computing Co-Optimizing S.md",
+      "discovered": "2026-08-05",
+      "status": "pending_review"
+    },
+    {
+      "title": "Differentiable Lifting for Topological Neural Networks",
+      "url": "http://arxiv.org/abs/2608.01160v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-05_arXiv_Differentiable Lifting for Topological Neural Networks.md",
+      "discovered": "2026-08-05",
+      "status": "pending_review"
+    },
+    {
+      "title": "Critical Inertia Estimation for the Three U.S. Interconnections",
+      "url": "http://arxiv.org/abs/2608.00883v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-05_arXiv_Critical Inertia Estimation for the Three U.S. Interconnecti.md",
+      "discovered": "2026-08-05",
+      "status": "pending_review"
+    },
+    {
+      "title": "A Time-Multiplexed Spiking Neural Network Accelerator with Pipelined Readout for FPGA Inference",
+      "url": "http://arxiv.org/abs/2608.00595v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-05_arXiv_A Time-Multiplexed Spiking Neural Network Accelerator with P.md",
+      "discovered": "2026-08-05",
+      "status": "pending_review"
+    },
+    {
+      "title": "Thermal Control of Hysteresis and Deterministic Chaos in a Memristive MEMS Resonator",
+      "url": "http://arxiv.org/abs/2608.02853v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-06_arXiv_Thermal Control of Hysteresis and Deterministic Chaos in a M.md",
+      "discovered": "2026-08-06",
+      "status": "pending_review"
+    },
+    {
+      "title": "SpikingNav: Robust Embodied Navigation with Spiking Neural Policies",
+      "url": "http://arxiv.org/abs/2608.05078v1",
+      "relevance": 3,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-06_arXiv_SpikingNav Robust Embodied Navigation with Spiking Neural Po.md",
+      "discovered": "2026-08-06",
+      "status": "pending_review"
+    },
+    {
+      "title": "Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-SiC in Femtosecond Laser Processing",
+      "url": "http://arxiv.org/abs/2608.03814v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-06_arXiv_Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-.md",
+      "discovered": "2026-08-06",
+      "status": "pending_review"
+    },
+    {
+      "title": "Scaling behavior in non-reciprocal and odd conserved dynamics near criticality",
+      "url": "http://arxiv.org/abs/2608.05027v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-06_arXiv_Scaling behavior in non-reciprocal and odd conserved dynamic.md",
+      "discovered": "2026-08-06",
+      "status": "pending_review"
+    },
+    {
+      "title": "High-speed time-series prediction using compact memristor circuits with adjustable dynamics",
+      "url": "http://arxiv.org/abs/2608.04856v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-06_arXiv_High-speed time-series prediction using compact memristor ci.md",
+      "discovered": "2026-08-06",
+      "status": "pending_review"
+    },
+    {
+      "title": "HexMIL: Hierarchical Attention MIL for Ante-Hoc Explainable Detection of AI-Manipulated CT Volumes",
+      "url": "http://arxiv.org/abs/2608.05101v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-06_arXiv_HexMIL Hierarchical Attention MIL for Ante-Hoc Explainable D.md",
+      "discovered": "2026-08-06",
+      "status": "pending_review"
+    },
+    {
+      "title": "Harvest: Resource-Aware Quantum Compilation for Magic State Protocols",
+      "url": "http://arxiv.org/abs/2608.03315v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-06_arXiv_Harvest Resource-Aware Quantum Compilation for Magic State P.md",
+      "discovered": "2026-08-06",
+      "status": "pending_review"
+    },
+    {
+      "title": "AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning",
+      "url": "http://arxiv.org/abs/2608.03324v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-06_arXiv_AS-FedBridge Pseudo-Spike Bridge Distillation for Heterogene.md",
+      "discovered": "2026-08-06",
+      "status": "pending_review"
+    },
+    {
+      "title": "A Low-Cost Hybrid Reservoir Computing Model for Isolated Sign Language Video Recognition",
+      "url": "http://arxiv.org/abs/2608.03444v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-06_arXiv_A Low-Cost Hybrid Reservoir Computing Model for Isolated Sig.md",
+      "discovered": "2026-08-06",
+      "status": "pending_review"
     }
   ],
-  "last_updated": "2026-08-04T08:27:11.325602"
+  "last_updated": "2026-08-06T16:16:53.826020"
 }

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[InterChipletPHYModeling]]
 [[KnowledgeDistillation]]
 [[Memory_Wall]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[PhotoIontronicSynapse]]
 [[PhysicalFirstPrinciples]]
 [[SDI_Bond]]

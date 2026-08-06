@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveSTDP]]
 [[Brain_Connectome]]
 [[Connectome_Transfer]]
 [[Dendritic_In_Context_Learning]]
@@ -28,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[RecurrentSpikingSocialNetwork]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

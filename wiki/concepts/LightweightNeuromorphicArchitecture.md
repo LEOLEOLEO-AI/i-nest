@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Dynamic_Expert_Fusion]]
 [[Ferroelectric_ComputeInMemory]]
+[[Ferroelectric_Devices]]
+[[HybridResistiveMemoryCIM]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]

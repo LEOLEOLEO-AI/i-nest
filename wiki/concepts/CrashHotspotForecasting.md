@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[CellEmergence]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
+[[Nonlinear_Gain]]
 [[ProactiveTrafficSafety]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]

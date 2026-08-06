@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenTracking]]
+[[InSensorMemoryComputing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Spike_Encoding_of_fMRI]]

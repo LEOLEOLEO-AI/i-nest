@@ -1,0 +1,38 @@
+---
+title: "WaferLevel_Packaging_Topology"
+type: concept
+domain: TCC
+created: 2026-08-06
+auto: true
+---
+
+# WaferLevel_Packaging_Topology
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+The co-design of packaging layout and network topology at the wafer level, where physical placement of chiplets directly determines logical interconnect patterns. This enables TCC to exploit physical proximity for topology-aware routing, reducing hop counts and enabling deterministic latency for distributed computing tasks.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Topology]]
+[[CorticalTypeDiversity]]
+[[Decoupled_Priors]]
+[[Free_Energy_Principle_Network]]
+[[Intelligent_Computing_Infrastructure]]
+[[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

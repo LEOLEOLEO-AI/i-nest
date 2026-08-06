@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Electronic_Neuron_Circuit]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

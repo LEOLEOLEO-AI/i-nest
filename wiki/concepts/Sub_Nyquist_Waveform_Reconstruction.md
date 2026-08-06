@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnalogDomainCompression]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[PhotonicReservoirComputing]]
@@ -31,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalSubstrateReservoir]]
 [[Physical_Reservoir_Computing]]
 [[Physical_Reservoir_Substrate]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

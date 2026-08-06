@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AddressRedundancyElimination]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TwoTimescaleNeuroEvolution]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 [[脉冲神经网络]]
 
 ## Sources

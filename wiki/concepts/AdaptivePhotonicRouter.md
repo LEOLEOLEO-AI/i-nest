@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]

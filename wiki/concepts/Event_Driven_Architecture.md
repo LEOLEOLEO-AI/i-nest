@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[CellEmergence]]
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[Intelligence_Emergence]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAuditoryFrontend]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NonEquilibriumComputing]]
 [[QuantumChaos]]
 [[SNN]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

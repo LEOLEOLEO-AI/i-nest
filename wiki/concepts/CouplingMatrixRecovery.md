@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptivePhotonicRouter]]
 [[Allreduce_Latency_Probe]]
 [[CounterstreamSignalPropagation]]
+[[DelayPropagationDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

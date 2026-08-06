@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CategoricalClosureCriterion]]
+[[CriticalRegimeReservoir]]
 [[Criticality_of_Natural_Languages]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]

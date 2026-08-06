@@ -19,12 +19,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Anisotropic_Correlation_Length]]
 [[BackflowTransformation]]
 [[CST_Equation]]
 [[CST_MasterEquation]]
 [[ChipletWaferTopologyCoDesign]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[EventTriggeredDistributedControl]]
 [[Network_Topology_Design]]

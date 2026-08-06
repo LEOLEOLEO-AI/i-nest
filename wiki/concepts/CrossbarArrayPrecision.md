@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Synchronization]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
+[[InterpolationLearningTransition]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[NonHermitianTopology]]

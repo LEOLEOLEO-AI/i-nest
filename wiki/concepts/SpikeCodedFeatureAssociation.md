@@ -21,11 +21,13 @@ Auto-extracted concept from raw material compilation.
 
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

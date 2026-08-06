@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

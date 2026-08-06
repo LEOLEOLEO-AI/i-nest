@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]

@@ -1,0 +1,38 @@
+---
+title: "ThermalChaosControl"
+type: concept
+domain: Cross
+created: 2026-08-06
+auto: true
+---
+
+# ThermalChaosControl
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+Using temperature as a control parameter to induce or suppress deterministic chaos in a memristive MEMS resonator. Enables dynamic reconfiguration between chaotic and stable regimes, useful for chaos-based computing or stochastic neural networks.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Accessibility_Plasticity]]
+[[AdaptiveArchitecture]]
+[[AdaptiveCompetingInteractions]]
+[[AdaptiveEntanglementManagement]]
+[[AdaptiveFunctionalTopology]]
+[[Additive_Manufacturing_Supply_Chain]]
+[[AdiabaticModeEvolutionCoupler]]
+[[ArbitraryWavefunctionConfigurability]]
+[[AutonomousAdaptation]]
+[[BrainScaleTopologyExploitation]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

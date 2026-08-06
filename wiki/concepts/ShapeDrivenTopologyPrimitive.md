@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
+[[BurstGatedRouting]]
 [[Network_Topology_Design]]
 [[TCC]]
 

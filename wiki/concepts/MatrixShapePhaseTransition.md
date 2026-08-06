@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
+[[Accessibility_Plasticity]]
 [[AdaptivePhotonicRouter]]
 [[Algorithmic_Warfare]]
 [[Alpha_Computation_Consistency]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BerryCurvatureIsolation]]
 [[BigBrainCellularAxis]]
 [[BurstGatedRouting]]
+[[Interconnect_Routing]]
 [[TCC]]
 
 ## Sources

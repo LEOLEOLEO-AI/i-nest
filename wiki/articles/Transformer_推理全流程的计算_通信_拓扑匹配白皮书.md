@@ -23,6 +23,7 @@ auto: true
 
 ## Related Concepts
 
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]

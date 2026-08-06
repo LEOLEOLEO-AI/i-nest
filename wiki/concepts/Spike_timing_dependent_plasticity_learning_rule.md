@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TemporalDynamicsModeling]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

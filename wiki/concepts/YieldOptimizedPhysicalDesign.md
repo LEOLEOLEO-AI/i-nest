@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]

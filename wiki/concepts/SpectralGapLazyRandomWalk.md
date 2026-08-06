@@ -19,7 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Integration]]
 [[AdsorptionBiosorptionHybrid]]
+[[BisectionBandwidthBound]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
@@ -28,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[FullDimensionalDefinableInterconnect]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Order_Flexibility_Duality]]
 [[Reservoir_Computing]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Reusable_Hypersonic_Platform]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Topology_Reconfiguration]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

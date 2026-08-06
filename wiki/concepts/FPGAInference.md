@@ -1,0 +1,38 @@
+---
+title: "FPGAInference"
+type: concept
+domain: Cross
+created: 2026-08-06
+auto: true
+---
+
+# FPGAInference
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+The use of Field-Programmable Gate Arrays as the hardware platform for executing trained spiking neural network models during inference, leveraging reconfigurability and parallelism. Bridges neuromorphic computing and network infrastructure by providing low-latency, energy-efficient inference at the edge, relevant to TCC's in-network processing goals.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[AdiabaticModeEvolutionCoupler]]
+[[BrainScaleTopologyExploitation]]
+[[CirculateFiringNeuron]]
+[[ClocklessReconfigurableChip]]
+[[CongestionAwareLoss]]
+[[CriticalityDrivenStateTransition]]
+[[DevelopmentalNeuromorphicAdaptation]]
+[[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

@@ -1,0 +1,38 @@
+---
+title: "SDI_iNEST_Integration"
+type: concept
+domain: Cross
+created: 2026-08-06
+auto: true
+---
+
+# SDI_iNEST_Integration
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+The coupling of Spatial Data Infrastructure (SDI) principles with iNEST neuromorphic architectures to organize and route planning data through topology-aware neural pathways. Bridges geospatial/topological data management with neuromorphic computing, enabling scalable, context-aware planning in distributed network environments.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Analog_Computation]]
+[[Constructed_Reality_Interconnect]]
+[[Free_Energy_Principle_Network]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[OnChipOpticalTweezers]]
+[[SDI_Bond]]
+[[SDSoW_Strategic_Planning]]
+[[Spatiotemporal_Synergy_Complexity]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

@@ -20,12 +20,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[AI_Faculty_Forum_2026]]
 [[AutonomousAdaptation]]
+[[Complex_System_Theory]]
 [[FlagOS_2_0]]
 [[Free_Energy_Topology_Mapping]]
 [[MetricComputationAuthenticity]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[System_Level_Utility_Control]]
 [[TopologyAwareStateMigration]]
 [[iNEST]]

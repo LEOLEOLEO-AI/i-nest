@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[SuperparamagneticSwitchingRate]]
 [[TCC]]
 
 ## Sources

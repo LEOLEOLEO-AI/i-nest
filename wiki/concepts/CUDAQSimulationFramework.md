@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
+[[Neuromorphic_Computing]]
 [[Representation_Learning_Generalization]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

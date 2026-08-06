@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[Criticality_Based_Feature_Extraction]]
 [[Decoupling_Mechanism]]
 [[EventDrivenFunctionalConnectivity]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Fluidic_Hysterons]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Nonreciprocity_Threshold]]
 [[Recurrent_Feedback_Error_Propagation]]
 [[SDI_Bond]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyInducedCriticality]]
 [[UniversalIntelligence_Emergence]]
 [[ViewDependentAppearance]]
+[[新型计算]]
 [[神经形态计算]]
 
 ## Sources

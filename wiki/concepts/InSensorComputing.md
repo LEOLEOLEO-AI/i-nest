@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[EulaminateOverrepresentation]]
 [[Ferroelectric_Devices]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Topology]]
 
 ## Sources

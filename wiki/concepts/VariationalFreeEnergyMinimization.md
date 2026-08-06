@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[CounterstreamSignalPropagation]]
+[[Cytokine_Feedback_Loops]]
 [[Dynamic_Expert_Fusion]]
 [[EmulationTheoryObserver]]
 [[FreeEnergyMinimization]]

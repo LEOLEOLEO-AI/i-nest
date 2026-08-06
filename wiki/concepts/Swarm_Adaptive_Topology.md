@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Resilient_Satellite_Mesh]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

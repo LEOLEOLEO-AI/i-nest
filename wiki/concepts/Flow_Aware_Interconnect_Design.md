@@ -1,0 +1,38 @@
+---
+title: "Flow_Aware_Interconnect_Design"
+type: concept
+domain: TCC
+created: 2026-08-06
+auto: true
+---
+
+# Flow_Aware_Interconnect_Design
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+A design paradigm where the interconnect topology is co-optimized with the application's communication flow, rather than treating the network as a static substrate. This is fundamental to TCC because it allows the hardware to match the dynamic communication needs of neural or data-intensive workloads, reducing latency and energy.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[3DHI_Chiplet_Integration]]
+[[3DHI_Integration]]
+[[3DHI_Stacking]]
+[[3D_Heterogeneous_Integration]]
+[[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging_for_Space]]
+[[AnalogInMemoryComputing]]
+[[Analog_Synaptic_Weighting]]
+[[Network_Topology_Design]]
+[[TCC]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

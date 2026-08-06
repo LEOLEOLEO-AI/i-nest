@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]

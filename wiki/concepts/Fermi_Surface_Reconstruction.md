@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]
 [[CST_Spatiotemporal_Complexity]]
+[[Complex_System_Theory]]
+[[DynamicTopologyMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

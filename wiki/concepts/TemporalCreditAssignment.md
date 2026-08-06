@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Course_Based_FPGA_Prototyping]]
 [[CriticalityConstrainedPruning]]
 [[GSK_Summarize]]
 [[Heterogeneous_Integration]]

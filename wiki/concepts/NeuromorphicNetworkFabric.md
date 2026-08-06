@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BioPlausiblePredictiveCoding]]
 [[CoPackagedOptics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveInferenceEdgeLoop]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Course_Based_FPGA_Projects]]
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_ERI]]
 [[DARPA_ERI_2_0_Framework]]

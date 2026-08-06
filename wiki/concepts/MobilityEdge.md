@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[Electronic_Warfare_Integration]]
 [[FatalityDrivenRewiring]]
+[[HodgkinHuxleyDynamics]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
@@ -34,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Aware_Packaging]]
 [[VerticalOpticalInterconnect]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

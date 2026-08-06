@@ -1,0 +1,38 @@
+---
+title: "Chiplet_Topology_Mapping"
+type: concept
+domain: TCC
+created: 2026-08-06
+auto: true
+---
+
+# Chiplet_Topology_Mapping
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+The process of mapping logical network topologies onto physical chiplet placement and interconnect resources (e.g., CoPoS or EMIB) to optimize communication patterns. Directly determines achievable bandwidth, latency, and energy efficiency for TCC's topology-centric execution models.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Advanced_Packaging_for_Space]]
+[[Chiplet_Based_Trusted_Hardware]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Topology]]
+[[CoPoS]]
+[[Memory_Wall]]
+[[Network_Topology_Design]]
+[[P_Paradigm]]
+[[TCC]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

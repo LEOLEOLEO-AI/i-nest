@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDSoW]]
 [[SpatiotemporalComplexityIndex]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]

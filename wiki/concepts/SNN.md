@@ -49,6 +49,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[iNEST]]
+[[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]

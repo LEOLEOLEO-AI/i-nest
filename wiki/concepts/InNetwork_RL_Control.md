@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Active_Inference_Architecture]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
+[[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_Topology]]
 [[TCC_Topology_Interconnect]]
 [[Topology_Interconnect]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 

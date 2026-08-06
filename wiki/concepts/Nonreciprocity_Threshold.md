@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Anisotropic_Correlation_Length]]
 [[Architectural_Conditioning]]
+[[CST_Equation]]
 [[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AlternativeBridgingModels]]
+[[Contested_Prior_Resolution]]
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
@@ -34,11 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[iNEST_Topology]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[忆阻器]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

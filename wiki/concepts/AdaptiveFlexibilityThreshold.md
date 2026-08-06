@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Gut_Brain_Immune_Network]]
 [[Master_SDDE]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

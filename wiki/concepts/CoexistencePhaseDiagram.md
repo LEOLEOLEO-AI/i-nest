@@ -27,10 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologicalAndersonInsulator]]
+[[VariationalFreeEnergyMinimisation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

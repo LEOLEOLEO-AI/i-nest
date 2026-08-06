@@ -35,10 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

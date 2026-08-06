@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AllOpticalHebbianLearning]]
+[[CorticalTravelingWave]]
 [[CrossLayer_SignalRouting]]
 [[FC2_Goal_Representation]]
 [[Free_Energy_Principle_Network]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[HighThroughputParticleRouting]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[SensationModulatingNetwork]]
 [[Temporal_Coding]]
 [[iNEST]]
 

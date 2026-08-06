@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AnisotropicGaussianPrimitives]]
 [[DiscreteContinuous_Unification]]
 [[Edge_Neuromorphic_Compute]]
 [[EventCameraPoseInput]]

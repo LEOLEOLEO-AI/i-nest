@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_Interconnect]]
+[[SDI_NoC_Integration]]
 [[TCC]]
 [[iNEST]]
 

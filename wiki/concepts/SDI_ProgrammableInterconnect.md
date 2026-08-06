@@ -19,12 +19,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TopologyInterconnect]]
+[[SDI_Topology]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[Software_Defined_Interconnect_bonding_mechanism]]
 [[TCC]]

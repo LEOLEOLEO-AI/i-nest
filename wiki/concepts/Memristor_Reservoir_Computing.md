@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[Memristor_Device]]
+[[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

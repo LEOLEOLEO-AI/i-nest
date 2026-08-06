@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondVonNeumannArchitecture]]
 [[ChargeDomainAttention]]
 [[DefectDynamics]]
+[[EnergyResourceEfficiencyCoOptimization]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricNvCap]]
 [[FerroelectricSynapticDevices]]

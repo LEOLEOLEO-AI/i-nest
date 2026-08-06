@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[新型计算]]
 [[神经形态计算]]
 
 ## Sources

@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Bias_Origin_Taxonomy]]
 [[Chiplet_Based_Trusted_Hardware]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Cognitive_Relapse_Architecture]]
 [[Network_Topology_Design]]
 [[TCC]]
 

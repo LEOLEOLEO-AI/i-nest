@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[CST_CoordinationMechanism]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[CrystalPalace_Program]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[Epithelial_Barrier_Integrity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

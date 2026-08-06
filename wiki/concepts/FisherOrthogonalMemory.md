@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[MeanFieldSpinGlass]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[PhotoInducedCurrent]]
 [[Quantum_Reservoir_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

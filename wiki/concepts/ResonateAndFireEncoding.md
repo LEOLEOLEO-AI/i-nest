@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Distributed_Spike_Communication]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenAttention]]
+[[EventDrivenTrajectoryEncoding]]
 [[Memory_Wall]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]

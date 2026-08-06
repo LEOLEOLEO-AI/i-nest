@@ -22,13 +22,17 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdaptiveDensityControl]]
 [[AdiabaticMultimodeBend]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[AnalogDomainCompression]]
 [[Anisotropic_Correlation_Length]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[Topology_Embedded_Field_Encoding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

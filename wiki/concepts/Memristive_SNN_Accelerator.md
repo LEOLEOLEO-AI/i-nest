@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Deep_SNN_Trainability]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

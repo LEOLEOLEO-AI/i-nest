@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
+[[DARPA_Project_Group_Strategy]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Chiplet]]

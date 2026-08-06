@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
+[[AnomalousSpinTransport]]
 [[Crystallized_Neural_Manifolds]]
 [[Nonlinear_Gain]]
 [[PhysicalReservoirDynamics]]

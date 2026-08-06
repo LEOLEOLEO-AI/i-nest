@@ -19,14 +19,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[CrossSubstrateHomology]]
 [[Defense_Industrial_Base_Reshaping]]
 [[GeneralIntelligenceSubstrate]]
 [[Network_Topology_Design]]
+[[SDI_Bond]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_Physical_Base]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
 

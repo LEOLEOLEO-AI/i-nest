@@ -1,0 +1,38 @@
+---
+title: "DelayTolerantNetworkUAV"
+type: concept
+domain: Cross
+created: 2026-08-06
+auto: true
+---
+
+# DelayTolerantNetworkUAV
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+A network architecture where UAVs act as mobile relays, using store-carry-forward mechanisms to bridge communication gaps in disconnected or high-latency environments. This concept is central to TCC's topology-centric view, as it requires dynamic topology modeling and control, while also leveraging iNEST's adaptive learning for routing under uncertainty.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[AI_Forum_Demo_Narrative]]
+[[BurstGatedRouting]]
+[[Interconnect_Routing]]
+[[LLM_Reward_Design]]
+[[Network_Topology_Design]]
+[[P_Paradigm]]
+[[RedundancyControlledStochasticRouting]]
+[[TCC]]
+[[TCC_Neuromorphic_Integration]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

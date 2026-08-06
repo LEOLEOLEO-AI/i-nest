@@ -23,6 +23,7 @@ SDI, TCC, iNEST, topology, 互连, 封装, 忆阻, 拓扑, 晶圆
 
 ## Related Concepts
 
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]

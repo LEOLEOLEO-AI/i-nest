@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeOfChaos]]
 [[GenericObjectTracking]]
 [[IMPLYMemristiveISA]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

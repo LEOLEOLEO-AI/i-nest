@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[ErrorAmplificationLimits]]
 [[Heterogeneous_Integration]]
+[[LatencyGradientDescent]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

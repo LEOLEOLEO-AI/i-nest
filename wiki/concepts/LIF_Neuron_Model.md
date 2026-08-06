@@ -26,9 +26,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActiveDendriteSNN]]
 [[ArmLocomotorCoordination]]
+[[Complex_System_Theory]]
+[[Hardware_Accelerated_SNN]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

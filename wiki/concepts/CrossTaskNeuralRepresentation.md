@@ -34,11 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
-[[WaferScale_Emergence]]
+[[Wafer_Scale_Emergence]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Interconnect_Neuromorphic_Topology]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PhononicBandgapEngineering]]
 [[ReconfigurableSpikingRouting]]
+[[SDSoW]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[TCC]]

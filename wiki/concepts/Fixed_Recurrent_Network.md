@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AllOpticalHebbianLearning]]
 [[Analog_Computation]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[CirculateFiringNeuron]]
 [[Dynamical_State_Space]]
 [[Emergent_Intelligence_Threshold]]

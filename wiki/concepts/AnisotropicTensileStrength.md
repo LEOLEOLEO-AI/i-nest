@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
 [[RTC_Primitive_Set]]

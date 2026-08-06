@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
+[[Activity_Dependent_Plasticity]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

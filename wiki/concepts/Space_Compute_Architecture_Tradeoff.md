@@ -20,14 +20,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[AI_Application_Scenario_Reconstruction]]
 [[Chiplet_Based_Architecture]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Stacking]]
+[[Deep_Thermalisation]]
 [[Deep_Thermalisation_Dynamics]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DirectConnect_Topology]]
 [[External_to_OnDie_Evolution]]
 [[FatalityDrivenRewiring]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

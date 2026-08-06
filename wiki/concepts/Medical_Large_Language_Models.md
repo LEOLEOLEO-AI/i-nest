@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[Textbook_Paradigm_Definition]]
 [[iNEST]]
 
 ## Sources

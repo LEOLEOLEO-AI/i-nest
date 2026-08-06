@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CellEmergence]]
 [[CrossLayer_SignalRouting]]
+[[DelayPropagationDynamics]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

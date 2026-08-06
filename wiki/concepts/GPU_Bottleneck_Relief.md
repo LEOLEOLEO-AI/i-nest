@@ -23,12 +23,16 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[BackpropagationFreeLearning]]
 [[ChipletTrafficAwareScheduling]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Chiplet_Wafer_Topology]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[OnDie_Fusion]]
 [[TCC]]
+[[WaferScaleTopologyCentricComputing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

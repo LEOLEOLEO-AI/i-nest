@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Architecture_Search]]
+[[AcceleratedMaterialScreening]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[NonHermitianTopology]]
 [[PhysicalReservoirDynamicsEncoding]]
+[[PhysicalReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SuperparamagneticSwitchingRate]]

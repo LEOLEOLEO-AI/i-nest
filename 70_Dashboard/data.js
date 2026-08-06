@@ -1,35 +1,35 @@
 window.VAULT_DATA = {
-  "updated": "2026-08-05 08:26",
+  "updated": "2026-08-06 16:24",
   "snapshot": {
-    "total_md": 9700,
+    "total_md": 9874,
     "tcc": 1871,
     "inest": 1426,
-    "inbox": 175,
+    "inbox": 190,
     "processing": 567,
-    "output": 457,
-    "git_uncommitted": 3052
+    "output": 461,
+    "git_uncommitted": 3230
   },
   "wiki": {
-    "tcc": 733,
-    "inest": 1032,
-    "cross": 1202,
-    "total": 2967
+    "tcc": 777,
+    "inest": 1061,
+    "cross": 1251,
+    "total": 3089
   },
-  "articles": 758,
+  "articles": 780,
   "bridges": [
     {
       "name": "SDI_Plastic_Interconnect",
-      "strength": "454",
+      "strength": "499",
       "insight": "SDI's software-defined interconnect could implement plastic (reconfigurable) network topologies inspired by synaptic plasticity."
     },
     {
       "name": "Chiplet_Heterogeneous_Neuromorphic",
-      "strength": "337",
+      "strength": "372",
       "insight": "Chiplet-based heterogeneous integration enables combining CMOS logic with memristor crossbar arrays for neuromorphic acceleration."
     },
     {
       "name": "NoC_Spiking_Routing",
-      "strength": "255",
+      "strength": "286",
       "insight": "NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude."
     }
   ],
@@ -60,12 +60,6 @@ window.VAULT_DATA = {
     }
   ],
   "trend": [
-    {
-      "date": "2026-08-01",
-      "broken": 1708,
-      "orphan": 2101,
-      "missing_fm": 1275
-    },
     {
       "date": "2026-08-01",
       "broken": 1408,
@@ -119,6 +113,12 @@ window.VAULT_DATA = {
       "broken": 2259,
       "orphan": 3133,
       "missing_fm": 3643
+    },
+    {
+      "date": "2026-08-05",
+      "broken": 2195,
+      "orphan": 2425,
+      "missing_fm": 3701
     }
   ],
   "tasks": [
@@ -144,10 +144,10 @@ window.VAULT_DATA = {
     ]
   ],
   "health": {
-    "笔记总数(可链接目标)": 8463,
-    "缺 frontmatter 笔记": 3701,
-    "真正断链(目标不存在)": 2195,
-    "孤儿笔记(无入链)": 2425
+    "笔记总数(可链接目标)": 8632,
+    "缺 frontmatter 笔记": 209,
+    "真正断链(目标不存在)": 2145,
+    "孤儿笔记(无入链)": 2432
   },
   "classification": {
     "own": 1269,

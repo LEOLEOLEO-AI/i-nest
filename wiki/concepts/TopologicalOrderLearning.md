@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AutonomousPhysicalComputation]]
 [[DefectPartitionFunction]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

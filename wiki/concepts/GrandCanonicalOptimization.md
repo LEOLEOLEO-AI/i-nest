@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[DelayPropagationDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

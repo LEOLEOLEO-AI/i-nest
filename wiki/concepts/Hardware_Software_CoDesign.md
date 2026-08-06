@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[OpenSource_Neuromorphic_Framework]]
+[[Open_Source_Research_Stack]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[iNEST]]

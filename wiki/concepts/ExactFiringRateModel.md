@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BioPlausiblePredictiveCoding]]
+[[CSI_Temporal_Encoding]]
 [[Dynamic_Expert_Fusion]]
 [[ElasticSpikingTransformer]]
 [[Emergent_Intelligence_Threshold]]

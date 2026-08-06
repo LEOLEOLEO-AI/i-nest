@@ -1,0 +1,38 @@
+---
+title: "RLFlightControl"
+type: concept
+domain: TCC
+created: 2026-08-06
+auto: true
+---
+
+# RLFlightControl
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+A reinforcement learning controller that adjusts UAV flight trajectories in real time to improve network connectivity and data delivery performance, rather than following fixed paths. It exemplifies topology-centric computing by treating UAV movement as a controllable network parameter, enabling adaptive topology reconfiguration for performance optimization.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Accessibility_Plasticity]]
+[[AdaptiveArchitecture]]
+[[AdaptiveCompetingInteractions]]
+[[Network_Topology_Design]]
+[[OpenLearningEcosystem]]
+[[OpticalSynapticWeightUpdate]]
+[[P_Paradigm]]
+[[TCC]]
+[[TopologyEvolvingReservoir]]
+[[Topology_Reconfiguration]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

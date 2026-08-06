@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[CoDesigned_SNN]]
 [[CollectiveSpikingDynamics]]
 [[Dynamic_Expert_Fusion]]

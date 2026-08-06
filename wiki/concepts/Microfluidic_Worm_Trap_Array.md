@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Constructed_Reality_Interconnect]]
 [[Dynamic_Expert_Fusion]]
+[[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

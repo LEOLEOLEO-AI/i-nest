@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]
+[[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Photonic_Chiplet_Interconnect]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferScaleSubstrate]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

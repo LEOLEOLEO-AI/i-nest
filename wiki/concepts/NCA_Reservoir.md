@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirClosureProperty]]
 [[Reservoir_Computing]]
 [[Reservoir_Computing_Architecture]]
+[[Reservoir_Computing_DP_Recycling]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

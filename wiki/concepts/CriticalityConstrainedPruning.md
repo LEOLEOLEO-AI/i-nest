@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActivityAvalanche]]
+[[Algorithmic_Warfare]]
 [[Avoided_Criticality]]
 [[Criticality_Threshold]]
 [[Dynamic_Expert_Fusion]]

@@ -1,18 +1,11 @@
----
-title: "MTDL 流形拓扑深度学习：医学影像分类新范式"
-type: article-summary
-domain: Cross
-created: 2026-08-05
-auto: true
----
 # MTDL 流形拓扑深度学习：医学影像分类新范式
 
 **Domain**: Cross
 **Source**: 00_Inbox\MTDL 流形拓扑深度学习：医学影像分类新范式.md
-**Compiled**: 2026-08-05
+**Compiled**: 2026-08-06
 
 ## Summary
-title: getnote_1917511057582362824_MTDL 流形拓扑深度学习：医学影像分类新范式 date: 2026-08-04 21:00 note_id: 1917511057582362824 title: "MTDL 流形拓扑深度学习：医学影像分类新范式" created: 2026-08-04 13:28:55
+title: "MTDL 流形拓扑深度学习：医学影像分类新范式" - getnote_2026-08-04_getnote_1917511057582362824_MTDL 流形拓扑深度学习：医学影像分类新范式 - getnote_1917511057582362824_MTDL 流形拓扑深度学习：医学影像分类新范式 date: 2026-08-04 21:00 note_id: 1917511057582362824
 
 ## Keywords
 iNEST, 拓扑

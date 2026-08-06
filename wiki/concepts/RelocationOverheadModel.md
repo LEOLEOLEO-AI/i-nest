@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
+[[In_Package_Neuromorphic_Integration]]
 [[LossSpikePhenomenon]]
 [[MultiQPUSimulation]]
 [[Network_Topology_Design]]

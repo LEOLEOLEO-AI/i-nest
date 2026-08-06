@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BackflowTransformation]]
 [[CST_MasterEquation]]
+[[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[EpidemicThreshold]]

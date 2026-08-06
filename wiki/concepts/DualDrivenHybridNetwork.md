@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Allreduce_Latency_Probe]]
+[[Avoided_Criticality]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EdgeIoTEnergyAwareness]]

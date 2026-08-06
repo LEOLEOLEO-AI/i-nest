@@ -1,0 +1,38 @@
+---
+title: "SpikingTemporalCoding"
+type: concept
+domain: iNEST
+created: 2026-08-06
+auto: true
+---
+
+# SpikingTemporalCoding
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+A coding scheme in SNNs where information is represented by the precise timing of spikes, enabling efficient encoding of degradation patterns for restoration tasks. Exploits temporal dynamics of spikes to capture restoration cues, improving accuracy while maintaining low energy footprint, a key requirement for iNEST hardware.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Bidirectional_Temporal_Enhancement]]
+[[CirculateFiringNeuron]]
+[[FatigueSTDP]]
+[[Fatigue_SpikePattern]]
+[[Globally_Optimal_SNN_Training]]
+[[Layered_Attractive_Hubbard_Model]]
+[[LocalQuantumLearningRule]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

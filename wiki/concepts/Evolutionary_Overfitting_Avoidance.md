@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Brain_Connectome]]
 [[Connectome_Reservoir]]
+[[DevelopmentalConnectomeTemporalGraph]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[NestedRepresentation]]

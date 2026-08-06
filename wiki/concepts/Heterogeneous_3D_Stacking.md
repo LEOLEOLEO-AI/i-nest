@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[EMIB_Bridge]]
 [[Heterogeneous_Integration]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Residual_Connection]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Residual_Connection]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticBinaryDynamics]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TemporalErrorFeedback]]
 [[iNEST]]
 
 ## Sources

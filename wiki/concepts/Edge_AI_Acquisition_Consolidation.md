@@ -1,18 +1,19 @@
 ---
-title: "EdgeAI_Acquisition_Consolidation"
+title: "Edge_AI_Acquisition_Consolidation"
 type: concept
 domain: Cross
-created: 2026-08-05
+created: 2026-08-06
 auto: true
 ---
-# EdgeAI_Acquisition_Consolidation
+
+# Edge_AI_Acquisition_Consolidation
 
 **Domain**: Cross
 **First mentioned**: auto-extracted
-**Last updated**: 2026-08-05
+**Last updated**: 2026-08-06
 
 ## Definition
-The strategic acquisition of independent edge AI chip companies (like Hailo) by larger semiconductor firms (like Microchip) to consolidate the fragmented edge AI hardware market. This consolidation trend shapes the available hardware platforms and commercial viability of edge AI accelerators used in TCC/iNEST deployments.
+The strategic acquisition of independent edge AI chip companies by larger semiconductor firms to consolidate the fragmented edge AI hardware market. Shapes the competitive landscape and technology roadmap for edge AI accelerators relevant to TCC/iNEST deployment.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -26,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[CST_Equation]]
 [[CircadianGateModulation]]
-[[Connectome_Transfer]]
+[[CommunicationPrimitiveTopologyCoupling]]
 [[TCC]]
 [[iNEST]]
 
@@ -35,3 +36,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Edge_AI_Acquisition_Consolidation (merged 2026-08-06)

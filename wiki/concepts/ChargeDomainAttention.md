@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondVonNeumannArchitecture]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyResourceEfficiencyCoOptimization]]
 [[FeFET_Polarization_Switching]]
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]

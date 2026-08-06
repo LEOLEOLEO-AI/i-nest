@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
+[[StandardizedComponent]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TCC]]

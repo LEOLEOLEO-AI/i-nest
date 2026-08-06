@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuronal_Avalanche_Dynamics]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]

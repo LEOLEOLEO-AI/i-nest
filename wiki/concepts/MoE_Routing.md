@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[BarrierConditionedTrajectory]]
 [[BurstGatedRouting]]
+[[CircuitTopologyEncoding]]
 [[CouplingMatrixRecovery]]
 [[Interconnect_Routing]]
 [[Synaptic_Plasticity]]

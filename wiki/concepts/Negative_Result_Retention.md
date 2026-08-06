@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DualDrivenHybridNetwork]]
 [[EventDrivenFunctionalConnectivity]]
 [[Interconnect_Routing]]
+[[PhaseAwareBisectionDemand]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]

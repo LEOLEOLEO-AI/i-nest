@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Master_SDDE]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Planning_Architecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SNN]]
 [[SpatiotemporalComplexityIndex]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ChargeDomainAttention]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyResourceEfficiencyCoOptimization]]
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Mixture_of_Experts]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

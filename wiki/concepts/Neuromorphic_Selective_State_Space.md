@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[GeometricNeuromorphicFusion]]
+[[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]

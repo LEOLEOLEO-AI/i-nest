@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CorticalTypeDiversity]]
 [[EdgeIoTEnergyAwareness]]
+[[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

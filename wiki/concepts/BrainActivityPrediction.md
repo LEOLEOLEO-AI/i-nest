@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BackflowTransformation]]
 [[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossTaskNeuralRepresentation]]
@@ -35,7 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[VonEconomoNeuron]]
 [[VonEconomoNeurons]]
-[[WaferScale_Emergence]]
+[[Wafer_Scale_Emergence]]
+[[Wafer_Scale_Integration]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
 

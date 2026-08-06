@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[AI_Application_Scenario_Reconstruction]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Hypersonic_Weapon_Market_CAGR]]

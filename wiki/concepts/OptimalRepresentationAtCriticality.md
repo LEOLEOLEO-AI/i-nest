@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalBranching]]
 [[CriticalityConstrainedPruning]]
 [[CriticalityDrivenAdaptation]]
+[[CriticalityDrivenLearning]]
 [[Criticality_Avoidance_Theory]]
 [[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Enabled_Battlefield_Autonomy]]
 [[Active_Inference_Architecture]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[CirculateFiringNeuron]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

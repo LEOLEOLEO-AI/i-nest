@@ -33,8 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[SpatiotemporalComplexityIndex]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[Structural_Mismatch]]
 [[TCC]]
 

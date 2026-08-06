@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SDSoW]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]

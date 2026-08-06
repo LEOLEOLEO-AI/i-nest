@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[ElasticInferenceScheduling]]
 [[Memristive_STDP]]
+[[SDI_STDP_Regulation]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

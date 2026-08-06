@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
+[[BrainScaleTopologyExploitation]]
 [[CollectiveDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

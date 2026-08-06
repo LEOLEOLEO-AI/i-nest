@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]
+[[SpectralSupportAnalysis]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Topology]]

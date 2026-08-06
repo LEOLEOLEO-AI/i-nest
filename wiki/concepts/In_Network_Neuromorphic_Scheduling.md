@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[BiasEvaluationMetrics]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SNN]]
 [[ST_SNN]]

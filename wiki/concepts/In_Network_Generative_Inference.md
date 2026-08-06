@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenTracking]]
 [[InNetworkAgentRewiring]]
+[[InSensorMemoryComputing]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_Topology]]
@@ -32,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikingNeuralNetworkTopologyMapping]]
+[[SpikingNeuralNetworkTopology]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

@@ -19,8 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]
 [[CST计量仪]]
+[[Complex_System_Theory]]
 [[DifferentiableRasterizationPipeline]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

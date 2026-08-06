@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[On_Chip_STDP_Learning]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
+[[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]

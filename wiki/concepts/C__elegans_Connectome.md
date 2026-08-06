@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[Connectome_Inspired_Architecture]]
+[[Connectome_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

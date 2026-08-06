@@ -22,12 +22,18 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
+[[DTGA]]
 [[EntangledCriticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[ReconfigurableSpikingRouting]]
+[[SelfOrganization]]
+[[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[StressDrivenNetworkMorphogenesis]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

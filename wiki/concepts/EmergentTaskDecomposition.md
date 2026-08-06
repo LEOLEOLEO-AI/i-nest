@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Readout_Weight_Training]]
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]

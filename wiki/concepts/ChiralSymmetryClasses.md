@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
+[[MultiObjectiveRouting]]
 [[Network_Topology_Design]]
 [[NonHermitianTopology]]
 [[Resilient_Satellite_Mesh]]

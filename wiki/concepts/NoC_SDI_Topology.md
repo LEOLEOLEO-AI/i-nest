@@ -1,0 +1,38 @@
+---
+title: "NoC_SDI_Topology"
+type: concept
+domain: TCC
+created: 2026-08-06
+auto: true
+---
+
+# NoC_SDI_Topology
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+A network-on-chip (NoC) architecture that integrates SDI (Silicon Die Interconnect) as the physical layer for topology-centric computing across chiplets and wafers. Enables scalable, high-bandwidth inter-chiplet communication essential for TCC's topology-aware dataflow and reconfigurable compute.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
+[[Memory_Wall]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC_SDI]]
+[[P_Paradigm]]
+[[SDI_Bond]]
+[[SDI_Topology]]
+[[TCC]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

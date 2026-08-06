@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Deep_SNN_Trainability]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[HebbianLimitCycleLearning]]

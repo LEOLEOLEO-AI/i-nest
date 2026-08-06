@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
 [[Contested_Priors_Mechanism]]
+[[Course_Based_FPGA_Prototyping]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

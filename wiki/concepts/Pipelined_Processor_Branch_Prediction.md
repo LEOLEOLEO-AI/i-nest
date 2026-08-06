@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction]]
 [[CrystalPalace_Program]]
 [[DARPA_ProjectManager_Model]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Pipelined_Processor]]

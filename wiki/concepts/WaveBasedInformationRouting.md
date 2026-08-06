@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -29,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[神经形态计算]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -22,9 +22,12 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[getnote_2026-01-12_低功耗智能新范式]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-02-22_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]
 [[iNEST]]

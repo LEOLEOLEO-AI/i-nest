@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]

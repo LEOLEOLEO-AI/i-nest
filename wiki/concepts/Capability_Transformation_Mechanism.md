@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

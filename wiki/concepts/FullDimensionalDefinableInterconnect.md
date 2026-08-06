@@ -20,8 +20,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletRoutingFabric]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[EulaminateOverrepresentation]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

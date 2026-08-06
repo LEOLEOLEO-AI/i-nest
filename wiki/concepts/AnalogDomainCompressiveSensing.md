@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DifferentiableRasterizationPipeline]]
+[[ErrorSuppressedPipeline]]
 [[ParallelSNNArchitecture]]
 [[Reservoir_Computing]]
 [[Resilient_Satellite_Mesh]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[Self_Organized_Criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

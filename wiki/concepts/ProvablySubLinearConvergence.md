@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[OnlinePlasticity]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AthermalDynamics]]
 [[BerryCurvatureIsolation]]
+[[BioPlausiblePredictiveCoding]]
 [[CellEmergence]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]

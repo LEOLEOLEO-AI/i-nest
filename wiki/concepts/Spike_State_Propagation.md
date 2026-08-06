@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Heterogeneous_Integration]]
@@ -26,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Regulation]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]

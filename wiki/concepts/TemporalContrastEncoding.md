@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[PhaseLockedTopologyMapping]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
 [[SNN]]

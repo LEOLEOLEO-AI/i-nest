@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[BitPrecisionAwareScheduling]]
 [[EmergentPatternFormation]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

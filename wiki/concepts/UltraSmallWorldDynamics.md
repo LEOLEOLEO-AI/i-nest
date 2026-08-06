@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Baseline_Draft_Status]]
 [[CollectiveDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]

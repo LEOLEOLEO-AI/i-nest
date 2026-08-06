@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[SelfOrganizedOscillatoryLearning]]
+[[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[Topology_Centric_Neuromorphic]]
 [[Topology_Centric_Neuromorphic_Integration]]

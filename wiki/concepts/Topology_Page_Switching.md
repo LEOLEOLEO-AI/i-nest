@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
+[[CrossbarArrayArchitecture]]
 [[DRBE_Workload]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[Topology_Page]]
+[[Topology_Reconfiguration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

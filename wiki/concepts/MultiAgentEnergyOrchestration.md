@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Cellular_vs_LEO_Satellite_Handoff]]
 [[CrossDomainAwareness]]
+[[DistributedTrainingCommunicationPattern]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

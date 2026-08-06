@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
+[[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SNN]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BurstGatedRouting]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

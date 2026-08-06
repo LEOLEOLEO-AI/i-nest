@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

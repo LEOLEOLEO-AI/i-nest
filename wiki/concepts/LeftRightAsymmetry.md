@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AstrocyteInspiredRepair]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]

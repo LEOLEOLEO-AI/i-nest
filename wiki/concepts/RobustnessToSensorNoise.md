@@ -1,0 +1,38 @@
+---
+title: "RobustnessToSensorNoise"
+type: concept
+domain: iNEST
+created: 2026-08-06
+auto: true
+---
+
+# RobustnessToSensorNoise
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+The property of spiking policies to maintain navigation performance under noisy or incomplete sensory inputs, leveraging the inherent temporal filtering and redundancy of spike-based coding. Critical for real-world deployment where sensors are imperfect, making spiking navigation more reliable than conventional continuous-value approaches in edge scenarios.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[11_SDI节点接口规范与化合键定义_dup]]
+[[20W_Brain_Inspired_Planning]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AIRA_NeuralArchSearch]]
+[[AI_Driven_Architecture_Search]]
+[[AI_Faculty_Forum_2026]]
+[[AI_Forum_Demo_Narrative]]
+[[Spiking_Neural_Network]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

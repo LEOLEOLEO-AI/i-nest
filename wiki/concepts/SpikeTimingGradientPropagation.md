@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[MembranePotentialModulation]]
 [[Network_Topology_Design]]
+[[PhaseLockedTopologyMapping]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

@@ -1,0 +1,38 @@
+---
+title: "CellularSheaf"
+type: concept
+domain: TCC
+created: 2026-08-06
+auto: true
+---
+
+# CellularSheaf
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-06
+
+## Definition
+A mathematical structure assigning vector spaces to nodes and restriction maps to edges, enabling richer geometric representations of graph data beyond scalar edge weights. Enables TCC to model multi-dimensional relationships and consistency constraints, improving expressiveness for topology-centric computation.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[3DHI_Chiplet_Integration]]
+[[3DHI_Integration]]
+[[3DHI_Stacking]]
+[[AI_Driven_Architecture_Search]]
+[[AI_Faculty_Forum_2026]]
+[[AI_Forum_Demo_Narrative]]
+[[Advanced_Packaging]]
+[[Network_Topology_Design]]
+[[P_Paradigm]]
+[[TCC]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

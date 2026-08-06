@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenFunctionalConnectivity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_Topology_Integration]]
@@ -42,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

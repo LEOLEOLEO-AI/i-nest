@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Free_Energy_Principle_Network]]
 [[InSensorComputing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

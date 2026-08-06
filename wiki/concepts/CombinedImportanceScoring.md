@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CollectiveSpikingDynamics]]
 [[Deep_SNN_Trainability]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]

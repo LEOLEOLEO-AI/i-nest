@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdiabaticMultimodeBend]]
+[[ArbitraryWavefunctionConfigurability]]
 [[CellEmergence]]
 [[EdgeIoTEnergyAwareness]]
 [[Electronic_Warfare_Integration]]

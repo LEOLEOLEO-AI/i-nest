@@ -19,16 +19,22 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_STDP]]
+[[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[TemporalDynamicsModeling]]
 [[Textbook_Paradigm_Definition]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

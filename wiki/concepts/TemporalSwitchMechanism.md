@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
+[[AdaptiveSTDP]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CirculateFiringNeuron]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Synaptic_Plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

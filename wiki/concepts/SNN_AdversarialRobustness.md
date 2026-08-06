@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AddressRedundancyElimination]]
 [[AdversarialRobustness]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

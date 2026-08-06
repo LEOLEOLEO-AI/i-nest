@@ -36,9 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[RTC_Primitive_Set]]
 [[Relapse_Resilient_Interconnect]]
+[[STDP_Plasticity]]
 [[SpikeTimingAbstraction]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

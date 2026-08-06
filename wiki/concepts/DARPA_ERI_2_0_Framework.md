@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ERI]]
 [[ERI_2_0_Framework]]
 [[Heterogeneous_Integration]]
+[[National_Innovation_Center_Framework]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

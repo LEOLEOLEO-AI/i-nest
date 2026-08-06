@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Interaction_Sequencing]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AutonomousSpikingDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

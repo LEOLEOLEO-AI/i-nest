@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Avalanche_Dynamics]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DynamicalCriticality]]
 [[Emergent_Intelligence_Threshold]]

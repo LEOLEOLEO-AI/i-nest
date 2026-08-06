@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
+[[Memristive_STDP]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

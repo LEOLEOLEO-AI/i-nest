@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[PhaseModulationTestability]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

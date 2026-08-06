@@ -22,3 +22,16 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Chiplet_Heterogeneous_Integration]]
+[[CoPoS]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
+[[Nonlinear_Gain]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+[[iNEST]]
+[[涌现]]

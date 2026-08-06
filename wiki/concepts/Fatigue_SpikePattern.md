@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Conversion_Approximation_Bound]]
 [[SpikeTimingFidelity]]
+[[SpikeTimingGradientPropagation]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

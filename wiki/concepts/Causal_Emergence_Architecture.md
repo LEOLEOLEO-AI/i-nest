@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[Causal_Emergence]]
+[[Chiplet_Wafer_Topology]]
 [[Emergent_Computation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

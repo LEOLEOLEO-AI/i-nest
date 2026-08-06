@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CriticalityConstrainedPruning]]
 [[Emergent_Intelligence_Threshold]]
+[[ForwardFluctuationGradient]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

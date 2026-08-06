@@ -28,10 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PolychronousNeuronalGroups]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[Sparse_Distributed_Memory]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[Temporal_Coding]]
 
 ## Sources

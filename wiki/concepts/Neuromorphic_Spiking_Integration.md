@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]
+[[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Spiking]]
 [[RecursiveSelfReferentialArchitecture]]

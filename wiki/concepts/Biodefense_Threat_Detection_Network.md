@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AllOpticalHebbianLearning]]
 [[AsymmetricCoupling]]
+[[Catastrophic_Forgetting]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]

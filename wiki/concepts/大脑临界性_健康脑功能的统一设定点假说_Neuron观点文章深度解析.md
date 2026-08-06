@@ -26,8 +26,12 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
+[[Agent_Workflow_Automation]]
 [[Brain_Connectome]]
+[[Connectome_Verification_Protocol]]
+[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
+[[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]

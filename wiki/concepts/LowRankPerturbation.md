@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BidirectionalRingTopology]]
 [[Contested_Priors_Mechanism]]
+[[Course_Based_FPGA_Prototyping]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -34,4 +34,4 @@ SDI, STDP, TCC, iNEST, 忆阻, 拓扑, 神经形态, 类脑, 芯粒
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[涌现]]
+[[iNEST]]

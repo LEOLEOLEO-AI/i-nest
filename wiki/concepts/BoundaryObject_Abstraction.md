@@ -23,12 +23,14 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Deep_Network_Architecture_Invariant]]
 [[EmergentIntelligence_Spacetime]]
+[[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SystemLevelNonlinearity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

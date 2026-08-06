@@ -24,10 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[AttractorConvergenceAnalysis]]
 [[Bayesian_Decoding]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 
 ## Sources

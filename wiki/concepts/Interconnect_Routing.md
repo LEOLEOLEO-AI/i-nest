@@ -19,8 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[DTGA]]
 [[FunctionalBrainGraphEmbedding]]
 [[Hierarchical_Interconnect]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[OpticalNeuralNetworkTopology]]
 [[PhononicBandgapEngineering]]
@@ -33,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Aware_Packaging]]
 [[VerticalOpticalInterconnect]]
 [[ViewDependentAppearance]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

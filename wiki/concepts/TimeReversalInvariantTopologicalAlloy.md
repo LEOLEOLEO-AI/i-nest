@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
 [[NonHermitianTopology]]
 [[Resilient_Satellite_Mesh]]

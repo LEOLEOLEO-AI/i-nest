@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Avalanche_Dynamics]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[Criticality_Based_Feature_Extraction]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

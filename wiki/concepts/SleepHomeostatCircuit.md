@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveFrequencyResonateFire]]
+[[AdaptiveLocalLearning]]
 [[DynamicalCriticality]]
 [[Edge_Neuromorphic_Compute]]
 [[ElasticInferenceScheduling]]

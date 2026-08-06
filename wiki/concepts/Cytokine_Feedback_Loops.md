@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[CounterstreamSignalPropagation]]
+[[Dendritic_In_Context_Learning]]
 [[Dynamic_Expert_Fusion]]
 [[EmulationTheoryObserver]]
 [[Phase_Transition_Tail_Transition]]

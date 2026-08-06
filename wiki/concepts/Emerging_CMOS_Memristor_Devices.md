@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[WaferScale_Memristor_Array]]
 
 ## Sources
 - See wiki/articles/ for source article summaries
