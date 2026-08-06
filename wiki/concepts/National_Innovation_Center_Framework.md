@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_ERI]]
 [[DARPA_ERI_2_0_Framework]]
+[[DARPA_Manufacturing_Strategy]]
 [[ERI_2_0_Framework]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]

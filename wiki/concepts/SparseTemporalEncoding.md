@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Architectural_Conditioning]]
+[[ChipletRoutingFabric]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[P_Paradigm]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[CrossInstitutionalNetwork]]
+[[CrossLayer_SignalRouting]]
 [[CrystalPalace_Program]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

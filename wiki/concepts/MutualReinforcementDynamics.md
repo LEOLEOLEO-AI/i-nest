@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DissipativeQuantumReservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

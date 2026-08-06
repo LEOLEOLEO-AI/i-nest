@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[Baseline_Draft_Status]]
 [[ContinualLearningOnNeuromorphic]]
+[[EventBasedNeuralDecoding]]
 [[EventDrivenAutoregression]]
 [[EventDrivenRiskAssessment]]
 [[FirstTimestepConversion]]

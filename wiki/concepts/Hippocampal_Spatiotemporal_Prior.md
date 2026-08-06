@@ -1,0 +1,38 @@
+---
+title: "Hippocampal_Spatiotemporal_Prior"
+type: concept
+domain: Cross
+created: 2026-08-07
+auto: true
+---
+
+# Hippocampal_Spatiotemporal_Prior
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-07
+
+## Definition
+A theoretical framework positing that the hippocampus encodes both sequential and spatial-temporal priors, where the order of processing (sequence-first vs. spatiotemporal-prior-first) determines the computational strategy for memory formation and recall. This concept is critical for designing neuromorphic architectures that mimic hippocampal dynamics, enabling TCC/iNEST systems to balance temporal sequence learning with spatial context integration for robust memory and navigation tasks.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[11_SDI节点接口规范与化合键定义_dup]]
+[[MemoryFormation]]
+[[Neuromorphic_Computing]]
+[[TCC]]
+[[Temporal_Sequence_Learning]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

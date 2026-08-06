@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
 [[Intelligence_Emergence]]
+[[MeasurementEfficientDisorderAware]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

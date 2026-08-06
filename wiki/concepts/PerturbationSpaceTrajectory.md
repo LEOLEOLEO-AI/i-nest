@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]

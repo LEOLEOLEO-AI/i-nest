@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Distributed_Spike_Communication]]
+[[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]

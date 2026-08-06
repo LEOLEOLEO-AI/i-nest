@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
+[[MultiObjectiveRouting]]
 [[Network_Topology_Design]]
 [[OnDie_Fusion]]
 [[Photonic_Chiplet_Interconnect]]

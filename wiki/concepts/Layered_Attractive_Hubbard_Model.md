@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[QuantumChaos]]

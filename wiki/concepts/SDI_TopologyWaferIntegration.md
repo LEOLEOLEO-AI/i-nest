@@ -28,16 +28,19 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SDSoW]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

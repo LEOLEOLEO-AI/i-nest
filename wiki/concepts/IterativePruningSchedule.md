@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BioPlausiblePredictiveCoding]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenInference]]

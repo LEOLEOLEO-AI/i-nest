@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BulletTrainScheduling]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]
 [[Dynamic_Expert_Fusion]]

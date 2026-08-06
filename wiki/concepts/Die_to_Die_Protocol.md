@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BisectionBandwidthBound]]
 [[Chiplet_Heterogeneous_Integration]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

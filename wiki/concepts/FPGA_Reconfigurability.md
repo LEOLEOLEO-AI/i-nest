@@ -26,8 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[Additive_Manufacturing_Supply_Chain]]
+[[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
 

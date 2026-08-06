@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SexBasedConnectomeDifferences]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Integration]]
+[[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[iNEST]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]

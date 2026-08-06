@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
+[[Reservoir_Computing]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

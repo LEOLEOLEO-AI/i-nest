@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Branch_Prediction]]
 [[Dynamic_Expert_Fusion]]
+[[Evolving_System_Adaptation]]
 [[Free_Energy_Synchronization]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]

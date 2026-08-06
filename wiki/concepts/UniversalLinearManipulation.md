@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Forum_Demo_Narrative]]
+[[ActivityAvalanche]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
@@ -28,7 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[DisorderedNetworkInterconnect]]
 [[EEGToNeuromorphicMapping]]
+[[InNetworkComputing]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Neuromorphic_Computing]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

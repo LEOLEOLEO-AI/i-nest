@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]

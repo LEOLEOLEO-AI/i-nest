@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_Synaptic_Behavior]]
 [[Emergent_Intelligence_Threshold]]
+[[FeFET_Polarization_Switching]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[Intelligence_Emergence]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AcceleratedMaterialScreening]]
 [[AstrocyteInspiredRepair]]
+[[AvalancheTriggeringMechanism]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

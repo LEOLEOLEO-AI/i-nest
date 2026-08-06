@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[STDP_Learning]]

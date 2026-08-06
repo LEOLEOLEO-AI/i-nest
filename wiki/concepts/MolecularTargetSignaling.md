@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveBitPrecisionExploration]]
 [[Analog_Computation]]
 [[BioPlausibleNeuromorphicDisturbanceObserver]]
 [[Chiplet_Heterogeneous_Integration]]

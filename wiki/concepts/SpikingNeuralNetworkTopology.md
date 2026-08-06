@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
+[[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]

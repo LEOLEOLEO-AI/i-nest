@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
+[[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

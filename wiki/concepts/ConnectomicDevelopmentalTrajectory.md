@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BitPrecisionAwareScheduling]]
 [[CST_SynergisticCoordination]]
+[[Collective_State_Convergence]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

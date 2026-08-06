@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Enabled_Battlefield_Autonomy]]
 [[Accessibility_Plasticity]]
+[[AdaptiveFunctionalTopology]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AnisotropicSymmetryBreaking]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[CouplingMatrixRecovery]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

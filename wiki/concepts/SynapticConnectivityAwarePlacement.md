@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenAttention]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

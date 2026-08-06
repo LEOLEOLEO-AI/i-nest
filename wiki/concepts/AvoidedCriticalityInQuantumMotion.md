@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[Allreduce_Latency_Probe]]
+[[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]

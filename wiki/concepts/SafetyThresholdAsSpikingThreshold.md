@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenModularArchitecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

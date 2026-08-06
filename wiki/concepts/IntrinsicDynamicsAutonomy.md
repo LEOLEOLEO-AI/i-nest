@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
+[[CSI_Temporal_Encoding]]
 [[Dynamic_Expert_Fusion]]
 [[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]

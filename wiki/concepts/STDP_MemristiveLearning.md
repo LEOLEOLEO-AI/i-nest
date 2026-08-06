@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]

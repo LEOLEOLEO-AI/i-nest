@@ -24,12 +24,20 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC_SDI]]
 [[NoC_SDI_Integration]]
 [[ReconfigurableSpikingRouting]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
+[[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

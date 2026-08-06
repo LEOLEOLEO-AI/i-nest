@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TopologyCentric_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

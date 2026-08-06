@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

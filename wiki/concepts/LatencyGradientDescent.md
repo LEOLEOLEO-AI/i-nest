@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
+[[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

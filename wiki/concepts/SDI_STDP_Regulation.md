@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN动力学]]
+[[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Contested_Prior_Resolution]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[ScaleFreeNetworks]]

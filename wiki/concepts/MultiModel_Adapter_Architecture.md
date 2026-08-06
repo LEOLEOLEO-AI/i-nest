@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[Catastrophic_Forgetting]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Cognitive_Relapse_Architecture]]
+[[Contested_Priors_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]

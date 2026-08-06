@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopologyMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[MemristiveSynapse]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

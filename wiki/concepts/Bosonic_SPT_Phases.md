@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AstrocyteInspiredRepair]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

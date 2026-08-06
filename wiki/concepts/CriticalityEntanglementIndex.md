@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[Critical_Exponent_Scaling]]
+[[Criticality_of_Natural_Languages]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]

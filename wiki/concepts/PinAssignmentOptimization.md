@@ -29,12 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[PhononicBandgapEngineering]]
 [[ReconfigurableSpikingRouting]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Topology_Aware_Packaging]]
 [[VerticalOpticalInterconnect]]
 [[ViewDependentAppearance]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,12 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[HeterogeneousChipletIntegration]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[InverseDesignOptimization]]
 [[InverseDesignedPhotonicRouting]]
 [[LargeScalePhotonicIntegration]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[WaferScaleTopologyInterconnect]]
 [[Wafer_Scale_Integration]]
 
 ## Sources

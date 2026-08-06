@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]
+[[EventDrivenSensoryEncoding]]
 [[EventDrivenTrajectoryEncoding]]
 [[Memory_Wall]]
 [[NeuromorphicAuditoryFrontend]]

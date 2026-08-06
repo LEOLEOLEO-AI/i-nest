@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Interconnect]]

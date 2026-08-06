@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 [[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]

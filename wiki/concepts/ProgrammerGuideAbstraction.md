@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

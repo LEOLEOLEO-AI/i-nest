@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
@@ -34,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[OptimalRepresentation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Residual_Connection]]
 [[Residual_Connection_Removal]]
+[[SDI_TCC_iNEST_Interconnect]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

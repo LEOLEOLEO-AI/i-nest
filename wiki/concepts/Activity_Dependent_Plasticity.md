@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Active_Inference_Agent]]
 [[AdaptiveSTDP]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]

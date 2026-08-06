@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN动力学]]
 [[Attention_Residuals]]
+[[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
+[[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -67,6 +69,8 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[Topology_Reconfiguration]]
 [[VariationalFreeEnergyMinimization]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

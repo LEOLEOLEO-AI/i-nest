@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[Connectome_Inspired_Architecture]]
+[[DataProvenanceIntegrity]]
 [[Dynamic_Expert_Fusion]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

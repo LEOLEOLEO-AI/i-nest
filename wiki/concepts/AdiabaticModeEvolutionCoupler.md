@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ImmobilizationStabilityMechanism]]
 [[Interconnect_Routing]]
 [[MachineLearningNanomaterialDiscovery]]
+[[Memristive_Interconnect]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

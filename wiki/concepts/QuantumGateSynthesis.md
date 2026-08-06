@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
+[[VariationalFreeEnergyMinimisation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

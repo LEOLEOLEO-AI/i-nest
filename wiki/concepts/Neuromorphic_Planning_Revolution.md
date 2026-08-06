@@ -33,10 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

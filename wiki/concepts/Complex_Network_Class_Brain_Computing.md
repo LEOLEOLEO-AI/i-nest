@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Memristor_Synapse]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -33,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

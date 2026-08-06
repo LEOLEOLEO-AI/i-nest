@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
+[[HumanVisionInspiredSNN]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

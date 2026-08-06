@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Energy_Tradeoff]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Baseline_Draft_Status]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

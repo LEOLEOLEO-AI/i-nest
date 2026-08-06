@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[TCC]]
+[[iMESO_PhysicalCarrier]]
 [[iNEST]]
 
 ## Sources

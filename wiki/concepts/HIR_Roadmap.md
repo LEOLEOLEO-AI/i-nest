@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_based_heterogeneous_integration]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Scaling]]

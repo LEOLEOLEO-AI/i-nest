@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActivityAvalanche]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[Avoided_Criticality]]
 [[CriticalityConstrainedPruning]]

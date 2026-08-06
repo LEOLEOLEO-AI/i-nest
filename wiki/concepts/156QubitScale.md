@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[CrossInstitutionalNetwork]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

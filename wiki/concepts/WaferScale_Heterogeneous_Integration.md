@@ -22,14 +22,19 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

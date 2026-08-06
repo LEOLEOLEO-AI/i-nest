@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenSource_Neuromorphic_Framework]]
 [[Open_Source_Research_Stack]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW]]
 [[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

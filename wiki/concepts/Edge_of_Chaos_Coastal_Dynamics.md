@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SelfOrganizationCriticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

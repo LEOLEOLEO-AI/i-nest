@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[RoutabilityDrivenFloorplanning]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[WaveBasedInformationRouting]]
 [[新型计算]]
 [[神经形态计算]]
 [[类脑芯片]]

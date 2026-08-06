@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LargeScalePhotonicIntegration]]

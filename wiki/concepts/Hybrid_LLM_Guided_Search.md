@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Compressed_Glass_Network]]
 [[Emergent_Intelligence_Threshold]]
 [[GateBasedQuantumReservoir]]
 [[InNetwork_Topological_Reservoir]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Quantum_Reservoir_Architecture]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
+[[Topological_Reservoir]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

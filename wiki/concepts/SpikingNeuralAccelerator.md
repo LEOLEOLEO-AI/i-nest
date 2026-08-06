@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Prototyping]]
 [[Dynamic_Expert_Fusion]]
 [[ErrorAmplificationLimits]]
+[[EventDrivenSynchronization]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

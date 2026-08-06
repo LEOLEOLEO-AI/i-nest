@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolutionCoupler]]
+[[DelayPropagationDynamics]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

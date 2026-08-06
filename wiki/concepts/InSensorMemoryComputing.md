@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenTracking]]
+[[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]

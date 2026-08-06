@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Attention_Residuals]]
 [[BiasEvaluationMetrics]]
+[[BoundaryObject_Abstraction]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]

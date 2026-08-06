@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]

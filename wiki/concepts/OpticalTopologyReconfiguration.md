@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[NoC_SDI_Topology]]
+[[RTC_Primitive]]
 [[RTC_Primitives]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

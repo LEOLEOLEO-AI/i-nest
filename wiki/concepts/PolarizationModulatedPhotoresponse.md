@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Accessibility_Plasticity]]
+[[AdaptiveArchitecture]]
 [[Dynamic_Expert_Fusion]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Topology_Mapping]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[AstrocyteInspiredRepair]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[InNetworkAgentRewiring]]

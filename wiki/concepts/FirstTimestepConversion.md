@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedNeuralDecoding]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MagnitudePhaseComputationalModel]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
 [[Contested_Prior_Resolution]]

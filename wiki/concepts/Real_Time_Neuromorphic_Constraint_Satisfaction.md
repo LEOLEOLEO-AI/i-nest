@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

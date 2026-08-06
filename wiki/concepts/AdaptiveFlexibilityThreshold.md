@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SelfMotivatedGrowth]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

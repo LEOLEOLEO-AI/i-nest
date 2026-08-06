@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactLocalisedStates]]
 [[CompactnessRegularizedFitness]]
 [[Emergent_Intelligence_Threshold]]
+[[ExponentialDenseAssociativeMemory]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

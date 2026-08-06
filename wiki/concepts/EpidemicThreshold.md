@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyInducedCriticality]]
 [[UniversalIntelligence_Emergence]]
 [[ViewDependentAppearance]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[新型计算]]
 [[神经形态计算]]
 

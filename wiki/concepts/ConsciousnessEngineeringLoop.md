@@ -19,6 +19,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
+[[AI_Faculty_Forum_2026]]
 [[CST_SynergisticCoordination]]
 [[Complex_System]]
 [[Complex_System_Theory]]

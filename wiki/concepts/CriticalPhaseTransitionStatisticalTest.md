@@ -31,13 +31,16 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
+[[getnote_2026-06-28_海河实验室项目指南_中间版本_]]
 [[iNEST]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[忆阻器]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

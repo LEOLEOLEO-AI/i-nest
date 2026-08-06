@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Integration_Route]]
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

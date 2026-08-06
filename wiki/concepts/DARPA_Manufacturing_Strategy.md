@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Project_Group_Strategy]]
+[[ElectronicPhotonicIntegratedCircuit]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Material_Circularity]]

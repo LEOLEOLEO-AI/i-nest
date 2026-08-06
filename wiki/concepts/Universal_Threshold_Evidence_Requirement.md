@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[Architectural_Conditioning]]
+[[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Nonlinear_Gain]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
@@ -27,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[OpticalSynapticWeightUpdate]]
 [[P_Paradigm]]
+[[Reservoir_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyEvolvingReservoir]]
 [[Topology_Reconfiguration]]

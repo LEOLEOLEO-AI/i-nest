@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
 [[SpikeCodedSafetyMonitoring]]
+[[SpikeEventTopology]]
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

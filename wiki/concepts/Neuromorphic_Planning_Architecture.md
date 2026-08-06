@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BiasEvaluationMetrics]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]

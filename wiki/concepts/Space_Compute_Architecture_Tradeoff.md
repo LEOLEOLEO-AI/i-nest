@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[External_to_OnDie_Evolution]]
 [[FatalityDrivenRewiring]]
+[[Heterogeneous_Inference_Offload]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 

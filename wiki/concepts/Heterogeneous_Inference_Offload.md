@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_Application_Scenario_Reconstruction]]
+[[Advanced_Packaging_for_Space]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[External_to_OnDie_Evolution]]

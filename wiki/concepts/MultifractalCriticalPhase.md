@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Monitored_Quantum_Circuits]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfOrganization]]

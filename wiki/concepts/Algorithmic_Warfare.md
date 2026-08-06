@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Criticality_Based_Feature_Extraction]]
 [[Emergent_Intelligence_Threshold]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]

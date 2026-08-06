@@ -30,6 +30,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
+[[BigBrainCellularAxis]]
 [[CST_Intelligence_Emergence]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

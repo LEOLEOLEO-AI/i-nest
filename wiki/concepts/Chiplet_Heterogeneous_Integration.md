@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_MVP]]
 [[Alpha_Computation_Consistency]]
 [[Analog_Weight_Storage]]
+[[BigBrainCellularAxis]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]

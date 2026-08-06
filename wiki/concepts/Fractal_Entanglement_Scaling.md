@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[EventCameraActionRecognition]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

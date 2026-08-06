@@ -43,6 +43,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalDynamicsModeling]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
 [[新型计算]]
 [[神经形态计算]]

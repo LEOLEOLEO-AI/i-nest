@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
+[[SurrogateGradientMethod]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

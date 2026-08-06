@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleCreditAssignment]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[FixedOverheadCost]]
+[[FixedOverheadPenalty]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

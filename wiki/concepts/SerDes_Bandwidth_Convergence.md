@@ -23,12 +23,17 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[IsolatedKVBandwidth]]
 [[Memory_Wall]]
+[[Network_on_Chip]]
 [[TCC]]
 
 ## Sources

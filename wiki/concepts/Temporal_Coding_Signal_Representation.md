@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[BurstCoding]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[SpikeEncoding]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

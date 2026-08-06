@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ForwardFluctuationGradient]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]

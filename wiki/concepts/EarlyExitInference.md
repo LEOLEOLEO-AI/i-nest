@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[ComputationEfficientDeepLearning]]
 [[DynamicInference]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

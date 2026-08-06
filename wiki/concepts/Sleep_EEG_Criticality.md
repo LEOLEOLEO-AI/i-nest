@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LeftRightAsymmetry]]
+[[MacroCriticalityEmergence]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SNN]]

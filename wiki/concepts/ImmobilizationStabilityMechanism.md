@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCombinerWeighting]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BayesianConnectivityEstimation]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

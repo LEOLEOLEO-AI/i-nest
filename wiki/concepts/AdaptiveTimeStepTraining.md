@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
+[[Intelligent_Emergence_Computing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

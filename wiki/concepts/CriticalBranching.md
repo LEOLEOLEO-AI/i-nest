@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Criticality_Based_Feature_Extraction]]
 [[Dynamic_Expert_Fusion]]
+[[EdgeOfChaosComputation]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

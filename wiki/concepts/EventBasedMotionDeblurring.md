@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
+[[BulletTrainScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]

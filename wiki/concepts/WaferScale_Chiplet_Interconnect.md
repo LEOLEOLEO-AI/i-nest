@@ -24,10 +24,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
 [[TCC]]
 

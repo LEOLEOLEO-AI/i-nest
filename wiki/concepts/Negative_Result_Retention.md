@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[DualDrivenHybridNetwork]]
 [[EventDrivenFunctionalConnectivity]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[PhaseAwareBisectionDemand]]
 [[SelfOrganization]]

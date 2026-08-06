@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[AutonomousAdaptation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

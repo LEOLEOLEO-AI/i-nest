@@ -27,8 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
+[[DelayPropagationDynamics]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

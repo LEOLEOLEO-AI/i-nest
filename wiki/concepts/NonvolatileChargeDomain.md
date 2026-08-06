@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Forum_Demo_Narrative]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]

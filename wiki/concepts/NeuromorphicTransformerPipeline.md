@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Architectural_Conditioning]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BurstGatedRouting]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]

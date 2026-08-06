@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[BurstGatedRouting]]
+[[CriticalityOffCriticalityTransition]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
 

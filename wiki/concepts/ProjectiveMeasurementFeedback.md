@@ -25,10 +25,15 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveDensityControl]]
 [[AdaptiveSTDP]]
+[[BackflowTransformation]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[BrainBodyResonance]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

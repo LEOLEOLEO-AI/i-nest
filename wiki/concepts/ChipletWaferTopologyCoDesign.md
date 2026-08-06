@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDSoW]]

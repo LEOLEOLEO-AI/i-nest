@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Deep_SNN_Trainability]]
 [[Emergent_Intelligence_Threshold]]
+[[EventBasedMotionDeblurring]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

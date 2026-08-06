@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Residual_Connection]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]

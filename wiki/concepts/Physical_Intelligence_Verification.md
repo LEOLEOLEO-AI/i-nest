@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AutonomousAdaptation]]
 [[BiasEvaluationMetrics]]
 [[Free_Energy_Principle_Network]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SpatiotemporalComplexityIndex]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]

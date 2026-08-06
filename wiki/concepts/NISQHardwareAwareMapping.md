@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[DendriticReservoirState]]
 [[EdgeIoTEnergyAwareness]]
+[[Emergent_Abilities]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Quantum_Reservoir_Computing]]

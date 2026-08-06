@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[Memristive_Topology]]
+[[MultiObjectiveRouting]]
 [[Network_Topology_Design]]
 [[NonHermitianTopology]]
 [[SuperparamagneticSwitchingRate]]

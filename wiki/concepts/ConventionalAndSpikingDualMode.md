@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
+[[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

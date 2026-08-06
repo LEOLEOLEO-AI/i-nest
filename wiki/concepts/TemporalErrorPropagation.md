@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Prototyping]]
 [[CriticalityConstrainedPruning]]
 [[ErrorAmplificationLimits]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
 [[Network_Topology_Design]]

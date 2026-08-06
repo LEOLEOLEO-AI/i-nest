@@ -26,9 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[DelayTolerantNetworkUAV]]
 [[Interconnect_Routing]]
+[[Memristive_Interconnect]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[RedundancyControlledStochasticRouting]]
+[[Synaptic_Plasticity]]
+[[TCC]]
 [[TCC_Neuromorphic_Integration]]
 
 ## Sources

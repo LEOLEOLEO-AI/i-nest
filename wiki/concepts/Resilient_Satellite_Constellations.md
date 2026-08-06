@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[ComplexValuedSNN]]
 [[DelayPropagationDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

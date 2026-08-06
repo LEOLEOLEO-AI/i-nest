@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[SDSoW]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

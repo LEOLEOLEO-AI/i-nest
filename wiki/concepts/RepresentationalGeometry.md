@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
+[[DefectDynamics]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

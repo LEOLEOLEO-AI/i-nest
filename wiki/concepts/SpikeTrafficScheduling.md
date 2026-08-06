@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActivityAvalanche]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Emergent_Intelligence_Threshold]]

@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Topology]]
 [[Dynamic_Expert_Fusion]]
 [[ElectromigrationReliability]]
+[[EnergyOptimizedManycoreArchitecture]]
+[[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

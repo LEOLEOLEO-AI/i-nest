@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_FullSpectrum_Strategy]]
+[[Crystallized_Embedding_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamical_State_Space]]
 [[Emergent_Intelligence_Threshold]]

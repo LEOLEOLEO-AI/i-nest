@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[Allreduce_Latency_Probe]]
 [[Analog_Computation]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DifferentiableRasterizationPipeline]]
 [[EdgeIoTEnergyAwareness]]

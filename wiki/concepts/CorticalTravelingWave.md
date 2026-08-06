@@ -26,8 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Agent_Workflow_Automation]]
 [[AstrocyteInspiredRepair]]
+[[ChannelEventSparsity]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

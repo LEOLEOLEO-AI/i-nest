@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Neuron_Equations]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
+[[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

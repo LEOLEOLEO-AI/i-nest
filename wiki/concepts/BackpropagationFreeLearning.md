@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
+[[ThirdWaveAI]]
 [[Topology_Centric_Neuromorphic]]
 [[Topology_Centric_Neuromorphic_Integration]]
 [[WaferScaleSubstrate]]

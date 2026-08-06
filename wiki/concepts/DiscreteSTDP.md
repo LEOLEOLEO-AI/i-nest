@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Enabled_Battlefield_Autonomy]]
+[[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[Spiking_Neural_Network]]
 [[Spiking_Temporal_Encoding]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[BitPrecisionAwareScheduling]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
 [[Chiplet_Based_Trusted_Hardware]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[TCC]]
 [[iNEST]]
 

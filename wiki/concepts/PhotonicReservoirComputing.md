@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

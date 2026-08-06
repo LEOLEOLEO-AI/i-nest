@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_FullSpectrum_Strategy]]
 [[AdiabaticMultimodeBend]]
+[[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Allreduce_Latency_Probe]]

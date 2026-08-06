@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[CirculateFiringNeuron]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ScaleFreeNetwork]]
 [[iNEST]]
 
 ## Sources

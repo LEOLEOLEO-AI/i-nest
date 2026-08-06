@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]

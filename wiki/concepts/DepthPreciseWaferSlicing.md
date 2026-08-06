@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[AdaptiveDensityControl]]
+[[Cognitive_Relapse_Architecture]]
 [[TCC]]
 
 ## Sources

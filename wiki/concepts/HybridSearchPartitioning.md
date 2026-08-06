@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
+[[MetricComputationAuthenticity]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[BurstGatedRouting]]
 [[DynamicTokenSparsity]]
+[[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Event_Driven_Architecture]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

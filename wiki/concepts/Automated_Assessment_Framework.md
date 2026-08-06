@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CirculateFiringNeuron]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[NeuromorphicSafetyBoundary]]
+[[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

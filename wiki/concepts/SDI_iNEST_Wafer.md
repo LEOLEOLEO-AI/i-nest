@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
+[[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -30,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

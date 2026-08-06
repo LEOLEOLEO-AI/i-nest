@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[ReconfigurableSpikingRouting]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

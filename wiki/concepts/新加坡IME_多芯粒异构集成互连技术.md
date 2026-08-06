@@ -20,3 +20,16 @@ refs: 4
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[3D_IC_Stacking]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
+[[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
+[[TCC]]
+[[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
+[[iNEST]]

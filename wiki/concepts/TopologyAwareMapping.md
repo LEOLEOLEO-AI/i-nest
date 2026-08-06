@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DendriticTaskPartitioning]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

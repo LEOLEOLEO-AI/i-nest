@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenRiskAssessment]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

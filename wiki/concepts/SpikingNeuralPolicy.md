@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayAwareSpikeEventDelivery]]
 [[EnergyEfficientSNN]]
 [[EventDrivenAutoregression]]
+[[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[SNN]]

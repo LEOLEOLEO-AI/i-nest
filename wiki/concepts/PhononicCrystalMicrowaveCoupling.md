@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdvancedPackagingInterconnect]]
+[[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]

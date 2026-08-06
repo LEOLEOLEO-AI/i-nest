@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
+[[Analog_Weight_Storage]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Heterogeneous_Integration]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
 [[SuperparamagneticSwitchingRate]]

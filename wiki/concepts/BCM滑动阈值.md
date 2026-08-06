@@ -24,6 +24,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
+[[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Complex_System]]
@@ -54,3 +55,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

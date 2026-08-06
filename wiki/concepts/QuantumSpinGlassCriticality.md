@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

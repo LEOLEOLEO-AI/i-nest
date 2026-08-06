@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Biodefense_Threat_Detection_Network]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Critical_Exponent_Analysis]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

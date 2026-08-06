@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenTopology]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality_Induced_Plasticity]]
+[[CrossbarFabricTopology]]
 [[DisorderInducedCriticality]]
 [[EntangledCriticality]]
 [[Fractal_Wavefront_Scaling]]

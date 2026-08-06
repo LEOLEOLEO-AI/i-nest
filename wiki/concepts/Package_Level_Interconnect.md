@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DataMovementMinimization]]
 [[Decoupled_Priors]]
 [[EulaminateOverrepresentation]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[ConnectomeWiringSeparability]]
 [[Connectome_Inspired_Architecture]]
+[[Connectome_Reservoir]]
 [[DataProvenanceIntegrity]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

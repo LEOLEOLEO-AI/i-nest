@@ -21,13 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[ScaleFreeNetwork]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 

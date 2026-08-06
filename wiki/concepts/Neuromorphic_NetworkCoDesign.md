@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossSubstrateHomology]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FastSlow_Dynamics]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
 [[Active_Inference_Architecture]]
+[[AdaptiveFlexibilityThreshold]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Agent_Workflow_Automation]]
 [[AstrocyteInspiredRepair]]

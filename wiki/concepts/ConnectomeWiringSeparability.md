@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CompleteConnectomeDynamics]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Reservoir]]
+[[Cross_Brain_Connectome]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

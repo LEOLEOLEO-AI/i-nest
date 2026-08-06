@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
 [[MassConservationBias]]
+[[MassConservationInductiveBias]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Physical_Reservoir_Substrate]]

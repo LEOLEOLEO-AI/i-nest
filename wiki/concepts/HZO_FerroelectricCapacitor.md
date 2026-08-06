@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[CapacityScalingLaw]]
 [[CirculateFiringNeuron]]
 [[CompactLocalisedStates]]
+[[CompactnessRegularizedFitness]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]
 [[InNetworkAgentRewiring]]

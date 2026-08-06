@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_FullSpectrum_Strategy]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenModularArchitecture]]
 [[FlexibleNeuromorphicAccelerator]]

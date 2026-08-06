@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Probe]]
+[[AlternativeMetalInterconnects]]
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Communication_Trace_Diagnostics]]

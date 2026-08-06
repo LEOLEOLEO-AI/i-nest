@@ -32,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardwareDeployment]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[iNEST]]
 

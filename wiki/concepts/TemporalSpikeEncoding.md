@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousSynapticDelays]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

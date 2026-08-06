@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdsorptionBiosorptionHybrid]]
+[[BigBrainCellularAxis]]
 [[BurstGatedRouting]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DisorderedNetworkInterconnect]]
 [[FrozenRateOperator]]
+[[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicComms]]
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]

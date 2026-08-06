@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Framework]]
 [[Heterogeneous_Integration]]
 [[National_Innovation_Center_Framework]]
+[[National_Mesoscale_Innovation_Center]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

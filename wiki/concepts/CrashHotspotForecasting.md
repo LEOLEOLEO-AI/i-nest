@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CellEmergence]]
 [[Emergent_Intelligence_Threshold]]
+[[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[Nonlinear_Gain]]

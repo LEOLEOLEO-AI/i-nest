@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraPoseInput]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]
+[[ImpactFallDetection]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
 

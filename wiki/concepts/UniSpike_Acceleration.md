@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalToolchain]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[InterFPGA_Spike_Routing]]
 [[LocalQuantumLearningRule]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

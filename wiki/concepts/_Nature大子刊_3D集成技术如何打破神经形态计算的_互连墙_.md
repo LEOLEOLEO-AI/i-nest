@@ -20,3 +20,16 @@ refs: 4
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[CST计量仪]]
+[[Chiplet_Heterogeneous_Integration]]
+[[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
+[[NCL神经计算定律详解]]
+[[Neuromorphic_Computing]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+[[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
+[[iNEST]]
+[[神经形态计算]]

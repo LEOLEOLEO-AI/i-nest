@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[ActivityAvalanche]]
 [[Agent_Interaction_Sequencing]]
+[[AsynchronousEventDrivenComputation]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -28,6 +28,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[C_elegansConnectomeAnalogy]]
 [[CompleteConnectomeDynamics]]
 [[ConnectomeFidelityClaim]]
+[[ConnectomeWiringSeparability]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
 [[大脑临界性_健康脑功能的统一设定点假说_Neuron观点文章深度解析]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
+[[LargeScalePhotonicIntegration]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

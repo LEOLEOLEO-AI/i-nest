@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]

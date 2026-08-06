@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DissipativeQuantumReservoir]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

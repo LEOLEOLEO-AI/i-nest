@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[LargeScalePhotonicIntegration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[SDSoW_Strategic_Planning]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

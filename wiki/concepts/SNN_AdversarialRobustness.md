@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialRobustness]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
+[[BulletTrainScheduling]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

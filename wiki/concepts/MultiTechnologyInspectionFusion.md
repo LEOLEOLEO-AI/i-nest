@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_Manufacturing_Strategy]]
+[[DARPA_Project_Group_Strategy]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[In_Network_Sensing]]

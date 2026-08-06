@@ -30,6 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
 [[BrainScaleTopologyExploitation]]
+[[ChannelEventSparsity]]
+[[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

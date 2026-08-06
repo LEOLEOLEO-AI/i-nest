@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CSI_Temporal_Encoding]]
 [[CoDesigned_SNN]]
 [[CoEvolvedSNNEnsemble]]
 [[Emergent_Intelligence_Threshold]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CounterstreamSignalPropagation]]
 [[CriticalityOffCriticalityTransition]]
+[[Criticality_Induced_Plasticity]]
 [[Driven_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

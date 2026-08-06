@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalDynamicsModeling]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

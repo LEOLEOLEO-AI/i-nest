@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Boundary_Criticality]]
 [[BrownianCastleInterfaces]]
+[[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Self_Organized_Criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

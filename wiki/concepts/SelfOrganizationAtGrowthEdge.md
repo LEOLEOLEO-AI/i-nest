@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Cognitive_Relapse_Architecture]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]

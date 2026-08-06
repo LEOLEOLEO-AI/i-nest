@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Principle_Network]]
 [[In_Network_Neuromorphic]]

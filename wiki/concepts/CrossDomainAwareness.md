@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MachineLearningNanomaterialDiscovery]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

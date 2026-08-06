@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Heterogeneous_Integration]]
 [[IndexOrderingOptimization]]
+[[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

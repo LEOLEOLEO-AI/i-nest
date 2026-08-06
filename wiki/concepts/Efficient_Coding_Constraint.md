@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenAttention]]
+[[EventDrivenTracking]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

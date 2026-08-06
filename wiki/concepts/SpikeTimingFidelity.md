@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
+[[LocalQuantumLearningRule]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

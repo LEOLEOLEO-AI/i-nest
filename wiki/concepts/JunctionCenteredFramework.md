@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
+[[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]

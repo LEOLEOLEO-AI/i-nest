@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
+[[CLINKAsCarrierPrimitive]]
 [[Chiplet_Heterogeneous_Integration]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

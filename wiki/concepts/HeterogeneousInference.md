@@ -22,13 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[ChipletTrafficAwareScheduling]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC_SDI_Topology]]
 [[TCC]]
 
 ## Sources

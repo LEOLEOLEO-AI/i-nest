@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

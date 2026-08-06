@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfGrowth]]
 [[Emergent_Intelligence_Threshold]]

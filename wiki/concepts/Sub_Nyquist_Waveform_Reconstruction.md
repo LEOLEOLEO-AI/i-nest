@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Reservoir_Topology]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Reservoir_Substrate]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[Residual_Connection_Removal]]
 [[iNEST]]
 
 ## Sources

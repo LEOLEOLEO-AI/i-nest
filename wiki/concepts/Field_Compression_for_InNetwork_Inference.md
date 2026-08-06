@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PartiallyLabeledMemoryRetrieval]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ScaleFreeNetwork]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

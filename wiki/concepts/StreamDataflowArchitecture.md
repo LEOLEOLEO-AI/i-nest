@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
+[[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
 [[Network_Topology_Design]]

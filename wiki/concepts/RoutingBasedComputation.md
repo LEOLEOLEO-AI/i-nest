@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossLayer_SignalRouting]]
 [[DARPA_Technology_Incubation]]
+[[Free_Energy_Principle_Network]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[TCC]]
 

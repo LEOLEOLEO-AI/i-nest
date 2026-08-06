@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[BioPlausiblePredictiveCoding]]
 [[FlexibilityThreshold]]
+[[FrozenRateOperator]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

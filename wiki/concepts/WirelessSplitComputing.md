@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenTracking]]
+[[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
@@ -33,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikingNeuralNetworkTopologyMapping]]
+[[SpikingNeuralNetworkTopology]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

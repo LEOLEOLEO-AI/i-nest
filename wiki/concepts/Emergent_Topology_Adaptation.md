@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DynamicTopologyMapping]]
 [[Dynamic_Expert_Fusion]]
+[[Fermi_Surface_Reconstruction]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenGraphTraversal]]
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

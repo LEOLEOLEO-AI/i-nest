@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
+[[AdaptiveFunctionalTopology]]
 [[DTGA]]
 [[EntangledCriticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

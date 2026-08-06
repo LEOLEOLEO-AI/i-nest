@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

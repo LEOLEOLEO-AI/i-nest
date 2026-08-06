@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
 [[NeuromorphicHardware]]
+[[NeuromorphicHarmonyEncoding]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Spike_Encoding_of_fMRI]]

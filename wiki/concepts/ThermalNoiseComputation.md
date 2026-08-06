@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
 

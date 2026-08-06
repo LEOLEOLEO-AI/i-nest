@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
@@ -29,9 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[iNEST]]
 

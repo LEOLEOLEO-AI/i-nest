@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BerryCurvatureIsolation]]
 [[DistinguishableHelium4]]
 [[EdgeIoTEnergyAwareness]]
+[[ExtrinsicAnomalousHallConductivity]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]

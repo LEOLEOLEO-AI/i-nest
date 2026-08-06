@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
+[[PersonalizedSNNTransfer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_TCC_Integration]]

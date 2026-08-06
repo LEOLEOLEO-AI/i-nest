@@ -19,12 +19,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Agent_Interaction_Sequencing]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[Boundary_Criticality]]
+[[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

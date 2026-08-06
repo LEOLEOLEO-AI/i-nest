@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuroactiveCompoundTherapeutics]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SynapticWeightPlasticity]]

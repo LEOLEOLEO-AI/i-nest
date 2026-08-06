@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
+[[CollectiveDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

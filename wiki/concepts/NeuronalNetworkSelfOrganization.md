@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BioPlausibleNeuromorphicDisturbanceObserver]]
 [[Biomanufacturing_Control_Loop]]
+[[BranchingRatio]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

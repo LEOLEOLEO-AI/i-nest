@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Analog_Computation]]
 [[CirculateFiringNeuron]]
+[[Crystallized_Embedding_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamical_State_Space]]
 [[Emergent_Intelligence_Threshold]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Decoupling_Mechanism]]
 [[Heterogeneous_Integration]]
+[[SDI_NPU_NoC_Integration]]
 [[TCC]]
 
 ## Sources

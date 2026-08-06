@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
+[[Reservoir_Computing]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

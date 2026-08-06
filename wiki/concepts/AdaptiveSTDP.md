@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[STDPDrivenTemporalBinding]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spike_Encoding_of_fMRI]]

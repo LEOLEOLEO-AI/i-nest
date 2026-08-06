@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]

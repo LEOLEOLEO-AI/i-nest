@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[智能涌现]]
 [[神经网络]]
 
 ## Sources

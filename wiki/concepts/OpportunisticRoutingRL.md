@@ -20,16 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[EmergentOrder]]
 [[EventDrivenRiskAssessment]]
 [[ExplainableEnergyAI]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

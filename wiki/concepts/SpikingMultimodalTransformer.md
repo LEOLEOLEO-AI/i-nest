@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]
 [[GeometricNeuromorphicFusion]]

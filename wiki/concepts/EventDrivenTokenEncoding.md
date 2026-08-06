@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ANN_SNN_WeightSpaceGap]]
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[ContinuousTimeSNN]]

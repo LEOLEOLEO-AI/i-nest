@@ -20,15 +20,23 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BigBrainCellularAxis]]
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[Pods4Rail_Topology]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
+[[SelfOrganization]]
 [[SpikePacketRouting]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

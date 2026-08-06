@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Cognitive_Relapse_Architecture]]
+[[CommunicationAwareComputeRelocation]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 

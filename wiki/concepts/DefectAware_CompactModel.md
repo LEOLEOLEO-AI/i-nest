@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ChargeDomainAttention]]
 [[DefectDynamics]]
 [[EnergyResourceEfficiencyCoOptimization]]
+[[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricNvCap]]
 [[FerroelectricSynapticDevices]]

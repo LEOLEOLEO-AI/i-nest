@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ChargeDomainAttention]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FerroelectricSynapticArray]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]

@@ -27,9 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OnChipOpticalTweezers]]
 [[SDI_Bond]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[iNEST]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

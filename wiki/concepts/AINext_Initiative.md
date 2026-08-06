@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[ScaleFreeNetwork]]
+[[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[SmallCore_LargeNetwork]]
 [[Spiking_Neural_Network]]

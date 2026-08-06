@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttention]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[PhaseLockedTopologyMapping]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]

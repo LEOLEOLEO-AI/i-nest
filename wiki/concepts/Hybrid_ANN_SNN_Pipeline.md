@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[DelayAwareSpikeEventDelivery]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientSNN]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

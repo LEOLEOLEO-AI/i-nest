@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BulletTrainScheduling]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]
 [[Emergent_Intelligence_Threshold]]

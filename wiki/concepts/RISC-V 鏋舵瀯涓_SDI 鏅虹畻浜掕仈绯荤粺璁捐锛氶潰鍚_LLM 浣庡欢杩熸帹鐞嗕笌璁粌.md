@@ -27,6 +27,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
+[[BCM滑动阈值]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -55,3 +56,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[iNEST]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]

@@ -22,12 +22,14 @@ Auto-extracted concept from raw material compilation.
 
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenAttention]]
 [[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[ResonateAndFireEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

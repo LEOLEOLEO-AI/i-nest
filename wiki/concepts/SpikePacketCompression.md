@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenAttention]]
+[[EventDrivenTrajectoryEncoding]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -26,9 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdiabaticMultimodeBend]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
 [[AttractorConvergenceAnalysis]]
+[[Bipartite_Interconnect_Fabric]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 
 ## Sources

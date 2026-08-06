@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotoInducedCurrent]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]
+[[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

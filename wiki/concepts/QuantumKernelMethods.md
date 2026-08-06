@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MachineLearningNanomaterialDiscovery]]
+[[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
 [[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
@@ -38,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

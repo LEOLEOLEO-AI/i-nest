@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Core_Spacetime_Tensor]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[EulaminateOverrepresentation]]

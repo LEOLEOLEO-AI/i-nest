@@ -30,6 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[CognitiveTaskonomy]]
 [[ContinualLearningOnNeuromorphic]]
+[[Continuous_Spatiotemporal_State_Propagation]]
+[[Intelligence_Emergence]]
+[[Interconnect_Routing]]
+[[Neuromorphic_Computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

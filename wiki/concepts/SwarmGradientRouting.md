@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[TwoTimescaleNeuroEvolution]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

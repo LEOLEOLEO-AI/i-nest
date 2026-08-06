@@ -20,15 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[3DGS_SplatPrimitive]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Topology]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 [[Topology_Interconnect]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 
 ## Sources

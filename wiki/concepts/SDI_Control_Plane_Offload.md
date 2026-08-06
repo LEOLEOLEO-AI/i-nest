@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_SDI_Topology]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

@@ -1,0 +1,38 @@
+---
+title: "Hypergraph_Label_Noise"
+type: concept
+domain: Cross
+created: 2026-08-07
+auto: true
+---
+
+# Hypergraph_Label_Noise
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-07
+
+## Definition
+A framework for modeling and mitigating label noise in hypergraph neural networks, where each hyperedge connects multiple nodes and labels can be corrupted at varying rates across different hyperedges. Enables robust learning in high-order relational data, critical for TCC/iNEST systems where noisy labels from distributed sensors or neuromorphic spikes can degrade network performance.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[11_SDI节点接口规范与化合键定义_dup]]
+[[20W_Brain_Inspired_Planning]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AIRA_NeuralArchSearch]]
+[[AI_Driven_Architecture_Search]]
+[[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

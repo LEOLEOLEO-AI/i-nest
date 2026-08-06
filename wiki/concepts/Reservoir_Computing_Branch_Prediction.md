@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[AlternativeBridgingModels]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Branch_Prediction]]
 [[Dynamic_Expert_Fusion]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

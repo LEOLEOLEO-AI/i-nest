@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]

@@ -29,8 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[SpatiotemporalComplexityIndex]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
 

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Readout_Weight_Training]]
 [[Representation_Learning_Generalization]]

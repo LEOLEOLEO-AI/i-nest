@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[Fixed_Term_Project_Structure]]
+[[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]

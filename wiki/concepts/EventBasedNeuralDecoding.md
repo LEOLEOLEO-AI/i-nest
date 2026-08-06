@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstTimestepConversion]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MagnitudePhaseComputationalModel]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

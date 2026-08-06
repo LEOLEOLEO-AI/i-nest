@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[DistinguishableHelium4]]
 [[Edge_Neuromorphic_Compute]]
+[[EventDrivenAttention]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]

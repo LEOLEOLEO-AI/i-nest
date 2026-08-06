@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyResourceEfficiencyCoOptimization]]
 [[Ferroelectric_Devices]]
+[[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

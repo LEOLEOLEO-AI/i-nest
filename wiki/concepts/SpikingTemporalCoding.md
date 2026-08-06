@@ -27,7 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[Globally_Optimal_SNN_Training]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LocalQuantumLearningRule]]
+[[PhaseLockedTopologyMapping]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

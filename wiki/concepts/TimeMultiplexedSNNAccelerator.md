@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AddressRedundancyElimination]]
 [[AlternativeBridgingModels]]
+[[Contested_Priors_Mechanism]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

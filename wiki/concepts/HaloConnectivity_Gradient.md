@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[ExponentialDenseAssociativeMemory]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlocks]]
 [[InNetworkAgentRewiring]]

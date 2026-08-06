@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]

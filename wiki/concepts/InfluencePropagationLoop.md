@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP_Bond]]
 [[SparseActivationPattern]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

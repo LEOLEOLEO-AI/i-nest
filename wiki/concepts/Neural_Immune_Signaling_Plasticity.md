@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnisotropicGaussianPrimitives]]
+[[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
 [[FrozenRateOperator]]

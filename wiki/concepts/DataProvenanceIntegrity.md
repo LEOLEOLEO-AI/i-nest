@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
+[[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -63,7 +64,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC_Topology]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

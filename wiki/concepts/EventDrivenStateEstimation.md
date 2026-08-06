@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenComputation]]
+[[EventDrivenInferencePipeline]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

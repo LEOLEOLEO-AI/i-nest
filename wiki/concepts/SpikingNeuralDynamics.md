@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP_Bond]]
 [[STDPDrivenTemporalBinding]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]

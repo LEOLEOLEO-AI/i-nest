@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdiabaticMultimodeBend]]
 [[ArbitraryWavefunctionConfigurability]]
+[[CST_Equation]]
 [[CellEmergence]]
 [[EdgeIoTEnergyAwareness]]
 [[Electronic_Warfare_Integration]]

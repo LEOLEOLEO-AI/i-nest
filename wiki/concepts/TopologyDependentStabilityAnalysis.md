@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[EdgeIoTEnergyAwareness]]
+[[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[SuperparamagneticSwitchingRate]]

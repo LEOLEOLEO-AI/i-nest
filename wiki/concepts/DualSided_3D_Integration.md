@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
+[[BisectionBandwidthBound]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]

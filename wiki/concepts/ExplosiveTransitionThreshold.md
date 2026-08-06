@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[DifferentiableRasterizationPipeline]]
 [[DistributedModelCompression]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CellEmergence]]
 [[DifferentiableRasterizationPipeline]]
+[[EpidemicThreshold]]
 [[HigherOrderSimplicialDynamics]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Intelligence_Emergence]]

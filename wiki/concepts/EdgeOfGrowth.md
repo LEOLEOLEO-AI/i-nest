@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[CriticalPhaseTransitionStatisticalTest]]
 [[CriticalityInNeuralNetworks]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]

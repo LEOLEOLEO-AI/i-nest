@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Order_Flexibility_Duality]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

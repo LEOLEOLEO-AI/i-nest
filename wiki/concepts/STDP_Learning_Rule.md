@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[SDI_STDP_Rule]]
+[[SNN_STDP_CoDesign]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

@@ -28,9 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Chiplet_Wafer_Topology]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[OnDie_Fusion]]
+[[Switchless_Computing]]
 [[TCC]]
 [[WaferScaleTopologyCentricComputing]]
 

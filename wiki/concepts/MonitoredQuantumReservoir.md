@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[CategoricalClosureCriterion]]
 [[CriticalRegimeReservoir]]
+[[Critical_Exponent_Scaling]]
 [[Criticality_of_Natural_Languages]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Memristive_Interconnect]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

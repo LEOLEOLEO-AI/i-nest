@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]
+[[EventDrivenTrajectoryEncoding]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

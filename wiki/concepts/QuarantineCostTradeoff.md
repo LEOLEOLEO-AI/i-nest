@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_SynergisticCoordination]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ConsciousnessEngineeringLoop]]
 [[CounterstreamSignalPropagation]]
 [[DifferentiableRasterizationPipeline]]
 [[InterFPGA_Spike_Routing]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[OnChipOpticalTweezers]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

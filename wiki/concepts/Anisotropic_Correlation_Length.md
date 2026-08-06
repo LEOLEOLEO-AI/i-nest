@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DirtyWeylSemimetal]]
 [[DistributedTrainingCommunicationPattern]]
 [[Dynamic_Expert_Fusion]]
+[[Electronic_Warfare_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

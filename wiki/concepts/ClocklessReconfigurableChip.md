@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[FoveationGuidedTokenSelection]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

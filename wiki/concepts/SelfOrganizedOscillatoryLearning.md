@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
 [[Baseline_Draft_Status]]
+[[BioPlausiblePredictiveCoding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

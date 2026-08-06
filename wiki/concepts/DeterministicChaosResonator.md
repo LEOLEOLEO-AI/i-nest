@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[ApplicationScenarioReconstruction]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CST_CoordinationMechanism]]
+[[Complex_System_Theory]]
+[[CrossInstitutionalNetwork]]
 [[Reservoir_Computing]]
 
 ## Sources

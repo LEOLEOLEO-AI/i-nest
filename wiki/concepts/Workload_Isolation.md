@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[Self_Organized_Criticality]]
 [[TCC]]
+[[TopologyDrivenCascade]]
 [[Workload_Layered_Architecture]]
 
 ## Sources

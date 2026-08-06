@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]

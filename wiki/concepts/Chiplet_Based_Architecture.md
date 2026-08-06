@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[AI_FullSpectrum_Strategy]]
 [[Advanced_Packaging]]
+[[Advanced_Packaging_Route]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]

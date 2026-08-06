@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateFire]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dendritic_In_Context_Learning]]
 [[Dynamic_Expert_Fusion]]
 [[EmulationTheoryObserver]]
+[[In_Context_Learning]]
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]

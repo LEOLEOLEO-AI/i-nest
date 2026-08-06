@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[RestingStateEEG_Connectivity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TCC_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

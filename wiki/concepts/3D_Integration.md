@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveEntanglementManagement]]
 [[AgenticServiceOrchestration]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]

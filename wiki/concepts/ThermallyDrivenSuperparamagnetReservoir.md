@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]

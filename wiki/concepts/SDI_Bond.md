@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
+[[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]

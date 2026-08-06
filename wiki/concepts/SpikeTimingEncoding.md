@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CollectiveDynamics]]
+[[CrossLayer_SignalRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

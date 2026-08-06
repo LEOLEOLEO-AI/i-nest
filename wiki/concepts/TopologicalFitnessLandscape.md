@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[CellEmergence]]
 [[EdgeIoTEnergyAwareness]]
+[[ErdosRenyi_Graph_Energy_Surface]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[SuperparamagneticSwitchingRate]]

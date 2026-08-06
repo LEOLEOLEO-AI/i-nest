@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

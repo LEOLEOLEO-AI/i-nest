@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
+[[ReproducibleReservoirComputing]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
 [[Residual_Connection]]

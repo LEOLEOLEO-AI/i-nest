@@ -25,9 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
+[[Attention_Residuals]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 

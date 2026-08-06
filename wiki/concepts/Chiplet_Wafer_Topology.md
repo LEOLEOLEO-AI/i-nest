@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[Textbook_Paradigm_Definition]]

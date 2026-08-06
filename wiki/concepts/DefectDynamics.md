@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Transfer]]
 [[Dendritic_In_Context_Learning]]
 [[Ferroelectric_Devices]]
+[[ITP_STDP]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]

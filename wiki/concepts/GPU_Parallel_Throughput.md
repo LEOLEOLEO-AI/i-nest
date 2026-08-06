@@ -27,7 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[AutonomousSpikingDynamics]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Branch_Prediction]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

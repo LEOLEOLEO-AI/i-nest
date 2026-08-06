@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[Edge_Neuromorphic_Compute]]
+[[EventDrivenAttention]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]

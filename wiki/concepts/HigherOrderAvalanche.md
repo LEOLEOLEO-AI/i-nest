@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Free_Energy_Principle_Network]]
+[[MacroCriticalityEmergence]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]

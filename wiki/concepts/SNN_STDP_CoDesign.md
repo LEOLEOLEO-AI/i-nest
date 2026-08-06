@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]

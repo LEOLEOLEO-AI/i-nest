@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BulletTrainScheduling]]
+[[CSI_Temporal_Encoding]]
 [[CirculateFiringNeuron]]
 [[CoDesigned_SNN]]
 [[Emergent_Intelligence_Threshold]]

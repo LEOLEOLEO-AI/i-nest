@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CorticalTypeDiversity]]
 [[Fractal_Scaling]]
+[[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Hierarchical_Attachment]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

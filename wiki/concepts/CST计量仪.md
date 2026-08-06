@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]

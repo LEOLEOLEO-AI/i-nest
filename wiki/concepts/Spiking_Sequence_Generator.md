@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
+[[NeuromorphicGestureEncoding]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensing]]

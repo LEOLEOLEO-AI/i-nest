@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[DifferentiableRasterizationPipeline]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]

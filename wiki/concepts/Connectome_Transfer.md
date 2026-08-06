@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Scale_Dependent_Coherence]]
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryDynamics]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

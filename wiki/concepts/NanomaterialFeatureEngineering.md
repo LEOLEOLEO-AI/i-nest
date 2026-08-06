@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Avalanche_Dynamics]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityConstrainedPruning]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]
 [[StochasticBinaryDynamics]]
+[[SubsystemInformationCapacity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

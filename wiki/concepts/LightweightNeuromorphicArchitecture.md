@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
+[[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]

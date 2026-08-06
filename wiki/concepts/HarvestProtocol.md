@@ -29,6 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[CST_SynergisticCoordination]]
 [[ChipletSignalIntegrity]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Complex_System_Theory]]
+[[DirectConnect_Topology]]
 [[TCC]]
 
 ## Sources

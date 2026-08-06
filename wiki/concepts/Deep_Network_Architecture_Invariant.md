@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[Textbook_Paradigm_Definition]]
 [[iNEST]]
 
 ## Sources

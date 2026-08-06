@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TwoTimescaleNeuroEvolution]]
+[[iMESO_PhysicalCarrier]]
 [[iNEST]]
 
 ## Sources

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActivityAvalanche]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CollectiveDynamics]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ElasticSpikingTransformer]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

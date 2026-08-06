@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[ElasticInferenceScheduling]]
 [[EmulationTheoryObserver]]
+[[EventCameraPoseInput]]
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

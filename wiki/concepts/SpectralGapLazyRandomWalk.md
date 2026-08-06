@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[AdsorptionBiosorptionHybrid]]
 [[BisectionBandwidthBound]]
+[[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
@@ -31,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[DualSided_Routing_Resource]]
 [[Free_Energy_Principle_Network]]
 [[FullDimensionalDefinableInterconnect]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
 

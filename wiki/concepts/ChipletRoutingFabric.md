@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[EdgeIoTEnergyAwareness]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[SDSoW]]
@@ -35,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

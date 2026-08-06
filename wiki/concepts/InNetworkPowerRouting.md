@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibleManifoldReconfiguration]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Pods4Rail_Topology]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

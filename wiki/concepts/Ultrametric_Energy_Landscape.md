@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
+[[DistributedTrainingCommunicationPattern]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

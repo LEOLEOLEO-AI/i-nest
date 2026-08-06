@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnisotropicGaussianPrimitives]]
 [[DiscreteContinuous_Unification]]

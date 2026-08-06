@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Avalanche_Dynamics]]
 [[CriticalityConstrainedPruning]]
+[[Criticality_Induced_Plasticity]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

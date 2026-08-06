@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Topology_Adaptation]]
 [[EventDrivenModularArchitecture]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[OnChipOpticalTweezers]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[SNN]]

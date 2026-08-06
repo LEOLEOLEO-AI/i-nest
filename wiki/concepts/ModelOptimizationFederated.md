@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Chiplet]]
 [[SDI_Chiplet_Interconnect]]
+[[SDSoW]]
 [[SpikePacketCompression]]
 [[Spiking_Neural_Network]]
 [[TCC]]

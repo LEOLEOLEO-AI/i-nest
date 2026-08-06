@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Layered_Attractive_Hubbard_Model]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

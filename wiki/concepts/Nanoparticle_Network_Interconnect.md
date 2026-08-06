@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AI_Forum_Demo_Narrative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Computation]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

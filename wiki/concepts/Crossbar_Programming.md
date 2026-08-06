@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BrainScaleTopologyExploitation]]
 [[Control_Field_Framework]]
+[[CrossLayer_Feedback]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

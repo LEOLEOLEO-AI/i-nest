@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[QuantumInspiredHarmonySearch]]
+[[Scarce_EEG_Learning]]
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryNetwork]]
 [[TCC]]

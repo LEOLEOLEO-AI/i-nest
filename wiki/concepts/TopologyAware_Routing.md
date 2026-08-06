@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
+[[HeterogeneousSiliconNitridePlatform]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[MoE_Routing]]

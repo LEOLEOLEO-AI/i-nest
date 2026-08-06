@@ -20,8 +20,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -32,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]

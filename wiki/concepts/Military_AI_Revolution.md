@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AutonomousSpikingDynamics]]
 [[Baseline_Draft_Status]]
+[[ClosedLoopNeuromorphicControl]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

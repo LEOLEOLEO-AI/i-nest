@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
@@ -42,7 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Topological_State_Encoding]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

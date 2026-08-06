@@ -22,13 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[AdiabaticMultimodeBend]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[ChipletRoutingFabric]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DataMovementMinimization]]
 [[DirectConnect_Topology]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

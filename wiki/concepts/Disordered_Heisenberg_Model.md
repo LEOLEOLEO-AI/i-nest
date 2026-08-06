@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Heterogeneous_Integration]]
+[[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]

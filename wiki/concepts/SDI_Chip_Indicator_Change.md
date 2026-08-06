@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]

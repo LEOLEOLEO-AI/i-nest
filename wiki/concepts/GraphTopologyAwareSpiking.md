@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Passivity_Preserving_Computation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
 [[TCC]]

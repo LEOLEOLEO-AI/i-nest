@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
 [[MassConservationInductiveBias]]
+[[Monitored_Quantum_Circuits]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

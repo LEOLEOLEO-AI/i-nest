@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TopologyProgramming]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

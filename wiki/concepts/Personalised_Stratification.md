@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Assisted_Energy_Management]]
 [[AdaptiveFrequencyResonateFire]]
+[[Automated_Reward_Shaping]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
+[[Catastrophic_Forgetting]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]

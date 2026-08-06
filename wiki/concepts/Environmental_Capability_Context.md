@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]
 [[NeuromorphicTransformerPipeline]]
@@ -39,8 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpikeTimingAbstraction]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

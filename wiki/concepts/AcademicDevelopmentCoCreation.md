@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CrystalPalace_Program]]
 [[Crystallized_Embedding_Reservoir]]
+[[DataDrivenMaterialDesign]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

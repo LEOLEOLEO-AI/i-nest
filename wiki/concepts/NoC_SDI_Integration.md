@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -29,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[SDI_ProgrammableInterconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Spiking_Neural_Network]]

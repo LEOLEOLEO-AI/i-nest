@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[AI_FullSpectrum_Strategy]]
+[[AdaptiveBitPrecisionExploration]]
 [[Allreduce_Latency_Probe]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]

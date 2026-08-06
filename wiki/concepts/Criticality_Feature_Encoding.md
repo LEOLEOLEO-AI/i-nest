@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Integration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CriticalityInducedTopology]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[UniversalComputationCriticality]]
+[[UniversalComputation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[Core_Spacetime_Tensor]]
+[[Criticality_Induced_Plasticity]]
 [[Dynamic_Expert_Fusion]]
 [[Fixed_Cost_Dominance]]
 [[Intelligence_Emergence]]

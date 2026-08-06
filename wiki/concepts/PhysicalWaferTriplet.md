@@ -19,13 +19,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[InverseDesignedPhotonicRouting]]
 [[Memory_Wall]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
@@ -34,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

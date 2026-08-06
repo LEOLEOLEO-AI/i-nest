@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DARPA_ERI]]
 [[DARPA_ERI_2_0_Framework]]
+[[DARPA_Manufacturing_Strategy]]
 [[ERI_2_0_Framework]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Hardware_Accelerated_SNN]]

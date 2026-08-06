@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[Textbook_Paradigm_Definition]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

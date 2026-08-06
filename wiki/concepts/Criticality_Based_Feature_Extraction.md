@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Topology_Aware_Spike_Routing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

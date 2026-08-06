@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CategoricalClosureCriterion]]
 [[Criticality_of_Natural_Languages]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BondMovingDecimation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[FeatureBasedGraph]]
 [[GateModelQuantumOptimization]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NoC_SDI]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

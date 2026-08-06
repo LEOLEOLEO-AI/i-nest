@@ -21,12 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActivityAvalanche]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[Algorithmic_Warfare]]
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[Boundary_Criticality]]
+[[BranchingRatio]]
 [[Neuromorphic_Computing]]
 [[ScalingExponents]]
 [[Self_Organized_Criticality]]

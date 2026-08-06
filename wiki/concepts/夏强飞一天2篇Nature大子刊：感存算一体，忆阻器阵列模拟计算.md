@@ -23,6 +23,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
+[[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -46,6 +47,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Synaptic_Plasticity]]

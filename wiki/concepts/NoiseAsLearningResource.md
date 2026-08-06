@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Attention_Residuals]]
 [[Bias_Origin_Taxonomy]]
+[[BoundaryObject_Abstraction]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]

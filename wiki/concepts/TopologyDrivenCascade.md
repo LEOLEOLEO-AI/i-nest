@@ -33,7 +33,9 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Self_Organized_Criticality]]
 [[TCC]]
+[[Topology_Aware_Spike_Routing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

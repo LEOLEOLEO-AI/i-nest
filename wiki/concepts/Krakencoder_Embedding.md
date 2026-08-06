@@ -30,9 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[iNEST]]
+[[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

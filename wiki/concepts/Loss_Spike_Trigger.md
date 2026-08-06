@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BackflowTransformation]]
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenAutoregression]]
 [[Neuromorphic_Computing]]

@@ -20,3 +20,16 @@ refs: 4
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Neuromorphic_Computing]]
+[[PPT]]
+[[Reservoir_Computing]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+[[_Nature大子刊_3D集成技术如何打破神经形态计算的_互连墙_]]
+[[_Nature大子刊_脑机接口重大突破_清华吴华强团队打造_忆阻器神经形态解码器_意念控制无人机]]
+[[getnote_2026-01-12_晶圆级神经网络能效革命]]
+[[iNEST]]
+[[神经形态脉冲大语言模型（NSLLM）]]

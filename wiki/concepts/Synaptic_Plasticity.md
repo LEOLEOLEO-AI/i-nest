@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

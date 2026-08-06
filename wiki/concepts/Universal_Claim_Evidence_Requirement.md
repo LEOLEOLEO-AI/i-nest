@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
+[[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

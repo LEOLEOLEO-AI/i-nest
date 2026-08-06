@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
+[[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[智能涌现]]
 [[神经网络]]
 
 ## Sources

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[AvalancheBranchingRatio]]
+[[Boundary_Criticality]]
 [[BranchingRatio]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]

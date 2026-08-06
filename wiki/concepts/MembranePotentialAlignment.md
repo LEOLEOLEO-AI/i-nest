@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Course_Based_FPGA_Prototyping]]
 [[ErrorAmplificationLimits]]
+[[EventDrivenSynchronization]]
 [[Heterogeneous_Integration]]
 [[IntracorticalNeuralDecoding]]
 [[Network_Topology_Design]]

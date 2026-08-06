@@ -25,11 +25,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,8 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AnalogDomainCompressiveSensing]]
 [[Avoided_Criticality]]
+[[Catastrophic_Forgetting_Mitigation]]
+[[FlexibilityThreshold]]
 [[HallmarkDrivenCancerModeling]]
 [[OptimalControlPolicyLearning]]
+[[Self_Organized_Criticality]]
 [[iNEST]]
 
 ## Sources

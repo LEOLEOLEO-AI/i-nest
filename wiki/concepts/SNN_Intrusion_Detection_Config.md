@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Course_Based_FPGA_Prototyping]]
 [[CriticalityConstrainedPruning]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

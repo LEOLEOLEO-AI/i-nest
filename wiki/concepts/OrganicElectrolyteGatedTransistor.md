@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[Allreduce_Latency_Probe]]
 [[AsymmetricCoupling]]
+[[Biodefense_Threat_Detection_Network]]
 [[CirculateFiringNeuron]]
 [[CompartmentalNeuronModel]]
 [[EdgeIoTEnergyAwareness]]

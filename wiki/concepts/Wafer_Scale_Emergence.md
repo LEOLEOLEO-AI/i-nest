@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]

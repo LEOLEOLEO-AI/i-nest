@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BioPlausibleNeuromorphicDisturbanceObserver]]
+[[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
 [[Critical_Exponent_Scaling]]
 [[Dynamic_Expert_Fusion]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Prior]]
+[[DendriticTaskPartitioning]]
 [[Free_Energy_Principle_Network]]
 [[Interconnect_Routing]]
 [[Master_SDDE]]

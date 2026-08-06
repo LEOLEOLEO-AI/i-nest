@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CrossSubstrateHomology]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Neuromorphic_Acceleration]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

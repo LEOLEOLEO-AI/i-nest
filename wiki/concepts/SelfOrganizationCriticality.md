@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Critical_Exponent_Scaling]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

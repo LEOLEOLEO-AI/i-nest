@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BrainScaleTopologyExploitation]]
 [[CrossLayer_Feedback]]
+[[Crossbar_Programming]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

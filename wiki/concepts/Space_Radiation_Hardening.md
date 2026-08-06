@@ -28,6 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Power_Efficiency]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveLocalLearning]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
+[[Inference_Stage_Decomposition]]
 [[TCC]]
 [[iNEST]]
 

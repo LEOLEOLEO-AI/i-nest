@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CommunicationAsComputation]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Synchronization]]
 [[Heterogeneous_Integration]]

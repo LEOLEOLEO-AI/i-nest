@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emerging_CMOS_Memristor]]
+[[FeFET_Polarization_Switching]]
 [[GeTeBasedCBRAM]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MacroCriticalityEmergence]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SNN]]

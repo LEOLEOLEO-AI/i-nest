@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[ParallelSNNArchitecture]]

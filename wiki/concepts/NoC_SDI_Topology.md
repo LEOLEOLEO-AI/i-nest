@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[P_Paradigm]]
 [[SDI_Bond]]

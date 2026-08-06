@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenAttentionMechanism]]
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]

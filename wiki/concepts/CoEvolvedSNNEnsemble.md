@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[CSI_Temporal_Encoding]]
 [[CoDesigned_SNN]]
 [[CollectiveSpikingDynamics]]
 [[Dynamic_Expert_Fusion]]

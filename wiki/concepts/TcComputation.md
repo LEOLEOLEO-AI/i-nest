@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topological_Criticality]]
+[[TopologyProgramming]]
 [[Topology_Interconnect]]
 
 ## Sources

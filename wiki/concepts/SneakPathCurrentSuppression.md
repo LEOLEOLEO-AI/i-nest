@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
+[[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

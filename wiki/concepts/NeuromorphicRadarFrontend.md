@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Contested_Priors_Mechanism]]
+[[CriticalityDrivenStateTransition]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[Intelligence_Emergence]]

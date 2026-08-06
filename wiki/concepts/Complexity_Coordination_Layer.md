@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[CST_SynergisticCoordination]]
 [[ChipletWaferInterconnectTopology]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalComplexity]]
 

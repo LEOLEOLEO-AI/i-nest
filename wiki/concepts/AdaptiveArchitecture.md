@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]
+[[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
 [[TCC]]

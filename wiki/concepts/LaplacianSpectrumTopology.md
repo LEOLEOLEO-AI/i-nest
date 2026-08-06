@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[Allreduce_Latency_Probe]]
+[[AnalogDomainCompression]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]

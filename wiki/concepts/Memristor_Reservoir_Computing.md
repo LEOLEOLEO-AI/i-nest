@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Attention_Residuals]]
 [[Branch_Prediction]]
 [[CMOS_Memristor_Devices]]
 [[Emerging_CMOS_Memristor]]

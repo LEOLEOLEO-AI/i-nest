@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Reservoir_Substrate]]
 [[Quantum_Reservoir_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
+[[AstrocyteInspiredRepair]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CriticalityConstrainedPruning]]
 [[Emergent_Intelligence_Threshold]]

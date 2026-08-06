@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Medical_Large_Language_Models]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

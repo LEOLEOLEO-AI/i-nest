@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuroactiveCompoundTherapeutics]]
 [[Neuromorphic_Computing]]
+[[OnlinePlasticity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
 

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Izhikevich_NeuronModel]]
 [[MassConservationBias]]
 [[Memristive_Topology]]
+[[Monitored_Quantum_Circuits]]
 [[Network_Topology_Design]]
 [[NeuralCellularAutomata]]
 [[NeuralNetworkSpectralAnalysis]]

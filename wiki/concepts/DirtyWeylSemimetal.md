@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenRiskAssessment]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

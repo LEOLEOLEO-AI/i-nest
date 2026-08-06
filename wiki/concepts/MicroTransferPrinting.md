@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Packaging]]
+[[Chiplet_Stacking]]
+[[Chiplet_based_heterogeneous_integration]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 

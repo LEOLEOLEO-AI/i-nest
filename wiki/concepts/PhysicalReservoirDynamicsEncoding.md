@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Architecture_Search]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_Computation]]
 [[Baseline_Draft_Status]]
 [[DataDrivenMaterialDesign]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[SNN]]
+[[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Branch_Prediction]]
 [[CrossInstitutionalNetwork]]
+[[CrossLayer_SignalRouting]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

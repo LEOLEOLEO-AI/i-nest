@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
+[[ShortTermMemory]]
 [[TCC]]
 [[iNEST]]
 [[智能涌现]]

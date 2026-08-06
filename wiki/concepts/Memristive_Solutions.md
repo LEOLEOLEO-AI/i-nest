@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Memristor_Interconnect]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[新型计算]]
 
 ## Sources

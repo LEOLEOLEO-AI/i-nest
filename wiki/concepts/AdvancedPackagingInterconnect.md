@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
+[[NoC_SDI_Topology]]
 [[NonEquilibriumComputing]]
 [[Photonic_Chiplet_Interconnect]]
 [[SuperparamagneticSwitchingRate]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[AlternativeBridgingModels]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[TimeSeriesPrediction]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

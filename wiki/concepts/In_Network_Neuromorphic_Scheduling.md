@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
 [[In_Network_Neuromorphic]]
+[[In_Package_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]

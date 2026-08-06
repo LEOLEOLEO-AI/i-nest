@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Adaptive_Deep_Brain_Stimulation]]
+[[AnisotropicSymmetryBreaking]]
 [[CirculateFiringNeuron]]
 [[CognitiveFeedbackLoop]]
 [[Dynamic_Expert_Fusion]]

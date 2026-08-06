@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_FullSpectrum_Strategy]]
+[[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]

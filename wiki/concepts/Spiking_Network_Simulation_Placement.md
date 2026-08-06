@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttention]]
 [[EventDrivenTrajectoryEncoding]]
 [[InNetworkAgentRewiring]]
+[[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

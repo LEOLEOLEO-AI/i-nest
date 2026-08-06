@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BeyondVonNeumannArchitecture]]
+[[CST计量仪]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[ArmLocomotorCoordination]]
 [[BiasEvaluationMetrics]]
+[[BioInspiredSpikeEncoding]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]

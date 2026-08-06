@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

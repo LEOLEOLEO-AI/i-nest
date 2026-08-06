@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[BoundaryObject_Abstraction]]
 [[Deep_Network_Architecture_Invariant]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

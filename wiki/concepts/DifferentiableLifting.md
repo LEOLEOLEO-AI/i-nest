@@ -26,9 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
 [[BioInspiredLearningRule]]
+[[ChannelEventSparsity]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[Contested_Priors_Mechanism]]
+[[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 
 ## Sources

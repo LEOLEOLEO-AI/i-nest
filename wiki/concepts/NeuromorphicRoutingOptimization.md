@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableEnergyAI]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

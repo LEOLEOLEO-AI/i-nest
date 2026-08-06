@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Pods4Rail_Topology]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

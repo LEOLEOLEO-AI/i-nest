@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[MultiModel_Adapter_Architecture]]

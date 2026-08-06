@@ -29,8 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Photonic_Chiplet_Interconnect]]
+[[RTC_Primitives]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[Topology_Reconfiguration]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

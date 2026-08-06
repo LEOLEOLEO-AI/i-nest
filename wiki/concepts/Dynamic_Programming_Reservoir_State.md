@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
+[[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

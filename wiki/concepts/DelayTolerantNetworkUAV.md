@@ -22,9 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Forum_Demo_Narrative]]
 [[BurstGatedRouting]]
+[[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[RedundancyControlledStochasticRouting]]
 [[TCC]]

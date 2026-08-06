@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Anisotropic_Correlation_Length]]
 [[DelayPropagationDynamics]]
+[[GrandCanonicalOptimization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

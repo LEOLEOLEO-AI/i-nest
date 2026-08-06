@@ -21,14 +21,20 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdiabaticMultimodeBend]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Interconnect]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Chiplet_iNEST_Wafer]]
+[[NoC_SDI]]
 [[NoC_SDI_Topology]]
+[[SDI_Bond]]
+[[SDI_Topology]]
 [[TCC]]
 
 ## Sources

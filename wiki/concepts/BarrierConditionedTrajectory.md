@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DelayPropagationDynamics]]
 [[EdgeIoTEnergyAwareness]]
+[[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

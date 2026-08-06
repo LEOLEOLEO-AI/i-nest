@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MultiScaleTemporalProcessing]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Spiking]]
 [[RecursiveSelfReferentialArchitecture]]

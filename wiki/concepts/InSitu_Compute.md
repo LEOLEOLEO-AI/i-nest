@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[InSensorMemoryComputing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Avoided_Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ImageToEventConversion]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[KinematicWavePropagation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

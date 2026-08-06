@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AutonomousSpikingDynamics]]
 [[Avoided_Criticality]]
 [[CascadedAdaptiveCombiners]]
 [[Driven_Criticality]]
