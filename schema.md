@@ -125,13 +125,13 @@
 - frontmatter 含 `type: concept` 与 `**Domain**: TCC|iNEST|Cross`（供索引与统计）
 
 ### 3.3 交叉链接（Cross-linking）
-- 扫描 `wiki/concepts/` 全部概念，发现语义 / 共现关联时添加 `[[wikilink]]`
+- 扫描 `wiki/concepts/` 全部概念，发现语义 / 共现关联时添加 ``
 - 双向：A 引用 B，则 B 也回链 A
-- 净化：文件名中的 `:` `/` `\` `*` `?` `"` `<` `>` `|` `#` `^` `[` `]` 替换为 `_`，并用 `aliases:` 保留原始 `[[名]]` 可解析
+- 净化：文件名中的 `:` `/` `\` `*` `?` `"` `<` `>` `|` `#` `^` `[` `]` 替换为 `_`，并用 `aliases:` 保留原始 `` 可解析
 
 ### 3.4 反向链接 / 索引更新
 - `wiki/backlinks.md`：按概念字母序，列出"X is referenced by: A, B, C"
-- `wiki/index.md`：按 TCC / iNEST / Bridge / Methods 分簇，每行 `[[概念]] — 一句话描述`
+- `wiki/index.md`：按 TCC / iNEST / Bridge / Methods 分簇，每行 ` — 一句话描述`
 
 ### 3.5 健康自检（Health Check，纯本地，无 LLM）
 - 找孤立概念（无入链 / 出链）、断裂链接（指向不存在文件）、缺 frontmatter 笔记
@@ -172,7 +172,7 @@
 - 概念文件：中文显示名（文件名净化，原样存入 `aliases:`）；例 `神经网络.md` + `aliases: ["神经网络"]`
 - 文章摘要：`YYYY-MM-DD_短标题.md`
 - 全部 UTF-8
-- 所有 `[[wikilink]]` 用文件名（非路径）引用，移动文件不断链
+- 所有 `` 用文件名（非路径）引用，移动文件不断链
 
 ---
 

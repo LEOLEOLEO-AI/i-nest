@@ -51,7 +51,14 @@
 - **断链分类诊断**：other 2241 + GetNote_long 561 + date 42 = 总计 2845
 - **待办**：wiki_grow.py O(n²) 性能优化（倒排索引）；health_repair.py 引用旧目录结构需更新
 
-### 2026-08-04（傍晚性能优化 + 脚本维护）
+### 2026-08-05（日进化全绿 + FM 批量修复）
+- self_evolve.py 全部通过（12m17s）：compile 45 概念 / wiki_grow 3095 概念 99.9% / health 8463 笔记 / phase4 4/4 / homepage / git 3054 文件
+- **缺 FM 3701 (44%) 根因诊断**：wiki_compiler.py `write_concept()` 从未写入 frontmatter
+- **两步修复**：
+  1. wiki_compiler.py 第 332 行：新建概念时 prepend YAML frontmatter（title/type/domain/created/auto）
+  2. add_frontmatter_batch.py：一次性补 2779 concepts + 754 articles
+- **结果**：缺 FM 3701 → 163（1.7%），3535 文件已推 github main
+- 待办：add_frontmatter_batch.py 为一次性脚本，日后可归档删除
 - **wiki_grow.py 5x 提速**：
   - 预编译 5988 个正则 + `in` 快速预筛选，避免 900 万次循环内 `re.compile`
   - shared-term O(n²) → 倒排索引；incoming Step4 二次扫描 → Step2-3 同步构建
@@ -61,3 +68,39 @@
 - **验证运行**：self_evolve.py 全流水线通过（compile 17 篇/40 概念增量，health 8376 笔记，phase4 4/4，homepage 刷新）
 - git 提交 3 次，push github main 成功
 - **状态**：积压清零，wiki_grow 6 分钟完成，下轮自动化应恢复正常 2-8 分钟模式
+
+### 2026-08-05（全绿，12 分钟）
+- 全部步骤成功：compile / grow / health / grow_concepts / phase4(4子项) / homepage / git
+- 总耗时 12m17s（含 wiki_grow ~7min）。
+- compile 增量：12 篇文章 → 45 个概念（LLM 抽取 4 个额外概念）
+- wiki_grow：概念 3095，已链接 3091（99.9%），孤儿 1780
+- 健康自检：笔记 8463 · 真正断链 2195 · 孤儿 2425 · 缺 FM 3701
+- 概念补全：10 个占位笔记
+- cross_domain_insight：3 篇跨域文章（TCC↔iNEST）
+- homepage：5342 chars 刷新成功
+- git：提交 3054 文件，push github main 成功
+- 观察：import_processor 提示 "New imports detected"（28 个 Inbox 待处理文件），下轮 compile 自动带走。缺 FM 3701 基数较大（~44%），多为 wiki/ 概念自动占位笔记缺少 frontmatter。
+
+### 2026-08-06（全绿，16 分钟）
+- 全部步骤成功：compile / grow / health / grow_concepts / phase4(4子项) / homepage / git
+- 总耗时 16m08s（含 wiki_grow ~9min，regex 预编译 3205 短语+3227 slug）。
+- compile 增量：35 篇文章 → 127 个概念（LLM 抽取 4 个额外概念）
+- wiki_grow：概念 3227，已链接 3223（99.9%），孤儿 1743
+- 健康自检：笔记 8632 · 真正断链 2145 · 孤儿 2432 · 缺 FM 209（较上周 3701 大幅下降，已<3%）
+- 概念补全：10 个占位笔记（长标题 GetNote/Nature/清华 等文献）
+- phase4：import_processor raw/ 新文件 0 / Inbox 待处理 27；task_recommender 3 条 LOW；research_evolution 0 更新；cross_domain_insight 1 篇（TCC↔iNEST）
+- homepage：5341 chars + data.js 刷新成功
+- git：提交 3230 文件，push github main 成功
+- 观察：import_processor 提示 "New imports detected"（27 个 Inbox 待处理），下轮 compile 自动带走。缺 FM 已降至 209。
+
+### 2026-08-07（全绿，13 分钟）
+- 全部步骤成功：compile / grow / health / grow_concepts / phase4(4子项) / homepage / git
+- 总耗时 13m00s（含 wiki_grow ~8min，regex 预编译 3250 短语+3272 slug）。
+- compile 增量：10 篇文章 → 35 个概念（LLM 抽取 4 个额外概念）
+- wiki_grow：概念 3272，已链接 3268（99.9%），孤儿 1642
+- 健康自检：笔记 8692 · 真正断链 2105 · 孤儿 2432 · 缺 FM 219（较上周 209 略升，仍<3%）
+- 概念补全：10 个占位笔记（含若干 getnote/长标题文献）
+- phase4：import_processor raw/ 新文件 0 / Inbox 待处理 34；task_recommender 3 条 LOW；research_evolution 0 更新；cross_domain_insight 1 篇（TCC↔iNEST）
+- homepage：5342 chars + data.js 刷新成功
+- git：提交 3202 文件，push github main 成功（knowledge_graph 被 .gitignore 忽略属正常，已优雅跳过）
+- 观察：import_processor 提示 "New imports detected"（34 个 Inbox 待处理），下轮 compile 自动带走。

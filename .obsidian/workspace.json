@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72d036d7d3c8cf4b",
+        "id": "ca16d1bb644c01b6",
         "type": "tabs",
         "children": [
           {
-            "id": "8c767f9746713b92",
+            "id": "d96d5aa2d3c71ee9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,152 +16,28 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "2026-08-02-2607.27140v1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27140v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.27140v1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "2026-08-01-index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-01-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-01-index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2026-08-02-2607.27140v1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27140v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.27140v1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":43,\"ch\":77}},\"scroll\":19.411458333333332}"
-                },
-                {
-                  "title": "2026-08-02-2607.27402v1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27402v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.27402v1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":0},\"to\":{\"line\":50,\"ch\":0}},\"scroll\":25.74963072378139}"
-                },
-                {
-                  "title": "2026-08-02-index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "2026-08-02-2607.26483v1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.26483v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.26483v1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":1},\"to\":{\"line\":24,\"ch\":1}},\"scroll\":12.16326530612245}"
-                },
-                {
-                  "title": "2026-08-02-2607.28172v1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.28172v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.28172v1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":575},\"to\":{\"line\":28,\"ch\":575}},\"scroll\":22.8125}"
-                },
-                {
-                  "title": "2026-08-02-2607.28173v1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.28173v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-2607.28173v1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "2026-08-02-index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-02-index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2026-06-23-2511.14872",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-06-23-2511.14872.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-06-23-2511.14872\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "2026-06-25-2512.18471",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-06-25-2512.18471.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-06-25-2512.18471\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":32.380642361111114}"
-                },
-                {
-                  "title": "2026-05-26-2605.25072",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-26-2605.25072.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-26-2605.25072\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2026-05-27-2604.28059",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-27-2604.28059.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-27-2604.28059\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":3},\"to\":{\"line\":14,\"ch\":3}}}"
-                },
-                {
-                  "title": "2026-05-26-index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-26-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-26-index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2026-05-25-index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-25-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-25-index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2026-05-22-index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-22-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-22-index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2026-05-18-2412.12106",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-18-2412.12106.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-18-2412.12106\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2026-05-15-index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-15-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-15-index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2026-05-17-index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-17-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-17-index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2026-05-16-index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-16-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-16-index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2026-05-15-index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-15-index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-15-index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.157739970594413}"
-                },
-                {
-                  "title": "2026-05-15-2605.14349",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-15-2605.14349.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-15-2605.14349\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "2026-05-15-2605.13869",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-15-2605.13869.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-05-15-2605.13869\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":27.304893092105264}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Home"
             }
           }
         ]
@@ -193,7 +69,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -267,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 518
   },
   "right": {
     "id": "b131a582ddb31d11",
@@ -480,7 +358,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.5,
+    "width": 534.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -497,58 +375,57 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "realclaudian:Open Claudian": false,
       "obsidian-kanban:Create new board": false,
       "wechat-messenger:tongbuzhushou": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Toggle Footer Connections": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "notebook-navigator:笔记本导航器": false,
-      "homepage:Open homepage": false,
-      "claudian-plus:Open Claudian Plus": false,
       "wechat-inbox-sync:同步微信收集箱": false,
       "wechat-inbox-sync:暂停当前转写": false,
-      "remotely-secure:Remotely Sync": false
+      "claudian-plus:Open Claudian Plus": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "8c767f9746713b92",
+  "active": "d96d5aa2d3c71ee9",
   "lastOpenFiles": [
-    "20_Processing/external_imports/GetNote_20260606_100554_kb_DARPA-research_getnote_1896186104722943152_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式.md",
-    "20_Processing/external_imports/getnote_20250219_2025年2月19号日记.md",
-    "20_Processing/external_imports/20260311_本地AI.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.27140v1.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-01-index.md",
-    "wiki/concepts/TopologyInformedSynchronization.md",
-    "wiki/concepts/TopologyAwareSpikeRouting.md",
-    "wiki/concepts/Topology_Induced_Robustness.md",
-    "wiki/concepts/SynapticConnectivityAwarePlacement.md",
-    "wiki/concepts/Synaptic_Motif_Classification.md",
-    "wiki/concepts/Nonlinear_Dynamics_From_Topology.md",
-    "wiki/concepts/PhononicCrystalMicrowaveCoupling.md",
-    "wiki/articles/2026_08_04_arXiv_Release_free_phononic_crystal_with_strong_microwave_coupling.md",
-    "wiki/concepts/AdaptivePhotonicRouter.md",
-    "wiki/concepts/ProcessAwareWaveguideGeneration.md",
-    "wiki/concepts/VectorFlowField.md",
-    "wiki/concepts/MemoryDrivenRouting.md",
-    "wiki/articles/2026_08_04_arXiv_PROPEL_A_Memory_Driven__Adaptive_Vector_Flow_Field_Router_wi.md",
-    "wiki/concepts/NeuromorphicPointCloudAdapter.md",
-    "wiki/concepts/TemporalFeaturePropagation.md",
-    "wiki/concepts/SpikingPointCloudPEFT.md",
-    "wiki/articles/2026_08_04_arXiv_Parameter_Efficient_Fine_Tuning_for_Spiking_Point_Cloud_Mode.md",
-    "wiki/concepts/QuantumReservoirMemoryCapacity.md",
-    "wiki/concepts/TemporalFeatureDecorrelation.md",
-    "wiki/concepts/FisherInformationMetric.md",
-    "wiki/concepts/QuantumReservoirStateOrthogonalization.md",
-    "logs/pipeline_20260804_0827.json",
-    "90_System/scripts/_check_pending.py",
-    "logs/pipeline_20260803_1416.json",
-    "90_System/scripts/check_arxiv_digest.ps1",
-    "90_System/scripts/arxiv_daily_and_sync.sh",
-    "20_Processing/20_KnowledgeBase/arxiv-auto",
-    "_external",
-    "90_System/scripts/fix_getnote_links.py",
-    "10_Knowledge/00_导航",
-    "20_Processing/_digests",
+    "00_Inbox/_pipeline_insights/Index.md",
+    "50_Output.md",
+    "wiki/concepts/_麻省大学夏强飞_Nat_Electron_基于忆阻器的细胞神经网络_实现高速像素内计算的新突破.md",
+    "wiki/concepts/3DIC_EDA之一_基于Chiplet集成的计算架构.md",
+    "wiki/concepts/综述_革新神经形态计算：基于忆阻器的人工神经元.md",
+    "wiki/concepts/AGI面临的挑战_脑机制自底向顶梳理_下部_5万字.md",
+    "wiki/concepts/Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图.md",
+    "wiki/concepts/_Nature大子刊_中科院院士发文_算力暴涨100万倍_忆阻器_变废为宝_利用噪声搞定量子化学.md",
+    "wiki/concepts/科研与学术品牌_CREST_iNEST_.md",
+    "wiki/concepts/郭平_人工智能的第一性原理是什么？.md",
+    "wiki/concepts/HotChip2024后记_谈谈加速器互联及ScaleUP为什么不能用RDMA.md",
+    "wiki/concepts/Nat_Methods_中科院生物物理所发布TransBrain_实现人-鼠跨物种全脑互译.md",
+    "wiki/concepts/WeightedPathInfluence.md",
+    "wiki/concepts/CentralityBasedDefense.md",
+    "wiki/concepts/PositiveNetworkSecurity.md",
+    "wiki/concepts/KatzCentralitySecurityAllocation.md",
+    "wiki/articles/2026_08_10_arXiv_Katz_Centrality_Based_Security_Allocation_in_Positive_Networ.md",
+    "wiki/concepts/QuadraticSpeedup.md",
+    "wiki/concepts/TravelTimeDistributionEncoding.md",
+    "wiki/concepts/StochasticVehicleRouting.md",
+    "wiki/concepts/QuantumAmplitudeEstimation.md",
+    "wiki/articles/2026_08_08_arXiv_Quantum_Amplitude_Estimation_for_Travel_Time_Estimation_in_S.md",
+    "wiki/concepts/ProprioceptiveFeatureExtraction.md",
+    "wiki/concepts/NonvisualGroundClassification.md",
+    "wiki/concepts/AmoebaInspiredLocomotion.md",
+    "wiki/concepts/ArtificialProprioception.md",
+    "logs/pipeline_20260808_0814.json",
+    "logs/pipeline_20260807_0828.json",
+    "logs/self_evolve_run_20260807.log",
+    "logs/self_evolve_run_2026-08-06.log",
+    "logs/pipeline_20260806_1616.json",
+    "90_System/scripts/__pycache__/getnotes_importer.cpython-310.pyc",
+    "90_System/scripts/__pycache__/pull_getnotes.cpython-310.pyc",
+    "90_System/scripts/add_frontmatter_batch.py",
+    "logs/pipeline_20260805_0830.json",
+    "未命名.canvas",
+    "00_Inbox/04 Creating",
     "50_Output/56_Prototypes/iNEST_investor_demo/logo.png",
     "50_Output/SDSoW_iNEST_PPT/resources/images/chip_6_Γ_stu.png",
     "50_Output/SDSoW_iNEST_PPT/resources/images/chip_5_E_diss.png",

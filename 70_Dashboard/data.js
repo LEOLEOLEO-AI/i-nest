@@ -1,13 +1,13 @@
 window.VAULT_DATA = {
-  "updated": "2026-08-10 17:03",
+  "updated": "2026-08-10 17:17",
   "snapshot": {
-    "total_md": 10067,
+    "total_md": 10068,
     "tcc": 1871,
     "inest": 1427,
     "inbox": 215,
     "processing": 567,
     "output": 462,
-    "git_uncommitted": 3382
+    "git_uncommitted": 22
   },
   "wiki": {
     "tcc": 823,
@@ -62,12 +62,6 @@ window.VAULT_DATA = {
   "trend": [
     {
       "date": "2026-08-01",
-      "broken": 1324,
-      "orphan": 2047,
-      "missing_fm": 22
-    },
-    {
-      "date": "2026-08-01",
       "broken": 1359,
       "orphan": 2045,
       "missing_fm": 23
@@ -119,6 +113,12 @@ window.VAULT_DATA = {
       "broken": 2105,
       "orphan": 2432,
       "missing_fm": 219
+    },
+    {
+      "date": "2026-08-10",
+      "broken": 2031,
+      "orphan": 2444,
+      "missing_fm": 252
     }
   ],
   "tasks": [

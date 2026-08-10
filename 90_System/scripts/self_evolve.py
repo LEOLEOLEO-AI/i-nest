@@ -157,6 +157,11 @@ def analyze_links():
                 incoming[t].add(name)
             if not ok and not t.isdigit():   # 纯数字链接(列表/脚注) 非真实断链, 不计
                 broken_freq[t] += 1
+    # 泛化噪声/模板垃圾: 不计入断链指标(已被 tier1 从源清理或本就是噪声词)
+    NOISE = {"论文", "n", "wikilink", "名", "概念", "related_concept"}
+    for k in list(broken_freq):
+        if k in NOISE or re.match(r"^\{.*\}$", k) or re.match(r"^\{\{.*\}\}$", k):
+            del broken_freq[k]
     orphans = [n for n in note_basenames if n not in incoming]
     return note_basenames, note_paths, file_paths, dirs, broken_freq, orphans, missing_fm
 

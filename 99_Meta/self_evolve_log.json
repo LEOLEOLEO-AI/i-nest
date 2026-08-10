@@ -2865,5 +2865,163 @@
       "已提交 3202 个文件。",
       "已推送 github main。"
     ]
+  },
+  {
+    "date": "2026-08-10",
+    "time": "2026-08-10T16:50:46.743971",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-10",
+        "total_notes": 8824,
+        "missing_frontmatter": 252,
+        "broken_links": 2031,
+        "broken_samples": [
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_",
+            33
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查",
+            19
+          ],
+          [
+            "GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述",
+            18
+          ],
+          [
+            "The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025",
+            16
+          ],
+          [
+            "GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_",
+            14
+          ],
+          [
+            "GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景",
+            14
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破",
+            13
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订",
+            12
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1887266194235479456_晶上大脑基础研究课题",
+            12
+          ],
+          [
+            "C.elegans",
+            11
+          ],
+          [
+            "GetNote_20260606_100554_kb_DARPA-research_getnote_1896186120829089320_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径",
+            11
+          ],
+          [
+            "getnote_2026-06-28_拓扑中心计算范式架构研究与液态拓扑生成式计算原型验证项目指南 8.0",
+            11
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景",
+            11
+          ],
+          [
+            "2025年10月28号 日记",
+            11
+          ],
+          [
+            "GetNote_20260606_100554_kb_DARPA-research_getnote_1896186147673664688_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态",
+            10
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1898552298842526592_神经网络时空协同智能涌现",
+            10
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1899812152336800288_吴华强团队与iNEST技术互补",
+            10
+          ],
+          [
+            "2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly",
+            10
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1898553563710340192_晶圆级神经网络能效革命",
+            9
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1906074590464742600_海河实验室",
+            9
+          ],
+          [
+            "30_TCC\\34_Projects\\_from_ideas\\卫星智能体重大专项建议_v4.md",
+            9
+          ],
+          [
+            "00_Inbox/_pipeline_insights/八大神经网络，从原理到应用",
+            9
+          ],
+          [
+            "复杂网络理论奠基之作深度解析_Complex_networks_Structure_and_dynamics_",
+            8
+          ],
+          [
+            "GetNote_20260606_100554_getnote_1911847292798033216_软件定义晶上系统赋能超线性增益与智能涌现范式报告提纲设计",
+            8
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1898555559796441760_数字孪生大脑工程化路径",
+            7
+          ]
+        ],
+        "orphan_notes": 2444
+      },
+      "grow_concepts": [
+        "Nat_Methods_中科院生物物理所发布TransBrain_实现人-鼠跨物种全脑互译",
+        "HotChip2024后记_谈谈加速器互联及ScaleUP为什么不能用RDMA",
+        "郭平_人工智能的第一性原理是什么？",
+        "科研与学术品牌_CREST_iNEST_",
+        "_Nature大子刊_中科院院士发文_算力暴涨100万倍_忆阻器_变废为宝_利用噪声搞定量子化学",
+        "Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图",
+        "AGI面临的挑战_脑机制自底向顶梳理_下部_5万字",
+        "综述_革新神经形态计算：基于忆阻器的人工神经元",
+        "3DIC_EDA之一_基于Chiplet集成的计算架构",
+        "_麻省大学夏强飞_Nat_Electron_基于忆阻器的细胞神经网络_实现高速像素内计算的新突破"
+      ],
+      "phase4": {
+        "import_processor": true,
+        "task_recommender": true,
+        "research_evolution": true,
+        "cross_domain_insight": true
+      },
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | ity_Allocation_in_Positive_Networ.md\n[16:52:47]   LLM extracted 4 additional concepts (keyword: 0)\n[16:52:47] Phase 2-3: 33 articles, 90 concepts\n[16:53:39] Phase 4: Index and backlinks updated\n[16:54:02] Phase 5: Health report generated\n[16:54:02] === Compile complete: 33 articles, 90 concepts ===\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | l_Complexity_Architecture'}\n  precompiling regexes...\n  regexes ready: 3340 phrases + 3362 slugs\n  linking concepts...\n  shared-term linking...\n  linking articles...\n  concepts now: 3362 | linked: 3358 | orphans: 1588\n  index/backlinks/health refreshed.\n[17:02:35] wiki_grow done — orphans 1588/3362\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 8824 | 真正断链 2031 | 孤儿 2444 | 缺FM 252 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "已补全 10 个缺失概念: ['Nat_Methods_中科院生物物理所发布TransBrain_实现人-鼠跨物种全脑互译', 'HotChip2024后记_谈谈加速器互联及ScaleUP为什么不能用RDMA', '郭平_人工智能的第一性原理是什么？', '科研与学术品牌_CREST_iNEST_', '_Nature大子刊_中科院院士发文_算力暴涨100万倍_忆阻器_变废为宝_利用噪声搞定量子化学', 'Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图', 'AGI面临的挑战_脑机制自底向顶梳理_下部_5万字', '综述_革新神经形态计算：基于忆阻器的人工神经元', '3DIC_EDA之一_基于Chiplet集成的计算架构', '_麻省大学夏强飞_Nat_Electron_基于忆阻器的细胞神经网络_实现高速像素内计算的新突破']",
+      "运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...",
+      "import_processor 退出码=0 | enspark=0, 得到大脑=0, Codex=0\n[17:03:25] Total new files in raw/: 0\n[17:03:25] Inbox pending: 30 files\n[17:03:25] New imports detected — wiki_compiler.py should be triggered next\n[17:03:25] === Done ===\n",
+      "task_recommender 退出码=0 | sights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n[17:03:42] === Done ===\n",
+      "research_evolution 退出码=0 | [17:03:42] === Research Evolution Engine ===\n[17:03:43] Hypothesis updates: 0\n[17:03:43] Research directions: 0\n[17:03:43] Report: wiki/evolution_report.md\n[17:03:43] === Done ===\n",
+      "cross_domain_insight 退出码=0 |   iNEST: FeFET_Polarization_Switching, FerroelectricSynapticArray, GeTeBasedCBRAM\n\nCross-domain articles: 1\n  大模型推理四个阶段的最佳拓扑证明 (TCC:3 iNEST:2)\n\nReport: D:\\Obsidian\\vault\\wiki\\cross_domain_insights.md\n",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [17:03:44] === Homepage Generator ===\n[17:03:44] 70_Dashboard/data.js generated\n[17:03:45] Home.md generated (5344 chars)\n[17:03:45] === Done ===\n",
+      "git add 部分目录无匹配(正常): warning: in the working copy of '30_TCC/31_Theory/2026-07-14-2603.03362.md', LF will be replaced by ",
+      "已提交 3382 个文件。",
+      "已推送 github main。"
+    ]
   }
 ]

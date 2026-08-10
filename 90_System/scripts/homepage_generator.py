@@ -232,7 +232,7 @@ cssclass: dashboard
 | 📄 知识库总文件 | **{total_md:,}** | [[Home\\|根目录/Home]] |
 | 🔬 TCC 资料 | **{tcc_files:,}** | [[30_TCC/TCC_Master_Index\\|TCC 主索引]] |
 | 🧠 iNEST 资料 | **{inest_files:,}** | [[40_iNEST/iNEST_Master_Index\\|iNEST 主索引]] |
-| 📥 待处理论文 | **{inbox}** | [[00_Inbox/_pipeline_insights\\|论文收件箱]] |
+| 📥 待处理论文 | **{inbox}** | [[00_Inbox/_pipeline_insights/Index\\|论文收件箱]] |
 | ⚙️ 处理中 | **{processing}** | [[20_Processing\\|处理区]] |
 | 📤 成果区 | **{output_files}** | [[50_Output\\|50_Output 成果区]] |
 
@@ -370,7 +370,7 @@ Processing → TCC/iNEST → Output
 
 {trend_md}
 
-> 完整日志 → [[99_Meta/self_evolve_log|自进化日志]] · 健康报告 → [[wiki/health|知识健康报告]]
+> 完整日志 → [[99_Meta/self_evolve_log.json|自进化日志]] · 健康报告 → [[wiki/health|知识健康报告]]
 
 ---
 
