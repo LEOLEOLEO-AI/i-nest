@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
+[[BioPlausibleNeuromorphicDisturbanceObserver]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

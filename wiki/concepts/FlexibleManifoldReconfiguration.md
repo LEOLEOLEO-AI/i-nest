@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CirculateFiringNeuron]]
+[[CriticalityDrivenStateTransition]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Pods4Rail_Topology]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

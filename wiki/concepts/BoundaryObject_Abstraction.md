@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Deep_Network_Architecture_Invariant]]
 [[EmergentIntelligence_Spacetime]]
 [[Intelligence_Emergence]]
@@ -28,11 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[SystemLevelNonlinearity]]
+[[Textbook_Paradigm_Definition]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

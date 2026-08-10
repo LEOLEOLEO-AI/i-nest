@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[TopologyProgramming]]
 [[Topology_Centric_Computing]]
 [[iNEST]]
 

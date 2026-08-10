@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenComputation]]
+[[Event_Driven_Selective_Scan]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

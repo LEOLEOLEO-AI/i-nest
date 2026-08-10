@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
+[[EntanglementAwareRouting]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

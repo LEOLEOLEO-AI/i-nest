@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleCreditAssignment]]
 [[HumanVisionInspiredSNN]]
 [[Intelligence_Emergence]]
+[[LearnableGradientSurrogate]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

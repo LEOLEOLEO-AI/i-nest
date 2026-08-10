@@ -25,17 +25,20 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_Application_Scenario_Reconstruction]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[External_to_OnDie_Evolution]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[P_Paradigm]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[Tau_Law]]
 [[TopologyAwareTaskScheduling]]
-[[TopologyCentric_Interconnect]]
+[[Topology_Centric_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Distributed_Spike_Communication]]

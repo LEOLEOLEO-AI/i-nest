@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[EEGSpikeEncoding]]
 [[EventDrivenSynchronization]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AutonomousSpikingDynamics]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

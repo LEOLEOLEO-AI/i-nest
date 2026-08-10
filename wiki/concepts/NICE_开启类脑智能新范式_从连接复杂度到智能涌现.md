@@ -27,9 +27,12 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_1]]
 [[Intelligence_Emergence]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Neuromorphic_Computing]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]

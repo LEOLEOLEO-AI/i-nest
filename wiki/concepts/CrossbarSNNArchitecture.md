@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[RecursiveSelfReferentialArchitecture]]

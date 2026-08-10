@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]

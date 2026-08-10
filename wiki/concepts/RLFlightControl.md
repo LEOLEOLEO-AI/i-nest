@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
+[[AgenticServiceOrchestration]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[OpticalSynapticWeightUpdate]]

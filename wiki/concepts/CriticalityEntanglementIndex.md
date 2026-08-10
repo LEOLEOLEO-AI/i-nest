@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[Criticality_of_Natural_Languages]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicalSelfDualCriticality]]
 [[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

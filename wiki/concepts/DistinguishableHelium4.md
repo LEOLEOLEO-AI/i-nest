@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
+[[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[EventDrivenAttention]]
 [[Intelligence_Emergence]]

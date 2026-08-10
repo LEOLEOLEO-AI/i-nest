@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
+[[Collective_State_Convergence]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

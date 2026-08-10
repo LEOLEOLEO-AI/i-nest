@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Layered_Attractive_Hubbard_Model]]
 [[Loihi2_OnChip_Learning]]
 [[Network_Topology_Design]]
+[[PowerOfTwoWeightQuantization]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

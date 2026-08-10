@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CompactLocalisedStates]]
 [[CompactnessRegularizedFitness]]
+[[ConvolutionalRestrictedHopfieldNetwork]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]
 [[InNetworkAgentRewiring]]

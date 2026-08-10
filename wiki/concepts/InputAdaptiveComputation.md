@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikeAttention]]
+[[SpikePacketCompression]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

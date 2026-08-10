@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientFreeLowRankTraining]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MultiScaleTemporalProcessing]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

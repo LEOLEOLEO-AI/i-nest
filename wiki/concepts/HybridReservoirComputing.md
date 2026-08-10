@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
+[[CrashHotspotForecasting]]
+[[Nonlinear_Gain]]
 [[ReadoutLayer]]
 [[Reservoir_Computing]]
 [[TCC]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[MassConservationBias]]
 [[Memristive_Topology]]
 [[Monitored_Quantum_Circuits]]
+[[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
 [[NeuralCellularAutomata]]
 [[NeuralNetworkSpectralAnalysis]]

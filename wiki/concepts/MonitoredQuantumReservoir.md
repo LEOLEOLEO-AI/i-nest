@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalRegimeReservoir]]
 [[Critical_Exponent_Scaling]]
 [[Criticality_of_Natural_Languages]]
+[[DynamicalSelfDualCriticality]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Monitored_Quantum_Circuits]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[ViewDependentAppearance]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[新型计算]]
 [[神经形态计算]]
 

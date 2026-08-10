@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
+[[GeometricNeuromorphicFusion]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]

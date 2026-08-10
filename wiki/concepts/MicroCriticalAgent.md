@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]
 [[Self_Organized_Criticality]]
+[[Sleep_Stage_Classification]]
+[[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 

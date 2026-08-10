@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
+[[Memristive_ANN_Hardware]]
 [[Memristor_Device]]
 [[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -32,11 +32,14 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RoutabilityDrivenFloorplanning]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyProgramming]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

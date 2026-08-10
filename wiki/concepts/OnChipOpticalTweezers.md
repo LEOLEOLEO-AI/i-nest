@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
+[[SDSoW]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientSNN]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensing]]

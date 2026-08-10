@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]

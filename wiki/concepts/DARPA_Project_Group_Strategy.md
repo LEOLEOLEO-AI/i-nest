@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[RTC_Primitive]]
 [[RTC_Primitive_Set]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

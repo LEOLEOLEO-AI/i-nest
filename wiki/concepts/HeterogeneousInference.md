@@ -30,9 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Chiplet_Customization]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_SDI]]
 [[NoC_SDI_Topology]]
+[[Photonic_Chiplet_Interconnect]]
+[[SDI_Bond]]
+[[SDI_Topology]]
 [[TCC]]
 
 ## Sources

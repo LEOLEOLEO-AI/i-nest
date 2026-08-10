@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientSNN]]
+[[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

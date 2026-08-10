@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BlumeEmeryGriffithsModel]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DendriticTaskPartitioning]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

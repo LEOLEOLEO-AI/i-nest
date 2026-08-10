@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
+[[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

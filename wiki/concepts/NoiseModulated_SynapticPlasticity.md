@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ConductingPolymerDendriteMemory]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenPlasticity]]
 [[Event_Driven_Architecture]]
 [[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]

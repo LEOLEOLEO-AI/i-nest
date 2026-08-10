@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Memristive_Topology]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
+[[MultiFPGAScaling]]
 [[Network_Topology_Design]]
 [[Representation_Learning_Generalization]]
 [[SNN]]

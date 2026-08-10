@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenWeightUpdate]]
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

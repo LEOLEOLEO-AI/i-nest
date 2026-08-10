@@ -30,9 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Stacking]]
 [[Decoupling_Mechanism]]
 [[Heterogeneous_Integration]]
+[[Network_on_Chip]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
 

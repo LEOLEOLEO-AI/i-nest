@@ -20,3 +20,16 @@ refs: 4
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[GlassInterposerSignalIntegrity]]
+[[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
+[[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
+[[TCC]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
+[[iNEST]]
+[[神经形态计算]]
+[[神经网络]]

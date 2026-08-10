@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[Catastrophic_Forgetting]]
 [[Catastrophic_Forgetting_Mitigation]]
+[[Contested_Priors_Architecture]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]

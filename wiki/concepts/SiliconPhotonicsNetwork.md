@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Principle_Network]]
+[[HeterogeneousSiliconNitridePlatform]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

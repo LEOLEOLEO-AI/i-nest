@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Topology_Adaptation]]
 [[EventDrivenModularArchitecture]]
+[[EventDrivenWeightUpdate]]
 [[FPGA_Accelerated_SNN]]
 [[FatalityDrivenRewiring]]
 [[Intelligence_Emergence]]

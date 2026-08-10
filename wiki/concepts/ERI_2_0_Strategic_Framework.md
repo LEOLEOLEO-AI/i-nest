@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

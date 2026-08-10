@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleSparsity]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

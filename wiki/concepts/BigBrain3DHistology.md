@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
+[[BrainActivityPrediction]]
 [[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CytoarchitectonicAxis]]

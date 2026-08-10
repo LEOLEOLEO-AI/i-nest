@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]
+[[SuperparamagneticSwitchingRate]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemperatureSensitivityControl]]

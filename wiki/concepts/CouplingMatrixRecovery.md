@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Accessibility_Plasticity]]
+[[AdaptiveArchitecture]]
 [[AdaptivePhotonicRouter]]
 [[Allreduce_Latency_Probe]]
 [[CounterstreamSignalPropagation]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
+[[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]

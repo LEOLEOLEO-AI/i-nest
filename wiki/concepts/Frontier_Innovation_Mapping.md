@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[Analog_Computation]]
 [[CirculateFiringNeuron]]
+[[CompactnessRegularizedFitness]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[InNetworkAgentRewiring]]

@@ -44,6 +44,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
+[[getnote_2025-07-24_液态神经网络与时空复杂性]]
 [[iNEST 论文矩阵计划]]
 [[iNEST]]
 [[人类唯一的出路_变成人工智能_初篇_人类巨灵和大脑结构]]

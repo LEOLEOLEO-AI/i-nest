@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[InkjetPrintedElectrochemicalSensors]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

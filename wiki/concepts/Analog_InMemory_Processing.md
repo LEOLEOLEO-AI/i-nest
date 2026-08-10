@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[NonEquilibriumComputing]]
 [[RTC_Primitive]]
 [[RTC_Primitive_Set]]

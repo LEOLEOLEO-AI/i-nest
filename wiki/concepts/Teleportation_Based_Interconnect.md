@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[LossSpikePhenomenon]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[RTC_Primitive]]
 [[RTC_Primitive_Set]]
 [[Relapse_Resilient_Interconnect]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
+[[Controlled_Release_Kinetics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[KnowledgeDistillation]]

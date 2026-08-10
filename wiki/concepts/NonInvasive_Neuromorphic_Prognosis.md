@@ -34,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC — 自组织临界（Self-Organized Criticality）]]
+[[SOC]]
 [[Self_Organized_Criticality]]
 [[Sleep_EEG_Criticality]]
+[[Sleep_Stage_Classification]]
 [[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

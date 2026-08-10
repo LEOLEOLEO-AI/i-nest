@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Deep_Counterstream_Associative_Memory]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

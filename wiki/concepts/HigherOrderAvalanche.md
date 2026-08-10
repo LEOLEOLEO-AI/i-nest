@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Free_Energy_Principle_Network]]
+[[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TopologyDrivenVulnerability]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
 

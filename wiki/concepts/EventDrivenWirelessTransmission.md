@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]
 [[EventDrivenTracking]]
+[[EventDrivenTrajectoryEncoding]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

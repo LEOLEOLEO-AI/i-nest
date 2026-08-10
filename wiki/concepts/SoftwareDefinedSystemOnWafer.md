@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Software_Defined_Interconnect]]

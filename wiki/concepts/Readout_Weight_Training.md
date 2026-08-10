@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
+[[TCC]]
 [[iNEST]]
 [[iNEST_Topology]]
 [[智能涌现]]

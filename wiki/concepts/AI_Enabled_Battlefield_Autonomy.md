@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
+[[Accessibility_Plasticity]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BioPlausiblePredictiveCoding]]

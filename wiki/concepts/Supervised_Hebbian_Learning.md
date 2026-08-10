@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[National_Innovation_Center_Role]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

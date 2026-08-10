@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BackflowTransformation]]
+[[CST_Equation]]
 [[CST_MasterEquation]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]

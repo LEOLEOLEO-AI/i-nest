@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[QuantumChaos]]

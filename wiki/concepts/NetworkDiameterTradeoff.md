@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[DTGA]]
+[[FPGA_Reconfigurability]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

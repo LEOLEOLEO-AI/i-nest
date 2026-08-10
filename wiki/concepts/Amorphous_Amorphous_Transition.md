@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Mesoscale_Neural_Dynamics]]
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
 [[SelfOrganizedOscillatoryLearning]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[STDPDrivenTemporalBinding]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
+[[SpikeFusionLayer]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

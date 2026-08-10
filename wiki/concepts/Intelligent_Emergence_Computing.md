@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AdaptiveTimeStepTraining]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

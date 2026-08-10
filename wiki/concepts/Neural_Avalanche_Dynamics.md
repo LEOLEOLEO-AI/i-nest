@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
 [[Neural_Avalanche]]
+[[Neuronal_Avalanche_Dynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

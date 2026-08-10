@@ -28,11 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Fixed_Term_Project_Structure]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologyDrivenCascade]]
+[[Topology_Aware_Spike_Routing]]
 [[Workload_Layered_Architecture]]
 
 ## Sources

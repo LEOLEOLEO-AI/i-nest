@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AthermalDynamics]]
 [[BioPlausiblePredictiveCoding]]
 [[Contested_Prior_Resolution]]
 [[Edge_Neuromorphic_Compute]]

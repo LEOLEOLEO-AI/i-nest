@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[Chiplet_Based_Trusted_Hardware]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

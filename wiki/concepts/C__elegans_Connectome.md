@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]
+[[DevelopmentalStageEmbedding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

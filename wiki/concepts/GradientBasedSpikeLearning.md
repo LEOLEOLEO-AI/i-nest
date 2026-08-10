@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[LossSpikePhenomenon]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_IC_Stacking]]
+[[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[CST_SynergisticCoordination]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[WaferScaleSubstrate]]
 [[Wafer_Scale_Integration]]

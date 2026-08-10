@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[BranchingRatio]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]

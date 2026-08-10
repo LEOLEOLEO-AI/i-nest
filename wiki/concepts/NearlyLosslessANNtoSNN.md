@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]
+[[HumanVisionInspiredSNN]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

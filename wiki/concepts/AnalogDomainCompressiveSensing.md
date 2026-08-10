@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[BackflowTransformation]]
+[[BrainActivityPrediction]]
 [[CST_SynergisticCoordination]]
 [[CollectiveStateResilience]]
 [[Complex_System]]

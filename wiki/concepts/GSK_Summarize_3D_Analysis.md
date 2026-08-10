@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[CoarseGrainingFlow]]
 [[EdgeIoTEnergyAwareness]]
 [[GSK_Summarize]]
 [[GSK_Summarize_3D]]

@@ -20,7 +20,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActivityAvalanche]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
+[[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Algorithmic_Warfare]]
 [[Avoided_Criticality]]
 [[Criticality_Threshold]]

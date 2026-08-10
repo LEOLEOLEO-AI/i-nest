@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Chiplet_Customization]]
+[[Heterogeneous_Integration]]
+[[LargeScalePhotonicIntegration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

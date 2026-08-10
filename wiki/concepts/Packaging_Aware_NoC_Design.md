@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
+[[FatalityDrivenRewiring]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FPGASpikeImplementation]]
 [[FerroelectricSynapticArray]]
+[[Ferroelectric_Devices]]
+[[GradientFreeLowRankTraining]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

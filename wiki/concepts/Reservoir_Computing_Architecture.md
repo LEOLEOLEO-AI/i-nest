@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
+[[Crystallized_Neural_Manifolds]]
 [[Intelligence_Emergence]]
 [[ReadoutLayer]]
 [[Reservoir_Computing]]

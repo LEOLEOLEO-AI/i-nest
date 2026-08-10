@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ContactOpportunityExploitation]]
 [[DerivativeLineage]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

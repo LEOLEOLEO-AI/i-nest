@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]
+[[AndersonTransition]]
 [[BurstGatedRouting]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]

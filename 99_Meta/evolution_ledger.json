@@ -415,7 +415,15 @@
       "file": "00_Inbox\\_pipeline_insights\\2026-08-06_arXiv_A Low-Cost Hybrid Reservoir Computing Model for Isolated Sig.md",
       "discovered": "2026-08-06",
       "status": "pending_review"
+    },
+    {
+      "title": "A Tale of Two Compact Bosons",
+      "url": "http://arxiv.org/abs/2608.06376v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-08_arXiv_A Tale of Two Compact Bosons.md",
+      "discovered": "2026-08-08",
+      "status": "pending_review"
     }
   ],
-  "last_updated": "2026-08-06T16:16:53.826020"
+  "last_updated": "2026-08-08T08:14:24.434113"
 }

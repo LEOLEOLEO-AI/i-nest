@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[EventDrivenRiskAssessment]]
 [[FirstTimestepConversion]]
+[[GraphTopologyAwareSpiking]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[TCC]]

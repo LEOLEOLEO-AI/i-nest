@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CrossDomain_Integration]]
 [[GPU_Bottleneck_Relief]]
+[[HeterogeneousInference]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[TCC]]

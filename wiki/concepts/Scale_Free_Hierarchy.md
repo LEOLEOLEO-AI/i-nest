@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[NetworkTopologyEffects]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]

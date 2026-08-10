@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PolychronousNeuronalGroups]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_STDP_CoDesign]]

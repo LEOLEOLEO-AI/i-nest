@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_Computation]]
 [[Baseline_Draft_Status]]
+[[Closed_Loop_Neuromodulation]]
 [[DataDrivenMaterialDesign]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

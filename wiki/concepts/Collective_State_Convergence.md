@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
+[[Constructed_Reality_Interconnect]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

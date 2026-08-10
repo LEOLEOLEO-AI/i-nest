@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_STDP_CoDesign]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

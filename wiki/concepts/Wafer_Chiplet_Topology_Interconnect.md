@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Second_Curve_Wafer_Industry_Platform]]
+[[SoftwareDefinedSystemOnWafer]]
+[[Spatiotemporal_Computing]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Interconnect]]

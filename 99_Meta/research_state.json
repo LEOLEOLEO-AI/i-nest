@@ -1,68 +1,76 @@
 {
-  "generated": "2026-08-06T16:16:53.191379",
+  "generated": "2026-08-10T09:03:50.761489",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 9864,
-    "inbox_00": 148,
+    "total_md": 9951,
+    "inbox_00": 153,
     "processing_20": 567,
     "tcc_30": 1871,
-    "inest_40": 1426,
-    "output_50": 461,
+    "inest_40": 1427,
+    "output_50": 462,
     "moc_60": 38
   },
   "services": {
-    "preview_server_8899": true,
+    "preview_server_8899": false,
     "jojo_llm_57321": false,
     "jojo_fixer_57320": false
   },
   "pipeline": {
     "ingested_today": {
-      "today": 13,
-      "total": 148,
+      "today": 1,
+      "total": 153,
       "recent": [
         {
-          "file": "2026-08-06_arXiv_Universal linear manipulation via routing and projective mea.md",
-          "preview": "---\ntitle: \"Universal linear manipulation via routing and projective measurements\"\ndate: 2026-08-06\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.05003v1\ntags: [inbox, t"
-        },
-        {
-          "file": "2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N.md",
-          "preview": "---\ntitle: \"Towards Trustworthy Hypergraph Neural Networks under Label Noise\"\ndate: 2026-08-06\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.04377v1\ntags: [inbox, ines"
-        },
-        {
-          "file": "2026-08-06_arXiv_Thermal Control of Hysteresis and Deterministic Chaos in a M.md",
-          "preview": "---\ntitle: \"Thermal Control of Hysteresis and Deterministic Chaos in a Memristive MEMS Resonator\"\ndate: 2026-08-06\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.02853v"
-        },
-        {
-          "file": "2026-08-06_arXiv_SpikingNav Robust Embodied Navigation with Spiking Neural Po.md",
-          "preview": "---\ntitle: \"SpikingNav: Robust Embodied Navigation with Spiking Neural Policies\"\ndate: 2026-08-06\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.05078v1\ntags: [inbox, i"
-        },
-        {
-          "file": "2026-08-06_arXiv_Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-.md",
-          "preview": "---\ntitle: \"Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-SiC in Femtosecond Laser Processing\"\ndate: 2026-08-06\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/26"
-        },
-        {
-          "file": "2026-08-06_arXiv_Scaling behavior in non-reciprocal and odd conserved dynamic.md",
-          "preview": "---\ntitle: \"Scaling behavior in non-reciprocal and odd conserved dynamics near criticality\"\ndate: 2026-08-06\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.05027v1\ntags"
-        },
-        {
-          "file": "2026-08-06_arXiv_Joint UAV Flight and Opportunistic Routing under Reinforceme.md",
-          "preview": "---\ntitle: \"Joint UAV Flight and Opportunistic Routing under Reinforcement Learning for Delay-Tolerant Networks\"\ndate: 2026-08-06\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: http://arxiv.org/ab"
-        },
-        {
-          "file": "2026-08-06_arXiv_High-speed time-series prediction using compact memristor ci.md",
-          "preview": "---\ntitle: \"High-speed time-series prediction using compact memristor circuits with adjustable dynamics\"\ndate: 2026-08-06\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608"
-        },
-        {
-          "file": "2026-08-06_arXiv_HexMIL Hierarchical Attention MIL for Ante-Hoc Explainable D.md",
-          "preview": "---\ntitle: \"HexMIL: Hierarchical Attention MIL for Ante-Hoc Explainable Detection of AI-Manipulated CT Volumes\"\ndate: 2026-08-06\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/a"
-        },
-        {
-          "file": "2026-08-06_arXiv_Harvest Resource-Aware Quantum Compilation for Magic State P.md",
-          "preview": "---\ntitle: \"Harvest: Resource-Aware Quantum Compilation for Magic State Protocols\"\ndate: 2026-08-06\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.03315v1\ntags: [inbox, t"
+          "file": "2026-08-10_arXiv_Katz Centrality-Based Security Allocation in Positive Networ.md",
+          "preview": "---\ntitle: \"Katz Centrality-Based Security Allocation in Positive Networks\"\ndate: 2026-08-10\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.05360v1\ntags: [inbox, tcc, arx"
         }
       ]
     },
     "recent_runs": [
+      {
+        "date": "2026-08-10T09:01:57.444828",
+        "new_papers": 1,
+        "api_results": 1,
+        "classified": 0,
+        "graph_nodes": 9944,
+        "graph_edges": 84121,
+        "elapsed_s": 904.7,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260810_0901.json"
+      },
+      {
+        "date": "2026-08-09T10:33:07.918288",
+        "new_papers": 0,
+        "api_results": 0,
+        "classified": 0,
+        "graph_nodes": 9943,
+        "graph_edges": 84121,
+        "elapsed_s": 8308.8,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260809_1033.json"
+      },
+      {
+        "date": "2026-08-08T08:14:24.051078",
+        "new_papers": 4,
+        "api_results": 4,
+        "classified": 0,
+        "graph_nodes": 9943,
+        "graph_edges": 84121,
+        "elapsed_s": 862.1,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260808_0814.json"
+      },
+      {
+        "date": "2026-08-07T08:28:55.514499",
+        "new_papers": 0,
+        "api_results": 0,
+        "classified": 0,
+        "graph_nodes": 9930,
+        "graph_edges": 84097,
+        "elapsed_s": 1733.2,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260807_0828.json"
+      },
       {
         "date": "2026-08-06T16:16:53.100479",
         "new_papers": 13,
@@ -95,76 +103,32 @@
         "elapsed_s": 1627.8,
         "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
         "_file": "pipeline_20260804_0827.json"
-      },
-      {
-        "date": "2026-08-03T14:16:29.597058",
-        "new_papers": 0,
-        "api_results": 0,
-        "classified": 0,
-        "graph_nodes": 6123,
-        "graph_edges": 17228,
-        "elapsed_s": 479.2,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260803_1416.json"
-      },
-      {
-        "date": "2026-08-02T09:41:17.475696",
-        "new_papers": 0,
-        "api_results": 0,
-        "classified": 0,
-        "graph_nodes": 5674,
-        "graph_edges": 17826,
-        "elapsed_s": 656.9,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260802_0941.json"
-      },
-      {
-        "date": "2026-08-01T09:27:44.092062",
-        "new_papers": 8,
-        "api_results": 8,
-        "classified": 0,
-        "graph_nodes": 5916,
-        "graph_edges": 12887,
-        "elapsed_s": 911.8,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260801_0927.json"
-      },
-      {
-        "date": "2026-07-31T08:22:14.440940",
-        "new_papers": 10,
-        "api_results": 10,
-        "classified": 0,
-        "graph_nodes": 5822,
-        "graph_edges": 9237,
-        "elapsed_s": 1330.9,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260731_0822.json"
       }
     ]
   },
   "git": {
-    "uncommitted": 230,
+    "uncommitted": 80,
     "details": [
-      "M .obsidian/workspace.json",
+      "M .obsidian/community-plugins.json",
+      " M .obsidian/graph.json",
+      " M .obsidian/plugins/homepage/data.json",
+      " M .obsidian/workspace.json",
       " M .workbuddy/automations/automation-1785546922604/memory.md",
-      " M \"00_Inbox/iNEST \\347\\220\\206\\350\\256\\272\\344\\275\\223\\347\\263\\273\\347\\263\\273\\347\\273\\237\\346\\200\\273\\347\\273\\223\\346\\212\\245\\345\\221\\212\\357\\274\\232\\344\\273\\216\\347\\211\\251\\347\\220\\206\\347\\254\\254\\344\\270\\200\\346\\200\\247\\345\\216\\237\\347\\220\\206\\345\\210\\260\\346\\231\\266\\345\\234\\206\\347\\272\\247\\346\\231\\272\\350\\203\\275\\346\\266\\214\\347\\216\\260.md\"",
-      " D \"00_Inbox/\\346\\213\\223\\346\\211\\221\\344\\270\\255\\345\\277\\203\\350\\256\\241\\347\\256\\227\\350\\214\\203\\345\\274\\217\\346\\236\\266\\346\\236\\204\\345\\205\\263\\351\\224\\256\\346\\212\\200\\346\\234\\257\\347\\240\\224\\347\\251\\266.md\"",
-      " M \"00_Inbox/\\346\\231\\266\\345\\234\\206\\347\\272\\247\\345\\274\\202\\346\\236\\204\\351\\233\\206\\346\\210\\220\\346\\226\\271\\346\\241\\210\\350\\257\\246\\350\\247\\243.md\"",
-      " M \"10_Knowledge/Articles/TPU 8t and TPU 8i technical deep dive.md\"",
-      " M \"10_Knowledge/Articles/TPU \\346\\236\\266\\346\\236\\204.md\"",
-      " M \"10_Knowledge/NotebookLM\\345\\257\\271iNEST\\347\\232\\204\\346\\200\\273\\347\\273\\223.md\"",
-      " M 20_Processing/01_PDF_Text/2026-07-20_NeuroTrain_fulltext.md",
-      " M 20_Processing/02_Fulltext_Analysis/2026-07-20_NeuroTrain_fulltext_analysis.md",
-      " M \"20_Processing/20_KnowledgeBase/\\347\\201\\265\\346\\204\\237\\345\\272\\223/CST\\303\\227iNEST\\303\\227iMESO \\344\\270\\211\\344\\275\\215\\344\\270\\200\\344\\275\\223\\347\\240\\224\\347\\251\\266\\350\\247\\204\\345\\210\\222\\344\\270\\216\\344\\273\\273\\345\\212\\241\\345\\270\\203\\345\\261\\200\\346\\212\\245\\345\\221\\212 v1.0.md\"",
-      " M \"30_TCC/32_Tech/2025-01-11_\\345\\205\\263\\344\\272\\216\\347\\263\\273\\347\\273\\237\\345\\222\\214\\347\\275\\221\\347\\273\\234\\344\\273\\243\\351\\231\\205\\350\\247\\204\\345\\210\\222\\345\\217\\212\\345\\217\\221\\345\\261\\225\\347\\232\\204\\351\\230\\220\\350\\277\\260.md\"",
-      " M \"30_TCC/32_Tech/20250705_\\345\\255\\227\\350\\212\\202AI\\347\\274\\226\\347\\250\\213\\345\\267\\245\\345\\205\\267Trae\\350\\257\\246\\350\\247\\243.md\"",
-      " M \"30_TCC/32_Tech/20251017_2025\\345\\271\\26410\\346\\234\\21015\\345\\217\\267 \\346\\227\\245\\350\\256\\260.md\"",
-      " M \"30_TCC/32_Tech/20251211_\\350\\277\\221\\346\\234\\237\\344\\272\\213\\351\\241\\271.md\"",
-      " M \"30_TCC/32_Tech/2026-05-04_\\345\\205\\266\\344\\273\\226_Google TPU 8i\\344\\270\\216Boardfly\\346\\213\\223\\346\\211\\221\\357\\274\\232AI\\346\\216\\250\\347\\220\\206\\345\\237\\272\\347\\241\\200\\350\\256\\276\\346\\226\\275\\347\\232\\204\\350\\214\\203\\345\\274\\217\\351\\207\\215\\346\\236\\204.md\"",
-      " M \"30_TCC/32_Tech/20260621_\\350\\200\\201\\344\\270\\211\\350\\256\\272\\346\\226\\260\\344\\270\\211\\350\\256\\272\\344\\270\\216AI.md\"",
-      " M \"30_TCC/32_Tech/Google_TPU\\347\\232\\2043D\\346\\213\\223\\346\\211\\221\\350\\256\\276\\350\\256\\241.md\"",
-      " M \"30_TCC/35_Simulation/2025-01-11_\\345\\246\\202\\344\\275\\225\\345\\234\\250\\346\\231\\266\\345\\234\\206\\344\\270\\212\\345\\256\\236\\347\\216\\260\\344\\270\\200\\344\\270\\252\\346\\213\\223\\346\\211\\221\\347\\273\\223\\346\\236\\204\\345\\212\\250\\346\\200\\201\\345\\217\\257\\345\\217\\230\\347\\232\\204\\347\\224\\237\\346\\210\\220\\345\\274\\217\\347\\275\\221\\347\\273\\234_.md\"",
-      " M \"30_TCC/35_Simulation/2025-01-11_\\351\\200\\232\\350\\277\\207\\345\\244\\215\\346\\235\\202\\347\\275\\221\\347\\273\\234\\350\\277\\236\\346\\216\\245\\350\\256\\241\\347\\256\\227_\\345\\255\\230\\345\\202\\250\\347\\255\\211\\350\\265\\204\\346\\272\\220_\\345\\234\\250\\347\\263\\273\\347\\273\\237\\345\\261\\202\\351\\235\\242\\350\\277\\275\\346\\261\\2021_1_2\\347\\232\\204\\347\\263\\273\\347\\273\\237\\346\\234\\200\\344\\274\\230_\\345\\246\\202\\344\\275\\225\\350\\256\\276\\350\\256\\241\\350\\277\\231\\344\\270\\252\\345\\244\\215\\346\\235\\202\\347\\275\\221\\347\\273\\234\\345\\217\\212\\350\\257\\204\\344\\273\\267\\346\\214\\207\\346\\240\\207_.md\""
+      " M \"00_Inbox/04 Creating/Transformer \\346\\216\\250\\347\\220\\206\\345\\205\\250\\346\\265\\201\\347\\250\\213\\347\\232\\204\\350\\256\\241\\347\\256\\227\\342\\200\\224\\351\\200\\232\\344\\277\\241\\342\\200\\224\\346\\213\\223\\346\\211\\221\\345\\214\\271\\351\\205\\215\\347\\231\\275\\347\\232\\256\\344\\271\\246.md\"",
+      " D \"00_Inbox/2026-07-31_CST \\344\\270\\273\\346\\226\\271\\347\\250\\213\\347\\232\\204\\351\\207\\215\\346\\225\\264\\345\\214\\226\\347\\276\\244\\347\\254\\254\\344\\270\\200\\346\\200\\247\\345\\216\\237\\347\\220\\206\\346\\216\\250\\345\\257\\274.md\"",
+      " D \"00_Inbox/2026-07-31_CST \\347\\220\\206\\350\\256\\272 \\302\\267 \\347\\272\\257\\346\\216\\250\\345\\257\\274\\347\\250\\277 V41.1.md\"",
+      " D \"00_Inbox/2026-07-31_CST\\342\\200\\224iNEST\\342\\200\\224SDDE\\342\\200\\224iMESO \\347\\254\\254\\344\\270\\200\\346\\200\\247\\344\\270\\273\\347\\272\\277.md\"",
+      " D \"00_Inbox/2026-07-31_CST\\344\\270\\211\\346\\235\\241\\350\\257\\201\\346\\230\\216.md\"",
+      " D \"00_Inbox/2026-07-31_Route\\342\\211\\241Transform\\357\\274\\232\\346\\213\\223\\346\\211\\221\\345\\205\\274\\345\\256\\271\\346\\235\\241\\344\\273\\266\\344\\270\\213\\351\\200\\232\\344\\277\\241\\345\\215\\263\\350\\256\\241\\347\\256\\227\\347\\232\\204\\344\\273\\243\\346\\225\\260\\346\\241\\206\\346\\236\\266\\344\\270\\216\\346\\213\\223\\346\\211\\221\\344\\270\\255\\345\\277\\203\\350\\256\\241\\347\\256\\227\\345\\216\\237\\350\\257\\255\\344\\275\\223\\347\\263\\273.md\"",
+      " D \"00_Inbox/2026-07-31_\\345\\237\\272\\344\\272\\216CST\\345\\215\\217\\345\\220\\214\\345\\215\\217\\350\\260\\203\\346\\227\\266\\347\\251\\272\\345\\244\\215\\346\\235\\202\\345\\272\\246\\346\\236\\266\\346\\236\\204\\347\\232\\204\\346\\231\\272\\350\\203\\275\\346\\266\\214\\347\\216\\260\\347\\220\\206\\350\\256\\272\\347\\240\\224\\347\\251\\266\\350\\277\\233\\345\\261\\225\\350\\256\\250\\350\\256\\272.md\"",
+      " D \"00_Inbox/2026-07-31_\\350\\213\\217\\345\\267\\236\\345\\256\\236\\351\\252\\214\\345\\256\\244 iNEST \\345\\205\\210\\345\\257\\274\\351\\241\\271\\347\\233\\256\\346\\214\\207\\345\\215\\227.md\"",
+      " D \"00_Inbox/2026-08-01_SDI\\344\\270\\216NPU\\351\\233\\206\\346\\210\\220\\346\\226\\271\\346\\241\\210.md\"",
+      " D \"00_Inbox/2026-08-01_TCCNPU\\345\\215\\217\\345\\220\\214\\350\\267\\257\\347\\272\\277\\345\\233\\276.md\"",
+      " D \"00_Inbox/Transformer \\346\\216\\250\\347\\220\\206\\345\\205\\250\\346\\265\\201\\347\\250\\213\\347\\232\\204\\350\\256\\241\\347\\256\\227\\342\\200\\224\\351\\200\\232\\344\\277\\241\\342\\200\\224\\346\\213\\223\\346\\211\\221\\345\\214\\271\\351\\205\\215\\347\\231\\275\\347\\232\\256\\344\\271\\246.md\"",
+      " D \"00_Inbox/iNEST \\347\\220\\206\\350\\256\\272\\344\\275\\223\\347\\263\\273\\347\\263\\273\\347\\273\\237\\346\\200\\273\\347\\273\\223\\346\\212\\245\\345\\221\\212\\357\\274\\232\\344\\273\\216\\347\\211\\251\\347\\220\\206\\347\\254\\254\\344\\270\\200\\346\\200\\247\\345\\216\\237\\347\\220\\206\\345\\210\\260\\346\\231\\266\\345\\234\\206\\347\\272\\247\\346\\231\\272\\350\\203\\275\\346\\266\\214\\347\\216\\260.md\"",
+      " D \"00_Inbox/\\346\\213\\223\\346\\211\\221\\344\\270\\255\\345\\277\\203\\350\\256\\241\\347\\256\\227\\346\\226\\271\\346\\241\\210.md\"",
+      " D \"00_Inbox/\\350\\275\\257\\344\\273\\266\\345\\256\\232\\344\\271\\211\\346\\231\\266\\344\\270\\212\\347\\263\\273\\347\\273\\237.md\"",
+      " M \"10_Knowledge/Articles/TPU 8t and TPU 8i technical deep dive.md\""
     ]
   },
   "health": {

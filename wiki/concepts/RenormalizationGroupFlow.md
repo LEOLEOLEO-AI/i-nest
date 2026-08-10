@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
+[[ExtensiveWidthShallowNN]]
 [[Hierarchical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

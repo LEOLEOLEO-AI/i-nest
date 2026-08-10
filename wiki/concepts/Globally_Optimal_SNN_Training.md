@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[TemporalContrastEncoding]]
 [[iNEST]]
 

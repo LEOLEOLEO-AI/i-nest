@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Revolution]]
+[[Online_Continual_Learning]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]

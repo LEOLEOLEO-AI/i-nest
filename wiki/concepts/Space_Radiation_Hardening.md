@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[CoPackagedOptics]]
 [[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
 [[TCC]]

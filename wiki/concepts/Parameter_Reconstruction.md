@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[CirculateFiringNeuron]]
 [[CoDesigned_SNN]]
+[[Deep_SNN_Trainability]]
 [[Emergent_Intelligence_Threshold]]
 [[Globally_Optimal_SNN_Training]]
 [[Intelligence_Emergence]]

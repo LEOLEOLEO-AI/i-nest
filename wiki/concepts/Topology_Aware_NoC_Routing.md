@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Interconnect]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -33,9 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
+[[OnDie_Fusion]]
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[TCC]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

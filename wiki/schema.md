@@ -52,8 +52,8 @@ Trigger: after each automated import or daily pipeline run.
   {2-3 sentences on why this matters in TCC/iNEST research}
   
   ## Related Work
-  - [[{related_concept_1}]]: {relationship}
-  - [[{related_concept_2}]]: {relationship}
+  - : {relationship}
+  - : {relationship}
   
   ## Sources
   - {source_reference_1}

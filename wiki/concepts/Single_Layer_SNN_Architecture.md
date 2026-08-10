@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CoDesigned_SNN]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
@@ -33,9 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

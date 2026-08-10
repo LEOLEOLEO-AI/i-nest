@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SemanticTrafficAwareness]]
 [[Spike_Encoding_of_fMRI]]
@@ -42,4 +44,4 @@ Auto-extracted concept from raw material compilation.
 - *(Explore connections to other concepts)*
 
 ## Merged From
-- NeuromorphicInterconnect (merged 2026-08-04)
+- Neuromorphic_Interconnect (merged 2026-08-04)

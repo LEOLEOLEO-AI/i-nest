@@ -21,9 +21,11 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
 [[ANN动力学]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Complex_System_Theory]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
@@ -47,5 +49,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[iNEST]]
 [[具身智能的基本原理、关键技术、应用场景]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[研究进展：AI+新材料，5篇类脑智能]]
 [[自动微分•自组织生长_ 打造新一代的自组织生长模型]]

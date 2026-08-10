@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
+[[AstrocyteInspiredRepair]]
 [[Branch_Prediction]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

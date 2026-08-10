@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Forum_Demo_Narrative]]
 [[ActivityAvalanche]]
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]

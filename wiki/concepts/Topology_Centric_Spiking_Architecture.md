@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Dynamic_Expert_Fusion]]
 [[EEGToNeuromorphicMapping]]
+[[EventDrivenRiskAssessment]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

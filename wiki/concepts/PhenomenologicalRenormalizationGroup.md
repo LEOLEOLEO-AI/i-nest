@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNeuralNetworks]]
 [[CriticalityOnSmallWorlds]]
 [[Criticality_Avoidance_Theory]]
+[[Criticality_Induced_Computation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

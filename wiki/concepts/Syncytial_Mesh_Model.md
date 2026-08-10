@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Scale_Dependent_Coherence]]
 [[Self_Organized_Criticality]]

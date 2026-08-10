@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[Closed_Loop_Neuromodulation]]
 [[ContextualReasoning]]
 [[DataDrivenMaterialDesign]]
 [[Dynamic_Expert_Fusion]]

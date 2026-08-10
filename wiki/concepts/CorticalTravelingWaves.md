@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AllOpticalHebbianLearning]]
 [[CorticalTravelingWave]]
+[[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
 [[FC2_Goal_Representation]]
 [[Free_Energy_Principle_Network]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PolychronousNeuronalGroups]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Temporal_Coding]]
+[[神经网络]]
 [[脉冲神经网络]]
 
 ## Sources

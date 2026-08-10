@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[EventDataNonUniformity]]
+[[EventDrivenGraphTraversal]]
 [[EventDrivenSynchronization]]
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]

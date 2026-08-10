@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[Fatigue_SpikePattern]]
+[[Layered_Attractive_Hubbard_Model]]
 [[MembranePotentialModulation]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

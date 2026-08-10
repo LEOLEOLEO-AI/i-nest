@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[EEGToNeuromorphicMapping]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MetaFAIR_ArchitectureDiscovery]]

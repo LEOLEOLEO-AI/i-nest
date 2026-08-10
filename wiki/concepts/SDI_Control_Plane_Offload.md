@@ -29,14 +29,17 @@ Auto-extracted concept from raw material compilation.
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[SDI_Topology]]
 [[TCC]]
 [[TopologyProgramming]]
+[[Topology_Aware_NoC_Routing]]
 [[iNEST]]
 
 ## Sources

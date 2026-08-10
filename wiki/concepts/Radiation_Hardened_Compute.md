@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Criticality_Based_Feature_Extraction]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[RealTimeClassification]]
 [[RelocationOverheadModel]]

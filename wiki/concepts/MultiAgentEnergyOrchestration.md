@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedTrainingCommunicationPattern]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
+[[FullSpectrum_DomainIntegration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

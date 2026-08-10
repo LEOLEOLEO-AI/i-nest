@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[ScaleFreeNetwork]]
 [[iNEST]]
 
 ## Sources

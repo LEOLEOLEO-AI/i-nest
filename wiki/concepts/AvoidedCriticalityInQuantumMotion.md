@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[AvalancheBranchingRatio]]
+[[BioInspired_Interception_Control]]
 [[BranchingRatio]]
 [[DifferentiableRasterizationPipeline]]
 [[Dynamic_Expert_Fusion]]

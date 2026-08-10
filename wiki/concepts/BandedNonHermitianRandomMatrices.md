@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[Complex_System_Theory]]
+[[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

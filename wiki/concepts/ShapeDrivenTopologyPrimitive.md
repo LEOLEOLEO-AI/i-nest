@@ -27,10 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CriticalityOffCriticalityTransition]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

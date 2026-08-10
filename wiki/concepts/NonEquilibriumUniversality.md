@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveTaskonomy]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[EEGToNeuromorphicMapping]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

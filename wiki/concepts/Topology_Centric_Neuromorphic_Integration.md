@@ -32,9 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Spiking]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[SNN_TCC_Integration]]
+[[SNN_Topology_Integration]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[Topology_Centric_Neuromorphic]]
 
 ## Sources

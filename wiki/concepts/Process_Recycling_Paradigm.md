@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
+[[Long_Range_Interactions]]
 [[Memristive_Crossbar_Array]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -21,11 +21,13 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3D_Heterogeneous_Integration]]
+[[3D_Integrated_Chiplet_Stacking]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]

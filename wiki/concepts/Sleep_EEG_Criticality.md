@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LeftRightAsymmetry]]

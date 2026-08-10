@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[EventDrivenAutoregression]]
 [[EventDrivenSynchronization]]
+[[EventDrivenWeightUpdate]]
 [[FPGA_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]

@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Algorithmic_Warfare]]
 [[Amorphous_Amorphous_Transition]]
 [[AsynchronousEventDrivenComputation]]
+[[Baseline_Change_Record]]
 [[EventDrivenComputation]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

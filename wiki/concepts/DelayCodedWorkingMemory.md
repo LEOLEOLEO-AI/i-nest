@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AutonomousSpikingDynamics]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]

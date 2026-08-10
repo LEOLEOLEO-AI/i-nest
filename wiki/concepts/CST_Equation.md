@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[Analog_Weight_Storage]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
+[[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemperatureSensitivityControl]]

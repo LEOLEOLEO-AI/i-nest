@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[InverseDesignOptimization]]
 [[InverseDesignedPhotonicRouting]]
 [[LargeScalePhotonicIntegration]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[WaferScaleTopologyInterconnect]]

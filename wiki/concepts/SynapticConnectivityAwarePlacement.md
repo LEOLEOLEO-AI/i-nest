@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]
 [[EdgeIoTEnergyAwareness]]
+[[ElectronicPhotonicIntegratedCircuit]]
 [[Heterogeneous_Integration]]
 [[In_Network_Sensing]]
 [[Neuromorphic_Chiplet]]

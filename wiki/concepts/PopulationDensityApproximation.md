@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Dynamic_Expert_Fusion]]

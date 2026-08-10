@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[InterpolationLearningTransition]]
+[[Long_Range_Interactions]]
 [[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Memristor_Network]]
 [[Network_on_Chip]]
 [[NoC_EventRouting]]
 [[ParallelSNNArchitecture]]

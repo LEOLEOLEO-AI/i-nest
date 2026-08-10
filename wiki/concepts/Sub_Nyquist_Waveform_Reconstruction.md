@@ -36,7 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Reservoir_Substrate]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[Residual_Connection]]
 [[Residual_Connection_Removal]]
+[[SDI_TCC_iNEST_Interconnect]]
 [[iNEST]]
 
 ## Sources

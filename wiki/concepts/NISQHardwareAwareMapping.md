@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Abilities]]
+[[ErdosRenyi_Graph_Energy_Surface]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Quantum_Reservoir_Computing]]

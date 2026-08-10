@@ -206,7 +206,9 @@
       "type": "pipeline_fix",
       "title": "Pipeline zero-paper alert: API connectivity check",
       "detail": "Recent runs with zero new papers: 2",
-      "status": "pending"
+      "status": "resolved",
+      "resolved_at": "2026-08-07T08:28:56.137411",
+      "resolution": "A recent run ingested papers successfully; network and relevance gates are working."
     },
     {
       "id": "EV-2026-08-06-002",
@@ -215,7 +217,79 @@
       "title": "Git hygiene: 230 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
       "status": "pending"
+    },
+    {
+      "id": "EV-2026-08-07-001",
+      "priority": "high",
+      "type": "pipeline_fix",
+      "title": "Pipeline zero-paper alert: API connectivity check",
+      "detail": "Recent runs with zero new papers: 3",
+      "status": "resolved",
+      "resolved_at": "2026-08-08T08:14:24.468320",
+      "resolution": "A recent run ingested papers successfully; network and relevance gates are working."
+    },
+    {
+      "id": "EV-2026-08-07-002",
+      "priority": "medium",
+      "type": "git_hygiene",
+      "title": "Git hygiene: 17 uncommitted changes",
+      "detail": "Commit or review outstanding changes.",
+      "status": "pending"
+    },
+    {
+      "id": "EV-2026-08-08-001",
+      "priority": "high",
+      "type": "pipeline_fix",
+      "title": "Pipeline zero-paper alert: API connectivity check",
+      "detail": "Recent runs with zero new papers: 3",
+      "status": "resolved",
+      "resolved_at": "2026-08-09T10:33:08.429614",
+      "resolution": "A recent run ingested papers successfully; network and relevance gates are working."
+    },
+    {
+      "id": "EV-2026-08-08-002",
+      "priority": "medium",
+      "type": "git_hygiene",
+      "title": "Git hygiene: 71 uncommitted changes",
+      "detail": "Commit or review outstanding changes.",
+      "status": "pending"
+    },
+    {
+      "id": "EV-2026-08-09-001",
+      "priority": "high",
+      "type": "pipeline_fix",
+      "title": "Pipeline zero-paper alert: API connectivity check",
+      "detail": "Recent runs with zero new papers: 3",
+      "status": "resolved",
+      "resolved_at": "2026-08-10T09:01:57.743148",
+      "resolution": "A recent run ingested papers successfully; network and relevance gates are working."
+    },
+    {
+      "id": "EV-2026-08-09-002",
+      "priority": "medium",
+      "type": "git_hygiene",
+      "title": "Git hygiene: 74 uncommitted changes",
+      "detail": "Commit or review outstanding changes.",
+      "status": "pending"
+    },
+    {
+      "id": "EV-2026-08-10-001",
+      "priority": "high",
+      "type": "pipeline_fix",
+      "title": "Pipeline zero-paper alert: API connectivity check",
+      "detail": "Recent runs with zero new papers: 2",
+      "status": "resolved",
+      "resolved_at": "2026-08-10T09:03:49.723653",
+      "resolution": "A recent run ingested papers successfully; network and relevance gates are working."
+    },
+    {
+      "id": "EV-2026-08-10-002",
+      "priority": "medium",
+      "type": "git_hygiene",
+      "title": "Git hygiene: 76 uncommitted changes",
+      "detail": "Commit or review outstanding changes.",
+      "status": "pending"
     }
   ],
-  "last_updated": "2026-08-06T16:16:53.874943"
+  "last_updated": "2026-08-10T09:03:49.723653"
 }

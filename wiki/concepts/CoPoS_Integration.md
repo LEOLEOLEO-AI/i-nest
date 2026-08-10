@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Packaging]]
+[[Chiplet_Topology_Packaging]]
 [[CoPoS]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[AstrocyteInspiredRepair]]
 [[ChannelEventSparsity]]
+[[ExplainableEnergyAI]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

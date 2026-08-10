@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Chiplet_based_heterogeneous_integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BioPlausiblePredictiveCoding]]
 [[CSI_Temporal_Encoding]]
+[[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]
 [[ElasticSpikingTransformer]]

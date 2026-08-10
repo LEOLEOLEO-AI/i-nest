@@ -21,9 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Stacking]]
+[[AIRA_NeuralArchSearch]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[CommunicationAsComputation]]
 [[CrossMaterial_Integration]]
+[[Deep_Thermalisation]]
 [[Deep_Thermalisation_Dynamics]]
 [[FatalityDrivenRewiring]]
 [[FlagOS_2_0]]
@@ -36,3 +39,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Compute_Communication_Topology_Matching (merged 2026-08-10)

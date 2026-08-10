@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[CrossLayer_Feedback]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[DynamicReconfigurationForFaultTolerance]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

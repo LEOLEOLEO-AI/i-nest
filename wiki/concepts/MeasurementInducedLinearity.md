@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Active_Inference_Architecture]]
 [[ActivityAvalanche]]
+[[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdaptivePhotonicRouter]]
 [[DelayPropagationDynamics]]

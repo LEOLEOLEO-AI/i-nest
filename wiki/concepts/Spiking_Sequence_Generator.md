@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
 [[NeuromorphicGestureEncoding]]
+[[NeuromorphicHarmonyEncoding]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensing]]

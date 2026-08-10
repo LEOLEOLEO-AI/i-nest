@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Industrial_Ecosystem]]
 [[AdaptiveDensityControl]]
 [[Cognitive_Relapse_Architecture]]
+[[CorticalTypeDiversity]]
 [[TCC]]
 
 ## Sources

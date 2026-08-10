@@ -31,11 +31,16 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[NonEquilibriumComputing]]
 [[Photonic_Chiplet_Interconnect]]
+[[SDI_Bond]]
+[[SDI_Topology]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[Wafer_Scale_Packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

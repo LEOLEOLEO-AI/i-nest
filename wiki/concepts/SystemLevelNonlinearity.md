@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[Textbook_Paradigm_Definition]]
 [[iNEST]]
 
 ## Sources

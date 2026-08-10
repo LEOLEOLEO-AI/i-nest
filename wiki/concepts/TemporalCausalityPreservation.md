@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]
+[[DelayAwareSpikeEventDelivery]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

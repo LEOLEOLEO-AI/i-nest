@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_Topology_Integration]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[StructuralPriorEncoding]]
 [[TCC]]
 
 ## Sources

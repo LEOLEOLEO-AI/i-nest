@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EntangledCriticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
+[[LLMDrivenPathSelection]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[ReconfigurableSpikingRouting]]

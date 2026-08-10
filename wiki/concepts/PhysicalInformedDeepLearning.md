@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[ClosedLoopNeuromorphicControl]]
 [[ContinualLearningOnNeuromorphic]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

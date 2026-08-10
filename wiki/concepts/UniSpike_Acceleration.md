@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AddressRedundancyElimination]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

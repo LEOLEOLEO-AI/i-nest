@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
+[[AnisotropicGaussianPrimitives]]
 [[Dynamic_Expert_Fusion]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Topology_Mapping]]

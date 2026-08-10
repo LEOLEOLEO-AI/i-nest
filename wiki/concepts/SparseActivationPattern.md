@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[SDN_Neuromorphic_Interface]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]

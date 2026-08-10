@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[ErrorAmplificationLimits]]
 [[Heterogeneous_Integration]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvolutionalRestrictedHopfieldNetwork]]
 [[Emergent_Intelligence_Threshold]]
 [[ExponentialDenseAssociativeMemory]]
+[[Field_Compression_for_InNetwork_Inference]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BurstGatedRouting]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[ReconfigurableSpikingRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

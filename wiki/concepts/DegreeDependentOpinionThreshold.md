@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Heterogeneous_Integration]]
+[[InNetworkNeuromorphicEmergence]]
 [[Loihi2_OnChip_Learning]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

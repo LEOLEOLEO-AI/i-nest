@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Independent_AI_Player_Endgame]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BrainBodyResonance]]
+[[ConceptualNetworkEmbedding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

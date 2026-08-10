@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenModularArchitecture]]
 [[FPGA_Reconfigurability]]
+[[FPGA_SNN_Inference]]
 [[FlexibleNeuromorphicAccelerator]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

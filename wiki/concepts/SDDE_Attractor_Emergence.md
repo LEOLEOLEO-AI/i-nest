@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Substrate]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]

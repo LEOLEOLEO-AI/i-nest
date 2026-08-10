@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[ThreeLayerArchitecture]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Topology]]

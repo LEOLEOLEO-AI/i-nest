@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[新型计算]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[神经形态计算]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

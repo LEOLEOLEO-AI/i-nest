@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[CoDesigned_SNN]]
 [[CoEvolvedSNNEnsemble]]
+[[CollectiveSpikingDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

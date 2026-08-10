@@ -24,3 +24,40 @@
 [self_evolve] 自我生长: 补全高频缺失概念占位笔记...
 [self_evolve] 已补全 10 个缺失概念: ['浙江大学集成电路学院Nano_Letters_可重构神经形态计算，用于多功能神经信息处理', '周末漫谈_高维流形上的神经网络收敛_Transformer_的数学本质', '人脑的工作原理_神经网络', '共时分享_复杂社会系统中的涌现行为及动力学模式', '类脑脉冲模型如何突破Transformer效率瓶颈_瞬悉1_0技术深度解析', 'getnote_2025-06-25_意识最小单位之谜', 'getnote_2025-06-25_AI梦境与意识涌现', 'getnote_2026-06-28_TCC BP', '大脑任务切换的神经机制_整洁_框架与_杂乱_现实的整合研究', '_线性代数_一名合格科研人的筑基课_特别加餐_透视复杂网络的核心_特征值与特征向量初探_上_']
 [self_evolve] 运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...
+[self_evolve] import_processor 退出码=0 | enspark=0, 得到大脑=0, Codex=0
+[03:07:32] Total new files in raw/: 0
+[03:07:32] Inbox pending: 34 files
+[03:07:32] New imports detected — wiki_compiler.py should be triggered next
+[03:07:32] === Done ===
+
+[self_evolve] task_recommender 退出码=0 | sights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+[03:07:44] === Done ===
+
+[self_evolve] research_evolution 退出码=0 | [03:07:44] === Research Evolution Engine ===
+[03:07:44] Hypothesis updates: 0
+[03:07:44] Research directions: 0
+[03:07:44] Report: wiki/evolution_report.md
+[03:07:44] === Done ===
+
+[self_evolve] cross_domain_insight 退出码=0 |   iNEST: FeFET_Polarization_Switching, FerroelectricSynapticArray, GeTeBasedCBRAM
+
+Cross-domain articles: 1
+  大模型推理四个阶段的最佳拓扑证明 (TCC:3 iNEST:2)
+
+Report: D:\Obsidian\vault\wiki\cross_domain_insights.md
+
+[self_evolve] 刷新 Home.md (实时 git)...
+[self_evolve] homepage 退出码=0 | [03:07:45] === Homepage Generator ===
+[03:07:45] 70_Dashboard/data.js generated
+[03:07:45] Home.md generated (5342 chars)
+[03:07:45] === Done ===
+
+[self_evolve] git add 部分目录无匹配(正常): The following paths are ignored by one of your .gitignore files:
+knowledge_graph
+hint: Use -f if you
+[self_evolve] 已提交 3202 个文件。
+[self_evolve] 已推送 github main。
+[self_evolve] === 自进化编排结束 | 各步: {'compile': True, 'grow': True, 'health': {'date': '2026-08-07', 'total_notes': 8692, 'missing_frontmatter': 219, 'broken_links': 2105, 'broken_samples': [('GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_', 33), ('论文', 28), ('GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查', 19), ('GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述', 18), ('The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025', 16), ('GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_', 14), ('GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景', 14), ('GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破', 13), ('GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订', 12), ('GetNote_20260606_100554_kb_iNEST_getnote_1887266194235479456_晶上大脑基础研究课题', 12), ('C.elegans', 11), ('GetNote_20260606_100554_kb_DARPA-research_getnote_1896186120829089320_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径', 11), ('getnote_2026-06-28_拓扑中心计算范式架构研究与液态拓扑生成式计算原型验证项目指南 8.0', 11), ('GetNote_20260606_100554_kb_iNEST_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景', 11), ('2025年10月28号 日记', 11), ('GetNote_20260606_100554_kb_DARPA-research_getnote_1896186147673664688_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态', 10), ('GetNote_20260606_100554_kb_iNEST_getnote_1898552298842526592_神经网络时空协同智能涌现', 10), ('GetNote_20260606_100554_kb_iNEST_getnote_1899812152336800288_吴华强团队与iNEST技术互补', 10), ('2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly', 10), ('GetNote_20260606_100554_kb_iNEST_getnote_1898553563710340192_晶圆级神经网络能效革命', 9), ('GetNote_20260606_100554_kb_project-guide_getnote_1906074590464742600_海河实验室', 9), ('30_TCC\\34_Projects\\_from_ideas\\卫星智能体重大专项建议_v4.md', 9), ('00_Inbox/_pipeline_insights/八大神经网络，从原理到应用', 9), ('复杂网络理论奠基之作深度解析_Complex_networks_Structure_and_dynamics_', 8), ('GetNote_20260606_100554_getnote_1911847292798033216_软件定义晶上系统赋能超线性增益与智能涌现范式报告提纲设计', 8)], 'orphan_notes': 2432}, 'grow_concepts': ['浙江大学集成电路学院Nano_Letters_可重构神经形态计算，用于多功能神经信息处理', '周末漫谈_高维流形上的神经网络收敛_Transformer_的数学本质', '人脑的工作原理_神经网络', '共时分享_复杂社会系统中的涌现行为及动力学模式', '类脑脉冲模型如何突破Transformer效率瓶颈_瞬悉1_0技术深度解析', 'getnote_2025-06-25_意识最小单位之谜', 'getnote_2025-06-25_AI梦境与意识涌现', 'getnote_2026-06-28_TCC BP', '大脑任务切换的神经机制_整洁_框架与_杂乱_现实的整合研究', '_线性代数_一名合格科研人的筑基课_特别加餐_透视复杂网络的核心_特征值与特征向量初探_上_'], 'phase4': {'import_processor': True, 'task_recommender': True, 'research_evolution': True, 'cross_domain_insight': True}, 'homepage': True, 'git': True} ===

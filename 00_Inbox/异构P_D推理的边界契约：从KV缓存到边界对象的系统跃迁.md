@@ -16,6 +16,7 @@ tags:
 date: 2026-08-04 21:00
 source: GetNotes
 score: 17
+aliases: ["异构P/D推理的边界契约：从KV缓存到边界对象的系统跃迁"]
 ---
 
 ## Original Note

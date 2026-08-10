@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Contested_Priors_Architecture]]
+[[Critical_Exponent_Scaling]]
 [[DynamicalCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]

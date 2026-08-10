@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
+[[Evolutionary_Computability]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

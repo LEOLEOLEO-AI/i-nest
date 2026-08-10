@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[GeometricNeuromorphicFusion]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

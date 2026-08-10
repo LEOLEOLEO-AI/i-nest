@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[DynamicalSelfDualCriticality]]
+[[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[NishimoriLine]]
 [[Self_Organized_Criticality]]

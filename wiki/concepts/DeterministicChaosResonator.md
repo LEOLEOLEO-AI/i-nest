@@ -29,8 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[ApplicationScenarioReconstruction]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CST_CoordinationMechanism]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[CrossInstitutionalNetwork]]
+[[CrystalPalace_Program]]
 [[Reservoir_Computing]]
 
 ## Sources

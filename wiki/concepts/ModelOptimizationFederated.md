@@ -32,15 +32,17 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[PhotoIontronicSynapse]]
-[[PhysicalFirstPrinciples]]
+[[Physical_First_Principles]]
 [[SDI_Bond]]
 [[SDI_Chiplet]]
 [[SDI_Chiplet_Interconnect]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SpikePacketCompression]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

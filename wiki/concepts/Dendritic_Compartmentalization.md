@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ScaleFreeNetwork]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

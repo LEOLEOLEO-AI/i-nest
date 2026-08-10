@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[LargeScalePhotonicIntegration]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

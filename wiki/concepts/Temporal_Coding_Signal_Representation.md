@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
+[[Controlled_Release_Kinetics]]
 [[ElasticInferenceScheduling]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]

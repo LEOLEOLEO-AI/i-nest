@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AlternativeBridgingModels]]
 [[Contested_Priors_Mechanism]]
+[[Course_Based_FPGA_Prototyping]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

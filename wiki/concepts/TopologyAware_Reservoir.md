@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BandedNonHermitianRandomMatrices]]
 [[BoundaryObject_Abstraction]]
+[[CST_MasterEquation]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

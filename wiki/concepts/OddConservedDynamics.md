@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Accessibility_Plasticity]]
 [[ActivityAvalanche]]
+[[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolutionCoupler]]
 [[DelayPropagationDynamics]]

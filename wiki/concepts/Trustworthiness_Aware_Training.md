@@ -25,10 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_To_Information_Conversion]]
 [[AssociativeMemoryTopology]]
+[[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 
 ## Sources

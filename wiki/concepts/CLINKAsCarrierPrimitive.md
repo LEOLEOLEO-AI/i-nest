@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
+[[TopologyProgramming]]
 [[iNEST]]
 
 ## Sources

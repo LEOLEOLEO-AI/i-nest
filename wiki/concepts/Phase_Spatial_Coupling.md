@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpikeTimingFidelity]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

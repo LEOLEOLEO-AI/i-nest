@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Avalanche_Dynamics]]
 [[CriticalityConstrainedPruning]]
+[[CriticalityDrivenAdaptation]]
 [[Criticality_Induced_Plasticity]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Intelligence_Threshold]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuronal_Avalanche_Dynamics]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

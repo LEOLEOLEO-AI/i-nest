@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseDiagram]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[HighTemporalResolutionSensing]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

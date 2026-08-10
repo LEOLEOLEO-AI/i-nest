@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[DisorderedNetworkInterconnect]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

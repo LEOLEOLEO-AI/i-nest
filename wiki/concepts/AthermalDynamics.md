@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[CellEmergence]]
 [[DistinguishableHelium4]]
+[[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[EventDrivenAttention]]
 [[Intelligence_Emergence]]

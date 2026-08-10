@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[DTGA]]
+[[Dimensionality_Modularity_Tradeoff]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

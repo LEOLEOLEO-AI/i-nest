@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[Free_Energy_Topology_Mapping]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[MultiModel_Adapter_Architecture]]

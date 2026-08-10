@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[BioPlausiblePredictiveCoding]]
 [[CellEmergence]]
+[[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[ExtrinsicAnomalousHallConductivity]]
 [[Intelligence_Emergence]]

@@ -24,6 +24,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[CST计量仪]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
@@ -31,5 +33,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[iNEST]]
 [[复杂网络]]
 [[拓扑深度学习捕捉数据的高阶关系：信息传递拓扑神经网络概述]]
+[[涌现]]
 [[物理学AI新范式]]
 [[研究进展：AI+新材料，5篇类脑智能]]
+[[神经网络]]

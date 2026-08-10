@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalQuantumLearningRule]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[STDP_Plasticity]]

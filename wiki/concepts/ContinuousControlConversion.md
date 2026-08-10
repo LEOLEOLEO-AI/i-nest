@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Prototyping]]
+[[EEGSpikeEncoding]]
 [[EnsembleCreditAssignment]]
 [[SNN]]
 [[Spiking_Neural_Network]]

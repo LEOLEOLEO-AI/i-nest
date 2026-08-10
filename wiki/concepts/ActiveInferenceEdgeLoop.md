@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Microfluidic_Worm_Trap_Array]]
 [[MultiModel_Adapter_Architecture]]
+[[Multi_Device_Coordination]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

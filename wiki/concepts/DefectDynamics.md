@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Bond]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[SelfOrganizedLearning]]
 [[SpikeTimingDependentOptimization]]
 [[Spiking_Neural_Network]]

@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AutonomousSpikingDynamics]]
+[[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenAttention]]
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]

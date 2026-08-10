@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EdgeIoTEnergyAwareness]]
 [[ErrorAmplificationLimits]]
+[[EventDrivenMotionDeblurring]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Chiplet]]

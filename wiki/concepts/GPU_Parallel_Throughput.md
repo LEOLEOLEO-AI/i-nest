@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousSpikingDynamics]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Branch_Prediction]]
+[[DirectTrainingSNN]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

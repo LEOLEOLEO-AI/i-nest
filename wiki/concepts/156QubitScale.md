@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[ForwardFluctuationGradient]]
 [[HoldingManeuverDelayPrediction]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

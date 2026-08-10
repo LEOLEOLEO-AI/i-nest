@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompressiveSensing]]
 [[Analog_Computation]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[Chain_of_Thought_Reasoning]]
 [[CrossInstitutionalNetwork]]
 [[EquivariantGraphLayers]]

@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[CrossInstitutionalNetwork]]
 [[CrossLayer_SignalRouting]]
 [[EdgeIoTEnergyAwareness]]
+[[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Spiking_Neural_Network]]

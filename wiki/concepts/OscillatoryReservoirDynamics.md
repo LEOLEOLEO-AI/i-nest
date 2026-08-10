@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[StreamDataflowArchitecture]]
 [[iNEST]]
 
 ## Sources

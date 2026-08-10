@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]
 [[Network_on_Chip]]
+[[Neuromorphic_NoC_Routing]]
 [[NoC_EventRouting]]
 [[OnChipOpticalTweezers]]
 [[QuarantineCostTradeoff]]

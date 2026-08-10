@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
+[[AdaptiveCombinerWeighting]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]

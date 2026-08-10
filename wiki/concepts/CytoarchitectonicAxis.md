@@ -27,9 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NonEquilibriumComputing]]
 [[Photonic_Chiplet_Interconnect]]
 [[QuantumChaos]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 
 ## Sources

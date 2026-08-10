@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Agent_Interaction_Sequencing]]
 [[Avoided_Criticality]]
+[[CriticalityInNeuralNetworks]]
 [[Criticality_Driven_Coding]]
 [[DisorderDrivenQuantumPhaseTransition]]
 [[Dynamic_Expert_Fusion]]

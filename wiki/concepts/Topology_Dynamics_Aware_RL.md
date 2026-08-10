@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
 [[Accessibility_Plasticity]]
+[[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticMultimodeBend]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[ReconfigurableSpikingRouting]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

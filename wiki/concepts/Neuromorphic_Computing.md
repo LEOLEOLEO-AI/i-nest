@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN动力学]]
 [[Attention_Residuals]]
+[[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]

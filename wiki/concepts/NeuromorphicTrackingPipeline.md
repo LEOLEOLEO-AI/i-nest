@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AI_Forum_Demo_Narrative]]
 [[Architectural_Conditioning]]
 [[BurstGatedRouting]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_Sensing]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]

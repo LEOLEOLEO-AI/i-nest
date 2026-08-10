@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OnChipOpticalTweezers]]
 [[Reservoir_Computing]]
+[[SDSoW_Strategic_Planning]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

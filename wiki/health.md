@@ -1,12 +1,12 @@
 # Knowledge Health Report
 
-**Generated**: 2026-08-07
-**Last Grow**: 2026-08-07
+**Generated**: 2026-08-10
+**Last Grow**: 2026-08-10
 
 ## Stats
-- **Total Concepts**: 3272
-- **Total Articles**: 789
-- **Orphan Concepts**: 1642
+- **Total Concepts**: 3362
+- **Total Articles**: 808
+- **Orphan Concepts**: 1588
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
@@ -16,28 +16,24 @@
 - [[400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述]]
 - [[AGI面临的挑战 _ 脑机制自底向顶梳理 下部 5万字]]
 - [[AIInnovationPlatform]]
+- [[AI_Infrastructure_Commercialization]]
 - [[AI_Material_Design_Production_Gap]]
+- [[AI_Supply_Chain_Increment]]
 - [[Academic_Integrity_Assessment]]
-- [[Accessibility_Gradient]]
-- [[ActionWeightedPathEnsemble]]
 - [[ActiveInferenceTopology]]
 - [[AdaptiveGraphDiffusion]]
-- [[AdditiveTopology_Embedding]]
-- [[AdversarialSensingResilience]]
 - [[AgranularLimbicInclusion]]
-- [[Air_Combat_Autonomy]]
-- [[Airborne_Link_Diversity]]
 - [[AirportNetworkGraphEmbedding]]
+- [[AlgorithmHardware_CoDesign]]
 - [[AlgorithmicPhaseTransition]]
+- [[AmoebaInspiredLocomotion]]
 - [[AmortizedRegretSeparation]]
-- [[AmplifyingNetworkTopology]]
 - [[AnalyticalMobilityEdgeSolution]]
 - [[Anomaly_Protected_Scaling_Law]]
 - [[AperiodicLatticeTransport]]
 - [[ArchitecturalGrounding]]
 - [[ArchitecturalIllusion]]
 - [[ArxivMetadataEnrichment]]
-- [[Associative_Memory_Unification]]
 - [[AsymmetricTimeDelayedInteractions]]
 - [[Asymmetric_Interaction_Matrix]]
 - [[Asymmetric_Technology_Overmatch]]
@@ -45,12 +41,16 @@
 - [[AthermalRandomFieldBlumeCapel]]
 - [[AtomicGeometryToElectronicTopologyMapping]]
 - [[AttentionLikeHebbianPlasticity]]
-- [[AttractorNeuralNetwork]]
 - [[AutoAssociativeMemoryRobustness]]
 - [[Automated_Assessment_Framework]]
 - [[AutonomousAirCombat]]
 - [[AutonomousCombatScenarios]]
-- ... 1602 more
+- [[Autonomous_Unmanned_Combat_Coordination]]
+- [[Autonomous_Unmanned_Combat_Networking]]
+- [[B3_Competition_Landscape]]
+- [[B3_Paper_Competitive_Landscape]]
+- [[B7_TCC OneFabric_论文计划]]
+- ... 1548 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

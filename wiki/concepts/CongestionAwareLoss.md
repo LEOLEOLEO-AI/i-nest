@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[WaveBasedInformationRouting]]
+[[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[新型计算]]
 [[神经形态计算]]
 [[类脑芯片]]

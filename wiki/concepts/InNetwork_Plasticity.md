@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuroactiveCompoundTherapeutics]]
 [[Neuromorphic_Computing]]
 [[OnlinePlasticity]]
+[[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
 

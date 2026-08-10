@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Memristor_Device]]

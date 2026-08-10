@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]

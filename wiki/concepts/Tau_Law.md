@@ -21,13 +21,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[DirectConnect_Topology]]
 [[External_to_OnDie_Evolution]]
 [[Heterogeneous_Inference_Offload]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[ReproducibleReservoirOutput]]
+[[Reservoir_Computing]]
 [[Space_Compute_Architecture_Tradeoff]]
 [[TCC]]
 

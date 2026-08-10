@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[CollectiveDynamics]]
+[[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

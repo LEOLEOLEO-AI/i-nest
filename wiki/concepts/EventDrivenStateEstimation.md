@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenComputation]]
 [[EventDrivenInferencePipeline]]
+[[EventDrivenInference]]
+[[EventDrivenSpectralProcessing]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

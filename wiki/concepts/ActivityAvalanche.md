@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BurstGatedRouting]]
+[[CriticalStateInformationMaximization]]
 [[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence_Threshold]]

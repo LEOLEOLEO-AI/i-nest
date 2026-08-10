@@ -29,12 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[Nonlinear_Topology_Amplification]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

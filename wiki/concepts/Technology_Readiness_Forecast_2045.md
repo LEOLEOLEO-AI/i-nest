@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardwareDeployment]]
 [[NeuromorphicHardware]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]

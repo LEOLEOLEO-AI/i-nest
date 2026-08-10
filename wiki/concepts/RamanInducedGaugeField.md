@@ -19,10 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Accessibility_Plasticity]]
 [[AdiabaticMultimodeBend]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CST_Equation]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Electronic_Warfare_Integration]]
 [[Intelligence_Emergence]]

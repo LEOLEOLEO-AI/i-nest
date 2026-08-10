@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BitPrecisionAwareScheduling]]
 [[CognitiveSupportTopology]]
+[[CollectiveConsensus]]
 [[EmergentPatternFormation]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

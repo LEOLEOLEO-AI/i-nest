@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[SDI_Bond]]
 [[SDI_Chip_Indicator_Change]]
+[[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SuperparamagneticSwitchingRate]]

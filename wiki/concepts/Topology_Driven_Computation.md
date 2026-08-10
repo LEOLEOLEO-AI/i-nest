@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
+[[AdaptiveEntanglementManagement]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]

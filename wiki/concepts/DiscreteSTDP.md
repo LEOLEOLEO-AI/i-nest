@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
+[[Memristive_STDP]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]

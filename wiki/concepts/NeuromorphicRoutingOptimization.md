@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Model_Routing_Protocol]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[SNN]]
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]

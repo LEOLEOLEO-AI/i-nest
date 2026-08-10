@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Swarm_Coordination]]
+[[SynapticReinforcementConsolidation]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

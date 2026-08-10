@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[Closed_Loop_Neuromodulation]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

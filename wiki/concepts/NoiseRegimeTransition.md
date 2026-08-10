@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Izhikevich_NeuronModel]]
 [[MassConservationBias]]
 [[MassConservationInductiveBias]]
+[[Monitored_Quantum_Circuits]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Physical_Reservoir_Substrate]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Topology]]
 [[iNEST]]
 
 ## Sources

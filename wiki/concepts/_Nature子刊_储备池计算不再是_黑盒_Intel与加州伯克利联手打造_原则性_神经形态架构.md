@@ -23,6 +23,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[PPT]]
 [[Reservoir_Computing]]
@@ -32,4 +33,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[_Nature大子刊_脑机接口重大突破_清华吴华强团队打造_忆阻器神经形态解码器_意念控制无人机]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[iNEST]]
+[[忆阻器]]
+[[晶圆级忆阻器无源交叉阵列制造技术_脑规模神经形态计算突破_]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[神经形态计算]]
+[[神经网络]]

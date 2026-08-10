@@ -28,11 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Diagnostic]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[NonEquilibriumComputing]]

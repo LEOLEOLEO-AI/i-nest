@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[CLINKAsCarrierPrimitive]]
+[[CST_Spatiotemporal_Complexity]]
 [[Chiplet_Heterogeneous_Integration]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

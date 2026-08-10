@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
 [[MetaFAIR_ArchitectureDiscovery]]

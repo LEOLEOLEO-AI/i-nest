@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
+[[BayesianDomainEvolution]]
 [[CounterstreamSignalPropagation]]
 [[Cytokine_Feedback_Loops]]
 [[Dynamic_Expert_Fusion]]

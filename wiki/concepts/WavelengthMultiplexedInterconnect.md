@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[Cryogenic_Syndrome_Compression]]
+[[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

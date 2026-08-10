@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[CoPackagedOptics]]
 [[CommunicationPrimitiveTopologyCoupling]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]

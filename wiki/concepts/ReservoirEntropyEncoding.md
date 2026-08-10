@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MeasurementInducedNonlinearity]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

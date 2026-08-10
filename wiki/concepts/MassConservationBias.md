@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Izhikevich_NeuronModel]]
 [[MassConservationInductiveBias]]
 [[Monitored_Quantum_Circuits]]
+[[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

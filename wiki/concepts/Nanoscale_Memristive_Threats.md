@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
+[[MeanFieldSpinGlass]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

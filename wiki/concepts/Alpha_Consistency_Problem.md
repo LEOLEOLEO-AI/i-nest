@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_MVP]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]
+[[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[CST_Equation]]
 [[Chiplet_Heterogeneous_Integration]]

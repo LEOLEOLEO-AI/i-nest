@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
+[[DirectConnect_Topology]]
 [[EMIB_Bridge]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

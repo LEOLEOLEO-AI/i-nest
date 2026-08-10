@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Compressed_Glass_Network]]
 [[Emergent_Intelligence_Threshold]]
 [[GateBasedQuantumReservoir]]
+[[HardwareAware_DesignSpace]]
 [[InNetwork_Topological_Reservoir]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

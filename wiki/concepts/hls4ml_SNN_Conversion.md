@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

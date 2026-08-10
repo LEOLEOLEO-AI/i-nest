@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
 [[Loihi2_OnChip_Learning]]
+[[Metriplectic_Twin]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

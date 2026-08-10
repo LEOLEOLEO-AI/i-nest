@@ -4,6 +4,7 @@ title: "复杂网络 节点重要性 GNN-Based"
 created: 2026-07-07
 modified: 2026-07-07
 provenance: external
+aliases: ["复杂网络|节点重要性|GNN-Based"]
 ---
 # 复杂网络|节点重要性|GNN-Based
 

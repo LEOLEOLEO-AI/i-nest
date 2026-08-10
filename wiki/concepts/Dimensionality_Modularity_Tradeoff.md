@@ -31,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Pods4Rail_Topology]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganization]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

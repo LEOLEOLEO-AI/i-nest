@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_IC_Stacking]]
+[[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging]]
 [[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Probe]]

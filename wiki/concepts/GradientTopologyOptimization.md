@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
+[[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]

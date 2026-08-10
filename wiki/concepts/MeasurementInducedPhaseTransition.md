@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenPlasticity]]
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

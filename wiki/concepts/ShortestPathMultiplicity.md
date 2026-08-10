@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
+[[Accessibility_Plasticity]]
 [[AdiabaticModeEvolutionCoupler]]
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]

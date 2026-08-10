@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CommunicationAsComputation]]
+[[CorticalTypeDiversity]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LargeScalePhotonicIntegration]]
 [[Memristor_Synapse]]

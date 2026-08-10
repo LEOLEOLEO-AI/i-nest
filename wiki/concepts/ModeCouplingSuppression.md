@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[BackscatteringImmunity]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[ChipletOpticalIO]]
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]

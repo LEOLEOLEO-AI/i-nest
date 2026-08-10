@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FitnessPhaseTransition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[OpenLearningEcosystem]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Architecture_Search]]
+[[AdaptiveSTDP]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]

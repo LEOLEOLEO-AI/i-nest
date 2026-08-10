@@ -31,8 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[NoiseModulated_SynapticPlasticity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingAttentionComplexityReduction]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

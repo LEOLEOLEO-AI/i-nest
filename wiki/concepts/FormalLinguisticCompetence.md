@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalBayesianCommunityDetection]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MacroCriticalityEmergence]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]

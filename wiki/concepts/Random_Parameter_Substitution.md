@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlocks]]
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
+[[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]

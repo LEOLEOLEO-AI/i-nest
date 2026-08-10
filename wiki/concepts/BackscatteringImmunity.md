@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
+[[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[ChipletTopologyAwareness]]

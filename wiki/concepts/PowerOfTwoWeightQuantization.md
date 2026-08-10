@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Layered_Attractive_Hubbard_Model]]
 [[Loihi2_OnChip_Learning]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SNN]]

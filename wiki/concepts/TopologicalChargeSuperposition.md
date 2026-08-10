@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[Spiking_neural_network_dynamics]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

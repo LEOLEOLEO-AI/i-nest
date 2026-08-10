@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Enabled_Battlefield_Autonomy]]
+[[Accessibility_Plasticity]]
 [[Active_Inference_Architecture]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[CirculateFiringNeuron]]

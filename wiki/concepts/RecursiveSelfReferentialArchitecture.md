@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleNeuromorphicDisturbanceObserver]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
+[[BurstTemporalPlasticity]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

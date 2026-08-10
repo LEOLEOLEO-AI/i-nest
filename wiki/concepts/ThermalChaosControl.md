@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BrainScaleTopologyExploitation]]
 [[ChannelEventSparsity]]
+[[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 

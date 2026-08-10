@@ -36,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 [[智能涌现]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

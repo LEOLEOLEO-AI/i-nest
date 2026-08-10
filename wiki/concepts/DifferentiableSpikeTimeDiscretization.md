@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]
+[[DelayAwareSpikeEventDelivery]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

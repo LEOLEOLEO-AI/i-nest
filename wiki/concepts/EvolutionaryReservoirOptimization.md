@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[AstrocyteInspiredRepair]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

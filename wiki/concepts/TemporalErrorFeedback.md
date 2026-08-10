@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[CriticalityConstrainedPruning]]
+[[EEGSpikeEncoding]]
 [[EventDrivenSynchronization]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

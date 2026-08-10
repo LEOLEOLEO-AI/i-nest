@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[DisorderDrivenQuantumPhaseTransition]]
 [[Dynamic_Expert_Fusion]]
+[[FibonacciMonitoredCriticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

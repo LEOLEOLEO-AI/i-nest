@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
+[[CoDesigned_SNN]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

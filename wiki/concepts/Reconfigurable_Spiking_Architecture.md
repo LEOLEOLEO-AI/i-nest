@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenModularArchitecture]]
+[[FPGA_SNN_Inference]]
 [[FlexibleNeuromorphicAccelerator]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

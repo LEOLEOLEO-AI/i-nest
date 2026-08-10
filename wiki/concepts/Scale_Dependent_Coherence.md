@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Memristive_Solutions]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Chiplet]]

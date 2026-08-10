@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]
+[[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[BackflowTransformation]]
 [[Dynamic_Expert_Fusion]]

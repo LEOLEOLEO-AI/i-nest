@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[MultibodyInteractionCascade]]
 [[NeuralPrecision]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

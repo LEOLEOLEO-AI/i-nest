@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integration]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging_for_Space]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

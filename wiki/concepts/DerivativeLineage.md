@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ContactOpportunityExploitation]]
 [[DoobBarrierConditioning]]
 [[EarlyVisualAlignment]]
 [[Intelligence_Emergence]]

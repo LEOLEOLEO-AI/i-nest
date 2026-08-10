@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AnomalousSpinTransport]]
 [[CellEmergence]]
+[[DendriticReservoirState]]
 [[EdgeIoTEnergyAwareness]]
 [[EmergentOrder]]
 [[Emergent_Reservoir_Topology]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[SwarmGradientRouting]]
+[[Synaptic_Plasticity]]
 [[TopologicalFeatureInvariance]]
 [[iNEST]]
 

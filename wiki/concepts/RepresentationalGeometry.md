@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[DefectDynamics]]
+[[Memristive_STDP]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

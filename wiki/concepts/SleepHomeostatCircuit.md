@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ElasticInferenceScheduling]]
 [[EmulationTheoryObserver]]
 [[EventCameraPoseInput]]
+[[ImpactFallDetection]]
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

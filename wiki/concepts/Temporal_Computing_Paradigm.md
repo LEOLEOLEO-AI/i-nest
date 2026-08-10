@@ -26,9 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[AutonomousSpikingDynamics]]
 [[DelayCodedWorkingMemory]]
+[[EventDrivenComputation]]
+[[EventDrivenFunctionalConnectivity]]
 [[Neuromorphic_Computing]]
 [[STDP_MemristiveLearning]]
+[[STDP_Plasticity]]
 [[Selection_Theorems]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

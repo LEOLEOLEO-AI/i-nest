@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[LocalQuantumLearningRule]]
 [[Memristive_STDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[On_Chip_STDP_Learning]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 [[脉冲神经网络]]
 
 ## Sources

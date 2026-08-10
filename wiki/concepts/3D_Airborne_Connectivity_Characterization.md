@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Allreduce_Latency_Probe]]
+[[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
 [[Complex_System]]
 [[Complex_System_Theory]]

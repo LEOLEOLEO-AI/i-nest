@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[PhaseLockedTopologyMapping]]

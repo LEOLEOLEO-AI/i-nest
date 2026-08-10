@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Trace_Diagnostics]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
+[[IndexOrderingOptimization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

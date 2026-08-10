@@ -1,0 +1,38 @@
+---
+title: "VortexUnbinding"
+type: concept
+domain: iNEST
+created: 2026-08-10
+auto: true
+---
+
+# VortexUnbinding
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-10
+
+## Definition
+The process by which bound vortex-antivortex pairs dissociate at a critical temperature, leading to a loss of quasi-long-range order in two-dimensional systems. This mechanism can be harnessed to create threshold-based spiking dynamics in neuromorphic hardware, mimicking neural firing events.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[AI_Driven_Architecture_Search]]
+[[AI_Faculty_Forum_2026]]
+[[ANN_SNN_WeightSpaceGap]]
+[[Agent_Interaction_Sequencing]]
+[[AutonomousSpikingDynamics]]
+[[Avoided_Criticality]]
+[[NeuromorphicHardware]]
+[[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

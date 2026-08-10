@@ -6,6 +6,7 @@ created: 2026-08-01
 refs: 2
 aliases:
 - "RISC-V 鏋舵瀯涓?SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚?LLM 浣庡欢杩熸帹鐞嗕笌璁粌"
+aliases: ["RISC-V 鏋舵瀯涓?SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚?LLM 浣庡欢杩熸帹鐞嗕笌璁粌"]
 ---
 # RISC-V 鏋舵瀯涓?SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚?LLM 浣庡欢杩熸帹鐞嗕笌璁粌
 
@@ -36,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Complex_System_Theory]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

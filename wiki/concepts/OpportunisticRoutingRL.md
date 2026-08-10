@@ -27,12 +27,15 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[EventDrivenRiskAssessment]]
 [[ExplainableEnergyAI]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[神经形态计算]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

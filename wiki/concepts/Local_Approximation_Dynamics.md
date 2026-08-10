@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BioPlausiblePredictiveCoding]]
 [[CollectiveDynamics]]
 [[CrossLayer_SignalRouting]]
 [[ElasticSpikingTransformer]]

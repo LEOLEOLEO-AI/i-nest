@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LocalMeasurementSheaf]]
 [[Memristive_Topology]]
+[[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[NonHermitianTopology]]
 [[Nonlinear_Gain]]

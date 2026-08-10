@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AvalancheBranchingRatio]]
+[[BioInspired_Interception_Control]]
 [[BranchingRatio]]
 [[BurstGatedRouting]]
 [[CriticalityDrivenTopology]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EmulationTheoryDisturbanceObserver]]
 [[EventDrivenMotionDeblurring]]
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]

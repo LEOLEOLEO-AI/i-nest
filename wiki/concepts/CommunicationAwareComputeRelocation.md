@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
+[[FatalityDrivenRewiring]]
 [[FlagOS_2_0]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]

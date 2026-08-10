@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Evolutionary_Structure_Computability]]
+[[Free_Energy_Principle_Network]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

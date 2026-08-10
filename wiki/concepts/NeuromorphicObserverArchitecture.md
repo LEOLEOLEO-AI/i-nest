@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveLocalLearning]]
+[[BrainBodyResonance]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]

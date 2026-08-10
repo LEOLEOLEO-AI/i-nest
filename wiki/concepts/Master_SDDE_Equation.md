@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DendriticTaskPartitioning]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]

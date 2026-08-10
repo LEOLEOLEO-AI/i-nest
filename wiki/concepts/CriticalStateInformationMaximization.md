@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[ActivityAvalanche]]
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

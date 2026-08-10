@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]

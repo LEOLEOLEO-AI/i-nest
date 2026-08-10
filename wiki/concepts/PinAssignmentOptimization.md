@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Hierarchical_Interconnect]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[PhononicBandgapEngineering]]
 [[ReconfigurableSpikingRouting]]
@@ -36,7 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Aware_Packaging]]
 [[VerticalOpticalInterconnect]]
 [[ViewDependentAppearance]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

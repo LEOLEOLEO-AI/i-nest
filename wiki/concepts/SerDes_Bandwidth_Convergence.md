@@ -31,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[Heterogeneous_Integration]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[Network_on_Chip]]
+[[NoC_SDI_Topology]]
 [[TCC]]
 
 ## Sources

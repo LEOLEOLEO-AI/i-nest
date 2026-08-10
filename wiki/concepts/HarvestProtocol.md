@@ -31,8 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[ChipletSignalIntegrity]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[DirectConnect_Topology]]
+[[Evolutionary_Structure_Computability]]
+[[Heterogeneous_Integration]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

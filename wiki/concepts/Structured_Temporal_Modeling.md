@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]
+[[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
 [[CirculateFiringNeuron]]
 [[Complex_System]]

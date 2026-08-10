@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[Boundary_Criticality]]
 [[BranchingRatio]]
+[[CST_Theory_V27_FINAL]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EdgeIoTEnergyAwareness]]

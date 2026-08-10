@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[Multifractal_Signatures]]
+[[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SNN]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[CriticalityInNeuralNetworks]]
+[[CriticalityOnSmallWorlds]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]
 [[RecursiveSelfReferentialArchitecture]]

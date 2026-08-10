@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SolitonLikeWaves]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[iNEST]]

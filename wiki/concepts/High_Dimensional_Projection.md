@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[CST_CoordinationMechanism]]
+[[Complex_System_Theory]]
+[[CrossInstitutionalNetwork]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Spiking]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RestingStateEEG_Connectivity]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingMoE_SDPrompt]]

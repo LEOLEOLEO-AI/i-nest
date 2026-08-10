@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[SDSoW]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

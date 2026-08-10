@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

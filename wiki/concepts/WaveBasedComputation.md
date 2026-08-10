@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[EEGToNeuromorphicMapping]]
 [[Interconnect_Routing]]
+[[NestedRepresentation]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

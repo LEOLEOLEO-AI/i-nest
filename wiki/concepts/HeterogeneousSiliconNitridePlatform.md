@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[DataMovementMinimization]]
 [[Decoupled_Priors]]
 [[DistributedTrainingCommunicationPattern]]
+[[EntanglementAwareRouting]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SiliconPhotonicsNetwork]]

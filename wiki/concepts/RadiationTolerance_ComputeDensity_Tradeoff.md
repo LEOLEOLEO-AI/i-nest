@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdsorptionBiosorptionHybrid]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
+[[Chiplet_Heterogeneous_Integration]]
 [[External_to_OnDie_Evolution]]
 [[FlagOS_2_0]]
 [[HeterogeneousChipletIntegration]]
@@ -29,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InverseDesignedPhotonicAccelerator]]
 [[LargeScalePhotonicIntegration]]
 [[Network_Topology_Design]]
+[[OnDie_Fusion]]
 [[TCC]]
 
 ## Sources

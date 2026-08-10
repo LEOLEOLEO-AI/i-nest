@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[EmulationTheoryObserver]]
 [[Entropy_Connectivity_Path]]
+[[GCML_Cognitive_Map]]
 [[Memristor_Synapse]]
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]

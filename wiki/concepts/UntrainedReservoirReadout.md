@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[ForwardFluctuationGradient]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

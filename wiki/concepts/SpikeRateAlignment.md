@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
+[[BigBrainCellularAxis]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[RobustnessToSensorNoise]]
 [[SDI_Bond]]

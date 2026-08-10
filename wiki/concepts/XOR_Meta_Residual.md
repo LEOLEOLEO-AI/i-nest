@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CurrentInjectionSNN]]
 [[DeeplySupervisedSpiking]]
+[[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Accessibility_Plasticity]]
 [[AdaptiveFunctionalTopology]]

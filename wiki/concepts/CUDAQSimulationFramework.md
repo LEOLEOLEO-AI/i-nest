@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRadarFrontend]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[OpenSource_Neuromorphic_Framework]]
 [[Representation_Learning_Generalization]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

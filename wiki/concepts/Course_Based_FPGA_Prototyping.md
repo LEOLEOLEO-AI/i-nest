@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[NeuralVariabilityEnhancement]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[SNN]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamical_State_Space]]
 [[Emergent_Intelligence_Threshold]]
 [[FC2_Goal_Representation]]
+[[FastSlow_Dynamics]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[AdaptiveTimeStepTraining]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[BioPlausibleNeuromorphicDisturbanceObserver]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

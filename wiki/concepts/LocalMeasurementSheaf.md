@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplosiveTransitionThreshold]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[NonHermitianTopology]]
 [[Nonlinear_Gain]]

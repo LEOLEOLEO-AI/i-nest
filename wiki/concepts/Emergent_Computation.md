@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DendriticReservoirState]]
 [[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

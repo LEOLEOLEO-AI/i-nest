@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalityOnSmallWorlds]]
 [[Criticality_Induced_Computation]]
+[[Criticality_Transition]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

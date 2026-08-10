@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[PhotoIontronicSynapse]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[iNEST]]

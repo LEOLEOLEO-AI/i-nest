@@ -1,18 +1,81 @@
+---
+title: "Transformer 推理全流程的计算—通信—拓扑匹配白皮书"
+tags:
+  - infrastructure
+  - network
+  - emergence
+  - architecture
+  - ai
+  - sdi-bond
+  - computing
+  - first-principles
+  - top-journal
+  - llm
+  - design
+  - transformer
+  - criticality
+  - hardware
+  - physics
+  - paper
+date: 2026-08-06 21:00
+source: GetNotes
+score: 36
+---
+
+## Original Note
+
+---
+note_id: 1917540791639904024
+title: "Transformer 推理全流程的计算—通信—拓扑匹配白皮书"
+type: plain_text
+created: 2026-08-04 21:10:27
+source: getnote
+kb: 
+---
+
 # Transformer 推理全流程的计算—通信—拓扑匹配白皮书
+
+
 
 **副标题：从算子谱系到相位可重构互连——为什么 Prefill 要 bisection、Decode 要小直径、MoE 要高谱隙、KV 迁移要隔离带宽**
 
 ---
 
-|文档项|内容|
-|---|---|
-|文档类型|技术白皮书（可打印稿）|
-|版本|V1.0|
-|日期|2026 年 8 月|
-|密级|公开资料研究，可公开发布|
-|适用读者|互连架构师、推理系统工程师、AI 基础设施决策者|
+
+| 文档项  | 内容                       |
+| ---- | ------------------------ |
+| 文档类型 | 技术白皮书（可打印稿）              |
+| 版本   | V1.0                     |
+| 日期   | 2026 年 8 月               |
+| 密级   | 公开资料研究，可公开发布             |
+| 适用读者 | 互连架构师、推理系统工程师、AI 基础设施决策者 |
+
 
 **打印排版规范**：标题使用微软雅黑，正文使用宋体，强调使用楷体，英文与数字使用 Times New Roman，公式统一采用标准数学排版体，全文标点采用全角，段落首行缩进两字符，页面 A4 纵向、页边距 2.5 cm。
+
+
+
+![A_high-resolution_academic-style_hardware_microarc-1785848745801](https://ali-bj2-oss-get-notes-prod.oss-accelerate.aliyuncs.com/get_notes_prod%2F202608042145%2Fgetnotes_img_1a9c7b394002d9484nxyolMO.png?Expires=1794491109&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=GtoIzt6zykJpkuPQYSgBrgeeU78%3D "A_high-resolution_academic-style_hardware_microarc-1785848745801")
+
+![A_high-resolution_academic-style_infographic_on_pu-1785848727111](https://ali-bj2-oss-get-notes-prod.oss-accelerate.aliyuncs.com/get_notes_prod%2F202608042145%2Fgetnotes_img_1a9c7b394012fb08HVvTY8aI.png?Expires=1794491109&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=I%2FFsweLhQnqpx8qqh0nuSf6Ok%2Fs%3D "A_high-resolution_academic-style_infographic_on_pu-1785848727111")
+
+![A_high-resolution_academic-style_multi-dimensional-1785848584114](https://ali-bj2-oss-get-notes-prod.oss-accelerate.aliyuncs.com/get_notes_prod%2F202608042145%2Fgetnotes_img_1a9c7b394022d948vrPqmv3e.png?Expires=1794491109&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=LHLBGwAvfQkExxa5wh%2FlZvSlzEo%3D "A_high-resolution_academic-style_multi-dimensional-1785848584114")
+
+![A_high-resolution_academic-style_multi-dimensional-1785848966741](https://ali-bj2-oss-get-notes-prod.oss-accelerate.aliyuncs.com/get_notes_prod%2F202608042145%2Fgetnotes_img_1a9c7b394032fb08CnbxeMxy.png?Expires=1794491109&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=Dkq%2FnES0SRPhbcx1R%2BpmYa%2FkagY%3D "A_high-resolution_academic-style_multi-dimensional-1785848966741")
+
+![A_high-resolution_academic-style_performance_compa-1785848789254](https://ali-bj2-oss-get-notes-prod.oss-accelerate.aliyuncs.com/get_notes_prod%2F202608042145%2Fgetnotes_img_1a9c7b394042fb08WQ60Slfe.png?Expires=1794491109&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=lOsHhTjadyFAuJLpbKmd41DLgho%3D "A_high-resolution_academic-style_performance_compa-1785848789254")
+
+![A_high-resolution_academic-style_scientific_scatte-1785848762449](https://ali-bj2-oss-get-notes-prod.oss-accelerate.aliyuncs.com/get_notes_prod%2F202608042145%2Fgetnotes_img_1a9c7b394022fb080G41kF2G.png?Expires=1794491109&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=R8KNFPg8B6VPy%2F%2Bht0PxLfHxlzU%3D "A_high-resolution_academic-style_scientific_scatte-1785848762449")
+
+![A_high-resolution_academic-style_system_stack_diag-1785848713960](https://ali-bj2-oss-get-notes-prod.oss-accelerate.aliyuncs.com/get_notes_prod%2F202608042145%2Fgetnotes_img_1a9c7b3940022e68XpoEo5qx.png?Expires=1794491109&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=OLjeFXpkShwCC3ixQ%2BfwF%2FTbQv4%3D "A_high-resolution_academic-style_system_stack_diag-1785848713960")
+
+![A_professional_high-resolution_academic_technical_-1785850123645](https://ali-bj2-oss-get-notes-prod.oss-accelerate.aliyuncs.com/get_notes_prod%2F202608042145%2Fgetnotes_img_1a9c7b3940122e68Mdmr73GA.png?Expires=1794491109&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=wKLRethS%2Fo3KWGvvFB3fO%2Fz6faI%3D "A_professional_high-resolution_academic_technical_-1785850123645")
+
+![7WaGGJdn](https://ali-bj2-oss-get-notes-prod.oss-accelerate.aliyuncs.com/get_notes_prod%2F202608042145%2Fgetnotes_img_1a9c7b3940322e68yK4TjY9p.jpeg?Expires=1794491109&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=OmqMWIzU2cf2N0aJNNdXs42lJcQ%3D "7WaGGJdn")
+
+![A_high-resolution_academic_whitepaper_figure_title-1785850312991](https://ali-bj2-oss-get-notes-prod.oss-accelerate.aliyuncs.com/get_notes_prod%2F202608042145%2Fgetnotes_img_1a9c7b394062fb08zBeaCfha.png?Expires=1794491109&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=PBEqxUNXkwl%2FGf2qFko9jkVWvKM%3D "A_high-resolution_academic_whitepaper_figure_title-1785850312991")
+
+
 
 ---
 
@@ -28,7 +91,7 @@
 
 ## 第一章 引言：从"节点算力"到"网络结构"
 
-_“计算机体系结构的历史，就是不断发现瓶颈、然后把瓶颈从一个地方搬到另一个地方的历史。”_——这句体系结构界的老话在大模型推理上应验得格外彻底。
+*“计算机体系结构的历史，就是不断发现瓶颈、然后把瓶颈从一个地方搬到另一个地方的历史。”*——这句体系结构界的老话在大模型推理上应验得格外彻底。
 
 2020 年至 2023 年，行业的共识是"算力为王"。2024 年之后，随着上下文长度从 4K 扩展至 1M、模型结构从稠密转向稀疏专家、服务架构从合并式转向分离式，瓶颈已经系统性地从**节点内的浮点算力**转移到**节点间的互连结构**。
 
@@ -42,7 +105,7 @@ $$I_{\text{prefill}} \approx L \qquad\qquad I_{\text{decode}} \approx B$$
 
 其中 $L$ 为序列长度，$B$ 为批大小。于是出现了一个跨越两个数量级的不等式：
 
-$$\underbrace{L \sim 10^{4}!\sim!10^{6}}_{\text{Prefill}} ;\gg; \underbrace{I^{*} \approx 295}_{\text{硬件转折点}} ;\gg; \underbrace{B \sim 1!\sim!64}_{\text{Decode}}$$
+$$\underbrace{L \sim 10^{4}!\sim!10^{6}}*{\text{Prefill}} ;\gg; \underbrace{I^{*} \approx 295}*{\text{硬件转折点}} ;\gg; \underbrace{B \sim 1!\sim!64}_{\text{Decode}}$$
 
 *这一个不等式，就是全部架构分歧的源头。*它告诉我们：同一个模型的两个执行相位，在硬件视角下是两种完全不同的负载——一个撞算力墙，一个撞内存墙。而当它们各自被拆分并行化之后，其通信足迹的差异更为夸张，最终落到互连拓扑上，便呈现为四种互相冲突的结构诉求。
 
@@ -60,7 +123,7 @@ $$\underbrace{L \sim 10^{4}!\sim!10^{6}}_{\text{Prefill}} ;\gg; \underbrace{I^{*
 
 嵌入查表 $E = \text{Embed}[,\text{ids},]$ 在数学上等价于一次极端稀疏的矩阵乘 $E = S W_{\text{emb}}$，其中 $S$ 是独热（one-hot）选择矩阵，形状 $[L, V]$。实现上退化为 gather 访存，算术强度趋近于零，是纯带宽受限操作。
 
-_通信语义_：当词表沿 $V$ 维切分（vocab parallel，嵌入表 $8192 \times 128256 \times 2\ \text{B} \approx 2.1\ \text{GB}$，值得切分）时，每张卡只能查到属于自己分片的 token，其余位置填零，因此必须做一次 all-reduce 将部分嵌入相加复原。**这是每 token 第一次全局同步，常被忽略。**
+*通信语义*：当词表沿 $V$ 维切分（vocab parallel，嵌入表 $8192 \times 128256 \times 2\ \text{B} \approx 2.1\ \text{GB}$，值得切分）时，每张卡只能查到属于自己分片的 token，其余位置填零，因此必须做一次 all-reduce 将部分嵌入相加复原。**这是每 token 第一次全局同步，常被忽略。**
 
 ### 2.2 归一化：LayerNorm 与 RMSNorm
 
@@ -70,7 +133,7 @@ $$\text{RMSNorm}(x) = \frac{x}{\sqrt{\frac{1}{d}\sum_{i=1}^{d} x_i^2 + \epsilon}
 
 该算子的浮点运算量为 $O(Ld)$，访存量同为 $O(Ld)$，算术强度约为常数 4～6，**远低于任何硬件的转折点，是彻底的带宽受限算子**。在 Decode 相位它与其他逐元素算子共同构成"访存税"，通常通过算子融合（kernel fusion）隐藏。
 
-_通信语义_：在标准张量并行下，归一化前激活已被 all-reduce 复原为全量，故本算子零通信。但在序列并行（Sequence Parallelism，Korthikanti 等，2023）中，激活沿 $L$ 维切分，归一化虽仍可独立计算（归约沿 $d$ 维），却需要在其前后插入 reduce-scatter 与 all-gather 以完成布局转换——**通信总量与 all-reduce 相同，但被拆成两半，从而节省激活显存。**这是"以布局换显存"的典型交易。
+*通信语义*：在标准张量并行下，归一化前激活已被 all-reduce 复原为全量，故本算子零通信。但在序列并行（Sequence Parallelism，Korthikanti 等，2023）中，激活沿 $L$ 维切分，归一化虽仍可独立计算（归约沿 $d$ 维），却需要在其前后插入 reduce-scatter 与 all-gather 以完成布局转换——**通信总量与 all-reduce 相同，但被拆成两半，从而节省激活显存。**这是"以布局换显存"的典型交易。
 
 ### 2.3 QKV 投影
 
@@ -78,7 +141,7 @@ $$Q = XW_Q,\quad K = XW_K,\qu004 V = XW_V$$
 
 （正文取 $Q = XW_Q$，$K = XW_K$，$V = XW_V$。）在分组查询注意力（GQA，Ainslie 等，2023）下，$W_Q \in \mathbb{R}^{d \times d}$，而 $W_K, W_V \in \mathbb{R}^{d \times n_{kv}d_h}$，参数量为 $8192\times8192 + 2\times8192\times1024 \approx 83.9\ \text{M}$，单 token 运算量约 168 MFLOP。
 
-_通信语义_：采用**列并行**切分（$W$ 按输出维切开），$Y = X[W_1 | W_2] = [XW_1 | XW_2]$，各卡结果直接拼接即为最终结果，**前向零通信**。这是 Megatron-LM（Shoeybi 等，2019）最精妙的设计：将必然发生的通信推迟并合并到行并行层。
+*通信语义*：采用**列并行**切分（$W$ 按输出维切开），$Y = X[W_1 | W_2] = [XW_1 | XW_2]$，各卡结果直接拼接即为最终结果，**前向零通信**。这是 Megatron-LM（Shoeybi 等，2019）最精妙的设计：将必然发生的通信推迟并合并到行并行层。
 
 ### 2.4 旋转位置编码（RoPE）
 
@@ -96,7 +159,7 @@ $$V_{\text{KV}} = 2 \cdot L \cdot n_l \cdot n_{kv} \cdot d_h \cdot b$$
 
 多头潜在注意力（MLA）将其压缩为低秩潜在向量（潜在维 512 + 位置维 64 = 576）：$576 \times 61 \times 2\ \text{B} \approx 70\ \text{KB/token}$，压缩比约 4.5 倍。**KV Cache 的体量直接决定了第 2.19 节所述迁移相位的网络代价，因此注意力结构的选择本质上是一个网络架构决策。**
 
-_通信语义_：缓存读写本身在卡内，零跨卡通信。但缓存的**位置**决定了后续迁移流量，这是全文最容易被低估的耦合点。
+*通信语义*：缓存读写本身在卡内，零跨卡通信。但缓存的**位置**决定了后续迁移流量，这是全文最容易被低估的耦合点。
 
 ### 2.6 注意力打分：$L^2$ 相变的发生地
 
@@ -104,13 +167,13 @@ $$S = \frac{QK^{\top}}{\sqrt{d_h}} + M$$
 
 这是全流程中唯一产出 $[L, L]$ 方阵的运算，也是唯一随序列长度**平方增长**的运算。运算量为 $2L^2 d$（单层，全头合计）。
 
-_一个关键的定量结论_：单层投影类运算量为 $2Ld(d + 2n_{kv}d_h) + 2Ld \cdot d + 6Ld \cdot d_{\text{ffn}} \approx 1.71\ \text{GFLOP}$（每 token），而注意力类运算量为 $4Ld_{\text{eff}}$。取上述参数解交叉点：
+*一个关键的定量结论*：单层投影类运算量为 $2Ld(d + 2n_{kv}d_h) + 2Ld \cdot d + 6Ld \cdot d_{\text{ffn}} \approx 1.71\ \text{GFLOP}$（每 token），而注意力类运算量为 $4Ld_{\text{eff}}$。取上述参数解交叉点：
 
 $$L_{\text{crossover}} \approx 5 \times 10^{4}$$
 
 即：**当上下文超过约五万 token，注意力计算开始压倒全部权重投影计算。**这解释了为什么 NVIDIA Rubin CPX 将"3 倍注意力加速"列为核心指标，也解释了为什么百万 token 场景必须引入上下文并行（Context Parallelism）。
 
-_通信语义_：单头内零通信；但当 $L$ 沿序列维切分（上下文并行）时，需要环形轮转 $K, V$ 块——**Ring Attention（Liu 等，2023）将通信模式从全局归约降级为纯近邻交换**，这是"算法重塑拓扑需求"的最佳范例，详见第七章。
+*通信语义*：单头内零通信；但当 $L$ 沿序列维切分（上下文并行）时，需要环形轮转 $K, V$ 块——**Ring Attention（Liu 等，2023）将通信模式从全局归约降级为纯近邻交换**，这是"算法重塑拓扑需求"的最佳范例，详见第七章。
 
 ### 2.7 Softmax 与在线安全归一化
 
@@ -120,7 +183,7 @@ $$\text{softmax}(s)_j = \frac{e^{s_j - \max_k s_k}}{\sum_k e^{s_k - \max_k s_k}}
 
 需要明确指出：**FlashAttention 优化的是显存墙，不是网络墙。**它不改变任何跨卡通信量。这一区分对架构决策至关重要——大量工程实践误以为 FlashAttention 能缓解通信压力。
 
-_通信语义_：单卡内零通信；上下文并行下需跨块归约 $(\max, \text{sumexp})$ 二元组进行统计量合并，消息极小（每块两个标量），但构成同步点。
+*通信语义*：单卡内零通信；上下文并行下需跨块归约 $(\max, \text{sumexp})$ 二元组进行统计量合并，消息极小（每块两个标量），但构成同步点。
 
 ### 2.8 加权聚合与 2.9 输出投影
 
@@ -142,7 +205,7 @@ $$\text{FFN}(x) = \big(\text{Swish}(xW_{\text{gate}}) \odot xW_{\text{up}}\big)W
 
 SwiGLU（Shazeer，2020）需要三个权重矩阵而非两个，参数量为 $3d\cdot d_{\text{ffn}} = 3\times8192\times28672 \approx 704.6\ \text{M}$，占单层参数的 84%，是稠密模型的算力与显存主体。
 
-_通信语义_：$W_{\text{gate}}$ 与 $W_{\text{up}}$ 列并行，零通信；门控逐元素乘不跨越切分维，故可完整保持并行度——**SwiGLU 对张量并行是"通信友好"的**。
+*通信语义*：$W_{\text{gate}}$ 与 $W_{\text{up}}$ 列并行，零通信；门控逐元素乘不跨越切分维，故可完整保持并行度——**SwiGLU 对张量并行是"通信友好"的**。
 
 ### 2.12 FFN 下投影
 
@@ -158,7 +221,7 @@ $$g = xW_g,\qquad P = \text{TopK}(\text{softmax}(g),, k)$$
 
 $P$ 的关键性质有三：其一，稀疏度极高（$k/E = 8/256 = 3.1%$）；其二，**每个 token 独立重新决定**，不存在跨 token 的稳定性；其三，负载天然不均衡，需辅助损失、无辅助损失偏置（DeepSeek-V3 的 aux-loss-free 策略）或专家选择路由来平衡。
 
-_性质二是决定性的_：它意味着 MoE 的流量矩阵是**随机置换流（random permutation traffic）**，而非任何可预测的固定模式。因此不存在"把常用通信对放近一点"的优化空间——这一点将在第三章以谱图理论精确刻画。
+*性质二是决定性的*：它意味着 MoE 的流量矩阵是**随机置换流（random permutation traffic）**，而非任何可预测的固定模式。因此不存在"把常用通信对放近一点"的优化空间——这一点将在第三章以谱图理论精确刻画。
 
 ### 2.14 Dispatch 与 Combine：全对全
 
@@ -166,7 +229,7 @@ $$\tilde X = P^{\top}X \quad(\text{dispatch}),\qquad \hat Y = P Z \quad(\text{co
 
 在专家并行（Expert Parallelism）下，$P^{\top}X$ 意味着把每个 token 送往其选中专家所驻留的设备，$PZ$ 意味着把结果收回并加权求和。二者均为 all-to-all。
 
-_定量_：单 token 单层 dispatch 流量 $k \cdot d \cdot b = 8 \times 7168 \times 2\ \text{B} \approx 114.7\ \text{KB}$，combine 同量，合计约 229 KB；乘以 58 个 MoE 层，得 **约 13.3 MB/token**——比稠密模型的张量并行 all-reduce（约 2.6 MB/token，$B=1$）高出一个数量级，且被打散为 $N^2$ 条碎流（专家并行度 64 时为 4096 条）。
+*定量*：单 token 单层 dispatch 流量 $k \cdot d \cdot b = 8 \times 7168 \times 2\ \text{B} \approx 114.7\ \text{KB}$，combine 同量，合计约 229 KB；乘以 58 个 MoE 层，得 **约 13.3 MB/token**——比稠密模型的张量并行 all-reduce（约 2.6 MB/token，$B=1$）高出一个数量级，且被打散为 $N^2$ 条碎流（专家并行度 64 时为 4096 条）。
 
 工程侧的刚性约束由此而来：该模型 Decode 相位的最优配置约为每 GPU 4 个专家，即 64 张 GPU **必须全部位于同一个低延迟高带宽域内**；一旦部分专家跨出 NVLink 域落至 InfiniBand，全对全立即被慢速域拖垮。GB200 NVL72 提供的 130 TB/s 聚合全对全带宽、DeepEP 将 dispatch 时延压至约 163 μs 的低时延内核，均是针对此约束的直接工程回应。
 
@@ -176,7 +239,7 @@ $$\text{logits} = \text{RMSNorm}(X_{\text{final}}), W_{\text{lm}},\qquad W_{\tex
 
 该矩阵 $8192\times128256 \approx 1.05\ \text{G}$ 参数（FP16 约 2.1 GB），单 token 运算量 2.1 GFLOP，约占总量的 1.5%——看似次要，但其**输出张量**极为可观：$V \times b = 128256 \times 2\ \text{B} \approx 250\ \text{KB/token}$。
 
-_两个重要工程后果_：第一，Prefill 阶段绝不能对全部 $L$ 个位置计算 logits（$8192 \times 250\ \text{KB} = 2\ \text{GB}$），只计算最后一个位置；第二，词表并行下 logits 需 all-gather 或 all-reduce，**单次 250 KB 的消息在 Decode 相位已可与整层张量并行归约相当**，构成"最后一公里的全局同步"。
+*两个重要工程后果*：第一，Prefill 阶段绝不能对全部 $L$ 个位置计算 logits（$8192 \times 250\ \text{KB} = 2\ \text{GB}$），只计算最后一个位置；第二，词表并行下 logits 需 all-gather 或 all-reduce，**单次 250 KB 的消息在 Decode 相位已可与整层张量并行归约相当**，构成"最后一公里的全局同步"。
 
 ### 2.16 采样
 
@@ -184,7 +247,7 @@ _两个重要工程后果_：第一，Prefill 阶段绝不能对全部 $L$ 个�
 
 至此可以给出 Decode 相位每 token 的完整同步预算：
 
-$$N_{\text{sync}} = \underbrace{1}_{\text{嵌入}} + \underbrace{2 n_l}_{\text{张量并行}} + \underbrace{2 n_{\text{moe}}}_{\text{全对全}} + \underbrace{1}_{\text{logits}} + \underbrace{1}_{\text{采样}} ;\approx; 163\ \text{（稠密）} \sim 279\ \text{（稀疏）}$$
+$$N_{\text{sync}} = \underbrace{1}*{\text{嵌入}} + \underbrace{2 n_l}*{\text{张量并行}} + \underbrace{2 n_{\text{moe}}}*{\text{全对全}} + \underbrace{1}*{\text{logits}} + \underbrace{1}_{\text{采样}} ;\approx; 163\ \text{（稠密）} \sim 279\ \text{（稀疏）}$$
 
 ### 2.17 投机解码与多 token 预测
 
@@ -192,7 +255,7 @@ $$N_{\text{sync}} = \underbrace{1}_{\text{嵌入}} + \underbrace{2 n_l}_{\text{�
 
 $$I_{\text{spec}} \approx B(\gamma+1)$$
 
-_这是对拓扑需求的一次重要扰动_：投机解码把 Decode 相位从"纯延迟受限"向"混合受限"推移，单次消息量放大 $(\gamma+1)$ 倍，从而在一定程度上**缓和了对小直径的绝对依赖，代价是提高了对带宽的要求**。架构上应视为在 Decode 与 Prefill 之间插入的第五种中间相位。
+*这是对拓扑需求的一次重要扰动*：投机解码把 Decode 相位从"纯延迟受限"向"混合受限"推移，单次消息量放大 $(\gamma+1)$ 倍，从而在一定程度上**缓和了对小直径的绝对依赖，代价是提高了对带宽的要求**。架构上应视为在 Decode 与 Prefill 之间插入的第五种中间相位。
 
 ### 2.18 量化、反量化与流水线点对点通信
 
@@ -208,29 +271,31 @@ FP8/FP4/INT4 量化在数据流上表现为算子边界处的 scale/dequant 逐�
 
 ### 本章小结：算子谱系全表
 
-|序号|算子|矩阵形状|算术强度|通信原语|消息尺度（Decode）|
-|---|---|---|---|---|---|
-|1|分词|—|—|无|—|
-|2|嵌入查表|稀疏 gather|≈0|all-reduce（词表并行）|16 KB|
-|3|RMSNorm|逐元素|4～6|无／SP 转换|—|
-|4|QKV 投影|厚×厚，列并行|$L$ 或 $B$|无|—|
-|5|RoPE|逐元素|≈2|无|—|
-|6|KV 写入|访存|≈0|无（卡内）|—|
-|7|$QK^{\top}$|$[L,d_h]\times[d_h,L]$|$O(L)$|CP 环形轮转|视 CP|
-|8|Softmax|行归约|≈2|CP 统计量归约|数十 B|
-|9|$\text{P}V$|$[L,L]\times[L,d_h]$|$O(L)$|CP 环形轮转|视 CP|
-|10|$W_O$|厚×厚，行并行|$L$ 或 $B$|**all-reduce ①**|16 KB～512 KB|
-|11|残差|逐元素|2|无（但为同步栅栏）|—|
-|12|FFN 上投影/门控|列并行|$L$ 或 $B$|无|—|
-|13|SwiGLU|逐元素|≈3|无|—|
-|14|FFN 下投影|行并行|$L$ 或 $B$|**all-reduce ②**|16 KB～512 KB|
-|15|MoE 门控 TopK|$[L,d]\times[d,E]$|极低|无|—|
-|16|Dispatch|稀疏置换 $P^{\top}X$|碎片|**all-to-all**|115 KB×$N^2$ 碎流|
-|17|Combine|稀疏加权 $PZ$|碎片|**all-to-all**|115 KB×$N^2$ 碎流|
-|18|LM Head|$[B,d]\times[d,V]$|$B$|**all-gather logits**|250 KB|
-|19|采样|归约／排序|极低|**全局归约**|KB 级，延迟敏感|
-|附|流水线 P2P|激活传递|—|send/recv|16 KB～134 MB|
-|附|KV 迁移|无|0|P2P bulk|7～32 GB／请求|
+
+| 序号  | 算子          | 矩阵形状                   | 算术强度      | 通信原语                  | 消息尺度（Decode）    |
+| --- | ----------- | ---------------------- | --------- | --------------------- | --------------- |
+| 1   | 分词          | —                      | —         | 无                     | —               |
+| 2   | 嵌入查表        | 稀疏 gather              | ≈0        | all-reduce（词表并行）      | 16 KB           |
+| 3   | RMSNorm     | 逐元素                    | 4～6       | 无／SP 转换               | —               |
+| 4   | QKV 投影      | 厚×厚，列并行                | $L$ 或 $B$ | 无                     | —               |
+| 5   | RoPE        | 逐元素                    | ≈2        | 无                     | —               |
+| 6   | KV 写入       | 访存                     | ≈0        | 无（卡内）                 | —               |
+| 7   | $QK^{\top}$ | $[L,d_h]\times[d_h,L]$ | $O(L)$    | CP 环形轮转               | 视 CP            |
+| 8   | Softmax     | 行归约                    | ≈2        | CP 统计量归约              | 数十 B            |
+| 9   | $\text{P}V$ | $[L,L]\times[L,d_h]$   | $O(L)$    | CP 环形轮转               | 视 CP            |
+| 10  | $W_O$       | 厚×厚，行并行                | $L$ 或 $B$ | **all-reduce ①**      | 16 KB～512 KB    |
+| 11  | 残差          | 逐元素                    | 2         | 无（但为同步栅栏）             | —               |
+| 12  | FFN 上投影/门控  | 列并行                    | $L$ 或 $B$ | 无                     | —               |
+| 13  | SwiGLU      | 逐元素                    | ≈3        | 无                     | —               |
+| 14  | FFN 下投影     | 行并行                    | $L$ 或 $B$ | **all-reduce ②**      | 16 KB～512 KB    |
+| 15  | MoE 门控 TopK | $[L,d]\times[d,E]$     | 极低        | 无                     | —               |
+| 16  | Dispatch    | 稀疏置换 $P^{\top}X$       | 碎片        | **all-to-all**        | 115 KB×$N^2$ 碎流 |
+| 17  | Combine     | 稀疏加权 $PZ$              | 碎片        | **all-to-all**        | 115 KB×$N^2$ 碎流 |
+| 18  | LM Head     | $[B,d]\times[d,V]$     | $B$       | **all-gather logits** | 250 KB          |
+| 19  | 采样          | 归约／排序                  | 极低        | **全局归约**              | KB 级，延迟敏感       |
+| 附   | 流水线 P2P     | 激活传递                   | —         | send/recv             | 16 KB～134 MB    |
+| 附   | KV 迁移       | 无                      | 0         | P2P bulk              | 7～32 GB／请求      |
+
 
 ---
 
@@ -263,7 +328,7 @@ $$T_{\text{tree/RHD}} = 2\log_2 N \cdot \frac{V}{\beta} + 2\log_2 N \cdot \alpha
 
 设互连网络为图 $G=(V,E)$，$|V|=n$，邻接矩阵 $A$，归一化拉普拉斯 $\mathcal{L} = I - D^{-1/2}AD^{-1/2}$，其特征值 $0=\lambda_1 \le \lambda_2 \le \cdots \le \lambda_n$。
 
-**（一）二分带宽**：$\text{BW}_{\text{bisect}} = \min_{|S|=n/2} \sum_{e \in \partial S} c_e$。它刻画最坏切分下的总通行能力，是**容量指标**。Leiserson（1985）证明胖树是"通用网络"，可在多项式常数内模拟任意等造价网络；Valiant（1982）的两阶段随机化路由定理进一步表明，只要二分带宽充足，任意置换流量均可无热点转发。
+**（一）二分带宽**：$\text{BW}*{\text{bisect}} = \min*{|S|=n/2} \sum_{e \in \partial S} c_e$。它刻画最坏切分下的总通行能力，是**容量指标**。Leiserson（1985）证明胖树是"通用网络"，可在多项式常数内模拟任意等造价网络；Valiant（1982）的两阶段随机化路由定理进一步表明，只要二分带宽充足，任意置换流量均可无热点转发。
 
 **（二）直径**：$D = \max_{u,v} \text{dist}(u,v)$。它刻画最坏情形的跳数，直接乘入 $\alpha$，是**延迟指标**。
 
@@ -380,7 +445,7 @@ $$\frac{\text{ITL 预算 } 15\ \text{ms}}{160\ \text{次同步}} = 94\ \mu\text{
 
 更严峻的是，all-reduce 具有全局同步语义，服从木桶效应：最慢的一跳决定全队节奏，**尾延迟即真延迟**。NVLink 域从 HGX H200 的 8 卡（900 GB/s）扩展至 GB200 NVL72 的 72 卡（1.8 TB/s，聚合归约 260 TB/s，较 400 GbE 快约 36 倍），其唯一动机正在此。仿真数据显示，大 NVLink 域配合分离式服务，使 70B 级模型在中等延迟区间吞吐提升约 3 倍。
 
-_David Clark（MIT）的判词在此最为贴切_：带宽问题可以用钱解决，延迟问题很难，因为光速是固定的。
+*David Clark（MIT）的判词在此最为贴切*：带宽问题可以用钱解决，延迟问题很难，因为光速是固定的。
 
 ### 4.3 相位 Ⅲ：MoE —— 稀疏置换洗牌，要"搅拌均匀度"
 
@@ -412,7 +477,7 @@ _David Clark（MIT）的判词在此最为贴切_：带宽问题可以用钱解�
 
 隔离含两个层次：物理隔离（独立网卡、独立 rail、独立网络平面，或以智能网卡卸载实现无干扰前缀缓存，如 ShadowServe 方案）与逻辑隔离（优先级队列、QoS、发送速率整形、拥塞控制）。代表性系统 Mooncake 以 KV Cache 为中心组织 CPU、DRAM、SSD 与 RDMA 的独立池化与独立传输平面，在特定场景下吞吐提升可达 525%。
 
-_结论要说得直白_：问题从来不是带宽不够，而是不能与别人挤在同一条道上。
+*结论要说得直白*：问题从来不是带宽不够，而是不能与别人挤在同一条道上。
 
 ### 4.5 相位 Ⅴ：词表与采样 —— 最后一公里的全局同步
 
@@ -424,14 +489,16 @@ $I = B(\gamma+1)$，典型 $\gamma = 4$ 时算术强度提升五倍，消息量�
 
 ### 4.7 六相位匹配总表
 
-|相位|矩阵形态|算术强度|通信原语|最优算法|消息尺度|主导项|图论指标|原生拓扑|
-|---|---|---|---|---|---|---|---|---|
-|Ⅰ Prefill|厚×厚 GEMM|$L$（大）|all-reduce／all-gather|Ring（带宽最优）|约 134 MB|$V/\beta$|二分带宽|胖树全二分；Torus + CP|
-|Ⅱ Decode|厚×瘦 GEMV|$B$（小）|all-reduce|Tree／RHD（$\log N$）|16～512 KB|$D\cdot\alpha$|直径|高 radix 全互连团|
-|Ⅲ MoE|稀疏置换 $P$|碎片化|all-to-all|DeepEP 低时延核|115 KB × $N^2$|电导／热点|谱隙 $\lambda_2$|扩张器／Ramanujan|
-|Ⅳ KV 迁移|无（memcpy）|0|P2P bulk|逐层流水重叠|7～32 GB|$\beta_{\text{eff}}$|隔离度 $\eta$|独立 rail／独立平面|
-|Ⅴ 词表采样|$[B,d]\times[d,V]$|$B$|all-gather／归约|Tree|250 KB|$D\cdot\alpha$|直径|与 TP 组同域共置|
-|Ⅵ 投机验证|$[B(\gamma{+}1),d]$|$B(\gamma{+}1)$|all-reduce|混合|×$(\gamma{+}1)$|$\alpha$ 与 $V/\beta$ 兼有|直径 ∧ 带宽|**冲突区**|
+
+| 相位        | 矩阵形态                | 算术强度            | 通信原语                  | 最优算法               | 消息尺度            | 主导项                     | 图论指标           | 原生拓扑             |
+| --------- | ------------------- | --------------- | --------------------- | ------------------ | --------------- | ----------------------- | -------------- | ---------------- |
+| Ⅰ Prefill | 厚×厚 GEMM            | $L$（大）          | all-reduce／all-gather | Ring（带宽最优）         | 约 134 MB        | $V/\beta$               | 二分带宽           | 胖树全二分；Torus + CP |
+| Ⅱ Decode  | 厚×瘦 GEMV            | $B$（小）          | all-reduce            | Tree／RHD（$\log N$） | 16～512 KB       | $D\cdot\alpha$          | 直径             | 高 radix 全互连团     |
+| Ⅲ MoE     | 稀疏置换 $P$            | 碎片化             | all-to-all            | DeepEP 低时延核        | 115 KB × $N^2$  | 电导／热点                   | 谱隙 $\lambda_2$ | 扩张器／Ramanujan    |
+| Ⅳ KV 迁移   | 无（memcpy）           | 0               | P2P bulk              | 逐层流水重叠             | 7～32 GB         | $\beta_{\text{eff}}$    | 隔离度 $\eta$     | 独立 rail／独立平面     |
+| Ⅴ 词表采样    | $[B,d]\times[d,V]$  | $B$             | all-gather／归约         | Tree               | 250 KB          | $D\cdot\alpha$          | 直径             | 与 TP 组同域共置       |
+| Ⅵ 投机验证    | $[B(\gamma{+}1),d]$ | $B(\gamma{+}1)$ | all-reduce            | 混合                 | ×$(\gamma{+}1)$ | $\alpha$ 与 $V/\beta$ 兼有 | 直径 ∧ 带宽        | **冲突区**          |
+
 
 ---
 
@@ -439,34 +506,38 @@ $I = B(\gamma+1)$，典型 $\gamma = 4$ 时算术强度提升五倍，消息量�
 
 五种并行维度对物理网络提出的诉求彼此正交，合理的映射是系统设计的核心工艺。
 
-|并行维度|切分对象|通信原语|频率|拓扑诉求|建议放置层级|
-|---|---|---|---|---|---|
-|张量并行 TP|权重矩阵行／列|all-reduce|每层 2 次，极高|**小直径、高带宽**|NVLink 域内，绝不跨机|
-|专家并行 EP|专家（$P$ 矩阵）|all-to-all|每 MoE 层 2 次|**高谱隙、单域**|同一 NVLink 域（≤72 卡）|
-|上下文并行 CP|序列维 $L$|环形 P2P|每注意力层|**近邻带宽**|域内环，或机架内|
-|流水线并行 PP|层|send/recv|每层边界 1 次|**近邻，容忍高直径**|跨机架，用 IB／以太|
-|数据并行 DP|批|推理期几乎无|极低|无特殊要求|跨集群任意|
-|KV 迁移|缓存|P2P bulk|每请求 1 次|**独占平面**|独立网络平面|
 
-_一条可直接使用的设计法则_：按通信频率从高到低，将并行维度由内向外映射到延迟由低到高的网络层级——TP 与 EP 置于最内层（NVLink），CP 次之，PP 最外，KV 迁移单独开平面。违反此序的部署（例如 TP 跨机、EP 跨域）在数学上必然导致 Decode 相位 SLO 失守。
+| 并行维度     | 切分对象       | 通信原语       | 频率          | 拓扑诉求         | 建议放置层级             |
+| -------- | ---------- | ---------- | ----------- | ------------ | ------------------ |
+| 张量并行 TP  | 权重矩阵行／列    | all-reduce | 每层 2 次，极高   | **小直径、高带宽**  | NVLink 域内，绝不跨机     |
+| 专家并行 EP  | 专家（$P$ 矩阵） | all-to-all | 每 MoE 层 2 次 | **高谱隙、单域**   | 同一 NVLink 域（≤72 卡） |
+| 上下文并行 CP | 序列维 $L$    | 环形 P2P     | 每注意力层       | **近邻带宽**     | 域内环，或机架内           |
+| 流水线并行 PP | 层          | send/recv  | 每层边界 1 次    | **近邻，容忍高直径** | 跨机架，用 IB／以太        |
+| 数据并行 DP  | 批          | 推理期几乎无     | 极低          | 无特殊要求        | 跨集群任意              |
+| KV 迁移    | 缓存         | P2P bulk   | 每请求 1 次     | **独占平面**     | 独立网络平面             |
+
+
+*一条可直接使用的设计法则*：按通信频率从高到低，将并行维度由内向外映射到延迟由低到高的网络层级——TP 与 EP 置于最内层（NVLink），CP 次之，PP 最外，KV 迁移单独开平面。违反此序的部署（例如 TP 跨机、EP 跨域）在数学上必然导致 Decode 相位 SLO 失守。
 
 ---
 
 ## 第六章 端到端预算表（十万 token 输入，70B 稠密／671B 稀疏）
 
-|环节|计算量／数据量|时间量级|主要受限于|
-|---|---|---|---|
-|分词|—|< 1 ms|CPU|
-|Prefill 前向|约 $4\times10^{16}$ FLOP|数秒（8 卡 H100）|算力 + 二分带宽|
-|Prefill 归约总量|约 21.5 GB／序列|与计算重叠|二分带宽|
-|KV 迁移|32 GB（GQA）／7 GB（MLA）|640 ms（400 G）／18 ms（NVLink）|隔离带宽|
-|单 token Decode 计算|140 GFLOP|约 3～5 ms|显存带宽|
-|单 token TP 归约|82 MB（$B$=32）|约 2～4 ms|直径 × 频次|
-|单 token MoE 全对全|13.3 MB|约 3～8 ms|谱隙|
-|logits + 采样|250 KB + KB|约 0.1～0.5 ms|直径|
-|**合计 ITL**|—|**目标 10～20 ms**|上述四者的最大值|
 
-_读表要点_：Decode 的每 token 时间是四项的**最大值而非平均值**，因为它们串行于同一条关键路径。任一相位的拓扑失配都会独立地击穿整体 SLO——这是"四句话必须同时成立"的工程含义。
+| 环节                | 计算量／数据量                 | 时间量级                        | 主要受限于     |
+| ----------------- | ----------------------- | --------------------------- | --------- |
+| 分词                | —                       | < 1 ms                      | CPU       |
+| Prefill 前向        | 约 $4\times10^{16}$ FLOP | 数秒（8 卡 H100）                | 算力 + 二分带宽 |
+| Prefill 归约总量      | 约 21.5 GB／序列            | 与计算重叠                       | 二分带宽      |
+| KV 迁移             | 32 GB（GQA）／7 GB（MLA）    | 640 ms（400 G）／18 ms（NVLink） | 隔离带宽      |
+| 单 token Decode 计算 | 140 GFLOP               | 约 3～5 ms                    | 显存带宽      |
+| 单 token TP 归约     | 82 MB（$B$=32）           | 约 2～4 ms                    | 直径 × 频次   |
+| 单 token MoE 全对全   | 13.3 MB                 | 约 3～8 ms                    | 谱隙        |
+| logits + 采样       | 250 KB + KB             | 约 0.1～0.5 ms                | 直径        |
+| **合计 ITL**        | —                       | **目标 10～20 ms**             | 上述四者的最大值  |
+
+
+*读表要点*：Decode 的每 token 时间是四项的**最大值而非平均值**，因为它们串行于同一条关键路径。任一相位的拓扑失配都会独立地击穿整体 SLO——这是"四句话必须同时成立"的工程含义。
 
 ---
 
@@ -474,7 +545,7 @@ _读表要点_：Decode 的每 token 时间是四项的**最大值而非平均�
 
 将全部结论压缩为一个统一表达式。通信时间为 $T = \alpha + V/\beta_{\text{eff}}$，再叠加流量置换随机性 $\Pi$ 与并发干扰 $I$：
 
-$$\underbrace{V \gg 0}_{\text{bisection}} \qquad \underbrace{\alpha\text{-bound}}_{\text{diameter}} \qquad \underbrace{\Pi \sim \text{random}}_{\text{spectral gap}} \qquad \underbrace{I \neq 0}_{\text{isolation}}$$
+$$\underbrace{V \gg 0}*{\text{bisection}} \qquad \underbrace{\alpha\text{-bound}}*{\text{diameter}} \qquad \underbrace{\Pi \sim \text{random}}*{\text{spectral gap}} \qquad \underbrace{I \neq 0}*{\text{isolation}}$$
 
 四句话只是四个项在不同相位轮流担任主角。而这里存在一个硬约束：
 
@@ -493,7 +564,7 @@ $$\underbrace{V \gg 0}_{\text{bisection}} \qquad \underbrace{\alpha\text{-bound}
 
 **论证要点**：其一，Moore 界与 Alon–Boppana 界共同限制了给定度数 $d$ 下直径与谱隙的联合可达域，二者不能同时任意优化；其二，高 radix 交换受 SerDes 引脚数与封装面积的物理约束，$d$ 不可无限增大；其三，随机连边虽最优化谱隙，却与规则化布线、等长走线、可制造性直接冲突；其四，隔离要求预留冗余容量，与利用率构成零和。**因此这不是工程手艺问题，而是图论与物理层面的不可兼得。**
 
-更值得注意的是第 2.6 与 4.6 节揭示的两个反向证据：Ring Attention 通过算法改造，把 Prefill 的全局归约降级为近邻交换，**从而把拓扑需求从二分带宽转移开**；投机解码则相反，它把 Decode 拉向带宽敏感区，**同时加重两个冲突指标**。这说明——_算法与拓扑不是层次关系，而是共设计（co-design）关系，需求可以被算法搬运，但不能被消灭。_
+更值得注意的是第 2.6 与 4.6 节揭示的两个反向证据：Ring Attention 通过算法改造，把 Prefill 的全局归约降级为近邻交换，**从而把拓扑需求从二分带宽转移开**；投机解码则相反，它把 Decode 拉向带宽敏感区，**同时加重两个冲突指标**。这说明——*算法与拓扑不是层次关系，而是共设计（co-design）关系，需求可以被算法搬运，但不能被消灭。*
 
 ---
 
@@ -513,15 +584,17 @@ $$\tau_{\text{recfg}} ;\ll; T_{\text{phase}}$$
 
 据此可对不同重构技术划出严格的适用边界：
 
-|相位边界|相位驻留时间 $T_{\text{phase}}$|可用重构技术|判定|
-|---|---|---|---|
-|Prefill ↔ Decode|秒级至十秒级|光电路交换 OCS（毫秒级）|✓ 可行，已具工程条件|
-|请求间调度|百毫秒级|OCS、SDN 流表|✓ 可行|
-|KV 迁移窗口|数十至数百毫秒|独立平面 + QoS|✓ 可行（静态隔离即可）|
-|稠密层 ↔ MoE 层|约 100～300 μs|需微秒级重构|△ 仅逻辑重构可行|
-|层内 dispatch ↔ combine|约 100 μs|需亚微秒重构|✗ 物理重构不可行|
 
-**这张表是本白皮书最具操作性的结论。**它表明：跨相位的**物理**拓扑重构在 Prefill/Decode 边界上已然可行；而 MoE 的层内相位切换过快，唯一出路是在同一物理域内以**逻辑手段**（路由策略、虚通道、优先级、自适应负载分担）近似实现"高谱隙视图"——即物理上必须一次性提供扩张性，逻辑上再做快速切换。
+| 相位边界                  | 相位驻留时间 $T_{\text{phase}}$ | 可用重构技术         | 判定           |
+| --------------------- | ------------------------- | -------------- | ------------ |
+| Prefill ↔ Decode      | 秒级至十秒级                    | 光电路交换 OCS（毫秒级） | ✓ 可行，已具工程条件  |
+| 请求间调度                 | 百毫秒级                      | OCS、SDN 流表     | ✓ 可行         |
+| KV 迁移窗口               | 数十至数百毫秒                   | 独立平面 + QoS     | ✓ 可行（静态隔离即可） |
+| 稠密层 ↔ MoE 层           | 约 100～300 μs              | 需微秒级重构         | △ 仅逻辑重构可行    |
+| 层内 dispatch ↔ combine | 约 100 μs                  | 需亚微秒重构         | ✗ 物理重构不可行    |
+
+
+**这张表是本白皮书最具操作性的结论。它表明：跨相位的物理**拓扑重构在 Prefill/Decode 边界上已然可行；而 MoE 的层内相位切换过快，唯一出路是在同一物理域内以**逻辑手段**（路由策略、虚通道、优先级、自适应负载分担）近似实现"高谱隙视图"——即物理上必须一次性提供扩张性，逻辑上再做快速切换。
 
 ### 8.3 载体：介观尺度异质异构集成
 
@@ -549,20 +622,22 @@ $$\tau_{\text{recfg}} ;\ll; T_{\text{phase}}$$
 
 ## 附录 A　白板速算卡
 
-|量|速算式|典型值（70B／$d$=8192／80 层）|
-|---|---|---|
-|Roofline 转折点|峰值算力 ÷ 显存带宽|H100 约 295 FLOP/Byte|
-|Prefill 算术强度|$I = L$|$L$=8192 → 8192|
-|Decode 算术强度|$I = B$|$B$=32 → 32|
-|单次 TP 归约量|$L\cdot d\cdot b$|Prefill 134 MB／Decode 512 KB|
-|每 token 同步次数|$2n_l + 3,(+2n_{\text{moe}})$|稠密 163／稀疏 279|
-|单次同步预算|ITL ÷ 同步次数|15 ms → 94 μs（通信约 20 μs）|
-|KV 每 token|$2n_l n_{kv} d_h b$|GQA 320 KB／MLA 70 KB|
-|MoE 每 token 每层|$2k,d,b$|约 229 KB（×58 层 = 13.3 MB）|
-|logits 每 token|$V\cdot b$|约 250 KB|
-|注意力／投影交叉点|$4Ld \approx$ 单层投影 FLOP|$L \approx 5\times10^{4}$|
-|Ring 归约延迟项|$2(N-1)\alpha$|$N$=64 → $126\alpha$|
-|Tree 归约延迟项|$2\log_2 N\cdot\alpha$|$N$=64 → $12\alpha$|
+
+| 量              | 速算式                           | 典型值（70B／$d$=8192／80 层）       |
+| -------------- | ----------------------------- | ---------------------------- |
+| Roofline 转折点   | 峰值算力 ÷ 显存带宽                   | H100 约 295 FLOP/Byte         |
+| Prefill 算术强度   | $I = L$                       | $L$=8192 → 8192              |
+| Decode 算术强度    | $I = B$                       | $B$=32 → 32                  |
+| 单次 TP 归约量      | $L\cdot d\cdot b$             | Prefill 134 MB／Decode 512 KB |
+| 每 token 同步次数   | $2n_l + 3,(+2n_{\text{moe}})$ | 稠密 163／稀疏 279                |
+| 单次同步预算         | ITL ÷ 同步次数                    | 15 ms → 94 μs（通信约 20 μs）     |
+| KV 每 token     | $2n_l n_{kv} d_h b$           | GQA 320 KB／MLA 70 KB         |
+| MoE 每 token 每层 | $2k,d,b$                      | 约 229 KB（×58 层 = 13.3 MB）    |
+| logits 每 token | $V\cdot b$                    | 约 250 KB                     |
+| 注意力／投影交叉点      | $4Ld \approx$ 单层投影 FLOP       | $L \approx 5\times10^{4}$    |
+| Ring 归约延迟项     | $2(N-1)\alpha$                | $N$=64 → $126\alpha$         |
+| Tree 归约延迟项     | $2\log_2 N\cdot\alpha$        | $N$=64 → $12\alpha$          |
+
 
 ## 附录 B　符号表
 
@@ -576,3 +651,22 @@ Williams、Waterman 与 Patterson，《Roofline: An Insightful Visual Performanc
 
 **（全文完）**
 
+---
+
+
+
+---
+*getnote | 2026-08-06 21:00*
+
+
+---
+
+## Related Notes
+
+[[paper1_iNEST_core_architecture]]
+[[SDI化合物键_四型架构]]
+[[FPGA原型]]
+[[Papers-MOC]]
+[[paper2_liquid_computing_chemistry]]
+[[自组织临界态SOC]]
+[[iNEST-MOC]]

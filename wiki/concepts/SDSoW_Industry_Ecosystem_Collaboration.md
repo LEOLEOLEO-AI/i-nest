@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[National_Mesoscale_Innovation_Center]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]

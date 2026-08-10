@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AcceleratedMaterialScreening]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CrystalPalace_Program]]

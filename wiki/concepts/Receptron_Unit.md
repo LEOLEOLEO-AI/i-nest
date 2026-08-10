@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Accessibility_Plasticity]]
 [[BurstGatedRouting]]
 [[CriticalityDrivenStateTransition]]
 [[Dynamic_Expert_Fusion]]

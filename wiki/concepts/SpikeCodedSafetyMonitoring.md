@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
+[[SNN_Topology_Mapping]]
 [[SpikeEventTopology]]
 [[SpikePacketRouting]]
 [[SpikeTrafficScheduling]]

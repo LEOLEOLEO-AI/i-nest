@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[GateBasedQuantumReservoir]]
+[[HardwareAware_DesignSpace]]
 [[Hybrid_LLM_Guided_Search]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Boundary_Criticality]]
 [[BrownianCastleInterfaces]]
+[[HierarchicalBayesianCommunityDetection]]
+[[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

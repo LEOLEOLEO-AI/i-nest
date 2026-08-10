@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
+[[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

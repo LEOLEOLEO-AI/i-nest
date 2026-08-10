@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Memristive_Solutions]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Scale_Dependent_Coherence]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

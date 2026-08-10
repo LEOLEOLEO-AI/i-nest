@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[CirculateFiringNeuron]]
 [[Developmental_Computing]]
+[[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]

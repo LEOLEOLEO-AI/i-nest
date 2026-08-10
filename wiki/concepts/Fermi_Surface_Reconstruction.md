@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopologyMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Topology_Adaptation]]
+[[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

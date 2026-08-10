@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DifferentiableRasterizationPipeline]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

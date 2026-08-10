@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
 [[AutogradCompatibleSpiking]]
+[[AutomatedQuantizationFramework]]
 [[CollectiveDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]

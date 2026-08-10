@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]
+[[Inference_Workload_Profiling]]
 [[Network_Topology_Design]]
 [[TCC]]
 

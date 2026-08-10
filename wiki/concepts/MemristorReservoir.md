@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Substrate]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

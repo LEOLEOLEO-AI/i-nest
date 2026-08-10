@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDI_Bond]]
 [[SDI_TopologyWaferIntegration]]
+[[SDI_Topology]]
+[[SDSoW]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

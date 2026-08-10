@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[Chiplet_Interconnect_Topology]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

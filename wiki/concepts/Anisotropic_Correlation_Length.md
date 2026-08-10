@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedTrainingCommunicationPattern]]
 [[Dynamic_Expert_Fusion]]
 [[Electronic_Warfare_Integration]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

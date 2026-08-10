@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[DelayCodedWorkingMemory]]
 [[Event_Driven_Architecture]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Spiking]]
+[[Spiking_Neural_Network]]
 [[StreamDataflowArchitecture]]
 [[iNEST]]
 

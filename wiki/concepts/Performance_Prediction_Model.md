@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]
+[[BitPrecisionAwareScheduling]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

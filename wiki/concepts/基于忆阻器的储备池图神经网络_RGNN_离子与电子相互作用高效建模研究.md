@@ -23,9 +23,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[Connectome_Verification_Protocol]]
+[[HigherOrderSimplicialDynamics]]
 [[Memristor_Synapse]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[Universal_Claim_Evidence_Requirement]]
+[[_Nature子刊_储备池计算不再是_黑盒_Intel与加州伯克利联手打造_原则性_神经形态架构]]
 [[iNEST]]
 [[忆阻器]]
 [[神经网络]]

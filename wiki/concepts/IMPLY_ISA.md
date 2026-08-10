@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FirstPrinciples_AI]]
+[[Hardware_Software_CoDesign]]
 [[Intelligence_Emergence]]
 [[Material_Implication]]
 [[Memristive_Topology]]

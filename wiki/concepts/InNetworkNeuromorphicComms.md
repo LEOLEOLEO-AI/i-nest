@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableEnergyAI]]
 [[InNetworkAgentRewiring]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

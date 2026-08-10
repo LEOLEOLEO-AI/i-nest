@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Regulation]]
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
+[[STDP_Topology_Integration]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[SynapticWeightPlasticity]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikingNeuralNetworkTopology]]
 [[SpikingTopologyEvolution]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamical_State_Space]]
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
+[[FirstPrinciples_AI]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

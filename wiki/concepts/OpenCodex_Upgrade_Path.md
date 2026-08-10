@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RTC_Primitive]]

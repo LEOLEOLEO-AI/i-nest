@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
 [[Heterogeneous_Integration]]
+[[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]

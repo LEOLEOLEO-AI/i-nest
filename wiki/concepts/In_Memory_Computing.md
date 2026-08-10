@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AnalogInMemoryComputing]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Master_SDDE]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Hardware_ANN]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

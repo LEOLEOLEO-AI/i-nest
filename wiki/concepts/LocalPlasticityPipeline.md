@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveFrequencyResonateFire]]
+[[AdaptiveLocalLearning]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

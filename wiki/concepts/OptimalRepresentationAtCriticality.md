@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeOfChaosComputation]]
 [[EdgeOfChaos]]
 [[Fractal_Wavefront_Scaling]]
+[[NonEquilibriumPhaseTransition]]
 [[OptimalRepresentationCriticality]]
 [[OptimalRepresentation]]
 [[Self_Organized_Criticality]]

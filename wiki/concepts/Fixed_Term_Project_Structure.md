@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
+[[NeuromorphicAuditoryFrontend]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[SNN]]

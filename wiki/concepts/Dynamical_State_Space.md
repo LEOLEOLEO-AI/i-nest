@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
+[[FirstPrinciples_AI]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]

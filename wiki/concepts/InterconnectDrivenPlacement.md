@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
+[[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

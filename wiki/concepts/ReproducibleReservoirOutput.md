@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[AnalogInMemoryComputing]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
+[[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -38,7 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
-[[TopologyCentric_Interconnect]]
+[[Topology_Centric_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[On_Chip_STDP_Learning]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

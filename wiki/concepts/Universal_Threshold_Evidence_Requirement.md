@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[NoiseInducedPhaseLocking]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI_STDP]]

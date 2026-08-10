@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Readout_Weight_Training]]
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]
+[[STDP_iNEST]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]

@@ -1,0 +1,38 @@
+---
+title: "Founder_Technical_Lineage"
+type: concept
+domain: Cross
+created: 2026-08-10
+auto: true
+---
+
+# Founder_Technical_Lineage
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-10
+
+## Definition
+The mapping of technical specializations and research backgrounds of AI founders from a specific lab (e.g., Google Brain) to their startup ventures. Reveals which core technical capabilities (e.g., large-scale training, inference optimization) are being commercialized, informing iNEST's neuromorphic hardware requirements.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AI_Faculty_Forum_2026]]
+[[Accessibility_Plasticity]]
+[[Amorphous_Amorphous_Transition]]
+[[Analog_Weight_Storage]]
+[[AstrocyteInspiredRepair]]
+[[NeuromorphicHardware]]
+[[Neuromorphic_Computing]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

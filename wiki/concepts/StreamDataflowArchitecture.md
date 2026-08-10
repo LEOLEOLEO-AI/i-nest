@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
+[[MagnitudePhaseComputationalModel]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Spiking]]

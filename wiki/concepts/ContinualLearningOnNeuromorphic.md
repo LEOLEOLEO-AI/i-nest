@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Architecture_Search]]
+[[AutonomousSpikingDynamics]]
 [[Catastrophic_Forgetting]]
 [[Edge_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

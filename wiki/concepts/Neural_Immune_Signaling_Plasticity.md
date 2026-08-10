@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Accessibility_Plasticity]]
 [[AnisotropicGaussianPrimitives]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]

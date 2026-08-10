@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Substrate]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
 [[SNN]]

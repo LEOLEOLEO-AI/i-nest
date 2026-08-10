@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[OpenCodex_Upgrade_Path]]
 [[Photonic_Chiplet_Interconnect]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

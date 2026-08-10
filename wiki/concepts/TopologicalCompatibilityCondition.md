@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Microgrid_Optimization]]
+[[MultiObjectiveRouting]]
 [[Network_Spatiotemporal_Coordination]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]

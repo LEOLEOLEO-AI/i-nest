@@ -27,10 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[Globally_Optimal_SNN_Training]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LocalQuantumLearningRule]]
+[[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
+[[PolychronousNeuronalGroups]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

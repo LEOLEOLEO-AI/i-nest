@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PhotoInducedCurrent]]
 [[Physical_Reservoir_Substrate]]
+[[QuantumReservoirMemoryCapacity]]
 [[Quantum_Reservoir_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

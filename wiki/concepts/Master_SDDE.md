@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
+[[MeanFieldSpinGlass]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[C__elegans_Connectome]]
 [[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]
+[[DevelopmentalStageEmbedding]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[NestedRepresentation]]

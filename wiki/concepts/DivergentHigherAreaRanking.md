@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Substrate]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]

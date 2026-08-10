@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAsComputation]]
+[[CommunicationAwareComputeRelocation]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Synchronization]]
 [[Heterogeneous_Integration]]

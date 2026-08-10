@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CellEmergence]]
 [[CrossLayer_SignalRouting]]
+[[Deep_Thermalisation]]
 [[DelayPropagationDynamics]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]

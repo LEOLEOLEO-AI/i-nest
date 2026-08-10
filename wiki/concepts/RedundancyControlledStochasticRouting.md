@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]
+[[LLM_Reward_Design]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
