@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 传感器, 电子战, 通信, 技术预测, 创新模式, 军民融合, 量子传感, 认知电子战]
+summary: "DARPA传感器电子战通信技术预测与创新转化路径分析"
+quality: high
+processed: 2026-08-11 21:57
+---
+---
 note_id: 1896185525975594536
 title: "DARPA传感器、电子战与通信领域深度研究报告（下册）：能力与技术预测（2025-2035）"
 type: link

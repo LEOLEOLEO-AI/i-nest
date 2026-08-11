@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [transformer, mamba, 混合架构, 状态空间模型, 高效计算]
+summary: "Transformer-Mamba混合架构技术路线与标杆案例全景解析"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1916458119505529808_Transformer-Mamba混合架构前沿研究全景：技术路线、创新思路与标杆案例解析
 tags:
   - transformer

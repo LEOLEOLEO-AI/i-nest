@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [自指流形, 意识工程, 自由能原理, 耗散结构, 吸引子]
+summary: "提出自指流形智能体理论，实现意识工程化闭环"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1916513861738070216_自指流形智能体：基于三公理·四力校准·三智体协同的意识工程架构——从理论公理到工程实现与数值验证的完整闭
 tags:
   - architecture

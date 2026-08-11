@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 空天, 高超音速, 太空, 自主系统]
+summary: "DARPA空天与高超音速项目深度分析，聚焦自主与弹性架构。"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 note_id: 1896236821843733680
 title: "DARPA空天、太空与高超音速领域项目深度分析报告"
 type: link
@@ -89,3 +97,11 @@ provenance: external
 
 ---
 *getnote | 2026-06-30 12:36*
+
+
+## 相关链接
+- [[DARPA_2025_Project_Report_Summary]]
+- [[DARPA_sensor_EW_comm_tech_forecast_2025_2035]]
+- [[DARPA_Network_InfoWarfare_Strategy_Report_Summary]]
+- [[DARPA_microelectronics_3DHI_photonic_interconnect_strategy]]
+- [[DARPA_Microelectronics_Strategy_3D_Heterogeneous_Integration]]

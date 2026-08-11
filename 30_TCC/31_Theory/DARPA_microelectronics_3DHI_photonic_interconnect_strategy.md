@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 3D异构集成, 光子互连, 半导体, 芯片]
+summary: "DARPA微电子战略：3D异构集成与光子互连驱动后摩尔时代"
+quality: high
+processed: 2026-08-11 21:57
+---
+---
 note_id: 1896186054256571944
 title: "美国DARPA微电子与半导体领域深度研究报告：超越摩尔定律的范式革命"
 type: link
@@ -93,3 +101,11 @@ provenance: external
 
 ---
 *getnote | 2026-06-30 12:36*
+
+
+## 相关链接
+- [[DARPA_3DHI_Strategic_Research_Analysis]]
+- [[DARPA_sensor_EW_comm_tech_forecast_2025_2035]]
+- [[2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
+- [[DARPA_2025_Project_Report_Summary]]
+- [[DARPA_Sensor_EW_Comms_Strategy_Analysis_Vol1]]

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [GPU架构, NVIDIA, Agentic AI, TensorCore, MoE优化]
+summary: "NVIDIA Rubin架构深度解析：补全Blackwell短板，面向Agentic AI优化"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1916400806388186600_NVIDIA Rubin GPU架构深度解析：针对Agentic AI时代的Blackwell缺陷补全与
 tags:
   - architecture

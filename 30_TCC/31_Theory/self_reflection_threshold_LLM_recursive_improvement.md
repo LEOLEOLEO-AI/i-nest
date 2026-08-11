@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [self-reference, self-improvement, recursive, LLM, von Neumann, architecture]
+summary: "大模型自改进需跨过自省阈值，当前架构存在根本限制"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1916969803656088288_大语言模型自指与自省阈值深度研报：递归自我改进的核心门槛
 tags:
   - research

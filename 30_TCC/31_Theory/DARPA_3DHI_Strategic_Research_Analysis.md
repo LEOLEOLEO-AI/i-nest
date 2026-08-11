@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 3D异构集成, 3DHI, 先进封装, 芯粒, NGMM]
+summary: "DARPA 3DHI战略研究：应用场景、技术突破与创新模式"
+quality: high
+processed: 2026-08-11 21:57
+---
+---
 note_id: 1896186104722943152
 title: "DARPA 3D异构集成（3DHI）战略研究：应用场景、技术突破与创新模式"
 type: link

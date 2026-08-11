@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [transformer, architecture, efficiency, attention, top-journal]
+summary: "解析Transformer三大前沿创新方向及三篇顶会论文核心技术。"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1916280986463798168_Transformer前沿创新方向与顶会论文核心技术深度解析
 tags:
   - architecture

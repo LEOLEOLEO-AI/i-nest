@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [Sandia国家实验室, SNN, 开源工具, 异步电路, 复杂网络, 硬件映射]
+summary: "Sandia实验室SNN与异步电路开源工具链解析及研究平台搭建建议"
+quality: high
+processed: 2026-08-11 21:57
+---
+---
 note_id: 1887799671049586040
 title: "Sandia国家实验室"
 type: plain_text

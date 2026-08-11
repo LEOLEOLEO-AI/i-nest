@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 3D异构集成, 微电子战略, ERI2.0, 半导体]
+summary: "DARPA超越摩尔定律战略，以3D异构集成重塑微电子霸权。"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 note_id: 1896186034929219112
 title: "超越摩尔定律：DARPA微电子与半导体战略深度研究报告"
 type: link
@@ -85,3 +93,11 @@ provenance: external
 
 ---
 *getnote | 2026-06-30 12:36*
+
+
+## 相关链接
+- [[DARPA_microelectronics_3DHI_photonic_interconnect_strategy]]
+- [[2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
+- [[DARPA_sensor_EW_comm_tech_forecast_2025_2035]]
+- [[DARPA_3DHI_Strategic_Research_Analysis]]
+- [[DARPA_Network_InfoWarfare_Strategy_Report_Summary]]

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [AI芯片, ASIC, 模型固化, 硬件加速, 架构对比]
+summary: "对比Google Frozen v2与Taalas HC1两种模型专用芯片路线"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1916795386108612360_Google Frozen v2 对比 Taalas HC1：当AI模型开始变成芯片
 tags:
   - semiconductor

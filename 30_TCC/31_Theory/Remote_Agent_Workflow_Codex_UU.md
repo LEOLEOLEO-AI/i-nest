@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 工程
+tags: [远程控制, AI Agent, Codex, UU远程, 多设备协同]
+summary: "Codex+UU远程实现多设备远程操控AI Agent的实操方案"
+quality: medium
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1915949014484419680_远程Agent全流程实操指南：Codex+UU远程实现多设备无负担协同
 tags:
   - physics

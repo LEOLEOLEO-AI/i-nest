@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论/技术
+tags: [transformer, llm, sparse-attention, energy-model, architecture]
+summary: "长上下文稀疏注意力加速器HPCA论文修订策略与能量模型设计原则"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1916664993047942768_HPCA修订意见
 tags:
   - transformer

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论/仿真
+tags: [自指流形, 自由能, 耗散结构, 多智能体, 拓扑收敛]
+summary: "SRMA自指流形智能体理论仿真验证，自由能耗散与拓扑收敛成功"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1916513926163082792_自指流形智能体（SRMA）理论验证仿真体系深度解析
 tags:
   - architecture

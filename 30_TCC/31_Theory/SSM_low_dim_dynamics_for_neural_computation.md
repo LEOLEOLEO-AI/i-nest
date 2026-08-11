@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [neural-dynamics, low-dimensional, SSM, RNN, Nature-Comms]
+summary: "高维RNN核心计算可压缩至1-2维低维动力学"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1916891851072400528_2026年7月Nature Communications研究：高维神经网络核心计算仅需1-2个维度的低维
 tags:
   - research

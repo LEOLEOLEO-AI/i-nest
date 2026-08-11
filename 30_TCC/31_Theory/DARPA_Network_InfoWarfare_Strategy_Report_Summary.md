@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 信息战, 通信网络, 战略布局, 技术代差]
+summary: "DARPA网络信息战通信领域战略布局深度研究报告"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 note_id: 1896185762199320104
 title: "美国DARPA网络、信息战与通信领域战略布局深度研究报告（上册）"
 type: link
@@ -84,3 +92,11 @@ provenance: external
 
 ---
 *getnote | 2026-06-30 12:36*
+
+
+## 相关链接
+- [[DARPA_2025_Project_Report_Summary]]
+- [[DARPA_sensor_EW_comm_tech_forecast_2025_2035]]
+- [[DARPA_Sensor_EW_Comms_Strategy_Analysis_Vol1]]
+- [[DARPA_microelectronics_3DHI_photonic_interconnect_strategy]]
+- [[DARPA_3DHI_Strategic_Research_Analysis]]

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [AI芯片, ASIC, 算力架构, TPU, Trainium]
+summary: "对比谷歌TPU与AWS Trainium两种专用ASIC架构路线，挑战英伟达GPU霸权。"
+quality: high
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1916605442253532712_AI算力架构革命深度研报：专用ASIC双元哲学挑战英伟达通用GPU霸权
 tags:
   - llm

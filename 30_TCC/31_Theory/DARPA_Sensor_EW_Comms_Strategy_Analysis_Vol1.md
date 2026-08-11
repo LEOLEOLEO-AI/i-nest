@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 传感器, 电子战, 通信, 战略分析]
+summary: "DARPA传感器、电子战与通信领域战略分析报告"
+quality: high
+processed: 2026-08-11 21:57
+---
+---
 note_id: 1896185459403601448
 title: "DARPA深度研究：传感器、电子战与通信领域战略分析报告（上册）"
 type: link
@@ -80,3 +88,11 @@ provenance: external
 
 ---
 *getnote | 2026-06-30 12:36*
+
+
+## 相关链接
+- [[DARPA深度研究：传感器、电子战与通信领域战略分析报告（上册）]]
+- [[DARPA_sensor_EW_comm_tech_forecast_2025_2035]]
+- [[DARPA_3DHI_Strategic_Research_Analysis]]
+- [[2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
+- [[人类连接组拓扑结构指导皮层行波传播与频率梯度形成]]

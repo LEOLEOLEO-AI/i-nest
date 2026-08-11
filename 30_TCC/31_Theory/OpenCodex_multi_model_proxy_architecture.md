@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 工程
+tags: [architecture, llm, multi-model, proxy, integration]
+summary: "OpenCodex代理层实现多模型统一接入方案"
+quality: medium
+processed: 2026-08-11 21:58
+---
+---
 title: getnote_1916377159371475776_OpenCodex架构升级：实现Fable 5、Kimi K3、Grok 4.5多模型接入方案
 tags:
   - architecture

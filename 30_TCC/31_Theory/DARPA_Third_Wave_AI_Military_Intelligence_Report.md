@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 第三波AI, 军事智能, 自主系统, 人机协同]
+summary: "DARPA以第三波AI为核心的军事智能革命深度报告"
+quality: high
+processed: 2026-08-11 21:57
+---
+---
 note_id: 1896185579663210024
 title: "DARPA人工智能与自主系统项目深度研究报告：以"第三波AI"为核心的军事智能革命"
 type: link

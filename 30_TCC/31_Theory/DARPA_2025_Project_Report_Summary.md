@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 军事技术, 人工智能, 自主系统, 战略规划]
+summary: "DARPA 2025年在研项目深度报告，以技术代差重塑未来战争形态。"
+quality: high
+processed: 2026-08-11 21:57
+---
+---
 note_id: 1896186147673664688
 title: "美国DARPA 2025年在研项目深度研究报告：以技术代差重塑未来战争形态"
 type: link

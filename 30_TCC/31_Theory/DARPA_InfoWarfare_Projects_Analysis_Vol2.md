@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 信息战, 网络攻防, 软件安全, 通信架构]
+summary: "DARPA网络信息战项目深度分析，聚焦体系化创新与未来能力锻造。"
+quality: medium
+processed: 2026-08-11 21:58
+---
+---
 note_id: 1896236720912002224
 title: "DARPA网络、信息战与通信领域项目深度分析报告（下册）：以体系化创新锻造未来信息战优势"
 type: link
@@ -73,3 +81,11 @@ provenance: external
 
 ---
 *getnote | 2026-06-30 12:36*
+
+
+## 相关链接
+- [[DARPA_sensor_EW_comm_tech_forecast_2025_2035]]
+- [[DARPA_2025_Project_Report_Summary]]
+- [[DARPA_Network_InfoWarfare_Strategy_Report_Summary]]
+- [[DARPA_microelectronics_3DHI_photonic_interconnect_strategy]]
+- [[基于SDI的物理Synapse与NN]]
