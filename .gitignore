@@ -21,10 +21,24 @@ __pycache__/
 
 # 大数据文件（自动排除）
 *.pdf
-*.zip *.tar.gz *.rar *.7z
-*.npy *.mat *.pkl *.h5 *.hdf5 *.npz
-*.pptx *.html *.mp4 *.gif *.avi
-*.png *.jpg *.jpeg
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.npy
+*.mat
+*.pkl
+*.h5
+*.hdf5
+*.npz
+*.pptx
+*.html
+*.mp4
+*.gif
+*.avi
+*.png
+*.jpg
+*.jpeg
 *.csv
 *.js
 90_System/legacy_subvault_git/
@@ -48,7 +62,10 @@ __pycache__/
 30_TCC/35_Simulation/sdi_sim/exp*.json
 30_TCC/35_Simulation/sdi_sim/*.json
 40_iNEST/45_Simulation/data/
-*.xls *.xlsx *.docx *.doc
+*.xls
+*.xlsx
+*.docx
+*.doc
 60_MOC/*.json
 .obsidian/themes/
 20_Processing/_attachments_knowledge/

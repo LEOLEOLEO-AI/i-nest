@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "316b51b8b4a81d85",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "481922bb1f2f841a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/_pipeline_insights/2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Home",
+                  "title": "大模型推理四个阶段的最佳拓扑证明",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":2.727272727272727}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/04 Creating/大模型推理四个阶段的最佳拓扑证明.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"大模型推理四个阶段的最佳拓扑证明\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":170.7407495256167}"
+                },
+                {
+                  "title": "2026-08-07_Gamma_st_Definition_Revision_Proposal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/04 Creating/2026-08-07_Gamma_st_Definition_Revision_Proposal.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-07_Gamma_st_Definition_Revision_Proposal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":95.04736530491415}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/_pipeline_insights/Index.md",
+                "file": "00_Inbox/04 Creating/晶上全 Switchless 方案及工程落地.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,7 +49,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "晶上全 Switchless 方案及工程落地"
             }
           }
         ]
@@ -370,7 +370,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -397,8 +397,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "481922bb1f2f841a",
   "lastOpenFiles": [
+    "00_Inbox/04 Creating/大模型推理四个阶段的最佳拓扑证明.md",
+    "00_Inbox/04 Creating/2026-08-07_Gamma_st_Definition_Revision_Proposal.md",
+    "00_Inbox/_pipeline_insights/2026-08-10_arXiv_Katz Centrality-Based Security Allocation in Positive Networ.md",
+    "00_Inbox/_pipeline_insights/Index.md",
+    "Home.md",
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-06-2409.01434.md",
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-05-index.md",
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-05-2608.03324.md",
@@ -422,11 +427,6 @@
     "90_System/scripts/__pycache__/gen_insights.cpython-310.pyc",
     "90_System/scripts/__pycache__/process_inbox.cpython-310.pyc",
     "00_Inbox/_pipeline_insights/2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N.md",
-    "00_Inbox/_pipeline_insights/Index.md",
-    "00_Inbox/_pipeline_insights/2026-08-08_arXiv_MARS Multipath Adaptive Reliable Service.md",
-    "Home.md",
-    "30_TCC/TCC_Master_Index.md",
-    "40_iNEST/iNEST_Master_Index.md",
     "logs/self_evolve_run_2026-08-11.log",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/scripts/check_parts_browser.mjs",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part3_appendix.png",
