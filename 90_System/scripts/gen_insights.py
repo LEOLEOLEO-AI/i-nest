@@ -60,6 +60,8 @@ resp = client.chat.completions.create(
 )
 report = resp.choices[0].message.content
 
-out_path = VAULT / "60_MOC" / "02_DeepSeek_Insights.md"
-out_path.write_text(report, encoding="utf-8")
-print(f"Saved: {len(report)} chars")
+dated_path = VAULT / "60_MOC" / f"02_DeepSeek_Insights_{datetime.now():%Y-%m-%d}.md"
+dated_path.write_text(report, encoding="utf-8")
+latest_path = VAULT / "60_MOC" / "02_DeepSeek_Insights.md"
+latest_path.write_text(report, encoding="utf-8")
+print(f"Saved: {len(report)} chars -> {dated_path.name}")

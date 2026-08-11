@@ -12,3 +12,47 @@
 [self_evolve] 运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...
 [self_evolve] 健康自检: 笔记 8854 | 真正断链 2006 | 孤儿 3224 | 缺FM 259 -> vault_health.md
 [self_evolve] 自我生长: 补全高频缺失概念占位笔记...
+[self_evolve] 已补全 10 个缺失概念: ['AGI面临的挑战_脑机制自底向顶梳理_下部_5万字', '芯粒破局_互联筑基_奇异摩尔超节点互联芯粒获评_2025年度上海算力产业十大经典案例_', '生态共建_奇异摩尔核心贡献_《OISA全向智感互联IO芯粒技术白皮书》正式发布', 'PNAS_大脑如何一边_预知未来_一边_看清现在_联合群体编码实现时序信息的正交整合', 'Nature重磅_揭秘大脑中的共享神经子空间与几何缩放', '香港理工大学曹建农_南开大学方勇纯团队_上下文感知驱动的具身智能_从环境理解到自主决策', '9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊', '神经形态脉冲大语言模型_NSLLM_连接AI与神经科学的突破性研究', '学术前沿_北京大学团队推出革命性光子计算芯片：实现多功能神经网络重构', '专家观点_余山：从脑网络到类脑计算']
+[self_evolve] 运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...
+[self_evolve] import_processor 退出码=0 | enspark=0, 得到大脑=0, Codex=0
+[08:00:02] Total new files in raw/: 0
+[08:00:02] Inbox pending: 31 files
+[08:00:02] New imports detected — wiki_compiler.py should be triggered next
+[08:00:02] === Done ===
+
+[self_evolve] task_recommender 退出码=0 | sights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+[08:00:15] === Done ===
+
+[self_evolve] research_evolution 退出码=0 | [08:00:15] === Research Evolution Engine ===
+[08:00:15] Hypothesis updates: 0
+[08:00:15] Research directions: 0
+[08:00:15] Report: wiki/evolution_report.md
+[08:00:15] === Done ===
+
+[self_evolve] cross_domain_insight 退出码=0 | y_Wall, SDSoW_TCC_Integration
+       iNEST: FeFET_Polarization_Switching, FerroelectricSynapticArray, GeTeBasedCBRAM
+
+Cross-domain articles: 0
+
+Report: D:\Obsidian\vault\wiki\cross_domain_insights.md
+
+[self_evolve] 刷新 Home.md (实时 git)...
+[self_evolve] homepage 退出码=0 | [08:00:16] === Homepage Generator ===
+[08:00:17] 70_Dashboard/data.js generated
+[08:00:17] Home.md generated (5356 chars)
+[08:00:17] === Done ===
+
+[self_evolve] git add 部分目录无匹配(正常): The following paths are ignored by one of your .gitignore files:
+knowledge_graph
+hint: Use -f if you
+[self_evolve] 已提交 1177 个文件。
+[self_evolve] push 失败, 尝试 pull --no-rebase 后重推: behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+[self_evolve] pull 后重推成功。
+[self_evolve] === 自进化编排结束 | 各步: {'compile': True, 'grow': False, 'health': {'date': '2026-08-11', 'total_notes': 8854, 'missing_frontmatter': 259, 'broken_links': 2006, 'broken_samples': [('GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_', 33), ('GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查', 19), ('GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述', 18), ('The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025', 16), ('GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_', 14), ('GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景', 14), ('GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破', 13), ('GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订', 12), ('GetNote_20260606_100554_kb_iNEST_getnote_1887266194235479456_晶上大脑基础研究课题', 12), ('C.elegans', 11), ('GetNote_20260606_100554_kb_DARPA-research_getnote_1896186120829089320_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径', 11), ('getnote_2026-06-28_拓扑中心计算范式架构研究与液态拓扑生成式计算原型验证项目指南 8.0', 11), ('GetNote_20260606_100554_kb_iNEST_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景', 11), ('2025年10月28号 日记', 11), ('GetNote_20260606_100554_kb_DARPA-research_getnote_1896186147673664688_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态', 10), ('GetNote_20260606_100554_kb_iNEST_getnote_1898552298842526592_神经网络时空协同智能涌现', 10), ('GetNote_20260606_100554_kb_iNEST_getnote_1899812152336800288_吴华强团队与iNEST技术互补', 10), ('2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly', 10), ('GetNote_20260606_100554_kb_iNEST_getnote_1898553563710340192_晶圆级神经网络能效革命', 9), ('GetNote_20260606_100554_kb_project-guide_getnote_1906074590464742600_海河实验室', 9), ('30_TCC\\34_Projects\\_from_ideas\\卫星智能体重大专项建议_v4.md', 9), ('00_Inbox/_pipeline_insights/八大神经网络，从原理到应用', 9), ('复杂网络理论奠基之作深度解析_Complex_networks_Structure_and_dynamics_', 8), ('GetNote_20260606_100554_getnote_1911847292798033216_软件定义晶上系统赋能超线性增益与智能涌现范式报告提纲设计', 8), ('GetNote_20260606_100554_kb_iNEST_getnote_1898555559796441760_数字孪生大脑工程化路径', 8)], 'orphan_notes': 3224}, 'grow_concepts': ['AGI面临的挑战_脑机制自底向顶梳理_下部_5万字', '芯粒破局_互联筑基_奇异摩尔超节点互联芯粒获评_2025年度上海算力产业十大经典案例_', '生态共建_奇异摩尔核心贡献_《OISA全向智感互联IO芯粒技术白皮书》正式发布', 'PNAS_大脑如何一边_预知未来_一边_看清现在_联合群体编码实现时序信息的正交整合', 'Nature重磅_揭秘大脑中的共享神经子空间与几何缩放', '香港理工大学曹建农_南开大学方勇纯团队_上下文感知驱动的具身智能_从环境理解到自主决策', '9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊', '神经形态脉冲大语言模型_NSLLM_连接AI与神经科学的突破性研究', '学术前沿_北京大学团队推出革命性光子计算芯片：实现多功能神经网络重构', '专家观点_余山：从脑网络到类脑计算'], 'phase4': {'import_processor': True, 'task_recommender': True, 'research_evolution': True, 'cross_domain_insight': True}, 'homepage': True, 'git': True} ===

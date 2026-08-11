@@ -43,7 +43,7 @@ def write_status(status, detail, started, timeout_minutes, log_path, exit_code=N
         "detail": detail,
         "log": str(log_path.relative_to(VAULT)).replace("\\", "/") if log_path else None,
         "exit_code": exit_code,
-        "requires_confirmation": status == "timeout",
+        "requires_confirmation": status in ("timeout", "paused"),
     }
     write_json_atomic(STATE / "pipeline_guard_status.json", payload)
 
@@ -87,13 +87,19 @@ def terminate_process_tree(process):
 
 def run_pipeline(timeout_minutes, resume):
     if PAUSE_FILE.exists() and not resume:
-        paused = json.loads(PAUSE_FILE.read_text(encoding="utf-8"))
-        write_status("paused", "Previous timeout requires confirmation.", None,
-                     timeout_minutes, None)
-        print("[PAUSED] Pipeline requires explicit --resume.")
-        return 2
-    if resume and PAUSE_FILE.exists():
-        PAUSE_FILE.unlink()
+        try:
+            paused = json.loads(PAUSE_FILE.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            paused = {}
+        if paused.get("status") in ("timeout", "paused"):
+            write_status("paused", "Previous timeout requires confirmation.", None,
+                         timeout_minutes, None)
+            print("[PAUSED] Pipeline requires explicit --resume.")
+            return 2
+        # Stale "cleared" marker from an already-fixed run: remove and continue.
+        PAUSE_FILE.unlink(missing_ok=True)
+    if resume:
+        PAUSE_FILE.unlink(missing_ok=True)
 
     LOGS.mkdir(parents=True, exist_ok=True)
     started = now()

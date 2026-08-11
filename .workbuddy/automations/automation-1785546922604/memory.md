@@ -104,3 +104,13 @@
 - homepage：5342 chars + data.js 刷新成功
 - git：提交 3202 文件，push github main 成功（knowledge_graph 被 .gitignore 忽略属正常，已优雅跳过）
 - 观察：import_processor 提示 "New imports detected"（34 个 Inbox 待处理），下轮 compile 自动带走。
+
+### 2026-08-11（grow 超时，其余全绿）
+- **wiki_grow 超时（600s, exit 124）**：本轮交叉链接/去重未完成，是孤儿数跳升的根因（见下）。按规则只记录、未重试/未改代码。
+- compile 增量：3 篇文章 → 10 个概念（LLM 抽取 3 个额外概念）
+- 健康自检：笔记 8854 · 真正断链 2006 · 孤儿 **3224**（↑，因 grow 未跑）· 缺FM 259（仍<3%）
+- 概念补全：10 个占位笔记（长标题 getnote/Nature/PNAS/院士撰文等文献）
+- phase4：import_processor raw/ 新文件 0 / Inbox 待处理 31；task_recommender 3 条 LOW；research_evolution 0 更新；cross_domain_insight 0 篇
+- homepage：5356 chars + data.js 刷新成功
+- git：提交 1177 文件，push 首次 behind 失败，pull --no-rebase 后重推成功
+- **待办/观察**：wiki_grow 在 600s 超时，可能概念基数增长后 O(n²)/倒排索引开销回升；可考虑评估是否提高 self_evolve.py 中 grow 步骤超时（如 900s）或再做性能优化。当前仅记录，未改动。

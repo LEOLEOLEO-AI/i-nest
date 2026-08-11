@@ -105,13 +105,15 @@ processed: {datetime.now().strftime("%Y-%m-%d %H:%M")}
     
     filepath.write_text(content, encoding="utf-8")
 
-def process_inbox(dry_run=False):
+def process_inbox(dry_run=False, limit=None):
     """Main inbox processor"""
     if not INBOX.exists():
         print("Inbox not found")
         return
     
     md_files = list(INBOX.rglob("*.md"))
+    if limit is not None:
+        md_files = md_files[:limit]
     if not md_files:
         print("No files in inbox")
         return
@@ -187,5 +189,10 @@ def process_inbox(dry_run=False):
     return results
 
 if __name__ == "__main__":
-    dry = "--dry-run" in sys.argv
-    process_inbox(dry_run=dry)
+    import argparse
+    parser = argparse.ArgumentParser(description="Inbox digest engine")
+    parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--limit", type=int, default=None,
+                        help="???? N ??????")
+    args = parser.parse_args()
+    process_inbox(dry_run=args.dry_run, limit=args.limit)

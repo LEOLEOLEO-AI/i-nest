@@ -4,25 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "ca16d1bb644c01b6",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "d96d5aa2d3c71ee9",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/_pipeline_insights/2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":2.727272727272727}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "00_Inbox/_pipeline_insights/Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +49,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Index"
             }
           }
         ]
@@ -354,18 +366,16 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 534.5,
-    "collapsed": true
+    "width": 534.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "markitdown:Convert to Markdown": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -387,55 +397,55 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d96d5aa2d3c71ee9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "90_System/scripts/__pycache__/gen_insights.cpython-310.pyc",
+    "90_System/scripts/__pycache__/process_inbox.cpython-310.pyc",
+    "00_Inbox/_pipeline_insights/2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N.md",
     "00_Inbox/_pipeline_insights/Index.md",
-    "50_Output.md",
-    "wiki/concepts/_麻省大学夏强飞_Nat_Electron_基于忆阻器的细胞神经网络_实现高速像素内计算的新突破.md",
-    "wiki/concepts/3DIC_EDA之一_基于Chiplet集成的计算架构.md",
-    "wiki/concepts/综述_革新神经形态计算：基于忆阻器的人工神经元.md",
-    "wiki/concepts/AGI面临的挑战_脑机制自底向顶梳理_下部_5万字.md",
-    "wiki/concepts/Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图.md",
-    "wiki/concepts/_Nature大子刊_中科院院士发文_算力暴涨100万倍_忆阻器_变废为宝_利用噪声搞定量子化学.md",
-    "wiki/concepts/科研与学术品牌_CREST_iNEST_.md",
-    "wiki/concepts/郭平_人工智能的第一性原理是什么？.md",
-    "wiki/concepts/HotChip2024后记_谈谈加速器互联及ScaleUP为什么不能用RDMA.md",
-    "wiki/concepts/Nat_Methods_中科院生物物理所发布TransBrain_实现人-鼠跨物种全脑互译.md",
-    "wiki/concepts/WeightedPathInfluence.md",
-    "wiki/concepts/CentralityBasedDefense.md",
-    "wiki/concepts/PositiveNetworkSecurity.md",
-    "wiki/concepts/KatzCentralitySecurityAllocation.md",
-    "wiki/articles/2026_08_10_arXiv_Katz_Centrality_Based_Security_Allocation_in_Positive_Networ.md",
-    "wiki/concepts/QuadraticSpeedup.md",
-    "wiki/concepts/TravelTimeDistributionEncoding.md",
-    "wiki/concepts/StochasticVehicleRouting.md",
-    "wiki/concepts/QuantumAmplitudeEstimation.md",
-    "wiki/articles/2026_08_08_arXiv_Quantum_Amplitude_Estimation_for_Travel_Time_Estimation_in_S.md",
-    "wiki/concepts/ProprioceptiveFeatureExtraction.md",
-    "wiki/concepts/NonvisualGroundClassification.md",
-    "wiki/concepts/AmoebaInspiredLocomotion.md",
-    "wiki/concepts/ArtificialProprioception.md",
-    "logs/pipeline_20260808_0814.json",
-    "logs/pipeline_20260807_0828.json",
-    "logs/self_evolve_run_20260807.log",
-    "logs/self_evolve_run_2026-08-06.log",
-    "logs/pipeline_20260806_1616.json",
-    "90_System/scripts/__pycache__/getnotes_importer.cpython-310.pyc",
-    "90_System/scripts/__pycache__/pull_getnotes.cpython-310.pyc",
-    "90_System/scripts/add_frontmatter_batch.py",
-    "logs/pipeline_20260805_0830.json",
+    "00_Inbox/_pipeline_insights/2026-08-08_arXiv_MARS Multipath Adaptive Reliable Service.md",
+    "Home.md",
+    "30_TCC/TCC_Master_Index.md",
+    "40_iNEST/iNEST_Master_Index.md",
+    "41_Theory 1.md",
+    "44_Projects.md",
+    "34_Projects 1.md",
+    "32_Tech 1.md",
+    "31_Theory 1.md",
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-03-index.md",
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-03-2607.29434.md",
+    "wiki/concepts/专家观点_余山：从脑网络到类脑计算.md",
+    "wiki/concepts/学术前沿_北京大学团队推出革命性光子计算芯片：实现多功能神经网络重构.md",
+    "wiki/concepts/神经形态脉冲大语言模型_NSLLM_连接AI与神经科学的突破性研究.md",
+    "wiki/concepts/9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊.md",
+    "wiki/concepts/香港理工大学曹建农_南开大学方勇纯团队_上下文感知驱动的具身智能_从环境理解到自主决策.md",
+    "wiki/concepts/Nature重磅_揭秘大脑中的共享神经子空间与几何缩放.md",
+    "wiki/concepts/PNAS_大脑如何一边_预知未来_一边_看清现在_联合群体编码实现时序信息的正交整合.md",
+    "wiki/concepts/生态共建_奇异摩尔核心贡献_《OISA全向智感互联IO芯粒技术白皮书》正式发布.md",
+    "wiki/concepts/芯粒破局_互联筑基_奇异摩尔超节点互联芯粒获评_2025年度上海算力产业十大经典案例_.md",
+    "60_MOC/00_Diagnostic_Report_2026-08-11.md",
+    "wiki/concepts/Compact_Boson_Dynamics.md",
+    "wiki/concepts/Nonvisual_Ground_Condition_Classification.md",
+    "logs/self_evolve_run_2026-08-11.log",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/scripts/check_parts_browser.mjs",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part3_appendix.png",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part3_p100_tcc_topology.png",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part2_closing.png",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part2_p61_intelligence_scale.png",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part1_closing.png",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part1_p17_neuron.png",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part1_p3_energy_gap.png",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part1_cover.png",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/scripts/screenshot_check.mjs",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shot_old_deck.png",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shot_cover.png",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/part3/assets/motion.min.js",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/part3/assets",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/part2/assets/motion.min.js",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/part2/assets",
+    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/part1/assets/motion.min.js",
     "未命名.canvas",
-    "00_Inbox/04 Creating",
-    "50_Output/56_Prototypes/iNEST_investor_demo/logo.png",
-    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_6_Γ_stu.png",
-    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_5_E_diss.png",
-    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_4_AIS.png",
-    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_3_TE.png",
-    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_2_m_hat.png",
-    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_1_lambda_max.png",
-    "50_Output/SDSoW_iNEST_PPT/resources/images/chip_0_A(t).png",
-    "50_Output/SDSoW_iNEST_PPT/resources/images/sdi.png",
-    "50_Output/SDSoW_iNEST_PPT/resources/images/sdde.png",
     "80_Archive/Inbox_legacy/待分类/未命名.canvas",
     "80_Archive/05_Fleeting/待分类/未命名.canvas",
     "Inbox/待分类/未命名.canvas",
