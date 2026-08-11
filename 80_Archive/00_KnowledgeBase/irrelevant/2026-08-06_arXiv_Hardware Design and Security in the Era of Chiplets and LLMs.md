@@ -2,14 +2,14 @@
 title: "Hardware Design and Security in the Era of Chiplets and LLMs"
 date: 2026-08-06
 source: arXiv
-track: TCC
+track: General
 authors: 
 year: 2026
 url: http://arxiv.org/abs/2608.05063v1
 tags: [inbox, tcc, arxiv]
 citations: 0
-relevance: 1
-status: inbox
+relevance: 0
+status: rejected
 ---
 
 # Hardware Design and Security in the Era of Chiplets and LLMs
@@ -32,3 +32,6 @@ Review for relevance to TCC/iNEST.
 
 ---
 *2026-08-06 缁夋垹鐖虹粻锛勫殠v3.1閼奉亜濮╅幓鎰仹 | 閻╃鍙ф惔? 1/3*
+
+> [!warning] ????2026-08-11?
+> ??? chiplet ?????attack surface / hardware security??? TCC ?????????????????????

@@ -137,6 +137,11 @@ ARXIV_QUERIES = [
     ("bridge-network-comp", 'abs:("complex network" OR "network science") AND abs:(computing OR architecture OR chip OR hardware)'),
     # Information theory + emergence
     ("bridge-info-emergence", 'abs:("information theory" OR "integrated information" OR "mutual information") AND abs:(emergence OR criticality OR "complex network")'),
+
+    # Topology-Centric Computing core (user-mandated: only topological center computing)
+    ("TCC-topology-centric", 'abs:("topology-centric computing" OR "topological center computing" OR "topological computing" OR "topology as a computing primitive" OR "topology-based computing")'),
+    # Complex-network emergent intelligence (user-mandated)
+    ("bridge-complex-emergence", 'abs:("complex network" OR "network science" OR "higher-order network" OR "network topology") AND abs:(emergence OR "emergent intelligence" OR "collective intelligence" OR computation OR computing)'),
 ]
 
 # Google News RSS queries (for latest news)
@@ -161,28 +166,74 @@ def is_new(title):
     seen_titles.add(key)
     return True
 
+_NEG_TERMS = (
+    "security", "attack", "attacks", "attacker", "threat", "intrusion",
+    "malware", "ransomware", "false data injection", "networked control",
+    "adversarial", "trusted", "trustworthy", "trust", "tee", "sgx",
+    "confidential", "blockchain", "differential privacy", "federated learning",
+    "privacy", "cyber", "cryptograph", "authentication", "anomaly detection",
+    "intrusion detection", "defense", "defence", "risk assessment",
+    "cryptocurrency", "denial of service", "cyberattack",
+)
+
+
+def _term_hits(text, terms):
+    """Word-boundary-aware phrase matching (avoids 'interconnect' matching 'interconnected')."""
+    hits = []
+    for t in terms:
+        if re.search(r'(?<![a-z0-9])' + re.escape(t) + r'(?![a-z0-9])', text):
+            hits.append(t)
+    return hits
+
+
 def is_target_relevant(title, abstract, track):
-    """Reject broad-search noise before spending an LLM call."""
+    """Reject broad-search noise before spending an LLM call.
+
+    TCC/iNEST targets: topological center computing + complex-network emergent
+    intelligence.  Anything in the security/trust/control-theory domain is
+    hard-excluded (TCC must NOT be read as Trusted Computing Cloud).
+    """
     text = f"{title} {abstract}".lower()
-    tcc_terms = (
+    # Hard exclude: security/trust/control-theory domains are NOT targets
+    if _term_hits(text, _NEG_TERMS):
+        return False
+    tcc_core = (
+        "topological center computing", "topology-centric computing",
+        "topology centric computing", "topological computing",
+        "topology-based computing", "topology as a computing primitive",
+    )
+    tcc_eng = (
         "network-on-chip", "noc", "chiplet", "wafer-scale", "wafer scale",
-        "interconnect", "routing", "3d-ic", "3d ic", "silicon interposer",
-        "photonic interconnect"
+        "3d-ic", "3d ic", "silicon interposer", "photonic interconnect",
+        "reconfigurable interconnect", "software-defined interconnect",
     )
-    inest_terms = (
-        "neuromorphic", "spiking neural", "spiking", "neural network",
+    inest_core = (
         "self-organized criticality", "self-organised criticality", "criticality",
-        "emergence", "emergent", "reservoir computing", "memristor", "synaptic"
+        "emergence", "emergent intelligence", "collective intelligence",
+        "complex network", "network science", "higher-order interaction",
+        "simplicial complex", "reservoir computing", "liquid state machine",
+        "spiking neural", "neuromorphic", "integrated information",
+        "causal emergence", "phase transition", "bifurcation", "edge of chaos",
     )
-    tcc_context = ("computing", "computer", "network", "interconnect", "routing", "chip", "architecture", "hardware")
-    tcc_match = any(term in text for term in tcc_terms)
-    tcc_topology_match = "topology" in text and any(term in text for term in tcc_context)
-    inest_match = any(term in text for term in inest_terms)
+    tcc_context = ("computing", "computer", "network", "interconnect", "routing",
+                   "chip", "architecture", "hardware", "topology")
+    tcc_core_hit = _term_hits(text, tcc_core)
+    tcc_eng_hit = _term_hits(text, tcc_eng)
+    ctx_hit = _term_hits(text, tcc_context)
+    comp_ctx = _term_hits(text, ("computing", "computer", "interconnect",
+                                 "routing", "chip", "architecture", "hardware"))
+    tcc_match = bool(tcc_core_hit) or (bool(tcc_eng_hit) and bool(ctx_hit)) or (
+        "topology" in ctx_hit and bool(comp_ctx))
+    inest_core_hit = _term_hits(text, inest_core)
+    neural_ctx = _term_hits(text, ("neural", "brain", "network", "dynamics",
+                                   "cortex", "synapse", "cognition"))
+    inest_match = bool(inest_core_hit) and (
+        bool(neural_ctx) or "emergence" in text or "critical" in text)
     if track == "TCC":
-        return tcc_match or tcc_topology_match
+        return tcc_match
     if track == "iNEST":
         return inest_match
-    return tcc_match or tcc_topology_match or inest_match
+    return tcc_match or inest_match
 
 def generate_deep_insight(title, text, detail):
     """LLM-powered deep TCC/iNEST insight generation."""
@@ -208,12 +259,22 @@ def generate_deep_insight(title, text, detail):
     except Exception:
         pass
 
-    # Keyword fallback
+    # Keyword fallback (strict: word-boundary + domain exclusions)
     text_lower = text.lower()
-    kw_tcc = ['noc','network-on-chip','chiplet','wafer','interconnect','topolog','routing','scale-up','scale-out']
-    kw_inest = ['neural','emergence','critical','self-organiz','bifurcation','nonlinear','spiking','reservoir','dynamics','phase transition']
-    tcc_hits = [kw for kw in kw_tcc if kw in text_lower]
-    inest_hits = [kw for kw in kw_inest if kw in text_lower]
+    if _term_hits(text_lower, _NEG_TERMS):
+        return {'relevance_score': 0}
+    kw_tcc = ['noc', 'network-on-chip', 'chiplet', 'wafer-scale', 'wafer scale',
+              '3d-ic', 'silicon interposer', 'reconfigurable interconnect',
+              'software-defined interconnect', 'topological center',
+              'topology-centric', 'topological computing', 'routing']
+    kw_inest = ['self-organized criticality', 'emergence', 'emergent intelligence',
+                'collective intelligence', 'complex network', 'network science',
+                'criticality', 'spiking neural', 'neuromorphic',
+                'reservoir computing', 'simplicial complex',
+                'higher-order interaction', 'integrated information',
+                'phase transition', 'bifurcation']
+    tcc_hits = _term_hits(text_lower, kw_tcc)
+    inest_hits = _term_hits(text_lower, kw_inest)
 
     if not tcc_hits and not inest_hits:
         return {'relevance_score': 0}
