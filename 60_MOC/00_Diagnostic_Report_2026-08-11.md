@@ -220,3 +220,26 @@ status: review
 - [ ] （可选）本地删除备份 `D:\Obsidian\.git_old_20260811`（716MB）与 `.rescue_clean` 临时克隆
 
 **长期规则**（已写入 AGENTS.md 第五节）：Git 白名单 .md/.py/.yaml 且 <5MB；禁止 pdf/zip/媒体/二进制；大文件落盘不落库；Gitee 超配额先点仓库 GC。
+
+
+---
+
+## ✅ 2026-08-11 傍晚追加：P1 执行结果（已完成）
+
+**P1-1 结构清理**：
+- 根目录 15 个探针脚本 + .gitconfig_backup.sh → `90_System/scripts/_probes_archive/`；.kb_sync_state.json → `90_System/state/`；删除空文件 .gitignore.local；根目录仅剩 Home.md / 20_Processing.md / 50_Output.md / .env / .gitignore
+- 规则大脑收敛：RULES.md / MEMORY.md / SOUL.md / USER.md / schema.md → `90_System/legacy_rules/`；唯一规则来源为 `D:\Obsidian\AGENTS.md`（v4.5+第五六节，reorganize.py / residual_fixer.py 引用集合同步更新）
+- 生成物移出 Git 跟踪（磁盘保留，.gitignore 生效）：wiki/backlinks.md(2.3MB)、wiki/index.md、60_MOC/00_Dedup_Log.md(336KB)、90_System/conflict-files-obsidian-git.md(203KB)；Smart Connections 自动读取 .gitignore 一并生效
+
+**P1-2 索引与 token 控制**：
+- Smart Connections（smart_env.json）：folder_exclusions = wiki, 80_Archive, 20_Processing, 90_System, 99_Meta
+- Omnisearch：downrankedFoldersFilters 同目录（降权不破坏链接）
+- 预计启动索引体积下降 60%+，不再卡死“建立索引”
+
+**闭环验证**：
+- process_inbox.py --limit 20 实测成功：20 篇全部处理（17→30_TCC，3→40_iNEST），每篇自动建立 5 个双向链接，0 错误
+- 定时任务就绪：08:00 iNEST_Daily_Pipeline / 20:00 iNEST_Inbox_Afternoon(--limit 20 + gen_insights) / 21:00 iNEST_Daily_Sync / 周日03:00 iNEST_Weekly_Health
+
+**遗留（待后续分批）**：
+- 20_Processing 616 篇：20_KnowledgeBase/arxiv-auto(537) 为已结构化 Genspark 论文日报，保持现状；external_imports(62)+inbox_overflow(12) 建议纳入每日消化批次
+- 00_Inbox 剩余 ~155 篇：由每日 20:00 任务按 20 篇/日消化
