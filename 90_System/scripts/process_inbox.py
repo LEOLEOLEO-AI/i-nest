@@ -35,6 +35,7 @@ def classify_and_extract(content, filename):
 返回:
 {{
     "direction": "TCC 或 iNEST 或 both",
+    "primary_direction": "TCC 或 iNEST；仅 direction=both 时必填，表示主归档方向",
     "category": "理论/技术/工程/项目/仿真/资料",
     "tags": ["tag1", "tag2", "tag3"],
     "summary": "一句话中文摘要(30字内)",
@@ -124,6 +125,10 @@ def process_inbox(dry_run=False, limit=None):
     for f in md_files:
         if "_pipeline_insights" in f.parts:
             continue
+        if "日记" in f.name or "journal" in f.name.lower() or "diary" in f.name.lower():
+            print(f"    Journal excluded: {f.name}")
+            results["skipped"] += 1
+            continue
         print(f"\n  [{f.name[:60]}]")
         try:
             content = f.read_text(encoding="utf-8", errors="replace")
@@ -143,6 +148,7 @@ def process_inbox(dry_run=False, limit=None):
                 continue
             
             direction = analysis.get("direction", "unknown")
+            primary_direction = analysis.get("primary_direction", direction)
             category = analysis.get("category", "资料")
             print(f"    → {direction}/{category}: {analysis.get('summary','?')[:60]}")
             
@@ -155,16 +161,16 @@ def process_inbox(dry_run=False, limit=None):
             add_frontmatter_and_links(f, analysis, related)
             
             # Move to target
-            if direction == "TCC":
+            if primary_direction == "TCC":
                 subdir = TCC_DIRS.get(category, "31_Theory")
                 dest_dir = VAULT / "30_TCC" / subdir
-            elif direction == "iNEST":
+            elif primary_direction == "iNEST":
                 subdir = INEST_DIRS.get(category, "41_Theory")
                 dest_dir = VAULT / "40_iNEST" / subdir
             else:
                 # both or unknown → TCC by default
                 dest_dir = VAULT / "30_TCC" / "31_Theory"
-                direction = "TCC"
+                primary_direction = "TCC"
             
             dest_dir.mkdir(parents=True, exist_ok=True)
             # Use suggested filename if available
@@ -179,7 +185,7 @@ def process_inbox(dry_run=False, limit=None):
                 shutil.move(str(f), str(dest))
                 print(f"    Moved → {dest.relative_to(VAULT)}")
             
-            results[direction] += 1
+            results[primary_direction] += 1
             
         except Exception as e:
             print(f"    ERROR: {e}")

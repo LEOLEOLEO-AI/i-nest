@@ -34,6 +34,10 @@ def main():
             continue
         files = sorted(src.glob("*.md"))[: args.limit]
         for f in files:
+            if "日记" in f.name or "journal" in f.name.lower() or "diary" in f.name.lower():
+                print("  skip (journal):", f.name)
+                results["skipped"] += 1
+                continue
             content = f.read_text(encoding="utf-8", errors="replace")
             if len(content.strip()) < 50:
                 print("  skip (too short):", f.name)
@@ -46,6 +50,7 @@ def main():
                 results["failed"] += 1
                 continue
             direction = analysis.get("direction", "unknown")
+            primary_direction = analysis.get("primary_direction", direction)
             category = analysis.get("category", "资料")
             print("    -> %s/%s : %s" % (direction, category, str(analysis.get("summary", "?"))[:50]))
             related = find_related_files(content, direction)
@@ -53,15 +58,15 @@ def main():
                 print("    [dry-run] would move with %d links" % len(related))
                 continue
             add_frontmatter_and_links(f, analysis, related)
-            if direction == "TCC":
+            if primary_direction == "TCC":
                 subdir = TCC_DIRS.get(category, "31_Theory")
                 dest_dir = VAULT / "30_TCC" / subdir
-            elif direction == "iNEST":
+            elif primary_direction == "iNEST":
                 subdir = INEST_DIRS.get(category, "41_Theory")
                 dest_dir = VAULT / "40_iNEST" / subdir
             else:
                 dest_dir = VAULT / "30_TCC" / "31_Theory"
-                direction = "TCC"
+                primary_direction = "TCC"
             dest_dir.mkdir(parents=True, exist_ok=True)
             new_name = analysis.get("suggested_filename", f.stem)
             if not new_name.endswith(".md"):
