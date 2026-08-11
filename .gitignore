@@ -87,3 +87,16 @@ MEMORY.md.backup_*
 .neural_db/
 .openclaw/
 .tasks/
+
+# ---- Gitee quota slim-down (2026-08-11): keep binary/large out of git ----
+# simulation payloads / vendor libs / figures (stay on disk, not in git)
+*.tar.bz2
+*.tiff
+*.tif
+*.dll
+*.pyd
+40_iNEST/45_Simulation/data_local/
+40_iNEST/45_Simulation/v_cst_validation/_vendor/
+50_Output/54_Code/inest_sdde_figs/
+crystal-brain/
+sdi_paper/
