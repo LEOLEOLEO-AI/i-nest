@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [transformer, 推理, 互连, 拓扑, 计算通信匹配, 白皮书]
+summary: "Transformer推理全流程计算-通信-拓扑匹配白皮书"
+quality: high
+processed: 2026-08-11 21:50
+---
+---
 title: "Transformer 推理全流程的计算—通信—拓扑匹配白皮书"
 tags:
   - infrastructure

@@ -1,3 +1,11 @@
+---
+direction: both
+category: 理论
+tags: [Transformer推理, 矩阵形状, 通信原语, 拓扑设计, Prefill/Decode分离]
+summary: "Transformer推理四相位由矩阵形状决定通信原语与拓扑需求"
+quality: high
+processed: 2026-08-11 21:50
+---
 # Transformer 推理全流程：矩阵怎么算，网络就得怎么长
 
 ## 〇、总纲：一句话
@@ -283,3 +291,11 @@ $$\underbrace{V\gg 0}_{\text{bisection}}\quad \underbrace{\alpha\text{-bound}}_{
 
 ---
 
+
+
+## 相关链接
+- [[Transformer_Inference_Compute_Communication_Topology_Matching_Whitepaper]]
+- [[混合专家大语言模型的系统与架构优化技术综述]]
+- [[2026-06-28_智算算力芯片网络互连创新实践与发展趋势综述_从固定拓扑到液态拓扑计算]]
+- [[2026-06-28_从固定拓扑到液态拓扑计算]]
+- [[中科院类脑脉冲大模型SpikingBrain-1_0技术解析]]

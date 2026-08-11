@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [iNEST, CST, SDDE, criticality, neuromorphic, self-organization, first-principles, emergence]
+summary: "从物理第一性原理到晶圆级智能涌现的iNEST理论体系总结。"
+quality: high
+processed: 2026-08-11 21:50
+---
+---
 title: getnote_1916677671790876272_iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现
 tags:
   - network

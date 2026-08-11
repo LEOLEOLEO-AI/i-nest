@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 技术
+tags: [拓扑中心计算, 软件定义互联, NCCL, 集合通信, 架构设计]
+summary: "提出TCC架构，融合NCCL与SDI实现计算-拓扑-通信协同优化"
+quality: high
+processed: 2026-08-11 21:50
+---
+---
 title: "拓扑中心计算方案"
 aliases:
   - getnote_2026-08-04_getnote_1917408480877909400_拓扑中心计算方案

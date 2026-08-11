@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [SDSoW, TCC, NCCL, 晶上系统, 可重构互连]
+summary: "提出晶上系统TCC方案，实现拓扑软件定义与动态重构"
+quality: high
+processed: 2026-08-11 21:50
+---
+---
 title: "软件定义晶上系统"
 aliases:
   - getnote_2026-08-04_getnote_1917409580389430544_软件定义晶上系统

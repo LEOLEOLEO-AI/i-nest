@@ -1,3 +1,11 @@
+---
+direction: both
+category: 理论
+tags: [拓扑优化, 大模型推理, 图论, 带宽预算, TCC]
+summary: "证明大模型四阶段推理需四张拓扑图，并发互斥不可行"
+quality: high
+processed: 2026-08-11 21:50
+---
 > "为什么四张图必须同时存在"的质疑。以下给出**符号表 → 形式化约束 → 互斥定理组（含证明）→ 时序解存在性 → 实验验证路径**，并标注每条证明对 TCC 拓扑页机制的具体支持位置。
 
 ---
@@ -187,3 +195,10 @@ Chain/Pipeline（推理流水）、
 All‑to‑All（MoE 分发）、
 Torus（近邻规约）、
 Butterfly/Shuffle（FFT 与置换类）。
+
+## 相关链接
+- [[RTC_primitive_metatopology_mapping]]
+- [[2026-06-21 iNEST Daily Crawl]]
+- [[2026-06-10 iNEST Daily Crawl]]
+- [[2026-06-09 iNEST Daily Crawl]]
+- [[2026-06-23 iNEST Daily Crawl]]

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [SDSoW, CST, TCC, iNEST, iMESO, 知识库基线]
+summary: "SDSoW到iNEST知识库基线导航，定义工程科研基线。"
+quality: high
+processed: 2026-08-11 21:51
+---
+---
 title: "从SDSoW到iNEST知识库基线导航"
 version: v0.1
 status: baseline-draft
@@ -29,3 +37,11 @@ SDSoW提供介观、动态可重构的物理网络底座；CST提供复杂度的
 2. iNEST（intelligent Emerging from Network Temporal-spatial Synergy complexity)面向物理智能的智涌脑路线；仿真、度量与生物对照是研发和验证支撑链。
 3. 所有性能主张必须标注`[Measured]`、`[Simulated]`、`[Literature]`、`[Derived]`或`[Pending]`，并绑定验证任务。
 4. 任何系统级非线性增益表述均遵循既有[TCC验证协议](http://127.0.0.1:8899/tmp_gh/50_Output/Reports/2026-07-20_TCC_System_Nonlinear_Gain_Verification_Protocol.md)。
+
+
+## 相关链接
+- [[晶上类脑的源起_内涵与规划]]
+- [[岭南论坛CCF]]
+- [[inest_tcc_emergence_intelligence_report_outline]]
+- [[iNEST_theory_summary_from_physics_to_emergence]]
+- [[iNEST-Home]]

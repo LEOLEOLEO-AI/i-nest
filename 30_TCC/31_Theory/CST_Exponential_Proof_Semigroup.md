@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [CST, 指数项, 半群, 时空协同, 非线性增益, 条件定理]
+summary: "证明CST指数项是唯一连续解，基于可加性公理。"
+quality: high
+processed: 2026-08-11 21:49
+---
+---
 title: "CST 指数项的数学证明：时空协同与非线性增益"
 date: "2026-08-07"
 status: "[推导] 条件定理，待正式发表与独立复核"
@@ -184,3 +192,11 @@ $$
 
 3. 可加性交给 $A=\alpha\Gamma_{st}$，$\alpha=n_{\mathrm{ch}}\ln M_{\mathrm{eff}}$ 为广延量，$\Gamma_{st}$ 保持强度、有界、连续。
 4. 该修订的具体依据与验证步骤见《2026-08-07_Gamma_st_Definition_Revision_Proposal》。
+
+
+## 相关链接
+- [[CST_Symbol_Baseline_符号基准_全局权威基线]]
+- [[CST理论v25_完整知识体系]]
+- [[CST_Symbol_Baseline_符号基准]]
+- [[CST_Experiment_Alignment_Diagnosis]]
+- [[CST]]

@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 理论
+tags: [CST, 唯一性证明, Cauchy-Aczél, U4公理化, 可组合性]
+summary: "用U4公理化替代隐藏假设，完成CST唯一性证明并设计三臂判别实验"
+quality: high
+processed: 2026-08-11 21:50
+---
+---
 title: "第四幕 唯一性证明 · 最终方案（U4 公理化 + 三臂判别实验）"
 date: "2026-08-07"
 status: "[评审提案] 待团队评审后定稿"
@@ -262,3 +270,11 @@ $$\Gamma_{st}=\tanh\!\left(\frac{I(M_s;M_T)-\mathbb{E}[I]_{\mathrm{null}}}{k\,\s
 ---
 
 *证据徽章说明：B=数学证明；C=公开工程数据；D=本报告假设，待证伪。所有 `[待测]` 项在取得实测/权威文献前不得作为论据。*
+
+
+## 相关链接
+- [[CST_V42.1_Review_Revision]]
+- [[Gamma_st_Definition_Revision_Proposal_2026-08-07]]
+- [[iNEST_自演化机制全景总结_最小作用量到物理智能]]
+- [[LNN-iNEST_深度机理对比_连续状态演化与工程实现差异]]
+- [[同济大学___耶鲁大学_为物理信息神经网络注入隐藏的物理法则_1]]

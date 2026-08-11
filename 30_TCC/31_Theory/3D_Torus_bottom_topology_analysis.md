@@ -1,3 +1,11 @@
+---
+direction: both
+category: 理论
+tags: [3D Torus, 拓扑生成, 晶上网络, OCS, 低度拓扑]
+summary: "论证3D Torus为晶上网络最优底层拓扑，可灵活生成高阶拓扑。"
+quality: high
+processed: 2026-08-11 21:50
+---
 # 一、每节点的物理端口数（度数）
 
 |#|物理拓扑|degree（逻辑邻居数）|单端口意义|主要采用者|
@@ -116,3 +124,10 @@ Copy结论 1：3D Torus 6 度是 产业 30+ 年 验证过的 量级点。
        「 3D Torus 6 度 晶上基座 + 12-bit 页 + G3/G2/G1/G0 express 」为拓扑页机制顶金。
        能 在一个 wafer/面板 上 stamp 10 万～100 万 节点 鱼骨例。
 ```
+
+## 相关链接
+- [[TPU8i_CAE_Boardfly_TCC_analysis]]
+- [[2026-04-24_类脑动态可塑物理网络颠覆性研究 体系布局]]
+- [[The Topology of Local Computing in Networks]]
+- [[2026-07-13-2504.18902]]
+- [[TCC_Switchless_Feasibility_and_Engineering]]

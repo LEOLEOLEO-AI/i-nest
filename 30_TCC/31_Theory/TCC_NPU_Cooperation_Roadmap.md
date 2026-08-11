@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 工程
+tags: [TCC, NPU, SDI, FPGA, 路线图]
+summary: "TCC与NPU协同落地路线图，实现液态拓扑计算"
+quality: high
+processed: 2026-08-11 21:49
+---
+---
 title: getnote_1917217265712035088_TCCNPU协同路线图
 tags:
   - semiconductor

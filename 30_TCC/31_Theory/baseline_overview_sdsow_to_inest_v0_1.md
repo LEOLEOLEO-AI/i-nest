@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [SDSoW, CST, TCC, iNEST, SDI, iMESO, 智能分级, 基线]
+summary: "从SDSoW到iNEST的基线总纲，定义TCC与iNEST边界及六级智能框架"
+quality: high
+processed: 2026-08-11 21:51
+---
+---
 title: "从SDSoW到iNEST基线总纲"
 version: v0.1
 status: baseline-draft
@@ -42,3 +50,11 @@ created: 2026-08-01
 | L6 | 超级 | 仅开展理论与安全边界研究，不作为近期工程主张 |
 
 `D:\iNEST\Write\Code\other\iNEST4.html`中的路线图常数属于规划阈值，本基线不将其视为已验证的自然常数。
+
+
+## 相关链接
+- [[CST_Experiment_Alignment_Diagnosis]]
+- [[sdsow_to_inest_baseline_navigation]]
+- [[iNEST_RnD_Workflow_v2]]
+- [[CST仿真平台科学依据]]
+- [[iNEST-Home]]
