@@ -302,7 +302,7 @@ def write_insight(title, abstract, url, source, track="General", year="", author
     s2_id = extract_s2_id_from_url(url) if source == 'S2' else None
     is_dup, reason = is_duplicate_crossday(title, s2_id)
     if is_dup:
-        log(f"  鐠哄疇绻?闁插秴顦?: {title[:50]}... [{reason}]")
+        log(f"  跳过重复: {title[:50]}... [{reason}]")
         return False
     
     detail = s2_detail or {}
@@ -316,7 +316,7 @@ def write_insight(title, abstract, url, source, track="General", year="", author
     insight = generate_deep_insight(title, full_text, detail)
     
     if not insight or insight.get('relevance_score', 0) == 0:
-        log(f"  鐠哄疇绻?瀵京娴夐崗?: {title[:50]}...")
+        log(f"  跳过低相关: {title[:50]}...")
         return False
     
     tcc_block = ""
@@ -356,10 +356,10 @@ def write_insight(title, abstract, url, source, track="General", year="", author
     parts.append(f"**{authors}** ({detail.get('year', year)}) | *{journal or 'N/A'}*")
     parts.append(f"**Citations**: {citations} | **References**: {refs}")
     if fields:
-        parts.append(f"**妫板棗鐓?*: {fields}")
+        parts.append(f"**领域**: {fields}")
     if doi:
         parts.append(f"**DOI**: {doi}")
-    parts.append(f"**闁剧偓甯?*: [{url}]({url})")
+    parts.append(f"**链接**: [{url}]({url})")
     parts.append("")
     if tldr:
         parts.append(f"## Summary")
@@ -388,7 +388,7 @@ def write_insight(title, abstract, url, source, track="General", year="", author
         parts.append(insight['actionable'])
         parts.append("")
     parts.append("---")
-    parts.append(f"*{TODAY} 缁夋垹鐖虹粻锛勫殠v3.1閼奉亜濮╅幓鎰仹 | 閻╃鍙ф惔? {insight.get('relevance_score', 1)}/3*")
+    parts.append(f"*{TODAY} pipeline v3.1 自动生成 | 相关度: {insight.get('relevance_score', 1)}/3*")
     
     content = "\n".join(parts)
     with open(fp, "w", encoding="utf-8") as f:
@@ -400,7 +400,7 @@ def write_insight(title, abstract, url, source, track="General", year="", author
 
 def crawl_semantic_scholar():
     """Search Semantic Scholar API for TCC/iNEST papers."""
-    log("[S2] 濡偓缁?Semantic Scholar...")
+    log("[S2] 检索 Semantic Scholar...")
     count = 0
     for query in S2_QUERIES:
         params = {
@@ -660,7 +660,7 @@ Content: {content[:1500]}"""
         target = VAULT / "_archive" / "low_quality" / fp.name
         target.parent.mkdir(parents=True, exist_ok=True)
         os.rename(fp, target)
-        log(f"  閿?ARCHIVE {fp.name}")
+        log(f"  存档 {fp.name}")
         return
     
     # Map to directory
@@ -685,7 +685,7 @@ Content: {content[:1500]}"""
         f.write(content)
     
     os.rename(fp, target)
-    log(f"  閿?{target.relative_to(VAULT)} [{track}]")
+    log(f"  归档 {target.relative_to(VAULT)} [{track}]")
 
     log("[Process] LLM classified inbox note")
     return 1

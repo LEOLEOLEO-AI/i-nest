@@ -1,0 +1,56 @@
+---
+direction: both
+category: 技术
+tags: [SDI, NPU, NoC, 集成架构, 硬件设计]
+summary: "SDI与NPU NoC集成方案白皮书，涵盖三种集成模式与微架构设计。"
+quality: high
+processed: 2026-08-11 21:19
+---
+---
+title: getnote_1917227927968871696_SDI与NPU集成方案
+tags:
+  - design
+  - architecture
+  - hardware
+  - sdi-bond
+date: 2026-08-01 21:39
+source: GetNotes
+score: 10
+---
+
+## Original Note
+
+---
+note_id: 1917227927968871696
+title: "SDI与NPU集成方案"
+type: plain_text
+created: 2026-08-01 12:14:10
+source: getnote
+kb: 
+---
+
+# SDI与NPU集成方案
+
+好的，已经生成了一份独立的文档《SDI 与 NPU NoC 集成方案白皮书》，共九章 + 附录，约 15000 字。内容涵盖：
+
+- 三种集成模式（外挂式 / Chiplet 级 / 片内融合式）的完整架构
+- 分布式 SDI 交换单元的微架构设计（流水线、路由表、面积估算）
+- TopoColor 虚通道机制（流控、调度、Color 数量选择）
+- 死锁预防与活锁避免策略
+- Page Commit 的硬件实现细节
+- 技术演进路径与退出条件
+- 与 NPU NoC 团队的对接清单
+
+需要我对文档的某个章节做进一步扩充或调整吗？
+
+---
+*getnote | 2026-08-01 21:39*
+
+
+---
+
+## Related Notes
+
+[[FPGA原型]]
+[[SDI化合物键_四型架构]]
+[[iNEST-MOC]]

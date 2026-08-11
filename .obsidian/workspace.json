@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "316b51b8b4a81d85",
+        "id": "81364bb812d2a67f",
         "type": "tabs",
         "children": [
           {
-            "id": "481922bb1f2f841a",
+            "id": "4062b52e7250d12f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,23 +18,35 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "大模型推理四个阶段的最佳拓扑证明",
+                  "title": "01_baseline_overview_v0_1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/04 Creating/大模型推理四个阶段的最佳拓扑证明.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"大模型推理四个阶段的最佳拓扑证明\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":170.7407495256167}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/13_Codex/01_baseline_overview_v0_1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"01_baseline_overview_v0_1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":28.170777803121638}"
+                },
+                {
+                  "title": "00_moc_sdsow_to_inest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/13_Codex/00_moc_sdsow_to_inest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_moc_sdsow_to_inest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":6.706036745406824}"
                 },
                 {
                   "title": "2026-08-07_Gamma_st_Definition_Revision_Proposal",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/04 Creating/2026-08-07_Gamma_st_Definition_Revision_Proposal.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-07_Gamma_st_Definition_Revision_Proposal\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":95.04736530491415}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "晶上全 Switchless 方案及工程落地",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00_Inbox/04 Creating/晶上全 Switchless 方案及工程落地.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"晶上全 Switchless 方案及工程落地\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/04 Creating/晶上全 Switchless 方案及工程落地.md",
+                "file": "00_Inbox/13_Codex/02_glossary_symbols_formulas_v0_1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,7 +61,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "晶上全 Switchless 方案及工程落地"
+              "title": "02_glossary_symbols_formulas_v0_1"
             }
           }
         ]
@@ -157,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518
+    "width": 330
   },
   "right": {
     "id": "b131a582ddb31d11",
@@ -370,7 +382,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 443
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -397,36 +409,39 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "481922bb1f2f841a",
+  "active": "4062b52e7250d12f",
   "lastOpenFiles": [
-    "00_Inbox/04 Creating/大模型推理四个阶段的最佳拓扑证明.md",
+    "00_Inbox/13_Codex/01_baseline_overview_v0_1.md",
+    "00_Inbox/13_Codex/00_moc_sdsow_to_inest.md",
     "00_Inbox/04 Creating/2026-08-07_Gamma_st_Definition_Revision_Proposal.md",
-    "00_Inbox/_pipeline_insights/2026-08-10_arXiv_Katz Centrality-Based Security Allocation in Positive Networ.md",
-    "00_Inbox/_pipeline_insights/Index.md",
-    "Home.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-06-2409.01434.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-05-index.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-05-2608.03324.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-05-2608.03181.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-05-2608.02753.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-05-2608.02606.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-05-2607.27140.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-05-2305.12342.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-index.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-2608.01646.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-2608.01622.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-2608.01487.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-2608.00849.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-2608.00249.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-2607.24373.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-2607.15902.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-2606.17091.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-2601.16589.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-2509.16309.md",
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-04-2509.14910.md",
+    "00_Inbox/04 Creating/晶上全 Switchless 方案及工程落地.md",
+    "30_TCC/31_Theory/SDI_NPU_NoC_Integration_Architecture_Whitepaper.md",
+    "30_TCC/31_Theory/Suzhou_Lab_iNEST_Project_Guide_Analysis.md",
+    "30_TCC/31_Theory/CST_theory_research_progress_discussion_2026-07-31.md",
+    "30_TCC/31_Theory/Route_Transform_Conditional_Algebraic_Framework_TCC.md",
+    "30_TCC/31_Theory/CST_Three_Proofs_Unified.md",
+    "30_TCC/31_Theory/CST_iNEST_FirstPrinciples_Framework.md",
+    "30_TCC/31_Theory/CST_axiomatic_derivation_analysis.md",
+    "30_TCC/31_Theory/RG_first_principles_derivation_CST_master_equation.md",
+    "30_TCC/31_Theory/Cornell_FPGA_CNN_Accelerator_Project.md",
+    "30_TCC/31_Theory/efficient_deep_learning_topology_simplification.md",
+    "30_TCC/31_Theory/topological_limits_of_deep_learning.md",
+    "30_TCC/31_Theory/soft-biomolecular-network-brain-inspired-temporal-computing.md",
+    "30_TCC/31_Theory/hippocampus_sequence_priority_analysis.md",
+    "30_TCC/32_Technology/wafer_level_heterogeneous_integration_sdsow_tcc.md",
+    "30_TCC/31_Theory/SDSoW_control_plane_TCC_architecture.md",
+    "30_TCC/31_Theory/Radiation-hardened_chip_roadmap_28nm_to_7nm.md",
+    "30_TCC/31_Theory/KV_boundary_contract_heterogeneous_PD_inference.md",
+    "30_TCC/31_Theory/space_computing_architecture_fpga_asic_gpu.md",
+    "30_TCC/31_Theory/Heterogeneous_LLM_Inference_Architecture_Analysis.md",
+    "30_TCC/31_Theory/CoPoS_vs_EMIB_Chiplet_Integration.md",
+    "30_TCC/31_Theory/cortical_traveling_waves_network_mechanisms.md",
+    "60_MOC/02_DeepSeek_Insights_2026-08-11.md",
+    "30_TCC/32_Technology",
+    "80_Archive/00_KnowledgeBase/irrelevant",
+    "logs/pipeline_guard_20260811_090457.log",
     "90_System/scripts/__pycache__/gen_insights.cpython-310.pyc",
     "90_System/scripts/__pycache__/process_inbox.cpython-310.pyc",
-    "00_Inbox/_pipeline_insights/2026-08-06_arXiv_Towards Trustworthy Hypergraph Neural Networks under Label N.md",
     "logs/self_evolve_run_2026-08-11.log",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/scripts/check_parts_browser.mjs",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part3_appendix.png",
@@ -442,9 +457,6 @@
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shot_old_deck.png",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shot_cover.png",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/part3/assets/motion.min.js",
-    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/part3/assets",
-    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/part2/assets/motion.min.js",
-    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/part2/assets",
     "未命名.canvas",
     "80_Archive/Inbox_legacy/待分类/未命名.canvas",
     "80_Archive/05_Fleeting/待分类/未命名.canvas",
