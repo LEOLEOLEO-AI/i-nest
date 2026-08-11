@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[ForwardFluctuationGradient]]
 [[Heterogeneous_Integration]]
+[[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

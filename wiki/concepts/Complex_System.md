@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
+[[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

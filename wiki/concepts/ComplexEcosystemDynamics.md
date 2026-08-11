@@ -37,7 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
 [[SDI_STDP]]
+[[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

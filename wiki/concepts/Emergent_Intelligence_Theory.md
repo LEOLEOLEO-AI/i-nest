@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
+[[CollectiveDynamics]]
+[[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]

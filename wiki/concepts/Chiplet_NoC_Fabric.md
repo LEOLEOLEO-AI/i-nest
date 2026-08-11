@@ -24,11 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[P_Paradigm]]
 [[SDI_Bond]]
+[[SDI_Topology]]
 [[TCC]]
 
 ## Sources

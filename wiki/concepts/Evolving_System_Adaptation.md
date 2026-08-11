@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Stacking]]
+[[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]

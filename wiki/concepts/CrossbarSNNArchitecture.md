@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

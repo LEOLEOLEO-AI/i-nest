@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
+[[FPGA_Neuromorphic_Architectures]]
 [[FrozenRateOperator]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Security]]
+[[In_Package_Interconnect_Trust]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[神经网络]]

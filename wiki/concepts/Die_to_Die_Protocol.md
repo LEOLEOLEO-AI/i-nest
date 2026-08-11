@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
+[[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MultibodyInteractionCascade]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
+[[NeuromorphicHardwareDeployment]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]

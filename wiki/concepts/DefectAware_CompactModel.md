@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricNvCap]]
+[[FerroelectricSynapticArray]]
 [[FerroelectricSynapticDevices]]
 [[Ferroelectric_Devices]]
 [[HZO_FerroelectricCapacitor]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AsynchronousEventDrivenComputation]]
 [[Controlled_Release_Kinetics]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]

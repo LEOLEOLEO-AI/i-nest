@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Prototyping]]
 [[EEGSpikeEncoding]]
 [[EnsembleCreditAssignment]]
+[[ErrorAmplificationLimits]]
 [[SNN]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

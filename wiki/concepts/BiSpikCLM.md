@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[MultiScaleTemporalProcessing]]
+[[Multifractal_Signatures]]
 [[NeuromorphicDetectionBackbone]]
 [[NeuromorphicHardware]]
 [[NeuromorphicSafetyBoundary]]

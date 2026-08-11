@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[Contested_Priors_Mechanism]]
+[[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]

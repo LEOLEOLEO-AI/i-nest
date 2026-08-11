@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

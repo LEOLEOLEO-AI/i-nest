@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[HebbianLimitCycleLearning]]

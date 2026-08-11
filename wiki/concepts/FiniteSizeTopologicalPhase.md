@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Nonreciprocity_Threshold]]
+[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[STDP_Plasticity]]
 [[STDP_Topology_Integration]]
 [[Self_Organized_Criticality]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[AutonomousSpikingDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TemporalLearning]]

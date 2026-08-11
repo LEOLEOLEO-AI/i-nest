@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[ReSCom_Accelerator]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[Reconfigurable_Spiking_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]

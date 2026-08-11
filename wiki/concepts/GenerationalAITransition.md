@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
 [[ContextualReasoning]]
+[[Continual_Learning_Modularity]]
 [[DataDrivenMaterialDesign]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

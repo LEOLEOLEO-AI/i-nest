@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SoftwareDefinedSystemOnWafer]]
+[[SoftwareDefined_NoC_Routing]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[TopologyProgramming]]

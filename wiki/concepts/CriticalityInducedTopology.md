@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Dynamic_Expert_Fusion]]
+[[EventDrivenRiskAssessment]]
+[[Interconnect_Routing]]
 [[Long_Range_Interactions]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

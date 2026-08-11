@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[ContinuousGameOfLife]]
+[[CrossDomain_Abstraction]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

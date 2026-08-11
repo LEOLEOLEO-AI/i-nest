@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FixedOverheadCost]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

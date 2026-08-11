@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RoutabilityDrivenFloorplanning]]
 [[SDI_Bond]]
+[[SDI_Control_Plane_Offload]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DynamicSpikePruning]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Representation_Learning_Generalization]]

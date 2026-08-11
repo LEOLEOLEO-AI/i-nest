@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
+[[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

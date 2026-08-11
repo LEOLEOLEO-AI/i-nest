@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
+[[AI_Faculty_Forum_2026]]
 [[Active_Inference_Architecture]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Agent_Workflow_Automation]]

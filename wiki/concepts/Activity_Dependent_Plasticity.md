@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AdaptiveSTDP]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

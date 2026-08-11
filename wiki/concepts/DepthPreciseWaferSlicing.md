@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
+[[DTGA]]
 [[TCC]]
 
 ## Sources

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Neural_Dynamics]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
 [[SelfOrganizedOscillatoryLearning]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[UniSpike_Acceleration]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

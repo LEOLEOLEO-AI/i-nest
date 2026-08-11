@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_iNEST_Wafer]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BioPlausibleNeuromorphicDisturbanceObserver]]
 [[Cognitive_Relapse_Architecture]]
+[[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Mechanism]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityOffCriticalityTransition]]

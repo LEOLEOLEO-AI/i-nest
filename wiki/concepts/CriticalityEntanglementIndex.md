@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[DynamicalSelfDualCriticality]]
 [[EdgeOfChaos]]
+[[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[RecursiveSelfReferentialArchitecture]]

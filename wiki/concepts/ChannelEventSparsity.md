@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]

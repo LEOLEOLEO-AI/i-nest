@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
+[[GraphGeometryAlignment]]
 [[Heterogeneous_Integration]]
 [[Loihi2_SpikeEncoding]]
 [[Neuromorphic_Chiplet]]

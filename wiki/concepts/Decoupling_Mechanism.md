@@ -35,10 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TileBasedRasterization]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

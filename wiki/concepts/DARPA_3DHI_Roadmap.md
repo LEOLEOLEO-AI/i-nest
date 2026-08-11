@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Heterogeneous_Integration]]
 [[Allreduce_Latency_Probe]]
+[[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Course_Based_FPGA_Projects]]

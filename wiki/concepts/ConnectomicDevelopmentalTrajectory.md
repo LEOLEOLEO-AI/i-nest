@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Environmental_Capability_Context]]
+[[Free_Energy_Principle_Network]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

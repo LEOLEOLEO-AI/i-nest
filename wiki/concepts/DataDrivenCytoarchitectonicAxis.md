@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[InkjetPrintedElectrochemicalSensors]]
+[[Layered_Attractive_Hubbard_Model]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

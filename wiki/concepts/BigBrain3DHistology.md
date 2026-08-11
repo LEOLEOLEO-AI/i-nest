@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CytoarchitectonicAxis]]
+[[DataDrivenCellularAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Entropy_Connectivity_Path]]

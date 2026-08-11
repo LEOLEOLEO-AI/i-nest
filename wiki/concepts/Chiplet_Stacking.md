@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

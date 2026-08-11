@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareLoss]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
+[[LocalQuantumLearningRule]]
 [[Neuromorphic_Computing]]
 [[PinAssignmentOptimization]]
 [[ReconfigurableSpikingRouting]]
@@ -34,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[新型计算]]
 [[神经形态计算]]
+[[神经网络]]
 [[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

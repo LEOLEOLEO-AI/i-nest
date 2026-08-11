@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
+[[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

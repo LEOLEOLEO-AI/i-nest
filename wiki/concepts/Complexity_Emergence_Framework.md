@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Autonomous_Control]]
 [[AI_FullSpectrum_Strategy]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Complex_System]]

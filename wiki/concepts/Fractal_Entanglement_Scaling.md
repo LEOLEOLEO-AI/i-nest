@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MachineLearningNanomaterialDiscovery]]
 [[Model_Routing_Protocol]]
 [[Network_Specific_Embedding_Separation]]
 [[NeuralNetworkSpectralAnalysis]]

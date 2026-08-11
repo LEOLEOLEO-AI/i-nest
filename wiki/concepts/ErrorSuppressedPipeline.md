@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyFragility]]
 [[WaferScaleSubstrate]]
 [[iMESO_PhysicalCarrier]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Transition]]
 [[Disorder_Anomaly_Duality]]
 [[Emergent_Intelligence_Threshold]]
+[[Fractal_Wavefront_Scaling]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

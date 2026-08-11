@@ -25,10 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Analog_Computation]]
 [[BiasEvaluationMetrics]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

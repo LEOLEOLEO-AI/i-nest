@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[Control_Field_Framework]]
 [[CrossLayer_Feedback]]
+[[Crossbar_Programming]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Synaptic_Plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

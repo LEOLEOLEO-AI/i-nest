@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]

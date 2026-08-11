@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
 [[ActivityAvalanche]]
+[[AdaptiveArchitecture]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]

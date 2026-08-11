@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[DataDrivenCellularAxis]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

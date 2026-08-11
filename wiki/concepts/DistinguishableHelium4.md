@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[EventDrivenAttention]]
 [[Intelligence_Emergence]]
+[[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[NeuromorphicSpikingTopology]]

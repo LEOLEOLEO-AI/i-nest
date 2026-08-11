@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalCreditAssignment]]
 [[TemporalDynamicsModeling]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[CorticalTypeDiversity]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]

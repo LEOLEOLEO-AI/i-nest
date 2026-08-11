@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[智能涌现]]
 [[神经网络]]
 [[类脑芯片]]
 

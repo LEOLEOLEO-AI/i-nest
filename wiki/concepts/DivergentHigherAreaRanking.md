@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AlternativeBridgingModels]]
+[[AnomalousSpinTransport]]
 [[Emergent_Intelligence_Threshold]]
 [[GradientFreeLowRankTraining]]
 [[Hardware_Accelerated_SNN]]

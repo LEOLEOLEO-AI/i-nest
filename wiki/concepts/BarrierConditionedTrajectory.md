@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayPropagationDynamics]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

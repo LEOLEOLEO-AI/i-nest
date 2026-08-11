@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Contested_Priors_Mechanism]]
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]

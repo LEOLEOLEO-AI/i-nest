@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
 [[Constructed_Reality_Interconnect]]
+[[CrossLayer_SignalRouting]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

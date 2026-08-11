@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[CirculateFiringNeuron]]
+[[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[ExponentialDenseAssociativeMemory]]
 [[Free_Energy_Principle_Network]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetwork]]
+[[Stigmergic_Graph_Memory]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

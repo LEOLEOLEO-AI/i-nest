@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpectralTransition]]
 [[SuperparamagneticSwitchingRate]]
+[[VascularisedBrainOrganoids]]
 [[iNEST]]
 
 ## Sources

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSpectralProcessing]]
 [[EventDrivenStateEstimation]]
 [[Intelligence_Emergence]]
+[[IntrinsicTimingSTDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

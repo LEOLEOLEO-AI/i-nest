@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[CirculateFiringNeuron]]
 [[CognitiveFeedbackLoop]]
+[[CompetitiveEdgeRewiring]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

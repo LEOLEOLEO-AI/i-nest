@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]

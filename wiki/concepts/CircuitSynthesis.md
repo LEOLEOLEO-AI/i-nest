@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
+[[CognitiveTaskonomy]]
 [[EdgeIoTEnergyAwareness]]
 [[EvolutionarySearch]]
 [[Memristive_Topology]]

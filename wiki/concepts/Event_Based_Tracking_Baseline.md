@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
+[[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]
 [[DelayAwareSpikeEventDelivery]]

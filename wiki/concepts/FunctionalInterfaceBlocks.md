@@ -37,8 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
 [[NeuromorphicGestureEncoding]]
+[[NeuromorphicHarmonyEncoding]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Device]]
+[[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

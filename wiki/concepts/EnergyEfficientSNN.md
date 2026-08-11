@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Orbital_Object_Pipeline]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]

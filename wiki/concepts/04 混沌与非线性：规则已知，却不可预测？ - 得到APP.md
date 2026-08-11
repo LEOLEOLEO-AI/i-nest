@@ -22,6 +22,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
 [[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]

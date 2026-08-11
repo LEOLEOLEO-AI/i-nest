@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[CST_Triad_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

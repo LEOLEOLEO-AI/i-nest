@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Developmental_Computing]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Topology_Mapping]]
+[[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

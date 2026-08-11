@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
+[[BioPlausibleDisturbanceObserver]]
 [[Catastrophic_Forgetting]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]

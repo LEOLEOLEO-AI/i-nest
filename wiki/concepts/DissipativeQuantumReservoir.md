@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

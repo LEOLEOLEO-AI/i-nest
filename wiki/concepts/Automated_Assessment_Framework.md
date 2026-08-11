@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
+[[AutogradCompatibleSpiking]]
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BisectionBandwidthBound]]
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]

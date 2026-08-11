@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Algorithmic_Warfare]]
 [[Avoided_Criticality]]
+[[BioInspired_Interception_Control]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

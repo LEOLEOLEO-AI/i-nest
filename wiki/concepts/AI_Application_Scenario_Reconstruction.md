@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemperatureSensitivityControl]]
+[[ThermallyDrivenSuperparamagnetReservoir]]
 [[TopologyFragility]]
 [[vLLM_plugin_FLSDI]]
 

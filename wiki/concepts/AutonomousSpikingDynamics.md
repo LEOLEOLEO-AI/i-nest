@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Sensor_Fusion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

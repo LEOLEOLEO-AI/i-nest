@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[NCL神经计算定律详解]]
 [[ScaleFreeNetwork]]
 [[Self_Organized_Criticality]]
 [[TCC]]

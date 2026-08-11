@@ -29,8 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
+[[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[神经网络]]
 

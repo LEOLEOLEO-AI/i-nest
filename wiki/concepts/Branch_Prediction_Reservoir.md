@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Stacking]]
+[[AINext_Initiative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Branch_Prediction]]

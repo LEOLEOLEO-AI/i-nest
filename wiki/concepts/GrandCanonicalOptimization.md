@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CircuitTopologyEncoding]]
 [[DelayPropagationDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]

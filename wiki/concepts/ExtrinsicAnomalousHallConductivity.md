@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[Intelligence_Emergence]]
 [[InterconnectDrivenPlacement]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[AdversarialMedicalRobustness]]
 [[Allreduce_Latency_Probe]]
+[[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

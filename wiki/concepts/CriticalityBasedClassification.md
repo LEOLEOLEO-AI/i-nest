@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[DynamicalCriticality]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyAwareLearning]]
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

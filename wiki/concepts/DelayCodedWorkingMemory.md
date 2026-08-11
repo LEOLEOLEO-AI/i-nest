@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AutonomousSpikingDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioPlausiblePredictiveCoding]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]

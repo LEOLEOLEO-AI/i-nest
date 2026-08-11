@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BitPrecisionAwareScheduling]]
+[[Chiplet_NoC_Fabric]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DimensionalityReductionPrinciple]]

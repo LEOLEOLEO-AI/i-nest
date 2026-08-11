@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
+[[ComplexValuedSNN]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

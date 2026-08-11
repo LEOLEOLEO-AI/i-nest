@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSTDP]]
+[[BrainBodyResonance]]
 [[Brain_Connectome]]
 [[Connectome_Transfer]]
 [[Dendritic_In_Context_Learning]]

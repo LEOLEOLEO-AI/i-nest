@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[AI_Faculty_Forum_2026]]
+[[AdvancedPackagingInterconnect]]
 [[BackpropagationFreeLearning]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]

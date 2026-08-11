@@ -22,12 +22,15 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[BackpropagationFreeLearning]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Framework]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 

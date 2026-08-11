@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[Emergent_Abilities]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

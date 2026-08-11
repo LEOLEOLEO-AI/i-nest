@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
+[[Contested_Priors_Mechanism]]
 [[Layered_Attractive_Hubbard_Model]]
 [[MembranePotentialModulation]]
 [[Network_Topology_Design]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ContactOpportunityExploitation]]
 [[DerivativeLineage]]
 [[DoobBarrierConditioning]]
+[[FibonacciMonitoredDynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

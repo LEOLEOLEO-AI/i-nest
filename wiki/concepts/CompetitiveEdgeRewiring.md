@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveFeedbackLoop]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FrozenRateOperator]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

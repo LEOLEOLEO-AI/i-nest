@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
+[[AvalancheTriggeringMechanism]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]

@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AnomalousSpinTransport]]
 [[CST计量仪]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]

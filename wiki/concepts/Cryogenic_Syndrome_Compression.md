@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]

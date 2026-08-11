@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[FitnessPhaseTransition]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]

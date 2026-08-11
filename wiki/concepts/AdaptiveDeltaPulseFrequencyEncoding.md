@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

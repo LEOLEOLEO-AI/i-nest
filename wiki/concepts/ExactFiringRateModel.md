@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[ElasticSpikingTransformer]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenAttention]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

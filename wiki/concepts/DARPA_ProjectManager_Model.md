@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecurrentSpikingSocialNetwork]]
 [[Reservoir_Computing]]
+[[SDSoW]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

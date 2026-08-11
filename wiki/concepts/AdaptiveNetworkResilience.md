@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferScaleTopologyInterconnect]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

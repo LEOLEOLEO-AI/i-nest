@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Metriplectic_Twin]]
 [[Multifractal_Signatures]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neural_Substrate_Independence]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

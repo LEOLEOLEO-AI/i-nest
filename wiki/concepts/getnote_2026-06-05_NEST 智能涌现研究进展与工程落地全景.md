@@ -32,6 +32,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_1]]
 [[Intelligence_Emergence]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[Neuromorphic_Computing]]
@@ -52,3 +53,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[智能涌现]]
 [[涌现]]
+[[神经网络]]

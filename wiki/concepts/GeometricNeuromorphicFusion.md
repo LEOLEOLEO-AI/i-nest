@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenWeightUpdate]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

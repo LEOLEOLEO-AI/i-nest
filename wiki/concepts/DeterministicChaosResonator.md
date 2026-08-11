@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[ApplicationScenarioReconstruction]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[CST_CoordinationMechanism]]
 [[Complex_System]]
 [[Complex_System_Theory]]

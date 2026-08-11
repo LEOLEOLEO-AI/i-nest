@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAuditoryFrontend]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[OpenSource_Neuromorphic_Framework]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

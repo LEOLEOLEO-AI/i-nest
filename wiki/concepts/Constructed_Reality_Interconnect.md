@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Analog_Computation]]
 [[Analog_Weight_Storage]]
@@ -49,6 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

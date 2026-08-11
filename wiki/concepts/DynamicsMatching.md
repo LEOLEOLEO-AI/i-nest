@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Emergent_Abilities]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

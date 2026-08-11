@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[QuantumReservoirMemoryCapacity]]
 [[Readout_Weight_Training]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]

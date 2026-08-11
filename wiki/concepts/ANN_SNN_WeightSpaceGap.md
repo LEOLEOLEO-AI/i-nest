@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActiveDendriteSNN]]
+[[Avoided_Criticality]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenAutoregression]]
 [[EventDrivenSynchronization]]

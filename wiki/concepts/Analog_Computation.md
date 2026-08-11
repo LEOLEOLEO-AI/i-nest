@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[DRBE_MVP_Mainchain]]
+[[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]

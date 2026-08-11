@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralCellularAutomata]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveSTDP]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

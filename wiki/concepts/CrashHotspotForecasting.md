@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[CellEmergence]]
+[[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplosiveTransitionThreshold]]
 [[HardwareAware_DesignSpace]]

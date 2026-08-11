@@ -24,6 +24,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[Nat_Methods_中科院生物物理所发布TransBrain_实现人-鼠跨物种全脑互译]]
 [[TCC]]
 [[iNEST]]
 [[神经网络]]
+
+## Merged From
+- AGI面临的挑战 _ 脑机制自底向顶梳理 下部 5万字 (merged 2026-08-11)

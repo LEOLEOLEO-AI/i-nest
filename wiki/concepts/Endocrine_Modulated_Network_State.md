@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[Reconfigurable_Spiking_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

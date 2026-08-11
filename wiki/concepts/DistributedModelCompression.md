@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[Intelligence_Emergence]]
 [[KnowledgeDistillation]]
+[[MachineLearningNanomaterialDiscovery]]
 [[Network_Topology_Design]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]

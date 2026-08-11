@@ -19,10 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[Allreduce_Latency_Probe]]
 [[EdgeIoTEnergyAwareness]]
 [[ElasticInferenceScheduling]]
 [[Memristive_STDP]]
+[[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Regulation]]

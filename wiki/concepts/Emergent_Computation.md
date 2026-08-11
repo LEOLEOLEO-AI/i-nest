@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[PhotoInducedCurrent]]
+[[QuantumReservoirMemoryCapacity]]
 [[Readout_Weight_Training]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]

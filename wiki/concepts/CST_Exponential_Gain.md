@@ -20,15 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[STDP_iNEST_Memristive]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

@@ -35,11 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[NonEquilibriumComputing]]
+[[OnDie_Fusion]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

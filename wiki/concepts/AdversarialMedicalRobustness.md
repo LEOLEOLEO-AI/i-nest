@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[AutogradCompatibleSpiking]]
 [[AutomatedQuantizationFramework]]
+[[BiSpikCLM]]
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Energy_Efficient_Control]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

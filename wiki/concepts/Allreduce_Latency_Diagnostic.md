@@ -24,10 +24,12 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AdsorptionBiosorptionHybrid]]
 [[Analog_Weight_Storage]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Topology]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

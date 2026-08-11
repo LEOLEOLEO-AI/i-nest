@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
+[[OpenLearningEcosystem]]
 [[RecursiveSelfReferentialArchitecture]]
 
 ## Sources

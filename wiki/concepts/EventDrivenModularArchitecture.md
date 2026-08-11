@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FPGA_SNN_Inference]]
 [[FlexibleNeuromorphicAccelerator]]
 [[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]

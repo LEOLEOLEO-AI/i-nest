@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[ChipletWaferInterconnectScaling]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Packaging]]
+[[CoPoS]]
 [[CoPoS_Integration]]
 [[EMIB_Bridge]]
 [[Heterogeneous_Integration]]

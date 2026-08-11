@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientSNN]]
 [[Intelligence_Emergence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

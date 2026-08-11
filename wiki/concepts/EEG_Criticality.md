@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_of_Natural_Languages]]
 [[EdgeOfChaosComputation]]
 [[EdgeOfChaos]]
+[[In_Package_Neuromorphic_Integration]]
 [[LeftRightAsymmetry]]
 [[LossSpikePhenomenon]]
 [[OODA_Loop_Breaking]]

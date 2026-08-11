@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[DynamicalSelfDualCriticality]]
 [[EdgeOfChaos]]
+[[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

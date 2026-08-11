@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]

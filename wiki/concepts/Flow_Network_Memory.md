@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]

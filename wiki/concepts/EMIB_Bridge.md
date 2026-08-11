@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Architectural_Conditioning]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Packaging]]
+[[CoPoS]]
 [[CoPoS_Integration]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]

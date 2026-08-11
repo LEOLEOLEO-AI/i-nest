@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

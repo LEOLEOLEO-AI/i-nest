@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
 [[BioPlausibleNeuromorphicDisturbanceObserver]]
+[[CircadianGateModulation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

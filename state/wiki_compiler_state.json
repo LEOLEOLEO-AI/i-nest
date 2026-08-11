@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-08-10",
+  "last_compile": "2026-08-11",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -859,7 +859,10 @@
     "00_Inbox/_pipeline_insights/2026-08-08_arXiv_MARS Multipath Adaptive Reliable Service.md": 1786147228.3263016,
     "00_Inbox/_pipeline_insights/2026-08-08_arXiv_Nonvisual Classification of Ground-Condition by Artificial P.md": 1786147911.1682866,
     "00_Inbox/_pipeline_insights/2026-08-08_arXiv_Quantum Amplitude Estimation for Travel Time Estimation in S.md": 1786147228.3092976,
-    "00_Inbox/_pipeline_insights/2026-08-10_arXiv_Katz Centrality-Based Security Allocation in Positive Networ.md": 1786322921.110801
+    "00_Inbox/_pipeline_insights/2026-08-10_arXiv_Katz Centrality-Based Security Allocation in Positive Networ.md": 1786322921.110801,
+    "00_Inbox/SDSoW+TCC赋能LLM推理关键问题答复.md": 1786366814.274716,
+    "00_Inbox/晶上系统控制面问题答复.md": 1786366814.2868304,
+    "00_Inbox/_pipeline_insights/Index.md": 1786353394.390915
   },
   "concept_graph": {}
 }

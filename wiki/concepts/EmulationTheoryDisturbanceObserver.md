@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[SynapticReinforcementConsolidation]]
 [[iNEST]]
 
 ## Sources

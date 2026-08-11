@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]

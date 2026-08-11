@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Algorithmic_Warfare]]
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]
+[[BioInspired_Interception_Control]]
 [[BioPlausibleDisturbanceObserver]]
 [[Boundary_Criticality]]
 [[BranchingRatio]]

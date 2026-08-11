@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Contested_Priors_Mechanism]]
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]

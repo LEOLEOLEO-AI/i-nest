@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Communication_Trace_Diagnostics]]
 [[CrossbarFabricTopology]]
+[[DTGA]]
 [[Heterogeneous_Integration]]
 [[ImmobilizationStabilityMechanism]]
 [[Interconnect_Routing]]

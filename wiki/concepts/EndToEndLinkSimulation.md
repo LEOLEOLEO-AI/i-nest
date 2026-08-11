@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ComputeRelocationOverhead]]
 [[DifferentiableRasterizationPipeline]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

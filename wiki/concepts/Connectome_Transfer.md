@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
+[[STDP_Plasticity]]
 [[Scale_Dependent_Coherence]]
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryDynamics]]

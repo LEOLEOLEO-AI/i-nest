@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[Baseline_Draft_Status]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedNeuralDecoding]]

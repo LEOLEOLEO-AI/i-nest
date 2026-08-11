@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CollectiveSpikingDynamics]]
 [[ContinuousTimeSNN]]
 [[DelayAwareSpikeEventDelivery]]
 [[EnergyEfficientSNN]]

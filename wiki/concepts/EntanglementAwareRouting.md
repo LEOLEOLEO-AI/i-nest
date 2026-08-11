@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]

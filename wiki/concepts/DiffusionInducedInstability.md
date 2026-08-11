@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Induced_Plasticity]]
 [[Dynamic_Expert_Fusion]]
 [[Fixed_Cost_Dominance]]
+[[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

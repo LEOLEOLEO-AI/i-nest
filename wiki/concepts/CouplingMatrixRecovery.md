@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptivePhotonicRouter]]
 [[Allreduce_Latency_Probe]]
+[[AnisotropicSymmetryBreaking]]
 [[CounterstreamSignalPropagation]]
 [[DelayPropagationDynamics]]
 [[DendriticReservoirState]]

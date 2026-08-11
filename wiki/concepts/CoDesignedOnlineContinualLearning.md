@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleNeuromorphicDisturbanceObserver]]
 [[Catastrophic_Forgetting]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CircadianGateModulation]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[HebbianLimitCycleLearning]]

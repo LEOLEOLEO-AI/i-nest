@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DendriticTaskPartitioning]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGASpikeImplementation]]
 [[Intelligence_Emergence]]

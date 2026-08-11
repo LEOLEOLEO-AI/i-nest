@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[CriticalityDrivenEfficientCoding]]
 [[Criticality_Driven_Coding]]
+[[DisorderDrivenQuantumPhaseTransition]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

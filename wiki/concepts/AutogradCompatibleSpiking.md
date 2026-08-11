@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[AutomatedQuantizationFramework]]
 [[BiSpikCLM]]
+[[BioPlausibleDisturbanceEstimation]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]

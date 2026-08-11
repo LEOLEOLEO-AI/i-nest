@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]

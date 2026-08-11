@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

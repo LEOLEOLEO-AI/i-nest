@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Electronic_Warfare_Integration]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

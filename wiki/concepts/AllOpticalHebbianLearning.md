@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[AsymmetricCoupling]]
 [[Biodefense_Threat_Detection_Network]]
+[[Catastrophic_Forgetting]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]

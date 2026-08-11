@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Topology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDI_NoC_Integration]]
 [[SDI_Topology]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

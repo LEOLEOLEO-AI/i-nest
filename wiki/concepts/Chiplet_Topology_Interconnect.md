@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Topology]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

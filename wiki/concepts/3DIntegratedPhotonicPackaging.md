@@ -37,9 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Reconfigurable_Network]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Topology]]
 [[iNEST]]
 

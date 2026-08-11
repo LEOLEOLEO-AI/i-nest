@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalPhaseTransitionStatisticalTest]]
 [[CriticalityInNeuralNetworks]]
 [[CriticalityOnSmallWorlds]]
+[[Criticality_Induced_Plasticity]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]
 [[RecursiveSelfReferentialArchitecture]]

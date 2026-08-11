@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]

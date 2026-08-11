@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BioPlausiblePredictiveCoding]]
 [[BiologicalNoiseMimicry]]
+[[CompartmentalNeuronModel]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

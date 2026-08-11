@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[ResonateAndFireEncoding]]
+[[SpikePacketCompression]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

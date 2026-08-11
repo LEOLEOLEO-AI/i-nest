@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[ErrorSuppressedPipeline]]
 [[ParallelSNNArchitecture]]
+[[QuantumFluctuationDrivenTransport]]
 [[Reservoir_Computing]]
 [[Resilient_Satellite_Mesh]]
 [[SNN]]

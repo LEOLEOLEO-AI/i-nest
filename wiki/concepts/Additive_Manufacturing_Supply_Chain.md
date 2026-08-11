@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalCriticality]]
 [[Free_Energy_Topology_Mapping]]
 [[FrequencyAdaptationMechanism]]
+[[GSK_Summarize]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[MultiModel_Adapter_Architecture]]

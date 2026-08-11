@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeFusionLayer]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

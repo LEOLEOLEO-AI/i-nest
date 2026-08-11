@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

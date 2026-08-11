@@ -41,6 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
+[[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
@@ -49,3 +50,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[神经网络]]

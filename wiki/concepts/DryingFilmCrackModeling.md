@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Entropy_Connectivity_Path]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]

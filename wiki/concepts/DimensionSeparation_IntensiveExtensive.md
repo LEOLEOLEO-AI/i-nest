@@ -24,11 +24,16 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Analog_Computation]]
+[[BackflowTransformation]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

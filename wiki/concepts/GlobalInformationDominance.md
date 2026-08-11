@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
 [[Constructed_Reality_Interconnect]]
+[[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

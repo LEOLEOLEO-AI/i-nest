@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AthermalDynamics]]
 [[BerryCurvatureIsolation]]
+[[CommunicationAwareComputeRelocation]]
 [[Compute_Communication_Topology_Matching]]
 [[DistinguishableHelium4]]
 [[EdgeIoTEnergyAwareness]]

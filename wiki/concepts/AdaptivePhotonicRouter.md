@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[BurstGatedRouting]]
 [[CounterstreamSignalPropagation]]
+[[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

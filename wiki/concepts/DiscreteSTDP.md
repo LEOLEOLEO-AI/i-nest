@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]

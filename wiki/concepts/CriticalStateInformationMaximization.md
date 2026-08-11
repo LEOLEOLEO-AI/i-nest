@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]
 [[Stretched_Criticality]]
 [[Topology_Aware_Spike_Routing]]

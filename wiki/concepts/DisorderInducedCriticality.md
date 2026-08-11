@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalityOnSmallWorlds]]
 [[Criticality_Induced_Computation]]
+[[Criticality_Induced_Plasticity]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

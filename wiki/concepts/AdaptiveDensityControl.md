@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Photonic_Chiplet_Interconnect]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
 

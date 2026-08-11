@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[TwoTimescaleNeuroEvolution]]

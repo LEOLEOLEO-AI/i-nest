@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[CompetitiveEdgeRewiring]]
 [[EEGToNeuromorphicMapping]]
 [[FrozenRateOperator]]
+[[InNetwork_RL_Control]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

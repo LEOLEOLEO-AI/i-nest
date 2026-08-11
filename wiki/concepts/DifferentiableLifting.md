@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
+[[Phase_Transition_Tail_Transition]]
+[[Reservoir_Computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

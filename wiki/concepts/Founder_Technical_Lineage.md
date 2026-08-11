@@ -27,9 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[Amorphous_Amorphous_Transition]]
 [[Analog_Weight_Storage]]
 [[AstrocyteInspiredRepair]]
+[[Complex_System_Theory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

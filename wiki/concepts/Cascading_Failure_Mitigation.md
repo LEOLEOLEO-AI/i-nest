@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Environmental_Capability_Context]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

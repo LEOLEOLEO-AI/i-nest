@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[BigBrainCellularAxis]]
 [[Contested_Priors_Mechanism]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]

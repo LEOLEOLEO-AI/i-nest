@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[BioPlausibleNeuromorphicDisturbanceObserver]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CircadianGateModulation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

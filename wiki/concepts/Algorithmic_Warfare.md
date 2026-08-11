@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality_Based_Feature_Extraction]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

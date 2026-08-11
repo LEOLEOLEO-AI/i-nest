@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
+[[CoDesignedOnlineContinualLearning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

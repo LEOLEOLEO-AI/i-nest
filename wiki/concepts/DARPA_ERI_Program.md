@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Beyond_Moore_Pathway]]
 [[BoundaryObject_Abstraction]]
+[[Causal_Emergence_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ERI]]
 [[Emergent_Intelligence_Threshold]]

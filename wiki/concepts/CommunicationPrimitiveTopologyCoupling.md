@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[Topology_Embedded_Field_Encoding]]
+[[WavelengthMultiplexedInterconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

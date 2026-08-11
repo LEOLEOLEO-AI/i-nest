@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[EEGToNeuromorphicMapping]]
 [[Layered_Attractive_Hubbard_Model]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]

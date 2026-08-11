@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]
+[[Free_Energy_Topology_Mapping]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

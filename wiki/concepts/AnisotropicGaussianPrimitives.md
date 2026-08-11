@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Substrate]]
 [[Reservoir_Computing]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

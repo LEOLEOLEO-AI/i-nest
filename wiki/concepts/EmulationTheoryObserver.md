@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[BrainBodyResonance]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

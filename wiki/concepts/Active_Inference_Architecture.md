@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicSymmetryBreaking]]
 [[CirculateFiringNeuron]]
 [[CognitiveFeedbackLoop]]
+[[CompetitiveEdgeRewiring]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FrozenRateOperator]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

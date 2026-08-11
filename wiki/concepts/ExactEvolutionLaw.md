@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
+[[AdaptiveCompetingInteractions]]
 [[AdaptiveFunctionalTopology]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]

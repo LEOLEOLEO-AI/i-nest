@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[BioPlausibleNeuromorphicDisturbanceObserver]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoDesignedOnlineContinualLearning]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[HebbianLimitCycleLearning]]

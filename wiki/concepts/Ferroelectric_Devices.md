@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
+[[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ArbitraryWavefunctionConfigurability]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Brain_Connectome]]
 [[CST_MasterEquation]]
 [[Complex_System]]

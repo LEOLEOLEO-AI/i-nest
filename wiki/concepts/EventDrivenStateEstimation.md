@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDrivenSpectralProcessing]]
 [[Intelligence_Emergence]]
+[[IntrinsicTimingSTDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

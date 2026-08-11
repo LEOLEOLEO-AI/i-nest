@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
+[[Baseline_Draft_Status]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

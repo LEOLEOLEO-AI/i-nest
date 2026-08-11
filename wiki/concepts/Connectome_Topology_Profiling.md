@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Inspired_Architecture]]
 [[DataProvenanceIntegrity]]
 [[DevelopmentalConnectomeTemporalGraph]]
+[[DevelopmentalStageEmbedding]]
 [[Dynamic_Expert_Fusion]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

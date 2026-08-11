@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[CLINKAsCarrierPrimitive]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]

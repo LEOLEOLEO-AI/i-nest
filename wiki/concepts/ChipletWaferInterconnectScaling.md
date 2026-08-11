@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
+[[MultiObjectiveRouting]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

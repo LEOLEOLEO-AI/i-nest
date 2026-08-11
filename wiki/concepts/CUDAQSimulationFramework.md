@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[OpenSource_Neuromorphic_Framework]]
+[[ReconfigurableSNN_Accelerator]]
 [[Representation_Learning_Generalization]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
