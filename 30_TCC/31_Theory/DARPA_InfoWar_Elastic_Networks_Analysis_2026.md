@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 资料
+tags: [DARPA, 网络安全, 信息战, 弹性网络, 体系化创新, 人工智能]
+summary: "DARPA信息战项目体系化分析，聚焦弹性网络与主动防御技术落地。"
+quality: high
+processed: 2026-08-11 22:30
+---
+---
 category: Project-Management
 date: 2026-06-06 10:05
 entities:

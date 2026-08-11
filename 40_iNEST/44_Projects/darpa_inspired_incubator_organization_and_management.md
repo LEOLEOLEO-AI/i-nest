@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [DARPA, 孵化器, 组织架构, 项目经理制, 创新管理, 生态构建]
+summary: "DARPA扁平化架构、项目经理制与生态构建对专业化孵化器管理的系统借鉴"
+quality: high
+processed: 2026-08-11 22:40
+---
+---
 category: Project-Management
 date: 2026-06-06 10:05
 entities:

@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 资料
+tags: [DARPA, 网络安全, 信息战, 通信网络, 弹性架构, 半导体, 软件安全, 军事战略]
+summary: "DARPA以技术代差构建天基-水下全域高弹性通信网络战略研究"
+quality: high
+processed: 2026-08-11 22:40
+---
+---
 category: Papers
 date: 2026-06-06 10:05
 entities:

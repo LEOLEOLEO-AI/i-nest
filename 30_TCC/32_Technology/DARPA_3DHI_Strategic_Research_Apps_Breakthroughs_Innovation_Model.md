@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [3D异构集成, 先进封装, 芯粒, 混合键合, DARPA, NGMM]
+summary: "DARPA通过3DHI与NGMM计划突破摩尔定律，赋能国防与AI等高性能计算。"
+quality: high
+processed: 2026-08-11 22:50
+---
+---
 category: Chip-Hardware
 date: 2026-06-06 10:05
 entities:

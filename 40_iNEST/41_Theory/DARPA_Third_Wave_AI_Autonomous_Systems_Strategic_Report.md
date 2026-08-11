@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 资料
+tags: [军事智能, DARPA, 自主系统, 第三波AI, 人机协同, 情境适应, 神经符号, 可解释AI]
+summary: "DARPA以第三波AI为核心的军事自主系统战略深度解析。"
+quality: high
+processed: 2026-08-11 22:31
+---
+---
 category: AI-ML
 date: 2026-06-06 10:05
 entities:

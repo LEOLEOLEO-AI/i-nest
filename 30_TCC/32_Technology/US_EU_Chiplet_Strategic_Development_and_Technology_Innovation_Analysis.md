@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [Chiplet, 异构集成, 先进封装, 半导体战略, 接口标准]
+summary: "美欧通过Chiplet与先进封装重塑半导体供应链与技术主权，市场2030年将达1449亿美元。"
+quality: high
+processed: 2026-08-11 22:41
+---
+---
 category: Chip-Hardware
 date: 2026-06-06 10:05
 entities:

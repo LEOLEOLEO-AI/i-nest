@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 资料
+tags: [DARPA, 电子战, 传感器, 通信, 认知电子战, 神经形态, FENCE, 技术预测, 量子传感, PNT]
+summary: "DARPA传感器/电子战/通信十年技术预测，含神经形态相机等颠覆性方向。"
+quality: medium
+processed: 2026-08-11 22:31
+---
+---
 category: Concepts-Theory
 date: 2026-06-06 10:05
 entities:

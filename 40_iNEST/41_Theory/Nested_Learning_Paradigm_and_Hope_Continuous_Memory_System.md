@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [嵌套学习, 连续记忆系统, 联想记忆, 层级更新频率, 深度学习本质]
+summary: "提出嵌套学习范式将深度学习统一为联想记忆嵌套优化，构建Hope连续记忆系统。"
+quality: high
+processed: 2026-08-11 22:42
+---
+---
 category: AI-ML
 date: 2026-06-06 10:05
 entities:

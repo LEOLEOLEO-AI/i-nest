@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [DARPA, 太空技术, 高超音速, 自主系统, 分布式架构]
+summary: "DARPA在空战、太空、高超音速领域的战略布局与技术突破分析"
+quality: high
+processed: 2026-08-11 22:38
+---
+---
 category: Project-Management
 date: 2026-06-06 10:05
 entities:

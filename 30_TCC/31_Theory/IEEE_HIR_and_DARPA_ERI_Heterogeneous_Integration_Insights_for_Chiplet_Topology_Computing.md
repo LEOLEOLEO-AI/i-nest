@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 资料
+tags: [异构集成, 先进封装, 小芯片, 3D集成, IEEE HIR, DARPA ERI]
+summary: "IEEE HIR路线图与DARPA ERI计划在3D集成、先进封装及互连技术上的全景分析与产业布局。"
+quality: high
+processed: 2026-08-11 22:35
+---
+---
 category: Chip-Hardware
 date: 2026-06-06 10:05
 entities:

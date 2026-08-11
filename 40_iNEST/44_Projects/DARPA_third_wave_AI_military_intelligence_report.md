@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [军事智能, 第三波AI, 神经符号AI, 自主系统, DARPA]
+summary: "DARPA以第三波AI推动军事智能从工具到伙伴演进，涵盖空陆海自主化与伦理安全。"
+quality: high
+processed: 2026-08-11 22:33
+---
+---
 category: AI-ML
 date: 2026-06-06 10:05
 entities:

@@ -21,6 +21,19 @@ SOURCES = [
     VAULT / "20_Processing" / "inbox_overflow",
 ]
 
+OUT_OF_SCOPE_TERMS = (
+    "security", "cyber", "information warfare", "电子战", "信息战", "网络战",
+    "军事人工智能", "军用无人", "ransomware", "malware", "intrusion",
+    "攻击检测", "威胁", "空天与高超音速",
+)
+
+
+def out_of_scope(filename, content):
+    # Only title-level hard exclusions are automatic; technical reports may
+    # mention military use cases while still containing relevant chip/topology evidence.
+    title = filename.lower()
+    return any(term.lower() in title for term in OUT_OF_SCOPE_TERMS)
+
 
 def main():
     ap = argparse.ArgumentParser()
@@ -41,6 +54,10 @@ def main():
             content = f.read_text(encoding="utf-8", errors="replace")
             if len(content.strip()) < 50:
                 print("  skip (too short):", f.name)
+                results["skipped"] += 1
+                continue
+            if out_of_scope(f.name, content):
+                print("  skip (out of TCC/iNEST research scope):", f.name)
                 results["skipped"] += 1
                 continue
             print("  processing:", f.name[:60])

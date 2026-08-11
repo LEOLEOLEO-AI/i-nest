@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [异构集成, IEEE HIR, DARPA ERI, chiplet, 3D集成, 先进封装, AI芯片, 半导体]
+summary: "解析IEEE HIR与DARPA ERI如何通过3D集成、小芯片等技术延续摩尔定律，重塑芯片未来。"
+quality: high
+processed: 2026-08-11 22:33
+---
+---
 category: Chip-Hardware
 date: 2026-06-06 10:05
 entities:

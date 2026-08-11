@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 资料
+tags: [马赛克战, 技术代差, 自主系统, 微电子, 未来战争, 网络中心化, 分布式架构]
+summary: "DARPA以马赛克战为核心构建分布式弹性作战网络以追求技术代差"
+quality: high
+processed: 2026-08-11 22:35
+---
+---
 category: Concepts-Theory
 date: 2026-06-06 10:05
 entities:

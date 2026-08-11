@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 资料
+tags: [DARPA, 网络安全, 信息战, 自主防御, 人工智能, CASTLE, CHASE, OPS-5G, Space-BACN, 项目分析]
+summary: "DARPA网络信息战项目体系化创新与落地分析"
+quality: high
+processed: 2026-08-11 22:34
+---
+---
 category: Project-Management
 date: 2026-06-06 10:05
 entities:

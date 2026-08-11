@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [DARPA, 马赛克战, 空天作战, 高超音速, 分布式星座, AI空战]
+summary: "DARPA通过AI、弹性星座与可重复高超音速平台构建下一代分布式空天作战体系"
+quality: high
+processed: 2026-08-11 22:32
+---
+---
 category: Concepts-Theory
 date: 2026-06-06 10:05
 entities:

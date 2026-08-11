@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [DARPA, 三维异构集成, 抗辐射电子, 神经形态计算, 存算一体, 半导体战略]
+summary: "深度解析DARPA ERI 2.0的技术方向、3DHI与极端环境电子学突破及产业链影响"
+quality: high
+processed: 2026-08-11 22:40
+---
+---
 category: Chip-Hardware
 date: 2026-06-06 10:05
 entities:

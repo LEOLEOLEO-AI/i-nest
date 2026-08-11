@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [集成传感技术, 态势感知, 多源信息融合, 边缘计算, 微型化传感器]
+summary: "美日韩欧以等国集成传感军事应用现状与智能化趋势分析"
+quality: high
+processed: 2026-08-11 22:50
+---
+---
 category: Concepts-Theory
 date: 2026-06-06 10:05
 entities:

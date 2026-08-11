@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 工程
+tags: [DARPA, 先进制造, 材料科学]
+summary: "DARPA通过增材制造、资源循环和特种材料三大支柱重塑国防工业，预测2025-2045年技术成熟度与颠覆性变革。"
+quality: high
+processed: 2026-08-11 22:39
+---
+---
 category: Research-Methods
 date: 2026-06-06 10:05
 entities:

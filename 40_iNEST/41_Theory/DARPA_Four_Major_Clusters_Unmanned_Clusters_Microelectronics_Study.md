@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [无人集群, 微电子, 异构集成, 天潜一体化, 自主系统, 群智能, 硬件安全]
+summary: "DARPA无人集群、微电子、后勤与天潜网络四大群组的战略与关键技术分析。"
+quality: high
+processed: 2026-08-11 22:39
+---
+---
 category: Web-Clips
 date: 2026-06-06 10:05
 entities:

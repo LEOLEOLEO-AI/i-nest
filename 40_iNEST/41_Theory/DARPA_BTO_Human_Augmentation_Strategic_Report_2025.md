@@ -1,4 +1,12 @@
 ---
+direction: iNEST
+category: 资料
+tags: [DARPA, 人类增强, 生物技术, 神经工程, 脑机接口, 认知增强, 生物制造, 军事科技]
+summary: "DARPA生物技术战略：战场医疗、士兵增强与认知决胜布局"
+quality: high
+processed: 2026-08-11 22:36
+---
+---
 category: Concepts-Theory
 date: 2026-06-06 10:05
 entities:
