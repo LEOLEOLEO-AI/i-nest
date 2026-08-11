@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [3D异构集成, 存内计算, 封装内光子学, DARPA, 后摩尔定律, 微电子战略, 神经形态芯片, 硬件架构]
+summary: "DARPA通过3DHI与存内计算等推动后摩尔微电子革命。"
+quality: high
+processed: 2026-08-11 22:55
+---
+---
 category: Chip-Hardware
 date: 2026-06-06 10:05
 entities:

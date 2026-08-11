@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [宽禁带半导体, 碳化硅, 氮化镓, AI硬件, 6G射频, eVTOL, 能效突破]
+summary: "第三代半导体SiC/GaN在AI、6G、机器人与eVTOL中实现关键能效突破。"
+quality: high
+processed: 2026-08-11 22:54
+---
+---
 category: Chip-Hardware
 date: 2026-06-06 10:05
 entities:
