@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [重整化群, 标度律, 非线性动力学, 神经形态计算, 理论物理]
+summary: "用重整化群推导器件非线性与智能涌现的普适标度律"
+quality: high
+processed: 2026-08-11 22:22
+---
+---
 title: "Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities: A Renormalization Group Approach"
 date: 2026-03-11 06:58:22
 source: "????"
@@ -736,3 +744,11 @@ PRE接受率:              ★★★★☆  70%
 > [!note]- 版本跟踪
 > 本文另有版本: [[getnote_2026-03-11_Universal Scaling Laws for Intelligence Emergence from Devic]]（主版本）
 > 此文件为 2026-07-07 版本，保留用于版本历史追溯。
+
+
+## 相关链接
+- [[Universal_Scaling_Laws_RG_Approach]]
+- [[Universal Scaling Laws for Intelligence Emergence from Devic]]
+- [[CST_RG第一性原理推导协议]]
+- [[意识最小单位之谜]]
+- [[海河实验室]]

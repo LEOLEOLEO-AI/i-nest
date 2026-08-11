@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 智能化无人作战, 微电子安全, 天潜一体化, 战略分析]
+summary: "DARPA四大项目群战略布局与技术突破深度分析"
+quality: high
+processed: 2026-08-11 22:21
+---
+---
 provenance: external
 ---
 
@@ -116,3 +124,11 @@ source: getnote---
 - **DARPA创新模式**：通过"挑战赛"（如AlphaDogfight Trials）加速技术迭代，Coliseum仿真环境支持百万级作战想定测试。
 - **关键数据指标**：单个"蝠鲼"无人潜航器可监控55-75公里海域，50台协作实现18万平方公里海域布防。
 - **法律伦理争议**：AI自主杀伤决策引发国际人道法合规性讨论，美军强调"人在回路"原则规避伦理风险。
+
+
+## 相关链接
+- [[DARPA_four_project_clusters_strategic_analysis]]
+- [[DARPA_Aerospace_Hypersonic_Analysis_2025]]
+- [[DARPA_Microelectronics_Strategy_3DHI_Paradigm]]
+- [[DARPA_microelectronics_3DHI_photonic_interconnect_strategy]]
+- [[DARPA_airspace_hyper_sonic_strategy_analysis]]

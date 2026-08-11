@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [DARPA, 3D异构集成, 后摩尔时代, 微电子战略, 存内计算]
+summary: "DARPA微电子战略：3D异构集成驱动后摩尔时代范式革命"
+quality: high
+processed: 2026-08-11 22:21
+---
+---
 provenance: external
 ---
 
@@ -93,3 +101,11 @@ source: getnote---
 - **ERI2.0与《芯片法案》协同**：DARPA技术研发与政府产业政策形成“技术突破-产能落地-生态构建”闭环。
 - **JUMP2.0计划**：资助大学开展前瞻性研究，同时要求工业界提前介入技术路线图规划，缩短转化周期。
 - **硬件安全技术**：AISS、SSITH项目推动硬件级安全功能成为高端芯片标配，从架构层抵御网络攻击。
+
+
+## 相关链接
+- [[DARPA_microelectronics_3DHI_photonic_interconnect_strategy]]
+- [[DARPA_Microelectronics_Strategy_3D_Heterogeneous_Integration]]
+- [[DARPA_3DHI_Strategy_Research]]
+- [[DARPA_3DHI_Strategic_Research_Analysis]]
+- [[DARPA_ERI2_Microelectronics_Strategy_Analysis]]

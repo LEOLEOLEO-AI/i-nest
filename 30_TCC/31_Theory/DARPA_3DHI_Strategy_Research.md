@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [3D异构集成, DARPA, 芯粒, 先进封装, NGMM]
+summary: "DARPA 3DHI战略：应用场景、技术突破与创新模式"
+quality: high
+processed: 2026-08-11 22:21
+---
+---
 provenance: external
 ---
 
@@ -85,3 +93,11 @@ source: getnote---
 - **时间节点**：NGMM计划分两阶段推进，2026-2029年目标突破混合键合量产工艺，2029-2034年实现光电融合系统商用  
 - **竞争格局**：美国通过CHIPS法案限制对华出口3DHI技术，中国正加速研发TSV与芯粒技术以应对  
 - **潜在风险**：高密度堆叠导致热管理难题（当前散热效率需提升50%），良率波动影响规模化应用
+
+
+## 相关链接
+- [[DARPA_3DHI_Strategic_Research_Analysis]]
+- [[DARPA_microelectronics_3DHI_photonic_interconnect_strategy]]
+- [[DARPA_ERI2_Microelectronics_Strategy_Analysis]]
+- [[DARPA_Microelectronics_Strategy_3D_Heterogeneous_Integration]]
+- [[2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]

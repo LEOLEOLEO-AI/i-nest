@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [重整化群, 标度律, 非线性器件, 智能涌现, 理论物理]
+summary: "用重整化群方法推导器件非线性与智能涌现的普适标度律"
+quality: high
+processed: 2026-08-11 22:21
+---
+---
 note_id: 1903941287724843544
 title: "Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities: A Renormalization Group Approach"
 type: plain_text
@@ -742,3 +750,10 @@ PRE接受率:              ★★★★☆  70%
 - [[CST_RG第一性原理推导协议]]
 - [[CST_RG_PRL_Cover_Letter]]
 - [[CST_RG_Paper_v1.0]]
+
+
+## 版本与归档
+- 主记录：TCC / iNEST 双向相关，按同一篇外部材料统计。
+- 重复归档：[[Universal_Scaling_Laws_RG_Approach_iNEST_duplicate]]
+- 来源：外部资料/得到大脑导入；不是已发表论文，也不是本团队已完成论文。
+

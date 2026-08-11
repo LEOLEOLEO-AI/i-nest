@@ -1,12 +1,23 @@
 ---
-note_id: 1896237177252277424
-title: "美国DARPA电子复兴计划2.0(ERI 2.0)深度解析：重塑微电子技术的国家战略"
-type: link
-created: 2025-12-18 05:54:50
-source: getnote
-kb: DARPA-research
+direction: both
+category: 资料
+tags: [DARPA ERI 2.0, 三维异构集成, 半导体产业链, 微电子战略, 国防科技]
+summary: "DARPA ERI 2.0深度解析：重塑微电子国家战略"
+quality: high
+processed: 2026-08-11 22:21
+---
+---
 provenance: external
 ---
+
+---
+title: "美国DARPA电子复兴计划2.0(ERI 2.0)深度解析：重塑微电子技术的国家战略"
+date: 2025-12-18 05:54:50
+source: "????"
+note_id: 1896237177252277424
+note_type: link
+tags: [AI链接笔记, DARPA ERI 2.0, 三维异构集成（3DHI）, 半导体产业链]
+source: getnote---
 
 # 美国DARPA电子复兴计划2.0(ERI 2.0)深度解析：重塑微电子技术的国家战略
 
@@ -117,5 +128,10 @@ ERI 2.0的核心目标是通过技术壁垒构建与国防转化，巩固国家�
 2. **产业重构**：推动全球供应链区域化，加剧技术竞争与合作并存格局。  
 3. **战略博弈**：“小院高墙”政策与技术封锁将长期影响国际科技合作。
 
----
-*getnote | 2026-06-30 12:36*
+
+## 相关链接
+- [[DARPA_ERI2_Microelectronics_Strategy_Analysis]]
+- [[DARPA_Microelectronics_Strategy_3DHI_Paradigm]]
+- [[DARPA_3DHI_Strategy_Research]]
+- [[2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
+- [[DARPA_microelectronics_3DHI_photonic_interconnect_strategy]]

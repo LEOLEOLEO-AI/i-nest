@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [DARPA, 3DHI, 先进封装, NGMM, 微电子]
+summary: "DARPA投资14亿美元建3D异构集成工厂，重塑美国微电子产业"
+quality: high
+processed: 2026-08-11 22:21
+---
+---
 provenance: external
 ---
 
@@ -71,3 +79,11 @@ source: getnote---
   - **OSAT**：外包半导体封测厂商（Outsourced Semiconductor Assembly and Test）。
   - **Chiplet**：芯粒技术，将芯片功能分解为模块化组件再集成。
 - **产业影响**：NGMM项目预计带动美国本土半导体设备、材料、设计工具等产业链环节增长，2030年前创造超10万个高薪岗位。
+
+
+## 相关链接
+- [[DARPA_microelectronics_3DHI_photonic_interconnect_strategy]]
+- [[DARPA_ERI2_Microelectronics_Strategy_Analysis]]
+- [[DARPA_3DHI_Strategy_Research]]
+- [[2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
+- [[DARPA_Microelectronics_Strategy_3D_Heterogeneous_Integration]]
