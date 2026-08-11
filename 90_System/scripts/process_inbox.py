@@ -193,6 +193,6 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Inbox digest engine")
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--limit", type=int, default=None,
-                        help="???? N ??????")
+                        help="process at most N files (default: all)")
     args = parser.parse_args()
     process_inbox(dry_run=args.dry_run, limit=args.limit)
