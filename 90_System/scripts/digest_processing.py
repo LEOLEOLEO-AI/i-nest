@@ -50,7 +50,14 @@ def main():
                 results["failed"] += 1
                 continue
             direction = analysis.get("direction", "unknown")
-            primary_direction = analysis.get("primary_direction", direction)
+            primary_direction = str(analysis.get("primary_direction", direction)).strip()
+            direction_key = primary_direction.lower()
+            if direction_key in {"inest", "i-nest", "i_nest"}:
+                primary_direction = "iNEST"
+            elif direction_key in {"tcc", "topological center computing"}:
+                primary_direction = "TCC"
+            else:
+                primary_direction = direction if direction in {"TCC", "iNEST"} else "TCC"
             category = analysis.get("category", "资料")
             print("    -> %s/%s : %s" % (direction, category, str(analysis.get("summary", "?"))[:50]))
             related = find_related_files(content, direction)

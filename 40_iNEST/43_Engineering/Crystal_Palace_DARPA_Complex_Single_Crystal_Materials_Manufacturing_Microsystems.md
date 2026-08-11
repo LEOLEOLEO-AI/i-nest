@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 工程
+tags: [微系统, DARPA, 单晶生长, 材料制造, 国防技术, 压电铁电, 拓扑绝缘体]
+summary: "DARPA水晶宫计划通过纳米级控制实现复杂单晶材料按需制造，填补AI材料设计与生产鸿沟。"
+quality: high
+processed: 2026-08-11 22:26
+---
+---
 category: Chip-Hardware
 date: 2026-06-06 10:05
 entities:

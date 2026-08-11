@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [军事人工智能, 马赛克战争, 人机智能共生, 类脑计算, 分布式网络, 硬件架构]
+summary: "DARPA通过三级AI优势重塑战争形态，强调自主、共生与网络化智能作战。"
+quality: high
+processed: 2026-08-11 22:27
+---
+---
 category: AI-ML
 date: 2026-06-06 10:05
 entities:

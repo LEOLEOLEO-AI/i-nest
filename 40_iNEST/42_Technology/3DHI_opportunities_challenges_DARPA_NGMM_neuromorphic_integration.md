@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [3DHI, 先进封装, 芯粒, DARPA, NGMM, 神经形态, 异构集成]
+summary: "分析3DHI技术机遇与挑战，梳理DARPA推动路径及未来神经形态融合趋势。"
+quality: high
+processed: 2026-08-11 22:26
+---
+---
 category: Chip-Hardware
 date: 2026-06-06 10:05
 entities:

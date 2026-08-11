@@ -63,8 +63,66 @@
               "icon": "lucide-file",
               "title": "02_glossary_symbols_formulas_v0_1"
             }
+          },
+          {
+            "id": "47886902bb53b36d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "NotebookLM对iNEST的总结",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"10_Knowledge/NotebookLM对iNEST的总结.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NotebookLM对iNEST的总结\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "00_Paper_Versions_Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Output/51_Papers/00_Paper_Versions_Index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_Paper_Versions_Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":102,\"ch\":0},\"to\":{\"line\":102,\"ch\":0}},\"scroll\":77.068359375}"
+                },
+                {
+                  "title": "50_Output",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Output.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"50_Output\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Knowledge/Articles/从第一性原理出发，探索类脑智能研究的星辰大海-CSDN博客 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "从第一性原理出发，探索类脑智能研究的星辰大海-CSDN博客 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -382,7 +440,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443
+    "width": 590
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -409,41 +467,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4062b52e7250d12f",
+  "active": "47886902bb53b36d",
   "lastOpenFiles": [
-    "00_Inbox/13_Codex/01_baseline_overview_v0_1.md",
-    "00_Inbox/13_Codex/00_moc_sdsow_to_inest.md",
-    "00_Inbox/04 Creating/2026-08-07_Gamma_st_Definition_Revision_Proposal.md",
-    "00_Inbox/04 Creating/晶上全 Switchless 方案及工程落地.md",
-    "30_TCC/31_Theory/SDI_NPU_NoC_Integration_Architecture_Whitepaper.md",
-    "30_TCC/31_Theory/Suzhou_Lab_iNEST_Project_Guide_Analysis.md",
-    "30_TCC/31_Theory/CST_theory_research_progress_discussion_2026-07-31.md",
-    "30_TCC/31_Theory/Route_Transform_Conditional_Algebraic_Framework_TCC.md",
-    "30_TCC/31_Theory/CST_Three_Proofs_Unified.md",
-    "30_TCC/31_Theory/CST_iNEST_FirstPrinciples_Framework.md",
-    "30_TCC/31_Theory/CST_axiomatic_derivation_analysis.md",
-    "30_TCC/31_Theory/RG_first_principles_derivation_CST_master_equation.md",
-    "30_TCC/31_Theory/Cornell_FPGA_CNN_Accelerator_Project.md",
-    "30_TCC/31_Theory/efficient_deep_learning_topology_simplification.md",
-    "30_TCC/31_Theory/topological_limits_of_deep_learning.md",
-    "30_TCC/31_Theory/soft-biomolecular-network-brain-inspired-temporal-computing.md",
-    "30_TCC/31_Theory/hippocampus_sequence_priority_analysis.md",
-    "30_TCC/32_Technology/wafer_level_heterogeneous_integration_sdsow_tcc.md",
-    "30_TCC/31_Theory/SDSoW_control_plane_TCC_architecture.md",
-    "30_TCC/31_Theory/Radiation-hardened_chip_roadmap_28nm_to_7nm.md",
-    "30_TCC/31_Theory/KV_boundary_contract_heterogeneous_PD_inference.md",
-    "30_TCC/31_Theory/space_computing_architecture_fpga_asic_gpu.md",
-    "30_TCC/31_Theory/Heterogeneous_LLM_Inference_Architecture_Analysis.md",
-    "30_TCC/31_Theory/CoPoS_vs_EMIB_Chiplet_Integration.md",
-    "30_TCC/31_Theory/cortical_traveling_waves_network_mechanisms.md",
-    "60_MOC/02_DeepSeek_Insights_2026-08-11.md",
+    "10_Knowledge/NotebookLM对iNEST的总结.md",
+    "50_Output/51_Papers/00_Paper_Versions_Index.md",
+    "40_iNEST/43_Engineering/Crystal_Palace_DARPA_Complex_Single_Crystal_Materials_Manufacturing_Microsystems.md",
+    "50_Output.md",
+    "Home.md",
+    "40_iNEST/42_Technology/3DHI_opportunities_challenges_DARPA_NGMM_neuromorphic_integration.md",
+    "00_Inbox/13_Codex/02_glossary_symbols_formulas_v0_1.md",
+    "30_TCC/31_Theory/local_ai_inest_server_setup.md",
+    "80_Archive/_duplicates_archive/Universal_Scaling_Laws_RG_Approach/Universal_Scaling_Laws_RG_Approach_iNEST_duplicate.md",
+    "80_Archive/_duplicates_archive/Universal_Scaling_Laws_RG_Approach",
+    "40_iNEST/41_Theory/Universal_Scaling_Laws_RG_Approach.md",
+    "40_iNEST/41_Theory/Nested_Learning_Illusion_of_Deep_Learning_Architecture_Analysis.md",
+    "30_TCC/31_Theory/Universal_Scaling_Laws_RG_Approach.md",
+    "30_TCC/31_Theory/DARPA_ERI2_Microelectronics_Strategy_Analysis_2221.md",
+    "30_TCC/31_Theory/DARPA_Four_Project_Clusters_Analysis.md",
+    "40_iNEST/41_Theory/DARPA_Microelectronics_Strategy_3DHI_Paradigm.md",
+    "30_TCC/34_Projects/DARPA_3DHI_Advanced_Packaging_Research.md",
+    "30_TCC/31_Theory/DARPA_3DHI_Strategy_Research.md",
+    "40_iNEST/41_Theory/open_source_tools_list_20251216.md",
+    "40_iNEST/42_Technology/ClearSight_Event_Driven_Motion_Deblurring_BDHNet.md",
+    "80_Archive/Journal/misrouted/20250219_SDI_chip_review_diary.md",
+    "80_Archive/Journal/misrouted",
+    "40_iNEST/41_Theory/Sandia_SNN_tools_review.md",
+    "40_iNEST/42_Technology/ClearSight_EventBasedMotionDeblurring_BDHNet.md",
+    "40_iNEST/42_Technology",
+    "30_TCC/34_Projects/20250219_SDI_chip_review_diary.md",
+    "30_TCC/34_Projects/DARPA_Crystal_Palace_Program_Analysis.md",
+    "30_TCC/31_Theory/DARPA_Manufacturing_Strategy_Analysis.md",
+    "30_TCC/31_Theory/DARPA_ERI2_Microelectronics_Strategy_Analysis.md",
+    "90_System/scripts/__pycache__/digest_processing.cpython-310.pyc",
+    "90_System/scripts/digest_processing.py",
+    "90_System/legacy_rules",
+    "90_System/state",
+    "90_System/scripts/_probes_archive",
     "30_TCC/32_Technology",
     "80_Archive/00_KnowledgeBase/irrelevant",
-    "logs/pipeline_guard_20260811_090457.log",
-    "90_System/scripts/__pycache__/gen_insights.cpython-310.pyc",
-    "90_System/scripts/__pycache__/process_inbox.cpython-310.pyc",
-    "logs/self_evolve_run_2026-08-11.log",
-    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/scripts/check_parts_browser.mjs",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part3_appendix.png",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part3_p100_tcc_topology.png",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part2_closing.png",
@@ -452,11 +513,8 @@
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part1_p17_neuron.png",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part1_p3_energy_gap.png",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part1_cover.png",
-    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots",
-    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/scripts/screenshot_check.mjs",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shot_old_deck.png",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shot_cover.png",
-    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/part3/assets/motion.min.js",
     "未命名.canvas",
     "80_Archive/Inbox_legacy/待分类/未命名.canvas",
     "80_Archive/05_Fleeting/待分类/未命名.canvas",
