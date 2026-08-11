@@ -17,7 +17,7 @@ from collections import defaultdict
 
 VAULT = Path(r"D:\Obsidian\vault")
 EXCLUDE = {".venv",".git",".neural_db",".neural_memory",".obsidian",".trash","node_modules","copilot","__pycache__"}
-SKIP_NAMES = {"AGENTS.md","BOOTSTRAP.md","MEMORY.md","RULES.md","SOUL.md","TOOLS.md","USER.md","conflict-files-obsidian-git.md"}
+SKIP_NAMES = {"AGENTS.md","conflict-files-obsidian-git.md"}
 
 
 def parse_fm(text):

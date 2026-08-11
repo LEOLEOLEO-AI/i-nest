@@ -34,7 +34,7 @@ SKIP = {".git", ".obsidian", ".smart-env", ".openclaw",
         "reorganize.py"}
 
 # 根目录保留的系统文件
-ROOT_KEEP = {"AGENTS.md","HEARTBEAT.md","IDENTITY.md","SOUL.md",
+ROOT_KEEP = {"AGENTS.md",
              "TOOLS.md","USER.md",".kb_sync_state.json","reorganize.py"}
 
 # ── 分类函数 ──────────────────────────────────────────────

@@ -117,3 +117,9 @@ MEMORY.md.backup_*
 50_Output/54_Code/inest_sdde_figs/
 crystal-brain/
 sdi_paper/
+
+# ---- generated artifacts: keep on disk, out of git (2026-08-11 P1) ----
+wiki/backlinks.md
+wiki/index.md
+60_MOC/00_Dedup_Log.md
+90_System/conflict-files-obsidian-git.md
