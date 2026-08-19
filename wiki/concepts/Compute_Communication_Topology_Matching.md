@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
+[[Alpha_Computation_Consistency]]
 [[CommunicationAsComputation]]
 [[CrossMaterial_Integration]]
 [[Deep_Thermalisation]]

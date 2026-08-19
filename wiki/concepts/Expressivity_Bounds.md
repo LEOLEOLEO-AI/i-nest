@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AsynchronousEventDrivenComputation]]
 [[AutonomousSpikingDynamics]]
+[[Avoided_Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenComputation]]

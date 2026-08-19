@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BackflowTransformation]]
+[[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossTaskNeuralRepresentation]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Multifractal_Signatures]]
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SNN]]
 [[SNN_Neuroimaging_Bridge]]
 [[ST_SNN]]

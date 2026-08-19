@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[InNetwork_Topological_Reservoir]]
 [[Intelligence_Emergence]]
+[[LLM_Heuristic_Pruning]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Nonlinear_Gain]]

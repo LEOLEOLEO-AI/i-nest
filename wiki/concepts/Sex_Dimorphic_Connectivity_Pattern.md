@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SexBasedConnectomeDifferences]]
 [[TopologicalAndersonChernInsulator]]
+[[WiringSpecificControl]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

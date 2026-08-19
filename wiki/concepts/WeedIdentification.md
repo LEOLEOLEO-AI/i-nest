@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_NoC_Fabric]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]

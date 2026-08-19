@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[AlternativeBridgingModels]]
 [[Architectural_Conditioning]]
 [[CrystalPalace_Program]]
 [[Emergent_Intelligence_Threshold]]

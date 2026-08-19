@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]
+[[SynapticReinforcementConsolidation]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
 

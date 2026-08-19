@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[BrainBodyResonance]]
 [[Brain_Connectome]]
 [[Connectome_Transfer]]

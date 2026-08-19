@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnomalousSpinTransport]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Projects]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]
 [[EventDrivenTrajectoryEncoding]]
+[[EventDrivenWirelessTransmission]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

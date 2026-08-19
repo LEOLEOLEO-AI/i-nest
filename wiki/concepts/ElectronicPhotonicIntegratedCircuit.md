@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Project_Group_Strategy]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[OpenCodex_Upgrade_Path]]

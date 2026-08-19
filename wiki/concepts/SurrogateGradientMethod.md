@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[CirculateFiringNeuron]]
+[[Contested_Priors_Mechanism]]
 [[Fatigue_SpikePattern]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LocalLearningRules]]

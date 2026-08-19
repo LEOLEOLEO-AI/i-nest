@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Substrate]]
 [[Reservoir_Computing]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

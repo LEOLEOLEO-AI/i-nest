@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Chiplet_based_heterogeneous_integration]]
 [[DRBE_MVP_Mainchain]]
+[[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[FPGA_Prototype_Validation]]
 [[Free_Energy_Principle_Network]]

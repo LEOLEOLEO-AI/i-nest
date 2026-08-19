@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Cognitive_Relapse_Architecture]]
 [[CommunicationHeterogeneity]]
+[[Cryogenic_Syndrome_Compression]]
 [[Emergent_Intelligence_Threshold]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]

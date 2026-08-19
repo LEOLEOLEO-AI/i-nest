@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[BandedNonHermitianRandomMatrices]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Deep_Thermalisation]]
 [[Deep_Thermalisation_Dynamics]]

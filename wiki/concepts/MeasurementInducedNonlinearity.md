@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
 [[Dynamic_Expert_Fusion]]

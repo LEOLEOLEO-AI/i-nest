@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[CoPackagedOptics]]
+[[CommunicationHeterogeneity]]
 [[Cryogenic_Syndrome_Compression]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]

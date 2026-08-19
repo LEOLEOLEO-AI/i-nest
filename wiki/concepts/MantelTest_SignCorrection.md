@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[EventDrivenRiskAssessment]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

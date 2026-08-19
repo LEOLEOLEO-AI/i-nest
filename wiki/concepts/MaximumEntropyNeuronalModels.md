@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[Adaptive_Replication_Strategy]]
 [[Avoided_Criticality]]
 [[CriticalityConstrainedPruning]]
 [[Criticality_Avoidance_Theory]]

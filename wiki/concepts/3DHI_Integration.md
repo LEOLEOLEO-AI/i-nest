@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[DiagnosticReportFramework]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

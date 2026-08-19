@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CriticalityDrivenStateTransition]]
+[[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibleManifoldReconfiguration]]

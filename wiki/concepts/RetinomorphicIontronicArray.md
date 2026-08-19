@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
+[[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]

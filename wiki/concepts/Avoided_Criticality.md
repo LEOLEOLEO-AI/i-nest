@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh_Model]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

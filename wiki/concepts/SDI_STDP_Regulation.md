@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[ScaleFreeNetworks]]
 [[Spike_Encoding_of_fMRI]]

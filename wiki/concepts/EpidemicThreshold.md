@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[新型计算]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

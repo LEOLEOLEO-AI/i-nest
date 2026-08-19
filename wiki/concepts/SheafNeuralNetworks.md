@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DelayedSynapticCoupling]]
+[[HeterogeneousPD_Inference_BoundaryContract]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

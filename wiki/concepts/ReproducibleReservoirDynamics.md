@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Application_Scenario_Reconstruction]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
@@ -24,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]

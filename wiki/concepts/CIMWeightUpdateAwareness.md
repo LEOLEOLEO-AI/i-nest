@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenPlasticity]]
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
+[[MeasurementInducedPhaseTransition]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NoiseModulated_SynapticPlasticity]]

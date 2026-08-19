@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[BayesianDomainEvolution]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]

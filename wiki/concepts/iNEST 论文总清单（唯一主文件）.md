@@ -28,6 +28,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[Analog_Computation]]
+[[BCM滑动阈值]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Complex_System]]
@@ -50,4 +51,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[智能涌现]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 [[自动微分•自组织生长_ 打造新一代的自组织生长模型]]

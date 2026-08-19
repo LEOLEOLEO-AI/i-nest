@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
+[[DataProvenanceIntegrity]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

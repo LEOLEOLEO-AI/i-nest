@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Architecture_Search]]
+[[Avoided_Criticality]]
 [[Baseline_Draft_Status]]
 [[DelayAwareSpikeEventDelivery]]
 [[Dynamic_Expert_Fusion]]

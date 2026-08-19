@@ -19,11 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Assisted_Energy_Management]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveNetworkResilience]]
 [[AdaptiveTimeStepTraining]]
 [[Agile_Resilient_Defense_Ecosystem]]
-[[BioPlausibleNeuromorphicDisturbanceObserver]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Biomanufacturing_Control_Loop]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]

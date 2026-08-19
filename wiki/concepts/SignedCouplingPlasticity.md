@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]
+[[Biomanufacturing_Control_Loop]]
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]

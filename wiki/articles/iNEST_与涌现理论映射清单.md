@@ -12,3 +12,12 @@ TCC, iNEST, 拓扑
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
+[[TCC]]
+[[iNEST]]
+[[涌现]]

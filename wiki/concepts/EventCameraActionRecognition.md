@@ -24,12 +24,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MachineLearningNanomaterialDiscovery]]
 [[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
 [[Network_Specific_Embedding_Separation]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

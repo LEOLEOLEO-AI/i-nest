@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[AvalancheBranchingRatio]]
+[[BigBrainCellularAxis]]
+[[BranchingRatio]]
 [[CST_Equation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Accessibility_Plasticity]]
+[[AdaptiveArchitecture]]
 [[AdaptiveDensityControl]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[PhononicBandgapEngineering]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Time_Coupling]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactnessRegularizedFitness]]
 [[ConvolutionalRestrictedHopfieldNetwork]]
 [[Emergent_Intelligence_Threshold]]
+[[ExponentialDenseAssociativeMemory]]
 [[Ferroelectric_Devices]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

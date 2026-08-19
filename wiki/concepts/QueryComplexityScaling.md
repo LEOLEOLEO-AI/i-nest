@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

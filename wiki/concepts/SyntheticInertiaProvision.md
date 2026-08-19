@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[Algorithmic_Warfare]]
 [[AllOpticalHebbianLearning]]

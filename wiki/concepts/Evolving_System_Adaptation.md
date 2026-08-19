@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Stacking]]
 [[AINext_Initiative]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttention]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
+[[NestedRepresentation]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

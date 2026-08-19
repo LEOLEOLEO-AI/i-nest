@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Deep_Network_Architecture_Invariant]]
 [[EdgeIoTEnergyAwareness]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]

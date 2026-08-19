@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
+[[Evolutionary_Computability]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]

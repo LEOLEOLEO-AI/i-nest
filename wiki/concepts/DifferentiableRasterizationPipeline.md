@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Semantic_Least_Energy_Principle]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

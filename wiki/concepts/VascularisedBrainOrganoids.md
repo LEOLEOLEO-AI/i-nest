@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuronalAvalanche]]
 [[Neuronal_Avalanche_Dynamics]]
+[[NonEquilibriumPhaseTransition]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

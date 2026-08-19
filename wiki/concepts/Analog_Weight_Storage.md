@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

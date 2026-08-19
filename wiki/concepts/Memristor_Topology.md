@@ -24,9 +24,11 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[Analog_Computation]]
 [[Analog_Weight_Storage]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

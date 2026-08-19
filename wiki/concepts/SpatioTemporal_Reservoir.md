@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]
 [[Hybrid_LLM_Guided_Search]]
+[[InNetwork_Topological_Reservoir]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

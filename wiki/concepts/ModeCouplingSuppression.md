@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BisectionBandwidthMetric]]
 [[ChipletOpticalIO]]
 [[ChipletRoutingFabric]]
+[[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]

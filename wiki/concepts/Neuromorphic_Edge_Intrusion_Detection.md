@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Avoided_Criticality]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

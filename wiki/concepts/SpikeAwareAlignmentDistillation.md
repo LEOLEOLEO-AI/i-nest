@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AsynchronousEventDrivenComputation]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[Controlled_Release_Kinetics]]

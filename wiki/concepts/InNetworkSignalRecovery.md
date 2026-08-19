@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction]]
 [[Dynamic_Expert_Fusion]]
 [[EEGToNeuromorphicMapping]]
+[[GeneralizedReadoutMap]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]

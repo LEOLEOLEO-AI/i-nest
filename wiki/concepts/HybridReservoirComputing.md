@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
 [[CrashHotspotForecasting]]
+[[Crystallized_Neural_Manifolds]]
 [[Nonlinear_Gain]]
 [[ReadoutLayer]]
 [[Reservoir_Computing]]

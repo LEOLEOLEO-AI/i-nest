@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
+[[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[ChipletWaferInterconnectScaling]]
 [[ChipletWaferInterconnectTopology]]

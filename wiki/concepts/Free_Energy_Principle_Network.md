@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
 [[FreeEnergyPrinciple]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

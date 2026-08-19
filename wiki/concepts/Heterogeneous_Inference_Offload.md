@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[External_to_OnDie_Evolution]]
 [[Heterogeneous_Integration]]

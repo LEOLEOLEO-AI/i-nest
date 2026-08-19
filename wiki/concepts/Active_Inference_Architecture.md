@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FrozenRateOperator]]
 [[InNetworkAgentRewiring]]
+[[InNetwork_RL_Control]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
+[[Attention_Residuals]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]

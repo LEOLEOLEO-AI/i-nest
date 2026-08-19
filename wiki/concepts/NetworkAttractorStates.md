@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智能涌现]]

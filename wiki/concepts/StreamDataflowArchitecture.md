@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[MagnitudePhaseComputationalModel]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Planning_Revolution]]
 [[Neuromorphic_Spiking]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

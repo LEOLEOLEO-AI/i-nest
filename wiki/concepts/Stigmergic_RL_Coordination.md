@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Bioavailability_Enhancement]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
+[[Constructed_Reality_Interconnect]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

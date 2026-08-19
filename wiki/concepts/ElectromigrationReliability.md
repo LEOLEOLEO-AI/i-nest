@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[ThirdWaveAI]]

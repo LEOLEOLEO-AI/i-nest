@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenTracking]]
 [[InSensorMemoryComputing]]
+[[InSitu_Compute]]
 [[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

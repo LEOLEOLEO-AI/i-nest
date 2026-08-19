@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SiliconPhotonicsNetwork]]
+[[Silicon_Photonic_Network]]
 [[TCC]]
 [[TSVEncapsulationStress]]
 

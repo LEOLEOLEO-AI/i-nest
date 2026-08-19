@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveDensityControl]]
+[[ArbitraryWavefunctionConfigurability]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TileBasedRasterization]]
 

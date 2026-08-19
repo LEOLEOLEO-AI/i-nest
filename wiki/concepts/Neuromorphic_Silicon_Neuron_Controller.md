@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateFire]]
 [[BigBrainCellularAxis]]
+[[BioInspiredLearningRule]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[EmulationTheoryObserver]]

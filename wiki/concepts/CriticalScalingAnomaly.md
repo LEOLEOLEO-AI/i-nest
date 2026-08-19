@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[Adaptive_Replication_Strategy]]
 [[Algorithmic_Warfare]]
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]

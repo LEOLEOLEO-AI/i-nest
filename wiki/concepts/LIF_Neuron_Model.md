@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ArmLocomotorCoordination]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[FPGASNNMemoryOptimization]]
 [[Hardware_Accelerated_SNN]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

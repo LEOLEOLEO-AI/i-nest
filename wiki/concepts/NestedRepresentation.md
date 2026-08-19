@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnisotropicGaussianPrimitives]]
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[DynamicTokenSparsity]]
 [[EEGToNeuromorphicMapping]]

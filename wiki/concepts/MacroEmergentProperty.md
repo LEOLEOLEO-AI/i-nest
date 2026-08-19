@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DendriticTaskPartitioning]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]

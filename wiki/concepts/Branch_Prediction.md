@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CSI_Temporal_Encoding]]
 [[CellEmergence]]
+[[Communication_Trace_Diagnostics]]
 [[DifferentiableRasterizationPipeline]]
 [[EpidemicThreshold]]
 [[HigherOrderSimplicialDynamics]]

@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Interconnect_Routing]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SpatiotemporalComplexityIndex]]

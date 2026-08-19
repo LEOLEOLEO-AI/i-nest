@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[ElasticInferenceScheduling]]
 [[Heterogeneous_Integration]]
 [[Memristive_STDP]]
 [[NeuralNetworkSpectralAnalysis]]

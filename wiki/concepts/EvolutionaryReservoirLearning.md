@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[Metriplectic_Twin]]
 [[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

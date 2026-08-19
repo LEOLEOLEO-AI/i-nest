@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenModularArchitecture]]
+[[EventDrivenWeightUpdate]]
 [[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

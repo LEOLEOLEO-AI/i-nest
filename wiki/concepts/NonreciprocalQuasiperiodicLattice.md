@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]
 [[Interconnect_Routing]]
+[[LLMDrivenPathSelection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[ReconfigurableSpikingRouting]]

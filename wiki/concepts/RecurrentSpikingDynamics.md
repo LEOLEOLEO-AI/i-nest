@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Packaging]]
 [[NonEquilibriumComputing]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

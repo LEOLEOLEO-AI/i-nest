@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[ErrorAmplificationLimits]]
 [[Event_Driven_Architecture]]
+[[LatencyGradientDescent]]
 [[MembranePotentialModulation]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]

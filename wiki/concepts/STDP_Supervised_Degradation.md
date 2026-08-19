@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Mesoscale_Neural_Dynamics]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[National_Innovation_Center_Role]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

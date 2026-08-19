@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Spiking_Integration]]
 [[NoiseModulated_SynapticPlasticity]]
 [[NonEquilibriumComputing]]
 [[SNN]]

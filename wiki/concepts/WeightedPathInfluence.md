@@ -28,6 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[BarrierConditionedTrajectory]]
 [[CST_SynergisticCoordination]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Complex_System_Theory]]
+[[CriticalityAwareTopology]]
 [[Network_Topology_Design]]
 [[TCC]]
 

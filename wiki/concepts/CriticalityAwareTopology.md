@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
+[[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]

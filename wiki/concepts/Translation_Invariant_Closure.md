@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MobilityEdge]]
 [[MultiObjectiveRouting]]
 [[Network_Topology_Design]]

@@ -23,6 +23,12 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[3D_Torus_6_Degree]]
+[[AI_Supply_Chain_Increment]]
+[[ANN动力学]]
+[[Agent_Workflow_Automation]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

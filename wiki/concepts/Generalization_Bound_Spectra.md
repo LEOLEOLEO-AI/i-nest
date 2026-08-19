@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[Reservoir_Computing]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

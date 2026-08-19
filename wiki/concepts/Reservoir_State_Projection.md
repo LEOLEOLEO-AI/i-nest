@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[HardwareAware_DesignSpace]]
+[[HybridReservoirComputing]]
 [[Nonlinear_Gain]]
 [[PhysicalReservoirDynamics]]
 [[Reservoir_Computing]]

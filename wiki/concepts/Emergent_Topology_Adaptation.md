@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DynamicTopologyMapping]]
 [[Dynamic_Expert_Fusion]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Fermi_Surface_Reconstruction]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting]]
 [[Closed_Loop_Neuromodulation]]
 [[CognitiveTaskonomy]]
+[[ContinuousGameOfLife]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

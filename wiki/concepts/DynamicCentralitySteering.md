@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
+[[Continual_Learning_Modularity]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

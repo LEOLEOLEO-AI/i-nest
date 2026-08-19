@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Abilities]]
 [[Heterogeneous_Synaptic_Motifs]]
+[[IntegrationProspectsForVLSI]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

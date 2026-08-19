@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[Temporal_Coding]]
+[[UniSpike_Acceleration]]
 [[iNEST]]
 
 ## Sources

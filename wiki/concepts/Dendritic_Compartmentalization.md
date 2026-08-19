@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[ComplexTopologicalStructures]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
@@ -34,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

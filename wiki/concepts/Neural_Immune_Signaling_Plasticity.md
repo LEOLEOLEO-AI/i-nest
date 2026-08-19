@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[AnisotropicGaussianPrimitives]]
+[[BrainBodyResonance]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]

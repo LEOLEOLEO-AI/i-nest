@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BitPrecisionAwareScheduling]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TwoTimescaleNeuroEvolution]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[术语对照表]]
 [[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]

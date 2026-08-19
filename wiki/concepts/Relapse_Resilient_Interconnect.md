@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NichePreservationMechanism]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[SixClassSkeletonAsRPrimitiveSpace]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

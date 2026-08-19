@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
+[[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

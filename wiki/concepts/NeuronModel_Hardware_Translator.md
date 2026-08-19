@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
+[[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

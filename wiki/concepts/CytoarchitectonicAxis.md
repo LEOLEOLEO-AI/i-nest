@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

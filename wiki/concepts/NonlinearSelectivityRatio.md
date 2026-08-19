@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialMedicalRobustness]]
 [[Allreduce_Latency_Probe]]
 [[AnalogInMemoryComputing]]
+[[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

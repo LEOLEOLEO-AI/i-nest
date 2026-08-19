@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Gut_Brain_Immune_Network]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]

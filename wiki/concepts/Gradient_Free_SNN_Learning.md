@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AddressRedundancyElimination]]
+[[CoEvolvedSNNEnsemble]]
 [[CollectiveDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTraining]]
+[[VonEconomoNeuron]]
 [[VonEconomoNeurons]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

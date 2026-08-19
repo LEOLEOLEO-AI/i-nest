@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[AvalancheBranchingRatio]]
+[[BayesianConnectivityEstimation]]
 [[BranchingRatio]]
 [[CriticalityDrivenAdaptation]]
 [[CriticalityDrivenStateTransition]]

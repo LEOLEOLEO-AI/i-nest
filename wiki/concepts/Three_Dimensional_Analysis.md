@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Izhikevich_NeuronModel]]
 [[Network_Topology_Design]]
+[[NeuralVariabilityEnhancement]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

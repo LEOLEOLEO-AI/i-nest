@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[LargeScalePhotonicIntegration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[OnDie_Fusion]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

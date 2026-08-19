@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[STDP_Plasticity]]

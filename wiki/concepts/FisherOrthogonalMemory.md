@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Hysteretic_State_Encoding]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
+[[Memristor_Synapse]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[PhotoInducedCurrent]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[CirculateFiringNeuron]]
+[[Controlled_Release_Kinetics]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]

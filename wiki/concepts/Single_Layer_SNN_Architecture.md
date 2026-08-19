@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CoDesigned_SNN]]
+[[ComplexValuedSNN]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]

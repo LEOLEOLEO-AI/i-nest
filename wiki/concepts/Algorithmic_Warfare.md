@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality_Based_Feature_Extraction]]
+[[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]

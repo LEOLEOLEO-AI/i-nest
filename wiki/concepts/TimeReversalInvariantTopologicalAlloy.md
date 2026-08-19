@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdiabaticMultimodeBend]]
+[[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Probe]]
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ChiralSymmetryClasses]]
 [[EdgeIoTEnergyAwareness]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]

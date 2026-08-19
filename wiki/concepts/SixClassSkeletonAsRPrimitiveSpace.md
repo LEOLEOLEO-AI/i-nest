@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[EulaminateOverrepresentation]]
 [[EventTriggeredDistributedControl]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]

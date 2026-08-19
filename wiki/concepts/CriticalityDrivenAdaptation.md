@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

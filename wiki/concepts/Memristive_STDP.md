@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

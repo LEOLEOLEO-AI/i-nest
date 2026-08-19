@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Cognitive_Relapse_Architecture]]
 [[Decoupling_Mechanism]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -40,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[Synaptic_Plasticity]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DendriticTaskPartitioning]]
 [[Dynamic_Expert_Fusion]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

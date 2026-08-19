@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Based_Trusted_Hardware]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[KnowledgeDistillation]]
 [[Memory_Wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Neuromorphic_Computing]]
 [[PhotoIontronicSynapse]]
 [[Physical_First_Principles]]
 [[SDI_Bond]]

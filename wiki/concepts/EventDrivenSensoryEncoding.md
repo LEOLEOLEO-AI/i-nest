@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[ResonateAndFireEncoding]]
 [[SpikePacketCompression]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

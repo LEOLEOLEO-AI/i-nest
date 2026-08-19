@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousSpikingDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
+[[Constructed_Reality_Model]]
 [[CrossLayer_SignalRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

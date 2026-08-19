@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[MassConservationBias]]
 [[MassConservationInductiveBias]]
 [[Monitored_Quantum_Circuits]]
+[[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Physical_Reservoir_Substrate]]

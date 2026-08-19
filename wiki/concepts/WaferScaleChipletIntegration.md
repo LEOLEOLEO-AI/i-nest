@@ -20,16 +20,23 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[InverseDesignedPhotonicRouting]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OpticalNeuralNetworkTopology]]
 [[PhysicalWaferTriplet]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

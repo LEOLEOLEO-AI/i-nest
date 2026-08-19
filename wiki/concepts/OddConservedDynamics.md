@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolutionCoupler]]
+[[CircuitTopologyEncoding]]
 [[DelayPropagationDynamics]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

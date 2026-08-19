@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AddressRedundancyElimination]]
+[[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]

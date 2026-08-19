@@ -58,8 +58,10 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources

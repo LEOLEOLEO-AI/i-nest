@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CongestionAwareLoss]]
 [[CriticalityDrivenStateTransition]]
+[[CytoarchitectonicAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]

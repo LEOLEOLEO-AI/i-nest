@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[EmergentTaskDecomposition]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[20W_Brain_Inspired_Planning]]
 [[3DHI_Integration]]
+[[AI_Supply_Chain_Increment]]
 [[Agent_Workflow_Automation]]
 [[AnteHoc_Explainability]]
 [[Complex_System]]

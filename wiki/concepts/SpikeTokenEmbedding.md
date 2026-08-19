@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
+[[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[Gradient_Free_SNN_Learning]]
 [[Intelligence_Emergence]]

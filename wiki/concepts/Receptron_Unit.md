@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Accessibility_Plasticity]]
+[[AdaptiveArchitecture]]
 [[BurstGatedRouting]]
 [[CriticalityDrivenStateTransition]]
 [[Dynamic_Expert_Fusion]]

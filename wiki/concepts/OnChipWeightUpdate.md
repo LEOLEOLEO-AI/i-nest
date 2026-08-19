@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

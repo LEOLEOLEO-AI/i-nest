@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CoDesigned_SNN]]
+[[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Deep_SNN_Trainability]]

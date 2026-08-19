@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TemporalSpikeAssociation]]
+[[Transiently_Amplifying_Construction]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousPhysicalComputation]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

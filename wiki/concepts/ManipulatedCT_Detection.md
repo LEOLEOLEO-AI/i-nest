@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[BioPlausiblePredictiveCoding]]
 [[Contested_Prior_Resolution]]
+[[DistinguishableHelium4]]
 [[Edge_Neuromorphic_Compute]]
 [[EventBasedMotionDeblurring]]
 [[EventCameraPoseInput]]

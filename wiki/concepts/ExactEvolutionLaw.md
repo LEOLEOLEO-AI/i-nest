@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
+[[AdaptiveDensityControl]]
 [[AdaptiveFunctionalTopology]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]

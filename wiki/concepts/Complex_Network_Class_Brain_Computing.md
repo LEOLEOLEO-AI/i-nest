@@ -23,7 +23,9 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[BiasEvaluationMetrics]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System]]
 [[Complex_System_Theory]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Memristor_Synapse]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

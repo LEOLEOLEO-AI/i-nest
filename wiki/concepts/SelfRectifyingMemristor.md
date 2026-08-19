@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SimulabilityThreshold]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[智能涌现]]

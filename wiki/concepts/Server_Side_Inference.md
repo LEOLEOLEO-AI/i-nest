@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[Analog_Weight_Storage]]
 [[AnisotropicGaussianPrimitives]]
+[[AstrocyteInspiredRepair]]
 [[AutonomousAdaptation]]
 [[BrainActivityPrediction]]
 [[Complex_System]]

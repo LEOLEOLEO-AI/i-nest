@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveArchitecture]]
 [[AdaptivePhotonicRouter]]
 [[BackflowTransformation]]
 [[BurstGatedRouting]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenFunctionalConnectivity]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

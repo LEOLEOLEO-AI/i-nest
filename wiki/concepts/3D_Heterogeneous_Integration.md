@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[CoPackagedOptics]]
+[[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

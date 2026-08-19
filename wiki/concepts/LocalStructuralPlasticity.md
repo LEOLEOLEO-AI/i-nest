@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
+[[STDP_Plasticity]]
 [[SelfOrganizedLearning]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]

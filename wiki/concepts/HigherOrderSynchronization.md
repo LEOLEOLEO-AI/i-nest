@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network_dynamics]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

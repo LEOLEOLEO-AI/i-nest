@@ -28,12 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[AlternativeBridgingModels]]
 [[Analog_Weight_Storage]]
+[[CST_V42_SelfConsistency]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[Avoided_Criticality]]
 [[CirculateFiringNeuron]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]

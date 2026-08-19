@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]

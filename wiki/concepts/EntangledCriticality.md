@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCombinerWeighting]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BayesianConnectivityEstimation]]
 [[CriticalityDrivenStateTransition]]
 [[CrossbarFabricTopology]]
 [[Dynamic_Expert_Fusion]]

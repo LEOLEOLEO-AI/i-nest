@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
+[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

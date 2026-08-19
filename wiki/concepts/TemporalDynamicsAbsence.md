@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Microgrid_Optimization]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_STDP]]

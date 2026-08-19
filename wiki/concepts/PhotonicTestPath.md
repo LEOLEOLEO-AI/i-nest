@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[Interconnect_Routing]]
+[[LLM_Reward_Design]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[CircadianGateModulation]]
 [[CirculateFiringNeuron]]
 [[Developmental_Computing]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
 [[iNEST]]
 
 ## Sources

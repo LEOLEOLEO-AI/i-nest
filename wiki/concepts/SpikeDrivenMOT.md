@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Intelligence]]

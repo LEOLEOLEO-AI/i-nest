@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Architecture]]
+[[Cognitive_Relapse_Decoupling]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

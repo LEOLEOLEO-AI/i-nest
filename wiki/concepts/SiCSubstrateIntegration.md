@@ -30,9 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_MVP]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

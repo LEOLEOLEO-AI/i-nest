@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

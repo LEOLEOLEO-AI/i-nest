@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Agent_Workflow_Automation]]
+[[CompactBosonDuality]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

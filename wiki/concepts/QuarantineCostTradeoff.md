@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Network_on_Chip]]
 [[NoC_EventRouting]]
 [[ParallelSNNArchitecture]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[TSVEncapsulationStress]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

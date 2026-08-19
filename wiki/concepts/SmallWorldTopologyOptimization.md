@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_Interconnect]]
+[[SDI_NoC_Fusion]]
+[[SDI_Topology]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

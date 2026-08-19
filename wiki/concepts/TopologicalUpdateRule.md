@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_FullSpectrum_Strategy]]
+[[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]

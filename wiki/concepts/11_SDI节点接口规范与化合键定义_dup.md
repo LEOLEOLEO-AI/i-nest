@@ -48,6 +48,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spike_Encoding_of_fMRI]]
@@ -55,4 +56,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyFragility]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]

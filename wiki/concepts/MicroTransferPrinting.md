@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ComponentLevelMolding]]
 [[Heterogeneous_Integration]]
 [[TCC]]
+[[WaferScaleSubstrate]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

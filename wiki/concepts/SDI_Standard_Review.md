@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]

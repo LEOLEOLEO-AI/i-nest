@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[DARPA_BioStrategic_Reshaping]]
 [[DeepCounterstreamAssociativeNetworks]]
+[[DopamineArousalSwitch]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

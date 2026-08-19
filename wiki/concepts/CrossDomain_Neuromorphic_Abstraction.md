@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSensingResilience]]
 [[Air_Combat_Autonomy]]
 [[Allreduce_Latency_Probe]]
+[[Associative_Retrieval]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]

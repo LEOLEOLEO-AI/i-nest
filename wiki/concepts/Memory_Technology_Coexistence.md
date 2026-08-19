@@ -30,12 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Analog_InMemory_Processing]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[UltraCompactOpticalComputing]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

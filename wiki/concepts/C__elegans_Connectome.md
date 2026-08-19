@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalStageEmbedding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Evolutionary_Overfitting_Avoidance]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

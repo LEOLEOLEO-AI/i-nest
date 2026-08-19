@@ -22,3 +22,16 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Heterogeneous_Integration]]
+[[FeFET_Differential_BitCell]]
+[[Intelligence_Emergence]]
+[[Memristor_Synapse]]
+[[TCC]]
+[[iNEST]]
+[[忆阻器]]
+[[涌现]]
+[[神经网络]]

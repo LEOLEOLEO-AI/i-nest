@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[BackpropFree_Learning]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[CST_SynergisticCoordination]]
+[[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

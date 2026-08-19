@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AddressRedundancyElimination]]
 [[AdversarialRobustness]]
+[[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]

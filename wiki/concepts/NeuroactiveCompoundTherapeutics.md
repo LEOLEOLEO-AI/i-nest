@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Accessibility_Plasticity]]
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
 [[Emergent_Intelligence_Threshold]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[OnlinePlasticity]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

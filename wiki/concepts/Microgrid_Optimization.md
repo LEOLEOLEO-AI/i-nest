@@ -24,10 +24,12 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
+[[BiasEvaluationMetrics]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
@@ -42,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

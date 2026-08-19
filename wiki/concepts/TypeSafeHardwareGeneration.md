@@ -22,12 +22,16 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[ActivityAvalanche]]
+[[AdiabaticMultimodeBend]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[ChannelEventSparsity]]
 [[ChipletTopologyAwareness]]
+[[Chiplet_Heterogeneous_Integration]]
 [[ConductingPolymerDendriteMemory]]
 [[ConsciousnessEngineeringLoop]]
+[[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
 

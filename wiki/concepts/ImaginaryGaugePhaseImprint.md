@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[CytoarchitectonicAxis]]
 [[DisorderedNetworkInterconnect]]
 [[FrozenRateOperator]]
 [[Heterogeneous_Integration]]

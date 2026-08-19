@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[Evolutionary_Computability]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

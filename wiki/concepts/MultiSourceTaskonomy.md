@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CriticalityOffCriticalityTransition]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Pods4Rail_Topology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

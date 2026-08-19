@@ -25,9 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[CST_CoarseGraining]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

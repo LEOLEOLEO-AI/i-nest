@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Device]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[DelayPropagationDynamics]]
 [[EdgeIoTEnergyAwareness]]
+[[GrandCanonicalOptimization]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

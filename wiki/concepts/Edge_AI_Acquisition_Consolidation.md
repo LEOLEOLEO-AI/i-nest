@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AnisotropicTensileStrength]]
 [[ArbitraryWavefunctionConfigurability]]
+[[BackflowTransformation]]
 [[BrainBodyResonance]]
 [[CST_Equation]]
 [[CircadianGateModulation]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

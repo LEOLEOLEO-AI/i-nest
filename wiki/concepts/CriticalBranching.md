@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BurstGatedRouting]]
 [[CriticalStateInformationMaximization]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality_Based_Feature_Extraction]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaosComputation]]

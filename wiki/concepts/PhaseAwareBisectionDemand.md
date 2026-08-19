@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[LLMDrivenPathSelection]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

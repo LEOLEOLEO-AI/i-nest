@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_Feedback]]
 [[Crossbar_Programming]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[EigenvalueDegeneracy]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

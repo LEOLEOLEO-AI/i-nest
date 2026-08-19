@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

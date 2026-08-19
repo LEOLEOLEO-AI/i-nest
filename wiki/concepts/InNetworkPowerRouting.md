@@ -33,9 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Pods4Rail_Topology]]
+[[Receptron_Unit]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

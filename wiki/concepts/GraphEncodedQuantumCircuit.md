@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinguishableHelium4]]
 [[EdgeIoTEnergyAwareness]]
 [[ExtrinsicAnomalousHallConductivity]]
+[[FatalityDrivenRewiring]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]

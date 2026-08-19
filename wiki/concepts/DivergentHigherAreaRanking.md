@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
+[[Contested_Prior_Resolution]]
 [[Emergent_Intelligence_Threshold]]
 [[GradientFreeLowRankTraining]]
 [[Hardware_Accelerated_SNN]]

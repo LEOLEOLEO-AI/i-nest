@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Reconfigurable_Network]]
 [[SDSoW_Strategic_Planning]]
+[[SoftwareDefined_NoC_Routing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

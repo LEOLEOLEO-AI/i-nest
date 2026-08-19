@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[StructuralPriorEncoding]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Topology_Centric_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

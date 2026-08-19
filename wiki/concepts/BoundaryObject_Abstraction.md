@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
+[[SDSoW]]
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 

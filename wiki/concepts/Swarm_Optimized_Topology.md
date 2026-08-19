@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
+[[CST_CoordinationMechanism]]
 [[Crystallized_Embedding_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamical_State_Space]]

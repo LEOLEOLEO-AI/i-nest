@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateResilience]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality_of_Natural_Languages]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]

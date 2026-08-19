@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyResourceEfficiencyCoOptimization]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricNvCap]]
+[[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]

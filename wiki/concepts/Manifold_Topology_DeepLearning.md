@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Attention_Residuals]]
+[[BackflowTransformation]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Independent_AI_Player_Endgame]]
 [[MagicStateProtocolAwareCompilation]]

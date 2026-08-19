@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
+[[SDI_NPU_NoC_Integration]]
 [[TCC]]
 [[iNEST]]
 

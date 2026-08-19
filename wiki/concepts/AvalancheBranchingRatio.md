@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
+[[Evolutionary_Computability]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

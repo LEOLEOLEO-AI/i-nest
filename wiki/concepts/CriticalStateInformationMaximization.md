@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[CriticalityDrivenStateTransition]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

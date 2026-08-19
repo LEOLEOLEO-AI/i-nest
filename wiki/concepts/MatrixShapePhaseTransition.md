@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[Accessibility_Plasticity]]
+[[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdaptivePhotonicRouter]]
 [[Algorithmic_Warfare]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[ReconfigurableSpikingRouting]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

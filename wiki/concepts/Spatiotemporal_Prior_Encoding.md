@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

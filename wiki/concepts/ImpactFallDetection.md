@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteContinuous_Unification]]
+[[EEGSpikeEncoding]]
 [[Edge_Neuromorphic_Compute]]
 [[EventCameraPoseInput]]
 [[Event_Driven_Architecture]]

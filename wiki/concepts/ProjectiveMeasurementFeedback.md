@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[BrainBodyResonance]]
+[[Contested_Priors_Mechanism]]
 [[DefectDynamics]]
 [[Neuromorphic_Computing]]
 [[SNN]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Priors_Mechanism]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[GroupInteractionThreshold]]

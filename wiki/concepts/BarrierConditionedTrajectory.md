@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[Resilient_Satellite_Mesh]]
+[[SelfOrganization]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

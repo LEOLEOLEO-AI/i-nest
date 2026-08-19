@@ -20,11 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AI_Assisted_Energy_Management]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
-[[BioPlausibleNeuromorphicDisturbanceObserver]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -34,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
-[[TopologicalAndersonInsulator]]
+[[Topological_Anderson_Insulator]]
 [[VariationalFreeEnergyMinimisation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

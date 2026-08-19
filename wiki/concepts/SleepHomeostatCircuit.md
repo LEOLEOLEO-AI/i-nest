@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveLocalLearning]]
+[[AnisotropicGaussianPrimitives]]
 [[DynamicalCriticality]]
 [[Edge_Neuromorphic_Compute]]
 [[ElasticInferenceScheduling]]

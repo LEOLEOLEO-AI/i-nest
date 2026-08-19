@@ -27,8 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[FitnessPhaseTransition]]
 [[Intelligent_Power_Management]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[StochasticMultiAgentRL]]
 [[TCC]]
 
 ## Sources

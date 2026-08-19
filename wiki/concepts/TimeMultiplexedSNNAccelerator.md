@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AddressRedundancyElimination]]
 [[AlternativeBridgingModels]]
+[[AmoebaInspiredLocomotion]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Prototyping]]
 [[Neuromorphic_Computing]]

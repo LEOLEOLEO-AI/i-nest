@@ -17,6 +17,7 @@ TCC, iNEST
 ## Related Concepts
 
 [[HybridReservoirComputing]]
+[[ReservoirComputingModel]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]

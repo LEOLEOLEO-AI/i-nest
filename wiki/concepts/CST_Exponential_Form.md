@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
+[[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

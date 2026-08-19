@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Alignment_Tax]]
 [[ApproximateMacroscopicDynamics]]
 [[ArmLocomotorCoordination]]
+[[AstrocyteInspiredRepair]]
 [[BiasEvaluationMetrics]]
 [[Complex_System]]
 [[Complex_System_Theory]]

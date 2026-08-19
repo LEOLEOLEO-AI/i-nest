@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[CSI_Temporal_Encoding]]
 [[CirculateFiringNeuron]]

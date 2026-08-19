@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Intelligence_Emergence]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智能涌现]]
+[[涌现]]
 [[神经网络]]
 [[类脑芯片]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[AutonomousSpikingDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BurstCoding]]
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

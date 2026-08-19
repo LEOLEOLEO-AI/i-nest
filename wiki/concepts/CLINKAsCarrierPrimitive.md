@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[TopologyProgramming]]
+[[Topology_Reconfiguration]]
 [[iNEST]]
 
 ## Sources

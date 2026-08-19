@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[CoEvolvedSNNEnsemble]]
 [[CollectiveSpikingDynamics]]
+[[CombinedImportanceScoring]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

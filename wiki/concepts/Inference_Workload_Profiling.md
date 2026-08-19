@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CommunicationAwareComputeRelocation]]
 [[DTGA]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]

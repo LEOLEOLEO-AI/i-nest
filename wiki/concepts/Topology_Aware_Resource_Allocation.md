@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_Route]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[ComputeRelocationOverhead]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[FlagOS_2_0]]

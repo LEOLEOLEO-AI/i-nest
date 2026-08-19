@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
+[[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]

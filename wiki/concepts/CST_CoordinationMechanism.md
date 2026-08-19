@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Computation]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[FirstPrinciples_AI]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[QuantumReservoirMemoryCapacity]]

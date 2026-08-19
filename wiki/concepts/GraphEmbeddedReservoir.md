@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AstrocyteInspiredRepair]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]

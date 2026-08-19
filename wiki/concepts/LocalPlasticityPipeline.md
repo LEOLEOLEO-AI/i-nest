@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleCreditAssignment]]
 [[Intelligence_Emergence]]
 [[Local_Plasticity]]
 [[NeuromorphicHardware]]

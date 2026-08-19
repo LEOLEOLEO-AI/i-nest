@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PhotoInducedCurrent]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]

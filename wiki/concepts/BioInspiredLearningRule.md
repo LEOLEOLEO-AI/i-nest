@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
+[[ChannelEventSparsity]]
 [[Contested_Priors_Mechanism]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]

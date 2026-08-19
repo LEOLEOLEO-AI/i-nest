@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]
+[[SpikeRatePrecisionTradeoff]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

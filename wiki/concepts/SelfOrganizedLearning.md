@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Analog_Computation]]
 [[Attention_Residuals]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Developmental_Computing]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

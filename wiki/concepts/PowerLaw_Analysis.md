@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[AnisotropicGaussianPrimitives]]
 [[Contested_Prior_Resolution]]
 [[Dynamic_Expert_Fusion]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[PopulationDensityApproximation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

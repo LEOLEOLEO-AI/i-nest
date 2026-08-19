@@ -20,8 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnalogDomainCompression]]
 [[AndersonTransition]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CorticalTypeDiversity]]
 [[CriticalityOffCriticalityTransition]]
@@ -29,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

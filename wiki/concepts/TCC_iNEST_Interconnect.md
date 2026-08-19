@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]
+[[EmergentIntelligence_Spacetime]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]

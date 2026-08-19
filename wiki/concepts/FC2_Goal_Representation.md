@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Critical_Exponent_Analysis]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Analog_Computation]]
+[[Avoided_Criticality]]
 [[BackflowTransformation]]
 [[Complex_System]]
 [[Complex_System_Theory]]

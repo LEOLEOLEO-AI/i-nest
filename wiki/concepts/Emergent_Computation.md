@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[FirstPrinciples_AI]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[PhotoInducedCurrent]]

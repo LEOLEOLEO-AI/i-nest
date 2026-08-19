@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SexBasedConnectomeDifferences]]
+[[Sex_Dimorphic_Connectivity_Pattern]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

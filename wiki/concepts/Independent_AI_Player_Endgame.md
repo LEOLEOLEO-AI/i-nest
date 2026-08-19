@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
 [[AI_Driven_Architecture_Search]]
+[[AI_Faculty_Forum_2026]]
 [[CST_MasterEquation]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]

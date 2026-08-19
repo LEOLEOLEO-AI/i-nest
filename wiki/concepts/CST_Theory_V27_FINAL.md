@@ -33,6 +33,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Complex_System_Theory]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

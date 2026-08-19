@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]

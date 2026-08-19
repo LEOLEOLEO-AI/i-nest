@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
+[[AnalogDomainCompression]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]

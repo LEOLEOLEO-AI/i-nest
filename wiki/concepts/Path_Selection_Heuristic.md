@@ -25,11 +25,15 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticMultimodeBend]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]
+[[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

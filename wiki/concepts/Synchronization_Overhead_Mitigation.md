@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

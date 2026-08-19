@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumChaos]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Four_Rules]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CounterstreamSignalPropagation]]
@@ -36,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OnChipOpticalTweezers]]
 [[Reservoir_Computing]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

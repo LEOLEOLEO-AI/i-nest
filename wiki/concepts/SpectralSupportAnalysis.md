@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AlternativeBridgingModels]]
+[[Contested_Prior_Resolution]]
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

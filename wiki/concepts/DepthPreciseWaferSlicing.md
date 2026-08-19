@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[DynamicInference]]
 [[TCC]]
 
 ## Sources

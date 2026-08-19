@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Accessibility_Plasticity]]
+[[AdaptiveArchitecture]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CriticalityDrivenStateTransition]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

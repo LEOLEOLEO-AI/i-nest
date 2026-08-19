@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricNvCap]]
 [[FerroelectricSynapticArray]]
 [[FerroelectricSynapticDevices]]
+[[FerroelectricTunnelingJunction]]
 [[Ferroelectric_Devices]]
 [[HZO_FerroelectricCapacitor]]
 [[Neuromorphic_Computing]]

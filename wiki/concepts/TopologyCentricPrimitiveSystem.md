@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]

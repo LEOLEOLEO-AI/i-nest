@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[CorticalWaveRouting]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[InterFPGA_Spike_Routing]]

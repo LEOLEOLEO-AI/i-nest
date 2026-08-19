@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FC2_Goal_Representation]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
+[[HeterogeneousSynapticDelays]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

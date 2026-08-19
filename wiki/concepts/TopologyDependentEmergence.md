@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
+[[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
@@ -32,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[UniversalIntelligence_Emergence]]

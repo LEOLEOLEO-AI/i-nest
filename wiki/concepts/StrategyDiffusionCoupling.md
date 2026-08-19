@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[BayesianDomainEvolution]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]

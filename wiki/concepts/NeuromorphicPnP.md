@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Architecture_Search]]
+[[AI_Forum_Demo_Narrative]]
 [[ActivityAvalanche]]
 [[Agent_Interaction_Sequencing]]
 [[AsynchronousEventDrivenComputation]]

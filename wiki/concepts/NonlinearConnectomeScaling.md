@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]

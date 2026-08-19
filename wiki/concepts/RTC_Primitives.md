@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDSoW]]
 [[Software_Defined_Interconnect]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]

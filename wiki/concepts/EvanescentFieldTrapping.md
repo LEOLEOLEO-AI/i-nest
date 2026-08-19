@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Heterogeneous_Integration]]
 [[In_Network_Sensing]]
+[[MultiTechnologyInspectionFusion]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Photonic_Chiplet_Interconnect]]

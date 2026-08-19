@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SiC_GaN_Power_Integration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

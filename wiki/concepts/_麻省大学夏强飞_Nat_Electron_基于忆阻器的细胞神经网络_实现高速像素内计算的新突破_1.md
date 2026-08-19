@@ -24,6 +24,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[AI-ML — 全景导航 (Map of Content)]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[FeFET_Differential_BitCell]]
@@ -33,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[OnlineLearningRule]]
 [[SelfHealing_Interconnect]]
 [[TCC]]
+[[_麻省大学夏强飞_Nat_Electron_基于忆阻器的细胞神经网络_实现高速像素内计算的新突破]]
 [[iNEST]]
 [[忆阻器]]
 [[涌现]]

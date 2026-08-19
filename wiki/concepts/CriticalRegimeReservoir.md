@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[Izhikevich_NeuronModel]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

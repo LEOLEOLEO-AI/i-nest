@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Workload_Isolation]]
+[[hls4ml_SNN_Conversion]]
 [[iNEST]]
 
 ## Sources

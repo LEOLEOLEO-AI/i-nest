@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]
+[[InferenceDrivenFitness]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

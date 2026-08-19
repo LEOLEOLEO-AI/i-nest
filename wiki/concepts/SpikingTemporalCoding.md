@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
+[[Contested_Priors_Mechanism]]
 [[FatigueSTDP]]
 [[Fatigue_SpikePattern]]
 [[Globally_Optimal_SNN_Training]]

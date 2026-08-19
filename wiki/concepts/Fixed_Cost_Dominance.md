@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[BiasEvaluationMetrics]]
 [[BigBrainCellularAxis]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Reconfigurable_Network]]
+[[SoftwareDefined_NoC_Routing]]
 [[TCC]]
 [[Topology_Reconfiguration]]
 [[Wafer_Scale_Integration]]

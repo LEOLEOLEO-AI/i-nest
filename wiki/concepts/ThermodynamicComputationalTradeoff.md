@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[Sub_Nyquist_Waveform_Reconstruction]]
 [[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

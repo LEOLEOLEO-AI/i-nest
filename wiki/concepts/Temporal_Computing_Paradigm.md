@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[AsynchronousEventDrivenComputation]]
 [[AutonomousSpikingDynamics]]
 [[DelayCodedWorkingMemory]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Selection_Theorems]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

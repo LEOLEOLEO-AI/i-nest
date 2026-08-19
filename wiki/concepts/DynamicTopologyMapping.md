@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGASpikeImplementation]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Intelligence_Emergence]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]

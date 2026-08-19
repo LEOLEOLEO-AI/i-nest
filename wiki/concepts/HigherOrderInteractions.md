@@ -26,10 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Avalanche_Dynamics]]
 [[BiasEvaluationMetrics]]
+[[Causal_Clinical_Reasoning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[CollectiveDynamics]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

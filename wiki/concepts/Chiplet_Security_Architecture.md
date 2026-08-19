@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[EdgeAI_Market_Consolidation_Driver]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Security]]
 [[In_Package_Interconnect_Trust]]

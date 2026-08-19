@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Dynamic_Expert_Fusion]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

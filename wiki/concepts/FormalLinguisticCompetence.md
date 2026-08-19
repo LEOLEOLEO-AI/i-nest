@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

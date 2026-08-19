@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]
+[[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]

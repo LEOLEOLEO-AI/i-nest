@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Disorder_Anomaly_Duality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FormalLinguisticCompetence]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AddressRedundancyElimination]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

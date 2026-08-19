@@ -23,7 +23,9 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AutonomousAdaptation]]
 [[BiasEvaluationMetrics]]
+[[Complex_System]]
 [[Complex_System_Theory]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

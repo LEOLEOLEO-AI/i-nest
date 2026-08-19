@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Planning_Revolution]]
 [[NonEquilibriumComputing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]

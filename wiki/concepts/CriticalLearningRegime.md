@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BurstGatedRouting]]
 [[CriticalityDrivenTopology]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality_Based_Feature_Extraction]]
 [[EdgeIoTEnergyAwareness]]
 [[Interconnect_Routing]]

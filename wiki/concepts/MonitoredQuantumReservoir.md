@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_of_Natural_Languages]]
 [[DynamicalSelfDualCriticality]]
 [[DynamicsMatchedReservoir]]
+[[EdgeOfChaos]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -20,11 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Agile_Resilient_Defense_Ecosystem]]
-[[BioPlausibleNeuromorphicDisturbanceObserver]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
+[[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

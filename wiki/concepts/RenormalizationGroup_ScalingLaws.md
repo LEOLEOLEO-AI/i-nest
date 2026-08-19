@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
+[[BigBrainCellularAxis]]
 [[CST_Exponential_Form]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

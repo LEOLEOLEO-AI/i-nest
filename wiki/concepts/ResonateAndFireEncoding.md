@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttention]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTrajectoryEncoding]]
+[[EventDrivenWirelessTransmission]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]
 [[NeuromorphicAuditoryFrontend]]

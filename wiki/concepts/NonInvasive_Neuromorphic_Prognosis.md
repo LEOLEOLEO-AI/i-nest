@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Sleep_EEG_Criticality]]
 [[Sleep_Stage_Classification]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

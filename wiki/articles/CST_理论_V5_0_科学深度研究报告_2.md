@@ -12,3 +12,14 @@ SDI, STDP, TCC, iNEST, 互连, 封装, 拓扑, 晶圆
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Complex_System_Theory]]
+[[Network_Topology_Design]]
+[[SDI_Bond]]
+[[STDP_Plasticity]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+[[iNEST]]

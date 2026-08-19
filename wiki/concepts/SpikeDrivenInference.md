@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[AutonomousSpikingDynamics]]
+[[Baseline_Draft_Status]]
 [[ContinualLearningOnNeuromorphic]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

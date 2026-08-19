@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]

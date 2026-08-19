@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyAwareLearning]]
+[[EventDrivenMotionDeblurring]]
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

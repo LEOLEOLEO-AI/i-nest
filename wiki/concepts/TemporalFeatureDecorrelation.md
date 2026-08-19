@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Embedding_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamical_State_Space]]
+[[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
 [[InNetworkAgentRewiring]]

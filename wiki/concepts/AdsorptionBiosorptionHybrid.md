@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LargeScalePhotonicIntegration]]

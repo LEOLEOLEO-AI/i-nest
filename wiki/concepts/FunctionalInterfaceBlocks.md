@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
@@ -40,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

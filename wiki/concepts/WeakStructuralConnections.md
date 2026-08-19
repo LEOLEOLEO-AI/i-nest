@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Memristive_Topology]]
+[[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]

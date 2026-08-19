@@ -20,16 +20,25 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDI_Bond]]
 [[SDI_TopologyInterconnect]]
 [[SDI_TopologyWaferIntegration]]
+[[SDI_Topology]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
+[[CircuitTopologyEncoding]]
 [[DelayPropagationDynamics]]
 [[GrandCanonicalOptimization]]
 [[Interconnect_Routing]]

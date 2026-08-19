@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Algorithmic_Warfare]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
+[[BurstGatedRouting]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

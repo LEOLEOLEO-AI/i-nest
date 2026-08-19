@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CounterstreamSignalPropagation]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality_Induced_Plasticity]]
+[[DelayPropagationDynamics]]
 [[DiffusionInducedInstability]]
 [[Driven_Criticality]]
 [[Emergent_Intelligence_Threshold]]

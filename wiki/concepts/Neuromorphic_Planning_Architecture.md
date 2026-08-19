@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_SNN]]
 [[Free_Energy_Principle_Network]]
 [[GeometricNeuromorphicFusion]]
 [[Master_SDDE]]

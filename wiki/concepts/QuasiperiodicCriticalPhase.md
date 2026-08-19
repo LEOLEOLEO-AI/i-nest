@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[OptimalRepresentation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]

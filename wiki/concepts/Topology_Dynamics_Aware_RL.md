@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[ReconfigurableSpikingRouting]]
 [[Spiking_Neural_Network]]

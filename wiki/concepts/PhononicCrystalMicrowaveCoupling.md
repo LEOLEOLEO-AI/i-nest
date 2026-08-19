@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology_Packaging]]
 [[EMIB_Bridge]]
 [[EulaminateOverrepresentation]]
+[[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

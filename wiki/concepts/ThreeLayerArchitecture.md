@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[Software_Defined_Interconnect_bonding_mechanism]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

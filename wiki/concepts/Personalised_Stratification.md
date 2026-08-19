@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Automated_Reward_Shaping]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
+[[Capability_Reserve_Index]]
 [[Catastrophic_Forgetting]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Contested_Priors_Architecture]]

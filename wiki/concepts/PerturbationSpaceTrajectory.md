@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]
+[[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]

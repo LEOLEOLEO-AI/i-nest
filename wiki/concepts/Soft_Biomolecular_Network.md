@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Accessibility_Plasticity]]
+[[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveTimeStepTraining]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Silicon_Neuron_Controller]]
 [[Neuromorphic_Substrate]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

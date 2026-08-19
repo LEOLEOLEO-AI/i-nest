@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Bursting_Neuron_Model]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[MultibodyInteractionCascade]]

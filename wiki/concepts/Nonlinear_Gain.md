@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
 [[National_Innovation_Center_Role]]

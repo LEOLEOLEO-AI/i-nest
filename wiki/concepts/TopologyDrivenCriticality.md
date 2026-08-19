@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[DisorderDrivenQuantumPhaseTransition]]
 [[Emergent_Intelligence_Threshold]]
+[[FormalLinguisticCompetence]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]

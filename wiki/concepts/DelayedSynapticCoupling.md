@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SheafNeuralNetworks]]
 [[Synaptic_Plasticity]]
+[[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[Temporal_Coding]]
 [[iNEST]]
 [[涌现]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Chiplet_based_heterogeneous_integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]

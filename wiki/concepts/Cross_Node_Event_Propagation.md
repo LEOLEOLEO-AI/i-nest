@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[CirculateFiringNeuron]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

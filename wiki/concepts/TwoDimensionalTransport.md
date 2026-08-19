@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Network_on_Chip_communication_architecture]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NoC_SDI_Integration]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

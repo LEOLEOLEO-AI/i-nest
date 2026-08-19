@@ -24,11 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[HodgkinHuxleyDynamics]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[新型计算]]
 [[神经形态计算]]
 
 ## Sources

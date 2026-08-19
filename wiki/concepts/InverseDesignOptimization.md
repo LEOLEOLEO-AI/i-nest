@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[Dynamic_Expert_Fusion]]
+[[Express_Link_Virtualization]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

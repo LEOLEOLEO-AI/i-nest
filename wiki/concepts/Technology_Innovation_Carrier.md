@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[ThirdWaveAI]]
 [[TopologicalAndersonChernInsulator]]
 
 ## Sources

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
+[[EEGSpikeEncoding]]
 [[EventCameraPoseInput]]
 [[ImpactFallDetection]]
 [[Network_Topology_Design]]

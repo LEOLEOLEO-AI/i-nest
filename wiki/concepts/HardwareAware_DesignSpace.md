@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[CirculateFiringNeuron]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_Substrate]]
 [[Nonlinear_Gain]]
 [[ParallelSNNArchitecture]]

@@ -31,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ConnectomeWiringSeparability]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Self_Organized_Criticality]]
+[[SpikingBrain-1_0_类脑脉冲大模型的革命性突破_]]
 [[TCC]]
 [[iNEST]]
 [[大脑临界性_健康脑功能的统一设定点假说_Neuron观点文章深度解析]]

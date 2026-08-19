@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Contested_Priors_Architecture]]
+[[CrossEntityPreemptiveWarning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EmulationTheoryDisturbanceObserver]]

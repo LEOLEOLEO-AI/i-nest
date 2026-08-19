@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
+[[ElectronicBurstingNeuron]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

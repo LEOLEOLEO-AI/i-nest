@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[CriticalityInducedTopology]]
 [[Dynamic_Expert_Fusion]]
 [[Long_Range_Interactions]]

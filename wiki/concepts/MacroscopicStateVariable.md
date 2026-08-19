@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CirculateFiringNeuron]]
+[[CompactnessRegularizedFitness]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
@@ -35,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetwork]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]
+[[MultiFPGAScaling]]
 [[Neuromorphic_Computing]]
 [[PinAssignmentOptimization]]
 [[ReconfigurableSpikingRouting]]

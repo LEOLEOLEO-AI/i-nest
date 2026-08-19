@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[EvanescentFieldTrapping]]
 [[Heterogeneous_Integration]]
+[[MultiTechnologyInspectionFusion]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Photonic_Chiplet_Interconnect]]

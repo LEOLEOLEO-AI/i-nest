@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Topology]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Semantic_Least_Energy_Principle]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
+[[TopologyProgramming]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

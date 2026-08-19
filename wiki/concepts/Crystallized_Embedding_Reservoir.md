@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

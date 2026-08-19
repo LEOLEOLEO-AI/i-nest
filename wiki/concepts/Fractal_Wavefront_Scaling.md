@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Disorder_Anomaly_Duality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FormalLinguisticCompetence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

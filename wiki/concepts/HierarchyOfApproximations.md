@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalBayesianCommunityDetection]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MacroCriticalityEmergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]

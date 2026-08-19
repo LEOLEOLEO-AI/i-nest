@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Critical_Exponent_Analysis]]
 [[Emergent_Intelligence_Threshold]]
 [[FC2_Goal_Representation]]
 [[Free_Energy_Principle_Network]]

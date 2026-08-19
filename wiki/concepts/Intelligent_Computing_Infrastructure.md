@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
+[[Nonlinear_Topology_Amplification]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
 [[RTC_Primitive_Set]]

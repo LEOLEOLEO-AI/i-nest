@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[BiasEvaluationMetrics]]
 [[Constructed_Reality_Interconnect]]
+[[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Master_SDDE]]

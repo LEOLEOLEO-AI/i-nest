@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AstrocyteInspiredRepair]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_Network_Topology]]
 [[Complex_System]]

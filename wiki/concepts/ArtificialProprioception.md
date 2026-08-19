@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_To_Information_Conversion]]
+[[ClosedLoopNeuromorphicControl]]
 [[Neuromorphic_Computing]]
 [[Trustworthiness_Aware_Training]]
 [[iNEST]]

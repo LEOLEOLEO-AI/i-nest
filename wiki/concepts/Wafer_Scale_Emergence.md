@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

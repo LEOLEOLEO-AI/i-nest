@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[InNetwork_Neuromorphic_CoDesign]]

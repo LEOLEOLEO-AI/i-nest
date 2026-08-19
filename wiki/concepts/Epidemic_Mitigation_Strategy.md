@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveEntanglementManagement]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Architecture]]

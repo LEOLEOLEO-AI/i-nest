@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[Automated_Reward_Shaping]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]

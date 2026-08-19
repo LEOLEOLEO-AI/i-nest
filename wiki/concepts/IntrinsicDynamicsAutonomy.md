@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
+[[Brain_Connectome]]
 [[CSI_Temporal_Encoding]]
 [[Connectome_Reservoir]]
+[[Cross_Brain_Connectome]]
 [[Dynamic_Expert_Fusion]]
 [[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]

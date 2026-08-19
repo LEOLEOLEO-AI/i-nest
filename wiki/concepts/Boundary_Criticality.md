@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderDrivenQuantumPhaseTransition]]
 [[Dynamic_Expert_Fusion]]
 [[FibonacciMonitoredCriticality]]
+[[FormalLinguisticCompetence]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

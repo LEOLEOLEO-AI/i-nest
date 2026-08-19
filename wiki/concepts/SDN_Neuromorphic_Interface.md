@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Criticality_Based_Feature_Extraction]]
+[[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[InNetwork_Neuromorphic_CoDesign]]

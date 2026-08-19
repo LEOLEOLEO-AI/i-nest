@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[External_to_OnDie_Evolution]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]

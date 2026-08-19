@@ -21,10 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectScaling]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[MicroRouter_Embedding]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[WaferScaleTopologyCentricComputing]]

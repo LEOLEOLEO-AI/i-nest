@@ -21,14 +21,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[BigBrainCellularAxis]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[ConsciousnessEngineeringLoop]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Principle_Network]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[SDI_Bond]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

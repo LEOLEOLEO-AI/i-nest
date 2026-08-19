@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[BackflowTransformation]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologyDrivenCascade]]
 [[Topology_Aware_Spike_Routing]]

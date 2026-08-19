@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousPhysicalComputation]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[DefectPartitionFunction]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CriticalityDrivenStateTransition]]
 [[DynamicTokenSparsity]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
+[[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]

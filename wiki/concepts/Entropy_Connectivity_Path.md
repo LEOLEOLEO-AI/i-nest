@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP_Bond]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]

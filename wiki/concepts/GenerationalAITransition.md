@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[ContextualReasoning]]
 [[Continual_Learning_Modularity]]
+[[ContinuousGameOfLife]]
 [[DataDrivenMaterialDesign]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

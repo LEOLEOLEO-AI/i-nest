@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[BayesianDomainEvolution]]
 [[CounterstreamSignalPropagation]]
 [[Dendritic_In_Context_Learning]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[QuantumDeeplySupervisedSpiking]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

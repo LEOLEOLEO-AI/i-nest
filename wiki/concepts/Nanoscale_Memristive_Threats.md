@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[GeTeBasedCBRAM]]
 [[InNetworkAgentRewiring]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]

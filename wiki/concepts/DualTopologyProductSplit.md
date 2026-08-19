@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DGS_SplatPrimitive]]
 [[3DHI_Chiplet_Integration]]
+[[AI_Supply_Chain_Increment]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]

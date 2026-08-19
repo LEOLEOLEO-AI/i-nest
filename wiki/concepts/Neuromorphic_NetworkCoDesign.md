@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CognitiveSupportTopology]]
 [[ContextualReasoning]]
 [[CrossSubstrateHomology]]
 [[Dynamic_Expert_Fusion]]

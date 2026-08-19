@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CompartmentalNeuronModel]]
 [[ComplexTopologicalStructures]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]

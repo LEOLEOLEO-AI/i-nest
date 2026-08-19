@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricCrossbarArray]]
 [[FerroelectricNvCap]]
 [[FerroelectricSynapticArray]]
+[[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]

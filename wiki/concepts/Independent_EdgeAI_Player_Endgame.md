@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
+[[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

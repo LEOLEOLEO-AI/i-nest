@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
+[[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]

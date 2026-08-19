@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[BioInspired_Interception_Control]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

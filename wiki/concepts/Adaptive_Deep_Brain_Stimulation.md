@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
@@ -38,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

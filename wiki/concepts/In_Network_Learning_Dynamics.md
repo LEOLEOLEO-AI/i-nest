@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
+[[InterpolationLearningTransition]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

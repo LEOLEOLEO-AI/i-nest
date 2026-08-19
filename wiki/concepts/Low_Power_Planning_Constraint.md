@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
 [[Accessibility_Plasticity]]
+[[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
 [[AdaptiveFlexibilityThreshold]]
 [[Adaptive_Deep_Brain_Stimulation]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

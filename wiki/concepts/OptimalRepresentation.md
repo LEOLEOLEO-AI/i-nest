@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[TopologyInducedCriticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

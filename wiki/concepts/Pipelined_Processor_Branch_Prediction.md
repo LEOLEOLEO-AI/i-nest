@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DimensionalityReductionPrinciple]]
+[[FractureMechanism]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Pipelined_Processor]]

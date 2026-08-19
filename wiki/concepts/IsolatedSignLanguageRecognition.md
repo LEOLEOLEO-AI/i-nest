@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
+[[Neural_Substrate_Independence]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[Spiking_Neural_Network]]

@@ -34,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[iNEST]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[神经网络]]

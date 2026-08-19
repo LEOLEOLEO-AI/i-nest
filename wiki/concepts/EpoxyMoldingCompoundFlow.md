@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DataProvenanceIntegrity]]
 [[Heterogeneous_Integration]]
 [[RTC_Primitive]]
 [[RTC_Primitive_Set]]

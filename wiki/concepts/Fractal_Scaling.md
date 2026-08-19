@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Diagnostic]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Cauchy_Aczel_Uniqueness]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]

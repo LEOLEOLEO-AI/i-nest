@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Brain_Connectome]]
 [[DataProvenanceIntegrity]]
 [[DevelopmentalConnectomeTemporalGraph]]
+[[DevelopmentalStageEmbedding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

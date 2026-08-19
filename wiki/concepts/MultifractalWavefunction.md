@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[AstrocyteInspiredRepair]]
 [[CST_CoordinationMechanism]]
 [[Complex_System]]
 [[Complex_System_Theory]]

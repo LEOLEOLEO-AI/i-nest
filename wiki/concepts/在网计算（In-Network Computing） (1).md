@@ -22,3 +22,16 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Crystallized_Neural_Manifolds]]
+[[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
+[[Nonlinear_Gain]]
+[[PPT]]
+[[TCC]]
+[[Wafer_Scale_Neuromorphic]]
+[[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
+[[getnote_2026-06-05_NEST 智能涌现研究进展与工程落地全景]]
+[[iNEST]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AstrocyteInspiredRepair]]
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]

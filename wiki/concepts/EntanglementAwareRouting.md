@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RoutabilityDrivenFloorplanning]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

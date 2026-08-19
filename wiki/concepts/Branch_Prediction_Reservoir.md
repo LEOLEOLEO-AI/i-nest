@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction]]
 [[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicalSelfDualCriticality]]
 [[Evolving_System_Adaptation]]
 [[Free_Energy_Synchronization]]
 [[MemristiveReservoirBranchPrediction]]

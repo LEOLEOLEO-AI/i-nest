@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microfluidic_Worm_Trap_Array]]

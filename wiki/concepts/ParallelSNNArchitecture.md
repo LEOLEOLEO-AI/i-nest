@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[Dynamic_Expert_Fusion]]
+[[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[Gradient_Free_SNN_Learning]]
 [[Intelligence_Emergence]]

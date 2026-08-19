@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristor_Network]]
 [[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
 [[Resilient_Satellite_Constellations]]
@@ -36,7 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[TopologicalAndersonInsulator]]
+[[Topological_Anderson_Insulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

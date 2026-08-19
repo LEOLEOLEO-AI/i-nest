@@ -41,6 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Memory_Wall]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

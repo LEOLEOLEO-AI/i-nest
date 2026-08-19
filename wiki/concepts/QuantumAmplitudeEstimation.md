@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[AllOpticalHebbianLearning]]
 [[Cascading_Failure_Mitigation]]
+[[CorticalTravelingWave]]
 [[CorticalTravelingWaves]]
 [[CriticalStateInformationMaximization]]
 [[Interconnect_Routing]]

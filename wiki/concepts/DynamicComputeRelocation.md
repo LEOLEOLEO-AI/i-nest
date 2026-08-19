@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
 [[ComputeRelocationOverhead]]
+[[CrossMaterial_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Synchronization]]
 [[Heterogeneous_Integration]]

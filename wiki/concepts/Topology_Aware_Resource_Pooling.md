@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1024_Card_SuperNode]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
@@ -27,7 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_Feedback]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DissipativePhaseTransition]]
+[[DynamicReconfigurationForFaultTolerance]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

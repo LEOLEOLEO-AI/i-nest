@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[ScalableNeuromorphicTopology]]
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

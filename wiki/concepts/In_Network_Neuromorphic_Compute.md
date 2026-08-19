@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Chiplet_Integration]]
 [[AI_FullSpectrum_Strategy]]
 [[BioPlausiblePredictiveCoding]]
 [[CrossDomain_Integration]]

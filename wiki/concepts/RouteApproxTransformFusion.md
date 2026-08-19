@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolutionCoupler]]
 [[AdsorptionBiosorptionHybrid]]
 [[BioPlausiblePredictiveCoding]]
+[[CriticalityDrivenStateTransition]]
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]
 [[Interconnect_Routing]]

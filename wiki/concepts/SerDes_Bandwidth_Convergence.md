@@ -34,8 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_SDI]]
 [[NoC_SDI_Topology]]
+[[OnDie_Fusion]]
+[[SDI_Bond]]
+[[SDI_Topology]]
 [[TCC]]
 
 ## Sources

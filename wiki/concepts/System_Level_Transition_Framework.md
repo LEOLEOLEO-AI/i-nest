@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Cognitive_Relapse_Architecture]]
 [[CommunicationAwareComputeRelocation]]
+[[CorticalTypeDiversity]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]

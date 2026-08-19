@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[InNetworkNeuromorphicEmergence]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

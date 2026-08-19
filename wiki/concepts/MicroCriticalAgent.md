@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[NonInvasive_Neuromorphic_Prognosis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]

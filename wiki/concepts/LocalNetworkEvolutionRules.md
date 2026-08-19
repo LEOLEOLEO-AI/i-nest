@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Defense_Trinity]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[C_elegansConnectomeAnalogy]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]

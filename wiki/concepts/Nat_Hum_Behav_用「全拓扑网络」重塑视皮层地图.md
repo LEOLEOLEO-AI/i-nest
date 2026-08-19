@@ -20,3 +20,16 @@ refs: 4
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Cauchy_Aczel_Uniqueness]]
+[[CoPoS]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
+[[Nonlinear_Gain]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+[[iNEST]]
+[[涌现]]

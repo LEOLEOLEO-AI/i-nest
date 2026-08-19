@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[ComputationEfficientDeepLearning]]
+[[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

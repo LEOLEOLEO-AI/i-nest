@@ -33,6 +33,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Self_Organized_Criticality]]
 [[SpikingNeuronOptimization]]
@@ -40,4 +41,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
+[[智能涌现]]
 [[涌现]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[AnisotropicGaussianPrimitives]]
+[[Biomanufacturing_Control_Loop]]
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]

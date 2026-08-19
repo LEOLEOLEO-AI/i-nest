@@ -4,7 +4,7 @@ cssclass: dashboard
 
 # 🔬 TCC × iNEST 自进化研发中枢
 
-> **知识库状态：活跃** | 管线：❓ unknown | Git: 417 uncommitted | 更新：2026-08-19 11:43
+> **知识库状态：活跃** | 管线：❓ unknown | Git: 3520 uncommitted | 更新：2026-08-20 03:08
 
 ---
 
@@ -12,7 +12,7 @@ cssclass: dashboard
 
 | 维度 | 数值 | 入口 |
 |---|---|---|
-| 📄 知识库总文件 | **10,343** | [[Home\|根目录/Home]] |
+| 📄 知识库总文件 | **10,368** | [[Home\|根目录/Home]] |
 | 🔬 TCC 资料 | **1,957** | [[30_TCC/TCC_Master_Index\|TCC 主索引]] |
 | 🧠 iNEST 资料 | **1,436** | [[40_iNEST/iNEST_Master_Index\|iNEST 主索引]] |
 | 📥 待处理论文 | **165** | [[00_Inbox/_pipeline_insights/Index\|论文收件箱]] |
@@ -25,9 +25,9 @@ cssclass: dashboard
 
 | 维度 | 数值 | 变化 |
 |---|---|---|
-| 🏷️ 概念总数 | **3293** | TCC=842, iNEST=1111, Cross=1340 |
-| 📝 编译文章 | **900** | raw/ → wiki/articles/ |
-| 🌉 跨域桥梁 | **3** | 强度 557/422/332 |
+| 🏷️ 概念总数 | **3307** | TCC=847, iNEST=1113, Cross=1347 |
+| 📝 编译文章 | **901** | raw/ → wiki/articles/ |
+| 🌉 跨域桥梁 | **3** | 强度 572/439/357 |
 
 **入口**：[[wiki/index|Wiki 概念索引]] · [[wiki/health|知识健康报告]] · [[wiki/cross_domain_insights|跨域洞察]] · [[wiki/task_recommendations|任务推荐]]
 
@@ -37,9 +37,9 @@ cssclass: dashboard
 
 | # | 桥梁 | 强度 | 核心洞察 |
 |---|---|---|---|
-| 1 | **SDI × Plastic × Interconnect** | 557 | SDI's software-defined interconnect could implement plastic (reconfigurable) net |
-| 2 | **Chiplet × Heterogeneous × Neuromorphic** | 422 | Chiplet-based heterogeneous integration enables combining CMOS logic with memris |
-| 3 | **NoC × Spiking × Routing** | 332 | NoC routing algorithms could be redesigned for event-driven spike packet deliver |
+| 1 | **SDI × Plastic × Interconnect** | 572 | SDI's software-defined interconnect could implement plastic (reconfigurable) net |
+| 2 | **Chiplet × Heterogeneous × Neuromorphic** | 439 | Chiplet-based heterogeneous integration enables combining CMOS logic with memris |
+| 3 | **NoC × Spiking × Routing** | 357 | NoC routing algorithms could be redesigned for event-driven spike packet deliver |
 
 > 全部桥梁 → [[wiki/cross_domain_insights|跨域洞察完整报告]]
 
@@ -56,7 +56,7 @@ cssclass: dashboard
 >[!tip] 知识库维护
 >- [[wiki/task_recommendations|查看自动推荐任务]]
 >- [[60_MOC/07_Pipeline_Status|管线状态]]：`❓ unknown`
->- Git：417 uncommitted changes
+>- Git：3520 uncommitted changes
 
 **入口**：[[60_MOC/03_Daily_Action|每日行动]] · [[60_MOC/04_Daily_Focus|今日焦点]] · [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html)
 
@@ -73,7 +73,7 @@ cssclass: dashboard
 | 工程 | CST 仿真、FPGA/RTL 原型 | 可复现实验脚本、配置、日志和图表 |
 | 交付 | TCC 架构专利与实现专利 | 权利要求、实施例、附图和对比 |
 
-入口：[[30_TCC/TCC_Master_Index|TCC 主索引]] · [[wiki/index#TCC — Topology-Centric Computing (842 concepts)|TCC Wiki (842 概念)]]
+入口：[[30_TCC/TCC_Master_Index|TCC 主索引]] · [[wiki/index#TCC — Topology-Centric Computing (847 concepts)|TCC Wiki (847 概念)]]
 
 ### iNEST：复杂网络涌现智能
 
@@ -84,7 +84,7 @@ cssclass: dashboard
 | 工程 | SNN/异步电路/存算一体 | 仿真、综合、资源、功耗和时延 |
 | 交付 | iNEST 论文、专著、白皮书、专利 | 版本、章节状态、引用证据 |
 
-入口：[[40_iNEST/iNEST_Master_Index|iNEST 主索引]] · [[wiki/index#iNEST — In-Network Neuromorphic (1111 concepts)|iNEST Wiki (1111 概念)]]
+入口：[[40_iNEST/iNEST_Master_Index|iNEST 主索引]] · [[wiki/index#iNEST — In-Network Neuromorphic (1113 concepts)|iNEST Wiki (1113 概念)]]
 
 ---
 
@@ -106,7 +106,7 @@ cssclass: dashboard
 ```text
 论文导入 → Inbox → 管线筛选 → raw/
     ↓
-wiki_compiler → wiki/ (3293 概念, 900 文章)
+wiki_compiler → wiki/ (3307 概念, 901 文章)
     ↓
 跨域洞察 + 任务推荐 + 假设验证
     ↓
@@ -147,7 +147,7 @@ Processing → TCC/iNEST → Output
 | [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html) | 今日做什么、进展、洞察 |
 | [[60_MOC/03_Daily_Action\|每日行动]] | 论文 → 可执行任务 |
 | [[60_MOC/04_Daily_Focus\|今日焦点]] | 当天最重要任务 |
-| [[wiki/index\|Wiki 概念索引]] | 3293 个结构化概念 |
+| [[wiki/index\|Wiki 概念索引]] | 3307 个结构化概念 |
 | [[wiki/task_recommendations\|任务推荐]] | 知识缺口驱动任务 |
 | [[60_MOC/TCC_iNEST_成果全景\|成果全景]] | 论文、专利、代码 |
 | [[60_MOC/00_知识库治理中枢\|治理中枢]] | 目录职责与标准 |
@@ -160,7 +160,6 @@ Processing → TCC/iNEST → Output
 
 | 日期 | 断链 | 孤儿 | 缺FM |
 |---|---|---|---|
-| 2026-08-02 | 1334 | 2058 | 36 |
 | 2026-08-02 | 1339 | 2057 | 38 |
 | 2026-08-04 | 2441 | 2505 | 355 |
 | 2026-08-04 | 2417 | 3152 | 3665 |
@@ -170,6 +169,7 @@ Processing → TCC/iNEST → Output
 | 2026-08-07 | 2105 | 2432 | 219 |
 | 2026-08-10 | 2031 | 2444 | 252 |
 | 2026-08-11 | 2006 | 3224 | 259 |
+| 2026-08-19 | 2081 | 3341 | 367 |
 
 > 完整日志 → [[99_Meta/self_evolve_log.json|自进化日志]] · 健康报告 → [[wiki/health|知识健康报告]]
 
@@ -191,7 +191,7 @@ Processing → TCC/iNEST → Output
 
 ## 🩺 健康检查（来自 wiki/health.md）
 
-- 真正断链：**2081**  ·  孤儿笔记：**3341**  ·  缺 frontmatter：**367**
+- 真正断链：**1999**  ·  孤儿笔记：**2472**  ·  缺 frontmatter：**370**
 
 > 缺口由每日自进化持续消解；如需扩大清理范围请人工确认。
 
@@ -206,4 +206,4 @@ Processing → TCC/iNEST → Output
 
 ---
 
-*主页由 homepage_generator.py 自动刷新 | 2026-08-19 11:43*
+*主页由 homepage_generator.py 自动刷新 | 2026-08-20 03:08*

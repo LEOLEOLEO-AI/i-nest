@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spatiotemporal_Emergence_Model]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

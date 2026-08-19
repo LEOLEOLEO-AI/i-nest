@@ -12,3 +12,10 @@ SDI, iNEST, neuromorphic, 类脑
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[iNEST]]

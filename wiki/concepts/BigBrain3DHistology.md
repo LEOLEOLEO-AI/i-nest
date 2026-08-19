@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCytoarchitectonicAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Entropy_Connectivity_Path]]
+[[FirstPrinciples_Derivation]]
 [[LeftRightAsymmetry]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

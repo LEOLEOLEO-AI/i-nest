@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[CirculateFiringNeuron]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]

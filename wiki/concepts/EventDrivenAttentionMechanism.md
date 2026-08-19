@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttention]]
 [[EventDrivenTrajectoryEncoding]]
+[[EventDrivenWirelessTransmission]]
 [[HebbianLimitCycleLearning]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[BioInspired_Interception_Control]]
 [[BranchingRatio]]
+[[BurstGatedRouting]]
 [[DifferentiableRasterizationPipeline]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

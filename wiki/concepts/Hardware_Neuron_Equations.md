@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[Battlefield_AI_Deployment]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Electronic_Neuron_Circuit]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

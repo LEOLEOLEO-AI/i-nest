@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_RL_Control]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Precision_Configurable_ReCON]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

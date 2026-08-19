@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[Baseline_Draft_Status]]
 [[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

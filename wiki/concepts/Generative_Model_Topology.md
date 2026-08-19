@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BiasEvaluationMetrics]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System]]
 [[Complex_System_Theory]]

@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CirculateFiringNeuron]]
+[[ComplexValuedSNN]]
+[[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
 [[HodgkinHuxleyDynamics]]

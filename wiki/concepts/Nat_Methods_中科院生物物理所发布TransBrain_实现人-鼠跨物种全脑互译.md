@@ -19,3 +19,9 @@ refs: 3
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[AGI面临的挑战 _ 脑机制自底向顶梳理 下部 5万字]]
+[[TCC]]
+[[iNEST]]

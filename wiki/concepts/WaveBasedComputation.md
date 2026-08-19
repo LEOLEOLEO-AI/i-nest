@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[TCC_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

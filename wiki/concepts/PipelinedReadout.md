@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
+[[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

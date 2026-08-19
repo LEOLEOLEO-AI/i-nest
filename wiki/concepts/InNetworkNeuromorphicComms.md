@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Swarm_Intelligence_Maximisation]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

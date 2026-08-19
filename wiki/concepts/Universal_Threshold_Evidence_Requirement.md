@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[Architectural_Conditioning]]
+[[Contested_Priors_Mechanism]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]

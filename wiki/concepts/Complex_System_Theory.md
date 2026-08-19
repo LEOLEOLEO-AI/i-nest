@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
 [[TopologyFragility]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]

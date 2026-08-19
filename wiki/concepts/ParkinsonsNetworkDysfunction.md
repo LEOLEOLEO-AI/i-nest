@@ -21,9 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
+[[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
-[[BioPlausibleNeuromorphicDisturbanceObserver]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

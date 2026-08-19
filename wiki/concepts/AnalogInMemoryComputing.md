@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Decoupled_Priors]]
 [[EulaminateOverrepresentation]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Principle_Network]]

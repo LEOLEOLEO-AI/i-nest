@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_computing_architecture]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

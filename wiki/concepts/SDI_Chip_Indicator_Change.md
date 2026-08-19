@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Heterogeneous_Integration]]
+[[CompactFieldVariable]]
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
 [[Memory_Wall]]

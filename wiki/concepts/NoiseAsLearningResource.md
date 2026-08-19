@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
+[[Complex_System_Theory]]
+[[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Architectural_Conditioning]]
+[[Contested_Prior_Resolution]]
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

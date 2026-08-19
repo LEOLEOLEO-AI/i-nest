@@ -20,10 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Avoided_Criticality]]
 [[Event_Driven_Architecture]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
+[[SNN]]
 [[ST_SNN]]
 [[Scalable_Graph_Search_Neuromorphic]]
 [[SpiNNaker2_Chip]]

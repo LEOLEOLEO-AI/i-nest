@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
 [[Memristive_Device_Threats]]

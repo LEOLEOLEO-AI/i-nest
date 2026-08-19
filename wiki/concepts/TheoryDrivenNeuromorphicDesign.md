@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AsynchronousEventDrivenComputation]]
+[[Bidirectional_Temporal_Enhancement]]
 [[DifferentiableRasterizationPipeline]]
+[[EventDrivenComputation]]
 [[EventDrivenSpectralProcessing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NeuromorphicAuditoryFrontend]]

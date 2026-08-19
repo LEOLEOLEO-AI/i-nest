@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[CirculateFiringNeuron]]
 [[Closed_Loop_Neuromodulation]]
+[[Continual_Learning_Modularity]]
 [[DataDrivenMaterialDesign]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

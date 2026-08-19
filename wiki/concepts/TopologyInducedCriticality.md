@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
+[[FiniteSizeTopologicalPhase]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]

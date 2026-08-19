@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[新型计算]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

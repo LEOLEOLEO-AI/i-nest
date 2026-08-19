@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[ArbitraryWavefunctionConfigurability]]
+[[AstrocyteInspiredRepair]]
 [[CST_CoordinationMechanism]]
 [[Causal_Emergence]]
 [[Complex_System]]

@@ -27,9 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[AcceleratedMaterialScreening]]
+[[Beyond_Moore_Packaging_Strategy]]
+[[Complex_System_Theory]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

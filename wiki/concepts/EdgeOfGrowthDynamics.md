@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]
+[[CriticalFixedPoint]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfGrowth]]
 [[Emergent_Intelligence_Threshold]]

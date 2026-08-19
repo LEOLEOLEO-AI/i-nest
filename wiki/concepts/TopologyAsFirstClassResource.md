@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
+[[TopologyProgramming]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

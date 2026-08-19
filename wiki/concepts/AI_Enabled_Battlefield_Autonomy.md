@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[BurstGatedRouting]]
 [[CompartmentalNeuronModel]]
+[[ComplexValuedSNN]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

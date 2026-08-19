@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenAttention]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]

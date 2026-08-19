@@ -20,11 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Agile_Resilient_Defense_Ecosystem]]
-[[BioPlausibleNeuromorphicDisturbanceObserver]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
 [[Cognitive_Relapse_Architecture]]
+[[ComplexEcosystemDynamics]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

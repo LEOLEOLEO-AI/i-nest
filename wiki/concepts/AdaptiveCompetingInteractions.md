@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Free_Energy_Topology_Mapping]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

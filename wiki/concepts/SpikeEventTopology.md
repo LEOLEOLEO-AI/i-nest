@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
+[[SNN_Topology_Mapping]]
 [[SpikeCodedSafetyMonitoring]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

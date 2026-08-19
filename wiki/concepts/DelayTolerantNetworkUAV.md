@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Forum_Demo_Narrative]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[BurstGatedRouting]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]

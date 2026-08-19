@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[Contested_Prior_Resolution]]
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]

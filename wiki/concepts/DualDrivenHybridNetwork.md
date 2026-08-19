@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NonEquilibriumComputing]]
+[[PowerLawScaling]]
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]

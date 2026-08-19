@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[EdgeIoTEnergyAwareness]]
 [[ElasticInferenceScheduling]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Regulation]]
 [[SDI_STDP_Rule]]
+[[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[STDP_Topology_Integration]]
 [[Spiking_Neural_Network]]

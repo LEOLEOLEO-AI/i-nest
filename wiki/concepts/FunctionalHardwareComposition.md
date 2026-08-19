@@ -20,10 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[HypergraphRumorPropagation]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
@@ -33,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

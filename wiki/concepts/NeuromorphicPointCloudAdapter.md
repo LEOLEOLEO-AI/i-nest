@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
+[[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Chiplet]]

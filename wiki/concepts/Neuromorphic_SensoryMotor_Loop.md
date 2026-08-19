@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
+[[GeometricNeuromorphicFusion]]
 [[Hardware_Accelerated_SNN]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]

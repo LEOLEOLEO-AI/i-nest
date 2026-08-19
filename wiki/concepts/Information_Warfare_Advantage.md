@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousSpikingDynamics]]
 [[CollectiveDynamics]]
 [[Constructed_Reality_Model]]
+[[CrossLayer_SignalRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[EdgeAI_Market_Consolidation_Driver]]
 [[Heterogeneous_Integration]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]

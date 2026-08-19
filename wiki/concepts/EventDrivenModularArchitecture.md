@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibleNeuromorphicAccelerator]]
 [[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]
+[[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

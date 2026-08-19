@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveArchitecture]]
 [[BioInspired_Interception_Control]]
 [[CriticalityDrivenAdaptation]]
 [[Dynamic_Expert_Fusion]]

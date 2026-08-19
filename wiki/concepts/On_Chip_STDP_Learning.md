@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]

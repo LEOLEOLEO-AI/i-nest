@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
 [[3D_Airborne_Connectivity_Characterization]]
+[[AI_Supply_Chain_Increment]]
 [[Agent_Workflow_Automation]]
 [[CST_Triad_Integration]]
 [[Complex_System]]

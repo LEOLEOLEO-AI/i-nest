@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDI_Topology]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SoftwareDefinedSystemOnWafer]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

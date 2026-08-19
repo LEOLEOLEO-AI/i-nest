@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Layer_Stacking]]
 [[EmergentOrder]]
+[[Evolutionary_Computability]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

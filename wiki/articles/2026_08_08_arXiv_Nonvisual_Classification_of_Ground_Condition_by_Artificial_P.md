@@ -17,6 +17,7 @@ TCC, iNEST
 ## Related Concepts
 
 [[ArtificialProprioception]]
+[[Interconnect_Routing]]
 [[MoE_Routing]]
 [[TCC]]
 [[iNEST]]

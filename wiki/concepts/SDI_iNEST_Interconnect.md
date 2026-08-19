@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[BigBrainCellularAxis]]
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]

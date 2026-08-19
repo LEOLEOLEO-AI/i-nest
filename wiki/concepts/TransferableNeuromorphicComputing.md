@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AutonomousAdaptation]]
+[[BrainScaleTopologyExploitation]]
 [[CirculateFiringNeuron]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]

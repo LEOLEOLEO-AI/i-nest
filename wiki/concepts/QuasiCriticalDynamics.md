@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOnSmallWorlds]]
 [[Criticality_Avoidance_Theory]]
 [[Criticality_Induced_Computation]]
+[[Criticality_Transition]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

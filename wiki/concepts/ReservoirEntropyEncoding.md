@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Intelligence_Threshold]]

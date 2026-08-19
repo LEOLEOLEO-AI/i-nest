@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[AcademicDevelopmentCoCreation]]
+[[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]

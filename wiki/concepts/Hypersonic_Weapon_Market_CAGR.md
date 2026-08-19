@@ -35,11 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[QuarantineCostTradeoff]]
 [[RobustnessThroughNoise]]
 [[SNN]]
+[[SNN_Backpropagation_Through_Time]]
 [[SpatiotemporalCooperativeIntelligence]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

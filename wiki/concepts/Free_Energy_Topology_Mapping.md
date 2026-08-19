@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[FreeEnergyMinimization]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

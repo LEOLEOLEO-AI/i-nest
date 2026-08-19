@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateInformationMaximization]]
 [[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]
+[[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]

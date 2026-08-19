@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

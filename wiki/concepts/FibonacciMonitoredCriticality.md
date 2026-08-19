@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CriticalityOffCriticalityTransition]]
+[[EdgeOfChaosComputation]]
 [[Emergent_Intelligence_Threshold]]
 [[EntanglementScaling]]
 [[Intelligence_Emergence]]

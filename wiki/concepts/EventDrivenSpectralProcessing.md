@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]

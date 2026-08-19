@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[GutBrainAxis_Reprogramming]]
 [[Gut_Brain_Immune_Network]]
 [[HallmarkDrivenCancerModeling]]
 [[Intelligence_Emergence]]

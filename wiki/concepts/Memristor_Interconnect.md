@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
@@ -27,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

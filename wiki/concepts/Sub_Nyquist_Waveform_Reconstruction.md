@@ -38,7 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
+[[SDSoW]]
+[[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[iNEST]]
 
 ## Sources

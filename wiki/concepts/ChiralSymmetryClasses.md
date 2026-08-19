@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdiabaticMultimodeBend]]
+[[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[Deep_Thermalisation]]

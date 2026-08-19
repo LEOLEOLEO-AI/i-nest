@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[Hybrid_LLM_Guided_Search]]
 [[Intelligence_Emergence]]
+[[LLM_Heuristic_Pruning]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]

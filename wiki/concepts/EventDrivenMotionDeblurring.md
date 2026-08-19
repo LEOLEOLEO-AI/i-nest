@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh_Model]]
 [[TwoTimescaleNeuroEvolution]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

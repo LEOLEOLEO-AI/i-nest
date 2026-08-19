@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
+[[BigBrainCellularAxis]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]

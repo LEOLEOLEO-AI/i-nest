@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Spiking]]
+[[PhaseLockedTopologyMapping]]
 [[Quadratic_Integrate_and_Fire_Neuron]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

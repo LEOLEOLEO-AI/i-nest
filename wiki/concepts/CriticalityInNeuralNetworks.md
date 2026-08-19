@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderDrivenQuantumPhaseTransition]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventCameraTemporalPipeline]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

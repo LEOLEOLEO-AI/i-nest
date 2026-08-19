@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]

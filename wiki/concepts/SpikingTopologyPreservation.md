@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]

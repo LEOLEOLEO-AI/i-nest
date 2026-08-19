@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_computing_architecture]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]

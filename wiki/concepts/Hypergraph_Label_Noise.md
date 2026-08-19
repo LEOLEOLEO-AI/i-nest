@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[BigBrainCellularAxis]]
+[[Biologically_Plausible_Learning_Rules]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

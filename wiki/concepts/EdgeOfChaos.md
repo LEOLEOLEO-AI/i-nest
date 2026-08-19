@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CategoricalClosureCriterion]]
+[[CriticalityDrivenAdaptation]]
 [[Criticality_of_Natural_Languages]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]

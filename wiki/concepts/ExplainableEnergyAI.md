@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BrainBodyResonance]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Gut_Brain_Immune_Network]]
@@ -30,8 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Spiking]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RestingStateEEG_Connectivity]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
+[[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]

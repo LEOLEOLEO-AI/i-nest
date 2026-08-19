@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[CollectiveSpikingDynamics]]
 [[ComplexValuedSNN]]
+[[Contested_Prior_Resolution]]
 [[Deep_SNN_Trainability]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]

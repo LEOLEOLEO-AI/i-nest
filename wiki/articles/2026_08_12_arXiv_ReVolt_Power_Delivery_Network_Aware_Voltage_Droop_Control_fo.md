@@ -12,3 +12,11 @@ TCC, chiplet, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[3D_IC_Stacking]]
+[[Chiplet_Heterogeneous_Integration]]
+[[TCC]]
+[[iNEST]]

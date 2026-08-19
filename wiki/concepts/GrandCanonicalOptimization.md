@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[DelayPropagationDynamics]]
 [[Dynamic_Expert_Fusion]]
+[[ExactWiringRouting]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousSpikingDynamics]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
+[[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]

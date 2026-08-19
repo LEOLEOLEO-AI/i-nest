@@ -36,11 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[QuantumChaos]]
+[[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryNetwork]]
 [[TCC]]
+[[Temporally_Precise_Training_Parallelization]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

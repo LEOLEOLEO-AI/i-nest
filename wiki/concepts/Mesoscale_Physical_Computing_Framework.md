@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Computation]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

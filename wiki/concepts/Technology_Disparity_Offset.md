@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[NonHermitianTopology]]

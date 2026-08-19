@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[EdgeIoTEnergyAwareness]]
+[[FractureMechanism]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

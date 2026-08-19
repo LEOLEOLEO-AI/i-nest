@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[CriticalityDrivenLearning]]
 [[CriticalityEntanglementIndex]]
 [[Criticality_Induced_Computation]]
 [[Criticality_of_Natural_Languages]]

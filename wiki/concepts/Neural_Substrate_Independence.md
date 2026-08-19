@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AstrocyteInspiredRepair]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Brain_Connectome]]
 [[Connectome_Reservoir]]

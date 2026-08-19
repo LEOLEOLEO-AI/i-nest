@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[Agent_Workflow_Automation]]
 [[AnteHoc_Explainability]]
+[[CompactBosonDuality]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DerivativeLineage]]

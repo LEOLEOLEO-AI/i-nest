@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[Combinatorial_Optimization_Readout]]
 [[ComplexTopologicalStructures]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]

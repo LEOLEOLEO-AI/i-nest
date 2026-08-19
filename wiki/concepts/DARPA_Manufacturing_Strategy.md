@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Material_Circularity]]
+[[Memristor_Network]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[OpenCodex_Upgrade_Path]]

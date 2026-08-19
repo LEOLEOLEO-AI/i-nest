@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
+[[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[Agent_Interaction_Sequencing]]
 [[Algorithmic_Warfare]]

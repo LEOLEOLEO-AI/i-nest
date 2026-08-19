@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Control_Field_Framework]]
 [[CrossLayer_Feedback]]
 [[Crossbar_Programming]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

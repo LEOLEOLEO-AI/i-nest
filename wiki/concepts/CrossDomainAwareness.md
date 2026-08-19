@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
 [[Order_Flexibility_Duality]]
+[[QuantumKernelMethods]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

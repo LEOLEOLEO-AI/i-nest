@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
@@ -27,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[MultiScaleTemporalProcessing]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ST_SNN]]
@@ -38,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyFragility]]
 [[WaferScaleSubstrate]]
 [[iMESO_PhysicalCarrier]]
+[[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
 [[ChipletRoutingFabric]]
+[[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

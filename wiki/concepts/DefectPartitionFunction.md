@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1024_Card_SuperNode]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]

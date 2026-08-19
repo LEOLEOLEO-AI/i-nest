@@ -12,3 +12,11 @@ SDI, iNEST, 互连, 忆阻
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Nature Electronics]]
+[[SDI_Bond]]
+[[Spiking_Neural_Network]]
+[[iNEST]]

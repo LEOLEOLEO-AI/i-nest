@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Abilities]]
 [[ErdosRenyi_Graph_Energy_Surface]]
+[[FractalPathEntropy]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

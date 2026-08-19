@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[PinAssignmentOptimization]]
 [[ReconfigurablePageArchitecture]]
 [[ReconfigurableSpikingRouting]]
+[[SDI_STDP_Rule]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[Swarm_Adaptive_Topology]]

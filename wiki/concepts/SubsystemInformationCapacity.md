@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CircadianGateModulation]]
 [[Critical_Exponent_Scaling]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

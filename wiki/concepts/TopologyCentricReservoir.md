@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[ComputationEfficientDeepLearning]]
 [[ConcentricDiscreteOpticalVortices]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

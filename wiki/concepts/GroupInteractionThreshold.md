@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

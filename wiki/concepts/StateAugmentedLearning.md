@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[PrecisionConfigurableSparseNvCIM]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[Synaptic_Plasticity]]
+[[TCC]]
 [[Temporal_Dynamics_Integration]]
 [[iNEST]]
 [[智能涌现]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[NoiseInducedPhaseLocking]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

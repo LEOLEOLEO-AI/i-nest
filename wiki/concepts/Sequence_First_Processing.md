@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DelayCodedWorkingMemory]]
+[[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

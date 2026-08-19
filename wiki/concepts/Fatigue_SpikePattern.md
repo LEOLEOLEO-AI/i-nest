@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Layered_Attractive_Hubbard_Model]]
 [[MembranePotentialModulation]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SNN]]

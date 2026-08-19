@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 
 [[AdsorptionBiosorptionHybrid]]
 [[CST_Spatiotemporal_Complexity]]
+[[ChipletWaferInterconnectScaling]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[Free_Energy_Principle_Network]]

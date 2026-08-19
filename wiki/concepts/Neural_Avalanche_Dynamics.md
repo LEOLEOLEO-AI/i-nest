@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuronal_Avalanche_Dynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

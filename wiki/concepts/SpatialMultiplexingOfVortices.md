@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AcceleratedMaterialScreening]]
+[[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CrystalPalace_Program]]

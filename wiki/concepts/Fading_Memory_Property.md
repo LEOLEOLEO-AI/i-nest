@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalEchoMemory]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

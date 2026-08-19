@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenPlasticity]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedPhaseTransition]]

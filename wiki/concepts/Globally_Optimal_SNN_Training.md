@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
+[[Contested_Priors_Mechanism]]
 [[EEGToNeuromorphicMapping]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor_Synapse]]

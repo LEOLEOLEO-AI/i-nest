@@ -16,6 +16,8 @@ SDI, STDP
 
 ## Related Concepts
 
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]

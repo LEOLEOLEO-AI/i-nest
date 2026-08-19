@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Accessibility_Plasticity]]
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
 [[EdgeIoTEnergyAwareness]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[OnlinePlasticity]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 
 ## Sources
