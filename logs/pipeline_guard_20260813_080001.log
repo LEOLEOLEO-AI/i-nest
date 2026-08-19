@@ -1,0 +1,114 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-08-13 08:00
+============================================================
+[08:00:01] [S2] Searching Semantic Scholar (19 queries)...
+[08:00:07]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[08:00:07] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[08:00:19]   arXiv skip irrelevant: MoE Proxy Models for Low-Cost Failure Reproduction and Diagn
+[08:00:19]   arXiv skip irrelevant: Asymptotic stability of the degree-one vortex in the abelian
+[08:00:19]   arXiv skip irrelevant: FaCTz: Fast Critical-Point and Topology-Aware GPU Compressio
+[08:00:54]   arXiv TCC-wafer-chiplet: The read operation timed out, retry 1...
+[08:01:02]   arXiv skip irrelevant: Revealing the Atomic Structure of NiO/Ga$_{2}$O$_{3}$ Interf
+[08:01:02]   arXiv skip irrelevant: 200 mm Wafer-Scale Monolithic 3D Integration of Atomic Layer
+[08:01:02]   跳过重复: Wafer-scale monolithic integration of Ce:YIG films... [Title: Wafer-scale monolithic integration of Ce:YIG films and magneto-optical isolators]
+[08:01:38]   arXiv TCC-reconfigurable: The read operation timed out, retry 1...
+[08:02:14]   arXiv TCC-reconfigurable: The read operation timed out, retry 2...
+[08:02:55]   arXiv TCC-reconfigurable: The read operation timed out, giving up
+[08:03:32]   arXiv TCC-higher-order: The read operation timed out, retry 1...
+[08:04:04]   arXiv TCC-higher-order: 429 rate limit, waiting 30s (exponential backoff)...
+[08:04:39]   arXiv TCC-higher-order: 429 rate limit, waiting 60s (exponential backoff)...
+[08:05:45]   arXiv TCC-sim-compile: 429 rate limit, waiting 15s (exponential backoff)...
+[08:06:01]   arXiv TCC-sim-compile: 429 rate limit, waiting 30s (exponential backoff)...
+[08:06:56]   arXiv skip irrelevant: Automated Signal Integrity Analysis Framework for High-Speed
+[08:06:56]   arXiv skip irrelevant: C2C-Explorer: An Exploration Framework for Chip-to-Chip Inte
+[08:06:56]   arXiv skip irrelevant: GLOW I: Comprehensive Measurements of Gas-Rich, Star-Forming
+[08:07:01]   arXiv: batch separator, pausing 10s...
+[08:07:43]   arXiv TCC-topology-opt: The read operation timed out, retry 1...
+[08:07:58]   arXiv skip irrelevant: Pair-Centric Graph Rewiring for Over-Squashing via Optimal T
+[08:07:58]   arXiv skip irrelevant: GENCO - A Unified Neural Solver Embedded in a Development Fr
+[08:07:58]   arXiv skip irrelevant: FedA2L: Adaptive layer-wise learning rate adjustment in dece
+[08:08:15]   arXiv skip irrelevant: Energy-Efficient Joint Optimization of VLC and Fog Computing
+[08:08:15]   arXiv skip irrelevant: Competitive mediator games and urban CAV routing markets
+[08:08:15]   arXiv skip irrelevant: Analysis and Consensus Control of Emergent Dynamic Polarizat
+[08:08:37]   arXiv skip irrelevant: SAR2Agri: Learning SAR Intensity Representations for Agricul
+[08:08:37]   arXiv skip irrelevant: WildFireGS: Physics-Based Wildfire Simulation in Large-Scale
+[08:08:37]   arXiv skip irrelevant: Every Packet Counts: Dispersing Information for Loss-Resilie
+[08:09:03]   arXiv iNEST-nonlinear: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>, retry 1...
+[08:09:13]   arXiv skip irrelevant: Dynamics of amorphous membranes in the two-dimensional limit
+[08:09:13]   跳过重复: Certified Detection of Bifurcation Candidates in U... [Title: Certified Detection of Bifurcation Candidates in Uncertain Nonlinear Systems usi]
+[08:09:13]   arXiv skip irrelevant: Comparing Point and Interval Methods for Equilibrium Computa
+[08:09:24]   arXiv skip irrelevant: Geometry-aware neural causal discovery for large-scale spati
+[08:09:24]   arXiv skip irrelevant: Quantum-Classical Physics-Informed Kolmogorov-Arnold Network
+[08:09:24]   arXiv skip irrelevant: From Passive Mirrors to Active Agents: Holonic Digital Twins
+[08:09:29]   arXiv: batch separator, pausing 10s...
+[08:10:13]   Insight [1/3]: Threshold-Based Spiking Neural Networks for Event-...
+[08:10:13]   arXiv skip irrelevant: Rethinking Attention Locality in Spiking Transformers
+[08:10:13]   跳过重复: SuperNeuroMAT: An Efficient Matrix-based Simulator... [Title: SuperNeuroMAT: An Efficient Matrix-based Simulator for Spiking Neural Networks]
+[08:10:20]   arXiv skip irrelevant: Uncertainty-Aware Deep Learning for Genomics Applications: I
+[08:10:20]   arXiv skip irrelevant: HUI360: A 360° Egocentric Dataset and Baselines for Human-Ro
+[08:10:20]   arXiv skip irrelevant: Understanding the Architecture of Coding Agents: An Explorat
+[08:10:26]   arXiv skip irrelevant: Static in Frames, Dynamic in Events: Rethinking Features in 
+[08:10:26]   arXiv skip irrelevant: Conversational Orchestration for Organic 6G
+[08:10:33]   arXiv skip irrelevant: ProtoGIB-Workload: Learning Workload-Specific Neural Topolog
+[08:10:33]   arXiv skip irrelevant: EEG-Based Characterization of Samatha and Vipassana Meditati
+[08:10:33]   arXiv skip irrelevant: A Heterogeneous Distributed Architecture for Quantum Simulat
+[08:10:39]   arXiv skip irrelevant: Theoretical analysis towards accurate optomechanical detecti
+[08:10:44]   arXiv: batch separator, pausing 10s...
+[08:10:57]   arXiv skip irrelevant: From Local Learning to Global Prediction Through Layered Sur
+[08:11:03]   跳过重复: Graph Analysis of Neuronal-Culture Connectivity De... [Title: Graph Analysis of Neuronal-Culture Connectivity Derived from a Reservoir-Computi]
+[08:11:03]   跳过重复: Reservoir Computing with Heterogeneous Magnetic Me... [Title: Reservoir Computing with Heterogeneous Magnetic Metamaterials]
+[08:11:03]   arXiv skip irrelevant: Storage, Scrambling, and Loss of Information in the Quantum 
+[08:11:11]   arXiv skip irrelevant: Ollivier's Ricci Curvature on Complex-weighted Graphs
+[08:11:19]   arXiv skip irrelevant: Machine-Learning-Based Diagnostic Framework for Passive Ultr
+[08:11:19]   arXiv skip irrelevant: LMM Modality Transfer: A Pre-requisite for Autonomous GIS Ag
+[08:11:19]   arXiv skip irrelevant: Multi-State Geometry of Density Matrices and Rectification S
+[08:11:47]   arXiv: batch separator, pausing 10s...
+[08:12:02]   arXiv skip irrelevant: Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Syst
+[08:12:02]   arXiv skip irrelevant: Ollivier's Ricci Curvature on Complex-weighted Graphs
+[08:12:02]   arXiv skip irrelevant: Many-Body Localization Induced by Correlated Disorder in Int
+[08:12:07] [arXiv] 1 new papers, 1 errors across 21 queries
+[08:12:07] [GN] Google News RSS...
+[08:14:14]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:16:21]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:18:28]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:20:35]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:20:36] [GN] 0 new articles
+
+  Total: 1 new items to inbox
+[08:20:36] [Process] LLM classify (free tier, limit=20)...
+[08:20:58] [Process] Classified: 0
+[08:20:58] [Genspark] Generating research brief...
+[08:20:59] [Genspark] Research brief written: genspark_research_brief.md
+[08:20:59] [Graph] Scanning wiki links...
+[08:22:44] [Graph] 10150 files, 93762 links
+[08:23:10] [Graph] Exported: 10150 nodes, 90537 edges
+[08:23:10] [Graph] 0 missing backlinks
+Exception in thread Thread-1 (_readerthread):
+Traceback (most recent call last):
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 1515, in _readerthread
+    buffer.append(fh.read())
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa1 in position 19: invalid start byte
+[08:23:31] [DailyGen] Daily_Action + Focus + Insights generated
+[08:23:31] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+1(arXiv)+0(GN) | Written: 1 new papers
+  Processed: 0 | Nodes: 10150 edges: 90537 | Missing links: 0 | Genspark: OK
+  Elapsed: 1410s
+============================================================
+[08:23:32] [State] research_state.json updated
+[08:23:32] [Evolution] Evidence + hypotheses updated
+[08:24:32] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[08:24:32] [Insight] Cross-domain bridges updated
+[08:24:47] [Tasks] Research recommendations updated
+[08:24:47] [Dashboard] Live dashboard published
+[08:24:48] [Homepage] Home.md auto-refreshed

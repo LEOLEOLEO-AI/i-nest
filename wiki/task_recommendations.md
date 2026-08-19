@@ -1,7 +1,7 @@
 # Research Task Recommendations
 
-**Generated**: 2026-08-11
-**Total**: 17 recommendations
+**Generated**: 2026-08-19
+**Total**: 16 recommendations
 
 ### 1. [MEDIUM] Hypothesis Test
 H3: iNEST: 脉冲神经网络在晶上系统可实现类脑计算
@@ -48,26 +48,22 @@ H3: iNEST: 脉冲神经网络在晶上系统可实现类脑计算
 **Action**: Process evolution queue item
 
 ### 12. [LOW] Orphan Concepts
-1660 orphan concepts with no incoming links
-**Action**: Link these concepts: 00_ADR_决策记录, 2025年10月11号 日记, 2026新年巨献_追问大模型智能, 3DIC_EDA之一_基于Chiplet集成的计算架构, 400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述, 9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊, AGI面临的挑战_脑机制自底向顶梳理_下部_5万字, AIInnovationPlatform, AI_Infrastructure_Commercialization, AI_Material_Design_Production_Gap
+1741 orphan concepts with no incoming links
+**Action**: Link these concepts: 00_ADR_决策记录, 1M1T1R_SynapticNeuron, 2025年10月11号 日记, 2026新年巨献_追问大模型智能, 3DIC_EDA之一_基于Chiplet集成的计算架构, 400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述, 9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊, AGI面临的挑战_脑机制自底向顶梳理_下部_5万字, AIInnovationPlatform, AI_Infrastructure_Commercialization
 
 ### 13. [LOW] Recent Output
-Recent: outline_108 (0d ago)
+Recent: CST V4.3理论证明（V4.3完整版） (6d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 14. [LOW] Recent Output
-Recent: 知识库高效使用方案 (4d ago)
+Recent: 重构计算的物理基础：以协同时空复杂度理论牵引集成电路新生态构建 (6d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 15. [LOW] Recent Output
-Recent: 拓扑中心计算范式架构关键技术研究 (5d ago)
+Recent: 拓扑中心计算——面向通信受限智能计算的第三类体系结构范式 (6d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 16. [LOW] Recent Output
-Recent: Topology论文对工程的指导 (5d ago)
-**Action**: Review and incorporate insights into wiki
-
-### 17. [LOW] Recent Output
-Recent: Topology Paging  Cycle-Granularity Meta-Topology Reconfigura (5d ago)
+Recent: 00_教材编写规划_两本配套 (6d ago)
 **Action**: Review and incorporate insights into wiki
 

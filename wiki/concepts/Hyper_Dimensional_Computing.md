@@ -45,3 +45,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Hyper_Dimensional_Computing (merged 2026-08-19)

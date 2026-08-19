@@ -1,35 +1,35 @@
 # Knowledge Health Report
 
-**Generated**: 2026-08-11
-**Last Compile**: 2026-08-10
+**Generated**: 2026-08-19
+**Last Compile**: 2026-08-11
 
 ## Stats
-- **Total Concepts**: 3382
-- **Total Articles**: 811
-- **Orphan Concepts**: 1707
+- **Total Concepts**: 3473
+- **Total Articles**: 900
+- **Orphan Concepts**: 1737
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
-- [[TechGap_InformationWarfare]]
-- [[Clinical_Knowledge_Embedding]]
-- [[Reciprocity_Relevance_Criterion]]
-- [[SelfSustainedCollectiveState]]
-- [[CrossSpeciesRSA]]
-- [[Predictive_Treatment_Simulation]]
-- [[Microscale_To_Macroscale_Bridging]]
-- [[IterativePruningSchedule]]
-- [[OneDimensionalSpinGlass]]
-- [[NeuralFidelityMetric]]
-- [[UnifiedNeuralRepresentation]]
-- [[Spiking_Decoder_Tracking]]
-- [[SpatiotemporalDeepLearning]]
-- [[XOR_Meta_Residual]]
-- [[OscillatoryDynamicsOptimization]]
-- [[Technology_Innovation_Carrier]]
-- [[持续学习]]
-- [[DARPA_Sensor_EW_Integration]]
-- [[iNEST工程技术路线宣言：从算力到智力的范式跨越]]
-- [[NoiseModulated_Backprop]]
+- [[ExactRateNetworkBifurcation]]
+- [[MemristiveIntegration]]
+- [[Spiking_Transformer_Architecture]]
+- [[TopologicalHealthBiomarker]]
+- [[PhotonicPackagingEfficiency]]
+- [[Unmanned_Intelligent_Combat_Forces]]
+- [[EnergyDerivedArchitecture]]
+- [[OpenSourceSustainability]]
+- [[NeurotransmitterCoRelease]]
+- [[TopologicalFeedbackLoop]]
+- [[TensorNetworkReservoir]]
+- [[Physical_Intelligence_Verification]]
+- [[QuantumCriticalAmorphousCarbon]]
+- [[Hippocampal_Spatiotemporal_Prior]]
+- [[DynamicsMatching]]
+- [[EfficientRepresentationalBudget]]
+- [[NontrivialBandTopology]]
+- [[SpatioTemporalTokenization]]
+- [[HigherOrderAvalanche]]
+- [[FlexibleNeuromorphicSubstrate]]
 
 ## Research Gaps
 

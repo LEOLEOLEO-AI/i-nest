@@ -2,7 +2,7 @@
 provenance: derived
 type: concept-stub
 auto: true
-created: 2026-08-11
+created: 2026-08-19
 refs: 6
 ---
 

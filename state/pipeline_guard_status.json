@@ -1,11 +1,11 @@
 {
   "schema": "pipeline-guard-v1",
   "status": "completed",
-  "started": null,
-  "finished": "2026-08-11T08:11:36+08:00",
+  "started": "2026-08-16T08:00:01+08:00",
+  "finished": "2026-08-16T08:21:15+08:00",
   "timeout_minutes": 35,
-  "detail": "guard fixed 2026-08-11: stale cleared marker removed; idle until next scheduled run",
-  "log": null,
+  "detail": "Pipeline completed within the time limit.",
+  "log": "logs/pipeline_guard_20260816_080001.log",
   "exit_code": 0,
   "requires_confirmation": false
 }

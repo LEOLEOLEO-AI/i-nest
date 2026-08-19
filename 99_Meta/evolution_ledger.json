@@ -423,7 +423,23 @@
       "file": "00_Inbox\\_pipeline_insights\\2026-08-08_arXiv_A Tale of Two Compact Bosons.md",
       "discovered": "2026-08-08",
       "status": "pending_review"
+    },
+    {
+      "title": "The Neural Division of Labor: Biologically-Inspired Modular Architectures for Robust Neuromorphic Computing",
+      "url": "http://arxiv.org/abs/2608.08317v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-12_arXiv_The Neural Division of Labor Biologically-Inspired Modular A.md",
+      "discovered": "2026-08-12",
+      "status": "pending_review"
+    },
+    {
+      "title": "Certified Detection of Bifurcation Candidates in Uncertain Nonlinear Systems using Interval Analysis",
+      "url": "http://arxiv.org/abs/2608.07119v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-12_arXiv_Certified Detection of Bifurcation Candidates in Uncertain N.md",
+      "discovered": "2026-08-12",
+      "status": "pending_review"
     }
   ],
-  "last_updated": "2026-08-08T08:14:24.434113"
+  "last_updated": "2026-08-12T08:27:54.989745"
 }

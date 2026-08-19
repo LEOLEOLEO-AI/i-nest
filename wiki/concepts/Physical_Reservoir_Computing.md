@@ -46,4 +46,4 @@ Auto-extracted concept from raw material compilation.
 - *(Explore connections to other concepts)*
 
 ## Merged From
-- PhysicalReservoirComputing (merged 2026-08-04)
+- Physical_Reservoir_Computing (merged 2026-08-04)

@@ -1,0 +1,107 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-08-12 08:00
+============================================================
+[08:00:01] [S2] Searching Semantic Scholar (19 queries)...
+[08:00:02]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[08:00:02] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[08:00:16]   arXiv skip irrelevant: GENCO - A Unified Neural Solver Embedded in a Development Fr
+[08:00:16]   arXiv skip irrelevant: AirFlow: Context Preserving and Multi-Rate State Modeling fo
+[08:00:16]   arXiv skip irrelevant: A Heterogeneous Distributed Architecture for Quantum Simulat
+[08:00:29]   arXiv skip irrelevant: 200 mm Wafer-Scale Monolithic 3D Integration of Atomic Layer
+[08:00:51]   Insight [1/3]: Wafer-scale monolithic integration of Ce:YIG films...
+[08:00:51]   Insight [1/3]: ReVolt: Power Delivery Network-Aware Voltage Droop...
+[08:01:25]   arXiv TCC-reconfigurable: 429 rate limit, waiting 15s (exponential backoff)...
+[08:01:51]   arXiv TCC-reconfigurable: 429 rate limit, waiting 30s (exponential backoff)...
+[08:02:50]   arXiv TCC-reconfigurable: 429 rate limit, waiting 60s (exponential backoff)...
+[08:04:12]   arXiv skip irrelevant: Preferential Attachment as a Simpliciality-Enforcing Mechani
+[08:04:12]   arXiv skip irrelevant: Prospects for early heavy-quark measurements at the EIC
+[08:04:12]   arXiv skip irrelevant: From Objectives to What Models Learn: A Landau Theory of Inv
+[08:04:35]   arXiv skip irrelevant: Automated Signal Integrity Analysis Framework for High-Speed
+[08:04:35]   arXiv skip irrelevant: C2C-Explorer: An Exploration Framework for Chip-to-Chip Inte
+[08:04:35]   arXiv skip irrelevant: GLOW I: Comprehensive Measurements of Gas-Rich, Star-Forming
+[08:04:40]   arXiv: batch separator, pausing 10s...
+[08:05:36]   arXiv TCC-topology-opt: The read operation timed out, retry 1...
+[08:06:12]   arXiv TCC-topology-opt: The read operation timed out, retry 2...
+[08:06:28]   arXiv TCC-topology-opt: 429 rate limit, waiting 60s (exponential backoff)...
+[08:08:05]   arXiv TCC-qos: The read operation timed out, retry 1...
+[08:08:41]   arXiv TCC-qos: The read operation timed out, retry 2...
+[08:09:13]   arXiv TCC-qos: 429 rate limit, waiting 60s (exponential backoff)...
+[08:10:36]   arXiv skip irrelevant: The quadratic growth of Krylov spread complexity in the BTZ 
+[08:10:36]   arXiv skip irrelevant: Entanglement-Free Trajectory Planning for Tethered Mobile Ro
+[08:10:36]   arXiv skip irrelevant: Generative AI for Encrypted Traffic Analysis: Synthetic Data
+[08:11:34]   Insight [2/3]: Certified Detection of Bifurcation Candidates in U...
+[08:11:34]   arXiv skip irrelevant: Comparing Point and Interval Methods for Equilibrium Computa
+[08:11:34]   arXiv skip irrelevant: CEDAR: Agent-Orchestrated Tree Search for Goal-Directed Opti
+[08:11:56]   arXiv skip irrelevant: Quantum-Classical Physics-Informed Kolmogorov-Arnold Network
+[08:11:56]   arXiv skip irrelevant: From Passive Mirrors to Active Agents: Holonic Digital Twins
+[08:12:01]   arXiv: batch separator, pausing 10s...
+[08:12:34]   arXiv skip irrelevant: Rethinking Attention Locality in Spiking Transformers
+[08:12:34]   Insight [1/3]: SuperNeuroMAT: An Efficient Matrix-based Simulator...
+[08:12:34]   Insight [2/3]: The Neural Division of Labor: Biologically-Inspire...
+[08:12:48]   arXiv skip irrelevant: SHE: Trajectory-driven Safety Harness Evolution for LLM Agen
+[08:12:48]   arXiv skip irrelevant: Macaron-V1: Towards Open Continual Learning with Self-Improv
+[08:12:48]   Insight [1/3]: Graph Analysis of Neuronal-Culture Connectivity De...
+[08:13:07]   arXiv skip irrelevant: The Role of Extended-Source Geometry and Diurnal Cycles on E
+[08:13:07]   arXiv skip irrelevant: EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from 
+[08:13:07]   Insight [1/3]: PTQ4SNN: Membrane-Aware Post-Training Quantization...
+[08:13:23]   arXiv skip irrelevant: EEG-Based Characterization of Samatha and Vipassana Meditati
+[08:13:23]   arXiv skip irrelevant: A Heterogeneous Distributed Architecture for Quantum Simulat
+[08:13:23]   arXiv skip irrelevant: Do AI Forecast Ensembles Sample the Correct Conditional Dist
+[08:13:38]   arXiv skip irrelevant: Towards Trustworthy Hypergraph Neural Networks under Label N
+[08:13:43]   arXiv: batch separator, pausing 10s...
+[08:13:55]   arXiv skip irrelevant: From Local Learning to Global Prediction Through Layered Sur
+[08:14:39]   Insight [1/3]: Reservoir Computing with Heterogeneous Magnetic Me...
+[08:14:39]   arXiv skip irrelevant: Storage, Scrambling, and Loss of Information in the Quantum 
+[08:15:00]   arXiv skip irrelevant: Machine-Learning-Based Diagnostic Framework for Passive Ultr
+[08:15:00]   arXiv skip irrelevant: LMM Modality Transfer: A Pre-requisite for Autonomous GIS Ag
+[08:15:00]   arXiv skip irrelevant: Multi-State Geometry of Density Matrices and Rectification S
+[08:15:13]   arXiv: batch separator, pausing 10s...
+[08:15:41]   arXiv skip irrelevant: Many-Body Localization Induced by Correlated Disorder in Int
+[08:15:41]   arXiv skip irrelevant: EvoRIC: Reinforcement Learning Fine-Tuned LLM-empowered RAN 
+[08:15:41]   arXiv skip irrelevant: A Session Interaction Framework for The Multiple-Unicast Con
+[08:15:46] [arXiv] 8 new papers, 0 errors across 21 queries
+[08:15:46] [GN] Google News RSS...
+[08:17:52]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:20:00]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:22:07]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:24:14]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[08:24:15] [GN] 0 new articles
+
+  Total: 8 new items to inbox
+[08:24:15] [Process] LLM classify (free tier, limit=20)...
+[08:24:36] [Process] Classified: 0
+[08:24:36] [Genspark] Generating research brief...
+[08:24:37] [Genspark] Research brief written: genspark_research_brief.md
+[08:24:37] [Graph] Scanning wiki links...
+[08:26:58] [Graph] 10145 files, 93874 links
+[08:27:29] [Graph] Exported: 10145 nodes, 90697 edges
+[08:27:29] [Graph] 0 missing backlinks
+Exception in thread Thread-1 (_readerthread):
+Traceback (most recent call last):
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 1515, in _readerthread
+    buffer.append(fh.read())
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa1 in position 19: invalid start byte
+[08:27:54] [DailyGen] Daily_Action + Focus + Insights generated
+[08:27:54] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+8(arXiv)+0(GN) | Written: 8 new papers
+  Processed: 0 | Nodes: 10145 edges: 90697 | Missing links: 0 | Genspark: OK
+  Elapsed: 1672s
+============================================================
+[08:27:54] [State] research_state.json updated
+[08:27:55] [Evolution] Evidence + hypotheses updated
+[08:28:55] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[08:28:55] [Insight] Cross-domain bridges updated
+[08:29:11] [Tasks] Research recommendations updated
+[08:29:11] [Dashboard] Live dashboard published
+[08:29:12] [Homepage] Home.md auto-refreshed

@@ -1,143 +1,35 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-CN">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>TCC × iNEST 自进化研发中枢 · 看板</title>
-<style>
-  :root { --bg:#f6f7f9; --card:#fff; --ink:#1f2328; --muted:#6b7280; --line:#e5e7eb;
-          --accent:#3b6ef0; --ok:#16a34a; --warn:#d97706; --bad:#dc2626; }
-  @media (prefers-color-scheme: dark) {
-    :root { --bg:#0f1115; --card:#171a21; --ink:#e6e8ec; --muted:#9aa3af; --line:#262b33;
-            --accent:#5b8bff; --ok:#4ade80; --warn:#fbbf24; --bad:#f87171; }
-  }
-  * { box-sizing:border-box; }
-  body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif;
-         background:var(--bg); color:var(--ink); line-height:1.5; }
-  header { padding:18px 22px; border-bottom:1px solid var(--line); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px; }
-  header h1 { font-size:18px; margin:0; }
-  .meta { color:var(--muted); font-size:13px; }
-  main { max-width:1080px; margin:0 auto; padding:18px 22px 48px; }
-  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:12px; margin:14px 0; }
-  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px 16px; }
-  .card .k { color:var(--muted); font-size:12px; }
-  .card .v { font-size:22px; font-weight:700; margin-top:4px; }
-  section { margin:26px 0; }
-  h2 { font-size:16px; border-left:4px solid var(--accent); padding-left:10px; margin:0 0 12px; }
-  table { width:100%; border-collapse:collapse; font-size:13px; }
-  th,td { text-align:left; padding:7px 10px; border-bottom:1px solid var(--line); }
-  th { color:var(--muted); font-weight:600; }
-  .pill { display:inline-block; padding:1px 8px; border-radius:999px; font-size:12px; }
-  .HIGH { background:rgba(220,38,38,.15); color:var(--bad); }
-  .MEDIUM { background:rgba(217,119,6,.15); color:var(--warn); }
-  .LOW { background:rgba(59,110,240,.15); color:var(--accent); }
-  .ok { color:var(--ok); } .bad { color:var(--bad); }
-  .note { color:var(--muted); font-size:12px; margin-top:8px; }
-  svg text { fill:var(--muted); font-size:10px; }
-  .empty { color:var(--muted); font-style:italic; }
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TCC · iNEST Research Control Center</title>
+  <style>
+    :root{--bg:#f4f6f8;--card:#fff;--ink:#17212b;--muted:#607080;--line:#dce3ea;--blue:#1769aa;--amber:#925d09}
+    @media(prefers-color-scheme:dark){:root{--bg:#11171d;--card:#19232d;--ink:#e9eef3;--muted:#a7b4bf;--line:#2c3a45;--blue:#69b7ff;--amber:#f2b84b}}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.55 "Microsoft YaHei",system-ui,sans-serif}header{background:var(--card);border-bottom:1px solid var(--line);padding:18px max(20px,calc((100vw - 1180px)/2));display:flex;justify-content:space-between;gap:16px}h1{margin:0;font-size:22px}h1 span,a{color:var(--blue)}.meta,.label{color:var(--muted);font-size:12px}main{max-width:1180px;margin:0 auto;padding:24px 20px 52px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px}.card,.panel,.track{background:var(--card);border:1px solid var(--line);border-radius:7px}.card{padding:15px;min-height:96px}.value{margin-top:7px;font-size:25px;font-weight:700}.panel{margin-top:18px;padding:18px}h2{font-size:16px;margin:0 0 12px;padding-left:9px;border-left:4px solid var(--blue)}table{width:100%;border-collapse:collapse}th,td{padding:9px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{color:var(--muted);font-size:12px}.tag{display:inline-block;padding:1px 7px;border-radius:4px;font-size:12px;background:#e7effb;color:#145286}.pending{background:#fff1d6;color:var(--amber)}.tracks{display:grid;grid-template-columns:1fr 1fr;gap:14px}.track{padding:14px}.track h3{margin:0 0 7px;font-size:15px}ul{margin:7px 0 0;padding-left:18px}.notice{border-left:3px solid var(--amber);padding:9px 12px;background:#fff7e6}.empty{color:var(--muted);padding:10px 0}@media(max-width:720px){header{display:block}.meta{margin-top:5px}.tracks{grid-template-columns:1fr}th:nth-child(3),td:nth-child(3){display:none}}
+  </style>
 </head>
 <body>
-<header>
-  <h1>🔬 TCC × iNEST 自进化研发中枢</h1>
-  <div class="meta" id="meta"></div>
-</header>
-<main id="app"><p class="empty">加载中…</p></main>
-
-<script src="data.js"></script>
-<script>
-const D = window.VAULT_DATA || {};
-const $ = (id) => document.getElementById(id);
-function esc(s){ return String(s==null?"":s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
-
-function render(){
-  if(!D || !D.snapshot){ $('app').innerHTML='<p class="empty">暂无数据，请先运行 self_evolve / homepage_generator。</p>'; return; }
-  const s = D.snapshot, w = D.wiki||{}, h = D.health||{};
-  $('meta').textContent = '更新：' + (D.updated||'?') + '  ·  管线：' + (D.pipeline_status||'unknown');
-
-  // 概览卡片
-  const cards = [
-    ['知识库总文件', s.total_md], ['TCC 资料', s.tcc], ['iNEST 资料', s.inest],
-    ['待处理论文', s.inbox], ['处理中', s.processing], ['成果区', s.output],
-    ['Wiki 概念', w.total||0], ['编译文章', D.articles||0],
-    ['Git 未提交', s.git_uncommitted],
-    ['自有研究', (D.classification&&D.classification.own)||0], ['外部文献', (D.classification&&D.classification.external)||0],
-  ];
-  let html = '<div class="grid">';
-  for(const [k,v] of cards) html += `<div class="card"><div class="k">${k}</div><div class="v">${v==null?'-':v}</div></div>`;
-  html += '</div>';
-
-  // 知识演化追踪（趋势）
-  html += '<section><h2>📈 知识演化追踪（近 10 次自进化）</h2>';
-  const trend = D.trend||[];
-  if(trend.length){
-    const dates = trend.map(t=>t.date), broken = trend.map(t=>t.broken), orphan=trend.map(t=>t.orphan), fm=trend.map(t=>t.missing_fm);
-    html += trendTable(dates, broken, orphan, fm);
-    html += trendChart(broken, '断链趋势', 'var(--bad)');
-  } else { html += '<p class="empty">暂无历史记录。</p>'; }
-  html += '</section>';
-
-  // 任务推荐
-  html += '<section><h2>🎯 自动任务推荐（Top '+(D.tasks?D.tasks.length:0)+'）</h2>';
-  if(D.tasks && D.tasks.length){
-    html += '<table><tr><th>优先级</th><th>建议</th></tr>';
-    for(const [p,t] of D.tasks) html += `<tr><td><span class="pill ${p}">${p}</span></td><td>${esc(t)}</td></tr>`;
-    html += '</table>';
-  } else html += '<p class="empty">暂无推荐。</p>';
-  html += '</section>';
-
-  // 健康检查
-  const broken = h['真正断链(目标不存在)'], orphan = h['孤儿笔记(无入链)'], miss = h['缺 frontmatter 笔记'];
-  html += '<section><h2>🩺 健康检查（wiki/health.md）</h2>';
-  html += `<div class="grid">
-    <div class="card"><div class="k">真正断链</div><div class="v ${broken? 'bad':'ok'}">${broken==null?'-':broken}</div></div>
-    <div class="card"><div class="k">孤儿笔记</div><div class="v">${orphan==null?'-':orphan}</div></div>
-    <div class="card"><div class="k">缺 frontmatter</div><div class="v ${miss? 'bad':'ok'}">${miss==null?'-':miss}</div></div>
-  </div><p class="note">缺口由每日自进化持续消解；扩大清理需人工确认。</p></section>';
-
-  // 跨域桥梁
-  html += '<section><h2>🌉 跨域桥梁</h2>';
-  if(D.bridges && D.bridges.length){
-    html += '<table><tr><th>#</th><th>桥梁</th><th>强度</th><th>核心洞察</th></tr>';
-    D.bridges.forEach((b,i)=> html += `<tr><td>${i+1}</td><td><b>${esc(b.name.replace(/_/g,' × '))}</b></td><td>${esc(b.strength)}</td><td>${esc((b.insight||'').slice(0,80))}</td></tr>`);
-    html += '</table>';
-  } else html += '<p class="empty">暂无桥梁。</p>';
-  html += '</section>';
-
-  // 假设注册表
-  html += '<section><h2>🧪 假设注册表</h2>';
-  if(D.hypotheses && D.hypotheses.length){
-    const emo={'proven':'✅','under_investigation':'🔬','proposed':'📋','pending':'⏳'};
-    html += '<table><tr><th>ID</th><th>假设</th><th>状态</th></tr>';
-    for(const x of D.hypotheses) html += `<tr><td>${esc(x.id)}</td><td>${esc(x.title).slice(0,60)}</td><td>${emo[x.status]||''} ${esc(x.status)}</td></tr>`;
-    html += '</table>';
-  } else html += '<p class="empty">暂无假设。</p>';
-  html += '</section>';
-
-  $('app').innerHTML = html;
-}
-
-function trendTable(dates, broken, orphan, fm){
-  let t = '<table><tr><th>日期</th><th>断链</th><th>孤儿</th><th>缺FM</th></tr>';
-  for(let i=0;i<dates.length;i++) t += `<tr><td>${esc(dates[i])}</td><td>${broken[i]??'-'}</td><td>${orphan[i]??'-'}</td><td>${fm[i]??'-'}</td></tr>`;
-  return t + '</table>';
-}
-
-function trendChart(vals, label, color){
-  const W=600,H=160,pad=24;
-  const data = vals.filter(v=>typeof v==='number');
-  if(!data.length) return '';
-  const max = Math.max(...data, 1), min = Math.min(...data, 0);
-  const n = data.length;
-  const x = i => pad + i*(W-2*pad)/(Math.max(n-1,1));
-  const y = v => H-pad - (v-min)/(max-min||1)*(H-2*pad);
-  const pts = data.map((v,i)=>`${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(' ');
-  let grid='';
-  for(let g=0;g<=3;g++){ const gy=pad+g*(H-2*pad)/3; const gv=Math.round(max-(g/3)*(max-min)); grid+=`<line x1="${pad}" y1="${gy}" x2="${W-pad}" y2="${gy}" stroke="var(--line)"/><text x="2" y="${gy-2}">${gv}</text>`; }
-  return `<svg viewBox="0 0 ${W} ${H}" width="100%" style="margin-top:10px"><text x="${pad}" y="12">${esc(label)}</text>${grid}<polyline points="${pts}" fill="none" stroke="${color}" stroke-width="2"/>${data.map((v,i)=>`<circle cx="${x(i).toFixed(1)}" cy="${y(v).toFixed(1)}" r="3" fill="${color}"/>`).join('')}</svg>`;
-}
-
-render();
-</script>
+  <header><div><h1><span>TCC</span> · <span>iNEST</span> Research Control Center</h1><div class="label">Evidence-driven knowledge compilation, task approval, and research execution</div></div><div class="meta" id="meta">Loading</div></header>
+  <main id="app"></main>
+  <script src="data.js"></script>
+  <script>
+    var D=window.RESEARCH_DASHBOARD||{};
+    function e(v){return String(v==null?'':v).replace(/[&<>]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;'}[c]})}
+    function open(path,label){return '<a target="_blank" href="http://127.0.0.1:8899/vault/'+encodeURI(path)+'">'+e(label)+'</a>'}
+    function card(k,v){return '<div class="card"><div class="label">'+e(k)+'</div><div class="value">'+e(v)+'</div></div>'}
+    function render(){
+      var s=D.state||{},r=D.knowledge_review||{pending:0,items:[]},tasks=(D.plan||[]).slice(0,8),p=D.progress&&D.progress[0]||{};
+      document.getElementById('meta').textContent='Updated: '+(D.generated_at||'-')+' | Preview: '+(s.services&&s.services.preview_server_8899?'ready':'check')+' | Pending tasks: '+(D.task_review&&D.task_review.pending_review||0);
+      var h='<div class="grid">'+card('Knowledge notes',s.total_notes||'-')+card('TCC',s.tcc_notes||'-')+card('iNEST',s.inest_notes||'-')+card('Processing',s.processing||'-')+card('Outputs',s.outputs||'-')+card('Evidence review',r.pending||0)+'</div>';
+      h+='<section class="panel"><h2>Research Tracks</h2><div class="tracks"><div class="track"><h3>TCC · Topological Center Computing</h3><ul><li>Theory: R / T / C primitives and verifiable baseline</li><li>Technology: SDI, Chiplet, OneFabric, wafer-scale interconnect</li><li>Engineering: RTL, CST, FPGA, simulation</li></ul></div><div class="track"><h3>iNEST · Emergent Intelligence</h3><ul><li>Theory: complex networks, criticality, emergence</li><li>Technology: SNN, devices, learning rules</li><li>Engineering: models, simulation, HW/SW co-design</li></ul></div></div></section>';
+      h+='<section class="panel"><h2>External Evidence Awaiting Review</h2><div class="notice">External papers and clippings are candidate evidence only. They do not count as team papers, patents, engineering IP, or project outcomes until you confirm them.</div>';
+      if(r.items&&r.items.length){h+='<table><tr><th>Candidate insight</th><th>Track</th><th>Evidence</th><th>Next action</th></tr>';r.items.forEach(function(x){h+='<tr><td>'+open(x.file,x.title)+'</td><td><span class="tag pending">'+e(x.track)+'</span></td><td>'+e(x.evidence_status)+'</td><td>'+e(x.action)+'</td></tr>'});h+='</table>'}else{h+='<p class="empty">No high-value evidence awaiting review.</p>'}h+='<p class="label">'+open(r.review_note||'60_MOC/12_Knowledge_Review_'+D.date+'.md','Open daily knowledge review')+'</p></section>';
+      h+='<section class="panel"><h2>Active Work</h2>';if(tasks.length){h+='<table><tr><th>Track</th><th>Task</th><th>Status</th><th>Source</th></tr>';tasks.forEach(function(t){h+='<tr><td><span class="tag">'+e(t.track)+'</span></td><td>'+e(t.text)+'</td><td>'+e(t.status)+'</td><td>'+e(t.source)+'</td></tr>'});h+='</table>'}else{h+='<p class="empty">No active tasks.</p>'}h+='</section>';
+      h+='<section class="panel"><h2>Pipeline</h2><p>Today: '+e(p.papers||0)+' papers; graph: '+e(p.nodes||0)+' nodes / '+e(p.edges||0)+' edges.</p><p class="label">Every metric requires [measured], [simulated], [cited], [derived], or [to-test] evidence status. Unconfirmed candidates never enter formal plans.</p></section>';
+      document.getElementById('app').innerHTML=h;
+    }render();
+  </script>
 </body>
 </html>

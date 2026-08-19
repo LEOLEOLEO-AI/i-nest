@@ -211,6 +211,175 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-07-25_arXiv_Cross-Domain Generalization in Optical Networks via Joint Co.md"
       },
       "cached_at": "2026-07-25T08:13:37"
+    },
+    "3ff0578a00f043f561880ff0d5c59ad35cdff7da5119f0182fdec5fc17d067fe": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "The Neural Division of Labor: Biologically-Inspired Modular Architectures for Ro",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-12_arXiv_The Neural Division of Labor Biologically-Inspired Modular A.md"
+      },
+      "cached_at": "2026-08-12T08:27:53"
+    },
+    "e8eee0a1bbb1c483f0f49b6ebd9effdb3512ee62b6600ab15ca6f9518ada247f": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "SuperNeuroMAT: An Efficient Matrix-based Simulator for Spiking Neural Networks",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-12_arXiv_SuperNeuroMAT An Efficient Matrix-based Simulator for Spikin.md"
+      },
+      "cached_at": "2026-08-12T08:27:53"
+    },
+    "45afc7404361fd418ed6bb5f6d36d468f97128fd0aa8daf7f2386bce6d77286d": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Wafer-scale monolithic integration of Ce:YIG films and magneto-optical isolators",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-12_arXiv_Wafer-scale monolithic integration of CeYIG films and magnet.md"
+      },
+      "cached_at": "2026-08-12T08:27:53"
+    },
+    "86f04a254b74a0eecacf94d87ccb81df98248dbdf0dd23b079f92271f6b939dd": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "Reservoir Computing with Heterogeneous Magnetic Metamaterials",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-12_arXiv_Reservoir Computing with Heterogeneous Magnetic Metamaterial.md"
+      },
+      "cached_at": "2026-08-12T08:27:53"
+    },
+    "910efff3f04c4777147c876d684560728420f322f1c8ea6dbcfc4d76cc2e25a3": {
+      "analysis": {
+        "id": 5,
+        "title_zh": "PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-12_arXiv_PTQ4SNN Membrane-Aware Post-Training Quantization for Spikin.md"
+      },
+      "cached_at": "2026-08-12T08:27:53"
+    },
+    "10f2f3384be520a2ad782aff8cf7f04ea6cb49971a13ce83b699e4173680b445": {
+      "analysis": {
+        "id": 6,
+        "title_zh": "Graph Analysis of Neuronal-Culture Connectivity Derived from a Reservoir-Computi",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-12_arXiv_Graph Analysis of Neuronal-Culture Connectivity Derived from.md"
+      },
+      "cached_at": "2026-08-12T08:27:53"
+    },
+    "35277eb797a1aab8832c3f7b74c37f60015f49127ec2870e5db80f4e38f53187": {
+      "analysis": {
+        "id": 7,
+        "title_zh": "Certified Detection of Bifurcation Candidates in Uncertain Nonlinear Systems usi",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-12_arXiv_Certified Detection of Bifurcation Candidates in Uncertain N.md"
+      },
+      "cached_at": "2026-08-12T08:27:53"
+    },
+    "4744b6ebf80e59cbb4805f0866c58d80ee90e64a3c407a351f710b44238c7cc4": {
+      "analysis": {
+        "id": 8,
+        "title_zh": "ReVolt: Power Delivery Network-Aware Voltage Droop Control for 2.5D PIM Chiplet ",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-12_arXiv_ReVolt Power Delivery Network-Aware Voltage Droop Control fo.md"
+      },
+      "cached_at": "2026-08-12T08:27:53"
+    },
+    "dfb55a06328307b8b888b9e6b24b76ab036598bc4223b316d51e7f0b345add6a": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Threshold-Based Spiking Neural Networks for Event-Driven Status Update Systems",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-13_arXiv_Threshold-Based Spiking Neural Networks for Event-Driven Sta.md"
+      },
+      "cached_at": "2026-08-13T08:23:31"
+    },
+    "4b42e43e4faead17d6d81e1bafa6b04019c8a1ced8092e03759368020bee4c9b": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Probing Impurity Quantum Criticality with Entanglement Witnesses",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-14_arXiv_Probing Impurity Quantum Criticality with Entanglement Witne.md"
+      },
+      "cached_at": "2026-08-14T09:00:54"
+    },
+    "a2a87863a0b5d02aa47e9e6a5da83d9945851ff94ea2fd01d4a42803b99a48e8": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN ",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-15_arXiv_Lonic Algorithm-Hardware Co-Design for Energy-Efficient Full.md"
+      },
+      "cached_at": "2026-08-15T08:22:23"
+    },
+    "a6c33a588236e2818cd53987046aba0f6d888e77760b0222352aaf0e9a788a8d": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Dimension Reduction of Higher-Order Dynamical Networks",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-15_arXiv_Dimension Reduction of Higher-Order Dynamical Networks.md"
+      },
+      "cached_at": "2026-08-15T08:22:23"
+    },
+    "354aceef41c52fca11151ce0f2181ce129c20c5d6422c7f6f49d8fcafd82a494": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Phase Space Reorganization and Travelling Wave Emergence Driven by Non-Kerr Effe",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-15_arXiv_Phase Space Reorganization and Travelling Wave Emergence Dri.md"
+      },
+      "cached_at": "2026-08-15T08:22:23"
     }
   }
 }
