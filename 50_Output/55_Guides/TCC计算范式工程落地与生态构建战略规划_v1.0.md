@@ -786,7 +786,7 @@ TCC不是"另一种互连方案"，而是**对这一历史趋势的第一性原�
 - [TCC 计算范式 — 全景导航 (Map of Content)](http://127.0.0.1:8899/vault/TCC%20计算范式%20—%20全景导航%20(Map%20of%20Content).md)
 - [TCC Core Concepts](http://127.0.0.1:8899/vault/03_Topics/TCC-SDI/TCC_Core_Concepts.md)
 - [TCC 原语库 v1.0 最终版规范](http://127.0.0.1:8899/vault/03_Topics/TCC-SDI/TCC%20原语库%20v1.0%20最终版规范.md)
-- [SDI-CC 论文框架：拓扑即计算新范式](http://127.0.0.1:8899/vault/30_Outputs/论文/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式.md)
+- [SDI-CC 论文框架：拓扑即计算新范式](http://127.0.0.1:8899/vault/50_Output/51_Papers/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式.md)
 - [B0: 从冯诺依曼到网络中心](http://127.0.0.1:8899/vault/TCC_2_论文撰写/B0_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述.md)
 - [TCC 软件定义互连：架构、机制与实现](http://127.0.0.1:8899/vault/TCC_2_论文撰写/TCC_Software_Defined_Interconnect_拓扑中心计算范式.md)
 - [TCC能效提升计算](http://127.0.0.1:8899/vault/03_Topics/TCC-SDI/TCC能效提升计算.md)

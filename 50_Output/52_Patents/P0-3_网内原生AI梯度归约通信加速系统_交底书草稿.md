@@ -172,8 +172,8 @@ provenance: external
 
 ## 关联条目
 
-- 30_Outputs/专利/00_专利布局总览
-- 30_Outputs/专利/00_专利优先级推进面板
+- 50_Output/52_Patents/00_专利布局总览
+- 50_Output/52_Patents/00_专利优先级推进面板
 - 20_Projects/Projects/海河实验室重大专项/海河实验室_项目申报书_晶上拓扑中心计算_完整版
 - 20_Projects/ADR/ADR - 以 TCC + SDI-CC 作为 2026-2027 近期工程主线
 - 20_Projects/00_项目-论文-专利-技术四线映射表

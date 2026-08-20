@@ -32,9 +32,9 @@ tags:
 这条主线已经同时具备：
 
 - 项目载体：20_Projects/Projects/海河实验室重大专项/海河实验室_项目申报书_晶上网络中心计算_完整版
-- 理论文稿：30_Outputs/论文/B组_SDI-CC互连体系/P-Theory_v2_MetaTopology_SDI_Bond_Draft
-- 映射文稿：30_Outputs/论文/B组_SDI-CC互连体系/[V2] 论文框架_P-Mapping_5plus4完备物理拓扑映射
-- 范式叙事：30_Outputs/论文/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式
+- 理论文稿：50_Output/51_Papers/B组_SDI-CC互连体系/P-Theory_v2_MetaTopology_SDI_Bond_Draft
+- 映射文稿：50_Output/51_Papers/B组_SDI-CC互连体系/[V2] 论文框架_P-Mapping_5plus4完备物理拓扑映射
+- 范式叙事：50_Output/51_Papers/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式
 
 ## 决策
 
@@ -90,16 +90,16 @@ tags:
 落地影响：
 
 - 20_Projects/00_项目推进面板 的 `P0` 工作优先围绕海河主线展开
-- 30_Outputs/论文/00_论文优先级推进面板 中 `B1/B2/B3` 进入近期重点
+- 50_Output/51_Papers/00_论文优先级推进面板 中 `B1/B2/B3` 进入近期重点
 - 90_System/00_技术开发推进面板 中原型、SDK、导入与面板工具应服务这条主线
 
 ## 证据
 
 - 20_Projects/Projects/海河实验室重大专项/海河实验室_项目申报书_晶上网络中心计算_完整版
 - 20_Projects/Projects/海河实验室重大专项/海河实验室_项目汇报_Marp
-- 30_Outputs/论文/B组_SDI-CC互连体系/P-Theory_v2_MetaTopology_SDI_Bond_Draft
-- 30_Outputs/论文/B组_SDI-CC互连体系/[V2] 论文框架_P-Mapping_5plus4完备物理拓扑映射
-- 30_Outputs/论文/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式
+- 50_Output/51_Papers/B组_SDI-CC互连体系/P-Theory_v2_MetaTopology_SDI_Bond_Draft
+- 50_Output/51_Papers/B组_SDI-CC互连体系/[V2] 论文框架_P-Mapping_5plus4完备物理拓扑映射
+- 50_Output/51_Papers/B组_SDI-CC互连体系/SDI-CC论文框架_拓扑即计算新范式
 - 20_Projects/00_项目-论文-专利-技术四线映射表
 
 ## Related Notes
