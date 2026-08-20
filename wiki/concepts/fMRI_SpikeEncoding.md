@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[National_Innovation_Center_Role]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

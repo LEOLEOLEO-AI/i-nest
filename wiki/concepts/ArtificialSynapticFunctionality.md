@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorNeuralNetwork]]
 [[BCM滑动阈值]]
 [[BiasEvaluationMetrics]]
+[[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]

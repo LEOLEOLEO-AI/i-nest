@@ -23,12 +23,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
+[[BurstGatedRouting]]
 [[CriticalityInducedTopology]]
 [[Decoupled_Priors]]
 [[EventDrivenRiskAssessment]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

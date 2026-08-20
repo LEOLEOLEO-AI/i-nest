@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
+[[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
 [[CrossbarFabricTopology]]
 [[Dynamic_Expert_Fusion]]

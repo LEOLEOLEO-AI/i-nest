@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[Boundary_Criticality]]
 [[BranchingRatio]]
+[[BurstGatedRouting]]
 [[Neuromorphic_Computing]]
 [[ScalingExponents]]
 [[Self_Organized_Criticality]]

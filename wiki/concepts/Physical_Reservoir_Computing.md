@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Nonlinear_Gain]]
+[[PhysicalSubstrateReservoir]]
 [[ReadoutLayer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

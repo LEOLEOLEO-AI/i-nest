@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[Photonic_Chiplet_Interconnect]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ContextualReasoning]]
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
+[[CrossDomain_Abstraction]]
 [[DataDrivenMaterialDesign]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Assisted_Energy_Management]]
 [[AdaptiveBitPrecisionExploration]]
+[[AdaptiveMeasurementProtocol]]
 [[AdaptiveNetworkResilience]]
 [[AdaptiveTimeStepTraining]]
 [[Agile_Resilient_Defense_Ecosystem]]

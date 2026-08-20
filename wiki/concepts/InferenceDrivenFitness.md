@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]
 [[Online_Continual_Learning]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

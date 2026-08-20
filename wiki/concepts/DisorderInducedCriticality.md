@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Induced_Computation]]
 [[Criticality_Induced_Plasticity]]
 [[Emergent_Intelligence_Threshold]]
+[[InformationCompressionAtCriticality]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NonEquilibriumPhaseTransition]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Criticality_Based_Feature_Extraction]]
+[[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenComputation]]
 [[Event_Driven_Architecture]]

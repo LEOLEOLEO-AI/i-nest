@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]

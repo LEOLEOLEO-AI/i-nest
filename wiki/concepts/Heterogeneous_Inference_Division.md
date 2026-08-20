@@ -32,9 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[Textbook_Paradigm_Definition]]
 [[iNEST]]
 
 ## Sources

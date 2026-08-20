@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Energy_Tradeoff]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
+[[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[Architectural_Conditioning]]

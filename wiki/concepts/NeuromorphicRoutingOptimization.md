@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventCameraActionRecognition]]
 [[ExplainableEnergyAI]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Stacking]]
 [[ComputeRelocationOverhead]]
 [[Heterogeneous_Integration]]

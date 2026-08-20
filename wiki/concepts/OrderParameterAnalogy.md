@@ -1,0 +1,38 @@
+---
+title: "OrderParameterAnalogy"
+type: concept
+domain: Cross
+created: 2026-08-21
+auto: true
+---
+
+# OrderParameterAnalogy
+
+**Domain**: Cross
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-21
+
+## Definition
+The mapping of the order parameter φ in Landau-Ginzburg theory to the computational state variable C_ST in iNEST, and the external field h to the stimulus Γ_st. Enables direct translation of statistical physics phase-transition concepts into neuromorphic computing state dynamics, guiding system design near criticality.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[2026-06-15_大脑的量子纠缠与信息动力学]]
+[[ANN_SNN_WeightSpaceGap]]
+[[Agent_Interaction_Sequencing]]
+[[AvalancheBranchingRatio]]
+[[Avoided_Criticality]]
+[[Baseline_Change_Record]]
+[[BioInspiredInterceptionTask]]
+[[Neuromorphic_Computing]]
+[[Self_Organized_Criticality]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

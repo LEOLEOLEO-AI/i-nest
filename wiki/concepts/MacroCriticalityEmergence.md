@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

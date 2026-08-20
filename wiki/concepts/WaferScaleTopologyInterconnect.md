@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
+[[NoC_TopologyMapping]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

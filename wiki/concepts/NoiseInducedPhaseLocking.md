@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralDynamics]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Synaptic_Plasticity_Rule]]
 [[Temporal_Coding]]
 [[iNEST]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[AdsorptionBiosorptionHybrid]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]

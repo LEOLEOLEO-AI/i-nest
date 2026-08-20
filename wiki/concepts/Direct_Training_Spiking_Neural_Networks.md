@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[DirectTrainingSNN]]
+[[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[Gradient_Free_SNN_Learning]]
 [[InNetworkAgentRewiring]]

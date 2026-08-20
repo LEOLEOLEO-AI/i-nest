@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[CommunicationAsComputation]]
+[[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[Deep_Thermalisation_Dynamics]]
 [[Dynamic_Expert_Fusion]]

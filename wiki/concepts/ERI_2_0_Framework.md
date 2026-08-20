@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Energy_Efficient_Control]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
+[[L2_L3_Reconfigurability]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

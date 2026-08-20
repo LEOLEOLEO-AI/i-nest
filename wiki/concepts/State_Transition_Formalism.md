@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CrossDomain_Integration]]
+[[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]

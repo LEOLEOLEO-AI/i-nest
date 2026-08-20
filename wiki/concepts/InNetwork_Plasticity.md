@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
+[[CriticalityDrivenStateTransition]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalInterfaceBlocks]]

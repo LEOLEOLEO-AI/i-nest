@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]

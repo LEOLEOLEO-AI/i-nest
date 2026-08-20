@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveFeedbackLoop]]
 [[CompetitiveEdgeRewiring]]
 [[EEGToNeuromorphicMapping]]
+[[ExplainableEnergyAI]]
 [[FrozenRateOperator]]
 [[InNetwork_RL_Control]]
 [[Interconnect_Routing]]

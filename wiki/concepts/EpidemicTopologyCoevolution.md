@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveDensityControl]]
 [[AdaptiveFunctionalTopology]]
+[[Adaptive_Service_Reconfiguration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CircuitTopologyEncoding]]

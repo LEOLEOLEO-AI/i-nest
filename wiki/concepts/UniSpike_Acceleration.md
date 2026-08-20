@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AddressRedundancyElimination]]
 [[CirculateFiringNeuron]]
+[[ClocklessReconfigurableChip]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FormalToolchain]]

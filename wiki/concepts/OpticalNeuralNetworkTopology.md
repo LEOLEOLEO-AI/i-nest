@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SparseTemporalEncoding]]
 [[TCC]]
 [[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]

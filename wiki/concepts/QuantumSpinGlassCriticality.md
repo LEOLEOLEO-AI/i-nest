@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
+[[Biomanufacturing_Control_Loop]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Catastrophic_Forgetting]]

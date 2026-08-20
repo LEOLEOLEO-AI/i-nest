@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

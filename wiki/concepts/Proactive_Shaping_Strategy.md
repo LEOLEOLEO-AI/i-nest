@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
+[[ConstraintDrivenSelfOrganization]]
 [[DTGA]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
+[[Heterogeneous_Chiplet_Customization]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Long_Range_Interactions]]

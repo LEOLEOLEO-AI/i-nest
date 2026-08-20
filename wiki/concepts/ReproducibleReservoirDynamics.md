@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Application_Scenario_Reconstruction]]
 [[ANN动力学]]
@@ -25,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
 [[EulaminateOverrepresentation]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity_Tc]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[Topology_Interconnect]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

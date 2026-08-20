@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Dynamic_Expert_Fusion]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[Branch_Prediction]]
 [[DataDrivenMaterialDesign]]
 [[EEGToNeuromorphicMapping]]
 [[Emerging_CMOS_Memristor]]
@@ -27,8 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[Globally_Optimal_SNN_Training]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Reservoir_Computing]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

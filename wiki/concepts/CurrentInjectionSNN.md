@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_Backpropagation_Through_Time]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[SurrogateGradientTraining]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

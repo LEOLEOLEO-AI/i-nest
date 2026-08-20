@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Core_Spacetime_Tensor]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Microgrid_Optimization]]

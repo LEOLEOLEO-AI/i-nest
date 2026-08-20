@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnomalousSpinTransport]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Projects]]
 [[Emergent_Intelligence_Threshold]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]

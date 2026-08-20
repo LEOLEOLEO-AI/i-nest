@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BranchingRatio]]
 [[BurstGatedRouting]]
+[[Continual_Learning_Modularity]]
 [[CriticalStateInformationMaximization]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality_Based_Feature_Extraction]]

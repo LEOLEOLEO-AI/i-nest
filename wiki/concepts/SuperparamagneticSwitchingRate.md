@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
+[[DTGA]]
 [[DataProvenanceIntegrity]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[OptimalGeneralisationNearInterpolation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikeAttention]]
 [[SpikePacketCompression]]

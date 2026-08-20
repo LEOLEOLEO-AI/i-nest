@@ -1,12 +1,12 @@
 # Knowledge Health Report
 
-**Generated**: 2026-08-20
-**Last Grow**: 2026-08-20
+**Generated**: 2026-08-21
+**Last Grow**: 2026-08-21
 
 ## Stats
-- **Total Concepts**: 3492
-- **Total Articles**: 901
-- **Orphan Concepts**: 1544
+- **Total Concepts**: 3592
+- **Total Articles**: 922
+- **Orphan Concepts**: 1535
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
@@ -18,13 +18,13 @@
 - [[AIInnovationPlatform]]
 - [[AI_Infrastructure_Commercialization]]
 - [[AI_Material_Design_Production_Gap]]
+- [[AI_Principal]]
 - [[Academic_Integrity_Assessment]]
-- [[ActiveInferenceTopology]]
 - [[AdaptiveGraphDiffusion]]
 - [[Adaptive_Service_Orchestration]]
-- [[Adaptive_Service_Reconfiguration]]
 - [[AgranularLimbicInclusion]]
 - [[AlgorithmicPhaseTransition]]
+- [[Alpha_Coefficient_Phase_Transition_Amplification]]
 - [[AmortizedRegretSeparation]]
 - [[AnalyticalMobilityEdgeSolution]]
 - [[Anomaly_Protected_Scaling_Law]]
@@ -38,6 +38,7 @@
 - [[AthermalRandomFieldBlumeCapel]]
 - [[AtomicGeometryToElectronicTopologyMapping]]
 - [[AttentionLikeHebbianPlasticity]]
+- [[AttentionMap_DifferenceResidual]]
 - [[Automated_Assessment_Framework]]
 - [[AutonomousAirCombat]]
 - [[AutonomousCombatScenarios]]
@@ -49,8 +50,7 @@
 - [[Barrier_Hierarchy_Topology]]
 - [[Battery_Aware_Scheduling]]
 - [[Battlefield_Medicine_Neuromorphic_Integration]]
-- [[BayesianDiffusionGeneralizationPhaseTransition]]
-- ... 1504 more
+- ... 1495 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

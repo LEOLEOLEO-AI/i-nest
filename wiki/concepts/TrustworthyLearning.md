@@ -25,9 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Neuromorphic_Computing]]
+[[StochasticVehicleRouting]]
 [[TCC]]
 [[iNEST]]
 

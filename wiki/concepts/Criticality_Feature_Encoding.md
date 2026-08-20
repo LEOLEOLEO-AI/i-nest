@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[CriticalityInducedTopology]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

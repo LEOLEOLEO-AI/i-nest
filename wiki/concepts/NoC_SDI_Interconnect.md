@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

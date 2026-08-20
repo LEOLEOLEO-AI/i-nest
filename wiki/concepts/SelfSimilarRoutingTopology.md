@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
+[[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
 [[Package_Level_Topology]]
 [[ScaleFreeNetwork]]

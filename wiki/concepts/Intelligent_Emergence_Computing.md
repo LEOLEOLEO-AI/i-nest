@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

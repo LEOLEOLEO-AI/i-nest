@@ -39,10 +39,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[Software_Defined_Interconnect]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TopologyProgramming]]
 [[Topology_Reconfiguration]]
 [[iNEST]]
 

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[CoarseGrainingFlow]]
 [[DARPA_ProjectManager_Model]]
+[[Decoupled_Priors]]
 [[EdgeIoTEnergyAwareness]]
 [[GSK_Summarize]]
 [[GSK_Summarize_3D]]

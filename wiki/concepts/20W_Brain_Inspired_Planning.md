@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
 

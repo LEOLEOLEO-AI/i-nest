@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Deep_Counterstream_Associative_Memory]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricSynapticArray]]

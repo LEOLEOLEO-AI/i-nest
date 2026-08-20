@@ -25,10 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[DelayCodedWorkingMemory]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Event_Driven_Architecture]]
 [[InputAdaptiveComputation]]
+[[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

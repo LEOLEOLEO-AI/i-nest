@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BiasEvaluationMetrics]]
 [[BigBrainCellularAxis]]
+[[Chiplet_Integration_Route]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DTGA]]

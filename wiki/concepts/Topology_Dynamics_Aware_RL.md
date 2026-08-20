@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
+[[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

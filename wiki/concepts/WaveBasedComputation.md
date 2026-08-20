@@ -28,11 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[EEGToNeuromorphicMapping]]
+[[ExplainableEnergyAI]]
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Spiking_Neural_Network]]
+[[TCC]]
 [[TCC_Neuromorphic_Integration]]
 
 ## Sources

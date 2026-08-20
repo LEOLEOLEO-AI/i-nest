@@ -439,7 +439,15 @@
       "file": "00_Inbox\\_pipeline_insights\\2026-08-12_arXiv_Certified Detection of Bifurcation Candidates in Uncertain N.md",
       "discovered": "2026-08-12",
       "status": "pending_review"
+    },
+    {
+      "title": "The Road Less Traveled: Congestion-Aware NoC Placement and Packet Routing for FPGAs",
+      "url": "http://arxiv.org/abs/2608.17266v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-20_arXiv_The Road Less Traveled Congestion-Aware NoC Placement and Pa.md",
+      "discovered": "2026-08-20",
+      "status": "pending_review"
     }
   ],
-  "last_updated": "2026-08-12T08:27:54.989745"
+  "last_updated": "2026-08-20T06:43:10.736305"
 }

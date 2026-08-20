@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ExponentialDenseAssociativeMemory]]
 [[Field_Compression_for_InNetwork_Inference]]
+[[Free_Energy_Principle_Network]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

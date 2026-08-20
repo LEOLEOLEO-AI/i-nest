@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CSI_Temporal_Encoding]]
+[[CirculateFiringNeuron]]
 [[CoDesigned_SNN]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]

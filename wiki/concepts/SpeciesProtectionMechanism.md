@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectionStrengthEncoding]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[QuantumCoherenceSpikeCoupling]]
 [[Representation_Learning_Generalization]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]

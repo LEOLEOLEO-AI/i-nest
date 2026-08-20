@@ -23,6 +23,7 @@ TCC, iNEST
 
 ## Related Concepts
 
+[[ActiveInference]]
 [[ArchitecturalCondition]]
 [[Causal_Emergence]]
 [[Intelligence_Emergence]]

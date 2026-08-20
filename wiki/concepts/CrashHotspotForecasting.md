@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[Nonlinear_Gain]]
 [[ProactiveTrafficSafety]]
 [[Reservoir_Computing]]

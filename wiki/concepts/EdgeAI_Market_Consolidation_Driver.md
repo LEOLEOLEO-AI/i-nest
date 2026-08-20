@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Security_Architecture]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[CriticalInertiaEstimation]]
 [[Heterogeneous_Integration]]
 [[In_Package_Interconnect_Trust]]
 [[L2_L3_Reconfigurability]]

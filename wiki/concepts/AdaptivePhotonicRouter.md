@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveArchitecture]]
 [[AdiabaticMultimodeBend]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[BurstGatedRouting]]

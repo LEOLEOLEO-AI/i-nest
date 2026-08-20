@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AutogradCompatibleSpiking]]
 [[AutomatedQuantizationFramework]]
+[[BiSpikCLM]]
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]

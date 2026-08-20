@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MemoryDrivenRouting]]
 [[TCC]]
 
 ## Sources

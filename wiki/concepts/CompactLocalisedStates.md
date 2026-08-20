@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvolutionalRestrictedHopfieldNetwork]]
 [[Emergent_Intelligence_Threshold]]
 [[ExponentialDenseAssociativeMemory]]
+[[Ferroelectric_Devices]]
 [[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Principle_Network]]
 [[HZO_FerroelectricCapacitor]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
+[[待分类]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

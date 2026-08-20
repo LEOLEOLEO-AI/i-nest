@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
+[[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]

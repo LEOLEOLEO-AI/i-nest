@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[Adaptive_Service_Reconfiguration]]
 [[AdiabaticModeEvolutionCoupler]]
 [[CircuitTopologyEncoding]]
 [[DelayPropagationDynamics]]

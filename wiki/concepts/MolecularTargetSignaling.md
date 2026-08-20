@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdaptiveBitPrecisionExploration]]
 [[Analog_Computation]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

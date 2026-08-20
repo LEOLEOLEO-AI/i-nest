@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Scale_Dependent_Coherence]]

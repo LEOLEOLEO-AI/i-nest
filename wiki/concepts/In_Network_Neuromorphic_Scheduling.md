@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Planning_Architecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SNN]]
 [[ST_SNN]]

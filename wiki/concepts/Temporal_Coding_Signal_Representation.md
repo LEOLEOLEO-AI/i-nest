@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Controlled_Release_Kinetics]]
 [[ElasticInferenceScheduling]]
+[[EventDrivenComputation]]
+[[JunctionSignalIntegrity]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[STDP_Learning]]

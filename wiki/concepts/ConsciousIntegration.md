@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
+[[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -1,7 +1,25 @@
 {
   "schema": "research-task-proposals-v1",
-  "generated": "2026-08-17T08:25:00+08:00",
+  "generated": "2026-08-20T06:43:10+08:00",
   "items": [
+    {
+      "id": "RP-2026-08-20-2124106212ac",
+      "status": "pending_review",
+      "title": "V-NT-01：在统一 LIF 网络、固定数据集和固定随机种子下，建立 BPTT、局部 STDP/三因子规则与 e-prop 类规则的最小对照。验证方法：仿真。验收标准：每组具有版本、配置、输入数据、训练/测试指标、内存和运行时间记录。",
+      "source": "20_Processing/02_Fulltext_Analysis/2026-07-20_NeuroTrain_fulltext_analysis.md",
+      "evidence": "[引用] 原始文献洞察文件，需人工核验后执行。",
+      "inspiration": [],
+      "created": "2026-08-20T06:43:10+08:00"
+    },
+    {
+      "id": "RP-2026-08-20-cbf3076a81e9",
+      "status": "pending_review",
+      "title": "V-NT-02：在 V-NT-01 的同一训练任务上替换 SDI/NoC 候选拓扑，比较学习更新的消息量、峰值链路负载和更新等待时间。验证方法：网络仿真。验收标准：拓扑以外变量固定，报告统计方法和原始运行日志。",
+      "source": "20_Processing/02_Fulltext_Analysis/2026-07-20_NeuroTrain_fulltext_analysis.md",
+      "evidence": "[引用] 原始文献洞察文件，需人工核验后执行。",
+      "inspiration": [],
+      "created": "2026-08-20T06:43:10+08:00"
+    },
     {
       "id": "RP-2026-07-19-2124106212ac",
       "status": "pending_review",

@@ -29,9 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[DelayAwareSpikeEventDelivery]]
 [[EnergyEfficientSNN]]
+[[EventBasedNeuralDecoding]]
 [[EventDrivenAutoregression]]
 [[EventDrivenInference]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

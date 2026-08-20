@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SoftwareDefinedSystemOnWafer]]
+[[Software_Defined_Interconnect]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

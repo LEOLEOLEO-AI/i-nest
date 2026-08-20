@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[CirculateFiringNeuron]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

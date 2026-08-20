@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[BigBrainCellularAxis]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[VonNeumann_Complexity_Threshold]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

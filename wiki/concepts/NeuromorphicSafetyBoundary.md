@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Neuromorphic_Acceleration]]
 [[Intelligence_Emergence]]
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]

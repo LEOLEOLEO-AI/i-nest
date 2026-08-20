@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet_Interconnect]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Deep_Network_Architecture_Invariant]]
 [[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

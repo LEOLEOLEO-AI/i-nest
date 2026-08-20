@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN_SNN_WeightSpaceGap]]
+[[Avoided_Criticality]]
 [[CSI_Temporal_Encoding]]
 [[CriticalityConstrainedPruning]]
 [[Criticality_of_Natural_Languages]]

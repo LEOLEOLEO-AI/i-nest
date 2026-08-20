@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Izhikevich_NeuronModel]]
 [[Loihi2_OnChip_Learning]]
 [[Metriplectic_Twin]]
+[[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

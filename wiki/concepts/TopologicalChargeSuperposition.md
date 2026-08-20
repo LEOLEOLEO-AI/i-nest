@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[CircadianGateModulation]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

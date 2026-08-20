@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Algorithmic_Warfare]]
 [[AllOpticalHebbianLearning]]
 [[Analog_Computation]]
+[[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

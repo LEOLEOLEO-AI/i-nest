@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttention]]
 [[ExactFiringRateModel]]
 [[Intelligence_Emergence]]
+[[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

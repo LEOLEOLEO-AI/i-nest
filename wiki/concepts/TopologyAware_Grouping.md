@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
 [[CommunicationAsComputation]]
+[[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[Deep_Thermalisation_Dynamics]]
 [[FreeFermionTopologicalInvariant]]

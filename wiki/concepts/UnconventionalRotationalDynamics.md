@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Critical_Exponent_Analysis]]
 [[Emergent_Intelligence_Threshold]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

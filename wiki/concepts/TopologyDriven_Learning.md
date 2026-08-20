@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Attention_Residuals]]
 [[DataDrivenMaterialDesign]]
+[[Deep_Thermalisation]]
+[[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

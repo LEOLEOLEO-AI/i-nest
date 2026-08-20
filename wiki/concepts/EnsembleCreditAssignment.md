@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalPlasticityPipeline]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[NeuronModelAbstractionLayer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

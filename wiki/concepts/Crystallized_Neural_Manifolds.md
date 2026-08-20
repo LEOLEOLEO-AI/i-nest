@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DeviceConductanceTuning]]
 [[Emergent_Intelligence_Threshold]]
 [[FreeEnergyMinimization]]
 [[HebbianLimitCycleLearning]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[智能涌现]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

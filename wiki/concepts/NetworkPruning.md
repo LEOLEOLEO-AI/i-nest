@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[Memristive_Interconnect]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

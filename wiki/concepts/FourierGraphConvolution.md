@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnteHoc_Explainability]]
 [[Architectural_Conditioning]]
+[[BCM滑动阈值]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]

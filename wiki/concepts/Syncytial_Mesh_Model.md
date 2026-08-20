@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[Scale_Dependent_Coherence]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]

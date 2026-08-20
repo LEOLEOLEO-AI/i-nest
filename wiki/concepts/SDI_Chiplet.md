@@ -19,12 +19,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Architectural_Conditioning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
+[[Chiplet_NoC_Interconnect]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

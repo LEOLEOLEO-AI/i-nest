@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Memory_Wall]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NCL神经计算定律详解]]
+[[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
@@ -59,3 +60,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[拓扑深度学习捕捉数据的高阶关系：信息传递拓扑神经网络概述]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AsynchronousEventDrivenComputation]]
 [[BayesianDomainEvolution]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
@@ -36,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Substrate]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

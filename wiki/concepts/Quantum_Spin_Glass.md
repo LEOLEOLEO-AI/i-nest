@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[CST_Equation]]
 [[CellEmergence]]
+[[ComplexValuedSNN]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[Capability_Forging_Pipeline]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Evolutionary_Structure_Computability]]

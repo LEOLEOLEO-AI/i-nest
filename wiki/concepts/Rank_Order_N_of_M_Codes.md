@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalInformationStorage]]
 [[Temporal_Coding]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[神经网络]]
 [[脉冲神经网络]]
 

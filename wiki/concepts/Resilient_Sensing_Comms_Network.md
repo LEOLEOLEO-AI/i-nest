@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ScalableNeuromorphicTopology]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

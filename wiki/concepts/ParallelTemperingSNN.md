@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[CSI_Temporal_Encoding]]
+[[CirculateFiringNeuron]]
 [[CoDesigned_SNN]]
 [[CoEvolvedSNNEnsemble]]
 [[CollectiveSpikingDynamics]]

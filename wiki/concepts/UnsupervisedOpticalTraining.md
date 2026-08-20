@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpikeFusionLayer]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuralDynamics]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

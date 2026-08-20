@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
+[[CST_Intelligence_Emergence]]
 [[CST计量仪]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[CriticalBranching]]
 [[DataDrivenCellularAxis]]

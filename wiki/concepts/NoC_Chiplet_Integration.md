@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Interconnect]]
 [[SDI_NoC_Fusion]]
+[[SDI_NoC_Integration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

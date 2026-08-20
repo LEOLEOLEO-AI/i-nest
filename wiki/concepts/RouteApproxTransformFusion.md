@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[FrozenRateOperator]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[PhotonicSynapticPlasticity]]
+[[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]

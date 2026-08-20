@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AutogradCompatibleSpiking]]
 [[AutomatedQuantizationFramework]]
+[[BiSpikCLM]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

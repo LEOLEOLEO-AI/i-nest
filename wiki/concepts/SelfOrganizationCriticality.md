@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[CST_CoordinationMechanism]]
 [[Complex_System]]
 [[Complex_System_Theory]]

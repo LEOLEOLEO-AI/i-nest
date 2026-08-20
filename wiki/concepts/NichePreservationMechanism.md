@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[MemoryEfficientSimulation]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]

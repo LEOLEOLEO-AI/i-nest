@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
+[[PersonalizedSNNTransfer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_Topology_Integration]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[StructuralPriorEncoding]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Topology_Centric_Neuromorphic]]
 [[Topology_Centric_Neuromorphic_Integration]]
 
 ## Sources

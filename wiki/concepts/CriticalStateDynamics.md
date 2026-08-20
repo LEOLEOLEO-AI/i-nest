@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Stretched_Criticality]]
 [[SubsystemInformationCapacity]]
+[[TopologyDrivenVulnerability]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

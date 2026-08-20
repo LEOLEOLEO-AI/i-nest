@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC_SDI_Topology]]
 [[OnChipOpticalTweezers]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[SiliconPhotonicsNetwork]]

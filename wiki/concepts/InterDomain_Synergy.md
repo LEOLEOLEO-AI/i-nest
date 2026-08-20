@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[HebbianLimitCycleLearning]]
 [[InferenceDrivenFitness]]
 [[Intelligence_Emergence]]
+[[Neuromorphic_Sensor_Fusion]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Generative_Graph_Models]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PhysicalReservoirInterconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]

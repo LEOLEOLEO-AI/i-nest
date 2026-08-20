@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CSI_Temporal_Encoding]]
+[[CirculateFiringNeuron]]
 [[CoDesigned_SNN]]
 [[CoEvolvedSNNEnsemble]]
 [[Emergent_Intelligence_Threshold]]

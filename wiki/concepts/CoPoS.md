@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

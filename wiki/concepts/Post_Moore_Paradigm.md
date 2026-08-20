@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
+[[3D_Integrated_Chiplet_Stacking]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Pathway]]

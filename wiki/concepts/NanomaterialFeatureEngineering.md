@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
+[[AnalogDomainCompression]]
 [[Avalanche_Dynamics]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Critical_Exponent_Scaling]]

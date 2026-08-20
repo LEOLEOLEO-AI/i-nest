@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
+[[CoreComputationSubspace]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 
 ## Sources

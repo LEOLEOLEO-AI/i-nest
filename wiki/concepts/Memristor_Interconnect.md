@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

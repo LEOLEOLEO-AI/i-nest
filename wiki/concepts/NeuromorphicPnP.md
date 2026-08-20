@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Interaction_Sequencing]]
 [[AsynchronousEventDrivenComputation]]
 [[AutonomousSpikingDynamics]]
+[[Avoided_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenComputation]]
 [[InNetworkAgentRewiring]]

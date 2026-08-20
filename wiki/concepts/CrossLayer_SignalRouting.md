@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
+[[FinitePoolRareRegimeDiscovery]]
 [[FrustratedDimerMagnet]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

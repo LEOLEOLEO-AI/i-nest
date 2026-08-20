@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]

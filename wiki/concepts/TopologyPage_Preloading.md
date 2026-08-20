@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Based_Architecture]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
@@ -29,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Inference_Workload_Profiling]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[Space_Compute_Architecture_Tradeoff]]
 [[TCC]]
 
 ## Sources

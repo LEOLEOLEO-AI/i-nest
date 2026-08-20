@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]
 [[Cognitive_Relapse_Decoupling]]
+[[Continual_Learning_Modularity]]
 [[CriticalityOffCriticalityTransition]]
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]

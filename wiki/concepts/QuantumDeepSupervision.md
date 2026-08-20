@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -27,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
+[[P_Paradigm]]
 [[PersonalizedSNNTransfer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
@@ -36,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StructuralPriorEncoding]]
 [[TCC]]
+[[Topology_Centric_Neuromorphic]]
 [[Topology_Centric_Neuromorphic_Integration]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

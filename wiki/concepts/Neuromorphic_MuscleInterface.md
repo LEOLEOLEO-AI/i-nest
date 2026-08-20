@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousSynapticDelays]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Metriplectic_Twin]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

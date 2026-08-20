@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiTechnologyInspectionFusion]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[OnChipOpticalTweezers]]
 [[Photonic_Chiplet_Interconnect]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

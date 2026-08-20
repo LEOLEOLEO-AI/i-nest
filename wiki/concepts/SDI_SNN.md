@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SNN]]

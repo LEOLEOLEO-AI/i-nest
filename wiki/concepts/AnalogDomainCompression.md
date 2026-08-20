@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[CategoricalClosureCriterion]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

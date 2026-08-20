@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CirculateFiringNeuron]]
 [[CompactnessRegularizedFitness]]
+[[ComplexValuedSNN]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]

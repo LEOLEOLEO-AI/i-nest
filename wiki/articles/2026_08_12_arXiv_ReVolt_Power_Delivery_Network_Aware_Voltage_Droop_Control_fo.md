@@ -18,5 +18,6 @@ TCC, chiplet, iNEST
 
 [[3D_IC_Stacking]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 [[iNEST]]

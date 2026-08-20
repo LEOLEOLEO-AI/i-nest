@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Compressed_Glass_Network]]
+[[Crystallized_Neural_Manifolds]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[GateBasedQuantumReservoir]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
+[[Topological_Reservoir]]
 [[iNEST]]
 
 ## Sources

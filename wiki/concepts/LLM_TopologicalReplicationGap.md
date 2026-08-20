@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[ClusteringAlignment]]
 [[ContinuousGameOfLife]]
+[[CrossDomain_Abstraction]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Distributed_Spike_Communication]]
 [[Heterogeneous_Integration]]
 [[MultibodyInteractionCascade]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NCA_Reservoir]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]

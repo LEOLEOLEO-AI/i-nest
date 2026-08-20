@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[EventBasedNeuralDecoding]]
 [[EventDrivenAutoregression]]
+[[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[FirstTimestepConversion]]
 [[Network_Topology_Design]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Passivity_Preserving_Computation]]
 [[SpikeEventDrivenInference]]
 [[Spiking_Neural_Network]]
+[[StochasticBinaryNetwork]]
 [[TCC]]
 [[iNEST]]
 

@@ -28,6 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkPowerRouting]]
 [[Interconnect_Routing]]
+[[LLMDrivenPathSelection]]
+[[Network_Topology_Design]]
+[[SelfOrganization]]
+[[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

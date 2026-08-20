@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
+[[Continual_Learning_Modularity]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]

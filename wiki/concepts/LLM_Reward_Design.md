@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveFunctionalTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Attention_Residuals]]
 [[BurstGatedRouting]]
 [[DelayTolerantNetworkUAV]]
 [[Interconnect_Routing]]

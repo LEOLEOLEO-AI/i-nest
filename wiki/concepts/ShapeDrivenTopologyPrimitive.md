@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

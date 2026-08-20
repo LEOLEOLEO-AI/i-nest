@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[FPGA_SNN_Inference]]
@@ -29,7 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Recurrent_Network_Homeostasis]]
+[[SNN]]
 [[ST_SNN]]
+[[Spiking_Neural_Network]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Topology]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
+[[SDI_NoC_Fusion]]
 [[SDI_Topology]]
 [[TCC]]
 

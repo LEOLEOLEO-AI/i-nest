@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
+[[InterChipletPHYModeling]]
 [[LargeScalePhotonicIntegration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

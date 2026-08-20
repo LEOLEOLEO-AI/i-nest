@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

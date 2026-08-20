@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[CST_Theory]]
 [[Complex_System]]

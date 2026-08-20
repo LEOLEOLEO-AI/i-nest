@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DifferentiableRasterizationPipeline]]
 [[DualDrivenHybridNetwork]]

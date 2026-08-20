@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[Reconfigurable_Spiking_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]

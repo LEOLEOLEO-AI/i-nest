@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
+[[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]
+[[Self_Organized_Criticality]]
 [[SpikeDrivenMultiObjectTracking]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

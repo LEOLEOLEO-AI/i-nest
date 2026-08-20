@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[Allreduce_Latency_Probe]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -30,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[LossSpikePhenomenon]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RTC_Primitive]]
 [[RTC_Primitive_Set]]
 [[Relapse_Resilient_Interconnect]]

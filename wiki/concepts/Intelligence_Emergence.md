@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TCC]]
 [[TopologyFragility]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]

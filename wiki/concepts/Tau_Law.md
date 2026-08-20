@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[DirectConnect_Topology]]
 [[External_to_OnDie_Evolution]]

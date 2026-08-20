@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[EvanescentFieldTrapping]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]

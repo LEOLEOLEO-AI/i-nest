@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
+[[AI_Industrial_Ecosystem]]
 [[ANN动力学]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]

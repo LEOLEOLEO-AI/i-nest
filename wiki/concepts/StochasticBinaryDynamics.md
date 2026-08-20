@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalPlausibilityScoring]]
 [[Bursting_Neuron_Model]]
 [[CirculateFiringNeuron]]
+[[ComplexValuedSNN]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]

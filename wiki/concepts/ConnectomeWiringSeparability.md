@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SexBasedConnectomeDifferences]]
+[[Sex_Dimorphic_Connectivity_Pattern]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

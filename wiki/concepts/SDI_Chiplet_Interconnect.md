@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[ComputeRelocationOverhead]]
 [[Cryogenic_Syndrome_Compression]]
 [[DataMovementMinimization]]
 [[Heterogeneous_Integration]]

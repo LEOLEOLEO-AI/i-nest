@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
+[[BisectionBandwidthMetric]]
 [[ChipletRoutingFabric]]
 [[ChipletTopologyAwareness]]
 [[ChipletWaferInterconnectScaling]]

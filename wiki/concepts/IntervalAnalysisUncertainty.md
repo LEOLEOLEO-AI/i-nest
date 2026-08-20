@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[FlagOS_2_0]]
 [[IntervalAnalysis]]
 [[MetricComputationAuthenticity]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[TCC]]
 [[TcComputation]]
+[[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[TopologyProgramming]]
 [[iNEST]]

@@ -26,9 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[Adaptive_Service_Reconfiguration]]
 [[AdiabaticModeEvolutionCoupler]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

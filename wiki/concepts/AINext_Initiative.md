@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Substrate]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]

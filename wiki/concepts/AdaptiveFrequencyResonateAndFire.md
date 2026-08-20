@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AsynchronousEventDrivenComputation]]
 [[BayesianDomainEvolution]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]
@@ -37,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
 [[SleepHomeostatCircuit]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

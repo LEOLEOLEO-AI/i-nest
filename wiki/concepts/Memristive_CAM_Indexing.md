@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[InNetworkAgentRewiring]]
+[[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Memristive_Topology]]

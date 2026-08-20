@@ -20,12 +20,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Course_Based_FPGA_Prototyping]]
+[[CriticalityConstrainedPruning]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

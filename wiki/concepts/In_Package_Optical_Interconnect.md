@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

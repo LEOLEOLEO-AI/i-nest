@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]

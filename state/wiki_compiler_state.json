@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-08-20",
+  "last_compile": "2026-08-21",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -197,7 +197,7 @@
     "00_Inbox/_pipeline_insights/2026-08-01_arXiv_Storing Sensor Events in the Interconnection Strength of Con.md": 1785546813.44828,
     "00_Inbox/_pipeline_insights/2026-08-01_arXiv_Synchronization, Kinematic Waves and Spike-Phase-Separation .md": 1785546877.2250273,
     "20_Processing/01_PDF_Text/2026-07-20_NeuroTrain_fulltext.md": 1785836858.065147,
-    "20_Processing/02_Fulltext_Analysis/2026-07-20_NeuroTrain_fulltext_analysis.md": 1787111060.5322323,
+    "20_Processing/02_Fulltext_Analysis/2026-07-20_NeuroTrain_fulltext_analysis.md": 1787166599.922675,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-07-2511.01553.md": 1785674176.0202587,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-07-2601.00020.md": 1785674176.0202587,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-07-2605.04200.md": 1785674176.0202587,
@@ -953,7 +953,28 @@
     "20_Processing/21_Pending/组合性连续体：智能如何从可复用的神经模块中诞生？.md": 1786712412.9063876,
     "20_Processing/21_Pending/苏州实验室晶上系统关键材料战略研讨会方案讨论.md": 1786539615.7381492,
     "20_Processing/21_Pending/谢澎涛团队 AIBuildAI Science Agent 深度解读：4小时自主完成科研建模，NatureBench 排.md": 1786539615.7486331,
-    "raw/imports/iNEST 理论纲要与工程蓝图 绘图提示词(2).md": 1786631082.6651855
+    "raw/imports/iNEST 理论纲要与工程蓝图 绘图提示词(2).md": 1786631082.6651855,
+    "00_Inbox/Cerebras CS-4 深度解析：晶圆级 AI 芯片如何把推理速度拉到千 tok_s 级.md": 1787241024.47273,
+    "00_Inbox/Copilot for Obsidian V4 深度解析：从聊天助手到 AI 主理人.md": 1787241024.4851546,
+    "00_Inbox/工程院信息学部十五五战略咨询项目开题研讨会（第一课题汇报环节）.md": 1787241024.5172884,
+    "00_Inbox/工程院信息学部十五五规划战略咨询项目开题研讨会记录.md": 1787241024.5302854,
+    "00_Inbox/差分Transformer（Diff Transformer）深度解析：用减法重构注意力机制.md": 1787241024.550588,
+    "00_Inbox/科技部无人智能装备制造云平台项目讨论.md": 1787241024.5634503,
+    "00_Inbox/_pipeline_insights/2026-08-20_arXiv_Declining Modularity of Intellectual Bases During the Emerge.md": 1787178833.6584969,
+    "00_Inbox/_pipeline_insights/2026-08-20_arXiv_Incidence-based random walks on simplicial complexes.md": 1787178779.5232904,
+    "00_Inbox/_pipeline_insights/2026-08-20_arXiv_Noisy group neurons with synchronous resetting for high-perf.md": 1787178713.798112,
+    "00_Inbox/_pipeline_insights/2026-08-20_arXiv_Parallel Spatial Photonic Programming of Optoelectronic IGZO.md": 1787178731.0406132,
+    "00_Inbox/_pipeline_insights/2026-08-20_arXiv_Simplicial closure fragments the explosive cooperation trans.md": 1787178779.5091417,
+    "00_Inbox/_pipeline_insights/2026-08-20_arXiv_The Organization of Environmental Coupling Shapes What Quant.md": 1787178801.131114,
+    "00_Inbox/_pipeline_insights/2026-08-20_arXiv_The Road Less Traveled Congestion-Aware NoC Placement and Pa.md": 1787178692.0509896,
+    "20_Processing/22_Audit/2026-08-21_Agent_Audit_and_Rescue.md": 1787242123.1714494,
+    "20_Processing/22_Audit/rescued/iNEST理论.md": 1773410246.2647855,
+    "20_Processing/22_Audit/rescued/llm_analysis_20260530_notes.md": 1787242192.7398198,
+    "20_Processing/22_Audit/rescued/theory_handoff_latest.md": 1773534057.080468,
+    "20_Processing/22_Audit/rescued/Understanding_Plasticity_in_Neural_Networks.md": 1773404541.948496,
+    "20_Processing/22_Audit/rescued/自然_物理_当拓扑_动起来_高阶网络重塑动力学.md": 1773401367.6940396,
+    "20_Processing/22_Audit/rescued/自由能原理_把感知_行动_注意统一到一个方程里.md": 1773405431.884676,
+    "20_Processing/22_Audit/rescued/manuscript-math-verify/SKILL.md": 1787242803.7262764
   },
   "concept_graph": {}
 }

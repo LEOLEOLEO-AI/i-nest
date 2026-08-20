@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[Intelligence_Emergence]]
+[[Memristor_Crossbar_Array]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[P_Paradigm]]

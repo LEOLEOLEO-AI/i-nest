@@ -1,0 +1,38 @@
+---
+title: "NoisyGroupNeurons"
+type: concept
+domain: iNEST
+created: 2026-08-20
+auto: true
+---
+
+# NoisyGroupNeurons
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-20
+
+## Definition
+A group of spiking neurons that receive shared noisy input to induce stochastic firing behavior, enhancing temporal diversity and robustness in SNN computations. Enables high-performance spike-based processing by leveraging noise as a computational resource, critical for neuromorphic hardware where variability is inherent.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[ANN_SNN_WeightSpaceGap]]
+[[ANN_to_SNN_Conversion_Error_Amplification]]
+[[ActiveDendriteSNN]]
+[[AdaptiveAsymmetricSurrogateGradient]]
+[[AddressRedundancyElimination]]
+[[NeuromorphicHardware]]
+[[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

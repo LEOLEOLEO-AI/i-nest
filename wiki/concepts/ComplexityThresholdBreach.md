@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvexNonConvexTradeoff]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

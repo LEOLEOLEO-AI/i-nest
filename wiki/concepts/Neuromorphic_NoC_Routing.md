@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[CorticalWaveRouting]]
+[[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[InterFPGA_Spike_Routing]]

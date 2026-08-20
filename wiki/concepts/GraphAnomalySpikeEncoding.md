@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
 [[Network_Topology_Design]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_TCC_Integration]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

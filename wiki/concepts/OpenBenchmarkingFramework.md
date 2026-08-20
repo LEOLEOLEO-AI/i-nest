@@ -40,8 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

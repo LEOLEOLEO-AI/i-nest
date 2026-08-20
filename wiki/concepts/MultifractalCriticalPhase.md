@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
 [[Emergent_Intelligence_Threshold]]
+[[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Monitored_Quantum_Circuits]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[ChipletTopologyAwareness]]
 [[Chiplet_Heterogeneous_Integration]]

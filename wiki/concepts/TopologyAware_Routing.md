@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3D_Integration]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[HeterogeneousSiliconNitridePlatform]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[MoE_Routing]]

@@ -21,11 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AutonomousAdaptation]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
+[[Emergent_Reservoir_Topology]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[Hierarchical_Interconnect]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

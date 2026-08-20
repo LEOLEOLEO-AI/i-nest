@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[Contested_Priors_Mechanism]]
 [[DefectDynamics]]
+[[Dendritic_In_Context_Learning]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]

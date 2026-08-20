@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AutogradCompatibleSpiking]]
 [[BiSpikCLM]]
 [[BioPlausibleDisturbanceEstimation]]
+[[BiologicalPlausibilityScoring]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

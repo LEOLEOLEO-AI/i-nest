@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
+[[CrossDomain_Abstraction]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

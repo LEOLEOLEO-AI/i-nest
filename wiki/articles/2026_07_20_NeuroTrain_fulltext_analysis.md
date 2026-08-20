@@ -2,7 +2,7 @@
 
 **Domain**: TCC
 **Source**: 20_Processing\02_Fulltext_Analysis\2026-07-20_NeuroTrain_fulltext_analysis.md
-**Compiled**: 2026-08-20
+**Compiled**: 2026-08-21
 
 ## Summary
 title: "NeuroTrain 全文证据分析" source_fulltext: "[[2026-07-20_NeuroTrain_fulltext]]" source_pdf: "[[2605.15058v1.pdf]]" source_url: "https://arxiv.org/abs/2605.15058" arxiv_id: "2605.15058v1"

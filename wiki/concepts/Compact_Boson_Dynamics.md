@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Personnel_Role_Assignment]]
 [[TCC]]
 [[iNEST]]
 

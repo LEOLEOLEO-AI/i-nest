@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Replication_Strategy]]
 [[Avoided_Criticality]]
+[[BioInspired_Interception_Control]]
 [[CriticalityConstrainedPruning]]
 [[Criticality_Avoidance_Theory]]
 [[Criticality_of_Natural_Languages]]

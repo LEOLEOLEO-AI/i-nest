@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
 [[AdaptiveFlexibilityThreshold]]
+[[AdaptiveFrequencyResonateFire]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Agent_Workflow_Automation]]
 [[AstrocyteInspiredRepair]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
+[[BrainScaleTopologyExploitation]]
 [[CollectiveDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]

@@ -20,9 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Topology]]
+[[Chiplet_Topology_Interconnect]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[NCCLCollectiveCommunicationMapping]]
@@ -37,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Reconfigurable_Network]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
+[[Topology_Interconnect]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]

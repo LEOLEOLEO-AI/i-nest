@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CurrentInjectionSNN]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[Dynamic_Expert_Fusion]]

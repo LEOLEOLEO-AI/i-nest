@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdaptivePhotonicRouter]]
+[[Adaptive_Service_Reconfiguration]]
 [[CircuitTopologyEncoding]]
 [[DelayPropagationDynamics]]
 [[Interconnect_Routing]]

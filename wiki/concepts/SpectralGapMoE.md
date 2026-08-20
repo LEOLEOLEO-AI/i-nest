@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdaptivePhotonicRouter]]
+[[Adaptive_Service_Reconfiguration]]
 [[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]

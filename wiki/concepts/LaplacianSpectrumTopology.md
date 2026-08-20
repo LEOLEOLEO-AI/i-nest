@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
+[[Adaptive_Service_Reconfiguration]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
 [[Dynamic_Expert_Fusion]]
+[[FiniteSizeTopologicalPhase]]
 [[Intelligence_Emergence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

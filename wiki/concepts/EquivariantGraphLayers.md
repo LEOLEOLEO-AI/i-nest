@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotonicPackagingEfficiency]]
 [[Photonic_Chiplet_Interconnect]]
 [[RenormalizationGroup_ScalingLaws]]
+[[ReproducibleReservoirOutput]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]

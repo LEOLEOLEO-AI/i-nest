@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Baseline_Draft_Status]]
 [[CrossLayer_SignalRouting]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]

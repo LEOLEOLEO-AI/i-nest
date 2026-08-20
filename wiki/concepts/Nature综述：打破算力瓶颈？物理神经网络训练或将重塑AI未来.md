@@ -65,5 +65,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
+[[_物理学评论_从神经网络中推断高阶交互关系]]
 [[iNEST]]
 [[神经网络]]

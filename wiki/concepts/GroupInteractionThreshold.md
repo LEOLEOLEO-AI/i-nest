@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

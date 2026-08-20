@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
+[[SwarmGradientRouting]]
 [[TCC]]
 [[iNEST]]
 [[神经网络]]

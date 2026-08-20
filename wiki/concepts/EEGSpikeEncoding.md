@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
+[[FrequencyAdaptationMechanism]]
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]

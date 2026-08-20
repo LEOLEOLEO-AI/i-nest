@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[Free_Energy_Topology_Mapping]]

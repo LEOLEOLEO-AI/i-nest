@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DualTopologyProductSplit]]
 [[GroupWise_DragonflyPlus]]
+[[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
 [[MatrixShapeToParallelismMapping]]
 [[Network_Topology_Design]]

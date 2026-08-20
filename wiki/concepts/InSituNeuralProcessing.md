@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationHeterogeneity]]
 [[ConductingPolymerDendriteMemory]]
 [[EventBasedAnalogFrontEnd]]
+[[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]

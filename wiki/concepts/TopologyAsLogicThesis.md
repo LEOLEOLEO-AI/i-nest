@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_NetworkCoDesign]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]

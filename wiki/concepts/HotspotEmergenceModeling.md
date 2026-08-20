@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[HighTemporalResolutionSensing]]
 [[Intelligence_Emergence]]
+[[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]

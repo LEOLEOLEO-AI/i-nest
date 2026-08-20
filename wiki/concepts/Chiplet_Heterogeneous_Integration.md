@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[GranularCortexExclusion]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Integration]]
 [[Memory_Wall]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]

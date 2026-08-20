@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
+[[CrashHotspotForecasting]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TCC]]
 

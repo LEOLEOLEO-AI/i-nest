@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActiveInferenceEdgeLoop]]
+[[ActiveInference]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
+[[IntrinsicDynamicsAutonomy]]
 [[Neural_Substrate_Independence]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

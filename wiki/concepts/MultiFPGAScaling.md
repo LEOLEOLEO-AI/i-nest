@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CSI_Temporal_Encoding]]
 [[Memristive_Topology]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

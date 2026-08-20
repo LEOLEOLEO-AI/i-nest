@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
+[[ITP_STDP]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]

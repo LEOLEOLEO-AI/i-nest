@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Decoupled_Priors]]
 [[Independent_AI_Player_Endgame]]
 [[MagicStateProtocolAwareCompilation]]
 [[MetaFAIR_ArchitectureDiscovery]]

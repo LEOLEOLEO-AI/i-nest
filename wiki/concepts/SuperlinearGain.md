@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[Textbook_Paradigm_Definition]]
 [[Topology_Interconnect]]
 
 ## Sources

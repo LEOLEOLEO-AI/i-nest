@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[Agent_Interaction_Sequencing]]
 [[Allreduce_Latency_Probe]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
+[[Network_Topology_Design]]
 [[Pods4Rail_Topology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]

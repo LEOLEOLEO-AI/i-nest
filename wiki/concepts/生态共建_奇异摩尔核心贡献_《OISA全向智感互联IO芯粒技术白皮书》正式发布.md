@@ -22,6 +22,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[1024_Card_SuperNode]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 [[iNEST]]
+[[新加坡IME_多芯粒异构集成互连技术]]
+[[芯粒破局_互联筑基_奇异摩尔超节点互联芯粒获评_2025年度上海算力产业十大经典案例_]]

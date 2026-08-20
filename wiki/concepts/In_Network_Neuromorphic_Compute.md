@@ -20,8 +20,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3D_Heterogeneous_Integration]]
 [[AI_FullSpectrum_Strategy]]
 [[BioPlausiblePredictiveCoding]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NestedRepresentation]]
+[[Network_Specific_Embedding_Separation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]

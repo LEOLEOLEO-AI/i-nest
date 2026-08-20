@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralPrecision]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReliabilityOverheadTradeoff]]
 [[iNEST]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveBitPrecisionExploration]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[CoPackagedOptics]]
 [[FlagOS_2_0]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Signal_Folding]]
 [[TCC]]
+[[TopologyAwareStateMigration]]
 [[iNEST]]
 
 ## Sources

@@ -1,0 +1,107 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-08-20 06:30
+============================================================
+[06:30:01] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:19]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:30:19] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:30:23]   arXiv skip irrelevant: Delegation Asymmetry in Agentic Recommender Systems: Measuri
+[06:30:23]   arXiv skip irrelevant: Judge, Retrieve, or Abstain: Uncertainty-Guarded LLM Judging
+[06:30:23]   arXiv skip irrelevant: Atomistic Structure Generation and Neural-Network Screening 
+[06:30:31]   arXiv skip irrelevant: Sublime Transfer Printing of Three-Dimensional Nanostructure
+[06:30:31]   arXiv skip irrelevant: Label-Free Deep-Tissue Peripheral Nerve Detection with a Han
+[06:30:37]   arXiv skip irrelevant: Quantum Geometric Tensor Preconditioning for Stable Training
+[06:30:37]   arXiv skip irrelevant: Robust Orbital Angular Momentum Transfer Using low-cost Diff
+[06:30:37]   arXiv skip irrelevant: Observation of magnetic quantum phase crossovers in a semico
+[06:30:43]   arXiv skip irrelevant: Why GPT-Style Models Do Not Directly Transfer to Symbolic Mu
+[06:30:43]   arXiv skip irrelevant: Simplicial closure fragments the explosive cooperation trans
+[06:30:43]   arXiv skip irrelevant: Area-Preserving Parameterization: Variational Principle, Gra
+[06:30:49]   arXiv skip irrelevant: Steady-State Equivalent Circuit Model for Data Center Loads
+[06:30:49]   arXiv skip irrelevant: Trust Without Boundaries: An Architectural Analysis of Satel
+[06:30:49]   arXiv skip irrelevant: Equivariant learning of a transferable three-dimensional cla
+[06:30:54]   arXiv: batch separator, pausing 10s...
+[06:31:04]   arXiv skip irrelevant: Global Optimization of Flexible District Heating Networks
+[06:31:04]   arXiv skip irrelevant: Deep Reinforcement Learning Orchestration of Game-Theoretic 
+[06:31:04]   arXiv skip irrelevant: Nanocavity Confinement by Orthogonal Valley- and SSH- Topolo
+[06:31:10]   arXiv skip irrelevant: HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouti
+[06:31:10]   arXiv skip irrelevant: A Black-Box Workload Barrier for Exact Girth via Multi-Scale
+[06:31:32]   Insight [2/3]: The Road Less Traveled: Congestion-Aware NoC Place...
+[06:31:37]   arXiv skip irrelevant: Critical behavior and crossover scaling in the Light-Heavy m
+[06:31:37]   arXiv skip irrelevant: Physics-Informed Learning of Probabilistic Gegenbauer Recons
+[06:31:37]   arXiv skip irrelevant: AViTS: Adaptive Spatiotemporal Token Selection for Efficient
+[06:31:44]   arXiv skip irrelevant: Scale Partitioning by Incremental Nested Entropy: A Measure-
+[06:31:44]   arXiv skip irrelevant: KOALA: Koopman Operator Learning for WiFi-Based Anticipatory
+[06:31:44]   跳过重复: Phase Space Reorganization and Travelling Wave Eme... [Title: Phase Space Reorganization and Travelling Wave Emergence Driven by Non-Kerr Effe]
+[06:31:53]   arXiv skip irrelevant: NeuroPath: Brain-Inspired Dual-Pathway Graph Convolutional N
+[06:31:53]   Insight [1/3]: Noisy group neurons with synchronous resetting for...
+[06:31:53]   arXiv skip irrelevant: Integrated Heat and Power System Scheduling with Continuous-
+[06:31:58]   arXiv: batch separator, pausing 10s...
+[06:32:11]   arXiv skip irrelevant: Energy-efficient, Reconfigurable Optoelectronic Artificial S
+[06:32:11]   Insight [1/3]: Parallel Spatial Photonic Programming of Optoelect...
+[06:32:18]   arXiv skip irrelevant: Delegation Asymmetry in Agentic Recommender Systems: Measuri
+[06:32:18]   arXiv skip irrelevant: Dressed magnon dynamics in a Bose-Hubbard bath: retardation,
+[06:32:18]   arXiv skip irrelevant: LinCa: Accelerating Diffusion Models via Learnable Decompose
+[06:32:24]   arXiv skip irrelevant: Minimizing Commit Rules for DAG-based Atomic Broadcast
+[06:32:24]   arXiv skip irrelevant: Multivalued Consensus: General Adversaries Require More Comm
+[06:32:24]   arXiv skip irrelevant: ETHEREAL: A 25.6-$μ$s/inf. Low-latency Event-driven Graph-ne
+[06:32:31]   arXiv skip irrelevant: MoRAX: Mobility-based Representation Augmentation for Geospa
+[06:32:31]   arXiv skip irrelevant: Scale Partitioning by Incremental Nested Entropy: A Measure-
+[06:32:31]   arXiv skip irrelevant: Dormancy stabilizes non-transitive competitive dynamics
+[06:32:59]   Insight [1/3]: Simplicial closure fragments the explosive coopera...
+[06:32:59]   Insight [1/3]: Incidence-based random walks on simplicial complex...
+[06:32:59]   arXiv skip irrelevant: Simplicial Actions for Distributed Protocols
+[06:33:04]   arXiv: batch separator, pausing 10s...
+[06:33:21]   Insight [1/3]: The Organization of Environmental Coupling Shapes ...
+[06:33:26]   arXiv skip irrelevant: Small-world structure of quantum computer hardware
+[06:33:32]   arXiv skip irrelevant: An Emulation Anchored Digital Twin Testbed for Cyberattack a
+[06:33:32]   arXiv skip irrelevant: Physically Consistent Channel Modeling and Signal Processing
+[06:33:32]   arXiv skip irrelevant: Crossover from Fast Scrambling to Operator Confinement Tuned
+[06:33:43]   arXiv: batch separator, pausing 10s...
+[06:33:53]   Insight [1/3]: Declining Modularity of Intellectual Bases During ...
+[06:33:53]   arXiv skip irrelevant: Rare-event sampling for stochastic dynamics in network syste
+[06:33:53]   arXiv skip irrelevant: Small-world structure of quantum computer hardware
+[06:33:58] [arXiv] 7 new papers, 0 errors across 21 queries
+[06:33:58] [GN] Google News RSS...
+[06:36:04]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:38:12]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:40:19]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:42:26]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:42:27] [GN] 0 new articles
+
+  Total: 7 new items to inbox
+[06:42:27] [Process] LLM classify (free tier, limit=20)...
+[06:42:27] [Process] Classified: 0
+[06:42:27] [Genspark] Generating research brief...
+[06:42:28] [Genspark] Research brief written: genspark_research_brief.md
+[06:42:28] [Graph] Scanning wiki links...
+[06:42:28] [Graph] 10368 files, 100917 links
+[06:42:48] [Graph] Exported: 10368 nodes, 97776 edges
+[06:42:48] [Graph] 0 missing backlinks
+Exception in thread Thread-1 (_readerthread):
+Traceback (most recent call last):
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 1515, in _readerthread
+    buffer.append(fh.read())
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa1 in position 19: invalid start byte
+[06:43:10] [DailyGen] Daily_Action + Focus + Insights generated
+[06:43:10] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+7(arXiv)+0(GN) | Written: 7 new papers
+  Processed: 0 | Nodes: 10368 edges: 97776 | Missing links: 0 | Genspark: OK
+  Elapsed: 788s
+============================================================
+[06:43:10] [State] research_state.json updated
+[06:43:10] [Evolution] Evidence + hypotheses updated
+[06:44:10] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[06:44:11] [Insight] Cross-domain bridges updated
+[06:44:21] [Tasks] Research recommendations updated
+[06:44:21] [Dashboard] Live dashboard published
+[06:44:21] [Homepage] Home.md auto-refreshed

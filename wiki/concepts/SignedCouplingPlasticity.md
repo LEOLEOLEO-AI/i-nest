@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]
 [[Biomanufacturing_Control_Loop]]
+[[BranchingRatio]]
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]

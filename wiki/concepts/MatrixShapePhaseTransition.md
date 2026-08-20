@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

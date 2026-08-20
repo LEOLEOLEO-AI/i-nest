@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Contested_Prior_Resolution]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]

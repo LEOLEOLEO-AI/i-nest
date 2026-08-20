@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
 [[GeometricNeuromorphicFusion]]
+[[GradientBasedLearningLocalization]]
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

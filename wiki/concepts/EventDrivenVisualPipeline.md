@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalPipeline]]
 [[EventDrivenMotionDeblurring]]
 [[GeometricNeuromorphicFusion]]
+[[GradientBasedLearningLocalization]]
+[[ImageToEventConversion]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogDomainCompression]]
 [[Avalanche_Dynamics]]
+[[BigBrainCellularAxis]]
 [[CriticalityConstrainedPruning]]
 [[CriticalityDrivenAdaptation]]
 [[Criticality_Induced_Plasticity]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[NestedRepresentation]]
 [[NetworkArchitectureSearch]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

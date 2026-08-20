@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Bosonic_SPT_Phases]]
+[[CategoricalClosureCriterion]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

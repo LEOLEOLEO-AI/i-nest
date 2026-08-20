@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[P_Paradigm]]
+[[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_Topology]]

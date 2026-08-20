@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BackpropFree_Learning]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
 [[CST_SynergisticCoordination]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

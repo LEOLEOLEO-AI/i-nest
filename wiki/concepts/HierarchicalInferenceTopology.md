@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
+[[GlobalInformationDominance]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AutonomousAdaptation]]
 [[BrainActivityPrediction]]
+[[Chiplet_Integration_Route]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Loihi2_OnChip_Learning]]

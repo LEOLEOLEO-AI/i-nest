@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[ExtrinsicAnomalousHallConductivity]]
 [[FatalityDrivenRewiring]]
+[[FreeFermionTopologicalInvariant]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]

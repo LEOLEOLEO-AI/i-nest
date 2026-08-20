@@ -29,6 +29,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ANN动力学]]
 [[Analog_Computation]]
 [[BCM滑动阈值]]
+[[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Complex_System]]

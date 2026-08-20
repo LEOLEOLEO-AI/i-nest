@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Theory]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[JunctionCenteredFramework]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NCL神经计算定律详解]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 

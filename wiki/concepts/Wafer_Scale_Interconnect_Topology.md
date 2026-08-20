@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

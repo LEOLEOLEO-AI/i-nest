@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactFieldVariable]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[DiagnosticReportFramework]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SelfOrganization]]

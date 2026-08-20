@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[Free_Energy_Principle_Network]]
 [[GeometricNeuromorphicFusion]]
+[[In_Network_Neuromorphic]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]

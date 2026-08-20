@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
+[[Contested_Prior_Resolution]]
 [[CriticalityConstrainedPruning]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]

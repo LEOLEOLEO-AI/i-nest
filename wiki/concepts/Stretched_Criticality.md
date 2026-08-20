@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Beyond_Moore_Packaging_Strategy]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[Dynamic_Expert_Fusion]]

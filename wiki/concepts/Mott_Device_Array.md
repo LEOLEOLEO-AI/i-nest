@@ -21,13 +21,19 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CST_Exponential_Gain]]
+[[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[FerroelectricSemiconductorReservoir]]
+[[Ferroelectric_Devices]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Neural_Network_Quantum_State_Transfer_Learning]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
+[[Reservoir_Computing]]
+[[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

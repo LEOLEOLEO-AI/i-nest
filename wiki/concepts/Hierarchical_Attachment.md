@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[Dynamic_Expert_Fusion]]
 [[FPGA_Neuromorphic_Architectures]]
+[[HierarchicalNetworkPartitioning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

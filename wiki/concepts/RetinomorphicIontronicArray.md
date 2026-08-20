@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
+[[AvalancheTriggeringMechanism]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

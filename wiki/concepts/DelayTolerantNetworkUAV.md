@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[RedundancyControlledStochasticRouting]]
+[[ScalableNeuromorphicTopology]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[iNEST]]

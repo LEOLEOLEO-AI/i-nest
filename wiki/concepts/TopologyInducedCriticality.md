@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
+[[OptimalRepresentation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Anisotropic_Correlation_Length]]
 [[Architectural_Conditioning]]
+[[ComplexValuedSNN]]
 [[DistributedTrainingCommunicationPattern]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AutogradCompatibleSpiking]]
 [[AutomatedQuantizationFramework]]
 [[BiSpikCLM]]
+[[BioPlausibleDisturbanceEstimation]]
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]

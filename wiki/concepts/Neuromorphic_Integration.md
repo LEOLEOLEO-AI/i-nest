@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FoveationGuidedTokenSelection]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MoE_Routing]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

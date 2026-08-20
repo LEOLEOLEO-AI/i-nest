@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
+[[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[ReconfigurableSpikingRouting]]

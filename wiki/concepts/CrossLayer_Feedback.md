@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentPhaseTransition]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGABasedNeuromorphic]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

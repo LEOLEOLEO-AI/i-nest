@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
+[[InterfaceCentricTopology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]

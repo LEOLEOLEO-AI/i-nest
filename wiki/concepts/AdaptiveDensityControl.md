@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
 [[Decoupling_Mechanism]]
+[[EnsembleSparsity]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]

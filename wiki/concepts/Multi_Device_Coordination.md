@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActiveInferenceEdgeLoop]]
+[[ActiveInference]]
 [[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[MultiModel_Adapter_Architecture]]
+[[National_Innovation_Center_Framework]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

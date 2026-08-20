@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
+[[InNetworkAgentRewiring]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]

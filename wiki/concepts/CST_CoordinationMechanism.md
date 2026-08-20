@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[ScaleFreeNetwork]]
+[[ShortTermMemory]]
 [[TCC]]
 [[iNEST]]
 [[智能涌现]]

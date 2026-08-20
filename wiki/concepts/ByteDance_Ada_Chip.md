@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Independent_EdgeAI_Player_Endgame]]
 [[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]
+[[Memristive_STDP]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Framework]]
 [[Network_on_Chip]]

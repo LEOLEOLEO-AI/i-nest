@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[Dynamic_Expert_Fusion]]
 [[Express_Link_Virtualization]]
+[[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

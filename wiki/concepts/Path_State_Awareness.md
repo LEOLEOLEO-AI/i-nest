@@ -23,12 +23,15 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[Adaptive_Service_Reconfiguration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

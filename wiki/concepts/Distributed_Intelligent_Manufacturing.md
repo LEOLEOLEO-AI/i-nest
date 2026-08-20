@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[OpenLearningEcosystem]]
 [[RecursiveSelfReferentialArchitecture]]
+[[StochasticMultiAgentRL]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]

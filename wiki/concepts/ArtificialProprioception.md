@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_To_Information_Conversion]]
 [[ClosedLoopNeuromorphicControl]]
 [[Neuromorphic_Computing]]
+[[StochasticVehicleRouting]]
 [[Trustworthiness_Aware_Training]]
 [[iNEST]]
 

@@ -35,7 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[PathIntegration]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CirculateFiringNeuron]]
 [[CollectiveDynamics]]
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]

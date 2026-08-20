@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
+[[Neural_Field_World_Model]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Mesh]]
 [[Self_Organized_Criticality]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[AstrocyteInspiredRepair]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]

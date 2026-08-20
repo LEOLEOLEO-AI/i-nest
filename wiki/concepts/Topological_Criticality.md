@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Transition]]
 [[Disorder_Anomaly_Duality]]
 [[Emergent_Intelligence_Threshold]]
+[[FormalLinguisticCompetence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[Emergent_Intelligence_Threshold]]

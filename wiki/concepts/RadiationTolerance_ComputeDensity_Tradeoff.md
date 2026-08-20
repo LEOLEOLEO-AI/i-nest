@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
+[[InterChipletPHYModeling]]
 [[InverseDesignedPhotonicAccelerator]]
 [[LargeScalePhotonicIntegration]]
 [[Network_Topology_Design]]

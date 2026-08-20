@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Cryogenic_Syndrome_Compression]]
 [[Dynamic_Expert_Fusion]]
+[[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalGeneralisationNearInterpolation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikePacketCompression]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

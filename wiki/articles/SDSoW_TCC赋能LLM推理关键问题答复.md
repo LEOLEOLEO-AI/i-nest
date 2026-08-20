@@ -17,6 +17,7 @@ SDI, TCC, 互连, 拓扑, 晶圆, 芯粒
 ## Related Concepts
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDSoW]]

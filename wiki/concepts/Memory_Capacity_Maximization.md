@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhotoInducedCurrent]]
+[[Physical_Reservoir_Substrate]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]

@@ -21,12 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferInterconnectScaling]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
+[[National_Mesoscale_Innovation_Center]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

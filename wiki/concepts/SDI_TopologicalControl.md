@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Fabric]]
+[[Chiplet_Stacking]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Topology_Mapping]]

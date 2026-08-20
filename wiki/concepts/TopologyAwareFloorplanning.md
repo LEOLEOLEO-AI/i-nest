@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chip_Floorplanning]]
+[[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[HybridConvexOptimization]]
 [[Memristive_Topology]]

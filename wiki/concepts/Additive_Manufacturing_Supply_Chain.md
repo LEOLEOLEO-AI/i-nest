@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[FrequencyAdaptationMechanism]]
 [[GSK_Summarize]]
+[[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[MultiModel_Adapter_Architecture]]

@@ -27,8 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[EEGToNeuromorphicMapping]]
 [[EmergentOrder]]
 [[Free_Energy_Principle_Network]]
+[[FrozenRateOperator]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

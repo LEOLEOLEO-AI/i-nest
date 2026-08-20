@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_SNN_Inference]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MarginalContributionFitness]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

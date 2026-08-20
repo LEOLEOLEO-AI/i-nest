@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Packaging]]
 [[Heterogeneous_Integration]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SparsityAwareInterconnect]]
 [[TCC]]
 [[iNEST]]
 

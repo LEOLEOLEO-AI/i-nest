@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ContactOpportunityExploitation]]
 [[DerivativeLineage]]
 [[DoobBarrierConditioning]]
+[[EarlyVisualAlignment]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

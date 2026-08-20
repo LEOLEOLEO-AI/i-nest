@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AddressRedundancyElimination]]
+[[CurrentInjectionSNN]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]

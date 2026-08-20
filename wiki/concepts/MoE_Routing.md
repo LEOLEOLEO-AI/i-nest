@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[Adaptive_Service_Reconfiguration]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[AnisotropicSymmetryBreaking]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[EventDrivenModularArchitecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FPGA_Neuromorphic_Acceleration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Master_SDDE]]

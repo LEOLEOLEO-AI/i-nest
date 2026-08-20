@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[VectorQuantizedSpikeEncoding]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]
 [[Brain_Connectome]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCellularAxis]]

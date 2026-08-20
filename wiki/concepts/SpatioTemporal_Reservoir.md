@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Compressed_Glass_Network]]
+[[Crystallized_Neural_Manifolds]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[GateBasedQuantumReservoir]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Topological_Reservoir]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

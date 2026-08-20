@@ -22,6 +22,12 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[BCM滑动阈值]]
+[[Branch_Prediction]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PhysicalReservoirDynamics]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[TCC]]
 [[iNEST]]
 

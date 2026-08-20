@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CircadianGateModulation]]
 [[CirculateFiringNeuron]]
+[[Contested_Prior_Resolution]]
 [[Developmental_Computing]]
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

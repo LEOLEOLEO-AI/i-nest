@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[Topology_Centric_Computing]]
+[[Topology_Centric_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

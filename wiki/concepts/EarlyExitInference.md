@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[EfficientDeepLearning]]
 [[ElectromigrationReliability]]
+[[EmergentIntelligence_Spacetime]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]

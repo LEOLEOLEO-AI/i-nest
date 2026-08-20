@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[Photonic_Chiplet_Interconnect]]

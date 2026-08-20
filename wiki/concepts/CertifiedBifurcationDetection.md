@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[Free_Energy_Topology_Mapping]]
 [[IntervalAnalysis]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

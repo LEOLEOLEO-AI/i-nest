@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DissipativePhaseTransition]]
 [[DynamicReconfigurationForFaultTolerance]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentPhaseTransition]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

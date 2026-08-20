@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Neuromorphic_Acceleration]]
 [[Free_Energy_Topology_Mapping]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

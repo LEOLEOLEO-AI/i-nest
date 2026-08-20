@@ -22,8 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Priors_Mechanism]]
+[[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]
 [[Memristor_Synapse]]
+[[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[Neuromorphic_computing_architecture]]
 [[SNN]]

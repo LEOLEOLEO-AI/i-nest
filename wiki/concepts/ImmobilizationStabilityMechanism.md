@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarFabricTopology]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[EntangledCriticality]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

@@ -20,5 +20,6 @@ SDI, STDP, TCC, iNEST, neuromorphic, topology, 互连, 拓扑, 类脑
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

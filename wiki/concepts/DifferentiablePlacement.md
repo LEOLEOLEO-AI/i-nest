@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CSI_Temporal_Encoding]]
 [[Chip_Floorplanning]]
 [[Communication_Trace_Diagnostics]]
 [[CongestionAwareLoss]]

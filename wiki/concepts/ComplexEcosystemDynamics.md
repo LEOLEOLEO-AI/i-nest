@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Architecture]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
@@ -43,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[LatencyGradientDescent]]
 [[MembranePotentialModulation]]
 [[Network_Topology_Design]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[PhaseLockedTopologyMapping]]
 [[Reservoir_Computing]]
 [[SNN]]

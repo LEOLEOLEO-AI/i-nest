@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[CirculateFiringNeuron]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

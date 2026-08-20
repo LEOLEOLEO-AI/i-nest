@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
+[[FPGA_Neuromorphic_Architectures]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
+[[BrainScaleTopologyExploitation]]
 [[CollectiveDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]

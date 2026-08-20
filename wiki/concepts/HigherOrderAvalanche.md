@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[CriticalityDrivenAdaptation]]
 [[DataDrivenCellularAxis]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]

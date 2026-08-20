@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-08-17
-date: 2026-08-17
+title: iNEST+TCC Research Brief - 2026-08-20
+date: 2026-08-20
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-08-17
+# iNEST + TCC Research Brief - 2026-08-20
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,19 +33,19 @@ target: genspark
 
 ## 4. Inbox Highlights
 
+- [2026-08-20] **2026-08-20_arXiv_Declining Modularity of Intellectual Bases During the Emerge** (_pipeline_insights)
+- [2026-08-20] **2026-08-20_arXiv_The Organization of Environmental Coupling Shapes What Quant** (_pipeline_insights)
+- [2026-08-20] **2026-08-20_arXiv_Incidence-based random walks on simplicial complexes** (_pipeline_insights)
+- [2026-08-20] **2026-08-20_arXiv_Simplicial closure fragments the explosive cooperation trans** (_pipeline_insights)
+- [2026-08-20] **2026-08-20_arXiv_Parallel Spatial Photonic Programming of Optoelectronic IGZO** (_pipeline_insights)
+- [2026-08-20] **2026-08-20_arXiv_Noisy group neurons with synchronous resetting for high-perf** (_pipeline_insights)
+- [2026-08-20] **2026-08-20_arXiv_The Road Less Traveled Congestion-Aware NoC Placement and Pa** (_pipeline_insights)
 - [2026-08-15] **2026-08-15_arXiv_Dimension Reduction of Higher-Order Dynamical Networks** (_pipeline_insights)
-- [2026-08-15] **2026-08-15_arXiv_Lonic Algorithm-Hardware Co-Design for Energy-Efficient Full** (_pipeline_insights)
-- [2026-08-15] **2026-08-15_arXiv_Phase Space Reorganization and Travelling Wave Emergence Dri** (_pipeline_insights)
-- [2026-08-14] **2026-08-14_arXiv_Probing Impurity Quantum Criticality with Entanglement Witne** (_pipeline_insights)
-- [2026-08-13] **2026-08-13_arXiv_Threshold-Based Spiking Neural Networks for Event-Driven Sta** (_pipeline_insights)
-- [2026-08-12] **2026-08-12_arXiv_The Neural Division of Labor Biologically-Inspired Modular A** (_pipeline_insights)
-- [2026-08-12] **2026-08-12_arXiv_Reservoir Computing with Heterogeneous Magnetic Metamaterial** (_pipeline_insights)
-- [2026-08-12] **2026-08-12_arXiv_PTQ4SNN Membrane-Aware Post-Training Quantization for Spikin** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 10251
-Graph nodes: 10217 | edges: 90602
+Total notes: 10375
+Graph nodes: 10244 | edges: 90602
 
 Top connected topics:
 - **index** (degree=3382)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-08-17 08:22*
+*Research brief auto-generated 2026-08-20 06:42*

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
+[[Endocrine_Modulated_Network_State]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

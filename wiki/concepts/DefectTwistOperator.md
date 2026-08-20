@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
+[[Crystallized_Neural_Manifolds]]
 [[EdgeIoTEnergyAwareness]]
 [[ExplosiveTransitionThreshold]]
 [[Intelligence_Emergence]]

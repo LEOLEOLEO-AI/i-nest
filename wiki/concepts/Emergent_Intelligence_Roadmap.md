@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[BigBrainCellularAxis]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Priors_Mechanism]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]

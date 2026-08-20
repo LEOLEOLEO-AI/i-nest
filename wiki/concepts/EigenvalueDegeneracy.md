@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Crossbar_Programming]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]
+[[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

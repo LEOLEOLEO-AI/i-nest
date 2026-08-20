@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenAutoregression]]
+[[ModelOptimizationFederated]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]

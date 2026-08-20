@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityConstrainedPruning]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

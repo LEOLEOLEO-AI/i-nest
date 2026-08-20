@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[FoveationGuidedTokenSelection]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neural_Avalanche]]

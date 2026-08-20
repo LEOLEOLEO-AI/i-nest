@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
+[[EventCameraPoseInput]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[SpikeEncoding]]

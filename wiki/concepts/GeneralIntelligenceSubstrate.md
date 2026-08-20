@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DimensionalityReductionPrinciple]]
 [[Dynamic_Expert_Fusion]]
+[[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -36,8 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_TCC_Chiplet]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

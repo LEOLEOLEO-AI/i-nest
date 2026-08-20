@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
+[[Resilient_Satellite_Mesh]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

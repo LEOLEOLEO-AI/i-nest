@@ -27,7 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[Brain_Connectome]]
 [[CST计量仪]]
+[[Complex_System_Theory]]
 [[CriticalityDrivenLearning]]
+[[InNetworkNeuromorphicSimulation]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
 

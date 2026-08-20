@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[Baseline_Draft_Status]]
 [[BitPrecisionAwareScheduling]]
 [[CrossDomain_Synthesis]]
 [[Dynamic_Expert_Fusion]]

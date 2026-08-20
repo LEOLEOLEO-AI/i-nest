@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Perspective_Latents]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

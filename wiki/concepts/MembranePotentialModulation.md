@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[ErrorAmplificationLimits]]
 [[Fatigue_SpikePattern]]

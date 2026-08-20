@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationPrimitiveTopologyCoupling]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Priors_Mechanism]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

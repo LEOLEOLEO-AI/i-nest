@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Hypersonic_Weapon_Market_CAGR]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[MemoryEfficientSimulation]]
 [[NonEquilibriumComputing]]
 [[SDI_Bond]]

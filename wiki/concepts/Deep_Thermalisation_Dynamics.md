@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]
+[[ERI_2_0_Strategic_Framework]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[InSensorComputing]]

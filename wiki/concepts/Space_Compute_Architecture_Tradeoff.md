@@ -35,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
+[[Logic_Folding]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[TCC]]
 
 ## Sources

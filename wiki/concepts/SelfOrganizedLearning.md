@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Attention_Residuals]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BitPrecisionAwareScheduling]]
 [[Developmental_Computing]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

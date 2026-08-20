@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[FreeEnergyPrinciple]]
 [[Free_Energy_Topology_Mapping]]

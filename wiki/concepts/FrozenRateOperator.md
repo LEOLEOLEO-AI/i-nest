@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleSparsity]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]

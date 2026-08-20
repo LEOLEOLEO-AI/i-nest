@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveArchitecture]]
 [[BioInspired_Interception_Control]]
+[[BurstGatedRouting]]
 [[CriticalityDrivenAdaptation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

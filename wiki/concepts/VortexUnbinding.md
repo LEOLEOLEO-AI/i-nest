@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Interaction_Sequencing]]
 [[AutonomousSpikingDynamics]]
 [[Avoided_Criticality]]
+[[Baseline_Change_Record]]
 [[EventDrivenMotionDeblurring]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

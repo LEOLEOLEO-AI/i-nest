@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AnomalousSpinTransport]]
 [[CellEmergence]]
+[[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[DendriticReservoirState]]
 [[EdgeIoTEnergyAwareness]]

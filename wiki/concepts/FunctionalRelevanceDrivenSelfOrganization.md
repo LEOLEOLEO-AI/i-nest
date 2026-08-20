@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
+[[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibleManifoldReconfiguration]]
 [[Intelligence_Emergence]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[CriticalInertiaEstimation]]
 [[DTGA]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

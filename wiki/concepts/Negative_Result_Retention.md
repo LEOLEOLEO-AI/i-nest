@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveArchitecture]]
 [[AdaptivePhotonicRouter]]
+[[Adaptive_Service_Reconfiguration]]
 [[BackflowTransformation]]
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]

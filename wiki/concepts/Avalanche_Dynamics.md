@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousSpikingDynamics]]
 [[Avoided_Criticality]]
 [[CriticalityDrivenEfficientCoding]]
+[[CriticalityInNeuralNetworks]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraTemporalPipeline]]

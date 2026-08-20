@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[RenormalizationGroup_ScalingLaws]]
+[[Reservoir_Computing]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BranchingRatio]]
+[[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]

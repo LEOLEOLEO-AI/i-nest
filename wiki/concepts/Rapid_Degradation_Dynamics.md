@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactBosonDuality]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ContactOpportunityExploitation]]
 [[DerivativeLineage]]
 [[DoobBarrierConditioning]]
 [[Intelligence_Emergence]]

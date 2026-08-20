@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[QuantumKernelMethods]]
 [[ReconfigurableSpikingRouting]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[Representation_Learning_Generalization]]

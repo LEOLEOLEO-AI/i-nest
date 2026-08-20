@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[MetricComputationAuthenticity]]
+[[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Photonic_Chiplet_Interconnect]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_Derivation]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

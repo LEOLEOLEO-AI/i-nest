@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[MachineLearningNanomaterialDiscovery]]
+[[Metriplectic_Twin]]
 [[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]

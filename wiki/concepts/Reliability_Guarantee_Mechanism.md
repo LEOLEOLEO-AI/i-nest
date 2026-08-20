@@ -27,9 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CollectiveDynamics]]
 [[Complex_Network_Class_Brain_Computing]]
+[[Complex_System_Theory]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

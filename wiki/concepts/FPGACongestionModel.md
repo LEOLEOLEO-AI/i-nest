@@ -1,0 +1,38 @@
+---
+title: "FPGACongestionModel"
+type: concept
+domain: TCC
+created: 2026-08-21
+auto: true
+---
+
+# FPGACongestionModel
+
+**Domain**: TCC
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-21
+
+## Definition
+A mathematical or simulation-based model that quantifies link and router utilization in FPGA NoCs to predict hotspots and guide placement/routing decisions. Provides the predictive foundation needed to design congestion-aware topologies for TCC workloads with irregular communication patterns.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[CLINKAsCarrierPrimitive]]
+[[ChipletRoutingFabric]]
+[[ChipletWaferInterconnectScaling]]
+[[Chiplet_Interconnect_Topology]]
+[[CongestionAwareNoCPlacement]]
+[[CorticalTypeDiversity]]
+[[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[TCC]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

@@ -47,6 +47,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]

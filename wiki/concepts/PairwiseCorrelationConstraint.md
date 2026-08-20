@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[忆阻器]]
 [[神经网络]]
 
 ## Sources

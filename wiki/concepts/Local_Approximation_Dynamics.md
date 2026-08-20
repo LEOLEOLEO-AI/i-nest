@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]

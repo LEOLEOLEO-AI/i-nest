@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ImageToEventConversion]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[PowerLawScaling]]
 [[RealTimeImageToEventConversion]]
 [[SNN]]
 [[ST_SNN]]

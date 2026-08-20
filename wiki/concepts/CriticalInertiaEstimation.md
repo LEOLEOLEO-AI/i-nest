@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[EdgeAI_Market_Consolidation_Driver]]
+[[Heterogeneous_Integration]]
+[[In_Package_Interconnect_Trust]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[TCC]]

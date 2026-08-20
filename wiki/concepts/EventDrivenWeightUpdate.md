@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Consistency_Problem]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
+[[AvalancheBranchingRatio]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]

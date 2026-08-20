@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]

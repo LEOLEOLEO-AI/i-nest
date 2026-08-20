@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticBinaryDynamics]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh_Model]]
+[[UniversalIntelligence_Emergence]]
 [[iNEST]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BCM滑动阈值]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[EvolutionarySearch]]

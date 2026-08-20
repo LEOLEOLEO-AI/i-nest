@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Cognitive_Relapse_Architecture]]
 [[DTGA]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]

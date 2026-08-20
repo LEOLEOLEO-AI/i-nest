@@ -380,6 +380,97 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-08-15_arXiv_Phase Space Reorganization and Travelling Wave Emergence Dri.md"
       },
       "cached_at": "2026-08-15T08:22:23"
+    },
+    "b43b4be2fba5a530c1d17ba34af7651e84bdb866aa72198837633899ed2821cd": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "The Road Less Traveled: Congestion-Aware NoC Placement and Packet Routing for FP",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-20_arXiv_The Road Less Traveled Congestion-Aware NoC Placement and Pa.md"
+      },
+      "cached_at": "2026-08-20T06:43:10"
+    },
+    "98ef1d3e92f6f11f14176d2382a24abc9aab9aab82f770eabb007ae89e763224": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Noisy group neurons with synchronous resetting for high-performance spiking neur",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-20_arXiv_Noisy group neurons with synchronous resetting for high-perf.md"
+      },
+      "cached_at": "2026-08-20T06:43:10"
+    },
+    "834fde32d6175ea23da866c38a4e4e447bd1a24284aeba28f57bfc8ec943ea0c": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Parallel Spatial Photonic Programming of Optoelectronic IGZO RRAM with a compact",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-20_arXiv_Parallel Spatial Photonic Programming of Optoelectronic IGZO.md"
+      },
+      "cached_at": "2026-08-20T06:43:10"
+    },
+    "47941373531f3ef30229e85db2d1735a5153f83e1a627f7ac7adb787c33abc91": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "The Organization of Environmental Coupling Shapes What Quantum Reservoirs Rememb",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-20_arXiv_The Organization of Environmental Coupling Shapes What Quant.md"
+      },
+      "cached_at": "2026-08-20T06:43:10"
+    },
+    "ef3c4446e1b4d5f310080f5751b54c948020b51743be526dbcad119bcec50227": {
+      "analysis": {
+        "id": 5,
+        "title_zh": "Simplicial closure fragments the explosive cooperation transitions in higher-ord",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-20_arXiv_Simplicial closure fragments the explosive cooperation trans.md"
+      },
+      "cached_at": "2026-08-20T06:43:10"
+    },
+    "d81d4761d27a6754930c619c39d8ce42d4fca165eed2d468a764421f6eb2e4dc": {
+      "analysis": {
+        "id": 6,
+        "title_zh": "Incidence-based random walks on simplicial complexes",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-20_arXiv_Incidence-based random walks on simplicial complexes.md"
+      },
+      "cached_at": "2026-08-20T06:43:10"
+    },
+    "9ed5fb487465331e5706eb4b6ba5090e58ff2555a7ccd85a93676bcd8ac2f493": {
+      "analysis": {
+        "id": 7,
+        "title_zh": "Declining Modularity of Intellectual Bases During the Emergence of Research Area",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 2,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-20_arXiv_Declining Modularity of Intellectual Bases During the Emerge.md"
+      },
+      "cached_at": "2026-08-20T06:43:10"
     }
   }
 }

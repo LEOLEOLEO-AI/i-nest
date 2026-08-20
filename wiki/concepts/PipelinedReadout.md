@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
+[[GradientBasedSpikeLearning]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

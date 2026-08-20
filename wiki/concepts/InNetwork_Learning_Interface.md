@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
+[[FlexibilityThreshold]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveInference]]
 [[Active_Inference_Agent]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]
 [[FormalLinguisticCompetence]]
+[[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

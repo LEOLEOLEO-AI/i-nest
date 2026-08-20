@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[CommunicationAwareComputeRelocation]]
 [[CorticalTypeDiversity]]
+[[DTGA]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]

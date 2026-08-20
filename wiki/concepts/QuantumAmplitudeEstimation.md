@@ -28,8 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTravelingWave]]
 [[CorticalTravelingWaves]]
 [[CriticalStateInformationMaximization]]
+[[DirectTrainingSNN]]
 [[Interconnect_Routing]]
 [[QuadraticSpeedup]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

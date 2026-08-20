@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[NonvisualGroundClassification]]
 [[TCC]]
 [[Topology_Embedded_Field_Encoding]]
 [[WavelengthMultiplexedInterconnect]]

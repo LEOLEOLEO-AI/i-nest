@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Reserve_Index]]
 [[Catastrophic_Forgetting]]
 [[Catastrophic_Forgetting_Mitigation]]
+[[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]
 [[CounterstreamSignalPropagation]]
 [[Dynamic_Expert_Fusion]]

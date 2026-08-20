@@ -40,5 +40,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
+[[getnote_2026-01-12_低功耗智能新范式]]
 [[iNEST]]
 [[神经形态计算]]

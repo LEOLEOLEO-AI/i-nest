@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
+[[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -59,7 +60,9 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

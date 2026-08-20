@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveFeedbackLoop]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableEnergyAI]]
 [[FrozenRateOperator]]
 [[InNetworkAgentRewiring]]
 [[InNetwork_RL_Control]]

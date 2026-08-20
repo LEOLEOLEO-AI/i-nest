@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BigBrainCellularAxis]]
+[[Chiplet_Integration_Route]]
 [[Electronic_Warfare_Integration]]
 [[FatalityDrivenRewiring]]
 [[HodgkinHuxleyDynamics]]

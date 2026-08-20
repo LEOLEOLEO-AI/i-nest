@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[Scalable_Graph_Search_Neuromorphic]]
+[[Self_Organized_Criticality]]
 [[SpiNNaker2_Chip]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

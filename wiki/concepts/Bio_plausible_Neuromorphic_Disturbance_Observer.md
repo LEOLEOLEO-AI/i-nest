@@ -28,7 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[BrainBodyResonance]]
+[[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
+[[STDP_Plasticity]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

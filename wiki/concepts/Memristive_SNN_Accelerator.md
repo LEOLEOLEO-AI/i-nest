@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
+[[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]

@@ -21,14 +21,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DIntegratedPhotonicPackaging]]
+[[Accessibility_Plasticity]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Decoupling_Mechanism]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[PhononicBandgapEngineering]]
 [[PinAssignmentOptimization]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
 [[TCC]]
 
 ## Sources

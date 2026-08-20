@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[SDSoW]]
+[[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

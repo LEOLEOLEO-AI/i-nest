@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NestedLearning]]
 [[Nested_Learning_Paradigm]]
 [[NeuralNetworkSpectralAnalysis]]

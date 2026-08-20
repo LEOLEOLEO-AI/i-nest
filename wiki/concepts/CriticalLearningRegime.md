@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveArchitecture]]
+[[Adaptive_Service_Reconfiguration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AvalancheBranchingRatio]]

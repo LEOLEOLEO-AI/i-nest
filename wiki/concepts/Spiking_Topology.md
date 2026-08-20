@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[SynapticRewiringDynamics]]
 [[TCC]]
 [[Temporal_Coding]]
 [[iNEST]]

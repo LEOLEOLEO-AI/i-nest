@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenLearning]]
 [[CriticalityEntanglementIndex]]
 [[Criticality_Induced_Computation]]
+[[Criticality_Induced_Plasticity]]
 [[Criticality_of_Natural_Languages]]
 [[DisorderInducedCriticality]]
 [[DynamicalCriticality]]

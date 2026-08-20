@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[ActiveInferenceEdgeLoop]]
+[[ActiveInference]]
+[[AnomalousSpinTransport]]
 [[BulletTrainScheduling]]
 [[CSI_Temporal_Encoding]]
 [[Course_Based_FPGA_Projects]]

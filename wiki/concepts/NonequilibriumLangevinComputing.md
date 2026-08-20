@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[DifferentiableRasterizationPipeline]]
 [[Emergent_Reservoir_Topology]]
+[[EnsembleSparsity]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

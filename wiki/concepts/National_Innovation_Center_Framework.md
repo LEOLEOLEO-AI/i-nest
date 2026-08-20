@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActiveInferenceEdgeLoop]]
+[[ActiveInference]]
 [[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]
 [[ERI_2_0_Framework]]
+[[ElectronicPhotonicIntegratedCircuit]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]

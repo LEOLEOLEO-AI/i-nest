@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
+[[SwarmGradientRouting]]
 [[iNEST]]
 
 ## Sources

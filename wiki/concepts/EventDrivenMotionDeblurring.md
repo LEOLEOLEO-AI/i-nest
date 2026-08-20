@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Avoided_Criticality]]
+[[BulletTrainScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NonEquilibriumComputing]]
 [[PowerLawScaling]]
 [[RealTimeImageToEventConversion]]
@@ -42,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh_Model]]
 [[TwoTimescaleNeuroEvolution]]
+[[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

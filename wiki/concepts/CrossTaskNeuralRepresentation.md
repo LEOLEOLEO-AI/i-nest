@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
+[[EnsembleSparsity]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[IntracorticalNeuralDecoding]]

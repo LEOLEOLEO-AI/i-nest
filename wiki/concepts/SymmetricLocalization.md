@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[ChiralSymmetryClasses]]
+[[Communication_Trace_Diagnostics]]
 [[Deep_Thermalisation]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

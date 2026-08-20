@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[AttractorNeuralNetwork]]
 [[BCM滑动阈值]]
+[[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]

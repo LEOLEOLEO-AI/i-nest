@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Silicon_Photonic_Network]]
 [[TCC]]
 [[TSVEncapsulationStress]]
+[[TopologyAware_Routing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

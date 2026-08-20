@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
 [[NishimoriLine]]
+[[SelfOrganizationCriticality]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

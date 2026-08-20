@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[Second_Curve_Industry_Platform]]
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 

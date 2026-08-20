@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[BigBrainCellularAxis]]
+[[Biologically_Plausible_Learning_Rules]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Hypergraph_Label_Noise]]

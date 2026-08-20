@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[Distributed_Spike_Communication]]
+[[Efficient_Coding_Constraint]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]
 [[EventDrivenSensoryEncoding]]

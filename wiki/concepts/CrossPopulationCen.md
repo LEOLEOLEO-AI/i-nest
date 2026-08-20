@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ClinicalTranslationBridge]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

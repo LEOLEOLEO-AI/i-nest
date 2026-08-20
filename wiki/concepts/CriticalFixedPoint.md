@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]
+[[ComplexEcosystemDynamics]]
 [[Contested_Priors_Mechanism]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityOffCriticalityTransition]]

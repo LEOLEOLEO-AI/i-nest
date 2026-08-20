@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Packaging]]
 [[CoPoS]]
+[[EMIB_Bridge]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareLoss]]
 [[CriticalityDrivenStateTransition]]
 [[CytoarchitectonicAxis]]
+[[DTGA]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]

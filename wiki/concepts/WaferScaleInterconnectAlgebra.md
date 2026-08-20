@@ -26,15 +26,19 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
+[[Heterogeneous_Integration]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[SDSoW_TCC_Integration]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

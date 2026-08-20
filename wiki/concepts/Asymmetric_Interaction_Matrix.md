@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
 [[Attention_Residuals]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[BoundaryObject_Abstraction]]
 [[Complex_System]]
 [[Complex_System_Theory]]

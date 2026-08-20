@@ -24,8 +24,10 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[Γst_Revision]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

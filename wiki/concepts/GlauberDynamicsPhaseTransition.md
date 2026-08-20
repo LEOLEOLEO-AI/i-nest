@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalityOnSmallWorlds]]
+[[Criticality_Induced_Plasticity]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EdgeIoTEnergyAwareness]]

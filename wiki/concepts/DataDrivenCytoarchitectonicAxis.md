@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
+[[ConductingPolymerDendriteMemory]]
 [[CytoarchitectonicAxis]]
 [[DataProvenanceIntegrity]]
 [[DegreeDependentOpinionThreshold]]

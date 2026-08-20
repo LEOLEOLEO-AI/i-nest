@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Complex_System]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[PhotoInducedCurrent]]
 [[Physical_Reservoir_Substrate]]

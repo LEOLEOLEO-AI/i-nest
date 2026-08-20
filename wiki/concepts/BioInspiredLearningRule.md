@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
 
 ## Sources

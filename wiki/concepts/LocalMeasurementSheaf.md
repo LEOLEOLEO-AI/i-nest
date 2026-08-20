@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Crystallized_Neural_Manifolds]]
 [[DefectTwistOperator]]
 [[EdgeIoTEnergyAwareness]]
 [[ExplosiveTransitionThreshold]]

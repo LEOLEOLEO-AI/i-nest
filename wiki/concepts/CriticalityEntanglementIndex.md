@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Nanoencapsulation_Stability_Bioavailability]]
+[[NanomaterialFeatureEngineering]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

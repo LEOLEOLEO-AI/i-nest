@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[CMOS_Memristor_Devices]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletOpticalIO]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emerging_CMOS_Memristor]]

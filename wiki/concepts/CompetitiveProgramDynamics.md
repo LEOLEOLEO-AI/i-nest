@@ -27,8 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
+[[FlexibilityThreshold]]
 [[MIND_Model]]
 [[Neuromorphic_Computing]]
+[[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

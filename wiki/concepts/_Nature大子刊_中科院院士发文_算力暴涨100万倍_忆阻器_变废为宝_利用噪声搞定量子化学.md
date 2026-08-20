@@ -23,6 +23,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[_Nature子刊_储备池计算不再是_黑盒_Intel与加州伯克利联手打造_原则性_神经形态架构]]
@@ -30,3 +31,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[基于忆阻器的储备池图神经网络_RGNN_离子与电子相互作用高效建模研究]]
 [[忆阻器]]
 [[神经网络]]
+[[综述_革新神经形态计算：基于忆阻器的人工神经元]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
 [[ChaoticAttractorTopology]]
 [[Network_Topology_Design]]

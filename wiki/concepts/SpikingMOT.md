@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Avoided_Criticality]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenMultiObjectTracking]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[VonEconomoNeuron]]
 [[VonEconomoNeurons]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

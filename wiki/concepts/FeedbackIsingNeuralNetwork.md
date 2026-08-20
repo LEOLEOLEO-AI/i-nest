@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AutogradCompatibleSpiking]]
 [[AutomatedQuantizationFramework]]
 [[BiSpikCLM]]
+[[BioPlausibleDisturbanceEstimation]]
 [[CollectiveDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]

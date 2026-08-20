@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DimensionalityReductionPrinciple]]
 [[FractureMechanism]]
+[[GeneralIntelligenceSubstrate]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Pipelined_Processor]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Algorithmic_Warfare]]
 [[Amorphous_Amorphous_Transition]]
 [[AsynchronousEventDrivenComputation]]
+[[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[EventDrivenComputation]]
 [[Neuromorphic_Computing]]

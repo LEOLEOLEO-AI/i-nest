@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Air_Combat_Autonomy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Associative_Retrieval]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

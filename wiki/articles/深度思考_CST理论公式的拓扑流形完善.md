@@ -16,6 +16,7 @@ title: "深度思考：CST理论公式的拓扑流形完善" date: 2026-08-13 21
 
 ## Related Concepts
 
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[TCC]]

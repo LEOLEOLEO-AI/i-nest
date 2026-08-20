@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
+[[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

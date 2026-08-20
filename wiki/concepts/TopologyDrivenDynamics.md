@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

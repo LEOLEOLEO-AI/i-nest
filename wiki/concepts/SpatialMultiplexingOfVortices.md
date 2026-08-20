@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[CrystalPalace_Program]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

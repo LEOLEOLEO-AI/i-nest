@@ -40,9 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TemperatureSensitivityControl]]
 [[智能涌现]]
 [[涌现]]
 

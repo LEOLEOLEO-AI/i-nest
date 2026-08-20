@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Counterstream_Associative_Memory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[Deep_SNN_Trainability]]
+[[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]

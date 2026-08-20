@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ParallelSNNArchitecture]]
 [[Pipelined_Processor]]
 [[QuantumChaos]]
+[[ReconfigurableSpikingRouting]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

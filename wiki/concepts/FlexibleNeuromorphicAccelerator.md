@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CollectiveSpikingDynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[Endocrine_Modulated_Network_State]]
 [[EventDrivenModularArchitecture]]
 [[FPGA_SNN_Inference]]
 [[Intelligence_Emergence]]

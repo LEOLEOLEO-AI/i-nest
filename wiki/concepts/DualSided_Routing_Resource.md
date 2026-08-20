@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

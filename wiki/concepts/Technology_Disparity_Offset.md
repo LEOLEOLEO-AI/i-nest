@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NonHermitianTopology]]
 [[ParallelSNNArchitecture]]
 [[Photonic_Chiplet_Interconnect]]
+[[PolymerComposite_Substrate]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]

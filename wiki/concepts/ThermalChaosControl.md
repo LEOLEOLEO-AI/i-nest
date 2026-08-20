@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolutionCoupler]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
+[[BioInspiredLearningRule]]
 [[BrainScaleTopologyExploitation]]
 [[ChannelEventSparsity]]
 [[Free_Energy_Topology_Mapping]]

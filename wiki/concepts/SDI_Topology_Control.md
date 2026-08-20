@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDI_Topology]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[Software_Defined_Interconnect]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]

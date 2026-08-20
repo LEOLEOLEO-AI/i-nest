@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
 [[EntanglementAwareRouting]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

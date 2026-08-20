@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[GeneralizedReadoutMap]]
+[[HybridResistiveMemoryCIM]]
 [[InNetworkSignalRecovery]]
 [[Memristor_Device]]
 [[Memristor_Reservoir_Computing]]

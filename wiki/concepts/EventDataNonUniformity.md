@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Revolution]]
 [[NonEquilibriumComputing]]
+[[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

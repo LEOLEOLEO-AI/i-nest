@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[FunctionalHardwareComposition]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]

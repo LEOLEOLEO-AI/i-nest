@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BeyondVonNeumannArchitecture]]
+[[CrossDomain_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]

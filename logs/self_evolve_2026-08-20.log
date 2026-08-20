@@ -21,3 +21,46 @@
 [self_evolve] 运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...
 [self_evolve] 健康自检: 笔记 9140 | 真正断链 1999 | 孤儿 2472 | 缺FM 370 -> vault_health.md
 [self_evolve] 自我生长: 补全高频缺失概念占位笔记...
+[self_evolve] 已补全 10 个缺失概念: ['关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议_1', '多突触神经元模型问世，国内团队打造类脑计算新引擎，登上《自然·通讯》', '工程技术系统发展路线与分类 (1)', '硅基世界的“缘分”——系统与人工智能携手进化_-_Microsoft_Research (1)', 'Nature综述_大规模类脑计算的机遇与挑战', '人物_从“争气机”到晶上革命，他为何成为芯片领域的“破局者”？', '第三届集成芯片和芯粒大会_大会日程抢先看，16场技术论坛重磅推出', '_物理学评论_从神经网络中推断高阶交互关系', '韩银和研究员：芯粒集成芯片研究现状和趋势_【争鸣讲坛】第二期', 'Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR']
+[self_evolve] 运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...
+[self_evolve] import_processor 退出码=0 | cessor ===
+[03:08:19] Genspark dir not found, skipping
+[03:08:19] Imported: Genspark=0, 得到大脑=0, Codex=0
+[03:08:19] Total new files in raw/: 0
+[03:08:19] Inbox pending: 0 files
+[03:08:19] === Done ===
+
+[self_evolve] task_recommender 退出码=0 | sights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+[03:08:32] === Done ===
+
+[self_evolve] research_evolution 退出码=0 | [03:08:32] === Research Evolution Engine ===
+[03:08:32] Hypothesis updates: 0
+[03:08:32] Research directions: 0
+[03:08:32] Report: wiki/evolution_report.md
+[03:08:32] === Done ===
+
+[self_evolve] cross_domain_insight 退出码=0 | ctrolyte_Bonding_Engineering, FeFET_Polarization_Switching, FerroelectricSynapticArray
+
+Cross-domain articles: 1
+  晶上系统控制面问题答复 (TCC:4 iNEST:2)
+
+Report: D:\Obsidian\vault\wiki\cross_domain_insights.md
+
+[self_evolve] 刷新 Home.md (实时 git)...
+[self_evolve] homepage 退出码=0 | [03:08:33] === Homepage Generator ===
+[03:08:34] 70_Dashboard/data.js generated
+[03:08:34] Home.md generated (5358 chars)
+[03:08:34] === Done ===
+
+[self_evolve] git add 部分目录无匹配(正常): The following paths are ignored by one of your .gitignore files:
+knowledge_graph
+hint: Use -f if you
+[self_evolve] 已提交 3520 个文件。
+[self_evolve] push 失败, 尝试 pull --no-rebase 后重推: behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+

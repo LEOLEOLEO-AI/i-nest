@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[OnDeviceInference]]

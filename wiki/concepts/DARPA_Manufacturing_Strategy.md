@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[Material_Circularity]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[OpenCodex_Upgrade_Path]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

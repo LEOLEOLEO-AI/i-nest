@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGASpikeImplementation]]
+[[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[MemristiveSynapse]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

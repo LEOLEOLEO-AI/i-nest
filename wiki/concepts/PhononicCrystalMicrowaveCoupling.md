@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
+[[InverseDesignedPhotonicRouting]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[OpticalNeuralNetworkTopology]]

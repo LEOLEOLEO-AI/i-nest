@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveInference]]
 [[AnomalousSpinTransport]]
 [[Battlefield_AI_Deployment]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Framework]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[OpenCodex_Upgrade_Path]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]

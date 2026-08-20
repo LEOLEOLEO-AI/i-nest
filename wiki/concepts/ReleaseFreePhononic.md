@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InterChipletPHYModeling]]
 [[MemoryEfficientSimulation]]
 [[Network_Topology_Design]]
+[[NichePreservationMechanism]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]

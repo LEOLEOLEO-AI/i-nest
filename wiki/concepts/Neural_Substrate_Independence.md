@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Brain_Connectome]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[IntrinsicDynamicsAutonomy]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

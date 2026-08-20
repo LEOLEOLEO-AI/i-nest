@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[FPGA_Prototype_Validation]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]

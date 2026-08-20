@@ -23,5 +23,6 @@ iNEST
 
 ## Related Concepts
 
+[[ActiveInference]]
 [[FreeEnergyPrinciple]]
 [[iNEST]]

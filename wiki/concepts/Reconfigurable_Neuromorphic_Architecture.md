@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DissipativePhaseTransition]]
 [[DynamicReconfigurationForFaultTolerance]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentPhaseTransition]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Reconfigurability]]
 [[Intelligence_Emergence]]

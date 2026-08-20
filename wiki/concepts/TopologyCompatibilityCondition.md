@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogDomainCompression]]
 [[AndersonTransition]]
+[[AvalancheBranchingRatio]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[CrossLayer_SignalRouting]]
 [[Decoupled_Priors]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
 [[GeometricNeuromorphicFusion]]
 [[In_Package_Neuromorphic_Integration]]

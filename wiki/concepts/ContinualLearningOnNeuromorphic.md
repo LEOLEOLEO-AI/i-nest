@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousSpikingDynamics]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioPlausiblePredictiveCoding]]
 [[Catastrophic_Forgetting]]
 [[Edge_Intelligence]]
 [[Emergent_Intelligence_Threshold]]

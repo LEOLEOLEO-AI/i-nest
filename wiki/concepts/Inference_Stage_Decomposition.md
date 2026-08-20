@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Decoupling_Mechanism]]
 [[Heterogeneous_Integration]]

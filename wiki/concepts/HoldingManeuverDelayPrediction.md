@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
+[[Contested_Prior_Resolution]]
 [[CrossInstitutionalNetwork]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]

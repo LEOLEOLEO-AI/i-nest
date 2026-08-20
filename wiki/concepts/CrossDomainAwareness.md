@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[QuantumKernelMethods]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ScaleFreeNetwork]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

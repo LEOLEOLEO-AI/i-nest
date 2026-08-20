@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[QuantumKernelMethods]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroupFlow]]
 [[TCC]]

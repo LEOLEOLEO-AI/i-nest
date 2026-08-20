@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReliabilityOverheadTradeoff]]
 [[Soldier_Augmentation_BioCyber_Interface]]

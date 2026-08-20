@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticalNeuralNetworkTopology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SparseTemporalEncoding]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonHermitianTopology]]

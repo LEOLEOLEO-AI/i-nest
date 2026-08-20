@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[Continual_Learning_Modularity]]
 [[CriticalityDrivenStateTransition]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

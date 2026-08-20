@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterfaces]]
 [[Causal_Emergence]]
+[[Core_Spacetime_Tensor]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

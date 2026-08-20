@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Integration]]
 [[Memristive_Topology]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

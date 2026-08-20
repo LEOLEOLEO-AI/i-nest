@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]
+[[SwarmGradientRouting]]
 [[TCC]]
 [[iNEST]]
 [[神经网络]]

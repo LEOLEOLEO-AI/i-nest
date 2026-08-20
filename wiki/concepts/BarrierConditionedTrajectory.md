@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Resilient_Satellite_Mesh]]

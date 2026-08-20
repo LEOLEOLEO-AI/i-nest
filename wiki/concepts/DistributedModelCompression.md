@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SensorMemoryCoLocation]]
 [[SpikingNeuralNetworkTopology]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

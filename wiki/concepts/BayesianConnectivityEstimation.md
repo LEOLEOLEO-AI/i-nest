@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EntangledCriticality]]
 [[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]
+[[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

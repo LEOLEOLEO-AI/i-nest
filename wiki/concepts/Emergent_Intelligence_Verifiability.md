@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicEmergence]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]

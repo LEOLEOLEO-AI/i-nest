@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[AnalogDomainCompression]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Reservoir_Topology]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
 [[iNEST]]

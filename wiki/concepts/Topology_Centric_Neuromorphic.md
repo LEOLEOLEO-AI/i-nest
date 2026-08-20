@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[EarlyExitInference]]
 [[EfficientDeepLearning]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

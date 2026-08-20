@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DerivativeLineage]]
 [[DoobBarrierConditioning]]
 [[EarlyVisualAlignment]]
+[[EngineeringConstraint_Complement]]
 [[FibonacciMonitoredDynamics]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

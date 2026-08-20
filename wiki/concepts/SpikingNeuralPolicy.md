@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[ContinuousTimeSNN]]
 [[DelayAwareSpikeEventDelivery]]
+[[Delay_Aware_Autograd_Spiking_Framework]]
 [[EnergyEfficientSNN]]
 [[EventDrivenAutoregression]]
 [[EventDrivenInference]]

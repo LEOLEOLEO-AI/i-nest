@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BrainBodyResonance]]
+[[Dendritic_In_Context_Learning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]

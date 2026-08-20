@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
+[[MeasurementInducedNonlinearity]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

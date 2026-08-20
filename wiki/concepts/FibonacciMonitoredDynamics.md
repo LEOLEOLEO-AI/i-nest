@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DerivativeLineage]]
 [[DoobBarrierConditioning]]
 [[EarlyVisualAlignment]]
+[[EngineeringConstraint_Complement]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

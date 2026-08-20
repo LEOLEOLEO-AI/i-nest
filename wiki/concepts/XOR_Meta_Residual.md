@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CirculateFiringNeuron]]
 [[CoEvolvedSNNEnsemble]]
+[[CombinedImportanceScoring]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CurrentInjectionSNN]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossTaskNeuralRepresentation]]
 [[DataDrivenCellularAxis]]
+[[EnsembleSparsity]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]

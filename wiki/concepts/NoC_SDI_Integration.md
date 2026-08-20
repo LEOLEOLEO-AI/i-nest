@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_ProgrammableInterconnect]]
+[[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Spiking_Neural_Network]]

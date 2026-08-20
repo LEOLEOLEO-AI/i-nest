@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[STDPDrivenTemporalBinding]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SpikeEncoding]]
 [[SpikeFusionLayer]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

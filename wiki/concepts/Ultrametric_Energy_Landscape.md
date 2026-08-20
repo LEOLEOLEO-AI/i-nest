@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Anisotropic_Correlation_Length]]
 [[Architectural_Conditioning]]
+[[Continual_Learning_Modularity]]
 [[CriticalityOffCriticalityTransition]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]

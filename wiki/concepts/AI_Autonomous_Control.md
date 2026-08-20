@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Gradient]]
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
+[[AdversarialSensingResilience]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Complex_System]]

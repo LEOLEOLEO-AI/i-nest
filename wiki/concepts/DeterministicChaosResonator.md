@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
 [[Reservoir_Computing]]

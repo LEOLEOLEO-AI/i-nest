@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenMotionDeblurring]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[LatencyGradientDescent]]

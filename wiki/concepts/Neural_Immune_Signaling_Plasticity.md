@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
+[[Dendritic_In_Context_Learning]]
 [[Emergent_Intelligence_Threshold]]
 [[FrozenRateOperator]]
 [[HebbianLimitCycleLearning]]

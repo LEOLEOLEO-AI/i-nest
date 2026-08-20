@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Collective_State_Convergence]]
 [[Constructed_Reality_Interconnect]]
+[[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN_NeuroprostheticPipeline]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AddressRedundancyElimination]]
+[[Avoided_Criticality]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[SNN]]

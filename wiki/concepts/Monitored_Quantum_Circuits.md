@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CategoricalClosureCriterion]]
 [[CollectiveStateResilience]]
+[[Continual_Learning_Modularity]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityDrivenStateTransition]]
 [[CriticalityOffCriticalityTransition]]

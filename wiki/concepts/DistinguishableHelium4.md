@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AthermalDynamics]]
 [[BerryCurvatureIsolation]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[CellEmergence]]
 [[CytoarchitectonicAxis]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryNetwork]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Temporally_Precise_Training_Parallelization]]
 

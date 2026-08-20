@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[NeuralNetworkSpectralAnalysis]]
+[[PropertyPredictionModeling]]
 [[RecurrentSpikingDynamics]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

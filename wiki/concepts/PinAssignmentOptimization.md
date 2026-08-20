@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chip_Floorplanning]]
 [[ChipletRoutingFabric]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CytoarchitectonicAxis]]
 [[FunctionalBrainGraphEmbedding]]
 [[Hierarchical_Interconnect]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PhononicBandgapEngineering]]
 [[ReconfigurableSpikingRouting]]
+[[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[ScaleFreeNetwork]]

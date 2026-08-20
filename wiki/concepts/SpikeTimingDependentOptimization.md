@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[ElasticInferenceScheduling]]
 [[Heterogeneous_Integration]]
 [[Memristive_STDP]]
 [[NeuromorphicHardware]]

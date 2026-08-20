@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenVisualPipeline]]
 [[GeometricNeuromorphicFusion]]
+[[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[STDPDrivenTemporalBinding]]
 [[STDP_Plasticity]]
+[[SpikeEncoding]]
+[[SpikeFusionLayer]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

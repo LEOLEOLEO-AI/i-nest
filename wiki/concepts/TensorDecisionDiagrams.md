@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[Relapse_Resilient_Interconnect]]

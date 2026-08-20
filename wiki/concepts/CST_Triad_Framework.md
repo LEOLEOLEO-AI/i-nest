@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[CST_Triad_Integration]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[BiSpikCLM]]
 [[CollectiveDynamics]]
+[[ComplexValuedSNN]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]

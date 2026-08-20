@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[DARPA_ProjectManager_Model]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]

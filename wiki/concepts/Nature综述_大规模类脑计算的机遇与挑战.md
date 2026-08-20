@@ -20,3 +20,16 @@ refs: 4
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Brain_Connectome]]
+[[Communication_Trace_Diagnostics]]
+[[CongestionAwareLoss]]
+[[Connectome_Verification_Protocol]]
+[[DifferentiablePlacement]]
+[[EpidemicThreshold]]
+[[NICE_开启类脑智能新范式_从连接复杂度到智能涌现]]
+[[Neuromorphic_Computing]]
+[[TCC]]
+[[iNEST]]

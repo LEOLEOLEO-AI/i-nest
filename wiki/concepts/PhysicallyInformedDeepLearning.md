@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropFree_Learning]]
 [[BackpropagationFreeLearning]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[TCC]]
 [[iNEST]]
 

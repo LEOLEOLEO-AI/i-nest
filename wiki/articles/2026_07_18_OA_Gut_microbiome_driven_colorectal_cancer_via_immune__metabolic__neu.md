@@ -23,6 +23,7 @@ NoC, iNEST
 
 ## Related Concepts
 
+[[ActiveInference]]
 [[FreeEnergyPrinciple]]
 [[Network_on_Chip]]
 [[iNEST]]

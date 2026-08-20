@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

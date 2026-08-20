@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

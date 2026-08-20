@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AlternativeBridgingModels]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

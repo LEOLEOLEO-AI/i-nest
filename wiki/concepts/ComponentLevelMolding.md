@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[3D_IC_Stacking]]
+[[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
@@ -47,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

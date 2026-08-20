@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Delay_Aware_Autograd_Spiking_Framework]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventDataNonUniformity]]

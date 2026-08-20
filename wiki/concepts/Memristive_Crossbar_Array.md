@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveBitPrecisionExploration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]

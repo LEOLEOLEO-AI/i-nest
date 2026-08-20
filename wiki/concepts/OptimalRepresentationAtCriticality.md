@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[Automated_Reward_Shaping]]
+[[BackflowTransformation]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System]]

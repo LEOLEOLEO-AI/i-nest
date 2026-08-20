@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CrossbarSNNArchitecture]]
 [[DARPA_ProjectManager_Model]]
+[[DTGA]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

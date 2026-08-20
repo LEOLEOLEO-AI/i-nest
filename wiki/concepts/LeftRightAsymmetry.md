@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]

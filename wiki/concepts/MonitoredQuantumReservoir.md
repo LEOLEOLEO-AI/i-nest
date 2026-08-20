@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalSelfDualCriticality]]
 [[DynamicsMatchedReservoir]]
 [[EdgeOfChaos]]
+[[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

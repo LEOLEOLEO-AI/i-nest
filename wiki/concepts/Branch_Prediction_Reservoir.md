@@ -32,11 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
+[[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[Readout_Layer_Training]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 

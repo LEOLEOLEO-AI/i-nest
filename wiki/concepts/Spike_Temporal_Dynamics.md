@@ -21,11 +21,13 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
+[[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]

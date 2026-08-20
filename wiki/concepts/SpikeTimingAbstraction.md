@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence_Threshold]]

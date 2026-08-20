@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirMemoryCapacity]]
 [[Readout_Weight_Training]]
 [[Reservoir_Computing]]
+[[ShortTermMemory]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]

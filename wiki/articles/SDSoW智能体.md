@@ -31,6 +31,7 @@ wafer, 类脑
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议_1]]
 [[复杂网络]]
 [[智能涌现]]
 [[涌现]]

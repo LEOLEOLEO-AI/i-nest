@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
+[[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
 [[CriticalityDrivenStateTransition]]
 [[CriticalityOffCriticalityTransition]]

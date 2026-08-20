@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Heterogeneous_Integration]]
 [[CrossDomain_Integration]]
 [[CrossMaterial_Integration]]
 [[Dynamic_Expert_Fusion]]

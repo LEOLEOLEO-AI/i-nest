@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

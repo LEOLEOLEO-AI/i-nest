@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Computation]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
+[[FlexibilityThreshold]]
 [[InNetworkNeuromorphicComms]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

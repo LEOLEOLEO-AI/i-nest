@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Memristive_Topology]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[P_Paradigm]]

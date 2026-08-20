@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[Architectural_Conditioning]]
 [[Contested_Priors_Mechanism]]
 [[ITP_STDP]]

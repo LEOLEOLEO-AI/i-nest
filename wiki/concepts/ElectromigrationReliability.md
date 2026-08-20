@@ -35,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[ThirdWaveAI]]
 [[TopologicalAndersonChernInsulator]]
+[[WaferScaleTopologyCentricComputing]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

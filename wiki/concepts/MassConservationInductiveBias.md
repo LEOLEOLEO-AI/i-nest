@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralCellularAutomata]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuronal_Avalanche_Dynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[BiSpikCLM]]
+[[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[CirculateFiringNeuron]]
 [[Complex_System]]

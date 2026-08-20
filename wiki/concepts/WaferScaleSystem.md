@@ -21,15 +21,21 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[TCC]]
 [[TopologyCentricPrimitiveSystem]]
 [[Topology_Reconfiguration]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

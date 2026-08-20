@@ -26,10 +26,15 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[BiasEvaluationMetrics]]
+[[Complex_System_Theory]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

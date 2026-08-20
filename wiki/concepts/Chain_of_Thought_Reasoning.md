@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[InSensorComputing]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
+[[PhotonicPackagingEfficiency]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DistinctReentrantPhases]]
 [[GradientFreeLowRankTraining]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[忆阻器]]
 [[智能涌现]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

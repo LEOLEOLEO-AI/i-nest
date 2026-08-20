@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Generalization_Bound_Spectra]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[Reservoir_Computing]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CounterstreamSignalPropagation]]
 [[Emergent_Intelligence_Threshold]]
+[[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

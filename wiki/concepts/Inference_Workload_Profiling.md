@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttention]]
 [[EventDrivenSynchronization]]
 [[FatalityDrivenRewiring]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[InputAdaptiveComputation]]
 [[Network_Topology_Design]]

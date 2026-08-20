@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Analog_InMemory_Processing]]
 [[BeyondVonNeumannArchitecture]]
+[[CapacityScalingLaw]]
 [[ChargeDomainAttention]]
 [[Deep_Counterstream_Associative_Memory]]
 [[DefectDynamics]]

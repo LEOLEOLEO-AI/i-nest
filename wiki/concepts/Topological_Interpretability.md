@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[Analog_Computation]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[BitPrecisionAwareScheduling]]
 [[Branch_Prediction]]
 [[CognitiveSupportTopology]]

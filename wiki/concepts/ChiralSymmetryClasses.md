@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
+[[ChipletRoutingFabric]]
 [[Deep_Thermalisation]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

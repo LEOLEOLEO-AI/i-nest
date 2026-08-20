@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Avoidance_Theory]]
 [[Criticality_Induced_Computation]]
 [[Criticality_Transition]]
+[[Disorder_Anomaly_Duality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

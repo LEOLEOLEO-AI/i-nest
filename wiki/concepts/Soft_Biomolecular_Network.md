@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
 [[AdaptiveFlexibilityThreshold]]
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AnisotropicSymmetryBreaking]]

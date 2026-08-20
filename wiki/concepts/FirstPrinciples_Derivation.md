@@ -21,11 +21,13 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AIRA_NeuralArchSearch]]
 [[BigBrainCellularAxis]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[DataDrivenCellularAxis]]
 [[Free_Energy_Principle_Network]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

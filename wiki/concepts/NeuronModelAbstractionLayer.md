@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuralNetworkInference]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

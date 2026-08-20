@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenModularArchitecture]]
 [[EventDrivenWeightUpdate]]
 [[FPGA_Accelerated_SNN]]
+[[FPGA_Neuromorphic_Acceleration]]
 [[FatalityDrivenRewiring]]
 [[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]

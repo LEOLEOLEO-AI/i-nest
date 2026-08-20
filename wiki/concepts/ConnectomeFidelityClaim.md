@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[BiasEvaluationMetrics]]
 [[BigBrainCellularAxis]]
+[[BioInspiredLearningRule]]
 [[Brain_Connectome]]
 [[FlexibilityThreshold]]
 [[Free_Energy_Principle_Network]]

@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
+[[National_Innovation_Center_Role]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[SNN]]

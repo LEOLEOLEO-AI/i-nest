@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
+[[TopologyDrivenDynamics]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

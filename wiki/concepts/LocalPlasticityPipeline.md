@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Plasticity]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[NeuronModelAbstractionLayer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

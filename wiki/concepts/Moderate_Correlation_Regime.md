@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DisorderedNetworkDynamics]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicsMatching]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

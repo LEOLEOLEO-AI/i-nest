@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MultiModel_Adapter_Architecture]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Chiplet]]

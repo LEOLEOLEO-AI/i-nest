@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[CirculateFiringNeuron]]
 [[CoPackagedOptics]]
+[[CoaxialLikeTGV]]
 [[CommunicationHeterogeneity]]
 [[Cryogenic_Syndrome_Compression]]
 [[EdgeIoTEnergyAwareness]]

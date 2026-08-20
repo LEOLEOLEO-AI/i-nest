@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Monitored_Quantum_Circuits]]
 [[MultifractalCriticalPhase]]
+[[NCA_Reservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

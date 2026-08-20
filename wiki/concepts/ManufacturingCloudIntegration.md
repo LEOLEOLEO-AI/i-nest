@@ -1,0 +1,38 @@
+---
+title: "ManufacturingCloudIntegration"
+type: concept
+domain: iNEST
+created: 2026-08-21
+auto: true
+---
+
+# ManufacturingCloudIntegration
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-21
+
+## Definition
+The seamless coupling of cloud computing resources with manufacturing execution systems for real-time equipment orchestration. Supports low-latency, adaptive control loops essential for neuromorphic edge processing in unmanned platforms.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[Avoided_Criticality]]
+[[BioInspiredLearningRule]]
+[[BioPlausibleDisturbanceObserver]]
+[[BrainBodyResonance]]
+[[Catastrophic_Forgetting_Mitigation]]
+[[ChannelEventSparsity]]
+[[Cognitive_Relapse_Architecture]]
+[[NeuromorphicEdgeProcessing]]
+[[Neuromorphic_Computing]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

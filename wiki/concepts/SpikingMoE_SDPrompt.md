@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[SelfOrganization]]

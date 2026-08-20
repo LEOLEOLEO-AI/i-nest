@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FibonacciMonitoredCriticality]]
 [[FormalLinguisticCompetence]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[HierarchicalBayesianCommunityDetection]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

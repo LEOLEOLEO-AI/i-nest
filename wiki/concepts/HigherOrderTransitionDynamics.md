@@ -1,0 +1,38 @@
+---
+title: "HigherOrderTransitionDynamics"
+type: concept
+domain: iNEST
+created: 2026-08-20
+auto: true
+---
+
+# HigherOrderTransitionDynamics
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-20
+
+## Definition
+The dynamics of state transitions that occur across different dimensional simplices, rather than only between nodes or edges. Enables neuromorphic reservoirs to exploit topological features for richer temporal computations and memory.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[CouplingTopologyMemoryLink]]
+[[Coupling_Topology]]
+[[Crystallized_Embedding_Reservoir]]
+[[Dynamical_State_Space]]
+[[Fading_Memory_Property]]
+[[FirstPrinciples_AI]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
+[[iNEST]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

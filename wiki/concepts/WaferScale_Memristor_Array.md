@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Memory_Computing]]

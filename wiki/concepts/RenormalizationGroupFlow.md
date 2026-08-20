@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Hierarchical_Interconnect]]
 [[Intelligence_Emergence]]
 [[MachineLearningNanomaterialDiscovery]]
+[[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

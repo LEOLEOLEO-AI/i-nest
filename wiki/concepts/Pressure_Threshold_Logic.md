@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[DynamicsMatching]]
 [[EdgeIoTEnergyAwareness]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

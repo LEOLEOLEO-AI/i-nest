@@ -21,13 +21,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CLINKAsCarrierPrimitive]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CorticalWaveRouting]]
 [[Emergent_Topology_Adaptation]]
 [[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[SelfOrganization]]
+[[SiliconPhotonicsNetwork]]
 [[TCC]]
 [[iNEST]]
 

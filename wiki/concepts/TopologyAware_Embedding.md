@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW_TCC_Integration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
