@@ -75,3 +75,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Wafer_Scale_Neuromorphic (merged 2026-08-22)

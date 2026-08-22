@@ -1,23 +1,6 @@
 {
   "schema": "knowledge-compiler-review-v1",
-  "generated": "2026-08-20T18:30:04",
+  "generated": "2026-08-22T08:08:20",
   "status": "pending_user_review",
-  "items": [
-    {
-      "title": "The Road Less Traveled: Congestion-Aware NoC Placement and Packet Routing for FPGAs",
-      "source": "arXiv",
-      "url": "http://arxiv.org/abs/2608.17266v1",
-      "track": "TCC",
-      "relevance": 2,
-      "file": "00_Inbox/_pipeline_insights/2026-08-20_arXiv_The Road Less Traveled Congestion-Aware NoC Placement and Pa.md",
-      "tcc_insight": "Keyword: noc, routing",
-      "inest_insight": "无直接关联或待确认。",
-      "candidate_actions": [],
-      "knowledge_state": "processed",
-      "evidence_status": "[引用] 待人工核验",
-      "provenance": "external",
-      "user_decision": "pending",
-      "analysis_mode": "metadata-only"
-    }
-  ]
+  "items": []
 }

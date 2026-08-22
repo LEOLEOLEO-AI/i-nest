@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-20T18:30:05.149721",
+  "generated": "2026-08-22T08:08:20.566229",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 10409,
+    "total_md": 10526,
     "inbox_00": 172,
-    "processing_20": 570,
+    "processing_20": 578,
     "tcc_30": 1957,
-    "inest_40": 1436,
-    "output_50": 465,
-    "moc_60": 59
+    "inest_40": 1439,
+    "output_50": 457,
+    "moc_60": 61
   },
   "services": {
     "preview_server_8899": false,
@@ -17,40 +17,22 @@
   },
   "pipeline": {
     "ingested_today": {
-      "today": 7,
+      "today": 0,
       "total": 172,
-      "recent": [
-        {
-          "file": "2026-08-20_arXiv_The Road Less Traveled Congestion-Aware NoC Placement and Pa.md",
-          "preview": "---\ntitle: \"The Road Less Traveled: Congestion-Aware NoC Placement and Packet Routing for FPGAs\"\ndate: 2026-08-20\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.17266v1\nt"
-        },
-        {
-          "file": "2026-08-20_arXiv_The Organization of Environmental Coupling Shapes What Quant.md",
-          "preview": "---\ntitle: \"The Organization of Environmental Coupling Shapes What Quantum Reservoirs Remember\"\ndate: 2026-08-20\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.14181v1\n"
-        },
-        {
-          "file": "2026-08-20_arXiv_Simplicial closure fragments the explosive cooperation trans.md",
-          "preview": "---\ntitle: \"Simplicial closure fragments the explosive cooperation transitions in higher-order public goods games\"\ndate: 2026-08-20\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.or"
-        },
-        {
-          "file": "2026-08-20_arXiv_Parallel Spatial Photonic Programming of Optoelectronic IGZO.md",
-          "preview": "---\ntitle: \"Parallel Spatial Photonic Programming of Optoelectronic IGZO RRAM with a compact $μ$LED Array\"\ndate: 2026-08-20\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/26"
-        },
-        {
-          "file": "2026-08-20_arXiv_Noisy group neurons with synchronous resetting for high-perf.md",
-          "preview": "---\ntitle: \"Noisy group neurons with synchronous resetting for high-performance spiking neural networks\"\ndate: 2026-08-20\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608"
-        },
-        {
-          "file": "2026-08-20_arXiv_Incidence-based random walks on simplicial complexes.md",
-          "preview": "---\ntitle: \"Incidence-based random walks on simplicial complexes\"\ndate: 2026-08-20\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.17229v1\ntags: [inbox, inest, arxiv]\nci"
-        },
-        {
-          "file": "2026-08-20_arXiv_Declining Modularity of Intellectual Bases During the Emerge.md",
-          "preview": "---\ntitle: \"Declining Modularity of Intellectual Bases During the Emergence of Research Areas\"\ndate: 2026-08-20\nsource: arXiv\ntrack: General\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.16602v1"
-        }
-      ]
+      "recent": []
     },
     "recent_runs": [
+      {
+        "date": "2026-08-21T06:38:29.762002",
+        "new_papers": 0,
+        "api_results": 0,
+        "classified": 0,
+        "graph_nodes": 10515,
+        "graph_edges": 103717,
+        "elapsed_s": 508.0,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260821_0638.json"
+      },
       {
         "date": "2026-08-20T06:43:10.243392",
         "new_papers": 7,
@@ -116,22 +98,11 @@
         "elapsed_s": 1410.0,
         "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
         "_file": "pipeline_20260813_0823.json"
-      },
-      {
-        "date": "2026-08-12T08:27:54.216717",
-        "new_papers": 8,
-        "api_results": 8,
-        "classified": 0,
-        "graph_nodes": 10145,
-        "graph_edges": 90697,
-        "elapsed_s": 1672.2,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260812_0827.json"
       }
     ]
   },
   "git": {
-    "uncommitted": 76,
+    "uncommitted": 38,
     "details": [
       "M .obsidian/workspace.json",
       " M .workbuddy/automations/automation-1785546922604/memory.md",
@@ -146,13 +117,13 @@
       " M 70_Dashboard/data.js",
       " M 90_System/scripts/research_publisher.py",
       " M 90_System/scripts/research_task_proposals.py",
-      " M 99_Meta/daily_analysis_cache.json",
-      " M 99_Meta/dedup_index_v2.json",
-      " M 99_Meta/evolution_ledger.json",
       " M 99_Meta/evolution_queue.json",
       " M 99_Meta/genspark_research_brief.md",
       " M 99_Meta/hypothesis_registry.json",
-      " M 99_Meta/knowledge_compile_state.json"
+      " M 99_Meta/knowledge_compile_state.json",
+      " M 99_Meta/research_state.json",
+      " M 99_Meta/research_task_proposals.json",
+      " M 99_Meta/self_evolve_log.json"
     ]
   },
   "health": {
@@ -160,7 +131,7 @@
     "count": 4
   },
   "task_review": {
-    "pending_review": 5,
+    "pending_review": 7,
     "approved": 0,
     "promoted": 0
   }

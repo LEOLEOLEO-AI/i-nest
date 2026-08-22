@@ -1,0 +1,105 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-08-21 06:30
+============================================================
+[06:30:01] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:19]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:30:19] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:30:20]   arXiv skip irrelevant: Comparing Probabilistic Influence-Spreading Centralities to 
+[06:30:20]   arXiv skip irrelevant: High-field fate of the Kitaev quantum spin liquid in $α$-RuC
+[06:30:20]   arXiv skip irrelevant: Cacheable by Design? Training Mixture-of-Experts Routers for
+[06:30:26]   arXiv skip irrelevant: Sublime Transfer Printing of Three-Dimensional Nanostructure
+[06:30:33]   arXiv skip irrelevant: Large Field-Free Superconducting Diode Effect with Nonmonoto
+[06:30:33]   arXiv skip irrelevant: RushHour: A Dynamically Reconfigurable Lattice-Surgery Archi
+[06:30:33]   arXiv skip irrelevant: Invertible mapping between structured light and vector terah
+[06:30:39]   arXiv skip irrelevant: Balancing theory uncertainties in ab initio nuclear structur
+[06:30:39]   arXiv skip irrelevant: Multi-scattering processes and spectral properties of low-en
+[06:30:39]   arXiv skip irrelevant: Why GPT-Style Models Do Not Directly Transfer to Symbolic Mu
+[06:30:45]   arXiv skip irrelevant: LabDex: A Hierarchical Benchmark for Dexterous Manipulation 
+[06:30:45]   arXiv skip irrelevant: Steady-State Equivalent Circuit Model for Data Center Loads
+[06:30:45]   arXiv skip irrelevant: Human-Centric Intelligence in the Era of Foundation Models: 
+[06:30:50]   arXiv: batch separator, pausing 10s...
+[06:31:04]   arXiv skip irrelevant: Multi-Agent Off-Policy Deep Reinforcement Learning for Smart
+[06:31:04]   arXiv skip irrelevant: FM Synthesizer Audio-Parameter Shared Embeddings
+[06:31:04]   arXiv skip irrelevant: Global Optimization of Flexible District Heating Networks
+[06:31:16]   arXiv skip irrelevant: Mitigating Regional Traffic Congestion via School Start Time
+[06:31:16]   arXiv skip irrelevant: Modeling Network Congestion under Demand Uncertainty Using W
+[06:31:16]   arXiv skip irrelevant: HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouti
+[06:31:22]   arXiv skip irrelevant: Electrostriction in a Bose-Einstein Condensate of Dipolar Mo
+[06:31:22]   arXiv skip irrelevant: On entropic cosmology, late time acceleration and the quantu
+[06:31:22]   arXiv skip irrelevant: Enhancing EBSD throughput of battery electrode materials usi
+[06:31:28]   arXiv skip irrelevant: Scale Partitioning by Incremental Nested Entropy: A Measure-
+[06:31:28]   arXiv skip irrelevant: KOALA: Koopman Operator Learning for WiFi-Based Anticipatory
+[06:31:34]   arXiv skip irrelevant: USR-Drive: Unified Driving Scene Representation via Joint De
+[06:31:34]   arXiv skip irrelevant: NeuroPath: Brain-Inspired Dual-Pathway Graph Convolutional N
+[06:31:34]   跳过重复: Noisy group neurons with synchronous resetting for... [Title: Noisy group neurons with synchronous resetting for high-performance spiking neur]
+[06:31:39]   arXiv: batch separator, pausing 10s...
+[06:31:50]   arXiv skip irrelevant: Energy-efficient, Reconfigurable Optoelectronic Artificial S
+[06:31:50]   跳过重复: Parallel Spatial Photonic Programming of Optoelect... [Title: Parallel Spatial Photonic Programming of Optoelectronic IGZO RRAM with a compact]
+[06:32:01]   arXiv skip irrelevant: Autonomous Cyber Defense in Connected Vehicles: A Multi-Agen
+[06:32:01]   arXiv skip irrelevant: Quantum circuit optimization using deep reinforcement learni
+[06:32:01]   arXiv skip irrelevant: Function-On-Function Regression Through Separable Neural Ope
+[06:32:08]   arXiv skip irrelevant: VQC-ZTI: Variational Quantum Control for Zero Trust Protecti
+[06:32:08]   arXiv skip irrelevant: Minimizing Commit Rules for DAG-based Atomic Broadcast
+[06:32:08]   arXiv skip irrelevant: Multivalued Consensus: General Adversaries Require More Comm
+[06:32:14]   arXiv skip irrelevant: Mixed Membership Model of Low-rank Matrices with Multimodal 
+[06:32:14]   arXiv skip irrelevant: Graph-Based Approaches to Learning Epileptogenic Zone Locali
+[06:32:14]   arXiv skip irrelevant: CL4D: Contrastive Language-4D Pretraining for Vision-Languag
+[06:32:20]   跳过重复: Simplicial closure fragments the explosive coopera... [Title: Simplicial closure fragments the explosive cooperation transitions in higher-ord]
+[06:32:20]   跳过重复: Incidence-based random walks on simplicial complex... [Title: Incidence-based random walks on simplicial complexes]
+[06:32:20]   arXiv skip irrelevant: Simplicial Actions for Distributed Protocols
+[06:32:25]   arXiv: batch separator, pausing 10s...
+[06:32:42]   跳过重复: The Organization of Environmental Coupling Shapes ... [Title: The Organization of Environmental Coupling Shapes What Quantum Reservoirs Rememb]
+[06:32:49]   arXiv skip irrelevant: Small-world structure of quantum computer hardware
+[06:32:59]   arXiv skip irrelevant: An Emulation Anchored Digital Twin Testbed for Cyberattack a
+[06:32:59]   arXiv skip irrelevant: Physically Consistent Channel Modeling and Signal Processing
+[06:32:59]   arXiv skip irrelevant: Crossover from Fast Scrambling to Operator Confinement Tuned
+[06:33:10]   arXiv: batch separator, pausing 10s...
+[06:33:21]   跳过重复: Declining Modularity of Intellectual Bases During ... [Title: Declining Modularity of Intellectual Bases During the Emergence of Research Area]
+[06:33:21]   arXiv skip irrelevant: Rare-event sampling for stochastic dynamics in network syste
+[06:33:21]   arXiv skip irrelevant: Small-world structure of quantum computer hardware
+[06:33:26] [arXiv] 0 new papers, 0 errors across 21 queries
+[06:33:26] [GN] Google News RSS...
+[06:34:29]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:35:34]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:36:38]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:37:42]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:37:43] [GN] 0 new articles
+
+  Total: 0 new items to inbox
+[06:37:43] [Process] LLM classify (free tier, limit=20)...
+[06:38:07] [Process] Classified: 0
+[06:38:07] [Genspark] Generating research brief...
+[06:38:07] [Genspark] Research brief written: genspark_research_brief.md
+[06:38:07] [Graph] Scanning wiki links...
+[06:38:08] [Graph] 10515 files, 106828 links
+[06:38:29] [Graph] Exported: 10515 nodes, 103717 edges
+[06:38:29] [Graph] 0 missing backlinks
+Exception in thread Thread-1 (_readerthread):
+Traceback (most recent call last):
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 1515, in _readerthread
+    buffer.append(fh.read())
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa1 in position 19: invalid start byte
+[06:38:29] [DailyGen] Daily_Action + Focus + Insights generated
+[06:38:29] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+0(arXiv)+0(GN) | Written: 0 new papers
+  Processed: 0 | Nodes: 10515 edges: 103717 | Missing links: 0 | Genspark: OK
+  Elapsed: 508s
+============================================================
+[06:38:30] [State] research_state.json updated
+[06:38:30] [Evolution] Evidence + hypotheses updated
+[06:39:26] [Wiki] Karpathy compiler: raw → wiki done
+[06:39:26] [Insight] Cross-domain bridges updated
+[06:39:38] [Tasks] Research recommendations updated
+[06:39:38] [Dashboard] Live dashboard published
+[06:39:38] [Homepage] Home.md auto-refreshed

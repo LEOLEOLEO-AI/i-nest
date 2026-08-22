@@ -1,6 +1,6 @@
 # Cross-Domain Insights
 
-**Generated**: 2026-08-21
+**Generated**: 2026-08-22
 
 ## Active Bridges (7)
 
@@ -14,7 +14,7 @@ Chiplet-based heterogeneous integration enables combining CMOS logic with memris
 - TCC concepts: [[1024_Card_SuperNode]], [[3DHI_Integration]], [[3DHI_Interconnect]]
 - iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[Accessibility_Gradient]]
 
-### NoC_Spiking_Routing (Strength: 370)
+### NoC_Spiking_Routing (Strength: 371)
 NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude.
 - TCC concepts: [[3DHI_Interconnect]], [[3DHI_Stacking]], [[3DIntegratedPhotonicPackaging]]
 - iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[ActiveDendriteSNN]]
@@ -24,7 +24,7 @@ Wafer-scale integration could enable massive-scale neuromorphic chips with milli
 - TCC concepts: [[1024_Card_SuperNode]], [[3DIntegratedPhotonicPackaging]], [[AdvancedPackagingInterconnect]]
 - iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[Accessibility_Gradient]]
 
-### 3DIC_Neural_Stacking (Strength: 101)
+### 3DIC_Neural_Stacking (Strength: 102)
 3D-IC stacking mimics cortical columnar architecture, enabling dense neural processing layers.
 - TCC concepts: [[1024_Card_SuperNode]], [[3DHI_Integration]], [[3DHI_Interconnect]]
 - iNEST concepts: [[ActivityAvalanche]], [[AdaptiveAsymmetricSurrogateGradient]], [[AdaptiveBitPrecisionExploration]]
@@ -39,7 +39,8 @@ Neuromorphic in-memory computing is a potential solution to the wafer-scale memo
 - TCC concepts: [[Memory_Wall]], [[SDSoW_TCC_Integration]]
 - iNEST concepts: [[Electrolyte_Bonding_Engineering]], [[FeFET_Polarization_Switching]], [[FerroelectricSynapticArray]]
 
-## Cross-Domain Papers (0)
+## Cross-Domain Papers (1)
+- 2026_07_20_NeuroTrain_fulltext_analysis (cross-score: 6)
 
 ## Suggested Research Directions
 - **SDI_Plastic_Interconnect**: SDI's software-defined interconnect could implement plastic (reconfigurable) network topologies inspired by synaptic plasticity.

@@ -1,19 +1,19 @@
 window.VAULT_DATA = {
-  "updated": "2026-08-21 03:14",
+  "updated": "2026-08-22 08:28",
   "snapshot": {
-    "total_md": 10522,
+    "total_md": 10545,
     "tcc": 1957,
     "inest": 1439,
-    "inbox": 178,
-    "processing": 578,
-    "output": 472,
-    "git_uncommitted": 3599
+    "inbox": 172,
+    "processing": 584,
+    "output": 457,
+    "git_uncommitted": 77
   },
   "wiki": {
-    "tcc": 861,
-    "inest": 1142,
-    "cross": 1394,
-    "total": 3397
+    "tcc": 865,
+    "inest": 1148,
+    "cross": 1399,
+    "total": 3412
   },
   "articles": 922,
   "bridges": [
@@ -29,7 +29,7 @@ window.VAULT_DATA = {
     },
     {
       "name": "NoC_Spiking_Routing",
-      "strength": "370",
+      "strength": "371",
       "insight": "NoC routing algorithms could be redesigned for event-driven spike packet delivery, reducing latency by orders of magnitude."
     }
   ],
@@ -60,12 +60,6 @@ window.VAULT_DATA = {
     }
   ],
   "trend": [
-    {
-      "date": "2026-08-04",
-      "broken": 2441,
-      "orphan": 2505,
-      "missing_fm": 355
-    },
     {
       "date": "2026-08-04",
       "broken": 2417,
@@ -119,6 +113,12 @@ window.VAULT_DATA = {
       "broken": 1999,
       "orphan": 2472,
       "missing_fm": 370
+    },
+    {
+      "date": "2026-08-21",
+      "broken": 1969,
+      "orphan": 2489,
+      "missing_fm": 399
     }
   ],
   "tasks": [
@@ -144,10 +144,10 @@ window.VAULT_DATA = {
     ]
   ],
   "health": {
-    "笔记总数(可链接目标)": 9283,
-    "缺 frontmatter 笔记": 399,
-    "真正断链(目标不存在)": 1969,
-    "孤儿笔记(无入链)": 2489
+    "笔记总数(可链接目标)": 9310,
+    "缺 frontmatter 笔记": 401,
+    "真正断链(目标不存在)": 1951,
+    "孤儿笔记(无入链)": 3376
   },
   "classification": {
     "own": 1269,

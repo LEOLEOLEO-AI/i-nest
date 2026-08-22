@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-08-21",
+  "last_compile": "2026-08-22",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -197,7 +197,7 @@
     "00_Inbox/_pipeline_insights/2026-08-01_arXiv_Storing Sensor Events in the Interconnection Strength of Con.md": 1785546813.44828,
     "00_Inbox/_pipeline_insights/2026-08-01_arXiv_Synchronization, Kinematic Waves and Spike-Phase-Separation .md": 1785546877.2250273,
     "20_Processing/01_PDF_Text/2026-07-20_NeuroTrain_fulltext.md": 1785836858.065147,
-    "20_Processing/02_Fulltext_Analysis/2026-07-20_NeuroTrain_fulltext_analysis.md": 1787166599.922675,
+    "20_Processing/02_Fulltext_Analysis/2026-07-20_NeuroTrain_fulltext_analysis.md": 1787253359.166053,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-07-2511.01553.md": 1785674176.0202587,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-07-2601.00020.md": 1785674176.0202587,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-05-07-2605.04200.md": 1785674176.0202587,
@@ -974,7 +974,13 @@
     "20_Processing/22_Audit/rescued/Understanding_Plasticity_in_Neural_Networks.md": 1773404541.948496,
     "20_Processing/22_Audit/rescued/自然_物理_当拓扑_动起来_高阶网络重塑动力学.md": 1773401367.6940396,
     "20_Processing/22_Audit/rescued/自由能原理_把感知_行动_注意统一到一个方程里.md": 1773405431.884676,
-    "20_Processing/22_Audit/rescued/manuscript-math-verify/SKILL.md": 1787242803.7262764
+    "20_Processing/22_Audit/rescued/manuscript-math-verify/SKILL.md": 1787242803.7262764,
+    "20_Processing/21_Pending/Cerebras CS-4 深度解析：晶圆级 AI 芯片如何把推理速度拉到千 tok_s 级.md": 1787241024.47273,
+    "20_Processing/21_Pending/Copilot for Obsidian V4 深度解析：从聊天助手到 AI 主理人.md": 1787241024.4851546,
+    "20_Processing/21_Pending/工程院信息学部十五五战略咨询项目开题研讨会（第一课题汇报环节）.md": 1787241024.5172884,
+    "20_Processing/21_Pending/工程院信息学部十五五规划战略咨询项目开题研讨会记录.md": 1787241024.5302854,
+    "20_Processing/21_Pending/差分Transformer（Diff Transformer）深度解析：用减法重构注意力机制.md": 1787241024.550588,
+    "20_Processing/21_Pending/科技部无人智能装备制造云平台项目讨论.md": 1787241024.5634503
   },
   "concept_graph": {}
 }
