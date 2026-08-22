@@ -28,7 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[Automated_Reward_Shaping]]
 [[AvalancheBranchingRatio]]
 [[Avalanche_Dynamics]]
+[[Avoided_Criticality]]
+[[BranchingRatio]]
+[[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

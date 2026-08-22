@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Reservoir_Substrate]]
 [[QuantumReservoirMemoryCapacity]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

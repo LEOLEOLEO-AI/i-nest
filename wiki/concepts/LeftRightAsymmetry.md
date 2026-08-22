@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Course_Based_FPGA_Projects]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]

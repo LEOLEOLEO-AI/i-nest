@@ -37,3 +37,6 @@ Can the statistical mechanical principles governing scaling in colloidal and bio
 
 ## 预期贡献
 This interdisciplinary paper would pioneer a framework for 'physical reservoir computing' informed by the scaling laws of non-neural complex systems. It would test whether embedding a neuromorphic reservoir within a simulated physical network with known scaling properties enhances dynamical richness, memory capacity, or learning efficiency on temporal tasks, creating a new paradigm for intelligence emergence at the interface of physics and neuroscience.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

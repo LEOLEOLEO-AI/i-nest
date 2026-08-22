@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Avoided_Criticality]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

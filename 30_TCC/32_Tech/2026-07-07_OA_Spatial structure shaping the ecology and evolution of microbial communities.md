@@ -29,3 +29,9 @@ Microbial Community Ecology and Physiology, Evolutionary Game Theory and Coopera
 
 - [OpenAlex](https://openalex.org/W7128367784)
 - [DOI](https://doi.org/10.1093/femsre/fuaf067) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

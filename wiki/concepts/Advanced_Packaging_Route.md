@@ -26,13 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[CoPoS]]
 [[ComputeRelocationOverhead]]
 [[EulaminateOverrepresentation]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[InterChipletPHYModeling]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
 [[Microgrid_Optimization]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

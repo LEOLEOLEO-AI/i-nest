@@ -29,8 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[FlagOS_2_0]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[iNEST]]
+[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

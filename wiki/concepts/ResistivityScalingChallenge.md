@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
+[[Allreduce_Latency_Benchmark]]
 [[Allreduce_Latency_Probe]]
 [[Analog_Weight_Storage]]
 [[BackpropagationFreeLearning]]
@@ -37,13 +38,14 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive_Set]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
+[[SDI节点接口规范与化合键定义]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologyFragility]]
 [[WaferScaleSubstrate]]
+[[heterogeneous_integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

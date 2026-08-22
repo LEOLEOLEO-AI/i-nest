@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

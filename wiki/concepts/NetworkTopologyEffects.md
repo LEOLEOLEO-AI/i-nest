@@ -33,12 +33,16 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[MachineLearningNanomaterialDiscovery]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Acceleration]]
+[[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

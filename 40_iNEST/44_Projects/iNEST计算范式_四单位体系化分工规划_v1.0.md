@@ -539,3 +539,9 @@ GitHub: iNEST-core (私有仓库)
 | **复旦大学** | CST-Meter+Bench+理论 | MLIR编译器+应用Benchmark+SDK |
 | **苏州实验室** | 忆阻器临界态+光子涌现+材料表征 | 光互连模块+忆阻器阵列+先进封装 |
 | **NDSC** | SDI涌现实验+参数映射验证 | SDI交换芯片+TCC-Link协议+标准制定 |
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

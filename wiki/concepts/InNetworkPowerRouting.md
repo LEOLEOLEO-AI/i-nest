@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveArchitecture]]
 [[CirculateFiringNeuron]]
 [[CriticalityDrivenStateTransition]]
 [[Dynamic_Expert_Fusion]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

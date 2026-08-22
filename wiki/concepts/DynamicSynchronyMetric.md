@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CircuitTopologyEncoding]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[Dynamic_Expert_Fusion]]

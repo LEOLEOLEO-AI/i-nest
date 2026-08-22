@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
+[[CrossDomain_Synthesis]]
 [[DataDrivenMaterialDesign]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -22,3 +22,16 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[CST计量仪]]
+[[Complex_System_Theory]]
+[[CriticalPhaseTransitionStatisticalTest]]
+[[Intelligence_Emergence]]
+[[NCL神经计算定律详解]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+[[iNEST]]
+[[智能涌现]]
+[[涌现]]

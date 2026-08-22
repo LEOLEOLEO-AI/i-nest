@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagScale]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
+[[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect]]
@@ -59,8 +59,9 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity_Tc]]
 [[TopologyProgramming]]
 [[Wafer_Scale_Integration]]
-[[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Interconnect]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

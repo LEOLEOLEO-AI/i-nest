@@ -24,11 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BioPlausibleDisturbanceObserver]]
 [[BrainBodyResonance]]
-[[Catastrophic_Forgetting_Mitigation]]
+[[Catastrophic_Forgetting]]
 [[ChannelEventSparsity]]
 [[Cognitive_Relapse_Architecture]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
+[[Self_Organized_Criticality]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

@@ -29,3 +29,6 @@ AI in cancer detection
 
 - [OpenAlex](https://openalex.org/W4387323912)
 - [DOI](https://doi.org/10.1007/s10278-026-01908-0) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

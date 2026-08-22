@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[Contested_Priors_Mechanism]]
+[[DiscreteSTDPLearning]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[STDP learning]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

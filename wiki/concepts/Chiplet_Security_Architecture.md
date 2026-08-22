@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Security]]
 [[In_Package_Interconnect_Trust]]
+[[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[神经网络]]

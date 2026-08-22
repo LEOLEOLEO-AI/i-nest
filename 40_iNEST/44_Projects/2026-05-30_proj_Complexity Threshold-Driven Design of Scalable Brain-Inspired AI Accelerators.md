@@ -59,3 +59,9 @@ The mesoscopic complexity threshold theory posits that brain-like intelligence e
 
 ## 团队需求
 ['1 Principal Investigator (computational neuroscience / VLSI)', '3 Postdoctoral Researchers (theory, circuit design, system architecture)', '5 PhD Students (modeling, RTL, software, benchmarking, testing)', '3 Senior Engineers (analog design, DFT, packaging)', '1 Project Coordinator']
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HumanVisionInspiredSNN]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[LearnableGradientSurrogate]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[temporal coding]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

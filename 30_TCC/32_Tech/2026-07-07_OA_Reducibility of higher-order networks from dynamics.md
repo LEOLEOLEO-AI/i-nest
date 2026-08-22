@@ -29,3 +29,9 @@ Complex Network Analysis Techniques, Opinion Dynamics and Social Influence, Sust
 
 - [OpenAlex](https://openalex.org/W7124262689)
 - [DOI](https://doi.org/10.1038/s41467-025-68273-4) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

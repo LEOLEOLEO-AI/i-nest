@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[SensoryGatedSpikingLoop]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

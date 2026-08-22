@@ -38,6 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[TemporalInformationStorage]]
 [[Temporal_Coding]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[neuromorphic computing]]
+[[sparse distributed memory]]
+[[temporal coding]]
+[[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[神经网络]]
 [[脉冲神经网络]]
 

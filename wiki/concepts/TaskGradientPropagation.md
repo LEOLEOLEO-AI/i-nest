@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[Capability_Forging_Pipeline]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Dynamic_Expert_Fusion]]

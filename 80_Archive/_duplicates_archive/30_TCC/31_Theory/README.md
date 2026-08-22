@@ -31,3 +31,6 @@ tags:
 > 连接效率超线性（同等边数全局效率1.08x随机网络）。
 
 **最后更新**：2026-03-24
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

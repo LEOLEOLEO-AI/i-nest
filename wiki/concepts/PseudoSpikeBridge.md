@@ -30,11 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenMotionDeblurring]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,3 +29,9 @@ Advanced Neural Network Applications, Domain Adaptation and Few-Shot Learning, A
 
 - [OpenAlex](https://openalex.org/W4386270371)
 - [DOI](https://doi.org/10.26599/cai.2024.9390002) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -23,6 +23,7 @@ TCC, iNEST
 
 ## Related Concepts
 
+[[Driven criticality]]
 [[Driven_Criticality]]
 [[OptimalRepresentation]]
 [[OptimalRepresentations]]
@@ -30,3 +31,4 @@ TCC, iNEST
 [[TCC]]
 [[UniversalComputation]]
 [[iNEST]]
+[[inest]]

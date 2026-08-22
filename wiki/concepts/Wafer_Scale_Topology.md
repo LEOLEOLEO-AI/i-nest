@@ -33,8 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
-[[SDSoW_Interface_Standard]]
 [[SDSoW_Strategic_Planning]]
 [[SDSoW_TCC_Integration]]
 [[TCC]]

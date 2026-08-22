@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[DataProvenanceIntegrity]]
 [[Decoupled_Priors]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
@@ -59,12 +60,12 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_Topology]]
-[[TCC_Topology_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
 [[UniversalIntelligence_Emergence]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

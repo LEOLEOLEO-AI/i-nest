@@ -32,3 +32,5 @@ Review for relevance to TCC/iNEST.
 
 ---
 *2026-08-12 pipeline v3.1 自动生成 | 相关度: 1/3*
+
+<!-- orphan-cleanup: no MOC found, tagged -->

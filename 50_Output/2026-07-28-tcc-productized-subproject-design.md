@@ -202,3 +202,6 @@ L3 内部建议拆分为三类模块（文件名可在实施计划中细化）�
 - **workload 间耦合反弹**：通过硬规则（workload 只依赖 core）与目录结构约束，将耦合问题前置暴露。
 - **推理加入时架构再次大改**：提前建立 `workloads/infer` 骨架与 core 抽象接口，后续仅新增推理簇/页/pipeline。
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

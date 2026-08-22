@@ -50,3 +50,6 @@ Existing brain decoding models primarily rely on static neural activity patterns
 1. 1. A method for decoding brain functional states, comprising: acquiring time-series neural activity data; extracting features representing phase synchronization dynamics between two or more neural oscillatory signals; and processing said features through a physics-informed deep learning model trained to map synchronization patterns to predefined cognitive or physiological states.
 2. 2. The method of claim 1, wherein the physics-informed deep learning model incorporates differential equation constraints derived from coupled oscillator theory to regularize learning of the synchronization dynamics.
 3. 3. A system for brain function decoding comprising: a sensor array configured to acquire neural oscillatory signals; a processor configured to execute the method of claim 1; and an output interface for presenting the decoded brain state.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

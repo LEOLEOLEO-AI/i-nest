@@ -25,10 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AllOpticalHebbianLearning]]
 [[Analog_Computation]]
+[[CurrentInjectionSNN]]
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[SpatialPhotonicProgramming]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

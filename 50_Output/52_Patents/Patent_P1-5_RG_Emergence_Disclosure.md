@@ -147,3 +147,6 @@ RG 流：sigma 不收敛至固定点 → 验证一致。
 
 ---
 *交底书草稿 v1.0 — 2026-06-04*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

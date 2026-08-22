@@ -512,3 +512,6 @@ Layer 3: 系统-推理层 (规模 10^5+ 起)
 - 忽视规模和智能等级的对应关系
 - 将"拓扑 SOC"混淆为"功能性智能"
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

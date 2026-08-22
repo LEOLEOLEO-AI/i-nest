@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AutonomousSpikingDynamics]]
 [[Avoided_Criticality]]
+[[BulletTrainScheduling]]
 [[CriticalityDrivenEfficientCoding]]
 [[CriticalityInNeuralNetworks]]
 [[Dynamic_Expert_Fusion]]

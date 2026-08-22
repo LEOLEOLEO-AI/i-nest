@@ -32,3 +32,4 @@ SNN, STDP, TCC, iNEST, neuromorphic, spiking
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[inest]]

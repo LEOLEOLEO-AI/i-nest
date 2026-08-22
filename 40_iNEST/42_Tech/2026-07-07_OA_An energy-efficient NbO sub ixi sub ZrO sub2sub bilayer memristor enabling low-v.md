@@ -29,3 +29,9 @@ Advanced Memory and Neural Computing, Ferroelectric and Negative Capacitance Dev
 
 - [OpenAlex](https://openalex.org/W7131362534)
 - [DOI](https://doi.org/10.1039/d5tc04061b) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

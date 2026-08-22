@@ -38,10 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingTopologyAnalysis]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

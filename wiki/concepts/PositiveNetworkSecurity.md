@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
+[[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

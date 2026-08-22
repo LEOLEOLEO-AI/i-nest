@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
+[[CriticalityInducedTopology]]
 [[DARPA_ProjectManager_Model]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing_Architecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[reservoir computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

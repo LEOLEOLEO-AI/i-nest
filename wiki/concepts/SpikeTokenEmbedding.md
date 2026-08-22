@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[GradientBasedSpikeLearning]]
 [[Gradient_Free_SNN_Learning]]
 [[Intelligence_Emergence]]
 [[LatencyCoding]]
@@ -37,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[spiking neural network]]
+[[temporal coding]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[BioInspiredLearningRule]]
+[[Chiplet_Integration_Route]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[神经网络]]
 
 ## Sources

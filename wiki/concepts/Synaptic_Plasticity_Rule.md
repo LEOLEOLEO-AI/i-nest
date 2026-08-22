@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[PhaseLockedTopologyMapping]]
@@ -34,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDPDrivenTemporalBinding]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[online continual learning]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

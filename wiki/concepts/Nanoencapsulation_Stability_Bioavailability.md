@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Substrate]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]

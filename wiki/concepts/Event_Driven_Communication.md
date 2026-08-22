@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingTopologyAnalysis]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

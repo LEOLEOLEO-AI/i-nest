@@ -169,3 +169,9 @@ All topological metrics and dynamical properties were cross-validated against mu
 
 **Conclusion:**
 Hemibrain connectome topology is biologically authentic, dynamically realistic, and suitable for engineering-inspired neuromorphic architecture design. The SDI implementation demonstrates practical feasibility with quantified performance gains validated against established hardware platforms.
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

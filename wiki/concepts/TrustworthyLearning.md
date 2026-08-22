@@ -26,11 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[StochasticVehicleRouting]]
 [[TCC]]
+[[Trustworthiness_Aware_Training]]
 [[iNEST]]
 
 ## Sources

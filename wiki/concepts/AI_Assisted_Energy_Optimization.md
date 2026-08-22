@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
+[[CoaxialLikeTGV]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -65,8 +65,9 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
+[[heterogeneous_integration]]
 [[iNEST]]
+[[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

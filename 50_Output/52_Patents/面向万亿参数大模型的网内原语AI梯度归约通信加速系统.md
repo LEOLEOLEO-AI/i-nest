@@ -30,3 +30,6 @@ P0优先级：针对AllReduce等集合通信的直接工程专利
 
 > 由研发看板自动索引，遵循 Obsidian Wiki/LLM 知识管理规则。
 > 原始内容请查看源文件。
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

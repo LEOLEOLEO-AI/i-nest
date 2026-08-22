@@ -25,14 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_computing]]
 [[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[fractal_Scaling]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

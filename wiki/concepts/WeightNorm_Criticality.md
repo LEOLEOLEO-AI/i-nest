@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Power_Density_Law]]
+[[SNN]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

@@ -289,3 +289,8 @@ provenance: external
 | 12 | Pulse 2.0 | 2026.05.13 | Fractile $220M Next-Gen AI Inference |
 | 13 | DCD | 2026.05 | Fractile AI inference chip development |
 | 14 | Ventureburn | 2026.05.14 | Fractile $220M advance AI inference |
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

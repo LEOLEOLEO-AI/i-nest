@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[Cascading_Failure_Mitigation]]
 [[CrossLayer_SignalRouting]]
 [[ErrorAmplificationLimits]]
+[[Interconnect_Routing]]
 [[LatencyGradientDescent]]
 [[Network_Topology_Design]]
 [[SNN_NeuroprostheticPipeline]]
 [[SpikeBackpropagation]]
+[[SpikeEventTopology]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

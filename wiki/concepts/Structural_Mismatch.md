@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]
+[[DataProvenanceIntegrity]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
@@ -57,11 +58,12 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_Topology]]
-[[TCC_Topology_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
+[[heterogeneous_integration]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,3 +29,9 @@ Environmental Justice and Health Disparities, Energy, Environment, Economic Grow
 
 - [OpenAlex](https://openalex.org/W7129078891)
 - [DOI](https://doi.org/10.3389/fpubh.2026.1770901) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

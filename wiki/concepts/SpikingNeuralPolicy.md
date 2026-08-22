@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayAwareSpikeEventDelivery]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EnergyEfficientSNN]]
+[[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

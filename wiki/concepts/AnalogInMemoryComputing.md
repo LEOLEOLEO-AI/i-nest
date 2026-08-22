@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Principle_Network]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

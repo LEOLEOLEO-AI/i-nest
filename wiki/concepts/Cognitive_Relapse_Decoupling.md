@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibleManifoldReconfiguration]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Reconfiguration]]
+[[topology reconfiguration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

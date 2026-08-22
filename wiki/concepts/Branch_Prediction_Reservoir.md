@@ -38,9 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[Readout_Layer_Training]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[pipelined processor]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

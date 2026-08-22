@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[BitPrecisionAwareScheduling]]
 [[Branch_Prediction]]
+[[CriticalityInducedTopology]]
 [[CrystalPalace_Program]]
 [[DARPA_ProjectManager_Model]]
 [[DARPA_Technology_Incubation]]
@@ -34,6 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[Pipelined_Processor]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[branch prediction]]
+[[pipelined processor]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

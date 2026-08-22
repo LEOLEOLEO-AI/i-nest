@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]

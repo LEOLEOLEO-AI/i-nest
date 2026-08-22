@@ -39,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
@@ -50,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SNN]]
@@ -69,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
+[[neuromorphic integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

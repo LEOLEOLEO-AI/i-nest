@@ -29,3 +29,9 @@ Neural Networks and Reservoir Computing, Photonic and Optical Devices, Photonic 
 
 - [OpenAlex](https://openalex.org/W7133557937)
 - [DOI](https://doi.org/10.1038/s41467-026-68648-1) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[STDP learning]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[ST_SNN]]
@@ -41,6 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
+[[spiking neural network]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

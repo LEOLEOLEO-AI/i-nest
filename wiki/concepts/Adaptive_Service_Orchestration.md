@@ -21,12 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1024_Card_SuperNode]]
+[[3DHI_Chiplet_Integration]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdaptiveBitPrecisionExploration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[FisherInformationMetric]]
+[[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[Network_Topology_Design]]
 [[Switch_Chiplet_Integration]]

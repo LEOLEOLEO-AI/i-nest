@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[InterfaceCentricTopology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

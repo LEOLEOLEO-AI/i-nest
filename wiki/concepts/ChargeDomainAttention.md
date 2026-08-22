@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BeyondVonNeumannArchitecture]]
+[[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyResourceEfficiencyCoOptimization]]

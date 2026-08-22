@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]
+[[HierarchyOfApproximations]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

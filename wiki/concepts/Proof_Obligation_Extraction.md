@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Baseline_Draft_Status]]
+[[Closed_Loop_Neuromodulation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

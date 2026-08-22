@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[Contested_Prior_Resolution]]
 [[DeepCode_AlgorithmExtraction]]
+[[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -36,3 +36,6 @@ How does the concurrent presence of scale-free and small-world properties in a s
 
 ## 预期贡献
 Demonstrate that hybrid topologies enhance critical dynamics and robustness, providing design principles for neuromorphic architectures that balance local clustering and global efficiency.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

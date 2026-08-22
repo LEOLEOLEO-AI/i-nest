@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedCriticality]]
 [[EntangledCriticality]]
 [[Fractal_Wavefront_Scaling]]
+[[ImmobilizationStabilityMechanism]]
 [[Network_Topology_Design]]
 [[OptimalRepresentation]]
 [[Self_Organized_Criticality]]

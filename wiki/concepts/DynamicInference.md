@@ -39,12 +39,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[OnChipWeightUpdate]]
 [[Photonic_Chiplet_Interconnect]]
+[[PostVonNeumannIntelligence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

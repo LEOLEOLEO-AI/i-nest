@@ -84,3 +84,9 @@ Our results demonstrate that the C.elegans connectome possesses:
 ## References
 - Varshney et al. (2011). Structural properties of the C. elegans neuronal network. PLoS CB.
 - Watts & Strogatz (1998). Collective dynamics of 'small-world' networks. Nature.
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

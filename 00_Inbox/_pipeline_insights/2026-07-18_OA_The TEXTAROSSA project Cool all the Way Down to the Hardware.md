@@ -29,3 +29,6 @@ Parallel Computing and Optimization Techniques, Embedded Systems Design Techniqu
 
 - [OpenAlex](https://openalex.org/W7132826132)
 - [DOI](https://doi.org/10.1016/j.micpro.2026.105254) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

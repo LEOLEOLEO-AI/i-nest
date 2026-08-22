@@ -246,3 +246,6 @@ err_mil = np.array([1.00e-1, 2.50e-2, 6.25e-3, 1.56e-3, 3.91e-4])
 
 ---
 *验证人: iNEST 验证中枢 | 验证日期: 2026-07-25 | 报告版本: v1.0*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

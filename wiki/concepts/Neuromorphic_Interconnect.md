@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Selective_State_Space]]
+[[NoiseModulated_SynapticPlasticity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SemanticTrafficAwareness]]
 [[Spike_Encoding_of_fMRI]]

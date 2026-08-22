@@ -34,10 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

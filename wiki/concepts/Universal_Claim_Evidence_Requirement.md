@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
+[[Neuromorphic_Substrate]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SNN]]

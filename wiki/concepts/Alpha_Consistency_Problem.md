@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[BigBrainCellularAxis]]
 [[BranchingRatio]]
+[[CST equation]]
 [[CST_Equation]]
 [[CST_Exponential_Form]]
+[[CST_Theory]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
@@ -61,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

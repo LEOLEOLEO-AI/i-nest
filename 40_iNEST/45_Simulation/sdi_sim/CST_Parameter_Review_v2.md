@@ -189,3 +189,9 @@ T = 200步（200ms窗口，覆盖足够多的稀疏脉冲）
 - Brunel (2000) *J.Comput.Neurosci.* 8:183
 - Attwell & Laughlin (2001) *J.Cereb.Blood.Flow.Metab.* 21:1133
 - Honey et al. (2009) *PNAS* 106:2035
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

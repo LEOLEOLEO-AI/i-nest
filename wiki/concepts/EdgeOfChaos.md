@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenAdaptation]]
 [[Criticality_Induced_Plasticity]]
 [[Criticality_of_Natural_Languages]]
+[[Crystallized_Embedding_Reservoir]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DynamicsMatchedReservoir]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpectralTransition]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[VascularisedBrainOrganoids]]
 [[iNEST]]
 

@@ -28,3 +28,4 @@ TCC, iNEST, topology
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
+[[reservoir computing]]

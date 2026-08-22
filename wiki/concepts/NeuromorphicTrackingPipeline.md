@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Architectural_Conditioning]]
+[[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[iNEST]]
+[[neuromorphic sensing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

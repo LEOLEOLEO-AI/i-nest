@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
@@ -39,8 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
-[[Synaptic_Plasticity_Rule]]
 [[iNEST]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

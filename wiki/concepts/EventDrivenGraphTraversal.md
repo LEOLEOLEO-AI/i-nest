@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[EventDrivenSynchronization]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

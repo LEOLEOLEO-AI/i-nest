@@ -153,3 +153,6 @@ TPU 节点架构包含一个通过 gRPC 与 TPU 主机通信的用户虚拟机�
 
 ## AI 閹芥顩n
 该笔记摘录 Google Cloud 文档，介绍 TPU 通过面向矩阵运算的专用架构提升机器学习工作负载吞吐量，并与 CPU、GPU 的计算及内存访问模式进行对比。
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

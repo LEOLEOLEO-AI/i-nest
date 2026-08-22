@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]
+[[DARPA_ProjectManager_Model]]
 [[Dynamical_State_Space]]
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

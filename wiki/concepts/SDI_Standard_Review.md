@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System]]
@@ -40,11 +41,13 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

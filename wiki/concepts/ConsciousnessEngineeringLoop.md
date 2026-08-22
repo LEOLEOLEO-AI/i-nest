@@ -30,11 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]
+[[Memristor_Synapse]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[NoC_EventRouting]]
 [[OnChipOpticalTweezers]]
+[[PacketRoutingOptimization]]
 [[QuarantineCostTradeoff]]
 [[RobustnessThroughNoise]]
 [[SpatiotemporalCooperativeIntelligence]]
@@ -43,7 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[TSVEncapsulationStress]]
-[[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[iNEST]]
 
 ## Sources

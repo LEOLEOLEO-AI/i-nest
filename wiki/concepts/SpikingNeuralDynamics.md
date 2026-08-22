@@ -27,10 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[NoiseInducedPhaseLocking]]
+[[On_Chip_STDP_Learning]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDPDrivenTemporalBinding]]
 [[STDP_Plasticity]]
 [[SpikeFusionLayer]]
@@ -38,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Temporal_Coding]]
+[[emergent computation]]
 [[iNEST]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

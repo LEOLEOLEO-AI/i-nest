@@ -426,3 +426,9 @@ iNEST关联：直接 — iNEST"大道至简→SOC涌现"命题的数学实证：
 
 ---
 *分析完成。共分析14篇论文（论文16-29），生成Top-7优先级矩阵和3个跨论文联合创新方向。*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

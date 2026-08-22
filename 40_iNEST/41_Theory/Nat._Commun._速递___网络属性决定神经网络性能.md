@@ -63,3 +63,8 @@ Pedapati, Pin-Yu Chen, Yizhou Sun, Jianxi Gao **| 作者**
 信息详见：[首届社会智能大会讲习班讲师阵容公开，征稿进行中！](http://mp.weixin.qq.com/s?__biz=MzkwMTUxMDc2Ng==&mid=2247486878&idx=1&sn=b49130d689d6e43f28464c92cf20fc8f&chksm=c0b2ee9ff7c567897b38f0cccbb73b81cc2b7c837e6c2e77c00410fba71ba30d856e161161a0&scene=21#wechat_redirect)
 
 复杂网络最新研究进展、招生招聘信息请关注👇
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

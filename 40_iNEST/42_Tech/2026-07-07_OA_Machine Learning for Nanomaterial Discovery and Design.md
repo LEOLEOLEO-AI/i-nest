@@ -29,3 +29,9 @@ Machine Learning in Materials Science, Nanoparticles: synthesis and applications
 
 - [OpenAlex](https://openalex.org/W7118022794)
 - [DOI](https://doi.org/10.3390/make8010010) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

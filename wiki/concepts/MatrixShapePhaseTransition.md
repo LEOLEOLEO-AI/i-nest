@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BerryCurvatureIsolation]]
 [[BigBrainCellularAxis]]
 [[BurstGatedRouting]]
+[[DTGA]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]

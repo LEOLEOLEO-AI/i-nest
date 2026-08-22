@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CellEmergence]]
 [[CollectiveSpikingDynamics]]
+[[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

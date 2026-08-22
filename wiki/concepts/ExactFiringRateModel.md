@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTransformer]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[Temporally_Precise_Training_Parallelization]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

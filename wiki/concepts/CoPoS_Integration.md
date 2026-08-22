@@ -28,10 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Packaging]]
 [[Chiplet_Topology]]
-[[Chiplet_Topology_Packaging]]
 [[CoPoS]]
 [[EMIB_Bridge]]
 [[Free_Energy_Principle_Network]]
@@ -44,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[chiplet interconnect]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

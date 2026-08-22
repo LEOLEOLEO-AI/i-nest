@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[iNEST]]

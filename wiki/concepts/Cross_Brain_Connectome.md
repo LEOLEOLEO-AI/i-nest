@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Substrate_Independence]]
 [[Neuromorphic_Computing]]
 [[NeurovascularUnitEngineering]]
+[[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SexBasedConnectomeDifferences]]

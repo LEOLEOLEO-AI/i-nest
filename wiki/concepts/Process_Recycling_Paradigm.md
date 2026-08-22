@@ -19,8 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Chiplet_Integration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CrossbarArrayPrecision]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

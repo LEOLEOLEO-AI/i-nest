@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CriticalityDrivenAdaptation]]
 [[DataDrivenCellularAxis]]
+[[FormalLinguisticCompetence]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDrivenVulnerability]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

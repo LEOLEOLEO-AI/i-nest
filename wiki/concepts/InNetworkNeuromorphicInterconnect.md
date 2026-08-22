@@ -28,9 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Project_Group_Strategy]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[EvanescentFieldTrapping]]
+[[HighThroughputParticleRouting]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

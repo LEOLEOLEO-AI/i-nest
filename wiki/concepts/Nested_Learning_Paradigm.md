@@ -34,11 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Swarm_Coordination]]
 [[iNEST]]
+[[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

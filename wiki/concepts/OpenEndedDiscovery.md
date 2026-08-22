@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AutonomousAdaptation]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]

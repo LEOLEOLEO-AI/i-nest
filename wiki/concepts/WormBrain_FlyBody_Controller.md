@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spike_Encoding_of_fMRI]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

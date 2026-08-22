@@ -21,3 +21,4 @@ SNN, TCC, iNEST, neuromorphic, spiking
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[inest]]

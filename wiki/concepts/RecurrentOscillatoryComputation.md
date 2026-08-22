@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CriticalStateInformationMaximization]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Temporal_Coding]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

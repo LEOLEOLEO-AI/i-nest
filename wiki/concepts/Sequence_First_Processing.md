@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AutonomousSpikingDynamics]]
 [[BioPlausiblePredictiveCoding]]
+[[BrainInspiredArchitecture]]
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
 [[Continuous_Spatiotemporal_State_Propagation]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D integration]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Interconnect]]
@@ -33,9 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Scaling]]
+[[NGMM_Program]]
 [[Network_Topology_Design]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[advanced packaging]]
+[[heterogeneous_integration]]
+[[interconnect scaling]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

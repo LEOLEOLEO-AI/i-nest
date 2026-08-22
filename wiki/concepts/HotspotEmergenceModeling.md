@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
+[[QuantumGateSynthesis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]

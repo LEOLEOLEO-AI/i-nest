@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[BoundaryObject_Abstraction]]
 [[CriticalityInducedTopology]]
 [[Dynamic_Expert_Fusion]]
 [[Long_Range_Interactions]]

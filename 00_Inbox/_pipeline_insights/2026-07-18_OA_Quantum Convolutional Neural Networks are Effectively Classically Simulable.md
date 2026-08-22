@@ -29,3 +29,6 @@ Quantum Computing Algorithms and Architecture, Neural Networks and Applications
 
 - [OpenAlex](https://openalex.org/W4402698820)
 - [DOI](https://doi.org/10.1103/8qt9-72ts) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

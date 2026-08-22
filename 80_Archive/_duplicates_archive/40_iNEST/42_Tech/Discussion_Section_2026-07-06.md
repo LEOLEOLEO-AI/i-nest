@@ -182,3 +182,6 @@ neurons in human brain) by exploiting structural locality and criticality.
 **Path Forward:**
 With silicon validation (Week 4) and multi-species generalization (Week 2), SDI is positioned 
 to become a leading paradigm for neuromorphic computing in the next decade.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

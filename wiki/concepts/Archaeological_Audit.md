@@ -22,12 +22,15 @@ Auto-extracted concept from raw material compilation.
 
 [[BackpropagationFreeLearning]]
 [[CUDAQSimulationFramework]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
 [[CrossSubstrateHomology]]
 [[DARPA_ProjectManager_Model]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
 

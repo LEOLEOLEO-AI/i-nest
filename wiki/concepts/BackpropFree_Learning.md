@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

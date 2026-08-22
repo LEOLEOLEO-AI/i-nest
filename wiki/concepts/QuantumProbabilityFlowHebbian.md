@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
+[[InNetwork_Plasticity]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_SensoryMotor_Loop]]
+[[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

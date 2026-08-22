@@ -27,11 +27,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[Brain_Connectome]]
 [[CST计量仪]]
+[[Complex_System_Theory]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Verification_Protocol]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[DeviceConductanceTuning]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]
+[[Krakencoder_Embedding]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

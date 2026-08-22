@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
@@ -37,8 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Scaling_Laws]]
 [[TCC]]
+[[Universal scaling laws]]
 [[Universal_Scaling_Laws]]
 [[iNEST]]
+[[scaling laws]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

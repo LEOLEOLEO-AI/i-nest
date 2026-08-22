@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Interaction_Sequencing]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BayesianConnectivityEstimation]]
 [[Cognitive_Relapse_Decoupling]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Sloppiness]]
 [[TCC]]
 [[iNEST]]
+[[sloppiness]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

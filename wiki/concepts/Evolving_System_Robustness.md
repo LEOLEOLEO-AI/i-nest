@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[CoexistencePhaseDiagram]]
+[[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

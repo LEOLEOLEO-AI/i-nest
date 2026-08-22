@@ -142,3 +142,6 @@ i-nest/
 ## 版本历史
 - v1 (2026-06-03): 初始 auto-sync 脚本
 - v2 (2026-06-05): 三平台同步架构 + 分类提交 + 状态追踪
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

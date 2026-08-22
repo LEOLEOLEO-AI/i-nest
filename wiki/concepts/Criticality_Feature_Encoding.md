@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[AvalancheBranchingRatio]]
 [[CriticalityInducedTopology]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

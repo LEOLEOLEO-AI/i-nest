@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D heterogeneous integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
@@ -32,12 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
+[[Flow_Network_Memory]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[heterogeneous integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

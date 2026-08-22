@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[AdiabaticModeEvolutionCoupler]]
 [[Interconnect_Routing]]
+[[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
+[[HierarchyOfApproximations]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

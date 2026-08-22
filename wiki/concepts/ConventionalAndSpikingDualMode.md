@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[CoOptimizedMappingScheduling]]
 [[Continuous_Control_Spiking_Stability]]
+[[DeepCode_AlgorithmExtraction]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[iNEST]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

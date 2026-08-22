@@ -149,3 +149,9 @@ $$\left\langle \text{corr}[D_s(t),\, D_T(t)] \right\rangle_T = \text{NMI}(M_s, M
 *创建时间：2026-05-14*  
 *关联文献：West2024_CS_Analysis.md*  
 *关联实验：SDI实验七（待启动）*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

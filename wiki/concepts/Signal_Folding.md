@@ -21,9 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Advanced_Packaging]]
-[[Advanced_Packaging_for_Space]]
 [[BeyondVonNeumannArchitecture]]
 [[ChargeDomainAttention]]
+[[CrossDomain_Integration]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Hardware_Paradigm]]
 [[iNEST]]
+[[neuromorphic computing]]
+[[neuromorphic hardware paradigm]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

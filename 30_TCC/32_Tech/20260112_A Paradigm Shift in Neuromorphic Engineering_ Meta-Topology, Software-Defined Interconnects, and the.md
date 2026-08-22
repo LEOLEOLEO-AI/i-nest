@@ -393,3 +393,9 @@ The transition from digital simulation to physical realization of brain-like net
 42\. The brain is certainly vastly more energy efficient at inference than LLMs on GP... | Hacker News, [https://news.ycombinator.com/item?id=44669474](https://news.ycombinator.com/item?id=44669474)
 
 43\. Digital Twin Cognition: AI-Biomarker Integration in Biomimetic Neuropsychology - MDPI, [https://www.mdpi.com/2313-7673/10/10/640](https://www.mdpi.com/2313-7673/10/10/640)
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

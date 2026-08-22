@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[BulletTrainScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]

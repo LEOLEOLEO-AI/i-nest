@@ -272,3 +272,9 @@ We have proved the Superlinear Emergence Theorem (SET): coupled complex networks
 ---
 
 *Draft v1.0 — 2026-07-07 | Data: sdi_sim/results/superlinear_emergence_results.json | Word count: ~3,200*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

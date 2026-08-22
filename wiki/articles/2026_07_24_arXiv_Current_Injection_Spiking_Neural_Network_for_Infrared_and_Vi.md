@@ -28,3 +28,4 @@ NoC, SNN, iNEST, spiking, 互连, 神经形态
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[inest]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_SensoryMotor_Loop]]
+[[PerturbationSpaceTrajectory]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

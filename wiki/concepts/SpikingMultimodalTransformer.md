@@ -22,19 +22,19 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Acceleration]]
-[[In_Network_Neuromorphic_Scheduling]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

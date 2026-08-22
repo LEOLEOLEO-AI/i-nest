@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[Dynamic_Expert_Fusion]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[忆阻器]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[类脑芯片]]
 

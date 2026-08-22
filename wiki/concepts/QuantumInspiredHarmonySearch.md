@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

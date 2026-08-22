@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NCL神经计算定律详解]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[TCC]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

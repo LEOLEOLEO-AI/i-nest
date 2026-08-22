@@ -34,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OptimalRepresentation]]
 [[RecursiveSelfReferentialArchitecture]]
-[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]

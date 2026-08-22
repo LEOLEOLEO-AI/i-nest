@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[CirculateFiringNeuron]]
 [[CorticalNetworkDynamics]]
+[[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
 [[Gut_Brain_Immune_Network]]

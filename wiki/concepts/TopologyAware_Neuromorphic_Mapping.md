@@ -26,11 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Baseline_Draft_Status]]
+[[CellEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

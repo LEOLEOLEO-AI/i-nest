@@ -33,12 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
+[[heterogeneous integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

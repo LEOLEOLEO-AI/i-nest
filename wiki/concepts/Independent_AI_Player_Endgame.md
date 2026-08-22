@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Selection_Theorems]]
+[[SuperlinearGain]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

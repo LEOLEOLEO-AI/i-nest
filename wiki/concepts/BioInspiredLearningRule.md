@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AdaptiveFlexibilityThreshold]]
 [[BigBrainCellularAxis]]
 [[ChannelEventSparsity]]
 [[Contested_Priors_Mechanism]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -41,10 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[Criticality_Based_Feature_Extraction]]
 [[EdgeIoTEnergyAwareness]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -29,3 +29,9 @@ Additive Manufacturing and 3D Printing Technologies, Polymer composites and self
 
 - [OpenAlex](https://openalex.org/W7122498667)
 - [DOI](https://doi.org/10.3390/polym18020192) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

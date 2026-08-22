@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
@@ -42,7 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_Integration]]
+[[Neuromorphic_computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
@@ -53,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
@@ -62,6 +63,8 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic computing]]
+[[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources

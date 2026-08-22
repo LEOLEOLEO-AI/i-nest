@@ -32,8 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Flexible_Neural_Mapping]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
@@ -42,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

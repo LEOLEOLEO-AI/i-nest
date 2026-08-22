@@ -26,3 +26,4 @@ title: "A Survey on Medical Large Language Models: Technology, Application, Trus
 [[Causal_Emergence]]
 [[Intelligence_Emergence]]
 [[Medical_Large_Language_Models]]
+[[causal emergence]]

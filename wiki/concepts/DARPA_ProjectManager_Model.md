@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RecurrentSpikingSocialNetwork]]
 [[Reservoir_Computing]]
@@ -41,11 +42,13 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SNN]]
 [[ScalableNeuromorphicTopology]]
+[[Soc]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Topology_Centric_Interconnect]]
 [[UntrainedReservoirReadout]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[AstrocyteInspiredRepair]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

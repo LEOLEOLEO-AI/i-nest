@@ -269,3 +269,8 @@ Scaling（伸缩律）：随着表示维度 D 增大，分布式表示的性能�
 ## 确认提交投诉
 你可以补充投诉原因（选填）
 确定
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

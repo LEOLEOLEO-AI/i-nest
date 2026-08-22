@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
@@ -35,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[TCC]]
 
 ## Sources

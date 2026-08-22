@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[Fixed_Cost_Dominance]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Memristive_Topology]]

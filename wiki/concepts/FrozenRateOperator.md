@@ -34,12 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

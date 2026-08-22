@@ -23,12 +23,12 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Collection_Communication_Diagnostic_Tool]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[FPGA_Prototype_Validation]]
 [[Free_Energy_Principle_Network]]
@@ -58,7 +58,9 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[heterogeneous_integration]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

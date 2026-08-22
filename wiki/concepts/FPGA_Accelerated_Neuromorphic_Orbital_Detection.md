@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[OpenSource_Neuromorphic_Framework]]
+[[PerturbationSpaceTrajectory]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

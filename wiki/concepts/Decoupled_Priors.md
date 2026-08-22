@@ -52,7 +52,9 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI_TCC_Chiplet_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
@@ -63,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity_Tc]]
 [[Topology_Centric_Computing]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

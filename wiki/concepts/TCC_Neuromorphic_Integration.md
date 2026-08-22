@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]

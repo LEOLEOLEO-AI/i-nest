@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[HumanVisionInspiredSNN]]
 [[Intelligence_Emergence]]
 [[LearnableGradientSurrogate]]
+[[Lossless_ANN_SNN_Conversion]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

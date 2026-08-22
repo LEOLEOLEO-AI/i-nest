@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepCounterstreamAssociativeNetworks]]
 [[DopamineArousalSwitch]]
 [[Emergent_Intelligence_Threshold]]
+[[EventCameraActionRecognition]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[iNEST]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

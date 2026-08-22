@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaveguideToWaveguideCoupler]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

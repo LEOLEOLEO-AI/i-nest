@@ -55,3 +55,6 @@
 - **Recommended metrics**: critical_threshold_error, phase_transition_sharpness
 - **Required checks**: definitions_closed, derivation_chain_present, threshold_algebra_explicit, beta_function_specified, stability_condition_explicit
 - **Literature support / counter**: 0 / 0
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

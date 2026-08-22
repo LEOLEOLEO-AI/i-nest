@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
@@ -36,19 +37,18 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[advanced packaging]]
 [[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[iNEST]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

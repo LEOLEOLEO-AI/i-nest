@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[CST计量仪]]
 [[Cauchy_Aczel_Uniqueness]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CoPoS]]
 [[Complex_System]]
 [[Complex_System_Theory]]

@@ -35,3 +35,6 @@ Review for relevance to TCC/iNEST.
 
 > [!warning] 已排除（2026-08-11）
 > 误配原因：摘要中 "interconnected subsystems" 被旧过滤逻辑按子串匹配为 "interconnect"，且旧逻辑无安全方向排除词（security/attack/false data injection/networked control）。该文为网络控制系统安全分配方向，与 TCC 拓扑中心计算无关。已从检索目标中排除，后续检索不再收录。
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[FiniteSizeTopologicalPhase]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]

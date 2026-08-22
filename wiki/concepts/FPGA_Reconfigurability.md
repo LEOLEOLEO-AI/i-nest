@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[CommunicationAwareComputeRelocation]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Microsecond_Link_Reconfiguration]]

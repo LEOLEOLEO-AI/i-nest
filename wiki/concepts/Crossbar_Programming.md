@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW]]
 [[Synaptic_Plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

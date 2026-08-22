@@ -38,3 +38,9 @@ provenance: own
 
 σ·α CV=0.75，物种间差异显著，需更多数据。
 σ ∝ N^{0.398} (R²=0.692)。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

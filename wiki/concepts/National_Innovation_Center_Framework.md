@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MultiModel_Adapter_Architecture]]
+[[Multi_Device_Coordination]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
@@ -43,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetworks]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[heterogeneous integration]]
 [[iNEST]]
+[[mesoscale heterogeneous integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

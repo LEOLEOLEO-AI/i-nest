@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Communication]]
 [[FoveationGuidedTokenSelection]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -36,3 +36,6 @@ How does the tolerance of reservoir networks to random node failures (errors) an
 
 ## 预期贡献
 Reveal that scale-free reservoirs are highly vulnerable to targeted attacks but robust to random failures, while small-world reservoirs offer a balanced trade-off, guiding the design of resilient physical reservoir computers.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

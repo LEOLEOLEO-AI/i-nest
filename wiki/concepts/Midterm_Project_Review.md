@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
+[[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

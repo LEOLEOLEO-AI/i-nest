@@ -29,3 +29,9 @@ Advanced Memory and Neural Computing, Neural Networks and Reservoir Computing, F
 
 - [OpenAlex](https://openalex.org/W7124290316)
 - [DOI](https://doi.org/10.1038/s41928-025-01554-4) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

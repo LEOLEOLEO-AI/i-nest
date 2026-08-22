@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
+[[ANN动力学]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

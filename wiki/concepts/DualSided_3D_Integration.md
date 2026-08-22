@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D integration]]
 [[3D_Integration]]
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
@@ -39,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[chiplet interconnect]]
+[[chiplet stacking]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

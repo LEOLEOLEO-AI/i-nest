@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Monitored_Quantum_Circuits]]
 [[MultifractalCriticalPhase]]
 [[NCA_Reservoir]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

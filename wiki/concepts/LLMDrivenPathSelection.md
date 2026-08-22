@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]
+[[Receptron_Unit]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Mesh]]

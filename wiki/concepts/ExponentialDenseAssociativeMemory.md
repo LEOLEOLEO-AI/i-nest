@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
+[[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Principle_Network]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
@@ -41,8 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[Stigmergic_Graph_Memory]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

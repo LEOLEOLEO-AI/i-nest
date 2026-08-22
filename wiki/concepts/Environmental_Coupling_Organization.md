@@ -22,14 +22,21 @@ Auto-extracted concept from raw material compilation.
 
 [[CMOS_Memristor_Devices]]
 [[ChipletOpticalIO]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Criticality_of_Natural_Languages]]
 [[CrossbarArrayIntegration]]
 [[Crystallized_Embedding_Reservoir]]
+[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
+[[Memristor_Device]]
+[[Memristor_Synapse]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,3 +30,9 @@ FEP-STDP深度融合：面向绿色安全可扩展智能的物理自演化神经
 
 > 由研发看板自动索引，遵循 Obsidian Wiki/LLM 知识管理规则。
 > 原始内容请查看源文件。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

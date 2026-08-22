@@ -176,3 +176,6 @@ Tc = (τ_mem · τ_sync · τ_frac · τ_crit)^(1/4)
 
 *文件：`02_Papers_论文/CST_V2.1_Symbol_Rename.md`*
 *同步更新：MEMORY.md、CST_V2.1_Theory_FINAL.md（待执行）*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

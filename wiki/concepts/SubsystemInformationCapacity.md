@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
+[[CoDesignedOnlineContinualLearning]]
 [[Critical_Exponent_Scaling]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
+[[neuromorphic substrate]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -19,3 +19,4 @@ TCC, iNEST
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
+[[inest]]

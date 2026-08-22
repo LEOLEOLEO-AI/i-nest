@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_computing]]
 [[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]

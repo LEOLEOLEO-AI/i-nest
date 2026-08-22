@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[BandedConnectivityModel]]
 [[Biologically_Plausible_Learning_Rules]]
+[[BrainBodyResonance]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

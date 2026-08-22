@@ -86,3 +86,9 @@ provenance: external
   - arXiv | 2026-06-07
   - Source code vulnerability detection remains a long-standing challenge due to the increasing scale, structural complexity, and semantic diversity of mo
 
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

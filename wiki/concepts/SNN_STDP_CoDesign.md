@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

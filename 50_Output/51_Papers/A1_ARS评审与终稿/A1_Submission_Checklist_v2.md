@@ -69,3 +69,6 @@ provenance: external
 > **Pipeline note:** The complete ARS review pipeline has been executed through v32.  
 > Tectonic LaTeX engine has a known incompatibility with fontspec + display math in large files.  
 > **Recommendation:** Use Overleaf for final compilation or install TeX Live 2025+.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

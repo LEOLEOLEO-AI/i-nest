@@ -53,3 +53,8 @@ Ramin Hasani, Mathias Lechner, et. al. Liquid Time Constant Networks. (June 8,
 Ramin Hasani. (January 19, 2023). Liquid Neural Networks https://www.youtube.com/watch?v=RI35E5ewBuI
 - 
 Tim Keary. (September 25, 2023). Liquid Neural Network (LNN) https://www.techopedia.com/definition/liquid-neural-network
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

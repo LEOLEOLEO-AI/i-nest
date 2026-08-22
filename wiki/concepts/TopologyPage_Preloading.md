@@ -27,12 +27,15 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
+[[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[SDI_Control_Plane_Offload]]
 [[Space_Compute_Architecture_Tradeoff]]
 [[TCC]]
+[[topology page]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -161,3 +161,9 @@ Cerebras WSE SwarmX 架构代表了从冯·诺依曼节点中心（node-centric�
 ---
 
 **主要参考文献**：[1] M. Horowitz, “Computing’s Energy Problem,” ISSCC 2014; [2] S. Lie, “Cerebras Architecture Deep Dive,” Hot Chips 34, 2022; [3] S. Lie, “Wafer-Scale AI: GPU Impossible Performance,” Hot Chips 2024; [4] M. Kaur et al., “A Comparison of the Cerebras WSI Technology,” arXiv:2503.11698, 2025; [5] Y. Feng & K. Ma, “Switch-Less Dragonfly on Wafers,” arXiv:2407.10290, 2024; [6] WATOS, “Efficient LLM Training Strategies for Wafer-Scale Chip,” HPCA 2026; [7] Lightmatter, “Passage L20 Photonic Interconnect,” 2025; [8] Irrational Analysis, “The Copper Chains Holding Cerebras Back,” 2023; [9] IMEC, “Tackling NoC Scaling Challenges with Backside NoC,” 2025; [10] J. Kim et al., “Cost-Efficient Dragonfly Topology for Large-Scale Systems,” ISCA 2008.
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

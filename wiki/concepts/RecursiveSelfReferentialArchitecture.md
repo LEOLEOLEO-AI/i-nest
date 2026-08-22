@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
+[[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic substrate]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

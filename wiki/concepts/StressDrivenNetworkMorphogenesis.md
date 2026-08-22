@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]

@@ -21,13 +21,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CST_SynergisticCoordination]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Memristive_STDP]]
+[[Memristor_Network]]
+[[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SNN]]
+[[STDP_Plasticity]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[156QubitScale]]
 [[AI_FullSpectrum_Strategy]]
+[[AdaptiveTimeStepTraining]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[VariationalFreeEnergyMinimisation]]
+[[planar network generation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

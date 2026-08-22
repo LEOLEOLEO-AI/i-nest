@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedSpikeLearning]]
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
+[[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]

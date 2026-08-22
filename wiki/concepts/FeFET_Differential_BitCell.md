@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[OnlineLearningRule]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[ScaleFreeNetwork]]
+[[StateAugmentedLearning]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

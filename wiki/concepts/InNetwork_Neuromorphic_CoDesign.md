@@ -34,12 +34,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDN_Neuromorphic_Interface]]
+[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SparseActivationPattern]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Topology_Aware_Spike_Routing]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

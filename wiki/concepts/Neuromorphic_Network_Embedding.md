@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[Hardware_Accelerated_SNN]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[National_Innovation_Center_Role]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[PolymerComposite_Substrate]]
 [[SDI_Bond]]
 [[SNN]]
 [[Spiking_Neural_Network]]

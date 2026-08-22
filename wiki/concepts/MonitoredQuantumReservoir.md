@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
+[[Izhikevich_NeuronModel]]
 [[Network_Topology_Design]]
 [[PhysicalReservoirTransientDynamics]]
 [[Quantum_Reservoir_Computing]]
@@ -40,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]
+[[quantum reservoir computing]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

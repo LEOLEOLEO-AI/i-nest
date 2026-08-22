@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Critical_Exponent_Analysis]]
 [[DARPA_BioStrategic_Reshaping]]
+[[DeepCounterstreamAssociativeNetworks]]
 [[Emergent_Intelligence_Threshold]]
 [[FC2_Goal_Representation]]
 [[Free_Energy_Principle_Network]]

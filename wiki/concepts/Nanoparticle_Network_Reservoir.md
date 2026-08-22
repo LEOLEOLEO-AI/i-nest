@@ -34,9 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NonequilibriumLangevinComputing]]
+[[Physical_Reservoir_Substrate]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[neuromorphic computing]]
+[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

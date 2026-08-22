@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[忆阻器]]
 [[神经网络]]
 [[类脑芯片]]
 

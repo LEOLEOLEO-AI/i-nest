@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
+[[In_Network_Neuromorphic_Integration]]
 [[IntervalAnalysis]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

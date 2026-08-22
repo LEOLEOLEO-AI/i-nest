@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]
+[[MagnitudePhaseComputationalModel]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

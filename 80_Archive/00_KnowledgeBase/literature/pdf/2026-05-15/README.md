@@ -19,3 +19,6 @@ provenance: dsh-research-agent
 - Complexity synchronization in emergent intelligence.pdf
 
 如需恢复原件：`D:\Obsidian\_external_archive\archive_pdfs_20260822\`
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

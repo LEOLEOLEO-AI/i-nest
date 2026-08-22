@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
+[[Decoupled_Priors]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]

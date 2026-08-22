@@ -33,9 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DarkSiliconAwarePowerGating]]
 [[Resilient_Sensing_Comms_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[advanced packaging]]
 [[神经网络]]
 
 ## Sources

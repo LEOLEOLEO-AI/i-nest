@@ -28,12 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]
+[[FirstPrinciples_Derivation]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network_dynamics]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

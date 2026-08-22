@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Entanglement_Teleportation_Locality]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

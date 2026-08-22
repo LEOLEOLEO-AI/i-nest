@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[智能涌现]]
 [[涌现]]
+[[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

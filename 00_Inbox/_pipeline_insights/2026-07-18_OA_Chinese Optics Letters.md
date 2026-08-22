@@ -29,3 +29,6 @@ History and Developments in Astronomy
 
 - [OpenAlex](https://openalex.org/W4213028051)
 - [DOI](https://doi.org/10.3788/col) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

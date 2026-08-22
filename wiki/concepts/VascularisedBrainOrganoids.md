@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityConstrainedPruning]]
 [[CriticalityDrivenAdaptation]]
 [[Criticality_Induced_Plasticity]]
+[[EdgeOfChaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
@@ -37,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
+[[avalanche dynamics]]
 [[iNEST]]
+[[neuronal avalanche dynamics]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

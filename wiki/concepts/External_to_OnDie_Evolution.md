@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Attention_Residuals]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Evolutionary_Structure_Computability]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[TopologyProgramming]]
+[[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

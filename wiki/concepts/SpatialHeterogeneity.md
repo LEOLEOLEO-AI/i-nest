@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
 [[CrashHotspotForecasting]]
+[[Crystallized_Neural_Manifolds]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TCC]]

@@ -157,3 +157,9 @@ Based on verified and projected results:
 3. Integrate with memai FEP/EFE free energy simulation
 4. Build physical constraint model (port limits, power budget)
 5. Prepare SDI simulation section for #52 or P-Theory paper
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

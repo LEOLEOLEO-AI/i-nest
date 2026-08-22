@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveTimeStepTraining]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DiscreteContinuous_Unification]]
@@ -32,8 +33,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Substrate]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

@@ -37,3 +37,9 @@ python "$dir\calculate_sc.py" --connectome 'D:\Obsidian\vault\40_iNEST\45_Simula
 
 本轮完成的是“可审计验证管线的建立”，不是 CST 生物学正确性的验证。只有 V-CST-01 产生可复现结果，并获得带神经元 ID 映射的真实功能数据后，才可继续 V-CST-02/V-CST-03。
 
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

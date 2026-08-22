@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[OptimalGeneralisationNearInterpolation]]
+[[PhotoIontronicSynapse]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikePacketCompression]]
 [[Spike_Encoding_of_fMRI]]

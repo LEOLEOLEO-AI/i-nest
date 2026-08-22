@@ -29,3 +29,9 @@ BIM and Construction Integration
 
 - [OpenAlex](https://openalex.org/W4415086806)
 - [DOI](https://doi.org/10.1038/s41928-026-01611-6) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

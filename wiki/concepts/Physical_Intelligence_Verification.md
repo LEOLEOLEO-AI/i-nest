@@ -38,9 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[ScalableNeuromorphicTopology]]
 [[SpatiotemporalComplexityIndex]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

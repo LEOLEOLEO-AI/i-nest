@@ -477,3 +477,9 @@ $$C_{\text{migration}}^{\text{SDI}}(N) \approx \text{const} \cdot |\Delta\mathca
 *定义修正：1+1>2 的正确维度 = 能效E × 任务覆盖D × 迁移敏捷性A*  
 *三维联合超线性 >> 单维度算力绝对量增长*  
 *数据级别全部显式标注（S1-S4）*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

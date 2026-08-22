@@ -98,3 +98,9 @@ thread.readFrom(dst,size);//读取运算结果
 ### **📌 补充细节**
 - **文档与论文资源**：配套示例工程文档、顶会原版论文可前往ETH官方项目主页下载。  
 - **技术生态**：支持主流FPGA加速卡型号，且针对GPU互联场景进行了Linux内核版本优化（需≥6.2）。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

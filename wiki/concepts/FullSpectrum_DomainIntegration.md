@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CrossDomainAwareness]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Abilities]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlocks]]

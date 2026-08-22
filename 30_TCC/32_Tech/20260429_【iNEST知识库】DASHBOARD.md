@@ -187,3 +187,9 @@ KB/ 根目录（workspace/KB/）下均为真实目录：
 - ../05_Projects_项目/ ← 海河实验室、NSFC、卫星项目
 - ../TCC_IP_Portfolio/ ← P1-P5专利框架、论文A/B/C框架
 - ../00_KnowledgeBase_知识库/03_Inbox/ ← 1105个文献（原地保留）
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

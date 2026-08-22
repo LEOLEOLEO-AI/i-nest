@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[ErrorSuppressedPipeline]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActiveDendriteSNN]]
+[[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Orbital_Object_Pipeline]]

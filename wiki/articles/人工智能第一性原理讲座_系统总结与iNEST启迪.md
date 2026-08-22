@@ -24,6 +24,7 @@ SDI, STDP, TCC, iNEST, 忆阻, 拓扑, 神经形态, 类脑, 芯粒
 ## Related Concepts
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

@@ -29,3 +29,6 @@ Electrical Fault Detection and Protection, Photovoltaic System Optimization Tech
 
 - [OpenAlex](https://openalex.org/W7128956723)
 - [DOI](https://doi.org/10.3390/electronics15040827) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

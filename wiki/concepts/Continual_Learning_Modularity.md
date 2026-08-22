@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityOffCriticalityTransition]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaosComputation]]
+[[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[StochasticMultiAgentRL]]
+[[catastrophic forgetting]]
 [[iNEST]]
 
 ## Sources

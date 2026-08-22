@@ -26,15 +26,18 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_To_Information_Conversion]]
 [[AssociativeMemoryTopology]]
 [[BigBrainCellularAxis]]
+[[Continual_Learning_Modularity]]
+[[Interconnect_Routing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[StochasticVehicleRouting]]
+[[neuromorphic computing]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

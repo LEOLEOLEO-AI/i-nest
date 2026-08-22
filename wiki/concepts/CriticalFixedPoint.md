@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[ComplexEcosystemDynamics]]
 [[Contested_Priors_Mechanism]]
+[[Continual_Learning_Topology]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityOffCriticalityTransition]]
 [[Dynamic_Expert_Fusion]]

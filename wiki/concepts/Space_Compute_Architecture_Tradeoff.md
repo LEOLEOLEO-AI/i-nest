@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Deep_Thermalisation]]
-[[Deep_Thermalisation_Dynamics]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DirectConnect_Topology]]
 [[External_to_OnDie_Evolution]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[RadiationHardened_ProcessNodeScaling]]
 [[TCC]]
 
 ## Sources

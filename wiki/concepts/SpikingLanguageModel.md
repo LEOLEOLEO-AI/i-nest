@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
+[[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

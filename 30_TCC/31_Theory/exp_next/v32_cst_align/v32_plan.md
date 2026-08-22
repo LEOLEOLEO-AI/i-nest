@@ -46,3 +46,9 @@ v22-v31中σ无约束增长（最高19.5），与CST六阈值（上限Δ=4.669�
 1. σ→功能能力的单调对应关系图
 2. 修复Spearman ρ（从负相关到正相关）
 3. 为CST论文提供核心实验证据
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

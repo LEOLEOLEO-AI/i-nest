@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[CircuitTopologyEncoding]]
 [[DelayPropagationDynamics]]
+[[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

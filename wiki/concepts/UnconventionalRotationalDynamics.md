@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristive_STDP]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

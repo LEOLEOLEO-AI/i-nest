@@ -27,10 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[ConnectivityDerivedReservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[neuromorphic computing]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

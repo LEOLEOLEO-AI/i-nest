@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Complex_Network_Brain_Inspired_Computing]]
+[[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

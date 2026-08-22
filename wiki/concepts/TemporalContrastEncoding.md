@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikeTimingFidelity]]
+[[SpikeTimingGradientPropagation]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

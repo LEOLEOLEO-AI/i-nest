@@ -446,3 +446,9 @@ The proof is grounded in physical first principles (Landauer, Shannon, SOC), cor
 
 [18] **Wang, H., et al.** (2020). Opera: Enabling expressive reconfigurable datacenter networks. *NSDI'20.* **[S1]** — 4× bandwidth, 60% throughput gain, reconfigurable optical datacenter; §4.2 D-dimension corroboration.
 
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

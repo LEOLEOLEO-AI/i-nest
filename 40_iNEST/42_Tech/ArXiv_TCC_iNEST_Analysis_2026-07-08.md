@@ -255,3 +255,9 @@ SDM 的稀疏分布式表示 = 拓扑稀疏激活的记忆实现：TCC 中 SDI �
 *分析日期：2026-07-08*  
 *覆盖论文：7篇（2026-07-08日报全覆盖）*  
 *数据来源：arXiv原始摘要（S3级）*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

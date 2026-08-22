@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[HigherOrderSynchronization]]
 [[Interconnect_Routing]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network_dynamics]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

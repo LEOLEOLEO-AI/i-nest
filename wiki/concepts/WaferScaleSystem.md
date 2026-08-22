@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyCentricPrimitiveSystem]]
 [[Topology_Reconfiguration]]
 [[WaferScaleTopologyCentricComputing]]
+[[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

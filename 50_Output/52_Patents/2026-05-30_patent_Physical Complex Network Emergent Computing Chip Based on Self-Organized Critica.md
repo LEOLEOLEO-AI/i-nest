@@ -52,3 +52,6 @@ Unlike conventional neuromorphic chips that emulate fixed neural network topolog
 1. A computing device comprising: a plurality of nonlinear physical nodes interconnected via a reconfigurable network, wherein the network is configured to maintain a self-organized critical state through local adaptation rules; and a readout interface that extracts emergent spatiotemporal patterns from the collective dynamics of the nodes to perform a target computational task.
 2. The device of claim 1, wherein the nodes are analog oscillators, memristors, or superconducting circuits, and the adaptation rules adjust coupling strengths based on avalanche statistics to sustain criticality.
 3. A method for computing using the device of claim 1, comprising: injecting an input stimulus into the network; allowing the network to relax to a new critical attractor; and decoding the resulting activity pattern into an output via a trained linear or nonlinear readout layer.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

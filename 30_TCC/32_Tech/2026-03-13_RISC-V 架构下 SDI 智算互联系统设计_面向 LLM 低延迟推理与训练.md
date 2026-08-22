@@ -240,3 +240,9 @@ LLM 推理与训练场景下，本文系统与传统 x86+胖树架构的延迟�
 
 ---
 *getnote | 2026-06-30 12:36*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

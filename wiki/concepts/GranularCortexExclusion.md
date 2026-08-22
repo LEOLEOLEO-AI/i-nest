@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Integration]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
+[[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[STDP_Plasticity]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -65,8 +67,8 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity_Tc]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Gut_Brain_Immune_Network]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]

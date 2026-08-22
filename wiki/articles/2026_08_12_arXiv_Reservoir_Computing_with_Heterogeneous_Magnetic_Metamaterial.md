@@ -20,3 +20,4 @@ TCC, iNEST, interconnect
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
+[[inest]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[ANN动力学]]
+[[Allreduce_Latency_MVP]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -57,12 +58,12 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_Topology]]
-[[TCC_Topology_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[TopologyFragility]]
 [[Topology_Interconnect]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

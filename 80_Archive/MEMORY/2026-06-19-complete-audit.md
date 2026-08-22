@@ -191,3 +191,6 @@ v30 的 connectome_path：未定义
 **诊断等级**：🔴 严重问题
 **建议行动**：立即修改论文表述，启动完整方法论重建
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

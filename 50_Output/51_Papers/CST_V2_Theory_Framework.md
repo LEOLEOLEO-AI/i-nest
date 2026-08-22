@@ -334,3 +334,6 @@ def compute_Tc_V2(H_record, avalanche_sizes):
 | 遗漏？ | — | — | 有向性时序（突触传播方向）→ 暂忽略，待v2.1 |
 
 ⚠️ τ₀（Hurst均值）和τ₂（Hurst范围）均用DFA Hurst值，弱相关但测量不同方面（均值vs离散度），类比均值与标准差的关系——不冗余。
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

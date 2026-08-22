@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PhononicBandgapEngineering]]
 [[PinAssignmentOptimization]]
+[[RecurrentOscillatoryComputation]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

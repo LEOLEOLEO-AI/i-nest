@@ -33,8 +33,10 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[SpatiotemporalCooperativeIntelligence]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

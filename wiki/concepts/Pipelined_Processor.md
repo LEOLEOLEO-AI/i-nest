@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Baseline_Draft_Status]]
 [[BitPrecisionAwareScheduling]]
 [[Branch_Prediction]]
 [[DARPA_Technology_Incubation]]
@@ -37,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Semantic_Least_Energy_Principle]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[branch prediction]]
+[[neuromorphic acceleration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

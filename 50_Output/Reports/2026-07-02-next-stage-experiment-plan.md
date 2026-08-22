@@ -1152,3 +1152,6 @@ NoGo 条件：仿真不稳定 → 延期 1 周调参
 
 **关键提示**：本计划是严格的，所有时间表假设团队能够满足人力和计算资源。建议 Week 1 末进行 Go/NoGo 检查确保进度。
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

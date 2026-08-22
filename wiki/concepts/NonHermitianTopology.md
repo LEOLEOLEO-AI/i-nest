@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PlanarNetworkSimulation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SpikeDrivenDataAssociation]]
 [[SpikeEventDrivenInference]]
 [[Spiking_Neural_Network]]
 [[TCC]]

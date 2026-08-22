@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
+[[CoDesignedOnlineContinualLearning]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[HebbianLimitCycleLearning]]

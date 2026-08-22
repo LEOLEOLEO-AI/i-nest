@@ -26,3 +26,4 @@ topology
 [[EfficientDeepLearning]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[intelligence emergence]]

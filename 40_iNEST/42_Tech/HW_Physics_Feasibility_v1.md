@@ -299,3 +299,9 @@ STDP时间窗 = 20ms（生物参考）
 *文档路径：iNEST_HW_Engineering/docs/feasibility/HW_Physics_Feasibility_v1.md*
 *关联实验：v32（CST基线）/ v33（Γst突破）/ v34（物理第一性验证）*
 *关联规格：iNEST_HW_Engineering/docs/specs/SDI_Rules_v6_Hardware_Spec.md*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

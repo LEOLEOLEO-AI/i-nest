@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Edge_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -41,3 +41,6 @@ provenance: external
 - `V-GW-02`: 分类失败进入 `20_Processing/21_Pending`，不得静默丢失；验收为失败计数和原文件均可见。
 - `V-GW-03`: 看板只读取 `research_state.json` 和 `data.js`；验收为不存在第二个写看板入口。
 - `V-GW-04`: 消息入口只保留一个生产网关；在个人微信和企业微信之间作出选择前，不同时启用多个桥接器。
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

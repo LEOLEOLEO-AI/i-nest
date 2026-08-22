@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[3DGS_SplatPrimitive]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[ANN动力学]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalComplexityReduction]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

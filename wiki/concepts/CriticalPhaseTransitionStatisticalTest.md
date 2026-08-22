@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
+[[getnote_2026-06-28_从固定拓扑到液态拓扑计算]]
 [[getnote_2026-06-28_海河实验室项目指南_中间版本_]]
 [[iNEST]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]

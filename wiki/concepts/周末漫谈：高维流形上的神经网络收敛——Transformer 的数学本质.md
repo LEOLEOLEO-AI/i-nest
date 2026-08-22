@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[CompleteConnectomeDynamics]]
 [[ConnectomeFidelityClaim]]
 [[ConnectomeWiringSeparability]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BulletTrainScheduling]]
 [[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Intelligence]]
@@ -37,8 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenMultiObjectTracking]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[edge intelligence]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic computing]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Complex_System]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
+[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

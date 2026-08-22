@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BifurcationCandidate]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[DirectConnect_Topology]]

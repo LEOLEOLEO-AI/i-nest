@@ -861,3 +861,9 @@ def optimal_page_sequence(tasks, pages, switch_cost):
 | SDI化合键工程 | [SDI化合键工程参数证明及工程实现方案.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/SDI化合键工程参数证明及工程实现方案.md) | 物理参数 |
 | FPGA落地路线图 | [LNN到iNEST到FPGA_持续推进落地路线图.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/LNN到iNEST到FPGA_持续推进落地路线图.md) | 四阶段路线 |
 | 工程边界定义 | [iNEST_TCC_工程边界定义.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/iNEST_TCC_工程边界定义.md) | 分工边界 |
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

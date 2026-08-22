@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Accessibility_Plasticity]]
+[[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
 [[BrainBodyResonance]]
 [[Cognitive_Relapse_Architecture]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FrozenRateOperator]]
 [[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]
+[[In_Context_Learning]]
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
+[[synaptic plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

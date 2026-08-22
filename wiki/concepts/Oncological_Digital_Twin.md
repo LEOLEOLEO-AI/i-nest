@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]
+[[EventDrivenSynchronization]]
 [[ImpactFallDetection]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]

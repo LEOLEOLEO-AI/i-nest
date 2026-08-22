@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenMotionDeblurring]]
 [[Hardware_Accelerated_SNN]]
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]

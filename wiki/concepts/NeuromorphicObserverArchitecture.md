@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Computing]]
@@ -37,8 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[synaptic plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

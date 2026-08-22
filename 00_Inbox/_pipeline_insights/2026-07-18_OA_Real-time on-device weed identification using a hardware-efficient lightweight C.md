@@ -29,3 +29,6 @@ Smart Agriculture and AI, Remote Sensing in Agriculture, Plant Disease Managemen
 
 - [OpenAlex](https://openalex.org/W7129071780)
 - [DOI](https://doi.org/10.3389/fpls.2026.1747863) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

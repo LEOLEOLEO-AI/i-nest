@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[EventDrivenAttention]]
+[[ExactFiringRateModel]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]

@@ -31,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI_Supply_Chain_Increment]]
+[[ANN动力学]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]
@@ -48,4 +49,3 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]

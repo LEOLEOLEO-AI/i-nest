@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D integration]]
 [[3DHI_Chiplet_Integration]]
 [[3D_Integration]]
 [[AI_Faculty_Forum_2026]]
@@ -33,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Topology]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ERI]]
+[[Deep_Network_Architecture_Invariant]]
+[[EfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

@@ -135,3 +135,9 @@ SDI路线（iNEST）：
 
 *录入时间：2026-05-17 | 已收录于CST V25 [65]号文献*  
 *关联工作：B3论文框架 · 论文A §3 · Demo叙事 · SDI行为一致性验证*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

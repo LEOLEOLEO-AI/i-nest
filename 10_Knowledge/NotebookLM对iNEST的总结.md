@@ -994,3 +994,5 @@ L=fracC_STtextEnvironmentComplexity(mathcalE)cdottextEnergyCost(mathcalG)
 - **超线性跃迁：** 通过这种动力学机制，TCC 能够利用时空延迟共振，在更高维度上重构全局不动点，从而在物理上实现 **V = E·D·A** 的超线性增益4,18。
 
 **总结而言**，三元内核理论为 TCC 提供了从“死硬件”向“活系统”演化的**科学处方**。它启示 TCC 的设计者：**1+1>2 的增益本质上是系统主动剔除局部制动、跃入混沌边缘、并依靠拓扑动力学重构秩序的过程**2,20。这一理论不仅是算法的灵魂，更是实现“晶圆级液态硬件”的底层逻辑支撑。
+
+<!-- orphan-cleanup: no MOC found, tagged -->

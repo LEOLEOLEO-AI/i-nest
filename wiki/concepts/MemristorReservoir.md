@@ -23,17 +23,20 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
+[[HardwareAware_DesignSpace]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Substrate]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[Reservoir_Computing_Architecture]]
 [[SelfRectifyingMemristor]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[reservoir computing architecture]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[ReSCom_Accelerator]]
+[[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

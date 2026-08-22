@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[DisorderedNetworkInterconnect]]
 [[EEGToNeuromorphicMapping]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

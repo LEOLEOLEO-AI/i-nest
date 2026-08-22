@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstCoding]]
+[[Controlled_Release_Kinetics]]
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

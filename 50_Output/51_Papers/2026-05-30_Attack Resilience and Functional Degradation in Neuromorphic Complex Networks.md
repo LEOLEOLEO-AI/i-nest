@@ -37,3 +37,6 @@ How do targeted node/edge attacks versus random failures impact the functional p
 
 ## 预期贡献
 This study would systematically translate the structural 'error and attack tolerance' theory of complex networks into the functional domain of neuromorphic computing. By training SNNs on benchmark tasks and then performing lesion studies, it would establish which topological features best preserve computational function under damage, directly informing the design of fault-tolerant neuromorphic hardware and resilient artificial neural systems.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

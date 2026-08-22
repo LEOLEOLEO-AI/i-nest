@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CircadianGateModulation]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing_Architecture]]
 [[SelfOrganizedOscillatoryLearning]]
 [[iNEST]]
+[[reservoir computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

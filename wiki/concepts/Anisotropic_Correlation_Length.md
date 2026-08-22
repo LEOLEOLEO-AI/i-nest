@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BifurcationCandidate]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[DistributedTrainingCommunicationPattern]]

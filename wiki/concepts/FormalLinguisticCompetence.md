@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[HierarchicalBayesianCommunityDetection]]
+[[HierarchyOfApproximations]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]

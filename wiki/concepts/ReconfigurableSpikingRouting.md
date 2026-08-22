@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[新型计算]]

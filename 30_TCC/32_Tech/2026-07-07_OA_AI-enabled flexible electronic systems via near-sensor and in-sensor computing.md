@@ -29,3 +29,9 @@ Modular Robots and Swarm Intelligence, Energy Efficient Wireless Sensor Networks
 
 - [OpenAlex](https://openalex.org/W7131790044)
 - [DOI](https://doi.org/10.1038/s41528-026-00544-6) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

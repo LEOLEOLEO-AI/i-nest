@@ -81,3 +81,6 @@ SOC 神经雪崩需要**时空异质性**（spatiotemporal heterogeneity）：
 
 *报告生成：2026-07-09*  
 *实验脚本：sdi_sim/hemibrain_v32_lif.py*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

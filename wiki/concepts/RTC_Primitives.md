@@ -47,6 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[Topology_Reconfiguration]]
 [[iNEST]]
+[[temporalComplexity]]
+[[topology reconfiguration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

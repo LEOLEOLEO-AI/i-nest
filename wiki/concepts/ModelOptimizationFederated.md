@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
-[[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
@@ -38,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Physical_First_Principles]]
 [[SDI_Bond]]
 [[SDI_Chiplet]]
-[[SDI_Chiplet_Interconnect]]
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -46,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[忆阻器]]
 [[类脑芯片]]
 
 ## Sources

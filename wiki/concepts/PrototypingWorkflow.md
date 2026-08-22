@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
+[[CoDesignedOnlineContinualLearning]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[HebbianLimitCycleLearning]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TOOLS]]
 [[TwoTimescaleNeuroEvolution]]
+[[tools]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

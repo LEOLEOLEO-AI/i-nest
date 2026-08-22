@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
+[[EventDataNonUniformity]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[catastrophic forgetting]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

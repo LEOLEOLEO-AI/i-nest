@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Advanced_Packaging]]
+[[Advanced_Packaging_for_Space]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]

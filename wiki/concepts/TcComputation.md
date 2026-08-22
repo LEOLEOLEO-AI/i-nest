@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Industrial_Ecosystem]]
 [[ANN动力学]]
 [[Allreduce_Latency_MVP]]
+[[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]
 [[Attention_Residuals]]
 [[AvalancheBranchingRatio]]
@@ -58,13 +59,14 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_Topology]]
-[[TCC_Topology_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topological_Criticality]]
 [[TopologyProgramming]]
 [[Topology_Interconnect]]
+[[temporalComplexity]]
+[[topological criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -484,3 +484,9 @@ $$\text{CST} = C_S^{0.5} \cdot C_T^{0.5} \cdot e^{\alpha \cdot \Gamma_{st}}$$
 
 *本矩阵生成时间：2026-07-07 | 覆盖文献：23篇 | 分析框架：TCC/iNEST/CST*  
 *下次更新建议：读取 arXiv:2606.17745 和 arXiv:2607.02283 全文，补充冻结算子和树突SNN的具体数据*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[AgenticServiceOrchestration]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[Architectural_Conditioning]]

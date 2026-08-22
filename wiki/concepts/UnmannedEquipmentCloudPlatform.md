@@ -28,8 +28,16 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[ANN动力学]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[STDP_Plasticity]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

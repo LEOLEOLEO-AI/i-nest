@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[BayesianDomainEvolution]]
 [[BrainBodyResonance]]
+[[CascadedAdaptiveCombiners]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[synaptic plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

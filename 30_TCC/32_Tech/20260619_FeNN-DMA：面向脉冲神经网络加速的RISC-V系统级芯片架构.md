@@ -137,3 +137,9 @@ source: getnote---
 ### **🎯 总结：SNN硬件设计的务实路线**
 
 FeNN-DMA展示了神经形态计算的中间路线：既避免GPU对密集计算的过度优化，又克服ASIC的灵活性不足，通过**RISC-V可编程性+向量并行+DMA存储优化+lane-local稀疏支持+Python工具链**的组合，为快速演进的SNN模型提供了高效、灵活的硬件平台。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

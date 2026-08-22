@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Substrate]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[SelfOrganizedOscillatoryLearning]]

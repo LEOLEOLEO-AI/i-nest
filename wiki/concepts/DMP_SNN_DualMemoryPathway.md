@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Distributed_Spike_Communication]]
 [[HodgkinHuxleyDynamics]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ChiralSymmetryClasses]]
+[[CoaxialLikeTGV]]
 [[ComputeRelocationOverhead]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

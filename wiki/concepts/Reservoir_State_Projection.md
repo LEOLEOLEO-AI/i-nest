@@ -30,10 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[HardwareAware_DesignSpace]]
 [[HybridReservoirComputing]]
+[[Intelligence_Emergence]]
 [[Nonlinear_Gain]]
 [[PhysicalReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SimulabilityThreshold]]
 [[TCC]]
 [[iNEST]]
 

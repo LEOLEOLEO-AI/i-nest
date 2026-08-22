@@ -27,7 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[ConnectivityDerivedReservoir]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
+[[AdaptiveFunctionalTopology]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]

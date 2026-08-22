@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[Criticality_Based_Feature_Extraction]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

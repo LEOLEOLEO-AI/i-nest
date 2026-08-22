@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[Heterogeneous_Integration]]
@@ -60,6 +61,9 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Universal_Scaling_Laws]]
+[[scaling laws]]
+[[temporalComplexity]]
+[[universal scaling laws]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

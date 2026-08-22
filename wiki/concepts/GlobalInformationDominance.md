@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW_Strategic_Planning]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]

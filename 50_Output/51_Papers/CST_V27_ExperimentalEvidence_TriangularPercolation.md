@@ -278,3 +278,6 @@ N = 279 → 1000 → 5000，观察 ρ₂/ρ₁² 的 N 标度律
 ### v50系列演化路径
 
 v50e/f（k=4/错误init）→ v50g（WS rewire✓，τ_sync✓）→ v50j（H̄✓）→ v50k（κ_sw边界）→ **v50l（全达标✅）**
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

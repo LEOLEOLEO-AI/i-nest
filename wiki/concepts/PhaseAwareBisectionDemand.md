@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveFunctionalTopology]]
+[[ChipletRoutingFabric]]
 [[DTGA]]
 [[EntangledCriticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

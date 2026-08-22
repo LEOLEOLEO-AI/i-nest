@@ -620,3 +620,5 @@ Fig. 3: Liquid unified architecture — five-layer diagram (see §7.2).
 [43] R. Landauer, "Irreversibility and heat generation in the computing process," *IBM J. Res. Dev.*, vol. 5, no. 3, pp. 183–191, 1961. DOI: 10.1147/rd.53.0183.
 
 [44] S. Hauck and A. DeHon, *Reconfigurable Computing: The Theory and Practice of FPGA-Based Computation*. Morgan Kaufmann, 2008. DOI: 10.1016/B978-0-12-370522-8.X0001-7.
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
+[[DeeplySupervisedSpiking]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

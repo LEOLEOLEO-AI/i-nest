@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
+[[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]

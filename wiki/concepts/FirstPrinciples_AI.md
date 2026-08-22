@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
+[[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]

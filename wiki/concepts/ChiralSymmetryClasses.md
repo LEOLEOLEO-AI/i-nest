@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[ChipletRoutingFabric]]
+[[Chiplet_Heterogeneous_Integration]]
+[[CoaxialLikeTGV]]
 [[Deep_Thermalisation]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

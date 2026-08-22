@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ASIC_Dualism]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[CrossSubstrateHomology]]
 [[Defense_Industrial_Base_Reshaping]]

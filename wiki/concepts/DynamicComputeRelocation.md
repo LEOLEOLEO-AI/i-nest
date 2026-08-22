@@ -21,8 +21,8 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
+[[AdiabaticMultimodeBend]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_Route]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Based_Architecture]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]

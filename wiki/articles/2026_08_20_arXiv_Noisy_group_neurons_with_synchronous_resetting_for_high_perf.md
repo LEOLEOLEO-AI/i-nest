@@ -22,3 +22,5 @@ SNN, TCC, iNEST, spiking
 [[SynchronousResetting]]
 [[TCC]]
 [[iNEST]]
+[[inest]]
+[[spiking neural network]]

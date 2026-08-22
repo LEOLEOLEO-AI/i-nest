@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Substrate]]
+[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

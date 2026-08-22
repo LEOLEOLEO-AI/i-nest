@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology]]
-[[Chiplet_Topology_Packaging]]
 [[CoPoS]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
 [[TCC]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

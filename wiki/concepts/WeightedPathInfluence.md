@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
 [[Analog_Computation]]
+[[AvalancheBranchingRatio]]
 [[BarrierConditionedTrajectory]]
 [[CST_SynergisticCoordination]]
 [[Chiplet_Heterogeneous_Integration]]

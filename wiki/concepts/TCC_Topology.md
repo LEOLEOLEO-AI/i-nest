@@ -52,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[Second_Curve_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
@@ -61,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

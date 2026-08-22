@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttention]]
+[[ExactFiringRateModel]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Memristive_Topology]]

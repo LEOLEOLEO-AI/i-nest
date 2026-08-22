@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DifferentiableRasterizationPipeline]]
 [[DistributedModelCompression]]
+[[HigherOrderSimplicialDynamics]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Memristor_Network]]

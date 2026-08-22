@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[HumanVisionInspiredSNN]]
 [[Intelligence_Emergence]]
+[[LearnableGradientSurrogate]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -38,10 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RenormalizationGroup_ScalingLaws]]
 [[ReproducibleReservoirOutput]]
+[[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

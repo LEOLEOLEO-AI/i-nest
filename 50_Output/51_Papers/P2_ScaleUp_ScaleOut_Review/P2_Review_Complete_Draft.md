@@ -346,3 +346,6 @@ The path to sustainable intelligent computing lies not in faster multipliers or 
 **Authors:** Liu Qinrang (qinrangliu@fudan.edu.cn), TCC iNEST Research Group
 **Version:** Complete Draft v1.0 | 2026-07-07
 **Next Steps:** Internal review -> Figure drafting -> Journal formatting -> Submission
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

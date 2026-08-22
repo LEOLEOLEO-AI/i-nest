@@ -32,3 +32,9 @@ Memristive passive crossbar circuits hold great promise for neuromorphic computi
 ## AI 摘要
 
 提出了一种通过协同设计忆阻器和交叉结构实现的可扩展无源交叉电路技术，用于脑规模神经形态计算。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

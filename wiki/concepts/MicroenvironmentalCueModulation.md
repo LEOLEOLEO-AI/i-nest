@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
+[[CriticalityConstrainedPruning]]
 [[CriticalityDrivenStateTransition]]
 [[CriticalityOffCriticalityTransition]]
 [[Dynamic_Expert_Fusion]]

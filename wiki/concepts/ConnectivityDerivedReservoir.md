@@ -25,12 +25,15 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[AlternativeBridgingModels]]
+[[CoupledOscillatorReservoir]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[ReservoirComputingModel]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

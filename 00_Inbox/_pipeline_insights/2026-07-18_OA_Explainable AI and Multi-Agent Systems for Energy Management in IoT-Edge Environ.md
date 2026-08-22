@@ -29,3 +29,6 @@ IoT and Edge/Fog Computing, Explainable Artificial Intelligence (XAI), Smart Gri
 
 - [OpenAlex](https://openalex.org/W7124310453)
 - [DOI](https://doi.org/10.3390/electronics15020385) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CirculateFiringNeuron]]
+[[CoDesigned_SNN]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[DeeplySupervisedSpiking]]

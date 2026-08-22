@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CirculateFiringNeuron]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Dynamical_State_Space]]
 [[Emergent_Intelligence_Threshold]]
 [[FC2_Goal_Representation]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Swarm_Coordination]]
+[[dynamical state space]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

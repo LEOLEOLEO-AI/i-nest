@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[DiagnosticReportFramework]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 [[iNEST]]

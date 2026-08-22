@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenComputation]]
 [[EventDrivenFunctionalConnectivity]]
 [[Neuromorphic_Computing]]
+[[On_Chip_STDP_Learning]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[Selection_Theorems]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
+[[Continual_Learning_Topology]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
 [[DynamicInference]]

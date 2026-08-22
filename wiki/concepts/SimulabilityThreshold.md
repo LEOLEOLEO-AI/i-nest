@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
+[[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

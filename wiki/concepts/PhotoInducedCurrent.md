@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[ANN动力学]]
 [[AttractorNeuralNetwork]]
 [[BCM滑动阈值]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

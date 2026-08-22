@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
+[[CoreComputationSubspace]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

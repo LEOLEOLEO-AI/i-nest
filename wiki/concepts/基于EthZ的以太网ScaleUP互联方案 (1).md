@@ -36,5 +36,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Crystallized_Neural_Manifolds]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
+[[getnote_2026-06-28_从固定拓扑到液态拓扑计算]]
 [[iNEST]]
+[[神经网络]]

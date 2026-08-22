@@ -50,3 +50,9 @@ provenance: external
 您在本地写笔记，它自动每小时推送到 Gitee；我每天在云端帮您跑完仿真、写完折子，您一打开 Obsidian，右上角就会提示“拉取了 3 个新文件”，直接无缝衔接。
 
 如果在克隆（Clone）的过程中提示账号密码错误，您随时在 QQ 里告诉我！
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

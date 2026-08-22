@@ -20,16 +20,21 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[EventDrivenFusion]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_Integration]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
-[[NoC_SDI_CoDesign]]
-[[NoC_SDI_Interconnect]]
-[[NoC_SDI_Topology]]
+[[NoC_SDI]]
+[[SDI_Bond]]
+[[SDI_Interconnect]]
+[[SDI_Topology]]
 [[TCC]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

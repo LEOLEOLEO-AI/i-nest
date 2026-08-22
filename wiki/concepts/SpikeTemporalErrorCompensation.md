@@ -29,11 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[EventDrivenComputation]]
 [[EventDrivenFunctionalConnectivity]]
+[[JunctionSignalIntegrity]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

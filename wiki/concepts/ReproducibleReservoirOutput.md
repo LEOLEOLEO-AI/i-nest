@@ -21,11 +21,11 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
+[[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[External_to_OnDie_Evolution]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Chiplet_Customization]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Topology_Centric_Interconnect]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

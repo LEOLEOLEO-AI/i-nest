@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
+[[BurstGatedRouting]]
 [[CriticalityInducedTopology]]
 [[EventDrivenRiskAssessment]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[Self_Organized_Criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

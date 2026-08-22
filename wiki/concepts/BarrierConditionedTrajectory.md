@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[RecurrentOscillatoryComputation]]
 [[Resilient_Satellite_Mesh]]
 [[SelfOrganization]]
 [[SuperparamagneticSwitchingRate]]

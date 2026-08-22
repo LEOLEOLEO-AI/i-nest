@@ -26,10 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neural avalanche]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

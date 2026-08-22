@@ -34,6 +34,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DataCenter_Chip_Logic_Compression]]
+[[Getnote_2026-06-28_TCC BP]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

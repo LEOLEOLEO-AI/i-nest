@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Branch_Prediction]]
+[[DARPA_ProjectManager_Model]]
 [[InNetworkSignalRecovery]]
 [[Memristive_Interconnect]]
 [[Memristor_Reservoir_Branch_Prediction]]
@@ -37,6 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
+[[branch prediction]]
+[[pipelined processor]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

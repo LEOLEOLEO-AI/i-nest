@@ -38,9 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[neuromorphic substrate]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

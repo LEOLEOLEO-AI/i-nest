@@ -32,3 +32,5 @@ iNEST, neuromorphic, spiking
 [[Synaptic_Plasticity]]
 [[TemporalLearning]]
 [[iNEST]]
+[[neuromorphic spiking]]
+[[spiking neural network]]

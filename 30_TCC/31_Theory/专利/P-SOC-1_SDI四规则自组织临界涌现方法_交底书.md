@@ -667,3 +667,9 @@ dw_eff = η × exp(-|Δt| / τ_STDP) × (1 - w / W_MAX)
 ---
 
 *本交底书由iNEST实验室AI辅助系统基于SDI实验五v12和实验六的研究成果自动生成，技术内容经刘勤让教授确认。*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -175,3 +175,6 @@ Perspective (per *Engineering* journal format: visionary, forward-looking, 3000-
 ---
 
 *论文2框架 | iNEST Research Team | 2026-06-03*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CircadianGateModulation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

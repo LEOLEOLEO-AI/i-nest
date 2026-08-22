@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[FlexibilityThreshold]]
 [[Free_Energy_Principle_Network]]
+[[Gut_Brain_Immune_Network]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
@@ -44,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network_dynamics]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[neuromorphic computing]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

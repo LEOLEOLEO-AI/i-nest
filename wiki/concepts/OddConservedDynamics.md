@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[AdiabaticModeEvolutionCoupler]]
 [[CircuitTopologyEncoding]]
+[[CriticalityDrivenStateTransition]]
 [[DelayPropagationDynamics]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

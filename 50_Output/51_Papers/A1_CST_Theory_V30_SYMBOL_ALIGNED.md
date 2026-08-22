@@ -1009,3 +1009,6 @@ v16 Changes from v15:
 3. Introduction fully rewritten with 4-paragraph narrative arc: (1) sustainability crisis, (2) von Neumann threshold, (3) prior fragments, (4) unified theory construction
 
 4. Keywords updated to reflect von Neumann lineage and Complexity threshold framing
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

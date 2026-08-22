@@ -29,3 +29,9 @@ Aerospace and Aviation Technology, Real-time simulation and control systems, Aut
 
 - [OpenAlex](https://openalex.org/W4407248338)
 - [DOI](https://doi.org/10.1016/j.physa.2026.131318) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveDensityControl]]
+[[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Satellite_Mesh]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

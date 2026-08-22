@@ -28,8 +28,18 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[1M1T1R_SynapticNeuron]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[STDP_Plasticity]]
+[[SpatialPhotonicWeightUpdate]]
 [[TCC]]
+[[neuromorphic computing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

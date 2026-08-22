@@ -181,3 +181,6 @@ provenance: external
 8. **下周**: 实现 Karpathy 架构 (raw/ + wiki/ + schema.md)
 9. **下周**: 实现自进化系统 (import_processor + task_recommender)
 10. **后续**: 重设计仪表盘 + 更新计划任务
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

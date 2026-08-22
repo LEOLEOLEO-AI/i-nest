@@ -37,7 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
@@ -49,11 +49,11 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Second_Curve_Industry_Platform]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

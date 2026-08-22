@@ -46,3 +46,8 @@ The large-scale distribution of galaxies in the Universe forms an intricate, int
 
 ---
 *2026-07-05 深度分析 | 相关度: 3/3 | TCC论文*
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

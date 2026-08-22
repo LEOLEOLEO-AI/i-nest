@@ -32,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_Topology]]
@@ -44,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyProgramming]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

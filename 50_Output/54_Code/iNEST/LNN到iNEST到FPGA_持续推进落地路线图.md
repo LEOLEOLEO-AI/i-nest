@@ -77,3 +77,6 @@ topics: [Chip-Hardware, Project-Management]
 - v9 仿真完成：自适应 tau 验证通过，$\bar{\tau} \to 2.47$，惊讶度驱动有效
 - E-L 比在 8.35%，低于目标区间 [15%, 28%] → 需增加化学键生成机制
 - 全局自由能 $F$ 持续上升（0.36 → 0.71）→ 需引入自由能最小化目标
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

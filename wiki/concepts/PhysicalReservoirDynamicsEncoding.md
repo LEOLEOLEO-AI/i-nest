@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoirDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[Reservoir_Computing_DP_Recycling]]
+[[analog computation]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

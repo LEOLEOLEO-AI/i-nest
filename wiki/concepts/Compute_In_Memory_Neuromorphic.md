@@ -20,18 +20,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Integrated_Chiplet_Stacking]]
 [[AdaptiveBitPrecisionExploration]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_for_Space]]
 [[CoPackagedOptics]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]
 [[In_Memory_Computing]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Signal_Folding]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
 [[iNEST]]
+[[signal folding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

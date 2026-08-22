@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

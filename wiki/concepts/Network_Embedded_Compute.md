@@ -30,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
-[[Advanced_Packaging_for_Space]]
 [[AttractorConvergenceAnalysis]]
 [[Bayesian_Decoding]]
 [[Bipartite_Interconnect_Fabric]]

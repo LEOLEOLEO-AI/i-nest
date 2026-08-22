@@ -108,3 +108,9 @@ All topological metrics were cross-validated against:
 Conclusion: Hemibrain connectome topology is biologically authentic and suitable 
 for engineering-inspired neuromorphic architecture design.
 
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

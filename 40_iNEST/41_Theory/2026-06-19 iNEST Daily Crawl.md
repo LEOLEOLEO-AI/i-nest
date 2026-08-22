@@ -92,3 +92,9 @@ provenance: external
   - arXiv | 2026-06-07
   - Sparse coding provides a principled framework for signal representation by expressing an input as a linear combination of only a small number of basis
 
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

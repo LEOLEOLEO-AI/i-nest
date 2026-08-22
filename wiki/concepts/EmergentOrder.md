@@ -39,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -49,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
@@ -62,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources

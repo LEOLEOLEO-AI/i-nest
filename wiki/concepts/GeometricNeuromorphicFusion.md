@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_SensoryMotor_Loop]]
 [[Neuromorphic_Spiking]]
+[[PerturbationSpaceTrajectory]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic spiking]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

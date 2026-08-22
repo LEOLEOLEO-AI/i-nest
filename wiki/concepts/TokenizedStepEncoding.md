@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[DeeplySupervisedSpiking]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[ErrorAmplificationLimits]]
 [[Heterogeneous_Integration]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

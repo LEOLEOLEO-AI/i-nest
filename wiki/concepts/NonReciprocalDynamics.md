@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[TopologyDrivenDynamics]]
+[[TopologyDrivenVulnerability]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

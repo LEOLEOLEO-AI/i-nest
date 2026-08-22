@@ -295,3 +295,5 @@ URL: https://petergodfreysmith.com/wp-content/uploads/2013/06/Evolution-of-Commu
   "bibtex_entries": 463,
   "ts": "2026-05-01T01:21:46+00:00"
 }
+
+<!-- orphan-cleanup: no MOC found, tagged -->

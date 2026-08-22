@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Architecture]]
+[[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

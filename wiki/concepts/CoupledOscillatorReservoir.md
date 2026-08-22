@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[CirculateFiringNeuron]]
+[[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -36,10 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Reservoir_Computing_Architecture]]
 [[iNEST]]
+[[reservoir computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

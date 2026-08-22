@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neuromorphic_Substrate]]
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
 [[PhotoInducedCurrent]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

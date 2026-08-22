@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DendriticReservoirState]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
+[[EmergentTaskDecomposition]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Phase_Transition_Tail_Transition]]

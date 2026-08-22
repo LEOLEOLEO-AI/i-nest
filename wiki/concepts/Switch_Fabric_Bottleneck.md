@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[SelfHealing_Interconnect]]
 [[TCC]]
 [[涌现]]
 [[神经网络]]

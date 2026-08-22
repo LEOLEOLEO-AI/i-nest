@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Emergent_Computation]]
@@ -37,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
+[[emergent computation]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

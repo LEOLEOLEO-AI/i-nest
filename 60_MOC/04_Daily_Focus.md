@@ -8,3 +8,5 @@
 4. [工程] CST 仿真实验 — SDI N=1024 相位扫描
 
 *生成于 2026-08-21 06:38*
+
+<!-- orphan-cleanup: no MOC found, tagged -->

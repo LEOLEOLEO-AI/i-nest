@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BurstGatedRouting]]
+[[Continual_Learning_Modularity]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalityInNetworkComputing]]
 [[Dynamic_Expert_Fusion]]

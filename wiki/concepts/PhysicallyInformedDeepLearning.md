@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropFree_Learning]]
 [[BackpropagationFreeLearning]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Neuromorphic_NoC_Routing]]
 [[TCC]]
 [[iNEST]]
 

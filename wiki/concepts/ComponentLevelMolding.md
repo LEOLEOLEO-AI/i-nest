@@ -45,10 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive_Set]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[heterogeneous integration]]
+[[heterogeneous_integration]]
 [[iNEST]]
 
 ## Sources

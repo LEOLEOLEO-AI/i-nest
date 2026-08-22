@@ -234,3 +234,8 @@ replaces: TCC数字逻辑方向硕博连读研究计划_v1.0.md
 | [00_iNEST工程开发总体规划_v1.0.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/00_iNEST工程开发总体规划_v1.0.md) | 涌现验证体系 |
 | [TCC计算范式_NDSC与天大细化工程规划_v1.0.md](http://127.0.0.1:8899/vault/30_TCC/34_Projects/TCC计算范式_NDSC与天大细化工程规划_v1.0.md) | 工程分工 |
 | [iNEST_TCC_工程边界定义.md](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/iNEST_TCC_工程边界定义.md) | 分工边界 |
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -29,3 +29,9 @@ Advanced Graph Neural Networks, Model Reduction and Neural Networks, Control and
 
 - [OpenAlex](https://openalex.org/W7131351922)
 - [DOI](https://doi.org/10.3390/math14050763) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

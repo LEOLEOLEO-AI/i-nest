@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[InterpolationLearningTransition]]
+[[InverseDesignedPhotonicAccelerator]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

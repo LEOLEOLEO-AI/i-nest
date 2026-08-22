@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DataProvenanceIntegrity]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
@@ -40,12 +41,12 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive_Set]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Topological_State_Encoding]]
+[[heterogeneous_integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

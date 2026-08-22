@@ -26,15 +26,19 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AdvancedPackagingInterconnect]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[Chiplet_based_heterogeneous_integration]]
+[[Complex_System_Theory]]
 [[ComponentLevelMolding]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 [[WaferScaleSubstrate]]
+[[heterogeneous integration]]
+[[heterogeneous_integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

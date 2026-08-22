@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
+[[DTGA]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

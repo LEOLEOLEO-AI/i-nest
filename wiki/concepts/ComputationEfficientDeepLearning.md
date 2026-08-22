@@ -37,12 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[NetworkPruning]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SystemLevelNonlinearity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

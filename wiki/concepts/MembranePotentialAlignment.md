@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[IntracorticalNeuralDecoding]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
 [[iNEST]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

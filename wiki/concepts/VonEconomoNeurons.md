@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[VonEconomoNeuron]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

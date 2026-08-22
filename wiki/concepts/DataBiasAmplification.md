@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[CognitiveSupportTopology]]
 [[Constructed_Reality_Interconnect]]
+[[ContextualReasoning]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

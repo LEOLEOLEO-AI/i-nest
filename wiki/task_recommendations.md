@@ -71,3 +71,6 @@ Recent: 00_成果台账_详细清单_20260821 (1d ago)
 Recent: 00_科研智能体使用手册_20260821 (1d ago)
 **Action**: Review and incorporate insights into wiki
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

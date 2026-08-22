@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[InNetworkNeuromorphicEmergence]]
 [[InNetwork_CST_Offload]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
@@ -40,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[iNEST]]
+[[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources

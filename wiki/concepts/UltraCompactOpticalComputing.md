@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
+[[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]

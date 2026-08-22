@@ -32,3 +32,9 @@ Understanding the brain requires modeling large-scale neural dynamics, where coa
 ## AI 摘要
 
 提出一种结合粗粒度脑建模与类脑计算架构的流程，通过动态感知量化框架实现低精度仿真并保持动力学特性，并开发层次化并行策略以加速模型反演。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

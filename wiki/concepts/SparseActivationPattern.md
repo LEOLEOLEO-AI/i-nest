@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[SDN_Neuromorphic_Interface]]
+[[SNN_NeuroprostheticPipeline]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]

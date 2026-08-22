@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
+[[ContinuousGameOfLife]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

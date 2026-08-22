@@ -24,9 +24,11 @@ TCC, iNEST
 ## Related Concepts
 
 [[ActiveInference]]
+[[Active_Inference_Agent]]
 [[ArchitecturalCondition]]
 [[Causal_Emergence]]
 [[Intelligence_Emergence]]
 [[Perspective_Latents]]
 [[TCC]]
 [[iNEST]]
+[[inest]]

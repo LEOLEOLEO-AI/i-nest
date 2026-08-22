@@ -34,11 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[VonNeumann_Complexity_Threshold]]
 [[iNEST]]
+[[synaptic plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

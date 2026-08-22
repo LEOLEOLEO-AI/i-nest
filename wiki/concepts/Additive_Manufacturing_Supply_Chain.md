@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[GSK_Summarize]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Inference_Workload_Profiling]]
 [[Memristive_Topology]]
 [[MultiModel_Adapter_Architecture]]
 [[Network_Topology_Design]]

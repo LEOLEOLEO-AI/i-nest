@@ -31,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalInterfaceBlocks]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[MachineLearningNanomaterialDiscovery]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SwarmGradientRouting]]
 [[TCC]]
 [[iNEST]]
+[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

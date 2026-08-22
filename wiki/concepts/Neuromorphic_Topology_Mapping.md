@@ -26,15 +26,18 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalWaveRouting]]
 [[DataDrivenCellularAxis]]
+[[Interconnect_Routing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SDI_STDP]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

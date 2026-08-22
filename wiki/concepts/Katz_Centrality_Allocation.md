@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
+[[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
 [[Network_Topology_Design]]
 [[TCC]]

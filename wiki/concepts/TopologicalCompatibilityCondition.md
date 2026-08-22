@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

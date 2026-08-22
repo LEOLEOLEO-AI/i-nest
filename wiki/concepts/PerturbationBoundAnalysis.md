@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Learning_Dynamics]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
+[[InterpolationLearningTransition]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

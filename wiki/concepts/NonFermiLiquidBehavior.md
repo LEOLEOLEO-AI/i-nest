@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Integration]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]

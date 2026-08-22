@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CurrentInjectionSNN]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[GradientBasedSpikeLearning]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[VonEconomoNeuron]]
 [[VonEconomoNeurons]]
 [[iNEST]]
+[[parameter reconstruction]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -42,3 +42,9 @@ The stagnation of Moore's Law and the rigid Node-Centric (von Neumann) paradigm 
 
 ---
 **Tags:** #NaaS #SDI
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiModel_Adapter_Architecture]]
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[iNEST]]
 

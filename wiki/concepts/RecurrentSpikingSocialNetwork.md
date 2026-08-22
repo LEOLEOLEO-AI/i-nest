@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Soc]]
 [[SocialSkillAcquisition]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[VonEconomoNeuron]]
 [[VonEconomoNeurons]]
 [[iNEST]]
+[[soc]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

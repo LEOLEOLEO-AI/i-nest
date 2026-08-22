@@ -29,3 +29,9 @@ Neural Networks and Applications, Stochastic Gradient Optimization Techniques, G
 
 - [OpenAlex](https://openalex.org/W4414987987)
 - [DOI](https://doi.org/10.1038/s41467-026-71937-4) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

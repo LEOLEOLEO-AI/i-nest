@@ -157,3 +157,9 @@ PRL通常将图说明放在图下方，不需要单独的"Figure Specifications"
 4. 在Section B中加一段解释RG快速收敛的物理原因
 5. 删除Figure Specifications节，将关键信息合并到正文
 6. 将"mesoscopic quantum"改为"remarkable numerical coincidence"
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

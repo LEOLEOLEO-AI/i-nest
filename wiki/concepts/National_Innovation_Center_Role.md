@@ -43,7 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
@@ -53,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
@@ -66,8 +65,10 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

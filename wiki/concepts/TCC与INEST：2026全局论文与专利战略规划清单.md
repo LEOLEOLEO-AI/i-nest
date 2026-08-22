@@ -20,6 +20,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
 [[CST计量仪]]
@@ -32,6 +33,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
+[[INEST]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
@@ -39,7 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -52,6 +54,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST 论文矩阵计划]]
 [[iNEST]]
+[[temporalComplexity]]
 [[复杂网络]]
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[智能涌现]]

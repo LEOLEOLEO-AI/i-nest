@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Entropy_Connectivity_Path]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
+[[HierarchyOfApproximations]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -39,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[active inference agent]]
+[[causal emergence]]
 [[iNEST]]
 
 ## Sources

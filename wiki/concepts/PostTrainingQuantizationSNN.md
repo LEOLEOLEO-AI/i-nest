@@ -28,10 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AddressRedundancyElimination]]
 [[AmoebaInspiredLocomotion]]
+[[Avoided_Criticality]]
+[[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

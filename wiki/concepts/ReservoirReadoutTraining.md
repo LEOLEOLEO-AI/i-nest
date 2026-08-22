@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[DARPA_ProjectManager_Model]]
 [[Emerging_CMOS_Memristor]]
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]

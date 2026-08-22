@@ -28,3 +28,8 @@ For iNEST, this suggests that designing physical or neuromorphic networks with s
 - 经典基础文献，已纳入引用库
 - 不再独立推进
 - 更新: 2026-06-19
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

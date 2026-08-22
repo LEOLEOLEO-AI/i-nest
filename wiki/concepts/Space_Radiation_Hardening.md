@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveLocalLearning]]
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging_for_Space]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]

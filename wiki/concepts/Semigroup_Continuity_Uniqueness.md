@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[RenormalizationGroupIntelligence]]
 [[iNEST]]
 [[神经网络]]
 

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SensationModulatingNetwork]]

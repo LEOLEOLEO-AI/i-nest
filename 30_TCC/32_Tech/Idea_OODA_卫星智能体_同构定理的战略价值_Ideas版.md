@@ -51,3 +51,9 @@ OODA（Observe-Orient-Decide-Act）循环是一个闭环，但它的每个阶段
 
 ---
 **Tags:** #NaaS #StrategicProposal #CST #SDSoW #SDI
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

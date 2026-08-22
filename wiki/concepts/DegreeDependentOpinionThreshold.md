@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[Reservoir_Computing]]
+[[SDI_STDP]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]

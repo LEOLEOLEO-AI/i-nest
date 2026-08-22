@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReadoutLayer]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[TCC]]
 [[iNEST]]
 

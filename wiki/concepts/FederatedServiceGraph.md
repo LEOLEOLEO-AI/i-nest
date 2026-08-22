@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Bosonic_SPT_Phases]]
+[[CircadianGateModulation]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

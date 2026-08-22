@@ -29,3 +29,6 @@ Advanced Memory and Neural Computing, Organic Electronics and Photovoltaics, Cov
 
 - [OpenAlex](https://openalex.org/W7125660438)
 - [DOI](https://doi.org/10.1002/smtd.202501966) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

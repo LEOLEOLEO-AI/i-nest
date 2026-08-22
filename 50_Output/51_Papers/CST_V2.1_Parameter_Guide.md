@@ -446,3 +446,6 @@ DFA 只测"平均"长程相关（单一 H 值）。但真实神经信号更复�
 
 *文件路径：`02_Papers_论文/CST_V2.1_Parameter_Guide.md`*
 *所有典型值均有文献支撑，无估算替代*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

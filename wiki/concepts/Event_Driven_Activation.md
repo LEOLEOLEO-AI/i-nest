@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenComputation]]
 [[Event_Driven_Architecture]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic trigger]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

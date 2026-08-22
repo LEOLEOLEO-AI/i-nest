@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FirstPrinciples_AI]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[Memristive_Topology]]

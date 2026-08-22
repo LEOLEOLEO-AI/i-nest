@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BifurcationCandidate]]
 [[Cellular_vs_LEO_Satellite_Handoff]]
 [[CrossDomainAwareness]]
 [[DistributedTrainingCommunicationPattern]]

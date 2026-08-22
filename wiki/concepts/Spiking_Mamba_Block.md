@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttention]]
 [[Event_Driven_Architecture]]
+[[ExactFiringRateModel]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]

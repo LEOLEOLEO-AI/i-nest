@@ -35,12 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[NoC_SDI]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TopologyFragility]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

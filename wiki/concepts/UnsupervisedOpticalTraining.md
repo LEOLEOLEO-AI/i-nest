@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NoiseInducedPhaseLocking]]
+[[On_Chip_STDP_Learning]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDPDrivenTemporalBinding]]

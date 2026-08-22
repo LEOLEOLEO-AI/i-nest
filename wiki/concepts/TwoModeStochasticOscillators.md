@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Temporal_Coding]]
 [[TwoModeStochasticOscillator]]
 [[iNEST]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

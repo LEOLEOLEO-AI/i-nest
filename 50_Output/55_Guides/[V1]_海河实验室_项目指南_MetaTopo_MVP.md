@@ -75,3 +75,6 @@ provenance: own
 
 ---
 **Tags:** #NaaS #StrategicProposal #CST #SDSoW #SDI #Chiplet
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

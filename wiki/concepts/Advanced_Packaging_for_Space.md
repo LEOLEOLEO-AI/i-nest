@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
+[[chiplet packaging]]
 [[iNEST]]
 
 ## Sources

@@ -47,3 +47,5 @@ provenance: external
 3. 撰写Chiplet互连拓扑与Virgo网络对齐的技术备忘录
 4. 整理专利交底书初稿（自指驱动拓扑重构）
 5. 召开30分钟TCC核心团队会议，同步V29进展与论文写作进度
+
+<!-- orphan-cleanup: no MOC found, tagged -->

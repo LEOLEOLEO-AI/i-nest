@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Agent_Interaction_Sequencing]]
 [[Avoided_Criticality]]
+[[BulletTrainScheduling]]
 [[CriticalityDrivenEfficientCoding]]
 [[CriticalityInNeuralNetworks]]
 [[DisorderDrivenQuantumPhaseTransition]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[efficient coding constraint]]
 [[iNEST]]
 
 ## Sources

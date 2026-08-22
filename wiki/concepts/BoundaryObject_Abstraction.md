@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Second_Curve_Industry_Platform]]
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
+[[TopologyCentricEngineeringBase]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

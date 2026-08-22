@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[CategoricalClosureCriterion]]
 [[CriticalityDrivenAdaptation]]
+[[Criticality_Induced_Plasticity]]
 [[Criticality_of_Natural_Languages]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]

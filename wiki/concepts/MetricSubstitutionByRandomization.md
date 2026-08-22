@@ -38,10 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
-[[TCC_Coordination_Roadmap]]
 [[TcComputation]]
 [[TemporalComplexity_Tc]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

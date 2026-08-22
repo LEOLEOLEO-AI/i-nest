@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CircadianGateModulation]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[HebbianLimitCycleLearning]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryDynamics]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

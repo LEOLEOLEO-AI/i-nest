@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[iNEST]]
+[[neuromorphic substrate]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

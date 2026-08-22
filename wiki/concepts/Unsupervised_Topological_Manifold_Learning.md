@@ -28,9 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[Compact_Boson_Dynamics]]
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
+[[CrossDomain_Abstraction]]
 [[Edge_Intelligence]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[edge intelligence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

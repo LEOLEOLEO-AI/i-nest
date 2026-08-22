@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
@@ -59,6 +60,8 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[spacetime coupling coefficient]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

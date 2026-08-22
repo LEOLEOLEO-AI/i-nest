@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGToNeuromorphicMapping]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

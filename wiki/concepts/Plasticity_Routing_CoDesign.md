@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Principle_Network]]
+[[IncidenceMatrixPropagation]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[MatrixShapePhaseTransition]]

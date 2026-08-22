@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
+[[InMateriaComputing]]
 [[In_Package_Optical_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[BeyondVonNeumannArchitecture]]
 [[ChargeDomainAttention]]
+[[CrossDomain_Integration]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyResourceEfficiencyCoOptimization]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

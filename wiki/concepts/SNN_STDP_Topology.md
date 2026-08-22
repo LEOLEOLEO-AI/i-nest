@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[WeightedSTDP]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

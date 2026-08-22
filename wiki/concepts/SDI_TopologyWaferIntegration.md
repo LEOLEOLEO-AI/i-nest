@@ -19,10 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
@@ -37,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
@@ -45,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

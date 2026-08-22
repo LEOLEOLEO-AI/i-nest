@@ -156,3 +156,6 @@ provenance: external
 > - OFC 2026 / Hot Chips 2025-2026 会议论文
 > - Cerebras 官网 + 客户案例
 > - arXiv 最新 preprint（搜索 "NVLink Rubin"、"Infinity Fabric MI400"、"CPO AI cluster"）
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

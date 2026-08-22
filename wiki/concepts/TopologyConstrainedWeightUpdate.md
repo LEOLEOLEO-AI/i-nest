@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[CriticalityDrivenTopology]]
 [[Criticality_Based_Feature_Extraction]]
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]

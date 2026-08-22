@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[MembranePotentialModulation]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Substrate]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[SNN_Conversion_Approximation_Bound]]

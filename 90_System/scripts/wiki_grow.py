@@ -109,8 +109,60 @@ def slug_to_phrase(slug):
     return sp.strip()
 
 
+def build_union_regex(concept_names, source_name=None):
+    """Build BUCKETED combined regexes matching all concept slugs+phrases.
+
+    A single giant alternation over 3.6k+ concepts makes Python's re
+    compiler degrade badly (slow compile, pathological backtracking). We
+    bucket by first character instead: each bucket has ~100-200 patterns,
+    which compile fast and match fast.
+    """
+    buckets = {}
+    for cname in concept_names:
+        if source_name is not None and cname == source_name:
+            continue
+        if not cname:
+            continue
+        key = cname[0].lower()
+        parts = buckets.setdefault(key, [])
+        if "_" in cname or "-" in cname:
+            parts.append(re.escape(cname))
+            phrase = slug_to_phrase(cname)
+            if phrase != cname and len(phrase) >= 4:
+                parts.append(re.escape(phrase))
+        else:
+            parts.append(re.escape(cname))
+    compiled = {}
+    reverse = {}
+    for cname in concept_names:
+        if source_name is not None and cname == source_name:
+            continue
+        if not cname:
+            continue
+        reverse[cname] = cname
+        if "_" in cname or "-" in cname:
+            phrase = slug_to_phrase(cname)
+            if phrase != cname and len(phrase) >= 4:
+                reverse[phrase] = cname
+    for key, parts in buckets.items():
+        if parts:
+            compiled[key] = re.compile("(?i)" + "|".join(parts))
+    return compiled, reverse
+
+
+def union_find_links(source_text, union_re, found):
+    """Add all concept matches from the bucketed union regexes to found."""
+    if not union_re:
+        return
+    union_re, reverse = union_re
+    for key, rx in union_re.items():
+        for m in rx.finditer(source_text):
+            slug = reverse.get(m.group(0), m.group(0))
+            found.add(slug)
+
+
 def find_links(source_name, source_text, concept_names, alias_index,
-               phrase_re_idx=None, slug_re_idx=None):
+               phrase_re_idx=None, slug_re_idx=None, union_re=None):
     """Return set of concept slugs referenced by source_text."""
     found = set()
     low = source_text.lower()
@@ -127,22 +179,23 @@ def find_links(source_name, source_text, concept_names, alias_index,
         if cname in concept_names and re.search(pattern, source_text, re.IGNORECASE):
             found.add(cname)
 
-    # 3) Name-phrase matching (precompiled regexes + fast containment)
-    for cname in concept_names:
-        if cname == source_name:
-            continue
-        # fast path: raw slug present as substring
-        if cname in source_text:
-            found.add(cname)
-            continue
-        # phrase match via precompiled regex
-        if phrase_re_idx and cname in phrase_re_idx:
-            if phrase_re_idx[cname].search(source_text):
+    # 3) Name-phrase matching — UNION regex: single pass over the text
+    if union_re is not None:
+        union_find_links(source_text, union_re, found)
+    else:
+        # Fallback: per-concept precompiled regexes (slower path)
+        for cname in concept_names:
+            if cname == source_name:
+                continue
+            if cname in source_text:
                 found.add(cname)
-        # fallback raw-slug regex (for edge cases like word boundaries)
-        if slug_re_idx and cname in slug_re_idx:
-            if slug_re_idx[cname].search(source_text):
-                found.add(cname)
+                continue
+            if phrase_re_idx and cname in phrase_re_idx:
+                if phrase_re_idx[cname].search(source_text):
+                    found.add(cname)
+            if slug_re_idx and cname in slug_re_idx:
+                if slug_re_idx[cname].search(source_text):
+                    found.add(cname)
 
     # memristor -> pick best memristor concept if multiple candidates exist
     if "memristor" in low or "忆阻" in low:
@@ -255,6 +308,9 @@ def main():
             phrase_re_idx[cname] = re.compile(r'(?i)\b' + re.escape(phrase) + r'\b')
         slug_re_idx[cname] = re.compile(r'(?i)\b' + re.escape(cname) + r'\b')
     print(f"  regexes ready: {len(phrase_re_idx)} phrases + {len(slug_re_idx)} slugs")
+    # Build ONE union regex over all concept slugs+phrases (single-pass matching)
+    union_re = build_union_regex(concept_names)  # (regexes, reverse)
+    print(f"  union regex built ({len(concept_names)} concepts)")
 
     # article texts for concept linking
     art_texts = {}
@@ -273,7 +329,8 @@ def main():
     for cname, info in concepts.items():
         src = info["text"]
         links = find_links(cname, src, concept_names, None,
-                           phrase_re_idx=phrase_re_idx, slug_re_idx=slug_re_idx)
+                           phrase_re_idx=phrase_re_idx, slug_re_idx=slug_re_idx,
+                           union_re=union_re)
         outgoing[cname] = links
 
     # shared-term (co-occurrence) linking: same domain, >=2 shared vocab terms
@@ -321,15 +378,18 @@ def main():
         for p, _, cn, _ in CONCEPT_PATTERNS:
             if cn in concept_names and re.search(p, atext, re.IGNORECASE):
                 links.add(cn)
-        # fast name-phrase matching with precompiled regexes
-        for cname in concept_names:
-            if cname in atext:
-                links.add(cname)
-                continue
-            if cname in phrase_re_idx and phrase_re_idx[cname].search(atext):
-                links.add(cname)
-            if len(links) >= 12:
-                break
+        # fast name-phrase matching — union regex single pass
+        if union_re is not None:
+            union_find_links(atext, union_re, links)
+        else:
+            for cname in concept_names:
+                if cname in atext:
+                    links.add(cname)
+                    continue
+                if cname in phrase_re_idx and phrase_re_idx[cname].search(atext):
+                    links.add(cname)
+                if len(links) >= 12:
+                    break
         art_links[aname] = links
         # sync article -> concept links into incoming
         for cname in links:

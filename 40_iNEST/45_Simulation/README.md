@@ -171,3 +171,9 @@ The default user and password for the database in the container are:
 # Known Issues
 
 - For Mac (where you have to allocate memory ahead of time for Docker) you might need to allocate 8-12 GB to Docker to ensure you aren't running into the upper limits of the default allocated memory limits. Otherwise you might run into a "Lost Connection to MYSQL database" exception, which can be temporarily fixed by restarting the notebook kernel.
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

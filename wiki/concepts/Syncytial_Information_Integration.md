@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

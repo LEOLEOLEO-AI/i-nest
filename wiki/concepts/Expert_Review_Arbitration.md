@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]

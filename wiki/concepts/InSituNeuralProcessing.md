@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]
 [[Memory_Wall]]
+[[ModelOptimizationFederated]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpticalNeuralNetworkTopology]]

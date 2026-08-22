@@ -32,3 +32,9 @@ Engineering proteins is a challenging task requiring the exploration of a vast d
 ## AI 摘要
 
 提出PREVENT模型，通过变分自由能近似学习蛋白质序列与热力学景观，生成稳定且功能性的蛋白质变体。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

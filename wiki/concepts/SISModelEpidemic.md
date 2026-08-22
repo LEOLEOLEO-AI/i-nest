@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_FullSpectrum_Strategy]]
+[[AdiabaticMultimodeBend]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_Route]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]

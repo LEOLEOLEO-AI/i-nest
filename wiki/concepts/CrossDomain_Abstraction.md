@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousGameOfLife]]
 [[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]
+[[DisorderedNetworkInterconnect]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

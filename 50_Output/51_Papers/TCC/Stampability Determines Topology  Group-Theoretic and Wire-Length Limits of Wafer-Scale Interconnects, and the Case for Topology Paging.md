@@ -421,3 +421,5 @@ Three-dimensional diameters are exactly three times these values (Lemma 1). For 
 **其三，表 B.4 是唯一的空位。** 平均距离现在有闭式（推论 3），但我不填未经计算的数字。跑一次 $O(k)$ 的求和即可补齐，那是全篇最后一格空白。
 
 下一步建议仍是 hunt(16, 2)：$k=8$ 全部落在 $2^J=\Theta(k)$ 的饱和区，$k=16$ 的 $J=2$ 才是第一个真正的渐近信号；若击败者领先量不超过 3 跳且相对量显著小于 $k=8$，§10 限制(1) 可加一句 “the advantage shrinks as predicted”，把一次坦白的失守转成一次趋势确证。
+
+<!-- orphan-cleanup: no MOC found, tagged -->

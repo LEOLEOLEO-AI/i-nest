@@ -115,3 +115,6 @@ W2-3 已验证的 Hemibrain 拓扑指标（高可信度，85-90%）：
 *报告生成：2026-07-09*  
 *数据来源：`sdi_sim/hemibrain_v31.py` 运行输出 + `hemibrain_v31_results.json`*  
 *级别：S4（iNEST仿真）*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

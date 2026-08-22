@@ -34,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OptimalRepresentation]]
 [[QuasiperiodicCriticalPhase]]
-[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]

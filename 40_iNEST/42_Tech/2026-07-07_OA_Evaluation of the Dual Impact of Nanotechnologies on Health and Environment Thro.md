@@ -29,3 +29,9 @@ Nanoparticles: synthesis and applications, Marine Biology and Environmental Chem
 
 - [OpenAlex](https://openalex.org/W7125432860)
 - [DOI](https://doi.org/10.1002/adhm.202505218) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

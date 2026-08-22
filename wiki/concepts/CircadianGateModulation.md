@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CoDesignedOnlineContinualLearning]]
 [[Comparative_Formulation_Analysis]]
+[[Critical_Exponent_Scaling]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[HebbianLimitCycleLearning]]

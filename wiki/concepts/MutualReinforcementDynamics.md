@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Combinatorial_Optimization_Readout]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalFluctuationReservoir]]

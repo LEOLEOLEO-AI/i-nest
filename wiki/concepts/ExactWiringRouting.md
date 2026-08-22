@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[GrandCanonicalOptimization]]
 [[Interconnect_Routing]]
+[[JointFlightRoutingOptimization]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[SuperparamagneticSwitchingRate]]

@@ -31,13 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[NeuronModelAbstractionLayer]]
+[[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
-[[Synaptic_Plasticity_Rule]]
 [[iNEST]]
+[[local plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

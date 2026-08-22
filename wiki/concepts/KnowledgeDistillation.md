@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

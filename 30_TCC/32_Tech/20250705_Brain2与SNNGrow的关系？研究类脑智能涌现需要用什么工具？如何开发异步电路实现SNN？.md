@@ -192,3 +192,9 @@ graph LR
 4. **异步电路设计套件**：BalsaFlow / Haste   
 
 建议优先在SpiNNaker-3平台部署动态子网原型（支持10^6神经元实时重构），同步启动55nm异步电路流片验证事件驱动架构的能效优势 []。类脑智能涌现研究需重点监测γ振荡同步相变点，其临界状态特征参数应满足：$\frac{\partial^2 H}{\partial t^2} > 10^3 \text{ bit/ms}^2$ 。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

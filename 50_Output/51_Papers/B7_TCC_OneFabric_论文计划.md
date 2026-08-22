@@ -54,3 +54,6 @@ provenance: external
 - **6个 IP 核分解**: OFM-ADDR/DMA/PAGE/SYNC/ROUTE/XFORM，~93K gates/Tile
 - **4阶段开发路线**: 2026 Q3 → 2027 Q4 流片准备
 - **3项专利 + 2篇论文**: B7 (ASPLOS/ISCA) + B7-S (OSDI/EuroSys)
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

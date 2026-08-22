@@ -36,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Satellite_Mesh]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]

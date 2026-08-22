@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_SNN_Inference]]
+[[FormalToolchain]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MarginalContributionFitness]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

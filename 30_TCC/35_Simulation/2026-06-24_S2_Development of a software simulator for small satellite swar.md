@@ -32,3 +32,9 @@ This article is devoted to creating a control code to simulate the complicated t
 ## AI 摘要
 
 开发用于小型卫星群控制的软件模拟器
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

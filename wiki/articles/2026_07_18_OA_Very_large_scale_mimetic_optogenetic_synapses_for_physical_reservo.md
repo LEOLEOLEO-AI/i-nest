@@ -29,3 +29,6 @@ iNEST
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[iNEST]]
+[[mimetic optogenetic synapses]]
+[[physical reservoir computing]]
+[[reservoir computing]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Capability_Reserve_Index]]
+[[CertifiedBifurcationDetection]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

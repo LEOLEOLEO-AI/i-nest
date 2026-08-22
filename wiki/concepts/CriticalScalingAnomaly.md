@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Boundary_Criticality]]
 [[BranchingRatio]]
 [[BurstGatedRouting]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[ScalingExponents]]
 [[Self_Organized_Criticality]]

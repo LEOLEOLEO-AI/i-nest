@@ -328,3 +328,9 @@ Astera提供的是**互连硬件基础设施**（Retimer/Switch/CXL），而TCC�
 > **前序版本**：
 > - [v1.0 算力网络架构手记对TCC价值映射](http://127.0.0.1:8899/vault/30_TCC/34_Projects/算力网络架构手记_对TCC计算范式的价值映射分析_v1.0.md)
 > - [v2.0 全面抓取与分析报告](http://127.0.0.1:8899/vault/30_TCC/34_Projects/算力网络架构手记_全面抓取与分析报告_v2.0.md)
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -293,3 +293,9 @@ provenance: external
 ---
 
 *本报告生成时间：2026-07-07 | 分析框架：TCC/iNEST | 数据来源：arXiv日报 + 知识库文献*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

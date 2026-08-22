@@ -29,3 +29,9 @@ Functional Brain Connectivity Studies, Neural dynamics and brain function, Nonli
 
 - [OpenAlex](https://openalex.org/W7138328608)
 - [DOI](https://doi.org/10.1073/pnas.2505768123) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

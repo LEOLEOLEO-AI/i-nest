@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Cognitive_Relapse_Architecture]]
+[[ComplexSystem_Definition]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
@@ -37,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Nonlinear_Parameter_Alpha]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Scaling_Laws]]
@@ -60,6 +60,9 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Universal_Scaling_Laws]]
 [[iNEST]]
+[[intelligence emergence]]
+[[scaling laws]]
+[[universal scaling laws]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -705,3 +705,5 @@ BLAS 定义了 L1/L2/L3 三级计算原语（向量、矩阵向量、矩阵矩�
 
 ---
 *来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 08:20*
+
+<!-- orphan-cleanup: no MOC found, tagged -->

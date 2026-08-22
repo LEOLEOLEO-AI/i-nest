@@ -31,11 +31,15 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Prototyping]]
+[[Interconnect_Routing]]
 [[MoE_Routing]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

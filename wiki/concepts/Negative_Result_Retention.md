@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[ConstraintDrivenSelfOrganization]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CriticalLearningRegime]]
 [[Criticality_Based_Feature_Extraction]]
 [[Decoupling_Mechanism]]
 [[DualDrivenHybridNetwork]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
+[[IncidenceMatrixPropagation]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[MatrixShapePhaseTransition]]

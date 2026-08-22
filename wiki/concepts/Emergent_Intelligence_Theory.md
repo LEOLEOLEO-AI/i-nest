@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Constructed_Reality_Interconnect]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

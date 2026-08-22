@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
+[[ExactFiringRateModel]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Memristive_Topology]]

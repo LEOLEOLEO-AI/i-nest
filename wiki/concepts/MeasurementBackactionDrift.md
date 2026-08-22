@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Bosonic_SPT_Phases]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]

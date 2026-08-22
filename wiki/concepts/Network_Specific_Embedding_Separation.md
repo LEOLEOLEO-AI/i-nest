@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System_Theory]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
@@ -42,9 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

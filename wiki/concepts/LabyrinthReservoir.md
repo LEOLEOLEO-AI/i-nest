@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CircadianGateModulation]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[iNEST]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

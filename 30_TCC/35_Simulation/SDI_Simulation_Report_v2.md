@@ -215,3 +215,9 @@ lambda calculus findings for cellular automata.
 
 ### For CST RG (#29): Use CST N=1024 phase transition scan as
    computational evidence for RG flow fixed points
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

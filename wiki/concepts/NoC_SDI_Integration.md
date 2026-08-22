@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[DTGA]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
@@ -38,12 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

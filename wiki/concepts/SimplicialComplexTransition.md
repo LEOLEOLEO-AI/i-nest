@@ -20,12 +20,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EulaminateOverrepresentation]]
 [[HigherOrderSimplicialDynamics]]
 [[Network_Topology_Design]]
 [[NeuromorphicSafetyBoundary]]
+[[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

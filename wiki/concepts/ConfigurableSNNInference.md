@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

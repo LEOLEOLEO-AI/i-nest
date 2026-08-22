@@ -29,7 +29,16 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[STDP_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

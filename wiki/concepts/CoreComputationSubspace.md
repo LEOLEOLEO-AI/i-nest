@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[CulturalDisseminationDynamics]]
 [[Dynamic_Expert_Fusion]]
+[[Edge_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -398,3 +398,9 @@ $$\rho^* \leftrightarrow \Gamma^* = 0.2 \text{（iNEST 仿真的临界阈值，S
 *新增路线：TL-6（非线性动力学）+ TL-7（谱拓扑）+ TL-8（网络重整化）*  
 *全部定量数据均标注 S 级别（S1-S4）*  
 *Scale-Deep 范式推导：基于 TL-6/7/8 理论，S4 级预测，待独立实验验证*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[reservoir computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

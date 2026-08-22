@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_FullSpectrum_Strategy]]
+[[AdaptiveArchitecture]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Reconfiguration]]
 [[iNEST]]
+[[topology reconfiguration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

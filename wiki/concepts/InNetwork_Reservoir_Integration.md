@@ -30,9 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[CSI_Temporal_Encoding]]
+[[CircadianGateModulation]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

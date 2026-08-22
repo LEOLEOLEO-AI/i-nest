@@ -39,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[Representation_Learning_Generalization]]
 [[Resilient_Satellite_Mesh]]
-[[SelfOrganizationDynamics]]
+[[SDI_STDP_Rule]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[TCC]]

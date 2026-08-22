@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
+[[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

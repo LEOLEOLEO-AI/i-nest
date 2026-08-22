@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTravelingWaves]]
 [[CriticalStateInformationMaximization]]
 [[DirectTrainingSNN]]
+[[Direct_Training_Spiking_Neural_Networks]]
 [[Interconnect_Routing]]
 [[QuadraticSpeedup]]
 [[SNN]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[RamanInducedGaugeField]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Recursive_Metric_Contraction]]
+[[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

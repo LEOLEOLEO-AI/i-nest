@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[CoDesignedOnlineContinualLearning]]
 [[Comparative_Formulation_Analysis]]
+[[Critical_Exponent_Scaling]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[HebbianLimitCycleLearning]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[CoaxialLikeTGV]]
 [[Cognitive_Relapse_Architecture]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]

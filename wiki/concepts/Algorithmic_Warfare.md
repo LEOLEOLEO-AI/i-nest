@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[CriticalStateInformationMaximization]]
+[[CriticalityConstrainedPruning]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]

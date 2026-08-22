@@ -68,3 +68,6 @@ provenance: dsh-audit
 - 4 并行子代理分区审计：01-Theory-Research / execution_log+generated_docs+scripts+apps / _core_framework+_dac_templates+_docs+agent-research / 杂项+空目录
 - 复核手段：git ls-files/check-ignore、哈希比对（MD5）、robocopy 校验、live 插件清单 RPC 核查
 - 全程只读审计；抢救写入均在上述清单内
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EEGToNeuromorphicMapping]]
 [[EventDrivenRiskAssessment]]
+[[Event_Driven_Communication]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

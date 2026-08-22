@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[GradientBasedSpikeLearning]]
 [[Gradient_Free_SNN_Learning]]
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]

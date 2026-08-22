@@ -21,9 +21,9 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[Automated_Reward_Shaping]]
+[[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[CST_Theory]]
-[[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalBranching]]
@@ -33,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Avoidance_Theory]]
 [[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
-[[EdgeOfChaosComputation]]
 [[EdgeOfChaos]]
 [[Fractal_Wavefront_Scaling]]
 [[NonEquilibriumPhaseTransition]]

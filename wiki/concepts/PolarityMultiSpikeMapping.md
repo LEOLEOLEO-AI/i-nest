@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HumanVisionInspiredSNN]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[LearnableGradientSurrogate]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

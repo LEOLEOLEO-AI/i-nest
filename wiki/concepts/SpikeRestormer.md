@@ -29,11 +29,15 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]
 [[DelayAwareSpikeEventDelivery]]
+[[DifferentiableSpikeTimeDiscretization]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[spiking neural network]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

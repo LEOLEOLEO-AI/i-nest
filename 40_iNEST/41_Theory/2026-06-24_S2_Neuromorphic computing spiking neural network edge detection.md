@@ -32,3 +32,9 @@ ABSTRACT In contemporary times, content-based image retrieval (CBIR) techniques 
 ## AI 摘要
 
 提出一种基于脉冲神经网络的边缘检测方法，用于基于内容的图像检索，计算效率提升2.5倍。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

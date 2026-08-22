@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BrainScaleTopologyExploitation]]
 [[ChannelEventSparsity]]
+[[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

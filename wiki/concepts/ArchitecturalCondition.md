@@ -31,12 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterfaces]]
 [[Causal_Emergence]]
 [[Core_Spacetime_Tensor]]
+[[Criticality_Induced_Plasticity]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[causal emergence]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

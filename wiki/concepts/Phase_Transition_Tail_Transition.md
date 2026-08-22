@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

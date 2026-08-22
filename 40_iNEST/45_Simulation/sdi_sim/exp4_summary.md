@@ -64,3 +64,9 @@ provenance: own
 ### 下一步建议
 
 - 验证成功！下一步：(1) 探究模块化涌现的临界P_PRUNE范围；(2) 分析模块功能特化；(3) 接入C.elegans解剖约束
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

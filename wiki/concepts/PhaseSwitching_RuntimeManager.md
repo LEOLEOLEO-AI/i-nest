@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Autonomous_Unmanned_Combat_Networking]]
 [[Capability_Reserve_Index]]
+[[CertifiedBifurcationDetection]]
 [[Network_Topology_Design]]
 [[TCC]]
 

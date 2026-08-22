@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
-[[Deep_Thermalisation_Dynamics]]
 [[FreeFermionTopologicalInvariant]]
 [[Interconnect_Routing]]
 [[InverseDesignedPhotonicAccelerator]]
@@ -36,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
+[[Three_Layer_Memory_Infrastructure]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

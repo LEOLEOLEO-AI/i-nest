@@ -22,3 +22,9 @@ This suggests that physical complex networks for intelligence (iNEST) should del
 
 ---
 *来源: semantic_scholar (2013)*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

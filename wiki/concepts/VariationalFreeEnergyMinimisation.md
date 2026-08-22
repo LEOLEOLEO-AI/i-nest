@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DendriticReservoirState]]
+[[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

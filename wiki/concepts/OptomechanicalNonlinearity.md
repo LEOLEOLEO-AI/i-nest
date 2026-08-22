@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
@@ -38,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Satellite_Mesh]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[ScaleFreeNetwork]]

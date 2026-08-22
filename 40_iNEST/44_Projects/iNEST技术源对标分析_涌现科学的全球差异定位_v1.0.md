@@ -341,3 +341,9 @@ tags:
 | 13 | Chollet (2019) arXiv | 论文 | ARC-AGI |
 | 14 | Santa Fe Institute (2020) | 综述 | 复杂性科学 |
 | 15 | 飞书NICE知识库 (31篇) | 内部文档 | CST理论+SDI工程 |
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

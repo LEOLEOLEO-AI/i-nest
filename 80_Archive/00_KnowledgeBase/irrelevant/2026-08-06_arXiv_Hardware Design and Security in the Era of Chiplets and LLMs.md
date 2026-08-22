@@ -35,3 +35,6 @@ Review for relevance to TCC/iNEST.
 
 > [!warning] 已排除（2026-08-11）
 > 主题为 chiplet 硬件安全（attack surface / hardware security），非 TCC 拓扑中心计算目标方向。已从检索目标中排除。
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

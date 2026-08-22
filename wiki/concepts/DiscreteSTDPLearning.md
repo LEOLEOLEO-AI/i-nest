@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveLocalLearning]]
+[[AdaptiveSTDP]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]

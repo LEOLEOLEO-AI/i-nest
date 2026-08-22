@@ -283,3 +283,6 @@ F_local(i) = (act_rate_i - target_rate)^2 + lambda * |w_i - w_prior|^2
 ---
 
 *下一步优先级：v7 STD连续性 + STDP时序 + 统计检验，预计修复后τ缩放关系误差降至<20%*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

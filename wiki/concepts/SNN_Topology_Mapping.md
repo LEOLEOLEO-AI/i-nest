@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Baseline_Draft_Status]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

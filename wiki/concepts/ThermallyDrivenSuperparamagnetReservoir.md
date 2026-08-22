@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
 [[EulaminateOverrepresentation]]
@@ -53,11 +54,14 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_Topology]]
-[[TCC_Topology_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
+[[neuromorphic substrate]]
+[[reservoir computing]]
+[[temporalComplexity]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

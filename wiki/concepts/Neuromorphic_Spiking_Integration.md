@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[ConductingPolymerDendriteMemory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_Spiking]]
 [[NoiseModulated_SynapticPlasticity]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[spiking neural network dynamics]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

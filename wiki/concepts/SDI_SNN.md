@@ -31,8 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[新型计算]]
 [[神经形态计算]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,3 +30,9 @@ provenance: own
 
 > 由研发看板自动索引，遵循 Obsidian Wiki/LLM 知识管理规则。
 > 原始内容请查看源文件。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

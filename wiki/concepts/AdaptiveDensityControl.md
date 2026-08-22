@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
 [[Decoupling_Mechanism]]
@@ -33,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
+[[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

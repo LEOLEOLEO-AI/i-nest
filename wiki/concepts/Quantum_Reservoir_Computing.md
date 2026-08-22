@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[Contested_Prior_Resolution]]
+[[Course_Based_FPGA_Projects]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emerging_CMOS_Memristor]]

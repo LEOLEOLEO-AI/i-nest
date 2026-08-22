@@ -29,3 +29,9 @@ Advanced Memory and Neural Computing, Perovskite Materials and Applications, Neu
 
 - [OpenAlex](https://openalex.org/W7125416607)
 - [DOI](https://doi.org/10.1021/acsami.5c21545) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

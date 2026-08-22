@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AnomalousSpinTransport]]
 [[Attention_Residuals]]
+[[BoundaryObject_Abstraction]]
 [[Branch_Prediction]]
+[[CMOS memristor devices]]
 [[CMOS_Memristor_Devices]]
 [[Emerging_CMOS_Memristor]]
 [[Emerging_CMOS_Memristor_Devices]]
@@ -40,6 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[Pipelined_Processor_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[branch prediction]]
+[[emerging CMOS memristor devices]]
+[[memristor device]]
+[[pipelined processor]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

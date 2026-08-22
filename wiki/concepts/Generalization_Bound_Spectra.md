@@ -37,9 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SynapticWeightDynamics]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[Temporal_Dynamics_Integration]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
+[[synaptic plasticity]]
 [[智能涌现]]
 [[涌现]]
 

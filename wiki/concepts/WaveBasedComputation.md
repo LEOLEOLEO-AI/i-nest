@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[EEGToNeuromorphicMapping]]
 [[ExplainableEnergyAI]]
+[[Gut_Brain_Immune_Network]]
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[NeuromorphicHardware]]

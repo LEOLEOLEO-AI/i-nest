@@ -59,3 +59,9 @@ Edge AI applications demand ultra-low latency, high energy efficiency, and adapt
 
 ## 团队需求
 ['1 Principal Investigator (neuromorphic computing/architecture)', '2 Postdoctoral Researchers (chip design, software stack)', '4 PhD Students (circuit design, compiler, benchmarking, system integration)', '2 Senior Engineers (analog/mixed-signal, packaging)', '1 Project Manager']
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

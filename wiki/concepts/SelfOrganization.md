@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[InferenceDrivenFitness]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Sensor_Fusion]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]

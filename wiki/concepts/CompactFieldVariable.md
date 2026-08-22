@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Chip_Indicator_Change]]
 [[SDI_TCC_Chiplet]]
+[[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Physical_Base]]

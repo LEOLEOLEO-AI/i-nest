@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
@@ -44,7 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
@@ -56,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
@@ -65,11 +65,11 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_Topology]]
-[[TCC_Topology_Interconnect]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
 [[iNEST]]
+[[memristor device]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

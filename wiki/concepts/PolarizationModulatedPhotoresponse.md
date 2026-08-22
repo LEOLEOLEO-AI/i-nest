@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AnisotropicGaussianPrimitives]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentTaskDecomposition]]
 [[Ferroelectric_Devices]]

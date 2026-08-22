@@ -29,3 +29,6 @@ Inflammatory Bowel Disease, Gut microbiota and health, Barrier Structure and Fun
 
 - [OpenAlex](https://openalex.org/W7118457158)
 - [DOI](https://doi.org/10.1186/s43556-025-00395-z) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

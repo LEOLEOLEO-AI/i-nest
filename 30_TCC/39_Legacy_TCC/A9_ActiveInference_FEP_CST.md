@@ -58,3 +58,9 @@ provenance: own
 - 对照 Rao & Ballard 1999 的视觉皮层预测编码实验数据
 - **验证命题**：SDI自发涌现出预测编码架构，无需显式设计
 
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

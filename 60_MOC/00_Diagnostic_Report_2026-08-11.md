@@ -243,3 +243,6 @@ status: review
 **遗留（待后续分批）**：
 - 20_Processing 616 篇：20_KnowledgeBase/arxiv-auto(537) 为已结构化 Genspark 论文日报，保持现状；external_imports(62)+inbox_overflow(12) 建议纳入每日消化批次
 - 00_Inbox 剩余 ~155 篇：由每日 20:00 任务按 20 篇/日消化
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

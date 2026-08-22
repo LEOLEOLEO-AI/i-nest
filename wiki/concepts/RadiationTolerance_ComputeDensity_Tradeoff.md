@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_Route]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ComputeRelocationOverhead]]
 [[External_to_OnDie_Evolution]]

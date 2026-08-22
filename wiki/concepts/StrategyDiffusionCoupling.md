@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenComputation]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -36,11 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Substrate]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic substrate]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[ComputationEfficientDeepLearning]]
 [[ConcentricDiscreteOpticalVortices]]
+[[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[neuromorphic substrate]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

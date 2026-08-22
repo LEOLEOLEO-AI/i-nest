@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleCreditAssignment]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenMotionDeblurring]]
+[[FrequencyAdaptationMechanism]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeEncoding]]

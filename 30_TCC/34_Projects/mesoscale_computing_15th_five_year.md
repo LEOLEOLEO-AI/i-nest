@@ -548,3 +548,8 @@ NVIDIA Corporation． NVIDIA Kicks Oﬀ the Next Generation of AI With Rubin—S
 软件定义晶上系统技术与产业联盟． 联盟简介［EB∕OL］ ． 2025．
 
 SpaceNews．  SpaceX Files Plans for Million-Satellite Orbital Data Center Constellation［EB∕OL］ ．  2026．
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[Heterogeneous_Integration]]
@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
 [[TCC]]
 [[ThreeLayerArchitecture]]

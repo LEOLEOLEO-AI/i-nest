@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Reservoir_Computing_Architecture]]
 [[TopologicalAndersonChernInsulator]]
+[[reservoir computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

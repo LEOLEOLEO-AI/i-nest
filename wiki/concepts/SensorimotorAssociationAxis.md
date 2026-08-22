@@ -32,8 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Order_Flexibility_Duality]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

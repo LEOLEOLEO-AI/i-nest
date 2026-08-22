@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Intelligence_Emergence]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
+[[SelfHealing_Interconnect]]
 [[TCC]]
 [[iNEST 论文矩阵计划]]
 [[iNEST]]
@@ -44,4 +45,3 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[复杂网络]]
 [[智能涌现]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]

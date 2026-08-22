@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[PolychronousNeuronalGroups]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_STDP_CoDesign]]
 [[STDP_Plasticity]]
 [[Scaling_Laws]]
 [[Spike_Encoding_of_fMRI]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[scaling laws]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

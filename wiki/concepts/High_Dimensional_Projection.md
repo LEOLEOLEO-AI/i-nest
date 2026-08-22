@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
+[[Crystallized_Neural_Manifolds]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

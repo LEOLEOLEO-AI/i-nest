@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Causal_Emergence_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Topology]]
+[[ComputationEfficientDeepLearning]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

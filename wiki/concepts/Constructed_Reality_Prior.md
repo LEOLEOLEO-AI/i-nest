@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[HigherOrderSynchronization]]
 [[Master_SDDE]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpontaneousOrderMechanism]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

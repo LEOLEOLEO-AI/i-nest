@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[ForwardFluctuationGradient]]
+[[FractalPathEntropy]]
 [[HoldingManeuverDelayPrediction]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

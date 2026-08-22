@@ -36,3 +36,6 @@ Can we derive thermodynamic limits of learning in physical spiking networks with
 
 ## 预期贡献
 Bridge statistical mechanics of complex networks with neuromorphic learning, showing that scale-free connectivity enhances learning efficiency and generalization near critical points, offering a theoretical foundation for energy-efficient neuromorphic hardware.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

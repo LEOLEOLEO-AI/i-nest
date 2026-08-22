@@ -98,3 +98,9 @@ source: getnote---
   - **UCIe**：通用芯粒互连协议（Universal Chiplet Interconnect Express）。
   - **AMBA CXS**：Arm推出的缓存一致性扩展接口。
   - **VIP**：验证IP（Verification IP），确保芯粒互操作性的关键组件。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

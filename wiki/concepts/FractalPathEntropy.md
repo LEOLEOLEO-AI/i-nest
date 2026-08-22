@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Enabled_Battlefield_Autonomy]]
 [[Accessibility_Plasticity]]
 [[AnomalousSpinTransport]]
 [[CellEmergence]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TopologicalFeatureInvariance]]
 [[iNEST]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

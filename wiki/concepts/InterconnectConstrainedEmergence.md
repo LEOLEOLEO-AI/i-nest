@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -44,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[iNEST]]
+[[intelligence emergence]]
+[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

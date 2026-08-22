@@ -16,3 +16,8 @@ CopyTCC：面向AI与HPC的Γst=1拓扑中心计算架构
 
 ---
 *来源：印象笔记 (guid: e32c9ada) | 类型：evernote | 入库：2026-04-28 13:48*
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -71,3 +71,5 @@ date: '2026-07-14'
 - 60_MOC\_wiki_llm_v2\emergence_20260621.md (128B, 7w)
 - 60_MOC\_wiki_llm_v2\emergence_20260705.md (128B, 7w)
 - 60_MOC\_wiki_llm_v2\emergence_20260706.md (128B, 7w)
+
+<!-- orphan-cleanup: no MOC found, tagged -->

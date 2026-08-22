@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
+[[CrossDomain_Abstraction]]
 [[DataDrivenMaterialDesign]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

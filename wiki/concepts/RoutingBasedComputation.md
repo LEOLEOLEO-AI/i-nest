@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
+[[Military_AI_Revolution]]
 [[TCC]]
 
 ## Sources

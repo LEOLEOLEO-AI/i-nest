@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_SynergisticCoordination]]
 [[Chain_of_Thought_Reasoning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoaxialLikeTGV]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

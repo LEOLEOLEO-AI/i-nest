@@ -25,7 +25,9 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
 [[Attention_Residuals]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Stacking]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwareStateMigration]]
 [[Topology_Reconfiguration]]
 [[WaferScaleTopologyCentricComputing]]
+[[topology reconfiguration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

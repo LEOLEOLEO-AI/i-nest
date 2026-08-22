@@ -29,11 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Scaling_Laws]]
 [[TCC]]
 [[iNEST]]
+[[scaling laws]]
 [[神经网络]]
 
 ## Sources

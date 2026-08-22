@@ -332,3 +332,9 @@ $$\mathrm{MDE}(\beta)=\frac{(z_{0.975}+z_{0.80})\,\sigma_\varepsilon}{\sqrt{N}\c
 ---
 
 *证据徽章：B=数学证明；C=公开工程数据；D=本报告假设，待证伪。所有 `[待测]`/`[待注册]`/`[引用·待核对]` 项在取得实测、注册或原始出处前不得作为论据。*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

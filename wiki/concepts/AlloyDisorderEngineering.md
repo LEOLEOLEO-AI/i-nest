@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Power_Density_Law]]
+[[SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

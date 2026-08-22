@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity_Tc]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

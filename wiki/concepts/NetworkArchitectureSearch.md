@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BioInspired_Interception_Control]]
 [[CoPackagedOptics]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]

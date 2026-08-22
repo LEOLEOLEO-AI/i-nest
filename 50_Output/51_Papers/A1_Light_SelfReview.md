@@ -27,3 +27,5 @@ provenance: external
 - [Minor] Add explicit M_eff table from symbol baseline
 - [Minor] Verify appendix cross-references
 - [Info] Ready for typesetting → PDF compilation
+
+<!-- orphan-cleanup: no MOC found, tagged -->

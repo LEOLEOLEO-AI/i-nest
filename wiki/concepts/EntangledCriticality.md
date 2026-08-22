@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
 [[Cognitive_Relapse_Decoupling]]
+[[ConstraintDrivenSelfOrganization]]
 [[CriticalityDrivenStateTransition]]
 [[CrossbarFabricTopology]]
 [[Dynamic_Expert_Fusion]]

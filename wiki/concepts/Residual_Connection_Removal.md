@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle_Network]]
@@ -40,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -65,12 +65,12 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_Topology]]
-[[TCC_Topology_Interconnect]]
 [[TCC_iNEST_Interconnect]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

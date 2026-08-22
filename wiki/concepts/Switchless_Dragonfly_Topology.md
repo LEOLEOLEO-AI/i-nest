@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Advanced_Packaging]]
-[[Advanced_Packaging_Route]]
 [[BisectionBandwidthBound]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Based_Trusted_Hardware]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]

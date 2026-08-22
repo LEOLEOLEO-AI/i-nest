@@ -427,3 +427,6 @@ proposition. Bottom flash-card in accent #c05621 with the two signature quotes. 
 > 2. 微软雅黑 + Times New Roman 在中文环境下首次输出可能偏 Times 衬线。若需微软雅黑加粗中文标题，可使用 `Chinese caption: 微软雅黑加粗「层生成元」` 之类的局部行内强制措辞（本清单已在所有中文文字位置标注 "Microsoft YaHei"）。
 > 3. 单图输出文件命名建议：`F-{编号}_{章节}_{英文短名}_2K.png`，便于后续 PPT 装配调用。建议输出后再放入附录 F.2 八套 PPT 模板（详见附录 F.2 八套 PPT 演示稿清单）。
 > 4. 该 40 张图中，**F-03 / F-23 / F-32 / F-38 / F-39 因涉及时序、判决、规模曲线，建议在 PPT 环境下使用 PowerPoint 内置 SmartArt 进行二次微调然后叠加 GPT Image 2 渲染底图**，可获得更精确的节点控制。
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

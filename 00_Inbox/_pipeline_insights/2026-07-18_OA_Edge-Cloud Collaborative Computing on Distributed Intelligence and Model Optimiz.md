@@ -29,3 +29,6 @@ IoT and Edge/Fog Computing
 
 - [OpenAlex](https://openalex.org/W4415028496)
 - [DOI](https://doi.org/10.1109/comst.2026.3669216) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

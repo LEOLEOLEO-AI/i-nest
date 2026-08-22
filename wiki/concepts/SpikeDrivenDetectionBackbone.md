@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[National_Innovation_Center_Role]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -35,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Supervised_Hebbian_Learning]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经形态计算]]
+[[神经网络]]
 [[类脑芯片]]
 [[脉冲神经网络]]
 

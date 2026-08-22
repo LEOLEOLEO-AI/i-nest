@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
-[[EventDrivenAttentionMechanism]]
 [[EventDrivenAttention]]
 [[EventDrivenMotionDeblurring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
@@ -37,10 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SpikePacketCompression]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

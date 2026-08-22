@@ -33,3 +33,8 @@ Network dismantling aims to identify a node removal sequence that can rapidly de
 
 ---
 *2026-07-01 科研管线v3.1自动提炼 | 相关度: 2/3*
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

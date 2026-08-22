@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Causal_Emergence_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Topology]]
+[[ComputationEfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[memristive crossbar array]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

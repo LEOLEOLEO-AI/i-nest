@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LocalQuantumLearningRule]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

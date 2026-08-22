@@ -36,11 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SNN_NeuroprostheticPipeline]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[Temporal_Coding]]
 [[UniSpike_Acceleration]]
 [[iNEST]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

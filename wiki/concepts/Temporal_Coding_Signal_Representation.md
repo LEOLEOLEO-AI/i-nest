@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[SparseActivationSkipping]]
 [[SpikeEncoding]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]

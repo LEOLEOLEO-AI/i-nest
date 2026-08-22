@@ -28,12 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DataProvenanceIntegrity]]
 [[Energy_Efficient_Control]]
 [[Evolutionary_Computability]]
+[[FerroelectricMemoryCell]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

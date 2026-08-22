@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Substrate]]
+[[Neuromorphic_computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Renormalization_Group_Convergence]]
@@ -44,10 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SNN]]
 [[STDP_iNEST]]
-[[STDP_iNEST_Memristive]]
 [[ST_SNN]]
 [[ScaleFreeNetwork]]
 [[ScaleFreeNetworks]]
@@ -62,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources

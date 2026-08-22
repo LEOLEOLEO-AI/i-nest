@@ -36,7 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
+[[Neuromorphic computing]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Substrate]]
+[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
@@ -45,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
@@ -62,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TopologyFragility]]
 [[iNEST]]
+[[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources

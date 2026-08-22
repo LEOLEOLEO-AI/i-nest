@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[MatrixShapePhaseTransition]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[PhaseAwareBisectionDemand]]
 [[ReconfigurableSpikingRouting]]
 [[Resilient_Satellite_Mesh]]
 [[Spiking_Neural_Network]]

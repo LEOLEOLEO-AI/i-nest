@@ -16,11 +16,13 @@ iNEST, wafer, 互连, 忆阻, 拓扑, 晶圆
 
 ## Related Concepts
 
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[inest]]
 [[智能涌现]]
 [[涌现]]

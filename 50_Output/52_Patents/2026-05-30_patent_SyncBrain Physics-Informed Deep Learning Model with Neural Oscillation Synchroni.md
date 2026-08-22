@@ -51,3 +51,6 @@ Conventional deep learning models for brain decoding treat neural signals as arb
 1. A method for training a neural network to decode brain signals, comprising: receiving multichannel neurophysiological recordings; passing the recordings through a deep neural network to produce a task-related output; computing a physics-informed loss that measures deviation of the network's internal representations from a predefined neural oscillation synchronization model; and updating network parameters to minimize a combination of task loss and the physics-informed loss.
 2. The method of claim 1, wherein the physics-informed loss quantifies the discrepancy between phase-amplitude coupling patterns extracted from the network's hidden layer activations and those expected from a coupled oscillator model tuned to the recorded frequency bands.
 3. A system for brain-state decoding comprising: a sensor array for capturing neural signals; a processor configured to execute the trained neural network of claim 1; and an output interface that translates the decoded state into a control command for an external device.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

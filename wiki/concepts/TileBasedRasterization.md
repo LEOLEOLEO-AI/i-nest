@@ -24,11 +24,11 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Architecture]]
 [[Decoupling_Mechanism]]
 [[EnsembleSparsity]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

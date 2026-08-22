@@ -32,3 +32,9 @@ provenance: external
 ## AI 摘要
 
 基于模拟数据的片上网络拓扑优化与预测
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

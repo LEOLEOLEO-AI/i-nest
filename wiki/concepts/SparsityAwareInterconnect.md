@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Advanced_Packaging]]
-[[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]

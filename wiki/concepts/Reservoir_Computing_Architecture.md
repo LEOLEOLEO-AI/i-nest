@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Causal_Emergence]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]

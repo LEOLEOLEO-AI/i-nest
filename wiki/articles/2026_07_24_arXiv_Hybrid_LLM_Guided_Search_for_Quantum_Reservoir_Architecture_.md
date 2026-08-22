@@ -27,3 +27,4 @@ iNEST, topology
 [[Quantum_Reservoir_Architecture]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[inest]]

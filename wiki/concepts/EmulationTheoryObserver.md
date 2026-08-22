@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

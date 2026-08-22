@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Benchmark]]
+[[BackscatteringImmunity]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[ChannelEventSparsity]]

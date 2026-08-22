@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Layered_Attractive_Hubbard_Model]]
 [[LocalLearningRules]]
 [[MembranePotentialModulation]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SNN]]

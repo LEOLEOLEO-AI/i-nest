@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip_Floorplanning]]
 [[Communication_Trace_Diagnostics]]
 [[DifferentiablePlacement]]
+[[EpidemicThreshold]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]

@@ -78,3 +78,9 @@ CST_whole 与孤立脑区 CST 一般不相等；
 
 本协议只能支持以下类型结论：可计算性、重复性、关联/预测价值、尺度关系或被拒绝的预注册假设。单次拓扑结果不能宣称证明 CST、SOC、SC-FC 或智能等级因果关系。
 
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

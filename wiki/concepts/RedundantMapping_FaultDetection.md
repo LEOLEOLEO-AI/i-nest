@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Express_Link_Virtualization]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[HeterogeneousChipletIntegration]]
+[[Heterogeneous_Integration]]
 [[InverseDesignOptimization]]
 [[Network_Topology_Design]]
 [[TCC]]

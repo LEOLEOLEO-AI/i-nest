@@ -850,3 +850,8 @@ Hebb在1949年提出的赫布学习律——“Fire together, wire together”�
 
 ---
 *来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 08:27*
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

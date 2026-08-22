@@ -323,3 +323,6 @@ V9(仿真) → V32(Avalanche验证) → L4(工具使用) → L5(抽象推理) �
 ---
 
 > PPT 总时长：45分钟 | 预留15分钟 Q&A + 一对一沟通
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

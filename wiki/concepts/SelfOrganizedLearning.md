@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BitPrecisionAwareScheduling]]
+[[CST计量仪]]
 [[Developmental_Computing]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

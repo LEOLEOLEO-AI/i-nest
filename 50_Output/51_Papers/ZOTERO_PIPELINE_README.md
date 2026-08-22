@@ -53,3 +53,6 @@ python _convert_citations.py
 # 4. 导出 Word（需要 pandoc）
 pandoc V30_CITEKEYS.md --citeproc --bibliography=cst_references_v29.bib -o V30_draft.docx
 ```
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

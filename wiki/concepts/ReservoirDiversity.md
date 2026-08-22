@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[SwarmGradientRouting]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

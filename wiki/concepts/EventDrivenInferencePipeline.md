@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
+[[EventDrivenAttention]]
 [[EventDrivenComputation]]
 [[EventDrivenInference]]
 [[EventDrivenSpectralProcessing]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

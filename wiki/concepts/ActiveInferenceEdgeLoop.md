@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
+[[Stochastic_LIF_Inference]]
 [[iNEST]]
 
 ## Sources

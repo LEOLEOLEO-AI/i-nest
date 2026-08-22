@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Analog_Computation]]
 [[AutonomousSpikingDynamics]]
+[[DARPA_ProjectManager_Model]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Memristor_Synapse]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Signal_Folding]]
 [[SneakPathCurrentSuppression]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

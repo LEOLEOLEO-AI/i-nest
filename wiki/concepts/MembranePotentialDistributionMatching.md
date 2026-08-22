@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
+[[Course_Based_FPGA_Prototyping]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

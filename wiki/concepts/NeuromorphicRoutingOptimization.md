@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[SNN]]
+[[SparseHubsCoupling]]
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

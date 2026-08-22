@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[AgenticServiceOrchestration]]
 [[DARPA_ProjectManager_Model]]
+[[DTGA]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyEvolvingReservoir]]
 [[Topology_Reconfiguration]]
+[[topology reconfiguration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

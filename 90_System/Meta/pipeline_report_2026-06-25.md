@@ -39,3 +39,6 @@ provenance: external
 
 - Inbox: http://127.0.0.1:8899/vault/00_Inbox/
 - 报告: http://127.0.0.1:8899/vault/99_Meta/pipeline_report_2026-06-25.md
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

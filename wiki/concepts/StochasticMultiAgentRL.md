@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

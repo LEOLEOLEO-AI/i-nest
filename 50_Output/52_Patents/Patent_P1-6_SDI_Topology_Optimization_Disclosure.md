@@ -143,3 +143,6 @@ S_eff/Rand=1.52。**该方法会输出"规模不足"警告，建议增大 N 至 
 
 ---
 *交底书草稿 v1.0 — 2026-06-04*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

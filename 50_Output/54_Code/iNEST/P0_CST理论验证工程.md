@@ -47,3 +47,6 @@ tags: [iNEST, CST理论, 数值仿真, 涌现验证]
 - GPU计算集群 (A100×8 或等效)
 - 天津大学高性能计算中心
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

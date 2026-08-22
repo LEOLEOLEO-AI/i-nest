@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomicDevelopmentalTrajectory]]
 [[CorticalWaveRouting]]
 [[Deep_Thermalisation]]
+[[Environmental_Capability_Context]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

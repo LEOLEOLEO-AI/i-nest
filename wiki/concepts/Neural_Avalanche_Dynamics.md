@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Avalanche_Dynamics]]
+[[DivergentHigherAreaRanking]]
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -32,12 +33,15 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neural_Avalanche]]
 [[Neuronal_Avalanche_Dynamics]]
+[[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
+[[reservoir computing]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

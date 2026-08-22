@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[DRBE_MVP_Mainchain]]
 [[Deep_Network_Architecture_Invariant]]
@@ -49,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[Software_Defined_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -57,7 +57,10 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[TopologyProgramming]]
+[[chiplet interconnect]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,12 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDN_Neuromorphic_Interface]]
+[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SparseActivationPattern]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

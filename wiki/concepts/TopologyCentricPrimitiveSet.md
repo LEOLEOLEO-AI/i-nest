@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[CellEmergence]]
 [[EdgeIoTEnergyAwareness]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

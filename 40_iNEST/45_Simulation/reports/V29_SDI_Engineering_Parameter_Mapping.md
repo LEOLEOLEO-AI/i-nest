@@ -33,3 +33,9 @@ provenance: own
 
 WS 模型可精确复现 C.elegans σ (误差 1.8%)。
 生成器可用于 V30 规模扫描。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

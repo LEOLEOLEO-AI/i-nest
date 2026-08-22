@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[chiplet interconnect]]
+[[temporalComplexity]]
 [[Γst_Revision]]
 
 ## Sources

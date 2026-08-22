@@ -53,3 +53,8 @@ In this paper, we design and analyze the Universal Chiplet Interconnect Express 
 ## AI 摘要
 
 在硅中介层中设计和分析通用芯粒互连通道的信号完整性。
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -32,3 +32,9 @@ The local circuitry of the mammalian brain is a focus of the search for generic 
 ## AI 摘要
 
 全密度尖峰神经网络模型推动了神经形态计算的构建性社区竞赛。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

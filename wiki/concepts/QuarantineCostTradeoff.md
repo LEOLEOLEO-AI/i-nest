@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[NoC_EventRouting]]
 [[ParallelSNNArchitecture]]
 [[Resilient_Satellite_Mesh]]

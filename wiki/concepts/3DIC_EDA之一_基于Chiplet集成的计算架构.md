@@ -37,7 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Intelligence_Emergence]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Network_Topology_Design]]
+[[SelfHealing_Interconnect]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]

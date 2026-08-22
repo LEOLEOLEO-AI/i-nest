@@ -30,7 +30,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Heterogeneous_Integration]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_1]]
-[[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_2]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[NCL神经计算定律详解]]
 [[Neuromorphic_Computing]]

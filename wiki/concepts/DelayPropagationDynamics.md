@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[Neural_Field_World_Model]]
+[[PhotonicSynapticPlasticity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Mesh]]
 [[Self_Organized_Criticality]]

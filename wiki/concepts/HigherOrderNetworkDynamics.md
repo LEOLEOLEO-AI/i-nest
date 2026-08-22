@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
+[[Closed_Loop_Neuromodulation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

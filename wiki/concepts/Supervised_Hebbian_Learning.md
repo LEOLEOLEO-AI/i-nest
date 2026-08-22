@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CSI_Temporal_Encoding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -35,11 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[spiking neural network]]
 [[新型计算]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

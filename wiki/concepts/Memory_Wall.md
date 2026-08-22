@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Memory wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -59,7 +59,9 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity_Tc]]
 [[TopologyProgramming]]
 [[Topology_Centric_Computing]]
+[[heterogeneous_integration]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

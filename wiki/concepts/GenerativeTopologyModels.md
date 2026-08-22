@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Architecture]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
@@ -40,11 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDI_STDP]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

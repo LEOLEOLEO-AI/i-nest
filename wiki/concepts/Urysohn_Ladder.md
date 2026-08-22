@@ -34,9 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[QuantumConvolutionalTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Recursive_Metric_Contraction]]
 [[TopologicalAndersonChernInsulator]]
+[[catastrophic forgetting]]
+[[recursive metric contraction]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

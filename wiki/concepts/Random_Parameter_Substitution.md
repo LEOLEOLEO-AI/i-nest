@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[IntegratedSensingFusion]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]

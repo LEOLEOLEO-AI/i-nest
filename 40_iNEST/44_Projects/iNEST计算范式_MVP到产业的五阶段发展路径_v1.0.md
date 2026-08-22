@@ -416,3 +416,9 @@ iNEST 产业路径                        TCC 产业路径
 | Phase 2 | 2029Q3-2031Q2 | Emergence-Bench v1.0  | 学术界+ML社区   | 0 (标准)  |
 | Phase 3 | 2031Q3-2033Q2 | iNEST-Sim Cloud       | AI企业+芯片公司  | 50-500万 |
 | Phase 4 | 2033+         | Emergence-OS          | 全社会        | 生态收入    |
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

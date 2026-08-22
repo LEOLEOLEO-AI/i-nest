@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningNanomaterialDiscovery]]
 [[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
+[[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[TwoTimescaleNeuroEvolution]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

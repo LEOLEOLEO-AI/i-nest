@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
+[[PacketRoutingOptimization]]
 [[QuarantineCostTradeoff]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -40,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -49,8 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SNN]]
+[[STDP plasticity]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ST_SNN]]
@@ -64,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources

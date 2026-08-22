@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

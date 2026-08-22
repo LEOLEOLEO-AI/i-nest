@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
+[[Event_Driven_Communication]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
@@ -38,13 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[QuantumChaos]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
+[[SDI节点接口规范与化合键定义]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[Translation_Invariant_Closure]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

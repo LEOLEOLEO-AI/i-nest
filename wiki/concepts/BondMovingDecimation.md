@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]

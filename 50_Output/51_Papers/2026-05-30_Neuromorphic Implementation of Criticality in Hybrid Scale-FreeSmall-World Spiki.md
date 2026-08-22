@@ -37,3 +37,6 @@ How do the structural properties of concurrent scale-free and small-world topolo
 
 ## 预期贡献
 This work would provide the first neuromorphic simulation framework to explicitly test the hypothesis that the co-occurrence of scale-free and small-world architectures is necessary for robust criticality in cortical-like networks. It would quantify the trade-offs in error/attack tolerance and information capacity (via avalanche statistics and signal propagation) unique to this hybrid topology, bridging statistical mechanics theories with biologically realistic spiking dynamics.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

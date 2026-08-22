@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
@@ -54,12 +55,12 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_Topology]]
-[[TCC_Topology_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Textbook_Paradigm_Definition]]
 [[Topology_Interconnect]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

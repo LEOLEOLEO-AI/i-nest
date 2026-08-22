@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NishimoriLine]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[boundary criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

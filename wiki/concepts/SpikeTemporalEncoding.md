@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]

@@ -30,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SNN]]
 [[SNN_STDP_CoDesign]]
 [[STDP_Plasticity]]
@@ -39,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[neuromorphic substrate]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

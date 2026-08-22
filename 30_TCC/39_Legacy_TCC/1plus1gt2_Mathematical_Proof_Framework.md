@@ -385,3 +385,9 @@ $$> \text{CST}_A + \text{CST}_B$$
 ---
 
 *文档生成：2026-07-07 | 状态：草案，待 E-B1 实验数据后升级为完整版*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

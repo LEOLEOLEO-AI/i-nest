@@ -30,12 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Cluster_Switch_Bottleneck]]
 [[AI_Faculty_Forum_2026]]
 [[Agent_Workflow_Automation]]
+[[AnteHoc_Explainability]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Switch_Bottleneck]]
 [[TCC]]
+[[soc]]
 [[神经网络]]
 
 ## Sources

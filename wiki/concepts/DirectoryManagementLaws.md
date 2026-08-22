@@ -27,9 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_SNN_Inference]]
 [[FlexibleNeuromorphicAccelerator]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[ReSCom_Accelerator]]
+[[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

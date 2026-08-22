@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[BoundaryObject_Abstraction]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

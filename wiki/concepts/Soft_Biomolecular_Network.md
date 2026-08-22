@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
+[[Activity_Dependent_Plasticity]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveTimeStepTraining]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Substrate]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic substrate]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -92,3 +92,9 @@ provenance: external
   - arXiv | 2026-06-01
   - Achieving synaptic functionality electronically in a single-element quantum material is a fundamental challenge, as conventional methods rely on the i
 
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

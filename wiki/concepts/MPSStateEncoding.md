@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CompactFieldVariable]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]

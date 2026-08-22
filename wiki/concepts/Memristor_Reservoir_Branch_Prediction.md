@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Branch_Prediction]]
+[[CMOS memristor devices]]
 [[CMOS_Memristor_Devices]]
+[[DARPA_ProjectManager_Model]]
 [[Emerging_CMOS_Memristor]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[GeneralizedReadoutMap]]
@@ -38,6 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Reservoir_Computing_Architecture]]
 [[TCC]]
+[[branch prediction]]
+[[emerging CMOS memristor devices]]
+[[memristor device]]
+[[neuromorphic computing]]
+[[pipelined processor]]
+[[reservoir computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]

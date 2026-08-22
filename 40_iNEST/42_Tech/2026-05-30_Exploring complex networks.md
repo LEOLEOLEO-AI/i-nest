@@ -22,3 +22,9 @@ For iNEST, this suggests that the topological analysis of physical substrates (e
 
 ---
 *来源: openalex (2001)*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

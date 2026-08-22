@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

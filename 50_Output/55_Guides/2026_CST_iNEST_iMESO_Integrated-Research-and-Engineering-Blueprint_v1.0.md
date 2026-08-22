@@ -999,3 +999,6 @@ flowchart LR
 ---
 
 **审计结论（2026-07-26）**：本规划以 `iNEST4.md` 的时间与连接规模作为智涌脑唯一规划轴；以可复现、可证伪和跨团队复现作为 CST/iNEST/iMESO/TCC 的共同科学工程准入条件。现有自然常数、跨物种数值、材料 α 典型值和 AGI 预测均被保留为待验证对象，而非结论。
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

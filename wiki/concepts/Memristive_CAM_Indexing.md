@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[CrossDomain_Integration]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

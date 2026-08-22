@@ -23,12 +23,12 @@ Auto-extracted concept from raw material compilation.
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[CorticalTypeDiversity]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MobilityEdge]]
 [[MultiObjectiveRouting]]
@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[RoutabilityDrivenFloorplanning]]
 [[ScaleFreeNetwork]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources

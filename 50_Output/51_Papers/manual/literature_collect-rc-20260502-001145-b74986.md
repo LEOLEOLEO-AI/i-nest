@@ -243,3 +243,5 @@ Structured shape completion recovers missing geometry as primitives rather than 
   "bibtex_entries": 596,
   "ts": "2026-05-02T00:16:29+00:00"
 }
+
+<!-- orphan-cleanup: no MOC found, tagged -->

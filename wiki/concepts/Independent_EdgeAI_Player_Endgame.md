@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Synaptic_Plasticity]]
+[[SystemLevelNonlinearity]]
 [[TemporalDynamicsModeling]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[Catastrophic_Forgetting]]
 [[Edge_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
@@ -37,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[SpikeDrivenInference]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[catastrophic forgetting]]
+[[edge intelligence]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

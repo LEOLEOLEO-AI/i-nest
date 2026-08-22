@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle_Network]]
@@ -60,6 +61,8 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[intelligence emergence]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

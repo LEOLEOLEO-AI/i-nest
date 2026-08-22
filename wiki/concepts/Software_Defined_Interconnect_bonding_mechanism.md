@@ -43,11 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[Software_Defined_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
@@ -60,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity_Tc]]
 [[TopologyProgramming]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

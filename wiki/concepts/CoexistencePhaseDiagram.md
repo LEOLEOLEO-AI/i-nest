@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AdaptiveMeasurementProtocol]]
 [[AdversarialResilience]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Anderson_Insulator]]
 [[VariationalFreeEnergyMinimisation]]
+[[topological Anderson insulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

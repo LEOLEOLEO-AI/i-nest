@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[TwoTimescaleNeuroEvolution]]
+[[avalanche dynamics]]
 [[iNEST]]
 
 ## Sources

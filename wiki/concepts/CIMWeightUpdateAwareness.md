@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MeasurementInducedPhaseTransition]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[NoiseModulated_SynapticPlasticity]]
 [[NonEquilibriumComputing]]

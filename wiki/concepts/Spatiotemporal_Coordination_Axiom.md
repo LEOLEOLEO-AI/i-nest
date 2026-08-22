@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Decoupled_Priors]]
 [[EndToEndTopologyLearning]]
+[[Fixed_Cost_Dominance]]
 [[Fluidic_Hysterons]]
 [[GroupInteractionThreshold]]
 [[ITP_STDP]]

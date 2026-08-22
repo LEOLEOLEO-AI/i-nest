@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
 [[In_Package_Neuromorphic_Integration]]
 [[Network_Topology_Design]]

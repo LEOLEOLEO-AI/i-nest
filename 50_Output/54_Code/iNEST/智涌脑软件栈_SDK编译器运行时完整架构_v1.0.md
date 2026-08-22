@@ -657,3 +657,6 @@ CST-Meter (离线/云端)             智涌脑 (在线/嵌入式)
 | LNN ODE Solver | 异步脉冲电路 | 物理映射 (非数学映射) |
 | LNN training loop | STDP+BCM硬件加速 | 硬件替代软件训练 |
 | `lnn.save/load` | `brain.save/load_checkpoint` | 格式兼容 (+LNN→iNEST转换器) |
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

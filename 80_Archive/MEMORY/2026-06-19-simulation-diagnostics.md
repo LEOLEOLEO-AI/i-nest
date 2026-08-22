@@ -124,3 +124,6 @@ W8  | —  | —  | —  | ✅ | 100%
 2. 生成统计摘要（P0-2）
 3. 启动对照实验脚本（P1-1）
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

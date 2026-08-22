@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Anomaly_Induced_Quantum_Criticality]]
+[[Anomaly_Protected_Scaling_Law]]
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

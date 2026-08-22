@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[BrainBodyResonance]]
+[[CascadedAdaptiveCombiners]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

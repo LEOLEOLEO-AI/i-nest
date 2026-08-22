@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Interconnect]]
 [[AI_FullSpectrum_Strategy]]
+[[ASIC_Dualism]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BackpropagationFreeLearning]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]

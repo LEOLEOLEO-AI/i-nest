@@ -92,3 +92,6 @@ provenance: external
 
 *报告生成：2026-07-09 更新*  
 *来源脚本：`sdi_sim/hemibrain_v31_real.py`*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

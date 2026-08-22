@@ -492,3 +492,6 @@ Demo 4: 涌现相变检测 (持续)
 - M0判定: ✅ PASS / ❌ FAIL
 - 备注: XXX
 ```
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -29,3 +29,4 @@ NoC, TCC, chiplet, iNEST, 互连
 [[Network_on_Chip]]
 [[TCC]]
 [[iNEST]]
+[[tcc]]

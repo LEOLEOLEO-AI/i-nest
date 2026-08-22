@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SNN]]
+[[STDP learning]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spacetime_Coupling_Coefficient]]
@@ -67,6 +68,8 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[spiking neural network]]
+[[temporalComplexity]]
 [[Γst_Revision]]
 
 ## Sources

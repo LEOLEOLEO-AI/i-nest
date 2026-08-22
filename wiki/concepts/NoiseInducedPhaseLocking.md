@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[On_Chip_STDP_Learning]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDPDrivenTemporalBinding]]
@@ -35,9 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralDynamics]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
-[[Synaptic_Plasticity_Rule]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

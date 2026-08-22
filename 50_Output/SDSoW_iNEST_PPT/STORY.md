@@ -58,3 +58,6 @@
 - 配色：主蓝 #1E4FA8 / 藏蓝 #0E3F8C / 浅蓝 #E8EFF8·#F0F5FC / 中蓝 #3D7BD9 / 警示红 #D9534F（≤3%）/ 数据黄 #FFC107（≤3%）/ 文本 #1A2230·#4A5568·#8B97A8 / 线框 #D6DCE5 / 背景 #FFFFFF·#F7F9FC。
 - 字体：正文 思源黑（Noto Sans SC）；封面英文长 title 与引文 思源宋/Times New Roman serif；禁楷体/艺术字。
 - L1 视觉统一为 SVG 结构化概念图（晶圆、拓扑、临界、路线图），不混入摄影/3D。
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

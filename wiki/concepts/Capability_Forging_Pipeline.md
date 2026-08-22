@@ -41,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Stigmergic_RL]]
-[[Stigmergic_RL_Coordination]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[WeakStructuralConnections]]

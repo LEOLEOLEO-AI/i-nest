@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CriticalityInducedTopology]]
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

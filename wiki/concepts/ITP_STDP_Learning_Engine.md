@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[DiscreteSTDP]]
 [[ITP_STDP]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]

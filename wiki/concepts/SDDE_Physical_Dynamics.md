@@ -26,13 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Core_Spacetime_Tensor]]
 [[CytoarchitectonicAxis]]
 [[FirstPrinciples_Derivation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

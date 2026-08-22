@@ -36,7 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
+[[SDI节点接口规范与化合键定义]]
 [[ScaleFreeNetwork]]
 [[SensorMemoryCoLocation]]
 [[SpikingTopologyEvolution]]

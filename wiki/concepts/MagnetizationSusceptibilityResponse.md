@@ -29,7 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Complex_System_Theory]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

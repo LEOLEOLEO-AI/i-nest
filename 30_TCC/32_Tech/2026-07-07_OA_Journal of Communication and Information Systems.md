@@ -29,3 +29,9 @@ With the increasing tendency of incorporating technology into environments and a
 
 - [OpenAlex](https://openalex.org/W4232216697)
 - [DOI](https://doi.org/10.14209/jcis) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

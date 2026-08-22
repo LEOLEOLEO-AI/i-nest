@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[CrossInstitutionalNetwork]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]

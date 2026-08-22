@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[BurstGatedRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FitnessPhaseTransition]]

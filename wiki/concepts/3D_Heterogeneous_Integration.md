@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Threshold]]
+[[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

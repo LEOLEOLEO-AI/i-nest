@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
+[[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[IntrinsicDynamicsAutonomy]]

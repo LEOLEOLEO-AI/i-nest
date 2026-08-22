@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[ExponentialDenseAssociativeMemory]]
+[[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlocks]]
 [[InNetworkAgentRewiring]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetwork]]
 [[iNEST]]
+[[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

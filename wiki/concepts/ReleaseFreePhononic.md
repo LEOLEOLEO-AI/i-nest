@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

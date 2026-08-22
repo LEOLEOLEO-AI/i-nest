@@ -29,3 +29,9 @@ Advanced Data Storage Technologies, Advanced Memory and Neural Computing, Ferroe
 
 - [OpenAlex](https://openalex.org/W7118625014)
 - [DOI](https://doi.org/10.1038/s44335-025-00044-2) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

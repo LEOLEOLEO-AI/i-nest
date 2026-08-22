@@ -29,3 +29,6 @@ Opinion Dynamics and Social Influence, Complex Network Analysis Techniques
 
 - [OpenAlex](https://openalex.org/W4414974106)
 - [DOI](https://doi.org/10.1038/s42254-025-00916-3) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ConcentricDiscreteOpticalVortices]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

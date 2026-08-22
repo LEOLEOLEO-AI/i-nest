@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]
+[[DARPA_ProjectManager_Model]]
 [[Dynamical_State_Space]]
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]

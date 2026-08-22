@@ -28,8 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_Route]]
-[[Advanced_Packaging_for_Space]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
@@ -39,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[Space_Radiation_Hardening]]
 [[TCC]]
 
 ## Sources

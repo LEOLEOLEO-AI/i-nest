@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle_Network]]
@@ -40,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[iNEST]]
+[[intelligence emergence]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

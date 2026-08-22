@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BulletTrainScheduling]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

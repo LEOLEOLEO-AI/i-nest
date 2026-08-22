@@ -108,3 +108,9 @@ $$\underbrace{S_c}_{\substack{\text{空间流形} \\ \text{维度质量}}} \cdot
 ---
 
 *关联文件：CST_Parameter_Review_v2.md · SDI_Four_Rules_References_FINAL.md · AIRA_VJEPA2_iNEST分析_2026-05-23.md*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

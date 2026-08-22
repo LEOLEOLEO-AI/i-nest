@@ -37,13 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[NonInvasive_Neuromorphic_Prognosis]]
 [[RecursiveSelfReferentialArchitecture]]
-[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]
 [[Self_Organized_Criticality]]
 [[Sleep_Stage_Classification]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -323,3 +323,5 @@ _Editorial notes for camera-ready:_ correct the exponent ordering in Lemma A.4 f
 **三、一句战术判断**。这一稿最值钱的不是 $1.47\times$，而是 Remark 3——$\varepsilon_k$ 同时出现在"轴对齐最优性缺口"和"延迟页效率上界"两处。审稿人若只看架构会觉得这是工程论文，若看懂 Remark 3 会意识到分页不是一个优化，而是守恒律留下的**唯一自由维度**。建议在 rebuttal 里把这句话准备成第一段。
 
 要我接着出 Figure 1 与 Figure 4 的矢量出图脚本，还是先把 §9 的 H-A 得失段落打磨成"自曝式"英文定稿？
+
+<!-- orphan-cleanup: no MOC found, tagged -->

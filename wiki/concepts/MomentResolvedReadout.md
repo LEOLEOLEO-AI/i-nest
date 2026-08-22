@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[CoDesignedOnlineContinualLearning]]
+[[Comparative_Formulation_Analysis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]

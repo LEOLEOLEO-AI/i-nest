@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[1M1T1R_SynapticNeuron]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[ApproximateMacroscopicDynamics]]
@@ -41,8 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network_dynamics]]
+[[alignment tax]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

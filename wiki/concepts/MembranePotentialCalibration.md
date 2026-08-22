@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Avoided_Criticality]]
 [[BrainActivityPrediction]]
+[[CrashHotspotForecasting]]
 [[LeftRightAsymmetry]]
 [[Nonlinear_Gain]]
 [[SNN]]

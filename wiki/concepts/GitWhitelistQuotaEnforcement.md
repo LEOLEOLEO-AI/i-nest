@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[EventTriggeredDistributedControl]]
 [[Network_Topology_Design]]
+[[RandomGraphQuantumChaos]]
 [[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
 [[TopologicalObservers]]

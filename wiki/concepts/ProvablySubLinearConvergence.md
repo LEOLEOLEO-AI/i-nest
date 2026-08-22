@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
+[[FunctionalInterfaceBlocks]]
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[BrainBodyResonance]]
 [[Brain_Connectome]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh_Model]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
+[[neuromorphic substrate]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

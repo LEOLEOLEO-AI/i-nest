@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterfaces]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

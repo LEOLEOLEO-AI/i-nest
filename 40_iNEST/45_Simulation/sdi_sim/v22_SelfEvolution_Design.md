@@ -158,3 +158,9 @@ D:/Obsidian/phase1_workspace/
 ---
 
 > iNEST Research Team, Tianjin University. (2026). v22 Self-Evolution Mechanism Design.
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

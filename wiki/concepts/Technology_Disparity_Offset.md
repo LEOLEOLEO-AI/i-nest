@@ -39,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[PolymerComposite_Substrate]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
+[[SDSoW]]
 [[SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spiking_Neural_Network]]

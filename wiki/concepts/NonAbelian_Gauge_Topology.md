@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[AvalancheBranchingRatio]]
+[[BigBrainCellularAxis]]
+[[BranchingRatio]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
@@ -57,11 +59,11 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_Topology]]
-[[TCC_Topology_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

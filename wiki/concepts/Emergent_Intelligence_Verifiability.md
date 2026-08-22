@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[Constructed_Reality_Interconnect]]
 [[Contested_Priors_Mechanism]]
 [[DataDrivenCellularAxis]]
@@ -40,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[NoC_SDI]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
@@ -64,6 +64,8 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
+[[intelligence emergence]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

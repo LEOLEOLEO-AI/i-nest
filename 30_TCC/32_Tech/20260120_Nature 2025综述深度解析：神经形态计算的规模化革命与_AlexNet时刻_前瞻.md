@@ -98,3 +98,9 @@ source: getnote---
 #### **核心结论**
 
 神经形态计算已具备硬件规模化基础，**软件生态标准化**是实现“AlexNet时刻”的关键。需通过统一框架、编译器工具链和社区协作，推动从实验室走向产业化应用。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

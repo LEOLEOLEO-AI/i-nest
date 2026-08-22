@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[HybridResistiveMemoryCIM]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

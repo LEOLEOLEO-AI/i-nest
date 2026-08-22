@@ -28,11 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[PhononicBandgapEngineering]]
 [[PinAssignmentOptimization]]
+[[ReconfigurablePageArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

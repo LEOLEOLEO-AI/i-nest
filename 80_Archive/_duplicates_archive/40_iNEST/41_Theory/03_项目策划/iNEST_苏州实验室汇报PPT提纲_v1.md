@@ -295,3 +295,6 @@ $$\mathcal{F} = \underbrace{-\log P(o|W)}_{\text{Rule1：预测误差}} + \under
 *提纲版本：v1.0 | 2026-05-22*  
 *汇报对象：苏州实验室主要领导*  
 *建议时长：45-60分钟*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

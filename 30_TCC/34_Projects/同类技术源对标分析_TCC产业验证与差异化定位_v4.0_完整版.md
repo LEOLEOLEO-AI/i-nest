@@ -231,3 +231,9 @@ SDSoW国家战略（邬江兴院士）
 > **相关文件**：
 > - [v3.0 同业对标分析](http://127.0.0.1:8899/vault/30_TCC/34_Projects/同类技术源对标分析_TCC计算范式的产业验证与差异化定位_v3.0.md)
 > - [算力网络架构手记价值映射](http://127.0.0.1:8899/vault/30_TCC/34_Projects/算力网络架构手记_对TCC计算范式的价值映射分析_v1.0.md)
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

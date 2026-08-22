@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EmergentPhaseTransition]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA reconfigurability]]
+[[FPGABasedNeuromorphic]]
 [[FPGA_Reconfigurability]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -167,3 +167,6 @@ High-frequency jobs save the most. Prioritize by runs/day:
 - Test one run after changing before leaving unmonitored
 - If a job needs browser automation or image understanding, avoid `gemini-3.1-flash-lite-preview` (weaker at visual tasks)
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

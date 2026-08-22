@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[JointEmbeddingPredictiveArchitecture]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganizedOscillatoryLearning]]
 [[iNEST]]
+[[neuromorphic substrate]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

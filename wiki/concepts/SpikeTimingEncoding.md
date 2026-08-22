@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

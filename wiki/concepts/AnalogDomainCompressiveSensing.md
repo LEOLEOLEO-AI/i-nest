@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[CounterstreamSignalPropagation]]
+[[Course_Based_FPGA_Projects]]
 [[CytoarchitectonicAxis]]
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenCytoarchitectonicAxis]]

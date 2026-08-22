@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
+[[SDSoW_Strategic_Planning]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy_Complexity]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[TopologyFragility]]
+[[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

@@ -367,3 +367,6 @@ cron: 0 0 * * 0 ~/check_github_sync.sh
 **生效时间**：2026-06-23 09:23 EDT
 **所有 GenSpark 输出必须支持本规范的推送流程**
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

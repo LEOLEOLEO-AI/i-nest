@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousSpikingDynamics]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[BulletTrainScheduling]]
 [[EventDrivenMotionDeblurring]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

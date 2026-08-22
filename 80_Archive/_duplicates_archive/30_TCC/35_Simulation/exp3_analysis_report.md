@@ -147,3 +147,6 @@ Hemibrain嗅觉子环路（ORN→PN→KC→APL→MBON）呈现：
 | `exp3_module_structure.png` | 终态模块结构度分布可视化（76KB） |
 | `exp3_run.log` | 完整运行日志（17KB） |
 | `exp3_analysis_report.md` | 本分析报告 |
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

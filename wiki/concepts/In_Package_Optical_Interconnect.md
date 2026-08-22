@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Roadmap_HIR]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]

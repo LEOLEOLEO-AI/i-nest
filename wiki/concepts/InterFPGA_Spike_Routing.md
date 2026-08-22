@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_NoC_Routing]]
 [[NoC_EventRouting]]
+[[QuarantineCostTradeoff]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]

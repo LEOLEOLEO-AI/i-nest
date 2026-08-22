@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

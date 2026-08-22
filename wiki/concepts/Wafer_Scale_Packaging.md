@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdvancedPackagingInterconnect]]
+[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -34,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[OnDie_Fusion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

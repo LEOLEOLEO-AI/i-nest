@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedTopology]]
 [[Decoupled_Priors]]
 [[EventDrivenRiskAssessment]]
+[[Generative_Graph_Models]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

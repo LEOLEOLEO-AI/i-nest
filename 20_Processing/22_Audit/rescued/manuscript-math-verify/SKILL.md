@@ -68,3 +68,6 @@ metadata:
 - 原引擎针对 iNEST/CST 理论手稿定制（θ 阈值、Γ_st、β(CST) 固定点等模式）；对**一般数学论文**，claim 抽取与推导链检查仍有效，但符号目录/数值检查的领域规则需扩展（改 scripts 中的 symbol_rules / theta_constants / expected_sections）。
 - 文献验证（evidence）是启发式占位（按是否有年份引用计数），**不做真实检索**；需要真实文献支撑时配合 light-literature-search / pipeline_v3 检索语义。
 - PDF 输入请先用 pdf_to_markdown 类工具转文本；引擎直接吃 HTML 可较好处理 PDF 导出的 HTML。
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

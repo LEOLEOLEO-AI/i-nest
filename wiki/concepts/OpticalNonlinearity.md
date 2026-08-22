@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MeasurementInducedNonlinearity]]
 [[Memristive_Topology]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

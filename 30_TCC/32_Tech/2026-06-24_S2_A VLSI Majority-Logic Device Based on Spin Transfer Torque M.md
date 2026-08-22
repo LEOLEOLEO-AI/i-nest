@@ -32,3 +32,9 @@ This article presents a majority-logic device, called sttMAJ, based on spin-tran
 ## AI 摘要
 
 本文提出了一种基于自旋转移矩磁隧道结的多数逻辑器件sttMAJ，可用于构建无晶体管的布尔/非布尔电路，适用于神经形态计算和图像处理。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

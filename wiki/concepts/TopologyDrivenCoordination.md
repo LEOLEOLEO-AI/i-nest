@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
+[[AdaptiveFunctionalTopology]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Dynamic_Expert_Fusion]]

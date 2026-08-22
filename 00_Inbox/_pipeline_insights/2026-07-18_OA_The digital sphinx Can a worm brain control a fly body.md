@@ -29,3 +29,6 @@ Neurobiology and Insect Physiology Research, Genetics, Aging, and Longevity in M
 
 - [OpenAlex](https://openalex.org/W7140224853)
 - [DOI](https://doi.org/10.64898/2026.03.20.713233) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

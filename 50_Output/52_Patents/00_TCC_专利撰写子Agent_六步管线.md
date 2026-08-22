@@ -188,3 +188,6 @@ provenance: external
 
 > **版本：** v1.0 | 2026-06-17 | TCC iNEST Research Group  
 > **基于：** Research Units Pipeline 框架 + CNIPA 专利申请实务
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -453,3 +453,8 @@ Year 3 (2028Q4-2029Q3): 系统→智能涌现
 ---
 
 *文件维护：iNEST联合团队 | 创建：2026-06-19 | 版本：v1.0（TCC↔iNEST术语对齐版）*
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

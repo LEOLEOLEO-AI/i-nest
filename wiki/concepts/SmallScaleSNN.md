@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Neuromorphic_Acceleration]]
 [[Hardware_Accelerated_SNN]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
@@ -36,8 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

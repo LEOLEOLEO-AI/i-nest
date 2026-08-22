@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
+[[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

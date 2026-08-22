@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[CircuitTopologyEncoding]]
 [[DelayPropagationDynamics]]
+[[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

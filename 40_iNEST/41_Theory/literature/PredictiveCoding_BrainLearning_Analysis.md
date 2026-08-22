@@ -109,3 +109,9 @@ CST = (Sc·Tc)·e^{α·Γst}
 
 *录入时间：2026-05-16 | 分析人：刘勤让（iNEST）*  
 *关联文件：West2024_CS_Analysis.md · A12_CS_CST_MathBridge.md*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

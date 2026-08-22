@@ -375,3 +375,9 @@ $$V(A \otimes B) \geq 6 \times 2 \times 10^5 \cdot V_0 = 1.2 \times 10^6 \cdot V
 *版本：v4.1 | 日期：2026-07-08*  
 *状态：完整严格论证，每步引理有文献支撑，反例已分析*  
 *数据级别：S1（Landauer/Beggs/Millán）+ S2（Zhang 2024/Shew 2013）+ S4（联合估计）*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

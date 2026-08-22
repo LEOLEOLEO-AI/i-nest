@@ -24,14 +24,16 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
+[[Baseline_Draft_Status]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[neuromorphic computing]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

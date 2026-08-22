@@ -184,3 +184,6 @@ On first run, the skill will:
 - `state.json` corrupt or missing: treat all results as new for this run, recreate file
 - Empty results for a topic: note "no new activity" — never silently skip a configured topic
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -227,3 +227,6 @@ gsk vd get_vm_template --template_id <tid>
 
 - `../gsk-shared/SKILL.md` — auth, output conventions, global flags.
 - Web UI for the same functionality: `https://<host>/virtual-developer/project/<vd_project_id>` → Agent tab.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

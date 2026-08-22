@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_topology_and_interconnection_patterns]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
@@ -57,11 +58,11 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TCC_Topology]]
-[[TCC_Topology_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

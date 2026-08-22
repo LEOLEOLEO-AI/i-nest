@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
+[[Activity_Dependent_Plasticity]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveFrequencyResonateFire]]
 [[Adaptive_Deep_Brain_Stimulation]]

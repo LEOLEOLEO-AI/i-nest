@@ -35,11 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[WirelessSplitComputing]]
 [[iNEST]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

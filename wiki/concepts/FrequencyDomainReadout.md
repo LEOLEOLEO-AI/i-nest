@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Beyond_Moore_Pathway]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

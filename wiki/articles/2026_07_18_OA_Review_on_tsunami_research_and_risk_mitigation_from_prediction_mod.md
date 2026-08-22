@@ -26,3 +26,4 @@ iNEST
 [[EdgeOfChaos]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[reservoir computing]]

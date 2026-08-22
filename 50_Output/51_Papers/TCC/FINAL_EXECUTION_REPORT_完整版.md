@@ -339,3 +339,6 @@ TensorDyne Inc. (2025). *Napier AI Inference Accelerator: Technical Overview*. [
 ---
 
 **END OF FINAL EXECUTION REPORT**
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

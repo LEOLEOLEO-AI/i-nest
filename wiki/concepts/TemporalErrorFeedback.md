@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
 [[FrequencyAdaptationMechanism]]
+[[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[Temporal_Coding]]
+[[neuromorphic substrate]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[NeurovascularUnitEngineering]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]

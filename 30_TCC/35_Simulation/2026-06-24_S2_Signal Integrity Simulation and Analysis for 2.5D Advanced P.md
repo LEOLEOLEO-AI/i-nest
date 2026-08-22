@@ -32,3 +32,9 @@ This paper presents the design and signal integrity (SI) simulation of 2.5D adva
 ## AI 摘要
 
 基于UCIe协议的2.5D先进封装互连信号完整性仿真与分析。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]
+[[EventDrivenComputation]]
 [[MultiModel_Adapter_Architecture]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SleepHomeostatCircuit]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[StrategyDiffusionCoupling]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

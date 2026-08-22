@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]
 [[CriticalityDrivenStateTransition]]
+[[CriticalityInNetworkComputing]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

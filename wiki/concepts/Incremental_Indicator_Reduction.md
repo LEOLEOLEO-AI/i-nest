@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
 [[CXL_Deployment_Transition]]
+[[Causal_Emergence_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

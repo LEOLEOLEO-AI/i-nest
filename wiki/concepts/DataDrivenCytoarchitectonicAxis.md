@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[temporalComplexity]]
+[[忆阻器]]
 [[类脑芯片]]
 
 ## Sources

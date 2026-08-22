@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

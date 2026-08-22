@@ -192,3 +192,6 @@ Current AI paradigms—exemplified by large language models—consume megawatts 
 ---
 
 *论文1框架 | iNEST Research Team | 2026-06-03*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

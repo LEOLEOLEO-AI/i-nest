@@ -141,3 +141,5 @@ TCC 的独特之处不在单点性能，而在**将拓扑作为可独立设计�
 | SDI | Software-Defined Interconnect | 软件定义互连（TCC的硬件基座） |
 | iNEST | Intelligence Emergence via Network SpatioTemporal dynamics | 复杂网络涌现智能（TCC的延伸方向） |
 | Page | 拓扑页模板 | 预编译的SDI交换网络完整配置 |
+
+<!-- orphan-cleanup: no MOC found, tagged -->

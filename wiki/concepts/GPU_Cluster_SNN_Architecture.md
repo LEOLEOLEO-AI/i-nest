@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

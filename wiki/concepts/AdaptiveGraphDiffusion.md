@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveDensityControl]]
+[[Adaptive_Service_Orchestration]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

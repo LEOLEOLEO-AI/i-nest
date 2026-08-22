@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D heterogeneous integration]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Interconnect]]
@@ -31,11 +32,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
 [[ComponentLevelMolding]]
+[[HIR_Roadmap]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[heterogeneous integration]]
+[[heterogeneous_integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

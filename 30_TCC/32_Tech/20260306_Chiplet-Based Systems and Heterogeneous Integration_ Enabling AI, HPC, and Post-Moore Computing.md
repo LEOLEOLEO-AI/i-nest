@@ -79,3 +79,9 @@ source: getnote---
 ### **📚 补充细节**
 - **关键文献**：IEEE异构集成路线图（HIR 2023版）、Intel EMIB/Foveros白皮书（2022-2024）、TSMC 3D Fabric技术（2023技术研讨会）。
 - **行业实践**：AMD Infinity Fabric和多芯片模块（MCM）架构已实现芯粒商业化应用。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

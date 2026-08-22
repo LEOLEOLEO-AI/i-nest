@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[AvalancheBranchingRatio]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Dynamic_Expert_Fusion]]

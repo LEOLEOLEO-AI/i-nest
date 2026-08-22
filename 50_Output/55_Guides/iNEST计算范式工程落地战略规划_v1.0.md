@@ -747,3 +747,6 @@ iNEST的独特价值：**唯一将"涌现"从哲学概念转化为可度量、�
 - [P3: 物理涌现验证工程](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/P3_物理涌现验证工程.md)
 - [P4: 涌现度量工具链](http://127.0.0.1:8899/vault/50_Output/54_Code/iNEST/P4_涌现度量工具链.md)
 - [TCC战略规划 v2.0](http://127.0.0.1:8899/vault/30_TCC/34_Projects/TCC计算范式_从智能算力中心到新一代计算平台的工程落地与生态构建战略规划_v2.0_完整版.md)
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

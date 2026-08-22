@@ -56,3 +56,9 @@ source: getnote---
 | 基础单元       | 9个Galaxy box           | 全冗余连接，单线缆故障不影响运行 |
 | 标准训练集群   | 多个基础单元互联        | 统一管理界面，支持数百节点扩展 |
 | 最大配置       | 2000+ Black Hole芯片    | 百万级RISC-V核心协同计算   |
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

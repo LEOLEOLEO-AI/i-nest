@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[CytoarchitectonicAxis]]
 [[DTGA]]
+[[DataDrivenCellularAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
@@ -40,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Memristor_Interconnect]]
+[[neuromorphic computing]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

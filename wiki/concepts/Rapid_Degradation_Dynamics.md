@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[Agent_Workflow_Automation]]
 [[AnteHoc_Explainability]]
+[[BifurcationCandidateSet]]
 [[CompactBosonDuality]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

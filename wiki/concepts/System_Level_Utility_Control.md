@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[L2_L3_Reconfigurability]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NoC_Chiplet_iNEST_Wafer]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

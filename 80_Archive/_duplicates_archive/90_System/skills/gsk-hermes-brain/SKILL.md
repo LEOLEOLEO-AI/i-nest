@@ -127,3 +127,6 @@ Returns top 5 matching past sessions with summaries, skills used, and key output
 4. **End of task**: If you developed a reusable multi-step workflow, save it with `skill_patch`
 5. **Cross-session context**: Use `session_search` to find relevant past work
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

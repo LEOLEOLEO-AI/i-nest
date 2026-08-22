@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristive_Topology]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[ReservoirTemporalDynamics]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

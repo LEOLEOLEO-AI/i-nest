@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Dynamic_Expert_Fusion]]
+[[EEGToNeuromorphicMapping]]
 [[EventDrivenRiskAssessment]]
 [[Generative_Graph_Models]]
 [[Interconnect_Routing]]
@@ -35,9 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PhysicalReservoirInterconnect]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -29,3 +29,6 @@ Photonic and Optical Devices, Neural Networks and Reservoir Computing, Semicondu
 
 - [OpenAlex](https://openalex.org/W7155244502)
 - [DOI](https://doi.org/) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

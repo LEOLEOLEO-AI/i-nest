@@ -19,12 +19,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D heterogeneous integration]]
 [[3D_Heterogeneous_Integration]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Chiplet_based_heterogeneous_integration]]
 [[Course_Based_FPGA_Projects]]
+[[DARPA 3DHI roadmap]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]
 [[ElectronicPhotonicIntegratedCircuit]]
@@ -38,12 +41,13 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TOOLS]]
+[[heterogeneous integration]]
 [[iNEST]]
+[[tools]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

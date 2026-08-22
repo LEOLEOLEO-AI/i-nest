@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
@@ -55,13 +56,14 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[TCC topology]]
 [[TCC]]
 [[TCC_Topology]]
-[[TCC_Topology_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

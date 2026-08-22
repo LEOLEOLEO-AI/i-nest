@@ -36,12 +36,15 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
+[[Textbook_Paradigm_Definition]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Precision_Configurable_ReCON]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[Synaptic_Plasticity]]

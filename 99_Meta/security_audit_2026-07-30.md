@@ -39,3 +39,6 @@ provenance: external
 - ⚠️ 凡之前 clone 过旧仓库的协作者/设备，其本地仍含旧密钥历史，**需重新 clone** 或 `git fetch` + 硬重置到新历史。
 - ⚠️ gitee 仓库体积 1438MB 超 1024MB 配额，且当日推送额度已用尽；如需再推请先在 gitee 后台执行 Repository GC，或清理大文件（如 81MB 的 markdown 文件）。此为独立维护项，不影响密钥安全。
 - 当前 DeepSeek 密钥在 `.env`（gitignore）；SiliconFlow 密钥需补入 `.env` 的 `SILICONFLOW_API_KEY`（脚本已改读该变量）。
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

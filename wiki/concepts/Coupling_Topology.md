@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[BigBrainCellularAxis]]
 [[Compact_Boson_Dynamics]]
+[[Crystallized_Embedding_Reservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ReproducibleReservoirDynamics]]

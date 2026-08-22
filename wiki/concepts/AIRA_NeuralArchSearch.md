@@ -25,8 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[DataDrivenCellularAxis]]
 [[FirstPrinciples_Derivation]]
@@ -47,6 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
+[[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

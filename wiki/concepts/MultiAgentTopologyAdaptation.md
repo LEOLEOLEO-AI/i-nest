@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Pods4Rail_Topology]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reusable_Hypersonic_Platform]]
 [[Reusable_Hypersonic_Platforms]]
 [[SelfOrganization]]
 [[TopologicalAndersonChernInsulator]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[Contested_Prior_Resolution]]
 [[Continuous_Control_Spiking_Stability]]
+[[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -718,3 +718,6 @@ endmodule
 | **P2** | `stdp_bcm_accel` | 在线学习加速 | Gen1完整Demo |
 | **P2** | `soc_controller` | 临界态自动维持 | Gen1完整Demo |
 | **P2** | `sys_ctrl` + `sensor_if` | 系统集成+Demo展示 | 最终交付 |
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

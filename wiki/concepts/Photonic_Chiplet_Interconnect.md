@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Advanced_Packaging]]
-[[Advanced_Packaging_for_Space]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
@@ -45,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

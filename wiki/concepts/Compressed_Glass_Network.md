@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[Topological_Reservoir]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

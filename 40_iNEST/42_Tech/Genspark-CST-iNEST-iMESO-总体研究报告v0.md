@@ -262,3 +262,9 @@ $$\text{让物理网络自己成为可学习、可行动、可演化的智能介
 [25] Torrejon, J. et al. Neuromorphic computing with nanoscale spintronic oscillators, Nature, 2017.
 [26] Feldmann, J. et al. Parallel convolutional processing using an integrated photonic tensor core, Nature, 2021.
 [27] Shastri, B. J. et al. Photonics for artificial intelligence and neuromorphic computing, Nature Photonics, 2021.
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

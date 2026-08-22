@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[Hardware_Accelerated_SNN]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -39,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -176,3 +176,5 @@ TCC 不是另一个 AI 芯片架构，而是一种**计算范式层面的思路�
 | SDI | Software-Defined Interconnect | 软件定义互连（硬件基座） |
 | iNEST | Intelligence Emergence via Network SpatioTemporal dynamics | 复杂网络涌现智能（TCC延伸方向） |
 | Page | 拓扑页模板 | 预编译的 SDI 交换网络完整配置 |
+
+<!-- orphan-cleanup: no MOC found, tagged -->

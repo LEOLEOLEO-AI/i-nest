@@ -108,3 +108,5 @@ efficient_deep_learning_topology_simplification.md中的拓扑简化定理，不
 **协同点四：CST理论主方程 → 神经形态芯片的功耗建模**
 
 RG_first_principles_derivation_CST_master_equation.md中的重整化群主方程，若将"尺度变换"映射为"功耗-性能-精度"的多目标权衡空间，则可建立神经形态芯片的统一功耗-性能模型。该模型可指导iNEST芯片在不同工作负载下动态切换"拓扑配置模式"，实现类似DVFS（动态电压频率调整）的"动态拓扑重构"（DTR），但作用维度从电压/频率扩展至拓扑结构本身。
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
+[[Branch_Prediction_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing_Architecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[reservoir computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

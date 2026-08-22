@@ -129,3 +129,6 @@ Rule2 新生突触 → Rule1 STDP评估 → Rule4 修剪淘汰 → Rule2再探�
 ---
 
 *参考：V-JEPA 2 arXiv:2506.09985 | AIRA Meta FAIR 2026 | Friston 2005 J.Anatomy*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

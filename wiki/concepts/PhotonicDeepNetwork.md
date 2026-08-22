@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CirculateFiringNeuron]]
+[[Combinatorial_Optimization_Readout]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalFluctuationReservoir]]

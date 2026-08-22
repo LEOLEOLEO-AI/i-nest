@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Agent_Interaction_Sequencing]]
 [[Avoided_Criticality]]
+[[BulletTrainScheduling]]
 [[CriticalityDrivenEfficientCoding]]
 [[Criticality_Driven_Coding]]
 [[DisorderDrivenQuantumPhaseTransition]]

@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
-[[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Algorithmic_Warfare]]
 [[Avoided_Criticality]]
@@ -29,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CriticalityDrivenStateTransition]]
 [[Criticality_Threshold]]
+[[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -38,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[criticality threshold]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

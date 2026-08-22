@@ -340,3 +340,6 @@ IDEA
 > **版本：** v2.0 | 2026-06-17  
 > **来源：** patent-capital-os (10-route orchestrator) + TCC 自建六步管线 v1  
 > **下一更新：** 首次运行步骤2-3后，根据检索结果调整流程
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

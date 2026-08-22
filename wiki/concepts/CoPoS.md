@@ -29,8 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology]]
-[[Chiplet_Topology_Mapping]]
-[[Chiplet_Topology_Packaging]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

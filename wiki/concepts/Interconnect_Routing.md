@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[FunctionalBrainGraphEmbedding]]
 [[Hierarchical_Interconnect]]
+[[Interconnect routing]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

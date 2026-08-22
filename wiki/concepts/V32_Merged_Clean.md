@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
+[[AstrocyteInspiredRepair]]
+[[CST theory]]
 [[CST_Theory]]
 [[Complex_System]]
 [[Complex_System_Theory]]

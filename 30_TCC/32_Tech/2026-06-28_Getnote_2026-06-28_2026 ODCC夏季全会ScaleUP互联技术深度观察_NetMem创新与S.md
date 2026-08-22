@@ -91,3 +91,8 @@ NetMem是一款专用芯片，通过4x800Gbps以太网端口将LPDDR5X DRAM资�
 2.  **架构适配选型指南**：
     - 针对DSA类专用加速架构（如TPU，Tensor Core规模256x256/320x320，片上大Buffer）：大尺寸Tensor Tile对细粒度Flit需求低，SUE和UALink均可适配。
     - 针对GPGPU类通用加速架构（如CUDA兼容GPU，Tensor Core规模16x16，SM上SMEM容量有限）：对低延迟、低长尾的细粒度传输需求极强，UALink是更适配的唯
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

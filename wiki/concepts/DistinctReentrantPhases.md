@@ -27,10 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive_Set]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[忆阻器]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

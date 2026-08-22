@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Automated_Reward_Shaping]]
 [[CST_Theory]]
-[[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalityDrivenLearning]]
@@ -35,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalCriticality]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[MicroCriticalAgent]]
+[[NonEquilibriumPhaseTransition]]
 [[OptimalRepresentationCriticality]]
 [[OptimalRepresentation]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

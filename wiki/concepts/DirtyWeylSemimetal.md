@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
+[[FinitePoolRareRegimeDiscovery]]
 [[Free_Energy_Principle_Network]]
 [[FrustratedDimerMagnet]]
 [[Intelligence_Emergence]]

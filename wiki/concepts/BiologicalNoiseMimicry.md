@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]
+[[CulturalDisseminationDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

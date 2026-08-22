@@ -393,3 +393,9 @@ The transition from digital simulation to physical realization of brain-like net
 
 ---
 *getnote | 2026-06-30 12:36*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

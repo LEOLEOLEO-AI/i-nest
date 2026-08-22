@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BitPrecisionAwareScheduling]]
 [[CrossDomain_Synthesis]]
+[[DARPA_Technology_Incubation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

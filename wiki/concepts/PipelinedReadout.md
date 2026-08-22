@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
+[[ComplexValuedSNN]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
 [[GradientBasedSpikeLearning]]

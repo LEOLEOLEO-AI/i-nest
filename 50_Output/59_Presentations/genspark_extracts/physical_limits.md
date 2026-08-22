@@ -214,3 +214,5 @@ Reference placeholders
 [15] Near-memory and in-memory computing as transport-minimizing architectures.
 
 Prepared from v8 source material and refined into a Nature-style Perspective draft.
+
+<!-- orphan-cleanup: no MOC found, tagged -->

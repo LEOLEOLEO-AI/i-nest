@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientNeuromorphic]]
 [[Event_Driven_Architecture]]
 [[InNetworkAgentRewiring]]
+[[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]

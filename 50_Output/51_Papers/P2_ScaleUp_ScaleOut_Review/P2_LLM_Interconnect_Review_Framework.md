@@ -282,3 +282,6 @@ provenance: own
 > **素材基础：** 347篇知识库文档
 > **目标投稿：** 2026年9月前
 > **协同关系：** 与B0(Engineering综述)、P1(TCC-SDI论文)、CST理论论文构成TCC研究体系
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

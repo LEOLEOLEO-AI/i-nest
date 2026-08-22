@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
+[[LatencyGradientDescent]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

@@ -32,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
@@ -42,6 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
+[[neuromorphic substrate]]
+[[synaptic plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

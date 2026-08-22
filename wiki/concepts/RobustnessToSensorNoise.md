@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Hypergraph_Label_Noise]]
+[[NoiseRobust_Hyperedge_Aggregation]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SpikeRateAlignment]]

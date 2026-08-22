@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
+[[Fractal_Entanglement_Scaling]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[CollectiveDynamics]]
 [[Constructed_Reality_Interconnect]]
+[[ContextualReasoning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]

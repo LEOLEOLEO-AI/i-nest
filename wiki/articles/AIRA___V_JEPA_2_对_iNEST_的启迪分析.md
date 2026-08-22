@@ -26,4 +26,5 @@ STDP, iNEST, 忆阻
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[inest]]
 [[神经网络]]

@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[Advanced_Packaging_for_Space]]
+[[Advanced_Packaging]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
@@ -35,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[OnDie_Fusion]]
 [[SDI_Bond]]
 [[SDI_Topology]]

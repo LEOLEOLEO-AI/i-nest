@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Hope_Architecture]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

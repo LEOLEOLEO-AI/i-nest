@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FibonacciMonitoredCriticality]]
 [[FormalLinguisticCompetence]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Generative_Graph_Models]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[neuromorphic substrate]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

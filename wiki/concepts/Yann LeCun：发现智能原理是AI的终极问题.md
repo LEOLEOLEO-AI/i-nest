@@ -22,6 +22,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[ANN动力学]]
+[[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[EmergentOrder]]
@@ -35,7 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[NoC_SDI]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]

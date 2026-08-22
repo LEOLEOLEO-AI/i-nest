@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalStageEmbedding]]
 [[Dynamic_Expert_Fusion]]
 [[Evolutionary_Overfitting_Avoidance]]
+[[KernelRegimeScaling]]
 [[Krakencoder_Embedding]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

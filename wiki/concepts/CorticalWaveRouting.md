@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[SelfOrganization]]
 [[SpikePacketRouting]]
 [[Spiking_Neural_Network]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Anisotropic_Correlation_Length]]
 [[Architectural_Conditioning]]
 [[Continual_Learning_Modularity]]
+[[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]

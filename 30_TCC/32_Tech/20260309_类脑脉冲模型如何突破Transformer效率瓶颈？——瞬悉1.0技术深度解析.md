@@ -136,3 +136,9 @@ source: getnote---
 - **模型开源**：SpikingBrain-1.0-7B模型已在GitHub开源（https://github.com/SpikingBrain/SpikingBrain-1.0）。  
 - **技术报告**：SpikingBrain-1.0技术报告同步发布，提供完整技术细节。  
 - **对比Mamba**：与Mamba（2024年ICLR论文）的线性时间序列建模不同，瞬悉1.0强调类脑脉冲机制与国产化全流程实现。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

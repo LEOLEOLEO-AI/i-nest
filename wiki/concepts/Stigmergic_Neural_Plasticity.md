@@ -34,15 +34,16 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[MachineLearningPotential]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

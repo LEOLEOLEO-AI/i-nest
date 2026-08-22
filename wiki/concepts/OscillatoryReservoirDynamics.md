@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[ConductingPolymerDendriteMemory]]
 [[DelayCodedWorkingMemory]]
+[[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]

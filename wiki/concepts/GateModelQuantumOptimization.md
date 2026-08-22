@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[ArbitraryWavefunctionConfigurability]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[SDI_Bond]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

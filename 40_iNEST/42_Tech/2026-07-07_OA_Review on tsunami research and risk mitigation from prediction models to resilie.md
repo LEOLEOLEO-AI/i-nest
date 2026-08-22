@@ -29,3 +29,9 @@ Tropical and Extratropical Cyclones Research, earthquake and tectonic studies, F
 
 - [OpenAlex](https://openalex.org/W7136380384)
 - [DOI](https://doi.org/10.1038/s44304-026-00195-7) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

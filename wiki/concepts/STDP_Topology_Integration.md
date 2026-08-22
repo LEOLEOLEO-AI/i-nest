@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[network topology design]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

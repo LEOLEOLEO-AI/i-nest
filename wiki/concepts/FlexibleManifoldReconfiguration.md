@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveArchitecture]]
+[[BioInspired_Interception_Control]]
 [[CirculateFiringNeuron]]
 [[CriticalityDrivenStateTransition]]
 [[Dynamic_Expert_Fusion]]

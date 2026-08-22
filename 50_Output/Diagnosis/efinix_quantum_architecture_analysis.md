@@ -238,3 +238,6 @@ SDI (软件定义互连) → 网络拓扑动态重构
 
 这正是生物神经网络的本质，也应该是 SDI 设计的目标。
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

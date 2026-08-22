@@ -49,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -61,9 +60,10 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity_Tc]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[neuromorphic computing]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

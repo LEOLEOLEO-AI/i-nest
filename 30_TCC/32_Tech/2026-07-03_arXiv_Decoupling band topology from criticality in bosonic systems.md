@@ -47,3 +47,8 @@ A new understanding of criticality in systems described by quadratic bosonic Ham
 
 ---
 *2026-07-05 深度分析 | 相关度: 3/3 | iNEST论文*
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

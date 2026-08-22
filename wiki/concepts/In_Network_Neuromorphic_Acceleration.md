@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Planning_Revolution]]
 [[SNN]]
 [[ST_SNN]]
 [[Scalable_Graph_Search_Neuromorphic]]

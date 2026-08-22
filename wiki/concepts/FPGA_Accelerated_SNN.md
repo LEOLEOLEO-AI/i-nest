@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BackflowTransformation]]
 [[BiasEvaluationMetrics]]
+[[Bidirectional_Temporal_Enhancement]]
 [[EventDrivenModularArchitecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Neuromorphic_Acceleration]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Master_SDDE]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Planning_Architecture]]
@@ -41,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
+[[spiking neural network]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

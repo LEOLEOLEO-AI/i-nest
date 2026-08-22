@@ -85,3 +85,8 @@ Roofline 模型是**性能优化的 “X 光片”**，它抛弃复杂公式，�
 
 ---
 *来源：Get笔记 | 类型：plain_text | 入库：2026-04-29 08:21*
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

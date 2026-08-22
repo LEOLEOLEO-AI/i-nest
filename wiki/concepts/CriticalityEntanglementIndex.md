@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NanomaterialFeatureEngineering]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SelfOrganizationCriticality]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[iNEST]]

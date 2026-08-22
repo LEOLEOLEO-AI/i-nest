@@ -63,3 +63,9 @@ events, target = ds[0]
 2. 实现 T=10 帧分箱管线（已完成合成数据验证）
 3. 接入 memai FEP+STDP 全栈仿真（替代 sign-only crossbar）
 4. 对比：标准 SNN vs 忆阻器 FEP+STDP 的准确率-能效 tradeoff
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

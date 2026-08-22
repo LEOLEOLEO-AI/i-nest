@@ -33,12 +33,15 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[SpatiotemporalCooperativeIntelligence]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Swarm_Coordination]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

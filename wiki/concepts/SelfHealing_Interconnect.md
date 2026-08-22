@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
 [[CST计量仪]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive_Set]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[StateSpaceSequenceModeling]]
 [[SuperparamagneticSwitchingRate]]

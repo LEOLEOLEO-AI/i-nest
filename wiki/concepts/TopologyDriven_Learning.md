@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[DataDrivenMaterialDesign]]
 [[Deep_Thermalisation]]
+[[FreeFermionTopologicalInvariant]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[MetaFAIR_ArchitectureDiscovery]]

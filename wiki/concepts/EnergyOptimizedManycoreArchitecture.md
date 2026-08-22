@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]

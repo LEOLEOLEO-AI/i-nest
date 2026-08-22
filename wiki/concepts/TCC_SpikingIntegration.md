@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

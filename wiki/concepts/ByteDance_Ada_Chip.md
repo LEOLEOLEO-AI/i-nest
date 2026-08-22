@@ -33,9 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Framework]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[STDP_Plasticity]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

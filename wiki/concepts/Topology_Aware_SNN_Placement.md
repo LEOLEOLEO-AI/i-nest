@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[DARPA_ProjectManager_Model]]
 [[EEGToNeuromorphicMapping]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

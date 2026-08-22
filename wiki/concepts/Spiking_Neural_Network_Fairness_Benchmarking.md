@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
 [[Continuous_Control_Spiking_Stability]]
+[[DeepCode_AlgorithmExtraction]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -38,6 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[neuromorphic computing]]
+[[spiking neural network]]
+[[temporal coding]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

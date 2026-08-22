@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[ComplexValuedSNN]]
 [[CulturalDisseminationDynamics]]
+[[DTGA]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

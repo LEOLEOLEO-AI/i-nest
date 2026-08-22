@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
 [[MassConservationBias]]
+[[MassConservationInductiveBias]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
@@ -40,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[reservoir computing architecture]]
+[[scaling laws]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

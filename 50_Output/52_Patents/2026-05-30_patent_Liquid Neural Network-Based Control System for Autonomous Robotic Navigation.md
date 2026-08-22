@@ -50,3 +50,6 @@ Traditional drone navigation uses pre-programmed waypoints, classical control, o
 1. 1. An autonomous robotic navigation system comprising: a sensor suite for perceiving an environment; a controller implementing a liquid neural network (LNN) with continuous-time, differential equation-based neuronal dynamics, wherein the LNN receives sensor data and outputs navigation commands; and an actuator system for executing said commands.
 2. 2. The system of claim 1, wherein the LNN contains fewer than 50,000 trainable parameters and is trained using adjoint-based methods through time to optimize trajectory tracking and obstacle avoidance.
 3. 3. A method for training the navigation system of claim 1, comprising: simulating the continuous-time dynamics of the LNN and its environment; calculating a loss based on navigation performance; and adjusting LNN parameters using gradient information propagated through the continuous-time system via an adjoint sensitivity method.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

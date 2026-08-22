@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolutionCoupler]]
 [[AdvancedPackagingInterconnect]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Space_Compute_Architecture_Tradeoff]]
 [[TCC]]
 [[Topology_Reconfiguration]]
+[[topology reconfiguration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

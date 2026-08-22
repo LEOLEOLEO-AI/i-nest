@@ -266,3 +266,6 @@ TCC 晶上网络（SDSoW）的三重优势使 $\gamma$ 天然超阈值：
 [8] Kagan, B. J., et al. (2023). Critical dynamics arise during structured information presentation. *Nature Communications*, DOI:10.1038/s41467-023-41020-3.
 
 [9] Choi, S., et al. (2025). Wafer-scale fabrication of memristive passive crossbar circuits. *Nature Communications*, DOI:10.1038/s41467-025-63831-2.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

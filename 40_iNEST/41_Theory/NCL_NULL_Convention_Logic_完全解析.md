@@ -225,3 +225,9 @@ NCL 是实现这种自演化硬件的**天然匹配范式**。
 ---
 
 *独立参考文件 | iNEST Research Team | 2026-06-03*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

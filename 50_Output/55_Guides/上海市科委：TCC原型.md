@@ -214,3 +214,5 @@ R 原语为拓扑层「指令集」（定义通信语义），元拓扑骨架为
 13、SambaNova Systems，“Introducing the SN50 RDU”，2026；Tenstorrent，“Blackhole & TT‑Metalium”，Hot Chips 2024.
 
 14、华为 WAIC 2026；中兴通讯 OEX 超节点服务器，WAIC 2026；阿里云峰会 2026；中科曙光 WAIC 2026.
+
+<!-- orphan-cleanup: no MOC found, tagged -->

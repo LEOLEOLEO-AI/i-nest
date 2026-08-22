@@ -25,9 +25,9 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Core_Spacetime_Tensor]]
+[[DataDrivenCellularAxis]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
@@ -42,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[reservoir computing]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

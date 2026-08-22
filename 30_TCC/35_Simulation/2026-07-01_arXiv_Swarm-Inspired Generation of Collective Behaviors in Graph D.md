@@ -33,3 +33,8 @@ Collective behavior arises when locally interacting units produce coordinated gl
 
 ---
 *2026-07-01 科研管线v3.1自动提炼 | 相关度: 1/3*
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EntangledCriticality]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[LLMDrivenPathSelection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

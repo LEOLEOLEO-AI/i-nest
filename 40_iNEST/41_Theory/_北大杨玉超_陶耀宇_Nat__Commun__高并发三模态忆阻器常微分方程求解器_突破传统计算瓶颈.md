@@ -38,3 +38,8 @@ provenance: external
 文章信息：
 Yu, L., Zhang, T., Han, Y. et al. High-concurrency tri-mode memristor-based ordinary differential equation solver. Nat Commun (2026). 
 https://doi.org/10.1038/s41467-025-68122-4
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

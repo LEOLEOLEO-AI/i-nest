@@ -32,3 +32,9 @@ The local circuitry of the mammalian brain is a focus of the search for generic 
 ## AI 摘要
 
 全密度脉冲神经网络模型推动神经形态计算，成为社区基准并实现实时性能突破。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

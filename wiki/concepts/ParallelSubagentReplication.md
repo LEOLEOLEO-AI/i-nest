@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Emergence_Engineering]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
+[[Intelligence_Emergence]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

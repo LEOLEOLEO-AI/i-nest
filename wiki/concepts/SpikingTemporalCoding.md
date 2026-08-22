@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Globally_Optimal_SNN_Training]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LocalQuantumLearningRule]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]

@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -32,7 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Personnel_Role_Assignment]]
 [[TCC]]
+[[Trustworthiness_Aware_Training]]
 [[iNEST]]
+[[neuromorphic computing]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

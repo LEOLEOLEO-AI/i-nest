@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[AdaptiveNetworkResilience]]
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[CriticalityDrivenStateTransition]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

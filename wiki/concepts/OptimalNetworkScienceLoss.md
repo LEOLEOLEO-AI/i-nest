@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TOOLS]]
 [[iNEST]]
+[[tools]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

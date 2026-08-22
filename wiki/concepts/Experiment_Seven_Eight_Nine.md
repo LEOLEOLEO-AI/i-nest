@@ -27,10 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
+[[Attention_Residuals]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Evolutionary_Computability]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
@@ -39,10 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[evolutionary computability]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[AnalogInMemoryComputing]]
+[[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
 [[Branch_Prediction]]
 [[Dynamic_Expert_Fusion]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing_Architecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[reservoir computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

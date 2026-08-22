@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[EdgeIoTEnergyAwareness]]
 [[ElasticInferenceScheduling]]
+[[Environmental_Capability_Context]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[temporal coding]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

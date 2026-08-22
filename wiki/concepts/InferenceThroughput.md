@@ -22,9 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Beyond_Moore_Packaging_Strategy]]
 [[CoaxialLikeTGV]]
+[[ConsciousnessEngineeringLoop]]
 [[CrystalPalace_Program]]
 [[Deep_Thermalisation]]
-[[Deep_Thermalisation_Dynamics]]
 [[ERI_2_0_Strategic_Framework]]
 [[EndToEndLinkSimulation]]
 [[Free_Energy_Principle_Network]]

@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SiC_GaN_Power_Integration]]
+[[neural dynamical systems]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

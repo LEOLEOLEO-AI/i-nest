@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Distributed_Spike_Communication]]
 [[Efficient_Coding_Constraint]]
-[[EventDrivenAttentionMechanism]]
+[[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttention]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTrajectoryEncoding]]

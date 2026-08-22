@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[Criticality_Based_Feature_Extraction]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

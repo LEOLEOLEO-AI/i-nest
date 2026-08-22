@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[PersonalizedSNNTransfer]]
+[[QuantumDeepSupervision]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_Topology_Integration]]
@@ -41,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Centric_Neuromorphic]]
 [[Topology_Centric_Neuromorphic_Integration]]
+[[neuromorphic computing]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

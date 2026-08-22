@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[BarrierConditionedTrajectory]]
 [[Cascading_Failure_Mitigation]]
+[[CoaxialLikeTGV]]
 [[CrossLayer_SignalRouting]]
 [[Deep_Thermalisation]]
 [[DelayPropagationDynamics]]

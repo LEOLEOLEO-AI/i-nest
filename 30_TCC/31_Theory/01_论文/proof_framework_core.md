@@ -45,3 +45,9 @@ V(N_A ⊗ N_B) > V(N_A) + V(N_B)
 
 **禁止循环引用**：CST理论本身不能作为证明CST优越性的论据
 
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

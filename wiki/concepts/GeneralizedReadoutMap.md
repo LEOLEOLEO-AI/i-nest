@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
 [[Branch_Prediction]]
+[[DARPA_ProjectManager_Model]]
 [[InNetworkSignalRecovery]]
 [[Memristive_Topology]]
 [[Memristor_Reservoir_Branch_Prediction]]

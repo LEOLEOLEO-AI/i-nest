@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
+[[CriticalityInNetworkComputing]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

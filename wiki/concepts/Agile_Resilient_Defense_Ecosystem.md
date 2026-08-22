@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]

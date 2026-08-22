@@ -62,3 +62,9 @@ provenance: external
 2. 选一个小规模 C. elegans 子集完成 `V-CST-02` 和 `V-CST-03`。
 3. 再扩展到 Hemibrain，最后做跨数据集比较。
 4. 只有通过前三步，才把结果写入论文 Section 4/5。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedNonHermitianRandomMatrices]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[CST_Spatiotemporal_Complexity_Theorem]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing_Architecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[reservoir computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

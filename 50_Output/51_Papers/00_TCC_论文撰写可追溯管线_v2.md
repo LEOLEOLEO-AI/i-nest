@@ -175,3 +175,6 @@ provenance: external
 ---
 
 > **版本：** v2.0 | 2026-06-17 | 基于 Research Units Pipeline 框架重构
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

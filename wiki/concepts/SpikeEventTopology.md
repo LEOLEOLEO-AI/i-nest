@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN_NeuroprostheticPipeline]]
 [[SNN_Topology_Mapping]]
 [[SpikeBackpropagation]]
+[[SpikeBasedGradientDescent]]
 [[SpikeCodedSafetyMonitoring]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Aware_Spike_Routing]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

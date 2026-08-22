@@ -32,3 +32,9 @@ In physics, complex systems are often simplified into minimal, solvable models t
 ## AI 摘要
 
 本文主张优先求解逐层线性模型以理解神经动力学现象（如神经坍缩、涌现、惰性/丰富机制和顿悟）。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

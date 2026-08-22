@@ -35,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_computing]]
 [[Neuromorphic_computing_architecture]]
+[[Nonlinear gain]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Reservoir_Computing]]
 [[Residual_Connection]]
@@ -43,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Four_Rules]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SingleSourceOfTruthMetric]]
@@ -58,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermalNoiseHarnessing]]
 [[TopologyFragility]]
 [[iNEST]]
+[[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources

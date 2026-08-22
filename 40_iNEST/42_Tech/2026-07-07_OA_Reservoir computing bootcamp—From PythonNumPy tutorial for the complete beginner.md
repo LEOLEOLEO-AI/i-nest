@@ -29,3 +29,9 @@ Neural Networks and Reservoir Computing, Model Reduction and Neural Networks, Fe
 
 - [OpenAlex](https://openalex.org/W7127155167)
 - [DOI](https://doi.org/10.1063/5.0283386) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

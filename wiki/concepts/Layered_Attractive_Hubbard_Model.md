@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Substrate]]
+[[Neuromorphic_computing_architecture]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
 [[SNN]]

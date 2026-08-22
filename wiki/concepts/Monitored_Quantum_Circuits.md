@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CategoricalClosureCriterion]]
 [[CollectiveStateResilience]]
 [[Continual_Learning_Modularity]]
+[[CriticalBranching]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityDrivenStateTransition]]
 [[CriticalityOffCriticalityTransition]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseRegimeTransition]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[entanglement phase transition]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

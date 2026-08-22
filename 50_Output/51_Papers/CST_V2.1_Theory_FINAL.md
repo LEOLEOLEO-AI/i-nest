@@ -234,3 +234,6 @@ $$\Gamma_{st}^{V2.1} = \mathrm{NMI}\!\bigl(M_{\mathrm{struct}},\, M_{\mathrm{fun
 | `iNEST_Sim_Research/CST_HigherOrder_Topology_Analysis.md` | 高阶拓扑+三元渗流分析 |
 | `memory/2026-06-07-theory-correction.md` | 四重纠偏记录 |
 | `memory/2026-06-07.md` | 完整实验链+V2.0总结 |
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

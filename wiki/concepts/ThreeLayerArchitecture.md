@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

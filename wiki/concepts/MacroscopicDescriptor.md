@@ -37,13 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[Order_Flexibility_Duality]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TopologyFragility]]
 [[iNEST]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

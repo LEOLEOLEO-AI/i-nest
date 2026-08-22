@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[MachineLearningPotential]]
 [[Reservoir_Computing]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

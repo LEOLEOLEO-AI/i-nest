@@ -260,3 +260,6 @@ The long-term implication is a fundamental shift in computing architecture: from
 ---
 
 *Status: Expanded draft — June 5, 2026. Target: ASPLOS 2027 September cycle (deadline: September 9, 2026). Sections 2-8 drafted. Companion paper: B5 (TCC-16 System Implementation).*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

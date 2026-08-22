@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
+[[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[edge intelligence]]
 [[iNEST]]
 
 ## Sources

@@ -25,5 +25,7 @@ iNEST
 
 [[EdgeOfChaos]]
 [[Nonlinear_Gain]]
+[[Reservoir computing]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[reservoir computing]]

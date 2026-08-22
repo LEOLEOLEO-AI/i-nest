@@ -25,9 +25,9 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Architecture]]
 [[DTGA]]
+[[DendriticReservoirState]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TileBasedRasterization]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

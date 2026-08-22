@@ -21,6 +21,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
 [[ANN动力学]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -38,7 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
 [[NoC_SDI]]
 [[Photonic_Chiplet_Interconnect]]
@@ -52,10 +53,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[iNEST]]
+[[temporalComplexity]]
 [[具身智能的基本原理、关键技术、应用场景]]
 [[复杂网络]]
 [[拓扑深度学习捕捉数据的高阶关系：信息传递拓扑神经网络概述]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 [[自动微分•自组织生长_ 打造新一代的自组织生长模型]]

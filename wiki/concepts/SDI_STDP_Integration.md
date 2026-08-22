@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]
+[[Mott device array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

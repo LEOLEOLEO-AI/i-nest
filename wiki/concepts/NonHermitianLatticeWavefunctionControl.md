@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Cluster_Switch_Bottleneck]]
+[[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]

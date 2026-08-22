@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Communication]]
 [[FoveationGuidedTokenSelection]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[neural field world model]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

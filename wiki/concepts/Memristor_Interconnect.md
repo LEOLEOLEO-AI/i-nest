@@ -32,9 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[synaptic plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

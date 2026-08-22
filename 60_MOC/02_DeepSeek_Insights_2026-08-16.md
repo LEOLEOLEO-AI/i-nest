@@ -143,3 +143,5 @@ LOOM（可能为"Logical Organization of Ontological Models"或类似缩写）�
 
 
 **结语**：当前研究体系正处于从"并行探索"到"交叉融合"的关键转折点。TCC的符号化、理论化优势与iNEST的物理化、
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Brain_Connectome]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Connectome_Verification_Protocol]]
 [[DataProvenanceIntegrity]]
 [[DeviceConductanceTuning]]
 [[Emergent_Intelligence_Threshold]]

@@ -25,11 +25,14 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[FirstPrinciples_AI]]
 [[Hardware_Software_CoDesign]]
+[[IMPLY_ISA]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

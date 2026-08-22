@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveAsymmetricSurrogateGradient]]
-[[AdaptiveAsymmetricSurrogateGradients]]
+[[CriticalityDrivenStateTransition]]
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

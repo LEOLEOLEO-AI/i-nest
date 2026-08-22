@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[CircuitTopologyEncoding]]
 [[DelayPropagationDynamics]]
+[[ExactWiringRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

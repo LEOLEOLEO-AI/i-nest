@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientSNN]]
 [[EventBasedMotionDeblurring]]
+[[EventBasedNeuralDecoding]]
 [[Intelligence_Emergence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

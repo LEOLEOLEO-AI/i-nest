@@ -43,3 +43,8 @@ With the end of Moore’s law and Dennard scaling, waferscale systems or process
 
 ---
 *自动抓取于 2026-06-23 08:00 | 待分类处理*
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

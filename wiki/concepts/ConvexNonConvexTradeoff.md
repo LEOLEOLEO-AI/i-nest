@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGainMechanism]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]

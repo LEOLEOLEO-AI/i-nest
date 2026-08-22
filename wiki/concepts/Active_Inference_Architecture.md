@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Precision_Configurable_ReCON]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

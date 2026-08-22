@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondVonNeumannArchitecture]]
 [[CapacityScalingLaw]]
 [[ChargeDomainAttention]]
+[[CompactLocalisedStates]]
 [[Deep_Counterstream_Associative_Memory]]
 [[DefectDynamics]]
 [[EnergyResourceEfficiencyCoOptimization]]
@@ -35,7 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[HZO_FerroelectricCapacitor]]
 [[Neuromorphic_Computing]]
+[[ferroelectric devices]]
 [[iNEST]]
+[[soc]]
 [[待分类]]
 
 ## Sources

@@ -36,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
+[[SelfHealing_Interconnect]]
 [[Switch_Fabric_Bottleneck]]
 [[TCC]]
 [[神经网络]]

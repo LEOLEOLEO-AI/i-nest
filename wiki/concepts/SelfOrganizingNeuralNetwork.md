@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Developmental_Computing]]
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]

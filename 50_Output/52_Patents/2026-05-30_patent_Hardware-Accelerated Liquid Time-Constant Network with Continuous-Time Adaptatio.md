@@ -51,3 +51,6 @@ Existing liquid network implementations rely on software differential equation s
 1. A neural network circuit comprising: a plurality of neuron units, each including an analog integrator with a tunable time constant; a synapse array that connects neuron units with configurable weights; and a control module that adjusts the time constant of each neuron unit in response to a measure of input variation, thereby implementing a liquid time-constant network in continuous time.
 2. The circuit of claim 1, wherein the analog integrator is implemented using a programmable transconductance-capacitor (gm-C) filter, and the time constant is tuned by varying a bias current or a capacitor array.
 3. A method for processing a temporal data stream using the circuit of claim 1, comprising: feeding the data stream as currents into the neuron units; allowing the network state to evolve continuously; and reading out the state at desired time points for classification or control, while the time constants adapt online to compress irrelevant input variations.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

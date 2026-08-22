@@ -84,3 +84,9 @@ engineering parameters for SDI chiplet interconnect design:
 
 These parameters serve as the engineering bridge between the theoretical
 meta-topology framework and practical wafer-scale integration.
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

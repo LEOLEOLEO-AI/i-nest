@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CriticalityInNetworkComputing]]
 [[CriticalityOffCriticalityTransition]]
+[[ExactlyFlatTopologicalBands]]
+[[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]

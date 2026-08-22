@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[CounterstreamSignalPropagation]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence_Roadmap]]
+[[Ising formulation]]
 [[Ising_Formulation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

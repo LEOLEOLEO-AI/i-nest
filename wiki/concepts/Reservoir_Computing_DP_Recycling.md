@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[Closed_Loop_Neuromodulation]]
 [[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirClosureProperty]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]
+[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

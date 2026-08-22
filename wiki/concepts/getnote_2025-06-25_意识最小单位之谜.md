@@ -32,6 +32,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Cauchy_Aczel_Uniqueness]]
 [[CoexistenceRegime]]
+[[CommunicationTopologyMismatch]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -41,4 +42,3 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]

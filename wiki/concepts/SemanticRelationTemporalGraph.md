@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[HardwareAware_DesignSpace]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
@@ -34,12 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TwoTimescaleNeuroEvolution]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

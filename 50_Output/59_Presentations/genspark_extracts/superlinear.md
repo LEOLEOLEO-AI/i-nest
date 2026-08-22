@@ -233,3 +233,6 @@ NVIDIA NVLink/NVSwitch
 ⼀协同域， ⽽⾮仅由若⼲独⽴加速器与通⽤外设总线拼接⽽成。
 本⽂由此得到的谨慎结论是： 在主流⾼性能 AI 系统中， 互连带宽与交换结构已被纳⼊产品主性能平⾯。 该结论可以⽀持“关系结构能⼒正在前置”， 但不能单独推出“运⾏时动态拓扑已经被完全实现”。
 Google TPU 8t/8i 与 Virgo
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -33,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[Sparsity_Ceiling]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[reservoir computing]]
 [[类脑芯片]]
 
 ## Sources

@@ -25,11 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Combinatorial_Optimization_Readout]]
+[[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

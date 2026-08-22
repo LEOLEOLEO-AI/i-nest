@@ -29,10 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MachineLearningNanomaterialDiscovery]]
@@ -45,8 +45,10 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[causal emergence]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 [[神经网络]]
 
 ## Sources

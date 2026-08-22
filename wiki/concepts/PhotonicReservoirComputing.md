@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[BigBrainCellularAxis]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[analog computation]]
 [[iNEST]]
 
 ## Sources

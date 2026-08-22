@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[Critical_Exponent_Scaling]]
 [[CrystalPalace_Program]]
 [[Emergent_Intelligence_Threshold]]

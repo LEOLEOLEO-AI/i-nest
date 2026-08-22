@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
+[[PhaseAwareBisectionDemand]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

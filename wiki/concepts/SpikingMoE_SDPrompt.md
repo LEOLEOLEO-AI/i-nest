@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Mixture_of_Experts]]
 [[Spiking_Neural_Network]]
+[[dynamic expert fusion]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

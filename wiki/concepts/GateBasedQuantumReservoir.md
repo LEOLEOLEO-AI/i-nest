@@ -39,9 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SelfRectifyingMemristor]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Topological_Reservoir]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -333,3 +333,6 @@ for region_name, neuron_types in brain_regions.items():
    - [ ] 扩展到小鼠新皮层（Allen Brain Atlas）
    - [ ] 建立统一的"临界态指纹"模型
    - [ ] 预测灵长类脑的 SCTC 分布
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

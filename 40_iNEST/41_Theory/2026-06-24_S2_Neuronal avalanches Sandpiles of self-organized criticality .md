@@ -32,3 +32,9 @@ Analytical expressions for scaling of brain wave spectra derived from the genera
 ## AI 摘要
 
 该论文表明神经元雪崩是大脑皮层非线性波过程的体现，连接了振荡波模式、雪崩和非相干放电等脑活动状态。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

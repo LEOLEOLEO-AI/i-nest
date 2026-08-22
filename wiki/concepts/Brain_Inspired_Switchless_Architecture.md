@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Precision_Configurable_ReCON]]
+[[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

@@ -79,3 +79,9 @@ topics: [Concepts-Theory, Chip-Hardware, Neuroscience]
 1. Phase 1：Xilinx RFSoC / VCK190 上实现 SDI 化合键 + 自适应 tau
 2. Phase 2：HLS 综合 + Vivado IP 封装
 3. Phase 3：异步电路综合（NULL Convention Logic / Click 元件）
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

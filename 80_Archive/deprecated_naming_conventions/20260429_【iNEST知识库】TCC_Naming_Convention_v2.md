@@ -197,3 +197,6 @@ module tcc_tick #(parameter WIDTH=64)                    (...); // 逻辑时钟 
 tcc.cast(weights) → tcc.gemm(QKV) → tcc.fold(RMSNorm.s
 
 …（内容已截断，完整版见Obsidian）
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

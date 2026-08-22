@@ -34,10 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[Hypergraph_Label_Noise]]
 [[LocalLearningRules]]
 [[Neuromorphic_Computing]]
+[[NoiseRobust_Hyperedge_Aggregation]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing]]
+[[spiking neural network]]
 [[神经网络]]
 
 ## Sources

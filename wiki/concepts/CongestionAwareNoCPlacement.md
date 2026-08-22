@@ -20,16 +20,22 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
-[[NoC_SDI_Topology]]
+[[NoC_SDI]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_NoC_Fusion]]
+[[SDI_Topology]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

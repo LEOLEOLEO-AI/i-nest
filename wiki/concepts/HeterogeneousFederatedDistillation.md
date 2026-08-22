@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInferenceEdgeLoop]]
 [[ActiveInference]]
 [[AnomalousSpinTransport]]
+[[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[CSI_Temporal_Encoding]]
 [[Course_Based_FPGA_Projects]]

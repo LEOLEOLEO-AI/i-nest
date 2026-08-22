@@ -624,3 +624,6 @@ class NeuralDynamics:
 **长期目标**：
 按照"正确的方法论"重新设计实验，用 2-4 个月时间完成从参数验证到功能验证的完整升级。
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

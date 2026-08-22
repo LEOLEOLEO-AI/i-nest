@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[BulletTrainScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDataNonUniformity]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -55,3 +55,6 @@ Graph nodes: 0 | edges: 0
 
 ---
 *Research brief auto-generated 2026-07-14 20:51*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

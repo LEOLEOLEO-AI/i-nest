@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveEntanglementManagement]]
+[[AdaptiveFunctionalTopology]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]

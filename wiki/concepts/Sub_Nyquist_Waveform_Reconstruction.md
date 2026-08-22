@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AnalogDomainCompression]]
+[[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Integration]]

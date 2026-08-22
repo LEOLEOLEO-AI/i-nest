@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_Route]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Branch_Prediction]]

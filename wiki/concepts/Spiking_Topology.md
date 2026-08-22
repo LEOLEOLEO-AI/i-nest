@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicGraphAnomalyDetection]]
+[[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

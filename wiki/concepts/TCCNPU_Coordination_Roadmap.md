@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[EventDrivenRiskAssessment]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[FPGA_Accelerated_SNN]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_SpikingIntegration]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

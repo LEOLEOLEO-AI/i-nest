@@ -33,3 +33,5 @@ The maximization of statistical complexity has long been associated with the eme
 
 ---
 *2026-07-24 缁夋垹鐖虹粻锛勫殠v3.1閼奉亜濮╅幓鎰仹 | 閻╃鍙ф惔? 1/3*
+
+<!-- orphan-cleanup: no MOC found, tagged -->

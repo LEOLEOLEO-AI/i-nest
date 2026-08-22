@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
+[[InMateriaComputing]]
 [[InNetworkAgentRewiring]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]

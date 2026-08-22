@@ -25,5 +25,6 @@ TCC, 忆阻
 
 [[Memristor_Synapse]]
 [[TCC]]
+[[inest]]
 [[忆阻器]]
 [[神经网络]]

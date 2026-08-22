@@ -31,12 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MixedLabyrinthFractal]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
+[[emergent computation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

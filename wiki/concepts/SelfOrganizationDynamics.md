@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicReconfigurationForFaultTolerance]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGABasedNeuromorphic]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

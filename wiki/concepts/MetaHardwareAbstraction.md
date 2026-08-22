@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Reserve_Index]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Cognitive_Relapse_Architecture]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DTGA]]

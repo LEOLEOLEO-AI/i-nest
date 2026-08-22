@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Branch_Prediction]]
 [[CrossbarSNNArchitecture]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]

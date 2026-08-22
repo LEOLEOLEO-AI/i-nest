@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Master_SDDE]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
+[[MinimalNetworkModel]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Passive_BCI_Neurofeedback]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network_dynamics]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

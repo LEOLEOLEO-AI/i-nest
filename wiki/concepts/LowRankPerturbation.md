@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]
+[[EventDrivenSynchronization]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[SpikeEncoding]]

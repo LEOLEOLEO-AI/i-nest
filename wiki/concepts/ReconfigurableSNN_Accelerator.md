@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BioInspired_Interception_Control]]
 [[Contested_Priors_Mechanism]]
 [[CriticalityDrivenStateTransition]]
 [[Dynamic_Expert_Fusion]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SensationModulatingNetwork]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplosiveTransitionThreshold]]
 [[HardwareAware_DesignSpace]]

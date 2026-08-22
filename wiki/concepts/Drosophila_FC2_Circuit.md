@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[Memristive_Topology]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[P_Paradigm]]

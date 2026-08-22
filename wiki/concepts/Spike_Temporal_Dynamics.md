@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

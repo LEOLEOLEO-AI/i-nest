@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SDI_STDP]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[SynapticFatigueModel]]
@@ -39,10 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC_Neuromorphic_Integration]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Memristor_Interconnect]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[memristive device threats]]
 [[新型计算]]
 
 ## Sources

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[神经形态计算]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

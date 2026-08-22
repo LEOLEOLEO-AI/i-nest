@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[AstrocyteInspiredRepair]]
+[[AutonomousAdaptation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BigBrainCellularAxis]]
 [[CST_CoordinationMechanism]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Whole_Organism_Behavioral_Assay]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
+[[nanoscale precise control]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

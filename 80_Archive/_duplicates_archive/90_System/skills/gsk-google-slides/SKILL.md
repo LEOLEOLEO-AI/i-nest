@@ -61,3 +61,6 @@ gsk slides export --presentation_id 1AbCdEfG... --format pptx
 
 - [gsk-shared](../gsk-shared/SKILL.md) — Authentication and global flags
 
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

@@ -29,9 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Organization]]
 [[Signal_Folding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[signal folding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

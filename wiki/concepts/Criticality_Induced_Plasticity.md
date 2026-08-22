@@ -21,10 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[CST_Intelligence_Emergence]]
 [[CST_Theory]]
-[[CST_Theory_V27_FINAL]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System]]
 [[Complex_System_Theory]]

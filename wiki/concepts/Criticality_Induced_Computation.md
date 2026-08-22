@@ -36,13 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[OptimalRepresentation]]
 [[QuasiperiodicCriticalPhase]]
 [[RecursiveSelfReferentialArchitecture]]
-[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]
 [[Self_Organized_Criticality]]
 [[Sleep_Stage_Classification]]
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

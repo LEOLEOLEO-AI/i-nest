@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ExactWiringRouting]]
 [[Interconnect_Routing]]
+[[JointFlightRoutingOptimization]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neural_Field_World_Model]]

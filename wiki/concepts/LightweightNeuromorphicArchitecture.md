@@ -21,11 +21,11 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[CoPackagedOptics]]
+[[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
@@ -34,10 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

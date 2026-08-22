@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

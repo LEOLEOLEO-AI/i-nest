@@ -170,3 +170,8 @@ Figure 5. Linking brain computability, intelligence, thermodynamic non-equilibri
 
 ## 确认提交投诉
 你可以补充投诉原因（选填）确定
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

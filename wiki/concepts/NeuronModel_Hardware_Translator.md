@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
+[[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

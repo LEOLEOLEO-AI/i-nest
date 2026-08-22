@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CriticalityDrivenAdaptation]]
+[[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

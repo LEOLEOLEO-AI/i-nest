@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

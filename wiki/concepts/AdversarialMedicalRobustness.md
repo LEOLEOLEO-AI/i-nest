@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[SpatiotemporalCooperativeIntelligence]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

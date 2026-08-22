@@ -279,3 +279,9 @@ print(f"是否临界: {'✅ 是' if assessment['is_critical'] else '❌ 否'}")
 - 算法原理
 - 高级配置
 - 理论背景
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

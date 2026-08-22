@@ -35,3 +35,8 @@ provenance: external
 文章信息：
 Portner, K., Zellweger, T., Martinelli, F. et al. Actor–critic networks with analogue memristors mimicking reward-based learning. Nat Mach Intell (2025). 
 https://doi.org/10.1038/s42256-025-01149-w
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

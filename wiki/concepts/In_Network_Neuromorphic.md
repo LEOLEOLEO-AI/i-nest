@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
 [[Master_SDDE]]
+[[Memristor_Network]]
 [[Microgrid_Optimization]]
 [[National_Innovation_Center_Role]]
 [[Network_on_Chip]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

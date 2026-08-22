@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Chiplet_Interconnect_Topology]]
 [[ConsciousnessEngineeringLoop]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Principle_Network]]
@@ -37,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

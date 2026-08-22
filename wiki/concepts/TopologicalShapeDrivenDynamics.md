@@ -27,9 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterfaces]]
+[[Complex_System]]
 [[Complex_System_Theory]]
+[[Core_Spacetime_Tensor]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Algorithmic_Warfare]]
+[[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]

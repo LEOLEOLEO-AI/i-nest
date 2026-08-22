@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[ErrorAmplificationLimits]]
 [[Fatigue_SpikePattern]]
+[[LatencyGradientDescent]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SNN]]

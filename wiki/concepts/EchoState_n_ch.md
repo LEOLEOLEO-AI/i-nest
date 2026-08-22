@@ -31,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
+[[ConnectivityDerivedReservoir]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

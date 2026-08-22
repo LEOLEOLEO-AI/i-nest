@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BondMovingDecimation]]
+[[CST_SynergisticCoordination]]
 [[Dynamic_Expert_Fusion]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AIRA_NeuralArchSearch]]
+[[AutonomousPhysicalComputation]]
 [[BackflowTransformation]]
 [[BigBrain3DHistology]]
 [[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]
 [[Brain_Connectome]]
 [[Chiplet_Based_Neuromorphic_Integration]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCellularAxis]]

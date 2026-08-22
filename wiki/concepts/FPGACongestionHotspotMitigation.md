@@ -26,9 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GeneralIntelligenceSubstrate]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[MultiplicativeGain]]
 [[Network_on_Chip]]
 [[NoC_EventRouting]]
+[[QuarantineCostTradeoff]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

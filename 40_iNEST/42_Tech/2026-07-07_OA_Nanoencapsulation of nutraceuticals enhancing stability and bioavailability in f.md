@@ -29,3 +29,9 @@ Microencapsulation and Drying Processes, Proteins in Food Systems, Advanced Drug
 
 - [OpenAlex](https://openalex.org/W7122837677)
 - [DOI](https://doi.org/10.3389/fnut.2025.1746176) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[Dimensionality_Modularity_Tradeoff]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Topology_Mapping]]

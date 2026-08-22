@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[FractureMechanism]]
 [[Heterogeneous_Chiplet_Customization]]
+[[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Motif_Spectral_Analysis]]

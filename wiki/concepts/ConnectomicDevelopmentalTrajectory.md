@@ -37,8 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
+[[Spatiotemporal_Synergy_Complexity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[BondMovingDecimation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Emergent_Intelligence_Threshold]]

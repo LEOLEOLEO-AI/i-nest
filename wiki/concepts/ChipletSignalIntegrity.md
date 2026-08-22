@@ -24,9 +24,9 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
+[[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
-[[Advanced_Packaging_Route]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

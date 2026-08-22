@@ -19,6 +19,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
+[[Avalanche_Dynamics]]
 [[Critical_Exponent_Scaling]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -28,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Monitored_Quantum_Circuits]]
 [[MultifractalCriticalPhase]]
+[[NCA reservoir]]
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[NeuralCellularAutomata]]

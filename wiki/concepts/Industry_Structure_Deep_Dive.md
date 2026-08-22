@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
 [[AI_Supply_Chain_Increment]]
+[[ANN动力学]]
 [[CST_Triad_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

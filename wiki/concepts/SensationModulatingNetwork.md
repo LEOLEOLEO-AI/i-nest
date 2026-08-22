@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
+[[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[neuromorphic substrate]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

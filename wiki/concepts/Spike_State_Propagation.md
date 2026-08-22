@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ElasticInferenceScheduling]]
 [[GraphGeometryAlignment]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Memristive_STDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]

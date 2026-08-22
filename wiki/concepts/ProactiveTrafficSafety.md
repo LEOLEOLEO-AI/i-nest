@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[DistributedEventConditionDesign]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

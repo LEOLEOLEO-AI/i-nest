@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[ConfigurableSNNInference]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[neuromorphic computing]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

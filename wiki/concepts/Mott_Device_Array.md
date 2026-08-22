@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CST_Exponential_Gain]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -30,12 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Neural_Network_Quantum_State_Transfer_Learning]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_Substrate]]
+[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[synaptic plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

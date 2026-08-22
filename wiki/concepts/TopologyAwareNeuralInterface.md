@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BondMovingDecimation]]
+[[CXL_Deployment_Transition]]
 [[CommunicationAwareComputeRelocation]]
 [[Dynamic_Expert_Fusion]]
 [[Memristive_Topology]]

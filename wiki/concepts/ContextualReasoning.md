@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[Analog_Computation]]
 [[CirculateFiringNeuron]]
+[[CognitiveSupportTopology]]
 [[Constructed_Reality_Interconnect]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic substrate]]
 [[vLLM_plugin_FLSDI]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

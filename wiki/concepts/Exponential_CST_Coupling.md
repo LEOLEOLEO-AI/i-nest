@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
@@ -61,6 +61,8 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[heterogeneous_integration]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

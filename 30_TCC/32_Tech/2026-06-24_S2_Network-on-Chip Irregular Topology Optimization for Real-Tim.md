@@ -32,3 +32,9 @@ Network-on-Chip is a good approach to working on intra-chip communication. Netwo
 ## AI 摘要
 
 提出了一种通过遗传算法优化不规则拓扑网络的方法，旨在提高实时任务的性能。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

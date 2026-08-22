@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]
 [[Monitored_Quantum_Circuits]]
+[[NegotiationAwareRouting]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

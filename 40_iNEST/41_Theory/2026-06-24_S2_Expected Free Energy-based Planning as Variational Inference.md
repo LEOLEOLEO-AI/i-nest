@@ -32,3 +32,9 @@ We address the problem of planning under uncertainty, where an agent must choose
 ## AI 摘要
 
 本文提出基于期望自由能最小化的主动推理规划方法，将探索与利用统一为变分推断问题，并解决其计算可扩展性难题。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

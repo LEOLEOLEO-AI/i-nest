@@ -403,3 +403,9 @@ Mantel_r  = spearmanr(d_struct_vec, d_func_vec) 距离矩阵相关
 *本规程由 iNEST 仿真组 2026-06-09 制定。*
 *每次修订 Pre-Flight 规程，必须同步更新 MEMORY.md。*
 *规程本身版本号随修订递增（当前 v2.0）。*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

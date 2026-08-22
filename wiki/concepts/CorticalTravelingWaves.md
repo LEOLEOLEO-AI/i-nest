@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
 [[DirectTrainingSNN]]
+[[Direct_Training_Spiking_Neural_Networks]]
 [[FC2_Goal_Representation]]
 [[Free_Energy_Principle_Network]]
 [[Frontier_Innovation_Mapping]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Temporal_Coding]]
 [[iNEST]]
+[[temporal coding]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

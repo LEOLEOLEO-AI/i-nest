@@ -141,3 +141,9 @@ FeNN-DMA通过算法1和lane-local memory结构，支持三类连接：
 ### **🎯 研究启示**
 
 FeNN-DMA展示了神经形态计算的务实路线：围绕SNN"事件驱动、低算术强度、访存敏感、结构复杂"特性，采用**RISC-V+向量协处理器+专用DMA+Python工具链**的组合方案。对于快速演进的SNN领域，这种"半定制"架构可能比纯固定功能硬件更具长期价值。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

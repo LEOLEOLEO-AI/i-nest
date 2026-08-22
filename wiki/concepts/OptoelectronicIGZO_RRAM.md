@@ -27,9 +27,17 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[STDP_Plasticity]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

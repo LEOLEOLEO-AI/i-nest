@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Enabled_Battlefield_Autonomy]]
 [[Accessibility_Plasticity]]
+[[BiologicalNoiseMimicry]]
 [[CirculateFiringNeuron]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic substrate]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

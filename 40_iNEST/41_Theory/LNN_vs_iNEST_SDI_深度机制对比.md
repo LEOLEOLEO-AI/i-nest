@@ -91,3 +91,9 @@ tau 由输入决定          <->  键类型由 FEP 决定（一阶梯度信息�
 ---
 
 > **Codex 主对话框分析 | 2026-06-03**
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

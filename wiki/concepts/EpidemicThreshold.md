@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenFunctionalConnectivity]]
 [[Fluidic_Hysterons]]
 [[Intelligence_Emergence]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonreciprocity_Threshold]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Regulation]]
 [[SNN]]
-[[SNN_STDP_CoDesign]]
 [[STDP_Plasticity]]
 [[STDP_Topology_Integration]]
 [[Self_Organized_Criticality]]
@@ -47,7 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[新型计算]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
+[[神经网络]]
 [[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

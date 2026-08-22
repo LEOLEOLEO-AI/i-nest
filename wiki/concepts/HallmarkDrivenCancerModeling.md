@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[OptimalControlPolicyLearning]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[SelfMotivatedGrowth]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

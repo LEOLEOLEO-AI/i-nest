@@ -25,4 +25,6 @@ iNEST, neuromorphic, 神经形态
 
 [[Edge_Intelligence]]
 [[Neuromorphic_Computing]]
+[[Receptron_Unit]]
 [[iNEST]]
+[[inest]]

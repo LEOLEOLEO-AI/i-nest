@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[Branch_Prediction]]
+[[CoupledOscillatorReservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -36,8 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[branch prediction]]
+[[neuromorphic computing]]
+[[pipelined processor]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,3 +29,9 @@ Quantum Computing Algorithms and Architecture, Quantum Information and Cryptogra
 
 - [OpenAlex](https://openalex.org/W4399411893)
 - [DOI](https://doi.org/10.1088/1367-2630/ae7150) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

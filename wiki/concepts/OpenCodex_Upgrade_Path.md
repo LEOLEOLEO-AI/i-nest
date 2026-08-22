@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RTC_Primitive]]
@@ -39,12 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[SNN]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

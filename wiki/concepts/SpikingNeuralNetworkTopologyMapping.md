@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Baseline_Draft_Status]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenTracking]]
 [[InSensorMemoryComputing]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

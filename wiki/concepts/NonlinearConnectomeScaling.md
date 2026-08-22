@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[CST_Intelligence_Emergence]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[DataDrivenCellularAxis]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[WeakStructuralConnections]]
 [[iNEST]]
+[[scaling laws]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

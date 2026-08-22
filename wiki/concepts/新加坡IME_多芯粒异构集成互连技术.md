@@ -32,6 +32,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ERI_2_0_Strategy]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
@@ -40,4 +41,3 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[getnote_2025-12-17_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]

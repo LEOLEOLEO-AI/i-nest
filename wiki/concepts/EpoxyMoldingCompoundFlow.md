@@ -33,19 +33,20 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Course_Based_FPGA_Projects]]
 [[DataProvenanceIntegrity]]
 [[Heterogeneous_Integration]]
 [[RTC_Primitive]]
 [[RTC_Primitive_Set]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[WaferScaleSubstrate]]
 [[Wafer_Scale_Integration]]
+[[heterogeneous_integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

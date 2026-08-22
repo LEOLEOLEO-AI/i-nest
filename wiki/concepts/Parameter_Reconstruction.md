@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[DirectTrainingFromScratch]]
 [[Emergent_Intelligence_Threshold]]
+[[EventBasedMotionDeblurring]]
 [[Globally_Optimal_SNN_Training]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -37,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[globally optimal SNN training]]
 [[iNEST]]
+[[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

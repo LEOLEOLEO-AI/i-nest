@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Attention_Residuals]]
 [[CST_Theory]]
-[[CST_Theory_V27_FINAL]]
 [[CategoricalClosureCriterion]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]

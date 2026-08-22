@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ElasticInferenceScheduling]]
 [[EmulationTheoryObserver]]
 [[EventCameraPoseInput]]
+[[EventDrivenComputation]]
 [[ImpactFallDetection]]
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
+[[SparseActivationSkipping]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

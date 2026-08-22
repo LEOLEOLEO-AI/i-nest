@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[CrossbarArrayArchitecture]]
+[[DRBE workload]]
 [[DRBE_Workload]]
 [[DTGA]]
 [[FlagOS_2_0]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Photonic_Chiplet_Interconnect]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -46,6 +48,9 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Page]]
 [[Topology_Reconfiguration]]
+[[iNEST]]
+[[temporalComplexity]]
+[[topology reconfiguration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

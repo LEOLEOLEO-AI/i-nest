@@ -40,11 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
+[[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -53,7 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
@@ -66,6 +66,9 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[iNEST]]
+[[neuromorphic computing]]
+[[spiking neural network]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

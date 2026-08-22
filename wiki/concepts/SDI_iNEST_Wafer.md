@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
+[[Chiplet_Integration_Route]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
@@ -30,16 +31,16 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

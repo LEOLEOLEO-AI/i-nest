@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
+[[C_elegansConnectomeAnalogy]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]

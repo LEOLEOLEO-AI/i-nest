@@ -20,7 +20,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BigBrainCellularAxis]]
+[[BrownianCastleInterfaces]]
 [[Chiplet_Based_Neuromorphic_Integration]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
@@ -32,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Role]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NoiseDrivenBackpropReconstruction]]
 [[QuantumFluctuationDrivenTransport]]
 [[RecursiveSelfReferentialArchitecture]]

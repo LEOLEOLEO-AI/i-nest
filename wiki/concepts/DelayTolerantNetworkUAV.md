@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
+[[PacketRoutingForFPGAs]]
 [[RedundancyControlledStochasticRouting]]
 [[ScalableNeuromorphicTopology]]
 [[TCC]]

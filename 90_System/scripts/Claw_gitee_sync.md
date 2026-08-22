@@ -41,3 +41,6 @@ powershell -ExecutionPolicy Bypass -File "D:\Obsidian\vault\scripts\gitee_sync.p
 - 远程拉取的提交数
 - 本地变更分类统计（[代码]X [论文]Y ...）
 - 推送是否成功 + 提交哈希
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

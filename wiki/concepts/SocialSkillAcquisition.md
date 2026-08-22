@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[VonEconomoNeuron]]
 [[iNEST]]
+[[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

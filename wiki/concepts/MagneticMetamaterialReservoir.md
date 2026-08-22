@@ -28,10 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[Free_Energy_Topology_Mapping]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

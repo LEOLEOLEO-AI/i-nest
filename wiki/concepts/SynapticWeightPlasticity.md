@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

@@ -29,3 +29,9 @@ Hydrogels: synthesis, properties, applications, Advancements in Transdermal Drug
 
 - [OpenAlex](https://openalex.org/W7118172577)
 - [DOI](https://doi.org/10.1007/s40820-025-02026-2) (if doi else '')
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]

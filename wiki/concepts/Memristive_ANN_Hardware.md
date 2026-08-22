@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[Memristive_STDP]]
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
 [[MetricComputationAuthenticity]]
@@ -46,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
@@ -59,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
@@ -68,7 +68,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[analog weight storage]]
 [[iNEST]]
+[[memristor device]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

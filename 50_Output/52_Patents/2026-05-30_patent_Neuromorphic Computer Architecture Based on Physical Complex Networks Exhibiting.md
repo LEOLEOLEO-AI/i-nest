@@ -50,3 +50,6 @@ Existing neuromorphic chips often emulate spiking neurons with fixed or simple a
 1. 1. A neuromorphic computer comprising: a plurality of processing chiplets interconnected in a reconfigurable physical network topology; a global controller configured to adjust interconnection parameters among the chiplets to maintain the network's dynamical state within a predefined regime of criticality, as measured by one or more statistical metrics of network activity.
 2. 2. The neuromorphic computer of claim 1, wherein the regime of criticality is characterized by scale-free correlations in activity propagation and maximizes a balance between information transmission and storage within the chiplet network.
 3. 3. A method for computation using the neuromorphic computer of claim 1, comprising: mapping a computational problem onto an initial state of the chiplet network; allowing the network to evolve dynamically while maintained near criticality; and reading out a resultant stable pattern or trajectory from the network as a solution to the problem.
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

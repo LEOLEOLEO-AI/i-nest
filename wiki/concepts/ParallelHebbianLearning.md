@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

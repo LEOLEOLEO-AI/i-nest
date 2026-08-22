@@ -32,3 +32,9 @@ Vehicle detection and recognition based on Unmanned Aerial Vehicle (UAV) remote 
 ## AI 摘要
 
 基于脑启发计算架构的无人机图像轻量级实时车辆检测与识别研究。
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

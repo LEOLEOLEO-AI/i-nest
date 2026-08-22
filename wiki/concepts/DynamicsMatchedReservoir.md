@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[Allreduce_Latency_Probe]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
+[[neuromorphic computing]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

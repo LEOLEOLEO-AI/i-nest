@@ -56,3 +56,9 @@ status: 已完成
 ✅ Drosophila幼虫连接组 σ=9.44，远超 C.elegans (σ=6.98)
 ✅ 聚类分布 KS p=0，彻底排除随机零假设
 ✅ FEP-STDP 验证了真实拓扑与随机拓扑的不同动力学行为
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

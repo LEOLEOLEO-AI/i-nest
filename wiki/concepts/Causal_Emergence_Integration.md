@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[Causal_Emergence]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
+[[causal emergence]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

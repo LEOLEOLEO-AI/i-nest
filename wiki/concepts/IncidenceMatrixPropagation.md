@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolutionCoupler]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AdaptiveFlexibilityThreshold]]
 [[BigBrainCellularAxis]]
 [[BioInspiredLearningRule]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

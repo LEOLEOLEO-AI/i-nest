@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
+[[DTGA]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]

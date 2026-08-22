@@ -29,3 +29,5 @@ NoC, iNEST, neuromorphic, spiking
 [[Neuromorphic_Spiking]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic spiking]]
+[[spiking neural network]]

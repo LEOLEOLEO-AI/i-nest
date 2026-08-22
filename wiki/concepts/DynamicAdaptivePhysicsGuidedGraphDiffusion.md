@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CertifiedBifurcationDetection]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
+[[Continual_Learning_Topology]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]

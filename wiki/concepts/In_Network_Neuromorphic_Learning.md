@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[In_Network_Neuromorphic]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Neuromorphic_Computing]]

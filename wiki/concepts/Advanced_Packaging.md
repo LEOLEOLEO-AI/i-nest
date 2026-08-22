@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D integration]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]

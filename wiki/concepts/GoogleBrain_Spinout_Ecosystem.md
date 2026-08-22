@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
+[[Chiplet_Integration_Route]]
 [[ClinicalTranslationBridge]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System]]

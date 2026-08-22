@@ -14,6 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
@@ -38,7 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_Integration]]
+[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
@@ -58,6 +60,8 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[synaptic plasticity]]
+[[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 
 ## Sources

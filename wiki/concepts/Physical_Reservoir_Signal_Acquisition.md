@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
+[[CoDesignedOnlineContinualLearning]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[HebbianLimitCycleLearning]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
+[[neuromorphic sensing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

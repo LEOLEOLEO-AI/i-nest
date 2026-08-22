@@ -25,7 +25,9 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

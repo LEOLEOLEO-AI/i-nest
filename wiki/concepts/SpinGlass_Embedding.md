@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Analysis]]
 [[DARPA_BioStrategic_Reshaping]]
 [[DeepCounterstreamAssociativeNetworks]]
+[[DopamineArousalSwitch]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
@@ -40,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Ising_Solver]]
 [[RecursiveSelfReferentialArchitecture]]
+[[neuromorphic Ising solver]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

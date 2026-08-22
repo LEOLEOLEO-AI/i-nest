@@ -495,3 +495,6 @@ R.T.C三层的划分使系统的通信、计算与控制能够被分别表达、
 ---
 
 *本提纲基于以下知识库文件生成：TCC Knowledge Base Baseline v2.0 | iNEST权威路线图v2.0 | SDSoW战略规划系列 | Genspark TCC/iNEST推演文档 | 海河实验室TCC项目实施方案v30 | CST仿真V25/V31结果*
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

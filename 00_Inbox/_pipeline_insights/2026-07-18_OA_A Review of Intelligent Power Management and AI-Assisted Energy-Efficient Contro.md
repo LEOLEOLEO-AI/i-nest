@@ -29,3 +29,6 @@ Electric and Hybrid Vehicle Technologies, Advanced Battery Technologies Research
 
 - [OpenAlex](https://openalex.org/W7127325136)
 - [DOI](https://doi.org/10.3390/en19030780) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

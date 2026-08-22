@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
 [[Free_Energy_Principle_Network]]
 [[GeometricNeuromorphicFusion]]
@@ -41,6 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
+[[neuromorphic computing]]
+[[spiking neural network]]
+[[temporalComplexity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

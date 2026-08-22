@@ -31,14 +31,17 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Roadmap_HIR]]
 [[In_Network_Neuromorphic_Integration]]
+[[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[neuromorphic chiplet]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

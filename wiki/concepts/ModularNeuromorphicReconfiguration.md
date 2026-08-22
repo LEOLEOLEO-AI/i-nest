@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EmergentPhaseTransition]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGABasedNeuromorphic]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

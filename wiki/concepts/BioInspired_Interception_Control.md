@@ -41,7 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyDrivenRouting]]
 [[iNEST]]
+[[neuromorphic substrate]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

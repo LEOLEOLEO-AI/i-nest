@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BeyondVonNeumannArchitecture]]
 [[ChargeDomainAttention]]
+[[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]

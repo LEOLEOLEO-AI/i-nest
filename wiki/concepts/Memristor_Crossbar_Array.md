@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[Beyond_Moore_Pathway]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Threshold]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[memristor device]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

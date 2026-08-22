@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NonHermitianTopology]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TimeReversalInvariantTopologicalAlloy]]
 [[TopologicalAndersonChernInsulator]]
 [[智能涌现]]
 [[涌现]]

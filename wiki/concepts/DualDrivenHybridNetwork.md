@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuralAccelerator]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

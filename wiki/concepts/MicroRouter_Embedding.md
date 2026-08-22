@@ -33,12 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[LargeScalePhotonicIntegration]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_TopologyMapping]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

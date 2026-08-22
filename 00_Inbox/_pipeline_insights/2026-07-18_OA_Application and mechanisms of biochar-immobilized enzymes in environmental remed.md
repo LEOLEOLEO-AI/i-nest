@@ -29,3 +29,6 @@ Enzyme-mediated dye degradation, Enzyme Catalysis and Immobilization, Adsorption
 
 - [OpenAlex](https://openalex.org/W7118120503)
 - [DOI](https://doi.org/10.1007/s42773-025-00515-6) (if doi else '')
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

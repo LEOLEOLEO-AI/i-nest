@@ -110,3 +110,6 @@ provenance: own
 | A1 paper submitted | July 1, 2026 | CN provisional filed |
 | PCT application filed | September 30, 2026 | CN provisional + translation |
 | US non-provisional | December 31, 2026 | PCT filing |
+
+
+<!-- orphan-cleanup: no MOC found, tagged -->

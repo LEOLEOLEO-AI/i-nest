@@ -361,3 +361,9 @@ if ema > ACT_HI: W *= SCALE_DN
 | `SCALING_INT` | **200步** | Turrigiano 2012 |
 | `ACT_LO / ACT_HI` | **0.03 / 0.10** | Turrigiano 1998 |
 | `SCALE_UP / SCALE_DN` | **1.05 / 0.95** | Turrigiano 2012 |
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

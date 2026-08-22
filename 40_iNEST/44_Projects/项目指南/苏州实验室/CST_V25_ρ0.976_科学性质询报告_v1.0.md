@@ -255,3 +255,8 @@ Loihi-2（CST=0.7816）、SpiNNaker2（CST=1.1190）、BrainScaleS-2（CST=0.982
 ---
 
 *内部质询完成。建议立即修订苏州实验室V3项目指南中"独立验证"的措辞。*
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[iNEST_Master_Index]]

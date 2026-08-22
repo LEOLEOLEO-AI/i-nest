@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[BioInspired_Interception_Control]]
 [[EdgeIoTEnergyAwareness]]
 [[Environmental_Capability_Context]]
 [[Interconnect_Routing]]

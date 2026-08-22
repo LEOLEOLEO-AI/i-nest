@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[CoexistencePhaseDiagram]]
 [[Contested_Priors_Mechanism]]
+[[CoupledOscillatorReservoir]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
@@ -35,10 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[VariationalFreeEnergyMinimisation]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

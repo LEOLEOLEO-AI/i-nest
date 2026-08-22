@@ -19,11 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
+[[Avalanche_Dynamics]]
 [[CategoricalClosureCriterion]]
 [[Critical_Exponent_Scaling]]
 [[CriticalityConstrainedPruning]]
 [[Criticality_of_Natural_Languages]]
-[[EdgeOfChaosComputation]]
 [[EdgeOfChaos]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[MassConservationInductiveBias]]
 [[Monitored_Quantum_Circuits]]
 [[MultifractalCriticalPhase]]
+[[NCA reservoir]]
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

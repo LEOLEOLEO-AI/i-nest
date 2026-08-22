@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[BurstGatedRouting]]
 [[Emergent_Intelligence_Threshold]]
 [[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]

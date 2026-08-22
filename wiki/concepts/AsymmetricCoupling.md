@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DopamineArousalSwitch]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
+[[Fractal_Entanglement_Scaling]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganizedOscillatoryLearning]]
 [[iNEST]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

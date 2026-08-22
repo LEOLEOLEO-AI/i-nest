@@ -563,3 +563,9 @@ $\Gamma_{st}$ = SDI 化合键的时空协同强度，正是 Mahmoodi 2024 中 $I
 ---
 
 *文档生成：2026-07-07 | 级别标注：S1-S4 全部显式标注 | 状态：完整版，可直接用于论文引用*
+
+
+<!-- orphan-cleanup: linked to MOC -->
+## 来源回链
+
+- [[TCC_Master_Index]]
