@@ -64,3 +64,17 @@ provenance: meta_evolution
 
 
 <!-- orphan-cleanup: no MOC found, tagged -->
+
+### L-006 2026-08-22：wiki_grow 概念图谱 600s 超时失败（元进化提案 P0）
+- **现象**：wiki_grow 交叉链接步骤 7 天内超时失败 2 次（08-19、08-22），导致孤儿笔记堆积（2136→3376）
+- **根因**：find_links 对每个 concept 遍历全部 3622 个 concept 做独立正则匹配（约4000万次操作）；单一大 union 正则编译退化卡死
+- **修复**：分桶 union regex（按首字符分桶，每桶不超过200 pattern + 反向映射 slug）→ 225秒完成全程
+- **验证**：优化后孤儿概念 1657→1511（-146）；wiki_grow 完整跑完 index/backlinks/health 刷新
+- **提案来源**：99_Meta/evolution_proposals/2026-08-22.md（P0 项）
+
+### L-007 2026-08-22：孤儿笔记 3376 个（元进化提案 P1）
+- **现象**：vault_health 报告孤儿笔记（无入链）3376 个
+- **根因**：wiki_grow 超时未完成链接 + 新导入笔记未链接 + Obsidian 无标题垃圾笔记残留
+- **修复**：orphan_cleanup.py 专项清理 — 160归档（stub/无标题/个人杂物）+ 745链接MOC + 1010标记；敏感文件（电脑密码）隔离至 _external_archive/sensitive_20260821
+- **验证**：脚本幂等（无重复标记）；git 提交 f30bf0fd1
+- **提案来源**：99_Meta/evolution_proposals/2026-08-22.md（P1 项）
