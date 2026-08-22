@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-22T08:08:20.566229",
+  "generated": "2026-08-22T18:30:06.282386",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 10526,
+    "total_md": 10545,
     "inbox_00": 172,
-    "processing_20": 578,
+    "processing_20": 584,
     "tcc_30": 1957,
     "inest_40": 1439,
     "output_50": 457,
-    "moc_60": 61
+    "moc_60": 62
   },
   "services": {
     "preview_server_8899": false,
@@ -102,28 +102,25 @@
     ]
   },
   "git": {
-    "uncommitted": 38,
+    "uncommitted": 17,
     "details": [
       "M .obsidian/workspace.json",
       " M .workbuddy/automations/automation-1785546922604/memory.md",
       " M 20_Processing/02_Fulltext_Analysis/2026-07-20_NeuroTrain_fulltext_analysis.md",
       " D \"20_Processing/external_imports/kb_DARPA-research_\\350\\266\\205\\350\\266\\212\\346\\221\\251\\345\\260\\224\\345\\256\\232\\345\\276\\213_DARPA\\345\\276\\256\\347\\224\\265\\345\\255\\220\\344\\270\\216\\345\\215\\212\\345\\257\\274\\344\\275\\223\\346\\210\\230\\347\\225\\245\\346\\267\\261\\345\\272\\246\\347\\240\\224\\347\\251\\266\\346\\212\\245\\345\\221\\212.md\"",
       " D \"20_Processing/external_imports/kb_DARPA-research_\\351\\207\\215\\345\\241\\221\\345\\233\\275\\351\\230\\262\\345\\210\\266\\351\\200\\240_DARPA\\346\\235\\220\\346\\226\\231\\347\\247\\221\\345\\255\\246\\344\\270\\216\\345\\205\\210\\350\\277\\233\\345\\210\\266\\351\\200\\240\\346\\210\\230\\347\\225\\245\\346\\267\\261\\345\\272\\246\\350\\247\\243\\346\\236\\220.md\"",
-      " M 60_MOC/02_Research_Insights.md",
-      " M 60_MOC/03_Daily_Action.md",
-      " M 60_MOC/04_Daily_Focus.md",
-      " M 60_MOC/05_Task_Review.md",
-      " M 60_MOC/07_Pipeline_Status.md",
-      " M 70_Dashboard/data.js",
       " M 90_System/scripts/research_publisher.py",
       " M 90_System/scripts/research_task_proposals.py",
       " M 99_Meta/evolution_queue.json",
-      " M 99_Meta/genspark_research_brief.md",
       " M 99_Meta/hypothesis_registry.json",
       " M 99_Meta/knowledge_compile_state.json",
-      " M 99_Meta/research_state.json",
-      " M 99_Meta/research_task_proposals.json",
-      " M 99_Meta/self_evolve_log.json"
+      " M 99_Meta/self_evolve_log.json",
+      " M 99_Meta/self_evolve_run_2026-08-22.log",
+      "?? .workbuddy/memory/2026-08-21.md",
+      "?? \"20_Processing/20_KnowledgeBase/\\347\\201\\265\\346\\204\\237\\345\\272\\223/\\345\\205\\255\\350\\247\\204\\345\\210\\231\\346\\224\\257\\346\\214\\201\\347\\232\\204\\347\\275\\221\\347\\273\\234\\350\\207\\252\\347\\224\\237\\351\\225\\277\\345\\212\\250\\345\\212\\233\\345\\255\\246.md\"",
+      "?? 20_Processing/21_Pending/",
+      "?? 90_System/scripts/home_v2_generator.py",
+      "?? 90_System/scripts/knowledge_compiler.py"
     ]
   },
   "health": {

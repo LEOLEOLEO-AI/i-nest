@@ -12,3 +12,46 @@
 [self_evolve] 运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...
 [self_evolve] 健康自检: 笔记 9310 | 真正断链 1951 | 孤儿 3376 | 缺FM 401 -> vault_health.md
 [self_evolve] 自我生长: 补全高频缺失概念占位笔记...
+[self_evolve] 已补全 6 个缺失概念: ['AGI面临的挑战_脑机制自底向顶梳理_下部_5万字', 'getnote_2026-04-07_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述', 'getnote_2025-11-16_iNEST开发流程', 'getnote_2026-01-23_iNEST研究路线及方案', 'getnote_2026-06-02_iNEST落地计划探讨', 'iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现']
+[self_evolve] 运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...
+[self_evolve] import_processor 退出码=0 | cessor ===
+[08:27:47] Genspark dir not found, skipping
+[08:27:47] Imported: Genspark=0, 得到大脑=0, Codex=0
+[08:27:47] Total new files in raw/: 0
+[08:27:47] Inbox pending: 0 files
+[08:27:47] === Done ===
+
+[self_evolve] task_recommender 退出码=0 | sights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+[08:28:03] === Done ===
+
+[self_evolve] research_evolution 退出码=0 | [08:28:03] === Research Evolution Engine ===
+[08:28:03] Hypothesis updates: 0
+[08:28:04] Research directions: 0
+[08:28:04] Report: wiki/evolution_report.md
+[08:28:04] === Done ===
+
+[self_evolve] cross_domain_insight 退出码=0 | , FeFET_Polarization_Switching, FerroelectricSynapticArray
+
+Cross-domain articles: 1
+  2026_07_20_NeuroTrain_fulltext_analysis (TCC:3 iNEST:3)
+
+Report: D:\Obsidian\vault\wiki\cross_domain_insights.md
+
+[self_evolve] 刷新 Home.md (实时 git)...
+[self_evolve] homepage 退出码=0 | [08:28:04] === Homepage Generator ===
+[08:28:05] 70_Dashboard/data.js generated
+[08:28:05] Home.md generated (5355 chars)
+[08:28:05] === Done ===
+
+[self_evolve] git add 部分目录无匹配(正常): The following paths are ignored by one of your .gitignore files:
+knowledge_graph
+hint: Use -f if you
+[self_evolve] 已提交 77 个文件。
+[self_evolve] push 失败, 尝试 pull --no-rebase 后重推: behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+

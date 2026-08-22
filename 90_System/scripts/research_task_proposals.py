@@ -16,6 +16,14 @@ REVIEW_NOTE = VAULT / "60_MOC" / "05_Task_Review.md"
 PROPOSALS = META / "research_task_proposals.json"
 NOW = datetime.now(ZoneInfo("Asia/Shanghai"))
 TODAY = NOW.date()
+GENERIC_ACTIONS = {
+    "review for relevance to tcc/inest.",
+    "review for relevance to tcc/inest",
+    "none",
+    "n/a",
+    "无",
+    "暂无",
+}
 
 
 def extract_section(text, heading):
@@ -37,6 +45,7 @@ def actionable_items(text):
     for section_name in ("Actionable", "Candidate Tasks"):
         items.extend(bullet_items(extract_section(text, section_name)))
     invalid = {"", "none", "n/a", "na", "\u65e0", "\u6682\u65e0"}
+    invalid.update(GENERIC_ACTIONS)
     return [item for item in items if item.strip().lower() not in invalid]
 
 
@@ -101,6 +110,12 @@ def main():
     META.mkdir(parents=True, exist_ok=True)
     state = load_existing()
     existing = {item["id"]: item for item in state.get("items", []) if item.get("id")}
+    # Preserve history but prevent placeholder tasks from polluting the review queue.
+    for item in existing.values():
+        if item.get("status") == "pending_review" and item.get("title", "").strip().lower() in GENERIC_ACTIONS:
+            item["status"] = "rejected"
+            item["rejection_reason"] = "generic placeholder; no executable research action"
+            item["updated"] = NOW.isoformat(timespec="seconds")
 
     for path in candidate_sources():
         text = path.read_text(encoding="utf-8", errors="replace")
