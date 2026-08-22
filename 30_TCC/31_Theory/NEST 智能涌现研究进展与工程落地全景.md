@@ -73,7 +73,7 @@ kb: iNEST
 
 **iNEST = Institute for Neuromorphic & Emergent Systems and Technologies**
 
-- PI：刘勤让教授（天津大学 / Drexel University）
+- PI：刘勤让教授（天津大学）
 - 学术信仰：**大道至简** — 极简规则 × 自组织临界 → 复杂智能涌现
 - Gitee：[https://gitee.com/iBrainNest/i-nest](https://gitee.com/iBrainNest/i-nest)
 
