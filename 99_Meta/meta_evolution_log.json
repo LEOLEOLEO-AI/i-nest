@@ -1,0 +1,33 @@
+[
+  {
+    "date": "2026-08-22",
+    "window_days": 7,
+    "evidence": {
+      "self_evolve_runs": 4,
+      "git_commits": 22,
+      "health_trend": {
+        "notes": {
+          "first": 4449,
+          "last": 9310,
+          "delta": 4861
+        },
+        "broken": {
+          "first": 2252,
+          "last": 1951,
+          "delta": -301
+        },
+        "orphans": {
+          "first": 2136,
+          "last": 3376,
+          "delta": 1240
+        },
+        "missing_fm": {
+          "first": 1273,
+          "last": 401,
+          "delta": -872
+        }
+      }
+    },
+    "proposal": "D:\\Obsidian\\vault\\99_Meta\\evolution_proposals\\2026-08-22.md"
+  }
+]
