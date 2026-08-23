@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-08-21
-date: 2026-08-21
+title: iNEST+TCC Research Brief - 2026-08-23
+date: 2026-08-23
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-08-21
+# iNEST + TCC Research Brief - 2026-08-23
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,23 +33,23 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-08-20] **科技部无人智能装备制造云平台项目讨论** (root)
-- [2026-08-20] **差分Transformer（Diff Transformer）深度解析：用减法重构注意力机制** (root)
-- [2026-08-20] **工程院信息学部十五五规划战略咨询项目开题研讨会记录** (root)
-- [2026-08-20] **工程院信息学部十五五战略咨询项目开题研讨会（第一课题汇报环节）** (root)
-- [2026-08-20] **Copilot for Obsidian V4 深度解析：从聊天助手到 AI 主理人** (root)
-- [2026-08-20] **Cerebras CS-4 深度解析：晶圆级 AI 芯片如何把推理速度拉到千 tok_s 级** (root)
-- [2026-08-20] **2026-08-20_arXiv_Declining Modularity of Intellectual Bases During the Emerge** (_pipeline_insights)
-- [2026-08-20] **2026-08-20_arXiv_The Organization of Environmental Coupling Shapes What Quant** (_pipeline_insights)
+- [2026-08-22] **2026-07-18_OA_Reservoir computing bootcamp—From PythonNumPy tutorial for the com** (_pipeline_insights)
+- [2026-08-22] **2026-07-18_OA_Epoxy molding compound encapsulation process in IC packaging a rev** (_pipeline_insights)
+- [2026-08-22] **2026-07-18_OA_Bio-Inspired Spike-Timing-Dependent Plasticity Learning with Metal** (_pipeline_insights)
+- [2026-08-22] **2026-07-18_OA_Digital twins in oncology From predictive modelling to personalise** (_pipeline_insights)
+- [2026-08-22] **2026-07-18_OA_Natural Neurobiological Active Compounds in Parkinson’s Disease Mo** (_pipeline_insights)
+- [2026-08-22] **2026-07-18_OA_Graph machine learning for flight delay prediction due to holding ** (_pipeline_insights)
+- [2026-08-22] **2026-07-18_OA_Integrated error-suppressed pipeline for quantum optimization of n** (_pipeline_insights)
+- [2026-08-22] **2026-07-18_OA_Evaluation of the Dual Impact of Nanotechnologies on Health and En** (_pipeline_insights)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 10523
-Graph nodes: 10368 | edges: 97776
+Total notes: 12236
+Graph nodes: 10515 | edges: 103717
 
 Top connected topics:
-- **backlinks** (degree=4362)
-- **index** (degree=3492)
+- **backlinks** (degree=4481)
+- **index** (degree=3592)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=394)
 - **TCC_iNEST_成果全景** (degree=291)
@@ -62,7 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-08-21 06:38*
-
-
-<!-- orphan-cleanup: no MOC found, tagged -->
+*Research brief auto-generated 2026-08-23 09:53*

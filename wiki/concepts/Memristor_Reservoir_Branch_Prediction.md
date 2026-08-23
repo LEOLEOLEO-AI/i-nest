@@ -52,3 +52,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- MemristorReservoirBranchPrediction (merged 2026-08-24)

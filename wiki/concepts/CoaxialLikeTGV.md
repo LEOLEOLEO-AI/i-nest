@@ -1,55 +1,24 @@
 ---
-title: "CoaxialLikeTGV"
-type: concept
-domain: TCC
-created: 2026-08-05
+provenance: derived
+type: concept-stub
 auto: true
+created: 2026-08-24
+refs: 6
 ---
+
 # CoaxialLikeTGV
 
-**Domain**: TCC
-**First mentioned**: auto-extracted
-**Last updated**: 2026-08-04
+> 由 self_evolve 自动生成的占位概念（被引用 21 次，来源尚未成稿）。
 
-## Definition
-A through-glass via (TGV) structure with a coaxial-like geometry (central conductor surrounded by annular ground) to improve high-frequency signal integrity in 3D glass interposers. Enables low-loss, low-crosstalk vertical interconnects for high-bandwidth TCC fabrics, critical for scalable 3D neuromorphic systems.
 
-## Context
-Auto-extracted concept from raw material compilation.
+## 引用来源
 
-## Related Work
+- [[vault_health]]
+- [[backlinks]]
+- [[index]]
+- [[3D_Integrated_Chiplet_Stacking]]
+- [[AdaptivePhotonicRouter]]
+- [[AdiabaticMultimodeBend]]
 
-[[AI-ML — 全景导航 (Map of Content)]]
-[[Allreduce_Latency_Probe]]
-[[CST计量仪]]
-[[Chip-Hardware — 全景导航 (Map of Content)]]
-[[ChipletWaferInterconnectScaling]]
-[[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
-[[Complex_System]]
-[[Complex_System_Theory]]
-[[ComputeRelocationOverhead]]
-[[DifferentiableRasterizationPipeline]]
-[[Free_Energy_Principle_Network]]
-[[Heterogeneous_Integration]]
-[[Intelligence_Emergence]]
-[[Interconnect_Routing]]
-[[Memory_Wall]]
-[[MultiObjectiveRouting]]
-[[Network_Topology_Design]]
-[[Neuromorphic_Computing]]
-[[RecursiveSelfReferentialArchitecture]]
-[[SuperparamagneticSwitchingRate]]
-[[Swarm_Coordination]]
-[[TCC]]
-[[TwoTimescaleNeuroEvolution]]
-[[智能涌现]]
-[[智造讲堂：智能制造与装备发展路径 (1)]]
-[[涌现]]
 
-## Sources
-- See wiki/articles/ for source article summaries
-
-## Open Questions
-- *(Explore connections to other concepts)*
+_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_

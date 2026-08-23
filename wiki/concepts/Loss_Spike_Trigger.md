@@ -45,3 +45,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- LossSpikeTrigger (merged 2026-08-24)

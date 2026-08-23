@@ -1,51 +1,24 @@
 ---
-title: "HebbianLimitCycleLearning"
-type: concept
-domain: iNEST
-created: 2026-08-05
+provenance: derived
+type: concept-stub
 auto: true
+created: 2026-08-24
+refs: 6
 ---
+
 # HebbianLimitCycleLearning
 
-**Domain**: iNEST
-**First mentioned**: auto-extracted
-**Last updated**: 2026-08-04
+> 由 self_evolve 自动生成的占位概念（被引用 149 次，来源尚未成稿）。
 
-## Definition
-A learning rule where synaptic weights are updated via Hebbian plasticity to encode and stabilize limit cycles in recurrent neural dynamics. Enables neuromorphic systems to learn oscillatory behaviors without supervised training, critical for rhythmic computation and temporal pattern generation.
 
-## Context
-Auto-extracted concept from raw material compilation.
+## 引用来源
 
-## Related Work
+- [[vault_health]]
+- [[backlinks]]
+- [[index]]
+- [[AcceleratedMaterialScreening]]
+- [[Accessibility_Gradient]]
+- [[ActiveMatterComputing]]
 
-[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
-[[12_三原理协同_FEP_最小作用量_STDP]]
-[[AI-ML — 全景导航 (Map of Content)]]
-[[AI_Autonomous_Control]]
-[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
-[[ANN动力学]]
-[[Accessibility_Gradient]]
-[[ActionWeightedPathEnsemble]]
-[[Complex_System]]
-[[Complex_System_Theory]]
-[[Dynamic_Expert_Fusion]]
-[[Emergent_Intelligence_Threshold]]
-[[InNetworkAgentRewiring]]
-[[Intelligence_Emergence]]
-[[NeuralNetworkSpectralAnalysis]]
-[[Neuromorphic_Computing]]
-[[NonEquilibriumComputing]]
-[[RecursiveSelfReferentialArchitecture]]
-[[STDP_Plasticity]]
-[[SynapticWeightPlasticity]]
-[[Synaptic_Plasticity]]
-[[iNEST]]
-[[涌现]]
-[[神经网络]]
 
-## Sources
-- See wiki/articles/ for source article summaries
-
-## Open Questions
-- *(Explore connections to other concepts)*
+_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_

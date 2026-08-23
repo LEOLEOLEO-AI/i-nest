@@ -1,0 +1,62 @@
+[self_evolve] === 自进化编排开始 ===
+[self_evolve] 运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...
+[self_evolve] wiki_compiler 退出码=0 | [03:00:46] === Wiki Compiler v1.0 ===
+[03:00:46] LLM enabled: True
+[03:00:46] Last compile: 2026-08-23
+[03:00:46] Phase 1: Found 0 new/changed raw files
+[03:00:46] No new files to process. Running health check only.
+[03:02:12] Done.
+
+[self_evolve] 运行 wiki_grow 交叉链接/去重...
+[self_evolve] wiki_grow 退出码=1 | [03:02:13] wiki_grow start
+  concepts loaded: 5140
+[safe-delete][SAFE_DELETE_BULK_CONFIRM_REQUIRED] {"count":50,"threshold":50,"scope":"turn","targets":["D:\\Obsidian\\vault\\wiki\\concepts\\MultiObjectiveRouting.md"],"targetCount":1}
+
+[self_evolve] 运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...
+[self_evolve] 健康自检: 笔记 10970 | 真正断链 3638 | 孤儿 3464 | 缺FM 915 -> vault_health.md
+[self_evolve] 自我生长: 补全高频缺失概念占位笔记...
+[self_evolve] 已补全 8 个缺失概念: ['HebbianLimitCycleLearning', 'AutonomousSpikingDynamics', 'Neuromorphic_Substrate', 'EventDrivenAttention', 'CoDesignedOnlineContinualLearning', 'emergent computation', 'CoaxialLikeTGV', 'topology reconfiguration']
+[self_evolve] 运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...
+[self_evolve] import_processor 退出码=0 | cessor ===
+[03:04:06] Genspark dir not found, skipping
+[03:04:06] Imported: Genspark=0, 得到大脑=0, Codex=0
+[03:04:06] Total new files in raw/: 0
+[03:04:06] Inbox pending: 0 files
+[03:04:06] === Done ===
+
+[self_evolve] task_recommender 退出码=0 | sights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+  [LOW   ] Review and incorporate insights into wiki
+[03:04:35] === Done ===
+
+[self_evolve] research_evolution 退出码=0 | [03:04:35] === Research Evolution Engine ===
+[03:04:36] Hypothesis updates: 0
+[03:04:36] Research directions: 0
+[03:04:36] Report: wiki/evolution_report.md
+[03:04:36] === Done ===
+
+[self_evolve] cross_domain_insight 退出码=0 | k_Claw (TCC:2 iNEST:4)
+  2026_08_21_2608_19239 (TCC:2 iNEST:4)
+  2026_08_21_2510_02545 (TCC:2 iNEST:4)
+  2026_08_21_2608_19907 (TCC:2 iNEST:3)
+
+Report: D:\Obsidian\vault\wiki\cross_domain_insights.md
+
+[self_evolve] 刷新 Home.md (实时 git)...
+[self_evolve] homepage 退出码=0 | [03:04:37] === Homepage Generator ===
+[03:04:37] 70_Dashboard/data.js generated
+[03:04:37] Home.md generated (5358 chars)
+[03:04:37] === Done ===
+
+[self_evolve] git add 部分目录无匹配(正常): The following paths are ignored by one of your .gitignore files:
+knowledge_graph
+hint: Use -f if you
+[self_evolve] 已提交 23 个文件。
+[self_evolve] push 失败, 尝试 pull --no-rebase 后重推: error: src refspec main does not match any
+error: failed to push some refs to 'github.com:LEOLEOLEO-AI/i-nest.git'
+
+[self_evolve] ⚠️ 重推仍失败: error: src refspec main does not match any
+error: failed to push some refs to 'github.com:LEOLEOLEO-AI/i-nest.git'
+
+[self_evolve] === 自进化编排结束 | 各步: {'compile': True, 'grow': False, 'health': {'date': '2026-08-24', 'total_notes': 10970, 'missing_frontmatter': 915, 'broken_links': 3638, 'broken_samples': [('temporalComplexity', 281), ('Neuromorphic_computing', 181), ('soc', 160), ('HebbianLimitCycleLearning', 149), ('AutonomousSpikingDynamics', 71), ('Neuromorphic_Substrate', 40), ('EventDrivenAttention', 36), ('GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_', 33), ('CoDesignedOnlineContinualLearning', 27), ('heterogeneous_integration', 22), ('emergent computation', 22), ('CoaxialLikeTGV', 21), ('GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查', 19), ('GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述', 18), ('topology reconfiguration', 18), ('heterogeneous integration', 18), ('inest', 16), ('The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025', 15), ('tcc', 15), ('GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_', 14), ('GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景', 14), ('GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破', 13), ('advanced packaging', 13), ('catastrophic forgetting', 12), ('tools', 12)], 'orphan_notes': 3464}, 'grow_concepts': ['HebbianLimitCycleLearning', 'AutonomousSpikingDynamics', 'Neuromorphic_Substrate', 'EventDrivenAttention', 'CoDesignedOnlineContinualLearning', 'emergent computation', 'CoaxialLikeTGV', 'topology reconfiguration'], 'phase4': {'import_processor': True, 'task_recommender': True, 'research_evolution': True, 'cross_domain_insight': True}, 'homepage': True, 'git': True} ===

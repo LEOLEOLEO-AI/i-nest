@@ -77,3 +77,43 @@
 [09:51:39] [GN] Google News RSS...
 [09:52:01]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
 [09:52:23]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[09:52:45]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[09:53:07]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[09:53:08] [GN] 0 new articles
+
+  Total: 0 new items to inbox
+[09:53:08] [Process] LLM classify (free tier, limit=20)...
+[09:53:30] [Process] Classified: 0
+[09:53:30] [Genspark] Generating research brief...
+[09:53:31] [Genspark] Research brief written: genspark_research_brief.md
+[09:53:31] [Graph] Scanning wiki links...
+[09:53:39] [Graph] 12228 files, 111978 links
+[09:55:30] [Graph] Exported: 12228 nodes, 107333 edges
+[09:55:30] [Graph] 0 missing backlinks
+Exception in thread Thread-1 (_readerthread):
+Traceback (most recent call last):
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\subprocess.py", line 1515, in _readerthread
+    buffer.append(fh.read())
+  File "C:\Users\LEO\AppData\Local\Programs\Python\Python310\lib\codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa1 in position 19: invalid start byte
+[09:55:30] [DailyGen] Daily_Action + Focus + Insights generated
+[09:55:30] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+0(arXiv)+0(GN) | Written: 0 new papers
+  Processed: 0 | Nodes: 12228 edges: 107333 | Missing links: 0 | Genspark: OK
+  Elapsed: 2946s
+============================================================
+[09:55:31] [State] research_state.json updated
+[09:55:31] [Evolution] Evidence + hypotheses updated
+[09:56:18] [Wiki] Karpathy compiler: raw → wiki done
+[09:56:19] [Insight] Cross-domain bridges updated
+[09:56:49] [Tasks] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\task_recommender.py']' timed out after 30 seconds
+[09:56:49] [Dashboard] Live dashboard published
+[09:56:50] [Homepage] Home.md auto-refreshed

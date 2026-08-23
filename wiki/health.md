@@ -1,35 +1,35 @@
 # Knowledge Health Report
 
-**Generated**: 2026-08-23
-**Last Compile**: 2026-08-22
+**Generated**: 2026-08-24
+**Last Compile**: 2026-08-23
 
 ## Stats
-- **Total Concepts**: 5181
+- **Total Concepts**: 5140
 - **Total Articles**: 1006
-- **Orphan Concepts**: 3028
+- **Orphan Concepts**: 3004
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
-- [[TopologicalSwarmTopology]]
-- [[LatencyScaledDynamics]]
-- [[Oscillatory_MultiObjective_Optimization]]
-- [[ObjectDirectedPhenomenology]]
-- [[SleepEEGCriticality]]
-- [[TopologyPreservingMetricEmbedding]]
-- [[NonHermitian_Random_Matrix_Spectra]]
-- [[ThermodynamicComputingIndicator]]
-- [[Temporal_Error_Propagation]]
-- [[SpikingTemporalCoding]]
-- [[LiftingOperator]]
-- [[FLAME_Lab_PhD_Admissions]]
-- [[Invertible_Phases]]
-- [[DailyResearchDigest]]
-- [[InterconnectAwarePartitioning]]
-- [[Physical_Topology_Mapping]]
-- [[STDP_GraphLearning]]
-- [[InSitu_Adjoint_Wave_Control]]
-- [[MucosalBarrierTopology]]
-- [[Critical_Region_Extension]]
+- [[Scale_Free_Hierarchy]]
+- [[ReceptiveField_Processing]]
+- [[Expressivity_Bounds]]
+- [[Large_Scale_Variational_Optimization]]
+- [[CriticalSlowingDown]]
+- [[Reservoir_Transient_Dynamics]]
+- [[周末漫谈：高维流形上的神经网络收敛——Transformer 的数学本质]]
+- [[LongRangeNonlinearSigmaModel]]
+- [[EarlyVisualCortex_Alignment]]
+- [[NetworkCentralityMetrics]]
+- [[Neuromorphic_3DHI]]
+- [[QuantumMultiCoreArchitectures]]
+- [[Oscillator_Network_Invariants]]
+- [[SingularitySpectrum]]
+- [[HybridMemristorArray]]
+- [[ModelToChipCompilation]]
+- [[Stochastic_Binary_State_Update]]
+- [[PolarTrajectorySpiking]]
+- [[OpportunisticRoutingRL]]
+- [[Graph_Embedded_Markers]]
 
 ## Research Gaps
 

@@ -1,50 +1,24 @@
 ---
-title: "EventDrivenAttention"
-type: concept
-domain: iNEST
-created: 2026-08-05
+provenance: derived
+type: concept-stub
 auto: true
+created: 2026-08-24
+refs: 6
 ---
+
 # EventDrivenAttention
 
-**Domain**: iNEST
-**First mentioned**: auto-extracted
-**Last updated**: 2026-08-04
+> 由 self_evolve 自动生成的占位概念（被引用 36 次，来源尚未成稿）。
 
-## Definition
-A spike-based attention mechanism where attention weights are computed using spike timing or rates, replacing dense matrix multiplications with sparse, event-triggered operations. Reduces computational and energy overhead in transformer models, making them suitable for energy-constrained neuromorphic and in-network processing environments.
 
-## Context
-Auto-extracted concept from raw material compilation.
+## 引用来源
 
-## Related Work
+- [[memory]]
+- [[2026-08-23]]
+- [[vault_health]]
+- [[backlinks]]
+- [[index]]
+- [[AthermalDynamics]]
 
-[[Bidirectional_Temporal_Enhancement]]
-[[BioPlausiblePredictiveCoding]]
-[[DiscreteSTDP]]
-[[Dynamic_Expert_Fusion]]
-[[Emergent_Intelligence_Threshold]]
-[[Endocrine_Modulated_Network_State]]
-[[ExactFiringRateModel]]
-[[Intelligence_Emergence]]
-[[IntrinsicTimingSTDP]]
-[[Memristive_Topology]]
-[[Network_Topology_Design]]
-[[NeuralNetworkSpectralAnalysis]]
-[[Neuromorphic_Computing]]
-[[PhaseLockedTopologyMapping]]
-[[RecursiveSelfReferentialArchitecture]]
-[[STDP_Plasticity]]
-[[Spike_Encoding_of_fMRI]]
-[[Spiking_Mamba_Block]]
-[[Spiking_Neural_Network]]
-[[Synaptic_Plasticity]]
-[[Temporally_Precise_Training_Parallelization]]
-[[iNEST]]
-[[智造讲堂：智能制造与装备发展路径 (1)]]
 
-## Sources
-- See wiki/articles/ for source article summaries
-
-## Open Questions
-- *(Explore connections to other concepts)*
+_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_

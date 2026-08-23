@@ -3814,5 +3814,318 @@
       "push 失败, 尝试 pull --no-rebase 后重推: behind\nhint: its remote counterpart. If you want to integrate the remote changes,\nhint: use 'git pull' before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\n",
       "⚠️ 重推仍失败: behind\nhint: its remote counterpart. If you want to integrate the remote changes,\nhint: use 'git pull' before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\n"
     ]
+  },
+  {
+    "date": "2026-08-23",
+    "time": "2026-08-23T09:08:43.578968",
+    "steps": {
+      "compile": true,
+      "grow": false,
+      "health": {
+        "date": "2026-08-23",
+        "total_notes": 10997,
+        "missing_frontmatter": 912,
+        "broken_links": 3737,
+        "broken_samples": [
+          [
+            "temporalComplexity",
+            281
+          ],
+          [
+            "spiking neural network",
+            231
+          ],
+          [
+            "Neuromorphic_computing",
+            181
+          ],
+          [
+            "soc",
+            161
+          ],
+          [
+            "reservoir computing",
+            58
+          ],
+          [
+            "EEGToNeuromorphicMapping",
+            51
+          ],
+          [
+            "neuromorphic substrate",
+            48
+          ],
+          [
+            "EventDrivenComputation",
+            34
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_",
+            33
+          ],
+          [
+            "gsk summarize",
+            30
+          ],
+          [
+            "synaptic plasticity",
+            28
+          ],
+          [
+            "temporal coding",
+            27
+          ],
+          [
+            "CoDesignedOnlineContinualLearning",
+            26
+          ],
+          [
+            "heterogeneous_integration",
+            21
+          ],
+          [
+            "emergent computation",
+            21
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查",
+            19
+          ],
+          [
+            "GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述",
+            18
+          ],
+          [
+            "topology reconfiguration",
+            17
+          ],
+          [
+            "heterogeneous integration",
+            17
+          ],
+          [
+            "The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025",
+            15
+          ],
+          [
+            "inest",
+            15
+          ],
+          [
+            "GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_",
+            14
+          ],
+          [
+            "GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景",
+            14
+          ],
+          [
+            "tcc",
+            14
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破",
+            13
+          ]
+        ],
+        "orphan_notes": 3477
+      },
+      "grow_concepts": [
+        "spiking neural network",
+        "reservoir computing",
+        "EEGToNeuromorphicMapping",
+        "neuromorphic substrate",
+        "EventDrivenComputation",
+        "gsk summarize",
+        "synaptic plasticity",
+        "temporal coding"
+      ],
+      "phase4": {
+        "import_processor": true,
+        "task_recommender": true,
+        "research_evolution": true,
+        "cross_domain_insight": true
+      },
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | _arXiv日报_9篇___Genspark_Claw.md\n[09:48:46]   LLM extracted 5 additional concepts (keyword: 0)\n[09:48:46] Phase 2-3: 593 articles, 1563 concepts\n[09:51:27] Phase 4: Index and backlinks updated\n[09:52:06] Phase 5: Health report generated\n[09:52:06] === Compile complete: 593 articles, 1563 concepts ===\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=1 | [09:52:07] wiki_grow start\n  concepts loaded: 5181\n[safe-delete][SAFE_DELETE_BULK_CONFIRM_REQUIRED] {\"count\":50,\"threshold\":50,\"scope\":\"turn\",\"targets\":[\"D:\\\\Obsidian\\\\vault\\\\wiki\\\\concepts\\\\EventDrivenAttention.md\"],\"targetCount\":1}\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 10997 | 真正断链 3737 | 孤儿 3477 | 缺FM 912 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "已补全 8 个缺失概念: ['spiking neural network', 'reservoir computing', 'EEGToNeuromorphicMapping', 'neuromorphic substrate', 'EventDrivenComputation', 'gsk summarize', 'synaptic plasticity', 'temporal coding']",
+      "运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...",
+      "import_processor 退出码=0 | Genspark=0, 得到大脑=0, Codex=0\n[09:52:47] Total new files in raw/: 0\n[09:52:47] Inbox pending: 7 files\n[09:52:47] New imports detected — wiki_compiler.py should be triggered next\n[09:52:47] === Done ===\n",
+      "task_recommender 退出码=0 | sights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n[09:53:26] === Done ===\n",
+      "research_evolution 退出码=0 | [09:53:26] === Research Evolution Engine ===\n[09:53:26] Hypothesis updates: 0\n[09:53:27] Research directions: 0\n[09:53:27] Report: wiki/evolution_report.md\n[09:53:27] === Done ===\n",
+      "cross_domain_insight 退出码=0 | k_Claw (TCC:2 iNEST:4)\n  2026_08_21_2608_19239 (TCC:2 iNEST:4)\n  2026_08_21_2510_02545 (TCC:2 iNEST:4)\n  2026_08_21_2608_19907 (TCC:2 iNEST:3)\n\nReport: D:\\Obsidian\\vault\\wiki\\cross_domain_insights.md\n",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [09:53:28] === Homepage Generator ===\n[09:53:29] 70_Dashboard/data.js generated\n[09:53:29] Home.md generated (5363 chars)\n[09:53:29] === Done ===\n",
+      "git add 部分目录无匹配(正常): The following paths are ignored by one of your .gitignore files:\nknowledge_graph\nhint: Use -f if you",
+      "已提交 2177 个文件。",
+      "已推送 github main。"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "time": "2026-08-24T03:00:46.194457",
+    "steps": {
+      "compile": true,
+      "grow": false,
+      "health": {
+        "date": "2026-08-24",
+        "total_notes": 10970,
+        "missing_frontmatter": 915,
+        "broken_links": 3638,
+        "broken_samples": [
+          [
+            "temporalComplexity",
+            281
+          ],
+          [
+            "Neuromorphic_computing",
+            181
+          ],
+          [
+            "soc",
+            160
+          ],
+          [
+            "HebbianLimitCycleLearning",
+            149
+          ],
+          [
+            "AutonomousSpikingDynamics",
+            71
+          ],
+          [
+            "Neuromorphic_Substrate",
+            40
+          ],
+          [
+            "EventDrivenAttention",
+            36
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_",
+            33
+          ],
+          [
+            "CoDesignedOnlineContinualLearning",
+            27
+          ],
+          [
+            "heterogeneous_integration",
+            22
+          ],
+          [
+            "emergent computation",
+            22
+          ],
+          [
+            "CoaxialLikeTGV",
+            21
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查",
+            19
+          ],
+          [
+            "GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述",
+            18
+          ],
+          [
+            "topology reconfiguration",
+            18
+          ],
+          [
+            "heterogeneous integration",
+            18
+          ],
+          [
+            "inest",
+            16
+          ],
+          [
+            "The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025",
+            15
+          ],
+          [
+            "tcc",
+            15
+          ],
+          [
+            "GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_",
+            14
+          ],
+          [
+            "GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景",
+            14
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破",
+            13
+          ],
+          [
+            "advanced packaging",
+            13
+          ],
+          [
+            "catastrophic forgetting",
+            12
+          ],
+          [
+            "tools",
+            12
+          ]
+        ],
+        "orphan_notes": 3464
+      },
+      "grow_concepts": [
+        "HebbianLimitCycleLearning",
+        "AutonomousSpikingDynamics",
+        "Neuromorphic_Substrate",
+        "EventDrivenAttention",
+        "CoDesignedOnlineContinualLearning",
+        "emergent computation",
+        "CoaxialLikeTGV",
+        "topology reconfiguration"
+      ],
+      "phase4": {
+        "import_processor": true,
+        "task_recommender": true,
+        "research_evolution": true,
+        "cross_domain_insight": true
+      },
+      "homepage": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | [03:00:46] === Wiki Compiler v1.0 ===\n[03:00:46] LLM enabled: True\n[03:00:46] Last compile: 2026-08-23\n[03:00:46] Phase 1: Found 0 new/changed raw files\n[03:00:46] No new files to process. Running health check only.\n[03:02:12] Done.\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=1 | [03:02:13] wiki_grow start\n  concepts loaded: 5140\n[safe-delete][SAFE_DELETE_BULK_CONFIRM_REQUIRED] {\"count\":50,\"threshold\":50,\"scope\":\"turn\",\"targets\":[\"D:\\\\Obsidian\\\\vault\\\\wiki\\\\concepts\\\\MultiObjectiveRouting.md\"],\"targetCount\":1}\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 10970 | 真正断链 3638 | 孤儿 3464 | 缺FM 915 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "已补全 8 个缺失概念: ['HebbianLimitCycleLearning', 'AutonomousSpikingDynamics', 'Neuromorphic_Substrate', 'EventDrivenAttention', 'CoDesignedOnlineContinualLearning', 'emergent computation', 'CoaxialLikeTGV', 'topology reconfiguration']",
+      "运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...",
+      "import_processor 退出码=0 | cessor ===\n[03:04:06] Genspark dir not found, skipping\n[03:04:06] Imported: Genspark=0, 得到大脑=0, Codex=0\n[03:04:06] Total new files in raw/: 0\n[03:04:06] Inbox pending: 0 files\n[03:04:06] === Done ===\n",
+      "task_recommender 退出码=0 | sights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n[03:04:35] === Done ===\n",
+      "research_evolution 退出码=0 | [03:04:35] === Research Evolution Engine ===\n[03:04:36] Hypothesis updates: 0\n[03:04:36] Research directions: 0\n[03:04:36] Report: wiki/evolution_report.md\n[03:04:36] === Done ===\n",
+      "cross_domain_insight 退出码=0 | k_Claw (TCC:2 iNEST:4)\n  2026_08_21_2608_19239 (TCC:2 iNEST:4)\n  2026_08_21_2510_02545 (TCC:2 iNEST:4)\n  2026_08_21_2608_19907 (TCC:2 iNEST:3)\n\nReport: D:\\Obsidian\\vault\\wiki\\cross_domain_insights.md\n",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [03:04:37] === Homepage Generator ===\n[03:04:37] 70_Dashboard/data.js generated\n[03:04:37] Home.md generated (5358 chars)\n[03:04:37] === Done ===\n",
+      "git add 部分目录无匹配(正常): The following paths are ignored by one of your .gitignore files:\nknowledge_graph\nhint: Use -f if you",
+      "已提交 23 个文件。",
+      "push 失败, 尝试 pull --no-rebase 后重推: error: src refspec main does not match any\nerror: failed to push some refs to 'github.com:LEOLEOLEO-AI/i-nest.git'\n",
+      "⚠️ 重推仍失败: error: src refspec main does not match any\nerror: failed to push some refs to 'github.com:LEOLEOLEO-AI/i-nest.git'\n"
+    ]
   }
 ]

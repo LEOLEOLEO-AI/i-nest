@@ -1,49 +1,24 @@
 ---
-title: "AutonomousSpikingDynamics"
-type: concept
-domain: iNEST
-created: 2026-08-05
+provenance: derived
+type: concept-stub
 auto: true
+created: 2026-08-24
+refs: 6
 ---
+
 # AutonomousSpikingDynamics
 
-**Domain**: iNEST
-**First mentioned**: auto-extracted
-**Last updated**: 2026-08-04
+> 由 self_evolve 自动生成的占位概念（被引用 71 次，来源尚未成稿）。
 
-## Definition
-Self-sustained, event-driven neural activity that emerges from local interactions without external timing control, driving computation through spike timing and rate. Enables decentralized, event-based processing that reduces power consumption and supports temporal coding, critical for scalable neuromorphic systems.
 
-## Context
-Auto-extracted concept from raw material compilation.
+## 引用来源
 
-## Related Work
+- [[vault_health]]
+- [[backlinks]]
+- [[index]]
+- [[AddressRedundancyElimination]]
+- [[Agent_Interaction_Sequencing]]
+- [[Autonomous_Spiking_Dynamics]]
 
-[[Bidirectional_Temporal_Enhancement]]
-[[DelayCodedWorkingMemory]]
-[[Dynamic_Expert_Fusion]]
-[[Emergent_Intelligence_Threshold]]
-[[EventDrivenAttention]]
-[[EventDrivenTrajectoryEncoding]]
-[[Event_Driven_Architecture]]
-[[InputAdaptiveComputation]]
-[[Intelligence_Emergence]]
-[[Network_Topology_Design]]
-[[Neuromorphic_Computing]]
-[[Neuromorphic_Sensor_Fusion]]
-[[Neuromorphic_Spiking]]
-[[PhaseLockedTopologyMapping]]
-[[RecursiveSelfReferentialArchitecture]]
-[[STDP_Learning]]
-[[Spike_Encoding_of_fMRI]]
-[[Spiking_Neural_Network]]
-[[Temporal_Coding]]
-[[iNEST]]
-[[temporal coding]]
-[[智造讲堂：智能制造与装备发展路径 (1)]]
 
-## Sources
-- See wiki/articles/ for source article summaries
-
-## Open Questions
-- *(Explore connections to other concepts)*
+_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_

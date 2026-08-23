@@ -1,69 +1,24 @@
 ---
-title: Neuromorphic_Substrate
-tags: []
+provenance: derived
+type: concept-stub
+auto: true
+created: 2026-08-24
+refs: 6
 ---
-**Domain**: iNEST
-**First mentioned**: auto-extracted
-**Last updated**: 2026-08-01
 
-## Definition
-A hardware platform that mimics biological neural systems using memristive devices, supporting spike-based or rate-based learning and inference. This provides the physical foundation for iNEST, allowing in-network neuromorphic processing that can adapt and learn in real time within the network fabric.
+# Neuromorphic_Substrate
 
-## Context
-Auto-extracted concept from raw material compilation.
+> 由 self_evolve 自动生成的占位概念（被引用 40 次，来源尚未成稿）。
 
-## Related Work
 
-[[ANN动力学]]
-[[Attention_Residuals]]
-[[Complex_System]]
-[[Complex_System_Theory]]
-[[Contested_Prior_Resolution]]
-[[Contested_Priors_Mechanism]]
-[[DataProvenanceIntegrity]]
-[[EmergentOrder]]
-[[GenerativeTopologyModels]]
-[[Hardware_Accelerated_SNN]]
-[[InNetwork_CST_Offload]]
-[[Intelligence_Emergence]]
-[[MacroscopicDescriptor]]
-[[Memristive_ANN_Hardware]]
-[[Memristor_Network]]
-[[Memristor_Synapse]]
-[[MetricComputationAuthenticity]]
-[[MultiplicativeGainCondition]]
-[[MultiplicativeGain]]
-[[Network_Topology_Design]]
-[[Neuromorphic_Computing]]
-[[Neuromorphic_computing]]
-[[Neuromorphic_computing_architecture]]
-[[Nonlinear_Gain]]
-[[Order_Flexibility_Duality]]
-[[RenormalizationGroup_ScalingLaws]]
-[[Renormalization_Group_Convergence]]
-[[Reservoir_Computing]]
-[[Residual_Connection]]
-[[Residual_Connection_Removal]]
-[[SDI_Bond]]
-[[SDI_STDP]]
-[[SNN]]
-[[STDP_Plasticity]]
-[[STDP_iNEST]]
-[[ScaleFreeNetwork]]
-[[Small_World_Network]]
-[[SpatiotemporalComplexityIndex]]
-[[Spike_Encoding_of_fMRI]]
-[[Spike_timing_dependent_plasticity_learning_rule]]
-[[Spiking_Neural_Network]]
-[[Spiking_neural_network_dynamics]]
-[[Synaptic_Plasticity]]
-[[SystemLevelNonlinearity]]
-[[iNEST]]
-[[temporalComplexity]]
-[[三原理协同_FEP_STDP_最小作用量]]
+## 引用来源
 
-## Sources
-- See wiki/articles/ for source article summaries
+- [[vault_health]]
+- [[backlinks]]
+- [[index]]
+- [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+- [[ActiveMatterComputing]]
+- [[AINext_Initiative]]
 
-## Open Questions
-- *(Explore connections to other concepts)*
+
+_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
