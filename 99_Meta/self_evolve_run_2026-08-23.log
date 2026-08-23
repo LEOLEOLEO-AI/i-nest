@@ -1,0 +1,17 @@
+[self_evolve] === 自进化编排开始 ===
+[self_evolve] 运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...
+[self_evolve] wiki_compiler 退出码=0 | _arXiv日报_9篇___Genspark_Claw.md
+[09:48:46]   LLM extracted 5 additional concepts (keyword: 0)
+[09:48:46] Phase 2-3: 593 articles, 1563 concepts
+[09:51:27] Phase 4: Index and backlinks updated
+[09:52:06] Phase 5: Health report generated
+[09:52:06] === Compile complete: 593 articles, 1563 concepts ===
+
+[self_evolve] 运行 wiki_grow 交叉链接/去重...
+[self_evolve] wiki_grow 退出码=1 | [09:52:07] wiki_grow start
+  concepts loaded: 5181
+[safe-delete][SAFE_DELETE_BULK_CONFIRM_REQUIRED] {"count":50,"threshold":50,"scope":"turn","targets":["D:\\Obsidian\\vault\\wiki\\concepts\\EventDrivenAttention.md"],"targetCount":1}
+
+[self_evolve] 运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...
+[self_evolve] 健康自检: 笔记 10997 | 真正断链 3737 | 孤儿 3477 | 缺FM 912 -> vault_health.md
+[self_evolve] 自我生长: 补全高频缺失概念占位笔记...

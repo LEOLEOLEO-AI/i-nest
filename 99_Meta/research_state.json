@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-22T18:30:06.282386",
+  "generated": "2026-08-23T09:08:03.023036",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 10545,
+    "total_md": 10633,
     "inbox_00": 172,
-    "processing_20": 584,
-    "tcc_30": 1957,
-    "inest_40": 1439,
-    "output_50": 457,
-    "moc_60": 62
+    "processing_20": 650,
+    "tcc_30": 1894,
+    "inest_40": 1415,
+    "output_50": 458,
+    "moc_60": 63
   },
   "services": {
     "preview_server_8899": false,
@@ -102,30 +102,21 @@
     ]
   },
   "git": {
-    "uncommitted": 17,
+    "uncommitted": 8,
     "details": [
-      "M .obsidian/workspace.json",
-      " M .workbuddy/automations/automation-1785546922604/memory.md",
-      " M 20_Processing/02_Fulltext_Analysis/2026-07-20_NeuroTrain_fulltext_analysis.md",
-      " D \"20_Processing/external_imports/kb_DARPA-research_\\350\\266\\205\\350\\266\\212\\346\\221\\251\\345\\260\\224\\345\\256\\232\\345\\276\\213_DARPA\\345\\276\\256\\347\\224\\265\\345\\255\\220\\344\\270\\216\\345\\215\\212\\345\\257\\274\\344\\275\\223\\346\\210\\230\\347\\225\\245\\346\\267\\261\\345\\272\\246\\347\\240\\224\\347\\251\\266\\346\\212\\245\\345\\221\\212.md\"",
-      " D \"20_Processing/external_imports/kb_DARPA-research_\\351\\207\\215\\345\\241\\221\\345\\233\\275\\351\\230\\262\\345\\210\\266\\351\\200\\240_DARPA\\346\\235\\220\\346\\226\\231\\347\\247\\221\\345\\255\\246\\344\\270\\216\\345\\205\\210\\350\\277\\233\\345\\210\\266\\351\\200\\240\\346\\210\\230\\347\\225\\245\\346\\267\\261\\345\\272\\246\\350\\247\\243\\346\\236\\220.md\"",
-      " M 90_System/scripts/research_publisher.py",
-      " M 90_System/scripts/research_task_proposals.py",
-      " M 99_Meta/evolution_queue.json",
+      "M 99_Meta/evolution_queue.json",
       " M 99_Meta/hypothesis_registry.json",
       " M 99_Meta/knowledge_compile_state.json",
-      " M 99_Meta/self_evolve_log.json",
-      " M 99_Meta/self_evolve_run_2026-08-22.log",
-      "?? .workbuddy/memory/2026-08-21.md",
-      "?? \"20_Processing/20_KnowledgeBase/\\347\\201\\265\\346\\204\\237\\345\\272\\223/\\345\\205\\255\\350\\247\\204\\345\\210\\231\\346\\224\\257\\346\\214\\201\\347\\232\\204\\347\\275\\221\\347\\273\\234\\350\\207\\252\\347\\224\\237\\351\\225\\277\\345\\212\\250\\345\\212\\233\\345\\255\\246.md\"",
-      "?? 20_Processing/21_Pending/",
-      "?? 90_System/scripts/home_v2_generator.py",
-      "?? 90_System/scripts/knowledge_compiler.py"
+      " M 99_Meta/meta_evolution_log.json",
+      "?? 60_MOC/12_Knowledge_Review_2026-08-23.md",
+      "?? 60_MOC/weekly_health_20260823.md",
+      "?? 99_Meta/evolution_proposals/2026-08-23.md",
+      "?? logs/pipeline_guard_20260823_090624.log"
     ]
   },
   "health": {
-    "latest": "weekly_health_20260816.md",
-    "count": 4
+    "latest": "weekly_health_20260823.md",
+    "count": 5
   },
   "task_review": {
     "pending_review": 7,

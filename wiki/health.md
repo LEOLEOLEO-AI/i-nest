@@ -1,59 +1,40 @@
 # Knowledge Health Report
 
-**Generated**: 2026-08-22
-**Last Grow**: 2026-08-22
+**Generated**: 2026-08-23
+**Last Compile**: 2026-08-22
 
 ## Stats
-- **Total Concepts**: 3621
-- **Total Articles**: 922
-- **Orphan Concepts**: 1511
+- **Total Concepts**: 5181
+- **Total Articles**: 1006
+- **Orphan Concepts**: 3028
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
-- [[00_ADR_决策记录]]
-- [[2025年10月11号 日记]]
-- [[2026新年巨献_追问大模型智能]]
-- [[400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述]]
-- [[9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊]]
-- [[AIInnovationPlatform]]
-- [[AI_Infrastructure_Commercialization]]
-- [[AI_Material_Design_Production_Gap]]
-- [[AI_Orchestrator]]
-- [[AI_Principal]]
-- [[Academic_Integrity_Assessment]]
-- [[AdaptiveGraphDiffusion]]
-- [[AgranularLimbicInclusion]]
-- [[AlgorithmicPhaseTransition]]
-- [[Alpha_Coefficient_Phase_Transition_Amplification]]
-- [[AmortizedRegretSeparation]]
-- [[AnalyticalMobilityEdgeSolution]]
-- [[AperiodicLatticeTransport]]
-- [[ArchitecturalGrounding]]
-- [[ArchitecturalIllusion]]
-- [[ArxivMetadataEnrichment]]
-- [[AsymmetricTimeDelayedInteractions]]
-- [[Asymmetric_Technology_Overmatch]]
-- [[Asymmetric_Time_Delayed_Network_Dynamics]]
-- [[AthermalRandomFieldBlumeCapel]]
-- [[AtomicGeometryToElectronicTopologyMapping]]
-- [[AttentionLikeHebbianPlasticity]]
-- [[Attention_ResidualCancellation]]
-- [[Automated_Assessment_Framework]]
-- [[AutonomousAirCombat]]
-- [[AutonomousCombatScenarios]]
-- [[Autonomous_Unmanned_Combat_Coordination]]
-- [[B3_Competition_Landscape]]
-- [[B3_Paper_Competitive_Landscape]]
-- [[B7_TCC OneFabric_论文计划]]
-- [[BandedNonHermitianRandomMatrix]]
-- [[Barrier_Hierarchy_Topology]]
-- [[Battery_Aware_Scheduling]]
-- [[Battlefield_Medicine_Neuromorphic_Integration]]
-- [[BayesianDiffusionGeneralizationPhaseTransition]]
-- ... 1471 more
+- [[TopologicalSwarmTopology]]
+- [[LatencyScaledDynamics]]
+- [[Oscillatory_MultiObjective_Optimization]]
+- [[ObjectDirectedPhenomenology]]
+- [[SleepEEGCriticality]]
+- [[TopologyPreservingMetricEmbedding]]
+- [[NonHermitian_Random_Matrix_Spectra]]
+- [[ThermodynamicComputingIndicator]]
+- [[Temporal_Error_Propagation]]
+- [[SpikingTemporalCoding]]
+- [[LiftingOperator]]
+- [[FLAME_Lab_PhD_Admissions]]
+- [[Invertible_Phases]]
+- [[DailyResearchDigest]]
+- [[InterconnectAwarePartitioning]]
+- [[Physical_Topology_Mapping]]
+- [[STDP_GraphLearning]]
+- [[InSitu_Adjoint_Wave_Control]]
+- [[MucosalBarrierTopology]]
+- [[Critical_Region_Extension]]
+
+## Research Gaps
 
 ## Next Steps
-1. Run `[[wiki_compiler.py]]` after each new raw import.
-2. Run `[[wiki_grow.py]]` to connect concepts (post-compile).
-3. Review concepts in [[index|Wiki Index]] for accuracy.
-4. Manually enrich high-priority concept definitions.
+1. Run `[[wiki_compiler.py]]` after each pipeline import
+2. Review concepts in [[index|Wiki Index]] for accuracy
+3. Add manual concept definitions for high-priority terms
+4. Explore cross-domain connections between TCC ↔ iNEST concepts

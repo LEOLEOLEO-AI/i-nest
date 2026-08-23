@@ -9,7 +9,7 @@ auto: true
 
 **Domain**: iNEST
 **First mentioned**: auto-extracted
-**Last updated**: 2026-08-04
+**Last updated**: 2026-08-23
 
 ## Definition
 A method for condensing spiking data streams into compact summaries using gradient-based spiking kernels. Reduces data volume in network nodes, enabling efficient in-network processing and reduced latency.

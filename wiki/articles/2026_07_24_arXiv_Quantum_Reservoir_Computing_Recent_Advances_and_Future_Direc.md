@@ -1,15 +1,8 @@
----
-title: "2026-07-24_arXiv_Quantum Reservoir Computing Recent Advances and Future Direc"
-type: article-summary
-domain: Cross
-created: 2026-08-04
-auto: true
----
 # 2026-07-24_arXiv_Quantum Reservoir Computing Recent Advances and Future Direc
 
 **Domain**: Cross
 **Source**: 00_Inbox\_pipeline_insights\2026-07-24_arXiv_Quantum Reservoir Computing Recent Advances and Future Direc.md
-**Compiled**: 2026-08-04
+**Compiled**: 2026-08-23
 
 ## Summary
 title: "Quantum Reservoir Computing: Recent Advances and Future Directions" url: http://arxiv.org/abs/2607.18552v1 tags: [inbox, inest, arxiv] **Citations**: 0 | **References**: 0 **闁剧偓甯?*: [http://arxiv.org/abs/2607.18552v1](http://arxiv.org/abs/2607.18552v1)
@@ -19,12 +12,3 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Quantum_Reservoir_Computing]]
-[[Reservoir_Computing]]
-[[TCC]]
-[[iNEST]]
-[[inest]]

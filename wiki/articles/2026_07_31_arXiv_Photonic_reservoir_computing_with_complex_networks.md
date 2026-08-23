@@ -1,15 +1,8 @@
----
-title: "2026-07-31_arXiv_Photonic reservoir computing with complex networks"
-type: article-summary
-domain: Cross
-created: 2026-08-04
-auto: true
----
 # 2026-07-31_arXiv_Photonic reservoir computing with complex networks
 
 **Domain**: Cross
 **Source**: 00_Inbox\_pipeline_insights\2026-07-31_arXiv_Photonic reservoir computing with complex networks.md
-**Compiled**: 2026-08-04
+**Compiled**: 2026-08-23
 
 ## Summary
 title: "Photonic reservoir computing with complex networks" url: http://arxiv.org/abs/2607.23285v1 tags: [inbox, general, arxiv] **Citations**: 0 | **References**: 0 **闁剧偓甯?*: [http://arxiv.org/abs/2607.23285v1](http://arxiv.org/abs/2607.23285v1)
@@ -19,13 +12,3 @@ TCC, iNEST, topology
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Network_Topology_Design]]
-[[PhotonicReservoirComputing]]
-[[Reservoir_Computing]]
-[[TCC]]
-[[iNEST]]
-[[reservoir computing]]

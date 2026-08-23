@@ -1,6 +1,6 @@
 # Research Task Recommendations
 
-**Generated**: 2026-08-22
+**Generated**: 2026-08-23
 **Total**: 17 recommendations
 
 ### 1. [MEDIUM] Hypothesis Test
@@ -48,29 +48,26 @@ H3: iNEST: 脉冲神经网络在晶上系统可实现类脑计算
 **Action**: Process evolution queue item
 
 ### 12. [LOW] Orphan Concepts
-1657 orphan concepts with no incoming links
-**Action**: Link these concepts: 00_ADR_决策记录, 2025年10月11号 日记, 2026新年巨献_追问大模型智能, 400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述, 9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊, AGI面临的挑战_脑机制自底向顶梳理_下部_5万字, AIInnovationPlatform, AI_Infrastructure_Commercialization, AI_Material_Design_Production_Gap, AI_Orchestrator
+3004 orphan concepts with no incoming links
+**Action**: Link these concepts: 00_ADR_决策记录, 2025年10月11号 日记, 2026新年巨献_追问大模型智能, 2_5D_PIM_Chiplet_Integration, 3DGS_Scene_Graph, 400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述, 4H_SiC_SubstrateProcessing, 9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊, AIInnovationPlatform, AI_Forum_Ecosystem
 
 ### 13. [LOW] Recent Output
-Recent: 00_数据真实性审计报告_20260821 (1d ago)
+Recent: 00_刘勤让教授研究方向与成果总结_20260822 (0d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 14. [LOW] Recent Output
-Recent: 00_版本治理台账_20260821 (1d ago)
+Recent: B0_Engineering_v3_Genspark定稿 (0d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 15. [LOW] Recent Output
-Recent: 00_知识库重组方案_20260821 (1d ago)
+Recent: A1_CST_Theory_V31_ARS_REVISED (0d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 16. [LOW] Recent Output
-Recent: 00_成果台账_详细清单_20260821 (1d ago)
+Recent: A1_CST_Theory_V30_CITEKEYS_FULL (0d ago)
 **Action**: Review and incorporate insights into wiki
 
 ### 17. [LOW] Recent Output
-Recent: 00_科研智能体使用手册_20260821 (1d ago)
+Recent: A1_CST_Theory_V30_CITEKEYS (0d ago)
 **Action**: Review and incorporate insights into wiki
 
-
-
-<!-- orphan-cleanup: no MOC found, tagged -->

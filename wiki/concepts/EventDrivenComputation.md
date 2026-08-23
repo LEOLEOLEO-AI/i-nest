@@ -1,50 +1,24 @@
 ---
-title: "EventDrivenComputation"
-type: concept
-domain: iNEST
-created: 2026-08-05
+provenance: derived
+type: concept-stub
 auto: true
+created: 2026-08-23
+refs: 6
 ---
+
 # EventDrivenComputation
 
-**Domain**: iNEST
-**First mentioned**: auto-extracted
-**Last updated**: 2026-08-04
+> 由 self_evolve 自动生成的占位概念（被引用 34 次，来源尚未成稿）。
 
-## Definition
-A processing paradigm where computation is triggered only by incoming spike events, rather than by clock cycles, reducing idle power consumption. Aligns with the sparse, asynchronous nature of neural communication, making it a foundational principle for energy-efficient neuromorphic computing in network nodes.
 
-## Context
-Auto-extracted concept from raw material compilation.
+## 引用来源
 
-## Related Work
+- [[vault_health]]
+- [[backlinks]]
+- [[index]]
+- [[AdaptiveFrequencyResonateAndFire]]
+- [[AsynchronousEventDrivenComputation]]
+- [[BurstCoding]]
 
-[[AI_Driven_Architecture_Search]]
-[[AI_Forum_Demo_Narrative]]
-[[Baseline_Draft_Status]]
-[[BioPlausiblePredictiveCoding]]
-[[BurstGatedRouting]]
-[[Continuous_Spatiotemporal_State_Propagation]]
-[[Dynamic_Expert_Fusion]]
-[[EEGToNeuromorphicMapping]]
-[[Emergent_Intelligence_Threshold]]
-[[EventDrivenRiskAssessment]]
-[[Event_Driven_Communication]]
-[[Intelligence_Emergence]]
-[[Interconnect_Routing]]
-[[Memristive_Topology]]
-[[Network_Topology_Design]]
-[[NeuralNetworkSpectralAnalysis]]
-[[Neuromorphic_Computing]]
-[[RecursiveSelfReferentialArchitecture]]
-[[Spike_Encoding_of_fMRI]]
-[[Spiking_Neural_Network]]
-[[iNEST]]
-[[neuromorphic computing]]
-[[智造讲堂：智能制造与装备发展路径 (1)]]
 
-## Sources
-- See wiki/articles/ for source article summaries
-
-## Open Questions
-- *(Explore connections to other concepts)*
+_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_

@@ -48,3 +48,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- CriticalExponentScaling (merged 2026-08-23)

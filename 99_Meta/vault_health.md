@@ -1,37 +1,37 @@
 # 全库健康自检
 
-> 生成: 2026-08-22  ·  链接解析贴近 Obsidian 行为
+> 生成: 2026-08-23  ·  链接解析贴近 Obsidian 行为
 
-- 笔记总数(可链接目标): **9310**
-- 缺 frontmatter 笔记: **401**
-- 真正断链(目标不存在): **1951**
+- 笔记总数(可链接目标): **10997**
+- 缺 frontmatter 笔记: **912**
+- 真正断链(目标不存在): **3737**
 
 ## 断链样本(按被引用次数排序, 优先补全)
 
+- (×281) `[[temporalComplexity]]`
+- (×231) `[[spiking neural network]]`
+- (×181) `[[Neuromorphic_computing]]`
+- (×161) `[[soc]]`
+- (×58) `[[reservoir computing]]`
+- (×51) `[[EEGToNeuromorphicMapping]]`
+- (×48) `[[neuromorphic substrate]]`
+- (×34) `[[EventDrivenComputation]]`
 - (×33) `[[GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]`
+- (×30) `[[gsk summarize]]`
+- (×28) `[[synaptic plasticity]]`
+- (×27) `[[temporal coding]]`
+- (×26) `[[CoDesignedOnlineContinualLearning]]`
+- (×21) `[[heterogeneous_integration]]`
+- (×21) `[[emergent computation]]`
 - (×19) `[[GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查]]`
 - (×18) `[[GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述]]`
+- (×17) `[[topology reconfiguration]]`
+- (×17) `[[heterogeneous integration]]`
 - (×15) `[[The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025]]`
+- (×15) `[[inest]]`
 - (×14) `[[GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_]]`
 - (×14) `[[GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景]]`
+- (×14) `[[tcc]]`
 - (×13) `[[GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破]]`
-- (×12) `[[GetNote_20260606_100554_kb_iNEST_getnote_1887266194235479456_晶上大脑基础研究课题]]`
-- (×12) `[[GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订]]`
-- (×11) `[[C.elegans]]`
-- (×11) `[[getnote_2026-06-28_拓扑中心计算范式架构研究与液态拓扑生成式计算原型验证项目指南 8.0]]`
-- (×11) `[[GetNote_20260606_100554_kb_DARPA-research_getnote_1896186120829089320_3D异构集成_3DHI_技术深度研究_机遇_挑战与未来路径]]`
-- (×11) `[[GetNote_20260606_100554_kb_iNEST_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景]]`
-- (×11) `[[2025年10月28号 日记]]`
-- (×10) `[[GetNote_20260606_100554_kb_iNEST_getnote_1899812152336800288_吴华强团队与iNEST技术互补]]`
-- (×10) `[[2026-07-01_S2_Coalescent embedding in the hyperbolic space unsupervisedly]]`
-- (×10) `[[GetNote_20260606_100554_kb_DARPA-research_getnote_1896186147673664688_美国DARPA 2025年在研项目深度研究报告_以技术代差重塑未来战争形态]]`
-- (×9) `[[GetNote_20260606_100554_kb_iNEST_getnote_1898552298842526592_神经网络时空协同智能涌现]]`
-- (×9) `[[GetNote_20260606_100554_kb_project-guide_getnote_1906074590464742600_海河实验室]]`
-- (×9) `[[30_TCC\34_Projects\_from_ideas\卫星智能体重大专项建议_v4.md]]`
-- (×9) `[[00_Inbox/_pipeline_insights/八大神经网络，从原理到应用]]`
-- (×8) `[[复杂网络理论奠基之作深度解析_Complex_networks_Structure_and_dynamics_]]`
-- (×8) `[[GetNote_20260606_100554_getnote_1911847292798033216_软件定义晶上系统赋能超线性增益与智能涌现范式报告提纲设计]]`
-- (×8) `[[GetNote_20260606_100554_kb_iNEST_getnote_1898553563710340192_晶圆级神经网络能效革命]]`
-- (×8) `[[GetNote_20260606_100554_kb_iNEST_getnote_1898555559796441760_数字孪生大脑工程化路径]]`
 
-- 孤儿笔记(无入链): **3376**
+- 孤儿笔记(无入链): **3477**

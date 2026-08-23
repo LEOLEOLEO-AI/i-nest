@@ -1,15 +1,8 @@
----
-title: "2026-07-18_OA_Nanoencapsulation of nutraceuticals enhancing stability and bioavailability in f"
-type: article-summary
-domain: Cross
-created: 2026-08-04
-auto: true
----
 # 2026-07-18_OA_Nanoencapsulation of nutraceuticals enhancing stability and bioavailability in f
 
 **Domain**: Cross
 **Source**: 00_Inbox\_pipeline_insights\2026-07-18_OA_Nanoencapsulation of nutraceuticals enhancing stability and bioavailability in f.md
-**Compiled**: 2026-08-04
+**Compiled**: 2026-08-23
 
 ## Summary
 title: "Nanoencapsulation of nutraceuticals: enhancing stability and bioavailability in functional foods" authors: ['Minglu Hao', 'Xiaonan Tan', 'Kang Liu', 'Ning Xin'] doi: "10.3389/fnut.2025.1746176" journal: "Frontiers in Nutrition" query: "complex network phase transition emergence"
@@ -19,10 +12,3 @@ NoC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
-
-
-## Related Concepts
-
-[[Intelligence_Emergence]]
-[[Network_on_Chip]]
-[[iNEST]]

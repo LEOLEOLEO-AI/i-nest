@@ -1,51 +1,24 @@
 ---
-title: "EEGToNeuromorphicMapping"
-type: concept
-domain: Cross
-created: 2026-08-05
+provenance: derived
+type: concept-stub
 auto: true
+created: 2026-08-23
+refs: 6
 ---
+
 # EEGToNeuromorphicMapping
 
-**Domain**: Cross
-**First mentioned**: auto-extracted
-**Last updated**: 2026-08-04
+> 由 self_evolve 自动生成的占位概念（被引用 51 次，来源尚未成稿）。
 
-## Definition
-The translation of EEG-derived connectivity and spectral features into parameters for spiking neural networks or reservoir computing architectures. Bridges empirical brain data with TCC/iNEST hardware, allowing topology-centric designs to be validated against real neurophysiological recordings.
 
-## Context
-Auto-extracted concept from raw material compilation.
+## 引用来源
 
-## Related Work
+- [[vault_health]]
+- [[backlinks]]
+- [[index]]
+- [[AcademicDevelopmentCoCreation]]
+- [[Adaptive_Deep_Brain_Stimulation]]
+- [[AI_Driven_Architecture_Search]]
 
-[[AI_Driven_Architecture_Search]]
-[[AI_Forum_Demo_Narrative]]
-[[Architectural_Conditioning]]
-[[Baseline_Draft_Status]]
-[[BurstGatedRouting]]
-[[Continuous_Spatiotemporal_State_Propagation]]
-[[Emergent_Intelligence_Threshold]]
-[[EventDrivenRiskAssessment]]
-[[Event_Driven_Communication]]
-[[FoveationGuidedTokenSelection]]
-[[Intelligence_Emergence]]
-[[Interconnect_Routing]]
-[[NestedRepresentation]]
-[[Network_Topology_Design]]
-[[Neuromorphic_Computing]]
-[[P_Paradigm]]
-[[RecursiveSelfReferentialArchitecture]]
-[[Reservoir_Computing]]
-[[Spike_Encoding_of_fMRI]]
-[[Spiking_Neural_Network]]
-[[TCC]]
-[[iNEST]]
-[[reservoir computing architecture]]
-[[spiking neural network]]
 
-## Sources
-- See wiki/articles/ for source article summaries
-
-## Open Questions
-- *(Explore connections to other concepts)*
+_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
