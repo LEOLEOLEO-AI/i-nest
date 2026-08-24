@@ -23,7 +23,57 @@
       "title": "TCC: SDSoW架构可线性扩展至晶圆级",
       "status": "under_investigation",
       "evidence": "架构论文"
+    },
+    {
+      "id": "H5",
+      "title": "TCC×iNEST: SDI软件定义互连可实现类突触可塑性拓扑重构",
+      "status": "proposed",
+      "evidence": "Cross-domain bridge: SDI_Plastic_Interconnect (strength=661)",
+      "rationale": "将STDP权重更新规则映射到NoC路由表更新，实现互连拓扑按负载自适应调整",
+      "test_method": "在sdi_network仿真框架中对比固定拓扑vs可塑拓扑的吞吐/延迟",
+      "created": "2026-08-24",
+      "source_bridge": "SDI_Plastic_Interconnect"
+    },
+    {
+      "id": "H6",
+      "title": "TCC×iNEST: Chiplet异构集成CMOS+忆阻器crossbar可实现存算一体神经形态加速",
+      "status": "proposed",
+      "evidence": "Cross-domain bridge: Chiplet_Heterogeneous_Neuromorphic (strength=488)",
+      "rationale": "1M1T1R突触神经元阵列通过3DHI堆叠与逻辑chiplet集成，消除von Neumann瓶颈",
+      "test_method": "估算面积/能耗/延迟 vs GPU baseline，验证超加性增益(H1)",
+      "created": "2026-08-24",
+      "source_bridge": "Chiplet_Heterogeneous_Neuromorphic"
+    },
+    {
+      "id": "H7",
+      "title": "TCC×iNEST: NoC路由算法为事件驱动spike包重设计可降低延迟一个数量级",
+      "status": "proposed",
+      "evidence": "Cross-domain bridge: NoC_Spiking_Routing (strength=457)",
+      "rationale": "spike稀疏性+异步性使传统同步流水线浪费严重，event-driven路由可大幅提升效率",
+      "test_method": "在仿真中实现async路由协议，对比packet latency分布",
+      "created": "2026-08-24",
+      "source_bridge": "NoC_Spiking_Routing"
+    },
+    {
+      "id": "H8",
+      "title": "TCC×iNEST: 晶圆级集成可在单die上实现百万级神经元实时仿真",
+      "status": "proposed",
+      "evidence": "Cross-domain bridge: WaferScale_Neuromorphic (strength=299)",
+      "rationale": "Cerebras CS-2已证明晶圆级AI推理可行，扩展至SNN域",
+      "test_method": "映射Izhikevich神经元阵列到wafer-scale mesh，评估通信瓶颈",
+      "created": "2026-08-24",
+      "source_bridge": "WaferScale_Neuromorphic"
+    },
+    {
+      "id": "H9",
+      "title": "TCC×iNEST: 3D-IC堆叠模拟皮层柱状架构可实现密集神经处理层",
+      "status": "proposed",
+      "evidence": "Cross-domain bridge: 3DIC_Neural_Stacking (strength=136)",
+      "rationale": "皮层的垂直柱状结构与3D堆叠的层间TSV连接天然对应",
+      "test_method": "建立层间连接模型，对比2D平面布局的信息传递效率",
+      "created": "2026-08-24",
+      "source_bridge": "3DIC_Neural_Stacking"
     }
   ],
-  "last_updated": "2026-08-24T20:07:38.436193"
+  "last_updated": "2026-08-24T23:28:49.291508"
 }

@@ -320,6 +320,7 @@ def step_phase4():
         "task_recommender": ("task_recommender.py", 180),
         "research_evolution": ("research_evolution.py", 180),
         "cross_domain_insight": ("cross_domain_insight.py", 180),
+        "hypothesis_engine": ("hypothesis_engine.py", 60),
     }
     results = {}
     for name, (rel, to) in steps.items():
@@ -389,6 +390,9 @@ def main():
     results["grow_concepts"] = step_grow_missing_concepts(broken_freq)
     results["phase4"] = step_phase4()
     results["homepage"] = step_homepage()
+    rc_dash, _ = run_script("research_dashboard.py", timeout=60)
+    log(f"research_dashboard 退出码={rc_dash}")
+    results["dashboard"] = rc_dash == 0
     results["git"] = step_git()
     # 写日志
     entry = {"date": TODAY, "time": NOW.isoformat(), "steps": results,
