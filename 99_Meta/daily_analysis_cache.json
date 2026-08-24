@@ -471,6 +471,71 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-08-20_arXiv_Declining Modularity of Intellectual Bases During the Emerge.md"
       },
       "cached_at": "2026-08-20T06:43:10"
+    },
+    "45b77a3f1052ec31d5582d6da7cac38f4a4a109f20a1160c9fbe52199dd55479": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Petri Net Description of Biological Neural Circuits for Fast Hardware Prototypin",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-24_arXiv_Petri Net Description of Biological Neural Circuits for Fast.md"
+      },
+      "cached_at": "2026-08-24T06:44:34"
+    },
+    "f92108dd4e083dfa50796d266ce416010014b396b970c983ae465f402bbfc2d1": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Spike-based Belief Propagation in Nonlinear Dynamical Systems",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-24_arXiv_Spike-based Belief Propagation in Nonlinear Dynamical System.md"
+      },
+      "cached_at": "2026-08-24T06:44:34"
+    },
+    "d8b55b370f04b94cf665a517c6800f2588f6b207af27605edad334960f69e769": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Universal meson spectra near $(1+1)$-dimensional Ising criticality",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-24_arXiv_Universal meson spectra near $(1+1)$-dimensional Ising criti.md"
+      },
+      "cached_at": "2026-08-24T06:44:34"
+    },
+    "6efb5c818d7506026317f2b20280f7051dd21ab60880c28506ad1ccbd94aace8": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "HYDRA: A Heterogeneous Chiplet DSE Framework for Serving Dynamic Hybrid LLM Work",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna.md"
+      },
+      "cached_at": "2026-08-24T06:44:34"
+    },
+    "f39534c702eec7b5de9699725ab1ef06c369ae17017fd245d400f8549c6b3801": {
+      "analysis": {
+        "id": 5,
+        "title_zh": "Emergence of cooperation: A reputation-modulated reinforcement learning",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-24_arXiv_Emergence of cooperation A reputation-modulated reinforcemen.md"
+      },
+      "cached_at": "2026-08-24T06:44:34"
     }
   }
 }

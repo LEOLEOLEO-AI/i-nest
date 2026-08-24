@@ -75,3 +75,41 @@
 - **git 分叉仍未解决**：`main` 与 `github/main` 持续 behind（本日 167 behind / 305 ahead），push 被拒。脚本 pull --no-rebase 重推未成功，留下 AUTO_MERGE 游离引用（无活动合并，不阻塞操作）。**需人工决定 merge/rebase，不要 force push。**
 - LLM 编译正常（402 额度问题已自愈）；wiki_grow 600s 内完成（无超时）。
 - 运行日志：`99_Meta/self_evolve_run_2026-08-21.log`；结构化日志：`99_Meta/self_evolve_log.json`。
+
+### 2026-08-23 执行 (45m34s, EXIT_CODE=0)
+状态：**整体 exit 0，但 wiki_grow 步骤失败（exit 1）；git 推送首次成功**
+
+| 步骤 | 结果 | 说明 |
+|---|---|---|
+| 1. 增量编译 wiki_compiler | ✅ 成功 | exit 0，1 篇新来源；LLM 额外 5 概念；593 篇 / 1563 概念。**09:06–09:48 全耗在 LLM 调用（网络活跃、非卡死），偏慢** |
+| 2. wiki_grow 交叉链接/去重 | ❌ 失败 | exit 1，命中 `SAFE_DELETE_BULK_CONFIRM_REQUIRED`（删 50 阈值，目标 EventDrivenAttention.md），交互式确认护栏，脚本无法自动确认 → 交叉链接/去重未跑完。**新失败模式（非历史 600s 超时）** |
+| 3. 全库健康自检 | ✅ 完成 | 10997 笔记 / 3737 断链 / 3477 孤儿 / 912 缺 FM → `99_Meta/vault_health.md` |
+| 4. 自我生长 | ✅ 完成 | 补全 8 个缺失概念（spiking neural network / reservoir computing / EEGToNeuromorphicMapping / neuromorphic substrate / EventDrivenComputation / gsk summarize / synaptic plasticity / temporal coding） |
+| 5. Phase4 引擎 | ✅ 完成 | import(0 新)/task/evolution/cross_domain 均 exit 0 |
+| 6. 刷新 Home.md | ✅ 完成 | `Home.md` 重新生成（5363 字符）+ `70_Dashboard/data.js` |
+| 7. git 提交/推送 | ✅ 成功 | 提交 2177 文件 **并成功推送 github main**（长期分叉/behind 推送失败问题今日已解决） |
+
+### 待处理 / 风险（更新）
+- **wiki_grow 需人工确认批量删除**：`SAFE_DELETE_BULK_CONFIRM_REQUIRED`（阈值 50）触发，脚本不自动删除、exit 1。非破坏性；需人工确认或提高阈值后重跑。建议：人工在交互环境确认，或评估将该批量删除纳入白名单/提高阈值。
+- **git 推送问题已解决**：今日 commit + push 均成功，无 behind 报错的残留；此前 08-19~08-22 的 AUTO_MERGE 游离引用与分叉已不再出现。
+- 编译阶段 LLM 调用偏慢（约 42 min），系库规模增长导致概念更多、API 调用增加，属正常波动，非故障。
+- 运行日志：`99_Meta/self_evolve_run_2026-08-23.log`
+
+### 2026-08-24 执行 (6m42s, EXIT_CODE=0)
+状态：**整体 exit 0；wiki_grow 仍因批量删除护栏失败（exit 1）；git 推送再现新故障（本地已提交，未推送）**
+
+| 步骤 | 结果 | 说明 |
+|---|---|---|
+| 1. 增量编译 wiki_compiler | ✅ 成功 | exit 0，**0 新增/改动来源** → 仅自检不消耗 LLM（约 86s） |
+| 2. wiki_grow 交叉链接/去重 | ❌ 失败 | exit 1，再次命中 `SAFE_DELETE_BULK_CONFIRM_REQUIRED`（count=50/threshold=50，目标 `wiki/concepts/MultiObjectiveRouting.md`）。与 08-23 同模式，交互式护栏无法自动确认 |
+| 3. 全库健康自检 | ✅ 完成 | 10970 笔记 / 3638 断链 / 3464 孤儿 / 915 缺 FM → `99_Meta/vault_health.md` |
+| 4. 自我生长 | ✅ 完成 | 补全 8 个缺失概念占位（HebbianLimitCycleLearning / AutonomousSpikingDynamics / Neuromorphic_Substrate / EventDrivenAttention / CoDesignedOnlineContinualLearning / emergent computation / CoaxialLikeTGV / topology reconfiguration） |
+| 5. Phase4 引擎 | ✅ 完成 | import(0 新)/task/evolution/cross_domain 均 exit 0 |
+| 6. 刷新 Home.md | ✅ 完成 | `Home.md` 重新生成（5358 字符）+ `70_Dashboard/data.js` |
+| 7. git 提交/推送 | ⚠️ 本地提交成功，推送失败（新错误） | 已提交 23 文件（commit `3d66494fb`）；push 报 `error: src refspec main does not match any` |
+
+### 待处理 / 风险（重要更新）
+- **git 推送新故障（需人工）**：当前本地分支是 `master`（无本地 `main`），脚本推 `github/main` 故失败。根因：`.git.broken.20260823/` 备份显示旧 `.git` 在 08-23 深夜被替换/重建（含 git-filter-repo 痕迹，08-11 做过仓库过滤），重建后默认分支变为 `master`。但 `git log --all` 仍可遍历完整历史（含 08-23 的 `f8e956f5b`），**对象未丢失，历史可恢复**。建议人工二选一：① 恢复 `.git.broken.20260823/` 原 `.git`；② 在当前仓库 `git branch -m master main` 或 `git push github master:main` 后重推。**本自动化按"不重推/不破坏性操作"原则未自行处置。**
+- **wiki_grow 批量删除护栏持续阻塞**：连续 2 天（08-23、08-24）因 `SAFE_DELETE_BULK_CONFIRM_REQUIRED` 失败。脚本不自动确认、非破坏性。建议人工在交互环境确认或将阈值纳入白名单后重跑，否则交叉链接/去重长期不刷新。
+- 增量编译今日 0 新来源 → 不耗 LLM，运行快（6m42s）。
+- 运行日志：`99_Meta/self_evolve_run_2026-08-24.log`；结构化：`99_Meta/self_evolve_log.json`

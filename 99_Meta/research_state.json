@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-23T18:30:11.321865",
+  "generated": "2026-08-24T20:07:38.576717",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 12238,
-    "inbox_00": 172,
-    "processing_20": 650,
-    "tcc_30": 1894,
-    "inest_40": 1415,
+    "total_md": 12235,
+    "inbox_00": 177,
+    "processing_20": 617,
+    "tcc_30": 1920,
+    "inest_40": 1437,
     "output_50": 458,
-    "moc_60": 63
+    "moc_60": 65
   },
   "services": {
     "preview_server_8899": false,
@@ -17,11 +17,43 @@
   },
   "pipeline": {
     "ingested_today": {
-      "today": 0,
-      "total": 172,
-      "recent": []
+      "today": 5,
+      "total": 177,
+      "recent": [
+        {
+          "file": "2026-08-24_arXiv_Universal meson spectra near $(1+1)$-dimensional Ising criti.md",
+          "preview": "---\ntitle: \"Universal meson spectra near $(1+1)$-dimensional Ising criticality\"\ndate: 2026-08-24\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.20221v1\ntags: [inbox, in"
+        },
+        {
+          "file": "2026-08-24_arXiv_Spike-based Belief Propagation in Nonlinear Dynamical System.md",
+          "preview": "---\ntitle: \"Spike-based Belief Propagation in Nonlinear Dynamical Systems\"\ndate: 2026-08-24\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.19907v1\ntags: [inbox, inest, "
+        },
+        {
+          "file": "2026-08-24_arXiv_Petri Net Description of Biological Neural Circuits for Fast.md",
+          "preview": "---\ntitle: \"Petri Net Description of Biological Neural Circuits for Fast Hardware Prototyping\"\ndate: 2026-08-24\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.20147v1\nt"
+        },
+        {
+          "file": "2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna.md",
+          "preview": "---\ntitle: \"HYDRA: A Heterogeneous Chiplet DSE Framework for Serving Dynamic Hybrid LLM Workloads\"\ndate: 2026-08-24\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.19395v1"
+        },
+        {
+          "file": "2026-08-24_arXiv_Emergence of cooperation A reputation-modulated reinforcemen.md",
+          "preview": "---\ntitle: \"Emergence of cooperation: A reputation-modulated reinforcement learning\"\ndate: 2026-08-24\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.20016v1\ntags: [inbo"
+        }
+      ]
     },
     "recent_runs": [
+      {
+        "date": "2026-08-24T06:44:34.956219",
+        "new_papers": 5,
+        "api_results": 5,
+        "classified": 0,
+        "graph_nodes": 12200,
+        "graph_edges": 107015,
+        "elapsed_s": 873.1,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260824_0644.json"
+      },
       {
         "date": "2026-08-23T09:55:30.581779",
         "new_papers": 0,
@@ -87,43 +119,32 @@
         "elapsed_s": 1341.5,
         "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
         "_file": "pipeline_20260815_0822.json"
-      },
-      {
-        "date": "2026-08-14T09:00:54.521709",
-        "new_papers": 1,
-        "api_results": 1,
-        "classified": 0,
-        "graph_nodes": 10184,
-        "graph_edges": 90567,
-        "elapsed_s": 598.5,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260814_0900.json"
       }
     ]
   },
   "git": {
-    "uncommitted": 21,
+    "uncommitted": 84,
     "details": [
-      "M .obsidian/workspace.json",
-      " M .workbuddy/automations/automation-1785546922604/memory.md",
+      "M .gitignore",
+      "MM .obsidian/workspace.json",
+      "M  .workbuddy/automations/automation-1785546922604/memory.md",
+      "A  .workbuddy/memory/2026-08-23.md",
+      " M \"30_TCC/31_Theory/CST\\347\\220\\206\\350\\256\\272.md\"",
+      " M \"30_TCC/31_Theory/\\346\\266\\214\\347\\216\\260\\347\\216\\260\\350\\261\\241\\357\\274\\232\\345\\244\\215\\346\\235\\202\\347\\263\\273\\347\\273\\237\\347\\232\\204\\347\\245\\236\\345\\245\\207\\345\\212\\233\\351\\207\\217_-_\\347\\247\\221\\346\\231\\256\\346\\225\\231\\350\\202\\262_-_\\344\\270\\212\\346\\265\\267\\345\\270\\202\\351\\235\\236\\347\\272\\277\\346\\200\\247\\347\\247\\221\\345\\255\\246\\347\\240\\224\\347\\251\\266\\344\\274\\232.md\"",
       " M 60_MOC/02_Research_Insights.md",
       " M 60_MOC/03_Daily_Action.md",
       " M 60_MOC/04_Daily_Focus.md",
       " M 60_MOC/05_Task_Review.md",
+      " M 60_MOC/07_Pipeline_Status.md",
       " M 70_Dashboard/data.js",
-      " M 99_Meta/evolution_queue.json",
-      " M 99_Meta/genspark_research_brief.md",
-      " M 99_Meta/hypothesis_registry.json",
-      " M 99_Meta/knowledge_compile_state.json",
-      " M 99_Meta/research_state.json",
-      " M 99_Meta/research_task_proposals.json",
-      " M 99_Meta/self_evolve_log.json",
-      " M 99_Meta/self_evolve_run_2026-08-23.log",
-      " M Home.md",
-      " M logs/pipeline_guard_20260823_090624.log",
-      " M wiki/health.md",
-      "?? .workbuddy/memory/2026-08-23.md",
-      "?? 99_Meta/system_diagnosis_2026-08-23.md"
+      "M  90_System/scripts/pipeline_v3.py",
+      "M  90_System/scripts/process_inbox.py",
+      "MM 90_System/scripts/self_evolve.py",
+      " M 90_System/scripts/wiki_grow.py",
+      " M 99_Meta/daily_analysis_cache.json",
+      " M 99_Meta/dedup_index_v2.json",
+      " M 99_Meta/evolution_proposals/2026-08-23.md",
+      " M 99_Meta/evolution_queue.json"
     ]
   },
   "health": {

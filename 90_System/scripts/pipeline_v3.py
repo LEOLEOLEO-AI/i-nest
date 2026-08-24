@@ -960,7 +960,7 @@ def main():
     try:
         import subprocess
         gen_script = str(VAULT / '90_System' / 'scripts' / 'daily_generator.py')
-        result = subprocess.run([sys.executable, gen_script], capture_output=True, text=True,
+        result = subprocess.run([sys.executable, gen_script], capture_output=True, text=True, encoding="utf-8", errors="ignore",
                                 timeout=900, cwd=str(VAULT))
         if result.returncode != 0:
             raise RuntimeError(result.stderr[-800:] or result.stdout[-800:] or "daily generator failed")
@@ -971,7 +971,7 @@ def main():
     # Generate reviewable ideas/tasks; approval is required before promotion.
     try:
         proposal_script = str(SCRIPT_DIR / "research_task_proposals.py")
-        result = subprocess.run([sys.executable, proposal_script], capture_output=True, text=True,
+        result = subprocess.run([sys.executable, proposal_script], capture_output=True, text=True, encoding="utf-8", errors="ignore",
                                 timeout=30, cwd=str(VAULT))
         if result.returncode != 0:
             raise RuntimeError(result.stderr[-800:] or result.stdout[-800:] or "proposal generator failed")
@@ -1039,7 +1039,7 @@ def main():
     try:
         rec_script = str(SCRIPT_DIR / "task_recommender.py")
         if os.path.exists(rec_script):
-            subprocess.run([sys.executable, rec_script], capture_output=True, timeout=30)
+            subprocess.run([sys.executable, rec_script], capture_output=True, timeout=180)
             log("[Tasks] Research recommendations updated")
     except Exception as e:
         log(f"[Tasks] Warning: {e}")
@@ -1047,7 +1047,7 @@ def main():
     # Publish live dashboard data after all state-producing stages complete.
     try:
         publisher = str(SCRIPT_DIR / "research_publisher.py")
-        subprocess.run([sys.executable, publisher], capture_output=True, text=True, timeout=60, cwd=str(VAULT))
+        subprocess.run([sys.executable, publisher], capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=60, cwd=str(VAULT))
         log("[Dashboard] Live dashboard published")
     except Exception as e:
         log(f"[Dashboard] Publish warning: {e}")
@@ -1056,7 +1056,7 @@ def main():
     try:
         home_gen = str(SCRIPT_DIR / "homepage_generator.py")
         if os.path.exists(home_gen):
-            subprocess.run([sys.executable, home_gen], capture_output=True, text=True, timeout=30, cwd=str(VAULT))
+            subprocess.run([sys.executable, home_gen], capture_output=True, text=True, encoding="utf-8", errors="ignore", timeout=30, cwd=str(VAULT))
             log("[Homepage] Home.md auto-refreshed")
     except Exception as e:
         log(f"[Homepage] Warning: {e}")

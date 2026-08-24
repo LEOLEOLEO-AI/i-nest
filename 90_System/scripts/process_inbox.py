@@ -51,7 +51,7 @@ def classify_and_extract(content, filename):
     try:
         resp = client.chat.completions.create(
             model=DEEPSEEK_MODEL, messages=[{"role":"user","content":prompt}],
-            temperature=0.3, max_tokens=1024, timeout=60
+            temperature=0.3, max_tokens=8192, timeout=120
         )
         text = resp.choices[0].message.content
         m = re.search(r'\{[\s\S]*\}', text)

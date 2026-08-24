@@ -9,7 +9,7 @@ SDI's software-defined interconnect could implement plastic (reconfigurable) net
 - TCC concepts: [[1024_Card_SuperNode]], [[3DHI_Integration]], [[3DHI_Interconnect]]
 - iNEST concepts: [[20W_Brain_Inspired_Planning]], [[Accessibility_Gradient]], [[ActiveDendriteSNN]]
 
-### Chiplet_Heterogeneous_Neuromorphic (Strength: 486)
+### Chiplet_Heterogeneous_Neuromorphic (Strength: 488)
 Chiplet-based heterogeneous integration enables combining CMOS logic with memristor crossbar arrays for neuromorphic acceleration.
 - TCC concepts: [[1024_Card_SuperNode]], [[2_5D_PIM_Chiplet_Integration]], [[3DHI_Integration]]
 - iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[Accessibility_Gradient]]
@@ -39,10 +39,8 @@ Neuromorphic in-memory computing is a potential solution to the wafer-scale memo
 - TCC concepts: [[Memory_Wall]], [[SDSoW_TCC_Integration]]
 - iNEST concepts: [[Electrolyte_Bonding_Engineering]], [[FeFET_Polarization_Switching]], [[FerroelectricSynapticArray]]
 
-## Cross-Domain Papers (4)
+## Cross-Domain Papers (2)
 - 2026_08_02_arXiv日报_9篇___Genspark_Claw (cross-score: 6)
-- 2026_08_21_2608_19239 (cross-score: 6)
-- 2026_08_21_2510_02545 (cross-score: 6)
 - 2026_08_21_2608_19907 (cross-score: 5)
 
 ## Suggested Research Directions
