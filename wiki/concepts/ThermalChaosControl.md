@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
+[[SDI_STDP_Rule]]
 [[Synaptic_Plasticity]]
 
 ## Sources

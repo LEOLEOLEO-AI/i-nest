@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
+[[ComputeRelocationOverhead]]
 [[DataMovementMinimization]]
 [[Die_to_Die_Protocol]]
 [[Heterogeneous_Integration]]

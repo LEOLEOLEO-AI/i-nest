@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[BioInspired_Interception_Control]]
+[[BurstGatedRouting]]
 [[EdgeIoTEnergyAwareness]]
 [[Environmental_Capability_Context]]
 [[Interconnect_Routing]]

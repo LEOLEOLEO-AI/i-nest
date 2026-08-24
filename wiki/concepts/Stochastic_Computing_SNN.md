@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CirculateFiringNeuron]]
 [[CoDesigned_SNN]]
+[[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[DeeplySupervisedSpiking]]
@@ -49,3 +50,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- StochasticComputingSNN (merged 2026-08-25)

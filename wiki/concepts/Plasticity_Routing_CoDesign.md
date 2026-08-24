@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[MatrixShapePhaseTransition]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
+[[PheromoneTrailTopology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
 [[TCC]]

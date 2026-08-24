@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
+[[SynapticRewiringDynamics]]
 [[Synaptic_Plasticity]]
 [[Synchronization_Overhead_Mitigation]]
 [[iNEST]]

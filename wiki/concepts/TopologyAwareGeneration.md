@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]

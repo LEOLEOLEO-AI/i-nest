@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralFeedbackLoop]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
+[[CascadedAdaptiveCombiners]]
 [[Contested_Priors_Mechanism]]
 [[DefectDynamics]]
 [[Dendritic_In_Context_Learning]]

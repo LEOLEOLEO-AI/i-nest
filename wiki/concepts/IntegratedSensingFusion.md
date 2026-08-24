@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[MeanFieldSpinGlass]]

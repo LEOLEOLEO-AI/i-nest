@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActiveDendriteSNN]]
-[[ActiveInferenceEdgeLoop]]
 [[ActiveInference]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AddressRedundancyElimination]]
@@ -31,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Contested_Priors_Mechanism]]
 [[Course_Based_FPGA_Prototyping]]
+[[Criticality]]
+[[DynamicTokenSparsity]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[NeuromorphicRadarFrontend]]

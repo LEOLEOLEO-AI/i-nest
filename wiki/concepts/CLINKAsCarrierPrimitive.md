@@ -34,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_ProgrammableInterconnect]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_iNEST_Bridge]]
-[[SDI_TopologyInterconnect]]
 [[SDI_Topology]]
 [[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
@@ -44,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[TopologyProgramming]]
-[[Topology_Reconfiguration]]
 [[iNEST]]
 
 ## Sources

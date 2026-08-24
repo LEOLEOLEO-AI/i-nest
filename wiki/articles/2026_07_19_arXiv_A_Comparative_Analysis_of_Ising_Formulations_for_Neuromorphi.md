@@ -12,3 +12,12 @@ TCC, iNEST, neuromorphic
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Ising_Formulation]]
+[[Neuromorphic_Computing]]
+[[TCC]]
+[[iNEST]]
+[[inest]]

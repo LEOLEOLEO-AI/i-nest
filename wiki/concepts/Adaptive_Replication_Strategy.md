@@ -27,11 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Course_Based_FPGA_Prototyping]]
-[[CriticalityConstrainedPruning]]
+[[Criticality]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

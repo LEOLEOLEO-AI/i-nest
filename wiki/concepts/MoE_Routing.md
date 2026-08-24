@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingMatrixRecovery]]
 [[DelayPropagationDynamics]]
 [[ExactWiringRouting]]
+[[GrandCanonicalOptimization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

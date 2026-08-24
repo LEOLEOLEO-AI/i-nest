@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[Combinatorial_Optimization_Readout]]
 [[ComplexTopologicalStructures]]
+[[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentIntelligence_Spacetime]]

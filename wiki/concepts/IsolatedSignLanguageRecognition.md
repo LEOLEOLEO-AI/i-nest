@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[ActiveInferenceEdgeLoop]]
 [[ActiveInference]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
 [[Brain_Connectome]]
 [[CSI_Temporal_Encoding]]
+[[Connectome]]
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
 [[IntrinsicDynamicsAutonomy]]

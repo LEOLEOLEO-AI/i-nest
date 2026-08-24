@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[EmergentTaskDecomposition]]
 [[FlexibilityThreshold]]
+[[Intelligence_Emergence]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Phase_Transition_Tail_Transition]]
 [[Reservoir_Computing]]

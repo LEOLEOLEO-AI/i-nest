@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalDynamicsModeling]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[neuromorphic computing]]

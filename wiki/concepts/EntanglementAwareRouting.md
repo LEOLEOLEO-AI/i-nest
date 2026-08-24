@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[Alpha_Computation_Consistency]]
 [[Architectural_Conditioning]]
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NonEquilibriumComputing]]
 [[Packaging_Aware_NoC_Design]]
 [[RecursiveSelfReferentialArchitecture]]

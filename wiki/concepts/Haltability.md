@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Energy_Efficient_Control]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[L2_L3_Reconfigurability]]

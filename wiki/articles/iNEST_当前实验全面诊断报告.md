@@ -24,6 +24,7 @@ SDI, STDP, iNEST, 拓扑
 ## Related Concepts
 
 [[Brain_Connectome]]
+[[Connectome]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]

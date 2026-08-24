@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[Continual_Learning_Topology]]
+[[ContinuousTraitAxelrodModel]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]

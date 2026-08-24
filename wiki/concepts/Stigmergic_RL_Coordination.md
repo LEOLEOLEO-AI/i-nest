@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]
+[[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[InNetworkAgentRewiring]]

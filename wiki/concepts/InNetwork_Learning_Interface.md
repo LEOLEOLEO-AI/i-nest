@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[Continual_Learning_Topology]]
+[[DendriticReservoirState]]
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]

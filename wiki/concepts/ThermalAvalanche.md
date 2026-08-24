@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Data_Debiasing_Techniques]]
 [[Emergent_Intelligence_Threshold]]
+[[Free_Energy_Principle_Network]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

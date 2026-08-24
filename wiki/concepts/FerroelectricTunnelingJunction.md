@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
 [[Ferroelectric_Devices]]
+[[GeTeBasedCBRAM]]
 [[HybridResistiveMemoryCIM]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

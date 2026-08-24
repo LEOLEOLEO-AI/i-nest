@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
-[[FinitePoolRareRegimeDiscovery]]
+[[FrustratedDimerMagnet]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

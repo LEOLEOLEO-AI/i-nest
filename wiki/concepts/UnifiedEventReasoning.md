@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[ContinualLearningOnNeuromorphic]]
 [[DelayAwareSpikeEventDelivery]]
@@ -32,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
+[[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

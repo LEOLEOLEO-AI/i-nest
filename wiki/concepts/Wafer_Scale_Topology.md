@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[SDSoW_TCC_Integration]]
 [[TCC]]
@@ -44,3 +45,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- WaferScale_Topology (merged 2026-08-25)

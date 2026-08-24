@@ -21,15 +21,13 @@ Auto-extracted concept from raw material compilation.
 
 [[Avoided_Criticality]]
 [[BurstTemporalPlasticity]]
-[[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenFunctionalConnectivity]]
 [[EventDrivenMotionDeblurring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
-[[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]
-[[InferenceDrivenFitness]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]
@@ -41,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

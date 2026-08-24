@@ -21,8 +21,8 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[ActivityAvalanche]]
-[[AutonomousSpikingDynamics]]
 [[CIMWeightUpdateAwareness]]
+[[CollectiveSpikingDynamics]]
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

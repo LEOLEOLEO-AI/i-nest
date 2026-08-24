@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RestingStateEEG_Connectivity]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Synaptic_Plasticity]]
+[[TCC_Neuromorphic_Integration]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[iNEST]]

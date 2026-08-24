@@ -33,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Substrate]]
+[[Neuromorphic_computing_architecture]]
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]

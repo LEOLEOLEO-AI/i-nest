@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[OnChipOpticalTweezers]]
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]

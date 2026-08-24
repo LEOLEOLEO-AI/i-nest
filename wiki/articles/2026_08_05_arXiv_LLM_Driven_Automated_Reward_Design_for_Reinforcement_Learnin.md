@@ -12,3 +12,11 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Interconnect_Routing]]
+[[TCC]]
+[[iNEST]]
+[[tcc]]

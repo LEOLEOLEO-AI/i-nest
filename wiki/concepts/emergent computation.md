@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- Emergent_Computation (merged 2026-08-25)
+
+
+## Related Work
+
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[AI-ML — 全景导航 (Map of Content)]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AI_Faculty_Forum_2026]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[Self_Organized_Criticality]]
+[[TCC]]
+[[criticality]]
+[[iNEST]]

@@ -12,3 +12,11 @@ STDP, iNEST, 忆阻
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[STDP_Plasticity]]
+[[iNEST]]
+[[inest]]
+[[神经网络]]

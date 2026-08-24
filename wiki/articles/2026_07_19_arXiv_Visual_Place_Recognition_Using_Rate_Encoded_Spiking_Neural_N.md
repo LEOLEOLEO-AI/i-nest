@@ -12,3 +12,15 @@ SNN, STDP, TCC, iNEST, neuromorphic, spiking
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Neuromorphic_Computing]]
+[[SNN]]
+[[STDP_Learning]]
+[[STDP_Plasticity]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+[[iNEST]]
+[[inest]]

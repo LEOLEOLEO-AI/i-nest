@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[CirculateFiringNeuron]]
 [[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibleManifoldReconfiguration]]

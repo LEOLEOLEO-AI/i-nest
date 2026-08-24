@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdditiveTopology_Embedding]]
 [[BCM滑动阈值]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[Chip floorplanning]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwareFloorplanning]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

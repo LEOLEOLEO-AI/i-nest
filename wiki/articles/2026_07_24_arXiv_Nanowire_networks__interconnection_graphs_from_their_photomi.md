@@ -12,3 +12,11 @@ TCC, iNEST, interconnect, neuromorphic
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Neuromorphic_Computing]]
+[[TCC]]
+[[iNEST]]
+[[tcc]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Benchmark]]
 [[BackscatteringImmunity]]
 [[BioPlausiblePredictiveCoding]]
+[[BisectionBandwidthBound]]
 [[BurstGatedRouting]]
 [[ChannelEventSparsity]]
 [[ChipletTopologyAwareness]]

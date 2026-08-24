@@ -12,3 +12,14 @@ NoC, TCC, chiplet, iNEST, 互连
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Chiplet_Heterogeneous_Integration]]
+[[Interconnect_Routing]]
+[[Network_on_Chip]]
+[[Semantic_Optimizer]]
+[[TCC]]
+[[iNEST]]
+[[tcc]]

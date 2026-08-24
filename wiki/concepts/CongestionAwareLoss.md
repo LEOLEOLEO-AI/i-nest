@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[WaveBasedInformationRouting]]
+[[getnote_2026-01-25_吴华强团队与iNEST技术互补]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[新型计算]]
 [[神经形态计算]]

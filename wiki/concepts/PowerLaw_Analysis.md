@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CollectiveSpikingDynamics]]
+[[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

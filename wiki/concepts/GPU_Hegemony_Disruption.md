@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[CXL_Deployment_Transition]]
+[[Chiplet_Heterogeneous_Stacking]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[In_Package_Optical_Interconnect]]

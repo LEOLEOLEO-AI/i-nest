@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[CongestionAwareNoCPlacement]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

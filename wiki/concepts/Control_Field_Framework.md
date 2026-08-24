@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Accessibility_Plasticity]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_Feedback]]
 [[Crossbar_Programming]]
 [[DevelopmentalNeuromorphicAdaptation]]
-[[EigenvalueDegeneracy]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

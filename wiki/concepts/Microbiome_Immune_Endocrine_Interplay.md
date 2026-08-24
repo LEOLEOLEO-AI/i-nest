@@ -28,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyAwareLearning]]
-[[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Heterogeneous_Integration]]
@@ -43,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThermalFluctuationComputing]]
 [[TwoTimescaleNeuroEvolution]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

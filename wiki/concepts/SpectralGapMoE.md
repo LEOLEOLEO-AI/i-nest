@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]
 [[Interconnect_Routing]]
+[[JointFlightRoutingOptimization]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

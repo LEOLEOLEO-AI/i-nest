@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

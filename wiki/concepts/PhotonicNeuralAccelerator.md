@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Topology_Aware_Spike_Routing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

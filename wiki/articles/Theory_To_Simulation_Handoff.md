@@ -12,3 +12,10 @@ iNEST, 晶圆
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Self_Organized_Criticality]]
+[[Wafer_Scale_Integration]]
+[[iNEST]]

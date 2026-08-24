@@ -21,8 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
-[[CriticalityDrivenStateTransition]]
-[[Criticality_Based_Feature_Extraction]]
+[[Criticality]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]
@@ -36,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SensationModulatingNetwork]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]

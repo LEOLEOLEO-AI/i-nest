@@ -12,3 +12,12 @@ NoC, SDI, iNEST, 封装, 芯粒
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Chiplet_Heterogeneous_Integration]]
+[[Network_on_Chip]]
+[[SDI_Bond]]
+[[TCC]]
+[[iNEST]]

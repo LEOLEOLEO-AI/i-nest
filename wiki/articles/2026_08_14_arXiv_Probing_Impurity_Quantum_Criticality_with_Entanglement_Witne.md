@@ -12,3 +12,13 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Criticality]]
+[[Quantum_Criticality]]
+[[Self_Organized_Criticality]]
+[[TCC]]
+[[iNEST]]
+[[inest]]

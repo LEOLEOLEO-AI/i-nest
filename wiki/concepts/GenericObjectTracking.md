@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Medical_Large_Language_Models]]
+[[Memristive_Interconnect]]
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[StochasticBinaryNetwork]]
 [[TCC]]
 [[Topology_Centric_Neuromorphic]]
-[[Topology_Centric_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

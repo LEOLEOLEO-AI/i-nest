@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Causal_Emergence]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CriticalityDrivenAdaptation]]
+[[Criticality]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]

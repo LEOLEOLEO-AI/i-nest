@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[SpatiotemporalComplexityIndex]]
+[[SpatiotemporalCooperativeIntelligence]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Topology]]

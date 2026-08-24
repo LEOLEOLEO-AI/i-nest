@@ -31,12 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Chiplet_Topology]]
 [[CoPoS]]
-[[CoPoS_Integration]]
 [[EMIB_Bridge]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[SDI_iNEST_Wafer]]
 [[TCC]]
 [[iNEST]]
 

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[ContinuousTimeSNN]]
+[[Criticality_Based_Feature_Extraction]]
 [[DelayAwareSpikeEventDelivery]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientSNN]]

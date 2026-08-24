@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
+[[FlagOS_2_0]]
 [[HybridResistiveMemoryCIM]]
 [[InNetworkAgentRewiring]]
 [[In_Package_Optical_Interconnect]]

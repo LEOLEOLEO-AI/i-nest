@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Gradient]]
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
+[[AdversarialSensingResilience]]
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -38,12 +39,14 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Representational_Similarity_Analysis]]
 [[STDP_Plasticity]]
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

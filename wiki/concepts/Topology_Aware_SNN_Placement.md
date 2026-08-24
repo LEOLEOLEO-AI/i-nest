@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DARPA_ProjectManager_Model]]
-[[EEGToNeuromorphicMapping]]
+[[EventDrivenRiskAssessment]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]

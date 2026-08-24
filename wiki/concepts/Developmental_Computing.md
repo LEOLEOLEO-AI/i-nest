@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[CellEmergenceMechanism]]
 [[CellEmergence]]
+[[Complex_Network_Brain_Inspired_Computing]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Topology_Mapping]]

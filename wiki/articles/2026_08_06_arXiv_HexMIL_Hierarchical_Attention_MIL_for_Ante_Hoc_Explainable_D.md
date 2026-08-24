@@ -12,3 +12,11 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[HierarchicalAttention_MIL]]
+[[TCC]]
+[[iNEST]]
+[[inest]]

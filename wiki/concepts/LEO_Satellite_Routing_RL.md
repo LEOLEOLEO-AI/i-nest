@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[DelayPropagationDynamics]]
 [[ExactWiringRouting]]
+[[GrandCanonicalOptimization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Compressed_Glass_Network]]
+[[CoupledOscillatorReservoir]]
 [[Crystallized_Neural_Manifolds]]
 [[Emergent_Intelligence_Threshold]]
 [[GateBasedQuantumReservoir]]

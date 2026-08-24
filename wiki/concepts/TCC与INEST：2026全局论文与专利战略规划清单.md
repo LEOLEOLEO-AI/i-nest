@@ -51,7 +51,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST 论文矩阵计划]]
 [[iNEST]]
 [[temporalComplexity]]
@@ -59,3 +58,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[战略报告提纲：物理复杂网络智能涌现——颠覆现有算力范式的新路线]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]

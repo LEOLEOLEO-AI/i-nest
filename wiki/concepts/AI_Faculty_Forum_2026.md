@@ -50,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
-[[RTC_Primitive_Set]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
@@ -70,10 +69,12 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity_Tc]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
 [[neuromorphic computing]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

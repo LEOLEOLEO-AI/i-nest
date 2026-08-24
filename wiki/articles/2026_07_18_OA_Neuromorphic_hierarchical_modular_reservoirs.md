@@ -12,3 +12,12 @@ iNEST, neuromorphic
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
+[[criticality]]
+[[iNEST]]

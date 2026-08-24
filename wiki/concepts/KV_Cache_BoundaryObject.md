@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[Neuromorphic_Computing]]
+[[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
 [[TCC]]
 [[iNEST]]

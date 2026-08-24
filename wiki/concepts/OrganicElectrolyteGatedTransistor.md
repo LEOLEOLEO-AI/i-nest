@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicNetworkFabric]]
 [[Neuromorphic_Computing]]
 [[PathIntegration]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_SNN_Inference]]
 [[FormalToolchain]]
+[[GPU_Cluster_SNN_Architecture]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MarginalContributionFitness]]

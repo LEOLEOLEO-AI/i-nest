@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
+[[LatencyGradientDescent]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TemporalErrorFeedback]]
-[[Temporal_Coding]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
@@ -51,3 +51,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- SpikeResidualConnection (merged 2026-08-25)

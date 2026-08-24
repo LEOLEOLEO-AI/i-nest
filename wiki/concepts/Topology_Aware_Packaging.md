@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
 [[FlagOS_2_0]]
@@ -33,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
-[[MultiObjectiveRouting]]
 [[Network_Spatiotemporal_Coordination]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
@@ -49,3 +49,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- TopologyAware_Packaging (merged 2026-08-25)

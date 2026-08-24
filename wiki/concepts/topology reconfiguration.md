@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- Topology_Reconfiguration (merged 2026-08-25)
+
+
+## Related Work
+
+[[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
+[[CongestionAwareNoCPlacement]]
+[[Interconnect_Routing]]
+[[MoE_Routing]]
+[[Network_Topology_Design]]
+[[Physical_Topology_Mapping]]
+[[SDI_Bond]]
+[[TCC]]
+[[iNEST]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SNN_NeuroprostheticPipeline]]
 [[SpikeBackpropagation]]
+[[SpikeBasedGradientDescent]]
 [[SpikeEventTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]

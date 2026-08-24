@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging]]
+[[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]

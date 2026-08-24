@@ -19,10 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
 [[Contested_Prior_Resolution]]
-[[CriticalityConstrainedPruning]]
+[[Criticality]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TwoTimescaleNeuroEvolution]]
+[[criticality]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
 

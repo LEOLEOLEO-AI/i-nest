@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[AstrocyteInspiredRepair]]
 [[BrainScaleTopologyExploitation]]
+[[Brain_Dynamics_Learning]]
 [[CirculateFiringNeuron]]
 [[CollectiveDynamics]]
 [[Complex_System]]

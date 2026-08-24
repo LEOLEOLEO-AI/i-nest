@@ -12,3 +12,14 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Active_Inference_Agent]]
+[[Causal_Emergence]]
+[[Intelligence_Emergence]]
+[[Perspective_Latents]]
+[[TCC]]
+[[iNEST]]
+[[inest]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Interconnect]]
 [[WaferScaleInterconnectAlgebra]]
+[[WaferScaleSystem]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]

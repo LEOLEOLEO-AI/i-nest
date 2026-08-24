@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Avoided_Criticality]]
+[[BulletTrainScheduling]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]
+[[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]

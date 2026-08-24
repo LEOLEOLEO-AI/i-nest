@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Criticality]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]
@@ -33,11 +34,15 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

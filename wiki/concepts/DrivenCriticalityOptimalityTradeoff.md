@@ -25,15 +25,15 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
 [[Catastrophic_Forgetting]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Contested_Priors_Architecture]]
-[[CriticalityBasedClassification]]
+[[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EmulationTheoryDisturbanceObserver]]
 [[EventDrivenMotionDeblurring]]
-[[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
+[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

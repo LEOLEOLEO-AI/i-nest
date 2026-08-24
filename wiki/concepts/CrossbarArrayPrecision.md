@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Stacking]]
+[[3D_Heterogeneous_Integration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CrossDomain_Integration]]
@@ -31,11 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[InterpolationLearningTransition]]
+[[LearningTransition]]
 [[Long_Range_Interactions]]
 [[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
-[[NonHermitianTopology]]
 [[Process_Recycling_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]

@@ -39,7 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
 
 ## Sources

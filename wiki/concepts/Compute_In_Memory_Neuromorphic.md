@@ -22,7 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdaptiveBitPrecisionExploration]]
+[[Adaptive_Service_Orchestration]]
 [[Advanced_Packaging]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]

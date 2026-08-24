@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_computing_architecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

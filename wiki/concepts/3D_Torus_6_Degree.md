@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DistinctReentrantPhases]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[NCL神经计算定律详解]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[神经网络]]
 

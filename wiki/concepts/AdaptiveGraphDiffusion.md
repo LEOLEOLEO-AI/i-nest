@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[CommunicationAwareComputeRelocation]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Expert_Review_Arbitration]]

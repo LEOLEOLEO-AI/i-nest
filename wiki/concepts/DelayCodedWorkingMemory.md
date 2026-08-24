@@ -19,7 +19,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
@@ -27,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsembleComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -34,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Spiking]]
 [[RecursiveSelfReferentialArchitecture]]
-[[SpikeTemporalEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StreamDataflowArchitecture]]

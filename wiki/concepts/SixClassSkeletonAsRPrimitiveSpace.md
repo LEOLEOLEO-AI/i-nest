@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[NoCPlacementRoutingCoDesign]]
 [[Recursive_Metric_Contraction]]
 [[TCC]]
 

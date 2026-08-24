@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Criticality]]
 [[Criticality_Threshold]]
 [[Dynamic_Expert_Fusion]]
 [[Ecosystem_Building]]

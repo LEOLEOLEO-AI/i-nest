@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[OpticalSynapticWeightUpdate]]
+[[QuantumGateSynthesis]]
 [[RLFlightControl]]
 [[Reservoir_Computing]]
 [[TCC]]

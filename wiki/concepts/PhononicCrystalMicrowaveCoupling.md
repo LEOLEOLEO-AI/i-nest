@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[Chiplet_Topology]]
+[[ComputeRelocationOverhead]]
 [[EMIB_Bridge]]
 [[EulaminateOverrepresentation]]
 [[FullDimensionalDefinableInterconnect]]

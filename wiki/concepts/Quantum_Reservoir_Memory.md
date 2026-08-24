@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Embedding_Reservoir]]
 [[DARPA_ProjectManager_Model]]
 [[Dynamical_State_Space]]
+[[EmergentTaskDecomposition]]
 [[Network_Topology_Design]]
 [[Quantum_Reservoir_Computing]]
 [[Reservoir_Computing]]

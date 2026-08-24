@@ -12,3 +12,12 @@ TCC, iNEST, interconnect
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Heterogeneous_Magnetic_Metamaterials]]
+[[Reservoir_Computing]]
+[[TCC]]
+[[iNEST]]
+[[inest]]

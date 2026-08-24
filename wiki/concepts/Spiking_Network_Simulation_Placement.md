@@ -19,12 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[Avoided_Criticality]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
-[[EventDrivenAttention]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenTrajectoryEncoding]]
 [[InNetworkAgentRewiring]]
@@ -32,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Sensor_Fusion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[SpikePacketCompression]]

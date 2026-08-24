@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ErrorSuppressedPipeline]]
 [[FPGABasedNeuromorphic]]
+[[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

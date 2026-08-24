@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[DTGA]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
-[[RTC_Primitive_Set]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[heterogeneous_integration]]
 [[temporalComplexity]]
 
 ## Sources

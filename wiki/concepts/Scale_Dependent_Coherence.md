@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
-[[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
@@ -53,3 +53,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- ScaleDependent_Coherence (merged 2026-08-25)

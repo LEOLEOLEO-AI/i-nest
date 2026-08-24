@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AnomalousSpinTransport]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
-[[NonHermitianTopology]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

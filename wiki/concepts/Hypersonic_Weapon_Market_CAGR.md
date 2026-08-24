@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalCooperativeIntelligence]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[SurrogateGradientTraining]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

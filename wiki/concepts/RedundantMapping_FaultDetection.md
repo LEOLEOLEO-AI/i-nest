@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[InverseDesignOptimization]]
+[[KeyMaterialStrategy]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

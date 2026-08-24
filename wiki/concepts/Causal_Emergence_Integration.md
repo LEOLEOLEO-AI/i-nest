@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[Core_Spacetime_Tensor]]
+[[Course_Based_FPGA_Projects]]
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

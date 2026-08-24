@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AstrocyteInspiredRepair]]
+[[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[DevelopmentalBrainTrajectory]]
 [[Emergent_Intelligence_Threshold]]
-[[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

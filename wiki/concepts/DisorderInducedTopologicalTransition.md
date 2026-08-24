@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AirportNetworkGraphEmbedding]]
 [[Allreduce_Latency_Probe]]
 [[AmplifyingNetworkTopology]]
+[[AnalogStateRetention]]
 [[Architectural_Conditioning]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

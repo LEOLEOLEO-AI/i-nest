@@ -12,3 +12,11 @@ TCC, chiplet, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Chiplet_Heterogeneous_Integration]]
+[[TCC]]
+[[iNEST]]
+[[tcc]]

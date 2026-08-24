@@ -23,8 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[CriticalityDrivenEfficientCoding]]
-[[Criticality_Driven_Coding]]
-[[DisorderDrivenQuantumPhaseTransition]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedNeuralDecoding]]
@@ -37,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

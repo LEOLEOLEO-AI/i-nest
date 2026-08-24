@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Cauchy_Aczel_Uniqueness]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[CoexistenceRegime]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

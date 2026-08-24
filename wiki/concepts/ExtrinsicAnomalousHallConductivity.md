@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[CellEmergence]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

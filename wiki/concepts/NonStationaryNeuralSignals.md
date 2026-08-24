@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstraintDrivenSelfOrganization]]
 [[Contested_Priors_Architecture]]
 [[CounterstreamSignalPropagation]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]

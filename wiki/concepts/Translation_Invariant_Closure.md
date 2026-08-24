@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MobilityEdge]]
-[[MultiObjectiveRouting]]
 [[Network_Topology_Design]]
 [[Package_Level_Topology]]
 [[RoutabilityDrivenFloorplanning]]
@@ -40,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

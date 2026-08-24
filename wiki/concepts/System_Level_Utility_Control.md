@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
+[[Intelligent_Power_Management]]
 [[L2_L3_Reconfigurability]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]

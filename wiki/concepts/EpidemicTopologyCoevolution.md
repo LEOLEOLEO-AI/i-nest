@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
+[[AdaptiveCompetingInteractions]]
 [[AdaptiveDensityControl]]
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]

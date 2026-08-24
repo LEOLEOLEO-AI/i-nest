@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[BurstGatedRouting]]
-[[CoaxialLikeTGV]]
+[[Cognitive_Relapse_Decoupling]]
 [[CounterstreamSignalPropagation]]
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]

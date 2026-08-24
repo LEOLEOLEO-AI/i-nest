@@ -28,12 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[Air_Combat_Autonomy]]
 [[Associative_Retrieval]]
 [[AttractorNeuralNetwork]]
+[[AutoAssociativeMemoryRobustness]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
-[[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

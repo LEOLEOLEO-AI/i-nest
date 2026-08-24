@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[InterfaceCentricTopology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[TCC]]
 
 ## Sources

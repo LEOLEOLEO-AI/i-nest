@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BrainBodyResonance]]
+[[CascadedAdaptiveCombiners]]
 [[ConceptualNetworkEmbedding]]
 [[Dendritic_In_Context_Learning]]
 [[Dynamic_Expert_Fusion]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[VisualSemanticDecoding]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[spiking neural network]]
@@ -48,3 +51,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- fMRI_VisualSemanticDecoding (merged 2026-08-25)

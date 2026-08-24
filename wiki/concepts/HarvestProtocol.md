@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletSignalIntegrity]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
-[[CoaxialLikeTGV]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DirectConnect_Topology]]
@@ -40,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
+[[PhotonicPackagingEfficiency]]
 [[TCC]]
 
 ## Sources

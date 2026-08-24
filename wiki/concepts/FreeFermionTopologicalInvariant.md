@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[Three_Layer_Memory_Infrastructure]]
+[[TimeReversalInvariantTopologicalAlloy]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyAware_Grouping]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]
+[[Criticality]]
 [[EEG criticality]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Sleep_EEG_Criticality]]
+[[criticality]]
 [[iNEST]]
 [[sleep EEG criticality]]
 

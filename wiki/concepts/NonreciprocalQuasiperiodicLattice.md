@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]
+[[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
 [[Resilient_Satellite_Mesh]]
 [[Spiking_Neural_Network]]

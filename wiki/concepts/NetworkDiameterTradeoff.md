@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

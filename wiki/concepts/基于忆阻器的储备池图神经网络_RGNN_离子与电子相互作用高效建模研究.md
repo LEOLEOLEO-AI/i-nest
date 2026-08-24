@@ -24,6 +24,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[Brain_Connectome]]
+[[Connectome]]
 [[Connectome_Verification_Protocol]]
 [[HigherOrderSimplicialDynamics]]
 [[Memristor_Synapse]]
@@ -38,4 +39,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[北大团队提出高精度模拟矩阵方程求解方案_突破算力瓶颈_开启6G与类脑计算新路径_]]
 [[忆阻器]]
 [[晶圆级忆阻器无源交叉阵列制造技术_脑规模神经形态计算突破_]]
+[[神经形态计算]]
 [[神经网络]]
+[[综述_革新神经形态计算：基于忆阻器的人工神经元]]

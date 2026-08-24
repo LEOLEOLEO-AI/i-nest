@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 
 ## Sources

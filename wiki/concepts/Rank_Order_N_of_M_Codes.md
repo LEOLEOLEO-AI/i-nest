@@ -36,12 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalInformationStorage]]
-[[Temporal_Coding]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[neuromorphic computing]]
 [[sparse distributed memory]]
 [[temporal coding]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
+[[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[神经网络]]
 [[脉冲神经网络]]
 

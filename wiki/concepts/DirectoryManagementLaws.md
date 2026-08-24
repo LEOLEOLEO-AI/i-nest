@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ReSCom_Accelerator]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
+[[Reconfigurable_Spiking_Architecture]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 

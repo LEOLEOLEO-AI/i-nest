@@ -33,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Dendritic_In_Context_Learning]]
 [[Dynamic_Expert_Fusion]]
 [[EmulationTheoryObserver]]
-[[EventDrivenComputation]]
+[[EventDrivenFunctionalConnectivity]]
 [[In_Context_Learning]]
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DTGA]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Power_Management]]
 [[Network_Topology_Design]]
 [[TCC]]
 

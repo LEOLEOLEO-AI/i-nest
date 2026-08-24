@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
-[[EventDrivenComputation]]
+[[Endocrine_Modulated_Network_State]]
 [[EventDrivenFunctionalConnectivity]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]

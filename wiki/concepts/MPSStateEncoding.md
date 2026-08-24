@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactFieldVariable]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[DiagnosticReportFramework]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]

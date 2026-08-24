@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[BigBrainCellularAxis]]
@@ -42,7 +43,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
-[[MultiplicativeGainCondition]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseDiagram]]
 [[Contested_Priors_Mechanism]]
 [[CoupledOscillatorReservoir]]
+[[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

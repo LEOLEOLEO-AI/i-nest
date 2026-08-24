@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_FullSpectrum_Strategy]]
+[[ASIC_Dualism]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[RTC_Primitive]]
-[[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDI_Topology]]
@@ -42,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[Topology_Reconfiguration]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

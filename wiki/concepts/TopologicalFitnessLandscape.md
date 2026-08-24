@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DGS_SplatPrimitive]]
 [[AI_Driven_Architecture_Search]]
+[[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[CST_Spatiotemporal_Complexity]]
 [[CST_Spatiotemporal_Complexity_Theorem]]
 [[Complex_System]]
 [[Complex_System_Theory]]

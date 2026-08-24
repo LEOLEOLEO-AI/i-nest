@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
-[[EventDrivenComputation]]
+[[ExactFiringRateModel]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[NeuralNetworkSpectralAnalysis]]

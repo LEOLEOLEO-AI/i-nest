@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
-[[EventDrivenAttention]]
+[[EventDrivenAttentionMechanism]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]

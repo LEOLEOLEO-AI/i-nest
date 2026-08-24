@@ -34,10 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[Boundary_Criticality]]
 [[BranchingRatio]]
 [[BurstGatedRouting]]
+[[Criticality]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[ScalingExponents]]
 [[Self_Organized_Criticality]]
+[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Fluidic_Hysterons]]
 [[GroupInteractionThreshold]]
 [[ITP_STDP]]
+[[Layer_Specific_Spreading_Rate]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

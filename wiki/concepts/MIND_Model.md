@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Agent_Workflow_Automation]]
 [[BifurcationCandidateSet]]
+[[CompactBosonDuality]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]

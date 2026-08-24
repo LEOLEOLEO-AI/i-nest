@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndTopologyLearning]]
 [[Independent_AI_Player_Endgame]]
 [[MagicStateProtocolAwareCompilation]]
+[[MagicStateProtocol]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[TCC]]

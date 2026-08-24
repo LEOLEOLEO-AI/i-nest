@@ -30,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Substrate]]
 [[Neuromorphic_computing]]
 [[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]

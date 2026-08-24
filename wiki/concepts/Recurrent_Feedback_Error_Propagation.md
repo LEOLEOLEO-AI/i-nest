@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BackflowTransformation]]
 [[Branch_Prediction]]
+[[Cascading_Failure_Mitigation]]
 [[CrossInstitutionalNetwork]]
 [[CrossLayer_SignalRouting]]
 [[EdgeIoTEnergyAwareness]]

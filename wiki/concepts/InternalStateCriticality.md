@@ -24,10 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
-[[CriticalityOnSmallWorlds]]
-[[Criticality_Avoidance_Theory]]
-[[Criticality_Induced_Computation]]
-[[Criticality_Transition]]
+[[Criticality]]
 [[Disorder_Anomaly_Duality]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
@@ -39,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

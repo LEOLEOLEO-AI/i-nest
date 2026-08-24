@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[Brain_Connectome]]
+[[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Verification_Protocol]]
 [[Event_Driven_Architecture]]
@@ -37,6 +38,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[_Nature子刊_储备池计算不再是_黑盒_Intel与加州伯克利联手打造_原则性_神经形态架构]]
 [[getnote_2026-01-12_低功耗智能新范式]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]

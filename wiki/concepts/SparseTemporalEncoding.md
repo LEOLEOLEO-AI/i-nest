@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Memory_Wall]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

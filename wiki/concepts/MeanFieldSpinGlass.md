@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]

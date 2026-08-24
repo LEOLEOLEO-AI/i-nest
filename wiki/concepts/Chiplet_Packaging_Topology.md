@@ -31,10 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
+[[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Interconnect]]
 [[TCC]]
 
 ## Sources

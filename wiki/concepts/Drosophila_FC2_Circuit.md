@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

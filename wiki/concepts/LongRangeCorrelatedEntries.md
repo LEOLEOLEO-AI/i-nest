@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Cost_Dominance]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
+[[LocalGraphTopologyProtection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

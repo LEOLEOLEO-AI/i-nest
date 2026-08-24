@@ -32,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpticalNeuralNetworkTopology]]
 [[OptimalRepresentation]]
-[[OptimalRepresentations]]
 [[PhotoIontronicSynapse]]
 [[ReliabilityOverheadTradeoff]]
 [[SpikePacketCompression]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[P_Paradigm]]
+[[QuantumCircuitCompression]]
 [[TopologicalAndersonChernInsulator]]
 [[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

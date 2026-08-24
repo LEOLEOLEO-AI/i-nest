@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Self_Organized_Criticality]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

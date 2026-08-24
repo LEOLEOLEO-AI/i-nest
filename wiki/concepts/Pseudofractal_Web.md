@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Hierarchical_Attachment]]
 [[ImaginaryGaugePhaseImprint]]
+[[IntegrationProspectsForVLSI]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

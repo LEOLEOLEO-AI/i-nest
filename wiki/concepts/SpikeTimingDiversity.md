@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Fatigue_SpikePattern]]
 [[Globally_Optimal_SNN_Training]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

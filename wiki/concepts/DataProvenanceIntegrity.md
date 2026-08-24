@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Connectome]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[EmergentOrder]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -51,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
-[[RTC_Primitive_Set]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
@@ -74,6 +75,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[connectome]]
 [[iNEST]]
 
 ## Sources

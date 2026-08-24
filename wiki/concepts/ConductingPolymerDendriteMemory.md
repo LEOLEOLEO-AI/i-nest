@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[Memristor_Synapse]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicTransformerPipeline]]

@@ -23,26 +23,29 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[Brain_Connectome]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Connectome]]
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]
-[[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Scale_Dependent_Coherence]]
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryDynamics]]
 [[Synaptic_Plasticity]]
-[[Syncytial_Mesh_Model]]
+[[Syncytial_Mesh]]
 [[UniversalIntelligence_Emergence]]
+[[connectome]]
 [[iNEST]]
 [[neuromorphic substrate]]
 
@@ -51,3 +54,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- ConnectomeTransfer (merged 2026-08-25)

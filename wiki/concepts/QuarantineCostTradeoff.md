@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

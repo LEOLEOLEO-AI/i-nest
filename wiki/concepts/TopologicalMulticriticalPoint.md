@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[DataMovementMinimization]]
 [[Dynamic_Expert_Fusion]]

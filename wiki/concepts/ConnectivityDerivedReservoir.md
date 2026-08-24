@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AlternativeBridgingModels]]
 [[CoupledOscillatorReservoir]]
+[[DivergentHigherAreaRanking]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

@@ -23,12 +23,14 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[Criticality]]
 [[CrossDomain_Integration]]
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
+[[IMPLYMemristiveISA]]
 [[Intelligence_Emergence]]
 [[Memristive_CAM_Indexing]]
 [[Network_Topology_Design]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SiC_GaN_Power_Integration]]
 [[TopologicalAndersonChernInsulator]]
+[[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

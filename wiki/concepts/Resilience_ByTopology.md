@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EdgeIoTEnergyAwareness]]
+[[Evolutionary_Structure_Computability]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

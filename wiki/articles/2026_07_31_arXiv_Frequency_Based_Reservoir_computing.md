@@ -12,3 +12,12 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Reservoir computing]]
+[[Reservoir_Computing]]
+[[TCC]]
+[[iNEST]]
+[[inest]]

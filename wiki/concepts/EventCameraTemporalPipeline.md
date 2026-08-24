@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
+[[Criticality]]
+[[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]

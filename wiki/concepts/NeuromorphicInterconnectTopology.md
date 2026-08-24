@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecurrentSpikingTopology]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

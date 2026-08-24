@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[PolymerComposite_Substrate]]
 [[SDI_Bond]]
 [[SNN]]
+[[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

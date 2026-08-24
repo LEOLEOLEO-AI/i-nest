@@ -27,12 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Substrate]]
 [[Neuromorphic_computing]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
@@ -44,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

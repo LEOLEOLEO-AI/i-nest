@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CriticalityInducedTopology]]
+[[Criticality]]
 [[Decoupled_Priors]]
 [[EventDrivenRiskAssessment]]
 [[Generative_Graph_Models]]

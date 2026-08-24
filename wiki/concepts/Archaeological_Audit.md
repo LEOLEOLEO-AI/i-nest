@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
+[[FullDimensionalDefinableInterconnect]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

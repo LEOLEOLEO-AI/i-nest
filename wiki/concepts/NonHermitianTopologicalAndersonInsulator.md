@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[Accessibility_Plasticity]]
 [[Allreduce_Latency_Probe]]
+[[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[BiologicalNoiseMimicry]]
 [[CompartmentalNeuronModel]]

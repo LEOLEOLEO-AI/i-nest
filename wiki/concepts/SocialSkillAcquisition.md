@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AddressRedundancyElimination]]
-[[AutonomousSpikingDynamics]]
 [[CollectiveDynamics]]
 [[Constructed_Reality_Model]]
 [[CrossLayer_SignalRouting]]
@@ -31,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
+[[LossSpikePhenomenon]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

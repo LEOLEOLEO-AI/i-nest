@@ -20,16 +20,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Assisted_Energy_Management]]
+[[AdaptiveEntanglementManagement]]
 [[AdaptiveFrequencyResonateFire]]
 [[Automated_Reward_Shaping]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[Capability_Reserve_Index]]
 [[Catastrophic_Forgetting]]
-[[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]
 [[CounterstreamSignalPropagation]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]

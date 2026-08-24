@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction]]
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenMaterialDesign]]
-[[EEGToNeuromorphicMapping]]
+[[DivergentHigherAreaRanking]]
 [[Emerging_CMOS_Memristor]]
 [[FrequencyBasedReservoir]]
 [[Globally_Optimal_SNN_Training]]

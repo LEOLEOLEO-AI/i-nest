@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[MachineLearningNanomaterialDiscovery]]
 [[NetworkTopologyEffects]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]

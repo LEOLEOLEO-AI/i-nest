@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
+[[ComputeRelocationOverhead]]
 [[DualSided_3D_Integration]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]

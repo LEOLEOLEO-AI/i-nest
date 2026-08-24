@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[PerturbationSpaceTrajectory]]
 [[PowerLawScaling]]
+[[RealTimeImageToEventConversion]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]

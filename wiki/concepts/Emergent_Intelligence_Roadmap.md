@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Priors_Mechanism]]
+[[DataDrivenCellularAxis]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

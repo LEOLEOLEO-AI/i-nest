@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
+[[LearningTransition]]
 [[Memristive_Topology]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -42,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

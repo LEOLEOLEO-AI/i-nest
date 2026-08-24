@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[EmergentTaskDecomposition]]
 [[ExplainableEnergyAI]]
+[[FractalPathEntropy]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Faculty_Forum_2026]]
 [[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]
 [[CST计量仪]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]

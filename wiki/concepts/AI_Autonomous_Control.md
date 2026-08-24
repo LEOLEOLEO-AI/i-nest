@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
 [[AdversarialSensingResilience]]
+[[Air_Combat_Autonomy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Complex_System]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[PhaseAwareBisectionDemand]]
+[[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

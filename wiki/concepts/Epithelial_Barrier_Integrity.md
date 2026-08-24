@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[ForwardFluctuationGradient]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]

@@ -29,10 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[Avalanche_Dynamics]]
 [[Avoided_Criticality]]
+[[Baseline_Change_Record]]
 [[BranchingRatio]]
+[[Criticality]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

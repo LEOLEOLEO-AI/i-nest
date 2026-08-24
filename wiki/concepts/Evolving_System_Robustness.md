@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CoexistencePhaseDiagram]]
 [[Cognitive_Relapse_Architecture]]
+[[Cognitive_Relapse_Decoupling]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

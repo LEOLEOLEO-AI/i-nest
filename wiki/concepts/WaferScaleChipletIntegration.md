@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OpticalNeuralNetworkTopology]]
 [[PhysicalWaferTriplet]]
+[[SDSoW]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

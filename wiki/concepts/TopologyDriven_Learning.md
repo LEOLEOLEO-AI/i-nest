@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FreeFermionTopologicalInvariant]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
+[[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[TCC]]

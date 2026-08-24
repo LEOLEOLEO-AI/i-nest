@@ -24,6 +24,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[Brain_Connectome]]
+[[Connectome]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[PPT]]
@@ -41,3 +42,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
 [[神经网络]]
+[[综述_革新神经形态计算：基于忆阻器的人工神经元]]

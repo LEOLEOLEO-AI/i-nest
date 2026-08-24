@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[QuantumReservoirMemoryCapacity]]
 [[TCC]]
 [[UltraCompactOpticalComputing]]
 [[涌现]]

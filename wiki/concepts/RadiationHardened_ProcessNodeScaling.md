@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[OnChipOpticalTweezers]]
 [[Space_Compute_Architecture_Tradeoff]]
 [[TCC]]
-[[Topology_Reconfiguration]]
 [[topology reconfiguration]]
 
 ## Sources

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[Contested_Priors_Mechanism]]
 [[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
@@ -51,3 +52,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- ReconfigurableSNNAccelerator (merged 2026-08-25)

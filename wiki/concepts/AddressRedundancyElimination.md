@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN_to_SNN_Conversion_Error_Amplification]]
-[[AutonomousSpikingDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
 [[ComplexValuedSNN]]
@@ -28,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Frontier_Innovation_Mapping]]
 [[GradientBasedSpikeLearning]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]

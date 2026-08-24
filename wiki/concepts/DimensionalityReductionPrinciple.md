@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
 [[BitPrecisionAwareScheduling]]
+[[Closed_Loop_Neuromodulation]]
 [[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]
 [[Dynamic_Expert_Fusion]]

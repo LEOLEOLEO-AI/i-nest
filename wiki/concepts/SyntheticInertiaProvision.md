@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RecurrentOscillatoryComputation]]
 [[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]
 [[TCC]]

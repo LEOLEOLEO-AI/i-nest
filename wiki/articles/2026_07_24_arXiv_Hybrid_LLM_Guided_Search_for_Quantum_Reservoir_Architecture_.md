@@ -12,3 +12,12 @@ iNEST, topology
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Network_Topology_Design]]
+[[Quantum_Reservoir_Architecture]]
+[[Reservoir_Computing]]
+[[iNEST]]
+[[inest]]

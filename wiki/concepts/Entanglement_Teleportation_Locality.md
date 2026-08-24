@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Deep_Thermalisation]]
 [[Emergent_Intelligence_Threshold]]
+[[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[deep thermalisation dynamics]]
 [[deep thermalisation]]
 [[vLLM_plugin_FLSDI]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
@@ -54,3 +56,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- EntanglementTeleportationLocality (merged 2026-08-25)

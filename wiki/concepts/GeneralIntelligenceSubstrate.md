@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SoftwareDefinedSystemOnWafer]]
+[[Software_Defined_Interconnect]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

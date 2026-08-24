@@ -32,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
-[[SDI_TopologyInterconnect]]
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -42,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
 [[TopologyCentricPrimitiveSystem]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[temporalComplexity]]
 

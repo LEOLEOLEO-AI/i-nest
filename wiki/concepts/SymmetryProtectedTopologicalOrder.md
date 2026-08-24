@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[ActionWeightedPathEnsemble]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[MonitoredQuantumDynamics]]
 [[Network_Topology_Design]]
-[[NonHermitianTopology]]
 [[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

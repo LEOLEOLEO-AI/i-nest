@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Supply_Chain_Increment]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -19,12 +19,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActivityAvalanche]]
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
 [[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]
+[[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DirectTrainingFromScratch]]
 [[Emergent_Intelligence_Threshold]]

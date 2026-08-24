@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
+[[NestedRepresentation]]
 [[NeuromorphicHardware]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]

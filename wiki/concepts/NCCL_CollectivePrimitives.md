@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalInertiaEstimation]]
 [[EdgeAI_Market_Consolidation_Driver]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Security]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[神经网络]]

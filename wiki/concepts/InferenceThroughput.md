@@ -21,9 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Beyond_Moore_Packaging_Strategy]]
-[[CoaxialLikeTGV]]
 [[ConsciousnessEngineeringLoop]]
 [[CrystalPalace_Program]]
+[[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
 [[ERI_2_0_Strategic_Framework]]
 [[EndToEndLinkSimulation]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Cellular_vs_LEO_Satellite_Handoff]]
 [[CrossDomainAwareness]]
 [[DistributedTrainingCommunicationPattern]]
+[[Emergent_Abilities]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[FullSpectrum_DomainIntegration]]

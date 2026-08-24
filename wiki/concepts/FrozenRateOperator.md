@@ -23,11 +23,13 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Connectome]]
 [[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleSparsity]]
+[[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[connectome]]
 [[iNEST]]
 
 ## Sources

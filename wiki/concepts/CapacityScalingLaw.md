@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ConvolutionalRestrictedHopfieldNetwork]]
 [[DelayCodedWorkingMemory]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenInference]]
 [[ExponentialDenseAssociativeMemory]]
 [[Ferroelectric_Devices]]
 [[Field_Compression_for_InNetwork_Inference]]

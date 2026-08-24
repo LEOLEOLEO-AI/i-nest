@@ -25,12 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AnisotropicGaussianPrimitives]]
 [[AsynchronousEventDrivenComputation]]
+[[Criticality]]
 [[DynamicalCriticality]]
 [[Edge_Neuromorphic_Compute]]
 [[ElasticInferenceScheduling]]
 [[EmulationTheoryObserver]]
 [[EventCameraPoseInput]]
-[[EventDrivenComputation]]
 [[ImpactFallDetection]]
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SparseActivationSkipping]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

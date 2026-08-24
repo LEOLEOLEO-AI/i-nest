@@ -30,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Substrate]]
+[[Neuromorphic_computing]]
 [[Neuromorphic_computing_architecture]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
@@ -38,12 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
-[[Spike_timing_dependent_plasticity_learning_rule]]
+[[Spike_timing_dependent_plasticity]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network_dynamics]]
+[[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

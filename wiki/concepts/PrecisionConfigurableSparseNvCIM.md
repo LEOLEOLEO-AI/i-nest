@@ -19,19 +19,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
-[[EventDrivenAttention]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
+[[NestedRepresentation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

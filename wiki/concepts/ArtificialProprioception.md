@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_To_Information_Conversion]]
 [[ClosedLoopNeuromorphicControl]]
+[[Continual_Learning_Modularity]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[StochasticVehicleRouting]]

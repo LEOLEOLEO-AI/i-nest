@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SystemLevelNonlinearity]]
+[[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 
 ## Sources

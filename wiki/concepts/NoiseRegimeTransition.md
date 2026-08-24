@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
-[[CategoricalClosureCriterion]]
 [[CollectiveStateResilience]]
 [[Critical_Exponent_Scaling]]
-[[Criticality_of_Natural_Languages]]
+[[Criticality]]
+[[DynamicalSelfDualCriticality]]
 [[Dynamical_State_Space]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]

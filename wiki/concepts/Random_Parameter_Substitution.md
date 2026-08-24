@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[ForwardFluctuationGradient]]
 [[FunctionalInterfaceBlocks]]
-[[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[IntegratedSensingFusion]]
 [[IntegrationProspectsForVLSI]]

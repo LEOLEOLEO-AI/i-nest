@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[Beyond_Moore_Packaging_Strategy]]

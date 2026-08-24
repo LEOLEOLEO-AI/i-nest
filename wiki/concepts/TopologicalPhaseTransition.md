@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Fixed_Cost_Dominance]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[忆阻器]]
+[[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[类脑芯片]]
 

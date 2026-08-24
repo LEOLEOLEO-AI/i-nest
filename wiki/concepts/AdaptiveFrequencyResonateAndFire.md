@@ -28,9 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AsynchronousEventDrivenComputation]]
 [[BayesianDomainEvolution]]
+[[Criticality]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]
-[[EventDrivenComputation]]
 [[MultiModel_Adapter_Architecture]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StrategyDiffusionCoupling]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[CrossDomainAwareness]]
 [[DistributedTrainingCommunicationPattern]]
+[[Emergent_Abilities]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[FullSpectrum_DomainIntegration]]

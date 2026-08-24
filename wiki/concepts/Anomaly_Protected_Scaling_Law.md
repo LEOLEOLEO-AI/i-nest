@@ -25,14 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[BayesianConnectivityEstimation]]
 [[BranchingRatio]]
-[[CriticalityDrivenAdaptation]]
 [[CriticalityDrivenStateTransition]]
-[[CriticalityDrivenTopology]]
-[[CriticalityOffCriticalityTransition]]
-[[Criticality_Induced_Plasticity]]
+[[Criticality]]
 [[CrossbarFabricTopology]]
 [[DisorderInducedCriticality]]
-[[EntangledCriticality]]
 [[Fractal_Wavefront_Scaling]]
 [[ImmobilizationStabilityMechanism]]
 [[Network_Topology_Design]]
@@ -41,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topological_Criticality]]
+[[criticality]]
+[[quantum criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

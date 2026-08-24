@@ -19,10 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
-[[Criticality_Based_Feature_Extraction]]
-[[DisorderDrivenQuantumPhaseTransition]]
+[[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[TopologyDrivenDynamics]]
 [[TopologyDrivenVulnerability]]
+[[criticality]]
 [[iNEST]]
 [[spiking neural network]]
 

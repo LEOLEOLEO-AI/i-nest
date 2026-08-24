@@ -25,10 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
-[[AutonomousSpikingDynamics]]
 [[BitPrecisionAwareScheduling]]
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
+[[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[OpenLearningEcosystem]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Spiking_Neural_Network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

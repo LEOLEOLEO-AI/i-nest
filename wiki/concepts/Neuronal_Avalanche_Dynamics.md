@@ -24,23 +24,27 @@ Auto-extracted concept from raw material compilation.
 [[Avalanche_Dynamics]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[ForwardFluctuationGradient]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
+[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Loihi2_OnChip_Learning]]
 [[Metriplectic_Twin]]
 [[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
-[[NeurovascularUnitEngineering]]
+[[NeuronalAvalanche]]
+[[NeurovascularUnit]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
+[[criticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
@@ -49,3 +53,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- NeuronalAvalancheDynamics (merged 2026-08-25)

@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Architecture_Search]]
-[[AutonomousSpikingDynamics]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

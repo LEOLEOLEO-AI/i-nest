@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]
 [[EventDrivenSynchronization]]
+[[Event_Driven_Architecture]]
 [[ImpactFallDetection]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]

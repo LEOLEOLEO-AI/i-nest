@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
 [[FormalToolchain]]
+[[GPU_Cluster_SNN_Architecture]]
 [[NeuromorphicAuditoryFrontend]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]

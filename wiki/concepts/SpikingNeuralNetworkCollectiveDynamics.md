@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[CollectiveDynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableEnergyAI]]
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

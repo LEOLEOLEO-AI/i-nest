@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Representation_Learning_Generalization]]
+[[Resilient_Sensing_Comms_Network]]
 [[ScalableNeuromorphicTopology]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

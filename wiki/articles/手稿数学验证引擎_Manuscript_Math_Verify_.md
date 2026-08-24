@@ -12,3 +12,13 @@ iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[SOC]]
+[[Self_Organized_Criticality]]
+[[iNEST]]
+[[涌现]]

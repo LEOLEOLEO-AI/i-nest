@@ -27,9 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
-[[CriticalityOnSmallWorlds]]
-[[Criticality_Induced_Computation]]
-[[Criticality_Induced_Plasticity]]
+[[Criticality]]
 [[DisorderInducedCriticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -40,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[criticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

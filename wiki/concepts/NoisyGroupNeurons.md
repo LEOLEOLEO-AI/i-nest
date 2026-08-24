@@ -26,9 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AddressRedundancyElimination]]
 [[Avoided_Criticality]]
+[[Course_Based_FPGA_Prototyping]]
+[[Criticality]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

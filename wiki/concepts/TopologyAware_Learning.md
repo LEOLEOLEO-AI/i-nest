@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

@@ -30,8 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[AvalancheBranchingRatio]]
+[[BranchingRatio]]
+[[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
@@ -41,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[WeightedPathInfluence]]
+[[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

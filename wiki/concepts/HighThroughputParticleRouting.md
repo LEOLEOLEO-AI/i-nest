@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Application_Scenario_Reconstruction]]
 [[Allreduce_Latency_Probe]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CoDesigned_SNN]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[DeeplySupervisedSpiking]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_Backpropagation_Through_Time]]
+[[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTraining]]

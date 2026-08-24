@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
 [[Flow_Network_Memory]]
+[[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

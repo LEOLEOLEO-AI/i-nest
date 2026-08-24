@@ -27,16 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Replication_Strategy]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
-[[CriticalityConstrainedPruning]]
-[[Criticality_Avoidance_Theory]]
-[[Criticality_of_Natural_Languages]]
+[[Criticality]]
 [[DynamicalCriticality]]
 [[EdgeOfChaos]]
 [[MicroCriticalAgent]]
 [[Neuromorphic_Computing]]
-[[OptimalRepresentationCriticality]]
 [[OptimalRepresentation]]
 [[Self_Organized_Criticality]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

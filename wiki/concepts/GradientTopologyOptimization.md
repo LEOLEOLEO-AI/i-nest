@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
+[[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[CST_Intelligence_Emergence]]
 [[Complex_System_Theory]]

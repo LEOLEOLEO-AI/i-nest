@@ -19,7 +19,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
@@ -29,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsembleComputation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Management]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
+[[AdaptiveMeasurementProtocol]]
 [[AdaptiveTimeStepTraining]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]

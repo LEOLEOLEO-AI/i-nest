@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Embedding_Reservoir]]
 [[DARPA_ProjectManager_Model]]
 [[Dynamical_State_Space]]
+[[Environmental_Coupling_Organization]]
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
 [[Network_Topology_Design]]

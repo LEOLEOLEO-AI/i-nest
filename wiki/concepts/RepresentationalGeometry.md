@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DefectDynamics]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

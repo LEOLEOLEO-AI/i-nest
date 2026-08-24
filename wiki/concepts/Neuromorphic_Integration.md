@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingMoE_SDPrompt]]
 [[Spiking_Mixture_of_Experts]]
 [[Spiking_Neural_Network]]
 [[TCC]]

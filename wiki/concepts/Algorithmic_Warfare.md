@@ -20,12 +20,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BioInspired_Interception_Control]]
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[CriticalStateInformationMaximization]]
-[[CriticalityConstrainedPruning]]
-[[CriticalityDrivenStateTransition]]
-[[Criticality_Based_Feature_Extraction]]
+[[Criticality]]
 [[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

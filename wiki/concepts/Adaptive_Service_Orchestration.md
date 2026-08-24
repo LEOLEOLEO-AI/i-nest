@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[Compute_In_Memory_Neuromorphic]]
 [[FisherInformationMetric]]
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]

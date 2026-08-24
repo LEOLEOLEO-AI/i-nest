@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[CirculateFiringNeuron]]
 [[CoPackagedOptics]]
-[[CoaxialLikeTGV]]
 [[CommunicationHeterogeneity]]
 [[Cryogenic_Syndrome_Compression]]
 [[EdgeIoTEnergyAwareness]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuralPrecision]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Soldier_Augmentation_BioCyber_Interface]]
 

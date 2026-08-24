@@ -19,12 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Accessibility_Plasticity]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]
-[[Emergent_Computation]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
 [[FlexibilityThreshold]]

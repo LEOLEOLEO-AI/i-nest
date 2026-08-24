@@ -12,3 +12,13 @@ TCC, chiplet, interconnect, topology, wafer
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Chiplet_Heterogeneous_Integration]]
+[[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[Reservoir_Computing]]
+[[TCC]]
+[[Wafer_Scale_Integration]]

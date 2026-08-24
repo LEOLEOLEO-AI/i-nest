@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Trace_Diagnostics]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

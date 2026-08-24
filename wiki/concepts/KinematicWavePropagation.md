@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN_to_SNN_Conversion_Error_Amplification]]
+[[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[CurrentInjectionSNN]]
 [[DirectTrainingSNN]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Gradient_Free_SNN_Learning]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Kinematic waves]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

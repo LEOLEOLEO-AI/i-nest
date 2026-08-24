@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
+[[GraphTopologyAnalysis]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]

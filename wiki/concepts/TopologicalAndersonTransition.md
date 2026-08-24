@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
+[[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

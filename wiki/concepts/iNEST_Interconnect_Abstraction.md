@@ -22,13 +22,19 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[AutonomousAdaptation]]
+[[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[OnChipOpticalTweezers]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[Synaptic_Plasticity]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

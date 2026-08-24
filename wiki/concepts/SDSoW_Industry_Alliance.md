@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[FlagScale]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

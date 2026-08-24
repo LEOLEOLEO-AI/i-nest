@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
-[[CoaxialLikeTGV]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossLayer_SignalRouting]]
 [[DARPA_Technology_Incubation]]
@@ -35,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[Military_AI_Revolution]]
+[[RecurrentOscillatoryComputation]]
 [[TCC]]
 
 ## Sources

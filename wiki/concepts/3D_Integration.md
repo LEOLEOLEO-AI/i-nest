@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[DirectConnect_Topology]]
 [[EdgeIoTEnergyAwareness]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

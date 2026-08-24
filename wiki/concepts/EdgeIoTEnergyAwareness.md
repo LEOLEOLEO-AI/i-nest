@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Communication_Trace_Diagnostics]]
+[[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]

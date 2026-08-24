@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[BrainBodyResonance]]
 [[FlexibilityThreshold]]
 [[MIND model]]
 [[MIND_Model]]

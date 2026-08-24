@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BrainScaleTopologyExploitation]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DendriticTaskPartitioning]]

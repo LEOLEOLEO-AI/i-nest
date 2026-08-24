@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[CST_SynergisticCoordination]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectTopology]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Complex_System]]
 [[Complex_System_Theory]]
-[[Emergent_Computation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[emergent computation]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

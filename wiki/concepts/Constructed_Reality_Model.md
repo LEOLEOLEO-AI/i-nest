@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[AddressRedundancyElimination]]
 [[Analog_Computation]]
-[[AutonomousSpikingDynamics]]
 [[CirculateFiringNeuron]]
 [[CollectiveDynamics]]
 [[CrossLayer_SignalRouting]]
@@ -36,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[LossSpikePhenomenon]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[RateEncodedVisualPlaceRecognition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]

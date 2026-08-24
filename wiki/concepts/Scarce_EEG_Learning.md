@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DifferentiableRasterizationPipeline]]
 [[EdgeOfChaos]]
+[[EndToEndTopologyLearning]]
 [[GenericObjectTracking]]
 [[IMPLYMemristiveISA]]
 [[Independent_EdgeAI_Player_Endgame]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryNetwork]]
 [[Topology_Centric_Neuromorphic]]
-[[Topology_Centric_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

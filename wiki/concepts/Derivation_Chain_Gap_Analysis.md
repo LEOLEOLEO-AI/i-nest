@@ -27,9 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[Criticality]]
 [[Intelligence_Emergence]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[Textbook_Paradigm_Definition]]
+[[Topology_Centric_Computing]]
 [[iNEST]]
 
 ## Sources

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FractalPathEntropy]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristive_STDP]]
 [[NetworkHysteresis]]
 [[Network_Topology_Design]]
 [[RamanInducedGaugeField]]

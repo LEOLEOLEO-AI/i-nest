@@ -28,6 +28,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Brain_Connectome]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Verification_Protocol]]
 [[CriticalPhaseTransitionStatisticalTest]]
@@ -36,4 +37,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Krakencoder_Embedding]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[iNEST]]

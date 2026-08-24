@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibleManifoldReconfiguration]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
-[[NeuromorphicHardwareDeployment]]
 [[NeuromorphicHardware]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]

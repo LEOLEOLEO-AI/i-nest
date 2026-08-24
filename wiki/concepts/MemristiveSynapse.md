@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingPlaceCellEnsemble]]
+[[SpikingPointCloudPEFT]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[neuromorphic computing]]

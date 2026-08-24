@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
-[[Spike_timing_dependent_plasticity_learning_rule]]
+[[Spike_timing_dependent_plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[fractal_Scaling]]

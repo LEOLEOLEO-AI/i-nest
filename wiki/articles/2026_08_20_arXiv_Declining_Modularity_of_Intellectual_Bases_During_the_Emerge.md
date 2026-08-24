@@ -12,3 +12,11 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Intellectual_Base]]
+[[Intelligence_Emergence]]
+[[TCC]]
+[[iNEST]]

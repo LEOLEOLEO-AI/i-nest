@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Avalanche_Dynamics]]
 [[Critical_Exponent_Scaling]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Izhikevich_NeuronModel]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

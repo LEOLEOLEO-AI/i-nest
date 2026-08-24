@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[Deep_Network_Architecture_Invariant]]
 [[DifferentiableRasterizationPipeline]]
 [[EdgeOfChaos]]
 [[ElectromigrationReliability]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThirdWaveAI]]
 [[Topology_Centric_Neuromorphic]]
-[[Topology_Centric_Neuromorphic_Integration]]
 [[WaferScaleSubstrate]]
 [[iNEST]]
 

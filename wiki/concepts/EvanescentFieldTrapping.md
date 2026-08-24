@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]
+[[DendriticReservoirState]]
 [[EdgeIoTEnergyAwareness]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Heterogeneous_Integration]]

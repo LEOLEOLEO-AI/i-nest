@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BCM滑动阈值]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CollectiveDynamics]]
 [[Complex_System]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

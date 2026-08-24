@@ -21,12 +21,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
-[[AutonomousSpikingDynamics]]
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsembleComputation]]
 [[Intelligence_Emergence]]
 [[MagnitudePhaseComputationalModel]]
 [[NeuralNetworkSpectralAnalysis]]

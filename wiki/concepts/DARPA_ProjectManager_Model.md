@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[EulaminateOverrepresentation]]
 [[FPGA_Accelerated_SNN]]
+[[Memristive_Interconnect]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Centric_Interconnect]]
 [[UntrainedReservoirReadout]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 

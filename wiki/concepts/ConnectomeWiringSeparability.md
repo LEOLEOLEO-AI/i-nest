@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Brain_Connectome]]
 [[CompleteConnectomeDynamics]]
+[[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]

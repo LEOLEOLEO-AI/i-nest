@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayPropagationDynamics]]
 [[EdgeIoTEnergyAwareness]]
 [[ExactWiringRouting]]
+[[GrandCanonicalOptimization]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

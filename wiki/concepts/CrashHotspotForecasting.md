@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[ProactiveTrafficSafety]]
 [[Reservoir_Computing]]

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[CounterstreamSignalPropagation]]
 [[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
+[[FlexibilityThreshold]]
+[[Gut_Brain_Immune_Network]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]

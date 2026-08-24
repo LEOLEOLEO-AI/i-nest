@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Post_Moore_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]

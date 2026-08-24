@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedPhaseTransition]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Neuromorphic_Integration]]
 [[synaptic plasticity]]
 [[忆阻器]]
+[[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[类脑芯片]]
 

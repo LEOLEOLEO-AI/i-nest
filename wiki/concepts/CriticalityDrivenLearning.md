@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[CST_Intelligence_Emergence]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
 [[CriticalBranching]]
+[[Criticality]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TwoTimescaleNeuroEvolution]]
+[[criticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

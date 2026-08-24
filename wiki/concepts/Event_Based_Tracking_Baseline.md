@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActivityAvalanche]]
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
@@ -26,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]
+[[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[DifferentiableSpikeTimeDiscretization]]
 [[DirectTrainingFromScratch]]

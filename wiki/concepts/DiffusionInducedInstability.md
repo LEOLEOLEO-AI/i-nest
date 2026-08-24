@@ -21,10 +21,11 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[Core_Spacetime_Tensor]]
-[[Criticality_Induced_Plasticity]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]
 [[Fixed_Cost_Dominance]]

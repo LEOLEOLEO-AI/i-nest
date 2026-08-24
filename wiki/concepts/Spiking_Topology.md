@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Criticality_Based_Feature_Extraction]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -38,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticRewiringDynamics]]
 [[TCC]]
-[[Temporal_Coding]]
 [[iNEST]]
 [[temporal coding]]
 

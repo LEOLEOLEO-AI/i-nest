@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DiscreteContinuous_Unification]]
+[[DistinctReentrantPhases]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]

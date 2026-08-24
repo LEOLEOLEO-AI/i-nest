@@ -22,11 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
+[[ActivityAvalanche]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
+[[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

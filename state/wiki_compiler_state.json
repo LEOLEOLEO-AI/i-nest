@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-08-23",
+  "last_compile": "2026-08-25",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -1064,7 +1064,18 @@
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-21-2608.20147.md": 1787409356.497846,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-21-2608.20155.md": 1787409356.4438283,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-21-2608.20268.md": 1787409357.3776622,
-    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-21-index.md": 1787402112.6037831
+    "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-21-index.md": 1787402112.6037831,
+    "00_Inbox/AI PPT+ 方法论：从「能生成」到「生成得好」的五步工作流.md": 1787576414.6471217,
+    "00_Inbox/SIGCOMM 2026 深度解读：KV Cache 如何从 GPU 内部状态变成网络研究核心.md": 1787576414.657288,
+    "00_Inbox/关于“十五五”晶上二期组织与实施模式的建议.md": 1787576414.6884956,
+    "00_Inbox/小米三颗玄戒自研芯片全解析：手机SoC跑分首破500万，3nm智驾芯片明年商用.md": 1787576414.7085,
+    "00_Inbox/核查折子关键事实.md": 1787576414.718703,
+    "00_Inbox/美国《科学：新的黄金时代》报告深度解析：科研体制改革的机遇与争议.md": 1787576414.7289405,
+    "00_Inbox/_pipeline_insights/2026-08-24_arXiv_Emergence of cooperation A reputation-modulated reinforcemen.md": 1787524336.9104102,
+    "00_Inbox/_pipeline_insights/2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna.md": 1787524232.3195708,
+    "00_Inbox/_pipeline_insights/2026-08-24_arXiv_Petri Net Description of Biological Neural Circuits for Fast.md": 1787524342.7211046,
+    "00_Inbox/_pipeline_insights/2026-08-24_arXiv_Spike-based Belief Propagation in Nonlinear Dynamical System.md": 1787524331.118156,
+    "00_Inbox/_pipeline_insights/2026-08-24_arXiv_Universal meson spectra near $(1+1)$-dimensional Ising criti.md": 1787524299.442728
   },
   "concept_graph": {}
 }

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[RecurrentSpikingDynamics]]
 [[STDP plasticity]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

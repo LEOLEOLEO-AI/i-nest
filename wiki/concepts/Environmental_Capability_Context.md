@@ -40,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Phase_Transition_Tail_Transition]]
 [[RTC_Primitive]]
-[[RTC_Primitive_Set]]
 [[Relapse_Resilient_Interconnect]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
@@ -51,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Γst_Revision]]
 [[神经网络]]
 

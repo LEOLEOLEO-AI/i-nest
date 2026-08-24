@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Memristive_Topology]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

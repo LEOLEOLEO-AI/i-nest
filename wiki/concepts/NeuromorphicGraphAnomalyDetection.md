@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
@@ -40,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
-[[Temporal_Coding]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]

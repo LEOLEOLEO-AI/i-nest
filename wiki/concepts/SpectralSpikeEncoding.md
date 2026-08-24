@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
+[[EventDrivenAttentionMasking]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]

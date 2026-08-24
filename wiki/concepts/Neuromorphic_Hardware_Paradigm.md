@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Organization]]
+[[SDI_iNEST_Interconnect]]
 [[Signal_Folding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

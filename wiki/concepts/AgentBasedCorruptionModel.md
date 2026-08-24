@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicSpikePruning]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[NeuromorphicHardwareDeployment]]
 [[Neuromorphic_Computing]]
 [[Representation_Learning_Generalization]]
 [[SNN]]

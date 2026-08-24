@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Substrate]]
+[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI_STDP]]

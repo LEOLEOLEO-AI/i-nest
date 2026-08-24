@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[RedundancyControlledStochasticRouting]]
 [[ScalableNeuromorphicTopology]]
+[[StochasticMultiAgentRL]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
 [[iNEST]]

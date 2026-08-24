@@ -27,8 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BurstGatedRouting]]
+[[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
-[[Criticality_Based_Feature_Extraction]]
+[[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[ExactlyFlatTopologicalBands]]
 [[InNetworkComputing]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[criticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

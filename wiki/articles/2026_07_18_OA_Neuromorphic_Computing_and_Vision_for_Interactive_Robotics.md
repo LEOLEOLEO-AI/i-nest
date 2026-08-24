@@ -12,3 +12,11 @@ TCC, neuromorphic, spiking
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+[[iNEST]]

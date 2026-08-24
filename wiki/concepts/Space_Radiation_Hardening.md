@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_for_Space]]
+[[CXL_Deployment_Transition]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]

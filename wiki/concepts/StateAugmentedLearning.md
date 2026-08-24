@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MemristiveSynapse]]
 [[Memristive_STDP]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NCL神经计算定律详解]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

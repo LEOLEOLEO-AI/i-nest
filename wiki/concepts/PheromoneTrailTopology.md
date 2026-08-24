@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC_Neuromorphic_Integration]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

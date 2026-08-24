@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BackflowTransformation]]
+[[Criticality]]
 [[EventDrivenFunctionalConnectivity]]
 [[Fluidic_Hysterons]]
 [[Intelligence_Emergence]]
@@ -27,10 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonreciprocity_Threshold]]
+[[ReconfigurableSpikingRouting]]
 [[Recurrent_Feedback_Error_Propagation]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Regulation]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_Topology_Integration]]

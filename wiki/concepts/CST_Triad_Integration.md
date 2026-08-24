@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupWise_DragonflyPlus]]
 [[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
+[[LLM_Assisted_Hardware_Design]]
 [[MatrixShapeToParallelismMapping]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

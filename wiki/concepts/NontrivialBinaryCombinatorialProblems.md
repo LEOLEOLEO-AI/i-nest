@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BiasEvaluationMetrics]]
 [[BlumeEmeryGriffithsModel]]
+[[Chiplet_Integration_Route]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Memristive_Topology]]

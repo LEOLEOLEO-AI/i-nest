@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkAttractorStates]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Packaging]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

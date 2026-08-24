@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Synaptic_Motifs]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RenormalizationGroupIntelligence]]
 [[Scaling_Laws]]
 [[TCC]]
 [[iNEST]]

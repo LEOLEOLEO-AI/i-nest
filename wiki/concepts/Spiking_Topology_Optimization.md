@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]
+[[ConfigurableSNNInference]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

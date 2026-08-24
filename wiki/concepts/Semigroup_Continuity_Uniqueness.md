@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RenormalizationGroupIntelligence]]
 [[iNEST]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

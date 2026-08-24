@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ChipletWaferInterconnectCoDesign]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Abilities]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
-[[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -42,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Interconnect_Topology]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

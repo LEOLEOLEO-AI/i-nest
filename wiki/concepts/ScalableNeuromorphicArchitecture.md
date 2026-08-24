@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGASNNMemoryOptimization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MultiScaleTemporalProcessing]]

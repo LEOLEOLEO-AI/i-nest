@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[HardwareAwareFairness]]
 [[Intelligence_Emergence]]
+[[MacroEmergentProperty]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

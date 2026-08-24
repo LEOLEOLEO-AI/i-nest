@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
+[[Deep_Network_Layer_Stacking]]
 [[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

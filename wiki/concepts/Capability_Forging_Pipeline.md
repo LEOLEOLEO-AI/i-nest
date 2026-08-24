@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GlobalInformationDominance]]
 [[Heterogeneous_Integration]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDSoW]]

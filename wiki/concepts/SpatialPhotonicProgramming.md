@@ -21,8 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Analog_Computation]]
-[[AutonomousSpikingDynamics]]
 [[DARPA_ProjectManager_Model]]
+[[HeterogeneousSynapticDelays]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Memristor_Synapse]]

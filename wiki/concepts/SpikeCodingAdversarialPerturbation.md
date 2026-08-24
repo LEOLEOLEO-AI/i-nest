@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[NeuromorphicGestureEncoding]]
 [[NeuromorphicHardware]]
+[[NeuromorphicHarmonyEncoding]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
-[[Temporal_Coding]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 

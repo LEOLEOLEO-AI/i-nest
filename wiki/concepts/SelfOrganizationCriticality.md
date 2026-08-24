@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Critical_Exponent_Scaling]]
+[[Criticality]]
 [[CrystalPalace_Program]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[TwoTimescaleNeuroEvolution]]
+[[criticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

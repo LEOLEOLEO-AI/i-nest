@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGASNNMemoryOptimization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MultiScaleTemporalProcessing]]

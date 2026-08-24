@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CircuitTopologyEncoding]]
 [[EdgeIoTEnergyAwareness]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

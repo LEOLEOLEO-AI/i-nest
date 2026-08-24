@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
+[[Quadratic_Integrate_and_Fire]]
 [[QuantumDeeplySupervisedSpiking]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

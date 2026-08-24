@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[Avoided_Criticality]]
 [[Contested_Priors_Mechanism]]
+[[Criticality]]
+[[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]

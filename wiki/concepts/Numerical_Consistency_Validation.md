@@ -23,12 +23,12 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BitPrecisionAwareScheduling]]
-[[CoaxialLikeTGV]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
 [[Collective_State_Convergence]]
 [[ConnectomicDevelopmentalTrajectory]]
 [[Constructed_Reality_Interconnect]]
+[[ContextualReasoning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 

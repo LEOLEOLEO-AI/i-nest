@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Multifractal_Signatures]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[NeurovascularUnitEngineering]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Spike_Encoding_of_fMRI]]

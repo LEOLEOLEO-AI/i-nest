@@ -19,21 +19,21 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[BigBrainCellularAxis]]
 [[ConductingPolymerDendriteMemory]]
 [[DelayCodedWorkingMemory]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
-[[HebbianLimitCycleLearning]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedPhaseTransition]]
+[[NestedRepresentation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Spiking]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

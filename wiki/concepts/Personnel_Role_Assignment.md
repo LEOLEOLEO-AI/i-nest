@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
+[[CellEmergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_ComputeInMemory]]

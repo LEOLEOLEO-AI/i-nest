@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[Contested_Priors_Mechanism]]
 [[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

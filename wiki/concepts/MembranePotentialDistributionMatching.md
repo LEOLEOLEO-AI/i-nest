@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
 [[Course_Based_FPGA_Prototyping]]
+[[Criticality]]
+[[DiscreteContinuous_Unification]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

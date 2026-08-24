@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[InfluencePropagationLoop]]
 [[Intelligence_Emergence]]
+[[IntrinsicTimingSTDP]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

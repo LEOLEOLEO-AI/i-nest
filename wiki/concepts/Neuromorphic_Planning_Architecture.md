@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GeometricNeuromorphicFusion]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]

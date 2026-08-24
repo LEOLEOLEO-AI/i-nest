@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AutonomousAdaptation]]
 [[CellEmergence]]
+[[Control_Field_Framework]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Developmental_Computing]]
 [[Emergent_Intelligence_Threshold]]

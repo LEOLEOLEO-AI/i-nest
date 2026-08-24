@@ -12,3 +12,10 @@ TCC, iNEST, interconnect, wafer
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[TCC]]
+[[iNEST]]
+[[tcc]]

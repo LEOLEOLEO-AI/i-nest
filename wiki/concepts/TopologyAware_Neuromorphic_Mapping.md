@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Baseline_Draft_Status]]
 [[CellEmergence]]
+[[Closed_Loop_Neuromodulation]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

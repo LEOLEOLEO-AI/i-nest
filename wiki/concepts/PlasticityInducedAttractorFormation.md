@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
 [[AirportNetworkGraphEmbedding]]
+[[AmplifyingNetworkTopology]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[synaptic plasticity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

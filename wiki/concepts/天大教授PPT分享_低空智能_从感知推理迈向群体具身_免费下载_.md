@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[DualTopologyProductSplit]]
 [[GroupWise_DragonflyPlus]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[PPT]]
@@ -49,3 +50,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]

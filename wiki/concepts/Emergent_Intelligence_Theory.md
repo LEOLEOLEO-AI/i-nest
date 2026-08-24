@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[Constructed_Reality_Interconnect]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

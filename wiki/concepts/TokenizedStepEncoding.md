@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[DeeplySupervisedSpiking]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[Distributed_Spike_Communication]]
 [[ErrorAmplificationLimits]]
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[SurrogateGradientTraining]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
-[[Temporal_Coding]]
 [[iNEST]]
 [[temporal coding]]
 

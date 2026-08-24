@@ -39,10 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_iNEST_Topology]]
+[[SystemLevelNonlinearity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

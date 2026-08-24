@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ParallelSNNArchitecture]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDSoW]]
 [[SNN]]
 [[ScaleFreeNetwork]]
 [[SpikingTopologyEvolution]]

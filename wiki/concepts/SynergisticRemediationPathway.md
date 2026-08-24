@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
+[[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]

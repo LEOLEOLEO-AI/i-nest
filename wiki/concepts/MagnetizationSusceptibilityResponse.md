@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Distributed_Spike_Communication]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Synaptic_Plasticity]]

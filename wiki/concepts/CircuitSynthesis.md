@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
 [[CognitiveTaskonomy]]
 [[Compact_Boson_Dynamics]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AINext_Initiative]]
+[[AnomalousSpinTransport]]
 [[CST_CoordinationMechanism]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -33,8 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Substrate]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]

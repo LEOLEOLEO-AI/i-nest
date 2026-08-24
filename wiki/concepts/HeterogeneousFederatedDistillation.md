@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
-[[ActiveInferenceEdgeLoop]]
 [[ActiveInference]]
 [[AnomalousSpinTransport]]
 [[Avoided_Criticality]]
@@ -30,11 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Course_Based_FPGA_Projects]]
 [[Course_Based_FPGA_Prototyping]]
+[[Criticality]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]
 [[DTGA]]
+[[EventBasedMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 
 ## Sources

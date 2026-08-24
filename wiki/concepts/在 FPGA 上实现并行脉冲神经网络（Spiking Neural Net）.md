@@ -21,6 +21,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[ANN动力学]]
+[[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[EmergentOrder]]
@@ -40,7 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[STDP_iNEST]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network_dynamics]]
+[[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalDynamicsModeling]]

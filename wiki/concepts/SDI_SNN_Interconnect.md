@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[神经形态计算]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
@@ -32,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
+[[Sequence_First_Processing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

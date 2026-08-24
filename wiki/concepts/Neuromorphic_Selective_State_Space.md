@@ -35,13 +35,15 @@ Auto-extracted concept from raw material compilation.
 [[NoiseModulated_SynapticPlasticity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Mixture_of_Experts]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network_dynamics]]
+[[Spiking_neural_network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[neuromorphic computing]]
-[[spiking neural network dynamics]]
+[[spiking neural network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

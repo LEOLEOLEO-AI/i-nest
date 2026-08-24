@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

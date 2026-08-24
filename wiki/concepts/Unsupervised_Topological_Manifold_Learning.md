@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
 [[Compact_Boson_Dynamics]]
+[[ConnectionCentricParadigm]]
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]

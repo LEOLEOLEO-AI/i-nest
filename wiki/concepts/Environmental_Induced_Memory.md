@@ -29,13 +29,15 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
-[[Criticality_of_Natural_Languages]]
+[[Criticality]]
 [[Environmental_Coupling_Organization]]
+[[Heterogeneous_Integration]]
 [[Memristor_Device]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 
 ## Sources

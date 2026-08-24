@@ -28,6 +28,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AnomalousSpinTransport]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Criticality]]
 [[Heterogeneous_Integration]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]

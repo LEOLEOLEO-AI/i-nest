@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalityDrivenLearning]]
-[[Criticality_Induced_Plasticity]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[criticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

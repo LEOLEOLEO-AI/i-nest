@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

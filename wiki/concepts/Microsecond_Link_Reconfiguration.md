@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Stacking]]
+[[CongestionAwareNoCPlacement]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[SDI_Bond]]
@@ -37,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
-[[Topology_Reconfiguration]]
 [[WaferScaleTopologyCentricComputing]]
 [[topology reconfiguration]]
 

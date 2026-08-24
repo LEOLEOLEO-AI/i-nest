@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[Stochastic_LIF_Inference]]
+[[iMESO_PhysicalCarrier]]
 [[iNEST]]
 
 ## Sources

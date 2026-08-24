@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BeyondVonNeumannArchitecture]]
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
+[[FatalityDrivenRewiring]]
 [[FreeFermionTopologicalInvariant]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]

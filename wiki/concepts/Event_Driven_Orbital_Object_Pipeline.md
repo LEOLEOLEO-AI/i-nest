@@ -19,7 +19,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[ContinualLearningOnNeuromorphic]]
 [[DelayAwareSpikeEventDelivery]]
@@ -34,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MagnitudePhaseComputationalModel]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

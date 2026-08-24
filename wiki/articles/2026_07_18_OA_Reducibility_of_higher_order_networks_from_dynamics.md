@@ -12,3 +12,8 @@ title: "Reducibility of higher-order networks from dynamics" authors: ['Maxime L
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+*(no linked concepts yet)*

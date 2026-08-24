@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emerging_CMOS_Memristor]]
 [[FeFET_Polarization_Switching]]
+[[FerroelectricSemiconductorReservoir]]
 [[GeTeBasedCBRAM]]
 [[HybridResistiveMemoryCIM]]
 [[Hysteretic_State_Encoding]]

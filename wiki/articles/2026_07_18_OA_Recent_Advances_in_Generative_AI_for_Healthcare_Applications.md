@@ -12,3 +12,9 @@ title: "Recent Advances in Generative AI for Healthcare Applications" authors: [
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Intelligence_Emergence]]
+[[causal emergence]]

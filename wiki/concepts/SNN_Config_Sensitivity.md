@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Course_Based_FPGA_Projects]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
+[[SynapticReinforcementConsolidation]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[QuarantineCostTradeoff]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

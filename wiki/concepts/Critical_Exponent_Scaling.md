@@ -27,11 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
-[[CoDesignedOnlineContinualLearning]]
-[[CriticalityConstrainedPruning]]
+[[Comparative_Formulation_Analysis]]
+[[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
-[[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -42,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SubsystemInformationCapacity]]
 [[TwoTimescaleNeuroEvolution]]
+[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

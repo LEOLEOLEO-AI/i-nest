@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Agent_Workflow_Automation]]
 [[AnteHoc_Explainability]]
+[[BifurcationCandidateSet]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]

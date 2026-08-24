@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
+[[AvalancheTriggeringMechanism]]
 [[Contested_Prior_Resolution]]
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]

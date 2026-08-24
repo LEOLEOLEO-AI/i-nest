@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
-[[CriticalityInducedTopology]]
+[[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[EdgeIoTEnergyAwareness]]
 [[Interconnect_Routing]]

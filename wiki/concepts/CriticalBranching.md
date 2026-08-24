@@ -21,13 +21,12 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[BioInspired_Interception_Control]]
+[[BioPlausiblePredictiveCoding]]
 [[BranchingRatio]]
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]
 [[CriticalStateInformationMaximization]]
-[[CriticalityDrivenStateTransition]]
-[[CriticalityOffCriticalityTransition]]
-[[Criticality_Based_Feature_Extraction]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]
@@ -40,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

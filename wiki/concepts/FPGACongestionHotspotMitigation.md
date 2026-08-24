@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MultiplicativeGain]]
 [[Network_on_Chip]]
+[[Neuromorphic_NoC_Routing]]
 [[NoC_EventRouting]]
 [[QuarantineCostTradeoff]]
 [[Spiking_Neural_Network]]

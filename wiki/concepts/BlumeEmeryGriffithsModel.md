@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[DistributedModelCompression]]
 [[EdgeIoTEnergyAwareness]]
+[[FerroelectricDevice]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

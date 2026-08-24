@@ -25,9 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[BioInspired_Interception_Control]]
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Continual_Learning_Modularity]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

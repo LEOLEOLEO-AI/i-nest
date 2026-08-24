@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cryogenic_Syndrome_Compression]]
 [[DataMovementMinimization]]
 [[Heterogeneous_Integration]]
+[[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]

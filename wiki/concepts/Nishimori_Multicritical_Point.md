@@ -29,9 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
-[[CriticalityOnSmallWorlds]]
-[[Criticality_Avoidance_Theory]]
-[[Criticality_Induced_Computation]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -41,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[boundary criticality]]
+[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

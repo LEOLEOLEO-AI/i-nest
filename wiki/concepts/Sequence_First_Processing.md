@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspiredArchitecture]]
 [[BurstGatedRouting]]
@@ -30,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsembleComputation]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Spiking]]

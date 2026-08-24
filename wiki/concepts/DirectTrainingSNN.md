@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[CirculateFiringNeuron]]
+[[CriticalStateInformationMaximization]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence_Threshold]]

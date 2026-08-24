@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[ActiveDendriteSNN]]
 [[BiasEvaluationMetrics]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
@@ -38,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network_dynamics]]
+[[Spiking_neural_network]]
 [[SynapticRewiringDynamics]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

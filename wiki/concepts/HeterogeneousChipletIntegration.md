@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[InterChipletPHYModeling]]
 [[LargeScalePhotonicIntegration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]

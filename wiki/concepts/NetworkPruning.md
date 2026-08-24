@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
+[[InMateriaComputing]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Emerging_CMOS_Memristor]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[In_Memory_Computing]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Device]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]
 [[CulturalDisseminationDynamics]]
+[[Edge_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

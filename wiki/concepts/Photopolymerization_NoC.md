@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BondMovingDecimation]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

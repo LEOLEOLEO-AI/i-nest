@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[AstrocyteInspiredRepair]]
 [[BackflowTransformation]]
+[[BayesianDomainEvolution]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

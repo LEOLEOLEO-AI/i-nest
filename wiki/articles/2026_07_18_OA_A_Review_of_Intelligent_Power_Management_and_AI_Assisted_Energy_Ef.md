@@ -12,3 +12,9 @@ TCC
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Intelligent_Power_Management]]
+[[TCC]]

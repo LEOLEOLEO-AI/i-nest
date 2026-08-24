@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]
-[[CriticalityOffCriticalityTransition]]
+[[Criticality]]
 [[EdgeOfChaosComputation]]
 [[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[TopologicalAndersonChernInsulator]]
+[[criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

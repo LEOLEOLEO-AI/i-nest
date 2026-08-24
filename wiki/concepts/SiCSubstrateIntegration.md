@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DarkSiliconAwarePowerGating]]
+[[HierarchicalNetworkPartitioning]]
 [[Resilient_Sensing_Comms_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[ScaleFreeNetwork]]
+[[StateAugmentedLearning]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

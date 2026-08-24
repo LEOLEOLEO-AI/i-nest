@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[新型计算]]
+[[神经形态脉冲大语言模型（NSLLM）]]
 [[神经网络]]
 
 ## Sources
@@ -43,3 +44,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- AlgorithmHardwareCoDesign (merged 2026-08-25)

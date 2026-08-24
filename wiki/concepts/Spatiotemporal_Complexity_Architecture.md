@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DGS_SplatPrimitive]]
+[[AI_Faculty_Forum_2026]]
 [[EventTriggeredDistributedControl]]
 [[GitWhitelistQuotaEnforcement]]
 [[Network_Topology_Design]]

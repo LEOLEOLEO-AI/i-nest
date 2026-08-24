@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[ReconfigurableSpikingRouting]]
@@ -48,3 +49,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- UniSpikeAcceleration (merged 2026-08-25)

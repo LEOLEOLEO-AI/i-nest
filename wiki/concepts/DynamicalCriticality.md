@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
-[[CriticalityOffCriticalityTransition]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EmulationTheoryDisturbanceObserver]]

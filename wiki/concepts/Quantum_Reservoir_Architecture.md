@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[CirculateFiringNeuron]]
 [[CoupledOscillatorReservoir]]
+[[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

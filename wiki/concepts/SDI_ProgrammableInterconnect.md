@@ -30,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TopologyInterconnect]]
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -40,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[TopologyProgramming]]
-[[Topology_Reconfiguration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryEfficientSimulation]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[ReleaseFreePhononic]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[ScaleFreeNetwork]]

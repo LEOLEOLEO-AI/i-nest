@@ -22,15 +22,16 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[Analog_Computation]]
-[[AutonomousSpikingDynamics]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BitPrecisionAwareScheduling]]
 [[Branch_Prediction]]
 [[CognitiveSupportTopology]]
 [[CollectiveConsensus]]
 [[CollectiveDynamics]]
+[[CriticalStateInformationMaximization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

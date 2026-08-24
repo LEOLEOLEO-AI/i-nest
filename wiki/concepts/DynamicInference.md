@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[PostVonNeumannIntelligence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDI_STDP]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]

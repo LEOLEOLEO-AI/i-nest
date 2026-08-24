@@ -19,9 +19,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Accessibility_Plasticity]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[CirculateFiringNeuron]]
-[[CorticalNetworkDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
@@ -44,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[cortical network dynamics]]
 [[iNEST]]
+[[interpretable electrophysiological features]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

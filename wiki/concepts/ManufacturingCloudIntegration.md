@@ -27,9 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting]]
 [[ChannelEventSparsity]]
 [[Cognitive_Relapse_Architecture]]
+[[Criticality]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

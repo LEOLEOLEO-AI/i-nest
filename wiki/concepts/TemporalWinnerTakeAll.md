@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[CirculateFiringNeuron]]
 [[Contested_Priors_Mechanism]]
+[[Criticality]]
+[[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]
 [[EventDrivenMotionDeblurring]]

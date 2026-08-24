@@ -31,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet_Interconnect]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Criticality]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[GNN图神经网络，非结构化数据分析利器！]]
@@ -59,4 +60,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TopologyFragility]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

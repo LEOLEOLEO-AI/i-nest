@@ -47,11 +47,11 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
-[[RTC_Primitive_Set]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
+[[SDSoW]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
+[[iNEST]]
 [[temporalComplexity]]
 
 ## Sources

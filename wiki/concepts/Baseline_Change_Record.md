@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
 [[Contested_Prior_Resolution]]
+[[Criticality]]
+[[DiscreteContinuous_Unification]]
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]

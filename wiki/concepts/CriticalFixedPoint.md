@@ -28,7 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Continual_Learning_Topology]]
 [[Critical_Exponent_Scaling]]
-[[CriticalityOffCriticalityTransition]]
+[[Criticality]]
+[[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[TopologicalAndersonChernInsulator]]
+[[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

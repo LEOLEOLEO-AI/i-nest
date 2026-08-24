@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- Temporal_Coding (merged 2026-08-25)
+
+
+## Related Work
+
+[[CSI_Temporal_Encoding]]
+[[CST_Intelligence_Emergence]]
+[[CST_Theory]]
+[[CoDesigned_SNN]]
+[[Communication_Trace_Diagnostics]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[Synaptic_Plasticity]]
+[[TCC]]
+[[iNEST]]

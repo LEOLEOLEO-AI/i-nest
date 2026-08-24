@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[DataProvenanceIntegrity]]
 [[DevelopmentalConnectomeTemporalGraph]]
@@ -35,9 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[Krakencoder_Embedding]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[NonlinearConnectomeScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[connectome]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

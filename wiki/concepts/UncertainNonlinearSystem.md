@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
+[[AttentionMap_DifferenceResidual]]
 [[Cauchy_Aczel_Uniqueness]]
 [[Complex_System]]
 [[Complex_System_Theory]]

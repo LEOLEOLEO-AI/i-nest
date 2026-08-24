@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
+[[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SexBasedConnectomeDifferences]]
 [[TopologicalAndersonChernInsulator]]
 [[WiringSpecificControl]]
+[[connectome]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

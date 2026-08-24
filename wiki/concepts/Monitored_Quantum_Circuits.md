@@ -20,15 +20,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BioInspired_Interception_Control]]
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
-[[CategoricalClosureCriterion]]
 [[CollectiveStateResilience]]
 [[Continual_Learning_Modularity]]
 [[CriticalBranching]]
 [[Critical_Exponent_Scaling]]
-[[CriticalityDrivenStateTransition]]
-[[CriticalityOffCriticalityTransition]]
-[[Criticality_of_Natural_Languages]]
+[[Criticality]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[Dynamical_State_Space]]

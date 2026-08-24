@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristive_Interconnect]]
+[[Memristor_Network]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microfluidic_Worm_Trap_Array]]
 [[MultiModel_Adapter_Architecture]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetworks]]
 [[Spiking_Neural_Network]]
 [[Topology_Centric_Neuromorphic]]
-[[Topology_Centric_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

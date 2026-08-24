@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]
+[[CulturalDisseminationDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

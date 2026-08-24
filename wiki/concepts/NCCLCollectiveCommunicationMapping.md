@@ -32,12 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Reconfigurable_Network]]
 [[SDSoW_Strategic_Planning]]
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
+[[Wafer_Scale_Topology_Control]]
 [[iNEST]]
 
 ## Sources

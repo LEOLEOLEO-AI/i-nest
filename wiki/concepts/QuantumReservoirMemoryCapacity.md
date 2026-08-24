@@ -27,8 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Reservoir_Topology]]
+[[Fading_Memory_Property]]
 [[Heterogeneous_Integration]]
-[[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
 [[NCL神经计算定律详解]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[RenormalizationGroupIntelligence]]
 [[TCC]]
 [[iNEST]]
 [[神经网络]]

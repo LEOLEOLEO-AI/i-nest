@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Abilities]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[FractalPathEntropy]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -12,3 +12,13 @@ SNN, TCC, iNEST, neuromorphic, spiking
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+[[iNEST]]
+[[inest]]

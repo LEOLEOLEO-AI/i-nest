@@ -17,6 +17,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
+[[Analog_Computation]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
-[[RTC_Primitive_Set]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]

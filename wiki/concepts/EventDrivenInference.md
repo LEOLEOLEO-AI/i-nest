@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[FoveationGuidedTokenSelection]]
 [[FunctionalEnsembleComputation]]
+[[FunctionalEnsemble]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]

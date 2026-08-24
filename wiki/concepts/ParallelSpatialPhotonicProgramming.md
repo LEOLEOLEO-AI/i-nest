@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[Analog_Computation]]
 [[CurrentInjectionSNN]]
+[[DARPA_ProjectManager_Model]]
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

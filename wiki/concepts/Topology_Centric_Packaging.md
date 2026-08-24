@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
+[[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

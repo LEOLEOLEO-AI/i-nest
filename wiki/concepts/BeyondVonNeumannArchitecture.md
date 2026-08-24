@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyResourceEfficiencyCoOptimization]]
+[[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_ComputeInMemory]]

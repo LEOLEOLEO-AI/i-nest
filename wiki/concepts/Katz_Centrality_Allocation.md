@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
+[[Cognitive_Relapse_Decoupling]]
 [[Network_Topology_Design]]
 [[TCC]]
 

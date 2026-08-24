@@ -19,13 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
-[[EventDrivenAttention]]
 [[EventDrivenWirelessTransmission]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
@@ -33,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
+[[PhotoIontronicSynapse]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikePacketCompression]]
 [[Spike_Encoding_of_fMRI]]

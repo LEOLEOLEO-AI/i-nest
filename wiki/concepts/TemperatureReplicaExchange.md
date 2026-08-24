@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[hls4ml_SNN_Conversion]]
 [[neuromorphic computing]]
 
 ## Sources

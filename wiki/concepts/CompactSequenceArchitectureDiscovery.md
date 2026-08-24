@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveTaskonomy]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
+[[CrossDomain_Synthesis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

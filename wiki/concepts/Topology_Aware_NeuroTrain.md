@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -28,8 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[NoC_TopologyMapping]]
 [[PheromoneTrailTopology]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

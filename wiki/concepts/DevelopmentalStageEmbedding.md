@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[WiringSpecificControl]]
+[[connectome]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -21,10 +21,9 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Avalanche_Dynamics]]
-[[CategoricalClosureCriterion]]
 [[Critical_Exponent_Scaling]]
-[[CriticalityConstrainedPruning]]
-[[Criticality_of_Natural_Languages]]
+[[Criticality]]
+[[DynamicalSelfDualCriticality]]
 [[EdgeOfChaos]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]
@@ -40,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuronal_Avalanche_Dynamics]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

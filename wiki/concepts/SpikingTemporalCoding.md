@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalQuantumLearningRule]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_computing_architecture]]
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]
 [[SNN]]

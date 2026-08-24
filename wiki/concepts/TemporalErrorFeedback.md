@@ -23,13 +23,14 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
-[[CriticalityConstrainedPruning]]
+[[Criticality]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
 [[FrequencyAdaptationMechanism]]
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
+[[LatencyGradientDescent]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[StochasticBinaryDynamics]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
-[[Temporal_Coding]]
 [[neuromorphic substrate]]
 
 ## Sources

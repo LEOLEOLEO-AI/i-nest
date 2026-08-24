@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Advanced_Packaging]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[ArtificialProprioception]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[StochasticVehicleRouting]]

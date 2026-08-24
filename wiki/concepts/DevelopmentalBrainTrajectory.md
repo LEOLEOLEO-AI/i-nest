@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI节点接口规范与化合键定义]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

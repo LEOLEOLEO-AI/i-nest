@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[CrystalPalace_Program]]

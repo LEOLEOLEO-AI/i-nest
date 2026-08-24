@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Fusion]]
+[[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[Network_Topology_Design]]

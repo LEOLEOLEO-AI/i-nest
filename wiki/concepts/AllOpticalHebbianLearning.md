@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Analysis]]
 [[DARPA_BioStrategic_Reshaping]]
 [[DeepCounterstreamAssociativeNetworks]]
+[[DopamineArousalSwitch]]
 [[Emergent_Intelligence_Threshold]]
 [[FC2_Goal_Representation]]
 [[Free_Energy_Principle_Network]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Swarm_Coordination]]
 [[iNEST]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Free_Energy_Principle_Network]]
+[[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

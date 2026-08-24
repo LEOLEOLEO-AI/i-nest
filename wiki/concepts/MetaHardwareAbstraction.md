@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN_NeuroprostheticPipeline]]
 [[SensationModulatingNetwork]]
 [[SpikeBackpropagation]]
 [[SpikeBasedGradientDescent]]

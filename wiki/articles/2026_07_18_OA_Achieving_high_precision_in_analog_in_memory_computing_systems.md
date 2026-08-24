@@ -12,3 +12,12 @@ NoC, TCC
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Ferroelectric_Devices]]
+[[In_Memory_Computing]]
+[[Memristor_Synapse]]
+[[Network_on_Chip]]
+[[TCC]]

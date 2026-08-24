@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]

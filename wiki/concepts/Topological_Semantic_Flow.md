@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirOutput]]
+[[ReservoirWeightSparsity]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

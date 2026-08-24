@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Emergent_Intelligence_Roadmap]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]

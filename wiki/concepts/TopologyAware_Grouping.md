@@ -31,11 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenRouting]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
-[[PowerLawScalingClassification]]
 [[PowerLawScaling]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[Three_Layer_Memory_Infrastructure]]
+[[TimeReversalInvariantTopologicalAlloy]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

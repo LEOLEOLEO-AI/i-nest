@@ -23,7 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
-[[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Stretched_Criticality]]
 [[Topology_Aware_Spike_Routing]]
+[[criticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

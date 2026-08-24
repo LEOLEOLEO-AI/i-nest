@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
+[[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

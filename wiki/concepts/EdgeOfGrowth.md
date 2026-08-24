@@ -28,9 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalPhaseTransitionStatisticalTest]]
-[[CriticalityInNeuralNetworks]]
-[[CriticalityOnSmallWorlds]]
-[[Criticality_Induced_Plasticity]]
+[[Criticality]]
 [[DisorderInducedCriticality]]
 [[Dynamic_Expert_Fusion]]
 [[FiniteSizeTopologicalPhase]]
@@ -42,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

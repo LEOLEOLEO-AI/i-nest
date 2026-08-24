@@ -29,12 +29,16 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Connectome]]
 [[CriticalityDrivenLearning]]
+[[Criticality]]
 [[InNetworkNeuromorphicSimulation]]
+[[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[connectome]]
 [[iNEST]]
 
 ## Sources

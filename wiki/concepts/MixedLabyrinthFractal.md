@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[CompartmentalNeuronModel]]
 [[ComplexTopologicalStructures]]
+[[ComplexValuedSNN]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]

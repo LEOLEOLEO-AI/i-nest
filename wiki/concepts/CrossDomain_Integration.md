@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
+[[HybridResistiveMemoryCIM]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Network_Topology_Design]]

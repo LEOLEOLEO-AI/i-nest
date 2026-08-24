@@ -26,11 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
-[[EventDrivenAttention]]
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
 [[KnowledgeDistillation]]
 [[Memory_Wall]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[PhotoIontronicSynapse]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[忆阻器]]
+[[神经形态计算]]
 [[类脑芯片]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
+[[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[CrossPopulationCen]]

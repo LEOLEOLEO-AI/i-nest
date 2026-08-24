@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
+[[ComplexValuedSNN]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]

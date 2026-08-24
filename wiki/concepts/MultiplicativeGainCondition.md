@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexSystem_Definition]]
+[[Complex_System]]
 [[Contested_Priors_Mechanism]]
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]

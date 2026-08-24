@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnomalousSpinTransport]]
+[[Branch_Prediction]]
 [[CSI_Temporal_Encoding]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_3DHI_Roadmap]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[EvanescentFieldTrapping]]
 [[HighThroughputParticleRouting]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]

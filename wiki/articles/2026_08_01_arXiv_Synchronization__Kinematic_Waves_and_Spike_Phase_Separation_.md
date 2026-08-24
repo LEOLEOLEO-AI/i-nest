@@ -12,3 +12,13 @@ TCC, iNEST
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Feedback_Ising_Neural_Networks]]
+[[Kinematic_Waves]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+[[iNEST]]
+[[inest]]

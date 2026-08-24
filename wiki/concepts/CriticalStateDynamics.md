@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AutonomousAdaptation]]
 [[Avalanche_Dynamics]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Stretched_Criticality]]
 [[SubsystemInformationCapacity]]
 [[TopologyDrivenVulnerability]]
+[[criticality]]
 [[iNEST]]
 [[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

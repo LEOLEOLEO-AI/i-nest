@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
+[[Synaptic_Plasticity_Rule]]
 [[iNEST]]
 [[neuromorphic substrate]]
 [[spiking neural network]]

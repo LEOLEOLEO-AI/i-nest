@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BCM滑动阈值]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

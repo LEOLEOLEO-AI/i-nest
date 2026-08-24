@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Cost_Dominance]]
 [[InfluencePropagationLoop]]
 [[Intelligence_Emergence]]
+[[IntrinsicTimingSTDP]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

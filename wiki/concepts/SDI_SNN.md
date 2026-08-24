@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[新型计算]]
+[[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
 [[类脑芯片]]
 

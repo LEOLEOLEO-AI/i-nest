@@ -21,17 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AsynchronousEventDrivenComputation]]
-[[AutonomousSpikingDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstCoding]]
 [[Contested_Prior_Resolution]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
-[[EventDrivenComputation]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
-[[SpikeTemporalEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[Temporal_Computing_Paradigm]]
 [[iNEST]]
 
 ## Sources

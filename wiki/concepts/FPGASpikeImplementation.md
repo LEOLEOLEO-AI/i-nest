@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[BrainScaleTopologyExploitation]]
+[[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]

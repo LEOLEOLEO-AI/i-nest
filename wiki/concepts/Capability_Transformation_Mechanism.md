@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]
+[[Chain_of_Thought_Reasoning]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Memristive_Topology]]

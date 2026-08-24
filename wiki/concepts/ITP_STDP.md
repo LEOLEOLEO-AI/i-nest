@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP learning]]
+[[STDPDrivenTemporalBinding]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

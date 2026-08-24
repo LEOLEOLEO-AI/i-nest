@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BurstGatedRouting]]
 [[CriticalStateInformationMaximization]]
+[[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]
 [[DynamicTokenSparsity]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Aware_Spike_Routing]]
+[[criticality]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

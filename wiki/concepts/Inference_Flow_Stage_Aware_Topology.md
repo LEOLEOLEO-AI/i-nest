@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[BarrierConditionedTrajectory]]
 [[Cascading_Failure_Mitigation]]
-[[CoaxialLikeTGV]]
 [[CrossLayer_SignalRouting]]
 [[Deep_Thermalisation]]
 [[DelayPropagationDynamics]]
@@ -33,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
+[[SiliconPhotonicsNetwork]]
 [[TCC]]
 
 ## Sources

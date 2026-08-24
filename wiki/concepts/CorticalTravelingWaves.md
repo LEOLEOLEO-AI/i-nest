@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
+[[ElectronicBurstingNeuron]]
 [[FC2_Goal_Representation]]
 [[Free_Energy_Principle_Network]]
 [[Frontier_Innovation_Mapping]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]
-[[Temporal_Coding]]
 [[iNEST]]
 [[temporal coding]]
 

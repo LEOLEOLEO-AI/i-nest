@@ -23,11 +23,10 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
+[[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
-[[CriticalityConstrainedPruning]]
-[[CriticalityDrivenStateTransition]]
-[[CriticalityOffCriticalityTransition]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

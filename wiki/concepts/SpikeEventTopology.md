@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

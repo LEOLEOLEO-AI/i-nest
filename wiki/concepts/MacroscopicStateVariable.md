@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Course_Based_FPGA_Projects]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]

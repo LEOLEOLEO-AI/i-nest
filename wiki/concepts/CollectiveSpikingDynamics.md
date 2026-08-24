@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
+[[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]

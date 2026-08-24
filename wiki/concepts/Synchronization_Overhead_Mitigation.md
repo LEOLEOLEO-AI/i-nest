@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CollectiveSpikingDynamics]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[Network_Topology_Design]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalContrastEncoding]]
-[[Temporal_Coding]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BeyondVonNeumannArchitecture]]
 [[CrossDomain_Integration]]
+[[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Threshold]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA 3DHI roadmap]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]
+[[DendriticReservoirState]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[EvanescentFieldTrapping]]
 [[Heterogeneous_Integration]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TOOLS]]
 [[heterogeneous integration]]
+[[heterogeneous_integration]]
 [[iNEST]]
 [[tools]]
 

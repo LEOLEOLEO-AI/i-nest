@@ -12,3 +12,10 @@ iNEST, interconnect
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Self_Organized_Criticality]]
+[[criticality]]
+[[iNEST]]

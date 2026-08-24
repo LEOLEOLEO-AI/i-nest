@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Flow_Network_Memory]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
+[[InMateriaComputing]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

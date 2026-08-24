@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AnteHoc_Explainability]]
 [[BCM滑动阈值]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[CST_Triad_Integration]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

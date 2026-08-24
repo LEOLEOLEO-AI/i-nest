@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AlternativeBridgingModels]]
+[[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DiscreteContinuous_Unification]]
@@ -32,15 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Substrate]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_computing]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

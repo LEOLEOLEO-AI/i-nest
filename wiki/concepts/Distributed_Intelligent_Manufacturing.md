@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Heterogeneous_Integration]]
+[[AI_Faculty_Forum_2026]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
@@ -29,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
-[[FitnessPhaseTransition]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Memristive_Topology]]

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ClosedLoopNeuromorphicControl]]
 [[Closed_Loop_Neuromodulation]]
+[[ContinualLearningOnNeuromorphic]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

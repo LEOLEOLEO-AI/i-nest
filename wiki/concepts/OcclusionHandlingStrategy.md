@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[RecurrentSpikingDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ResistiveMemoryWriteBudgeting]]
 [[Spike_Encoding_of_fMRI]]

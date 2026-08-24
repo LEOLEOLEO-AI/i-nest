@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BondMovingDecimation]]
 [[CST_SynergisticCoordination]]
+[[Chain_of_Thought_Reasoning]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

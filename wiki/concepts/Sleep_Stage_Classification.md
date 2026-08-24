@@ -26,8 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Criticality]]
 [[Emergent_Intelligence_Threshold]]
-[[HebbianLimitCycleLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MicroCriticalAgent]]
@@ -41,9 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[StochasticBinaryDynamics]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[criticality]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

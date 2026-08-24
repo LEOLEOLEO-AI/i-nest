@@ -28,10 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
 [[AdversarialSensingResilience]]
+[[Air_Combat_Autonomy]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
-[[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

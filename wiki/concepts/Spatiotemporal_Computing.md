@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Deep_Thermalisation]]
 [[Environmental_Capability_Context]]
+[[Free_Energy_Principle_Network]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

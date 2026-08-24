@@ -25,9 +25,9 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[AdaptiveTimeStepTraining]]
 [[Agile_Resilient_Defense_Ecosystem]]
-[[AutonomousSpikingDynamics]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Biomanufacturing_Control_Loop]]
+[[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

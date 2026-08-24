@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[ContinuousTimeSNN]]
 [[DelayAwareSpikeEventDelivery]]
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
 [[Γst_Revision]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

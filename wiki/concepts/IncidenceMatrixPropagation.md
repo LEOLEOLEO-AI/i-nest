@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
+[[PhotonicSynapticPlasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

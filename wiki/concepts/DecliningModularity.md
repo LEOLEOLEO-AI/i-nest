@@ -31,8 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[EnsembleSparsity]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[TCC]]
 [[iNEST]]
+[[intellectual base]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -19,15 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
+[[Cross_Node_Event_Propagation]]
 [[Dynamic_Expert_Fusion]]
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedAnalogFrontEnd]]
-[[EventDrivenAttention]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
-[[HebbianLimitCycleLearning]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]

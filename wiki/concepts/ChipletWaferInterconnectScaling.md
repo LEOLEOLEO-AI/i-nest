@@ -33,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
-[[MultiObjectiveRouting]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
@@ -46,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

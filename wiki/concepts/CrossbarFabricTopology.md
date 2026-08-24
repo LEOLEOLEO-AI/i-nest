@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianConnectivityEstimation]]
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

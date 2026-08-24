@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
+[[SDI_STDP]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

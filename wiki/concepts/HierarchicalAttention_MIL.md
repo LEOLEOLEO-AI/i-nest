@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Compositional_Continuum]]
 [[KV_Cache_To_BoundaryObject]]
 [[Metastable_State_Hierarchy]]
 [[Network_Topology_Design]]
@@ -45,3 +46,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- HierarchicalAttentionMIL (merged 2026-08-25)

@@ -28,10 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[IMPLY_ISA]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
+[[intellectual base]]
 [[neuromorphic computing]]
 
 ## Sources

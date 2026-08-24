@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[AstrocyteInspiredRepair]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[Beyond_Moore_Pathway]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]

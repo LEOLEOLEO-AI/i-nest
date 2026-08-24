@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Compositional_Continuum]]
 [[HierarchicalAttention_MIL]]
 [[KV_Cache_To_BoundaryObject]]
 [[Metastable_State_Hierarchy]]

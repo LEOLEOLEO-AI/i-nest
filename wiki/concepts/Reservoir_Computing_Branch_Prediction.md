@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Branch_Prediction]]
 [[CoupledOscillatorReservoir]]
+[[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

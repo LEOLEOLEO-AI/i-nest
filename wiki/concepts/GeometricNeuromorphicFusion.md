@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
+[[DelayAwareSpikeEventDelivery]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
 [[Event_Driven_Architecture]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_SensoryMotor_Loop]]
 [[Neuromorphic_Spiking]]
 [[PerturbationSpaceTrajectory]]
 [[PhaseLockedTopologyMapping]]

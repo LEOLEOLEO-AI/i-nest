@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Security_Architecture]]
 [[Complex_System]]
 [[Complex_System_Theory]]

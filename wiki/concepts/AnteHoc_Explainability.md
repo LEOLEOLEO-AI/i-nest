@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Supply_Chain_Increment]]
 [[ANN动力学]]
 [[Agent_Workflow_Automation]]
+[[BifurcationCandidateSet]]
 [[CST_Triad_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[System_Jump]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

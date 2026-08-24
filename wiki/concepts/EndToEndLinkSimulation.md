@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryEfficientSimulation]]
 [[NichePreservationMechanism]]
 [[NonEquilibriumComputing]]
+[[ReleaseFreePhononic]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[ScaleFreeNetwork]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Topology]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -30,9 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
 [[Second_Curve_Wafer_Industry_Platform]]
+[[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[TopologyCentricPrimitiveSystem]]
-[[Topology_Reconfiguration]]
+[[Topology_Interconnect]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]

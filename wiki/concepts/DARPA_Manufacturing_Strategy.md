@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
 [[Battlefield_AI_Deployment]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[OpenCodex_Upgrade_Path]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

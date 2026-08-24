@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
-[[EventDrivenAttention]]
 [[ExactFiringRateModel]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
@@ -39,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedGradientDescent]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
+[[Temporally_Precise_Training_Parallelization]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -28,11 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[Air_Combat_Autonomy]]
 [[Associative_Retrieval]]
 [[AttractorNeuralNetwork]]
+[[AutoAssociativeMemoryRobustness]]
 [[Catastrophic_Forgetting]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
-[[HebbianLimitCycleLearning]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[synaptic plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

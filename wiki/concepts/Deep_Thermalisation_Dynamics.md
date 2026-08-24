@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
+[[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[CommunicationAsComputation]]
 [[ComputeRelocationOverhead]]

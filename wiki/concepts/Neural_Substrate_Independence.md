@@ -24,9 +24,9 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Brain_Connectome]]
+[[Connectome]]
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
-[[EEGToNeuromorphicMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[IntrinsicDynamicsAutonomy]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[connectome]]
 [[iNEST]]
 
 ## Sources

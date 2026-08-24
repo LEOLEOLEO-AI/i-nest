@@ -5,10 +5,21 @@
 **Compiled**: 2026-08-23
 
 ## Summary
-title: "Synaptic Plasticity Engineering for Neural Precision, Temporal Learning, and Scalable Neuromorphic Systems" authors: ['Zhengjun Liu', 'Yuxiao Fang', 'Qing Liu', 'Bobo Tian', 'Chun Zhao'] doi: "10.1007/s40820-025-02028-0" journal: "Nano-Micro Letters" query: "neuromorphic spiking neural network memristor"
+title: "Synaptic Plasticity Engineering for Neural Precision, Temporal Learning, and Scalable Neuromorphic Systems" authors: ['Zhengjun Liu', 'Yuxiao Fang', 'Qing Liu', 'Bobo Tian', 'Chun Zhao'] doi: "10.1007/s40820-025-02028-0" journal: "Nano-Micro Letters" query: "neuromorphic Spiking_Neural_Network memristor"
 
 ## Keywords
 iNEST, neuromorphic, spiking
 
 ---
 *Auto-compiled by wiki_compiler.py*
+
+
+## Related Concepts
+
+[[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[iNEST]]
+[[neuromorphic spiking]]
+[[spiking neural network]]

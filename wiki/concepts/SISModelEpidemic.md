@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
 [[LargeScalePhotonicIntegration]]
+[[MemoryEfficientSimulation]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

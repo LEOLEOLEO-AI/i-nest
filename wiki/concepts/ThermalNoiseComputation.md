@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Deep_Network_Architecture_Invariant]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Master_SDDE]]

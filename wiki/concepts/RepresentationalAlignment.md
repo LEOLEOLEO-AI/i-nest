@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AIRA_NeuralArchSearch]]
-[[AutonomousPhysicalComputation]]
 [[BackflowTransformation]]
+[[BandedConnectivityModel]]
 [[BigBrain3DHistology]]
 [[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]
@@ -29,11 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Connectome]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCellularAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Entropy_Connectivity_Path]]
+[[Heterogeneous_Integration]]
 [[LeftRightAsymmetry]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

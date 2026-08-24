@@ -31,8 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System]]
 [[Complex_System_Theory]]
-[[CriticalityOnSmallWorlds]]
-[[Criticality_Induced_Plasticity]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EdgeIoTEnergyAwareness]]
@@ -43,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[CirculateFiringNeuron]]
 [[CompactnessRegularizedFitness]]
+[[ComplexValuedSNN]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[GradientBasedSpikeLearning]]

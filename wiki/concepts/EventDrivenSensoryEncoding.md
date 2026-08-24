@@ -20,10 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AutonomousSpikingDynamics]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
-[[EventDrivenAttention]]
 [[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Criticality]]
 [[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
@@ -29,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Substrate]]
+[[Neuromorphic_computing]]
 [[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]

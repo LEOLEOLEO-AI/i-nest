@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
+[[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

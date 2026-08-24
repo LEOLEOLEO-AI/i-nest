@@ -22,12 +22,13 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
-[[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Entropy_Connectivity_Path]]
 [[FormalLinguisticCompetence]]
+[[Gut_Brain_Immune_Network]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[criticality]]
 [[iNEST]]
 
 ## Sources

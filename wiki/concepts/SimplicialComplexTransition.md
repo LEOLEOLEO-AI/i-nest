@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[HigherOrderSimplicialDynamics]]
 [[Network_Topology_Design]]
 [[NeuromorphicSafetyBoundary]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 
 ## Sources

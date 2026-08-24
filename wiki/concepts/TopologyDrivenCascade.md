@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
 [[avalanche dynamics]]
+[[neural avalanche dynamics]]
 [[neural avalanche]]
 
 ## Sources

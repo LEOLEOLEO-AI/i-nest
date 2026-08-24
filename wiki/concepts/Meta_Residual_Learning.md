@@ -33,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Substrate]]
+[[Neuromorphic_computing]]
 [[Neuromorphic_computing_architecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

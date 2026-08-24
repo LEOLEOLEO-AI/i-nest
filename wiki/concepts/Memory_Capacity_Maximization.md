@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhotoInducedCurrent]]

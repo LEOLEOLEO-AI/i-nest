@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Analog_Computation]]
-[[AutonomousSpikingDynamics]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CirculateFiringNeuron]]
 [[Crystallized_Embedding_Reservoir]]
@@ -32,11 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[Spiking_Neural_Network]]
 [[TemporalEchoMemory]]
 [[iNEST]]
 

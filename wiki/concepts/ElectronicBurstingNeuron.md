@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN_to_SNN_Conversion_Error_Amplification]]
+[[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[CirculateFiringNeuron]]
 [[DirectTrainingSNN]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN_NeuroprostheticPipeline]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
-[[Temporal_Coding]]
 [[UniSpike_Acceleration]]
 [[iNEST]]
 [[temporal coding]]

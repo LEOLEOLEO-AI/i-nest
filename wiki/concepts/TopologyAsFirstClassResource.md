@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[CrossSubstrateHomology]]
 [[Defense_Industrial_Base_Reshaping]]
