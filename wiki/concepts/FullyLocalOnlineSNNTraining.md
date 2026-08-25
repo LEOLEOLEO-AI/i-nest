@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[DARPA_ProjectManager_Model]]
+[[Distributed_Spike_Communication]]
 [[NUMA_Balancing_Overhead]]
 [[Neuromorphic_Computing]]
 [[SNN]]

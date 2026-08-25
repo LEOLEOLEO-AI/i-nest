@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[IntegrationProspectsForVLSI]]

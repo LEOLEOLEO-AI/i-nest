@@ -38,8 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[RadiationHardened_ProcessNodeScaling]]
+[[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
 [[TCC]]
+[[TopologyPage_Preloading]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

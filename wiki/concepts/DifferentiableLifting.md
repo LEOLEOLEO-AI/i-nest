@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexEcosystemDynamics]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[EmergentTaskDecomposition]]

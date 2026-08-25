@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[CellEmergenceMechanism]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EventTriggeredDistributedControl]]
@@ -28,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicSafetyBoundary]]
+[[Neuromorphic_Computing]]
+[[SelfOrganization]]
 [[TCC]]
 [[iNEST]]
 

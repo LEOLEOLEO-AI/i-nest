@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Stacking]]
 [[AdiabaticMultimodeBend]]
-[[Advanced_Packaging]]
+[[AdjointWaveControl]]
 [[AndersonTransition]]
 [[BeyondVonNeumannArchitecture]]
 [[ComputeRelocationOverhead]]
@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[TopologyAware_Grouping]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

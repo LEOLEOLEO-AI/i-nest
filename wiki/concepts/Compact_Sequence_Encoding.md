@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[ChargeDomainAttention]]
 [[CoPackagedOptics]]
 [[Compute_In_Memory_Neuromorphic]]
+[[In_Memory_Computing]]
+[[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

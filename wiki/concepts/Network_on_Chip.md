@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[FlagScale]]
 [[Heterogeneous_Integration]]
@@ -54,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
-[[TCC_Topology]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[heterogeneous_integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

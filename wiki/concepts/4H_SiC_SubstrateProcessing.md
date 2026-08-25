@@ -20,11 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
+[[AI_Faculty_Forum_2026]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Network_Topology_Design]]
-[[NoC_SDI_Topology]]
+[[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[NoC_SDI]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
+[[SDI_Bond]]
 [[SDI_TopologyWaferIntegration]]
+[[SDI_Topology]]
 [[SiC_GaN_Power_Integration]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]

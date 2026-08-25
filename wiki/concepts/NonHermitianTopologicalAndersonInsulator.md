@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
+[[CoreComputationSubspace]]
 [[DelayPropagationDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

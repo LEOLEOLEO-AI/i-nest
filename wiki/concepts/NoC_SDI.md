@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

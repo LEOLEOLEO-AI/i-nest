@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Deep_SNN_Trainability]]
 [[DendriticTaskPartitioning]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Architectures]]

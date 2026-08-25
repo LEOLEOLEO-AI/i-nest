@@ -22,12 +22,14 @@ Auto-extracted concept from raw material compilation.
 
 [[AutonomousAdaptation]]
 [[CST_Spatiotemporal_Coefficient]]
+[[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Project_Group_Strategy]]
 [[Deep_SNN_Trainability]]
 [[Defense_Industrial_Base_Reshaping]]
 [[SNN]]
+[[SpikeDrivenDetectionBackbone]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

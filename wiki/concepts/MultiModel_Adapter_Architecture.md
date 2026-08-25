@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
-[[Catastrophic_Forgetting]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Cognitive_Relapse_Architecture]]
@@ -40,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[SynapticReinforcementConsolidation]]
+[[catastrophic forgetting]]
 [[iNEST]]
 
 ## Sources

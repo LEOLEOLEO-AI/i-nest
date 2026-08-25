@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveTimeStepTraining]]
+[[AnisotropicGaussianPrimitives]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Principle_Network]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 
 ## Sources

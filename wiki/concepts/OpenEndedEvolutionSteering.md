@@ -28,7 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveCompetingInteractions]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[DTGA]]
 [[Network_Topology_Design]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

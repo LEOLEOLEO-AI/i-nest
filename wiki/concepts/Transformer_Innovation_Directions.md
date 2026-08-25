@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[AsymmetricCoupling]]
 [[Biodefense_Threat_Detection_Network]]
-[[Catastrophic_Forgetting]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Critical_Exponent_Analysis]]
@@ -31,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DopamineArousalSwitch]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
+[[ExactRateNetworkBifurcation]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganizedOscillatoryLearning]]
 [[TCC]]
+[[catastrophic forgetting]]
 [[iNEST]]
 [[soc]]
 

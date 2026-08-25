@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[InferencePipelineTopologyAwareScheduling]]
 [[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
+[[MetaTopologyLibraryCompleteness]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

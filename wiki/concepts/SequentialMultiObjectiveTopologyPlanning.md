@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Entangled_Criticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

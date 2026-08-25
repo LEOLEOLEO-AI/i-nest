@@ -34,10 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Model_Routing_Protocol]]
+[[Network_on_Chip]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuralPrecision]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Soldier_Augmentation_BioCyber_Interface]]
 

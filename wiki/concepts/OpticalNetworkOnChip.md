@@ -25,11 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Topology_Encapsulation]]
+[[Chiplet_Topology]]
 [[Compute_Centric_NoC]]
 [[CongestionAwareNoCPlacement]]
+[[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[SDI_NoC_Fusion]]
 [[TCC]]
+[[Topology_Encapsulation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

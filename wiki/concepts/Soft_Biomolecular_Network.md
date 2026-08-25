@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AnisotropicSymmetryBreaking]]
 [[BayesianDomainEvolution]]
+[[BehavioralFeedbackLoop]]
 [[FlexibilityThreshold]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

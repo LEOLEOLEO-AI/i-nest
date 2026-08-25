@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OpenLearningEcosystem]]
+[[SelfOrganization]]
 [[TCC]]
 
 ## Sources

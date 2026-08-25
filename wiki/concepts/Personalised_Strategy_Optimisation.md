@@ -26,8 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Decoupling]]
+[[EventDrivenSynchronization]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

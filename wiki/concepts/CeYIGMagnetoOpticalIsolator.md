@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Cascading_Failure_Mitigation]]
+[[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

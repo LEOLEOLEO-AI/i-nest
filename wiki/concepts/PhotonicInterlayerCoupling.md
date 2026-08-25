@@ -26,8 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
+[[BisectionBandwidthBound]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect_Aware_Placement]]
+[[Chiplet_Interconnect]]
+[[Chiplet_Stacking]]
 [[Memory_Wall]]
 [[TCC]]
 

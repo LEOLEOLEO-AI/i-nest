@@ -28,7 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
+[[Baseline_Change_Record]]
+[[Criticality]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

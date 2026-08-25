@@ -24,12 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
 [[Critical_Region_Extension]]
-[[CriticalityInNetworkComputing]]
+[[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]
+[[InNetworkComputing]]
 [[Intelligent_Power_Management]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[Self_Organized_Criticality]]
+[[TopologyEvolvingReservoir]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

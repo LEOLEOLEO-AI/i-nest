@@ -45,7 +45,9 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TopologyProgramming]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[topology reconfiguration]]
 

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveSTDP]]
@@ -28,7 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[BehavioralFeedbackLoop]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
+[[STDP_Learning]]
+[[STDP_Plasticity]]
 [[SpikeCodedFeatureAssociation]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[Temporal_Computing_Paradigm]]
 
 ## Sources

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synchronization_Overhead_Mitigation]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[新型计算]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

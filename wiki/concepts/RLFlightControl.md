@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticalSynapticWeightUpdate]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]
+[[STDPDrivenConnectivity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyEvolvingReservoir]]

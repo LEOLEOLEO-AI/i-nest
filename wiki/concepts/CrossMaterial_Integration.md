@@ -39,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SiC_GaN_Power_Integration]]
 [[TCC]]
-[[TCC_Coordination_Roadmap]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

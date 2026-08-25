@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Satellite_Mesh]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[Swarm_Adaptive_Topology]]
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
 [[TCC]]

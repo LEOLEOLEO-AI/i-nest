@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[CirculateFiringNeuron]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[忆阻器]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[类脑芯片]]
 
 ## Sources

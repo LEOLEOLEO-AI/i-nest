@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Interaction_Sequencing]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
+[[Catastrophic_Forgetting_Mitigation]]
+[[Criticality]]
 [[EntanglementScaling]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

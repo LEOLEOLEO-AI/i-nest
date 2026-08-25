@@ -22,10 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveInference]]
 [[AutonomousAdaptation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Decoupling]]
 [[CorticalWaveRouting]]
 [[DTGA]]
+[[FunctionalInterfaceBlocks]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

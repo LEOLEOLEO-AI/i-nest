@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
 [[TopologicalAndersonChernInsulator]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[spiking neural network]]

@@ -16,6 +16,7 @@ iNEST, 晶圆
 
 ## Related Concepts
 
+[[Criticality]]
 [[Self_Organized_Criticality]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

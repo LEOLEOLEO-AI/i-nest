@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Memory_Infrastructure]]
 [[AdaptiveDensityControl]]
 [[AdiabaticMultimodeBend]]
-[[Advanced_Packaging]]
 [[AnalogDomainCompression]]
 [[Anisotropic_Correlation_Length]]
 [[ArbitraryWavefunctionConfigurability]]
@@ -36,9 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonvisualGroundClassification]]
 [[Path_Selection_Heuristic]]
+[[PhaseAwareBisectionDemand]]
 [[TCC]]
 [[Topology_Embedded_Field_Encoding]]
 [[WavelengthMultiplexedInterconnect]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

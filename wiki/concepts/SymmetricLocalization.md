@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[EdgeIoTEnergyAwareness]]
+[[InSitu_Compute]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]

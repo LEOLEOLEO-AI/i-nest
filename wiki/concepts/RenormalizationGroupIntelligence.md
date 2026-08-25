@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-Application of renormalization group techniques to coarse-grain device nonlinearities and derive emergent intelligence metrics across scales in neuromorphic networks. Enables systematic identification of critical device parameters that drive intelligence emergence, guiding topology and in-network processing design in TCC/iNEST systems.
+Application of renormalization group techniques to coarse-grain device nonlinearities and derive emergent intelligence metrics across scales in neuromorphic networks. Enables systematic identification of critical device parameters that drive Intelligence_Emergence, guiding topology and in-network processing design in TCC/iNEST systems.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Allreduce_Latency_Probe]]
+[[Analog_To_Information_Conversion]]
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[intelligence emergence]]
 [[神经网络]]
 
 ## Sources

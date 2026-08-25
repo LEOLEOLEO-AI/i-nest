@@ -24,12 +24,14 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
+[[AdjointWaveControl]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[AssociativeMemoryTopology]]
 [[Inference_Workload_Profiling]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

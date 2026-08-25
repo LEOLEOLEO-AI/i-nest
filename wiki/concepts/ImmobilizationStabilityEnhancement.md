@@ -28,6 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Delay_Aware_Autograd_Spiking_Framework]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

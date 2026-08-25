@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DataMovementMinimization]]
 [[Die_to_Die_Protocol]]
 [[DirectConnect_Topology]]
+[[DualSided_3D_Integration]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

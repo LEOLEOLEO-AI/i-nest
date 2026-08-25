@@ -20,11 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[DTGA]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[P_Paradigm]]
 [[SNN]]
 [[Spiking_Neural_Network]]

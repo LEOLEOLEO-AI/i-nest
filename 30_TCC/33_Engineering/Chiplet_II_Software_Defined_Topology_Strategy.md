@@ -1,4 +1,12 @@
 ---
+direction: TCC
+category: 工程
+tags: [chip, architecture, software-defined, heterogeneous-integration, military]
+summary: "晶上系统二期工程化布局，聚焦架构换道与战斗力生成。"
+quality: high
+processed: 2026-08-25 20:44
+---
+---
 title: "关于“十五五”晶上二期组织与实施模式的建议"
 tags:
   - chip

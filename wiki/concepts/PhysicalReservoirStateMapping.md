@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AcceleratedMaterialScreening]]
 [[ActiveInferenceEdgeLoop]]
+[[ActiveInference]]
 [[AdversarialResilience]]
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]

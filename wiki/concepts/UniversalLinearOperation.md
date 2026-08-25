@@ -22,13 +22,18 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[AdjointWaveControl]]
 [[AmoebaInspiredLocomotion]]
 [[AndersonTransition]]
 [[BioInspired_Interception_Control]]
 [[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
+[[MoE_Routing]]
+[[Network_Topology_Design]]
+[[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
+[[SelfOrganization]]
 [[SensationModulatingNetwork]]
 
 ## Sources

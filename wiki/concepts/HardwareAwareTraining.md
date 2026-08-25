@@ -28,6 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]
 [[CorticalWaveRouting]]
+[[Interconnect_Routing]]
+[[RateEncodedSpikingNeuralNetwork]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -28,6 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[GroupSynchronization]]
 [[Loihi2_SpikeEncoding]]
 [[Memristive_STDP]]
+[[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

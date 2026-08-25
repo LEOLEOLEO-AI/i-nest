@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[Criticality]]
+[[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
 [[Dynamic_Expert_Fusion]]
 [[FiniteSizeTopologicalPhase]]

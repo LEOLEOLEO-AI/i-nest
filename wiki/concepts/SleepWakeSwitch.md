@@ -28,6 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[AmoebaInspiredLocomotion]]
+[[Anomaly_Protected_Scaling_Law]]
+[[MoE_Routing]]
+[[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

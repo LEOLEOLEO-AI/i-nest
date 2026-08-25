@@ -8,7 +8,7 @@ tags:
 **Last updated**: 2026-07-30
 
 ## Definition
-Chiplet-based heterogeneous integration
+Chiplet-based Heterogeneous_Integration
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic_Integration]]
 [[Memory_Wall]]
+[[Memristive_STDP]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -60,9 +61,9 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
-[[heterogeneous integration]]
 [[heterogeneous_integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

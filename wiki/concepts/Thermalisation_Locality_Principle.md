@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogStateRetention]]
 [[Architectural_Conditioning]]
 [[Associative_Memory_Unification]]
+[[BCM滑动阈值]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DifferentiableRasterizationPipeline]]

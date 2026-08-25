@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[BitPrecisionAwareScheduling]]
 [[BurstGatedRouting]]
+[[BurstInterleaving]]
 [[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossLayer_SignalRouting]]

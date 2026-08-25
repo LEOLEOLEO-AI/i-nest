@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Closed_Loop_Neuromodulation]]
 [[Cognitive_Relapse_Decoupling]]
+[[Core_Spacetime_Tensor]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

@@ -24,12 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
 [[AdvancedPackagingInterconnect]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[Heterogeneous_3D_Stacking]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[SiliconPhotonicsNetwork]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
+[[TopologyAware_Routing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

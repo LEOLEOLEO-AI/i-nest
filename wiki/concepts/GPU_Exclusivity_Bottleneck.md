@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
-[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[CXL_Deployment_Transition]]
 [[ChipletTrafficAwareScheduling]]
@@ -31,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Compute_Centric_NoC]]
 [[CrossDomain_Integration]]
 [[GPU_Bottleneck_Relief]]
 [[HeterogeneousInference]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

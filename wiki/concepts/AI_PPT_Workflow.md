@@ -23,12 +23,15 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
+[[Adjoint_Gradient_Propagation]]
 [[AllOpticalHebbianLearning]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasPropagationInNetworks]]
 [[Neuromorphic_Computing]]
 [[PPT]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

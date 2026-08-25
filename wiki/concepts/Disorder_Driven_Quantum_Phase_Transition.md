@@ -28,7 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[ClosedLoopNeuromorphicControl]]
 [[Cognitive_Relapse_Decoupling]]
+[[Criticality]]
 [[Neuromorphic_Computing]]
+[[STDP_Plasticity]]
+[[Self_Organized_Criticality]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

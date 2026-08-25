@@ -23,9 +23,9 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
+[[Beyond_Moore_Pathway]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[HeterogeneousInference]]
@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSynchronization]]
+[[Knowledge_Graph_Navigation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[神经网络]]
 

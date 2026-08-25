@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
+[[BoundaryObject_Abstraction]]
 [[CST_Intelligence_Emergence]]
 [[CST计量仪]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]

@@ -8,7 +8,7 @@ tags:
 **Last updated**: 2026-08-01
 
 ## Definition
-A theoretical framework describing how coordinated spatial and temporal dynamics in networked systems give rise to emergent intelligence through complexity accumulation. Provides the foundational metric for quantifying intelligence emergence in TCC/iNEST architectures, linking network topology to cognitive capability.
+A theoretical framework describing how coordinated spatial and temporal dynamics in networked systems give rise to emergent intelligence through complexity accumulation. Provides the foundational metric for quantifying Intelligence_Emergence in TCC/iNEST architectures, linking network topology to cognitive capability.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
+[[Memristive_STDP]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -67,7 +68,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[iNEST]]
-[[intelligence emergence]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

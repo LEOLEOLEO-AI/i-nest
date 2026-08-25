@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MobilityEdge]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Packaging]]
 [[RealTimeClassification]]
 [[RelocationOverheadModel]]
 [[Self_Organized_Criticality]]

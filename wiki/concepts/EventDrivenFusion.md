@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioPlausiblePredictiveCoding]]
 [[BulletTrainScheduling]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

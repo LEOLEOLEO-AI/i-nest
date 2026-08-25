@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MarginalContributionFitness]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

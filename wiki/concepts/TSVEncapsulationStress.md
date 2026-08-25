@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Distributed_Spike_Communication]]
 [[EMIB_Bridge]]
 [[Heterogeneous_Integration]]
 [[InterFPGA_Spike_Routing]]

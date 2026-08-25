@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
+[[EvolvingArchitectureDynamics]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
+[[ChiralSymmetryClasses]]
 [[CommunicationAsComputation]]
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]

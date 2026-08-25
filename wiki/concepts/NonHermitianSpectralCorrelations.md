@@ -29,7 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AmoebaInspiredLocomotion]]
 [[AsynchronousEventDrivenComputation]]
+[[MoE_Routing]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
+[[CascadedAdaptiveCombiners]]
 [[FlexibilityThreshold]]
 [[MIND model]]
 [[MIND_Model]]

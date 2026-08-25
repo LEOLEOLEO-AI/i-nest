@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BackflowTransformation]]
+[[CellEmergence]]
 [[EventTriggeredDistributedControl]]
 [[Network_Topology_Design]]
 [[QuantumChaos]]

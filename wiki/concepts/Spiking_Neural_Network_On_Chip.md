@@ -22,12 +22,15 @@ Auto-extracted concept from raw material compilation.
 
 [[Criticality_Based_Feature_Extraction]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[DynamicTokenSparsity]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Network_On_Chip]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

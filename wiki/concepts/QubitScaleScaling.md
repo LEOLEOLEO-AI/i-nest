@@ -27,7 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[156QubitScale]]
 [[20W_Brain_Inspired_Planning]]
+[[Complex_System_Theory]]
+[[DistributedInference]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[iNEST]]
 

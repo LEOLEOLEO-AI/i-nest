@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]
+[[EnergyEfficientNeuromorphic]]
 [[FC2_Goal_Representation]]
 [[Free_Energy_Principle_Network]]
 [[Frontier_Innovation_Mapping]]

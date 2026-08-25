@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Distributed_Spike_Communication]]
+[[Heterogeneous_Integration]]
 [[Memristor_Synapse]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_TCC_Chiplet]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

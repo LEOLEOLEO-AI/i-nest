@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[OnChipSNNTrainingEngine]]
 [[SNN]]
 [[SNN_Backpropagation_Through_Time]]
 [[Spike_Encoding_of_fMRI]]

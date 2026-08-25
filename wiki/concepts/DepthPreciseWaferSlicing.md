@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DynamicInference]]
 [[Emergent_Intelligence_Roadmap]]
+[[FPGA_Neuromorphic_Architectures]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 

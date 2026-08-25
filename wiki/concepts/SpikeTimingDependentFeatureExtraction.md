@@ -26,8 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[FatigueSTDP]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
+[[Reservoir_Computing]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

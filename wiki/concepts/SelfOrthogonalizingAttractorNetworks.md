@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenInference]]
+[[EventDrivenTracking]]
 [[ExponentialDenseAssociativeMemory]]
 [[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Principle_Network]]

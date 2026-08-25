@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Security_Architecture]]
 [[CriticalInertiaEstimation]]
@@ -28,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[EdgeAI_Market_Consolidation_Driver]]
 [[Energy_Efficient_Control]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 
 ## Sources

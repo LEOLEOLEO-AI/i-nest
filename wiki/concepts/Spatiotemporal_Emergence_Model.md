@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[BiasEvaluationMetrics]]
 [[BrainScaleTopologyExploitation]]
+[[Brain_Dynamics_Learning]]
 [[CollectiveDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[神经网络]]
 

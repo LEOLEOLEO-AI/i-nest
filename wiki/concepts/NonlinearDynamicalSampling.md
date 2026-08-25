@@ -22,12 +22,16 @@ Auto-extracted concept from raw material compilation.
 
 [[ContinualLearningOnNeuromorphic]]
 [[CriticalityInducedTopology]]
+[[Criticality]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
 

@@ -23,11 +23,12 @@ Auto-extracted concept from raw material compilation.
 [[AgentReputationLedger]]
 [[Bipartite_Interconnect_Design]]
 [[ComponentLevelPackaging]]
+[[DataMovementMinimization]]
 [[External_to_OnDie_Evolution]]
 [[FlagOS_2_0]]
 [[IMPLYMemristiveISA]]
 [[KV_Cache_To_BoundaryObject]]
-[[KV_Cache_to_BoundaryObject_Transition]]
+[[KV_Cache_to_BoundaryObject]]
 [[TCC]]
 [[iNEST]]
 

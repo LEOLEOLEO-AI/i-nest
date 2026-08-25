@@ -23,13 +23,13 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
-[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Branch_Prediction]]
 [[Branch_Prediction_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Memory_Technology_Coexistence]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 [[Avalanche_Dynamics]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
-[[Catastrophic_Forgetting]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Contested_Priors_Architecture]]
@@ -39,8 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[SynapticReinforcementConsolidation]]
 [[TwoTimescaleNeuroEvolution]]
 [[avalanche dynamics]]
+[[catastrophic forgetting]]
 [[criticality]]
 [[iNEST]]
 

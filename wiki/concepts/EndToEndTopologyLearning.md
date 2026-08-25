@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

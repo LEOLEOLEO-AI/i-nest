@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
+[[DiscreteSTDP]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[ExactFiringRateModel]]

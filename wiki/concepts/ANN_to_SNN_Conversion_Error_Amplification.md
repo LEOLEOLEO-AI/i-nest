@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[CirculateFiringNeuron]]
 [[CriticalStateInformationMaximization]]
+[[CrossLayer_SignalRouting]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]

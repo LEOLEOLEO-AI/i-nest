@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[ChipletOpticalIO]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Course_Based_FPGA_Projects]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[iNEST]]

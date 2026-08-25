@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Memory_Infrastructure]]
 [[Advanced_Packaging_for_Space]]
 [[Analog_InMemory_Processing]]
+[[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]

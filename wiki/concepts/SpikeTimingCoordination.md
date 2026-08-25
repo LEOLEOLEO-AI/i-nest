@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[ClocklessReconfigurableChip]]
 [[CorticalWaveRouting]]
 [[DelayCodedWorkingMemory]]
+[[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]
 [[Loihi2_SpikeEncoding]]
 [[Neuromorphic_Computing]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[UniSpike_Acceleration]]
 [[iNEST]]
 [[temporal coding]]
 

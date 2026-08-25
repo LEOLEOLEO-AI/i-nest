@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
+[[HeterogeneousSiliconNitridePlatform]]
 [[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

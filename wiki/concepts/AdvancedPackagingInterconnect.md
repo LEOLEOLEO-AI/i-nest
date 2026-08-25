@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-Interconnects formed through advanced packaging techniques such as TSV (through-silicon via) and hybrid bonding, enabling vertical and ultra-fine-pitch connections between chiplets or dies. Enables the 3D stacking and heterogeneous integration that TCC relies on for low-latency, high-bandwidth communication between compute and memory elements.
+Interconnects formed through advanced packaging techniques such as TSV (through-silicon via) and hybrid bonding, enabling vertical and ultra-fine-pitch connections between chiplets or dies. Enables the 3D stacking and Heterogeneous_Integration that TCC relies on for low-latency, high-bandwidth communication between compute and memory elements.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
-[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
@@ -29,13 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[DirectConnect_Topology]]
 [[EdgeIoTEnergyAwareness]]
+[[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[NonEquilibriumComputing]]
 [[OnDie_Fusion]]
 [[Photonic_Chiplet_Interconnect]]
@@ -46,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[advanced packaging]]
-[[heterogeneous integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

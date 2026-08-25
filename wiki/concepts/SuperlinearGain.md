@@ -54,11 +54,11 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
-[[TCC_Topology]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Textbook_Paradigm_Definition]]
+[[TopologyCentricEngineeringBase]]
 [[Topology_Interconnect]]
 [[temporalComplexity]]
 

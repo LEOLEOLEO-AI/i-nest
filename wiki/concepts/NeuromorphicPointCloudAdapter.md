@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[CSI_Temporal_Encoding]]
-[[Catastrophic_Forgetting]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[DeeplySupervisedSpiking]]
@@ -31,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
+[[EventDrivenGraphTraversal]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

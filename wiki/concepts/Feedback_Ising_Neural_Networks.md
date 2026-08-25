@@ -30,6 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[AdversarialMedicalRobustness]]
 [[AllOpticalHebbianLearning]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[ElectronicPhotonicIntegratedCircuit]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

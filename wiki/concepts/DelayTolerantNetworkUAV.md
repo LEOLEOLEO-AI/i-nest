@@ -34,10 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
 [[RedundancyControlledStochasticRouting]]
+[[STDPDrivenConnectivity]]
 [[ScalableNeuromorphicTopology]]
 [[StochasticMultiAgentRL]]
 [[TCC]]
-[[TCC_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

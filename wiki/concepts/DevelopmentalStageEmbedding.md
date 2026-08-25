@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[Connectome]]
-[[Connectome_Inspired_Architecture]]
 [[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[Dynamic_Expert_Fusion]]

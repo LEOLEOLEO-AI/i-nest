@@ -23,12 +23,16 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[CongestionAwareNoCPlacement]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

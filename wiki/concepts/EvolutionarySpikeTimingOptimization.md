@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN_SNN_ConversionError]]
+[[CollectiveDynamics]]
 [[Neuromorphic_Computing]]
 [[SNN]]
-[[SpikeTimingGradientPropagation]]
+[[SpikeEncoding]]
+[[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
 [[SynapseLevelParallelism]]
 [[TemporalSpikeEncoding]]

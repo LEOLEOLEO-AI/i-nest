@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Compressive_Sensing_Reservoir]]
 [[CriticalityInducedTopology]]
+[[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[DynamicProgrammingRecycling]]
 [[ErrorSuppressedPipeline]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

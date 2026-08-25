@@ -28,7 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[3DIntegratedPhotonicPackaging]]
 [[3D_Torus_6_Degree]]
+[[Complex_System_Theory]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
+[[ReputationPropagationTopology]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[TCC]]
 
 ## Sources

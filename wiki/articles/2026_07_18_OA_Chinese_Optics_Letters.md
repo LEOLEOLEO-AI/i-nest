@@ -17,4 +17,5 @@ TCC, chiplet, interconnect
 ## Related Concepts
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[TCC]]

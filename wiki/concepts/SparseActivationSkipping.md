@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactFiringRateModel]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
+[[JunctionSignalIntegrity]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

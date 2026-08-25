@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 
 ## Sources

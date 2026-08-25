@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [chip, semiconductor, AI, SoC, memory, architecture]
+summary: "小米发布三颗玄戒芯片，覆盖手机、端侧AI与智驾场景"
+quality: high
+processed: 2026-08-25 20:44
+---
+---
 title: "小米三颗玄戒自研芯片全解析：手机SoC跑分首破500万，3nm智驾芯片明年商用"
 tags:
   - chip

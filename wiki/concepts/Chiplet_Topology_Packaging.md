@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
@@ -29,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
+[[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
@@ -45,7 +45,9 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
 [[WaveguideToWaveguideCoupler]]
+[[advanced packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

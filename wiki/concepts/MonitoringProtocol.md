@@ -22,12 +22,15 @@ Auto-extracted concept from raw material compilation.
 
 [[Contested_Prior_Resolution]]
 [[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[Spike_timing_dependent_plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

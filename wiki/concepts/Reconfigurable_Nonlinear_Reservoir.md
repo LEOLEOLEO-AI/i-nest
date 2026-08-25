@@ -21,10 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AutonomousAdaptation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Architecture]]
+[[CorticalTypeDiversity]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Topology_Interconnect]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[FlagOS_2_0]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[神经网络]]
 

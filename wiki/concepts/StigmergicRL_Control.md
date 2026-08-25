@@ -20,8 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Stacking]]
 [[AnalogInMemoryComputing]]
 [[BitPrecisionAwareScheduling]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[DARPA_ProjectManager_Model]]
 [[DARPA_Technology_Incubation]]
@@ -29,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[TCC]]
 
 ## Sources

@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_timing_dependent_plasticity]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
+[[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalDynamicsModeling]]

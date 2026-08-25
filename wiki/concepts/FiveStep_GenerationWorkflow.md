@@ -20,15 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Cognitive_Relapse_Decoupling]]
 [[ControlDrivenCriticalFluctuations]]
 [[CounterstreamSignalPropagation]]
+[[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[CrystalPalace_Program]]
 [[DARPA_Technology_Incubation]]
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
 [[Driven_Criticality]]
+[[Interconnect_Routing]]
 [[PPT]]
+[[Self_Organized_Criticality]]
 [[iNEST]]
 
 ## Sources

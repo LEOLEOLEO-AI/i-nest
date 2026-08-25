@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Emergent_Topological_Alignment]]
 [[EndToEndTopologyLearning]]
+[[Intelligence_Emergence]]
+[[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

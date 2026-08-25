@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
+[[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
 [[Heterogeneous_Integration]]
 [[ImageToEventConversion]]

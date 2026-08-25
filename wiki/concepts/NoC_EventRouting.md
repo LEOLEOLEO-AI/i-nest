@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
+[[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[PacketRoutingOptimization]]

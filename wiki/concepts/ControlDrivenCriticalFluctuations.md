@@ -22,12 +22,15 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveEntanglementManagement]]
 [[Cognitive_Relapse_Decoupling]]
+[[Critical_Region_Extension]]
 [[Evolving_System_Resilience]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InSitu_Adjoint_Wave_Control]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
+[[SelfOrganization]]
 [[TCC]]
 [[iNEST]]
 

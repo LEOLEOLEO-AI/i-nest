@@ -17,5 +17,6 @@ iNEST
 ## Related Concepts
 
 [[Brain_Connectome]]
+[[Connectome]]
 [[connectome]]
 [[iNEST]]

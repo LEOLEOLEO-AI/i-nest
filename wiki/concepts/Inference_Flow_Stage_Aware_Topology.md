@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SiliconPhotonicsNetwork]]
 [[TCC]]
+[[TopologyAware_Routing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

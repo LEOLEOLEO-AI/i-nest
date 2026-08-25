@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDPDrivenConnectivity]]
 [[ScalableNeuromorphicTopology]]
 [[StochasticMultiAgentRL]]
 [[TCC]]

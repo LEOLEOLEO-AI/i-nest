@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Core_Spacetime_Tensor]]
 [[FirstPrinciples_Derivation]]
+[[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MitigationLayers]]
 [[Network_Topology_Design]]
 [[TCC]]
 

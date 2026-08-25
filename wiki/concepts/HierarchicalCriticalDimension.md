@@ -22,12 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]
+[[BranchingRatio]]
 [[CST_Theory_V27_FINAL]]
+[[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[CriticalityOnSmallWorlds]]
+[[Criticality]]
 [[Criticality_Induced_Plasticity]]
+[[DisorderInducedCriticality]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[criticality]]
 

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenDissipativeDynamics]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Spiking_Neural_Network]]

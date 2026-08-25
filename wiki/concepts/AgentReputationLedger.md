@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[Bipartite_Interconnect_Design]]
 [[BurstGatedRouting]]
+[[ComponentLevelPackaging]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

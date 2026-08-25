@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AlgorithmHardware_CoDesign]]
 [[Amorphous_Amorphous_Transition]]
+[[Avoided_Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SpikeRestormer]]

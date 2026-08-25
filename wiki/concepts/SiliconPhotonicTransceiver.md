@@ -27,8 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[ByteDance_Ada_Chip]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Packaging]]
+[[Chiplet_Stacking]]
 [[CrossMaterial_Integration]]
 [[EMIB_Bridge]]
+[[HeterogeneousSiliconNitridePlatform]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 
 ## Sources

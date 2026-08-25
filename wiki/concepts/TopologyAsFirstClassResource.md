@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CrossSubstrateHomology]]
 [[Defense_Industrial_Base_Reshaping]]
+[[EulaminateOverrepresentation]]
 [[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

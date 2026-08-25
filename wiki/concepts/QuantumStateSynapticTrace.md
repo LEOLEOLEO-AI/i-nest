@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenDissipativeDynamics]]
 [[EventDrivenAttentionMechanism]]
 [[InputAdaptiveComputation]]
+[[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[Spiking_Neural_Network]]

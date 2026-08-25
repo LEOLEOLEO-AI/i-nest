@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[DirectoryManagementLaws]]
+[[Emergent_Topology_Adaptation]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

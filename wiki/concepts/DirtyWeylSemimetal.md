@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FrustratedDimerMagnet]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[IntrospectiveRecursion]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

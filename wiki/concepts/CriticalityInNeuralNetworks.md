@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[CriticalityDrivenEfficientCoding]]
 [[Criticality]]
+[[Criticality_Driven_Coding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedNeuralDecoding]]

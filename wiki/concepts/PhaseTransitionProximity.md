@@ -28,6 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveMeasurementProtocol]]
+[[AdaptiveSTDP]]
+[[FlexibilityThreshold]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

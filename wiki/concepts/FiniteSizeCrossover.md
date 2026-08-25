@@ -25,9 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AutonomousAdaptation]]
+[[BackflowTransformation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[ST_SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST_Neuromorphic_Integration]]
 [[类脑芯片]]
 

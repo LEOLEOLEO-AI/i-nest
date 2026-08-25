@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
+[[Chiplet_Interconnect_Topology]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TCC]]

@@ -32,12 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
-[[Reservoir_Computing_Architecture]]
 [[Reservoir_Computing_DP_Recycling]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[reservoir computing architecture]]
+[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

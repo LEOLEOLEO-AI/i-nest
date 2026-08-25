@@ -21,14 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AvalancheBranchingRatio]]
+[[BranchingRatio]]
+[[Complex_System_Theory]]
 [[Criticality]]
 [[Nonlinear_Gain]]
 [[Self_Organized_Criticality]]
 [[StandardizedComponent]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
-[[TcComputation]]
+[[TcC]]
 [[iNEST]]
 
 ## Sources

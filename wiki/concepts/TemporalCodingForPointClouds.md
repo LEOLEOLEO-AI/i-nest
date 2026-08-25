@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[IntrinsicTimingSTDP]]
 [[Neuromorphic_Computing]]
+[[STDP_Plasticity]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

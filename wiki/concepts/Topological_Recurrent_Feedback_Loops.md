@@ -23,12 +23,17 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[CST_Equation]]
+[[Complex_System_Theory]]
+[[Connectome]]
 [[DataProvenanceIntegrity]]
 [[Decoupled_Priors]]
+[[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[UniversalIntelligence_Emergence]]
+[[VonNeumann_Complexity_Threshold]]
 [[connectome]]
 
 ## Sources

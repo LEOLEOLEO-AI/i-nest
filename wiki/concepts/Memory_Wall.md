@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Chiplet_based_heterogeneous_integration]]
 [[DRBE_MVP_Mainchain]]
+[[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
@@ -53,8 +54,6 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
-[[TCC_RTC原语架构与SDI拓扑变换机理]]
-[[TCC_iNEST_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
@@ -62,6 +61,8 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[heterogeneous_integration]]
 [[iNEST]]
+[[iNEST_Interconnect]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

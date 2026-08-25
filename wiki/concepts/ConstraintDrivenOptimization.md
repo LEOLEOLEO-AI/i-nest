@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[BurstTemporalPlasticity]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

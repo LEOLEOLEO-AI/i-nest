@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[Contested_Prior_Resolution]]
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CriticalityInducedTopology]]
+[[Criticality]]
 [[DataDrivenMaterialDesign]]
 [[Generative_Graph_Models]]
 [[NCA_Reservoir]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonequilibriumLangevinComputing]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
 

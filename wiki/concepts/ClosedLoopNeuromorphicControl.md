@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]

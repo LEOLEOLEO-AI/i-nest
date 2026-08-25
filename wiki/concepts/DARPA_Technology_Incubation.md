@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[Closed_Loop_Neuromodulation]]
 [[ContinuousGameOfLife]]
+[[CrossDomain_Abstraction]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

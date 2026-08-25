@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[AI_Faculty_Forum_2026]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Topology]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[Γst_Revision]]
 

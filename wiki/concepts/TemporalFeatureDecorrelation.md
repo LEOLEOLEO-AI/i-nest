@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
 [[TemporalEchoMemory]]
 [[iNEST]]

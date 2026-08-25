@@ -27,16 +27,17 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor]]
 [[Emerging_CMOS_Memristor_Devices]]
 [[EnergyResourceEfficiencyCoOptimization]]
+[[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
-[[Memristor_Device]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
+[[memristor device]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

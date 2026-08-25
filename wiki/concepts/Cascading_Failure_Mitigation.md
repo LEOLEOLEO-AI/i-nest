@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
+[[ComplexValuedSNN]]
 [[CrossInstitutionalNetwork]]
 [[CrossLayer_SignalRouting]]
 [[CrystalPalace_Program]]

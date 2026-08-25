@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[NeuromorphicTransformerPipeline]]
 [[PhaseLockedTopologyMapping]]
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Causal_Emergence_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Decoupled_Priors]]
 [[Heterogeneous_Integration]]

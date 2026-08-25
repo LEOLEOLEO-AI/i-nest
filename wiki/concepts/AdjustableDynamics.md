@@ -32,14 +32,15 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[Distributed_Spike_Communication]]
 [[Emerging_CMOS_Memristor]]
 [[Heterogeneous_Integration]]
 [[MemristiveReservoirBranchPrediction]]
-[[Memristor_Device]]
 [[Memristor_Synapse]]
 [[PhysicalReservoir]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[memristor device]]
 [[神经网络]]
 
 ## Sources

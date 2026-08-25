@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[SNN_Conversion_Approximation_Bound]]
+[[STDP_Plasticity]]
 [[SpikeTimingFidelity]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]

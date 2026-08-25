@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
-[[FunctionalInterfaceBlocks]]
+[[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

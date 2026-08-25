@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[Branch_Prediction]]
+[[CommunicationAwareComputeRelocation]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Fusion]]

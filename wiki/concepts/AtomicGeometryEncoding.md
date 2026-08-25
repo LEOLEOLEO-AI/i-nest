@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
+[[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

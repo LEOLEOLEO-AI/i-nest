@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Cryogenic_Syndrome_Compression]]
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -45,8 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
-[[TCC_iNEST_Interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

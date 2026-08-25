@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AdaptiveFunctionalTopology]]
 [[AdaptiveMeasurementProtocol]]
+[[AdaptiveModelPartitioning]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenPlasticity]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedPhaseTransition]]
 [[NestedRepresentation]]

@@ -23,12 +23,17 @@ Auto-extracted concept from raw material compilation.
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
+[[AdversarialSpikePerturbation]]
 [[Agent_Interaction_Sequencing]]
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[BranchingRatio]]
+[[Criticality]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[criticality]]
 
 ## Sources

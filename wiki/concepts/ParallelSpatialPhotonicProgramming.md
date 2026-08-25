@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[CurrentInjectionSNN]]
 [[DARPA_ProjectManager_Model]]
+[[ElectronicPhotonicIntegratedCircuit]]
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

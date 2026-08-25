@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
+[[FormalToolchain]]
 [[Globally_Optimal_SNN_Training]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

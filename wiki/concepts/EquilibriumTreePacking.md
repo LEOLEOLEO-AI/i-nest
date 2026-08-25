@@ -20,16 +20,21 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_on_Chip_communication_architecture]]
 [[NeuromorphicTransformerTopology]]
+[[Neuromorphic_Computing]]
 [[NoC_Chiplet_Integration]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[NoC_SDI_Integration]]
+[[SDI_Bond]]
+[[SDI_NPU_NoC_Integration]]
 [[TCC]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

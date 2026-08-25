@@ -28,7 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AmoebaInspiredLocomotion]]
+[[Contested_Priors_Mechanism]]
+[[MoE_Routing]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

@@ -24,11 +24,17 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Delay_Aware_Autograd_Spiking_Framework]]
 [[DualDrivenHybridNetwork]]
 [[ErrorAmplificationLimits]]
 [[LatencyGradientDescent]]
 [[MolecularTargetSignaling]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

@@ -29,6 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[AtomicGeometryEncoding]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

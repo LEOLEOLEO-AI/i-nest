@@ -29,6 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Analog_Computation]]
 [[BarrierConditionedTrajectory]]
+[[Capability_Forging_Pipeline]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

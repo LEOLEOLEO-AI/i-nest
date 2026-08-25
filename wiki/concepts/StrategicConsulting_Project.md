@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
+[[GraphTopologyAnalysis]]
+[[Heterogeneous_Integration]]
 [[InformationSciences_Division]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

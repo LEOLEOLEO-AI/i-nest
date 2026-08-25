@@ -22,12 +22,15 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
+[[Analog_To_Information_Conversion]]
 [[Attention_Residuals]]
 [[BackpropFree_Learning]]
 [[BandedNonHermitianRandomMatrices]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
 [[CST_Spatiotemporal_Complexity_Theorem]]
+[[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 

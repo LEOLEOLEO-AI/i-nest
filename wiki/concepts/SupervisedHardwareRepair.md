@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[FatalityDrivenRewiring]]
 [[GeometricNeuromorphicFusion]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]

@@ -23,12 +23,16 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
 [[ChipletWaferInterconnectScaling]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[ComplexValuedSNN]]
 [[ComputeRelocationOverhead]]
+[[Disordered_Frustrated_Dimer_Magnets]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

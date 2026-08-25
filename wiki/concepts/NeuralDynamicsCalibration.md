@@ -27,7 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
 [[ConsciousnessEngineeringLoop]]
+[[ErrorAmplificationLimits]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

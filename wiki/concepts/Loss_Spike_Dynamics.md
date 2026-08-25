@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
+[[ClinicalTranslationBridge]]
 [[CollectiveDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]

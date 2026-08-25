@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
+[[CrashHotspotForecasting]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[EventDrivenFunctionalConnectivity]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Neuromorphic_Computing]]
+[[SelfOrganization]]
 [[TCC]]
 [[iNEST]]
 

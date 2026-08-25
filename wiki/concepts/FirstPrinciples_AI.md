@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Open_Source_Research_Stack]]
 [[QuantumReservoirMemoryCapacity]]
+[[Readout_Weight_Training]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[ShortTermMemory]]

@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[ByteDance_Ada_Chip]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[EarlyExitInference]]
+[[EfficientDeepLearning]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[BiasEvaluationMetrics]]
 [[CognitiveSupportTopology]]
+[[CollectiveConsensus]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[FastSlow_Dynamics]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalCooperativeIntelligence]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 

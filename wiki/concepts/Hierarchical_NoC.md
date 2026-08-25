@@ -23,13 +23,17 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Interconnect]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
+[[Analog_Weight_Storage]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_on_Chip_communication_architecture]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
+[[SDI_Bond]]
 [[TCC]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

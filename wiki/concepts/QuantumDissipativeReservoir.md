@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction]]
 [[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Fusion]]
+[[EulaminateOverrepresentation]]
 [[GeneralizedReadoutMap]]
 [[InNetworkSignalRecovery]]
 [[Memristor_Reservoir_Branch_Prediction]]
@@ -39,10 +40,9 @@ Auto-extracted concept from raw material compilation.
 [[Pipelined_Processor_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
-[[Reservoir_Computing_Architecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[reservoir computing architecture]]
+[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

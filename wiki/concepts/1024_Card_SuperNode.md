@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
-[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -35,9 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[OnDie_Fusion]]
+[[PhononicCrystalMicrowaveCoupling]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

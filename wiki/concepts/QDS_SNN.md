@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[ActiveInferenceEdgeLoop]]
+[[ActiveInference]]
 [[AlgorithmHardware_CoDesign]]
 [[Amorphous_Amorphous_Transition]]
 [[Neuromorphic_Computing]]

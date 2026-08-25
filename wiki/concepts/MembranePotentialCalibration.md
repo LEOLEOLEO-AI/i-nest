@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[Criticality]]
 [[DivergentHigherAreaRanking]]
+[[HardwareAware_DesignSpace]]
 [[LeftRightAsymmetry]]
 [[Nonlinear_Gain]]
 [[SNN]]

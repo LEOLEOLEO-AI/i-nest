@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DeeplySupervisedSpiking]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]

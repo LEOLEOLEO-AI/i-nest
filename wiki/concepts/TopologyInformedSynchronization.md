@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGABasedNeuromorphic]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[Memristive_Interconnect]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

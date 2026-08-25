@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TensorDecisionDiagram]]
 [[TensorDecisionDiagrams]]
 [[Topological_State_Encoding]]
 [[智能涌现]]

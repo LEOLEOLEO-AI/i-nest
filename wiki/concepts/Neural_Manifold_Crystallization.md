@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Model]]
 [[CrossLayer_SignalRouting]]
 [[DARPA_ProjectManager_Model]]
+[[Dynamic_Expert_Routing]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaveBasedInformationRouting]]
 [[getnote_2026-01-25_吴华强团队与iNEST技术互补]]
+[[getnote_2026-06-15_能量函数驱动神经网络设计]]
+[[iNEST]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[新型计算]]
 [[神经形态计算]]

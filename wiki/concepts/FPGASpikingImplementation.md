@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[BrainScaleTopologyExploitation]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[CorticalWaveRouting]]
@@ -27,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[DynamicReconfigurationForFaultTolerance]]
 [[DynamicTopologyMapping]]
 [[EventDrivenModularArchitecture]]
+[[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

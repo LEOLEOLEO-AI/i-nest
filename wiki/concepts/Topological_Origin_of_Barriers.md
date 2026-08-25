@@ -29,7 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
+[[AtomicGeometryEncoding]]
 [[Network_Topology_Design]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

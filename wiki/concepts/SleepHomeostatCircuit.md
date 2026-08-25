@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AnisotropicGaussianPrimitives]]
 [[AsynchronousEventDrivenComputation]]
+[[BurstCoding]]
 [[Criticality]]
 [[DynamicalCriticality]]
 [[Edge_Neuromorphic_Compute]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveConsensus]]
 [[CollectiveDynamics]]
 [[CriticalStateInformationMaximization]]
+[[CrossLayer_SignalRouting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

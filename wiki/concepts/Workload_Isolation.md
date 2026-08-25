@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Term_Project_Structure]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[NeuromorphicRadarFrontend]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[SNN_NeuroprostheticPipeline]]

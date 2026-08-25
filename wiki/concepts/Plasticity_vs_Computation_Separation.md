@@ -27,7 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[Computation_Access_Routing]]
 [[FPGA_NeuromorphicMapping]]
 [[FPGA_Reconfigurability]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

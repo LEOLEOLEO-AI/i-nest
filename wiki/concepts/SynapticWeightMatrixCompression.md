@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[Advanced_Packaging_for_Space]]
 [[Analog_Computation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[ReputationSignal]]
 [[WavelengthMultiplexedInterconnect]]
 [[iNEST]]
 

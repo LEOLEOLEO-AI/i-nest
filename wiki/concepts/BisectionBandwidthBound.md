@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
 [[AdiabaticMultimodeBend]]
-[[Advanced_Packaging]]
 [[BisectionBandwidthMetric]]
 [[ChipletRoutingFabric]]
 [[ChipletTopologyAwareness]]
@@ -34,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[ComputeRelocationOverhead]]
+[[DataMovementMinimization]]
 [[DualSided_3D_Integration]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[MeasurementEfficientDisorderAware]]
 [[MetaTopologyLibraryCompleteness]]
 [[NetworkDiameterMetric]]
+[[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

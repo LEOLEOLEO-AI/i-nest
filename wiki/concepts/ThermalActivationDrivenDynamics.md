@@ -30,6 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[EnergyProportionalityCeiling]]
 [[EpidemicThreshold]]
 [[Neuromorphic_Computing]]
+[[NonHermitianSpectralCorrelations]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

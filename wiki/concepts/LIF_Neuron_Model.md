@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[FPGASNNMemoryOptimization]]
 [[Hardware_Accelerated_SNN]]
+[[Heterogeneous_Integration]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Neuromorphic]]
 [[神经网络]]
 
 ## Sources

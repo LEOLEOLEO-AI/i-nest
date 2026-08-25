@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
 [[BurstSuppressionMechanism]]
+[[BurstSuppression]]
 [[CollectiveSpikingDynamics]]
 [[ContinuousTimeSNN]]
 [[Criticality]]

@@ -23,13 +23,16 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Emerging_CMOS_Memristor]]
 [[Globally_Optimal_SNN_Training]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[ReservoirComputingModel]]
 [[Reservoir_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
+[[Stochastic_LIF_Inference]]
 [[iNEST]]
 [[neuromorphic spiking]]
-[[reservoir computing architecture]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

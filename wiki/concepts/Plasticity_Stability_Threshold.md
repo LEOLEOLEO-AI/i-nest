@@ -27,7 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[Cognitive_Relapse_Architecture]]
 [[Controlled_Release_Kinetics]]
+[[Memristive_Solutions]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

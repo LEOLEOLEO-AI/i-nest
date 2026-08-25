@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogDomainCompression]]
 [[CST_CoordinationMechanism]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
@@ -29,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Dynamical_State_Space]]
 [[EmergentTaskDecomposition]]
+[[Fading_Memory_Property]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Quantum_Reservoir_Computing]]
 [[Reservoir_Computing]]

@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-08-25",
+  "last_compile": "2026-08-26",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -1075,7 +1075,11 @@
     "00_Inbox/_pipeline_insights/2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna.md": 1787524232.3195708,
     "00_Inbox/_pipeline_insights/2026-08-24_arXiv_Petri Net Description of Biological Neural Circuits for Fast.md": 1787524342.7211046,
     "00_Inbox/_pipeline_insights/2026-08-24_arXiv_Spike-based Belief Propagation in Nonlinear Dynamical System.md": 1787524331.118156,
-    "00_Inbox/_pipeline_insights/2026-08-24_arXiv_Universal meson spectra near $(1+1)$-dimensional Ising criti.md": 1787524299.442728
+    "00_Inbox/_pipeline_insights/2026-08-24_arXiv_Universal meson spectra near $(1+1)$-dimensional Ising criti.md": 1787524299.442728,
+    "00_Inbox/先进计算与芯片领域项目研讨及科创公司筹备会议记录.md": 1787670046.5185635,
+    "00_Inbox/_pipeline_insights/2026-08-25_arXiv_Assessing Triple Modular Redundancy for Wide-Link, Low-Laten.md": 1787610643.1473646,
+    "00_Inbox/_pipeline_insights/2026-08-25_arXiv_Event-triggered Implicit Perturbation for Zeroth-Order Fine-.md": 1787610744.3416374,
+    "00_Inbox/_pipeline_insights/2026-08-25_arXiv_Identifying the structure of dynamical transitions in logist.md": 1787610722.5425105
   },
   "concept_graph": {}
 }

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]

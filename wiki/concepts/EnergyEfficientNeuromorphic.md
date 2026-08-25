@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Topology_Aware_Spike_Routing]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[spiking neural network]]

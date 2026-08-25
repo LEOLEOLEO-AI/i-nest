@@ -21,9 +21,9 @@ Auto-extracted concept from raw material compilation.
 
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
 [[MembranePotentialAlignment]]

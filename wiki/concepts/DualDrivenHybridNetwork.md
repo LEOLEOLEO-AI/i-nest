@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Avoided_Criticality]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EdgeIoTEnergyAwareness]]

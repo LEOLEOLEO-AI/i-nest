@@ -36,6 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[CommunicationTopologyMismatch]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Encapsulation_Topology]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

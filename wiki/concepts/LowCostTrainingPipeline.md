@@ -20,12 +20,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
+[[Branch_Prediction]]
+[[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[FractureMechanism]]
 [[GeneralizedReadoutMap]]
 [[Heterogeneous_Chiplet_Customization]]
 [[InNetworkSignalRecovery]]
 [[Memristor_Reservoir_Branch_Prediction]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]

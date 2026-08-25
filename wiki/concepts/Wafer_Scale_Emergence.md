@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossTaskNeuralRepresentation]]
@@ -34,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
+[[SDI_Bond]]
 [[SDI_STDP]]
+[[STDP_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

@@ -21,9 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CST_Theory_V27_FINAL]]
+[[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[CriticalityOnSmallWorlds]]
+[[Criticality]]
 [[Criticality_Avoidance_Theory]]
+[[Criticality_Induced_Computation]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

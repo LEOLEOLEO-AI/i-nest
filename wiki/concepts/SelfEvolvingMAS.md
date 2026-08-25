@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DissipativePhaseTransition]]
 [[DynamicReconfigurationForFaultTolerance]]
+[[DynamicTopologyMapping]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGABasedNeuromorphic]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

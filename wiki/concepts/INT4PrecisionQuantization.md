@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BiSpikCLM]]
 [[DARPA_ProjectManager_Model]]
 [[DMP_SNN_DualMemoryPathway]]
 [[DTGA]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
+[[SpikingNeuralNetworkTopologyMapping]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

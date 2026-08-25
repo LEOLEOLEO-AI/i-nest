@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ActionWeightedPathEnsemble]]
 [[ActiveInference]]
 [[AdditiveTopology_Embedding]]
+[[AdversarialRobustness]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Complex_System]]

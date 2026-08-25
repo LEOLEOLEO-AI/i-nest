@@ -20,13 +20,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
 [[CrossbarSNNArchitecture]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Interconnect_Routing]]
+[[Neuromorphic_Acceleration]]
+[[Neuromorphic_Computing]]
 [[PacketRoutingOptimization]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

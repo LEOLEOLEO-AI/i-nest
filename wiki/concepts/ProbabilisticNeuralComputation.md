@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
 [[Distributed_Intelligent_Manufacturing]]
+[[EndToEndTopologicalLearning]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
 

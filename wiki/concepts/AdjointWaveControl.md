@@ -22,12 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[Cognitive_Relapse_Decoupling]]
+[[CommunicationAwareComputeRelocation]]
 [[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Pods4Rail_Topology]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[SelfOrganization]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
 

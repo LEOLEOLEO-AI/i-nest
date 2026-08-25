@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[CST计量仪]]
+[[Cauchy_Aczel_Uniqueness]]
+[[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
 [[DefectTwistOperator]]
 [[EdgeIoTEnergyAwareness]]

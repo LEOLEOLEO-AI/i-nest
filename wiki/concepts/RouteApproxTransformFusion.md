@@ -23,7 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
-[[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
 [[AdsorptionBiosorptionHybrid]]
 [[BioPlausiblePredictiveCoding]]
 [[CriticalityDrivenStateTransition]]

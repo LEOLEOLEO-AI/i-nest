@@ -21,13 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredSequenceLearning]]
 [[DiscreteSTDP]]
 [[GroupSynchronization]]
 [[IntrinsicTimingSTDP]]
 [[Loihi2_SpikeEncoding]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ArmLocomotorCoordination]]
 [[AstrocyteInspiredRepair]]
 [[BiasEvaluationMetrics]]
+[[BioInspiredSpikeEncoding]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[FlagOS_2_0]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[神经网络]]
 

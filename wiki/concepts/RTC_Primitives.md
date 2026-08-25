@@ -46,7 +46,9 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[TopologyProgramming]]
+[[Topology_Page]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[topology reconfiguration]]
 

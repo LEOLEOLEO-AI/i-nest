@@ -27,8 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[ActiveDendriteSNN]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[BackflowTransformation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[neuromorphic substrate]]
 
 ## Sources

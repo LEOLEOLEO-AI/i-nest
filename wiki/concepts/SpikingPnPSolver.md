@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ApproximateMacroscopicDynamics]]
 [[AstrocyteInspiredRepair]]
+[[BrainScaleTopologyExploitation]]
 [[CirculateFiringNeuron]]
 [[CollectiveDynamics]]
 [[Complex_System]]

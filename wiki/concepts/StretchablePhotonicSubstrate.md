@@ -24,11 +24,14 @@ Auto-extracted concept from raw material compilation.
 [[CrossMaterial_Integration]]
 [[DarkSiliconAwarePowerGating]]
 [[HeterogeneousSiliconNitridePlatform]]
-[[Heterogeneous_Integration_Roadmap_HIR]]
+[[Heterogeneous_Integration]]
 [[MicroTransferPrinting]]
+[[Network_Topology_Design]]
 [[Resilient_Sensing_Comms_Network]]
+[[SDI_Bond]]
 [[SDI_TopologyWaferIntegration]]
 [[SiCSubstrateIntegration]]
+[[SystemInPackage_SiP]]
 [[TCC]]
 
 ## Sources

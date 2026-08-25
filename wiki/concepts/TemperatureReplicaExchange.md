@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[MarginalContributionFitness]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Recurrent_Network_Homeostasis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]

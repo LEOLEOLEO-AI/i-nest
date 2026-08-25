@@ -25,10 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Amorphous_Amorphous_Transition]]
 [[Avoided_Criticality]]
+[[CriticalStateInformationMaximization]]
+[[Criticality]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Teleportation_Assisted_Interconnect]]
-[[VonEconomoNeurons]]
+[[VonEconomoNeuron]]
 [[iNEST]]
 
 ## Sources

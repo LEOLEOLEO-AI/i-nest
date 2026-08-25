@@ -21,15 +21,20 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CST_Equation]]
+[[ChiralTopologicalMatter]]
+[[Complex_System_Theory]]
 [[GraphBasedSemanticRouting]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Multifractal_Scaling_Behaviour]]
 [[Network_Topology_Design]]
 [[Quantum_Spin_Glass]]
 [[RamanInducedGaugeField]]
 [[Recursive_Metric_Contraction]]
+[[STDP_Plasticity]]
 [[TCC]]
+[[fractal_Scaling]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

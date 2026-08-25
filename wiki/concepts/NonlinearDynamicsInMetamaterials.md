@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[ThermallyDrivenSuperparamagneticReservoir]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -23,12 +23,18 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdvancedPackagingInterconnect]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
+[[Chiplet_Stacking]]
 [[Heterogeneous_Inference_Offload]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[P_Paradigm]]
+[[SDI_Bond]]
+[[SDI_Topology]]
 [[TCC]]
 
 ## Sources

@@ -22,13 +22,16 @@ Auto-extracted concept from raw material compilation.
 
 [[ASIC_Dualism]]
 [[Accessibility_Plasticity]]
-[[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CLINKAsCarrierPrimitive]]
 [[CST_Spatiotemporal_Complexity]]
+[[Complex_System_Theory]]
+[[Decoupling_Mechanism]]
 [[Network_Topology_Design]]
 [[SDI bond]]
 [[SDI_Bond]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

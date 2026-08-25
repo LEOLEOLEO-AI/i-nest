@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Bosonic_SPT_Phases]]
 [[CrystalPalace_Program]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

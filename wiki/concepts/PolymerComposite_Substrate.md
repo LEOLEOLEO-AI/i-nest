@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DTGA]]
+[[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Memristor_Network]]

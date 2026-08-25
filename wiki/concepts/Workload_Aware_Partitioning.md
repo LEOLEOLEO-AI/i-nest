@@ -29,6 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[CoPackagedOptics]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 
 ## Sources

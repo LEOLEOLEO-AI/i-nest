@@ -27,8 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AmoebaInspiredLocomotion]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[SelfOrganization]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

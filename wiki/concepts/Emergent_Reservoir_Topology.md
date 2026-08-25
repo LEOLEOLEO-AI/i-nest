@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
+[[OpticalNonlinearity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[TopologicalAndersonChernInsulator]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
@@ -43,8 +44,10 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SystemLevelNonlinearity]]
+[[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[iNEST_Topology]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

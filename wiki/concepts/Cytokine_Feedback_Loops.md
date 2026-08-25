@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryObserver]]
 [[EventDrivenFunctionalConnectivity]]
 [[In_Context_Learning]]
+[[NeuromorphicRL_Locomotion]]
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]

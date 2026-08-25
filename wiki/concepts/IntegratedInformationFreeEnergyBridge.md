@@ -27,8 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveNetworkResilience]]
 [[AdaptiveTimeStepTraining]]
+[[DTGA]]
+[[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[neuromorphic substrate]]
 
 ## Sources

@@ -8,7 +8,7 @@ tags:
 **Last updated**: 2026-07-30
 
 ## Definition
-Mathematical relationships that describe how intelligence emergence scales with system size, connectivity, and nonlinearity in topological computing substrates. These laws guide the optimization of device-level parameters to achieve desired computational capabilities in TCC networks.
+Mathematical relationships that describe how Intelligence_Emergence scales with system size, connectivity, and nonlinearity in topological computing substrates. These laws guide the optimization of device-level parameters to achieve desired computational capabilities in TCC networks.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -39,10 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[Memristive_STDP]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Next_Gen_AI_Application_Scenarios]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NonAbelian_Gauge_Topology]]
@@ -53,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
-[[Scaling_Laws]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
@@ -61,7 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
-[[intelligence emergence]]
+[[scaling laws]]
 [[temporalComplexity]]
 
 ## Sources

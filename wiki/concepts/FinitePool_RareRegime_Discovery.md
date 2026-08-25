@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
+[[CellEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

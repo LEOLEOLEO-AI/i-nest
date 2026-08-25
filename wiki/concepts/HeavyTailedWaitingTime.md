@@ -20,15 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ITP_STDP]]
 [[ITP_STDP_Learning_Engine]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
 [[PolychronousNeuronalGroups]]
-[[SDI_STDP_Regulation]]
+[[SDI_Bond]]
+[[SDI_STDP]]
+[[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SelfInhibitionFeedbackLoop]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

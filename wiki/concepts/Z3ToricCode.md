@@ -21,14 +21,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ChipletWaferTopologyCoDesign]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[EulaminateOverrepresentation]]
+[[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[Memory_Wall]]
 [[MinistryTechProjectFramework]]
 [[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
+[[SDSoW]]
 [[TCC]]
 
 ## Sources

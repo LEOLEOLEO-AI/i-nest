@@ -27,7 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
+[[SDI_Bond]]
 [[SDI_STDP]]
+[[STDP_Learning]]
+[[STDP_Plasticity]]
+[[STDP_iNEST]]
+[[SelfOrganization]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

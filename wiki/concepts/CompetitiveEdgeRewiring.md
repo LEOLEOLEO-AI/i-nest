@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Precision_Configurable_ReCON]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
+[[RestingStateEEG_Connectivity]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

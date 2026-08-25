@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveEntanglementManagement]]
+[[AdaptiveFunctionalTopology]]
 [[Network_Topology_Design]]
 [[TCC]]
 

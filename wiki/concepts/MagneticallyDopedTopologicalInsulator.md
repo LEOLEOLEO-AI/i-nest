@@ -23,12 +23,15 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[BifurcationCandidate]]
 [[CLINKAsCarrierPrimitive]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Decoupling]]
 [[Computation_Access_Routing]]
 [[Emergent_Topology_Adaptation]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[NonHermitian_Delocalization]]
 [[TCC]]
 
 ## Sources

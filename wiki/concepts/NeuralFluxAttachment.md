@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AndersonTransition]]
+[[BalancedRouting]]
 [[Baseline_Draft_Status]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

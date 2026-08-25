@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DIntegratedPhotonicPackaging]]
 [[AI_FullSpectrum_Strategy]]
-[[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
 [[Allreduce_Latency_Probe]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalInertiaEstimation]]
 [[DTGA]]
+[[EdgeAI_Market_Consolidation_Driver]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
+[[Switch_Chiplet_Integration]]
 [[TCC]]
 [[iNEST]]
 

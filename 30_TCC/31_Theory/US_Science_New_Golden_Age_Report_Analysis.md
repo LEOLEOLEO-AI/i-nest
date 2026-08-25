@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [科研体制, AI革命, 政策分析, 同行评议, 科学范式]
+summary: "美国科研体制改革报告解析，探讨AI时代科学范式变革"
+quality: high
+processed: 2026-08-25 20:44
+---
+---
 title: "美国《科学：新的黄金时代》报告深度解析：科研体制改革的机遇与争议"
 tags:
   - infrastructure

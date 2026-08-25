@@ -28,7 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[Accessibility_Plasticity]]
 [[Active_Inference_Architecture]]
+[[BinaryCombinatorialOptimization]]
 [[Interconnect_Routing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

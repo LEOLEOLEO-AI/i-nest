@@ -23,12 +23,15 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Topology]]
 [[Course_Based_FPGA_Projects]]
 [[CriticalityInducedTopology]]
+[[Criticality]]
 [[DataDrivenMaterialDesign]]
 [[ErrorSuppressedPipeline]]
 [[Generative_Graph_Models]]
 [[NCA_Reservoir]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[iNEST]]
 
 ## Sources

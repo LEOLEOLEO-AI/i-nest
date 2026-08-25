@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[BioInspiredLearningRule]]
 [[ChannelEventSparsity]]
@@ -29,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[LargeDeviationTopologicalOrder]]
 [[Network_Topology_Design]]
 [[NichePreservationMechanism]]
+[[Reservoir_Computing]]
 [[ST_SNN]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

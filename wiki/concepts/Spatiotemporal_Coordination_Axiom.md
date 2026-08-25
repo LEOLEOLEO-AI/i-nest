@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[ITP_STDP]]
 [[Layer_Specific_Spreading_Rate]]
+[[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

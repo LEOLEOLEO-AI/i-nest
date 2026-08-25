@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Habituation_Dynamics]]
 [[HierarchicalSpikePropagation]]
 [[Neuromorphic_Computing]]
+[[Spatiotemporal_Emergence_Model]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
-[[Advanced_Packaging]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ComputeRelocationOverhead]]
 [[External_to_OnDie_Evolution]]
@@ -34,9 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[InverseDesignedPhotonicAccelerator]]
 [[LargeScalePhotonicIntegration]]
 [[MaterialGrowthFabricationFocus]]
+[[MemoryEfficientSimulation]]
 [[Network_Topology_Design]]
 [[OnDie_Fusion]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

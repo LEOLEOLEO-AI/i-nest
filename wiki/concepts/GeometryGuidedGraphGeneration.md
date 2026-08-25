@@ -29,7 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Cluster_Switch_Bottleneck]]
+[[AI_Forum_Ecosystem]]
+[[Complex_System_Theory]]
 [[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[Switch_Bottleneck]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

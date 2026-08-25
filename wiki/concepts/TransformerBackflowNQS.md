@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_To_Information_Conversion]]
+[[EventDrivenAutoregression]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 
 ## Sources

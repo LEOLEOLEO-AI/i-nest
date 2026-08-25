@@ -24,11 +24,14 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
+[[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]

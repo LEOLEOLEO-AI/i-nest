@@ -26,9 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[Spiking_Neural_Network]]
+[[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[temporal coding]]
 
 ## Sources

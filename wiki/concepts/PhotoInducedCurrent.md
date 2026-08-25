@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Reservoir_Topology]]
+[[Fading_Memory_Property]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

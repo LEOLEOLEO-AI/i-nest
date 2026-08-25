@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[Branch_Prediction]]
 [[BurstInterleaving]]
+[[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

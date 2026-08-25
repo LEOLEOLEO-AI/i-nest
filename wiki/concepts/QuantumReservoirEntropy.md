@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompressiveSensing]]
 [[ApplicationScenarioReconstruction]]
 [[AstrocyteInspiredRepair]]
+[[AtomicVaporNonlinearity]]
 [[Reservoir_Computing]]
 
 ## Sources

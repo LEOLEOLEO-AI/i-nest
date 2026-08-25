@@ -30,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[TCC]]
-[[TcComputation]]
+[[TcC]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[TopologyProgramming]]

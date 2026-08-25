@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[CirculateFiringNeuron]]
 [[ConceptualNetworkEmbedding]]
+[[Dendritic_In_Context_Learning]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
+[[DataMovementMinimization]]
 [[Decoupled_Priors]]
 [[DualSided_3D_Integration]]
 [[DualSided_Routing_Resource]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[SensoryGatedSpikingLoop]]
+[[SpikeCodedAssociation]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Residual_Connection]]

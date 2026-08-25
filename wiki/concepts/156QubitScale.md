@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[ForwardFluctuationGradient]]
 [[FractalPathEntropy]]
+[[HigherOrderSimplicialDynamics]]
 [[HoldingManeuverDelayPrediction]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

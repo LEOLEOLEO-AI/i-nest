@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[Allreduce_Latency_Probe]]
 [[Analog_Computation]]
+[[AnomalousSpinTransport]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]

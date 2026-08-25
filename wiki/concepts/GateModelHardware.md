@@ -22,13 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Interconnect]]
 [[BondMovingDecimation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[CongestionAwareNoCPlacement]]
 [[FullDimensionalDefinableInterconnect]]
 [[FunctionalHardwareComposition]]
 [[HypergraphRumorPropagation]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[Network_on_Chip]]
+[[SparseTemporalEncoding]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

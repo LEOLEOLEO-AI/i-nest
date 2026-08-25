@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredLearningRule]]
+[[BurstTemporalPlasticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

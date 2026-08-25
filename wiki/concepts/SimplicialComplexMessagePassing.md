@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Diagnostic]]
 [[Architectural_Conditioning]]
 [[BiasEvaluationMetrics]]
+[[CST_CoarseGraining]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

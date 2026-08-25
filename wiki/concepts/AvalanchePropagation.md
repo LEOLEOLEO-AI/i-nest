@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Collective_State_Convergence]]
 [[ConnectomicDevelopmentalTrajectory]]
+[[Constructed_Reality_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 

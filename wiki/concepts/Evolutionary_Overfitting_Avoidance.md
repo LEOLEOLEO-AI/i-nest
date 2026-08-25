@@ -21,11 +21,11 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Brain_Connectome]]
 [[C__elegans_Connectome]]
 [[Connectome]]
-[[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]
 [[Emergent_Intelligence_Threshold]]

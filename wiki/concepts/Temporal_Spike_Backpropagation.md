@@ -21,11 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[DelayCodedWorkingMemory]]
+[[EvolutionarySpikeTimingOptimization]]
 [[MembranePotentialModulation]]
 [[RecurrentSpikingSocialNetwork]]
+[[Soc]]
 [[SpikeDecoder]]
+[[SpikeEncoding]]
 [[SpikeTimingEncoding]]
-[[SpikeTimingGradientPropagation]]
+[[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
 [[SynapseLevelParallelism]]
 [[TemporalSpikeEncoding]]

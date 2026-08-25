@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[L2_L3_Reconfigurability]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

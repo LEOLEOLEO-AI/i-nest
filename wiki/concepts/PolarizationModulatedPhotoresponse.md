@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
+[[Continual_Learning_Topology]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentTaskDecomposition]]
 [[Ferroelectric_Devices]]

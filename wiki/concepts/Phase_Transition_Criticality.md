@@ -26,8 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[ActivityPropagationCascade]]
 [[Activity_Energy_Tradeoff]]
 [[AdaptiveArchitecture]]
+[[AmoebaInspiredLocomotion]]
 [[Criticality]]
+[[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenMotionDeblurring]]
 [[Intelligence_Emergence]]
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]

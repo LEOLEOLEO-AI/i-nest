@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[DualDrivenHybridNetwork]]
 [[EventDrivenFunctionalConnectivity]]
+[[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

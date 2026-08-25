@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
+[[SDI_STDP_Rule]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[STDP_Topology_Integration]]

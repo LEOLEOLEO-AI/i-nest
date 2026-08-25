@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Hierarchical_Interconnect]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
+[[NestedRepresentation]]
 [[Network_Specific_Embedding_Separation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

@@ -26,9 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[DataMovementMinimization]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[InterfaceCentricTopology]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[TCC]]
 
 ## Sources

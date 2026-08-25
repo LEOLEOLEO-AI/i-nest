@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
+[[BurstSuppressionMechanism]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]
 [[Criticality]]

@@ -28,8 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[AcceleratedMaterialScreening]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[Complex_System_Theory]]
 [[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[TCC]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

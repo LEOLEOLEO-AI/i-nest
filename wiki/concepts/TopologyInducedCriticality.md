@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[OptimalRepresentation]]
+[[RamanInducedGaugeField]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]
 [[STDP_Plasticity]]

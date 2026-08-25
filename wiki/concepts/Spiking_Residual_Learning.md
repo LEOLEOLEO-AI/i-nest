@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Spiking]]
 [[SNN_NeuroprostheticPipeline]]
 [[SpikeBasedNeuralRadianceField]]
+[[Spiking_Event_Flow]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[residual connection]]

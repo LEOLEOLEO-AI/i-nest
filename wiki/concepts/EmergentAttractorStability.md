@@ -26,8 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]
+[[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
+[[STDP_Plasticity]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

@@ -13,7 +13,7 @@ auto: true
 **Last updated**: 2026-08-23
 
 ## Definition
-A modular chip design where multiple specialized chiplets (compute, memory, I/O) are integrated into a single package for training neural networks. Enables flexible scaling and heterogeneous integration, a key direction for both TCC and iNEST systems.
+A modular chip design where multiple specialized chiplets (compute, memory, I/O) are integrated into a single package for training neural networks. Enables flexible scaling and Heterogeneous_Integration, a key direction for both TCC and iNEST systems.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -25,10 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
+[[AdiabaticMultimodeBend]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[TCC]]
-[[heterogeneous integration]]
 [[iNEST]]
 
 ## Sources

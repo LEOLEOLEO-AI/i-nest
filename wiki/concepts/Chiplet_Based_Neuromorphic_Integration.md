@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI节点接口规范与化合键定义]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

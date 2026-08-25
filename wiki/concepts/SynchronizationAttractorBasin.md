@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseAwareBisectionDemand]]
 [[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
+[[Resilient_Satellite_Mesh]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]

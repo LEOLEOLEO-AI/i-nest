@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[BigBrain3DHistology]]
 [[Brain_Connectome]]
 [[ConnectomeFidelityClaim]]
+[[Connectome]]
+[[FlexibilityThreshold]]
 [[FrozenRateOperator]]
 [[Neuromorphic_Computing]]
 [[connectome]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
+[[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

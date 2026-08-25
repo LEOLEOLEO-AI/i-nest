@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_Route]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ChipletTopologyAwareness]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[TCC]]
 [[iNEST]]
 

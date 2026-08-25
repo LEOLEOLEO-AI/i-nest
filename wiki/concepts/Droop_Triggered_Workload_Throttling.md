@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]
+[[STDP_Plasticity]]
+[[Spike_Event_Driven_Attention]]
 [[TCC]]
 [[iNEST]]
 

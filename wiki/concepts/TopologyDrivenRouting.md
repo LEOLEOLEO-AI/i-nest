@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BioInspired_Interception_Control]]
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Criticality]]
 [[DynamicTokenSparsity]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
+[[AdjointWaveControl]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[FPGA_Reconfigurability]]

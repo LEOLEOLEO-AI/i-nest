@@ -24,11 +24,16 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[Event_Driven_Architecture]]
+[[Interconnect_Routing]]
 [[IntrinsicTimingSTDP]]
+[[Network_on_Chip]]
 [[NeuromorphicGraphAnomalyDetection]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TemporalSparsityExploitation]]
 [[iNEST]]
 
 ## Sources

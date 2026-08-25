@@ -24,11 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_ComputeInMemory]]
+[[Ferroelectric_Devices]]
 [[GeTeBasedCBRAM]]
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Memristive_ANN_Hardware]]
+[[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
 
 ## Sources

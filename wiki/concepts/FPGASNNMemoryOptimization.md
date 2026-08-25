@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Deep_SNN_Trainability]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[HodgkinHuxleyDynamics]]

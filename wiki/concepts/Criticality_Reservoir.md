@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogDomainCompression]]
 [[CST_Theory_V27_FINAL]]
+[[CombinatorialOptimizationReservoirMapping]]
+[[Complex_System_Theory]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[Neuromorphic_Computing]]

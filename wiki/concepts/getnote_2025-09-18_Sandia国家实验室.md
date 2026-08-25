@@ -24,9 +24,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[Brain_Connectome]]
 [[CST计量仪]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Connectome]]
-[[Connectome_Verification_Protocol]]
+[[Connectome_Inspired_Architecture]]
 [[DeviceConductanceTuning]]
 [[Krakencoder_Embedding]]
 [[NCL神经计算定律详解]]

@@ -21,13 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[Controlled_Release_Kinetics]]
 [[CorticalWaveRouting]]
 [[ITP_STDP]]
 [[ITP_STDP_Engine]]
+[[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

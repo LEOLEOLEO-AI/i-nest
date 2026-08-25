@@ -30,6 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[AthermalDynamics]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Organization]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

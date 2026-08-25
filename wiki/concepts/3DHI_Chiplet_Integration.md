@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-Three-dimensional heterogeneous integration of chiplets, stacking multiple dies vertically with advanced packaging to achieve high-density interconnects and mixed-technology co-integration. Enables TCC/iNEST to co-locate compute, memory, and networking elements in tight physical proximity, reducing latency and energy for topology-centric data movement.
+Three-dimensional Heterogeneous_Integration of chiplets, stacking multiple dies vertically with advanced packaging to achieve high-density interconnects and mixed-technology co-integration. Enables TCC/iNEST to co-locate compute, memory, and networking elements in tight physical proximity, reducing latency and energy for topology-centric data movement.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
-[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
@@ -36,12 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[advanced packaging]]
-[[heterogeneous integration]]
 [[iNEST]]
 
 ## Sources

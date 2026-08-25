@@ -27,9 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[BurstInterleaving]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

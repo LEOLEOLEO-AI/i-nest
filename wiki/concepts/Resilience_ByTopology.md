@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[EdgeIoTEnergyAwareness]]
 [[Evolutionary_Structure_Computability]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

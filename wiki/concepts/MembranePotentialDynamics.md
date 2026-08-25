@@ -27,9 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[AlgorithmHardware_CoDesign]]
 [[BigBrainCellularAxis]]
 [[CIMWeightUpdateAwareness]]
+[[Chiplet_Integration_Route]]
+[[Complex_System_Theory]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[spiking neural network]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Agent]]
 [[AdversarialRobustness]]
 [[Airborne_Link_Diversity]]
+[[AirportNetworkGraphEmbedding]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Causal_Emergence]]

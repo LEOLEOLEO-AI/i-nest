@@ -1,0 +1,38 @@
+---
+title: "BrainInspired_Chip"
+type: concept
+domain: iNEST
+created: 2026-08-26
+auto: true
+---
+
+# BrainInspired_Chip
+
+**Domain**: iNEST
+**First mentioned**: auto-extracted
+**Last updated**: 2026-08-26
+
+## Definition
+A hardware architecture that mimics neural structures and dynamics (e.g., spiking neurons, synaptic plasticity) to perform computation. Provides the foundational compute paradigm for iNEST, offering energy-efficient, event-driven processing suited for real-time cognitive tasks.
+
+## Context
+Auto-extracted concept from raw material compilation.
+
+## Related Work
+
+[[EventDataNonUniformity]]
+[[EventDrivenAutoregression]]
+[[Event_Driven_Architecture]]
+[[In_Package_Neuromorphic_Integration]]
+[[IntrinsicTimingSTDP]]
+[[ST_SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[iNEST]]
+[[synaptic plasticity]]
+
+## Sources
+- See wiki/articles/ for source article summaries
+
+## Open Questions
+- *(Explore connections to other concepts)*

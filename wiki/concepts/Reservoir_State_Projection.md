@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SemanticRelationTemporalGraph]]
 [[SimulabilityThreshold]]
 [[TCC]]
 [[iNEST]]

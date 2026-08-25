@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN_SNN_ConversionError]]
+[[BehaviorPreservingNetworkSparsity]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[CirculateFiringNeuron]]

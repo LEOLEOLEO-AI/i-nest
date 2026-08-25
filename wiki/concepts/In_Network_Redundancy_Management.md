@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[20W_Brain_Inspired_Planning]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
+[[AI_Orchestrator]]
 [[Agent_Workflow_Automation]]
 [[BifurcationCandidateSet]]
 [[CompactBosonDuality]]

@@ -25,9 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[CoDesigned_SNN_Online_Learning]]
 [[Course_Based_FPGA_Projects]]
+[[Criticality]]
 [[DARPA_Manufacturing_Strategy]]
+[[EventBasedMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -20,8 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AgenticServiceOrchestration]]
 [[Defense_Industrial_Base_Reshaping]]
 [[GeneralIntelligenceSubstrate]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[OpticalSynapticWeightUpdate]]
@@ -29,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[RLFlightControl]]
 [[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
 [[TCC]]
 
 ## Sources

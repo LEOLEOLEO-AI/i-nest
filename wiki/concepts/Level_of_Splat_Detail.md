@@ -24,11 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveNetworkResilience]]
 [[Chiplet_Based_Trusted_Hardware]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
+[[CorticalTypeDiversity]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

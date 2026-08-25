@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[HodgkinHuxleyDynamics]]
 [[Memristor_Network]]

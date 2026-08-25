@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Advanced_Packaging_for_Space]]
+[[ClosedLoopNeuromorphicControl]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]

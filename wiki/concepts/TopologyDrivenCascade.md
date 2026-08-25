@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neural_Avalanche]]
 [[NeuromorphicHardware]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN_NeuroprostheticPipeline]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
 [[avalanche dynamics]]
-[[neural avalanche dynamics]]
 [[neural avalanche]]
 
 ## Sources

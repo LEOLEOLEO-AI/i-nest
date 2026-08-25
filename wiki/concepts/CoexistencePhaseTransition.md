@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
+[[BurstTemporalPlasticity]]
+[[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[neuromorphic computing]]

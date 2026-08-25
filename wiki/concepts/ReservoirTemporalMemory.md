@@ -23,12 +23,17 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[CMOS_Memristor_Devices]]
 [[ChipletOpticalIO]]
+[[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[CrossbarArrayIntegration]]
 [[FerroelectricSemiconductorReservoir]]
+[[Ferroelectric_Devices]]
+[[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

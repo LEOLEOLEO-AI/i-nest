@@ -20,13 +20,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]
 [[Environmental_Capability_Context]]
+[[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

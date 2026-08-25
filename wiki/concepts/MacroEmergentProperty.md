@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Deep_SNN_Trainability]]
 [[DendriticTaskPartitioning]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Principle_Network]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[神经网络]]
 

@@ -27,6 +27,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[1024_Card_SuperNode]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[ERI_2_0_Strategy]]
 [[Heterogeneous_Integration]]
@@ -37,4 +38,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[新加坡IME_多芯粒异构集成互连技术]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[第三届集成芯片和芯粒大会_大会日程抢先看，16场技术论坛重磅推出]]
 [[芯粒破局_互联筑基_奇异摩尔超节点互联芯粒获评_2025年度上海算力产业十大经典案例_]]

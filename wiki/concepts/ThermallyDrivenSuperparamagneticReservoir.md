@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[InNetworkNeuromorphicEmergence]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

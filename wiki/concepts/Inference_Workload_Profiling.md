@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Stacking]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Faculty_Forum_2026]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAwareComputeRelocation]]
@@ -32,8 +33,10 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InputAdaptiveComputation]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NichePreservationMechanism]]
 [[OptimalGeneralisationNearInterpolation]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
 [[TopologyAwareStateMigration]]

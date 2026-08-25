@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MolecularTargetSignaling]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[OnChipSNNTrainingEngine]]
 [[PhaseModulationTestability]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Swarm_Coordination]]

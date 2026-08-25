@@ -23,13 +23,18 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CorticalWaveRouting]]
 [[Environmental_Capability_Context]]
+[[Interconnect_Routing]]
 [[Loihi2_SpikeEncoding]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP]]
+[[STDP_Plasticity]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Temporal_Error_Propagation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Stacking]]
 [[AINext_Initiative]]
-[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Branch_Prediction]]
@@ -29,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Evolving_System_Adaptation]]
+[[Memory_Technology_Coexistence]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

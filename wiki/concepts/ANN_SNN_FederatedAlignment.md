@@ -22,11 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
+[[ActivityPropagationCascade]]
 [[AddressRedundancyElimination]]
 [[AnalogDomainCompressiveSensing]]
 [[Branch_Prediction]]
 [[Cascading_Failure_Mitigation]]
-[[CorticalTravelingWaves]]
+[[CorticalTravelingWave]]
 [[CriticalStateInformationMaximization]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]

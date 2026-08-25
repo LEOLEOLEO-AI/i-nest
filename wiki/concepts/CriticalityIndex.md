@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenLearning]]
 [[Criticality]]
 [[Deep_Thermalisation]]
+[[Discrete_Event_Spike_Simulation]]
 [[EEG_Criticality]]
 [[ElasticSpikingTransformer]]
 [[FPGAInference]]
 [[Self_Organized_Criticality]]
+[[SpikingTransformer]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

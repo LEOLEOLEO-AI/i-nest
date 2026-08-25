@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirOptimization]]
 [[FisherInformationMetric]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

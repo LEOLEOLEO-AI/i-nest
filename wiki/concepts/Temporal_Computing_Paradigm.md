@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Controlled_Release_Kinetics]]
 [[DelayCodedWorkingMemory]]
 [[EventDrivenFunctionalConnectivity]]
 [[Neuromorphic_Computing]]

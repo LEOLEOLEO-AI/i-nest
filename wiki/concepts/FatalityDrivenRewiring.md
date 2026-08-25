@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[CommunicationAwareComputeRelocation]]
 [[Dynamic_Expert_Fusion]]
 [[EntanglementAwareRouting]]
 [[Heterogeneous_Integration]]

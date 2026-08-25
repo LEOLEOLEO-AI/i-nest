@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
+[[InputAdaptiveComputation]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

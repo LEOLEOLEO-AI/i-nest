@@ -21,14 +21,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BarrierConditionedTrajectory]]
+[[BeyondPTSymmetry]]
 [[CLINKAsCarrierPrimitive]]
 [[CellEmergence]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[HighThroughputParticleRouting]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[SelfOrganization]]
 [[TCC]]
 
 ## Sources

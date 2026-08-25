@@ -23,13 +23,18 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Free_Energy_Topology_Mapping]]
 [[GateModelQuantumOptimization]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI_Integration]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
-[[SDI_STDP_Rule]]
+[[SDI_STDP]]
+[[STDP_Plasticity]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,8 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveDensityControl]]
+[[Contested_Priors_Mechanism]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[ANN_SNN_WeightSpaceGap]]
 [[AddressRedundancyElimination]]
+[[AdversarialSpikePerturbation]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveFunctionalTopology]]
+[[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CrossbarFabricTopology]]

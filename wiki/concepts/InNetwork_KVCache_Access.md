@@ -26,9 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[ChipletTopologyAwareness]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Based_Trusted_Hardware]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
+[[ComputeRelocationOverhead]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

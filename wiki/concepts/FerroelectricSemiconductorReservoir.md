@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[STDP_iNEST_Memristive]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[Synaptic_Plasticity]]

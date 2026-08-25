@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationTopologyMismatch]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Encapsulation_Topology]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
 [[Intelligence_Emergence]]

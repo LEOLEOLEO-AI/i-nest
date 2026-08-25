@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[HighThroughputParticleRouting]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[SpikeBasedGradientDescent]]
 [[TCC]]
 
 ## Sources

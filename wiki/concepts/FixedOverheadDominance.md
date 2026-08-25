@@ -25,11 +25,14 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[EventDrivenInference]]
 [[EventDrivenPlasticity]]
+[[Event_Driven_Architecture]]
 [[Event_Driven_Processing]]
-[[FunctionalEnsembleComputation]]
+[[FunctionalEnsemble]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

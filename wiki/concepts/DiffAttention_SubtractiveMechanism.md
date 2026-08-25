@@ -25,12 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveLocalLearning]]
 [[AdsorptionBiosorptionHybrid]]
-[[Advanced_Packaging]]
 [[Alignment_Tax]]
 [[AthermalDynamics]]
 [[BerryCurvatureIsolation]]
 [[BeyondVonNeumannArchitecture]]
 [[Neuromorphic_Computing]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Roadmap]]
+[[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
 [[Ising formulation]]
 [[Ising_Formulation]]
@@ -41,10 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
+[[Reservoir_Computing]]
 [[Resilient_Satellite_Mesh]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[TCC_Neuromorphic_Integration]]
 [[TopologyAwareNeuralInterface]]
 
 ## Sources

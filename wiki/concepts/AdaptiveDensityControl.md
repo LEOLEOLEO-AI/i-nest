@@ -48,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 
 ## Sources

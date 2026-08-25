@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
+[[RestrictedConnectivityTopology]]
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
 [[TCC]]

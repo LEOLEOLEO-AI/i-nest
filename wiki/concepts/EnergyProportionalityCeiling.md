@@ -24,12 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
+[[Network_Topology_Design]]
 [[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[ST_SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

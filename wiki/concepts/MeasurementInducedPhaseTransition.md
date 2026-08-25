@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[reservoir computing]]
+[[忆阻器]]
 [[类脑芯片]]
 
 ## Sources

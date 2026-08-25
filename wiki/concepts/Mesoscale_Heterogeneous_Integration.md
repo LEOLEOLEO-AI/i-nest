@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
+[[Textbook_Paradigm_Definition]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

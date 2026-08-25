@@ -5,7 +5,7 @@
 **Compiled**: 2026-08-23
 
 ## Summary
-title: "Quantum Convolutional Neural Networks are Effectively Classically Simulable" authors: ['Pablo Bermejo', 'Paolo Braccia', 'Manuel S. Rudolph', 'Zoë Holmes', 'Łukasz Cincio'] doi: "10.1103/8qt9-72ts" journal: "PRX Quantum" query: "network topology intelligence emergence scaling"
+title: "Quantum Convolutional Neural Networks are Effectively Classically Simulable" authors: ['Pablo Bermejo', 'Paolo Braccia', 'Manuel S. Rudolph', 'Zoë Holmes', 'Łukasz Cincio'] doi: "10.1103/8qt9-72ts" journal: "PRX Quantum" query: "network topology Intelligence_Emergence scaling"
 
 ## Keywords
 topology
@@ -18,4 +18,3 @@ topology
 
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
-[[intelligence emergence]]

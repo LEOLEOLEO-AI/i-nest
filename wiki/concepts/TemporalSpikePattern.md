@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactFiringRateModel]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
+[[NetworkDynamicalStabilization]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
 [[STDP_Plasticity]]

@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[Cryogenic_Syndrome_Compression]]
@@ -27,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalNetworkPartitioning]]
 [[InterfaceCentricTopology]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

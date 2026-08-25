@@ -43,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDrivenVulnerability]]
 [[criticality]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 
 ## Sources

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AndersonTransition]]
+[[CorticalWaveRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

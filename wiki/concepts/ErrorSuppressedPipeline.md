@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
+[[In_Network_Neuromorphic_Processing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiScaleTemporalProcessing]]
 [[National_Innovation_Center_Role]]

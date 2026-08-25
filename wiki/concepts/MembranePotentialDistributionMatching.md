@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
+[[EEG_Criticality]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

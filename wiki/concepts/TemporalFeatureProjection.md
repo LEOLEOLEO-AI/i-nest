@@ -20,16 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[DARPA_ProjectManager_Model]]
 [[FractureMechanism]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Inference_Offload]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[P_Paradigm]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[ThroughSiliconVia_TSV_ThermalPath]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

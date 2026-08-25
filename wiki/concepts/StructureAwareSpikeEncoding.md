@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredSequenceLearning]]
 [[Contested_Prior_Resolution]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]

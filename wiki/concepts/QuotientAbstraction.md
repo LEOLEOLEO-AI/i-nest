@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BiSpikCLM]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
+[[ClinicalTranslationBridge]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

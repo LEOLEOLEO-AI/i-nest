@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [KV Cache, LLM推理, 网络传输, PD分离, SIGCOMM]
+summary: "KV Cache网络传输成为LLM推理核心瓶颈，六篇论文从多层面解决"
+quality: high
+processed: 2026-08-25 20:44
+---
+---
 title: "SIGCOMM 2026 深度解读：KV Cache 如何从 GPU 内部状态变成网络研究核心"
 tags:
   - chip

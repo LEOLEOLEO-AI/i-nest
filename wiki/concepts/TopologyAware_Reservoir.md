@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CST_Spatiotemporal_Complexity]]
 [[CST_Spatiotemporal_Complexity_Theorem]]
+[[CST_Theory_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
@@ -38,10 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
-[[Reservoir_Computing_Architecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[reservoir computing architecture]]
+[[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

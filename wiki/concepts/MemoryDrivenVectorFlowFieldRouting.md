@@ -22,10 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[AndersonTransition]]
 [[BurstGatedRouting]]
+[[ChiralSymmetryClasses]]
 [[Deep_Thermalisation]]
 [[FreeFermionTopologicalInvariant]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[TimeReversalInvariantTopologicalAlloy]]
 [[VectorFlowField]]

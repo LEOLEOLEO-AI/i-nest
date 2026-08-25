@@ -25,10 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CST_SynergisticCoordination]]
+[[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
 [[ConnectomicDevelopmentalTrajectory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[HardwareAwareTraining]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

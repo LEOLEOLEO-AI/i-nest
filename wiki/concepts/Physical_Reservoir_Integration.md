@@ -22,8 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
+[[DARPA_ProjectManager_Model]]
 [[DendriticReservoirState]]
-[[FunctionalInterfaceBlocks]]
+[[FunctionalInterfaceBlock]]
 [[IncidenceBasedRandomWalk]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

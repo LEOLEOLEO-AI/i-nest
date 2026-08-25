@@ -22,12 +22,15 @@ Auto-extracted concept from raw material compilation.
 
 [[Combinatorial_Optimization_Readout]]
 [[CriticalityInducedTopology]]
+[[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]
 [[Fixed_Reservoir_Unitary]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
 

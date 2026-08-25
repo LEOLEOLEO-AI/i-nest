@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Independent_AI_Player_Endgame]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

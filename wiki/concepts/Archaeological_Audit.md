@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactFieldVariable]]
 [[CrossSubstrateHomology]]
 [[DARPA_ProjectManager_Model]]
+[[Decoupled_Priors]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[FullDimensionalDefinableInterconnect]]

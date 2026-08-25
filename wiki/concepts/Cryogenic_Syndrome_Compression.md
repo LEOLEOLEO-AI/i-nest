@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[OptimalRepresentation]]
+[[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
@@ -46,8 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
-[[TCC_iNEST_Interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

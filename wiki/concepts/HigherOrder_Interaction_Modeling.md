@@ -27,7 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
 [[Complex_Network_Brain_Inspired_Computing]]
+[[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[CrossSubstrateHomology]]
+[[EfficientDeepLearning]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[GPU_Cluster_SNN_Architecture]]
+[[NeuromorphicAuditoryFrontend]]
+[[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

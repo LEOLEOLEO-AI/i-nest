@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Fusion]]
+[[SDI_STDP_Rule]]
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

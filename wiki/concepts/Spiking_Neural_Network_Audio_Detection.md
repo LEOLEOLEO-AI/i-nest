@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CIMWeightUpdateAwareness]]
 [[CollectiveSpikingDynamics]]
+[[ConductingPolymerDendriteMemory]]
 [[DelayCodedWorkingMemory]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]

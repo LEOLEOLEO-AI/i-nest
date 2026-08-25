@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenStateEstimation]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
+[[JunctionSignalIntegrity]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

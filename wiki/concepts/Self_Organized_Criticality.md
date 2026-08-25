@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalityDrivenLearning]]
 [[Criticality]]
+[[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
 [[DynamicalCriticality]]
 [[Edge_of_Chaos_Coastal_Dynamics]]

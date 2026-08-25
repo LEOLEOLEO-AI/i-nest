@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[GlobalInformationDominance]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
+[[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDSoW]]

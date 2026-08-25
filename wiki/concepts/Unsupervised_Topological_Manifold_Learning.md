@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
+[[CrossDomain_Synthesis]]
 [[Edge_Intelligence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

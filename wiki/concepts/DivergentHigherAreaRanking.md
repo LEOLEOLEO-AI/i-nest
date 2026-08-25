@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
 [[GradientFreeLowRankTraining]]
 [[HardwareAware_DesignSpace]]

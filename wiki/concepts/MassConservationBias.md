@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Avalanche_Dynamics]]
+[[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]

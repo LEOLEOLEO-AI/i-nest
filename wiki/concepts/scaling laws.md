@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- scaling laws (merged 2026-08-26)
+
+
+## Related Work
+
+[[Brain_Connectome]]
+[[CST_Intelligence_Emergence]]
+[[CST_Theory]]
+[[CST计量仪]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[Self_Organized_Criticality]]
+[[TCC]]
+[[Wafer_Scale_Integration]]
+[[iNEST]]

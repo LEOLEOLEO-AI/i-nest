@@ -26,10 +26,15 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
+[[Complex_System_Theory]]
 [[CooperativeEmergence]]
 [[Intelligence_Emergence]]
+[[MeanFieldNetworkAnalysis]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

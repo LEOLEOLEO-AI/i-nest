@@ -22,13 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[AdsorptionBiosorptionHybrid]]
 [[Alignment_Tax]]
+[[AnomalousSpinTransport]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[ElasticSpikingTransformer]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]
-[[Heterogeneous_Integration_Roadmap_HIR]]
+[[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic_Learning]]
 [[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
+[[SpikingTransformer]]
+[[Spiking_Neural_Network]]
 [[scaling laws]]
 
 ## Sources

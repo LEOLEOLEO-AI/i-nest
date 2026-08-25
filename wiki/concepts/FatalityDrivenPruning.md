@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
+[[AdjointWaveControl]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Network_Topology_Design]]
 [[TCC]]

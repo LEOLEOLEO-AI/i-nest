@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[Decoupled_Priors]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]

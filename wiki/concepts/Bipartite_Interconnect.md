@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[ScalableNeuromorphicTopology]]
+[[Semantic_Optimizer]]
 [[StochasticVehicleRouting]]
 [[TCC]]
 [[Topology_Centric_Computing]]

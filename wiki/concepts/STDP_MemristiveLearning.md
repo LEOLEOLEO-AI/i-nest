@@ -40,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 
 ## Sources

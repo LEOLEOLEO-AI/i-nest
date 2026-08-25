@@ -24,11 +24,16 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chiplet_Based_Architecture]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Decoupling]]
+[[Complex_System_Theory]]
 [[Computation_Access_Routing]]
+[[CorticalTypeDiversity]]
 [[CriticalInertiaEstimation]]
 [[Critical_Region_Extension]]
+[[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

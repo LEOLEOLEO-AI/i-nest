@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Evolutionary_Pattern_Modeling]]

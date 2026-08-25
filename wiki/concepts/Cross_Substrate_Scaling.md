@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[ByteDance_Ada_Chip]]
 [[DarkSiliconAwarePowerGating]]
 [[FPGABasedNeuromorphic]]

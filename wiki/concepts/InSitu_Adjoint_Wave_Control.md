@@ -26,10 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_SDI_Integration]]
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
+[[SDI_Bond]]
+[[SelfOrganization]]
 [[TCC]]
+[[VectorFlowField]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

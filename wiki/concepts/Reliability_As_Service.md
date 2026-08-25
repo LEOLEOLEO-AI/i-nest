@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[Contested_Priors_Mechanism]]
 [[EnsembleCreditAssignment]]
+[[ExplainableEnergyAI]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

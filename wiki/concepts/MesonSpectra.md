@@ -24,12 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Emergent_Topological_Alignment]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
+[[Reservoir_Computing]]
+[[STDP_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

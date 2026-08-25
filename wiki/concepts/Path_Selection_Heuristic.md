@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

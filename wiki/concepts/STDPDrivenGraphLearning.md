@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Entropy_Connectivity_Path]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
+[[MacroCriticalityEmergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]

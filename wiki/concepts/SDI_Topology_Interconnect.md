@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdiabaticMultimodeBend]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Decoupled_Priors]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]

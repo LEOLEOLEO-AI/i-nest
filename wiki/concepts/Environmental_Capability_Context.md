@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[Relapse_Resilient_Interconnect]]
 [[SDI_Bond]]
+[[SDI_STDP_Rule]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[SpikeTimingAbstraction]]

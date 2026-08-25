@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[EmergentDynamics]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligent_Power_Management]]

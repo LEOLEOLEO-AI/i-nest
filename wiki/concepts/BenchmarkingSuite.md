@@ -26,8 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[Battery_Technology_Integration]]
 [[CLINKAsCarrierPrimitive]]
 [[ChipletWaferTopologyCoDesign]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
+[[Decoupled_Priors]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
 

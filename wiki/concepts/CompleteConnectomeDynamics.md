@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Brain_Connectome]]
+[[C_elegansConnectomeAnalogy]]
 [[ConnectomeWiringSeparability]]
 [[Connectome]]
-[[Connectome_Inspired_Architecture]]
 [[Cross_Brain_Connectome]]
 [[DataProvenanceIntegrity]]
 [[DevelopmentalConnectomeTemporalGraph]]

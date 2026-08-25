@@ -68,3 +68,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Open Questions
 - *(Explore connections to other concepts)*
+
+## Merged From
+- Intelligence_Emergence (merged 2026-08-26)

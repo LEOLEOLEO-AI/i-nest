@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MacroCriticalityEmergence]]
 [[Mesoscale_Neural_Dynamics]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSynchronization]]
+[[Knowledge_Graph_Navigation]]
 [[Master_SDDE]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network]]
 [[SpontaneousOrderMechanism]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[神经网络]]
 

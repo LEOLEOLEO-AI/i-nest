@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ArmLocomotorCoordination]]
 [[AstrocyteInspiredRepair]]
 [[BiasEvaluationMetrics]]
+[[BioInspiredSpikeEncoding]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[ElasticSpikingTransformer]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network]]
 [[alignment tax]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[神经网络]]
 

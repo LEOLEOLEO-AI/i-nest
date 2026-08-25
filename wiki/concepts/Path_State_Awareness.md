@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]
+[[AdjointWaveControl]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[BioInspired_Interception_Control]]

@@ -20,6 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Brain_Connectome]]
+[[C_elegansConnectomeAnalogy]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

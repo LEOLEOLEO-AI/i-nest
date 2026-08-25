@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[DirectSNNTraining]]
 [[DynamicTokenSparsity]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

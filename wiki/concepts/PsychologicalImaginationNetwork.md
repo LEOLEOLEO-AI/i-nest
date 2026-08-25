@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Associative_Memory_Unification]]
 [[Associative_Retrieval]]
 [[AttractorNeuralNetwork]]
+[[BCM滑动阈值]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]

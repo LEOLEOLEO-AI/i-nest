@@ -25,9 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[Criticality_of_Natural_Languages]]
 [[Heterogeneous_Compute_Graph]]
+[[HierarchicalReservoirDynamics]]
 [[Neuromorphic_Computing]]
 [[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
 

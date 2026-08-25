@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]
 [[MagnitudePhaseComputationalModel]]
+[[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

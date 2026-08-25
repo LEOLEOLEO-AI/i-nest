@@ -27,8 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[CriticalPointControl]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[ReplicaSynchronization]]
 [[TCC]]
 
 ## Sources

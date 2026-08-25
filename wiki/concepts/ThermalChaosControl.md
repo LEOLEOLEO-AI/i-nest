@@ -27,7 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[Additive_Manufacturing_Supply_Chain]]
-[[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
+[[AnisotropicGaussianPrimitives]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
 [[BioInspiredLearningRule]]
@@ -36,7 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
-[[SDI_STDP_Rule]]
+[[SDI_Bond]]
+[[SDI_STDP]]
+[[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 
 ## Sources

@@ -22,13 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[BackscatteringImmunity]]
+[[ChannelCountScaling]]
 [[ChipletTopologyAwareness]]
+[[Chiplet_Heterogeneous_Integration]]
 [[ConductingPolymerDendriteMemory]]
 [[Cross_Node_Event_Propagation]]
 [[FixedOverheadFloor]]
 [[IsolatedKVBandwidth]]
+[[Memory_Wall]]
 [[ModelOptimizationFederated]]
 [[Negative_Result_Retention]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

@@ -27,8 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[PhotonicPackagingEfficiency]]
 [[QuarantineCostTradeoff]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[SuperparamagneticSwitchingRate]]
+[[Topological_Manifold_Interconnect]]
 [[iNEST]]
 
 ## Sources

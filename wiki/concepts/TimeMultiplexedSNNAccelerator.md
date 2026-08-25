@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[NeuromorphicRadarFrontend]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[TimeMultiplexedSNN]]
 [[iNEST]]
 [[spiking neural network]]
 

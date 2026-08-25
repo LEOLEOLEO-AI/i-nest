@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BioPlausibleDisturbanceObserver]]
 [[BrainBodyResonance]]
-[[Catastrophic_Forgetting]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[ChannelEventSparsity]]
 [[Cognitive_Relapse_Architecture]]
 [[Criticality]]
@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
+[[catastrophic forgetting]]
 [[iNEST]]
 
 ## Sources

@@ -28,8 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
+[[Asymptotic_Exact_Solution]]
+[[Complex_System_Theory]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

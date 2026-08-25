@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh_Model]]
 [[TwoTimescaleNeuroEvolution]]
 [[criticality]]
 [[iMESO_PhysicalCarrier]]

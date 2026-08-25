@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DynamicTokenSparsity]]
 [[EEGSpikeEncoding]]
+[[Edge_Neuromorphic_Compute]]
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]
 [[EventDrivenSynchronization]]

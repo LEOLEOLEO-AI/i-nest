@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
+[[Memristor_Network]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -65,12 +66,12 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
-[[TCC_Topology]]
-[[TCC_iNEST_Interconnect]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

@@ -14,9 +14,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[TCC core layer]]
 [[TCC]]
-[[TCC_Core_Layer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HigherOrderSynchronization]]
 [[Interconnect_Routing]]
+[[Knowledge_Graph_Navigation]]
 [[Master_SDDE]]
 [[Memristive_Interconnect]]
 [[Microgrid_Optimization]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[神经网络]]
 

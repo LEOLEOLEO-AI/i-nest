@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
+[[CoOptimizedMappingScheduling]]
 [[CriticalityDrivenEfficientCoding]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]

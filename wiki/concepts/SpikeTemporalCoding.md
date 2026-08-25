@@ -28,6 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[SpikeBasedBeliefPropagation]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OcclusionHandlingStrategy]]
 [[PropertyPredictionModeling]]
+[[RecurrentSpikingDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

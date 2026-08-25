@@ -34,13 +34,14 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalNetworkPartitioning]]
 [[In_Memory_Computing]]
 [[Memristive_ANN_Hardware]]
-[[Memristor_Device]]
+[[Memristive_Interconnect]]
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[OnChipWeightUpdate]]
 [[TCC]]
 [[WaferScale_Memristor_Array]]
+[[memristor device]]
 [[神经网络]]
 
 ## Sources

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetwork_Neuromorphic_CoDesign]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

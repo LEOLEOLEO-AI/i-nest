@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_Feedback]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[DissipativePhaseTransition]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

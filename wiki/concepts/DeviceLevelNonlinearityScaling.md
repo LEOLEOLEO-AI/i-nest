@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A theoretical framework positing that intelligence emergence in neuromorphic systems follows universal scaling laws governed by device-level nonlinearities, analyzed via renormalization group methods. Provides a predictive mathematical foundation for designing TCC/iNEST architectures without exhaustive experimental tuning, linking microscopic device physics to macroscopic computational capabilities.
+A theoretical framework positing that Intelligence_Emergence in neuromorphic systems follows universal scaling laws governed by device-level nonlinearities, analyzed via renormalization group methods. Provides a predictive mathematical foundation for designing TCC/iNEST architectures without exhaustive experimental tuning, linking microscopic device physics to macroscopic computational capabilities.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -30,21 +30,19 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Emergent_Intelligence_Threshold]]
+[[HybridMemristorArray]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Memristor_Topology]]
-[[Memristor_Topology_Coupling]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_DeviceNonlinearity]]
-[[Scaling_Laws]]
 [[TCC]]
 [[Universal_Scaling_Laws]]
 [[iNEST]]
-[[intelligence emergence]]
 [[scaling laws]]
 [[universal scaling laws]]
 [[神经网络]]

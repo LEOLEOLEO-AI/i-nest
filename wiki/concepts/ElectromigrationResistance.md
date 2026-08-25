@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Cascading_Failure_Mitigation]]
+[[CeYIGMagnetoOpticalIsolator]]
 [[ChannelCountScaling]]
+[[Interconnect_Routing]]
 [[TCC]]
 
 ## Sources

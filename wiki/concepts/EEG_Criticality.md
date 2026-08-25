@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[PrecisionConfigurableSparseNvCIM]]
 [[SNN]]
 [[SNN_Neuroimaging_Bridge]]
+[[SNN_fMRI_VisualSemanticDecoding]]
 [[Self_Organized_Criticality]]
 [[Sleep_EEG_Criticality]]
 [[Spiking_Mamba_Block]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
@@ -28,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[NegotiationAwareRouting]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[ScalableNeuromorphicTopology]]
+[[ScaleFreeNetwork]]
 [[TCC]]
 
 ## Sources

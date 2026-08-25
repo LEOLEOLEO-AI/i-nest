@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CSI_Temporal_Encoding]]
@@ -37,9 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[TCC topology]]
 [[TCC]]
-[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 

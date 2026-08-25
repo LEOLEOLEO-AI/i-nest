@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
 [[EmergentOrder]]
 [[Heterogeneous_Integration]]

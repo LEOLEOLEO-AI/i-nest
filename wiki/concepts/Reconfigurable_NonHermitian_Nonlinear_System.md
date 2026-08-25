@@ -22,9 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[AutonomousAdaptation]]
 [[CellEmergence]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Decoupling]]
 [[ComplexTopologicalStructures]]
+[[Free_Energy_Principle_Network]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

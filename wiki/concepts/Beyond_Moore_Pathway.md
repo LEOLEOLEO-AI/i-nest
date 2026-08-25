@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A strategic approach that uses 3D stacking and heterogeneous integration to continue performance scaling without relying on traditional transistor miniaturization. Provides the physical substrate for neuromorphic and topology-centric computing to achieve high parallelism and energy efficiency beyond conventional 2D scaling limits.
+A strategic approach that uses 3D stacking and Heterogeneous_Integration to continue performance scaling without relying on traditional transistor miniaturization. Provides the physical substrate for neuromorphic and topology-centric computing to achieve high parallelism and energy efficiency beyond conventional 2D scaling limits.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -36,12 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
-[[heterogeneous integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

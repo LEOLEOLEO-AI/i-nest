@@ -20,7 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_FullSpectrum_Strategy]]
-[[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[ComputeRelocationOverhead]]
+[[DataMovementMinimization]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

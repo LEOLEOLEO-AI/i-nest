@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[TCC]]
 [[iNEST]]
 

@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Software_Defined_Interconnect]]
@@ -55,13 +56,13 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
-[[TCC_Topology]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TemporalComplexity_Tc]]
 [[TopologyProgramming]]
 [[Topology_Interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

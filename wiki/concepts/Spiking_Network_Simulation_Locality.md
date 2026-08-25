@@ -25,9 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
-[[FunctionalEnsembleComputation]]
+[[FunctionalEnsemble]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
+[[NestedRepresentation]]
+[[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

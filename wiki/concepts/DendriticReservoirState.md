@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_TCC_Chiplet]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

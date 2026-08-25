@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Avoided_Criticality]]
-[[Catastrophic_Forgetting]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Contested_Priors_Architecture]]
@@ -40,7 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]
+[[Syncytial_Mesh_Model]]
 [[TwoTimescaleNeuroEvolution]]
+[[catastrophic forgetting]]
 [[iNEST]]
 
 ## Sources

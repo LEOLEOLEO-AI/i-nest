@@ -27,8 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[GraphGeometryAlignment]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
+[[SNN]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[TemporalDynamicsModeling]]
 [[iNEST]]
 
 ## Sources

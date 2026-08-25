@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AddressRedundancyElimination]]
+[[CrossLayer_SignalRouting]]
 [[DARPA_ProjectManager_Model]]
 [[FullyLocalOnlineSNNTraining]]
 [[GradientBasedSpikeLearning]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
 [[NUMA_Balancing_Overhead]]
 [[Neuromorphic_Computing]]
 [[SNN]]

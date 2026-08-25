@@ -24,12 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[Cognitive_Relapse_Decoupling]]
 [[CorticalWaveRouting]]
+[[Critical_Region_Extension]]
 [[DTGA]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[P_Paradigm]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
+[[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]

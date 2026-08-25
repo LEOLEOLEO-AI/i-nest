@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[StateAugmentedLearning]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[iNEST]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[忆阻器]]

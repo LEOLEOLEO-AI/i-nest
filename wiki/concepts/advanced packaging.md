@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- advanced packaging (merged 2026-08-26)
+
+
+## Related Work
+
+[[AIRA_NeuralArchSearch]]
+[[AI_Application_Scenario_Reconstruction]]
+[[Alpha_Computation_Consistency]]
+[[AnomalousSpinTransport]]
+[[BigBrainCellularAxis]]
+[[Chip_Floorplanning]]
+[[RoutabilityDrivenFloorplanning]]
+[[TCC]]
+[[Translation_Invariant_Closure]]
+[[iNEST]]

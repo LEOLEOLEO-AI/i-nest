@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NichePreservationMechanism]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[SixClassSkeletonAsRPrimitiveSpace]]
 [[SuperparamagneticSwitchingRate]]

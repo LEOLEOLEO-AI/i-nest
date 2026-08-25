@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Entanglement_Teleportation_Locality]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
+[[HarvestProtocol]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

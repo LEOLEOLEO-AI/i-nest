@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Precision_Configurable_ReCON]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RestingStateEEG_Connectivity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

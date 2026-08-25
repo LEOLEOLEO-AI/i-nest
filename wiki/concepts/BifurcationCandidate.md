@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Emergent_Topology_Adaptation]]
 [[FatalityDrivenRewiring]]
+[[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Heterogeneous_Integration]]

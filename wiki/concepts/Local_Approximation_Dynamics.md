@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Topology_Aware_Spike_Routing]]
 [[iNEST]]
 
 ## Sources

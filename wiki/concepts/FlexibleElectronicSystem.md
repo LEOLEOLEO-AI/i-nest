@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[CST_CoarseGraining]]
 [[CST_Complexity_Metric]]
+[[CST_Spatiotemporal_Complexity]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

@@ -20,9 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[CollectiveDynamics]]
 [[CrossLayer_SignalRouting]]
 [[DARPA_ProjectManager_Model]]
+[[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

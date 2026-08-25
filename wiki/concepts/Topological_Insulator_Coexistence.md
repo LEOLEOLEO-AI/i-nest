@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
+[[DataMovementMinimization]]
 [[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
 [[EntanglementAwareRouting]]

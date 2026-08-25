@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenAttentionMasking]]
 [[EventDrivenModularArchitecture]]
 [[FlexibleNeuromorphicAccelerator]]
 [[Intelligence_Emergence]]

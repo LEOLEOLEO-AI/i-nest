@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[LargeScalePhotonicIntegration]]
 [[MicroRouter_Embedding]]
 [[Microgrid_Optimization]]
+[[Network_Spatiotemporal_Coordination]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]

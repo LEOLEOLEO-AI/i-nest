@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[DataProvenanceIntegrity]]
 [[Network_Topology_Design]]

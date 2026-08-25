@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
 [[DirectConnect_Topology]]
+[[Express_Link_Virtualization]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

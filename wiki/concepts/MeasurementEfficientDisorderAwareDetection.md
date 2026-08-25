@@ -26,10 +26,16 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[1024_Card_SuperNode]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[AndersonLocalizationTopology]]
+[[Complex_System_Theory]]
 [[DisorderAwareDetection]]
+[[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[TCC]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

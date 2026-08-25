@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Reconfigurable_Topology]]
 [[OnChipOpticalTweezers]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]

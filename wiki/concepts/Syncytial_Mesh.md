@@ -20,15 +20,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BayesianDomainEvolution]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
 [[Free_Energy_Principle_Network]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[Performance_Prediction_Model]]
+[[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
-[[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
 [[iNEST]]
 
 ## Sources

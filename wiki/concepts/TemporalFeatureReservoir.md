@@ -25,9 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
-[[ActiveInferenceEdgeLoop]]
-[[AdjustableDynamicsReservoir]]
+[[ActiveInference]]
+[[AdjustableDynamics]]
 [[AdversarialResilience]]
+[[CrashHotspotForecasting]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

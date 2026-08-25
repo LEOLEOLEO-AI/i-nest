@@ -21,15 +21,20 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Integration]]
+[[AI_Faculty_Forum_2026]]
 [[Chiplet_Based_Trusted_Hardware]]
+[[Chiplet_Heterogeneous_Integration]]
 [[EulaminateOverrepresentation]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
 [[TCC]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

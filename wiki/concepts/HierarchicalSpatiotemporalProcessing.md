@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]

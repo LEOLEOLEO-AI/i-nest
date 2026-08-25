@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveDensityControl]]
 [[AdaptiveFlexibilityThreshold]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[BioInspiredLearningRule]]
 [[Biomanufacturing_Control_Loop]]
+[[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

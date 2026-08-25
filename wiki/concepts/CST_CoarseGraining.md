@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Coordination_Layer]]
 [[Emergent_Abilities]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalInterfaceBlocks]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

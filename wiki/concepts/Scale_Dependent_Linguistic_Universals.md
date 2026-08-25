@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[fractal_Scaling]]
 [[iNEST]]
 
 ## Sources

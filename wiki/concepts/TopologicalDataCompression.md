@@ -20,6 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[Decoupled_Priors]]
 [[EventDrivenTracking]]
 [[Interconnect_Routing]]

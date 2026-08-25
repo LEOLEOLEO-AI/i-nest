@@ -30,11 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[ComponentLevelMolding]]
 [[DistinctReentrantPhases]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetworks]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[CriticalFixedPoint]]
 [[Criticality]]
 [[Disorder_Anomaly_Duality]]
 [[Dynamic_Expert_Fusion]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[criticality]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

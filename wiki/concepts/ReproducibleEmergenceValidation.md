@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A framework for producing verifiable indicators, explainable mechanisms, and reproducible experiments that demonstrate complex network intelligence emergence under TCC's hardware constraints. It bridges theoretical emergence claims with engineering practice, ensuring that iNEST's metrics are not just theoretical but testable on real TCC infrastructure.
+A framework for producing verifiable indicators, explainable mechanisms, and reproducible experiments that demonstrate complex network Intelligence_Emergence under TCC's hardware constraints. It bridges theoretical emergence claims with engineering practice, ensuring that iNEST's metrics are not just theoretical but testable on real TCC infrastructure.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Loihi2_OnChip_Learning]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[PowerOfTwoWeightQuantization]]
 [[Reservoir_Computing]]
@@ -41,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[intelligence emergence]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

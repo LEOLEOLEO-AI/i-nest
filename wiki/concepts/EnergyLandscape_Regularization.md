@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

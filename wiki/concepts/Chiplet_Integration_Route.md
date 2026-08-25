@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Memristor_Synapse]]

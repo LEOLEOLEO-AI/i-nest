@@ -27,7 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
-[[AdaptiveAsymmetricSurrogateGradients]]
+[[AdaptiveAsymmetricSurrogateGradient]]
+[[Avoided_Criticality]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

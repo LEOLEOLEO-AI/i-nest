@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Accessibility_Plasticity]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[CirculateFiringNeuron]]
 [[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Swarm_Intelligence_Maximisation]]
+[[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

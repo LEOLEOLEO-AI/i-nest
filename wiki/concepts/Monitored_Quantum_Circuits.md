@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateResilience]]
 [[Continual_Learning_Modularity]]
 [[CriticalBranching]]

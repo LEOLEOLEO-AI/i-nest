@@ -26,9 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Mott_Device_Array]]
 [[Neural_Network_Quantum_State_Transfer_Learning]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[ReservoirTemporalDynamics]]
+[[Reservoir_Computing]]
+[[STDP_Plasticity]]
+[[STDP_iNEST_Memristive]]
 [[iNEST]]
 
 ## Sources

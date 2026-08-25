@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Recursive_Metric_Contraction]]
 [[RenormalizationGroup_ScalingLaws]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]

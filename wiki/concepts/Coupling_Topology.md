@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Compact_Boson_Dynamics]]
 [[Crystallized_Embedding_Reservoir]]
 [[ErrorSuppressedPipeline]]
+[[HigherOrderTransitionKernel]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ReproducibleReservoirDynamics]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[ElasticInferenceScheduling]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[STDP_Learning]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[EventCameraTemporalEncoding]]
 [[LocalQuantumLearningRule]]
+[[Neuromorphic_NoC_Routing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

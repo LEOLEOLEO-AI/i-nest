@@ -58,6 +58,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TopologyFragility]]
 [[iNEST]]
 [[共时分享_复杂社会系统中的涌现行为及动力学模式]]

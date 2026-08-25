@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Bias_Origin_Taxonomy]]
 [[BitPrecisionAwareScheduling]]
+[[BoundaryObject_Abstraction]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

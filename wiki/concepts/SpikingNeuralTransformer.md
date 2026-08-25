@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
+[[Interconnect_Routing]]
+[[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

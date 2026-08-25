@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Package_Level_Interconnect]]
 [[PacketRoutingForFPGAs]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
 [[TopologyCentricPrimitiveSet]]
+[[Topology_Centric_Computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

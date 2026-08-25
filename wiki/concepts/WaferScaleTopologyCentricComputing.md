@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
+[[Chiplet_Topology_Interconnect]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
@@ -38,9 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[Topology_Interconnect]]
+[[WaferScaleSystem]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,9 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Criticality_Entanglement]]
 [[CrossbarArrayIntegration]]
+[[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[Decoupling_Mechanism]]
+[[DegreeDependentOpinionThreshold]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[iNEST]]
 
 ## Sources

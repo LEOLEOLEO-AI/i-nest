@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Amorphous_Amorphous_Transition]]
 [[AstrocyteInspiredRepair]]
+[[BioInspiredLearningRule]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]

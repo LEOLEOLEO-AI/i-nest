@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Cryogenic_Syndrome_Compression]]
+[[DataProvenanceIntegrity]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
@@ -46,8 +47,8 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
-[[TCC_iNEST_Interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

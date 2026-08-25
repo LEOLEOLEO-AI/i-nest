@@ -27,9 +27,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveTimeStepTraining]]
+[[Complex_System_Theory]]
+[[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
+[[Subtractive_AttentionNormalization]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

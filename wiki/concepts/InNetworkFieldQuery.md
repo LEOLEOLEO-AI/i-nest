@@ -23,11 +23,13 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[Advanced_Packaging_for_Space]]
 [[BurstInterleaving]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[CoPackagedOptics]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[ReputationSignal]]
 [[iNEST]]
 [[neural field world model]]
 

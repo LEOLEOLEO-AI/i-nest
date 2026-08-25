@@ -23,11 +23,11 @@ Auto-extracted concept from raw material compilation.
 [[Automated_Reward_Shaping]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
-[[Catastrophic_Forgetting]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]
 [[Contested_Priors_Architecture]]
+[[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[catastrophic forgetting]]
 [[iNEST]]
 
 ## Sources

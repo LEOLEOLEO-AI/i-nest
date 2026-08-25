@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A strategic shift away from transistor density scaling toward architectural and packaging innovations to sustain performance growth. Motivates TCC/iNEST to explore non-von-Neumann and in-network compute models that exploit heterogeneous integration rather than relying on process node advances.
+A strategic shift away from transistor density scaling toward architectural and packaging innovations to sustain performance growth. Motivates TCC/iNEST to explore non-von-Neumann and in-network compute models that exploit Heterogeneous_Integration rather than relying on process node advances.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Compute]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]
 [[TCC]]
-[[heterogeneous integration]]
 [[iNEST]]
 
 ## Sources

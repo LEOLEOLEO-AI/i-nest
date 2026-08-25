@@ -39,11 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[getnote_2026-06-15_能量函数驱动神经网络设计]]
 [[新型计算]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经形态计算]]
-[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[脉冲神经网络]]
 

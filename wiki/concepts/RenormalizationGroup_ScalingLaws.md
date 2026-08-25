@@ -8,7 +8,7 @@ tags:
 **Last updated**: 2026-08-01
 
 ## Definition
-A framework using renormalization group theory to derive universal scaling laws that predict the emergence of intelligence across different device architectures, characterized by a nonlinear parameter α. Provides a theoretical foundation for predicting and comparing intelligence emergence across diverse TCC/iNEST hardware implementations.
+A framework using renormalization group theory to derive universal scaling laws that predict the emergence of intelligence across different device architectures, characterized by a nonlinear parameter α. Provides a theoretical foundation for predicting and comparing Intelligence_Emergence across diverse TCC/iNEST hardware implementations.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[EmergentOrder]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -54,14 +55,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[Scaling_Laws]]
 [[Spacetime_Coupling_Coefficient]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[Universal_Scaling_Laws]]
 [[iNEST]]
-[[intelligence emergence]]
 [[scaling laws]]
 [[universal scaling laws]]
 

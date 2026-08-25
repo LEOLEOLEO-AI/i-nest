@@ -19,7 +19,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -45,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

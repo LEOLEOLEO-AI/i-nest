@@ -30,6 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[Avoided_Criticality]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Course_Based_FPGA_Prototyping]]
+[[Criticality]]
+[[Heterogeneous_Integration]]
+[[SNN]]
+[[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

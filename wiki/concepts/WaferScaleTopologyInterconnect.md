@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
+[[EdgeIntelligenceAcceleration]]
 [[Express_Link_Virtualization]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

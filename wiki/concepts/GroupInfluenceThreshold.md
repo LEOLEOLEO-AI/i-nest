@@ -25,10 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CorticalTypeDiversity]]
 [[CriticalityOffCriticalityTransition]]
+[[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Routing]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

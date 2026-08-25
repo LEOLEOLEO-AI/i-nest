@@ -22,8 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
+[[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
 [[EventDrivenFunctionalConnectivity]]
+[[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[PhaseLockedTopologyMapping]]
 [[SpikeCommunicationScheduling]]

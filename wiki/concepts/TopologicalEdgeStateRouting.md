@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningNanomaterialDiscovery]]
 [[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
+[[QuantumKernelMethods]]
 [[Resilient_Satellite_Mesh]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

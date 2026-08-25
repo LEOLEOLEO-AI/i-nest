@@ -21,11 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Fixed_Cost_Dominance]]
+[[ITP_STDP]]
 [[ITP_STDP_Learning_Engine]]
 [[Memristive_STDP]]
 [[On_Chip_STDP_Learning]]
 [[PolychronousNeuronalGroups]]
-[[SDI_STDP_Regulation]]
+[[SDI_Bond]]
+[[SDI_STDP]]
+[[STDP_Learning]]
+[[STDP_Plasticity]]
 [[SelfInhibitionFeedbackLoop]]
 [[SpikeCodedFeatureAssociation]]
 [[Spiking_Neural_Network]]

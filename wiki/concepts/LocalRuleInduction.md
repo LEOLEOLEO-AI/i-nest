@@ -27,9 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Analog_Computation]]
+[[Beyond_Moore_Packaging_Strategy]]
+[[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

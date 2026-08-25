@@ -27,7 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[ConductingPolymerDendriteMemory]]
 [[Cross_Node_Event_Propagation]]
+[[EventDrivenPlasticity]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[catastrophic forgetting]]
 [[iNEST]]
 

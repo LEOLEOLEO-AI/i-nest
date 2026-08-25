@@ -7,7 +7,7 @@ tags: []
 **Last updated**: 2026-08-01
 
 ## Definition
-A framework for providing verifiable indicators, explainable mechanisms, and reproducible experiments that demonstrate complex network intelligence emergence. It transforms vague notions of 'emergence' into testable, quantitative claims that can be validated under TCC's interconnect and scheduling constraints.
+A framework for providing verifiable indicators, explainable mechanisms, and reproducible experiments that demonstrate complex network Intelligence_Emergence. It transforms vague notions of 'emergence' into testable, quantitative claims that can be validated under TCC's interconnect and scheduling constraints.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -23,7 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System]]
 [[Complex_System_Theory]]
-[[Complexity_Emergence_Engineering]]
+[[Complexity_Emergence]]
 [[Constructed_Reality_Interconnect]]
 [[Contested_Priors_Mechanism]]
 [[DataDrivenCellularAxis]]
@@ -63,7 +63,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[iNEST_Neuromorphic_Topology]]
-[[intelligence emergence]]
 [[temporalComplexity]]
 
 ## Sources

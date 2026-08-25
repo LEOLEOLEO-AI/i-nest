@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bipartite_Interconnect_Design]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[CorticalTypeDiversity]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[神经形态计算]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

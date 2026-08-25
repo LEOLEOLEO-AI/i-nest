@@ -26,8 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BurstCoding]]
 [[BurstGatedRouting]]
+[[Criticality]]
+[[DynamicTokenSparsity]]
 [[Event_Driven_Architecture]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

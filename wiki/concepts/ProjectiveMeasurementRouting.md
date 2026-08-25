@@ -26,8 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[Accessibility_Plasticity]]
+[[AmoebaInspiredLocomotion]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

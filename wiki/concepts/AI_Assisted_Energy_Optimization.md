@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Microgrid_Optimization]]

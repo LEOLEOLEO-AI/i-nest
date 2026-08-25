@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing_architecture]]
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
+[[OpticalNonlinearity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[iNEST]]

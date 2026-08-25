@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -27,6 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[Intelligence_Emergence]]
+[[MagneticMetamaterialReservoir]]
+[[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[iNEST]]

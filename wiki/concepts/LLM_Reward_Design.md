@@ -37,9 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[RedundancyControlledStochasticRouting]]
+[[STDPDrivenConnectivity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[TCC_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

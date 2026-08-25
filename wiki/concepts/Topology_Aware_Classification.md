@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AnteHoc_Explainability]]
 [[BCM滑动阈值]]
 [[CST_Theory_V27_FINAL]]
+[[CST_Triad_Integration]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

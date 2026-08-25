@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
+[[CompetitiveProgramDynamics]]
 [[FlexibilityThreshold]]
 [[MemristiveSignedCouplings]]
 [[Neuromorphic_Computing]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveSpikingDynamics]]
 [[DMP_SNN_DualMemoryPathway]]
 [[Distributed_Spike_Communication]]
+[[EnergyEfficientRestoration]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[FPGASNNMemoryOptimization]]

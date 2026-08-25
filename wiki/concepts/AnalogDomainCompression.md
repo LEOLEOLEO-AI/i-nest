@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Criticality]]
 [[Cryogenic_Syndrome_Compression]]
+[[DataProvenanceIntegrity]]
 [[DynamicsMatchedReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Integration]]
@@ -49,8 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
-[[TCC_iNEST_Interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

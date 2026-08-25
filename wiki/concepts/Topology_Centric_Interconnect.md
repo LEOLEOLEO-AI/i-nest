@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
+[[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

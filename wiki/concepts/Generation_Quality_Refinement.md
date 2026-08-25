@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasPropagationInNetworks]]
 [[BitPrecisionAwareScheduling]]
 [[CascadedAdaptiveCombiners]]
+[[EvolvingArchitectureDynamics]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

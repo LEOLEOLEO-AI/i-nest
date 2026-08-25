@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActiveDendriteSNN]]
+[[Closed_Loop_SNN_Stability_Boundary]]
+[[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

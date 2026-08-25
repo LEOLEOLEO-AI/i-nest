@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[DMP_SNN_DualMemoryPathway]]
+[[DeeplySupervisedSpiking]]
 [[DifferentiableRasterizationPipeline]]
 [[Distributed_Spike_Communication]]
 [[HeterogeneousSynapticDelays]]

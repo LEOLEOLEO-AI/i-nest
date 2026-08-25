@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdiabaticMultimodeBend]]
-[[Advanced_Packaging]]
 [[AnalogDomainCompression]]
 [[ChipletWaferInterconnectScaling]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Interconnect_Topology]]
 [[CoPoS]]
 [[ComputeRelocationOverhead]]
 [[EulaminateOverrepresentation]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
 [[temporalComplexity]]
 

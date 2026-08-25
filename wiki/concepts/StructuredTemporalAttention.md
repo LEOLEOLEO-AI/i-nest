@@ -27,8 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[EnergyEfficientRestoration]]
 [[Event_Driven_Architecture]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 
 ## Sources

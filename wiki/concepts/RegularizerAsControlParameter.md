@@ -20,14 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[GeneralIntelligenceSubstrate]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[OnChipOpticalTweezers]]
 [[RTC_Primitives]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_ProgrammableInterconnect]]
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_iNEST_Bridge]]
+[[SDI_Topology_Control]]
 [[TCC]]
 [[iNEST]]
 

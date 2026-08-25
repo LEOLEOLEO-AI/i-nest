@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[HybridConvexOptimization]]
 [[InterconnectDrivenCostFunction]]
+[[Interconnect_Routing]]
 [[PinAssignmentOptimization]]
+[[RoutabilityDrivenFloorplanning]]
 [[TCC]]
 
 ## Sources

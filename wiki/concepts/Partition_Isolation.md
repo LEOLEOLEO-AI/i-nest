@@ -29,7 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Cluster_Switch_Bottleneck]]
 [[AI_Faculty_Forum_2026]]
 [[AdiabaticMultimodeBend]]
+[[Asymptotic_Exact_Solution]]
+[[Complex_System_Theory]]
+[[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[Switch_Bottleneck]]
 [[TCC]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,10 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientSNN]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
+[[SNN]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

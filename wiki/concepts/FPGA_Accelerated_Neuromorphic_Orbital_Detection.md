@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[DelayAwareSpikeEventDelivery]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientSNN]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[Fixed_Term_Project_Structure]]

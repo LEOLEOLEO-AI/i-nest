@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
 [[CognitiveTaskonomy]]
+[[CompactSequenceArchitectureDiscovery]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

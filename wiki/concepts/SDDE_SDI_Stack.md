@@ -26,8 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI_iNEST_Encapsulation]]
+[[SDI_iNEST_Interconnect]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[TCC]]
 [[emergent computation]]
 [[iNEST]]
 

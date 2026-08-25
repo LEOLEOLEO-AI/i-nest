@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[AdaptiveTimeStepTraining]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[AnisotropicGaussianPrimitives]]
 [[BrainBodyResonance]]
 [[Cognitive_Relapse_Architecture]]

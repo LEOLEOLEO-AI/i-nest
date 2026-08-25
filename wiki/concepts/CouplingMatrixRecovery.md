@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[EmergentTaskDecomposition]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[ExplainableEnergyAI]]
 [[FractalPathEntropy]]
 [[Intelligence_Emergence]]

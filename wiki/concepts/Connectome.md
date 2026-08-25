@@ -22,14 +22,16 @@ Auto-extracted concept from raw material compilation.
 
 [[Brain_Connectome]]
 [[Connectome_Inspired_Architecture]]
-[[Connectome_Verification_Protocol]]
 [[DataProvenanceIntegrity]]
 [[Krakencoder_Embedding]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Wafer_Scale_Integration]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[getnote_2026-06-28_从固定拓扑到液态拓扑计算]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

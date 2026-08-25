@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[ArchitecturalCondition]]
 [[Architectural_Conditioning]]
+[[Constructed_Reality_Interconnect]]
 [[CounterstreamSignalPropagation]]
 [[Criticality]]
 [[DelayPropagationDynamics]]

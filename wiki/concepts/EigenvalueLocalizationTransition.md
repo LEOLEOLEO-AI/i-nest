@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[Alpha_Computation_Consistency]]
 [[AnalogDomainCompression]]
+[[AnalogDomainCompressiveSensing]]
+[[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[NestedRepresentation]]
 [[ReproducibleReservoirDynamics]]

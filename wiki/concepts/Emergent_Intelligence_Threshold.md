@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Evolutionary_Pattern_Modeling]]
 [[GenerativeTopologyModels]]
+[[InNetworkNeuromorphicEmergence]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

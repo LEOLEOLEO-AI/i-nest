@@ -22,12 +22,15 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AdaptiveEntanglementManagement]]
+[[AgenticServiceManifesto]]
 [[AnalogDomainCompression]]
 [[Anomaly_Mediated_Quantum_Criticality]]
 [[ArchitecturalCondition]]
 [[AvalancheBranchingRatio]]
+[[BranchingRatio]]
 [[Criticality]]
 [[Network_Topology_Design]]
+[[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 

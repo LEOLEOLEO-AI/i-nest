@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[Textbook_Paradigm_Definition]]
 [[iNEST]]
 [[temporalComplexity]]
 

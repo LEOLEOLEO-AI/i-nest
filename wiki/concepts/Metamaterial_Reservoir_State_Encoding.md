@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CSI_Temporal_Encoding]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Encoding]]
 [[TCC]]

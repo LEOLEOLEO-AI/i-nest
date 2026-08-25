@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ArmLocomotorCoordination]]
 [[AstrocyteInspiredRepair]]
+[[Chiplet_Integration_Route]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[In_Network_Neuromorphic_Offload]]

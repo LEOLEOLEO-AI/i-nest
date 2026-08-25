@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[DeeplySupervisedSpiking]]
 [[Heterogeneous_Integration]]

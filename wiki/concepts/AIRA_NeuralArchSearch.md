@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Master_SDDE]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -46,9 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[忆阻器]]
+[[智能涌现]]
 [[神经网络]]
 [[类脑芯片]]
 

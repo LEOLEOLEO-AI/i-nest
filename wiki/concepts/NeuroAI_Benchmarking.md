@@ -26,8 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
+[[Complex_System_Theory]]
+[[Nonlinear_Gain]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Transiently_Amplifying_Networks]]
 [[iNEST]]
 [[spiking neural network]]
 

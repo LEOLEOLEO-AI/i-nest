@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AdversarialSpikePerturbation]]
 [[AgentBasedCorruptionModel]]
+[[ApproximateMacroscopicDynamics]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

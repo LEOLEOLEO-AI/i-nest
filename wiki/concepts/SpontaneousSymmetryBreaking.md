@@ -24,11 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CorticalTypeDiversity]]
 [[CriticalityInNetworkComputing]]
-[[CriticalityOffCriticalityTransition]]
+[[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]
+[[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

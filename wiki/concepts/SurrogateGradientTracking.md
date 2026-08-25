@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AddressRedundancyElimination]]
+[[ApproximateMacroscopicDynamics]]
 [[CollectiveDynamics]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

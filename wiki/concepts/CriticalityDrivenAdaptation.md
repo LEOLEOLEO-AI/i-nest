@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalLinguisticCompetence]]
 [[Gut_Brain_Immune_Network]]
 [[HierarchicalBayesianCommunityDetection]]
+[[HierarchyOfApproximations]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Memristive_Topology]]

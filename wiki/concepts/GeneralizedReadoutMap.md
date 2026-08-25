@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Branch_Prediction]]
 [[DARPA_ProjectManager_Model]]
 [[EulaminateOverrepresentation]]
+[[FractureMechanism]]
 [[InNetworkSignalRecovery]]
 [[Memristive_Topology]]
 [[Memristor_Reservoir_Branch_Prediction]]

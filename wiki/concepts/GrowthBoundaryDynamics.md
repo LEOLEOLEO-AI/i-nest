@@ -22,14 +22,18 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
+[[AdjointWaveControl]]
 [[EventDrivenFunctionalConnectivity]]
 [[ExtinctionDrivenMetastability]]
 [[Inference_Workload_Profiling]]
+[[Neuromorphic_Computing]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SelfOrganization]]
 [[SupervisedHardwareRepair]]
 [[TCC]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

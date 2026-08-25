@@ -22,8 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[DTGA]]
 [[Ferroelectric_Devices]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

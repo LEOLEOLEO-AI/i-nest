@@ -25,9 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[Continuous_Memory_System]]
 [[CriticalityInducedComputationalCapacity]]
+[[Dimensionality_Modularity_Tradeoff]]
 [[Free_Energy_Topology_Mapping]]
 [[MobilityEdge]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Self_Organized_Criticality]]
 [[TopologyAwareStateMigration]]
 [[iNEST]]
 

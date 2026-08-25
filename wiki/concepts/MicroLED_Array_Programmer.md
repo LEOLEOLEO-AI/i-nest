@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[Accessibility_Plasticity]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Simulation_Handoff_Recommendation]]
 [[Synaptic_Plasticity]]
 [[神经网络]]
 

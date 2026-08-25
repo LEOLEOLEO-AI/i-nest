@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[MultiplicativeGain]]
+[[Network_Spatiotemporal_Coordination]]
 [[Network_Topology_Design]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]

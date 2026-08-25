@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BackflowTransformation]]
 [[ConductingPolymerDendriteMemory]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenAutoregression]]
 [[InSensorMemoryComputing]]

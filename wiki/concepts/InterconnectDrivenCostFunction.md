@@ -20,11 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdiabaticMultimodeBend]]
 [[Chip_Floorplanning]]
-[[Chiplet_Interconnect_Aware_Placement]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[FullDimensionalDefinableInterconnect]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]

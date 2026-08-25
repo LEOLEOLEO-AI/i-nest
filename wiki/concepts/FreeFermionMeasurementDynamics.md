@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Bioavailability_Enhancement]]
 [[BitPrecisionAwareScheduling]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
+[[CST_SynergisticCoordination]]
+[[Complex_System_Theory]]
 [[Network_Topology_Design]]
 
 ## Sources

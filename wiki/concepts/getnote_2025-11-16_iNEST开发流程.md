@@ -28,6 +28,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI_Enabled_Battlefield_Autonomy]]
 [[ANN_SNN_ConversionError]]
 [[ANN_SNN_FederatedAlignment]]
+[[Closed_Loop_SNN_Stability_Boundary]]
+[[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

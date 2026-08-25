@@ -27,9 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[CrossDomain_Integration]]
 [[DARPA_ProjectManager_Model]]
+[[Deep_Network_Architecture_Invariant]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

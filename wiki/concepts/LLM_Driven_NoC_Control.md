@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[NoC_SDI_Integration]]
 [[Order_Flexibility_Duality]]
 [[PacketRoutingForFPGAs]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[TCC]]
 [[iNEST]]
 

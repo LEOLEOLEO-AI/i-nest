@@ -27,7 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
+[[Heterogeneous_Integration]]
 [[KeyMaterialStrategy]]
+[[Mesoscale_Heterogeneous_Integration]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 

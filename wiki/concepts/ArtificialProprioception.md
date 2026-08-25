@@ -25,16 +25,17 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
-[[Advanced_Packaging]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_To_Information_Conversion]]
 [[ClosedLoopNeuromorphicControl]]
 [[Continual_Learning_Modularity]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[STDPDrivenConnectivity]]
 [[StochasticVehicleRouting]]
 [[Trustworthiness_Aware_Training]]
 [[TrustworthyLearning]]
+[[advanced packaging]]
 [[iNEST]]
 
 ## Sources

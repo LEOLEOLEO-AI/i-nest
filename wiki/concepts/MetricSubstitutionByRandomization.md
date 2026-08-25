@@ -19,7 +19,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -29,19 +28,21 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[InterChipletPHYModeling]]
 [[MetricComputationAuthenticity]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
-[[Scaling_Laws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
-[[TcComputation]]
+[[TcC]]
 [[TemporalComplexity_Tc]]
+[[advanced packaging]]
 [[iNEST]]
+[[scaling laws]]
 [[temporalComplexity]]
 
 ## Sources

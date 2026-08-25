@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[ExactFiringRateModel]]
 [[IntrinsicTimingSTDP]]
 [[Neuromorphic_Computing]]
+[[STDP_Plasticity]]
+[[SparseActivationSkipping]]
 [[SpikeAttention]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

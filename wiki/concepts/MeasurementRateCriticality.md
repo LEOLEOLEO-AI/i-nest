@@ -21,14 +21,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AvalancheBranchingRatio]]
+[[BranchingRatio]]
 [[Criticality]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
 [[HierarchyOfApproximations]]
+[[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
+[[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 
 ## Sources

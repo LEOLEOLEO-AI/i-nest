@@ -26,8 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[Event_Driven_Architecture]]
+[[InNetwork_Neuromorphic_CoDesign]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
 [[Attention_Residuals]]
+[[AutonomousAdaptation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Emergent_Intelligence_Threshold]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[BoundaryObject_Abstraction]]
+[[CST_Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[CorticalTypeDiversity]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Free_Energy_Principle_Network]]

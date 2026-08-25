@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
+[[BurstGatedRouting]]
 [[CellEmergence]]
 [[EdgeIoTEnergyAwareness]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

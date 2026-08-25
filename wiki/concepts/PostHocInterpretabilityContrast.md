@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AddressRedundancyElimination]]
+[[Adjoint_Gradient_Propagation]]
 [[AdversarialMedicalRobustness]]
 [[AnalogDomainCompressiveSensing]]
 [[Analog_Computation]]

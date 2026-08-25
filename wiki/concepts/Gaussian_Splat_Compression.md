@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
+[[EventSparseTemporalEncoding]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

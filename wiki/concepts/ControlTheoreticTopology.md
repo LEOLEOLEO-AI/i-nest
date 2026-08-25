@@ -26,9 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[Additive_Manufacturing_Supply_Chain]]
-[[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
+[[AdjointWaveControl]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

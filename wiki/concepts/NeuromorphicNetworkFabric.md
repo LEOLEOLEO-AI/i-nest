@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
+[[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[BioPlausiblePredictiveCoding]]
 [[CSI_Temporal_Encoding]]

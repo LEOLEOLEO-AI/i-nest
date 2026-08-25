@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[EventDrivenTracking]]
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]

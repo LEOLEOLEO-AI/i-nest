@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[PhotonicPackagingEfficiency]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 
 ## Sources

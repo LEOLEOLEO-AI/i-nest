@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

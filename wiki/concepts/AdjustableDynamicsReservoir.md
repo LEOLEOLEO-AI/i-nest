@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdjustableDynamics]]
 [[AnisotropicGaussianPrimitives]]
 [[Contested_Priors_Mechanism]]
 [[HighTemporalResolutionSensing]]
 [[Memristor_Synapse]]
+[[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[flexible neuromorphic substrate]]

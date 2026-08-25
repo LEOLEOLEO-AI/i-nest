@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NichePreservationMechanism]]
 [[OnDie_Fusion]]
 [[Photonic_Chiplet_Interconnect]]
+[[ReleaseFreePhononic]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[ScaleFreeNetwork]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing_architecture]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[SpikeTimingFidelity]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirOptimization]]
+[[HardwareAware_DesignSpace]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
@@ -41,9 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
-[[Reservoir_Computing_Architecture]]
 [[iNEST]]
-[[reservoir computing architecture]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

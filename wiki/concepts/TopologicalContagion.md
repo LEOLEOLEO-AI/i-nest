@@ -21,12 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnalogInMemoryComputing]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[DARPA_ProjectManager_Model]]
+[[Decoupled_Priors]]
 [[DimensionalityReductionPrinciple]]
 [[FractureMechanism]]
 [[Heterogeneous_Inference_Offload]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
 [[TCC]]

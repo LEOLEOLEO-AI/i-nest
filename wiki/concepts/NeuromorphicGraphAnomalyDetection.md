@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]

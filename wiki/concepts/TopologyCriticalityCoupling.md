@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[CST_Theory_V27_FINAL]]
 [[Cognitive_Relapse_Decoupling]]
+[[Complex_System_Theory]]
+[[CriticalFixedPoint]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

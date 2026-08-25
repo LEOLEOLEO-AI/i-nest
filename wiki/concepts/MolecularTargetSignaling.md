@@ -40,8 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[PhaseModulationTestability]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
+[[Reservoir_Computing]]
 [[Swarm_Coordination]]
 [[iNEST]]
 

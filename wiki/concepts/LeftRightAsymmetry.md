@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[ScaleFreeNetwork]]

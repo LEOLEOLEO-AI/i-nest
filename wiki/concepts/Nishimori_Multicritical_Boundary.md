@@ -22,10 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AdaptiveEntanglementManagement]]
+[[AgenticServiceManifesto]]
 [[AnalogDomainCompression]]
 [[Anomaly_Mediated_Quantum_Criticality]]
+[[Criticality]]
 [[Network_Topology_Design]]
 [[Nishimori multicritical point]]
+[[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[boundary criticality]]

@@ -21,11 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CellEmergence]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[ComplexTopologicalStructures]]
 [[CorticalTypeDiversity]]
 [[EmergentOrder]]
+[[Free_Energy_Principle_Network]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[TCC]]

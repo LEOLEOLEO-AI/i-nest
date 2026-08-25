@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
+[[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]
 [[CircadianGateModulation]]
 [[Network_Topology_Design]]

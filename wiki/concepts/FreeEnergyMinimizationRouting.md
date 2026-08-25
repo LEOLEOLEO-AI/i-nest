@@ -28,7 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[AdjointWaveControl]]
+[[FreeEnergyMinimization]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

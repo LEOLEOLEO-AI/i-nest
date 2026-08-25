@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Associative_Memory_Unification]]
 [[AttractorNeuralNetwork]]
 [[BCM滑动阈值]]
+[[CST_Theory_V27_FINAL]]
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PhotoInducedCurrent]]
 [[Reservoir_Computing]]
+[[STDP_Plasticity]]
 [[iNEST]]
 [[reservoir computing]]
 

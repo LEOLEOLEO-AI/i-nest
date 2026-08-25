@@ -21,14 +21,20 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Accessibility_Plasticity]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[ComplexTopologicalStructures]]
 [[CongestionAwareNoCPlacement]]
+[[Free_Energy_Principle_Network]]
 [[Interconnect_Routing]]
 [[NCCLCollectiveCommunicationMapping]]
+[[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_SDI_Integration]]
 [[PacketRoutingOptimization]]
 [[PhononicBandgapEngineering]]
+[[SDI_Bond]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

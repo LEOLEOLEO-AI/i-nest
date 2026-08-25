@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DTGA]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
 [[Memory_Wall]]
@@ -36,12 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[Resilient_Satellite_Mesh]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[StressDrivenNetworkMorphogenesis]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

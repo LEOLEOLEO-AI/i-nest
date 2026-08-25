@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[EventDrivenRestoration]]
+[[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]

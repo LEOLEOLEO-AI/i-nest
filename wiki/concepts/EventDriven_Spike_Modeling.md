@@ -27,7 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[Agent_Interaction_Sequencing]]
 [[AsynchronousEventDrivenComputation]]
+[[Avoided_Criticality]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

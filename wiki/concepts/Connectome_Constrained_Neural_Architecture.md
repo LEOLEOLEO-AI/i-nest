@@ -23,11 +23,11 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
-[[Connectome_Inspired_Architecture]]
+[[Connectome]]
 [[Connectome_Reservoir]]
-[[Connectome_Verification_Protocol]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
 [[TCC]]
 [[connectome]]
 

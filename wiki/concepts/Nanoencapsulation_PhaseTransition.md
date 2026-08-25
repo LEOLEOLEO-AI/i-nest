@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[Contested_Priors_Mechanism]]
+[[DendriticReservoirState]]
+[[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
+[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

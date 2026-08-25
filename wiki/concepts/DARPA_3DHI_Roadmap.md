@@ -12,14 +12,13 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-The DARPA 3DHI roadmap is a strategic research framework outlining milestones for advancing 3D heterogeneous integration, including materials, bonding, testing, and design tools. This roadmap guides TCC and iNEST research by identifying near-term and long-term technology gaps and aligning funding and collaboration priorities.
+The DARPA 3DHI roadmap is a strategic research framework outlining milestones for advancing 3D Heterogeneous_Integration, including materials, bonding, testing, and design tools. This roadmap guides TCC and iNEST research by identifying near-term and long-term technology gaps and aligning funding and collaboration priorities.
 
 ## Context
 Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[3D heterogeneous integration]]
 [[3D_Heterogeneous_Integration]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Mesoscale_Innovation_Center]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[OnChipOpticalTweezers]]
 [[Photonic_Chiplet_Interconnect]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
@@ -46,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TOOLS]]
-[[heterogeneous integration]]
 [[heterogeneous_integration]]
 [[iNEST]]
 [[tools]]

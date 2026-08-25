@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
+[[EventDrivenSpectralProcessing]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_FullSpectrum_Strategy]]
+[[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CST_Spatiotemporal_Complexity]]

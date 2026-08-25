@@ -22,13 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[BackpropagationFreeLearning]]
 [[CellEmergenceMechanism]]
+[[CrossLayer_SignalRouting]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HighThroughputParticleRouting]]
 [[HigherOrderSimplicialDynamics]]
 [[HigherOrderTransitionKernel]]
 [[IncidenceBasedRandomWalk]]
+[[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SelfOrganization]]
 [[iNEST]]
 
 ## Sources

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[ModelOptimizationFederated]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SNN]]

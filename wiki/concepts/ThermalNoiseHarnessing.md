@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
+[[Reservoir_Computing]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[SDI_Bond]]

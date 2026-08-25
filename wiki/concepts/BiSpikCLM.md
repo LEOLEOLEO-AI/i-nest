@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
+[[QuantizationAwareSpiking]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

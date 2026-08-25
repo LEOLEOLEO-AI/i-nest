@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dendritic_In_Context_Learning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableEnergyAI]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

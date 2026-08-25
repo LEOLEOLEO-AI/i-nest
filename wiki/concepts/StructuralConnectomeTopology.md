@@ -22,14 +22,18 @@ Auto-extracted concept from raw material compilation.
 
 [[Brain_Connectome]]
 [[Connectome]]
+[[Connectome_Inspired_Architecture]]
 [[DataProvenanceIntegrity]]
 [[FrozenRateOperator]]
+[[Memristor_Synapse]]
 [[MushroomBodyModes]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
+[[忆阻器]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

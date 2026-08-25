@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[BondMovingDecimation]]
 [[CST_Spatiotemporal_Complexity]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[ByteDance_Ada_Chip]]
 [[Cross_Substrate_Scaling]]
 [[DarkSiliconAwarePowerGating]]
@@ -29,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Silicon_Neuron_Controller]]
 [[Resilient_Sensing_Comms_Network]]
+[[SDI_Bond]]
 [[SDI_iNEST_Wafer]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

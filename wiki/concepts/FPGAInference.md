@@ -20,7 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
+[[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[BrainScaleTopologyExploitation]]
 [[CirculateFiringNeuron]]

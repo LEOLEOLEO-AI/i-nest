@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[Closed_Loop_Neuromodulation]]
 [[CrossDomain_Synthesis]]
 [[DisorderedNetworkInterconnect]]
 [[Emergent_Intelligence_Threshold]]

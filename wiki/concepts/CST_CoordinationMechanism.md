@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[ActiveDendriteSNN]]
 [[AdaptiveFrequencyResonateAndFire]]
+[[EventDrivenTemplateUpdate]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[neuromorphic computing]]
 
 ## Sources

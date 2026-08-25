@@ -28,6 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Complexity]]
 [[Capability_Reserve_Index]]
 [[Chiplet_Based_Architecture]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
+[[DTGA]]
 [[Network_Topology_Design]]
 [[TCC]]
 

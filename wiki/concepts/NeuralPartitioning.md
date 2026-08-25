@@ -22,13 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[CSI_Temporal_Encoding]]
+[[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[EEG_Criticality]]
 [[Edge_Neuromorphic_Compute]]
 [[EventCameraPoseInput]]
 [[GradientFreeSNNTraining]]
+[[InNetwork_Neuromorphic_CoDesign]]
+[[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 
 ## Sources

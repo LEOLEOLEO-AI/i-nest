@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Alpha_Computation_Consistency]]
+[[BurstTemporalPlasticity]]
 [[Network_Topology_Design]]
 [[TCC]]
 

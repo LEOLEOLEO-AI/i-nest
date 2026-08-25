@@ -20,15 +20,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Integrated_Chiplet_Stacking]]
 [[AdaptiveBitPrecisionExploration]]
 [[Advanced_Packaging_for_Space]]
 [[ApproximationFidelityTradeoff]]
 [[BurstInterleaving]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[CoPackagedOptics]]
 [[CommunicationHeterogeneity]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 
 ## Sources

@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[CST_Intelligence_Emergence]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex system theory]]
 [[Complex system]]
 [[Complex_System]]
 [[Complexity_Emergence]]
@@ -59,7 +58,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyFragility]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

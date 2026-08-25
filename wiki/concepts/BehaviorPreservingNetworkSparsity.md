@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_SNN_ConversionError]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredSequenceLearning]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

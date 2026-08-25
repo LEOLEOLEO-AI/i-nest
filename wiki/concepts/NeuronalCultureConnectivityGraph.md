@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AttentionMap_DifferenceResidual]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Encapsulation_Topology]]
 [[InNetwork_Service_Composition]]
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]

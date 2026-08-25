@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AnalogDomainCompression]]
 [[ArbitraryWavefunctionConfigurability]]
+[[CriticalFixedPoint]]
 [[CriticalRegimeReservoir]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]

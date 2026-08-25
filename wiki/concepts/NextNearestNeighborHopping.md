@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
+[[MemoryEfficientSimulation]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]

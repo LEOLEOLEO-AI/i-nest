@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CSI_Temporal_Encoding]]
 [[ClocklessReconfigurableChip]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经形态计算]]
+[[神经网络]]
 [[脉冲神经网络]]
 
 ## Sources

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ErrorAmplificationLimits]]
+[[Interconnect_Routing]]
 [[LatencyGradientDescent]]
 [[MolecularTargetSignaling]]
 [[Network_Topology_Design]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
 [[Reconfigurable_Neural_Topology]]
+[[STDPDrivenConnectivity]]
 [[TCC]]
 [[iNEST]]
 

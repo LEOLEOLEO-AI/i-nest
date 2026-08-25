@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
+[[AnomalousSpinTransport]]
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[Network_Topology_Design]]

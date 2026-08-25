@@ -23,5 +23,6 @@ NoC, SDI, SNN, STDP, TCC, iNEST, 互连, 拓扑, 神经形态
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

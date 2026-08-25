@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AddressRedundancyElimination]]
 [[AgentBasedCorruptionModel]]
+[[ApproximateMacroscopicDynamics]]
 [[BiSpikCLM]]
 [[BiologicalPlausibilityScoring]]
 [[Bursting_Neuron_Model]]

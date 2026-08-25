@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CoDesigned_SNN]]
 [[CoEvolvedSNNEnsemble]]
+[[CollectiveDynamics]]
 [[CriticalStateInformationMaximization]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

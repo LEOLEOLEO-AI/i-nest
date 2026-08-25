@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveStateTopology]]
 [[ComplexEcosystemDynamics]]
 [[Continual_Learning_Topology]]
+[[CorticalTypeDiversity]]
 [[Network_Topology_Design]]
 [[TCC]]
 

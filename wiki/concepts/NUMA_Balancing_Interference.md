@@ -26,10 +26,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AlgorithmHardware_CoDesign]]
 [[BigBrainCellularAxis]]
+[[Chiplet_Integration_Route]]
+[[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[spiking neural network]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

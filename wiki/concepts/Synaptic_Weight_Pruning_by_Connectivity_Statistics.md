@@ -21,12 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[20W_Brain_Inspired_Planning]]
+[[AnomalousSpinTransport]]
 [[BackflowTransformation]]
 [[Brain_Connectome]]
+[[Connectome]]
 [[FrozenRateOperator]]
 [[InNetworkNeuromorphicSimulation]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[NonlinearConnectomeScaling]]
+[[Nonlinear_Gain]]
 [[TCC]]
 [[connectome]]
 [[iNEST]]

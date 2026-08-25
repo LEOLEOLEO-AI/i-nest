@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Topological_Alignment]]
 [[Fixed_Cost_Dominance]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]

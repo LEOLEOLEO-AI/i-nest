@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[EnsembleSparsity]]
 [[Gut_Brain_Immune_Network]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[IntracorticalNeuralDecoding]]
 [[Memristor_Network]]
@@ -40,12 +41,11 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[TCC_Neuromorphic_Integration]]
 [[Wafer_Scale_Emergence]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
-[[iNEST_Interconnect_Neuromorphic_Topology]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
+[[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

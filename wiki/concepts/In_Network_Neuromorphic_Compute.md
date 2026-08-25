@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
+[[AdaptiveBitPrecisionExploration]]
 [[BioPlausiblePredictiveCoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CrossDomain_Integration]]

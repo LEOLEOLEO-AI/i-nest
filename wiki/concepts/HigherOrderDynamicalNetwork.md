@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[AndersonTransition]]
 [[BiologicalNoiseMimicry]]
+[[Chiplet_Integration_Route]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

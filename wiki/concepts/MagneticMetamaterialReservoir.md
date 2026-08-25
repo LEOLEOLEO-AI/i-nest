@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
 [[Free_Energy_Topology_Mapping]]
+[[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

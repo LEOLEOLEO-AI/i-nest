@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AddressRedundancyElimination]]
+[[Avoided_Criticality]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

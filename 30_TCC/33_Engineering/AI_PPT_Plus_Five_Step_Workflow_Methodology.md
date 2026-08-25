@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 工程
+tags: [AI工作流, PPT生成, 视觉中间态, Agent工程化, 方法论]
+summary: "AI PPT+五步工作流：从内容到视觉再到工程还原，实现高质量PPT生成"
+quality: high
+processed: 2026-08-25 20:43
+---
+---
 title: "AI PPT+ 方法论：从「能生成」到「生成得好」的五步工作流"
 tags:
   - ai

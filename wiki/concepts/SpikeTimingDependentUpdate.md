@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[EventCameraTemporalEncoding]]
+[[Memristor_Synapse]]
+[[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
 [[SNN]]
 [[Spiking_Neural_Network]]

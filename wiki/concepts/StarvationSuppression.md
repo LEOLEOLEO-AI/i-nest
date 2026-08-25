@@ -26,9 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[FPGACongestionHotspotMitigation]]
 [[Gradient_Signal_Preservation]]
 [[InterFPGA_Spike_Routing]]
+[[Interconnect_Routing]]
+[[Network_on_Chip]]
+[[Neuromorphic_NoC_Routing]]
 [[NoC_EventRouting]]
 [[QuarantineCostTradeoff]]
 [[SNN_NeuroprostheticPipeline]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

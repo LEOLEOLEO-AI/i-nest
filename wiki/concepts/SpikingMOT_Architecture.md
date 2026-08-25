@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BiSpikCLM]]
 [[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]
+[[Contested_Prior_Resolution]]
 [[SNN]]
 [[SpikingMOT]]
 [[Spiking_Neural_Network]]

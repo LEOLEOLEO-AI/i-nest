@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableEnergyAI]]
 [[Intelligence_Emergence]]
 [[MemristiveSignedCouplings]]
 [[NonEquilibriumComputing]]

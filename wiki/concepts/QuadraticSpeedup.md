@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DualSided_Routing_Resource]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
+[[MachineLearningNanomaterialDiscovery]]
 [[Network_Topology_Design]]
 [[QuantumAmplitudeEstimation]]
 [[SNN]]

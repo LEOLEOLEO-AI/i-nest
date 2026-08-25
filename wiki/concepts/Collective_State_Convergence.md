@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkGradientPropagation]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

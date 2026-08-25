@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]

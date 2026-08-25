@@ -25,11 +25,14 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[BurstInterleaving]]
+[[CrossLayer_SignalRouting]]
 [[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]
 [[PacketRoutingForFPGAs]]
 [[ReputationPropagation]]
+[[SNN]]
 [[SpikeRoutingFabric]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

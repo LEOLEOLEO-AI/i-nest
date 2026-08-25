@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[PopulationDensityApproximation]]
+[[PowerLaw_Analysis]]
 [[ReSCom_Accelerator]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ST_SNN]]

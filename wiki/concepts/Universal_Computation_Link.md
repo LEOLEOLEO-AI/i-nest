@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[Cognitive_Relapse_Decoupling]]
+[[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[CrystalPalace_Program]]
 [[DARPA_Technology_Incubation]]
@@ -28,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
 [[Driven_Criticality]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

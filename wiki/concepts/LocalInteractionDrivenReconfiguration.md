@@ -23,13 +23,18 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[Cognitive_Relapse_Decoupling]]
 [[CorticalWaveRouting]]
+[[CrossLayer_SignalRouting]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[EventDrivenModularArchitecture]]
 [[FPGA_Accelerated_SNN]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[SelfOrganization]]
+[[Spiking_Neural_Network]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

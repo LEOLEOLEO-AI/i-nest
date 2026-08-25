@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[WirelessSplitComputing]]
 [[iNEST]]
+[[忆阻器]]
 [[类脑芯片]]
 
 ## Sources

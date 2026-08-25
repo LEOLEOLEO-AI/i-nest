@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[CorticalWaveRouting]]
 [[Interconnect_Routing]]
+[[LLM_Driven_NoC_Control]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]

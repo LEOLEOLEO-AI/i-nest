@@ -29,6 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
 [[Baseline_Draft_Status]]
+[[CoOptimizedMappingScheduling]]
+[[Criticality]]
+[[SNN]]
+[[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

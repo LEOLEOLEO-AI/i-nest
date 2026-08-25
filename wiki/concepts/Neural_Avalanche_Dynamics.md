@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

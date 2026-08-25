@@ -24,5 +24,6 @@ iNEST, neuromorphic, spiking
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic Spiking]]
 [[neuromorphic spiking]]
 [[spiking neural network]]

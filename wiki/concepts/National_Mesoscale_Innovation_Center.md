@@ -8,7 +8,7 @@ tags:
 **Last updated**: 2026-07-30
 
 ## Definition
-The national-level research organization (NMIS) dedicated to advancing mesoscale heterogeneous integration and intelligent systems, including iNEST wafer-scale neuromorphic computing. This entity provides the institutional and funding framework for developing TCC/iNEST technologies, bridging academic research and industrial deployment.
+The national-level research organization (NMIS) dedicated to advancing mesoscale Heterogeneous_Integration and intelligent systems, including iNEST wafer-scale neuromorphic computing. This entity provides the institutional and funding framework for developing TCC/iNEST technologies, bridging academic research and industrial deployment.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -63,11 +63,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
-[[heterogeneous integration]]
 [[iNEST]]
-[[mesoscale heterogeneous integration]]
 [[neuromorphic computing]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalSynapticRules]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

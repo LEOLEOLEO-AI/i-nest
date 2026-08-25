@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[TCC]]
 

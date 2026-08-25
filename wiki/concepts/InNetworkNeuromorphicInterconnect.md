@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Branch_Prediction]]
 [[CSI_Temporal_Encoding]]
+[[CollectiveStateResilience]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_Manufacturing_Strategy]]

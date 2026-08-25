@@ -36,11 +36,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

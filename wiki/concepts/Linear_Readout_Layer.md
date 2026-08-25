@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]

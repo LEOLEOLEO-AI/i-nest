@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[Memristive_Interconnect]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microfluidic_Worm_Trap_Array]]
 [[MultiModel_Adapter_Architecture]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
 [[Spiking_Neural_Network]]
+[[Technology_Disparity_Offset]]
 [[Topology_Centric_Neuromorphic]]
 [[iNEST]]
 

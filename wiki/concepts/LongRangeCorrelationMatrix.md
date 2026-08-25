@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[ChiralTopologicalMatter]]
 [[CommunicationPrimitiveTopologyCoupling]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Decoupling_Mechanism]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
 

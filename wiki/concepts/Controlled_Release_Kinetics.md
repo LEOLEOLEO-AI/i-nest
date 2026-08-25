@@ -38,12 +38,14 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[SearchGatingPolicy]]
 [[SpikeEncoding]]
 [[SpikeFusionLayer]]
 [[Spike_Timing_Dependent_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[emergent computation]]
+[[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

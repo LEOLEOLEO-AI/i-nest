@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Interconnect]]
+[[Neuromorphic_Selective_State_Space]]
 [[NoiseModulated_SynapticPlasticity]]
 [[NonEquilibriumComputing]]
 [[OcclusionHandlingStrategy]]

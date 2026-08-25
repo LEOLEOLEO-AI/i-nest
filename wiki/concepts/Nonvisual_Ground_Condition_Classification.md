@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[1M1T1R_SynapticNeuron]]
+[[AI_Orchestrator]]
 [[AI_Supply_Chain_Increment]]
 [[ANN动力学]]
 [[Agent_Workflow_Automation]]

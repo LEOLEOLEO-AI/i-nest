@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
+[[Course_Based_FPGA_Projects]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -38,10 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
-[[Reservoir_Computing_Architecture]]
 [[SelfOrganizedOscillatoryLearning]]
 [[iNEST]]
-[[reservoir computing architecture]]
+[[reservoir computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

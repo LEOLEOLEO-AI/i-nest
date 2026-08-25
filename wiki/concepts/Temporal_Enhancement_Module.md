@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Deep_SNN_Trainability]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[Intelligence_Emergence]]

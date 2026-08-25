@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
-[[Advanced_Packaging]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
@@ -36,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
+[[ProprioceptiveFeatureExtraction]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

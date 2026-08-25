@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[OnChipSNNTrainingEngine]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_Backpropagation_Through_Time]]

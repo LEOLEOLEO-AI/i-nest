@@ -40,9 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[TaskGradientPropagation]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoupledOscillatorReservoir]]
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirOptimization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

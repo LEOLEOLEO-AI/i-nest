@@ -20,13 +20,16 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[CorticalWaveRouting]]
 [[Environmental_Capability_Context]]
+[[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

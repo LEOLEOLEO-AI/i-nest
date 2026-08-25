@@ -25,9 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BioPlausibleDisturbanceObserver]]
+[[BulletTrainScheduling]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[criticality]]
 [[neuromorphic computing]]
 

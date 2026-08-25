@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[CirculateFiringNeuron]]
 [[CriticalStateInformationMaximization]]
+[[CrossLayer_SignalRouting]]
 [[Direct_Training_Spiking_Neural_Networks]]
 [[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence_Threshold]]

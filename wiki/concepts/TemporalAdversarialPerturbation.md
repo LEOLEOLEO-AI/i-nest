@@ -21,13 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredSequenceLearning]]
 [[DelayCodedWorkingMemory]]
 [[Event_Driven_Architecture]]
+[[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
 [[SNN]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[temporal coding]]
 

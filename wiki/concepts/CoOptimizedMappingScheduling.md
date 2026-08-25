@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[EventBasedNeuralDecoding]]
 [[EventDrivenMotionDeblurring]]
+[[FirstTimestepConversion]]
 [[Intelligence_Emergence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

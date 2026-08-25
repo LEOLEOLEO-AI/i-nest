@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Cytokine_Feedback_Loops]]
 [[Dynamic_Expert_Fusion]]
 [[EmulationTheoryObserver]]
+[[EventDrivenFunctionalConnectivity]]
 [[FreeEnergyMinimization]]
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]

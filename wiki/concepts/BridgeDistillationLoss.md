@@ -27,9 +27,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
+[[Complex_System_Theory]]
+[[Distributed_Spike_Communication]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

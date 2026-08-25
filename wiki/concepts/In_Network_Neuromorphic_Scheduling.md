@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActiveDendriteSNN]]
 [[BiasEvaluationMetrics]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
 [[In_Network_Neuromorphic]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[SynapticRewiringDynamics]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 
 ## Sources

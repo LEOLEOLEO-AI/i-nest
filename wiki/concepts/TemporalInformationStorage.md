@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]
 [[新型计算]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经形态脉冲大语言模型（NSLLM）]]
 [[神经网络]]
 [[脉冲神经网络]]
 

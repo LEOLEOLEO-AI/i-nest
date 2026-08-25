@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[InNetworkNeuromorphicEmergence]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

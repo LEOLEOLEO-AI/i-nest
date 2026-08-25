@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-The process where a stochastic delay differential equation (SDDE) system spontaneously evolves from an initial transient state to a stable attractor, with the emergent intelligent pattern corresponding to the attractor's macroscopic ordered structure. This provides a mathematical foundation for guaranteeing that intelligence emergence in iNEST is deterministic and designable, rather than relying on chance.
+The process where a stochastic delay differential equation (SDDE) system spontaneously evolves from an initial transient state to a stable attractor, with the emergent intelligent pattern corresponding to the attractor's macroscopic ordered structure. This provides a mathematical foundation for guaranteeing that Intelligence_Emergence in iNEST is deterministic and designable, rather than relying on chance.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing]]
+[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[intelligence emergence]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

@@ -20,13 +20,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveSTDP]]
 [[Automated_Assessment_Framework]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
 [[OpenEndedDiscovery]]
+[[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
+[[SelfOrganization]]
+[[TCC]]
 [[emergent computation]]
 [[iNEST]]
 [[neuromorphic computing]]

@@ -21,12 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AutonomousAdaptation]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[ComplexTopologicalStructures]]
 [[CorticalWaveRouting]]
 [[DTGA]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicTopologyMapping]]
+[[FunctionalInterfaceBlocks]]
+[[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[neuromorphic substrate]]

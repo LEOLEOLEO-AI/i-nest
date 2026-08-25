@@ -26,9 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveMeasurementProtocol]]
+[[AdaptiveSTDP]]
+[[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[local plasticity rule]]
 [[local plasticity]]
 
 ## Sources

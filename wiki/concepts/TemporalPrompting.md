@@ -24,11 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[EnsembleCreditAssignment]]
 [[FPGA_Neuromorphic_Architectures]]
+[[MoE_Routing]]
 [[Neuromorphic_Computing]]
+[[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

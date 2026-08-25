@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

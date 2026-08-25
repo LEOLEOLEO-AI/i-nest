@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[CellEmergence]]
+[[DiscreteSTDP]]
 [[DistinguishableHelium4]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

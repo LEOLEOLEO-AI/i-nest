@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BoundaryObject_Abstraction]]
+[[C_elegansConnectomeAnalogy]]
 [[ComputationEfficientDeepLearning]]
 [[ConcentricDiscreteOpticalVortices]]
 [[Deep_Network_Architecture_Invariant]]

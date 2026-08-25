@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[EdgeIoTEnergyAwareness]]
 [[Environmental_Capability_Context]]
+[[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

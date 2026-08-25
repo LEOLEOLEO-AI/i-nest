@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[RenormalizationGroupIntelligence]]
 [[UncertainNonlinearSystem]]
 [[iNEST]]
 [[神经网络]]

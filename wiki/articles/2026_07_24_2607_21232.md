@@ -16,6 +16,7 @@ TCC, iNEST
 
 ## Related Concepts
 
+[[Criticality]]
 [[Driven criticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]

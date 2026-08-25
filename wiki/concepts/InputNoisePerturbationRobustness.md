@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Gradient]]
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
+[[AdversarialSensingResilience]]
 [[CirculateFiringNeuron]]
 [[Complex_System]]
 [[Complex_System_Theory]]

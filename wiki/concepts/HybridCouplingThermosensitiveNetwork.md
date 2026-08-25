@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[LatencyGradientDescent]]
 [[MolecularTargetSignaling]]
 [[Neuromorphic_Computing]]
+[[OpenLearningEcosystem]]
 [[TCC]]
 
 ## Sources

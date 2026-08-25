@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
+[[EventDrivenMatrixUpdate]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]

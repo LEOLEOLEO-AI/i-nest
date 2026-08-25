@@ -21,11 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Analog_Synaptic_Behavior]]
 [[AnisotropicGaussianPrimitives]]
 [[BackflowTransformation]]
 [[BioInspiredLearningRule]]
 [[CST_Spatiotemporal_Coefficient]]
 [[ChannelEventSparsity]]
+[[Complex_System_Theory]]
 [[ConsciousnessEngineeringLoop]]
 [[Contested_Prior_Resolution]]
 [[Cross_Node_Event_Propagation]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Core_Spacetime_Tensor]]
 [[Criticality]]
+[[Criticality_Induced_Plasticity]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]
 [[Fixed_Cost_Dominance]]

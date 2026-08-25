@@ -20,14 +20,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Criticality_Based_Feature_Extraction]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[MultiFPGAScaling]]
 [[NeuromorphicRadarFrontend]]
+[[Neuromorphic_Computing]]
 [[PacketRoutingOptimization]]
 [[ReconfigurableSNN_Accelerator]]
+[[SNN]]
+[[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

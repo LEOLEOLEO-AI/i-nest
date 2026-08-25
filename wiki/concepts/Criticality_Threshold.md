@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Dynamics_Learning]]
 [[CirculateFiringNeuron]]
 [[ClinicalTranslationBridge]]
+[[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Criticality]]

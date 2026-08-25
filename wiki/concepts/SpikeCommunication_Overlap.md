@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AddressRedundancyElimination]]
 [[AgentBasedCorruptionModel]]
+[[Avoided_Criticality]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

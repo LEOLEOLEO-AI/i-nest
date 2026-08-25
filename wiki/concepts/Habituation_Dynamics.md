@@ -28,7 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[ChannelEventSparsity]]
+[[Criticality]]
+[[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
+[[Self_Organized_Criticality]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-An organizational and funding framework for mesoscale heterogeneous integration research, as exemplified by the '介观智能系统国创中心' (NMIS). Provides the institutional infrastructure to develop and test TCC/iNEST architectures, accelerating translation from theory to silicon.
+An organizational and funding framework for mesoscale Heterogeneous_Integration research, as exemplified by the '介观智能系统国创中心' (NMIS). Provides the institutional infrastructure to develop and test TCC/iNEST architectures, accelerating translation from theory to silicon.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -44,9 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetworks]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[heterogeneous integration]]
 [[iNEST]]
-[[mesoscale heterogeneous integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

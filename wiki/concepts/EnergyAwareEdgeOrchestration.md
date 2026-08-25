@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[ConsciousnessEngineeringLoop]]
 [[Constructed_Reality_Interconnect]]
+[[DARPA_ProjectManager_Model]]
 [[Defense_Industrial_Base_Reshaping]]
 [[ERI_2_0_Strategic_Framework]]
 [[FastSlow_Dynamics]]

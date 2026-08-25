@@ -12,14 +12,13 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A 3D heterogeneous integration technology that stacks different functional chips or materials (e.g., CMOS, compound semiconductors, photonics) in three-dimensional space for system-level packaging. Enables topology-centric computing architectures to physically co-locate diverse processing and memory elements, reducing interconnect latency and power for graph-like data flows.
+A 3D Heterogeneous_Integration technology that stacks different functional chips or materials (e.g., CMOS, compound semiconductors, photonics) in three-dimensional space for system-level packaging. Enables topology-centric computing architectures to physically co-locate diverse processing and memory elements, reducing interconnect latency and power for graph-like data flows.
 
 ## Context
 Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[3D heterogeneous integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
@@ -36,12 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[Flow_Network_Memory]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
+[[InMateriaComputing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[heterogeneous integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

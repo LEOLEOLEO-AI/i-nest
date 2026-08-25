@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
+[[FormalToolchain]]
 [[Heterogeneous_Integration]]
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]

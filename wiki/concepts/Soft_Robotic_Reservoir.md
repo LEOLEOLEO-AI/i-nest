@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Contested_Priors_Mechanism]]
+[[Free_Energy_Topology_Mapping]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[QuantumGateSynthesis]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[CIMWeightUpdateAwareness]]
 [[CollectiveSpikingDynamics]]
+[[ConductingPolymerDendriteMemory]]
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

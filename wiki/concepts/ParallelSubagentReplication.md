@@ -20,17 +20,19 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Anisotropic_Correlation_Length]]
 [[BackflowTransformation]]
 [[CST_Equation]]
 [[CST_Exponential_Gain]]
 [[CST_MasterEquation]]
 [[Complex_System]]
 [[Complex_System_Theory]]
-[[Complexity_Emergence_Engineering]]
+[[Complexity_Emergence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[FiniteSizeTopologicalPhase]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[getnote_2026-06-15_能量函数驱动神经网络设计]]
 [[pipelined processor]]
 [[reservoir computing]]
 [[新型计算]]

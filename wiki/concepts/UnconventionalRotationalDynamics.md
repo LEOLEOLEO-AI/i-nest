@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricCoupling]]
 [[Biodefense_Threat_Detection_Network]]
 [[BrainBodyResonance]]
-[[Catastrophic_Forgetting]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Critical_Exponent_Analysis]]
@@ -41,8 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
+[[Synaptic_Plasticity]]
+[[catastrophic forgetting]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

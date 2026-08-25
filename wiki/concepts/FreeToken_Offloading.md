@@ -29,6 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[BeyondVonNeumannArchitecture]]
 [[Bipartite_Interconnect_Design]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[CoPackagedOptics]]
+[[Heterogeneous_Integration]]
 [[iNEST]]
 
 ## Sources

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
+[[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]

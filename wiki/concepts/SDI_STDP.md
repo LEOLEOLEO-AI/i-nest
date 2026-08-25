@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

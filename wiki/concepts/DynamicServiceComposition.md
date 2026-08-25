@@ -24,12 +24,19 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[BandedNonHermitianRandomMatrices]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDSoW]]
 [[ScalableNeuromorphicTopology]]
 [[Software_Defined_Interconnect]]
+[[TCC]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]
 [[AdiabaticMultimodeBend]]
+[[AdjointWaveControl]]
 [[AdsorptionBiosorptionHybrid]]
 [[AnisotropicSymmetryBreaking]]
 [[Anisotropic_Correlation_Length]]

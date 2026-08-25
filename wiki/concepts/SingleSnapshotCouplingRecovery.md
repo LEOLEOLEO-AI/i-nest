@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveEntanglementManagement]]
+[[AdjointWaveControl]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

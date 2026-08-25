@@ -13,7 +13,7 @@ auto: true
 **Last updated**: 2026-08-23
 
 ## Definition
-A design methodology that jointly optimizes 3D layout, TSV distribution, and cooling solutions to meet thermal budgets while maximizing compute density. Provides a framework for co-designing thermal management with TCC topologies, enabling scalable and energy-efficient heterogeneous integration.
+A design methodology that jointly optimizes 3D layout, TSV distribution, and cooling solutions to meet thermal budgets while maximizing compute density. Provides a framework for co-designing thermal management with TCC topologies, enabling scalable and energy-efficient Heterogeneous_Integration.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -23,13 +23,14 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
+[[3D_Heterogeneous_Integration]]
 [[3D_IC_Stacking]]
 [[AdvancedPackagingInterconnect]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Post_Moore_Paradigm]]
 [[TCC]]
-[[heterogeneous integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

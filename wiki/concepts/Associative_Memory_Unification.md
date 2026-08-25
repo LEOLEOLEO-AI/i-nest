@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorNeuralNetwork]]
 [[BCM滑动阈值]]
 [[CST_Theory_V27_FINAL]]
+[[Capable_Agent_Knowledge]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]

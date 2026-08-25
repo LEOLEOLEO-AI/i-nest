@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Compressed_Glass_Network]]
 [[CoupledOscillatorReservoir]]
 [[Crystallized_Neural_Manifolds]]
+[[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
 [[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]

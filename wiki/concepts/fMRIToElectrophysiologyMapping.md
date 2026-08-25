@@ -28,8 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
+[[Complex_System_Theory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

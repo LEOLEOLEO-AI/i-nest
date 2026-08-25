@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdjointWaveControl]]
 [[Cognitive_Relapse_Decoupling]]
+[[ControlTheoreticTopology]]
 [[Ferroelectric_Devices]]
+[[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

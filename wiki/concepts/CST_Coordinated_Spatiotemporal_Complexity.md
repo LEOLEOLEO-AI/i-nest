@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
+[[EGO_Architecture]]
 [[ERI_2_0_Strategic_Framework]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

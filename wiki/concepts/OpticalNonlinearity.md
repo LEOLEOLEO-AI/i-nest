@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReservoirEntropyEncoding]]
 [[Reservoir_Computing]]
 [[iNEST]]
 [[neuromorphic computing]]

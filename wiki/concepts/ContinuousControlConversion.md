@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[EEGSpikeEncoding]]
+[[Edge_Neuromorphic_Compute]]
 [[EnsembleCreditAssignment]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenMotionDeblurring]]

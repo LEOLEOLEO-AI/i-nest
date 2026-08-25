@@ -31,13 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Induced_Memory]]
 [[Heterogeneous_Integration]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
-[[Memristor_Device]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
+[[memristor device]]
 [[neuromorphic computing]]
 
 ## Sources

@@ -27,9 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[BehaviorAlignedQuantization]]
 [[BigBrainCellularAxis]]
 [[CST_Spatiotemporal_Coefficient]]
+[[Complex_Network_Class_Brain_Computing]]
+[[Complex_System_Theory]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

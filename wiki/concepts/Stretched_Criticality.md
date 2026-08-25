@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[DynamicalSelfDualCriticality]]
 [[Emergent_Intelligence_Threshold]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]

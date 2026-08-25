@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedTrainingCommunicationPattern]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Topology_Adaptation]]
 [[FlexibilityThreshold]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]

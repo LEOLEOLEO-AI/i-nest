@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
+[[SNN_Topology_Mapping]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

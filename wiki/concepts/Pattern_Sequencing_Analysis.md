@@ -27,7 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
+[[Baseline_Change_Record]]
+[[Criticality]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 [[temporal coding]]
 

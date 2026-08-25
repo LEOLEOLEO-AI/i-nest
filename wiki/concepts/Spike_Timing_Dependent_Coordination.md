@@ -28,6 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Neuromorphic_Computing]]
+[[STDP_Learning]]
+[[STDP_Plasticity]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

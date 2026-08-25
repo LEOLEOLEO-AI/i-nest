@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[ClocklessReconfigurableChip]]
 [[CorticalWaveRouting]]
 [[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[EnsembleCreditAssignment]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[SelfOrganization]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

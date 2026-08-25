@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing]]
 [[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
+[[SDI_STDP]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]

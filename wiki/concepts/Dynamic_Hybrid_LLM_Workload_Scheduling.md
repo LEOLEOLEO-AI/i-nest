@@ -27,8 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[MultiplicativeGain]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
 
 ## Sources

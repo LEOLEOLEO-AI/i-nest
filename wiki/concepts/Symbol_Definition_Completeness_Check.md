@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DGS_SplatPrimitive]]
 [[AI_Faculty_Forum_2026]]
+[[BackpropagationFreeLearning]]
 [[EventTriggeredDistributedControl]]
 [[GitWhitelistQuotaEnforcement]]
 [[Network_Topology_Design]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalObservers]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[P_Paradigm]]
 [[SharedAssociativeMemory]]
+[[SparseTemporalEncoding]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

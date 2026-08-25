@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[Agent_Interaction_Sequencing]]
+[[Avoided_Criticality]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

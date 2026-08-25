@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
+[[DataMovementMinimization]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

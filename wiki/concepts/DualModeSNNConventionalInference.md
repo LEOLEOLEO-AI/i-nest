@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ActivityAvalanche]]
 [[FullyLocalOnlineSNNTraining]]
+[[InNetworkEntropyProbe]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SNN_Neuroimaging_Bridge]]

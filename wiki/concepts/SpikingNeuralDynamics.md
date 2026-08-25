@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[DiscreteSTDP]]
+[[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[NeuromorphicHardware]]

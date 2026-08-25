@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdvancedPackagingInterconnect]]
-[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
@@ -32,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Packaging]]
 [[Chiplet_Topology]]
+[[Chiplet_Topology_Encapsulation]]
 [[CoPoS]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[advanced packaging]]
 [[temporalComplexity]]
 
 ## Sources

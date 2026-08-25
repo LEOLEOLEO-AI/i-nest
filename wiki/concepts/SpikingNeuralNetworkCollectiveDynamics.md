@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
+[[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

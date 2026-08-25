@@ -22,12 +22,14 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_SNN_ConversionError]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
 [[SNN]]
 [[STDP_Plasticity]]
-[[Spike_timing_dependent_plasticity_learning_rule]]
+[[SpikeCodingGradient]]
+[[Spike_timing_dependent_plasticity]]
 [[Spiking_Neural_Network]]
-[[Synaptic_Plasticity_Rule]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

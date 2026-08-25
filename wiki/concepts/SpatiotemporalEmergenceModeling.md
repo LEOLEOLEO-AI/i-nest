@@ -27,8 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveMeasurementProtocol]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
+[[Cognitive_Relapse_Architecture]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

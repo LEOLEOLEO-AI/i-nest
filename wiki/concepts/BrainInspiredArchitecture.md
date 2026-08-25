@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Sequence_First_Processing]]
+[[SpikeAttention]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

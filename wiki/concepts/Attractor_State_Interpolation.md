@@ -22,13 +22,15 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[Active_Inference_Architecture]]
-[[AdaptiveAsymmetricSurrogateGradients]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Adaptive_Replication_Strategy]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[ExplainableEnergyAI]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

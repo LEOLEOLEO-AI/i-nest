@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI-ML — 全景导航 (Map of Content)]]
+[[Brain_Connectome]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[Connectome]]
 [[Connectome_Inspired_Architecture]]
 [[Ferroelectric_Devices]]
 [[Intelligence_Emergence]]

@@ -21,11 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredSequenceLearning]]
 [[DiscreteSTDP]]
-[[ITP_STDP_Learning_Engine]]
+[[ITP_STDP]]
 [[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
+[[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

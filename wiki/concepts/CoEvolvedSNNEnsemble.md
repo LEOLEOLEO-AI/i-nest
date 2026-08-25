@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ApproximateMacroscopicDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CSI_Temporal_Encoding]]
 [[CoDesigned_SNN]]

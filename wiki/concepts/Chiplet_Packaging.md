@@ -21,13 +21,13 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdvancedPackagingInterconnect]]
-[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[AnalogDomainCompression]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[Chiplet_Topology]]
 [[CoPoS]]
@@ -36,9 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[SDI_Bond]]
 [[SDI_iNEST_Wafer]]
 [[TCC]]
+[[advanced packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

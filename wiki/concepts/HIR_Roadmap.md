@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[3D integration]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
@@ -27,10 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Integration]]
 [[AdvancedPackagingInterconnect]]
-[[Advanced_Packaging]]
 [[Allreduce_Latency_Probe]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
+[[Complex_System_Theory]]
 [[ComponentLevelMolding]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

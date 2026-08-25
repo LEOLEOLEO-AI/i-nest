@@ -37,9 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Synaptic_Plasticity]]
+[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

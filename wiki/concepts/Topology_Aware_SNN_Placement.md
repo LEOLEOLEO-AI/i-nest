@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DARPA_ProjectManager_Model]]
+[[EventDrivenAsynchronousRouting]]
 [[EventDrivenRiskAssessment]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenSource_Neuromorphic_Framework]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
 [[Workload_Isolation]]
 [[hls4ml_SNN_Conversion]]

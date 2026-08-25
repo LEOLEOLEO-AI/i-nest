@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Topology]]
 [[Deep_Thermalisation]]
 [[Fixed_Cost_Dominance]]
+[[HigherOrderTransitionKernel]]
 [[Network_Topology_Design]]
 
 ## Sources

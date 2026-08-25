@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 项目
+tags: [chip, infrastructure, llm, paper, research, physics, computing, top-journal, first-principles, design, network, semiconductor, ai, hardware, transformer, architecture]
+summary: "关于“十五五”软件定义晶上系统二期布局的建议，聚焦超低轨卫星智能体与数字射频战场两大战略工程。"
+quality: high
+processed: 2026-08-25 20:44
+---
+---
 title: "核查折子关键事实"
 tags:
   - chip

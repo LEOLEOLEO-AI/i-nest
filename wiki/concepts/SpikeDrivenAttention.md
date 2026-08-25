@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BulletTrainScheduling]]
 [[BurstSuppressionMechanism]]
+[[BurstSuppression]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

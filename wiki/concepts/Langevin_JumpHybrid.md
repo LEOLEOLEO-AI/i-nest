@@ -26,9 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
-[[AdaptiveAsymmetricSurrogateGradients]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[Avoided_Criticality]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 
 ## Sources

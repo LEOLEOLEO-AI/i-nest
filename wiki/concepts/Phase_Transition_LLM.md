@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausibleDisturbanceObserver]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Contested_Priors_Architecture]]
+[[CriticalFixedPoint]]
+[[Criticality]]
 [[Intelligence_Emergence]]
 [[Self_Organized_Criticality]]
 [[TCC]]

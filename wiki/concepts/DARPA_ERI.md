@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
@@ -44,8 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[Sub_Nyquist_Waveform_Reconstruction]]
 [[TCC]]
-[[TCC_iNEST_Interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

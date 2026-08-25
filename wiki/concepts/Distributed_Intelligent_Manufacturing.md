@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
+[[Analog_To_Information_Conversion]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Continual_Learning_Modularity]]

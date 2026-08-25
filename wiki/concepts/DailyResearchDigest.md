@@ -26,10 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
+[[FermiSurfaceTopologySignature]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[neuromorphic computing]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

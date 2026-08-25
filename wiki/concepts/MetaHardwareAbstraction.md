@@ -36,6 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
+[[SDI_STDP_Rule]]
 [[TCC]]
 [[iNEST]]
 

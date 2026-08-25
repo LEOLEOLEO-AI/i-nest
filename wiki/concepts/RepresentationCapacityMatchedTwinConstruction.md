@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[DendriticTaskPartitioning]]
 [[EventBasedMotionDeblurring]]
+[[FPGA_SNN_Inference]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

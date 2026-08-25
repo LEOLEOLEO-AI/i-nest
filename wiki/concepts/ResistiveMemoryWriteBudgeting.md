@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
+[[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

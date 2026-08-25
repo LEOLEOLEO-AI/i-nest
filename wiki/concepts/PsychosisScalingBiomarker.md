@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]
 [[Continual_Learning_Modularity]]
+[[CriticalFixedPoint]]
+[[Criticality]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[criticality]]

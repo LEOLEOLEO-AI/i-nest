@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalInertiaEstimation]]
 [[EdgeAI_Market_Consolidation_Driver]]
+[[Energy_Efficient_Control]]
 [[Heterogeneous_Integration]]
 [[In_Package_Interconnect_Trust]]
 [[L2_L3_Reconfigurability]]

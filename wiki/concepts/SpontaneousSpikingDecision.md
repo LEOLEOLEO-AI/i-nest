@@ -27,8 +27,15 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]
+[[Criticality]]
+[[MoE_Routing]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[STDP_Plasticity]]
+[[Self_Organized_Criticality]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

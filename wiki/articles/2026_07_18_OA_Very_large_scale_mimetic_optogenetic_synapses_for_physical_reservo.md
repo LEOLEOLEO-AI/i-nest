@@ -16,6 +16,7 @@ iNEST
 
 ## Related Concepts
 
+[[Criticality]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[criticality]]

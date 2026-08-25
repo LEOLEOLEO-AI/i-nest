@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
 [[MetaTopologyLibraryCompleteness]]
+[[NetworkDiameterMetric]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

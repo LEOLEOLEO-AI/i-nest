@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[ByteDance_Ada_Chip]]
+[[ComputationEfficientDeepLearning]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

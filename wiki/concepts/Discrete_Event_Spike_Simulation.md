@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Baseline_Draft_Status]]
 [[BioInspiredLearningRule]]
+[[Criticality]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

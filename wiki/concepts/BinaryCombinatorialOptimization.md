@@ -29,6 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Active_Inference_Architecture]]
 [[Interconnect_Routing]]
+[[InterpolationKernel]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[CommunicationAwareComputeRelocation]]
 [[Core_Spacetime_Tensor]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]

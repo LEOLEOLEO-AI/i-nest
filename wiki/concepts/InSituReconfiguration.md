@@ -21,14 +21,18 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Additive_Manufacturing_Supply_Chain]]
-[[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticModeEvolution]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chiplet_Based_Architecture]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Fabric]]
+[[Complex_System_Theory]]
+[[DTGA]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[TCC]]
 
 ## Sources

@@ -22,9 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
+[[Brain_Connectome]]
 [[C__elegans_Connectome]]
-[[Connectome_Reservoir]]
-[[Connectome_Verification_Protocol]]
+[[C_elegansConnectomeAnalogy]]
+[[Connectome]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

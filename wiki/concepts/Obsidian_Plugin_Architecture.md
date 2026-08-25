@@ -21,16 +21,20 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BackpropagationFreeLearning]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Decoupled_Priors]]
 [[ElectromigrationReliability]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SoftwareDefinedSystemOnWafer]]
-[[TCCNPU_Coordination_Roadmap]]
+[[TCC]]
 [[ThirdWaveAI]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[neuromorphic computing]]
 [[tools]]
 

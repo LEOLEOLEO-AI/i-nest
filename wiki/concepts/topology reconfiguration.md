@@ -29,12 +29,16 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[Physical_Topology_Mapping]]
 [[SDI_Bond]]
 [[TCC]]

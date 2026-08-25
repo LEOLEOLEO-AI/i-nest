@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CellEmergence]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[DisorderedNetworkInterconnect]]

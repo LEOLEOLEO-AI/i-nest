@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplainableEnergyAI]]
 [[Gut_Brain_Immune_Network]]
 [[Interconnect_Routing]]
+[[MoE_Routing]]
 [[NestedRepresentation]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

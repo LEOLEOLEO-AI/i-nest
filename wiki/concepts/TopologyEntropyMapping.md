@@ -24,11 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]
+[[AdjointWaveControl]]
 [[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalLearningRegime]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

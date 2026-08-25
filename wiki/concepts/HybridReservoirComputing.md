@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ReadoutLayer]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[SemanticRelationTemporalGraph]]
 [[TCC]]
 [[iNEST]]
 

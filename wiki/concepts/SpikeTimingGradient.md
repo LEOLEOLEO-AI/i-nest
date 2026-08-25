@@ -21,12 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredSequenceLearning]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[FatigueSTDP]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[neuromorphic computing]]

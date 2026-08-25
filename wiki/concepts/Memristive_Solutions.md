@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -39,8 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[SynapticFatigueModel]]
+[[Synaptic_Plasticity]]
 [[TCC]]
-[[TCC_Neuromorphic_Integration]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Memristor_Interconnect]]

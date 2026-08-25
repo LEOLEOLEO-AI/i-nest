@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

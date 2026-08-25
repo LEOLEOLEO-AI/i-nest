@@ -66,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[temporalComplexity]]
 
 ## Sources

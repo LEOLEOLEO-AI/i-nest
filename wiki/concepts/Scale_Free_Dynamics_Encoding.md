@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AndersonTransition]]
 [[BigBrainCellularAxis]]
+[[CausalEmergenceCondition]]
 [[CrystalPalace_Program]]
 [[DataDrivenMaterialDesign]]
 [[Deep_Thermalisation]]

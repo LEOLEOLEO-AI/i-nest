@@ -25,10 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdiabaticMultimodeBend]]
-[[Advanced_Packaging]]
 [[Advanced_Packaging_Route]]
 [[Alpha_Computation_Consistency]]
 [[CommunicationAsComputation]]
+[[CommunicationAwareComputeRelocation]]
 [[CrossMaterial_Integration]]
 [[Deep_Thermalisation]]
 [[FatalityDrivenRewiring]]
@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

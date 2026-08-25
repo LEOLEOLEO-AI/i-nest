@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-Encapsulation of individual packaged components after dicing, allowing tailored molding for specific die stacks or hybrid bonded interfaces. Supports heterogeneous integration in TCC by isolating thermal-mechanical stress on TSV and hybrid bond sites.
+Encapsulation of individual packaged components after dicing, allowing tailored molding for specific die stacks or hybrid bonded interfaces. Supports Heterogeneous_Integration in TCC by isolating thermal-mechanical stress on TSV and hybrid bond sites.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
+[[Analog_Weight_Storage]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -48,9 +49,9 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
-[[heterogeneous integration]]
 [[heterogeneous_integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

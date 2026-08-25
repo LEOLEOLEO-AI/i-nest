@@ -22,11 +22,11 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Management]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFrequencyResonateFire]]
+[[AgenticServiceManifesto]]
 [[Automated_Reward_Shaping]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[Capability_Reserve_Index]]
-[[Catastrophic_Forgetting]]
 [[Cognitive_Relapse_Decoupling]]
 [[Contested_Priors_Architecture]]
 [[CounterstreamSignalPropagation]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[catastrophic forgetting]]
 [[iNEST]]
 
 ## Sources

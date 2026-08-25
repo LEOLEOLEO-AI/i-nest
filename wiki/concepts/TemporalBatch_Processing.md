@@ -22,12 +22,15 @@ Auto-extracted concept from raw material compilation.
 
 [[Avoided_Criticality]]
 [[BurstSuppressionMechanism]]
+[[BurstSuppression]]
 [[Contested_Prior_Resolution]]
+[[Criticality]]
 [[Distributed_Spike_Communication]]
 [[EventDrivenMotionDeblurring]]
 [[GPU_Cluster_SNN_Architecture]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

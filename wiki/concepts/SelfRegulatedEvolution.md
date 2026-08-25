@@ -27,8 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
+[[Cognitive_Relapse_Architecture]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

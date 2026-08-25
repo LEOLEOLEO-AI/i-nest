@@ -22,10 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[3DIntegratedPhotonicPackaging]]
 [[Accessibility_Plasticity]]
+[[AdiabaticModeEvolutionCoupler]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Decoupling_Mechanism]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_SDI_Integration]]
 [[PhononicBandgapEngineering]]
 [[PinAssignmentOptimization]]

@@ -21,10 +21,12 @@ Auto-extracted concept from raw material compilation.
 
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Brain_Connectome]]
+[[C_elegansConnectomeAnalogy]]
 [[Combinatorial_Optimization_Readout]]
 [[Complex_System]]
 [[Complex_System_Theory]]
-[[Connectome_Reservoir]]
+[[Connectome]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]

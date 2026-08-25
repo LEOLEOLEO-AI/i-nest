@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Criticality]]
+[[Criticality_Induced_Plasticity]]
 [[Emergent_Intelligence_Threshold]]
 [[InformationCompressionAtCriticality]]
 [[Intelligence_Emergence]]

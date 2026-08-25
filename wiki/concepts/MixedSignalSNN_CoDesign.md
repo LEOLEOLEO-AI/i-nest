@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CrossLayer_SignalRouting]]
 [[DelayAwareSpikeEventDelivery]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

@@ -17,6 +17,7 @@ NoC, SDI, iNEST, 封装, 芯粒
 ## Related Concepts
 
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_on_Chip]]
 [[SDI_Bond]]
 [[TCC]]

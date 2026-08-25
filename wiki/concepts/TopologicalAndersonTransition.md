@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
+[[BurstTemporalPlasticity]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

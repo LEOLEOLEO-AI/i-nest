@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DARPA_Project_Group_Strategy]]
 [[DendriticReservoirState]]
+[[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

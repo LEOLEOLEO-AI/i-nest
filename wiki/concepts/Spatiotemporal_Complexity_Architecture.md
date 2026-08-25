@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
+[[Analog_To_Information_Conversion]]
 [[Attention_Residuals]]
 [[BackpropFree_Learning]]
 [[BoundaryObject_Abstraction]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[Bidirectional_Temporal_Enhancement]]
 [[ITP_STDP]]
+[[ITP_STDP_Engine]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
+[[NonlinearDynamicalSampling]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[Syncytial_Mesh_Model]]

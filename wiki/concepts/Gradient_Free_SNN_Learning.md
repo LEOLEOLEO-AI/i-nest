@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTraining]]
+[[Teleportation_Assisted_Interconnect]]
 [[VonEconomoNeuron]]
 [[iNEST]]
 [[parameter reconstruction]]

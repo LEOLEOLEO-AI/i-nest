@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[EventDrivenFunctionalConnectivity]]
 [[JunctionSignalIntegrity]]
+[[Local_Plasticity_Rule]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[CommunicationAwareComputeRelocation]]
 [[CongestionAwareNoCPlacement]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]

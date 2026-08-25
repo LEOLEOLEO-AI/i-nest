@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[IntelligenceEmergence_ScalingLaw]]
 [[Intelligence_Emergence]]
+[[Metastable_State_Hierarchy]]
 [[Network_Topology_Design]]
 [[iNEST]]
 [[神经网络]]

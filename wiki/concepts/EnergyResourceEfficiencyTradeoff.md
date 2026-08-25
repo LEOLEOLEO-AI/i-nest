@@ -22,13 +22,18 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[Analog_Computation]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Stacking]]
 [[CrossbarArrayIntegration]]
 [[DARPA_ProjectManager_Model]]
 [[DelayCodedWorkingMemory]]
+[[Delay_Aware_Autograd_Spiking_Framework]]
 [[Free_Energy_Principle_Network]]
 [[FullyLocalOnlineSNNTraining]]
 [[HeterogeneousSynapticDelays]]
 [[Neuromorphic_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

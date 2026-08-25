@@ -20,15 +20,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Categorical_Closure_Criterion]]
 [[CriticalStateReservoir]]
 [[Criticality_of_Natural_Languages]]
 [[FerroelectricSemiconductorReservoir]]
+[[Ferroelectric_Devices]]
 [[FisherInformationMetric]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]
 [[MemristiveReservoirBranchPrediction]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[iNEST]]
 
 ## Sources

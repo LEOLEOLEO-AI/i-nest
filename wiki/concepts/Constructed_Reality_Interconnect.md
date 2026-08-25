@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroscopicDescriptor]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]

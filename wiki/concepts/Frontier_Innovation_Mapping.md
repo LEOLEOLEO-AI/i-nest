@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CompactnessRegularizedFitness]]
 [[ComplexValuedSNN]]
+[[CriticalStateInformationMaximization]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[GradientBasedSpikeLearning]]

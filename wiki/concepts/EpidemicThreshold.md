@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BackflowTransformation]]
+[[Communication_Trace_Diagnostics]]
 [[Criticality]]
 [[EventDrivenFunctionalConnectivity]]
 [[Fluidic_Hysterons]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

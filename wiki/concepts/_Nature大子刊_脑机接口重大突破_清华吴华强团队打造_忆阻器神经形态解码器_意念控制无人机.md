@@ -27,12 +27,11 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[Brain_Connectome]]
 [[Connectome]]
-[[Connectome_Inspired_Architecture]]
-[[Connectome_Verification_Protocol]]
 [[Event_Driven_Architecture]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
 [[SoC]]
 [[Synaptic_Plasticity]]
 [[TCC]]
@@ -51,3 +50,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[晶圆级忆阻器无源交叉阵列制造技术_脑规模神经形态计算突破_]]
 [[神经形态计算]]
 [[神经网络]]
+[[综述_革新神经形态计算：基于忆阻器的人工神经元]]

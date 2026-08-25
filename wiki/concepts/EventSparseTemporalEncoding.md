@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Distributed_Spike_Communication]]
+[[Gaussian_Splat_Compression]]
 [[Memory_Wall]]
 [[ModelOptimizationFederated]]
 [[Neuromorphic_Computing]]

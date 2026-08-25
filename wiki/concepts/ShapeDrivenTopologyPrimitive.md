@@ -31,11 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[Anomaly_Induced_Quantum_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
 [[ExactlyFlatTopologicalBands]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Quantum_Criticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 

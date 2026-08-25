@@ -26,10 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Critical_Region_Extension]]
 [[CriticalityInNetworkComputing]]
+[[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]
+[[InNetworkComputing]]
 [[Intelligent_Power_Management]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

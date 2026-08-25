@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridReservoirComputing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[Reservoir_State_Projection]]
 [[TCC]]
 
 ## Sources

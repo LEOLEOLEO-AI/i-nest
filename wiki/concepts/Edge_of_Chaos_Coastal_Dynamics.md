@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
 [[Contested_Prior_Resolution]]
+[[CriticalFixedPoint]]
 [[Criticality]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]

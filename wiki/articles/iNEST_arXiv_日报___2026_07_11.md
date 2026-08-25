@@ -17,6 +17,8 @@ iNEST, 拓扑, 神经形态
 ## Related Concepts
 
 [[Brain_Connectome]]
+[[Connectome]]
+[[Criticality]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SOC]]

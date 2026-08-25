@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[Temporal_Dynamics_Integration]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]

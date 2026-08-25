@@ -23,12 +23,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAsComputation]]
 [[HeterogeneousChipletIntegration]]
+[[Heterogeneous_Integration]]
 [[InterconnectAwarePartitioning]]
 [[LargeScalePhotonicIntegration]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[Switchless_Computing]]
 [[TCC]]
+[[ThreeLayerArchitecture]]
 [[Wafer_Scale_Integration]]
 
 ## Sources

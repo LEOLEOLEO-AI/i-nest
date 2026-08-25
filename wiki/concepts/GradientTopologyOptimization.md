@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[CST_Intelligence_Emergence]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

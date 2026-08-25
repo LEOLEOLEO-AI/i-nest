@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Based_Architecture]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
@@ -28,6 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_NeuromorphicMapping]]
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
+[[Interconnect_Routing]]
+[[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[SDI_Control_Plane_Offload]]
 [[TCC]]
 [[iNEST]]
 

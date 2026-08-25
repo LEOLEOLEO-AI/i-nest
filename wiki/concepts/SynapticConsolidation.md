@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
-[[Neuromorphic_Spiking_Integration]]
+[[Neuromorphic_Spiking]]
 [[NoiseModulated_SynapticPlasticity]]
+[[Spiking_Mixture_of_Experts]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[connectome]]

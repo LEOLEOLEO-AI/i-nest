@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Topology_Adaptation]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
+[[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnalogDomainCompression]]
+[[AnomalousSpinTransport]]
 [[Avalanche_Dynamics]]
 [[BigBrainCellularAxis]]
-[[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[EdgeOfChaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]

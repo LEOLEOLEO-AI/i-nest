@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- catastrophic forgetting (merged 2026-08-26)
+
+
+## Related Work
+
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[CST_Intelligence_Emergence]]
+[[CST_Theory]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[Synaptic_Plasticity]]
+[[TCC]]
+[[iNEST]]

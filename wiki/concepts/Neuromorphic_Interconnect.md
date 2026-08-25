@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
+[[MoE_Routing]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

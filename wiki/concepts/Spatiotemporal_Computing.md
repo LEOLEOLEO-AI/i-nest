@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[Free_Energy_Principle_Network]]
 [[Interconnect_Routing]]
+[[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]

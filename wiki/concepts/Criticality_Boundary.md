@@ -21,15 +21,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Criticality]]
-[[Criticality_Threshold]]
 [[FormalLinguisticCompetence]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HierarchicalBayesianCommunityDetection]]
+[[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TopologyDrivenCriticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

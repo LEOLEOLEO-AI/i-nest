@@ -40,9 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[ThirdWaveAI]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

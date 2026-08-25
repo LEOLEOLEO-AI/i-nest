@@ -5,7 +5,7 @@
 **Compiled**: 2026-08-23
 
 ## Summary
-title: "A Survey on 3D Gaussian Splatting" authors: ['Guikun Chen', 'Wenguan Wang'] doi: "10.1145/3807511" journal: "ACM Computing Surveys" query: "network topology intelligence emergence scaling"
+title: "A Survey on 3D Gaussian Splatting" authors: ['Guikun Chen', 'Wenguan Wang'] doi: "10.1145/3807511" journal: "ACM Computing Surveys" query: "network topology Intelligence_Emergence scaling"
 
 ## Keywords
 topology
@@ -18,4 +18,3 @@ topology
 
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
-[[intelligence emergence]]

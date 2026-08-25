@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
+[[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[DifferentiableRasterizationPipeline]]
 [[EdgeOfChaos]]

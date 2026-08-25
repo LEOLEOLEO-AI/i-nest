@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Compositional_Continuum]]
+[[ExplosiveCooperationTransition]]
 [[HierarchicalAttention_MIL]]
 [[KV_Cache_To_BoundaryObject]]
 [[Metastable_State_Hierarchy]]

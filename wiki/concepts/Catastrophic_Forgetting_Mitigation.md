@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
-[[Catastrophic_Forgetting]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Contested_Priors_Architecture]]
 [[Criticality]]
@@ -33,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[TwoTimescaleNeuroEvolution]]
+[[catastrophic forgetting]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

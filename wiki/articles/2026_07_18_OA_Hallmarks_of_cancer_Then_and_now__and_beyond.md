@@ -16,6 +16,7 @@ iNEST, interconnect
 
 ## Related Concepts
 
+[[Criticality]]
 [[Self_Organized_Criticality]]
 [[criticality]]
 [[iNEST]]

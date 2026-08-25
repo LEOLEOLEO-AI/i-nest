@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveTimeStepTraining]]
+[[AnisotropicGaussianPrimitives]]
 [[BiasEvaluationMetrics]]
 [[BigBrainCellularAxis]]
 [[BioInspiredLearningRule]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network]]
 [[connectome]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[neuromorphic computing]]
 [[temporalComplexity]]
 

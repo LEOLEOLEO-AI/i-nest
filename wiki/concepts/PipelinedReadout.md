@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedSpikeLearning]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

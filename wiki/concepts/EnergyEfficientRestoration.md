@@ -26,8 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[ContinualLearningOnNeuromorphic]]
 [[ContinuousTimeSNN]]
+[[EventDrivenInference]]
 [[Event_Driven_Architecture]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

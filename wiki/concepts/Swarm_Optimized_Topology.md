@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
+[[MemristiveReservoirBranchPrediction]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
+[[BurstGatedRouting]]
+[[Criticality]]
 [[Intelligence_Emergence]]
 [[MesonSpectra]]
 [[Network_Topology_Design]]

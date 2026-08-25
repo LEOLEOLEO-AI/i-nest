@@ -1,0 +1,91 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-08-25 06:30
+============================================================
+[06:30:01] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:20]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:30:20] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:30:43]   Insight [2/3]: Assessing Triple Modular Redundancy for Wide-Link,...
+[06:30:43]   arXiv skip irrelevant: Security Games on Series-Parallel Attack Graphs with Adaptiv
+[06:30:43]   arXiv skip irrelevant: Transit Searches for Habitable-Zone Exoplanets with Artifici
+[06:30:48]   arXiv skip irrelevant: Sidewall-Poled Nanophotonic Lithium Niobate with Bidirection
+[06:30:48]   arXiv skip irrelevant: To Scale Up or To Scale Out: Evaluating Space-Time Costs of 
+[06:30:48]   跳过重复: HYDRA: A Heterogeneous Chiplet DSE Framework for S... [Title: HYDRA: A Heterogeneous Chiplet DSE Framework for Serving Dynamic Hybrid LLM Work]
+[06:30:54]   arXiv skip irrelevant: AI Infrastructure in Space: How Far Can We Go?
+[06:30:54]   arXiv skip irrelevant: Design and Empirical Evaluation of a Network-Centric, On-Pre
+[06:30:54]   arXiv skip irrelevant: Granthi: Higher-Order Quantum Programming via Unitary Wiring
+[06:31:01]   arXiv skip irrelevant: The Entanglement Content of Quantum Measurement Bases
+[06:31:01]   arXiv skip irrelevant: When More Becomes Less: Topology-Reversed Three-Qubit Gate P
+[06:31:01]   arXiv skip irrelevant: Neural-Primitive: An Efficient End-to-end Local Planner with
+[06:31:06]   arXiv skip irrelevant: Teaching is a Process: The TOSS Framework for Modeling Human
+[06:31:06]   arXiv skip irrelevant: To Scale Up or To Scale Out: Evaluating Space-Time Costs of 
+[06:31:06]   arXiv skip irrelevant: LabDex: A Hierarchical Benchmark for Dexterous Manipulation 
+[06:31:11]   arXiv: batch separator, pausing 10s...
+[06:31:22]   arXiv skip irrelevant: Distributed synthesis of arbitrary graph states in quantum n
+[06:31:22]   arXiv skip irrelevant: Nonlocal correlation in quantum network under relativistic m
+[06:31:22]   arXiv skip irrelevant: Vorticity Dissipation Based Routing: A Fluid-Kinetic Framewo
+[06:31:27]   arXiv skip irrelevant: To Scale Up or To Scale Out: Evaluating Space-Time Costs of 
+[06:31:27]   arXiv skip irrelevant: Secrecy Rate Maximization for UAV-Mounted Six-Dimensional Mo
+[06:31:34]   arXiv skip irrelevant: Quantum annealing through a first-order phase transition: fi
+[06:31:34]   arXiv skip irrelevant: Ultralow-Field Triplon Condensation in a Spin-Ladder Magnet
+[06:31:34]   arXiv skip irrelevant: Basin-Preserving Discretizations of Modern Hopfield Retrieva
+[06:32:02]   Insight [1/3]: Identifying the structure of dynamical transitions...
+[06:32:02]   arXiv skip irrelevant: The Trachenko-Zaccone equation: nonlinear relaxation from gl
+[06:32:02]   arXiv skip irrelevant: Scale Partitioning by Incremental Nested Entropy: A Measure-
+[06:32:08]   arXiv skip irrelevant: STCO: Conditional Neural Operators for Time-Dependent PDEs
+[06:32:08]   arXiv skip irrelevant: USR-Drive: Unified Driving Scene Representation via Joint De
+[06:32:08]   arXiv skip irrelevant: NeuroPath: Brain-Inspired Dual-Pathway Graph Convolutional N
+[06:32:13]   arXiv: batch separator, pausing 10s...
+[06:32:24]   Insight [1/3]: Event-triggered Implicit Perturbation for Zeroth-O...
+[06:32:24]   arXiv skip irrelevant: Planar Nanofluidic Memristors Enabled by Surface Charge Grad
+[06:32:24]   arXiv skip irrelevant: Coulomb blockade-like transport and enhanced memory in organ
+[06:32:30]   arXiv skip irrelevant: ES-VP : Energy-Shaped Dynamic Visual Prompting for Efficient
+[06:32:30]   arXiv skip irrelevant: SlimDiffuSE: Towards Efficient Diffusion-Based Speech Enhanc
+[06:32:30]   arXiv skip irrelevant: Graph Engineering in the Era of LLM Agents: From Individual 
+[06:32:35]   arXiv skip irrelevant: SPICE: Speculative Prefetching with Low-Rank Expert Surrogat
+[06:32:35]   arXiv skip irrelevant: Neuromorphic Infrared Fibre-Optic Event-Based Sensing with F
+[06:32:41]   arXiv skip irrelevant: Metabolic Network Properties: Comprehensive Analysis Across 
+[06:32:41]   arXiv skip irrelevant: LHMCF-Net: A Learned Hyperbolic Mean Curvature Flow Network 
+[06:32:41]   arXiv skip irrelevant: Competing triangular and stripe supersolid orders in a dipol
+[06:32:48]   arXiv skip irrelevant: Aging Phase Diagram and Exact Asymptotic Energies of Mixed S
+[06:32:48]   arXiv skip irrelevant: Architecture and Compilation Co-Design for High-Rate Quantum
+[06:32:48]   arXiv skip irrelevant: HyperCut: Fast Inter-Layer Scheduling via Directed Hypergrap
+[06:32:53]   arXiv: batch separator, pausing 10s...
+[06:33:09]   arXiv skip irrelevant: Free-Probability Kernels for Zero-Rollout Hyperparameter Sel
+[06:33:20]   arXiv skip irrelevant: Low-complexity Soft-decision LLR Calculations for Next-gener
+[06:33:20]   arXiv skip irrelevant: An Emulation Anchored Digital Twin Testbed for Cyberattack a
+[06:33:31]   arXiv: batch separator, pausing 10s...
+[06:33:48] [arXiv] 3 new papers, 0 errors across 21 queries
+[06:33:48] [GN] Google News RSS...
+[06:35:54]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:38:01]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:40:09]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:42:16]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:42:17] [GN] 0 new articles
+
+  Total: 3 new items to inbox
+[06:42:17] [Process] LLM classify (free tier, limit=20)...
+[06:42:39] [Process] Classified: 0
+[06:42:39] [Genspark] Generating research brief...
+[06:42:39] [Genspark] Research brief written: genspark_research_brief.md
+[06:42:39] [Graph] Scanning wiki links...
+[06:44:25] [Graph] 12293 files, 133796 links
+[06:44:55] [Graph] Exported: 12293 nodes, 128461 edges
+[06:44:55] [Graph] 0 missing backlinks
+[06:45:16] [DailyGen] Daily_Action + Focus + Insights generated
+[06:45:17] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+3(arXiv)+0(GN) | Written: 3 new papers
+  Processed: 0 | Nodes: 12293 edges: 128461 | Missing links: 0 | Genspark: OK
+  Elapsed: 915s
+============================================================
+[06:45:17] [State] research_state.json updated
+[06:45:17] [Evolution] Evidence + hypotheses updated
+[06:46:17] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[06:46:18] [Insight] Cross-domain bridges updated
+[06:46:38] [Tasks] Research recommendations updated
+[06:46:38] [Dashboard] Live dashboard published
+[06:46:39] [Homepage] Home.md auto-refreshed

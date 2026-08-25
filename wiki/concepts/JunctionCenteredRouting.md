@@ -24,11 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
 [[Accessibility_Plasticity]]
-[[AdiabaticModeEvolutionCoupler]]
+[[AdaptiveFunctionalTopology]]
+[[AdiabaticModeEvolution]]
 [[AdsorptionBiosorptionHybrid]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

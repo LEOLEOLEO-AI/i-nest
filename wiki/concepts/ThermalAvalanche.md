@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Data_Debiasing_Techniques]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalRelevanceSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

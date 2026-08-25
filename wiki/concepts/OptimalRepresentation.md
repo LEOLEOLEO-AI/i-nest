@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Power_Density_Law]]
 [[QuasiperiodicCriticalPhase]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SOC]]

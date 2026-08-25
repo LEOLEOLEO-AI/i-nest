@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[ConsciousnessEngineeringLoop]]
 [[Contested_Priors_Mechanism]]
+[[CorticalWaveRouting]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]

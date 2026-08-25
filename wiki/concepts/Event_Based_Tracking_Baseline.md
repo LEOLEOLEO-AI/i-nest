@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
+[[BurstSuppressionMechanism]]
 [[CirculateFiringNeuron]]
 [[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]

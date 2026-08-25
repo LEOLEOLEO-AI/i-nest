@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[ComputationEfficientDeepLearning]]
+[[DARPA_ProjectManager_Model]]
+[[EfficientDeepLearning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

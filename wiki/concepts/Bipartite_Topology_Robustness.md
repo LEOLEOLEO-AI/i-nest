@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BeamDomainMLFingerprinting]]
 [[Bipartite_Topology]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

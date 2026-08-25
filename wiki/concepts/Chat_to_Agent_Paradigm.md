@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Closed_Loop_Neuromodulation]]
 [[ContinualLearningOnNeuromorphic]]
+[[Continual_Learning_Modularity]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

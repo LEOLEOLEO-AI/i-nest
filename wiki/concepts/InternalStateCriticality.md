@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Complex_System]]
 [[Complex_System_Theory]]
+[[CriticalFixedPoint]]
 [[Criticality]]
 [[Disorder_Anomaly_Duality]]
 [[Dynamic_Expert_Fusion]]

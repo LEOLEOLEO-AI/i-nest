@@ -21,10 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BurstGatedRouting]]
-[[CriticalityInNetworkComputing]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[Criticality_Feature_Encoding]]
+[[InNetworkComputing]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Self_Organized_Criticality]]

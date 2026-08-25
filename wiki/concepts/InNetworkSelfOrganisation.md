@@ -24,10 +24,12 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[AsymmetricCoupling]]
 [[Biodefense_Threat_Detection_Network]]
-[[Catastrophic_Forgetting]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[CompactLocalizedStates]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[catastrophic forgetting]]
 [[iNEST]]
 [[soc]]
 

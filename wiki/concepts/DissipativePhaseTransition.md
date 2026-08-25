@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_Feedback]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicReconfigurationForFaultTolerance]]
+[[DynamicTopologyMapping]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGABasedNeuromorphic]]

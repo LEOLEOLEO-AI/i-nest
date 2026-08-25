@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_timing_dependent_plasticity]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking neural network]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]

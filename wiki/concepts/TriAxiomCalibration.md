@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[ErrorSuppressedPipeline]]
 [[Hardware_Accelerated_SNN]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Multifractal_Signatures]]
 [[National_Innovation_Center_Role]]

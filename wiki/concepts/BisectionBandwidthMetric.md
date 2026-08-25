@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdiabaticMultimodeBend]]
-[[Advanced_Packaging]]
 [[AnalogDomainCompression]]
 [[BackscatteringImmunity]]
 [[BisectionBandwidthBound]]
@@ -35,11 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[DataMovementMinimization]]
 [[Die_to_Die_Protocol]]
+[[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[ExplainableEnergyAI]]
 [[ITP_STDP]]
 [[InNetworkAgentRewiring]]
 [[In_Context_Learning]]

@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

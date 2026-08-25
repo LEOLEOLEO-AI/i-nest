@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
+[[BiasEvaluationMetrics]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
@@ -43,11 +44,11 @@ Auto-extracted concept from raw material compilation.
 [[OODA_Loop_Breaking]]
 [[Photonic_Chiplet_Interconnect]]
 [[RelocationOverheadModel]]
-[[Scaling_Laws]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Topology_Aware_Resource_Allocation]]
+[[scaling laws]]
 [[神经网络]]
 
 ## Sources

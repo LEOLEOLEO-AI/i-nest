@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[忆阻器]]
+[[智能涌现]]
 [[神经网络]]
 
 ## Sources

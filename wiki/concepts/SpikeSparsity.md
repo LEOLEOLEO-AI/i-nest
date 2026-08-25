@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[ConsciousnessEngineeringLoop]]
+[[CorticalWaveRouting]]
 [[EventCameraActionRecognition]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[SpikeBasedGradientDescent]]

@@ -25,11 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenFunctionalConnectivity]]
 [[FPGA_Accelerated_SNN]]
 [[Inference_Workload_Profiling]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
+[[SNN]]
 [[SelfOrganization]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Interconnect]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

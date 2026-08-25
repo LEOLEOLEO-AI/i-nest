@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
+[[Entangled_Criticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

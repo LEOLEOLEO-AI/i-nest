@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[4H_SiC_SubstrateProcessing]]
 [[ActivityAvalanche]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]

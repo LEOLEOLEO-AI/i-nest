@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
+[[AdaptiveFunctionalTopology]]
 [[DTGA]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
@@ -30,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

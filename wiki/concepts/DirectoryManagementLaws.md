@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CrossbarSNNArchitecture]]
 [[Endocrine_Modulated_Network_State]]
+[[EpidemicThreshold]]
 [[EventDrivenModularArchitecture]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_SNN_Inference]]

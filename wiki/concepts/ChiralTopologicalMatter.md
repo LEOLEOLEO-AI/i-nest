@@ -22,13 +22,18 @@ Auto-extracted concept from raw material compilation.
 
 [[Anisotropic_Correlation_Length]]
 [[CST_Equation]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
+[[Free_Energy_Principle_Network]]
 [[GraphBasedSemanticRouting]]
+[[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoCPlacementRoutingCoDesign]]
 [[Nonreciprocity_Threshold]]
 [[Quantum_Spin_Glass]]
+[[STDP_Plasticity]]
 [[TCC]]
 
 ## Sources

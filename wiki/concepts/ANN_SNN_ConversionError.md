@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalQuantumLearningRule]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_computing_architecture]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

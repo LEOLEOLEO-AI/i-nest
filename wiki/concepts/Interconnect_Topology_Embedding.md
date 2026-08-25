@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[Deep_Network_Architecture_Invariant]]
+[[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]

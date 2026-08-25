@@ -21,13 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CriticalityInducedTopology]]
+[[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenMaterialDesign]]
 [[EndToEndTopologyLearning]]
 [[Generative_Graph_Models]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
 

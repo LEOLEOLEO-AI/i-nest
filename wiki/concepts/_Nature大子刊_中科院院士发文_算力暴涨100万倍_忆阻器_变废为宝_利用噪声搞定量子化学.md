@@ -22,11 +22,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
-[[Connectome_Verification_Protocol]]
+[[Brain_Connectome]]
+[[Connectome]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[_Nature大子刊_脑机接口重大突破_清华吴华强团队打造_忆阻器神经形态解码器_意念控制无人机]]
 [[_Nature子刊_储备池计算不再是_黑盒_Intel与加州伯克利联手打造_原则性_神经形态架构]]
 [[iNEST]]
 [[基于忆阻器的储备池图神经网络_RGNN_离子与电子相互作用高效建模研究]]

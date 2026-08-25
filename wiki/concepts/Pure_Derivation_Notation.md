@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[ArmLocomotorCoordination]]
 [[AstrocyteInspiredRepair]]
+[[BiasEvaluationMetrics]]
 [[CST theory]]
 [[CST_Theory]]
 [[Complex_System]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Topology]]
 [[temporalComplexity]]
 [[神经网络]]
 

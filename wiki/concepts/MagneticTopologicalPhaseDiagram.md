@@ -29,6 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Advanced_Packaging_for_Space]]
 [[AgenticServiceOrchestration]]
+[[BioInspiredGeneralist]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 
 ## Sources

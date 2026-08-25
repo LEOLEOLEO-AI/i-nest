@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[OpticalSynapticWeightUpdate]]
 [[QuantumGateSynthesis]]
 [[RLFlightControl]]
+[[Reconfigurable_Nonlinear_Reservoir]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[TemperatureSensitivityControl]]

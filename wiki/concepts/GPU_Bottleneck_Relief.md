@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[AI_Faculty_Forum_2026]]
 [[AdvancedPackagingInterconnect]]
-[[Advanced_Packaging]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
@@ -40,8 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[OnDie_Fusion]]
 [[Switchless_Computing]]
 [[TCC]]
+[[TopologyAwareTaskScheduling]]
 [[WaferScaleInterconnectAlgebra]]
 [[WaferScaleTopologyCentricComputing]]
+[[advanced packaging]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

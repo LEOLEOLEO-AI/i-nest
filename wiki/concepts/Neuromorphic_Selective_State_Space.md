@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]
+[[MoE_Routing]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Neuromorphic_Integration]]
 [[neuromorphic computing]]
 [[spiking neural network]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

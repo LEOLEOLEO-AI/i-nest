@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[ArchitecturalCondition]]
+[[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]

@@ -5,7 +5,7 @@
 **Compiled**: 2026-08-23
 
 ## Summary
-title: "Computation-efficient deep learning for computer vision: A survey" authors: ['Yulin Wang', 'Yizeng Han', 'Chaofei Wang', 'Shiji Song', 'Qi Tian'] doi: "10.26599/cai.2024.9390002" journal: "Cybernetics and Intelligence" query: "network topology intelligence emergence scaling"
+title: "Computation-efficient deep learning for computer vision: A survey" authors: ['Yulin Wang', 'Yizeng Han', 'Chaofei Wang', 'Shiji Song', 'Qi Tian'] doi: "10.26599/cai.2024.9390002" journal: "Cybernetics and Intelligence" query: "network topology Intelligence_Emergence scaling"
 
 ## Keywords
 topology
@@ -18,4 +18,3 @@ topology
 
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
-[[intelligence emergence]]

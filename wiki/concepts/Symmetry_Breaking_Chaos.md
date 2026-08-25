@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[C_elegansConnectomeAnalogy]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

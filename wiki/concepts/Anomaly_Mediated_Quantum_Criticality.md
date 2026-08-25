@@ -22,10 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AdaptiveEntanglementManagement]]
+[[AgenticServiceManifesto]]
 [[AnalogDomainCompression]]
 [[ArchitecturalCondition]]
 [[AvalancheBranchingRatio]]
 [[Boundary_Criticality]]
+[[BranchingRatio]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]

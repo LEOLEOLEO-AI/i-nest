@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[Heterogeneous_Compute_Graph]]
+[[HierarchicalReservoirDynamics]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[QuantumReservoirMemoryCapacity]]

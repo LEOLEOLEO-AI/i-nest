@@ -28,8 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AINext_Initiative]]
 [[AI_Cluster_Switch_Bottleneck]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[Complex_System_Theory]]
 [[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[Switch_Bottleneck]]
 [[TCC]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

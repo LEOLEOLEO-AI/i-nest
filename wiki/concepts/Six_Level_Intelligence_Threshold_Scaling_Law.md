@@ -13,7 +13,7 @@ auto: true
 **Last updated**: 2026-08-21
 
 ## Definition
-A universal scaling law defining six discrete intelligence thresholds (θ₁=0.5, etc.) that characterize progressive cognitive capabilities in networked computing architectures. Provides a quantitative framework to benchmark and predict intelligence emergence in TCC/iNEST systems, enabling systematic design toward higher cognitive levels.
+A universal scaling law defining six discrete intelligence thresholds (θ₁=0.5, etc.) that characterize progressive cognitive capabilities in networked computing architectures. Provides a quantitative framework to benchmark and predict Intelligence_Emergence in TCC/iNEST systems, enabling systematic design toward higher cognitive levels.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -28,13 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
-[[intelligence emergence]]
 [[神经网络]]
 
 ## Sources

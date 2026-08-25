@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Anomaly_Induced_Quantum_Criticality]]
 [[Anomaly_Protected_Scaling_Law]]
 [[Architectural_Conditioning]]
+[[BayesianConnectivityEstimation]]
 [[Criticality]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

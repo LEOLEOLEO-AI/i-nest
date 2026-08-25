@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_computing_architecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]

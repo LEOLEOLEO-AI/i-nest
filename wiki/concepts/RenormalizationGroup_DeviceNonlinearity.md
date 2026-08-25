@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A theoretical framework applying renormalization group methods to derive universal scaling laws for intelligence emergence from device-level nonlinearities in neuromorphic systems. Provides a mathematical foundation to predict how microscopic device nonlinearities collectively give rise to macroscopic intelligent behavior, bridging device physics and system-level computation.
+A theoretical framework applying renormalization group methods to derive universal scaling laws for Intelligence_Emergence from device-level nonlinearities in neuromorphic systems. Provides a mathematical foundation to predict how microscopic device nonlinearities collectively give rise to macroscopic intelligent behavior, bridging device physics and system-level computation.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -31,17 +31,15 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DeviceLevelNonlinearityScaling]]
 [[Emergent_Intelligence_Threshold]]
+[[HybridMemristorArray]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Memristor_Topology]]
-[[Memristor_Topology_Coupling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
-[[Scaling_Laws]]
 [[Universal_Scaling_Laws]]
-[[intelligence emergence]]
 [[scaling laws]]
 [[universal scaling laws]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
