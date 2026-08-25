@@ -1,208 +1,197 @@
-﻿# -*- coding: utf-8 -*-
-\"\"\"
-灵感引擎模块 - InspirationEngine
-基于新导入论文分析，生成跨方向的研究灵感
-\"\"\"
+# -*- coding: utf-8 -*-
+"""灵感引擎 v3：LLM 分析 + 规则分析兜底
 
-import logging
-import json
+优先 LLM(多级回退)，LLM 不可用时用规则分析：
+  1. 提取文章关键词
+  2. 与假设库关键词匹配(自动打分)
+  3. 与概念图谱交叉引用
+  4. 产出结构化灵感卡片
+"""
+import json, os, re, sys, time
+from datetime import datetime, timedelta
 from pathlib import Path
-from datetime import datetime
-from typing import List, Dict
-from dataclasses import dataclass, field
-from collections import Counter
 
-logger = logging.getLogger('inspiration_engine')
+sys.stdout.reconfigure(encoding="utf-8")
+sys.path.insert(0, str(Path(__file__).parent))
+import llm_client
+
+VAULT = Path(r"D:\Obsidian\vault")
+META = VAULT / "99_Meta"
+OUTPUT_DIR = VAULT / "60_MOC" / "灵感卡片"
+STATE_FILE = META / "inspiration_state.json"
+SCAN_DIRS = [VAULT / "30_TCC", VAULT / "40_iNEST"]
+LOOKBACK_DAYS = 5
+MAX_PER_RUN = 8
+
+# 规则分析用关键词库（TCC × iNEST 领域词）
+TCC_KEYWORDS = ["chiplet", "noC", "interconnect", "wafer", "3d", "topology",
+                "routing", "torus", "mesh", "photonic", "sdi", "tsv", "memory wall",
+                "cache", "reconfig", "scalab", "bandwidth", "latency", "packaging",
+                "cxl", "chip", "architecture"]
+INEST_KEYWORDS = ["neuromorphic", "spike", "snn", "plasticity", "stdp", "synapse",
+                  "memristor", "emergence", "critical", "reservoir", "brain",
+                  "cortex", "neuron", "connectome", "learning", "attention",
+                  "hebbian", "oscillat", "chaos", "consciousness", "cognition"]
 
 
-@dataclass
-class Insight:
-    title: str
-    description: str
-    source_directions: List[str]
-    source_papers: List[str]
-    category: str  # theory, method, application, patent, engineering
-    priority: str  # high, medium, low
-    confidence: float = 0.0
-    ideas: List[str] = field(default_factory=list)
+def load_state():
+    try:
+        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+    except:
+        return {"analyzed": {}}
 
-    def to_dict(self):
-        return {
-            'title': self.title,
-            'description': self.description,
-            'source_directions': self.source_directions,
-            'source_papers': self.source_papers,
-            'category': self.category,
-            'priority': self.priority,
-            'confidence': self.confidence,
-            'ideas': self.ideas,
+
+def save_state(state):
+    STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def get_hypotheses():
+    try:
+        d = json.loads((META / "hypothesis_registry.json").read_text(encoding="utf-8"))
+        return d.get("hypotheses", [])
+    except:
+        return []
+
+
+def llm_analyze(filepath, hyps):
+    """LLM 深度分析（多级回退）"""
+    txt = filepath.read_text(encoding="utf-8", errors="ignore")[:3000]
+    hyp_summary = "\n".join(f"- {h['id']}: {h['title']}" for h in hyps)
+    prompt = (
+        "你是TCC(拓扑中心计算)×iNEST(涌现智能)研究助手。分析以下笔记产出灵感卡片。\n\n"
+        "## 研究假设库:\n" + hyp_summary + "\n\n"
+        "## 文章:\n" + txt + "\n\n"
+        "## 严格返回JSON(无多余文本):\n"
+        '{"core_insight":"最核心洞察(50字内)","relevance":"最相关假设ID+理由",'
+        '"new_idea":"新研究想法(80字内)","action":"下一步行动(30字内)",'
+        '"tags":["标签"],"connects_to":["概念"]}'
+    )
+    result = llm_client.call(prompt)
+    if not result:
+        return None
+    try:
+        m = re.search(r'\{.*\}', result, re.DOTALL)
+        if m:
+            return json.loads(m.group())
+    except:
+        pass
+    return {"core_insight": result[:200], "relevance": "", "new_idea": "",
+            "action": "", "tags": [], "connects_to": []}
+
+
+def rule_analyze(filepath, hyps):
+    """规则分析兜底（无LLM时）"""
+    txt = filepath.read_text(encoding="utf-8", errors="ignore")
+    low = txt.lower()
+
+    tcc_hits = [k for k in TCC_KEYWORDS if k in low]
+    inest_hits = [k for k in INEST_KEYWORDS if k in low]
+
+    # 匹配假设
+    best_hyp, best_score = None, 0
+    for h in hyps:
+        title = h.get("title", "").lower()
+        score = sum(1 for k in tcc_hits[:5] + inest_hits[:5] if k in title)
+        if score > best_score:
+            best_score, best_hyp = score, h.get("id")
+
+    # 方向判定
+    direction = "TCC×iNEST" if tcc_hits and inest_hits else ("TCC" if tcc_hits else ("iNEST" if inest_hits else "通用"))
+
+    return {
+        "core_insight": f"文章涉及 {direction} 方向"
+                        f"（{'、'.join(tcc_hits[:3])} × {'、'.join(inest_hits[:3])}）",
+        "relevance": f"{best_hyp}: 关键词重叠{best_score}个" if best_hyp else "暂无直接假设关联",
+        "new_idea": "",
+        "action": "人工审阅这篇文章，判断是否值得深入",
+        "tags": tcc_hits[:3] + inest_hits[:3],
+        "connects_to": list(set(tcc_hits[:3] + inest_hits[:3])),
+    }
+
+
+def write_card(filepath, analysis, used_llm):
+    stem = filepath.stem[:50]
+    card = []
+    card.append("---")
+    card.append(f"title: 灵感·{stem}")
+    card.append(f'source: "[[{filepath.stem}]]"')
+    card.append(f"date: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    card.append("type: inspiration-card")
+    card.append(f"method: {'llm' if used_llm else 'rule'}")
+    card.append("---")
+    card.append("")
+    card.append(f"# {analysis.get('core_insight', '-')}")
+    card.append("")
+    if analysis.get("relevance"):
+        card.append(f"**关联**: {analysis['relevance']}")
+        card.append("")
+    if analysis.get("new_idea"):
+        card.append(f"> **新想法**: {analysis['new_idea']}")
+        card.append("")
+    if analysis.get("action"):
+        card.append(f"**下一步**: [ ] {analysis['action']}")
+        card.append("")
+    tags = analysis.get("tags") or analysis.get("connects_to") or []
+    if tags:
+        card.append("**标签**: " + " | ".join(f"[[{t}]]" for t in tags[:6]))
+    card.append("")
+    card.append("---")
+    card.append(f"*来源: [[{filepath.stem}]] | {'LLM分析' if used_llm else '规则分析(LLM不可用)'}*")
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    outfile = OUTPUT_DIR / f"{datetime.now().strftime('%Y%m%d')}_{stem}.md"
+    outfile.write_text("\n".join(card), encoding="utf-8")
+    return outfile
+
+
+def main():
+    state = load_state()
+    hyps = get_hypotheses()
+    cutoff = datetime.now() - timedelta(days=LOOKBACK_DAYS)
+
+    candidates = []
+    for scan_dir in SCAN_DIRS:
+        if not scan_dir.exists():
+            continue
+        for f in sorted(scan_dir.rglob("*.md"), key=lambda x: x.stat().st_mtime, reverse=True):
+            rel = str(f.relative_to(VAULT))
+            if rel in state.get("analyzed", {}):
+                continue
+            if datetime.fromtimestamp(f.stat().st_mtime) < cutoff:
+                continue
+            if f.stat().st_size < 200:
+                continue
+            candidates.append(f)
+            if len(candidates) >= MAX_PER_RUN:
+                break
+        if len(candidates) >= MAX_PER_RUN:
+            break
+
+    if not candidates:
+        print("[inspiration_engine] 无新文章")
+        return
+
+    print(f"[inspiration_engine] {len(candidates)} 篇待分析")
+    analyzed = 0
+    for f in candidates:
+        rel = str(f.relative_to(VAULT))
+        result = llm_analyze(f, hyps)
+        used_llm = result is not None
+        if not result:
+            result = rule_analyze(f, hyps)
+        card = write_card(f, result, used_llm)
+        state.setdefault("analyzed", {})[rel] = {
+            "date": datetime.now().isoformat(), "card": card.name,
+            "method": "llm" if used_llm else "rule",
         }
+        analyzed += 1
+        print(f"  {'🟢LLM' if used_llm else '🟡规则'} {f.name[:40]} -> {card.name}")
+        time.sleep(0.5)
+
+    save_state(state)
+    print(f"[inspiration_engine] 完成 {analyzed} 篇")
 
 
-class InspirationEngine:
-    def __init__(self, config):
-        self.config = config
-        self.base_dir = Path(__file__).parent.parent
-        self.inspiration_dir = self.base_dir / 'inspiration_engine'
-        self.inspiration_dir.mkdir(parents=True, exist_ok=True)
-
-    def generate_all(self):
-        logger.info('开始生成研究灵感...')
-
-        papers_tcc = self._load_papers('TCC')
-        papers_inest = self._load_papers('iNEST')
-
-        insights = []
-
-        # 跨方向灵感
-        cross_insights = self._generate_cross_direction(papers_tcc, papers_inest)
-        insights.extend(cross_insights)
-
-        # 方向内深化灵感
-        tcc_insights = self._generate_deepening_insights(papers_tcc, 'TCC')
-        insights.extend(tcc_insights)
-
-        inest_insights = self._generate_deepening_insights(papers_inest, 'iNEST')
-        insights.extend(inest_insights)
-
-        # 保存
-        self._save_insights(insights)
-        logger.info(f'灵感生成完成: {len(insights)} 条灵感')
-
-    def _load_papers(self, direction: str) -> List[Dict]:
-        papers = []
-        papers_dir = self.base_dir / 'papers' / direction
-        if not papers_dir.exists():
-            return papers
-
-        index_file = papers_dir / 'index.json'
-        if index_file.exists():
-            with open(index_file, 'r', encoding='utf-8') as f:
-                index = json.load(f)
-                for paper in index.get('papers', []):
-                    paper['direction'] = direction
-                    papers.append(paper)
-
-        return papers
-
-    def _generate_cross_direction(self, papers_tcc: List[Dict], papers_inest: List[Dict]) -> List[Insight]:
-        insights = []
-
-        # 找出 TCC 和 iNEST 论文中的共同关键词
-        tcc_kw = set()
-        for p in papers_tcc:
-            tcc_kw.update(kw.lower() for kw in p.get('keywords', []))
-
-        inest_kw = set()
-        for p in papers_inest:
-            inest_kw.update(kw.lower() for kw in p.get('keywords', []))
-
-        common = tcc_kw & inest_kw
-        if common:
-            insights.append(Insight(
-                title=f'跨方向融合: {", ".join(list(common)[:5])}',
-                description='TCC 和 iNEST 方向存在共同关注点，建议探索交叉研究',
-                source_directions=['TCC', 'iNEST'],
-                source_papers=[p['title'] for p in (papers_tcc[:3] + papers_inest[:3])],
-                category='theory',
-                priority='high',
-                confidence=0.8,
-                ideas=[
-                    f'将 TCC 的 {", ".join(list(common)[:3])} 应用于 iNEST 的网络拓扑优化',
-                    '探索双向标签系统在跨方向知识检索中的价值',
-                    '设计统一的跨方向知识表示方法',
-                ],
-            ))
-
-        # 论文互引关系
-        if papers_tcc and papers_inest:
-            insights.append(Insight(
-                title='TCC-iNEST 跨方向互引分析',
-                description='两个方向已有论文存在潜在互引关系，可构建跨方向知识图谱',
-                source_directions=['TCC', 'iNEST'],
-                source_papers=[papers_tcc[0]['title']] if papers_tcc else [],
-                category='method',
-                priority='medium',
-                confidence=0.6,
-                ideas=[
-                    '构建跨方向引文网络',
-                    '分析 TCC 方法在 iNEST 中的迁移性',
-                ],
-            ))
-
-        return insights
-
-    def _generate_deepening_insights(self, papers: List[Dict], direction: str) -> List[Insight]:
-        insights = []
-
-        if len(papers) < 2:
-            return insights
-
-        # 发现趋势
-        kw_counter = Counter()
-        for p in papers:
-            for kw in p.get('keywords', []):
-                kw_counter[kw.lower()] += 1
-
-        trending = kw_counter.most_common(3)
-        if trending:
-            insights.append(Insight(
-                title=f'{direction} 方向热点趋势',
-                description=f'基于最新论文分析，{direction} 方向最热门的研究方向: {", ".join([kw for kw, _ in trending])}',
-                source_directions=[direction],
-                source_papers=[p['title'] for p in papers],
-                category='theory',
-                priority='high',
-                confidence=0.9,
-                ideas=[f'围绕 "{kw}" 展开深入研究' for kw, _ in trending],
-            ))
-
-        # 方法交叉灵感
-        method_papers = [p for p in papers if 'method' in p.get('abstract', '').lower() or 'approach' in p.get('abstract', '').lower()]
-        if len(method_papers) >= 2:
-            insights.append(Insight(
-                title=f'{direction} 方法融合',
-                description='发现多个论文提出了不同方法，可以尝试融合创新',
-                source_directions=[direction],
-                source_papers=[p['title'] for p in method_papers],
-                category='method',
-                priority='medium',
-                confidence=0.7,
-                ideas=['方法A + 方法B = 新方法C', '对比实验设计', '消融实验方案'],
-            ))
-
-        return insights
-
-    def _save_insights(self, insights: List[Insight]):
-        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-        insights_file = self.inspiration_dir / f'insights_{timestamp}.json'
-
-        data = {
-            'generated_at': datetime.now().isoformat(),
-            'total': len(insights),
-            'insights': [i.to_dict() for i in insights],
-        }
-
-        with open(insights_file, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-
-        # 更新灵感索引
-        index_file = self.inspiration_dir / 'index.json'
-        all_insights = []
-        if index_file.exists():
-            with open(index_file, 'r', encoding='utf-8') as f:
-                idx = json.load(f)
-                all_insights = idx.get('insights', [])
-
-        all_insights.extend([i.to_dict() for i in insights])
-        index_file.write_text(
-            json.dumps({'insights': all_insights, 'updated_at': datetime.now().isoformat()}, ensure_ascii=False, indent=2),
-            encoding='utf-8'
-        )
-
-    def list_insights(self) -> List[Dict]:
-        index_file = self.inspiration_dir / 'index.json'
-        if not index_file.exists():
-            return []
-        with open(index_file, 'r', encoding='utf-8') as f:
-            return json.load(f).get('insights', [])
+if __name__ == "__main__":
+    main()

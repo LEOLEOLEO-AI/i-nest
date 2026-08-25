@@ -321,6 +321,8 @@ def step_phase4():
         "research_evolution": ("research_evolution.py", 180),
         "cross_domain_insight": ("cross_domain_insight.py", 180),
         "hypothesis_engine": ("hypothesis_engine.py", 60),
+        "inspiration_engine": ("inspiration_engine.py", 120),
+        "patent_scout": ("patent_scout.py", 60),
     }
     results = {}
     for name, (rel, to) in steps.items():
