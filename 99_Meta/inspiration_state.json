@@ -1,45 +1,5 @@
 {
   "analyzed": {
-    "30_TCC\\31_Theory\\US_Science_New_Golden_Age_Report_Analysis.md": {
-      "date": "2026-08-25T22:13:07.737621",
-      "error": true
-    },
-    "30_TCC\\34_Projects\\proposal_software_defined_chiplet_system_phase2_strategic_projects.md": {
-      "date": "2026-08-25T22:13:08.803917",
-      "error": true
-    },
-    "30_TCC\\32_Technology\\Xiaomi_Xuanjie_chip_analysis.md": {
-      "date": "2026-08-25T22:13:09.826678",
-      "error": true
-    },
-    "30_TCC\\33_Engineering\\Chiplet_II_Software_Defined_Topology_Strategy.md": {
-      "date": "2026-08-25T22:13:10.851891",
-      "error": true
-    },
-    "30_TCC\\32_Technology\\SIGCOMM2026_KVCache_Network_Research_Analysis.md": {
-      "date": "2026-08-25T22:13:11.883081",
-      "error": true
-    },
-    "30_TCC\\33_Engineering\\AI_PPT_Plus_Five_Step_Workflow_Methodology.md": {
-      "date": "2026-08-25T22:13:12.899254",
-      "error": true
-    },
-    "30_TCC\\31_Theory\\涌现现象：复杂系统的神奇力量_-_科普教育_-_上海市非线性科学研究会.md": {
-      "date": "2026-08-25T22:13:13.917915",
-      "error": true
-    },
-    "30_TCC\\31_Theory\\CST理论.md": {
-      "date": "2026-08-25T22:13:14.934404",
-      "error": true
-    },
-    "30_TCC\\32_Technology\\MTIA300_communication_offloading_TCC_insights.md": {
-      "date": "2026-08-25T22:13:15.947638",
-      "error": true
-    },
-    "30_TCC\\31_Theory\\AIBuildAI_Science_Agent_NatureBench_Analysis.md": {
-      "date": "2026-08-25T22:13:16.959319",
-      "error": true
-    },
     "30_TCC\\31_Theory\\combinatoriality_continuum_neural_modules_insight.md": {
       "date": "2026-08-25T22:24:25.783338",
       "card": "20260825_combinatoriality_continuum_neural_modules_insight.md",
@@ -79,6 +39,43 @@
       "date": "2026-08-25T22:24:29.536690",
       "card": "20260825_CAE_Info_Division_15th_FYP_Strategic_Projects_Kick.md",
       "method": "rule"
+    },
+    "30_TCC\\31_Theory\\Topological_Trouble_Transformers_Recurrent_Architecture_Analysis.md": {
+      "date": "2026-08-25T22:28:12.378315",
+      "card": "20260825_Topological_Trouble_Transformers_Recurrent_Archite.md",
+      "method": "llm"
+    },
+    "30_TCC\\32_Technology\\Cerebras_CS4_wafer_scale_AI_accelerator_analysis.md": {
+      "date": "2026-08-25T22:28:59.797297",
+      "card": "20260825_Cerebras_CS4_wafer_scale_AI_accelerator_analysis.md",
+      "method": "llm"
+    },
+    "30_TCC\\31_Theory\\US_Science_New_Golden_Age_Report_Analysis.md": {
+      "date": "2026-08-25T22:29:50.520009",
+      "error": true
+    },
+    "30_TCC\\34_Projects\\proposal_software_defined_chiplet_system_phase2_strategic_projects.md": {
+      "date": "2026-08-25T22:30:03.025689",
+      "card": "20260825_proposal_software_defined_chiplet_system_phase2_st.md",
+      "method": "llm"
+    },
+    "30_TCC\\32_Technology\\Xiaomi_Xuanjie_chip_analysis.md": {
+      "date": "2026-08-25T22:30:31.024238",
+      "card": "20260825_Xiaomi_Xuanjie_chip_analysis.md",
+      "method": "llm"
+    },
+    "30_TCC\\33_Engineering\\Chiplet_II_Software_Defined_Topology_Strategy.md": {
+      "date": "2026-08-25T22:30:47.415673",
+      "card": "20260825_Chiplet_II_Software_Defined_Topology_Strategy.md",
+      "method": "llm"
+    },
+    "30_TCC\\32_Technology\\SIGCOMM2026_KVCache_Network_Research_Analysis.md": {
+      "date": "2026-08-25T22:31:04.406943",
+      "error": true
+    },
+    "30_TCC\\33_Engineering\\AI_PPT_Plus_Five_Step_Workflow_Methodology.md": {
+      "date": "2026-08-25T22:32:07.925405",
+      "error": true
     }
   }
 }

@@ -1,11 +1,10 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""灵感引擎 v3：LLM 分析 + 规则分析兜底
+"""灵感引擎 v4 — 纯 LLM 深度分析（无规则兜底）
 
-优先 LLM(多级回退)，LLM 不可用时用规则分析：
-  1. 提取文章关键词
-  2. 与假设库关键词匹配(自动打分)
-  3. 与概念图谱交叉引用
-  4. 产出结构化灵感卡片
+每天对最近文章做 LLM 深度分析:
+  核心洞察 / 假设关联 / 新研究想法 / 下一步行动 / 概念关联
+LLM 不可用时明确报错（不降级为关键词规则）。
 """
 import json, os, re, sys, time
 from datetime import datetime, timedelta
@@ -21,17 +20,7 @@ OUTPUT_DIR = VAULT / "60_MOC" / "灵感卡片"
 STATE_FILE = META / "inspiration_state.json"
 SCAN_DIRS = [VAULT / "30_TCC", VAULT / "40_iNEST"]
 LOOKBACK_DAYS = 5
-MAX_PER_RUN = 8
-
-# 规则分析用关键词库（TCC × iNEST 领域词）
-TCC_KEYWORDS = ["chiplet", "noC", "interconnect", "wafer", "3d", "topology",
-                "routing", "torus", "mesh", "photonic", "sdi", "tsv", "memory wall",
-                "cache", "reconfig", "scalab", "bandwidth", "latency", "packaging",
-                "cxl", "chip", "architecture"]
-INEST_KEYWORDS = ["neuromorphic", "spike", "snn", "plasticity", "stdp", "synapse",
-                  "memristor", "emergence", "critical", "reservoir", "brain",
-                  "cortex", "neuron", "connectome", "learning", "attention",
-                  "hebbian", "oscillat", "chaos", "consciousness", "cognition"]
+MAX_PER_RUN = 6
 
 
 def load_state():
@@ -54,63 +43,31 @@ def get_hypotheses():
         return []
 
 
-def llm_analyze(filepath, hyps):
-    """LLM 深度分析（多级回退）"""
-    txt = filepath.read_text(encoding="utf-8", errors="ignore")[:3000]
-    hyp_summary = "\n".join(f"- {h['id']}: {h['title']}" for h in hyps)
-    prompt = (
-        "你是TCC(拓扑中心计算)×iNEST(涌现智能)研究助手。分析以下笔记产出灵感卡片。\n\n"
-        "## 研究假设库:\n" + hyp_summary + "\n\n"
-        "## 文章:\n" + txt + "\n\n"
-        "## 严格返回JSON(无多余文本):\n"
-        '{"core_insight":"最核心洞察(50字内)","relevance":"最相关假设ID+理由",'
-        '"new_idea":"新研究想法(80字内)","action":"下一步行动(30字内)",'
-        '"tags":["标签"],"connects_to":["概念"]}'
+def analyze_article(filepath, hyps):
+    """LLM 深度分析，返回 dict 或 None(失败)"""
+    txt = filepath.read_text(encoding="utf-8", errors="ignore")[:4000]
+    hyp_summary = "\n".join(
+        f"- {h['id']}: {h['title']} [{h['status']}]" for h in hyps
     )
-    result = llm_client.call(prompt)
-    if not result:
-        return None
-    try:
-        m = re.search(r'\{.*\}', result, re.DOTALL)
-        if m:
-            return json.loads(m.group())
-    except:
-        pass
-    return {"core_insight": result[:200], "relevance": "", "new_idea": "",
-            "action": "", "tags": [], "connects_to": []}
+    prompt = (
+        "你是TCC(拓扑中心计算)×iNEST(涌现智能)的科研助手，用户正在这两个方向做研究。\n"
+        "请深度分析以下研究笔记，给出真正有用的研究洞察，不要泛泛而谈。\n\n"
+        "## 用户的研究假设库:\n" + hyp_summary + "\n\n"
+        "## 待分析的文章:\n" + txt + "\n\n"
+        "## 严格返回JSON(不要任何多余文本):\n"
+        '{\n'
+        '  "core_insight": "这篇文章最核心的一个洞察，必须具体(80字内)",\n'
+        '  "relevance": "与哪个假设最相关？给出假设ID并说明理由(60字内)",\n'
+        '  "new_idea": "基于这篇文章，你能想到什么具体的、可执行的创新点或实验设计？(100字内)",\n'
+        '  "action": "下一步具体行动(一条可执行的task，40字内)",\n'
+        '  "tags": ["3-5个标签"],\n'
+        '  "connects_to": ["2-4个相关wiki概念"]\n'
+        '}'
+    )
+    return llm_client.call_json(prompt, max_tokens=1200)
 
 
-def rule_analyze(filepath, hyps):
-    """规则分析兜底（无LLM时）"""
-    txt = filepath.read_text(encoding="utf-8", errors="ignore")
-    low = txt.lower()
-
-    tcc_hits = [k for k in TCC_KEYWORDS if k in low]
-    inest_hits = [k for k in INEST_KEYWORDS if k in low]
-
-    # 匹配假设
-    best_hyp, best_score = None, 0
-    for h in hyps:
-        title = h.get("title", "").lower()
-        score = sum(1 for k in tcc_hits[:5] + inest_hits[:5] if k in title)
-        if score > best_score:
-            best_score, best_hyp = score, h.get("id")
-
-    # 方向判定
-    direction = "TCC×iNEST" if tcc_hits and inest_hits else ("TCC" if tcc_hits else ("iNEST" if inest_hits else "通用"))
-
-    return {
-        "core_insight": f"文章涉及 {direction} 方向"
-                        f"（{'、'.join(tcc_hits[:3])} × {'、'.join(inest_hits[:3])}）",
-        "relevance": f"{best_hyp}: 关键词重叠{best_score}个" if best_hyp else "暂无直接假设关联",
-        "new_idea": "",
-        "action": "人工审阅这篇文章，判断是否值得深入",
-        "tags": tcc_hits[:3] + inest_hits[:3],
-        "connects_to": list(set(tcc_hits[:3] + inest_hits[:3])),
-    }
-
-
-def write_card(filepath, analysis, used_llm):
+def write_card(filepath, analysis):
     stem = filepath.stem[:50]
     card = []
     card.append("---")
@@ -118,26 +75,26 @@ def write_card(filepath, analysis, used_llm):
     card.append(f'source: "[[{filepath.stem}]]"')
     card.append(f"date: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     card.append("type: inspiration-card")
-    card.append(f"method: {'llm' if used_llm else 'rule'}")
+    card.append("method: llm")
     card.append("---")
     card.append("")
     card.append(f"# {analysis.get('core_insight', '-')}")
     card.append("")
     if analysis.get("relevance"):
-        card.append(f"**关联**: {analysis['relevance']}")
+        card.append(f"**假设关联**: {analysis['relevance']}")
         card.append("")
     if analysis.get("new_idea"):
-        card.append(f"> **新想法**: {analysis['new_idea']}")
+        card.append(f"> **创新点**: {analysis['new_idea']}")
         card.append("")
     if analysis.get("action"):
         card.append(f"**下一步**: [ ] {analysis['action']}")
         card.append("")
-    tags = analysis.get("tags") or analysis.get("connects_to") or []
+    tags = analysis.get("tags") or []
     if tags:
-        card.append("**标签**: " + " | ".join(f"[[{t}]]" for t in tags[:6]))
-    card.append("")
+        card.append("**标签**: " + " · ".join(f"[[{t}]]" for t in tags[:6]))
+        card.append("")
     card.append("---")
-    card.append(f"*来源: [[{filepath.stem}]] | {'LLM分析' if used_llm else '规则分析(LLM不可用)'}*")
+    card.append(f"*来源: [[{filepath.stem}]] | LLM 深度分析*")
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     outfile = OUTPUT_DIR / f"{datetime.now().strftime('%Y%m%d')}_{stem}.md"
@@ -169,28 +126,34 @@ def main():
             break
 
     if not candidates:
-        print("[inspiration_engine] 无新文章")
+        print("[inspiration_engine] 无新文章需要分析")
         return
 
     print(f"[inspiration_engine] {len(candidates)} 篇待分析")
-    analyzed = 0
+
+    ok = 0
+    fail = 0
     for f in candidates:
         rel = str(f.relative_to(VAULT))
-        result = llm_analyze(f, hyps)
-        used_llm = result is not None
-        if not result:
-            result = rule_analyze(f, hyps)
-        card = write_card(f, result, used_llm)
+        print(f"  分析: {f.name[:45]}...", flush=True)
+        analysis = analyze_article(f, hyps)
+        if not analysis or "core_insight" not in analysis:
+            print(f"    ❌ LLM分析失败, 跳过 (LLM不可用或返回异常)")
+            state.setdefault("analyzed", {})[rel] = {"date": datetime.now().isoformat(), "error": True}
+            fail += 1
+            continue
+        card = write_card(f, analysis)
         state.setdefault("analyzed", {})[rel] = {
-            "date": datetime.now().isoformat(), "card": card.name,
-            "method": "llm" if used_llm else "rule",
+            "date": datetime.now().isoformat(), "card": card.name, "method": "llm",
         }
-        analyzed += 1
-        print(f"  {'🟢LLM' if used_llm else '🟡规则'} {f.name[:40]} -> {card.name}")
-        time.sleep(0.5)
+        print(f"    ✅ {card.name}")
+        ok += 1
+        time.sleep(1)
 
     save_state(state)
-    print(f"[inspiration_engine] 完成 {analyzed} 篇")
+    print(f"[inspiration_engine] 完成: {ok} 成功 / {fail} 失败")
+    if fail and ok == 0:
+        print("  ⚠️ 全部失败: 检查 LLM 连接 (llm_client.py 自测: python llm_client.py)")
 
 
 if __name__ == "__main__":
