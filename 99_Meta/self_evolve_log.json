@@ -4127,5 +4127,313 @@
       "push 失败, 尝试 pull --no-rebase 后重推: error: src refspec main does not match any\nerror: failed to push some refs to 'github.com:LEOLEOLEO-AI/i-nest.git'\n",
       "⚠️ 重推仍失败: error: src refspec main does not match any\nerror: failed to push some refs to 'github.com:LEOLEOLEO-AI/i-nest.git'\n"
     ]
+  },
+  {
+    "date": "2026-08-25",
+    "time": "2026-08-25T03:01:18.014988",
+    "steps": {
+      "compile": false,
+      "grow": true,
+      "health": {
+        "date": "2026-08-25",
+        "total_notes": 11066,
+        "missing_frontmatter": 929,
+        "broken_links": 3936,
+        "broken_samples": [
+          [
+            "temporalComplexity",
+            283
+          ],
+          [
+            "Neuromorphic_computing",
+            192
+          ],
+          [
+            "soc",
+            184
+          ],
+          [
+            "criticality",
+            158
+          ],
+          [
+            "inest",
+            85
+          ],
+          [
+            "Spiking_neural_network",
+            56
+          ],
+          [
+            "tcc",
+            54
+          ],
+          [
+            "connectome",
+            40
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_",
+            34
+          ],
+          [
+            "heterogeneous_integration",
+            28
+          ],
+          [
+            "Spike_timing_dependent_plasticity",
+            27
+          ],
+          [
+            "advanced packaging",
+            24
+          ],
+          [
+            "heterogeneous integration",
+            21
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查",
+            19
+          ],
+          [
+            "catastrophic forgetting",
+            19
+          ],
+          [
+            "GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述",
+            18
+          ],
+          [
+            "tools",
+            18
+          ],
+          [
+            "memristor device",
+            17
+          ],
+          [
+            "intelligence emergence",
+            16
+          ],
+          [
+            "scaling laws",
+            16
+          ],
+          [
+            "The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025",
+            15
+          ],
+          [
+            "reservoir computing architecture",
+            15
+          ],
+          [
+            "neuromorphic spiking",
+            15
+          ],
+          [
+            "GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_",
+            14
+          ],
+          [
+            "GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景",
+            14
+          ]
+        ],
+        "orphan_notes": 2583
+      },
+      "grow_concepts": [],
+      "phase4": {
+        "import_processor": true,
+        "task_recommender": true,
+        "research_evolution": true,
+        "cross_domain_insight": true,
+        "hypothesis_engine": true
+      },
+      "homepage": true,
+      "dashboard": true,
+      "git": false
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=1 | rrors) as f:\n  File \"C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pathlib.py\", line 1119, in open\n    return self._accessor.open(self, mode, buffering, encoding, errors,\nFileNotFoundError: [Errno 2] No such file or directory: 'D:\\\\Obsidian\\\\vault\\\\wiki\\\\concepts\\\\reservoir computing.md'\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | piling regexes...\n  regexes ready: 5045 phrases + 5067 slugs\n  union regex built (5067 concepts)\n  linking concepts...\n  shared-term linking...\n  linking articles...\n  concepts now: 5067 | linked: 5062 | orphans: 2765\n  index/backlinks/health refreshed.\n[03:08:21] wiki_grow done — orphans 2765/5067\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 11066 | 真正断链 3936 | 孤儿 2583 | 缺FM 929 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "无新的缺失概念需补全(或已达上限/已有)。",
+      "运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...",
+      "import_processor 退出码=0 | Genspark=0, 得到大脑=0, Codex=0\n[03:09:22] Total new files in raw/: 0\n[03:09:22] Inbox pending: 6 files\n[03:09:22] New imports detected — wiki_compiler.py should be triggered next\n[03:09:22] === Done ===\n",
+      "task_recommender 退出码=0 | sights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n[03:09:49] === Done ===\n",
+      "research_evolution 退出码=0 | [03:09:49] === Research Evolution Engine ===\n[03:09:49] Hypothesis updates: 0\n[03:09:50] Research directions: 0\n[03:09:50] Report: wiki/evolution_report.md\n[03:09:50] === Done ===\n",
+      "cross_domain_insight 退出码=0 | _Integration\n       iNEST: Electrolyte_Bonding_Engineering, FeFET_Polarization_Switching, FerroelectricSynapticArray\n\nCross-domain articles: 0\n\nReport: D:\\Obsidian\\vault\\wiki\\cross_domain_insights.md\n",
+      "hypothesis_engine 退出码=0 | [hypothesis_engine] 无新假设需添加\n",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [03:09:51] === Homepage Generator ===\n[03:09:51] 70_Dashboard/data.js generated\n[03:09:51] Home.md generated (5677 chars)\n[03:09:51] === Done ===\n",
+      "research_dashboard 退出码=0",
+      "git add 部分目录无匹配(正常): fatal: Unable to create 'D:/Obsidian/vault/.git/index.lock': File exists.\n\nAnother git process seems",
+      "⚠️ git 步骤失败: Command '['git', 'commit', '-q', '-m', 'chore(self-evolve): 每日自生长 2026-08-25 — 概念图谱/交叉链接/门户刷新 (5638 文件)']' returned non-zero exit status 128."
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "time": "2026-08-25T03:00:01.417914",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-25",
+        "total_notes": 11066,
+        "missing_frontmatter": 929,
+        "broken_links": 3936,
+        "broken_samples": [
+          [
+            "temporalComplexity",
+            283
+          ],
+          [
+            "Neuromorphic_computing",
+            192
+          ],
+          [
+            "soc",
+            184
+          ],
+          [
+            "criticality",
+            158
+          ],
+          [
+            "inest",
+            85
+          ],
+          [
+            "Spiking_neural_network",
+            56
+          ],
+          [
+            "tcc",
+            54
+          ],
+          [
+            "connectome",
+            40
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_",
+            34
+          ],
+          [
+            "heterogeneous_integration",
+            28
+          ],
+          [
+            "Spike_timing_dependent_plasticity",
+            27
+          ],
+          [
+            "advanced packaging",
+            24
+          ],
+          [
+            "heterogeneous integration",
+            21
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查",
+            19
+          ],
+          [
+            "catastrophic forgetting",
+            19
+          ],
+          [
+            "GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述",
+            18
+          ],
+          [
+            "tools",
+            18
+          ],
+          [
+            "memristor device",
+            17
+          ],
+          [
+            "intelligence emergence",
+            16
+          ],
+          [
+            "scaling laws",
+            16
+          ],
+          [
+            "The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025",
+            15
+          ],
+          [
+            "neuromorphic spiking",
+            15
+          ],
+          [
+            "reservoir computing architecture",
+            15
+          ],
+          [
+            "GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_",
+            14
+          ],
+          [
+            "GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景",
+            14
+          ]
+        ],
+        "orphan_notes": 2583
+      },
+      "grow_concepts": [
+        "advanced packaging",
+        "heterogeneous integration",
+        "catastrophic forgetting",
+        "memristor device",
+        "intelligence emergence",
+        "scaling laws"
+      ],
+      "phase4": {
+        "import_processor": true,
+        "task_recommender": true,
+        "research_evolution": true,
+        "cross_domain_insight": true,
+        "hypothesis_engine": true
+      },
+      "homepage": true,
+      "dashboard": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | r___1_1___dimensional_Ising_criti.md\n[03:01:36]   LLM extracted 5 additional concepts (keyword: 0)\n[03:01:36] Phase 2-3: 11 articles, 19 concepts\n[03:02:50] Phase 4: Index and backlinks updated\n[03:03:13] Phase 5: Health report generated\n[03:03:13] === Compile complete: 11 articles, 19 concepts ===\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | piling regexes...\n  regexes ready: 5045 phrases + 5067 slugs\n  union regex built (5067 concepts)\n  linking concepts...\n  shared-term linking...\n  linking articles...\n  concepts now: 5067 | linked: 5062 | orphans: 2748\n  index/backlinks/health refreshed.\n[03:08:21] wiki_grow done — orphans 2748/5067\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 11066 | 真正断链 3936 | 孤儿 2583 | 缺FM 929 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "已补全 6 个缺失概念: ['advanced packaging', 'heterogeneous integration', 'catastrophic forgetting', 'memristor device', 'intelligence emergence', 'scaling laws']",
+      "运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...",
+      "import_processor 退出码=0 | Genspark=0, 得到大脑=0, Codex=0\n[03:09:22] Total new files in raw/: 0\n[03:09:22] Inbox pending: 6 files\n[03:09:22] New imports detected — wiki_compiler.py should be triggered next\n[03:09:22] === Done ===\n",
+      "task_recommender 退出码=0 | sights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n[03:09:47] === Done ===\n",
+      "research_evolution 退出码=0 | [03:09:47] === Research Evolution Engine ===\n[03:09:47] Hypothesis updates: 0\n[03:09:48] Research directions: 0\n[03:09:48] Report: wiki/evolution_report.md\n[03:09:48] === Done ===\n",
+      "cross_domain_insight 退出码=0 | _Integration\n       iNEST: Electrolyte_Bonding_Engineering, FeFET_Polarization_Switching, FerroelectricSynapticArray\n\nCross-domain articles: 0\n\nReport: D:\\Obsidian\\vault\\wiki\\cross_domain_insights.md\n",
+      "hypothesis_engine 退出码=0 | [hypothesis_engine] 无新假设需添加\n",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [03:09:48] === Homepage Generator ===\n[03:09:49] 70_Dashboard/data.js generated\n[03:09:49] Home.md generated (5677 chars)\n[03:09:49] === Done ===\n",
+      "research_dashboard 退出码=0",
+      "git add 部分目录无匹配(正常): warning: in the working copy of '50_Output/51_Papers/00_冲刺_学生A_B0.md', LF will be replaced by CRLF t",
+      "已提交 5638 个文件。",
+      "已推送 github main。"
+    ]
   }
 ]

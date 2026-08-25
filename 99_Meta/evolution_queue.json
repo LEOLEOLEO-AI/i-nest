@@ -495,7 +495,25 @@
       "title": "Git hygiene: 21 uncommitted changes",
       "detail": "Commit or review outstanding changes.",
       "status": "pending"
+    },
+    {
+      "id": "EV-2026-08-25-001",
+      "priority": "high",
+      "type": "pipeline_fix",
+      "title": "Pipeline zero-paper alert: API connectivity check",
+      "detail": "Recent runs with zero new papers: 4",
+      "status": "resolved",
+      "resolved_at": "2026-08-25T20:43:45.437723",
+      "resolution": "A recent run ingested papers successfully; network and relevance gates are working."
+    },
+    {
+      "id": "EV-2026-08-25-002",
+      "priority": "medium",
+      "type": "git_hygiene",
+      "title": "Git hygiene: 20 uncommitted changes",
+      "detail": "Commit or review outstanding changes.",
+      "status": "pending"
     }
   ],
-  "last_updated": "2026-08-24T20:07:38.468461"
+  "last_updated": "2026-08-25T20:43:45.437723"
 }

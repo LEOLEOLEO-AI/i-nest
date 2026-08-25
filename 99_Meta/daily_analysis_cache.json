@@ -536,6 +536,45 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-08-24_arXiv_Emergence of cooperation A reputation-modulated reinforcemen.md"
       },
       "cached_at": "2026-08-24T06:44:34"
+    },
+    "ec24bd2adc4624775b2213d7f1261b382204bcf90823c9f3b3a13eb25249cf35": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Tr",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-25_arXiv_Event-triggered Implicit Perturbation for Zeroth-Order Fine-.md"
+      },
+      "cached_at": "2026-08-25T06:45:16"
+    },
+    "b15b85eaf0656ac7be083ba803914e48208aeb370ebc35d8c7c24b70329b8d76": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Assessing Triple Modular Redundancy for Wide-Link, Low-Latency NoC Routers: Reli",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-25_arXiv_Assessing Triple Modular Redundancy for Wide-Link, Low-Laten.md"
+      },
+      "cached_at": "2026-08-25T06:45:16"
+    },
+    "14d01e1dabd84dcb70b8525a155609040c5f2142e11e9b7df6cf27af3718817a": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Identifying the structure of dynamical transitions in logistic map",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 3,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-25_arXiv_Identifying the structure of dynamical transitions in logist.md"
+      },
+      "cached_at": "2026-08-25T06:45:16"
     }
   }
 }

@@ -1,6 +1,23 @@
 {
   "schema": "knowledge-compiler-review-v1",
-  "generated": "2026-08-24T20:07:37",
+  "generated": "2026-08-25T20:43:44",
   "status": "pending_user_review",
-  "items": []
+  "items": [
+    {
+      "title": "Assessing Triple Modular Redundancy for Wide-Link, Low-Latency NoC Routers: Reliability and Physical Design Challenges",
+      "source": "arXiv",
+      "url": "http://arxiv.org/abs/2608.21288v1",
+      "track": "TCC",
+      "relevance": 2,
+      "file": "00_Inbox/_pipeline_insights/2026-08-25_arXiv_Assessing Triple Modular Redundancy for Wide-Link, Low-Laten.md",
+      "tcc_insight": "Keyword: noc, network-on-chip",
+      "inest_insight": "无直接关联或待确认。",
+      "candidate_actions": [],
+      "knowledge_state": "processed",
+      "evidence_status": "[引用] 待人工核验",
+      "provenance": "external",
+      "user_decision": "pending",
+      "analysis_mode": "metadata-only"
+    }
+  ]
 }

@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-08-24
-date: 2026-08-24
+title: iNEST+TCC Research Brief - 2026-08-25
+date: 2026-08-25
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-08-24
+# iNEST + TCC Research Brief - 2026-08-25
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,19 +33,19 @@ target: genspark
 
 ## 4. Inbox Highlights
 
-- [2026-08-24] **2026-08-24_arXiv_Petri Net Description of Biological Neural Circuits for Fast** (_pipeline_insights)
-- [2026-08-24] **2026-08-24_arXiv_Emergence of cooperation A reputation-modulated reinforcemen** (_pipeline_insights)
-- [2026-08-24] **2026-08-24_arXiv_Spike-based Belief Propagation in Nonlinear Dynamical System** (_pipeline_insights)
-- [2026-08-24] **2026-08-24_arXiv_Universal meson spectra near $(1+1)$-dimensional Ising criti** (_pipeline_insights)
-- [2026-08-24] **2026-08-24_arXiv_HYDRA A Heterogeneous Chiplet DSE Framework for Serving Dyna** (_pipeline_insights)
-- [2026-08-22] **2026-07-18_OA_Reservoir computing bootcamp—From PythonNumPy tutorial for the com** (_pipeline_insights)
-- [2026-08-22] **2026-07-18_OA_Epoxy molding compound encapsulation process in IC packaging a rev** (_pipeline_insights)
-- [2026-08-22] **2026-07-18_OA_Bio-Inspired Spike-Timing-Dependent Plasticity Learning with Metal** (_pipeline_insights)
+- [2026-08-25] **2026-08-25_arXiv_Event-triggered Implicit Perturbation for Zeroth-Order Fine-** (_pipeline_insights)
+- [2026-08-25] **2026-08-25_arXiv_Identifying the structure of dynamical transitions in logist** (_pipeline_insights)
+- [2026-08-25] **2026-08-25_arXiv_Assessing Triple Modular Redundancy for Wide-Link, Low-Laten** (_pipeline_insights)
+- [2026-08-24] **美国《科学：新的黄金时代》报告深度解析：科研体制改革的机遇与争议** (root)
+- [2026-08-24] **核查折子关键事实** (root)
+- [2026-08-24] **小米三颗玄戒自研芯片全解析：手机SoC跑分首破500万，3nm智驾芯片明年商用** (root)
+- [2026-08-24] **关于“十五五”晶上二期组织与实施模式的建议** (root)
+- [2026-08-24] **SIGCOMM 2026 深度解读：KV Cache 如何从 GPU 内部状态变成网络研究核心** (root)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 12209
-Graph nodes: 12228 | edges: 107333
+Total notes: 12302
+Graph nodes: 12200 | edges: 107015
 
 Top connected topics:
 - **index** (degree=5181)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-08-24 06:42*
+*Research brief auto-generated 2026-08-25 06:42*
