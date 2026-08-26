@@ -1,4 +1,4 @@
-﻿import json, os
+import json, os
 from pathlib import Path
 
 VAULT = Path(r"D:\Obsidian\vault")
@@ -7,9 +7,9 @@ def cnt(dirname):
     d = VAULT / dirname
     return sum(1 for _ in d.rglob("*.md")) if d.exists() else 0
 
-for sub in ["31_Theory","32_Tech","33_Dev","34_Projects","35_Simulation"]:
+for sub in ["31_Theory","32_Technology","33_Engineering","34_Projects","35_Simulation"]:
     print(f"TCC_{sub}: {cnt(f'30_TCC/{sub}')}")
-for sub in ["41_Theory","42_Tech","43_Dev","44_Projects","45_Simulation"]:
+for sub in ["41_Theory","42_Technology","43_Engineering","44_Projects","45_Simulation"]:
     print(f"INEST_{sub}: {cnt(f'40_iNEST/{sub}')}")
 for sub in ["51_Papers","52_Patents","53_Monographs","54_Code","55_Guides"]:
     print(f"OUT_{sub}: {cnt(f'50_Output/{sub}')}")

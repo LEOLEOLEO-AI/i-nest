@@ -33,7 +33,7 @@ tags: [TCC, MOC, index]
 
 ## 目录
 - [31_Theory](31_Theory/) — 理论框架
-- [32_Tech](32_Tech/) — 技术方案
+- [32_Technology](32_Technology/) — 技术方案
 - [34_Projects](34_Projects/) — 项目申报与策划
 """,
 
@@ -48,7 +48,7 @@ tags: [iNEST, MOC, index]
 
 ## 目录
 - [41_Theory](41_Theory/) — 理论框架
-- [42_Tech](42_Tech/) — 技术方案
+- [42_Technology](42_Technology/) — 技术方案
 - [44_Projects](44_Projects/) — 项目申报与策划
 """,
 
@@ -157,7 +157,7 @@ tags: [iNEST, papers, writing]
 - Liquid-Computing 理论推导
 """,
 
-    "30_TCC/32_Tech/SDI — 软件定义互连（Software-Defined Interconnect）.md": """---
+    "30_TCC/32_Technology/SDI — 软件定义互连（Software-Defined Interconnect）.md": """---
 title: "SDI — 软件定义互连"
 date: {date}
 type: concept
@@ -176,7 +176,7 @@ tags: [TCC, SDI, interconnect]
 - [[iNEST_Academic_Belief_Core|学术信仰：SDI 为本]]
 """,
 
-    "30_TCC/32_Tech/SDI化合物键_四型架构.md": """---
+    "30_TCC/32_Technology/SDI化合物键_四型架构.md": """---
 title: "SDI 化合物键 — 四型架构"
 date: {date}
 type: concept
@@ -217,7 +217,7 @@ tags: [iNEST, emergence, neuromorphic]
 """
     },
     "FPGA原型": {
-        "path": "30_TCC/32_Tech/FPGA原型.md",
+        "path": "30_TCC/32_Technology/FPGA原型.md",
         "content": """---
 title: "FPGA 原型验证平台"
 date: {date}

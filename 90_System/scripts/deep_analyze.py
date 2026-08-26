@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """DeepSeek deep analysis of core TCC+iNEST research files"""
 
 import json, time, os
@@ -26,9 +26,9 @@ INEST_FILES = [
 ]
 
 # Find more by scanning
-for pattern, limit in [("30_TCC/31_Theory/*CST*", 3), ("30_TCC/32_Tech/*SDSoW*", 2),
+for pattern, limit in [("30_TCC/31_Theory/*CST*", 3), ("30_TCC/32_Technology/*SDSoW*", 2),
                         ("30_TCC/34_Projects/*项目*", 2), ("40_iNEST/41_Theory/*涌现*", 3),
-                        ("40_iNEST/42_Tech/*神经*", 2), ("40_iNEST/41_Theory/*因果*", 1)]:
+                        ("40_iNEST/42_Technology/*神经*", 2), ("40_iNEST/41_Theory/*因果*", 1)]:
     for f in sorted(VAULT.glob(pattern), key=lambda x: -x.stat().st_size)[:limit]:
         rel = str(f.relative_to(VAULT))
         if rel not in TCC_FILES + INEST_FILES:

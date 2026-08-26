@@ -131,7 +131,7 @@ focus = [
     ("iNEST 学术信仰内核与三原理协同（FEP + 最小作用量 + STDP）", "40_iNEST/41_Theory"),
     ("专利布局（如 SDI 四规则自组织临界涌现方法）", "50_Output/52_Patents"),
     ("CST 基础理论论文投稿", "30_TCC/39_Legacy_TCC、论文相关"),
-    ("组会与外部交流纪要跟进（复旦、天大、发改委汇报等）", "30_TCC/32_Tech、40_iNEST"),
+    ("组会与外部交流纪要跟进（复旦、天大、发改委汇报等）", "30_TCC/32_Technology、40_iNEST"),
 ]
 for name, loc in focus:
     lines.append(f"- **{name}** — 相关目录：`{loc}`")

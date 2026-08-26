@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """P0.3: 统一数据总线 — 单一真相源，所有面板从这一个JSON读取"""
 import os, sys, json, re
 sys.stdout.reconfigure(encoding='utf-8')

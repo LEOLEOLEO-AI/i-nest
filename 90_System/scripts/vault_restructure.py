@@ -126,8 +126,8 @@ def main():
     # TCC 的 3x 编号错放进 iNEST，归位到 4x
     merge_dir("40_iNEST/31_Theory/01_论文", "40_iNEST/41_Theory/01_论文")
     merge_dir("40_iNEST/31_Theory", "40_iNEST/41_Theory")
-    # 43 撞车：43_Dev(2个 .v 硬件源码) 并入 43_Engineering
-    merge_dir("40_iNEST/43_Dev", "40_iNEST/43_Engineering")
+    # 43 撞车：43_Engineering(2个 .v 硬件源码) 并入 43_Engineering
+    merge_dir("40_iNEST/43_Engineering", "40_iNEST/43_Engineering")
     # 44 撞车：44_Dev 为空，交由空目录清理
     # iNEST 侧 Papers 归入 41_Theory/01_论文
     merge_dir("40_iNEST/Papers", "40_iNEST/41_Theory/01_论文")
@@ -143,7 +143,7 @@ def main():
     merge_dir("40_iNEST/41_Theory/论文", "40_iNEST/41_Theory/01_论文")
     # TCC 侧散落 Papers / Code 归位
     merge_dir("30_TCC/Papers", "30_TCC/31_Theory/01_论文")
-    merge_dir("30_TCC/Code", "30_TCC/33_Dev")
+    merge_dir("30_TCC/Code", "30_TCC/33_Engineering")
 
     # ---------- 阶段 3: 原型产品层 ----------
     print("\n【阶段 3】建立 50_Output/56_Prototypes 原型产品层\n")

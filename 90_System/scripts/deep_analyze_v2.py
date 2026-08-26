@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """DeepSeek deep analysis of core TCC+iNEST research files - v2"""
 
 import json, time, re, os
@@ -29,12 +29,12 @@ def find_research_files(directory, patterns, min_kb=5, max_files=10):
 
 # TCC: SDI, CST, topology, paradigm, chiplet, architecture
 tcc_files = find_research_files("30_TCC/31_Theory", ["*SDI*", "*CST*", "*拓扑*", "*范式*", "*定理*", "*复杂度*", "*连通*"], min_kb=5)
-tcc_files += find_research_files("30_TCC/32_Tech", ["*SDSoW*", "*Chiplet*", "*互联*", "*晶圆*", "*封装*", "*架构*"], min_kb=5)
+tcc_files += find_research_files("30_TCC/32_Technology", ["*SDSoW*", "*Chiplet*", "*互联*", "*晶圆*", "*封装*", "*架构*"], min_kb=5)
 tcc_files += find_research_files("30_TCC/34_Projects", ["*项目*", "*指南*", "*海河*", "*布局*"], min_kb=5)
 
 # iNEST: emergence, complexity, neuromorphic, SNN, brain
 inest_files = find_research_files("40_iNEST/41_Theory", ["*涌现*", "*复杂度*", "*理论*", "*框架*", "*因果*", "*智能*", "*意识*"], min_kb=5)
-inest_files += find_research_files("40_iNEST/42_Tech", ["*神经*", "*SNN*", "*忆阻*", "*脉冲*", "*类脑*", "*突触*"], min_kb=5)
+inest_files += find_research_files("40_iNEST/42_Technology", ["*神经*", "*SNN*", "*忆阻*", "*脉冲*", "*类脑*", "*突触*"], min_kb=5)
 
 # Dedup + take top 20
 seen = set()

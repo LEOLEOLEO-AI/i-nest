@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import shutil
 from pathlib import Path
 
@@ -22,8 +22,8 @@ def classify(name):
 
 def get_subdir(cls, name):
     n = name.lower()
-    for k, sub in [("theory", "31_Theory"), ("tech", "32_Tech"),
-                   ("dev", "33_Dev"), ("project", "34_Projects"), ("sim", "35_Simulation")]:
+    for k, sub in [("theory", "31_Theory"), ("tech", "32_Technology"),
+                   ("dev", "33_Engineering"), ("project", "34_Projects"), ("sim", "35_Simulation")]:
         if k in n:
             return sub.replace("3", "4") if cls == "inest" else sub
     return "41_Theory" if cls == "inest" else "31_Theory"
@@ -33,7 +33,7 @@ for t in ["20_Processing/21_TCC", "20_Processing/22_iNEST"]:
     (VAULT / t).mkdir(parents=True, exist_ok=True)
 
 for base in ["30_TCC", "40_iNEST"]:
-    for sub in ["31_Theory", "32_Tech", "33_Dev", "34_Projects", "35_Simulation"]:
+    for sub in ["31_Theory", "32_Technology", "33_Engineering", "34_Projects", "35_Simulation"]:
         (VAULT / base / sub).mkdir(parents=True, exist_ok=True)
 
 SOURCES = [

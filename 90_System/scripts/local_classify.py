@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """Local LLM-free classifier for 20_Processing ambiguous files"""
 
 import json, shutil, re
@@ -128,13 +128,13 @@ for item in ambig:
     
     # Move file
     if direction == "TCC":
-        dst = VAULT / "30_TCC" / "32_Tech" / fpath.name
+        dst = VAULT / "30_TCC" / "32_Technology" / fpath.name
         tcc_count += 1
     elif direction == "iNEST":
-        dst = VAULT / "40_iNEST" / "42_Tech" / fpath.name
+        dst = VAULT / "40_iNEST" / "42_Technology" / fpath.name
         inest_count += 1
     else:
-        dst = VAULT / "30_TCC" / "32_Tech" / fpath.name
+        dst = VAULT / "30_TCC" / "32_Technology" / fpath.name
         both_count += 1
     
     if not dst.exists():

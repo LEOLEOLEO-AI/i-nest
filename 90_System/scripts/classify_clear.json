@@ -25,7 +25,7 @@
   ],
   [
     "03_Topics\\AI-ML\\2026-06-23_S2_Lightweight Real-Time Vehicle Detection and Recognition of U.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "03_Topics\\AI-ML\\2026-06-23_S2_Neuromorphic computing spiking neural network edge detection.md",
@@ -61,7 +61,7 @@
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-22_TCC_S2_Architectural Exploration for Waferscale Switching System.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-22_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La.md",
@@ -69,7 +69,7 @@
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-22_TCC_S2_ISPI A 2-Wire Improved Serial Peripheral Interface with Auto.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-22_TCC_S2_MEIN A Multicast-Efficient Interconnect Network for Multi-Ch.md",
@@ -81,7 +81,7 @@
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_S2_A VLSI Majority-Logic Device Based on Spin Transfer Torque M.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_S2_Advanced Chiplet Placement and Routing Optimization Consider.md",
@@ -97,7 +97,7 @@
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_S2_Automated Material Handling Systems System of Systems Archit.md",
-    "30_TCC/33_Dev"
+    "30_TCC/33_Engineering"
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_S2_Defect detection on semiconductor wafer surfaces.md",
@@ -125,15 +125,15 @@
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_S2_Large scale integrated IGZO crossbar memristor array based a.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_S2_Learning-Based DRM and Energy Optimization for Manycore Dark.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_S2_Network-on-Chip Irregular Topology Optimization for Real-Tim.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_S2_Networks-on-chip topology optimization subject to power, del.md",
@@ -145,7 +145,7 @@
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_S2_Signal Integrity Design and Analysis of Universal Chiplet In.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_S2_Signal Integrity Simulation and Analysis for 2.5D Advanced P.md",
@@ -157,7 +157,7 @@
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_TCC_S2_Architectural Exploration for Waferscale Switching System.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "03_Topics\\Chip-Hardware\\2026-06-23_TCC_S2_Fast Routing Algorithm for Mask Stitching Region of Ultra La.md",
@@ -181,7 +181,7 @@
   ],
   [
     "03_Topics\\Neuroscience\\2026-06-23_S2_Modeling macroscopic brain dynamics with brain-inspired comp.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "03_Topics\\Neuroscience\\2026-06-23_S2_Network structure influences self-organized criticality in n.md",
@@ -237,7 +237,7 @@
   ],
   [
     "10_Library\\Articles\\7nm制程，黑芝麻智能发布武当系列首款芯片，让单SoC「小材大用」_dup.md",
-    "30_TCC/33_Dev"
+    "30_TCC/33_Engineering"
   ],
   [
     "10_Library\\Articles\\ClearSight 基于事件相机与生物启发的运动去模糊研究_dup.md",
@@ -265,7 +265,7 @@
   ],
   [
     "10_Library\\Articles\\Domain-specific互联网络_dup.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Articles\\Google DeepMind潜在学习研究：AI记忆系统的认知革命 🔍_dup.md",
@@ -277,11 +277,11 @@
   ],
   [
     "10_Library\\Articles\\Nature_Neuroscience___神经流形：解码大脑与行为的低维密码_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\Post-Transformer技术路径与发展趋势全解析 📊_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\Quanta：Hopfield网络：催生AI的涌现物理学_dup.md",
@@ -309,19 +309,19 @@
   ],
   [
     "10_Library\\Articles\\“被互联网抛弃”的上海，却成了中国芯片突围的最大希望_dup.md",
-    "30_TCC/33_Dev"
+    "30_TCC/33_Engineering"
   ],
   [
     "10_Library\\Articles\\【论文推荐】未来智能杀伤网构想_空天防御_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\一文了解Nvidia_GB200_SuperPod_NVL576的互联架构_1_dup.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Articles\\一文了解Nvidia_GB200_SuperPod_NVL576的互联架构_dup.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Articles\\万字解析！一文带你了解深度学习中经典神经网络结构--CNN、RNN、LSTM、Transformer！_dup.md",
@@ -333,7 +333,7 @@
   ],
   [
     "10_Library\\Articles\\互联网公司：51.2T新架构下的组网方式_dup.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Articles\\人工智能发展现状与未来思考_dup.md",
@@ -345,11 +345,11 @@
   ],
   [
     "10_Library\\Articles\\人工智能的逻辑极限_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\人工智能（XAI）可解释的综述！_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\从绝望之谷到开悟之坡：中美互联网差距拉大，警惕重大格局性变化_dup.md",
@@ -373,11 +373,11 @@
   ],
   [
     "10_Library\\Articles\\全球集成传感技术在军事领域的发展现状与趋势研究报告_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\全球首款_类脑智算体“智者一号”发布_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\八大神经网络，从原理到应用_dup.md",
@@ -405,7 +405,7 @@
   ],
   [
     "10_Library\\Articles\\华为新架构，并非全光互联_dup.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Articles\\原始人学人工智能——从0开始手算神经网络_dup.md",
@@ -413,7 +413,7 @@
   ],
   [
     "10_Library\\Articles\\台积电研究先进芯片封装技术：矩形代替圆形晶圆_dup.md",
-    "30_TCC/33_Dev"
+    "30_TCC/33_Engineering"
   ],
   [
     "10_Library\\Articles\\向大脑学习智能本质，探索通用_AI_的另一条可行路径_dup.md",
@@ -421,7 +421,7 @@
   ],
   [
     "10_Library\\Articles\\国内首个类脑计算芯片标准正式发布！_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\复杂性理论：科学方法的第三个梯级_人工智能学家-CSDN博客_dup.md",
@@ -429,7 +429,7 @@
   ],
   [
     "10_Library\\Articles\\大白话大模型Transformer架构_-_基于自注意力机制的神经网络结构_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\层级跃迁_dup.md",
@@ -449,11 +449,11 @@
   ],
   [
     "10_Library\\Articles\\数字意识体进化_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\新品定义提示词_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\智能是什么？_dup.md",
@@ -461,7 +461,7 @@
   ],
   [
     "10_Library\\Articles\\智能的本质：人工智能与人类智能_-_知乎_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\智能网联车载网络芯片_dup.md",
@@ -481,15 +481,15 @@
   ],
   [
     "10_Library\\Articles\\深度解析DeepSeek：技术突破、行业影响与中美科技格局的新变化_dup.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Articles\\混沌和分形的关系_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\混沌理论与洛伦兹方程_-_知乎_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\清华大学__将物理嵌入机器学习_作为偏微分方程前向求解器的物理信息神经网络综述_dup.md",
@@ -505,7 +505,7 @@
   ],
   [
     "10_Library\\Articles\\独家整理：GPU服务器互联技术分析_dup.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Articles\\神经网络为啥可以学习（几乎）任何东西——激活函数与非线性_dup.md",
@@ -517,11 +517,11 @@
   ],
   [
     "10_Library\\Articles\\神经集群的混沌共生_高阶相互作用与脑网络嵌合体机制_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\科技部副部长吴朝晖发出四点倡议_呼吁产学合作形成人工智能大模型产业生态_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\科研速递｜关于人工智能的跨学科之思_dup.md",
@@ -545,7 +545,7 @@
   ],
   [
     "10_Library\\Articles\\终于能把屡屡登上nature的神经网络学透了！_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\自主系统实验演示与自我认知探讨.md",
@@ -569,11 +569,11 @@
   ],
   [
     "10_Library\\Articles\\超节点的光互联和光交换_dup.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Articles\\这次终于能把神经网络学习原理搞清楚了！_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Articles\\连接一切：5G时代的万物互联网_dup.md",
@@ -601,7 +601,7 @@
   ],
   [
     "10_Library\\Articles\\黄铁军：沉迷于寻求通用智能理论，将是阻碍_AI_发展的最大障碍___Yann_LeCun_自传《科学之路》序_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\02_文献综述_大模型涌现能力_dup.md",
@@ -609,7 +609,7 @@
   ],
   [
     "10_Library\\Papers\\2025_Nature最新综述：Neuromorphic_computing_at_scale.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\2025年《Nature Physics》重磅论文解析：高阶拓扑动力学重构复杂系统研究范式.md",
@@ -669,7 +669,7 @@
   ],
   [
     "10_Library\\Papers\\2026-06-21_TCC_S2_Architectural Exploration for Waferscale Switching System.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Papers\\2026-06-21_TCC_S2_Development of a software simulator for small satellite swar.md",
@@ -689,7 +689,7 @@
   ],
   [
     "10_Library\\Papers\\2026-06-24_S2_Automated Material Handling Systems System of Systems Archit.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Papers\\2026-06-24_S2_Constructive community race full-density spiking neural netw.md",
@@ -717,11 +717,11 @@
   ],
   [
     "10_Library\\Papers\\2026-06-24_S2_Lightweight Real-Time Vehicle Detection and Recognition of U.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\2026-06-24_S2_Modeling macroscopic brain dynamics with brain-inspired comp.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\2026-06-24_S2_Neuromorphic computing spiking neural network edge detection.md",
@@ -753,7 +753,7 @@
   ],
   [
     "10_Library\\Papers\\9位院士12位专家联合撰文：智能计算的新进展、挑战与未来___Science合作期刊.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\A Machine-Learning Based Approach to the Evaluation of the Critical Scaling Beha.md",
@@ -777,15 +777,15 @@
   ],
   [
     "10_Library\\Papers\\CMOS兼容忆阻器电化学生物传感器换能器_2025_.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Papers\\CMOS兼容忆阻器电化学生物传感器换能器（2025）.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\ComAI：通信与人工智能融合的新范式研究_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\Complex networks_ small-world_ scale-free and beyond.md",
@@ -797,7 +797,7 @@
   ],
   [
     "10_Library\\Papers\\Concurrent scale-free and small-world networks support criticality in cortical ensembles.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\Constrained hybrid modelling to predict microbial dynamics and organic matter tu.md",
@@ -905,7 +905,7 @@
   ],
   [
     "10_Library\\Papers\\Nature论文解读：不断发展的忆阻器产业（2025）.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\Neuron论文：Neuromorphic_is_dead,_神经形态已死。.md",
@@ -937,7 +937,7 @@
   ],
   [
     "10_Library\\Papers\\paper2_liquid_computing_chemistry.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\Papers_Integration_Pack_v2.md",
@@ -965,11 +965,11 @@
   ],
   [
     "10_Library\\Papers\\Science：物理信息神经网络PINN优势在哪里.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\SDI Compound-Bond Self-Evolving Network- Physics-First Architecture for Intelligence Emerg.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\SDI_Simulation_Report.md",
@@ -1061,7 +1061,7 @@
   ],
   [
     "10_Library\\Papers\\Unifying von-Neumann HPC and Neuromorphic Acceleration via the EBRAINS Research .md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\W5_Paper_Submission_Pack.md",
@@ -1109,7 +1109,7 @@
   ],
   [
     "10_Library\\Papers\\【CICC原创】战术场景互联网—未来智能化战场的神经系统.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\【好文推荐】面向作战任务的多域异构网络泛在互联技术.md",
@@ -1129,7 +1129,7 @@
   ],
   [
     "10_Library\\Papers\\复杂科学的信息论基础——最大熵原理_dup.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\复杂网络 节点重要性 基于局部的结构系统(LSS).md",
@@ -1153,11 +1153,11 @@
   ],
   [
     "10_Library\\Papers\\时空图神经网络重构智慧水务：MSTGNN模型深度解析.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\物理信息神经网络（PINN）研究方向全景：四大创新路径与137篇前沿论文解析.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "10_Library\\Papers\\端到端拓扑网络：皮层地图形成与人类视觉行为的模型研究.md",
@@ -1281,7 +1281,7 @@
   ],
   [
     "10_Library\\Web-Clips\\【软件定义电子战】CORVUS：引领未来战场的下一代智能电子战系统.md",
-    "30_TCC/33_Dev"
+    "30_TCC/33_Engineering"
   ],
   [
     "10_Library\\Web-Clips\\一人公司：开启个体价值释放的最佳路径.md",
@@ -1309,7 +1309,7 @@
   ],
   [
     "10_Library\\Web-Clips\\汽车电动化进入下半场！毕马威中国这份白皮书称，智能座舱将成行业竞争焦点.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Library\\Web-Clips\\浙江大学集成电路学院Nano_Letters__可重构神经形态计算，用于多功能神经信息处理.md",
@@ -1361,11 +1361,11 @@
   ],
   [
     "10_Knowledge\\Papers\\2026-06-23_S2_Wafer-scale fabrication of memristive passive crossbar circu.md",
-    "30_TCC/33_Dev"
+    "30_TCC/33_Engineering"
   ],
   [
     "10_Knowledge\\Papers\\2026-06-24_S2_A Deep Reinforcement Learning Approach for Network-on-Chip L.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Knowledge\\Papers\\2026-06-24_S2_Advanced Chiplet Placement and Routing Optimization Consider.md",
@@ -1381,7 +1381,7 @@
   ],
   [
     "10_Knowledge\\Papers\\2026-06-24_S2_Network-on-Chip Irregular Topology Optimization for Real-Tim.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Knowledge\\Papers\\2026-06-24_S2_NOCTOPUS Network-on-Chip topology optimization and predictio.md",
@@ -1393,7 +1393,7 @@
   ],
   [
     "10_Knowledge\\Papers\\2026-06-24_S2_Signal Integrity Design and Analysis of Universal Chiplet In.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "10_Knowledge\\Papers\\2026-06-24_S2_Signal Integrity Simulation and Analysis for 2.5D Advanced P.md",
@@ -1401,7 +1401,7 @@
   ],
   [
     "10_Knowledge\\Papers\\2026-06-24_S2_Wafer-scale fabrication of memristive passive crossbar circu.md",
-    "30_TCC/33_Dev"
+    "30_TCC/33_Engineering"
   ],
   [
     "20_Ideas\\Concepts\\00_研究资料导航.md",
@@ -1409,7 +1409,7 @@
   ],
   [
     "20_Ideas\\Concepts\\2025年8月23号 .md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "20_Ideas\\Concepts\\2026-05-07.md",
@@ -1461,7 +1461,7 @@
   ],
   [
     "20_Ideas\\Concepts\\学术论文配图提示词.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "20_Ideas\\Concepts\\实验室构建方案.md",
@@ -1473,7 +1473,7 @@
   ],
   [
     "20_Ideas\\Concepts\\科学范式的五次跃迁：从经验积累到AI自主探索的文明演进.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "20_Ideas\\Concepts\\英国皇家科学院发布！《人工智能时代的科学：人工智能如何改变科学研究的性质和方法》.md",
@@ -1481,7 +1481,7 @@
   ],
   [
     "20_Ideas\\Insights\\2026-04-28_知识库智能体四层架构.md",
-    "30_TCC/33_Dev"
+    "30_TCC/33_Engineering"
   ],
   [
     "20_Ideas\\Insights\\2026-05-03_2026年5月3号 .md",
@@ -1489,7 +1489,7 @@
   ],
   [
     "20_Ideas\\Insights\\2026-05-30_Complex networks small-world scale-free and beyond.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "20_Ideas\\Insights\\2026-05-30_Complex networks Structure and dynamics.md",
@@ -1501,19 +1501,19 @@
   ],
   [
     "20_Ideas\\Insights\\2026-05-30_Error and attack tolerance of complex networks.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "20_Ideas\\Insights\\2026-05-30_Exploring complex networks.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "20_Ideas\\Insights\\2026-05-30_Self-organized criticality in cortical assemblies occurs in concurrent scale-free and small-world ne.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "20_Ideas\\Insights\\2026-05-30_Statistical mechanics of complex networks.md",
-    "40_iNEST/42_Tech"
+    "40_iNEST/42_Technology"
   ],
   [
     "20_Ideas\\Insights\\2026-05-30_The Structure and Function of Complex Networks.md",
@@ -1537,7 +1537,7 @@
   ],
   [
     "20_Ideas\\Insights\\Idea_Etched_Corcel_TCC_Comparison.md",
-    "30_TCC/32_Tech"
+    "30_TCC/32_Technology"
   ],
   [
     "20_Ideas\\Insights\\Idea_OODA_同构博弈_同步饱和战略价值.md",

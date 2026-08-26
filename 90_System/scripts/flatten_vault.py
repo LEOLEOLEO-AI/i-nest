@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Vault Flattener — 将知识库内散落的旧子目录文件迁移到新的标准化结构。
 安全原则: 只移动 .md 文件，Obsidian WikiLink 按文件名解析，移动不断链。
@@ -24,10 +24,10 @@ FLATTEN_RULES = [
     ("30_TCC/31_Theory/01_论文/*.md", "50_Output/51_Papers/_from_tcc_theory"),
     ("30_TCC/31_Theory/02_专利/*.md", "50_Output/52_Patents/_from_tcc"),
     ("30_TCC/31_Theory/03_项目策划/*.md", "30_TCC/34_Projects"),
-    ("30_TCC/31_Theory/05_关键技术/*.md", "30_TCC/32_Tech"),
-    # --- 30_TCC/32_Tech subdirs → flatten ---
-    ("30_TCC/32_Tech/Chip-Hardware/*.md", "30_TCC/32_Tech"),
-    ("30_TCC/32_Tech/TCC-SDI/*.md", "30_TCC/32_Tech"),
+    ("30_TCC/31_Theory/05_关键技术/*.md", "30_TCC/32_Technology"),
+    # --- 30_TCC/32_Technology subdirs → flatten ---
+    ("30_TCC/32_Technology/Chip-Hardware/*.md", "30_TCC/32_Technology"),
+    ("30_TCC/32_Technology/TCC-SDI/*.md", "30_TCC/32_Technology"),
     # --- 40_iNEST/41_Theory subdirs → flatten ---
     ("40_iNEST/41_Theory/_merged_knowledgebase/*.md", "40_iNEST/41_Theory"),
     ("40_iNEST/41_Theory/AI-ML/*.md", "40_iNEST/41_Theory"),
@@ -37,8 +37,8 @@ FLATTEN_RULES = [
     ("40_iNEST/41_Theory/_llm_classified/*.md", "40_iNEST/41_Theory"),
     ("40_iNEST/41_Theory/01_论文/*.md", "50_Output/51_Papers/_from_inest_theory"),
     ("40_iNEST/41_Theory/03_项目策划/*.md", "40_iNEST/44_Projects"),
-    # --- 40_iNEST/42_Tech subdirs → flatten ---
-    ("40_iNEST/42_Tech/Neuroscience/*.md", "40_iNEST/42_Tech"),
+    # --- 40_iNEST/42_Technology subdirs → flatten ---
+    ("40_iNEST/42_Technology/Neuroscience/*.md", "40_iNEST/42_Technology"),
     # --- 10_Library cleanup ---
     ("10_Library/Papers/Papers/*.md", "10_Library/Papers"),
     ("10_Library/Papers/iNEST/*.md", "10_Library/Papers"),
@@ -79,8 +79,8 @@ CLEANUP_DIRS = [
     "30_TCC/31_Theory/02_专利",
     "30_TCC/31_Theory/03_项目策划",
     "30_TCC/31_Theory/05_关键技术",
-    "30_TCC/32_Tech/Chip-Hardware",
-    "30_TCC/32_Tech/TCC-SDI",
+    "30_TCC/32_Technology/Chip-Hardware",
+    "30_TCC/32_Technology/TCC-SDI",
     "40_iNEST/41_Theory/_merged_knowledgebase",
     "40_iNEST/41_Theory/AI-ML",
     "40_iNEST/41_Theory/Concepts-Theory",
@@ -89,7 +89,7 @@ CLEANUP_DIRS = [
     "40_iNEST/41_Theory/_llm_classified",
     "40_iNEST/41_Theory/01_论文",
     "40_iNEST/41_Theory/03_项目策划",
-    "40_iNEST/42_Tech/Neuroscience",
+    "40_iNEST/42_Technology/Neuroscience",
     "10_Library/Papers/Papers",
     "10_Library/Papers/iNEST",
     "10_Library/Papers/iNEST_theory",

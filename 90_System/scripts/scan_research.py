@@ -1,12 +1,12 @@
-﻿import json, re
+import json, re
 from pathlib import Path
 
 VAULT = Path(r"D:\Obsidian\vault")
 
 # Target dirs with real research content
 TARGET_DIRS = [
-    "30_TCC/31_Theory", "30_TCC/32_Tech", "30_TCC/33_Dev",
-    "40_iNEST/41_Theory", "40_iNEST/42_Tech", "40_iNEST/43_Dev",
+    "30_TCC/31_Theory", "30_TCC/32_Technology", "30_TCC/33_Engineering",
+    "40_iNEST/41_Theory", "40_iNEST/42_Technology", "40_iNEST/43_Engineering",
 ]
 
 research_files = []

@@ -1,4 +1,4 @@
-﻿import os, re, json, sys, time
+import os, re, json, sys, time
 sys.stdout.reconfigure(encoding='utf-8')
 
 vault = r'D:\Obsidian\vault'
@@ -7,14 +7,14 @@ source_dirs = ['03_Topics', '10_Library', '10_Knowledge', '20_Ideas', 'papers']
 # Target mapping
 TCC_DIRS = {
     'theory': '30_TCC/31_Theory',
-    'tech': '30_TCC/32_Tech',
-    'dev': '30_TCC/33_Dev',
+    'tech': '30_TCC/32_Technology',
+    'dev': '30_TCC/33_Engineering',
     'project': '30_TCC/34_Projects',
     'sim': '30_TCC/35_Simulation',
 }
 INEST_DIRS = {
     'theory': '40_iNEST/41_Theory',
-    'tech': '40_iNEST/42_Tech',
+    'tech': '40_iNEST/42_Technology',
     'dev': '40_iNEST/43_Engineering',
     'project': '40_iNEST/44_Projects',
     'sim': '40_iNEST/45_Simulation',

@@ -1,4 +1,4 @@
-﻿import os, json, sys, time
+import os, json, sys, time
 sys.stdout.reconfigure(encoding='utf-8')
 import openai
 from dotenv import load_dotenv
@@ -16,9 +16,9 @@ client = openai.OpenAI(
 
 # Target options
 targets = [
-    '30_TCC/31_Theory', '30_TCC/32_Tech', '30_TCC/33_Dev',
+    '30_TCC/31_Theory', '30_TCC/32_Technology', '30_TCC/33_Engineering',
     '30_TCC/34_Projects', '30_TCC/35_Simulation',
-    '40_iNEST/41_Theory', '40_iNEST/42_Tech', '40_iNEST/43_Engineering',
+    '40_iNEST/41_Theory', '40_iNEST/42_Technology', '40_iNEST/43_Engineering',
     '40_iNEST/44_Projects', '40_iNEST/45_Simulation',
     'SKIP'  # not relevant to TCC/iNEST
 ]
@@ -36,8 +36,8 @@ for i in range(0, len(ambiguous), batch_size):
     
     prompt = """Classify each file into exactly ONE of these directories:
 
-TCC (Topology-Centric Computing): 30_TCC/31_Theory, 30_TCC/32_Tech, 30_TCC/33_Dev, 30_TCC/34_Projects, 30_TCC/35_Simulation
-iNEST (Neuromorphic Engineering): 40_iNEST/41_Theory, 40_iNEST/42_Tech, 40_iNEST/43_Engineering, 40_iNEST/44_Projects, 40_iNEST/45_Simulation
+TCC (Topology-Centric Computing): 30_TCC/31_Theory, 30_TCC/32_Technology, 30_TCC/33_Engineering, 30_TCC/34_Projects, 30_TCC/35_Simulation
+iNEST (Neuromorphic Engineering): 40_iNEST/41_Theory, 40_iNEST/42_Technology, 40_iNEST/43_Engineering, 40_iNEST/44_Projects, 40_iNEST/45_Simulation
 SKIP: not relevant to TCC or iNEST research
 
 Guidelines:
@@ -48,7 +48,7 @@ Guidelines:
 - General articles, news, non-research → SKIP
 - _dup files are duplicates from 得到APP, classify based on content topic
 
-Respond with ONLY a JSON object mapping file index numbers to target directories. Example: {"0": "40_iNEST/41_Theory", "1": "30_TCC/32_Tech", "2": "SKIP"}
+Respond with ONLY a JSON object mapping file index numbers to target directories. Example: {"0": "40_iNEST/41_Theory", "1": "30_TCC/32_Technology", "2": "SKIP"}
 
 Files:
 """ + file_list

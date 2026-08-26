@@ -49,7 +49,7 @@ sdi_sim/hemibrain_real_connectome*.json
 30_TCC/35_Simulation/exp*.json
 30_TCC/Code/hemibrain*.json
 40_iNEST/45_Simulation/connectome/
-40_iNEST/42_Tech/Neuroscience/data/
+40_iNEST/42_Technology/Neuroscience/data/
 knowledge_graph/
 Demo_2026Q2/
 .obsidian/plugins/

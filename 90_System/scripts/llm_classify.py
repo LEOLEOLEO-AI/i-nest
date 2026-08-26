@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """Phase 2: LLM classify ambiguous files + extract insights"""
 
 import json, shutil, time, re, os
@@ -77,11 +77,11 @@ for i, item in enumerate(ambig):
         # Move file based on classification
         direction = result.get("direction", "unknown")
         if direction == "TCC":
-            dst = VAULT / "30_TCC" / "32_Tech" / fpath.name
+            dst = VAULT / "30_TCC" / "32_Technology" / fpath.name
         elif direction == "iNEST":
-            dst = VAULT / "40_iNEST" / "42_Tech" / fpath.name
+            dst = VAULT / "40_iNEST" / "42_Technology" / fpath.name
         else:
-            dst = VAULT / "30_TCC" / "32_Tech" / fpath.name  # default to TCC
+            dst = VAULT / "30_TCC" / "32_Technology" / fpath.name  # default to TCC
         
         if not dst.exists():
             shutil.move(str(fpath), str(dst))

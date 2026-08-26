@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 P1.1: Inbox消化引擎 — LLM分类+标签+双向链接
 Inbox → 分类(TCC/iNEST) → 提取观点 → 建立链接 → 移动归档

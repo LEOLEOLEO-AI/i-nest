@@ -1,0 +1,86 @@
+﻿{
+    "generated":  "2026-08-26T12:59:03",
+    "summary":  "OK",
+    "crit_count":  0,
+    "warn_count":  0,
+    "checks":  [
+                   {
+                       "name":  "git_object_store",
+                       "status":  "OK",
+                       "detail":  "fsck connectivity clean",
+                       "at":  "2026-08-26T12:58:57"
+                   },
+                   {
+                       "name":  "git_head_reachable",
+                       "status":  "OK",
+                       "detail":  "HEAD history walkable (11 commits)",
+                       "at":  "2026-08-26T12:58:57"
+                   },
+                   {
+                       "name":  "git_object_garbage",
+                       "status":  "OK",
+                       "detail":  "no stale tmp_pack / orphan idx",
+                       "at":  "2026-08-26T12:58:57"
+                   },
+                   {
+                       "name":  "commit_freshness",
+                       "status":  "OK",
+                       "detail":  "last commit 0.4h ago",
+                       "at":  "2026-08-26T12:58:57"
+                   },
+                   {
+                       "name":  "working_tree_backlog",
+                       "status":  "OK",
+                       "detail":  "17 pending change(s)",
+                       "at":  "2026-08-26T12:58:57"
+                   },
+                   {
+                       "name":  "daily_sync",
+                       "status":  "OK",
+                       "detail":  "last sync start 0.4h ago, completed 0.4h ago",
+                       "at":  "2026-08-26T12:58:57"
+                   },
+                   {
+                       "name":  "getnotes_pull",
+                       "status":  "OK",
+                       "detail":  "last pull 0.4h ago, total=432",
+                       "at":  "2026-08-26T12:58:58"
+                   },
+                   {
+                       "name":  "pipeline",
+                       "status":  "OK",
+                       "detail":  "last run 6.2h ago, new_papers=6",
+                       "at":  "2026-08-26T12:58:58"
+                   },
+                   {
+                       "name":  "config_llm_config",
+                       "status":  "OK",
+                       "detail":  "llm_config.json valid",
+                       "at":  "2026-08-26T12:58:58"
+                   },
+                   {
+                       "name":  "config_model_switch",
+                       "status":  "OK",
+                       "detail":  "model_switch.json valid",
+                       "at":  "2026-08-26T12:58:58"
+                   },
+                   {
+                       "name":  "daemons",
+                       "status":  "OK",
+                       "detail":  "pythonw=2 node=10 preview8899=True",
+                       "at":  "2026-08-26T12:58:59"
+                   },
+                   {
+                       "name":  "scheduled_tasks",
+                       "status":  "OK",
+                       "detail":  "all iNEST tasks registered",
+                       "at":  "2026-08-26T12:59:03"
+                   },
+                   {
+                       "name":  "gitee",
+                       "status":  "INFO",
+                       "detail":  "gitee sync_time=2026-07-11T21:46:41 (script hardcodes disabled, by design)",
+                       "at":  "2026-08-26T12:59:03"
+                   }
+               ]
+}

@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """Obsidian Vault 全面诊断脚本 — Karpathy Wiki LLM v2.0 结构优化"""
 
 import os, json, re
@@ -218,14 +218,14 @@ workspace/
 │   └── 22_iNEST/      
 ├── 30_TCC/            TCC 拓扑中心计算
 │   ├── 31_Theory/     理论攻关
-│   ├── 32_Tech/       技术研究
-│   ├── 33_Dev/        工程开发
+│   ├── 32_Technology/       技术研究
+│   ├── 33_Engineering/        工程开发
 │   ├── 34_Projects/   项目策划
 │   └── 35_Simulation/ 仿真实验
 ├── 40_iNEST/          iNEST 神经形态
 │   ├── 41_Theory/     理论攻关
-│   ├── 42_Tech/       技术研究
-│   ├── 43_Dev/        工程开发
+│   ├── 42_Technology/       技术研究
+│   ├── 43_Engineering/        工程开发
 │   ├── 44_Projects/   项目策划
 │   └── 45_Simulation/ 仿真实验
 ├── 50_Output/         成果产出
@@ -257,7 +257,7 @@ def suggest_target(dirname):
     if any(kw in name_lower for kw in ["paper", "论文", "papers"]):
         return "50_Output/51_Papers"
     if any(kw in name_lower for kw in ["patent", "专利", "ip"]):
-        return "50_Output/52_Patents 或 40_iNEST/43_Dev"
+        return "50_Output/52_Patents 或 40_iNEST/43_Engineering"
     if any(kw in name_lower for kw in ["sim", "仿真", "simulation"]):
         return "30_TCC/35_Simulation 或 40_iNEST/45_Simulation"
     if any(kw in name_lower for kw in ["project", "项目"]):

@@ -1,4 +1,4 @@
-﻿import json, shutil
+import json, shutil
 from pathlib import Path
 
 VAULT = Path(r"D:\Obsidian\vault")
@@ -18,10 +18,10 @@ for r in data["results"]:
         continue
     d = r.get("direction", "TCC")
     if d == "iNEST":
-        dst = VAULT / "40_iNEST" / "42_Tech" / fpath.name
+        dst = VAULT / "40_iNEST" / "42_Technology" / fpath.name
         inest += 1
     else:
-        dst = VAULT / "30_TCC" / "32_Tech" / fpath.name
+        dst = VAULT / "30_TCC" / "32_Technology" / fpath.name
         tcc += 1
     if not dst.exists():
         shutil.move(str(fpath), str(dst))
