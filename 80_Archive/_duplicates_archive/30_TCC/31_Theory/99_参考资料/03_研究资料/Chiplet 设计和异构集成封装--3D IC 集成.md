@@ -1,7 +1,0 @@
----
-title: Chiplet 设计和异构集成封装--3D IC 集成
-tags:
-- chiplet
----
-> [!note]- 可能重复: [[Chiplet 设计和异构集成封装--3D IC 集成]]
-> 此文件与 [[Chiplet 设计和异构集成封装--3D IC 集成]] 内容重复，已保留最大版本。

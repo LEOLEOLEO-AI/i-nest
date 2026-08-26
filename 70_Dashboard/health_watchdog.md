@@ -1,17 +1,17 @@
 ﻿# Knowledge Base Health Watchdog Report
 
-**Generated**: 2026-08-26 12:59:03  **Summary**: OK  (CRIT=0 WARN=0)
+**Generated**: 2026-08-26 14:59:03  **Summary**: OK  (CRIT=0 WARN=0)
 
 | Check | Status | Detail |
 |---|---|---|
 | git_object_store | OK | fsck connectivity clean |
-| git_head_reachable | OK | HEAD history walkable (11 commits) |
+| git_head_reachable | OK | HEAD history walkable (19 commits) |
 | git_object_garbage | OK | no stale tmp_pack / orphan idx |
-| commit_freshness | OK | last commit 0.4h ago |
-| working_tree_backlog | OK | 17 pending change(s) |
-| daily_sync | OK | last sync start 0.4h ago, completed 0.4h ago |
-| getnotes_pull | OK | last pull 0.4h ago, total=432 |
-| pipeline | OK | last run 6.2h ago, new_papers=6 |
+| commit_freshness | OK | last commit 0.3h ago |
+| working_tree_backlog | OK | 2 pending change(s) |
+| daily_sync | OK | last sync start 2.4h ago, completed 2.4h ago |
+| getnotes_pull | OK | last pull 2.4h ago, total=432 |
+| pipeline | OK | last run 8.2h ago, new_papers=6 |
 | config_llm_config | OK | llm_config.json valid |
 | config_model_switch | OK | model_switch.json valid |
 | daemons | OK | pythonw=2 node=10 preview8899=True |

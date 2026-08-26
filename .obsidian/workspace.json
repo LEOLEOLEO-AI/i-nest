@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d4abce6a195baf5",
+        "id": "53f7dd02be23a76c",
         "type": "tabs",
         "children": [
           {
-            "id": "776e046f88bc7424",
+            "id": "0f6472a54fcee014",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,40 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "00_冲刺_学生A_B0",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Output/51_Papers/00_冲刺_学生A_B0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_冲刺_学生A_B0\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "SUBMISSION_PACKAGE_README",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Output/51_Papers/TCC/SUBMISSION_PACKAGE_README.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SUBMISSION_PACKAGE_README\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":304.4281994047619}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50_Output/51_Papers/【Nature_Communications】告别“人工调参”：华中科技大学提出具身智能奖励函数自动发现框架，破解稀疏奖励难题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "【Nature_Communications】告别“人工调参”：华中科技大学提出具身智能奖励函数自动发现框架，破解稀疏奖励难题"
+              "title": "新标签页"
             }
           }
         ]
@@ -375,6 +349,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "realclaudian:Open Claudian": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
@@ -397,8 +372,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "776e046f88bc7424",
+  "active": "0f6472a54fcee014",
   "lastOpenFiles": [
+    "10_Knowledge/00_导航/00_iNEST_全景知识图谱.md",
+    "00_Inbox/_imports/2026-07-24_MoE与Agentic时代AI互联需求系统性增长深度研报.md",
+    "Home.md",
+    "50_Output/51_Papers/【Nature_Communications】告别“人工调参”：华中科技大学提出具身智能奖励函数自动发现框架，破解稀疏奖励难题.md",
     "50_Output/51_Papers/00_冲刺_学生A_B0.md",
     "50_Output/51_Papers/TCC/SUBMISSION_PACKAGE_README.md",
     "50_Output/51_Papers/TCC/Figure4_SDI_Architecture.pdf",
@@ -425,10 +404,6 @@
     "wiki/concepts/RTC_Primitive.md",
     "wiki/concepts/BigBrainCellularAxis.md",
     "wiki/concepts/FreeFermion_Topological_Classification.md",
-    "wiki/concepts/人类唯一的出路_变成人工智能_初篇_人类巨灵和大脑结构.md",
-    "wiki/index.md",
-    "99_Meta/evolution_proposals/2026-08-23.md",
-    "wiki/concepts/AndersonTransition.md",
     "90_System/scripts/wiki_compiler.py~2676",
     "90_System/scripts/wiki_compiler.py.new",
     "90_System/scripts/wiki_grow.py~24740",
