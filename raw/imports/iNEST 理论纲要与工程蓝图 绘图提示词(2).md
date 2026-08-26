@@ -153,7 +153,7 @@
 - **图类型**：折线图
 - **GPT Image 2 Prompt**：
 
-> Line chart, x-axis γ ∈ [0, 1] memory factor, y-axis SSIM, U-shaped curve in deep blue #0a3d62 with five solid-circle data points (0.0/0.664, 0.2/0.745, 0.5/0.829 [peak, highlighted orange-red #c05621], 0.8/0.613, 1.0/<0.5). Highlighted vertical dashed line at γ=0.5 "optimal". White background, Times New Roman axis labels, Microsoft YaHei note "NbOx Mott 实验 — 复旦 2025".
+> Line chart, x-axis γ ∈ [0, 1] memory factor, y-axis SSIM, U-shaped curve in deep blue #0a3d62 with five solid-circle data points (0.0/0.664, 0.2/0.745, 0.5/0.829 [peak, highlighted orange-red #c05621], 0.8/0.613, 1.0/<0.5). Highlighted vertical dashed line at γ=0.5 "optimal". White background, Times New Roman axis labels, Microsoft YaHei note "NbOx Mott γ 扫描数据点（来源待核：西电×西湖拓扑流形论文，原文未入库）[待测]".
 
 - **宽高比 + 生成方式**：16:9 / 折线图 / 2K
 
@@ -410,7 +410,7 @@ background #f8f9fa. Note text in Microsoft YaHei. Aspect ratio 16:9, resolution 
 [F-19] Line chart, x-axis γ ∈ [0, 1] memory factor, y-axis SSIM, U-shaped curve in deep blue
 #0a3d62 with five solid-circle data points (0.0/0.664, 0.2/0.745, 0.5/0.829 [peak, highlighted
 orange-red #c05621], 0.8/0.613, 1.0/<0.5). Highlighted vertical dashed line at γ=0.5 "optimal".
-White background, Times New Roman axis labels, Microsoft YaHei note "NbOx Mott — 复旦". Aspect
+White background, Times New Roman axis labels, Microsoft YaHei note "NbOx Mott I-V 曲线（来源待核）[待测]". Aspect
 ratio 16:9, resolution 2K.
 ```
 
