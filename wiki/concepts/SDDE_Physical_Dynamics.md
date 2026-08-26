@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Microgrid_Optimization]]
 [[MitigationLayers]]
 [[Network_Topology_Design]]
+[[Nonlinear_Topology_Amplification]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]

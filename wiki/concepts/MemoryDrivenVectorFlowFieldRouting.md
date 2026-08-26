@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TimeReversalInvariantTopologicalAlloy]]
 [[TopologicalDataCompression]]
+[[TopologyAware_Grouping]]
 [[VectorFlowField]]
 [[adaptive path selection]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
+[[CorticalWaveRouting]]
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]

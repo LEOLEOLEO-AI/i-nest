@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]
+[[CoOptimizedMappingScheduling]]
 [[CollectiveSpikingDynamics]]
 [[ContinuousTimeSNN]]
 [[Criticality]]

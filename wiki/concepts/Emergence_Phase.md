@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Neuromorphic_Planning_Revolution]]
 [[TCC]]
 [[emergence phase]]
 [[iNEST]]

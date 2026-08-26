@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Connectome]]
 [[Connectome_Transfer]]
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]

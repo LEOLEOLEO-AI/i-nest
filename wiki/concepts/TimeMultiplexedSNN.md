@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[CSI_Temporal_Encoding]]
 [[ContinuousControlConversion]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DualModeSNNConventionalInference]]
 [[DynamicTokenSparsity]]

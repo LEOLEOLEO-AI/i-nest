@@ -35,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SNN]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ST_SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
@@ -44,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic substrate]]
 [[synaptic plasticity]]
 

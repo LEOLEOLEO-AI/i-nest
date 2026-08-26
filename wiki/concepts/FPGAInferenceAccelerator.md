@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientRestoration]]
 [[EnsembleCreditAssignment]]
 [[EventDrivenInference]]
+[[EventDrivenModularArchitecture]]
 [[FPGAInference]]
 [[Interconnect_Routing]]
 [[SNN]]

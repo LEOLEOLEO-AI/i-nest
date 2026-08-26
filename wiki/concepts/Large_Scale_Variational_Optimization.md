@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Asymptotic_Exact_Solution]]
 [[Complex_System_Theory]]
+[[CriticalScalingExponents]]
 [[DataCenter_Chip_Logic_Compression]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

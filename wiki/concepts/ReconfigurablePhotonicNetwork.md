@@ -27,14 +27,17 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Nonlinear_Gain]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

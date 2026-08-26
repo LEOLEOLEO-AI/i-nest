@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]
 [[BrainScaleTopologyExploitation]]
+[[Brain_Dynamics_Learning]]
 [[ClinicalTranslationBridge]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[DevelopmentalNeuromorphicAdaptation]]

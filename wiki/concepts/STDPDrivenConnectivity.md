@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Critical_Region_Extension]]
 [[DTGA]]
+[[DelayTolerantNetworkUAV]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[Network_Topology_Design]]

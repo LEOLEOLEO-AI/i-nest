@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]

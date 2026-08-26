@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
+[[BigBrainCellularAxis]]
 [[BondMovingDecimation]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chiplet_Heterogeneous_Integration]]

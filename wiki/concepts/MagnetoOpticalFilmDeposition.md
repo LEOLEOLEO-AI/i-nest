@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwarePowerGating]]
 [[EMIB_Bridge]]
 [[HeterogeneousSiliconNitridePlatform]]
+[[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 

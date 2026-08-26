@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Express_Link_Virtualization]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
+[[InterconnectAwarePartitioning]]
 [[KeyMaterialStrategy]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

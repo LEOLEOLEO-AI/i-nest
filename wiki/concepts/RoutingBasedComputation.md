@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[EventDrivenTracking]]
 [[Free_Energy_Principle_Network]]
+[[InSitu_Compute]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]

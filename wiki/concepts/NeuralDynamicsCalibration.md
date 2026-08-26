@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
 [[ConsciousnessEngineeringLoop]]
+[[DualDrivenHybridNetwork]]
 [[ErrorAmplificationLimits]]
 [[LatencyGradientDescent]]
 [[Neuromorphic_Computing]]

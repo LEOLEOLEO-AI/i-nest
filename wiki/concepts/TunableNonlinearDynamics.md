@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
+[[Evolutionary_Reservoir_Adaptation]]
 [[ExplosiveTransitionThreshold]]
 [[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]

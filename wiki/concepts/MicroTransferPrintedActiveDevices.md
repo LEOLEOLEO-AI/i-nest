@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[DrivenDissipativeDynamics]]
+[[EventDrivenPlasticity]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[National_Planning_Driven_Research_Alignment]]

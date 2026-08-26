@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MagicStateProtocol]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[OscillatoryDynamicsTopology]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

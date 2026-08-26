@@ -33,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
-[[Heterogeneous_Integration_Roadmap_HIR]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -41,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[VaCoAl]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[Analog_Encoding_Readout]]
 [[AnisotropicGaussianPrimitives]]
+[[CMOS_Memristor_Crossbar]]
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
 [[CrashHotspotForecasting]]

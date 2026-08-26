@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Expert_Review_Arbitration]]
 [[HighTemporalResolutionSensing]]
 [[Intelligence_Emergence]]
 [[NestedRepresentation]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenDissipativeDynamics]]
 [[Fixed_Cost_Dominance]]
 [[HigherOrderTransitionKernel]]
+[[Intelligent_Computing_Infrastructure]]
 [[Network_Topology_Design]]
 
 ## Sources

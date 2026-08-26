@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Page]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

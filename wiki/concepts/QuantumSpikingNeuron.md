@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Architectures]]
+[[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiScaleTemporalProcessing]]

@@ -32,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[Network_Topology_Design]]
+[[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
+[[SDI_iNEST_Encapsulation]]
 [[TCC]]
 [[iNEST]]
 

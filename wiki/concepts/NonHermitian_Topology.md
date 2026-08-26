@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[ComplexValuedSNN]]
 [[ComputeRelocationOverhead]]
+[[DTGA]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[DualSide_Routing_Layer]]
 [[Heterogeneous_Integration]]

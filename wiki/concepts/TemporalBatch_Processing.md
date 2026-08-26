@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EventDrivenMotionDeblurring]]
 [[GPU_Cluster_SNN_Architecture]]
+[[GradientBasedLearningLocalization]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

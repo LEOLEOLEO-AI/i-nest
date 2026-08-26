@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[criticality]]
 [[iNEST]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

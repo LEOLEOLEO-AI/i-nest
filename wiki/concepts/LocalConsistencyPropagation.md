@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepParsing]]
 [[Deep_Analysis_Framework]]
 [[DerivativeLineage]]
+[[Differential_Encoding]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

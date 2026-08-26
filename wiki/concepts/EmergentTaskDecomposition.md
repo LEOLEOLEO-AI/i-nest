@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Allreduce_Latency_Probe]]
 [[BCM滑动阈值]]
+[[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]

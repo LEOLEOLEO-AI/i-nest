@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
+[[AutonomousServiceNegotiation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]

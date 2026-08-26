@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[Residual_Connection]]
+[[SDI_STDP]]
 [[SNN]]
 [[ST_SNN]]
 [[SensoryGatedSpikingLoop]]

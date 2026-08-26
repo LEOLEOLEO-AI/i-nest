@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
 [[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThirdWaveAI]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[neuromorphic computing]]
 [[tools]]
 

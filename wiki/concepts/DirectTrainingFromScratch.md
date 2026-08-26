@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Revolution]]
 [[Online_Continual_Learning]]
+[[Parameter_Reconstruction]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Self_Organized_Criticality]]

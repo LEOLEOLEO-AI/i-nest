@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[ApproximationFidelityTradeoff]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

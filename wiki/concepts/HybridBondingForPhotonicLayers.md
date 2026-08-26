@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
+[[Clinical_Knowledge_Embedding]]
 [[Complex_System_Theory]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]

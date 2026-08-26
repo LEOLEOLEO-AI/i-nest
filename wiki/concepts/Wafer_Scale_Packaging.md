@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
 [[OnDie_Fusion]]
+[[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_Topology]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[advanced packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

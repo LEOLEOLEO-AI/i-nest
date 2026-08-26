@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

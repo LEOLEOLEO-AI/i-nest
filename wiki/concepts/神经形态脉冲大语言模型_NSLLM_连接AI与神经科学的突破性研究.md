@@ -30,6 +30,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[AdditiveTopology_Embedding]]
 [[BCM滑动阈值]]
+[[CST_Synergy_Coordination]]
 [[Complex_System_Theory]]
 [[DelayedSynapticCoupling]]
 [[Intelligence_Emergence]]

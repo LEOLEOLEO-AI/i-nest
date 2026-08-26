@@ -41,11 +41,13 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neuromorphic_Computing]]
 [[QuantumReservoirMemoryCapacity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[Switch_Chiplet_Integration]]
+[[TCADCalibration]]
 [[TCC]]
 [[iNEST]]
 

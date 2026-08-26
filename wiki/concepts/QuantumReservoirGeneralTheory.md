@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Induced_Memory]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]
+[[Memory_Technology_Coexistence]]
 [[MemristiveReservoirBranchPrediction]]
 [[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]

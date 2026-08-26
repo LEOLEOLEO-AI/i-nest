@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
+[[FlagOS_2_0]]
 [[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]

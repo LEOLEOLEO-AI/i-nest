@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterfaces]]
+[[BurstTemporalPlasticity]]
 [[Confinement]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

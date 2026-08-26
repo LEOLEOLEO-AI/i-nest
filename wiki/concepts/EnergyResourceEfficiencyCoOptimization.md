@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
+[[Memristive_Crossbar_Array]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

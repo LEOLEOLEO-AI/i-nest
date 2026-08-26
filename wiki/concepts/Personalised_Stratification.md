@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateFire]]
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
+[[Anomaly_Mediated_Quantum_Criticality]]
 [[Automated_Reward_Shaping]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]

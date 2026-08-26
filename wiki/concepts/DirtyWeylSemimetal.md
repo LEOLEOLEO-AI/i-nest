@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenModularArchitecture]]
 [[EventDrivenRiskAssessment]]
 [[Free_Energy_Principle_Network]]
 [[FrustratedDimerMagnet]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CorticalWaveRouting]]
 [[Critical_Region_Extension]]
 [[ErrorAmplificationLimits]]
 [[Interconnect_Routing]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Neural_Topology]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

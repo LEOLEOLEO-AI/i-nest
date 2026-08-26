@@ -35,10 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

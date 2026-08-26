@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Orbital_Object_Pipeline]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Oncological_Digital_Twin]]

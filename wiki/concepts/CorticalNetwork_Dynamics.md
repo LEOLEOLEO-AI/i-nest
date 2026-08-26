@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[Complex_System_Theory]]
+[[KV_Cache_to_BoundaryObject]]
 [[KV_Cache_to_BoundaryObject_Transition]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]

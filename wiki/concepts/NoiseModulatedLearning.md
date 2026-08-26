@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeOfChaosComputation]]
 [[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenRiskAssessment]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

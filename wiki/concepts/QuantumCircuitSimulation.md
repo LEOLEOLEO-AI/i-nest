@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Neuron_Activation_Prediction]]
 [[Intelligence_Emergence]]
 [[LocalityConstrainedEntanglement]]
+[[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

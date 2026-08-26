@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Non_Von_Neumann_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[complex system]]

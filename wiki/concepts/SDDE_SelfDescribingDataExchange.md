@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Kinematic_Waves]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[SuperparamagneticSwitchingRate]]

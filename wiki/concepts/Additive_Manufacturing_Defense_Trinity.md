@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CausalEmergenceCondition]]
 [[Causal_Emergence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergent_Intelligence]]
 [[Connectome]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

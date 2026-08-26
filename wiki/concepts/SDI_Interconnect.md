@@ -44,9 +44,11 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI interconnect]]
 [[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

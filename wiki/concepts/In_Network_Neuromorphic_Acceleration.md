@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
 [[GradientBasedLearningLocalization]]
+[[ImageToEventConversion]]
 [[In_Network_Neuromorphic]]
 [[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Acceleration]]
@@ -39,8 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpiNNaker2_Chip]]
 [[Spiking_Neural_Network]]
+[[SynapticReinforcementConsolidation]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

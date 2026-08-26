@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[temporalComplexity]]
 [[忆阻器]]
+[[智能涌现]]
 [[类脑芯片]]
 
 ## Sources

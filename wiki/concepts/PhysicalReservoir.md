@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Connectome_Reservoir]]

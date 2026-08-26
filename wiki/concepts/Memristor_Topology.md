@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
+[[FerroelectricMemoryCell]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlocks]]
 [[GenerativeTopologyModels]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
+[[AnomalousSpinTransport]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]

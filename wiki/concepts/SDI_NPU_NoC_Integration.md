@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
+[[SDI_TCC_iNEST_Bridge]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SoftwareDefinedSystemOnWafer]]

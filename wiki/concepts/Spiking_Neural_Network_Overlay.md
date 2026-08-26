@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EventDrivenRiskAssessment]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[spiking neural network dynamics]]
 [[spiking neural network]]
 
 ## Sources

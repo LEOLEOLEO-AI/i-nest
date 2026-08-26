@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]

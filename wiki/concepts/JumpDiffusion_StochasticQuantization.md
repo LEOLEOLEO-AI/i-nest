@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalityInducedTopology]]
 [[Criticality]]
+[[Generative_Graph_Models]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]

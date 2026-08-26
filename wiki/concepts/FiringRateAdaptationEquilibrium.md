@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AutoAssociativeMemoryRobustness]]
 [[BCM滑动阈值]]
 [[Battlefield_AI_Deployment]]
+[[Battlefield_Medicine_Neuromorphic_Integration]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

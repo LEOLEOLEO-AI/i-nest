@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdaptiveNetworkResilience]]
 [[Analog_Computation]]
+[[Asymptotic_Exact_Solution]]
 [[Complex_System_Theory]]
 [[HierarchicalAttention_MIL]]
 [[Multi_Scale_Habituation]]

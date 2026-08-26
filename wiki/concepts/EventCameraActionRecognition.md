@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
+[[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
@@ -49,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[神经网络]]
 [[类脑芯片]]
 

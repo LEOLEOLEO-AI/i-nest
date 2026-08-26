@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AttractorConvergenceAnalysis]]
 [[Bipartite_Interconnect_Fabric]]
+[[BisectionBandwidthBound]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Dynamic_Expert_Fusion]]

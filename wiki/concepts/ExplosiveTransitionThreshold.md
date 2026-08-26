@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[TwoTimescaleNeuroEvolution]]
+[[Wafer_Scale_Neuromorphic]]
 [[智能涌现]]
 [[涌现]]
 [[神经网络]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BalancedRouting]]
 [[Baseline_Draft_Status]]
 [[CellEmergence]]
+[[DisorderedNetworkInterconnect]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

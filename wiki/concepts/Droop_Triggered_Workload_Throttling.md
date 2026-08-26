@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]
 [[Event_Driven_Architecture]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[STDP_Plasticity]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]

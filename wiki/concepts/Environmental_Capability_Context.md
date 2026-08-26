@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BigBrainCellularAxis]]
 [[CST_SynergisticCoordination]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[DiscreteContinuous_Unification]]
 [[InterFPGA_Spike_Routing]]

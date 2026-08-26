@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CircadianGateModulation]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

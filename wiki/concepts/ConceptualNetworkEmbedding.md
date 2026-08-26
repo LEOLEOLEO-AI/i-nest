@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplainableEnergyAI]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
+[[ManyBodyLocalizationThermalizationDuality]]
 [[MemristiveSignedCouplings]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicBrainDecoding]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[QuantumReservoirMemoryCapacity]]
 [[Reservoir_Computing]]
+[[TCADCalibration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

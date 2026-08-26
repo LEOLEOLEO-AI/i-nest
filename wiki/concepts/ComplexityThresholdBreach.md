@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
+[[Independent_AI_Player_Endgame]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

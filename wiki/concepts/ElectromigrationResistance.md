@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[CeYIGMagnetoOpticalIsolator]]
 [[CellEmergence]]
 [[ChannelCountScaling]]
+[[CongestionAwarePathSelection]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[TCC]]
 

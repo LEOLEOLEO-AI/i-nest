@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraPoseInput]]
 [[EvolutionarySpikeTimingOptimization]]
 [[FatigueSTDP]]
+[[ImpactFallDetection]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

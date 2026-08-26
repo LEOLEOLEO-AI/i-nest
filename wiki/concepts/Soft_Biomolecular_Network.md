@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicSymmetryBreaking]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[FlexibilityThreshold]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

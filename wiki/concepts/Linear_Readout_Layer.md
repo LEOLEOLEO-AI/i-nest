@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
+[[AstrocyteInspiredRepair]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]

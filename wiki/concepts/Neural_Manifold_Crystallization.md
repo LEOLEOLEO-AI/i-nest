@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AddressRedundancyElimination]]
+[[Adjoint_Gradient_Propagation]]
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
 [[ConsciousnessEngineeringLoop]]

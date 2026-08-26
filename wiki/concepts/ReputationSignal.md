@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[CommunicationHeterogeneity]]
+[[CorticalTypeDiversity]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]

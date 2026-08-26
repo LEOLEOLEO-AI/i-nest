@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Amorphous_Amorphous_Transition]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
+[[BrainBodyResonance]]
 [[CirculateFiringNeuron]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Criticality]]

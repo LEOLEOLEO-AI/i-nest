@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[BrownianCastleInterface]]
 [[EventDrivenTemplateUpdate]]
+[[MembranePotentialAlignment]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
+[[Whole_Organism_Behavioral_Assay]]
 [[complex system]]
 [[emergent computation]]
 [[iNEST]]

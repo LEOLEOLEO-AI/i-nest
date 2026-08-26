@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[Neuromorphic_Computing]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic computing]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdiabaticMultimodeBend]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

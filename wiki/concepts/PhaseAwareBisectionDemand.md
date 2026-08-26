@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[StressDrivenNetworkMorphogenesis]]
 [[Synaptic_Plasticity]]

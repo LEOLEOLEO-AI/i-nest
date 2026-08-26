@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[HallmarkDrivenCancerModeling]]
 [[OptimalControlPolicyLearning]]
+[[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[catastrophic forgetting]]
 [[iNEST]]

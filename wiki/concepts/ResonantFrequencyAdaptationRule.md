@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
+[[PhotoIontronicSynapse]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

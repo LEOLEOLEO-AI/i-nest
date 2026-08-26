@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[CST_CoordinationMechanism]]
 [[Complex_System_Theory]]
+[[ComputeRelocationOverhead]]
 [[DARPA_ProjectManager_Model]]
 [[FirstPrinciples_AI]]
 [[Heterogeneous_Compute_Graph]]

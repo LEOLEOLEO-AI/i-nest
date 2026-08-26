@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[MarginalContributionFitness]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Recurrent_Network_Homeostasis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[hls4ml_SNN_Conversion]]
+[[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[neuromorphic computing]]
 

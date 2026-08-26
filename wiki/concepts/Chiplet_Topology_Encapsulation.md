@@ -23,9 +23,11 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AnalogDomainCompression]]
 [[ChipletRoutingFabric]]
+[[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Topology]]
 [[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Encapsulation]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

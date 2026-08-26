@@ -37,11 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[Dendritic_In_Context_Learning]]
 [[In_Context_Learning]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
-[[Syncytial_Mesh_Model]]
+[[Syncytial_Mesh]]
 [[iNEST]]
 
 ## Sources

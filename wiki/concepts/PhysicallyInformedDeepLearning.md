@@ -32,10 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LLM_Driven_NoC_Control]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[Neuromorphic_Topology_Mapping]]
+[[Order_Flexibility_Duality]]
 [[TCC]]
 [[iNEST]]
 

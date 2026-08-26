@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Amorphous_Amorphous_Transition]]
+[[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
 [[Contested_Prior_Resolution]]
@@ -40,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[Syncytial_Mesh_Model]]
+[[Syncytial_Mesh]]
 [[TwoTimescaleNeuroEvolution]]
 [[criticality]]
 [[iMESO_PhysicalCarrier]]

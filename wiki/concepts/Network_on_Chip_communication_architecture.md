@@ -36,12 +36,15 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[GranularCortexExclusion]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Memory_Wall]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_topology_and_interconnection_patterns]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
@@ -61,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[heterogeneous_integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

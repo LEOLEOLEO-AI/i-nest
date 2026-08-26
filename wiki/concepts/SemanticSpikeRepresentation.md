@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
 [[CollectiveDynamics]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Deep_SNN_Trainability]]
 [[DendriticTaskPartitioning]]

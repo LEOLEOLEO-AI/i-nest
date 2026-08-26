@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Stimulus_Responsive_Release]]
 [[Synaptic_Plasticity]]
 [[neuromorphic computing]]
 

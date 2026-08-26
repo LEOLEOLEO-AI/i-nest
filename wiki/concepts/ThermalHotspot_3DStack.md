@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
+[[Chiplet_Interconnect_Scheduling]]
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[DirectConnect_Topology]]

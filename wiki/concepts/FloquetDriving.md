@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[GateModelQuantumOptimization]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

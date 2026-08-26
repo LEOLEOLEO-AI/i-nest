@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Orchestrator]]
 [[AgentReinforcementLoop]]
+[[Agent_Workflow_Automation]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

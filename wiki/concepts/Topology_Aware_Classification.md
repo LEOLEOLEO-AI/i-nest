@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AnteHoc_Explainability]]
 [[BCM滑动阈值]]
+[[CST_Synergy_Coordination]]
 [[CST_Theory_V27_FINAL]]
 [[CST_Triad_Integration]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

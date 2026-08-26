@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]

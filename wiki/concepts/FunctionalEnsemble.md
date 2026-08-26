@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Speech_Tokenizer]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -32,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[CriticalityInducedComputationalCapacity]]
 [[Cross_Node_Event_Propagation]]
+[[DimensionSeparation_IntensiveExtensive]]
 [[Neuromorphic_Computing]]
+[[Self_Organized_Criticality]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

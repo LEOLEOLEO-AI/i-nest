@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[EventDrivenFunctionalConnectivity]]
+[[ExtinctionDrivenMetastability]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]

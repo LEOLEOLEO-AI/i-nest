@@ -33,7 +33,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

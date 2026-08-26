@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[MembranePotentialModulation]]
 [[Memristive_STDP]]
 [[RecurrentSpikingSocialNetwork]]
+[[SNN]]
+[[STDP_Plasticity]]
 [[Soc]]
 [[SpikeDecoder]]
 [[SpikeEncoding]]

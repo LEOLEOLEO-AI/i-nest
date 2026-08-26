@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
 [[MultiplicativeGain]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
 [[iNEST]]
 

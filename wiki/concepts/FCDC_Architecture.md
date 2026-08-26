@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
+[[Long_Range_Interactions]]
 [[Memristive_Crossbar_Array]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

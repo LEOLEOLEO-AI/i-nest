@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralNetworkTopologyMapping]]
+[[SpikingTopologyAnalysis]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_NoC_Fabric]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]

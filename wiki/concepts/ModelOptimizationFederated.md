@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[ModelOptimization]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Neuromorphic_Computing]]
 [[PhotoIontronicSynapse]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[忆阻器]]
 [[神经形态计算]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[类脑芯片]]
 

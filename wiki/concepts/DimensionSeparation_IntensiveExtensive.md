@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[EventDrivenMotionDeblurring]]
+[[ExtinctionDrivenMetastability]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[PowerLawScaling]]

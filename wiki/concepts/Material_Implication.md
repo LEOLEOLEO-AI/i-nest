@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[FerroelectricTunnelingJunction]]
 [[Ferroelectric_Devices]]
+[[Field_Compression_for_InNetwork_Inference]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]

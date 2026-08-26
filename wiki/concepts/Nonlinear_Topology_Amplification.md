@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[Exponential_CST_Coupling]]
 [[FlagOS_2_0]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

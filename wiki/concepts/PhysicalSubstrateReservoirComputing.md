@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Generative_Graph_Models]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonlinearDynamicalSampling]]
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

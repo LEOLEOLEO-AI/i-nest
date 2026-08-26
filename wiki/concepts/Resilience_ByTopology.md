@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EdgeIoTEnergyAwareness]]
+[[Energy_Efficient_Control]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]

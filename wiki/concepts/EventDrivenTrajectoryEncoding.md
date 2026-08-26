@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenTracking]]
 [[EventDrivenWirelessTransmission]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]

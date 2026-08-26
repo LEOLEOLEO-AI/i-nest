@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiScaleTemporalProcessing]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Passive_BCI_Neurofeedback]]

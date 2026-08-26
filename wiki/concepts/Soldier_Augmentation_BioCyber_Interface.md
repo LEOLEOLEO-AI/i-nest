@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ReliabilityOverheadTradeoff]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
+[[SDI_TCC_iNEST_Interconnect]]
 [[iNEST]]
 
 ## Sources

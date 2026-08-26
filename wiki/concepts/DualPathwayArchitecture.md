@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AnteHoc_Explainability]]
 [[BifurcationCandidateSet]]
 [[CST_Spatiotemporal_Complexity]]
+[[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

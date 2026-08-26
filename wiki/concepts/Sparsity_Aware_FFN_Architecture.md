@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CrossSubstrateHomology]]
 [[DARPA_ProjectManager_Model]]
+[[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

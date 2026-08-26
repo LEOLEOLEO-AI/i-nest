@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[CorticalWaveRouting]]
 [[EmergentOrder]]
+[[FrozenRateOperator]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

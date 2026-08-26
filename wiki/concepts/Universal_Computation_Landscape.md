@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[MatrixShapePhaseTransition]]

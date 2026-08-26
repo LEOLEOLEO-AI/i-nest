@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Microgrid_Optimization]]

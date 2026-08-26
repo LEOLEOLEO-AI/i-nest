@@ -31,8 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Griffiths phase]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 [[topological quantum error correction]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

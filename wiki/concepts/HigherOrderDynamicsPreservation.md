@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[DailyResearchDigest]]
 [[FermiSurfaceTopologySignature]]
+[[FixedOverheadFloor]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

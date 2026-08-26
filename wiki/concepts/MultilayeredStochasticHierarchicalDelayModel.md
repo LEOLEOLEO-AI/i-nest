@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
+[[Complexity_Emergent_Intelligence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

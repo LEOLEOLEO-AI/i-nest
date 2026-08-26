@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Decoupled_Priors]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Security_Architecture]]
 [[Complex_System_Theory]]
 [[CriticalInertiaEstimation]]
+[[ERI_2_0_Framework]]
 [[EdgeAI_Market_Consolidation_Driver]]
 [[Energy_Efficient_Control]]
 [[Heterogeneous_Integration]]

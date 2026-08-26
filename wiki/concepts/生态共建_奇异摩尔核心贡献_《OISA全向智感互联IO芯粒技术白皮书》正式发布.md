@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[1024_Card_SuperNode]]
+[[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[ERI_2_0_Strategy]]

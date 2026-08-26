@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neural_Network_Quantum_State_Transfer_Learning]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

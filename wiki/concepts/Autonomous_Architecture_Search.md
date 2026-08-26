@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Convergent_Evolution_Representation_Space]]
+[[Decoupled_Prior_Integration]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[Avoided_Criticality]]
 [[BurstTemporalPlasticity]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -41,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 
 ## Sources

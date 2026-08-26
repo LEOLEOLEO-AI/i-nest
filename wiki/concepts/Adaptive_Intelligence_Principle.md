@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[CommunicationAwareComputeRelocation]]
+[[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 [[iNEST]]

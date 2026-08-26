@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SparsityAwareInterconnect]]
 [[TCC]]
 [[advanced packaging]]
 

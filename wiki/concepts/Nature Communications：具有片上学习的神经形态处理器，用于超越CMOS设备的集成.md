@@ -43,6 +43,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
 [[NoC_SDI]]
 [[Photonic_Chiplet_Interconnect]]
+[[RISC-V 鏋舵瀯涓_SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚_LLM 浣庡欢杩熸帹鐞嗕笌璁粌]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]

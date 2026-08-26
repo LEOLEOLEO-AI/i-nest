@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

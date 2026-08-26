@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[DataMovementMinimization]]
+[[Disordered_Frustrated_Dimer_Magnets]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumChaos]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_NPU_NoC_Integration]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[ScaleFreeNetwork]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

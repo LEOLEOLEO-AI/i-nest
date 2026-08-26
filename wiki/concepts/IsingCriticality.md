@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AgenticServiceOrchestration]]
+[[Ant_Swarm_Functional_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]

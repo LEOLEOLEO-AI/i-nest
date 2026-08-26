@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[CognitiveTaskonomy]]
 [[Compact_Boson_Dynamics]]
+[[DisorderedNetworkInterconnect]]
 [[EdgeIoTEnergyAwareness]]
 [[EvolutionarySearch]]
 [[Intelligence_Emergence]]

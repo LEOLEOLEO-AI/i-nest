@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[AtomicGeometryEncoding]]
+[[EnsembleSparsity]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[SNN]]

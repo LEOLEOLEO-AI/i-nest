@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[ContactOpportunityExploitation]]
+[[DeepParsing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

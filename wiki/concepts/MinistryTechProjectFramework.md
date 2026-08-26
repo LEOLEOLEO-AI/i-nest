@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[TCC]]
+[[Z3ToricCode]]
 [[iNEST]]
 
 ## Sources

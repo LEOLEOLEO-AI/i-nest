@@ -30,9 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BurstGatedRouting]]
 [[Criticality]]
+[[Interconnect_Routing]]
+[[NestedRepresentation]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
-[[Syncytial_Mesh_Model]]
+[[Syncytial_Mesh]]
 [[iNEST]]
 
 ## Sources

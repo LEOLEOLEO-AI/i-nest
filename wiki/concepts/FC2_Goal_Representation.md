@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[ExactRateNetworkBifurcation]]
+[[FowlerNordheimAnnealer]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

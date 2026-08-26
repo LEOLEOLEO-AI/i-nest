@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveTimeStepTraining]]
 [[AstrocyteInspiredRepair]]
+[[BioInspiredLearningRule]]
 [[Complex_System_Theory]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]

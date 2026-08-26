@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ByteDance_Ada_Chip]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[Defense_Industrial_Base_Reshaping]]
 [[EfficientDeepLearning]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

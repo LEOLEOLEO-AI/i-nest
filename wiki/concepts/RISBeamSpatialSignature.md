@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Decoupling_Mechanism]]
+[[EpidemicThreshold]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

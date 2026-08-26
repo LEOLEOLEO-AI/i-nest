@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Decoupled_Priors]]
+[[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Stacking]]
+[[3D_Heterogeneous_Integration]]
 [[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]

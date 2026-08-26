@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenModularArchitecture]]
 [[EventDrivenRiskAssessment]]
 [[FrustratedDimerMagnet]]
 [[InNetworkAgentRewiring]]

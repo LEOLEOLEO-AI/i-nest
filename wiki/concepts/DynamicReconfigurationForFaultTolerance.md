@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[BrainScaleTopologyExploitation]]
+[[Brain_Dynamics_Learning]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]

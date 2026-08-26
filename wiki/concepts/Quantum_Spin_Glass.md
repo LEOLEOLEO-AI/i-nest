@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Accessibility_Plasticity]]
 [[AdiabaticMultimodeBend]]
 [[Anisotropic_Correlation_Length]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalFeatureInvariance]]
 [[VerticalOpticalInterconnect]]
 [[ViewDependentAppearance]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 

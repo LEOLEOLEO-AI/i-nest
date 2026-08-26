@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_OnChip_Learning]]
 [[MeanFieldSpinGlass]]
 [[Metriplectic_Twin]]
+[[Multifractal_Signatures]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

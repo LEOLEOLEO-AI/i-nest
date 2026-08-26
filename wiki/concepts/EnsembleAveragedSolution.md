@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[ConstrainedHebbianLearning]]
 [[Emergent_Intelligence_Threshold]]
+[[Free_Energy_Principle_Topology]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

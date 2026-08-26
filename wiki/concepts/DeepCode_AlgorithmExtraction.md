@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
 [[EventBasedNeuralDecoding]]
+[[EventDrivenMotionDeblurring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

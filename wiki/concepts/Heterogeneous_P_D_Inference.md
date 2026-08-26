@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MemristiveMEMSResonator]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalWaferTriplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

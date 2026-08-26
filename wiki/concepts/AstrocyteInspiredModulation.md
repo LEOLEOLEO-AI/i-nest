@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AmoebaInspiredLocomotion]]
 [[Contested_Priors_Mechanism]]
+[[CriticalStateSelfOrganization]]
+[[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

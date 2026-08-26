@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
+[[BrainInspiredArchitecture]]
 [[BurstGatedRouting]]
 [[ExplainableEnergyAI]]
 [[Gut_Brain_Immune_Network]]

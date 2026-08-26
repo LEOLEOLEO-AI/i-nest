@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Complex_System_Theory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Hypergraph_Label_Noise]]
 [[NoiseRobust_Hyperedge_Aggregation]]
 [[RobustnessToSensorNoise]]

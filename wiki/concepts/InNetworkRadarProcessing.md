@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDSoW]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

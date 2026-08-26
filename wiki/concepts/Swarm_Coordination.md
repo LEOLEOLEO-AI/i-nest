@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
+[[Complexity_Emergent_Intelligence]]
 [[Constructed_Reality_Interconnect]]
 [[Dynamic_Expert_Fusion]]
 [[EGO_Architecture]]

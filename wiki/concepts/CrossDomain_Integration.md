@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
+[[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]

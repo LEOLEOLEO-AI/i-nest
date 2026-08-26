@@ -30,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
-[[In_Network_Neuromorphic_Processing]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Network]]

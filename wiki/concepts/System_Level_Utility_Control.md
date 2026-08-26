@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Integration]]
 [[Intelligent_Power_Management]]
 [[L2_L3_Reconfigurability]]
 [[Microgrid_Optimization]]
@@ -46,11 +45,15 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

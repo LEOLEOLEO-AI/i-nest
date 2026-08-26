@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoupledOscillatorReservoir]]
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
+[[Fixed_Reservoir_Unitary]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

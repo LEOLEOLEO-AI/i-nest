@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[AtomicGeometryEncoding]]
 [[BrownianCastleInterface]]
+[[EnsembleSparsity]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRestoration]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

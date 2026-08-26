@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CrossLingualTopologyEmbedding]]
 [[DelayCascadePrediction]]
+[[Differential_Encoding]]
 [[Intelligence_Emergence]]
 [[MachineLearningPotential]]
 [[Network_Topology_Design]]

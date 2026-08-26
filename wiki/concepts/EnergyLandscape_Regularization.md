@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DisorderedNetworkInterconnect]]
+[[DistributedEventConditionDesign]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

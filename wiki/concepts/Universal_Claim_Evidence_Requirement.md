@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
 [[neuromorphic computing architecture]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

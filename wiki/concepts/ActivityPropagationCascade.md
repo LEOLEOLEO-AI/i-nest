@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Cascading_Failure_Mitigation]]
+[[CriticalNormBoundary]]
 [[CriticalityDrivenTopology]]
 [[Criticality]]
 [[Interconnect_Routing]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
+[[QuantumKernelMethods]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Reservoir_Computing]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
+[[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]

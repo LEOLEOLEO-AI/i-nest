@@ -30,8 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_To_Information_Conversion]]
+[[Avoided_Criticality]]
 [[EventDrivenAutoregression]]
 [[Heterogeneous_Integration]]
+[[SNN]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[TransformerBackflow]]
 

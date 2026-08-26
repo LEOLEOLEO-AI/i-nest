@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiScaleTemporalProcessing]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

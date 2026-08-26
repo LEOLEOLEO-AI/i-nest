@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Critical_Region_Extension]]
+[[CrossbarFabricTopology]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

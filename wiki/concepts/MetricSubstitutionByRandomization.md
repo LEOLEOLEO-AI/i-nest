@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[ComputeRelocationOverhead]]
+[[Disordered_Frustrated_Dimer_Magnets]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

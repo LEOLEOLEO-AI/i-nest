@@ -26,7 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
+[[Chiplet_Topology_Interconnect]]
 [[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

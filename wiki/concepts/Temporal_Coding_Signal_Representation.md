@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[ElasticInferenceScheduling]]
 [[EventCameraPoseInput]]
+[[EventDrivenSpectralProcessing]]
 [[JunctionSignalIntegrity]]
 [[Local_Plasticity]]
 [[NeuromorphicAuditoryFrontend]]

@@ -35,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonlinearTransientDynamics]]
 [[Nonlinear_Gain]]
 [[RenormalizationGroupIntelligence]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 

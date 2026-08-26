@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[EndToEndLinkSimulation]]
 [[EulaminateOverrepresentation]]
+[[Flow_Aware_Interconnect_Design]]
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[NonEquilibriumComputing]]

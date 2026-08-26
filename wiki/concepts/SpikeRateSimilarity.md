@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspiredArchitecture]]
+[[ElasticInferenceScheduling]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
 [[TCC_Neuromorphic_Integration]]
+[[Weight_Reinitialization]]
 [[branch prediction]]
 [[pipelined processor]]
 [[reservoir computing]]

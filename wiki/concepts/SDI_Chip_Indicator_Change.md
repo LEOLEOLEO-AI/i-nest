@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[CompactFieldVariable]]
 [[Decoupled_Priors]]
+[[DiagnosticReportFramework]]
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]

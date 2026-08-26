@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
 [[AnalogInMemoryComputing]]
 [[CST_SynergisticCoordination]]
 [[Complex_System_Theory]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TSVEncapsulationStress]]
 [[complex system]]
 [[iNEST]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 
 ## Sources

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NonequilibriumLangevinComputing]]
 [[Physical_Reservoir_Substrate]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[iNEST]]
 [[neuromorphic computing]]

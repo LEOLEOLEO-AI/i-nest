@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DendriticReservoirState]]
 [[EdgeIoTEnergyAwareness]]

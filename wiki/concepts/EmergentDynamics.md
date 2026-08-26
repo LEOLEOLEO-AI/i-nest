@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexEcosystemDynamics]]
 [[Contested_Priors_Mechanism]]
 [[Free_Energy_Topology_Mapping]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

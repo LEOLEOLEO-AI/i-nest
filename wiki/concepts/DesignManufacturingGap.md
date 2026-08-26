@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Anomaly_Protected_Scaling_Law]]
 [[Architectural_Conditioning]]
+[[BayesianConnectivityEstimation]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

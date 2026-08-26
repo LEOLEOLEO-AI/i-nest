@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
+[[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

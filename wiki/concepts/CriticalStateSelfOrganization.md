@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AmoebaInspiredLocomotion]]
 [[AstrocyteInspiredModulation]]
+[[Gaussian_Splatting_Streaming]]
+[[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

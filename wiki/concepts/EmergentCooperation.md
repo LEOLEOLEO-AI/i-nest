@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[CollectiveDynamics]]
 [[CriticalStateInformationMaximization]]
+[[CrossLayer_SignalRouting]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[SNN]]

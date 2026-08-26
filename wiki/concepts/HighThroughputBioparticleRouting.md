@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[HighThroughputParticleRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[NoC_EventRouting]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
 [[TCC]]

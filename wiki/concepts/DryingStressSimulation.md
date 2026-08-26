@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraPoseInput]]
 [[ImpactFallDetection]]
 [[Network_Topology_Design]]
+[[Oncological_Digital_Twin]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

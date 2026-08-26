@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BackpropagationFreeLearning]]
-[[CellEmergenceMechanism]]
+[[CellEmergence]]
 [[CrossLayer_SignalRouting]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HighThroughputParticleRouting]]
@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
+[[NeuromorphicGradientPropagation]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]
 [[iNEST]]

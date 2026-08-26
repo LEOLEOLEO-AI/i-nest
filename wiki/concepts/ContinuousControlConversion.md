@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleCreditAssignment]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenMotionDeblurring]]
+[[Event_Driven_Gait_Transition]]
 [[FrequencyAdaptationMechanism]]
 [[HumanVisionInspiredSNN]]
 [[Neuromorphic_Computing]]

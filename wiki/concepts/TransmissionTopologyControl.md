@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[ControlTheoreticTopology]]
+[[Critical_Region_Extension]]
 [[CrossbarFabricTopology]]
 [[DTGA]]
 [[Decoupling_Mechanism]]

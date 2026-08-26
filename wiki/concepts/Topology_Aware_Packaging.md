@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
+[[Disordered_Frustrated_Dimer_Magnets]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]

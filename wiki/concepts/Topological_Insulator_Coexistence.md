@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DataMovementMinimization]]
 [[Decoupled_Priors]]
+[[Disordered_Frustrated_Dimer_Magnets]]
 [[Dynamic_Expert_Fusion]]
 [[EntanglementAwareRouting]]
 [[Free_Energy_Principle_Network]]

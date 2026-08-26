@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[BioInspiredSpikeEncoding]]
 [[BrainScaleTopologyExploitation]]
+[[Brain_Dynamics_Learning]]
 [[Complex_System_Theory]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Technical_Program_Officer_Autonomy]]
 [[TemporalCreditAssignment]]
+[[TemporalErrorFeedback]]
 [[iNEST]]
 [[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
+[[FormalLinguisticCompetence]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

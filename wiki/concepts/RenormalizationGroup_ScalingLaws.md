@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Deep_Network_Layer_Stacking]]
 [[EmergentOrder]]
+[[Evolutionary_Computability]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

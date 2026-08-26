@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Complexity_Coordination_Layer]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

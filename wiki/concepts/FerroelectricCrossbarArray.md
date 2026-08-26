@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[In_Memory_Computing]]

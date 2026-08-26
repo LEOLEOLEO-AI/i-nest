@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DirectSNNTraining]]
 [[DynamicTokenSparsity]]

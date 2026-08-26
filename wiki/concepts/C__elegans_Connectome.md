@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[ChaoticAttractorTopology]]
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[DevelopmentalConnectomeTemporalGraph]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]
+[[ContinuousControlConversion]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

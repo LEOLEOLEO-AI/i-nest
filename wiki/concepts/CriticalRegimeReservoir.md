@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MassConservationInductiveBias]]
 [[MonitoredQuantumReservoir]]
 [[Monitored_Quantum_Circuits]]
+[[MultifractalCriticalPhase]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

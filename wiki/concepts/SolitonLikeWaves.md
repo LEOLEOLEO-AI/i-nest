@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[STDP_iNEST]]
 [[Spatiotemporal_Emergence_Model]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingPlaceCellEnsemble]]

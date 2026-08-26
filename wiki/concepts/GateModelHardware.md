@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
+[[NeuromorphicTransformerTopology]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[Surface_Phase_Transition]]

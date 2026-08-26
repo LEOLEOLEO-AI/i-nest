@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AdvancedPackagingInterconnect]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]

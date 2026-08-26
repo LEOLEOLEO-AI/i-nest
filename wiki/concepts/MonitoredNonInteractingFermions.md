@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[Ant_Swarm_Functional_Control]]
+[[Cognitive_Relapse_Decoupling]]
 [[Network_Topology_Design]]
 [[TCC]]
 

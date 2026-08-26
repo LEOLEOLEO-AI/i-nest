@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Free_Energy_Minimization_Interconnect]]
 [[Intelligence_Emergence]]
+[[InterconnectConstrainedEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[complex system]]

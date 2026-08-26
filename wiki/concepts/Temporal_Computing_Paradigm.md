@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[EventDrivenFunctionalConnectivity]]
 [[EventDrivenSpectralProcessing]]
+[[ITP_STDP]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
 [[STDP_Learning]]

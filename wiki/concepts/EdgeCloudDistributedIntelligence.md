@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Technology_Incubation]]
 [[DataDrivenMaterialDesign]]
 [[DelayRobustEmergence]]
+[[DifferentiableRasterizationPipeline]]
 [[DistributedIntelligence]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

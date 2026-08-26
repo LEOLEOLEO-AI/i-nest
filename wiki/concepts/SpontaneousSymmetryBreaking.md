@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Ant_Swarm_Functional_Control]]
 [[Cognitive_Relapse_Decoupling]]
 [[CorticalTypeDiversity]]
 [[Criticality]]

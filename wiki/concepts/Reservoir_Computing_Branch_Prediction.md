@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[QuantumGateSynthesis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[branch prediction]]

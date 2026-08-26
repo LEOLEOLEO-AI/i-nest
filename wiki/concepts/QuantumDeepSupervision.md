@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[PersonalizedSNNTransfer]]
+[[PersonalizedSNN]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_TCC_Integration]]

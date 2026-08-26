@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveFrequencyResonateFire]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[BayesianDomainEvolution]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]

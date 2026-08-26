@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Cascading_Failure_Mitigation]]
 [[CeYIGMagnetoOpticalIsolator]]
 [[CellEmergence]]
+[[CrossLayer_SignalRouting]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ForwardFluctuationGradient]]
 [[FractalPathEntropy]]
 [[HigherOrderSimplicialDynamics]]
+[[HoldingManeuverDelayPrediction]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

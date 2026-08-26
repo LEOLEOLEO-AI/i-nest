@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SpikingTopologyEvolution]]

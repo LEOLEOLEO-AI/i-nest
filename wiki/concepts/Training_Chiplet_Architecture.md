@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
+[[Bipartite_Interconnect_Fabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[TCC]]

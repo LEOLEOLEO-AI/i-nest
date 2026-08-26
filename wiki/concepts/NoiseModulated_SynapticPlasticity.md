@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ConductingPolymerDendriteMemory]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]
@@ -38,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic spiking]]
 [[类脑芯片]]
 

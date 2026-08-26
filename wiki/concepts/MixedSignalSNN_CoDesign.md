@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SafetyThresholdAsSpikingThreshold]]
+[[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]

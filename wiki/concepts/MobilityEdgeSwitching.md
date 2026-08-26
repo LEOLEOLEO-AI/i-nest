@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[Free_Energy_Topology_Mapping]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

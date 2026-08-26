@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
+[[Entangled_Criticality]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[TCC]]

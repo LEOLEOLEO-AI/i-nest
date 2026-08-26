@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AdditiveTopology_Embedding]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[ERI_2_0_Strategy]]
 [[Intelligence_Emergence]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalCrackPattern]]
 [[Intelligence_Emergence]]
 [[MultiScalePathDivergence]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Planar_Network_Generation]]

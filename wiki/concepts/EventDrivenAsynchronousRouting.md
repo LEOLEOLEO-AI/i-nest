@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[Baseline_Draft_Status]]
+[[BurstGatedRouting]]
 [[FPGA_NeuromorphicMapping]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

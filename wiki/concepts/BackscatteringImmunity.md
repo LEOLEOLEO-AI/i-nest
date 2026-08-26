@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletTopologyAwareness]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[ConductingPolymerDendriteInterconnect]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[IsolatedKVBandwidth]]

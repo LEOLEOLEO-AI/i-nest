@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistenceRegime]]
 [[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
+[[ERI_2_0_Strategy]]
 [[Encapsulation_Topology]]
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]

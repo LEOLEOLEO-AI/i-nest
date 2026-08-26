@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Epithelial_Barrier_Integrity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ParallelMultiCompartmentNeuron]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Scalable_Spiking_Construction]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[神经网络]]

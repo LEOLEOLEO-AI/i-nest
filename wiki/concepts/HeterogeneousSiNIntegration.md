@@ -22,12 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[BondMovingDecimation]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CongestionAwareNoCPlacement]]
 [[EquilibriumTreePacking]]
 [[GateModelQuantumOptimization]]
 [[Heterogeneous_Integration]]
 [[HypergraphRumorPropagation]]
 [[Network_on_Chip]]
-[[Network_on_Chip_communication_architecture]]
 [[NoC_Chiplet_Integration]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

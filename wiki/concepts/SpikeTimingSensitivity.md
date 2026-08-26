@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CorticalWaveRouting]]
 [[Environmental_Capability_Context]]
+[[Flexible_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Loihi2_SpikeEncoding]]
 [[Memristive_STDP]]

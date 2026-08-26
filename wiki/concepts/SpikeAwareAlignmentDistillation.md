@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTemporalDataAssociation]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[StochasticSpikeEncoding]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic substrate]]

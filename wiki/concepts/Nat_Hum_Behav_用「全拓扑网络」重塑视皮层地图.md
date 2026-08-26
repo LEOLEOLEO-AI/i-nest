@@ -32,6 +32,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[DeviceConductanceTuning]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
+[[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[TCC]]

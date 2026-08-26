@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

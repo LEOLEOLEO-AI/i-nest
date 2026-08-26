@@ -31,7 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologySearch]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[TCC]]
 

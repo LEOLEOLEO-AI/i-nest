@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Residual_Connection]]
+[[SDI_STDP]]
 [[SNN]]
 [[SensoryGatedSpikingLoop]]
 [[SpikeCodedAssociation]]

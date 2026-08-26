@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[Free_Energy_Topology_Mapping]]
 [[InNetwork_Learning_Interface]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Ising formulation]]
 [[Ising_Formulation]]

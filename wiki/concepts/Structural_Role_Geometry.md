@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSynchronization]]
+[[Knowledge_Graph_Navigation]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]

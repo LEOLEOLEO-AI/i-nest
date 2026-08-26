@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenModularArchitecture]]
 [[EventTriggeredDistributedControl]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_topology_and_interconnection_patterns]]

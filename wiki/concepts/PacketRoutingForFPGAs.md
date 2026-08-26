@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[PacketRoutingOptimization]]
 [[TCC]]
 [[Topology_Centric_Computing]]
 [[iNEST]]

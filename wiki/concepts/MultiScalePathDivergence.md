@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[TopologyEmbeddedIntrospection]]
+[[VariationalFreeEnergyMinimisation]]
 [[emergent computation]]
 [[iNEST]]
 

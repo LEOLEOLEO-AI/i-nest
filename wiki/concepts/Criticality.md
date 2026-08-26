@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AmorphousSolidPlasticity]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
 [[CST_Theory_V27_FINAL]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_of_Natural_Languages]]
 [[Long_Range_Interactions]]
 [[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[criticality]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CouplingMatrixRecovery]]
 [[Critical_Region_Extension]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Principle_Network]]

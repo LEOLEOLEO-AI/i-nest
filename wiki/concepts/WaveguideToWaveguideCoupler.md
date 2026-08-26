@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology_Packaging]]
+[[Decoupled_Priors]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

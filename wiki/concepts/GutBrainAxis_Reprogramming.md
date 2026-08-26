@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Free_Energy_Topology_Mapping]]
 [[Gut_Brain_Immune_Network]]
+[[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

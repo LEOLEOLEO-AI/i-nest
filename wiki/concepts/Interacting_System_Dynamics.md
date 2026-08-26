@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AutogradCompatibleSpiking]]
 [[AutomatedQuantizationFramework]]
 [[Automated_Assessment_Framework]]
+[[BiSpikCLM]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

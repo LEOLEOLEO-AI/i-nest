@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Emergent_Intelligence_Threshold]]
+[[Free_Energy_Minimization_Interconnect]]
 [[Haltability]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

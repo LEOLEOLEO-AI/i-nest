@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[RenormalizationGroup_ScalingLaws]]
 [[ReproducibleReservoirComputing]]
+[[ReproducibleReservoirDynamics]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]

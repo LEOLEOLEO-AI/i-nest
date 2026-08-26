@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[EntropyMinimization]]
 [[FC2_NeuralCircuit]]
+[[FieldTopologyEmbedding]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

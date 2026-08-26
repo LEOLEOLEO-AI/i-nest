@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[CirculateFiringNeuron]]
 [[Complex_Network_Brain_Inspired_Computing]]
+[[Control_Field_Framework]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Anomaly_Mediated_Quantum_Criticality]]
 [[Ant_Swarm_Functional_Control]]
 [[Autonomous_Unmanned_Combat_Networking]]
 [[Network_Topology_Design]]

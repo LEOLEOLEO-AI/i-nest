@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[CSI_Temporal_Encoding]]
+[[CircadianGateModulation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

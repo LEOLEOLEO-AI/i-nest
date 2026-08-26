@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Interconnect]]
+[[ComputeRelocationOverhead]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

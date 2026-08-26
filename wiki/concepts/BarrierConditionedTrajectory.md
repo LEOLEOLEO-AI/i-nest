@@ -39,9 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Satellite_Mesh]]
 [[SNN_NeuroprostheticPipeline]]
 [[SelfOrganization]]
+[[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Topology_Aware_Spike_Routing]]
 [[branch prediction]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

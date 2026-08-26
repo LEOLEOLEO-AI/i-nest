@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[DualDrivenHybridNetwork]]
 [[Dynamic_Expert_Fusion]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryDrivenRouting]]
 [[MemoryEfficientSimulation]]
 [[Network_Topology_Design]]
+[[NextNearestNeighborHopping]]
 [[Resilient_Satellite_Mesh]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]

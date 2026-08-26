@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor]]
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
+[[LIF_Neuron_Model]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristor_Synapse]]
 [[PhysicalReservoir]]

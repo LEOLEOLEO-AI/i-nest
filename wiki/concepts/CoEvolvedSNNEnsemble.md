@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnisotropicGaussianPrimitives]]
 [[ApproximateMacroscopicDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CSI_Temporal_Encoding]]

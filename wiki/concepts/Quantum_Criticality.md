@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[AnalogDomainCompression]]
+[[Anomaly_Mediated_Quantum_Criticality]]
 [[ArchitecturalCondition]]
 [[AvalancheBranchingRatio]]
 [[Boundary_Criticality]]

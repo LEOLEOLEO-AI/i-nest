@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
+[[Analog_To_Information_Conversion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]

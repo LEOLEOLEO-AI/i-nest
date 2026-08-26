@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[EventCameraPoseInput]]
+[[ImpactFallDetection]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]

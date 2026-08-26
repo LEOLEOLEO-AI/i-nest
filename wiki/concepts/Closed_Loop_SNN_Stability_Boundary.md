@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[ExplosiveTransitionThreshold]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

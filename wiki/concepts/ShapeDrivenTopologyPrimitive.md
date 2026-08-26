@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[Anomaly_Induced_Quantum_Criticality]]
+[[Ant_Swarm_Functional_Control]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]

@@ -27,10 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Complex_System_Theory]]
 [[Independent_AI_Player_Endgame]]
 [[Network_Topology_Design]]
 [[OscillatoryDynamicsTopology]]
 [[P_Paradigm]]
+[[PhotonicStateRetention]]
 [[TCC]]
 
 ## Sources

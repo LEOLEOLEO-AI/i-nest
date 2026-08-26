@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorNeuralNetwork]]
 [[AutoAssociativeMemoryRobustness]]
 [[BCM滑动阈值]]
+[[Battlefield_AI_Deployment]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

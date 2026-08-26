@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[BrainBodyResonance]]
 [[Contested_Priors_Mechanism]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SpikeCodedFeatureAssociation]]
+[[SpikeEncoding]]
 [[SpikeFusionLayer]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

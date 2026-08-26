@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Amorphous_Amorphous_Transition]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[BulletTrainScheduling]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]

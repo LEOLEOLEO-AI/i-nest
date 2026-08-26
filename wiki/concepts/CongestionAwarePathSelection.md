@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
+[[DirtyWeylSemimetal]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[TCC]]

@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
+[[PhaseSynchronizationDetection]]
+[[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

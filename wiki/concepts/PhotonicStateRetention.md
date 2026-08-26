@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Decoupled_Priors]]
 [[Heterogeneous_Integration]]
 [[Independent_AI_Player_Endgame]]
 [[Network_Topology_Design]]

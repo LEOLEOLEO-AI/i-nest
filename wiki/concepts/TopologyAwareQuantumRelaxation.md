@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[AdjointWaveControl]]
 [[Critical_Region_Extension]]
+[[DelayTolerantNetworkUAV]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

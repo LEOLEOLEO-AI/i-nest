@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Memristive_CAM_Indexing]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

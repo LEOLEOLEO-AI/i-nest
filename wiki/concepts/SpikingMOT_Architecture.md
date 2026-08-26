@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Amorphous_Amorphous_Transition]]
 [[BiSpikCLM]]
+[[BrownianCastleInterfaces]]
 [[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]

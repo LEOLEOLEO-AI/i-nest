@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
+[[EnsembleSparsity]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[SNN]]

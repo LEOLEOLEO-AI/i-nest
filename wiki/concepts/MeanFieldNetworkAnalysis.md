@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
+[[AstrocyteInspiredRepair]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]

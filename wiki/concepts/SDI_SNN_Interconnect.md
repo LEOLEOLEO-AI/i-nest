@@ -33,11 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
+[[新型计算]]
 [[神经形态计算]]
-[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

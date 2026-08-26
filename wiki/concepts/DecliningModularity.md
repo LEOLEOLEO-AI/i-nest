@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[BrainBodyResonance]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAwareComputeRelocation]]
 [[EnsembleSparsity]]

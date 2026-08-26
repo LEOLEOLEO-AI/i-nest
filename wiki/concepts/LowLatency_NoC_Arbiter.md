@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CXL_Deployment_Transition]]
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
+[[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[FlagOS_2_0]]
 [[GPU_Hegemony_Disruption]]

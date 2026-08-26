@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Spacetime_Coupling_Coefficient]]
@@ -60,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

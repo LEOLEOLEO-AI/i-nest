@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Expert_Review_Arbitration]]
+[[FisherInformationMetric]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[Memristive_Topology]]

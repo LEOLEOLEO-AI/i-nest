@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[Dynamic_Expert_Fusion]]

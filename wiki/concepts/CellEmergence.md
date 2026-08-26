@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[OpportunisticRouting]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[StochasticMultiAgentRL]]

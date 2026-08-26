@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[EventCameraPoseInput]]
+[[ImpactFallDetection]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]

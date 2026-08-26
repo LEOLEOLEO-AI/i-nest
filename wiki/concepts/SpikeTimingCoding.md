@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[BurstCoding]]
 [[EventCameraPoseInput]]
+[[ImpactFallDetection]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeBasedBeliefPropagation]]

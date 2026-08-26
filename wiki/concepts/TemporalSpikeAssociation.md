@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Transiently_Amplifying_Construction]]
+[[VaCoAl]]
 [[complex system]]
 [[iNEST]]
 [[soc]]

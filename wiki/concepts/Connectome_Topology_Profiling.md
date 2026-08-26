@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[Connectome]]
+[[Crystallized_Neural_Manifolds]]
 [[DataProvenanceIntegrity]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]

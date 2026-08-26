@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Developmental_Computing]]
 [[Dynamic_Expert_Fusion]]
+[[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

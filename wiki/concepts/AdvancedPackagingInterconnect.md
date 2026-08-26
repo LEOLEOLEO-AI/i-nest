@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Probe]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[Critical_Exponent_Scaling]]
 [[DendriticReservoirState]]
+[[DynamicNeuralManifolds]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]

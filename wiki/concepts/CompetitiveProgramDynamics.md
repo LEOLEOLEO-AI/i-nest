@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
+[[Dynamic_Expert_Routing]]
 [[FlexibilityThreshold]]
 [[MIND model]]
 [[MIND_Model]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[Memristor_Synapse]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TemporalEchoMemory]]
 [[iNEST]]
+[[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Interaction_Sequencing]]
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]
+[[Baseline_Change_Record]]
 [[BranchingRatio]]
 [[Criticality]]
 [[Neuromorphic_Computing]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
+[[HighFrequency_Interconnect_Optimization]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_on_Chip]]

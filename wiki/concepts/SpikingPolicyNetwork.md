@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Distributed_Spike_Communication]]
+[[InNetworkNeuromorphicAdaptation]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

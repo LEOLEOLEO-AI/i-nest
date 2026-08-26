@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FC2_Goal_Representation]]
 [[FowlerNordheimAnnealer]]
 [[Fractal_Entanglement_Scaling]]
+[[FrozenRandomFeatureExtractor]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

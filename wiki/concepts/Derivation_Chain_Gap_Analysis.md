@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AgenticServiceOrchestration]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Self_Organized_Criticality]]

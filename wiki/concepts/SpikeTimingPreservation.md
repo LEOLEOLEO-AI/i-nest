@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[ConsciousnessEngineeringLoop]]
 [[Contested_Priors_Mechanism]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[EventCameraTemporalEncoding]]
 [[InterFPGA_Spike_Routing]]

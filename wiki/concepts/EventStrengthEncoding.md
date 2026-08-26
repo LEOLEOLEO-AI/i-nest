@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[DelayCodedWorkingMemory]]
 [[EventDrivenInference]]
+[[EventDrivenPlasticity]]
 [[Event_Driven_Architecture]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]

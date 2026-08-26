@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
+[[Crossover_Physics]]
 [[EdgeIoTEnergyAwareness]]
 [[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

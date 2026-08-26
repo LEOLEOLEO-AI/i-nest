@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI_Integration]]
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
+[[PacketRoutingOptimization]]
 [[SDI_Bond]]
 [[SelfOrganization]]
 [[TCC]]

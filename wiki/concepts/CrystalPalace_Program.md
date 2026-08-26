@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST_CoordinationMechanism]]
 [[CST_Intelligence_Emergence]]
+[[CausalEmergenceCondition]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[DataDrivenCellularAxis]]

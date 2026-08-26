@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ConnectomicDevelopmentalTrajectory]]
 [[Controlled_Release_Kinetics]]
 [[EmergentAttractorStability]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Parkinsonian_Neural_State_Detection]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[fractal_Scaling]]

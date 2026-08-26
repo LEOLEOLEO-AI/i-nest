@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[Distributed_Spike_Communication]]
+[[DualDrivenHybridNetwork]]
 [[Free_Energy_Principle_Network]]
 [[FullyLocalOnlineSNNTraining]]
 [[HeterogeneousSynapticDelays]]

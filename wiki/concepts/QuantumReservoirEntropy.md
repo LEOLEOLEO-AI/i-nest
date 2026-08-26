@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ApplicationScenarioReconstruction]]
 [[AstrocyteInspiredRepair]]
 [[AtomicVaporNonlinearity]]
+[[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

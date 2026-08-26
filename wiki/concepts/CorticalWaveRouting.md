@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikePacketRouting]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

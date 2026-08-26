@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
+[[CongestionAwareNoCPlacement]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DimensionalityReductionPrinciple]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

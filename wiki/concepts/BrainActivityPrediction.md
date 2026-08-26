@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[Connectome]]
 [[Course_Based_FPGA_Projects]]
 [[CrossTaskNeuralRepresentation]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Multifractal_Signatures]]
 [[National_Innovation_Center_Role]]
@@ -48,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

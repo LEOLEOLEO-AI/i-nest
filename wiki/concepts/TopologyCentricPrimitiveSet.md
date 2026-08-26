@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[DisorderedNetworkInterconnect]]
 [[EdgeIoTEnergyAwareness]]
+[[EventDrivenRiskAssessment]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

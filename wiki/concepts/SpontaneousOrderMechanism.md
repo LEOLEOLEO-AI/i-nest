@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]
+[[FirstPrinciples_Derivation]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSynchronization]]

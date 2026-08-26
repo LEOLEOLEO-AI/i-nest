@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
@@ -38,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
-[[Syncytial_Mesh_Model]]
+[[Syncytial_Mesh]]
 [[iNEST]]
 
 ## Sources

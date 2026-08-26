@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
+[[ConnectionCentricParadigm]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

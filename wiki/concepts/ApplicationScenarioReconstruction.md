@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
 [[DARPA_ProjectManager_Model]]
+[[ERI_2_0_Strategic_Framework]]
 [[EquivariantGraphLayers]]
 [[Free_Energy_Principle_Network]]
 [[MitigationLayers]]

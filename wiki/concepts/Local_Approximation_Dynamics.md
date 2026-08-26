@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BioPlausiblePredictiveCoding]]
 [[CollectiveDynamics]]
+[[CriticalityDrivenStateTransition]]
 [[CrossLayer_SignalRouting]]
 [[ElasticSpikingTransformer]]
 [[Emergent_Intelligence_Threshold]]

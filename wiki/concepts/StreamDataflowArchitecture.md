@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[MagnitudePhaseComputationalModel]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicEdgeProcessing]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Planning_Revolution]]
 [[RecursiveSelfReferentialArchitecture]]

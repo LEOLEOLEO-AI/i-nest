@@ -40,8 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_TCC_Integration]]
 [[SparseTemporalEncoding]]
 [[TCC]]
+[[WaferScale_Chiplet_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

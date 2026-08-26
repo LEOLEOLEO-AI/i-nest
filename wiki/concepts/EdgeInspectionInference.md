@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkRadarProcessing]]
 [[Memory_Wall]]
+[[ModelOptimizationFederated]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

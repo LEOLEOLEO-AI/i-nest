@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
 [[Complex_System_Theory]]
+[[CriticalSlowingDown]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]

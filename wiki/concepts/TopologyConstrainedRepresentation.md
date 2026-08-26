@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[AdiabaticMultimodeBend]]
 [[Agile_Resilient_Defense_Ecosystem]]

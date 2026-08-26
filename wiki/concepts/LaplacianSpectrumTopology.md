@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
 [[Capability_Reserve_Index]]
+[[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

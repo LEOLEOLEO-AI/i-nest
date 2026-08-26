@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

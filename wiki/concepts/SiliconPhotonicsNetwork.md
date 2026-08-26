@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[NonHermitian_Delocalization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Silicon_Photonic_Network]]
 [[TCC]]

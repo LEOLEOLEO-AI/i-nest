@@ -44,11 +44,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Γst_Revision]]
 
 ## Sources

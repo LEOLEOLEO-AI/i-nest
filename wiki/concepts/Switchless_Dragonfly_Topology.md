@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[BisectionBandwidthBound]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Based_Trusted_Hardware]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Topology]]
 [[advanced packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

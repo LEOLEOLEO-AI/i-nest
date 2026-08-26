@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Timing_Dependent_Coordination]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Temporal_Computing_Paradigm]]
 [[iNEST]]
 
 ## Sources

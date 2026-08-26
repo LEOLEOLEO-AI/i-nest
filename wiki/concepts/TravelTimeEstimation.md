@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[Accessibility_Plasticity]]
+[[AnomalousSpinTransport]]
 [[BinaryCombinatorialOptimization]]
 [[Interconnect_Routing]]
 [[InterpolationKernel]]

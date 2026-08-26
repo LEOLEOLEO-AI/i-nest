@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Event_Driven_Architecture]]
 [[Network_Topology_Design]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[PhaseLockedTopologyMapping]]
 [[SNN]]
 [[STDP_MemristiveLearning]]

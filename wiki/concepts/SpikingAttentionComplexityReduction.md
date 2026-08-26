@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicEdgeProcessing]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Spiking_Integration]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic spiking]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

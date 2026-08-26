@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Architectures]]
+[[FirstPrinciples_Derivation]]
+[[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

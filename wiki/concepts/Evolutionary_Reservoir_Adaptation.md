@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
+[[HardwareAware_DesignSpace]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Chiplet_Wafer_Stack]]
+[[STDP_Plasticity]]
 [[soc]]
 
 ## Sources

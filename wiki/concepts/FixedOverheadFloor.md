@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[Spiking_Neural_Network]]
 

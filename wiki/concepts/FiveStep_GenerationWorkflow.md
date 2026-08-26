@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[PPT]]
 [[Self_Organized_Criticality]]
+[[Stigmergic_RL]]
 [[iNEST]]
 
 ## Sources

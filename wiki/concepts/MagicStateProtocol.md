@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DataCenter_Chip_Logic_Compression]]
 [[MicroLED_Array_Programmer]]
+[[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

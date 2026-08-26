@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredFramework]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microbiome_Immune_Endocrine_Interplay]]

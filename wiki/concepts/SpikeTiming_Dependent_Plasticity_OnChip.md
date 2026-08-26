@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]

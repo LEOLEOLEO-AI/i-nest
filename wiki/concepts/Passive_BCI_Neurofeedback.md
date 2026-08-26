@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FPGABasedNeuromorphic]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Flexible_Neural_Mapping]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

@@ -42,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Pipelined_Processor_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
-[[branch prediction in pipelined processors]]
+[[Stochastic_LIF_Inference]]
 [[branch prediction]]
 [[emerging CMOS memristor]]
 [[memristor device]]

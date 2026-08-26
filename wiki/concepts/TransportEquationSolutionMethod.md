@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DeeplySupervisedSpiking]]
 [[ForwardFluctuationGradient]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[Izhikevich_NeuronModel]]
 [[Network_Topology_Design]]

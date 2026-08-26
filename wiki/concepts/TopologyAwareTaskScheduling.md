@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OnDie_Fusion]]
 [[Packaging_CoDesign]]
+[[SDI_TopologyWaferIntegration]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SuperparamagneticSwitchingRate]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

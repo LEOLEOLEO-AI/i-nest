@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
+[[Analog_Weight_Storage]]
 [[AnomalousSpinTransport]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[智能涌现]]
 [[涌现]]
 

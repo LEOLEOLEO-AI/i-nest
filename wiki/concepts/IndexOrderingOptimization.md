@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
+[[Closed_Loop_Neuromodulation]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]

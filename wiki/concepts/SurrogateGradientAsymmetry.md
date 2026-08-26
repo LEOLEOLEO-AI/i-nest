@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSynchronization]]
 [[FrequencyAdaptationMechanism]]
 [[GradientAsymmetry]]
+[[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[NeuralVariabilityEnhancement]]

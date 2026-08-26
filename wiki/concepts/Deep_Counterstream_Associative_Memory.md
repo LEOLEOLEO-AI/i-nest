@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TemporalSpikeAssociation]]
 [[Transiently_Amplifying_Construction]]
+[[VaCoAl]]
 [[complex system]]
 [[iNEST]]
 [[soc]]

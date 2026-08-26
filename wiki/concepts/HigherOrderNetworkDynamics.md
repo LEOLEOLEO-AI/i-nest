@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveTaskonomy]]
 [[CompactSequenceArchitectureDiscovery]]
 [[ContinuousGameOfLife]]
+[[CriticalityInNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

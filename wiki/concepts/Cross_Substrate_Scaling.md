@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Silicon_Neuron_Controller]]
 [[Neuromorphic_Wafer]]
 [[Resilient_Sensing_Comms_Network]]
+[[SDI_iNEST_Wafer]]
 [[TCC]]
 [[iNEST]]
 

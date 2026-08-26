@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedNeuralDecoding]]
 [[EventDrivenMotionDeblurring]]
 [[GPU_Cluster_SNN_Architecture]]
+[[GradientBasedLearningLocalization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MagnitudePhaseComputationalModel]]

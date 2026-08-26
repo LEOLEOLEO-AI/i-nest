@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[OpenSource_Neuromorphic_Framework]]
+[[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[ReconfigurableSNN_Accelerator]]
 [[Representation_Learning_Generalization]]
 [[SNN]]

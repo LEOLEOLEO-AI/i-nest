@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CriticalStateInformationMaximization]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

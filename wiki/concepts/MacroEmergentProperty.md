@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SNN]]
 [[SNN_Sparsity_InformationBound]]
+[[SemanticSpikeRepresentation]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

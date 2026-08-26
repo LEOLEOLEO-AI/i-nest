@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AutonomousAdaptation]]
 [[Biomanufacturing_Control_Loop]]
+[[BrainScaleTopologyExploitation]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]

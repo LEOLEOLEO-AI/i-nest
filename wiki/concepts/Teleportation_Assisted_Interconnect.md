@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
+[[Cross_Node_Event_Propagation]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

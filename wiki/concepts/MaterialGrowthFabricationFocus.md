@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NichePreservationMechanism]]
 [[ReleaseFreePhononic]]
 [[ScaleFreeNetwork]]
+[[SmoothCurvatureProfile]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

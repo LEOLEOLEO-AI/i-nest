@@ -24,9 +24,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
 [[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Mesoscale_Heterogeneous_Integration]]
@@ -58,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

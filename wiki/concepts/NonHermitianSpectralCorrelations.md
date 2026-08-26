@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AmoebaInspiredLocomotion]]
 [[AsynchronousEventDrivenComputation]]
+[[Dynamic_Expert_Routing]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
@@ -38,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SpontaneousSpikingDecision]]
 [[Synaptic_Plasticity]]
-[[Syncytial_Mesh_Model]]
+[[Syncytial_Mesh]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

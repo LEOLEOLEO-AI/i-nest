@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CircuitCoDesign]]
 [[Complex_System_Theory]]
+[[Emergent_Nonlinear_Dynamics]]
 [[IntelligenceEmergence_ScalingLaw]]
 [[Intelligence_Emergence]]
 [[Metastable_State_Hierarchy]]

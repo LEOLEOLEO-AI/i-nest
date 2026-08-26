@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[CirculateFiringNeuron]]
@@ -41,12 +42,12 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[synaptic plasticity]]
 [[忆阻器]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

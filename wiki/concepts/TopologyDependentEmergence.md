@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
+[[MachineLearningPotential]]
 [[Memristive_STDP]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[emergent computation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

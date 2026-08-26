@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[ConductingPolymerDendriteMemory]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenPlasticity]]
 [[Event_Driven_Architecture]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
@@ -44,9 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic computing]]
-[[spiking neural network dynamics]]
 [[spiking neural network]]
 [[类脑芯片]]
 

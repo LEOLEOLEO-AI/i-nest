@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorNeuralNetwork]]
 [[AutoAssociativeMemoryRobustness]]
 [[BCM滑动阈值]]
+[[Battlefield_Medicine_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

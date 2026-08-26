@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_Centric_NoC]]
 [[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
+[[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

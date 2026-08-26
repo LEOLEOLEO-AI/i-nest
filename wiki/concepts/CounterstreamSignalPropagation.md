@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfMotivatedGrowth]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]
 [[Stigmergic_RL]]
 [[TCC]]

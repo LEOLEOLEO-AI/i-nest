@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Core_Spacetime_Tensor]]
 [[Emergent_Intelligence_Roadmap]]
+[[GutBrainAxis_Reprogramming]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

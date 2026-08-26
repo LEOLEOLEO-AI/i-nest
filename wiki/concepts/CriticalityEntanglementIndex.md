@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizationCriticality]]
 [[SelfOrganization]]
+[[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[iNEST]]

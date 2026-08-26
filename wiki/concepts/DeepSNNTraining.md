@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnisotropicGaussianPrimitives]]
 [[Contested_Prior_Resolution]]
 [[DiscreteContinuous_Unification]]
 [[Distributed_Spike_Communication]]
 [[FPGA_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Scheduling]]
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
 [[SNN]]

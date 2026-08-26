@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DendriticReservoirState]]
 [[EdgeIoTEnergyAwareness]]
+[[Emergent_Abilities]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

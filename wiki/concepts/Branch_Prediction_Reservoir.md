@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Stacking]]
 [[AINext_Initiative]]
+[[AgenticServiceManifesto]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]

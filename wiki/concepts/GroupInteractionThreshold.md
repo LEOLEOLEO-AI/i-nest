@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]

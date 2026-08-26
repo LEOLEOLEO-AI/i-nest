@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OnChipOpticalTweezers]]
+[[SDI_STDP_Rule]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

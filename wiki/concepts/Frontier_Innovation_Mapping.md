@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[GradientBasedSpikeLearning]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
+[[CongestionAwareNoCPlacement]]
 [[CorticalTypeDiversity]]
 [[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]

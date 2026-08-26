@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[ChaoticAttractorTopology]]
 [[CircadianGateModulation]]
 [[Combinatorial_Optimization_Readout]]
+[[Connectome]]
+[[Connectome_Constrained_Neural_Architecture]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

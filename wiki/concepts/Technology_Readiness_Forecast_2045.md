@@ -40,8 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[Receptron_Unit]]
 [[ReconfigurableSNN_Accelerator]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

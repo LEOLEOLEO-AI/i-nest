@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AstrocyteInspiredRepair]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]

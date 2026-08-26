@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
+[[Level_of_Splat_Detail]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]

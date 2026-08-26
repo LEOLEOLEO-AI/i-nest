@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BackflowTransformation]]
+[[BrownianCastleInterfaces]]
 [[ErrorSuppressedPipeline]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

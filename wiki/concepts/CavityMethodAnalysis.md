@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Computation_Access_Routing]]

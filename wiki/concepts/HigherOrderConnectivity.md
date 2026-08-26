@@ -22,7 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
-[[CellEmergenceMechanism]]
+[[Agile_Resilient_Defense_Ecosystem]]
+[[CellEmergence]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EventTriggeredDistributedControl]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

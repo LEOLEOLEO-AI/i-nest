@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Communication]]
 [[FoveationGuidedTokenSelection]]
 [[Interconnect_Routing]]
+[[MemoryDrivenInterconnect]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

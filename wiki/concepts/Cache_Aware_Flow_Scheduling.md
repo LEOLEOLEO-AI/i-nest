@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
+[[DelayTolerantNetworkUAV]]
 [[FluxAttachmentTopology]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[EventCameraPoseInput]]
 [[EventDrivenFunctionalConnectivity]]
+[[EventDrivenSpectralProcessing]]
 [[JunctionSignalIntegrity]]
 [[Local_Plasticity]]
 [[STDP_Learning]]

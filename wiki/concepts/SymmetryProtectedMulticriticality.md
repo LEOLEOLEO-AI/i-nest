@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
+[[Continual_Learning_Modularity]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

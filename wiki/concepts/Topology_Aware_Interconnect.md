@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DataMovementMinimization]]
 [[Decoupled_Priors]]
+[[Disordered_Frustrated_Dimer_Magnets]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

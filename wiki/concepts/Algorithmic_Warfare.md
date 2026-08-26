@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CriticalStateInformationMaximization]]
 [[CriticalityConstrainedPruning]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]

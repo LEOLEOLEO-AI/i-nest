@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DelayedSynapticCoupling]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]

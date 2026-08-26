@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BrainBodyResonance]]
 [[Cognitive_Relapse_Architecture]]
+[[ComplexEcosystemDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]

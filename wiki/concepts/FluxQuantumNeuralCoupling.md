@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BurstTemporalPlasticity]]
 [[EventDrivenSynchronization]]
+[[EventDrivenWeightUpdate]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

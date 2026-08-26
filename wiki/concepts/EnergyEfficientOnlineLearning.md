@@ -28,11 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
+[[SpikeEncoding]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[local plasticity rule]]
 [[local plasticity]]
 
 ## Sources

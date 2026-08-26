@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[CommunicationAsComputation]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LargeScalePhotonicIntegration]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[BrainBodyResonance]]
 [[BurstTemporalPlasticity]]
 [[Controlled_Release_Kinetics]]
 [[Dynamic_Expert_Fusion]]

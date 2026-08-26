@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_SDI_Integration]]
 [[PhononicBandgapEngineering]]
 [[ReconfigurableSpikingRouting]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[ViewDependentAppearance]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[Γst_Revision]]
 
 ## Sources

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Localized_Feedback_Array]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
+[[NonHermitianSpectralCorrelations]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

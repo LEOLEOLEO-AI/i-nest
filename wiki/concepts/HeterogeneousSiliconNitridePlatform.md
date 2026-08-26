@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[3D_Integration]]
+[[Active_Inference_Topology]]
 [[AdiabaticMultimodeBend]]
 [[BifurcationCandidate]]
 [[Chiplet_Heterogeneous_Integration]]

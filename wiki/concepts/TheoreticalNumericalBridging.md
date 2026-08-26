@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymmetric_Interaction_Matrix]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Beyond_Moore_Pathway]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]

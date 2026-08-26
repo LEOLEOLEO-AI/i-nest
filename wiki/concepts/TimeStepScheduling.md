@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[LearnableGradientSurrogate]]
 [[Lossless_ANN_SNN_Conversion]]
 [[LowRankEvolutionStrategies]]
+[[MemristiveSpikingAccelerator]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

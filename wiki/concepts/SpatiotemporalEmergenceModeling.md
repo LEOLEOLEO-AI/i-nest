@@ -31,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Cognitive_Relapse_Architecture]]
 [[DendriticReservoirState]]
+[[Gate_Synthesis_Readout]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 

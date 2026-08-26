@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Minimization_Interconnect]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Interconnect_Scaling]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

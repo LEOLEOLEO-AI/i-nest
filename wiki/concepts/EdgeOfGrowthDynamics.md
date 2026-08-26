@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
+[[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]

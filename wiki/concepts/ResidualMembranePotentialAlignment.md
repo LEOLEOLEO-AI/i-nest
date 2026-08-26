@@ -27,9 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[Avoided_Criticality]]
+[[ContinuousControlConversion]]
+[[Criticality]]
 [[MembranePotentialAlignment]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NonequilibriumLangevinComputing]]
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]
+[[RetinomorphicIontronicArray]]
 [[SelfOrganizedOscillatoryLearning]]
 [[TCC]]
 [[iNEST]]

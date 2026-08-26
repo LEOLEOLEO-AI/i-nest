@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[SDI_NPU_NoC_Integration]]
 [[TCC]]
 
 ## Sources

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Cognitive_Relapse_Architecture]]
 [[DTGA]]
+[[Decoupling_Mechanism]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenRiskAssessment]]
+[[EventDrivenTracking]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]

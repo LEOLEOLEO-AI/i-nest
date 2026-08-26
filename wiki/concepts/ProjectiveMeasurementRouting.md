@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AmoebaInspiredLocomotion]]
 [[AnomalousSpinTransport]]
+[[InteractingQuasiPeriodicChain]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

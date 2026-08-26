@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[DendriticReservoirState]]
+[[Emergent_Abilities]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Epithelial_Barrier_Integrity]]

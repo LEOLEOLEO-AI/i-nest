@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroCriticalityEmergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
+[[NonlinearConnectomeScaling]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[complex system]]

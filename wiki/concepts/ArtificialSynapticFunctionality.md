@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorNeuralNetwork]]
 [[BCM滑动阈值]]
 [[BiasEvaluationMetrics]]
+[[CST_Synergy_Coordination]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

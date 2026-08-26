@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[complex system]]
+[[getnote_2026-01-12_数字孪生大脑工程化路径]]
 [[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[getnote_2026-06-28_从固定拓扑到液态拓扑计算]]
 [[iNEST]]

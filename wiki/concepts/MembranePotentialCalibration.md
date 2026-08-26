@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Avoided_Criticality]]
 [[BrainActivityPrediction]]
+[[Complexity_Emergence_Engineering]]
 [[CrashHotspotForecasting]]
 [[Criticality]]
 [[DivergentHigherAreaRanking]]

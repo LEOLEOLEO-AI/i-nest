@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Integration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[WideLink_NoC_Router]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

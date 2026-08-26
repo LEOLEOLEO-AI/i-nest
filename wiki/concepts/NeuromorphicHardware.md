@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AutomatedQuantizationFramework]]
 [[BiSpikCLM]]
 [[BioPlausibleDisturbanceEstimation]]
+[[BiologicalPlausibilityScoring]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]

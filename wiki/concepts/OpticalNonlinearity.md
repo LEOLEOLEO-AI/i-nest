@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ReservoirEntropyEncoding]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[complex system]]
 [[iNEST]]
 [[neuromorphic computing architecture]]

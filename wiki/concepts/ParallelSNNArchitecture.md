@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CollectiveDynamics]]
 [[CriticalStateInformationMaximization]]
+[[CrossLayer_SignalRouting]]
 [[CurrentInjectionSNN]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[DistinctReentrantPhases]]
 [[Loihi2_OnChip_Learning]]
 [[Memristive_Interconnect]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

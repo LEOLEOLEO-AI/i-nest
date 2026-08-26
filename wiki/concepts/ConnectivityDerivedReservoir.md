@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
 [[Fixed_Reservoir_Unitary]]
+[[HardwareAware_DesignSpace]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

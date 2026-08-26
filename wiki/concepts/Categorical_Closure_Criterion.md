@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AcceleratedMaterialScreening]]
 [[Adjoint_Gradient_Propagation]]
+[[CombinatorialOptimizationReservoirMapping]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[Heterogeneous_Compute_Graph]]

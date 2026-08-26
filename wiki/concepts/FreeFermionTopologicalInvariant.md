@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
+[[Bipartite_Interconnect_Design]]
 [[ChiralSymmetryClasses]]
 [[CommunicationAsComputation]]
 [[ComputeRelocationOverhead]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TimeReversalInvariantTopologicalAlloy]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyAware_Grouping]]
+[[VectorFlowField]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

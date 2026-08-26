@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AI_Orchestrator]]
 [[AgentReinforcementLoop]]
+[[Agent_Workflow_Automation]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

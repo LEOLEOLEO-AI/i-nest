@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ContextualReasoning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Entanglement_Teleportation_Locality]]
 [[Free_Energy_Principle_Network]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

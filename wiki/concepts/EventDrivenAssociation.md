@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[CoOptimizedMappingScheduling]]
 [[Criticality]]
+[[DiscreteContinuous_Unification]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

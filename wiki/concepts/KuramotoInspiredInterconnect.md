@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Coordination_Layer]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[EdgeIoTEnergyAwareness]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

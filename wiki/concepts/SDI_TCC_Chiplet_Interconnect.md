@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
+[[SuperlinearGainProof]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemperatureSensitivityControl]]
@@ -61,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect topology]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

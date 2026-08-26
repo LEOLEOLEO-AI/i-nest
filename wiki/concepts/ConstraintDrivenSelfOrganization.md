@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Entangled_Criticality]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]

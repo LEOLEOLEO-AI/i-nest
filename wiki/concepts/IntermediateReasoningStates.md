@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
+[[Criticality_Threshold]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

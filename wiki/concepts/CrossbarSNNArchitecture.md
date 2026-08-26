@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Course_Based_FPGA_Prototyping]]
+[[CriticalNormBoundary]]
 [[Dynamic_Expert_Fusion]]
 [[EpidemicThreshold]]
 [[Event_Driven_Architecture]]

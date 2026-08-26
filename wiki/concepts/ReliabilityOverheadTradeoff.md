@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Residual_Connection_Removal]]
+[[SDI_TCC_iNEST_Interconnect]]
 [[Soldier_Augmentation_BioCyber_Interface]]
 
 ## Sources

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
+[[System_Level_Utility_Control]]
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TileBasedRasterization]]

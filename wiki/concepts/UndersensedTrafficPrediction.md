@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[ChaoticAttractorTopology]]
 [[CirculateFiringNeuron]]
 [[Combinatorial_Optimization_Readout]]
+[[Connectome]]
+[[Connectome_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

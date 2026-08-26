@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ChiralSurfaceFermiProjection]]
+[[CircuitTopologySearch]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

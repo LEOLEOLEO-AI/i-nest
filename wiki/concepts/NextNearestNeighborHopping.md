@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NichePreservationMechanism]]
 [[Photonic_Chiplet_Interconnect]]
+[[ReleaseFreePhononic]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[ScaleFreeNetwork]]

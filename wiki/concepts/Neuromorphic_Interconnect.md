@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenPlasticity]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[类脑芯片]]
 

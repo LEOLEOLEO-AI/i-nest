@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScalableNeuromorphicTopology]]
+[[SystemLevelNonlinearity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

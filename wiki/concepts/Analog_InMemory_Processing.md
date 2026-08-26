@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[ferroelectric devices]]
 [[heterogeneous_integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

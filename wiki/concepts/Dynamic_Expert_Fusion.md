@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexEcosystemDynamics]]
 [[Contested_Priors_Mechanism]]
 [[Continual_Learning_Topology]]
+[[ContinuousTraitAxelrodModel]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossPopulationCen]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficiencyMetric]]
 [[FixedOverheadCost]]
 [[FixedOverheadPenalty]]
 [[Intelligence_Emergence]]

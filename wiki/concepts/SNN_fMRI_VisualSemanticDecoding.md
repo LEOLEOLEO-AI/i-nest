@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[HodgkinHuxleyDynamics]]
 [[LeftRightAsymmetry]]
+[[MacroCriticalityEmergence]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

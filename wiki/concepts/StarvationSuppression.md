@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[NoC_EventRouting]]
+[[PhysicalDesign_ReliabilityTradeoff]]
 [[QuarantineCostTradeoff]]
 [[SNN]]
 [[Spiking_Neural_Network]]

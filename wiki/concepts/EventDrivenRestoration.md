@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
 [[FirstTimestepConversion]]
+[[FixedOverheadFloor]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Passivity_Preserving_Computation]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StochasticBinaryNetwork]]
 [[TCC]]
-[[TCC_SpikingIntegration]]
 [[iNEST]]
 
 ## Sources

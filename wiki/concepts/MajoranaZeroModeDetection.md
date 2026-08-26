@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitCoDesign]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
+[[EdgeFeatureEncoding]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
 [[MajoranaZeroMode]]

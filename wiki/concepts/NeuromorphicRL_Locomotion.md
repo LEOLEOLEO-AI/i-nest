@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikerLL_Accelerator]]
 [[Spiking_Neural_Network]]
+[[StrategyDiffusionCoupling]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[spiking neural network]]

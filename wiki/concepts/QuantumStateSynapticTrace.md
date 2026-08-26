@@ -25,11 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[DrivenDissipativeDynamics]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenPlasticity]]
 [[InputAdaptiveComputation]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

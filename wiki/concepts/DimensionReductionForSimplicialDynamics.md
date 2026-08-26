@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymptotic_Exact_Solution]]
 [[Complex_System_Theory]]
 [[DataCenter_Chip_Logic_Compression]]
+[[DimensionReductionViaSimplicialProjection]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

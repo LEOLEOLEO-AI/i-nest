@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[EventDrivenSpectralProcessing]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]

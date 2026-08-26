@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[ComputeRelocationOverhead]]
+[[DataMovementMinimization]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

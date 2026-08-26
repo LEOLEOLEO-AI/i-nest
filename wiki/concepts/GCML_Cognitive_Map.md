@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
+[[BrainBodyResonance]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Gut_Brain_Immune_Network]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[神经网络]]
 
 ## Sources

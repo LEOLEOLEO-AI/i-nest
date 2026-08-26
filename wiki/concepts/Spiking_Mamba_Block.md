@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
+[[Endocrine_Modulated_Network_State]]
 [[Event_Driven_Architecture]]
 [[ExactFiringRateModel]]
 [[Intelligence_Emergence]]

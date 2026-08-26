@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AddressRedundancyElimination]]
+[[Adjoint_Gradient_Propagation]]
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterception]]

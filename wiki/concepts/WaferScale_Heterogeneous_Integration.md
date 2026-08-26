@@ -35,12 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[PhysicalWaferTriplet]]
+[[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

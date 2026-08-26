@@ -22,11 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[CriticalityDrivenTopology]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[MultiFPGAScaling]]
+[[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[PacketRoutingOptimization]]

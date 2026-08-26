@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorConvergenceAnalysis]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
+[[BisectionBandwidthBound]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

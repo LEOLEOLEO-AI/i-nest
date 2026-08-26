@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[SerDes_Bandwidth_Convergence]]
+[[SparsityAwareInterconnect]]
 [[TCC]]
 [[advanced packaging]]
 

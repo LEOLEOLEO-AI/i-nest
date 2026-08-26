@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ChannelEventSparsity]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
+[[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_STDP]]

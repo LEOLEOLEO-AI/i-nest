@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EdgeIoTEnergyAwareness]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Chiplet_Customization]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

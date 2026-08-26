@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[DendriticReservoirState]]
 [[DistinctReentrantPhases]]
+[[EndToEndLinkSimulation]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]

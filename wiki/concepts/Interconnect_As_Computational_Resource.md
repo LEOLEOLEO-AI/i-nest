@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[ERI_2_0_Strategy]]
 [[GroupWise_DragonflyPlus]]
 [[Intelligence_Emergence]]
 [[InterconnectionInertiaProfile]]

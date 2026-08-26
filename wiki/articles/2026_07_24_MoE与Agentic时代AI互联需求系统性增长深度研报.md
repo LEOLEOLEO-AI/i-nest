@@ -16,6 +16,7 @@ interconnect, 互连, 拓扑
 
 ## Related Concepts
 
+[[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

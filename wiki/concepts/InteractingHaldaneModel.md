@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CriticalFixedPoint]]
 [[CrystalPalace_Program]]
+[[Crystallized_Neural_Manifolds]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

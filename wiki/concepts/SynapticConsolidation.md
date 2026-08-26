@@ -20,8 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BrainInspiredArchitecture]]
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
+[[Interconnect_Routing]]
 [[MoE_Routing]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]

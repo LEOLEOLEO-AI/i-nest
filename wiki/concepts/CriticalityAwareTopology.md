@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Evolutionary_Structure_Computability]]
+[[Free_Energy_Principle_Network]]
 [[Generalized_Synchronization_Bond]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]

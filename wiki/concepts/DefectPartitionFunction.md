@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AttractorConvergenceAnalysis]]
+[[Bayesian_Decoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[EdgeIoTEnergyAwareness]]

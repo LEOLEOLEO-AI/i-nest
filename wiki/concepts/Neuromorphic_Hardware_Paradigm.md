@@ -36,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[Signal_Folding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 [[signal folding]]
 

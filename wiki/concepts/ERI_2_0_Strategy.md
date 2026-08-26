@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Supply_Chain_Increment]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Allreduce_Latency_Probe]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

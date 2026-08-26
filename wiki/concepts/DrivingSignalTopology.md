@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveEntanglementManagement]]
+[[AgenticServiceOrchestration]]
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]

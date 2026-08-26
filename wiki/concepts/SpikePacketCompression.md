@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Online_Continual_Learning]]
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Self_Organized_Criticality]]

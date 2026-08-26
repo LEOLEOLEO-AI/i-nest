@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[Analog_InMemory_Processing]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]

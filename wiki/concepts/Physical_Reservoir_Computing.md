@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[CST_MasterEquation]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_State_Convergence]]
 [[Complex_System_Theory]]
 [[Entanglement_Teleportation_Locality]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

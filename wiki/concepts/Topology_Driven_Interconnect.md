@@ -31,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MitigationLayers]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[Nonlinear_Topology_Amplification]]
+[[ReproducibleReservoirDynamics]]
 [[TCC]]
 
 ## Sources

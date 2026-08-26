@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Continual_Learning_Topology]]
 [[Emergent_Intelligence_Threshold]]
+[[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]

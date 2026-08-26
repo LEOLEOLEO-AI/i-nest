@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Criticality]]
+[[FerroelectricDevice]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]

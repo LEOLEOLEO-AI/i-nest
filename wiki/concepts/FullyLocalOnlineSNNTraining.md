@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[DARPA_ProjectManager_Model]]
 [[Distributed_Spike_Communication]]
+[[In_Package_Neuromorphic_Integration]]
 [[NUMA_Balancing_Overhead]]
 [[Neuromorphic_Computing]]
 [[SNN]]

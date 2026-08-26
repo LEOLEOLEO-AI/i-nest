@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[MultibodyInteractionCascade]]
+[[NeuromorphicHardwareDeployment]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

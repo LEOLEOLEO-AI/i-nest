@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Deep_Network_Architecture_Invariant]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

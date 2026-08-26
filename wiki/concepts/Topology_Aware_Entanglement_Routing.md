@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Cascading_Failure_Mitigation]]
 [[Collective_State_Convergence]]
+[[CooperativeEmergence]]
 [[CrossLayer_SignalRouting]]
 [[Data_Debiasing_Techniques]]
 [[Deep_Thermalisation]]

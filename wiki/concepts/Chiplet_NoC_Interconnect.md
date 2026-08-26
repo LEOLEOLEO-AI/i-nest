@@ -46,8 +46,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SparsityAwareInterconnect]]
 [[TCC]]
+[[WideLink_NoC_Router]]
 [[advanced packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

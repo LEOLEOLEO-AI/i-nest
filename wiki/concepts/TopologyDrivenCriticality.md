@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[BioInspired_Interception_Control]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]

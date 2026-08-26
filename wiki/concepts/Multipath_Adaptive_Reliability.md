@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[StochasticMultiAgentRL]]
+[[StochasticVehicleRouting]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Orchestrator]]
 [[Agent_Workflow_Automation]]
 [[BifurcationCandidateSet]]
+[[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BurstGatedRouting]]
+[[Critical_Region_Extension]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[StochasticMultiAgentRL]]
 [[StochasticVehicleRouting]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

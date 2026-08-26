@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[AthermalDynamics]]
 [[BackflowTransformation]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Organization]]

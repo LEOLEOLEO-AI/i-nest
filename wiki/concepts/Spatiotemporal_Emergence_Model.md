@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Dynamics_Learning]]
 [[ClinicalTranslationBridge]]
 [[CollectiveDynamics]]
+[[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]

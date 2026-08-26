@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterComputing]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Advanced_Packaging_for_Space]]
+[[ArtificialProprioception]]
 [[ClosedLoopNeuromorphicControl]]
 [[Neuromorphic_Computing]]
 [[Oscillatory_MultiObjective_Optimization]]

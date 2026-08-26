@@ -21,8 +21,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DIntegratedPhotonicPackaging]]
+[[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
+[[4H_SiC_SubstrateProcessing]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
 [[Chiplet_Heterogeneous_Integration]]

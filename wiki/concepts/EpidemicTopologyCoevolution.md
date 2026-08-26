@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Architecture]]
 [[ControlDrivenCriticalFluctuations]]
+[[Critical_Region_Extension]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

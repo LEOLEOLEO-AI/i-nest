@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[Analog_Weight_Storage]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Network_Topology_Design]]

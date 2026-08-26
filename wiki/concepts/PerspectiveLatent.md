@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[STDPDrivenGraphLearning]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

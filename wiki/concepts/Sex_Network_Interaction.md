@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[Brain_Connectome]]

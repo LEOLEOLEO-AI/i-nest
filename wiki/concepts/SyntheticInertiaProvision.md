@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NoC_EventRouting]]
 [[RecurrentOscillatoryComputation]]
 [[SNN_NeuroprostheticPipeline]]
 [[SensationModulatingNetwork]]

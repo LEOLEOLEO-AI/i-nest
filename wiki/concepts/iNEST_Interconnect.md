@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Event_Driven_Architecture]]
 [[FrozenRateOperator]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]

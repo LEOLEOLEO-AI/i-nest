@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AnisotropicGaussianPrimitives]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]

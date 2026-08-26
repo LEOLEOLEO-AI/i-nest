@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[PhotonicSynapticPlasticity]]
+[[ReconfigurableSNNTopology]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]

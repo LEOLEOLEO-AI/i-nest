@@ -39,7 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Topology_Control]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

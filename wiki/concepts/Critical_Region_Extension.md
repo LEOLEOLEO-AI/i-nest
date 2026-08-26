@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AgenticServiceOrchestration]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DelayTolerantNetworkUAV]]
 [[GeneralIntelligenceSubstrate]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]

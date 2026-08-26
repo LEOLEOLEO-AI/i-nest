@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI_Faculty_Forum_2026]]
 [[AdvancedPackagingInterconnect]]
 [[Complex_System_Theory]]
 [[DarkSiliconAwarePowerGating]]

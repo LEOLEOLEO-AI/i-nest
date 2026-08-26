@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientSNN]]
 [[EventBasedMotionDeblurring]]
 [[EventBasedNeuralDecoding]]
+[[EventDrivenMotionDeblurring]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GPU_Cluster_SNN_Architecture]]
 [[Intelligence_Emergence]]

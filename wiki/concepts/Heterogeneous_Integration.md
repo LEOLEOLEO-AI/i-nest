@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Memristive_STDP]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -67,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[heterogeneous_integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

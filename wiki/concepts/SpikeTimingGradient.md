@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[EventCameraPoseInput]]
 [[FatigueSTDP]]
+[[ImpactFallDetection]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]

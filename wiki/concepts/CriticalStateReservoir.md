@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Coupling_Topology]]
+[[Crystallized_Embedding_Reservoir]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirDynamics]]

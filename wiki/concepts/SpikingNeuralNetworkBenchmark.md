@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
+[[AstrocyteInspiredRepair]]
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[Biologically_Plausible_Learning_Rules]]

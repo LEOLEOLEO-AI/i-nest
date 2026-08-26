@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[DataDrivenCellularAxis]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[Heterogeneous_Integration]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[神经网络]]
 [[类脑芯片]]
 

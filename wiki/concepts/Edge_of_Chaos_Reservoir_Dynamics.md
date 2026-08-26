@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Categorical_Closure_Criterion]]
+[[CombinatorialOptimizationReservoirMapping]]
 [[CriticalStateReservoir]]
 [[Criticality]]
 [[Criticality_of_Natural_Languages]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[BurstCoding]]
 [[EventCameraPoseInput]]
+[[EventDrivenSpectralProcessing]]
 [[JunctionSignalIntegrity]]
 [[Local_Plasticity]]
 [[Neuromorphic_Computing]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[MeanFieldSpinGlass]]
 [[Memory_Capacity_Maximization]]
 [[Memristive_Topology]]
+[[Memristor_Synapse]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[TemporalFeatureDecorrelation]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[EmergentTaskDecomposition]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

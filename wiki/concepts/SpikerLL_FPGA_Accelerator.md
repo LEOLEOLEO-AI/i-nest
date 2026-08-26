@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Localized_Feedback_Array]]
 [[Neuromorphic_Computing]]
+[[NonHermitianSpectralCorrelations]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

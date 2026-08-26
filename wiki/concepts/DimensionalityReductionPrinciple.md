@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BitPrecisionAwareScheduling]]
 [[Closed_Loop_Neuromodulation]]
+[[ContinuousGameOfLife]]
 [[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]
 [[Dynamic_Expert_Fusion]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CircuitTopologyEncoding]]
 [[Critical_Region_Extension]]
+[[Decoupling_Mechanism]]
 [[EdgeIoTEnergyAwareness]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

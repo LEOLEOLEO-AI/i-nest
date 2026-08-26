@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Interconnect]]
 [[OnChipOpticalTweezers]]
 [[RadiationHardened_ProcessNodeScaling]]
 [[ReproducibleReservoirOutput]]

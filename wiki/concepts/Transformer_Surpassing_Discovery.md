@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AmorphousTopologicalSubstrate]]
 [[BioInspiredGeneralist]]
+[[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

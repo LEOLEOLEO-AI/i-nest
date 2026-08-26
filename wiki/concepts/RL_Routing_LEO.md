@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
 [[Cache_Aware_Flow_Scheduling]]
+[[DelayTolerantNetworkUAV]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

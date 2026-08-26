@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CircuitTopologyEncoding]]
 [[ControlDrivenCriticalFluctuations]]
+[[Critical_Region_Extension]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[Dynamic_Expert_Fusion]]

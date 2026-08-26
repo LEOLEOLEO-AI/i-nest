@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Security_Architecture]]
 [[Complex_System_Theory]]
 [[CriticalInertiaEstimation]]
+[[ERI_2_0_Framework]]
 [[Energy_Efficient_Control]]
 [[Heterogeneous_Integration]]
 [[In_Package_Interconnect_Trust]]

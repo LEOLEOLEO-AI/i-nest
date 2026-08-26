@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexEcosystemDynamics]]
 [[Continual_Learning_Topology]]
 [[CorticalTypeDiversity]]
+[[DTGA]]
 [[Network_Topology_Design]]
 [[TCC]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Cross_Node_Event_Propagation]]
 [[Cryogenic_Syndrome_Compression]]
+[[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]

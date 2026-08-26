@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
 [[ControlDrivenCriticalFluctuations]]
+[[Critical_Region_Extension]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

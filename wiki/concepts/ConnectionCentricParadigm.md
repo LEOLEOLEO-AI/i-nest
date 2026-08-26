@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
+[[CrossDomain_Synthesis]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

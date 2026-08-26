@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AthermalDynamics]]
 [[BrainInspiredArchitecture]]
+[[EventDrivenTemplateUpdate]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[branch prediction]]

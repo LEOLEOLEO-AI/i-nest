@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
+[[Bipartite_Interconnect_Design]]
 [[ChiralSymmetryClasses]]
 [[CommunicationAsComputation]]
 [[ComputeRelocationOverhead]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ThreeLayerArchitecture]]
 [[Three_Layer_Memory_Infrastructure]]
 [[TimeReversalInvariantTopologicalAlloy]]
+[[VectorFlowField]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

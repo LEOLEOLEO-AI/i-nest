@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Complexity]]
 [[CST_Triple_Proof]]
 [[CausalIntegrationTopology]]
+[[Causal_Clinical_Reasoning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

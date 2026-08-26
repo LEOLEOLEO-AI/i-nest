@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[AI_Faculty_Forum_2026]]
+[[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[ChipletWaferInterconnectTopology]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[Nonlinear_Gain]]
 [[OptomechanicalNonlinearity]]
 [[Photonic_Chiplet_Interconnect]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Topology]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[Γst_Revision]]
 

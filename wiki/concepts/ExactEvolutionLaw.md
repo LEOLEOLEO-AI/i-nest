@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveModelPartitioning]]
 [[AdaptiveNetworkResilience]]
+[[Adaptive_Path_Selection]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]

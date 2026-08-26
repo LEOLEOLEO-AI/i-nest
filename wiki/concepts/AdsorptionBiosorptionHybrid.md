@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
+[[DualSided_Routing_Resource]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]

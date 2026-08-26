@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[CorticalWaveRouting]]
 [[EmergentOrder]]
+[[FlexibilityThreshold]]
 [[Free_Energy_Principle_Network]]
 [[FrozenRateOperator]]
 [[Intelligence_Emergence]]

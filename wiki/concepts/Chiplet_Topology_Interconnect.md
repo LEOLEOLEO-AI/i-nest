@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[MachineLearningNanomaterialDiscovery]]
+[[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

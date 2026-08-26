@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
+[[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]

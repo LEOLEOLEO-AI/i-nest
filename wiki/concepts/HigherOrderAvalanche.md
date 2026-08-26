@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[FormalLinguisticCompetence]]
 [[Free_Energy_Principle_Network]]
 [[Gut_Brain_Immune_Network]]

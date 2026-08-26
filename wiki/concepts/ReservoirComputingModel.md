@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor]]
 [[FrequencyBasedReservoir]]
 [[Globally_Optimal_SNN_Training]]
+[[HardwareAware_DesignSpace]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]

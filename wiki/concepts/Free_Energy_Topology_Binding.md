@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ComplexSystemMemory]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Dynamic_Expert_Fusion]]
 [[FreeEnergyMinimization]]
 [[Intelligence_Emergence]]

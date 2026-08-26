@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Coupling_Strength_Encoding]]
 [[CriticalFixedPoint]]
 [[DendriticReservoirState]]
+[[EcosystemTopologyCoupling]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[EmergentTaskDecomposition]]
 [[FlexibilityThreshold]]

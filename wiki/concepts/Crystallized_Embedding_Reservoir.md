@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Fixed_Cost_Dominance]]
 [[InNetworkAgentRewiring]]
+[[InSensorMemoryComputing]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedPhaseTransition]]
 [[Memristive_Topology]]

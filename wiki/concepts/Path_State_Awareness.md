@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Critical_Region_Extension]]
 [[Criticality]]
+[[EvolvingArchitectureDynamics]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

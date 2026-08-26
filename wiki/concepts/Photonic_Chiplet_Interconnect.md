@@ -44,10 +44,12 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SparsityAwareInterconnect]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

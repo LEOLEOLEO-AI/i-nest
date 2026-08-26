@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Spatiotemporal_Synergy_Complexity]]
+[[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[complex system]]
 

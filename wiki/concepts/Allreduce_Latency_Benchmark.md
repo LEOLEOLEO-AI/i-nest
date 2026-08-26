@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Heterogeneous_Integration]]
+[[IndexOrderingOptimization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]

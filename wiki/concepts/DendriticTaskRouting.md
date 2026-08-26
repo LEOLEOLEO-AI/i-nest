@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[WaveBasedInformationRouting]]
 [[神经形态计算]]
 
 ## Sources

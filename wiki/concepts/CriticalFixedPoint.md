@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Allreduce_Latency_Probe]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[Cognitive_Relapse_Architecture]]

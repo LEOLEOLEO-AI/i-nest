@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[Avoided_Criticality]]
 [[ContinuousControlConversion]]
+[[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

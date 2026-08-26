@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseLockedTopologyMapping]]
 [[SNN]]
 [[SparseActivationPattern]]
+[[SpikeTimingDependentUpdate]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

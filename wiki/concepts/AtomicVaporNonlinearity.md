@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
 [[Crystallized_Neural_Manifolds]]
+[[DissipativeQuantumReservoir]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

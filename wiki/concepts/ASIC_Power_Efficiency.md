@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[AttractorConvergenceAnalysis]]
 [[Bayesian_Decoding]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Fabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

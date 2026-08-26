@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EfficientDeepLearning]]
 [[Flow_Aware_Interconnect_Design]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 [[complex system]]

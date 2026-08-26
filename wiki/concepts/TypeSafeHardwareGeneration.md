@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[ChannelCountScaling]]
 [[ChannelEventSparsity]]
+[[ChipletRoutingFabric]]
 [[ChipletTopologyAwareness]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ConductingPolymerDendriteMemory]]

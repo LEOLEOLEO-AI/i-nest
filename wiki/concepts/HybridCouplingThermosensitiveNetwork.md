@@ -28,9 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[InterDomain_Synergy]]
 [[LatencyGradientDescent]]
 [[MolecularTargetSignaling]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[Reconfigurable_Neural_Topology]]
+[[STDPDrivenConnectivity]]
 [[TCC]]
 
 ## Sources

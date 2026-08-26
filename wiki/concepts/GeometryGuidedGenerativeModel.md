@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[Cognitive_Relapse_Architecture]]
+[[ComplexEcosystemDynamics]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Roadmap]]

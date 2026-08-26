@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[DTGA]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reconfigurable_Nonlinear_Reservoir]]

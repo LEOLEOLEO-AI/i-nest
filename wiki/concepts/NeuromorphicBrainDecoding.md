@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
+[[ManyBodyLocalizationThermalizationDuality]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

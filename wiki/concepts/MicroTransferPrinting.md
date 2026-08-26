@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[TCC]]
 [[WaferScaleSubstrate]]
 [[complex system]]

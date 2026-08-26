@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyAwarePlacement]]
 [[Translation_Invariant_Closure]]
 [[chip floorplanning]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
+[[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[类脑芯片]]
 

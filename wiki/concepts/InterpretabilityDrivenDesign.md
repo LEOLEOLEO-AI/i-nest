@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspiredArchitecture]]
+[[BrainInspired_Chip]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

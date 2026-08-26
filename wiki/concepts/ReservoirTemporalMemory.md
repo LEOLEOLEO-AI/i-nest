@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotoInducedCurrent]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[SDI_STDP_Regulation]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
 [[ControlDrivenCriticalFluctuations]]
+[[Critical_Region_Extension]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

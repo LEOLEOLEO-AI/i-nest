@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[ControlTheoreticTopology]]
 [[Critical_Region_Extension]]
+[[CrossbarFabricTopology]]
 [[Ferroelectric_Devices]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

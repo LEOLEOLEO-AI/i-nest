@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[EvolvingArchitectureDynamics]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

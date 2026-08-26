@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AgenticServiceOrchestration]]
 [[Anomaly_Induced_Quantum_Criticality]]
+[[Ant_Swarm_Functional_Control]]
 [[Automated_Reward_Shaping]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]

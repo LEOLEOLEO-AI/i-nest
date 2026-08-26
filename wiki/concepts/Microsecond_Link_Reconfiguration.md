@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[DTGA]]
 [[Deep_Network_Architecture_Invariant]]
+[[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndTopologyLearning]]
 [[Memristive_Interconnect]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

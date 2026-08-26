@@ -4,7 +4,7 @@ cssclass: dashboard
 
 # 🔬 TCC × iNEST 自进化研发中枢
 
-> **知识库状态：活跃** | 管线：❓ unknown | Git: 4813 uncommitted | 更新：2026-08-27 03:47
+> **知识库状态：活跃** | 管线：❓ unknown | Git: 4652 uncommitted | 更新：2026-08-27 03:55
 
 ---
 
@@ -12,7 +12,7 @@ cssclass: dashboard
 
 | 维度 | 数值 | 入口 |
 |---|---|---|
-| 📄 知识库总文件 | **10,894** | [[Home\|根目录/Home]] |
+| 📄 知识库总文件 | **10,900** | [[Home\|根目录/Home]] |
 | 🔬 TCC 资料 | **1,829** | [[30_TCC/TCC_Master_Index\|TCC 主索引]] |
 | 🧠 iNEST 资料 | **1,221** | [[40_iNEST/iNEST_Master_Index\|iNEST 主索引]] |
 | 📥 待处理论文 | **208** | [[00_Inbox/_pipeline_insights/Index\|论文收件箱]] |
@@ -27,7 +27,7 @@ cssclass: dashboard
 |---|---|---|
 | 🏷️ 概念总数 | **4864** | TCC=1250, iNEST=1613, Cross=2001 |
 | 📝 编译文章 | **1049** | raw/ → wiki/articles/ |
-| 🌉 跨域桥梁 | **3** | 强度 846/626/515 |
+| 🌉 跨域桥梁 | **3** | 强度 857/665/519 |
 
 **入口**：[[wiki/index|Wiki 概念索引]] · [[wiki/health|知识健康报告]] · [[wiki/cross_domain_insights|跨域洞察]] · [[wiki/task_recommendations|任务推荐]]
 
@@ -37,9 +37,9 @@ cssclass: dashboard
 
 | # | 桥梁 | 强度 | 核心洞察 |
 |---|---|---|---|
-| 1 | **SDI × Plastic × Interconnect** | 846 | SDI's software-defined interconnect could implement plastic (reconfigurable) net |
-| 2 | **Chiplet × Heterogeneous × Neuromorphic** | 626 | Chiplet-based heterogeneous integration enables combining CMOS logic with memris |
-| 3 | **NoC × Spiking × Routing** | 515 | NoC routing algorithms could be redesigned for event-driven spike packet deliver |
+| 1 | **SDI × Plastic × Interconnect** | 857 | SDI's software-defined interconnect could implement plastic (reconfigurable) net |
+| 2 | **Chiplet × Heterogeneous × Neuromorphic** | 665 | Chiplet-based heterogeneous integration enables combining CMOS logic with memris |
+| 3 | **NoC × Spiking × Routing** | 519 | NoC routing algorithms could be redesigned for event-driven spike packet deliver |
 
 > 全部桥梁 → [[wiki/cross_domain_insights|跨域洞察完整报告]]
 
@@ -56,7 +56,7 @@ cssclass: dashboard
 >[!tip] 知识库维护
 >- [[wiki/task_recommendations|查看自动推荐任务]]
 >- [[60_MOC/07_Pipeline_Status|管线状态]]：`❓ unknown`
->- Git：4813 uncommitted changes
+>- Git：4652 uncommitted changes
 
 **入口**：[[60_MOC/03_Daily_Action|每日行动]] · [[60_MOC/04_Daily_Focus|今日焦点]] · [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html)
 
@@ -165,7 +165,6 @@ Processing → TCC/iNEST → Output
 
 | 日期 | 断链 | 孤儿 | 缺FM |
 |---|---|---|---|
-| 2026-08-19 | 2081 | 3341 | 367 |
 | 2026-08-20 | 1999 | 2472 | 370 |
 | 2026-08-21 | 1969 | 2489 | 399 |
 | 2026-08-22 | 1951 | 3376 | 401 |
@@ -175,6 +174,7 @@ Processing → TCC/iNEST → Output
 | 2026-08-25 | 3936 | 2583 | 929 |
 | 2026-08-26 | 3919 | 2589 | 935 |
 | 2026-08-26 | 3919 | 2589 | 935 |
+| 2026-08-27 | 4001 | 2449 | 936 |
 
 > 完整日志 → [[99_Meta/self_evolve_log.json|自进化日志]] · 健康报告 → [[wiki/health|知识健康报告]]
 
@@ -196,7 +196,7 @@ Processing → TCC/iNEST → Output
 
 ## 🩺 健康检查（来自 wiki/health.md）
 
-- 真正断链：**4001**  ·  孤儿笔记：**2449**  ·  缺 frontmatter：**936**
+- 真正断链：**3956**  ·  孤儿笔记：**2444**  ·  缺 frontmatter：**936**
 
 > 缺口由每日自进化持续消解；如需扩大清理范围请人工确认。
 
@@ -211,4 +211,4 @@ Processing → TCC/iNEST → Output
 
 ---
 
-*主页由 homepage_generator.py 自动刷新 | 2026-08-27 03:47*
+*主页由 homepage_generator.py 自动刷新 | 2026-08-27 03:55*

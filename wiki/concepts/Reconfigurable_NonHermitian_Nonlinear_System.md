@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexTopologicalStructures]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[complex system]]
+[[iNEST_Interconnect_Topology]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

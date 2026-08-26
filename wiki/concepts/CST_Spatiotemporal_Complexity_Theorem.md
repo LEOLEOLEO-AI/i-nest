@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[EfficientDeepLearning]]
 [[Memristive_Interconnect]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

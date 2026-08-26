@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BurstTemporalPlasticity]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DynamicCentralitySteering]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DifferentiableRasterizationPipeline]]
 [[DistinctReentrantPhases]]
+[[ERI_2_0_Strategy]]
 [[EdgeIoTEnergyAwareness]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]

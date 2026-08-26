@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[CognitiveSupportTopology]]
 [[CollectiveConsensus]]
+[[Constructed_Reality_Interconnect]]
 [[CrossSubstrateHomology]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]

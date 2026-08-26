@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Asymptotic_Exact_Solution]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[DataCenter_Chip_Logic_Compression]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

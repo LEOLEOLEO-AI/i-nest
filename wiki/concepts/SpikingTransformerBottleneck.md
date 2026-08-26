@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[FPGASNNMemoryOptimization]]
 [[FunctionalEnsemble]]
+[[In_Package_Neuromorphic_Integration]]
 [[SNN]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]

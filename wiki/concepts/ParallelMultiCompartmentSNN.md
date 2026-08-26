@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Amorphous_Amorphous_Transition]]
+[[AnisotropicGaussianPrimitives]]
 [[BiSpikCLM]]
 [[CoDesigned_SNN]]
 [[ComplexValuedSNN]]

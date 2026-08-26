@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonreciprocity_Threshold]]
 [[PerspectiveConditionedFreeEnergy]]
 [[PhononicBandgapEngineering]]
+[[PinAssignmentOptimization]]
 [[TCC]]
 [[iNEST]]
 

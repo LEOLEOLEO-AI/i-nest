@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Bayesian_Decoding]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
+[[BisectionBandwidthBound]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

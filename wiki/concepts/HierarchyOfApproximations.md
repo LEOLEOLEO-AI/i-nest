@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologyDrivenDynamics]]
+[[VisualSemanticDecoding]]
 [[iNEST]]
 
 ## Sources

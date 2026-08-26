@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[ExactRateChaosTransition]]
 [[Interconnect_Routing]]
+[[Localized_Feedback_Array]]
 [[MoE_Routing]]
 [[SNN]]
 [[STDP_Plasticity]]

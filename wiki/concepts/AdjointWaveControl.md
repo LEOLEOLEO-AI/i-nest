@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CommunicationAwareComputeRelocation]]
 [[FatalityDrivenRewiring]]
+[[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

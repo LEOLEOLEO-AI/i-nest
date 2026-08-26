@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[CrossLayer_SignalRouting]]
 [[DARPA_ProjectManager_Model]]
+[[EventDrivenModularArchitecture]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

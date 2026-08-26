@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlocks]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
+[[LivingNetworkDynamics]]
 [[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

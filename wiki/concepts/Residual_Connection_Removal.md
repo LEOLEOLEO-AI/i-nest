@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -72,7 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Interconnect]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

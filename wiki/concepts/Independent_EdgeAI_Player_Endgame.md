@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDSoW]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Synaptic_Plasticity]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

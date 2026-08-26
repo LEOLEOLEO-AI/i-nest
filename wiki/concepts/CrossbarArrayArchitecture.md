@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DTGA]]
+[[DiagnosticReportFramework]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[Topology_Page]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

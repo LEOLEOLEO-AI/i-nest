@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
+[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[CirculateFiringNeuron]]
 [[CollectiveSpikingDynamics]]

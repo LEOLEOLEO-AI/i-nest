@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_based_heterogeneous_integration]]
+[[Cognitive_Relapse_Architecture]]
 [[Evolutionary_Computability]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[evolutionary computability]]
+[[heterogeneous_integration]]
 [[iNEST]]
 [[temporalComplexity]]
 

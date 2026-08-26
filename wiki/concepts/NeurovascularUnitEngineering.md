@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[Memristor_Synapse]]
 [[Metriplectic_Twin]]
 [[Multifractal_Signatures]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
 [[忆阻器]]
+[[智能涌现]]
 [[神经网络]]
 [[类脑芯片]]
 

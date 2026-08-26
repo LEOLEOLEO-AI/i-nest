@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BrainBodyResonance]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]

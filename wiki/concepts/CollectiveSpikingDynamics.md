@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikeEncodingLatency]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 [[synaptic plasticity]]
 

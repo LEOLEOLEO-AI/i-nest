@@ -30,10 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[SimulationReproducibilityAudit]]
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

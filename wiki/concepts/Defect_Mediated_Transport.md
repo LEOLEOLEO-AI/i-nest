@@ -27,9 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[CorticalWaveRouting]]
 [[EmergentOrder]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Order_Flexibility_Duality]]
 [[TCC]]
 [[iNEST]]
 

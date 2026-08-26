@@ -30,6 +30,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Analog_Computation]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

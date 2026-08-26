@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]
+[[BrainBodyResonance]]
 [[Brain_Connectome]]
 [[BrownianCastleInterfaces]]
 [[Chiplet_Based_Neuromorphic_Integration]]

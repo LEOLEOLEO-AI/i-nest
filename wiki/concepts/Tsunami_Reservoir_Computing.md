@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[NonlinearProjectionEncoding]]
 [[Nonlinear_Gain]]
+[[ReadoutTraining]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]

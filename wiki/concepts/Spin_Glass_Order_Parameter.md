@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[Self_Organized_Criticality]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 
 ## Sources

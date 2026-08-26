@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[DARPA_ProjectManager_Model]]
 [[Emerging_CMOS_Memristor]]
 [[Globally_Optimal_SNN_Training]]

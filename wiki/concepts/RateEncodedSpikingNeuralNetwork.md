@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

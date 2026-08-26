@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[STDP_iNEST_Memristive]]
 [[SpikeTimingFidelity]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]

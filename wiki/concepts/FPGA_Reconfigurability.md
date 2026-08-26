@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TopologicalControl]]
 [[Synaptic_Plasticity]]
+[[System_Level_Utility_Control]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
 

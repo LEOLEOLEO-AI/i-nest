@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DeepParsing]]
 [[Deep_Analysis_Framework]]
 [[DerivativeLineage]]
+[[Differential_Encoding]]
 [[EngineeringConstraint_Complement]]
 [[FibonacciMonitoredDynamics]]
 [[Intelligence_Emergence]]

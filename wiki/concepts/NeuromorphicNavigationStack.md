@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
+[[Distributed_Spike_Communication]]
+[[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[LIF_Neuron_Model]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

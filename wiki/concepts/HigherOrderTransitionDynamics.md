@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhotoInducedCurrent]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
 [[ChannelEventSparsity]]
+[[DendriticReservoirState]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

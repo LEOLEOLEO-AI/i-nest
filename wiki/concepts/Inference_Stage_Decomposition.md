@@ -35,12 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Decoupling_Mechanism]]
 [[Heterogeneous_Integration]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TopologicalControl]]
 [[Space_Radiation_Hardening]]
 [[TCC]]
+[[ThroughSiliconVia_TSV_ThermalPath]]
 [[advanced packaging]]
 
 ## Sources

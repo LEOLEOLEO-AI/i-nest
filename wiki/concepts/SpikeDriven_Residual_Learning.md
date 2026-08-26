@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
 [[BurstSuppressionMechanism]]
+[[ContinuousControlConversion]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

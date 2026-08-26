@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ChiralSurfaceFermiProjection]]
 [[GraphTopologyAnalysis]]
 [[Heterogeneous_Integration]]
 [[InformationSciences_Division]]

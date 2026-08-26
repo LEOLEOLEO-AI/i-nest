@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Neuromorphic_Computing]]

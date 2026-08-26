@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossMaterial_Integration]]
 [[DarkSiliconAwareCooling]]
 [[EMIB_Bridge]]
+[[Glass_Interposer_Integration]]
 [[Heterogeneous_Integration]]
 [[TCC]]
 [[iNEST]]

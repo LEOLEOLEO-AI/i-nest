@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Packaging]]
 [[PairwiseCorrelationConstraint]]
 [[ResonateAndFireNeuron]]
 [[SpikeEncoding]]

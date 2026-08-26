@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpticalReservoirComputing]]
 [[Reservoir_Computing]]
+[[ThermalNoiseHarnessing]]
 [[analog computation]]
 [[iNEST]]
 [[neuromorphic computing]]

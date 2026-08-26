@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BulletTrainScheduling]]
+[[CoDesigned_SNN_Online_Learning]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

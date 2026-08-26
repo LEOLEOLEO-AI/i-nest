@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
+[[AutonomousAdaptation]]
 [[CST_Intelligence_Emergence]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

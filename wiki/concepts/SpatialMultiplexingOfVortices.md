@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
 [[CST_CoordinationMechanism]]
+[[CircadianGateModulation]]
+[[Complex_System_Theory]]
 [[CrystalPalace_Program]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

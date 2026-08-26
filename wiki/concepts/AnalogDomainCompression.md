@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[CST_Theory]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC_iNEST_Interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[OS_Level_Performance_Hampering]]
+[[Resilience_ByTopology]]
 [[TCC]]
 [[iNEST]]
 

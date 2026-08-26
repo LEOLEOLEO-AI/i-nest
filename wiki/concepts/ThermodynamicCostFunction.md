@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Physical_Computation]]
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST_Exponential_Gain]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[reservoir computing]]
 

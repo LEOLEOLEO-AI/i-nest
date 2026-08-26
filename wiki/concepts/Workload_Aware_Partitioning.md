@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Switch_Chiplet_Integration]]
 [[TCC]]
+[[TopologyAwareStateMigration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

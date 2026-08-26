@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkSignalRecovery]]
 [[IntegrationProspectsForVLSI]]
 [[Memristor_Reservoir_Branch_Prediction]]
+[[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

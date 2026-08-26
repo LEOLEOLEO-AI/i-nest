@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[CriticalPointControl]]
 [[DelayTolerantNetworkUAV]]
+[[EmergentSwarmTopology]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

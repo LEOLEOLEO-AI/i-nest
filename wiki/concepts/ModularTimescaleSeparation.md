@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[HardwareAware_DesignSpace]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

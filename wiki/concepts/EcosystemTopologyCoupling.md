@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[Cognitive_Relapse_Decoupling]]
 [[DendriticReservoirState]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

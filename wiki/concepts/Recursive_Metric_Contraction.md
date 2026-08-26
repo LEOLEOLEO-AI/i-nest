@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
+[[Emergent_Abilities]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ArtificialProprioception]]
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
+[[Dynamic_Expert_Routing]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[StochasticVehicleRouting]]

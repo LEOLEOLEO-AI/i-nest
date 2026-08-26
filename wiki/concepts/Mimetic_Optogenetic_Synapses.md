@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[MachineLearningPotential]]
 [[Memristive_Topology]]
 [[Metastable_State_Hierarchy]]
 [[Network_Topology_Design]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[neuromorphic computing]]
 [[synaptic plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

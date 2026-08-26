@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
+[[Synaptic_Plasticity]]
 [[neuromorphic computing architecture]]
 [[reservoir computing]]
 

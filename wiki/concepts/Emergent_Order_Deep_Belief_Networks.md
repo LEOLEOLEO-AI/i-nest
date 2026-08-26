@@ -26,11 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AgenticServiceOrchestration]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

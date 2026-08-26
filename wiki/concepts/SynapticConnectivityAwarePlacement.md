@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

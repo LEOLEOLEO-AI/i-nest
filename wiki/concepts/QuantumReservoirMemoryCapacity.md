@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DistinctReentrantPhases]]
 [[Emergent_Reservoir_Topology]]
+[[Epithelial_Barrier_Integrity]]
 [[Fading_Memory_Property]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

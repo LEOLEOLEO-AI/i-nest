@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CST_Spatiotemporal_Coefficient]]
+[[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

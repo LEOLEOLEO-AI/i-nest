@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[SNN]]
 [[ST_SNN]]
 [[Soc]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[TwoTimescaleNeuroEvolution]]
 [[VonEconomoNeuron]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[soc]]
 
 ## Sources

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CLINKAsCarrierPrimitive]]
 [[CST_Equation]]
 [[CST_MasterEquation]]
+[[ChipletWaferInterconnectScaling]]
 [[ChipletWaferTopologyCoDesign]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

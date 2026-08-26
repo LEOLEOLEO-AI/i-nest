@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DisorderedNetworkInterconnect]]
 [[Emergent_Intelligence_Threshold]]

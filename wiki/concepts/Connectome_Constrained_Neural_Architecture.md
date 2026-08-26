@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
+[[ChaoticAttractorTopology]]
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[Network_Topology_Design]]

@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CellularSheaf]]
+[[CircuitTopologySearch]]
+[[Complex_System_Theory]]
 [[GraphTopologyAnalysis]]
 [[In_Package_Neuromorphic_Integration]]
 [[Independent_AI_Player_Endgame]]

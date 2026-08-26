@@ -28,10 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Topology]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
+[[FlagScale_Training_Inference]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Memristive_Topology]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

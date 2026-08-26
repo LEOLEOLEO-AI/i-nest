@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]
+[[NoC_EventRouting]]
 [[PacketRoutingForFPGAs]]
 [[ReputationPropagation]]
 [[SNN]]

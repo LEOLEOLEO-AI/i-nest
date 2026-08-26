@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[AmorphousTopologicalSubstrate]]
 [[BioInspiredGeneralist]]
+[[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

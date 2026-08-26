@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[AndersonTransition]]
 [[BioInspired_Interception_Control]]
+[[CriticalityDrivenStateTransition]]
 [[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]

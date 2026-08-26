@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
+[[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[CST_Spatiotemporal_Complexity]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[Γst_Revision]]
 [[神经网络]]
 

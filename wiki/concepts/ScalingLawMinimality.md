@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Alignment_Tax]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
+[[CSI_Temporal_Encoding]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[ElasticSpikingTransformer]]
 [[FlagOS_2_0]]

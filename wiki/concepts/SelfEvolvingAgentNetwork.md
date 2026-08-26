@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Anomaly_Mediated_Quantum_Criticality]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[TCC]]

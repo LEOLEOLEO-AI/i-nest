@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BackpropFree_Learning]]
 [[Continual_Learning_Modularity]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

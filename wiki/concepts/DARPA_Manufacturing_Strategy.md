@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Project_Group_Strategy]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[EmergencePhaseCitationDynamics]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[material circularity]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 

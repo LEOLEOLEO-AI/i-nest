@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuronal_Avalanche_Dynamics]]
+[[NoiseRegimeTransition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

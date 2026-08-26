@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Communication_Trace_Diagnostics]]
 [[DTGA]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

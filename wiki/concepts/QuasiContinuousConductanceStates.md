@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[TCADCalibration]]
 [[analog weight storage]]
 [[complex system]]
 [[iNEST]]

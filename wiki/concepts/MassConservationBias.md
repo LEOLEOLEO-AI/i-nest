@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuronal_Avalanche_Dynamics]]
+[[NoiseRegimeTransition]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[criticality]]

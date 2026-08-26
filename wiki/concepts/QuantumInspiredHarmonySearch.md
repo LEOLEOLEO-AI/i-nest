@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[JointEmbeddingPredictiveArchitecture]]
 [[JunctionCenteredFramework]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[ActiveMatterSubstrate]]
+[[Annealing_Based_Decoder]]
 [[AttentionMap_DifferenceResidual]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]

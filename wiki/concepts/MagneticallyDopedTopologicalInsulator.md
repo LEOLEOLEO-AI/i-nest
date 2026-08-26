@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[BifurcationCandidate]]
 [[CLINKAsCarrierPrimitive]]
+[[CST_Spatiotemporal_Complexity]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Decoupling]]

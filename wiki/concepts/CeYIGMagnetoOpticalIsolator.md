@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossLayer_SignalRouting]]
+[[DirtyWeylSemimetal]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

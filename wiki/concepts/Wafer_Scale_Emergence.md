@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]

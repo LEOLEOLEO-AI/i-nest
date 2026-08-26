@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

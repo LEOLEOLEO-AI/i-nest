@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]
 [[DelayRobustEmergence]]
+[[DimensionalityReductionPrinciple]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EquilibriumSolution]]

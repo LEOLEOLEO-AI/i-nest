@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Software_Defined_Interconnect]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[Topology_Page]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[topology reconfiguration]]
 

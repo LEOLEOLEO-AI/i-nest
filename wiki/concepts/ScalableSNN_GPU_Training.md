@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AnisotropicGaussianPrimitives]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

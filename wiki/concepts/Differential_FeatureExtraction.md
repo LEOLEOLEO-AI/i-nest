@@ -34,11 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[NoC_SDI_CoDesign]]
+[[NoC_SDI_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Interconnect]]
 [[SDI_Topology]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[CollectiveDynamics]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SpikeEncoding]]

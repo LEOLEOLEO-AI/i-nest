@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
+[[BalancedRouting]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Interconnect_Routing]]

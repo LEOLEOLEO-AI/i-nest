@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[ContactOpportunityExploitation]]
+[[DeepParsing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

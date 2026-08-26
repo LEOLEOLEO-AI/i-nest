@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Asymptotic_Exact_Solution]]
 [[Complex_System_Theory]]
+[[DelayCascadePrediction]]
 [[Differential_Encoding]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

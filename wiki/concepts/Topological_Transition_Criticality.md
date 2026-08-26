@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[MacroCriticalityEmergence]]
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
+[[ScaleFreeAvalancheStatistics]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[criticality]]

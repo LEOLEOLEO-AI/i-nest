@@ -37,11 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Heterogeneous_Integration]]
 [[Inference_Stage_Decomposition]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TopologicalControl]]
 [[TCC]]
+[[TopologyAwareNeuralInterface]]
 [[iNEST]]
 
 ## Sources

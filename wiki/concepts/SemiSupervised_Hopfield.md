@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[Hybrid_Volatile_NonVolatile_Mode]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Multi_Scale_Habituation]]
 [[Network_Topology_Design]]

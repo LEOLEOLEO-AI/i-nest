@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolution]]
 [[AdsorptionBiosorptionHybrid]]
+[[EvolvingArchitectureDynamics]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

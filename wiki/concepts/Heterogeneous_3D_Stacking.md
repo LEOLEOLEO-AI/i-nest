@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectConnect_Topology]]
 [[EMIB_Bridge]]
 [[EulaminateOverrepresentation]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Memristive_Topology]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MachineLearningNanomaterialDiscovery]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

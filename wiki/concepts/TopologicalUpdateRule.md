@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumGateSynthesis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[Reservoir_Computing_Branch_Prediction]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[branch prediction]]

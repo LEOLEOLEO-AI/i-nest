@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[DiagnosticReportFramework]]
 [[Dynamic_Expert_Fusion]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
+[[BifurcationCandidate]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_3D_Stacking]]

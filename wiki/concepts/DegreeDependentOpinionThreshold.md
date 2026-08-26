@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
+[[Scale_Dependent_Coherence]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]

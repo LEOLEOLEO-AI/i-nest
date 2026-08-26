@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
 [[Emergent_Intelligence_Threshold]]
+[[Emergent_Nonlinear_Dynamics]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

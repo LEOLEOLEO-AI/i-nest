@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ImpactFallDetection]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Oncological_Digital_Twin]]

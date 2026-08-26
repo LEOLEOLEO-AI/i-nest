@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Switch_Embedded_Control]]
 [[SDI_TCC_Chiplet]]
+[[SDI节点接口规范与化合键定义]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[Accessibility_Plasticity]]
 [[Active_Inference_Architecture]]
+[[AnomalousSpinTransport]]
 [[BinaryCombinatorialOptimization]]
 [[Interconnect_Routing]]
 [[SNN]]

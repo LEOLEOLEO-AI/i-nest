@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[ReSCom_Accelerator]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Reconfigurable_Neuromorphic_Acceleration]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[iNEST]]

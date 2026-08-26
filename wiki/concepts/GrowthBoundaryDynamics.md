@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenFunctionalConnectivity]]
 [[ExtinctionDrivenMetastability]]
 [[Inference_Workload_Profiling]]
+[[LocalInteractionDrivenReconfiguration]]
 [[Neuromorphic_Computing]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[SDI_Bond]]
@@ -34,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[SupervisedHardwareRepair]]
 [[TCC]]
-[[iNEST_Interconnect]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

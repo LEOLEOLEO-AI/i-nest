@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdjointWaveControl]]
 [[Chip_Floorplanning]]
 [[CongestionAwareLoss]]
 [[DifferentiablePlacement]]

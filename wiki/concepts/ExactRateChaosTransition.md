@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Localized_Feedback_Array]]
 [[MoE_Routing]]
+[[NonHermitianSpectralCorrelations]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

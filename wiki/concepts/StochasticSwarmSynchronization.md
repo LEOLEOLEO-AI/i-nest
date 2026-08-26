@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiableNetworkMetrics]]
 [[EmergentPatternFormation]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientNeuromorphic]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

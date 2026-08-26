@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
+[[NoC_SDI_Integration]]
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

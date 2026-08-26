@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[PhysicalReservoirTransientDynamics]]
 [[PhysicalReservoir]]
 [[Physical_Reservoir_Substrate]]
+[[Readout_Weight_Training]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]

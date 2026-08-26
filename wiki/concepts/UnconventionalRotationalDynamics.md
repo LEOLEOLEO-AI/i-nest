@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
+[[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[Synaptic_Plasticity]]
 [[catastrophic forgetting]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[Stigmergic_RL]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

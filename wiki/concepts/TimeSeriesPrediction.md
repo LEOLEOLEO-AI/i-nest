@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ContactOpportunityExploitation]]
 [[DeepParsing]]
 [[Deep_Analysis_Framework]]
+[[DerivativeLineage]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

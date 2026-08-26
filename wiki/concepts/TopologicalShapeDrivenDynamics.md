@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
+[[Criticality_Induced_Plasticity]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]

@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Scheduling]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
@@ -38,8 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

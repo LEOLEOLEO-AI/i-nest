@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Topology]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
+[[ExtensiveWidthShallowNN]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

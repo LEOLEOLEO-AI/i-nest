@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LLM_Heuristic_Pruning]]
 [[Network_Topology_Design]]
+[[Neural_Avalanche_Dynamics]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[Causal_Emergence_Architecture]]
+[[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

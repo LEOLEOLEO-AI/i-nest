@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Amorphous_Amorphous_Transition]]
 [[AnomalousSpinTransport]]
 [[ExtinctionDrivenMetastability]]
+[[FPGA_Accelerated_SNN]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

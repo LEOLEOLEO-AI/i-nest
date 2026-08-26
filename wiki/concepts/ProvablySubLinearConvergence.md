@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
+[[SynapticWeightDynamics]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TwoTimescaleNeuroEvolution]]

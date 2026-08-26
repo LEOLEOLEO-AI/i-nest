@@ -35,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DistinctReentrantPhases]]
+[[Epithelial_Barrier_Integrity]]
 [[Memory_Technology_Coexistence]]
 [[Network_Topology_Design]]
 [[Switch_Bottleneck]]

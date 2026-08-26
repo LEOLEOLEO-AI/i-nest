@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
+[[CoreComputationSubspace]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]

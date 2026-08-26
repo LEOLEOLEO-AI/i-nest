@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]
+[[DelayRobustEmergence]]
 [[Edge_Intelligence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

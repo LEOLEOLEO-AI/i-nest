@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SolitonLikeWaves]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingPointCloudPEFT]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[complex system]]

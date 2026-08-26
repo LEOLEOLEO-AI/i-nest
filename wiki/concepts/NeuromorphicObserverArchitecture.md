@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]

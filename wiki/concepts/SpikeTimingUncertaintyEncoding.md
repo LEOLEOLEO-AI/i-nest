@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Environmental_Capability_Context]]
 [[EventCameraTemporalEncoding]]
+[[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

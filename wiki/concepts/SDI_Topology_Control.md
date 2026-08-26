@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
+[[RTC_Primitives]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyProgramming]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[topology reconfiguration]]
 

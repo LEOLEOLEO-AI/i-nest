@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticTaskPartitioning]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenPlasticity]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]

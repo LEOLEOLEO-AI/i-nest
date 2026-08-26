@@ -47,9 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Synchronization_Overhead_Mitigation]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[新型计算]]
 [[神经形态计算]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationHeterogeneity]]
 [[ComputeRelocationOverhead]]
 [[Cryogenic_Syndrome_Compression]]
+[[DirectConnect_Topology]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

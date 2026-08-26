@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_State]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]

@@ -21,5 +21,6 @@ SDI, STDP, iNEST, neuromorphic, 互连, 忆阻, 拓扑, 晶圆, 神经形态, �
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[Connectome_Inspired_Architecture]]
 [[DeviceConductanceTuning]]
 [[DistinctReentrantPhases]]
 [[Emergent_Intelligence_Threshold]]

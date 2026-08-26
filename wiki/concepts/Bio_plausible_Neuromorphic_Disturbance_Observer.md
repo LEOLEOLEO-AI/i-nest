@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
 [[CompetitiveProgramDynamics]]
+[[Dynamic_Expert_Routing]]
 [[FlexibilityThreshold]]
 [[MemristiveSignedCouplings]]
 [[Neuromorphic_Computing]]

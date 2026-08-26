@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[ERI_2_0_Strategy]]
 [[Functional_Food_Complexity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Interconnect_Routing]]
 [[RateEncodedSpikingNeuralNetwork]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeBasedGradientFreeOptimization]]

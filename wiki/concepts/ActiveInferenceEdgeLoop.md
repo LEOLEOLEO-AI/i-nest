@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FreeEnergyMinimization]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[Loihi2_OnChip_Learning]]
 [[Microfluidic_Worm_Trap_Array]]
 [[MultiModel_Adapter_Architecture]]
 [[Multi_Device_Coordination]]

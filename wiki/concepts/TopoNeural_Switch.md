@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[Anisotropic_Correlation_Length]]
+[[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]

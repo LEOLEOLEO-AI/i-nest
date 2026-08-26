@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Criticality]]
 [[DimensionSeparation_IntensiveExtensive]]
+[[DiscreteContinuous_Unification]]
 [[EventDrivenAttentionMechanism]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

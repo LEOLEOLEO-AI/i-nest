@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST theory]]
 [[CST_CoordinationMechanism]]
+[[CST_Spatiotemporal_Coefficient]]
 [[CST_Theory]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]

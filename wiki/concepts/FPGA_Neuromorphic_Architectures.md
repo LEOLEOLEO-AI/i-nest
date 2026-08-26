@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
+[[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DevelopmentalNeuromorphicAdaptation]]

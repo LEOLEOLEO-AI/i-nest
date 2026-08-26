@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[SNN]]
+[[SpikeTimingPreservation]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[temporal coding]]

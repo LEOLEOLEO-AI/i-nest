@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Analog_Computation]]
 [[AndersonTransition]]
+[[Attention_Residuals]]
 [[BitPrecisionAwareScheduling]]
 [[CST_SynergisticCoordination]]
 [[Complex_Network_Brain_Inspired_Computing]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalBranching]]
 [[CriticalityDrivenLearning]]
 [[Criticality]]
+[[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
 [[EdgeOfChaos]]
 [[Fractal_Wavefront_Scaling]]

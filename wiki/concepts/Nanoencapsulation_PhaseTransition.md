@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ChannelEventSparsity]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DendriticReservoirState]]
 [[FlexibilityThreshold]]

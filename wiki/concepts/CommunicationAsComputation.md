@@ -39,12 +39,14 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
+[[SDSoW_Strategic_Planning]]
 [[SDSoW_TCC_Integration]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[WaferScaleInterconnectAlgebra]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

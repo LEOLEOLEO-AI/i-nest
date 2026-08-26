@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_STDP]]
 [[SNN]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[WaveBasedInformationRouting]]
 [[iNEST]]
 
 ## Sources

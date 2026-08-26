@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]
 [[Gut_Brain_Immune_Network]]
+[[HierarchicalBayesianCommunityDetection]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[ReproducibleReservoirDynamics]]
 [[TCC]]
 [[神经网络]]
 

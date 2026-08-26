@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Induced_Plasticity]]
 [[DiffusionInducedInstability]]
 [[Dynamic_Expert_Fusion]]
+[[FormalLinguisticCompetence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

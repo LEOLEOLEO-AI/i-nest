@@ -40,8 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
 [[SparseActivationSkipping]]
+[[Spiking_Neural_Network]]
 [[SpontaneousSpikingDecision]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 

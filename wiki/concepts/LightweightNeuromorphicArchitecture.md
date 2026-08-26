@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[CoPackagedOptics]]
+[[Compute_In_Memory_Neuromorphic]]
 [[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Ferroelectric_ComputeInMemory]]

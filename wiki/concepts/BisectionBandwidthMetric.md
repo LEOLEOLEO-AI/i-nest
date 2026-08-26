@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[3D_Integration]]
 [[AdiabaticMultimodeBend]]
 [[AnalogDomainCompression]]
 [[BackscatteringImmunity]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[ComputeRelocationOverhead]]

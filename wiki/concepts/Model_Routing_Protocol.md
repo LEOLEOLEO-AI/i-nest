@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[ExactRateNetworkBifurcation]]
+[[FC2_Goal_Representation]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

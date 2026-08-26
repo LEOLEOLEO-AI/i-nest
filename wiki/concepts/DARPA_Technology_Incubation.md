@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DelayRobustEmergence]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

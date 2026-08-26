@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
+[[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

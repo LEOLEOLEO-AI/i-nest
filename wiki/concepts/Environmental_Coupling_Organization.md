@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spin_Glass_Order_Parameter]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 [[memristor device]]
 [[neuromorphic computing]]

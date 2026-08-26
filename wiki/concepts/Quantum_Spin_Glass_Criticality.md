@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[AnalogDomainCompression]]
 [[Anomaly_Induced_Quantum_Criticality]]
+[[Ant_Swarm_Functional_Control]]
 [[BioInspired_Interception_Control]]
 [[Criticality]]
 [[Intelligence_Emergence]]

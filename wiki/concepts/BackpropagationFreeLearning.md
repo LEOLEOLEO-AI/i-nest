@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Neuromorphic]]
 [[WaferScaleSubstrate]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

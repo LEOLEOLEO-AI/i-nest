@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[AlloyDisorderEngineering]]
 [[AlternativeBridgingModels]]
+[[ExtinctionDrivenMetastability]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

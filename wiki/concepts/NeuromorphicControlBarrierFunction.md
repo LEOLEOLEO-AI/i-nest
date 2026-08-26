@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
+[[Sequence_First_Processing]]
 [[Spiking_Neural_Network]]
 [[spiking neural network]]
 

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[InformationCompressionAtCriticality]]
 [[Intelligence_Emergence]]
+[[NearThreeDimensionalCriticality]]
 [[Network_Topology_Design]]
 [[NonEquilibriumPhase]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[Izhikevich_NeuronModel]]
+[[Loihi2_OnChip_Learning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

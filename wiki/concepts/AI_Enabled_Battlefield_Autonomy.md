@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalSynapticRules]]
 [[Network_Topology_Design]]
+[[NeuromorphicNetworkFabric]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[NonFermiLiquidBehavior]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]

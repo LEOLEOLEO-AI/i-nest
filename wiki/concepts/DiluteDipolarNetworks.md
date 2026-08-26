@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DiluteDipolarNetwork]]
 [[Emergent_Intelligence_Threshold]]
 [[Fading_Memory_Property]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

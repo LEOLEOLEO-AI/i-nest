@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterfaces]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

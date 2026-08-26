@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[temporalComplexity]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

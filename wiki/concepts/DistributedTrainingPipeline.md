@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[TopologyAwareTaskScheduling]]
+[[WaferScaleInterconnectAlgebra]]
 [[Wafer_Scale_Integration]]
 
 ## Sources

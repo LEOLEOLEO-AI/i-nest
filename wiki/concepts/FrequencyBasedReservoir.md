@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]

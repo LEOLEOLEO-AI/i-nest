@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Enabled_Battlefield_Autonomy]]
 [[Accessibility_Plasticity]]
+[[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[BiologicalNoiseMimicry]]
 [[CellEmergence]]

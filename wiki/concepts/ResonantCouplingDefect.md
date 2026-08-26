@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Interconnect_Routing]]
 [[MobilityEdge]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

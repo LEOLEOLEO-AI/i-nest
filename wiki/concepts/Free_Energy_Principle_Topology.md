@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstrainedHebbianLearning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleAveragedSolution]]
 [[FreeEnergyPrinciple]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

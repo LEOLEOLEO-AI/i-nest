@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstraintDrivenSelfOrganization]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalLearningRegime]]
+[[CriticalNormBoundary]]
 [[Criticality]]
 [[Decoupling_Mechanism]]
 [[DualDrivenHybridNetwork]]

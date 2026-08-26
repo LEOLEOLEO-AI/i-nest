@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
 [[Decoupled_Priors]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle_Network]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Arm_Locomotor_Synergy]]
 [[CollectiveDynamics]]
+[[CorticalTravelingWaves]]
 [[Neuromorphic_Computing]]
 [[OptimalRepresentation]]
 [[PPT]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[DualDrivenHybridNetwork]]
 [[EventDrivenMotionDeblurring]]
 [[Heterogeneous_Integration]]
 [[SNN]]

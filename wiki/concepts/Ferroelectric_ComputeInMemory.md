@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neural_Dynamical_Systems]]
 [[Neuromorphic_Computing]]

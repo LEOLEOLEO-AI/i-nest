@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
 [[InNetworkAgentRewiring]]
+[[InSensorMemoryComputing]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]

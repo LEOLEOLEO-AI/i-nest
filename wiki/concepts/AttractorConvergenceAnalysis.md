@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
+[[BisectionBandwidthBound]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[EdgeIoTEnergyAwareness]]

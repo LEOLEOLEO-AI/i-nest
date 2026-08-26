@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActivityAvalanche]]
 [[ConsciousnessEngineeringLoop]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[In_Package_Neuromorphic_Integration]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

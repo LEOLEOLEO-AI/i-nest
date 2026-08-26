@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Advanced_Packaging_for_Space]]
 [[Alignment_Tax]]
+[[BioInspired_Interception_Control]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

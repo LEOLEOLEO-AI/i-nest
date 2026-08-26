@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Compute]]
+[[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

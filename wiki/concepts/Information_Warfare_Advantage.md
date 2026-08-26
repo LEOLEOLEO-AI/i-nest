@@ -37,10 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[RateEncodedVisualPlaceRecognition]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SocialSkillAcquisition]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[VisualPlaceRecognition]]
 [[iNEST]]
 
 ## Sources

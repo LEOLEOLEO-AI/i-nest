@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet，解决车规芯片既要、又要、还要难题的唯一解？_智车星球]]
 [[Complex_System_Theory]]
 [[GroupWise_DragonflyPlus]]
 [[Heterogeneous_Integration]]

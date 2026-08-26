@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[AnteHoc_Explainability]]
 [[BifurcationCandidateSet]]
+[[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[FreeEnergyMinimization]]
 [[Intelligence_Emergence]]

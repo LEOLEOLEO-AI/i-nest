@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[AdversarialSpikePerturbation]]
 [[AgentBasedCorruptionModel]]
+[[ApproximateMacroscopicDynamics]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[PhononicBandgapEngineering]]
 [[Photonic_Chiplet_Interconnect]]
 [[PrecisionCalibration]]
+[[Recursive_Metric_Contraction]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[ScaleFreeNetwork]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalInertiaEstimation]]
 [[Critical_Region_Extension]]
 [[DTGA]]
+[[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

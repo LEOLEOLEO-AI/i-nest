@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Photonic_Reservoir_Computing]]
 [[Reservoir_Computing]]
+[[ThermalNoiseHarnessing]]
 [[iNEST]]
 [[neuromorphic computing]]
 

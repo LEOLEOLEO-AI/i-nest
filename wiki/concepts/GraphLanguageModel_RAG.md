@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[GraphLanguageModel]]
 [[Intelligence_Emergence]]
+[[Material_Circularity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

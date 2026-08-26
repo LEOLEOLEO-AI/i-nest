@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeCodingGradient]]

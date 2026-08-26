@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearProjectionEncoding]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[complex system]]
 [[iNEST]]
 

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AmoebaInspiredLocomotion]]
 [[Avoided_Criticality]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

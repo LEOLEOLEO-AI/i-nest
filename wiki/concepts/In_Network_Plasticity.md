@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

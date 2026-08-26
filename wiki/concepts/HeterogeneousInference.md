@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Fusion]]
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]
+[[Spaceborne_Computing_Architecture]]
 [[TCC]]
 [[advanced packaging]]
 

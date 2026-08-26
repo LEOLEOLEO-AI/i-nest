@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[GradientFreeTraining]]
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]

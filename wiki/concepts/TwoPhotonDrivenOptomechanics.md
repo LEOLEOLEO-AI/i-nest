@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
+[[Constructed_Reality_Interconnect]]
 [[Core_Spacetime_Tensor]]
 [[Course_Based_FPGA_Projects]]
 [[CrystalPalace_Program]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[EndToEndLinkSimulation]]
 [[Free_Energy_Principle_Network]]
+[[HierarchicalSpikePropagation]]
 [[InSensorComputing]]
 [[TCC]]
 

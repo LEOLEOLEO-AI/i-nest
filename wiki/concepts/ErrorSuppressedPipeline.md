@@ -24,11 +24,11 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[DTGA]]
 [[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Processing]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiScaleTemporalProcessing]]
 [[National_Innovation_Center_Role]]
@@ -47,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleSubstrate]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

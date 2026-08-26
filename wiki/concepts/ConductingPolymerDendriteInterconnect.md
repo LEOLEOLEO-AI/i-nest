@@ -31,11 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]
-[[ModelOptimizationFederated]]
+[[ModelOptimization]]
 [[Negative_Result_Retention]]
 [[Network_Topology_Design]]
 [[OpticallyWritableAtomicVaporMemory]]
 [[TCC]]
+[[TopologyAware_Convergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

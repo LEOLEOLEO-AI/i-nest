@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousTopologicalSubstrate]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ChiralSurfaceFermiProjection]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]

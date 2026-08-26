@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[DelayAwareSpikeEventDelivery]]
 [[Direct_Spike_Attention]]
+[[DynamicTokenSparsity]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[SNN]]

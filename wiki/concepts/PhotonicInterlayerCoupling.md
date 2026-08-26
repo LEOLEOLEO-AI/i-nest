@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
+[[ChipletTopologyAwareness]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]

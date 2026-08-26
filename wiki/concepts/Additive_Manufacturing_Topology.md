@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
-[[Network_on_Chip_communication_architecture]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI_Integration]]
@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TwoDimensionalTransport]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

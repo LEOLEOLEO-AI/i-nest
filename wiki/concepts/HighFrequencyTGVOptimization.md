@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[ApproximationFidelityTradeoff]]
 [[Architectural_Conditioning]]
+[[BisectionBandwidthBound]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Dynamic_Expert_Fusion]]

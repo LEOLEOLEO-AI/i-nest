@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirWeightSparsity]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[TemporalFeatureProjection]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Semantic_Flow]]
 [[iNEST]]

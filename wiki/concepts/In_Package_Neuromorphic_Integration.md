@@ -40,11 +40,13 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[忆阻器]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

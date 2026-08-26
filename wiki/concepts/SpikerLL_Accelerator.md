@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[StrategyDiffusionCoupling]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[spiking neural network]]

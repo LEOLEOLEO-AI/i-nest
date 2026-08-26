@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[CriticalFixedPoint]]
 [[CriticalStateDynamics]]
+[[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Self_Organized_Criticality]]

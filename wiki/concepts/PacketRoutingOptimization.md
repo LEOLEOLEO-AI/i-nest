@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ConsciousnessEngineeringLoop]]
 [[DTGA]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[QuarantineCostTradeoff]]

@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[QuantumChaos]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

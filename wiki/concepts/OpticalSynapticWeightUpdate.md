@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[Causal_Emergence]]
+[[Causal_Emergence_Architecture]]
 [[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

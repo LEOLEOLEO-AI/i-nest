@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NCA_Reservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonlinearDynamicalSampling]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[iNEST]]

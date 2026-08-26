@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Complex_System_Theory]]
 [[DAGGER_Algorithm]]
+[[DisorderInducedLocalization]]
 [[DistributedInference]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

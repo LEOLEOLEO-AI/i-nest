@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[FermiSurfaceTopologySignature]]
 [[FixedOverheadFloor]]
+[[HigherOrderDynamicsPreservation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

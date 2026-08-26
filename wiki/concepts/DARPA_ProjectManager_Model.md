@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[ApplicationScenarioReconstruction]]
 [[CST_SynergisticCoordination]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[DTGA]]
 [[ErrorSuppressedPipeline]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

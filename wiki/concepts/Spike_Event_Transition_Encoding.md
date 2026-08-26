@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[Avoided_Criticality]]
 [[ContinuousControlConversion]]
+[[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[SNN]]
 [[Self_Organized_Criticality]]

@@ -27,11 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_of_Natural_Languages]]
 [[Heterogeneous_Compute_Graph]]
 [[HierarchicalReservoirDynamics]]
+[[KV_Cache_To_BoundaryObject]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[QuantumReservoirMemoryCapacity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[Self_Organized_Criticality]]
 [[neuromorphic computing]]
 
 ## Sources

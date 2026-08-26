@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveTimeStepTraining]]
+[[AnisotropicGaussianPrimitives]]
 [[BackflowTransformation]]
 [[BigBrain3DHistology]]
 [[Brain_Connectome]]

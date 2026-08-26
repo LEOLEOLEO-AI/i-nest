@@ -46,7 +46,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Interconnect]]
 [[SDI_NoC_Integration]]
 [[TCC]]
+[[WideLink_NoC_Router]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

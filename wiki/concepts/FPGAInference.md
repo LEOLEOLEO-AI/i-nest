@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP_Rule]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]

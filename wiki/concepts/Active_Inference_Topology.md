@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Wave_Reconfiguration]]
 [[ReEntrantMultifractalization]]
 [[TCC]]
 [[iNEST]]

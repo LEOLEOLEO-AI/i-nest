@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]

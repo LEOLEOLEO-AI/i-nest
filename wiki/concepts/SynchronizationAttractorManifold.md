@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[GroupSynchronization]]
 [[IntrinsicTimingSTDP]]
+[[Learning_Rule_Comparison]]
 [[Loihi2_SpikeEncoding]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]

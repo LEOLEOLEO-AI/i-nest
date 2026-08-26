@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DualSided_Routing_Resource]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[GraphBasedSemanticRouting]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

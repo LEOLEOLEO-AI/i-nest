@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Flexible_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

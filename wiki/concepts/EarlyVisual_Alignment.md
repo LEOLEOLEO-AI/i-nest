@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[AutonomousServiceNegotiation]]
 [[BehavioralNeuromorphicCorrelates]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

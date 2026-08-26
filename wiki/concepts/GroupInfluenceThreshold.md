@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Routing]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
+[[MultiSourceTaskonomy]]
 [[Neuromorphic_Computing]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 

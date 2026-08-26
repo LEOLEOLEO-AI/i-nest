@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Emerging_CMOS_Memristor]]
 [[FPGASpikeImplementation]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]

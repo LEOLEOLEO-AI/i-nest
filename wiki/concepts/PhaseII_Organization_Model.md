@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_iNEST_Wafer]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 

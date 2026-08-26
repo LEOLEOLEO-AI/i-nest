@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality_Based_Feature_Extraction]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Network_On_Chip]]

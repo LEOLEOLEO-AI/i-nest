@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Technology_Disparity_Offset]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

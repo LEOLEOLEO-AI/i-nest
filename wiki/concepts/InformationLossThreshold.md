@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
+[[EventBasedMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

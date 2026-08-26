@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[vLLM_plugin_FLSDI]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

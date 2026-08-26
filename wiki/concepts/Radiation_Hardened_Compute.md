@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Memristive_Interconnect]]
 [[MobilityEdge]]
+[[Network_Topology_Design]]
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 
 ## Sources

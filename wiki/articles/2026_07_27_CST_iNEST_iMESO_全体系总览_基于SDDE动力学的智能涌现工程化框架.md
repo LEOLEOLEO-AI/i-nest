@@ -21,6 +21,7 @@ SDI, STDP, iNEST, 互连, 忆阻, 拓扑, 晶圆
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

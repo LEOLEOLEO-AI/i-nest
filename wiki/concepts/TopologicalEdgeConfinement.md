@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Confinement]]
+[[CouplingMatrixRecovery]]
 [[Critical_Region_Extension]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Principle_Network]]

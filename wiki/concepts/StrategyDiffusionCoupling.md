@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikerLL_Accelerator]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[iNEST]]
 [[neuromorphic substrate]]

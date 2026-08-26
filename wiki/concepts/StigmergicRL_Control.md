@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
+[[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[BitPrecisionAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]

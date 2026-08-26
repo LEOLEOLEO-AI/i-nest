@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
 [[ReliabilityOverheadTradeoff]]
+[[SDI_STDP]]
 [[ScaleFreeNetwork]]
 [[TopologyDrivenRouting]]
 [[ViewDependentAppearance]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[HardwareAwareTraining]]
 [[ITP_STDP]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

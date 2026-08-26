@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BeyondVonNeumannArchitecture]]
 [[ChargeDomainAttention]]
+[[Crystallized_Embedding_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emerging_CMOS_Memristor]]

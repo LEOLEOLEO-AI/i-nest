@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Wafer_Topology]]
+[[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

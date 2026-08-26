@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AsymmetricCoupling]]
+[[ExtinctionDrivenMetastability]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[Personalised_Strategy_Optimisation]]

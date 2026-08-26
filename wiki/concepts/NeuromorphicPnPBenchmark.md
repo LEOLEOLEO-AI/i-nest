@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[Continuous_Spatiotemporal_State_Propagation]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NeuromorphicPnP]]
 [[Neuromorphic_Computing]]

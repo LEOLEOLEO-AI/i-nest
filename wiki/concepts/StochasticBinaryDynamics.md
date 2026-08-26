@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MultibodyInteractionCascade]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicHardwareDeployment]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

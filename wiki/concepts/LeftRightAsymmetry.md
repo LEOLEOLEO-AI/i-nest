@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Prior_Resolution]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Sleep_EEG_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic computing architecture]]
 

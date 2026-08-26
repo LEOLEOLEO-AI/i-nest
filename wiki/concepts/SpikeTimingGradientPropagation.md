@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]
 [[Event_Driven_Architecture]]
+[[ImpactFallDetection]]
 [[LatencyGradientDescent]]
 [[MembranePotentialModulation]]
 [[Network_Topology_Design]]

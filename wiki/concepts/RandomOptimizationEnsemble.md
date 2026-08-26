@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[ChiralSymmetryClasses]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalLearningRegime]]
 [[Critical_Region_Extension]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

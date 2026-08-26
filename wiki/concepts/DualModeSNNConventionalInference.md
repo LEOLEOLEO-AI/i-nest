@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[FullyLocalOnlineSNNTraining]]
 [[InNetworkEntropyProbe]]
+[[Local_Approximation_Dynamics]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

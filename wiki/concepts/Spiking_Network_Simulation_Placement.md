@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
+[[InterDomain_Synergy]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]

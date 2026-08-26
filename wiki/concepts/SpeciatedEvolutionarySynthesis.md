@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryEfficientSimulation]]
 [[Network_Topology_Design]]
 [[NextNearestNeighborHopping]]
+[[NichePreservationMechanism]]
 [[Photonic_Chiplet_Interconnect]]
 [[Relapse_Resilient_Interconnect]]
 [[SDI_Bond]]

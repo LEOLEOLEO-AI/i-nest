@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Causal_Emergence_Architecture]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]

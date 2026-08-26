@@ -26,11 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[AmorphousSolidPlasticity]]
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
+[[AnomalousSpinTransport]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[NestedRepresentation]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
+[[Synaptic_Plasticity]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[iNEST]]
 

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]
 [[DTGA]]
 [[Dimensionality_Modularity_Tradeoff]]

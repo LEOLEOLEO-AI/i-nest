@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
+[[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
+[[Heterogeneous_Inference_Division]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]

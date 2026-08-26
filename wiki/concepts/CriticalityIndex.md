@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
 [[iNEST]]
 

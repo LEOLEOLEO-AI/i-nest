@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialRobustness]]
 [[AdversarialSensingResilience]]
 [[Air_Combat_Autonomy]]
+[[AirportNetworkGraphEmbedding]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Intelligence]]

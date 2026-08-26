@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalMeasurementSheaf]]
 [[MagicStateDistillationOverheadModel]]
 [[Memristive_Topology]]
+[[NCL神经计算定律详解]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

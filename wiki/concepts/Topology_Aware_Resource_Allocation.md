@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
+[[CXL_Deployment_Transition]]
 [[ComputeRelocationOverhead]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

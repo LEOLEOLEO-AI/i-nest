@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Memristor_Synapse]]

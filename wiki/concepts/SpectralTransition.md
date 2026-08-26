@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[CriticalityDrivenAdaptation]]
 [[Criticality]]
+[[Criticality_Induced_Plasticity]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
 [[DynamicsMatchedReservoir]]

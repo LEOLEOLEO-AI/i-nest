@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCascadePrediction]]
 [[Differential_Encoding]]
 [[Intelligence_Emergence]]
+[[NanoparticleNetwork]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

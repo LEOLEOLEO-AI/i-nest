@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
+[[Neuromorphic_Topology_Mapping]]
 [[NoC_SDI_Integration]]
 [[OpticalNeuralNetworkTopology]]
 [[PinAssignmentOptimization]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Asymptotic_Exact_Solution]]
+[[BoseCondensateAnalogy]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

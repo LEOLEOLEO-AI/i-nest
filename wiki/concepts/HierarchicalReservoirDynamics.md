@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[DARPA_ProjectManager_Model]]
+[[Epithelial_Barrier_Integrity]]
 [[FirstPrinciples_AI]]
 [[Heterogeneous_Compute_Graph]]
 [[MeanFieldSpinGlass]]

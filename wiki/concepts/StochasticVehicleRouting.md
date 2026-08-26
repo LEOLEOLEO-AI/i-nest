@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_To_Information_Conversion]]
 [[DelayTolerantNetworkUAV]]
 [[Interconnect_Routing]]
+[[LLM_Reward_Design]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[StochasticMultiAgentRL]]
+[[Synaptic_Plasticity]]
 [[Topology_Centric_Computing]]
 [[iNEST]]
 

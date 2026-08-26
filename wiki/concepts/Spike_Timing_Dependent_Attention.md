@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Controlled_Release_Kinetics]]
 [[DiscreteSTDPLearning]]
+[[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]

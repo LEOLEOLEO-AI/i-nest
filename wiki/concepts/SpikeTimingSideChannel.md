@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[Neuromorphic_Computing]]
 [[RateEncodedSpikingNeuralNetwork]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

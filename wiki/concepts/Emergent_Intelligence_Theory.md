@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

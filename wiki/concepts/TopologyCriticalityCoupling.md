@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
+[[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReservoirComputingModel]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[SelfRectifyingMemristor]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

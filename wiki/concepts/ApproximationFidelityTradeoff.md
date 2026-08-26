@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Cryogenic_Syndrome_Compression]]
@@ -38,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
-[[iNEST_Interconnect]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

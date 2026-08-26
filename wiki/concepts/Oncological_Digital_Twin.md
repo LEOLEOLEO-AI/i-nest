@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[QuantumChaos]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

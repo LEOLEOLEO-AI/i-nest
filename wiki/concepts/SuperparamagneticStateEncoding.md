@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlocks]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
+[[NISQHardwareAwareMapping]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[complex system]]

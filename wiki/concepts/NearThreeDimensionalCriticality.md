@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderInducedCriticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[InformationCompressionAtCriticality]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

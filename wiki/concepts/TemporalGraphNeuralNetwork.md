@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Architecture]]
+[[ComplexEcosystemDynamics]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

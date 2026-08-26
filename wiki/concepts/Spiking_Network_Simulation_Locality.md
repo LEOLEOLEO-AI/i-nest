@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[NestedRepresentation]]
+[[NeuromorphicBrainInterface]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

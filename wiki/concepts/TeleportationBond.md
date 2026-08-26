@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[4H_SiC_SubstrateProcessing]]
+[[AI_Assisted_Energy_Optimization]]
 [[ActivityAvalanche]]
 [[Analog_Computation]]
 [[AvalanchePropagation]]

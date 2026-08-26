@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[AutonomousServiceNegotiation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]

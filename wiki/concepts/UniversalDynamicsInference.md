@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[GNN图神经网络，非结构化数据分析利器！]]
+[[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

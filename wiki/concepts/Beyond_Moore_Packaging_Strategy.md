@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[CounterstreamSignalPropagation]]
+[[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]

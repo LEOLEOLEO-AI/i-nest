@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[GeTeBasedCBRAM]]
 [[Heterogeneous_Integration]]
 [[IMPLYMemristiveISA]]
+[[InMateriaComputing]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]

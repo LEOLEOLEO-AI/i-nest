@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[CorticalTypeDiversity]]
 [[EdgeIntelligenceAcceleration]]
+[[Free_Energy_Principle_Network]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

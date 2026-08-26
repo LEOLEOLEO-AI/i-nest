@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDN_Neuromorphic_Interface]]
 [[Self_Organized_Criticality]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]

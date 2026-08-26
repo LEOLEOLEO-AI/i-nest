@@ -31,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
 [[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
 [[StochasticMultiAgentRL]]
+[[StochasticVehicleRouting]]
 [[iNEST]]
 
 ## Sources

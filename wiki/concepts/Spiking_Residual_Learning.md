@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[DelayCodedWorkingMemory]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[EnergyEfficientRestoration]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[SNN]]

@@ -21,9 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Alignment_Tax]]
+[[Bipartite_Interconnect_Design]]
 [[ElasticSpikingTransformer]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Learning]]
 [[NestedRepresentation]]
 [[NeuromorphicNetworkFabric]]
 [[Neuromorphic_Computing]]

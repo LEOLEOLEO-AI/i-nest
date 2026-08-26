@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[ActivityPropagationCascade]]
+[[AgenticServiceOrchestration]]
 [[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]

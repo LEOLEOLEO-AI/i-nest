@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredFramework]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
 [[EdgeIoTEnergyAwareness]]
+[[Free_Energy_Principle_Network]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
 [[IndexOrderingOptimization]]

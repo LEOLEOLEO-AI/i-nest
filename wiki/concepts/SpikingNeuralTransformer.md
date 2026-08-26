@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
+[[NeuromorphicControlBarrierFunction]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

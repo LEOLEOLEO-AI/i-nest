@@ -33,7 +33,9 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Path_State_Awareness]]
 [[Quantum_Criticality]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 

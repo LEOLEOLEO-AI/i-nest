@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossInstitutionalNetwork]]
 [[CrossLayer_SignalRouting]]
 [[EdgeIoTEnergyAwareness]]
+[[EpidemicThreshold]]
 [[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SDI bond]]
 [[SDI_Bond]]
+[[SDI_STDP_Rule]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

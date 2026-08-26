@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ContextualReasoning]]
 [[DataBiasAmplification]]
 [[Free_Energy_Principle_Network]]
+[[GlobalInformationDominance]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

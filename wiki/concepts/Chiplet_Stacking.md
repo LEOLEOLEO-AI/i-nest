@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet stacking]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[EdgeIoTEnergyAwareness]]
@@ -42,12 +43,14 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
+[[SDI_NoC_Integration]]
 [[SDI_Topology]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]
 [[chiplet stacking]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

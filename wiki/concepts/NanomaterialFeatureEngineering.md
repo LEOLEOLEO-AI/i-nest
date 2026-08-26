@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CircadianGateModulation]]
+[[Complex_System_Theory]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]

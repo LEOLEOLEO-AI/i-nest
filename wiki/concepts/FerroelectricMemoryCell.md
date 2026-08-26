@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[In_Memory_Computing]]
+[[InterconnectConstrainedEmergence]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]

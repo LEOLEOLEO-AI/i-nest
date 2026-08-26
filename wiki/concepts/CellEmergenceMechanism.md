@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[SDI_TCC_iNEST_Bridge]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Synaptic_Plasticity]]

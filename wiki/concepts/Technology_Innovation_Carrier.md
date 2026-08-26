@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[Obsidian_Plugin_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SoftwareDefinedSystemOnWafer]]
 [[SuperparamagneticSwitchingRate]]

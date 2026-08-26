@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[Resilient_Sensing_Comms_Network]]
 [[ScalableNeuromorphicTopology]]
+[[SiCSubstrateIntegration]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

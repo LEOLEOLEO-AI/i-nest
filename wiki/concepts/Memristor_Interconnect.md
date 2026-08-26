@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
 [[AdaptiveCompetingInteractions]]
+[[Attention_Residuals]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
 [[Memristor_Synapse]]

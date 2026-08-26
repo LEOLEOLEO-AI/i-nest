@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[CorticalWaveRouting]]
 [[Dynamic_Expert_Routing]]
+[[ExplainableEnergyAI]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

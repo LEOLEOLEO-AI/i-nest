@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Midterm_Project_Review]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]

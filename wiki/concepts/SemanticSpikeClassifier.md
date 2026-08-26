@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[BiSpikCLM]]
 [[BiologicalPlausibilityScoring]]
+[[BrownianCastleInterfaces]]
 [[Bursting_Neuron_Model]]
 [[CoDesigned_SNN]]
 [[Neuromorphic_Computing]]

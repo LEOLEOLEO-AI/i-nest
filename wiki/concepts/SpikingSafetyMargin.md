@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BrainBodyResonance]]
 [[Complex_System_Theory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

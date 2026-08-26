@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AnisotropicGaussianPrimitives]]
 [[BurstGatedRouting]]
+[[CriticalityDrivenStateTransition]]
 [[CrossLayer_SignalRouting]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]

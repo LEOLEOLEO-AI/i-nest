@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[LearnableGradientSurrogate]]
 [[Lossless_ANN_SNN_Conversion]]
+[[LowRankEvolutionStrategies]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

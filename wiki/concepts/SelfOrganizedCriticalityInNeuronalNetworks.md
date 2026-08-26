@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Replication_Strategy]]
 [[AgenticServiceOrchestration]]
 [[Algorithmic_Warfare]]
+[[AmoebaInspiredLocomotion]]
 [[Criticality]]
 [[Self_Organized_Criticality]]
 [[TCC]]

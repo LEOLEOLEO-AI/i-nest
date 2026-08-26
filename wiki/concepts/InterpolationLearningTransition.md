@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Roadmap_HIR]]
 [[HybridResistiveMemoryCIM]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]

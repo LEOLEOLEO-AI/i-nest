@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ContactOpportunityExploitation]]
 [[DeepParsing]]
+[[Deep_Analysis_Framework]]
 [[Intelligence_Emergence]]
 [[IntervalAnalysis]]
 [[Network_Topology_Design]]

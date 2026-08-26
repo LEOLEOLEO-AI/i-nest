@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Generative_Graph_Models]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

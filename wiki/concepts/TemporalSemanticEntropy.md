@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LocalSynapticRules]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

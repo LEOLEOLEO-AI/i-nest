@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SmallCore_LargeNetwork]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
+[[Spiking_neural_network_dynamics]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]

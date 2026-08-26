@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
+[[Bipartite_Interconnect_Fabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

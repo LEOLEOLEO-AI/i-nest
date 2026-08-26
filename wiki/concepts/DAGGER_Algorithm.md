@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
 [[ActiveMatterSubstrate]]
+[[Annealing_Based_Decoder]]
 [[Complex_System_Theory]]
 [[DisorderInducedLocalization]]
 [[Intelligence_Emergence]]

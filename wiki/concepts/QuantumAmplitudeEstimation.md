@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[ActivityPropagationCascade]]
 [[AddressRedundancyElimination]]
+[[Adjoint_Gradient_Propagation]]
 [[AllOpticalHebbianLearning]]
 [[Cascading_Failure_Mitigation]]
 [[CorticalTravelingWave]]

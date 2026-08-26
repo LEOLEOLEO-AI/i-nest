@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[STDP_iNEST_Memristive]]
 [[Synaptic_Plasticity]]
 [[TCC]]

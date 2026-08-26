@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]
 [[Fixed_Reservoir_Unitary]]
+[[Generative_Graph_Models]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ReservoirDynamics]]

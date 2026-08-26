@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[HoldingManeuverDelayPrediction]]
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
+[[Loihi2_OnChip_Learning]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]

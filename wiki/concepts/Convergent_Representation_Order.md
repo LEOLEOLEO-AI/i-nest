@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[CorticalWaveRouting]]
 [[Deep_Thermalisation]]
+[[Defect_Mediated_Transport]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

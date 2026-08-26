@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
+[[Memristive_STDP]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

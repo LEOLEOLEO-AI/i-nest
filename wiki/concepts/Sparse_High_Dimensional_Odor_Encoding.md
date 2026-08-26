@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossSubstrateHomology]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
+[[HierarchicalSpatiotemporalProcessing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

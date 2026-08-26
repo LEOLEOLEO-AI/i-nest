@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousSiliconNitridePlatform]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
+[[LossSpikeMechanism]]
 [[Memristive_Topology]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]

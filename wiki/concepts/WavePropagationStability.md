@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[BiSpikCLM]]
 [[BiologicalPlausibilityScoring]]
+[[Bursting_Neuron_Model]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DeeplySupervisedSpiking]]

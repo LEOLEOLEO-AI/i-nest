@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Interconnect_Topology]]
 [[ComputeRelocationOverhead]]
 [[DataMovementMinimization]]

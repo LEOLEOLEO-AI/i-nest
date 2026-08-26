@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[NichePreservationMechanism]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]

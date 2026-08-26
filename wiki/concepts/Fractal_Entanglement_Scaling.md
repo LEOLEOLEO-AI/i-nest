@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Critical_Exponent_Analysis]]
+[[Cross_Node_Event_Propagation]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
 [[Free_Energy_Principle_Network]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoCPlacementRoutingCoDesign]]
 [[Nonreciprocity_Threshold]]
+[[PinAssignmentOptimization]]
 [[RISBeamSpatialSignature]]
 [[TCC]]
 [[iNEST]]

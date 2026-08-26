@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[ConstraintDrivenOptimization]]
+[[ControlDrivenCriticalFluctuations]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

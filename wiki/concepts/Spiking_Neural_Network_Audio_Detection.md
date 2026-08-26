@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Selective_Scan]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
 [[ConsciousnessEngineeringLoop]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Evolutionary_Structure_Computability]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_EventRouting]]
 [[PacketRoutingOptimization]]
 [[QuarantineCostTradeoff]]
+[[SpikeTimingPreservation]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TSVEncapsulationStress]]

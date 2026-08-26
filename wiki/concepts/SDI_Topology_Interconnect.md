@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_Topology]]

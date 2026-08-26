@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AnisotropicGaussianPrimitives]]
 [[BigBrainCellularAxis]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

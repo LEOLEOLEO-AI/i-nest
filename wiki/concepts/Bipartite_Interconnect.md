@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Architecture_Search]]
+[[AI_Forum_Demo_Narrative]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]

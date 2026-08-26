@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[OpticalNonlinearity]]
 [[RecursiveSelfReferentialArchitecture]]
+[[ReservoirEntropyEncoding]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]

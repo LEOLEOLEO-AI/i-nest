@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Driven_Architecture_Search]]
 [[AddressRedundancyElimination]]
+[[Baseline_Draft_Status]]
 [[CollectiveDynamics]]
 [[Constructed_Reality_Model]]
 [[CrossLayer_SignalRouting]]

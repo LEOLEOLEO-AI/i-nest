@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[VaCoAl]]
 [[complex system]]
 [[iNEST]]
 [[soc]]

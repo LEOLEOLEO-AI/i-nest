@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Integration]]
 [[AnteHoc_Explainability]]
 [[Banded_NonHermitian_Matrix]]
+[[CausalIntegrationPhi]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -30,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Roadmap_HIR]]
-[[In_Network_Neuromorphic_Integration]]
+[[In_Network_Neuromorphic]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

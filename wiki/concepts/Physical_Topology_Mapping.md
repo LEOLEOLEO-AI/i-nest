@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CongestionAwareNoCPlacement]]
 [[DynamicServiceComposition]]
+[[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]
+[[CulturalDisseminationDynamics]]
 [[DelayPropagationDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]

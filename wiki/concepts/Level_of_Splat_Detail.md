@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]

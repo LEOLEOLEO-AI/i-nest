@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
+[[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]

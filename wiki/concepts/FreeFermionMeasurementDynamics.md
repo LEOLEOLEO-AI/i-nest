@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]
 [[Capability_Transformation_Mechanism]]
+[[Chain_of_Thought_Reasoning]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousServiceNegotiation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[DarkSiliconAwareCooling]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]

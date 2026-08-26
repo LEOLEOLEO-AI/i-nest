@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
+[[Attention_Residuals]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[heterogeneous_integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

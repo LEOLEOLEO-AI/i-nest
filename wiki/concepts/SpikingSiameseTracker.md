@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
+[[CoDesigned_SNN_Online_Learning]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

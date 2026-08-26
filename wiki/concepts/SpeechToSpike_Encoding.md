@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[BrainBodyResonance]]
 [[BurstTemporalPlasticity]]
+[[ClosedLoopNeuromorphicControl]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]

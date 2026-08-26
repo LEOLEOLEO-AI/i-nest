@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Chiplet_Topology]]
 [[CoPoS]]
+[[ComputeRelocationOverhead]]
 [[EMIB_Bridge]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

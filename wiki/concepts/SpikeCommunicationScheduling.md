@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[CrossLayer_SignalRouting]]
 [[EventCameraTemporalEncoding]]
+[[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

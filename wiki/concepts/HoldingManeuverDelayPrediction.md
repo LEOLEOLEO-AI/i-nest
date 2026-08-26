@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FractalPathEntropy]]
 [[HigherOrderSimplicialDynamics]]
 [[Intelligence_Emergence]]
+[[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[Network_Topology_Design]]
+[[Server_Side_Inference]]
 [[TCC]]
 [[complex system]]
 [[神经网络]]

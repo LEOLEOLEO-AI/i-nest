@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyDrivenCriticality]]
 [[TopologyDrivenDynamics]]
+[[TopologyDrivenVulnerability]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

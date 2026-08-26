@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[ERI_2_0_Strategy]]
 [[GroupWise_DragonflyPlus]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_P_D_Inference]]

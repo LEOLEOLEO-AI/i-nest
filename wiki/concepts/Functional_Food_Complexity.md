@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[3D_Heterogeneous_Integration]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]

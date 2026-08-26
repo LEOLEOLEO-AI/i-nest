@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
+[[FPGA_NeuromorphicMapping]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

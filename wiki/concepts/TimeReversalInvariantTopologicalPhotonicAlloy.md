@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[DualSide_Routing_Layer]]
+[[DualSided_Routing_Resource]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

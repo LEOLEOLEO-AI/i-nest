@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Heterogeneous_Integration]]
 [[LIF_Neuron_Model]]
+[[Memristive_Spike_Integration]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

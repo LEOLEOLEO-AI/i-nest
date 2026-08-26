@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
+[[InterconnectAwarePartitioning]]
 [[InverseDesignOptimization]]
 [[KeyMaterialStrategy]]
 [[Network_Topology_Design]]

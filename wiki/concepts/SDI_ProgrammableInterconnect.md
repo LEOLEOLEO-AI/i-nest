@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_TCC_Chiplet]]
+[[SDI_TCC_iNEST_Bridge]]
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

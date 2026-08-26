@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedLearningLocalization]]
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]
+[[MarginalContributionFitness]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Sensor_Fusion]]
 [[PowerLawScaling]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[ImpactFallDetection]]
 [[In_Network_Neuromorphic]]
+[[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]

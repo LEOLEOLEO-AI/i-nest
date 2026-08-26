@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[ErrorSuppressedPipeline]]
 [[FreeFermionTopologicalInvariant]]
+[[GutBrainAxis_Reprogramming]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Scale_Free_Dynamics]]

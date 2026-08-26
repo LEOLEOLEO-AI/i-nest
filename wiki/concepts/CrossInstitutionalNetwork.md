@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderSimplicialDynamics]]
 [[HoldingManeuverDelayPrediction]]
 [[Intelligence_Emergence]]
+[[Layered_Attractive_Hubbard_Model]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[Spiking_Neural_Network]]

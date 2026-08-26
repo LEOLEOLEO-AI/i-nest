@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[JunctionSignalIntegrity]]
 [[NetworkDynamicalStabilization]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]

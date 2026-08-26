@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]
+[[Generative_Graph_Models]]
 [[InNetworkComputing]]
 [[Intelligent_Power_Management]]
 [[Network_Topology_Design]]

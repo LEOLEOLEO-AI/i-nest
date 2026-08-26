@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[EventDrivenTemplateUpdate]]
 [[MembranePotentialAlignment]]
+[[Nanomaterial_Discovery_ML]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

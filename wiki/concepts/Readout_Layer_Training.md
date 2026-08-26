@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[EmergentTaskDecomposition]]
+[[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]

@@ -69,6 +69,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[_物理学评论_从神经网络中推断高阶交互关系]]
 [[complex system]]
 [[iNEST]]

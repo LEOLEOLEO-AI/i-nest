@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BigBrainCellularAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricCrossbarArray]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MultibodyInteractionCascade]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInducedTopology]]
 [[Criticality]]
 [[DataDrivenMaterialDesign]]
+[[DisorderInducedEntanglementTransition]]
 [[Dynamic_Expert_Fusion]]
 [[ErrorSuppressedPipeline]]
 [[Generative_Graph_Models]]

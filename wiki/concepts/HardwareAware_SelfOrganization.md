@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
 [[InterfaceCentricTopology]]
 [[Memory_Wall]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

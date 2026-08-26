@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BitPrecisionAwareScheduling]]
 [[CST_SynergisticCoordination]]
+[[CST计量仪]]
 [[Collective_State_Convergence]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

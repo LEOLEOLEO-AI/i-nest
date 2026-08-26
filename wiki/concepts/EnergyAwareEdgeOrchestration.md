@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Assisted_Energy_Optimization]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[ConsciousnessEngineeringLoop]]

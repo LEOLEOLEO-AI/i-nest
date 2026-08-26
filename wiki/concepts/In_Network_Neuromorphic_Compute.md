@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[Expert_Review_Arbitration]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[In_Network_Neuromorphic]]

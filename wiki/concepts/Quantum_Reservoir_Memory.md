@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Emerging_CMOS_Memristor]]
 [[Fading_Memory_Property]]
 [[Intelligence_Emergence]]
+[[MemristiveReservoirBranchPrediction]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Quantum_Reservoir_Computing]]
 [[Reservoir_Computing]]

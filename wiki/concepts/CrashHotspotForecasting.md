@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]

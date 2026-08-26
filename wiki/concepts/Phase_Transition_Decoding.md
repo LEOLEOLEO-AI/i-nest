@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Critical_Region_Extension]]
+[[EvolvingArchitectureDynamics]]
 [[Interconnect_Routing]]
 [[MeasurementInducedRouting]]
 [[Network_Topology_Design]]

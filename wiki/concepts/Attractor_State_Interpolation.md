@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Adaptive_Replication_Strategy]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[ArtificialProprioception]]
 [[ExplainableEnergyAI]]
 [[InNetworkNeuromorphicComms]]
 [[Interconnect_Routing]]

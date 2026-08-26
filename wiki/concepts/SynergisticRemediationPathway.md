@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EcosystemTopologyCoupling]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenModularArchitecture]]
 [[EventDrivenRiskAssessment]]
 [[FrustratedDimerMagnet]]
 [[Intelligence_Emergence]]

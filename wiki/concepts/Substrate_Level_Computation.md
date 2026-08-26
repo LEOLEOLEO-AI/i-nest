@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalInertiaEstimation]]
 [[DarkSiliconAwarePowerGating]]
 [[Dynamic_Expert_Fusion]]
+[[ERI_2_0_Framework]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[Complex_System_Theory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[EntropyRegularizedSpikeLoss]]
 [[FirstSpikeTime]]
 [[Neuromorphic_Computing]]

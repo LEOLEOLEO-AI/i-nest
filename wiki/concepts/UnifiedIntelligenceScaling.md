@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
+[[Metastable_State_Hierarchy]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
+[[ChiralSymmetryClasses]]
 [[Cognitive_Relapse_Decoupling]]
 [[CounterstreamSignalPropagation]]
 [[Deep_Thermalisation]]

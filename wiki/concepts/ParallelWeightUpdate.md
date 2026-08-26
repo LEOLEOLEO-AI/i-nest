@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
 [[CST计量仪]]
+[[Complex_System_Theory]]
+[[CorticalWaveRouting]]
 [[FPGAInference]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FastSlow_Dynamics]]

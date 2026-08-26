@@ -33,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
@@ -43,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_TCC_Chiplet]]
 [[SNN]]
 [[STDP_Plasticity]]
@@ -55,7 +55,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[智能涌现]]
 [[涌现]]
 

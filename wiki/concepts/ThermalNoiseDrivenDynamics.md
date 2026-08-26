@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
-[[In_Network_Neuromorphic_Processing]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -42,12 +42,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

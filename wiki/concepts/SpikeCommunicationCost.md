@@ -37,7 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Neuromorphic]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

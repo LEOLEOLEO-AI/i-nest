@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
 [[AnalogDomainCompression]]
+[[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]

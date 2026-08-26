@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
 [[Computation_Access_Routing]]
+[[EvolvingArchitectureDynamics]]
 [[FPGA_NeuromorphicMapping]]
 [[FPGA_Reconfigurability]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

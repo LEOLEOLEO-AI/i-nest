@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuronal_Avalanche_Dynamics]]
 [[Physical_Reservoir_Substrate]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

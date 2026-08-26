@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[ElasticInferenceScheduling]]
 [[GraphGeometryAlignment]]
 [[GroupSynchronization]]
 [[Heterogeneous_Integration]]

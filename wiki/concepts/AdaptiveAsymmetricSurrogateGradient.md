@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AnisotropicGaussianPrimitives]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[SurrogateGradientMethod]]
 [[SynapticFatigueModel]]
 [[Synaptic_Plasticity]]
-[[Synaptic_Plasticity_Rule]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

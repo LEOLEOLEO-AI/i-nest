@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complexity_Emergence_Engineering]]
 [[DataDrivenCellularAxis]]
 [[DrivenDissipativeDynamics]]
 [[In_Network_Neuromorphic]]

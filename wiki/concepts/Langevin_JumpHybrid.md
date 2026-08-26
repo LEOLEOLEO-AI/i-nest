@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Avoided_Criticality]]
 [[ContinuousControlConversion]]
+[[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

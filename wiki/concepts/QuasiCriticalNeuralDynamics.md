@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]
+[[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[criticality]]

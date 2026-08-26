@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Intelligence_Emergence]]
 [[CST计量仪]]
 [[CausalEmergenceCondition]]
+[[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[DataDrivenMaterialDesign]]

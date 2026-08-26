@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[ANN_SNN_WeightSpaceGap]]
 [[AddressRedundancyElimination]]

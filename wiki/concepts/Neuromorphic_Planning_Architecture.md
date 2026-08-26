@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Scheduling]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
 [[National_Innovation_Center_Role]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Theory]]
 [[Heterogeneous_Integration]]
+[[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[JunctionCenteredFramework]]
 [[Mesoscale_Heterogeneous_Integration]]

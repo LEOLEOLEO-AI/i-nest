@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spiking_Neural_Network]]
+[[Strategic_Surprise_Prevention]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Cauchy_Aczel_Uniqueness]]
+[[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[CounterstreamSignalPropagation]]
 [[Network_Topology_Design]]

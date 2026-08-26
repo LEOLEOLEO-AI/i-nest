@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[JointEmbeddingPredictiveArchitecture]]
 [[JunctionCenteredFramework]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

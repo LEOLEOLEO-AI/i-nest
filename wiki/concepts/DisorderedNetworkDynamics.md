@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[NonlinearTransientDynamics]]
 [[Nonlinear_Dynamics_From_Topology]]
 [[Nonlinear_Gain]]
 [[PropertyPredictionModeling]]

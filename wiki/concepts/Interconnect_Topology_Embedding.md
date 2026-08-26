@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AgenticServiceOrchestration]]
+[[AgenticServiceTopology]]
 [[Attention_Residuals]]
 [[Deep_Network_Architecture_Invariant]]
 [[Interconnect_Routing]]

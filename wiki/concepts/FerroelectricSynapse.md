@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]
+[[FerroelectricCrossbarArray]]
 [[Ferroelectric_Devices]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

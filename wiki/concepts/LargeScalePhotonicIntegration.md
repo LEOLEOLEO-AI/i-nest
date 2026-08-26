@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]

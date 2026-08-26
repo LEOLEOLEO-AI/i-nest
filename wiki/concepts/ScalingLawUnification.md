@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Alignment_Tax]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
+[[CXL_Deployment_Transition]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[TCC]]

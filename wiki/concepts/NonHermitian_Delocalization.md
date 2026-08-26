@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MagneticallyDopedTopologicalInsulator]]
 [[Network_Topology_Design]]
+[[OpportunisticRoutingRL]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[CoOptimizedMappingScheduling]]
 [[Contested_Prior_Resolution]]
+[[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[SNN]]

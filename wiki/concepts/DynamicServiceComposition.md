@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
+[[BackpropagationFreeLearning]]
 [[BandedNonHermitianRandomMatrices]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

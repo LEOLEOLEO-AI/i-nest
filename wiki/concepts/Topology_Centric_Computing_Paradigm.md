@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Software_Defined_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
+[[SuperlinearGainProof]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
@@ -63,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

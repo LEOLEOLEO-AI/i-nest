@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
+[[BurstTemporalPlasticity]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Roadmap]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[AdsorptionBiosorptionHybrid]]
 [[Advanced_Packaging_for_Space]]
+[[BioInspired_Interception_Control]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

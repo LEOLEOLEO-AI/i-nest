@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[AttractorConvergenceAnalysis]]
 [[Bipartite_Interconnect_Fabric]]
+[[BisectionBandwidthBound]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossPopulationCen]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicReconfigurationForFaultTolerance]]
+[[DynamicTopologyMapping]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

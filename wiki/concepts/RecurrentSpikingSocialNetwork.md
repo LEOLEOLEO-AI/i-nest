@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

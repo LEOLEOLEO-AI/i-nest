@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[EfficientDeepLearning]]
 [[Memristive_Interconnect]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

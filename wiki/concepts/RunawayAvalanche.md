@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
+[[AnisotropicGaussianPrimitives]]
 [[BioInspiredLearningRule]]
 [[ChannelEventSparsity]]
 [[Contested_Prior_Resolution]]

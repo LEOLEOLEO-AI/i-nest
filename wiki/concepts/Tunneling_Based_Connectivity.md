@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
+[[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]

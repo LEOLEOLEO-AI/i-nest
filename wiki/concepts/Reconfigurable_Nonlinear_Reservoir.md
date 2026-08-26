@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DendriticReservoirState]]
 [[Free_Energy_Topology_Mapping]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

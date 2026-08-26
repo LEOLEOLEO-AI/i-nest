@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
+[[BigBrainCellularAxis]]
 [[BondMovingDecimation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_SDI]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Surface phase transition]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[涌现动力学如何用来分析复杂系统？]]
 

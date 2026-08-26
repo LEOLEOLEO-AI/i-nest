@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Topology]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
+[[Epithelial_Barrier_Integrity]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]

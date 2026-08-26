@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
+[[FirstPrinciples_AI]]
 [[ForwardFluctuationGradient]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

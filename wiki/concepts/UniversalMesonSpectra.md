@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
+[[Continual_Learning_Modularity]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

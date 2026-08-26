@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[AdjointWaveControl]]
 [[Critical_Region_Extension]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]
 [[LLMDrivenPathSelection]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Reconfigurable_Network]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[System_Level_Utility_Control]]
 [[TCC]]
 
 ## Sources

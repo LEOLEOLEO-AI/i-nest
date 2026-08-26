@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopologyMapping]]
 [[FerroelectricDevice]]
 [[Ferroelectric_Devices]]
+[[FirstPrinciples_Derivation]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

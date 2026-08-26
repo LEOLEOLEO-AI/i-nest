@@ -39,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDPDrivenGraphLearning]]
+[[STDP_Plasticity]]
+[[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

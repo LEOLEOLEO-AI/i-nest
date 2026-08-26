@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI_TCC_Chiplet_Interconnect]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -65,7 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[heterogeneous_integration]]
 [[iNEST]]
-[[iNEST_Interconnect]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 

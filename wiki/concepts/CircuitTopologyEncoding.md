@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[EdgeIoTEnergyAwareness]]
+[[Emergent_Order_Deep_Belief_Networks]]
 [[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]
 [[Interconnect_Routing]]

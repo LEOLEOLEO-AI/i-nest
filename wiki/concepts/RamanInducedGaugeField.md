@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[Quantum_Spin_Glass]]
 [[Resilient_Satellite_Mesh]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]

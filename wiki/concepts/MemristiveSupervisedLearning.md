@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ChargeDomainAttention]]
 [[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
+[[EnergyResourceEfficiencyCoOptimization]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[EmergencePhaseCitationDynamics]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDI节点接口规范与化合键定义]]
 [[SNN]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
@@ -49,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources

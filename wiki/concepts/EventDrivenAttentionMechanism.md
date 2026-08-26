@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InputAdaptiveComputation]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[NestedRepresentation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

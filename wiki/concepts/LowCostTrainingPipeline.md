@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
+[[Analog_Synaptic_Weighting]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[FractureMechanism]]

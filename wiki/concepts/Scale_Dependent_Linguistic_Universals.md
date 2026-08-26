@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DARPA_ProjectManager_Model]]
@@ -28,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
-[[STDP_iNEST_Memristive]]
+[[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[fractal_Scaling]]

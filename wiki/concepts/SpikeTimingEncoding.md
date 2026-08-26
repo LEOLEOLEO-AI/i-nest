@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SNN_NeuroprostheticPipeline]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

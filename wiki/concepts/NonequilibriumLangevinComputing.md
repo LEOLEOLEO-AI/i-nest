@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]

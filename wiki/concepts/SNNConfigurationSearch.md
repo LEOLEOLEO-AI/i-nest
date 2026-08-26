@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[BioInspiredInterceptionTask]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

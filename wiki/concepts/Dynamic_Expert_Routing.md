@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[On_Chip_STDP_Learning]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Rule]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
-[[In_Network_Neuromorphic_Processing]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
@@ -39,12 +39,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

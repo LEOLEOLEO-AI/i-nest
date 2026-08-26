@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_SNN_Stability]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
+[[EventBasedMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

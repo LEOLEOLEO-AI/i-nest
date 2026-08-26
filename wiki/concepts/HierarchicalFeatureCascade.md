@@ -32,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalityAwareTopology]]
 [[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
 [[TCC]]
+[[WeightedPathInfluence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

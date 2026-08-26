@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[SpikeEncodingLatency]]
+[[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]

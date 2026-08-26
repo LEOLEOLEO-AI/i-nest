@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Criticality]]
+[[DataCenter_Chip_Logic_Compression]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Network_Topology_Design]]
 [[NeuronalAvalanche]]

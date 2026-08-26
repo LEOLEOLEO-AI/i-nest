@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderSimplicialDynamics]]
 [[HigherOrderTransitionKernel]]
 [[IncidenceBasedRandomWalk]]
+[[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 

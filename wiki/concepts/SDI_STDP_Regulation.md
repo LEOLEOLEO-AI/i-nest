@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[VonNeumann_Complexity_Threshold]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[synaptic plasticity]]
 [[神经网络]]

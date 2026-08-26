@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[FiniteSizeTopologicalPhase]]
 [[Fluidic_Hysterons]]
+[[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

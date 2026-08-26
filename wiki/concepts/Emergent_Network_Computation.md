@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Attention_Residuals]]
+[[AutonomousAdaptation]]
 [[Baseline_Draft_Status]]
 [[CST计量仪]]
 [[Closed_Loop_Neuromodulation]]

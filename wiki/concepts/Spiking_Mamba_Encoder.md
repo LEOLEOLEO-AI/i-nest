@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
+[[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

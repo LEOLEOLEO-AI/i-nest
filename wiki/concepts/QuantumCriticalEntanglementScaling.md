@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Biologically_Plausible_Learning_Rules]]
 [[BulletTrainScheduling]]
 [[Catastrophic_Forgetting_Mitigation]]
+[[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
 [[EntanglementScaling]]
 [[Intelligence_Emergence]]

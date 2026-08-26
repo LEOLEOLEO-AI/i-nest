@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[Criticality]]
 [[Criticality_Induced_Computation]]
+[[Criticality_Transition]]
 [[Disorder_Anomaly_Duality]]
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]

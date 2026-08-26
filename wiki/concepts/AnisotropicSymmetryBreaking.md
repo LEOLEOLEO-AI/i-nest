@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
+[[FlexibilityThreshold]]
 [[FrozenRateOperator]]
 [[InNetworkAgentRewiring]]
 [[InNetworkNeuromorphicComms]]

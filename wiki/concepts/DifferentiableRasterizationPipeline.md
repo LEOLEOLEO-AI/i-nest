@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[Closed_Loop_Neuromodulation]]
 [[Constructed_Reality_Interconnect]]
+[[Continual_Learning_Modularity]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]

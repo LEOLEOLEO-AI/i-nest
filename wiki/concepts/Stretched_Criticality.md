@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Memristive_Topology]]
+[[Mesoscale_Physical_Computing_Framework]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

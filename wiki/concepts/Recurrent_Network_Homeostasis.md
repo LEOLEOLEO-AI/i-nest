@@ -37,7 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]
-[[SpikeEncodingLatency]]
+[[SpikeEncoding]]
 [[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

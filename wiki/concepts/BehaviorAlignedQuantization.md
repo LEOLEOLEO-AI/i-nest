@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[Arm_Locomotor_Synergy]]
 [[CST_Spatiotemporal_Coefficient]]
+[[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

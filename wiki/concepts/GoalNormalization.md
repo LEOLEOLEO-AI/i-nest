@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[Complex_System_Theory]]
 [[FC2_NeuralCircuit]]
+[[HaloConnectivity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

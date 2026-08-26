@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
+[[Level_of_Splat_Detail]]
 [[Memory_Wall]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

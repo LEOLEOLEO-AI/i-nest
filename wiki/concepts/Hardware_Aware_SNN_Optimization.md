@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[BehaviorPreservingNetworkSparsity]]
 [[Bidirectional_Temporal_Enhancement]]

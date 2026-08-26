@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
+[[FermiSurfaceChiralityProjection]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]

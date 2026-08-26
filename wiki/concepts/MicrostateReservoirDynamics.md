@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Reservoir_Computing]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[ThermalNoiseHarnessing]]
 [[iNEST]]
 [[reservoir computing]]
 

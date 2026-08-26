@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BackflowTransformation]]
 [[Baseline_Draft_Status]]
+[[BeyondPTSymmetry]]
 [[CellEmergence]]
 [[EventTriggeredDistributedControl]]
 [[Intelligence_Emergence]]

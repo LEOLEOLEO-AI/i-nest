@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Trigger]]
+[[PerturbationSpaceTrajectory]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]

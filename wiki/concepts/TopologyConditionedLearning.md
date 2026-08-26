@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircuitTopologySearch]]
+[[CrossLingualIdiomGraph]]
 [[Differential_FeatureExtraction]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

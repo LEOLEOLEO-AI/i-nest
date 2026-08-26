@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
+[[Causal_Emergence]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Connectome]]

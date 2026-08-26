@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MembranePotentialModulation]]
+[[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

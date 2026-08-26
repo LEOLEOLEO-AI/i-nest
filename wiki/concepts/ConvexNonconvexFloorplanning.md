@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
+[[AnalogInMemoryComputing]]
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]

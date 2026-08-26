@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenTracking]]
 [[FixedOverheadFloor]]
+[[In_Package_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

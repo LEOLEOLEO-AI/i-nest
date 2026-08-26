@@ -37,8 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[Physical_Topology_Mapping]]
 [[SDI_Bond]]
 [[SDI_Topology]]
+[[SDSoW]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

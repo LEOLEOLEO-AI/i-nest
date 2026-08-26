@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

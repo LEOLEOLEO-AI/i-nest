@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
-[[ModelOptimizationFederated]]
+[[ModelOptimization]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SDI_Bond]]
@@ -37,9 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

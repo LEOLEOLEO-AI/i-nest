@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
 [[CXL_Deployment_Transition]]
+[[ChipletTopologyAwareness]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAsComputation]]

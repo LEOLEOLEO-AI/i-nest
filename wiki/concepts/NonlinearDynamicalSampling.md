@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[Generative_Graph_Models]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

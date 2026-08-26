@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
-[[In_Network_Neuromorphic_Processing]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
@@ -39,13 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SDI_STDP]]
 [[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

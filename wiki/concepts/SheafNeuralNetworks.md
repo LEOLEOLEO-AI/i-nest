@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DelayedSynapticCoupling]]
+[[ERI_2_0_Strategy]]
 [[HeterogeneousPD_Inference_BoundaryContract]]
 [[Intelligence_Emergence]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

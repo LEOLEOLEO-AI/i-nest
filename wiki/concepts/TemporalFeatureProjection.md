@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_SDI_Topology]]
 [[P_Paradigm]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]

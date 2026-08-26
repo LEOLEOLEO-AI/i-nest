@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Performance_Prediction_Model]]
 [[PhaseModulationTestability]]
+[[SDSoW_Strategic_Planning]]
 [[iNEST]]
 
 ## Sources

@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[CirculateFiringNeuron]]
 [[CognitiveSupportTopology]]
+[[CollectiveConsensus]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]

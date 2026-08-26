@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[LatencyGradientDescent]]
+[[NeuromorphicGestureEncoding]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

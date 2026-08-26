@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
+[[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[DisorderedNetworkInterconnect]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
 [[Communication_Trace_Diagnostics]]
+[[EpidemicThreshold]]
 [[FreeEnergyMinimization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

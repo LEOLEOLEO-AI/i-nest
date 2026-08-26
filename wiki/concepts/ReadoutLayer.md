@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
+[[AutonomousAdaptation]]
 [[CrystalPalace_Program]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

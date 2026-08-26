@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Topology_Mapping]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

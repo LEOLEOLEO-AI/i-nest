@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[HarvestProtocol]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
+[[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

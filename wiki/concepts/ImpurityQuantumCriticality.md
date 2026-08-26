@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
+[[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Organization]]
 [[SNN]]
 [[ST_SNN]]
+[[SpiNNaker2_Chip]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

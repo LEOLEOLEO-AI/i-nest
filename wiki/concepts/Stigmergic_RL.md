@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[OpenLearningEcosystem]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Resilient_Satellite_Mesh]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

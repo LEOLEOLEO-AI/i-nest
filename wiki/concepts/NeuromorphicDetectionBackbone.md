@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[VectorQuantizedSpikeEncoding]]
 [[complex system]]
 [[iNEST]]
 [[spiking neural network]]

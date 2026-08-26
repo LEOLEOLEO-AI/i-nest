@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedLearningLocalization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MarginalContributionFitness]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

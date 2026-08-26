@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[SelfOrganizedCriticalityConsciousness]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[complex system]]

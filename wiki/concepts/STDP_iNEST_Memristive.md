@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]

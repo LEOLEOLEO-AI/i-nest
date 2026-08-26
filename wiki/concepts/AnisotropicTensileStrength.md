@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
+[[DataProvenanceIntegrity]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[Intelligence_Emergence]]

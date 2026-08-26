@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Assisted_Energy_Optimization]]
 [[AddressRedundancyElimination]]
 [[Adjoint_Gradient_Propagation]]
 [[Analog_Computation]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[FunctionalEnsembleComputation]]
 [[FunctionalEnsemble]]
+[[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

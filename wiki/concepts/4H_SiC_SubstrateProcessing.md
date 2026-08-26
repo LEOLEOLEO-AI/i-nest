@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Heterogeneous_Integration]]

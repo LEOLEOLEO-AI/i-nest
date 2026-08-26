@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[PhaseAwareBisectionDemand]]
+[[SparseTemporalEncoding]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

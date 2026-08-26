@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
+[[PhotoIontronicSynapse]]
 [[RareEventCoding]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]

@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[Topological_Manifold_Interconnect]]
 [[complex system]]
 [[iNEST]]
 [[temporalComplexity]]

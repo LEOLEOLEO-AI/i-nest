@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
+[[BisectionBandwidthBound]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Based_Trusted_Hardware]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[OnChipOpticalTweezers]]
+[[SDI_Control_Plane_Offload]]
 [[Space_Compute_Architecture_Tradeoff]]
 [[TCC]]
 [[topology reconfiguration]]

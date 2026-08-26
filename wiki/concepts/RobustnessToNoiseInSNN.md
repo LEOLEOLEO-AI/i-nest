@@ -25,15 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_NoC_Routing]]
 [[SDI_Bond]]
-[[SDI_SNN_Interconnect]]
+[[SDI_SNN]]
 [[SNN]]
 [[SpikeRoutingFabric]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 
 ## Sources

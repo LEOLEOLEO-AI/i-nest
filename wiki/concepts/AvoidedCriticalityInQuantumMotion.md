@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Anomaly_Induced_Quantum_Criticality]]
+[[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[AvalancheBranchingRatio]]
 [[BioInspired_Interception_Control]]

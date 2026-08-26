@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Industry_Alliance]]
+[[SDSoW_Strategic_Planning]]
 [[WaferScale_Memristor_Array]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

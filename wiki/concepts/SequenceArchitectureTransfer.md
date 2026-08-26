@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialRobustness]]
 [[AdversarialSensingResilience]]
 [[Air_Combat_Autonomy]]
+[[AirportNetworkGraphEmbedding]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Complex_System_Theory]]

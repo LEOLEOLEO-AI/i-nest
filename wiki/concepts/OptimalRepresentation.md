@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Power_Density_Law]]
 [[QuasiperiodicCriticalPhase]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]
 [[Self_Organized_Criticality]]
 [[TCC]]

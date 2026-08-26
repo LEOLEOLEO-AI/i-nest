@@ -20,6 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_IC_Stacking]]
+[[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
 [[BarrierConditionedTrajectory]]
 [[Cascading_Failure_Mitigation]]

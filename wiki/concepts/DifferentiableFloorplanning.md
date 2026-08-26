@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[RoutabilityDrivenFloorplanning]]
 [[RoutabilityDrivenPinAssignment]]
 [[TCC]]
+[[TopologyAwareFloorplanning]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[FirstTimestepConversion]]
 [[GPU_Cluster_SNN_Architecture]]
+[[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

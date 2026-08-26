@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Algorithmic_Warfare]]
+[[Ant_Swarm_Functional_Control]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CellEmergence]]

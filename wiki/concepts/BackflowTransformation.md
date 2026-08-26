@@ -48,11 +48,11 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalDynamicsModeling]]
 [[TopologicalChargeSuperposition]]
 [[UniversalIntelligence_Emergence]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[neural quantum states]]
 [[类脑芯片]]
 

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
+[[InSensorMemoryComputing]]
 [[InSituNeuralProcessing]]
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]

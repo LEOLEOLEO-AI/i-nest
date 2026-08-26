@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_TCC_Chiplet]]
 [[SNN]]
 [[ScaleFreeNetwork]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

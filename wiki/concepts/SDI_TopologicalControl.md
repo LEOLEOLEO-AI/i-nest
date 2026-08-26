@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
+[[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]

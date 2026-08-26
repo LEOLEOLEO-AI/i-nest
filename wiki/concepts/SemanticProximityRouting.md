@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[QuarantineCostTradeoff]]
+[[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[branch prediction]]

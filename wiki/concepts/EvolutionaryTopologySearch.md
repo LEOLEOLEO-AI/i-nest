@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[LatencyCodedInterconnect]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Network_on_Chip_communication_architecture]]
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

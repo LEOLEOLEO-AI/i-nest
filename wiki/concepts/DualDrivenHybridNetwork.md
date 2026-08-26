@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralAccelerator]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[SurrogateGradientAsymmetry]]
 [[Swarm_Coordination]]
 [[TCC]]
 

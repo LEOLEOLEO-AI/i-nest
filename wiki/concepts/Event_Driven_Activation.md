@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientNeuromorphicDesign]]
 [[Event_Driven_Architecture]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

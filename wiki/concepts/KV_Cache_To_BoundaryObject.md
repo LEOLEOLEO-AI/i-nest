@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[QuantumReservoirMemoryCapacity]]
+[[Reservoir_Computing]]
+[[TCADCalibration]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
+[[AdjointWaveControl]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAwareComputeRelocation]]

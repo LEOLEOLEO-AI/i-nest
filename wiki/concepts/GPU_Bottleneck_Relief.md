@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Chiplet_Wafer_Topology]]
+[[CommunicationAsComputation]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

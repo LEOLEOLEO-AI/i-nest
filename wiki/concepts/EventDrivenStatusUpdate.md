@@ -29,10 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenDefenseMechanism]]
 [[EventDrivenRestoration]]
 [[EventDrivenRiskAssessment]]
+[[FirstTimestepConversion]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network dynamics]]
 [[spiking neural network]]
 
 ## Sources

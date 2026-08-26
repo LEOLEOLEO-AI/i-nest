@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveFunctionalTopology]]
 [[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[DTGA]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSNN_Accelerator]]
 [[ReconfigurableSpikingRouting]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 

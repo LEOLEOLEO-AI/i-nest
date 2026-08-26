@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh]]
 [[Syncytial_Mesh_Model]]
 [[catastrophic forgetting]]
 [[iNEST]]

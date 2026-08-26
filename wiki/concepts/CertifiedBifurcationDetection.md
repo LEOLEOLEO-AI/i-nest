@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[EmergentDynamics]]
 [[Free_Energy_Topology_Mapping]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
@@ -35,7 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
+[[SDI_Bond]]
 [[SDI_STDP]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

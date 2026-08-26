@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[StreamDataflowArchitecture]]
 [[TCC]]
+[[Temporal_Computing_Paradigm]]
 [[iNEST]]
 [[neuromorphic spiking]]
 [[pipelined processor]]

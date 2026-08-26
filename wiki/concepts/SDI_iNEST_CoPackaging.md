@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_for_Space]]
 [[FlagOS_2_0]]
@@ -29,10 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_iNEST_Packaging]]
 [[SDI_iNEST_Wafer]]
+[[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

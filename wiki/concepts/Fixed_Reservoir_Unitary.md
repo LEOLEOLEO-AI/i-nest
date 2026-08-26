@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[DARPA_ProjectManager_Model]]
 [[DivergentHigherAreaRanking]]
+[[HardwareAware_DesignSpace]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

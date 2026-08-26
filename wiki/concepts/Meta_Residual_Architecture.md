@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[Defense_Industrial_Base_Reshaping]]
 [[FPGA_Accelerated_SNN]]
+[[Hardware_Accelerated_SNN]]
 [[SNN]]
 [[SpikeDrivenDetectionBackbone]]
 [[Spiking_Neural_Network]]

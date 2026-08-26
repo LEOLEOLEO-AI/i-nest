@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[BurstTemporalPlasticity]]
 [[Emergent_Intelligence_Roadmap]]
+[[GutBrainAxis_Reprogramming]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[CollectiveDynamics]]
 [[CriticalStateInformationMaximization]]
+[[CriticalityDrivenStateTransition]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]

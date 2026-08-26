@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MelanomaMAPKPathway]]
 [[Network_Topology_Design]]
+[[Polymer_Composite_Conductivity]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]

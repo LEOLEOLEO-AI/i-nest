@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenModularArchitecture]]
 [[EventDrivenRiskAssessment]]
 [[FrustratedDimerMagnet]]
 [[Intelligence_Emergence]]

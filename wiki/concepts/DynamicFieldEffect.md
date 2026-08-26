@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Energy_Tradeoff]]
 [[AnomalousSpinTransport]]
 [[AtomicGeometryEncoding]]
+[[BackflowTransformation]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[Spiking_Neural_Network]]

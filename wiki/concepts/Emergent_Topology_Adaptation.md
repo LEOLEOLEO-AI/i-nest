@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexTopologicalStructures]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
+[[DendriticTaskPartitioning]]
 [[DynamicTopologyMapping]]
 [[Dynamic_Expert_Fusion]]
 [[FPGA_Neuromorphic_Architectures]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Emergent_Abilities]]
 [[Epithelial_Barrier_Integrity]]
+[[FermiSurfaceChiralityProjection]]
 [[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

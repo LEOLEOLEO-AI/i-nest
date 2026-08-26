@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_SplatPrimitive]]
 [[AI_Forum_Ecosystem]]
 [[AI_Supply_Chain_Increment]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[CircuitSynthesis]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

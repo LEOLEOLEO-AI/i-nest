@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[HigherOrderTopology]]
+[[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

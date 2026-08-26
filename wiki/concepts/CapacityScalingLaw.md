@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenInference]]
 [[EventDrivenTracking]]
+[[Event_Driven_Processing]]
 [[ExponentialDenseAssociativeMemory]]
 [[Ferroelectric_Devices]]
 [[Field_Compression_for_InNetwork_Inference]]

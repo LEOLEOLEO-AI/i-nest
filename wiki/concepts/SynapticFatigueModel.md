@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ST_SNN]]

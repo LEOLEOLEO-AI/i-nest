@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdvancedPackagingInterconnect]]
 [[AdversarialMedicalRobustness]]
+[[AnalogInMemoryComputing]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

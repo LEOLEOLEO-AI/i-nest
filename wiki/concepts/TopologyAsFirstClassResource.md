@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Physical_Base]]
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[TCC]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactRateNetworkBifurcation]]
 [[FC2_Goal_Representation]]
 [[Fractal_Entanglement_Scaling]]
+[[FrozenRandomFeatureExtractor]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

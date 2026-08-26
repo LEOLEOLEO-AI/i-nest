@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[CST_Exponential_Form]]
 [[CST_Theory]]
+[[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]

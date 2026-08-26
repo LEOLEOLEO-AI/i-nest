@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[QuantumGateSynthesis]]
+[[ReconfigurablePhotonicNetwork]]
 [[Reconfigurable_Nonlinear_Reservoir]]
 [[RepresentationalGeometry]]
 [[Reservoir_Computing]]

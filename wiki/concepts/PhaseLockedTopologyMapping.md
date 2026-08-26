@@ -32,9 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_timing_dependent_plasticity]]
@@ -42,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries
