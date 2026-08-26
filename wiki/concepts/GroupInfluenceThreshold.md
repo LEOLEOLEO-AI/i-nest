@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Routing]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

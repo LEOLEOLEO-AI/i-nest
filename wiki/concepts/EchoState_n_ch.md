@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
+[[CMOS_Memristor_Crossbar]]
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
 [[CrashHotspotForecasting]]

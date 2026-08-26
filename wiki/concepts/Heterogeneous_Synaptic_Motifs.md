@@ -29,9 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_To_Information_Conversion]]
 [[Architectural_Conditioning]]
+[[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroupIntelligence]]
+[[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

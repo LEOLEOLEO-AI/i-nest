@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
+[[CST_Spatiotemporal_Complexity]]
 [[Complex_System_Theory]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]

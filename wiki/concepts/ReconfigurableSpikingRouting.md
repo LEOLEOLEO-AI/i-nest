@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Communication_Trace_Diagnostics]]
 [[Emergent_Intelligence_Threshold]]
+[[EpidemicThreshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MultiFPGAScaling]]

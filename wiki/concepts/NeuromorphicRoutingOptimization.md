@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MacroscopicStateVariable]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Model_Routing_Protocol]]

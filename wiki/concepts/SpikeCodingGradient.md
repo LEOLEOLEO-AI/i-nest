@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]
 [[SNN]]
+[[SNN_STDP_CoDesign]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

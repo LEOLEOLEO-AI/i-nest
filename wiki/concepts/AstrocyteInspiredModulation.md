@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AmoebaInspiredLocomotion]]
+[[Contested_Priors_Mechanism]]
+[[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

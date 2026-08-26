@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[Free_Energy_Principle_Network]]
 [[GeometricNeuromorphicFusion]]
+[[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Scheduling]]
 [[Master_SDDE]]

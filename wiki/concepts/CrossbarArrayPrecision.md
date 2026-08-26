@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[Process_Recycling_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_NoC_Integration]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[analog computation]]

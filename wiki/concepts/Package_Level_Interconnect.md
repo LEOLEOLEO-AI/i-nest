@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[TCC]]
+[[Topology_Centric_Computing]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

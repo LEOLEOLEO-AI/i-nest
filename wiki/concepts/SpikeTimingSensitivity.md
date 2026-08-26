@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[20W_Brain_Inspired_Planning]]
 [[CirculateFiringNeuron]]
 [[CorticalWaveRouting]]
 [[Environmental_Capability_Context]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Temporal_Error_Propagation]]
 

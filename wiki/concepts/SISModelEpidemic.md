@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MemoryEfficientSimulation]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[NextNearestNeighborHopping]]
 [[NichePreservationMechanism]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

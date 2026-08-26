@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BigBrainCellularAxis]]
 [[BrainInspiredArchitecture]]
+[[BurstTemporalPlasticity]]
 [[DrivenDissipativeDynamics]]
 [[EventDrivenAttentionMechanism]]
 [[InputAdaptiveComputation]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[BrainBodyResonance]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Spiking]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RestingStateEEG_Connectivity]]
 [[SDI_Bond]]

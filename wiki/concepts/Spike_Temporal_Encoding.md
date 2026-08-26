@@ -25,12 +25,14 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[EventCameraPoseInput]]
 [[FatigueSTDP]]
 [[Fatigue_SpikePattern]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[OcclusionHandlingStrategy]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
+[[Spiking_Mixture_of_Experts]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[SynapticWeightPlasticity]]

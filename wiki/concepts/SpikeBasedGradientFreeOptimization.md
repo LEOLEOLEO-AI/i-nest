@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Controlled_Release_Kinetics]]
 [[CorticalWaveRouting]]
+[[Dynamic_Expert_Routing]]
 [[ITP_STDP]]
 [[ITP_STDP_Engine]]
 [[Interconnect_Routing]]
@@ -31,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

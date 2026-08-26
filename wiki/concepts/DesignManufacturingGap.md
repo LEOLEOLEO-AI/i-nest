@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
+[[Anomaly_Protected_Scaling_Law]]
 [[Architectural_Conditioning]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

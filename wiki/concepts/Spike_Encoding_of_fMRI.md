@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikeCodingAdversarialPerturbation]]
 [[Spiking_Neural_Network]]
+[[Spiking_Sequence_Generator]]
 [[StochasticBinaryDynamics]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]

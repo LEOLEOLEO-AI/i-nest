@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

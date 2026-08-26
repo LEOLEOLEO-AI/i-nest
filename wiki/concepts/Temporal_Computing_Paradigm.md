@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[DelayCodedWorkingMemory]]
 [[EventDrivenFunctionalConnectivity]]
+[[EventDrivenSpectralProcessing]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
 [[STDP_Learning]]

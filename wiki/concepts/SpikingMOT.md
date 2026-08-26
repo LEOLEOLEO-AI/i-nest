@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenMotionDeblurring]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[National_Innovation_Center_Role]]

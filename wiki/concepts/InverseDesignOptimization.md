@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[DistributedTrainingPipeline]]
 [[Dynamic_Expert_Fusion]]
+[[EdgeIntelligenceAcceleration]]
 [[Express_Link_Virtualization]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]

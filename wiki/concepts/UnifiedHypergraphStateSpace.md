@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CST_Spatiotemporal_Coefficient]]
 [[Contested_Prior_Resolution]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

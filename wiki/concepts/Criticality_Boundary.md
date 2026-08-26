@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologyDrivenCriticality]]
+[[TopologyDrivenDynamics]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Technology_Incubation]]
 [[DataDrivenMaterialDesign]]
 [[DelayRobustEmergence]]
+[[DifferentiableRasterizationPipeline]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

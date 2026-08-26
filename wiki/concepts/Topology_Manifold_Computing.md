@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[NonequilibriumLangevinComputing]]
+[[Strategic_Surprise_Prevention]]
 [[TCC]]
 [[advanced packaging]]
 

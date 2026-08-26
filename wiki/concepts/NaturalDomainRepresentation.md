@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Bias_Origin_Taxonomy]]
 [[CellEmergence]]
+[[Closed_Loop_Neuromodulation]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

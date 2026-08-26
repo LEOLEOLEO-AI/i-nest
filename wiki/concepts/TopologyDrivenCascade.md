@@ -37,12 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
-[[SNN_NeuroprostheticPipeline]]
+[[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
 [[avalanche dynamics]]
+[[neural avalanche dynamics]]
 [[neural avalanche]]
 
 ## Sources

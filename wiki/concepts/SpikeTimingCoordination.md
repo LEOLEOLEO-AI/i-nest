@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_SpikeEncoding]]
 [[Neuromorphic_Computing]]
 [[SpikeEncoding]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[UniSpike_Acceleration]]
 [[iNEST]]

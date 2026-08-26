@@ -28,11 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonHermitian_Delocalization]]
 [[SelfOrganization]]
 [[TCC]]
+[[VectorFlowField]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

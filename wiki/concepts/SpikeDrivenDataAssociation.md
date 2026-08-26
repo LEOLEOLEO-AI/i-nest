@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenRiskAssessment]]
+[[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Event_Driven_Communication]]
 [[Interconnect_Routing]]

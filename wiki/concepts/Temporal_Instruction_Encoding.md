@@ -28,9 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[STDP_Plasticity]]
+[[neuromorphic computing architecture]]
 [[reservoir computing]]
 
 ## Sources

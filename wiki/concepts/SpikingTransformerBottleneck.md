@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[FPGASNNMemoryOptimization]]
+[[FunctionalEnsemble]]
 [[SNN]]
+[[SpikingTransformer]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

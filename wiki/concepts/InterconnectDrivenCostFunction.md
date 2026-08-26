@@ -21,12 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdiabaticMultimodeBend]]
+[[BisectionBandwidthBound]]
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[FullDimensionalDefinableInterconnect]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]

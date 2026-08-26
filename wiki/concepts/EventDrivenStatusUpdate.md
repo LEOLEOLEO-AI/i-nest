@@ -26,11 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[DebiasingTechniques]]
 [[EventBasedNeuralDecoding]]
 [[EventDrivenAutoregression]]
+[[EventDrivenDefenseMechanism]]
 [[EventDrivenRestoration]]
 [[EventDrivenRiskAssessment]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[spiking neural network dynamics]]
 [[spiking neural network]]
 
 ## Sources

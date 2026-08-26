@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[Complex_System_Theory]]
 [[DistributedInference]]
+[[HierarchicalCrackPattern]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TimeReversalInvariantTopologicalAlloy]]
 [[TopologicalAndersonChernInsulator]]
+[[WirelessSplitComputing]]
 [[confinement]]
 [[智能涌现]]
 [[涌现]]

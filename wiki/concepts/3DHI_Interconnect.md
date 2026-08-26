@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Interconnect]]
 [[NoC_SDI]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

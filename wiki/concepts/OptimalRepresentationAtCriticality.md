@@ -24,19 +24,18 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[CST_Theory]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalBranching]]
 [[CriticalityDrivenLearning]]
 [[Criticality]]
-[[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
 [[EdgeOfChaos]]
 [[Fractal_Wavefront_Scaling]]
-[[NonEquilibriumPhaseTransition]]
+[[NonEquilibriumPhase]]
 [[OptimalRepresentation]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

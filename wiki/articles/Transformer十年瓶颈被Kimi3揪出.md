@@ -23,8 +23,8 @@ tags:
 ## Related Concepts
 
 [[Attention_Residuals]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
+[[complex system]]
 [[涌现]]
 [[神经网络]]

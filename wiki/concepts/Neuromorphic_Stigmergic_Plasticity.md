@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Hybrid_Volatile_NonVolatile_Mode]]
 [[In_Network_Neuromorphic_Integration]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -32,9 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[neuromorphic computing]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

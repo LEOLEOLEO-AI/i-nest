@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
 [[DifferentiableRasterizationPipeline]]
+[[DynamicServiceComposition]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[ElectromigrationReliability]]

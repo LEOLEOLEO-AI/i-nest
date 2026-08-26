@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Industry_Alliance]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[iNEST_Wafer]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

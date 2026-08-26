@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientSNN]]
 [[EventDrivenRiskAssessment]]
+[[EventDrivenWeightUpdate]]
 [[Event_Driven_Architecture]]
 [[Fixed_Term_Project_Structure]]
 [[GeometricNeuromorphicFusion]]

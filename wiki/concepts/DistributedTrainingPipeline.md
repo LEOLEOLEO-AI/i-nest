@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Switchless_Computing]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
+[[TopologyAwareTaskScheduling]]
 [[Wafer_Scale_Integration]]
 
 ## Sources

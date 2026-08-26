@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DataDrivenCellularAxis]]
 [[EmergentOrder]]
+[[EnsembleSparsity]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

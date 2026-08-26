@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CriticalityAwareTopology]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[TaskGradientPropagation]]
+[[WeightedPathInfluence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

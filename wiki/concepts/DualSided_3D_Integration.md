@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D integration]]
 [[3D_Integration]]
+[[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Probe]]
 [[BisectionBandwidthBound]]

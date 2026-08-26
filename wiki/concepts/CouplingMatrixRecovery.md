@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayPropagationDynamics]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
+[[EcosystemTopologyCoupling]]
 [[EdgeIoTEnergyAwareness]]
 [[EmergentTaskDecomposition]]
 [[Emergent_Order_Deep_Belief_Networks]]

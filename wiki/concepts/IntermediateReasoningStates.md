@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Dynamics_Learning]]
 [[ClinicalTranslationBridge]]
 [[CollectiveDynamics]]
-[[Complex_System]]
+[[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
+[[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

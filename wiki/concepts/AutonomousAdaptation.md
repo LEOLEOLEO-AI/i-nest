@@ -16,10 +16,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
+[[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[Contested_Priors_Mechanism]]
@@ -50,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
-[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW]]
@@ -63,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TopologyFragility]]
+[[complex system]]
 [[iNEST]]
 [[temporalComplexity]]
 

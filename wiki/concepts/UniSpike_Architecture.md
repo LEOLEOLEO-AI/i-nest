@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikePacketRouting]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Supervised_Hebbian_Learning]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[spiking neural network]]

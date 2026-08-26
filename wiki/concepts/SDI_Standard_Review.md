@@ -32,8 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
-[[Complex_System]]
 [[Complex_System_Theory]]
+[[DataProvenanceIntegrity]]
 [[Free_Energy_Principle_Network]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[complex system]]
 [[iNEST]]
 [[temporalComplexity]]
 

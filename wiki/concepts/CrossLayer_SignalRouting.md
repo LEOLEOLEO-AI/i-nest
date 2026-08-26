@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology_Mapping]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[SNN_NeuroprostheticPipeline]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]

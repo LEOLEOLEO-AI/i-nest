@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BrainInspired_Chip]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]

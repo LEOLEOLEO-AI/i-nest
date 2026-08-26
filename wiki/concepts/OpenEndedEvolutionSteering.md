@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[DTGA]]
+[[EEGSpikeEncoding]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[Spiking_Neural_Network]]

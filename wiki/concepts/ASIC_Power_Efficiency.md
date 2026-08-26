@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[1024_Card_SuperNode]]
+[[2_5D_PIM_Chiplet_Integration]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[AttractorConvergenceAnalysis]]
 [[Bayesian_Decoding]]
 [[Bipartite_Interconnect]]
-[[Bipartite_Interconnect_Fabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[FixedOverheadFloor]]
 [[Network_Topology_Design]]
+[[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Spiking_Neural_Network]]

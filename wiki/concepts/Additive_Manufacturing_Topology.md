@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CongestionAwareNoCPlacement]]
 [[FullDimensionalDefinableInterconnect]]
+[[Heterogeneous_Integration]]
 [[IndexOrderingOptimization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -32,8 +33,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI_Integration]]
+[[SDI_Bond]]
 [[TCC]]
-[[iNEST_Wafer]]
+[[TwoDimensionalTransport]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

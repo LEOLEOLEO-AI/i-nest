@@ -22,3 +22,12 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- branch prediction (merged 2026-08-27)
+
+
+## Related Work
+
+[[TCC]]
+[[iNEST]]

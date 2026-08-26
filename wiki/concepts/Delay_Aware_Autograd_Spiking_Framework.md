@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]

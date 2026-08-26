@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[CST_Spatiotemporal_Complexity]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
@@ -33,9 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[EfficientDeepLearning]]
+[[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

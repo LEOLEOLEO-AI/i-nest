@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[TimeMultiplexedSNNAccelerator]]
 [[iNEST]]
 [[spiking neural network]]
 

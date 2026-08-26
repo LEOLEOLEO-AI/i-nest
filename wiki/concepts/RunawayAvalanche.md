@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[ChannelEventSparsity]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[DendriticReservoirState]]
 [[Environmental_Capability_Context]]
 [[LargeDeviationTopologicalOrder]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
+[[FerroelectricCrossbarArray]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]

@@ -31,8 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_based_heterogeneous_integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
+[[DataProvenanceIntegrity]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
@@ -47,9 +47,10 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[complex system]]
 [[ferroelectric devices]]
+[[heterogeneous_integration]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

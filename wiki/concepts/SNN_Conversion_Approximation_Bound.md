@@ -30,11 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeTimingFidelity]]
+[[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
-[[SNN_NeuroprostheticPipeline]]
+[[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]

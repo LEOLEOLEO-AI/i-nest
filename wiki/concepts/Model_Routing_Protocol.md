@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DopamineArousalSwitch]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
+[[ExactRateNetworkBifurcation]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]

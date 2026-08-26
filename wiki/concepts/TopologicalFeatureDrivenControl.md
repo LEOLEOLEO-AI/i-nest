@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
+[[Accessibility_Plasticity]]
 [[Activity_Energy_Tradeoff]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]

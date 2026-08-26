@@ -34,13 +34,14 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing]]
-[[Neuromorphic_computing_architecture]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[SNN]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

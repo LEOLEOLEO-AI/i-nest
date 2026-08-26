@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[EventDrivenSpectralProcessing]]
 [[Neuromorphic_Computing]]
+[[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

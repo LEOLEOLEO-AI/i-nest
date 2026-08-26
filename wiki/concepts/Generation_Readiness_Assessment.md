@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[AtomicGeometryEncoding]]
+[[BrownianCastleInterface]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

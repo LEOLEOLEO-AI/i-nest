@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[NetworkDynamicalStabilization]]
 [[Network_Topology_Design]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[PhaseLockedTopologyMapping]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]

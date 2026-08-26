@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopologyMapping]]
 [[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

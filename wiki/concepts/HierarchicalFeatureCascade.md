@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[Capability_Forging_Pipeline]]
 [[Complex_System_Theory]]
+[[CriticalityAwareTopology]]
 [[Network_Topology_Design]]
 [[TCC]]
 

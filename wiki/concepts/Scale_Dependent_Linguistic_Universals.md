@@ -26,12 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Multifractal_Scaling_Behaviour]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[STDP_iNEST_Memristive]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[fractal_Scaling]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

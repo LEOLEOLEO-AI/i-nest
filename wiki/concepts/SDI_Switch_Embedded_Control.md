@@ -32,12 +32,14 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[TCC]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

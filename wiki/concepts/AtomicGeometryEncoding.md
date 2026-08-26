@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Topological_Origin_of_Barriers]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

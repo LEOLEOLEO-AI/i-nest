@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[ShortTermMemory]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 [[neuromorphic interconnect]]
 [[智能涌现]]

@@ -48,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[Topology_Page]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

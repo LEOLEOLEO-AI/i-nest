@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[ElasticInferenceScheduling]]
 [[GraphGeometryAlignment]]
+[[GroupSynchronization]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Memristive_STDP]]

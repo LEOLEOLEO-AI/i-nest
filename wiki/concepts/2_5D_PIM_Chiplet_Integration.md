@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
 [[CXL_Deployment_Transition]]
 [[Chiplet_Based_Architecture]]

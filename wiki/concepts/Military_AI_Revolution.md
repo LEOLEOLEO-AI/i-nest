@@ -31,10 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenInference]]
 [[EventDrivenRiskAssessment]]
+[[EventDrivenTracking]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Spiking]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic spiking]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EnergyEfficientRestoration]]
+[[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

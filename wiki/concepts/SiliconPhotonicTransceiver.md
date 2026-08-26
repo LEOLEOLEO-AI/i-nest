@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
+[[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
 [[BifurcationCandidate]]
 [[ByteDance_Ada_Chip]]

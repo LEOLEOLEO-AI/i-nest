@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
+[[CST计量仪]]
 [[FPGAInference]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FastSlow_Dynamics]]

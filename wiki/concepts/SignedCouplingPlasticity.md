@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Assisted_Energy_Management]]
 [[Accessibility_Plasticity]]
+[[AdaptiveMeasurementProtocol]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]

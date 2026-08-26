@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[DataDrivenCellularAxis]]
 [[Heterogeneous_Integration]]
 [[HypergraphRumorPropagation]]
 [[InterFPGA_Spike_Routing]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

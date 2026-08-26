@@ -23,7 +23,6 @@ SDI, TCC, iNEST, topology, 拓扑, 晶圆
 
 ## Related Concepts
 
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
@@ -31,6 +30,7 @@ SDI, TCC, iNEST, topology, 拓扑, 晶圆
 [[SDSoW_Architecture]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[complex system]]
 [[iNEST]]
 [[inest]]
 [[sdsow]]

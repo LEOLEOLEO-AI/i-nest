@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[ChannelEventSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]
+[[FlexibilityThreshold]]
+[[InNetworkNeuromorphicComms]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]

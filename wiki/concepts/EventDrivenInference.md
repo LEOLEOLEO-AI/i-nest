@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
@@ -35,12 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Spiking]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic spiking]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnomalousSpinTransport]]
-[[Branch_Prediction]]
+[[BigBrainCellularAxis]]
 [[FPGAInference]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
@@ -31,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[OnChipOpticalTweezers]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Memristor_Interconnect]]
+[[branch prediction]]
 [[neuromorphic substrate]]
 
 ## Sources

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HybridResistiveMemoryCIM]]
 [[IMPLYMemristiveISA]]
 [[InMateriaComputing]]
+[[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Memristive_CAM_Indexing]]
 [[Network_Topology_Design]]

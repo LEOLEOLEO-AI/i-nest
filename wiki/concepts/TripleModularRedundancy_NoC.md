@@ -27,9 +27,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Industrial_Ecosystem]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ASIC_Dualism]]
+[[AdditiveTopology_Embedding]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[STDP_Plasticity]]
 [[TCC]]
+[[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

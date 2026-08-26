@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
-[[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]

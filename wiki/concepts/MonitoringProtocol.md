@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
@@ -33,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

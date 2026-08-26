@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
+[[ANN_SNN_WeightSpaceGap]]
 [[ActiveMatterComputing]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAutoregression]]
 [[Heterogeneous_Integration]]
 [[TCC]]
+[[TransformerBackflow]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

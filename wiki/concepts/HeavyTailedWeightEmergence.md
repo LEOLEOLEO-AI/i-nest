@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
+[[HighThroughputPhenotyping]]
 [[HigherOrderAvalanche]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Physical_Computing_Framework]]

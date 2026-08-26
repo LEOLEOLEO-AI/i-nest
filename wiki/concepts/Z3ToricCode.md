@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[Memory_Wall]]
@@ -32,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[TCC]]
 
 ## Sources

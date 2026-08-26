@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
 [[Dynamic_Expert_Fusion]]
+[[EcosystemTopologyCoupling]]
 [[Emergent_Intelligence_Threshold]]
 [[EventTriggeredDistributedControl]]
 [[Intelligence_Emergence]]

@@ -21,10 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveEntanglementManagement]]
+[[BackflowTransformation]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[EventDrivenFunctionalConnectivity]]
 [[FPGA_Accelerated_SNN]]
 [[Inference_Workload_Profiling]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]

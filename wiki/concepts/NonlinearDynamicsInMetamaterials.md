@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[Alpha_Computation_Consistency]]
 [[AnomalousSpinTransport]]
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirComputing]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]

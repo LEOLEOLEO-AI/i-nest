@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Integration]]
 [[Electrolyte_Bonding_Engineering]]
 [[EnergyResourceEfficiencyCoOptimization]]
+[[FCDC_Architecture]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]

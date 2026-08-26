@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AgentBasedCorruptionModel]]
 [[Amorphous_Amorphous_Transition]]
+[[ApproximateMacroscopicDynamics]]
 [[CirculateFiringNeuron]]
 [[CoEvolvedSNNEnsemble]]
 [[CombinedImportanceScoring]]

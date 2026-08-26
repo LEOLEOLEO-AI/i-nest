@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BondMovingDecimation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[HypergraphRumorPropagation]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Surface phase transition]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

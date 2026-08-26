@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConsciousnessEngineeringLoop]]
 [[Contested_Prior_Resolution]]
+[[CriticalityInducedComputationalCapacity]]
 [[Cross_Node_Event_Propagation]]
 [[Neuromorphic_Computing]]
 

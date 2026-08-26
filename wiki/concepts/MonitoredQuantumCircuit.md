@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[ActiveDendriteSNN]]
 [[AgeingDementiaBiomarker]]
+[[Amorphous_Amorphous_Transition]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

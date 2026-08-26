@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Decoupled_Priors]]
+[[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]

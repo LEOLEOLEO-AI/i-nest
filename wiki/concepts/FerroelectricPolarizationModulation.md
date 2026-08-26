@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Cognitive_Relapse_Decoupling]]
 [[ControlTheoreticTopology]]
+[[Critical_Region_Extension]]
 [[Ferroelectric_Devices]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

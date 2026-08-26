@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Convergent_Evolution_Representation_Space]]
 [[Emergent_Topological_Alignment]]
 [[EndToEndTopologyLearning]]
+[[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

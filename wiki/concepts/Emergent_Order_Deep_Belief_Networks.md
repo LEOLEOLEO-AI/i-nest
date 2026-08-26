@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]
+[[ReconfigurableSpikingRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

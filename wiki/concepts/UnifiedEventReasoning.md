@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[MagnitudePhaseComputationalModel]]
+[[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

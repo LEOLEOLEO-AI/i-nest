@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
+[[AgenticServiceTopology]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AndersonTransition]]
 [[Anisotropic_Correlation_Length]]

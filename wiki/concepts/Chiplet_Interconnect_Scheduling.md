@@ -29,9 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[ComputeRelocationOverhead]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
+[[Network_Topology_Design]]
 [[TCC]]
 
 ## Sources

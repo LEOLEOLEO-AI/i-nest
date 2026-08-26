@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Project_Group_Strategy]]
 [[Deep_SNN_Trainability]]
 [[Defense_Industrial_Base_Reshaping]]
+[[FPGA_Accelerated_SNN]]
 [[SNN]]
 [[SpikeDrivenDetectionBackbone]]
 [[Spiking_Neural_Network]]

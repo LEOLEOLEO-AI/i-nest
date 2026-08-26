@@ -51,9 +51,9 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
-[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
@@ -64,7 +64,6 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemporalComplexity]]
-[[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
 [[iNEST]]
 

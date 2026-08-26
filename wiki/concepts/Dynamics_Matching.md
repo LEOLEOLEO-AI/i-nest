@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[ActiveInference]]
 [[CSI_Temporal_Dynamics]]
+[[CrashHotspotForecasting]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TCC]]

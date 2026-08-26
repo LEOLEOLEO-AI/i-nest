@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[GeneralIntelligenceSubstrate]]
 [[Interconnect_Routing]]
+[[LLM_Reward_Design]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[OpticalSynapticWeightUpdate]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[RLFlightControl]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

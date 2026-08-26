@@ -31,10 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[CST_SynergisticCoordination]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[Dynamic_Expert_Fusion]]
+[[EGO_Architecture]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
+[[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -29,8 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[Distributed_Spike_Communication]]
 [[EventDrivenPlasticity]]
+[[MeasurementInducedPhaseTransition]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

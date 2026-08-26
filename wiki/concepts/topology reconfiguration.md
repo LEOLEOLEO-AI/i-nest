@@ -31,9 +31,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
+[[Decoupled_Priors]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Network_Topology_Design]]
@@ -42,4 +43,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Physical_Topology_Mapping]]
 [[SDI_Bond]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]

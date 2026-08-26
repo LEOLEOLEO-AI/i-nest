@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[Event_Driven_Architecture]]
+[[In_Package_Neuromorphic_Integration]]
 [[InputAdaptiveComputation]]
 [[Interconnect_Routing]]
 [[NestedRepresentation]]

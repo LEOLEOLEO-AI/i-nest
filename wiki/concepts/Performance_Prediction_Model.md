@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BitPrecisionAwareScheduling]]
 [[BrainScaleTopologyExploitation]]
+[[ClinicalTranslationBridge]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[CrossLayer_Feedback]]
 [[Defense_Industrial_Base_Reshaping]]

@@ -21,12 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Deep_SNN_Trainability]]
 [[FPGA_SNN_Inference]]
 [[Hardware_Accelerated_SNN]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
+[[complex system]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

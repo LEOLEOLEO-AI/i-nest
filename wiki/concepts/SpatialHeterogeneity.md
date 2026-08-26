@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
+[[CSI_Temporal_Dynamics]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[HybridReservoirComputing]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Residual_Connection_Removal]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

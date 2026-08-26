@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
+[[ActiveMatterSubstrate]]
 [[Complex_System_Theory]]
 [[DAGGER_Algorithm]]
 [[Intelligence_Emergence]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[EEG_Criticality]]
+[[EventBasedMotionDeblurring]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

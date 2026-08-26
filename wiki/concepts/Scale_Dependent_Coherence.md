@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]

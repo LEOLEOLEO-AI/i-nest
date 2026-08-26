@@ -27,13 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
+[[EventCameraActionRecognition]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[catastrophic forgetting]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

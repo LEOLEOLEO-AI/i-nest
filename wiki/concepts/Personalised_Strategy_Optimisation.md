@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Decoupling]]
+[[CriticalityDrivenStateTransition]]
 [[EventDrivenSynchronization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

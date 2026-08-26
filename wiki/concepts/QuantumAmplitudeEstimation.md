@@ -22,12 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
+[[ActivityPropagationCascade]]
 [[AddressRedundancyElimination]]
 [[AllOpticalHebbianLearning]]
-[[Branch_Prediction]]
 [[Cascading_Failure_Mitigation]]
 [[CorticalTravelingWave]]
-[[CorticalTravelingWaves]]
 [[CriticalStateInformationMaximization]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]
@@ -36,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[branch prediction]]
 [[iNEST]]
 
 ## Sources

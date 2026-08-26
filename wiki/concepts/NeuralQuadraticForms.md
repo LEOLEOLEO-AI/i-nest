@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
+[[ContinuousGameOfLife]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AgenticServiceOrchestration]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]
-[[CriticalityDrivenLearning]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]

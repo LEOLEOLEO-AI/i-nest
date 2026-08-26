@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyBasedReservoir]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]

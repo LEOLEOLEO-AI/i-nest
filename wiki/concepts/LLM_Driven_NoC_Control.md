@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[TCC]]
 [[iNEST]]
 

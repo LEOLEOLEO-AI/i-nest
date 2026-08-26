@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[LossSpikePhenomenon]]
 [[NonEquilibriumComputing]]
+[[RateEncodedVisualPlaceRecognition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

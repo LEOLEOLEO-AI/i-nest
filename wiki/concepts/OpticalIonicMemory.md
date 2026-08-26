@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_ANN_Hardware]]
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
+[[Multi_Scale_Habituation]]
 [[Network_Topology_Design]]
 [[iNEST]]
 

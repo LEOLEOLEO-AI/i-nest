@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
+[[FlexibilityThreshold]]
 [[Free_Energy_Principle_Network]]
 [[FrozenRateOperator]]
 [[InNetworkAgentRewiring]]

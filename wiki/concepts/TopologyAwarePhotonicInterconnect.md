@@ -25,14 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticModeEvolution]]
-[[Branch_Prediction]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Decoupling]]
+[[Communication_Trace_Diagnostics]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[branch prediction]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

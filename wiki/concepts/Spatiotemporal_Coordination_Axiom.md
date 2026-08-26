@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[CST_Equation]]
 [[CST_MasterEquation]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -35,10 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP]]
 [[Layer_Specific_Spreading_Rate]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[Compute_Centric_NoC]]
 [[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

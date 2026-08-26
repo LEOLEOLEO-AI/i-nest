@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[CST_Spatiotemporal_Coefficient]]
+[[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
+[[Course_Based_FPGA_Projects]]
 [[HighTemporalResolutionSensing]]
 [[In_Network_Neuromorphic]]
 [[Memristor_Synapse]]

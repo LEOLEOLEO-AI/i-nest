@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
-[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Driven_Criticality]]
 [[Dynamic_Expert_Fusion]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Deep_Network_Architecture_Invariant]]
+[[DiagnosticReportFramework]]
 [[DifferentiableRasterizationPipeline]]
 [[EdgeOfChaos]]
 [[ElectromigrationReliability]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Neuromorphic]]
 [[WaferScaleSubstrate]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

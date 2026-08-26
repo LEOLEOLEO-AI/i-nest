@@ -32,7 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
 [[CST_Intelligence_Emergence]]
-[[Complex_System]]
+[[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

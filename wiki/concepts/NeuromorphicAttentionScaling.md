@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[ST_SNN]]

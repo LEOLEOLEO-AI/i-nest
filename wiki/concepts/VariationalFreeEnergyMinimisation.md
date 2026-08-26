@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -33,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Free_Energy_Topology_Mapping]]
 [[Gut_Brain_Immune_Network]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Synaptic_Plasticity]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

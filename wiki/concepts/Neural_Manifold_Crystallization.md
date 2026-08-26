@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Routing]]
+[[ExplainableEnergyAI]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

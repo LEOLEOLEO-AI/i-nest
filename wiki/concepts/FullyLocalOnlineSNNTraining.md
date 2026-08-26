@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Adjoint_Gradient_Propagation]]
 [[DARPA_ProjectManager_Model]]
 [[Distributed_Spike_Communication]]
 [[NUMA_Balancing_Overhead]]

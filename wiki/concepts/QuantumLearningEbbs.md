@@ -30,8 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalAttention_MIL]]
 [[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[TCC]]
 [[iNEST]]
 

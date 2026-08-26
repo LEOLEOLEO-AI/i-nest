@@ -22,15 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AnomalousSpinTransport]]
-[[Complex_System]]
+[[AsymmetricStochasticInteractions]]
 [[Complex_System_Theory]]
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

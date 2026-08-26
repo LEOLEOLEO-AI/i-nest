@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[EvolvingArchitectureDynamics]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

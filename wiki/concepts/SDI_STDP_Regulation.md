@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[VonNeumann_Complexity_Threshold]]
 [[iNEST]]
 [[synaptic plasticity]]

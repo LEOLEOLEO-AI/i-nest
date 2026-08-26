@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[ChannelEventSparsity]]
 [[DendriticReservoirState]]
+[[EcosystemTopologyCoupling]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
+[[Reservoir_Computing]]
 [[TCC]]
 [[iNEST]]
 

@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Cognitive_Relapse_Architecture]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
@@ -37,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Integration]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 [[temporalComplexity]]
 

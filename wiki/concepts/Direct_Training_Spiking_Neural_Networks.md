@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DirectTrainingSNN]]
 [[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientNeuromorphic]]
 [[GradientBasedSpikeLearning]]
 [[Gradient_Free_SNN_Learning]]
 [[InNetworkAgentRewiring]]

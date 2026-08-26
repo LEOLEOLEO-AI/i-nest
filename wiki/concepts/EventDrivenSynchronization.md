@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SensoryGatedSpikingLoop]]
 [[SpikeCodedAssociation]]
 [[SpikeEncoding]]
+[[SpikeInformationDensity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Residual_Connection]]
 [[SpikingTopologyEvolution]]

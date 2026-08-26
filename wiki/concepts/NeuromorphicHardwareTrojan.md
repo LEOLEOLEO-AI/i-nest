@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]

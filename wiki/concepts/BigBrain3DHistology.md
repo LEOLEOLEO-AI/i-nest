@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Connectome]]
+[[ConverterDrivenStability]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCellularAxis]]
 [[DataDrivenCytoarchitectonicAxis]]

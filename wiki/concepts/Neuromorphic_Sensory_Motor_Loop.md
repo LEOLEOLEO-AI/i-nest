@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedSpikeLearning]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[NUMA_Balancing_Overhead]]
 [[Neuromorphic_Computing]]
 [[SNN]]

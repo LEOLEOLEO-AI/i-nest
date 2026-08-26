@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Transiently_Amplifying_Networks]]
+[[fMRIToElectrophysiologyMapping]]
 [[iNEST]]
 [[spiking neural network]]
 

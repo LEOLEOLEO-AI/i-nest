@@ -27,12 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

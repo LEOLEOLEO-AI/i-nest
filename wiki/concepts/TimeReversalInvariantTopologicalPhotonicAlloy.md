@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[Disordered_Frustrated_Dimer_Magnets]]
+[[DualSide_Routing_Layer]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
+[[NoC_SDI_Topology]]
 [[SDI_Bond]]
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]

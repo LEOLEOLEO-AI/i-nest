@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Alpha_Computation_Consistency]]
 [[BurstTemporalPlasticity]]
+[[Emergent_Intelligence_Roadmap]]
 [[Network_Topology_Design]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

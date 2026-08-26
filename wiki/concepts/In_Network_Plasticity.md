@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[EnsembleCreditAssignment]]
 [[Interconnect_Routing]]
+[[MultiFPGAScaling]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

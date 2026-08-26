@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[Gut_Brain_Immune_Network]]
+[[Hardware_Accelerated_SNN]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Neural_Dynamics]]

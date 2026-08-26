@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DimensionalityReductionPrinciple]]
+[[DynamicServiceComposition]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

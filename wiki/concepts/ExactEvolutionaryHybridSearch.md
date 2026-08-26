@@ -33,8 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectCoDesign]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
@@ -44,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[Topology_Interconnect]]
+[[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

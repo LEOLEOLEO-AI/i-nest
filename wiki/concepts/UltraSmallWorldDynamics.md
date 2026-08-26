@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
 [[CollectiveDynamics]]
+[[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[DisorderedNetworkInterconnect]]
 [[Emergent_Intelligence_Threshold]]

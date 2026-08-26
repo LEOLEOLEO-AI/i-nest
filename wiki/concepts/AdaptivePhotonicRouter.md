@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[AndersonTransition]]
+[[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[CounterstreamSignalPropagation]]

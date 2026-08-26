@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Cluster_Switch_Bottleneck]]
 [[Asymptotic_Exact_Solution]]
 [[Complex_System_Theory]]
+[[DataCenter_Chip_Logic_Compression]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

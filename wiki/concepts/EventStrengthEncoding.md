@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BrainInspiredArchitecture]]
 [[ConductingPolymerDendriteMemory]]
+[[ContinualLearningOnNeuromorphic]]
 [[DelayCodedWorkingMemory]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActiveDendriteSNN]]
 [[Complex_System_Theory]]
+[[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

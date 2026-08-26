@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Alignment_Tax]]
 [[ElasticSpikingTransformer]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Learning]]
 [[NestedRepresentation]]
 [[NeuromorphicNetworkFabric]]

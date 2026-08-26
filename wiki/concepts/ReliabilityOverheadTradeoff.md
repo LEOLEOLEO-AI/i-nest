@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Residual_Connection_Removal]]
 [[Soldier_Augmentation_BioCyber_Interface]]
 
 ## Sources

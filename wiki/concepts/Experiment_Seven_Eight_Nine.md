@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
+[[Chiplet_based_heterogeneous_integration]]
 [[Evolutionary_Computability]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

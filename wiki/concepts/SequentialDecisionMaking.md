@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]
+[[Dimensionality_Modularity_Tradeoff]]
 [[Emergent_Intelligence_Threshold]]
 [[ImmobilizationStabilityMechanism]]
 [[Intelligence_Emergence]]

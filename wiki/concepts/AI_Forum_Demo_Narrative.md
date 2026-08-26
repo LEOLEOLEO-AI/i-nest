@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingTopologyAnalysis]]
 [[SpikingTopologyMapping]]
 [[Spiking_Neural_Network]]

@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[Intelligence_Emergence]]

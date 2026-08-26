@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FC2_Goal_Representation]]
 [[Free_Energy_Principle_Network]]
 [[Frontier_Innovation_Mapping]]
+[[GradientBasedSpikeLearning]]
 [[HighThroughputParticleRouting]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

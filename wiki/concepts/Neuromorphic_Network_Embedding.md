@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Hardware_Accelerated_SNN]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

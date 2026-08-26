@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Assisted_Energy_Management]]
+[[AdaptiveMeasurementProtocol]]
 [[AutonomousAdaptation]]
 [[Biomanufacturing_Control_Loop]]
 [[FPGA_Neuromorphic_Architectures]]

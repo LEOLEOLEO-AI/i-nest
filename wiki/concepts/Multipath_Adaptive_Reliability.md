@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
+[[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
 [[StochasticMultiAgentRL]]
 [[TCC]]
 

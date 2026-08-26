@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[Criticality]]
 [[DendriticReservoirState]]
+[[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

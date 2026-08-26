@@ -30,8 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Topology_Adaptation]]
 [[FatalityDrivenRewiring]]
 [[FunctionalInterfaceBlocks]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MagneticallyDopedTopologicalInsulator]]
 [[Network_Topology_Design]]
 
 ## Sources

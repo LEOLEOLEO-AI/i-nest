@@ -26,9 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ActiveDendriteSNN]]
 [[ArmLocomotorCoordination]]
+[[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]
 [[FPGASNNMemoryOptimization]]
@@ -44,7 +44,9 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[complex system]]
 [[神经网络]]
 
 ## Sources

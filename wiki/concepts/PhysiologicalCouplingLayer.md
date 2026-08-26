@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Continuous_Control_SNN_Stability]]
 [[Criticality]]
+[[DiscreteContinuous_Unification]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

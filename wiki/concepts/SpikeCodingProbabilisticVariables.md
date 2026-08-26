@@ -28,11 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
-[[Neuromorphic_computing_architecture]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[spiking neural network]]
 
 ## Sources

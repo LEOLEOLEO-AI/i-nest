@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[AllOpticalHebbianLearning]]
 [[Analog_Computation]]
+[[Arm_Locomotor_Synergy]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasPropagationInNetworks]]
 [[Neuromorphic_Computing]]

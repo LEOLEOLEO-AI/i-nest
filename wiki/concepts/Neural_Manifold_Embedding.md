@@ -28,9 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Dynamics_Learning]]
 [[ClinicalTranslationBridge]]
 [[Complex_Network_Brain_Inspired_Computing]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CrossPopulationCen]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[complex system]]
 [[iNEST]]
 [[神经网络]]
 

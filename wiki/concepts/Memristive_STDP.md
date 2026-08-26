@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DRBE_MVP_Mainchain]]
 [[EmergentOrder]]
@@ -49,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[RTC_Primitive]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
-[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDSoW]]
@@ -62,15 +60,16 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalComplexity]]
-[[TemporalComplexity_Tc]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[complex system]]
 [[iNEST]]
 [[memristor crossbar array]]
 [[synaptic plasticity]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

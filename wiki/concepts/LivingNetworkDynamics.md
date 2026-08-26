@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
@@ -33,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
+[[Emerging_CMOS_Memristor]]
 [[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

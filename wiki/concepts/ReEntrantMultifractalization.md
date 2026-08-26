@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Emergent_Topology_Adaptation]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

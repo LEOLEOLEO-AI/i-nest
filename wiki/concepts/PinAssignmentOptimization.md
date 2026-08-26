@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[NoC_SDI_Integration]]
 [[PhononicBandgapEngineering]]
 [[ReconfigurableSpikingRouting]]
 [[SDI_Bond]]

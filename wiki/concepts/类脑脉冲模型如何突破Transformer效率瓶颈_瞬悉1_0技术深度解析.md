@@ -43,3 +43,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[iNEST]]
+[[人脑的工作原理_神经网络]]

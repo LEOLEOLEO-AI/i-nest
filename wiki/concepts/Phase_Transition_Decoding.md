@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Critical_Region_Extension]]
 [[Interconnect_Routing]]
 [[MeasurementInducedRouting]]
 [[Network_Topology_Design]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[Avoided_Criticality]]
 [[Contested_Priors_Mechanism]]
+[[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[DynamicTokenSparsity]]

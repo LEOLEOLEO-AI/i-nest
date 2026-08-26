@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[InputAdaptiveComputation]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[OptimalGeneralisationNearInterpolation]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

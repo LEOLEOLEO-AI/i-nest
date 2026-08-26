@@ -20,15 +20,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_FullSpectrum_Strategy]]
+[[AcceleratorReconfigurationOverhead]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
-[[Branch_Prediction]]
 [[CrossbarSNNArchitecture]]
 [[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[DirectoryManagementLaws]]
 [[Emergent_Topology_Adaptation]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuromorphicRadarFrontend]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[branch prediction]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

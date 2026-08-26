@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredLearningRule]]
 [[BurstTemporalPlasticity]]
+[[EventDrivenSynchronization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

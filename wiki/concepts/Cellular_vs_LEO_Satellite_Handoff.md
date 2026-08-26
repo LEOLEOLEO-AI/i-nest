@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FullSpectrum_DomainIntegration]]
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MachineLearningNanomaterialDiscovery]]

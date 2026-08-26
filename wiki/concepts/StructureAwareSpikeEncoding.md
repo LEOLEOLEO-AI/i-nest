@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
+[[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[Contested_Prior_Resolution]]

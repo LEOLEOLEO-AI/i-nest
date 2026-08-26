@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[DisturbancePropagationPath]]
+[[Heterogeneous_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

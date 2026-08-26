@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSpikeEncoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
@@ -47,10 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[advanced packaging]]
+[[complex system]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[temporalComplexity]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[AdjointWaveControl]]
 [[ArbitraryWavefunctionConfigurability]]
+[[ControlTheoreticTopology]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

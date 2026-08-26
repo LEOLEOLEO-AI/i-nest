@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]
+[[Dimensionality_Modularity_Tradeoff]]
 [[DisorderInducedCriticality]]
 [[Fractal_Wavefront_Scaling]]
 [[ImmobilizationStabilityMechanism]]

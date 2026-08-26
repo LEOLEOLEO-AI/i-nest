@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
+[[CrossDomain_Abstraction]]
 [[Deep_Network_Architecture_Invariant]]
 [[DisorderedNetworkInterconnect]]
 [[EmergentIntelligence_Spacetime]]

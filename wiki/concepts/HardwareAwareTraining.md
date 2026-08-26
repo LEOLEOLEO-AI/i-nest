@@ -32,8 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[RateEncodedSpikingNeuralNetwork]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[SpikeBasedGradientFreeOptimization]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

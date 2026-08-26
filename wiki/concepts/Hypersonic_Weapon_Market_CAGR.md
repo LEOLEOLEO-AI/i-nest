@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[AnalogInMemoryComputing]]
 [[CST_SynergisticCoordination]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[DMP_SNN_DualMemoryPathway]]
@@ -38,13 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[QuarantineCostTradeoff]]
 [[RobustnessThroughNoise]]
 [[SNN]]
-[[SNN_Backpropagation_Through_Time]]
 [[SpatiotemporalCooperativeIntelligence]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[SurrogateGradientTraining]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TSVEncapsulationStress]]
+[[complex system]]
 [[iNEST]]
 [[神经网络]]
 

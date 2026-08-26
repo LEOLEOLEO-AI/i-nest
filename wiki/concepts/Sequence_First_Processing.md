@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspiredArchitecture]]
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
+[[ContinualLearningOnNeuromorphic]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DelayCodedWorkingMemory]]
 [[EventDrivenInference]]
@@ -33,10 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsemble]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Spiking]]
 [[Spiking_Neural_Network]]
 [[StreamDataflowArchitecture]]
 [[iNEST]]
+[[neuromorphic spiking]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

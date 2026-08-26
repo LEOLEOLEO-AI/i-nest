@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[Controlled_Release_Kinetics]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenSpectralProcessing]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[JunctionSignalIntegrity]]

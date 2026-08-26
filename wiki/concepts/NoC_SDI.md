@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
-[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
@@ -61,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemporalComplexity]]
-[[TemporalComplexity_Tc]]
 [[iNEST]]
 
 ## Sources

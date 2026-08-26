@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
 [[Cognitive_Relapse_Decoupling]]
+[[CriticalLearningRegime]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]

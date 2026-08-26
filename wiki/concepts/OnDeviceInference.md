@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
-[[Branch_Prediction]]
 [[Branch_Prediction_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
@@ -33,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
+[[PowerLawScalingClassification]]
 [[Readout_Layer_Training]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[advanced packaging]]
+[[branch prediction]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

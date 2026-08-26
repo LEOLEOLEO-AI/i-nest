@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyAwareLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[TCC]]
 [[emergence phase]]
 [[iNEST]]

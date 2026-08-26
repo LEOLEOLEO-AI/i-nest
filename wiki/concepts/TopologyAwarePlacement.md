@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Chip_Floorplanning]]
 [[Complex_System_Theory]]
+[[Deep_Thermalisation]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[Intelligence_Emergence]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[LocalStructureAwareSelfAttention]]
+[[Memristive_SNN_Accelerator]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

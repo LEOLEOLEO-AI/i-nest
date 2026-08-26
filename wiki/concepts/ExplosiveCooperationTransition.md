@@ -32,10 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
+[[Free_Energy_Minimization_Interconnect]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[complex system]]
 [[神经网络]]
 
 ## Sources

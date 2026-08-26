@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Continuous_Control_Spike_Timing_Sensitivity]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

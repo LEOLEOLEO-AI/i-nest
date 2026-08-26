@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]

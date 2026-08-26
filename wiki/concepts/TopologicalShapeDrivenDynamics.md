@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
-[[Complex_System]]
+[[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[Network_Topology_Design]]

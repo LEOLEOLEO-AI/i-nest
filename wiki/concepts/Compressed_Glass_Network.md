@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirOptimization]]
 [[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]
 [[Hybrid_LLM_Guided_Search]]

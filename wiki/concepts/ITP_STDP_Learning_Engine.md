@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveSTDP]]
 [[DiscreteSTDP]]
 [[ITP_STDP]]
 [[Memristive_STDP]]

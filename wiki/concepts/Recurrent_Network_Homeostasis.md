@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
+[[Hardware_Accelerated_SNN]]
 [[Intelligence_Emergence]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]

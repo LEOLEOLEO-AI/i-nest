@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Frontier_Innovation_Mapping]]
 [[GradientBasedSpikeLearning]]
+[[HierarchicalSpikePropagation]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

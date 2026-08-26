@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[EvolutionarySpikeTimingOptimization]]
 [[MembranePotentialModulation]]
+[[Memristive_STDP]]
 [[RecurrentSpikingSocialNetwork]]
 [[Soc]]
 [[SpikeDecoder]]

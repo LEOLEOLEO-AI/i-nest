@@ -20,19 +20,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BurstInterleaving]]
 [[DARPA_Technology_Incubation]]
 [[DelayCodedWorkingMemory]]
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
 [[Military_AI_Revolution]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Spiking]]
-[[Pipelined_Processor]]
 [[RecurrentOscillatoryComputation]]
 [[Spiking_Neural_Network]]
 [[StreamDataflowArchitecture]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic spiking]]
+[[pipelined processor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

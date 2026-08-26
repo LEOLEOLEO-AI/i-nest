@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
 [[Course_Based_FPGA_Projects]]
+[[Critical_Exponent_Scaling]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[iNEST]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

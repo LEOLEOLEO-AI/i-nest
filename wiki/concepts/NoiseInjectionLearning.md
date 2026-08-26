@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[ClosedLoopNeuromorphicControl]]
 [[Neuromorphic_Computing]]
+[[Oscillatory_MultiObjective_Optimization]]
 [[TCC]]
 [[iNEST]]
 [[neuromorphic substrate]]

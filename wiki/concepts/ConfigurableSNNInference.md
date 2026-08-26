@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[CoDesigned_SNN]]
 [[CoEvolvedSNNEnsemble]]
+[[CollectiveDynamics]]
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]

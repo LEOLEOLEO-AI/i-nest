@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[EdgeIntelligenceAcceleration]]
 [[Express_Link_Virtualization]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LargeScalePhotonicIntegration]]

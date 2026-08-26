@@ -16,7 +16,6 @@ SDI, STDP, iNEST, interconnect, 互连, 拓扑, 晶圆
 
 ## Related Concepts
 
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Master_SDDE]]
@@ -27,5 +26,6 @@ SDI, STDP, iNEST, interconnect, 互连, 拓扑, 晶圆
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[complex system]]
 [[iNEST]]
 [[涌现]]

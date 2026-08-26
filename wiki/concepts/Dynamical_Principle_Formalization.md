@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]

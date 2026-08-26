@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

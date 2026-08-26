@@ -20,7 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_on_Chip_communication_architecture]]
@@ -34,7 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
-[[iNEST_Wafer]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

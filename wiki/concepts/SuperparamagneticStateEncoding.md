@@ -22,16 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AnalogDomainCompression]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[DendriticReservoirState]]
 [[Emergent_Abilities]]
 [[FunctionalInterfaceBlocks]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

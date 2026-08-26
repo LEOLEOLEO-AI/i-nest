@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Integration]]
 [[AI_Faculty_Forum_2026]]
+[[AnalogDomainCompression]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -34,7 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
 [[TCC]]
-[[iNEST_Wafer]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

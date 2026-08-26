@@ -32,8 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
+[[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[Topology_Interconnect]]
+[[complex system]]
 [[temporalComplexity]]
 [[神经网络]]
 

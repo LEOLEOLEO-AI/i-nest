@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[AnomalousSpinTransport]]
 [[Battlefield_AI_Deployment]]
+[[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]

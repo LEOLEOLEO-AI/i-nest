@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingNeuralDynamics]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 

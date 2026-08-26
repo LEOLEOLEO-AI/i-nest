@@ -21,8 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnomalousSpinTransport]]
-[[Branch_Prediction]]
 [[DARPA_ProjectManager_Model]]
+[[Emerging_CMOS_Memristor]]
 [[InNetworkSignalRecovery]]
 [[IntegrationProspectsForVLSI]]
 [[Memristor_Reservoir_Branch_Prediction]]
@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[branch prediction]]
 [[pipelined processor]]
 
 ## Sources

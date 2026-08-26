@@ -28,10 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Computation_Access_Routing]]
 [[Emergent_Topology_Adaptation]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonHermitian_Delocalization]]
+[[ReEntrantMultifractalization]]
 [[TCC]]
 
 ## Sources

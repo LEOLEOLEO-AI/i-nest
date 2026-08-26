@@ -37,7 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDSoW]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
 

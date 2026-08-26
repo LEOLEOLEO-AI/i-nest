@@ -37,15 +37,16 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[National_Innovation_Center_Role]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Self_Organized_Criticality]]
 [[Sleep_EEG_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Analog_Computation]]
+[[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[HeterogeneousSynapticDelays]]
 [[HybridResistiveMemoryCIM]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Signal_Folding]]
 [[SneakPathCurrentSuppression]]
 [[Spiking_Neural_Network]]
+[[VaCoAl]]
 [[iNEST]]
 
 ## Sources

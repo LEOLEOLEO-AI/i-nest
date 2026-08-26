@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]

@@ -30,8 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_SplatPrimitive]]
 [[Cauchy_Aczel_Uniqueness]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
+[[HeavyTailedWaitingTimes]]
 [[HypergraphNeuralNetwork]]
 [[Intelligence_Emergence]]
 [[NetworkMechanismsOfWaveGeneration]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SimplicialComplexLifting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BitPrecisionAwareScheduling]]
 [[CollectiveDynamics]]
+[[CriticalStateInformationMaximization]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[SNN]]

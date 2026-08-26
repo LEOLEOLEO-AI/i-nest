@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_State_Convergence]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
+[[CrossLayer_SignalRouting]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

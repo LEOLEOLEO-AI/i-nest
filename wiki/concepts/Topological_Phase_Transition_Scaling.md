@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_Reconfigurable_Network]]
 [[STDP_Plasticity]]

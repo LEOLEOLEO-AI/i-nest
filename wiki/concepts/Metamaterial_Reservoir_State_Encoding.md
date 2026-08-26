@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CSI_Temporal_Encoding]]
+[[ChipletOpticalIO]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Encoding]]
 [[TCC]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]
+[[DifferentiableLifting]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[EmergentTaskDecomposition]]

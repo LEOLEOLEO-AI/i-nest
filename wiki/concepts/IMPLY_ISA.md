@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_NetworkCoDesign]]
 [[OpenSource_Neuromorphic_Framework]]
 [[Open_Source_Research_Stack]]
+[[ReconfigurableSNN_Accelerator]]
 [[TopologicalAndersonChernInsulator]]
 [[material implication]]
 [[memristive crossbar array]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[Cognitive_Relapse_Decoupling]]
 [[Critical_Region_Extension]]
+[[EvolvingArchitectureDynamics]]
 [[Evolving_System_Resilience]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InSitu_Adjoint_Wave_Control]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[SelfOrganization]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

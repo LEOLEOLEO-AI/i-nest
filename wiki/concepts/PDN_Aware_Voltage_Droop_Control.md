@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
+[[3D_Heterogeneous_Integration]]
 [[3D_IC_Stacking]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]

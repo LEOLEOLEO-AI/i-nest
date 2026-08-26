@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[ComputeRelocationOverhead]]
 [[DataMovementMinimization]]
+[[DirectConnect_Topology]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Roadmap]]
+[[Free_Energy_Topology_Mapping]]
 [[InNetwork_Learning_Interface]]
 [[Intelligence_Emergence]]
 [[Ising formulation]]

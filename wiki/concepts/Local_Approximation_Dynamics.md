@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[SNN_NeuroprostheticPipeline]]
 [[SelfOrganization]]
 [[SpikeBasedGradientDescent]]

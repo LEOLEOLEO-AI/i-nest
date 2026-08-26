@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh_Model]]
 [[TCC]]
+[[VariationalFreeEnergyMinimisation]]
 [[iNEST]]
 
 ## Sources

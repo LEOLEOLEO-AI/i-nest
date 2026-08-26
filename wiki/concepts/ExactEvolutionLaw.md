@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveModelPartitioning]]
+[[AdaptiveNetworkResilience]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]

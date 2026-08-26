@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[EventBasedBioSignalFrontEnd]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]
 [[EventDrivenMatrixUpdate]]

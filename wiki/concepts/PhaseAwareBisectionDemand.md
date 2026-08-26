@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
 [[Memory_Wall]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]
 [[ReconfigurableSpikingRouting]]
@@ -44,7 +45,9 @@ Auto-extracted concept from raw material compilation.
 [[StressDrivenNetworkMorphogenesis]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,12 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
+[[EventCameraPoseInput]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeBasedBeliefPropagation]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

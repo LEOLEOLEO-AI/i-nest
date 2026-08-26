@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
+[[Contested_Priors_Mechanism]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

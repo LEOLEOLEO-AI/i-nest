@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[DeeplySupervisedSpiking]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[Izhikevich_NeuronModel]]
 [[Network_Topology_Design]]

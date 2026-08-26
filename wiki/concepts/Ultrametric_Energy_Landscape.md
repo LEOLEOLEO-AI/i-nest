@@ -19,12 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[Anisotropic_Correlation_Length]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
-[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]

@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActivityPropagationCascade]]
 [[BarrierConditionedTrajectory]]
-[[Branch_Prediction]]
 [[BurstInterleaving]]
 [[Cascading_Failure_Mitigation]]
 [[Collective_State_Convergence]]
@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[branch prediction]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

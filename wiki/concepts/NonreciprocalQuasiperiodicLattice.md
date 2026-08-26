@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Adaptive_Topology]]
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
+[[SynchronizationAttractorBasin]]
 [[TCC]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

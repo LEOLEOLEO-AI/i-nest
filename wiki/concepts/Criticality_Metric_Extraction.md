@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AgenticServiceOrchestration]]
 [[BurstGatedRouting]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Criticality_Feature_Encoding]]
 [[InNetworkComputing]]

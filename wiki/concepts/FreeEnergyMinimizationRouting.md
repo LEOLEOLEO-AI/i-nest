@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
+[[Communication_Trace_Diagnostics]]
 [[FreeEnergyMinimization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

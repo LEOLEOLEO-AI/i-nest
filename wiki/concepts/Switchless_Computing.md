@@ -21,10 +21,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Topology]]
-[[Chiplet_Topology_Interconnect]]
 [[CommunicationAsComputation]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
@@ -45,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

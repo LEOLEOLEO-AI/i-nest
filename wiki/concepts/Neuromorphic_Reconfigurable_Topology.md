@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BackpropagationFreeLearning]]
 [[Cognitive_Relapse_Decoupling]]
+[[DynamicServiceComposition]]
 [[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

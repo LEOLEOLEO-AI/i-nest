@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Rank_Order_N_of_M_Codes]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[新型计算]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经形态脉冲大语言模型（NSLLM）]]
+[[神经形态计算]]
 [[神经网络]]
 [[脉冲神经网络]]
 

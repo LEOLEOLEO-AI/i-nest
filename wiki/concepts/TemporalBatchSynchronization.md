@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[PhaseLockedTopologyMapping]]
+[[SDI_STDP]]
 [[SpikeCommunicationScheduling]]
 [[SpikePacketRouting]]
 [[Spiking_Neural_Network]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
+[[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

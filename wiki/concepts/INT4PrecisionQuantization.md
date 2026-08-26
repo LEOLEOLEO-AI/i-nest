@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[FPGASNNMemoryOptimization]]
 [[Hypersonic_Weapon_Market_CAGR]]
+[[LIF_Neuron_Model]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

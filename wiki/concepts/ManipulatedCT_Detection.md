@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspiredArchitecture]]
+[[BrainInspired_Chip]]
 [[Contested_Prior_Resolution]]
 [[DistinguishableHelium4]]
 [[DynamicTokenSparsity]]

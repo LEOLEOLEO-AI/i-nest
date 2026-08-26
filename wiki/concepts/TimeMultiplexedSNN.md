@@ -22,7 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[CSI_Temporal_Encoding]]
-[[Criticality_Based_Feature_Extraction]]
+[[ContinuousControlConversion]]
+[[Criticality]]
 [[DualModeSNNConventionalInference]]
 [[DynamicTokenSparsity]]
 [[EEG_Criticality]]

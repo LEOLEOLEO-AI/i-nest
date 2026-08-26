@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[PinAssignmentOptimization]]
 [[Representation_Learning_Generalization]]
 [[RoutabilityDrivenFloorplanning]]
+[[RoutabilityDrivenPinAssignment]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

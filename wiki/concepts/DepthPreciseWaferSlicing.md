@@ -37,8 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[DynamicInference]]
 [[Emergent_Intelligence_Roadmap]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 
 ## Sources

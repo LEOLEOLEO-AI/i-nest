@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BiSpikCLM]]
 [[BiologicalPlausibilityScoring]]
 [[Bursting_Neuron_Model]]
+[[CoDesigned_SNN]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

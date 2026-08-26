@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[CompactFieldVariable]]
 [[ElectromigrationReliability]]
 [[ErdosRenyiGraphEnergyLandscape]]
+[[ErdosRenyi_Graph_Energy_Surface]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

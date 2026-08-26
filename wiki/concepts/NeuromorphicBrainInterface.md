@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicNetworkSecurity]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Organization]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[spiking neural network]]

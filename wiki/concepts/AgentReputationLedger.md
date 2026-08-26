@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[AndersonTransition]]
 [[BioInspired_Interception_Control]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[BurstGatedRouting]]
 [[ComponentLevelPackaging]]

@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CST_MasterEquation]]
 [[CircadianGateModulation]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -37,10 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[LongRangeCorrelatedEntries]]
+[[Memristive_STDP]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[TopologicalAndersonChernInsulator]]
+[[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

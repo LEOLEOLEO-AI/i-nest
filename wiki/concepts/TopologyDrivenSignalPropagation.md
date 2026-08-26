@@ -26,12 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BarrierConditionedTrajectory]]
 [[BigBrainCellularAxis]]
-[[Branch_Prediction]]
 [[CellEmergence]]
+[[Core_Spacetime_Tensor]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[TCC]]
+[[branch prediction]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,8 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
+[[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[complex system]]
 [[iNEST]]
 [[神经网络]]
 

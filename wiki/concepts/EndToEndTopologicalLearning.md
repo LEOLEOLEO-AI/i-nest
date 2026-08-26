@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
 [[Intelligent_Power_Management]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[STDPDrivenConnectivity]]
 [[StochasticMultiAgentRL]]
 [[iNEST]]
 

@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[PhysicallyInformedDeepLearning]]
 [[SpikeCodingProbabilisticVariables]]
 [[SpikeTimingPreservation]]
+[[Spike_Event_Driven_Attention]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
 

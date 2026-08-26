@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DTGA]]
 [[DataDrivenCellularAxis]]
+[[EnsembleSparsity]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]

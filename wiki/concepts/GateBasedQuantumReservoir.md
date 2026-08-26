@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[Compressed_Glass_Network]]
+[[Contested_Prior_Resolution]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]

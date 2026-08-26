@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 
 [[CST_SynergisticCoordination]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
 [[Heterogeneous_Integration]]
@@ -31,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
@@ -39,8 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[complex system]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

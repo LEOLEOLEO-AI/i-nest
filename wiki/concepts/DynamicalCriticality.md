@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CriticalityOffCriticalityTransition]]
 [[Criticality]]
+[[Dimensionality_Modularity_Tradeoff]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EmulationTheoryDisturbanceObserver]]

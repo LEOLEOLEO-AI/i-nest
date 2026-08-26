@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[ConstructedRealityState]]
 [[Criticality]]
+[[DimensionSeparation_IntensiveExtensive]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Memristor_Interconnect]]
 [[iNEST]]
 
 ## Sources

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[MeanFieldSpinGlass]]
 [[Memory_Technology_Coexistence]]
 [[Neuromorphic_Computing]]
+[[PowerLawScalingClassification]]
 [[QuantumReservoirMemoryCapacity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

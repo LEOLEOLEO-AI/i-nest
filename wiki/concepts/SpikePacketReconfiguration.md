@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleCreditAssignment]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
+[[LocalPlasticityPipeline]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

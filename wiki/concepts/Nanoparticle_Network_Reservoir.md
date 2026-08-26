@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[FunctionalInterfaceBlocks]]
 [[InNetworkAgentRewiring]]
+[[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Monitored_Quantum_Circuits]]

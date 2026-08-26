@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AddressRedundancyElimination]]
 [[ApproximateMacroscopicDynamics]]
+[[Arm_Locomotor_Synergy]]
 [[CollectiveDynamics]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

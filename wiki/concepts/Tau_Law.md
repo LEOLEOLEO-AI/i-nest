@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Space_Compute_Architecture_Tradeoff]]
 [[TCC]]
+[[TemporalFeatureProjection]]
 [[logic folding]]
 
 ## Sources

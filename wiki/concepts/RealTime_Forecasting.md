@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]
 [[DataDrivenMaterialDesign]]
+[[DelayRobustEmergence]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

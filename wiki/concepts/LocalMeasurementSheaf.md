@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[QuantumCircuitSimulation]]
 [[ScaleFreeNetwork]]
 [[SimulabilityThreshold]]
 [[SuperparamagneticSwitchingRate]]

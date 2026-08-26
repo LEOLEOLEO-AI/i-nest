@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspiredArchitecture]]
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
+[[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[TCC]]

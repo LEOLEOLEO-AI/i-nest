@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3DIntegratedPhotonicPackaging]]
 [[Accessibility_Plasticity]]
 [[AdiabaticModeEvolutionCoupler]]
+[[AdjointWaveControl]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Decoupling_Mechanism]]
 [[Interconnect_Routing]]

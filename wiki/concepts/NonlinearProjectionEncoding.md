@@ -24,14 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AnomalousSpinTransport]]
 [[AtomicVaporNonlinearity]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Compressed_Glass_Network]]
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]
 [[Crystallized_Neural_Manifolds]]
 [[Nonlinear_Gain]]
+[[ReadoutTraining]]
 [[Reservoir_Computing]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

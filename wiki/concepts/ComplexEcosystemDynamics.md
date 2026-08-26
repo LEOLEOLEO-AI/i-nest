@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
+[[BigBrainCellularAxis]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]

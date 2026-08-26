@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BeyondVonNeumannArchitecture]]
 [[ChargeDomainAttention]]
+[[CrossDomain_Integration]]
 [[CrossbarArrayPrecision]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]

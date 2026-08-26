@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
+[[DARPA_Technology_Incubation]]
 [[Edge_Intelligence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

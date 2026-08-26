@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AgenticServiceManifesto]]
 [[Combinatorial_Optimization_Readout]]
 [[Compressive_Sensing_Reservoir]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[Network_Topology_Design]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MagnitudePhaseComputationalModel]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

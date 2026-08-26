@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CoDesigned_SNN]]
 [[Criticality]]
 [[EventBasedMotionDeblurring]]
+[[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergenceMechanism]]
 [[CellEmergence]]
 [[Complex_Network_Brain_Inspired_Computing]]
+[[Control_Field_Framework]]
 [[Deep_Network_Architecture_Invariant]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Emergent_Intelligence_Threshold]]

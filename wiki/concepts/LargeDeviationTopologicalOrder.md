@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Bosonic_SPT_Phases]]
 [[Contested_Prior_Resolution]]
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]

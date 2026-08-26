@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CSI_Temporal_Encoding]]
 [[CoDesigned_SNN]]
+[[CollectiveDynamics]]
 [[CollectiveSpikingDynamics]]
 [[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]

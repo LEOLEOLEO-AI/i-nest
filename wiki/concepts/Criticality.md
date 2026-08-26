@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Categorical_Closure_Criterion]]
 [[Complex_System_Theory]]
 [[CriticalityInducedComputationalCapacity]]
+[[Criticality_Reservoir]]
 [[Criticality_of_Natural_Languages]]
 [[Long_Range_Interactions]]
 [[Neuromorphic_Computing]]

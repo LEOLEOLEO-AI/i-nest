@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Complex_System_Theory]]
 [[Criticality]]
+[[DimensionSeparation_IntensiveExtensive]]
 [[EventDrivenAttentionMechanism]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

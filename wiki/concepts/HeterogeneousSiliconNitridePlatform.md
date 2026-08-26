@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[ReEntrantMultifractalization]]
 [[SiliconPhotonicsNetwork]]
 [[Silicon_Photonic_Network]]
 [[TCC]]

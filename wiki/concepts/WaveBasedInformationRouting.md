@@ -28,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Communication_Trace_Diagnostics]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
@@ -38,8 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
+[[ReproducibleReservoirDynamics]]
+[[Synaptic_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[神经形态计算]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

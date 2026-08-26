@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Activity_Energy_Tradeoff]]
 [[AnomalousSpinTransport]]
+[[AtomicGeometryEncoding]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[Spiking_Neural_Network]]

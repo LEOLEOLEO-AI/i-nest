@@ -33,15 +33,16 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[EfficientDeepLearning]]
+[[Flow_Aware_Interconnect_Design]]
 [[Heterogeneous_Integration]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

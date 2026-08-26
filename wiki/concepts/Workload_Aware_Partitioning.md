@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Heterogeneous_Integration]]
+[[Switch_Chiplet_Integration]]
 [[TCC]]
 
 ## Sources

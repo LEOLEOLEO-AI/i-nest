@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[RoutabilityDrivenFloorplanning]]
 [[TCC]]
 [[TopologyAwareFloorplanning]]
+[[TopologyAwarePlacement]]
 [[Translation_Invariant_Closure]]
 
 ## Sources

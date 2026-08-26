@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RestingStateEEG_Connectivity]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
+[[Swarm_Intelligence_Maximisation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

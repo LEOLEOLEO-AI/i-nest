@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integrated_Chiplet_Stacking]]
+[[AdversarialMedicalRobustness]]
 [[Analog_Computation]]
 [[Bioavailability_Enhancement]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_State_Convergence]]
 [[Complex_System_Theory]]
 [[Entanglement_Teleportation_Locality]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

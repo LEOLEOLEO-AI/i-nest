@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Temporal_Error_Propagation]]
 [[iNEST]]
 [[synaptic plasticity]]
 

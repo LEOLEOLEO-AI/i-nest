@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalBayesianCommunityDetection]]
 [[HierarchyOfApproximations]]
 [[Intelligence_Emergence]]
+[[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

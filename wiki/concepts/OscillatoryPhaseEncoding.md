@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
 [[ActiveInferenceGenerativeModel]]
+[[ActiveSpikingPerception]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

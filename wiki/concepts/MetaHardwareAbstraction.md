@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Cognitive_Relapse_Architecture]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
@@ -38,8 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SDI_Bond]]
+[[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[STDP_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

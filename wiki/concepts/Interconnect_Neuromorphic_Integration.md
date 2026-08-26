@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
+[[DelayTolerantNetworkUAV]]
 [[EfficientDeepLearning]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

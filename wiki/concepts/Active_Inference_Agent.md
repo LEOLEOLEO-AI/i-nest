@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BayesianDomainEvolution]]

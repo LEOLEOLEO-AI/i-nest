@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_SDI]]
 [[NoC_SDI_Integration]]
+[[PinAssignmentOptimization]]
 [[ReconfigurableSpikingRouting]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]

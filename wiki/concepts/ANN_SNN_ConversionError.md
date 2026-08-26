@@ -26,10 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[LocalQuantumLearningRule]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
+[[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[spiking neural network]]
 
 ## Sources

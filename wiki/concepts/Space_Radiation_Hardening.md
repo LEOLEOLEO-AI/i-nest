@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
+[[SDI_TopologicalControl]]
 [[TCC]]
 [[iNEST]]
 

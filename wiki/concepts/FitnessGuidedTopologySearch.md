@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
+[[Crystallized_Neural_Manifolds]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TCC]]
 

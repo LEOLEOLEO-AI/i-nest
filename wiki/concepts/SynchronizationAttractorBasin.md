@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Satellite_Mesh]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[Swarm_Adaptive_Topology]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

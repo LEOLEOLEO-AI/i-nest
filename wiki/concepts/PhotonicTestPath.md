@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Critical_Region_Extension]]
 [[DifferentiableRasterizationPipeline]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

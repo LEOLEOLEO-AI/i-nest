@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[CST_Spatiotemporal_Complexity]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
@@ -32,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[DiagnosticReportFramework]]
 [[DynamicServiceComposition]]
 [[EfficientDeepLearning]]
+[[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

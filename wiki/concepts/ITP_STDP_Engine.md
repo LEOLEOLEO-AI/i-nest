@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ITP_STDP]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
+[[On_Chip_STDP_Learning]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]

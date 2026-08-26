@@ -26,9 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredLearningRule]]
 [[BurstTemporalPlasticity]]
+[[EventDrivenSynchronization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[soc]]
 

@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AstrocyteInspiredRepair]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
@@ -40,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Solutions]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
+[[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[SwarmGradientRouting]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 [[神经网络]]
 

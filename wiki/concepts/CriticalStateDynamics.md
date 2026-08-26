@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[Avalanche_Dynamics]]
 [[BigBrainCellularAxis]]
+[[CST_Intelligence_Emergence]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]

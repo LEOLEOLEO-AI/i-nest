@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[PhysicalWaferTriplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SparseTemporalEncoding]]

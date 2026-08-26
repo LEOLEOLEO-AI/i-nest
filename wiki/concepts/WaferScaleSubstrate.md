@@ -42,10 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[SpatiotemporalComplexityIndex]]
+[[SystemLevelNonlinearity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

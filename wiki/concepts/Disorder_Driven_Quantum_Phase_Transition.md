@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
+[[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

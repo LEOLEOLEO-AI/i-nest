@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAttentionMasking]]
 [[EventDrivenModularArchitecture]]
 [[FlexibleNeuromorphicAccelerator]]
+[[InfluencePropagationLoop]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Memristive_Topology]]

@@ -23,7 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BackflowTransformation]]
-[[Branch_Prediction]]
+[[BurstInterleaving]]
 [[Cascading_Failure_Mitigation]]
 [[CrossInstitutionalNetwork]]
 [[CrossLayer_SignalRouting]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[branch prediction]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[NegotiationAwareRouting]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[ScaleFreeNetwork]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
+[[PostTrainingQuantizationSNN]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

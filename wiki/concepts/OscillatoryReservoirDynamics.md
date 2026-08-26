@@ -31,15 +31,17 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Spiking]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
+[[Sparsity_Ceiling]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StreamDataflowArchitecture]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic spiking]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

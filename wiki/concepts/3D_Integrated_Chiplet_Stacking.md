@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[CommunicationHeterogeneity]]
 [[ComputeRelocationOverhead]]
+[[Cryogenic_Syndrome_Compression]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

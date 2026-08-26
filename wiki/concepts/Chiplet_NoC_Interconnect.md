@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
+[[OnDie_Fusion]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

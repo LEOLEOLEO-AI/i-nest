@@ -27,9 +27,9 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Emerging_CMOS_Memristor]]
+[[FerroelectricMemoryCell]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[In_Memory_Computing]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[OnChipWeightUpdate]]
 [[TCC]]
 [[WaferScale_Memristor_Array]]
+[[complex system]]
 [[memristor device]]
 [[神经网络]]
 

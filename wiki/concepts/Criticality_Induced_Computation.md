@@ -19,9 +19,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AlloyDisorderEngineering]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[Criticality]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Sleep_Stage_Classification]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

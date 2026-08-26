@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Anomaly_Protected_Scaling_Law]]
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
+[[Capability_Reserve_Index]]
 [[Criticality]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

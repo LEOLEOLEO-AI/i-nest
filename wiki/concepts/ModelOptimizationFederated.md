@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
+[[Distributed_Spike_Communication]]
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
 [[KnowledgeDistillation]]
@@ -43,10 +44,12 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SpikePacketCompression]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[忆阻器]]
 [[神经形态计算]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

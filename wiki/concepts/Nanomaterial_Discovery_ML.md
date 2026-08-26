@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[BrownianCastleInterface]]
+[[EventDrivenTemplateUpdate]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

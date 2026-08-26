@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Coupling_Strength_Encoding]]
+[[CriticalFixedPoint]]
 [[DendriticReservoirState]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
 [[EmergentTaskDecomposition]]

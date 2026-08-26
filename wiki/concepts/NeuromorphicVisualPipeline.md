@@ -35,13 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SNN_TCC_Integration]]
-[[SNN_Topology_Integration]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StructuralPriorEncoding]]
 [[TCC]]
 [[Topology_Centric_Neuromorphic]]
-[[Topology_Centric_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BandedNonHermitianRandomMatrices]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -33,10 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[ScalableNeuromorphicTopology]]
+[[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
-[[iNEST_Wafer]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

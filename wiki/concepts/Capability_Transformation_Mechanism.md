@@ -32,9 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]
 [[Chain_of_Thought_Reasoning]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ConnectomicDevelopmentalTrajectory]]
+[[CrystalPalace_Program]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Representation_Learning_Generalization]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -49,6 +49,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[在 FPGA 上实现并行脉冲神经网络（Spiking Neural Net）]]

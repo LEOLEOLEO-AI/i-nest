@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Replication_Strategy]]
 [[Algorithmic_Warfare]]
+[[AmoebaInspiredLocomotion]]
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]

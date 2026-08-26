@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_NoC_Interconnect]]
+[[Heterogeneous_Integration]]
 [[InInterconnectMemory]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

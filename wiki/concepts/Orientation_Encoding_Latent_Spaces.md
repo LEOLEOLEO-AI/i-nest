@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveDensityControl]]
 [[Contested_Priors_Mechanism]]
+[[CriticalityDrivenStateTransition]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SNN]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[BayesianDomainEvolution]]
 [[BrainBodyResonance]]

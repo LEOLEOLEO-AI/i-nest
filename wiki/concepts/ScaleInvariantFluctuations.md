@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Complexity_Emergence_Engineering]]
+[[CrystalPalace_Program]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

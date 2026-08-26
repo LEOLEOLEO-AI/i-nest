@@ -25,10 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BitPrecisionAwareScheduling]]
 [[CST计量仪]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
+[[Deep_Network_Architecture_Invariant]]
 [[Developmental_Computing]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

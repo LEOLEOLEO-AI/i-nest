@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[Endocrine_Modulated_Network_State]]
 [[ExactFiringRateModel]]
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]

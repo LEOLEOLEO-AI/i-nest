@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirOptimization]]
 [[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]
 [[Hybrid_LLM_Guided_Search]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
 [[GraphGeometryAlignment]]
+[[GroupSynchronization]]
 [[Heterogeneous_Integration]]
 [[Loihi2_SpikeEncoding]]
 [[Memristive_STDP]]

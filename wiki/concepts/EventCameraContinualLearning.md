@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
 [[ContinualLearningOnNeuromorphic]]
+[[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[DisorderedNetworkInterconnect]]
 [[Neuromorphic_Computing]]

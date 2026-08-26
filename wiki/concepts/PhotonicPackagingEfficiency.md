@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
@@ -37,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[complex system]]
 [[temporalComplexity]]
 
 ## Sources

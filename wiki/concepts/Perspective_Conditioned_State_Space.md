@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Cluster_Switch_Bottleneck]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[Asymptotic_Exact_Solution]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

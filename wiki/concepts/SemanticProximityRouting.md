@@ -26,12 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AllOpticalHebbianLearning]]
 [[BarrierConditionedTrajectory]]
-[[Branch_Prediction]]
 [[BurstInterleaving]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[QuarantineCostTradeoff]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[branch prediction]]
 [[iNEST]]
 
 ## Sources

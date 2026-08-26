@@ -27,12 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Topology]]
+[[complex system]]
 [[temporalComplexity]]
 
 ## Sources

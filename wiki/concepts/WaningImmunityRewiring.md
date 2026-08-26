@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
+[[ControlDrivenCriticalFluctuations]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

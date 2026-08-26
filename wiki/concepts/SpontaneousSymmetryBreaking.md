@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Cognitive_Relapse_Decoupling]]
 [[CorticalTypeDiversity]]
-[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]

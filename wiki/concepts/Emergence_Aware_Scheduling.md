@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSTDP]]
+[[AdaptiveSpeechToSpikeEncoding]]
 [[Automated_Assessment_Framework]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenEndedDiscovery]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
+[[STDP_Plasticity]]
 [[SelfOrganization]]
 [[TCC]]
 [[emergent computation]]

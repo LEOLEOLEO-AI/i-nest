@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing]]
-[[Neuromorphic_computing_architecture]]
 [[QuantumChaos]]
 [[Reservoir_Computing]]
 [[SNN]]
@@ -44,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BigBrainCellularAxis]]
 [[CST_SynergisticCoordination]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DiscreteContinuous_Unification]]
 [[InterFPGA_Spike_Routing]]
@@ -52,8 +51,10 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[complex system]]
 [[Γst_Revision]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

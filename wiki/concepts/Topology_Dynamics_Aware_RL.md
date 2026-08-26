@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Communication_Trace_Diagnostics]]
 [[DTGA]]
+[[EpidemicThreshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]

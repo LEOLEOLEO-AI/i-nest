@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[C_elegansConnectomeAnalogy]]
 [[CompleteConnectomeDynamics]]
 [[Connectome]]
+[[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
 [[DevelopmentalConnectomeTemporalGraph]]
 [[DevelopmentalStageEmbedding]]

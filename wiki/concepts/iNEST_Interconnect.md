@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[20W_Brain_Inspired_Planning]]
+[[EmergentOrder]]
 [[Event_Driven_Architecture]]
 [[FrozenRateOperator]]
 [[Interconnect_Routing]]

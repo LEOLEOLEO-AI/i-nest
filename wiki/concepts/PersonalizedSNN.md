@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[AnomalousSpinTransport]]
+[[BackflowTransformation]]
 [[In_Package_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

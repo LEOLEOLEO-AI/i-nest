@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BiSpikCLM]]
 [[BrainActivityPrediction]]
+[[Course_Based_FPGA_Projects]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

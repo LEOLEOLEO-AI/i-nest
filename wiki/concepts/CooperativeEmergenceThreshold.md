@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CooperativeEmergence]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[MeanFieldNetworkAnalysis]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

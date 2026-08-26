@@ -24,7 +24,9 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[Analog_Weight_Storage]]
+[[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Network_on_Chip_communication_architecture]]
@@ -33,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[SDI_Bond]]
 [[TCC]]
-[[iNEST_Wafer]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

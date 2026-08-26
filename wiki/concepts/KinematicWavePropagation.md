@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[CollectiveDynamics]]
+[[CriticalStateInformationMaximization]]
 [[CurrentInjectionSNN]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]

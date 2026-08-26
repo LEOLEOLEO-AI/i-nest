@@ -30,9 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 [[AI_Supply_Chain_Increment]]
+[[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

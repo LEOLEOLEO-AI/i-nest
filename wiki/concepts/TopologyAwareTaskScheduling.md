@@ -33,9 +33,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[OnDie_Fusion]]
+[[Packaging_CoDesign]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[SuperparamagneticSwitchingRate]]
 [[Switchless_Computing]]
 [[TCC]]
@@ -44,7 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleInterconnectAlgebra]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
-[[iNEST_Wafer]]
+[[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

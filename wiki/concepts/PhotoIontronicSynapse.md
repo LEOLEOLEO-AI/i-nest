@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CirculateFiringNeuron]]
+[[Cross_Node_Event_Propagation]]
 [[Cryogenic_Syndrome_Compression]]
 [[Dynamic_Expert_Fusion]]
 [[Efficient_Coding_Constraint]]

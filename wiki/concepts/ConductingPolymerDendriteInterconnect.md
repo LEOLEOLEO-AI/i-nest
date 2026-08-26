@@ -28,11 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Cross_Node_Event_Propagation]]
 [[FixedOverheadFloor]]
+[[Heterogeneous_Integration]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[ModelOptimizationFederated]]
 [[Negative_Result_Retention]]
 [[Network_Topology_Design]]
+[[OpticallyWritableAtomicVaporMemory]]
 [[TCC]]
 
 ## Sources

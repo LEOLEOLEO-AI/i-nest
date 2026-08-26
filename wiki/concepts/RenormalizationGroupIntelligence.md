@@ -29,8 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Analog_To_Information_Conversion]]
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Synaptic_Motifs]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[complex system]]
 [[iNEST]]
 [[神经网络]]
 

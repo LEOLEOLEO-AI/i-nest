@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
+[[AmorphousSolidPlasticity]]
 [[AstrocyteInspiredRepair]]
 [[Autonomous_Physical_Computation]]
 [[AvalancheTriggeringMechanism]]

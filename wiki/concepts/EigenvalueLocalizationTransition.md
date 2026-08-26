@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AdjustableDynamics]]
 [[Alpha_Computation_Consistency]]
+[[AmorphousSolidPlasticity]]
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
 [[CytoarchitectonicAxis]]

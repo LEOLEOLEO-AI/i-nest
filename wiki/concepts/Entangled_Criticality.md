@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ConstraintDrivenSelfOrganization]]
 [[Criticality]]
 [[Dimensionality_Modularity_Tradeoff]]
+[[DynamicCentralitySteering]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

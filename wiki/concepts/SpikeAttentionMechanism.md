@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveLocalLearning]]
 [[DiscreteSTDPLearning]]
+[[DiscreteSTDP]]
 [[ElasticInferenceScheduling]]
 [[ExactFiringRateModel]]
 [[IntrinsicTimingSTDP]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseActivationSkipping]]
 [[SpikeAttention]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[spiking neural network]]
 

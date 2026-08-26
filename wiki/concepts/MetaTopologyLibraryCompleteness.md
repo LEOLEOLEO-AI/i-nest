@@ -30,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[Cauchy_Aczel_Uniqueness]]
 [[CoexistenceRegime]]
 [[CommunicationTopologyMismatch]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
 [[NetworkDiameterMetric]]
+[[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareScheduling]]
+[[complex system]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

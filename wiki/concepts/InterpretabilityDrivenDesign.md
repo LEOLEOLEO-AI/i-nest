@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
+[[BrainInspiredArchitecture]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

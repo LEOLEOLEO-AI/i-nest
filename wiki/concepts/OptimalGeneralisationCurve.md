@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Cognitive_Relapse_Architecture]]
+[[DTGA]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

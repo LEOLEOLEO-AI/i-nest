@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Complex_System_Theory]]
 [[DTGA]]
+[[DynamicServiceComposition]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[TCC]]

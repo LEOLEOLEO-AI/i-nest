@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Model_Routing_Protocol]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicRadarFrontend]]
 [[Neuromorphic_Computing]]
 [[Pods4Rail_Topology]]
 [[Receptron_Unit]]

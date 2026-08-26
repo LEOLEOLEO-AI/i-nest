@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NCA_Reservoir]]
 [[Network_Topology_Design]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
+[[FormalToolchain]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

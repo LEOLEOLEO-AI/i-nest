@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BulletTrainScheduling]]
+[[CoOptimizedMappingScheduling]]
 [[Criticality]]
 [[SNN]]
 [[Self_Organized_Criticality]]

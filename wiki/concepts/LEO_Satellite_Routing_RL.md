@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AdsorptionBiosorptionHybrid]]
 [[CircuitTopologyEncoding]]
+[[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]

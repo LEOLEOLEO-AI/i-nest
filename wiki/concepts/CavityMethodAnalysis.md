@@ -29,11 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_NeuromorphicMapping]]
 [[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_Control_Plane_Offload]]
 [[TCC]]
+[[VectorFlowField]]
 [[iNEST]]
 
 ## Sources

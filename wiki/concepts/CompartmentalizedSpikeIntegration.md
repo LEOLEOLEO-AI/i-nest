@@ -24,16 +24,18 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainBodyResonance]]
 [[Contested_Prior_Resolution]]
+[[ExplainableEnergyAI]]
 [[GraphGeometryAlignment]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

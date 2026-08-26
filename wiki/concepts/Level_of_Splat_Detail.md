@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
+[[DTGA]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]

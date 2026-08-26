@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[AdversarialResilience]]
 [[AlternativeBridgingModels]]
+[[Analog_Encoding_Readout]]
 [[AnisotropicGaussianPrimitives]]
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]

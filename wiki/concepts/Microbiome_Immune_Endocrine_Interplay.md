@@ -25,11 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyAwareLearning]]
 [[Heterogeneous_Integration]]
+[[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[NCL神经计算定律详解]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThermalFluctuationComputing]]
 [[TwoTimescaleNeuroEvolution]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

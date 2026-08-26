@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFrequencyResonateFire]]
 [[AgenticServiceManifesto]]
+[[AgenticServiceOrchestration]]
 [[Automated_Reward_Shaping]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]

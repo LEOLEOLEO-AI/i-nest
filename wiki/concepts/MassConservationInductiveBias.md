@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Monitored_Quantum_Circuits]]
 [[MultifractalCriticalPhase]]
 [[NCA reservoir]]
+[[Nanoencapsulation_Stability_Bioavailability]]
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[NeuralCellularAutomata]]

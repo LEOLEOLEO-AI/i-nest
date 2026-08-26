@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
 [[Compact_Boson_Dynamics]]
+[[DailyResearchDigest]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

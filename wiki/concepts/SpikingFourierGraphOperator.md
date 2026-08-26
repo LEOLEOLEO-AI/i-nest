@@ -30,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Dynamics_Learning]]
 [[ClinicalTranslationBridge]]
 [[CollectiveDynamics]]
-[[Complex_System]]
+[[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[DendriticTaskPartitioning]]
 [[Emergent_Intelligence_Threshold]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
+[[complex system]]
 [[spiking neural network]]
 [[神经网络]]
 

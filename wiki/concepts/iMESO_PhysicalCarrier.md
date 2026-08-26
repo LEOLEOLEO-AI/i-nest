@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]

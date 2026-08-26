@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
+[[DualSided_Routing_Resource]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[HeterogeneousChipletIntegration]]

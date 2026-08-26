@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
@@ -28,11 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
-[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfGrowth]]
 [[Emergent_Intelligence_Threshold]]
+[[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]

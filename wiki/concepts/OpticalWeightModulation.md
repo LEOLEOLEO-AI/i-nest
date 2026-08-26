@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Control_Field_Framework]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]

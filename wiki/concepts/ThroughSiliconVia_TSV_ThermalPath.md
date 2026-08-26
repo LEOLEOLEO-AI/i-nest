@@ -22,11 +22,13 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Inference_Offload]]
+[[Heterogeneous_Integration]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

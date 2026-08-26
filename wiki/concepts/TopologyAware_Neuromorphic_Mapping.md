@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
 [[ConnectionCentricParadigm]]
+[[ContinuousGameOfLife]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

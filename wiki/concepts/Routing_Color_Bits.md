@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Anisotropic_Correlation_Length]]
 [[CircuitTopologyEncoding]]
+[[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]

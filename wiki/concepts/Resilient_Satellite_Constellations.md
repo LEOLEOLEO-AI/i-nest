@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoreComputationSubspace]]
 [[DelayPropagationDynamics]]
 [[Emergent_Intelligence_Threshold]]
+[[FlexibilityThreshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Network]]

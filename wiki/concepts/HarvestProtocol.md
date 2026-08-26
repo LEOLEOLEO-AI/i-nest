@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletSignalIntegrity]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DirectConnect_Topology]]
 [[Evolutionary_Structure_Computability]]
@@ -40,8 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[PhotonicPackagingEfficiency]]
-[[SDSoW_Strategic_Planning]]
+[[SDSoW]]
+[[SDSoW_Architecture]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

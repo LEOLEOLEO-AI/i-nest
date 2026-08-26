@@ -28,7 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Reservoir_Computing]]
 [[TCC]]
+[[TopologyEmbeddedIntrospection]]
 [[emergent computation]]
 [[iNEST]]
 

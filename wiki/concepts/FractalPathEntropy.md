@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[EmergentOrder]]
 [[Emergent_Reservoir_Topology]]
+[[FlexibilityThreshold]]
 [[FunctionalInterfaceBlock]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

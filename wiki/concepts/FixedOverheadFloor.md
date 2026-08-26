@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

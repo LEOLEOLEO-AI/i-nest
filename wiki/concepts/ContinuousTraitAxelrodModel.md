@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Assisted_Energy_Management]]
 [[AI_FullSpectrum_Strategy]]
+[[AdaptiveMeasurementProtocol]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]

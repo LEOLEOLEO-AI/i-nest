@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
 [[GSK_Summarize_3D_Analysis]]
+[[Heterogeneous_Chiplet_Customization]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

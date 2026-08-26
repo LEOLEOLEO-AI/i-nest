@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Heterogeneous_Integration]]
 [[In_Package_Optical_Interconnect]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Integration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyAwareNeuralInterface]]
 [[advanced packaging]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

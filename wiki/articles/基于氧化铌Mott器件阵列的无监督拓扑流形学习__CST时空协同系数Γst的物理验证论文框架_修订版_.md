@@ -16,7 +16,6 @@ SDI, STDP, TCC, iNEST, neuromorphic, 互连, 忆阻, 拓扑, 晶圆, 类脑
 
 ## Related Concepts
 
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -25,4 +24,5 @@ SDI, STDP, TCC, iNEST, neuromorphic, 互连, 忆阻, 拓扑, 晶圆, 类脑
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[complex system]]
 [[iNEST]]

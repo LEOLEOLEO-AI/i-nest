@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Sleep_EEG_Criticality]]
 [[Spiking_Mamba_Block]]
 [[Spiking_Neural_Network]]
+[[VisualSemanticDecoding]]
 [[iNEST]]
 
 ## Sources

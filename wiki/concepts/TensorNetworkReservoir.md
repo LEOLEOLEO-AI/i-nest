@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirOptimization]]
+[[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

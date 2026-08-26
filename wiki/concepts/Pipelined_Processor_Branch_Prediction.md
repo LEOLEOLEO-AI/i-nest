@@ -20,9 +20,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[AgenticServiceManifesto]]
 [[BitPrecisionAwareScheduling]]
-[[Branch_Prediction]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[CrystalPalace_Program]]
 [[DARPA_ProjectManager_Model]]
@@ -33,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[GeneralIntelligenceSubstrate]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
-[[Pipelined_Processor]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]

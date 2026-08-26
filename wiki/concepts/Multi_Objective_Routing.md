@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_on_Chip]]
+[[NoC_Chiplet_Wafer_Stack]]
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]

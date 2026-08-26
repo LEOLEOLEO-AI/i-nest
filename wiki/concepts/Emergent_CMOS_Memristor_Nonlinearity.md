@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[MesonSpectra]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

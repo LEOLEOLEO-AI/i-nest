@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BrainScaleTopologyExploitation]]
 [[CirculateFiringNeuron]]
+[[ClinicalTranslationBridge]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[CrossLayer_Feedback]]
 [[DevelopmentalNeuromorphicAdaptation]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[DiscreteSTDP]]
+[[FunctionalInterfaceBlock]]
 [[GroupSynchronization]]
 [[IntrinsicTimingSTDP]]
 [[Loihi2_SpikeEncoding]]

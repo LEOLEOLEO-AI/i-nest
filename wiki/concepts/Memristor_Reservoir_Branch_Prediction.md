@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[Branch_Prediction]]
 [[CMOS memristor devices]]
 [[CMOS_Memristor_Devices]]
 [[DARPA_ProjectManager_Model]]
@@ -28,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[GeneralizedReadoutMap]]
 [[HybridResistiveMemoryCIM]]
 [[InNetworkSignalRecovery]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristive_Interconnect]]
 [[MemristorReservoir]]
 [[Memristor_Reservoir_Computing]]
@@ -36,16 +36,15 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
-[[Pipelined_Processor]]
 [[Pipelined_Processor_Integration]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[branch prediction]]
-[[emerging CMOS memristor devices]]
 [[emerging CMOS memristor]]
 [[memristor device]]
 [[neuromorphic computing]]
 [[pipelined processor]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

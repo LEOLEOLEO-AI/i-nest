@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[CurrentInjectionSNN]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]

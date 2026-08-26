@@ -30,9 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[PolychronousNeuronalGroups]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[scaling laws]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Communication_Trace_Diagnostics]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[EpidemicThreshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]

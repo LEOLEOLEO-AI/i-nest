@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[In_Network_Neuromorphic_Processing]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

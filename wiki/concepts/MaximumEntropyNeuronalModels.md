@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Replication_Strategy]]
+[[AmoebaInspiredLocomotion]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
 [[Criticality]]

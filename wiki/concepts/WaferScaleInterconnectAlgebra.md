@@ -36,13 +36,13 @@ Auto-extracted concept from raw material compilation.
 [[Packaging_CoDesign]]
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
+[[Switchless_Computing]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

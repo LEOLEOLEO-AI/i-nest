@@ -29,9 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicTopologyMapping]]
 [[FunctionalInterfaceBlocks]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Wave_Reconfiguration]]
 [[TCC]]
 [[neuromorphic substrate]]
 

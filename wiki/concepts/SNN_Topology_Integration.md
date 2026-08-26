@@ -41,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topology_Centric_Neuromorphic]]
-[[Topology_Centric_Neuromorphic_Integration]]
 [[neuromorphic computing]]
 [[spiking neural network]]
 

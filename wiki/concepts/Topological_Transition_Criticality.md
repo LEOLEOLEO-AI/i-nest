@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
+[[Criticality_Threshold]]
 [[DynamicalSelfDualCriticality]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]

@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_CoordinationMechanism]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -39,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
+[[Crystallized_Neural_Manifolds]]
 [[Reservoir_Computing]]
+[[complex system]]
 [[reservoir computing]]
 
 ## Sources

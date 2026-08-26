@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[HierarchicalSpikePropagation]]
 [[Interconnect_Routing]]
+[[LossSpikeMechanism]]
 [[PacketRoutingOptimization]]
 [[Spiking_Neural_Network]]
 [[SurrogateGradientTracking]]

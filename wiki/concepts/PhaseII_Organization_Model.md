@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[KeyMaterialStrategy]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

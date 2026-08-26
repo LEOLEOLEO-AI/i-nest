@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[HumanVisionInspiredSNN]]
 [[Intelligence_Emergence]]
 [[LearnableGradientSurrogate]]
+[[LowRankEvolutionStrategies]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

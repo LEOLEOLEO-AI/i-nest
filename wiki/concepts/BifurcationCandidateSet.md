@@ -31,9 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[BifurcationCandidate]]
 [[CompactBosonDuality]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ContactOpportunityExploitation]]
+[[DeepParsing]]
 [[Intelligence_Emergence]]
 [[IntervalAnalysis]]
 [[Network_Topology_Design]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[complex system]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

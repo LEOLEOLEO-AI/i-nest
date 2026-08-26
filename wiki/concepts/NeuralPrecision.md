@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReliabilityOverheadTradeoff]]
+[[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[Soldier_Augmentation_BioCyber_Interface]]
 [[iNEST]]

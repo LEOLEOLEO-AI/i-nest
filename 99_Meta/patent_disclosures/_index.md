@@ -1,5 +1,6 @@
 # 可专利方向索引
 
+- H1 (HIGH): `H1_disclosure.md`
 - H3 (MEDIUM): `H3_disclosure.md`
 - H4 (HIGH): `H4_disclosure.md`
 - H5 (HIGH): `H5_disclosure.md`

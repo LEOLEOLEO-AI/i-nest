@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
+[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[criticality]]
 [[iNEST]]
 

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
 [[AdaptiveFunctionalTopology]]
+[[CriticalityDrivenStateTransition]]
 [[DTGA]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

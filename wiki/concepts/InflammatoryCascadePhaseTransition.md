@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeDrivenMOT]]
+[[SpikingMOT]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[criticality]]

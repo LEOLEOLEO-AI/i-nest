@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
@@ -36,12 +35,15 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Topological_Alignment]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Mesoscale_Heterogeneous_Integration]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

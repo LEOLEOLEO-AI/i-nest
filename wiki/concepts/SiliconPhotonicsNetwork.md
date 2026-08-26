@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Computation_Access_Routing]]
 [[DynamicTopologyMapping]]
 [[Dynamic_Expert_Fusion]]
 [[FatalityDrivenRewiring]]

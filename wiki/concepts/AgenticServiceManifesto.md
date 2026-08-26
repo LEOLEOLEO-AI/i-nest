@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
 [[Critical_Region_Extension]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TopologyEvolvingReservoir]]
 

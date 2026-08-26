@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[Avoided_Criticality]]
 [[MembranePotentialAlignment]]
 [[Neuromorphic_Computing]]
 [[SNN]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
 [[Continual_Learning_Topology]]
+[[CriticalityDrivenStateTransition]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentTaskDecomposition]]
 [[Ferroelectric_Devices]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[AdaptiveTimeStepTraining]]
 [[DTGA]]
+[[EEGSpikeEncoding]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

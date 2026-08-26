@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[ERI_2_0_Strategic_Framework]]
 [[FastSlow_Dynamics]]
+[[Free_Energy_Principle_Network]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]

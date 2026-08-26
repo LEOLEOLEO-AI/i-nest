@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[AdaptiveSTDP]]
 [[Contested_Priors_Mechanism]]
+[[Cross_Network_Representation_Transfer]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

@@ -29,8 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[CST_Intelligence_Emergence]]
 [[CST计量仪]]
+[[CausalEmergenceCondition]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DataDrivenMaterialDesign]]
 [[Dynamic_Expert_Fusion]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -32,7 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
-[[Complex_System]]
+[[Cauchy_Aczel_Uniqueness]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Switch_Bottleneck]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

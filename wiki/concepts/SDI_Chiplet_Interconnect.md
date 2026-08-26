@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[AdiabaticMultimodeBend]]
+[[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[SDI_Bond]]
 [[SDI_Chiplet]]
 [[TCC]]

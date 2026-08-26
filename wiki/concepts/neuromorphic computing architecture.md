@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- neuromorphic computing architecture (merged 2026-08-27)
+
+
+## Related Work
+
+[[Communication_Trace_Diagnostics]]
+[[CongestionAwareLoss]]
+[[DifferentiablePlacement]]
+[[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+[[iNEST]]
+[[神经形态计算]]
+[[神经网络]]
+[[脉冲神经网络]]

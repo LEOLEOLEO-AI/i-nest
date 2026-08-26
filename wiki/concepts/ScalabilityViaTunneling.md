@@ -32,7 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Sensing_Comms_Network]]
 [[SDI_Bond]]
 [[SDI_iNEST_Wafer]]
-[[iNEST_Wafer]]
+[[WaferScaleMonolithicIntegration]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

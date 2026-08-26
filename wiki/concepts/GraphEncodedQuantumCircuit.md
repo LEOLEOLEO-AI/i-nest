@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]
+[[BurstGatedRouting]]
 [[CommunicationAwareComputeRelocation]]
 [[Compute_Communication_Topology_Matching]]
 [[DistinguishableHelium4]]

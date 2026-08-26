@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neural_Field_World_Model]]
 [[PhotonicSynapticPlasticity]]
+[[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilient_Satellite_Mesh]]
 [[Self_Organized_Criticality]]

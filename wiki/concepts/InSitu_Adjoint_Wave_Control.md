@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Cognitive_Relapse_Decoupling]]
 [[ControlDrivenCriticalFluctuations]]
+[[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

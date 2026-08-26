@@ -33,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Topology]]
-[[Complex_System]]
+[[Chiplet_Topology_Interconnect]]
 [[Complex_System_Theory]]
 [[Evolutionary_Computability]]
 [[FlagOS_2_0]]
@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Topology]]
+[[complex system]]
 [[temporalComplexity]]
 [[神经网络]]
 

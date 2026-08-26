@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[BrainBodyResonance]]
 [[Intelligence_Emergence]]
 [[STDP_Plasticity]]

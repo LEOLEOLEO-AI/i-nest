@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Boundary_Criticality]]
 [[BrownianCastleInterface]]
+[[CriticalStateDynamics]]
 [[Criticality]]
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]

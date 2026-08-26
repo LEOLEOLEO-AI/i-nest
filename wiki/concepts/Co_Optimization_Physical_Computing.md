@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AdjustableDynamics]]
 [[AdversarialResilience]]
+[[AgenticServiceManifesto]]
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
 [[ApplicationScenarioReconstruction]]

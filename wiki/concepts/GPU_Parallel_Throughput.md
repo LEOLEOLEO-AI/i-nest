@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_PPT_Workflow]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Arm_Locomotor_Synergy]]
 [[Beyond_Moore_Packaging_Strategy]]
-[[Branch_Prediction]]
 [[CorticalTravelingWave]]
 [[CriticalStateInformationMaximization]]
 [[CurrentInjectionSNN]]
@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[branch prediction]]
 [[iNEST]]
 
 ## Sources

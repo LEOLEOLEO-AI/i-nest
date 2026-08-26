@@ -27,13 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_CoordinationMechanism]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[DARPA_ProjectManager_Model]]
+[[DendriticReservoirState]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

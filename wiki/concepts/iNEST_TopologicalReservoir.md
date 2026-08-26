@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[Connectome]]
+[[Connectome_Constrained_Neural_Architecture]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

@@ -26,16 +26,17 @@ Auto-extracted concept from raw material compilation.
 [[CST_SynergisticCoordination]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[EGO_Architecture]]
 [[ERI_2_0_Strategic_Framework]]
+[[EmergentTaskDecomposition]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[TemporalComplexity]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

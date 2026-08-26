@@ -28,9 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
+[[ChannelEventSparsity]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Synaptic_Plasticity]]
 [[neuromorphic computing]]
 
 ## Sources

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
@@ -48,9 +49,9 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
-[[Wafer_Scale_Neuromorphic_Integration]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

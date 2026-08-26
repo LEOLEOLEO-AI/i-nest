@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EvolutionaryReservoirOptimization]]
 [[FisherInformationMetric]]
+[[HardwareAware_DesignSpace]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

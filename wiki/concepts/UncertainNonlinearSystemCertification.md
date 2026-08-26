@@ -27,8 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
+[[DisorderedNetworkDynamics]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RenormalizationGroupIntelligence]]
 [[UncertainNonlinearSystem]]
+[[complex system]]
 [[iNEST]]
 [[神经网络]]
 

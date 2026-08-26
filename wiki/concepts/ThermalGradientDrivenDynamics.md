@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
+[[AgenticServiceOrchestration]]
 [[Network_Topology_Design]]
 [[TCC]]
 

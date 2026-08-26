@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Topology]]
 [[FullDimensionalDefinableInterconnect]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Multi_Objective_Routing]]
@@ -35,7 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[Topology_Encapsulation]]
-[[iNEST_Wafer]]
+[[WaferScale_Chiplet_Interconnect]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

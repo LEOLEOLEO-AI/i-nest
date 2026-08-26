@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[ErrorAmplificationLimits]]
+[[EventCameraPoseInput]]
 [[Fatigue_SpikePattern]]
 [[LatencyGradientDescent]]
 [[Network_Topology_Design]]

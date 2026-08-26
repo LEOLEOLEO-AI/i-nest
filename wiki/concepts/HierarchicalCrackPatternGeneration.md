@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[HierarchicalCrackPattern]]
 [[Intelligence_Emergence]]
+[[MultiScalePathDivergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Planar_Network_Generation]]

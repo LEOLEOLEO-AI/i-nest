@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveFrequencyResonateFire]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[Adaptive_EW_Neuromorphic_Controller]]
 [[Agent_Workflow_Automation]]
 [[AstrocyteInspiredRepair]]
 [[BackflowTransformation]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CST_Equation]]
 [[CST_Exponential_Form]]
+[[CST_Theory]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
-[[Residual_Connection_Removal]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
@@ -60,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
-[[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
 [[temporalComplexity]]
 

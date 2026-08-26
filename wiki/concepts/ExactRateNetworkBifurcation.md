@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DopamineArousalSwitch]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
+[[FC2_Goal_Representation]]
 [[FowlerNordheimAnnealer]]
 [[Fractal_Entanglement_Scaling]]
 [[Heterogeneous_Integration]]

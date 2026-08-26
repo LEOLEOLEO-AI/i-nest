@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
 [[MinimalNetworkModel]]
+[[MultiScaleTemporalProcessing]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

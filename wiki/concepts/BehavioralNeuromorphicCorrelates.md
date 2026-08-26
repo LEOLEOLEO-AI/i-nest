@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Complex_System_Theory]]
 [[HierarchicalAttention_MIL]]
+[[Multi_Scale_Habituation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

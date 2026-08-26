@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Constructed_Reality_Interconnect]]
 [[DARPA_ProjectManager_Model]]
+[[Free_Energy_Principle_Network]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

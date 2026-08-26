@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[Adaptive_Service_Orchestration]]
 [[Additive_Manufacturing_Supply_Chain]]
+[[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]

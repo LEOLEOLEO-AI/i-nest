@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CircuitTopologyEncoding]]
 [[CouplingMatrixRecovery]]
+[[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AllOpticalHebbianLearning]]
 [[ConsciousnessEngineeringLoop]]
+[[CrossLayer_SignalRouting]]
 [[DirectConnect_Topology]]
 [[EventDrivenAsynchronousRouting]]
 [[FC2_Goal_Representation]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SpikeBasedGradientDescent]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

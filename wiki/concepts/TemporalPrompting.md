@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[EnsembleCreditAssignment]]
 [[FPGA_Neuromorphic_Architectures]]
+[[InNetworkReconfiguration]]
+[[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

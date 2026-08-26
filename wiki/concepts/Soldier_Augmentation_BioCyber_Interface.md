@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReliabilityOverheadTradeoff]]
+[[Residual_Connection]]
 [[Residual_Connection_Removal]]
 [[iNEST]]
 

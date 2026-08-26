@@ -29,8 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationHeterogeneity]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
+[[EdgeInspectionInference]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoC_Interconnect]]
+[[SDI_Bond]]
 [[SDI_NoC_Fusion]]
 [[TCC]]
 [[Topology_Encapsulation]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SiliconPhotonicsNetwork]]
 [[Space_Compute_Architecture_Tradeoff]]
 [[TCC]]
+[[ThroughSiliconVia_TSV_ThermalPath]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

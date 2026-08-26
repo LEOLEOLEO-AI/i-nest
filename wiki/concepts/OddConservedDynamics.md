@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DelayPropagationDynamics]]
+[[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]

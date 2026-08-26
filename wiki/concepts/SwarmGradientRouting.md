@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
@@ -40,12 +39,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Order_Flexibility_Duality]]
+[[QuantumKernelMethods]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[ScaleFreeNetwork]]
 [[TwoTimescaleNeuroEvolution]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

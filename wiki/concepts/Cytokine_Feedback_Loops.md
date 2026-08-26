@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenFunctionalConnectivity]]
 [[In_Context_Learning]]
 [[NeuromorphicRL_Locomotion]]
+[[Neuromorphic_Computing]]
+[[NonHermitianSpectralCorrelations]]
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]

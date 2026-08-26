@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveFlexibilityThreshold]]
+[[AnisotropicGaussianPrimitives]]
 [[BioInspiredLearningRule]]
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
 [[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[TCC]]

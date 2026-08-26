@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing]]
-[[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
@@ -36,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[fractal_Scaling]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

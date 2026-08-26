@@ -24,9 +24,9 @@ TCC, 拓扑
 ## Related Concepts
 
 [[CST_Exponential_Form]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[TCC]]
+[[complex system]]
 [[tcc]]

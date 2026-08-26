@@ -22,8 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[AI_Faculty_Forum_2026]]
+[[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -31,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
-[[SDI_TopologyWaferIntegration]]
 [[SDI_Topology]]
 [[SiC_GaN_Power_Integration]]
 [[TCC]]

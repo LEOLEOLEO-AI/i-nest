@@ -22,8 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveBitPrecisionExploration]]
 [[Advanced_Packaging_for_Space]]
+[[Asymptotic_Exact_Solution]]
 [[BeyondVonNeumannArchitecture]]
-[[Bipartite_Interconnect_Design]]
+[[Bipartite_Interconnect]]
 [[BrainInspiredArchitecture]]
 [[ChargeDomainAttention]]
 [[CoPackagedOptics]]

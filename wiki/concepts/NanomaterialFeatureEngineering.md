@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Avalanche_Dynamics]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]

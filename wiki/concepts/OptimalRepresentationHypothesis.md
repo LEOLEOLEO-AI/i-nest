@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[Analog_Computation]]
 [[Arm_Locomotor_Synergy]]
+[[CollectiveDynamics]]
 [[Neuromorphic_Computing]]
 [[OptimalRepresentation]]
 [[PPT]]

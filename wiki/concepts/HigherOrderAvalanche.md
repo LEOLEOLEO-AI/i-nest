@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[FormalLinguisticCompetence]]
 [[Free_Energy_Principle_Network]]
+[[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Master_SDDE]]

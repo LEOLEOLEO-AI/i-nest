@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CrossMaterial_Integration]]
 [[DarkSiliconAwareCooling]]
+[[EMIB_Bridge]]
+[[Heterogeneous_Integration]]
 [[TCC]]
 [[iNEST]]
 

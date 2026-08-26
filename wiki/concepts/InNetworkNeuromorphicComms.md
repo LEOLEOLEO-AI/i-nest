@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[Adaptive_Deep_Brain_Stimulation]]
+[[BrainBodyResonance]]
 [[CirculateFiringNeuron]]
 [[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]

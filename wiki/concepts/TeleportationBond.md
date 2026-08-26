@@ -23,13 +23,14 @@ Auto-extracted concept from raw material compilation.
 [[4H_SiC_SubstrateProcessing]]
 [[ActivityAvalanche]]
 [[Analog_Computation]]
+[[AvalanchePropagation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BitPrecisionAwareScheduling]]
-[[Branch_Prediction]]
 [[BurstInterleaving]]
 [[CognitiveSupportTopology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[branch prediction]]
 [[iNEST]]
 
 ## Sources

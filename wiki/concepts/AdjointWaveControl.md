@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
+[[VectorFlowField]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

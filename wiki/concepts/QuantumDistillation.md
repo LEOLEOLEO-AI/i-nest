@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OpenLearningEcosystem]]
 [[iNEST]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
+[[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Computing]]
 [[SiC_GaN_Power_Integration]]
 [[State_Transition_Formalism]]

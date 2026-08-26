@@ -29,10 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
+[[Brain_Connectome]]
 [[CST_CoordinationMechanism]]
 [[C_elegansConnectomeAnalogy]]
 [[Causal_Emergence]]
-[[Complex_System]]
+[[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

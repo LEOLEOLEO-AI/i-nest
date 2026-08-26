@@ -35,10 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_NoC_Fusion]]
 [[SDI_Topology]]
+[[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

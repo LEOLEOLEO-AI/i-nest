@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AstrocyteInspiredRepair]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
@@ -43,8 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TwoTimescaleNeuroEvolution]]
+[[complex system]]
 [[iMESO_PhysicalCarrier]]
 [[iNEST]]
+[[忆阻器]]
 [[神经网络]]
 [[类脑芯片]]
 

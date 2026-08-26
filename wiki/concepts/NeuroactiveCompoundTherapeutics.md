@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleCreditAssignment]]
 [[FunctionalInterfaceBlock]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

@@ -25,12 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AthermalDynamics]]
-[[Branch_Prediction]]
+[[BrainInspiredArchitecture]]
 [[Neuromorphic_Computing]]
-[[Pipelined_Processor]]
 [[TCC]]
+[[branch prediction]]
 [[iNEST]]
 [[neuromorphic computing]]
+[[pipelined processor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

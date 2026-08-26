@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
+[[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Criticality]]
 [[DynamicTokenSparsity]]

@@ -24,14 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Decoupled_Priors]]
+[[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
+[[Heterogeneous_Integration]]
 [[HigherOrderDynamicalNetwork]]
 [[IncidenceBasedRandomWalk]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[TCC]]
 
 ## Sources

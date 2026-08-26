@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST_Theory]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[Cryogenic_Syndrome_Compression]]
@@ -50,6 +49,8 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
+[[complex system]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 

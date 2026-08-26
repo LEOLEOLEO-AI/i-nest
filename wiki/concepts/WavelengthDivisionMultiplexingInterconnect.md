@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
+[[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[DirectConnect_Topology]]

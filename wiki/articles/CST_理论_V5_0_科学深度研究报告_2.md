@@ -16,7 +16,6 @@ SDI, STDP, TCC, iNEST, 互连, 封装, 拓扑, 晶圆
 
 ## Related Concepts
 
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
@@ -24,4 +23,5 @@ SDI, STDP, TCC, iNEST, 互连, 封装, 拓扑, 晶圆
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[complex system]]
 [[iNEST]]

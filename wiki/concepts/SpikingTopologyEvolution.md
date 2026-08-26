@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[GradientFreeSNNTraining]]
 [[Hardware_Accelerated_SNN]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Controlled_Release_Kinetics]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenSpectralProcessing]]
 [[Intelligence_Emergence]]
 [[JunctionSignalIntegrity]]
 [[KnowledgeDistillation]]

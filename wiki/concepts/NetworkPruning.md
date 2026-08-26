@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[BiasEvaluationMetrics]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]

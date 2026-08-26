@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[Amorphous_Amorphous_Transition]]
 [[AstrocyteInspiredRepair]]
 [[Avoided_Criticality]]
 [[Contested_Prior_Resolution]]

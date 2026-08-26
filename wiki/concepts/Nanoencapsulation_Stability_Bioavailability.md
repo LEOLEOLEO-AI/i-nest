@@ -30,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
@@ -39,12 +38,15 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[SmallCore_LargeNetwork]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyFragility]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

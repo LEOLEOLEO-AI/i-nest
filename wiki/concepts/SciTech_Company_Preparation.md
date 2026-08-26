@@ -28,8 +28,18 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[1M1T1R_SynapticNeuron]]
 [[2_5D_PIM_Chiplet_Integration]]
+[[3nm_Autonomous_Driving_Chip]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
+[[Network_Topology_Design]]
+[[SDI_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AgenticServiceManifesto]]
 [[AnalogDomainCompression]]
 [[Branch_Prediction_Reservoir]]
 [[Compressive_Sensing_Reservoir]]

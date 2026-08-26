@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Alignment_Tax]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
+[[BrainInspiredArchitecture]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

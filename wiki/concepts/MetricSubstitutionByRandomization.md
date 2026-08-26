@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -39,7 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[TcC]]
-[[TemporalComplexity_Tc]]
+[[TemporalComplexity]]
 [[advanced packaging]]
 [[iNEST]]
 [[scaling laws]]

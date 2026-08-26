@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh_Model]]
 [[TwoTimescaleNeuroEvolution]]
 [[avalanche dynamics]]
 [[catastrophic forgetting]]

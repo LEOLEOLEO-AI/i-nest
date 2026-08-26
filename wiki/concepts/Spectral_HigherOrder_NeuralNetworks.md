@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]
 [[DelayRobustEmergence]]
+[[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

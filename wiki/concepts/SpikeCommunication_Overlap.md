@@ -28,7 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AgentBasedCorruptionModel]]
 [[Avoided_Criticality]]
+[[ContinuousControlConversion]]
+[[Criticality]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

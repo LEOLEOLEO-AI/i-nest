@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AmorphousSolidPlasticity]]
 [[AnalogDomainCompression]]
 [[CST_Theory_V27_FINAL]]
 [[CombinatorialOptimizationReservoirMapping]]

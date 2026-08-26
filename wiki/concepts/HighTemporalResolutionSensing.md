@@ -31,16 +31,18 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing]]
-[[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

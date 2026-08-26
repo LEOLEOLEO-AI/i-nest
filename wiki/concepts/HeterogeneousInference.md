@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
 [[SDI_NoC_Fusion]]
+[[SDI_NoC_Integration]]
 [[SDI_Topology]]
 [[TCC]]
 [[advanced packaging]]

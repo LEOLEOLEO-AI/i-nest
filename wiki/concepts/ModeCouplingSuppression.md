@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[DataMovementMinimization]]
 [[Die_to_Die_Protocol]]
+[[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]

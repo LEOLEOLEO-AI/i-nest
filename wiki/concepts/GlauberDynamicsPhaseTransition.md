@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Cognitive_Relapse_Decoupling]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[Criticality_Induced_Plasticity]]
@@ -43,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

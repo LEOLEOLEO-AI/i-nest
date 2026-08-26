@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]
+[[Receptron_Unit]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

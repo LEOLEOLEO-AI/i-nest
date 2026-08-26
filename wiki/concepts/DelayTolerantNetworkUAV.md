@@ -35,8 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
 [[ScalableNeuromorphicTopology]]
 [[StochasticMultiAgentRL]]
+[[StochasticVehicleRouting]]
 [[TCC]]
 [[iNEST]]
 

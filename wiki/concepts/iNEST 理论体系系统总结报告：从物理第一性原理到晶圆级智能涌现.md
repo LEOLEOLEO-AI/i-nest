@@ -26,7 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[CST计量仪]]
-[[Complex_System]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[DeviceConductanceTuning]]
@@ -35,6 +35,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[NCL神经计算定律详解]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
+[[complex system]]
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
+[[FormalToolchain]]
 [[Heterogeneous_Integration]]
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]

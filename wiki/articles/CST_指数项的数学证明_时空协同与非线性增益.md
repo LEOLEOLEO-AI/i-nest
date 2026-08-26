@@ -16,7 +16,7 @@ iNEST
 
 ## Related Concepts
 
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Nonlinear_Gain]]
+[[complex system]]
 [[iNEST]]

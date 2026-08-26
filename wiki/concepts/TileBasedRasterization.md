@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Cognitive_Relapse_Architecture]]
 [[Decoupling_Mechanism]]
+[[DynamicInference]]
 [[EnsembleSparsity]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]

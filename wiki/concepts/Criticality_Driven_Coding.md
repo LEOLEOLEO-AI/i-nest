@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[CriticalityDrivenEfficientCoding]]
-[[CriticalityInNeuralNetworks]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

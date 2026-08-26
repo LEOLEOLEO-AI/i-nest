@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
+[[GradientBasedLearningLocalization]]
 [[Intelligence_Emergence]]
 [[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]

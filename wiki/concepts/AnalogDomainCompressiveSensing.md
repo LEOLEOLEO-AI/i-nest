@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[CST_SynergisticCoordination]]
 [[CollectiveStateResilience]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CounterstreamSignalPropagation]]
 [[Course_Based_FPGA_Projects]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[ParallelSNNArchitecture]]
 [[QuantumFluctuationDrivenTransport]]
+[[QuarantineCostTradeoff]]
 [[Reservoir_Computing]]
 [[Resilient_Satellite_Mesh]]
 [[SNN]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[TCC]]
 [[TriAxiomCalibration]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

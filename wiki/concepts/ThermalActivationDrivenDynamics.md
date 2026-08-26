@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[Syncytial_Mesh_Model]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

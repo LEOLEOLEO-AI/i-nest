@@ -31,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[SpikeTimingSideChannel]]
+[[SpikingNeuralNetworkInference]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[spiking neural network]]
 

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
+[[Communication_Trace_Diagnostics]]
 [[CrossbarSNNArchitecture]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[FPGA_Accelerated_SNN]]

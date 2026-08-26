@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[GradientFreeSNNTraining]]
 [[Hardware_Accelerated_SNN]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]

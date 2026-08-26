@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
+[[BulletTrainScheduling]]
 [[BurstSuppression]]
 [[Criticality]]
 [[Distributed_Spike_Communication]]

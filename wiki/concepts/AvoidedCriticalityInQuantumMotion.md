@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AdaptiveArchitecture]]
 [[Additive_Manufacturing_Supply_Chain]]
+[[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Anomaly_Induced_Quantum_Criticality]]

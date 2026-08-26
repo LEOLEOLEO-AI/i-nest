@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[1024_Card_SuperNode]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]

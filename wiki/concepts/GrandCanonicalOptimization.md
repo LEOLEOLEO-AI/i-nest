@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CircuitTopologyEncoding]]
+[[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[ExactWiringRouting]]

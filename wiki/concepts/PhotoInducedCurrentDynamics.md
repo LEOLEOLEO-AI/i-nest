@@ -23,13 +23,15 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Memristor_Synapse]]
+[[MesonSpectra]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[PhotoInducedCurrent]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[reservoir computing]]
 
 ## Sources

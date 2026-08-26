@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CIMWeightUpdateAwareness]]
 [[CollectiveSpikingDynamics]]
 [[ConductingPolymerDendriteMemory]]
+[[ContinualLearningOnNeuromorphic]]
 [[DelayCodedWorkingMemory]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]

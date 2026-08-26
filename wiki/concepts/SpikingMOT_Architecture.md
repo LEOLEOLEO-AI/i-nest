@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
+[[CurrentInjectionSNN]]
 [[SNN]]
 [[SpikingMOT]]
 [[Spiking_Neural_Network]]

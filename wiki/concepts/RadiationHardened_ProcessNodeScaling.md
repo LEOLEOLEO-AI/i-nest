@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[DirectConnect_Topology]]
 [[External_to_OnDie_Evolution]]
+[[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]

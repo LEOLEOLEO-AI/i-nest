@@ -28,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Attention_Residuals]]
 [[CST_MasterEquation]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Independent_AI_Player_Endgame]]
@@ -36,9 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[Manifold_Topology_DeepLearning]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[OscillatoryDynamicsTopology]]
 [[P_Paradigm]]
 [[SuperlinearGain]]
 [[TCC]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

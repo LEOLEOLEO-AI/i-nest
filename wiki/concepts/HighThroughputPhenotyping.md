@@ -28,9 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Habituation_Dynamics]]
 [[HierarchicalSpikePropagation]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Spatiotemporal_Emergence_Model]]
 [[Spiking_Neural_Network]]
+[[Teleportation_Assisted_Interconnect]]
 [[iNEST]]
 
 ## Sources

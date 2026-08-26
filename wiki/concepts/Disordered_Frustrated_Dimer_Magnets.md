@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[ComplexValuedSNN]]
 [[ComputeRelocationOverhead]]
+[[DualSide_Routing_Layer]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonHermitian_Topology]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Baseline_Draft_Status]]
 [[BioInspiredLearningRule]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

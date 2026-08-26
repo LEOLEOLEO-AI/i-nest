@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DelayCodedWorkingMemory]]
+[[EventDrivenInference]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

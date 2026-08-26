@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Critical_Region_Extension]]
 [[ErrorAmplificationLimits]]
 [[Interconnect_Routing]]
 [[LatencyGradientDescent]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[Reconfigurable_Neural_Topology]]
 [[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

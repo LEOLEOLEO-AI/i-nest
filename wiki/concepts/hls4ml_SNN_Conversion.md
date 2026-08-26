@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
+[[OpenSource_Neuromorphic_Framework]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[ClosedLoopNeuromorphicControl]]
 [[Neuromorphic_Computing]]
+[[NoiseInjectionLearning]]
 [[TCC]]
 [[iNEST]]
 [[temporal computing paradigm]]

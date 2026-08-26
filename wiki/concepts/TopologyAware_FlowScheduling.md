@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
 [[EdgeIoTEnergyAwareness]]
+[[EnergyLandscape_Regularization]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

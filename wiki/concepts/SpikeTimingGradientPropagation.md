@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[ErrorAmplificationLimits]]
+[[EventCameraPoseInput]]
 [[Event_Driven_Architecture]]
 [[LatencyGradientDescent]]
 [[MembranePotentialModulation]]

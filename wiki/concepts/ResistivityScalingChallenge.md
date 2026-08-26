@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeMetalInterconnects]]
 [[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
+[[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]

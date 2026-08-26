@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
 [[BurstGatedRouting]]
+[[ChannelCountScaling]]
 [[ChannelEventSparsity]]
 [[ChipletTopologyAwareness]]
 [[Chiplet_Heterogeneous_Integration]]

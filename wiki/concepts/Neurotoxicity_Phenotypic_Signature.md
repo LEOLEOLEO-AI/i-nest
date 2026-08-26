@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
 [[Critical_Exponent_Scaling]]
+[[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Integration]]

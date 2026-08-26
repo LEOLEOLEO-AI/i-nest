@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousTimeSNN]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsemble]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]

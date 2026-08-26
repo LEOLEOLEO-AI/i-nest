@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CorticalTypeDiversity]]
+[[CytoarchitectonicAxis]]
 [[DataDrivenCellularAxis]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]

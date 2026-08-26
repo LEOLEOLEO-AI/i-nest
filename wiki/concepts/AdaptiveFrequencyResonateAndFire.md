@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[BayesianDomainEvolution]]
 [[Criticality]]
+[[Cytokine_Feedback_Loops]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]
 [[MultiModel_Adapter_Architecture]]

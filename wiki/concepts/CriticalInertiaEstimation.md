@@ -29,12 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[ANN动力学]]
+[[AutonomousServiceNegotiation]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Security_Architecture]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[EdgeAI_Market_Consolidation_Driver]]
 [[Energy_Efficient_Control]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[complex system]]
 [[神经网络]]
 
 ## Sources

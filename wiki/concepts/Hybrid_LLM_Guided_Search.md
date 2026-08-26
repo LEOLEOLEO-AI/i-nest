@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirOptimization]]
 [[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]
 [[InNetwork_Topological_Reservoir]]

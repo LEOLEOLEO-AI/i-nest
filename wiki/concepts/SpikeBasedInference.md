@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
+[[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[iNEST_Neuromorphic_Integration]]
 [[temporal coding]]
 
 ## Sources

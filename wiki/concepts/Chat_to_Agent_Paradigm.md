@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
+[[DelayTolerantNetworkUAV]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

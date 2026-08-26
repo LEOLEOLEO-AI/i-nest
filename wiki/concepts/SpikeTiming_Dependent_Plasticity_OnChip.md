@@ -31,7 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

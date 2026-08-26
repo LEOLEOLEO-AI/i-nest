@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[CST_SynergisticCoordination]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Entanglement_Teleportation_Locality]]
@@ -41,12 +41,12 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[SpatiotemporalCooperativeIntelligence]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Manifold_Interconnect]]
+[[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

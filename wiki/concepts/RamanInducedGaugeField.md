@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[CellEmergence]]
 [[ComplexValuedSNN]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[EdgeIoTEnergyAwareness]]
@@ -35,8 +34,10 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Order_Flexibility_Duality]]
+[[Quantum_Spin_Glass]]
 [[Resilient_Satellite_Mesh]]
 [[SNN]]
 [[STDP_Plasticity]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalFeatureInvariance]]
 [[ViewDependentAppearance]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
+[[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]

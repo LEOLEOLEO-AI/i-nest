@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

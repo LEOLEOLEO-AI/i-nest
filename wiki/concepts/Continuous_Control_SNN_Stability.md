@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BiSpikCLM]]
 [[BulletTrainScheduling]]
 [[Criticality]]
+[[DiscreteContinuous_Unification]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

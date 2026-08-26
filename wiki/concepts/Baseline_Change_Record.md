@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]
 [[FPGA_Accelerated_SNN]]
+[[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[InkjetPrintedElectrochemicalSensors]]
 [[Intelligence_Emergence]]

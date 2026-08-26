@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[Activity_Energy_Tradeoff]]
 [[Autonomous_Spiking_Dynamics]]
+[[Avoided_Criticality]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

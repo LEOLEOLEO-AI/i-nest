@@ -34,14 +34,15 @@ Auto-extracted concept from raw material compilation.
 [[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
-[[Complex_System]]
 [[Complex_System_Theory]]
+[[CriticalityAwareTopology]]
 [[Criticality]]
 [[Evolutionary_Structure_Computability]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

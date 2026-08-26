@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[GeneralIntelligenceSubstrate]]
+[[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

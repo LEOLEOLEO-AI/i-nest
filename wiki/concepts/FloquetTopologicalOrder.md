@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[BackpropagationFreeLearning]]
 [[BeyondPTSymmetry]]
 [[CellEmergenceMechanism]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[ElectromigrationReliability]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

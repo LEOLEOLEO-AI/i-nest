@@ -28,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
 [[Combinatorial_Optimization_Readout]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -40,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[ThermalNoiseHarnessing]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

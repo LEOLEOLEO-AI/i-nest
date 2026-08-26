@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[CirculateFiringNeuron]]
 [[CollectiveDynamics]]
+[[CriticalStateInformationMaximization]]
 [[CurrentInjectionSNN]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]

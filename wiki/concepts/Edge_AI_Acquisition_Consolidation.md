@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[CircadianGateModulation]]
 [[CommunicationPrimitiveTopologyCoupling]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DTGA]]
@@ -45,6 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalDynamicsModeling]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

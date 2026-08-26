@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DendriticTaskPartitioning]]
 [[DistributedModelCompression]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSynchronization]]
+[[Knowledge_Graph_Navigation]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[complex system]]
 [[神经网络]]
 
 ## Sources

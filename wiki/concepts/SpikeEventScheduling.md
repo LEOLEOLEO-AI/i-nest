@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
+[[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]

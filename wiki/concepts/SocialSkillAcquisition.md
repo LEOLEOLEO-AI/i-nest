@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Driven_Architecture_Search]]
 [[AddressRedundancyElimination]]
 [[CollectiveDynamics]]
 [[Constructed_Reality_Model]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[VisualPlaceRecognition]]
 [[VonEconomoNeuron]]
 [[iNEST]]
 [[soc]]

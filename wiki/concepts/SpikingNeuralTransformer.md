@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
+[[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

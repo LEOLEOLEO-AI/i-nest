@@ -23,15 +23,18 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[ClocklessReconfigurableChip]]
 [[Contested_Prior_Resolution]]
+[[CorticalWaveRouting]]
 [[ElasticInferenceScheduling]]
 [[GraphGeometryAlignment]]
 [[GroupSynchronization]]
 [[Loihi2_SpikeEncoding]]
 [[Memristive_STDP]]
+[[SDI_Bond]]
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

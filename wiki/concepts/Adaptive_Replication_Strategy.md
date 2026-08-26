@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Course_Based_FPGA_Prototyping]]
+[[CriticalityConstrainedPruning]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

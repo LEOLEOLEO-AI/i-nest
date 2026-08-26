@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkPowerRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]
 [[Receptron_Unit]]

@@ -29,10 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[Bioavailability_Enhancement]]
 [[CST_SynergisticCoordination]]
 [[Chain_of_Thought_Reasoning]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ConnectomicDevelopmentalTrajectory]]
 [[CrossInstitutionalNetwork]]
+[[CrystalPalace_Program]]
 [[DARPA_ProjectManager_Model]]
 [[EquivariantGraphLayers]]
 [[Free_Energy_Principle_Network]]
@@ -43,10 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

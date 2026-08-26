@@ -16,12 +16,12 @@ SDI, STDP, TCC, iNEST, 互连, 拓扑
 
 ## Related Concepts
 
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 [[tcc]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

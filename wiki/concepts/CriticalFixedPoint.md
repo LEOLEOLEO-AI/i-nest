@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]

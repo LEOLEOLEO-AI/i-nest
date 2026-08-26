@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- neuromorphic spiking (merged 2026-08-27)
+
+
+## Related Work
+
+[[AdaptiveSTDP]]
+[[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredSequenceLearning]]
+[[Neuromorphic_Computing]]
+[[STDP_Plasticity]]
+[[Spiking neural network]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
+[[TCC]]
+[[iNEST]]

@@ -31,8 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[complex system]]
 [[temporalComplexity]]
 [[神经网络]]
 

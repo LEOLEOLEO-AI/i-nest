@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Adaptive_Replication_Strategy]]
+[[AgenticServiceOrchestration]]
 [[Algorithmic_Warfare]]
 [[Criticality]]
 [[Self_Organized_Criticality]]

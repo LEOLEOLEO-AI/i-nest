@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[AnalogStateRetention]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Distributed_Spike_Communication]]
@@ -36,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
@@ -45,7 +45,9 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
+[[忆阻器]]
 [[神经网络]]
 
 ## Sources

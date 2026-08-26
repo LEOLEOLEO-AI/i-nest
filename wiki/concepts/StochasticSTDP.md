@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
@@ -31,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

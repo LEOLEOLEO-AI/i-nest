@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[AttractorConvergenceAnalysis]]
 [[Bayesian_Decoding]]
+[[Bipartite_Interconnect_Fabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Heterogeneous_Integration]]

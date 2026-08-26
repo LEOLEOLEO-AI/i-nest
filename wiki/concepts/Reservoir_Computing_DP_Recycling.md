@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
+[[CrossDomain_Synthesis]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[NCA_Reservoir]]

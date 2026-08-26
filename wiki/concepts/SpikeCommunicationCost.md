@@ -24,9 +24,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[ComplexValuedSNN]]
 [[Environmental_Capability_Context]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -35,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

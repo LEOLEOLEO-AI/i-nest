@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
+[[DelayParameterSpaceDecomposition]]
 [[GraphBasedSemanticRouting]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Interconnect_Routing]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[RamanInducedGaugeField]]
 [[Recursive_Metric_Contraction]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[fractal_Scaling]]
 

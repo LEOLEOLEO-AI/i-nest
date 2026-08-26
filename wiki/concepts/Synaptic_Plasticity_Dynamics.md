@@ -25,13 +25,14 @@ Auto-extracted concept from raw material compilation.
 [[Independent_EdgeAI_Player_Endgame]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
+[[MesonSpectra]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

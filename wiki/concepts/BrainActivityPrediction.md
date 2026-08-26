@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Gut_Brain_Immune_Network]]
 [[Hardware_Accelerated_SNN]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Multifractal_Signatures]]

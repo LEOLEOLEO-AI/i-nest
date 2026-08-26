@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]

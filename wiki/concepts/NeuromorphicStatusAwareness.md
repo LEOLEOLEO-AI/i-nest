@@ -21,15 +21,16 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 [[spiking neural network]]
 

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
+[[CSI_Temporal_Encoding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

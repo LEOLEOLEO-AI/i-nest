@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[3D_Torus_6_Degree]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
 [[CST_SynergisticCoordination]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DistinctReentrantPhases]]
 [[EulaminateOverrepresentation]]
@@ -43,8 +43,10 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SelfHealing_Interconnect]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Topological_State_Encoding]]
+[[complex system]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[忆阻器]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]

@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AnomalousSpinTransport]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Temporal_Dynamics_Integration]]
 [[TwoTimescaleNeuroEvolution]]
+[[complex system]]
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]

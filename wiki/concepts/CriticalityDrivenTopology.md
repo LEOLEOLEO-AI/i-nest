@@ -37,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSNN_Accelerator]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

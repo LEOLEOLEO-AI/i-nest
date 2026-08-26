@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
+[[TileBasedRasterization]]
 [[iNEST]]
 [[temporalComplexity]]
 

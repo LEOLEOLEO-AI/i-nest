@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyResourceEfficiencyCoOptimization]]
 [[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
+[[FerroelectricCrossbarArray]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]

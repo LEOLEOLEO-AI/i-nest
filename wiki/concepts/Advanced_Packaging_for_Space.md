@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[AI_Faculty_Forum_2026]]
+[[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[chiplet packaging]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

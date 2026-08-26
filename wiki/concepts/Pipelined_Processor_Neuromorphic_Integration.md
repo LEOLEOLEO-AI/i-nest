@@ -21,11 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnomalousSpinTransport]]
+[[Brain_Connectome]]
+[[Connectome]]
 [[Connectome_Verification_Protocol]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Pipelined_Processor]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[branch prediction]]

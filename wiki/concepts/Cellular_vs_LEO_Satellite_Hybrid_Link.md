@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3D_Integration]]
+[[Active_Inference_Topology]]
 [[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticModeEvolution]]
 [[AdiabaticMultimodeBend]]

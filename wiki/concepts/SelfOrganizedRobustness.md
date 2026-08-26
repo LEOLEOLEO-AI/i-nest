@@ -33,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Nanoencapsulation_Stability_Bioavailability]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
@@ -41,9 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

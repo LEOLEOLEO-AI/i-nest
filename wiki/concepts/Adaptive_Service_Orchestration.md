@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FisherInformationMetric]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[In_Network_Neuromorphic_Compute]]
 [[Inference_Workload_Profiling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

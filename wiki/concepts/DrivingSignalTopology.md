@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Assisted_Energy_Optimization]]
 [[AdaptiveEntanglementManagement]]
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]
@@ -28,8 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[Complex_System_Theory]]
-[[CriticalityInNetworkComputing]]
 [[Criticality]]
+[[InNetworkComputing]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]

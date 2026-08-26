@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]
+[[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[PhotonicSynapticPlasticity]]

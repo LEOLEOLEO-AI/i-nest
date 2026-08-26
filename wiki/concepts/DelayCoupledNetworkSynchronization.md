@@ -31,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[Multifractal_Scaling_Behaviour]]
 [[Neuromorphic_Computing]]
 [[Parkinsonian_Neural_State_Detection]]
+[[SNN]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[fractal_Scaling]]
 

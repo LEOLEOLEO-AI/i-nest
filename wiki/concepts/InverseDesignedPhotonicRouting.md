@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[OpticalNeuralNetworkTopology]]
+[[PhaseAwareBisectionDemand]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SparseTemporalEncoding]]

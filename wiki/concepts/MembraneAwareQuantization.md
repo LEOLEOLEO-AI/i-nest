@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AddressRedundancyElimination]]
 [[Avoided_Criticality]]
+[[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[DirectSNNTraining]]

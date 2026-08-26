@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[CrystalPalace_Program]]
 [[ErrorSuppressedPipeline]]
+[[Loihi2_OnChip_Learning]]
 [[QuantumFluctuationDrivenTransport]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]

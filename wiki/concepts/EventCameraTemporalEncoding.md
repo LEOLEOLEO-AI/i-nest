@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCommunicationScheduling]]
 [[SpikePacketRouting]]
 [[Spiking_Neural_Network]]
+[[TemporalBatchSynchronization]]
 [[iNEST]]
 
 ## Sources

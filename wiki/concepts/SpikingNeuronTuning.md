@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[AlloyDisorderEngineering]]
 [[Avoided_Criticality]]
+[[Baseline_Change_Record]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

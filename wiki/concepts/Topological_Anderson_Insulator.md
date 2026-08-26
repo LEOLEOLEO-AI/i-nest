@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[AdiabaticModeEvolution]]
 [[AdjointWaveControl]]
+[[Critical_Region_Extension]]
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]
 [[LLMDrivenPathSelection]]

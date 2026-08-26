@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[ActiveInference]]
 [[CMOS_Memristor_Crossbar]]
+[[CrashHotspotForecasting]]
+[[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

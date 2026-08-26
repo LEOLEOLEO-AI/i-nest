@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MaterialGrowthFabricationFocus]]
 [[MemoryEfficientSimulation]]
 [[Network_Topology_Design]]
+[[NextNearestNeighborHopping]]
 [[OnDie_Fusion]]
 [[TCC]]
 [[advanced packaging]]

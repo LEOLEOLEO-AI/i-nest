@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[DTGA]]
 [[Distributed_Spike_Communication]]
+[[GradientFreeSNNTraining]]
 [[HodgkinHuxleyDynamics]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[新型计算]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经网络]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

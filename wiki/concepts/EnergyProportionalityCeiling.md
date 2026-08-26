@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Event_Driven_Architecture]]
 [[GradientBasedLearningLocalization]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]

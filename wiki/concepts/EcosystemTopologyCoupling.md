@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Ant_Swarm_Functional_Control]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[DendriticReservoirState]]

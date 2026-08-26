@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]

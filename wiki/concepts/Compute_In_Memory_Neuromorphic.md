@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[In_Network_Neuromorphic_Compute]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Signal_Folding]]

@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientSNN]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
+[[Neuromorphic_NoC_Routing]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]

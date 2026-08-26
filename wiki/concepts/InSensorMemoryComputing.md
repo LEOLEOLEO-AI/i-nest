@@ -39,9 +39,12 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopologyMapping]]
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[忆阻器]]
+[[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

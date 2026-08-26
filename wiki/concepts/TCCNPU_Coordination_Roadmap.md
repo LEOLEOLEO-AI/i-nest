@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[In_Package_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
+[[NeuromorphicStatusAwareness]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]

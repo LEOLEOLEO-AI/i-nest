@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Categorical_Closure_Criterion]]
 [[CriticalStateReservoir]]
+[[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Compute_Graph]]
 [[MemristiveReservoirBranchPrediction]]
 [[Nonlinear_Gain]]
+[[QuantumReservoirGeneralTheory]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[iNEST]]

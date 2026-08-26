@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[CorticalWaveRouting]]
 [[Interconnect_Routing]]
+[[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

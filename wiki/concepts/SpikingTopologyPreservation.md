@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]

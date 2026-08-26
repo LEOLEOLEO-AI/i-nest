@@ -32,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[DisturbancePropagationPath]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[Heterogeneous_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 

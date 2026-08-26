@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[ST_SNN]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Mamba_Block]]

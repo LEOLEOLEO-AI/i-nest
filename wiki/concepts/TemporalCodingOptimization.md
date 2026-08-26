@@ -27,11 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
+[[EventCameraPoseInput]]
 [[JunctionSignalIntegrity]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

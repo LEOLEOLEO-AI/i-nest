@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
 [[DailyResearchDigest]]
+[[DistributedIntelligence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

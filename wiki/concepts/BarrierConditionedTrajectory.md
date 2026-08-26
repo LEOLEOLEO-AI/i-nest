@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
-[[Branch_Prediction]]
 [[CellEmergence]]
 [[CrossLayer_SignalRouting]]
 [[Deep_Thermalisation]]
@@ -38,10 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[RandomOptimizationEnsemble]]
 [[RecurrentOscillatoryComputation]]
 [[Resilient_Satellite_Mesh]]
+[[SNN_NeuroprostheticPipeline]]
 [[SelfOrganization]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[branch prediction]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

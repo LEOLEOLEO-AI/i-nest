@@ -24,13 +24,14 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Spiking]]
-[[SNN_NeuroprostheticPipeline]]
+[[SNN]]
 [[SpikeBasedNeuralRadianceField]]
 [[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
+[[Spiking_Residual_Learning]]
 [[iNEST]]
+[[neuromorphic spiking]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[20W_Brain_Inspired_Planning]]
 [[AnomalousSpinTransport]]
+[[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[Connectome]]

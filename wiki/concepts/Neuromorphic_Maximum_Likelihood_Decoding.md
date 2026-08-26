@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
+[[ActiveInferenceGenerativeModel]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

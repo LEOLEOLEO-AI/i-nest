@@ -31,8 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[Synaptic_Plasticity]]
+[[TCC]]
 [[TCC_Neuromorphic_Integration]]
 
 ## Sources

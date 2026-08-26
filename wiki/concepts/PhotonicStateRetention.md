@@ -26,13 +26,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
+[[CST_MasterEquation]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
+[[Heterogeneous_Integration]]
 [[Independent_AI_Player_Endgame]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

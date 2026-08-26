@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BrainBodyResonance]]
 [[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]

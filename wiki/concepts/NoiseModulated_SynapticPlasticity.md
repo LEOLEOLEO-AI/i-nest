@@ -30,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Interconnect]]
-[[Neuromorphic_Spiking]]
+[[Neuromorphic_Selective_State_Space]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingAttentionComplexityReduction]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic spiking]]
 [[类脑芯片]]
 
 ## Sources

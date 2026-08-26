@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[DisorderedNetworkInterconnect]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

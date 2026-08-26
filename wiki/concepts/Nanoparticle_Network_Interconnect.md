@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
+[[StochasticMultiAgentRL]]
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]

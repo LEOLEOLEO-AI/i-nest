@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- complex system (merged 2026-08-27)
+
+
+## Related Work
+
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[11_SDI节点接口规范与化合键定义_dup]]
+[[1M1T1R_SynapticNeuron]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
+[[AIRA_NeuralArchSearch]]
+[[Complex_System_Theory]]
+[[Kinematic_Waves]]
+[[Spiking_Neural_Network]]
+[[TCC]]
+[[iNEST]]

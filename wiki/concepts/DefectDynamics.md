@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[BrainBodyResonance]]
@@ -27,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]
 [[Dendritic_In_Context_Learning]]
-[[DiscreteSTDPLearning]]
+[[DiscreteSTDP]]
 [[ExplainableEnergyAI]]
 [[Ferroelectric_Devices]]
 [[ITP_STDP]]

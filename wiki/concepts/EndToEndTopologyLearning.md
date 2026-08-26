@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[CST计量仪]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
@@ -35,12 +34,15 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing]]
-[[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[Spike_timing_dependent_plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[complex system]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

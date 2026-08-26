@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Amorphous_Amorphous_Transition]]
 [[BiSpikCLM]]
+[[CoDesigned_SNN]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

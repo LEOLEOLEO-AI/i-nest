@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CollectiveDynamics]]
 [[Complex_Network_Class_Brain_Computing]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FirstPrinciples_Derivation]]
@@ -35,9 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[complex system]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

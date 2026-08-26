@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[BigBrainCellularAxis]]
 [[Continual_Learning_Modularity]]
+[[DelayTolerantNetworkUAV]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]

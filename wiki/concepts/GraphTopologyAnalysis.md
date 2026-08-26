@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[ProprioceptiveFeatureExtraction]]
+[[Spatiotemporal_Prior_Encoding]]
 [[TCC]]
 [[advanced packaging]]
 

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[DARPA_Technology_Incubation]]
 [[Deep_Thermalisation]]
+[[EventDrivenTracking]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

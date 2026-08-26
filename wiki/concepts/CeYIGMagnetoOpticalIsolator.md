@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Cascading_Failure_Mitigation]]
 [[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CrossLayer_SignalRouting]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

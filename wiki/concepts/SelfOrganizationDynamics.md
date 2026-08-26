@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[BrainScaleTopologyExploitation]]
+[[ClinicalTranslationBridge]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CrossLayer_Feedback]]

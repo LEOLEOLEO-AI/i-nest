@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AlloyDisorderEngineering]]
 [[CST_Theory_V27_FINAL]]
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[TopologyCriticality]]
 [[neuromorphic computing]]
 
 ## Sources

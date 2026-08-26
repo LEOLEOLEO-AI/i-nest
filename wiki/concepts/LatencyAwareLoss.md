@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[Complex_System_Theory]]
+[[EntropyRegularizedSpikeLoss]]
 [[Hypergraph_Label_Noise]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

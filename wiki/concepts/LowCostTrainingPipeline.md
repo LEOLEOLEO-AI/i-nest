@@ -21,12 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
-[[Branch_Prediction]]
+[[AnalogInMemoryComputing]]
 [[Chiplet_Heterogeneous_Integration]]
 [[DARPA_ProjectManager_Model]]
 [[FractureMechanism]]
 [[GeneralizedReadoutMap]]
 [[Heterogeneous_Chiplet_Customization]]
+[[Heterogeneous_Integration]]
 [[InNetworkSignalRecovery]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[branch prediction]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

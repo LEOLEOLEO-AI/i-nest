@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
 [[CST_Spatiotemporal_Complexity]]
 [[ChipletWaferInterconnectScaling]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
 [[chiplet interconnect]]
+[[complex system]]
 [[temporalComplexity]]
 [[Γst_Revision]]
 

@@ -23,10 +23,10 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Computation]]
+[[AndersonTransition]]
 [[BitPrecisionAwareScheduling]]
 [[CST_SynergisticCoordination]]
 [[Complex_Network_Brain_Inspired_Computing]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ConnectomicDevelopmentalTrajectory]]
 [[CorticalWaveRouting]]
@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

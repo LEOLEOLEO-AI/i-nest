@@ -15,7 +15,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN动力学]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -39,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Reservoir_Computing]]
 [[Residual_Connection]]
-[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
@@ -56,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TemporalDynamicsModeling]]
 [[UniversalIntelligence_Emergence]]
+[[complex system]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[temporalComplexity]]

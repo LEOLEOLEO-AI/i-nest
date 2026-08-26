@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
 [[CrossDomain_Integration]]
 [[CrossMaterial_Integration]]

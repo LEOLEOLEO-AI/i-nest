@@ -32,15 +32,16 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]
 [[Reservoir_Computing]]
 [[SNN]]
+[[SNN_Conversion_Approximation_Bound]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,13 +27,15 @@ Auto-extracted concept from raw material compilation.
 [[Mott_Device_Array]]
 [[Neural_Network_Quantum_State_Transfer_Learning]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Nonlinear_Gain]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[STDP_iNEST_Memristive]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

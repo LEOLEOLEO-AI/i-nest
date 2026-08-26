@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CriticalityAwareTopology]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Generalized_Synchronization_Bond]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[WeightedPathInfluence]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalSparsityExploitation]]
 [[iNEST]]
 [[neuromorphic computing]]
 

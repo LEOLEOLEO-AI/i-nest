@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[SNN_NeuroprostheticPipeline]]
 [[SpikeBackpropagation]]
 [[SpikeBasedGradientDescent]]

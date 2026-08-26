@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AcademicDevelopmentCoCreation]]
 [[Analog_Encoding_Readout]]
+[[CMOS_Memristor_Crossbar]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[Mott_Device_Array]]

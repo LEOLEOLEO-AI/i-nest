@@ -22,8 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_SNN_WeightSpaceGap]]
 [[Alignment_Tax]]
+[[Avoided_Criticality]]
 [[BeyondVonNeumannArchitecture]]
 [[ChargeDomainAttention]]
+[[Criticality]]
 [[Criticality_of_Natural_Languages]]
 [[CrossDomain_Integration]]
 [[DualModeSNNConventionalInference]]

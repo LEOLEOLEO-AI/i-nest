@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CurrentInjectionSNN]]
 [[DARPA_ProjectManager_Model]]
 [[ElectronicPhotonicIntegratedCircuit]]
+[[InterFPGA_Spike_Routing]]
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

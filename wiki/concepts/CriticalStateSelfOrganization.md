@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AmoebaInspiredLocomotion]]
+[[AstrocyteInspiredModulation]]
+[[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SelfOrganization]]

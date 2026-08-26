@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[Crystallized_Neural_Manifolds]]
 [[DTGA]]
+[[Decoupling_Mechanism]]
 [[ExplosiveTransitionThreshold]]
 [[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]

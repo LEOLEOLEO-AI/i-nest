@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
 [[CrossDomain_Integration]]
 [[DARPA_ProjectManager_Model]]

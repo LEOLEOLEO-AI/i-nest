@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AmoebaInspiredLocomotion]]
 [[Contested_Priors_Mechanism]]
+[[ExactRateChaosTransition]]
+[[Interconnect_Routing]]
 [[MoE_Routing]]
 [[SNN]]
 [[STDP_Plasticity]]

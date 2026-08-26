@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveEntanglementManagement]]
 [[AdjointWaveControl]]
+[[DTGA]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[ByteDance_Ada_Chip]]
 [[ComputationEfficientDeepLearning]]
+[[Deep_Network_Architecture_Invariant]]
+[[EfficientDeepLearning]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

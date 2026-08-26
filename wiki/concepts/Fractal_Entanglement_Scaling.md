@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AllOpticalHebbianLearning]]
 [[AsymmetricCoupling]]
 [[Biodefense_Threat_Detection_Network]]
 [[Chiplet_Heterogeneous_Integration]]

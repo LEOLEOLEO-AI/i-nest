@@ -32,7 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[OpticalSynapticWeightUpdate]]
+[[SDI_Bond]]
 [[SDI_STDP]]
+[[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[iNEST]]
 
 ## Sources

@@ -24,15 +24,17 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BitPrecisionAwareScheduling]]
-[[Branch_Prediction]]
+[[BurstInterleaving]]
 [[CognitiveSupportTopology]]
 [[CollectiveConsensus]]
 [[CollectiveDynamics]]
 [[CriticalStateInformationMaximization]]
 [[CrossLayer_SignalRouting]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[branch prediction]]
 [[iNEST]]
 
 ## Sources

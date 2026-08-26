@@ -24,10 +24,10 @@ iNEST
 ## Related Concepts
 
 [[CST_Intelligence_Emergence]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[INEST]]
 [[Intelligence_Emergence]]
+[[complex system]]
 [[iNEST]]
 [[inest]]
 [[复杂网络]]

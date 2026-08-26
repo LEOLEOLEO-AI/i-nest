@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[DevelopmentalBrainTrajectory]]
 [[Emergent_Intelligence_Threshold]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

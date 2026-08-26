@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[PhotonicSynapticPlasticity]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

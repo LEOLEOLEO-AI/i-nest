@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]
 [[ErrorSuppressedPipeline]]
+[[Independent_EdgeAI_Player_Endgame]]
 [[Neuromorphic_Computing]]
 
 ## Sources

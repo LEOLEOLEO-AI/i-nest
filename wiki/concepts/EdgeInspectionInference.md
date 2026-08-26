@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Cross_Node_Event_Propagation]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTrajectoryEncoding]]
+[[Heterogeneous_Integration]]
 [[InNetworkRadarProcessing]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]

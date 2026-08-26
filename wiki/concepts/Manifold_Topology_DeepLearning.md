@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Attention_Residuals]]
 [[BackflowTransformation]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[EndToEndTopologyLearning]]
@@ -37,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

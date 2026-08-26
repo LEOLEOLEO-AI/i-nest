@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_CoordinationMechanism]]
 [[Causal_Emergence]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -35,10 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[CrossInstitutionalNetwork]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
+[[DendriticReservoirState]]
 [[Intelligence_Emergence]]
 [[ReadoutLayer]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

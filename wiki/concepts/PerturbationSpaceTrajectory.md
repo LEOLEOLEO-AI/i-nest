@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[DelayAwareSpikeEventDelivery]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficientSNN]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]

@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CXL_Deployment_Transition]]
 [[Causal_Emergence]]
+[[Causal_Emergence_Architecture]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[CommunicationPrimitiveTopologyCoupling]]
 [[Dynamic_Expert_Fusion]]
+[[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Memristive_Topology]]

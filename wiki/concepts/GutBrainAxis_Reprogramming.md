@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
+[[EnsembleSparsity]]
 [[Free_Energy_Topology_Mapping]]
 [[Gut_Brain_Immune_Network]]
 [[Intelligence_Emergence]]

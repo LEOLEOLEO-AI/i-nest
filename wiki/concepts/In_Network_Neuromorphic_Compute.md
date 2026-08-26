@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[BioPlausiblePredictiveCoding]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CoPackagedOptics]]
 [[CrossDomain_Integration]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

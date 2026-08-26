@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[TimeReversalInvariantTopologicalAlloy]]
+[[TopologicalDataCompression]]
 [[VectorFlowField]]
 [[adaptive path selection]]
 

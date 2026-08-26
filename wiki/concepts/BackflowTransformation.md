@@ -19,17 +19,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Brain_Connectome]]
 [[CST_MasterEquation]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Contested_Prior_Resolution]]
 [[EpidemicThreshold]]
 [[EventDrivenFunctionalConnectivity]]
-[[In_Network_Neuromorphic_Processing]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalChargeSuperposition]]
 [[UniversalIntelligence_Emergence]]
+[[complex system]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
 [[neural quantum states]]

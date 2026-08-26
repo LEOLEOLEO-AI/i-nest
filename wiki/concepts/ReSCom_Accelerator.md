@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_Spiking_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

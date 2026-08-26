@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[EventDrivenModularArchitecture]]
 [[EventDrivenSynchronization]]
+[[EventDrivenWeightUpdate]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[Free_Energy_Principle_Network]]

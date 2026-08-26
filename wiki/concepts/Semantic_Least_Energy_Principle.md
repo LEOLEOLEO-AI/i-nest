@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
 [[ContinuousGameOfLife]]
+[[CrossDomain_Abstraction]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]

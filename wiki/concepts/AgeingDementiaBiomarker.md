@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[Amorphous_Amorphous_Transition]]
+[[AnomalousSpinTransport]]
 [[AutonomousAdaptation]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]

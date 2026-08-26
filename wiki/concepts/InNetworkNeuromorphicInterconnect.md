@@ -21,9 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnomalousSpinTransport]]
-[[Branch_Prediction]]
 [[CSI_Temporal_Encoding]]
 [[CollectiveStateResilience]]
+[[ConsciousnessEngineeringLoop]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_Manufacturing_Strategy]]
@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[branch prediction]]
 [[neuromorphic computing]]
 
 ## Sources

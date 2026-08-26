@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[ActionPrototypeClustering]]
 [[BrainInspiredArchitecture]]
 [[CIMWeightUpdateAwareness]]
 [[CollectiveSpikingDynamics]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenPlasticity]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

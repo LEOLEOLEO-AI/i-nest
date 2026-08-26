@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[LossSpikePhenomenon]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

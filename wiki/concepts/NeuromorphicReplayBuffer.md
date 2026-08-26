@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[Cross_Node_Event_Propagation]]
 [[EventDrivenPlasticity]]
+[[MeasurementInducedPhaseTransition]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[catastrophic forgetting]]
 [[iNEST]]
 

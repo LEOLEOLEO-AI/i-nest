@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Cognitive_Relapse_Architecture]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[DRBE_MVP_Mainchain]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]
 [[Evolutionary_Computability]]
+[[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
@@ -52,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
-[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
@@ -64,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAware_Renormalization]]
 [[Topology_Constrained_Stability_Analysis]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

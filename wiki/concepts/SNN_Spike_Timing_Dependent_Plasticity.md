@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[FatigueSTDP]]
+[[Layered_Attractive_Hubbard_Model]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[SNN]]

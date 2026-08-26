@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
 [[ComputeRelocationOverhead]]
+[[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]

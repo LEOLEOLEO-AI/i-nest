@@ -28,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CytoarchitectonicAxis]]
 [[Dynamic_Expert_Fusion]]
@@ -36,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGABasedNeuromorphic]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[MachineLearningNanomaterialDiscovery]]
 [[Memristive_Interconnect]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

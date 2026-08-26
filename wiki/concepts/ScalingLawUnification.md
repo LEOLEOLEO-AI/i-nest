@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[Advanced_Packaging_Route]]
 [[Alignment_Tax]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Fabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]

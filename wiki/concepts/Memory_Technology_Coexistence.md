@@ -31,9 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[Analog_InMemory_Processing]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[DistinctReentrantPhases]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[QuantumReservoirMemoryCapacity]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[UltraCompactOpticalComputing]]
 [[advanced packaging]]
+[[complex system]]
 [[涌现]]
 [[神经网络]]
 

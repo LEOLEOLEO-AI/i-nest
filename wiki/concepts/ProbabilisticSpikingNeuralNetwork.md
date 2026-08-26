@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[CollectiveDynamics]]
 [[ErrorAmplificationLimits]]
+[[LatencyGradientDescent]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

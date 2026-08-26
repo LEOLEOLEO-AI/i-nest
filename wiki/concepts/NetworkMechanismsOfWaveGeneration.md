@@ -34,8 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CoexistenceRegime]]
 [[CommunicationTopologyMismatch]]
-[[Complex_System]]
 [[Complex_System_Theory]]
+[[Encapsulation_Topology]]
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]
 [[Network_Topology_Design]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

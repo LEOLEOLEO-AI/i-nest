@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[FPGA_SNN_Inference]]
 [[In_Network_Neuromorphic]]
+[[MarginalContributionFitness]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

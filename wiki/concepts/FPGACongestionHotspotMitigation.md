@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[QuarantineCostTradeoff]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TSVEncapsulationStress]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

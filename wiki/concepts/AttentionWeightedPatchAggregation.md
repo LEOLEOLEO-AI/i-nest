@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AgentReputationLedger]]
+[[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
 [[ComponentLevelPackaging]]
 [[DataMovementMinimization]]

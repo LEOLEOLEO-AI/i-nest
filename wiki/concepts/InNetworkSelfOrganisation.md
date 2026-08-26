@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Active_Inference_Topology]]
 [[AdsorptionBiosorptionHybrid]]
 [[AllOpticalHebbianLearning]]
 [[AsymmetricCoupling]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[CompactLocalizedStates]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[catastrophic forgetting]]

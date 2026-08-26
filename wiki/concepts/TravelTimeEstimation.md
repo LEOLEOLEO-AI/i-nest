@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[BinaryCombinatorialOptimization]]
 [[Interconnect_Routing]]
+[[InterpolationKernel]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

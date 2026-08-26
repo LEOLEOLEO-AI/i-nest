@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Coefficient]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

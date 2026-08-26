@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Griffiths phase]]
 [[Network_Topology_Design]]
+[[NeuromorphicStatusAwareness]]
 [[TCC]]
 [[topological quantum error correction]]
 

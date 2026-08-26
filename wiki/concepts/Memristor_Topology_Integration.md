@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Memristor_Topology]]
 [[Network_Topology_Design]]
+[[SDSoW]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]

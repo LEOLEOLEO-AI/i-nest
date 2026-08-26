@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[ApplicationScenarioReconstruction]]
 [[AstrocyteInspiredRepair]]
 [[AtomicVaporNonlinearity]]
+[[Complex_System_Theory]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 
 ## Sources

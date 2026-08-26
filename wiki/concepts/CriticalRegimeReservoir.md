@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MassConservationBias]]
 [[MassConservationInductiveBias]]
 [[MonitoredQuantumReservoir]]
+[[Monitored_Quantum_Circuits]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[criticality]]
 [[iNEST]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 [[scaling laws]]
 

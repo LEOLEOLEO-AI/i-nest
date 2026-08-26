@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Forging_Pipeline]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[DTGA]]
+[[Heterogeneous_Integration]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

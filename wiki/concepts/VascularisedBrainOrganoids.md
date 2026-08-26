@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnalogDomainCompression]]
+[[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Avalanche_Dynamics]]
 [[BigBrainCellularAxis]]
@@ -33,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuronalAvalanche]]
 [[Neuronal_Avalanche_Dynamics]]
-[[NonEquilibriumPhaseTransition]]
+[[NonEquilibriumPhase]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]

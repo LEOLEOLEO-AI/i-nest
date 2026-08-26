@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
+[[MeasurementInducedRouting]]
 [[Network_Topology_Design]]
 [[TCC]]
 

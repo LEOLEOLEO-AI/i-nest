@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[FrozenRateOperator]]
+[[Gut_Brain_Immune_Network]]
 [[InNetworkAgentRewiring]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Integration]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
+[[FormalToolchain]]
 [[Heterogeneous_Integration]]
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]

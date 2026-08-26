@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect_Aware_Placement]]
 [[Chiplet_NoC_Interconnect]]
+[[Chiplet_Packaging]]
 [[Chiplet_Packaging_Topology]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[BioInspiredInterceptionTask]]
 [[BranchingRatio]]
 [[Criticality]]
 [[Neuromorphic_Computing]]

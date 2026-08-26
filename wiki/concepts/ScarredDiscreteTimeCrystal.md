@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
+[[Adaptive_Service_Reconfiguration]]
 [[Network_Topology_Design]]
 [[TCC]]
 

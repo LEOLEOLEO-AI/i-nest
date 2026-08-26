@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActivityAvalanche]]
 [[Criticality]]
 [[EEG_Criticality]]
 [[Hardware_Accelerated_SNN]]

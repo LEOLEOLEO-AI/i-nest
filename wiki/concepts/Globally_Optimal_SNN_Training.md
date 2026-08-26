@@ -29,9 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_computing_architecture]]
 [[Reservoir_Computing]]
 [[SNN]]
+[[SNN_Conversion_Approximation_Bound]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network]]
 [[TemporalContrastEncoding]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveFrequencyResonateFire]]
+[[AgenticServiceOrchestration]]
 [[Automated_Reward_Shaping]]
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]

@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[ComplexTopologicalStructures]]
 [[CongestionAwareNoCPlacement]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]

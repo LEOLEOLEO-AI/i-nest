@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Decoupling_Mechanism]]
@@ -37,12 +36,14 @@ Auto-extracted concept from raw material compilation.
 [[EventTriggeredDistributedControl]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoCPlacementRoutingCoDesign]]
 [[Recursive_Metric_Contraction]]
 [[TCC]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

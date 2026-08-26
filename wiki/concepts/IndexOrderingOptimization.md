@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AlternativeMetalInterconnects]]
 [[AnomalousSpinTransport]]
+[[BigBrainCellularAxis]]
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]

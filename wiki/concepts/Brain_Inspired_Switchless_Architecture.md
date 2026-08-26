@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]
 [[FrozenRateOperator]]
+[[InNetworkNeuromorphicComms]]
 [[InNetwork_RL_Control]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

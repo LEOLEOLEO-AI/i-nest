@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[ComplexTopologicalStructures]]
 [[Free_Energy_Principle_Network]]
+[[Free_Energy_Topology_Mapping]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

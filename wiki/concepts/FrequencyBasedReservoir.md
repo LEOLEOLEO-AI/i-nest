@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
+[[CircadianGateModulation]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]

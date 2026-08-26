@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[AutonomousAdaptation]]
+[[DynamicServiceComposition]]
 [[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

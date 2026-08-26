@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumKernelMethods]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ScaleFreeNetwork]]
+[[SwarmGradientRouting]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

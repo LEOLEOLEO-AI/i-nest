@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[ComputeRelocationOverhead]]
 [[DataMovementMinimization]]
+[[Die_to_Die_Protocol]]
 [[DualSided_3D_Integration]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]

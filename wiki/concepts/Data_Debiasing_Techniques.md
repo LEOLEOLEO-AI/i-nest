@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Port_Hamiltonian_System]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[TopologicalAndersonChernInsulator]]

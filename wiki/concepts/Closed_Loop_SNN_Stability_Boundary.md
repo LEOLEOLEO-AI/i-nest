@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_ConversionError]]
 [[ANN_SNN_WeightSpaceGap]]
 [[CrashHotspotForecasting]]
+[[DivergentHigherAreaRanking]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

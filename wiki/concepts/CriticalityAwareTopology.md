@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[Evolutionary_Structure_Computability]]
 [[Generalized_Synchronization_Bond]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]

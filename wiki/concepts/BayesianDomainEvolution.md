@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
+[[AdaptiveFrequencyResonateFire]]
 [[AdaptiveSTDP]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

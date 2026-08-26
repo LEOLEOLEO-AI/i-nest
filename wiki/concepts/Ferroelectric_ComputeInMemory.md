@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[InMateriaComputing]]
 [[In_Memory_Computing]]
+[[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]

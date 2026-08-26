@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveBitPrecisionExploration]]
+[[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveLocalLearning]]
 [[AdsorptionBiosorptionHybrid]]
 [[Alignment_Tax]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientSNN]]
+[[EventBasedMotionDeblurring]]
 [[EventBasedNeuralDecoding]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GPU_Cluster_SNN_Architecture]]

@@ -30,9 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoarseGraining]]
 [[CST_Complexity_Metric]]
 [[CST_Spatiotemporal_Complexity]]
+[[CST_Triple_Proof]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[complex system]]
 [[temporalComplexity]]
 [[神经网络]]
 

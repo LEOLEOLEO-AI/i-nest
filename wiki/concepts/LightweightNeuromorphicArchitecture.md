@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveGraphDiffusion]]
+[[Adaptive_Service_Orchestration]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Analog_InMemory_Processing]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[HybridResistiveMemoryCIM]]
+[[LightweightNeuromorphic]]
 [[Long_Range_Interactions]]
 [[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]

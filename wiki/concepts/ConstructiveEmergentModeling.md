@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[Cognitive_Relapse_Decoupling]]
 [[Core_Spacetime_Tensor]]
+[[Emergent_Intelligence_Roadmap]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]

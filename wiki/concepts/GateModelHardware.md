@@ -27,12 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[FullDimensionalDefinableInterconnect]]
 [[FunctionalHardwareComposition]]
+[[Heterogeneous_Integration]]
 [[HypergraphRumorPropagation]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
+[[Surface_Phase_Transition]]
 [[TCC]]
 
 ## Sources

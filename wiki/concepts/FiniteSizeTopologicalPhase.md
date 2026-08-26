@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[EpidemicThreshold]]
@@ -36,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonreciprocity_Threshold]]
 [[OptimalRepresentation]]
 [[RamanInducedGaugeField]]
+[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]
 [[STDP_Plasticity]]
 [[STDP_Topology_Integration]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyInducedCriticality]]
 [[UniversalIntelligence_Emergence]]
 [[ViewDependentAppearance]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

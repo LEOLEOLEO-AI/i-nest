@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Technology_Incubation]]
 [[DisorderedNetworkInterconnect]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficiencyAI]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Material_Circularity]]

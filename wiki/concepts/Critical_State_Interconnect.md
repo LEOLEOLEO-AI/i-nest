@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
+[[AgenticServiceOrchestration]]
 [[AnalogDomainCompression]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[AvalancheBranchingRatio]]

@@ -22,16 +22,18 @@ Auto-extracted concept from raw material compilation.
 
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
+[[MoE_Routing]]
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
-[[Neuromorphic_Spiking]]
 [[NoiseModulated_SynapticPlasticity]]
 [[Spiking_Mixture_of_Experts]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic spiking]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

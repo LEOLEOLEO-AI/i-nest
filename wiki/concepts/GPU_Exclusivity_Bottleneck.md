@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Chiplet_Integration]]
+[[3DHI_Interconnect]]
 [[3DHI_Stacking]]
 [[Advanced_Packaging_for_Space]]
 [[CXL_Deployment_Transition]]

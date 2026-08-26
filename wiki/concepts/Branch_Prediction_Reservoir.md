@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
-[[Branch_Prediction]]
 [[CommunicationAwareComputeRelocation]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
@@ -43,8 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
+[[Spin_Glass_Order_Parameter]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[branch prediction]]
 [[pipelined processor]]
 [[reservoir computing]]
 

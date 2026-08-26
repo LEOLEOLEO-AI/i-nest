@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
 [[InterfaceCentricTopology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -35,7 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_TCC_Integration]]
 [[SelfOrganization]]
 [[TCC]]
-[[iNEST_Wafer]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

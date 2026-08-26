@@ -16,7 +16,7 @@ SDI, iNEST
 
 ## Related Concepts
 
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[SDI_Bond]]
+[[complex system]]
 [[iNEST]]

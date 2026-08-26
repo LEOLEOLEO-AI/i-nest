@@ -39,11 +39,12 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
+[[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TopologyDrivenDynamics]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

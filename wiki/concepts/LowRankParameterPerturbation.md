@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActiveDendriteSNN]]
 [[Closed_Loop_SNN_Stability_Boundary]]
+[[CrashHotspotForecasting]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]

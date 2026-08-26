@@ -30,8 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_SplatPrimitive]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
+[[HeavyTailedWaitingTimes]]
 [[HypergraphNeuralNetwork]]
 [[Intelligence_Emergence]]
 [[NetworkMechanismsOfWaveGeneration]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalComplexityReduction]]
 [[TopologicalFeatureEmbedding]]
+[[complex system]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

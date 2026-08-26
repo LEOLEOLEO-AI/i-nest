@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[DiscreteSTDP]]
+[[EventCameraPoseInput]]
 [[Event_Driven_Architecture]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]

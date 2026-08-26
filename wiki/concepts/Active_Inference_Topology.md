@@ -28,9 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[DTGA]]
 [[FunctionalInterfaceBlocks]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[ReEntrantMultifractalization]]
 [[TCC]]
 [[iNEST]]
 

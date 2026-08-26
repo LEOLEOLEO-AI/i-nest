@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[Core_Spacetime_Tensor]]
@@ -40,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
@@ -56,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
-[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
@@ -67,8 +66,8 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemporalComplexity]]
-[[TemporalComplexity_Tc]]
 [[Topology_Interconnect]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

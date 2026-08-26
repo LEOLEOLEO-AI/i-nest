@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[ContinuousTimeSNN]]
 [[EnergyEfficientRestoration]]
+[[EventDrivenInference]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

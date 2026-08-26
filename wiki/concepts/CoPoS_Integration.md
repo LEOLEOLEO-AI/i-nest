@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
 [[AnalogDomainCompression]]
 [[Architectural_Conditioning]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[Topology_Encapsulation]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[temporalComplexity]]

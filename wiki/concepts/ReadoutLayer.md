@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CrystalPalace_Program]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousnessEngineeringLoop]]
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]
+[[EventCameraTemporalEncoding]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]

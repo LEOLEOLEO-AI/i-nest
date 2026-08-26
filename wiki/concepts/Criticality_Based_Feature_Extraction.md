@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDN_Neuromorphic_Interface]]
+[[SNN]]
 [[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SparseActivationPattern]]

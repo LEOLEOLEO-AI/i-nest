@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
+[[Contested_Prior_Resolution]]
 [[Continual_Learning_Topology]]
 [[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]

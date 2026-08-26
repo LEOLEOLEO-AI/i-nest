@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveArchitecture]]
+[[AgenticServiceOrchestration]]
 [[AnalogDomainCompression]]
 [[Anomaly_Induced_Quantum_Criticality]]
 [[BioInspired_Interception_Control]]

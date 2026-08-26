@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSpikePerturbation]]
 [[Agent_Interaction_Sequencing]]
 [[AvalancheBranchingRatio]]
+[[Avoided_Criticality]]
 [[BranchingRatio]]
 [[Criticality]]
 [[Neuromorphic_Computing]]

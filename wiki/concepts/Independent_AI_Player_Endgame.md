@@ -30,17 +30,19 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Decoupled_Priors]]
+[[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[PhotonicStateRetention]]
 [[Selection_Theorems]]
 [[SuperlinearGain]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Criticality]]
 [[Criticality_Based_Feature_Extraction]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DynamicTokenSparsity]]

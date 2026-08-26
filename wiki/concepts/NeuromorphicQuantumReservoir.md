@@ -30,8 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Stochastic_LIF_Inference]]
+[[ThermalNoiseHarnessing]]
 [[iNEST]]
 [[neuromorphic spiking]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

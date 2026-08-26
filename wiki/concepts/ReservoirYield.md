@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[AdversarialResilience]]
 [[Analog_Encoding_Readout]]
+[[CMOS_Memristor_Crossbar]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

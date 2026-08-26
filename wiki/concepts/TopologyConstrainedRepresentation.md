@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Core_Spacetime_Tensor]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

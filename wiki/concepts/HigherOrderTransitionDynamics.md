@@ -31,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PhotoInducedCurrent]]
 [[Reservoir_Computing]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

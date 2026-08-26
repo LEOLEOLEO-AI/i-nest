@@ -19,14 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
-[[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[complex system]]
 [[criticality]]
 [[iNEST]]
 [[quantum criticality]]

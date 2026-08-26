@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

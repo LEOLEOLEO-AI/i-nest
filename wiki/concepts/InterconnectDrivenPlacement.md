@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[Core_Spacetime_Tensor]]
 [[DataDrivenCellularAxis]]
+[[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Intelligence_Verifiability]]
 [[GutBrainAxis_Reprogramming]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
+[[AgenticServiceOrchestration]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
 [[Anomaly_Induced_Quantum_Criticality]]

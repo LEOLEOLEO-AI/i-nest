@@ -29,8 +29,10 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Hierarchical_Interconnect]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
+[[Memristor_Synapse]]
 [[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
 [[Package_Level_Topology]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Translation_Invariant_Closure]]
 [[WaferLevel_Packaging_Topology]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

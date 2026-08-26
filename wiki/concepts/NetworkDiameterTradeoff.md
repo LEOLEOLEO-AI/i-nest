@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[NoC_SDI_Integration]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

@@ -22,14 +22,16 @@ Auto-extracted concept from raw material compilation.
 
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
-[[Bipartite_Interconnect_Design]]
+[[Bipartite_Interconnect]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[DirectConnect_Topology]]
 [[FreeFermionTopologicalInvariant]]
 [[InSitu_Compute]]
 [[Interconnect_Routing]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
 

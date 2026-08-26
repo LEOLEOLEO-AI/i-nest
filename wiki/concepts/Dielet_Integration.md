@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

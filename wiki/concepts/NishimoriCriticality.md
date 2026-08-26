@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AdaptiveEntanglementManagement]]
 [[AgenticServiceManifesto]]
+[[AgenticServiceOrchestration]]
 [[AnalogDomainCompression]]
 [[Anomaly_Mediated_Quantum_Criticality]]
 [[ArchitecturalCondition]]

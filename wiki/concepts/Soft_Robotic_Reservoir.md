@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[Contested_Priors_Mechanism]]
 [[Free_Energy_Topology_Mapping]]
+[[MagneticMetamaterialReservoir]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[QuantumGateSynthesis]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaosComputation]]
+[[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

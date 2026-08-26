@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Enabled_Battlefield_Autonomy]]
+[[AlloyDisorderEngineering]]
 [[DTGA]]
 [[Emergent_Topology_Adaptation]]
 [[ExplosiveTransitionThreshold]]

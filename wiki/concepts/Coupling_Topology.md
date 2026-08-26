@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Compact_Boson_Dynamics]]
 [[Crystallized_Embedding_Reservoir]]
+[[DataDrivenCytoarchitectonicAxis]]
 [[ErrorSuppressedPipeline]]
 [[HigherOrderTransitionKernel]]
 [[Network_Topology_Design]]

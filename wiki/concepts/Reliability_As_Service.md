@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AmoebaInspiredLocomotion]]
 [[Contested_Priors_Mechanism]]
+[[CriticalityDrivenStateTransition]]
 [[EnsembleCreditAssignment]]
 [[ExplainableEnergyAI]]
 [[Interconnect_Routing]]

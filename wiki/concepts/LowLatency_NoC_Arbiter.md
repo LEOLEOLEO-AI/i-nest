@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[FlagOS_2_0]]
 [[GPU_Hegemony_Disruption]]
+[[Inference_Workload_Profiling]]
 [[Network_on_Chip]]
 [[TCC]]
 

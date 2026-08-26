@@ -40,12 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
+[[SDI_Review_Process]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[Textbook_Paradigm_Definition]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[iNEST_Topology]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

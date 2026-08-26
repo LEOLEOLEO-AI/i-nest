@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[getnote_2026-06-15_能量函数驱动神经网络设计]]
+[[getnote_2026-07-02_项目简介]]
 [[新型计算]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经形态脉冲大语言模型（NSLLM）]]

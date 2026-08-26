@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
+[[BrownianCastleInterfaces]]
 [[Core_Spacetime_Tensor]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

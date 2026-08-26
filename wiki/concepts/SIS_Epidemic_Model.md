@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveDensityControl]]
 [[AdaptiveFlexibilityThreshold]]
+[[AdaptiveMeasurementProtocol]]
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
 [[BioInspiredLearningRule]]

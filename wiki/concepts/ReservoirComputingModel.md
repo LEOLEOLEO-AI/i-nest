@@ -22,7 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AnomalousSpinTransport]]
-[[Branch_Prediction]]
+[[CrashHotspotForecasting]]
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenMaterialDesign]]
 [[DivergentHigherAreaRanking]]
@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[branch prediction]]
 [[iNEST]]
 [[neuromorphic computing]]
 

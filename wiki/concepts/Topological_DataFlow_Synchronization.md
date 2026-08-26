@@ -31,9 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[BifurcationCandidateSet]]
 [[CompactBosonDuality]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ContactOpportunityExploitation]]
+[[DeepParsing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

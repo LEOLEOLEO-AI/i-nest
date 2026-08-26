@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[Contested_Priors_Mechanism]]
 [[FlexibilityThreshold]]
+[[Localized_Feedback_Array]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

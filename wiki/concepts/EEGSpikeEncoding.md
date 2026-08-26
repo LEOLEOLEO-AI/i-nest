@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeInformationDensity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Residual_Connection]]
+[[SpikingMotorControl]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

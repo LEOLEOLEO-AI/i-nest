@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[CorticalWaveRouting]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[Event_Driven_Architecture]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_NoC_Routing]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]

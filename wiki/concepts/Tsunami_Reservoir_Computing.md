@@ -23,14 +23,15 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AnomalousSpinTransport]]
 [[AtomicVaporNonlinearity]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Compressed_Glass_Network]]
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]
 [[Crystallized_Neural_Manifolds]]
+[[NonlinearProjectionEncoding]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

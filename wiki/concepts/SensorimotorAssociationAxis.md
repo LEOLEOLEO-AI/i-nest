@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Order_Flexibility_Duality]]
 [[ScaleFreeNetwork]]
 [[Synaptic_Plasticity]]

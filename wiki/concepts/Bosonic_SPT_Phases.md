@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

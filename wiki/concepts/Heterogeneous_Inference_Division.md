@@ -22,7 +22,9 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[CST计量仪]]
+[[Causal_Emergence_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
@@ -41,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[Topology_Centric_Computing]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[ChannelCountScaling]]
 [[ChipletTopologyAwareness]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

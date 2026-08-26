@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
+[[MemoryEfficientSimulation]]
 [[Network_Topology_Design]]
 [[Resilient_Satellite_Mesh]]
 [[ScaleFreeNetwork]]

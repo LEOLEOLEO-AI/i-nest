@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[SynapticReinforcementConsolidation]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]

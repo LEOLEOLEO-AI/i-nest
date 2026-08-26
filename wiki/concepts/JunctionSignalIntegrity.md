@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[EventDrivenSpectralProcessing]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

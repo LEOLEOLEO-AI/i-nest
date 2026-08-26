@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[BarrierConditionedTrajectory]]
 [[BurstGatedRouting]]
+[[CellEmergence]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

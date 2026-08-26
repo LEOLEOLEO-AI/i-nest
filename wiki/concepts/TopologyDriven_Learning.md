@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[FreeFermionTopologicalInvariant]]
 [[Interconnect_Routing]]
+[[Kinematic_Waves]]
 [[MemoryDrivenRouting]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]

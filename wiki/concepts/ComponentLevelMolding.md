@@ -31,10 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_based_heterogeneous_integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DARPA_ERI]]
-[[DARPA_ERI_2_0_Framework]]
 [[ERI_2_0_Framework]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
@@ -47,11 +45,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[ScaleFreeNetwork]]
+[[SpaceToUndersea_ResilientComms]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[complex system]]
 [[heterogeneous_integration]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

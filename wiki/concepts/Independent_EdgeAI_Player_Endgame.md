@@ -24,9 +24,11 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
+[[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
 [[Memristive_STDP]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

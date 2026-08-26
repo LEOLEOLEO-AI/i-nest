@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkInterconnect]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficiencyAI]]
+[[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

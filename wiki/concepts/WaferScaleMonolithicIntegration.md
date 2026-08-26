@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[4H_SiC_SubstrateProcessing]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AdvancedPackagingInterconnect]]
 [[Complex_System_Theory]]
 [[DarkSiliconAwarePowerGating]]
@@ -29,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Resilient_Sensing_Comms_Network]]
 [[SDI_Bond]]
-[[SDI_TopologyWaferIntegration]]
+[[SDI_Topology]]
 [[TCC]]
 [[WaferScaleSubstrate]]
 [[Wafer_Scale_Integration]]

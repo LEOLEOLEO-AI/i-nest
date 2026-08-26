@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
+[[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]

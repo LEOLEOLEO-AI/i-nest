@@ -25,9 +25,9 @@ Auto-extracted concept from raw material compilation.
 [[Analog_To_Information_Conversion]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
+[[BackpropFree_Learning]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

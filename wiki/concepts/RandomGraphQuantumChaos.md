@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BurstTemporalPlasticity]]
 [[CellEmergenceMechanism]]
 [[CellEmergence]]
 [[Dynamic_Expert_Fusion]]

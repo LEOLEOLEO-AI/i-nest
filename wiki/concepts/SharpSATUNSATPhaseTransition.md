@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AgenticServiceOrchestration]]
 [[Cognitive_Relapse_Decoupling]]
-[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[ExactlyFlatTopologicalBands]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

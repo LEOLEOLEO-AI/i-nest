@@ -28,9 +28,9 @@ Auto-extracted concept from raw material compilation.
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[Agent_Workflow_Automation]]
+[[BCM滑动阈值]]
 [[BoundaryContract]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[HeterogeneousPD_Inference_BoundaryContract]]
 [[Intelligence_Emergence]]
@@ -46,10 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[SheafNeuralNetworks]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[iNEST]]
 [[temporal coding]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

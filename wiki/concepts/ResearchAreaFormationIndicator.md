@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_NetworkCoDesign]]
 [[TCC]]
 [[iNEST]]
 [[intellectual base]]

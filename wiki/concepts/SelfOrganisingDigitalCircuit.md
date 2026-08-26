@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]
+[[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DTGA]]
 [[Dimensionality_Modularity_Tradeoff]]

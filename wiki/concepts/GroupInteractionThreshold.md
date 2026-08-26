@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CST_MasterEquation]]
 [[CircadianGateModulation]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -39,12 +38,15 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neural_Network_Quantum_State_Transfer_Learning]]
-[[Neuromorphic_computing_architecture]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
+[[complex system]]
+[[neuromorphic computing architecture]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

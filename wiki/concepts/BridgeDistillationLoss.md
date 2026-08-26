@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]
+[[LIF_Neuron_Model]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SNN]]

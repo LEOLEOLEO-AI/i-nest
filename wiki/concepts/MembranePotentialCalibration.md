@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]
+[[Hardware_Accelerated_SNN]]
 [[LeftRightAsymmetry]]
 [[Nonlinear_Gain]]
 [[SNN]]

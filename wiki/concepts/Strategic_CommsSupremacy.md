@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplainableEnergyAI]]
 [[FrozenRateOperator]]
 [[InNetworkAgentRewiring]]
+[[InNetworkNeuromorphicComms]]
 [[InNetwork_RL_Control]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

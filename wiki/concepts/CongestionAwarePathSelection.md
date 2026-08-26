@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[CeYIGMagnetoOpticalIsolator]]
 [[CellEmergence]]
 [[ConsciousnessEngineeringLoop]]
+[[CrossLayer_SignalRouting]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[TCC]]
 

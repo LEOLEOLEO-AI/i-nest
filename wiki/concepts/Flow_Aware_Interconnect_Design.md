@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
@@ -39,9 +38,11 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[advanced packaging]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Comparative_Formulation_Analysis]]
 [[Criticality]]
 [[DendriticReservoirState]]
+[[DynamicNeuralManifolds]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Integration]]

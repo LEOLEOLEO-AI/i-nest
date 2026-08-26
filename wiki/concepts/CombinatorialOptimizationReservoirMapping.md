@@ -24,11 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[Alignment_Tax]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[Criticality_of_Natural_Languages]]
 [[Heterogeneous_Compute_Graph]]
 [[HierarchicalReservoirDynamics]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[QuantumReservoirMemoryCapacity]]
+[[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[neuromorphic computing]]
 

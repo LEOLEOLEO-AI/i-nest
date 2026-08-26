@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AmoebaInspiredLocomotion]]
+[[AstrocyteInspiredModulation]]
+[[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

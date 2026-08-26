@@ -20,17 +20,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_PPT_Workflow]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[ActivityPropagationCascade]]
 [[AddressRedundancyElimination]]
 [[AnalogDomainCompressiveSensing]]
-[[Branch_Prediction]]
 [[Cascading_Failure_Mitigation]]
 [[CorticalTravelingWave]]
 [[CriticalStateInformationMaximization]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[branch prediction]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

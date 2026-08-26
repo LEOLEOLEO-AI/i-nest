@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[CytoarchitectonicAxis]]
+[[DelayCascadePrediction]]
 [[Differential_Encoding]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]

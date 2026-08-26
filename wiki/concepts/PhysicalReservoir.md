@@ -22,8 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
-[[Complex_System]]
 [[Complex_System_Theory]]
+[[Connectome]]
+[[Connectome_Reservoir]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

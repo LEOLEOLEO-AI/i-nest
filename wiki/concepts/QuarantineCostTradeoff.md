@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[BigBrainCellularAxis]]
 [[CST_SynergisticCoordination]]
-[[Complex_System]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[ConsciousnessEngineeringLoop]]
 [[CounterstreamSignalPropagation]]
@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[complex system]]
 [[Γst_Revision]]
 
 ## Sources

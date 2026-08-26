@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSTDP]]
+[[DiscreteSTDPLearning]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]
 [[InNetworkAgentRewiring]]

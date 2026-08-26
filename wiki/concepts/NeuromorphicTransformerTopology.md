@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[ComplexValuedSNN]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
@@ -30,8 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[神经形态计算]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

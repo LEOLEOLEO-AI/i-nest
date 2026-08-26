@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
+[[FoveationGuidedTokenSelection]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[spiking neural network dynamics]]
 [[spiking neural network]]
 
 ## Sources

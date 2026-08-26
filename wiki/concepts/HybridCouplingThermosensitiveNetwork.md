@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[MolecularTargetSignaling]]
 [[Neuromorphic_Computing]]
 [[OpenLearningEcosystem]]
+[[Reconfigurable_Neural_Topology]]
 [[TCC]]
 
 ## Sources

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Stacking]]
+[[4H_SiC_SubstrateProcessing]]
 [[AnalogInMemoryComputing]]
 [[BitPrecisionAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[TCC]]

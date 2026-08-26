@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Independent_EdgeAI_Player_Endgame]]
 [[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

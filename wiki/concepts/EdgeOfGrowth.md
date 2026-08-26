@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[Criticality]]
@@ -41,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[criticality]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

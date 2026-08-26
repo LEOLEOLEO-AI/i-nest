@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AlloyDisorderEngineering]]
 [[Avoided_Criticality]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[CirculateFiringNeuron]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[Criticality]]
@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
+[[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

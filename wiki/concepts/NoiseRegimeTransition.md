@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[MassConservationInductiveBias]]
 [[Monitored_Quantum_Circuits]]
 [[MultifractalCriticalPhase]]
+[[Nanoencapsulation_Stability_Bioavailability]]
 [[NanomaterialFeatureEngineering]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

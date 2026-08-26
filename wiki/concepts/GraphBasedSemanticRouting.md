@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AdiabaticMultimodeBend]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[CST计量仪]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[Decoupled_Priors]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[VerticalOpticalInterconnect]]
 [[ViewDependentAppearance]]
 [[WaferScaleSubstrate]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

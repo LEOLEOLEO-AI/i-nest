@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiSourceTaskonomy]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfMotivatedGrowth]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]

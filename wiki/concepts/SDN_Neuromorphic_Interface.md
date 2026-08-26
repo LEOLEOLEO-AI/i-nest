@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
-[[SNN_NeuroprostheticPipeline]]
+[[SNN]]
 [[Self_Organized_Criticality]]
 [[SparseActivationPattern]]
 [[Spike_Encoding_of_fMRI]]

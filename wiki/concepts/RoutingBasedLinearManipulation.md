@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[PacketRoutingForFPGAs]]
 [[ReputationPropagation]]
 [[SNN]]
+[[SNN_NeuroprostheticPipeline]]
 [[SpikeRoutingFabric]]
 [[Spiking_Neural_Network]]
 

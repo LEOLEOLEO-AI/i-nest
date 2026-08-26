@@ -32,11 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Cognitive_Relapse_Architecture]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[RTC_Primitive]]
 [[SDI_Bond]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferScaleSubstrate]]
 [[Wafer_Scale_Integration]]
+[[complex system]]
 [[heterogeneous_integration]]
 
 ## Sources

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AdaptersInSpikingNetworks]]
 [[Complex_System_Theory]]
+[[EntropyRegularizedSpikeLoss]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]

@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[CriticalInertiaEstimation]]
 [[Critical_Region_Extension]]
+[[DTGA]]
+[[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

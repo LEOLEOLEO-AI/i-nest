@@ -27,11 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[EmergentOrder]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[Order_Flexibility_Duality]]
 [[TCC]]
 [[iNEST]]
 

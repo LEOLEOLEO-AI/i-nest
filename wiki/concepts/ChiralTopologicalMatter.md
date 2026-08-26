@@ -30,10 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Topology_Mapping]]
 [[NoCPlacementRoutingCoDesign]]
 [[Nonreciprocity_Threshold]]
 [[Quantum_Spin_Glass]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 
 ## Sources

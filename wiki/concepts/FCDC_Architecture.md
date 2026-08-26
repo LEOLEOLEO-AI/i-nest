@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EnergyResourceEfficiencyCoOptimization]]
 [[FeFET_Polarization_Switching]]
+[[FerroelectricCrossbarArray]]
 [[FerroelectricNvCap]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_ComputeInMemory]]

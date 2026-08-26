@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Agent_Interaction_Sequencing]]
+[[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Boundary_Criticality]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[Criticality]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[boundary criticality]]
+[[complex system]]
 [[criticality]]
 
 ## Sources

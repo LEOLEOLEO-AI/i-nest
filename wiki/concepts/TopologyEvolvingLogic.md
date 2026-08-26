@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[CongestionAwareNoCPlacement]]
+[[Heterogeneous_Integration]]
 [[Logic_Folding]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
@@ -33,10 +34,11 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[NoC_SDI_Topology]]
+[[Physical_Topology_Mapping]]
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[TCC]]
-[[iNEST_Wafer]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

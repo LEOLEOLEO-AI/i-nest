@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Dynamic_Expert_Fusion]]
 [[HeterogeneousInference]]
+[[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

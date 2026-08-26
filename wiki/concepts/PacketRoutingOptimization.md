@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[QuarantineCostTradeoff]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
+[[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

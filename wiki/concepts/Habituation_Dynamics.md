@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[ChannelEventSparsity]]
+[[Contested_Priors_Architecture]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]

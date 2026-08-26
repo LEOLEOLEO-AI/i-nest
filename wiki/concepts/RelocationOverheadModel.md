@@ -27,8 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[HeterogeneousChipletIntegration]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Topology_Aware_Resource_Allocation]]
+[[complex system]]
 [[scaling laws]]
 [[神经网络]]
 

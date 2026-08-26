@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ImpactFallDetection]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[QuantumChaos]]

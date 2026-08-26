@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[DelayCodedWorkingMemory]]
+[[DiscreteSTDP]]
 [[Event_Driven_Architecture]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]

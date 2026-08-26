@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[DataProvenanceIntegrity]]
 [[Emergent_Intelligence_Threshold]]
+[[FastSlow_Dynamics]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]

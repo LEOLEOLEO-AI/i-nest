@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Attention_Residuals]]
 [[BurstGatedRouting]]
+[[Critical_Region_Extension]]
 [[Deep_Network_Architecture_Invariant]]
 [[DelayTolerantNetworkUAV]]
 [[FlexibilityThreshold]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RedundancyControlledStochasticRouting]]
 [[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 

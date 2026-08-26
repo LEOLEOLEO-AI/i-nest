@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[ArchitecturalCondition]]
+[[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]

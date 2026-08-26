@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_ERI]]
-[[DARPA_ERI_2_0_Framework]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]
 [[ERI_2_0_Framework]]

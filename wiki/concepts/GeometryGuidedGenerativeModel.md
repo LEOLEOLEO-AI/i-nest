@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[EdgeIoTEnergyAwareness]]
+[[Emergent_Intelligence_Roadmap]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

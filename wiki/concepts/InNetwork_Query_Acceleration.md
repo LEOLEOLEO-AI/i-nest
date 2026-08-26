@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AsymmetricCoupling]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
+[[Personalised_Strategy_Optimisation]]
 [[iNEST]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AutonomousServiceNegotiation]]
 [[BackpropagationFreeLearning]]
 [[CUDAQSimulationFramework]]
 [[Chiplet_Heterogeneous_Integration]]

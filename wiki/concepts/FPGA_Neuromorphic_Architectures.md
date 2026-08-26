@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[DevelopmentalNeuromorphicAdaptation]]
@@ -46,10 +45,12 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[complex system]]
 [[iNEST]]
 [[spiking neural network]]
 [[topology reconfiguration]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

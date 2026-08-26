@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[DiscreteSTDP]]
 [[ITP_STDP]]
+[[ITP_STDP_Learning_Engine]]
 [[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[Criticality]]
 [[EEG criticality]]

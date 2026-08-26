@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[CellEmergence]]
 [[ComplexValuedSNN]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[FractalPathEntropy]]
@@ -34,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[NetworkHysteresis]]
 [[Network_Topology_Design]]
 [[RamanInducedGaugeField]]
@@ -48,6 +48,8 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalFeatureInvariance]]
 [[VerticalOpticalInterconnect]]
 [[ViewDependentAppearance]]
+[[Wafer_Scale_Interconnect_Memristor]]
+[[complex system]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

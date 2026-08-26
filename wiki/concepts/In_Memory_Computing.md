@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Evolutionary_Computability]]
 [[FerroelectricMemoryCell]]
@@ -37,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[Master_SDDE]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Hardware_ANN]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[complex system]]
 [[temporalComplexity]]
 [[神经网络]]
 

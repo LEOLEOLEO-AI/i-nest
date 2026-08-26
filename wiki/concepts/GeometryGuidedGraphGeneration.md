@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Cluster_Switch_Bottleneck]]
 [[AI_Forum_Ecosystem]]
+[[Asymptotic_Exact_Solution]]
 [[Complex_System_Theory]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]

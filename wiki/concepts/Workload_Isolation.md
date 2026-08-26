@@ -35,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicRadarFrontend]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
-[[SNN_NeuroprostheticPipeline]]
+[[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]

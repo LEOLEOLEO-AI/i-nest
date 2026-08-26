@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[OnChipOpticalTweezers]]
+[[OpenCodex_Upgrade_Path]]
 [[Photonic_Chiplet_Interconnect]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]

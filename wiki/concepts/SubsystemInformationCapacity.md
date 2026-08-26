@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
 [[DendriticReservoirState]]
+[[DynamicNeuralManifolds]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Integration]]

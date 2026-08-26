@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
-[[ConnectomeFidelityClaim]]
+[[ConnectomeComputationBasis]]
 [[Connectome]]
 [[Neuromorphic_Computing]]
 [[connectome]]

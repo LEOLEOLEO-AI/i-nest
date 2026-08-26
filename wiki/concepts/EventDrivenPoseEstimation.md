@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
 [[BulletTrainScheduling]]
+[[ConstructedRealityState]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

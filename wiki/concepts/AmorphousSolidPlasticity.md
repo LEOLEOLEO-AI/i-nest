@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[Complex_System_Theory]]
+[[Decoupled_Prior_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[UniversalIntelligence_Emergence]]
 [[WavelengthMultiplexedInterconnect]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

@@ -21,6 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
+[[EquilibriumTreePacking]]
+[[Heterogeneous_Integration]]
 [[LatencyCodedInterconnect]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -33,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

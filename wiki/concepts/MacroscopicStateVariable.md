@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CompactnessRegularizedFitness]]
 [[ComplexValuedSNN]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
 [[EmergentOrder]]
@@ -34,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
+[[Network_Specific_Embedding_Separation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

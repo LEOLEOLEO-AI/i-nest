@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
+[[EpidemicThreshold]]
 [[EventDrivenModularArchitecture]]
 [[FPGA_Accelerated_SNN]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

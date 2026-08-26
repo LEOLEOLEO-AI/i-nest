@@ -22,12 +22,12 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Faculty_Forum_2026]]
+[[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[CST_Spatiotemporal_Complexity]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[DataDrivenCellularAxis]]
 [[FlagOS_2_0]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[System_Level_Utility_Control]]
 [[TopologyAwareStateMigration]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

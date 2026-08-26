@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AgenticServiceOrchestration]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Self_Organized_Criticality]]

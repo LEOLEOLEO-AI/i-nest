@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyProgramming]]
 [[Topology_Aware_NoC_Routing]]
+[[VectorFlowField]]
 [[iNEST]]
 
 ## Sources

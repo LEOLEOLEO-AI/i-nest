@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdaptiveFrequencyResonateFire]]
 [[BayesianDomainEvolution]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

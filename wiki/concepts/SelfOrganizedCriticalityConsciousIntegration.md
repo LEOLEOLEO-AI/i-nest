@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousIntegration]]
 [[Continuous_Control_SNN_Stability]]
 [[Criticality]]
+[[DiscreteContinuous_Unification]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

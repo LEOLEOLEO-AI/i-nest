@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[CommunicationAwareComputeRelocation]]
 [[Compute_Centric_NoC]]
 [[Dynamic_Expert_Fusion]]
+[[GPU_Hegemony_Disruption]]
+[[Heterogeneous_Integration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

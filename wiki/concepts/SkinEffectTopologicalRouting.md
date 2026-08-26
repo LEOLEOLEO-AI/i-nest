@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[TCC]]

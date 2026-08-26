@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[DataMovementMinimization]]
 [[Decoupled_Priors]]
+[[EndToEndDesignAutomation]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Hierarchical_Interconnect]]

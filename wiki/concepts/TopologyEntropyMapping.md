@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
 [[CriticalLearningRegime]]
+[[Critical_Region_Extension]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AsynchronousEventDrivenComputation]]
 [[BurstCoding]]
+[[EventCameraPoseInput]]
 [[JunctionSignalIntegrity]]
 [[Local_Plasticity]]
 [[Neuromorphic_Computing]]

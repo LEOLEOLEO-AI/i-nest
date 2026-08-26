@@ -20,11 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[2_5D_PIM_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
-[[Bipartite_Interconnect_Fabric]]
+[[Bipartite_Interconnect]]
 [[CXL_Deployment_Transition]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]

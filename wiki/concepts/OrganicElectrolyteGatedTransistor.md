@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[FlexibilityThreshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

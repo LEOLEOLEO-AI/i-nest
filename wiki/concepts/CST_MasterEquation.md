@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Complex_System]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
@@ -41,10 +40,13 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SystemLevelNonlinearity]]
 [[TopologicalAndersonChernInsulator]]
+[[TopologyCentricEngineeringBase]]
+[[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

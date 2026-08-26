@@ -29,8 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
-[[Complex_System]]
 [[Complex_System_Theory]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[EventDrivenMotionDeblurring]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[analog computation]]
+[[complex system]]
 [[iNEST]]
 
 ## Sources

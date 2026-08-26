@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[TCC]]
 [[Tau_Law]]
+[[TemporalFeatureProjection]]
 [[TopologyAwareTaskScheduling]]
 [[Topology_Centric_Interconnect]]
 [[advanced packaging]]

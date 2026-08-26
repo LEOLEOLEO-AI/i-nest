@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Complexity]]
 [[Complex_System_Theory]]
 [[Decoupling_Mechanism]]
+[[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
 [[SDI bond]]
 [[SDI_Bond]]

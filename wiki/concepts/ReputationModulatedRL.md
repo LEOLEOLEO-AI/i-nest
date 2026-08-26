@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[EnsembleSparsity]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
 

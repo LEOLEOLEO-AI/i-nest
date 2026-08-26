@@ -28,8 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Interaction_Sequencing]]
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]
+[[ContinuousControlConversion]]
+[[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

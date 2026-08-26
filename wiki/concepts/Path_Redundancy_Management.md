@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[ConvexNonConvexTradeoff]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
+[[ElectromigrationReliability]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

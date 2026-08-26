@@ -30,7 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Orchestrator]]
 [[Agent_Workflow_Automation]]
 [[AnteHoc_Explainability]]
-[[Complex_System]]
+[[BifurcationCandidateSet]]
 [[Complex_System_Theory]]
 [[FreeEnergyMinimization]]
 [[Intelligence_Emergence]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[complex system]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 

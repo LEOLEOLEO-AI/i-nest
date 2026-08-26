@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Contested_Priors_Architecture]]
 [[CriticalFixedPoint]]
+[[CriticalStateDynamics]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Self_Organized_Criticality]]

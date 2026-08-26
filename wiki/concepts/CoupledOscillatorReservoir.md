@@ -40,9 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[QuantumGateSynthesis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[iNEST]]
+[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

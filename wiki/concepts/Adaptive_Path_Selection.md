@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveModelPartitioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Cognitive_Relapse_Architecture]]
+[[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]

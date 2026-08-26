@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Thermalisation]]
 [[DirectConnect_Topology]]
+[[EventDrivenAsynchronousRouting]]
 [[EventDrivenTracking]]
 [[FractureMechanism]]
 [[Interconnect_Routing]]

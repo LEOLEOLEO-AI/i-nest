@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Model_Routing_Protocol]]
 [[Monitored_Quantum_Circuits]]
 [[NegotiationAwareRouting]]
+[[NestedRepresentation]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
