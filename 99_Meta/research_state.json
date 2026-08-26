@@ -1,17 +1,17 @@
 {
-  "generated": "2026-08-26T06:45:44.905800",
+  "generated": "2026-08-26T20:10:53.256578",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 12360,
+    "total_md": 10872,
     "inbox_00": 186,
-    "processing_20": 617,
-    "tcc_30": 1926,
-    "inest_40": 1437,
-    "output_50": 458,
+    "processing_20": 561,
+    "tcc_30": 1826,
+    "inest_40": 1211,
+    "output_50": 441,
     "moc_60": 69
   },
   "services": {
-    "preview_server_8899": true,
+    "preview_server_8899": false,
     "jojo_llm_57321": false,
     "jojo_fixer_57320": false
   },
@@ -127,28 +127,16 @@
     ]
   },
   "git": {
-    "uncommitted": 22,
+    "uncommitted": 8,
     "details": [
-      "D .gitignore.new",
-      " M .obsidian/workspace.json",
-      " M .workbuddy/automations/automation-1785546922604/memory.md",
-      " M 60_MOC/02_Research_Insights.md",
-      " M 60_MOC/03_Daily_Action.md",
-      " M 60_MOC/04_Daily_Focus.md",
-      " M 60_MOC/05_Task_Review.md",
-      " M 99_Meta/daily_analysis_cache.json",
-      " M 99_Meta/dedup_index_v2.json",
-      " M 99_Meta/genspark_research_brief.md",
-      " M 99_Meta/research_task_proposals.json",
-      " M 99_Meta/self_evolve_log.json",
-      " M 99_Meta/self_evolve_run_2026-08-26.log",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_Identifying Probability Localization Dynamics via Structured.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_Polymer-Linked Nanoparticle Networks Running on Heat Can Act.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic .md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_Synchronization induces Bell violations in a model of walkin.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte.md\"",
-      "?? 90_System/scripts/vision_analyze.py.new"
+      "M .obsidian/workspace.json",
+      " M 70_Dashboard/health_watchdog.md",
+      " M 90_System/state/health_watchdog.json",
+      " M 99_Meta/evolution_queue.json",
+      " M 99_Meta/hypothesis_registry.json",
+      " M 99_Meta/knowledge_compile_state.json",
+      "?? \"60_MOC/00_\\346\\262\\273\\347\\220\\206/\\347\\250\\277\\344\\273\\266\\345\\220\\210\\345\\271\\266\\344\\270\\216V25\\347\\273\\237\\344\\270\\200\\346\\226\\271\\346\\241\\210_20260826.md\"",
+      "?? 60_MOC/12_Knowledge_Review_2026-08-26.md"
     ]
   },
   "health": {

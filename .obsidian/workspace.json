@@ -16,14 +16,88 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2026-07-15-2607.11914",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_iNEST/41_Theory/01_论文/2026-07-15-2607.11914.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-07-15-2607.11914\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":466},\"to\":{\"line\":36,\"ch\":466}},\"scroll\":20.260416666666668}"
+                },
+                {
+                  "title": "2026-07-15-2412.04847",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_iNEST/41_Theory/01_论文/2026-07-15-2412.04847.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-07-15-2412.04847\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "P-Theory_v2_MetaTopology_SDI_Bond_Draft",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/01_论文/B组_SDI-CC互连体系/P-Theory_v2_MetaTopology_SDI_Bond_Draft.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"P-Theory_v2_MetaTopology_SDI_Bond_Draft\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":729},\"to\":{\"line\":34,\"ch\":729}},\"scroll\":30.535807291666668}"
+                },
+                {
+                  "title": "A1_CST_Theory_V25_FINAL",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/01_论文/A组_CST基础理论/A1_CST_Theory_V25_FINAL.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"A1_CST_Theory_V25_FINAL\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":541},\"to\":{\"line\":32,\"ch\":541}},\"scroll\":22.33984375}"
+                },
+                {
+                  "title": "A1_CST_Theory_Paper_v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/01_论文/A组_CST基础理论/A1_CST_Theory_Paper_v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"A1_CST_Theory_Paper_v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "memristor_synapse_ppt_v1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"30_TCC/31_Theory/_attachments/03_项目策划/memristor_synapse_ppt_v1.png\"},\"icon\":\"lucide-image\",\"title\":\"memristor_synapse_ppt_v1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "iNEST_core_philosophy_v1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"30_TCC/31_Theory/_attachments/03_项目策划/iNEST_core_philosophy_v1.png\"},\"icon\":\"lucide-image\",\"title\":\"iNEST_core_philosophy_v1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "main",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"30_TCC/31_Theory/_attachments/01_论文/arXiv_submission/main.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"main\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Figure6",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"30_TCC/31_Theory/_attachments/01_论文/arXiv_submission/figures/Figure6.png\"},\"icon\":\"lucide-image\",\"title\":\"Figure6\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Figure1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"30_TCC/31_Theory/_attachments/01_论文/arXiv_submission/figures/Figure1.png\"},\"icon\":\"lucide-image\",\"title\":\"Figure1\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "40_iNEST/41_Theory/07_标度对称性：尺度任意缩放，特征保持不变？_-_得到APP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "07_标度对称性：尺度任意缩放，特征保持不变？_-_得到APP"
             }
           }
         ]
@@ -374,52 +448,52 @@
   },
   "active": "0f6472a54fcee014",
   "lastOpenFiles": [
+    "40_iNEST/41_Theory/01_论文/2026-07-15-2607.11914.md",
+    "40_iNEST/41_Theory/01_论文/2026-07-15-2412.04847.md",
+    "30_TCC/31_Theory/01_论文/B组_SDI-CC互连体系/P-Theory_v2_MetaTopology_SDI_Bond_Draft.md",
+    "30_TCC/31_Theory/01_论文/A组_CST基础理论/A1_CST_Theory_V25_FINAL.md",
+    "30_TCC/31_Theory/01_论文/A组_CST基础理论/A1_CST_Theory_Paper_v1.md",
+    "30_TCC/31_Theory/_attachments/03_项目策划/memristor_synapse_ppt_v1.png",
+    "30_TCC/31_Theory/_attachments/03_项目策划/iNEST_core_philosophy_v1.png",
+    "30_TCC/31_Theory/_attachments/01_论文/arXiv_submission/main.pdf",
+    "30_TCC/31_Theory/_attachments/01_论文/arXiv_submission/figures/Figure6.png",
+    "30_TCC/31_Theory/_attachments/01_论文/arXiv_submission/figures/Figure1.png",
+    "00_Inbox/美军通信技术解析.md",
+    "00_Inbox/Cerebras Supernova 2026 战略全解：从极速推理到实时AI基础设施底座.md",
+    "90_System/state/HEALTH_ALERT.md",
+    "60_MOC/02_DeepSeek_Insights_2026-08-26.md",
+    "40_iNEST/44_Projects/military_intelligent_ecosystem_base_project_analysis.md",
+    "40_iNEST/41_Theory/world_model_three_layers_iNEST_value_mapping.md",
+    "40_iNEST/41_Theory/lifespan_cortical_gradient_reference.md",
+    "40_iNEST/41_Theory/Science2026_LampreyBrainEvolution_NeuralSpecialization.md",
+    "40_iNEST/42_Technology/Siibra_multilevel_brain_atlas_tool_analysis.md",
+    "40_iNEST/42_Technology/NESTformer_iNEST_implementation_analysis_2012.md",
+    "40_iNEST/41_Theory/cortical_representation_iNEST_architecture_insight.md",
+    "30_TCC/31_Theory/biocomputing_paradigm_validation_tcc_inest.md",
+    "40_iNEST/42_Technology/NESTformer_iNEST_implementation_analysis.md",
+    "40_iNEST/41_Theory/cortical_representation_iNEST_architecture_design.md",
+    "30_TCC/34_Projects/advanced_computing_chip_project_meeting_notes.md",
+    "40_iNEST/41_Theory/brain-prefrontal-reusable-cognitive-modules.md",
+    "60_MOC/12_Knowledge_Review_2026-08-26.md",
+    "60_MOC/00_治理/稿件合并与V25统一方案_20260826.md",
     "10_Knowledge/00_导航/00_iNEST_全景知识图谱.md",
     "00_Inbox/_imports/2026-07-24_MoE与Agentic时代AI互联需求系统性增长深度研报.md",
     "Home.md",
-    "50_Output/51_Papers/【Nature_Communications】告别“人工调参”：华中科技大学提出具身智能奖励函数自动发现框架，破解稀疏奖励难题.md",
-    "50_Output/51_Papers/00_冲刺_学生A_B0.md",
-    "50_Output/51_Papers/TCC/SUBMISSION_PACKAGE_README.md",
     "50_Output/51_Papers/TCC/Figure4_SDI_Architecture.pdf",
     "50_Output/51_Papers/TCC/Figure3_Three_Wall_Theorem.pdf",
     "50_Output/51_Papers/TCC/Figure2_Topology_Comparison.pdf",
     "50_Output/51_Papers/TCC/Figure1_EIR_vs_Workload.pdf",
-    "30_TCC/31_Theory/涌现现象：复杂系统的神奇力量_-_科普教育_-_上海市非线性科学研究会.md",
-    "00_Inbox/美国《科学：新的黄金时代》报告深度解析：科研体制改革的机遇与争议.md",
-    "00_Inbox/核查折子关键事实.md",
-    "00_Inbox/小米三颗玄戒自研芯片全解析：手机SoC跑分首破500万，3nm智驾芯片明年商用.md",
-    "00_Inbox/关于“十五五”晶上二期组织与实施模式的建议.md",
-    "00_Inbox/SIGCOMM 2026 深度解读：KV Cache 如何从 GPU 内部状态变成网络研究核心.md",
-    "00_Inbox/AI PPT+ 方法论：从「能生成」到「生成得好」的五步工作流.md",
-    "60_MOC/02_DeepSeek_Insights_2026-08-24.md",
-    "60_MOC/12_Knowledge_Review_2026-08-24.md",
-    "40_iNEST/41_Theory/涌现现象：复杂系统的神奇力量 - 科普教育 - 上海市非线性科学研究会 2.md",
-    "40_iNEST/41_Theory/涌现现象：复杂系统的神奇力量 - 科普教育 - 上海市非线性科学研究会 1.md",
-    "wiki/backlinks.md",
-    "wiki/concepts/STDP_iNEST.md",
-    "wiki/concepts/Complex_System_Theory.md",
-    "wiki/concepts/MultiplicativeGain.md",
-    "60_MOC/10_Own_Research_Diagnosis.md",
-    "wiki/concepts/Memory_Wall.md",
-    "wiki/concepts/RTC_Primitive.md",
-    "wiki/concepts/BigBrainCellularAxis.md",
-    "wiki/concepts/FreeFermion_Topological_Classification.md",
     "90_System/scripts/wiki_compiler.py~2676",
     "90_System/scripts/wiki_compiler.py.new",
     "90_System/scripts/wiki_grow.py~24740",
     "99_Meta/lessons_learned.md.new",
     "90_System/scripts/self_evolve.py.new",
-    "90_System/scripts/wiki_grow.py.new",
     "40_iNEST/41_Theory/lambda_star_convergence.png",
     "40_iNEST/41_Theory/lambda_star_convergence.svg",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part3_appendix.png",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part3_p100_tcc_topology.png",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part2_closing.png",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part2_p61_intelligence_scale.png",
-    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part1_closing.png",
-    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part1_p17_neuron.png",
-    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part1_p3_energy_gap.png",
-    "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part1_cover.png",
     "未命名.canvas",
     "80_Archive/Inbox_legacy/待分类/未命名.canvas",
     "80_Archive/05_Fleeting/待分类/未命名.canvas",
