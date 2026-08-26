@@ -1,40 +1,63 @@
 {
-  "generated": "2026-08-25T20:43:45.528012",
+  "generated": "2026-08-26T06:45:44.905800",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 12310,
-    "inbox_00": 180,
+    "total_md": 12360,
+    "inbox_00": 186,
     "processing_20": 617,
-    "tcc_30": 1920,
+    "tcc_30": 1926,
     "inest_40": 1437,
     "output_50": 458,
-    "moc_60": 68
+    "moc_60": 69
   },
   "services": {
-    "preview_server_8899": false,
+    "preview_server_8899": true,
     "jojo_llm_57321": false,
     "jojo_fixer_57320": false
   },
   "pipeline": {
     "ingested_today": {
-      "today": 3,
-      "total": 180,
+      "today": 6,
+      "total": 186,
       "recent": [
         {
-          "file": "2026-08-25_arXiv_Identifying the structure of dynamical transitions in logist.md",
-          "preview": "---\ntitle: \"Identifying the structure of dynamical transitions in logistic map\"\ndate: 2026-08-25\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.20956v1\ntags: [inbox, in"
+          "file": "2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte.md",
+          "preview": "---\ntitle: \"The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine-Tuning\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.233"
         },
         {
-          "file": "2026-08-25_arXiv_Event-triggered Implicit Perturbation for Zeroth-Order Fine-.md",
-          "preview": "---\ntitle: \"Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers\"\ndate: 2026-08-25\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608."
+          "file": "2026-08-26_arXiv_Synchronization induces Bell violations in a model of walkin.md",
+          "preview": "---\ntitle: \"Synchronization induces Bell violations in a model of walking droplets\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.21915v1\ntags: [inbox"
         },
         {
-          "file": "2026-08-25_arXiv_Assessing Triple Modular Redundancy for Wide-Link, Low-Laten.md",
-          "preview": "---\ntitle: \"Assessing Triple Modular Redundancy for Wide-Link, Low-Latency NoC Routers: Reliability and Physical Design Challenges\"\ndate: 2026-08-25\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: "
+          "file": "2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic .md",
+          "preview": "---\ntitle: \"Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learning in Conventional Computing\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://"
+        },
+        {
+          "file": "2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction.md",
+          "preview": "---\ntitle: \"Quantum Reservoir Computing with Physics-Informed Correction for Reduced-Order PDE Forecasting\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2"
+        },
+        {
+          "file": "2026-08-26_arXiv_Polymer-Linked Nanoparticle Networks Running on Heat Can Act.md",
+          "preview": "---\ntitle: \"Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Devices\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.22841v1\nt"
+        },
+        {
+          "file": "2026-08-26_arXiv_Identifying Probability Localization Dynamics via Structured.md",
+          "preview": "---\ntitle: \"Identifying Probability Localization Dynamics via Structured Stochastic Liftings\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.22686v1\nta"
         }
       ]
     },
     "recent_runs": [
+      {
+        "date": "2026-08-26T06:45:44.845965",
+        "new_papers": 6,
+        "api_results": 6,
+        "classified": 0,
+        "graph_nodes": 12351,
+        "graph_edges": 138866,
+        "elapsed_s": 942.2,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260826_0645.json"
+      },
       {
         "date": "2026-08-25T06:45:17.048036",
         "new_papers": 3,
@@ -100,22 +123,11 @@
         "elapsed_s": 1498.2,
         "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
         "_file": "pipeline_20260817_0825.json"
-      },
-      {
-        "date": "2026-08-16T08:20:03.484447",
-        "new_papers": 0,
-        "api_results": 0,
-        "classified": 0,
-        "graph_nodes": 10217,
-        "graph_edges": 90602,
-        "elapsed_s": 1201.4,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260816_0820.json"
       }
     ]
   },
   "git": {
-    "uncommitted": 37,
+    "uncommitted": 22,
     "details": [
       "D .gitignore.new",
       " M .obsidian/workspace.json",
@@ -124,19 +136,19 @@
       " M 60_MOC/03_Daily_Action.md",
       " M 60_MOC/04_Daily_Focus.md",
       " M 60_MOC/05_Task_Review.md",
-      " M 60_MOC/07_Pipeline_Status.md",
-      " M \"60_MOC/\\347\\247\\221\\347\\240\\224\\344\\270\\255\\345\\217\\260.md\"",
       " M 99_Meta/daily_analysis_cache.json",
       " M 99_Meta/dedup_index_v2.json",
-      " M 99_Meta/evolution_ledger.json",
-      " M 99_Meta/evolution_queue.json",
       " M 99_Meta/genspark_research_brief.md",
-      " M 99_Meta/hypothesis_registry.json",
-      " M 99_Meta/knowledge_compile_state.json",
-      " M 99_Meta/research_state.json",
       " M 99_Meta/research_task_proposals.json",
       " M 99_Meta/self_evolve_log.json",
-      " M 99_Meta/self_evolve_run_2026-08-25.log"
+      " M 99_Meta/self_evolve_run_2026-08-26.log",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_Identifying Probability Localization Dynamics via Structured.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_Polymer-Linked Nanoparticle Networks Running on Heat Can Act.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic .md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_Synchronization induces Bell violations in a model of walkin.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte.md\"",
+      "?? 90_System/scripts/vision_analyze.py.new"
     ]
   },
   "health": {

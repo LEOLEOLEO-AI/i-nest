@@ -1,0 +1,99 @@
+
+============================================================
+  iNEST + TCC Research Pipeline v3.3
+  2026-08-26 06:30
+============================================================
+[06:30:02] [S2] Searching Semantic Scholar (19 queries)...
+[06:30:03]   S2: 429 rate limited; skip S2 for this run and continue with arXiv/GN
+[06:30:03] [arXiv] Searching arXiv (via proxy, 21 queries)...
+[06:30:06]   arXiv skip irrelevant: ReWorld: An Interactive World Model with Long-Horizon Memory
+[06:30:06]   arXiv skip irrelevant: Exact Fock-State Preparation with $n^{1/4}$ Circuit Depth
+[06:30:06]   arXiv skip irrelevant: The ETH matrix model for DSSYK: non-perturbative corrections
+[06:30:12]   arXiv skip irrelevant: Sidewall-Poled Nanophotonic Lithium Niobate with Bidirection
+[06:30:12]   arXiv skip irrelevant: To Scale Up or To Scale Out: Evaluating Space-Time Costs of 
+[06:30:12]   跳过重复: HYDRA: A Heterogeneous Chiplet DSE Framework for S... [Title: HYDRA: A Heterogeneous Chiplet DSE Framework for Serving Dynamic Hybrid LLM Work]
+[06:30:19]   arXiv skip irrelevant: A Fully Reconfigurable RF Vector Modulator based Wideband Ph
+[06:30:19]   arXiv skip irrelevant: Autonomous Cyber Defense: Real-Time Attack Detection and Mit
+[06:30:19]   arXiv skip irrelevant: Nonreciprocal Control of the Goos--Hänchen Shift via the Bar
+[06:30:26]   arXiv skip irrelevant: Transform-Based Multilinear Algebra via Tensor Decomposition
+[06:30:26]   arXiv skip irrelevant: Quantics tensor cross interpolation for high-order strong-co
+[06:30:26]   arXiv skip irrelevant: Non-Local Energy Dissipation and Topological Obstructions in
+[06:30:32]   arXiv skip irrelevant: Expanding the Transient Stability Region of Attraction of Ne
+[06:30:32]   arXiv skip irrelevant: Constraint-Driven Modeling Enabling Dual Model Checking and 
+[06:30:32]   arXiv skip irrelevant: Teaching is a Process: The TOSS Framework for Modeling Human
+[06:30:37]   arXiv: batch separator, pausing 10s...
+[06:30:48]   arXiv skip irrelevant: Adversarial Agents on Topology Optimization: Understanding t
+[06:30:48]   arXiv skip irrelevant: Optimizing Treatment Allocation in Experiments with Network 
+[06:30:48]   arXiv skip irrelevant: Scalable Exact Path Selection via Structure-Aware Search for
+[06:30:54]   arXiv skip irrelevant: Spatio-temporal Path Optimization for Stabilizer-Code-Protec
+[06:30:54]   arXiv skip irrelevant: Neighbor-embedded Graph Neural Network-based Crowd Delivery 
+[06:30:54]   跳过重复: Assessing Triple Modular Redundancy for Wide-Link,... [Title: Assessing Triple Modular Redundancy for Wide-Link, Low-Latency NoC Routers: Reli]
+[06:31:00]   arXiv skip irrelevant: Stochastic Dynamics of Low Earth Orbit Near Full Capacity
+[06:31:00]   arXiv skip irrelevant: Reward-Free Continual Adaptation for Resilient Space Robots
+[06:31:00]   arXiv skip irrelevant: RIS-Assisted Radar-Communication Coexistence: Detection Anal
+[06:31:06]   arXiv skip irrelevant: Lessons from the Hardware Hacking Competitions: Verification
+[06:31:06]   arXiv skip irrelevant: Impact of interstitial carbon on local lattice distortions i
+[06:31:28]   Insight [1/3]: Synchronization induces Bell violations in a model...
+[06:31:33]   arXiv skip irrelevant: Optimize Surgical Triplet Recognition: A Knowledge-Driven Mi
+[06:31:33]   arXiv skip irrelevant: STCO: Conditional Neural Operators for Time-Dependent PDEs
+[06:31:33]   arXiv skip irrelevant: USR-Drive: Unified Driving Scene Representation via Joint De
+[06:31:38]   arXiv: batch separator, pausing 10s...
+[06:31:49]   Insight [1/3]: Polymer-Linked Nanoparticle Networks Running on He...
+[06:31:49]   Insight [2/3]: Spiking Neural Networks for Continuous Control: Ne...
+[06:31:49]   arXiv skip irrelevant: Mie Optical Computing
+[06:31:55]   Insight [1/3]: The Emergence of Relevance Through Axiomatic Atten...
+[06:31:55]   arXiv skip irrelevant: Free-Energy-Gated Plasticity for Real-Time Online Motor Lear
+[06:31:55]   arXiv skip irrelevant: Cascading Relevance-driven Recommendation Network for CTR Pr
+[06:32:02]   arXiv skip irrelevant: An Energy-Proportional Multimodal and Context-Aware Vision I
+[06:32:02]   arXiv skip irrelevant: Atomic Common-Day Invoice Clearing under Causal Daily Schedu
+[06:32:02]   arXiv skip irrelevant: Model-Consistent Byzantine-Resilient Decentralized Federated
+[06:32:08]   arXiv skip irrelevant: GeoWAM: Visual Geometry World Action Models for Autonomous D
+[06:32:08]   arXiv skip irrelevant: Mycelial Search: A Graph-Structured Metaheuristic for Contin
+[06:32:08]   arXiv skip irrelevant: Quantifying geographic domain shift to decouple the geospati
+[06:32:14]   arXiv skip irrelevant: Aging Phase Diagram and Exact Asymptotic Energies of Mixed S
+[06:32:14]   arXiv skip irrelevant: Architecture and Compilation Co-Design for High-Rate Quantum
+[06:32:14]   arXiv skip irrelevant: HyperCut: Fast Inter-Layer Scheduling via Directed Hypergrap
+[06:32:19]   arXiv: batch separator, pausing 10s...
+[06:32:59]   arXiv iNEST-free-energy: <urlopen error _ssl.c:990: The handshake operation timed out>, retry 1...
+[06:33:05]   arXiv skip irrelevant: Free-Energy-Gated Plasticity for Real-Time Online Motor Lear
+[06:33:32]   Insight [1/3]: Quantum Reservoir Computing with Physics-Informed ...
+[06:33:32]   Insight [1/3]: Identifying Probability Localization Dynamics via ...
+[06:33:32]   arXiv skip irrelevant: Free-Probability Kernels for Zero-Rollout Hyperparameter Sel
+[06:33:44]   arXiv skip irrelevant: Privacy Preserving Semantic Communications in Wireless Edge 
+[06:33:44]   arXiv skip irrelevant: Quantifying geographic domain shift to decouple the geospati
+[06:33:44]   arXiv skip irrelevant: Low-complexity Soft-decision LLR Calculations for Next-gener
+[06:33:55]   arXiv: batch separator, pausing 10s...
+[06:34:06]   arXiv skip irrelevant: Scalable Exact Path Selection via Structure-Aware Search for
+[06:34:11] [arXiv] 6 new papers, 0 errors across 21 queries
+[06:34:11] [GN] Google News RSS...
+[06:36:17]   GN error (TCC): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:38:24]   GN error (iNEST): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:40:32]   GN error (emergence): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:42:39]   GN error (complex-networks): <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，
+[06:42:40] [GN] 0 new articles
+
+  Total: 6 new items to inbox
+[06:42:40] [Process] LLM classify (free tier, limit=20)...
+[06:43:01] [Process] Classified: 0
+[06:43:01] [Genspark] Generating research brief...
+[06:43:01] [Genspark] Research brief written: genspark_research_brief.md
+[06:43:01] [Graph] Scanning wiki links...
+[06:44:50] [Graph] 12351 files, 144240 links
+[06:45:23] [Graph] Exported: 12351 nodes, 138866 edges
+[06:45:23] [Graph] 0 missing backlinks
+[06:45:44] [DailyGen] Daily_Action + Focus + Insights generated
+[06:45:44] [Review] Research task proposals refreshed
+
+============================================================
+  Pipeline v3.3 Complete
+  Sources: 0(S2)+6(arXiv)+0(GN) | Written: 6 new papers
+  Processed: 0 | Nodes: 12351 edges: 138866 | Missing links: 0 | Genspark: OK
+  Elapsed: 942s
+============================================================
+[06:45:45] [State] research_state.json updated
+[06:45:45] [Evolution] Evidence + hypotheses updated
+[06:46:45] [Wiki] Warning: Command '['C:\\Users\\LEO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe', 'D:\\Obsidian\\vault\\90_System\\scripts\\wiki_compiler.py']' timed out after 60 seconds
+[06:46:45] [Insight] Cross-domain bridges updated
+[06:47:06] [Tasks] Research recommendations updated
+[06:47:06] [Dashboard] Live dashboard published
+[06:47:07] [Homepage] Home.md auto-refreshed

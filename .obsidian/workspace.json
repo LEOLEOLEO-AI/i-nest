@@ -4,61 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "7d4abce6a195baf5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "776e046f88bc7424",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "涌现现象：复杂系统的神奇力量 - 科普教育 - 上海市非线性科学研究会 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"40_iNEST/41_Theory/涌现现象：复杂系统的神奇力量 - 科普教育 - 上海市非线性科学研究会 2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"涌现现象：复杂系统的神奇力量 - 科普教育 - 上海市非线性科学研究会 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "人类唯一的出路_变成人工智能_初篇_人类巨灵和大脑结构",
+                  "title": "00_冲刺_学生A_B0",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/concepts/人类唯一的出路_变成人工智能_初篇_人类巨灵和大脑结构.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"人类唯一的出路_变成人工智能_初篇_人类巨灵和大脑结构\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":61.03125}"
-                },
-                {
-                  "title": "index",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"wiki/index.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"index\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5020.043812907045}"
-                },
-                {
-                  "title": "2026-08-23",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99_Meta/evolution_proposals/2026-08-23.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2026-08-23\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":59},\"to\":{\"line\":51,\"ch\":59}},\"scroll\":33.972484772106704}"
-                },
-                {
-                  "title": "CST理论",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"30_TCC/31_Theory/CST理论.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CST理论\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Output/51_Papers/00_冲刺_学生A_B0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"00_冲刺_学生A_B0\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "SUBMISSION_PACKAGE_README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"50_Output/51_Papers/TCC/SUBMISSION_PACKAGE_README.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SUBMISSION_PACKAGE_README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":304.4281994047619}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_TCC/31_Theory/涌现现象：复杂系统的神奇力量_-_科普教育_-_上海市非线性科学研究会.md",
+                "file": "50_Output/51_Papers/【Nature_Communications】告别“人工调参”：华中科技大学提出具身智能奖励函数自动发现框架，破解稀疏奖励难题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -73,7 +49,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "涌现现象：复杂系统的神奇力量_-_科普教育_-_上海市非线性科学研究会"
+              "title": "【Nature_Communications】告别“人工调参”：华中科技大学提出具身智能奖励函数自动发现框架，破解稀疏奖励难题"
             }
           }
         ]
@@ -421,8 +397,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "776e046f88bc7424",
   "lastOpenFiles": [
+    "50_Output/51_Papers/00_冲刺_学生A_B0.md",
+    "50_Output/51_Papers/TCC/SUBMISSION_PACKAGE_README.md",
+    "50_Output/51_Papers/TCC/Figure4_SDI_Architecture.pdf",
+    "50_Output/51_Papers/TCC/Figure3_Three_Wall_Theorem.pdf",
+    "50_Output/51_Papers/TCC/Figure2_Topology_Comparison.pdf",
+    "50_Output/51_Papers/TCC/Figure1_EIR_vs_Workload.pdf",
+    "30_TCC/31_Theory/涌现现象：复杂系统的神奇力量_-_科普教育_-_上海市非线性科学研究会.md",
     "00_Inbox/美国《科学：新的黄金时代》报告深度解析：科研体制改革的机遇与争议.md",
     "00_Inbox/核查折子关键事实.md",
     "00_Inbox/小米三颗玄戒自研芯片全解析：手机SoC跑分首破500万，3nm智驾芯片明年商用.md",
@@ -432,7 +415,6 @@
     "60_MOC/02_DeepSeek_Insights_2026-08-24.md",
     "60_MOC/12_Knowledge_Review_2026-08-24.md",
     "40_iNEST/41_Theory/涌现现象：复杂系统的神奇力量 - 科普教育 - 上海市非线性科学研究会 2.md",
-    "30_TCC/31_Theory/涌现现象：复杂系统的神奇力量_-_科普教育_-_上海市非线性科学研究会.md",
     "40_iNEST/41_Theory/涌现现象：复杂系统的神奇力量 - 科普教育 - 上海市非线性科学研究会 1.md",
     "wiki/backlinks.md",
     "wiki/concepts/STDP_iNEST.md",
@@ -447,18 +429,12 @@
     "wiki/index.md",
     "99_Meta/evolution_proposals/2026-08-23.md",
     "wiki/concepts/AndersonTransition.md",
-    "wiki/concepts/AdaptiveFunctionalTopology.md",
-    "wiki/concepts/3DHI_Interconnect.md",
     "90_System/scripts/wiki_compiler.py~2676",
     "90_System/scripts/wiki_compiler.py.new",
     "90_System/scripts/wiki_grow.py~24740",
     "99_Meta/lessons_learned.md.new",
     "90_System/scripts/self_evolve.py.new",
     "90_System/scripts/wiki_grow.py.new",
-    "logs/pipeline_20260824_0644.json",
-    "logs/pipeline_guard_20260824_063001.log",
-    "99_Meta/self_evolve_run_2026-08-24.log",
-    "90_System/scripts/pipeline_v3.py~44788",
     "40_iNEST/41_Theory/lambda_star_convergence.png",
     "40_iNEST/41_Theory/lambda_star_convergence.svg",
     "50_Output/59_Presentations/2026-08-10_znest-brain-emergence/ppt/shots/part3_appendix.png",

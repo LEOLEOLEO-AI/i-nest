@@ -455,7 +455,15 @@
       "file": "00_Inbox\\_pipeline_insights\\2026-08-25_arXiv_Assessing Triple Modular Redundancy for Wide-Link, Low-Laten.md",
       "discovered": "2026-08-25",
       "status": "pending_review"
+    },
+    {
+      "title": "Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learning in Conventional Computing",
+      "url": "http://arxiv.org/abs/2608.22729v1",
+      "relevance": 2,
+      "file": "00_Inbox\\_pipeline_insights\\2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic .md",
+      "discovered": "2026-08-26",
+      "status": "pending_review"
     }
   ],
-  "last_updated": "2026-08-25T06:45:17.501683"
+  "last_updated": "2026-08-26T06:45:45.321845"
 }

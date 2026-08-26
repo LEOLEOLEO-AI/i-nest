@@ -113,3 +113,22 @@
 - **wiki_grow 批量删除护栏持续阻塞**：连续 2 天（08-23、08-24）因 `SAFE_DELETE_BULK_CONFIRM_REQUIRED` 失败。脚本不自动确认、非破坏性。建议人工在交互环境确认或将阈值纳入白名单后重跑，否则交叉链接/去重长期不刷新。
 - 增量编译今日 0 新来源 → 不耗 LLM，运行快（6m42s）。
 - 运行日志：`99_Meta/self_evolve_run_2026-08-24.log`；结构化：`99_Meta/self_evolve_log.json`
+
+### 2026-08-25 执行 (8m34s, EXIT_CODE=0)
+状态：**整体 exit 0；compile 崩溃（新失败模式），git 实质成功（已推送 github）**
+
+| 步骤 | 结果 | 说明 |
+|---|---|---|
+| 1. 增量编译 wiki_compiler | ❌ 失败 | exit 1，**新失败模式**：`FileNotFoundError: wiki/concepts/reservoir computing.md`（带空格），实际文件为 `reservoir_computing.md`（下划线 slug）。崩溃发生在处理新来源前 → 今日 pending（6 inbox）未编译 |
+| 2. wiki_grow 交叉链接/去重 | ✅ 成功 | exit 0，5067 概念 / 5062 linked / 2765 orphans；index/backlinks/health 刷新（SAFE_DELETE 护栏今日未触发）|
+| 3. 全库健康自检 | ✅ 完成 | 11066 笔记 / 3936 断链 / 2583 孤儿 / 929 缺 FM → `99_Meta/vault_health.md` |
+| 4. 自我生长 | ✅ 完成 | 无新缺失概念需补全（grow 已足够链接）|
+| 5. Phase4 引擎 | ✅ 完成 | import(0 新)/task/evolution/cross_domain/hypothesis 均 exit 0 |
+| 6. 刷新 Home.md | ✅ 完成 | Home.md(5677) + 70_Dashboard/data.js |
+| 7. git 提交/推送 | ⚠️ 脚本标记失败，实则成功 | 脚本 `git add` 命中瞬时 `.git/index.lock`（疑似 03:00 并发另一次 git 操作），但 commit `92d3aabf` 已创建且 `github/main` 与 HEAD 一致、`ls-remote` 确认已推送。少量工作区改动未纳入 |
+
+### 待处理 / 风险（重要更新）
+- **wiki_compiler 崩溃（新 bug，需修复）**：概念文件名 slug 不一致——索引/state 以空格 `reservoir computing.md` 引用，实际文件为下划线 `reservoir_computing.md`。崩溃阻断了今日新增来源的编译。建议排查 wiki_compiler 的 filename 构建/查找逻辑（空格 vs 下划线 slug）；`state/wiki_compiler_state.json` 含 "reservoir computing" 字符串，疑为源头。
+- **git 推送问题已解决（已验证）**：commit `92d3aabf` 已推送 github main（`github/main` 本地 ref 与 `ls-remote` 均 = HEAD）。03:00 疑似瞬时并发 git 操作留锁，建议确认是否重复触发自进化（避免并发）。
+- **残留未提交工作区改动**（非破坏性，下次运行或手动提交即可）：`.gitignore.new`(D)、`workspace.json`、`60_MOC/...md`、`Home.md`、`self_evolve_log.json`、run log。
+- 运行日志：`99_Meta/self_evolve_run_2026-08-25.log`；结构化：`99_Meta/self_evolve_log.json`

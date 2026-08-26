@@ -575,6 +575,84 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-08-25_arXiv_Identifying the structure of dynamical transitions in logist.md"
       },
       "cached_at": "2026-08-25T06:45:16"
+    },
+    "5a75c5953d2451247566135e1371a486a0671525ed794b89b1c89c63fef26580": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learn",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic .md"
+      },
+      "cached_at": "2026-08-26T06:45:44"
+    },
+    "5ffcbe9ae7a8112e9fca1b0eada533e4e9e7eae998e59ccee3ddd8bf65479eb2": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Synchronization induces Bell violations in a model of walking droplets",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-26_arXiv_Synchronization induces Bell violations in a model of walkin.md"
+      },
+      "cached_at": "2026-08-26T06:45:44"
+    },
+    "2027e5aee4ebe74e7b81aacd104d73595674e9ca7b9728e966a741c01cac53b8": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Quantum Reservoir Computing with Physics-Informed Correction for Reduced-Order P",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction.md"
+      },
+      "cached_at": "2026-08-26T06:45:44"
+    },
+    "a9f3880addd2732e5b6607e22e5354b1dd166b4dbb20cdf4e857c139a0e98483": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Device",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-26_arXiv_Polymer-Linked Nanoparticle Networks Running on Heat Can Act.md"
+      },
+      "cached_at": "2026-08-26T06:45:44"
+    },
+    "9d3ba9bf43ba0b1de678bb1210c256a122840a60b8fd3c884c10c19b2376de7c": {
+      "analysis": {
+        "id": 5,
+        "title_zh": "Identifying Probability Localization Dynamics via Structured Stochastic Liftings",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-26_arXiv_Identifying Probability Localization Dynamics via Structured.md"
+      },
+      "cached_at": "2026-08-26T06:45:44"
+    },
+    "e8459d79585eb3b1051d4eabe24b170d4ddce81cd96f5d5bd5921f60f1b4738f": {
+      "analysis": {
+        "id": 6,
+        "title_zh": "The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 4,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte.md"
+      },
+      "cached_at": "2026-08-26T06:45:44"
     }
   }
 }
