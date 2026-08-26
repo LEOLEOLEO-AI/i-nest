@@ -1,11 +1,11 @@
 ---
-title: iNEST+TCC Research Brief - 2026-08-25
-date: 2026-08-25
+title: iNEST+TCC Research Brief - 2026-08-26
+date: 2026-08-26
 type: research-brief
 target: genspark
 ---
 
-# iNEST + TCC Research Brief - 2026-08-25
+# iNEST + TCC Research Brief - 2026-08-26
 
 > For Genspark deep analysis. Contains actionable research context.
 
@@ -33,23 +33,23 @@ target: genspark
 
 ## 4. Inbox Highlights
 
+- [2026-08-26] **2026-08-26_arXiv_Identifying Probability Localization Dynamics via Structured** (_pipeline_insights)
+- [2026-08-26] **2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction** (_pipeline_insights)
+- [2026-08-26] **2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte** (_pipeline_insights)
+- [2026-08-26] **2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic ** (_pipeline_insights)
+- [2026-08-26] **2026-08-26_arXiv_Polymer-Linked Nanoparticle Networks Running on Heat Can Act** (_pipeline_insights)
+- [2026-08-26] **2026-08-26_arXiv_Synchronization induces Bell violations in a model of walkin** (_pipeline_insights)
+- [2026-08-25] **先进计算与芯片领域项目研讨及科创公司筹备会议记录** (root)
 - [2026-08-25] **2026-08-25_arXiv_Event-triggered Implicit Perturbation for Zeroth-Order Fine-** (_pipeline_insights)
-- [2026-08-25] **2026-08-25_arXiv_Identifying the structure of dynamical transitions in logist** (_pipeline_insights)
-- [2026-08-25] **2026-08-25_arXiv_Assessing Triple Modular Redundancy for Wide-Link, Low-Laten** (_pipeline_insights)
-- [2026-08-24] **美国《科学：新的黄金时代》报告深度解析：科研体制改革的机遇与争议** (root)
-- [2026-08-24] **核查折子关键事实** (root)
-- [2026-08-24] **小米三颗玄戒自研芯片全解析：手机SoC跑分首破500万，3nm智驾芯片明年商用** (root)
-- [2026-08-24] **关于“十五五”晶上二期组织与实施模式的建议** (root)
-- [2026-08-24] **SIGCOMM 2026 深度解读：KV Cache 如何从 GPU 内部状态变成网络研究核心** (root)
 
 ## 5. Knowledge Graph Hotspots
 
-Total notes: 12302
-Graph nodes: 12200 | edges: 107015
+Total notes: 12360
+Graph nodes: 12293 | edges: 128461
 
 Top connected topics:
-- **index** (degree=5181)
-- **backlinks** (degree=5054)
+- **backlinks** (degree=6307)
+- **index** (degree=5067)
 - **00_iNEST_全景知识图谱** (degree=1182)
 - **神经科学、AGI与神经形态计算的融合：统一研究范式与挑战** (degree=395)
 - **TCC_iNEST_成果全景** (degree=291)
@@ -62,4 +62,4 @@ Top connected topics:
 (Run innovation_engine.py to generate)
 
 ---
-*Research brief auto-generated 2026-08-25 06:42*
+*Research brief auto-generated 2026-08-26 06:43*

@@ -4,7 +4,7 @@ cssclass: dashboard
 
 # 🔬 TCC × iNEST 自进化研发中枢
 
-> **知识库状态：活跃** | 管线：❓ unknown | Git: 4847 uncommitted | 更新：2026-08-26 03:16
+> **知识库状态：活跃** | 管线：❓ unknown | Git: 27 uncommitted | 更新：2026-08-26 06:47
 
 ---
 
@@ -12,10 +12,10 @@ cssclass: dashboard
 
 | 维度 | 数值 | 入口 |
 |---|---|---|
-| 📄 知识库总文件 | **12,354** | [[Home\|根目录/Home]] |
+| 📄 知识库总文件 | **12,361** | [[Home\|根目录/Home]] |
 | 🔬 TCC 资料 | **1,926** | [[30_TCC/TCC_Master_Index\|TCC 主索引]] |
 | 🧠 iNEST 资料 | **1,437** | [[40_iNEST/iNEST_Master_Index\|iNEST 主索引]] |
-| 📥 待处理论文 | **181** | [[00_Inbox/_pipeline_insights/Index\|论文收件箱]] |
+| 📥 待处理论文 | **187** | [[00_Inbox/_pipeline_insights/Index\|论文收件箱]] |
 | ⚙️ 处理中 | **617** | [[20_Processing\|处理区]] |
 | 📤 成果区 | **458** | [[50_Output\|50_Output 成果区]] |
 
@@ -26,7 +26,7 @@ cssclass: dashboard
 | 维度 | 数值 | 变化 |
 |---|---|---|
 | 🏷️ 概念总数 | **4865** | TCC=1251, iNEST=1614, Cross=2000 |
-| 📝 编译文章 | **1021** | raw/ → wiki/articles/ |
+| 📝 编译文章 | **1022** | raw/ → wiki/articles/ |
 | 🌉 跨域桥梁 | **3** | 强度 833/617/508 |
 
 **入口**：[[wiki/index|Wiki 概念索引]] · [[wiki/health|知识健康报告]] · [[wiki/cross_domain_insights|跨域洞察]] · [[wiki/task_recommendations|任务推荐]]
@@ -56,7 +56,7 @@ cssclass: dashboard
 >[!tip] 知识库维护
 >- [[wiki/task_recommendations|查看自动推荐任务]]
 >- [[60_MOC/07_Pipeline_Status|管线状态]]：`❓ unknown`
->- Git：4847 uncommitted changes
+>- Git：27 uncommitted changes
 
 **入口**：[[60_MOC/03_Daily_Action|每日行动]] · [[60_MOC/04_Daily_Focus|今日焦点]] · [研发看板（浏览器打开）](http://127.0.0.1:8899/vault/70_Dashboard/index.html)
 
@@ -111,7 +111,7 @@ cssclass: dashboard
 ```text
 论文导入 → Inbox → 管线筛选 → raw/
     ↓
-wiki_compiler → wiki/ (4865 概念, 1021 文章)
+wiki_compiler → wiki/ (4865 概念, 1022 文章)
     ↓
 跨域洞察 + 任务推荐 + 假设验证
     ↓
@@ -165,8 +165,6 @@ Processing → TCC/iNEST → Output
 
 | 日期 | 断链 | 孤儿 | 缺FM |
 |---|---|---|---|
-| 2026-08-10 | 2031 | 2444 | 252 |
-| 2026-08-11 | 2006 | 3224 | 259 |
 | 2026-08-19 | 2081 | 3341 | 367 |
 | 2026-08-20 | 1999 | 2472 | 370 |
 | 2026-08-21 | 1969 | 2489 | 399 |
@@ -175,6 +173,8 @@ Processing → TCC/iNEST → Output
 | 2026-08-24 | 3638 | 3464 | 915 |
 | 2026-08-25 | 3936 | 2583 | 929 |
 | 2026-08-25 | 3936 | 2583 | 929 |
+| 2026-08-26 | 3919 | 2589 | 935 |
+| 2026-08-26 | 3919 | 2589 | 935 |
 
 > 完整日志 → [[99_Meta/self_evolve_log.json|自进化日志]] · 健康报告 → [[wiki/health|知识健康报告]]
 
@@ -211,4 +211,4 @@ Processing → TCC/iNEST → Output
 
 ---
 
-*主页由 homepage_generator.py 自动刷新 | 2026-08-26 03:16*
+*主页由 homepage_generator.py 自动刷新 | 2026-08-26 06:47*

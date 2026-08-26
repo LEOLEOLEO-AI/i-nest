@@ -1,10 +1,10 @@
-# 每日行动洞察 — 2026-08-25
+# 每日行动洞察 — 2026-08-26
 
-> 自动生成 | 入库 3 篇 | 基于题目与摘要的分析 Top 3 篇
+> 自动生成 | 入库 6 篇 | 基于题目与摘要的分析 Top 6 篇
 
 ## 今日高价值论文摘要分析
 
-### ⭐⭐⭐⭐⭐ [Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Tr](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-25_arXiv_Event-triggered%20Implicit%20Perturbation%20for%20Zeroth-Order%20Fine-.md)
+### ⭐⭐⭐⭐⭐ [Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learn](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_Spiking%20Neural%20Networks%20for%20Continuous%20Control%20Neuromorphic%20.md)
 
 **iNEST 价值**: 关键词匹配,需深入阅读
 
@@ -12,15 +12,39 @@
 
 ---
 
-### ⭐⭐⭐⭐⭐ [Assessing Triple Modular Redundancy for Wide-Link, Low-Latency NoC Routers: Reli](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-25_arXiv_Assessing%20Triple%20Modular%20Redundancy%20for%20Wide-Link%2C%20Low-Laten.md)
+### ⭐⭐⭐⭐⭐ [Synchronization induces Bell violations in a model of walking droplets](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_Synchronization%20induces%20Bell%20violations%20in%20a%20model%20of%20walkin.md)
 
-**TCC 价值**: 关键词匹配,需深入阅读
+**iNEST 价值**: 关键词匹配,需深入阅读
 
 **💡 灵感启迪**: 建议阅读全文,评估方法论借鉴价值
 
 ---
 
-### ⭐⭐⭐ [Identifying the structure of dynamical transitions in logistic map](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-25_arXiv_Identifying%20the%20structure%20of%20dynamical%20transitions%20in%20logist.md)
+### ⭐⭐⭐⭐⭐ [Quantum Reservoir Computing with Physics-Informed Correction for Reduced-Order P](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_Quantum%20Reservoir%20Computing%20with%20Physics-Informed%20Correction.md)
+
+**iNEST 价值**: 关键词匹配,需深入阅读
+
+**💡 灵感启迪**: 建议阅读全文,评估方法论借鉴价值
+
+---
+
+### ⭐⭐⭐⭐⭐ [Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Device](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_Polymer-Linked%20Nanoparticle%20Networks%20Running%20on%20Heat%20Can%20Act.md)
+
+**iNEST 价值**: 关键词匹配,需深入阅读
+
+**💡 灵感启迪**: 建议阅读全文,评估方法论借鉴价值
+
+---
+
+### ⭐⭐⭐⭐⭐ [Identifying Probability Localization Dynamics via Structured Stochastic Liftings](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_Identifying%20Probability%20Localization%20Dynamics%20via%20Structured.md)
+
+**iNEST 价值**: 关键词匹配,需深入阅读
+
+**💡 灵感启迪**: 建议阅读全文,评估方法论借鉴价值
+
+---
+
+### ⭐⭐⭐⭐ [The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_The%20Emergence%20of%20Relevance%20Through%20Axiomatic%20Attention%20Patte.md)
 
 **iNEST 价值**: 关键词匹配,需深入阅读
 
@@ -36,4 +60,4 @@
 4. **专利修订** — TCC 架构与实现两项专利，7月30日前申报
 5. **研发路线迭代** — 将文献灵感写入研发看板，更新技术路线图
 
-*生成于 2026-08-25 06:44*
+*生成于 2026-08-26 06:45*
