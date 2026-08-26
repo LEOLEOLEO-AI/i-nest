@@ -3,8 +3,8 @@
     {
       "id": "H1",
       "title": "TCC: 拓扑互连可实现超加性计算增益 (1+1>2)",
-      "status": "proven",
-      "evidence": "P1_Superadditivity proof"
+      "status": "under_investigation",
+      "evidence": "P1_Superadditivity proof（形式证明[S]；实验/仿真验证[待测]，2026-08-26 诊断降级：勿与[实测]混淆）"
     },
     {
       "id": "H2",
