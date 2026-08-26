@@ -249,7 +249,7 @@ SDDE系统的稳态分布，就是自由能最小的分布。系统的动力学�
 - 神经流形实验：Churchland et al. (2012) *Nature* ——运动皮层的群体活动落在低维环面上
 - 视觉皮层的表征几何：Yamins & DiCarlo (2016) *Nature Neuroscience*
 - 流形假设：深度学习领域广泛验证——自然数据分布在低维流形上
-- 人工神经流形：[引用] "Artificial neural manifolds", *Nature Communications* 17, 75979 (2026), DOI: 10.1038/s41467-026-75979-6（NbOx Mott 忆阻器实现人工神经流形；全文待入库对照数值）
+- 人工神经流形：[引用] R. Wang et al., "Artificial neural manifolds", *Nature Communications* 17, 75979 (2026), DOI: 10.1038/s41467-026-75979-6（Mott/NbOx 忆阻器实现人工神经流形；已核 PMC13443166，γ-SSIM 等数据一致）
 
 **在SDDE中的体现：**
 SDDE的吸引子景观就是流形的动力学版本。高维状态空间被SDDE的动力学约束到低维吸引子流形上，状态在流形上运动。**流形不是预先存在的静态几何，而是SDDE动力学本身塑造的结构。**
