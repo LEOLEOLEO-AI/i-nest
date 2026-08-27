@@ -1,10 +1,10 @@
-# 每日行动洞察 — 2026-08-26
+# 每日行动洞察 — 2026-08-27
 
-> 自动生成 | 入库 6 篇 | 基于题目与摘要的分析 Top 6 篇
+> 自动生成 | 入库 7 篇 | 基于题目与摘要的分析 Top 5 篇
 
 ## 今日高价值论文摘要分析
 
-### ⭐⭐⭐⭐⭐ [Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learn](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_Spiking%20Neural%20Networks%20for%20Continuous%20Control%20Neuromorphic%20.md)
+### ⭐⭐⭐⭐⭐ [Low-Latency Activation-Regularized Sparse Neural Operators with Distillation Ass](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-27_arXiv_Low-Latency%20Activation-Regularized%20Sparse%20Neural%20Operators%20w.md)
 
 **iNEST 价值**: 关键词匹配,需深入阅读
 
@@ -12,7 +12,15 @@
 
 ---
 
-### ⭐⭐⭐⭐⭐ [Synchronization induces Bell violations in a model of walking droplets](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_Synchronization%20induces%20Bell%20violations%20in%20a%20model%20of%20walkin.md)
+### ⭐⭐⭐⭐⭐ [Thermal Tuning Overhead in Wafer-Scale Optical Interconnects for LLM MoE Trainin](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-27_arXiv_Thermal%20Tuning%20Overhead%20in%20Wafer-Scale%20Optical%20Interconnects.md)
+
+**TCC 价值**: 关键词匹配,需深入阅读
+
+**💡 灵感启迪**: 建议阅读全文,评估方法论借鉴价值
+
+---
+
+### ⭐⭐⭐⭐⭐ [Small-World Communication Fabrics for Neuromorphic Multicore-SoCs](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-27_arXiv_Small-World%20Communication%20Fabrics%20for%20Neuromorphic%20Multicore.md)
 
 **iNEST 价值**: 关键词匹配,需深入阅读
 
@@ -20,7 +28,7 @@
 
 ---
 
-### ⭐⭐⭐⭐⭐ [Quantum Reservoir Computing with Physics-Informed Correction for Reduced-Order P](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_Quantum%20Reservoir%20Computing%20with%20Physics-Informed%20Correction.md)
+### ⭐⭐⭐⭐⭐ [Sensor Drift Compensation via Olfactory system and Reservoir Computing](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-27_arXiv_Sensor%20Drift%20Compensation%20via%20Olfactory%20system%20and%20Reservoir.md)
 
 **iNEST 价值**: 关键词匹配,需深入阅读
 
@@ -28,25 +36,9 @@
 
 ---
 
-### ⭐⭐⭐⭐⭐ [Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Device](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_Polymer-Linked%20Nanoparticle%20Networks%20Running%20on%20Heat%20Can%20Act.md)
+### ⭐⭐⭐⭐⭐ [NoC-Out: A Formally-verified Network-on-Chip Library for Rule-based Hardware Des](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-27_arXiv_NoC-Out%20A%20Formally-verified%20Network-on-Chip%20Library%20for%20Rule.md)
 
-**iNEST 价值**: 关键词匹配,需深入阅读
-
-**💡 灵感启迪**: 建议阅读全文,评估方法论借鉴价值
-
----
-
-### ⭐⭐⭐⭐⭐ [Identifying Probability Localization Dynamics via Structured Stochastic Liftings](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_Identifying%20Probability%20Localization%20Dynamics%20via%20Structured.md)
-
-**iNEST 价值**: 关键词匹配,需深入阅读
-
-**💡 灵感启迪**: 建议阅读全文,评估方法论借鉴价值
-
----
-
-### ⭐⭐⭐⭐ [The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine](http://127.0.0.1:8899/vault/00_Inbox/_pipeline_insights/2026-08-26_arXiv_The%20Emergence%20of%20Relevance%20Through%20Axiomatic%20Attention%20Patte.md)
-
-**iNEST 价值**: 关键词匹配,需深入阅读
+**TCC 价值**: 关键词匹配,需深入阅读
 
 **💡 灵感启迪**: 建议阅读全文,评估方法论借鉴价值
 
@@ -60,4 +52,4 @@
 4. **专利修订** — TCC 架构与实现两项专利，7月30日前申报
 5. **研发路线迭代** — 将文献灵感写入研发看板，更新技术路线图
 
-*生成于 2026-08-26 06:45*
+*生成于 2026-08-27 06:43*

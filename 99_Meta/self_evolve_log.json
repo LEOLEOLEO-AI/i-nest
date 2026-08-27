@@ -4915,5 +4915,165 @@
       "已提交 4815 个文件。",
       "已推送 github main。"
     ]
+  },
+  {
+    "date": "2026-08-27",
+    "time": "2026-08-27T03:00:01.693145",
+    "steps": {
+      "compile": true,
+      "grow": true,
+      "health": {
+        "date": "2026-08-27",
+        "total_notes": 10828,
+        "missing_frontmatter": 936,
+        "broken_links": 3956,
+        "broken_samples": [
+          [
+            "temporalComplexity",
+            283
+          ],
+          [
+            "soc",
+            202
+          ],
+          [
+            "Neuromorphic_computing",
+            192
+          ],
+          [
+            "criticality",
+            160
+          ],
+          [
+            "inest",
+            94
+          ],
+          [
+            "Spiking_neural_network",
+            58
+          ],
+          [
+            "tcc",
+            56
+          ],
+          [
+            "connectome",
+            42
+          ],
+          [
+            "Spike_timing_dependent_plasticity",
+            32
+          ],
+          [
+            "heterogeneous_integration",
+            32
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_",
+            29
+          ],
+          [
+            "GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查",
+            18
+          ],
+          [
+            "tools",
+            18
+          ],
+          [
+            "GetNote_20260606_100554_kb_paper-ideas_getnote_1906500077841850152_从冯诺依曼到网络中心_计算范式迁移的第一性原理综述",
+            17
+          ],
+          [
+            "Universal Scaling Laws for Intelligence Emergence from Device-Level Nonlinearities  A Renormalization Group Approach",
+            16
+          ],
+          [
+            "2026-06-28_Getnote_2026-06-28_拓扑中心计算范式架构研究与液态拓扑生成式计算原型验证项目指南 8.0",
+            13
+          ],
+          [
+            "GetNote_20260606_100554_kb_DARPA-research_getnote_1896185525975594536_DARPA传感器_电子战与通信领域深度研究报告_下册__能力与技术预测_2025-2035_",
+            13
+          ],
+          [
+            "GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景",
+            13
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破",
+            13
+          ],
+          [
+            "Soc",
+            13
+          ],
+          [
+            "The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025",
+            12
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1887266194235479456_晶上大脑基础研究课题",
+            11
+          ],
+          [
+            "INEST",
+            11
+          ],
+          [
+            "GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订",
+            10
+          ],
+          [
+            "82岁江泽民在2008年发表论文指出：发展智能化，机器学习将有所作为…… (1)",
+            10
+          ]
+        ],
+        "orphan_notes": 2444
+      },
+      "grow_concepts": [
+        "82岁江泽民在2008年发表论文指出：发展智能化，机器学习将有所作为…… (1)",
+        "关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议4",
+        "neuromorphic interconnect",
+        "BNN vs ANN (1)"
+      ],
+      "phase4": {
+        "import_processor": true,
+        "task_recommender": true,
+        "research_evolution": true,
+        "cross_domain_insight": true,
+        "hypothesis_engine": true,
+        "inspiration_engine": false,
+        "patent_scout": true
+      },
+      "homepage": true,
+      "dashboard": true,
+      "git": true
+    },
+    "log": [
+      "=== 自进化编排开始 ===",
+      "运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...",
+      "wiki_compiler 退出码=0 | end closed connection without response\n[03:42:49]   LLM extracted 0 additional concepts (keyword: 0)\n[03:42:49] Phase 2-3: 29 articles, 4 concepts\n[03:44:53] Phase 4: Index and backlinks updated\n[03:45:20] Phase 5: Health report generated\n[03:45:20] === Compile complete: 29 articles, 4 concepts ===\n",
+      "运行 wiki_grow 交叉链接/去重...",
+      "wiki_grow 退出码=0 | piling regexes...\n  regexes ready: 5065 phrases + 5087 slugs\n  union regex built (5087 concepts)\n  linking concepts...\n  shared-term linking...\n  linking articles...\n  concepts now: 5092 | linked: 5082 | orphans: 2321\n  index/backlinks/health refreshed.\n[03:52:16] wiki_grow done — orphans 2321/5092\n",
+      "运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...",
+      "健康自检: 笔记 10828 | 真正断链 3956 | 孤儿 2444 | 缺FM 936 -> vault_health.md",
+      "自我生长: 补全高频缺失概念占位笔记...",
+      "已补全 4 个缺失概念: ['82岁江泽民在2008年发表论文指出：发展智能化，机器学习将有所作为…… (1)', '关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议4', 'neuromorphic interconnect', 'BNN vs ANN (1)']",
+      "运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...",
+      "import_processor 退出码=0 | Genspark=0, 得到大脑=0, Codex=0\n[03:52:37] Total new files in raw/: 0\n[03:52:37] Inbox pending: 2 files\n[03:52:37] New imports detected — wiki_compiler.py should be triggered next\n[03:52:37] === Done ===\n",
+      "task_recommender 退出码=0 | sights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n  [LOW   ] Review and incorporate insights into wiki\n[03:53:06] === Done ===\n",
+      "research_evolution 退出码=0 | [03:53:06] === Research Evolution Engine ===\n[03:53:06] Hypothesis updates: 0\n[03:53:07] Research directions: 0\n[03:53:07] Report: wiki/evolution_report.md\n[03:53:07] === Done ===\n",
+      "cross_domain_insight 退出码=0 | _Integration\n       iNEST: Electrolyte_Bonding_Engineering, FeFET_Polarization_Switching, FerroelectricSynapticArray\n\nCross-domain articles: 0\n\nReport: D:\\Obsidian\\vault\\wiki\\cross_domain_insights.md\n",
+      "hypothesis_engine 退出码=0 | [hypothesis_engine] 无新假设需添加\n",
+      "inspiration_engine 退出码=124 | TIMEOUT after 120s",
+      "patent_scout 退出码=0 |  → H7_disclosure.md\n  [HIGH] H8: TCC×iNEST: 晶圆级集成可在单die上实现百万级神经元实时仿真 → H8_disclosure.md\n  [MEDIUM] H9: TCC×iNEST: 3D-IC堆叠模拟皮层柱状架构可实现密集神经处理层 → H9_disclosure.md\n\n[patent_scout] 扫描完成: 9 个假设中识别出 8 个可专利方向\n",
+      "刷新 Home.md (实时 git)...",
+      "homepage 退出码=0 | [03:55:07] === Homepage Generator ===\n[03:55:08] 70_Dashboard/data.js generated\n[03:55:08] Home.md generated (5690 chars)\n[03:55:08] === Done ===\n",
+      "research_dashboard 退出码=0",
+      "git add 部分目录无匹配(正常): The following paths are ignored by one of your .gitignore files:\nknowledge_graph\nhint: Use -f if you",
+      "已提交 4654 个文件。",
+      "已推送 github main。"
+    ]
   }
 ]

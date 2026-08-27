@@ -653,6 +653,71 @@
         "source_path": "00_Inbox\\_pipeline_insights\\2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte.md"
       },
       "cached_at": "2026-08-26T06:45:44"
+    },
+    "168907d7a2ce411f3eb33dfe7c1f766eb450a38567b99792aa89b47614e3df83": {
+      "analysis": {
+        "id": 1,
+        "title_zh": "Low-Latency Activation-Regularized Sparse Neural Operators with Distillation Ass",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-27_arXiv_Low-Latency Activation-Regularized Sparse Neural Operators w.md"
+      },
+      "cached_at": "2026-08-27T06:43:41"
+    },
+    "15df2b6af2f82a5f1c8ff81737365bc1e44cfe604636b81027452a76cd1fbd4b": {
+      "analysis": {
+        "id": 2,
+        "title_zh": "Thermal Tuning Overhead in Wafer-Scale Optical Interconnects for LLM MoE Trainin",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-27_arXiv_Thermal Tuning Overhead in Wafer-Scale Optical Interconnects.md"
+      },
+      "cached_at": "2026-08-27T06:43:41"
+    },
+    "592375e09f32c9f26c4158dff2f32a33a26359399f09952f3affd985829ab8e4": {
+      "analysis": {
+        "id": 3,
+        "title_zh": "Small-World Communication Fabrics for Neuromorphic Multicore-SoCs",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-27_arXiv_Small-World Communication Fabrics for Neuromorphic Multicore.md"
+      },
+      "cached_at": "2026-08-27T06:43:41"
+    },
+    "3cd6f5f82127d5c8348d2f2aad4dd2c33f922d102bc5550550f4ccf20e2c2144": {
+      "analysis": {
+        "id": 4,
+        "title_zh": "Sensor Drift Compensation via Olfactory system and Reservoir Computing",
+        "tcc_value": "",
+        "inest_value": "关键词匹配,需深入阅读",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-27_arXiv_Sensor Drift Compensation via Olfactory system and Reservoir.md"
+      },
+      "cached_at": "2026-08-27T06:43:41"
+    },
+    "95633f0a1b0cc8c72631f309bbda18b3ab786c80d7f24bcb46d1d42be803982e": {
+      "analysis": {
+        "id": 5,
+        "title_zh": "NoC-Out: A Formally-verified Network-on-Chip Library for Rule-based Hardware Des",
+        "tcc_value": "关键词匹配,需深入阅读",
+        "inest_value": "",
+        "inspiration": "建议阅读全文,评估方法论借鉴价值",
+        "relevance": 5,
+        "analysis_basis": "abstract",
+        "source_path": "00_Inbox\\_pipeline_insights\\2026-08-27_arXiv_NoC-Out A Formally-verified Network-on-Chip Library for Rule.md"
+      },
+      "cached_at": "2026-08-27T06:43:41"
     }
   }
 }

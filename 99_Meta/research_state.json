@@ -1,52 +1,67 @@
 {
-  "generated": "2026-08-26T20:10:53.256578",
+  "generated": "2026-08-27T06:43:41.905999",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 10872,
-    "inbox_00": 186,
+    "total_md": 10908,
+    "inbox_00": 193,
     "processing_20": 561,
-    "tcc_30": 1826,
-    "inest_40": 1211,
-    "output_50": 441,
-    "moc_60": 69
+    "tcc_30": 1829,
+    "inest_40": 1221,
+    "output_50": 429,
+    "moc_60": 70
   },
   "services": {
-    "preview_server_8899": false,
+    "preview_server_8899": true,
     "jojo_llm_57321": false,
     "jojo_fixer_57320": false
   },
   "pipeline": {
     "ingested_today": {
-      "today": 6,
-      "total": 186,
+      "today": 7,
+      "total": 193,
       "recent": [
         {
-          "file": "2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte.md",
-          "preview": "---\ntitle: \"The Emergence of Relevance Through Axiomatic Attention Patterns During LoRA Fine-Tuning\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.233"
+          "file": "2026-08-27_arXiv_Thermal Tuning Overhead in Wafer-Scale Optical Interconnects.md",
+          "preview": "---\ntitle: \"Thermal Tuning Overhead in Wafer-Scale Optical Interconnects for LLM MoE Training: A Cross-Layer Analysis and Ferroelectric-Based Mitigation\"\ndate: 2026-08-27\nsource: arXiv\ntrack: TCC\nauth"
         },
         {
-          "file": "2026-08-26_arXiv_Synchronization induces Bell violations in a model of walkin.md",
-          "preview": "---\ntitle: \"Synchronization induces Bell violations in a model of walking droplets\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.21915v1\ntags: [inbox"
+          "file": "2026-08-27_arXiv_Small-World Communication Fabrics for Neuromorphic Multicore.md",
+          "preview": "---\ntitle: \"Small-World Communication Fabrics for Neuromorphic Multicore-SoCs\"\ndate: 2026-08-27\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.24351v1\ntags: [inbox, ine"
         },
         {
-          "file": "2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic .md",
-          "preview": "---\ntitle: \"Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learning in Conventional Computing\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://"
+          "file": "2026-08-27_arXiv_Sensor Drift Compensation via Olfactory system and Reservoir.md",
+          "preview": "---\ntitle: \"Sensor Drift Compensation via Olfactory system and Reservoir Computing\"\ndate: 2026-08-27\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.24288v1\ntags: [inbox"
         },
         {
-          "file": "2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction.md",
-          "preview": "---\ntitle: \"Quantum Reservoir Computing with Physics-Informed Correction for Reduced-Order PDE Forecasting\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2"
+          "file": "2026-08-27_arXiv_NoC-Out A Formally-verified Network-on-Chip Library for Rule.md",
+          "preview": "---\ntitle: \"NoC-Out: A Formally-verified Network-on-Chip Library for Rule-based Hardware Designs\"\ndate: 2026-08-27\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.24478v1\n"
         },
         {
-          "file": "2026-08-26_arXiv_Polymer-Linked Nanoparticle Networks Running on Heat Can Act.md",
-          "preview": "---\ntitle: \"Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Devices\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.22841v1\nt"
+          "file": "2026-08-27_arXiv_Multi-Source Complex Network Reconstruction via Wasserstein .md",
+          "preview": "---\ntitle: \"Multi-Source Complex Network Reconstruction via Wasserstein Distributionally Robust Optimization and Algorithm Unrolling\"\ndate: 2026-08-27\nsource: arXiv\ntrack: General\nauthors: \nyear: 2026"
         },
         {
-          "file": "2026-08-26_arXiv_Identifying Probability Localization Dynamics via Structured.md",
-          "preview": "---\ntitle: \"Identifying Probability Localization Dynamics via Structured Stochastic Liftings\"\ndate: 2026-08-26\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.22686v1\nta"
+          "file": "2026-08-27_arXiv_Low-Latency Activation-Regularized Sparse Neural Operators w.md",
+          "preview": "---\ntitle: \"Low-Latency Activation-Regularized Sparse Neural Operators with Distillation Assistance Towards Real-Time Edge-Deployable Virtual Sensing\"\ndate: 2026-08-27\nsource: arXiv\ntrack: iNEST\nautho"
+        },
+        {
+          "file": "2026-08-27_arXiv_Discovering Adaptive Transmission Programs for Collective In.md",
+          "preview": "---\ntitle: \"Discovering Adaptive Transmission Programs for Collective Innovation\"\ndate: 2026-08-27\nsource: arXiv\ntrack: General\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.24545v1\ntags: [inbox"
         }
       ]
     },
     "recent_runs": [
+      {
+        "date": "2026-08-27T06:43:41.844303",
+        "new_papers": 7,
+        "api_results": 7,
+        "classified": 0,
+        "graph_nodes": 10899,
+        "graph_edges": 149077,
+        "elapsed_s": 819.9,
+        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
+        "_file": "pipeline_20260827_0643.json"
+      },
       {
         "date": "2026-08-26T06:45:44.845965",
         "new_papers": 6,
@@ -112,31 +127,32 @@
         "elapsed_s": 788.4,
         "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
         "_file": "pipeline_20260820_0643.json"
-      },
-      {
-        "date": "2026-08-17T08:25:00.625397",
-        "new_papers": 0,
-        "api_results": 0,
-        "classified": 0,
-        "graph_nodes": 10244,
-        "graph_edges": 90602,
-        "elapsed_s": 1498.2,
-        "genspark_snapshot": "99_Meta\\genspark_research_brief.md",
-        "_file": "pipeline_20260817_0825.json"
       }
     ]
   },
   "git": {
-    "uncommitted": 8,
+    "uncommitted": 20,
     "details": [
-      "M .obsidian/workspace.json",
+      "M 60_MOC/02_Research_Insights.md",
+      " M 60_MOC/03_Daily_Action.md",
+      " M 60_MOC/04_Daily_Focus.md",
+      " M 60_MOC/05_Task_Review.md",
       " M 70_Dashboard/health_watchdog.md",
       " M 90_System/state/health_watchdog.json",
-      " M 99_Meta/evolution_queue.json",
-      " M 99_Meta/hypothesis_registry.json",
-      " M 99_Meta/knowledge_compile_state.json",
-      "?? \"60_MOC/00_\\346\\262\\273\\347\\220\\206/\\347\\250\\277\\344\\273\\266\\345\\220\\210\\345\\271\\266\\344\\270\\216V25\\347\\273\\237\\344\\270\\200\\346\\226\\271\\346\\241\\210_20260826.md\"",
-      "?? 60_MOC/12_Knowledge_Review_2026-08-26.md"
+      " M 99_Meta/daily_analysis_cache.json",
+      " M 99_Meta/dedup_index_v2.json",
+      " M 99_Meta/research_task_proposals.json",
+      " M 99_Meta/self_evolve_log.json",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Discovering Adaptive Transmission Programs for Collective In.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Low-Latency Activation-Regularized Sparse Neural Operators w.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Multi-Source Complex Network Reconstruction via Wasserstein .md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_NoC-Out A Formally-verified Network-on-Chip Library for Rule.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Sensor Drift Compensation via Olfactory system and Reservoir.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Small-World Communication Fabrics for Neuromorphic Multicore.md\"",
+      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Thermal Tuning Overhead in Wafer-Scale Optical Interconnects.md\"",
+      "?? 99_Meta/genspark_research_brief.md",
+      "?? logs/pipeline_20260827_0643.json",
+      "?? logs/pipeline_guard_20260827_063001.log"
     ]
   },
   "health": {
