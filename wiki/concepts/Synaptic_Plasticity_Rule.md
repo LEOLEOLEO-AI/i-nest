@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[PhaseLockedTopologyMapping]]
+[[PolychronousNeuronalGroups]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

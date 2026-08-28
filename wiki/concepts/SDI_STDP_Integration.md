@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]
+[[FunctionalInterfaceBlock]]
 [[Mott device array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
@@ -30,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
@@ -70,6 +70,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 

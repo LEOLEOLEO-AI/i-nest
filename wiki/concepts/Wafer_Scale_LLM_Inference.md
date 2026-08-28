@@ -22,9 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Heterogeneous_Integration]]
 [[MemristiveIntegration]]
 [[Mesoscale_Heterogeneous_Integration]]
@@ -34,10 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
-[[SDSoW_Strategic_Planning]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AnomalousSpinTransport]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
@@ -43,7 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

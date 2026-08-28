@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AdaptiveArchitecture]]
 [[AdaptivePhotonicRouter]]
 [[Adaptive_Service_Reconfiguration]]

@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
-[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[CoOptimizedMappingScheduling]]
 [[CollectiveSpikingDynamics]]

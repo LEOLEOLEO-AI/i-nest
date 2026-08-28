@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[AdaptiveEntanglementManagement]]
 [[BackflowTransformation]]
 [[DimensionSeparation_IntensiveExtensive]]
@@ -32,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

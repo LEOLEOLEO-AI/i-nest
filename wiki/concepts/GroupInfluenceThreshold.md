@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[CorticalTypeDiversity]]
-[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Routing]]

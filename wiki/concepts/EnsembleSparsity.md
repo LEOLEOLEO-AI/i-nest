@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]

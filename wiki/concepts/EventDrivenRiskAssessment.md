@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[ComplexValuedSNN]]

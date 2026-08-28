@@ -41,12 +41,15 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[OpportunisticRouting]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
+[[从因果到涌现：迈向新一代人工智能_陆超超博士访谈 (1)]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 [[神经形态计算]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

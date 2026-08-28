@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Independent_EdgeAI_Player_Endgame]]
@@ -30,10 +31,10 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
-[[STDP_iNEST_Memristive]]
+[[STDP_iNEST]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

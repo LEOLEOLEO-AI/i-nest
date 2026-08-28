@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
+[[AnomalousSpinTransport]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]

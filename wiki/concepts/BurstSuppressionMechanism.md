@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AnisotropicGaussianPrimitives]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]

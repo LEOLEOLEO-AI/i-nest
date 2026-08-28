@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Criticality_Based_Feature_Extraction]]
 [[Event_Driven_Architecture]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]

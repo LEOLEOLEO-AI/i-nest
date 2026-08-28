@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveTimeStepTraining]]
@@ -35,7 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]
-[[ManyBodyLocalizationThermalizationDuality]]
+[[ManyBodyLocalization]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

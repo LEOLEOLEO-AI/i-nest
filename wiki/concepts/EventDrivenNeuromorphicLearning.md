@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[Agent_Interaction_Sequencing]]
 [[AsynchronousEventDrivenComputation]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]

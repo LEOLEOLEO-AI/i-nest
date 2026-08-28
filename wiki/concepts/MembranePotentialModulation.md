@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnisotropicGaussianPrimitives]]
 [[BurstCoding]]
@@ -32,9 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[SNN]]
-[[SNN_Conversion_Approximation_Bound]]
 [[SpikeTimingFidelity]]
-[[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]

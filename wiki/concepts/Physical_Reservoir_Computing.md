@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
+[[Crystallized_Neural_Manifolds]]
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]

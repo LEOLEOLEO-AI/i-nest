@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Network_on_Chip_communication_architecture]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]

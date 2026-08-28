@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
 [[AI_Driven_Architecture_Search]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[EndToEndTopologyLearning]]
 [[Independent_AI_Player_Endgame]]
-[[MagicStateProtocolAwareCompilation]]
 [[MagicStateProtocol]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]

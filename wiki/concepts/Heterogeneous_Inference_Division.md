@@ -20,13 +20,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[CST计量仪]]
-[[Causal_Emergence]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
+[[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
 [[In_Package_Optical_Interconnect]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Textbook_Paradigm_Definition]]
 [[Topology_Centric_Computing]]
+[[causal emergence]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

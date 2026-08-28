@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Allreduce_Latency_Probe]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
@@ -43,7 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[scaling laws]]
 
 ## Sources

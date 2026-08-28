@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Accessibility_Plasticity]]
 [[Cognitive_Relapse_Decoupling]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

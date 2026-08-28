@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BioPlausiblePredictiveCoding]]
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

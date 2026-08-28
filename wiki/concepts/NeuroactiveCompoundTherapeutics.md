@@ -19,10 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Accessibility_Plasticity]]
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]

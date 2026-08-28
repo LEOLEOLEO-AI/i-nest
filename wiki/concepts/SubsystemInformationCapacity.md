@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Izhikevich_NeuronModel]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

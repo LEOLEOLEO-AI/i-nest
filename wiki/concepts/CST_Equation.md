@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
@@ -67,6 +66,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[UniversalIntelligence_Emergence]]
+[[chiplet interconnect]]
 [[complex system]]
 [[temporalComplexity]]
 

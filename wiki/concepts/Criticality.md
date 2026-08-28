@@ -20,19 +20,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AmorphousSolidPlasticity]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
 [[CST_Theory_V27_FINAL]]
 [[Categorical_Closure_Criterion]]
 [[Complex_System_Theory]]
-[[CriticalityInducedComputationalCapacity]]
-[[Criticality_Reservoir]]
-[[Criticality_of_Natural_Languages]]
 [[Long_Range_Interactions]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[criticality]]
 [[iNEST]]

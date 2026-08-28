@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Driven_Architecture_Search]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Topology_Mapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

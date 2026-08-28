@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicEmergence]]
 [[InNetwork_CST_Offload]]

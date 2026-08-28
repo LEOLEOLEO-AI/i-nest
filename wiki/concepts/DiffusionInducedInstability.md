@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[ArchitecturalCondition]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Core_Spacetime_Tensor]]
 [[Criticality]]
-[[Criticality_Induced_Plasticity]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]
 [[Fixed_Cost_Dominance]]

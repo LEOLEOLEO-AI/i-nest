@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
 [[DiscreteSTDP]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]

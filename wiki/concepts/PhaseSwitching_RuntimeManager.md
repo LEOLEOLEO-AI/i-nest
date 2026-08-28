@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveEntanglementManagement]]
@@ -34,7 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Reserve_Index]]
 [[CertifiedBifurcationDetection]]
 [[CoexistencePhaseDiagram]]
+[[Criticality]]
 [[Network_Topology_Design]]
+[[Quantum_Criticality]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[Bidirectional_Temporal_Enhancement]]
 [[ClocklessReconfigurableChip]]
 [[Contested_Prior_Resolution]]

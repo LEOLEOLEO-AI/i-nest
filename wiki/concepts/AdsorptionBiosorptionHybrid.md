@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdiabaticMultimodeBend]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
-[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[LargeScalePhotonicIntegration]]
@@ -48,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[temporalComplexity]]
 

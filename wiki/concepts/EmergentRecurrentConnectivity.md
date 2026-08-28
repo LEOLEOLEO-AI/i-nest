@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[Cognitive_Relapse_Decoupling]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]

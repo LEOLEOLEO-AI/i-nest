@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FractalPathEntropy]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
+[[MasterEquationRG]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Quantum_Reservoir_Computing]]

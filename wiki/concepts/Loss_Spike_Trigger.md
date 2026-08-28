@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenAutoregression]]
 [[InSensorMemoryComputing]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristor_Synapse]]
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]

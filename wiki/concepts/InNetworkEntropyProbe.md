@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[Alignment_Tax]]
 [[Avoided_Criticality]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[BeyondVonNeumannArchitecture]]
 [[ChargeDomainAttention]]
 [[Criticality]]
-[[Criticality_of_Natural_Languages]]
 [[CrossDomain_Integration]]
 [[DualModeSNNConventionalInference]]
 [[ElasticSpikingTransformer]]

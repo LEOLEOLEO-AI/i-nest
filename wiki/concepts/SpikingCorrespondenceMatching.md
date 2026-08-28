@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[STDP_Integration]]
+[[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

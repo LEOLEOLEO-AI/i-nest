@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
+[[3DGS_Scene_Graph]]
 [[3DHI_Integration]]
 [[AnteHoc_Explainability]]
 [[Banded_NonHermitian_Matrix]]

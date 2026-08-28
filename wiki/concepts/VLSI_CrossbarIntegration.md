@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Analog_Weight_Storage]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
-[[Network_on_Chip_communication_architecture]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[RecursiveSelfReferentialArchitecture]]

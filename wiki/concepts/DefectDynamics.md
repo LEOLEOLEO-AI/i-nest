@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Adaptive_EW_Neuromorphic_Controller]]
+[[BackflowTransformation]]
 [[BrainBodyResonance]]
 [[Brain_Connectome]]
 [[Connectome]]

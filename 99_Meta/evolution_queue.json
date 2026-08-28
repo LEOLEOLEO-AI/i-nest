@@ -538,7 +538,9 @@
       "type": "pipeline_fix",
       "title": "Pipeline zero-paper alert: API connectivity check",
       "detail": "Recent runs with zero new papers: 2",
-      "status": "pending"
+      "status": "resolved",
+      "resolved_at": "2026-08-27T18:31:23.093683",
+      "resolution": "A recent run ingested papers successfully; network and relevance gates are working."
     },
     {
       "id": "EV-2026-08-27-002",
@@ -549,5 +551,5 @@
       "status": "pending"
     }
   ],
-  "last_updated": "2026-08-27T06:43:42.319804"
+  "last_updated": "2026-08-27T18:31:23.095737"
 }

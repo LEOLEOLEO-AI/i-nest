@@ -21,13 +21,13 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
+[[AcceleratedMaterialScreening]]
 [[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[temporalComplexity]]
 

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyFragility]]
 [[WaferScaleSubstrate]]
+[[chiplet interconnect]]
 [[heterogeneous_integration]]
 
 ## Sources

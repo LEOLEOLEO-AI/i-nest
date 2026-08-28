@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
+[[PowerOfTwoWeightQuantization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[STDP_Learning]]

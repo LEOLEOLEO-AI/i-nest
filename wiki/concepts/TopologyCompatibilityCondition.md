@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Additive_Manufacturing_Supply_Chain]]
 [[AdiabaticMultimodeBend]]
 [[AnalogDomainCompression]]
 [[AndersonTransition]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FiniteSizeTopologicalPhase]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Power_Density_Law]]

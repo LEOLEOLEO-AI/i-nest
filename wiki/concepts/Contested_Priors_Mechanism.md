@@ -57,9 +57,10 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
+[[ThermalNoiseHarnessing]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

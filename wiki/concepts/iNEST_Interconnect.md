@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[20W_Brain_Inspired_Planning]]
+[[Bidirectional_Temporal_Enhancement]]
 [[EmergentOrder]]
 [[Event_Driven_Architecture]]
 [[FrozenRateOperator]]

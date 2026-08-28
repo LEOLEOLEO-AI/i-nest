@@ -27,6 +27,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -37,6 +38,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[_专题研究_从单芯作战迈向系统集成_五_软件定义晶上系统_SDSoW_技术]]
@@ -49,5 +51,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[学术前沿_北京大学团队推出革命性光子计算芯片：实现多功能神经网络重构]]
 [[智能涌现]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？_新课上线]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

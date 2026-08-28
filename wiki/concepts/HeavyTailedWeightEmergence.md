@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[ERI_2_0_Strategic_Framework]]
 [[FastSlow_Dynamics]]
@@ -31,7 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Performance_Prediction_Model]]
 [[PhaseModulationTestability]]
-[[SDSoW_Strategic_Planning]]
+[[SDSoW]]
 [[iNEST]]
 
 ## Sources

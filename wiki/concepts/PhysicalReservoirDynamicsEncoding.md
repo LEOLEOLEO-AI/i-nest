@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Driven_Architecture_Search]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_Computation]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
-[[Reservoir_Computing_DP_Recycling]]
 [[analog computation]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

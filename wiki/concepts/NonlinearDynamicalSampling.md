@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ContinualLearningOnNeuromorphic]]
-[[CriticalityInducedTopology]]
+[[CouplingTopologyInducedDynamics]]
 [[Criticality]]
 [[EventDrivenAutoregression]]
 [[EventDrivenDefenseMechanism]]

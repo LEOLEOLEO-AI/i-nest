@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_SplatPrimitive]]
 [[3DHI_Chiplet_Integration]]
 [[3D_Heterogeneous_Integration]]
+[[3nm_Autonomous_Driving_Chip]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]

@@ -35,6 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[Airborne_Link_Diversity]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BCM滑动阈值]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Autonomous_Control]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AmplifyingNetworkTopology]]
 [[Architectural_Conditioning]]
-[[Causal_Emergence]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

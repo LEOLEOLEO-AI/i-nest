@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
@@ -35,7 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryObserver]]
 [[EventDrivenFunctionalConnectivity]]
 [[FreeEnergyMinimization]]
-[[NeuromorphicRL_Locomotion]]
+[[NeuromorphicRL]]
 [[Neuromorphic_Computing]]
 [[NonHermitianSpectralCorrelations]]
 [[Phase_Transition_Tail_Transition]]

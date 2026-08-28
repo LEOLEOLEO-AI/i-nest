@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Controlled_Release_Kinetics]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[LocalQuantumLearningRule]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

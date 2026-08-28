@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[AdiabaticMultimodeBend]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CommunicationOverlapMechanism]]
 [[ComputeRelocationOverhead]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

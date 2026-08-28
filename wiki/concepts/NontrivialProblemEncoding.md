@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
+[[3DGS_Scene_Graph]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Forum_Ecosystem]]
 [[AI_Orchestrator]]

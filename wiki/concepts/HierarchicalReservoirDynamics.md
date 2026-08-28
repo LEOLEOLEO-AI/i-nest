@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[DARPA_ProjectManager_Model]]
 [[Epithelial_Barrier_Integrity]]
 [[FirstPrinciples_AI]]
@@ -27,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[MeanFieldSpinGlass]]
 [[Memory_Technology_Coexistence]]
 [[Neuromorphic_Computing]]
-[[PowerLawScalingClassification]]
+[[PowerLawScaling]]
 [[QuantumReservoirMemoryCapacity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

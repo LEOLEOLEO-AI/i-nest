@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGA_Neuromorphic_Acceleration]]
 [[FunctionalInterfaceBlock]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

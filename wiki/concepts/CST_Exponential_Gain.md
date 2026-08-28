@@ -37,7 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[nonlinear gain]]
 
 ## Sources

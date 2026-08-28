@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
+[[MultibodyInteractionCascade]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[NetworkAttractorStates]]
 [[Neuromorphic_Chiplet]]

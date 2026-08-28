@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[ActivityAvalanche]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Continuous_Spatiotemporal_State_Propagation]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

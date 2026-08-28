@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CirculateFiringNeuron]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
+[[Event_Driven_Architecture]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

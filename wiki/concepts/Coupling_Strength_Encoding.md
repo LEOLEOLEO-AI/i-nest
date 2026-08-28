@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[Accessibility_Plasticity]]
 [[AdaptiveDensityControl]]
 [[AdaptiveNetworkResilience]]
@@ -34,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[Free_Energy_Topology_Mapping]]
 [[InNetwork_Learning_Interface]]
-[[In_Network_Neuromorphic_Integration]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Ising formulation]]
 [[Ising_Formulation]]

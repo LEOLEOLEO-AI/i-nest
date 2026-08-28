@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[4H_SiC_SubstrateProcessing]]
 [[AdvancedPackagingInterconnect]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[iNEST]]
+[[iNEST_Packaging]]
 [[iNEST_Wafer]]
 
 ## Sources

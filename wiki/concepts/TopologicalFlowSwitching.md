@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[DTGA]]
@@ -38,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[RTC_Primitives]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
@@ -46,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

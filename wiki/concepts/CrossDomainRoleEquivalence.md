@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ASIC_Dualism]]
 [[ActiveDendriteSNN]]
 [[Active_Inference_Agent]]

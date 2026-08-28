@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[SDI_Bond]]
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]

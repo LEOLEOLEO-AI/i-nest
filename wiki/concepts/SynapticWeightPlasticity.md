@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AdaptiveSTDP]]
+[[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
 [[DiscreteSTDPLearning]]

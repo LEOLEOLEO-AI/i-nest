@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[AdsorptionBiosorptionHybrid]]
 [[BioPlausiblePredictiveCoding]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]

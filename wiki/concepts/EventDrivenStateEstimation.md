@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AsynchronousEventDrivenComputation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstCoding]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
 [[EventDrivenAttentionMasking]]
-[[EventDrivenInferencePipeline]]
 [[EventDrivenInference]]
 [[EventDrivenSpectralProcessing]]
 [[Intelligence_Emergence]]

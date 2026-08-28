@@ -30,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[CST_Equation]]
 [[CST_Exponential_Form]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
@@ -38,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DRBE_MVP_Mainchain]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
 [[MetricComputationAuthenticity]]
@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[criticality]]
 [[temporalComplexity]]
 

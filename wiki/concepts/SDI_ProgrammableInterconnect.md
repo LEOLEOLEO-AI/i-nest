@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DynamicServiceComposition]]
 [[Heterogeneous_Integration]]
@@ -42,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[TopologyProgramming]]
+[[chiplet interconnect]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

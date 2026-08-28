@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[CSI_Temporal_Encoding]]
 [[ContinuousControlConversion]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DualModeSNNConventionalInference]]
 [[DynamicTokenSparsity]]

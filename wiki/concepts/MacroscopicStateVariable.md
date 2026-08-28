@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CST_Intelligence_Emergence]]
 [[CirculateFiringNeuron]]
 [[CompactnessRegularizedFitness]]
 [[ComplexValuedSNN]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Order_Flexibility_Duality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

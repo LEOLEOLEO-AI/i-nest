@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DIntegratedPhotonicPackaging]]
+[[AI_Faculty_Forum_2026]]
 [[Architectural_Conditioning]]
 [[CST_Spatiotemporal_Complexity]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[CrossbarArrayArchitecture]]
@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[Topology_Page]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[iNEST_Wafer]]

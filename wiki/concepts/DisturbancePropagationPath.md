@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[AnalogInMemoryComputing]]
 [[Analog_Computation]]
+[[AnomalousSpinTransport]]
 [[BarrierConditionedTrajectory]]
 [[Capability_Forging_Pipeline]]
 [[Chiplet_Heterogeneous_Integration]]

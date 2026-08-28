@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[FerroelectricCrossbarArray]]
+[[FerroelectricMemoryCell]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]

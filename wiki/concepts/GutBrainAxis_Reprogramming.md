@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

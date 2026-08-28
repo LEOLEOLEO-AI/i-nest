@@ -19,12 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdiabaticMultimodeBend]]
 [[CST_Equation]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TwoTimescaleNeuroEvolution]]
 [[ViewDependentAppearance]]
 [[WaferScaleSubstrate]]
+[[chiplet interconnect]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

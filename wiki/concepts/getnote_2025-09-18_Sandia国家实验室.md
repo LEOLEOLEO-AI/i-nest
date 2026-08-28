@@ -35,5 +35,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Wafer_Scale_Integration]]
 [[complex system]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]
+[[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[iNEST]]
 [[复杂网络]]

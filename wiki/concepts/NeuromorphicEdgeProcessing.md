@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Spiking_Integration]]
 [[NoiseModulated_SynapticPlasticity]]
+[[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]

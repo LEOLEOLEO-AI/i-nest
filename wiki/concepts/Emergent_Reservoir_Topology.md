@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Intelligence_Threshold]]
+[[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedNonlinearity]]
 [[Memristor_Synapse]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

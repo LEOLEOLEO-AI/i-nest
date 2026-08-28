@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
+[[FerroelectricCrossbarArray]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[In_Memory_Computing]]

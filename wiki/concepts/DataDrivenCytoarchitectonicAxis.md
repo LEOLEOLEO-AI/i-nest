@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ConductingPolymerDendriteMemory]]
 [[CytoarchitectonicAxis]]
 [[DataProvenanceIntegrity]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[InkjetPrintedElectrochemicalSensors]]
+[[Intelligence_Emergence]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
@@ -47,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[temporalComplexity]]
 [[忆阻器]]
 [[智能涌现]]
+[[涌现]]
 [[类脑芯片]]
 
 ## Sources

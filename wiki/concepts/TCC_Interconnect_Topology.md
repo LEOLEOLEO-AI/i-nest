@@ -22,8 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Topology]]
 [[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyCentricPrimitiveSystem]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

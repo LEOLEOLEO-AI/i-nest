@@ -20,9 +20,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[AnomalousSpinTransport]]
 [[BandedConnectivityModel]]
 [[BigBrainCellularAxis]]
-[[BrownianCastleInterfaces]]
+[[BrownianCastleInterface]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]

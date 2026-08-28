@@ -22,3 +22,13 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- chiplet interconnect (merged 2026-08-28)
+
+
+## Related Work
+
+[[Chiplet_Heterogeneous_Integration]]
+[[TCC]]
+[[iNEST]]

@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CouplingTopologyInducedDynamics]]
 [[Coupling_Topology]]
 [[Course_Based_FPGA_Projects]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DataDrivenMaterialDesign]]
 [[ErrorSuppressedPipeline]]
@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[iNEST]]

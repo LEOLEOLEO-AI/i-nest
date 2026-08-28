@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
+[[AcceleratedMaterialScreening]]
 [[Allreduce_Latency_Probe]]
 [[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]

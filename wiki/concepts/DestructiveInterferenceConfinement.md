@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
@@ -33,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
-[[BrownianCastleInterfaces]]
+[[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
 [[Confinement]]
 [[Dynamic_Expert_Fusion]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

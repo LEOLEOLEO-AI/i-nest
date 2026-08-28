@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Anisotropic_Correlation_Length]]
 [[CLINKAsCarrierPrimitive]]
 [[CST_Equation]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonreciprocity_Threshold]]
 [[SixClassSkeletonAsRPrimitiveSpace]]
 [[TCC]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 

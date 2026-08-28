@@ -33,15 +33,15 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[STDP_iNEST_Memristive]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[synaptic plasticity]]
 
 ## Sources

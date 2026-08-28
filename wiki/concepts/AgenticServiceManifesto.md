@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
 [[Critical_Region_Extension]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]

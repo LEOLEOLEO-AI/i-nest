@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Controlled_Release_Kinetics]]
 [[DiscreteSTDPLearning]]
 [[Dynamic_Expert_Fusion]]

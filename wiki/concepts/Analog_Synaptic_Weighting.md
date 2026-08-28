@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[chiplet interconnect]]
 [[temporalComplexity]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[DTGA]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
@@ -33,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Reconfigurable_Network]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[System_Level_Utility_Control]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PhotoInducedCurrent]]
+[[PhysicalReservoirDynamics]]
 [[Physical_Reservoir_Substrate]]
 [[Quantum_Reservoir_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

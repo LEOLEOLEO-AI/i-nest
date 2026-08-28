@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[类脑芯片]]
 

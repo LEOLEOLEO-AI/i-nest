@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[Advanced_Packaging_for_Space]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[TCC]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

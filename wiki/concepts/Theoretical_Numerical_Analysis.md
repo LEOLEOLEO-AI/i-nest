@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
+[[Analog_InMemory_Processing]]
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[Ferroelectric_ComputeInMemory]]
+[[Ferroelectric_Devices]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

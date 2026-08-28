@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
@@ -44,13 +43,16 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_TCC_Chiplet]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
+[[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

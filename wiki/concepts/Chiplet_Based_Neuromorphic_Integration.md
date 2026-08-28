@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]
 [[iNEST]]
+[[神经形态计算]]
 [[类脑芯片]]
 
 ## Sources

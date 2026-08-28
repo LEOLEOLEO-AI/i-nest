@@ -19,12 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
 [[Decoupled_Priors]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

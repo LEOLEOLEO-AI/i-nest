@@ -19,9 +19,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DTGA]]
 [[DiscreteContinuous_Unification]]
@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumChaos]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TwoTimescaleNeuroEvolution]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

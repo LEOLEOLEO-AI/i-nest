@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AcceleratedMaterialScreening]]
@@ -33,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
-[[PhysicalReservoirDynamicsEncoding]]
 [[PhysicalReservoir]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

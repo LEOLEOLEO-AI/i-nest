@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
@@ -33,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIntelligenceAcceleration]]
 [[Express_Link_Virtualization]]
+[[GlobalDecision_LocalExecution_ControlPlane]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[InterconnectAwarePartitioning]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

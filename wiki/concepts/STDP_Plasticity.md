@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SNN]]
 [[STDP_iNEST]]
+[[STDP_iNEST_Memristive]]
 [[ST_SNN]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]

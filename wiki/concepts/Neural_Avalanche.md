@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]

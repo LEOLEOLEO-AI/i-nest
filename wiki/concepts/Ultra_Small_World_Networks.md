@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[BeamDomainMLFingerprinting]]
 [[Bipartite_Topology]]
+[[Bipartite_Topology_Robustness]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]
 [[Connectome]]
-[[Connectome_Reservoir]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

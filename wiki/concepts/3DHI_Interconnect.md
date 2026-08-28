@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
+[[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Interconnect]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_NoC_Integration]]

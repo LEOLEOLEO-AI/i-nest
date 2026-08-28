@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
 [[ActivityAvalanche]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence_Threshold]]
@@ -35,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SensationModulatingNetwork]]
 [[Spiking_Neural_Network]]

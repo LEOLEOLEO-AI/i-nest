@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[Advanced_Packaging_for_Space]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[CongestionAwareNoCPlacement]]
 [[Free_Energy_Principle_Network]]
@@ -36,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_Interconnect]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -48,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

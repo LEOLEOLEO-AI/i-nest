@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CriticalNormBoundary]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[Dynamic_Expert_Fusion]]
 [[Interconnect_Routing]]
 [[InterconnectionStrengthEncoding]]

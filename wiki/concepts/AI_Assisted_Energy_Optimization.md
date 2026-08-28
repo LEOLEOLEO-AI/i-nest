@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Application_Scenario_Reconstruction]]
 [[Analog_Computation]]
 [[CST_SynergisticCoordination]]
 [[Chain_of_Thought_Reasoning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
@@ -37,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Integration]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -48,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[temporalComplexity]]

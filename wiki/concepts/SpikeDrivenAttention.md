@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BulletTrainScheduling]]
-[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[ContinuousControlConversion]]
 [[Criticality]]

@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[CirculateFiringNeuron]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]
@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Self_Organized_Criticality]]

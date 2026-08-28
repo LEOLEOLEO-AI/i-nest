@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
+[[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]

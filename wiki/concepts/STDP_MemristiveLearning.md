@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalInterfaceBlock]]
 [[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]

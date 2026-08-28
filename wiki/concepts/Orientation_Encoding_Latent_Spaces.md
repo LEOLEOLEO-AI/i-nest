@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Assisted_Energy_Management]]
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveDensityControl]]
 [[Contested_Priors_Mechanism]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

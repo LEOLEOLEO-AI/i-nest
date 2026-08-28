@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AI_Faculty_Forum_2026]]
 [[AstrocyteInspiredRepair]]
+[[BayesMarkovOrientationModel]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]

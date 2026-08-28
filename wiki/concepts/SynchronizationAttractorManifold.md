@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[Learning_Rule_Comparison]]
 [[Loihi2_SpikeEncoding]]
+[[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]

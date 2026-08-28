@@ -20,8 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AdvancedPackagingInterconnect]]
+[[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
 [[EndToEndLinkSimulation]]
@@ -31,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[QuarantineCostTradeoff]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[SuperparamagneticSwitchingRate]]
 [[Topological_Manifold_Interconnect]]
 [[iNEST]]

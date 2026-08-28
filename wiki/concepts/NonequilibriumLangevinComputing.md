@@ -21,10 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AnomalousSpinTransport]]
+[[AstrocyteInspiredRepair]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Deep_Network_Architecture_Invariant]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

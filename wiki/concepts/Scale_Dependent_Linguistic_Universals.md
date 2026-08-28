@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AnisotropicGaussianPrimitives]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DARPA_ProjectManager_Model]]
@@ -34,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[fractal_Scaling]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

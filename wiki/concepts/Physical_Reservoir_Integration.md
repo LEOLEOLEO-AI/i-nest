@@ -20,16 +20,17 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AmorphousSolidPlasticity]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]
 [[DendriticReservoirState]]
 [[FunctionalInterfaceBlock]]
-[[FunctionalInterfaceBlocks]]
 [[IncidenceBasedRandomWalk]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[neuromorphic substrate]]

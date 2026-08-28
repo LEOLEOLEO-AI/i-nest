@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Loihi2_OnChip_Learning]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

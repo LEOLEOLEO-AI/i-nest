@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[Alpha_Computation_Consistency]]
+[[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Core_Spacetime_Tensor]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Nonlinear_Topology_Amplification]]
 [[ReproducibleReservoirDynamics]]
+[[Reservoir_Computing]]
 [[TCC]]
 
 ## Sources

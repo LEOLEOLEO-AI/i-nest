@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
+[[PolychronousNeuronalGroups]]
 [[SNN]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[AI_FullSpectrum_Strategy]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

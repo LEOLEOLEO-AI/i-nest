@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryReservoirOptimization]]
 [[Fixed_Reservoir_Unitary]]
 [[HardwareAware_DesignSpace]]
+[[LindbladInspiredReservoir]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

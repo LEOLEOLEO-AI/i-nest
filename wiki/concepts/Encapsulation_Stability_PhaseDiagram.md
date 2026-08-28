@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveEntanglementManagement]]
@@ -31,7 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[Anomaly_Mediated_Quantum_Criticality]]
 [[Ant_Swarm_Functional_Control]]
 [[Autonomous_Unmanned_Combat_Networking]]
+[[Criticality]]
 [[Network_Topology_Design]]
+[[Quantum_Criticality]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

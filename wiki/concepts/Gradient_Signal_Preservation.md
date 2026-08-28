@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActivityAvalanche]]
 [[Cascading_Failure_Mitigation]]
+[[Complexity_Emergence_Engineering]]
 [[CrossLayer_SignalRouting]]
 [[ErrorAmplificationLimits]]
 [[EventCameraTemporalEncoding]]

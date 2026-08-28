@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
 [[STDP_Plasticity]]
+[[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

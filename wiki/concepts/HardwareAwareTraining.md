@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN_SNN_ConversionError]]
+[[ActiveDendriteSNN]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CorticalWaveRouting]]
 [[Interconnect_Routing]]
 [[RateEncodedSpikingNeuralNetwork]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]

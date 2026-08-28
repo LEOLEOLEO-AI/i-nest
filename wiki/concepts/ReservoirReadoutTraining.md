@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
 [[DARPA_ProjectManager_Model]]
+[[DissipativeQuantumReservoir]]
 [[Emerging_CMOS_Memristor]]
 [[EndToEndTopologyLearning]]
 [[Memristor_Synapse]]

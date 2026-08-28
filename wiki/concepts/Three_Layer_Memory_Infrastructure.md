@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AndersonTransition]]
 [[BeyondVonNeumannArchitecture]]
-[[Bipartite_Interconnect_Design]]
+[[Bipartite_Interconnect]]
 [[ChiralSymmetryClasses]]
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]

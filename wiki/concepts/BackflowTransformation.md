@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[EpidemicThreshold]]
 [[EventDrivenFunctionalConnectivity]]
+[[InNetworkNeuromorphicSimulation]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[National_Innovation_Center_Role]]

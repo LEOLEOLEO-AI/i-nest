@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[ConductingPolymerDendriteMemory]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
@@ -36,13 +37,13 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

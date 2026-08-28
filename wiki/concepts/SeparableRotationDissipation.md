@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ArbitraryWavefunctionConfigurability]]
 [[CircadianGateModulation]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Criticality]]
-[[Criticality_Entanglement]]
 [[CrossbarArrayIntegration]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]

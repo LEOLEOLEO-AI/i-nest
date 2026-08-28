@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossInstitutionalNetwork]]
 [[CrossLayer_SignalRouting]]
 [[CrystalPalace_Program]]
+[[DTGA]]
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

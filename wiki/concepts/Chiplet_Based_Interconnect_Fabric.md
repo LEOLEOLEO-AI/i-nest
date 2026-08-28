@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DIntegratedPhotonicPackaging]]
 [[AI_FullSpectrum_Strategy]]
 [[AdiabaticModeEvolution]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[CLINKAsCarrierPrimitive]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Security_Architecture]]
 [[Complex_System_Theory]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[chiplet interconnect]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_FullSpectrum_Strategy]]
 [[Agile_Resilient_Defense_Ecosystem]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Decoupled_Priors]]
 [[Dynamic_Expert_Fusion]]
@@ -35,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
-[[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

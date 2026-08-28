@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

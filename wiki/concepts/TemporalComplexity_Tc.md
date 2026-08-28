@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
@@ -25,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Cognitive_Relapse_Architecture]]
@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyProgramming]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[heterogeneous_integration]]
 [[temporalComplexity]]
 [[Γst_Revision]]

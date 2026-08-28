@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
@@ -39,12 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[STDP_iNEST_Memristive]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

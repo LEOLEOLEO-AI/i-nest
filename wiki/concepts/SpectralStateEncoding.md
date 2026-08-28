@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[QuantumGateSynthesis]]
+[[QuantumReservoirStateOrthogonalization]]
 [[ReadoutLayer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

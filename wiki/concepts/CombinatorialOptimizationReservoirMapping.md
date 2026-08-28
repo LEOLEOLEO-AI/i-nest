@@ -20,11 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AdsorptionBiosorptionHybrid]]
 [[Alignment_Tax]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
-[[Criticality_of_Natural_Languages]]
+[[Criticality]]
 [[Heterogeneous_Compute_Graph]]
 [[HierarchicalReservoirDynamics]]
 [[KV_Cache_To_BoundaryObject]]

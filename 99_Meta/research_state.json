@@ -1,17 +1,17 @@
 {
-  "generated": "2026-08-27T06:43:41.905999",
+  "generated": "2026-08-27T18:31:24.961900",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 10908,
+    "total_md": 10911,
     "inbox_00": 193,
     "processing_20": 561,
     "tcc_30": 1829,
     "inest_40": 1221,
     "output_50": 429,
-    "moc_60": 70
+    "moc_60": 71
   },
   "services": {
-    "preview_server_8899": true,
+    "preview_server_8899": false,
     "jojo_llm_57321": false,
     "jojo_fixer_57320": false
   },
@@ -131,28 +131,26 @@
     ]
   },
   "git": {
-    "uncommitted": 20,
+    "uncommitted": 18,
     "details": [
-      "M 60_MOC/02_Research_Insights.md",
-      " M 60_MOC/03_Daily_Action.md",
-      " M 60_MOC/04_Daily_Focus.md",
-      " M 60_MOC/05_Task_Review.md",
+      "M .obsidian/workspace.json",
+      " M \"20_Processing/20_KnowledgeBase/\\347\\201\\265\\346\\204\\237\\345\\272\\223/\\344\\272\\272\\345\\267\\245\\346\\231\\272\\350\\203\\275\\347\\254\\254\\344\\270\\200\\346\\200\\247\\345\\216\\237\\347\\220\\206\\350\\256\\262\\345\\272\\247_\\347\\263\\273\\347\\273\\237\\346\\200\\273\\347\\273\\223\\344\\270\\216iNEST\\345\\220\\257\\350\\277\\252.md\"",
+      " M \"20_Processing/20_KnowledgeBase/\\347\\201\\265\\346\\204\\237\\345\\272\\223/\\345\\205\\255\\350\\247\\204\\345\\210\\231\\346\\224\\257\\346\\214\\201\\347\\232\\204\\347\\275\\221\\347\\273\\234\\350\\207\\252\\347\\224\\237\\351\\225\\277\\345\\212\\250\\345\\212\\233\\345\\255\\246.md\"",
+      " M \"40_iNEST/41_Theory/09_\\346\\210\\230\\347\\225\\245\\346\\212\\245\\345\\221\\212\\346\\217\\220\\347\\272\\262_\\345\\206\\263\\347\\255\\226\\345\\261\\202_v2.md\"",
+      " M \"40_iNEST/41_Theory/2026-06-07 iNEST Daily Crawl.md\"",
+      " M 40_iNEST/41_Theory/2026-07-09-2607.07373.md",
+      " M \"40_iNEST/41_Theory/2026\\345\\271\\2641\\346\\234\\2109\\345\\217\\267 .md\"",
+      " M 40_iNEST/41_Theory/literature/NeuralComputers_CNC_iNEST_Analysis.md",
+      " M 40_iNEST/41_Theory/literature/PredictiveCoding_BrainLearning_Analysis.md",
+      " M \"40_iNEST/41_Theory/\\343\\200\\212\\347\\247\\221\\345\\255\\246\\344\\271\\213\\350\\267\\257\\343\\200\\213__\\345\\233\\276\\347\\201\\265\\345\\245\\226\\345\\276\\227\\344\\270\\273\\346\\235\\250\\347\\253\\213\\346\\230\\206\\344\\272\\272\\345\\267\\245\\346\\231\\272\\350\\203\\275\\345\\215\\201\\351\\227\\256\\357\\274\\232AI\\344\\274\\232\\347\\273\\237\\346\\262\\273\\344\\272\\272\\347\\261\\273\\345\\220\\227\\357\\274\\237.md\"",
+      " M \"40_iNEST/43_Engineering/\\345\\205\\254\\344\\274\\227\\345\\217\\267\\346\\226\\207\\347\\253\\240\\346\\231\\272\\350\\203\\275\\344\\275\\223.md\"",
       " M 70_Dashboard/health_watchdog.md",
       " M 90_System/state/health_watchdog.json",
-      " M 99_Meta/daily_analysis_cache.json",
-      " M 99_Meta/dedup_index_v2.json",
-      " M 99_Meta/research_task_proposals.json",
-      " M 99_Meta/self_evolve_log.json",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Discovering Adaptive Transmission Programs for Collective In.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Low-Latency Activation-Regularized Sparse Neural Operators w.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Multi-Source Complex Network Reconstruction via Wasserstein .md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_NoC-Out A Formally-verified Network-on-Chip Library for Rule.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Sensor Drift Compensation via Olfactory system and Reservoir.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Small-World Communication Fabrics for Neuromorphic Multicore.md\"",
-      "?? \"00_Inbox/_pipeline_insights/2026-08-27_arXiv_Thermal Tuning Overhead in Wafer-Scale Optical Interconnects.md\"",
-      "?? 99_Meta/genspark_research_brief.md",
-      "?? logs/pipeline_20260827_0643.json",
-      "?? logs/pipeline_guard_20260827_063001.log"
+      " M 99_Meta/evolution_queue.json",
+      " M 99_Meta/hypothesis_registry.json",
+      " M 99_Meta/knowledge_compile_state.json",
+      "?? \"60_MOC/00_\\346\\262\\273\\347\\220\\206/KB_Research_Agent_Diagnosis_20260827.md\"",
+      "?? 60_MOC/12_Knowledge_Review_2026-08-27.md"
     ]
   },
   "health": {

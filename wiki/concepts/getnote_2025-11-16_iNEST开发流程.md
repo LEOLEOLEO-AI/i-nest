@@ -31,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Closed_Loop_SNN_Stability_Boundary]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[ExplosiveTransitionThreshold]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -34,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DGS_Scene_Graph]]
+[[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 [[CST_Intelligence_Emergence]]
 [[CST_Theory]]
 [[Complex_System_Theory]]

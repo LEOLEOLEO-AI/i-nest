@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[AthermalDynamics]]
@@ -26,9 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[ExtrinsicAnomalousHallConductivity]]

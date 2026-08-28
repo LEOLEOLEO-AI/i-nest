@@ -29,9 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CST_Equation]]
 [[CST_Exponential_Form]]
+[[CST_MasterEquation]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Collection_Communication_Diagnostic_Tool]]
 [[Complex_System_Theory]]
@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[chiplet interconnect]]
 [[complex system]]
 [[temporalComplexity]]
 

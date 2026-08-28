@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[EventDrivenRiskAssessment]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
@@ -35,7 +35,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
-[[PhysicalReservoirInterconnect]]
+[[PhysicalReservoir]]
+[[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 
 ## Sources

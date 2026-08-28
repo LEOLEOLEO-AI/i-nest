@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[CorticalWaveRouting]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCommunicationScheduling]]
 [[SpikePacketRouting]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

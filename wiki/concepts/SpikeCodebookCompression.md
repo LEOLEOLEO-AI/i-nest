@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
 [[ApproximateMacroscopicDynamics]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TCC topology]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

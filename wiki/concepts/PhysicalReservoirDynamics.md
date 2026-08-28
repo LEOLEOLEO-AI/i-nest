@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PhysicalReservoir]]
+[[Physical_Reservoir_Substrate]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]
 [[ReservoirDynamics]]

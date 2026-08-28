@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Free_Energy_Topology_Mapping]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
+[[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Mesoscale_Heterogeneous_Integration]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
 [[Wafer_Scale_Topology_Control]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

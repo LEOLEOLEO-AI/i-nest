@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[STDP_iNEST_Memristive]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]

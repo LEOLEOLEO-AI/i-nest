@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
@@ -43,7 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

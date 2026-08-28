@@ -19,10 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[BigBrainCellularAxis]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Free_Energy_Principle_Network]]
@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
@@ -40,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
@@ -47,7 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
+[[chiplet interconnect]]
 [[temporalComplexity]]
+[[待分类]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

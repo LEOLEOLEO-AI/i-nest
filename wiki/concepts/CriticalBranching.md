@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[CriticalStateInformationMaximization]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaos]]

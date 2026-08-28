@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DGS_SplatPrimitive]]
 [[AI_Faculty_Forum_2026]]
 [[BackpropagationFreeLearning]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalObservers]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

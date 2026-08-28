@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AsynchronousEventDrivenComputation]]
 [[AthermalDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinguishableHelium4]]
 [[Event_Driven_Architecture]]
 [[NeuromorphicGraphAnomalyDetection]]
+[[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]

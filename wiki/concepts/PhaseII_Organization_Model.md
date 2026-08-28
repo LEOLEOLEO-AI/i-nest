@@ -26,15 +26,18 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
+[[Express_Link_Virtualization]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
 [[KeyMaterialStrategy]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

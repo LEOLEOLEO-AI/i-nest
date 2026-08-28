@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
 [[Activity_Dependent_Plasticity]]
@@ -33,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
-[[NeuromorphicRL_Locomotion]]
+[[NeuromorphicRL]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]

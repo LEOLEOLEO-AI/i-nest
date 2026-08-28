@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Application_Scenario_Reconstruction]]
 [[Allreduce_Latency_Probe]]
 [[AnalogInMemoryComputing]]
@@ -36,9 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Resilience_ByTopology]]
+[[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[AllOpticalHebbianLearning]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HighThroughputParticleRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[NoC_EventRouting]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[PersonalizedSNN]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_TCC_Integration]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StructuralPriorEncoding]]

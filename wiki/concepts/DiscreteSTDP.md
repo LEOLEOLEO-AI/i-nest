@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
+[[PolychronousNeuronalGroups]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

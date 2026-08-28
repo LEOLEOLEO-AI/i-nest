@@ -20,7 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[CriticalityInducedTopology]]
+[[CouplingTopologyInducedDynamics]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenMaterialDesign]]
@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]
+[[Nonlinear_Gain]]
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

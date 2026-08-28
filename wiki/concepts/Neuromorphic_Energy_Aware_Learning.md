@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[TCC_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

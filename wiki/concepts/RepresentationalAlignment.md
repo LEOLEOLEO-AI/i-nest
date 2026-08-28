@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainActivityPrediction]]
 [[BrainBodyResonance]]
 [[Brain_Connectome]]
-[[BrownianCastleInterfaces]]
+[[BrownianCastleInterface]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[周末漫谈：高维流形上的神经网络收敛——Transformer 的数学本质]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

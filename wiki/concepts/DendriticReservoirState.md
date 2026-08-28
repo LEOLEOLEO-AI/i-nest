@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
@@ -27,14 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
 [[Emergent_Reservoir_Topology]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -50,7 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[智能涌现]]

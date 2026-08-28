@@ -19,7 +19,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AdaptiveAsymmetricSurrogateGradients]]
+[[AINext_Initiative]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
-[[CriticalityConstrainedPruning]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

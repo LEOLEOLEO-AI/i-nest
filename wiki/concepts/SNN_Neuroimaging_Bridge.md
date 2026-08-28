@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
@@ -38,8 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

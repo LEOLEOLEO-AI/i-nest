@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_SplatPrimitive]]
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 [[3DIntegratedPhotonicPackaging]]
+[[3nm_Autonomous_Driving_Chip]]
 [[ArtificialLifeTopologyEvolution]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]

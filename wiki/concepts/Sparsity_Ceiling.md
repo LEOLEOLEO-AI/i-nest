@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[MeasurementInducedPhaseTransition]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[MicroTransferPrintedActiveDevices]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

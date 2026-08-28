@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
 [[Architectural_Conditioning]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Mapping]]
@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaveguideToWaveguideCoupler]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[temporalComplexity]]

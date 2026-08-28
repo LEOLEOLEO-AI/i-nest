@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PhysicalReservoirDynamics]]
 [[Readout_Weight_Training]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirComputing]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[DARPA_ProjectManager_Model]]
 [[Distributed_Spike_Communication]]
 [[Emerging_CMOS_Memristor]]
 [[HeterogeneousSynapticDelays]]

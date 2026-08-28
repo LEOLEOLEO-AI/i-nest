@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdditiveTopology_Embedding]]
 [[Agent_Workflow_Automation]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

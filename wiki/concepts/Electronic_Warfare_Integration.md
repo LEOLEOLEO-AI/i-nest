@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Anisotropic_Correlation_Length]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningNanomaterialDiscovery]]
 [[Memristive_Topology]]
 [[Memristor_Network]]
+[[Memristor_Synapse]]
 [[ModularityDepthInteraction]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

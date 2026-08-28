@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnisotropicGaussianPrimitives]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[ComplexValuedSNN]]
@@ -41,8 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]

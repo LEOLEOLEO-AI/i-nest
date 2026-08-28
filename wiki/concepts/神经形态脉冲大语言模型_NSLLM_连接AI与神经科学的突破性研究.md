@@ -33,6 +33,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[CST_Synergy_Coordination]]
 [[Complex_System_Theory]]
 [[DelayedSynapticCoupling]]
+[[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

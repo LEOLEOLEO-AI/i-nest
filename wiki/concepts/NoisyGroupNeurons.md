@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActiveDendriteSNN]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DirectSNNTraining]]
 [[NeuromorphicHardware]]

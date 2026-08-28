@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[Allreduce_Latency_Probe]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CirculateFiringNeuron]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
-[[FunctionalInterfaceBlocks]]
 [[GeneralizationPhaseBoundary]]
 [[InNetworkAgentRewiring]]
 [[IntegrationProspectsForVLSI]]

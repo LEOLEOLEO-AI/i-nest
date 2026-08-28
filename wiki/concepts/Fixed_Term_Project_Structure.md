@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
+[[Amorphous_Amorphous_Transition]]
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
 [[Contested_Prior_Resolution]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[OpenSource_Neuromorphic_Framework]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Spiking_Neural_Network]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Workload_Isolation]]
 [[hls4ml_SNN_Conversion]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

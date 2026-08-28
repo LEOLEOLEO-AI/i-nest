@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistenceRegime]]
 [[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
+[[Encapsulation_Topology]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
 [[InferencePipelineTopologyAwareScheduling]]

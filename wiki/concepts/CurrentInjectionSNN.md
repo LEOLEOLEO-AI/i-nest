@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[CoDesigned_SNN]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[OnChipSNNTrainingEngine]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_Backpropagation_Through_Time]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [iNEST, CST, SDDE, 涌现智能, 自组织临界态, 液态计算, 理论体系]
+summary: "iNEST理论体系总结：从物理原理到工程落地的完整逻辑链"
+quality: high
+processed: 2026-08-27 18:50
+---
+---
 title: getnote_1916677651389752712_iNEST理论体系总结
 tags:
   - network

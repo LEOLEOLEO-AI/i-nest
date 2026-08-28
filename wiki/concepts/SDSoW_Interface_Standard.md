@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DTGA]]
 [[DataProvenanceIntegrity]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

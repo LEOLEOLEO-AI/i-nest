@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BiasEvaluationMetrics]]
+[[BlumeEmeryGriffithsModel]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]

@@ -19,14 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
-[[Causal_Emergence]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
-[[Complexity_Emergence_Engineering]]
 [[Constructed_Reality_Interconnect]]
 [[Core_Spacetime_Tensor]]
 [[Course_Based_FPGA_Projects]]

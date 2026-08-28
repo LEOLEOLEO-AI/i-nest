@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MultibodyInteractionCascade]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

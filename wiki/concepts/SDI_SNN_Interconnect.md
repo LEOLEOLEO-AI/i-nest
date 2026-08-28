@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
+[[ReconfigurableSpikingRouting]]
 [[SDI_Bond]]
 [[SDI_SNN]]
 [[SNN]]

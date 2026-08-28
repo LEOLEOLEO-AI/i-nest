@@ -22,12 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
+[[DARPA_Manufacturing_Strategy]]
 [[Distributed_Spike_Communication]]
 [[HodgkinHuxleyDynamics]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
-[[ModelOptimizationFederated]]
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

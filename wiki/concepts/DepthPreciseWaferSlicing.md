@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DGS_SplatPrimitive]]
 [[3DIntegratedPhotonicPackaging]]
 [[AI-ML — 全景导航 (Map of Content)]]
@@ -38,10 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Roadmap]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
-[[In_Network_Neuromorphic_Integration]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[TCC]]
 
 ## Sources

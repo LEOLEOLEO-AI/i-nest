@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Bidirectional_Temporal_Enhancement]]
 [[Dynamic_Expert_Fusion]]
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]

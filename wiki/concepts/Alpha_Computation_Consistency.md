@@ -26,8 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[AvalancheBranchingRatio]]
 [[BigBrainCellularAxis]]
+[[BranchingRatio]]
+[[CST_Equation]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
@@ -62,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyFragility]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[temporalComplexity]]
 

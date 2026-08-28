@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_FullSpectrum_Strategy]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSNNTopology]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

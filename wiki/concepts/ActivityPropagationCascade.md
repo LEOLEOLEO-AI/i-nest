@@ -20,16 +20,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[Cascading_Failure_Mitigation]]
 [[CriticalNormBoundary]]
-[[CriticalityDrivenTopology]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]

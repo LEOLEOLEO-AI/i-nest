@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]

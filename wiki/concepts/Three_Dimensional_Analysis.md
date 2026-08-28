@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Avalanche_Dynamics]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuronal_Avalanche_Dynamics]]
 [[Reservoir_Computing]]
 [[SNN]]
-[[SNN_Intrusion_Detection_Config]]
 [[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

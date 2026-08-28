@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[GroupInteractionThreshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedNonlinearity]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

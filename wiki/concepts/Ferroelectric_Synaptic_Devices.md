@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[1M1T1R_SynapticNeuron]]
 [[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

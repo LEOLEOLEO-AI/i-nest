@@ -19,16 +19,18 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
-[[Complexity_Emergence_Engineering]]
+[[Complexity_Emergence]]
 [[DTGA]]
 [[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
+[[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiScaleTemporalProcessing]]
 [[National_Innovation_Center_Role]]

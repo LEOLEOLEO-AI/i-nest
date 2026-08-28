@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[ANN动力学]]
 [[BoseCondensateNeuralAnalogy]]
+[[BosonicFieldTopology]]
 [[Complex_System_Theory]]
 [[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]

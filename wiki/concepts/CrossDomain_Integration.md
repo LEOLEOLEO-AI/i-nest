@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
+[[ConsciousIntegration]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EmergentIntelligence_Spacetime]]

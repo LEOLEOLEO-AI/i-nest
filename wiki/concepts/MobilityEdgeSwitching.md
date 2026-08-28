@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Topology]]
 [[Continuous_Memory_System]]
-[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[TopologyAwareStateMigration]]
 [[iNEST]]

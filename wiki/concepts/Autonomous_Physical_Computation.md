@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
 [[Brain_Connectome]]
+[[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]
 [[Combinatorial_Optimization_Readout]]

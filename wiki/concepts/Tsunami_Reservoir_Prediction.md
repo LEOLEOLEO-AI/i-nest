@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
@@ -41,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

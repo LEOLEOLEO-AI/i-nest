@@ -16,12 +16,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AI_Industrial_Ecosystem]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[Attention_Residuals]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
@@ -62,6 +62,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[iNEST_Wafer]]

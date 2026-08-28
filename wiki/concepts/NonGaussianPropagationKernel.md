@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AlgorithmHardware_CoDesign]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]
+[[ElectronicPhotonicIntegratedCircuit]]
 [[Emerging_CMOS_Memristor]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]

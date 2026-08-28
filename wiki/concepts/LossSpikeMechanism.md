@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
+[[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

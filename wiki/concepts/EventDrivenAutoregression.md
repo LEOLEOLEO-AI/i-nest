@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeCodingAdversarialPerturbation]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Spiking_Sequence_Generator]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

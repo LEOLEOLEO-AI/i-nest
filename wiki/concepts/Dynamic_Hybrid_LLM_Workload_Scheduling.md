@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

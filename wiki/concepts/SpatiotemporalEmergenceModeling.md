@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveMeasurementProtocol]]
+[[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Cognitive_Relapse_Architecture]]

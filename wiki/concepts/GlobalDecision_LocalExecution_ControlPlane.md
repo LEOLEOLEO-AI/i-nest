@@ -21,8 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
+[[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Mesoscale_Heterogeneous_Integration]]
@@ -35,11 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology_Control]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

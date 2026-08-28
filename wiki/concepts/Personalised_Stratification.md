@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryObserver]]
 [[MultiModel_Adapter_Architecture]]
 [[Phase_Transition_Tail_Transition]]
+[[Quantum_Criticality]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[TCC]]

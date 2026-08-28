@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[HardwareAware_DesignSpace]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[memristor device]]

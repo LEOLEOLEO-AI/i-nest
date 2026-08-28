@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[Dynamic_Expert_Fusion]]

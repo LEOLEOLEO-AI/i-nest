@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[Allreduce_Latency_Probe]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
-[[Heterogeneous_Integration_Roadmap_HIR]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
 [[MetricComputationAuthenticity]]

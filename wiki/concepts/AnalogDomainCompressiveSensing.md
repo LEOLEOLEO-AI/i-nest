@@ -19,13 +19,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AnomalousSpinTransport]]
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]
-[[BrownianCastleInterfaces]]
+[[BrownianCastleInterface]]
 [[CST_SynergisticCoordination]]
 [[CollectiveStateResilience]]
 [[Complex_System_Theory]]

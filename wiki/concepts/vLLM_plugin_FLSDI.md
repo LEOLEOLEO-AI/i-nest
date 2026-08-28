@@ -22,8 +22,8 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
@@ -56,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
@@ -66,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[TCC]]
 [[TemporalComplexity]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

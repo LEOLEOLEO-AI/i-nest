@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Interconnect]]
 [[BondMovingDecimation]]
 [[CST_SynergisticCoordination]]
+[[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[CirculateFiringNeuron]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[soc]]
 
 ## Sources

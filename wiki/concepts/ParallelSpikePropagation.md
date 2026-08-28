@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
@@ -27,8 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[CriticalStateInformationMaximization]]
 [[Criticality]]
+[[Network_Topology_Design]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SpikeEventTopology]]
 [[Spiking_Neural_Network]]

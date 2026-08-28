@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[ConductingPolymerDendriteMemory]]
 [[Emergent_Intelligence_Threshold]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spike_Encoding_of_fMRI]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 [[neuromorphic spiking]]
 [[类脑芯片]]
 

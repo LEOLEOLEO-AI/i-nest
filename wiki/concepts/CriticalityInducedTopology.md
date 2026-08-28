@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
@@ -30,13 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenRiskAssessment]]
 [[Generative_Graph_Models]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Long_Range_Interactions]]
 [[MantelTest_SignCorrection]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
-[[PhysicalReservoirInterconnect]]
 [[PhysicalReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

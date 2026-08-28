@@ -19,10 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CollectiveSpikingDynamics]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]

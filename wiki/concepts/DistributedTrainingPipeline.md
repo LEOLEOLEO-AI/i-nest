@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ChipletWaferInterconnectCoDesign]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAsComputation]]
 [[HeterogeneousChipletIntegration]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistenceRegime]]
 [[CommunicationTopologyMismatch]]
 [[Complex_System_Theory]]
+[[Encapsulation_Topology]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
+[[Environmental_Coupling_Organization]]
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[FrequencyAdaptationMechanism]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]
+[[FormalToolchain]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]

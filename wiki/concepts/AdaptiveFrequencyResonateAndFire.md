@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
@@ -34,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EmulationTheoryObserver]]
 [[MultiModel_Adapter_Architecture]]
 [[NeuromorphicHardware]]
-[[NeuromorphicRL_Locomotion]]
+[[NeuromorphicRL]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]

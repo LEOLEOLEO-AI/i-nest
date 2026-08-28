@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[ActiveInferenceGenerativeModel]]
+[[ActiveInference]]
 [[Complex_System_Theory]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

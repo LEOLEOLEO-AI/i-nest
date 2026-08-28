@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[QuantumReservoirMemoryCapacity]]
+[[Readout_Weight_Training]]
 [[Reservoir_Computing]]
 [[TCADCalibration]]
 [[complex system]]

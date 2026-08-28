@@ -21,11 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ActivityAvalanche]]
 [[Avoided_Criticality]]
 [[BiSpikCLM]]
 [[BrainActivityPrediction]]
 [[Course_Based_FPGA_Projects]]
 [[Criticality]]
+[[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]
 [[Neuromorphic_Computing]]
 [[SNN]]

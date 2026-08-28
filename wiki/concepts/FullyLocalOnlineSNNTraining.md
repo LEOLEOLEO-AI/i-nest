@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[Adjoint_Gradient_Propagation]]
 [[DARPA_ProjectManager_Model]]
@@ -27,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[NUMA_Balancing_Overhead]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SNN]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]

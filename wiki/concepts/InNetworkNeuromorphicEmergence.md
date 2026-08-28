@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EmergentOrder]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
 [[Intelligence_Emergence]]

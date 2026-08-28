@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
 [[Fixed_Reservoir_Unitary]]
+[[HardwareAware_DesignSpace]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

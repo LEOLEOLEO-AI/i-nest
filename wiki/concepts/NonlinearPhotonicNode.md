@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Memristive_STDP]]
@@ -32,12 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[STDP_iNEST_Memristive]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

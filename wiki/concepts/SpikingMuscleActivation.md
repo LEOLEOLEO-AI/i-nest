@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[EEGSpikeEncoding]]
@@ -41,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeInformationDensity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Residual_Connection]]
-[[SpikingMotorControl]]
+[[SpikingMot]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

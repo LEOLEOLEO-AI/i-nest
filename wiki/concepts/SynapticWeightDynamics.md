@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_OnChip_Learning]]
 [[MachineLearningPotential]]
 [[NCL神经计算定律详解]]
+[[Network_Topology_Design]]
+[[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

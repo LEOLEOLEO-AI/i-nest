@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
+[[PolymerComposite_Substrate]]
 [[SDI_Bond]]
 [[SDI_Stream_Aware_NoC_Routing]]
 [[SNN]]

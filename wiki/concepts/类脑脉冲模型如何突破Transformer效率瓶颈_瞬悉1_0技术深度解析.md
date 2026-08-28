@@ -35,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Crystallized_Embedding_Reservoir]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AutonomousAdaptation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
@@ -28,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicTopologyMapping]]
-[[FunctionalInterfaceBlocks]]
+[[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

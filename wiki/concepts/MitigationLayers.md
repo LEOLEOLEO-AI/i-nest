@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Computation]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[Free_Energy_Principle_Network]]
@@ -41,10 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Structural_Mismatch]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]

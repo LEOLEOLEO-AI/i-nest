@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Driven_Architecture_Search]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AutonomousAdaptation]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
-[[BrownianCastleInterfaces]]
 [[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
 [[Dynamic_Expert_Fusion]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[Semantic_Least_Energy_Principle]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

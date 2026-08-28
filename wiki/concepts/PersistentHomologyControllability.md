@@ -25,11 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[C_elegansConnectomeAnalogy]]
-[[Causal_Emergence]]
+[[ChaoticAttractorTopology]]
 [[Connectome]]
 [[DataProvenanceIntegrity]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[causal emergence]]
 [[connectome]]
 
 ## Sources

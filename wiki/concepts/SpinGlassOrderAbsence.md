@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RestrictedConnectivityTopology]]
 [[ScaleFreeNetwork]]

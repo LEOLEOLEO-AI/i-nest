@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[BigBrainCellularAxis]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

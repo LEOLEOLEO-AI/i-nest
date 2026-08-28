@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [CST, iNEST, iMESO, 神经形态计算, 复杂网络]
+summary: "提出网络时空协同复杂度理论，为类脑智能提供第一性原理框架。"
+quality: high
+processed: 2026-08-27 18:49
+---
+---
 title: getnote_1916586746259341512_CST—iNEST—iMESO 总体研究报告
 tags:
   - ai

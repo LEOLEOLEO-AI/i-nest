@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]

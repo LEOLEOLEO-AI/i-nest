@@ -26,9 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_based_heterogeneous_integration]]
+[[CommunicationAwareComputeRelocation]]
 [[DataProvenanceIntegrity]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
@@ -45,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
+[[heterogeneous_integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

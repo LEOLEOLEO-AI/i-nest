@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SNN]]
-[[SNN_Conversion_Approximation_Bound]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikeTimingFidelity]]
 [[Spike_Encoding_of_fMRI]]
@@ -41,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalContrastEncoding]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

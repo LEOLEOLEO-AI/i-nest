@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
 [[FunctionalHardwareComposition]]
 [[Heterogeneous_Integration]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 
 ## Sources

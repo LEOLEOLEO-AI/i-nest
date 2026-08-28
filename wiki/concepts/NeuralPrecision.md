@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[CoPackagedOptics]]
@@ -43,9 +44,12 @@ Auto-extracted concept from raw material compilation.
 [[ReliabilityOverheadTradeoff]]
 [[Residual_Connection]]
 [[Residual_Connection_Removal]]
+[[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[Soldier_Augmentation_BioCyber_Interface]]
+[[TCC]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

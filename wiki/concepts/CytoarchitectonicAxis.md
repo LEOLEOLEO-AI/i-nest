@@ -26,8 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CellEmergence]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Heterogeneous_Integration]]
+[[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Memristor_Network]]
@@ -53,11 +53,11 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[Topological_State_Encoding]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[神经网络]]
 
 ## Sources

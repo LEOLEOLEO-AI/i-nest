@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Interconnect]]
 [[BondMovingDecimation]]
+[[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[CongestionAwareNoCPlacement]]
@@ -31,8 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[HypergraphRumorPropagation]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NeuromorphicTransformerTopology]]
+[[Neuromorphic_Computing]]
 [[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[Surface_Phase_Transition]]

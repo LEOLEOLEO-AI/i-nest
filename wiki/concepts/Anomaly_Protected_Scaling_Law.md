@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[Adaptive_Service_Reconfiguration]]
 [[AvalancheBranchingRatio]]
 [[BayesianConnectivityEstimation]]
 [[BranchingRatio]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]

@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Priors_Mechanism]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
@@ -51,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SoftwareDefinedSystemOnWafer]]
@@ -66,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

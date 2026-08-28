@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Autonomous_Spiking_Dynamics]]
 [[DelayCodedWorkingMemory]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[Event_Driven_Architecture]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SpikeBasedNeuralRadianceField]]
-[[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
 [[Spiking_Residual_Learning]]

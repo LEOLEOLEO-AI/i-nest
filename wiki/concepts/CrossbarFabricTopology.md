@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
 [[Cognitive_Relapse_Decoupling]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]

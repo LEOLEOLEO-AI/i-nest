@@ -15,12 +15,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
@@ -52,7 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[Software_Defined_Interconnect_bonding_mechanism]]
+[[Software_Defined_Interconnect]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
@@ -61,6 +61,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[temporalComplexity]]
 

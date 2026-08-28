@@ -19,10 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Assisted_Energy_Optimization]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Integration]]
 [[Intelligent_Power_Management]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
@@ -51,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[temporalComplexity]]
 

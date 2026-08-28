@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
@@ -39,10 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_TopologyMapping]]
 [[PhysicalWaferTriplet]]
+[[SDI_Bond]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

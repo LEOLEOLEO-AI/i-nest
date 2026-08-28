@@ -19,9 +19,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[Intelligent_Power_Management]]
 [[L2_L3_Reconfigurability]]
+[[Memristor_Synapse]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[temporalComplexity]]

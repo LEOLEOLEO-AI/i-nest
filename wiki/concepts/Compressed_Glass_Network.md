@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AcademicDevelopmentCoCreation]]
+[[Avalanche_Dynamics]]
 [[CoupledOscillatorReservoir]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neural_Avalanche_Dynamics]]
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
+[[QuantumGateSynthesis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]

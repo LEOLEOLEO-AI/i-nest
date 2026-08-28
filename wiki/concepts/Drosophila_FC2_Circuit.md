@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
+[[Analog_Weight_Storage]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]

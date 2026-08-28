@@ -15,6 +15,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Analog_Computation]]
@@ -22,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
@@ -50,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
@@ -59,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[TopologyProgramming]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

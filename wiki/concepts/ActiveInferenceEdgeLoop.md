@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[National_Innovation_Center_Framework]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[OpenBenchmarkingFramework]]
 [[OpenCodex_Upgrade_Path]]
 [[Reservoir_Computing]]
 [[SNN]]

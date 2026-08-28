@@ -22,3 +22,21 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- reservoir computing architecture (merged 2026-08-28)
+
+
+## Related Work
+
+[[ActiveInferenceEdgeLoop]]
+[[CoupledOscillatorReservoir]]
+[[CriticalRegimeReservoir]]
+[[HierarchicalModularReservoirs]]
+[[Homological_Reservoir]]
+[[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
+[[TCC]]
+[[iNEST]]
+[[reservoir computing]]
+[[神经形态计算]]

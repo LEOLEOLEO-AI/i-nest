@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[ContinualLearningOnNeuromorphic]]
+[[Criticality_Based_Feature_Extraction]]
 [[DelayAwareSpikeEventDelivery]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

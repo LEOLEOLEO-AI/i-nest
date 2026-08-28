@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioPlausibleDisturbanceObserver]]
 [[BulletTrainScheduling]]
+[[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Contested_Priors_Architecture]]
 [[Criticality]]

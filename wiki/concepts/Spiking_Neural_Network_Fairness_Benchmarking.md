@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AddressRedundancyElimination]]
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]

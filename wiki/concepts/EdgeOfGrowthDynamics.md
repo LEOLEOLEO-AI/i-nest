@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
 [[Ant_Swarm_Functional_Control]]

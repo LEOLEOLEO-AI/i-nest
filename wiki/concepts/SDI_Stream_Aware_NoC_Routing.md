@@ -24,13 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[ConsciousnessEngineeringLoop]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Memristive_STDP]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

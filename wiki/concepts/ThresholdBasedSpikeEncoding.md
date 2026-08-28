@@ -33,9 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
+[[ST_SNN]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

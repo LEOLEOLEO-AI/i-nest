@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[AIRA_NeuralArchSearch]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_1]]

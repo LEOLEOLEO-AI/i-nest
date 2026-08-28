@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptivePhotonicRouter]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FractalPathEntropy]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]

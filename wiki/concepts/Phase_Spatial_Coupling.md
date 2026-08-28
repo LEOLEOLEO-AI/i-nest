@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
@@ -37,14 +38,14 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
-[[STDP_iNEST_Memristive]]
+[[STDP_iNEST]]
 [[SpikeTimingFidelity]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

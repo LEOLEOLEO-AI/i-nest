@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Avoided_Criticality]]
-[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[Contested_Prior_Resolution]]
 [[Criticality]]

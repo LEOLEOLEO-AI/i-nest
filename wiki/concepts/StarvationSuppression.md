@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Cascading_Failure_Mitigation]]
 [[ConsciousnessEngineeringLoop]]
 [[CrossLayer_SignalRouting]]
+[[DTGA]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGACongestionHotspotMitigation]]
 [[Gradient_Signal_Preservation]]

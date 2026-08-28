@@ -19,12 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Agent_Interaction_Sequencing]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
-[[CriticalityInNeuralNetworks]]
 [[Criticality]]
-[[Criticality_Driven_Coding]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedNeuralDecoding]]

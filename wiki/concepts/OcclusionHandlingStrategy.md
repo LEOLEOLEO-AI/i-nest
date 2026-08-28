@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenPlasticity]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
+[[MicroTransferPrintedActiveDevices]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecurrentSpikingDynamics]]

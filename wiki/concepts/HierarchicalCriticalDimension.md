@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AnalogDomainCompression]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[Criticality]]
-[[Criticality_Induced_Plasticity]]
 [[DisorderInducedCriticality]]
 [[FormalLinguisticCompetence]]
 [[Network_Topology_Design]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossbarArrayPrecision]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[FerroelectricMemoryCell]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Chiplet_Customization]]

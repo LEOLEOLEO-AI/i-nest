@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Amorphous_Amorphous_Transition]]
+[[AnisotropicGaussianPrimitives]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]

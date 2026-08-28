@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -35,7 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

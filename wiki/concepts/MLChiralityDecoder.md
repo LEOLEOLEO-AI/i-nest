@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
@@ -28,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BackflowTransformation]]
-[[BrownianCastleInterfaces]]
+[[BrownianCastleInterface]]
 [[ErrorSuppressedPipeline]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

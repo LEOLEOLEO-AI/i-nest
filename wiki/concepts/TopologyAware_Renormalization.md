@@ -21,8 +21,8 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[CST_Equation]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
@@ -33,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
@@ -65,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[temporalComplexity]]
 
 ## Sources

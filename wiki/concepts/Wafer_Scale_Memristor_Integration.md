@@ -40,7 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
+[[SensorMemoryCoLocation]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

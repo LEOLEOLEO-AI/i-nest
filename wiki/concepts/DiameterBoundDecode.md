@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Advanced_Packaging_for_Space]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Mapping]]
@@ -37,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_Interconnect]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[OnDie_Fusion]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
@@ -47,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Cross_Node_Event_Propagation]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

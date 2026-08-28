@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AdaptiveBitPrecisionExploration]]
 [[Advanced_Packaging_for_Space]]
 [[BurstInterleaving]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
+[[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

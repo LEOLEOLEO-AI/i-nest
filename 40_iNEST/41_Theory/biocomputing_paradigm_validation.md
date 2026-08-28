@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [生物计算, 表征空间, TCC, iNEST, 范式验证]
+summary: "生物皮层验证高维连续表征空间计算范式，与TCC/iNEST同源。"
+quality: high
+processed: 2026-08-27 18:47
+---
+---
 title: getnote_1916095871225993080_生物计算范式验证
 tags:
   - tcc

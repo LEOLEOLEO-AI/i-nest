@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Planning_Revolution]]
 [[NonEquilibriumComputing]]
 [[PowerLawScaling]]
 [[RealTimeImageToEventConversion]]

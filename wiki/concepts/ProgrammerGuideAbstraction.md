@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveNetworkResilience]]
 [[Allreduce_Latency_Probe]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Network_Topology_Design]]

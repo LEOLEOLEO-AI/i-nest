@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[AI-ML — 全景导航 (Map of Content)]]
+[[ArmLocomotorCoordination]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Communication_Trace_Diagnostics]]
@@ -35,8 +36,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
+[[Neuromorphic_Computing]]
 [[OnlineLearningRule]]
 [[SelfHealing_Interconnect]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[_麻省大学夏强飞_Nat_Electron_基于忆阻器的细胞神经网络_实现高速像素内计算的新突破]]
@@ -46,3 +49,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[涌现]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[脉冲神经网络]]

@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BiasEvaluationMetrics]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Microgrid_Optimization]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[P_Paradigm]]
@@ -48,7 +49,9 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

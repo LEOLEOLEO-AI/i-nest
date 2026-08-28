@@ -18,11 +18,11 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
+[[Analog_Computation]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
@@ -34,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
 [[Memory_Wall]]
@@ -68,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

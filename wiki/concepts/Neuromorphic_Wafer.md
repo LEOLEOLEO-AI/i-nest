@@ -20,13 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[National_Mesoscale_Innovation_Center]]
 [[Neuromorphic_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
-[[SDSoW_Strategic_Planning]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[iNEST]]

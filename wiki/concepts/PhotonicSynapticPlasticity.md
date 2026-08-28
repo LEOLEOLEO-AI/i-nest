@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

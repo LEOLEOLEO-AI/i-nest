@@ -20,14 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[CMOS_Memristor_Devices]]
 [[In_Memory_Computing]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
-[[SDSoW_Strategic_Planning]]
 [[WaferScale_Memristor_Array]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

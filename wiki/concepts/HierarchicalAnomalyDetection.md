@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DHI_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
-[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

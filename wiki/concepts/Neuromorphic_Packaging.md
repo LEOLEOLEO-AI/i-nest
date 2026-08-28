@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[ArmLocomotorCoordination]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[advanced packaging]]
 [[complex system]]
 [[iNEST]]
@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

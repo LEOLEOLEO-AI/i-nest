@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
 [[HighFrequency_Interconnect_Optimization]]

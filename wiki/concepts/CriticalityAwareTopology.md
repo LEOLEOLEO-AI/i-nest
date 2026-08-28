@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]
+[[Additive_Manufacturing_Supply_Chain]]
 [[AdvancedPackagingInterconnect]]
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]

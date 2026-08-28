@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[AutonomousAdaptation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
@@ -28,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DendriticReservoirState]]
 [[Free_Energy_Topology_Mapping]]
-[[FunctionalInterfaceBlocks]]
+[[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

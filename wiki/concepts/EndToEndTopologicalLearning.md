@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[StochasticMultiAgentRL]]
 [[StochasticVehicleRouting]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

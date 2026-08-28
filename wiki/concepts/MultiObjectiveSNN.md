@@ -24,6 +24,8 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
+[[PolychronousNeuronalGroups]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [复杂系统, 涌现, 自组织, 智能演化, 大模型, 神经形态计算]
+summary: "以复杂系统理论为基石，解析涌现与智能演化，启发有机软件系统设计。"
+quality: high
+processed: 2026-08-27 18:47
+---
+---
 title: getnote_1915785437432134712_有机软件系统理论基石：复杂系统、涌现与智能演化深度解析
 tags:
   - physics

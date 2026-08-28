@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
+[[SpikingCorrespondenceMatching]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

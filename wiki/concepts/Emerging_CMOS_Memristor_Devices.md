@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OnChipWeightUpdate]]
 [[TCC]]
+[[VaCoAl]]
 [[WaferScale_Memristor_Array]]
 [[complex system]]
 [[memristor device]]

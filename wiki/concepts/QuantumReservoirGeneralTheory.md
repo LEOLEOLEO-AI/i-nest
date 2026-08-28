@@ -22,9 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_Heterogeneous_Integration]]
 [[AINext_Initiative]]
+[[AgenticServiceManifesto]]
 [[AnalogDomainCompression]]
 [[Criticality]]
-[[Criticality_of_Natural_Languages]]
 [[Environmental_Induced_Memory]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]

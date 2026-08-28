@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AmorphousSolidPlasticity]]
 [[AnalogDomainCompression]]
 [[CST_Theory_V27_FINAL]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[Complex_System_Theory]]
 [[Criticality]]
-[[Criticality_of_Natural_Languages]]
 [[Fading_Memory_Property]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

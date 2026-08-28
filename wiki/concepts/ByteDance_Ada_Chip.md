@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

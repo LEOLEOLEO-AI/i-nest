@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Synaptic_Behavior]]
 [[AnisotropicGaussianPrimitives]]
@@ -30,11 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConsciousnessEngineeringLoop]]
 [[Contested_Prior_Resolution]]
-[[CriticalityInducedComputationalCapacity]]
+[[Criticality]]
 [[Cross_Node_Event_Propagation]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
+[[UnifiedHypergraphStateSpace]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

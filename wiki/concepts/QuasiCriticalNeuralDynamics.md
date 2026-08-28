@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[AINext_Initiative]]
 [[Avoided_Criticality]]
 [[Catastrophic_Forgetting_Mitigation]]

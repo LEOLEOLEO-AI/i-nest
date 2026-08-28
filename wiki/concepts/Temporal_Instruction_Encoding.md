@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[CircadianGateModulation]]
 [[Contested_Prior_Resolution]]
 [[CrossbarArrayIntegration]]
@@ -33,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Synaptic_Plasticity]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[reservoir computing]]
 
 ## Sources

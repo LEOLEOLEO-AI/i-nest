@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ActiveDendriteSNN]]
+[[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainBodyResonance]]
 [[Contested_Prior_Resolution]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
@@ -36,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

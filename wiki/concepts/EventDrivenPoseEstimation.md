@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[ANN_SNN_WeightSpaceGap]]
 [[Agent_Interaction_Sequencing]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[TCC]]
 [[iNEST]]
 

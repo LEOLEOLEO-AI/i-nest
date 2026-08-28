@@ -22,11 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
+[[AcousticAnomalyDetection]]
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AmoebaInspiredLocomotion]]
 [[Avoided_Criticality]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

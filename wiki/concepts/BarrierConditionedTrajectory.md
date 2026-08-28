@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -37,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[RandomOptimizationEnsemble]]
 [[RecurrentOscillatoryComputation]]
 [[Resilient_Satellite_Mesh]]
-[[SNN_NeuroprostheticPipeline]]
+[[SNN]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

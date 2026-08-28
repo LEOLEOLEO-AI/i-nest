@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
 [[Accessibility_Plasticity]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[AdaptivePhotonicRouter]]
 [[Adaptive_Service_Reconfiguration]]
 [[CircuitTopologyEncoding]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DelayPropagationDynamics]]
 [[InNetworkReconfiguration]]

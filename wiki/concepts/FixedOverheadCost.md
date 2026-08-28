@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[BigBrainCellularAxis]]
 [[CirculateFiringNeuron]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]

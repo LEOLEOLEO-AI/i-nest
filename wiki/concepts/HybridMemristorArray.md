@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
+[[CompactMemristorCircuits]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DeviceLevelNonlinearityScaling]]

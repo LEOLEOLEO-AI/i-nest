@@ -19,10 +19,10 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Analog_Weight_Storage]]
+[[AnomalousSpinTransport]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
@@ -56,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Small_World_Network]]
@@ -66,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

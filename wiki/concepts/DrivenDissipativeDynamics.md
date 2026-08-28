@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RestrictedConnectivityTopology]]
 [[Spike_Encoding_of_fMRI]]

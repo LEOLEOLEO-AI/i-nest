@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AmorphousSolidPlasticity]]
+[[AnomalousSpinTransport]]
 [[CMOS_Memristor_Devices]]
 [[ChipletOpticalIO]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[PhotoInducedCurrent]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP_Regulation]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

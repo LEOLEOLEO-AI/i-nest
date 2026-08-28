@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[Free_Energy_Topology_Mapping]]
@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TemperatureSensitivityControl]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[iNEST_Wafer]]

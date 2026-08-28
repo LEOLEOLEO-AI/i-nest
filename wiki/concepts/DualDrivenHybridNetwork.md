@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[EventDrivenMotionDeblurring]]
 [[FrequencyAdaptationMechanism]]
+[[GradientAsymmetry]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
 [[LatencyGradientDescent]]
@@ -40,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[PowerLawScaling]]
 [[Reservoir_Computing]]
-[[SNN_Intrusion_Detection_Config]]
+[[SNN]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SurrogateGradientAsymmetry]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[Technical_Program_Officer_Autonomy]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

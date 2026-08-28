@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [SDDE, CST, iNEST, iMESO, 智能涌现, 复杂系统, 动力学, 晶圆级计算]
+summary: "提出基于SDDE动力学的智能涌现工程化框架，构建从理论到硬件的垂直闭环。"
+quality: high
+processed: 2026-08-27 18:49
+---
+---
 title: getnote_1916672781970580872_CST-iNEST-iMESO 全体系总览：基于SDDE动力学的智能涌现工程化框架
 tags:
   - chip

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cauchy_Aczel_Uniqueness]]
 [[CoexistenceRegime]]
 [[Complex_System_Theory]]
+[[Encapsulation_Topology]]
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
 [[InferencePipelineTopologyAwareScheduling]]

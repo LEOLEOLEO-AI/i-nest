@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[ExplosiveTransitionThreshold]]
 [[GateBasedQuantumReservoir]]
 [[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
@@ -41,10 +42,12 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[SimulabilityThreshold]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[memristor device]]
 [[智能涌现]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

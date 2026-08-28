@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [神经科学, 脑图谱, 多模态数据, 开源工具, 概率地图]
+summary: "Siibra开源套件实现多层级人脑图谱数据锚定与可视化分析"
+quality: high
+processed: 2026-08-27 18:51
+---
+---
 title: getnote_1916790017398156120_Siibra：面向多层级人脑图谱的开源软件套件研究速读
 tags:
   - network

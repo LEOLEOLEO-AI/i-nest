@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[DelayCodedWorkingMemory]]
 [[EvolutionarySpikeTimingOptimization]]
 [[MembranePotentialModulation]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
 [[SynapseLevelParallelism]]
+[[Synaptic_Plasticity]]
 [[TemporalSpikeEncoding]]
 [[iNEST]]
 

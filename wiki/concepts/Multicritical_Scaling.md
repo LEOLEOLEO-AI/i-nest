@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Architecture]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]
 [[AdaptiveEntanglementManagement]]

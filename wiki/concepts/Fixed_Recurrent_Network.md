@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AllOpticalHebbianLearning]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[PhaseModulationTestability]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_Backpropagation_Through_Time]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[dynamical state space]]

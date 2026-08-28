@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Generalization_Bound_Spectra]]
 [[Heterogeneous_Synaptic_Motifs]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

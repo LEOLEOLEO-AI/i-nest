@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [transformer, 拓扑, 信息流, 时序推理, 循环架构]
+summary: "从拓扑视角揭示Transformer时序推理缺陷，提出递归架构分类体系"
+quality: high
+processed: 2026-08-27 18:47
+---
+---
 title: getnote_1916232272945760888_谷歌DeepMind《The Topological Trouble With Transformers
 tags:
   - neural

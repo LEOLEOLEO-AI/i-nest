@@ -20,12 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AddressRedundancyElimination]]
 [[AgentBasedCorruptionModel]]
 [[ApproximateMacroscopicDynamics]]
 [[BiSpikCLM]]
 [[BiologicalPlausibilityScoring]]
-[[BrownianCastleInterfaces]]
+[[BrownianCastleInterface]]
 [[Bursting_Neuron_Model]]
 [[CoDesigned_SNN]]
 [[Neuromorphic_Computing]]

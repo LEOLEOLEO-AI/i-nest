@@ -30,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]

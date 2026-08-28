@@ -23,7 +23,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
@@ -35,10 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InterconnectAwarePartitioning]]
 [[InverseDesignOptimization]]
+[[InverseDesignedPhotonicRouting]]
 [[KeyMaterialStrategy]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

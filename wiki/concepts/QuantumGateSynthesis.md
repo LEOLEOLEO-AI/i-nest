@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[QuantumReservoirStateOrthogonalization]]
+[[Quantum_Reservoir_Architecture]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]

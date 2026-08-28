@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_ANN_Hardware]]
 [[Memristive_Crossbar_Array]]
 [[Network_Topology_Design]]
+[[OpticalIonicMemory]]
 [[Process_Recycling_Paradigm]]
 
 ## Sources

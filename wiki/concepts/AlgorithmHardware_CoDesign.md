@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Distributed_Spike_Communication]]
 [[GradientFreeSNNTraining]]
+[[HigherOrderSimplicialDynamics]]
 [[HodgkinHuxleyDynamics]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

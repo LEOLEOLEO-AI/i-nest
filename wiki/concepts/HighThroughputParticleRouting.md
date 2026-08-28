@@ -20,18 +20,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[AcceleratedMaterialScreening]]
 [[Allreduce_Latency_Probe]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CounterstreamSignalPropagation]]
 [[DifferentiableRasterizationPipeline]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
-[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[IncidenceBasedRandomWalk]]
 [[Interconnect_Routing]]
@@ -43,10 +42,10 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

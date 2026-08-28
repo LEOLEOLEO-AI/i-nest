@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[CMOS memristor devices]]
 [[CMOS_Memristor_Devices]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[memristor device]]
 [[neuromorphic computing]]
 [[pipelined processor]]
-[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

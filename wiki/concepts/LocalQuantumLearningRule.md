@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[CirculateFiringNeuron]]
 [[Emergent_Intelligence_Threshold]]
+[[EpidemicThreshold]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[NUMA_Balancing_Overhead]]

@@ -21,10 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveDensityControl]]
+[[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Cognitive_Relapse_Architecture]]
 [[DTGA]]
 [[DendriticReservoirState]]
@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TileBasedRasterization]]
+[[chiplet interconnect]]
 [[temporalComplexity]]
 
 ## Sources

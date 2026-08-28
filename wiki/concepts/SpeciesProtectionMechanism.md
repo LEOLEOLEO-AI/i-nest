@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalNormBoundary]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[EdgeIoTEnergyAwareness]]
 [[Interconnect_Routing]]
 [[InterconnectionStrengthEncoding]]

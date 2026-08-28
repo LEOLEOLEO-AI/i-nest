@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [neural computation, time perception, fronto-parietal network, dynamical systems, RNN model]
+summary: "前额叶-顶叶网络通过稀疏连接与共享噪声实现时间计算的同步与独立动态平衡。"
+quality: high
+processed: 2026-08-27 18:50
+---
+---
 title: getnote_1916781141847805896_Nature Communications 2026研究：前额叶-顶叶网络时间计算的独立与协同机制
 tags:
   - network

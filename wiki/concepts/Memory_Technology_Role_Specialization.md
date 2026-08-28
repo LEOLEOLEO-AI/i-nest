@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[AdditiveTopology_Embedding]]
 [[BCM滑动阈值]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]

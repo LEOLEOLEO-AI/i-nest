@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AINext_Initiative]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
@@ -31,7 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[spiking neural network]]
 
 ## Sources

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[20W_Brain_Inspired_Planning]]
 [[AndersonTransition]]
 [[AutonomousAdaptation]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
-[[Complexity_Emergence_Engineering]]
 [[CrystalPalace_Program]]
 [[DataDrivenCellularAxis]]
 [[Intelligence_Emergence]]

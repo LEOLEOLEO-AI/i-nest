@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DiscreteContinuous_Unification]]
@@ -44,7 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_neural_network_dynamics]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

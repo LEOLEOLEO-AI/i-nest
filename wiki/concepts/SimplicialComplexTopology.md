@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[AdditiveTopology_Embedding]]
+[[Agent_Workflow_Automation]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

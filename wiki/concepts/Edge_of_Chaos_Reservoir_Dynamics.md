@@ -22,9 +22,9 @@ Auto-extracted concept from raw material compilation.
 
 [[Categorical_Closure_Criterion]]
 [[CombinatorialOptimizationReservoirMapping]]
+[[CouplingTopologyInducedDynamics]]
 [[CriticalStateReservoir]]
 [[Criticality]]
-[[Criticality_of_Natural_Languages]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[FisherInformationMetric]]

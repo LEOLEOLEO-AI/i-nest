@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[CircuitCoDesign]]
 [[Complex_System_Theory]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Multi_Scale_Habituation]]
 [[Network_Topology_Design]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

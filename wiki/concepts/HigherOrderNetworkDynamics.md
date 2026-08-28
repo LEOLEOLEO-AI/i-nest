@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AgenticServiceOrchestration]]
@@ -32,8 +33,10 @@ Auto-extracted concept from raw material compilation.
 [[CompactSequenceArchitectureDiscovery]]
 [[ContinuousGameOfLife]]
 [[CriticalityInNetworkComputing]]
+[[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

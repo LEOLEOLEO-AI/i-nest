@@ -23,8 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DRBE_MVP_Mainchain]]
 [[DataProvenanceIntegrity]]
 [[Decoupled_Priors]]
@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[ThermalNoiseHarnessing]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

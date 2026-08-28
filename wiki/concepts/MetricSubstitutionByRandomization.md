@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[ComputeRelocationOverhead]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[FlagOS_2_0]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TcC]]
 [[TemporalComplexity]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[scaling laws]]
 [[temporalComplexity]]

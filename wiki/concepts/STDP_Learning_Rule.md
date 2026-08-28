@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[Memristive_STDP]]
+[[MultiObjectiveSNN]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]
 [[PolychronousNeuronalGroups]]

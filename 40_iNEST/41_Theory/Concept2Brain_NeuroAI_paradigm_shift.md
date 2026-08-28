@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [neuroai, brain-computer-interface, eeg, concept-representation, nature-communications]
+summary: "NeuroAI新范式：从脑信号解码转向脑表征建模"
+quality: high
+processed: 2026-08-27 18:49
+---
+---
 title: getnote_1916603577162462304_2026年7月Nature Communications Concept2Brain研究深度解析：Neu
 tags:
   - llm

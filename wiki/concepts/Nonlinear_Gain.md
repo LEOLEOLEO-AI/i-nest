@@ -18,6 +18,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
@@ -57,7 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyFragility]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

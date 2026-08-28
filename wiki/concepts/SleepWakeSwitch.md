@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AcceleratorReconfigurationOverhead]]
 [[Accessibility_Plasticity]]
 [[Active_Inference_Topology]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[AmoebaInspiredLocomotion]]
 [[Anomaly_Protected_Scaling_Law]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

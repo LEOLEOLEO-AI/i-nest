@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[Avalanche_Dynamics]]
 [[CollectiveStateResilience]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuronal_Avalanche_Dynamics]]
 [[Physical_Reservoir_Substrate]]
 [[Reservoir_Computing]]
+[[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[iNEST]]
 

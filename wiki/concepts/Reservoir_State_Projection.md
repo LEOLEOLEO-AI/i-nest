@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[CSI_Temporal_Dynamics]]
 [[Complex_System_Theory]]
+[[Compressed_Glass_Network]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]

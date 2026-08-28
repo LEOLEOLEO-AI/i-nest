@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Topology]]
 [[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[temporalComplexity]]

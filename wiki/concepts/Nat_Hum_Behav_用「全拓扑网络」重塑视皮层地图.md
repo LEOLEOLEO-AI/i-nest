@@ -23,6 +23,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[AsymmetricStochasticInteractions]]
 [[CST计量仪]]
 [[Cauchy_Aczel_Uniqueness]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -39,4 +40,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Wafer_Scale_Integration]]
 [[complex system]]
 [[iNEST]]
+[[从CoWoS走向CoPoS，晶圆从圆形变成方形]]
+[[复杂网络]]
 [[涌现]]

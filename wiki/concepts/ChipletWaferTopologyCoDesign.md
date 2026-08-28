@@ -19,10 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
@@ -32,13 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[Software_Defined_Interconnect]]
-[[Software_Defined_Interconnect_bonding_mechanism]]
 [[TCC]]
 [[TopologyProgramming]]
 [[Topology_Page]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

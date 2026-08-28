@@ -19,7 +19,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[AdaptiveAsymmetricSurrogateGradients]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveLocalLearning]]
 [[Allreduce_Latency_Probe]]

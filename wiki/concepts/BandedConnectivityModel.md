@@ -19,10 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[BrownianCastleInterface]]
-[[BrownianCastleInterfaces]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]

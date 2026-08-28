@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
+[[Additive_Manufacturing_Supply_Chain]]
 [[AdvancedPackagingInterconnect]]
 [[AdversarialMedicalRobustness]]
 [[AnalogInMemoryComputing]]
@@ -32,9 +33,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoaxialLike_TGV]]
-[[CriticalityAwareTopology]]
+[[Criticality]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

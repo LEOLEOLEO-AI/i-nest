@@ -19,14 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActiveInference]]
 [[Active_Inference_Agent]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
-[[Causal_Emergence]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
-[[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
@@ -39,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[STDPDrivenGraphLearning]]
+[[STDP_Plasticity]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

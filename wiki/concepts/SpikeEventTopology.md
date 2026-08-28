@@ -19,12 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CriticalStateInformationMaximization]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[CrossLayer_SignalRouting]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -32,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[SpikeBackpropagation]]
 [[SpikeBasedGradientDescent]]

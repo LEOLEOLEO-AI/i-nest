@@ -19,12 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
-[[CriticalityDrivenStateTransition]]
-[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibleManifoldReconfiguration]]

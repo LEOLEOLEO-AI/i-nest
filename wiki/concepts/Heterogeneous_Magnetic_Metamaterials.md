@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reconfigurable_Nonlinear_Reservoir]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[TemperatureSensitivityControl]]

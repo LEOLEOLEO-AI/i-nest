@@ -20,7 +20,6 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
@@ -28,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[EmergentOrder]]
 [[Exponential_CST_Coupling]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Intelligence_Emergence]]
@@ -67,6 +67,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Neuromorphic_Integration]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 

@@ -21,13 +21,13 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
+[[AnalogDomainCompression]]
 [[AnalogInMemoryComputing]]
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
 [[Decoupled_Priors]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 [[temporalComplexity]]
 
 ## Sources

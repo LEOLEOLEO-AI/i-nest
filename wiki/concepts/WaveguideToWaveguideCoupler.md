@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D integration]]
 [[3D_Integration]]
 [[AI_Faculty_Forum_2026]]
@@ -28,9 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
-[[Chiplet_Topology_Packaging]]
+[[Chiplet_Topology]]
 [[Decoupled_Priors]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[TCC]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[temporalComplexity]]

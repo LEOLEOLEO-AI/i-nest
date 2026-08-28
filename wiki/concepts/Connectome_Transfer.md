@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[connectome]]
 [[iNEST]]
 [[neuromorphic substrate]]
+[[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[CascadedAdaptiveCombiners]]
 [[DualDrivenHybridNetwork]]
 [[ErrorAmplificationLimits]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[Reconfigurable_Neural_Topology]]
 [[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
 [[TCC]]
 
 ## Sources

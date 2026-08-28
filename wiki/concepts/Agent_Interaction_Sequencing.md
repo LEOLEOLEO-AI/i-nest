@@ -19,11 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
-[[CriticalityDrivenEfficientCoding]]
-[[CriticalityInNeuralNetworks]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

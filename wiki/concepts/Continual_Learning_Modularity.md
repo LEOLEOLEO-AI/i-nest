@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Cognitive_Relapse_Decoupling]]
-[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeOfChaosComputation]]

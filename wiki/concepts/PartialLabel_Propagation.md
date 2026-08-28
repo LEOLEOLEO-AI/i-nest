@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_PPT_Workflow]]
 [[ANN_SNN_FederatedAlignment]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
+[[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

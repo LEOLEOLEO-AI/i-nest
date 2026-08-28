@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[BranchingRatio]]
 [[Criticality]]
@@ -32,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[TCC]]
 [[criticality]]
 [[iNEST]]
 [[类脑芯片]]

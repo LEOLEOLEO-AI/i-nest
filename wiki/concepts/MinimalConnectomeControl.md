@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Autonomous_Physical_Computation]]
 [[BackflowTransformation]]
 [[BigBrain3DHistology]]
 [[BrainActivityPrediction]]

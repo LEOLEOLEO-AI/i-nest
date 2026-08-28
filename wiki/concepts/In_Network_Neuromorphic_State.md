@@ -20,12 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[EndToEndTopologyLearning]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[In_Network_Neuromorphic]]
 [[Memristive_STDP]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]
 [[On_Chip_STDP_Learning]]

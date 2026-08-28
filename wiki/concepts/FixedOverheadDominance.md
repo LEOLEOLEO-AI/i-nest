@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[BigBrainCellularAxis]]
 [[ConductingPolymerDendriteMemory]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

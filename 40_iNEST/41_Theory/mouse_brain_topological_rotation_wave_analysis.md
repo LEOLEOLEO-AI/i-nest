@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [neuroscience, topological-dynamics, neural-oscillation, cortical-wave, brain-architecture]
+summary: "小鼠全脑旋转波受轴突拓扑约束，跨尺度协调脑活动"
+quality: high
+processed: 2026-08-27 18:50
+---
+---
 title: getnote_1916774124945185552_Science 2026最新研究：小鼠全脑拓扑协调旋转波机制深度解析
 tags:
   - physics

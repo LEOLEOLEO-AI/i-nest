@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[Adaptive_Service_Reconfiguration]]

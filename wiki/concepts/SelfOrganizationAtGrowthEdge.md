@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Accessibility_Plasticity]]
 [[Allreduce_Latency_Probe]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
@@ -36,8 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

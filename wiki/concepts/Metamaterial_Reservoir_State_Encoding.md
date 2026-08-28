@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[ChipletOpticalIO]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]
+[[Critical_Exponent_Scaling]]
+[[Heterogeneous_Integration]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Encoding]]
 [[TCC]]

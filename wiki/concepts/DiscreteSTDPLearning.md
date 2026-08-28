@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveLocalLearning]]
 [[AdaptiveSTDP]]
+[[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[ITP_STDP]]

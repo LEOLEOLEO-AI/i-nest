@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[AdiabaticMultimodeBend]]
 [[AnalogDomainCompression]]
 [[ChipletRoutingFabric]]

@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[SDI_NoC_Fusion]]
@@ -39,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

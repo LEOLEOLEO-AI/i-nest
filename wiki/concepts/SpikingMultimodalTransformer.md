@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Autonomous_Spiking_Dynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[EventBasedBioSignalFrontEnd]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Acceleration]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

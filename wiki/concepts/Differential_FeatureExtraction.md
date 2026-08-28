@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[NoC_SDI_CoDesign]]
-[[NoC_SDI_Interconnect]]
 [[SDI_Bond]]
 [[SDI_Interconnect]]
 [[SDI_Topology]]

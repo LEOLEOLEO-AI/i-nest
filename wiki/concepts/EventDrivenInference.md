@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Architecture_Search]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[Event_Driven_Architecture]]
 [[FoveationGuidedTokenSelection]]
-[[FunctionalEnsembleComputation]]
 [[FunctionalEnsemble]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

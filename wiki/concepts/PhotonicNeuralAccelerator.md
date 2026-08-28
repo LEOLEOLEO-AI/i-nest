@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -26,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[CollectiveDynamics]]
 [[CriticalStateInformationMaximization]]
-[[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
@@ -40,7 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
+[[Self_Organized_Criticality]]
 [[SpikeBackpropagation]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]

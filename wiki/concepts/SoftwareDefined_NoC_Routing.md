@@ -21,10 +21,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[EulaminateOverrepresentation]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
+[[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[NCCLCollectiveCommunicationMapping]]
@@ -36,11 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology_Control]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[Crystallized_Neural_Manifolds]]
 [[DissipativeQuantumReservoir]]
+[[Emergent_Reservoir_Topology]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

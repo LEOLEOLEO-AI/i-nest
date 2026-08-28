@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ContinuousTimeSNN]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]

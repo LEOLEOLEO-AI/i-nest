@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]
+[[Intelligence_Emergence]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
@@ -35,9 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SelfRectifyingMemristor]]
+[[SemanticRelationTemporalGraph]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

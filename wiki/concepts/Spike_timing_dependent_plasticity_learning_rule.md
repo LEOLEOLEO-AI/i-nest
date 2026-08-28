@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[STDP_iNEST_Memristive]]
 [[ST_SNN]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]
@@ -57,7 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

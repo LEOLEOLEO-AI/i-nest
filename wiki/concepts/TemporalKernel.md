@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearProjectionEncoding]]
 [[Nonlinear_Gain]]
 [[ReadoutTraining]]
+[[ReservoirFrequencyEncoding]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]

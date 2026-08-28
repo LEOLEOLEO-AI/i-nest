@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[network topology design]]

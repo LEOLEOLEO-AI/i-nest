@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MeanFieldSpinGlass]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

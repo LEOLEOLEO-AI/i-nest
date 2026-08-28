@@ -19,13 +19,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AdaptiveBitPrecisionExploration]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CoPackagedOptics]]
-[[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]
@@ -38,8 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
-[[SelfOrganizationInContinuousMedia]]
 [[SelfOrganization]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[TopologyAwareStateMigration]]

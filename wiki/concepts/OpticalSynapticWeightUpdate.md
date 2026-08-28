@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
-[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Cognitive_Relapse_Architecture]]
 [[Dynamic_Expert_Fusion]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[causal emergence]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

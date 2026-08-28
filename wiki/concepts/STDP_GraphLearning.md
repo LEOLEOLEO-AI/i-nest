@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredSequenceLearning]]
 [[DiscreteSTDP]]
+[[FunctionalInterfaceBlock]]
 [[IntrinsicTimingSTDP]]
 [[Learning_Rule_Comparison]]
 [[Memristive_STDP]]

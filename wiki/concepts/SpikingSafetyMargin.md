@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Dependent_Plasticity]]
 [[BackflowTransformation]]
 [[BrainBodyResonance]]
+[[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Neuromorphic_Computing]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AIRA_NeuralArchSearch]]
 [[CommunicationHeterogeneity]]
 [[ConductingPolymerDendriteMemory]]
 [[EventBasedAnalogFrontEnd]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ModelOptimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[OpticalNeuralNetworkTopology]]
 [[OptimalRepresentation]]
 [[PhotoIontronicSynapse]]

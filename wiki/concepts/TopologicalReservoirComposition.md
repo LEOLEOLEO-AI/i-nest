@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AIRA_NeuralArchSearch]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DataDrivenMaterialDesign]]
 [[DisorderInducedEntanglementTransition]]

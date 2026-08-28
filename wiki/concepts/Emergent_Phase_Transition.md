@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AlloyDisorderEngineering]]
 [[Biologically_Plausible_Learning_Rules]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
 [[Criticality]]
-[[Criticality_Induced_Computation]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_for_Space]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Interconnect]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WideLink_NoC_Router]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

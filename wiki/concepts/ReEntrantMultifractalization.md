@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdiabaticMultimodeBend]]
 [[AdjointWaveControl]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
-[[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

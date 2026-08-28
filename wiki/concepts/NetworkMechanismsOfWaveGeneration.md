@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ERI_2_0_Strategy]]
 [[Encapsulation_Topology]]
+[[EntanglementSignatures]]
 [[Intelligence_Emergence]]
 [[MagicStateDistillationOverheadModel]]
 [[Network_Topology_Design]]

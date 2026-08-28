@@ -21,10 +21,10 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
+[[AdiabaticModeEvolutionCoupler]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCellularAxis]]
@@ -48,11 +48,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[STDP_Plasticity]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Memristor_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikingNeuralNetworkTopologyMapping]]

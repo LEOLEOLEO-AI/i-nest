@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
@@ -39,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[criticality threshold]]
 [[criticality]]
 [[iNEST]]
 [[neuromorphic computing]]

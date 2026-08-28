@@ -21,12 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN_SNN_ConversionError]]
+[[ActiveDendriteSNN]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Neuromorphic_Computing]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]

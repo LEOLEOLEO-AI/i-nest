@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
+[[FerroelectricMemoryCell]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[HeterogeneousSynapticDelays]]

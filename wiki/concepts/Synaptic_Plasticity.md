@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]

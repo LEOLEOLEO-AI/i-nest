@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalLinguisticCompetence]]
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
+[[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[MacroCriticalityEmergence]]
 [[Memristive_Topology]]
 [[MetaFAIR_ArchitectureDiscovery]]

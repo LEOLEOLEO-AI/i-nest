@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[neuromorphic substrate]]
 
 ## Sources

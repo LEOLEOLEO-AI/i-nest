@@ -19,9 +19,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AdaptiveArchitecture]]
 [[CirculateFiringNeuron]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

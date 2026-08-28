@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[Accessibility_Plasticity]]
 [[AsymmetricStochasticInteractions]]
+[[AttentionMap_DifferenceResidual]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[NetworkMechanismsOfWaveGeneration]]

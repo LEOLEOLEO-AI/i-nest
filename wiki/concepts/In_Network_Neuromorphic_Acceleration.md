@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[ContinuousTimeSNN]]
 [[Criticality]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AvalancheBranchingRatio]]
 [[Avoided_Criticality]]
 [[BranchingRatio]]

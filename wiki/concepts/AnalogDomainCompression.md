@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Criticality]]
@@ -50,9 +51,9 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
-[[TCC_iNEST_Interconnect]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DynamicServiceComposition]]
 [[Dynamic_Expert_Fusion]]
@@ -42,9 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

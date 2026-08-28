@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuronal_Avalanche_Dynamics]]
 [[NoiseRegimeTransition]]
 [[Reservoir_Computing]]
+[[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[criticality]]
 [[iNEST]]

@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Distributed_Spike_Communication]]
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
@@ -47,12 +46,15 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[忆阻器]]
+[[智能涌现]]
 [[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

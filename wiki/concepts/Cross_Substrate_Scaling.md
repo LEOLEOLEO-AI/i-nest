@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[4H_SiC_SubstrateProcessing]]
 [[ByteDance_Ada_Chip]]
 [[DarkSiliconAwarePowerGating]]
@@ -30,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Silicon_Neuron_Controller]]
 [[Neuromorphic_Wafer]]
 [[Resilient_Sensing_Comms_Network]]
+[[SDI_Bond]]
 [[SDI_iNEST_Wafer]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

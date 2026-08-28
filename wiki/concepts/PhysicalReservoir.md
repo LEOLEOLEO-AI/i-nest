@@ -21,11 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Brain_Connectome]]
+[[CST_Exponential_Gain]]
 [[C_elegansConnectomeAnalogy]]
 [[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
 [[Connectome]]
-[[Connectome_Reservoir]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]

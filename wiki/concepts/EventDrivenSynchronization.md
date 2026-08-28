@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[EEGSpikeEncoding]]
@@ -34,8 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[Residual_Connection]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[ST_SNN]]
 [[SensoryGatedSpikingLoop]]
 [[SpikeCodedAssociation]]

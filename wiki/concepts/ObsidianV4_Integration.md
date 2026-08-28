@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[ANN动力学]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]

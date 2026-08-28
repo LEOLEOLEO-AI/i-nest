@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
+[[ActiveDendriteSNN]]
 [[ActivityAvalanche]]
 [[ActivityPropagationCascade]]
 [[AddressRedundancyElimination]]

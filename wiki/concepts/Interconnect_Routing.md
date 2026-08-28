@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
 [[DTGA]]
 [[FunctionalBrainGraphEmbedding]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[Neuromorphic_Computing]]
 [[Neuromorphic_Topology_Mapping]]
 [[NoC_SDI_Integration]]
 [[OpticalNeuralNetworkTopology]]

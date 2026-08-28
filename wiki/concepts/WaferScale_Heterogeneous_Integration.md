@@ -22,10 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[EulaminateOverrepresentation]]
+[[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
 [[Memory_Wall]]
@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_TCC_Integration]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

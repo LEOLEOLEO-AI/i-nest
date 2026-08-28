@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[Evolutionary_Reservoir_Adaptation]]
 [[ExplosiveTransitionThreshold]]
+[[Fixed_Reservoir_Unitary]]
 [[Free_Energy_Topology_Mapping]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

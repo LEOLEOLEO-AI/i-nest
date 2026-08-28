@@ -32,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[CST_CoordinationMechanism]]
 [[C_elegansConnectomeAnalogy]]
-[[Causal_Emergence]]
 [[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
 [[Connectome]]
@@ -45,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[causal emergence]]
 [[complex system]]
 [[iNEST]]
 

@@ -20,9 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[CorticalTypeDiversity]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
+[[Memristor_Synapse]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
@@ -33,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]

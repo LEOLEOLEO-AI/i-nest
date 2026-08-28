@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompressiveSensing]]
 [[Analog_Computation]]
 [[ArbitraryWavefunctionConfigurability]]
+[[AtomicVaporNonlinearity]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bioavailability_Enhancement]]
 [[CST_SynergisticCoordination]]

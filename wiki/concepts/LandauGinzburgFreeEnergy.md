@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[1024_Card_SuperNode]]
 [[11_SDI节点接口规范与化合键定义_dup]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]
+[[Heterogeneous_Integration]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[complex system]]

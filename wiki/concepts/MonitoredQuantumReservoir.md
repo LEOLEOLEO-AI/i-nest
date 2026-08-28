@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CriticalRegimeReservoir]]
 [[Critical_Exponent_Scaling]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DynamicalSelfDualCriticality]]
 [[DynamicsMatchedReservoir]]

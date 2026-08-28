@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[ActiveInference]]
 [[AutonomousAdaptation]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -27,11 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CorticalWaveRouting]]
 [[DTGA]]
-[[FunctionalInterfaceBlocks]]
+[[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Nonlinear_Wave_Reconfiguration]]
 [[ReEntrantMultifractalization]]
 [[TCC]]

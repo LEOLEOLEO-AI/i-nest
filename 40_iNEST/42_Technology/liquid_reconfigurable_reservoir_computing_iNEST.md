@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [liquid-computing, reservoir-computing, OECT, neuromorphic-hardware, task-adaptive]
+summary: "液基可重构储层计算实现任务自适应神经形态硬件"
+quality: high
+processed: 2026-08-27 18:51
+---
+---
 title: getnote_1916649475330424040_复旦大学ACS Nano液基可重构动态储层计算研究：任务自适应神经形态计算新突破
 tags:
   - first-principles

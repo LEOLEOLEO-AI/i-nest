@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[6万+辛顿2025年度全景实录深读｜真正的智能与硅基智能的非对称演进]]
 [[AI_Orchestrator]]
+[[AI_Supply_Chain_Increment]]
 [[Agent_Workflow_Automation]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

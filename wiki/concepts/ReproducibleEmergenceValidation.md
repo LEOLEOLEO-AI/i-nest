@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Complex_System_Theory]]
 [[DeeplySupervisedSpiking]]
+[[EmergentTaskDecomposition]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Generalization_Bound_Spectra]]

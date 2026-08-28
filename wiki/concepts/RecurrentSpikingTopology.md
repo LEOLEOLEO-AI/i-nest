@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicInterconnectTopology]]
 [[Neuromorphic_Computing]]
+[[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

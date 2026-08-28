@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AgenticServiceOrchestration]]
 [[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
 [[Criticality]]
-[[Criticality_Feature_Encoding]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

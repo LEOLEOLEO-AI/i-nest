@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_SNN_Stability_Boundary]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[ExplosiveTransitionThreshold]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]

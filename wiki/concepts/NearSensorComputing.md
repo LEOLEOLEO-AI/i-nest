@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[CST计量仪]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
@@ -47,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Topology]]
+[[chiplet interconnect]]
 [[complex system]]
 [[temporalComplexity]]
 

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Memristor_Synapse]]
@@ -29,10 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[PhotoInducedCurrent]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
-[[STDP_iNEST_Memristive]]
+[[STDP_iNEST]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[reservoir computing]]
 
 ## Sources

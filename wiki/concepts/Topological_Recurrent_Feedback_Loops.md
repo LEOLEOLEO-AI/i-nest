@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Brain_Connectome]]
 [[CST_Equation]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Connectome]]
 [[DataProvenanceIntegrity]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
 [[忆阻器]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

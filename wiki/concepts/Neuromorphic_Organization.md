@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[ConductingPolymerDendriteMemory]]
+[[Criticality_Based_Feature_Extraction]]
 [[EnergyProportionalityCeiling]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

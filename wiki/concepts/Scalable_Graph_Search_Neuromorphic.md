@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
+[[ContinuousTimeSNN]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]

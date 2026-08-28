@@ -21,11 +21,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[CrashHotspotForecasting]]
 [[DARPA_ProjectManager_Model]]
 [[Emerging_CMOS_Memristor]]
 [[Globally_Optimal_SNN_Training]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[ReservoirComputingModel]]
 [[Reservoir_Computing]]
 [[SNN]]
@@ -34,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
 [[neuromorphic spiking]]
-[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

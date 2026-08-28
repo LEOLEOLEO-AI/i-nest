@@ -19,10 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[AnisotropicGaussianPrimitives]]
 [[BurstGatedRouting]]
-[[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
@@ -37,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
+[[Self_Organized_Criticality]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]
 [[Architectural_Conditioning]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[CommunicationAwareComputeRelocation]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Translation_Invariant_Closure]]
 [[VectorFlowField]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

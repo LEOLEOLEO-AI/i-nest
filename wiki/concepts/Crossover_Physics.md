@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFunctionalTopology]]
 [[AmoebaInspiredLocomotion]]
 [[Cognitive_Relapse_Decoupling]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_CoordinationMechanism]]
 [[CST_Spatiotemporal_Coefficient]]
 [[CST_Theory]]
+[[C_elegansConnectomeAnalogy]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[DendriticReservoirState]]

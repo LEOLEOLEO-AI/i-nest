@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AINext_Initiative]]
@@ -28,12 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Evolving_System_Adaptation]]
+[[Heterogeneous_Integration]]
 [[Memory_Technology_Coexistence]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
-[[PowerLawScalingClassification]]
+[[PowerLawScaling]]
 [[Readout_Layer_Training]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

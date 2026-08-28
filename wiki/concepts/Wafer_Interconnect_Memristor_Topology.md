@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Memristor_Synapse]]
 [[Memristor_Topology]]
 [[Network_Topology_Design]]
@@ -28,8 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
-[[SDSoW_Strategic_Planning]]
 [[WaferScale_Memristor_Array]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[BiasEvaluationMetrics]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Complexity_Emergence_Engineering]]
 [[Event_Driven_Architecture]]
 [[Free_Energy_Principle_Network]]
 [[Hardware_Accelerated_SNN]]

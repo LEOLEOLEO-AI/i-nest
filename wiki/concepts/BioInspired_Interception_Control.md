@@ -19,15 +19,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AdaptiveTimeStepTraining]]
 [[Allreduce_Latency_Probe]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]

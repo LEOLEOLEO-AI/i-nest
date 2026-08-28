@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [SDI, Torus, 电路交换, 虚通道, 芯片架构]
+summary: "提出SDI框架下虚通道×颜色电路交换×分组交换混合高阶Torus架构方案"
+quality: high
+processed: 2026-08-27 18:48
+---
+---
 title: getnote_1916496424170848904_SDI高阶Torus方案：虚通道×颜色电路交换×分组交换混合架构
 tags:
   - transformer

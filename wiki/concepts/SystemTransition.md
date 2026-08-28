@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
+[[AdditiveTopology_Embedding]]
 [[BCM滑动阈值]]
 [[CST_Synergy_Coordination]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]

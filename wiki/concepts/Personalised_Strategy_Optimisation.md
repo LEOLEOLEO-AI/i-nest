@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActiveDendriteSNN]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Decoupling]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[EventDrivenSynchronization]]
 [[Interconnect_Routing]]

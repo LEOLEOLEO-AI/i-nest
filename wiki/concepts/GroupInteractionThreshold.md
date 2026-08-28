@@ -43,11 +43,12 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[complex system]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

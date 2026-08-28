@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[PropertyPredictionModeling]]
 [[RecurrentSpikingDynamics]]
+[[RecurrentSpikingTopology]]
 [[STDP plasticity]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

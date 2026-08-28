@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[Brain_Connectome]]
+[[Complex_System_Theory]]
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[Dynamic_Expert_Fusion]]

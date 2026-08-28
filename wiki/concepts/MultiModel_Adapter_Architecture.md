@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Avoided_Criticality]]
+[[BioPlausibleDisturbanceObserver]]
 [[Catastrophic_Forgetting_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Cognitive_Relapse_Architecture]]

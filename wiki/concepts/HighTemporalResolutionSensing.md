@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DiscreteContinuous_Unification]]
@@ -37,13 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[STDP_iNEST_Memristive]]
 [[ScaleFreeNetwork]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

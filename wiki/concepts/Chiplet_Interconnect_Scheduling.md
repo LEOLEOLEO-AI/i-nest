@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdiabaticMultimodeBend]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[ComputeRelocationOverhead]]
 [[DataMovementMinimization]]
@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

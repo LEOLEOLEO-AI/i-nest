@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Criticality]]
 [[EdgeIoTEnergyAwareness]]
+[[FiniteSizeTopologicalPhase]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceManifesto]]
 [[AnalogDomainCompression]]
 [[Branch_Prediction_Reservoir]]
+[[Categorical_Closure_Criterion]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[Compressive_Sensing_Reservoir]]
 [[Criticality]]

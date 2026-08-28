@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[ChipletWaferTopologyCoDesign]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
@@ -35,9 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[TCC]]
 [[Z3ToricCode]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[BigBrainCellularAxis]]
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[CommunicationAwareComputeRelocation]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Translation_Invariant_Closure]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

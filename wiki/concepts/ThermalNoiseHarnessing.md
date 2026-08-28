@@ -16,6 +16,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
+[[AnomalousSpinTransport]]
 [[Attention_Residuals]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
@@ -60,7 +61,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]

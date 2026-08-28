@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
@@ -32,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
-[[NeuromorphicRL_Locomotion]]
+[[NeuromorphicRL]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]

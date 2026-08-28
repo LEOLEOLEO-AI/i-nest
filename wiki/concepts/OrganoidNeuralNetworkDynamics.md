@@ -42,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[criticality]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[BackflowTransformation]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CriticalNormBoundary]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[Decoupling_Mechanism]]
 [[EventDrivenFunctionalConnectivity]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

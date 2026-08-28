@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[Baseline_Draft_Status]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[TCC_SpikingIntegration]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

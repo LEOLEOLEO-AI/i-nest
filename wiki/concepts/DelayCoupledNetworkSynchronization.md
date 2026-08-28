@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AnisotropicGaussianPrimitives]]
 [[ConnectomicDevelopmentalTrajectory]]
 [[Controlled_Release_Kinetics]]
 [[EmergentAttractorStability]]

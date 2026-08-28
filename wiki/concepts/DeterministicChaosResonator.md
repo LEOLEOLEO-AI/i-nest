@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[156QubitScale]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AdjustableDynamics]]
 [[AlternativeBridgingModels]]
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]

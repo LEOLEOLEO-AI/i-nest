@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DissipativeQuantumReservoir]]
 [[Emergent_Reservoir_Topology]]
+[[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[MagneticMetamaterialReservoir]]
 [[MeasurementInducedNonlinearity]]

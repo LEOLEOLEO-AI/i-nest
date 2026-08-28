@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[20W_Brain_Inspired_Planning]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Enabled_Battlefield_Autonomy]]

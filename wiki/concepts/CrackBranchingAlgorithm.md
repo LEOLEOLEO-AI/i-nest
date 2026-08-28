@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
 [[AI_Orchestrator]]
+[[AI_Supply_Chain_Increment]]
 [[Agent_Workflow_Automation]]
 [[Barrier_Hierarchy]]
 [[Complex_System_Theory]]

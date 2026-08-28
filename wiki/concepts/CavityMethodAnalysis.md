@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

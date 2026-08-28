@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
+[[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Delay_Aware_Autograd_Spiking_Framework]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
+[[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[AgenticServiceManifesto]]

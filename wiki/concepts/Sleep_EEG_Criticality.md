@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Contested_Prior_Resolution]]
 [[Criticality]]
+[[DynamicalSelfDualCriticality]]
 [[EEG_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]

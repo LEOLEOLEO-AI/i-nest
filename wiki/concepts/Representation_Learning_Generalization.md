@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]

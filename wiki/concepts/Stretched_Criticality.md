@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ActivityAvalanche]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CriticalFixedPoint]]
 [[CriticalStateDynamics]]

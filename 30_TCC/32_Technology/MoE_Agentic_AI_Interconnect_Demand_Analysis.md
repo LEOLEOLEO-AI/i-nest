@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [MoE, 互联, 网络拓扑, AI基础设施, All-to-All通信]
+summary: "MoE与Agentic时代AI互联需求系统性增长分析"
+quality: high
+processed: 2026-08-27 18:48
+---
+---
 title: getnote_1916427411563778264_MoE与Agentic时代AI互联需求系统性增长深度研报
 tags:
   - infrastructure

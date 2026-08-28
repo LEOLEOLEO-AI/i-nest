@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Hardware_Accelerated_SNN]]
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]

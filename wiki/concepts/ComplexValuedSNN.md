@@ -37,9 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
-[[SNN_Sparsity_InformationBound]]
+[[STDP_Plasticity]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 
 ## Sources

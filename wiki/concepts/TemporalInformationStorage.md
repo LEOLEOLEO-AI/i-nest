@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Emergent_Intelligence_Threshold]]
+[[EpidemicThreshold]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]

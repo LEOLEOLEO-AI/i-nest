@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
 [[AnomalousSpinTransport]]
+[[Compressed_Glass_Network]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]

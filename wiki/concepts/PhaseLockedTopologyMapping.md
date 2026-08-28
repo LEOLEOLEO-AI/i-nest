@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[PolychronousNeuronalGroups]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]

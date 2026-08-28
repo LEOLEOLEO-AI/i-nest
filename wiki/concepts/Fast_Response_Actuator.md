@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[ANN_SNN_ConversionError]]
+[[ActiveDendriteSNN]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[HardwareAwareTraining]]
 [[ITP_STDP]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]

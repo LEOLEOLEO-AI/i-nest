@@ -25,8 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[DifferentiableRasterizationPipeline]]
+[[EnsembleSparsity]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[Hypersonic_Weapon_Market_CAGR]]
@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

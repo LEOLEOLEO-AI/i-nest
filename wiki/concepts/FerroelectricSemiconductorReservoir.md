@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Dynamic_Expert_Fusion]]
@@ -38,13 +39,12 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[STDP_iNEST_Memristive]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

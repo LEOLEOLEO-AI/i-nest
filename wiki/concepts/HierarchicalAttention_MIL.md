@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Compositional_Continuum]]
 [[Energy_Efficient_Control]]
 [[ExplosiveCooperationTransition]]
+[[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[KV_Cache_To_BoundaryObject]]

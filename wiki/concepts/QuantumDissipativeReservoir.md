@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[branch prediction]]
 [[pipelined processor]]
-[[reservoir computing architecture]]
 [[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

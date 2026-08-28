@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Emergent_Intelligence_Threshold]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[iNEST]]
 [[neuromorphic computing]]
+[[neuromorphic interconnect]]
 [[spiking neural network]]
 
 ## Sources

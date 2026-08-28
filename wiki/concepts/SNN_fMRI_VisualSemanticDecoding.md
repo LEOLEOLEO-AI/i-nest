@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[Criticality]]
 [[EEG_Criticality]]
 [[Hardware_Accelerated_SNN]]
 [[HodgkinHuxleyDynamics]]
+[[Intelligence_Emergence]]
 [[LeftRightAsymmetry]]
 [[MacroCriticalityEmergence]]
 [[Neuromorphic_Computing]]

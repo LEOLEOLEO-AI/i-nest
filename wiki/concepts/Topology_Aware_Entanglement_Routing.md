@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[ActivityPropagationCascade]]
 [[BarrierConditionedTrajectory]]
 [[BurstInterleaving]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossLayer_SignalRouting]]
 [[Data_Debiasing_Techniques]]
 [[Deep_Thermalisation]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]

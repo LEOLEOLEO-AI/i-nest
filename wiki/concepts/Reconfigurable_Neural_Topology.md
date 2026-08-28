@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Cognitive_Relapse_Decoupling]]
 [[Critical_Region_Extension]]
 [[Criticality]]

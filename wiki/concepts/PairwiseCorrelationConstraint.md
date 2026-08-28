@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[PropertyPredictionModeling]]
 [[SpikeEncoding]]
 [[SpikeRatePrecisionTradeoff]]
 [[Spike_Encoding_of_fMRI]]

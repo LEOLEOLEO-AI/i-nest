@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CSI_Temporal_Encoding]]
+[[ChipletOpticalIO]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]

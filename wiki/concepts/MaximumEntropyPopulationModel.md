@@ -19,16 +19,15 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
-[[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Algorithmic_Warfare]]
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CollectiveDynamics]]
-[[CriticalityConstrainedPruning]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

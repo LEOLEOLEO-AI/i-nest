@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
+[[FiniteSizeTopologicalPhase]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

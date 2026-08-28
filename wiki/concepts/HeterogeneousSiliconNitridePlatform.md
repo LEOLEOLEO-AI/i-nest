@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_IC_Stacking]]
 [[3D_Integration]]
 [[Active_Inference_Topology]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
-[[Chiplet_Interconnect]]
 [[CorticalTypeDiversity]]
 [[CrossMaterial_Integration]]
 [[DataMovementMinimization]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TSVEncapsulationStress]]
 [[TopologyAware_Routing]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

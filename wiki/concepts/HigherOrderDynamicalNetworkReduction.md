@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDI_TCC_Chiplet_Interconnect]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

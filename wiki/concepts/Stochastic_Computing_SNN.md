@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[PowerOfTwoWeightQuantization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SNN]]

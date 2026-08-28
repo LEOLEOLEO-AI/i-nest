@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AlgorithmHardware_CoDesign]]
 [[CollectiveSpikingDynamics]]
 [[DMP_SNN_DualMemoryPathway]]
@@ -30,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[FPGASNNMemoryOptimization]]
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SNN]]
 [[SpikingTransformer]]
 [[Spiking_Neural_Network]]

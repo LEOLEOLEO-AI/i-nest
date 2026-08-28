@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[AI_FullSpectrum_Strategy]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet stacking]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[EdgeIoTEnergyAwareness]]
@@ -39,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_Interconnect]]
 [[NoC_SDI]]
-[[NoC_SDI_Topology]]
 [[P_Paradigm]]
 [[Photonic_Chiplet_Interconnect]]
 [[SDI_Bond]]
@@ -48,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]
+[[chiplet interconnect]]
 [[chiplet stacking]]
 [[iNEST]]
 [[iNEST_Wafer]]

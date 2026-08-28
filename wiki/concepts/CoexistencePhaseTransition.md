@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Assisted_Energy_Management]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveMeasurementProtocol]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[neuromorphic computing]]
 

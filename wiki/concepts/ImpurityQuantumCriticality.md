@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ActivityAvalanche]]
 [[AlloyDisorderEngineering]]
 [[AvalancheBranchingRatio]]
 [[Boundary_Criticality]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
-[[CriticalityOnSmallWorlds]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

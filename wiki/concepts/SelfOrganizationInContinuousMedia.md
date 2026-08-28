@@ -19,12 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Accessibility_Plasticity]]
 [[AdaptiveNetworkResilience]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]

@@ -19,10 +19,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]

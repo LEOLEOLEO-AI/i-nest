@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[BigBrainCellularAxis]]
 [[ConductingPolymerDendriteMemory]]
+[[Crystallized_Embedding_Reservoir]]
 [[DrivenDissipativeDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]

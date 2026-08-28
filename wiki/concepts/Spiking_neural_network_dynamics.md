@@ -56,11 +56,12 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalDynamicsModeling]]
+[[ThermalNoiseHarnessing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

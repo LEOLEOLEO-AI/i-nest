@@ -20,15 +20,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AlloyDisorderEngineering]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]
-[[CriticalityOnSmallWorlds]]
 [[Criticality]]
-[[Criticality_Induced_Computation]]
 [[Disorder_Anomaly_Duality]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

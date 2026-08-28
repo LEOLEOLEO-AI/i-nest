@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

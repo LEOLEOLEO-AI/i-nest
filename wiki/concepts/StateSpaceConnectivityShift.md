@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
 [[ActiveInference]]
+[[AdjustableDynamicsReservoir]]
 [[AdjustableDynamics]]
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]

@@ -28,9 +28,9 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[ANN动力学]]
+[[ArmLocomotorCoordination]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[EmergentOrder]]
 [[Heterogeneous_Integration]]
@@ -53,6 +53,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]

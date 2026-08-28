@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[3D_IC_Stacking]]
 [[AI-ML — 全景导航 (Map of Content)]]
@@ -28,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[AdaptiveNetworkResilience]]
-[[Bipartite_Interconnect_Design]]
+[[Bipartite_Interconnect]]
 [[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Network_Topology_Design]]

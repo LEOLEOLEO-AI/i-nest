@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_Heterogeneous_Integration]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA 3DHI roadmap]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TOOLS]]
+[[chiplet interconnect]]
 [[heterogeneous_integration]]
 [[iNEST]]
 [[tools]]

@@ -20,10 +20,10 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AgenticServiceManifesto]]
 [[Combinatorial_Optimization_Readout]]
 [[Compressive_Sensing_Reservoir]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[Network_Topology_Design]]

@@ -19,9 +19,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
 [[Decoupling_Mechanism]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
 [[TileBasedRasterization]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[temporalComplexity]]
 

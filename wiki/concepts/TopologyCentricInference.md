@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_FullSpectrum_Strategy]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EventDrivenRiskAssessment]]
@@ -35,8 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[PhysicalReservoirInterconnect]]
+[[PhysicalReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

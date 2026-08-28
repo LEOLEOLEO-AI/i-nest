@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[BrainInspiredArchitecture]]
 [[ConductingPolymerDendriteMemory]]
 [[ContinualLearningOnNeuromorphic]]
@@ -29,10 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

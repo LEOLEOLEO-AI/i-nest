@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AINext_Initiative]]
 [[AcademicDevelopmentCoCreation]]
+[[AdjustableDynamicsReservoir]]
 [[Analog_Encoding_Readout]]
 [[CMOS_Memristor_Crossbar]]
 [[CrashHotspotForecasting]]

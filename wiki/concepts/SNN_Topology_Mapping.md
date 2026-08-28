@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[ActivityAvalanche]]
@@ -26,13 +27,13 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Self_Organized_Criticality]]

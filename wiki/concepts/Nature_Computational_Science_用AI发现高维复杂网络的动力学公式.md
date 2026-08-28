@@ -29,6 +29,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Complex_System_Theory]]
 [[DeviceConductanceTuning]]
 [[Intelligence_Emergence]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]

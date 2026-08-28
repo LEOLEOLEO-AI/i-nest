@@ -45,10 +45,12 @@ Auto-extracted concept from raw material compilation.
 [[Swarm_Coordination]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

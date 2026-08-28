@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[Fading_Memory_Property]]
 [[Intelligence_Emergence]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]

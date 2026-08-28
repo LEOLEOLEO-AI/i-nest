@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
+[[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
 [[LIF_Neuron_Model]]

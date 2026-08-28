@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Complexity_Emergence_Engineering]]
 [[ConsciousnessEngineeringLoop]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_SNN]]
 [[SNN]]
+[[SpikeEncoding]]
 [[SpikeRoutingFabric]]
 [[Spiking_Neural_Network]]
 [[TCC]]

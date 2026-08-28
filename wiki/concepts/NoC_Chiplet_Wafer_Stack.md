@@ -22,7 +22,6 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
@@ -42,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_topology_and_interconnection_patterns]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing]]
+[[NoC_SDI]]
 [[NonAbelian_Gauge_Topology]]
 [[Nonlinear_Gain]]
 [[Photonic_Chiplet_Interconnect]]
@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[temporalComplexity]]
 

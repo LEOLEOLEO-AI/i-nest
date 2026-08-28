@@ -23,8 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 

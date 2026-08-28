@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
+[[AnalogDomainCompression]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]

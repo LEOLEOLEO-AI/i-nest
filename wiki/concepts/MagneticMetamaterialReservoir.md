@@ -29,7 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
-[[FunctionalInterfaceBlocks]]
+[[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[MeasurementInducedNonlinearity]]
 [[Memristor_Synapse]]

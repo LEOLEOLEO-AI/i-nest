@@ -15,13 +15,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DIntegratedPhotonicPackaging]]
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Core_Spacetime_Tensor]]
 [[CorticalTypeDiversity]]
@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[temporalComplexity]]
 
 ## Sources

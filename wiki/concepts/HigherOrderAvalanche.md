@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[BiasEvaluationMetrics]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
-[[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]

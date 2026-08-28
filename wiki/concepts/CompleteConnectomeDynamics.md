@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Brain_Connectome]]
+[[C__elegans_Connectome]]
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]
 [[Connectome]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[CSI_Temporal_Encoding]]
 [[ContinuousControlConversion]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[EEG_Criticality]]
 [[Edge_Neuromorphic_Compute]]

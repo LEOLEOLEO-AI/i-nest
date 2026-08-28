@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -38,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
-[[TCC_Neuromorphic_Integration]]
 [[Weight_Reinitialization]]
 [[branch prediction]]
 [[pipelined processor]]

@@ -22,9 +22,9 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[DynamicServiceComposition]]
+[[EquilibriumTreePacking]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[TopologyProgramming]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[11_SDI节点接口规范与化合键定义_dup]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
+[[chiplet interconnect]]
 [[complex system]]
 [[temporalComplexity]]
 [[神经网络]]

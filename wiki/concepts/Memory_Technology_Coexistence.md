@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[DistinctReentrantPhases]]
 [[Epithelial_Barrier_Integrity]]
+[[Generalization_Bound_Spectra]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[QuantumReservoirMemoryCapacity]]

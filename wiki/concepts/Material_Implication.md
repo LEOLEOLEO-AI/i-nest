@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
+[[FerroelectricMemoryCell]]
 [[FerroelectricTunnelingJunction]]
 [[Ferroelectric_Devices]]
 [[Field_Compression_for_InNetwork_Inference]]

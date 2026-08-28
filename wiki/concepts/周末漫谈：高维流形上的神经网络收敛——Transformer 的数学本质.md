@@ -21,6 +21,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[BackflowTransformation]]
 [[BigBrain3DHistology]]
 [[BrainActivityPrediction]]
@@ -30,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CompleteConnectomeDynamics]]
+[[Complex_System_Theory]]
 [[Connectome]]
 [[Criticality]]
 [[Heterogeneous_Integration]]
@@ -40,7 +42,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SpikingBrain-1_0_类脑脉冲大模型的革命性突破_]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
 [[iNEST]]
 [[大脑临界性_健康脑功能的统一设定点假说_Neuron观点文章深度解析]]
 [[神经网络]]

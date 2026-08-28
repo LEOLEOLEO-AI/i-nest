@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[Representation_Learning_Generalization]]
 [[SNN]]
 [[Spiking_Neural_Network]]
@@ -42,11 +43,13 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[getnote_2026-07-02_项目简介]]
+[[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[新型计算]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[术语对照表]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

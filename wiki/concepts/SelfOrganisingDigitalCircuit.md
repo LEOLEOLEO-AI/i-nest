@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AdaptiveEntanglementManagement]]
 [[AdjointWaveControl]]
 [[Capability_Reserve_Index]]
@@ -27,12 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[ConstraintDrivenSelfOrganization]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
+[[Criticality]]
 [[DTGA]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[Entangled_Criticality]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

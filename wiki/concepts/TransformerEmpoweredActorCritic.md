@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[AcceleratedMaterialScreening]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[DendriticReservoirState]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Fractal_Entanglement_Scaling]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
-[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[IntegrationProspectsForVLSI]]

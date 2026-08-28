@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
 [[DivergentHigherAreaRanking]]
+[[EvolutionaryReservoirOptimization]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveCompetingInteractions]]
+[[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[DTGA]]

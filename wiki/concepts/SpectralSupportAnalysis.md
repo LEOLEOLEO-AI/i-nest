@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
@@ -42,7 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

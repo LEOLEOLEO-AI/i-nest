@@ -19,9 +19,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
-[[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Algorithmic_Warfare]]
 [[Avoided_Criticality]]
@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
-[[CriticalityConstrainedPruning]]
 [[Criticality]]
 [[EEG criticality]]
 [[EEG_Criticality]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BackpropagationFreeLearning]]
+[[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Interconnect]]

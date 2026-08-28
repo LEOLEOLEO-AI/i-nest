@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[AlgorithmHardware_CoDesign]]
 [[CSI_Temporal_Encoding]]
+[[CirculateFiringNeuron]]
 [[Communication_Trace_Diagnostics]]
 [[EpidemicThreshold]]
 [[GlassInterposerSignalIntegrity]]
@@ -34,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nat Commun丨国防科技大学胡德文等团队揭示用于同时编码时空动态的多突触脉冲神经元]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Neuromorphic_Computing]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

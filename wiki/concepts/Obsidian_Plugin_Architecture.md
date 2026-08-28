@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThirdWaveAI]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[neuromorphic computing]]
 [[tools]]
 

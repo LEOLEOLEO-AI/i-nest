@@ -21,10 +21,10 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[AdaptiveArchitecture]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
-[[Criticality_Threshold]]
 [[DynamicalSelfDualCriticality]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]

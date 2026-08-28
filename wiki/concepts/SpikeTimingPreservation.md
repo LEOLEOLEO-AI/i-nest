@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
+[[DTGA]]
 [[EventCameraTemporalEncoding]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -32,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[NoC_SDI_CoDesign]]
-[[NoC_SDI_Interconnect]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

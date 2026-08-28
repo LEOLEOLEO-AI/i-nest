@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AnomalousSpinTransport]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
-[[FunctionalInterfaceBlocks]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

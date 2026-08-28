@@ -19,13 +19,14 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[ActivityAvalanche]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BioPlausiblePredictiveCoding]]
 [[CollectiveDynamics]]
-[[CriticalityDrivenStateTransition]]
+[[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[ElasticSpikingTransformer]]
 [[Emergent_Intelligence_Threshold]]
@@ -37,8 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[SelfOrganization]]
+[[Self_Organized_Criticality]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTransformer]]

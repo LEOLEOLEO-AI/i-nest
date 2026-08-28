@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[CST_CoordinationMechanism]]
 [[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]

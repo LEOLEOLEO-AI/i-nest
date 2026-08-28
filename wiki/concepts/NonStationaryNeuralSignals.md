@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]
 [[EmulationTheoryObserver]]
+[[InNetworkComputing]]
 [[MembranePotentialAlignment]]
 [[MultiModel_Adapter_Architecture]]
 [[Phase_Transition_Tail_Transition]]

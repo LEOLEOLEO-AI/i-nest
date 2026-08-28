@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[CircadianGateModulation]]
@@ -38,14 +39,14 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
-[[STDP_iNEST_Memristive]]
+[[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[reservoir computing]]
 
 ## Sources

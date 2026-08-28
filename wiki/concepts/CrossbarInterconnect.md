@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[FPGAInference]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[OnChipOpticalTweezers]]
+[[SDI_Bond]]
 [[SDI_STDP_Rule]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]

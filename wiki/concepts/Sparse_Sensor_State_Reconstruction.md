@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Nonlinear_Gain]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[Sub_Nyquist_Waveform_Reconstruction]]

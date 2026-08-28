@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Topology]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Encapsulation]]
 [[WaferScale_Chiplet_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

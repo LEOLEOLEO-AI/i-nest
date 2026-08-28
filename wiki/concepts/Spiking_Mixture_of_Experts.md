@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CIMWeightUpdateAwareness]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[NoiseModulated_SynapticPlasticity]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 [[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

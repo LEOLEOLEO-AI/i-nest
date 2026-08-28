@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]

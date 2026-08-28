@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Decoupled_Priors]]
 [[EventDrivenRiskAssessment]]

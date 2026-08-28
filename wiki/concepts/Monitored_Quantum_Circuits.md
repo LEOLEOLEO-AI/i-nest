@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CriticalBranching]]
 [[Critical_Exponent_Scaling]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CytoarchitectonicAxis]]
 [[DataDrivenCytoarchitectonicAxis]]

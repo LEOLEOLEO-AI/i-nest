@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
@@ -28,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[OpenSource_Neuromorphic_Framework]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[neuromorphic computing]]
 [[spiking neural network]]
 

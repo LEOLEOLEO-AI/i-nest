@@ -23,9 +23,9 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Computation]]
+[[Analog_InMemory_Processing]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[EulaminateOverrepresentation]]
 [[Ferroelectric_Devices]]
@@ -40,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[SuperparamagneticSwitchingRate]]
@@ -48,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[ThreeLayerArchitecture]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Topology]]
+[[chiplet interconnect]]
 [[temporalComplexity]]
 
 ## Sources

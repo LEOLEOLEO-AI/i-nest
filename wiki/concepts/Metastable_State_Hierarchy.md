@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
+[[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

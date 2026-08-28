@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_FullSpectrum_Strategy]]
 [[AgenticServiceManifesto]]
 [[AgenticServiceOrchestration]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Critical_Region_Extension]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[Defense_Industrial_Base_Reshaping]]
@@ -41,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
-[[reservoir computing architecture]]
 [[reservoir computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

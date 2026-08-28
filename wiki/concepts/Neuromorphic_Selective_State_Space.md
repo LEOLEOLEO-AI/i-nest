@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[NoiseModulated_SynapticPlasticity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
@@ -46,6 +46,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[neuromorphic computing]]
+[[neuromorphic interconnect]]
+[[spiking neural network dynamics]]
 [[spiking neural network]]
 [[类脑芯片]]
 

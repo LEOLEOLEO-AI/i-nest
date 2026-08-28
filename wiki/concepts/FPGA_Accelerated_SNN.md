@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ActiveDendriteSNN]]
 [[BackflowTransformation]]
 [[BiasEvaluationMetrics]]
 [[Bidirectional_Temporal_Enhancement]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Planning_Architecture]]
 [[OpenSource_Neuromorphic_Framework]]
 [[RenormalizationGroup_ScalingLaws]]
+[[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[spiking neural network]]
 [[temporalComplexity]]
 

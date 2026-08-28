@@ -36,16 +36,19 @@ Auto-extracted concept from raw material compilation.
 [[ModularityDepthInteraction]]
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Network_Topology_Design]]
+[[NeuroRing_Topology]]
 [[QuantumKernelMethods]]
 [[Resilient_Satellite_Mesh]]
 [[SensorMemoryCoLocation]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

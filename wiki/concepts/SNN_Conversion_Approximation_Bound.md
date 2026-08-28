@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
+[[AnisotropicGaussianPrimitives]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
@@ -35,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeTimingFidelity]]
-[[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]
@@ -45,7 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

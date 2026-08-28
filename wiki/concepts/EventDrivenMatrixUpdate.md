@@ -20,11 +20,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Autonomous_Spiking_Dynamics]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Acceleration]]
 [[In_Package_Neuromorphic_Integration]]
 [[NeuromorphicAttentionScaling]]
 [[Neuromorphic_Acceleration]]

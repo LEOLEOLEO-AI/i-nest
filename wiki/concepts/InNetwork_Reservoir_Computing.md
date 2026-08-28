@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AdversarialResilience]]
 [[AstrocyteInspiredRepair]]
+[[Autonomous_Physical_Computation]]
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]

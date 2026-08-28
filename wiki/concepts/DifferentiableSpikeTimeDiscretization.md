@@ -19,12 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ActivityAvalanche]]
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
-[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]

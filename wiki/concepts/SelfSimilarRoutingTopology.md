@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CorticalTypeDiversity]]
 [[EdgeIoTEnergyAwareness]]
@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferLevel_Packaging_Topology]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
+[[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BackflowTransformation]]
 [[CST_Spatiotemporal_Complexity]]
 [[ComplexTopologicalStructures]]
 [[ComplexValuedSNN]]

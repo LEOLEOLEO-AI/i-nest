@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[1M1T1R_SynapticNeuron]]
+[[3DGS_Scene_Graph]]
 [[3nm_Autonomous_Driving_Chip]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

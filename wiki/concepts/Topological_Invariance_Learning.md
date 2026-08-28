@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_Scene_Graph]]
 [[AgentReputationGraph]]
 [[AndersonLocalizationTopology]]
+[[BoseCondensateNeuralAnalogy]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

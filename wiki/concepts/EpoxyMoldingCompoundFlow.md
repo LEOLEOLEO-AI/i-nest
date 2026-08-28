@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_IC_Stacking]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[CST_SynergisticCoordination]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
@@ -38,7 +38,9 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
-[[In_Network_Neuromorphic_Integration]]
+[[In_Network_Neuromorphic]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RTC_Primitive]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[WaferScaleSubstrate]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[complex system]]
 [[heterogeneous_integration]]
 

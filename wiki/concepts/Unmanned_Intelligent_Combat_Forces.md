@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveFrequencyResonateFire]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplainableEnergyAI]]
 [[Intelligence_Emergence]]
 [[MemristiveSignedCouplings]]
+[[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]

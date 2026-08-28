@@ -25,7 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
+[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CommunicationAsComputation]]
 [[Heterogeneous_Integration]]
@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

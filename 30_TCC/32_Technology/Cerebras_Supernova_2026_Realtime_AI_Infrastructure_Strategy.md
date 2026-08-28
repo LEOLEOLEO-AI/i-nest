@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 技术
+tags: [AI基础设施, 推理架构, 晶圆级计算, 低延迟, 异构计算]
+summary: "Cerebras实时AI推理基础设施战略：时间预算、分离式推理与超大规模部署"
+quality: high
+processed: 2026-08-27 18:46
+---
+---
 title: "Cerebras Supernova 2026 战略全解：从极速推理到实时AI基础设施底座"
 tags:
   - ai

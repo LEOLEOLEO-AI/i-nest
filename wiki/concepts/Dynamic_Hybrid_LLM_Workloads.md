@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[Additive_Manufacturing_Supply_Chain]]
 [[Avoided_Criticality]]
+[[BulletTrainScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Course_Based_FPGA_Prototyping]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
+[[AI_Application_Scenario_Reconstruction]]
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Probe]]
 [[AnalogInMemoryComputing]]

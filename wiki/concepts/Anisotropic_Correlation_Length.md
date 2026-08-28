@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Allreduce_Latency_Probe]]
+[[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[BifurcationCandidate]]
 [[CompartmentalNeuronModel]]
@@ -38,8 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[RamanInducedGaugeField]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[SelfOrganizationAtGrowthEdge]]
 [[Spiking_Neural_Network]]
 [[TCC]]

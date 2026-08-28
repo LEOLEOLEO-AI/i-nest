@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[Emergent_Intelligence_Threshold]]
 [[FeFET_Polarization_Switching]]
+[[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[Field_Compression_for_InNetwork_Inference]]
 [[GeTeBasedCBRAM]]

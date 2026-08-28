@@ -20,9 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
-[[CriticalityDrivenTopology]]
+[[AINext_Initiative]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[EventDrivenAsynchronousRouting]]
 [[FPGA_NeuromorphicMapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

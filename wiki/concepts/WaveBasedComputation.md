@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[SpikingMoE_SDPrompt]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[TCC_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

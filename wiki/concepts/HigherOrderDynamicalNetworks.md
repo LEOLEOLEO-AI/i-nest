@@ -22,10 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
+[[12_三原理协同_FEP_最小作用量_STDP]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
-[[Complexity_Emergence_Engineering]]
 [[HiddenTopologyReveal]]
+[[HigherOrderDynamicalNetwork]]
 [[Intelligence_Emergence]]
 [[Macro_System_Description]]
 [[Network_Topology_Design]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources

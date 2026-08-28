@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[Analog_Computation]]
 [[CST_SynergisticCoordination]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Complex_System_Theory]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Topological_Manifold_Interconnect]]
+[[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
 [[temporalComplexity]]

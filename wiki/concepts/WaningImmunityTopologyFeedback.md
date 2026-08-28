@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialRobustness]]
 [[AirportNetworkGraphEmbedding]]
 [[Allreduce_Latency_Probe]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Architectural_Conditioning]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

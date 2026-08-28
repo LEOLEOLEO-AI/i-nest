@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[AcceleratedMaterialScreening]]
 [[Allreduce_Latency_Probe]]
 [[Analog_Computation]]
 [[AnomalousSpinTransport]]

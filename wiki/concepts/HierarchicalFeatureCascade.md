@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdversarialMedicalRobustness]]
@@ -30,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[Capability_Forging_Pipeline]]
 [[Complex_System_Theory]]
-[[CriticalityAwareTopology]]
+[[Criticality]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]
 [[TCC]]

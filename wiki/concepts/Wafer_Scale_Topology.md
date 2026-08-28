@@ -19,8 +19,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Heterogeneous_Integration]]
@@ -33,12 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[SDSoW_Interface_Standard]]
-[[SDSoW_Strategic_Planning]]
 [[SDSoW_TCC_Integration]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

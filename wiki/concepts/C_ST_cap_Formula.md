@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[ANN_SNN_WeightSpaceGap]]
@@ -30,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[Baseline_Draft_Status]]
 [[CoOptimizedMappingScheduling]]
-[[CriticalityDrivenIntegration]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[SNN]]

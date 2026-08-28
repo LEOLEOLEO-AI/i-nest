@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]
+[[DARPA_Manufacturing_Strategy]]
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]

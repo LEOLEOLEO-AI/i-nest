@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Nature重磅_揭秘大脑中的共享神经子空间与几何缩放]]
 [[Nonlinear_Gain]]
+[[PropertyPredictionModeling]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
@@ -45,3 +46,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[大脑复杂性的演化：一个空间、时间和熵的故事]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]
+[[神经网络]]

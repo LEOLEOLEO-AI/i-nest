@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdiabaticMultimodeBend]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[FullDimensionalDefinableInterconnect]]
@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[PhaseAwareBisectionDemand]]
 [[RoutabilityDrivenFloorplanning]]
 [[TCC]]
+[[chiplet interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

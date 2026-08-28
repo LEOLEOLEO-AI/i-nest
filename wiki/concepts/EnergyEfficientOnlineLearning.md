@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Assisted_Energy_Management]]
 [[Active_Inference_Agent]]
 [[Activity_Dependent_Plasticity]]
@@ -36,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[local plasticity rule]]
 [[local plasticity]]
 
 ## Sources

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[AI_Faculty_Forum_2026]]
+[[ActiveDendriteSNN]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]

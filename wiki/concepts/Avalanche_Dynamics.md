@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[Agent_Interaction_Sequencing]]
 [[Allreduce_Latency_Probe]]
@@ -26,8 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[CoOptimizedMappingScheduling]]
-[[CriticalityDrivenEfficientCoding]]
-[[CriticalityInNeuralNetworks]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

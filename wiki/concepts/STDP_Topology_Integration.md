@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[PhaseLockedTopologyMapping]]

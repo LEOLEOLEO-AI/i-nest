@@ -38,6 +38,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
+[[_Nature大子刊_中科院院士发文_算力暴涨100万倍_忆阻器_变废为宝_利用噪声搞定量子化学]]
 [[_Nature子刊_储备池计算不再是_黑盒_Intel与加州伯克利联手打造_原则性_神经形态架构]]
 [[getnote_2026-01-12_低功耗智能新范式]]
 [[getnote_2026-01-12_数字孪生大脑工程化路径]]

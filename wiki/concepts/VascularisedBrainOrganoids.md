@@ -19,12 +19,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AnalogDomainCompression]]
 [[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[Avalanche_Dynamics]]
 [[BigBrainCellularAxis]]
-[[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[EdgeOfChaos]]
 [[Edge_of_Chaos_Coastal_Dynamics]]

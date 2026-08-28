@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Agent_Interaction_Sequencing]]
 [[Avoided_Criticality]]
 [[Biologically_Plausible_Learning_Rules]]

@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SparseTemporalEncoding]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

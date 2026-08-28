@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[DataDrivenCellularAxis]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 
 ## Sources

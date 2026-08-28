@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BranchingRatio]]
 [[CSI_Temporal_Encoding]]
+[[ChipletOpticalIO]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedOscillatoryLearning]]
 [[iNEST]]
-[[reservoir computing architecture]]
 [[reservoir computing]]
 
 ## Sources

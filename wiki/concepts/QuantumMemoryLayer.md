@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[Allreduce_Latency_Probe]]
 [[BiSpikCLM]]
+[[BiologicalPlausibilityScoring]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[DMP_SNN_DualMemoryPathway]]

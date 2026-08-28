@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Interconnect]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
-[[Chiplet_Interconnect]]
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Integration]]
 [[TCC]]
 [[WideLink_NoC_Router]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 

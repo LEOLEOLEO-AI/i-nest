@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BioInspired_Interception_Control]]
 [[Contested_Priors_Mechanism]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Emergent_Intelligence_Threshold]]

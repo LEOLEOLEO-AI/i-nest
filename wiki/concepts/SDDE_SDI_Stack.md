@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Intelligence_Emergence]]
 [[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
@@ -29,11 +30,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[SimulationReproducibilityAudit]]
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]
+[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

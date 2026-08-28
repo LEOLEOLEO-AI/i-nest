@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[ANN_SNN_WeightSpaceGap]]
 [[Avoided_Criticality]]

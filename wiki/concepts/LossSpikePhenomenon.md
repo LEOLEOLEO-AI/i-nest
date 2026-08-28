@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[ActivityAvalanche]]
 [[AddressRedundancyElimination]]
 [[Allreduce_Latency_Probe]]
@@ -32,11 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[SelfOrganization]]
 [[SpikeBasedGradientDescent]]
 [[Spike_Encoding_of_fMRI]]

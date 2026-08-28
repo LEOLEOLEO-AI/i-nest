@@ -1,7 +1,7 @@
 ---
 title: "专利披露·H4"
 hypothesis: "H4"
-date: 2026-08-27
+date: 2026-08-28
 patentability: HIGH
 categories: ["hardware", "system"]
 type: patent-disclosure
@@ -45,5 +45,5 @@ TCC: SDSoW架构可线性扩展至晶圆级
 - [ ] 与相关论文发表策略协调（先申专再发论文）
 
 ---
-*由 patent_scout.py 于 2026-08-27T03:55:07.822368 自动生成*
+*由 patent_scout.py 于 2026-08-28T09:38:21.353448 自动生成*
 *来源假设: H4 | 来源桥接: *

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[20W_Brain_Inspired_Planning]]
+[[3DGS_Scene_Graph]]
 [[AI_Orchestrator]]
 [[AgentReinforcementLoop]]
 [[Agent_Workflow_Automation]]

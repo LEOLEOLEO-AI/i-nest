@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[Bidirectional_Temporal_Enhancement]]
+[[DiscreteSTDP]]
 [[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioPlausiblePredictiveCoding]]
 [[BrainInspiredArchitecture]]
+[[BrainInspired_Chip]]
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]

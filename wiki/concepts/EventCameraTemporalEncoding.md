@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[Complexity_Emergence_Engineering]]
 [[Contested_Prior_Resolution]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]

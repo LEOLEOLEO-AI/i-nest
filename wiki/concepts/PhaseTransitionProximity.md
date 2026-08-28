@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
 [[Active_Inference_Agent]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[FlexibilityThreshold]]
+[[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

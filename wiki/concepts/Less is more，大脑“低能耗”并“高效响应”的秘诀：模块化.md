@@ -30,7 +30,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Alpha_Computation_Consistency]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Criticality]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
@@ -66,4 +65,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[chiplet interconnect]]
 [[iNEST]]

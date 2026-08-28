@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
@@ -39,7 +40,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Interconnect]]
 [[STDP_Plasticity]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]

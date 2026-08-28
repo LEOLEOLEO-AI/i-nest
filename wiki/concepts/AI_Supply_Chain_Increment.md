@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[GNN图神经网络，非结构化数据分析利器！]]
+[[GroupWise_DragonflyPlus]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

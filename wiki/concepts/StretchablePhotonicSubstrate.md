@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[BifurcationCandidate]]
 [[CrossMaterial_Integration]]
@@ -30,8 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Resilient_Sensing_Comms_Network]]
 [[SDI_Bond]]
-[[SDI_TopologyWaferIntegration]]
 [[SDI_Topology]]
+[[SDI节点接口规范与化合键定义]]
 [[SiCSubstrateIntegration]]
 [[SystemInPackage_SiP]]
 [[TCC]]

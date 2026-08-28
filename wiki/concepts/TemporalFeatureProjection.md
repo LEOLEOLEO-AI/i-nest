@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3D_IC_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
+[[AnalogDomainCompression]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[DARPA_ProjectManager_Model]]
@@ -31,10 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
-[[NoC_SDI_Topology]]
+[[NoC_SDI]]
 [[P_Paradigm]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]
+[[SDI_Bond]]
+[[SDI_Topology]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 

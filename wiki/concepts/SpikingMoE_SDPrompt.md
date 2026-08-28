@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Driven_Architecture_Search]]
 [[BioInspired_Interception_Control]]
 [[Dynamic_Expert_Fusion]]
@@ -34,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Selective_State_Space]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[dynamic expert fusion]]
 [[iNEST]]
+[[neuromorphic interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

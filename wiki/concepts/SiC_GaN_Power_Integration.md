@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
@@ -29,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
-[[Heterogeneous_Integration_Roadmap_HIR]]
 [[HybridResistiveMemoryCIM]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]

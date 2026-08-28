@@ -20,13 +20,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
 [[Active_Inference_Agent]]
 [[Active_Inference_Architecture]]
 [[Activity_Dependent_Plasticity]]
 [[AdaptiveAsymmetricSurrogateGradient]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EnsembleCreditAssignment]]

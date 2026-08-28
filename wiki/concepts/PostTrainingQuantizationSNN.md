@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[ActiveDendriteSNN]]
@@ -28,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AmoebaInspiredLocomotion]]
 [[Avoided_Criticality]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
@@ -38,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
-[[TimeMultiplexedSNNAccelerator]]
+[[TimeMultiplexedSNN]]
 [[iNEST]]
 [[spiking neural network]]
 

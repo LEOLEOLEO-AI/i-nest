@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[ActiveDendriteSNN]]
 [[Avoided_Criticality]]
+[[BulletTrainScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Course_Based_FPGA_Prototyping]]
@@ -40,7 +41,6 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
 [[SNN]]
-[[SNN_Intrusion_Detection_Config]]
 [[Self_Organized_Criticality]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]

@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -37,8 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[TCC]]
+[[chiplet interconnect]]
 [[iNEST]]
 
 ## Sources

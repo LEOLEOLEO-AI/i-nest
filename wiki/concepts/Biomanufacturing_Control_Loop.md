@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Assisted_Energy_Management]]
 [[AdaptiveMeasurementProtocol]]
 [[Agile_Resilient_Defense_Ecosystem]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

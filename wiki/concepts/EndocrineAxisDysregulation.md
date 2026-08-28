@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[156QubitScale]]
 [[20W_Brain_Inspired_Planning]]
+[[3DGS_Scene_Graph]]
 [[Complex_System_Theory]]
 [[DistributedInference]]
 [[HierarchicalCrackPattern]]

@@ -15,11 +15,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Alpha_Computation_Consistency]]
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[CorticalTypeDiversity]]
@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[TopologyProgramming]]
 [[Topology_Interconnect]]
+[[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
 [[temporalComplexity]]

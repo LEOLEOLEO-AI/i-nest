@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[BCM滑动阈值]]
 [[BoundaryContract]]
+[[CST_Synergy_Coordination]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[GNN图神经网络，非结构化数据分析利器！]]

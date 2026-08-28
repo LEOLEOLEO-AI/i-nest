@@ -20,8 +20,8 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[Combinatorial_Optimization_Readout]]
-[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]

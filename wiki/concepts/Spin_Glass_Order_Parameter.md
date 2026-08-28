@@ -25,9 +25,9 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Coupling_Topology]]
 [[Criticality]]
-[[Criticality_of_Natural_Languages]]
 [[DARPA_ProjectManager_Model]]
 [[Emerging_CMOS_Memristor]]
+[[Environmental_Coupling_Organization]]
 [[Heterogeneous_Integration]]
 [[IncidenceBasedRandomWalk]]
 [[Memristor_Synapse]]
@@ -36,9 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Strategic_Planning]]
 [[Self_Organized_Criticality]]
-[[TCC核心概念与基线理论集 (TCC Core Concepts)]]
+[[TCC]]
 [[iNEST]]
 
 ## Sources

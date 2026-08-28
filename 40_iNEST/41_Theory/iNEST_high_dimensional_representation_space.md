@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [neural, architecture, emergence, criticality, neuroscience, 表征空间, iNEST]
+summary: "Nature论文验证表征即计算，支持iNEST高维表征空间路线"
+quality: high
+processed: 2026-08-27 18:47
+---
+---
 title: getnote_1916095739155748728_大脑计算新范式
 tags:
   - neural

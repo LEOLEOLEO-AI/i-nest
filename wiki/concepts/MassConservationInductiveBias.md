@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[NoiseRegimeTransition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
 [[criticality]]
 [[iNEST]]

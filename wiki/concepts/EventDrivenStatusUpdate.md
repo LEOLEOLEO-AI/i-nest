@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Driven_Architecture_Search]]
 [[Baseline_Draft_Status]]
 [[ContinualLearningOnNeuromorphic]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[spiking neural network dynamics]]
 [[spiking neural network]]
 
 ## Sources

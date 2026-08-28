@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BigBrainCellularAxis]]
 [[CST_SynergisticCoordination]]
+[[Chip-Hardware — 全景导航 (Map of Content)]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[DiscreteContinuous_Unification]]

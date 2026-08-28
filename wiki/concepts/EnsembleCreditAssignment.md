@@ -19,11 +19,11 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[CirculateFiringNeuron]]
 [[Contested_Priors_Mechanism]]
-[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[HumanVisionInspiredSNN]]

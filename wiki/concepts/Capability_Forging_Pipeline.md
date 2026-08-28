@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AnalogInMemoryComputing]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Bioavailability_Enhancement]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
 [[Defense_Industrial_Base_Reshaping]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[WeakStructuralConnections]]
+[[chiplet interconnect]]
 [[vLLM_plugin_FLSDI]]
 
 ## Sources

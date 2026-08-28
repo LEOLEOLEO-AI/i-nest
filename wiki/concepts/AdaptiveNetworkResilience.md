@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[11_SDI节点接口规范与化合键定义_dup]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[Accessibility_Plasticity]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

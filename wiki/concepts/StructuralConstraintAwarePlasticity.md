@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SelfHealing_Interconnect]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]

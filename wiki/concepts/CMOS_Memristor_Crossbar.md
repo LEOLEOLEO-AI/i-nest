@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[FunctionalInterfaceBlock]]
-[[FunctionalInterfaceBlocks]]
+[[HardwareAware_DesignSpace]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

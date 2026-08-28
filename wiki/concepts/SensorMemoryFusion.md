@@ -20,19 +20,20 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Autonomous_Spiking_Dynamics]]
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[NeuromorphicNetworkSecurity]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
-[[Neuromorphic_Interconnect]]
 [[Neuromorphic_Planning_Architecture]]
 [[Neuromorphic_Selective_State_Space]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[iNEST_Neuromorphic_Integration]]
+[[neuromorphic interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

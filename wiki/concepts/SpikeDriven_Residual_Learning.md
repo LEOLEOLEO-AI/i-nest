@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[ANN_SNN_WeightSpaceGap]]
 [[ActiveDendriteSNN]]
 [[Amorphous_Amorphous_Transition]]
@@ -27,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BulletTrainScheduling]]
-[[BurstSuppressionMechanism]]
+[[BurstSuppression]]
 [[ContinuousControlConversion]]
 [[Criticality]]
 [[Neuromorphic_Computing]]

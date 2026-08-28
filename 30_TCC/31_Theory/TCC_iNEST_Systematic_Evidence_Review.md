@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [TCC, iNEST, 网络中心计算, 涌现, 复杂度, 自组织, 临界性, motif, SDDE]
+summary: "四项研究系统佐证TCC与iNEST理论体系"
+quality: high
+processed: 2026-08-27 18:49
+---
+---
 title: getnote_1916513586861216320_TCC与iNEST理论体系的系统性佐证文档
 tags:
   - ai

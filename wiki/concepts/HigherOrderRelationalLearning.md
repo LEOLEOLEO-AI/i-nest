@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_To_Information_Conversion]]
@@ -30,7 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CST_Spatiotemporal_Complexity]]
 [[CST计量仪]]
-[[Chiplet_Topology_Coordination]]
+[[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Topology]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]

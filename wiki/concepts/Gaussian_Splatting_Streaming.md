@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AI_Assisted_Energy_Management]]
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

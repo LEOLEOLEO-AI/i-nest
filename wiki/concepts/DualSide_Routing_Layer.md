@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdsorptionBiosorptionHybrid]]
 [[AnomalousSpinTransport]]
+[[Battery_Technology_Integration]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]

@@ -19,13 +19,13 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AnomalousSpinTransport]]
 [[CSI_Temporal_Encoding]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalInterfaceBlock]]
-[[FunctionalInterfaceBlocks]]
 [[InNetworkAgentRewiring]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]

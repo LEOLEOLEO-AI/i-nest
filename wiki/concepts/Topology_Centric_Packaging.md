@@ -20,12 +20,12 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
-[[Causal_Emergence]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Decoupled_Priors]]
@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Interconnect]]
+[[causal emergence]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

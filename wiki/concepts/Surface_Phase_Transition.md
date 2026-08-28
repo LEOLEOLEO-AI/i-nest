@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[HypergraphRumorPropagation]]
+[[IndexOrderingOptimization]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

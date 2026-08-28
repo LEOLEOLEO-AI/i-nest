@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
@@ -41,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
+[[neuromorphic computing]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

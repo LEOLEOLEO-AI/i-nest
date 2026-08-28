@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Parallelized_Hierarchical_Connectome]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SexBasedConnectomeDifferences]]
+[[Synaptic_Weight_Pruning_by_Connectivity_Statistics]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[connectome]]

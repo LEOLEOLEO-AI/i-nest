@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[NeurovascularUnitEngineering]]
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[忆阻器]]
 [[智能涌现]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

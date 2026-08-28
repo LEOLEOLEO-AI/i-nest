@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AcceleratedMaterialScreening]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]

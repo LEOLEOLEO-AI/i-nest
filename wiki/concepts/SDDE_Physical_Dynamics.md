@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[Alpha_Computation_Consistency]]
@@ -26,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Interconnect]]
 [[Core_Spacetime_Tensor]]
 [[CytoarchitectonicAxis]]
 [[FirstPrinciples_Derivation]]
@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Microgrid_Optimization]]
 [[MitigationLayers]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[Nonlinear_Topology_Amplification]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[chiplet interconnect]]
 [[temporalComplexity]]
 
 ## Sources

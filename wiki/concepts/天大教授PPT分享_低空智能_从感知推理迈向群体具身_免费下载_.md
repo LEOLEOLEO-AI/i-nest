@@ -34,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[BCM滑动阈值]]
+[[CST_Triad_Integration]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet，解决车规芯片既要、又要、还要难题的唯一解？_智车星球]]

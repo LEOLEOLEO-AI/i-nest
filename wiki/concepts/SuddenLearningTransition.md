@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[ActiveDendriteSNN]]
 [[Active_Inference_Agent]]
+[[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[DTGA]]

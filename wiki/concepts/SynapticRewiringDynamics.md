@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CollectiveSpikingDynamics]]
 [[ConductingPolymerDendriteMemory]]
+[[Criticality_Based_Feature_Extraction]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

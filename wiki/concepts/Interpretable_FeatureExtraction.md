@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[FatigueSTDP]]
+[[FunctionalInterfaceBlock]]
 [[ITP_STDP]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

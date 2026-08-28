@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AINext_Initiative]]
 [[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Avalanche_Dynamics]]
@@ -37,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[Neuronal_Avalanche_Dynamics]]
-[[NeurovascularUnitEngineering]]
 [[NeurovascularUnit]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
