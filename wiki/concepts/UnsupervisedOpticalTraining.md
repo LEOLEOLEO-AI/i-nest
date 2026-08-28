@@ -30,7 +30,6 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NoiseInducedPhaseLocking]]
 [[On_Chip_STDP_Learning]]
-[[PhaseSynchronizationDetection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[STDPDrivenTemporalBinding]]

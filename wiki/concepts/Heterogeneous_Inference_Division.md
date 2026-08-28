@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[causal emergence]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

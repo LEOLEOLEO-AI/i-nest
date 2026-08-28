@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]
 [[Cross_Brain_Connectome]]
+[[Crystallized_Neural_Manifolds]]
 [[DissipativeQuantumReservoir]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

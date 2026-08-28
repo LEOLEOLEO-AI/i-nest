@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
-[[FunctionalEnsembleComputation]]
+[[FunctionalEnsemble]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MagnitudePhaseComputationalModel]]

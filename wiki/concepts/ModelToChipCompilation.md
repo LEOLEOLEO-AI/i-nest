@@ -36,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
-[[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_Chip_Indicator_Change]]
 [[SDI_TCC_Chiplet]]

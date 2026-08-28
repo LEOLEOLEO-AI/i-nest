@@ -45,7 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
-[[SelfOrganizationAtGrowthEdge]]
+[[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

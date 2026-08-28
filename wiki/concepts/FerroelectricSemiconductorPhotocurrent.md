@@ -24,7 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[ANN_SNN_ConversionError]]
 [[AcademicDevelopmentCoCreation]]
-[[AdjustableDynamicsReservoir]]
+[[AdjustableDynamics]]
 [[Analog_Encoding_Readout]]
 [[CMOS_Memristor_Crossbar]]
 [[CrashHotspotForecasting]]

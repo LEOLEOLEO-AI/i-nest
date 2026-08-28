@@ -64,6 +64,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TCC_Topology]]
 [[TCC_iNEST_Interconnect]]
 [[TemporalComplexity]]
 [[chiplet interconnect]]

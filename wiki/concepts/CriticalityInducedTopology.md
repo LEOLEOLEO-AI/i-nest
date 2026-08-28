@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
-[[AI_Forum_Demo_Narrative]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]

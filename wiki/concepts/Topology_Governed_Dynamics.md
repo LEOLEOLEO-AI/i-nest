@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Security]]
+[[InterconnectConstrainedEmergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[神经网络]]

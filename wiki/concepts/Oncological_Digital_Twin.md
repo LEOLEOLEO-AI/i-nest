@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnisotropicGaussianPrimitives]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BurstTemporalPlasticity]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventCameraPoseInput]]

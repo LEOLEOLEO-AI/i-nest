@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
-[[Criticality_Transition]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInferenceGenerativeModel]]
 [[ActiveInference]]
 [[ActiveSpikingPerception]]
+[[AttentionGuidedEntropy]]
 [[Complex_System_Theory]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

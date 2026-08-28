@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Mapping]]
+[[Chiplet_Topology_Packaging]]
 [[Complex_System_Theory]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]

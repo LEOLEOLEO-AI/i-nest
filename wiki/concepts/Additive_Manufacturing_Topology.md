@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]
+[[Free_Energy_Principle_Network]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
 [[IndexOrderingOptimization]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TwoDimensionalTransport]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

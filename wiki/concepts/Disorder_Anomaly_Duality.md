@@ -28,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
-[[Criticality_Induced_Computation]]
 [[Emergent_Intelligence_Threshold]]
 [[FormalLinguisticCompetence]]
 [[Fractal_Wavefront_Scaling]]

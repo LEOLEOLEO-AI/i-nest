@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[OODA_Loop_Breaking]]
 [[PrecisionConfigurableSparseNvCIM]]
 [[SNN]]
+[[SNN_fMRI_VisualSemanticDecoding]]
 [[Self_Organized_Criticality]]
 [[Sleep_EEG_Criticality]]
 [[Spiking_Mamba_Block]]

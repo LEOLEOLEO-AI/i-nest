@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Integration_Roadmap_HIR]]
+[[HybridResistiveMemoryCIM]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

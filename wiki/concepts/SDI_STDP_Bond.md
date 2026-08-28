@@ -56,7 +56,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TemporalDynamicsModeling]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[iNEST]]
 [[synaptic plasticity]]

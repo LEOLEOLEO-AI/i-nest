@@ -39,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
-[[Order_Flexibility_Duality]]
 [[SDI_Bond]]
 [[Spiking_Neural_Network]]
 [[TCC]]
@@ -47,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

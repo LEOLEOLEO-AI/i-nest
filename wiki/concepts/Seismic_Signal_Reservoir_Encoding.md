@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Connectome_Reservoir]]
+[[Crystallized_Neural_Manifolds]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MagneticallyDopedTopologicalInsulator]]
 [[Network_Topology_Design]]
+[[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

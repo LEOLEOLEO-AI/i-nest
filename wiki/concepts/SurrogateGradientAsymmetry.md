@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
+[[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[NeuralVariabilityEnhancement]]
 [[Neuromorphic_Chiplet]]

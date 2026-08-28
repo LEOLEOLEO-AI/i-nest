@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
-[[3DHI_Stacking]]
 [[Additive_Manufacturing_Topology]]
 [[AdvancedPackagingInterconnect]]
 [[Chiplet_Heterogeneous_Integration]]

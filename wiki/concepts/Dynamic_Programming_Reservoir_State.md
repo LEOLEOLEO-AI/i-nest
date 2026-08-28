@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirLearning]]
 [[Intelligence_Emergence]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]

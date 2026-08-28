@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

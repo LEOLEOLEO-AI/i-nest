@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RenormalizationGroup_DeviceNonlinearity]]
 [[complex system]]
 [[iNEST]]
 [[memristor device]]

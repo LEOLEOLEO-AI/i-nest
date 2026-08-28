@@ -47,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
@@ -61,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_scale_integration]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

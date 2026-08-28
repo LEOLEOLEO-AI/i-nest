@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Fabric]]
 [[Complex_System_Theory]]
 [[CrossDomain_Integration]]
 [[CrossMaterial_Integration]]

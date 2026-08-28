@@ -36,7 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SpikeDrivenDataAssociation]]
 [[Spiking_Neural_Network]]
-[[TCC]]
+[[TCC_SpikingIntegration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

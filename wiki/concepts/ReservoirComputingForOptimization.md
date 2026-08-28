@@ -26,7 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
 [[ActiveInference]]
-[[AdjustableDynamicsReservoir]]
+[[AdjustableDynamics]]
 [[CMOS_Memristor_Crossbar]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]

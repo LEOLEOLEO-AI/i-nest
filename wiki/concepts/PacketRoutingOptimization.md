@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Interconnect_Routing]]
-[[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

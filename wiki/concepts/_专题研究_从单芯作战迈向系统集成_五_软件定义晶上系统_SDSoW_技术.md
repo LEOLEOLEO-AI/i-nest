@@ -41,6 +41,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SDSoW_Architecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]

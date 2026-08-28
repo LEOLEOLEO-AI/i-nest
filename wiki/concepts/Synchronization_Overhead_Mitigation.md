@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ST_SNN]]
 [[SpectralSpikeEncoding]]
+[[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Mamba_Block]]

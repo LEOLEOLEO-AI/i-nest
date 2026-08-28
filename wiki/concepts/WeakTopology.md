@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[3DHI_Interconnect]]
+[[4H_SiC_SubstrateProcessing]]
 [[AI_FullSpectrum_Strategy]]
 [[ASIC_Dualism]]
 [[Additive_Manufacturing_Topology]]

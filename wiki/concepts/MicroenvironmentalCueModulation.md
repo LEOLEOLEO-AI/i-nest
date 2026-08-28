@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
+[[CriticalityConstrainedPruning]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

@@ -62,7 +62,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]
 [[Wafer_Scale_Integration]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]

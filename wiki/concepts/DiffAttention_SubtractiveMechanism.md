@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveBitPrecisionExploration]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveLocalLearning]]
+[[Adaptive_Intelligence_Principle]]
 [[Adaptive_Service_Orchestration]]
 [[AdsorptionBiosorptionHybrid]]
 [[Alignment_Tax]]

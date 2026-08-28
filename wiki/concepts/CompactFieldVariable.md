@@ -32,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
-[[ModelToChipCompilation]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[SDI_Bond]]

@@ -68,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[Universal_Scaling_Laws]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[scaling laws]]
 [[temporalComplexity]]
 [[Γst_Revision]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Design]]
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
 [[ComputeRelocationOverhead]]

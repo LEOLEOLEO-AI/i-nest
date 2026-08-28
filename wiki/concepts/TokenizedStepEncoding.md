@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SurrogateGradientTraining]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[VonEconomoNeurons]]
 [[iNEST]]
 [[temporal coding]]
 

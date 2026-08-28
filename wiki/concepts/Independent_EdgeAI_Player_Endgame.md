@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

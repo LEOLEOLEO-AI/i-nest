@@ -34,7 +34,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OpticalNeuralNetworkTopology]]
 [[PhaseAwareBisectionDemand]]
-[[PhysicalWaferTriplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SensorMemoryCoLocation]]

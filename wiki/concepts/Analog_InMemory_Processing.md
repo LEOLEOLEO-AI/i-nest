@@ -55,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[ferroelectric devices]]
 [[heterogeneous_integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]

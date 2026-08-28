@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
+[[EvolutionaryReservoirLearning]]
 [[IntrinsicDynamicsAutonomy]]
 [[Neural_Substrate_Independence]]
 [[Neuromorphic_Computing]]

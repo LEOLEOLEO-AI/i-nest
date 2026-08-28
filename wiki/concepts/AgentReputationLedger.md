@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[BioInspired_Interception_Control]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Design]]
 [[BurstGatedRouting]]
 [[Collective_Offloading]]
 [[ComponentLevelPackaging]]

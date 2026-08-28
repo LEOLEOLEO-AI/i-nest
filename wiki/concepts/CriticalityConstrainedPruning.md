@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]

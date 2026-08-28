@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[FullDimensionalDefinableInterconnect]]
+[[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
 [[IndexOrderingOptimization]]
 [[Interconnect_Routing]]

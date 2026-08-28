@@ -72,6 +72,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[chiplet interconnect]]
 [[complex system]]
 [[heterogeneous_integration]]
+[[iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现]]
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]

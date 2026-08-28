@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Intelligent_Emergence_Computing]]
+[[MultiScaleTemporalProcessing]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

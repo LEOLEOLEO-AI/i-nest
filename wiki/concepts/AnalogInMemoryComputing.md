@@ -50,7 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
 [[chiplet interconnect]]
-[[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[待分类]]
 

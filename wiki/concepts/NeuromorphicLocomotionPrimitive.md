@@ -27,7 +27,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
-[[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

@@ -44,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Topological_Manifold_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Memristor_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]

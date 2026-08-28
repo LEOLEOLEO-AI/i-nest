@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]

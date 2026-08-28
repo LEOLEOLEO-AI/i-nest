@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SurrogateGradientTraining]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[VonEconomoNeurons]]
 [[iNEST]]
 [[spiking neural network]]
 [[synaptic plasticity]]

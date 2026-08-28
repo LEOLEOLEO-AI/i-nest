@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenTracking]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]

@@ -44,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[SDSoW_Strategic_Planning]]
 [[Second_Curve_Wafer_Industry_Platform]]
 [[Software_Defined_Interconnect]]
@@ -60,6 +59,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

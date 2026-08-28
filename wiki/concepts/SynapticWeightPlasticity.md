@@ -35,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoiseInducedPhaseLocking]]
 [[On_Chip_STDP_Learning]]
-[[PhaseSynchronizationDetection]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeCodedFeatureAssociation]]

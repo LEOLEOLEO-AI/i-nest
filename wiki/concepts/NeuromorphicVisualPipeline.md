@@ -37,7 +37,6 @@ Auto-extracted concept from raw material compilation.
 [[QuantumDeepSupervision]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
-[[SNN_TCC_Integration]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StructuralPriorEncoding]]

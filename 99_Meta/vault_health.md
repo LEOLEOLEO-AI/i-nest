@@ -2,9 +2,9 @@
 
 > 生成: 2026-08-29  ·  链接解析贴近 Obsidian 行为
 
-- 笔记总数(可链接目标): **10876**
+- 笔记总数(可链接目标): **10882**
 - 缺 frontmatter 笔记: **952**
-- 真正断链(目标不存在): **3959**
+- 真正断链(目标不存在): **3942**
 
 ## 断链样本(按被引用次数排序, 优先补全)
 
@@ -15,7 +15,7 @@
 - (×97) `[[inest]]`
 - (×67) `[[Spiking_neural_network]]`
 - (×58) `[[tcc]]`
-- (×48) `[[Spike_timing_dependent_plasticity]]`
+- (×50) `[[Spike_timing_dependent_plasticity]]`
 - (×41) `[[connectome]]`
 - (×34) `[[heterogeneous_integration]]`
 - (×29) `[[GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]`

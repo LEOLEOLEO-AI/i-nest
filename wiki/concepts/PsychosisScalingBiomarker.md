@@ -29,7 +29,6 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
 [[CriticalityInducedComputationalCapacity]]
-[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

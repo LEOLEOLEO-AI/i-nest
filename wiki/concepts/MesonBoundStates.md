@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Boundary_Criticality]]
 [[BranchingRatioControl]]
 [[BranchingRatio]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

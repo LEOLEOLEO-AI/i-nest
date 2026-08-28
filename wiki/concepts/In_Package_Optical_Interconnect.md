@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Roadmap_HIR]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

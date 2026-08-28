@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
+[[NoC_SDI_Integration]]
 [[SDI_Bond]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Topology_Control]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

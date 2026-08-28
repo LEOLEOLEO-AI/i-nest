@@ -29,6 +29,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Agent_Workflow_Automation]]
 [[Brain_Connectome]]
 [[Connectome]]
+[[Connectome_Verification_Protocol]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[Criticality]]
 [[Intelligence_Emergence]]

@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[WideLink_NoC_Router]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

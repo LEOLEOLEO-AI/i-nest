@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]

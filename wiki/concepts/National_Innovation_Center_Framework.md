@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_3DHI_Roadmap]]
 [[DARPA_ERI]]
 [[DARPA_Manufacturing_Strategy]]
+[[DARPA_ProjectManager_Model]]
 [[DARPA_Project_Group_Strategy]]
 [[ERI_2_0_Framework]]
 [[ElectronicPhotonicIntegratedCircuit]]

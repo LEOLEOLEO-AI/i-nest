@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[Γst_Revision]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

@@ -38,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
 [[SDI_Bond]]
-[[SDI_STDP_Regulation]]
+[[SDI_STDP]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[UniversalIntelligence_Emergence]]

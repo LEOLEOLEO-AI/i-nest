@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[QuantumKernelMethods]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Recursive_Metric_Contraction]]
 [[RenormalizationGroup_ScalingLaws]]
 [[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]

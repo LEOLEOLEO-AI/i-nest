@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

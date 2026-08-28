@@ -48,6 +48,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC_RTC原语架构与SDI拓扑变换机理]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]

@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

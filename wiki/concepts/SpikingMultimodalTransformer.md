@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Acceleration]]
+[[In_Network_Neuromorphic_Scheduling]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Connectome]]
 [[Connectome_Reservoir]]
+[[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
 [[In_Context_Learning]]
 [[Network_Topology_Design]]

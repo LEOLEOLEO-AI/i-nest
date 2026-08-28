@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Faculty_Forum_2026]]
 [[AcceleratedMaterialScreening]]
+[[AllOpticalHebbianLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[DendriticReservoirState]]

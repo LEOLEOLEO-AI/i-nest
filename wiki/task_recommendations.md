@@ -1,7 +1,7 @@
 # Research Task Recommendations
 
 **Generated**: 2026-08-29
-**Total**: 22 recommendations
+**Total**: 23 recommendations
 
 ### 1. [MEDIUM] Hypothesis Test
 H3: iNEST: 脉冲神经网络在晶上系统可实现类脑计算
@@ -27,67 +27,71 @@ H8: TCC×iNEST: 晶圆级集成可在单die上实现百万级神经元实时仿�
 H9: TCC×iNEST: 3D-IC堆叠模拟皮层柱状架构可实现密集神经处理层
 **Action**: Design experiment to test hypothesis H9
 
-### 7. [MEDIUM] Evolution Item
+### 7. [MEDIUM] Hypothesis Test
+H10: TCC×iNEST: 脑连接组拓扑模式可启发晶圆级NoC最优拓扑设计
+**Action**: Design experiment to test hypothesis H10
+
+### 8. [MEDIUM] Evolution Item
 {'id': 'EV-2026-07-19-001', 'priority': 'high', 'type': 'pipeline_fix', 'title': '持续性0论文入库: API连通性检查
 **Action**: Process evolution queue item
 
-### 8. [MEDIUM] Evolution Item
+### 9. [MEDIUM] Evolution Item
 {'id': 'EV-2026-07-19-002', 'priority': 'medium', 'type': 'git_hygiene', 'title': 'Git清理: 15个未提交变更',
 **Action**: Process evolution queue item
 
-### 9. [MEDIUM] Evolution Item
+### 10. [MEDIUM] Evolution Item
 {'id': 'EV-2026-07-20-001', 'priority': 'high', 'type': 'pipeline_fix', 'title': 'Pipeline zero-pape
 **Action**: Process evolution queue item
 
-### 10. [MEDIUM] Evolution Item
+### 11. [MEDIUM] Evolution Item
 {'id': 'EV-2026-07-20-002', 'priority': 'medium', 'type': 'git_hygiene', 'title': 'Git hygiene: 83 u
 **Action**: Process evolution queue item
 
-### 11. [MEDIUM] Evolution Item
+### 12. [MEDIUM] Evolution Item
 {'id': 'EV-2026-07-22-001', 'priority': 'high', 'type': 'pipeline_fix', 'title': 'Pipeline zero-pape
 **Action**: Process evolution queue item
 
-### 12. [MEDIUM] Evolution Item
+### 13. [MEDIUM] Evolution Item
 {'id': 'EV-2026-07-22-002', 'priority': 'medium', 'type': 'git_hygiene', 'title': 'Git hygiene: 86 u
 **Action**: Process evolution queue item
 
-### 13. [MEDIUM] Evolution Item
+### 14. [MEDIUM] Evolution Item
 {'id': 'EV-2026-07-24-001', 'priority': 'high', 'type': 'pipeline_fix', 'title': 'Pipeline zero-pape
 **Action**: Process evolution queue item
 
-### 14. [MEDIUM] Evolution Item
+### 15. [MEDIUM] Evolution Item
 {'id': 'EV-2026-07-24-002', 'priority': 'medium', 'type': 'git_hygiene', 'title': 'Git hygiene: 78 u
 **Action**: Process evolution queue item
 
-### 15. [MEDIUM] Evolution Item
+### 16. [MEDIUM] Evolution Item
 {'id': 'EV-2026-07-25-001', 'priority': 'high', 'type': 'pipeline_fix', 'title': 'Pipeline zero-pape
 **Action**: Process evolution queue item
 
-### 16. [MEDIUM] Evolution Item
+### 17. [MEDIUM] Evolution Item
 {'id': 'EV-2026-07-25-002', 'priority': 'medium', 'type': 'git_hygiene', 'title': 'Git hygiene: 773 
 **Action**: Process evolution queue item
 
-### 17. [LOW] Orphan Concepts
-2129 orphan concepts with no incoming links
+### 18. [LOW] Orphan Concepts
+2126 orphan concepts with no incoming links
 **Action**: Link these concepts: 00_ADR_决策记录, 2025年10月11号 日记, 2026新年巨献_追问大模型智能, 400篇综述文献，认知神经科学到自主智能体的记忆系统统一综述, 9位院士12位专家联合撰文：智能计算的新进展、挑战与未来_Science合作期刊, AIInnovationPlatform, AI_Infrastructure_Commercialization, AI_Material_Design_Production_Gap, AI_Principal, Academic_Integrity_Assessment
 
-### 18. [LOW] Recent Output
+### 19. [LOW] Recent Output
 Recent: A1_CST_Theory_V31_ARS_REVISED (2d ago)
 **Action**: Review and incorporate insights into wiki
 
-### 19. [LOW] Recent Output
+### 20. [LOW] Recent Output
 Recent: 【Nature_Communications】告别“人工调参”：华中科技大学提出具身智能奖励函数自动发现框架，破解稀疏奖 (2d ago)
 **Action**: Review and incorporate insights into wiki
 
-### 20. [LOW] Recent Output
+### 21. [LOW] Recent Output
 Recent: 00_冲刺_学生A_B0 (4d ago)
 **Action**: Review and incorporate insights into wiki
 
-### 21. [LOW] Recent Output
+### 22. [LOW] Recent Output
 Recent: SUBMISSION_PACKAGE_README (4d ago)
 **Action**: Review and incorporate insights into wiki
 
-### 22. [LOW] Recent Output
+### 23. [LOW] Recent Output
 Recent: B0_Engineering_v3_Genspark定稿 (6d ago)
 **Action**: Review and incorporate insights into wiki
 

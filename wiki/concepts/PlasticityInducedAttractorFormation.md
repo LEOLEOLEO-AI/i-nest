@@ -50,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Topological_Anderson_Insulator]]
 [[complex system]]
 [[iNEST]]
-[[synaptic plasticity rule]]
 [[synaptic plasticity]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

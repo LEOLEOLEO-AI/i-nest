@@ -43,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
 [[avalanche dynamics]]
-[[neural avalanche dynamics]]
 [[neural avalanche]]
 
 ## Sources

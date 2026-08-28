@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeBasedNeuralRadianceField]]
 [[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Spiking_Residual_Learning]]
 [[iNEST]]

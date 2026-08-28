@@ -45,5 +45,5 @@ Cerebras CS-2已证明晶圆级AI推理可行，扩展至SNN域
 - [ ] 与相关论文发表策略协调（先申专再发论文）
 
 ---
-*由 patent_scout.py 于 2026-08-29T03:32:48.604865 自动生成*
+*由 patent_scout.py 于 2026-08-29T03:37:25.132268 自动生成*
 *来源假设: H8 | 来源桥接: WaferScale_Neuromorphic*

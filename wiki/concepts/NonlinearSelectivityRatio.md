@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Memristor_Topology]]
 [[Memristor_Topology_Coupling]]
+[[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]

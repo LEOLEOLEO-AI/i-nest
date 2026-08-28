@@ -36,7 +36,6 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[FerroelectricNvCap]]
-[[FerroelectricSemiconductorReservoir]]
 [[FerroelectricSynapticArray]]
 [[FerroelectricTunnelingJunction]]
 [[Ferroelectric_Devices]]

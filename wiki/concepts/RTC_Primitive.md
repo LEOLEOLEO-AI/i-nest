@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TCC_Topology]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]

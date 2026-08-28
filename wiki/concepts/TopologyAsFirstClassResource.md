@@ -35,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
-[[RTC_Primitives]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]

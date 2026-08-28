@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScale_Chiplet_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

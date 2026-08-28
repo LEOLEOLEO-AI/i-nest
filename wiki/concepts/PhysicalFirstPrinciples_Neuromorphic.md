@@ -53,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 [[temporalComplexity]]
 [[涌现]]

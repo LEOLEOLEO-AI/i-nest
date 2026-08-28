@@ -27,6 +27,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[Brain_Connectome]]
 [[Connectome]]
+[[Connectome_Inspired_Architecture]]
 [[Connectome_Verification_Protocol]]
 [[Event_Driven_Architecture]]
 [[Memristor_Synapse]]

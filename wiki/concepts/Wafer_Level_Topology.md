@@ -35,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[Intelligence_Emergence]]
-[[MultiplicativeGainMechanism]]
+[[MultiplicativeGain]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

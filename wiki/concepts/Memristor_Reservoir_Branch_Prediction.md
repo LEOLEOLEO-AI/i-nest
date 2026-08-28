@@ -46,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Stochastic_LIF_Inference]]
 [[TCC]]
 [[branch prediction]]
-[[emerging CMOS memristor devices]]
 [[emerging CMOS memristor]]
 [[memristor device]]
 [[neuromorphic computing]]

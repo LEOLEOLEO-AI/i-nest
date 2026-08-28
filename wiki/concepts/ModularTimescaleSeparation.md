@@ -28,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[AdjustableDynamics]]
 [[AdversarialResilience]]
 [[AlternativeBridgingModels]]
-[[Bosonic_SPT_Phases]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]

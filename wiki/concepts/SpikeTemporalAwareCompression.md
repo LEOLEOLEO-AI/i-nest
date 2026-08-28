@@ -35,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PersonalizedSNNTransfer]]
 [[PersonalizedSNN]]
-[[QuantumDeepSupervision]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 

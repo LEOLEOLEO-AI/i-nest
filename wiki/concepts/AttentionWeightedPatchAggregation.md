@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentReputationLedger]]
 [[Bipartite_Interconnect]]
 [[Bipartite_Interconnect_Design]]
+[[Collective_Offloading]]
 [[ComponentLevelPackaging]]
 [[DataMovementMinimization]]
 [[External_to_OnDie_Evolution]]

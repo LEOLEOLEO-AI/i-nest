@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[InSitu_Compute]]
 [[Interconnect_Routing]]
 [[InverseDesignedPhotonicAccelerator]]
 [[MemoryDrivenRouting]]

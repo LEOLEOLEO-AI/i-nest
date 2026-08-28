@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
 [[NoC_SDI_CoDesign]]
+[[NoC_SDI_Interconnect]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

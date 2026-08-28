@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect_Design]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
+[[Constructed_Reality_Model]]
 [[HierarchicalSpikePropagation]]
 [[Interconnect_Routing]]
 [[LossSpikeMechanism]]

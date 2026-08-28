@@ -33,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]
-[[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]

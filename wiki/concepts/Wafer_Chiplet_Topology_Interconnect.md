@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[hierarchical interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[spatiotemporal computing]]
 [[temporal computing paradigm]]
 [[topology reconfiguration]]

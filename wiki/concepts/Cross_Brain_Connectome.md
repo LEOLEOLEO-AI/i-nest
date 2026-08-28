@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirLearning]]
 [[Intelligence_Emergence]]
 [[IntrinsicDynamicsAutonomy]]
 [[Metriplectic_Twin]]

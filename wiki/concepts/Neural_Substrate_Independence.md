@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicDynamicsAutonomy]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_MuscleInterface]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SexBasedConnectomeDifferences]]

@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

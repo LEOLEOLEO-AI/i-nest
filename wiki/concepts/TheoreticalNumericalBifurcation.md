@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BrownianCastleInterfaces]]
+[[CausalEmergenceCondition]]
 [[Core_Spacetime_Tensor]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

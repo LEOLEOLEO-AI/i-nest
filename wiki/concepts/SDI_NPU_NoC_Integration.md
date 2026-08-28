@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
+[[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SoftwareDefinedSystemOnWafer]]

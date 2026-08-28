@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ERI]]
 [[DARPA_ERI_Program]]
+[[EarlyExitInference]]
 [[EdgeIoTEnergyAwareness]]
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]

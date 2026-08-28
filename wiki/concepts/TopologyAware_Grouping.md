@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputeRelocationOverhead]]
 [[Deep_Thermalisation]]
 [[FreeFermionTopologicalInvariant]]
+[[InSitu_Compute]]
 [[Interconnect_Routing]]
 [[InverseDesignedPhotonicAccelerator]]
 [[MemoryDrivenRouting]]

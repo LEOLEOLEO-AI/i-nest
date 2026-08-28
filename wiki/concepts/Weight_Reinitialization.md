@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[CST_Equation]]
 [[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[LLM_Reward_Design]]

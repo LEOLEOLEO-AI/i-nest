@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicNetworkFabric]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Packaging]]
+[[OptimalGeneralisationNearInterpolation]]
 [[Passive_BCI_Neurofeedback]]
 [[ScalingLawMinimality]]
 [[SpikingTransformer]]

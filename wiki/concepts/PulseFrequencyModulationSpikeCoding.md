@@ -39,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[NeuronModelComparativeAnalysis]]
-[[OscillatoryDynamicsOptimization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

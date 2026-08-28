@@ -35,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Wafer_Topology]]
 [[CompactFieldVariable]]
 [[Complex_System_Theory]]
-[[DARPA_ERI]]
+[[DARPA_ERI_Program]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]

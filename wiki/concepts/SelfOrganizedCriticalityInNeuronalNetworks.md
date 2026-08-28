@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Algorithmic_Warfare]]
 [[AmoebaInspiredLocomotion]]
+[[Anomaly_Induced_Quantum_Criticality]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

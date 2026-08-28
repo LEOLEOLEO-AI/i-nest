@@ -42,16 +42,15 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
-[[Wafer_Scale_Neuromorphic_Integration]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

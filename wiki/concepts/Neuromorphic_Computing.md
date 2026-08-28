@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiplicativeGain]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]
+[[Neuromorphic computing architecture]]
 [[Neuromorphic computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_computing]]

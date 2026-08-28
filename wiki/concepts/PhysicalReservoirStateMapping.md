@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInferenceEdgeLoop]]
 [[ActiveInference]]
 [[AdversarialResilience]]
+[[AnisotropicGaussianPrimitives]]
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AstrocyteInspiredRepair]]

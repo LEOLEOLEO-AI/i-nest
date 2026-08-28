@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Chiplet_Integration]]
 [[3D_Heterogeneous_Integration]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Fabric]]
 [[Complex_System_Theory]]
 [[CrossDomain_Integration]]
 [[CrossMaterial_Integration]]

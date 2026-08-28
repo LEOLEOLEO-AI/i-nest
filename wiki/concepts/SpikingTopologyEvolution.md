@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CSI_Temporal_Encoding]]
 [[CirculateFiringNeuron]]
 [[CoDesigned_SNN]]
+[[CombinedImportanceScoring]]
 [[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[Emergent_Intelligence_Threshold]]

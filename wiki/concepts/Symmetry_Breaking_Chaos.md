@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Combinatorial_Optimization_Readout]]
 [[Connectome]]
 [[Connectome_Reservoir]]
+[[Cross_Brain_Connectome]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[iNEST]]

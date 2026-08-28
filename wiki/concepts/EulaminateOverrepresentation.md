@@ -68,6 +68,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[heterogeneous_integration]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 

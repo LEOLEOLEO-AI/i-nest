@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

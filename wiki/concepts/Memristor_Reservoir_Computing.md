@@ -47,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[Stochastic_LIF_Inference]]
 [[branch prediction]]
-[[emerging CMOS memristor devices]]
 [[emerging CMOS memristor]]
 [[memristor device]]
 [[pipelined processor]]

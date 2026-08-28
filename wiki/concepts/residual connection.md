@@ -1,0 +1,24 @@
+---
+provenance: derived
+type: concept-stub
+auto: true
+created: 2026-08-29
+refs: 6
+---
+
+# residual connection
+
+> 由 self_evolve 自动生成的占位概念（被引用 8 次，来源尚未成稿）。
+
+
+## 引用来源
+
+- [[2026-07-20_NeuroTrain_fulltext]]
+- [[Understanding_Plasticity_in_Neural_Networks]]
+- [[Speck：基于注意力机制的动态神经形态计算系统]]
+- [[backlinks]]
+- [[Attention_Residuals]]
+- [[Deep_Network_Architecture_Invariant]]
+
+
+_待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_

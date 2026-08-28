@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[ActiveSpikingPerception]]
 [[AttentionGuidedEntropy]]
+[[BioPlausibleDisturbanceRejection]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

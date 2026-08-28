@@ -32,7 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
-[[DARPA_ERI]]
+[[DARPA_ERI_Program]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

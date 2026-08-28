@@ -25,7 +25,6 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
-[[Chiplet_Integration_Route]]
 [[Criticality]]
 [[DTGA]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

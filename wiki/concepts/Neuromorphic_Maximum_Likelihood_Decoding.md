@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInferenceGenerativeModel]]
 [[ActiveInference]]
 [[ActiveSpikingPerception]]
+[[AdaptersInSpikingNetworks]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

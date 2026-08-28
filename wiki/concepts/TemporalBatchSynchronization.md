@@ -42,9 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

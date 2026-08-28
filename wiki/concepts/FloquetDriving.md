@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Decoupling_Mechanism]]
 [[Free_Energy_Topology_Mapping]]
 [[GateModelQuantumOptimization]]
 [[Heterogeneous_Integration]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

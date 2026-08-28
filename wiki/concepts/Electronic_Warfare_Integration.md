@@ -46,7 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RamanInducedGaugeField]]
 [[SNN]]
-[[SelfOrganizationAtGrowthEdge]]
+[[SelfOrganization]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

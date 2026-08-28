@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[NISQHardwareAwareMapping]]
+[[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[complex system]]

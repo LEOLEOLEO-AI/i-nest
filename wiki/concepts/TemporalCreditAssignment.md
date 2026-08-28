@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[ActiveDendriteSNN]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Avalanche_Dynamics]]
 [[Chiplet_Heterogeneous_Integration]]

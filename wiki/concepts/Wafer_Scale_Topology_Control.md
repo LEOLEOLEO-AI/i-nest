@@ -41,10 +41,12 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
+[[WaferScaleTopologyCentricComputing]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Topology]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

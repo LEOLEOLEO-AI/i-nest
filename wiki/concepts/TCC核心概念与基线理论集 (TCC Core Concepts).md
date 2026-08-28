@@ -65,7 +65,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
-[[Wafer_Scale_Neuromorphic_Integration]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]

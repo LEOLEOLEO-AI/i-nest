@@ -19,12 +19,12 @@ NoC routing algorithms could be redesigned for event-driven spike packet deliver
 - TCC concepts: [[3DHI_Interconnect]], [[3DHI_Stacking]], [[3DIntegratedPhotonicPackaging]]
 - iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[AcousticAnomalyDetection]]
 
-### WaferScale_Neuromorphic (Strength: 373)
+### WaferScale_Neuromorphic (Strength: 372)
 Wafer-scale integration could enable massive-scale neuromorphic chips with millions of neurons on a single die.
 - TCC concepts: [[1024_Card_SuperNode]], [[3DIntegratedPhotonicPackaging]], [[4H_SiC_SubstrateProcessing]]
 - iNEST concepts: [[1M1T1R_SynapticNeuron]], [[20W_Brain_Inspired_Planning]], [[Accessibility_Gradient]]
 
-### 3DIC_Neural_Stacking (Strength: 204)
+### 3DIC_Neural_Stacking (Strength: 202)
 3D-IC stacking mimics cortical columnar architecture, enabling dense neural processing layers.
 - TCC concepts: [[1024_Card_SuperNode]], [[2_5D_PIM_Chiplet_Integration]], [[3DHI_Integration]]
 - iNEST concepts: [[ActivityAvalanche]], [[AdaptersInSpikingNetworks]], [[AdaptiveAsymmetricSurrogateGradient]]

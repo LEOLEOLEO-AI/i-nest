@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ERI]]
 [[DARPA_ERI_Program]]
 [[Dynamic_Expert_Fusion]]
+[[EarlyExitInference]]
 [[EfficientDeepLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

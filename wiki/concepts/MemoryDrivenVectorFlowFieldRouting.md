@@ -21,7 +21,6 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AndersonTransition]]
-[[Bipartite_Interconnect_Design]]
 [[BurstGatedRouting]]
 [[ChiralSymmetryClasses]]
 [[Deep_Thermalisation]]
@@ -36,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAware_Grouping]]
 [[VectorFlowField]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[adaptive path selection]]
 

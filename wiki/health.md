@@ -4,9 +4,9 @@
 **Last Grow**: 2026-08-29
 
 ## Stats
-- **Total Concepts**: 5104
+- **Total Concepts**: 5107
 - **Total Articles**: 1060
-- **Orphan Concepts**: 2093
+- **Orphan Concepts**: 2086
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
@@ -20,7 +20,6 @@
 - [[AI_Material_Design_Production_Gap]]
 - [[AI_Principal]]
 - [[Academic_Integrity_Assessment]]
-- [[Adaptive_Intelligence_Principle]]
 - [[Aerial_Network_Measurement_Testbed]]
 - [[AgranularLimbicInclusion]]
 - [[AllInOneImageRestoration]]
@@ -50,7 +49,8 @@
 - [[B7_TCC OneFabric_论文计划]]
 - [[BNN vs ANN (1)]]
 - [[Backpropagation_Comparison]]
-- ... 2053 more
+- [[BandedNonHermitianRandomMatrix]]
+- ... 2046 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

@@ -33,7 +33,6 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTravelingWave]]
 [[CorticalTravelingWaves]]
 [[CriticalStateInformationMaximization]]
-[[CrossLayer_SignalRouting]]
 [[CurrentInjectionSNN]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]

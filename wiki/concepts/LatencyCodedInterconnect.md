@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

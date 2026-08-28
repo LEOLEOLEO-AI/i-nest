@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TemporalLearning]]
+[[VonEconomoNeuron]]
 [[VonEconomoNeurons]]
 [[iNEST]]
 [[spiking neural network]]

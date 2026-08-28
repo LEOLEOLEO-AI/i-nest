@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emerging_CMOS_Memristor]]
 [[FerroelectricTunnelingJunction]]
-[[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Hysteretic_State_Encoding]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]

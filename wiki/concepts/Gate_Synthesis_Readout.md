@@ -43,9 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
-[[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

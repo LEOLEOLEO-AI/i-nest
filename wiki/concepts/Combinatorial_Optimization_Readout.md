@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
 [[In_Context_Learning]]
 [[Intelligence_Emergence]]

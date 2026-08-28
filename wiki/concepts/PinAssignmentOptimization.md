@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]

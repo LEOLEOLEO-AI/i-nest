@@ -35,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Solutions]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
-[[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

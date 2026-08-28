@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BurstGatedRouting]]
+[[CellEmergence]]
 [[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Emergent_Intelligence_Threshold]]

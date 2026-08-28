@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC_SpikingIntegration]]
 [[iNEST]]
 
 ## Sources

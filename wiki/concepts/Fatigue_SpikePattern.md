@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[DivergentHigherAreaRanking]]
 [[Layered_Attractive_Hubbard_Model]]
 [[MembranePotentialModulation]]
 [[Memristor_Synapse]]

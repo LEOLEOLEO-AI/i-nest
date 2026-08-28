@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

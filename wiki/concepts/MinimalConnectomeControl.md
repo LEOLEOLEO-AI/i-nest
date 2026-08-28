@@ -28,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[C_elegansConnectomeAnalogy]]
 [[Combinatorial_Optimization_Readout]]
 [[ConnectomeComputationBasis]]
-[[ConnectomeFidelityClaim]]
 [[Connectome]]
 [[Neuromorphic_Computing]]
 [[connectome]]

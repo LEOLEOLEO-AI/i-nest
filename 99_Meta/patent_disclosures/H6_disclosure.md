@@ -45,5 +45,5 @@ TCC×iNEST: Chiplet异构集成CMOS+忆阻器crossbar可实现存算一体神经
 - [ ] 与相关论文发表策略协调（先申专再发论文）
 
 ---
-*由 patent_scout.py 于 2026-08-29T03:32:48.603861 自动生成*
+*由 patent_scout.py 于 2026-08-29T03:37:25.132268 自动生成*
 *来源假设: H6 | 来源桥接: Chiplet_Heterogeneous_Neuromorphic*

@@ -39,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Packaging_CoDesign]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

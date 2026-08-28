@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AutonomousAdaptation]]
 [[Complex_System_Theory]]
+[[DevelopmentalNeuromorphicAdaptation]]
 [[EmergentOrder]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]

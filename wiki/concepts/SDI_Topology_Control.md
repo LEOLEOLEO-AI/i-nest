@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[topology reconfiguration]]
 [[涌现]]

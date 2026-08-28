@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]

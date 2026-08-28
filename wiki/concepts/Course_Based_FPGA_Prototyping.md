@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_Intrusion_Detection_Config]]
 [[Self_Organized_Criticality]]
+[[SensoryGatedSpikingLoop]]
 [[SpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Communication]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTopologyAnalysis]]
 [[SpikingTopologyMapping]]
 [[Spiking_Neural_Network]]
-[[TCC]]
 [[TCC_SpikingIntegration]]
 [[TopologicalAndersonChernInsulator]]
 

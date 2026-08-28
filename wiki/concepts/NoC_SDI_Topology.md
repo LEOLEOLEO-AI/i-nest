@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

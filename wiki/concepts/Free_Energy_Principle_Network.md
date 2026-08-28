@@ -59,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_Industry_Alliance]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]

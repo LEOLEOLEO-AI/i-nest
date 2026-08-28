@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
+[[CellEmergence]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DARPA_ProjectManager_Model]]
 [[EventDrivenAsynchronousRouting]]

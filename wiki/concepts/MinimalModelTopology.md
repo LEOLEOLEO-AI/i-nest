@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[ConcentricDiscreteOpticalVortices]]
-[[DARPA_ERI]]
+[[DARPA_ERI_Program]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]

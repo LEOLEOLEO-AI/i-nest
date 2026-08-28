@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirStateOrthogonalization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[Reservoir_Computing_Branch_Prediction]]
 [[iNEST]]
 [[neuromorphic computing]]
 

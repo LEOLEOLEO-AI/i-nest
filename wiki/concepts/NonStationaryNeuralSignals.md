@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CounterstreamSignalPropagation]]
 [[CriticalityInNetworkComputing]]
-[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalCriticality]]

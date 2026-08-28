@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neural_Substrate_Independence]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_MuscleInterface]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SexBasedConnectomeDifferences]]

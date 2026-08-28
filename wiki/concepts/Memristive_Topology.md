@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[ArmLocomotorCoordination]]
+[[AutonomousAdaptation]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DevelopmentalNeuromorphicAdaptation]]

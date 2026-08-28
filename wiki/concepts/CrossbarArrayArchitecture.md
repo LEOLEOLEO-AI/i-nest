@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Page]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[涌现]]
 [[涌现动力学如何用来分析复杂系统？]]

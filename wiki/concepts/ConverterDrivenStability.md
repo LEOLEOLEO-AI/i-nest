@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MeasurementInducedTopologicalPhaseTransition]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Network_Specific_Embedding_Separation]]
