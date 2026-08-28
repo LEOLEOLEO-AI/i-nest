@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]
+[[TemporalDynamicsModeling]]
 [[TwoTimescaleNeuroEvolution]]
 [[VonEconomoNeuron]]
 [[iNEST]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
 [[Complex_System_Theory]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[EventDrivenMotionDeblurring]]

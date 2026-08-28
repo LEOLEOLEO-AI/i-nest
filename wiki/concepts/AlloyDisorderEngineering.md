@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Power_Density_Law]]
 [[SNN]]
+[[SNN_Sparsity_InformationBound]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]
 [[SpikingTopologyEvolution]]

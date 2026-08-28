@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex system]]
 [[ComplexSystem_Definition]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
 [[Contested_Priors_Mechanism]]
 [[EmergentOrder]]

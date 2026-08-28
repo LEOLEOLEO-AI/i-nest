@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DTGA]]
+[[DynamicSynchronyMetric]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[EvolvingArchitectureDynamics]]

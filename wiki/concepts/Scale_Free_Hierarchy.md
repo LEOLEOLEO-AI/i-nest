@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
+[[CST_Intelligence_Emergence]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Deep_SNN_Trainability]]

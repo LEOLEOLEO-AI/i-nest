@@ -34,6 +34,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[CoupledOscillatorReservoir]]
 [[CriticalRegimeReservoir]]
 [[HierarchicalModularReservoirs]]
+[[HigherOrderSimplicialDynamics]]
 [[Homological_Reservoir]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]

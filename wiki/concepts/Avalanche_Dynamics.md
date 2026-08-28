@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]
 [[BioInspiredInterceptionTask]]
+[[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[CoOptimizedMappingScheduling]]
 [[Criticality]]

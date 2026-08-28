@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirMemoryCapacity]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[ShortTermMemory]]
 [[Swarm_Coordination]]
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]

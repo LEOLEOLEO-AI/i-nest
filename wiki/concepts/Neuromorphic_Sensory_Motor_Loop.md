@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NUMA_Balancing_Overhead]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PipelinedReadout]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

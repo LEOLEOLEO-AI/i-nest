@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[EntropyRegularizedSpikeLoss]]
 [[FirstPrinciples_Derivation]]
+[[FirstSpikeTime]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

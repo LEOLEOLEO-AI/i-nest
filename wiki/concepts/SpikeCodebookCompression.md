@@ -36,7 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[ConfigurableSNNInference]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
-[[LocalStructureAwareSelfAttention]]
+[[Local_Structure_Aware_Self_Attention]]
+[[Memristive_SNN_Accelerator]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
-[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 

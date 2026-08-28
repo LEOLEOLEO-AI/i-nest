@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AdaptiveArchitecture]]
 [[AdaptiveCombinerWeighting]]
+[[BayesianConnectivityEstimation]]
 [[Cognitive_Relapse_Decoupling]]
 [[ConstraintDrivenSelfOrganization]]
 [[Criticality]]

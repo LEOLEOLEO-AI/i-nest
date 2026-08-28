@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MachineLearningNanomaterialDiscovery]]
 [[Network_Topology_Design]]
 [[NonHermitian_Topology]]
+[[Order_Flexibility_Duality]]
 [[QuantumAmplitudeEstimation]]
 [[SNN]]
 [[Spiking_Neural_Network]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_based_heterogeneous_integration]]
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
+[[EpoxyMoldingCompoundFlow]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[Intelligence_Emergence]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[heterogeneous_integration]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

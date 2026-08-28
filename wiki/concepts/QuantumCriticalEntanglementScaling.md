@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Interaction_Sequencing]]
 [[Avoided_Criticality]]
 [[BioInspiredInterceptionTask]]
+[[BioInspiredInterception]]
 [[Biologically_Plausible_Learning_Rules]]
 [[BulletTrainScheduling]]
 [[Catastrophic_Forgetting_Mitigation]]

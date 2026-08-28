@@ -40,6 +40,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[EntanglementSignatures]]
 [[GeometricRegularizationLoss]]
 [[HigherOrderPublicGoodsGame]]
+[[Hippocampal_Encoding_Mechanism]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
@@ -49,3 +50,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]

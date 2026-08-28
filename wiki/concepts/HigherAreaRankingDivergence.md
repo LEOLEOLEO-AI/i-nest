@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Gaussian_Splatting_Streaming]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
+[[NeuromorphicRL]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

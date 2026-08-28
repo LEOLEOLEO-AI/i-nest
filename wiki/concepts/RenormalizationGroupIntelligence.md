@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Synaptic_Motifs]]
+[[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]

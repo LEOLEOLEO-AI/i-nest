@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
+[[AirportNetworkGraphEmbedding]]
 [[AmplifyingNetworkTopology]]
 [[AnalogStateRetention]]
 [[Associative_Memory_Unification]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenWeightUpdate]]
 [[Event_Driven_Architecture]]
 [[FPGASNNMemoryOptimization]]
+[[FPGA_SNN_Inference]]
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Computing]]

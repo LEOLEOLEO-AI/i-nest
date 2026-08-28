@@ -38,7 +38,6 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

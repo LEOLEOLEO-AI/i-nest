@@ -52,6 +52,8 @@ Auto-extracted concept from raw material compilation.
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

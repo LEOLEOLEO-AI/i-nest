@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
+[[Biomanufacturing_Control_Loop]]
 [[Cognitive_Relapse_Architecture]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFixedPoint]]

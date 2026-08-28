@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Attention_Residuals]]
 [[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Fusion]]
 [[GeneralizedReadoutMap]]

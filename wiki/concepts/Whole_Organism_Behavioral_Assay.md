@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[ShortTermMemory]]
 [[Swarm_Coordination]]
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]

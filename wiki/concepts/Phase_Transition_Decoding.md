@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Complex_System_Theory]]
+[[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[EvolvingArchitectureDynamics]]
 [[Intelligence_Emergence]]
@@ -36,9 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[MeasurementInducedRouting]]
 [[Network_Topology_Design]]
 [[STDPDrivenConnectivity]]
+[[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

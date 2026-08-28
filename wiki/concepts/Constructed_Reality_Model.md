@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RateEncodedVisualPlaceRecognition]]
+[[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Soc]]
 [[Spiking_Neural_Network]]

@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[ApproximateMacroscopicDynamics]]
 [[CrossLayer_SignalRouting]]
+[[EarlyVisualCortexAliasing]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

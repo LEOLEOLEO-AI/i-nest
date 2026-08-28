@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_To_Information_Conversion]]
 [[Architectural_Conditioning]]
+[[AtomicVaporNonlinearity]]
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]

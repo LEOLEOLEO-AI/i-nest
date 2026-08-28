@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AutonomousServiceNegotiation]]
 [[CST计量仪]]
+[[Capability_Forging_Pipeline]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[DarkSiliconAwareCooling]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

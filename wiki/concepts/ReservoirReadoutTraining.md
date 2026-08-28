@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[Emerging_CMOS_Memristor]]
 [[EndToEndTopologyLearning]]
+[[FirstPrinciples_AI]]
+[[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

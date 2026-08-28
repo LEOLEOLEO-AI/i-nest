@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[Cytokine_Feedback_Loops]]
 [[ElasticInferenceScheduling]]
+[[EmergentAttractorStability]]
 [[EventCameraPoseInput]]
 [[EventDrivenSpectralProcessing]]
 [[JunctionSignalIntegrity]]

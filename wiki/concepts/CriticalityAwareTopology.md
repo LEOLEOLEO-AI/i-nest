@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
+[[Capability_Forging_Pipeline]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]

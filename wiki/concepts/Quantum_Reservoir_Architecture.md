@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
+[[Biomanufacturing_Control_Loop]]
 [[CirculateFiringNeuron]]
 [[CoupledOscillatorReservoir]]
 [[DivergentHigherAreaRanking]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[QuantumReservoirStateOrthogonalization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
-[[Reservoir_Computing_Branch_Prediction]]
 [[iNEST]]
 [[neuromorphic computing]]
 

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
+[[HierarchicalAttention_MIL]]
 [[Network_Topology_Design]]
 [[iNEST]]
 [[神经网络]]

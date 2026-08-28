@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_NoC_Routing]]
 [[RobustnessToNoiseInSNN]]
 [[SNN]]
+[[SpikeRoutingFabric]]
 [[SpikeTimingPreservation]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

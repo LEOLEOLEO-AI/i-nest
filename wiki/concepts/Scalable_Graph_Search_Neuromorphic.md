@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticReinforcementConsolidation]]
 [[SynapticRewiringDynamics]]
 [[Syncytial_Mesh]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
 [[iNEST]]
 

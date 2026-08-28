@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[Network_Topology_Design]]
 [[SNN]]

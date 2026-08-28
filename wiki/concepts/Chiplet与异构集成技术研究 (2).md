@@ -22,3 +22,16 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Related Work
+
+[[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
+[[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
+[[PPT]]
+[[TCC]]
+[[iNEST]]
+[[从CoWoS走向CoPoS，晶圆从圆形变成方形]]
+[[关于“十五五”布局晶上产业平台开辟“第二曲线”的战略建议4]]
+[[复杂度的计算 (1)]]
+[[新加坡IME_多芯粒异构集成互连技术]]

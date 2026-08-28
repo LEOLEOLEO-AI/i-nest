@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputationEfficientDeepLearning]]
 [[ConcentricDiscreteOpticalVortices]]
 [[DARPA_ERI]]
+[[DARPA_ERI_Program]]
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[causal emergence]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

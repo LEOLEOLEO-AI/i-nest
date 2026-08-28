@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[CST_SynergisticCoordination]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]

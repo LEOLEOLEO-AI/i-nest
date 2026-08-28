@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[End_Side_Neuromorphic_Deployment]]
 [[EventBasedAnalogFrontEnd]]
 [[EventSparseTemporalEncoding]]
+[[Ferroelectric_Synaptic_Devices]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]

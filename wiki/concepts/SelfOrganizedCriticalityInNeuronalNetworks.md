@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Algorithmic_Warfare]]
 [[AmoebaInspiredLocomotion]]
 [[Criticality]]
+[[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Self_Organized_Criticality]]
 [[TCC]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]
+[[CulturalDisseminationDynamics]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]

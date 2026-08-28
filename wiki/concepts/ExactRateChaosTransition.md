@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Stimulus_Responsive_Release]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[ThermosensitiveNeuronModel]]
 [[iNEST]]
 
 ## Sources

@@ -22,12 +22,14 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
+[[Active_Inference_Agent]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveMeasurementProtocol]]
 [[Asymptotic_Exact_Solution]]
 [[BehavioralNeuromorphicCorrelates]]
 [[BioInspiredLearningRule]]
 [[Biomanufacturing_Control_Loop]]
+[[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

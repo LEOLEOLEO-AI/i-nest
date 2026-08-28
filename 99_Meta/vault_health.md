@@ -1,22 +1,22 @@
 # 全库健康自检
 
-> 生成: 2026-08-28  ·  链接解析贴近 Obsidian 行为
+> 生成: 2026-08-29  ·  链接解析贴近 Obsidian 行为
 
-- 笔记总数(可链接目标): **10858**
-- 缺 frontmatter 笔记: **945**
-- 真正断链(目标不存在): **3972**
+- 笔记总数(可链接目标): **10876**
+- 缺 frontmatter 笔记: **952**
+- 真正断链(目标不存在): **3959**
 
 ## 断链样本(按被引用次数排序, 优先补全)
 
 - (×283) `[[temporalComplexity]]`
-- (×202) `[[soc]]`
+- (×203) `[[soc]]`
 - (×192) `[[Neuromorphic_computing]]`
 - (×160) `[[criticality]]`
 - (×97) `[[inest]]`
 - (×67) `[[Spiking_neural_network]]`
 - (×58) `[[tcc]]`
-- (×47) `[[Spike_timing_dependent_plasticity]]`
-- (×42) `[[connectome]]`
+- (×48) `[[Spike_timing_dependent_plasticity]]`
+- (×41) `[[connectome]]`
 - (×34) `[[heterogeneous_integration]]`
 - (×29) `[[GetNote_20260606_100554_kb_project-guide_getnote_1902402582405550008_晶上自演化复杂网络的基础理论_关键技术与应用验证_项目群_]]`
 - (×18) `[[GetNote_20260606_100554_kb_project-guide_getnote_1907691712224232464_海河实验室晶上先导项目检查]]`
@@ -30,8 +30,8 @@
 - (×13) `[[GetNote_20260606_100554_getnote_1911898566117388992_NEST 智能涌现研究进展与工程落地全景]]`
 - (×13) `[[GetNote_20260606_100554_kb_iNEST_getnote_1899812166295444000_清华团队类脑计算突破]]`
 - (×12) `[[The_Rise_of_Neuromorphic_Computing_How_Brain-Inspired_AI_is_Shaping_the_Future_in_2025]]`
+- (×12) `[[SpikingMot]]`
 - (×11) `[[GetNote_20260606_100554_kb_iNEST_getnote_1887266194235479456_晶上大脑基础研究课题]]`
 - (×11) `[[GetNote_20260606_100554_kb_iNEST_getnote_1887095535857468536_ResNEST论文修订]]`
-- (×11) `[[SpikingMot]]`
 
-- 孤儿笔记(无入链): **2456**
+- 孤儿笔记(无入链): **2462**

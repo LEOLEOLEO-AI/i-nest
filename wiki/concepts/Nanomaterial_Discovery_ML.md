@@ -35,8 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[MembranePotentialAlignment]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ProjectiveMeasurementRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 
 ## Sources

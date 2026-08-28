@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[Avoided_Criticality]]
+[[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
 [[Contested_Priors_Mechanism]]
 [[Criticality]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[CirculateFiringNeuron]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Course_Based_FPGA_Projects]]
 [[DataDrivenCellularAxis]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

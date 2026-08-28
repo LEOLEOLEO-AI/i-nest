@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
+[[忆阻器]]
 [[智能涌现]]
 [[涌现]]
 [[神经形态计算]]

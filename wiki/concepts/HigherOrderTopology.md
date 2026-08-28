@@ -40,8 +40,10 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[TopologicalComplexityCeiling]]
+[[Von_Neumann_Complexity_Threshold_Conjecture]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

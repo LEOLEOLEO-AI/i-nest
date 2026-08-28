@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[DARPA_ProjectManager_Model]]
 [[DifferentiableRasterizationPipeline]]
 [[EnsembleSparsity]]
 [[Heterogeneous_Integration]]

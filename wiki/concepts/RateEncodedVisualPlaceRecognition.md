@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Military_AI_Revolution]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Soc]]
 [[Spike_Encoding_of_fMRI]]

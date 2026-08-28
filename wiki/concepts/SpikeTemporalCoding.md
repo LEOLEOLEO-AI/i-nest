@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpikeBasedBeliefPropagation]]
 [[SpikeEncoding]]
+[[SpikeTimingGradientPropagation]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

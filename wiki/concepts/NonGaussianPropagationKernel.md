@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]
+[[DARPA_Project_Group_Strategy]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Emerging_CMOS_Memristor]]
 [[FerroelectricSemiconductorReservoir]]

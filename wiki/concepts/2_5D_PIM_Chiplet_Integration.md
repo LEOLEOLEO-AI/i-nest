@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1024_Card_SuperNode]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AdiabaticMultimodeBend]]

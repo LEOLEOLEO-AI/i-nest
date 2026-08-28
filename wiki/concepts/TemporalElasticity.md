@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[UniSpike_Acceleration]]
 [[iNEST]]
 
 ## Sources

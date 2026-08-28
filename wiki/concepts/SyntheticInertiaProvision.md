@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[RecurrentOscillatoryComputation]]
 [[SNN]]
 [[SensationModulatingNetwork]]
+[[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]

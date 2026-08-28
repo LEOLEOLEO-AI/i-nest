@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolvingArchitectureDynamics]]
 [[Habituation_Dynamics]]
 [[HybridCouplingThermosensitiveNetwork]]
+[[InterDomain_Synergy]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

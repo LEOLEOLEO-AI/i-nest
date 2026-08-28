@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Criticality]]
+[[EventDrivenTemplateUpdate]]
 [[Interconnect_Routing]]
 [[NestedRepresentation]]
 [[Self_Organized_Criticality]]

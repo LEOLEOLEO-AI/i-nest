@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AINext_Initiative]]
 [[BigBrainCellularAxis]]
+[[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
 [[ComplexValuedSNN]]
 [[CorticalWaveRouting]]

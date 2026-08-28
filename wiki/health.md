@@ -1,12 +1,12 @@
 # Knowledge Health Report
 
-**Generated**: 2026-08-28
-**Last Grow**: 2026-08-28
+**Generated**: 2026-08-29
+**Last Grow**: 2026-08-29
 
 ## Stats
-- **Total Concepts**: 5096
-- **Total Articles**: 1056
-- **Orphan Concepts**: 2180
+- **Total Concepts**: 5104
+- **Total Articles**: 1060
+- **Orphan Concepts**: 2093
 - **Knowledge Graph Density**: High
 
 ## Orphan Concepts (no incoming links)
@@ -50,7 +50,7 @@
 - [[B7_TCC OneFabric_论文计划]]
 - [[BNN vs ANN (1)]]
 - [[Backpropagation_Comparison]]
-- ... 2140 more
+- ... 2053 more
 
 ## Next Steps
 1. Run `[[wiki_compiler.py]]` after each new raw import.

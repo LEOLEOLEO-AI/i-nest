@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
+[[DataDrivenMaterialDesign]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]

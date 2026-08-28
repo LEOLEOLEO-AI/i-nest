@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

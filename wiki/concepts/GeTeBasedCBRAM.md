@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[PostVonNeumannIntelligence]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Spiking_Neural_Network]]
 [[complex system]]
 [[iNEST]]
 [[忆阻器]]
@@ -54,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

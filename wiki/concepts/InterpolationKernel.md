@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BinaryCombinatorialOptimization]]
 [[CorticalWaveRouting]]
+[[FreeEnergyMinimizationRouting]]
 [[Interconnect_Routing]]
 [[Nonlinear_Gain]]
 [[SNN]]

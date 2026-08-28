@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Dynamic_Expert_Routing]]
 [[EpidemicThreshold]]
+[[ExtinctionDrivenMetastability]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

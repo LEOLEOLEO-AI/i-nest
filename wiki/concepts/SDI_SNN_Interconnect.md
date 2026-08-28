@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_SNN]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikeDrivenDetectionBackbone]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

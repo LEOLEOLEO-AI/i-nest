@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Nonlinear_Dynamics]]
+[[Heterogeneous_Synaptic_Motifs]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NCL神经计算定律详解]]

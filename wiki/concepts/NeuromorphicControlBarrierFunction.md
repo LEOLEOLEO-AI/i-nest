@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Sequence_First_Processing]]
 [[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
+[[Spinal_CPG_Coordinated_Control]]
 [[spiking neural network]]
 
 ## Sources

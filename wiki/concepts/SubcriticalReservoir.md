@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[DendriticReservoirState]]
 [[DualImpactEvaluation]]
+[[DynamicNeuralManifolds]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

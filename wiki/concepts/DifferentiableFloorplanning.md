@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AdjointWaveControl]]
 [[Chip_Floorplanning]]
 [[CongestionAwareLoss]]
 [[ConvexNonconvexFloorplanning]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Network_on_Chip]]
 [[Packaging_Aware_NoC_Design]]
 [[PinAssignmentOptimization]]
 [[RoutabilityDrivenFloorplanning]]

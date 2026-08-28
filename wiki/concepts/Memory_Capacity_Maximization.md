@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[AlternativeBridgingModels]]
 [[Crystallized_Embedding_Reservoir]]
+[[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]
 [[Dynamical_State_Space]]
 [[Emergent_Intelligence_Threshold]]

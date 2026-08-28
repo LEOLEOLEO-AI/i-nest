@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicCentralitySteering]]
 [[Entangled_Criticality]]
 [[FeatureBonding]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[BackpropagationFreeLearning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST计量仪]]
 [[Complex_System_Theory]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[MembranePotentialAlignment]]
 [[Memristive_Solutions]]
 [[Neuromorphic_Computing]]
+[[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

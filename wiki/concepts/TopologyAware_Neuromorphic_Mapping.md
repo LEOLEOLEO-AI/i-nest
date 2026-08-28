@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Baseline_Draft_Status]]
+[[BiologicalParadigmValidation]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

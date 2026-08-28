@@ -33,12 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[FPGA_Reconfigurability]]
+[[GenerativeTopologyModels]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

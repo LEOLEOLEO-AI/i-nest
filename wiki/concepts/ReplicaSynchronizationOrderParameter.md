@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayTolerantNetworkUAV]]
 [[FixedOverheadFloor]]
 [[Independent_AI_Player_Endgame]]
+[[ManyBodyLocalizationSymmetry]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[ReplicaSynchronization]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
+[[ApproximationFidelityTradeoff]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[CST计量仪]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

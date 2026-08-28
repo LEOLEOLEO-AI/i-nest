@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Frontier_Innovation_Mapping]]
 [[GradientBasedSpikeLearning]]
+[[Gradient_Free_SNN_Learning]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

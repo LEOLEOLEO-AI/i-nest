@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
+[[Temporal_Computing_Paradigm]]
 [[iNEST]]
 
 ## Sources

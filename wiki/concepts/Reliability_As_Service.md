@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[AstrocyteInspiredModulation]]
 [[Contested_Priors_Mechanism]]
+[[CriticalStateSelfOrganization]]
 [[Criticality]]
 [[EnsembleCreditAssignment]]
 [[ExplainableEnergyAI]]

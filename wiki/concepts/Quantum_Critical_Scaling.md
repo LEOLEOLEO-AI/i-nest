@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayParameterSpaceDecomposition]]
 [[Environmental_Capability_Context]]
 [[GraphBasedSemanticRouting]]
+[[ImaginaryGaugePhaseImprint]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[fractal_Scaling]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

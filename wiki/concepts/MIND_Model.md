@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Workflow_Automation]]
 [[Analog_InMemory_Processing]]
 [[BifurcationCandidate]]
+[[CST计量仪]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[ContactOpportunityExploitation]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

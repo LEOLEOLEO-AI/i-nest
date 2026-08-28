@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
 [[Environmental_Capability_Context]]
+[[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InterChipletPHYModeling]]
 [[Interconnect_Routing]]

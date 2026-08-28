@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
+[[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
 [[Intelligence_Emergence]]

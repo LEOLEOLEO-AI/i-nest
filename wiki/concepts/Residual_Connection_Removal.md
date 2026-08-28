@@ -65,6 +65,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[SuperlinearGain]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
@@ -75,8 +76,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Interconnect]]
-[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

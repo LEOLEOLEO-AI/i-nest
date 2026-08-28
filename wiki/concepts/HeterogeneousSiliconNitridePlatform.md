@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedTrainingCommunicationPattern]]
 [[EntanglementAwareRouting]]
 [[Heterogeneous_Integration]]
+[[Inference_Flow_Stage_Aware_Topology]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAware_Routing]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

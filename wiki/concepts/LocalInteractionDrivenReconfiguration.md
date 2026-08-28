@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_SNN]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
+[[LossSpikePhenomenon]]
 [[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

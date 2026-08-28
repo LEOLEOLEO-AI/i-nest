@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Industrial_Ecosystem]]
 [[AdaptiveDensityControl]]
 [[CST计量仪]]
+[[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[Complex_System_Theory]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

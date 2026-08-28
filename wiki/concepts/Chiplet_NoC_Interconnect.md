@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[OnDie_Fusion]]
 [[P_Paradigm]]
+[[Package_Level_Interconnect]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -52,8 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

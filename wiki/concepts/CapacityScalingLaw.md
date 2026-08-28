@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BeyondVonNeumannArchitecture]]
+[[CIMWeightUpdateAwareness]]
 [[CirculateFiringNeuron]]
 [[CompactLocalisedStates]]
 [[CompactnessRegularizedFitness]]

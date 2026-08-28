@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[AnalogDomainCompression]]
 [[Analog_Weight_Storage]]
+[[ApproximationFidelityTradeoff]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationHeterogeneity]]
@@ -49,9 +50,9 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

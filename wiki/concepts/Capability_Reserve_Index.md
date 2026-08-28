@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Proactive_Shaping_Strategy]]
 [[Reconfigurable_Neural_Topology]]
 [[Representation_Learning_Generalization]]
+[[SelfOrganisingDigitalCircuit]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[MutualReinforcementDynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[PowerLawScalingClassification]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[SexBasedConnectomeDifferences]]

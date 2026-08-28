@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
+[[AutonomousServiceNegotiation]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[KV_Cache_to_BoundaryObject]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

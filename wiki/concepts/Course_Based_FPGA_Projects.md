@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
+[[InNetworkNeuromorphicEmergence]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristor_Network]]

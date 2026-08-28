@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BoundaryObject_Abstraction]]
 [[CST_Intelligence_Emergence]]
+[[CST计量仪]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[PhysicalSubstrateReservoir]]
+[[Reservoir_Computing]]
 [[iNEST]]
 
 ## Sources

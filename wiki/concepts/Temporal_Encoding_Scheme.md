@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[FatigueSTDP]]
 [[ImpactFallDetection]]
 [[NeuromorphicGraphAnomalyDetection]]
+[[Neuromorphic_Computing]]
+[[Oncological_Digital_Twin]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

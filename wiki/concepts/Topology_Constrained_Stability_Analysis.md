@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]

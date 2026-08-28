@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuronal_Avalanche_Dynamics]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[Stretched_Criticality]]
 [[SubsystemInformationCapacity]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Online_Continual_Learning]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
+[[SpikeTimingDependentPlasticityForTracking]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TemporalLearning]]

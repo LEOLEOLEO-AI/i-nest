@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentBasedCorruptionModel]]
 [[AlloyDisorderEngineering]]
 [[AlternativeBridgingModels]]
+[[DirectoryManagementLaws]]
 [[ExtinctionDrivenMetastability]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Battlefield_AI_Deployment]]
 [[Battlefield_Medicine_Neuromorphic_Integration]]
 [[CST_Theory_V27_FINAL]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

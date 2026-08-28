@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ProjectiveMeasurementRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spiking_Neural_Network]]

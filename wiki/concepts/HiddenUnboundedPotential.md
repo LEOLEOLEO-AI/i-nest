@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Crossover_Physics]]
 [[FeatureBonding]]
+[[FunctionalRelevanceDrivenSelfOrganization]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
 [[Self_Organized_Criticality]]

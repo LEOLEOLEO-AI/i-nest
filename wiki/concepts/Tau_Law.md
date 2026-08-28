@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[DirectConnect_Topology]]
+[[DynamicProgrammingRecycling]]
 [[External_to_OnDie_Evolution]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Inference_Offload]]

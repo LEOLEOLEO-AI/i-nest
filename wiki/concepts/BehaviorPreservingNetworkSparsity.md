@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SpikeCommunicationScheduling]]
+[[SpikeTimingDiversity]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Cognitive_Relapse_Architecture]]
+[[Collective_Offloading]]
 [[CommunicationAwareComputeRelocation]]
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC_Coordination_Roadmap]]
 [[causal emergence]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

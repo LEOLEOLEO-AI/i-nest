@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Collective_State_Convergence]]
 [[Complex_System_Theory]]
 [[CooperativeEmergence]]
+[[Critical_Region_Extension]]
 [[CrossLayer_SignalRouting]]
 [[Data_Debiasing_Techniques]]
 [[Deep_Thermalisation]]
@@ -35,9 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[SelfOrganization]]
 [[TCC]]
 [[branch prediction]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

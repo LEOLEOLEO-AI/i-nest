@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[DARPA_Manufacturing_Strategy]]
 [[Distributed_Spike_Communication]]
 [[HodgkinHuxleyDynamics]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[ModelOptimization]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SDI_Bond]]
 [[SNN]]
 [[Spiking_Neural_Network]]

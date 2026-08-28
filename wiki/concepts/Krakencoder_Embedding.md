@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
+[[CriticalPhaseTransitionStatisticalTest]]
 [[DataProvenanceIntegrity]]
 [[DeviceConductanceTuning]]
 [[Dynamic_Expert_Fusion]]

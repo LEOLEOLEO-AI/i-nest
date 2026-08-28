@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[FPGA_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[Memristive_Interconnect]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]

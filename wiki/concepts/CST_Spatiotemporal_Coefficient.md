@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Faculty_Forum_2026]]
+[[BigBrainCellularAxis]]
 [[CST_Intelligence_Emergence]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]

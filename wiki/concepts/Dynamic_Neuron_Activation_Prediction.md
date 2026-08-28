@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[3DGS_Scene_Graph]]
 [[ActiveMatterSubstrate]]
+[[AndersonLocalizationTopology]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[LocalityConstrainedEntanglement]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

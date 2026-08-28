@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Environmental_Capability_Context]]
 [[Free_Energy_Principle_Network]]
+[[Gradient_Signal_Preservation]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

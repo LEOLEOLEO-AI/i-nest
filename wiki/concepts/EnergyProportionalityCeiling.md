@@ -22,9 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
-[[Criticality_Based_Feature_Extraction]]
+[[Criticality]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[Network_Topology_Design]]

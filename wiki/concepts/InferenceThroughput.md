@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[HierarchicalSpikePropagation]]
 [[InSensorComputing]]
+[[Interconnect_Routing]]
 [[PacketRoutingOptimization]]
+[[QuarantineCostTradeoff]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

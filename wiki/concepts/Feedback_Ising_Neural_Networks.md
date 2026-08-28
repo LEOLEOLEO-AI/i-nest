@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DisturbancePropagationPath]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Heterogeneous_Integration]]
+[[InterFPGA_Spike_Routing]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Technology_Disparity_Offset]]

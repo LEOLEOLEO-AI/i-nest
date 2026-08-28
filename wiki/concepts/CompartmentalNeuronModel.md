@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]
+[[CoreComputationSubspace]]
 [[DeeplySupervisedSpiking]]
 [[Dynamic_Expert_Fusion]]
 [[EmergentOrder]]

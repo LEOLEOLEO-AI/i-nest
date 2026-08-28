@@ -31,15 +31,18 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
 [[RoutabilityDrivenFloorplanning]]
 [[STDP_Plasticity]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[Translation_Invariant_Closure]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Intelligence_Emergence]]
 [[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
+[[ComplexSystem_Definition]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Contested_Priors_Mechanism]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Heterogeneous_Integration]]
 [[HigherOrderStochasticProcess]]
+[[LowBitSpikingPruning]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

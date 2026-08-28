@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[Reservoir_Computing]]
 [[SNN]]
+[[SNN_Intrusion_Detection_Config]]
 [[SelfOrganizedOscillatoryLearning]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]

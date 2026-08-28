@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenMotionDeblurring]]

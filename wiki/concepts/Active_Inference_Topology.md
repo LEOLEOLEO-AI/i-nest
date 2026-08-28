@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Wave_Reconfiguration]]
 [[Random_Markov_Dynamics]]
 [[ReEntrantMultifractalization]]
+[[Reconfigurable_NonHermitian_Nonlinear_System]]
 [[TCC]]
 [[iNEST]]
 

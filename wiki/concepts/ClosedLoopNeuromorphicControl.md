@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergence_Aware_Scheduling]]
 [[Emergent_Intelligence_Threshold]]
 [[Gut_Brain_Immune_Network]]
+[[ITP_STDP]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
+[[AdvancedPackagingInterconnect]]
 [[Analog_Computation]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

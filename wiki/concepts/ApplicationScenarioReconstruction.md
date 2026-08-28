@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[MitigationLayers]]
 [[MultiplicativeGain]]
 [[Nonlinear_Gain]]
+[[PhysicalSubstrateReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]

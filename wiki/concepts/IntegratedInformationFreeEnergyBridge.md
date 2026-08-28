@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
+[[CollectiveSpikingDynamics]]
 [[DTGA]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DivergentHigherAreaRanking]]
+[[DynamicalSelfDualCriticality]]
 [[FatigueSTDP]]
 [[Fatigue_SpikePattern]]
 [[Globally_Optimal_SNN_Training]]

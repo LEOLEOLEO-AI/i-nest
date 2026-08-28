@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ConnectomicDevelopmentalTrajectory]]
 [[CorticalWaveRouting]]
+[[Critical_Region_Extension]]
 [[Deep_Thermalisation]]
 [[Environmental_Capability_Context]]
 [[Free_Energy_Principle_Network]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

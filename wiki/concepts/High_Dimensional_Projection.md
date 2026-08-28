@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Abilities]]
 [[FirstPrinciples_AI]]
+[[Hierarchical_Reservoir_Topology]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

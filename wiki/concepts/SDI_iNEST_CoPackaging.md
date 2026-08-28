@@ -36,12 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Wafer]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
+[[WaferScaleMonolithicIntegration]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[iNEST]]
-[[iNEST_Packaging]]
-[[iNEST_Wafer]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

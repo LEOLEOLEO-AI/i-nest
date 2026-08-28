@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]
+[[EnergyProportionalityCeiling]]
 [[EventBasedMotionDeblurring]]
 [[Neuromorphic_Computing]]
 [[SNN]]

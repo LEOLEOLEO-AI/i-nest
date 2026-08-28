@@ -31,6 +31,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[CriticalPhaseTransitionStatisticalTest]]
 [[DeviceConductanceTuning]]
 [[Heterogeneous_Integration]]
+[[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_1]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_2]]
 [[Intelligence_Emergence]]

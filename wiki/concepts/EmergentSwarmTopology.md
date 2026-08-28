@@ -27,11 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[AmorphousTopologicalSubstrate]]
 [[Attention_Residuals]]
 [[Bias_Origin_Taxonomy]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
-[[DARPA_ERI_Program]]
+[[DARPA_ERI]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

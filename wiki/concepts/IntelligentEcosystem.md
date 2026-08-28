@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
+[[AdiabaticMultimodeBend]]
 [[Allreduce_Latency_Diagnostic]]
 [[BiasEvaluationMetrics]]
 [[CST_CoarseGraining]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[soc]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[Contested_Prior_Resolution]]
 [[DivergentHigherAreaRanking]]
+[[HardwareAware_DesignSpace]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[PhaseLockedTopologyMapping]]

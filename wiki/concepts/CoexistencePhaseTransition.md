@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ChannelEventSparsity]]
 [[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]
+[[DeviationScalingIndex]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

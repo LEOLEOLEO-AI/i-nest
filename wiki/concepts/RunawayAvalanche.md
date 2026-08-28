@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NichePreservationMechanism]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 

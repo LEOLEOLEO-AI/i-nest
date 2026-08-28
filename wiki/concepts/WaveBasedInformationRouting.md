@@ -45,7 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]
-[[从因果到涌现：迈向新一代人工智能_陆超超博士访谈 (1)]]
+[[从因果到涌现：迈向新一代人工智能_陆超超博士访谈]]
 [[涌现]]
 [[神经形态计算]]
 [[神经网络]]

@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 资料
+tags: [semiconductor, chip, network, computing, fpga, hardware, strategy, business]
+summary: "井芯微战略定位与第二曲线营收增长分析"
+quality: high
+processed: 2026-08-28 19:27
+---
+---
 title: getnote_1916933967522229392_中国电子相关询问回复
 tags:
   - semiconductor

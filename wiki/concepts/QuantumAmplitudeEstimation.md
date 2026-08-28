@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[Cascading_Failure_Mitigation]]
 [[CorticalTravelingWave]]
+[[CorticalTravelingWaves]]
 [[CriticalStateInformationMaximization]]
 [[DirectTrainingSNN]]
 [[Direct_Training_Spiking_Neural_Networks]]

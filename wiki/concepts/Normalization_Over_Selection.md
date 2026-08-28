@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[Battlefield_Medicine_Neuromorphic_Integration]]
 [[CST_Theory_V27_FINAL]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

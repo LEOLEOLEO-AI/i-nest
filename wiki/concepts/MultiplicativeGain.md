@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Exponential_CST_Coupling]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]

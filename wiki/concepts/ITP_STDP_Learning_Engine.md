@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
+[[HeavyTailedWaitingTime]]
 [[ITP_STDP]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]

@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalBatchSynchronization]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[neuromorphic computing]]

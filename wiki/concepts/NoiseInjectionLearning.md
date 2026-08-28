@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Neuromorphic_Computing]]
 [[Oscillatory_MultiObjective_Optimization]]
+[[QuantumStateSynapticTrace]]
 [[TCC]]
 [[iNEST]]
 [[neuromorphic substrate]]

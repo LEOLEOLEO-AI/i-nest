@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
 [[Syncytial_Mesh]]
+[[Syncytial_Mesh_Model]]
 [[iNEST]]
 [[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

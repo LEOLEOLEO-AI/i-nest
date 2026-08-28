@@ -25,9 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[CorticalWaveRouting]]
 [[DimensionSeparation_IntensiveExtensive]]
+[[EpidemicThreshold]]
 [[EventDrivenFunctionalConnectivity]]
 [[FPGA_Accelerated_SNN]]
 [[Inference_Workload_Profiling]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SDI_Bond]]
@@ -40,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

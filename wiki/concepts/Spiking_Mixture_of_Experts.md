@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CIMWeightUpdateAwareness]]
 [[ConductingPolymerDendriteMemory]]
+[[ContinualLearningOnNeuromorphic]]
 [[DelayCodedWorkingMemory]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]

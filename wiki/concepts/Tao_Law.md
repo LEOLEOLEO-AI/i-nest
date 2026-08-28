@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[ERI_2_0_Strategic_Framework]]
 [[Evolutionary_Structure_Computability]]
+[[External_to_OnDie_Evolution]]
 [[Free_Energy_Principle_Network]]
 [[MultiplicativeGain]]
 [[SDSoW]]

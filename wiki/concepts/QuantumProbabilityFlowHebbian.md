@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Receptron_Unit]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
+[[SDI_SNN]]
 [[SDI_SNN_Interconnect]]
 [[SelfOrganization]]
 [[Self_Organized_Criticality]]

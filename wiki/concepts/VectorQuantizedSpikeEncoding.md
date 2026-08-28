@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[DMP_SNN_DualMemoryPathway]]
+[[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]

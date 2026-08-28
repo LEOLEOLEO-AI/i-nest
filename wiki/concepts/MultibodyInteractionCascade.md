@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[VaCoAl]]
 [[complex system]]
 [[智能涌现]]
 [[涌现]]

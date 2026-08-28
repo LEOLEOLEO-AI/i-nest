@@ -50,6 +50,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
 [[Order_Flexibility_Duality]]
 [[Photonic_Chiplet_Interconnect]]
+[[RISC-V 鏋舵瀯涓_SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚_LLM 浣庡欢杩熸帹鐞嗕笌璁粌]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
@@ -65,4 +66,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[复杂网络]]
 [[拓扑深度学习捕捉数据的高阶关系：信息传递拓扑神经网络概述]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

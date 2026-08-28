@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikeDrivenMOT]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Energy_Floor]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

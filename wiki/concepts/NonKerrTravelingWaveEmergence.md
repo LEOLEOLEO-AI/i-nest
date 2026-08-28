@@ -32,8 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[QuantumChaos]]
+[[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

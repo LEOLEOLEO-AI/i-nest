@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
 [[CrossLayer_SignalRouting]]
+[[DirectTrainingSNN]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FormalToolchain]]

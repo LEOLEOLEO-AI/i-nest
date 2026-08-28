@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[ImageToEventConversion]]
 [[In_Package_Neuromorphic_Integration]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuromorphicGestureEncoding]]
 [[NeuromorphicHarmonyEncoding]]
 [[Neuromorphic_Chiplet]]

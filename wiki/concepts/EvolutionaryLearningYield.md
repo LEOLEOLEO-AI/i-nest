@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Combinatorial_Optimization_Readout]]
 [[CompleteConnectomeDynamics]]
+[[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

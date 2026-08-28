@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
+[[OpenSource_Neuromorphic_Framework]]
 [[PopulationDensityApproximation]]
 [[PowerLaw_Analysis]]
 [[ReSCom_Accelerator]]

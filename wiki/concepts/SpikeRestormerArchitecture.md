@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[DiscreteContinuous_Unification]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]

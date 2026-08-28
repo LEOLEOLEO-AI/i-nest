@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
 [[Critical_Region_Extension]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]

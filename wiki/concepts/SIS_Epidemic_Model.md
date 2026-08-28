@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Assisted_Energy_Management]]
 [[AI_Assisted_Energy_Optimization]]
+[[AdaptiveBitPrecisionExploration]]
 [[AdaptiveDensityControl]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveMeasurementProtocol]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
 

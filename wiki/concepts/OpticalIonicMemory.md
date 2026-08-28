@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
+[[InterconnectConstrainedEmergence]]
 [[Memristive_ANN_Hardware]]
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]

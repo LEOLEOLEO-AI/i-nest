@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CoexistencePhaseTransition]]
 [[CouplingMatrixRecovery]]
 [[DendriticReservoirState]]
+[[DifferentiableLifting]]
 [[EcosystemTopologyCoupling]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]

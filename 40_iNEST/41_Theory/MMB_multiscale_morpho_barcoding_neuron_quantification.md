@@ -1,4 +1,12 @@
 ---
+direction: both
+category: 理论
+tags: [neuroscience, morphology, barcoding, whole-brain, multiscale]
+summary: "多尺度形态条码MMB实现神经元全脑结构量化新框架"
+quality: high
+processed: 2026-08-28 19:27
+---
+---
 title: getnote_1916895784188521304_多尺度形态条码MMB研究：神经元全脑结构量化新框架
 tags:
   - research

@@ -36,7 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[SNN]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

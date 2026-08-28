@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FeatureBasedGraph]]
 [[GateModelQuantumOptimization]]
+[[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[IndexOrderingOptimization]]
 [[Intelligence_Emergence]]

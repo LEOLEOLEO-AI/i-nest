@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteSTDP]]
 [[FatigueSTDP]]
 [[FunctionalInterfaceBlock]]
+[[HeavyTailedWaitingTime]]
 [[ITP_STDP]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]

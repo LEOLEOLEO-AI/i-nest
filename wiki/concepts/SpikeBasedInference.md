@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Driven_Architecture_Search]]
+[[AI_Faculty_Forum_2026]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[DiscreteSTDP]]
@@ -34,9 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[iNEST_Neuromorphic_Integration]]
 [[temporal coding]]
 

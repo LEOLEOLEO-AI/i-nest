@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]

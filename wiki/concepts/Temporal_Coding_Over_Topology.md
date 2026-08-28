@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[20W_Brain_Inspired_Planning]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
@@ -33,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
+[[SDI_STDP_Rule]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

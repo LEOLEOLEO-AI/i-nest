@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CrashHotspotForecasting]]
+[[DivergentHigherAreaRanking]]
 [[FatigueSTDP]]
 [[Layered_Attractive_Hubbard_Model]]
 [[NeuromorphicHardware]]

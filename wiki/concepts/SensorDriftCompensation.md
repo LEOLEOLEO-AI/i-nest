@@ -26,8 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AmorphousSolidPlasticity]]
 [[AstrocyteInspiredRepair]]
+[[Contested_Prior_Resolution]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
+[[SNN]]
+[[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[neuromorphic sensing]]
 [[reservoir computing]]
 

@@ -30,10 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[ConsciousnessEngineeringLoop]]
 [[CriticalityInducedTopology]]
+[[Criticality]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

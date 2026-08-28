@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[Avoided_Criticality]]
 [[BioInspiredInterceptionTask]]
+[[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]

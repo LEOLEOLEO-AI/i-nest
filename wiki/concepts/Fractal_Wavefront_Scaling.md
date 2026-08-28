@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CriticalityOnSmallWorlds]]
 [[Criticality]]
+[[Criticality_Induced_Computation]]
 [[Disorder_Anomaly_Duality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

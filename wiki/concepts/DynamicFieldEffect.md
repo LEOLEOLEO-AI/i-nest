@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicGeometryEncoding]]
 [[BackflowTransformation]]
 [[ErrorSuppressedPipeline]]
+[[MLChiralityDecoder]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SNN]]

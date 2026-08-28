@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ArtificialProprioception]]
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
+[[Bipartite_Interconnect]]
 [[BurstGatedRouting]]
 [[ClosedLoopNeuromorphicControl]]
 [[Closed_Loop_Neuromodulation]]

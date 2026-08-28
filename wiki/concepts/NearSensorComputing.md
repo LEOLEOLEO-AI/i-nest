@@ -47,12 +47,14 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TopologicalDataCompression]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[chiplet interconnect]]
 [[complex system]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

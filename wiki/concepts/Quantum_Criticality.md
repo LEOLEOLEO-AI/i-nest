@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Anomaly_Mediated_Quantum_Criticality]]
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
+[[Autonomous_Unmanned_Combat_Networking]]
 [[AvalancheBranchingRatio]]
 [[Boundary_Criticality]]
 [[BranchingRatio]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[QuantumCircuitCompression]]
 [[SiC_GaN_Power_Integration]]
 [[SparseTemporalEncoding]]
+[[State_Transition_Formalism]]
 [[TopologicalAndersonChernInsulator]]
 [[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

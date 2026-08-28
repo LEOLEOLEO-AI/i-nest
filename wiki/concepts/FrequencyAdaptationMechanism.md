@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[SNN_Intrusion_Detection_Config]]
 [[Self_Organized_Criticality]]
 [[SensoryGatedSpikingLoop]]
 [[SpikeCodedAssociation]]

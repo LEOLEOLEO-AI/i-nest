@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Krakencoder_Embedding]]
 [[Memristor_Synapse]]
 [[NCL神经计算定律详解]]
+[[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ScaleFreeNetwork]]

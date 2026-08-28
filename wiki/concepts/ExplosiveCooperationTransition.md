@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Free_Energy_Minimization_Interconnect]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[Avoided_Criticality]]
+[[BurstGatedRouting]]
 [[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
+[[忆阻器]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[ExactlyFlatTopologicalBands]]
+[[HigherOrderNetwork]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

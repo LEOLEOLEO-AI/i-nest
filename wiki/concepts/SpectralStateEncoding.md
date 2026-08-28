@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
+[[Biomanufacturing_Control_Loop]]
 [[CoupledOscillatorReservoir]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]

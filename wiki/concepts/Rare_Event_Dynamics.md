@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AcceleratedMaterialScreening]]
 [[AnisotropicGaussianPrimitives]]
 [[Bosonic_SPT_Phases]]
+[[CoexistencePhaseTransition]]
 [[DendriticReservoirState]]
 [[Environmental_Capability_Context]]
 [[FiniteSizeCrossover]]

@@ -27,10 +27,10 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[AIRA_NeuralArchSearch]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点]]
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_1]]
-[[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_2]]
 [[Intelligence_Emergence]]
 [[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]

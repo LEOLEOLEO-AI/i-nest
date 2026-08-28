@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Nanomaterial_Discovery_ML]]
 [[Nonlinear_Gain]]
+[[ProjectiveMeasurementRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

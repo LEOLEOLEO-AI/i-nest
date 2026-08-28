@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AlternativeBridgingModels]]
+[[Analog_InMemory_Processing]]
 [[Analog_Weight_Storage]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_V42_SelfConsistency]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

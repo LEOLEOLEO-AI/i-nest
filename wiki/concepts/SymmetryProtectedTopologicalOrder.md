@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Autonomous_Control]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
+[[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[MonitoredQuantumDynamics]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

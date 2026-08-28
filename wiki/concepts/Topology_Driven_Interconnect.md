@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Nonlinear_Topology_Amplification]]
+[[ReproducibleReservoirComputing]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
 [[TCC]]

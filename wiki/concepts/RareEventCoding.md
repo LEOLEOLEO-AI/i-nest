@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[EdgeInspectionInference]]
+[[Efficient_Coding_Constraint]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTrajectoryEncoding]]
 [[InputAdaptiveComputation]]

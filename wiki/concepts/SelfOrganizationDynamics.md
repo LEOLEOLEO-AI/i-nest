@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossPopulationCen]]
 [[DataDrivenCellularAxis]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[DissipativePhaseTransition]]
 [[DynamicReconfigurationForFaultTolerance]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGABasedNeuromorphic]]

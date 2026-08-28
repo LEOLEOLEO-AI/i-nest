@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[3DGS_Scene_Graph]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[ArbitraryWavefunctionConfigurability]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[ERI_2_0_Strategy]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

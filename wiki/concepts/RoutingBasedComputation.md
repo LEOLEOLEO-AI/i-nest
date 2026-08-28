@@ -37,9 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MemoryDrivenRouting]]
 [[Military_AI_Revolution]]
+[[Network_Topology_Design]]
 [[RecurrentOscillatoryComputation]]
 [[TCC]]
 [[Topological_Flow_Logic]]
+[[WirelessSplitComputing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

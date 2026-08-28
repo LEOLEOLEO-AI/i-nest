@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Recurrent_Network_Homeostasis]]
+[[RepresentationCapacityMatchedTwinConstruction]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

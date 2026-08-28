@@ -21,8 +21,8 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BioPlausiblePredictiveCoding]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[DelayAwareSpikeEventDelivery]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
@@ -32,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDN_Neuromorphic_Interface]]
 [[SNN]]
-[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
 [[PhysicalSubstrateReservoirComputing]]
+[[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]
 [[TCC]]

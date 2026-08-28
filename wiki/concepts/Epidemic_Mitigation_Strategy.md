@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[CorticalTypeDiversity]]
 [[CouplingMatrixRecovery]]
+[[Coupling_Strength_Encoding]]
 [[DTGA]]
 [[DendriticReservoirState]]
 [[Dynamic_Expert_Fusion]]

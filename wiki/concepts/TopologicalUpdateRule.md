@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[AvalancheTriggeringMechanism]]
+[[Bosonic_SPT_Phases]]
 [[CSI_Temporal_Encoding]]
 [[CriticalStateReservoir]]
 [[Fixed_Reservoir_Unitary]]

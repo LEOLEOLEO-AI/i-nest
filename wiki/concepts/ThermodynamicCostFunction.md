@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheTriggeringMechanism]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Biomanufacturing_Control_Loop]]
+[[BranchingRatio]]
 [[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]

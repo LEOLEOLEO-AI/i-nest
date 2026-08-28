@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Decoupling]]
 [[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
+[[CubicLatticeInterconnect]]
 [[Defect_Mediated_Transport]]
 [[Emergent_Intelligence_Roadmap]]
 [[GutBrainAxis_Reprogramming]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenAsynchronousRouting]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[NeuromorphicGradientPropagation]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[branch prediction]]

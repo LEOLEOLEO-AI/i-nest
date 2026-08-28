@@ -21,14 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BioPlausiblePredictiveCoding]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[DelayAwareSpikeEventDelivery]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
-[[EnergyEfficientNeuromorphicDesign]]
+[[EnergyEfficientNeuromorphic]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[SNN]]

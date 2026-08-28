@@ -26,6 +26,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
@@ -71,8 +72,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[chiplet interconnect]]
 [[complex system]]
 [[heterogeneous_integration]]
-[[iNEST 理论体系系统总结报告：从物理第一性原理到晶圆级智能涌现]]
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[类脑芯片]]

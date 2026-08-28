@@ -38,10 +38,13 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Package_Level_Interconnect]]
+[[SDI_Bond]]
 [[SDI_Interconnect]]
+[[SDI_Topology]]
 [[TCC]]
-[[iNEST_Wafer]]
+[[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

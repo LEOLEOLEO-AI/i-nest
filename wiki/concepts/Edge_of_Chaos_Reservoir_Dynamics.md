@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CouplingTopologyInducedDynamics]]
 [[CriticalStateReservoir]]
 [[Criticality]]
+[[Environmental_Coupling_Organization]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[FisherInformationMetric]]

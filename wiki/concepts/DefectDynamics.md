@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BrainBodyResonance]]
 [[Brain_Connectome]]
+[[ClocklessReconfigurableChip]]
 [[Connectome]]
 [[Contested_Priors_Mechanism]]
 [[Controlled_Release_Kinetics]]

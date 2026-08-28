@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Convergent_Evolution_Representation_Space]]
+[[Developmental_Computing]]
 [[Emergent_Topological_Alignment]]
 [[EndToEndTopologyLearning]]
 [[GroupInteractionThreshold]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

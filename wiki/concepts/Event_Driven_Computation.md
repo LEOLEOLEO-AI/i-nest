@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[EventDrivenInference]]
 [[EventDrivenLearning]]
+[[EventDrivenTracking]]
 [[Event_Driven_Architecture]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
+[[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[BurstSuppression]]
 [[Criticality]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[CausalEmergenceCondition]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[Crystallized_Neural_Manifolds]]
 [[EdgeIoTEnergyAwareness]]
 [[Intelligence_Emergence]]
 [[KernelRegimeScaling]]

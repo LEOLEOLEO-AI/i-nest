@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[CorticalWaveRouting]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
@@ -30,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Neuromorphic_NoC_Routing]]
 [[STDP_Plasticity]]
 [[ST_SNN]]

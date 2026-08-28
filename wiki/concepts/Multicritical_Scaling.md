@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Scaling laws]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[TCC_Neuromorphic_Integration]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
 [[scaling laws]]

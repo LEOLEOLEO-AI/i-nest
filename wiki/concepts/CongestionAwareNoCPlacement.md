@@ -38,10 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
+[[WaferScaleTopologyCentricComputing]]
 [[WaferScale_Chiplet_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

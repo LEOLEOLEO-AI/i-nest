@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]

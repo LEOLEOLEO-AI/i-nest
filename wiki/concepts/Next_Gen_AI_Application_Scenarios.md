@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Computability]]
 [[Exponential_CST_Coupling]]
+[[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]

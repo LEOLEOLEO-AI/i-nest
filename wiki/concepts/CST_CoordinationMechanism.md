@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
+[[Generalization_Bound_Spectra]]
 [[Intelligence_Emergence]]
 [[MasterEquationRG]]
 [[MeanFieldSpinGlass]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AgentReinforcementLoop]]
 [[Agent_Workflow_Automation]]
 [[Analog_InMemory_Processing]]
+[[Asymptotic_Exact_Solution]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

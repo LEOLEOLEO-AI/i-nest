@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
 [[ApproximationFidelityTradeoff]]
+[[AttractorConvergenceAnalysis]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
 [[ChipletTopologyAwareness]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

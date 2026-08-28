@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

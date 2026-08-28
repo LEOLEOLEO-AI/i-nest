@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[Packaging_Aware_NoC_Design]]
 [[PinAssignmentOptimization]]
 [[Representation_Learning_Generalization]]
 [[RoutabilityDrivenFloorplanning]]

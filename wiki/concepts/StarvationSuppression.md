@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_EventRouting]]
 [[PhysicalDesign_ReliabilityTradeoff]]
 [[QuarantineCostTradeoff]]
+[[RoutingBasedLinearManipulation]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[SyntheticInertiaProvision]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
+[[SyntheticInertiaProvision]]
 [[iNEST]]
 
 ## Sources

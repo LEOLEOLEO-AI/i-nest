@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ArmLocomotorCoordination]]
 [[AstrocyteInspiredRepair]]
 [[AutogradCompatibleSpiking]]
+[[AutomatedQuantizationFramework]]
 [[BiasEvaluationMetrics]]
 [[BioInspiredSpikeEncoding]]
 [[BrainScaleTopologyExploitation]]

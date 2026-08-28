@@ -35,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[OS_Level_Performance_Hampering]]
 [[Resilience_ByTopology]]
+[[SDSoW_Architecture]]
 [[SDSoW_Strategic_Planning]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
 [[iNEST]]
 

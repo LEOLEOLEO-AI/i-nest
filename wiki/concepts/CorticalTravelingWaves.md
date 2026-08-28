@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Frontier_Innovation_Mapping]]
 [[GradientBasedSpikeLearning]]
+[[Gradient_Free_SNN_Learning]]
 [[HighThroughputParticleRouting]]
 [[Interconnect_Routing]]
 [[LossSpikePhenomenon]]

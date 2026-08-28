@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AgenticServiceManifesto]]
 [[AnalogDomainCompression]]
+[[Categorical_Closure_Criterion]]
 [[Criticality]]
 [[Environmental_Induced_Memory]]
 [[Heterogeneous_Compute_Graph]]

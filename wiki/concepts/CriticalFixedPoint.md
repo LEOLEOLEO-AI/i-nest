@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[TopologicalAndersonChernInsulator]]
 [[VariationalFreeEnergyMinimisation]]

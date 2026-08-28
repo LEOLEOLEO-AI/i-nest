@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
+[[CST_Intelligence_Emergence]]
 [[ErrorSuppressedPipeline]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

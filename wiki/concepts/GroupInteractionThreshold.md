@@ -46,9 +46,11 @@ Auto-extracted concept from raw material compilation.
 [[SDDE_Attractor_Emergence]]
 [[STDP_Plasticity]]
 [[STDP_iNEST_Memristive]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[complex system]]
+[[iNEST]]
 [[neuromorphic computing]]
 
 ## Sources

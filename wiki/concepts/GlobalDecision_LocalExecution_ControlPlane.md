@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[NCCLCollectiveCommunicationMapping]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[NoC_SDI]]
-[[NoC_SDI_Integration]]
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[SDSoW]]
@@ -39,10 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefined_NoC_Routing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[Wafer_Scale_Topology_Control]]
+[[Wafer_Scale_Topology]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

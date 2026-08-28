@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[DARPA_ProjectManager_Model]]
 [[Fixed_Reservoir_Unitary]]
+[[GeneralizedReadoutMap]]
 [[InNetworkSignalRecovery]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristive_Interconnect]]

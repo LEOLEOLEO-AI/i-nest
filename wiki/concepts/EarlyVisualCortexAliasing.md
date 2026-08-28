@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSpikePerturbation]]
 [[AgentBasedCorruptionModel]]
 [[CrossLayer_SignalRouting]]
+[[EventDrivenModularArchitecture]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

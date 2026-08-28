@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[NetworkDynamicalStabilization]]
 [[Network_Topology_Design]]
+[[PhaseLockedTopologyMapping]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

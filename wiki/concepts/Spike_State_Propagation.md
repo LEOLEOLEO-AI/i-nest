@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Distributed_Spike_Communication]]
 [[ElasticInferenceScheduling]]
+[[EmergencePhaseCitationDynamics]]
 [[GraphGeometryAlignment]]
 [[GroupSynchronization]]
 [[Heterogeneous_Integration]]

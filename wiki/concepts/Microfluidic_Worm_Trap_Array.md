@@ -46,10 +46,12 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalCooperativeIntelligence]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Swarm_Coordination]]
+[[Thermopneumatic_Actuation]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

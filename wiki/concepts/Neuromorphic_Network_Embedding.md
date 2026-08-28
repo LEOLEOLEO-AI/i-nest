@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[BigBrainCellularAxis]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
 [[Memristor_Network]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 

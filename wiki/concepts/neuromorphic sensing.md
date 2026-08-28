@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- neuromorphic sensing (merged 2026-08-29)
+
+
+## Related Work
+
+[[AIRA_NeuralArchSearch]]
+[[Event_Driven_Architecture]]
+[[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
+[[SoC]]
+[[TCC]]
+[[_Nature大子刊_脑机接口重大突破_清华吴华强团队打造_忆阻器神经形态解码器_意念控制无人机]]
+[[iNEST]]
+[[忆阻器]]
+[[神经形态计算]]

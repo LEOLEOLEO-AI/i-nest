@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EnsembleSparsity]]
 [[Gut_Brain_Immune_Network]]
 [[Hardware_Accelerated_SNN]]
+[[InNetworkNeuromorphicEmergence]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[IntracorticalNeuralDecoding]]

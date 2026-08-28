@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Plasticity]]
 [[SpikeBasedBeliefPropagation]]
+[[SpikeCodingForMotionFeatures]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

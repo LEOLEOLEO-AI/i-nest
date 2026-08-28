@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
+[[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[BurstSuppressionMechanism]]
 [[BurstSuppression]]

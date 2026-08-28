@@ -1,21 +1,14 @@
----
-title: "2026-07-23_Transformer前沿创新方向与顶会论文核心技术深度解析"
-type: article-summary
-domain: iNEST
-created: 2026-08-04
-auto: true
----
 # 2026-07-23_Transformer前沿创新方向与顶会论文核心技术深度解析
 
-**Domain**: iNEST
+**Domain**: Cross
 **Source**: 20_Processing\inbox_overflow\2026-07-23_Transformer前沿创新方向与顶会论文核心技术深度解析.md
-**Compiled**: 2026-08-04
+**Compiled**: 2026-08-29
 
 ## Summary
-title: getnote_1916280986463798168_Transformer前沿创新方向与顶会论文核心技术深度解析 date: 2026-07-23 21:00 note_id: 1916280986463798168 title: "Transformer前沿创新方向与顶会论文核心技术深度解析" created: 2026-07-22 07:15:42
+(content extracted from source)
 
 ## Keywords
-iNEST
+
 
 ---
 *Auto-compiled by wiki_compiler.py*
@@ -23,4 +16,4 @@ iNEST
 
 ## Related Concepts
 
-[[iNEST]]
+*(no linked concepts yet)*

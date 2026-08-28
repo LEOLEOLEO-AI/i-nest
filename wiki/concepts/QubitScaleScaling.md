@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MagicStateProtocol]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[Phase_Diagram_of_Model_Scaling]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]

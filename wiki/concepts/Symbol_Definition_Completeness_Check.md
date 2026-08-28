@@ -30,18 +30,20 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[EventTriggeredDistributedControl]]
 [[GitWhitelistQuotaEnforcement]]
+[[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[QuantumChaos]]
 [[RandomGraphQuantumChaos]]
+[[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
 [[SynchronousResetting]]
 [[TCC]]
 [[TopologicalObservers]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[spiking neural network]]
 [[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[新型计算]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 
 ## Sources

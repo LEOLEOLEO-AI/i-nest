@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Assisted_Energy_Optimization]]
+[[AllOpticalHebbianLearning]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[ConsciousnessEngineeringLoop]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Theory]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]

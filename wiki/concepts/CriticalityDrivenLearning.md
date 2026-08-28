@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence_Engineering]]
 [[CriticalBranching]]
 [[Criticality]]
+[[Criticality_Induced_Plasticity]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]

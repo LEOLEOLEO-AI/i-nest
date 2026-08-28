@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousPD_Inference_BoundaryContract]]
 [[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
+[[Memory_Technology_Role_Specialization]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
 [[Network_Topology_Design]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporal coding]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

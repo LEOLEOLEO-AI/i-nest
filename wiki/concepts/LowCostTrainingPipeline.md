@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[GeneralizedReadoutMap]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
+[[HybridResistiveMemoryCIM]]
 [[InNetworkSignalRecovery]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]

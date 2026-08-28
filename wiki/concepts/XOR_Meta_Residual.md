@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DeeplySupervisedSpiking]]
 [[DiscreteContinuous_Unification]]
 [[Emergent_Intelligence_Threshold]]
+[[Frontier_Innovation_Mapping]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

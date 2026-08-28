@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[AlternativeBridgingModels]]
 [[BiologicalNoiseMimicry]]
+[[CUDAQSimulationFramework]]
 [[DTGA]]
 [[Emergent_Topology_Adaptation]]
 [[ExplosiveTransitionThreshold]]

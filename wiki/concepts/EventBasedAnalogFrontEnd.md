@@ -35,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Sensing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -49,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[neuromorphic sensing]]
 [[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

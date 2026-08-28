@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Baseline_Draft_Status]]
 [[BioInspiredInterceptionTask]]
+[[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[Criticality]]
 [[DelayAwareSpikeEventDelivery]]

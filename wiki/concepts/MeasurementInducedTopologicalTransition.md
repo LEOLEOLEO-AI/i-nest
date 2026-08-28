@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Computing_Infrastructure]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Organization]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

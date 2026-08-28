@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SparseCodingEfficiency]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

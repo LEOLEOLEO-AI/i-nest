@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[ConsciousnessEngineeringLoop]]
+[[CrossLayer_SignalRouting]]
 [[Defense_Industrial_Base_Reshaping]]
 [[FastSlow_Dynamics]]
 [[FlagOS_2_0]]

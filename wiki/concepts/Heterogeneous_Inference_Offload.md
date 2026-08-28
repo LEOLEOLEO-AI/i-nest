@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[DynamicProgrammingRecycling]]
 [[External_to_OnDie_Evolution]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]

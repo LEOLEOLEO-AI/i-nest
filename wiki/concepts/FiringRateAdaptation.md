@@ -47,7 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TCC_Neuromorphic_Integration]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

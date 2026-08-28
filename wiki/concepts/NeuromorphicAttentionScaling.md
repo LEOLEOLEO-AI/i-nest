@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyProportionalityCeiling]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Acceleration]]

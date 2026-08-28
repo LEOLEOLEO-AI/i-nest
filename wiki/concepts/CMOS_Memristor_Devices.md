@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emerging_CMOS_Memristor]]
 [[EnergyResourceEfficiencyCoOptimization]]
+[[FCDC_Architecture]]
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[FerroelectricSemiconductorReservoir]]

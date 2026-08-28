@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
 [[Memristor_Synapse]]
 [[Mesoscale_Heterogeneous_Integration]]
@@ -67,8 +68,6 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[heterogeneous_integration]]
 [[iNEST]]
-[[iNEST_Interconnect]]
-[[iNEST_Wafer]]
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 

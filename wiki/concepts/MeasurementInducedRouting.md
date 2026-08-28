@@ -35,12 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[NetworkDiameterTradeoff]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[PacketRoutingForFPGAs]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

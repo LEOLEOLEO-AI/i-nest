@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
 [[CouplingMatrixRecovery]]
+[[CrossLayer_SignalRouting]]
 [[DendriticReservoirState]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]

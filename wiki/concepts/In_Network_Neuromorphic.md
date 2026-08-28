@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Master_SDDE]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Microgrid_Optimization]]
 [[National_Innovation_Center_Role]]
 [[Network_on_Chip]]

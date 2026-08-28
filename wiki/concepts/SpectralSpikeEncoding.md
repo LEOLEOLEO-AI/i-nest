@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]

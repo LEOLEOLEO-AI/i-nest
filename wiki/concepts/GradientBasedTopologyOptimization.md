@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Computation_Consistency]]
 [[BurstTemporalPlasticity]]
 [[Complex_System_Theory]]
+[[ConstraintDrivenOptimization]]
 [[Emergent_Intelligence_Roadmap]]
 [[GutBrainAxis_Reprogramming]]
 [[HoldingManeuverDelayGraph]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

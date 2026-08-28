@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossEntityPreemptiveWarning]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
+[[HardwareInducedBias]]
 [[Neuromorphic_Computing]]
 [[Online_Continual_Learning]]
 [[SNN]]

@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticBinaryNetwork]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TemporalPrecisionScheduling]]
 [[Temporally_Precise_Training_Parallelization]]
 [[iNEST]]
 

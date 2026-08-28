@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdsorptionBiosorptionHybrid]]
 [[Allreduce_Latency_Benchmark]]
 [[AlternativeMetalInterconnects]]
+[[AndersonTransition]]
 [[BifurcationCandidate]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

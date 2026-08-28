@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Order_Flexibility_Duality]]
+[[QuantumKernelMethods]]
 [[ScaleFreeNetwork]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
+[[Decoupling_Mechanism]]
 [[DendriticReservoirState]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]

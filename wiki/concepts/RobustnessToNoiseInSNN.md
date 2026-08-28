@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Complexity_Emergence_Engineering]]
 [[ConsciousnessEngineeringLoop]]
+[[EventCameraTemporalEncoding]]
 [[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

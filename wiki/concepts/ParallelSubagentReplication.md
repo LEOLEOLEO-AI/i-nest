@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Anisotropic_Correlation_Length]]
 [[BackflowTransformation]]
+[[BandedNonHermitianRandomMatrices]]
 [[CST_Equation]]
 [[CST_Exponential_Gain]]
 [[CST_MasterEquation]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

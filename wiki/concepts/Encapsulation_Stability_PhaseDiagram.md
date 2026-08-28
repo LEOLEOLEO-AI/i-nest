@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Autonomous_Unmanned_Combat_Networking]]
 [[Capability_Reserve_Index]]
+[[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]

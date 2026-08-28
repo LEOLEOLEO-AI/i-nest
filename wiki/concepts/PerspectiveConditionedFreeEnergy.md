@@ -35,10 +35,12 @@ Auto-extracted concept from raw material compilation.
 [[PinAssignmentOptimization]]
 [[RISBeamSpatialSignature]]
 [[SixClassSkeletonAsRPrimitiveSpace]]
+[[SpatialMultiplexingTopologicalCharges]]
 [[TCC]]
 [[iNEST]]
 [[perspective latents]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Complex_System_Theory]]
+[[EventDrivenSpectralProcessing]]
 [[In_Network_Neuromorphic]]
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]

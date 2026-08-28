@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[1024_Card_SuperNode]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
 [[AnalogDomainCompression]]
@@ -31,8 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Packaging]]
 [[Chiplet_Topology]]
-[[Chiplet_Topology_Encapsulation]]
-[[Chiplet_Topology_Packaging]]
 [[CoPoS]]
 [[Complex_System_Theory]]
 [[EMIB_Bridge]]
@@ -52,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

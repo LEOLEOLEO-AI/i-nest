@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AlloyDisorderEngineering]]
 [[AvalancheBranchingRatio]]
+[[BranchingRatioControl]]
 [[BranchingRatio]]
 [[CST_Theory]]
 [[CST_Theory_V27_FINAL]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]
+[[EmergentAttractorStability]]
 [[EventCameraPoseInput]]
 [[EventDrivenSpectralProcessing]]
 [[JunctionSignalIntegrity]]

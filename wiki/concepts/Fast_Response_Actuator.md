@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectomicDevelopmentalTrajectory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CorticalWaveRouting]]
 [[HardwareAwareTraining]]
 [[ITP_STDP]]
 [[SDI_Bond]]

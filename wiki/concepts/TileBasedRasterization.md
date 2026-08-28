@@ -45,16 +45,17 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[Synaptic_Plasticity]]
+[[WavelengthMultiplexedInterconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

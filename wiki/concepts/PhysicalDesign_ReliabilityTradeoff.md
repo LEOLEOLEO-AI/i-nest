@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticDelayInference]]
 [[TCC]]
 [[TemporalBatchSynchronization]]
+[[TemporalSparsityExploitation]]
 [[iNEST]]
 
 ## Sources

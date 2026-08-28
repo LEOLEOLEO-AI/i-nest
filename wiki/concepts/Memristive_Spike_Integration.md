@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[EventCameraActionRecognition]]
 [[Heterogeneous_Integration]]
+[[HigherOrderStochasticProcess]]
 [[LIF_Neuron_Model]]
 [[Memristor_Synapse]]
 [[Nature_Electronics_Neuromorphic_Validation]]

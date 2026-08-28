@@ -37,12 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Compute]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BoundaryObject_Abstraction]]
 [[DataDrivenMaterialDesign]]
+[[NCA_Reservoir]]
 [[Neuromorphic_Computing]]
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]

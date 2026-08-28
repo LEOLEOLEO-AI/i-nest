@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[STDP_Plasticity]]
 [[ST_SNN]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

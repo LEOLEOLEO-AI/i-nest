@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[On_Chip_STDP_Learning]]
 [[PhaseSynchronizationDetection]]
+[[SDI_STDP]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

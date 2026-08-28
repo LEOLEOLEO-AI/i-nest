@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Deep_Brain_Stimulation]]
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AnisotropicGaussianPrimitives]]
+[[BayesianDomainEvolution]]
 [[BrainBodyResonance]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[synaptic plasticity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
+[[PhysicalReservoirDynamicsEncoding]]
 [[PhysicalReservoir]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]

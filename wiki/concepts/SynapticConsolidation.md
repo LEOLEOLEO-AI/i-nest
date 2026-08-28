@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CIMWeightUpdateAwareness]]
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
+[[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[NeuromorphicEdgeProcessing]]

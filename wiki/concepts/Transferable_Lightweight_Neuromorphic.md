@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ArmLocomotorCoordination]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CirculateFiringNeuron]]
+[[CompactnessRegularizedFitness]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Field_Compression_for_InNetwork_Inference]]

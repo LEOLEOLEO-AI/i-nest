@@ -35,7 +35,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[HotChip2024-Day2_AI加速器互联和云AI处理器,_Tesla是亮点_2]]
 [[Intelligence_Emergence]]
 [[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR]]
-[[Less_is_more，大脑“低能耗”并“高效响应”的秘诀：模块化_NSR_1]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
 [[NCL神经计算定律详解]]
 [[Neuromorphic_Computing]]
@@ -54,4 +53,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[启示AGI之路_脑机制自下而上梳理_上部_5万字]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

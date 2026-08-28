@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AnytimePointCloudRecognition]]
+[[AsynchronousEventDrivenComputation]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
 [[CascadedAdaptiveCombiners]]
 [[Complex_System_Theory]]

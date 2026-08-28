@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraTemporalEncoding]]
 [[EventDrivenModularArchitecture]]
 [[Interconnect_Routing]]
+[[LossSpikePhenomenon]]
 [[MixedSignalSNN_CoDesign]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

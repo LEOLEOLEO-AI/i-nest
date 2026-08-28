@@ -32,12 +32,14 @@ Auto-extracted concept from raw material compilation.
 [[GlobalInformationDominance]]
 [[HierarchicalInferenceTopology]]
 [[Intelligence_Emergence]]
+[[LocalStructuralPlasticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[iNEST]]
 [[neuromorphic interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

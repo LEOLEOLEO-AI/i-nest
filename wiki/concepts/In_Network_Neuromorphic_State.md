@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[On_Chip_STDP_Learning]]
 [[ReservoirTemporalDynamics]]
 [[Reservoir_Computing]]
+[[SDSoW]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SpikeCodedFeatureAssociation]]

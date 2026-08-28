@@ -31,7 +31,6 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
-[[Heterogeneous_Integration_Roadmap_HIR]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
@@ -40,11 +39,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Switch_Chiplet_Integration]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[neuromorphic chiplet]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

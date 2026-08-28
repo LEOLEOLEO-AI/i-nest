@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Interaction_Sequencing]]
 [[AgenticServiceOrchestration]]
 [[Allreduce_Latency_Probe]]
+[[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
 [[Cognitive_Relapse_Decoupling]]

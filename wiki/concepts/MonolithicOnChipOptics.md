@@ -34,7 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[DarkSiliconAwareCooling]]
 [[EMIB_Bridge]]
 [[Glass_Interposer_Integration]]
+[[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
+[[Network_on_Chip]]
 [[TCC]]
 [[iNEST]]
 

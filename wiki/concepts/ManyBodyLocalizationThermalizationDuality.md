@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ManyBodyLocalization]]
 [[MemristiveSignedCouplings]]
 [[Neuromorphic_Computing]]
+[[Resilient_Community_Feedback_Loop]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]

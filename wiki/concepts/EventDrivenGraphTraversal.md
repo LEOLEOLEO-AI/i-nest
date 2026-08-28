@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[LatencyGradientDescent]]
 [[MembranePotentialAlignment]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[NeuromorphicGestureEncoding]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

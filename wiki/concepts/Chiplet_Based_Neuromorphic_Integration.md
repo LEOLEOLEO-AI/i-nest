@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[11_SDI节点接口规范与化合键定义_dup]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Role]]
 [[Network_Topology_Design]]

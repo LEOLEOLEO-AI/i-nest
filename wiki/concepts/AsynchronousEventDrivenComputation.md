@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Controlled_Release_Kinetics]]
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
+[[EmergentAttractorStability]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
 [[EventDrivenFunctionalConnectivity]]

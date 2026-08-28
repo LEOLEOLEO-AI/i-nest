@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[BiSpikCLM]]
+[[CombinedImportanceScoring]]
 [[DARPA_ProjectManager_Model]]
 [[DMP_SNN_DualMemoryPathway]]
 [[DTGA]]
@@ -35,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

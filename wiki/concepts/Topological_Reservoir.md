@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
 [[Branch_Prediction_Reservoir]]
+[[Categorical_Reservoir_Model]]
 [[Crystallized_Neural_Manifolds]]
 [[Dynamic_Expert_Fusion]]
 [[FitnessGuidedTopologySearch]]

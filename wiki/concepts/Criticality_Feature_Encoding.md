@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
+[[4H_SiC_SubstrateProcessing]]
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[AgenticServiceManifesto]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Long_Range_Interactions]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[SuperparamagneticSwitchingRate]]

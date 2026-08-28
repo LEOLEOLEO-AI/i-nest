@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DataDrivenCellularAxis]]
 [[Hardware_Accelerated_SNN]]
+[[InNetworkNeuromorphicEmergence]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]

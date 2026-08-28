@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TemporalFeaturePropagation]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[spiking neural network]]

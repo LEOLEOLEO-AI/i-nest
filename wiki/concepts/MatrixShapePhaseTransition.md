@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ReconfigurableSpikingRouting]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]
+[[Swarm_Adaptive_Topology]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[Topology_Dynamics_Aware_RL]]

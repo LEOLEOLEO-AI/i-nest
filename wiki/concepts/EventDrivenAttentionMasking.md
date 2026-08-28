@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[SaliencyDrivenAttention]]
 [[SpectralSpikeEncoding]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Mamba_Block]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_SNN_WeightSpaceGap]]
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[Closed_Loop_SNN_Stability_Boundary]]
+[[CombinedImportanceScoring]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]
@@ -35,7 +36,9 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

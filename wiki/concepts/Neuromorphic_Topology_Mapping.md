@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Order_Flexibility_Duality]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

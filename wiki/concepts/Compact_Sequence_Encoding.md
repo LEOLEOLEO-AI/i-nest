@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Compute_In_Memory_Neuromorphic]]
 [[EventDrivenTemplateUpdate]]
 [[In_Memory_Computing]]
+[[In_Package_Neuromorphic_Integration]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

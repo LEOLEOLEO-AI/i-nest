@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[AnomalousSpinTransport]]
 [[Avoided_Criticality]]
+[[BigBrainCellularAxis]]
 [[BrainActivityPrediction]]
 [[Complexity_Emergence]]
 [[CrashHotspotForecasting]]

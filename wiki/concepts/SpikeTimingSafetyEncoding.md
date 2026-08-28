@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CrashHotspotForecasting]]
+[[DivergentHigherAreaRanking]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]

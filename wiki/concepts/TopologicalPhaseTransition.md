@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CollectiveDynamics]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
+[[ConductingPolymerDendriteMemory]]
 [[Core_Spacetime_Tensor]]
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]

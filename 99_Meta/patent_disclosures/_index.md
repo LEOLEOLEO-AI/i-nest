@@ -8,3 +8,4 @@
 - H7 (HIGH): `H7_disclosure.md`
 - H8 (HIGH): `H8_disclosure.md`
 - H9 (MEDIUM): `H9_disclosure.md`
+- H10 (HIGH): `H10_disclosure.md`

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Nonlinear_Gain]]
 [[OnChipOpticalTweezers]]
+[[OpenSource_Neuromorphic_Framework]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[SNN]]
 [[ST_SNN]]

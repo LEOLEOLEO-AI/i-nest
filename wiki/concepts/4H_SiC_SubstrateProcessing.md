@@ -40,11 +40,13 @@ Auto-extracted concept from raw material compilation.
 [[SiC_GaN_Power_Integration]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
+[[ThirdWaveAI]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[WaferScaleNeuromorphicTopology]]
 [[WaferScaleSubstrate]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

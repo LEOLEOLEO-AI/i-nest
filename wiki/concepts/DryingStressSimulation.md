@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSpeechToSpikeEncoding]]
 [[BurstTemporalPlasticity]]
 [[EventCameraPoseInput]]
+[[EventDrivenSynchronization]]
 [[ImpactFallDetection]]
 [[Network_Topology_Design]]
 [[Oncological_Digital_Twin]]

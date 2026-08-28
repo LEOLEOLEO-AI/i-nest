@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[BalancedRouting]]
 [[Baseline_Draft_Status]]
+[[Bipartite_Interconnect]]
 [[CellEmergence]]
 [[Complex_System_Theory]]
 [[DisorderedNetworkInterconnect]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

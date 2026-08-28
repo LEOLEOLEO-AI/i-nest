@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
+[[SurrogateGradientTracking]]
 [[SynapseLevelParallelism]]
 [[TemporalSpikeEncoding]]
 [[UniSpike_Acceleration]]

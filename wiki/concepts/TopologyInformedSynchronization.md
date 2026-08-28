@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[CytoarchitectonicAxis]]
+[[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Fusion]]
 [[Environmental_Capability_Context]]
 [[ErrorSuppressedPipeline]]

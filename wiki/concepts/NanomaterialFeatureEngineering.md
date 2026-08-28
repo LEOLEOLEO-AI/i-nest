@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
+[[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Heterogeneous_Integration]]

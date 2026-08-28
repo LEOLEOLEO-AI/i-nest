@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[CriticalPhaseTransitionStatisticalTest]]
 [[Criticality]]
 [[DataProvenanceIntegrity]]
 [[Deep_Network_Architecture_Invariant]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdiabaticMultimodeBend]]
 [[ArbitraryWavefunctionConfigurability]]
+[[BigBrainCellularAxis]]
 [[CST_Equation]]
 [[CST_Intelligence_Emergence]]
 [[CellEmergence]]
@@ -52,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalFeatureInvariance]]
 [[ViewDependentAppearance]]
 [[complex system]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neural_Network_Quantum_State_Transfer_Learning]]
 [[Nonlinear_Gain]]
+[[OpticalNonlinearity]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[iNEST]]

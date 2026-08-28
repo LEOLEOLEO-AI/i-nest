@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Non_Von_Neumann_Architecture]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SpinalHDL_DSL]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

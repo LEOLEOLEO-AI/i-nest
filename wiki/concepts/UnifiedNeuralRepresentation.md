@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[Battlefield_AI_Deployment]]
 [[Battlefield_Medicine_Neuromorphic_Integration]]
+[[CST_Theory_V27_FINAL]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[Swarm_Coordination]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

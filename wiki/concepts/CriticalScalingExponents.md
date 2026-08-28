@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[Analog_InMemory_Processing]]
 [[Asymptotic_Exact_Solution]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[DataCenter_Chip_Logic_Compression]]
 [[DeepThermalization]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

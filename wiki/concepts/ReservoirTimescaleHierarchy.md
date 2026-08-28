@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[C_elegansConnectomeAnalogy]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Connectome]]
 [[Dynamical_State_Space]]
 [[Epithelial_Barrier_Integrity]]
 [[GradientFreeLowRankTraining]]

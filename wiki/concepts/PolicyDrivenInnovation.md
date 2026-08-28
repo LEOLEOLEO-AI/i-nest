@@ -24,11 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[BurstInterleaving]]
 [[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
 [[DARPA_Technology_Incubation]]
 [[DelayCodedWorkingMemory]]
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
 [[Military_AI_Revolution]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecurrentOscillatoryComputation]]
 [[Spiking_Neural_Network]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic spiking]]
 [[pipelined processor]]
+[[soc]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

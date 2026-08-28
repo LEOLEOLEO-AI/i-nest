@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptersInSpikingNetworks]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[FirstPrinciples_Derivation]]
 [[FirstSpikeTime]]
 [[GroupCoding]]
 [[Neuromorphic_Computing]]

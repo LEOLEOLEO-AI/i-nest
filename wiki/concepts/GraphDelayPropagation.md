@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BitPrecisionAwareScheduling]]
 [[Closed_Loop_Neuromodulation]]
+[[CognitiveTaskonomy]]
 [[Complex_System_Theory]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Semantic_Least_Energy_Principle]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

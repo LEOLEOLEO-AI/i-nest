@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalNetworkPartitioning]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[NCL神经计算定律详解]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[NegotiationAwareRouting]]
 [[Network_Topology_Design]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

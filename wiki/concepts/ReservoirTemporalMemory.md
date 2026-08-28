@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[UniversalIntelligence_Emergence]]
 [[iNEST]]
+[[待分类]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

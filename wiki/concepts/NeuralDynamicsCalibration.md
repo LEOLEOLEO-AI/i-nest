@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ProbabilisticSpikingNeuralNetwork]]
 [[SNN]]
+[[ScalableTraining]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

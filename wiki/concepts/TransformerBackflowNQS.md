@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[EventDrivenAutoregression]]
 [[Heterogeneous_Integration]]
 [[SNN]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1M1T1R_SynapticNeuron]]
 [[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
 [[ActionPrototypeClustering]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[BandedConnectivityModel]]
 [[BigBrain3DHistology]]
 [[Neuromorphic_Computing]]
+[[Spiking_Neural_Network]]
 [[biologically plausible learning rules]]
 [[iNEST]]
 

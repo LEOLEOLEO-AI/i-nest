@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Synaptic_Weighting]]
 [[Attention_Residuals]]
 [[ChipletWaferInterconnectTopology]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
 [[chiplet interconnect]]
+[[iNEST]]
 [[temporalComplexity]]
 [[待分类]]
 

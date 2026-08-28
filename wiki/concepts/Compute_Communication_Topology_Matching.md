@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_Route]]
 [[Alpha_Computation_Consistency]]
 [[AndersonTransition]]
+[[CavityMethodAnalysis]]
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
 [[Computation_Access_Routing]]

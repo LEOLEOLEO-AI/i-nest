@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AINext_Initiative]]
+[[CoexistencePhaseTransition]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CouplingTopologyInducedDynamics]]

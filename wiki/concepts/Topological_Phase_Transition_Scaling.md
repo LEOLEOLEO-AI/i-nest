@@ -34,14 +34,15 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[System_Level_Utility_Control]]
 [[TCC]]
+[[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

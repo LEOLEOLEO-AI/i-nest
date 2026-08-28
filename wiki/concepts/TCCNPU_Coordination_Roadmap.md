@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[Baseline_Draft_Status]]
+[[CellEmergence]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[ErrorSuppressedPipeline]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[LIF_Neuron_Model]]
 [[MemristiveReservoirBranchPrediction]]
+[[Memristive_InMemory_Computing]]
 [[Memristor_Synapse]]
 [[PhysicalReservoir]]
 [[Reservoir_Computing]]

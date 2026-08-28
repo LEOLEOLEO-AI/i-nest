@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
+[[ProjectiveMeasurementRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 

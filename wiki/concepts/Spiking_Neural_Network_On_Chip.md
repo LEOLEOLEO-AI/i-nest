@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BioPlausiblePredictiveCoding]]
 [[ContinuousTimeSNN]]
 [[Criticality]]
-[[Criticality_Based_Feature_Extraction]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]

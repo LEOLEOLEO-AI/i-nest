@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[QuantumCircuitCompression]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SharedAssociativeMemory]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[causal emergence]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Gut_Brain_Immune_Network]]
 [[Interconnect_Routing]]
 [[MemoryDrivenInterconnect]]
+[[Memristive_Interconnect]]
 [[MoE_Routing]]
 [[NestedRepresentation]]
 [[NeuromorphicHardware]]

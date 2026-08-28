@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[AnteHoc_Explainability]]
 [[BifurcationCandidate]]
 [[CST_Spatiotemporal_Complexity]]
+[[CST计量仪]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

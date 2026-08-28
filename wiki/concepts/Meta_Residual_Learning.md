@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SDI_STDP]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]

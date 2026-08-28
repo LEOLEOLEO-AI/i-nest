@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
 [[Core_Spacetime_Tensor]]
+[[ErrorSuppressedPipeline]]
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirComputing]]
 [[ReproducibleReservoirDynamics]]

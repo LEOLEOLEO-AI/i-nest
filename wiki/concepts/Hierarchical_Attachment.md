@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[PhysicalSubstrateReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Reservoir_Computing]]
+[[ScalableNeuromorphicTopology]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

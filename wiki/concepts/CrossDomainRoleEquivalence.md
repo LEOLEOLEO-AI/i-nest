@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Network_Representation_Transfer]]
 [[Edge_AI_Acquisition_Consolidation]]
 [[ExactRateChaosTransition]]
+[[Localized_Feedback_Array]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

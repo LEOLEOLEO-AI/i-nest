@@ -33,8 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[ChannelCountScaling]]
 [[CongestionAwarePathSelection]]
 [[CriticalityInducedTopology]]
+[[Criticality]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Network_Topology_Design]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 
 ## Sources

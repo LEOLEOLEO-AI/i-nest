@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
+[[BioInspiredInterception]]
 [[BranchingRatio]]
 [[BulletTrainScheduling]]
 [[Continuous_Control_Spiking_Stability]]

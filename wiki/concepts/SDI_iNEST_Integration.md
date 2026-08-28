@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[IncidenceBasedRandomWalk]]
 [[Intelligence_Emergence]]
 [[MitigationLayers]]
 [[Network_Topology_Design]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[neuromorphic computing]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

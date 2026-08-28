@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN_to_SNN_Conversion_Error_Amplification]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[Avoided_Criticality]]
+[[BurstGatedRouting]]
 [[Contested_Priors_Mechanism]]
 [[Criticality]]
 [[DynamicTokenSparsity]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neural_Network_Quantum_State_Transfer_Learning]]
+[[Quantum_Spin_Glass]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]

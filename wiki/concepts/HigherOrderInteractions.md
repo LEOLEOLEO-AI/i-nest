@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
+[[Analog_InMemory_Processing]]
 [[Avalanche_Dynamics]]
 [[BiasEvaluationMetrics]]
 [[Causal_Clinical_Reasoning]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

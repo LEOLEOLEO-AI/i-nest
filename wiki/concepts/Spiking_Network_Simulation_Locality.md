@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
+[[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
 [[NeuromorphicBrainInterface]]
 [[NeuromorphicHandwritingRecognition]]

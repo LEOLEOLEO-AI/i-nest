@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphGeometryAlignment]]
 [[GroupSynchronization]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Loihi2_SpikeEncoding]]
 [[Memristive_STDP]]
 [[Neuromorphic_Chiplet]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[InSitu_Compute]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[RoutingBasedComputation]]
 [[TCC]]
 [[WirelessSplitComputing]]
 

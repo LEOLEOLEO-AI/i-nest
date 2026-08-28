@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
+[[NoC_EventRouting]]
 [[SparseTemporalEncoding]]
 [[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ScaleFreeNetwork]]
 [[SmallWorldNetworks]]
+[[SparseTemporalEncoding]]
 [[Spiking_Neural_Network]]
 [[Technology_Disparity_Offset]]
 [[Topology_Centric_Neuromorphic]]

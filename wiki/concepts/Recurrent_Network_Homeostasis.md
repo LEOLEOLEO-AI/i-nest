@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SpikeEncodingLatency]]
 [[SpikeEncoding]]
+[[SpikeEventScheduling]]
 [[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

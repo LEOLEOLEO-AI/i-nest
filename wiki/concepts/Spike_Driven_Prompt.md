@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFrequencyResonateAndFire]]
 [[Agent_Interaction_Sequencing]]
 [[Avoided_Criticality]]
+[[BurstGatedRouting]]
 [[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]

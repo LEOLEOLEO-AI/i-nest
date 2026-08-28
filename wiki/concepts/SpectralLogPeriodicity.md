@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[1024_Card_SuperNode]]
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
 [[CST_CoordinationMechanism]]

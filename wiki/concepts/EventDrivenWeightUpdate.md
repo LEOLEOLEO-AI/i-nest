@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NonEquilibriumComputing]]
 [[Nonlinear_Gain]]
+[[OpenSource_Neuromorphic_Framework]]
 [[PhaseLockedTopologyMapping]]
 [[Recurrent_Network_Homeostasis]]
 [[RecursiveSelfReferentialArchitecture]]

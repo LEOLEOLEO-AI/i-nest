@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
+[[CommunicationPrimitiveTopologyCoupling]]
 [[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NonvisualGroundClassification]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ChaoticAttractorTopology]]
 [[Combinatorial_Optimization_Readout]]
 [[CompleteConnectomeDynamics]]
+[[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[OpenSource_Neuromorphic_Framework]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[SpikePacketRouting]]

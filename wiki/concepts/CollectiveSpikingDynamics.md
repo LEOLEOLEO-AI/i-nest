@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[ST_SNN]]
 [[SpikeEncodingLatency]]
+[[SpikeEventScheduling]]
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]

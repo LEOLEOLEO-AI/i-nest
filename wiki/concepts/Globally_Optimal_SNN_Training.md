@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DivergentHigherAreaRanking]]
 [[Fatigue_SpikePattern]]
+[[HardwareAware_DesignSpace]]
 [[Layered_Attractive_Hubbard_Model]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

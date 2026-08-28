@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ChiralSurfaceFermiProjection]]
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
+[[ComputationalProcessReuse]]
 [[GraphTopologyAnalysis]]
 [[Heterogeneous_Integration]]
 [[InformationSciences_Division]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

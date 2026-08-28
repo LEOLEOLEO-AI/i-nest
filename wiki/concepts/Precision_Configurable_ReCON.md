@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[Adaptive_Deep_Brain_Stimulation]]
 [[AnisotropicSymmetryBreaking]]
+[[ArtificialProprioception]]
 [[CirculateFiringNeuron]]
 [[CognitiveFeedbackLoop]]
 [[CompetitiveEdgeRewiring]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

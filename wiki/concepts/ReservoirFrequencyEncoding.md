@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
+[[Biomanufacturing_Control_Loop]]
 [[Complex_System_Theory]]
 [[ConnectivityDerivedReservoir]]
 [[Contested_Prior_Resolution]]

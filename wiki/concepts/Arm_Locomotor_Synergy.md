@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DeepSpikingEnsembleLayers]]
 [[Deep_SNN_Trainability]]
+[[DendriticTaskPartitioning]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

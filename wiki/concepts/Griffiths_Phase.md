@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[CST_Spatiotemporal_Coefficient]]
 [[CeYIGMagnetoOpticalIsolator]]
+[[ChannelCountScaling]]
 [[Complex_System_Theory]]
 [[Griffiths phase]]
 [[Network_Topology_Design]]

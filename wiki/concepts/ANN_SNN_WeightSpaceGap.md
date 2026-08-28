@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[PowerLawScaling]]
 [[RealTimeImageToEventConversion]]
 [[SNN]]
+[[SNN_Config_Sensitivity]]
 [[ST_SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

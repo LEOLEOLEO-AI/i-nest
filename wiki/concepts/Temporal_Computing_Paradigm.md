@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Selection_Theorems]]
 [[SpikeCodedFeatureAssociation]]
 [[SpikeEncoding]]
+[[SpikeTimingDependentPlasticityForTracking]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

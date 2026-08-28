@@ -32,12 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[ComplexEcosystemDynamics]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Coupling_Strength_Encoding]]
 [[DendriticReservoirState]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
-[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

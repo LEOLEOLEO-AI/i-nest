@@ -23,8 +23,10 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveEntanglementManagement]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Avoided_Criticality]]
+[[Catastrophic_Forgetting_Mitigation]]
 [[Cognitive_Relapse_Decoupling]]
 [[Critical_Region_Extension]]
+[[Criticality]]
 [[DTGA]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
@@ -33,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]
+[[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]
 

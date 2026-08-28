@@ -45,6 +45,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[MultiplicativeGain]]
+[[NCL神经计算定律详解]]
 [[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]

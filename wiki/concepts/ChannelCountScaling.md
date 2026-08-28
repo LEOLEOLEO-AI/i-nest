@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuroRing_Topology]]
 [[Neuromorphic_Computing]]
 [[OpticallyWritableAtomicVaporMemory]]
+[[ReproducibleReservoirDynamics]]
 [[TCC]]
 [[iNEST]]
 [[类脑芯片]]

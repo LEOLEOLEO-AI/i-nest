@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AnteHoc_Explainability]]
 [[Banded_NonHermitian_Matrix]]
 [[CST计量仪]]
+[[CausalIntegrationPhi]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

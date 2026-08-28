@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_Bond]]
+[[SDI_SNN]]
 [[SDI_SNN_Interconnect]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

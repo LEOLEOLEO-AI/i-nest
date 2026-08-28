@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicReconfigurationForFaultTolerance]]
 [[DynamicTopologyMapping]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGABasedNeuromorphic]]
 [[Intelligence_Emergence]]
 [[MemristiveSynapse]]
 [[Memristive_Topology]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Theory]]
 [[GradientFreeTraining]]
 [[Heterogeneous_Integration]]
+[[Hyper_Dimensional_Computing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

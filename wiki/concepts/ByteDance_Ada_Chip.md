@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]
 [[Memristive_STDP]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Innovation_Center_Framework]]
 [[Network_Spatiotemporal_Synergy]]
@@ -48,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]
-[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

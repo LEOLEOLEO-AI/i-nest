@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[ManyBodyLocalizationThermalizationDuality]]
+[[ManyBodyLocalization]]
 [[MemristiveSignedCouplings]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]

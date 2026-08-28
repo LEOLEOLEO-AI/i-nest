@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[InNetworkSignalRecovery]]
 [[Intelligence_Emergence]]
+[[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

@@ -35,8 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Nanomaterial_Discovery_ML]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ProjectiveMeasurementRouting]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[neuromorphic computing]]
 
 ## Sources

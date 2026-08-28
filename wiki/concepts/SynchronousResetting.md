@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[STDP_MemristiveLearning]]
 [[STDP_Plasticity]]
+[[SpikeTimingDependentPlasticityForTracking]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Temporal_Computing_Paradigm]]

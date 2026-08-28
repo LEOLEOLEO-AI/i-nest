@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[IntegratedSensingFusion]]
 [[Intelligence_Emergence]]
 [[MeanFieldSpinGlass]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

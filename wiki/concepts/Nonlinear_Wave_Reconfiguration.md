@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Accessibility_Plasticity]]
+[[Active_Inference_Topology]]
 [[AdiabaticModeEvolution]]
 [[AmoebaInspiredLocomotion]]
 [[CST_Equation]]
@@ -30,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexTopologicalStructures]]
 [[Complex_System_Theory]]
 [[DTGA]]
-[[FunctionalInterfaceBlocks]]
+[[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
+[[AutogradCompatibleSpiking]]
 [[BiSpikCLM]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]

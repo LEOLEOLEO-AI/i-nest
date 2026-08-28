@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[DiscreteSTDP]]
+[[EmergentAttractorStability]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenSpectralProcessing]]
 [[ExactFiringRateModel]]

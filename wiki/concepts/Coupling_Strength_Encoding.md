@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDensityControl]]
 [[AdaptiveNetworkResilience]]
 [[BioInspired_Interception_Control]]
+[[CertifiedBifurcationDetection]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[Continual_Learning_Topology]]

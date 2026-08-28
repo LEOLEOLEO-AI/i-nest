@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
 [[Accessibility_Plasticity]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[Interconnect_Routing]]

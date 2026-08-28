@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[VonEconomoNeuron]]
 [[VonEconomoNeurons]]
+[[iMESO_PhysicalCarrier]]
 [[iNEST]]
 
 ## Sources

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
+[[Meta_Residual_Learning]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_computing]]
 [[Nonlinear_Gain]]

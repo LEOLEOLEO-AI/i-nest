@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[AdjointWaveControl]]
 [[AnalogDomainCompressiveSensing]]
 [[AndersonTransition]]
 [[Course_Based_FPGA_Projects]]

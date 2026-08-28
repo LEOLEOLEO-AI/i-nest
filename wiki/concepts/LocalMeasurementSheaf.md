@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonLocalizationTopology]]
 [[AnomalousSpinTransport]]
 [[Architectural_Conditioning]]
+[[BoseCondensateNeuralAnalogy]]
 [[CST计量仪]]
 [[Cauchy_Aczel_Uniqueness]]
 [[Complex_System_Theory]]

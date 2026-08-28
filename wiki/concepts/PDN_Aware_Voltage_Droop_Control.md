@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[3D_IC_Stacking]]
+[[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
 [[CMOS_Memristor_Devices]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -36,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[In_Package_Neuromorphic_Integration]]
 [[Memristor_Synapse]]
+[[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[Process_Recycling_Paradigm]]
 [[TCC]]
 

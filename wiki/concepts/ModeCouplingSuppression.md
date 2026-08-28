@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[3D_Integration]]
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[AnalogDomainCompression]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Die_to_Die_Protocol]]
 [[DirectConnect_Topology]]
 [[DualSided_3D_Integration]]
+[[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

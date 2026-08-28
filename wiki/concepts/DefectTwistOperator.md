@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Topology]]
 [[NCL神经计算定律详解]]
 [[Nat_Hum_Behav_用「全拓扑网络」重塑视皮层地图]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

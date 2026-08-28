@@ -31,6 +31,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[EpidemicThreshold]]
 [[Intelligence_Emergence]]
 [[NICE_开启类脑智能新范式_从连接复杂度到智能涌现]]
+[[Nature_Computational_Science_用AI发现高维复杂网络的动力学公式]]
+[[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

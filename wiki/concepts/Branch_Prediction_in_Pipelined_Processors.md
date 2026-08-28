@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AthermalDynamics]]
 [[BrainInspiredArchitecture]]
+[[Compact_Sequence_Encoding]]
 [[EventDrivenTemplateUpdate]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[AnisotropicGaussianPrimitives]]
+[[CollectiveSpikingDynamics]]
 [[IntegratedInformationFreeEnergyBridge]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

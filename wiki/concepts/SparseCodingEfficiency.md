@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Speech_Tokenizer]]
 [[SNN]]
+[[Spike_Event_Driven_Attention]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]

@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ExplainableEnergyAI]]
 [[Intelligence_Emergence]]
 [[ManyBodyLocalizationThermalizationDuality]]
+[[ManyBodyLocalization]]
 [[MemristiveSignedCouplings]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]

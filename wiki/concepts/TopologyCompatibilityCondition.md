@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdiabaticMultimodeBend]]
+[[AdsorptionBiosorptionHybrid]]
 [[AnalogDomainCompression]]
 [[AndersonTransition]]
 [[AvalancheBranchingRatio]]

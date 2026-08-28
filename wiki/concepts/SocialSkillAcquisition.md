@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RateEncodedVisualPlaceRecognition]]
+[[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Soc]]
 [[Spike_Encoding_of_fMRI]]

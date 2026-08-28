@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[pipelined processor]]
 [[reservoir computing]]
+[[基于忆阻器的储备池图神经网络_RGNN_离子与电子相互作用高效建模研究]]
 [[忆阻器]]
 
 ## Sources

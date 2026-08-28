@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ApplicationScenarioReconstruction]]
 [[AstrocyteInspiredRepair]]
 [[AtomicVaporNonlinearity]]
+[[Biomanufacturing_Control_Loop]]
 [[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
 [[Crystallized_Neural_Manifolds]]

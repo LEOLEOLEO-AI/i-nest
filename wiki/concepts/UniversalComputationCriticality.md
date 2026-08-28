@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
 [[AINext_Initiative]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[Complex_System_Theory]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Long_Range_Interactions]]

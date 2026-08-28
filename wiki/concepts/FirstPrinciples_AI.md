@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Computing]]
 [[NeurovascularUnitEngineering]]
+[[NeurovascularUnit]]
 [[Open_Source_Research_Stack]]
 [[QuantumReservoirMemoryCapacity]]
 [[Readout_Weight_Training]]

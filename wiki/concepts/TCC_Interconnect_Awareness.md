@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[AnalogDomainCompression]]
 [[ApproximationFidelityTradeoff]]
+[[AttractorConvergenceAnalysis]]
 [[BisectionBandwidthBound]]
 [[BisectionBandwidthMetric]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -40,8 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
-[[TCC_Interconnect_Aware]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

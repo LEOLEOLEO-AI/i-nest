@@ -22,12 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[CorticalWaveRouting]]
+[[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Bond]]
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Synaptic_Motifs]]
 [[Memristive_Topology]]
 [[Moderate_Correlation_Regime]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]

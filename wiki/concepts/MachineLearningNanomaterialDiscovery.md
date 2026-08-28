@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Order_Flexibility_Duality]]
 [[QuantumKernelMethods]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[IntrinsicTimingSTDP]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
+[[On_Chip_STDP_Learning]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

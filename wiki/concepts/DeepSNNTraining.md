@@ -21,12 +21,14 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[AddressRedundancyElimination]]
 [[AnisotropicGaussianPrimitives]]
 [[Contested_Prior_Resolution]]
 [[DiscreteContinuous_Unification]]
 [[Distributed_Spike_Communication]]
 [[FPGA_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
+[[Interconnect_Routing]]
 [[MagnitudePhaseComputationalModel]]
 [[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]

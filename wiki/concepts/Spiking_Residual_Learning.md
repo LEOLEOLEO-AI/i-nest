@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[EnergyEfficientRestoration]]
 [[EventDrivenInference]]
 [[Event_Driven_Architecture]]
+[[FunctionalEnsemble]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SpikeBasedNeuralRadianceField]]

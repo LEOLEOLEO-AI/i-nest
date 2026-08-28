@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
 [[Bioavailability_Enhancement]]
+[[CST计量仪]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[vLLM_plugin_FLSDI]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spike_Residual_Connection]]
 [[SpikingMot]]
+[[SpikingMotorControl]]
 [[SpikingMuscleActivation]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

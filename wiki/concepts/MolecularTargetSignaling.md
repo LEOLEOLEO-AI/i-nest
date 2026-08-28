@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[Reservoir_Computing]]
 [[Swarm_Coordination]]
+[[TemporalEchoMemory]]
 [[iNEST]]
 
 ## Sources

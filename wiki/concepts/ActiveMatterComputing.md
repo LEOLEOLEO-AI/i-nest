@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Microbiome_Immune_Endocrine_Interplay]]
+[[NCL神经计算定律详解]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic substrate]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

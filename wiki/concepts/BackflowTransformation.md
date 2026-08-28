@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ArbitraryWavefunctionConfigurability]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[Brain_Connectome]]
 [[CST_MasterEquation]]
 [[Complex_System_Theory]]

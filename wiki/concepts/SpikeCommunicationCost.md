@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MobilityEdge]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]

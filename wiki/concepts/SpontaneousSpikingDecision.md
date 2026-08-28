@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]
-[[CriticalityDrivenStateTransition]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

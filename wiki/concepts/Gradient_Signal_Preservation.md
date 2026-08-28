@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_EventRouting]]
+[[RobustnessToNoiseInSNN]]
 [[SNN]]
 [[SpikeBackpropagation]]
 [[SpikeBasedGradientDescent]]

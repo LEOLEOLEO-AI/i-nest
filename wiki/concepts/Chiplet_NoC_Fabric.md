@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Interconnect]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[advanced packaging]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

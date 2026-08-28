@@ -39,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TwoDimensionalTransport]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Adjoint_Gradient_Propagation]]
 [[AdversarialSpikePerturbation]]
 [[CrossLayer_SignalRouting]]
+[[EarlyVisualCortexAliasing]]
+[[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
 [[SNN]]

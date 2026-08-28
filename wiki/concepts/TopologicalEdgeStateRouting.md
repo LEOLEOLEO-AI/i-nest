@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[术语对照表]]
 [[涌现]]
 [[神经网络]]
 

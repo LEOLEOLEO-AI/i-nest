@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Compressed_Glass_Network]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CouplingMatrixRecovery]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[Dynamic_Expert_Fusion]]

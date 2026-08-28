@@ -46,11 +46,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[OpportunisticRoutingRL]]
+[[OpportunisticRouting]]
 [[RecursiveSelfReferentialArchitecture]]
 [[catastrophic forgetting]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

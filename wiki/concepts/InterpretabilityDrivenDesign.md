@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[Spiking_Neural_Network]]
+[[TriAxiomCalibration]]
 [[iNEST]]
 [[spiking neural network]]
 

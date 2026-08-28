@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bioavailability_Enhancement]]
+[[CST计量仪]]
 [[CirculateFiringNeuron]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

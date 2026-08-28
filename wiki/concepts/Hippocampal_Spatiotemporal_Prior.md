@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[GNN图神经网络，非结构化数据分析利器！]]
 [[Intelligence_Emergence]]
+[[MatrixShapeToParallelismMapping]]
 [[MemoryFormation]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
 [[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporal sequence learning]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

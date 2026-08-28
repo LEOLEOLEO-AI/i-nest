@@ -73,7 +73,17 @@
       "test_method": "建立层间连接模型，对比2D平面布局的信息传递效率",
       "created": "2026-08-24",
       "source_bridge": "3DIC_Neural_Stacking"
+    },
+    {
+      "id": "H10",
+      "title": "TCC×iNEST: 脑连接组拓扑模式可启发晶圆级NoC最优拓扑设计",
+      "status": "proposed",
+      "evidence": "Cross-domain bridge: Topology_Brain_Connectome (strength=101)",
+      "rationale": "大脑的小世界/模块化拓扑是亿年优化的结果，直接移植到芯片设计",
+      "test_method": "用连接组数据生成NoC拓扑，vs mesh/torus对比性能",
+      "created": "2026-08-29",
+      "source_bridge": "Topology_Brain_Connectome"
     }
   ],
-  "last_updated": "2026-08-27T18:31:23.070499"
+  "last_updated": "2026-08-29T03:30:48.419988"
 }

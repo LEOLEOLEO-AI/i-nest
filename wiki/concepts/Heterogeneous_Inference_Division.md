@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[InMateriaComputing]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[causal emergence]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

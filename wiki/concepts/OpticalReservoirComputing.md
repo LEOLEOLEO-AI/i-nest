@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Reservoir_Computing]]
 [[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
+[[ShortTermMemoryReservoir]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]
 [[neuromorphic computing]]

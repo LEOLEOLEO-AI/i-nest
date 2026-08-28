@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SelectorFreeHopfieldNetwork]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[TemporalSpikeAssociation]]
 [[complex system]]
 [[iNEST]]
 [[neuromorphic computing]]

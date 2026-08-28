@@ -35,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[EMIB_Bridge]]
 [[HeterogeneousSiliconNitridePlatform]]
 [[Heterogeneous_3D_Stacking]]
+[[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]
+[[Network_on_Chip]]
 [[TCC]]
 
 ## Sources

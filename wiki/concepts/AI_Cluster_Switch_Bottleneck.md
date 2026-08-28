@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
+[[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]

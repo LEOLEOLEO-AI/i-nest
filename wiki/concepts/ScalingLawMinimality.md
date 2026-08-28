@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinatorialOptimizationReservoirMapping]]
 [[Course_Based_FPGA_Projects]]
 [[ElasticSpikingTransformer]]
+[[ErrorSuppressedPipeline]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]

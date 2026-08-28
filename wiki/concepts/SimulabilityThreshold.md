@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Generalization_Bound_Spectra]]
 [[Intelligence_Emergence]]
 [[MasterEquationRG]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Representation_Learning_Generalization]]

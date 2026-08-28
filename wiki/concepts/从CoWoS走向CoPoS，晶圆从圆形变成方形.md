@@ -38,4 +38,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
+[[复杂度的计算 (1)]]
 [[涌现]]

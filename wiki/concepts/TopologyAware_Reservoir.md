@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Spatiotemporal_Complexity]]
 [[CST_Spatiotemporal_Complexity_Theorem]]
 [[CST_Theory]]
+[[CST_Theory_Integration]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]

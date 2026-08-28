@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Crossbar_Array]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[OneDimensionalLongRangeInteractions]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ReproducibleReservoirOutput]]
 [[Reservoir_Computing]]

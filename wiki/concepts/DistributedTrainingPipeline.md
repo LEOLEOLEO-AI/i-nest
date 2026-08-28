@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectCoDesign]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAsComputation]]
+[[GPU_Bottleneck_Relief]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
 [[InterconnectAwarePartitioning]]

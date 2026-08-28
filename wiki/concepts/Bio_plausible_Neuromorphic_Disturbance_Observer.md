@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[AnytimePointCloudRecognition]]
 [[BrainBodyResonance]]

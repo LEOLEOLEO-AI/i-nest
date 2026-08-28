@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AstrocyteInspiredRepair]]
 [[BigBrainCellularAxis]]
+[[BrownianCastleInterfaces]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]

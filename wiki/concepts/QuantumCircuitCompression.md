@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SharedAssociativeMemory]]
 [[SiC_GaN_Power_Integration]]
 [[SparseTemporalEncoding]]
+[[State_Transition_Formalism]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

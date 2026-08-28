@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[CirculateFiringNeuron]]
+[[ComplexValuedSNN]]
 [[Emergent_Intelligence_Threshold]]
 [[EpidemicThreshold]]
 [[Intelligence_Emergence]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndTopologyLearning]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
+[[LocalStructuralPlasticity]]
 [[Memristive_STDP]]
 [[NetworkFeedbackEquilibrium]]
 [[Network_Topology_Design]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

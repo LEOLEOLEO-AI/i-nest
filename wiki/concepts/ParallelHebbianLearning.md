@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
+[[向大脑学习智能本质，探索通用 AI 的另一条可行路径]]
 [[智能涌现]]
 [[涌现]]
 [[神经网络]]

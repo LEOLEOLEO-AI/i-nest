@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[CoreComputationSubspace]]
+[[CulturalDisseminationDynamics]]
 [[DendriticReservoirState]]
 [[EdgeIoTEnergyAwareness]]
 [[EmergentOrder]]

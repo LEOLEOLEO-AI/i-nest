@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkReconfiguration]]
 [[Interconnect_Routing]]
+[[JointFlightRoutingOptimization]]
 [[LLMDrivenPathSelection]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

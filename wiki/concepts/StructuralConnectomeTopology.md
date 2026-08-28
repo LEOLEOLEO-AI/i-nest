@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Connectome]]
 [[Connectome_Inspired_Architecture]]
+[[Connectome_Transfer]]
 [[DataProvenanceIntegrity]]
 [[FrozenRateOperator]]
 [[Memristor_Synapse]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]
 [[Combinatorial_Optimization_Readout]]
+[[ConnectomeWiringSeparability]]
 [[Connectome]]
 [[Cross_Brain_Connectome]]
 [[DataProvenanceIntegrity]]

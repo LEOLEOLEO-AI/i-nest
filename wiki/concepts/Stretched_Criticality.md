@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[Local_Approximation_Dynamics]]
 [[MacroCriticalityEmergence]]
 [[Memristive_Topology]]
 [[Mesoscale_Physical_Computing_Framework]]

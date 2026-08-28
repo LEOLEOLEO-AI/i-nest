@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
+[[MembranePotentialAlignment]]
 [[NeuromorphicGestureEncoding]]
 [[NeuromorphicHardware]]
 [[NeuromorphicHarmonyEncoding]]

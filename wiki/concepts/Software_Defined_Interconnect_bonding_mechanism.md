@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -59,7 +60,6 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Page]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[temporalComplexity]]
 
 ## Sources

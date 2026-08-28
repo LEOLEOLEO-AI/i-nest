@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[SpikeTimingDependentPlasticityForTracking]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Timing_Dependent_Coordination]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

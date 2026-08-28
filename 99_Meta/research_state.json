@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-27T18:31:24.961900",
+  "generated": "2026-08-28T19:27:05.464662",
   "generator": "state_generator.py v1.0",
   "vault": {
-    "total_md": 10911,
+    "total_md": 10930,
     "inbox_00": 193,
-    "processing_20": 561,
-    "tcc_30": 1829,
-    "inest_40": 1221,
+    "processing_20": 565,
+    "tcc_30": 1834,
+    "inest_40": 1232,
     "output_50": 429,
-    "moc_60": 71
+    "moc_60": 73
   },
   "services": {
     "preview_server_8899": false,
@@ -17,38 +17,9 @@
   },
   "pipeline": {
     "ingested_today": {
-      "today": 7,
+      "today": 0,
       "total": 193,
-      "recent": [
-        {
-          "file": "2026-08-27_arXiv_Thermal Tuning Overhead in Wafer-Scale Optical Interconnects.md",
-          "preview": "---\ntitle: \"Thermal Tuning Overhead in Wafer-Scale Optical Interconnects for LLM MoE Training: A Cross-Layer Analysis and Ferroelectric-Based Mitigation\"\ndate: 2026-08-27\nsource: arXiv\ntrack: TCC\nauth"
-        },
-        {
-          "file": "2026-08-27_arXiv_Small-World Communication Fabrics for Neuromorphic Multicore.md",
-          "preview": "---\ntitle: \"Small-World Communication Fabrics for Neuromorphic Multicore-SoCs\"\ndate: 2026-08-27\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.24351v1\ntags: [inbox, ine"
-        },
-        {
-          "file": "2026-08-27_arXiv_Sensor Drift Compensation via Olfactory system and Reservoir.md",
-          "preview": "---\ntitle: \"Sensor Drift Compensation via Olfactory system and Reservoir Computing\"\ndate: 2026-08-27\nsource: arXiv\ntrack: iNEST\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.24288v1\ntags: [inbox"
-        },
-        {
-          "file": "2026-08-27_arXiv_NoC-Out A Formally-verified Network-on-Chip Library for Rule.md",
-          "preview": "---\ntitle: \"NoC-Out: A Formally-verified Network-on-Chip Library for Rule-based Hardware Designs\"\ndate: 2026-08-27\nsource: arXiv\ntrack: TCC\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.24478v1\n"
-        },
-        {
-          "file": "2026-08-27_arXiv_Multi-Source Complex Network Reconstruction via Wasserstein .md",
-          "preview": "---\ntitle: \"Multi-Source Complex Network Reconstruction via Wasserstein Distributionally Robust Optimization and Algorithm Unrolling\"\ndate: 2026-08-27\nsource: arXiv\ntrack: General\nauthors: \nyear: 2026"
-        },
-        {
-          "file": "2026-08-27_arXiv_Low-Latency Activation-Regularized Sparse Neural Operators w.md",
-          "preview": "---\ntitle: \"Low-Latency Activation-Regularized Sparse Neural Operators with Distillation Assistance Towards Real-Time Edge-Deployable Virtual Sensing\"\ndate: 2026-08-27\nsource: arXiv\ntrack: iNEST\nautho"
-        },
-        {
-          "file": "2026-08-27_arXiv_Discovering Adaptive Transmission Programs for Collective In.md",
-          "preview": "---\ntitle: \"Discovering Adaptive Transmission Programs for Collective Innovation\"\ndate: 2026-08-27\nsource: arXiv\ntrack: General\nauthors: \nyear: 2026\nurl: http://arxiv.org/abs/2608.24545v1\ntags: [inbox"
-        }
-      ]
+      "recent": []
     },
     "recent_runs": [
       {
@@ -131,26 +102,17 @@
     ]
   },
   "git": {
-    "uncommitted": 18,
+    "uncommitted": 9,
     "details": [
       "M .obsidian/workspace.json",
-      " M \"20_Processing/20_KnowledgeBase/\\347\\201\\265\\346\\204\\237\\345\\272\\223/\\344\\272\\272\\345\\267\\245\\346\\231\\272\\350\\203\\275\\347\\254\\254\\344\\270\\200\\346\\200\\247\\345\\216\\237\\347\\220\\206\\350\\256\\262\\345\\272\\247_\\347\\263\\273\\347\\273\\237\\346\\200\\273\\347\\273\\223\\344\\270\\216iNEST\\345\\220\\257\\350\\277\\252.md\"",
-      " M \"20_Processing/20_KnowledgeBase/\\347\\201\\265\\346\\204\\237\\345\\272\\223/\\345\\205\\255\\350\\247\\204\\345\\210\\231\\346\\224\\257\\346\\214\\201\\347\\232\\204\\347\\275\\221\\347\\273\\234\\350\\207\\252\\347\\224\\237\\351\\225\\277\\345\\212\\250\\345\\212\\233\\345\\255\\246.md\"",
-      " M \"40_iNEST/41_Theory/09_\\346\\210\\230\\347\\225\\245\\346\\212\\245\\345\\221\\212\\346\\217\\220\\347\\272\\262_\\345\\206\\263\\347\\255\\226\\345\\261\\202_v2.md\"",
-      " M \"40_iNEST/41_Theory/2026-06-07 iNEST Daily Crawl.md\"",
-      " M 40_iNEST/41_Theory/2026-07-09-2607.07373.md",
-      " M \"40_iNEST/41_Theory/2026\\345\\271\\2641\\346\\234\\2109\\345\\217\\267 .md\"",
-      " M 40_iNEST/41_Theory/literature/NeuralComputers_CNC_iNEST_Analysis.md",
-      " M 40_iNEST/41_Theory/literature/PredictiveCoding_BrainLearning_Analysis.md",
-      " M \"40_iNEST/41_Theory/\\343\\200\\212\\347\\247\\221\\345\\255\\246\\344\\271\\213\\350\\267\\257\\343\\200\\213__\\345\\233\\276\\347\\201\\265\\345\\245\\226\\345\\276\\227\\344\\270\\273\\346\\235\\250\\347\\253\\213\\346\\230\\206\\344\\272\\272\\345\\267\\245\\346\\231\\272\\350\\203\\275\\345\\215\\201\\351\\227\\256\\357\\274\\232AI\\344\\274\\232\\347\\273\\237\\346\\262\\273\\344\\272\\272\\347\\261\\273\\345\\220\\227\\357\\274\\237.md\"",
-      " M \"40_iNEST/43_Engineering/\\345\\205\\254\\344\\274\\227\\345\\217\\267\\346\\226\\207\\347\\253\\240\\346\\231\\272\\350\\203\\275\\344\\275\\223.md\"",
-      " M 70_Dashboard/health_watchdog.md",
+      " M .workbuddy/automations/automation-1785546922604/memory.md",
       " M 90_System/state/health_watchdog.json",
       " M 99_Meta/evolution_queue.json",
       " M 99_Meta/hypothesis_registry.json",
       " M 99_Meta/knowledge_compile_state.json",
-      "?? \"60_MOC/00_\\346\\262\\273\\347\\220\\206/KB_Research_Agent_Diagnosis_20260827.md\"",
-      "?? 60_MOC/12_Knowledge_Review_2026-08-27.md"
+      " M 99_Meta/self_evolve_log.json",
+      " M 99_Meta/self_evolve_run_2026-08-28.log",
+      "?? 60_MOC/12_Knowledge_Review_2026-08-28.md"
     ]
   },
   "health": {

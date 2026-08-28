@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_SNN_Trainability]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenModularArchitecture]]
+[[EventDrivenWeightUpdate]]
 [[FlexibleNeuromorphicAccelerator]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

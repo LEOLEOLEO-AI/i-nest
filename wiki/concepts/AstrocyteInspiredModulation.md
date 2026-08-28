@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[CriticalStateSelfOrganization]]
 [[Gaussian_Splatting_Streaming]]
+[[HigherAreaRankingDivergence]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

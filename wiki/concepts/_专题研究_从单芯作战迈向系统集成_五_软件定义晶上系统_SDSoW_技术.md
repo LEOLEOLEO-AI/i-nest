@@ -41,7 +41,6 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[SDSoW_Architecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
-[[TCC与INEST：2026全局论文与专利战略规划清单]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]
@@ -57,4 +56,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？_新课上线]]
 [[神经网络]]

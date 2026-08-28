@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
-[[Criticality_Based_Feature_Extraction]]
+[[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientSNN]]
@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Neuromorphic_Trigger]]
 [[PerturbationSpaceTrajectory]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -43,8 +44,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

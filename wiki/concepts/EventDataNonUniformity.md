@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
 [[Delay_Aware_Autograd_Spiking_Framework]]
+[[EEGSpikeEncoding]]
 [[EventDrivenAutoregression]]
 [[EventDrivenGraphTraversal]]
 [[Event_Driven_Architecture]]

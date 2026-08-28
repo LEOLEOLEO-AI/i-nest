@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CollectiveDynamics]]
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_System_Theory]]
+[[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]

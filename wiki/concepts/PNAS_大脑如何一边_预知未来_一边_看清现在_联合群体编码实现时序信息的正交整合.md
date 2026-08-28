@@ -27,6 +27,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[3DIC_EDA之一_基于Chiplet集成的计算架构]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -46,4 +47,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[大脑复杂性的演化：一个空间、时间和熵的故事]]
 [[智能涌现]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

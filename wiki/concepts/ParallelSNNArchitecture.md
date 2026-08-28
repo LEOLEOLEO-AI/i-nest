@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicBurstingNeuron]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientNeuromorphic]]
+[[Frontier_Innovation_Mapping]]
 [[GradientBasedSpikeLearning]]
 [[Gradient_Free_SNN_Learning]]
 [[Intelligence_Emergence]]

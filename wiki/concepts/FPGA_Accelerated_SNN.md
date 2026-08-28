@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Acceleration]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Interconnect_Routing]]
 [[Master_SDDE]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenSource_Neuromorphic_Framework]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
+[[SDI_SNN_Interconnect]]
 [[SDI_iNEST_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
@@ -48,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[spiking neural network]]
 [[temporalComplexity]]
 

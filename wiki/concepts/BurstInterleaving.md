@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[Baseline_Draft_Status]]
+[[CellEmergence]]
 [[Complex_System_Theory]]
 [[EventDrivenAsynchronousRouting]]
 [[EventDrivenTracking]]

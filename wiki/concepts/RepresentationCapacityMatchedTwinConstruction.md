@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Recurrent_Network_Homeostasis]]
 [[SNN]]
+[[SpikeRateResolution]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[spiking neural network]]

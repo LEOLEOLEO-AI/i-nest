@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DataMovementMinimization]]
 [[Decoupled_Priors]]
 [[Die_to_Die_Protocol]]
+[[DirectConnect_Topology]]
 [[DualSided_3D_Integration]]
 [[DualSided_Routing_Resource]]
 [[Free_Energy_Principle_Network]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

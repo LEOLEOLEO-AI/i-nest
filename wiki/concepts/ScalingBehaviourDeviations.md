@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FC2_Goal_Representation]]
 [[FowlerNordheimAnnealer]]
 [[Fractal_Entanglement_Scaling]]
+[[FrozenRandomFeatureExtractor]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[soc]]
 [[tools]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[NoiseDrivenBackpropReconstruction]]
 [[QuantumFluctuationDrivenTransport]]
+[[QuarantineStrategyOptimization]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

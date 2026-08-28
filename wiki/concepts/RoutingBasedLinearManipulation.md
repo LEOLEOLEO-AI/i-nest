@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeRoutingFabric]]
 [[Spiking_Neural_Network]]
 [[StarvationSuppression]]
+[[SyntheticInertiaProvision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

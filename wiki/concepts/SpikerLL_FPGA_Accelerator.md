@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFlexibilityThreshold]]
 [[AstrocyteInspiredModulation]]
 [[Contested_Priors_Mechanism]]
+[[CrashHotspotForecasting]]
 [[FlexibilityThreshold]]
 [[Localized_Feedback_Array]]
 [[Neuromorphic_Computing]]

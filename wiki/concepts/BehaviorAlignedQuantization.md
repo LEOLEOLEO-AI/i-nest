@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[SynapticProcessingElement]]
 [[iNEST]]
 [[spiking neural network]]
 

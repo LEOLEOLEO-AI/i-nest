@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspiredArchitecture]]
 [[Complex_System_Theory]]
 [[ElasticInferenceScheduling]]
+[[In_Network_Neuromorphic]]
 [[In_Network_Neuromorphic_Learning]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]

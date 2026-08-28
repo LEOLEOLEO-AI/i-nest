@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[InverseDesignedPhotonicRouting]]
 [[KeyMaterialStrategy]]
 [[LargeScalePhotonicIntegration]]
+[[MicroRouter_Embedding]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

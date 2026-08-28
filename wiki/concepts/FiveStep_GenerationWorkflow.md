@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AgenticServiceOrchestration]]
+[[BurstInterleaving]]
 [[Cognitive_Relapse_Decoupling]]
 [[ControlDrivenCriticalFluctuations]]
 [[CounterstreamSignalPropagation]]

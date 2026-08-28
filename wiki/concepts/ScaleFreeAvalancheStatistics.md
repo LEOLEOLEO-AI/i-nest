@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[Analog_InMemory_Processing]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BoseCondensateAnalogy]]
 [[CausalEmergenceCondition]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDrivenVulnerability]]
 [[criticality]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

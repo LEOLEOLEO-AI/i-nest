@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Memristor_Synapse]]
+[[OneDimensionalLongRangeInteractions]]
 [[Process_Recycling_Paradigm]]
 [[TCC]]
 [[iNEST]]

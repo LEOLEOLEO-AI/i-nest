@@ -34,7 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[EMIB_Bridge]]
 [[Glass_Interposer_Integration]]
 [[HeterogeneousSiliconNitridePlatform]]
+[[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
+[[Network_on_Chip]]
 [[TCC]]
 
 ## Sources

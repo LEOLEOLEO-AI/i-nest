@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[BioInspiredLearningRule]]
 [[Biomanufacturing_Control_Loop]]
+[[BranchingRatio]]
 [[ChannelEventSparsity]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]

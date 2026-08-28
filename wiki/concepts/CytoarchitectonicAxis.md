@@ -42,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Photonic_Chiplet_Interconnect]]
 [[QuantumChaos]]
 [[SDI_Bond]]
-[[SDI_STDP_Rule]]
+[[SDI_STDP]]
 [[SDI_TCC_Chiplet]]
 [[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
@@ -58,6 +58,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
+[[Wafer_Scale_Neuromorphic_Integration]]
 [[chiplet interconnect]]
 [[神经网络]]
 

@@ -39,11 +39,11 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[Second_Curve_Wafer_Industry_Platform]]
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Automated_Assessment_Framework]]
 [[BrainBodyResonance]]
 [[BurstTemporalPlasticity]]
+[[ClosedLoopNeuromorphicControl]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[NeuromorphicSafetyBoundary]]

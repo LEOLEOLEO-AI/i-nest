@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[MonitoredQuantumReservoir]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

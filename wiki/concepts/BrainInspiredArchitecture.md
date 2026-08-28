@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[EventDrivenTemplateUpdate]]
 [[Event_Driven_Architecture]]
 [[In_Package_Neuromorphic_Integration]]
 [[InputAdaptiveComputation]]

@@ -40,10 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[In_Package_Interconnect_Trust]]
+[[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
 [[NCCL_CollectivePrimitives]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[Wafer_Scale_Interconnect]]
 [[complex system]]
 [[神经网络]]
 

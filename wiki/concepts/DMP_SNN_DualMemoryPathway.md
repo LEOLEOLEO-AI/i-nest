@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ComplexValuedSNN]]
 [[Complex_System_Theory]]
+[[Deep_SNN_Trainability]]
 [[DeeplySupervisedSpiking]]
 [[Distributed_Spike_Communication]]
 [[FPGASNNMemoryOptimization]]

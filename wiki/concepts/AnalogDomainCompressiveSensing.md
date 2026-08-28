@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Nonlinear_Gain]]
 [[ParallelSNNArchitecture]]
+[[PhysicalSubstrateReservoir]]
 [[QuantumFluctuationDrivenTransport]]
 [[QuarantineCostTradeoff]]
 [[Reservoir_Computing]]

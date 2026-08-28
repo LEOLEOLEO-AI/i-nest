@@ -59,10 +59,10 @@ Auto-extracted concept from raw material compilation.
 [[Technology_Innovation_Platform]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[Topology_Centric_Computing_Paradigm]]
 [[Topology_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 [[temporalComplexity]]
 
 ## Sources

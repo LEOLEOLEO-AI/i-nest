@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderStochasticProcess]]
 [[Hypergraph_Label_Noise]]
 [[Neuromorphic_Computing]]
+[[NoiseRobust_Hyperedge_Aggregation]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Spiking_Neural_Network]]

@@ -29,10 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AsymmetricCoupling]]
 [[ExtinctionDrivenMetastability]]
+[[MemoryDrivenInterconnect]]
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[Personalised_Strategy_Optimisation]]
 [[SpikeAttention]]
+[[Spiking_Neural_Network]]
 [[iNEST]]
 
 ## Sources

@@ -27,7 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
-[[Chiplet_Topology_Encapsulation]]
+[[Chiplet_Topology]]
 [[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[CorticalTypeDiversity]]
@@ -40,10 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[NoCPlacementRoutingCoDesign]]
 [[TCC]]
 [[Topology_Encapsulation]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

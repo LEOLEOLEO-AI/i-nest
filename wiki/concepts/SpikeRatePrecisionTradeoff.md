@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Packaging]]
 [[PairwiseCorrelationConstraint]]
 [[PropertyPredictionModeling]]
 [[SpikeEncoding]]
@@ -54,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[涌现]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

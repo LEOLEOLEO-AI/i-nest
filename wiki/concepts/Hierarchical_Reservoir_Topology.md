@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Epithelial_Barrier_Integrity]]
 [[FirstPrinciples_AI]]
 [[ForwardFluctuationGradient]]
+[[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

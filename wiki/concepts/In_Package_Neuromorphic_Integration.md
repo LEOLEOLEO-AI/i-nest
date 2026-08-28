@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[忆阻器]]
 [[新型计算]]
+[[智能涌现]]
 [[神经形态计算]]
 [[神经网络]]
 [[类脑芯片]]

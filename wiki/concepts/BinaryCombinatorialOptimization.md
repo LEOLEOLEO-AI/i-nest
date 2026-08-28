@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Active_Inference_Architecture]]
 [[AnomalousSpinTransport]]
 [[CorticalWaveRouting]]
+[[FreeEnergyMinimizationRouting]]
 [[Interconnect_Routing]]
 [[InterpolationKernel]]
 [[Nonlinear_Gain]]

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveSTDP]]
 [[Bidirectional_Temporal_Enhancement]]
+[[DiscreteSTDPLearning]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[Event_Driven_Architecture]]

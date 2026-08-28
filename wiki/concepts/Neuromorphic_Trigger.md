@@ -20,7 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Bidirectional_Temporal_Enhancement]]
-[[Criticality_Based_Feature_Extraction]]
+[[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -35,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Sensing]]
 [[PerturbationSpaceTrajectory]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -44,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SequenceAwareSpikingDetection]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingRecurrentCells]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[neuromorphic sensing]]

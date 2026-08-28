@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[Complex_System_Theory]]
 [[Controlled_Release_Kinetics]]
+[[EmergentAttractorStability]]
 [[Emergent_Intelligence_Threshold]]
 [[Endocrine_Modulated_Network_State]]
 [[EventDrivenSpectralProcessing]]

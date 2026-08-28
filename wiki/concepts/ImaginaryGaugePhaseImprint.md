@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AdsorptionBiosorptionHybrid]]
 [[AnomalousSpinTransport]]
 [[BigBrainCellularAxis]]
@@ -50,8 +51,10 @@ Auto-extracted concept from raw material compilation.
 [[TopologyDrivenRouting]]
 [[ViewDependentAppearance]]
 [[chiplet interconnect]]
+[[iNEST]]
 [[Γst_Revision]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

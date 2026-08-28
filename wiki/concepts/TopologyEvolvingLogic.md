@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[CongestionAwareNoCPlacement]]
+[[DynamicServiceComposition]]
 [[Heterogeneous_Integration]]
 [[Logic_Folding]]
 [[Memristor_Interconnect]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

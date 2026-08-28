@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[CST_Equation]]
 [[CST_Exponential_Form]]
+[[CST_Theory]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
 [[Complex_System_Theory]]

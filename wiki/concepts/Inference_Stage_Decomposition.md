@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
+[[4H_SiC_SubstrateProcessing]]
 [[AdaptiveDensityControl]]
 [[AdsorptionBiosorptionHybrid]]
 [[AdvancedPackagingInterconnect]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[advanced packaging]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

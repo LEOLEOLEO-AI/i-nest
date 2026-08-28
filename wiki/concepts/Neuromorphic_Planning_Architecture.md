@@ -21,8 +21,9 @@ Auto-extracted concept from raw material compilation.
 
 [[BiasEvaluationMetrics]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BigBrainCellularAxis]]
 [[Contested_Prior_Resolution]]
-[[Criticality_Based_Feature_Extraction]]
+[[Criticality]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]

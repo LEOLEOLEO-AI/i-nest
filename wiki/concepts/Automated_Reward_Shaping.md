@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveEntanglementManagement]]
 [[AdaptiveFlexibilityThreshold]]
+[[AdaptivePhotonicRouter]]
 [[Alpha_Computation_Consistency]]
 [[AnalogDomainCompressiveSensing]]
 [[Avoided_Criticality]]

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]

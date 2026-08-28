@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayAwareSpikeEventDelivery]]
 [[Emergent_Intelligence_Threshold]]
 [[EnergyEfficientSNN]]
+[[EventDrivenWeightUpdate]]
 [[Event_Driven_Architecture]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]

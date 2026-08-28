@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenAttentionMasking]]
 [[EventDrivenModularArchitecture]]
+[[ExactFiringRateModel]]
 [[FlexibleNeuromorphicAccelerator]]
 [[InfluencePropagationLoop]]
 [[Intelligence_Emergence]]

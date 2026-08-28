@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Strategy]]
 [[EndToEndDesignAutomationFlow]]
+[[EndToEndDesignAutomation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

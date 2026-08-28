@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[AdjointWaveControl]]
 [[CXL_Deployment_Transition]]
+[[CavityMethodAnalysis]]
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
 [[EntanglementAwareRouting]]

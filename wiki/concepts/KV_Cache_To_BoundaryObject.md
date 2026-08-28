@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[HeterogeneousInference]]
 [[Intelligence_Emergence]]
+[[Memory_Technology_Coexistence]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ExactRateNetworkBifurcation]]
 [[FC2_Goal_Representation]]
 [[FowlerNordheimAnnealer]]
+[[Fractal_Entanglement_Scaling]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[soc]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

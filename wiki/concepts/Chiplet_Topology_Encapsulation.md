@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
@@ -38,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Topology_Encapsulation]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

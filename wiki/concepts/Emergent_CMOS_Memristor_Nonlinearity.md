@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[STDP_iNEST_Memristive]]
+[[Spike_timing_dependent_plasticity_learning_rule]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

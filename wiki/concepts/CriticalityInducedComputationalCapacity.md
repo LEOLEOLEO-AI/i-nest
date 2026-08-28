@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[DiscreteContinuous_Unification]]
+[[Efficient_Coding_Constraint]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]

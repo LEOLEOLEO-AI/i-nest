@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumPhase]]
 [[OpenLearningEcosystem]]
 [[Resilient_Satellite_Mesh]]
+[[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[TCC]]

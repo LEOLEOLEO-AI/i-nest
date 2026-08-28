@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[Contested_Prior_Resolution]]
 [[EpidemicThreshold]]
+[[EventCameraTemporalEncoding]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
 [[FormalToolchain]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Workload_Isolation]]
 [[hls4ml_SNN_Conversion]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

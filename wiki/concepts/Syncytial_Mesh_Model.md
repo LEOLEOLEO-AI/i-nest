@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AnomalousSpinTransport]]
 [[Avoided_Criticality]]
+[[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Criticality]]

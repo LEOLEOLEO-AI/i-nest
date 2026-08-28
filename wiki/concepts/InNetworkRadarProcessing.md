@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalNetworkPartitioning]]
 [[InterfaceCentricTopology]]
 [[Memory_Wall]]
+[[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

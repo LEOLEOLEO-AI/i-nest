@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CellularSheaf]]
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
+[[CrossLingualIdiomGraph]]
 [[DynamicServiceComposition]]
 [[GraphTopologyAnalysis]]
 [[In_Package_Neuromorphic_Integration]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

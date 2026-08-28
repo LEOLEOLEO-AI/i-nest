@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Battlefield_AI_Deployment]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_Project_Group_Strategy]]

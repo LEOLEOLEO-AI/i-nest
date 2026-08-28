@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ConsciousnessEngineeringLoop]]
 [[Defense_Industrial_Base_Reshaping]]
+[[EventDrivenAsynchronousRouting]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
 [[GeneralIntelligenceSubstrate]]

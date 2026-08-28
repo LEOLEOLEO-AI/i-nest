@@ -31,12 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Complexity_Emergence]]
 [[Deep_Thermalisation]]
 [[Intelligence_Emergence]]
+[[Machine_Decision_Speed_Advantage]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

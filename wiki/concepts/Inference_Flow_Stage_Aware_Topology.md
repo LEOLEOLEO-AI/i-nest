@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
 [[4H_SiC_SubstrateProcessing]]
+[[AdvancedPackagingInterconnect]]
 [[BarrierConditionedTrajectory]]
 [[Cascading_Failure_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TSVInterconnectReliability]]
 [[TopologyAware_Routing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

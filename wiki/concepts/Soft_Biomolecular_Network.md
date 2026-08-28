@@ -42,9 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Silicon_Neuron_Controller]]
 [[Synaptic_Plasticity]]
+[[Syncytial_Mesh]]
 [[iNEST]]
 [[neuromorphic substrate]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

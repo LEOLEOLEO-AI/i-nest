@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Criticality]]
 [[EventBasedMotionDeblurring]]
+[[FPGA_Neuromorphic_Architectures]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDSoW]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[criticality]]
 [[iNEST]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

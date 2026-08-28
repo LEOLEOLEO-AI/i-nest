@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AutoAssociativeMemoryRobustness]]
 [[BCM滑动阈值]]
 [[Battlefield_Medicine_Neuromorphic_Integration]]
+[[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[NonEquilibriumComputing]]
 [[PhotoInducedCurrent]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -53,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[soc]]
 [[待分类]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

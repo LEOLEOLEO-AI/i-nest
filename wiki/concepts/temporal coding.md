@@ -42,6 +42,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[SDDE_Attractor_Emergence]]
 [[SNN]]
+[[SelectorFreeHopfieldNetwork]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]

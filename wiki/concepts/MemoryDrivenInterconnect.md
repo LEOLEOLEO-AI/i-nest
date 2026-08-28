@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[WaveBasedComputation]]
 [[iNEST]]
 
 ## Sources

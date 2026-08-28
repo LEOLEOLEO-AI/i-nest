@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexEcosystemDynamics]]
 [[Continual_Learning_Topology]]
 [[CorticalTypeDiversity]]
+[[CouplingMatrixRecovery]]
 [[Coupling_Strength_Encoding]]
 [[DTGA]]
 [[DendriticReservoirState]]

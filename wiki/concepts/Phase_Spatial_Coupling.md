@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DivergentHigherAreaRanking]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[HardwareAware_DesignSpace]]
 [[Intelligence_Emergence]]
 [[LatencyCoding]]
 [[Layered_Attractive_Hubbard_Model]]

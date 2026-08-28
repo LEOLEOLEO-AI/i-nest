@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Monolithic_CoIntegration]]
 [[HigherOrderSynchronization]]
 [[In_Package_Neuromorphic_Integration]]
+[[Knowledge_Graph_Navigation]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]
 [[LossSpikePhenomenon]]
 [[MultiQPUSimulation]]

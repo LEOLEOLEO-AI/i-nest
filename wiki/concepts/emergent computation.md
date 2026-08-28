@@ -37,6 +37,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI_Faculty_Forum_2026]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[BackpropFree_Learning]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[Intelligence_Emergence]]
@@ -48,4 +49,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[criticality]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

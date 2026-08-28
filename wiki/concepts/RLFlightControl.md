@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[LLM_Reward_Design]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[OpticalSynapticWeightUpdate]]

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[ByteDance_Ada_Chip]]
 [[CST_Equation]]
+[[Complex_System_Theory]]
+[[Connectome_Transfer]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]

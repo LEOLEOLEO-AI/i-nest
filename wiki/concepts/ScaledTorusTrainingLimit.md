@@ -38,14 +38,17 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Strategy]]
+[[EndToEndDesignAutomationFlow]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
 [[SelfHealing_Interconnect]]
 [[Switch_Fabric_Bottleneck]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

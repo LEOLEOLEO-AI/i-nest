@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[HodgkinHuxleyDynamics]]
 [[InNetworkAgentRewiring]]
+[[InNetworkNeuromorphicEmergence]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

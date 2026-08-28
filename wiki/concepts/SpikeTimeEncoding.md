@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Cytokine_Feedback_Loops]]
+[[EmergentAttractorStability]]
 [[EventCameraPoseInput]]
 [[EventDrivenSpectralProcessing]]
 [[JunctionSignalIntegrity]]

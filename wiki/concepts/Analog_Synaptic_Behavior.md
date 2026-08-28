@@ -43,6 +43,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
+[[SelectorFreeHopfieldNetwork]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[complex system]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[CST_SynergisticCoordination]]
 [[CST_Theory]]
+[[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
 [[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

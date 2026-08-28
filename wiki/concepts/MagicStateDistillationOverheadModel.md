@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Encapsulation_Topology]]
+[[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

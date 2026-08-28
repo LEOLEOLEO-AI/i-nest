@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Allreduce_Latency_Probe]]
 [[BeyondVonNeumannArchitecture]]
+[[CIMWeightUpdateAwareness]]
 [[CapacityScalingLaw]]
 [[CirculateFiringNeuron]]
 [[CompactnessRegularizedFitness]]

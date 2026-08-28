@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PowerLawScaling]]
 [[QuantumReservoirMemoryCapacity]]
+[[ReservoirDiversity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[iNEST]]

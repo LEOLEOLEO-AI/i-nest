@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
 [[AdjointWaveControl]]
+[[CavityMethodAnalysis]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAwareComputeRelocation]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[VectorFlowField]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

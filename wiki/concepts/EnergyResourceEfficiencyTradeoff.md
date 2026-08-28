@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FullyLocalOnlineSNNTraining]]
 [[HeterogeneousSynapticDelays]]
 [[Heterogeneous_Integration]]
+[[In_Package_Neuromorphic_Integration]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

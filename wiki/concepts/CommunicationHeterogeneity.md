@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
@@ -52,8 +53,8 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TCC_iNEST_Interconnect]]
 [[iNEST]]
-[[iNEST_Interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

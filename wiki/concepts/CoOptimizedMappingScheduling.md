@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
+[[BioInspiredInterception]]
 [[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
 [[Contested_Prior_Resolution]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AcademicDevelopmentCoCreation]]
 [[AcceleratedMaterialScreening]]
 [[AnomalousSpinTransport]]
+[[Bosonic_SPT_Phases]]
 [[CSI_Temporal_Dynamics]]
 [[Complex_System_Theory]]
 [[Compressed_Glass_Network]]

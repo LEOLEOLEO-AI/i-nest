@@ -26,12 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
+[[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
-[[NoC_SDI_Integration]]
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[SDSoW]]
@@ -39,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[Wafer_Scale_Topology_Control]]
+[[Wafer_Scale_Topology]]
 [[chiplet interconnect]]
 
 ## Sources

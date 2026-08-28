@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikeEncoding]]
 [[SpikeEventScheduling]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

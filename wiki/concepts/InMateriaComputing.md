@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[Intelligent_Power_Management]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CellEmergence]]
+[[Chiplet_Based_Neuromorphic_Integration]]
 [[CollectiveSpikingDynamics]]
 [[ConductingPolymerDendriteMemory]]
 [[EpidemicThreshold]]

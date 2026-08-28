@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Express_Link_Virtualization]]
 [[Free_Energy_Principle_Network]]
+[[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[InverseDesignedPhotonicRouting]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

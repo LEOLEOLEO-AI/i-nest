@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SimulabilityThreshold]]
+[[TemporalKernel]]
 [[complex system]]
 [[iNEST]]
 

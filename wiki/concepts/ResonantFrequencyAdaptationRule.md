@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
 [[RareEventCoding]]
+[[ResonateAndFireEncoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

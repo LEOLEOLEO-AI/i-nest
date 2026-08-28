@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[AnalogDomainCompressiveSensing]]
 [[CrossLayer_SignalRouting]]
+[[EarlyVisualCortexAliasing]]
+[[Interconnect_Routing]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]

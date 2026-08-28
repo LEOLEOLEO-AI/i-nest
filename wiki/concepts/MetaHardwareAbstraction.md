@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainScaleTopologyExploitation]]
 [[CLINKAsCarrierPrimitive]]
 [[CST_Spatiotemporal_Complexity]]
+[[CST计量仪]]
 [[Capability_Reserve_Index]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -42,13 +43,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SDI_Bond]]
 [[SDI_STDP]]
-[[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

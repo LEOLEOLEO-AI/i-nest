@@ -35,11 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionMap_DifferenceResidual]]
+[[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
-[[Neuromorphic_Sensing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic sensing]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

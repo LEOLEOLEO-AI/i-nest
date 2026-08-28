@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RecurrentOscillatoryComputation]]
 [[SolitonLikeWaves]]
 [[Spatiotemporal_Emergence_Model]]
 [[Spiking_Neural_Network]]

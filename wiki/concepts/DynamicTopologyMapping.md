@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[CrossPopulationCen]]
 [[DendriticTaskPartitioning]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[DynamicReconfigurationForFaultTolerance]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGASpikeImplementation]]
 [[FPGA_Neuromorphic_Architectures]]

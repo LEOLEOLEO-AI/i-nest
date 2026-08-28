@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Topology]]
 [[CommunicationAsComputation]]
 [[Deep_Network_Architecture_Invariant]]
+[[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Mesoscale_Heterogeneous_Integration]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Chiplet_Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[iNEST]]
-[[iNEST_Wafer]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

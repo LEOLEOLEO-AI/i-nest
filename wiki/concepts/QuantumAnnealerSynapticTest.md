@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicNetworkFabric]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PathIntegration]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spiking_Neural_Network]]

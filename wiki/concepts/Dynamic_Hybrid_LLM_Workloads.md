@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
+[[NeuralVariabilityEnhancement]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

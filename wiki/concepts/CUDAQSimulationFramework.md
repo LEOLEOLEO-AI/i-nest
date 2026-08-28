@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
+[[SupervisedHardwareRepair]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[branch prediction]]

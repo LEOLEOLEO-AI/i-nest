@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[EnsembleSparsity]]
 [[Heterogeneous_Integration]]
+[[ImaginaryGaugePhaseImprint]]
 [[InNetworkNeuromorphicEmergence]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]

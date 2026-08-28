@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Resource_Circularity_Protocol]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[Swarm_Intelligence_Maximisation]]
 [[Synaptic_Plasticity]]

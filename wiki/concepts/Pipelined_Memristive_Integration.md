@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AnomalousSpinTransport]]
+[[CouplingMatrixRecovery]]
 [[DARPA_ProjectManager_Model]]
 [[Emerging_CMOS_Memristor]]
 [[InNetworkSignalRecovery]]

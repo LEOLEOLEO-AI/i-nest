@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Military_AI_Revolution]]
 [[NonEquilibriumComputing]]
 [[RateEncodedVisualPlaceRecognition]]
+[[RecurrentOscillatoryComputation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Soc]]
 [[Spiking_Neural_Network]]

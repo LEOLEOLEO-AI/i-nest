@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[WaveBasedInformationRouting]]
 [[complex system]]
 [[iNEST]]
 [[智能涌现]]

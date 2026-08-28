@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
+[[TopologicalPhaseTransition]]
 [[temporalComplexity]]
 [[忆阻器]]
 [[智能涌现]]

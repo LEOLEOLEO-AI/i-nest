@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveFlexibilityThreshold]]
 [[AdaptiveTimeStepTraining]]
+[[Adaptive_Deep_Brain_Stimulation]]
 [[AstrocyteInspiredRepair]]
 [[BioInspiredLearningRule]]
 [[BrainBodyResonance]]

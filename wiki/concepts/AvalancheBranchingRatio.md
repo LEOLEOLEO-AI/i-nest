@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Evolutionary_Computability]]
 [[Exponential_CST_Coupling]]
 [[FlagOS_2_0]]
+[[FlagScale]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]

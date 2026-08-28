@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[ANN_SNN_ConversionError]]
 [[ANN_SNN_WeightSpaceGap]]
+[[CombinedImportanceScoring]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
 [[ExplosiveTransitionThreshold]]
@@ -34,8 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

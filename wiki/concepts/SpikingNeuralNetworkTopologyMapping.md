@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
+[[Event_Driven_Communication]]
 [[InSensorMemoryComputing]]
 [[In_Network_Generative_Inference]]
 [[Intelligence_Emergence]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
+[[SpectralSpikeEncoding]]
 [[SpikeTimingGradient]]
 [[Spike_Encoding_of_fMRI]]
 [[SpikingTopologyEvolution]]

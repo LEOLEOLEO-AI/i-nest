@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Edge_Intelligence]]
 [[Emergent_Intelligence_Threshold]]
 [[FlexibilityThreshold]]
+[[FractalPathEntropy]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Network]]

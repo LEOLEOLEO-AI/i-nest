@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]

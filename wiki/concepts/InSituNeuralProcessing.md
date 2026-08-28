@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[CommunicationHeterogeneity]]
 [[ConductingPolymerDendriteMemory]]
+[[Distributed_Spike_Communication]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]

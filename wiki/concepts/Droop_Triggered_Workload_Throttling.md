@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[DistinguishableHelium4]]
+[[EventDrivenSpectralProcessing]]
 [[Event_Driven_Architecture]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]

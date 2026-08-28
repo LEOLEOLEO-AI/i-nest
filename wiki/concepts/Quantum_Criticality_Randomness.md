@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AlloyDisorderEngineering]]
 [[Avoided_Criticality]]
 [[BioInspiredInterceptionTask]]
+[[BioInspiredInterception]]
 [[BioPlausibleDisturbanceObserver]]
 [[Biologically_Plausible_Learning_Rules]]
 [[Criticality]]

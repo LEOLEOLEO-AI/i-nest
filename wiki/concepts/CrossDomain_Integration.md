@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SiC_GaN_Power_Integration]]
+[[State_Transition_Formalism]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]

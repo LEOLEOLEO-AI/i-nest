@@ -45,9 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[ReproducibleReservoirDynamics]]
+[[Reservoir_Computing]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[ThermallyDrivenSuperparamagnetReservoir]]
 [[chiplet interconnect]]
 [[temporalComplexity]]
 

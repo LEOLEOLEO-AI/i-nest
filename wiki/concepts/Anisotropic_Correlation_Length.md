@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Order_Flexibility_Duality]]
 [[RamanInducedGaugeField]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]

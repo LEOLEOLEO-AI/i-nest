@@ -60,4 +60,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

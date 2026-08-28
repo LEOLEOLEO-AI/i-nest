@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[AstrocyteInspiredRepair]]
 [[AutogradCompatibleSpiking]]
+[[AutomatedQuantizationFramework]]
 [[BiasEvaluationMetrics]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]

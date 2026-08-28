@@ -63,6 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[TemperatureSensitivityControl]]
 [[ThermallyDrivenSuperparamagnetReservoir]]
 [[TopologyFragility]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]

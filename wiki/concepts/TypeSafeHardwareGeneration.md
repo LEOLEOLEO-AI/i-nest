@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Scheduling]]
 [[Complex_System_Theory]]
+[[ComputeRelocationOverhead]]
 [[ConductingPolymerDendriteMemory]]
 [[ConsciousnessEngineeringLoop]]
 [[Heterogeneous_Integration]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

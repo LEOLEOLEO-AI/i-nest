@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_NoC_Interconnect]]
 [[Complex_System_Theory]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
@@ -45,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[iNEST]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

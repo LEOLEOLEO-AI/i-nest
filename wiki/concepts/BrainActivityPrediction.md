@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ErrorSuppressedPipeline]]
 [[Gut_Brain_Immune_Network]]
 [[Hardware_Accelerated_SNN]]
+[[InNetworkNeuromorphicEmergence]]
 [[InNetworkNeuromorphicSimulation]]
 [[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]

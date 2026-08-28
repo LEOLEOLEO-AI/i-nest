@@ -21,7 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[ContinualLearningOnNeuromorphic]]
-[[Criticality_Based_Feature_Extraction]]
+[[Criticality]]
 [[DelayAwareSpikeEventDelivery]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingRecurrentCell]]
 [[SpikingRecurrentCells]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

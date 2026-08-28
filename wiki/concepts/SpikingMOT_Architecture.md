@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[CurrentInjectionSNN]]
 [[Meta_Residual_Architecture]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[SpikingMOT]]

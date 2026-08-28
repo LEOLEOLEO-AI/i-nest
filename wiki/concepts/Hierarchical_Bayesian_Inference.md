@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
+[[GlobalInformationDominance]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -43,12 +44,12 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[TCC]]
-[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

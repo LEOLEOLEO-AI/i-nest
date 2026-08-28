@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
+[[LocalLearning_SynapticUpdate]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

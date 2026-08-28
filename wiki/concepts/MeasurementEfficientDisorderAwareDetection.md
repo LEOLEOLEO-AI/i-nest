@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BosonicFieldTopology]]
 [[CatalyticReactionNetwork]]
 [[Complex_System_Theory]]
+[[DAGGER_Algorithm]]
 [[DisorderAwareDetection]]
 [[Intelligence_Emergence]]
 [[MeasurementEfficientDisorderAware]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[TCC]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

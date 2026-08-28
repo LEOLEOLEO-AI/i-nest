@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Cross_Node_Event_Propagation]]
 [[Deep_Network_Architecture_Invariant]]
+[[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
 [[Emerging_CMOS_Memristor]]
 [[InNetworkAgentRewiring]]

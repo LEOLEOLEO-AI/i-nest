@@ -17,6 +17,7 @@ TCC, iNEST, interconnect, wafer
 ## Related Concepts
 
 [[Ferroelectric_Devices]]
+[[Interconnect_Routing]]
 [[MoE_Routing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]

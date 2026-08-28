@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionarySpikeTimingOptimization]]
 [[MembranePotentialModulation]]
 [[Memristive_STDP]]
+[[NUMA_Balancing_Overhead]]
 [[RecurrentSpikingSocialNetwork]]
 [[SNN]]
 [[STDP_Plasticity]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalSpikeEncoding]]
 [[iNEST]]
+[[神经网络]]
 [[脉冲神经网络]]
 
 ## Sources

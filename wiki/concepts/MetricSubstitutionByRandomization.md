@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdiabaticMultimodeBend]]
+[[AdsorptionBiosorptionHybrid]]
 [[Advanced_Packaging_Route]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
+[[Interconnect_Routing]]
 [[MetricComputationAuthenticity]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
@@ -51,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[scaling laws]]
 [[temporalComplexity]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

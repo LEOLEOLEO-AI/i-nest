@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[3D_Integrated_Chiplet_Stacking]]
 [[AI_Assisted_Energy_Optimization]]
 [[AdaptiveEntanglementManagement]]
 [[Agile_Resilient_Defense_Ecosystem]]

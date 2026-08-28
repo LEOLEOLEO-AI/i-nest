@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[DivergentHigherAreaRanking]]
 [[EventCameraTemporalEncoding]]
+[[HardwareAware_DesignSpace]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]

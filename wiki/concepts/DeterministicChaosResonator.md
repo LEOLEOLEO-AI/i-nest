@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DARPA_ProjectManager_Model]]
 [[DendriticReservoirState]]
+[[Emergent_Abilities]]
 [[Reservoir_Computing]]
 [[complex system]]
 [[reservoir computing]]

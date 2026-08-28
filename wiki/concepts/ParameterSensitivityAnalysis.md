@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Neuromorphic_Architectures]]
 [[FirstPrinciples_Derivation]]
 [[HierarchicalNetworkPartitioning]]
+[[HierarchicalSpikePropagation]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[TCC]]

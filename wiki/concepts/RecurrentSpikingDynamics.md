@@ -47,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[VaCoAl]]
 [[complex system]]
 [[iNEST]]
 [[spiking neural network]]

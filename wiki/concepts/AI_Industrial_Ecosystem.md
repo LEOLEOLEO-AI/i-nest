@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Core_Spacetime_Tensor]]
 [[CorticalTypeDiversity]]
 [[DRBE_MVP_Mainchain]]
+[[DTGA]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Memory_Wall]]

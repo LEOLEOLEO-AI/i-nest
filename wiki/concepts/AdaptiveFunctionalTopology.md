@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[NonreciprocalQuasiperiodicLattice]]
 [[PhotonicSynapticPlasticity]]
+[[ProjectiveMeasurementRouting]]
 [[ReconfigurableSNNTopology]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]

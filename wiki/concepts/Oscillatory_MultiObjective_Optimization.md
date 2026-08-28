@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ClosedLoopNeuromorphicControl]]
 [[Neuromorphic_Computing]]
 [[NoiseInjectionLearning]]
+[[QuantumStateSynapticTrace]]
 [[TCC]]
 [[iNEST]]
 [[temporal computing paradigm]]

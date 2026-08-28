@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BCM滑动阈值]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[emergent computation]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

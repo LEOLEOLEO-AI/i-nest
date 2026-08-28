@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[Interconnect_Routing]]
+[[LossSpikePhenomenon]]
 [[MeasurementInducedPhaseTransition]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]

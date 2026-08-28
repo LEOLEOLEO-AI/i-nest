@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BioPlausiblePredictiveCoding]]
 [[BiologicalNoiseMimicry]]
+[[CombinedImportanceScoring]]
 [[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CoreComputationSubspace]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[neuromorphic computing]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

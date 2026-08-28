@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[BurstGatedRouting]]
 [[ContinualLearningOnNeuromorphic]]
+[[Continuous_Spatiotemporal_State_Propagation]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AddressRedundancyElimination]]
 [[AllOpticalHebbianLearning]]
 [[Analog_Computation]]
+[[CompartmentalNeuronModel]]
 [[ComplexValuedSNN]]
 [[CurrentInjectionSNN]]
 [[DARPA_ProjectManager_Model]]

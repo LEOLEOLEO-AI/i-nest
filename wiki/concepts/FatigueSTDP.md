@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[PhaseLockedTopologyMapping]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]

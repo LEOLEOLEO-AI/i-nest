@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[EEG_Criticality]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicalSelfDualCriticality]]
 [[EnergyProportionalityCeiling]]
 [[EventDrivenMotionDeblurring]]
+[[GPU_Cluster_SNN_Architecture]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]
 [[criticality]]

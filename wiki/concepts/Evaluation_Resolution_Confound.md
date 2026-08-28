@@ -35,11 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[SDI_Bond]]
 [[STDP_Plasticity]]
+[[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
 [[representational similarity analysis]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

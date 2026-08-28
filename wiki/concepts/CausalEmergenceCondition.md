@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[WaveBasedInformationRouting]]
 [[complex system]]
 [[perspective latents]]
 [[智能涌现]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralDynamicsCalibration]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ProbabilisticSpikingNeuralNetwork]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

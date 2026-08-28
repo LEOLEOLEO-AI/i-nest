@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[Algorithmic_Warfare]]
+[[Bipartite_Interconnect_Design]]
 [[BurstGatedRouting]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Heterogeneous_Integration]]

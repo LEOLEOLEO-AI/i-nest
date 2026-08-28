@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[ST_SNN]]
 [[SpikeDrivenDetectionBackbone]]
 [[Spike_Encoding_of_fMRI]]
+[[SpikingNeuronOptimization]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]

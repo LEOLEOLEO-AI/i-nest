@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DataProvenanceIntegrity]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
+[[ImaginaryGaugePhaseImprint]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Photonic_Chiplet_Interconnect]]
@@ -55,6 +56,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleSubstrate]]
 [[chiplet interconnect]]
 [[涌现]]
+[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

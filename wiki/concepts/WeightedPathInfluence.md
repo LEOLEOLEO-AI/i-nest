@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Complex_System_Theory]]
+[[CriticalityAwareTopology]]
 [[Criticality]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]

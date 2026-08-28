@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[MetricComputationAuthenticity]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[ST_SNN]]
 [[TCC]]
 [[iNEST]]
 

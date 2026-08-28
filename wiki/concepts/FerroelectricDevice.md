@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[temporalComplexity]]
+[[Γst_Revision]]
 [[神经网络]]
 
 ## Sources
