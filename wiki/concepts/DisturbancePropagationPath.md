@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Forging_Pipeline]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[DARPA_ProjectManager_Model]]
 [[DTGA]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Heterogeneous_Integration]]

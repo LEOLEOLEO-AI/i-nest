@@ -34,10 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Nonlinear_Gain]]
 [[PhaseLockedTopologyMapping]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]
+[[SpikeEncodingLatency]]
 [[SpikeEncoding]]
 [[Spike_Temporal_Dynamics]]
 [[Spiking_Neural_Network]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

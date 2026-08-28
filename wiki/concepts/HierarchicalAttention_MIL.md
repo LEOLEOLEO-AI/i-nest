@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FeFET_Polarization_Switching]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
+[[InterconnectConstrainedEmergence]]
 [[KV_Cache_To_BoundaryObject]]
 [[Metastable_State_Hierarchy]]
 [[Network_Topology_Design]]

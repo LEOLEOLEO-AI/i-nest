@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Emerging_CMOS_Memristor]]
 [[Fading_Memory_Property]]
+[[GradientFreeSNNTraining]]
 [[HigherOrderSimplicialDynamics]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

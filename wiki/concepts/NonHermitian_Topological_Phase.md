@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Airborne_Connectivity_Characterization]]
 [[3nm_Autonomous_Driving_Chip]]
 [[ArtificialLifeTopologyEvolution]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -43,7 +44,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

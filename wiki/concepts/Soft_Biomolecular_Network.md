@@ -34,13 +34,17 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[Complex_System_Theory]]
+[[EmulationTheoryObserver]]
 [[FlexibilityThreshold]]
+[[Intelligence_Emergence]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Silicon_Neuron_Controller]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic substrate]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

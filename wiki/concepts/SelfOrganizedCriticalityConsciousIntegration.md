@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ConsciousIntegration]]
 [[Continuous_Control_SNN_Stability]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]
 [[EventBasedMotionDeblurring]]
 [[Neuromorphic_Computing]]

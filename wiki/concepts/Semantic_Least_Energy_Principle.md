@@ -28,11 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
+[[DelayRobustEmergence]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

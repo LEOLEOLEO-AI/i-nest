@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[AmoebaInspiredLocomotion]]
+[[CorticalWaveRouting]]
 [[Dynamic_Expert_Routing]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

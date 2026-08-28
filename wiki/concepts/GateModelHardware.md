@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicTransformerTopology]]
 [[Neuromorphic_Computing]]
 [[SparseTemporalEncoding]]
+[[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[Surface_Phase_Transition]]
 [[TCC]]

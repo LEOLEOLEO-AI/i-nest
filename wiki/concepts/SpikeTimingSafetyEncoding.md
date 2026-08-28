@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Continuous_Control_Spike_Timing_Sensitivity]]
+[[CrashHotspotForecasting]]
+[[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[Generalization_Bound_Spectra]]
 [[Intelligence_Emergence]]
+[[MasterEquationRG]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Representation_Learning_Generalization]]

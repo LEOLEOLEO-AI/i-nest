@@ -21,9 +21,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[Critical_Region_Extension]]
+[[DelayTolerantNetworkUAV]]
 [[ErrorAmplificationLimits]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LatencyGradientDescent]]
 [[MolecularTargetSignaling]]
@@ -37,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

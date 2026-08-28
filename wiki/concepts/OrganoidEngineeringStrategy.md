@@ -33,11 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Ecosystem]]
 [[AI_Orchestrator]]
 [[AdsorptionBiosorptionMechanism]]
+[[AgentReinforcementLoop]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

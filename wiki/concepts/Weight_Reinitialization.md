@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[CST_Equation]]
+[[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[LLM_Reward_Design]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

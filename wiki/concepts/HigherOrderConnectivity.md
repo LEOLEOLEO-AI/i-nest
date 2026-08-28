@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[CellEmergence]]
+[[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EventTriggeredDistributedControl]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

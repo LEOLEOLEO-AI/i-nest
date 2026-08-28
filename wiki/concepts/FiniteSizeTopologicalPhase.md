@@ -35,7 +35,6 @@ Auto-extracted concept from raw material compilation.
 [[Nonreciprocity_Threshold]]
 [[OptimalRepresentation]]
 [[RamanInducedGaugeField]]
-[[SOC — 自组织临界（Self-Organized Criticality）]]
 [[SOC]]
 [[STDP_Plasticity]]
 [[STDP_Topology_Integration]]

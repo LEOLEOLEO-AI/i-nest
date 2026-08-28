@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
+[[SDSoW]]
 [[TCC]]
 [[TopologicalDataCompression]]
 [[TopologyAwareTimescaleSeparation]]

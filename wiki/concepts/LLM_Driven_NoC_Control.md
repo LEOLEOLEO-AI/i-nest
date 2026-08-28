@@ -28,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NoC_Routing]]
-[[NoC_SDI_Integration]]
+[[NoC_SDI]]
 [[Order_Flexibility_Duality]]
 [[PacketRoutingForFPGAs]]
 [[SDI_Bond]]
@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

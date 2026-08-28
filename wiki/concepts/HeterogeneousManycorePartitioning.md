@@ -31,11 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
 [[Causal_Emergence_Architecture]]
+[[Chiplet_Topology_Coordination]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

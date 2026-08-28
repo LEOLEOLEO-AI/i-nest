@@ -30,12 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[CST_MasterEquation]]
 [[CST_Theory]]
 [[Complex_System_Theory]]
+[[Independent_AI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
 [[complex system]]
 [[evolutionary computability]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

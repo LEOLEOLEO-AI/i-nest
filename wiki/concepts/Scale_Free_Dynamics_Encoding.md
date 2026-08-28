@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[BigBrainCellularAxis]]
 [[CausalEmergenceCondition]]
+[[Complex_System_Theory]]
 [[CrystalPalace_Program]]
 [[DataDrivenMaterialDesign]]
 [[Deep_Thermalisation]]
@@ -32,9 +33,11 @@ Auto-extracted concept from raw material compilation.
 [[FreeFermionTopologicalInvariant]]
 [[GutBrainAxis_Reprogramming]]
 [[Intelligence_Emergence]]
+[[Machine_Decision_Speed_Advantage]]
 [[Network_Topology_Design]]
 [[Scale_Free_Dynamics]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

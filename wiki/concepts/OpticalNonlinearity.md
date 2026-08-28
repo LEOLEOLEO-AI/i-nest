@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[MagneticMetamaterialReservoir]]
 [[MeasurementInducedNonlinearity]]
 [[Memristive_Topology]]
 [[Memristor_Synapse]]

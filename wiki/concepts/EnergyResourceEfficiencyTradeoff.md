@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[ActiveDendriteSNN]]
 [[Analog_Computation]]
+[[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CrossbarArrayIntegration]]

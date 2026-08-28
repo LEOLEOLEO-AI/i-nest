@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[SpikingPlaceCellEnsemble]]
 [[Spiking_Neural_Network]]
+[[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[智能涌现]]
 [[涌现]]
 [[神经网络]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

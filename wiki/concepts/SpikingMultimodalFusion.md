@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
+[[MagnitudePhaseComputationalModel]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

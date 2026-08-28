@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTopologyAnalysis]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC_SpikingIntegration]]
 [[iNEST]]
 [[spiking neural network]]
 

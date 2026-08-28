@@ -24,10 +24,12 @@ Auto-extracted concept from raw material compilation.
 [[CellularSheaf]]
 [[CircuitTopologySearch]]
 [[Complex_System_Theory]]
+[[DynamicServiceComposition]]
 [[GraphTopologyAnalysis]]
 [[In_Package_Neuromorphic_Integration]]
 [[Independent_AI_Player_Endgame]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Prior_Encoding]]
 [[SuperlinearGain]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MultiModel_Adapter_Architecture]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[PolymerComposite_Substrate]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]

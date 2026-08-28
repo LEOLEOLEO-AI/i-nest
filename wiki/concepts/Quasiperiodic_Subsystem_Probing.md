@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A method to detect critical phases in quasiperiodic systems by analyzing subsystem properties rather than global observables. Provides a novel diagnostic tool for phase transitions in complex networks, relevant to both TCC topology design and iNEST neuromorphic state analysis.
+A method to detect critical phases in quasiperiodic systems by analyzing subsystem properties rather than global observables. Provides a novel diagnostic tool for phase transitions in complex networks, relevant to both TCC_Topology design and iNEST neuromorphic state analysis.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Autonomous_Control]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
+[[Accessibility_Gradient]]
 [[ActionWeightedPathEnsemble]]
 [[AdversarialRobustness]]
 [[AirportNetworkGraphEmbedding]]
@@ -42,15 +43,14 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
-[[TCC topology]]
 [[TCC]]
+[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[Topological_Anderson_Insulator]]
 [[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

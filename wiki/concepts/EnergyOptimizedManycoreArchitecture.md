@@ -35,8 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EulaminateOverrepresentation]]
 [[FlagScale]]
+[[FlagScale_Training_Inference]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

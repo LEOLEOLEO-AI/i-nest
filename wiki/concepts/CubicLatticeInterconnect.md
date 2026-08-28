@@ -26,7 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
 [[Accessibility_Plasticity]]
+[[Complex_System_Theory]]
 [[CorticalWaveRouting]]
+[[Defect_Mediated_Transport]]
 [[EmergentOrder]]
 [[FrozenRateOperator]]
 [[Intelligence_Emergence]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

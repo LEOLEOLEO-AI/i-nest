@@ -24,16 +24,20 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[CognitiveSupportTopology]]
 [[CollectiveConsensus]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[DataBiasAmplification]]
 [[Free_Energy_Principle_Network]]
 [[GlobalInformationDominance]]
+[[HierarchicalInferenceTopology]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[iNEST]]
 [[neuromorphic interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Faculty_Forum_2026]]
+[[Analog_InMemory_Processing]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectCoDesign]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ExtensiveWidthShallowNN]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[Intelligence_Emergence]]
 [[MachineLearningNanomaterialDiscovery]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

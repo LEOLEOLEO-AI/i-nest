@@ -38,12 +38,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
+[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Topology_Aware_Spike_Routing]]
 [[avalanche dynamics]]
-[[neural avalanche dynamics]]
 [[neural avalanche]]
 
 ## Sources

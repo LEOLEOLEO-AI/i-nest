@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]
+[[HybridResistiveMemoryCIM]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]

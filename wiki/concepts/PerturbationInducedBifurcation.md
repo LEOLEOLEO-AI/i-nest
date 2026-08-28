@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptersInSpikingNetworks]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[EntropyRegularizedSpikeLoss]]
 [[Hypergraph_Label_Noise]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

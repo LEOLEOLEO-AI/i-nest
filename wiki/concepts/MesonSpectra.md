@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
+[[STDP_iNEST_Memristive]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[neuromorphic computing]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalRegimeReservoir]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
+[[Criticality_of_Natural_Languages]]
 [[Dynamic_Expert_Fusion]]
 [[DynamicalSelfDualCriticality]]
 [[EdgeOfChaos]]

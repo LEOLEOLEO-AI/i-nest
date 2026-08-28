@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
 [[HierarchicalSpatiotemporalProcessing]]
+[[HigherOrder_Interaction_Modeling]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

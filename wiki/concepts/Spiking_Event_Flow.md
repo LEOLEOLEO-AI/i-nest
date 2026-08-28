@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[SpikeBasedNeuralRadianceField]]
+[[SpikeTimingGradientPropagation]]
 [[SpikeTimingGradient]]
 [[Spiking_Neural_Network]]
 [[Spiking_Residual_Learning]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[AlternativeBridgingModels]]
 [[CoupledOscillatorReservoir]]
+[[CriticalStateReservoir]]
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
 [[Fixed_Reservoir_Unitary]]

@@ -30,8 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
 [[CirculateFiringNeuron]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EventTriggeredDistributedControl]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

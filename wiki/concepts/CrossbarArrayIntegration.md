@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
+[[DARPA_ProjectManager_Model]]
 [[DegreeDependentOpinionThreshold]]
 [[DifferentiableRasterizationPipeline]]
 [[DualDrivenHybridNetwork]]

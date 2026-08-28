@@ -26,10 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[FlagOS_2_0]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Roadmap_HIR]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Optical_Interconnect]]
 [[Intelligence_Emergence]]
@@ -42,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[neuromorphic chiplet]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

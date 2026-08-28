@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CMOS_Memristor_Crossbar]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[EchoState_n_ch]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

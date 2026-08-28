@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
 [[SDI_Bond]]
+[[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Spacetime_Coupling_Coefficient]]

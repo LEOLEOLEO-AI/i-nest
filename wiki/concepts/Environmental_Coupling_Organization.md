@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[CrossbarArrayIntegration]]
 [[Crystallized_Embedding_Reservoir]]
+[[DARPA_ProjectManager_Model]]
 [[Environmental_Induced_Memory]]
 [[Heterogeneous_Integration]]
 [[Less is more，大脑“低能耗”并“高效响应”的秘诀：模块化]]

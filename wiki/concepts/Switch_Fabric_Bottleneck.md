@@ -41,12 +41,13 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategy]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
+[[STDP_Plasticity]]
 [[SelfHealing_Interconnect]]
 [[TCC]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

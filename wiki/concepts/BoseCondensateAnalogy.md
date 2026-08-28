@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Faculty_Forum_2026]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -38,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[tools]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

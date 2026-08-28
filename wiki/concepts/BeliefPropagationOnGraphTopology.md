@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[CriticalPointControl]]
 [[DelayTolerantNetworkUAV]]
 [[EmergentSwarmTopology]]
+[[Intelligence_Emergence]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenInference]]
 [[EventDrivenPlasticity]]
 [[Event_Driven_Architecture]]
+[[In_Package_Neuromorphic_Integration]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Selective_State_Space]]

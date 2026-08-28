@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCytoarchitectonicAxis]]
 [[DifferentiableRasterizationPipeline]]
 [[ErrorSuppressedPipeline]]
+[[MetaFAIR_ArchitectureDiscovery]]
+[[Nonlinear_Gain]]
 [[ParallelSNNArchitecture]]
 [[QuantumFluctuationDrivenTransport]]
 [[QuarantineCostTradeoff]]

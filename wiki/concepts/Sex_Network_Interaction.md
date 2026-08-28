@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirLearning]]
 [[Intelligence_Emergence]]
 [[Metriplectic_Twin]]
 [[Multifractal_Signatures]]

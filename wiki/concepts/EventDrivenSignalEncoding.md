@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MemoryDrivenInterconnect]]
 [[Neuromorphic_Computing]]
+[[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -29,12 +29,16 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Replication_Strategy]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[ArtificialProprioception]]
+[[Complex_System_Theory]]
 [[ExplainableEnergyAI]]
 [[InNetworkNeuromorphicComms]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[MIT_异构Chiplet集成构建下一代计算的_超级芯片_]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]

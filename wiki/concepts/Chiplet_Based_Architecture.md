@@ -26,15 +26,17 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
 [[Allreduce_Latency_Probe]]
+[[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]
-[[Bipartite_Interconnect_Fabric]]
 [[CXL_Deployment_Transition]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

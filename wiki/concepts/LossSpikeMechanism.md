@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
 [[Environmental_Capability_Context]]
+[[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]

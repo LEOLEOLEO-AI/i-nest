@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Complexity_Emergence_Engineering]]
 [[Contested_Priors_Mechanism]]
 [[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
@@ -68,7 +69,6 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

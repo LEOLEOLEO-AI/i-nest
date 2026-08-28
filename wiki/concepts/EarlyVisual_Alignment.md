@@ -33,9 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousServiceNegotiation]]
 [[BehavioralNeuromorphicCorrelates]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

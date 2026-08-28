@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterSubstrate]]
 [[AsymmetricStochasticInteractions]]
 [[AttentionLikeHebbianMechanism]]
+[[AttentionMap_DifferenceResidual]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Ising formulation]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

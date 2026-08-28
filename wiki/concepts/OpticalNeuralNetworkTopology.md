@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-The arrangement of optical waveguides, modulators, and detectors within a photonic neural network, designed to perform matrix-vector multiplications via light propagation. Directly influences routing and signal integrity in wafer-scale optical interconnects, informing TCC topology design for low-latency, high-bandwidth data movement.
+The arrangement of optical waveguides, modulators, and detectors within a photonic neural network, designed to perform matrix-vector multiplications via light propagation. Directly influences routing and signal integrity in wafer-scale optical interconnects, informing TCC_Topology design for low-latency, high-bandwidth data movement.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -39,8 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[SparseTemporalEncoding]]
-[[TCC topology]]
 [[TCC]]
+[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

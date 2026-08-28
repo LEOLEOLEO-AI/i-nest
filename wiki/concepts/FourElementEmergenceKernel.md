@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AstrocyteInspiredRepair]]
+[[BackpropFree_Learning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CST_Metric]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[complexity emergence]]
 [[iNEST]]
 [[temporalComplexity]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

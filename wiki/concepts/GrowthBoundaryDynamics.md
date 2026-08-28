@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AdjointWaveControl]]
+[[Agile_Resilient_Defense_Ecosystem]]
+[[Complex_System_Theory]]
 [[EpidemicThreshold]]
 [[EventDrivenFunctionalConnectivity]]
 [[ExtinctionDrivenMetastability]]
 [[Inference_Workload_Profiling]]
+[[Intelligence_Emergence]]
 [[LocalInteractionDrivenReconfiguration]]
 [[Neuromorphic_Computing]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
@@ -38,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

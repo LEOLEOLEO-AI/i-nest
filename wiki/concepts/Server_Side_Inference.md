@@ -33,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[AutonomousAdaptation]]
 [[BrainActivityPrediction]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[Memristive_Interconnect]]
 [[Metriplectic_Twin]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[BoseCondensateAnalogy]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

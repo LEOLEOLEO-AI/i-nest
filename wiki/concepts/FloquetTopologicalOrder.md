@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
+[[DendriticTaskRouting]]
 [[ElectromigrationReliability]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Heterogeneous_Integration]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Communication_Trace_Diagnostics]]
+[[Complex_System_Theory]]
 [[DendriticTaskRouting]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -36,8 +37,10 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NonHermitian_Delocalization]]
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

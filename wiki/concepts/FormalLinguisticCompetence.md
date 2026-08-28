@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[EpidemicThreshold]]
+[[Hardware_Accelerated_SNN]]
 [[HierarchicalBayesianCommunityDetection]]
 [[HierarchyOfApproximations]]
 [[InNetworkAgentRewiring]]

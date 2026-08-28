@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CytoarchitectonicAxis]]
 [[Dynamic_Expert_Fusion]]
+[[Environmental_Capability_Context]]
 [[ErrorSuppressedPipeline]]
 [[FPGABasedNeuromorphic]]
 [[Heterogeneous_Integration]]

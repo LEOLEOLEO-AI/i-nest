@@ -32,6 +32,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ANN动力学]]
 [[Analog_Weight_Storage]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
@@ -71,5 +72,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[ppt]]
 [[忆阻器]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

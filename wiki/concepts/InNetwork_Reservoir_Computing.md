@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ChaoticAttractorTopology]]
 [[CircadianGateModulation]]
 [[Combinatorial_Optimization_Readout]]
+[[CompleteConnectomeDynamics]]
 [[Connectome]]
 [[Connectome_Constrained_Neural_Architecture]]
 [[Network_Topology_Design]]

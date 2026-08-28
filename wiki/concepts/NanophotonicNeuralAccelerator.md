@@ -25,15 +25,19 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]
 [[GenericObjectTracking]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[Scarce_EEG_Learning]]
 [[TCC]]
 [[photonicNeuralAccelerator]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

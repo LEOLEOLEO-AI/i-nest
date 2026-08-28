@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[InterconnectConstrainedEmergence]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

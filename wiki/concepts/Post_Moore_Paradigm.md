@@ -30,12 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Pathway]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Compute]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[State_Transition_Formalism]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

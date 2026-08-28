@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
+[[SDI节点接口规范与化合键定义]]
+[[STDP_Learning]]
 [[STDP_Plasticity]]
 [[SparseActivationPattern]]
 [[Spike_Encoding_of_fMRI]]

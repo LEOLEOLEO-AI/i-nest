@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Expert_Review_Arbitration]]
+[[FisherInformationMetric]]
 [[Gate_Synthesis_Readout]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

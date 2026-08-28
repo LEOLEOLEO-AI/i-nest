@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A compression framework where spike patterns are represented by a learned codebook of prototype vectors, enabling efficient storage and retrieval in SNN inference. Bridges algorithmic efficiency and hardware constraints, relevant for both TCC topology design and iNEST neuromorphic implementation.
+A compression framework where spike patterns are represented by a learned codebook of prototype vectors, enabling efficient storage and retrieval in SNN inference. Bridges algorithmic efficiency and hardware constraints, relevant for both TCC_Topology design and iNEST neuromorphic implementation.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -36,13 +36,15 @@ Auto-extracted concept from raw material compilation.
 [[ConfigurableSNNInference]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[LocalStructureAwareSelfAttention]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[TCC topology]]
 [[TCC]]
+[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 

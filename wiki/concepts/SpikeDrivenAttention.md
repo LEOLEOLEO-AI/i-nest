@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
 [[BurstSuppression]]
 [[ContinuousControlConversion]]

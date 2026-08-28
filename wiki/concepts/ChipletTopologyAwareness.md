@@ -33,9 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[CommunicationOverlapMechanism]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[Cryogenic_Syndrome_Compression]]
+[[DataMovementMinimization]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

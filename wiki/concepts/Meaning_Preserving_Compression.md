@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
+[[Agile_Resilient_Defense_Ecosystem]]
 [[Attention_Residuals]]
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
+[[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

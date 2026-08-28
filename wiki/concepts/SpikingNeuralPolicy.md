@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[Direct_Spike_Attention]]
 [[DynamicTokenSparsity]]
+[[Edge_Neuromorphic_Compute]]
 [[EnergyEfficientSNN]]
 [[EventDataNonUniformity]]
 [[EventDrivenAutoregression]]

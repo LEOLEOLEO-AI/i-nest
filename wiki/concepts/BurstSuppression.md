@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Autonomous_Spiking_Dynamics]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[BioInspiredInterceptionTask]]
 [[Criticality]]
 [[SNN]]
 [[Self_Organized_Criticality]]

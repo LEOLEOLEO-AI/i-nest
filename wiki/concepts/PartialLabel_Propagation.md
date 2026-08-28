@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DisturbancePropagationPath]]
 [[DualDrivenHybridNetwork]]
+[[EnergyResourceEfficiencyTradeoff]]
 [[Heterogeneous_Integration]]
 [[PPT]]
 [[SNN]]

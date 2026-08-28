@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-The ability to map arbitrary spiking neural network topologies onto the physical hardware resources, allowing reconfiguration for different brain-inspired models. Bridges the gap between abstract neural network structures and physical hardware constraints, essential for both TCC topology optimization and iNEST application flexibility.
+The ability to map arbitrary spiking neural network topologies onto the physical hardware resources, allowing reconfiguration for different brain-inspired models. Bridges the gap between abstract neural network structures and physical hardware constraints, essential for both TCC_Topology optimization and iNEST application flexibility.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -41,10 +41,11 @@ Auto-extracted concept from raw material compilation.
 [[Passive_BCI_Neurofeedback]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[ScalableNeuromorphicTopology]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
-[[TCC topology]]
 [[TCC]]
+[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]

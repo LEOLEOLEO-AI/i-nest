@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Biomanufacturing_Control_Loop]]
 [[BranchingRatio]]
 [[ChannelEventSparsity]]
+[[CoexistencePhaseTransition]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[Contested_Prior_Resolution]]
@@ -34,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
+[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

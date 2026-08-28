@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[Criticality]]
+[[Criticality_Threshold]]
 [[DendriticTaskPartitioning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

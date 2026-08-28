@@ -25,13 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[DualSided_Routing_Resource]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LargeScalePhotonicIntegration]]
 [[MachineLearningNanomaterialDiscovery]]
@@ -50,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[temporalComplexity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

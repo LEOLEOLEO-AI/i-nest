@@ -24,7 +24,6 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Connectome]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Connectome]]
-[[Connectome_Inspired_Architecture]]
 [[DataDrivenCellularAxis]]
 [[DataProvenanceIntegrity]]
 [[EmergentOrder]]
@@ -46,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[connectome]]
 [[iNEST]]
 

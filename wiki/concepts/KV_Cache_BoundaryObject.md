@@ -28,12 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Beyond_Moore_Pathway]]
+[[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Complex_System_Theory]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
 [[HybridResistiveMemoryCIM]]
 [[In_Package_Neuromorphic_Integration]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[SiC_GaN_Power_Integration]]
@@ -41,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BackflowTransformation]]
 [[Chiplet_Based_Neuromorphic_Integration]]
+[[Chiplet_Heterogeneous_Integration]]
 [[EnergyProportionalityCeiling]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

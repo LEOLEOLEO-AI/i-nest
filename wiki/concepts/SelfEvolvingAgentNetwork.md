@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Anomaly_Mediated_Quantum_Criticality]]
+[[Ant_Swarm_Functional_Control]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[Network_Topology_Design]]

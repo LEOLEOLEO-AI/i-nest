@@ -37,11 +37,15 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]
+[[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
+[[Spiking_Neural_Network]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

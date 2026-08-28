@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Fractal_Entanglement_Scaling]]
 [[Free_Energy_Principle_Network]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[IntegrationProspectsForVLSI]]

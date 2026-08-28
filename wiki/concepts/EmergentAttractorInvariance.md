@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
+[[ArbitraryWavefunctionConfigurability]]
 [[BCM滑动阈值]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
@@ -41,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

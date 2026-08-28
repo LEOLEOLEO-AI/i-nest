@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[AdditiveTopology_Embedding]]
 [[BCM滑动阈值]]
+[[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -37,7 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

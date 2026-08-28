@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[AnalogDomainCompressiveSensing]]
 [[ApplicationScenarioReconstruction]]
+[[Co_Optimization_Physical_Computing]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[SNN]]
 [[Spiking_Neural_Network]]

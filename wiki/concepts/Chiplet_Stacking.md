@@ -26,13 +26,16 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[BackpropagationFreeLearning]]
 [[Chiplet stacking]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
+[[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -52,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

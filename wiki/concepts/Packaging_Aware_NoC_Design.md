@@ -22,10 +22,13 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]
+[[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[BigBrainCellularAxis]]
+[[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
@@ -34,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -44,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

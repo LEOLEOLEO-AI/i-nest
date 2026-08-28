@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[CouplingTopologyInducedDynamics]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[DataDrivenMaterialDesign]]

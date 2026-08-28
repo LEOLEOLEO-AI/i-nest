@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Generative_Model_Topology]]
 [[Heterogeneous_Integration]]
+[[HigherOrderSynchronization]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Representation_Learning_Generalization]]

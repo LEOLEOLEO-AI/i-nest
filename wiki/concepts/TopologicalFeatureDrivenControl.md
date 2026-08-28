@@ -30,11 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]
 [[AdjointWaveControl]]
+[[Complex_System_Theory]]
+[[Critical_Region_Extension]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

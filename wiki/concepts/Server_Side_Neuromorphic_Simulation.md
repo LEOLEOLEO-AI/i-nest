@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalDynamicsModeling]]
 [[VonEconomoNeuron]]
+[[VonEconomoNeurons]]
 [[iNEST]]
 
 ## Sources

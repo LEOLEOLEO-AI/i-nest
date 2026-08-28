@@ -29,12 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Bioavailability_Enhancement]]
 [[CausalEmergenceCondition]]
 [[CausalEmergenceConditioning]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

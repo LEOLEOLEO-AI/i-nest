@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
 [[Brain_Connectome]]
+[[CST计量仪]]
 [[C_elegansConnectomeAnalogy]]
 [[CausalEmergenceCondition]]
 [[Complex_System_Theory]]

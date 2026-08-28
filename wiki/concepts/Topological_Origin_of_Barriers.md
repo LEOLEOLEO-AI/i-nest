@@ -30,10 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveArchitecture]]
 [[AdaptiveEntanglementManagement]]
+[[AdaptiveFunctionalTopology]]
 [[AtomicGeometryEncoding]]
 [[EnsembleSparsity]]
 [[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 

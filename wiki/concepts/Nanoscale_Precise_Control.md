@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Crystal Palace program]]
 [[CrystalPalace_Program]]
+[[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Metastable_State_Hierarchy]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

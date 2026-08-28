@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetwork_CST_Offload]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Macro_System_Description]]
 [[MacroscopicDescriptor]]

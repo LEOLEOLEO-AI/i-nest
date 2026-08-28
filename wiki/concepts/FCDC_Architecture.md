@@ -40,10 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]
 [[Memristive_Crossbar_Array]]
+[[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
+[[VaCoAl]]
 [[analog computation]]
 [[iNEST]]
 

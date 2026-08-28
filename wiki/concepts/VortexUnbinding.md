@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Agent_Interaction_Sequencing]]
 [[Avoided_Criticality]]
 [[Baseline_Change_Record]]
+[[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN_Online_Learning]]
 [[ConstructedRealityState]]

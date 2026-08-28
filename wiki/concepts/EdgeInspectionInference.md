@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
 [[Cryogenic_Syndrome_Compression]]
 [[Distributed_Spike_Communication]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[忆阻器]]
 [[类脑芯片]]
 
 ## Sources

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[BrainScaleTopologyExploitation]]
 [[Complex_Network_Brain_Inspired_Computing]]
+[[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DynamicReconfigurationForFaultTolerance]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology_Mapping]]
+[[ScalableNeuromorphicTopology]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

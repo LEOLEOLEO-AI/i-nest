@@ -23,8 +23,10 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[4H_SiC_SubstrateProcessing]]
 [[ByteDance_Ada_Chip]]
+[[Complex_System_Theory]]
 [[DarkSiliconAwarePowerGating]]
 [[FPGABasedNeuromorphic]]
+[[Intelligence_Emergence]]
 [[Mesoscale_Physical_Computing_Framework]]
 [[National_Innovation_Center_Framework]]
 [[Neuromorphic_Computing]]
@@ -33,9 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[Resilient_Sensing_Comms_Network]]
 [[SDI_Bond]]
 [[SDI_iNEST_Wafer]]
+[[ScalabilityViaTunneling]]
 [[TCC]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

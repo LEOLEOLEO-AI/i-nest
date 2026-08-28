@@ -24,10 +24,13 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AutonomousAdaptation]]
 [[Cognitive_Relapse_Decoupling]]
+[[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[Critical_Region_Extension]]
 [[DTGA]]
 [[DelayTolerantNetworkUAV]]
+[[EvolvingArchitectureDynamics]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[Network_Topology_Design]]
@@ -36,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

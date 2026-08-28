@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Knowledge_Graph_Navigation]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[NontrivialBandTopology]]
 [[Representation_Learning_Generalization]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

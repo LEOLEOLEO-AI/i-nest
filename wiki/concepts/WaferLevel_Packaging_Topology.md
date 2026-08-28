@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
+[[Environmental_Capability_Context]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[Intelligent_Computing_Infrastructure]]

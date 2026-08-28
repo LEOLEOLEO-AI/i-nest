@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
 

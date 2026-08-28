@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
+[[DendriticReservoirState]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
 [[Intelligence_Emergence]]

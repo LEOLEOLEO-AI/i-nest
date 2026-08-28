@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
+[[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[DisorderedNetworkInterconnect]]
@@ -40,9 +41,11 @@ Auto-extracted concept from raw material compilation.
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[NoiseModulatedLearning]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

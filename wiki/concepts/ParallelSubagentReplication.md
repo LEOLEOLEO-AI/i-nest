@@ -34,10 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[Fluidic_Hysterons]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
+[[Layer_Specific_Spreading_Rate]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

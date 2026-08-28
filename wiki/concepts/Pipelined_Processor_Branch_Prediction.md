@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AgenticServiceManifesto]]
 [[BitPrecisionAwareScheduling]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[CrystalPalace_Program]]
 [[DARPA_ProjectManager_Model]]

@@ -22,8 +22,10 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AnalogInMemoryComputing]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
+[[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
 [[DimensionalityReductionPrinciple]]
@@ -31,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -38,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Package_Level_Interconnect]]
 [[PacketRoutingForFPGAs]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

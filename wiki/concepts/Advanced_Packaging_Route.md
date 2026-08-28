@@ -28,13 +28,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
+[[Chiplet_Packaging]]
 [[CoPoS]]
 [[CommunicationOverlapMechanism]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[EulaminateOverrepresentation]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Memory_Wall]]
 [[MetricComputationAuthenticity]]
@@ -50,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[temporalComplexity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

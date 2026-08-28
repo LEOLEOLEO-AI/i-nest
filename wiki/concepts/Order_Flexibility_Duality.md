@@ -55,10 +55,12 @@ Auto-extracted concept from raw material compilation.
 [[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_STDP]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[SpatiotemporalComplexityIndex]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[Wafer_Scale_Integration]]
@@ -66,7 +68,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[temporalComplexity]]
 
 ## Sources

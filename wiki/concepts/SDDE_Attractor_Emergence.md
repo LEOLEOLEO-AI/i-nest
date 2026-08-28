@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[ScaleFreeNetwork]]
 [[SelfOrganization]]
 [[Spiking_Neural_Network]]

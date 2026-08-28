@@ -24,8 +24,10 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BackpropagationFreeLearning]]
 [[Cognitive_Relapse_Decoupling]]
+[[Complex_System_Theory]]
 [[DynamicServiceComposition]]
 [[Free_Energy_Topology_Mapping]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -37,7 +39,9 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
+[[ThirdWaveAI]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

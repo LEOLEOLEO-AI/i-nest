@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[ScaleFreeNetwork]]
 [[SoftwareDefinedSystemOnWafer]]
 [[SuperparamagneticSwitchingRate]]

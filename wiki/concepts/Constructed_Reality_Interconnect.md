@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Small_World_Network]]
 [[SpatiotemporalComplexityIndex]]
+[[Spatiotemporal_Synergy_Complexity]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
 [[complex system]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsemble]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Speech_Tokenizer]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

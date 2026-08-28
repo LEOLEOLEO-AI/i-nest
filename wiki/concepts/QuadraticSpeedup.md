@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MachineLearningNanomaterialDiscovery]]
 [[Network_Topology_Design]]
+[[NonHermitian_Topology]]
 [[QuantumAmplitudeEstimation]]
 [[SNN]]
 [[Spiking_Neural_Network]]

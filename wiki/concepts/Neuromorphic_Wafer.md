@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Complex_Network_Class_Brain_Computing]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Mesoscale_Heterogeneous_Integration]]
 [[National_Mesoscale_Innovation_Center]]
 [[Neuromorphic_Computing]]
 [[SDSoW]]

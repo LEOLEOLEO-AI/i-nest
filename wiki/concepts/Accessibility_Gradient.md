@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSensingResilience]]
 [[Air_Combat_Autonomy]]
 [[AirportNetworkGraphEmbedding]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[AmplifyingNetworkTopology]]
 [[AnalogStateRetention]]
 [[Complex_System_Theory]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
+[[ConnectionCentricParadigm]]
 [[GenericObjectTracking]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Intelligence_Emergence]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Selection_Theorems]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

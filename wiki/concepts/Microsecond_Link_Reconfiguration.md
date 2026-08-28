@@ -30,12 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Stacking]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[DTGA]]
 [[Deep_Network_Architecture_Invariant]]
 [[FPGA_Reconfigurability]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[SDI_Bond]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwareStateMigration]]
 [[WaferScaleTopologyCentricComputing]]
 [[topology reconfiguration]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

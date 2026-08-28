@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[ConnectomicDevelopmentalTrajectory]]
 [[Controlled_Release_Kinetics]]
+[[DynamicalSelfDualCriticality]]
 [[EmergentAttractorStability]]
 [[Environmental_Capability_Context]]
 [[GlassInterposerSignalIntegrity]]

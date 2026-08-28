@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SNN]]
 [[ST_SNN]]
+[[Self_Organized_Criticality]]
 [[SpatiotemporalComplexityIndex]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

@@ -29,12 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[ConnectionCentricParadigm]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]
 [[DelayRobustEmergence]]
+[[DisorderDrivenTemporalOrdering]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[TopologyProgramming]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
+[[Course_Based_FPGA_Projects]]
 [[DataDrivenCellularAxis]]
 [[DendriticReservoirState]]
 [[EnsembleSparsity]]

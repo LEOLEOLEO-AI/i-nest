@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AvoidedCriticalityInQuantumMotion]]
 [[BioInspired_Interception_Control]]
 [[BranchingRatio]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]

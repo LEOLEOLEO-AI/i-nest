@@ -26,15 +26,18 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[Cascading_Failure_Mitigation]]
 [[Collective_State_Convergence]]
+[[Complex_System_Theory]]
 [[CooperativeEmergence]]
 [[CrossLayer_SignalRouting]]
 [[Data_Debiasing_Techniques]]
 [[Deep_Thermalisation]]
+[[FunctionalRelevanceSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[branch prediction]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

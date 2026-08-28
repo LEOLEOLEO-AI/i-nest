@@ -32,10 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Additive_Manufacturing_Defense_Trinity]]
 [[AutonomousServiceNegotiation]]
+[[BehavioralNeuromorphicCorrelates]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

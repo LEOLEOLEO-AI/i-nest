@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[CoexistencePhaseDiagram]]
 [[Combinatorial_Optimization_Readout]]
+[[CompleteConnectomeDynamics]]
 [[Connectome]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

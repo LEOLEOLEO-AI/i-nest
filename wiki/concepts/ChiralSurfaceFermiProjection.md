@@ -32,10 +32,14 @@ Auto-extracted concept from raw material compilation.
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircuitTopologySearch]]
+[[Complex_System_Theory]]
+[[ComputationalProcessReuse]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

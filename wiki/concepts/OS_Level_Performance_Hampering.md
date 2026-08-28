@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_Computation]]
 [[CST计量仪]]
+[[CognitiveSupportTopology]]
 [[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[Intelligence_Emergence]]
@@ -38,7 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spatiotemporal_Synergy_Complexity]]
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

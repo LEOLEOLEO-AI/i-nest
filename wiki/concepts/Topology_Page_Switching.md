@@ -52,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
+[[TopologyProgramming]]
 [[Topology_Page]]
 [[chiplet interconnect]]
 [[complex system]]

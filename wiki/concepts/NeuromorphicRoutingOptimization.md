@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Specific_Embedding_Separation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
 [[SNN]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

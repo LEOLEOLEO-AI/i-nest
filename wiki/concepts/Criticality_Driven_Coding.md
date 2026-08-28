@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Agent_Interaction_Sequencing]]
 [[Avoided_Criticality]]
+[[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]

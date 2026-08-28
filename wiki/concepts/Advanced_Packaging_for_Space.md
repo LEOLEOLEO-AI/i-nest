@@ -23,11 +23,14 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Packaging]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -48,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet packaging]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

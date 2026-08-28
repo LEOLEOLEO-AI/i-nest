@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
+[[Activity_Energy_Tradeoff]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Avoided_Criticality]]

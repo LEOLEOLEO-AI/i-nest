@@ -36,9 +36,11 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
 [[BurstTemporalPlasticity]]
+[[Complex_System_Theory]]
 [[Confinement]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[GradientBasedTopologyOptimization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

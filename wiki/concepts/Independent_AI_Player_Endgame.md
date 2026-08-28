@@ -36,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
+[[EnergyOptimizedManycoreArchitecture]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Selection_Theorems]]
 [[SuperlinearGain]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

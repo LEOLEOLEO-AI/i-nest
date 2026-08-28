@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
 [[AstrocyteInspiredRepair]]
+[[AutogradCompatibleSpiking]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
 [[ClinicalTranslationBridge]]

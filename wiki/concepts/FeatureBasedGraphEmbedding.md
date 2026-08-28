@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complexity_Emergence]]
+[[Complexity_Emergence_Engineering]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[FeatureBasedGraph]]

@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CirculateFiringNeuron]]
+[[Complex_System_Theory]]
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalPrecisionScheduling]]
 [[TemporalSpikePattern]]
+[[Temporally_Precise_Training_Parallelization]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

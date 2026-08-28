@@ -28,12 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Attention_Residuals]]
 [[BurstGatedRouting]]
+[[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[Deep_Network_Architecture_Invariant]]
 [[DelayTolerantNetworkUAV]]
 [[FlexibilityThreshold]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
+[[Multipath_Adaptive_Reliability]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -44,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

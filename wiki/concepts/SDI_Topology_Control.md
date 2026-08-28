@@ -23,11 +23,13 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[DynamicServiceComposition]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Wafer]]
 [[temporalComplexity]]
 [[topology reconfiguration]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

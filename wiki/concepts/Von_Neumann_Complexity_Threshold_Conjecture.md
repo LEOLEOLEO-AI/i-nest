@@ -33,12 +33,15 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[EfficientDeepLearning]]
+[[HigherOrderTopology]]
+[[Intelligence_Emergence]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

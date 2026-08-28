@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TemporalSpikeEncoding]]
 [[iNEST]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

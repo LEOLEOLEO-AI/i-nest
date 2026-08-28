@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[2_5D_PIM_Chiplet_Integration]]
 [[3DHI_Chiplet_Integration]]
 [[3DHI_Integration]]
 [[3DHI_Interconnect]]
@@ -27,7 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
-[[Bipartite_Interconnect_Fabric]]
+[[Bipartite_Interconnect]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Heterogeneous_Integration]]
 [[TCC]]

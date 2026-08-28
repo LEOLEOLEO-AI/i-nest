@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Packaging_CoDesign]]
+[[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
 [[Switchless_Computing]]

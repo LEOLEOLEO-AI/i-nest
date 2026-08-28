@@ -32,10 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_System_Theory]]
 [[DTGA]]
 [[Free_Energy_Topology_Mapping]]
+[[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
+[[Intelligence_Emergence]]
 [[Microsecond_Link_Reconfiguration]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -46,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[System_Level_Utility_Control]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

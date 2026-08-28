@@ -29,12 +29,16 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCombinerWeighting]]
 [[AdaptiveCompetingInteractions]]
 [[AdjointWaveControl]]
+[[Complex_System_Theory]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
+[[FPGA_Reconfigurability]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

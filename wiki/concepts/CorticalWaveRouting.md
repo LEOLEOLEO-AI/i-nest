@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SNN]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SelfOrganization]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 

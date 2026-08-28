@@ -28,11 +28,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
 [[Entanglement_Teleportation_Locality]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[MitigationLayers]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[vLLM_plugin_FLSDI]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

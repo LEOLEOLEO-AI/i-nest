@@ -37,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Abilities]]
+[[FirstPrinciples_AI]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]

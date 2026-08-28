@@ -34,12 +34,14 @@ Auto-extracted concept from raw material compilation.
 [[EGO_Architecture]]
 [[ERI_2_0_Strategic_Framework]]
 [[EmergentTaskDecomposition]]
+[[Emergent_Intelligence_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[TemporalComplexity]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

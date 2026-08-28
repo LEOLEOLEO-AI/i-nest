@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
+[[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
@@ -46,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopology]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[WirelessSplitComputing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[WirelessSplitComputing]]
 [[iNEST]]
 [[忆阻器]]
+[[新型计算]]
 [[类脑芯片]]
 
 ## Sources

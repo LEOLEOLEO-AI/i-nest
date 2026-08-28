@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Security_Architecture]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Framework]]
 [[EdgeAI_Market_Consolidation_Driver]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[SuperparamagneticSwitchingRate]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

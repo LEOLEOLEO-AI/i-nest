@@ -21,12 +21,15 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[Active_Inference_Agent]]
 [[AdaptiveFrequencyResonateFire]]
 [[Adaptive_EW_Neuromorphic_Controller]]
 [[BayesianDomainEvolution]]
 [[BrainBodyResonance]]
 [[CascadedAdaptiveCombiners]]
+[[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
+[[Intelligence_Emergence]]
 [[Memristive_STDP]]
 [[Neuromorphic_Computing]]
 [[Performance_Prediction_Model]]
@@ -35,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

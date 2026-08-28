@@ -29,14 +29,18 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Orchestration]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
-[[Bipartite_Interconnect_Fabric]]
+[[AndersonTransition]]
+[[Bipartite_Interconnect]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

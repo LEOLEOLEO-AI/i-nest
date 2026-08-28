@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Planning_Revolution]]
 [[Online_Continual_Learning]]
 [[Parameter_Reconstruction]]
+[[PowerLawScaling]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Self_Organized_Criticality]]

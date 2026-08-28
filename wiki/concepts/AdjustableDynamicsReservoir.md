@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Contested_Priors_Mechanism]]
 [[CrashHotspotForecasting]]
+[[DivergentHigherAreaRanking]]
 [[HighTemporalResolutionSensing]]
 [[Memristor_Synapse]]
 [[NestedRepresentation]]

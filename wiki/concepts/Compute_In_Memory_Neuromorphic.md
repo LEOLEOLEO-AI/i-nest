@@ -28,12 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[Complex_System_Theory]]
 [[Expert_Review_Arbitration]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Compute]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Signal_Folding]]
@@ -42,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[iNEST]]
 [[signal folding]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

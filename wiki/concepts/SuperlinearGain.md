@@ -50,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Renormalization_Group_Convergence]]
 [[Residual_Connection]]
+[[SDSoW]]
 [[Spacetime_Coupling_Coefficient]]
 [[SpatiotemporalComplexityIndex]]
 [[Spatiotemporal_Synergy_Complexity]]

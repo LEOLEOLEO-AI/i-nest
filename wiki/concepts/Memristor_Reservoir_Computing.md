@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[Emerging_CMOS_Memristor]]
 [[Fixed_Reservoir_Unitary]]
+[[GeneralizedReadoutMap]]
 [[InNetworkSignalRecovery]]
 [[Memristor_Reservoir_Branch_Prediction]]
 [[Memristor_Synapse]]

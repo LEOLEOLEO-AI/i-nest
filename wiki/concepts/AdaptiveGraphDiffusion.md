@@ -29,11 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Asymptotic_Exact_Solution]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[FisherInformationMetric]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -49,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyAwareStateMigration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

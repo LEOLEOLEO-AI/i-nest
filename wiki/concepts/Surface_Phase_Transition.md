@@ -41,8 +41,9 @@ Auto-extracted concept from raw material compilation.
 [[Surface phase transition]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

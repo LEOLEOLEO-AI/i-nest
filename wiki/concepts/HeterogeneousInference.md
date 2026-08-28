@@ -30,8 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Interconnect]]
@@ -42,9 +44,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_NoC_Integration]]
 [[SDI_Topology]]
 [[Spaceborne_Computing_Architecture]]
+[[SpatialPatternStorage]]
 [[TCC]]
 [[advanced packaging]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

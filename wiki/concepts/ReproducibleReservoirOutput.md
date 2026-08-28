@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
+[[DARPA_ProjectManager_Model]]
 [[External_to_OnDie_Evolution]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Chiplet_Customization]]

@@ -20,10 +20,12 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AdaptiveDensityControl]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[DynamicInference]]
@@ -33,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -51,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[temporalComplexity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

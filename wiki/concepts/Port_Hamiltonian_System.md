@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CognitiveSupportTopology]]
 [[Collective_State_Convergence]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[CrossLayer_SignalRouting]]
@@ -46,7 +47,9 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]
 [[TCC]]
+[[ThermalAvalanche]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

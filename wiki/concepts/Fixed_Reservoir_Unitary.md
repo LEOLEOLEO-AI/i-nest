@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]
+[[InNetworkSignalRecovery]]
+[[Intelligence_Emergence]]
 [[Memristor_Reservoir_Computing]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

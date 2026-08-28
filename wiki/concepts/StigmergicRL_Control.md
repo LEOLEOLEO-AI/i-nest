@@ -24,19 +24,23 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Stacking]]
 [[4H_SiC_SubstrateProcessing]]
 [[AI_Faculty_Forum_2026]]
+[[AdvancedPackagingInterconnect]]
 [[AnalogInMemoryComputing]]
 [[BitPrecisionAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
+[[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DifferentiableRasterizationPipeline]]
 [[DimensionalityReductionPrinciple]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,12 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_System_Theory]]
 [[DTGA]]
 [[EventDrivenSynchronization]]
+[[FPGA_Reconfigurability]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[InputAdaptiveComputation]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NichePreservationMechanism]]
@@ -44,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwareStateMigration]]
 [[TopologyProgramming]]
 [[VectorFlowField]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

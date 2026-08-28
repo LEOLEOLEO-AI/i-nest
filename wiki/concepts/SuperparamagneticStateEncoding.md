@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Emergent_Abilities]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[IntegrationProspectsForVLSI]]
 [[Intelligence_Emergence]]
 [[NISQHardwareAwareMapping]]

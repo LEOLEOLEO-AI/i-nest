@@ -22,13 +22,16 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
+[[ApproximationFidelityTradeoff]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[EventDrivenSensoryEncoding]]
 [[EventDrivenTracking]]
 [[Heterogeneous_Integration]]
 [[InSituNeuralProcessing]]
 [[In_Network_Generative_Inference]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -39,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

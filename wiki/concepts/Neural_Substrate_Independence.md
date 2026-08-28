@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome_Reservoir]]
 [[Cross_Brain_Connectome]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirLearning]]
 [[Intelligence_Emergence]]
 [[IntrinsicDynamicsAutonomy]]
 [[NeuromorphicHardware]]

@@ -30,10 +30,12 @@ Auto-extracted concept from raw material compilation.
 [[Amorphous_Amorphous_Transition]]
 [[Analog_Weight_Storage]]
 [[AstrocyteInspiredRepair]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DistinctReentrantPhases]]
+[[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
 [[Memristive_Interconnect]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

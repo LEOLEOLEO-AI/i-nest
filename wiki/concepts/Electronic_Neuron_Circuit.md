@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicNeuralManifolds]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]
+[[EntropyProductionRate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

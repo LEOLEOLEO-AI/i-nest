@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BiasEvaluationMetrics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[Contested_Prior_Resolution]]
+[[CorticalWaveRouting]]
 [[EventDrivenModularArchitecture]]
 [[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]

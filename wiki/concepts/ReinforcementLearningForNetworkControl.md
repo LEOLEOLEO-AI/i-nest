@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Modularity]]
 [[CorticalTypeDiversity]]
 [[CriticalityInNetworkComputing]]
+[[CriticalityOffCriticalityTransition]]
 [[Criticality]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]

@@ -26,7 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
+[[Complex_System_Theory]]
 [[CorticalWaveRouting]]
+[[CubicLatticeInterconnect]]
 [[EmergentOrder]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -35,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Order_Flexibility_Duality]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

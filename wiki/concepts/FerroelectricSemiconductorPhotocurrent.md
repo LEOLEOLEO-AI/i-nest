@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Encoding_Readout]]
 [[CMOS_Memristor_Crossbar]]
 [[CrashHotspotForecasting]]
+[[DivergentHigherAreaRanking]]
 [[FerroelectricSemiconductorReservoir]]
 [[Ferroelectric_Devices]]
 [[Memristor_Synapse]]

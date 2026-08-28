@@ -31,12 +31,16 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[CommunicationHeterogeneity]]
+[[Complex_System_Theory]]
+[[Cryogenic_Syndrome_Compression]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Neuromorphic_Computing]]
 [[ReputationSignal]]
 [[WavelengthMultiplexedInterconnect]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

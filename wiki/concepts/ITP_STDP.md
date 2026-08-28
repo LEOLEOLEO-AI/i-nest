@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BrainBodyResonance]]
 [[Contested_Priors_Mechanism]]
+[[Controlled_Release_Kinetics]]
 [[DiscreteSTDP]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

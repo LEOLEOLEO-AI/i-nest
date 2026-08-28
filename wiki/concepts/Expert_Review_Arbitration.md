@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[FisherInformationMetric]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Compute]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

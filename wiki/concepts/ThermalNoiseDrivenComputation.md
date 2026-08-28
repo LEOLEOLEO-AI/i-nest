@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[PhysicalSubstrateReservoir]]
 [[iNEST]]
 
 ## Sources

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Anomaly_Mediated_Quantum_Criticality]]
 [[Ant_Swarm_Functional_Control]]
+[[Autonomous_Unmanned_Combat_Networking]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Nishimori multicritical point]]

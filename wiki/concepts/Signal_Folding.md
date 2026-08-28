@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[IMPLYMemristiveISA]]
 [[In_Memory_Computing]]
 [[Long_Range_Interactions]]
+[[MemristiveSupervisedLearning]]
+[[Memristor_Synapse]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Hardware_Paradigm]]

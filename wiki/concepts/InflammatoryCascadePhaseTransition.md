@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionSeparation_IntensiveExtensive]]
 [[DiscreteContinuous_Unification]]
 [[Edge_of_Chaos_Coastal_Dynamics]]
+[[Neuromorphic_Planning_Architecture]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[SpikeDrivenMOT]]

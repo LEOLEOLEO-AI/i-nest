@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[CounterstreamSignalPropagation]]
+[[DARPA_ProjectManager_Model]]
 [[DifferentiableRasterizationPipeline]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]

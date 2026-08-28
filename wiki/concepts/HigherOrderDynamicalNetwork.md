@@ -29,13 +29,17 @@ Auto-extracted concept from raw material compilation.
 [[BiologicalNoiseMimicry]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Complex_System_Theory]]
+[[Deep_Thermalisation]]
 [[Fractal_Multipartite_Entanglement]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

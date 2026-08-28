@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NeuronalAvalanche]]
+[[NeurovascularUnitEngineering]]
 [[NeurovascularUnit]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

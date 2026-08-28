@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Industrial_Ecosystem]]
 [[ANN动力学]]
 [[AutonomousServiceNegotiation]]
+[[CST_Spatiotemporal_Complexity]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
@@ -40,12 +41,14 @@ Auto-extracted concept from raw material compilation.
 [[Energy_Efficient_Control]]
 [[Heterogeneous_Integration]]
 [[In_Package_Interconnect_Trust]]
+[[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

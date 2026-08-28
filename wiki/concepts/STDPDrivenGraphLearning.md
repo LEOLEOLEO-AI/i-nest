@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[CriticalityDrivenAdaptation]]
 [[Criticality]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]

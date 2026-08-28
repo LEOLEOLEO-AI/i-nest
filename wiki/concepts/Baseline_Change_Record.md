@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]

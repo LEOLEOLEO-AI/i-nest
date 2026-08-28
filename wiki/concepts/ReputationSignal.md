@@ -33,11 +33,15 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[CommunicationHeterogeneity]]
+[[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
+[[Cryogenic_Syndrome_Compression]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

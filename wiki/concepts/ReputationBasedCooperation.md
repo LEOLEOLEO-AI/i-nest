@@ -32,10 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AutonomousServiceNegotiation]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[soc]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

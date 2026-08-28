@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[DualSided_Routing_Resource]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphBasedSemanticRouting]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LargeScalePhotonicIntegration]]
 [[MicroRouter_Embedding]]
@@ -42,12 +44,14 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Recursive_Metric_Contraction]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]
 [[chiplet interconnect]]
 [[temporalComplexity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

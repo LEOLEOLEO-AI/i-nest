@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NonHermitian_Topology]]
 [[SNN]]
+[[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

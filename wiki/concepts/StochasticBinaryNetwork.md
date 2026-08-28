@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC_SpikingIntegration]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -31,13 +31,16 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Cluster_Switch_Bottleneck]]
 [[AI_Forum_Ecosystem]]
+[[Analog_InMemory_Processing]]
 [[Asymptotic_Exact_Solution]]
 [[CST_Spatiotemporal_Complexity]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Switch_Bottleneck]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

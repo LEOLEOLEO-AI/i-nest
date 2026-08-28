@@ -31,12 +31,17 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveMeasurementProtocol]]
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
+[[AnytimePointCloudRecognition]]
+[[Complex_System_Theory]]
 [[FlexibilityThreshold]]
+[[Intelligence_Emergence]]
 [[STDP_Plasticity]]
 [[SpikeEncoding]]
+[[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

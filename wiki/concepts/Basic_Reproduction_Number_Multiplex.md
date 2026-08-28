@@ -31,8 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[AttractorNeuralNetwork]]
 [[BCM滑动阈值]]
+[[CST_SynergisticCoordination]]
 [[CST_Theory]]
-[[CST_Theory_V27_FINAL]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Complexity_Coordination_Layer]]
@@ -51,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

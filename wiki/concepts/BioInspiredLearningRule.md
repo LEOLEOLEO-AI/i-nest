@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SpatiotemporalComplexityIndex]]
@@ -49,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect]]
 [[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[temporalComplexity]]
 
 ## Sources

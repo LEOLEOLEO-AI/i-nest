@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ANN动力学]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[CausalEmergenceCondition]]
 [[CausalEmergenceConditioning]]
 [[Complex_System_Theory]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

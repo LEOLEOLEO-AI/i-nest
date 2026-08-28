@@ -31,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[EventCameraPoseInput]]
 [[EvolutionarySpikeTimingOptimization]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[SNN]]
+[[SpikeCommunicationScheduling]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Diagnostic]]
 [[BiasEvaluationMetrics]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[temporalComplexity]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

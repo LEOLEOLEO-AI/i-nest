@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FatigueSTDP]]
 [[Fatigue_SpikePattern]]
 [[ImpactFallDetection]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[STDP_Plasticity]]

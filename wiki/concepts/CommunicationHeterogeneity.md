@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -44,14 +45,15 @@ Auto-extracted concept from raw material compilation.
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Residual_Connection]]
-[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

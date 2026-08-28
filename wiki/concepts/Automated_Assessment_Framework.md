@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
+[[PhysicalSubstrateReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[DeeplySupervisedSpiking]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Nonlinear_Gain]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[Reconfigurable_Spiking_Architecture]]
@@ -45,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

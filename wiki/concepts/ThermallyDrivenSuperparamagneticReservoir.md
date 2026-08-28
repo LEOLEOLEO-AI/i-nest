@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirComputing]]
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
+[[SDI_STDP]]
 [[SpatiotemporalComplexityIndex]]
 [[Structural_Mismatch]]
 [[TCC]]

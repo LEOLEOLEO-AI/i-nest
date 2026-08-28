@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AlgorithmHardware_CoDesign]]
+[[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
 [[DARPA_ProjectManager_Model]]
 [[ElectronicPhotonicIntegratedCircuit]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Continuous_Control_Spike_Timing_Sensitivity]]
 [[CorticalWaveRouting]]
 [[DTGA]]
+[[Environmental_Capability_Context]]
 [[EventCameraTemporalEncoding]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]

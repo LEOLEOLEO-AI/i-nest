@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Capability_Forging_Pipeline]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Evolutionary_Structure_Computability]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptivePhotonicRouter]]
 [[Adaptive_Service_Reconfiguration]]
 [[CircuitTopologyEncoding]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DelayPropagationDynamics]]
 [[InNetworkReconfiguration]]

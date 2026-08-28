@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CoPackagedOptics]]
+[[ConsciousIntegration]]
 [[CrossDomain_Integration]]
 [[Emergent_Intelligence_Threshold]]
 [[Expert_Review_Arbitration]]

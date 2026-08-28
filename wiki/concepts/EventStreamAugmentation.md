@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
+[[BurstSuppression]]
 [[Criticality]]
 [[SNN]]
 [[Self_Organized_Criticality]]

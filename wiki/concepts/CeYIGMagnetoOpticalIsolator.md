@@ -28,13 +28,16 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[Cascading_Failure_Mitigation]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
+[[DisorderedNetworkInterconnect]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

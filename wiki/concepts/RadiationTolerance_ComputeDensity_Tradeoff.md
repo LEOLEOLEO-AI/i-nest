@@ -23,13 +23,16 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
+[[AndersonTransition]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[External_to_OnDie_Evolution]]
 [[FlagOS_2_0]]
 [[HeterogeneousChipletIntegration]]
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[InverseDesignedPhotonicAccelerator]]
 [[LargeScalePhotonicIntegration]]
@@ -41,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[OnDie_Fusion]]
 [[TCC]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[SDSoW]]
 [[SDSoW_Architecture]]
 [[SDSoW_TCC_Integration]]
 [[TCC]]

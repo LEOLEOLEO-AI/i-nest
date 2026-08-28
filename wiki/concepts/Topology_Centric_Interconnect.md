@@ -26,11 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[CorticalTypeDiversity]]
 [[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]
@@ -39,8 +41,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InterconnectAwarePartitioning]]
 [[KeyMaterialStrategy]]
+[[LargeScalePhotonicIntegration]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

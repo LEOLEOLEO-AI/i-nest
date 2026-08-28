@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
+[[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
 [[LIF_Neuron_Model]]
 [[Memristive_Spike_Integration]]

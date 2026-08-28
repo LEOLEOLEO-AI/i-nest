@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Deep_Network_Architecture_Invariant]]
 [[ElectromigrationReliability]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 
 ## Sources

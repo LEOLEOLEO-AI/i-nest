@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AnisotropicGaussianPrimitives]]
 [[AstrocyteInspiredRepair]]
+[[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]

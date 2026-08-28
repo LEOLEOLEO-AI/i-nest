@@ -33,10 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[Asymmetric_Interaction_Matrix]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Beyond_Moore_Pathway]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[DifferentiableRasterizationPipeline]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NonEquilibriumComputing]]
@@ -44,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

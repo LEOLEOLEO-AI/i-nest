@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Package_Neuromorphic_Integration]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
+[[NeuromorphicEdgeProcessing]]
 [[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]

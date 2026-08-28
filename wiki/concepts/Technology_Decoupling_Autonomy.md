@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CUDAQSimulationFramework]]
+[[Complex_System_Theory]]
 [[CrossSubstrateHomology]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
@@ -44,9 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[OpenSource_Neuromorphic_Framework]]
 [[Open_Source_Research_Stack]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_TCC_iNEST_Bridge]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

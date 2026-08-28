@@ -36,12 +36,15 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComponentLevelMolding]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[SpaceToUndersea_ResilientComms]]
 [[TCC]]
+[[ThermodynamicLimitScaling]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

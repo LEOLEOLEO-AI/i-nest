@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
+[[SDI_STDP]]
 [[STDP_Integration]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]

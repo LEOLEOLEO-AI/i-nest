@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicNeuralManifolds]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EntropyProductionRate]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Chiplet]]

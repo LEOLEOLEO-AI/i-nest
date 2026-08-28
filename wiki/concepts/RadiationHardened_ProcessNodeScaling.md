@@ -27,14 +27,17 @@ Auto-extracted concept from raw material compilation.
 [[Additive_Manufacturing_Supply_Chain]]
 [[AdiabaticModeEvolution]]
 [[AdvancedPackagingInterconnect]]
+[[CavityMethodAnalysis]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[DirectConnect_Topology]]
 [[External_to_OnDie_Evolution]]
 [[FatalityDrivenRewiring]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -44,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Space_Compute_Architecture_Tradeoff]]
 [[TCC]]
 [[topology reconfiguration]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

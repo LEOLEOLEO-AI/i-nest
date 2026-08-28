@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[EventDrivenRiskAssessment]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]

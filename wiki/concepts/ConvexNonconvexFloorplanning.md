@@ -28,14 +28,18 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Advanced_Packaging_for_Space]]
 [[AnalogInMemoryComputing]]
+[[BackpropagationFreeLearning]]
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[HybridConvexOptimization]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
 [[chip floorplanning]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

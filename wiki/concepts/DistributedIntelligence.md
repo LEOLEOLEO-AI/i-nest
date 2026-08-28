@@ -28,13 +28,17 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
 [[Compact_Boson_Dynamics]]
+[[Complex_System_Theory]]
 [[DailyResearchDigest]]
 [[FermiSurfaceTopologySignature]]
+[[HigherOrderDynamicsPreservation]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
 [[soc]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

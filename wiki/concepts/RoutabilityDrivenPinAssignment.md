@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Chip_Floorplanning]]
 [[CongestionAwareLoss]]
+[[DifferentiableFloorplanning]]
 [[DifferentiablePlacement]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]

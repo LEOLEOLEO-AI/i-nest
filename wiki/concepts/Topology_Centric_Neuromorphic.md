@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[EarlyExitInference]]
@@ -46,10 +47,12 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[neuromorphic computing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

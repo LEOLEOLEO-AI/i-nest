@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[20W_Brain_Inspired_Planning]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AddressRedundancyElimination]]
 [[AdiabaticMultimodeBend]]
 [[AndersonTransition]]
@@ -30,13 +31,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactnessRegularizedFitness]]
+[[Complex_System_Theory]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[MachineLearningNanomaterialDiscovery]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

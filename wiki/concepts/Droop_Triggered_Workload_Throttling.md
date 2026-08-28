@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstCoding]]
+[[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SynchronousResetting]]
 [[TCC]]
+[[Temporal_Computing_Paradigm]]
 [[iNEST]]
 
 ## Sources

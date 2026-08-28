@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AmorphousSolidPlasticity]]
+[[ArbitraryWavefunctionConfigurability]]
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CST_Equation]]
@@ -32,10 +33,12 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Mechanism]]
 [[Convergent_Evolution_Representation_Space]]
 [[Decoupled_Prior_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,13 +26,16 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
+[[BisectionBandwidthBound]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Stacking]]
 [[CommunicationOverlapMechanism]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -42,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

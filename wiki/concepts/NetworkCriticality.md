@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Categorical_Closure_Criterion]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[Compressive_Sensing_Reservoir]]
+[[CouplingTopologyInducedDynamics]]
 [[Criticality]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

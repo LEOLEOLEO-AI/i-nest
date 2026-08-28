@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[JunctionCenteredFramework]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Microbiome_Immune_Endocrine_Interplay]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[neuromorphic substrate]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

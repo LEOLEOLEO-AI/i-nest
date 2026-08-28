@@ -27,13 +27,17 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[AvalanchePropagation]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[BiasPropagationInNetworks]]
 [[BitPrecisionAwareScheduling]]
 [[BurstInterleaving]]
 [[CognitiveSupportTopology]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[branch prediction]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

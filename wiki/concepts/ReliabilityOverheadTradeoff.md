@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CoPackagedOptics]]
 [[CommunicationHeterogeneity]]
+[[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
@@ -40,14 +41,17 @@ Auto-extracted concept from raw material compilation.
 [[NeuralPrecision]]
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
+[[OptimalRepresentation]]
 [[OptimalRepresentations]]
 [[RecursiveSelfReferentialArchitecture]]
-[[Residual_Connection_Removal]]
+[[Residual_Connection]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[Soldier_Augmentation_BioCyber_Interface]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[iNEST_Interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

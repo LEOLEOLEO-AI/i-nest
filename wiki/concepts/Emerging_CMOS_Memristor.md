@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[NeurovascularUnitEngineering]]
+[[NeurovascularUnit]]
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]

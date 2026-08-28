@@ -29,13 +29,16 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BurstTemporalPlasticity]]
+[[Complex_System_Theory]]
 [[Emergent_Intelligence_Roadmap]]
 [[GradientBasedTopologyOptimization]]
+[[HallmarkDrivenCancerModeling]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

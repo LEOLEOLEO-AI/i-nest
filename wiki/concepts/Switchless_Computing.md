@@ -26,7 +26,6 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Topology]]
-[[Chiplet_Topology_Interconnect]]
 [[CommunicationAsComputation]]
 [[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BulletTrainScheduling]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenAutoregression]]
 [[EventDrivenMotionDeblurring]]
@@ -39,7 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
-[[Syncytial_Mesh_Model]]
+[[Syncytial_Mesh]]
 [[TCC]]
 [[iNEST]]
 

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
+[[BrownianCastleInterfaces]]
 [[CSI_Temporal_Encoding]]
 [[Chiplet_Based_Neuromorphic_Integration]]
 [[Chiplet_Heterogeneous_Integration]]

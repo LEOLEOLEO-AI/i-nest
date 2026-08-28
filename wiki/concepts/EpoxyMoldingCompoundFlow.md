@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[RTC_Primitive]]
@@ -48,11 +49,13 @@ Auto-extracted concept from raw material compilation.
 [[SmallWorldNetworks]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
+[[WaferLevelMolding]]
 [[WaferScaleSubstrate]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
 [[complex system]]
 [[heterogeneous_integration]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

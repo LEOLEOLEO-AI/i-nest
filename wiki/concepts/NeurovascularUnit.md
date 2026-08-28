@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Change_Record]]
 [[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
+[[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[SNN]]

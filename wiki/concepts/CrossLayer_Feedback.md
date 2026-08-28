@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Brain_Dynamics_Learning]]
 [[ClinicalTranslationBridge]]
 [[Complex_Network_Brain_Inspired_Computing]]
+[[Complex_System_Theory]]
+[[CrossPopulationCen]]
 [[DevelopmentalNeuromorphicAdaptation]]
 [[DissipativePhaseTransition]]
 [[DynamicReconfigurationForFaultTolerance]]

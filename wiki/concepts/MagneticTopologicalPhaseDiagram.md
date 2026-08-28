@@ -34,8 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredGeneralist]]
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
+[[ChiralSurfaceFermiProjection]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

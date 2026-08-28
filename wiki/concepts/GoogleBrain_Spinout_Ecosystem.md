@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[ClinicalTranslationBridge]]
@@ -39,10 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Server_Side_Inference]]
 [[TCC]]
 [[complex system]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

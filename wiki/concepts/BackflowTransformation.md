@@ -54,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[UniversalIntelligence_Emergence]]
 [[complex system]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[neural quantum states]]
 [[类脑芯片]]
 

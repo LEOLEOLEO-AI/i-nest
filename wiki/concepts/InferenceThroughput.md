@@ -25,12 +25,13 @@ Auto-extracted concept from raw material compilation.
 [[CrystalPalace_Program]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
-[[Deep_Thermalisation_Dynamics]]
 [[ERI_2_0_Strategic_Framework]]
 [[EndToEndLinkSimulation]]
 [[Free_Energy_Principle_Network]]
 [[HierarchicalSpikePropagation]]
 [[InSensorComputing]]
+[[PacketRoutingOptimization]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 
 ## Sources

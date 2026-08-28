@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]
 [[CognitiveSupportTopology]]
+[[CollectiveConsensus]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Complexity_Emergent_Intelligence]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -23,11 +23,13 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[ScalabilityFaultToleranceTradeoff]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
 [[ThirdWaveAI]]
@@ -48,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

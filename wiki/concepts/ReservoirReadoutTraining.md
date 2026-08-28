@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFluctuationReservoir]]
 [[DARPA_ProjectManager_Model]]
 [[DissipativeQuantumReservoir]]
+[[Emergent_Reservoir_Topology]]
 [[Emerging_CMOS_Memristor]]
 [[EndToEndTopologyLearning]]
 [[Memristor_Synapse]]

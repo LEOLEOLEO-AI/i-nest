@@ -29,19 +29,23 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Expert_Review_Arbitration]]
 [[FisherInformationMetric]]
 [[Heterogeneous_Integration]]
 [[In_Memory_Computing]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Compute]]
 [[Inference_Workload_Profiling]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Switch_Chiplet_Integration]]
 [[TCC]]
 [[TopologyAwareStateMigration]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

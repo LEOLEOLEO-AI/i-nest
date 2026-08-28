@@ -30,8 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[AdaptiveDensityControl]]
+[[CST计量仪]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Topology]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

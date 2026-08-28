@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[DARPA_ProjectManager_Model]]
 [[DeeplySupervisedSpiking]]
 [[ForwardFluctuationGradient]]
 [[FrequencyAdaptationMechanism]]

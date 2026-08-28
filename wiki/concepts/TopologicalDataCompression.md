@@ -24,9 +24,11 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[EventDrivenTracking]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -37,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[WaferScale_Chiplet_Interconnect]]
 [[chiplet interconnect]]
+[[涌现]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

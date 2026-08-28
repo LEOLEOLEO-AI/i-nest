@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Activity_Energy_Tradeoff]]
 [[Baseline_Draft_Status]]
 [[BurstInterleaving]]
+[[Complex_System_Theory]]
 [[EventDrivenTracking]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[WirelessSplitComputing]]
 [[iNEST]]
 
 ## Sources

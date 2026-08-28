@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Complex_System_Theory]]
 [[DevelopmentalNeuromorphicAdaptation]]
+[[FirstPrinciples_Derivation]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]

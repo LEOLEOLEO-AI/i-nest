@@ -21,21 +21,24 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[HigherOrderDynamicalNetwork]]
 [[IncidenceBasedRandomWalk]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[TCC]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

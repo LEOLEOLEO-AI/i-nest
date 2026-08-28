@@ -49,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Structural_Mismatch]]
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
+[[Topology_Centric_Computing]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]

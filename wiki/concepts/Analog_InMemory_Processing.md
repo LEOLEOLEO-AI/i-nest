@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Chiplet]]
@@ -55,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

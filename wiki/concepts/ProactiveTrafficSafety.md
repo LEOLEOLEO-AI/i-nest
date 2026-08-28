@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
+[[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
@@ -40,11 +41,13 @@ Auto-extracted concept from raw material compilation.
 [[Military_AI_Revolution]]
 [[Nanoparticle_Network_Interconnect]]
 [[Neuromorphic_Computing]]
+[[NoiseModulatedLearning]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

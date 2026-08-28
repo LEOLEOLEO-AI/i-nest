@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveSTDP]]
 [[AdaptiveSpeechToSpikeEncoding]]
 [[Adaptive_EW_Neuromorphic_Controller]]
+[[AnytimePointCloudRecognition]]
+[[Complex_System_Theory]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[local plasticity rule]]
 [[local plasticity]]
 
 ## Sources

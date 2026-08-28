@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System_Theory]]
 [[ElectromigrationReliability]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Heterogeneous_Integration]]
@@ -38,6 +39,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]
 [[TCC]]
+[[忆阻器]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

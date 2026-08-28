@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[CirculateFiringNeuron]]
+[[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
 [[Cryogenic_Syndrome_Compression]]
 [[Distributed_Spike_Communication]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
+[[EventDrivenTracking]]
 [[EventDrivenTrajectoryEncoding]]
 [[EventDrivenWirelessTransmission]]
 [[InNetworkAgentRewiring]]

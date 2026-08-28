@@ -20,11 +20,13 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[3D_Heterogeneous_Integration]]
 [[Allreduce_Latency_Probe]]
 [[AnomalousSpinTransport]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_based_heterogeneous_integration]]
+[[Complex_System_Theory]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA 3DHI roadmap]]
 [[DARPA_Manufacturing_Strategy]]
@@ -33,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectronicPhotonicIntegratedCircuit]]
 [[EvanescentFieldTrapping]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[MultiTechnologyInspectionFusion]]
 [[National_Mesoscale_Innovation_Center]]
 [[Neuromorphic_Chiplet]]
@@ -51,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[heterogeneous_integration]]
 [[iNEST]]
 [[tools]]
+[[涌现]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 
 ## Sources

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[BoseCondensateNeuralAnalogy]]
 [[BosonicFieldTopology]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[HigherOrderPublicGoodsGame]]
 [[Intelligence_Emergence]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

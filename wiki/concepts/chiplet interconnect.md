@@ -29,6 +29,13 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[3D_Integration]]
+[[Active_Inference_Topology]]
+[[Additive_Manufacturing_Topology]]
+[[AdiabaticModeEvolutionCoupler]]
+[[AdiabaticMultimodeBend]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Heterogeneous_Integration]]
+[[Interconnect_Routing]]
 [[TCC]]
 [[iNEST]]

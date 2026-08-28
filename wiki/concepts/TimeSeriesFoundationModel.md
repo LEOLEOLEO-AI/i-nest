@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CascadedAdaptiveCombiners]]
 [[EvolvingArchitectureDynamics]]
 [[Generation_Quality_Refinement]]
+[[Habituation_Dynamics]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
 

@@ -28,14 +28,18 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[ByteDance_Ada_Chip]]
 [[CircuitTopologySearch]]
+[[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[CrossLingualIdiomGraph]]
 [[Deep_Network_Architecture_Invariant]]
 [[EarlyExitInference]]
 [[EfficientDeepLearning]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

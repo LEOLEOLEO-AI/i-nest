@@ -29,7 +29,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
-[[ActiveInferenceEdgeLoop]]
+[[ActiveInference]]
+[[CSI_Temporal_Encoding]]
 [[CoupledOscillatorReservoir]]
 [[CriticalRegimeReservoir]]
 [[HierarchicalModularReservoirs]]

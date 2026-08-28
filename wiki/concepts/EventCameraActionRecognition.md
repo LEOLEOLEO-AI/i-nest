@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MachineLearningNanomaterialDiscovery]]
+[[Memristive_Interconnect]]
 [[Memristor_Synapse]]
 [[Model_Routing_Protocol]]
 [[ModularityDepthInteraction]]

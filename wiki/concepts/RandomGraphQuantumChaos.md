@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ErdosRenyi_Graph_Energy_Surface]]
@@ -44,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[TopologicalObservers]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

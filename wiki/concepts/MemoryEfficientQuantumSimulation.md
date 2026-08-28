@@ -23,11 +23,13 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AdvancedPackagingInterconnect]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Thermalisation]]
 [[EndToEndLinkSimulation]]
 [[Free_Energy_Principle_Network]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[PhotonicPackagingEfficiency]]
 [[QuarantineCostTradeoff]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Topological_Manifold_Interconnect]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

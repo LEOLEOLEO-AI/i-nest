@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
+[[Cognitive_Relapse_Decoupling]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Memristive_Topology]]

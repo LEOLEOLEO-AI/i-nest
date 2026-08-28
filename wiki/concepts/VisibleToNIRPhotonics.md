@@ -31,19 +31,23 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[DataMovementMinimization]]
 [[Die_to_Die_Protocol]]
 [[DirectConnect_Topology]]
 [[DualSided_3D_Integration]]
+[[EdgeIoTEnergyAwareness]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[ModeCouplingSuppression]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

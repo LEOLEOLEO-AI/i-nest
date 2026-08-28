@@ -31,12 +31,16 @@ Auto-extracted concept from raw material compilation.
 [[CellularSheaf]]
 [[Chiplet_Heterogeneous_Integration]]
 [[ChiralSurfaceFermiProjection]]
+[[CircuitTopologySearch]]
+[[Complex_System_Theory]]
 [[GraphTopologyAnalysis]]
 [[Heterogeneous_Integration]]
 [[InformationSciences_Division]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

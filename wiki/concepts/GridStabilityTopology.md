@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Driven_Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[Local_Approximation_Dynamics]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

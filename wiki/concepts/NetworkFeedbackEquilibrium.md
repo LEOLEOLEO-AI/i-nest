@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -30,10 +31,12 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

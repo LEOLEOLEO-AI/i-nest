@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Architectural_Conditioning]]
 [[CST_Spatiotemporal_Complexity]]
+[[ClinicalTranslationBridge]]
 [[Complex_System_Theory]]
 [[DynamicTopologyMapping]]
 [[Dynamic_Expert_Fusion]]

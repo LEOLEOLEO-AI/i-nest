@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Generative_Graph_Models]]
 [[Interconnect_Routing]]

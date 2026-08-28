@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DelayCodedWorkingMemory]]
 [[DiscreteSTDP]]
 [[Event_Driven_Architecture]]
+[[In_Package_Neuromorphic_Integration]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
 [[NeuromorphicGraphAnomalyDetection]]

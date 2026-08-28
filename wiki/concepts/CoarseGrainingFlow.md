@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[DecisionDiagramCompression]]
 [[Decoupled_Priors]]
@@ -39,13 +40,16 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Chiplet_Customization]]
 [[Heterogeneous_Inference_Division]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
+[[Midterm_Project_Review]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

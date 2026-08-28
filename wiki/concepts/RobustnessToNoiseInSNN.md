@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Complexity_Emergence_Engineering]]
 [[ConsciousnessEngineeringLoop]]
+[[Intelligence_Emergence]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
 [[Network_on_Chip]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThresholdBasedSpikeEncoding]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 
 ## Sources

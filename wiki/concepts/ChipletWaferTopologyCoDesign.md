@@ -22,10 +22,13 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
 [[BackpropagationFreeLearning]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
@@ -38,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Page]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ArchitecturalCondition]]
 [[AvalancheBranchingRatio]]
 [[BranchingRatio]]
+[[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
 [[Network_Topology_Design]]
 [[Self_Organized_Criticality]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[ClosedLoopNeuromorphicControl]]
 [[CollectiveDynamics]]
+[[Controlled_Release_Kinetics]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
 [[Gut_Brain_Immune_Network]]

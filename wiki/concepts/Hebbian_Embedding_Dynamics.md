@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[20W_Brain_Inspired_Planning]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Chiplet_Integration_Route]]
+[[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CorticalWaveRouting]]

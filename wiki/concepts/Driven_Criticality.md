@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
+[[Local_Approximation_Dynamics]]
 [[MultiSourceTaskonomy]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

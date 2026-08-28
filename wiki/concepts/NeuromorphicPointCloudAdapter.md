@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenGraphTraversal]]
 [[EventDrivenSynchronization]]
 [[FrequencyAdaptationMechanism]]
+[[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

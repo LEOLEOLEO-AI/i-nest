@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[AdiabaticModeEvolution]]
 [[CircuitTopologyEncoding]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DelayPropagationDynamics]]
 [[InNetworkReconfiguration]]

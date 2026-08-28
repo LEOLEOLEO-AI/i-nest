@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
+[[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
@@ -45,7 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[TopologicalAndersonChernInsulator]]
 [[Wafer_Scale_Integration]]
-[[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[神经网络]]
 

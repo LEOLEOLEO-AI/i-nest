@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Analog_InMemory_Processing]]
 [[Attention_Residuals]]
+[[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Ferroelectric_ComputeInMemory]]
 [[Ferroelectric_Devices]]

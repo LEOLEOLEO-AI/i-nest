@@ -27,13 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
+[[TCCNPU_Coordination_Roadmap]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 
 ## Sources

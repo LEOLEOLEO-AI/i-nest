@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[MeanFieldSpinGlass]]
 [[Memristive_Topology]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
+[[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经形态脉冲大语言模型（NSLLM）]]
 [[神经网络]]
 

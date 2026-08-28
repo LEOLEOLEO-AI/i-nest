@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[BurstInterleaving]]
+[[Complex_System_Theory]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OptimalGeneralisationNearInterpolation]]
 [[ResonateAndFireEncoding]]
 [[SpikePacketCompression]]
 [[SpikingNeuralNetworkTopologyMapping]]

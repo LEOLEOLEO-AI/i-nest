@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Hardware_Accelerated_SNN]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
+[[In_Network_Neuromorphic_Processing]]
 [[Intelligence_Emergence]]
 [[Network_on_Chip]]
 [[NeuralNetworkSpectralAnalysis]]

@@ -28,12 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
+[[CrossDomain_Synthesis]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

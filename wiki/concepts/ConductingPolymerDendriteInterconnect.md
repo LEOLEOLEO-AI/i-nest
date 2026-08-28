@@ -26,10 +26,12 @@ Auto-extracted concept from raw material compilation.
 [[ChannelCountScaling]]
 [[ChipletTopologyAwareness]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[ConductingPolymerDendriteMemory]]
 [[Cross_Node_Event_Propagation]]
 [[FixedOverheadFloor]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[ModelOptimization]]
@@ -38,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[OpticallyWritableAtomicVaporMemory]]
 [[TCC]]
 [[TopologyAware_Convergence]]
+[[TypeSafeHardwareGeneration]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

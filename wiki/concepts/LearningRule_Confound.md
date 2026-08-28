@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Ecosystem]]
 [[AI_Orchestrator]]
 [[AdsorptionBiosorptionMechanism]]
+[[AgentReinforcementLoop]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[evaluation resolution]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

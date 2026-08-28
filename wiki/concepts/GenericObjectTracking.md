@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BoundaryObject_Abstraction]]
+[[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[DifferentiableRasterizationPipeline]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EndToEndTopologyLearning]]
 [[IMPLYMemristiveISA]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[Medical_Large_Language_Models]]
 [[Memristive_Interconnect]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -45,8 +47,10 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[StochasticBinaryNetwork]]
 [[TCC]]
+[[ThirdWaveAI]]
 [[Topology_Centric_Neuromorphic]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[Biomanufacturing_Control_Loop]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
 [[Contested_Priors_Mechanism]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[DendriticReservoirState]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[TopologyEmbeddedIntrospection]]

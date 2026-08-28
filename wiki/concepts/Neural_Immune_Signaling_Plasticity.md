@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Accessibility_Plasticity]]
+[[Active_Inference_Agent]]
 [[AdaptiveFrequencyResonateFire]]
 [[AdaptiveTimeStepTraining]]
 [[Adaptive_Deep_Brain_Stimulation]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[BrainBodyResonance]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[Dendritic_In_Context_Learning]]
 [[Emergent_Intelligence_Roadmap]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
 [[synaptic plasticity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,9 +29,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[DynamicServiceComposition]]
 [[EdgeIoTEnergyAwareness]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -52,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

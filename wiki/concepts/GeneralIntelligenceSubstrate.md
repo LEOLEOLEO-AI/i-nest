@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
+[[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicServiceComposition]]
 [[Dynamic_Expert_Fusion]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDSoW_Physical_Base]]
 [[SoftwareDefinedSystemOnWafer]]
 [[Software_Defined_Interconnect]]
 [[TCC]]
@@ -50,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Wafer]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

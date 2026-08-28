@@ -48,9 +48,11 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Yann LeCun：发现智能原理是AI的终极问题]]
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]
+[[神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

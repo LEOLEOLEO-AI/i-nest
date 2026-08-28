@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[BigBrainCellularAxis]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System_Theory]]
 [[Complexity_Emergence]]
 [[Constructed_Reality_Interconnect]]
 [[Core_Spacetime_Tensor]]
@@ -44,6 +45,8 @@ Auto-extracted concept from raw material compilation.
 [[causal emergence]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

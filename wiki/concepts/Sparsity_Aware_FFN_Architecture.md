@@ -27,15 +27,19 @@ Auto-extracted concept from raw material compilation.
 [[CUDAQSimulationFramework]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[CrossSubstrateHomology]]
 [[DARPA_ProjectManager_Model]]
 [[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Obsidian_Plugin_Architecture]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

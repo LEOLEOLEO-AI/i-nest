@@ -24,11 +24,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BurstGatedRouting]]
+[[Complex_System_Theory]]
 [[Critical_Region_Extension]]
+[[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[Memristive_Interconnect]]
+[[Multipath_Adaptive_Reliability]]
 [[Network_Topology_Design]]
 [[NeuromorphicTrackingPipeline]]
 [[Neuromorphic_Computing]]
@@ -44,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

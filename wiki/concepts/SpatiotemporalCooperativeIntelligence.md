@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[Analog_Computation]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
@@ -44,10 +45,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Spatiotemporal_Synergy_Complexity]]
 [[Swarm_Coordination]]
+[[Synaptic_Plasticity]]
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

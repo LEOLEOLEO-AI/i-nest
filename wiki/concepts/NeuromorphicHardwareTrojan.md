@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Design]]
+[[Complex_System_Theory]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
@@ -31,7 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
-[[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Interconnect]]
 [[iNEST]]
 [[Γst_Revision]]
 

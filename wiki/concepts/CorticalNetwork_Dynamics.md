@@ -29,11 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Industrial_Ecosystem]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[KV_Cache_to_BoundaryObject]]
+[[KV_Cache_to_BoundaryObject_Transition]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

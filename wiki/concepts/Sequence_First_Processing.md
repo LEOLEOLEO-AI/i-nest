@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsemble]]
 [[In_Package_Neuromorphic_Integration]]
 [[Interconnect_Routing]]
+[[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Spiking_Neural_Network]]

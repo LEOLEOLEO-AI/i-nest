@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[ExtinctionDrivenMetastability]]
 [[FPGA_Accelerated_SNN]]
+[[Meta_Residual_Architecture]]
+[[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

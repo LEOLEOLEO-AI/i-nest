@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_Manufacturing_Strategy]]
 [[Distributed_Spike_Communication]]
 [[HodgkinHuxleyDynamics]]
+[[In_Package_Neuromorphic_Integration]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]

@@ -29,12 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[HighTemporalResolutionSensing]]
 [[In_Network_Neuromorphic]]
 [[Memristor_Synapse]]
+[[NeuromorphicRoutingOptimization]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Nonlinear_Gain]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[memristor device]]
 
 ## Sources

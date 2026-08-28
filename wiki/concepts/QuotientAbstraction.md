@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[AstrocyteInspiredRepair]]
+[[AutogradCompatibleSpiking]]
 [[BiSpikCLM]]
 [[BrainScaleTopologyExploitation]]
 [[Brain_Dynamics_Learning]]

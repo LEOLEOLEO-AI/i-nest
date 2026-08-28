@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
+[[Syncytial_Information_Integration]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
+[[Wafer_Scale_Memristor_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[complex system]]
 [[emergent computation]]

@@ -30,12 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveNetworkResilience]]
 [[Analog_Computation]]
 [[Asymptotic_Exact_Solution]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[HierarchicalAttention_MIL]]
+[[Intelligence_Emergence]]
 [[Multi_Scale_Habituation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

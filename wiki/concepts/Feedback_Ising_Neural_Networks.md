@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AllOpticalHebbianLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[DARPA_ProjectManager_Model]]
 [[DisturbancePropagationPath]]
 [[ElectronicPhotonicIntegratedCircuit]]
 [[Heterogeneous_Integration]]

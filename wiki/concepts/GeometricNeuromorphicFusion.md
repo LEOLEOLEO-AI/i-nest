@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
+[[NeuromorphicSpikingTopology]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -39,11 +40,11 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]
+[[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic spiking]]
 
 ## Sources

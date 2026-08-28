@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
+[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[Contested_Prior_Resolution]]
 [[ContinuousTimeSNN]]

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Combinatorial_Optimization_Readout]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[Connectome_Reservoir]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[CriticalFluctuationReservoir]]

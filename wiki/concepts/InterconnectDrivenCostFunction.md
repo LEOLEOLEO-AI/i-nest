@@ -26,10 +26,13 @@ Auto-extracted concept from raw material compilation.
 [[BisectionBandwidthMetric]]
 [[Chip_Floorplanning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Aware_Placement]]
+[[Complex_System_Theory]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -37,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[RoutabilityDrivenFloorplanning]]
 [[TCC]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

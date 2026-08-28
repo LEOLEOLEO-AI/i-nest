@@ -25,18 +25,21 @@ Auto-extracted concept from raw material compilation.
 [[3D_Heterogeneous_Integration]]
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
+[[AndersonTransition]]
 [[Bipartite_Interconnect]]
-[[Bipartite_Interconnect_Fabric]]
 [[CXL_Deployment_Transition]]
 [[ChipletTopologyAwareness]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

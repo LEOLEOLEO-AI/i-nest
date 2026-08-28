@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Fixed_Cost_Dominance]]
 [[HigherOrderTransitionKernel]]
 [[Intelligent_Computing_Infrastructure]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 
 ## Sources

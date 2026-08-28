@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
 [[CST_Equation]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[ViewDependentAppearance]]
 [[WaferScaleSubstrate]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

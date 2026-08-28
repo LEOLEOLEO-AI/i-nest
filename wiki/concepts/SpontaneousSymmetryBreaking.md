@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Cognitive_Relapse_Decoupling]]
 [[CorticalTypeDiversity]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[DelayTolerantNetworkUAV]]
 [[ExactlyFlatTopologicalBands]]

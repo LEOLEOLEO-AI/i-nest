@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Event_Driven_Architecture]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[Neuromorphic_Computing]]
 [[PhaseLockedTopologyMapping]]
 [[STDP_Learning]]

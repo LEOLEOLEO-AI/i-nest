@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CeYIGMagnetoOpticalIsolator]]
 [[CellEmergence]]
 [[ConsciousnessEngineeringLoop]]
+[[CriticalityInducedTopology]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[Intelligence_Emergence]]

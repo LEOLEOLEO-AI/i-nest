@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AndersonTransition]]
 [[Anisotropic_Correlation_Length]]
+[[Ant_Swarm_Functional_Control]]
 [[Baseline_Draft_Status]]
 [[BifurcationCandidate]]
 [[Interconnect_Routing]]

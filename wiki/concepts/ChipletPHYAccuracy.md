@@ -31,12 +31,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Industrial_Ecosystem]]
 [[ANN动力学]]
 [[AutonomousServiceNegotiation]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[DarkSiliconAwareCooling]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

@@ -30,14 +30,17 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Cluster_Switch_Bottleneck]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[Analog_InMemory_Processing]]
 [[Asymptotic_Exact_Solution]]
 [[BoseCondensateAnalogy]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Switch_Bottleneck]]
 [[TCC]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

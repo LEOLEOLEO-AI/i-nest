@@ -44,9 +44,11 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SpinalHDL_DSL]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

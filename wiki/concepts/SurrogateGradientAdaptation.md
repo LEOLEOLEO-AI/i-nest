@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[AstrocyteInspiredRepair]]
 [[BioInspiredLearningRule]]
+[[BrainBodyResonance]]
 [[Complex_System_Theory]]
 [[FlexibilityThreshold]]
 [[Neuromorphic_Computing]]

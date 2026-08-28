@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[CognitiveSupportTopology]]
+[[CollectiveConsensus]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[CrossSubstrateHomology]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

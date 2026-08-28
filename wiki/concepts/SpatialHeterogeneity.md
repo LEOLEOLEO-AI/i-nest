@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamics_Matching]]
 [[Evolutionary_Reservoir_Adaptation]]
 [[HybridReservoirComputing]]
+[[MechanicalReservoirComputing]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Projection]]

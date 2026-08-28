@@ -25,12 +25,15 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
+[[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Evolutionary_Structure_Computability]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[MetricComputationAuthenticity]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
@@ -49,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

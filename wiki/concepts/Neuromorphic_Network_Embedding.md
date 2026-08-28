@@ -20,9 +20,9 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[BigBrainCellularAxis]]
 [[Hardware_Accelerated_SNN]]
 [[In_Network_Neuromorphic]]
-[[In_Network_Neuromorphic_Processing]]
 [[Memristor_Network]]
 [[Memristor_Synapse]]
 [[National_Innovation_Center_Role]]
@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SNN]]
+[[STDP_Plasticity]]
 [[ST_SNN]]
 [[Spiking_Neural_Network]]
 [[TCC]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CSI_Temporal_Encoding]]
+[[ComplexValuedSNN]]
 [[HigherOrderSimplicialDynamics]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopologyMapping]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGABasedNeuromorphic]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

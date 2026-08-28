@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
@@ -33,7 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Network_Spatiotemporal_Coordination]]
@@ -47,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[chiplet interconnect]]
 [[temporalComplexity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

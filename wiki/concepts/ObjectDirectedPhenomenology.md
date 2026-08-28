@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ApproximateMacroscopicDynamics]]
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[haltability]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[InNetworkNeuromorphicSimulation]]
 [[InNetwork_CST_Offload]]
-[[In_Network_Neuromorphic_Processing]]
+[[In_Network_Neuromorphic]]
 [[Intelligence_Emergence]]
 [[Memristive_ANN_Hardware]]
 [[Memristive_STDP]]
@@ -64,7 +64,6 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[temporalComplexity]]
 [[三原理协同_FEP_STDP_最小作用量]]
 

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Military_AI_Revolution]]
 [[RecurrentOscillatoryComputation]]
 [[TCC]]
+[[Topological_Flow_Logic]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

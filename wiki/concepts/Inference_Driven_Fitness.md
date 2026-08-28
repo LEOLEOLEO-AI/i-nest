@@ -31,9 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[BeyondPTSymmetry]]
 [[BigBrainCellularAxis]]
 [[BrownianCastleInterface]]
+[[CausalEmergenceCondition]]
+[[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

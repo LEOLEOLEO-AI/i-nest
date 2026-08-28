@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]
 [[CST计量仪]]
@@ -32,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[FastSlow_Dynamics]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalInterfaceBlock]]
+[[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
@@ -43,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

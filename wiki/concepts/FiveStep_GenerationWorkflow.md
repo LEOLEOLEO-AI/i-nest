@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DimensionalityReductionPrinciple]]
 [[Driven_Criticality]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[PPT]]
 [[Self_Organized_Criticality]]
 [[Stigmergic_RL]]

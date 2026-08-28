@@ -37,11 +37,15 @@ Auto-extracted concept from raw material compilation.
 [[BayesianDomainEvolution]]
 [[BehavioralFeedbackLoop]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[Complex_System_Theory]]
+[[EmulationTheoryObserver]]
 [[FlexibilityThreshold]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

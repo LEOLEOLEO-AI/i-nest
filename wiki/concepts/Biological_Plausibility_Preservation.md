@@ -33,11 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[AI_Orchestrator]]
 [[AgentReinforcementLoop]]
 [[Agent_Workflow_Automation]]
+[[Analog_InMemory_Processing]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

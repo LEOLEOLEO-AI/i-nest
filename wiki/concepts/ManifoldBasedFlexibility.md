@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[ExactlyFlatTopologicalBands]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Memristive_Topology]]

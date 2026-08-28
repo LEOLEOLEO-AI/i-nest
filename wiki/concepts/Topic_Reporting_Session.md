@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[1M1T1R_SynapticNeuron]]
+[[3D_IC_Stacking]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
+[[Environmental_Capability_Context]]
 [[EventCameraActionRecognition]]
 [[Expert_Review_Arbitration]]
 [[Heterogeneous_Integration]]

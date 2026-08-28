@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Topology]]
 [[CoPoS]]
+[[Complex_System_Theory]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -42,11 +44,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Chiplet]]
 [[SDI_Topology]]
+[[SDI_Topology_Interconnect]]
 [[TCC]]
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

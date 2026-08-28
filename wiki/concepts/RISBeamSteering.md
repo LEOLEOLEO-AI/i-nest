@@ -30,11 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveCompetingInteractions]]
 [[AdaptiveEntanglementManagement]]
 [[AdjointWaveControl]]
+[[Complex_System_Theory]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
+[[Divergent_HigherArea_Rankings]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

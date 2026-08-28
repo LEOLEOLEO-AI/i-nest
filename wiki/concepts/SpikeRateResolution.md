@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[MarginalContributionFitness]]
 [[NeuromorphicNetworkSecurity]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
+[[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

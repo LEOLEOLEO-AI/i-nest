@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[OnChipSNNTrainingEngine]]
 [[Organic_Neuromorphic_Transistor]]
 [[SNN]]
+[[SNN_Backpropagation_Through_Time]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[StochasticBinaryDynamics]]

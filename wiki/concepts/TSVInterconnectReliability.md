@@ -29,8 +29,11 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Heterogeneous_3D_Stacking]]
 [[Heterogeneous_Integration]]
+[[Inference_Flow_Stage_Aware_Topology]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
@@ -38,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[TopologyAware_Routing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

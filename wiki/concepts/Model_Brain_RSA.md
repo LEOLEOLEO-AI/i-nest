@@ -28,8 +28,10 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AI_Orchestrator]]
 [[Agent_Workflow_Automation]]
+[[Analog_InMemory_Processing]]
 [[Asymptotic_Exact_Solution]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Representational similarity analysis]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[neuromorphic computing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

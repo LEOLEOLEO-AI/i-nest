@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[BranchingRatio]]
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
+[[ContinuousTraitAxelrodModel]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

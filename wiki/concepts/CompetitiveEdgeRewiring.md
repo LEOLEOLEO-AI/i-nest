@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicSymmetryBreaking]]
 [[CirculateFiringNeuron]]
 [[CognitiveFeedbackLoop]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
@@ -44,8 +45,10 @@ Auto-extracted concept from raw material compilation.
 [[Representation_Learning_Generalization]]
 [[RestingStateEEG_Connectivity]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
+[[Strategic_CommsSupremacy]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AnomalousSpinTransport]]
+[[BigBrainCellularAxis]]
 [[ComplexValuedSNN]]
 [[CrashHotspotForecasting]]
 [[DTGA]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TwoTimescaleNeuroEvolution]]
+[[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[智能涌现]]
 [[涌现]]

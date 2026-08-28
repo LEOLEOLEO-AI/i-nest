@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
+[[EdgeInspectionInference]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenTrajectoryEncoding]]
 [[InputAdaptiveComputation]]

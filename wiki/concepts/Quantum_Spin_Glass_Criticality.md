@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Anomaly_Induced_Quantum_Criticality]]
 [[Ant_Swarm_Functional_Control]]
 [[BioInspired_Interception_Control]]
+[[BurstGatedRouting]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

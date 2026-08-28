@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
 [[DifferentiableRasterizationPipeline]]
@@ -34,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -47,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[ThirdWaveAI]]
 [[TopologicalAndersonChernInsulator]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

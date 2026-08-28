@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[DifferentiablePlacement]]
 [[EpidemicThreshold]]
 [[InSensorMemoryComputing]]
+[[In_Package_Neuromorphic_Integration]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[LocalQuantumLearningRule]]

@@ -34,10 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[DynamicServiceComposition]]
 [[Free_Energy_Topology_Mapping]]
+[[Haltability]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -34,7 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_timing_dependent_plasticity]]
 [[Spike_timing_dependent_plasticity_learning_rule]]
 [[Spiking_Neural_Network]]
-[[Spiking_neural_network_dynamics]]
+[[Spiking_neural_network]]
 [[Synaptic_Plasticity]]
 [[fractal_Scaling]]
 [[neuromorphic computing]]

@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SelfOrganizedRobustness]]
 [[Self_Organized_Criticality]]
+[[SubsystemInformationCapacity]]
 [[criticality]]
 [[iNEST]]
 

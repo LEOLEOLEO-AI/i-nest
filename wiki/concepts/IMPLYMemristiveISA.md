@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[FlagOS_2_0]]
 [[HybridResistiveMemoryCIM]]
+[[InMateriaComputing]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[Long_Range_Interactions]]

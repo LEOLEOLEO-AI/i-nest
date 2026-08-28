@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[3DGS_Scene_Graph]]
 [[3DHI_Integration]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[MelanomaMAPKPathway]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

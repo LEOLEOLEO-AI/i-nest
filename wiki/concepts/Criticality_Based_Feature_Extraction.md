@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[SDN_Neuromorphic_Interface]]
 [[SNN]]
 [[SNN_NeuroprostheticPipeline]]
+[[SNN_Topology_Mapping]]
 [[Self_Organized_Criticality]]
 [[SparseActivationPattern]]
 [[Spike_Encoding_of_fMRI]]

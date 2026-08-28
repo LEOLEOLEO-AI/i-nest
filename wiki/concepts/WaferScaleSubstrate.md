@@ -46,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[Textbook_Paradigm_Definition]]
 [[Wafer_Scale_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]

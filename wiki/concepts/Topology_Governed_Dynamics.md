@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
+[[Heterogeneous_Integration_Security]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[神经网络]]

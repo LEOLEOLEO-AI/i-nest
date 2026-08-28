@@ -29,12 +29,16 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredLearningRule]]
 [[BurstTemporalPlasticity]]
+[[Complex_System_Theory]]
+[[CriticalWeightNormBoundary]]
 [[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

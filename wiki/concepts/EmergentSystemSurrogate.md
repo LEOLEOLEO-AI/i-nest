@@ -26,6 +26,8 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[Biomanufacturing_Control_Loop]]
 [[BrainScaleTopologyExploitation]]
+[[Complex_System_Theory]]
+[[Control_Field_Framework]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
 [[Intelligence_Emergence]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[topology reconfiguration]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

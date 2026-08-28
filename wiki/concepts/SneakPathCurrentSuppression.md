@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[ChipletWaferInterconnectCoDesign]]
 [[Complex_System_Theory]]
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Dynamic_Expert_Fusion]]

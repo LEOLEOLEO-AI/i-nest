@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[ConductingPolymerDendriteMemory]]
+[[Cross_Node_Event_Propagation]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

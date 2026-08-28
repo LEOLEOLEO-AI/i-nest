@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
+[[Activity_Energy_Tradeoff]]
 [[Agent_Interaction_Sequencing]]
 [[AsynchronousEventDrivenComputation]]
 [[Avoided_Criticality]]
@@ -31,7 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]
 [[Emergent_Intelligence_Threshold]]
-[[EnergyEfficientNeuromorphicDesign]]
+[[EnergyEfficientNeuromorphic]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NeuralNetworkSpectralAnalysis]]

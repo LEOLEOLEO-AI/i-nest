@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BalancedRouting]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[CellEmergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]

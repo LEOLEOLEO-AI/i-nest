@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[EmergentIntelligence_Spacetime]]
 [[Heterogeneous_Integration]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SystemLevelNonlinearity]]
 [[Textbook_Paradigm_Definition]]
 [[TopologyCentricEngineeringBase]]
+[[iNEST]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

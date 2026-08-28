@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[2026-06-15_大脑的量子纠缠与信息动力学]]
 [[ActivityAvalanche]]
 [[AdaptiveAsymmetricSurrogateGradient]]
+[[AdaptiveAsymmetricSurrogateGradients]]
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AdaptiveFrequencyResonateAndFire]]
 [[Adaptive_Replication_Strategy]]

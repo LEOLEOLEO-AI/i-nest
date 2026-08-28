@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[DivergentHigherAreaRanking]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]

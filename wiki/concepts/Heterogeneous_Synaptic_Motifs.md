@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DisorderedNetworkDynamics]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

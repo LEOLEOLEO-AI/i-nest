@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Priors_Architecture]]
 [[Continual_Learning_Modularity]]
 [[CriticalFixedPoint]]
+[[CriticalityInducedComputationalCapacity]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
 [[Self_Organized_Criticality]]

@@ -24,16 +24,20 @@ Auto-extracted concept from raw material compilation.
 [[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
+[[4H_SiC_SubstrateProcessing]]
 [[BarrierConditionedTrajectory]]
 [[Cascading_Failure_Mitigation]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
 [[Deep_Thermalisation]]
 [[DelayPropagationDynamics]]
 [[DirectConnect_Topology]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[HighThroughputParticleRouting]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
@@ -41,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TSVInterconnectReliability]]
 [[TopologyAware_Routing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

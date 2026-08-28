@@ -30,12 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Alpha_Computation_Consistency]]
 [[BurstTemporalPlasticity]]
+[[Complex_System_Theory]]
+[[ConstraintDrivenOptimization]]
 [[Emergent_Intelligence_Roadmap]]
 [[GradientBasedTopologyOptimization]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FerroelectricMemoryCell]]
 [[Ferroelectric_Devices]]
 [[HierarchicalAttention_MIL]]
+[[InterconnectConstrainedEmergence]]
 [[KV_Cache_To_BoundaryObject]]
 [[Metastable_State_Hierarchy]]
 [[Network_Topology_Design]]

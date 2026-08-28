@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[Communication_Trace_Diagnostics]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -36,6 +37,8 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[WaveBasedInformationRouting]]
+[[忆阻器]]
+[[涌现]]
 [[神经形态计算]]
 
 ## Sources

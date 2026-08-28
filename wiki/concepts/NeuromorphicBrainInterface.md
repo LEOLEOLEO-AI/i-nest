@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Neuromorphic_Organization]]
+[[Sequence_First_Processing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 [[spiking neural network]]

@@ -39,9 +39,10 @@ Auto-extracted concept from raw material compilation.
 [[PhaseLockedTopologyMapping]]
 [[SNN]]
 [[ST_SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
+[[SynapticRewiringDynamics]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

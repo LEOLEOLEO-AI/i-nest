@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
+[[SimulabilityThreshold]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[branch prediction]]

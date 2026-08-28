@@ -28,11 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Anisotropic_Correlation_Length]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[Complex_System_Theory]]
 [[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Level_of_Splat_Detail]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -43,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Embedded_Field_Encoding]]
 [[WavelengthMultiplexedInterconnect]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

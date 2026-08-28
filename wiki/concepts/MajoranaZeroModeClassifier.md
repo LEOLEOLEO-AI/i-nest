@@ -31,11 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AutonomousServiceNegotiation]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[MajoranaZeroMode]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

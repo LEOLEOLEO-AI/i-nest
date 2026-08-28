@@ -35,6 +35,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[CST计量仪]]
 [[Complex_System_Theory]]
 [[Connectome]]
+[[Connectome_Inspired_Architecture]]
 [[CriticalPhaseTransitionStatisticalTest]]
 [[Criticality]]
 [[Intelligence_Emergence]]

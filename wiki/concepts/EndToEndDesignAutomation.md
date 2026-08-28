@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
 [[Free_Energy_Principle_Network]]
@@ -36,8 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[ScaleFreeNetwork]]
 [[TCC]]
+[[Translation_Invariant_Closure]]
 [[Wafer_Scale_Integration]]
-[[Wafer_Scale_Interconnect_Memristor]]
+[[Wafer_Scale_Interconnect]]
 [[Γst_Revision]]
 
 ## Sources

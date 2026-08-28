@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[GNN图神经网络，非结构化数据分析利器！]]
+[[GroupWise_DragonflyPlus]]
 [[Intelligence_Emergence]]
 [[InterconnectionInertiaProfile]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
@@ -47,7 +48,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -24,18 +24,22 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_SplatPrimitive]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[HigherOrderDynamicalNetworkReduction]]
 [[HigherOrderDynamicalNetwork]]
 [[HigherOrderSimplicialDynamics]]
 [[HigherOrderTransitionKernel]]
 [[IncidenceBasedRandomWalk]]
+[[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

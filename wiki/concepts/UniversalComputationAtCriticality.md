@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[EvolvingArchitectureDynamics]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[HybridCouplingThermosensitiveNetwork]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Pods4Rail_Topology]]

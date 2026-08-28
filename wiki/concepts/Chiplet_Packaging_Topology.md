@@ -32,16 +32,20 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[Complex_System_Theory]]
 [[Compute_Centric_NoC]]
 [[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Interconnect]]
+[[OnDie_Fusion]]
 [[TCC]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

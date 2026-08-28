@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Gate_Synthesis_Readout]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
+[[LivingNeuronalNetworkTopology]]
 [[Network_Topology_Design]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]

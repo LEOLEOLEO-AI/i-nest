@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[SensorMemoryCoLocation]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]

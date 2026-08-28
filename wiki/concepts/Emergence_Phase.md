@@ -23,11 +23,13 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DHI_Chiplet_Integration]]
 [[3D_Heterogeneous_Integration]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
 [[ActiveMatterComputing]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[EnergyAwareLearning]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[emergence phase]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AlloyDisorderEngineering]]
 [[Biologically_Plausible_Learning_Rules]]
+[[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Complex_System_Theory]]
 [[CriticalFixedPoint]]

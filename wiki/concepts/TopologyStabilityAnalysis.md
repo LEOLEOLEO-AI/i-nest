@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[CST_CoarseGraining]]
 [[CST_Spatiotemporal_Complexity]]
+[[CST_SynergisticCoordination]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectTopology]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[temporalComplexity]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[NeuromorphicControlBarrierFunction]]
 [[Neuromorphic_Computing]]
+[[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

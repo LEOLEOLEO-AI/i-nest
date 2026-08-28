@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Interconnect]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
+[[3D_IC_Stacking]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AdaptiveDensityControl]]
 [[AdsorptionBiosorptionHybrid]]
@@ -34,8 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_System_Theory]]
 [[Decoupling_Mechanism]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[SDI_Bond]]
@@ -45,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

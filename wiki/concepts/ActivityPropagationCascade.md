@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalNormBoundary]]
 [[Criticality]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[Network_Topology_Design]]
 [[SNN]]
 [[Self_Organized_Criticality]]

@@ -30,12 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Bias_Origin_Taxonomy]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
+[[DARPA_ERI_Program]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

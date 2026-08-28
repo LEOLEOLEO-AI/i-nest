@@ -31,7 +31,9 @@ Auto-extracted concept from raw material compilation.
 [[CorticalTypeDiversity]]
 [[Decoupled_Priors]]
 [[Free_Energy_Principle_Network]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -41,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

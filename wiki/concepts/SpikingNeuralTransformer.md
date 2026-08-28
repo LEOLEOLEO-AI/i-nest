@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicControlBarrierFunction]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
+[[Spinal_CPG_Coordinated_Control]]
 [[iNEST]]
 
 ## Sources

@@ -34,9 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Electronic_Crystal_Dynamics]]
 [[Free_Energy_Topology_Mapping]]
+[[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

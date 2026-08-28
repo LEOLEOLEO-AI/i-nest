@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[CLINKAsCarrierPrimitive]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[Emergent_Topology_Adaptation]]
 [[FatalityDrivenRewiring]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MagneticallyDopedTopologicalInsulator]]
 [[Network_Topology_Design]]
 [[NonHermitian_Delocalization]]
 [[Order_Flexibility_Duality]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

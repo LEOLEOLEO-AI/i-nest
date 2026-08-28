@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[DisorderedNetworkInterconnect]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
@@ -35,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[StochasticMultiAgentRL]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

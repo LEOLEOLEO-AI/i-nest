@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
+[[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
 [[DirtyWeylSemimetal]]
 [[DisorderedNetworkInterconnect]]
@@ -41,9 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[NoiseModulatedLearning]]
 [[RecursiveSelfReferentialArchitecture]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

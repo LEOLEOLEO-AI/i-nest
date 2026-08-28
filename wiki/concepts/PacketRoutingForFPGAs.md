@@ -23,19 +23,23 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
+[[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Free_Energy_Principle_Network]]
+[[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[Package_Level_Interconnect]]
 [[PacketRoutingOptimization]]
 [[TCC]]
 [[Topology_Centric_Computing]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

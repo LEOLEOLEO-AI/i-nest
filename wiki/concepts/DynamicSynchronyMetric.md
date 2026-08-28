@@ -30,13 +30,16 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CircuitTopologyEncoding]]
+[[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
 [[Critical_Region_Extension]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
 [[Dynamic_Expert_Fusion]]
+[[EpidemicTopologyCoevolution]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -44,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

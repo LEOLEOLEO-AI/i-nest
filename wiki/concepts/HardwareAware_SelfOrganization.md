@@ -25,8 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[InterfaceCentricTopology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -35,12 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[SDSoW]]
 [[SDSoW_Architecture]]
-[[SDSoW_TCC_Integration]]
 [[SelfOrganization]]
 [[TCC]]
+[[TopologyAware_Embedding]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

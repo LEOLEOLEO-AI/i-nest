@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SpikeRoutingFabric]]
 [[Spiking_Neural_Network]]
+[[StarvationSuppression]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

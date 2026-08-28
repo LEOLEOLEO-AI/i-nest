@@ -45,10 +45,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[OpportunisticRoutingRL]]
 [[RecursiveSelfReferentialArchitecture]]
 [[catastrophic forgetting]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

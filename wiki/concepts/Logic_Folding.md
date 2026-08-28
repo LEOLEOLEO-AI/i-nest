@@ -32,7 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Inference_Stage_Decomposition]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
@@ -44,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Space_Compute_Architecture_Tradeoff]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

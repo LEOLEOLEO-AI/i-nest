@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Activity_Energy_Tradeoff]]
 [[BurstGatedRouting]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]

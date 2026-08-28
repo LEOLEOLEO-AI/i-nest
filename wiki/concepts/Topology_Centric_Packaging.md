@@ -28,10 +28,12 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MemoryDrivenRouting]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Centric_Computing]]
 [[Topology_Centric_Interconnect]]
 [[causal emergence]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

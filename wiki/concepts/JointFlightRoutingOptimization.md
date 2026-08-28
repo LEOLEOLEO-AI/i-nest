@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CircuitTopologyEncoding]]
 [[CorticalTypeDiversity]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DelayPropagationDynamics]]
 [[DelayTolerantNetworkUAV]]

@@ -22,6 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
+[[Complex_System_Theory]]
 [[ERI_2_0_Strategic_Framework]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
@@ -33,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[Performance_Prediction_Model]]
 [[PhaseModulationTestability]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DelayPropagationDynamics]]
 [[Dynamic_Expert_Fusion]]

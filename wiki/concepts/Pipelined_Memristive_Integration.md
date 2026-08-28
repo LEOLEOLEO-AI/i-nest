@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
+[[Pipelined_Processor_Integration]]
 [[Reservoir_Computing]]
 [[TCC]]
 [[branch prediction]]

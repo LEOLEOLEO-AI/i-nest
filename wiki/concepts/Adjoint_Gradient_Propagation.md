@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[AddressRedundancyElimination]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[ConsciousnessEngineeringLoop]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Local_Approximation_Dynamics]]
 [[LossSpikePhenomenon]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

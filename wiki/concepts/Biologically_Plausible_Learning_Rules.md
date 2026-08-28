@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
+[[SelfMotivatedGrowth]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]

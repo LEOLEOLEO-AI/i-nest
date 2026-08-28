@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
 [[Compute_In_Memory_Neuromorphic]]
+[[EventDrivenTemplateUpdate]]
 [[In_Memory_Computing]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]

@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[JointEmbeddingPredictiveArchitecture]]
 [[JunctionCenteredFramework]]
 [[Mesoscale_Heterogeneous_Integration]]
+[[Microbiome_Immune_Endocrine_Interplay]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganizedOscillatoryLearning]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

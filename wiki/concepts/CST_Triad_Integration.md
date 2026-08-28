@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[BCM滑动阈值]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet，解决车规芯片既要、又要、还要难题的唯一解？_智车星球]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DualTopologyProductSplit]]
 [[GroupWise_DragonflyPlus]]
+[[Heterogeneous_Integration]]
 [[Heterogeneous_P_D_Inference]]
 [[Intelligence_Emergence]]
 [[LLM_Assisted_Hardware_Design]]
@@ -50,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AmoebaInspiredLocomotion]]
 [[AsynchronousEventDrivenComputation]]
 [[Dynamic_Expert_Routing]]
+[[EpidemicThreshold]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]
 [[Neuromorphic_Computing]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
 [[Compact_Boson_Dynamics]]
+[[Complex_System_Theory]]
 [[ConnectionCentricParadigm]]
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
@@ -34,11 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[CrossDomain_Synthesis]]
 [[DARPA_Technology_Incubation]]
 [[DelayRobustEmergence]]
+[[DisorderDrivenTemporalOrdering]]
 [[Edge_Intelligence]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[edge intelligence]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

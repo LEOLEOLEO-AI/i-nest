@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[LLM_Heuristic_Pruning]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
+[[Neural_Avalanche]]
 [[Neural_Avalanche_Dynamics]]
 [[Nonlinear_Gain]]
 [[QuantumGateSynthesis]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Heterogeneous_Integration]]
 [[InMateriaComputing]]
 [[In_Package_Optical_Interconnect]]

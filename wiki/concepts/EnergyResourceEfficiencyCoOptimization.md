@@ -40,10 +40,12 @@ Auto-extracted concept from raw material compilation.
 [[Long_Range_Interactions]]
 [[Memristive_CAM_Indexing]]
 [[Memristive_Crossbar_Array]]
+[[Memristor_Synapse]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SuperparamagneticSwitchingRate]]
+[[VaCoAl]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

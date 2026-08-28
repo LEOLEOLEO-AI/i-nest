@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveSupportTopology]]
 [[CollectiveConsensus]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[vLLM_plugin_FLSDI]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

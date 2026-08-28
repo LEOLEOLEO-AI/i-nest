@@ -28,13 +28,17 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[ActivityAvalanche]]
 [[AdaptiveArchitecture]]
+[[AdjointWaveControl]]
+[[Complex_System_Theory]]
 [[FrozenRateOperator]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]
 [[Network_Topology_Design]]
 [[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

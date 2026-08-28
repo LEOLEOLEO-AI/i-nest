@@ -25,7 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
+[[EvolvingArchitectureDynamics]]
+[[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
+[[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[Network_Topology_Design]]
 [[NeuromorphicStatusAwareness]]
@@ -37,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

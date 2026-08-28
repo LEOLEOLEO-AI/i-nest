@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Criticality]]
 [[DataProvenanceIntegrity]]
+[[Deep_Network_Architecture_Invariant]]
 [[InNetworkNeuromorphicSimulation]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]

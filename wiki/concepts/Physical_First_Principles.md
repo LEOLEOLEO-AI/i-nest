@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Nature Communications：具有片上学习的神经形态处理器，用于超越CMOS设备的集成]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

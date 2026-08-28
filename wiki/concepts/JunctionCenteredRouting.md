@@ -28,13 +28,17 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolution]]
 [[AdsorptionBiosorptionHybrid]]
+[[Complex_System_Theory]]
 [[EvolvingArchitectureDynamics]]
 [[InNetworkReconfiguration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Plasticity_vs_Computation_Separation]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

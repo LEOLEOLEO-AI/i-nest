@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[CircadianGateModulation]]
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
+[[Course_Based_FPGA_Projects]]
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]

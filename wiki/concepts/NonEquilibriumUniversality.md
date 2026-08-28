@@ -31,16 +31,18 @@ Auto-extracted concept from raw material compilation.
 [[CircuitSynthesis]]
 [[Closed_Loop_Neuromodulation]]
 [[CognitiveTaskonomy]]
+[[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DisorderedNetworkInterconnect]]
-[[EdgeOfChaosComputation]]
 [[EdgeOfChaos]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Nanoparticle_Network_Interconnect]]
 [[Neuromorphic_Computing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

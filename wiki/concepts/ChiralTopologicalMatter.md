@@ -23,10 +23,12 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Anisotropic_Correlation_Length]]
 [[CST_Equation]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Free_Energy_Principle_Network]]
 [[GraphBasedSemanticRouting]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[ScaleFreeNetwork]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

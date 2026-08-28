@@ -37,12 +37,14 @@ Auto-extracted concept from raw material compilation.
 [[JunctionCenteredFramework]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[Microbiome_Immune_Endocrine_Interplay]]
 [[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
+[[Syncytial_Mesh_Model]]
 [[TCC]]
 [[VariationalFreeEnergyMinimisation]]
 [[iNEST]]

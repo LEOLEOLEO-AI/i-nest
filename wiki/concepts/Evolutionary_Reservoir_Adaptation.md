@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
 [[HardwareAware_DesignSpace]]
+[[NISQHardwareAwareEncoding]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]

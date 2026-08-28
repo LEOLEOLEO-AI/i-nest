@@ -32,10 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[Bipartite_Interconnect]]
 [[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Architectures]]
+[[GenerativeTopologyModels]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[WaferLevelPackaging]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

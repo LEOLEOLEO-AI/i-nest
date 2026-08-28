@@ -32,9 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicAuditoryFrontend]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[OpenSource_Neuromorphic_Framework]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[TCCNPU_Coordination_Roadmap]]
 [[iNEST]]
 
 ## Sources

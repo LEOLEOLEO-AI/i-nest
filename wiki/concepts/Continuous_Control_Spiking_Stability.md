@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Criticality]]
 [[DeepCode_AlgorithmExtraction]]
+[[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

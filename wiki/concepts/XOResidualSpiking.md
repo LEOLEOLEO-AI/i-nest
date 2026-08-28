@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[AlternativeBridgingModels]]
 [[ExtinctionDrivenMetastability]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
+[[ReSCom_Accelerator]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

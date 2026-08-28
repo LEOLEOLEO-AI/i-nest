@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredSequenceLearning]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[CrashHotspotForecasting]]
 [[FatigueSTDP]]
 [[Layered_Attractive_Hubbard_Model]]
 [[NeuromorphicHardware]]

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinuousControlConversion]]
 [[Course_Based_FPGA_Prototyping]]
 [[Criticality]]
+[[DualDrivenHybridNetwork]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

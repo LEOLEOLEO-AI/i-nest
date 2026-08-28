@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MemoryDrivenInterconnect]]
 [[NestedRepresentation]]
+[[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[Sequence_First_Processing]]

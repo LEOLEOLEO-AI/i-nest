@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[HierarchicalBayesianCommunityDetection]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Local_Approximation_Dynamics]]
 [[MacroCriticalityEmergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]

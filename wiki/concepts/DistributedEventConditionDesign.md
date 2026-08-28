@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[CrossDomain_Synthesis]]
 [[DisorderedNetworkInterconnect]]
@@ -47,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

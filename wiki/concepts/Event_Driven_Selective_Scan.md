@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstCoding]]
 [[CIMWeightUpdateAwareness]]
 [[CollectiveSpikingDynamics]]
+[[Complex_System_Theory]]
 [[ConductingPolymerDendriteMemory]]
 [[DelayCodedWorkingMemory]]
 [[Dynamic_Expert_Fusion]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
+[[Spiking_Neural_Network_Audio_Detection]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredLearningRule]]
 [[BurstTemporalPlasticity]]
+[[Complex_System_Theory]]
 [[EventDrivenSynchronization]]
 [[EventDrivenWeightUpdate]]
 [[Network_Topology_Design]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[soc]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -21,12 +21,14 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3DHI_Chiplet_Integration]]
+[[3D_Heterogeneous_Integration]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[Beyond_Moore_Pathway]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[CrossDomain_Integration]]
 [[Deep_Network_Architecture_Invariant]]
 [[Emergent_Intelligence_Threshold]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

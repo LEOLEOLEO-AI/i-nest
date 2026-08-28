@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BitPrecisionAwareScheduling]]
+[[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DimensionalityReductionPrinciple]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[Semantic_Least_Energy_Principle]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

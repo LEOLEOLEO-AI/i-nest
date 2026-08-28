@@ -30,11 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[BandedNonHermitianRandomMatrices]]
 [[Complex_System_Theory]]
 [[Independent_AI_Player_Endgame]]
+[[Intelligence_Emergence]]
+[[MagicStateProtocolAwareCompilation]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[PhotonicStateRetention]]
 [[TCC]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedInference]]
 [[EndocrineAxisDysregulation]]
 [[HierarchicalCrackPattern]]
+[[MagicStateProtocol]]
 [[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]

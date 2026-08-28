@@ -31,8 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircuitTopologySearch]]
+[[Complex_System_Theory]]
+[[CrossLingualIdiomGraph]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
+[[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -41,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[Strategic_Surprise_Prevention]]
 [[TCC]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

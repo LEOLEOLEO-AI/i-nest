@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[AstrocyteInspiredRepair]]
 [[BioInspiredLearningRule]]
 [[ChannelEventSparsity]]
+[[Chiplet_Integration_Route]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]
 [[FlexibilityThreshold]]
@@ -44,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

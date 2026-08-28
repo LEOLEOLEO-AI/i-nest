@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[BitPrecisionAwareScheduling]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
 [[CST_SynergisticCoordination]]
+[[Capability_Forging_Pipeline]]
 [[Capability_Transformation_Mechanism]]
 [[Chain_of_Thought_Reasoning]]
 [[Complex_System_Theory]]

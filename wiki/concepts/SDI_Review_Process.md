@@ -27,6 +27,8 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
+[[ComputationEfficientDeepLearning]]
 [[Deep_Network_Architecture_Invariant]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Emergent_Intelligence_Threshold]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AutomatedQuantizationFramework]]
 [[Automated_Assessment_Framework]]
 [[BiSpikCLM]]
+[[BioPlausibleDisturbanceEstimation]]
 [[CirculateFiringNeuron]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]

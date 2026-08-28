@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BackflowTransformation]]
 [[Baseline_Change_Record]]
+[[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN_Online_Learning]]
 [[ConstructedRealityState]]

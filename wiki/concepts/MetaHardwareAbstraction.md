@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AdaptiveEntanglementManagement]]
 [[AutonomousAdaptation]]
 [[BrainScaleTopologyExploitation]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

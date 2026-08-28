@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[BranchingRatio]]
 [[CST_SynergisticCoordination]]
+[[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]

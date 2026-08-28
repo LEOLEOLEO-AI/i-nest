@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstInterleaving]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
+[[DisorderedNetworkInterconnect]]
 [[EventDrivenAsynchronousRouting]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -35,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,13 +27,16 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Complex_System_Theory]]
 [[CouplingMatrixRecovery]]
 [[Critical_Region_Extension]]
+[[DelayTolerantNetworkUAV]]
 [[DifferentiableRasterizationPipeline]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[IncidenceMatrixPropagation]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[MatrixShapePhaseTransition]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

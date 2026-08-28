@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
 [[Loihi2_OnChip_Learning]]
+[[NeuromorphicHardwareDeployment]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[NeuronModelComparativeAnalysis]]

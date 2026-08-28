@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A memory architecture that partitions graph data across distributed neuromorphic cores with hierarchical access patterns to match hardware locality. Optimizes data placement for both TCC topology and iNEST synaptic memory, enabling scalable graph storage and retrieval.
+A memory architecture that partitions graph data across distributed neuromorphic cores with hierarchical access patterns to match hardware locality. Optimizes data placement for both TCC_Topology and iNEST synaptic memory, enabling scalable graph storage and retrieval.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
 [[ActionWeightedPathEnsemble]]
+[[AdversarialRobustness]]
 [[Allreduce_Latency_Probe]]
 [[AmplifyingNetworkTopology]]
 [[AnalogStateRetention]]
@@ -34,7 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Associative_Memory_Unification]]
 [[AttractorNeuralNetwork]]
 [[BCM滑动阈值]]
-[[CST_Theory_V27_FINAL]]
+[[CST_Theory]]
 [[Complex_System_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -42,15 +43,14 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
-[[TCC topology]]
 [[TCC]]
+[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[iNEST]]
 [[soc]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
+[[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

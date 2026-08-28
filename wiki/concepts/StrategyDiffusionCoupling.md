@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AsynchronousEventDrivenComputation]]
 [[BayesianDomainEvolution]]
 [[CirculateFiringNeuron]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[InNetworkAgentRewiring]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[NeuromorphicRL]]
+[[NeuromorphicRL_Locomotion]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Learning]]
@@ -44,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[Syncytial_Mesh]]
-[[Syncytial_Mesh_Model]]
 [[iNEST]]
 [[neuromorphic substrate]]
 

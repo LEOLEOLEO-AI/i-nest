@@ -48,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TopologyProgramming]]
+[[WideLink_NoC_Router]]
 [[analog computation]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

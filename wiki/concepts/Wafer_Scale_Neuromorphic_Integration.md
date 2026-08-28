@@ -73,6 +73,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
+[[neuromorphic computing architecture]]
 [[neuromorphic computing]]
 [[三原理协同_FEP_STDP_最小作用量]]
 [[神经网络]]

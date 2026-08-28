@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[CounterstreamSignalPropagation]]
+[[Environmental_Capability_Context]]
 [[EventCameraActionRecognition]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
@@ -49,10 +50,8 @@ Auto-extracted concept from raw material compilation.
 [[TSVEncapsulationStress]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[complex system]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

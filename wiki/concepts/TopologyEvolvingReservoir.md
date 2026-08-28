@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
 [[Critical_Region_Extension]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[Defense_Industrial_Base_Reshaping]]

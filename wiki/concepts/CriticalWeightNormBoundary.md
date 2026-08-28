@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]
+[[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenWeightUpdate]]
@@ -40,12 +41,14 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[OpportunisticRoutingRL]]
 [[PhaseLockedTopologyMapping]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Recurrent_Network_Homeostasis]]
 [[Synaptic_Plasticity]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

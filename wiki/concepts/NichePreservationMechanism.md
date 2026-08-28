@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[ScaleFreeNetwork]]
 [[SmoothCurvatureProfile]]
+[[SpeciatedEvolutionarySynthesis]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[TensorDecisionDiagram]]

@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[In_Network_Neuromorphic]]
 [[MarginalContributionFitness]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
+[[Recurrent_Network_Homeostasis]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

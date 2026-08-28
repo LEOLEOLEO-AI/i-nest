@@ -29,10 +29,13 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Analog_To_Information_Conversion]]
 [[ClosedLoopNeuromorphicControl]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Routing]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[LLM_Reward_Design]]
 [[Neuromorphic_Computing]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
@@ -42,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TrustworthyLearning]]
 [[advanced packaging]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

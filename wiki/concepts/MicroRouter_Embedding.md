@@ -37,12 +37,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_TopologyMapping]]
+[[Package_Level_Topology]]
 [[PhysicalWaferTriplet]]
 [[TCC]]
 [[ThreeLayerArchitecture]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 
 ## Sources

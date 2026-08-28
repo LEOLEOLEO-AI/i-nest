@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[Continual_Learning_Modularity]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

@@ -38,6 +38,8 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Flow_Aware_Interconnect_Design]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[MemoryDrivenRouting]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[NonEquilibriumComputing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

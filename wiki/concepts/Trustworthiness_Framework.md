@@ -30,11 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[ConnectionCentricParadigm]]
+[[ContinuousGameOfLife]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DisorderedNetworkInterconnect]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

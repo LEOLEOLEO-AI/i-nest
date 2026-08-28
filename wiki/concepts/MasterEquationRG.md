@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AcceleratedMaterialScreening]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[Generalization_Bound_Spectra]]
@@ -42,7 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

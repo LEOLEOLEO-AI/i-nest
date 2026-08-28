@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[IntrinsicTimingSTDP]]
 [[Network_Topology_Design]]
+[[NeuromorphicEdgeProcessing]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
@@ -46,7 +47,6 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 [[temporal coding]]
 

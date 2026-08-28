@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Bias_Origin_Taxonomy]]
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
+[[CST计量仪]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[TCC]]
 [[causal emergence]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

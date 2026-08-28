@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumComputing]]
+[[PhysicalSubstrateReservoir]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

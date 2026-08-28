@@ -27,17 +27,20 @@ Auto-extracted concept from raw material compilation.
 [[3DIntegratedPhotonicPackaging]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
+[[AdiabaticMultimodeBend]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Packaging_CoDesign]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[chiplet packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

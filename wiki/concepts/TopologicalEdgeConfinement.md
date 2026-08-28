@@ -28,12 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Complex_System_Theory]]
 [[Confinement]]
 [[CouplingMatrixRecovery]]
 [[Critical_Region_Extension]]
+[[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Fusion]]
 [[Free_Energy_Principle_Network]]
 [[IncidenceMatrixPropagation]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[MatrixShapePhaseTransition]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
@@ -56,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

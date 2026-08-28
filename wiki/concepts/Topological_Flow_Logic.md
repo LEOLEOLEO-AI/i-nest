@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[WirelessSplitComputing]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

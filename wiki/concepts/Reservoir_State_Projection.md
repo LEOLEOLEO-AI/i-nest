@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Nonlinear_Gain]]
 [[PhysicalReservoir]]
+[[ReservoirDiversity]]
 [[ReservoirDynamics]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]

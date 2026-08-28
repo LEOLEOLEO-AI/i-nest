@@ -35,7 +35,10 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Chiplet_Wafer_Topology]]
 [[CommunicationAsComputation]]
+[[Complex_System_Theory]]
+[[ElectromigrationReliability]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Interconnect]]
@@ -46,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleInterconnectAlgebra]]
 [[WaferScaleTopologyCentricComputing]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
+[[EventDrivenSynchronization]]
 [[Heterogeneous_Integration]]
 [[LearningTransition]]
 [[SNN]]

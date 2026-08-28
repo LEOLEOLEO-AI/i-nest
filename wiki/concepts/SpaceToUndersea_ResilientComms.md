@@ -36,6 +36,8 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
+[[Intelligence_Emergence]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Chiplet_iNEST_Wafer]]
@@ -51,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

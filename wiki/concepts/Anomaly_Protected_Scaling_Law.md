@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AvalancheBranchingRatio]]
 [[BayesianConnectivityEstimation]]
 [[BranchingRatio]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[CrossbarFabricTopology]]
 [[Dimensionality_Modularity_Tradeoff]]

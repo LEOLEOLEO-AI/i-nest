@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[BrownianCastleInterface]]
 [[Core_Spacetime_Tensor]]
 [[Criticality]]
+[[Criticality_Induced_Plasticity]]
 [[DiffusionInducedInstability]]
 [[Dynamic_Expert_Fusion]]
 [[FormalLinguisticCompetence]]

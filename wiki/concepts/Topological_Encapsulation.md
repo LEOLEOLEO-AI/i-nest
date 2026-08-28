@@ -24,10 +24,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AdiabaticMultimodeBend]]
 [[AdsorptionBiosorptionHybrid]]
+[[AgenticServiceTopology]]
 [[AndersonTransition]]
 [[BarrierConditionedTrajectory]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyCentricPrimitiveSet]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

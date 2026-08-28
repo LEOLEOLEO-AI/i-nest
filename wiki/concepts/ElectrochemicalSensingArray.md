@@ -22,10 +22,12 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[20W_Brain_Inspired_Planning]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Enabled_Battlefield_Autonomy]]
 [[AI_Forum_Demo_Narrative]]
 [[Accessibility_Plasticity]]
+[[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[Interconnect_Routing]]
 [[MatrixShapePhaseTransition]]

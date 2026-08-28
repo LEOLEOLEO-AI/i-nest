@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Cross_Brain_Connectome]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[EvolutionaryReservoirLearning]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neural_Substrate_Independence]]

@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstCoding]]
 [[CirculateFiringNeuron]]
+[[Complex_System_Theory]]
+[[Cytokine_Feedback_Loops]]
 [[EventCameraPoseInput]]
 [[EventDrivenSpectralProcessing]]
 [[JunctionSignalIntegrity]]

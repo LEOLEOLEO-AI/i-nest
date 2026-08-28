@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[DARPA_ProjectManager_Model]]
 [[Defense_Industrial_Base_Reshaping]]
 [[ERI_2_0_Strategic_Framework]]
+[[Emergent_Intelligence_Theory]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[Neuromorphic_Computing]]

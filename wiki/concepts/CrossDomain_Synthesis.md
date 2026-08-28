@@ -29,12 +29,14 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
 [[Deep_Network_Architecture_Invariant]]
 [[DisorderedNetworkInterconnect]]
 [[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
+[[EnergyEfficiencyAI]]
 [[EventDrivenRiskAssessment]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

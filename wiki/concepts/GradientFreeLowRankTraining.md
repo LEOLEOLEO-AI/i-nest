@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[FPGASNNMemoryOptimization]]
 [[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Network_Specific_Embedding_Separation]]

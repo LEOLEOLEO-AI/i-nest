@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CognitiveFeedbackLoop]]
 [[CompetitiveEdgeRewiring]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
@@ -41,9 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[Model_Routing_Protocol]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Precision_Configurable_ReCON]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

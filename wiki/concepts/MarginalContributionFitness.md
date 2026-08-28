@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GradientBasedLearningLocalization]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]

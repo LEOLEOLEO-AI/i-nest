@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Bidirectional_Temporal_Enhancement]]
+[[Complex_System_Theory]]
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[TemporalSpikePattern]]
 [[Temporally_Precise_Training_Parallelization]]
 [[iNEST]]
 [[neuromorphic computing]]

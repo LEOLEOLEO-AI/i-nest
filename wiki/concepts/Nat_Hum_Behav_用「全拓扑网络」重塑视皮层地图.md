@@ -39,6 +39,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[complex system]]
+[[getnote_2026-01-12_晶圆级神经网络能效革命]]
 [[iNEST]]
 [[从CoWoS走向CoPoS，晶圆从圆形变成方形]]
 [[复杂网络]]

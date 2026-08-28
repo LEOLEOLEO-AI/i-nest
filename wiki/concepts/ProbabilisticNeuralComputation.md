@@ -26,16 +26,20 @@ Auto-extracted concept from raw material compilation.
 [[AnytimePointCloudRecognition]]
 [[ArtificialProprioception]]
 [[ClosedLoopNeuromorphicControl]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
 [[Distributed_Intelligent_Manufacturing]]
 [[EndToEndTopologicalLearning]]
+[[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[LLM_Reward_Design]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OpenLearningEcosystem]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

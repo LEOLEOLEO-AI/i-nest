@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
 [[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NonEquilibriumComputing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
+[[RareEventCoding]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SpikePacketCompression]]
 [[Spike_Encoding_of_fMRI]]

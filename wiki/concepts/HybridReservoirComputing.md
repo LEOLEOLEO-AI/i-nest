@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Nonlinear_Gain]]
 [[ReadoutLayer]]
+[[ReservoirDiversity]]
 [[Reservoir_Computing]]
 [[SDDE_Attractor_Emergence]]
 [[SemanticRelationTemporalGraph]]

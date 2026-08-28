@@ -30,13 +30,16 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Analog_InMemory_Processing]]
 [[Asymptotic_Exact_Solution]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

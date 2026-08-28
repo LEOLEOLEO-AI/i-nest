@@ -32,9 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Independent_AI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[MagicStateProtocol]]
 [[Manifold_Topology_DeepLearning]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NetworkTopologyDrivenIntervention]]
 [[Network_Topology_Design]]
 [[OscillatoryDynamicsTopology]]
 [[P_Paradigm]]
@@ -42,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[TCC]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

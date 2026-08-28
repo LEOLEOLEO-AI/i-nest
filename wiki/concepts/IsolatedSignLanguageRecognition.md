@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInference]]
 [[AlternativeBridgingModels]]
 [[AnisotropicGaussianPrimitives]]
+[[AnomalousSpinTransport]]
 [[AstrocyteInspiredRepair]]
 [[Brain_Connectome]]
 [[CSI_Temporal_Encoding]]

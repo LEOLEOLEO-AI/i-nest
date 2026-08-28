@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[HardwareAware_DesignSpace]]
 [[Independent_EdgeAI_Player_Endgame]]
 [[Memristive_STDP]]
 [[Memristor_Synapse]]

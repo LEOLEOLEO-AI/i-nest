@@ -24,12 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
 [[DynamicServiceComposition]]
 [[ElectromigrationReliability]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -42,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Interconnect]]
 [[neuromorphic computing]]
 [[tools]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

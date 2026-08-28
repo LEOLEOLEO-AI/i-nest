@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AssociativeMemoryTopology]]
 [[Cognitive_Relapse_Decoupling]]
 [[Critical_Region_Extension]]
+[[Crossover_Physics]]
 [[Inference_Workload_Profiling]]
 [[ManyBodyLocalization]]
 [[Network_Topology_Design]]

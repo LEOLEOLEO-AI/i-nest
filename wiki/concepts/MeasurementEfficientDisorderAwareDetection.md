@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonLocalizationTopology]]
 [[BoseCondensateNeuralAnalogy]]
 [[BosonicFieldTopology]]
+[[CatalyticReactionNetwork]]
 [[Complex_System_Theory]]
 [[DisorderAwareDetection]]
 [[Intelligence_Emergence]]
@@ -38,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

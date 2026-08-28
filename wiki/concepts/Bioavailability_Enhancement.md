@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
+[[Hierarchical_Bayesian_Inference]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -49,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

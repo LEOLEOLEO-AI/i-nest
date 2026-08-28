@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Cross_Node_Event_Propagation]]
 [[DataDrivenCellularAxis]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]

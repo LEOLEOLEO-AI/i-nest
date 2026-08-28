@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[DARPA_ProjectManager_Model]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[Free_Energy_Principle_Network]]

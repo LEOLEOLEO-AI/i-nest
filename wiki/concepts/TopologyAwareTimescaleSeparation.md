@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[Continuous_Spatiotemporal_State_Propagation]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[Generative_Graph_Models]]

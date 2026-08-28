@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialResilience]]
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
+[[CriticalStateReservoir]]
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
 [[Network_Topology_Design]]

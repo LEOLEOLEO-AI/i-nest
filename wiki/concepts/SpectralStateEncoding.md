@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[QuantumGateSynthesis]]
 [[QuantumReservoirStateOrthogonalization]]
+[[Quantum_Reservoir_Architecture]]
 [[ReadoutLayer]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]

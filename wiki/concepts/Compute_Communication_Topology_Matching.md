@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[Advanced_Packaging_Route]]
 [[Alpha_Computation_Consistency]]
+[[AndersonTransition]]
 [[CommunicationAsComputation]]
 [[CommunicationAwareComputeRelocation]]
 [[Computation_Access_Routing]]

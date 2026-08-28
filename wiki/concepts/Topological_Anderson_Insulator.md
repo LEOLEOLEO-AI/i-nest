@@ -30,14 +30,18 @@ Auto-extracted concept from raw material compilation.
 [[Adaptive_Service_Reconfiguration]]
 [[AdiabaticModeEvolution]]
 [[AdjointWaveControl]]
+[[CircuitTopologyEncoding]]
+[[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]
 [[LLMDrivenPathSelection]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

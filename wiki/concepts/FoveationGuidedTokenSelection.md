@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingTopologyAnalysis]]
 [[SpikingTopologyMapping]]
 [[Spiking_Neural_Network]]
+[[TCC_SpikingIntegration]]
 [[TopologicalAndersonChernInsulator]]
 
 ## Sources

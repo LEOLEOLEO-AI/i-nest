@@ -29,17 +29,21 @@ Auto-extracted concept from raw material compilation.
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
+[[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[Complex_System_Theory]]
 [[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Level_of_Splat_Detail]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[advanced packaging]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

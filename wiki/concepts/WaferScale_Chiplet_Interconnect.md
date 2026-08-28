@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[3DHI_Interconnect]]
 [[BackpropagationFreeLearning]]
+[[ChipletRoutingFabric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[CongestionAwareNoCPlacement]]

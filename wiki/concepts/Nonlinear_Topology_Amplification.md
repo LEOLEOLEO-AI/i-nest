@@ -60,6 +60,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[complex system]]
 [[emergent computation]]

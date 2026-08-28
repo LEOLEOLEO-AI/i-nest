@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Cross_Node_Event_Propagation]]
 [[Deep_Counterstream_Associative_Memory]]
 [[Distributed_Spike_Communication]]
 [[Dynamic_Expert_Fusion]]

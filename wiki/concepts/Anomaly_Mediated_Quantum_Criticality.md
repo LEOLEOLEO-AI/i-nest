@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogDomainCompression]]
 [[Ant_Swarm_Functional_Control]]
 [[ArchitecturalCondition]]
+[[Autonomous_Unmanned_Combat_Networking]]
 [[AvalancheBranchingRatio]]
 [[Boundary_Criticality]]
 [[BranchingRatio]]

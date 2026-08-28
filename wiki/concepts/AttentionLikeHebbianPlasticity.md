@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AdversarialSensingResilience]]
 [[Air_Combat_Autonomy]]
 [[Airborne_Link_Diversity]]
+[[AirportNetworkGraphEmbedding]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Complex_System_Theory]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

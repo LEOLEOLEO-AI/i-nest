@@ -30,8 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[Analog_To_Information_Conversion]]
 [[AssociativeMemoryTopology]]
 [[BigBrainCellularAxis]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[Memristive_Interconnect]]
@@ -39,10 +41,12 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RedundancyControlledStochasticRouting]]
 [[StochasticVehicleRouting]]
 [[advanced packaging]]
 [[neuromorphic computing]]
 [[soc]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

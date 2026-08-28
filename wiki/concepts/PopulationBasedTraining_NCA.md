@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Ant_Swarm_Functional_Control]]
 [[Architectural_Conditioning]]
+[[BackpropFree_Learning]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[Distributed_Intelligent_Manufacturing]]
 [[Dynamic_Expert_Fusion]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

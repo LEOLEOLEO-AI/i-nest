@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[AdaptiveArchitecture]]
+[[AgenticServiceOrchestration]]
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]

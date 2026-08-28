@@ -43,7 +43,9 @@ Auto-extracted concept from raw material compilation.
 [[Intelligent_Power_Management]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[TCC_Coordination_Roadmap]]
 [[causal emergence]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

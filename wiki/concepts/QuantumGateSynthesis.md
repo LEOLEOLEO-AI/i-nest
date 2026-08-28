@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicGaussianPrimitives]]
 [[Architectural_Conditioning]]
 [[Bio_plausible_Neuromorphic_Disturbance_Observer]]
+[[Biomanufacturing_Control_Loop]]
 [[CoexistencePhaseDiagram]]
 [[Contested_Priors_Mechanism]]
 [[CoupledOscillatorReservoir]]

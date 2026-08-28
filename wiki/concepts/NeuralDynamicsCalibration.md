@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[ErrorAmplificationLimits]]
 [[LatencyGradientDescent]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
+[[ProbabilisticSpikingNeuralNetwork]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[iNEST]]

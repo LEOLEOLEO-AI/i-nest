@@ -34,6 +34,8 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[PhononicBandgapEngineering]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleSubstrate]]
 [[chiplet interconnect]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

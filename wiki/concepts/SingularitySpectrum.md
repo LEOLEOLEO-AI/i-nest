@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletOpticalIO]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]
+[[CrossbarArrayIntegration]]
 [[DARPA_Project_Group_Strategy]]
 [[DegreeDependentOpinionThreshold]]
 [[Heterogeneous_Integration]]

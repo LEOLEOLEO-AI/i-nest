@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Encoding_Readout]]
 [[CMOS_Memristor_Crossbar]]
 [[CrashHotspotForecasting]]
+[[DivergentHigherAreaRanking]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

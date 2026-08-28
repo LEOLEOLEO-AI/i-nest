@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[SoftwareDefinedSystemOnWafer]]
@@ -62,9 +63,7 @@ Auto-extracted concept from raw material compilation.
 [[Topology_Interconnect]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[Wafer_Scale_Neuromorphic]]
-[[Wafer_Scale_Neuromorphic_Integration]]
 [[chiplet interconnect]]
 [[iNEST]]
 

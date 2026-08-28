@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[BurstInterleaving]]
 [[InterFPGA_Spike_Routing]]
 [[Interconnect_Routing]]
+[[Nonlinear_Gain]]
+[[ParallelSpatialPhotonicProgramming]]
 [[QuarantineCostTradeoff]]
 [[RobustnessToNoiseInSNN]]
 [[SNN]]

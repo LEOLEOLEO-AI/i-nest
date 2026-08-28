@@ -32,12 +32,15 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Compute_Centric_NoC]]
 [[CrossDomain_Integration]]
 [[GPU_Bottleneck_Relief]]
 [[GPU_Hegemony_Disruption]]
 [[HeterogeneousInference]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[IsolatedKVBandwidth]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_Interconnect]]
@@ -47,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Topology]]
 [[TCC]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -27,12 +27,15 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[CognitiveSupportTopology]]
 [[CollectiveConsensus]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[FastSlow_Dynamics]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[Intelligence_Emergence]]
 [[Master_SDDE]]
+[[Microfluidic_Worm_Trap_Array]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -46,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[ConductingPolymerDendriteMemory]]
 [[EpidemicThreshold]]
 [[Event_Driven_Orbital_Object_Pipeline]]
+[[In_Package_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicAuditoryFrontend]]

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionarySpikeTimingOptimization]]
 [[FatigueSTDP]]
 [[ImpactFallDetection]]
+[[NeuromorphicGraphAnomalyDetection]]
 [[SNN]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]

@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Photopolymerization_NoC]]
@@ -56,7 +57,6 @@ Auto-extracted concept from raw material compilation.
 [[忆阻器]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

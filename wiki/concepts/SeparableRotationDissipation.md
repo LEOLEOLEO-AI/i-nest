@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Decoupling_Mechanism]]
 [[DegreeDependentOpinionThreshold]]
 [[DualDrivenHybridNetwork]]
+[[EnergyProportionalityCeiling]]
 [[EpidemicThreshold]]
 [[Reservoir_Computing]]
 [[Self_Organized_Criticality]]

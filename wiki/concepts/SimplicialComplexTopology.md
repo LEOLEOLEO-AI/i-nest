@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AdditiveTopology_Embedding]]
 [[Agent_Workflow_Automation]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

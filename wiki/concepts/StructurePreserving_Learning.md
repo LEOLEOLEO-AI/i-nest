@@ -29,12 +29,15 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
+[[ContinuousGameOfLife]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
 [[neuromorphic substrate]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

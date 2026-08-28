@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenMotionDeblurring]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
 [[ImageToEventConversion]]
 [[Intelligence_Emergence]]
@@ -46,7 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
-[[Syncytial_Mesh_Model]]
+[[Syncytial_Mesh]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

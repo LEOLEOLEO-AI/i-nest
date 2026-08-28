@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Complex_System_Theory]]
 [[EdgeIoTEnergyAwareness]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLMDrivenPathSelection]]
 [[MatrixShapePhaseTransition]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[SynchronizationAttractorBasin]]
 [[TCC]]
+[[Topology_Dynamics_Aware_RL]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

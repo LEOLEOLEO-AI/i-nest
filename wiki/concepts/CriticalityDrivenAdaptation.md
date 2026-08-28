@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[PerspectiveLatent]]
 [[RecursiveSelfReferentialArchitecture]]
 [[STDPDrivenGraphLearning]]
 [[STDP_Plasticity]]

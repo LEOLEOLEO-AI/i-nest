@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[AutomatedQuantizationFramework]]
 [[Automated_Assessment_Framework]]
 [[BiSpikCLM]]
+[[BioPlausibleDisturbanceEstimation]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

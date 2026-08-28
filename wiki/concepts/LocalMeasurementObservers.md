@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[ASIC_Dualism]]
 [[BackpropagationFreeLearning]]
 [[CLINKAsCarrierPrimitive]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[InterconnectConstrainedEmergence]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Encapsulation]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

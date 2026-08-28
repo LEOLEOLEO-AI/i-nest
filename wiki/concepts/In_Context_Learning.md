@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[EvolutionaryReservoirLearning]]
 [[GraphEmbeddedReservoir]]
 [[Intelligence_Emergence]]
+[[MutualReinforcementDynamics]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

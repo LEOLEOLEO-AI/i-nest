@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[LearnableGradientSurrogate]]
 [[LowRankEvolutionStrategies]]
 [[MemristiveSpikingAccelerator]]
+[[MultiFPGA_Spiking_Scaling]]
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Packaging]]
 [[RecurrentSpikingDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SelectorFreeHopfieldNetwork]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[complex system]]

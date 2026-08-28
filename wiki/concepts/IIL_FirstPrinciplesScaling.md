@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DistinctReentrantPhases]]
@@ -41,7 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[scaling laws]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

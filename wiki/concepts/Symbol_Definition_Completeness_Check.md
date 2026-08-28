@@ -26,8 +26,11 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[BioInspiredLearningRule]]
 [[ChannelEventSparsity]]
+[[Complex_System_Theory]]
+[[DendriticReservoirState]]
 [[EventTriggeredDistributedControl]]
 [[GitWhitelistQuotaEnforcement]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[QuantumChaos]]
 [[RandomGraphQuantumChaos]]
@@ -38,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalObservers]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

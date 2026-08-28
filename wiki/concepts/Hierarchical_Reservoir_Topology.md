@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Abilities]]
 [[Emergent_Intelligence_Threshold]]
 [[Epithelial_Barrier_Integrity]]
+[[FirstPrinciples_AI]]
 [[ForwardFluctuationGradient]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

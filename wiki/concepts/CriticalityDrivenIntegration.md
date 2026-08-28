@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Catastrophic_Forgetting_Mitigation]]
 [[Contested_Priors_Architecture]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[DiscreteContinuous_Unification]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]

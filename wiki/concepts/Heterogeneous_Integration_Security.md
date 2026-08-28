@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]
 [[In_Package_Interconnect_Trust]]
+[[InterconnectConstrainedEmergence]]
 [[NCCL_CollectivePrimitives]]
 [[Network_Topology_Design]]
 [[TCC]]

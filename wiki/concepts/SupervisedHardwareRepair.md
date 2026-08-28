@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Accelerated_SNN]]
 [[FPGA_Neuromorphic_Acceleration]]
+[[FPGA_SNN_Inference]]
 [[FatalityDrivenRewiring]]
 [[GeometricNeuromorphicFusion]]
 [[Hardware_Accelerated_SNN]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Nonlinear_Gain]]
 [[OnChipOpticalTweezers]]
 [[Reconfigurable_Neuromorphic_Architecture]]
 [[SNN]]
@@ -48,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalInvariancePrinciple]]
 [[Topological_Invariant_Shift]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

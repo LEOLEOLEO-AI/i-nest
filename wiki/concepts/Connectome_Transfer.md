@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[BrainBodyResonance]]
 [[Brain_Connectome]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Connectome]]
 [[DataProvenanceIntegrity]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Chiplet]]
@@ -52,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic substrate]]
 [[夏强飞一天2篇Nature大子刊：感存算一体，忆阻器阵列模拟计算]]
+[[忆阻器]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

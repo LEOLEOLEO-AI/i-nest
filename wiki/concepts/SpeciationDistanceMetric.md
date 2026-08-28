@@ -31,11 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Cascading_Failure_Mitigation]]
 [[CeYIGMagnetoOpticalIsolator]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
+[[DirtyWeylSemimetal]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

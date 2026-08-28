@@ -25,8 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
+[[Bioavailability_Enhancement]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[vLLM_plugin_FLSDI]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

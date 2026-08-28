@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_SpikeEncoding]]
 [[Memristive_STDP]]
 [[NeuromorphicHardware]]
+[[NeuromorphicLocomotionPrimitive]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

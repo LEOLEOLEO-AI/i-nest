@@ -35,11 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
 [[HigherOrderTopology]]
+[[Intelligence_Emergence]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[Von_Neumann_Complexity_Threshold_Conjecture]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

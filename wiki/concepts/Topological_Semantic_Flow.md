@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AnalogInMemoryComputing]]
 [[Architectural_Conditioning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[DARPA_ProjectManager_Model]]
 [[Dynamic_Expert_Fusion]]
 [[FractureMechanism]]
 [[Heterogeneous_Chiplet_Customization]]

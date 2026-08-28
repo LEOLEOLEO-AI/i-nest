@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[1M1T1R_SynapticNeuron]]
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Design]]
 [[CollectiveDynamics]]
 [[Complex_System_Theory]]
 [[HierarchicalSpikePropagation]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DiscreteContinuous_Unification]]
 [[DistinctReentrantPhases]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[QuantumChaos]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDI节点接口规范与化合键定义]]
 [[ScaleFreeNetwork]]
+[[SpaceToUndersea_ResilientComms]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[Topological_State_Encoding]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[scaling laws]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

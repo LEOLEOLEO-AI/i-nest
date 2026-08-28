@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalEnsemble]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[Military_AI_Revolution]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

@@ -28,8 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]
+[[Inference_Stage_Decomposition]]
+[[Intelligence_Emergence]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -39,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

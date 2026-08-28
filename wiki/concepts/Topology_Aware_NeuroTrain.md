@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_SDI]]
 [[NoC_TopologyMapping]]
 [[PheromoneTrailTopology]]
+[[Photopolymerization_NoC]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]

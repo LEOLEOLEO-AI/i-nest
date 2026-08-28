@@ -1,52 +1,23 @@
 [self_evolve] === 自进化编排开始 ===
 [self_evolve] 运行 wiki_compiler (增量; 无新来源则仅健康检查, 不消耗 LLM)...
-[self_evolve] wiki_compiler 退出码=1 | Traceback (most recent call last):
-  File "D:\Obsidian\vault\90_System\scripts\wiki_compiler.py", line 20, in <module>
-    from dotenv import load_dotenv
-ModuleNotFoundError: No module named 'dotenv'
+[self_evolve] wiki_compiler 退出码=0 | outError: The read operation timed out
+[10:06:48]   LLM extracted 0 additional concepts (keyword: 0)
+[10:06:48] Phase 2-3: 14 articles, 3 concepts
+[10:09:12] Phase 4: Index and backlinks updated
+[10:09:42] Phase 5: Health report generated
+[10:09:42] === Compile complete: 14 articles, 3 concepts ===
 
 [self_evolve] 运行 wiki_grow 交叉链接/去重...
 [self_evolve] wiki_grow 退出码=0 | piling regexes...
-  regexes ready: 5070 phrases + 5092 slugs
-  union regex built (5092 concepts)
+  regexes ready: 5074 phrases + 5096 slugs
+  union regex built (5096 concepts)
   linking concepts...
   shared-term linking...
   linking articles...
-  concepts now: 5092 | linked: 5087 | orphans: 2361
+  concepts now: 5096 | linked: 5091 | orphans: 2180
   index/backlinks/health refreshed.
-[09:35:40] wiki_grow done — orphans 2361/5092
+[10:17:15] wiki_grow done — orphans 2180/5096
 
 [self_evolve] 运行全库健康自检 (纯本地, 贴近 Obsidian 链接解析)...
-[self_evolve] 健康自检: 笔记 10845 | 真正断链 3954 | 孤儿 2455 | 缺FM 938 -> vault_health.md
+[self_evolve] 健康自检: 笔记 10858 | 真正断链 3972 | 孤儿 2456 | 缺FM 945 -> vault_health.md
 [self_evolve] 自我生长: 补全高频缺失概念占位笔记...
-[self_evolve] 已补全 3 个缺失概念: ['TCC topology', 'quantum reservoir computing', 'CST的计算方法 (1)']
-[self_evolve] 运行 Phase 4 自进化引擎 (import/task/evolution/cross-domain)...
-[self_evolve] import_processor 退出码=0 | cessor ===
-[09:35:56] Genspark dir not found, skipping
-[09:35:56] Imported: Genspark=0, 得到大脑=0, Codex=0
-[09:35:56] Total new files in raw/: 0
-[09:35:56] Inbox pending: 0 files
-[09:35:56] === Done ===
-
-[self_evolve] task_recommender 退出码=0 | sights into wiki
-  [LOW   ] Review and incorporate insights into wiki
-  [LOW   ] Review and incorporate insights into wiki
-  [LOW   ] Review and incorporate insights into wiki
-[09:36:20] === Done ===
-
-[self_evolve] research_evolution 退出码=0 | [09:36:20] === Research Evolution Engine ===
-[09:36:20] Hypothesis updates: 0
-[09:36:20] Research directions: 0
-[09:36:20] Report: wiki/evolution_report.md
-[09:36:20] === Done ===
-
-[self_evolve] cross_domain_insight 退出码=0 | _Integration
-       iNEST: Electrolyte_Bonding_Engineering, FeFET_Polarization_Switching, FerroelectricSynapticArray
-
-Cross-domain articles: 0
-
-Report: D:\Obsidian\vault\wiki\cross_domain_insights.md
-
-[self_evolve] hypothesis_engine 退出码=0 | [hypothesis_engine] 无新假设需添加
-
-[self_evolve] inspiration_engine 退出码=124 | TIMEOUT after 120s

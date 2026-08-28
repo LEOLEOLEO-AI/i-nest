@@ -26,8 +26,10 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Faculty_Forum_2026]]
 [[AdvancedPackagingInterconnect]]
+[[Analog_InMemory_Processing]]
 [[Complex_System_Theory]]
 [[DarkSiliconAwarePowerGating]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Resilient_Sensing_Comms_Network]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Neuromorphic]]
 [[Wafer_Scale_Packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

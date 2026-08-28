@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalDataCompression]]
 [[TopologyAware_Grouping]]
 [[VectorFlowField]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[adaptive path selection]]
 
 ## Sources

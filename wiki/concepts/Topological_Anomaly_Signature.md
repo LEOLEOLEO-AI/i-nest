@@ -29,14 +29,17 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
+[[Complex_System_Theory]]
 [[ElectromigrationReliability]]
 [[ErdosRenyiGraphEnergyLandscape]]
 [[ErdosRenyi_Graph_Energy_Surface]]
 [[FloquetTopologicalOrder]]
+[[GeometricConstraintSatisfaction]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

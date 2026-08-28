@@ -30,13 +30,17 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
+[[CommunicationHeterogeneity]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ReputationSignal]]
 [[iNEST]]
 [[neural field world model]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

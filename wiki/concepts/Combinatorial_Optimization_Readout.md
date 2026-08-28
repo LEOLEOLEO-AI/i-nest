@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]
 [[GraphEmbeddedReservoir]]
+[[In_Context_Learning]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]

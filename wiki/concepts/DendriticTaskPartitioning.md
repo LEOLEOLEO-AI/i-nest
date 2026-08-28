@@ -46,9 +46,11 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[智能涌现]]
 [[涌现]]
+[[神经形态计算]]
 [[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 [[类脑芯片]]
+[[脉冲神经网络]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

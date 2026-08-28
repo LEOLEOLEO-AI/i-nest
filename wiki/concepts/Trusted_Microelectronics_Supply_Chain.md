@@ -31,12 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Chain_of_Thought_Reasoning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
+[[Deep_Thermalisation]]
 [[Dynamic_Expert_Fusion]]
 [[Entanglement_Teleportation_Locality]]
 [[Evolutionary_Structure_Computability]]
 [[Free_Energy_Principle_Network]]
 [[HarvestProtocol]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

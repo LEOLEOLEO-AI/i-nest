@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[Criticality_Based_Feature_Extraction]]
 [[Event_Driven_Architecture]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GradientBasedLearningLocalization]]
 [[In_Network_Neuromorphic]]
 [[Network_Topology_Design]]
@@ -32,10 +33,10 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[PhaseLockedTopologyMapping]]
 [[ST_SNN]]
+[[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

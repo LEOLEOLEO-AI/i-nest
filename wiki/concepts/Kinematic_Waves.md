@@ -30,13 +30,16 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[BurstInterleaving]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[DisorderedNetworkInterconnect]]
+[[DistributedEventConditionDesign]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
 [[soc]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

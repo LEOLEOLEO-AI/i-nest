@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[HigherOrderSimplicialDynamics]]
+[[IncidenceBasedRandomWalk]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicSafetyBoundary]]
 [[Neuromorphic_Computing]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW_Architecture]]
 [[TCC]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

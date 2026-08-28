@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[SNN]]
+[[SpikeCommunicationCost]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 

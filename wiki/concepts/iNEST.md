@@ -44,6 +44,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Memory_Wall]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[MetaFAIR_ArchitectureDiscovery]]
+[[NCL神经计算定律详解]]
 [[Network_Spatiotemporal_Synergy]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -71,3 +72,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[complex system]]
 [[heterogeneous_integration]]
 [[temporalComplexity]]
+[[涌现]]

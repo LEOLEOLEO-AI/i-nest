@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
+[[Spike_Train_Regression]]
 [[Spiking_Neural_Network]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]

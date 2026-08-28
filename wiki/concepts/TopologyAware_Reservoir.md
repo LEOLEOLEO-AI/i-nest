@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[CST_MasterEquation]]
 [[CST_Spatiotemporal_Complexity]]
+[[CST_Spatiotemporal_Complexity_Theorem]]
 [[CST_Theory]]
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]

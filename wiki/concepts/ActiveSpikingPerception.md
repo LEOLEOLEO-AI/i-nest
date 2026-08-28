@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInferenceGenerativeModel]]
 [[ActiveInference]]
 [[AttentionGuidedEntropy]]
+[[BioPlausibleDisturbanceRejection]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[Alignment_Tax]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Design]]
+[[Complex_System_Theory]]
 [[ElasticSpikingTransformer]]
 [[In_Network_Neuromorphic]]
 [[NestedRepresentation]]

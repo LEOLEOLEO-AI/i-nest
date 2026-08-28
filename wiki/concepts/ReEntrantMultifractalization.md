@@ -25,10 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[Emergent_Topology_Adaptation]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Silicon_Photonic_Network]]
 [[TCC]]
 [[Γst_Revision]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

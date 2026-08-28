@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]
 [[Combinatorial_Optimization_Readout]]
+[[CompleteConnectomeDynamics]]
 [[Connectome]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

@@ -29,14 +29,18 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[BurstGatedRouting]]
 [[Cognitive_Relapse_Decoupling]]
+[[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[Critical_Region_Extension]]
 [[DTGA]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
+[[PacketRoutingForFPGAs]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -42,11 +42,13 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SuperparamagneticSwitchingRate]]
+[[Syncytial_Information_Integration]]
 [[TCC]]
 [[ThermalFluctuationComputing]]
 [[TwoTimescaleNeuroEvolution]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

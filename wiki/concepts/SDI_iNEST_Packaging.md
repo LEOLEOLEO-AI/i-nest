@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Roadmap_HIR]]
 [[Intelligence_Emergence]]
 [[MetricComputationAuthenticity]]
 [[Network_Topology_Design]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Packaging]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

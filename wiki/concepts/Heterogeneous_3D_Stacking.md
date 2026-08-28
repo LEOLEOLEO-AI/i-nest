@@ -30,11 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[DirectConnect_Topology]]
 [[EMIB_Bridge]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Memory_Wall]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
@@ -49,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Packaging]]
 [[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

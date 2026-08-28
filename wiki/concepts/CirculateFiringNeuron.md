@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[CSI_Temporal_Encoding]]
 [[ClocklessReconfigurableChip]]
+[[ComplexValuedSNN]]
 [[Emergent_Intelligence_Threshold]]
 [[GradientFreeSNNTraining]]
 [[InNetworkAgentRewiring]]

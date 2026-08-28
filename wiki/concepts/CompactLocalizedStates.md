@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
 [[神经形态计算]]
 [[类脑芯片]]

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[Sequence_First_Processing]]
+[[SpikingNeuralTransformer]]
 [[Spiking_Neural_Network]]
 [[spiking neural network]]
 

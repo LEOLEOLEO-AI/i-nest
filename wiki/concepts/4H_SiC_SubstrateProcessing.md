@@ -26,7 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -36,11 +38,13 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_Topology]]
 [[SiC_GaN_Power_Integration]]
+[[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
 [[ThroughSiliconVia_TSV_ThermalPath]]
 [[WaferScaleNeuromorphicTopology]]
 [[WaferScaleSubstrate]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

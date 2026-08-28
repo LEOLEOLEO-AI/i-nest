@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[CirculateFiringNeuron]]
 [[ClocklessReconfigurableChip]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[EnsembleCreditAssignment]]

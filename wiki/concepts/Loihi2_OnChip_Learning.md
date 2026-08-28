@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
 [[Complexity_Emergence]]
+[[Complexity_Emergence_Engineering]]
 [[DataDrivenCellularAxis]]
 [[Emergent_Intelligence_Threshold]]
 [[Hardware_Accelerated_SNN]]

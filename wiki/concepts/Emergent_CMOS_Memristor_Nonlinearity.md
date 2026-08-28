@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[STDP_Plasticity]]
+[[STDP_iNEST_Memristive]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]

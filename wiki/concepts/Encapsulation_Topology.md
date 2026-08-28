@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ManufacturingCloudOrchestration]]
 [[NetworkMechanismsOfWaveGeneration]]
 [[Network_Topology_Design]]
+[[NeuronalCultureConnectivityGraph]]
 [[Nonlinear_Gain]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
@@ -45,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

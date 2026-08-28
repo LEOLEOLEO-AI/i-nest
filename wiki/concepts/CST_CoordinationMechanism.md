@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Fading_Memory_Property]]
 [[FirstPrinciples_AI]]
 [[Intelligence_Emergence]]
+[[MasterEquationRG]]
 [[MeanFieldSpinGlass]]
 [[Network_Topology_Design]]
 [[QuantumReservoirMemoryCapacity]]

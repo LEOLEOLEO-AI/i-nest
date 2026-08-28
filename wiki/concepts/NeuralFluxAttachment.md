@@ -30,10 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[Ant_Swarm_Functional_Control]]
 [[BalancedRouting]]
 [[Baseline_Draft_Status]]
+[[CeYIGMagnetoOpticalIsolator]]
+[[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

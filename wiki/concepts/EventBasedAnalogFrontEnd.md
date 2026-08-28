@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[Complex_System_Theory]]
 [[Distributed_Spike_Communication]]
 [[Efficient_Coding_Constraint]]
 [[Emergent_Intelligence_Threshold]]
@@ -43,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[SpikingNeuralNetworkTopologyMapping]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[WirelessSplitComputing]]
 [[iNEST]]
 [[neuromorphic sensing]]
 [[spiking neural network]]

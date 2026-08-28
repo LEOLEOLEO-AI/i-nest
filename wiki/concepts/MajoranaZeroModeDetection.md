@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CircuitCoDesign]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[causal emergence]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

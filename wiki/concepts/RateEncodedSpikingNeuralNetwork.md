@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SNN]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[SpikeEncoding]]
 [[SpikeTimingSideChannel]]
 [[SpikingNeuralNetworkInference]]

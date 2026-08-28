@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AutonomousAdaptation]]
+[[BigBrainCellularAxis]]
 [[CST_Spatiotemporal_Coefficient]]
 [[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Defense_Industrial_Base_Reshaping]]
 [[FPGA_Accelerated_SNN]]
 [[Hardware_Accelerated_SNN]]
+[[Nonlinear_Gain]]
 [[SNN]]
 [[SpikeDrivenDetectionBackbone]]
 [[Spiking_Neural_Network]]

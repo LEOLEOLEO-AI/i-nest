@@ -31,11 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[Event_Driven_Architecture]]
 [[Event_Driven_Gait_Transition]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpikeAttention]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

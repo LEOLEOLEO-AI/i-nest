@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[AmorphousSolidPlasticity]]
+[[Biomanufacturing_Control_Loop]]
 [[CouplingTopologyMemoryLink]]
 [[Coupling_Topology]]
 [[Crystallized_Embedding_Reservoir]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[FirstPrinciples_AI]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[PhotoInducedCurrent]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]

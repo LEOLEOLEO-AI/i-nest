@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-The graph structure formed by entanglement teleportation channels, where nodes represent quantum systems and edges represent teleportation-capable links. Directly informs TCC topology design, as the graph's locality properties determine the efficiency and scalability of distributed quantum computations.
+The graph structure formed by entanglement teleportation channels, where nodes represent quantum systems and edges represent teleportation-capable links. Directly informs TCC_Topology design, as the graph's locality properties determine the efficiency and scalability of distributed quantum computations.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -33,8 +33,10 @@ Auto-extracted concept from raw material compilation.
 [[AdditiveTopology_Embedding]]
 [[AdversarialRobustness]]
 [[AirportNetworkGraphEmbedding]]
+[[AlgorithmicPhaseTransition]]
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
+[[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Intelligence_Emergence]]
@@ -43,13 +45,12 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
-[[TCC topology]]
 [[TCC]]
+[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

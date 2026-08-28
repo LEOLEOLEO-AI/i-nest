@@ -27,15 +27,19 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[Baseline_Draft_Status]]
+[[BiologicalParadigmValidation]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[ConnectionCentricParadigm]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
 [[CrossDomain_Synthesis]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

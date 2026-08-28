@@ -37,10 +37,11 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
+[[StatisticalTopologicalMatter]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_EventRouting]]
 [[SpikeBasedGradientDescent]]
 [[Spiking_Neural_Network]]
+[[SyntheticInertiaProvision]]
 [[TCC]]
 
 ## Sources

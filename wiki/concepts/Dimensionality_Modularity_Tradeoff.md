@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstTemporalPlasticity]]
 [[Cognitive_Relapse_Decoupling]]
 [[Continual_Learning_Modularity]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[DynamicCentralitySteering]]
 [[Dynamic_Expert_Fusion]]

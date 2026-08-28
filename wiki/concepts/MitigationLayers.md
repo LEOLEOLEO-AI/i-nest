@@ -25,13 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Analog_Weight_Storage]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
+[[Complex_System_Theory]]
 [[DataDrivenCellularAxis]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -48,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[temporalComplexity]]
 [[vLLM_plugin_FLSDI]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

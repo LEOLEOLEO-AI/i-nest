@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristive_STDP]]
 [[Memristor_Synapse]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
+[[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[PropertyPredictionModeling]]
 [[RecurrentSpikingDynamics]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[神经形态计算突破：脉冲神经网络实现机器人超低功耗定位新范式]]
 [[神经网络]]
 
 ## Sources

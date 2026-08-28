@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[3D_Torus_6_Degree]]
 [[AmorphousSolidPlasticity]]
 [[Course_Based_FPGA_Projects]]
 [[DARPA_Manufacturing_Strategy]]
@@ -29,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[IncidenceBasedRandomWalk]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[Synaptic_Plasticity]]
 [[TCC]]

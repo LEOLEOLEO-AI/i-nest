@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[ComplexTopologicalStructures]]
+[[Complex_System_Theory]]
 [[CorticalWaveRouting]]
 [[DTGA]]
 [[DevelopmentalNeuromorphicAdaptation]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Reconfigurable_NonHermitian_Nonlinear_System]]
 [[TCC]]
 [[neuromorphic substrate]]
+[[Γst_Revision]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

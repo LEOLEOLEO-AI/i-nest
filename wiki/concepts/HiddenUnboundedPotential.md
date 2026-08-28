@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalLearningRegime]]
 [[Criticality]]
 [[Crossover_Physics]]
+[[FeatureBonding]]
 [[Network_Topology_Design]]
 [[Quantum_Criticality]]
 [[Self_Organized_Criticality]]

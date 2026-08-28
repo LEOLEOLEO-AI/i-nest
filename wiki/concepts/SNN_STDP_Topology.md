@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SNN]]
 [[SNN_STDP_CoDesign]]
 [[STDP_Plasticity]]
+[[STDP_iNEST]]
 [[Spike_timing_dependent_plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

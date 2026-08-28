@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[20W_Brain_Inspired_Planning]]
+[[Chiplet_Integration_Route]]
 [[CorticalWaveRouting]]
 [[Environmental_Capability_Context]]
 [[Interconnect_Routing]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Bond]]
+[[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

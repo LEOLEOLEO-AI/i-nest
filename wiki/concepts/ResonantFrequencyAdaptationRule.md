@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
+[[Complex_System_Theory]]
 [[Efficient_Coding_Constraint]]
 [[EventBasedAnalogFrontEnd]]
 [[EventDrivenAttentionMechanism]]
@@ -32,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[OptimalGeneralisationNearInterpolation]]
 [[PhotoIontronicSynapse]]
+[[RareEventCoding]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

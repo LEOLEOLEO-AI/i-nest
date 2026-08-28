@@ -35,7 +35,9 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_Neuromodulation]]
 [[CognitiveTaskonomy]]
 [[Compact_Boson_Dynamics]]
+[[Complex_System_Theory]]
 [[DisorderedNetworkInterconnect]]
+[[DistributedEventConditionDesign]]
 [[EdgeIoTEnergyAwareness]]
 [[EvolutionarySearch]]
 [[Intelligence_Emergence]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

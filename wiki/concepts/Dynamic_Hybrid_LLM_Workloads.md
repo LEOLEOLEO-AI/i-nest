@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[DualDrivenHybridNetwork]]
 [[EventDrivenMotionDeblurring]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[SNN]]
 [[Self_Organized_Criticality]]

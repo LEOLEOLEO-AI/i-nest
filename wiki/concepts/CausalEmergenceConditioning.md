@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI-ML — 全景导航 (Map of Content)]]
 [[ANN动力学]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[perspective latents]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -43,9 +43,13 @@ Auto-extracted concept from raw material compilation.
 [[Flow_Aware_Interconnect_Design]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[Interconnect_Routing]]
+[[JointEmbeddingPredictiveArchitecture]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

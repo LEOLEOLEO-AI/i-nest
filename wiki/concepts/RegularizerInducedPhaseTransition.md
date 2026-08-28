@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AdaptiveEntanglementManagement]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Avoided_Criticality]]
 [[Cognitive_Relapse_Decoupling]]
 [[Critical_Region_Extension]]
 [[DTGA]]

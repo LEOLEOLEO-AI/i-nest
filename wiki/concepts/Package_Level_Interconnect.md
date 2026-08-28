@@ -26,12 +26,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[DataMovementMinimization]]
 [[Decoupled_Priors]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[InterfaceCentricTopology]]
@@ -41,11 +43,13 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[P_Paradigm]]
+[[SDI_Interconnect]]
 [[TCC]]
 [[Topology_Centric_Computing]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenMaterialDesign]]
 [[DelayRobustEmergence]]
 [[DifferentiableRasterizationPipeline]]
+[[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Intelligence_Emergence]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

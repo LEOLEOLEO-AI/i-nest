@@ -23,8 +23,11 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Accessibility_Plasticity]]
 [[AutonomousAdaptation]]
+[[BackpropagationFreeLearning]]
+[[Complex_System_Theory]]
 [[DynamicServiceComposition]]
 [[Free_Energy_Topology_Mapping]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -39,6 +42,8 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[iNEST_Interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

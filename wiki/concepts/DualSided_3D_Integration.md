@@ -34,11 +34,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[CorticalTypeDiversity]]
 [[DataMovementMinimization]]
+[[Die_to_Die_Protocol]]
 [[EdgeIoTEnergyAwareness]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -47,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[chiplet stacking]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

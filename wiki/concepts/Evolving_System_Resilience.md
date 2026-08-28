@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[EvolvingArchitectureDynamics]]
 [[Free_Energy_Topology_Mapping]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Memristive_Topology]]

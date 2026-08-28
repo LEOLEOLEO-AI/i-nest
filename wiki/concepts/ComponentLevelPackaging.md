@@ -30,13 +30,16 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[Causal_Emergence_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[State_Transition_Formalism]]
 [[TCC]]
 [[TopologyCentricPrimitiveSet]]
 [[causal emergence]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

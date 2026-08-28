@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Contested_Prior_Resolution]]
 [[Continuous_Control_Spiking_Stability]]
 [[Criticality]]
+[[DelayAwareSpikeEventDelivery]]
 [[DiscreteContinuous_Unification]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]

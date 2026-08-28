@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Memory_Wall]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MultiplicativeGain]]
+[[NCL神经计算定律详解]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
 [[ScaleFreeNetwork]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[VonNeumann_Complexity_Threshold]]
 [[Wafer_Scale_Integration]]
@@ -55,7 +57,8 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[iNEST]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[iNEST_Interconnect]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

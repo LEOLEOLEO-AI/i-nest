@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BayesianConnectivityEstimation]]
 [[Cognitive_Relapse_Decoupling]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Defense_Industrial_Base_Reshaping]]
 [[EulaminateOverrepresentation]]
 [[Evolutionary_Structure_Computability]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GlobalInformationDominance]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[MultiplicativeGain]]
 [[Network_Topology_Design]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[WeakStructuralConnections]]
 [[chiplet interconnect]]
 [[vLLM_plugin_FLSDI]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -8,7 +8,7 @@ tags:
 **Last updated**: 2026-08-01
 
 ## Definition
-The requirement that experimental data (e.g., connectomes) must be sourced from real biological or validated datasets, not randomly generated parameters, to ensure scientific validity. Without real data provenance, iNEST simulations lack credibility and cannot inform TCC topology design or neuromorphic hardware validation.
+The requirement that experimental data (e.g., connectomes) must be sourced from real biological or validated datasets, not randomly generated parameters, to ensure scientific validity. Without real data provenance, iNEST simulations lack credibility and cannot inform TCC_Topology design or neuromorphic hardware validation.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -60,13 +60,14 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Industry_Alliance]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
 [[Spacetime_Coupling_Coefficient]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
-[[TCC topology]]
 [[TCC]]
+[[TCC_Topology]]
 [[TemporalComplexity]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]

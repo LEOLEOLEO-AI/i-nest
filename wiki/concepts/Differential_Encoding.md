@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Orchestrator]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -44,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[MeasurementInducedNonlinearity]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
+[[Neural_Network_Quantum_State_Transfer_Learning]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[complex system]]

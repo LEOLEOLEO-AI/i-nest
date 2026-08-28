@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AndersonTransition]]
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]
+[[Bipartite_Interconnect_Design]]
 [[ChiralSymmetryClasses]]
 [[CommunicationAsComputation]]
 [[ComputeRelocationOverhead]]

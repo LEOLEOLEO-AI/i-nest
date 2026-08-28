@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CellEmergence]]
 [[ChannelCountScaling]]
 [[CongestionAwarePathSelection]]
+[[CriticalityInducedTopology]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[TCC]]

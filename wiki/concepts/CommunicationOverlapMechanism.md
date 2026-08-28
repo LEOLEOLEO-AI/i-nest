@@ -31,12 +31,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[DataMovementMinimization]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

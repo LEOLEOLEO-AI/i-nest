@@ -27,12 +27,14 @@ Auto-extracted concept from raw material compilation.
 [[Bioavailability_Enhancement]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[Dynamic_Expert_Fusion]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Theory]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
+[[Hierarchical_Bayesian_Inference]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[PropertyPredictionModeling]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SNN]]
 [[Spiking_Neural_Network]]
 [[Swarm_Coordination]]
 [[Synaptic_Plasticity]]

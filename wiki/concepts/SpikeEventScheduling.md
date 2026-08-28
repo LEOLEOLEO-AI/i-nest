@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Nonlinear_Gain]]
+[[OpenSource_Neuromorphic_Framework]]
 [[PhaseLockedTopologyMapping]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Recurrent_Network_Homeostasis]]

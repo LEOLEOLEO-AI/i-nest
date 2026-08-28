@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CollectiveDynamics]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Core_Spacetime_Tensor]]
 [[DrivenDissipativeDynamics]]
 [[Dynamic_Expert_Fusion]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Topology_Amplification]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RestrictedConnectivityTopology]]
+[[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
@@ -47,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[智能涌现]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 [[涌现]]
+[[神经网络]]
 [[类脑芯片]]
 
 ## Sources

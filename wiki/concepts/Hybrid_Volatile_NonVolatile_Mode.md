@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Topology_Mapping]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Integration]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]

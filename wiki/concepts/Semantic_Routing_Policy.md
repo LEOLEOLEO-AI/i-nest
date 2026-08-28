@@ -23,7 +23,10 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AI_Driven_Architecture_Search]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
+[[DelayTolerantNetworkUAV]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -35,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyCentricPrimitiveSet]]
 [[Topology_Centric_Computing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

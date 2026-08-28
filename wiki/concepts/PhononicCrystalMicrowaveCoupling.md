@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticMultimodeBend]]
 [[AdvancedPackagingInterconnect]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Based_Trusted_Hardware]]
@@ -34,11 +35,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[Chiplet_Topology]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[EMIB_Bridge]]
 [[EulaminateOverrepresentation]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[InverseDesignedPhotonicRouting]]
 [[Memory_Wall]]
@@ -49,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Packaging]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

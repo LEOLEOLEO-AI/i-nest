@@ -27,8 +27,10 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BitPrecisionAwareScheduling]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[Continual_Learning_Modularity]]
+[[ContinuousGameOfLife]]
 [[DARPA_Technology_Incubation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[Dynamic_Expert_Fusion]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[OpenLearningEcosystem]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Semantic_Least_Energy_Principle]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

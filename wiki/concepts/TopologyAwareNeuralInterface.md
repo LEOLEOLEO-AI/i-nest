@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[CommunicationAwareComputeRelocation]]
 [[Compute_Centric_NoC]]
+[[CongestionAwareNoCPlacement]]
 [[Dynamic_Expert_Fusion]]
 [[GPU_Hegemony_Disruption]]
 [[Heterogeneous_Integration]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[C_elegansConnectomeAnalogy]]
 [[ChaoticAttractorTopology]]
 [[Combinatorial_Optimization_Readout]]
+[[CompleteConnectomeDynamics]]
 [[Connectome]]
 [[DevelopmentalStageEmbedding]]
 [[Emergent_Intelligence_Threshold]]

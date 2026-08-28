@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[Adaptive_Service_Reconfiguration]]
 [[AdjointWaveControl]]
+[[BayesianConnectivityEstimation]]
 [[Network_Topology_Design]]
 [[TCC]]
 

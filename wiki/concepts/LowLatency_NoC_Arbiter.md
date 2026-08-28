@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[GPU_Hegemony_Disruption]]
 [[Inference_Workload_Profiling]]
+[[Interconnect_Routing]]
 [[Network_on_Chip]]
+[[Packaging_Aware_NoC_Design]]
 [[TCC]]
 
 ## Sources

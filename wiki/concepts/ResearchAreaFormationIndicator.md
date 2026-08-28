@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AutonomousServiceNegotiation]]
+[[Complex_System_Theory]]
 [[CrossSubstrateHomology]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FPGA_Neuromorphic_Acceleration]]
@@ -35,10 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_NetworkCoDesign]]
+[[SDI_TCC_iNEST_Bridge]]
 [[TCC]]
 [[iNEST]]
 [[intellectual base]]
 [[neuromorphic computing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

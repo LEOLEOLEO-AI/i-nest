@@ -22,9 +22,11 @@ Auto-extracted concept from raw material compilation.
 
 [[AI_Application_Scenario_Reconstruction]]
 [[AnalogDomainCompressiveSensing]]
+[[AndersonTransition]]
 [[Course_Based_FPGA_Projects]]
 [[CrystalPalace_Program]]
 [[ErrorSuppressedPipeline]]
+[[Interconnect_Routing]]
 [[Loihi2_OnChip_Learning]]
 [[QuantumFluctuationDrivenTransport]]
 [[ReproducibleReservoirDynamics]]

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AgenticServiceOrchestration]]
 [[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[InNetworkComputing]]
 [[Interconnect_Routing]]

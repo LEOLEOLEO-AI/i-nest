@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[Bidirectional_Temporal_Enhancement]]
 [[CoDesigned_SNN]]
+[[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Intelligence_Threshold]]

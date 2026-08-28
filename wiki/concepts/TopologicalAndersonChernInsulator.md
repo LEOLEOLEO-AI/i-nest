@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ERI]]
+[[DARPA_ERI_Program]]
 [[EdgeIoTEnergyAwareness]]
 [[EfficientDeepLearning]]
 [[Emergent_Intelligence_Threshold]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[causal emergence]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

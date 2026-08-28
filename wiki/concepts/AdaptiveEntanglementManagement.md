@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
+[[Critical_Region_Extension]]
 [[Criticality]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]

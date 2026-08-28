@@ -27,14 +27,18 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
+[[Complex_System_Theory]]
 [[FermiSurfaceTopologySignature]]
 [[FixedOverheadFloor]]
 [[HigherOrderDynamicsPreservation]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[Personnel_Role_Assignment]]
 [[neuromorphic computing]]
 [[soc]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

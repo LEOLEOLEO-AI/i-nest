@@ -31,11 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Orchestrator]]
 [[Agent_Workflow_Automation]]
+[[Analog_InMemory_Processing]]
 [[BifurcationCandidate]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
 [[ContactOpportunityExploitation]]
 [[DeepParsing]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
@@ -43,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[soc]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

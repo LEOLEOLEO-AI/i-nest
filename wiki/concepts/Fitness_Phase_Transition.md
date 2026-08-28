@@ -30,11 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Reserve_Index]]
 [[Cognitive_Relapse_Decoupling]]
 [[CollectiveStateTopology]]
+[[Complex_System_Theory]]
 [[ConstraintDrivenOptimization]]
 [[ControlDrivenCriticalFluctuations]]
+[[Critical_Region_Extension]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

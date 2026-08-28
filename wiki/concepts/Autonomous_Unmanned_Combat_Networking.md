@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Capability_Reserve_Index]]
 [[CertifiedBifurcationDetection]]
 [[CoexistencePhaseDiagram]]
+[[Cognitive_Relapse_Decoupling]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

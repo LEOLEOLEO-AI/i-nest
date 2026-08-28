@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[10万级 H100 集群：能源、网络拓扑、以太网与 InfiniBand、可靠性、故障、检查点]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_FullSpectrum_Strategy]]
+[[AdversarialMedicalRobustness]]
 [[Allreduce_Latency_Probe]]
 [[Analog_Computation]]
 [[Architectural_Conditioning]]
@@ -49,10 +50,10 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[complex system]]
-[[deep thermalisation dynamics]]
 [[deep thermalisation]]
 [[vLLM_plugin_FLSDI]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

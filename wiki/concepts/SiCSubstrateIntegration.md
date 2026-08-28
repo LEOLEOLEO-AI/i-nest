@@ -30,10 +30,13 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_MVP]]
 [[Allreduce_Latency_Probe]]
 [[Alpha_Computation_Consistency]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[DarkSiliconAwarePowerGating]]
 [[HierarchicalNetworkPartitioning]]
+[[Intelligence_Emergence]]
+[[Interconnect_Routing]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[NegotiationAwareRouting]]
 [[Network_Topology_Design]]
@@ -44,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[Wafer_Scale_Integration]]
 [[advanced packaging]]
 [[complex system]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

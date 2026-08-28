@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SNN]]
 [[Self_Organized_Criticality]]
+[[SpikeAttention]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

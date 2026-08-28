@@ -23,11 +23,13 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integrated_Chiplet_Stacking]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AdvancedPackagingInterconnect]]
+[[CavityMethodAnalysis]]
 [[Chiplet_Based_Architecture]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_NoC_Fabric]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Deep_Thermalisation]]
 [[Defense_Industrial_Base_Reshaping]]
 [[DirectConnect_Topology]]
@@ -36,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Heterogeneous_Inference_Offload]]
 [[Heterogeneous_Integration]]
 [[Inference_Workload_Profiling]]
+[[Intelligence_Emergence]]
 [[Logic_Folding]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologyPage_Preloading]]
 [[VectorFlowField]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

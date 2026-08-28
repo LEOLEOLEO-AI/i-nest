@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[EventCameraActionRecognition]]
+[[FPGASNNMemoryOptimization]]
 [[Intelligence_Emergence]]
 [[Memristor_Synapse]]
 [[Network_Specific_Embedding_Separation]]

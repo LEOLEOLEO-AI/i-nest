@@ -35,12 +35,14 @@ Auto-extracted concept from raw material compilation.
 [[GenerativeTopologyModels]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Microgrid_Optimization]]
 [[Network_Spatiotemporal_Coordination]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RecursiveSelfReferentialArchitecture]]
+[[Recursive_Metric_Contraction]]
 [[RenormalizationGroup_ScalingLaws]]
 [[SpatiotemporalComplexityIndex]]
 [[TCC]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[temporalComplexity]]
 [[Γst_Revision]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

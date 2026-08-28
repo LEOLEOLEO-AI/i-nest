@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdiabaticMultimodeBend]]
+[[AdversarialMedicalRobustness]]
 [[Analog_Computation]]
 [[Bioavailability_Enhancement]]
 [[CST_Coordinated_Spatiotemporal_Complexity]]
@@ -36,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

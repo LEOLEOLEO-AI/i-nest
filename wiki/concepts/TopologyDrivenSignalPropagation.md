@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BarrierConditionedTrajectory]]
 [[BigBrainCellularAxis]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
 [[Deep_Thermalisation]]
 [[Intelligence_Emergence]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[TCC]]
 [[branch prediction]]
+[[类脑芯片]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,14 +30,18 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[CompactFieldVariable]]
+[[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[Decoupled_Priors]]
 [[DiagnosticReportFramework]]
+[[DynamicServiceComposition]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 
 ## Related Work
 
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CoPoS]]
@@ -49,6 +50,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[从CoWoS走向CoPoS，晶圆从圆形变成方形]]
 [[智能涌现]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[涌现动力学如何用来分析复杂系统？_新课上线]]
 [[神经网络]]

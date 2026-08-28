@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Forum_Demo_Narrative]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[Generative_Graph_Models]]
 [[Interconnect_Routing]]

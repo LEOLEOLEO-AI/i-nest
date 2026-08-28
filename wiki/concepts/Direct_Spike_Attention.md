@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Delay_Aware_Autograd_Spiking_Framework]]
 [[DynamicTokenSparsity]]
 [[Edge_Neuromorphic_Compute]]
+[[EnergyEfficientNeuromorphicDesign]]
 [[Event_Driven_Architecture]]
 [[Neuromorphic_Computing]]
 [[SNN]]

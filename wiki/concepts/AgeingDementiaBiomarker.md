@@ -32,11 +32,11 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Criticality]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_Organization]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[Syncytial_Mesh]]
-[[Syncytial_Mesh_Model]]
 [[iNEST]]
 
 ## Sources

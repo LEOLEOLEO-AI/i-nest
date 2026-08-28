@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[FlagOS_2_0]]
 [[Heterogeneous_Integration]]
+[[Heterogeneous_Integration_Roadmap_HIR]]
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[NeuralNetworkSpectralAnalysis]]

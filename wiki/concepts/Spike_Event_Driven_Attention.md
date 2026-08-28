@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalBatchSynchronization]]
 [[TemporalSparsityExploitation]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

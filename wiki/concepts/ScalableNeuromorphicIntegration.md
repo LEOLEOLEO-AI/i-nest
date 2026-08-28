@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInferenceGenerativeModel]]
 [[AstrocyteInspiredRepair]]
 [[BayesMarkovOrientationModel]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]

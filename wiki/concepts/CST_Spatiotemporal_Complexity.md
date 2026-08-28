@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Analog_Weight_Storage]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -53,6 +54,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[temporalComplexity]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

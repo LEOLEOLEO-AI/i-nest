@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
 [[CrashHotspotForecasting]]
+[[DivergentHigherAreaRanking]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

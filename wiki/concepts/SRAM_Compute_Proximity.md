@@ -30,11 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Interconnect_Aware_Placement]]
 [[Chiplet_NoC_Interconnect]]
 [[Chiplet_Packaging]]
+[[Chiplet_Packaging_Topology]]
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
+[[Complex_System_Theory]]
 [[DirectConnect_Topology]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[IsolatedKVBandwidth]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -42,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Interconnect]]
 [[TCC]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

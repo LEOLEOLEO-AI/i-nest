@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
+[[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DisorderedNetworkInterconnect]]
 [[Emergent_Intelligence_Threshold]]
@@ -45,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[emergent computation]]
 [[iNEST]]
 [[neuromorphic computing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

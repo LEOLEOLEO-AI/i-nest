@@ -51,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TemporalDynamicsModeling]]
 [[TwoTimescaleNeuroEvolution]]
 [[iNEST]]
+[[iNEST_Neuromorphic_Integration]]
 [[syncytial mesh]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 

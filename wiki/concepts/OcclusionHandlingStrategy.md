@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[RecurrentSpikingDynamics]]
 [[RecursiveSelfReferentialArchitecture]]
 [[ResistiveMemoryWriteBudgeting]]
+[[Sparsity_Degradation_Threshold]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[SynapticWeightPlasticity]]

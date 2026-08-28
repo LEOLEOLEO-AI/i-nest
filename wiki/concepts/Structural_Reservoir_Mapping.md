@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[ConnectivityDerivedReservoir]]
 [[CoupledOscillatorReservoir]]
+[[CriticalStateReservoir]]
 [[DivergentHigherAreaRanking]]
 [[EvolutionaryReservoirOptimization]]
 [[Fixed_Reservoir_Unitary]]

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[AutonomousServiceNegotiation]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Energy_Efficient_Control]]
 [[FirstPrinciples_Derivation]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[L2_L3_Reconfigurability]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[neuromorphic chiplet]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

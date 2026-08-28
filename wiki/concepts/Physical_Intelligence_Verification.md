@@ -28,12 +28,14 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousServiceNegotiation]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[BiasEvaluationMetrics]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Principle_Network]]
 [[Free_Energy_Topology_Mapping]]
 [[GenerativeTopologyModels]]
 [[InNetworkAgentRewiring]]
+[[Intelligence_Emergence]]
 [[Master_SDDE]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
@@ -47,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[temporalComplexity]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Region_Extension]]
 [[Criticality]]
 [[EvolvingArchitectureDynamics]]
+[[FeatureBonding]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

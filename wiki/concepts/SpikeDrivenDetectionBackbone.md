@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[ReconfigurableSpikingRouting]]
 [[RecursiveSelfReferentialArchitecture]]
+[[SDI_SNN_Interconnect]]
 [[SNN]]
 [[ST_SNN]]
 [[Spike_Encoding_of_fMRI]]

@@ -25,10 +25,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Based_Trusted_Hardware]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[DataMovementMinimization]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
+[[Intelligence_Emergence]]
 [[InterfaceCentricTopology]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -36,8 +38,10 @@ Auto-extracted concept from raw material compilation.
 [[NoC_Chiplet_Wafer_Stack]]
 [[NoC_Chiplet_iNEST_Wafer]]
 [[Package_Level_Interconnect]]
+[[SDI_Interconnect]]
 [[TCC]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

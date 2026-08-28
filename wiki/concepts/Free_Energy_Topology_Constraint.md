@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[Decoupling_Mechanism]]
 [[Free_Energy_Topology_Mapping]]
+[[GenerativeTopologyModels]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI bond]]
 [[SDI_Bond]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

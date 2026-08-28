@@ -31,11 +31,15 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CircuitTopologySearch]]
+[[Complex_System_Theory]]
 [[CrossLingualIdiomGraph]]
 [[Differential_FeatureExtraction]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[MemoryDrivenRouting]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

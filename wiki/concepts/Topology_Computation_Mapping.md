@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DisorderedNetworkInterconnect]]
 [[DistributedEventConditionDesign]]
@@ -39,11 +40,13 @@ Auto-extracted concept from raw material compilation.
 [[Kinematic_Waves]]
 [[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
+[[OpportunisticRouting]]
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

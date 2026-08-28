@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[CircuitCoDesign]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

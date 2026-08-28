@@ -36,6 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
 [[Alpha_Coefficient_Phase_Transition_Amplification]]
+[[BackpropFree_Learning]]
 [[Complex_System_Theory]]
 [[Criticality]]
 [[Intelligence_Emergence]]
@@ -46,4 +47,5 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[complex system]]
 [[criticality]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]

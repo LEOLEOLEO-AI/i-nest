@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[Allreduce_Latency_Probe]]
 [[CirculateFiringNeuron]]
+[[CollectiveSpikingDynamics]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Deep_SNN_Trainability]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Nonlinear_Gain]]
 [[Recurrent_Network_Homeostasis]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
@@ -44,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[hls4ml_SNN_Conversion]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[neuromorphic computing]]
 
 ## Sources

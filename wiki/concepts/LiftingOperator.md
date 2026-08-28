@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[156QubitScale]]
 [[3DGS_Scene_Graph]]
 [[3DGS_SplatPrimitive]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Cauchy_Aczel_Uniqueness]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
@@ -41,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

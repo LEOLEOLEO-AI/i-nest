@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BigBrain3DHistology]]
 [[Brain_Connectome]]
+[[ConnectomeFidelityClaim]]
 [[Connectome]]
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]

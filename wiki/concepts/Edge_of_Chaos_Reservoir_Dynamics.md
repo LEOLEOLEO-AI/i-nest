@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[AnalogDomainCompression]]
 [[Categorical_Closure_Criterion]]
 [[CombinatorialOptimizationReservoirMapping]]
 [[CouplingTopologyInducedDynamics]]
@@ -31,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Heterogeneous_Compute_Graph]]
 [[MemristiveReservoirBranchPrediction]]
+[[Network_Topology_Design]]
 [[Nonlinear_Gain]]
 [[QuantumReservoirGeneralTheory]]
 [[Reservoir_Computing]]

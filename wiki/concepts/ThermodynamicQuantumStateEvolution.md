@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[AgenticServiceManifesto]]
 [[Compressive_Sensing_Reservoir]]
+[[CriticalityInducedTopology]]
 [[Criticality]]
 [[DARPA_ProjectManager_Model]]
 [[DynamicProgrammingRecycling]]

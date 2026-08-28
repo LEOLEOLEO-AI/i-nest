@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[Active_Inference_Topology]]
 [[AnomalousSpinTransport]]
 [[AutonomousAdaptation]]
 [[Chiplet_Heterogeneous_Integration]]

@@ -30,11 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[BalancedRouting]]
 [[Baseline_Draft_Status]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[DisorderedNetworkInterconnect]]
+[[DistributedEventConditionDesign]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

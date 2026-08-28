@@ -31,12 +31,15 @@ Auto-extracted concept from raw material compilation.
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
+[[AdiabaticMultimodeBend]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[TCC]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

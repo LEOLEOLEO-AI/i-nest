@@ -31,11 +31,14 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_based_heterogeneous_integration]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
 [[Heterogeneous_Monolithic_CoIntegration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
 [[RTC_Primitive]]
@@ -50,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[WaferScaleSubstrate]]
 [[chiplet interconnect]]
 [[heterogeneous_integration]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

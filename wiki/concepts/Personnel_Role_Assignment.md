@@ -30,8 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[CellEmergence]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[ConnectionCentricParadigm]]
 [[ContinuousGameOfLife]]
+[[CrossDomain_Abstraction]]
 [[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
@@ -40,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[neuromorphic computing]]
 [[soc]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Self_Organized_Criticality]]
 [[SpikeAttention]]
 [[SpikePacketCompression]]
+[[Spiking_Network_Simulation_Placement]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]
 [[Swarm_Coordination]]

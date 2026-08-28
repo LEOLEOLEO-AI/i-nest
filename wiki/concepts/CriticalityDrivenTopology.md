@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BurstGatedRouting]]
 [[CriticalNormBoundary]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[Dynamic_Expert_Fusion]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[Interconnect_Routing]]

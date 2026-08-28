@@ -30,14 +30,18 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
 [[EdgeCloudCollaboration]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
+[[NonvisualGroundClassification]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

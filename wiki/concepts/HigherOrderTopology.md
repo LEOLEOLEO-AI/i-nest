@@ -34,11 +34,14 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[DiagnosticReportFramework]]
+[[Intelligence_Emergence]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
+[[TopologicalComplexityCeiling]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

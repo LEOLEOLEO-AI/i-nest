@@ -30,10 +30,14 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_for_Space]]
 [[ChipletTrafficAwareScheduling]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Fabric]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Post_Moore_Paradigm]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

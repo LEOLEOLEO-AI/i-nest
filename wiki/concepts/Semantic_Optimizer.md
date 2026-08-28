@@ -24,9 +24,12 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AnalogInMemoryComputing]]
 [[Attention_Residuals]]
+[[CST计量仪]]
+[[Complex_System_Theory]]
 [[Decoupled_Priors]]
 [[Deep_Network_Architecture_Invariant]]
 [[Heterogeneous_Inference_Division]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
@@ -35,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[ScalableNeuromorphicTopology]]
 [[TCC]]
 [[Topology_Centric_Computing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

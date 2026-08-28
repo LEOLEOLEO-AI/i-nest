@@ -25,6 +25,8 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
+[[BurstInterleaving]]
+[[Complex_System_Theory]]
 [[FPGA_NeuromorphicMapping]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]

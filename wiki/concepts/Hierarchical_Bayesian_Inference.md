@@ -12,7 +12,7 @@ auto: true
 **Last updated**: 2026-08-04
 
 ## Definition
-A statistical framework that models data through multiple levels of probabilistic priors, allowing for community detection and structured pattern discovery. Provides a principled method for extracting latent structure from complex network data, relevant for both TCC topology analysis and iNEST learning algorithms.
+A statistical framework that models data through multiple levels of probabilistic priors, allowing for community detection and structured pattern discovery. Provides a principled method for extracting latent structure from complex network data, relevant for both TCC_Topology analysis and iNEST learning algorithms.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveSupportTopology]]
 [[CollectiveConsensus]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
@@ -41,12 +42,13 @@ Auto-extracted concept from raw material compilation.
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Spatiotemporal_Synergy_Complexity]]
-[[TCC topology]]
 [[TCC]]
+[[TCC_Topology]]
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[HardwareAware_DesignSpace]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]
+[[ReservoirDiversity]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

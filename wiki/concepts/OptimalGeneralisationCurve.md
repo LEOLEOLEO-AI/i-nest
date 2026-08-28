@@ -32,12 +32,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
 [[DTGA]]
 [[Decoupling_Mechanism]]
+[[DendriticReservoirState]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

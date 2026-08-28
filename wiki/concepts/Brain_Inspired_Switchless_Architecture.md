@@ -29,19 +29,23 @@ Auto-extracted concept from raw material compilation.
 [[Attractor_State_Interpolation]]
 [[CognitiveFeedbackLoop]]
 [[CompetitiveEdgeRewiring]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[ExplainableEnergyAI]]
 [[FrozenRateOperator]]
 [[InNetworkNeuromorphicComms]]
 [[InNetwork_RL_Control]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[Precision_Configurable_ReCON]]
 [[SDPrompt_Guided_Dynamic_Expert_Fusion]]
+[[StochasticVehicleRouting]]
 [[Strategic_CommsSupremacy]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

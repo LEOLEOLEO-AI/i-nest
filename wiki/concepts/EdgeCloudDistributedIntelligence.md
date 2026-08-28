@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[ContinuousGameOfLife]]
 [[CrossDomain_Abstraction]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[DataDrivenMaterialDesign]]
 [[DelayRobustEmergence]]
 [[DifferentiableRasterizationPipeline]]
+[[DisorderedNetworkInterconnect]]
 [[DistributedIntelligence]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

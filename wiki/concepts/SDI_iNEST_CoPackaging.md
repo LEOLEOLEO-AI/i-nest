@@ -23,9 +23,12 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[11_SDI节点接口规范与化合键定义_dup]]
 [[4H_SiC_SubstrateProcessing]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[AdvancedPackagingInterconnect]]
 [[Advanced_Packaging_for_Space]]
+[[Complex_System_Theory]]
 [[FlagOS_2_0]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
@@ -38,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[iNEST_Packaging]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

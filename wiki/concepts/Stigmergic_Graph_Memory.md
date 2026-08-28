@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[FunctionalInterfaceBlock]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[IonotropicPhotoresponse]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

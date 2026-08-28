@@ -30,14 +30,17 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[Attention_Residuals]]
 [[BigBrainCellularAxis]]
+[[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
 [[Chiplet_based_heterogeneous_integration]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
 [[Evolutionary_Computability]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Master_SDDE]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -52,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[heterogeneous_integration]]
 [[iNEST]]
 [[temporalComplexity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

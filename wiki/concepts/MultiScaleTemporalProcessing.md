@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
+[[Passive_BCI_Neurofeedback]]
 [[QuantumSpikingNeuron]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDSoW]]

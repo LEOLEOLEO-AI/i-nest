@@ -24,12 +24,15 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_Route]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[Disordered_Frustrated_Dimer_Magnets]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
+[[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[InterChipletPHYModeling]]
 [[MetricComputationAuthenticity]]
 [[Microgrid_Optimization]]
@@ -47,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[scaling laws]]
 [[temporalComplexity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[DevelopmentalNeuromorphicAdaptation]]
 [[Distributed_Spike_Communication]]
 [[Emergent_Intelligence_Threshold]]
+[[EventCameraActionRecognition]]
 [[FPGA_Neuromorphic_Acceleration]]
 [[FormalToolchain]]
 [[InNetworkAgentRewiring]]

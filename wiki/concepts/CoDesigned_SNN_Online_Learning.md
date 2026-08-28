@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BulletTrainScheduling]]
 [[CoDesigned_SNN]]
 [[Criticality]]
+[[CrossEntityPreemptiveWarning]]
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
 [[Neuromorphic_Computing]]

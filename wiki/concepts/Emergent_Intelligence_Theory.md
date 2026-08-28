@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Master_SDDE]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Microgrid_Optimization]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[temporalComplexity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

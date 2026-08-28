@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Cross_Node_Event_Propagation]]
+[[Distributed_Spike_Communication]]
 [[FerroelectricSynapticArray]]
 [[Ferroelectric_Devices]]
 [[Heterogeneous_Integration]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[ByteDance_Ada_Chip]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_NoC_Fabric]]
 [[Chiplet_Packaging]]
 [[Chiplet_Stacking]]
 [[CrossMaterial_Integration]]

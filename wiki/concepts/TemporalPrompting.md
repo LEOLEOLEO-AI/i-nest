@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AmoebaInspiredLocomotion]]
 [[Cognitive_Relapse_Decoupling]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Dimensionality_Modularity_Tradeoff]]
 [[DynamicCentralitySteering]]

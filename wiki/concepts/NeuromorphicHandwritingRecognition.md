@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainInspired_Chip]]
 [[ConductingPolymerDendriteMemory]]
 [[Event_Driven_Architecture]]
+[[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
 [[NestedRepresentation]]
 [[Neuromorphic_Computing]]

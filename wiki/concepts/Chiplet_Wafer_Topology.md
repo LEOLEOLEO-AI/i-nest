@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[EfficientDeepLearning]]
+[[EmergentIntelligence_Spacetime]]
 [[Emergent_Intelligence_Threshold]]
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]

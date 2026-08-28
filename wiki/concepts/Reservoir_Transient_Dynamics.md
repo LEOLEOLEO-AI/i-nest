@@ -31,6 +31,8 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[Bosonic_SPT_Phases]]
 [[CST_CoordinationMechanism]]
+[[Complex_System_Theory]]
+[[Contested_Prior_Resolution]]
 [[Reservoir_Computing]]
 [[iNEST]]
 

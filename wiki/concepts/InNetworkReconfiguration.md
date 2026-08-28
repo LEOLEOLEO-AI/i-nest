@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Accessibility_Plasticity]]
 [[Cognitive_Relapse_Decoupling]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[FlexibleManifoldReconfiguration]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[In_Memory_Computing]]
 [[Intelligence_Emergence]]
 [[MacroscopicDescriptor]]
+[[MasterEquationRG]]
 [[MeanFieldSpinGlass]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Metastable_State_Hierarchy]]

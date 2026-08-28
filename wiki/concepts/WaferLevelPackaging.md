@@ -28,14 +28,17 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AdaptiveNetworkResilience]]
 [[Analog_Weight_Storage]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]
 [[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Architectures]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

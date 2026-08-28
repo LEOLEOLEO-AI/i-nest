@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Biodefense_Threat_Detection_Network]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CirculateFiringNeuron]]
+[[Complex_System_Theory]]
 [[Critical_Exponent_Analysis]]
 [[DeepCounterstreamAssociativeNetworks]]
 [[DopamineArousalSwitch]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[FowlerNordheimAnnealer]]
 [[Fractal_Entanglement_Scaling]]
 [[FrozenRandomFeatureExtractor]]
+[[GraphNeuralNetworkTemporalFeatureExtraction]]
 [[Heterogeneous_Integration]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[catastrophic forgetting]]
 [[iNEST]]
 [[soc]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

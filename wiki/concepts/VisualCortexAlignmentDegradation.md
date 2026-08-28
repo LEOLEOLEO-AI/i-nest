@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[20W_Brain_Inspired_Planning]]
 [[AIRA_NeuralArchSearch]]
 [[ActionPrototypeClustering]]
+[[AdaptersInSpikingNetworks]]
 [[AgeingDementiaBiomarker]]
 [[Amorphous_Amorphous_Transition]]
 [[AnomalousSpinTransport]]

@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[QuantumReservoirMemoryCapacity]]
+[[Readout_Weight_Training]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Reservoir_Computing]]
 [[complex system]]

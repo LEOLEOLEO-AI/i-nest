@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[InNetwork_CST_Offload]]
 [[Memory_Wall]]
 [[Memristive_ANN_Hardware]]
 [[Memristive_STDP]]

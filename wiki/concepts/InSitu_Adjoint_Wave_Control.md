@@ -22,14 +22,17 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdjointWaveControl]]
+[[CLINKAsCarrierPrimitive]]
 [[Cognitive_Relapse_Decoupling]]
+[[Complex_System_Theory]]
 [[ControlDrivenCriticalFluctuations]]
 [[FatalityDrivenRewiring]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
-[[NoC_SDI_Integration]]
+[[NoC_SDI]]
 [[OpenLearningEcosystem]]
 [[PacketRoutingForFPGAs]]
 [[PacketRoutingOptimization]]
@@ -37,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SelfOrganization]]
 [[TCC]]
 [[VectorFlowField]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

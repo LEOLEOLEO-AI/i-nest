@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[Asymptotic_Exact_Solution]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Topology]]
 [[Continuous_Memory_System]]
 [[CorticalTypeDiversity]]
@@ -29,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Topology_Mapping]]
 [[Hybrid_Volatile_NonVolatile_Mode]]
 [[In_Network_Neuromorphic]]
+[[Intelligence_Emergence]]
 [[Multi_Scale_Habituation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -36,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[soc]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

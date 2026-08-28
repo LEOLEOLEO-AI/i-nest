@@ -21,7 +21,9 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[AI-ML — 全景导航 (Map of Content)]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

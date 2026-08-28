@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ComplexTopologicalStructures]]
 [[Complex_System_Theory]]
 [[DTGA]]
+[[FunctionalInterfaceBlocks]]
 [[Heterogeneous_Integration]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[BerryCurvatureIsolation]]
 [[BioInspired_Interception_Control]]
 [[BurstGatedRouting]]
+[[CavityMethodAnalysis]]
 [[ChiralSymmetryClasses]]
 [[CommunicationAwareComputeRelocation]]
 [[Compute_Communication_Topology_Matching]]

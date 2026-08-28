@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[EpidemicThreshold]]
 [[FormalLinguisticCompetence]]
+[[Hardware_Accelerated_SNN]]
 [[HierarchyOfApproximations]]
 [[Intelligence_Emergence]]
 [[MacroCriticalityEmergence]]

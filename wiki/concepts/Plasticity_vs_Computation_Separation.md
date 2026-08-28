@@ -25,18 +25,22 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
 [[AdjointWaveControl]]
+[[Complex_System_Theory]]
 [[Computation_Access_Routing]]
 [[EvolvingArchitectureDynamics]]
 [[FPGA_NeuromorphicMapping]]
 [[FPGA_Reconfigurability]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[InNetworkReconfiguration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[JunctionCenteredRouting]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SelfOrganization]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

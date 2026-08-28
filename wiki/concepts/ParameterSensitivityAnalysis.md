@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[FPGA_Neuromorphic_Architectures]]
 [[FirstPrinciples_Derivation]]
+[[HierarchicalNetworkPartitioning]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[TCC]]

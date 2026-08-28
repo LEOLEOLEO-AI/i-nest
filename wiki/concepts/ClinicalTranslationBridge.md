@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicTopologyMapping]]
 [[Emergent_Intelligence_Threshold]]
 [[FPGABasedNeuromorphic]]
+[[FPGASpikeImplementation]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]

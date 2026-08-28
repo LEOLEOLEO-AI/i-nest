@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
+[[Chiplet_Interconnect_Topology]]
 [[Chiplet_Topology]]
 [[FullDimensionalDefinableInterconnect]]
 [[Heterogeneous_Integration]]

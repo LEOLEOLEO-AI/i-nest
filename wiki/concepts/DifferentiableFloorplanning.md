@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[InterconnectDrivenCostFunction]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
+[[Packaging_Aware_NoC_Design]]
 [[PinAssignmentOptimization]]
 [[RoutabilityDrivenFloorplanning]]
 [[RoutabilityDrivenPinAssignment]]

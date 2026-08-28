@@ -22,3 +22,20 @@ refs: 6
 
 
 _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
+
+## Merged From
+- quantum reservoir computing (merged 2026-08-28)
+
+
+## Related Work
+
+[[AI_Application_Scenario_Reconstruction]]
+[[FisherOrthogonalMemory]]
+[[MonitoredQuantumReservoir]]
+[[NISQHardwareAwareMapping]]
+[[QuantumReservoirGeneralTheory]]
+[[QuantumReservoirThermodynamics]]
+[[Reservoir_Computing]]
+[[TCC]]
+[[iNEST]]
+[[reservoir computing]]

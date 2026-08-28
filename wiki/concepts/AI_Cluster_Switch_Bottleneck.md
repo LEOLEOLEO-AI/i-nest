@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[DTGA]]
+[[Environmental_Capability_Context]]
 [[Heterogeneous_Integration]]
 [[HierarchicalNetworkPartitioning]]
 [[MachineLearningNanomaterialDiscovery]]

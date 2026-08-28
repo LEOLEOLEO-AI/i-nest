@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Constructed_Reality_Interconnect]]
 [[DARPA_ProjectManager_Model]]
 [[Free_Energy_Principle_Network]]
+[[Heterogeneous_Integration]]
 [[Memory_Wall]]
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Nonlinear_Gain]]
 [[ReproducibleReservoirComputing]]
 [[Reservoir_Computing]]
+[[Residual_Connection_Removal]]
 [[iNEST]]
 [[neuromorphic interconnect]]
 

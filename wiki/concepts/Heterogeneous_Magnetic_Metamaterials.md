@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[AI_Application_Scenario_Reconstruction]]
+[[Active_Inference_Topology]]
 [[AnomalousSpinTransport]]
 [[ArbitraryWavefunctionConfigurability]]
 [[AutonomousAdaptation]]

@@ -34,14 +34,19 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[AttractorConvergenceAnalysis]]
 [[Bayesian_Decoding]]
-[[Bipartite_Interconnect_Fabric]]
+[[Bipartite_Interconnect]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[advanced packaging]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

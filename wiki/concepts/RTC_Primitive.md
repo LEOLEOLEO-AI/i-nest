@@ -8,7 +8,7 @@ tags:
 **Last updated**: 2026-07-30
 
 ## Definition
-A set of real-time control primitives (including τ_commit, τ_apply, τ_resume) that manage timing and state transitions in TCC topology execution. These primitives are critical for deterministic, low-latency coordination of distributed topology operations in TCC systems.
+A set of real-time control primitives (including τ_commit, τ_apply, τ_resume) that manage timing and state transitions in TCC_Topology execution. These primitives are critical for deterministic, low-latency coordination of distributed topology operations in TCC systems.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -56,8 +56,8 @@ Auto-extracted concept from raw material compilation.
 [[SuperlinearGain]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
-[[TCC topology]]
 [[TCC]]
+[[TCC_Topology]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Topology_Interconnect]]

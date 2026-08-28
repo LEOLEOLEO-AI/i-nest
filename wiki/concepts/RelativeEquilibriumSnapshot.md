@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_FullSpectrum_Strategy]]
 [[Allreduce_Latency_Diagnostic]]
 [[Allreduce_Latency_Probe]]
+[[Analog_InMemory_Processing]]
 [[Architectural_Conditioning]]
 [[CausalIntegrationTopology]]
 [[CentralityBasedDefense]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[coupling topology]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

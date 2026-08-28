@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[SDSoW_Strategic_Planning]]
 [[Self_Organized_Criticality]]
 [[TCC]]
 [[iNEST]]

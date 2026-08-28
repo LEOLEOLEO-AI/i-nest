@@ -39,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuroRing_Topology]]
 [[QuantumKernelMethods]]
 [[Resilient_Satellite_Mesh]]
+[[SNN]]
 [[SensorMemoryCoLocation]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]

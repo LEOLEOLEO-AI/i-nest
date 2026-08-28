@@ -33,12 +33,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Inference_Stage_Decomposition]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

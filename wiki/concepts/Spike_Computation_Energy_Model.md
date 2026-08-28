@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDN_Neuromorphic_Interface]]
 [[SNN]]
+[[SNN_NeuroprostheticPipeline]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]
 [[TCC]]

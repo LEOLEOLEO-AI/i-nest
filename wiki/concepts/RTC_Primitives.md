@@ -20,14 +20,17 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[BackpropagationFreeLearning]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[DiagnosticReportFramework]]
 [[EulaminateOverrepresentation]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
@@ -39,7 +42,6 @@ Auto-extracted concept from raw material compilation.
 [[RenormalizationGroup_ScalingLaws]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
-[[SDI_TCC_Chiplet_Interconnect]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Software_Defined_Interconnect]]
@@ -53,6 +55,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST_Wafer]]
 [[temporalComplexity]]
 [[topology reconfiguration]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -41,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[HigherOrderSynchronization]]
 [[Knowledge_Graph_Navigation]]
 [[Network_Topology_Design]]
+[[RealTimeClassification]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
 [[TCC]]

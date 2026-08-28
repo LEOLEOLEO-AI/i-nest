@@ -28,8 +28,11 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_NoC_Interconnect]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
+[[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

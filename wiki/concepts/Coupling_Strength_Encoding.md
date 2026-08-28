@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Nonlinear_Gain]]
 [[Phase_Transition_Tail_Transition]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Representation_Learning_Generalization]]
@@ -50,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[TopologyAwareNeuralInterface]]
+[[TopologyEmbeddedIntrospection]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

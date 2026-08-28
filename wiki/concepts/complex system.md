@@ -36,6 +36,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[AstrocyteInspiredRepair]]
+[[Chiplet_Integration_Route]]
 [[Complex_System_Theory]]
 [[Kinematic_Waves]]
 [[SDI_Bond]]

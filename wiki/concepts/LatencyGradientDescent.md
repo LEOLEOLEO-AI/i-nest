@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[FrequencyAdaptationMechanism]]
 [[GraphAnomalySpikeEncoding]]
 [[Heterogeneous_Integration]]
+[[MembranePotentialAlignment]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Chiplet]]
 [[Neuromorphic_Computing]]

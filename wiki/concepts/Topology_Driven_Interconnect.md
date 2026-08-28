@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[ReproducibleReservoirDynamics]]
 [[Reservoir_Computing]]
 [[TCC]]
+[[ThermallyDrivenSuperparamagnetReservoir]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

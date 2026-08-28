@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuron论文：Neuromorphic is dead, 神经形态已死。]]
+[[RISC-V 鏋舵瀯涓_SDI 鏅虹畻浜掕仈绯荤粺璁捐锛氶潰鍚_LLM 浣庡欢杩熸帹鐞嗕笌璁粌]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[STDP_Plasticity]]
@@ -50,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

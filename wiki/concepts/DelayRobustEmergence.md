@@ -26,7 +26,9 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Baseline_Draft_Status]]
 [[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[ContinuousGameOfLife]]
+[[CrossDomain_Abstraction]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -34,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[emergent computation]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -23,11 +23,14 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdaptiveEntanglementManagement]]
 [[Cognitive_Relapse_Decoupling]]
+[[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[EvolvingArchitectureDynamics]]
 [[Evolving_System_Resilience]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
+[[HybridCouplingThermosensitiveNetwork]]
 [[InSitu_Adjoint_Wave_Control]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[OpenLearningEcosystem]]
 [[RLFlightControl]]
@@ -37,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

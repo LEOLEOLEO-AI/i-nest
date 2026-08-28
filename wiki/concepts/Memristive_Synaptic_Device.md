@@ -34,12 +34,12 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Hardware_ANN]]
 [[Memristor_Synapse]]
 [[Neuromorphic_Computing]]
+[[OptoelectronicIGZO_RRAM]]
 [[STDP_Plasticity]]
 [[StateAugmentedLearning]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -43,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[RealTimeClassification]]
 [[RecursiveSelfReferentialArchitecture]]
+[[RelocationOverheadModel]]
 [[SpikingTopologyEvolution]]
 [[Spiking_Neural_Network]]
 [[SuperparamagneticSwitchingRate]]

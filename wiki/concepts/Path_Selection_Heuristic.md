@@ -32,7 +32,9 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Integration_Route]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[HierarchicalNetworkPartitioning]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Memristor_Synapse]]
@@ -43,7 +45,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

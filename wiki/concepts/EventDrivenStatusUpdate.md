@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AI_Driven_Architecture_Search]]
 [[Baseline_Draft_Status]]
+[[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
 [[DebiasingTechniques]]
 [[EventBasedNeuralDecoding]]
@@ -31,10 +32,10 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRestoration]]
 [[EventDrivenRiskAssessment]]
 [[FirstTimestepConversion]]
+[[FixedOverheadFloor]]
 [[Neuromorphic_Computing]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
-[[spiking neural network dynamics]]
 [[spiking neural network]]
 
 ## Sources

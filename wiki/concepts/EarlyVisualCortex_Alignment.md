@@ -30,14 +30,17 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Orchestrator]]
 [[Agent_Workflow_Automation]]
+[[Analog_InMemory_Processing]]
 [[Asymptotic_Exact_Solution]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[biologically plausible learning rules]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

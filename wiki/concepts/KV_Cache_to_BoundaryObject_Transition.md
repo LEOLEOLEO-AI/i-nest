@@ -31,9 +31,11 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Complex_Network_Class_Brain_Inspired_Intelligence]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[DataDrivenCellularAxis]]
 [[FlagOS_2_0]]
 [[Free_Energy_Topology_Mapping]]
+[[Intelligence_Emergence]]
 [[KV_Cache_to_BoundaryObject]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[MetricComputationAuthenticity]]
@@ -47,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyAwareStateMigration]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

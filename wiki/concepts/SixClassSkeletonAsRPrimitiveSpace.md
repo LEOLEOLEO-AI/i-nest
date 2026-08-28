@@ -37,15 +37,18 @@ Auto-extracted concept from raw material compilation.
 [[EventTriggeredDistributedControl]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Intelligent_Computing_Infrastructure]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoCPlacementRoutingCoDesign]]
+[[Nonreciprocity_Threshold]]
 [[Recursive_Metric_Contraction]]
 [[TCC]]
 [[chiplet interconnect]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

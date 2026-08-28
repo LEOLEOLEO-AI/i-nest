@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[Bidirectional_Temporal_Enhancement]]
 [[CircadianGateModulation]]
+[[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
 [[Emergent_Topological_Alignment]]
@@ -32,11 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
 [[Memristive_STDP]]
+[[NetworkFeedbackEquilibrium]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

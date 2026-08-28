@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[Long_Range_Interactions]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]

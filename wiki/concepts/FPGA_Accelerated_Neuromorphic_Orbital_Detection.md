@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[EventDrivenRiskAssessment]]
 [[EventDrivenWeightUpdate]]
 [[Event_Driven_Architecture]]
+[[Event_Driven_Orbital_Object_Pipeline]]
 [[Fixed_Term_Project_Structure]]
 [[GeometricNeuromorphicFusion]]
 [[Intelligence_Emergence]]
@@ -41,11 +42,11 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[ST_SNN]]
+[[Self_Organized_Criticality]]
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[spiking neural network]]
 
 ## Sources

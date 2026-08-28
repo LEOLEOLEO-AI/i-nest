@@ -28,14 +28,18 @@ Auto-extracted concept from raw material compilation.
 [[Advanced_Packaging_Route]]
 [[Advanced_Packaging_for_Space]]
 [[BisectionBandwidthBound]]
+[[BisectionBandwidthMetric]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[SRAM_Compute_Proximity]]
 [[TCC]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

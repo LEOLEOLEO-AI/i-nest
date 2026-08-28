@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BitPrecisionAwareScheduling]]
 [[CST_SynergisticCoordination]]
+[[CST计量仪]]
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[ConnectomicDevelopmentalTrajectory]]
@@ -35,12 +36,14 @@ Auto-extracted concept from raw material compilation.
 [[Deep_Thermalisation]]
 [[Environmental_Capability_Context]]
 [[Free_Energy_Principle_Network]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Interconnect]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

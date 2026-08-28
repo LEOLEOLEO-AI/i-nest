@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Probe]]
+[[Analog_InMemory_Processing]]
 [[AstrocyteInspiredRepair]]
 [[Beyond_Moore_Packaging_Strategy]]
 [[Beyond_Moore_Pathway]]
@@ -37,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[DistinctReentrantPhases]]
 [[ERI_2_0_Framework]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[National_Innovation_Center_Framework]]
 [[National_Mesoscale_Innovation_Center]]
 [[Network_Topology_Design]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

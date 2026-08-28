@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[Decoupled_Priors]]
 [[EndToEndTopologyLearning]]
 [[Independent_AI_Player_Endgame]]
+[[Intelligence_Emergence]]
+[[MagicStateProtocolAwareCompilation]]
 [[MagicStateProtocol]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EventBasedMotionDeblurring]]
 [[EventDrivenMotionDeblurring]]
 [[EventDrivenVisualPipeline]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[GeometricNeuromorphicFusion]]
 [[GradientBasedLearningLocalization]]
 [[ImageToEventConversion]]

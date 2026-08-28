@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[Attention_Residuals]]
 [[BackpropFree_Learning]]
+[[Bias_Origin_Taxonomy]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdaptiveNetworkResilience]]
 [[Cognitive_Relapse_Architecture]]
+[[Complex_System_Theory]]
 [[Contested_Priors_Mechanism]]
 [[CorticalTypeDiversity]]
 [[DTGA]]
@@ -35,8 +36,10 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[ProgrammerGuideAbstraction]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

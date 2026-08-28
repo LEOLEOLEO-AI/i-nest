@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AttractorNeuralNetwork]]
 [[BCM滑动阈值]]
+[[CST_Theory]]
 [[CST_Theory_V27_FINAL]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -51,7 +52,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[智能涌现]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

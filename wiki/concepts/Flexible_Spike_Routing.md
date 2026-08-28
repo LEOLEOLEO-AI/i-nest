@@ -34,10 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_STDP_Rule]]
+[[SDI节点接口规范与化合键定义]]
 [[SDSoW]]
+[[SDSoW_Architecture]]
 [[STDP_Plasticity]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 
 ## Sources

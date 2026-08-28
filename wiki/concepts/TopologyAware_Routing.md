@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[3D_Integrated_Chiplet_Stacking]]
 [[3D_Integration]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
 [[AI_Assisted_Energy_Optimization]]
 [[AI_FullSpectrum_Strategy]]
@@ -30,11 +31,13 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[CrossLayer_SignalRouting]]
 [[EdgeIoTEnergyAwareness]]
 [[Free_Energy_Principle_Network]]
 [[HeterogeneousSiliconNitridePlatform]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LossSpikeMechanism]]
 [[Memristive_Topology]]
@@ -43,9 +46,11 @@ Auto-extracted concept from raw material compilation.
 [[ReEntrantMultifractalization]]
 [[SiliconPhotonicsNetwork]]
 [[Silicon_Photonic_Network]]
+[[Spiking_Neural_Network]]
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

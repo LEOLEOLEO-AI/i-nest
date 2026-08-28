@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalLearningRegime]]
 [[CriticalNormBoundary]]
 [[Criticality]]
+[[Crossover_Physics]]
 [[Decoupling_Mechanism]]
 [[DualDrivenHybridNetwork]]
 [[EpidemicThreshold]]

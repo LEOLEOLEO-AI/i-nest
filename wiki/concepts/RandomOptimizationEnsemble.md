@@ -29,6 +29,8 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[ChiralSymmetryClasses]]
+[[Complex_System_Theory]]
+[[Deep_Thermalisation]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[GlobalDecision_LocalExecution_ControlPlane]]
 [[Heterogeneous_Integration]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[SelfOrganization]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

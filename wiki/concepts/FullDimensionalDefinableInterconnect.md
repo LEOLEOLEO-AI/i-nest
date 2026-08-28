@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SparseTemporalEncoding]]
 [[TCC]]
 [[WaferScale_Chiplet_Interconnect]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]

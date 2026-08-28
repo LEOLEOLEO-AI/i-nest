@@ -35,14 +35,18 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[ChipletTopologyAwareness]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Scheduling]]
+[[Complex_System_Theory]]
 [[ConductingPolymerDendriteMemory]]
 [[ConsciousnessEngineeringLoop]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AIRA_NeuralArchSearch]]
 [[AI_Application_Scenario_Reconstruction]]
+[[AI_Assisted_Energy_Optimization]]
 [[AI_Faculty_Forum_2026]]
 [[Allreduce_Latency_Diagnostic]]
 [[BiasEvaluationMetrics]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[RecursiveSelfReferentialArchitecture]]
 [[RenormalizationGroup_ScalingLaws]]
@@ -51,6 +53,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[soc]]
 [[temporalComplexity]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

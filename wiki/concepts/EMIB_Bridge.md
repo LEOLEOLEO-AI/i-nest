@@ -33,10 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Packaging]]
 [[Chiplet_Topology]]
 [[Chiplet_Topology_Encapsulation]]
+[[Chiplet_Topology_Packaging]]
 [[CoPoS]]
+[[Complex_System_Theory]]
 [[FlagOS_2_0]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
@@ -48,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[advanced packaging]]
 [[chiplet interconnect]]
 [[temporalComplexity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

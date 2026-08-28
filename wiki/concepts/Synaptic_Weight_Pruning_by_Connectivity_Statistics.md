@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BackflowTransformation]]
 [[BigBrainCellularAxis]]
 [[Brain_Connectome]]
+[[CST_Intelligence_Emergence]]
 [[Connectome]]
 [[DataProvenanceIntegrity]]
 [[FrozenRateOperator]]

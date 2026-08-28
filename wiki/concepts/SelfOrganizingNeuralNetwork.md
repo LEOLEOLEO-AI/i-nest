@@ -24,8 +24,10 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[CircadianGateModulation]]
 [[CirculateFiringNeuron]]
+[[Complex_System_Theory]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[Convergent_Evolution_Representation_Space]]
 [[Developmental_Computing]]
 [[DiscreteSTDP]]
 [[Dynamic_Expert_Fusion]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

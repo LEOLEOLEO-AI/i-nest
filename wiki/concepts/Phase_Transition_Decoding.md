@@ -28,13 +28,17 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AgenticServiceOrchestration]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[EvolvingArchitectureDynamics]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[MeasurementInducedRouting]]
 [[Network_Topology_Design]]
+[[STDPDrivenConnectivity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

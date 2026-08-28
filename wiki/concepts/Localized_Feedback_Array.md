@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Stimulus_Responsive_Release]]
 [[Synaptic_Plasticity]]
+[[ThermosensitiveNeuronModel]]
 [[neuromorphic computing]]
 
 ## Sources

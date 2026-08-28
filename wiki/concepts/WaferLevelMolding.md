@@ -38,6 +38,7 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
@@ -53,6 +54,8 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[heterogeneous_integration]]
+[[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

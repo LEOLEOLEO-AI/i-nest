@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[AnomalousSpinTransport]]
 [[Contested_Prior_Resolution]]
 [[Contested_Priors_Mechanism]]
+[[HardwareAware_DesignSpace]]
 [[Memristor_Synapse]]
 [[MesonSpectra]]
 [[Neuromorphic_Computing]]

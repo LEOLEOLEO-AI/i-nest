@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[CirculateFiringNeuron]]
 [[ClosedLoopNeuromorphicControl]]
+[[Complex_System_Theory]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[ExplainableEnergyAI]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Spike_Encoding_of_fMRI]]
 [[Spiking_Neural_Network]]
 [[TCC]]
+[[TCC_Neuromorphic_Integration]]
 [[iNEST]]
 
 ## Sources

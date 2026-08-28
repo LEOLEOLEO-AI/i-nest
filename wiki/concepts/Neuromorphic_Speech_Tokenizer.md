@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[SNN]]
+[[SparseCodingEfficiency]]
 [[Spiking_Neural_Network]]
 [[iNEST]]
 

@@ -1,5 +1,5 @@
 {
-  "last_compile": "2026-08-27",
+  "last_compile": "2026-08-28",
   "processed_files": {
     "imports/00_教材编写规划_两本配套.md": 1785465203.5583253,
     "imports/2026-06-23-comprehensive_diagnosis.md": 1785465203.560326,
@@ -683,9 +683,9 @@
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.28172v1.md": 1787409356.7900648,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-2607.28173v1.md": 1787409356.745416,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-02-index.md": 1785680441.6701455,
-    "20_Processing/20_KnowledgeBase/灵感库/CST×iNEST×iMESO 三位一体研究规划与任务布局报告 v1.0.md": 1787409359.1544354,
+    "20_Processing/20_KnowledgeBase/灵感库/CST×iNEST×iMESO 三位一体研究规划与任务布局报告 v1.0.md": 1787878527.9944122,
     "20_Processing/20_KnowledgeBase/灵感库/SyncBrain对iNEST的价值_神经振荡同步与时空协同智能.md": 1787111060.166859,
-    "20_Processing/20_KnowledgeBase/灵感库/人工智能第一性原理讲座_系统总结与iNEST启迪.md": 1785566733.863844,
+    "20_Processing/20_KnowledgeBase/灵感库/人工智能第一性原理讲座_系统总结与iNEST启迪.md": 1787821939.0957162,
     "20_Processing/external_imports/2025-02-04_秘塔CN结果.md": 1785674423.0928547,
     "20_Processing/external_imports/2025-09-18_Sandia国家实验室.md": 1785465186.3313327,
     "20_Processing/external_imports/2025-12-17_DARPA 3D异构集成_3DHI_战略研究_应用场景_技术突破与创新模式.md": 1785465186.337922,
@@ -925,7 +925,7 @@
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-10-2608.07083.md": 1787409357.244265,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-10-2608.07444.md": 1787409357.2274604,
     "20_Processing/20_KnowledgeBase/arxiv-auto/2026-08-10-index.md": 1787111060.1658583,
-    "20_Processing/20_KnowledgeBase/灵感库/六规则支持的网络自生长动力学.md": 1786525266.314367,
+    "20_Processing/20_KnowledgeBase/灵感库/六规则支持的网络自生长动力学.md": 1787821596.1293113,
     "20_Processing/21_Pending/02_glossary_symbols_formulas_v0_1.md": 1787409356.6302314,
     "20_Processing/21_Pending/100维神经网络背后，可能只藏着一条线和一个圆.md": 1786677030.4896536,
     "20_Processing/21_Pending/1M1T1R脉冲神经元登Nature Electronics：能耗有望降至人脑千分之一.md": 1786798812.724572,
@@ -1107,7 +1107,18 @@
     "00_Inbox/_pipeline_insights/2026-08-26_arXiv_Quantum Reservoir Computing with Physics-Informed Correction.md": 1787697212.8014574,
     "00_Inbox/_pipeline_insights/2026-08-26_arXiv_Spiking Neural Networks for Continuous Control Neuromorphic .md": 1787697109.8651607,
     "00_Inbox/_pipeline_insights/2026-08-26_arXiv_Synchronization induces Bell violations in a model of walkin.md": 1787697088.0170033,
-    "00_Inbox/_pipeline_insights/2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte.md": 1787697115.7367978
+    "00_Inbox/_pipeline_insights/2026-08-26_arXiv_The Emergence of Relevance Through Axiomatic Attention Patte.md": 1787697115.7367978,
+    "00_Inbox/_pipeline_insights/2026-08-27_arXiv_Discovering Adaptive Transmission Programs for Collective In.md": 1787783632.7876463,
+    "00_Inbox/_pipeline_insights/2026-08-27_arXiv_Low-Latency Activation-Regularized Sparse Neural Operators w.md": 1787783554.7708719,
+    "00_Inbox/_pipeline_insights/2026-08-27_arXiv_Multi-Source Complex Network Reconstruction via Wasserstein .md": 1787783605.8568268,
+    "00_Inbox/_pipeline_insights/2026-08-27_arXiv_NoC-Out A Formally-verified Network-on-Chip Library for Rule.md": 1787783479.7296038,
+    "00_Inbox/_pipeline_insights/2026-08-27_arXiv_Sensor Drift Compensation via Olfactory system and Reservoir.md": 1787783554.7568042,
+    "00_Inbox/_pipeline_insights/2026-08-27_arXiv_Small-World Communication Fabrics for Neuromorphic Multicore.md": 1787783565.8882914,
+    "00_Inbox/_pipeline_insights/2026-08-27_arXiv_Thermal Tuning Overhead in Wafer-Scale Optical Interconnects.md": 1787783461.8553257,
+    "20_Processing/21_Pending/2026-07-23_边缘大模型专用训练芯片技术研报：三层协同设计突破存储能效瓶颈.md": 1785836780.7465048,
+    "20_Processing/21_Pending/2026-07-24_2026.6.20 纯软件模拟存算一体拓扑流形架构：在冯·诺依曼约束下逼近类脑流形计算的理论、工程与验证.md": 1785465198.001956,
+    "20_Processing/21_Pending/2026-07-27_对称群约化与耗散结构.md": 1785465198.0172758,
+    "20_Processing/21_Pending/美军通信技术解析.md": 1787756653.9614005
   },
   "concept_graph": {}
 }

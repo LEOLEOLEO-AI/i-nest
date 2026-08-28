@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AutonomousAdaptation]]
 [[Baseline_Draft_Status]]
 [[CST计量仪]]
+[[Causal_Emergence_Integration]]
 [[Closed_Loop_Neuromodulation]]
 [[Complex_System_Theory]]
 [[ContinualLearningOnNeuromorphic]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

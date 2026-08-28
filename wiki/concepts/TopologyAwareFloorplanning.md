@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[BifurcationCandidate]]
 [[Chip_Floorplanning]]
 [[ChiralSymmetryClasses]]
+[[DifferentiableFloorplanning]]
 [[EntanglementAwareRouting]]
 [[FatalityDrivenRewiring]]
 [[HybridConvexOptimization]]

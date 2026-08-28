@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
 [[CoDesigned_SNN]]
+[[CombinedImportanceScoring]]
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[DeeplySupervisedSpiking]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[OnChipSNNTrainingEngine]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]

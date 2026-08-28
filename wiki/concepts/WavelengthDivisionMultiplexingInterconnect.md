@@ -30,13 +30,17 @@ Auto-extracted concept from raw material compilation.
 [[ChipletRoutingFabric]]
 [[ChipletWaferInterconnectScaling]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Chiplet_Interconnect_Scheduling]]
 [[Chiplet_Stacking]]
+[[Complex_System_Theory]]
 [[DirectConnect_Topology]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveAsymmetricSurrogateGradient]]
 [[CirculateFiringNeuron]]
 [[Contested_Priors_Mechanism]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Emergent_Intelligence_Threshold]]
 [[HumanVisionInspiredSNN]]

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicVisualPipeline]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Nonlinear_Gain]]
 [[P_Paradigm]]
 [[PersonalizedSNNTransfer]]
 [[PersonalizedSNN]]

@@ -27,13 +27,16 @@ Auto-extracted concept from raw material compilation.
 [[Architectural_Conditioning]]
 [[BifurcationCandidate]]
 [[Chiplet_Heterogeneous_Integration]]
+[[Complex_System_Theory]]
 [[Computation_Access_Routing]]
+[[Deep_Thermalisation]]
 [[DynamicTopologyMapping]]
 [[Dynamic_Expert_Fusion]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Principle_Network]]
 [[HeterogeneousSiliconNitridePlatform]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[NonHermitian_Delocalization]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[VectorFlowField]]
 [[chiplet interconnect]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

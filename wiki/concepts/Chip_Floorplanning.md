@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Supply_Chain_Increment]]
 [[AI人工智能 卷积神经网络（CNN）_w3cschool]]
 [[ANN动力学]]
@@ -31,7 +32,6 @@ Auto-extracted concept from raw material compilation.
 [[BCM滑动阈值]]
 [[BeamDomainMLFingerprinting]]
 [[CST_Theory]]
-[[CST_Theory_V27_FINAL]]
 [[Chip floorplanning]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
@@ -50,7 +50,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[忆阻器]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspired_Interception_Control]]
 [[BioPlausiblePredictiveCoding]]
 [[Boundary_Criticality]]
+[[BranchingRatioControl]]
 [[BranchingRatio]]
 [[Criticality]]
 [[Network_Topology_Design]]

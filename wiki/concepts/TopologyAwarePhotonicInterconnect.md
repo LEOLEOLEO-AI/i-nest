@@ -24,19 +24,22 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AdaptiveArchitecture]]
 [[AdaptiveFunctionalTopology]]
-[[AdiabaticModeEvolutionCoupler]]
 [[AdiabaticModeEvolution]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Decoupling]]
 [[Communication_Trace_Diagnostics]]
+[[Complex_System_Theory]]
 [[DTGA]]
+[[Electronic_Crystal_Dynamics]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[branch prediction]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

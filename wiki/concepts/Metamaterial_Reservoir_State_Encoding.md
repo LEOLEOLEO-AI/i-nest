@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Course_Based_FPGA_Projects]]
 [[Critical_Exponent_Scaling]]
+[[CrossbarArrayIntegration]]
 [[Heterogeneous_Integration]]
 [[Reservoir_Computing]]
 [[Reservoir_State_Encoding]]

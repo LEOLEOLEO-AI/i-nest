@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Criticality]]
+[[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
 [[FormalLinguisticCompetence]]
 [[FunctionalRelevanceDrivenSelfOrganization]]
 [[HierarchicalBayesianCommunityDetection]]

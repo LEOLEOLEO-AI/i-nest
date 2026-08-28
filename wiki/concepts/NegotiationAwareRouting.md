@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Intelligence_Threshold]]
 [[Field_Compression_for_InNetwork_Inference]]
 [[Free_Energy_Principle_Network]]
+[[FunctionalInterfaceBlocks]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristor_Synapse]]

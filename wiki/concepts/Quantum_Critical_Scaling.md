@@ -21,6 +21,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[ArbitraryWavefunctionConfigurability]]
 [[CST_Equation]]
 [[ChiralTopologicalMatter]]
 [[Complex_System_Theory]]
@@ -28,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Environmental_Capability_Context]]
 [[GraphBasedSemanticRouting]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_STDP]]
 [[Multifractal_Scaling_Behaviour]]
@@ -39,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Synaptic_Plasticity]]
 [[TCC]]
 [[fractal_Scaling]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

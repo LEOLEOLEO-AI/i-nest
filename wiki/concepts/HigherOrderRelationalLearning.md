@@ -33,10 +33,13 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Topology]]
+[[Chiplet_Topology_Coordination]]
 [[Complex_System_Theory]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Connectome]]
 [[Connectome_Reservoir]]
 [[GraphEmbeddedReservoir]]
+[[In_Context_Learning]]
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]

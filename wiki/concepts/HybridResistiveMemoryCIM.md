@@ -44,6 +44,7 @@ Auto-extracted concept from raw material compilation.
 [[P_Paradigm]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SiC_GaN_Power_Integration]]
+[[SparseTemporalEncoding]]
 [[State_Transition_Formalism]]
 [[TopologicalAndersonChernInsulator]]
 

@@ -33,12 +33,14 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[ReSCom_Accelerator]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Reconfigurable_Neuromorphic_Acceleration]]
 [[Reconfigurable_Spiking_Architecture]]
 [[SNN]]
 [[Spiking_Neural_Network]]
+[[SupervisedHardwareRepair]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

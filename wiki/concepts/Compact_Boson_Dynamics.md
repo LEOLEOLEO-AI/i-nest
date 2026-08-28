@@ -27,9 +27,12 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
+[[Complex_System_Theory]]
 [[DailyResearchDigest]]
 [[DistributedIntelligence]]
 [[FermiSurfaceTopologySignature]]
+[[HigherOrderDynamicsPreservation]]
+[[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
@@ -40,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[soc]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

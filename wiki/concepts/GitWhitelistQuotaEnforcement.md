@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BeyondPTSymmetry]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[EventTriggeredDistributedControl]]
+[[HigherOrderConnectivity]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[QuantumChaos]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalObservers]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

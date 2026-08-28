@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Closed_Loop_SNN_Stability_Boundary]]
 [[CrashHotspotForecasting]]
 [[DivergentHigherAreaRanking]]
+[[HardwareAware_DesignSpace]]
 [[Nonlinear_Gain]]
 [[SNN]]
 [[Spiking_Neural_Network]]

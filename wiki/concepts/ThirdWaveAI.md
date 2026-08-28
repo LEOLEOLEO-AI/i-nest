@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[BackpropagationFreeLearning]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[Deep_Network_Architecture_Invariant]]
 [[DifferentiableRasterizationPipeline]]
@@ -33,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[ElectromigrationReliability]]
 [[EulaminateOverrepresentation]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[MultiScaleTemporalProcessing]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_TCC_Chiplet]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[ScalabilityFaultToleranceTradeoff]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SoftwareDefinedSystemOnWafer]]
 [[TCC]]
@@ -54,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

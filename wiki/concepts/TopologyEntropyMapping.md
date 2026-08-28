@@ -28,13 +28,17 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[CircuitTopologyEncoding]]
 [[Cognitive_Relapse_Decoupling]]
+[[Complex_System_Theory]]
 [[CriticalLearningRegime]]
 [[Critical_Region_Extension]]
 [[Emergent_Order_Deep_Belief_Networks]]
+[[ExactWiringRouting]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

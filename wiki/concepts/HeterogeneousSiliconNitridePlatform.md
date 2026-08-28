@@ -25,9 +25,11 @@ Auto-extracted concept from raw material compilation.
 [[3D_Integration]]
 [[Active_Inference_Topology]]
 [[AdiabaticMultimodeBend]]
+[[AndersonTransition]]
 [[BifurcationCandidate]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Complex_System_Theory]]
 [[CorticalTypeDiversity]]
 [[CrossMaterial_Integration]]
 [[DataMovementMinimization]]
@@ -35,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[DistributedTrainingCommunicationPattern]]
 [[EntanglementAwareRouting]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[ReEntrantMultifractalization]]
@@ -44,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[TSVEncapsulationStress]]
 [[TopologyAware_Routing]]
 [[chiplet interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Critical_Exponent_Scaling]]
 [[DendriticReservoirState]]
 [[DualImpactEvaluation]]
+[[DynamicNeuralManifolds]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
 [[Emergent_Reservoir_Topology]]

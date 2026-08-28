@@ -32,6 +32,8 @@ Auto-extracted concept from raw material compilation.
 [[OnChipOpticalTweezers]]
 [[SDI_Bond]]
 [[SDI_STDP_Rule]]
+[[SDI节点接口规范与化合键定义]]
+[[SDSoW]]
 [[STDPDrivenConnectivity]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]

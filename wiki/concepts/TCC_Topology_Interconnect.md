@@ -8,7 +8,7 @@ tags:
 **Last updated**: 2026-07-30
 
 ## Definition
-The interconnection structure and switching mechanism that defines how TCC topology nodes communicate and route data during computation. It determines the scalability and efficiency of data flow in TCC systems, directly impacting performance for workloads like DRBE and inference.
+The interconnection structure and switching mechanism that defines how TCC_Topology nodes communicate and route data during computation. It determines the scalability and efficiency of data flow in TCC systems, directly impacting performance for workloads like DRBE and inference.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CST_Exponential_Form]]
 [[CST_MasterEquation]]
 [[CST_Theory]]
+[[CST计量仪]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Interconnect_Abstraction]]
@@ -58,7 +59,6 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[SuperlinearGain]]
 [[SystemLevelNonlinearity]]
-[[TCC topology]]
 [[TCC]]
 [[TCC_Topology]]
 [[TemperatureSensitivityControl]]

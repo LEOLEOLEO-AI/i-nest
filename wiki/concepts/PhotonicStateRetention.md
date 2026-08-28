@@ -31,12 +31,15 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
+[[EnergyOptimizedManycoreArchitecture]]
 [[Heterogeneous_Integration]]
 [[Independent_AI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[P_Paradigm]]
 [[TCC]]
 [[complex system]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

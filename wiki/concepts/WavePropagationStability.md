@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[DynamicSpikePruning]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Intelligence_Threshold]]
+[[HippocampalNeocorticalIntelligence]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

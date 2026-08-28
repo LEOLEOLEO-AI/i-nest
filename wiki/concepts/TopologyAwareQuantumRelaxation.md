@@ -29,12 +29,16 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveFunctionalTopology]]
 [[AdiabaticModeEvolution]]
 [[AdjointWaveControl]]
+[[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
+[[EvolvingArchitectureDynamics]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

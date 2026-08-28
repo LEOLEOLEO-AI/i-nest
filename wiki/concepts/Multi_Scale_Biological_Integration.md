@@ -30,7 +30,9 @@ Auto-extracted concept from raw material compilation.
 [[AI4PDE｜综述·论文推荐 08｜物理信息神经网络在偏微分方程问题中的应用：全面综述]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_InMemory_Processing]]
+[[Asymptotic_Exact_Solution]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
@@ -38,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Thermopneumatic_Pixel]]
 [[iNEST]]
 [[unified computational model]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

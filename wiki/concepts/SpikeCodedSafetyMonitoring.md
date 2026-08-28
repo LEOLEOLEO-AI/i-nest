@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Forum_Demo_Narrative]]
 [[CirculateFiringNeuron]]
 [[Criticality]]
+[[Criticality_Based_Feature_Extraction]]
 [[DynamicTokenSparsity]]
 [[Dynamic_Expert_Fusion]]
 [[Edge_Neuromorphic_Compute]]

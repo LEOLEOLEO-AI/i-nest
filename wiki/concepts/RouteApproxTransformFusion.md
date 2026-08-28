@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[AdsorptionBiosorptionHybrid]]
 [[BioPlausiblePredictiveCoding]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[FlexibilityThreshold]]
 [[FrozenRateOperator]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
 [[Collective_State_Convergence]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[CrossLayer_SignalRouting]]
 [[Data_Debiasing_Techniques]]
@@ -41,10 +42,12 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
+[[Port_Hamiltonian_System]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SelfOrganization]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[Cognitive_Relapse_Architecture]]
 [[Cognitive_Relapse_Decoupling]]
 [[CorticalTypeDiversity]]
+[[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
 [[FunctionalRelevanceDrivenSelfOrganization]]

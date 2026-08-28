@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AthermalDynamics]]
 [[BrainInspiredArchitecture]]
 [[EventDrivenTemplateUpdate]]
+[[NestedRepresentation]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[branch prediction]]

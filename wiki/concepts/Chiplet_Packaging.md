@@ -32,9 +32,12 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[Chiplet_Topology]]
 [[CoPoS]]
+[[Complex_System_Theory]]
 [[ComputeRelocationOverhead]]
 [[EMIB_Bridge]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
+[[InterChipletPHYModeling]]
 [[Memory_Wall]]
 [[Network_Topology_Design]]
 [[Photonic_Chiplet_Interconnect]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Wafer]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

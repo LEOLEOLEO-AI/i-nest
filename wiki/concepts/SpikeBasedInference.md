@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[SDI_Bond]]
 [[SDI_iNEST_Interconnect]]
+[[STDP_Plasticity]]
 [[SpikeEncoding]]
 [[Spiking_Neural_Network]]
 [[ThresholdBasedSpikeEncoding]]

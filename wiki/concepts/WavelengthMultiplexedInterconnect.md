@@ -22,13 +22,16 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[Analog_Computation]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Integration_Route]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[Cryogenic_Syndrome_Compression]]
 [[Free_Energy_Principle_Network]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Memory_Wall]]
 [[Memristive_STDP]]
 [[Network_Topology_Design]]
@@ -36,7 +39,6 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[NoC_Chiplet_Wafer_Stack]]
 [[Residual_Connection]]
-[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[SDSoW]]
@@ -44,9 +46,11 @@ Auto-extracted concept from raw material compilation.
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[chiplet interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

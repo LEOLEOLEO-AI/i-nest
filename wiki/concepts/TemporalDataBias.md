@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[CoOptimizedMappingScheduling]]
 [[Contested_Prior_Resolution]]
 [[Continuous_Control_Spiking_Stability]]
+[[ConventionalAndSpikingDualMode]]
 [[Criticality]]
 [[DiscreteContinuous_Unification]]
 [[SNN]]

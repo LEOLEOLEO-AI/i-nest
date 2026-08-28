@@ -41,6 +41,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[NeuromorphicNetworkFabric]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
+[[PathIntegration]]
 [[SNN]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]

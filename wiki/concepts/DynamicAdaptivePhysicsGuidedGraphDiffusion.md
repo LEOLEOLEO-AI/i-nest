@@ -34,6 +34,7 @@ Auto-extracted concept from raw material compilation.
 [[Continual_Learning_Topology]]
 [[ContinuousTraitAxelrodModel]]
 [[CorticalTypeDiversity]]
+[[Coupling_Strength_Encoding]]
 [[DTGA]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]

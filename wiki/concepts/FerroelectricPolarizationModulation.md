@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[ControlTheoreticTopology]]
 [[Critical_Region_Extension]]
 [[CrossbarFabricTopology]]
+[[DTGA]]
 [[DeviceConductanceTuning]]
 [[Ferroelectric_Devices]]
 [[Network_Topology_Design]]

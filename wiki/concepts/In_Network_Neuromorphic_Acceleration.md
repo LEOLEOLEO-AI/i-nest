@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SpiNNaker2_Chip]]
 [[Spiking_Neural_Network]]
 [[SynapticReinforcementConsolidation]]
+[[SynapticRewiringDynamics]]
 [[iNEST]]
 
 ## Sources

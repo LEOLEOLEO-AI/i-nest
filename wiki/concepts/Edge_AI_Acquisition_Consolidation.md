@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[AnisotropicTensileStrength]]
 [[ArbitraryWavefunctionConfigurability]]
 [[BackflowTransformation]]
+[[BigBrainCellularAxis]]
 [[BrainBodyResonance]]
 [[CST_Equation]]
 [[CST_Intelligence_Emergence]]

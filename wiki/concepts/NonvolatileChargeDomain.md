@@ -27,11 +27,11 @@ Auto-extracted concept from raw material compilation.
 [[BioPlausiblePredictiveCoding]]
 [[BurstGatedRouting]]
 [[CirculateFiringNeuron]]
+[[Complex_System_Theory]]
 [[Continual_Learning_Modularity]]
 [[Continuous_Spatiotemporal_State_Propagation]]
 [[DisorderedNetworkInterconnect]]
 [[Dynamic_Expert_Fusion]]
-[[EdgeOfChaosComputation]]
 [[EdgeOfChaos]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenRiskAssessment]]
@@ -40,11 +40,13 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
 [[Model_Routing_Protocol]]
+[[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

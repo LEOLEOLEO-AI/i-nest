@@ -38,6 +38,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Heterogeneous_Integration]]
 [[Intelligence_Emergence]]
 [[Milinkovic B (2024)：复杂神经系统涌现动力学结构]]
+[[NCL神经计算定律详解]]
 [[Network_Topology_Design]]
 [[STDP_Plasticity]]
 [[SelfHealing_Interconnect]]
@@ -48,5 +49,4 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[五层性能评估框架]]
 [[无反向传播的 4D 连续蚁群神经网络拓扑搜索]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]

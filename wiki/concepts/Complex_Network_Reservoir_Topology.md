@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_System_Theory]]
 [[DARPA_ProjectManager_Model]]
 [[FirstPrinciples_AI]]
+[[MasterEquationRG]]
 [[MeanFieldSpinGlass]]
 [[Memory_Technology_Coexistence]]
 [[MultiTimescaleSeparation]]

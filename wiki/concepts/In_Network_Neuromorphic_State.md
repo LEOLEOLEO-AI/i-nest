@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Ferroelectric_Devices]]
 [[In_Network_Neuromorphic]]
 [[Memristive_STDP]]
+[[MetaFAIR_ArchitectureDiscovery]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[NonEquilibriumPhase]]

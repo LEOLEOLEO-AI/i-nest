@@ -32,6 +32,7 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Reservoir_Computing]]
 [[TCC]]
 [[Wafer_Scale_Integration]]
+[[Wafer_Scale_Neuromorphic]]
 [[_Nature大子刊_3D集成技术如何打破神经形态计算的_互连墙_]]
 [[_Nature大子刊_中科院院士发文_算力暴涨100万倍_忆阻器_变废为宝_利用噪声搞定量子化学]]
 [[_Nature大子刊_脑机接口重大突破_清华吴华强团队打造_忆阻器神经形态解码器_意念控制无人机]]

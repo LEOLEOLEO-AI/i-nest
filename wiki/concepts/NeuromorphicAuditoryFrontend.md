@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 [[AINext_Initiative]]
 [[Avoided_Criticality]]
 [[Bidirectional_Temporal_Enhancement]]
+[[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
 [[CirculateFiringNeuron]]
 [[Criticality]]

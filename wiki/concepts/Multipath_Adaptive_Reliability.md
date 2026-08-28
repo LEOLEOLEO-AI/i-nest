@@ -25,12 +25,15 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[Ant_Swarm_Functional_Control]]
 [[BurstGatedRouting]]
+[[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[DelayTolerantNetworkUAV]]
+[[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
 [[Network_Topology_Design]]
+[[OpenLearningEcosystem]]
 [[P_Paradigm]]
 [[PacketRoutingForFPGAs]]
 [[RedundancyControlledStochasticRouting]]
@@ -40,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[StochasticVehicleRouting]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

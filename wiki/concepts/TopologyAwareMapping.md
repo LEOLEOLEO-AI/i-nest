@@ -42,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[Knowledge_Graph_Navigation]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[RealTimeClassification]]
 [[RecursiveSelfReferentialArchitecture]]
 [[Spiking_Neural_Network]]
 [[TCC]]

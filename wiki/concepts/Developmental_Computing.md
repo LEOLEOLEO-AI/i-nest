@@ -25,8 +25,10 @@ Auto-extracted concept from raw material compilation.
 [[ArbitraryWavefunctionConfigurability]]
 [[Attention_Residuals]]
 [[AutonomousAdaptation]]
+[[CST计量仪]]
 [[CellEmergence]]
 [[Complex_Network_Brain_Inspired_Computing]]
+[[Complex_System_Theory]]
 [[Control_Field_Framework]]
 [[Crossbar_Programming]]
 [[Deep_Network_Architecture_Invariant]]
@@ -47,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

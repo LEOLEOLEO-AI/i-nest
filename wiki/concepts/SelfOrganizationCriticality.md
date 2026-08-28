@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalFixedPoint]]
 [[Critical_Exponent_Scaling]]
 [[Criticality]]
+[[Criticality_Threshold]]
 [[CrystalPalace_Program]]
 [[Crystallized_Neural_Manifolds]]
 [[Emergent_Intelligence_Threshold]]

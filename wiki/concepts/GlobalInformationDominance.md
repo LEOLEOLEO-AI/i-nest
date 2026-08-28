@@ -24,9 +24,11 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Analog_Computation]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[Bioavailability_Enhancement]]
 [[CirculateFiringNeuron]]
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ERI_2_0_Strategic_Framework]]
 [[Emergent_Intelligence_Threshold]]
@@ -47,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

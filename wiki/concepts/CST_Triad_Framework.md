@@ -30,8 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[ANN动力学]]
 [[AnteHoc_Explainability]]
 [[BCM滑动阈值]]
+[[CST_SynergisticCoordination]]
 [[CST_Theory]]
-[[CST_Theory_V27_FINAL]]
 [[CST_Triad_Integration]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Chiplet_Heterogeneous_Integration]]
@@ -51,7 +51,6 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

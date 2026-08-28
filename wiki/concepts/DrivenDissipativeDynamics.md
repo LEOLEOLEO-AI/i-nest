@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[Memristor_Synapse]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[National_Planning_Driven_Research_Alignment]]
+[[Nature Communications_生物神经网络中突触多样性如何让人工神经网络更强大？]]
 [[Nature综述：打破算力瓶颈？物理神经网络训练或将重塑AI未来]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

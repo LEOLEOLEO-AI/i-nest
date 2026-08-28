@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[ContinualLearningOnNeuromorphic]]
 [[Continual_Learning_Modularity]]
 [[DelayTolerantNetworkUAV]]
+[[DisorderedNetworkInterconnect]]
 [[Interconnect_Routing]]
 [[Neuromorphic_Computing]]
 [[iNEST]]

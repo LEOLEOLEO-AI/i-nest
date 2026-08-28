@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[AtomicVaporNonlinearity]]
 [[CST_Exponential_Gain]]
 [[Complex_System_Theory]]
+[[Crystallized_Neural_Manifolds]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 

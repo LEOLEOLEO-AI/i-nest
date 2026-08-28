@@ -22,12 +22,14 @@ Auto-extracted concept from raw material compilation.
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
 [[AdjointWaveControl]]
+[[ArbitraryWavefunctionConfigurability]]
 [[BifurcationCandidate]]
 [[CLINKAsCarrierPrimitive]]
 [[CST_Spatiotemporal_Complexity]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Decoupling]]
+[[Complex_System_Theory]]
 [[Computation_Access_Routing]]
 [[Emergent_Topology_Adaptation]]
 [[Heterogeneous_Integration]]
@@ -37,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[NonHermitian_Delocalization]]
 [[ReEntrantMultifractalization]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

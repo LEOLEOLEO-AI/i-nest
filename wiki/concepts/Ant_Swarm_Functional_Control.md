@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CriticalityInNetworkComputing]]
 [[Criticality]]
 [[Dynamic_Expert_Fusion]]
+[[ExactlyFlatTopologicalBands]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]

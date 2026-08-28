@@ -19,6 +19,7 @@ Auto-extracted concept from raw material compilation.
 
 ## Related Work
 
+[[2_5D_PIM_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AI_FullSpectrum_Strategy]]
@@ -27,7 +28,6 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Bipartite_Interconnect]]
-[[Bipartite_Interconnect_Fabric]]
 [[CXL_Deployment_Transition]]
 [[ComputeRelocationOverhead]]
 [[Dynamic_Expert_Fusion]]

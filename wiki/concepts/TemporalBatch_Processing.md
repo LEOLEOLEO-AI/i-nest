@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[Avoided_Criticality]]
+[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[Contested_Prior_Resolution]]
 [[Criticality]]

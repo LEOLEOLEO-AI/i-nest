@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[CST计量仪]]
 [[CognitiveSupportTopology]]
 [[Complex_System_Theory]]
+[[Concepts-Theory — 全景导航 (Map of Content)]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[ERI_2_0_Strategic_Framework]]
@@ -48,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

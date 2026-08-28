@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredInterceptionTask]]
 [[BranchingRatio]]
 [[BulletTrainScheduling]]
+[[CoOptimizedMappingScheduling]]
 [[Criticality]]
 [[SNN]]
 [[Self_Organized_Criticality]]

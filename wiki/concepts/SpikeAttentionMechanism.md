@@ -22,7 +22,8 @@ Auto-extracted concept from raw material compilation.
 
 [[02 复杂性：什么样的系统是复杂系统？ - 得到APP]]
 [[AdaptiveLocalLearning]]
-[[DiscreteSTDPLearning]]
+[[AsynchronousEventDrivenComputation]]
+[[Complex_System_Theory]]
 [[DiscreteSTDP]]
 [[ElasticInferenceScheduling]]
 [[ExactFiringRateModel]]

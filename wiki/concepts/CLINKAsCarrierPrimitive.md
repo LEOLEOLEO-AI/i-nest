@@ -23,15 +23,16 @@ Auto-extracted concept from raw material compilation.
 [[ASIC_Dualism]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
+[[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[DynamicServiceComposition]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[NCCLCollectiveCommunicationMapping]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
 [[NoC_SDI]]
-[[NoC_SDI_Integration]]
 [[SDI_Bond]]
 [[SDI_NPU_NoC_Integration]]
 [[SDI_ProgrammableInterconnect]]
@@ -41,6 +42,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
+[[ScalabilityFaultToleranceTradeoff]]
 [[SoftwareDefinedSystemOnWafer]]
 [[SoftwareDefined_NoC_Routing]]
 [[Software_Defined_Interconnect]]
@@ -48,6 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologyProgramming]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

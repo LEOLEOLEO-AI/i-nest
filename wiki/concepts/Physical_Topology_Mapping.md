@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[CongestionAwareNoCPlacement]]
 [[DynamicServiceComposition]]
 [[EulaminateOverrepresentation]]
+[[GeneralIntelligenceSubstrate]]
 [[Heterogeneous_Integration]]
 [[Memristor_Interconnect]]
 [[Memristor_Synapse]]

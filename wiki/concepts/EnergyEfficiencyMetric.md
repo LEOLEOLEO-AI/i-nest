@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[Complex_Network_Brain_Inspired_Computing]]
 [[Complex_System_Theory]]
 [[Criticality]]
+[[Criticality_Threshold]]
 [[CrossPopulationCen]]
 [[DendriticTaskPartitioning]]
 [[Dynamic_Expert_Fusion]]

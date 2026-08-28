@@ -25,12 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[ASIC_Dualism]]
 [[Agile_Resilient_Defense_Ecosystem]]
+[[Closed_Loop_Neuromodulation]]
+[[Complex_System_Theory]]
 [[FPGA_Accelerated_Neuromorphic_Orbital_Detection]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[NeuromorphicTransformerPipeline]]
 [[Neuromorphic_Computing]]
 [[OpenSource_Neuromorphic_Framework]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

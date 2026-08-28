@@ -32,13 +32,16 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[Agent_Workflow_Automation]]
 [[Asymptotic_Exact_Solution]]
+[[CST计量仪]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[Baseline_Draft_Status]]
+[[Complex_System_Theory]]
 [[EventDrivenRiskAssessment]]
 [[EventDrivenTracking]]
 [[In_Package_Neuromorphic_Integration]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Integration]]
 [[P_Paradigm]]
 [[Spiking_Neural_Network]]
+[[TCC_SpikingIntegration]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

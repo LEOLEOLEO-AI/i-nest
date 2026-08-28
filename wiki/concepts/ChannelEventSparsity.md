@@ -36,10 +36,12 @@ Auto-extracted concept from raw material compilation.
 [[NeuromorphicSpikingTopology]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[OnChipWeightUpdate]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SDI_Bond]]
 [[SDI_STDP]]
 [[SDI_STDP_Rule]]
+[[SDI节点接口规范与化合键定义]]
 [[STDP_Learning]]
 [[STDP_Plasticity]]
 [[STDP_iNEST]]
@@ -49,9 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[Wafer_Scale_Integration]]
 [[Wafer_Scale_Interconnect]]
-[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

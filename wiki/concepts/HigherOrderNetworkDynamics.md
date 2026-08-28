@@ -33,6 +33,8 @@ Auto-extracted concept from raw material compilation.
 [[CompactSequenceArchitectureDiscovery]]
 [[ContinuousGameOfLife]]
 [[CriticalityInNetworkComputing]]
+[[Criticality]]
+[[ExactlyFlatTopologicalBands]]
 [[InNetworkComputing]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]

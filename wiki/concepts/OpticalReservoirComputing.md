@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[NonlinearDynamicalSampling]]
 [[Nonlinear_Gain]]
 [[Photonic_Reservoir_Computing]]
+[[PhysicalSubstrateReservoir]]
 [[Reservoir_Computing]]
 [[ThermalNoiseHarnessing]]
 [[iNEST]]

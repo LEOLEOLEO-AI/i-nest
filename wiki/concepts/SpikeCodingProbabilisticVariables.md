@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[STDP_iNEST]]
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
+[[Wafer_Scale_Interconnect_Memristor]]
 [[iNEST]]
 [[neuromorphic computing]]
 [[spiking neural network]]

@@ -24,17 +24,21 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[Attention_Residuals]]
 [[BackpropagationFreeLearning]]
+[[Complex_System_Theory]]
 [[ComputationEfficientDeepLearning]]
 [[DARPA_ProjectManager_Model]]
 [[Deep_Network_Architecture_Invariant]]
 [[DelayTolerantNetworkUAV]]
+[[DynamicServiceComposition]]
 [[EfficientDeepLearning]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
 [[TCC]]
 [[iNEST]]
 [[intellectual base]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

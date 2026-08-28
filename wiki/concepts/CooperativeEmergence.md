@@ -27,14 +27,17 @@ Auto-extracted concept from raw material compilation.
 [[CognitiveSupportTopology]]
 [[CollectiveDynamics]]
 [[Collective_State_Convergence]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[CrossLayer_SignalRouting]]
 [[Data_Debiasing_Techniques]]
+[[FunctionalRelevanceSelfOrganization]]
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

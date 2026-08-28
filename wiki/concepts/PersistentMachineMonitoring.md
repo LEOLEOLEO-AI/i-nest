@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveMatterSubstrate]]
 [[Annealing_Based_Decoder]]
 [[AsymmetricStochasticInteractions]]
+[[AttentionLikeHebbianMechanism]]
 [[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
@@ -42,7 +43,6 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[iNEST]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

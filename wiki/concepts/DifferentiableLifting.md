@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveTimeStepTraining]]
 [[AnisotropicGaussianPrimitives]]
 [[BioInspiredLearningRule]]
+[[Biomanufacturing_Control_Loop]]
 [[ChannelEventSparsity]]
 [[Cognitive_Relapse_Architecture]]
 [[ComplexEcosystemDynamics]]
@@ -42,6 +43,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[NestedRepresentation]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[Phase_Transition_Tail_Transition]]
 [[Reservoir_Computing]]
 

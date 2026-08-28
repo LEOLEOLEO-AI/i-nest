@@ -30,14 +30,17 @@ Auto-extracted concept from raw material compilation.
 [[BoundaryObject_Abstraction]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Wafer_Topology]]
+[[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[Deep_Network_Architecture_Invariant]]
 [[Dynamic_Expert_Fusion]]
 [[ElectromigrationReliability]]
 [[EnergyOptimizedManycoreArchitecture]]
 [[EulaminateOverrepresentation]]
+[[FlagScale_Training_Inference]]
 [[Heterogeneous_Integration]]
 [[Independent_EdgeAI_Player_Endgame]]
+[[Intelligence_Emergence]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
 [[Network_on_Chip]]
@@ -46,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

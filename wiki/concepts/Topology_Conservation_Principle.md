@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Security_Architecture]]
+[[Complex_System_Theory]]
 [[CriticalInertiaEstimation]]
 [[DTGA]]
 [[Defense_Industrial_Base_Reshaping]]
@@ -33,10 +34,13 @@ Auto-extracted concept from raw material compilation.
 [[Energy_Efficient_Control]]
 [[FPGA_Neuromorphic_Architectures]]
 [[Free_Energy_Topology_Mapping]]
+[[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

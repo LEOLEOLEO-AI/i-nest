@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[CrashHotspotForecasting]]
 [[Crystallized_Neural_Manifolds]]
 [[DivergentHigherAreaRanking]]
+[[Dynamics_Matching]]
 [[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[reservoir computing]]

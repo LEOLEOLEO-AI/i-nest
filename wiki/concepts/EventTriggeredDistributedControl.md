@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[Bidirectional_Temporal_Enhancement]]
 [[BurstTemporalPlasticity]]
+[[Complex_System_Theory]]
+[[CriticalWeightNormBoundary]]
 [[CrossDomain_Synthesis]]
 [[Dynamic_Expert_Fusion]]
 [[EdgeIoTEnergyAwareness]]
@@ -49,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalObservers]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

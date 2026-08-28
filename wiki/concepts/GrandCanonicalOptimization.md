@@ -29,15 +29,18 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CircuitTopologyEncoding]]
+[[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[Dynamic_Expert_Fusion]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[ExactWiringRouting]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[JointFlightRoutingOptimization]]
 [[LEO_Satellite_Routing_RL]]
 [[Memristive_Topology]]
+[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Neural_Field_World_Model]]
 [[RecursiveSelfReferentialArchitecture]]
@@ -45,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

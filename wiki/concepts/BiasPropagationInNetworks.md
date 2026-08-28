@@ -27,13 +27,17 @@ Auto-extracted concept from raw material compilation.
 [[Beyond_Moore_Packaging_Strategy]]
 [[BitPrecisionAwareScheduling]]
 [[CognitiveSupportTopology]]
+[[CollectiveConsensus]]
 [[CollectiveDynamics]]
 [[Collective_State_Convergence]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

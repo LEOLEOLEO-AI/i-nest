@@ -33,11 +33,16 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Stacking]]
 [[CoPackagedOptics]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_System_Theory]]
 [[Compute_In_Memory_Neuromorphic]]
 [[Heterogeneous_Integration]]
+[[In_Memory_Computing]]
+[[In_Network_Neuromorphic_Compute]]
+[[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]
 [[TCC]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

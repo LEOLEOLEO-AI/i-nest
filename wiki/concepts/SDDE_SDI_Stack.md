@@ -21,9 +21,11 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[Complex_System_Theory]]
 [[Intelligence_Emergence]]
 [[NeuromorphicObserverArchitecture]]
 [[Neuromorphic_Computing]]
+[[Neuromorphic_NetworkCoDesign]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
 [[SDI_iNEST_Encapsulation]]
@@ -35,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[emergent computation]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

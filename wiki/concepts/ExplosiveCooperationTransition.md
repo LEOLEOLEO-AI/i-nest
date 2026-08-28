@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Weight_Storage]]
 [[ApproximateMacroscopicDynamics]]
 [[Beyond_Moore_Packaging_Strategy]]
+[[CST计量仪]]
 [[CausalEmergenceCondition]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
@@ -40,6 +41,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[complex system]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

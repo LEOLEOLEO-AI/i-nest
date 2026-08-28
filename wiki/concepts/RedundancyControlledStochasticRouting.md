@@ -25,13 +25,16 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[BurstGatedRouting]]
+[[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[Decoupled_Priors]]
 [[DelayTolerantNetworkUAV]]
 [[Dynamic_Expert_Fusion]]
+[[Intelligence_Emergence]]
 [[Intelligent_Power_Management]]
 [[Interconnect_Routing]]
 [[LLM_Reward_Design]]
+[[Multipath_Adaptive_Reliability]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
@@ -46,6 +49,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

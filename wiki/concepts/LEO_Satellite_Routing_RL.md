@@ -32,15 +32,19 @@ Auto-extracted concept from raw material compilation.
 [[AdjointWaveControl]]
 [[AdsorptionBiosorptionHybrid]]
 [[CircuitTopologyEncoding]]
+[[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[DelayPropagationDynamics]]
 [[Emergent_Order_Deep_Belief_Networks]]
 [[ExactWiringRouting]]
 [[GrandCanonicalOptimization]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MoE_Routing]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

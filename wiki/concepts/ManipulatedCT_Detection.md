@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[ImpactFallDetection]]
 [[In_Network_Neuromorphic]]
 [[In_Package_Neuromorphic_Integration]]
+[[MetricComputationAuthenticity]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[TCC]]

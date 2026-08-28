@@ -25,6 +25,7 @@ Auto-extracted concept from raw material compilation.
 [[3DHI_Integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AI_Forum_Demo_Narrative]]
@@ -32,15 +33,18 @@ Auto-extracted concept from raw material compilation.
 [[BrainBodyResonance]]
 [[Chiplet_Heterogeneous_Integration]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_System_Theory]]
 [[EnsembleSparsity]]
 [[Heterogeneous_Integration]]
 [[In_Package_Neuromorphic_Integration]]
+[[Intelligence_Emergence]]
 [[MetaFAIR_ArchitectureDiscovery]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
 [[TCC]]
 [[iNEST]]
 [[intellectual base]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

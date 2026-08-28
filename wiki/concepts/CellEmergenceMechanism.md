@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[Accessibility_Plasticity]]
 [[AutonomousAdaptation]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[Control_Field_Framework]]
 [[Crossbar_Programming]]
 [[DevelopmentalNeuromorphicAdaptation]]
@@ -39,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Computing]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Bridge]]
+[[SDI_iNEST_Encapsulation]]
 [[SDSoW]]
 [[SDSoW_Architecture]]
 [[Synaptic_Plasticity]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalAndersonChernInsulator]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

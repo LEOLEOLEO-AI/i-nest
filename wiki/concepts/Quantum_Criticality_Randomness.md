@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Avoided_Criticality]]
 [[BioInspiredInterceptionTask]]
 [[BioPlausibleDisturbanceObserver]]
+[[Biologically_Plausible_Learning_Rules]]
 [[Criticality]]
 [[Intelligence_Emergence]]
 [[Neuromorphic_Computing]]

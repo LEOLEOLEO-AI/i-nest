@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Expert_Review_Arbitration]]
 [[Heterogeneous_Integration]]
 [[In_Network_Neuromorphic]]
+[[In_Network_Neuromorphic_Compute]]
 [[Intelligence_Emergence]]
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]

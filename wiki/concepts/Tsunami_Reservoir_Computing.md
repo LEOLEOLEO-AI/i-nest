@@ -33,6 +33,7 @@ Auto-extracted concept from raw material compilation.
 [[ReadoutTraining]]
 [[ReservoirFrequencyEncoding]]
 [[Reservoir_Computing]]
+[[SDDE_Attractor_Emergence]]
 [[complex system]]
 [[iNEST]]
 

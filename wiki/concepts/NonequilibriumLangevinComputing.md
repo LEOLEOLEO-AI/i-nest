@@ -45,6 +45,7 @@ Auto-extracted concept from raw material compilation.
 [[Reservoir_Computing]]
 [[SDI_Bond]]
 [[SDI_TCC_Chiplet]]
+[[SDSoW]]
 [[SelfOrganizedOscillatoryLearning]]
 [[SuperparamagneticSwitchingRate]]
 [[TCC]]

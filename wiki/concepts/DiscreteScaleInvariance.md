@@ -30,8 +30,10 @@ Auto-extracted concept from raw material compilation.
 [[Bosonic_SPT_Phases]]
 [[CircadianGateModulation]]
 [[Comparative_Formulation_Analysis]]
+[[DataDrivenMaterialDesign]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
 [[Reservoir_Computing]]
 [[TCC]]
 

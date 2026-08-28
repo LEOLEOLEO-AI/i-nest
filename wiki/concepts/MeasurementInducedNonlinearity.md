@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[Emergent_Reservoir_Topology]]
 [[GroupInteractionThreshold]]
 [[Intelligence_Emergence]]
+[[MagneticMetamaterialReservoir]]
 [[Memristor_Synapse]]
 [[Network_Topology_Design]]
 [[NeuralNetworkSpectralAnalysis]]

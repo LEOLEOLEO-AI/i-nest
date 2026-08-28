@@ -28,6 +28,8 @@ Auto-extracted concept from raw material compilation.
 [[ComplexValuedSNN]]
 [[Contested_Prior_Resolution]]
 [[CurrentInjectionSNN]]
+[[Meta_Residual_Architecture]]
+[[Nonlinear_Gain]]
 [[SNN]]
 [[SpikingMOT]]
 [[Spiking_Neural_Network]]

@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[03 涌现：整体的能力不能还原回个体？ - 得到APP]]
 [[12_三原理协同_FEP_最小作用量_STDP]]
 [[AI-ML — 全景导航 (Map of Content)]]
+[[AIRA_NeuralArchSearch]]
 [[AI_Autonomous_Control]]
 [[AI_Orchestrator]]
 [[AI_Supply_Chain_Increment]]
@@ -52,7 +53,6 @@ Auto-extracted concept from raw material compilation.
 [[synaptic plasticity]]
 [[temporalComplexity]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 [[神经网络]]
 
 ## Sources

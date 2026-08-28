@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[CombinatorialOptimizationReservoirMapping]]
 [[Combinatorial_Optimization_Readout]]
 [[Connectome]]
+[[Connectome_Reservoir]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[iNEST]]

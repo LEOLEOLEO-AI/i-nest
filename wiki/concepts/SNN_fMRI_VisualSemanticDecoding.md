@@ -22,6 +22,7 @@ Auto-extracted concept from raw material compilation.
 
 [[AINext_Initiative]]
 [[ActivityAvalanche]]
+[[BigBrainCellularAxis]]
 [[Criticality]]
 [[EEG_Criticality]]
 [[Hardware_Accelerated_SNN]]

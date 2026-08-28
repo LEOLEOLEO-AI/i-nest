@@ -35,8 +35,11 @@ Auto-extracted concept from raw material compilation.
 [[BioInspiredLearningRule]]
 [[BrainScaleTopologyExploitation]]
 [[ChannelEventSparsity]]
+[[Complex_System_Theory]]
 [[DTGA]]
+[[DendriticReservoirState]]
 [[Free_Energy_Topology_Mapping]]
+[[Intelligence_Emergence]]
 [[MetaHardwareAbstraction]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
@@ -44,6 +47,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Rule]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -8,7 +8,7 @@ tags:
 **Last updated**: 2026-07-30
 
 ## Definition
-A unified interconnect architecture combining SDI (Smart Data Interface), TCC topology, and iNEST neuromorphic principles for high-bandwidth, low-latency data movement. Bridges traditional AI accelerators with neuromorphic computing, enabling hybrid workloads and reducing data movement bottlenecks.
+A unified interconnect architecture combining SDI (Smart Data Interface), TCC_Topology, and iNEST neuromorphic principles for high-bandwidth, low-latency data movement. Bridges traditional AI accelerators with neuromorphic computing, enabling hybrid workloads and reducing data movement bottlenecks.
 
 ## Context
 Auto-extracted concept from raw material compilation.
@@ -62,8 +62,9 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[Synaptic_Plasticity]]
 [[SystemLevelNonlinearity]]
-[[TCC topology]]
 [[TCC]]
+[[TCC_Topology]]
+[[TCC_iNEST_Interconnect]]
 [[TemporalComplexity]]
 [[chiplet interconnect]]
 [[iNEST]]

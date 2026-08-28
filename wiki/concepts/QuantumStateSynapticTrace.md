@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[BrainInspiredArchitecture]]
 [[BurstTemporalPlasticity]]
+[[Complex_System_Theory]]
 [[DrivenDissipativeDynamics]]
 [[EventDrivenAttentionMechanism]]
 [[EventDrivenPlasticity]]
@@ -34,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Spiking_Neural_Network]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[Temporal_Computing_Paradigm]]
 [[iNEST]]
 
 ## Sources

@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Bidirectional_Temporal_Enhancement]]
 [[BioInspiredInterceptionTask]]
 [[BulletTrainScheduling]]
+[[BurstSuppressionMechanism]]
 [[BurstSuppression]]
 [[Criticality]]
 [[Neuromorphic_Computing]]

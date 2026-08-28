@@ -32,11 +32,13 @@ Auto-extracted concept from raw material compilation.
 [[AI_Faculty_Forum_2026]]
 [[AI_Orchestrator]]
 [[Agent_Workflow_Automation]]
+[[Analog_InMemory_Processing]]
 [[AnteHoc_Explainability]]
 [[BifurcationCandidate]]
 [[CST_Spatiotemporal_Complexity]]
 [[CompactBosonDuality]]
 [[Complex_System_Theory]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[SDI_Bond]]
 [[SDI节点接口规范与化合键定义]]
@@ -44,6 +46,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[complex system]]
 [[soc]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

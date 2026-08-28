@@ -20,17 +20,20 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[00_项目-涌现动力学如何用来分析复杂系统？-专利-技术四线映射表]]
+[[CavityMethodAnalysis]]
 [[ChipletWaferInterconnectTopology]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Heterogeneous_Stacking]]
 [[Chiplet_Interconnect_Topology]]
 [[Chiplet_Stacking]]
 [[CommunicationAwareComputeRelocation]]
+[[Complex_System_Theory]]
 [[CongestionAwareNoCPlacement]]
 [[FatalityDrivenRewiring]]
 [[Free_Energy_Principle_Network]]
 [[GenerativeTopologyModels]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Microgrid_Optimization]]
 [[Network_Topology_Design]]
@@ -48,6 +51,7 @@ Auto-extracted concept from raw material compilation.
 [[VectorFlowField]]
 [[chiplet interconnect]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

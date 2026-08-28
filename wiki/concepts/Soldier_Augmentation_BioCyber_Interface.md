@@ -24,6 +24,7 @@ Auto-extracted concept from raw material compilation.
 [[CirculateFiringNeuron]]
 [[CoPackagedOptics]]
 [[CommunicationHeterogeneity]]
+[[Complex_System_Theory]]
 [[Cryogenic_Syndrome_Compression]]
 [[Emergent_Intelligence_Threshold]]
 [[Free_Energy_Principle_Network]]
@@ -44,12 +45,13 @@ Auto-extracted concept from raw material compilation.
 [[RecursiveSelfReferentialArchitecture]]
 [[ReliabilityOverheadTradeoff]]
 [[Residual_Connection]]
-[[Residual_Connection_Removal]]
 [[SDI_Bond]]
 [[SDI_TCC_iNEST_Interconnect]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[iNEST]]
 [[iNEST_Interconnect]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

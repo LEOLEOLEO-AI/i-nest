@@ -31,6 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Baseline_Draft_Status]]
 [[BurstGatedRouting]]
 [[CellEmergence]]
+[[Complex_System_Theory]]
 [[DisorderedNetworkInterconnect]]
 [[EdgeIoTEnergyAwareness]]
 [[EventDrivenRiskAssessment]]
@@ -38,6 +39,7 @@ Auto-extracted concept from raw material compilation.
 [[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[Memristive_Topology]]
+[[Nanoparticle_Network_Interconnect]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[ScalableNeuromorphicTopology]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[TCC]]
 [[TopologicalAndersonChernInsulator]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

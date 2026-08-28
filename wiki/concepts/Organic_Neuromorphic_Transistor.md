@@ -32,6 +32,7 @@ Auto-extracted concept from raw material compilation.
 [[EEGSpikeEncoding]]
 [[ErrorAmplificationLimits]]
 [[EventDrivenSynchronization]]
+[[FrequencyAdaptationMechanism]]
 [[Heterogeneous_Integration]]
 [[LatencyGradientDescent]]
 [[MolecularTargetSignaling]]

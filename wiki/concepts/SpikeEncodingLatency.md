@@ -30,6 +30,8 @@ Auto-extracted concept from raw material compilation.
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Integration]]
+[[Nonlinear_Gain]]
+[[OpenSource_Neuromorphic_Framework]]
 [[PhaseLockedTopologyMapping]]
 [[Real_Time_Neuromorphic_Constraint_Satisfaction]]
 [[Recurrent_Network_Homeostasis]]
@@ -44,7 +46,6 @@ Auto-extracted concept from raw material compilation.
 [[SynapticWeightPlasticity]]
 [[Synaptic_Plasticity]]
 [[iNEST]]
-[[iNEST_Neuromorphic_Integration]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
 
 ## Sources

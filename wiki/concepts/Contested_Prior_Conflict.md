@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveInferenceGenerativeModel]]
 [[ActiveInference]]
 [[ActiveSpikingPerception]]
+[[AttentionGuidedEntropy]]
 [[Complex_System_Theory]]
 [[Neuromorphic_Computing]]
 [[Nonlinear_Gain]]

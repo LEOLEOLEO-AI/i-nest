@@ -40,6 +40,8 @@ Auto-extracted concept from raw material compilation.
 [[NeuralNetworkSpectralAnalysis]]
 [[Neuromorphic_Acceleration]]
 [[Neuromorphic_Computing]]
+[[Nonlinear_Gain]]
+[[PopulationDensityApproximation]]
 [[RecursiveSelfReferentialArchitecture]]
 [[SNN]]
 [[Spike_Encoding_of_fMRI]]

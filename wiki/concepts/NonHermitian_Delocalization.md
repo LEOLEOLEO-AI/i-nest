@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[Chiplet_Heterogeneous_Integration]]
 [[Chiplet_Interconnect_Topology]]
 [[Cognitive_Relapse_Decoupling]]
+[[Complex_System_Theory]]
 [[Computation_Access_Routing]]
 [[CorticalWaveRouting]]
 [[Emergent_Topology_Adaptation]]
@@ -36,7 +37,9 @@ Auto-extracted concept from raw material compilation.
 [[Interconnect_Routing]]
 [[MagneticallyDopedTopologicalInsulator]]
 [[Network_Topology_Design]]
+[[OpportunisticRoutingRL]]
 [[OpportunisticRouting]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

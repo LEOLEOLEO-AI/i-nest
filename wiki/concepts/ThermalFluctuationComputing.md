@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Hyper_Dimensional_Computing]]
 [[InNetworkAgentRewiring]]
 [[Intelligence_Emergence]]
+[[JunctionCenteredFramework]]
 [[Memristive_Topology]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[Microbiome_Immune_Endocrine_Interplay]]
@@ -47,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

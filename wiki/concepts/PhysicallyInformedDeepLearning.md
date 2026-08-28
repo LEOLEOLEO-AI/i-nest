@@ -29,7 +29,9 @@ Auto-extracted concept from raw material compilation.
 [[Attention_Residuals]]
 [[BackpropFree_Learning]]
 [[BackpropagationFreeLearning]]
+[[Complex_System_Theory]]
 [[CorticalWaveRouting]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
 [[LLM_Driven_NoC_Control]]
 [[MetaFAIR_ArchitectureDiscovery]]
@@ -40,7 +42,9 @@ Auto-extracted concept from raw material compilation.
 [[Neuromorphic_Topology_Mapping]]
 [[Order_Flexibility_Duality]]
 [[TCC]]
+[[Topology_Centric_Interconnect]]
 [[iNEST]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

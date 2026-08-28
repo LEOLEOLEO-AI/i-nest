@@ -25,7 +25,9 @@ Auto-extracted concept from raw material compilation.
 [[Analog_Computation]]
 [[Bioavailability_Enhancement]]
 [[CST计量仪]]
+[[CollectiveConsensus]]
 [[CollectiveDynamics]]
+[[Complex_System_Theory]]
 [[Constructed_Reality_Interconnect]]
 [[ContextualReasoning]]
 [[Dynamic_Expert_Fusion]]
@@ -46,6 +48,7 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[vLLM_plugin_FLSDI]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

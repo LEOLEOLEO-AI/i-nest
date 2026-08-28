@@ -30,11 +30,15 @@ Auto-extracted concept from raw material compilation.
 [[AdiabaticModeEvolution]]
 [[AdjointWaveControl]]
 [[ArbitraryWavefunctionConfigurability]]
+[[Complex_System_Theory]]
 [[Critical_Region_Extension]]
 [[CrossbarFabricTopology]]
+[[ElectricFieldModulatedCoupling]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Synaptic_Plasticity]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

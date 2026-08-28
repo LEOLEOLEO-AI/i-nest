@@ -57,6 +57,7 @@ Auto-extracted concept from raw material compilation.
 [[SpatiotemporalComplexityIndex]]
 [[SystemLevelNonlinearity]]
 [[TCC]]
+[[TCC_iNEST_Interconnect]]
 [[TemperatureSensitivityControl]]
 [[TemporalComplexity]]
 [[Textbook_Paradigm_Definition]]

@@ -27,6 +27,7 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[CST_Equation]]
+[[CST计量仪]]
 [[Chiplet_Heterogeneous_Integration]]
 [[Complex_System_Theory]]
 [[Decoupled_Priors]]
@@ -49,7 +50,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[智造讲堂：智能制造与装备发展路径 (1)]]
-[[涌现动力学如何用来分析复杂系统？]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

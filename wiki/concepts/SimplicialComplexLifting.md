@@ -30,6 +30,7 @@ Auto-extracted concept from raw material compilation.
 [[3DGS_SplatPrimitive]]
 [[AI-ML — 全景导航 (Map of Content)]]
 [[AI_Supply_Chain_Increment]]
+[[Alpha_Coefficient_Phase_Transition_Amplification]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[Complex_System_Theory]]
 [[ERI_2_0_Strategy]]
@@ -48,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[TopologicalFeatureEmbedding]]
 [[complex system]]
 [[涌现]]
-[[涌现动力学如何用来分析复杂系统？]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

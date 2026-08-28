@@ -35,6 +35,7 @@ Auto-extracted concept from raw material compilation.
 [[Layered_Attractive_Hubbard_Model]]
 [[LeftRightAsymmetry]]
 [[MacroCriticalityEmergence]]
+[[Nanoencapsulation_Stability_Bioavailability]]
 [[Neuromorphic_Computing]]
 [[Reservoir_Computing]]
 [[SNN]]

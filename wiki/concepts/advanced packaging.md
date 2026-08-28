@@ -37,6 +37,8 @@ _待补充：定义、与 iNEST/TCC 体系的关系、关键文献。_
 [[Chip_Floorplanning]]
 [[CommunicationAwareComputeRelocation]]
 [[EntanglementAwareRouting]]
+[[Interconnect_Routing]]
+[[Packaging_Aware_NoC_Design]]
 [[RoutabilityDrivenFloorplanning]]
 [[TCC]]
 [[Translation_Invariant_Closure]]

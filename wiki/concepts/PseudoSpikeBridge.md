@@ -37,6 +37,7 @@ Auto-extracted concept from raw material compilation.
 [[FormalToolchain]]
 [[FrequencyAdaptationMechanism]]
 [[NeuralVariabilityEnhancement]]
+[[Neuromorphic_Planning_Revolution]]
 [[SNN]]
 [[Self_Organized_Criticality]]
 [[Spiking_Neural_Network]]

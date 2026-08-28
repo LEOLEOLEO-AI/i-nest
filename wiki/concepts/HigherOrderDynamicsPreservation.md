@@ -28,13 +28,17 @@ Auto-extracted concept from raw material compilation.
 [[Agile_Resilient_Defense_Ecosystem]]
 [[AssociativeMemoryTopology]]
 [[Attention_Residuals]]
+[[Complex_System_Theory]]
 [[DailyResearchDigest]]
 [[FermiSurfaceTopologySignature]]
 [[FixedOverheadFloor]]
+[[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[Neuromorphic_Computing]]
 [[P_Paradigm]]
+[[Personnel_Role_Assignment]]
 [[soc]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

@@ -26,6 +26,7 @@ Auto-extracted concept from raw material compilation.
 [[AIRA_NeuralArchSearch]]
 [[AI_Faculty_Forum_2026]]
 [[Analog_Computation]]
+[[CST计量仪]]
 [[Chip-Hardware — 全景导航 (Map of Content)]]
 [[ChipletWaferInterconnectCoDesign]]
 [[ChipletWaferInterconnectTopology]]
@@ -51,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[complex system]]
 [[iNEST]]
 [[temporalComplexity]]
+[[涌现]]
 [[神经网络]]
 
 ## Sources

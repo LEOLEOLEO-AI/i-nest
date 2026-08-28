@@ -28,6 +28,7 @@ Auto-extracted concept from raw material compilation.
 [[AI_Driven_Architecture_Search]]
 [[AI_Faculty_Forum_2026]]
 [[AstrocyteInspiredRepair]]
+[[BandedConnectivityModel]]
 [[Complex_System_Theory]]
 [[CooperativeEmergence]]
 [[Intelligence_Emergence]]

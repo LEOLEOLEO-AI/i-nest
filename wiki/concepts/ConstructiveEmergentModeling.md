@@ -28,12 +28,15 @@ Auto-extracted concept from raw material compilation.
 [[BigBrainCellularAxis]]
 [[Closed_Loop_Neuromodulation]]
 [[Cognitive_Relapse_Decoupling]]
+[[Complex_System_Theory]]
 [[Core_Spacetime_Tensor]]
+[[Defect_Mediated_Transport]]
 [[Emergent_Intelligence_Roadmap]]
 [[GutBrainAxis_Reprogramming]]
 [[Intelligence_Emergence]]
 [[Network_Topology_Design]]
 [[TCC]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

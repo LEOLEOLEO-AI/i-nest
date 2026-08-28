@@ -31,7 +31,7 @@ Auto-extracted concept from raw material compilation.
 [[Network_on_Chip]]
 [[Neuromorphic_Computing]]
 [[Neuromorphic_Topology_Mapping]]
-[[NoC_SDI_Integration]]
+[[NoC_SDI]]
 [[OpticalNeuralNetworkTopology]]
 [[PhononicBandgapEngineering]]
 [[PinAssignmentOptimization]]

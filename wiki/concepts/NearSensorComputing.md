@@ -34,7 +34,9 @@ Auto-extracted concept from raw material compilation.
 [[Free_Energy_Principle_Network]]
 [[GraphBasedSemanticRouting]]
 [[Heterogeneous_Integration]]
+[[Intelligence_Emergence]]
 [[Interconnect_Routing]]
+[[MemoryDrivenRouting]]
 [[Memristive_Interconnect]]
 [[Mesoscale_Heterogeneous_Integration]]
 [[NCL神经计算定律详解]]
@@ -50,6 +52,7 @@ Auto-extracted concept from raw material compilation.
 [[chiplet interconnect]]
 [[complex system]]
 [[temporalComplexity]]
+[[涌现]]
 
 ## Sources
 - See wiki/articles/ for source article summaries

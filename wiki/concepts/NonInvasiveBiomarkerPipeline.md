@@ -29,6 +29,7 @@ Auto-extracted concept from raw material compilation.
 [[AdaptiveDeltaPulseFrequencyEncoding]]
 [[AmoebaInspiredLocomotion]]
 [[Avoided_Criticality]]
+[[CriticalityDrivenStateTransition]]
 [[Criticality]]
 [[Interconnect_Routing]]
 [[MoE_Routing]]

@@ -23,6 +23,8 @@ Auto-extracted concept from raw material compilation.
 [[Allreduce_Latency_Probe]]
 [[Architectural_Conditioning]]
 [[Bidirectional_Temporal_Enhancement]]
+[[CIMWeightUpdateAwareness]]
+[[Complex_System_Theory]]
 [[ConductingPolymerDendriteMemory]]
 [[Emergent_Intelligence_Threshold]]
 [[EventDrivenPlasticity]]
@@ -47,7 +49,6 @@ Auto-extracted concept from raw material compilation.
 [[iNEST]]
 [[neuromorphic computing]]
 [[neuromorphic interconnect]]
-[[spiking neural network dynamics]]
 [[spiking neural network]]
 [[类脑芯片]]
 

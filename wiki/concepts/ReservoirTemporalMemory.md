@@ -40,6 +40,7 @@ Auto-extracted concept from raw material compilation.
 [[SDI_STDP_Regulation]]
 [[STDP_Plasticity]]
 [[Synaptic_Plasticity]]
+[[UniversalIntelligence_Emergence]]
 [[iNEST]]
 
 ## Sources

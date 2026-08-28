@@ -23,6 +23,7 @@ Auto-extracted concept from raw material compilation.
 [[ActiveDendriteSNN]]
 [[AdaptiveEntanglementManagement]]
 [[BackflowTransformation]]
+[[CorticalWaveRouting]]
 [[DimensionSeparation_IntensiveExtensive]]
 [[EventDrivenFunctionalConnectivity]]
 [[FPGA_Accelerated_SNN]]

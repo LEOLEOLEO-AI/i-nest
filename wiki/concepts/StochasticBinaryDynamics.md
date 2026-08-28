@@ -36,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[Loihi2_OnChip_Learning]]
 [[MultibodyInteractionCascade]]
 [[NeuralNetworkSpectralAnalysis]]
+[[NeuromorphicHardwareDeployment]]
 [[NeuromorphicHardware]]
 [[Neuromorphic_Computing]]
 [[RecursiveSelfReferentialArchitecture]]

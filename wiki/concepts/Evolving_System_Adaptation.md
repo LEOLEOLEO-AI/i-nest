@@ -20,6 +20,7 @@ Auto-extracted concept from raw material compilation.
 ## Related Work
 
 [[04 混沌与非线性：规则已知，却不可预测？ - 得到APP]]
+[[2_5D_PIM_Chiplet_Integration]]
 [[3DHI_Stacking]]
 [[3D_Heterogeneous_Integration]]
 [[AINext_Initiative]]
@@ -35,6 +36,7 @@ Auto-extracted concept from raw material compilation.
 [[MemristiveReservoirBranchPrediction]]
 [[Memristive_Topology]]
 [[Network_Topology_Design]]
+[[Nonlinear_Gain]]
 [[OnDeviceInference]]
 [[PowerLawScaling]]
 [[Readout_Layer_Training]]
